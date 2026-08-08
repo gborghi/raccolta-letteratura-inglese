@@ -13,7 +13,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/faith-providence-divine-love#1262_i_cannot_see_my_soul_but_know_tis_there|1262. I cannot see my soul but know 'tis there (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love--poems#cannot_see_my_soul_but_know_tis_there|1262. I cannot see my soul but know 'tis there (Dickinson)]]
 
 </div>
 

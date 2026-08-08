@@ -16,10 +16,10 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#1515_the_things_that_never_can_come_back_are_several|1515. The Things that never can come back, are several — (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#1659_fame_is_a_fickle_food|1659. Fame is a fickle food (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#0534_we_see_comparatively|534. We see — Comparatively — (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#0981_as_sleigh_bells_seem_in_summer|981. As Sleigh Bells seem in summer (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem--poems#e_things_that_never_can_come_back_are_several|1515. The Things that never can come back, are several — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem--poems#me_is_a_fickle_food|1659. Fame is a fickle food (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem--poems#_see_comparatively|534. We see — Comparatively — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem--poems#_sleigh_bells_seem_in_summer|981. As Sleigh Bells seem in summer (Dickinson)]]
 - [[works/burbank-with-a-baedeker-bleistein-with-a-cigar-(eliot)|Burbank with a Baedeker Bleistein with a Cigar (Eliot)]]
 - [[works/for-a-war-memorial-(chesterton)|For a War Memorial (Chesterton)]]
 - [[works/lune-de-miel-(eliot)|Lune de Miel (Eliot)]]

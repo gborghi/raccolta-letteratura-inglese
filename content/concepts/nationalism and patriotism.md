@@ -103,7 +103,7 @@ tags:
 - [[works/to-earl-stanhope-(coleridge)|TO EARL STANHOPE (Coleridge)]]
 - [[works/to-lord-stanhope-(coleridge)|TO LORD STANHOPE (Coleridge)]]
 - [[works/to-richard-brinsley-sheridan,-esq.-(coleridge)|TO RICHARD BRINSLEY SHERIDAN, ESQ. (Coleridge)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1511_my_country_need_not_change_her_gown|1511. My country need not change her gown, (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--poems#_country_need_not_change_her_gown|1511. My country need not change her gown, (Dickinson)]]
 - [[works/defence-of-the-islands-(eliot)|Defence of the Islands (Eliot)]]
 - [[works/occasional-verses-(eliot)|OCCASIONAL VERSES (Eliot)]]
 - [[works/happy-is-england!-i-could-be-content-(keats)|HAPPY IS ENGLAND! I COULD BE CONTENT (Keats)]]

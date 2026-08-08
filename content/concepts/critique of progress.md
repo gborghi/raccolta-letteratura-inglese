@@ -126,7 +126,7 @@ tags:
 - [[works/a-child's-history-of-england-(dickens)|A Child's History of England (Dickens)]]
 - [[works/american-notes-(dickens)|American Notes (Dickens)]]
 - [[works/hard-times-(dickens)|Hard Times (Dickens)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0070_arcturus_is_his_other_name|70. Arcturus is his other name — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order--poems#cturus_is_his_other_name|70. Arcturus is his other name — (Dickinson)]]
 - [[works/at-graduation-1905-(eliot)|At Graduation 1905 (Eliot)]]
 - [[works/choruses-from-‘the-rock’-1934-(eliot)|CHORUSES FROM ‘THE ROCK’ 1934 (Eliot)]]
 - [[works/cousin-nancy-(eliot)|Cousin Nancy (Eliot)]]

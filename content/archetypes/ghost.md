@@ -24,7 +24,7 @@ tags:
 - [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
 - [[works/the-chimes-(dickens)|The Chimes (Dickens)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#0445_twas_just_this_time_last_year_i_died|445. 'Twas just this time, last year, I died. (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn--poems#as_just_this_time_last_year_i_died|445. 'Twas just this time, last year, I died. (Dickinson)]]
 - [[works/little-gidding-(eliot)|Little Gidding (Eliot)]]
 - [[works/the-elder-statesman-(eliot)|THE ELDER STATESMAN (Eliot)]]
 - [[works/the-family-reunion-(eliot)|THE FAMILY REUNION (Eliot)]]

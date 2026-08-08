@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mrs. Todd, September, 1885](/testi/dickinson/atomized/faith-providence-divine-love#l0531_mrs_todd_september_1885)
+- [To Mrs. Todd, September, 1885](/testi/dickinson/atomized/faith-providence-divine-love--letters#_todd_september_1885)
 

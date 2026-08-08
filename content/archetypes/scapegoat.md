@@ -18,7 +18,7 @@ tags:
 - [[works/fourfaultlessfelons-(chesterton)|FourFaultlessFelons (Chesterton)]]
 - [[works/sword-(chesterton)|Sword (Chesterton)]]
 - [[works/american-morals-(chesterton)|american-morals (Chesterton)]]
-- [[testi/dickinson/atomized/death-silence-bells#1757_upon_the_gallows_hung_a_wretch|1757. Upon the gallows hung a wretch, (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells--poems#on_the_gallows_hung_a_wretch|1757. Upon the gallows hung a wretch, (Dickinson)]]
 - [[works/the-merchant-of-venice-(shakespeare)|THE MERCHANT OF VENICE (Shakespeare)]]
 - [[works/beginners-(whitman)|Beginners (Whitman)]]
 - [[works/de-profundis-(wilde)|De Profundis (Wilde)]]

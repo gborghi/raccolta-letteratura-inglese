@@ -50,7 +50,7 @@ tags:
 - [[works/a-child's-history-of-england-(dickens)|A Child's History of England (Dickens)]]
 - [[works/a-christmas-carol-(dickens)|A Christmas Carol (Dickens)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1128_these_are_the_nights_that_beetles_love|1128. These are the Nights that Beetles love — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm--poems#ese_are_the_nights_that_beetles_love|1128. These are the Nights that Beetles love — (Dickinson)]]
 - [[works/circe’s-palace-(eliot)|Circe’s Palace (Eliot)]]
 - [[works/dans-le-restaurant-(eliot)|Dans le Restaurant (Eliot)]]
 - [[works/hysteria-(eliot)|Hysteria (Eliot)]]

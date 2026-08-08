@@ -16,8 +16,8 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0010_my_wheel_is_in_the_dark|10. My wheel is in the dark! (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0320_we_play_at_paste|320. We play at Paste — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance--poems#_wheel_is_in_the_dark|10. My wheel is in the dark! (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance--poems#_play_at_paste|320. We play at Paste — (Dickinson)]]
 - [[works/at-graduation-1905-(eliot)|At Graduation 1905 (Eliot)]]
 - [[works/a-fragment-found-in-a-lecture-room-(coleridge)|A FRAGMENT FOUND IN A LECTURE-ROOM (Coleridge)]]
 - [[works/agnes-grey-(bronte)|Agnes Grey (Bronte)]]

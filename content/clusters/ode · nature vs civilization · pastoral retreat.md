@@ -16,10 +16,10 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1441_these_fevered_days_to_take_them_to_the_forest|1441. These Fevered Days — to take them to the Forest (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0333_the_grass_so_little_has_to_do|333. The Grass so little has to do — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0495_its_thoughts_and_just_one_heart|495. It's thoughts — and just One Heart — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0070_arcturus_is_his_other_name|70. Arcturus is his other name — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order--poems#ese_fevered_days_to_take_them_to_the_forest|1441. These Fevered Days — to take them to the Forest (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order--poems#e_grass_so_little_has_to_do|333. The Grass so little has to do — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order--poems#s_thoughts_and_just_one_heart|495. It's thoughts — and just One Heart — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order--poems#cturus_is_his_other_name|70. Arcturus is his other name — (Dickinson)]]
 - [[works/a-wish-(coleridge)|A WISH (Coleridge)]]
 - [[works/as-you-like-it-(shakespeare)|AS YOU LIKE IT (Shakespeare)]]
 - [[works/baron-guelph-of-adelstan.-a-fragment-(coleridge)|BARON GUELPH OF ADELSTAN. A FRAGMENT (Coleridge)]]

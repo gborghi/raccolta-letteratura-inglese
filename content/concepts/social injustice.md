@@ -69,7 +69,7 @@ tags:
 - [[works/sketches-by-boz-(dickens)|Sketches by Boz (Dickens)]]
 - [[works/the-chimes-(dickens)|The Chimes (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- [[testi/dickinson/atomized/child-orphan#0717_the_beggar_lad_dies_early|717. The Beggar Lad — dies early — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan--poems#e_beggar_lad_dies_early|717. The Beggar Lad — dies early — (Dickinson)]]
 - [[works/ii-thus-your-fathers-were-made-(eliot)|II Thus your fathers were made (Eliot)]]
 - [[works/le-directeur-(eliot)|Le Directeur (Eliot)]]
 - [[works/isabella-(keats)|ISABELLA (Keats)]]

@@ -16,8 +16,8 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1239_risk_is_the_hair_that_holds_the_tun|1239. Risk is the Hair that holds the Tun (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1479_the_devil_had_he_fidelity|1479. The Devil — had he fidelity (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence--poems#sk_is_the_hair_that_holds_the_tun|1239. Risk is the Hair that holds the Tun (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence--poems#e_devil_had_he_fidelity|1479. The Devil — had he fidelity (Dickinson)]]
 - [[works/aristocrat-(chesterton)|aristocrat (Chesterton)]]
 - [[works/bon-bon-(poe)|Bon-Bon (Poe)]]
 - [[works/chanting-the-square-deific-(whitman)|Chanting the Square Deific (Whitman)]]

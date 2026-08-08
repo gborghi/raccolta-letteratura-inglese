@@ -16,12 +16,12 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/friendship-tears#1156_lest_any_doubt_that_we_are_glad_that_they_were_born_today|1156. Lest any doubt that we are glad that they were born Today (Dickinson)]]
-- [[testi/dickinson/atomized/friendship-tears#0118_my_friend_attacks_my_friend|118. My friend attacks my friend! (Dickinson)]]
-- [[testi/dickinson/atomized/friendship-tears#0014_one_sister_have_i_in_our_house|14. One Sister have I in our house, (Dickinson)]]
-- [[testi/dickinson/atomized/friendship-tears#1568_to_see_her_is_a_picture|1568. To see her is a Picture — (Dickinson)]]
-- [[testi/dickinson/atomized/friendship-tears#0222_when_katie_walks_this_simple_pair_accompany_her_side|222. When Katie walks, this simple pair accompany her side, (Dickinson)]]
-- [[testi/dickinson/atomized/friendship-tears#0023_i_had_a_guinea_golden|23. I had a guinea golden — (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears--poems#st_any_doubt_that_we_are_glad_that_they_were_born_today|1156. Lest any doubt that we are glad that they were born Today (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears--poems#_friend_attacks_my_friend|118. My friend attacks my friend! (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears--poems#e_sister_have_i_in_our_house|14. One Sister have I in our house, (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears--poems#_see_her_is_a_picture|1568. To see her is a Picture — (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears--poems#en_katie_walks_this_simple_pair_accompany_her_side|222. When Katie walks, this simple pair accompany her side, (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears--poems#had_a_guinea_golden|23. I had a guinea golden — (Dickinson)]]
 - [[works/acrostic-(keats)|Acrostic (Keats)]]
 - [[works/an-ode-to-the-rain-(coleridge)|AN ODE TO THE RAIN (Coleridge)]]
 - [[works/duty-surviving-self-love-the-only-sure-friend-of-declining-life-(coleridge)|DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE (Coleridge)]]

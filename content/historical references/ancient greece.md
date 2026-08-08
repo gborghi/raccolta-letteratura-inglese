@@ -27,7 +27,7 @@ tags:
 - [[works/profuse-kindness-(coleridge)|PROFUSE KINDNESS (Coleridge)]]
 - [[works/translation-of-a-fragment-of-heraclitus-(coleridge)|TRANSLATION OF A FRAGMENT OF HERACLITUS (Coleridge)]]
 - [[works/translation-of-the-first-strophe-of-pindar’s-second-olympic-(coleridge)|TRANSLATION OF THE FIRST STROPHE OF PINDAR’S SECOND OLYMPIC (Coleridge)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1554_go_tell_it_what_a_message|1554. Go tell it — What a Message — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--poems#_tell_it_what_a_message|1554. Go tell it — What a Message — (Dickinson)]]
 - [[works/on-seeing-the-elgin-marbles-(keats)|On Seeing the Elgin Marbles (Keats)]]
 - [[works/hymn-to-aristogeiton-and-harmodius-(poe)|Hymn to Aristogeiton and Harmodius (Poe)]]
 - [[works/the-two-noble-kinsmen-(shakespeare)|THE TWO NOBLE KINSMEN (Shakespeare)]]

@@ -16,9 +16,9 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1152_tell_as_a_marksman_were_forgotten|1152. Tell as a Marksman — were forgotten (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0540_i_took_my_power_in_my_hand|540. I took my Power in my Hand — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0754_my_life_had_stood_a_loaded_gun|754. My Life had stood — a Loaded Gun — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--poems#ll_as_a_marksman_were_forgotten|1152. Tell as a Marksman — were forgotten (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--poems#took_my_power_in_my_hand|540. I took my Power in my Hand — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--poems#_life_had_stood_a_loaded_gun|754. My Life had stood — a Loaded Gun — (Dickinson)]]
 - [[works/as-i-lay-with-my-head-in-your-lap-camerado-(whitman)|As I Lay with My Head in Your Lap Camerado (Whitman)]]
 - [[works/coriolan-(eliot)|Coriolan (Eliot)]]
 - [[works/destruction-of-the-bastile-(coleridge)|DESTRUCTION OF THE BASTILE (Coleridge)]]

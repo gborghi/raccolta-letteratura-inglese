@@ -25,7 +25,7 @@ tags:
 - [[works/our-mutual-friend-(dickens)|Our Mutual Friend (Dickens)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0394_twas_love_not_me|394. 'Twas Love — not me — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan--poems#as_love_not_me|394. 'Twas Love — not me — (Dickinson)]]
 - [[testi/dickinson/atomized/terror-and-horror-madness#0532_i_tried_to_think_a_lonelier_thing|532. I tried to think a lonelier Thing (Dickinson)]]
 - [[testi/dickinson/atomized/terror-and-horror-madness#0670_one_need_not_be_a_chamber_to_be_haunted|670. One need not be a Chamber — to be Haunted — (Dickinson)]]
 - [[testi/dickinson/atomized/terror-and-horror-madness#0683_the_soul_unto_itself|683. The Soul unto itself (Dickinson)]]

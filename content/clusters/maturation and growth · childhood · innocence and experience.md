@@ -16,12 +16,12 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/child-orphan#1201_so_i_pull_my_stockings_off|1201. So I pull my Stockings off (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#0454_it_was_given_to_me_by_the_gods|454. It was given to me by the Gods — (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#0467_we_do_not_play_on_graves|467. We do not play on Graves — (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#0568_we_learned_the_whole_of_love|568. We learned the Whole of Love — (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#0687_ill_send_the_feather_from_my_hat|687. I'll send the feather from my Hat! (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#0728_let_us_play_yesterday|728. Let Us play Yesterday — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan--poems#_i_pull_my_stockings_off|1201. So I pull my Stockings off (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan--poems#_was_given_to_me_by_the_gods|454. It was given to me by the Gods — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan--poems#_do_not_play_on_graves|467. We do not play on Graves — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan--poems#_learned_the_whole_of_love|568. We learned the Whole of Love — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan--poems#l_send_the_feather_from_my_hat|687. I'll send the feather from my Hat! (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan--poems#t_us_play_yesterday|728. Let Us play Yesterday — (Dickinson)]]
 - [[works/a-child’s-evening-prayer-(coleridge)|A CHILD’S EVENING PRAYER (Coleridge)]]
 - [[works/a-song-about-myself-(keats)|A Song About Myself (Keats)]]
 - [[works/animula-(eliot)|Animula (Eliot)]]

@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To the Misses, March, 1886](/testi/dickinson/atomized/nature-book-of-nature-natural-order#l0533_the_misses_march_1886)
+- [To the Misses, March, 1886](/testi/dickinson/atomized/nature-book-of-nature-natural-order--letters#_misses_march_1886)
 

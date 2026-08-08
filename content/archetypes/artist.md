@@ -20,7 +20,7 @@ tags:
 - [[works/chalk-(chesterton)|chalk (Chesterton)]]
 - [[works/gargoyles-(chesterton)|gargoyles (Chesterton)]]
 - [[works/intro-love-and-freindship-(chesterton)|intro-love-and-freindship (Chesterton)]]
-- [[testi/dickinson/atomized/alienation-outsider-exile#1275_the_spider_as_an_artist|1275. The Spider as an Artist (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile--poems#e_spider_as_an_artist|1275. The Spider as an Artist (Dickinson)]]
 - [[works/the-mind-of-the-maker-(sayers)|The Mind of the Maker (Sayers)]]
 - [[works/the-missing-masterpiece-(belloc)|The Missing Masterpiece (Belloc)]]
 

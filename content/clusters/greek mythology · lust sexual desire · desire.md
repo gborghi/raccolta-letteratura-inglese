@@ -16,13 +16,13 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1282_art_thou_the_thing_i_wanted|1282. Art thou the thing I wanted (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1291_until_the_desert_knows|1291. Until the Desert knows (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1301_i_cannot_want_it_more|1301. I cannot want it more — (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1430_who_never_wanted_maddest_joy|1430. Who never wanted — maddest Joy (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0355_tis_opposites_entice|355. 'Tis Opposites — entice — (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0506_he_touched_me_so_i_live_to_know|506. He touched me, so I live to know (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0872_as_the_starved_maelstrom_laps_the_navies|872. As the Starved Maelstrom laps the Navies (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity--poems#t_thou_the_thing_i_wanted|1282. Art thou the thing I wanted (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity--poems#til_the_desert_knows|1291. Until the Desert knows (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity--poems#cannot_want_it_more|1301. I cannot want it more — (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity--poems#o_never_wanted_maddest_joy|1430. Who never wanted — maddest Joy (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity--poems#s_opposites_entice|355. 'Tis Opposites — entice — (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity--poems#_touched_me_so_i_live_to_know|506. He touched me, so I live to know (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity--poems#_the_starved_maelstrom_laps_the_navies|872. As the Starved Maelstrom laps the Navies (Dickinson)]]
 - [[works/al-aaraaf-(poe)|Al Aaraaf (Poe)]]
 - [[works/alla-sua-amica-(coleridge)|ALLA SUA AMICA (Coleridge)]]
 - [[works/an-ode-in-the-manner-of-anacreon-(coleridge)|AN ODE IN THE MANNER OF ANACREON (Coleridge)]]

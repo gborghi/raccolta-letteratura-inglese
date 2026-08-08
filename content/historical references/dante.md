@@ -27,7 +27,7 @@ tags:
 - [[works/turnpikes-(chesterton)|turnpikes (Chesterton)]]
 - [[works/apologetic-preface-to-‘fire,-famine,-and-slaughter’-(coleridge)|APOLOGETIC PREFACE TO ‘FIRE, FAMINE, AND SLAUGHTER’ (Coleridge)]]
 - [[works/reason-(coleridge)|REASON (Coleridge)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0371_a_precious_mouldering_pleasure_tis|371. A precious — mouldering pleasure — 'tis — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance--poems#precious_mouldering_pleasure_tis|371. A precious — mouldering pleasure — 'tis — (Dickinson)]]
 - [[works/collected-poems-1909–1962-(eliot)|COLLECTED POEMS 1909–1962 (Eliot)]]
 - [[works/four-quartets-(eliot)|FOUR QUARTETS (Eliot)]]
 - [[works/i.-the-burial-of-the-dead-(eliot)|I. The Burial of the Dead (Eliot)]]

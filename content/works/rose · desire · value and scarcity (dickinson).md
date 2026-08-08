@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mrs. F.S. Cooper](/testi/dickinson/atomized/rose-desire-value-and-scarcity#l0424_mrs_fs_cooper)
+- [To Mrs. F.S. Cooper](/testi/dickinson/atomized/rose-desire-value-and-scarcity--letters#_fs_cooper)
 

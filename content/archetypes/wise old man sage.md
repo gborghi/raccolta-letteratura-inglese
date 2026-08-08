@@ -24,7 +24,7 @@ tags:
 - [[works/everlasting-man-(chesterton)|everlasting man (Chesterton)]]
 - [[works/gargoyles-(chesterton)|gargoyles (Chesterton)]]
 - [[works/queertrades-(chesterton)|queertrades (Chesterton)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0975_the_mountain_sat_upon_the_plain|975. The Mountain sat upon the Plain (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order--poems#e_mountain_sat_upon_the_plain|975. The Mountain sat upon the Plain (Dickinson)]]
 - [[works/a-song-for-simeon-(eliot)|A Song for Simeon (Eliot)]]
 - [[works/old-deuteronomy-(eliot)|Old Deuteronomy (Eliot)]]
 - [[works/the-tempest-(shakespeare)|THE TEMPEST (Shakespeare)]]

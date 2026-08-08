@@ -16,8 +16,8 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0116_i_had_some_things_that_i_called_mine|116. I had some things that I called mine — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0353_a_happy_lip_breaks_sudden|353. A happy lip — breaks sudden — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems#had_some_things_that_i_called_mine|116. I had some things that I called mine — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems#happy_lip_breaks_sudden|353. A happy lip — breaks sudden — (Dickinson)]]
 - [[works/fourfaultlessfelons-(chesterton)|FourFaultlessFelons (Chesterton)]]
 - [[works/incredulity-(chesterton)|Incredulity (Chesterton)]]
 - [[works/innocence-(chesterton)|innocence (Chesterton)]]

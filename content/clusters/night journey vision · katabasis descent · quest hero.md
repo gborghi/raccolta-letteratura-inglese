@@ -16,7 +16,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1103_the_spry_arms_of_the_wind|1103. The spry Arms of the Wind (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--poems#e_spry_arms_of_the_wind|1103. The spry Arms of the Wind (Dickinson)]]
 - [[works/a-descent-into-the-maelstrom-(poe)|A Descent Into the Maelstrom (Poe)]]
 - [[works/dream-land-(poe)|Dream-Land (Poe)]]
 - [[works/eldorado-(poe)|Eldorado (Poe)]]

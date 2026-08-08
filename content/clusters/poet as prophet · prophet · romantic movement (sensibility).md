@@ -16,8 +16,8 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0441_this_is_my_letter_to_the_world|441. This is my letter to the World (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0569_i_reckon_when_i_count_it_all|569. I reckon — when I count it all — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet--poems#is_is_my_letter_to_the_world|441. This is my letter to the World (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet--poems#reckon_when_i_count_it_all|569. I reckon — when I count it all — (Dickinson)]]
 - [[works/ad-vilmum-axiologum-(coleridge)|AD VILMUM AXIOLOGUM (Coleridge)]]
 - [[works/addressed-to-the-same-(keats)|ADDRESSED TO THE SAME (Keats)]]
 - [[works/argument-(coleridge)|ARGUMENT (Coleridge)]]

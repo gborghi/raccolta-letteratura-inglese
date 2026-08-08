@@ -13,7 +13,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1293_the_things_we_thought_that_we_should_do|1293. The things we thought that we should do (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--poems#e_things_we_thought_that_we_should_do|1293. The things we thought that we should do (Dickinson)]]
 
 </div>
 

@@ -36,7 +36,7 @@ tags:
 - [[works/the-piccolomini-(coleridge)|THE PICCOLOMINI (Coleridge)]]
 - [[works/the-tears-of-a-grateful-people-(coleridge)|THE TEARS OF A GRATEFUL PEOPLE (Coleridge)]]
 - [[works/zapolya-a-christmas-tale-in-two-parts-(coleridge)|ZAPOLYA A CHRISTMAS TALE IN TWO PARTS (Coleridge)]]
-- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0356_the_day_that_i_was_crowned|356. The Day that I was crowned (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel--poems#e_day_that_i_was_crowned|356. The Day that I was crowned (Dickinson)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
 - [[works/king-stephen-(keats)|King Stephen (Keats)]]
 - [[works/otho-the-great-(keats)|Otho the Great (Keats)]]

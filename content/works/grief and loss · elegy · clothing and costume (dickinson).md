@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mr. C. H. Clark, April 15, 1886](/testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#l0536_mr_c_h_clark_april_15_1886)
+- [To Mr. C. H. Clark, April 15, 1886](/testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume--letters#c_h_clark_april_15_1886)
 

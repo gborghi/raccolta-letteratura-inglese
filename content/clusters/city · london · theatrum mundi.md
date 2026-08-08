@@ -16,7 +16,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0741_dramas_vitallest_expression_is_the_common_day|741. Drama's Vitallest Expression is the Common Day (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems#amas_vitallest_expression_is_the_common_day|741. Drama's Vitallest Expression is the Common Day (Dickinson)]]
 - [[works/an-ideal-husband-(wilde)|An Ideal Husband (Wilde)]]
 - [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
 - [[works/broadway-(whitman)|Broadway (Whitman)]]

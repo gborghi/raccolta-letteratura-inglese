@@ -21,7 +21,7 @@ tags:
 - [[works/spice-of-life-(chesterton)|Spice Of Life (Chesterton)]]
 - [[works/the-uses-of-diversity-(chesterton)|The Uses of Diversity (Chesterton)]]
 - [[works/nightmare-(chesterton)|nightmare (Chesterton)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0531_we_dream_it_is_good_we_are_dreaming|531. We dream — it is good we are dreaming — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--poems#_dream_it_is_good_we_are_dreaming|531. We dream — it is good we are dreaming — (Dickinson)]]
 - [[works/sonnet-to-the-nile-(keats)|Sonnet to the Nile (Keats)]]
 - [[works/shadow-a-parable-(poe)|Shadow-A Parable (Poe)]]
 - [[works/some-words-with-a-mummy-(poe)|Some Words with a Mummy (Poe)]]

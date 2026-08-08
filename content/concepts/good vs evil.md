@@ -40,7 +40,7 @@ tags:
 - [[works/nicholas-nickleby-(dickens)|Nicholas Nickleby (Dickens)]]
 - [[works/oliver-twist-(dickens)|Oliver Twist (Dickens)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
-- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0139_soul_wilt_thou_toss_again|139. Soul, Wilt thou toss again (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist--poems#ul_wilt_thou_toss_again|139. Soul, Wilt thou toss again (Dickinson)]]
 - [[works/iv-there-are-those-who-would-build-the-temple-(eliot)|IV There are those who would build the Temple (Eliot)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
 - [[works/vii-in-the-beginning-god-created-the-world-(eliot)|VII In the beginning god created the world (Eliot)]]

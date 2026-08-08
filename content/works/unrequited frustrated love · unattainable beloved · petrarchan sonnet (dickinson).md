@@ -39,5 +39,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mr. Theodore Holland](/testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#l0512_mr_theodore_holland)
+- [To Mr. Theodore Holland](/testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan--letters#theodore_holland)
 

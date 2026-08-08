@@ -648,38 +648,57 @@ async function publishUnits(
         byWork.get(workDir).push(relU)
       }
 
+      // For Dickinson Atomized clusters, detect mixed poem/letter directories and
+      // split them into TWO SPAs so poems and letters don't share the same reader page.
+      // The file-name convention is: numeric prefix = poem, "L" prefix = letter.
       for (const [workDir, relList] of byWork) {
-        // Resolve the parent work note (by raw-source basename, else normalized).
-        // Author-qualified first (see addKey): same-named cluster dirs across poets.
-        const aKey = authorName.toLowerCase()
-        const parentWorkHref =
-          rawSourceToWork.get(`${aKey}|${workDir}`) ||
-          rawSourceToWork.get(`${aKey}|${normWorkKey(workDir)}`) ||
-          rawSourceToWork.get(workDir) ||
-          rawSourceToWork.get(normWorkKey(workDir)) ||
-          null
-        // Order units: the work-level file first, then by (path, order).
-        const items = relList.map((relU) => {
-          const segs = relU.split("/")
-          const fileName = segs[segs.length - 1]
-          const { unitType, order } = classifyUnit(segs, fileName)
-          const slug = sluggify(`${TESTI_REL}/${author}/${sub}/${relU}`.replace(/\.md$/, ""))
-          return { relU, segs, fileName, unitType, order, slug }
-        })
-        items.sort((a, b) => {
-          if (a.unitType === "work" && b.unitType !== "work") return -1
-          if (b.unitType === "work" && a.unitType !== "work") return 1
-          // Order by the full relative path with NUMERIC collation, so chapters and their parts
-          // interleave in reading order regardless of granularity. Keying on the parent directory
-          // (the old approach) grouped whole-chapter atoms — short chapters with no subparts —
-          // ahead of every subpart atom, which put The Everlasting Man's two appendices (Ch18/19,
-          // unsplit) right after Ch01, before Ch02. relU numeric compare fixes mixed granularity
-          // and is identical to the old result for uniform works.
-          return a.relU.localeCompare(b.relU, undefined, { numeric: true })
-        })
+        const _makeWorkSplits = (wd, rl) => {
+          if (author !== "Dickinson" || sub !== "Atomized") return [[wd, rl, ""]]
+          const files = rl.map((r) => r.split(/[/\\]/).pop()).filter((f) => f.endsWith(".md") && !f.endsWith(".it.md"))
+          const hasP = files.some((f) => /^[0-9]/.test(f))
+          const hasL = files.some((f) => /^L/.test(f))
+          if (!hasP || !hasL) return [[wd, rl, ""]]
+          return [
+            [wd + "--poems", rl, "poems"],
+            [wd + "--letters", rl, "letters"],
+          ]
+        }
+        const workSplits = _makeWorkSplits(workDir, relList)
+        for (const [_effectiveWorkDir, _splitRelList, _splitKind] of workSplits) {
+          const effectiveWorkDir = _effectiveWorkDir
+          const splitKind = _splitKind // "poems" | "letters" | ""
+          // Resolve the parent work note (by raw-source basename, else normalized).
+          // Author-qualified first (see addKey): same-named cluster dirs across poets.
+          const aKey = authorName.toLowerCase()
+          const parentWorkHref =
+            rawSourceToWork.get(`${aKey}|${workDir}`) ||
+            rawSourceToWork.get(`${aKey}|${normWorkKey(workDir)}`) ||
+            rawSourceToWork.get(workDir) ||
+            rawSourceToWork.get(normWorkKey(workDir)) ||
+            null
+          // Order units: the work-level file first, then by (path, order).
+          const _allItems = relList.map((relU) => {
+            const segs = relU.split("/")
+            const fileName = segs[segs.length - 1]
+            const { unitType, order } = classifyUnit(segs, fileName)
+            const slug = sluggify(`${TESTI_REL}/${author}/${sub}/${relU}`.replace(/\.md$/, ""))
+            return { relU, segs, fileName, unitType, order, slug }
+          })
+          _allItems.sort((a, b) => {
+            if (a.unitType === "work" && b.unitType !== "work") return -1
+            if (b.unitType === "work" && a.unitType !== "work") return 1
+            return a.relU.localeCompare(b.relU, undefined, { numeric: true })
+          })
+          // For split Dickinson clusters, filter to poems or letters only.
+          const items =
+            splitKind === "poems"
+              ? _allItems.filter((it) => /^[0-9]/.test(it.fileName))
+              : splitKind === "letters"
+                ? _allItems.filter((it) => /^L/.test(it.fileName))
+                : _allItems
 
-        // Register hrefs first (so prev/next + link rewrite can see all of them).
-        for (const it of items) {
+          // Register hrefs first (so prev/next + link rewrite can see all of them).
+          for (const it of items) {
           const authPath = `Authors/${author}/${sub}/${it.relU}`
           unitHref.set(authPath, it.slug)
           unitHref.set(authPath.replace(/\.md$/, ""), it.slug)
@@ -708,10 +727,13 @@ async function publishUnits(
 
         // ---- SPA mode: emit ONE page per work (atoms behind atom-split markers) ----
         if (SPA) {
-          const workSlug = sluggify(`${TESTI_REL}/${author}/${sub}/${workDir}`)
+          const workSlug = sluggify(`${TESTI_REL}/${author}/${sub}/${effectiveWorkDir}`)
           if (parentWorkHref) readHrefByWork.set(parentWorkHref, workSlug)
-          const wt = workTitle(author, workDir)
-          const workLabel = wt || workDir.replace(/_/g, " ")
+          const wt = workTitle(author, effectiveWorkDir) || workTitle(author, workDir)
+          const baseWorkLabel = wt || workDir.replace(/_/g, " ")
+          const splitLabel =
+            splitKind === "poems" ? "Poems" : splitKind === "letters" ? "Letters" : ""
+          const workLabel = splitLabel ? `${baseWorkLabel} — ${splitLabel}` : baseWorkLabel
           // Page title: prefer the work-root H1 (real, punctuated poem/essay title)
           // over the raw folder name ("0001 Awake ye muses…") when no WORK_TITLES
           // override exists. Set from the intro unit below; falls back to workLabel.
@@ -747,6 +769,8 @@ async function publishUnits(
               secLines.push(...nonBlank(sBody))
             }
             // Flat files (Poems): the source IS the container; nested works use <dir>/<dir>.md.
+            // Use the original (unsplit) workDir — the container file lives on disk at the
+            // real directory, not at the synthetic split name.
             const isFlat = !relList[0].includes("/")
             const contAbs = isFlat
               ? path.join(subRoot, relList[0].split("/").join(path.sep))
@@ -927,6 +951,7 @@ async function publishUnits(
           const mount =
             `<div class="atom-reader" data-work="${esc(workSlug)}" data-author="${esc(authorName)}"` +
             (parentWorkHref ? ` data-workhref="${esc(parentWorkHref)}"` : "") +
+            (splitKind ? ` data-collection="${esc(splitKind)}"` : "") +
             `></div>\n`
           const dest = path.join(CONTENT, `${workSlug}.md`.split("/").join(path.sep))
           await fs.mkdir(path.dirname(dest), { recursive: true })
@@ -1094,6 +1119,7 @@ async function publishUnits(
             const kw = keywordCounts(body)
             if (kw.size) excerptsKw[it.slug] = kw
           }
+        }
         }
       }
     }

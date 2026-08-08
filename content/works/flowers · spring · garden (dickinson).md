@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mrs. Todd, Mrs. Tuckerman, the Misses——, Mr. Clark, and Mrs. Currier](/testi/dickinson/atomized/flowers-spring-garden#l0525_mrs_todd_mrs_tuckerman_the_misses_mr_clark_and_m)
+- [To Mrs. Todd, Mrs. Tuckerman, the Misses——, Mr. Clark, and Mrs. Currier](/testi/dickinson/atomized/flowers-spring-garden--letters#_todd_mrs_tuckerman_the_misses_mr_clark_and_m)
 

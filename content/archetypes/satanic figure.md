@@ -31,7 +31,7 @@ tags:
 - [[works/the-devil’s-thoughts-(coleridge)|THE DEVIL’S THOUGHTS (Coleridge)]]
 - [[works/the-rash-conjurer-(coleridge)|THE RASH CONJURER (Coleridge)]]
 - [[works/the-two-round-spaces-on-the-tombstone-(coleridge)|THE TWO ROUND SPACES ON THE TOMBSTONE (Coleridge)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1479_the_devil_had_he_fidelity|1479. The Devil — had he fidelity (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence--poems#e_devil_had_he_fidelity|1479. The Devil — had he fidelity (Dickinson)]]
 - [[works/bon-bon-(poe)|Bon-Bon (Poe)]]
 - [[works/metzengerstein-(poe)|Metzengerstein (Poe)]]
 - [[works/never-bet-the-devil-your-head-(poe)|Never Bet the Devil your Head (Poe)]]

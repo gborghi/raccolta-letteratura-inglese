@@ -1361,6 +1361,16 @@ ul.tags {
   display: grid;
   grid-template-columns: 230px minmax(0, 1fr);
   gap: 1.4rem;
+  // Poem collections (atomRouter tags the shell with .no-toc when
+  // data-collection="poems"): hide the reader TOC sidebar. The atoms are
+  // standalone poems — browsing by prev/next is enough; a flat chapter list
+  // adds noise.
+  &.no-toc {
+    grid-template-columns: 1fr;
+    .ar-toc {
+      display: none;
+    }
+  }
 }
 .ar-toc {
   align-self: start;

@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To “H. H.”](/testi/dickinson/atomized/child-orphan#l0516_h_h)
+- [To “H. H.”](/testi/dickinson/atomized/child-orphan--letters#intro)
 

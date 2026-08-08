@@ -16,14 +16,14 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1315_which_is_the_best_the_moon_or_the_crescent|1315. Which is the best — the Moon or the Crescent (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1528_the_moon_upon_her_fluent_route|1528. The Moon upon her fluent Route (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0319_the_nearest_dream_recedes_unrealized|319. The nearest Dream recedes — unrealized — (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0450_dreams_are_well_but_wakings_better|450. Dreams — are well — but Waking's better, (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0518_her_sweet_weight_on_my_heart_a_night|518. Her sweet Weight on my Heart a Night (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0531_we_dream_it_is_good_we_are_dreaming|531. We dream — it is good we are dreaming — (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0737_the_moon_was_but_a_chin_of_gold|737. The Moon was but a Chin of Gold (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0909_i_make_his_crescent_fill_or_lack|909. I make His Crescent fill or lack — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--poems#ich_is_the_best_the_moon_or_the_crescent|1315. Which is the best — the Moon or the Crescent (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--poems#e_moon_upon_her_fluent_route|1528. The Moon upon her fluent Route (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--poems#e_nearest_dream_recedes_unrealized|319. The nearest Dream recedes — unrealized — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--poems#eams_are_well_but_wakings_better|450. Dreams — are well — but Waking's better, (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--poems#r_sweet_weight_on_my_heart_a_night|518. Her sweet Weight on my Heart a Night (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--poems#_dream_it_is_good_we_are_dreaming|531. We dream — it is good we are dreaming — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--poems#e_moon_was_but_a_chin_of_gold|737. The Moon was but a Chin of Gold (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--poems#make_his_crescent_fill_or_lack|909. I make His Crescent fill or lack — (Dickinson)]]
 - [[works/a-day-dream-(coleridge)|A DAY-DREAM (Coleridge)]]
 - [[works/a-midsummer-night’s-dream-(shakespeare)|A MIDSUMMER NIGHT’S DREAM (Shakespeare)]]
 - [[works/conversation-galante-(eliot)|Conversation Galante (Eliot)]]

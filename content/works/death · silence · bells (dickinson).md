@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mr. C. H. Clark](/testi/dickinson/atomized/death-silence-bells#l0537_mr_c_h_clark)
+- [To Mr. C. H. Clark](/testi/dickinson/atomized/death-silence-bells--letters#c_h_clark)
 

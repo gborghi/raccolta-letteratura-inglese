@@ -26,7 +26,7 @@ tags:
 - [[works/the-rime-of-the-ancient-mariner-(coleridge)|THE RIME OF THE ANCIENT MARINER (Coleridge)]]
 - [[works/to-captain-findlay-(coleridge)|TO CAPTAIN FINDLAY (Coleridge)]]
 - [[works/american-notes-(dickens)|American Notes (Dickens)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0368_how_sick_to_wait_in_any_place_but_thine|368. How sick — to wait — in any place — but thine — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan--poems#w_sick_to_wait_in_any_place_but_thine|368. How sick — to wait — in any place — but thine — (Dickinson)]]
 - [[works/marina-(eliot)|Marina (Eliot)]]
 - [[works/a-descent-into-the-maelstrom-(poe)|A Descent Into the Maelstrom (Poe)]]
 - [[works/mellonta-tauta-(poe)|Mellonta Tauta (Poe)]]

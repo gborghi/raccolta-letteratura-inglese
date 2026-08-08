@@ -19,7 +19,7 @@ tags:
 - [[works/gkc-all-is-grist-(chesterton)|GKC All is Grist (Chesterton)]]
 - [[works/gkc-come-to-think-(chesterton)|GKC Come to Think (Chesterton)]]
 - [[works/shaw-(chesterton)|Shaw (Chesterton)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0741_dramas_vitallest_expression_is_the_common_day|741. Drama's Vitallest Expression is the Common Day (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems#amas_vitallest_expression_is_the_common_day|741. Drama's Vitallest Expression is the Common Day (Dickinson)]]
 - [[works/the-love-song-of-j.-alfred-prufrock-(eliot)|The Love Song of J. Alfred Prufrock (Eliot)]]
 - [[works/hamlet-(shakespeare)|HAMLET (Shakespeare)]]
 - [[works/fancies-at-navesink-(whitman)|FANCIES AT NAVESINK (Whitman)]]

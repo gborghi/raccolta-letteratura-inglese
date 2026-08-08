@@ -16,7 +16,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/sea-water#1263_there_is_no_frigate_like_a_book|1263. There is no Frigate like a Book (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water--poems#ere_is_no_frigate_like_a_book|1263. There is no Frigate like a Book (Dickinson)]]
 - [[works/aboard-at-a-ship’s-helm-(whitman)|Aboard at a Ship’s Helm (Whitman)]]
 - [[works/after-the-supper-and-talk-(whitman)|After the Supper and Talk (Whitman)]]
 - [[works/an-old-man’s-thought-of-school-(whitman)|An Old Man’s Thought of School (Whitman)]]

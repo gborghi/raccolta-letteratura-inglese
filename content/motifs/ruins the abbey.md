@@ -31,7 +31,7 @@ tags:
 - [[works/little-dorrit-(dickens)|Little Dorrit (Dickens)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1147_after_a_hundred_years|1147. After a hundred years (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori--poems#ter_a_hundred_years|1147. After a hundred years (Dickinson)]]
 - [[works/a-fable-for-feasters-(eliot)|A Fable for Feasters (Eliot)]]
 - [[works/burbank-with-a-baedeker-bleistein-with-a-cigar-(eliot)|Burbank with a Baedeker Bleistein with a Cigar (Eliot)]]
 - [[works/ii-thus-your-fathers-were-made-(eliot)|II Thus your fathers were made (Eliot)]]

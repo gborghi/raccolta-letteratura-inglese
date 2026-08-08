@@ -16,7 +16,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0985_the_missing_all_prevented_me|985. The Missing All — prevented Me (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering--poems#e_missing_all_prevented_me|985. The Missing All — prevented Me (Dickinson)]]
 - [[works/gerontion-(eliot)|Gerontion (Eliot)]]
 - [[works/i.-the-burial-of-the-dead-(eliot)|I. The Burial of the Dead (Eliot)]]
 - [[works/iii.-the-fire-sermon-(eliot)|III. The Fire Sermon (Eliot)]]

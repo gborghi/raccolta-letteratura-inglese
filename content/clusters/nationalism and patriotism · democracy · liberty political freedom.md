@@ -16,7 +16,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1511_my_country_need_not_change_her_gown|1511. My country need not change her gown, (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--poems#_country_need_not_change_her_gown|1511. My country need not change her gown, (Dickinson)]]
 - [[works/a-carol-closing-sixty-nine-(whitman)|A Carol Closing Sixty-Nine (Whitman)]]
 - [[works/a-christmas-greeting-(whitman)|A Christmas Greeting (Whitman)]]
 - [[works/america-(whitman)|America (Whitman)]]

@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To the Misses, 1880](/testi/dickinson/atomized/transience-decay-carpe-diem#l0248_the_misses_1880)
+- [To the Misses, 1880](/testi/dickinson/atomized/transience-decay-carpe-diem--letters#_misses_1880)
 

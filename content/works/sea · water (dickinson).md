@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mrs. Edward Tuckerman, August, 1878](/testi/dickinson/atomized/sea-water#l0392_mrs_edward_tuckerman_august_1878)
+- [To Mrs. Edward Tuckerman, August, 1878](/testi/dickinson/atomized/sea-water--letters#_edward_tuckerman_august_1878)
 

@@ -24,7 +24,7 @@ tags:
 - [[works/on-the-sickness-of-a-great-minister-(coleridge)|ON THE SICKNESS OF A GREAT MINISTER (Coleridge)]]
 - [[works/sonnet-(coleridge)-(2)|SONNET (Coleridge) (2)]]
 - [[works/the-rash-conjurer-(coleridge)|THE RASH CONJURER (Coleridge)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1760_elysium_is_as_far_as_to|1760. Elysium is as far as to (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan--poems#ysium_is_as_far_as_to|1760. Elysium is as far as to (Dickinson)]]
 - [[works/fill-for-me-a-brimming-bowl-(keats)|Fill for me a brimming bowl (Keats)]]
 - [[works/dream-land-(poe)|Dream-Land (Poe)]]
 - [[works/eldorado-(poe)|Eldorado (Poe)]]
