@@ -53,5 +53,5 @@ tags:
 **Themes & Concepts:** [[concepts/spiritualism|Spiritualism]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/wonder|Wonder]], [[concepts/deception|Deception]]
 **Motifs:** [[motifs/supernatural|Supernatural]], [[concepts/uncanny|Uncanny]], [[concepts/nature|Nature]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]]
-**Archetypes:** [[archetypes/innocent|Innocent]]
+**Characters:** Sir Arthur Conan Doyle
+**Archetypes:** Innocent

@@ -82,13 +82,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/rebel|Rebel]], [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/outsider|Outsider]], [[archetypes/poet-as-prophet-(2)|Poet as Prophet (2)]]
+**Archetypes:** Martyr Saint, Rebel, Common Man (2), Outsider, Poet as Prophet (2)
 
 **Motifs:** [[motifs/flags-and-banners|Flags and Banners]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/home|Home]], [[motifs/grass-leaves-of-grass|Grass Leaves of Grass]], [[motifs/garden|Garden]], [[motifs/road|Road]], [[motifs/horse|Horse]]
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[characters/w.-b.-yeats|W. B. Yeats]], [[historical-references/roger-casement|Roger Casement]], [[characters/thomas-kettle|Thomas Kettle]], [[characters/charles-stewart-parnell|Charles Stewart Parnell]], [[characters/george-russell-(a.e.)|George Russell (A.E.)]], [[characters/sergeant-sheridan|Sergeant Sheridan]]
+**Characters:** W. B. Yeats, [[historical-references/roger-casement|Roger Casement]], Thomas Kettle, Charles Stewart Parnell, George Russell (A.E.), Sergeant Sheridan
 
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/social-injustice|Social Injustice]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/pride|Pride]], [[concepts/humility|Humility]], [[concepts/class-conflict|Class Conflict]], [[concepts/poverty|Poverty]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/democracy|Democracy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/paradox|Paradox]], [[concepts/martyrdom|Martyrdom]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/family-and-lineage|Family and Lineage]], [[concepts/religious-sectarianism|Religious Sectarianism]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="william_wilson" data-title="William Wilson" data-chapter="" data-kind="intro"></span>
 
-# [[characters/william-wilson|William Wilson]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -23,7 +23,7 @@ di quel fantasma che mi ostacola il cammino?
 
 Per il momento, lasciate che mi chiami [[characters/william-wilson|William Wilson]]. Questo giovane che giace davanti a me non deve essere macchiato dal mio vero nome. Questo nome è già stato oggetto di disprezzo, orrore e odio da parte della mia stessa razza. Non hanno forse i venti indignati diffuso in ogni angolo del mondo la sua infamia senza pari? Oh, esiliato tra tutti gli esiliati, più abbandonato di tutti. Non sei forse morto per sempre per questa terra, per le sue onori, per i suoi [[motifs/flowers|fiori]], per le sue aspirazioni dorate? E non c’è forse una nuvola densa, cupa e senza confini che pende eternamente tra le tue speranze e il cielo?
 
-Non vorrei, se potessi, qui e oggi, raccontare di anni successivi di indicibile miseria e crimini imperdonabili. Quest’epoca, questi ultimi anni, hanno conosciuto un improvviso aumento di turpitudine; scoprire le cause di tutto ciò è lo scopo principale del mio discorso. Di solito, gli uomini diventano malvagi gradualmente; io, invece, in un istante, ho perso ogni traccia di virtù. Dalle colpe relativamente banali sono passato, con rapidità incredibile, alle enormità più atroci. Qual è stata la causa di tutto ciò? Ascoltate attentamente mentre vi racconto. La [[motifs/death|morte]] si avvicina; l’[[archetypes/shadow|ombra]] che la precede ha esercitato su di me un influsso lenitivo. Desidero ardentemente, nel passare attraverso questa oscura valle, ricevere la compassione, anzi, il pietoso interesse dei miei simili. Vorrei che credessero che, in qualche modo, sono stato schiavo di circostanze al di fuori del controllo umano; vorrei che trovassero, nelle cose che sto per raccontare, un barlume di verità in mezzo a tanta follia. Vorrei che ammettessero, ciò che non possono fare a meno di ammettere, che, anche se la [[concepts/temptation|tentazione]] è stata grande, l’uomo non era mai stato prima così tentato, certamente, non era mai caduto così in basso. E quindi, perché non ha mai sofferto così tanto? Non ho forse vissuto tutto questo in un sogno? E ora, non sto forse morendo vittima dell’orrore e del mistero delle visioni più straordinarie che esistano al di sotto della luna?
+Non vorrei, se potessi, qui e oggi, raccontare di anni successivi di indicibile miseria e crimini imperdonabili. Quest’epoca, questi ultimi anni, hanno conosciuto un improvviso aumento di turpitudine; scoprire le cause di tutto ciò è lo scopo principale del mio discorso. Di solito, gli uomini diventano malvagi gradualmente; io, invece, in un istante, ho perso ogni traccia di virtù. Dalle colpe relativamente banali sono passato, con rapidità incredibile, alle enormità più atroci. Qual è stata la causa di tutto ciò? Ascoltate attentamente mentre vi racconto. La [[motifs/death|morte]] si avvicina; l’[[archetypes/shadow|ombra]] che la precede ha esercitato su di me un influsso lenitivo. Desidero ardentemente, nel passare attraverso questa oscura valle, ricevere la compassione, anzi, il pietoso interesse dei miei simili. Vorrei che credessero che, in qualche modo, sono stato schiavo di circostanze al di fuori del controllo umano; vorrei che trovassero, nelle cose che sto per raccontare, un barlume di verità in mezzo a tanta follia. Vorrei che ammettessero, ciò che non possono fare a meno di ammettere, che, anche se la [[concepts/temptation|tentazione]] è stata grande, l’uomo non era mai stato prima così tentato, certamente, non era mai caduto così in basso. E quindi, perché non ha mai sofferto così tanto? Non ho forse vissuto tutto questo in un [[A Dream|sogno]]? E ora, non sto forse morendo vittima dell’orrore e del mistero delle visioni più straordinarie che esistano al di sotto della luna?
 
 Sono il discendente di una razza la cui natura fantasiosa e facilmente eccitabile l’ha sempre resa straordinaria; fin dalla mia più tenera infanzia dimostrai di aver ereditato appieno questo tratto caratteristico della mia famiglia. Con l’avanzare degli anni, tale tendenza si sviluppò ancora di più, diventando, per molte ragioni, motivo di grave preoccupazione per i miei amici e di danni concreti per me stesso. Diventai testardo, dipendente dai capricci più folli e vittima delle passioni più incontrollabili. Debole di carattere e afflitto da malattie congenite simili alle mie, i miei genitori non riuscirono a fare molto per contrastare queste cattive inclinazioni. Alcuni tentativi deboli e inefficaci si risolsero in totale fallimento da parte loro, e, naturalmente, in un completo trionfo da parte mia. Da quel momento in poi, la mia volontà divenne legge in casa; a un’età in cui pochi bambini abbandonano ancora il controllo dei genitori, fui lasciato alla guida delle mie stesse decisioni, e diventai, di fatto, padrone assoluto delle mie azioni.
 
@@ -35,9 +35,9 @@ La casa, come ho detto, era vecchia e irregolare. I terreni circostanti erano es
 
 Angolato rispetto al massiccio muro, si ergeva un cancello ancora più imponente. Era fissato con chiodi di ferro e adornato di spuntoni taglienti; che senso di profondo timore suscitava! Non veniva mai aperto se non per le tre occasioni regolari menzionate in precedenza; ogni cigolio delle sue poderose serrature trasmetteva un’atmosfera di mistero. Un mondo di materia degno di riflessione solenne, o addirittura di meditazione ancora più profonda.
 
-Quell’ampio recinto aveva una forma irregolare e conteneva molte rientranze spaziose. Di queste, tre o quattro delle più grandi costituivano il campo da gioco. Il terreno era pianeggiante e coperto di ghiaia fine e dura. Ricordo bene che non ci fossero alberi, né panche, né nulla del genere all’interno. Naturalmente si trovava sul retro della casa. Davanti ad esso c’era un piccolo giardino piantato con piante come il rododendro e altri arbusti, ma attraversavamo questa “divisione sacra” solo in rare occasioni: per esempio al primo giorno di scuola o all’ultimo giorno di lezioni, oppure quando un genitore o un amico veniva a chiamarci, e noi ci recavamo felicemente a casa per le vacanze di Natale o di Mezza Estate.
+Quell’ampio recinto aveva una forma irregolare e conteneva molte rientranze spaziose. Di queste, tre o quattro delle più grandi costituivano il campo da gioco. Il terreno era pianeggiante e coperto di ghiaia fine e dura. Ricordo bene che non ci fossero alberi, né panche, né nulla del genere all’interno. Naturalmente si trovava sul retro della [[house|casa]]. Davanti ad esso c’era un piccolo giardino piantato con piante come il rododendro e altri arbusti, ma attraversavamo questa “divisione sacra” solo in rare occasioni: per esempio al primo giorno di scuola o all’ultimo giorno di lezioni, oppure quando un genitore o un amico veniva a chiamarci, e noi ci recavamo felicemente a casa per le vacanze di Natale o di Mezza Estate.
 
-Ma quella casa, che strano ed antico edificio! Per me era davvero un palazzo incantato. Le sue stanze si snodavano in modo inestricabile, le sue suddivisioni erano complesse e difficili da comprendere. Era quasi impossibile, in qualsiasi momento, stabilire con certezza su quale dei due piani ci si trovasse. Da ogni stanza all’altra c’erano sempre tre o quattro gradini da salire o scendere; inoltre, i corridoi laterali erano innumerevoli e intricati. Le nostre idee più precise su tutta la struttura della casa non erano molto diverse da quelle che avremmo potuto avere riguardo all’infinito. Durante i cinque anni trascorsi qui, non sono mai riuscito a scoprire con precisione in quale parte remota della casa si trovasse quella piccola stanza assegnata a me e ad altri diciotto o venti studiosi.
+Ma quella [[house|casa]], che strano ed antico edificio! Per me era davvero un palazzo incantato. Le sue stanze si snodavano in modo inestricabile, le sue suddivisioni erano complesse e difficili da comprendere. Era quasi impossibile, in qualsiasi momento, stabilire con certezza su quale dei due piani ci si trovasse. Da ogni stanza all’altra c’erano sempre tre o quattro gradini da salire o scendere; inoltre, i corridoi laterali erano innumerevoli e intricati. Le nostre idee più precise su tutta la struttura della casa non erano molto diverse da quelle che avremmo potuto avere riguardo all’infinito. Durante i cinque anni trascorsi qui, non sono mai riuscito a scoprire con precisione in quale parte remota della casa si trovasse quella piccola stanza assegnata a me e ad altri diciotto o venti studiosi.
 
 L’aula scolastica era la più grande dell’intero edificio; non potevo fare a meno di pensarci. Era molto lunga, stretta e piuttosto bassa, con finestre gotiche a forma di punta e soffitti in quercia. In un angolo remoto e inquietante c’era una piccola area delimitata da pareti alte otto o dieci piedi: durante gli orari di lavoro, costituiva il “sanctum” del nostro preside, il reverendo dottor Bransby. Si trattava di una struttura solida, con porte massicce che difficilmente si aprivano; in assenza del preside, noi tutti saremmo stati pronti a subire qualsiasi punizione. In altri angoli c’erano altre due stanze simili, molto meno rispettate di questa, ma comunque oggetto di grande timore. Una di queste era l’altare dell’insegnante addetto alle lezioni di letteratura classica; nell’aula, disseminate in modo disordinato, si trovavano innumerevoli banchi e scrivanie neri, antichi e consumati dal tempo, coperti fino all’orlo di libri impilati disordinatamente; su di essi erano sparsi lettere iniziali, nomi completi, figure grottesche, e ogni sorta di segno lasciato dall’uso quotidiano. All’estremità dell’aula c’era un enorme secchio pieno d’acqua, mentre all’altra estremità si trovava un orologio di dimensioni imponenti.
 
@@ -59,7 +59,7 @@ Le rappresaglie di Wilson erano molte; e c’era un certo tipo della sua astuzia
 
 Il senso di irritazione che ne derivava cresceva ad ogni occasione in cui si riscontrava una somiglianza, sia morale che fisica, tra il mio rivale e me. All’epoca non avevo ancora scoperto il fatto notevole che eravamo della stessa età; ma notavo che avevamo la stessa altezza e che anche i tratti del nostro viso erano stranamente simili. Mi infastidiva inoltre la voce che circolava riguardo a un possibile legame tra di noi, una voce che aveva preso piede tra gli studenti più anziani. In breve, nulla poteva disturbarmi di più (sebbene nascondessi scrupolosamente tale turbamento) di qualsiasi allusione a una somiglianza nel carattere, nell’aspetto o nelle condizioni personali tra noi. Ma, in verità, non avevo alcun motivo per credere che, ad eccezione di quella questione del legame familiare e nel caso specifico di Wilson stesso, questa somiglianza fosse mai stata oggetto di commenti da parte dei nostri compagni di scuola. Era evidente che anche lui se ne rendesse conto, e in modo altrettanto chiaro quanto me; ma il fatto che riuscisse a trarre da queste somiglianze un motivo così frequente di irritazione poteva essere attribuito, come avevo già detto, alla sua perspicacia eccezionale.
 
-Il suo compito consisteva nel perfezionare un'imitazione di me stesso, e ci riuscì in modo davvero ammirevole. Era facile copiare il mio abbigliamento; il mio passo e il mio comportamento in generale furono facilmente imitati; nonostante il suo difetto congenito, nemmeno la mia voce gli sfuggì. Ovviamente evitò di utilizzare i miei toni più forti, ma la base su cui si basava l’imitazione era identica alla mia. E il suo sussurro diventò letteralmente l’eco del mio stesso sussurro.
+Il suo compito consisteva nel perfezionare un'[[Imitation|imitazione]] di me stesso, e ci riuscì in modo davvero ammirevole. Era facile copiare il mio abbigliamento; il mio passo e il mio comportamento in generale furono facilmente imitati; nonostante il suo difetto congenito, nemmeno la mia voce gli sfuggì. Ovviamente evitò di utilizzare i miei toni più forti, ma la base su cui si basava l’imitazione era identica alla mia. E il suo sussurro diventò letteralmente l’eco del mio stesso sussurro.
 
 Quanto questo raffinatissimo ritratto mi tormentasse, poiché non poteva certo essere definito una caricatura, ora non oso nemmeno descriverlo. Avevo soltanto un conforto: l’imitazione, a quanto pare, era stata notata soltanto da me, e dovevo sopportare soltanto i sorrisi comprensivi e stranamente sarcastici dello stesso uomo che portava il mio nome. Risolto di aver ottenuto l’effetto desiderato, sembrava ridacchiare in segreto per la stoccata che aveva inflitto, e, come al solito, ignorava completamente gli applausi del pubblico che il successo delle sue argute imitazioni avrebbe potuto facilmente suscitare. Il fatto che l’intera scuola non riconoscesse il suo intento, non apprezzasse il risultato ottenuto e non condividesse la sua derisione, per molti mesi angosciosi rimase un mistero che non riuscii a risolvere. Forse la gradazione delle sue imitazioni rendeva queste meno evidenti; oppure, più probabilmente, la mia “sicurezza” dipendeva dall’abilità del copista, il quale, disdegnando i dettagli superficiali (che in un dipinto sono tutto ciò che gli occhi meno attenti riescono a percepire), trasmetteva soltanto lo spirito originale dell’opera, lasciandomi solo con la mia delusione e il mio rammarico.
 
@@ -69,9 +69,9 @@ Così come stavano le cose, alla fine iniziai ad annoiarmi terribilmente sotto l
 
 Fu più o meno in quel periodo, se ricordo bene, che, durante un alterco violento con lui, nel quale egli fu più del solito colto di sorpresa e parlò e agì con una schiettezza nel comportamento piuttosto insolita per la sua [[concepts/nature|natura]], notai, o credetti di notare, nel suo accento, nel suo atteggiamento e nel suo aspetto generale qualcosa che all’inizio mi sorprese profondamente, per poi suscitare in me un grande interesse. Quell’aspetto mi fece ricordare vaghe immagini della mia prima infanzia: ricordi confusi e frammentati di un [[motifs/time|tempo]] in cui la stessa [[motifs/memory|memoria]] non esisteva ancora. Non posso descrivere meglio quella sensazione se non dicendo che fui quasi incapace di scacciare l’idea di aver già conosciuto quell’essere che mi stava davanti, in un’epoca molto lontana nel passato, un punto del tempo addirittura infinitamente remoto. Tuttavia, quell’illusione svanì rapidamente; menziono tutto ciò soltanto per precisare la data dell’ultima conversazione che ebbi con quel mio singolare omonimo.
 
-Quella enorme e vecchia casa, con le sue innumerevoli stanze, aveva diverse grandi sale collegate tra loro, dove dormivano la maggior parte degli studenti. C'erano tuttavia, (come è inevitabile in un edificio così mal progettato), molti angoli nascosti o recessi; e l’ingegnosità di Dr. Bransby aveva reso anche questi spazi adatti come dormitori; sebbene, essendo semplici armadi, potessero ospitare soltanto una persona ciascuno. Uno di questi piccoli alloggi era occupato da Wilson.
+Quella enorme e vecchia [[house|casa]], con le sue innumerevoli stanze, aveva diverse grandi sale collegate tra loro, dove dormivano la maggior parte degli studenti. C'erano tuttavia, (come è inevitabile in un edificio così mal progettato), molti angoli nascosti o recessi; e l’ingegnosità di Dr. Bransby aveva reso anche questi spazi adatti come dormitori; sebbene, essendo semplici armadi, potessero ospitare soltanto una persona ciascuno. Uno di questi piccoli alloggi era occupato da Wilson.
 
-Una [[motifs/night|notte]], verso la fine del mio quinto anno di scuola, e subito dopo l’incidente appena menzionato, trovando tutti addormentati, mi alzai dal letto e, con una lampada in mano, mi intrufolai attraverso un labirinto di stretti corridoi dalla mia stanza alla stanza del mio rivale. Da tempo avevo pianificato di mettere in atto uno di quei scherzi maliziosi a suo scapito, ma fino ad allora non ci ero mai riuscito. Ora intendevo realizzare il mio piano e fargli sentire tutta la malvagità che provavo verso di lui. Arrivato nel suo armadio, entrai silenziosamente, lasciando la lampada con la sua griglia fuori dalla stanza. Mi avvicinai al letto e ascoltai il suono del suo respiro tranquillo; essendo certo che dormisse, presi la lampada e mi avvicinai di nuovo al letto. Le tende erano chiuse attorno a esso; le scostai lentamente e silenziosamente. I raggi luminosi illuminarono il dormiente. E i miei occhi videro il suo volto. Guardai, e un gelo intenso pervase tutto il mio corpo. Il mio petto si sollevò, le ginocchia mi tremarono. Un orrore insopportabile mi invase. Con difficoltà respirando, avvicinai ancora di più la lampada al suo viso. Erano davvero i tratti del [[characters/william-wilson|William Wilson]]? Sì, erano proprio i suoi. Ma tremavo, come se stessi soffrendo di un attacco febbrile. Cosa c’era in loro che mi confondeva così tanto? Guardavo, mentre la mia mente era invasa da pensieri confusi e incoerenti. Non lo avevo mai visto così. Assolutamente no. Con lo stesso nome, la stessa corporatura, lo stesso giorno di arrivo all’accademia. E poi quella sua ostinata e insensata imitazione del mio modo di camminare, della mia voce, dei miei gesti. Era davvero possibile che tutto ciò fosse il risultato semplicemente dell’abitudine a imitarmi in modo sarcastico? Sconvolto e tremante, spensi la lampada, uscii silenziosamente dalla stanza e lasciai per sempre gli edifici di quell’antica accademia. Per non tornarci mai più.
+Una [[motifs/night|notte]], verso la fine del mio quinto anno di scuola, e subito dopo l’incidente appena menzionato, trovando tutti addormentati, mi alzai dal letto e, con una lampada in mano, mi intrufolai attraverso un labirinto di stretti corridoi dalla mia stanza alla stanza del mio rivale. Da tempo avevo pianificato di mettere in atto uno di quei scherzi maliziosi a suo scapito, ma fino ad allora non ci ero mai riuscito. Ora intendevo realizzare il mio piano e fargli sentire tutta la malvagità che provavo verso di lui. Arrivato nel suo armadio, entrai silenziosamente, lasciando la lampada con la sua griglia fuori dalla stanza. Mi avvicinai al letto e ascoltai il suono del suo respiro tranquillo; essendo certo che dormisse, presi la lampada e mi avvicinai di nuovo al letto. Le tende erano chiuse attorno a esso; le scostai lentamente e silenziosamente. I raggi luminosi illuminarono il [[The Sleeper|dormiente]]. E i miei occhi videro il suo volto. Guardai, e un gelo intenso pervase tutto il mio corpo. Il mio petto si sollevò, le ginocchia mi tremarono. Un orrore insopportabile mi invase. Con difficoltà respirando, avvicinai ancora di più la lampada al suo viso. Erano davvero i tratti del [[characters/william-wilson|William Wilson]]? Sì, erano proprio i suoi. Ma tremavo, come se stessi soffrendo di un attacco febbrile. Cosa c’era in loro che mi confondeva così tanto? Guardavo, mentre la mia mente era invasa da pensieri confusi e incoerenti. Non lo avevo mai visto così. Assolutamente no. Con lo stesso nome, la stessa corporatura, lo stesso giorno di arrivo all’accademia. E poi quella sua ostinata e insensata [[Imitation|imitazione]] del mio modo di camminare, della mia voce, dei miei gesti. Era davvero possibile che tutto ciò fosse il risultato semplicemente dell’abitudine a imitarmi in modo sarcastico? Sconvolto e tremante, spensi la lampada, uscii silenziosamente dalla stanza e lasciai per sempre gli edifici di quell’antica accademia. Per non tornarci mai più.
 
 Dopo alcuni mesi trascorsi in casa, dedicati soltanto ad attività oziose, mi ritrovai studente a Eton. Quel breve lasso di tempo era stato sufficiente per indebolire la mia memoria degli eventi avvenuti presso il dottor Bransby, o almeno per modificare in modo significativo il modo in cui li ricordavo. La [[concepts/truth|verità]] – la [[forms/tragedy|tragedia]] di quegli eventi non esisteva più. Ora potevo persino dubitare delle prove fornite dai miei sensi; raramente affrontavo l’argomento, se non con [[concepts/wonder|stupore]] per la credulità umana e con un sorriso di fronte alla forza vivida dell’[[concepts/imagination|immaginazione]] che possedevo per natura. Questo tipo di scetticismo non sembrava destinato ad attenuarsi nemmeno a causa del modo di vivere che conducevo a Eton. Il vortice di follia e superficialità in cui mi imbattei lì, così rapidamente e senza riflettere, cancellò quasi completamente ogni traccia delle mie esperienze passate; soltanto le cose più banali e frivole rimasero nella mia memoria.
 
@@ -121,7 +121,7 @@ In un’assoluta frenesia di rabbia, mi rivolsi immediatamente verso colui che m
 
 Appena entrato, lo spinsi via con furia. Barcollò contro il muro, mentre io chiudevo la porta imprecando e gli ordinavo di tirare. Esitò solo per un istante; poi, con un leggero sospiro, cadde nel [[motifs/silence|silenzio]] e si preparò a difendersi.
 
-La battaglia fu davvero breve. Ero in preda a un'emozione selvaggia e intensa; sentivo nella mia singola mano l’energia e la forza di molte persone. In pochi secondi lo spinsi con tutta la mia forza contro il rivestimento della parete, mettendolo così alla [[concepts/mercy|miseria]], e poi affondai la mia _spada, con una ferocia selvaggia, più e più volte nel suo petto.
+La battaglia fu davvero breve. Ero in preda a un'emozione selvaggia e intensa; sentivo nella mia singola mano l’energia e la forza di molte persone. In pochi secondi lo spinsi con tutta la mia forza contro il rivestimento della parete, mettendolo così alla [[concepts/mercy|miseria]], e poi affondai la mia [[Sword|_spada]], con una ferocia selvaggia, più e più volte nel suo petto.
 
 In quell’istante qualcuno provò ad aprire la porta con il chiavistello. Mi affrettai a impedire l’intrusione e subito dopo tornai dal mio avversario morente. Ma quale lingua umana potrebbe descrivere adeguatamente quell’orrore, quella paura che mi invase di fronte a quella scena terribile? Il breve attimo in cui distolsi lo sguardo fu sufficiente perché le cose nella parte superiore della stanza subissero un cambiamento evidente: un grande [[motifs/mirror|specchio]], che all’inizio mi sembrò essere apparso lì dove prima non c’era nulla, ora si trovava nel punto in cui prima non esisteva affatto. E quando mi avvicinai a esso, in preda al terrore, la mia stessa immagine – ma con i tratti del viso pallidi e macchiati di [[motifs/blood|sangue]] – mi apparve davanti, camminando con passi deboli e incerti.
 
@@ -154,7 +154,7 @@ hopes and heaven?
 I would not, if I could, here or to-day, embody a record of my
 later years of unspeakable misery, and unpardonable crime. This
 epoch—these later years—took unto themselves a sudden elevation
-in turpitude, whose origin alone it is my present purpose to
+in turpitude, whose origin [[Alone|alone]] it is my present purpose to
 assign. Men usually grow base by degrees. From me, in an instant,
 all virtue dropped bodily as a mantle. From comparatively trivial
 wickedness I passed, with the stride of a giant, into more than
@@ -171,7 +171,7 @@ of error. I would have them allow—what they cannot refrain from
 allowing—that, although [[concepts/temptation|temptation]] may have erewhile existed as
 great, man was never thus, at least, tempted before—certainly,
 never thus fell. And is it therefore that he has never thus
-suffered? Have I not indeed been living in a dream? And am I not
+suffered? Have I not indeed been living in [[A Dream|a dream]]? And am I not
 now dying a victim to the horror and the mystery of the wildest
 of all sublunary visions?
 
@@ -193,10 +193,10 @@ the guidance of my own will, and became, in all but name, the
 master of my own actions.
 
 My earliest recollections of a school-life, are connected with a
-large, rambling, Elizabethan house, in a misty-looking village of
+large, rambling, Elizabethan [[house]], in a misty-looking village of
 England, where were a vast number of gigantic and gnarled trees,
 and where all the houses were excessively ancient. In [[concepts/truth|truth]], it
-was a dream-like and spirit-soothing place, that venerable old
+was [[A Dream|a dream]]-like and spirit-soothing place, that venerable old
 town. At this moment, in fancy, I feel the refreshing chilliness
 of its deeply-shadowed avenues, inhale the fragrance of its
 thousand shrubberies, and thrill anew with undefinable delight,
@@ -216,7 +216,7 @@ connected with a period and a locality when and where I recognise
 the first ambiguous monitions of the destiny which afterwards so
 fully overshadowed me. Let me then remember.
 
-The house, I have said, was old and irregular. The grounds were
+The [[house]], I have said, was old and irregular. The grounds were
 extensive, and a high and solid brick wall, topped with a bed of
 mortar and broken glass, encompassed the whole. This [[motifs/prison|prison]]-like
 rampart formed the limit of our domain; beyond it we saw but
@@ -244,7 +244,7 @@ di quel fantasma che mi ostacola il cammino?
 
 Per il momento, lasciate che mi chiami [[characters/william-wilson|William Wilson]]. Questo giovane che giace davanti a me non deve essere macchiato dal mio vero nome. Questo nome è già stato oggetto di disprezzo, orrore e odio da parte della mia stessa razza. Non hanno forse i venti indignati diffuso in ogni angolo del mondo la sua infamia senza pari? Oh, esiliato tra tutti gli esiliati, più abbandonato di tutti. Non sei forse morto per sempre per questa terra, per le sue onori, per i suoi [[motifs/flowers|fiori]], per le sue aspirazioni dorate? E non c’è forse una nuvola densa, cupa e senza confini che pende eternamente tra le tue speranze e il cielo?
 
-Non vorrei, se potessi, qui e oggi, raccontare di anni successivi di indicibile miseria e crimini imperdonabili. Quest’epoca, questi ultimi anni, hanno conosciuto un improvviso aumento di turpitudine; scoprire le cause di tutto ciò è lo scopo principale del mio discorso. Di solito, gli uomini diventano malvagi gradualmente; io, invece, in un istante, ho perso ogni traccia di virtù. Dalle colpe relativamente banali sono passato, con rapidità incredibile, alle enormità più atroci. Qual è stata la causa di tutto ciò? Ascoltate attentamente mentre vi racconto. La [[motifs/death|morte]] si avvicina; l’[[archetypes/shadow|ombra]] che la precede ha esercitato su di me un influsso lenitivo. Desidero ardentemente, nel passare attraverso questa oscura valle, ricevere la compassione, anzi, il pietoso interesse dei miei simili. Vorrei che credessero che, in qualche modo, sono stato schiavo di circostanze al di fuori del controllo umano; vorrei che trovassero, nelle cose che sto per raccontare, un barlume di verità in mezzo a tanta follia. Vorrei che ammettessero, ciò che non possono fare a meno di ammettere, che, anche se la [[concepts/temptation|tentazione]] è stata grande, l’uomo non era mai stato prima così tentato, certamente, non era mai caduto così in basso. E quindi, perché non ha mai sofferto così tanto? Non ho forse vissuto tutto questo in un sogno? E ora, non sto forse morendo vittima dell’orrore e del mistero delle visioni più straordinarie che esistano al di sotto della luna?
+Non vorrei, se potessi, qui e oggi, raccontare di anni successivi di indicibile miseria e crimini imperdonabili. Quest’epoca, questi ultimi anni, hanno conosciuto un improvviso aumento di turpitudine; scoprire le cause di tutto ciò è lo scopo principale del mio discorso. Di solito, gli uomini diventano malvagi gradualmente; io, invece, in un istante, ho perso ogni traccia di virtù. Dalle colpe relativamente banali sono passato, con rapidità incredibile, alle enormità più atroci. Qual è stata la causa di tutto ciò? Ascoltate attentamente mentre vi racconto. La [[motifs/death|morte]] si avvicina; l’[[archetypes/shadow|ombra]] che la precede ha esercitato su di me un influsso lenitivo. Desidero ardentemente, nel passare attraverso questa oscura valle, ricevere la compassione, anzi, il pietoso interesse dei miei simili. Vorrei che credessero che, in qualche modo, sono stato schiavo di circostanze al di fuori del controllo umano; vorrei che trovassero, nelle cose che sto per raccontare, un barlume di verità in mezzo a tanta follia. Vorrei che ammettessero, ciò che non possono fare a meno di ammettere, che, anche se la [[concepts/temptation|tentazione]] è stata grande, l’uomo non era mai stato prima così tentato, certamente, non era mai caduto così in basso. E quindi, perché non ha mai sofferto così tanto? Non ho forse vissuto tutto questo in un [[A Dream|sogno]]? E ora, non sto forse morendo vittima dell’orrore e del mistero delle visioni più straordinarie che esistano al di sotto della luna?
 
 Sono il discendente di una razza la cui natura fantasiosa e facilmente eccitabile l’ha sempre resa straordinaria; fin dalla mia più tenera infanzia dimostrai di aver ereditato appieno questo tratto caratteristico della mia famiglia. Con l’avanzare degli anni, tale tendenza si sviluppò ancora di più, diventando, per molte ragioni, motivo di grave preoccupazione per i miei amici e di danni concreti per me stesso. Diventai testardo, dipendente dai capricci più folli e vittima delle passioni più incontrollabili. Debole di carattere e afflitto da malattie congenite simili alle mie, i miei genitori non riuscirono a fare molto per contrastare queste cattive inclinazioni. Alcuni tentativi deboli e inefficaci si risolsero in totale fallimento da parte loro, e, naturalmente, in un completo trionfo da parte mia. Da quel momento in poi, la mia volontà divenne legge in casa; a un’età in cui pochi bambini abbandonano ancora il controllo dei genitori, fui lasciato alla guida delle mie stesse decisioni, e diventai, di fatto, padrone assoluto delle mie azioni.
 
@@ -272,14 +272,14 @@ capacious recesses. Of these, three or four of the largest
 constituted the play-ground. It was level, and covered with fine
 hard gravel. I [[motifs/well|well]] remember it had no trees, nor benches, nor
 anything similar within it. Of course it was in the rear of the
-house. In front lay a small parterre, planted with box and other
+[[house]]. In front lay a small parterre, planted with box and other
 shrubs, but through this sacred division we passed only upon rare
 occasions indeed—such as a first advent to school or final
 departure thence, or perhaps, when a parent or friend having
 called for us, we joyfully took our way [[motifs/home|home]] for the Christmas or
 Midsummer holidays.
 
-But the house!—how quaint an old building was this!—to me how
+But the [[house]]!—how quaint an old building was this!—to me how
 veritably a palace of enchantment! There was really no end to its
 windings—to its incomprehensible subdivisions. It was difficult,
 at any given [[motifs/time|time]], to say with certainty upon which of its two
@@ -294,7 +294,7 @@ able to ascertain with precision, in what remote locality lay the
 little sleeping apartment assigned to myself and some eighteen or
 twenty other scholars.
 
-The school-room was the largest in the house—I could not help
+The school-room was the largest in the [[house]]—I could not help
 thinking, in the world. It was very long, narrow, and dismally
 low, with pointed Gothic windows and a ceiling of oak. In a
 remote and terror-inspiring angle was a square enclosure of eight
@@ -354,7 +354,7 @@ everyday appellations which seem, by prescriptive right, to have
 been, [[motifs/time|time]] out of mind, the common property of the mob. In this
 narrative I have therefore designated myself as [[characters/william-wilson|William Wilson]],—a
 fictitious title not very dissimilar to the real. My namesake
-alone, of those who in school phraseology constituted “our set,”
+[[Alone|alone]], of those who in school phraseology constituted “our set,”
 presumed to compete with me in the studies of the class—in the
 sports and broils of the play-ground—to refuse implicit belief in
 my assertions, and submission to my will—indeed, to interfere
@@ -368,9 +368,9 @@ spirits of its companions.
 
 Angolato rispetto al massiccio muro, si ergeva un cancello ancora più imponente. Era fissato con chiodi di ferro e adornato di spuntoni taglienti; che senso di profondo timore suscitava! Non veniva mai aperto se non per le tre occasioni regolari menzionate in precedenza; ogni cigolio delle sue poderose serrature trasmetteva un’atmosfera di mistero. Un mondo di materia degno di riflessione solenne, o addirittura di meditazione ancora più profonda.
 
-Quell’ampio recinto aveva una forma irregolare e conteneva molte rientranze spaziose. Di queste, tre o quattro delle più grandi costituivano il campo da gioco. Il terreno era pianeggiante e coperto di ghiaia fine e dura. Ricordo bene che non ci fossero alberi, né panche, né nulla del genere all’interno. Naturalmente si trovava sul retro della casa. Davanti ad esso c’era un piccolo giardino piantato con piante come il rododendro e altri arbusti, ma attraversavamo questa “divisione sacra” solo in rare occasioni: per esempio al primo giorno di scuola o all’ultimo giorno di lezioni, oppure quando un genitore o un amico veniva a chiamarci, e noi ci recavamo felicemente a casa per le vacanze di Natale o di Mezza Estate.
+Quell’ampio recinto aveva una forma irregolare e conteneva molte rientranze spaziose. Di queste, tre o quattro delle più grandi costituivano il campo da gioco. Il terreno era pianeggiante e coperto di ghiaia fine e dura. Ricordo bene che non ci fossero alberi, né panche, né nulla del genere all’interno. Naturalmente si trovava sul retro della [[house|casa]]. Davanti ad esso c’era un piccolo giardino piantato con piante come il rododendro e altri arbusti, ma attraversavamo questa “divisione sacra” solo in rare occasioni: per esempio al primo giorno di scuola o all’ultimo giorno di lezioni, oppure quando un genitore o un amico veniva a chiamarci, e noi ci recavamo felicemente a casa per le vacanze di Natale o di Mezza Estate.
 
-Ma quella casa, che strano ed antico edificio! Per me era davvero un palazzo incantato. Le sue stanze si snodavano in modo inestricabile, le sue suddivisioni erano complesse e difficili da comprendere. Era quasi impossibile, in qualsiasi momento, stabilire con certezza su quale dei due piani ci si trovasse. Da ogni stanza all’altra c’erano sempre tre o quattro gradini da salire o scendere; inoltre, i corridoi laterali erano innumerevoli e intricati. Le nostre idee più precise su tutta la struttura della casa non erano molto diverse da quelle che avremmo potuto avere riguardo all’infinito. Durante i cinque anni trascorsi qui, non sono mai riuscito a scoprire con precisione in quale parte remota della casa si trovasse quella piccola stanza assegnata a me e ad altri diciotto o venti studiosi.
+Ma quella [[house|casa]], che strano ed antico edificio! Per me era davvero un palazzo incantato. Le sue stanze si snodavano in modo inestricabile, le sue suddivisioni erano complesse e difficili da comprendere. Era quasi impossibile, in qualsiasi momento, stabilire con certezza su quale dei due piani ci si trovasse. Da ogni stanza all’altra c’erano sempre tre o quattro gradini da salire o scendere; inoltre, i corridoi laterali erano innumerevoli e intricati. Le nostre idee più precise su tutta la struttura della casa non erano molto diverse da quelle che avremmo potuto avere riguardo all’infinito. Durante i cinque anni trascorsi qui, non sono mai riuscito a scoprire con precisione in quale parte remota della casa si trovasse quella piccola stanza assegnata a me e ad altri diciotto o venti studiosi.
 
 L’aula scolastica era la più grande dell’intero edificio; non potevo fare a meno di pensarci. Era molto lunga, stretta e piuttosto bassa, con finestre gotiche a forma di punta e soffitti in quercia. In un angolo remoto e inquietante c’era una piccola area delimitata da pareti alte otto o dieci piedi: durante gli orari di lavoro, costituiva il “sanctum” del nostro preside, il reverendo dottor Bransby. Si trattava di una struttura solida, con porte massicce che difficilmente si aprivano; in assenza del preside, noi tutti saremmo stati pronti a subire qualsiasi punizione. In altri angoli c’erano altre due stanze simili, molto meno rispettate di questa, ma comunque oggetto di grande timore. Una di queste era l’altare dell’insegnante addetto alle lezioni di letteratura classica; nell’aula, disseminate in modo disordinato, si trovavano innumerevoli banchi e scrivanie neri, antichi e consumati dal tempo, coperti fino all’orlo di libri impilati disordinatamente; su di essi erano sparsi lettere iniziali, nomi completi, figure grottesche, e ogni sorta di segno lasciato dall’uso quotidiano. All’estremità dell’aula c’era un enorme secchio pieno d’acqua, mentre all’altra estremità si trovava un orologio di dimensioni imponenti.
 
@@ -432,7 +432,7 @@ it; yet a sense of [[concepts/pride|pride]] on my part, and a veritable dignity 
 his own, kept us always upon what are called “speaking terms,”
 while there were many points of strong congeniality in our
 tempers, operating to awake me in a sentiment which our position
-alone, perhaps, prevented from ripening into [[concepts/friendship|friendship]]. It is
+[[Alone|alone]], perhaps, prevented from ripening into [[concepts/friendship|friendship]]. It is
 difficult, indeed, to define, or even to describe, my real
 feelings towards him. They formed a motley and heterogeneous
 admixture;—some petulant animosity, which was not yet hatred,
@@ -514,7 +514,7 @@ Il senso di irritazione che ne derivava cresceva ad ogni occasione in cui si ris
 <span class="atom-split" data-atom="part--part_04" data-title="William Wilson (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/memory,motif/nature,motif/night,motif/sleep,motif/time,concept/doubt,concept/friendship,concept/nature,concept/truth,form/riddle,character/william_wilson"></span>
 
 
-His cue, which was to perfect an imitation of myself, lay both in
+His cue, which was to perfect an [[Imitation|imitation]] of myself, lay both in
 words and in actions; and most admirably did he play his part. My
 dress it was an easy matter to copy; my gait and general manner
 were, without difficulty, appropriated; in spite of his
@@ -526,12 +526,12 @@ of my own_.
 How greatly this most exquisite portraiture harassed me, (for it
 could not justly be termed a caricature,) I will not now venture
 to describe. I had but one consolation—in the fact that the
-imitation, apparently, was noticed by myself alone, and that I
+[[Imitation|imitation]], apparently, was noticed by myself [[Alone|alone]], and that I
 had to endure only the knowing and strangely sarcastic smiles of
 my namesake himself. Satisfied with having produced in my bosom
 the intended effect, he seemed to chuckle in secret over the
 sting he had inflicted, and was characteristically disregardful
-of the public applause which the success of his witty endeavours
+of the public applause which the [[success]] of his witty endeavours
 might have so easily elicited. That the school, indeed, did not
 feel his design, perceive its accomplishment, and participate in
 his sneer, was, for many anxious months, a [[forms/riddle|riddle]] I could not
@@ -577,7 +577,7 @@ or fancied I discovered, in his accent, his air, and general
 appearance, a something which first startled, and then deeply
 interested me, by bringing to mind dim visions of my earliest
 infancy—wild, confused and thronging memories of a [[motifs/time|time]] when
-[[motifs/memory|memory]] herself was yet unborn. I cannot better describe the
+[[motifs/memory|memory]] herself was yet [[unborn]]. I cannot better describe the
 sensation which oppressed me than by saying that I could with
 difficulty shake off the belief of my having been acquainted with
 the being who stood before me, at some epoch very long ago—some
@@ -586,7 +586,7 @@ faded rapidly as it came; and I mention it at all but to define
 the day of the last conversation I there held with my singular
 namesake.
 
-The huge old house, with its countless subdivisions, had several
+The huge old [[house]], with its countless subdivisions, had several
 large chambers communicating with each other, where slept the
 greater number of the students. There were, however, (as must
 necessarily happen in a building so awkwardly planned,) many
@@ -611,7 +611,7 @@ and listened to the sound of his tranquil breathing. Assured of
 his being asleep, I returned, took the light, and with it again
 approached the bed. Close curtains were around it, which, in the
 prosecution of my plan, I slowly and quietly withdrew, when the
-bright rays fell vividly upon the sleeper, and my eyes, at the
+bright rays fell vividly upon [[The Sleeper|the sleeper]], and my eyes, at the
 same moment, upon his countenance. I looked;—and a numbness, an
 iciness of feeling instantly pervaded my frame. My breast heaved,
 my knees tottered, my whole spirit became possessed with an
@@ -624,10 +624,10 @@ manner? I gazed;—while my brain reeled with a multitude of
 incoherent thoughts. Not thus he appeared—assuredly not thus—in
 the vivacity of his waking hours. The same name! the same contour
 of person! the same day of arrival at the academy! And then his
-dogged and meaningless imitation of my gait, my voice, my habits,
+dogged and meaningless [[Imitation|imitation]] of my gait, my voice, my habits,
 and my manner! Was it, in [[concepts/truth|truth]], within the bounds of human
 possibility, that what I now saw was the result, merely, of the
-habitual practice of this sarcastic imitation? Awe-stricken, and
+habitual practice of this sarcastic [[Imitation|imitation]]? Awe-stricken, and
 with a creeping shudder, I extinguished the lamp, passed silently
 from the chamber, and left, at once, the halls of that old
 academy, never to enter them again.
@@ -635,7 +635,7 @@ academy, never to enter them again.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il suo compito consisteva nel perfezionare un'imitazione di me stesso, e ci riuscì in modo davvero ammirevole. Era facile copiare il mio abbigliamento; il mio passo e il mio comportamento in generale furono facilmente imitati; nonostante il suo difetto congenito, nemmeno la mia voce gli sfuggì. Ovviamente evitò di utilizzare i miei toni più forti, ma la base su cui si basava l’imitazione era identica alla mia. E il suo sussurro diventò letteralmente l’eco del mio stesso sussurro.
+Il suo compito consisteva nel perfezionare un'[[Imitation|imitazione]] di me stesso, e ci riuscì in modo davvero ammirevole. Era facile copiare il mio abbigliamento; il mio passo e il mio comportamento in generale furono facilmente imitati; nonostante il suo difetto congenito, nemmeno la mia voce gli sfuggì. Ovviamente evitò di utilizzare i miei toni più forti, ma la base su cui si basava l’imitazione era identica alla mia. E il suo sussurro diventò letteralmente l’eco del mio stesso sussurro.
 
 Quanto questo raffinatissimo ritratto mi tormentasse, poiché non poteva certo essere definito una caricatura, ora non oso nemmeno descriverlo. Avevo soltanto un conforto: l’imitazione, a quanto pare, era stata notata soltanto da me, e dovevo sopportare soltanto i sorrisi comprensivi e stranamente sarcastici dello stesso uomo che portava il mio nome. Risolto di aver ottenuto l’effetto desiderato, sembrava ridacchiare in segreto per la stoccata che aveva inflitto, e, come al solito, ignorava completamente gli applausi del pubblico che il successo delle sue argute imitazioni avrebbe potuto facilmente suscitare. Il fatto che l’intera scuola non riconoscesse il suo intento, non apprezzasse il risultato ottenuto e non condividesse la sua derisione, per molti mesi angosciosi rimase un mistero che non riuscii a risolvere. Forse la gradazione delle sue imitazioni rendeva queste meno evidenti; oppure, più probabilmente, la mia “sicurezza” dipendeva dall’abilità del copista, il quale, disdegnando i dettagli superficiali (che in un dipinto sono tutto ciò che gli occhi meno attenti riescono a percepire), trasmetteva soltanto lo spirito originale dell’opera, lasciandomi solo con la mia delusione e il mio rammarico.
 
@@ -645,9 +645,9 @@ Così come stavano le cose, alla fine iniziai ad annoiarmi terribilmente sotto l
 
 Fu più o meno in quel periodo, se ricordo bene, che, durante un alterco violento con lui, nel quale egli fu più del solito colto di sorpresa e parlò e agì con una schiettezza nel comportamento piuttosto insolita per la sua [[concepts/nature|natura]], notai, o credetti di notare, nel suo accento, nel suo atteggiamento e nel suo aspetto generale qualcosa che all’inizio mi sorprese profondamente, per poi suscitare in me un grande interesse. Quell’aspetto mi fece ricordare vaghe immagini della mia prima infanzia: ricordi confusi e frammentati di un [[motifs/time|tempo]] in cui la stessa [[motifs/memory|memoria]] non esisteva ancora. Non posso descrivere meglio quella sensazione se non dicendo che fui quasi incapace di scacciare l’idea di aver già conosciuto quell’essere che mi stava davanti, in un’epoca molto lontana nel passato, un punto del tempo addirittura infinitamente remoto. Tuttavia, quell’illusione svanì rapidamente; menziono tutto ciò soltanto per precisare la data dell’ultima conversazione che ebbi con quel mio singolare omonimo.
 
-Quella enorme e vecchia casa, con le sue innumerevoli stanze, aveva diverse grandi sale collegate tra loro, dove dormivano la maggior parte degli studenti. C'erano tuttavia, (come è inevitabile in un edificio così mal progettato), molti angoli nascosti o recessi; e l’ingegnosità di Dr. Bransby aveva reso anche questi spazi adatti come dormitori; sebbene, essendo semplici armadi, potessero ospitare soltanto una persona ciascuno. Uno di questi piccoli alloggi era occupato da Wilson.
+Quella enorme e vecchia [[house|casa]], con le sue innumerevoli stanze, aveva diverse grandi sale collegate tra loro, dove dormivano la maggior parte degli studenti. C'erano tuttavia, (come è inevitabile in un edificio così mal progettato), molti angoli nascosti o recessi; e l’ingegnosità di Dr. Bransby aveva reso anche questi spazi adatti come dormitori; sebbene, essendo semplici armadi, potessero ospitare soltanto una persona ciascuno. Uno di questi piccoli alloggi era occupato da Wilson.
 
-Una [[motifs/night|notte]], verso la fine del mio quinto anno di scuola, e subito dopo l’incidente appena menzionato, trovando tutti addormentati, mi alzai dal letto e, con una lampada in mano, mi intrufolai attraverso un labirinto di stretti corridoi dalla mia stanza alla stanza del mio rivale. Da tempo avevo pianificato di mettere in atto uno di quei scherzi maliziosi a suo scapito, ma fino ad allora non ci ero mai riuscito. Ora intendevo realizzare il mio piano e fargli sentire tutta la malvagità che provavo verso di lui. Arrivato nel suo armadio, entrai silenziosamente, lasciando la lampada con la sua griglia fuori dalla stanza. Mi avvicinai al letto e ascoltai il suono del suo respiro tranquillo; essendo certo che dormisse, presi la lampada e mi avvicinai di nuovo al letto. Le tende erano chiuse attorno a esso; le scostai lentamente e silenziosamente. I raggi luminosi illuminarono il dormiente. E i miei occhi videro il suo volto. Guardai, e un gelo intenso pervase tutto il mio corpo. Il mio petto si sollevò, le ginocchia mi tremarono. Un orrore insopportabile mi invase. Con difficoltà respirando, avvicinai ancora di più la lampada al suo viso. Erano davvero i tratti del [[characters/william-wilson|William Wilson]]? Sì, erano proprio i suoi. Ma tremavo, come se stessi soffrendo di un attacco febbrile. Cosa c’era in loro che mi confondeva così tanto? Guardavo, mentre la mia mente era invasa da pensieri confusi e incoerenti. Non lo avevo mai visto così. Assolutamente no. Con lo stesso nome, la stessa corporatura, lo stesso giorno di arrivo all’accademia. E poi quella sua ostinata e insensata imitazione del mio modo di camminare, della mia voce, dei miei gesti. Era davvero possibile che tutto ciò fosse il risultato semplicemente dell’abitudine a imitarmi in modo sarcastico? Sconvolto e tremante, spensi la lampada, uscii silenziosamente dalla stanza e lasciai per sempre gli edifici di quell’antica accademia. Per non tornarci mai più.
+Una [[motifs/night|notte]], verso la fine del mio quinto anno di scuola, e subito dopo l’incidente appena menzionato, trovando tutti addormentati, mi alzai dal letto e, con una lampada in mano, mi intrufolai attraverso un labirinto di stretti corridoi dalla mia stanza alla stanza del mio rivale. Da tempo avevo pianificato di mettere in atto uno di quei scherzi maliziosi a suo scapito, ma fino ad allora non ci ero mai riuscito. Ora intendevo realizzare il mio piano e fargli sentire tutta la malvagità che provavo verso di lui. Arrivato nel suo armadio, entrai silenziosamente, lasciando la lampada con la sua griglia fuori dalla stanza. Mi avvicinai al letto e ascoltai il suono del suo respiro tranquillo; essendo certo che dormisse, presi la lampada e mi avvicinai di nuovo al letto. Le tende erano chiuse attorno a esso; le scostai lentamente e silenziosamente. I raggi luminosi illuminarono il [[The Sleeper|dormiente]]. E i miei occhi videro il suo volto. Guardai, e un gelo intenso pervase tutto il mio corpo. Il mio petto si sollevò, le ginocchia mi tremarono. Un orrore insopportabile mi invase. Con difficoltà respirando, avvicinai ancora di più la lampada al suo viso. Erano davvero i tratti del [[characters/william-wilson|William Wilson]]? Sì, erano proprio i suoi. Ma tremavo, come se stessi soffrendo di un attacco febbrile. Cosa c’era in loro che mi confondeva così tanto? Guardavo, mentre la mia mente era invasa da pensieri confusi e incoerenti. Non lo avevo mai visto così. Assolutamente no. Con lo stesso nome, la stessa corporatura, lo stesso giorno di arrivo all’accademia. E poi quella sua ostinata e insensata [[Imitation|imitazione]] del mio modo di camminare, della mia voce, dei miei gesti. Era davvero possibile che tutto ciò fosse il risultato semplicemente dell’abitudine a imitarmi in modo sarcastico? Sconvolto e tremante, spensi la lampada, uscii silenziosamente dalla stanza e lasciai per sempre gli edifici di quell’antica accademia. Per non tornarci mai più.
 
 
 
@@ -854,7 +854,7 @@ an intolerable weight of anxiety was for a brief instant lifted
 from my bosom by the sudden and extraordinary interruption which
 ensued. The wide, heavy folding doors of the apartment were all
 at once thrown open, to their full extent, with a vigorous and
-rushing impetuosity that extinguished, as if by magic, every
+rushing impetuosity that extinguished, as if by [[Magic|magic]], every
 candle in the room. Their light, in dying, enabled us just to
 perceive that a stranger had entered, about my own height, and
 closely muffled in a cloak. The darkness, however, was now total;
@@ -1074,7 +1074,7 @@ The contest was brief indeed. I was frantic with every species of
 wild excitement, and felt within my single arm the energy and
 power of a multitude. In a few seconds I forced him by sheer
 strength against the wainscoting, and thus, getting him at [[concepts/mercy|mercy]],
-plunged my sword, with brute ferocity, repeatedly through and
+plunged my [[Sword|sword]], with brute ferocity, repeatedly through and
 through his bosom.
 
 At that instant some person tried the latch of the door. I
@@ -1116,7 +1116,7 @@ In un’assoluta frenesia di rabbia, mi rivolsi immediatamente verso colui che m
 
 Appena entrato, lo spinsi via con furia. Barcollò contro il muro, mentre io chiudevo la porta imprecando e gli ordinavo di tirare. Esitò solo per un istante; poi, con un leggero sospiro, cadde nel [[motifs/silence|silenzio]] e si preparò a difendersi.
 
-La battaglia fu davvero breve. Ero in preda a un'emozione selvaggia e intensa; sentivo nella mia singola mano l’energia e la forza di molte persone. In pochi secondi lo spinsi con tutta la mia forza contro il rivestimento della parete, mettendolo così alla [[concepts/mercy|miseria]], e poi affondai la mia _spada, con una ferocia selvaggia, più e più volte nel suo petto.
+La battaglia fu davvero breve. Ero in preda a un'emozione selvaggia e intensa; sentivo nella mia singola mano l’energia e la forza di molte persone. In pochi secondi lo spinsi con tutta la mia forza contro il rivestimento della parete, mettendolo così alla [[concepts/mercy|miseria]], e poi affondai la mia [[Sword|_spada]], con una ferocia selvaggia, più e più volte nel suo petto.
 
 In quell’istante qualcuno provò ad aprire la porta con il chiavistello. Mi affrettai a impedire l’intrusione e subito dopo tornai dal mio avversario morente. Ma quale lingua umana potrebbe descrivere adeguatamente quell’orrore, quella paura che mi invase di fronte a quella scena terribile? Il breve attimo in cui distolsi lo sguardo fu sufficiente perché le cose nella parte superiore della stanza subissero un cambiamento evidente: un grande [[motifs/mirror|specchio]], che all’inizio mi sembrò essere apparso lì dove prima non c’era nulla, ora si trovava nel punto in cui prima non esisteva affatto. E quando mi avvicinai a esso, in preda al terrore, la mia stessa immagine – ma con i tratti del viso pallidi e macchiati di [[motifs/blood|sangue]] – mi apparve davanti, camminando con passi deboli e incerti.
 

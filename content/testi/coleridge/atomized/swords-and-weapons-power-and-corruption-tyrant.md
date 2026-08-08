@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant" data-author="Coleridge" data-workhref="works/swords-and-weapons-·-power-and-corruption-·-tyrant-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="009_destruction_of_the_bastile" data-title="DESTRUCTION OF THE BASTILE" data-chapter="" data-kind="intro" data-tags="archetype/tyrant,archetype/rebel,motif/storm,concept/reform,concept/power_and_corruption,concept/nationalism_and_patriotism,form/ode,histref/the_french_revolution,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="009_destruction_of_the_bastile" data-title="DESTRUCTION OF THE BASTILE" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -49,8 +49,8 @@ And Eloquence shall fearless glow.
 Yes! Liberty the [[motifs/soul|soul]] of Life shall reign,  
 Shall throb in every pulse, shall flow thro’ every vein!   30  
 VI  
-Shall France alone a Despot spurn?  
-Shall she alone, O [[concepts/freedom|Freedom]], boast thy care?  
+Shall France [[Alone|alone]] a Despot spurn?  
+Shall she [[Alone|alone]], O [[concepts/freedom|Freedom]], boast thy care?  
 Lo, round thy standard Belgia’s heroes burn,  
 Tho’ Power’s [[motifs/blood|blood]]-stain’d streamers [[motifs/fire|fire]] the air,  
 And wider yet thy influence spread,   35  
@@ -64,7 +64,7 @@ First ever of the first and freest of the free!   40
 
 
 
-<span class="atom-split" data-atom="064_to_a_young_lady_with_a_poem_on_the_french_revolution" data-title="TO A YOUNG LADY WITH A POEM ON THE FRENCH REVOLUTION" data-chapter="" data-kind="intro" data-tags="archetype/tyrant,motif/chains,concept/reform,concept/war_and_its_cost,concept/power_and_corruption,concept/beauty,form/lyric,histref/the_french_revolution,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="064_to_a_young_lady_with_a_poem_on_the_french_revolution" data-title="TO A YOUNG LADY WITH A POEM ON THE FRENCH REVOLUTION" data-chapter="" data-kind="intro"></span>
 
 
 Much on my early youth I [[motifs/love|love]] to dwell,  
@@ -116,7 +116,7 @@ September 1794.
 
 
 
-<span class="atom-split" data-atom="095_lines_to_a_friend_in_answer_to_a_melancholy_letter" data-title="LINES TO A FRIEND IN ANSWER TO A MELANCHOLY LETTER" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,archetype/tyrant,motif/time,concept/melancholy,concept/friendship,concept/power_and_corruption,form/lyric,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="095_lines_to_a_friend_in_answer_to_a_melancholy_letter" data-title="LINES TO A FRIEND IN ANSWER TO A MELANCHOLY LETTER" data-chapter="" data-kind="intro"></span>
 
 
 Away, those cloudy looks, that labouring sigh,  
@@ -148,7 +148,7 @@ Barter for food, the jewels of his [[motifs/crown|crown]].
 
 
 
-<span class="atom-split" data-atom="125_ode_to_the_departing_year" data-title="ODE TO THE DEPARTING YEAR" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/blood,concept/war_and_its_cost,concept/providence,concept/nationalism_and_patriotism,form/pindaric_ode,histref/the_french_revolution,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="125_ode_to_the_departing_year" data-title="ODE TO THE DEPARTING YEAR" data-chapter="" data-kind="intro"></span>
 
 
 8¿z 0¿{, b b º±ºq.  
@@ -162,7 +162,7 @@ Aeschyl. Agam. 1173-75; 1199-1200.
 
 
 
-<span class="atom-split" data-atom="144_179_8_fire_famine_and_slaughter" data-title="179 8 FIRE, FAMINE, AND SLAUGHTER" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/blood,concept/war_and_its_cost,concept/power_and_corruption,concept/satire_of_society,form/verse_drama,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="144_179_8_fire_famine_and_slaughter" data-title="179 8 FIRE, FAMINE, AND SLAUGHTER" data-chapter="" data-kind="intro"></span>
 
 
 A WAR ECLOGUE
@@ -196,7 +196,7 @@ Both. Who bade you do ‘t?
 Slau.       The same! the same!
 Letters four do form his name.   25
 He let me loose, and cried Halloo!
-To him alone the praise is due.
+To him [[Alone|alone]] the praise is due.
 Fam. Thanks, sister, thanks! the men have bled,
 Their wives and their children faint for bread.
 I stood in a swampy field of battle;   30
@@ -215,7 +215,7 @@ Both. Who bade you do ‘t?
 Fam.        The same! the same!
 Letters four do form his name.
 He let me loose, and cried, Halloo!
-To him alone the praise is due.   45
+To him [[Alone|alone]] the praise is due.   45
 [[motifs/fire|Fire]]. Sisters! I from Ireland came!
 Hedge and corn-fields all on flame,
 I triumph’d o’er the setting sun!
@@ -228,7 +228,7 @@ With uncouth gallop through the [[motifs/night|night]],
 Scared by the red and noisy light!   55
 By the light of his own blazing cot
 Was many a naked [[archetypes/rebel|Rebel]] shot:
-The house-stream met the flame and hissed,
+The [[house]]-stream met the flame and hissed,
 While crash! fell in the roof, I wist,
 On some of those old bed-rid nurses,   60
 That deal in discontent and curses.
@@ -236,7 +236,7 @@ Both. Who bade you do’t?
 [[motifs/fire|Fire]].      The same! the same!
 Letters four do form his name.
 He let me loose, and cried Halloo!
-To him alone the praise is due.   65
+To him [[Alone|alone]] the praise is due.   65
 All. He let us loose, and cried Halloo!
 How shall we yield him [[concepts/honour|honour]] due?
 Fam. Wisdom comes with lack of food.
@@ -251,14 +251,14 @@ Ninety months he, by my troth!
 Hath richly catered for you both;
 And in an hour would you repay
 An eight years’ work? — Away! away!
-I alone am faithful! I   80
+I [[Alone|alone]] am faithful! I   80
 Cling to him everlastingly.
 1798.
 
 
 
 
-<span class="atom-split" data-atom="145_famine" data-title="FAMINE." data-chapter="" data-kind="intro" data-tags="motif/blood,concept/war_and_its_cost,concept/power_and_corruption,form/fragment,form/verse_drama,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="145_famine" data-title="FAMINE." data-chapter="" data-kind="intro"></span>
 
 
 Then
@@ -288,7 +288,7 @@ Full ninety moons, he by my troth!
 Hath richly cater’d for you both!
 And in an hour would you repay
 An eight years’ debt? Away! away!
-I alone am faithful! I
+I [[Alone|alone]] am faithful! I
 Cling to him everlastingly.
 LABERIUS.
 M. P.
@@ -297,7 +297,7 @@ M. P.
 
 
 
-<span class="atom-split" data-atom="168_tells_birth-place_imitated_from_stolberg" data-title="TELL’S BIRTH-PLACE: IMITATED FROM STOLBERG" data-chapter="" data-kind="intro" data-tags="archetype/hero,archetype/child,motif/nature,concept/heroism,concept/freedom_and_liberty,concept/faith,form/hymn,form/translation,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="168_tells_birth-place_imitated_from_stolberg" data-title="TELL’S BIRTH-PLACE: IMITATED FROM STOLBERG" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -340,7 +340,7 @@ Of [[concepts/slavery|Slavery]] —— the which he broke!
 
 
 
-<span class="atom-split" data-atom="186_ode_to_georgiana_duchess_of_devonshire" data-title="ODE TO GEORGIANA, DUCHESS OF DEVONSHIRE" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,archetype/hero,concept/economics,concept/freedom_and_liberty,concept/class_conflict,concept/social_injustice,concept/poverty,concept/heroism,form/ode,form/pindaric_ode,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="186_ode_to_georgiana_duchess_of_devonshire" data-title="ODE TO GEORGIANA, DUCHESS OF DEVONSHIRE" data-chapter="" data-kind="intro"></span>
 
 
 ON THE TWENTY-FOURTH STANZA IN HER ‘PASSAGE OVER MOUNT GOTHARD’  
@@ -354,7 +354,7 @@ Where once the Austrian fell
 Beneath the shaft of Tell!  
 O Lady, nursed in pomp and pleasure!    5  
 Whence learn’d you that heroic measure?  
-Light as a dream your days their circlets ran,  
+Light as [[A Dream|a dream]] your days their circlets ran,  
 From all that teaches brotherhood to Man  
 Far, far removed! from want, from [[concepts/hope|hope]], from [[concepts/fear|fear]]!  
 Enchanting music lulled your infant ear,   10  
@@ -436,11 +436,11 @@ Thence learn’d you that heroic measure.
 
 
 
-<span class="atom-split" data-atom="189_talleyrand_minister_of_foreign_affairs_at_paris_to_lord_grenville" data-title="TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE" data-chapter="" data-kind="intro" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/power_and_corruption,concept/deception,form/satire,form/verse_epistle,form/heroic_couplet,histref/napoleonic_wars,histref/the_french_revolution,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="189_talleyrand_minister_of_foreign_affairs_at_paris_to_lord_grenville" data-title="TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE" data-chapter="" data-kind="intro"></span>
 
 
 SECRETARY OF STATE IN GREAT BRITAIN FOR FOREIGN AFFAIRS, AUDITOR OF THE  
-EXCHEQUER, A LORD OF TRADE, AN ELDER BROTHER OF TRINITY HOUSE, ETC.  
+EXCHEQUER, A LORD OF TRADE, AN ELDER BROTHER OF TRINITY [[house|HOUSE]], ETC.  
 My Lord! though your Lordship repel deviation  
 From forms long establish’d, yet with high consideration,  
 I plead for the [[concepts/honour|honour]] to [[concepts/hope|hope]] that no blame  
@@ -456,7 +456,7 @@ That your Lordship’s ungauntleted fingers need [[concepts/fear|fear]]
 An infection or burn! Believe me, ‘tis true,  
 With a scorn like another I look down on the crew  
 That bawl and hold up to the mob’s detestation   15  
-The most delicate wish for a silent persuasion.  
+The most delicate wish for a silent [[Persuasion|persuasion]].  
 A form long-establish’d these Terrorists call  
 Bribes, perjury, theft, and the devil and all!  
 And yet spite of all that the Moralist prates,  
@@ -494,7 +494,7 @@ Compell’d to drive on to the main point at once,   50
 What a plentiful vintage of initiations  
 Would Noble Lords lose in your Lordship’s orations.  
 My fancy transports me! As mute as a mouse,  
-And as fleet as a pigeon, I’m borne to the house  
+And as fleet as a pigeon, I’m borne to the [[house]]  
 Where all those who are Lords, from father to son,   55  
 Discuss the affairs of all those who are none.  
 I behold you, my Lord! of your feelings quite full,  
@@ -540,7 +540,7 @@ Unless all who must think are maintain’d all in [[motifs/silence|silence]].
 This printing, my Lord — but ‘tis useless to mention  
 What we both of us think—’twas a curséd invention,  
 And [[settings/germany|Germany]] might have been honestly prouder  
-Had she left it alone, and found out only powder.   100  
+Had she left it [[Alone|alone]], and found out only powder.   100  
 My Lord! when I think of our labours and cares  
 Who rule the Department of foreign affairs,  
 And how with their libels these journalists bore us,  
@@ -560,7 +560,7 @@ To pause, and resume the remainder to-morrow.
 
 
 
-<span class="atom-split" data-atom="386_fragment_of_an_ode_on_napoleon" data-title="FRAGMENT OF AN ODE ON NAPOLEON" data-chapter="" data-kind="intro" data-tags="topos/katabasis_descent,archetype/tyrant,concept/power_and_corruption,concept/love_romantic,form/ode,form/fragment,histref/greek_mythology,histref/napoleonic_wars,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="386_fragment_of_an_ode_on_napoleon" data-title="FRAGMENT OF AN ODE ON NAPOLEON" data-chapter="" data-kind="intro"></span>
 
 
 O’erhung with yew, midway the Muses mount  
@@ -610,7 +610,7 @@ Dearest! me thought of him to thee so dear!
 
 
 
-<span class="atom-split" data-atom="388_translation_of_the_first_strophe_of_pindars_second_olympic" data-title="TRANSLATION OF THE FIRST STROPHE OF PINDAR’S SECOND OLYMPIC" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,concept/heroism,concept/faith_and_doubt,form/pindaric_ode,histref/ancient_greece,histref/greek_mythology,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="388_translation_of_the_first_strophe_of_pindars_second_olympic" data-title="TRANSLATION OF THE FIRST STROPHE OF PINDAR’S SECOND OLYMPIC" data-chapter="" data-kind="intro"></span>
 
 
 ‘As nearly as possible word for word.’  
@@ -645,7 +645,7 @@ Casts on the thin mist of th’ uncertain future.
 
 
 
-<span class="atom-split" data-atom="395_napoleon" data-title="NAPOLEON" data-chapter="" data-kind="intro" data-tags="archetype/tyrant,motif/sun,concept/power_and_corruption,concept/conscience,concept/grief_and_loss,concept/love_divine,form/fragment,histref/napoleonic_wars,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="395_napoleon" data-title="NAPOLEON" data-chapter="" data-kind="intro"></span>
 
 
 The Sun with gentle beams his rage disguises,  
@@ -673,7 +673,7 @@ Where’er I find the Good, the True, the Fair,
 I ask no names — God’s spirit dwelleth there!  
 The unconfounded, undivided Three,  
 Each for itself, and all in each, to see  
-In man and [[concepts/nature|Nature]], is Philosophy.  
+In man and [[concepts/nature|Nature]], is [[philosophy|Philosophy]].  
 Undated. First published from an MS. in 1893.  
 A [[motifs/wind|wind]] that with Aurora hath abiding  
 Among the Arabian and the Persian Hills.  
@@ -700,7 +700,7 @@ collected P. and D. W., 1877, ii. 373.
 
 
 
-<span class="atom-split" data-atom="400_metrical_experiment_an_experiment_for_a_metre" data-title="METRICAL EXPERIMENT: AN EXPERIMENT FOR A METRE" data-chapter="" data-kind="intro" data-tags="archetype/tyrant,motif/wine_and_drink,motif/stars,concept/power_and_corruption,form/fragment,form/ode,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="400_metrical_experiment_an_experiment_for_a_metre" data-title="METRICAL EXPERIMENT: AN EXPERIMENT FOR A METRE" data-chapter="" data-kind="intro"></span>
 
 
 I heard a voice pealing loud triumph to-day:  
@@ -724,7 +724,7 @@ By her depth, by her height, [[concepts/nature|Nature]] swears thou art mine!
 
 
 
-<span class="atom-split" data-atom="418_fulke_greville_lord_brooke" data-title="FULKE GREVILLE: LORD BROOKE" data-chapter="" data-kind="intro" data-tags="topos/vanitas,topos/contemptus_mundi,archetype/tyrant,concept/pride,concept/power_and_corruption,concept/faith,form/epigram,histref/napoleonic_wars,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="418_fulke_greville_lord_brooke" data-title="FULKE GREVILLE: LORD BROOKE" data-chapter="" data-kind="intro"></span>
 
 
 God and the World they worship still together,  
@@ -778,7 +778,7 @@ Athenæum, April 25, 1903, p. 531.
 
 
 
-<span class="atom-split" data-atom="427_samuel_daniel" data-title="SAMUEL DANIEL" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,concept/justice,concept/kingship_and_legitimacy,concept/order_vs_chaos,concept/war_and_its_cost,histref/king_alfred,character/king_alfred,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="427_samuel_daniel" data-title="SAMUEL DANIEL" data-chapter="" data-kind="intro"></span>
 
 
 EPISTLE TO SIR THOMAS EGERTON, KNIGHT  
@@ -838,7 +838,7 @@ Coleridge in 1837.
 
 
 
-<span class="atom-split" data-atom="436_stolberg" data-title="STOLBERG" data-chapter="" data-kind="intro" data-tags="archetype/hero,archetype/rebel,motif/blood,concept/nationalism_and_patriotism,concept/heroism,concept/providence,form/ballad,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="436_stolberg" data-title="STOLBERG" data-chapter="" data-kind="intro"></span>
 
 
 BEI WILHELM TELLS GEBURTSSTÄTTE IM KANTON URI  

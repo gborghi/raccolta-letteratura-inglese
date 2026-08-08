@@ -37,13 +37,13 @@ tags:
 
 Raccolta tematica di 7 componimenti di Samuel Taylor Coleridge.
 
-- [[testi/coleridge/atomized/essay-critique-of-progress-common-man#053_lines_written_at_the_kings_arms_ross_formerly_the_house_of_the_man_of_ross|LINES: WRITTEN AT THE KING’S ARMS, ROSS, FORMERLY THE HOUSE OF THE ‘MAN OF ROSS’]]
-- [[testi/coleridge/atomized/essay-critique-of-progress-common-man#069_on_the_prospect_of_establishing_a_pantisocracy_in_america|ON THE PROSPECT OF ESTABLISHING A PANTISOCRACY IN AMERICA]]
-- [[testi/coleridge/atomized/essay-critique-of-progress-common-man#068_pantisocracy|PANTISOCRACY]]
-- [[testi/coleridge/atomized/essay-critique-of-progress-common-man#370_the_bridge_street_committee|THE BRIDGE STREET COMMITTEE]]
-- [[testi/coleridge/atomized/essay-critique-of-progress-common-man#136_the_dungeon|THE DUNGEON]]
-- [[testi/coleridge/atomized/essay-critique-of-progress-common-man#077_to_a_young_ass_its_mother_being_tethered_near_it|TO A YOUNG ASS: ITS MOTHER BEING TETHERED NEAR IT]]
-- [[testi/coleridge/atomized/essay-critique-of-progress-common-man#023_to_the_rev_george_coleridge|TO THE REV. GEORGE COLERIDGE]]
+- [[works/lines-written-at-the-king’s-arms,-ross,-formerly-the-house-of-the-‘man-of-ross’-(coleridge)|LINES: WRITTEN AT THE KING’S ARMS, ROSS, FORMERLY THE HOUSE OF THE ‘MAN OF ROSS’]]
+- [[works/on-the-prospect-of-establishing-a-pantisocracy-in-america-(coleridge)|ON THE PROSPECT OF ESTABLISHING A PANTISOCRACY IN AMERICA]]
+- [[works/pantisocracy-(coleridge)|PANTISOCRACY]]
+- [[works/the-bridge-street-committee-(coleridge)|THE BRIDGE STREET COMMITTEE]]
+- [[works/the-dungeon-(coleridge)|THE DUNGEON]]
+- [[works/to-a-young-ass-its-mother-being-tethered-near-it-(coleridge)|TO A YOUNG ASS: ITS MOTHER BEING TETHERED NEAR IT]]
+- [[works/to-the-rev.-george-coleridge-(coleridge)|TO THE REV. GEORGE COLERIDGE]]
 
 ## Testo / Text
 

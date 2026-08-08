@@ -56,7 +56,7 @@ tags:
 
 **Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]]
 
-**Archetypes:** [[archetypes/prophet|Prophet]]
+**Archetypes:** Prophet
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/night-journey-vision|Night Journey Vision]]
 **Motifs:** [[motifs/city|City]], [[motifs/clock|Clock]], [[motifs/supernatural|Supernatural]], [[motifs/madness-(2)|Madness (2)]], [[motifs/horse|Horse]], [[motifs/chains|Chains]], [[motifs/road|Road]], [[motifs/hill|Hill]], [[motifs/dreams|Dreams]]

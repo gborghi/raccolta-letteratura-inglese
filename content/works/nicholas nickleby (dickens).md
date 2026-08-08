@@ -52,13 +52,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/hero|Hero]], [[archetypes/orphan|Orphan]]
+**Archetypes:** Villain, Hero, Orphan
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/city|City]], [[motifs/journey|Journey]]
 **Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/education|Education]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/satire-of-society|Satire of Society]], [[concepts/poverty|Poverty]], [[concepts/greed-and-money|Greed and Money]], [[concepts/common-man|Common Man]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/bildungsroman|Bildungsroman]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/nicholas-nickleby|Nicholas Nickleby]], [[characters/ralph-nickleby|Ralph Nickleby]], [[characters/kate-nickleby|Kate Nickleby]], [[characters/smike|Smike]], [[characters/wackford-squeers|Wackford Squeers]], [[characters/newman-noggs|Newman Noggs]], [[characters/madeline-bray|Madeline Bray]], [[characters/vincent-crummles|Vincent Crummles]], [[characters/cheeryble-brothers|Cheeryble Brothers]]
+**Characters:** Nicholas Nickleby, Ralph Nickleby, Kate Nickleby, Smike, Wackford Squeers, Newman Noggs, Madeline Bray, Vincent Crummles, Cheeryble Brothers
 
 ## Testo integrale / Full text
 

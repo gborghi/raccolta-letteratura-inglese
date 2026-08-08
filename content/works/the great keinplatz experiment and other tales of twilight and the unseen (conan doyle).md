@@ -32,5 +32,5 @@ tags:
 **Themes & Concepts:** [[concepts/unseen-the-hidden|Unseen The Hidden]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/guilt|Guilt]], [[concepts/deception|Deception]]
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[concepts/uncanny|Uncanny]], [[motifs/secrets|Secrets]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Archetypes:** [[archetypes/ghost|Ghost]]
+**Archetypes:** Ghost
 **Topoi:** [[topoi/memento-mori|Memento Mori]]

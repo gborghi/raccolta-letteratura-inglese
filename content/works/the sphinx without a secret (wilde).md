@@ -42,7 +42,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]]
-**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/lover|Lover]]
+**Archetypes:** Femme Fatale, Lover
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/silence|Silence]], [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/identity|Identity]], [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/short-story|Short Story]]

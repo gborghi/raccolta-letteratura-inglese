@@ -37,22 +37,22 @@ tags:
 
 Raccolta tematica di 16 componimenti di Samuel Taylor Coleridge.
 
-- 179 8 FIRE, FAMINE, AND SLAUGHTER
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#009_destruction_of_the_bastile|DESTRUCTION OF THE BASTILE]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#145_famine|FAMINE.]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#386_fragment_of_an_ode_on_napoleon|FRAGMENT OF AN ODE ON NAPOLEON]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#418_fulke_greville_lord_brooke|FULKE GREVILLE: LORD BROOKE]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#095_lines_to_a_friend_in_answer_to_a_melancholy_letter|LINES TO A FRIEND IN ANSWER TO A MELANCHOLY LETTER]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#400_metrical_experiment_an_experiment_for_a_metre|METRICAL EXPERIMENT: AN EXPERIMENT FOR A METRE]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#395_napoleon|NAPOLEON]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#186_ode_to_georgiana_duchess_of_devonshire|ODE TO GEORGIANA, DUCHESS OF DEVONSHIRE]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#125_ode_to_the_departing_year|ODE TO THE DEPARTING YEAR]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#427_samuel_daniel|SAMUEL DANIEL]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#436_stolberg|STOLBERG]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#189_talleyrand_minister_of_foreign_affairs_at_paris_to_lord_grenville|TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#168_tells_birth-place_imitated_from_stolberg|TELL’S BIRTH-PLACE: IMITATED FROM STOLBERG]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#064_to_a_young_lady_with_a_poem_on_the_french_revolution|TO A YOUNG LADY WITH A POEM ON THE FRENCH REVOLUTION]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#388_translation_of_the_first_strophe_of_pindars_second_olympic|TRANSLATION OF THE FIRST STROPHE OF PINDAR’S SECOND OLYMPIC]]
+- [[works/179-8-fire,-famine,-and-slaughter-(coleridge)|179 8 FIRE, FAMINE, AND SLAUGHTER]]
+- [[works/destruction-of-the-bastile-(coleridge)|DESTRUCTION OF THE BASTILE]]
+- [[works/famine.-(coleridge)|FAMINE.]]
+- [[works/fragment-of-an-ode-on-napoleon-(coleridge)|FRAGMENT OF AN ODE ON NAPOLEON]]
+- [[works/fulke-greville-lord-brooke-(coleridge)|FULKE GREVILLE: LORD BROOKE]]
+- [[works/lines-to-a-friend-in-answer-to-a-melancholy-letter-(coleridge)|LINES TO A FRIEND IN ANSWER TO A MELANCHOLY LETTER]]
+- [[works/metrical-experiment-an-experiment-for-a-metre-(coleridge)|METRICAL EXPERIMENT: AN EXPERIMENT FOR A METRE]]
+- [[works/napoleon-(coleridge)|NAPOLEON]]
+- [[works/ode-to-georgiana,-duchess-of-devonshire-(coleridge)|ODE TO GEORGIANA, DUCHESS OF DEVONSHIRE]]
+- [[works/ode-to-the-departing-year-(coleridge)|ODE TO THE DEPARTING YEAR]]
+- [[works/samuel-daniel-(coleridge)|SAMUEL DANIEL]]
+- [[works/stolberg-(coleridge)|STOLBERG]]
+- [[works/talleyrand,-minister-of-foreign-affairs-at-paris,-to-lord-grenville-(coleridge)|TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE]]
+- [[works/tell’s-birth-place-imitated-from-stolberg-(coleridge)|TELL’S BIRTH-PLACE: IMITATED FROM STOLBERG]]
+- [[works/to-a-young-lady-with-a-poem-on-the-french-revolution-(coleridge)|TO A YOUNG LADY WITH A POEM ON THE FRENCH REVOLUTION]]
+- [[works/translation-of-the-first-strophe-of-pindar’s-second-olympic-(coleridge)|TRANSLATION OF THE FIRST STROPHE OF PINDAR’S SECOND OLYMPIC]]
 
 ## Testo / Text
 

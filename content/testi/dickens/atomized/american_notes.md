@@ -152,7 +152,7 @@ CHAPTER VI
 CHAPTER VII
 Philadelphia, and its Solitary [[motifs/prison|Prison]]                               81
 CHAPTER VIII
-Washington.  The Legislature.  And the President’s House            94
+Washington.  The Legislature.  And the President’s [[house|House]]            94
 CHAPTER IX
 A [[motifs/night|Night]] Steamer on the Potomac [[motifs/river|River]].  Virginia [[motifs/road|Road]], and a        107
 Black Driver.  Richmond.  Baltimore.  The Harrisburg Mail,
@@ -235,7 +235,7 @@ utterly impracticable, thoroughly hopeless, and profoundly preposterous
 box, had the remotest reference to, or connection with, those chaste and
 pretty, not to say gorgeous little bowers, sketched by a masterly hand,
 in the highly varnished lithographic plan hanging up in the agent’s
-counting-house in the [[motifs/city|city]] of [[settings/london|London]]: that this room of state, in short,
+counting-[[house]] in the [[motifs/city|city]] of [[settings/london|London]]: that this room of state, in short,
 could be anything but a pleasant fiction and cheerful jest of the
 captain’s, invented and put in practice for the better relish and
 enjoyment of the real state-room presently to be disclosed:—these were
@@ -259,7 +259,7 @@ with windows in the sides; having at the upper end a [[concepts/melancholy|melan
 which three or four chilly stewards were warming their hands; while on
 either side, extending down its whole dreary length, was a long, long
 table, over each of which a rack, fixed to the low roof, and stuck full
-of drinking-glasses and cruet-stands, hinted dismally at rolling seas and
+of drinking-glasses and cruet-stands, hinted dismally at [[rolling]] seas and
 heavy weather.  I had not at that [[motifs/time|time]] seen the ideal presentment of this
 chamber which has since gratified me so much, but I observed that one of
 our friends who had made the arrangements for our voyage, turned pale on
@@ -412,7 +412,7 @@ When the morning—_the_ morning—came, and we met at breakfast, it was
 curious to see how eager we all were to prevent a moment’s pause in the
 conversation, and how astoundingly gay everybody was: the forced spirits
 of each member of the little party having as much likeness to his natural
-mirth, as hot-house peas at five guineas the quart, resemble in flavour
+mirth, as hot-[[house]] peas at five guineas the quart, resemble in flavour
 the growth of the dews, and air, and rain of Heaven.  But as one o’[[motifs/clock|clock]],
 the hour for going aboard, drew near, this volubility dwindled away by
 little and little, despite the most persevering efforts to the contrary,
@@ -564,7 +564,7 @@ and chain; the gleaming forth of light from every crevice, nook, and tiny
 piece of glass about the decks, as though the [[motifs/ship|ship]] were filled with [[motifs/fire|fire]]
 in hiding, ready to burst through any outlet, wild with its resistless
 power of [[motifs/death|death]] and ruin.  At first, too, and even when the hour, and all
-the objects it exalts, have come to be familiar, it is difficult, alone
+the objects it exalts, have come to be familiar, it is difficult, [[Alone|alone]]
 and thoughtful, to hold them to their proper shapes and forms.  They
 change with the wandering fancy; assume the semblance of things left far
 away; put on the [[motifs/well|well]]-remembered aspect of favourite places dearly loved;
@@ -625,7 +625,7 @@ she takes a high leap into the air.  Before she has [[motifs/well|well]] done th
 takes a deep dive into the [[motifs/water|water]].  Before she has gained the surface, she
 throws a summerset.  The instant she is on her legs, she rushes backward.
 And so she goes on staggering, heaving, wrestling, leaping, diving,
-jumping, pitching, throbbing, rolling, and rocking: and going through all
+jumping, pitching, throbbing, [[rolling]], and rocking: and going through all
 these movements, sometimes by turns, and sometimes altogether: until one
 feels disposed to roar for [[concepts/mercy|mercy]].
 
@@ -757,7 +757,7 @@ contention for the mastery—that every plank has its groan, every nail its
 shriek, and every drop of [[motifs/water|water]] in the great ocean its howling voice—is
 nothing.  To say that all is grand, and all appalling and horrible in the
 last degree, is nothing.  Words cannot express it.  Thoughts cannot
-convey it.  Only a dream can call it up again, in all its fury, rage, and
+convey it.  Only [[A Dream|a dream]] can call it up again, in all its fury, rage, and
 passion.
 
 And yet, in the very midst of these terrors, I was placed in a situation
@@ -784,7 +784,7 @@ about to administer it with many consolatory expressions to the nearest
 sufferer, what was my dismay to see them all roll slowly down to the
 other end!  And when I staggered to that end, and held out the glass once
 more, how immensely baffled were my good intentions by the [[motifs/ship|ship]] giving
-another lurch, and their all rolling back again!  I suppose I dodged them
+another lurch, and their all [[rolling]] back again!  I suppose I dodged them
 up and down this sofa for at least a quarter of an hour, without reaching
 them once; and by the [[motifs/time|time]] I did catch them, the brandy-and-[[motifs/water|water]] was
 diminished, by constant spilling, to a teaspoonful.  To complete the
@@ -804,7 +804,7 @@ uniform, lead colour.  There was no extent of prospect even over the
 dreary waste that lay around us, for the sea ran high, and the horizon
 encompassed us like a large black hoop.  Viewed from the air, or some
 tall bluff on shore, it would have been imposing and stupendous, no
-[[concepts/doubt|doubt]]; but seen from the wet and rolling decks, it only impressed one
+[[concepts/doubt|doubt]]; but seen from the wet and [[rolling]] decks, it only impressed one
 giddily and painfully.  In the gale of last [[motifs/night|night]] the life-boat had been
 crushed by one blow of the sea like a walnut-shell; and there it hung
 dangling in the air: a mere faggot of crazy boards.  The planking of the
@@ -825,7 +825,7 @@ where, besides ourselves, there were only four other passengers.  First,
 the little Scotch lady before mentioned, on her way to join her husband
 at [[settings/new-york|New York]], who had settled there three years before.  Secondly and
 thirdly, an honest young Yorkshireman, connected with some American
-house; domiciled in that same [[motifs/city|city]], and carrying thither his beautiful
+[[house]]; domiciled in that same [[motifs/city|city]], and carrying thither his beautiful
 young wife to whom he had been married but a fortnight, and who was the
 fairest specimen of a comely English country girl I have ever seen.
 Fourthly, fifthly, and lastly, another couple: newly married too, if one
@@ -833,7 +833,7 @@ might judge from the endearments they frequently interchanged: of whom I
 know no more than that they were rather a mysterious, run-away kind of
 couple; that the lady had great personal attractions also; and that the
 gentleman carried more guns with him than Robinson Crusoe, wore a
-shooting-coat, and had two great dogs on board.  On further
+shooting-coat, and had two great [[dogs]] on board.  On further
 consideration, I remember that he tried hot roast pig and bottled ale as
 a cure for sea-sickness; and that he took these remedies (usually in bed)
 day after day, with astonishing perseverance.  I may add, for the
@@ -866,7 +866,7 @@ taken medicinally.  We sit down at table again (rather more cheerfully
 than before); prolong the meal with a rather mouldy dessert of apples,
 grapes, and oranges; and drink our wine and brandy-and-[[motifs/water|water]].  The
 bottles and glasses are still upon the table, and the oranges and so
-forth are rolling about according to their fancy and the [[motifs/ship|ship]]’s way, when
+forth are [[rolling]] about according to their fancy and the [[motifs/ship|ship]]’s way, when
 the doctor comes down, by special nightly invitation, to join our evening
 rubber: immediately on whose arrival we make a party at whist, and as it
 is a rough [[motifs/night|night]] and the cards will not lie on the cloth, we put the
@@ -877,7 +877,7 @@ tied under his chin, and a pilot-coat: making the ground wet where he
 stands.  By this [[motifs/time|time]] the card-playing is over, and the bottles and
 glasses are again upon the table; and after an hour’s pleasant
 conversation about the [[motifs/ship|ship]], the passengers, and things in general, the
-captain (who never goes to bed, and is never out of humour) turns up his
+captain (who never goes to bed, and is never out of [[Humour|humour]]) turns up his
 coat collar for the deck again; shakes hands all round; and goes laughing
 out into the weather as merrily as to a birthday party.
 
@@ -894,7 +894,7 @@ fallen down-stairs at various dinner-times, and go about with plasters in
 various places.  The baker is ill, and so is the pastry-cook.  A new man,
 horribly indisposed, has been required to fill the place of the latter
 officer; and has been propped and jammed up with empty casks in a little
-house upon deck, and commanded to roll out pie-crust, which he protests
+[[house]] upon deck, and commanded to roll out pie-crust, which he protests
 (being highly bilious) it is [[motifs/death|death]] to him to look at.  News!  A dozen
 murders on shore would lack the interest of these slight incidents at
 sea.
@@ -994,9 +994,9 @@ Majesty’s representative, delivered what may be called the Speech from
 the Throne.  He said what he had to say manfully and [[motifs/well|well]].  The military
 band outside the building struck up “God save the [[characters/queen|Queen]]” with great
 vigour before his Excellency had quite finished; the people shouted; the
-in’s rubbed their hands; the out’s shook their heads; the Government
+in’s rubbed their hands; the out’s shook their heads; the [[government|Government]]
 party said there never was such a good speech; the Opposition declared
-there never was such a bad one; the Speaker and members of the House of
+there never was such a bad one; the Speaker and members of the [[house|House]] of
 Assembly withdrew from the bar to say a great deal among themselves and
 do a little: and, in short, everything went on, and promised to go on,
 just as it does at [[motifs/home|home]] upon the like occasions.
@@ -1056,8 +1056,8 @@ comforter informed me), ‘because they liked the excitement of it.’
 Suffice it in this place to say, that one of these invaders, with a ready
 courtesy for which I thank him here most gratefully, went on before to
 order rooms at the hotel; and that when I followed, as I soon did, I
-found myself rolling through the long passages with an involuntary
-imitation of the gait of Mr. T. P. Cooke, in a new nautical [[forms/melodrama|melodrama]].
+found myself [[rolling]] through the long passages with an involuntary
+[[Imitation|imitation]] of the gait of Mr. T. P. Cooke, in a new nautical [[forms/melodrama|melodrama]].
 
 ‘Dinner, if you please,’ said I to the waiter.
 
@@ -1086,7 +1086,7 @@ I saw now that ‘Right away’ and ‘Directly’ were one and the same thing.
 So I reversed my previous answer, and sat down to dinner in ten minutes
 afterwards; and a capital dinner it was.
 
-The hotel (a very excellent one) is called the Tremont House.  It has
+The hotel (a very excellent one) is called the Tremont [[house|House]].  It has
 more galleries, colonnades, piazzas, and passages than I can remember, or
 the reader would believe.
 
@@ -1102,7 +1102,7 @@ BOSTON
 
 _In_ all the public establishments of [[settings/america|America]], the utmost courtesy
 prevails.  Most of our Departments are susceptible of considerable
-improvement in this respect, but the Custom-house above all others would
+improvement in this respect, but the Custom-[[house]] above all others would
 do [[motifs/well|well]] to take example from the United States and render itself somewhat
 less odious and offensive to foreigners.  The servile rapacity of the
 French officials is sufficiently contemptible; but there is a surly
@@ -1111,12 +1111,12 @@ fall into their hands, and discreditable to the nation that keeps such
 ill-conditioned curs snarling about its gates.
 
 When I landed in [[settings/america|America]], I could not help being strongly impressed with
-the contrast their Custom-house presented, and the attention, politeness
-and good humour with which its officers discharged their duty.
+the contrast their Custom-[[house]] presented, and the attention, politeness
+and good [[Humour|humour]] with which its officers discharged their duty.
 
 As we did not land at Boston, in consequence of some detention at the
 wharf, until after dark, I received my first impressions of the [[motifs/city|city]] in
-walking down to the Custom-house on the morning after our arrival, which
+walking down to the Custom-[[house]] on the morning after our arrival, which
 was [[characters/sunday|Sunday]].  I am afraid to say, by the way, how many offers of pews and
 seats in church for that morning were made to us, by formal note of
 invitation, before we had half finished our first dinner in [[settings/america|America]], but
@@ -1147,7 +1147,7 @@ slight and unsubstantial in appearance—that every thoroughfare in the
 [[motifs/city|city]] looked exactly like a scene in a pantomime.  It rarely happens in
 the business streets that a tradesman, if I may venture to call anybody a
 tradesman, where everybody is a merchant, resides above his store; so
-that many occupations are often carried on in one house, and the whole
+that many occupations are often carried on in one [[house]], and the whole
 front is covered with boards and inscriptions.  As I walked along, I kept
 glancing up at these boards, confidently expecting to see a few of them
 change into something; and I never turned a corner suddenly without
@@ -1170,13 +1170,13 @@ up piecemeal like a [[archetypes/child|child]]’s toy, and crammed into a littl
 The [[motifs/city|city]] is a beautiful one, and cannot fail, I should imagine, to
 impress all strangers very favourably.  The private dwelling-houses are,
 for the most part, large and elegant; the shops extremely good; and the
-public buildings handsome.  The State House is built upon the summit of a
+public buildings handsome.  The State [[house|House]] is built upon the summit of a
 [[motifs/hill|hill]], which rises gradually at first, and afterwards by a steep ascent,
 almost from the [[motifs/water|water]]’s edge.  In front is a green enclosure, called the
 Common.  The site is beautiful: and from the top there is a charming
 panoramic view of the whole town and neighbourhood.  In addition to a
 variety of commodious offices, it contains two handsome chambers; in one
-the House of Representatives of the State hold their meetings: in the
+the [[house|House]] of Representatives of the State hold their meetings: in the
 other, the Senate.  Such proceedings as I saw here, were conducted with
 perfect gravity and decorum; and were certainly calculated to inspire
 attention and respect.
@@ -1210,7 +1210,7 @@ humanising tastes and desires it has engendered; the affectionate
 friendships to which it has given rise; the amount of [[concepts/vanity|vanity]] and
 prejudice it has dispelled.  The golden calf they worship at Boston is a
 pigmy compared with the giant effigies set up in other parts of that vast
-counting-house which lies beyond the Atlantic; and the almighty dollar
+counting-[[house]] which lies beyond the Atlantic; and the almighty dollar
 sinks into something comparatively insignificant, amidst a whole Pantheon
 of better gods.
 
@@ -1234,7 +1234,7 @@ display any extraordinary regard for the great mass of the people or to
 recognise their existence as improvable creatures, private charities,
 unexampled in the [[concepts/history|history]] of the earth, have arisen, to do an
 incalculable amount of good among the destitute and afflicted.  But the
-government of the country, having neither act nor part in them, is not in
+[[government]] of the country, having neither act nor part in them, is not in
 the receipt of any portion of the gratitude they inspire; and, offering
 very little shelter or relief beyond that which is to be found in the
 workhouse and the jail, has come, not unnaturally, to be looked upon by
@@ -1284,8 +1284,8 @@ over one dollar per week will be his own.  By the third year it will be
 known whether his earnings will more than pay the actual cost of his
 board; if they should, he will have it at his option to remain and
 receive his earnings, or not.  Those who prove unable to earn their own
-livelihood will not be retained; as it is not desirable to convert the
-establishment into an alms-house, or to retain any but working [[motifs/bees|bees]] in
+livelihood will not be retained; as it is not desirable to [[convert]] the
+establishment into an alms-[[house]], or to retain any but working [[motifs/bees|bees]] in
 the hive.  Those who by physical or mental imbecility are disqualified
 from work, are thereby disqualified from being members of an industrious
 community; and they can be better provided for in establishments fitted
@@ -1392,7 +1392,7 @@ desk she leaned upon.—From the mournful ruin of such bereavement, there
 had slowly risen up this gentle, tender, guileless, grateful-hearted
 being.
 
-Like other inmates of that house, she had a green ribbon bound round her
+Like other inmates of that [[house]], she had a green ribbon bound round her
 eyelids.  A doll she had dressed lay near upon the ground.  I took it up,
 and saw that she had made a green fillet such as she wore herself, and
 fastened it about its mimic eyes.
@@ -1447,7 +1447,7 @@ life and the world.
 were around her: no mother’s smile called forth her answering smile, no
 father’s voice taught her to imitate his sounds:—they, brothers and
 sisters, were but forms of matter which resisted her touch, but which
-differed not from the furniture of the house, save in warmth, and in the
+differed not from the furniture of the [[house]], save in warmth, and in the
 power of locomotion; and not even in these respects from the dog and the
 cat.
 
@@ -1455,10 +1455,10 @@ cat.
 die, nor be maimed nor mutilated; and though most of its avenues of
 communication with the world were cut off, it began to manifest itself
 through the others.  As soon as she could walk, she began to explore the
-room, and then the house; she became familiar with the form, density,
+room, and then the [[house]]; she became familiar with the form, density,
 weight, and heat, of every article she could lay her hands upon.  She
 followed her mother, and felt her hands and arms, as she was occupied
-about the house; and her disposition to imitate, led her to repeat
+about the [[house]]; and her disposition to imitate, led her to repeat
 everything herself.  She even learned to sew a little, and to knit.’
 
 The reader will scarcely need to be told, however, that the opportunities
@@ -1509,8 +1509,8 @@ approbation, patting on the head.
 ‘The same process was then repeated with all the articles which she could
 handle; and she very easily learned to place the proper labels upon them.
 It was evident, however, that the only intellectual exercise was that of
-imitation and [[motifs/memory|memory]].  She recollected that the label _book_ was placed
-upon a book, and she repeated the process first from imitation, next from
+[[Imitation|imitation]] and [[motifs/memory|memory]].  She recollected that the label _book_ was placed
+upon a book, and she repeated the process first from [[Imitation|imitation]], next from
 [[motifs/memory|memory]], with only the motive of [[motifs/love|love]] of approbation, but apparently
 without the intellectual perception of any relation between the things.
 
@@ -1520,7 +1520,7 @@ spell _book_, _key_, &c.; then they were mixed up in a heap and a sign
 was made for her to arrange them herself so as to express the words
 _book_, _key_, &c.; and she did so.
 
-‘Hitherto, the process had been mechanical, and the success about as
+‘Hitherto, the process had been mechanical, and the [[success]] about as
 great as teaching a very knowing dog a variety of tricks.  The poor [[archetypes/child|child]]
 had sat in mute amazement, and patiently imitated everything her teacher
 did; but now the [[concepts/truth|truth]] began to flash upon her: her intellect began to
@@ -1551,7 +1551,7 @@ then imitating the motion.
 ‘The next step was to procure a set of metal types, with the different
 letters of the alphabet cast upon their ends; also a board, in which were
 square holes, into which holes she could set the types; so that the
-letters on their ends could alone be felt above the surface.
+letters on their ends could [[Alone|alone]] be felt above the surface.
 
 ‘Then, on any article being handed to her, for instance, a pencil, or a
 watch, she would select the component letters, and arrange them on her
@@ -1604,7 +1604,7 @@ all the buoyancy and gaiety of [[motifs/childhood|childhood]].  She is fond of f
 and when playing with the rest of the children, her shrill laugh sounds
 loudest of the group.
 
-‘“When left alone, she seems very happy if she have her knitting or
+‘“When left [[Alone|alone]], she seems very happy if she have her knitting or
 sewing, and will busy herself for hours; if she have no occupation, she
 evidently amuses herself by imaginary dialogues, or by recalling past
 impressions; she counts with her fingers, or spells out names of things
@@ -1735,7 +1735,7 @@ far, or she becomes jealous.  She wants to have her share, which, if not
 the [[motifs/lion|lion]]’s, is the greater part; and if she does not get it, she says,
 “_My mother will [[motifs/love|love]] me_.”
 
-‘Her tendency to imitation is so strong, that it leads her to actions
+‘Her tendency to [[Imitation|imitation]] is so strong, that it leads her to actions
 which must be entirely incomprehensible to her, and which can give her no
 other pleasure than the gratification of an internal faculty.  She has
 been known to sit for half an hour, holding a book before her sightless
@@ -1754,11 +1754,11 @@ is sitting at work, or at her studies, by the side of one of her little
 friends, she will break off from her task every few moments, to hug and
 kiss them with an earnestness and warmth that is touching to behold.
 
-‘When left alone, she occupies and apparently amuses herself, and seems
+‘When left [[Alone|alone]], she occupies and apparently amuses herself, and seems
 quite contented; and so strong seems to be the natural tendency of
 thought to put on the garb of language, that she often soliloquizes in
 the _finger language_, slow and tedious as it is.  But it is only when
-alone, that she is quiet: for if she becomes sensible of the presence of
+[[Alone|alone]], that she is quiet: for if she becomes sensible of the presence of
 any one near her, she is restless until she can sit close beside them,
 hold their hand, and converse with them by signs.
 
@@ -1846,7 +1846,7 @@ they were talking, and then putting his hand upon his own, as if to
 assure himself that he had them in the right position.
 
 ‘His thirst for knowledge,’ says Dr. Howe, ‘proclaimed itself as soon as
-he entered the house, by his eager examination of everything he could
+he entered the [[house]], by his eager examination of everything he could
 feel or smell in his new location.  For instance, treading upon the
 register of a furnace, he instantly stooped down, and began to feel it,
 and soon discovered the way in which the upper plate moved upon the lower
@@ -1857,7 +1857,7 @@ discover that they were of different kinds of metal.
 ‘His signs were expressive: and the strictly natural language, laughing,
 crying, sighing, kissing, embracing, &c., was perfect.
 
-‘Some of the analogical signs which (guided by his faculty of imitation)
+‘Some of the analogical signs which (guided by his faculty of [[Imitation|imitation]])
 he had contrived, were comprehensible; such as the waving motion of his
 hand for the motion of a boat, the circular one for a [[motifs/wheel|wheel]], &c.
 
@@ -1892,7 +1892,7 @@ him heartily upon the back, and jump up and down in her joy.
 
 
 ‘He learned more than a half-dozen letters in half an hour, and seemed
-delighted with his success, at least in gaining approbation.  His
+delighted with his [[success]], at least in gaining approbation.  His
 attention then began to [[motifs/flag|flag]], and I commenced playing with him.  It was
 evident that in all this he had merely been imitating the motions of my
 fingers, and placing his hand upon the key, cup, &c., as part of the
@@ -1900,7 +1900,7 @@ process, without any perception of the relation between the sign and the
 object.
 
 ‘When he was tired with play I took him back to the table, and he was
-quite ready to begin again his process of imitation.  He soon learned to
+quite ready to begin again his process of [[Imitation|imitation]].  He soon learned to
 make the letters for _key_, _pen_, _pin_; and by having the object
 repeatedly placed in his hand, he at last perceived the relation I wished
 to establish between them.  This was evident, because, when I made the
@@ -1965,14 +1965,14 @@ the purpose, several charitable institutions are clustered together.  One
 of these, is the State Hospital for the insane; admirably conducted on
 those enlightened principles of conciliation and kindness, which twenty
 years ago would have been worse than heretical, and which have been acted
-upon with so much success in our own pauper Asylum at Hanwell.  ‘Evince a
+upon with so much [[success]] in our own pauper Asylum at Hanwell.  ‘Evince a
 [[motifs/desire|desire]] to show some confidence, and repose some trust, even in mad
 people,’ said the resident physician, as we walked along the galleries,
 his patients flocking round us unrestrained.  Of those who deny or [[concepts/doubt|doubt]]
 the wisdom of this maxim after witnessing its effects, if there be such
 people still alive, I can only say that I [[concepts/hope|hope]] I may never be summoned as
 a Juryman on a Commission of Lunacy whereof they are the subjects; for I
-should certainly find them out of their senses, on such evidence alone.
+should certainly find them out of their senses, on such evidence [[Alone|alone]].
 
 Each ward in this institution is shaped like a long gallery or hall, with
 the dormitories of the patients opening from it on either hand.  Here
@@ -2017,14 +2017,14 @@ necessary to say, we are much indebted to her.  She is exceedingly
 courteous, you perceive,’ on this hint she bowed condescendingly, ‘and
 will permit me to have the pleasure of introducing you: a gentleman from
 England, Ma’am: newly arrived from England, after a very tempestuous
-passage: Mr. Dickens,—the lady of the house!’
+passage: Mr. Dickens,—the lady of the [[house]]!’
 
 We exchanged the most dignified salutations with profound gravity and
 respect, and so went on.  The rest of the madwomen seemed to understand
 the joke perfectly (not only in this case, but in all the others, except
 their own), and be highly amused by it.  The [[concepts/nature|nature]] of their several
 kinds of insanity was made known to me in the same way, and we left each
-of them in high good humour.  Not only is a thorough confidence
+of them in high good [[Humour|humour]].  Not only is a thorough confidence
 established, by those means, between the physician and patient, in
 respect of the [[concepts/nature|nature]] and extent of their hallucinations, but it is easy
 to understand that opportunities are afforded for seizing any moment of
@@ -2034,7 +2034,7 @@ most incongruous and ridiculous light.
 Every patient in this asylum sits down to dinner every day with a knife
 and fork; and in the midst of them sits the gentleman, whose manner of
 dealing with his charges, I have just described.  At every meal, moral
-influence alone restrains the more violent among them from cutting the
+influence [[Alone|alone]] restrains the more violent among them from cutting the
 throats of the rest; but the effect of that influence is reduced to an
 absolute certainty, and is found, even as a means of restraint, to say
 nothing of it as a means of cure, a hundred times more efficacious than
@@ -2057,7 +2057,7 @@ Once a week they have a ball, in which the Doctor and his family, with
 all the nurses and attendants, take an active part.  Dances and marches
 are performed alternately, to the enlivening strains of a piano; and now
 and then some gentleman or lady (whose proficiency has been previously
-ascertained) obliges the company with a song: nor does it ever
+ascertained) obliges the company with a [[Song|song]]: nor does it ever
 degenerate, at a tender crisis, into a screech or howl; wherein, I must
 confess, I should have thought the danger lay.  At an early hour they all
 meet together for these festive purposes; at eight o’[[motifs/clock|clock]] refreshments
@@ -2076,9 +2076,9 @@ and encouragement, even among such unhappy persons, of a decent
 [[concepts/self|self]]-respect.  Something of the same spirit pervades all the Institutions
 at South Boston.
 
-There is the House of Industry.  In that branch of it, which is devoted
+There is the [[house|House]] of Industry.  In that branch of it, which is devoted
 to the reception of old or otherwise helpless paupers, these words are
-painted on the walls: ‘WORTHY OF NOTICE.  [[concepts/self|SELF]]-GOVERNMENT, QUIETUDE, AND
+painted on the walls: ‘WORTHY OF NOTICE.  [[concepts/self|SELF]]-[[government|GOVERNMENT]], QUIETUDE, AND
 PEACE, ARE BLESSINGS.’  It is not assumed and taken for granted that
 being there they must be evil-disposed and wicked people, before whose
 vicious eyes it is necessary to flourish threats and harsh restraints.
@@ -2110,19 +2110,19 @@ this, but a part of the same Institution.  Some are such little
 creatures, that the stairs are of Lilliputian measurement, fitted to
 their tiny strides.  The same consideration for their years and weakness
 is expressed in their very seats, which are perfect curiosities, and look
-like articles of furniture for a pauper doll’s-house.  I can imagine the
+like articles of furniture for a pauper doll’s-[[house]].  I can imagine the
 glee of our Poor Law Commissioners at the notion of these seats having
 arms and backs; but small spines being of older date than their
-occupation of the Board-room at Somerset House, I thought even this
+occupation of the Board-room at Somerset [[house|House]], I thought even this
 provision very merciful and kind.
 
 Here again, I was greatly pleased with the inscriptions on the wall,
-which were scraps of plain morality, easily remembered and understood:
+which were scraps of plain [[morality]], easily remembered and understood:
 such as ‘[[motifs/love|Love]] one another’—‘God remembers the smallest creature in his
 creation:’ and straightforward advice of that [[concepts/nature|nature]].  The books and
 tasks of these smallest of scholars, were adapted, in the same judicious
 manner, to their childish powers.  When we had examined these lessons,
-four morsels of girls (of whom one was blind) sang a little song, about
+four morsels of girls (of whom one was blind) sang a little [[Song|song]], about
 the merry month of May, which I thought (being extremely dismal) would
 have suited an English November better.  That done, we went to see their
 sleeping-rooms on the floor above, in which the arrangements were no less
@@ -2131,7 +2131,7 @@ that the teachers were of a class and character [[motifs/well|well]] suited to t
 of the place, I took leave of the infants with a lighter heart than ever
 I have taken leave of pauper infants yet.
 
-Connected with the House of Industry, there is also an Hospital, which
+Connected with the [[house|House]] of Industry, there is also an Hospital, which
 was in the best order, and had, I am glad to say, many beds unoccupied.
 It had one fault, however, which is common to all American interiors: the
 presence of the eternal, accursed, suffocating, red-hot demon of a stove,
@@ -2141,7 +2141,7 @@ There are two establishments for boys in this same neighbourhood.  One is
 called the Boylston school, and is an asylum for neglected and indigent
 boys who have committed no crime, but who in the ordinary course of
 things would very soon be purged of that distinction if they were not
-taken from the hungry streets and sent here.  The other is a House of
+taken from the hungry streets and sent here.  The other is a [[house|House]] of
 [[historical-references/reformation|Reformation]] for Juvenile Offenders.  They are both under the same roof,
 but the two classes of boys never come in contact.
 
@@ -2149,8 +2149,8 @@ The Boylston boys, as may be readily supposed, have very much the
 advantage of the others in point of personal appearance.  They were in
 their school-room when I came upon them, and answered correctly, without
 book, such questions as where was England; how far was it; what was its
-population; its capital [[motifs/city|city]]; its form of government; and so forth.  They
-sang a song too, about a farmer sowing his seed: with corresponding
+population; its capital [[motifs/city|city]]; its form of [[government]]; and so forth.  They
+sang a [[Song|song]] too, about a farmer sowing his seed: with corresponding
 action at such parts as ‘’tis thus he sows,’ ‘he turns him round,’ ‘he
 claps his hands;’ which gave it greater interest for them, and accustomed
 them to act together, in an orderly manner.  They appeared exceedingly
@@ -2177,7 +2177,7 @@ him to society a penitent and useful member.  The importance of such an
 establishment, in every point of view, and with reference to every
 consideration of humanity and social policy, requires no comment.
 
-One other establishment closes the catalogue.  It is the House of
+One other establishment closes the catalogue.  It is the [[house|House]] of
 Correction for the State, in which [[motifs/silence|silence]] is strictly maintained, but
 where the prisoners have the comfort and mental relief of seeing each
 other, and of working together.  This is the improved system of [[motifs/prison|Prison]]
@@ -2211,11 +2211,11 @@ of a number of men engaged in ordinary labour, such as he is accustomed
 to out of doors, will impress him half as strongly as the contemplation
 of the same persons in the same place and garb would, if they were
 occupied in some task, marked and degraded everywhere as belonging only
-to felons in jails.  In an American state [[motifs/prison|prison]] or house of correction,
+to felons in jails.  In an American state [[motifs/prison|prison]] or [[house]] of correction,
 I found it difficult at first to persuade myself that I was really in a
 jail: a place of ignominious punishment and [[concepts/endurance|endurance]].  And to this hour
 I very much question whether the humane boast that it is not like one,
-has its root in the true wisdom or philosophy of the matter.
+has its root in the true wisdom or [[philosophy]] of the matter.
 
 
 
@@ -2248,13 +2248,13 @@ benevolence, and exalted policy.  In contrasting her system with that
 which we have modelled upon it, I merely seek to show that with all its
 drawbacks, ours has some advantages of its own.
 
-The House of Correction which has led to these remarks, is not walled,
+The [[house|House]] of Correction which has led to these remarks, is not walled,
 like other prisons, but is palisaded round about with tall rough stakes,
 something after the manner of an enclosure for keeping elephants in, as
 we see it represented in Eastern prints and pictures.  The prisoners wear
 a parti-coloured dress; and those who are sentenced to hard labour, work
 at nail-making, or stone-cutting.  When I was there, the latter class of
-labourers were employed upon the stone for a new custom-house in course
+labourers were employed upon the stone for a new custom-[[house]] in course
 of erection at Boston.  They appeared to shape it skilfully and with
 expedition, though there were very few among them (if any) who had not
 acquired the art within the [[motifs/prison|prison]] gates.
@@ -2291,7 +2291,7 @@ prisoner within is at all times exposed to the observation and inspection
 of any guard who may pass along that tier at any hour or minute of the
 [[motifs/night|night]].  Every day, the prisoners receive their dinner, singly, through a
 trap in the kitchen wall; and each man carries his to his sleeping cell
-to eat it, where he is locked up, alone, for that purpose, one hour.  The
+to eat it, where he is locked up, [[Alone|alone]], for that purpose, one hour.  The
 whole of this arrangement struck me as being admirable; and I [[concepts/hope|hope]] that
 the next new [[motifs/prison|prison]] we erect in England may be built on this plan.
 
@@ -2348,7 +2348,7 @@ I could not but notice these differences, when I visited the courts at
 Boston.  I was much surprised at first, too, to observe that the counsel
 who interrogated the witness under examination at the [[motifs/time|time]], did so
 _sitting_.  But seeing that he was also occupied in writing down the
-answers, and remembering that he was alone and had no ‘junior,’ I quickly
+answers, and remembering that he was [[Alone|alone]] and had no ‘junior,’ I quickly
 consoled myself with the reflection that law was not quite so expensive
 an article here, as at [[motifs/home|home]]; and that the absence of sundry formalities
 which we regard as indispensable, had doubtless a very favourable
@@ -2570,7 +2570,7 @@ could find out any difference between a party at Boston and a party in
 [[settings/london|London]], saving that at the former place all assemblies are held at more
 rational hours; that the conversation may possibly be a little louder and
 more cheerful; and a guest is usually expected to ascend to the very top
-of the house to take his cloak off; that he is certain to see, at every
+of the [[house]] to take his cloak off; that he is certain to see, at every
 dinner, an unusual amount of poultry on the table; and at every supper,
 at least two mighty bowls of hot stewed oysters, in any one of which a
 half-grown Duke of [[characters/clarence|Clarence]] might be smothered easily.
@@ -2581,9 +2581,9 @@ of right, in the front rows of the boxes.
 
 The bar is a large room with a stone floor, and there people stand and
 smoke, and lounge about, all the evening: dropping in and out as the
-humour takes them.  There too the stranger is initiated into the
+[[Humour|humour]] takes them.  There too the stranger is initiated into the
 mysteries of Gin-sling, Cock-tail, Sangaree, Mint Julep, Sherry-cobbler,
-Timber Doodle, and other rare drinks.  The house is full of boarders,
+Timber Doodle, and other rare drinks.  The [[house]] is full of boarders,
 both married and single, many of whom [[motifs/sleep|sleep]] upon the premises, and
 contract by the week for their board and lodging: the charge for which
 diminishes as they go nearer the sky to roost.  A public table is laid in
@@ -2591,7 +2591,7 @@ a very handsome hall for breakfast, and for dinner, and for supper.  The
 party sitting down together to these meals will vary in number from one
 to two hundred: sometimes more.  The advent of each of these epochs in
 the day is proclaimed by an awful gong, which shakes the very
-[[motifs/window|window]]-frames as it reverberates through the house, and horribly disturbs
+[[motifs/window|window]]-frames as it reverberates through the [[house]], and horribly disturbs
 nervous foreigners.  There is an ordinary for ladies, and an ordinary for
 gentlemen.
 
@@ -2649,7 +2649,7 @@ between yourself and any other object you may happen to look at, like the
 
 In the ladies’ car, there are a great many gentlemen who have ladies with
 them.  There are also a great many ladies who have nobody with them: for
-any lady may travel alone, from one end of the United States to the
+any lady may travel [[Alone|alone]], from one end of the United States to the
 other, and be certain of the most courteous and considerate treatment
 everywhere.  The conductor or check-taker, or guard, or whatever he may
 be, wears no uniform.  He walks up and down the car, and in and out of
@@ -2684,7 +2684,7 @@ will be a new election in three years and a half, and party feeling runs
 very high: the great constitutional feature of this institution being,
 that directly the acrimony of the last election is over, the acrimony of
 the next one begins; which is an unspeakable comfort to all strong
-politicians and true lovers of their country: that is to say, to
+politicians and true [[lovers]] of their country: that is to say, to
 ninety-nine men and boys out of every ninety-nine and a quarter.
 
 Except when a branch [[motifs/road|road]] joins the main one, there is seldom more than
@@ -2702,10 +2702,10 @@ minutes on an open country, glittering with some bright lake or pool,
 broad as many an English [[motifs/river|river]], but so small here that it scarcely has a
 name; now catch hasty glimpses of a distant town, with its clean white
 houses and their cool piazzas, its prim [[historical-references/new-england|New England]] church and
-school-house; when whir-r-r-r! almost before you have seen them, comes
+school-[[house]]; when whir-r-r-r! almost before you have seen them, comes
 the same dark screen: the stunted trees, the stumps, the logs, the
 stagnant [[motifs/water|water]]—all so like the last that you seem to have been
-transported back again by magic.
+transported back again by [[Magic|magic]].
 
 The train calls at stations in the woods, where the wild impossibility of
 anybody having the smallest reason to get out, is only to be equalled by
@@ -2745,7 +2745,7 @@ it a quaintness and oddity of character which, to a visitor from the old
 country, is amusing enough.  It was a very dirty [[motifs/winter|winter]]’s day, and
 nothing in the whole town looked old to me, except the mud, which in some
 parts was almost knee-deep, and might have been deposited there, on the
-subsiding of the waters after the Deluge.  In one place, there was a new
+subsiding of the waters after the [[deluge|Deluge]].  In one place, there was a new
 wooden church, which, having no steeple, and being yet unpainted, looked
 like an enormous packing-case without any direction upon it.  In another
 there was a large hotel, whose walls and colonnades were so crisp, and
@@ -2840,8 +2840,8 @@ worship in which they have been educated.
 
 
 At some distance from the factories, and on the highest and pleasantest
-ground in the neighbourhood, stands their hospital, or boarding-house for
-the sick: it is the best house in those parts, and was built by an
+ground in the neighbourhood, stands their hospital, or boarding-[[house]] for
+the sick: it is the best [[house]] in those parts, and was built by an
 eminent merchant for his own residence.  Like that institution at Boston,
 which I have before described, it is not parcelled out into wards, but is
 divided into convenient chambers, each of which has all the comforts of a
@@ -2976,8 +2976,8 @@ people are of rural Americans.  The [[motifs/well|well]]-trimmed lawns and green
 of [[motifs/home|home]] are not there; and the grass, compared with our ornamental plots
 and pastures, is rank, and rough, and wild: but delicate slopes of land,
 gently-swelling hills, wooded valleys, and slender streams, abound.
-Every little colony of houses has its church and school-house peeping
-from among the white roofs and shady trees; every house is the whitest of
+Every little colony of houses has its church and school-[[house]] peeping
+from among the white roofs and shady trees; every [[house]] is the whitest of
 the white; every Venetian blind the greenest of the green; every fine
 day’s sky the bluest of the blue.  A sharp dry [[motifs/wind|wind]] and a slight [[motifs/frost|frost]]
 had so hardened the roads when we alighted at Worcester, that their
@@ -2995,7 +2995,7 @@ with a brilliant lustre, could be so looked through and through, that the
 idea of any inhabitant being able to hide himself from the public gaze,
 or to have any [[motifs/secrets|secrets]] from the public eye, was not entertainable for a
 moment.  Even where a blazing [[motifs/fire|fire]] shone through the uncurtained windows
-of some distant house, it had the air of being newly lighted, and of
+of some distant [[house]], it had the air of being newly lighted, and of
 lacking warmth; and instead of awakening thoughts of a snug chamber,
 bright with faces that first saw the light round that same hearth, and
 ruddy with warm hangings, it came upon one suggestive of the smell of new
@@ -3027,9 +3027,9 @@ It certainly was not called a small steamboat without reason.  I omitted
 to ask the question, but I should think it must have been of about half a
 pony power.  Mr. Paap, the celebrated [[characters/dwarf|Dwarf]], might have lived and died
 happily in the cabin, which was fitted with common sash-windows like an
-ordinary dwelling-house.  These windows had bright-red curtains, too,
+ordinary dwelling-[[house]].  These windows had bright-red curtains, too,
 hung on slack strings across the lower panes; so that it looked like the
-parlour of a Lilliputian public-house, which had got afloat in a flood or
+parlour of a Lilliputian public-[[house]], which had got afloat in a flood or
 some other [[motifs/water|water]] accident, and was drifting nobody knew where.  But even
 in this chamber there was a rocking-chair.  It would be impossible to get
 on anywhere, in [[settings/america|America]], without a rocking-chair.  I am afraid to tell
@@ -3084,7 +3084,7 @@ in such commodities with too great a display of them in his [[motifs/window|wind
 
 In Hartford stands the famous oak in which the charter of [[archetypes/king|King]] Charles
 was hidden.  It is now inclosed in a gentleman’s [[motifs/garden|garden]].  In the State
-House is the charter itself.  I found the courts of law here, just the
+[[house|House]] is the charter itself.  I found the courts of law here, just the
 same as at Boston; the public institutions almost as good.  The Insane
 Asylum is admirably conducted, and so is the Institution for the Deaf and
 Dumb.
@@ -3143,7 +3143,7 @@ settled at last.  I have arranged it with [[characters/queen|Queen]] Victoria.�
 ‘Oh!’ said I, like a man suddenly enlightened.  For he looked at me for
 an answer.
 
-‘Yes.  Every house without a signal will be fired upon by the British
+‘Yes.  Every [[house]] without a signal will be fired upon by the British
 troops.  No harm will be done to the others.  No harm at all.  Those that
 want to be safe, must hoist flags.  That’s all they’ll have to do.  They
 must hoist flags.’
@@ -3276,7 +3276,7 @@ hurricane-deck being a-top of that again.  A part of the machinery is
 always above this deck; where the connecting-rod, in a strong and lofty
 frame, is seen working away like an iron top-sawyer.  There is seldom any
 mast or tackle: nothing aloft but two tall black chimneys.  The man at
-the helm is shut up in a little house in the fore part of the boat (the
+the helm is shut up in a little [[house]] in the fore part of the boat (the
 [[motifs/wheel|wheel]] being connected with the rudder by iron [[motifs/chains|chains]], working the whole
 length of the deck); and the passengers, unless the weather be very fine
 indeed, usually congregate below.  Directly you have left the wharf, all
@@ -3307,7 +3307,7 @@ see Hell Gate, the Hog’s Back, the Frying Pan, and other notorious
 localities, attractive to all readers of famous Diedrich Knickerbocker’s
 [[concepts/history|History]].  We were now in a narrow channel, with sloping banks on either
 side, besprinkled with pleasant villas, and made refreshing to the sight
-by turf and trees.  Soon we shot in quick succession, past a light-house;
+by turf and trees.  Soon we shot in quick succession, past a light-[[house]];
 a madhouse (how the lunatics flung up their caps and roared in sympathy
 with the headlong engine and the driving tide!); a jail; and other
 buildings: and so emerged into a noble bay, whose waters sparkled in the
@@ -3326,7 +3326,7 @@ kind, disdainful of their puny journeys, and making for the broad sea.
 Beyond, were shining heights, and islands in the glancing [[motifs/river|river]], and a
 distance scarcely less blue and bright than the sky it seemed to meet.
 The [[motifs/city|city]]’s hum and buzz, the clinking of capstans, the ringing of [[motifs/bells|bells]],
-the barking of dogs, the clattering of wheels, tingled in the listening
+the barking of [[dogs]], the clattering of wheels, tingled in the listening
 ear.  All of which life and stir, coming across the stirring [[motifs/water|water]],
 caught new life and animation from its free companionship; and,
 sympathising with its buoyant spirits, glistened as it seemed in sport
@@ -3359,7 +3359,7 @@ any other part of famed St. Giles’s.
 The great promenade and thoroughfare, as most people know, is Broadway; a
 wide and bustling street, which, from the Battery Gardens to its opposite
 termination in a country [[motifs/road|road]], may be four miles long.  Shall we sit down
-in an upper floor of the Carlton House Hotel (situated in the best part
+in an upper floor of the Carlton [[house|House]] Hotel (situated in the best part
 of this main artery of [[settings/new-york|New York]]), and when we are tired of looking down
 upon the life below, sally forth arm-in-arm, and mingle with the stream?
 
@@ -3415,7 +3415,7 @@ written in strange characters truly, and might have been scrawled with
 the blunt handle of the spade the writer better knows the use of, than a
 pen.  Their way lies yonder, but what business takes them there?  They
 carry savings: to hoard up?  No.  They are brothers, those men.  One
-crossed the sea alone, and working very hard for one half year, and
+crossed the sea [[Alone|alone]], and working very hard for one half year, and
 living harder, saved funds enough to bring the other out.  That done,
 they worked together side by side, contentedly sharing hard labour and
 hard living for another term, and then their sisters came, and then
@@ -3451,7 +3451,7 @@ the sight of the great blocks of clean ice which are being carried into
 shops and bar-rooms; and the pine-apples and [[motifs/water|water]]-melons profusely
 displayed for sale.  Fine streets of spacious houses here, you see!—Wall
 Street has furnished and dismantled many of them very often—and here a
-deep green leafy square.  Be sure that is a hospitable house with inmates
+deep green leafy square.  Be sure that is a hospitable [[house]] with inmates
 to be affectionately remembered always, where they have the open door and
 pretty show of plants within, and where the [[archetypes/child|child]] with laughing eyes is
 peeping out of [[motifs/window|window]] at the little dog below.  You [[concepts/wonder|wonder]] what may be
@@ -3637,25 +3637,25 @@ Two portly sows are trotting up behind this carriage, and a select party
 of half-a-dozen gentlemen hogs have just now turned the corner.
 
 Here is a solitary swine lounging homeward by himself.  He has only one
-ear; having parted with the other to vagrant-dogs in the course of his
+ear; having parted with the other to vagrant-[[dogs]] in the course of his
 [[motifs/city|city]] rambles.  But he gets on very [[motifs/well|well]] without it; and leads a roving,
 gentlemanly, vagabond kind of life, somewhat answering to that of our
 club-men at [[motifs/home|home]].  He [[motifs/leaves|leaves]] his lodgings every morning at a certain
 hour, throws himself upon the town, gets through his day in some manner
 quite satisfactory to himself, and regularly appears at the door of his
-own house again at [[motifs/night|night]], like the mysterious master of Gil Blas.  He is
+own [[house]] again at [[motifs/night|night]], like the mysterious master of Gil Blas.  He is
 a free-and-easy, careless, indifferent kind of pig, having a very large
 acquaintance among other pigs of the same character, whom he rather knows
 by sight than conversation, as he seldom troubles himself to stop and
 exchange civilities, but goes grunting down the kennel, turning up the
 news and small-talk of the [[motifs/city|city]] in the shape of cabbage-stalks and offal,
 and bearing no tails but his own: which is a very short one, for his old
-enemies, the dogs, have been at that too, and have left him hardly enough
+enemies, the [[dogs]], have been at that too, and have left him hardly enough
 to swear by.  He is in every respect a republican pig, going wherever he
 pleases, and mingling with the best society, on an equal, if not superior
 footing, for every one makes way when he appears, and the haughtiest give
 him the wall, if he prefer it.  He is a great philosopher, and seldom
-moved, unless by the dogs before mentioned.  Sometimes, indeed, you may
+moved, unless by the [[dogs]] before mentioned.  Sometimes, indeed, you may
 see his small eye twinkling on a slaughtered friend, whose carcase
 garnishes a butcher’s door-post, but he grunts out ‘Such is life: all
 flesh is pork!’ buries his nose in the mire again, and waddles down the
@@ -3673,7 +3673,7 @@ knowing in consequence.  Every pig knows where he lives, much better than
 anybody could tell him.  At this hour, just as evening is closing in, you
 will see them roaming towards bed by scores, eating their way to the
 last.  Occasionally, some youth among them who has over-eaten himself, or
-has been worried by dogs, trots shrinkingly homeward, like a prodigal
+has been worried by [[dogs]], trots shrinkingly homeward, like a prodigal
 son: but this is a rare case: perfect [[concepts/self|self]]-possession and [[concepts/self-reliance|self-reliance]],
 and immovable composure, being their foremost attributes.
 
@@ -3686,16 +3686,16 @@ skill, invented when the legislature passed an act forbidding Nine-Pins.
 At other downward flights of steps, are other lamps, marking the
 whereabouts of oyster-cellars—pleasant retreats, say I: not only by
 reason of their wonderful cookery of oysters, pretty nigh as large as
-cheese-plates (or for thy dear sake, heartiest of Greek Professors!), but
+[[cheese]]-plates (or for thy dear sake, heartiest of Greek Professors!), but
 because of all kinds of caters of fish, or flesh, or fowl, in these
-latitudes, the swallowers of oysters alone are not gregarious; but
+latitudes, the swallowers of oysters [[Alone|alone]] are not gregarious; but
 subduing themselves, as it were, to the [[concepts/nature|nature]] of what they work in, and
 copying the coyness of the thing they eat, do sit apart in curtained
 boxes, and consort by twos, not by two hundreds.
 
 But how quiet the streets are!  Are there no itinerant bands; no [[motifs/wind|wind]] or
 stringed instruments?  No, not one.  By day, are there no Punches,
-Fantoccini, Dancing-dogs, Jugglers, Conjurers, Orchestrinas, or even
+Fantoccini, Dancing-[[dogs]], Jugglers, Conjurers, Orchestrinas, or even
 Barrel-organs?  No, not one.  Yes, I remember one.  One barrel-organ and
 a dancing-monkey—sportive by [[concepts/nature|nature]], but fast fading into a dull, lumpish
 monkey, of the Utilitarian school.  Beyond that, nothing lively; no, not
@@ -3710,7 +3710,7 @@ so much as a white mouse in a twirling cage.
 Are there no amusements?  Yes.  There is a lecture-room across the way,
 from which that glare of light proceeds, and there may be evening service
 for the ladies thrice a week, or oftener.  For the young gentlemen, there
-is the counting-house, the store, the bar-room: the latter, as you may
+is the counting-[[house]], the store, the bar-room: the latter, as you may
 see through these windows, pretty full.  Hark! to the clinking sound of
 hammers breaking lumps of ice, and to the cool gurgling of the pounded
 bits, as, in the process of mixing, they are poured from glass to glass!
@@ -3729,7 +3729,7 @@ and good deeds; and setting on, with yell and whistle and the clapping of
 foul hands, the vilest vermin and worst [[motifs/birds|birds]] of prey.—No amusements!
 
 Let us go on again; and passing this wilderness of an hotel with stores
-about its base, like some Continental theatre, or the [[settings/london|London]] Opera House
+about its base, like some Continental theatre, or the [[settings/london|London]] Opera [[house|House]]
 shorn of its colonnade, plunge into the Five Points.  But it is needful,
 first, that we take as our escort these two heads of the police, whom you
 would know for sharp and [[motifs/well|well]]-trained officers if you met them in the
@@ -3751,7 +3751,7 @@ scowl dimly, like eyes that have been hurt in drunken frays.  Many of
 those pigs live here.  Do they ever [[concepts/wonder|wonder]] why their masters walk upright
 in lieu of going on all-fours? and why they talk instead of grunting?
 
-So far, nearly every house is a low tavern; and on the bar-room walls,
+So far, nearly every [[house]] is a low tavern; and on the bar-room walls,
 are coloured prints of Washington, and [[characters/queen|Queen]] Victoria of England, and the
 American Eagle.  Among the pigeon-holes that hold the bottles, are pieces
 of plate-glass and coloured paper, for there is, in some sort, a taste
@@ -3799,7 +3799,7 @@ close they gather round the brazier; and vapours issue forth that blind
 and suffocate.  From every corner, as you glance about you in these dark
 retreats, some figure crawls half-awakened, as if the judgment-hour were
 near at hand, and every obscene [[motifs/grave|grave]] were giving up its dead.  Where
-dogs would howl to lie, women, and men, and boys slink off to [[motifs/sleep|sleep]],
+[[dogs]] would howl to lie, women, and men, and boys slink off to [[motifs/sleep|sleep]],
 forcing the dislodged rats to move away in [[topoi/quest|quest]] of better lodgings.
 
 
@@ -3852,7 +3852,7 @@ new smiles in the landlady; new confidence in the landlord; new
 brightness in the very candles.
 
 Single shuffle, [[topoi/double|double]] shuffle, cut and [[motifs/cross|cross]]-cut; snapping his fingers,
-rolling his eyes, turning in his knees, presenting the backs of his legs
+[[rolling]] his eyes, turning in his knees, presenting the backs of his legs
 in front, spinning about on his toes and heels like nothing but the man’s
 fingers on the tambourine; dancing with two left legs, two right legs,
 two wooden legs, two wire legs, two [[motifs/spring|spring]] legs—all sorts of legs and no
@@ -3866,7 +3866,7 @@ inimitable sound!
 The air, even in these distempered parts, is fresh after the stifling
 atmosphere of the houses; and now, as we emerge into a broader street, it
 blows upon us with a purer breath, and the [[motifs/stars|stars]] look bright again.  Here
-are The Tombs once more.  The [[motifs/city|city]] watch-house is a part of the building.
+are The Tombs once more.  The [[motifs/city|city]] watch-[[house]] is a part of the building.
 It follows naturally on the sights we have just left.  Let us see that,
 and then to bed.
 
@@ -3934,7 +3934,7 @@ pointed finger; the vacant eye, the fierce wild face, the gloomy picking
 of the hands and lips, and munching of the nails: there they were all,
 without disguise, in naked ugliness and horror.  In the dining-room, a
 bare, dull, dreary place, with nothing for the eye to rest on but the
-empty walls, a woman was locked up alone.  She was bent, they told me, on
+empty walls, a woman was locked up [[Alone|alone]].  She was bent, they told me, on
 committing [[concepts/suicide|suicide]].  If anything could have strengthened her in her
 resolution, it would certainly have been the insupportable monotony of
 such an existence.
@@ -3951,7 +3951,7 @@ humanity?  Will it be believed that the eyes which are to watch over and
 control the wanderings of minds on which the most dreadful visitation to
 which our [[concepts/nature|nature]] is exposed has fallen, must wear the glasses of some
 wretched side in Politics?  Will it be believed that the governor of such
-a house as this, is appointed, and deposed, and changed perpetually, as
+a [[house]] as this, is appointed, and deposed, and changed perpetually, as
 Parties fluctuate and vary, and as their despicable weathercocks are
 blown this way or that?  A hundred times in every week, some new most
 paltry exhibition of that narrow-minded and injurious Party Spirit, which
@@ -3960,7 +3960,7 @@ life within its reach, was forced upon my notice; but I never turned my
 back upon it with feelings of such deep disgust and measureless contempt,
 as when I crossed the threshold of this madhouse.
 
-At a short distance from this building is another called the Alms House,
+At a short distance from this building is another called the Alms [[house|House]],
 that is to say, the workhouse of [[settings/new-york|New York]].  This is a large Institution
 also: lodging, I believe, when I was there, nearly a thousand poor.  It
 was badly ventilated, and badly lighted; was not too clean;—and impressed
@@ -4043,7 +4043,7 @@ There are three principal theatres.  Two of them, the Park and the
 Bowery, are large, elegant, and handsome buildings, and are, I grieve to
 write it, generally deserted.  The third, the Olympic, is a tiny show-box
 for vaudevilles and burlesques.  It is singularly [[motifs/well|well]] conducted by Mr.
-Mitchell, a comic actor of great quiet humour and originality, who is
+Mitchell, a comic actor of great quiet [[Humour|humour]] and originality, who is
 [[motifs/well|well]] remembered and esteemed by [[settings/london|London]] playgoers.  I am happy to report
 of this deserving gentleman, that his benches are usually [[motifs/well|well]] filled,
 and that his theatre rings with merriment every [[motifs/night|night]].  I had almost
@@ -4122,7 +4122,7 @@ to behold.  I attributed this to the sombre influence of the [[motifs/night|nigh
 on rising in the morning looked out again, expecting to see its steps and
 portico thronged with groups of people passing in and out.  The door was
 still tight shut, however; the same cold cheerless air prevailed: and the
-building looked as if the marble statue of Don Guzman could alone have
+building looked as if the marble statue of Don Guzman could [[Alone|alone]] have
 any business to transact within its gloomy walls.  I hastened to inquire
 its name and purpose, and then my surprise vanished.  It was the Tomb of
 many fortunes; the Great Catacomb of investment; the memorable United
@@ -4243,7 +4243,7 @@ the dull repose and quiet that prevails, is awful.  Occasionally, there
 is a drowsy sound from some lone weaver’s shuttle, or shoemaker’s last,
 but it is stifled by the thick walls and heavy dungeon-door, and only
 serves to make the general stillness more profound.  Over the head and
-face of every prisoner who comes into this [[concepts/melancholy|melancholy]] house, a black hood
+face of every prisoner who comes into this [[concepts/melancholy|melancholy]] [[house]], a black hood
 is drawn; and in this dark shroud, an emblem of the curtain dropped
 between him and the living world, he is led to the cell from which he
 never again comes forth, until his whole term of [[concepts/imprisonment|imprisonment]] has
@@ -4394,13 +4394,13 @@ sometimes.
 
 Does he never look men in the face, and does he always pluck at those
 hands of his, as though he were bent on parting skin and bone?  It is his
-humour: nothing more.
+[[Humour|humour]]: nothing more.
 
-It is his humour too, to say that he does not look forward to going out;
+It is his [[Humour|humour]] too, to say that he does not look forward to going out;
 that he is not glad the [[motifs/time|time]] is drawing near; that he did look forward to
 it once, but that was very long ago; that he has lost all care for
-everything.  It is his humour to be a helpless, crushed, and broken man.
-And, Heaven be his witness that he has his humour thoroughly gratified!
+everything.  It is his [[Humour|humour]] to be a helpless, crushed, and broken man.
+And, Heaven be his witness that he has his [[Humour|humour]] thoroughly gratified!
 
 There were three young women in adjoining cells, all convicted at the
 same [[motifs/time|time]] of a conspiracy to rob their prosecutor.  In the [[motifs/silence|silence]] and
@@ -4725,7 +4725,7 @@ his legs would carry him, and never once looked back.
 
 
 CHAPTER VIII
-WASHINGTON.  THE LEGISLATURE.  AND THE PRESIDENT’S HOUSE
+WASHINGTON.  THE LEGISLATURE.  AND THE PRESIDENT’S [[house|HOUSE]]
 
 
 WE left Philadelphia by steamboat, at six o’[[motifs/clock|clock]] one very cold morning,
@@ -4778,7 +4778,7 @@ who planted two seats in the middle of the deck, at a distance of some
 four paces apart; took out their tobacco-boxes; and sat down opposite
 each other, to chew.  In less than a quarter of an hour’s [[motifs/time|time]], these
 hopeful youths had shed about them on the clean boards, a copious shower
-of yellow rain; clearing, by that means, a kind of magic circle, within
+of yellow rain; clearing, by that means, a kind of [[Magic|magic]] circle, within
 whose limits no intruders dared to come, and which they never failed to
 refresh and re-refresh before a spot was dry.  This being before
 breakfast, rather disposed me, I confess, to nausea; but looking
@@ -4875,15 +4875,15 @@ The hotel in which we live, is a long row of small houses fronting on the
 street, and opening at the back upon a common yard, in which hangs a
 great triangle.  Whenever a servant is wanted, somebody beats on this
 triangle from one stroke up to seven, according to the number of the
-house in which his presence is required; and as all the servants are
+[[house]] in which his presence is required; and as all the servants are
 always being wanted, and none of them ever come, this enlivening engine
 is in full performance the whole day through.  Clothes are drying in the
 same yard; female slaves, with cotton handkerchiefs twisted round their
 heads are running to and fro on the hotel business; black waiters [[motifs/cross|cross]]
-and recross with dishes in their hands; two great dogs are playing upon a
+and recross with dishes in their hands; two great [[dogs]] are playing upon a
 mound of loose bricks in the centre of the little square; a pig is
 turning up his stomach to the sun, and grunting ‘that’s comfortable!’;
-and neither the men, nor the women, nor the dogs, nor the pig, nor any
+and neither the men, nor the women, nor the [[dogs]], nor the pig, nor any
 created creature, takes the smallest notice of the triangle, which is
 tingling madly all the [[motifs/time|time]].
 
@@ -4921,12 +4921,12 @@ admirers of cities it is a Barmecide Feast: a pleasant field for the
 even a legible [[forms/inscription|inscription]] to record its departed [[concepts/greatness|greatness]].
 
 Such as it is, it is likely to remain.  It was originally chosen for the
-seat of Government, as a means of averting the conflicting jealousies and
+seat of [[government|Government]], as a means of averting the conflicting jealousies and
 interests of the different States; and very probably, too, as being
 remote from mobs: a consideration not to be slighted, even in [[settings/america|America]].
 It has no trade or commerce of its own: having little or no population
 beyond the President and his establishment; the members of the
-legislature who reside there during the session; the Government clerks
+legislature who reside there during the session; the [[government|Government]] clerks
 and officers employed in the various departments; the keepers of the
 hotels and boarding-houses; and the tradesmen who supply their tables.
 It is very unhealthy.  Few people would live in Washington, I take it,
@@ -4966,11 +4966,11 @@ Capitol.  Let us [[concepts/hope|hope]] that she has changed her dress-maker sin
 were fashioned, and that the public sentiment of the country did not cut
 out the clothes she hides her lovely figure in, just now.
 
-The House of Representatives is a beautiful and spacious hall, of
+The [[house|House]] of Representatives is a beautiful and spacious hall, of
 semicircular shape, supported by handsome pillars.  One part of the
 gallery is appropriated to the ladies, and there they sit in front rows,
 and come in, and go out, as at a play or concert.  The chair is canopied,
-and raised considerably above the floor of the House; and every member
+and raised considerably above the floor of the [[house|House]]; and every member
 has an easy chair and a writing desk to himself: which is denounced by
 some people out of doors as a most unfortunate and injudicious
 arrangement, tending to long sittings and prosaic speeches.  It is an
@@ -4993,8 +4993,8 @@ my impressions on this subject in as few words as possible.
 In the first place—it may be from some imperfect development of my organ
 of veneration—I do not remember having ever fainted away, or having even
 been moved to [[motifs/tears|tears]] of joyful [[concepts/pride|pride]], at sight of any legislative [[concepts/body|body]].  I
-have borne the House of Commons like a man, and have yielded to no
-weakness, but slumber, in the House of Lords.  I have seen elections for
+have borne the [[house|House]] of Commons like a man, and have yielded to no
+weakness, but slumber, in the [[house|House]] of Lords.  I have seen elections for
 borough and county, and have never been impelled (no matter which party
 won) to damage my hat by throwing it up into the air in triumph, or to
 crack my voice by shouting forth any reference to our Glorious
@@ -5020,7 +5020,7 @@ years after the worms bred in its corruption, are but so many grains of
 [[motifs/dust|dust]]—it was but a week, since this old man had stood for days upon his
 trial before this very [[concepts/body|body]], charged with having dared to assert the
 infamy of that traffic, which has for its accursed merchandise men and
-women, and their unborn children.  Yes.  And publicly exhibited in the
+women, and their [[unborn]] children.  Yes.  And publicly exhibited in the
 same [[motifs/city|city]] all the while; gilded, framed and glazed hung up for general
 admiration; shown to strangers not with shame, but [[concepts/pride|pride]]; its face not
 turned towards the wall, itself not taken down and burned; is the
@@ -5110,7 +5110,7 @@ gentleman who is now its Minister at the British [[settings/court|Court]] sustai
 highest character abroad.
 
 I visited both houses nearly every day, during my stay in Washington.  On
-my initiatory visit to the House of Representatives, they divided against
+my initiatory visit to the [[house|House]] of Representatives, they divided against
 a decision of the chair; but the chair won.  The second [[motifs/time|time]] I went, the
 member who was speaking, being interrupted by a laugh, mimicked it, as
 one [[archetypes/child|child]] would in quarrelling with another, and added, ‘that he would
@@ -5182,7 +5182,7 @@ looked upon this as a very painful exhibition, and one by no means
 flattering to the national standard of honesty and [[concepts/honour|honour]].  That can
 scarcely be a high state of moral feeling which imagines a gentleman of
 repute and station, likely to be corrupted, in the discharge of his duty,
-by the present of a snuff-box, or a richly-mounted sword, or an Eastern
+by the present of a snuff-box, or a richly-mounted [[Sword|sword]], or an Eastern
 shawl; and surely the Nation who reposes confidence in her appointed
 servants, is likely to be better served, than she who makes them the
 subject of such very mean and paltry suspicions.
@@ -5197,14 +5197,14 @@ free, I should conceive, from some of the insalubrities of Washington.
 The air, at that elevation, was quite cool and refreshing, when in the
 [[motifs/city|city]] it was burning hot.
 
-The President’s mansion is more like an English club-house, both within
+The President’s mansion is more like an English club-[[house]], both within
 and without, than any other kind of establishment with which I can
 compare it.  The ornamental ground about it has been laid out in [[motifs/garden|garden]]
 walks; they are pretty, and agreeable to the eye; though they have that
 uncomfortable air of having been made yesterday, which is far from
 favourable to the display of such beauties.
 
-My first visit to this house was on the morning after my arrival, when I
+My first visit to this [[house]] was on the morning after my arrival, when I
 was carried thither by an official gentleman, who was so kind as to
 charge himself with my presentation to the President.
 
@@ -5278,7 +5278,7 @@ Being advised that the sensible etiquette of the republican [[settings/court|cou
 admitted of a traveller, like myself, declining, without any impropriety,
 an invitation to dinner, which did not reach me until I had concluded my
 arrangements for leaving Washington some days before that to which it
-referred, I only returned to this house once.  It was on the occasion of
+referred, I only returned to this [[house]] once.  It was on the occasion of
 one of those general assemblies which are held on certain nights, between
 the hours of nine and twelve o’[[motifs/clock|clock]], and are called, rather oddly,
 Levees.
@@ -5507,7 +5507,7 @@ knees), grey stockings, enormous unblacked high-low shoes, and very short
 trousers.  He has two odd gloves: one of parti-coloured worsted, and one
 of leather.  He has a very short whip, broken in the middle and bandaged
 up with string.  And yet he wears a low-crowned, broad-brimmed, black
-hat: faintly shadowing forth a kind of insane imitation of an English
+hat: faintly shadowing forth a kind of insane [[Imitation|imitation]] of an English
 coachman!  But somebody in authority cries ‘Go ahead!’ as I am making
 these observations.  The mail takes the lead in a four-[[motifs/horse|horse]] waggon, and
 all the coaches follow in procession: headed by No. 1.
@@ -5594,7 +5594,7 @@ breathe.
 
 A black friend of the black driver is sitting on a fence.  The black
 driver recognises him by twirling his head round and round like a
-harlequin, rolling his eyes, shrugging his shoulders, and grinning from
+harlequin, [[rolling]] his eyes, shrugging his shoulders, and grinning from
 ear to ear.  He stops short, turns to me, and says:
 
 ‘We shall get you through sa, like a fiddle, and [[concepts/hope|hope]] a please you when
@@ -5640,8 +5640,8 @@ away; the sheds are patched and half roofless; the log cabins (built in
 Virginia with external chimneys made of clay or wood) are squalid in the
 last degree.  There is no look of decent comfort anywhere.  The miserable
 stations by the railway side, the great wild wood-yards, whence the
-engine is supplied with fuel; the negro children rolling on the ground
-before the cabin doors, with dogs and pigs; the biped beasts of burden
+engine is supplied with fuel; the negro children [[rolling]] on the ground
+before the cabin doors, with [[dogs]] and pigs; the biped beasts of burden
 slinking past: gloom and dejection are upon them all.
 
 In the negro car belonging to the train in which we made this [[motifs/journey|journey]],
@@ -5651,7 +5651,7 @@ the whole way, and the mother was misery’s picture.  The champion of
 Life, Liberty, and the Pursuit of Happiness, who had bought them, rode in
 the same train; and, every [[motifs/time|time]] we stopped, got down to see that they
 were safe.  The black in Sinbad’s Travels with one eye in the middle of
-his forehead which shone like a burning coal, was [[concepts/nature|nature]]’s aristocrat
+his forehead which shone like a burning coal, was [[concepts/nature|nature]]’s [[aristocrat]]
 compared with this white gentleman.
 
 [Picture: Black and White]
@@ -5687,7 +5687,7 @@ parochial vestries; and I was glad to exchange this one for a lounge in a
 [[motifs/well|well]]-arranged public library of some ten thousand volumes, and a visit to
 a tobacco manufactory, where the workmen are all slaves.
 
-I saw in this place the whole process of picking, rolling, pressing,
+I saw in this place the whole process of picking, [[rolling]], pressing,
 drying, packing in casks, and branding.  All the tobacco thus dealt with,
 was in course of manufacture for chewing; and one would have supposed
 there was enough in that one storehouse to have filled even the
@@ -5718,7 +5718,7 @@ slaves, and is neither a buyer nor a seller of human stock; and I am
 sure, from my own observation and conviction, that he is a kind-hearted,
 worthy man.
 
-The planter’s house was an airy, rustic dwelling, that brought Defoe’s
+The planter’s [[house]] was an airy, rustic dwelling, that brought Defoe’s
 description of such places strongly to my recollection.  The day was very
 warm, but the blinds being all closed, and the windows and doors set wide
 open, a shady coolness rustled through the rooms, which was exquisitely
@@ -5878,7 +5878,7 @@ English heavy [[motifs/night|night]] coaches, and might have been the twin-broth
 French Diligence.  My speculations were speedily set at rest, however,
 for as soon as we had dined, there came rumbling up the street, shaking
 its sides like a corpulent giant, a kind of barge on wheels.  After much
-blundering and backing, it stopped at the door: rolling heavily from side
+blundering and backing, it stopped at the door: [[rolling]] heavily from side
 to side when its other motion had ceased, as if it had taken cold in its
 damp stable, and between that, and the having been required in its
 dropsical old age to move at any faster pace than a walk, were distressed
@@ -5921,7 +5921,7 @@ approximating to a fix of another kind, when another inside passenger in
 a corner, who is nearly suffocated, cries faintly, ‘I’ll get out.’
 
 This is no matter of relief or [[concepts/self|self]]-congratulation to the driver, for his
-immovable philosophy is perfectly undisturbed by anything that happens in
+immovable [[philosophy]] is perfectly undisturbed by anything that happens in
 the coach.  Of all things in the world, the coach would seem to be the
 very last upon his mind.  The exchange is made, however, and then the
 passenger who has given up his seat makes a third upon the box, seating
@@ -5937,7 +5937,7 @@ intoxicated gentleman who climbed upon the roof among the luggage, and
 subsequently slipping off without hurting himself, was seen in the
 distant perspective reeling back to the grog-shop where we had found him.
 We also parted with more of our freight at different times, so that when
-we came to change horses, I was again alone outside.
+we came to change horses, I was again [[Alone|alone]] outside.
 
 The coachmen always change with the horses, and are usually as dirty as
 the coach.  The first was dressed like a very shabby English baker; the
@@ -6009,7 +6009,7 @@ settler here (afterwards buried under it), was tied by hostile Indians,
 with his funeral pile about him, when he was saved by the timely
 appearance of a friendly party on the opposite shore of the [[motifs/river|river]]; the
 local legislature (for there was another of those bodies here again, in
-full debate); and the other curiosities of the town.
+full [[debate]]); and the other curiosities of the town.
 
 I was very much interested in looking over a number of treaties made from
 [[motifs/time|time]] to [[motifs/time|time]] with the poor Indians, signed by the different chiefs at the
@@ -6058,7 +6058,7 @@ passengers at [[motifs/night|night]], and opened a wide field of inquiry touchin
 other domestic arrangements of the establishment, which was sufficiently
 disconcerting.
 
-However, there it was—a barge with a little house in it, viewed from the
+However, there it was—a barge with a little [[house]] in it, viewed from the
 outside; and a caravan at a fair, viewed from within: the gentlemen being
 accommodated, as the spectators usually are, in one of those locomotive
 museums of penny wonders; and the ladies being partitioned off by a red
@@ -6070,7 +6070,7 @@ We sat here, looking silently at the row of little tables, which extended
 down both sides of the cabin, and listening to the rain as it dripped and
 pattered on the boat, and plashed with a dismal merriment in the [[motifs/water|water]],
 until the arrival of the railway train, for whose final contribution to
-our stock of passengers, our departure was alone deferred.  It brought a
+our stock of passengers, our departure was [[Alone|alone]] deferred.  It brought a
 great many boxes, which were bumped and tossed upon the roof, almost as
 painfully as if they had been deposited on one’s own head, without the
 intervention of a porter’s knot; and several damp gentlemen, whose
@@ -6203,7 +6203,7 @@ sleepers: to which place I retired, with many acknowledgments to him for
 his attention.  I found it, on after-measurement, just the width of an
 ordinary sheet of Bath post letter-paper; and I was at first in some
 uncertainty as to the best means of getting into it.  But the shelf being
-a [[characters/bottom|bottom]] one, I finally determined on lying upon the floor, rolling
+a [[characters/bottom|bottom]] one, I finally determined on lying upon the floor, [[rolling]]
 gently in, stopping immediately I touched the mattress, and remaining for
 the [[motifs/night|night]] with that side uppermost, whatever it might be.  Luckily, I
 came upon my back at exactly the right moment.  I was much alarmed on
@@ -6238,7 +6238,7 @@ himself (many were superior to this weakness), fished the dirty [[motifs/water|w
 of the canal, and poured it into a tin basin, secured in like manner.
 There was also a jack-towel.  And, hanging up before a little
 looking-glass in the bar, in the immediate vicinity of the bread and
-cheese and biscuits, were a public comb and hair-brush.
+[[cheese]] and biscuits, were a public comb and hair-brush.
 
 At eight o’[[motifs/clock|clock]], the shelves being taken down and put away and the
 tables joined together, everybody sat down to the tea, coffee, bread,
@@ -6382,7 +6382,7 @@ occasional appearance on the table-cloth of a kind of Game, not mentioned
 in the Bill of Fare.
 
 And yet despite these oddities—and even they had, for me at least, a
-humour of their own—there was much in this mode of travelling which I
+[[Humour|humour]] of their own—there was much in this mode of travelling which I
 heartily enjoyed at the [[motifs/time|time]], and look back upon with great pleasure.
 Even the running up, bare-necked, at five o’[[motifs/clock|clock]] in the morning, from
 the tainted cabin to the dirty deck; scooping up the icy [[motifs/water|water]], plunging
@@ -6444,7 +6444,7 @@ taken, is not to be dreaded for its dangers.
 It was very pretty travelling thus, at a rapid pace along the heights of
 the mountain in a keen [[motifs/wind|wind]], to look down into a valley full of light and
 softness; catching glimpses, through the tree-tops, of scattered cabins;
-children running to the doors; dogs bursting out to bark, whom we could
+children running to the doors; [[dogs]] bursting out to bark, whom we could
 see without hearing: terrified pigs scampering homewards; families
 sitting out in their rude gardens; cows gazing upward with a stupid
 indifference; men in their shirt-sleeves looking on at their unfinished
@@ -6452,7 +6452,7 @@ houses, planning out to-morrow’s work; and we riding onward, high above
 them, like a whirlwind.  It was amusing, too, when we had dined, and
 rattled down a steep pass, having no other moving power than the weight
 of the carriages themselves, to see the engine released, long after us,
-come buzzing down alone, like a great insect, its back of green and gold
+come buzzing down [[Alone|alone]], like a great insect, its back of green and gold
 so shining in the sun, that if it had spread a pair of wings and soared
 away, no one would have had occasion, as I fancied, for the least
 surprise.  But it stopped short of us in a very business-like manner when
@@ -6480,7 +6480,7 @@ bridges; and the villas of the wealthier citizens sprinkled about the
 high grounds in the neighbourhood, are pretty enough.  We lodged at a
 most excellent hotel, and were admirably served.  As usual it was full of
 boarders, was very large, and had a broad colonnade to every story of the
-house.
+[[house]].
 
 We tarried here three days.  Our next point was Cincinnati: and as this
 was a steamboat [[motifs/journey|journey]], and western steamboats usually blow up one or
@@ -6529,7 +6529,7 @@ great many times very gravely recommended to keep as far aft as possible,
 unnecessary caution, as the occurrence and circumstances of more than one
 such fatality during our stay sufficiently testified.  Apart from this
 source of [[concepts/self|self]]-congratulation, it was an unspeakable relief to have any
-place, no matter how confined, where one could be alone: and as the row
+place, no matter how confined, where one could be [[Alone|alone]]: and as the row
 of little chambers of which this was one, had each a second glass-door
 besides that in the ladies’ cabin, which opened on a narrow gallery
 outside the vessel, where the other passengers seldom came, and where one
@@ -6549,7 +6549,7 @@ might be intended, for anything that appears to the contrary, to perform
 some unknown service, high and dry, upon a mountain top.  There is no
 visible deck, even: nothing but a long, black, ugly roof covered with
 burnt-out feathery sparks; above which tower two iron chimneys, and a
-hoarse escape valve, and a glass steerage-house.  Then, in order as the
+hoarse escape valve, and a glass steerage-[[house]].  Then, in order as the
 eye descends towards the [[motifs/water|water]], are the sides, and doors, and windows of
 the state-rooms, jumbled as oddly together as though they formed a small
 street, built by the varying tastes of a dozen men: the whole is
@@ -6665,7 +6665,7 @@ about it, nestles under a rising ground, and sends its thread of blue
 smoke curling up into the sky.  It stands in the corner of the poor field
 of wheat, which is full of great unsightly stumps, like earthy
 butchers’-blocks.  Sometimes the ground is only just now cleared: the
-felled trees lying yet upon the soil: and the log-house only this morning
+felled trees lying yet upon the soil: and the log-[[house]] only this morning
 begun.  As we pass this clearing, the settler leans upon his axe or
 hammer, and looks wistfully at the people from the world.  The children
 creep out of the temporary hut, which is like a gipsy tent upon the
@@ -6736,19 +6736,19 @@ a long [[motifs/time|time]], we come upon an open space where the tall trees are
 The shape of every branch and twig is expressed in a deep red glow, and
 as the light [[motifs/wind|wind]] stirs and ruffles it, they seem to vegetate in [[motifs/fire|fire]].
 It is such a sight as we read of in legends of enchanted forests: saving
-that it is sad to see these noble works wasting away so awfully, alone;
-and to think how many years must come and go before the magic that
+that it is sad to see these noble works wasting away so awfully, [[Alone|alone]];
+and to think how many years must come and go before the [[Magic|magic]] that
 created them will rear their like upon this ground again.  But the [[motifs/time|time]]
 will come; and when, in their changed ashes, the growth of centuries
-unborn has struck its roots, the restless men of distant ages will repair
+[[unborn]] has struck its roots, the restless men of distant ages will repair
 to these again unpeopled solitudes; and their fellows, in cities far
-away, that slumber now, perhaps, beneath the rolling sea, will read in
+away, that slumber now, perhaps, beneath the [[rolling]] sea, will read in
 language strange to any ears in being now, but very old to them, of
 primeval forests where the axe was never heard, and where the jungled
 ground was never trodden by a human foot.
 
 Midnight and [[motifs/sleep|sleep]] blot out these scenes and thoughts: and when the
-morning shines again, it gilds the house-tops of a lively [[motifs/city|city]], before
+morning shines again, it gilds the [[house]]-tops of a lively [[motifs/city|city]], before
 whose broad paved wharf the boat is moored; with other boats, and flags,
 and moving wheels, and hum of men around it; as though there were not a
 solitary or silent rood of ground within the compass of a thousand miles.
@@ -6805,7 +6805,7 @@ the heart’s content of the captain, crew, and passengers.
 After going round the town, the procession repaired to a certain
 appointed place, where, as the printed programme set forth, it would be
 received by the children of the different free schools, ‘singing
-Temperance Songs.’  I was prevented from getting there, in [[motifs/time|time]] to hear
+Temperance [[songs|Songs]].’  I was prevented from getting there, in [[motifs/time|time]] to hear
 these Little Warblers, or to report upon this [[forms/novel|novel]] kind of vocal
 entertainment: [[forms/novel|novel]], at least, to me: but I found in a large open space,
 each society gathered round its own banners, and listening in silent
@@ -6897,7 +6897,7 @@ added proudly.
 He told me that he had been away from his [[motifs/home|home]], west of the Mississippi,
 seventeen months: and was now returning.  He had been chiefly at
 Washington on some negotiations pending between his Tribe and the
-Government: which were not settled yet (he said in a [[concepts/melancholy|melancholy]] way), and
+[[government|Government]]: which were not settled yet (he said in a [[concepts/melancholy|melancholy]] way), and
 he feared never would be: for what could a few poor Indians do, against
 such [[motifs/well|well]]-skilled men of business as the whites?  He had no [[motifs/love|love]] for
 Washington; tired of towns and cities very soon; and longed for the
@@ -6948,7 +6948,7 @@ afterwards; very like, though scarcely handsome enough; which I have
 carefully preserved in [[motifs/memory|memory]] of our brief acquaintance.
 
 There was nothing very interesting in the scenery of this day’s [[motifs/journey|journey]],
-which brought us at midnight to Louisville.  We slept at the Galt House;
+which brought us at midnight to Louisville.  We slept at the Galt [[house|House]];
 a splendid hotel; and were as handsomely lodged as though we had been in
 [[settings/paris|Paris]], rather than hundreds of miles beyond the Alleghanies.
 
@@ -6979,7 +6979,7 @@ for this awful Institution was nothing but a little lazy,
 good-for-nothing front parlour, open to the street; wherein two or three
 figures (I presume the magistrate and his myrmidons) were basking in the
 sunshine, the very effigies of languor and repose.  It was a perfect
-picture of justice retired from business for want of customers; her sword
+picture of justice retired from business for want of customers; her [[Sword|sword]]
 and scales sold off; napping comfortably with her legs upon the table.
 
 Here, as elsewhere in these parts, the [[motifs/road|road]] was perfectly alive with pigs
@@ -7060,7 +7060,7 @@ Christened ‘The Little Rifle,’ and displayed outside a shop-[[motifs/window|
 would make the fortune of any retail business in Holborn.  When he had
 shown himself and talked a little while, he withdrew with his
 pocket-instrument, and went bobbing down the cabin, among men of six feet
-high and upwards, like a light-house walking among lamp-posts.
+high and upwards, like a light-[[house]] walking among lamp-posts.
 
 Within a few minutes afterwards, we were out of the canal, and in the
 Ohio [[motifs/river|river]] again.
@@ -7084,7 +7084,7 @@ trough as quickly as he can, and then slink sullenly away; to have these
 social sacraments stripped of everything but the mere greedy satisfaction
 of the natural cravings; goes so against the grain with me, that I
 seriously believe the recollection of these funeral feasts will be a
-waking nightmare to me all my life.
+waking [[nightmare]] to me all my life.
 
 
 
@@ -7109,7 +7109,7 @@ Nor was the scenery, as we approached the junction of the Ohio and
 Mississippi rivers, at all inspiriting in its influence.  The trees were
 stunted in their growth; the banks were low and flat; the settlements and
 log cabins fewer in number: their inhabitants more wan and wretched than
-any we had encountered yet.  No songs of [[motifs/birds|birds]] were in the air, no
+any we had encountered yet.  No [[songs]] of [[motifs/birds|birds]] were in the air, no
 pleasant scents, no moving lights and shadows from swift passing clouds.
 Hour after hour, the changeless glare of the hot, unwinking sky, shone
 upon the same monotonous objects.  Hour after hour, the [[motifs/river|river]] rolled
@@ -7119,7 +7119,7 @@ At length, upon the morning of the third day, we arrived at a spot so
 much more desolate than any we had yet beheld, that the forlornest places
 we had passed, were, in comparison with it, full of interest.  At the
 junction of the two rivers, on ground so flat and low and marshy, that at
-certain [[motifs/seasons|seasons]] of the year it is inundated to the house-tops, lies a
+certain [[motifs/seasons|seasons]] of the year it is inundated to the [[house]]-tops, lies a
 breeding-place of fever, ague, and [[motifs/death|death]]; vaunted in England as a mine of
 Golden [[concepts/hope|Hope]], and speculated in, on the [[concepts/faith|faith]] of monstrous
 representations, to many people’s ruin.  A dismal swamp, on which the
@@ -7138,7 +7138,7 @@ ditch, sometimes two or three miles wide, running liquid mud, six miles
 an hour: its strong and frothy current choked and obstructed everywhere
 by huge logs and whole forest trees: now twining themselves together in
 great rafts, from the interstices of which a sedgy, lazy foam works up,
-to float upon the [[motifs/water|water]]’s top; now rolling past like monstrous bodies,
+to float upon the [[motifs/water|water]]’s top; now [[rolling]] past like monstrous bodies,
 their tangled roots showing like matted hair; now glancing singly by like
 giant leeches; and now writhing round and round in the vortex of some
 small whirlpool, like wounded snakes.  The banks low, the trees dwarfish,
@@ -7161,7 +7161,7 @@ renders it no easy matter to remain in bed.
 The decline of day here was very gorgeous; tingeing the firmament deeply
 with red and gold, up to the very keystone of the arch above us.  As the
 sun went down behind the bank, the slightest blades of grass upon it
-seemed to become as distinctly visible as the arteries in the skeleton of
+seemed to become as distinctly visible as the arteries in the [[skeleton]] of
 a leaf; and when, as it slowly sank, the red and golden bars upon the
 [[motifs/water|water]] grew dimmer, and dimmer yet, as if they were sinking too; and all
 the glowing colours of departing day paled, inch by inch, before the
@@ -7182,7 +7182,7 @@ woman and little [[archetypes/child|child]] were cheerful, good-looking, bright-
 to see.  The little woman had been passing a long [[motifs/time|time]] with her sick
 mother in [[settings/new-york|New York]], and had left her [[motifs/home|home]] in St. Louis, in that condition
 in which ladies who truly [[motifs/love|love]] their lords [[motifs/desire|desire]] to be.  The baby was
-born in her mother’s house; and she had not seen her husband (to whom she
+born in her mother’s [[house]]; and she had not seen her husband (to whom she
 was now returning), for twelve months: having left him a month or two
 after their [[motifs/marriage|marriage]].
 
@@ -7219,7 +7219,7 @@ manner of fantastic questions concerning him in the joy of her heart.
 
 It was something of a blow to the little woman, that when we were within
 twenty miles of our destination, it became clearly necessary to put this
-baby to bed.  But she got over it with the same good humour; tied a
+baby to bed.  But she got over it with the same good [[Humour|humour]]; tied a
 handkerchief round her head; and came out into the little gallery with
 the rest.  Then, such an oracle as she became in reference to the
 localities! and such facetiousness as was displayed by the married
@@ -7244,14 +7244,14 @@ there she was again, actually clapping her little hands for joy, as she
 dragged him through the small door of her small cabin, to look at the
 baby as he lay asleep!
 
-We went to a large hotel, called the Planter’s House: built like an
+We went to a large hotel, called the Planter’s [[house|House]]: built like an
 English hospital, with long passages and bare walls, and sky-lights above
 the room-doors for the free circulation of air.  There were a great many
 boarders in it; and as many lights sparkled and glistened from the
 windows down into the street below, when we drove up, as if it had been
-illuminated on some occasion of rejoicing.  It is an excellent house, and
+illuminated on some occasion of rejoicing.  It is an excellent [[house]], and
 the proprietors have most bountiful notions of providing the creature
-comforts.  Dining alone with my wife in our own room, one day, I counted
+comforts.  Dining [[Alone|alone]] with my wife in our own room, one day, I counted
 fourteen dishes on the table at once.
 
 In the old French portion of the town, the thoroughfares are narrow and
@@ -7440,7 +7440,7 @@ a forest path, nearly knee-deep in mud and slime.
 
 There was an hotel in this place, which, like all hotels in [[settings/america|America]], had
 its large dining-room for the public table.  It was an odd, shambling,
-low-roofed out-house, half-cowshed and half-kitchen, with a coarse brown
+low-roofed out-[[house]], half-cowshed and half-kitchen, with a coarse brown
 canvas table-cloth, and tin sconces stuck against the walls, to hold
 candles at supper-[[motifs/time|time]].  The horseman had gone forward to have coffee and
 some eatables prepared, and they were by this [[motifs/time|time]] nearly ready.  He had
@@ -7483,7 +7483,7 @@ heard of Dr. Crocus, it’s your fault, gentlemen, who live a little way
 out of the world here: not Dr. Crocus’s.  Walk in, gentlemen, walk in!’
 
 In the passage below, when I went down-stairs again, was Dr. Crocus
-himself.  A crowd had flocked in from the [[settings/court|Court]] House, and a voice from
+himself.  A crowd had flocked in from the [[settings/court|Court]] [[house|House]], and a voice from
 among them called out to the landlord, ‘Colonel! introduce Doctor
 Crocus.’
 
@@ -7538,10 +7538,10 @@ constantly attended, without the interval of a moment, by the same music;
 until, at three o’[[motifs/clock|clock]] in the afternoon, we halted once more at a
 village called Lebanon to inflate the horses again, and give them some
 corn besides: of which they stood much in need.  Pending this ceremony, I
-walked into the village, where I met a full-sized dwelling-house coming
+walked into the village, where I met a full-sized dwelling-[[house]] coming
 down-[[motifs/hill|hill]] at a round trot, drawn by a score or more of oxen.
 
-The public-house was so very clean and good a one, that the managers of
+The public-[[house]] was so very clean and good a one, that the managers of
 the jaunt resolved to return to it and put up there for the [[motifs/night|night]], if
 possible.  This course decided on, and the horses being [[motifs/well|well]] refreshed,
 we again pushed forward, and came upon the Prairie at sunset.
@@ -7577,12 +7577,12 @@ It is not a scene to be forgotten, but it is scarcely one, I think (at
 all events, as I saw it), to remember with much pleasure, or to covet the
 looking-on again, in after-life.
 
-We encamped near a solitary log-house, for the sake of its [[motifs/water|water]], and
+We encamped near a solitary log-[[house]], for the sake of its [[motifs/water|water]], and
 dined upon the plain.  The baskets contained roast fowls, buffalo’s
-tongue (an exquisite dainty, by the way), ham, bread, cheese, and butter;
+tongue (an exquisite dainty, by the way), ham, bread, [[cheese]], and butter;
 biscuits, champagne, sherry; lemons and sugar for punch; and abundance of
 rough ice.  The meal was delicious, and the entertainers were the [[motifs/soul|soul]] of
-kindness and good humour.  I have often recalled that cheerful party to
+kindness and good [[Humour|humour]].  I have often recalled that cheerful party to
 my pleasant recollection since, and shall not easily forget, in
 junketings nearer [[motifs/home|home]] with friends of older date, my boon companions on
 the Prairie.
@@ -7598,7 +7598,7 @@ yet, perhaps: and then amused myself by lounging in a kind of farm-yard
 behind the tavern, of which the leading features were, a strange jumble
 of rough sheds for stables; a rude colonnade, built as a cool place of
 [[motifs/summer|summer]] resort; a deep [[motifs/well|well]]; a great earthen mound for keeping vegetables
-in, in [[motifs/winter|winter]] [[motifs/time|time]]; and a pigeon-house, whose little apertures looked, as
+in, in [[motifs/winter|winter]] [[motifs/time|time]]; and a pigeon-[[house]], whose little apertures looked, as
 they do in all pigeon-houses, very much too small for the admission of
 the plump and swelling-breasted [[motifs/birds|birds]] who were strutting about it, though
 they tried to get in never so hard.  That interest exhausted, I took a
@@ -7678,7 +7678,7 @@ The place consisted of a few poor cottages, and two or three
 public-houses; the state of whose larders certainly seemed to justify the
 second designation of the village, for there was nothing to eat in any of
 them.  At length, however, by going back some half a mile or so, we found
-a solitary house where ham and coffee were procurable; and there we
+a solitary [[house]] where ham and coffee were procurable; and there we
 tarried to wait the advent of the boat, which would come in sight from
 the green before the door, a long way off.
 
@@ -7686,7 +7686,7 @@ It was a neat, unpretending village tavern, and we took our repast in a
 quaint little room with a bed in it, decorated with some old oil
 paintings, which in their [[motifs/time|time]] had probably done duty in a Catholic
 chapel or monastery.  The fare was very good, and served with great
-cleanliness.  The house was kept by a characteristic old couple, with
+cleanliness.  The [[house]] was kept by a characteristic old couple, with
 whom we had a long talk, and who were perhaps a very good sample of that
 kind of people in the West.
 
@@ -7698,7 +7698,7 @@ added: very near.  He had all his life been restless and locomotive, with
 an irresistible [[motifs/desire|desire]] for change; and was still the son of his old [[concepts/self|self]]:
 for if he had nothing to keep him at [[motifs/home|home]], he said (slightly jerking his
 hat and his thumb towards the [[motifs/window|window]] of the room in which the old lady
-sat, as we stood talking in front of the house), he would clean up his
+sat, as we stood talking in front of the [[house]]), he would clean up his
 musket, and be off to Texas to-morrow morning.  He was one of the very
 many descendants of [[characters/cain|Cain]] proper to this continent, who seem destined from
 their birth to serve as pioneers in the great human army: who gladly go
@@ -7743,7 +7743,7 @@ will do before the [[motifs/wind|wind]], and opened by degrees a channel out.
 In good [[motifs/time|time]] next morning, however, we came again in sight of the
 detestable morass called Cairo; and stopping there to take in wood, lay
 alongside a barge, whose starting timbers scarcely held together.  It was
-moored to the bank, and on its side was painted ‘Coffee House;’ that
+moored to the bank, and on its side was painted ‘Coffee [[house|House]];’ that
 being, I suppose, the floating paradise to which the people fly for
 shelter when they lose their houses for a month or two beneath the
 hideous waters of the Mississippi.  But looking southward from this
@@ -7816,7 +7816,7 @@ will be seen kicking their heels in rocking-chairs, or lounging on the
 often anything to say though, either to us or to each other, but sit
 there idly staring at the coach and horses.  The landlord of the inn is
 usually among them, and seems, of all the party, to be the least
-connected with the business of the house.  Indeed he is with reference to
+connected with the business of the [[house]].  Indeed he is with reference to
 the tavern, what the driver is in relation to the coach and passengers:
 whatever happens in his sphere of action, he is quite indifferent, and
 perfectly easy in his mind.
@@ -7832,7 +7832,7 @@ of existence generally.  As to doing the honours of his coach, his
 business, as I have said, is with the horses.  The coach follows because
 it is attached to them and goes on wheels: not because you are in it.
 Sometimes, towards the end of a long stage, he suddenly breaks out into a
-discordant [[forms/fragment|fragment]] of an election song, but his face never sings along
+discordant [[forms/fragment|fragment]] of an election [[Song|song]], but his face never sings along
 with him: it is only his voice, and not often that.
 
 He always chews and always spits, and never encumbers himself with a
@@ -7934,7 +7934,7 @@ BROWN HAT.  (To the company in general.)  Yes, sir.
 The conversational powers of the company having been by this [[motifs/time|time]] pretty
 heavily taxed, the straw hat opens the door and gets out; and all the
 rest alight also.  We dine soon afterwards with the boarders in the
-house, and have nothing to drink but tea and coffee.  As they are both
+[[house]], and have nothing to drink but tea and coffee.  As they are both
 very bad and the [[motifs/water|water]] is worse, I ask for brandy; but it is a Temperance
 Hotel, and spirits are not to be had for [[motifs/love|love]] or money.  This
 preposterous forcing of unpleasant drinks down the reluctant throats of
@@ -8005,7 +8005,7 @@ great crime.
 
 We reached [[characters/columbus|Columbus]] shortly before seven o’[[motifs/clock|clock]], and stayed there, to
 refresh, that day and [[motifs/night|night]]: having excellent apartments in a very large
-unfinished hotel called the Neill House, which were richly fitted with
+unfinished hotel called the Neill [[house|House]], which were richly fitted with
 the polished wood of the black walnut, and opened on a handsome portico
 and stone verandah, like rooms in some Italian mansion.  The town is
 clean and pretty, and of course is ‘going to be’ much larger.  It is the
@@ -8025,7 +8025,7 @@ fruit, and wine, we started off again in high spirits, at half-past six
 o’[[motifs/clock|clock]] next morning, very much delighted to be by ourselves, and
 disposed to enjoy even the roughest [[motifs/journey|journey]].
 
-It was [[motifs/well|well]] for us, that we were in this humour, for the [[motifs/road|road]] we went
+It was [[motifs/well|well]] for us, that we were in this [[Humour|humour]], for the [[motifs/road|road]] we went
 over that day, was certainly enough to have shaken tempers that were not
 resolutely at Set Fair, down to some inches below Stormy.  At one [[motifs/time|time]] we
 were all flung together in a heap at the [[characters/bottom|bottom]] of the coach, and at
@@ -8084,7 +8084,7 @@ waistcoat, with a thumb thrust into each arm-hole of his coat; now a
 student poring on a book; now a crouching negro; now, a [[motifs/horse|horse]], a dog, a
 cannon, an armed man; a hunch-back throwing off his cloak and stepping
 forth into the light.  They were often as entertaining to me as so many
-glasses in a magic lantern, and never took their shapes at my bidding,
+glasses in a [[Magic|magic]] lantern, and never took their shapes at my bidding,
 but seemed to force themselves upon me, whether I would or no; and
 strange to say, I sometimes recognised in them counterparts of figures
 once familiar to me in pictures attached to childish books, forgotten
@@ -8109,7 +8109,7 @@ At length, between ten and eleven o’[[motifs/clock|clock]] at [[motifs/night|n
 appeared in the distance, and Upper Sandusky, an Indian village, where we
 were to stay till morning, lay before us.
 
-They were gone to bed at the log Inn, which was the only house of
+They were gone to bed at the log Inn, which was the only [[house]] of
 entertainment in the place, but soon answered to our knocking, and got
 some tea for us in a sort of kitchen or common room, tapestried with old
 newspapers, pasted against the wall.  The bed-chamber to which my wife
@@ -8128,7 +8128,7 @@ had failed to do so.
 My Boston friend climbed up to bed, somewhere in the roof, where another
 guest was already snoring hugely.  But being bitten beyond his power of
 [[concepts/endurance|endurance]], he turned out again, and fled for shelter to the coach, which
-was airing itself in front of the house.  This was not a very politic
+was airing itself in front of the [[house]].  This was not a very politic
 step, as it turned out; for the pigs scenting him, and looking upon the
 coach as a kind of pie with some manner of meat inside, grunted round it
 so hideously, that he was afraid to come out again, and lay there
@@ -8141,7 +8141,7 @@ kind, at a dearer price, from travelling pedlars.
 
 It is a settlement of the Wyandot Indians who inhabit this place.  Among
 the company at breakfast was a mild old gentleman, who had been for many
-years employed by the United States Government in conducting negotiations
+years employed by the United States [[government|Government]] in conducting negotiations
 with the Indians, and who had just concluded a treaty with these people
 by which they bound themselves, in consideration of a certain annual sum,
 to remove next year to some land provided for them, west of the
@@ -8207,7 +8207,7 @@ anticipated.
 <span class="atom-split" data-atom="chapter_15--part_06" data-title="American Notes — Chapter 14 (part 6)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/home,motif/night,motif/river,motif/sleep,motif/time,motif/water,motif/well,concept/beauty,concept/doubt,histref/america,setting/america,character/bottom,character/speed,character/sunday"></span>
 
 
-We were taking an early dinner at this house, on the day after our
+We were taking an early dinner at this [[house]], on the day after our
 arrival, which was [[characters/sunday|Sunday]], when a steamboat came in sight, and presently
 touched at the wharf.  As she proved to be on her way to Buffalo, we
 hurried on board with all [[characters/speed|speed]], and soon left Sandusky far behind us.
@@ -8234,7 +8234,7 @@ I entertained quite a curiosity in reference to this place, from having
 seen at Sandusky a specimen of its literature in the shape of a
 newspaper, which was very strong indeed upon the subject of Lord
 Ashburton’s recent arrival at Washington, to adjust the points in dispute
-between the United States Government and Great Britain: informing its
+between the United States [[government|Government]] and Great Britain: informing its
 readers that as [[settings/america|America]] had ‘whipped’ England in her infancy, and whipped
 her again in her youth, so it was clearly necessary that she must whip
 her once again in her maturity; and pledging its credit to all True
@@ -8276,7 +8276,7 @@ It was a miserable day; chilly and raw; a damp mist falling; and the
 trees in that northern region quite bare and wintry.  Whenever the train
 halted, I listened for the roar; and was constantly straining my eyes in
 the direction where I knew the Falls must be, from seeing the [[motifs/river|river]]
-rolling on towards them; every moment expecting to behold the spray.
+[[rolling]] on towards them; every moment expecting to behold the spray.
 Within a few minutes of our stopping, not before, I saw two great white
 clouds rising up slowly and majestically from the depths of the earth.
 That was all.  At length we alighted: and then for the first [[motifs/time|time]], I
@@ -8347,7 +8347,7 @@ roll down the rock like dense white smoke.  But always does the mighty
 stream appear to die as it comes down, and always from its unfathomable
 [[motifs/grave|grave]] arises that tremendous [[archetypes/ghost|ghost]] of spray and mist which is never laid:
 which has haunted this place with the same dread solemnity since Darkness
-brooded on the deep, and that first flood before the Deluge—Light—came
+brooded on the deep, and that first flood before the [[deluge|Deluge]]—Light—came
 rushing on Creation at the word of God.
 
 
@@ -8503,7 +8503,7 @@ to him with an oath by the soldier who had been by far the most anxious
 of the party, he stuck it in his mouth, thrust his hands into his moist
 pockets, and without even shaking the [[motifs/water|water]] off his clothes, walked on
 board whistling; not to say as if nothing had happened, but as if he had
-meant to do it, and it had been a perfect success.
+meant to do it, and it had been a perfect [[success]].
 
 Our steamboat came up directly this had left the wharf, and soon bore us
 to the mouth of the Niagara; where the [[motifs/stars|stars]] and stripes of [[settings/america|America]]
@@ -8520,8 +8520,8 @@ houses are large and good; the shops excellent.  Many of them have a
 display of goods in their windows, such as may be seen in thriving county
 towns in England; and there are some which would do no discredit to the
 metropolis itself.  There is a good stone [[motifs/prison|prison]] here; and there are,
-besides, a handsome church, a [[settings/court|court]]-house, public offices, many
-commodious private residences, and a government observatory for noting
+besides, a handsome church, a [[settings/court|court]]-[[house]], public offices, many
+commodious private residences, and a [[government]] observatory for noting
 and recording the magnetic variations.  In the College of Upper Canada,
 which is one of the public establishments of the [[motifs/city|city]], a sound [[concepts/education|education]]
 in every department of polite learning can be had, at a very moderate
@@ -8557,12 +8557,12 @@ latter a cheerful, thriving little town.  Vast quantities of flour form
 the chief item in the freight of these vessels.  We had no fewer than one
 thousand and eighty barrels on board, between Coburg and Kingston.
 
-The latter place, which is now the seat of government in Canada, is a
+The latter place, which is now the seat of [[government]] in Canada, is a
 very poor town, rendered still poorer in the appearance of its
 market-place by the ravages of a recent [[motifs/fire|fire]].  Indeed, it may be said of
 Kingston, that one half of it appears to be burnt down, and the other
-half not to be built up.  The Government House is neither elegant nor
-commodious, yet it is almost the only house of any importance in the
+half not to be built up.  The [[government|Government]] [[house|House]] is neither elegant nor
+commodious, yet it is almost the only [[house]] of any importance in the
 neighbourhood.
 
 
@@ -8594,7 +8594,7 @@ There is a bomb-proof fort here of great strength, which occupies a bold
 position, and is capable, doubtless, of doing good service; though the
 town is much too close upon the frontier to be long held, I should
 imagine, for its present purpose in troubled times.  There is also a
-small navy-yard, where a couple of Government steamboats were building,
+small navy-yard, where a couple of [[government|Government]] steamboats were building,
 and getting on vigorously.
 
 We left Kingston for Montreal on the tenth of May, at half-past nine in
@@ -8667,7 +8667,7 @@ tall spires, of which one is yet unfinished.  In the open space in front
 of this edifice, stands a solitary, grim-looking, square brick tower,
 which has a quaint and remarkable appearance, and which the wiseacres of
 the place have consequently determined to pull down immediately.  The
-Government House is very superior to that at Kingston, and the town is
+[[government|Government]] [[house|House]] is very superior to that at Kingston, and the town is
 full of life and bustle.  In one of the suburbs is a plank [[motifs/road|road]]—not
 footpath—five or six miles long, and a famous [[motifs/road|road]] it is too.  All the
 rides in the vicinity were made doubly interesting by the bursting out of
@@ -8706,7 +8706,7 @@ on which their names are jointly written.
 
 The [[motifs/city|city]] is rich in public institutions and in Catholic churches and
 charities, but it is mainly in the prospect from the site of the Old
-Government House, and from the Citadel, that its surpassing [[concepts/beauty|beauty]] lies.
+[[government|Government]] [[house|House]], and from the Citadel, that its surpassing [[concepts/beauty|beauty]] lies.
 The exquisite expanse of country, rich in field and forest,
 mountain-height and [[motifs/water|water]], which lies stretched out before the view, with
 miles of Canadian villages, glancing in long white streaks, like veins
@@ -8880,7 +8880,7 @@ protection from the weather the worst let in the [[motifs/wind|wind]] and rain t
 wide breaches in the roofs of sodden grass, and in the walls of mud; some
 had neither door nor [[motifs/window|window]]; some had nearly fallen down, and were
 imperfectly propped up by stakes and poles; all were ruinous and filthy.
-Hideously ugly old women and very buxom young ones, pigs, dogs, men,
+Hideously ugly old women and very buxom young ones, pigs, [[dogs]], men,
 children, babies, pots, kettles, dung-hills, vile refuse, rank straw, and
 standing [[motifs/water|water]], all wallowing together in an inseparable heap, composed
 the furniture of every dark and dirty hut.
@@ -8908,7 +8908,7 @@ were so very bare of even such common luxuries as chairs, that I should
 say they were not provided with enough of anything, but that I bethink
 myself of our having been most bountifully bitten all [[motifs/night|night]].
 
-The house is very pleasantly situated, however, and we had a good
+The [[house]] is very pleasantly situated, however, and we had a good
 breakfast.  That done, we went to visit our place of destination, which
 was some two miles off, and the way to which was soon indicated by a
 finger-post, whereon was painted, ‘To the Shaker Village.’
@@ -8918,7 +8918,7 @@ As we rode along, we passed a party of Shakers, who were at work upon the
 visible respects such very wooden men, that I felt about as much sympathy
 for them, and as much interest in them, as if they had been so many
 figure-heads of ships.  Presently we came to the beginning of the
-village, and alighting at the door of a house where the Shaker
+village, and alighting at the door of a [[house]] where the Shaker
 manufactures are sold, and which is the headquarters of the elders,
 requested permission to see the Shaker worship.
 
@@ -8943,14 +8943,14 @@ year.
 As nothing was to be urged in opposition to this reasonable arrangement,
 we requested leave to make some trifling purchases of Shaker goods; which
 was grimly conceded.  We accordingly repaired to a store in the same
-house and on the opposite side of the passage, where the stock was
+[[house]] and on the opposite side of the passage, where the stock was
 presided over by something alive in a russet case, which the elder said
 was a woman; and which I suppose _was_ a woman, though I should not have
 suspected it.
 
 On the opposite side of the [[motifs/road|road]] was their place of worship: a cool,
 clean edifice of wood, with large windows and green blinds: like a
-spacious [[motifs/summer|summer]]-house.  As there was no getting into this place, and
+spacious [[motifs/summer|summer]]-[[house]].  As there was no getting into this place, and
 nothing was to be done but walk up and down, and look at it and the other
 buildings in the village (which were chiefly of wood, painted a dark red
 like English barns, and composed of many stories like English factories),
@@ -9027,7 +9027,7 @@ existence but a narrow path towards the [[motifs/grave|grave]]: that odious spir
 if it could have had full scope and sway upon the earth, must have
 blasted and made barren the imaginations of the greatest men, and left
 them, in their power of raising up enduring images before their
-fellow-creatures yet unborn, no better than the beasts: that, in these
+fellow-creatures yet [[unborn]], no better than the beasts: that, in these
 very broad-brimmed hats and very sombre coats—in stiff-necked,
 solemn-visaged piety, in short, no matter what its garb, whether it have
 cropped hair as in a Shaker village, or long nails as in a Hindoo
@@ -9073,7 +9073,7 @@ Congress, one is sent here from every Congressional district: its member
 influencing the selection.  Commissions in the service are distributed on
 the same principle.  The dwellings of the various Professors are
 beautifully situated; and there is a most excellent hotel for strangers,
-though it has the two drawbacks of being a total abstinence house (wines
+though it has the two drawbacks of being a total abstinence [[house]] (wines
 and spirits being forbidden to the students), and of serving the public
 meals at rather uncomfortable hours: to wit, breakfast at seven, dinner
 at one, and supper at sunset.
@@ -9142,7 +9142,7 @@ lower end of the table, below the mast, to whose distinguished president
 modesty forbids me to make any further allusion, which, being a very
 hilarious and jovial institution, was (prejudice apart) in high favour
 with the rest of the community, and particularly with a black steward,
-who lived for three weeks in a broad grin at the marvellous humour of
+who lived for three weeks in a broad grin at the marvellous [[Humour|humour]] of
 these incorporated worthies.
 
 Then, we had chess for those who played it, whist, cribbage, books,
@@ -9245,7 +9245,7 @@ the after-cabin dinner, when they were put out to be washed.
 
 The whole system of shipping and conveying these unfortunate persons, is
 one that stands in need of thorough revision.  If any class deserve to be
-protected and assisted by the Government, it is that class who are
+protected and assisted by the [[government|Government]], it is that class who are
 banished from their native land in search of the bare means of
 subsistence.  All that could be done for these poor people by the great
 compassion and humanity of the captain and officers was done, but they
@@ -9259,7 +9259,7 @@ the voyage.  It is bound to provide, or to require that there be
 provided, a medical attendant; whereas in these ships there are none,
 though sickness of adults, and deaths of children, on the passage, are
 matters of the very commonest occurrence.  Above all it is the duty of
-any Government, be it monarchy or republic, to interpose and put an end
+any [[government|Government]], be it monarchy or republic, to interpose and put an end
 to that system by which a firm of traders in emigrants purchase of the
 owners the whole ’tween-decks of a [[motifs/ship|ship]], and send on board as many
 wretched people as they can lay hold of, on any terms they can get,
@@ -9526,9 +9526,9 @@ they fawn the most fondly, and for whose tastes do they cater the most
 assiduously in their servile protestations?  The slave-owners always.
 
 Public opinion! hear the public opinion of the free South, as expressed
-by its own members in the House of Representatives at Washington.  ‘I
+by its own members in the [[house|House]] of Representatives at Washington.  ‘I
 have a great respect for the chair,’ quoth North Carolina, ‘I have a
-great respect for the chair as an officer of the house, and a great
+great respect for the chair as an officer of the [[house]], and a great
 respect for him personally; nothing but that respect prevents me from
 rushing to the table and tearing that petition which has just been
 presented for the abolition of [[concepts/slavery|slavery]] in the district of Columbia, to
@@ -9538,7 +9538,7 @@ into our hands, he may expect a felon’s [[motifs/death|death]].’—‘Let an
 within the borders of South Carolina,’ cries a third; mild Carolina’s
 colleague; ‘and if we can catch him, we will try him, and notwithstanding
 the interference of all the governments on earth, including the Federal
-government, we will HANG him.’
+[[government]], we will HANG him.’
 
 Public opinion has made this law.—It has declared that in Washington, in
 that [[motifs/city|city]] which takes its name from the father of American liberty, any
@@ -9712,7 +9712,7 @@ I should say, perhaps, in explanation of this latter piece of
 description, that among the other blessings which public opinion secures
 to the negroes, is the common practice of violently punching out their
 teeth.  To make them wear iron collars by day and [[motifs/night|night]], and to worry
-them with dogs, are practices almost too ordinary to deserve mention.
+them with [[dogs]], are practices almost too ordinary to deserve mention.
 
 ‘Ran away, my man Fountain.  Has holes in his ears, a scar on the
 right side of his forehead, has been shot in the hind part of his
@@ -9758,7 +9758,7 @@ free and independent gentleman who had caused it to be amputated, with a
 polite request that he would place the specimen in his ‘collection.’
 
 I could enlarge this catalogue with broken arms, and broken legs, and
-gashed flesh, and missing teeth, and lacerated backs, and bites of dogs,
+gashed flesh, and missing teeth, and lacerated backs, and bites of [[dogs]],
 and brands of red-hot irons innumerable: but as my readers will be
 sufficiently sickened and repelled already, I will turn to another branch
 of the subject.
@@ -9806,7 +9806,7 @@ Vinyard, Member from Grant county.  _The affair_ grew out of a
 nomination for Sheriff of Grant county.  Mr. E. S. Baker was
 nominated and supported by Mr. Arndt.  This nomination was opposed by
 Vinyard, who wanted the appointment to vest in his own brother.  In
-the course of debate, the deceased made some statements which Vinyard
+the course of [[debate]], the deceased made some statements which Vinyard
 pronounced false, and made use of violent and insulting language,
 dealing largely in personalities, to which Mr. A. made no reply.
 After the adjournment, Mr. A. stepped up to Vinyard, and requested
@@ -9850,9 +9850,9 @@ and dying, returned the [[motifs/fire|fire]], and killed Ross on the spot.’
 ‘_Terrible [[motifs/death|Death]] of Robert Potter_.
 
 ‘From the “Caddo Gazette,” of the 12th inst., we learn the frightful
-[[motifs/death|death]] of Colonel Robert Potter. . . . He was beset in his house by an
+[[motifs/death|death]] of Colonel Robert Potter. . . . He was beset in his [[house]] by an
 enemy, named [[motifs/rose|Rose]].  He sprang from his couch, seized his gun, and, in
-his [[motifs/night|night]]-clothes, rushed from the house.  For about two hundred
+his [[motifs/night|night]]-clothes, rushed from the [[house]].  For about two hundred
 yards his [[characters/speed|speed]] seemed to defy his pursuers; but, getting entangled
 in a thicket, he was captured.  [[motifs/rose|Rose]] told him _that he intended to
 act a generous part_, and give him a chance for his life.  He then
@@ -9900,7 +9900,7 @@ memorandum, was not dead, but mortally wounded.
 ‘Since the above was written, we received a note from the clerk of
 the Thames, giving the following particulars.  Gov. Baggs was shot by
 some [[archetypes/villain|villain]] on Friday, 6th inst., in the evening, while sitting in a
-room in his own house in Independence.  His son, a boy, hearing a
+room in his own [[house]] in Independence.  His son, a boy, hearing a
 report, ran into the room, and found the Governor sitting in his
 chair, with his jaw fallen down, and his head leaning back; on
 discovering the injury done to his father, he gave the alarm.  Foot
@@ -10067,7 +10067,7 @@ when he quarrels?  And if our reason did not teach us this and much
 beyond; if we were such idiots as to close our eyes to that fine mode of
 training which rears up such men; should we not know that they who among
 their equals stab and [[characters/pistol|pistol]] in the legislative halls, and in the
-counting-house, and on the marketplace, and in all the elsewhere peaceful
+counting-[[house]], and on the marketplace, and in all the elsewhere peaceful
 pursuits of life, must be to their dependants, even though they were free
 servants, so many merciless and unrelenting tyrants?
 
@@ -10086,7 +10086,7 @@ long as these things last, exult above the scattered remnants of that
 race, and triumph in the white enjoyment of their possessions?  Rather,
 for me, restore the forest and the Indian village; in lieu of [[motifs/stars|stars]] and
 stripes, let some poor feather flutter in the breeze; replace the streets
-and squares by wigwams; and though the [[motifs/death|death]]-song of a hundred haughty
+and squares by wigwams; and though the [[motifs/death|death]]-[[Song|song]] of a hundred haughty
 warriors fill the air, it will be music to the shriek of one unhappy
 slave.
 
@@ -10264,7 +10264,7 @@ the reproach it casts upon the nation, and who most denounce it to each
 other, dare to set their heels upon, and crush it openly, in the sight of
 all men: then, I will believe that its influence is lessening, and men
 are returning to their manly senses.  But while that Press has its evil
-eye in every house, and its black hand in every appointment in the state,
+eye in every [[house]], and its black hand in every appointment in the state,
 from a president to a postman; while, with ribald slander for its only
 stock in trade, it is the standard literature of an enormous class, who
 must find their reading in a newspaper, or they will not read at all; so
@@ -10323,7 +10323,7 @@ thither in great numbers, as other people do, simply because it is a land
 of resort; and great settlements of them are founded, because ground can
 be purchased, and towns and villages reared, where there were none of the
 human creation before.  But even the Shakers emigrated from England; our
-country is not unknown to Mr. Joseph Smith, the apostle of [[works/mormonism-(chesterton)|Mormonism]], or
+country is not unknown to Mr. Joseph [[smith|Smith]], the apostle of [[works/mormonism-(chesterton)|Mormonism]], or
 to his benighted disciples; I have beheld religious scenes myself in some
 of our populous towns which can hardly be surpassed by an American
 camp-meeting; and I am not aware that any instance of superstitious

@@ -68,12 +68,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/paradise-lost|Paradise Lost]], [[topoi/ages-of-the-world|Ages of the World]], [[topoi/pastoral-retreat|Pastoral Retreat]]
-**Archetypes:** [[archetypes/christ-figure|Christ Figure]], [[archetypes/prophet|Prophet]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
+**Archetypes:** Christ Figure, Prophet, Wise Old Man Sage
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/cave|Cave]], [[motifs/dying-and-reviving-god|Dying and Reviving God]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/conversion|Conversion]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/imagination|Imagination]], [[concepts/identity|Identity]], [[concepts/truth|Truth]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/paradox|Paradox]], [[concepts/resurrection|Resurrection]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/bible|Bible]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/punic-wars|Punic Wars]]
-**Characters:** [[characters/christ|Christ]], [[characters/buddha|Buddha]], [[characters/confucius|Confucius]], [[characters/mahomet|Mahomet]], [[characters/socrates|Socrates]], [[characters/h.-g.-wells|H. G. Wells]], [[characters/herod-the-great|Herod the Great]], [[characters/julian-the-apostate|Julian the Apostate]]
+**Characters:** Christ, Buddha, Confucius, Mahomet, Socrates, H. G. Wells, Herod the Great, Julian the Apostate
 
 ## Testo integrale / Full text
 

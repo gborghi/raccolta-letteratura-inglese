@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/joy-animals-comic-verse-song" data-author="Coleridge" data-workhref="works/joy-·-animals-·-comic-verse-song-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="005_julia" data-title="JULIA" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/love_romantic,concept/marriage_and_fidelity,concept/grief_and_loss,form/mock_epic,form/heroic_couplet,form/satire,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="005_julia" data-title="JULIA" data-chapter="" data-kind="intro"></span>
 
 
 IN [[characters/christ|CHRIST]]’S HOSPITAL BOOK  
@@ -33,7 +33,7 @@ Nought now remain’d but ‘Noes’ — how little meant!
 And the sweet coyness that endears consent.  
 The youth upon his knees enraptur’d fell:   15  
 The strange misfortune, oh! what words can tell?  
-Tell! ye neglected sylphs! who lap-dogs guard,  
+Tell! ye neglected sylphs! who lap-[[dogs]] guard,  
 Why snatch’d ye not away your precious ward?  
 Why suffer’d ye the [[archetypes/lover|lover]]’s weight to fall  
 On the ill-fated neck of much-lov’d Ball?   20  
@@ -54,7 +54,7 @@ At once her [[archetypes/lover|Lover]] and her Lap-dog lost.
 
 
 
-<span class="atom-split" data-atom="028_devonshire_roads" data-title="DEVONSHIRE ROADS" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,motif/the_road,motif/the_journey,form/parody,form/ode,setting/rural_england,character/satan,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="028_devonshire_roads" data-title="DEVONSHIRE ROADS" data-chapter="" data-kind="intro"></span>
 
 
 The indignant Bard composed this furious ode,  
@@ -73,7 +73,7 @@ What [[motifs/time|time]] the Bloodhound lur’d by Human scent
 Thro’ all Confusion’s quagmires floundering went.  
 Nor cheering pipe, nor Bird’s shrill note   15  
 Around thy dreary paths shall float;  
-Their boding songs shall scritch-owls pour  
+Their boding [[songs]] shall scritch-owls pour  
 To fright the guilty shepherds sore,  
 Led by the wandering fires astray  
 Thro’ the dank horrors of thy way!   20  
@@ -86,7 +86,7 @@ Alight upon thee, damnéd Bog!
 
 
 
-<span class="atom-split" data-atom="073_domestic_peace" data-title="DOMESTIC PEACE" data-chapter="" data-kind="intro" data-tags="topos/beatus_ille,topos/pastoral_retreat,motif/memory,motif/bells,concept/joy,form/song,histref/the_french_revolution,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="073_domestic_peace" data-title="DOMESTIC PEACE" data-chapter="" data-kind="intro"></span>
 
 
 FROM ‘THE FALL OF ROBESPIERRE’, ACT I, L. 210  
@@ -109,7 +109,7 @@ And conscious of the past employ
 
 
 
-<span class="atom-split" data-atom="150_the_old_man_of_the_alps" data-title="THE OLD MAN OF THE ALPS" data-chapter="" data-kind="intro" data-tags="motif/storm,concept/grief_and_loss,concept/war_and_its_cost,concept/madness,concept/faith,concept/love_romantic,form/narrative_poem,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="150_the_old_man_of_the_alps" data-title="THE OLD MAN OF THE ALPS" data-chapter="" data-kind="intro"></span>
 
 
 Stranger! whose eyes a look of pity shew,  
@@ -135,7 +135,7 @@ When every friend is gone to them that rest;   20
 Or of old men that leave, when they expire,  
 Daughters, that should have perish’d with their sire —  
 Leave them to toil all day through paths unknown,  
-And house at [[motifs/night|night]] behind some sheltering stone;  
+And [[house]] at [[motifs/night|night]] behind some sheltering stone;  
 Impatient of the thought, with lively cheer   25  
 She broke half-closed the tasteless tale severe.  
 She play’d with fancies of a gayer hue,  
@@ -172,7 +172,7 @@ Yes! now the hour approach’d that should restore
 Her [[archetypes/lover|lover]] from the wars to part no more.  
 Her thoughts were wild, her [[motifs/soul|soul]] was in her eye,  
 She wept and laugh’d as if she knew not why;   60  
-And she had made a song about the wars,  
+And she had made a [[Song|song]] about the wars,  
 And sang it to the sun and to the [[motifs/stars|stars]]!  
 But while she look’d and listen’d, stood and ran,  
 And saw him plain in every distant man,  
@@ -198,7 +198,7 @@ She wander’d up the crag and down the slope,
 But not, as in her happy days of [[concepts/hope|hope]],  
 To seek the churning-plant of sovereign power,   85  
 That grew in clefts and bore a scarlet flower!  
-She roam’d, without a purpose, all alone,  
+She roam’d, without a purpose, all [[Alone|alone]],  
 Thro’ high grey vales unknowing and unknown.  
 Kind-hearted stranger! patiently you hear  
 A tedious tale: I thank you for that tear.   90  
@@ -255,7 +255,7 @@ NICIAS ERYTHRAEUS.
 
 
 
-<span class="atom-split" data-atom="151_to_a_young_lady" data-title="TO A YOUNG LADY" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/birds,concept/joy,concept/mortality,concept/faith,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="151_to_a_young_lady" data-title="TO A YOUNG LADY" data-chapter="" data-kind="intro"></span>
 
 
 [MISS [[characters/lavinia|LAVINIA]] POOLE] ON HER RECOVERY FROM A FEVER  
@@ -284,7 +284,7 @@ March 31, 1798.
 
 
 
-<span class="atom-split" data-atom="160_recantation" data-title="RECANTATION" data-chapter="" data-kind="intro" data-tags="topos/world_upside_down,motif/madness,motif/animals,concept/satire_of_society,concept/madness,concept/power_and_corruption,form/ballad,form/fable,form/satire,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="160_recantation" data-title="RECANTATION" data-chapter="" data-kind="intro"></span>
 
 
 ILLUSTRATED IN THE STORY OF THE MAD OX
@@ -426,7 +426,7 @@ As thus I sat, in careless chat,   115
 With the morning’s wet newspaper,
 In eager haste, without his hat,
 As blind and blund’ring as a bat,
-In came that fierce Aristocrat,
+In came that fierce [[aristocrat|Aristocrat]],
 Our pursy woollen-draper.   120
 XXI
 And so my Muse per force drew bit;
@@ -440,7 +440,7 @@ And Sheridan’s recanted!’
 
 
 
-<span class="atom-split" data-atom="179_the_devils_thoughts" data-title="THE DEVIL’S THOUGHTS" data-chapter="" data-kind="intro" data-tags="archetype/satanic_figure,concept/satire_of_society,concept/social_injustice,concept/the_grotesque,concept/power_and_corruption,concept/good_vs_evil,form/ballad,form/satire,histref/the_bible,character/satan,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="179_the_devils_thoughts" data-title="THE DEVIL’S THOUGHTS" data-chapter="" data-kind="intro"></span>
 
 
 From his brimstone bed at break of day  
@@ -468,7 +468,7 @@ Ride by on his vocations,
 And the Devil thought of his old Friend  
 [[motifs/death|Death]] in the Revelations.   20  
 VI  
-He saw a cottage with a [[topoi/double|double]] coach-house,  
+He saw a cottage with a [[topoi/double|double]] coach-[[house]],  
 A cottage of gentility;  
 And the Devil did grin, for his darling sin  
 Is [[concepts/pride|pride]] that apes [[concepts/humility|humility]].  
@@ -496,7 +496,7 @@ If a man be but used to his trade.’
 XI  
 He saw the same Turnkey unfetter a man,  
 With but little expedition,  
-Which put him in mind of the long debate  
+Which put him in mind of the long [[debate]]  
 On the Slave-trade abolition.   45  
 XII  
 He saw an old acquaintance  
@@ -511,7 +511,7 @@ And leered like a [[motifs/love|love]]-sick pigeon.
 XIV  
 He saw a certain minister  
 (A minister to his mind)    55  
-Go up into a certain House,  
+Go up into a certain [[house|House]],  
 With a majority behind.  
 XV  
 The Devil quoted Genesis  
@@ -534,10 +534,10 @@ It was general conflagration.   70
 
 
 
-<span class="atom-split" data-atom="206_letter_july_19_1802" data-title="LETTER, JULY 19, 1802." data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,concept/joy,concept/friendship,concept/self_and_soul,form/fragment,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="206_letter_july_19_1802" data-title="LETTER, JULY 19, 1802." data-chapter="" data-kind="intro"></span>
 
 
-And sing his lofty song and teach me to rejoice!  
+And sing his lofty [[Song|song]] and teach me to rejoice!  
 O [[characters/edmund|Edmund]], friend of my devoutest choice,  
 O rais’d from anxious dread and busy care,  
 By the immenseness of the good and fair  
@@ -557,13 +557,13 @@ of lines 75 foll.]
 
 
 
-<span class="atom-split" data-atom="215_answer_to_a_childs_question" data-title="ANSWER TO A CHILD’S QUESTION" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/spring,motif/seasons,concept/love_romantic,concept/joy,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="215_answer_to_a_childs_question" data-title="ANSWER TO A CHILD’S QUESTION" data-chapter="" data-kind="intro"></span>
 
 
 Do you ask what the [[motifs/birds|birds]] say? The Sparrow, the Dove,  
 The Linnet and Thrush say, ‘I [[motifs/love|love]] and I [[motifs/love|love]]!’  
 In the [[motifs/winter|winter]] they’re silent — the [[motifs/wind|wind]] is so strong;  
-What it says, I don’t know, but it sings a loud song.  
+What it says, I don’t know, but it sings a loud [[Song|song]].  
 But green [[motifs/leaves|leaves]], and blossoms, and sunny warm weather,   5  
 And singing, and loving — all come back together.  
 But the Lark is so brimful of gladness and [[motifs/love|love]],  
@@ -575,7 +575,7 @@ That he sings, and he sings; and for ever sings he —
 
 
 
-<span class="atom-split" data-atom="233_an_angel_visitant" data-title="AN ANGEL VISITANT" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/nature,concept/love_romantic,concept/joy,form/fragment,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="233_an_angel_visitant" data-title="AN ANGEL VISITANT" data-chapter="" data-kind="intro"></span>
 
 
 Within these circling hollies woodbine-clad —  
@@ -588,7 +588,7 @@ For here, my [[motifs/love|love]], thou art, and here am I!
 
 
 
-<span class="atom-split" data-atom="255_hunting_song" data-title="HUNTING SONG" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/nature,motif/animals,concept/the_common_man,form/song,setting/pastoral_countryside,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="255_hunting_song" data-title="HUNTING SONG" data-chapter="" data-kind="intro"></span>
 
 
 FROM ZAPOLYA  
@@ -600,7 +600,7 @@ Not a [[motifs/soul|soul]] at [[motifs/home|home]] may stay:   5
 For the shepherds must go  
 With lance and bow  
 To hunt the wolf in the woods to-day.  
-Leave the hearth and leave the house  
+Leave the hearth and leave the [[house]]  
 To the cricket and the mouse:   10  
 Find grannam out a sunny seat.  
 With babe and lambkin at her feet.  
@@ -613,7 +613,7 @@ To hunt the wolf in the woods to-day.
 
 
 
-<span class="atom-split" data-atom="267_the_delinquent_travellers" data-title="THE DELINQUENT TRAVELLERS" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_journey,motif/the_road,motif/money_gold,motif/the_sea,concept/satire_of_society,concept/critique_of_progress,form/satire,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="267_the_delinquent_travellers" data-title="THE DELINQUENT TRAVELLERS" data-chapter="" data-kind="intro"></span>
 
 
 Some are [[motifs/home|home]]-sick — some two or three,  
@@ -700,7 +700,7 @@ Beneath the cliffs of Dumpton Bay.
 Where, Ramsgate and Broadstairs between,  
 Rude caves and grated doors are seen:  
 And here I’ll watch till break of day,  
-(For Fancy in her magic might   85  
+(For Fancy in her [[Magic|magic]] might   85  
 Can turn broad [[motifs/noon|noon]] to starless [[motifs/night|night]]!)  
 When lo! methinks a sudden band  
 Of smock-clad smugglers round me stand.  
@@ -710,7 +710,7 @@ And stow me in the boat hard by.
 Suppose us fairly now afloat,  
 Till Boulogne mouth receives our Boat.  
 But, bless us! what a numerous band  
-Of cockneys anglicise the strand!   95  
+Of [[cockneys]] anglicise the strand!   95  
 Delinquent bankrupts, leg-bail’d debtors,  
 Some for the news, and some for letters —  
 With hungry look and tarnished dress,  
@@ -748,7 +748,7 @@ Are your Delinquent Travellers!
 
 
 
-<span class="atom-split" data-atom="364_to_t_poole_an_invitation" data-title="TO T. POOLE: AN INVITATION" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/friendship,concept/joy,concept/the_common_man,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="364_to_t_poole_an_invitation" data-title="TO T. POOLE: AN INVITATION" data-chapter="" data-kind="intro"></span>
 
 
 Plucking [[motifs/flowers|flowers]] from the Galaxy  
@@ -781,7 +781,7 @@ Friends, 1888, i. 211.
 
 
 
-<span class="atom-split" data-atom="365_song_to_be_sung_by_the_lovers_of_all_the_noble_liquors_comprised_under_the_name" data-title="SONG TO BE SUNG BY THE LOVERS OF ALL THE NOBLE LIQUORS COMPRISED UNDER THE NAME OF ALE" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/wine_and_drink,concept/joy,form/song,histref/greek_mythology,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="365_song_to_be_sung_by_the_lovers_of_all_the_noble_liquors_comprised_under_the_name" data-title="SONG TO BE SUNG BY THE LOVERS OF ALL THE NOBLE LIQUORS COMPRISED UNDER THE NAME OF ALE" data-chapter="" data-kind="intro"></span>
 
 
 A.  
@@ -795,7 +795,7 @@ But what if Nectar, in their lingo,
 Is but another name for Stingo?  
 B.  
 Why, then we and the Gods are equally blest,  
-And Olympus an Ale-house as good as the best!  
+And Olympus an Ale-[[house]] as good as the best!  
 First published in Morning Post, September 18, 1801. Included in  
 Essays, &c., iii. 995-6. First collected P. and D. W., 1877, ii.  
 167.  
@@ -803,12 +803,12 @@ Essays, &c., iii. 995-6. First collected P. and D. W., 1877, ii.
 
 
 
-<span class="atom-split" data-atom="366_drinking_versus_thinking" data-title="DRINKING VERSUS THINKING" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/wine_and_drink,concept/satire_of_society,concept/joy,form/song,histref/greek_mythology,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="366_drinking_versus_thinking" data-title="DRINKING VERSUS THINKING" data-chapter="" data-kind="intro"></span>
 
 
-OR, A SONG AGAINST THE NEW PHILOSOPHY  
+OR, A [[Song|SONG]] AGAINST THE NEW [[philosophy|PHILOSOPHY]]  
 My Merry men all, that drink with glee  
-This fanciful Philosophy,  
+This fanciful [[philosophy|Philosophy]],  
 Pray tell me what good is it?  
 If antient Nick should come and take,  
 The same across the Stygian Lake,  
@@ -823,7 +823,7 @@ My merry men all, here’s punch and wine,
 And spicy bishop, drink divine!  
 Let’s live while we are able.  
 While Mirth and Sense sit, hand in glove,  
-This Don Philosophy we’ll shove  
+This Don [[philosophy|Philosophy]] we’ll shove  
 Dead drunk beneath the table!  
 First published in Morning Post, September 25, 1801. Included in  
 Essays, &c., iii. 966-7. First collected P. and D. W., 1877, ii.  
@@ -832,7 +832,7 @@ Essays, &c., iii. 966-7. First collected P. and D. W., 1877, ii.
 
 
 
-<span class="atom-split" data-atom="438_schiller" data-title="SCHILLER" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,concept/joy,concept/immortality,form/ode,histref/greek_mythology,histref/classical_antiquity,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="438_schiller" data-title="SCHILLER" data-chapter="" data-kind="intro"></span>
 
 
 DITHYRAMBE  
@@ -873,7 +873,7 @@ F
 
 
 
-<span class="atom-split" data-atom="440_susette" data-title="SUSETTE" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/river,motif/water,concept/love_romantic,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="440_susette" data-title="SUSETTE" data-chapter="" data-kind="intro"></span>
 
 
 assise dans la barque.  

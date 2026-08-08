@@ -70,12 +70,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/tyrant|Tyrant]], [[archetypes/innocent|Innocent]]
+**Archetypes:** Corrupt Official, Tyrant, Innocent
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/death|Death]], [[motifs/city|City]]
 **Themes & Concepts:** [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/mercy|Mercy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/guilt|Guilt]], [[concepts/mortality|Mortality]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/temptation|Temptation]], [[concepts/conscience|Conscience]]
 **Forms & Genres:** [[forms/problem-play|Problem Play]], [[forms/tragicomedy|Tragicomedy]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]]
-**Characters:** [[characters/vincentio-the-duke|Vincentio the Duke]], [[characters/angelo|Angelo]], [[characters/isabella|Isabella]], [[characters/claudio|Claudio]], [[characters/lucio|Lucio]], [[characters/mariana|Mariana]], [[characters/escalus|Escalus]], [[characters/pompey|Pompey]]
+**Characters:** Vincentio the Duke, Angelo, Isabella, Claudio, Lucio, Mariana, Escalus, Pompey
 
 ## Testo integrale / Full text
 

@@ -23,10 +23,10 @@ A San [[characters/michael|Michele]] in [[motifs/time|Tempo]] di Pace
 
 [[characters/michael|Michele]], [[characters/michael|Michele]]: [[characters/michael|Michele]] del Mattino,  
 [[characters/michael|Michele]] dell'Esercito del Signore,  
-Irrigidisci tu la mano sulla spada immota, [[characters/michael|Michele]],  
-Piegata e serrata sulla spada rinfoderata, [[characters/michael|Michele]],  
+Irrigidisci tu la mano sulla [[Sword|spada]] immota, [[characters/michael|Michele]],  
+Piegata e serrata sulla [[Sword|spada]] rinfoderata, [[characters/michael|Michele]],  
 Sotto la pienezza delle bianche vesti cadenti,  
-Cingici col segreto della spada.  
+Cingici col segreto della [[Sword|spada]].  
 
 Quando il mondo si incrinò per un ghigno nel cielo,  
 lasciando per tutto il [[motifs/time|tempo]] una cicatrice sul firmamento,  
@@ -40,7 +40,7 @@ sai in quale [[motifs/silence|silenzio]] il Serpente possa tornare.
 Giù per l'universo la vasta [[motifs/night|notte]] che cala  
 ([[characters/michael|Michele]], [[characters/michael|Michele]]: [[characters/michael|Michele]] del Mattino!)  
 Lontano giù per l'universo le calme profonde che chiamano  
-([[characters/michael|Michele]], [[characters/michael|Michele]]: [[characters/michael|Michele]] della Spada!)  
+([[characters/michael|Michele]], [[characters/michael|Michele]]: [[characters/michael|Michele]] della [[Sword|Spada]]!)  
 Non lasciarci dimenticare nei lavacri d'ogni oblio,  
 nel sospiro lungamente tratto dalla frenesia e dall'inquietudine  
 nell'immenso santo sempiterno [[motifs/silence|silenzio]]  
@@ -68,7 +68,7 @@ Colui che ci dà la pace; non come la dà il mondo:
 Colui che ci dà la legge; non come gli scribi:  
 Sarà egli ammansito per l'ammollimento delle città  
 paziente nell'usura; delicato nelle tangenti?  
-Coloro che vengono a placarci, dicendo che la spada è spezzata,  
+Coloro che vengono a placarci, dicendo che la [[Sword|spada]] è spezzata,  
 spezzano l'uomo con la carestia, li incatenano con l'oro,  
 li vendono come pecore; ed Egli conoscerà quel vendere  
 poiché fu più che ucciso. Fu venduto.  
@@ -91,10 +91,10 @@ To St. [[characters/michael|Michael]] in [[motifs/time|Time]] of Peace
 
 [[characters/michael|Michael]], [[characters/michael|Michael]]: [[characters/michael|Michael]] of the Morning,  
 [[characters/michael|Michael]] of the Army of the Lord,  
-Stiffen thou the hand upon the still sword, [[characters/michael|Michael]],  
-Folded and shut upon the sheathed sword, [[characters/michael|Michael]],  
+Stiffen thou the hand upon the still [[Sword|sword]], [[characters/michael|Michael]],  
+Folded and shut upon the sheathed [[Sword|sword]], [[characters/michael|Michael]],  
 Under the fullness of the white robes falling,  
-Gird us with the secret of the sword.  
+Gird us with the secret of the [[Sword|sword]].  
 
 When the world cracked because of a sneer in heaven,  
 Leaving out for all [[motifs/time|time]] a scar upon the sky,  
@@ -136,7 +136,7 @@ He that giveth peace unto us; not as the world giveth:
 He that giveth law unto us; not as the scribes:  
 Shall he be softened for the softening of the cities  
 Patient in usury; delicate in bribes?  
-They that come to quiet us, saying the sword is broken,  
+They that come to quiet us, saying the [[Sword|sword]] is broken,  
 Break man with famine, fetter them with gold,  
 Sell them as sheep; and He shall know the selling  
 For He was more than murdered. He was sold.  
@@ -157,10 +157,10 @@ A San [[characters/michael|Michele]] in [[motifs/time|Tempo]] di Pace
 
 [[characters/michael|Michele]], [[characters/michael|Michele]]: [[characters/michael|Michele]] del Mattino,  
 [[characters/michael|Michele]] dell'Esercito del Signore,  
-Irrigidisci tu la mano sulla spada immota, [[characters/michael|Michele]],  
-Piegata e serrata sulla spada rinfoderata, [[characters/michael|Michele]],  
+Irrigidisci tu la mano sulla [[Sword|spada]] immota, [[characters/michael|Michele]],  
+Piegata e serrata sulla [[Sword|spada]] rinfoderata, [[characters/michael|Michele]],  
 Sotto la pienezza delle bianche vesti cadenti,  
-Cingici col segreto della spada.  
+Cingici col segreto della [[Sword|spada]].  
 
 Quando il mondo si incrinò per un ghigno nel cielo,  
 lasciando per tutto il [[motifs/time|tempo]] una cicatrice sul firmamento,  
@@ -174,7 +174,7 @@ sai in quale [[motifs/silence|silenzio]] il Serpente possa tornare.
 Giù per l'universo la vasta [[motifs/night|notte]] che cala  
 ([[characters/michael|Michele]], [[characters/michael|Michele]]: [[characters/michael|Michele]] del Mattino!)  
 Lontano giù per l'universo le calme profonde che chiamano  
-([[characters/michael|Michele]], [[characters/michael|Michele]]: [[characters/michael|Michele]] della Spada!)  
+([[characters/michael|Michele]], [[characters/michael|Michele]]: [[characters/michael|Michele]] della [[Sword|Spada]]!)  
 Non lasciarci dimenticare nei lavacri d'ogni oblio,  
 nel sospiro lungamente tratto dalla frenesia e dall'inquietudine  
 nell'immenso santo sempiterno [[motifs/silence|silenzio]]  
@@ -202,7 +202,7 @@ Colui che ci dà la pace; non come la dà il mondo:
 Colui che ci dà la legge; non come gli scribi:  
 Sarà egli ammansito per l'ammollimento delle città  
 paziente nell'usura; delicato nelle tangenti?  
-Coloro che vengono a placarci, dicendo che la spada è spezzata,  
+Coloro che vengono a placarci, dicendo che la [[Sword|spada]] è spezzata,  
 spezzano l'uomo con la carestia, li incatenano con l'oro,  
 li vendono come pecore; ed Egli conoscerà quel vendere  
 poiché fu più che ucciso. Fu venduto.  

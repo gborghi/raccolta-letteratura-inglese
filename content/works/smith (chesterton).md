@@ -38,11 +38,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
+**Archetypes:** Martyr Saint
 
 **Settings:** [[settings/russia|Russia]], [[settings/mountains|Mountains]], [[settings/europe|Europe]]
 
-**Characters:** [[characters/f.-e.-smith|F. E. Smith]]
+**Characters:** F. E. Smith
 
 **Motifs:** [[motifs/cross|Cross]], [[motifs/flags-and-banners|Flags and Banners]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/martyrdom|Martyrdom]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/history|History]]

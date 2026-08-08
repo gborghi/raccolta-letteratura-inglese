@@ -36,11 +36,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/ghost|Ghost]]
+**Archetypes:** Ghost
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/memory|Memory]]
 **Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/mortality|Mortality]], [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]]
-**Characters:** [[characters/lord-claverton|Lord Claverton]], [[characters/monica-claverton-ferry|Monica Claverton-Ferry]], [[characters/federico-gomez|Federico Gomez]]
+**Characters:** Lord Claverton, Monica Claverton-Ferry, Federico Gomez
 
 ## Testo integrale / Full text
 

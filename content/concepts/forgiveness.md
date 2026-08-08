@@ -17,7 +17,7 @@ tags:
 - [[works/rolling-(chesterton)|rolling (Chesterton)]]
 - [[works/secret-fr-brown-(chesterton)|secret Fr Brown (Chesterton)]]
 - [[works/upon-this-rock-(chesterton)|upon-this-rock (Chesterton)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#299_forbearance|FORBEARANCE (Coleridge)]]
+- [[works/forbearance-(coleridge)|FORBEARANCE (Coleridge)]]
 
 </div>
 

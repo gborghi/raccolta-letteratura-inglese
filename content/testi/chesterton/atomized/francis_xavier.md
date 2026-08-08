@@ -50,7 +50,7 @@ Del miracolo, s'è avvinta attorno al suo nome:
 Così ha detto Roma: ma noi, che cosa rispondiamo  
 Noi che in truci dèi indiani e riti d'infamia  
 Per tutto l'Oriente vediamo il fallimento del maestro,  
-La sua Chiesa d'Oriente un sogno, la sua fatica una [[concepts/vanity|vanità]].  
+La sua Chiesa d'Oriente [[A Dream|un sogno]], la sua fatica una [[concepts/vanity|vanità]].  
 
 Questo dunque diciamo: mentre il volto oscuro del [[motifs/time|Tempo]] da ultimo  
 Muove le sue labbra di tuono a decretare  
@@ -120,7 +120,7 @@ Of miracle, has clung about his name:
 So Rome has said: but we, what answer we  
 Who in grim Indian gods and rites of shame  
 O'er all the East the teacher's failure see,  
-His Eastern Church a dream, his toil a [[concepts/vanity|vanity]].  
+His Eastern Church [[A Dream|a dream]], his toil a [[concepts/vanity|vanity]].  
 
 This then we say: as [[motifs/time|Time]]'s dark face at last  
 Moveth its lips of thunder to decree  
@@ -188,7 +188,7 @@ Del miracolo, s'è avvinta attorno al suo nome:
 Così ha detto Roma: ma noi, che cosa rispondiamo  
 Noi che in truci dèi indiani e riti d'infamia  
 Per tutto l'Oriente vediamo il fallimento del maestro,  
-La sua Chiesa d'Oriente un sogno, la sua fatica una [[concepts/vanity|vanità]].  
+La sua Chiesa d'Oriente [[A Dream|un sogno]], la sua fatica una [[concepts/vanity|vanità]].  
 
 Questo dunque diciamo: mentre il volto oscuro del [[motifs/time|Tempo]] da ultimo  
 Muove le sue labbra di tuono a decretare  

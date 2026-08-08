@@ -2,13 +2,13 @@
 title: "The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion"
 author: "Whitman"
 unitType: work
-parentWork: "works/the-wound-dresser-a-series-of-letters-written-from-the-hospitals-in-washington-during-the-war-of-the-rebellion"
+parentWork: "works/the-wound-dresser-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
-<div class="atom-reader" data-work="testi/whitman/atomized/the_wound_dresser" data-author="Whitman" data-workhref="works/the-wound-dresser-a-series-of-letters-written-from-the-hospitals-in-washington-during-the-war-of-the-rebellion"></div>
+<div class="atom-reader" data-work="testi/whitman/atomized/the_wound_dresser" data-author="Whitman" data-workhref="works/the-wound-dresser-(whitman)"></div>
 
 
 <span class="atom-split" data-atom="the_wound_dresser" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion" data-chapter="" data-kind="intro"></span>

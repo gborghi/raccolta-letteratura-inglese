@@ -49,7 +49,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]], [[archetypes/avenger|Avenger]]
+**Archetypes:** Tyrant, Fool, Trickster, Avenger
 **Motifs:** [[motifs/fire|Fire]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/animals|Animals]], [[motifs/madness-(2)|Madness (2)]]
 **Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/alienation|Alienation]], [[concepts/grotesque|Grotesque]]
 **Forms & Genres:** [[forms/short-story|Short Story]]

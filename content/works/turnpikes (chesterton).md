@@ -53,7 +53,7 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[characters/pitt|Pitt]], [[characters/dundas|Dundas]]
+**Characters:** Pitt, Dundas
 
 **Motifs:** [[motifs/road|Road]], [[motifs/machine|Machine]]
 **Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/reform|Reform]], [[concepts/social-injustice|Social Injustice]], [[concepts/economics|Economics]], [[concepts/history|History]]

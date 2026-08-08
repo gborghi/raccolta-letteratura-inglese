@@ -85,11 +85,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/king|King]], [[archetypes/hero|Hero]]
+**Archetypes:** King, Hero
 
 **Settings:** [[settings/cathedral|Cathedral]], [[settings/spain|Spain]], [[settings/toledo|Toledo]], [[settings/the-escorial|The Escorial]], [[settings/camelot|Camelot]], [[settings/europe|Europe]]
 
-**Characters:** [[characters/king-arthur|King Arthur]], [[historical-references/napoleon|Napoleon]], [[characters/robert-bruce|Robert Bruce]], [[characters/general-wolfe|General Wolfe]], [[characters/cyrano-de-bergerac|Cyrano de Bergerac]], [[characters/chantecler|Chantecler]], [[characters/st-george|St George]], [[characters/tom-jones|Tom Jones]], [[characters/philip-the-second|Philip the Second]], [[characters/george-iv|George IV]], [[characters/edward-vii|Edward VII]], [[characters/george-v|George V]]
+**Characters:** King Arthur, [[historical-references/napoleon|Napoleon]], Robert Bruce, General Wolfe, Cyrano de Bergerac, Chantecler, St George, Tom Jones, Philip the Second, George IV, Edward VII, George V
 
 **Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 **Motifs:** [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/memory|Memory]], [[motifs/lion|Lion]]

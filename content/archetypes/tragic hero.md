@@ -21,7 +21,7 @@ tags:
 - [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0678_wolfe_demanded_during_dying|678. Wolfe demanded during dying (Dickinson)]]
 - [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0700_youve_seen_balloons_set_havent_you|700. You've seen Balloons set — Haven't You (Dickinson)]]
 - [[works/hyperion-(keats)|Hyperion (Keats)]]
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#144_king_stephen|King Stephen (Keats)]]
+- [[works/king-stephen-(keats)|King Stephen (Keats)]]
 - [[works/otho-the-great-(keats)|Otho the Great (Keats)]]
 - [[works/scenes-from-politian-(poe)|Scenes From Politian (Poe)]]
 - [[works/tamerlane-(poe)|Tamerlane (Poe)]]

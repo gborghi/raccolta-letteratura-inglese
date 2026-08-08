@@ -8,7 +8,7 @@ tags:
 *Cluster* — **3 works**.
 
 ## Defining concepts
-[[characters/gabriel-syme|Gabriel Syme]] (1), [[characters/lucian-gregory|Lucian Gregory]] (1), [[characters/sunday|Sunday]] (1), [[characters/paul-dombey|Paul Dombey]] (1), [[characters/florence-dombey|Florence Dombey]] (1), [[characters/walter-gay|Walter Gay]] (1), [[characters/edith-granger|Edith Granger]] (1), [[characters/james-carker|James Carker]] (1), [[characters/solomon-gills|Solomon Gills]] (1), [[characters/captain-cuttle|Captain Cuttle]] (1), [[characters/susan-nipper|Susan Nipper]] (1), [[characters/major-bagstock|Major Bagstock]] (1), [[characters/c.-auguste-dupin|C. Auguste Dupin]] (1)
+Gabriel Syme (1), Lucian Gregory (1), Sunday (1), Paul Dombey (1), Florence Dombey (1), Walter Gay (1), Edith Granger (1), James Carker (1), Solomon Gills (1), Captain Cuttle (1), Susan Nipper (1), Major Bagstock (1), C. Auguste Dupin (1)
 
 ## Works
 

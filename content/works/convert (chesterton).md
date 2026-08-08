@@ -36,7 +36,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Archetypes:** Pilgrim
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/sleeper-awakes|Sleeper Awakes]]
 
@@ -44,7 +44,7 @@ tags:
 **Themes & Concepts:** [[concepts/conversion|Conversion]], [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/resurrection|Resurrection]], [[concepts/paradox|Paradox]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 **Historical References:** [[historical-references/bible|Bible]]
-**Characters:** [[characters/lazarus-the-risen-man|Lazarus the Risen Man]]
+**Characters:** Lazarus the Risen Man
 
 ## Testo integrale / Full text
 

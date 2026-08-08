@@ -13,7 +13,8 @@ tags:
 
 <span class="atom-split" data-atom="025_starting_from_paumanok" data-title="Starting from Paumanok" data-chapter="" data-kind="intro"></span>
 
-# Starting from Paumanok
+
+
 
 
 
@@ -65,7 +66,7 @@ The present and future continents north and south, with the isthmus
 between.  
 
 See, vast trackless spaces,  
-As in a dream they change, they swiftly fill,  
+As in [[A Dream|a dream]] they change, they swiftly fill,  
 Countless masses debouch upon them,  
 They are now cover’d with the foremost people, arts, institutions, known.  
 
@@ -153,20 +154,20 @@ Yes here comes my mistress the [[motifs/soul|soul]].
 The [[motifs/soul|soul]],  
 Forever and forever--longer than soil is brown and solid--longer  
 than [[motifs/water|water]] ebbs and flows.  
-I will make the poems of materials, for I think they are to be the  
-most spiritual poems,  
-And I will make the poems of my [[concepts/body|body]] and of [[concepts/mortality|mortality]],  
-For I think I shall then supply myself with the poems of my [[motifs/soul|soul]] and  
+I will make the [[Poems|poems]] of materials, for I think they are to be the  
+most spiritual [[Poems|poems]],  
+And I will make the [[Poems|poems]] of my [[concepts/body|body]] and of [[concepts/mortality|mortality]],  
+For I think I shall then supply myself with the [[Poems|poems]] of my [[motifs/soul|soul]] and  
 of [[concepts/immortality|immortality]].  
 
-I will make a song for these States that no one State may under any  
+I will make a [[Song|song]] for these States that no one State may under any  
 circumstances be subjected to another State,  
-And I will make a song that there shall be comity by day and by  
+And I will make a [[Song|song]] that there shall be comity by day and by  
 [[motifs/night|night]] between all the States, and between any two of them,  
-And I will make a song for the ears of the President, full of  
+And I will make a [[Song|song]] for the ears of the President, full of  
 weapons with menacing points,  
 And behind the weapons countless dissatisfied faces;  
-And a song make I of the One form’d out of all,  
+And a [[Song|song]] make I of the One form’d out of all,  
 The fang’d and glittering One whose head is over all,  
 Resolute warlike One including and over all,  
 (However high the head of any else that head is over all.)  
@@ -174,12 +175,12 @@ Resolute warlike One including and over all,
 I will acknowledge contemporary lands,  
 I will trail the whole geography of the globe and salute courteously  
 every [[motifs/city|city]] large and small,  
-And employments! I will put in my poems that with you is [[concepts/heroism|heroism]]  
+And employments! I will put in my [[Poems|poems]] that with you is [[concepts/heroism|heroism]]  
 upon land and sea,  
 And I will report all [[concepts/heroism|heroism]] from an American point of view.  
 
-I will sing the song of companionship,  
-I will show what alone must finally compact these,  
+I will sing the [[Song|song]] of companionship,  
+I will show what [[Alone|alone]] must finally compact these,  
 I believe these are to found their own ideal of manly [[motifs/love|love]],  
 indicating it in me,  
 I will therefore let flame from me the burning fires that were  
@@ -334,8 +335,8 @@ For those who belong here and those to come,
 I exultant to be ready for them will now shake out carols stronger  
 and haughtier than have ever yet been heard upon earth.  
 
-I will make the songs of passion to give them their way,  
-And your songs outlaw’d offenders, for I scan you with kindred eyes,  
+I will make the [[songs]] of passion to give them their way,  
+And your [[songs]] outlaw’d offenders, for I scan you with kindred eyes,  
 and carry you with me the same as any.  
 
 I will make the true poem of riches,  
@@ -352,13 +353,13 @@ can be none in the future,
 And I will show that whatever happens to anybody it may be turn’d to  
 beautiful results,  
 And I will show that nothing can happen more beautiful than [[motifs/death|death]],  
-And I will thread a thread through my poems that [[motifs/time|time]] and events are  
+And I will thread a thread through my [[Poems|poems]] that [[motifs/time|time]] and events are  
 compact,  
 And that all the things of the universe are perfect miracles, each  
 as profound as any.  
 
-I will not make poems with reference to parts,  
-But I will make poems, songs, thoughts, with reference to ensemble,  
+I will not make [[Poems|poems]] with reference to parts,  
+But I will make [[Poems|poems]], [[songs]], thoughts, with reference to ensemble,  
 And I will not sing with reference to a day, but with reference to  
 all days,  
 And I will not make a poem nor the least part of a poem but has  
@@ -415,9 +416,9 @@ Interlink’d, food-yielding lands!
 Land of coal and iron! land of gold! land of cotton, sugar, rice!  
 Land of wheat, beef, pork! land of wool and hemp! land of the apple  
 and the grape!  
-Land of the pastoral plains, the grass-fields of the world! land of  
+Land of the [[Pastoral|pastoral]] plains, the grass-fields of the world! land of  
 those sweet-air’d interminable plateaus!  
-Land of the herd, the [[motifs/garden|garden]], the healthy house of adobie!  
+Land of the herd, the [[motifs/garden|garden]], the healthy [[house]] of adobie!  
 Lands where the north-west Columbia winds, and where the south-west  
 Colorado winds!  
 Land of the eastern Chesapeake! land of the Delaware!  
@@ -447,7 +448,7 @@ Listening to orators and oratresses in public halls,
 Of and through the States as during life, each man and woman my neighbor,  
 The Louisianian, the Georgian, as near to me, and I as near to him and her,  
 The Mississippian and Arkansian yet with me, and I yet with any of them,  
-Yet upon the plains west of the spinal [[motifs/river|river]], yet in my house of adobie,  
+Yet upon the plains west of the spinal [[motifs/river|river]], yet in my [[house]] of adobie,  
 Yet returning eastward, yet in the Seaside State or in Maryland,  
 Yet Kanadian cheerily braving the [[motifs/winter|winter]], the [[motifs/snow|snow]] and ice welcome to me,  
 Yet a true son either of Maine or of the Granite State, or the  
@@ -524,15 +525,15 @@ fathomless, stirring, preparing unprecedented waves and storms.
 
 
 18  
-See, steamers steaming through my poems,  
-See, in my poems immigrants continually coming and landing,  
+See, steamers steaming through my [[Poems|poems]],  
+See, in my [[Poems|poems]] immigrants continually coming and landing,  
 See, in arriere, the wigwam, the trail, the hunter’s hut, the flat-boat,  
 the maize-leaf, the claim, the rude fence, and the backwoods village,  
 See, on the one side the Western Sea and on the other the Eastern Sea,  
-how they advance and retreat upon my poems as upon their own shores,  
-See, pastures and forests in my poems--see, [[motifs/animals|animals]] wild and tame--see,  
+how they advance and retreat upon my [[Poems|poems]] as upon their own shores,  
+See, pastures and forests in my [[Poems|poems]]--see, [[motifs/animals|animals]] wild and tame--see,  
 beyond the Kaw, countless herds of buffalo feeding on short curly grass,  
-See, in my poems, cities, solid, vast, inland, with paved streets,  
+See, in my [[Poems|poems]], cities, solid, vast, inland, with paved streets,  
 with iron and stone edifices, ceaseless vehicles, and commerce,  
 See, the many-cylinder’d steam printing-press--see, the electric  
 telegraph stretching across the continent,  
@@ -547,7 +548,7 @@ superior judges, philosophs, Presidents, emerge, drest in
 working dresses,  
 See, lounging through the shops and fields of the States, me  
 [[motifs/well|well]]-belov’d, close-held by day and [[motifs/night|night]],  
-Hear the loud echoes of my songs there--read the hints come at last.  
+Hear the loud echoes of my [[songs]] there--read the hints come at last.  
 
 
 

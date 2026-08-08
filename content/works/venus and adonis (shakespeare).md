@@ -40,12 +40,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/combat-strife|Combat Strife]], [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/carpe-diem|Carpe Diem]]
-**Archetypes:** [[archetypes/temptress|Temptress]]
+**Archetypes:** Temptress
 **Motifs:** [[motifs/desire|Desire]], [[motifs/flowers|Flowers]], [[motifs/horse|Horse]], [[motifs/animals|Animals]]
 **Themes & Concepts:** [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/beauty|Beauty]], [[concepts/mortality|Mortality]], [[concepts/transience|Transience]], [[concepts/grief-and-loss|Grief and Loss]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/classical-antiquity|Classical Antiquity]]
-**Characters:** [[characters/venus|Venus]], [[characters/adonis|Adonis]]
+**Characters:** Venus, Adonis
 
 ## Testo integrale / Full text
 

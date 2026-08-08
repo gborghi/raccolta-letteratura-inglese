@@ -58,7 +58,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/quest|Quest]]
-**Archetypes:** [[archetypes/trickster|Trickster]]
+**Archetypes:** Trickster
 **Motifs:** [[motifs/journey|Journey]], [[motifs/moon|Moon]]
 **Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/satire-of-society|Satire of Society]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]

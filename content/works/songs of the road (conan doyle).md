@@ -36,5 +36,5 @@ tags:
 **Motifs:** [[motifs/journey|Journey]], [[motifs/horse|Horse]], [[motifs/flags-and-banners|Flags and Banners]]
 **Historical References:** [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/london|London]], [[settings/africa|Africa]]
-**Archetypes:** [[archetypes/hero|Hero]]
+**Archetypes:** Hero
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]]

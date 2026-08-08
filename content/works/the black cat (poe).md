@@ -47,7 +47,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]]
-**Archetypes:** [[archetypes/antihero|Antihero]], [[archetypes/monster|Monster]]
+**Archetypes:** Antihero, Monster
 **Motifs:** [[motifs/animals|Animals]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/madness-(2)|Madness (2)]], [[motifs/blood|Blood]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/fire|Fire]]
 **Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/madness|Madness]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grotesque|Grotesque]]
 **Forms & Genres:** [[forms/short-story|Short Story]]

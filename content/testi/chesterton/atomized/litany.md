@@ -25,13 +25,13 @@ Antico dei Giorni, fattosi piccolo per la vostra gioia
 scrutò attraverso di voi, porta del cielo--e vide la terra.  
 
 O escludendo per un poco i suoi cieli splendenti  
-vi edificò attorno a sé come una casa d'oro  
+vi edificò attorno a sé come una [[house|casa]] d'oro  
 per vedere in pareti dipinte il suo mondo istoriato  
 tornare su di lui come si narra una fiaba.  
 
 O vi trovò il suo [[motifs/mirror|specchio]]; l'unico cristallo  
 che non si sarebbe infranto a quella luce insostenibile  
-finché in un angolo dell'alta casa oscura  
+finché in un angolo dell'alta [[house|casa]] oscura  
 Dio guardò Dio, come [[motifs/ghosts|spettri]] s'incontrano nella [[motifs/night|notte]].  
 
 Stella del suo mattino; quella stella non caduta  
@@ -64,13 +64,13 @@ Ancient of Days, grown little for your mirth
 Peered through you, gate of heaven--and saw the earth.  
 
 Or shutting out his shining skies awhile  
-Built you about him for a house of gold  
+Built you about him for a [[house]] of gold  
 To see in pictured walls his storied world  
 Return upon him as a tale is told.  
 
 Or found his [[motifs/mirror|mirror]] there; the only glass  
 That would not break with that unbearable light  
-Till in a corner of the high dark house  
+Till in a corner of the high dark [[house]]  
 God looked on God, as [[motifs/ghosts|ghosts]] meet in the [[motifs/night|night]].  
 
 Star of his morning; that unfallen star  
@@ -101,13 +101,13 @@ Antico dei Giorni, fattosi piccolo per la vostra gioia
 scrutò attraverso di voi, porta del cielo--e vide la terra.  
 
 O escludendo per un poco i suoi cieli splendenti  
-vi edificò attorno a sé come una casa d'oro  
+vi edificò attorno a sé come una [[house|casa]] d'oro  
 per vedere in pareti dipinte il suo mondo istoriato  
 tornare su di lui come si narra una fiaba.  
 
 O vi trovò il suo [[motifs/mirror|specchio]]; l'unico cristallo  
 che non si sarebbe infranto a quella luce insostenibile  
-finché in un angolo dell'alta casa oscura  
+finché in un angolo dell'alta [[house|casa]] oscura  
 Dio guardò Dio, come [[motifs/ghosts|spettri]] s'incontrano nella [[motifs/night|notte]].  
 
 Stella del suo mattino; quella stella non caduta  

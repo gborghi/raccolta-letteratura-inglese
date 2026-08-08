@@ -71,13 +71,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/combat-strife|Combat Strife]]
-**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/innocent|Innocent]]
+**Archetypes:** Lover, Innocent
 **Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/horse|Horse]], [[motifs/flowers|Flowers]]
 **Themes & Concepts:** [[concepts/friendship|Friendship]], [[concepts/romantic-love|Romantic Love]], [[concepts/honour|Honour]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/paradox|Paradox]]
 **Forms & Genres:** [[forms/tragicomedy|Tragicomedy]], [[forms/romance-play|Romance Play]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/ancient-greece|Ancient Greece]]
 **Settings:** [[settings/ancient-greece-(2)|Ancient Greece (2)]]
-**Characters:** [[characters/palamon|Palamon]], [[characters/arcite|Arcite]], [[characters/emilia|Emilia]], [[characters/theseus|Theseus]], [[characters/hippolyta|Hippolyta]], [[characters/jailers-daughter|Jailers Daughter]]
+**Characters:** Palamon, Arcite, Emilia, Theseus, Hippolyta, Jailers Daughter
 
 ## Testo integrale / Full text
 

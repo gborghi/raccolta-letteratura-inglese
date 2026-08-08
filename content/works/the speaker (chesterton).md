@@ -93,7 +93,7 @@ tags:
 
 **Topoi:** [[topoi/vanitas|Vanitas]], [[topoi/memento-mori|Memento Mori]], [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[characters/christ|Christ]], [[characters/judas-iscariot|Judas Iscariot]], [[characters/job|Job]]
+**Characters:** Christ, Judas Iscariot, Job
 
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/ghosts|Ghosts]]
 **Themes & Concepts:** [[concepts/friendship|Friendship]], [[concepts/artist-and-society|Artist and Society]], [[concepts/joy|Joy]], [[concepts/faith|Faith]], [[concepts/melancholy|Melancholy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/mortality|Mortality]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/education|Education]], [[concepts/suffering-and-pain|Suffering and Pain]], [[concepts/wonder|Wonder]], [[concepts/paradox|Paradox]], [[concepts/the-woman-question|The Woman Question]], [[concepts/history|History]]

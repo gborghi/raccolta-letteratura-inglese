@@ -50,6 +50,6 @@ tags:
 **Motifs:** [[motifs/chains|Chains]], [[motifs/machine|Machine]], [[motifs/money-and-gold|Money and Gold]]
 **Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/reformation|Reformation]], [[historical-references/catholic-church|Catholic Church]]
 **Settings:** [[settings/england|England]], [[settings/industrial-city|Industrial City]]
-**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
+**Archetypes:** Common Man (2)
 
 **Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

@@ -30,7 +30,7 @@ tags:
 **Themes & Concepts:** [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/grail-legend|Grail Legend]], [[historical-references/dante|Dante]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]
-**Characters:** [[characters/tiresias|Tiresias]]
+**Characters:** Tiresias
 
 ## Testo integrale / Full text
 

@@ -101,5 +101,5 @@ tags:
 **Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/hypocrisy|Hypocrisy]], [[concepts/democracy|Democracy]], [[concepts/capitalism|Capitalism]], [[concepts/satire-of-society|Satire of Society]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/machine|Machine]]
 **Settings:** [[settings/london|London]]
-**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]
+**Archetypes:** Corrupt Official
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]

@@ -1,0 +1,81 @@
+---
+title: Unnamed Land
+author: Whitman
+type: work
+cluster: Self-Knowledge · Immortality · Self-Reliance
+source: Authors/Whitman/_raw/198_Unnamed_Land.md
+tags:
+  - graph/work
+  - author/Whitman
+  - topos/ubi_sunt
+  - concept/mortality
+  - concept/immortality
+  - concept/memory
+  - concept/self_and_soul
+  - topos/eternal_return
+---
+
+*by Whitman*  ·  **Cluster:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]
+
+> [!abstract] 
+> On the countless vanished nations and unrecorded dead who nonetheless still exist; ubi sunt, mortality, immortality of the soul, and memory.
+
+
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">47.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">16.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19.4</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">9%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">39.4</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+## Connections
+
+**Topoi:** [[topoi/ubi-sunt|Ubi Sunt]], [[topoi/eternal-return|Eternal Return]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/immortality|Immortality]], [[concepts/memory-(2)|Memory (2)]], [[concepts/self-knowledge|Self-Knowledge]]
+
+## Testo integrale / Full text
+
+_Cluster: AUTUMN RIVULETS_
+
+
+  Nations ten thousand years before these States, and many times ten
+      thousand years before these States,
+  Garner’d clusters of ages that men and women like us grew up and
+      travel’d their course and pass’d on,
+  What vast-built cities, what orderly republics, what pastoral tribes
+      and nomads,
+  What histories, rulers, heroes, perhaps transcending all others,
+  What laws, customs, wealth, arts, traditions,
+  What sort of marriage, what costumes, what physiology and phrenology,
+  What of liberty and slavery among them, what they thought of death
+      and the soul,
+  Who were witty and wise, who beautiful and poetic, who brutish and
+      undevelop’d,
+  Not a mark, not a record remains--and yet all remains.
+
+  O I know that those men and women were not for nothing, any more
+      than we are for nothing,
+  I know that they belong to the scheme of the world every bit as much
+      as we now belong to it.
+
+  Afar they stand, yet near to me they stand,
+  Some with oval countenances learn’d and calm,
+  Some naked and savage, some like huge collections of insects,
+  Some in tents, herdsmen, patriarchs, tribes, horsemen,
+  Some prowling through woods, some living peaceably on farms,
+      laboring, reaping, filling barns,
+  Some traversing paved avenues, amid temples, palaces, factories,
+      libraries, shows, courts, theatres, wonderful monuments.
+  Are those billions of men really gone?
+  Are those women of the old experience of the earth gone?
+  Do their lives, cities, arts, rest only with us?
+  Did they achieve nothing for good for themselves?
+
+  I believe of all those men and women that fill’d the unnamed lands,
+      every one exists this hour here or elsewhere, invisible to us.
+  In exact proportion to what he or she grew from in life, and out of
+      what he or she did, felt, became, loved, sinn’d, in life.
+
+  I believe that was not the end of those nations or any person of
+      them, any more than this shall be the end of my nation, or of me;
+  Of their languages, governments, marriage, literature, products,
+      games, wars, manners, crimes, prisons, slaves, heroes, poets,
+  I suspect their results curiously await in the yet unseen world,
+      counterparts of what accrued to them in the seen world,
+  I suspect I shall meet them there,
+  I suspect I shall there find each old particular of those unnamed lands.

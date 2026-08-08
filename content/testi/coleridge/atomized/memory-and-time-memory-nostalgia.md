@@ -11,13 +11,13 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/memory-and-time-memory-nostalgia" data-author="Coleridge" data-workhref="works/memory-and-time-·-memory-·-nostalgia-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="031_absence_a_farewell_ode_on_quitting_school_for_jesus_college_cambridge" data-title="ABSENCE: A FAREWELL ODE ON QUITTING SCHOOL FOR JESUS COLLEGE, CAMBRIDGE" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,motif/moon,motif/river,concept/nostalgia,concept/memory_and_time,concept/education,form/ode,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="031_absence_a_farewell_ode_on_quitting_school_for_jesus_college_cambridge" data-title="ABSENCE: A FAREWELL ODE ON QUITTING SCHOOL FOR JESUS COLLEGE, CAMBRIDGE" data-chapter="" data-kind="intro"></span>
 
 
 Where graced with many a classic spoil  
 CAM rolls his reverend stream along,  
 I haste to urge the learnéd toil  
-That sternly chides my [[motifs/love|love]]-lorn song:  
+That sternly chides my [[motifs/love|love]]-lorn [[Song|song]]:  
 Ah me! too mindful of the days   5  
 Illumed by Passion’s [[settings/orient|orient]] rays,  
 When Peace, and Cheerfulness and Health  
@@ -25,7 +25,7 @@ Enriched me with the best of wealth.
 Ah fair Delights! that o’er my [[motifs/soul|soul]]  
 On [[motifs/memory|Memory]]’s wing, like shadows fly!    10  
 Ah [[motifs/flowers|Flowers]]! which Joy from Eden stole  
-While Innocence stood smiling by! —  
+While [[innocence|Innocence]] stood smiling by! —  
 But cease, fond Heart! this bootless moan:  
 Those Hours on rapid Pinions flown  
 Shall yet return, by Absence [[motifs/crown|crown]]’d,   15  
@@ -43,7 +43,7 @@ We bless the Wanderer of the [[motifs/night|Night]].
 
 
 
-<span class="atom-split" data-atom="046_sonnet_to_the_river_otter" data-title="SONNET: TO THE RIVER OTTER" data-chapter="" data-kind="intro" data-tags="motif/river,motif/childhood,motif/memory,motif/water,concept/nostalgia,concept/memory_and_time,concept/childhood_and_growth,form/sonnet,setting/rural_england,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="046_sonnet_to_the_river_otter" data-title="SONNET: TO THE RIVER OTTER" data-chapter="" data-kind="intro"></span>
 
 
 Dear native Brook! wild Streamlet of the West!  
@@ -65,7 +65,7 @@ Ah! that once more I were a careless [[archetypes/child|Child]]!
 
 
 
-<span class="atom-split" data-atom="048_lines_on_an_autumnal_evening" data-title="LINES: ON AN AUTUMNAL EVENING" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/memory,motif/nature,motif/river,concept/imagination,concept/love_romantic,concept/nostalgia,form/lyric,histref/greek_mythology,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="048_lines_on_an_autumnal_evening" data-title="LINES: ON AN AUTUMNAL EVENING" data-chapter="" data-kind="intro"></span>
 
 
 O thou wild Fancy, check thy wing! No more  
@@ -120,7 +120,7 @@ A thousand Loves around her forehead fly;
 A thousand Loves sit melting in her eye;   50  
 [[motifs/love|Love]] lights her smile — in Joy’s red nectar dips  
 His myrtle flower, and plants it on her lips.  
-She speaks! and hark that passion-warbled song —  
+She speaks! and hark that passion-warbled [[Song|song]] —  
 Still, Fancy! still that voice, those notes prolong.  
 As sweet as when that voice with rapturous falls   55  
 Shall wake the soften’d echoes of Heaven’s Halls!Or mine the power of [[characters/proteus|Proteus]], changeful God!  
@@ -132,14 +132,14 @@ When Twilight stole across the fading vale,
 To fan my [[motifs/love|Love]] I’d be the Evening Gale;  
 Mourn in the soft folds of her swelling vest,   65  
 And flutter my faint pinions on her breast!  
-On Seraph wing I’d float a Dream by [[motifs/night|night]],  
+On Seraph wing I’d float [[A Dream|a Dream]] by [[motifs/night|night]],  
 To soothe my [[motifs/love|Love]] with shadows of delight: —  
 Or soar aloft to be the Spangled Skies,  
 And gaze upon her with a thousand eyes!   70  
 As when the Savage, who his drowsy frame  
 Had bask’d beneath the Sun’s unclouded flame,  
 Awakes amid the troubles of the air,  
-The skiey deluge, and white [[motifs/lightning|lightning]]’s glare —  
+The skiey [[deluge]], and white [[motifs/lightning|lightning]]’s glare —  
 Aghast he scours before the tempest’s sweep,   75  
 And sad recalls the sunny hour of [[motifs/sleep|sleep]]: —  
 So tossed by storms along Life’s wild’ring way,  
@@ -164,7 +164,7 @@ No more shall deck your pensive Pleasures sweet   95
 With wreaths of sober hue my evening seat.  
 Yet dear to Fancy’s eye your varied scene  
 Of wood, [[motifs/hill|hill]], dale, and sparkling brook between!  
-Yet sweet to Fancy’s ear the warbled song,  
+Yet sweet to Fancy’s ear the warbled [[Song|song]],  
 That soars on Morning’s wing your vales among.   100  
 Scenes of my [[concepts/hope|Hope]]! the aching eye ye leave  
 Like yon bright hues that paint the clouds of eve!  
@@ -177,7 +177,7 @@ Till chill and damp the moonless [[motifs/night|night]] descend
 
 
 
-<span class="atom-split" data-atom="055_lines_to_a_beautiful_spring_in_a_village" data-title="LINES: TO A BEAUTIFUL SPRING IN A VILLAGE" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/water,motif/river,motif/memory,motif/mutability,concept/nostalgia,form/lyric,setting/pastoral_countryside,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="055_lines_to_a_beautiful_spring_in_a_village" data-title="LINES: TO A BEAUTIFUL SPRING IN A VILLAGE" data-chapter="" data-kind="intro"></span>
 
 
 Once more! sweet Stream! with slow foot wandering near,  
@@ -217,7 +217,7 @@ Or o’er the rough rock bursts and foams along!
 
 
 
-<span class="atom-split" data-atom="091_of_baliol_college_oxford_author_of_the_retrospect_and_other_poems" data-title="OF BALIOL COLLEGE, OXFORD, AUTHOR OF THE ‘RETROSPECT’, AND OTHER POEMS" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/memory_and_time,concept/nostalgia,concept/friendship,concept/the_artist_and_society,form/sonnet,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="091_of_baliol_college_oxford_author_of_the_retrospect_and_other_poems" data-title="OF BALIOL COLLEGE, OXFORD, AUTHOR OF THE ‘RETROSPECT’, AND OTHER POEMS" data-chapter="" data-kind="intro"></span>
 
 
 SOUTHEY! thy  
@@ -244,7 +244,7 @@ January 14, 1795.
 
 
 
-<span class="atom-split" data-atom="234_recollections_of_love" data-title="RECOLLECTIONS OF LOVE" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/river,motif/nature,motif/birds,concept/love_romantic,concept/memory_and_time,concept/nostalgia,form/lyric,setting/rural_england,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="234_recollections_of_love" data-title="RECOLLECTIONS OF LOVE" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -273,7 +273,7 @@ As whom I long had loved before —
 So deeply had I been beguiled.   20  
 V  
 You stood before me like a thought,  
-A dream remembered in a dream.  
+[[A Dream|A dream]] remembered in [[A Dream|a dream]].  
 But when those meek eyes first did seem  
 To tell me, [[motifs/love|Love]] within you wrought —  
 O Greta, dear domestic stream!   25  
@@ -282,13 +282,13 @@ Has not, since then, [[motifs/love|Love]]’s prompture deep,
 Has not [[motifs/love|Love]]’s whisper evermore  
 Been ceaseless, as thy gentle roar?  
 Sole voice, when other voices [[motifs/sleep|sleep]],  
-Dear under-song in clamor’s hour.    30  
+Dear under-[[Song|song]] in clamor’s hour.    30  
 1807.  
 
 
 
 
-<span class="atom-split" data-atom="264_youth_and_age" data-title="YOUTH AND AGE" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/flowers,motif/masks_disguise,motif/bells,concept/transience,concept/nostalgia,concept/melancholy,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="264_youth_and_age" data-title="YOUTH AND AGE" data-chapter="" data-kind="intro"></span>
 
 
 Verse, a breeze mid blossoms straying,  
@@ -298,7 +298,7 @@ With [[concepts/nature|Nature]], [[concepts/hope|Hope]], and Poesy,
 When I was young!   5  
 When I was young? — Ah, woful When!  
 Ah! for the change ‘twixt Now and Then!  
-This breathing house not built with hands,  
+This breathing [[house]] not built with hands,  
 This [[concepts/body|body]] that does me grievous wrong,  
 O’er aery cliffs and glittering sands,   10  
 How lightly then it flashed along: —  
@@ -328,7 +328,7 @@ This drooping gait, this altered size:
 But [[motifs/spring|Spring]]-tide blossoms on thy lips.   35  
 And [[motifs/tears|tears]] take sunshine from thine eyes!  
 Life is but thought: so think I will  
-That Youth and I are house-mates still.  
+That Youth and I are [[house]]-mates still.  
 Dew-drops are the gems of morning,  
 But the [[motifs/tears|tears]] of mournful eve!   40  
 Where no [[concepts/hope|hope]] is, life’s a warning  
@@ -345,7 +345,7 @@ And tells the jest without the smile.
 
 
 
-<span class="atom-split" data-atom="373_association_of_ideas" data-title="ASSOCIATION OF IDEAS" data-chapter="" data-kind="intro" data-tags="motif/winter,concept/memory_and_time,concept/satire_of_society,concept/marriage_and_fidelity,form/epigram,histref/napoleonic_wars,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="373_association_of_ideas" data-title="ASSOCIATION OF IDEAS" data-chapter="" data-kind="intro"></span>
 
 
 I. — By Likeness  
@@ -378,7 +378,7 @@ Napoleon’s overthrow, and Snipkin’s fall.
 
 
 
-<span class="atom-split" data-atom="439_goethe" data-title="GOETHE" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/nostalgia,concept/exile,concept/love_romantic,form/song,setting/europe,setting/italy,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="439_goethe" data-title="GOETHE" data-chapter="" data-kind="intro"></span>
 
 
 Wilhelm Meister, Bk. III, Cap. 1. — Sämmtliche Werke, 1860, iii, p.  

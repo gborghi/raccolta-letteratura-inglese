@@ -63,7 +63,7 @@ tags:
 
 **Topoi:** [[topoi/golden-age|Golden Age]]
 
-**Characters:** [[historical-references/voltaire|Voltaire]], [[characters/rousseau|Rousseau]], [[characters/montaigne|Montaigne]]
+**Characters:** [[historical-references/voltaire|Voltaire]], Rousseau, Montaigne
 
 **Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/doubt|Doubt]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/reform|Reform]], [[concepts/fanaticism|Fanaticism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]

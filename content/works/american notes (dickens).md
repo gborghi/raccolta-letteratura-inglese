@@ -45,7 +45,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]]
-**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Archetypes:** Pilgrim
 **Motifs:** [[motifs/journey|Journey]], [[motifs/sea|Sea]], [[motifs/city|City]], [[motifs/road|Road]]
 **Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/satire-of-society|Satire of Society]], [[concepts/reform|Reform]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/alienation|Alienation]], [[concepts/truth|Truth]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/slavery|Slavery]]
 **Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]

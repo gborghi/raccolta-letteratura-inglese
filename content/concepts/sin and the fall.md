@@ -32,46 +32,46 @@ tags:
 - [[works/suprise-(chesterton)|suprise (Chesterton)]]
 - [[works/the-mystery-(chesterton)|the mystery (Chesterton)]]
 - [[works/roots-of-the-world-(chesterton)|Roots of the World (Chesterton)]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#446_alla_sua_amica|ALLA SUA AMICA (Coleridge)]]
+- [[works/alla-sua-amica-(coleridge)|ALLA SUA AMICA (Coleridge)]]
 - [[works/christian-religion-(coleridge)|CHRISTIAN RELIGION (Coleridge)]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#247_natures_answer|NATURE’S ANSWER (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#328_occasioned_by_the_last|OCCASIONED BY THE LAST (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#011_progress_of_vice|PROGRESS OF VICE (Coleridge)]]
+- [[works/nature’s-answer-(coleridge)|NATURE’S ANSWER (Coleridge)]]
+- [[works/occasioned-by-the-last-(coleridge)|OCCASIONED BY THE LAST (Coleridge)]]
+- [[works/progress-of-vice-(coleridge)|PROGRESS OF VICE (Coleridge)]]
 - [[works/religious-musings-(coleridge)|RELIGIOUS MUSINGS (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#226_the_blossoming_of_the_solitary_date-tree|THE BLOSSOMING OF THE SOLITARY DATE-TREE (Coleridge)]]
+- [[works/the-blossoming-of-the-solitary-date-tree-(coleridge)|THE BLOSSOMING OF THE SOLITARY DATE-TREE (Coleridge)]]
 - [[works/the-improvisatore-or,-john-anderson,-my-jo,-john-(coleridge)|THE IMPROVISATORE OR, JOHN ANDERSON, MY JO, JOHN (Coleridge)]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#218_the_pains_of_sleep|THE PAINS OF SLEEP (Coleridge)]]
+- [[works/the-pains-of-sleep-(coleridge)|THE PAINS OF SLEEP (Coleridge)]]
 - [[works/the-rime-of-the-ancient-mariner-(coleridge)|THE RIME OF THE ANCIENT MARINER (Coleridge)]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#271_the_two_founts|THE TWO FOUNTS (Coleridge)]]
+- [[works/the-two-founts-(coleridge)|THE TWO FOUNTS (Coleridge)]]
 - [[works/the-wanderings-of-cain-(coleridge)-(2)|THE WANDERINGS OF CAIN (Coleridge) (2)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#156_the_wanderings_of_cain|THE WANDERINGS OF CAIN (Coleridge)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1119_paradise_is_that_old_mansion|1119. Paradise is that old mansion (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1195_what_we_see_we_know_somewhat|1195. What we see we know somewhat (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1459_belshazzar_had_a_letter|1459. Belshazzar had a Letter — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1461_heavenly_father_take_to_thee|1461. Heavenly Father — take to thee (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1479_the_devil_had_he_fidelity|1479. The Devil — had he fidelity (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#1500_it_came_his_turn_to_beg|1500. It came his turn to beg — (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1545_the_bible_is_an_antique_volume|1545. The Bible is an antique Volume — (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1740_sweet_is_the_swamp_with_its_secrets|1740. Sweet is the swamp with its secrets, (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0428_taking_up_the_fair_ideal|428. Taking up the fair Ideal, (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0503_better_than_music_for_i_who_heard_it|503. Better — than Music! For I — who heard it — (Dickinson)]]
+- [[works/the-wanderings-of-cain-(coleridge)|THE WANDERINGS OF CAIN (Coleridge)]]
+- 1119. Paradise is that old mansion (Dickinson)
+- 1195. What we see we know somewhat (Dickinson)
+- 1459. Belshazzar had a Letter — (Dickinson)
+- 1461. Heavenly Father — take to thee (Dickinson)
+- 1479. The Devil — had he fidelity (Dickinson)
+- 1500. It came his turn to beg — (Dickinson)
+- 1545. The Bible is an antique Volume — (Dickinson)
+- 1740. Sweet is the swamp with its secrets, (Dickinson)
+- 428. Taking up the fair Ideal, (Dickinson)
+- 503. Better — than Music! For I — who heard it — (Dickinson)
 - [[works/the-family-reunion-(eliot)|THE FAMILY REUNION (Eliot)]]
-- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#062_v_o_lord_deliver_me_from_the_man_of_excellent_intention_and_impure_heart|V O Lord, deliver me from the man of excellent intention and impure heart (Eliot)]]
-- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#063_vi_it_is_hard_for_those_who_have_never_known_persecution|VI It is hard for those who have never known persecution (Eliot)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#076_sharing_eves_apple|Sharing Eve’s Apple (Keats)]]
+- [[works/v-o-lord,-deliver-me-from-the-man-of-excellent-intention-and-impure-heart-(eliot)|V O Lord, deliver me from the man of excellent intention and impure heart (Eliot)]]
+- [[works/vi-it-is-hard-for-those-who-have-never-known-persecution-(eliot)|VI It is hard for those who have never known persecution (Eliot)]]
+- [[works/sharing-eve’s-apple-(keats)|Sharing Eve’s Apple (Keats)]]
 - [[works/never-bet-the-devil-your-head-(poe)|Never Bet the Devil your Head (Poe)]]
 - [[works/tamerlane-(poe)|Tamerlane (Poe)]]
 - [[works/the-black-cat-(poe)|The Black Cat (Poe)]]
 - [[works/the-conqueror-worm-(poe)|The Conqueror Worm (Poe)]]
 - [[works/measure-for-measure-(shakespeare)|MEASURE FOR MEASURE (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_129|Sonnet 129 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_141|Sonnet 141 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_142|Sonnet 142 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_151|Sonnet 151 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_093|Sonnet 93 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_095|Sonnet 95 (Shakespeare)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#200_the_singer_in_the_prison|The Singer in the Prison (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#206_you_felons_on_trial_in_courts|You Felons on Trial in Courts (Whitman)]]
+- Sonnet 129 (Shakespeare)
+- Sonnet 141 (Shakespeare)
+- Sonnet 142 (Shakespeare)
+- Sonnet 151 (Shakespeare)
+- Sonnet 93 (Shakespeare)
+- Sonnet 95 (Shakespeare)
+- [[works/the-singer-in-the-prison-(whitman)|The Singer in the Prison (Whitman)]]
+- [[works/you-felons-on-trial-in-courts-(whitman)|You Felons on Trial in Courts (Whitman)]]
 - [[works/a-woman-of-no-importance-(wilde)|A Woman of No Importance (Wilde)]]
 - [[works/la-sainte-courtisane-(wilde)|La Sainte Courtisane (Wilde)]]
 - [[works/lady-windermere's-fan-(wilde)|Lady Windermere's Fan (Wilde)]]

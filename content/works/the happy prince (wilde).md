@@ -53,13 +53,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/contemptus-mundi|Contemptus Mundi]]
-**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/christ-figure|Christ Figure]], [[archetypes/king|King]]
+**Archetypes:** Martyr Saint, Christ Figure, King
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/birds|Birds]], [[motifs/swallow|Swallow]], [[motifs/city|City]], [[motifs/death|Death]], [[motifs/winter|Winter]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/gold-and-grey|Gold and Grey]]
 **Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/divine-love|Divine Love]], [[concepts/mercy|Mercy]], [[concepts/friendship|Friendship]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/allegory|Allegory]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/egypt|Egypt]], [[settings/industrial-city|Industrial City]]
-**Characters:** [[characters/christ|Christ]]
+**Characters:** Christ
 
 ## Testo integrale / Full text
 

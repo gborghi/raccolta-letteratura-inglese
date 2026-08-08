@@ -93,7 +93,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/villain|Villain]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/hero|Hero]], [[archetypes/common-man-(2)|Common Man (2)]]
+**Archetypes:** Tyrant, Villain, Martyr Saint, Hero, Common Man (2)
 
 **Settings:** [[settings/germany|Germany]], [[settings/denmark|Denmark]], [[settings/italy|Italy]], [[settings/russia|Russia]], [[settings/paris|Paris]], [[settings/rural-england|Rural England]], [[settings/battlefield|Battlefield]], [[settings/ireland|Ireland]], [[settings/europe|Europe]]
 
@@ -101,7 +101,7 @@ tags:
 
 **Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]], [[topoi/war-as-glory|War as Glory]], [[topoi/last-stand|Last Stand]], [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[historical-references/frederick-the-great|Frederick the Great]], [[historical-references/napoleon|Napoleon]], [[characters/napoleon-iii|Napoleon III]], [[characters/bismarck|Bismarck]], [[characters/william-cobbett|William Cobbett]], [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]], [[characters/duke-of-wellington|Duke of Wellington]], [[characters/blucher|Blucher]], [[characters/lord-salisbury|Lord Salisbury]], [[characters/garibaldi|Garibaldi]], [[characters/carlyle|Carlyle]], [[characters/maria-theresa|Maria Theresa]], [[characters/william-pitt|William Pitt]], [[characters/castlereagh|Castlereagh]], [[characters/hans-andersen|Hans Andersen]]
+**Characters:** [[historical-references/frederick-the-great|Frederick the Great]], [[historical-references/napoleon|Napoleon]], Napoleon III, Bismarck, William Cobbett, [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]], Duke of Wellington, Blucher, Lord Salisbury, Garibaldi, Carlyle, Maria Theresa, William Pitt, Castlereagh, Hans Andersen
 
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/democracy|Democracy]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/slavery|Slavery]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/class-conflict|Class Conflict]], [[concepts/common-man|Common Man]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]

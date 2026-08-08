@@ -56,7 +56,7 @@ tags:
 
 ## Connections
 
-**Characters:** [[characters/paul-dombey|Paul Dombey]], [[characters/florence-dombey|Florence Dombey]], [[characters/walter-gay|Walter Gay]], [[characters/edith-granger|Edith Granger]], [[characters/james-carker|James Carker]], [[characters/solomon-gills|Solomon Gills]], [[characters/captain-cuttle|Captain Cuttle]], [[characters/susan-nipper|Susan Nipper]], [[characters/major-bagstock|Major Bagstock]]
+**Characters:** Paul Dombey, Florence Dombey, Walter Gay, Edith Granger, James Carker, Solomon Gills, Captain Cuttle, Susan Nipper, Major Bagstock
 
 ## Testo integrale / Full text
 

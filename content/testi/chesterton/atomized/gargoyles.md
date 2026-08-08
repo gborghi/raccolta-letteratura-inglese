@@ -21,9 +21,9 @@ G.K. Chesterton
 
 Alarms and Discursions 1910
 
-Introduzione: Sui Gargoyle
+Introduzione: Sui [[gargoyles|Gargoyle]]
 
-SOLITARIO e a una certa distanza dalle mura sgretolate di un'abbazia in rovina, trovai, mezzo affondato nell'erba, il volto grigio e dagli occhi sporgenti di uno di quei mostri scolpiti che formavano gli ornamentali [[motifs/water|doccioni]] delle cattedrali del Medioevo. Giaceva là, dilavato da piogge antiche o striato da funghi recenti, ma ancora simile alla testa di un enorme drago abbattuto da qualche [[archetypes/hero|eroe]] primevo. E mentre lo contemplavo, pensai al significato del [[concepts/grotesque|grottesco]], e trascorsi in una fantasticheria simbolica sui tre grandi stadi dell'arte.
+[[Alone|SOLITARIO]] e a una certa distanza dalle mura sgretolate di un'abbazia in rovina, trovai, mezzo affondato nell'erba, il volto grigio e dagli occhi sporgenti di uno di quei mostri scolpiti che formavano gli ornamentali [[motifs/water|doccioni]] delle cattedrali del Medioevo. Giaceva là, dilavato da piogge antiche o striato da funghi recenti, ma ancora simile alla testa di un enorme drago abbattuto da qualche [[archetypes/hero|eroe]] primevo. E mentre lo contemplavo, pensai al significato del [[concepts/grotesque|grottesco]], e trascorsi in una fantasticheria simbolica sui tre grandi stadi dell'arte.
 
 * * * *
 
@@ -31,7 +31,7 @@ I
 
 C'era una volta, sopra un'isola, un popolo allegro e [[archetypes/innocent|innocente]], per lo più pastori e coltivatori della terra. Erano repubblicani, come tutte le anime primitive e semplici; discutevano dei loro affari sotto un albero, e la cosa più vicina a un sovrano personale che avessero era una specie di sacerdote o [[characters/witch|strega]] bianca che recitava per loro le preghiere. Adoravano il sole, non idolatricamente, ma come l'aurea [[motifs/crown|corona]] del dio che tutti quei fanciulli vedono quasi con la medesima chiarezza con cui vedono il sole.
 
-Ora, questo sacerdote fu incaricato dal suo popolo di erigere una grande torre, che si levasse verso il cielo in saluto al Dio-Sole; ed egli meditò a lungo e gravemente prima di scegliere i suoi materiali. Poiché era risoluto a non adoperare nulla che non fosse limpido e squisito quasi quanto la luce del sole stessa; nulla avrebbe usato che non fosse lavato bianco come la pioggia sa lavare i cieli, nulla che non brillasse immacolato come quella [[motifs/crown|corona]] di Dio. Non avrebbe voluto nulla di [[concepts/grotesque|grottesco]] né di oscuro; non avrebbe voluto nemmeno nulla di enfatico né tanto meno di misterioso. Avrebbe voluto tutte le arcate lievi come il riso e candide come la logica. Costruì il tempio in tre corti concentriche, ciascuna più fresca e più squisita di sostanza dell'altra. Poiché il muro esterno era una siepe di gigli bianchi, allineati così fitti che a stento si scorgeva uno stelo verde; e il muro entro di quello era di cristallo, che frantumava il sole in un milione di [[motifs/stars|stelle]]. E il muro entro di quello, che era la torre stessa, era una torre di pura [[motifs/water|acqua]], sospinta in alto in una fontana perenne; e sulla punta stessa e sulla cresta di quella spira spumeggiante stava un grande e sfolgorante diamante, che l'[[motifs/water|acqua]] lanciava in eterno e riafferrava come un [[archetypes/child|bambino]] afferra una palla.
+Ora, questo sacerdote fu incaricato dal suo popolo di erigere una grande torre, che si levasse verso il cielo in saluto al Dio-Sole; ed egli meditò a lungo e gravemente prima di scegliere i suoi materiali. Poiché era risoluto a non adoperare nulla che non fosse limpido e squisito quasi quanto la luce del sole stessa; nulla avrebbe usato che non fosse lavato bianco come la pioggia sa lavare i cieli, nulla che non brillasse immacolato come quella [[motifs/crown|corona]] di Dio. Non avrebbe voluto nulla di [[concepts/grotesque|grottesco]] né di oscuro; non avrebbe voluto nemmeno nulla di enfatico né tanto meno di misterioso. Avrebbe voluto tutte le arcate lievi come il riso e candide come la [[logic|logica]]. Costruì il tempio in tre corti concentriche, ciascuna più fresca e più squisita di sostanza dell'altra. Poiché il muro esterno era una siepe di gigli bianchi, allineati così fitti che a stento si scorgeva uno stelo verde; e il muro entro di quello era di cristallo, che frantumava il sole in un milione di [[motifs/stars|stelle]]. E il muro entro di quello, che era la torre stessa, era una torre di pura [[motifs/water|acqua]], sospinta in alto in una fontana perenne; e sulla punta stessa e sulla cresta di quella spira spumeggiante stava un grande e sfolgorante diamante, che l'[[motifs/water|acqua]] lanciava in eterno e riafferrava come un [[archetypes/child|bambino]] afferra una palla.
 
 «Ora», disse il sacerdote, «ho fatto una torre che è un poco degna del sole».
 
@@ -39,13 +39,13 @@ II
 
 Ma verso quel [[motifs/time|tempo]] l'isola fu colta in uno sciame di pirati; e i pastori dovettero mutarsi in rozzi guerrieri e marinai; e dapprima furono interamente prostrati nel [[motifs/blood|sangue]] e nella vergogna; e i pirati avrebbero potuto impadronirsi del [[motifs/jewel|gioiello]] lanciato per sempre in alto dalla loro sacra fonte. E poi, dopo anni di orrore e di umiliazione, guadagnarono un poco e cominciarono a vincere perché non si curavano della sconfitta. E l'[[concepts/pride|orgoglio]] dei pirati si ammalò dentro di loro dopo qualche inaspettato scacco; e infine l'invasione rifluì nei mari deserti e l'isola fu liberata. E per qualche ragione, dopo di ciò, gli uomini cominciarono a parlare in modo assai diverso del tempio e del sole. Alcuni, invero, dicevano: «Non dovete toccare il tempio; è classico; è perfetto, poiché non ammette imperfezioni». Ma gli altri rispondevano: «In ciò esso differisce dal sole, che risplende sui malvagi e sui buoni, e sul fango e sui mostri d'ogni dove. Il tempio è del [[motifs/noon|mezzogiorno]]; è fatto di bianche nubi di marmo e di cielo di zaffiro. Ma il sole non è sempre del [[motifs/noon|mezzogiorno]]. Il sole muore ogni giorno; ogni [[motifs/night|notte]] è crocifisso nel [[motifs/blood|sangue]] e nel [[motifs/fire|fuoco]]».
 
-Ora il sacerdote aveva insegnato e combattuto per tutta la guerra, e i suoi capelli erano incanutiti, ma i suoi occhi si erano fatti giovani. Ed egli disse: «Io avevo torto ed essi hanno ragione. Il sole, simbolo del nostro padre, dà vita a tutte quelle cose terrene che sono piene di bruttezza e di energia. Tutte le esagerazioni sono giuste, se esagerano la cosa giusta. Additiamo il cielo con zanne e corna e pinne e proboscidi e code, purché tutte additino il cielo. Gli [[motifs/animals|animali]] brutti lodano Dio non meno dei belli. Gli occhi del rospo gli sporgono dal capo perché sta fissando il cielo. Il collo della giraffa è lungo perché ella si protende verso il cielo. L'asino ha orecchie per udire: che oda».
+Ora il sacerdote aveva insegnato e combattuto per tutta la guerra, e i suoi capelli erano incanutiti, ma i suoi occhi si erano fatti giovani. Ed egli disse: «Io avevo torto ed essi hanno ragione. Il sole, simbolo del nostro padre, dà vita a tutte quelle cose terrene che sono piene di bruttezza e di energia. Tutte le esagerazioni sono giuste, se esagerano la cosa giusta. Additiamo il cielo con zanne e corna e pinne e proboscidi e code, purché tutte additino il cielo. Gli [[motifs/animals|animali]] brutti lodano Dio non meno dei belli. Gli occhi del rospo gli sporgono dal capo perché sta fissando il cielo. Il collo della giraffa è lungo perché ella si protende verso il cielo. L'[[donkey|asino]] ha orecchie per udire: che oda».
 
 E sotto la nuova ispirazione progettarono una splendida [[settings/cathedral|cattedrale]] alla maniera gotica, con tutti gli [[motifs/animals|animali]] della terra che le strisciavano dappertutto sopra, e tutte le possibili cose brutte che componevano un'unica comune [[concepts/beauty|bellezza]], perché tutte si appellavano al dio. Le colonne del tempio erano scolpite come colli di giraffe; la cupola era come una brutta tartaruga; e il pinnacolo più alto era una scimmia ritta sul capo con la coda puntata verso il sole. Eppure l'insieme era bello, perché era innalzato in un unico gesto vivo e religioso, come un uomo leva le mani nella [[motifs/prayer|preghiera]].
 
 III
 
-Ma questo grande disegno non fu mai compiuto a dovere. Il popolo aveva trasportato su grandi carri il pesante tetto a tartaruga e gli enormi colli di pietra, e tutte le mille e una stranezza che componevano quell'unità, i gufi e i tritoni e i coccodrilli e i canguri, che, brutti presi da soli, sarebbero potuti essere magnifici se allevati in una determinata proporzione e consacrati al sole. Poiché questo era gotico, questo era romantico, questa era arte cristiana; questo era l'intero progresso di Shakespeare rispetto a Sofocle. E quel simbolo che doveva [[motifs/crown|coronare]] il tutto, la scimmia a testa in giù, era davvero cristiano; poiché l'uomo è la scimmia a testa in giù.
+Ma questo grande disegno non fu mai compiuto a dovere. Il popolo aveva trasportato su grandi carri il pesante tetto a tartaruga e gli enormi colli di pietra, e tutte le mille e una stranezza che componevano quell'[[unity|unità]], i gufi e i tritoni e i coccodrilli e i canguri, che, brutti presi da soli, sarebbero potuti essere magnifici se allevati in una determinata proporzione e consacrati al sole. Poiché questo era gotico, questo era romantico, questa era arte cristiana; questo era l'intero progresso di Shakespeare rispetto a Sofocle. E quel simbolo che doveva [[motifs/crown|coronare]] il tutto, la scimmia a testa in giù, era davvero cristiano; poiché l'uomo è la scimmia a testa in giù.
 
 Ma i ricchi, divenuti sfrenati nella lunga pace,
 ostacolarono l'impresa, e in una qualche zuffa una pietra colpì
@@ -78,10 +78,10 @@ il milione di mostri ed essere incapaci di dominarli;
 e mi arrischierò a chiamare tutto ciò la disgregazione e la [[motifs/decay|decadenza]].
 I tratti più belli dei marmi di Elgin consistono in splendidi
 cavalli che vanno al tempio di una vergine.  Il [[historical-references/christianity|Cristianesimo]], con le sue
-gargolle e i suoi grotteschi, equivaleva in fondo a dire questo:
-che un asino poteva precedere tutti i cavalli del mondo quando esso
-andava davvero al tempio.  Il Romanzesco è un santo asino
-che va al tempio.  Il Realismo è un asino smarrito che non va in nessun luogo.
+[[gargoyles|gargolle]] e i suoi grotteschi, equivaleva in fondo a dire questo:
+che un [[donkey|asino]] poteva precedere tutti i cavalli del mondo quando esso
+andava davvero al tempio.  Il [[Romance|Romanzesco]] è un santo [[donkey|asino]]
+che va al tempio.  Il Realismo è un [[donkey|asino]] smarrito che non va in nessun luogo.
 
 I frammenti di futile giornalismo o di fugace impressione qui
 raccolti somigliano molto ai relitti e ai blocchi spaccati
@@ -96,8 +96,8 @@ connettono tutte queste carte caotiche.  Ma si potrebbe enunciarli.
 Questa fila di mostri informi e sgraziati che ora pongo
 davanti al lettore non consiste di idoli separati intagliati
 capricciosamente in solitarie valli o in varie isole.
-Questi mostri sono destinati a essere le gargolle di una precisa [[settings/cathedral|cattedrale]].
-Devo intagliare le gargolle, perché non so intagliare altro;
+Questi mostri sono destinati a essere le [[gargoyles|gargolle]] di una precisa [[settings/cathedral|cattedrale]].
+Devo intagliare le [[gargoyles|gargolle]], perché non so intagliare altro;
 lascio ad altri gli angeli e gli archi e le guglie.
 Ma sono ben certo dello stile dell'architettura e della
 consacrazione della chiesa.
@@ -111,9 +111,9 @@ G.K. Chesterton
 
 Alarms and Discursions 1910
 
-Introductory:  On Gargoyles
+Introductory:  On [[gargoyles|Gargoyles]]
 
-ALONE at some distance from the wasting walls of a disused
+[[Alone|ALONE]] at some distance from the wasting walls of a disused
 abbey I found half sunken in the grass the grey and goggle-eyed
 visage of one of those graven monsters that made the ornamental
 [[motifs/water|water]]-spouts in the cathedrals of the Middle Ages.  It lay there,
@@ -144,7 +144,7 @@ nothing that did not sparkle as spotlessly as that [[motifs/crown|crown]]
 of God.  He would have nothing [[concepts/grotesque|grotesque]] or obscure; he would
 not even have anything emphatic or even anything mysterious.
 He would have all the arches as light as laughter and as candid
-as logic.  He built the temple in three concentric courts,
+as [[logic]].  He built the temple in three concentric courts,
 which were cooler and more exquisite in substance each than the other.
 For the outer wall was a hedge of white lillies, ranked so thick
 that a green stalk was hardly to be seen; and the wall within
@@ -189,7 +189,7 @@ and trunks and tails so long as they all point to heaven.
 The ugly [[motifs/animals|animals]] praise God as much as the beautiful.
 The frog's eyes stand out of his head because he is staring at heaven.
 The giraffe's neck is long because he is stretching towards heaven.
-The donkey has ears to hear-let him hear."
+The [[donkey]] has ears to hear-let him hear."
 
 And under the new inspiration they planned a gorgeous [[settings/cathedral|cathedral]]
 in the Gothic manner, with all the [[motifs/animals|animals]] of the earth
@@ -205,7 +205,7 @@ III
 
 But this great plan was never properly completed.  The people had brought
 up on great wagons the heavy tortoise roof and the huge necks of stone,
-and all the thousand and one oddities that made up that unity,
+and all the thousand and one oddities that made up that [[unity]],
 the owls and the efts and the crocodiles and the kangaroos,
 which hideous by themselves might have been magnificent if
 reared in one definite proportion and dedicated to the sun.
@@ -221,9 +221,9 @@ G.K. Chesterton
 
 Alarms and Discursions 1910
 
-Introduzione: Sui Gargoyle
+Introduzione: Sui [[gargoyles|Gargoyle]]
 
-SOLITARIO e a una certa distanza dalle mura sgretolate di un'abbazia in rovina, trovai, mezzo affondato nell'erba, il volto grigio e dagli occhi sporgenti di uno di quei mostri scolpiti che formavano gli ornamentali [[motifs/water|doccioni]] delle cattedrali del Medioevo. Giaceva là, dilavato da piogge antiche o striato da funghi recenti, ma ancora simile alla testa di un enorme drago abbattuto da qualche [[archetypes/hero|eroe]] primevo. E mentre lo contemplavo, pensai al significato del [[concepts/grotesque|grottesco]], e trascorsi in una fantasticheria simbolica sui tre grandi stadi dell'arte.
+[[Alone|SOLITARIO]] e a una certa distanza dalle mura sgretolate di un'abbazia in rovina, trovai, mezzo affondato nell'erba, il volto grigio e dagli occhi sporgenti di uno di quei mostri scolpiti che formavano gli ornamentali [[motifs/water|doccioni]] delle cattedrali del Medioevo. Giaceva là, dilavato da piogge antiche o striato da funghi recenti, ma ancora simile alla testa di un enorme drago abbattuto da qualche [[archetypes/hero|eroe]] primevo. E mentre lo contemplavo, pensai al significato del [[concepts/grotesque|grottesco]], e trascorsi in una fantasticheria simbolica sui tre grandi stadi dell'arte.
 
 * * * *
 
@@ -231,7 +231,7 @@ I
 
 C'era una volta, sopra un'isola, un popolo allegro e [[archetypes/innocent|innocente]], per lo più pastori e coltivatori della terra. Erano repubblicani, come tutte le anime primitive e semplici; discutevano dei loro affari sotto un albero, e la cosa più vicina a un sovrano personale che avessero era una specie di sacerdote o [[characters/witch|strega]] bianca che recitava per loro le preghiere. Adoravano il sole, non idolatricamente, ma come l'aurea [[motifs/crown|corona]] del dio che tutti quei fanciulli vedono quasi con la medesima chiarezza con cui vedono il sole.
 
-Ora, questo sacerdote fu incaricato dal suo popolo di erigere una grande torre, che si levasse verso il cielo in saluto al Dio-Sole; ed egli meditò a lungo e gravemente prima di scegliere i suoi materiali. Poiché era risoluto a non adoperare nulla che non fosse limpido e squisito quasi quanto la luce del sole stessa; nulla avrebbe usato che non fosse lavato bianco come la pioggia sa lavare i cieli, nulla che non brillasse immacolato come quella [[motifs/crown|corona]] di Dio. Non avrebbe voluto nulla di [[concepts/grotesque|grottesco]] né di oscuro; non avrebbe voluto nemmeno nulla di enfatico né tanto meno di misterioso. Avrebbe voluto tutte le arcate lievi come il riso e candide come la logica. Costruì il tempio in tre corti concentriche, ciascuna più fresca e più squisita di sostanza dell'altra. Poiché il muro esterno era una siepe di gigli bianchi, allineati così fitti che a stento si scorgeva uno stelo verde; e il muro entro di quello era di cristallo, che frantumava il sole in un milione di [[motifs/stars|stelle]]. E il muro entro di quello, che era la torre stessa, era una torre di pura [[motifs/water|acqua]], sospinta in alto in una fontana perenne; e sulla punta stessa e sulla cresta di quella spira spumeggiante stava un grande e sfolgorante diamante, che l'[[motifs/water|acqua]] lanciava in eterno e riafferrava come un [[archetypes/child|bambino]] afferra una palla.
+Ora, questo sacerdote fu incaricato dal suo popolo di erigere una grande torre, che si levasse verso il cielo in saluto al Dio-Sole; ed egli meditò a lungo e gravemente prima di scegliere i suoi materiali. Poiché era risoluto a non adoperare nulla che non fosse limpido e squisito quasi quanto la luce del sole stessa; nulla avrebbe usato che non fosse lavato bianco come la pioggia sa lavare i cieli, nulla che non brillasse immacolato come quella [[motifs/crown|corona]] di Dio. Non avrebbe voluto nulla di [[concepts/grotesque|grottesco]] né di oscuro; non avrebbe voluto nemmeno nulla di enfatico né tanto meno di misterioso. Avrebbe voluto tutte le arcate lievi come il riso e candide come la [[logic|logica]]. Costruì il tempio in tre corti concentriche, ciascuna più fresca e più squisita di sostanza dell'altra. Poiché il muro esterno era una siepe di gigli bianchi, allineati così fitti che a stento si scorgeva uno stelo verde; e il muro entro di quello era di cristallo, che frantumava il sole in un milione di [[motifs/stars|stelle]]. E il muro entro di quello, che era la torre stessa, era una torre di pura [[motifs/water|acqua]], sospinta in alto in una fontana perenne; e sulla punta stessa e sulla cresta di quella spira spumeggiante stava un grande e sfolgorante diamante, che l'[[motifs/water|acqua]] lanciava in eterno e riafferrava come un [[archetypes/child|bambino]] afferra una palla.
 
 «Ora», disse il sacerdote, «ho fatto una torre che è un poco degna del sole».
 
@@ -239,13 +239,13 @@ II
 
 Ma verso quel [[motifs/time|tempo]] l'isola fu colta in uno sciame di pirati; e i pastori dovettero mutarsi in rozzi guerrieri e marinai; e dapprima furono interamente prostrati nel [[motifs/blood|sangue]] e nella vergogna; e i pirati avrebbero potuto impadronirsi del [[motifs/jewel|gioiello]] lanciato per sempre in alto dalla loro sacra fonte. E poi, dopo anni di orrore e di umiliazione, guadagnarono un poco e cominciarono a vincere perché non si curavano della sconfitta. E l'[[concepts/pride|orgoglio]] dei pirati si ammalò dentro di loro dopo qualche inaspettato scacco; e infine l'invasione rifluì nei mari deserti e l'isola fu liberata. E per qualche ragione, dopo di ciò, gli uomini cominciarono a parlare in modo assai diverso del tempio e del sole. Alcuni, invero, dicevano: «Non dovete toccare il tempio; è classico; è perfetto, poiché non ammette imperfezioni». Ma gli altri rispondevano: «In ciò esso differisce dal sole, che risplende sui malvagi e sui buoni, e sul fango e sui mostri d'ogni dove. Il tempio è del [[motifs/noon|mezzogiorno]]; è fatto di bianche nubi di marmo e di cielo di zaffiro. Ma il sole non è sempre del [[motifs/noon|mezzogiorno]]. Il sole muore ogni giorno; ogni [[motifs/night|notte]] è crocifisso nel [[motifs/blood|sangue]] e nel [[motifs/fire|fuoco]]».
 
-Ora il sacerdote aveva insegnato e combattuto per tutta la guerra, e i suoi capelli erano incanutiti, ma i suoi occhi si erano fatti giovani. Ed egli disse: «Io avevo torto ed essi hanno ragione. Il sole, simbolo del nostro padre, dà vita a tutte quelle cose terrene che sono piene di bruttezza e di energia. Tutte le esagerazioni sono giuste, se esagerano la cosa giusta. Additiamo il cielo con zanne e corna e pinne e proboscidi e code, purché tutte additino il cielo. Gli [[motifs/animals|animali]] brutti lodano Dio non meno dei belli. Gli occhi del rospo gli sporgono dal capo perché sta fissando il cielo. Il collo della giraffa è lungo perché ella si protende verso il cielo. L'asino ha orecchie per udire: che oda».
+Ora il sacerdote aveva insegnato e combattuto per tutta la guerra, e i suoi capelli erano incanutiti, ma i suoi occhi si erano fatti giovani. Ed egli disse: «Io avevo torto ed essi hanno ragione. Il sole, simbolo del nostro padre, dà vita a tutte quelle cose terrene che sono piene di bruttezza e di energia. Tutte le esagerazioni sono giuste, se esagerano la cosa giusta. Additiamo il cielo con zanne e corna e pinne e proboscidi e code, purché tutte additino il cielo. Gli [[motifs/animals|animali]] brutti lodano Dio non meno dei belli. Gli occhi del rospo gli sporgono dal capo perché sta fissando il cielo. Il collo della giraffa è lungo perché ella si protende verso il cielo. L'[[donkey|asino]] ha orecchie per udire: che oda».
 
 E sotto la nuova ispirazione progettarono una splendida [[settings/cathedral|cattedrale]] alla maniera gotica, con tutti gli [[motifs/animals|animali]] della terra che le strisciavano dappertutto sopra, e tutte le possibili cose brutte che componevano un'unica comune [[concepts/beauty|bellezza]], perché tutte si appellavano al dio. Le colonne del tempio erano scolpite come colli di giraffe; la cupola era come una brutta tartaruga; e il pinnacolo più alto era una scimmia ritta sul capo con la coda puntata verso il sole. Eppure l'insieme era bello, perché era innalzato in un unico gesto vivo e religioso, come un uomo leva le mani nella [[motifs/prayer|preghiera]].
 
 III
 
-Ma questo grande disegno non fu mai compiuto a dovere. Il popolo aveva trasportato su grandi carri il pesante tetto a tartaruga e gli enormi colli di pietra, e tutte le mille e una stranezza che componevano quell'unità, i gufi e i tritoni e i coccodrilli e i canguri, che, brutti presi da soli, sarebbero potuti essere magnifici se allevati in una determinata proporzione e consacrati al sole. Poiché questo era gotico, questo era romantico, questa era arte cristiana; questo era l'intero progresso di Shakespeare rispetto a Sofocle. E quel simbolo che doveva [[motifs/crown|coronare]] il tutto, la scimmia a testa in giù, era davvero cristiano; poiché l'uomo è la scimmia a testa in giù.
+Ma questo grande disegno non fu mai compiuto a dovere. Il popolo aveva trasportato su grandi carri il pesante tetto a tartaruga e gli enormi colli di pietra, e tutte le mille e una stranezza che componevano quell'[[unity|unità]], i gufi e i tritoni e i coccodrilli e i canguri, che, brutti presi da soli, sarebbero potuti essere magnifici se allevati in una determinata proporzione e consacrati al sole. Poiché questo era gotico, questo era romantico, questa era arte cristiana; questo era l'intero progresso di Shakespeare rispetto a Sofocle. E quel simbolo che doveva [[motifs/crown|coronare]] il tutto, la scimmia a testa in giù, era davvero cristiano; poiché l'uomo è la scimmia a testa in giù.
 
 
 
@@ -283,10 +283,10 @@ the million monsters and being unable to control them;
 and I will venture to call that the disruption and the [[motifs/decay|decay]].
 The finest lengths of the Elgin marbles consist of splendid
 horses going to the temple of a virgin.  [[historical-references/christianity|Christianity]], with its
-gargoyles and grotesques, really amounted to saying this:
-that a donkey could go before all the horses of the world when it
-was really going to the temple.  [[works/romance-(poe)|Romance]] means a holy donkey
-going to the temple.  Realism means a lost donkey going nowhere.
+[[gargoyles]] and grotesques, really amounted to saying this:
+that a [[donkey]] could go before all the horses of the world when it
+was really going to the temple.  [[works/romance-(poe)|Romance]] means a holy [[donkey]]
+going to the temple.  Realism means a lost [[donkey]] going nowhere.
 
 The fragments of futile journalism or fleeting impression which
 are here collected are very like the wrecks and riven blocks
@@ -301,8 +301,8 @@ links between all these chaotic papers.  But it could be stated.
 This row of shapeless and ungainly monsters which I now set
 before the reader does not consist of separate idols cut
 out capriciously in lonely valleys or various islands.
-These monsters are meant for the gargoyles of a definite [[settings/cathedral|cathedral]].
-I have to carve the gargoyles, because I can carve nothing else;
+These monsters are meant for the [[gargoyles]] of a definite [[settings/cathedral|cathedral]].
+I have to carve the [[gargoyles]], because I can carve nothing else;
 I leave to others the angels and the arches and the spires.
 But I am very sure of the style of the architecture and of
 the consecration of the church.
@@ -341,10 +341,10 @@ il milione di mostri ed essere incapaci di dominarli;
 e mi arrischierò a chiamare tutto ciò la disgregazione e la [[motifs/decay|decadenza]].
 I tratti più belli dei marmi di Elgin consistono in splendidi
 cavalli che vanno al tempio di una vergine.  Il [[historical-references/christianity|Cristianesimo]], con le sue
-gargolle e i suoi grotteschi, equivaleva in fondo a dire questo:
-che un asino poteva precedere tutti i cavalli del mondo quando esso
-andava davvero al tempio.  Il Romanzesco è un santo asino
-che va al tempio.  Il Realismo è un asino smarrito che non va in nessun luogo.
+[[gargoyles|gargolle]] e i suoi grotteschi, equivaleva in fondo a dire questo:
+che un [[donkey|asino]] poteva precedere tutti i cavalli del mondo quando esso
+andava davvero al tempio.  Il [[Romance|Romanzesco]] è un santo [[donkey|asino]]
+che va al tempio.  Il Realismo è un [[donkey|asino]] smarrito che non va in nessun luogo.
 
 I frammenti di futile giornalismo o di fugace impressione qui
 raccolti somigliano molto ai relitti e ai blocchi spaccati
@@ -359,8 +359,8 @@ connettono tutte queste carte caotiche.  Ma si potrebbe enunciarli.
 Questa fila di mostri informi e sgraziati che ora pongo
 davanti al lettore non consiste di idoli separati intagliati
 capricciosamente in solitarie valli o in varie isole.
-Questi mostri sono destinati a essere le gargolle di una precisa [[settings/cathedral|cattedrale]].
-Devo intagliare le gargolle, perché non so intagliare altro;
+Questi mostri sono destinati a essere le [[gargoyles|gargolle]] di una precisa [[settings/cathedral|cattedrale]].
+Devo intagliare le [[gargoyles|gargolle]], perché non so intagliare altro;
 lascio ad altri gli angeli e gli archi e le guglie.
 Ma sono ben certo dello stile dell'architettura e della
 consacrazione della chiesa.

@@ -39,7 +39,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/combat-strife|Combat Strife]]
-**Archetypes:** [[archetypes/temptress|Temptress]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/lover|Lover]]
+**Archetypes:** Temptress, (Reputed) Fallen Woman, Lover
 **Motifs:** [[motifs/tears|Tears]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/river|River]], [[motifs/flowers|Flowers]], [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/deception|Deception]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/beauty|Beauty]], [[concepts/temptation|Temptation]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/rhyme-royal|Rhyme Royal]], [[forms/lyric|Lyric]]

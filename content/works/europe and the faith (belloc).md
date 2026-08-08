@@ -52,8 +52,8 @@ tags:
 **Motifs:** [[motifs/cross|Cross]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/bells|Bells]]
 **Historical References:** [[historical-references/catholic-church|Catholic Church]], [[settings/ancient-rome|Ancient Rome]], [[historical-references/reformation|Reformation]], [[historical-references/medieval-england|Medieval England]], [[historical-references/crusades|Crusades]], [[historical-references/first-world-war|First World War]]
 **Settings:** [[settings/ancient-rome|Ancient Rome]], [[settings/medieval-england-(2)|Medieval England (2)]]
-**Characters:** [[characters/thomas-becket|Thomas Becket]], [[characters/the-pope|The Pope]]
-**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/prophet|Prophet]]
+**Characters:** Thomas Becket, The Pope
+**Archetypes:** Martyr Saint, Prophet
 **Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 
 **Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

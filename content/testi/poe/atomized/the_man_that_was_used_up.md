@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_man_that_was_used_up" data-title="The Man That Was Used Up" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-man-that-was-used-up-(poe)|The Man That Was Used Up]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -35,7 +35,7 @@ Non riesco proprio a ricordare quando o dove abbia fatto quella cosa per la prim
 
 Conoscenza di quel vero e proprio bell’uomo, il Brigadiere Brevettato
 
-Il generale John A. B. C. Smith. Qualcuno mi ha davvero presentato a lui.
+Il generale John A. B. C. [[smith|Smith]]. Qualcuno mi ha davvero presentato a lui.
 
 “Signore, sono certo che in qualche riunione pubblica…”
 
@@ -73,7 +73,7 @@ Singularmente imponente. C’era un’aria di distinzione che permeava l’ambie
 
 Uomo completo… che parlava di nobili origini e lasciava intendere qualcosa di elevato…
 
-Nascita. Sull’argomento dellafisica personale di Smith, io.
+Nascita. Sull’argomento della[[smith|fisica personale]] di Smith, io.
 
 Prova una sorta di soddisfazione malinconica nel essere insignificante. La sua testa.
 
@@ -148,7 +148,7 @@ La parte posteriore della fibula e la sua relazione con la corretta conformazion
 Titolo:  
 Chiponchipino, lo scultore, aveva visto soltanto le gambe di Brevet
 
-Generale di Brigata John A. B. C. Smith.
+Generale di Brigata John A. B. C. [[smith|Smith]].
 
 
 
@@ -187,7 +187,7 @@ Dignità di proporzioni colossali.
 
 
 
-Quel gentile amico che mi presentò al generale Smith sussurrò all’orecchio mio.
+Quel gentile amico che mi presentò al generale [[smith|Smith]] sussurrò all’orecchio mio.
 
 Alcune parole di commento su quell’uomo… Era davvero _notevole_.
 
@@ -246,7 +246,7 @@ Emozionato per l’[[archetypes/hero|eroe]] della campagna di Bugaboo e Kickapoo
 
 Tuttavia, la conversazione deliziosamente vivace di Brevet…
 
-Il generale di brigata John A. B. C. Smith presto dissipò completamente ogni dubbio o preoccupazione.
+Il generale di brigata John A. B. C. [[smith|Smith]] presto dissipò completamente ogni dubbio o preoccupazione.
 
 Questo dolore… Il mio amico se n’è andato all’improvviso, e abbiamo passato un momento davvero difficile.
 
@@ -315,7 +315,7 @@ In senso figurato, come, ah, cavallette, proprio come le cavallette, signore.
 
 Thompson… non è certo il mio nome; ma non c’è bisogno di dirlo.
 
-che ho suscitato nel Generale Smith un maggiore interesse per quell’uomo.
+che ho suscitato nel Generale [[smith|Smith]] un maggiore interesse per quell’uomo.
 
 Con un’alta stima delle proprie capacità conversazionali, e una profonda…
 
@@ -351,7 +351,7 @@ Mi sono congratulato con me stesso, e con tutto il diritto di farlo, per il fatt
 
 Una situazione lusinghiera… Se solo qualcuno sapesse davvero cosa sta succedendo…
 
-Brevetto di Generale di Brigata a John A. B. C. Smith, quella persona.
+Brevetto di Generale di Brigata a John A. B. C. [[smith|Smith]], quella persona.
 
 Per me era chiaro: si trattava di Miss Tabitha T. Abbiamo scambiato alcuni messaggi via telegrafo.
 
@@ -359,9 +359,9 @@ E poi iniziarono, _a bassa voce_, un vivace _duello di parole_.
 
 
 
-“Smith!”, rispose lei alla mia domanda molto seria.
+“[[smith|Smith]]!”, rispose lei alla mia domanda molto seria.
 
-“Smith! — Perché no, il generale John A. B. C.? Mio Dio, pensavo fossi.
+“[[smith|Smith]]! — Perché no, il generale John A. B. C.? Mio Dio, pensavo fossi.
 
 _Sapevo_ tutto su di lui! Quest’è un’epoca davvero piena di inventiva!
 
@@ -369,7 +369,7 @@ Che orrore! Una banda di miserabili…
 
 I Kickapoos, combatterono come veri [[archetypes/hero|eroi]]; furono dei prodigi di coraggio, guadagnarono una fama immortale.
 
-Smith! — Generale di brigata brevettato John A. B. C.! Ma sai bene che lui è.
+[[smith|Smith]]! — Generale di brigata brevettato John A. B. C.! Ma sai bene che lui è.
 
 L’uomo…
 
@@ -416,13 +416,13 @@ Incidenti del genere hanno completamente trascurato l’importanza della scena t
 
 
 
-“Smith!” esclamò la signorina Arabella, quando finalmente capì.
+“[[smith|Smith]]!” esclamò la signorina Arabella, quando finalmente capì.
 
-Lo scopo della mia domanda è questo: “Smith!. Perché non il generale John A. B. C.?”
+Lo scopo della mia domanda è questo: “[[smith|Smith]]!. Perché non il generale John A. B. C.?”
 
 
 
-“Smith!”, chiese [[characters/miranda|Miranda]] con aria pensierosa. “Dio mi aiuti, l’hai mai incontrato?”
+“[[smith|Smith]]!”, chiese [[characters/miranda|Miranda]] con aria pensierosa. “Dio mi aiuti, l’hai mai incontrato?”
 
 “Ecco una figura ancora più elegante…”
 
@@ -458,11 +458,11 @@ Apprezzamento per gli effetti scenici?
 
 
 
-“Smith!”, disse lei, “Ma perché non il generale John A. B. C.? Che situazione orribile, ”
+“[[smith|Smith]]!”, disse lei, “Ma perché non il generale John A. B. C.? Che situazione orribile, ”
 
 “Quei maledetti Bugaboos… selvaggi e orribili, vero?”
 
-Sì, ma viviamo in un’epoca meravigliosamente inventiva! — Smith! — Oh sì!
+Sì, ma viviamo in un’epoca meravigliosamente inventiva! — [[smith|Smith]]! — Oh sì!
 
 “Grande uomo! – Disperato perfetto! – Gloria immortale! – Miracoli…”
 
@@ -508,7 +508,7 @@ Per la mia tranquillità.
 
 
 
-“Smith!”, disse il mio compagno, “ma perché non il generale John A. B. C.? Terribile, ”
+“[[smith|Smith]]!”, disse il mio compagno, “ma perché non il generale John A. B. C.? Terribile, ”
 
 Affare che… diamanti, hai detto?… terribili miserabili.
 
@@ -545,7 +545,7 @@ Me ne andai… Non c’era alcuna possibilità di sentire nulla in più.
 
 Quella sera, riguardo al tenente generale di brevetto John A. B. C.
 
-Smith.
+[[smith|Smith]].
 
 
 
@@ -559,9 +559,9 @@ Angelo, la graziosa signora Pirouette.
 
 
 
-“Smith!” disse la signora P., mentre ci giravamo insieme in un _pas de trois_.
+“[[smith|Smith]]!” disse la signora P., mentre ci giravamo insieme in un _pas de trois_.
 
-Zephyr_, “Smith!. Perché non il Generale John A. B. C.? Terribile.
+Zephyr_, “[[smith|Smith]]!. Perché non il Generale John A. B. C.? Terribile.
 
 “Un affare davvero spaventoso… quei terribili Bugaboos, non è vero?”
 
@@ -573,7 +573,7 @@ Età dell’invenzione… Oh mio Dio, sono senza fiato… davvero notevole.
 
 Desperati e prodigi di valore… Mai sentiti prima… Incredibile!
 
-Dovrò sedermi e spiegarvi tutto. Smith! In fondo, è lui il responsabile.
+Dovrò sedermi e spiegarvi tutto. [[smith|Smith]]! In fondo, è lui il responsabile.
 
 Uomo…
 
@@ -597,7 +597,7 @@ Prontezza… il vero titolo era “L’Uomo di Venerdì”, e non altro.
 
 Fred l’Uomo – ma quando tornai per cercare la signora Pirouette…
 
-Non doveva essere scoperto, quindi me ne andai dalla casa.
+Non doveva essere scoperto, quindi me ne andai dalla [[house|casa]].
 
 Un odio amaro e profondo verso l’intera razza…
 
@@ -615,9 +615,9 @@ Informazioni definitive.
 
 
 
-“Smith!”, disse lui, nel suo tipico modo caratteristico di prolungare le parole.
+“[[smith|Smith]]!”, disse lui, nel suo tipico modo caratteristico di prolungare le parole.
 
-Le sue sillabe, “Smith! – Perché no, il Generale John A. B. C., invece? Che barbarie, ”
+Le sue sillabe, “[[smith|Smith]]! – Perché no, il Generale John A. B. C., invece? Che barbarie, ”
 
 L’affare con i Kickapoos, giusto? Dai, dimmi…
 
@@ -635,7 +635,7 @@ Hai mai sentito parlare del Capitano Ma-a-a-a-n?
 
 “Ehm! — oh, beh, — esattamente la stessa cosa, come diciamo noi in Francia.”
 
-Smith, eh? Generale di brigata John A.—B.—C.? Dico io, —[qui il signor S.]
+[[smith|Smith]], eh? Generale di brigata John A.—B.—C.? Dico io, —[qui il signor S.]
 
 “Penso sia giusto mettere un dito vicino al naso…” — “Dico io…”
 
@@ -643,7 +643,7 @@ Non vuoi davvero insinuare questo, sul serio…
 
 Consciamente… perché non sai tutto su quella faccenda.
 
-La famiglia di Smith, proprio come la mia, eh? Smith? John A—B—C.? Ma santo cielo.
+La famiglia di [[smith|Smith]], proprio come la mia, eh? [[smith|Smith]]? John A—B—C.? Ma santo cielo.
 
 “Lui è il ma-a-an…”
 
@@ -661,7 +661,7 @@ La famiglia di Smith, proprio come la mia, eh? Smith? John A—B—C.? Ma santo 
 
 Questa risposta l’ho considerata un insulto diretto e offensivo, quindi…
 
-Uscì immediatamente dalla casa, furioso e con la ferma determinazione di.
+Uscì immediatamente dalla [[house|casa]], furioso e con la ferma determinazione di.
 
 "Chiami subito il mio amico, il signor Sinivate, e chiedigli spiegazioni per quanto ha fatto."
 
@@ -833,7 +833,7 @@ Ora iniziai chiaramente a comprendere che l’oggetto davanti a me…
 
 Il titolo è: “Nient’altro che il mio nuovo conoscente, Brevet”.
 
-Generale di Brigata John A. B. C. Smith. Le manipolazioni di.
+Generale di Brigata John A. B. C. [[smith|Smith]]. Le manipolazioni di.
 
 Devo ammettere che [[characters/pompey|Pompeo]] aveva apportato una differenza davvero notevole.
 
@@ -895,7 +895,7 @@ Affari… con una piena comprensione del mistero che li avvolgeva.
 
 Mi ha turbato per molto tempo… Era evidente, si trattava di un caso chiaro e senza dubbi. Brevetto.
 
-Il generale di brigata John A. B. C. Smith era l’uomo. Era proprio lui quell’uomo.
+Il generale di brigata John A. B. C. [[smith|Smith]] era l’uomo. Era proprio lui quell’uomo.
 
 Quello era esaurito.
 
@@ -922,7 +922,7 @@ I cannot just now remember when or where I first made the
 
 acquaintance of that truly fine-looking fellow, Brevet Brigadier
 
-General John A. B. C. Smith. Some one _did_ introduce me to the
+General John A. B. C. [[smith|Smith]]. Some one _did_ introduce me to the
 
 gentleman, I am sure—at some public meeting, I know very
 
@@ -958,7 +958,7 @@ singularly commanding. There was an _air distingué_ pervading the
 
 whole man, which spoke of high breeding, and hinted at high
 
-birth. Upon this topic—the topic of Smith’s personal appearance—I
+birth. Upon this topic—the topic of [[smith|Smith]]’s personal appearance—I
 
 have a kind of [[concepts/melancholy|melancholy]] satisfaction in being minute. His head
 
@@ -1028,7 +1028,7 @@ proportioned calf. I wish to God my young and talented friend
 
 Chiponchipino, the sculptor, had but seen the legs of Brevet
 
-Brigadier General John A. B. C. Smith.
+Brigadier General John A. B. C. [[smith|Smith]].
 
 
 
@@ -1066,7 +1066,7 @@ dignity of colossal proportion.
 
 
 
-The kind friend who presented me to General Smith whispered in my
+The kind friend who presented me to General [[smith|Smith]] whispered in my
 
 ear some few words of comment upon the man. He was a _remarkable_
 
@@ -1117,7 +1117,7 @@ Non riesco proprio a ricordare quando o dove abbia fatto quella cosa per la prim
 
 Conoscenza di quel vero e proprio bell’uomo, il Brigadiere Brevettato
 
-Il generale John A. B. C. Smith. Qualcuno mi ha davvero presentato a lui.
+Il generale John A. B. C. [[smith|Smith]]. Qualcuno mi ha davvero presentato a lui.
 
 “Signore, sono certo che in qualche riunione pubblica…”
 
@@ -1155,7 +1155,7 @@ Singularmente imponente. C’era un’aria di distinzione che permeava l’ambie
 
 Uomo completo… che parlava di nobili origini e lasciava intendere qualcosa di elevato…
 
-Nascita. Sull’argomento dellafisica personale di Smith, io.
+Nascita. Sull’argomento della[[smith|fisica personale]] di Smith, io.
 
 Prova una sorta di soddisfazione malinconica nel essere insignificante. La sua testa.
 
@@ -1230,7 +1230,7 @@ La parte posteriore della fibula e la sua relazione con la corretta conformazion
 Titolo:  
 Chiponchipino, lo scultore, aveva visto soltanto le gambe di Brevet
 
-Generale di Brigata John A. B. C. Smith.
+Generale di Brigata John A. B. C. [[smith|Smith]].
 
 
 
@@ -1269,7 +1269,7 @@ Dignità di proporzioni colossali.
 
 
 
-Quel gentile amico che mi presentò al generale Smith sussurrò all’orecchio mio.
+Quel gentile amico che mi presentò al generale [[smith|Smith]] sussurrò all’orecchio mio.
 
 Alcune parole di commento su quell’uomo… Era davvero _notevole_.
 
@@ -1333,7 +1333,7 @@ excited in the [[archetypes/hero|hero]] of the Bugaboo and Kickapoo campaign.
 
 However, the delightfully luminous conversation of Brevet
 
-Brigadier General John A. B. C. Smith soon completely dissipated
+Brigadier General John A. B. C. [[smith|Smith]] soon completely dissipated
 
 this chagrin. My friend leaving us immediately, we had quite a
 
@@ -1399,7 +1399,7 @@ Thompson—about us and ah—ah—ah—around us!”
 
 Thompson, to be sure, is not my name; but it is needless to say
 
-that I left General Smith with a heightened interest in the man,
+that I left General [[smith|Smith]] with a heightened interest in the man,
 
 with an exalted opinion of his conversational powers, and a deep
 
@@ -1435,7 +1435,7 @@ I congratulated myself, and with much reason, upon the very
 
 flattering state of affairs. If any person knew anything about
 
-Brevet Brigadier General John A. B. C. Smith, that person, it was
+Brevet Brigadier General John A. B. C. [[smith|Smith]], that person, it was
 
 clear to me, was Miss Tabitha T. We telegraphed a few signals,
 
@@ -1443,9 +1443,9 @@ and then commenced, _sotto voce_, a brisk _tête-à-tête_.
 
 
 
-“Smith!” said she, in reply to my very earnest inquiry;
+“[[smith|Smith]]!” said she, in reply to my very earnest inquiry;
 
-“Smith!—why, not General John A. B. C.? Bless me, I thought you
+“[[smith|Smith]]!—why, not General John A. B. C.? Bless me, I thought you
 
 _knew_ all about _him!_ This is a wonderfully inventive age!
 
@@ -1453,7 +1453,7 @@ Horrid affair that!—a bloody set of wretches, those
 
 Kickapoos!—fought like a [[archetypes/hero|hero]]—prodigies of valor—immortal renown.
 
-Smith!—Brevet Brigadier General John A. B. C.! why, you know he’s
+[[smith|Smith]]!—Brevet Brigadier General John A. B. C.! why, you know he’s
 
 the man—”
 
@@ -1491,7 +1491,7 @@ affability and omniscience, the Misses Arabella and [[characters/miranda|Miranda
 
 Cognoscenti. That fine tragedian, Climax, was doing [[characters/iago|Iago]] to a
 
-very crowded house, and I experienced some little difficulty in
+very crowded [[house]], and I experienced some little difficulty in
 
 making my wishes understood; especially, as our box was next the
 
@@ -1526,7 +1526,7 @@ Emozionato per l’[[archetypes/hero|eroe]] della campagna di Bugaboo e Kickapoo
 
 Tuttavia, la conversazione deliziosamente vivace di Brevet…
 
-Il generale di brigata John A. B. C. Smith presto dissipò completamente ogni dubbio o preoccupazione.
+Il generale di brigata John A. B. C. [[smith|Smith]] presto dissipò completamente ogni dubbio o preoccupazione.
 
 Questo dolore… Il mio amico se n’è andato all’improvviso, e abbiamo passato un momento davvero difficile.
 
@@ -1595,7 +1595,7 @@ In senso figurato, come, ah, cavallette, proprio come le cavallette, signore.
 
 Thompson… non è certo il mio nome; ma non c’è bisogno di dirlo.
 
-che ho suscitato nel Generale Smith un maggiore interesse per quell’uomo.
+che ho suscitato nel Generale [[smith|Smith]] un maggiore interesse per quell’uomo.
 
 Con un’alta stima delle proprie capacità conversazionali, e una profonda…
 
@@ -1631,7 +1631,7 @@ Mi sono congratulato con me stesso, e con tutto il diritto di farlo, per il fatt
 
 Una situazione lusinghiera… Se solo qualcuno sapesse davvero cosa sta succedendo…
 
-Brevetto di Generale di Brigata a John A. B. C. Smith, quella persona.
+Brevetto di Generale di Brigata a John A. B. C. [[smith|Smith]], quella persona.
 
 Per me era chiaro: si trattava di Miss Tabitha T. Abbiamo scambiato alcuni messaggi via telegrafo.
 
@@ -1639,9 +1639,9 @@ E poi iniziarono, _a bassa voce_, un vivace _duello di parole_.
 
 
 
-“Smith!”, rispose lei alla mia domanda molto seria.
+“[[smith|Smith]]!”, rispose lei alla mia domanda molto seria.
 
-“Smith! — Perché no, il generale John A. B. C.? Mio Dio, pensavo fossi.
+“[[smith|Smith]]! — Perché no, il generale John A. B. C.? Mio Dio, pensavo fossi.
 
 _Sapevo_ tutto su di lui! Quest’è un’epoca davvero piena di inventiva!
 
@@ -1649,7 +1649,7 @@ Che orrore! Una banda di miserabili…
 
 I Kickapoos, combatterono come veri [[archetypes/hero|eroi]]; furono dei prodigi di coraggio, guadagnarono una fama immortale.
 
-Smith! — Generale di brigata brevettato John A. B. C.! Ma sai bene che lui è.
+[[smith|Smith]]! — Generale di brigata brevettato John A. B. C.! Ma sai bene che lui è.
 
 L’uomo…
 
@@ -1701,13 +1701,13 @@ slips, and completely overlooked the stage.
 
 
 
-“Smith!” said Miss Arabella, as she at length comprehended the
+“[[smith|Smith]]!” said Miss Arabella, as she at length comprehended the
 
-purport of my query; “Smith!—why, not General John A. B. C.?”
+purport of my query; “[[smith|Smith]]!—why, not General John A. B. C.?”
 
 
 
-“Smith!” inquired [[characters/miranda|Miranda]], musingly. “God bless me, did you ever
+“[[smith|Smith]]!” inquired [[characters/miranda|Miranda]], musingly. “God bless me, did you ever
 
 behold a finer figure?”
 
@@ -1743,11 +1743,11 @@ so good as to look at that leg!”
 
 
 
-“Smith!” said she, “why, not General John A. B. C.? Horrid affair
+“[[smith|Smith]]!” said she, “why, not General John A. B. C.? Horrid affair
 
 that, wasn’t it?—great wretches, those Bugaboos—savage and so
 
-on—but we live in a wonderfully inventive age!—Smith!—O yes!
+on—but we live in a wonderfully inventive age!—[[smith|Smith]]!—O yes!
 
 great man!—perfect desperado!—immortal renown!—prodigies of
 
@@ -1793,7 +1793,7 @@ to my peace.
 
 
 
-“Smith!” said my partner, “why, not General John A. B. C.? Horrid
+“[[smith|Smith]]!” said my partner, “why, not General John A. B. C.? Horrid
 
 affair that, wasn’t it?—diamonds, did you say?—terrible wretches
 
@@ -1829,7 +1829,7 @@ I—I went off. There was no chance of hearing anything farther
 
 that evening in regard to Brevet Brigadier General John A. B. C.
 
-Smith.
+[[smith|Smith]].
 
 
 
@@ -1843,9 +1843,9 @@ angel, the graceful Mrs. Pirouette.
 
 
 
-“Smith!” said Mrs. P., as we twirled about together in a _pas de
+“[[smith|Smith]]!” said Mrs. P., as we twirled about together in a _pas de
 
-zephyr_, “Smith!—why, not General John A. B. C.? Dreadful
+zephyr_, “[[smith|Smith]]!—why, not General John A. B. C.? Dreadful
 
 business that of the Bugaboos, wasn’t it?—dreadful creatures,
 
@@ -1857,7 +1857,7 @@ age for invention—O dear me, I’m out of breath—quite a
 
 desperado—prodigies of valor—_never heard!_—can’t believe it—I
 
-shall have to sit down and enlighten you—Smith! why, he’s the
+shall have to sit down and enlighten you—[[smith|Smith]]! why, he’s the
 
 man—”
 
@@ -1881,7 +1881,7 @@ promptness, that the true title was Man-_Friday_, and not by any
 
 means Man-_Fred_, yet when I returned to seek Mrs. Pirouette she
 
-was not to be discovered, and I made my retreat from the house in
+was not to be discovered, and I made my retreat from the [[house]] in
 
 a very bitter spirit of animosity against the whole race of the
 
@@ -1899,9 +1899,9 @@ definite information.
 
 
 
-“Smith!” said he, in his [[motifs/well|well]]-known peculiar way of drawling out
+“[[smith|Smith]]!” said he, in his [[motifs/well|well]]-known peculiar way of drawling out
 
-his syllables; “Smith!—why, not General John A. B. C.? Savage
+his syllables; “[[smith|Smith]]!—why, not General John A. B. C.? Savage
 
 affair that with the Kickapo-o-o-os, wasn’t it? Say! don’t you
 
@@ -1919,7 +1919,7 @@ by, did you ever hear about Captain Ma-a-a-a-n?”
 
 “Hem!—oh [[motifs/well|well]]!—quite _la même cho-o-ose_, as we say in France.
 
-Smith, eh? Brigadier-General John A.—B.—C.? I say”—[here Mr. S.
+[[smith|Smith]], eh? Brigadier-General John A.—B.—C.? I say”—[here Mr. S.
 
 thought proper to put his finger to the side of his nose]—“I say,
 
@@ -1927,7 +1927,7 @@ you don’t mean to insinuate now, really and truly, and
 
 conscientiously, that you don’t know all about that affair of
 
-Smith’s, as [[motifs/well|well]] as I do, eh? Smith? John A—B—C.? Why, bless me,
+[[smith|Smith]]’s, as [[motifs/well|well]] as I do, eh? [[smith|Smith]]? John A—B—C.? Why, bless me,
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1936,13 +1936,13 @@ Incidenti del genere hanno completamente trascurato l’importanza della scena t
 
 
 
-“Smith!” esclamò la signorina Arabella, quando finalmente capì.
+“[[smith|Smith]]!” esclamò la signorina Arabella, quando finalmente capì.
 
-Lo scopo della mia domanda è questo: “Smith!. Perché non il generale John A. B. C.?”
+Lo scopo della mia domanda è questo: “[[smith|Smith]]!. Perché non il generale John A. B. C.?”
 
 
 
-“Smith!”, chiese [[characters/miranda|Miranda]] con aria pensierosa. “Dio mi aiuti, l’hai mai incontrato?”
+“[[smith|Smith]]!”, chiese [[characters/miranda|Miranda]] con aria pensierosa. “Dio mi aiuti, l’hai mai incontrato?”
 
 “Ecco una figura ancora più elegante…”
 
@@ -1978,11 +1978,11 @@ Apprezzamento per gli effetti scenici?
 
 
 
-“Smith!”, disse lei, “Ma perché non il generale John A. B. C.? Che situazione orribile, ”
+“[[smith|Smith]]!”, disse lei, “Ma perché non il generale John A. B. C.? Che situazione orribile, ”
 
 “Quei maledetti Bugaboos… selvaggi e orribili, vero?”
 
-Sì, ma viviamo in un’epoca meravigliosamente inventiva! — Smith! — Oh sì!
+Sì, ma viviamo in un’epoca meravigliosamente inventiva! — [[smith|Smith]]! — Oh sì!
 
 “Grande uomo! – Disperato perfetto! – Gloria immortale! – Miracoli…”
 
@@ -2028,7 +2028,7 @@ Per la mia tranquillità.
 
 
 
-“Smith!”, disse il mio compagno, “ma perché non il generale John A. B. C.? Terribile, ”
+“[[smith|Smith]]!”, disse il mio compagno, “ma perché non il generale John A. B. C.? Terribile, ”
 
 Affare che… diamanti, hai detto?… terribili miserabili.
 
@@ -2065,7 +2065,7 @@ Me ne andai… Non c’era alcuna possibilità di sentire nulla in più.
 
 Quella sera, riguardo al tenente generale di brevetto John A. B. C.
 
-Smith.
+[[smith|Smith]].
 
 
 
@@ -2079,9 +2079,9 @@ Angelo, la graziosa signora Pirouette.
 
 
 
-“Smith!” disse la signora P., mentre ci giravamo insieme in un _pas de trois_.
+“[[smith|Smith]]!” disse la signora P., mentre ci giravamo insieme in un _pas de trois_.
 
-Zephyr_, “Smith!. Perché non il Generale John A. B. C.? Terribile.
+Zephyr_, “[[smith|Smith]]!. Perché non il Generale John A. B. C.? Terribile.
 
 “Un affare davvero spaventoso… quei terribili Bugaboos, non è vero?”
 
@@ -2093,7 +2093,7 @@ Età dell’invenzione… Oh mio Dio, sono senza fiato… davvero notevole.
 
 Desperati e prodigi di valore… Mai sentiti prima… Incredibile!
 
-Dovrò sedermi e spiegarvi tutto. Smith! In fondo, è lui il responsabile.
+Dovrò sedermi e spiegarvi tutto. [[smith|Smith]]! In fondo, è lui il responsabile.
 
 Uomo…
 
@@ -2117,7 +2117,7 @@ Prontezza… il vero titolo era “L’Uomo di Venerdì”, e non altro.
 
 Fred l’Uomo – ma quando tornai per cercare la signora Pirouette…
 
-Non doveva essere scoperto, quindi me ne andai dalla casa.
+Non doveva essere scoperto, quindi me ne andai dalla [[house|casa]].
 
 Un odio amaro e profondo verso l’intera razza…
 
@@ -2135,9 +2135,9 @@ Informazioni definitive.
 
 
 
-“Smith!”, disse lui, nel suo tipico modo caratteristico di prolungare le parole.
+“[[smith|Smith]]!”, disse lui, nel suo tipico modo caratteristico di prolungare le parole.
 
-Le sue sillabe, “Smith! – Perché no, il Generale John A. B. C., invece? Che barbarie, ”
+Le sue sillabe, “[[smith|Smith]]! – Perché no, il Generale John A. B. C., invece? Che barbarie, ”
 
 L’affare con i Kickapoos, giusto? Dai, dimmi…
 
@@ -2155,7 +2155,7 @@ Hai mai sentito parlare del Capitano Ma-a-a-a-n?
 
 “Ehm! — oh, beh, — esattamente la stessa cosa, come diciamo noi in Francia.”
 
-Smith, eh? Generale di brigata John A.—B.—C.? Dico io, —[qui il signor S.]
+[[smith|Smith]], eh? Generale di brigata John A.—B.—C.? Dico io, —[qui il signor S.]
 
 “Penso sia giusto mettere un dito vicino al naso…” — “Dico io…”
 
@@ -2163,7 +2163,7 @@ Non vuoi davvero insinuare questo, sul serio…
 
 Consciamente… perché non sai tutto su quella faccenda.
 
-La famiglia di Smith, proprio come la mia, eh? Smith? John A—B—C.? Ma santo cielo.
+La famiglia di [[smith|Smith]], proprio come la mia, eh? [[smith|Smith]]? John A—B—C.? Ma santo cielo.
 
 
 
@@ -2186,7 +2186,7 @@ mask?”
 
 This reply I considered a pointed and positive insult, and so
 
-left the house at once in high dudgeon, with a firm resolve to
+left the [[house]] at once in high dudgeon, with a firm resolve to
 
 call my friend, Mr. Sinivate, to a speedy account for his
 
@@ -2356,7 +2356,7 @@ I now began very clearly to perceive that the object before me
 
 was nothing more nor less than my new acquaintance, Brevet
 
-Brigadier General John A. B. C. Smith. The manipulations of
+Brigadier General John A. B. C. [[smith|Smith]]. The manipulations of
 
 [[characters/pompey|Pompey]] had made, I must confess, a very striking difference in
 
@@ -2418,7 +2418,7 @@ affairs—with a full comprehension of the mystery which had
 
 troubled me so long. It was evident. It was a clear case. Brevet
 
-Brigadier General John A. B. C. Smith was the man—was _the man
+Brigadier General John A. B. C. [[smith|Smith]] was the man—was _the man
 
 that was used up_.
 
@@ -2441,7 +2441,7 @@ that was used up_.
 
 Questa risposta l’ho considerata un insulto diretto e offensivo, quindi…
 
-Uscì immediatamente dalla casa, furioso e con la ferma determinazione di.
+Uscì immediatamente dalla [[house|casa]], furioso e con la ferma determinazione di.
 
 "Chiami subito il mio amico, il signor Sinivate, e chiedigli spiegazioni per quanto ha fatto."
 
@@ -2613,7 +2613,7 @@ Ora iniziai chiaramente a comprendere che l’oggetto davanti a me…
 
 Il titolo è: “Nient’altro che il mio nuovo conoscente, Brevet”.
 
-Generale di Brigata John A. B. C. Smith. Le manipolazioni di.
+Generale di Brigata John A. B. C. [[smith|Smith]]. Le manipolazioni di.
 
 Devo ammettere che [[characters/pompey|Pompeo]] aveva apportato una differenza davvero notevole.
 
@@ -2675,6 +2675,6 @@ Affari… con una piena comprensione del mistero che li avvolgeva.
 
 Mi ha turbato per molto tempo… Era evidente, si trattava di un caso chiaro e senza dubbi. Brevetto.
 
-Il generale di brigata John A. B. C. Smith era l’uomo. Era proprio lui quell’uomo.
+Il generale di brigata John A. B. C. [[smith|Smith]] era l’uomo. Era proprio lui quell’uomo.
 
 Quello era esaurito.

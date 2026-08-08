@@ -102,7 +102,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/tyrant|Tyrant]], [[archetypes/corrupt-official|Corrupt Official]]
+**Archetypes:** Hero, Common Man (2), Tyrant, Corrupt Official
 
 **Settings:** [[settings/sea-(2)|Sea (2)]], [[settings/battlefield|Battlefield]], [[settings/italy|Italy]], [[settings/london|London]], [[settings/rural-england|Rural England]], [[settings/orient|Orient]], [[settings/mountains|Mountains]], [[motifs/ship|Ship]], [[settings/europe|Europe]]
 
@@ -111,7 +111,7 @@ tags:
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/joy|Joy]], [[concepts/doubt|Doubt]], [[concepts/satire-of-society|Satire of Society]], [[concepts/social-injustice|Social Injustice]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/heroism|Heroism]], [[concepts/christmas-and-the-nativity|Christmas and the Nativity]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/lyric|Lyric]], [[forms/ballad-ballade|Ballad Ballade]], [[forms/hymn|Hymn]], [[forms/narrative-poem|Narrative Poem]], [[forms/sonnet|Sonnet]], [[forms/ode|Ode]], [[forms/satire|Satire]], [[forms/translation|Translation]], [[forms/comic-verse-song|Comic Verse Song]], [[forms/verse-epistle|Verse Epistle]]
 **Historical References:** [[historical-references/battle-of-lepanto|Battle of Lepanto]], [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/islam|Islam]], [[historical-references/crusades|Crusades]], [[historical-references/french-revolution|French Revolution]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/king-alfred|King Alfred]], [[historical-references/reformation|Reformation]], [[historical-references/wars-of-the-roses|Wars of the Roses]]
-**Characters:** [[characters/don-john-of-austria|Don John of Austria]], [[characters/christ|Christ]], [[characters/don-quixote|Don Quixote]], [[historical-references/cervantes|Cervantes]], [[characters/f.e.-smith|F.E. Smith]], [[characters/walter-long|Walter Long]]
+**Characters:** Don John of Austria, Christ, Don Quixote, [[historical-references/cervantes|Cervantes]], F.E. Smith, Walter Long
 
 ## Testo integrale / Full text
 

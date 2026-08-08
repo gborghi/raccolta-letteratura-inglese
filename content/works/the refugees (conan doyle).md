@@ -90,8 +90,8 @@ tags:
 **Themes & Concepts:** [[concepts/religious-persecution|Religious Persecution]], [[concepts/exile|Exile]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/family-and-lineage|Family and Lineage]], [[concepts/honour|Honour]], [[concepts/history|History]]
 **Motifs:** [[motifs/journey|Journey]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/letters-and-writing|Letters and Writing]]
 **Settings:** [[settings/france|France]], [[settings/court|Court]], [[settings/american-frontier|American Frontier]], [[settings/canada|Canada]], [[settings/europe|Europe]]
-**Characters:** [[characters/amory-de-catinat|Amory de Catinat]], [[characters/adele-catinat|Adele Catinat]], [[characters/amos-green|Amos Green]], [[characters/louis-xiv|Louis XIV]]
-**Archetypes:** [[archetypes/king|King]], [[archetypes/hero|Hero]], [[archetypes/outsider|Outsider]]
+**Characters:** Amory de Catinat, Adele Catinat, Amos Green, Louis XIV
+**Archetypes:** King, Hero, Outsider
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]]
 
 **Also relevant to:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]]

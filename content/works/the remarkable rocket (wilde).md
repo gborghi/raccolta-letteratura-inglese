@@ -46,12 +46,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/vanitas|Vanitas]], [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/antihero|Antihero]]
+**Archetypes:** Fool, Antihero
 **Motifs:** [[motifs/fire|Fire]], [[motifs/animals|Animals]], [[motifs/marriage|Marriage]], [[motifs/white-and-red|White and Red]], [[motifs/water|Water]], [[motifs/moon|Moon]]
 **Themes & Concepts:** [[concepts/pride|Pride]], [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/alienation|Alienation]], [[concepts/deception|Deception]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/satire|Satire]], [[forms/fable|Fable]]
 **Settings:** [[settings/court|Court]]
-**Characters:** [[characters/remarkable-rocket|Remarkable Rocket]]
+**Characters:** Remarkable Rocket
 
 ## Testo integrale / Full text
 

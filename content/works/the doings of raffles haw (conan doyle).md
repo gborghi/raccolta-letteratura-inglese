@@ -55,5 +55,5 @@ tags:
 **Themes & Concepts:** [[concepts/greed-and-money|Greed and Money]], [[concepts/materialism|Materialism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/charity|Charity]], [[concepts/vanity-of-worldly-things|Vanity of Worldly Things]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/house-mansion|House Mansion]], [[motifs/great-house|Great House]], [[motifs/money-and-gold|Money and Gold]], [[motifs/gems-jewels|Gems Jewels]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
+**Archetypes:** Self-Made Man
 **Topoi:** [[topoi/vanitas|Vanitas]]

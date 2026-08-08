@@ -55,6 +55,6 @@ tags:
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/journey|Journey]], [[motifs/prison|Prison]]
 **Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/napoleon|Napoleon]]
 **Settings:** [[settings/france|France]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]], [[settings/battlefield|Battlefield]], [[settings/europe|Europe]]
-**Characters:** [[characters/brigadier-gerard|Brigadier Gerard]], [[characters/napoleon-bonaparte|Napoleon Bonaparte]]
-**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/fool|Fool]]
+**Characters:** Brigadier Gerard, Napoleon Bonaparte
+**Archetypes:** Hero, Fool
 **Topoi:** [[topoi/war-as-glory|War as Glory]]

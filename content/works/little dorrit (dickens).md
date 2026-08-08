@@ -61,13 +61,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/self-made-man|Self-Made Man]]
+**Archetypes:** Innocent, Martyr Saint, Corrupt Official, Self-Made Man
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/city|City]], [[motifs/light-and-dark|Light and Dark]], [[motifs/ruins-the-abbey|Ruins the Abbey]]
 **Themes & Concepts:** [[concepts/poverty|Poverty]], [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/satire-of-society|Satire of Society]], [[concepts/pride|Pride]], [[concepts/humility|Humility]], [[concepts/guilt|Guilt]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/romantic-love|Romantic Love]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/imprisonment|Imprisonment]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/novel|Novel]], [[forms/satire|Satire]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/amy-dorrit|Amy Dorrit]], [[characters/arthur-clennam|Arthur Clennam]], [[characters/william-dorrit|William Dorrit]], [[characters/mrs-clennam|Mrs Clennam]], [[characters/rigaud|Rigaud]], [[characters/mr-merdle|Mr Merdle]], [[characters/flora-finching|Flora Finching]], [[characters/mr-pancks|Mr Pancks]], [[characters/daniel-doyce|Daniel Doyce]]
+**Characters:** Amy Dorrit, Arthur Clennam, William Dorrit, Mrs Clennam, Rigaud, Mr Merdle, Flora Finching, Mr Pancks, Daniel Doyce
 
 ## Testo integrale / Full text
 

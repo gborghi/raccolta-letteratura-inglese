@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/birds-music-and-song-nightingale" data-author="Whitman" data-workhref="works/birds-·-music-and-song-·-nightingale-(whitman)"></div>
 
 
-<span class="atom-split" data-atom="032_one_hour_to_madness_and_joy" data-title="One Hour to Madness and Joy" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,topos/paradise_lost,motif/storm,concept/joy,concept/lust,concept/madness,form/free_verse,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
+<span class="atom-split" data-atom="032_one_hour_to_madness_and_joy" data-title="One Hour to Madness and Joy" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CHILDREN OF ADAM_  
@@ -56,7 +56,7 @@ With one brief hour of [[concepts/madness|madness]] and joy.
 
 
 
-<span class="atom-split" data-atom="105_to_the_man_of_war_bird" data-title="To the Man-of-War-Bird" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/the_sea,motif/storm,motif/dawn,concept/self_and_soul,form/free_verse,form/lyric,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
+<span class="atom-split" data-atom="105_to_the_man_of_war_bird" data-title="To the Man-of-War-Bird" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SEA-DRIFT_  
@@ -93,7 +93,7 @@ What joys! what joys were thine!
 
 
 
-<span class="atom-split" data-atom="125_the_dalliance_of_the_eagles" data-title="The Dalliance of the Eagles" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/nature,motif/river,concept/lust,form/free_verse,form/lyric,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
+<span class="atom-split" data-atom="125_the_dalliance_of_the_eagles" data-title="The Dalliance of the Eagles" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -117,7 +117,7 @@ She hers, he his, pursuing.
 
 
 
-<span class="atom-split" data-atom="145_from_paumanok_starting_i_fly_like_a_bird" data-title="From Paumanok Starting I Fly Like a Bird" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/music_and_song,concept/the_union,concept/nationalism_and_patriotism,form/song,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
+<span class="atom-split" data-atom="145_from_paumanok_starting_i_fly_like_a_bird" data-title="From Paumanok Starting I Fly Like a Bird" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -125,16 +125,16 @@ _Cluster: DRUM-TAPS_
 
 From Paumanok starting I fly like a bird,  
 Around and around to soar to sing the idea of all,  
-To the north betaking myself to sing there arctic songs,  
+To the north betaking myself to sing there arctic [[songs]],  
 To Kanada till I absorb Kanada in myself, to Michigan then,  
-To Wisconsin, Iowa, Minnesota, to sing their songs, (they are inimitable;)  
+To Wisconsin, Iowa, Minnesota, to sing their [[songs]], (they are inimitable;)  
 Then to Ohio and Indiana to sing theirs, to Missouri and Kansas and  
 Arkansas to sing theirs,  
 To Tennessee and Kentucky, to the Carolinas and Georgia to sing theirs,  
 To Texas and so along up toward California, to roam accepted everywhere;  
 To sing first, (to the tap of the war-drum if need be,)  
 The idea of all, of the Western world one and inseparable,  
-And then the song of each member of these States.  
+And then the [[Song|song]] of each member of these States.  
 
 
 
@@ -143,7 +143,7 @@ And then the song of each member of these States.
 
 
 
-<span class="atom-split" data-atom="190_reversals" data-title="Reversals" data-chapter="" data-kind="intro" data-tags="topos/world_upside_down,concept/reform,concept/social_injustice,concept/satire_of_society,form/fragment,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
+<span class="atom-split" data-atom="190_reversals" data-title="Reversals" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -161,7 +161,7 @@ Let a woman seek happiness everywhere except in herself
 
 
 
-<span class="atom-split" data-atom="204_vocalism" data-title="Vocalism" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/music_and_song,concept/the_body,concept/the_artist_and_society,concept/self_and_soul,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
+<span class="atom-split" data-atom="204_vocalism" data-title="Vocalism" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -214,13 +214,13 @@ slumbering forever ready in all words.
 
 
 
-<span class="atom-split" data-atom="222_the_ox_tamer" data-title="The Ox-Tamer" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/nature,concept/the_common_man,concept/nature_vs_civilization,setting/pastoral_countryside,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
+<span class="atom-split" data-atom="222_the_ox_tamer" data-title="The Ox-Tamer" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
 
 
-In a far-away northern county in the placid pastoral region,
+In a far-away northern county in the placid [[Pastoral|pastoral]] region,
 Lives my farmer friend, the theme of my recitative, a famous tamer of oxen,
 There they bring him the three-year-olds and the four-year-olds to
 break them,
@@ -243,10 +243,10 @@ How straight they watch their tamer--they wish him near them--how
 they turn to look after him!
 What yearning expression! how uneasy they are when he moves away from them;
 Now I marvel what it can be he appears to them, (books, politics,
-poems, depart--all else departs,)
+[[Poems|poems]], depart--all else departs,)
 I confess I envy only his fascination--my silent, illiterate friend,
 Whom a hundred oxen [[motifs/love|love]] there in his life on farms,
-In the northern county far, in the placid pastoral region.
+In the northern county far, in the placid [[Pastoral|pastoral]] region.
 
 
 
@@ -255,7 +255,7 @@ In the northern county far, in the placid pastoral region.
 
 
 
-<span class="atom-split" data-atom="224_wandering_at_morn" data-title="Wandering at Morn" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/music_and_song,motif/dawn,concept/nationalism_and_patriotism,concept/faith,concept/the_natural_order,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
+<span class="atom-split" data-atom="224_wandering_at_morn" data-title="Wandering at Morn" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -271,11 +271,11 @@ The singing thrush whose tones of joy and [[concepts/faith|faith]] ecstatic,
 Fail not to certify and cheer my [[motifs/soul|soul]].
 
 There ponder’d, felt I,
-If worms, snakes, loathsome grubs, may to sweet spiritual songs be turn’d,
+If worms, snakes, loathsome grubs, may to sweet spiritual [[songs]] be turn’d,
 If vermin so transposed, so used and bless’d may be,
 Then may I trust in you, your fortunes, days, my country;
 Who knows but these may be the lessons fit for you?
-From these your future song may rise with joyous trills,
+From these your future [[Song|song]] may rise with joyous trills,
 Destin’d to fill the world.
 
 
@@ -285,7 +285,7 @@ Destin’d to fill the world.
 
 
 
-<span class="atom-split" data-atom="225_italian_music_in_dakota" data-title="Italian Music in Dakota" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/nature,concept/nature_vs_civilization,concept/beauty,setting/the_american_frontier,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
+<span class="atom-split" data-atom="225_italian_music_in_dakota" data-title="Italian Music in Dakota" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -298,7 +298,7 @@ In dulcet streams, in flutes’ and cornets’ notes,
 Electric, pensive, turbulent, artificial,
 (Yet strangely fitting even here, meanings unknown before,
 Subtler than ever, more harmony, as if born here, related here,
-Not to the [[motifs/city|city]]’s fresco’d rooms, not to the audience of the opera house,
+Not to the [[motifs/city|city]]’s fresco’d rooms, not to the audience of the opera [[house]],
 Sounds, echoes, wandering strains, as really here at [[motifs/home|home]],
 Sonnambula’s [[archetypes/innocent|innocent]] [[motifs/love|love]], trios with Norma’s anguish,
 And thy ecstatic [[characters/chorus|chorus]] Poliuto;)
@@ -318,7 +318,7 @@ Listens [[motifs/well|well]] pleas’d.
 
 
 
-<span class="atom-split" data-atom="229_proud_music_of_the_storm" data-title="Proud Music of the Storm" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/music_and_song,motif/dreams,motif/sleep,motif/storm,concept/self_and_soul,concept/mortality,histref/the_crusades,histref/eastern_religion,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
+<span class="atom-split" data-atom="229_proud_music_of_the_storm" data-title="Proud Music of the Storm" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -344,9 +344,9 @@ Listen, lose not, it is toward thee they tend,
 Parting the midnight, entering my slumber-chamber,
 For thee they sing and [[motifs/dance|dance]] O [[motifs/soul|soul]].
 
-A festival song,
+A festival [[Song|song]],
 The duet of the bridegroom and the bride, a [[motifs/marriage|marriage]]-march,
-With lips of [[motifs/love|love]], and hearts of lovers fill’d to the brim with [[motifs/love|love]],
+With lips of [[motifs/love|love]], and hearts of [[lovers]] fill’d to the brim with [[motifs/love|love]],
 The red-flush’d cheeks and perfumes, the cortege swarming full of
 friendly faces young and old,
 To flutes’ clear notes and sounding harps’ cantabile.
@@ -408,10 +408,10 @@ The twittering bird, the hawk’s sharp scream,
 The wild-fowl’s notes at [[motifs/night|night]] as flying low migrating north or south,
 The psalm in the country church or mid the clustering trees, the
 open air camp-meeting,
-The fiddler in the tavern, the glee, the long-strung sailor-song,
+The fiddler in the tavern, the glee, the long-strung sailor-[[Song|song]],
 The lowing cattle, bleating sheep, the crowing cock at [[motifs/dawn|dawn]].
 
-All songs of current lands come sounding round me,
+All [[songs]] of current lands come sounding round me,
 The German airs of [[concepts/friendship|friendship]], wine and [[motifs/love|love]],
 Irish ballads, merry jigs and dances, English warbles,
 Chansons of France, Scotch tunes, and o’er the rest,
@@ -431,7 +431,7 @@ To crossing swords and gray hairs bared to heaven,
 The clear electric base and baritone of the world,
 The trombone duo, Libertad forever!
 From Spanish chestnut trees’ dense shade,
-By old and heavy convent walls a wailing song,
+By old and heavy convent walls a wailing [[Song|song]],
 [[works/song-(poe)|Song]] of lost [[motifs/love|love]], the torch of youth and life quench’d in [[concepts/despair|despair]],
 [[works/song-(poe)|Song]] of the dying swan, Fernando’s heart is breaking.
 
@@ -512,7 +512,7 @@ Utter, pour in, for I would take them all!
 Then I woke softly,
 And pausing, questioning awhile the music of my dream,
 And questioning all those reminiscences, the tempest in its fury,
-And all the songs of sopranos and tenors,
+And all the [[songs]] of sopranos and tenors,
 And those rapt oriental dances of religious fervor,
 And the sweet varied instruments, and the diapason of organs,
 And all the artless plaints of [[motifs/love|love]] and grief and [[motifs/death|death]],
@@ -542,7 +542,7 @@ Which let us go forth in the bold day and write.
 
 
 
-<span class="atom-split" data-atom="243_that_music_always_round_me" data-title="That Music Always Round Me" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/the_sea,concept/self_and_soul,concept/the_sublime,concept/wonder_and_gratitude,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
+<span class="atom-split" data-atom="243_that_music_always_round_me" data-title="That Music Always Round Me" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_
@@ -571,7 +571,7 @@ begin to know them.
 
 
 
-<span class="atom-split" data-atom="302_my_canary_bird" data-title="My Canary Bird" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/music_and_song,motif/the_book,concept/joy,concept/self_and_soul,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
+<span class="atom-split" data-atom="302_my_canary_bird" data-title="My Canary Bird" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_
@@ -590,7 +590,7 @@ Is it not just as great, O [[motifs/soul|soul]]?
 
 
 
-<span class="atom-split" data-atom="319_of_that_blithe_throat_of_thine" data-title="Of That Blithe Throat of Thine" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/winter,motif/music_and_song,motif/seasons,concept/faith,concept/joy,concept/self_and_soul,form/lyric,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
+<span class="atom-split" data-atom="319_of_that_blithe_throat_of_thine" data-title="Of That Blithe Throat of Thine" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -602,7 +602,7 @@ E’en the profoundest chill, as now--a torpid pulse, a brain unnerv’d,
 Old age land-lock’d within its [[motifs/winter|winter]] bay--(cold, cold, O cold!)  
 These snowy hairs, my feeble arm, my frozen feet,  
 For them thy [[concepts/faith|faith]], thy rule I take, and [[motifs/grave|grave]] it to the last;  
-Not [[motifs/summer|summer]]’s zones alone--not chants of youth, or south’s warm tides alone,  
+Not [[motifs/summer|summer]]’s zones [[Alone|alone]]--not chants of youth, or south’s warm tides [[Alone|alone]],  
 But held by sluggish floes, pack’d in the northern ice, the cumulus  
 of years,  
 These with gay heart I also sing.  

@@ -30,7 +30,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]]
-**Archetypes:** [[archetypes/lover|Lover]]
+**Archetypes:** Lover
 **Motifs:** [[motifs/marriage|Marriage]], [[motifs/love|Love]], [[motifs/fire|Fire]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/white-and-red|White and Red]]
 **Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/jealousy|Jealousy]], [[concepts/romantic-love|Romantic Love]], [[concepts/grief-and-loss|Grief and Loss]]
 **Forms & Genres:** [[forms/lyric|Lyric]], [[forms/comic-verse-song|Comic Verse Song]]

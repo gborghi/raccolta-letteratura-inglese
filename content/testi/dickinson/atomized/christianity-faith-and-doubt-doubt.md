@@ -308,7 +308,7 @@ A Species stands beyond —
 Invisible, as Music —  
 But positive, as Sound —  
 It beckons, and it baffles —  
-Philosophy — don't know —  
+[[philosophy|Philosophy]] — don't know —  
 And through a [[forms/riddle|Riddle]], at the last —  
 Sagacity, must go —  
 To guess it, puzzles scholars —  
@@ -368,7 +368,7 @@ Horizons — must ascend —
 And so I stepped upon the North  
 To see this Curious Friend —  
 
-His House was not — no sign had He —  
+His [[house|House]] was not — no sign had He —  
 By Chimney — nor by [[motifs/door|Door]]  
 Could I infer his Residence —  
 Vast Prairies of Air  
@@ -509,7 +509,7 @@ Their Glory — nought to me —
 'Twas best imperfect — as it was —  
 I'm finite — I can't see —  
 
-The House of Supposition —  
+The [[house|House]] of Supposition —  
 The Glimmering Frontier that  
 Skirts the Acres of Perhaps —  
 To Me — shows insecure —  
@@ -762,7 +762,7 @@ That we may be forgiven —
 For what, he is presumed to know —  
 The Crime, from us, is hidden —  
 Immured the whole of Life  
-Within a magic [[motifs/prison|Prison]]  
+Within a [[Magic|magic]] [[motifs/prison|Prison]]  
 We reprimand the Happiness  
 That too competes with Heaven.
 
@@ -775,7 +775,7 @@ That too competes with Heaven.
 There comes an hour when begging stops,  
 When the long interceding lips  
 Perceive their [[motifs/prayer|prayer]] is vain.  
-"Thou shalt not" is a kinder sword  
+"Thou shalt not" is a kinder [[Sword|sword]]  
 Than from a disappointing [[characters/god|God]]  
 "Disciple, call again."
 

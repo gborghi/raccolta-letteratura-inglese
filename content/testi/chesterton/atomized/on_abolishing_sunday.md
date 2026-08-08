@@ -23,7 +23,7 @@ Da Come to Think of It di G.K. Chesterton
 
 XXXIV.  Sull'abolire la [[characters/sunday|domenica]]
 
-LA notizia che il Governo bolscevico avesse abolito la [[characters/sunday|domenica]]
+LA notizia che il [[government|Governo]] bolscevico avesse abolito la [[characters/sunday|domenica]]
 poteva essere letta in vari modi.  Alcuni bolscevichi erano
 di quella stirpe da cui ci si sarebbe potuto aspettare la sostituzione col sabato.
 Altri hanno una marcata affinità intellettuale con la grande religione che,
@@ -71,7 +71,7 @@ aspettare che se ne stia ritto in piedi per ventiquattro ore di fila.
 Al filosofo progressista si potrà richiedere di camminare nel [[motifs/sleep|sonno]],
 e persino di parlare nel [[motifs/sleep|sonno]]; e, considerando ciò che dice e
 dove cammina, la cosa pare abbastanza probabile.  Comunque, lo stesso genere
-di filosofia disumanizzata che distrugge il ricorrere di un giorno
+di [[philosophy|filosofia]] disumanizzata che distrugge il ricorrere di un giorno
 ogni sette può [[motifs/well|ben]] disprezzare il ricorrere di sei ore ogni ventiquattro.
 Potremo vedere una vasta rivolta intellettuale contro la [[concepts/slavery|Schiavitù]] del [[motifs/sleep|Sonno]].
 Riesco a immaginare vividamente gli opuscoli e i manifesti; le elaborate
@@ -143,7 +143,7 @@ Non darebbero quel particolare senso di qualcosa di compiuto,
 o, almeno, di qualcosa di misurato; dell'immagine di Dio che riposa
 nel settimo giorno.  È un fatto psicologico che tale
 monotonia assumerebbe un carattere di follia matematica.
-Sarebbe come gli interminabili corridoi di un incubo.
+Sarebbe come gli interminabili corridoi di un [[nightmare|incubo]].
 Gli uomini l'hanno sempre saputo per istinto, i pagani [[motifs/well|non meno]] dei cristiani.
 E quando tutta l'umanità si è accordata sulla necessità di qualcosa,
 possiamo essere perfettamente certi che qualche sorta di umanitarista vorrà
@@ -160,7 +160,7 @@ From Come to Think of It by G.K.Chesterton
 
 XXXIV.  On Abolishing [[characters/sunday|Sunday]]
 
-THE report that the Bolshevist Government had abolished [[characters/sunday|Sunday]]
+THE report that the Bolshevist [[government|Government]] had abolished [[characters/sunday|Sunday]]
 might be read in several ways.  Some of the Bolshevists were
 of the race which might be expected to substitute Saturday.
 Others have a marked intellectual affinity to the great religion which,
@@ -208,7 +208,7 @@ be expected to stand upright for twenty-four hours on end.
 The progressive philosopher may be required to walk in his [[motifs/sleep|sleep]],
 and even to talk in his [[motifs/sleep|sleep]]; and, considering what he says and
 where he walks to, it seems likely enough.  Anyhow, the same sort
-of dehumanized philosophy which destroys the recurrence of one day
+of dehumanized [[philosophy]] which destroys the recurrence of one day
 in seven may [[motifs/well|well]] disregard the recurrence of six hours in twenty-four.
 We may see a vast intellectual revolt against the [[concepts/slavery|Slavery]] of [[motifs/sleep|Sleep]].
 I can vividly imagine the pamphlets and the posters; the elaborate
@@ -253,7 +253,7 @@ Da Come to Think of It di G.K. Chesterton
 
 XXXIV.  Sull'abolire la [[characters/sunday|domenica]]
 
-LA notizia che il Governo bolscevico avesse abolito la [[characters/sunday|domenica]]
+LA notizia che il [[government|Governo]] bolscevico avesse abolito la [[characters/sunday|domenica]]
 poteva essere letta in vari modi.  Alcuni bolscevichi erano
 di quella stirpe da cui ci si sarebbe potuto aspettare la sostituzione col sabato.
 Altri hanno una marcata affinità intellettuale con la grande religione che,
@@ -301,7 +301,7 @@ aspettare che se ne stia ritto in piedi per ventiquattro ore di fila.
 Al filosofo progressista si potrà richiedere di camminare nel [[motifs/sleep|sonno]],
 e persino di parlare nel [[motifs/sleep|sonno]]; e, considerando ciò che dice e
 dove cammina, la cosa pare abbastanza probabile.  Comunque, lo stesso genere
-di filosofia disumanizzata che distrugge il ricorrere di un giorno
+di [[philosophy|filosofia]] disumanizzata che distrugge il ricorrere di un giorno
 ogni sette può [[motifs/well|ben]] disprezzare il ricorrere di sei ore ogni ventiquattro.
 Potremo vedere una vasta rivolta intellettuale contro la [[concepts/slavery|Schiavitù]] del [[motifs/sleep|Sonno]].
 Riesco a immaginare vividamente gli opuscoli e i manifesti; le elaborate
@@ -378,7 +378,7 @@ They would not give that particular sense of something achieved,
 or, at least, of something measured; of the image of God resting
 on the seventh day.  it is a psychological fact that such
 monotony would take on a character as of mathematical insanity.
-It would be like the endless corridors of a nightmare.
+It would be like the endless corridors of a [[nightmare]].
 Men have always known this by instinct, Pagans as [[motifs/well|well]] as Christians.
 And when nil humanity has agreed on the necessity for some thing,
 we may be perfectly certain that some sort of humanitarian will want
@@ -423,7 +423,7 @@ Non darebbero quel particolare senso di qualcosa di compiuto,
 o, almeno, di qualcosa di misurato; dell'immagine di Dio che riposa
 nel settimo giorno.  È un fatto psicologico che tale
 monotonia assumerebbe un carattere di follia matematica.
-Sarebbe come gli interminabili corridoi di un incubo.
+Sarebbe come gli interminabili corridoi di un [[nightmare|incubo]].
 Gli uomini l'hanno sempre saputo per istinto, i pagani [[motifs/well|non meno]] dei cristiani.
 E quando tutta l'umanità si è accordata sulla necessità di qualcosa,
 possiamo essere perfettamente certi che qualche sorta di umanitarista vorrà

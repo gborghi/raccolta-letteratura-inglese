@@ -30,5 +30,5 @@ tags:
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]]
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/mentor|Mentor]]
+**Characters:** Sherlock Holmes, Doctor Watson
+**Archetypes:** Detective, Mentor

@@ -24,77 +24,77 @@ tags:
 - [[works/on-darwinism-and-mystery-(chesterton)|On Darwinism and Mystery (Chesterton)]]
 - [[works/nightmare-(chesterton)|nightmare (Chesterton)]]
 - [[works/thursday-(chesterton)|thursday (Chesterton)]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#196_alcaeus_to_sappho|ALCAEUS TO SAPPHO (Coleridge)]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#446_alla_sua_amica|ALLA SUA AMICA (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#190_apologia_pro_vita_sua|APOLOGIA PRO VITA SUA (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#423_ben_jonson_a_nymphs_passion|BEN JONSON A NYMPH’S PASSION (Coleridge)]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#290_grove_highgate_song_on_hearing_a_song_in_praise_of_a_ladys_beauty|GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY (Coleridge)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#161_hexameters|HEXAMETERS (Coleridge)]]
-- [[testi/coleridge/atomized/transience-decay-carpe-diem#359_inscription_for_a_time-piece|INSCRIPTION FOR A TIME-PIECE (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#245_reason_for_loves_blindness|REASON FOR LOVE’S BLINDNESS (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#248_time_real_and_imaginary|TIME, REAL AND IMAGINARY (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#333_to_a_critic|TO A CRITIC (Coleridge)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1018_who_saw_no_sunrise_cannot_say|1018. Who saw no Sunrise cannot say (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1039_i_heard_as_if_i_had_no_ear|1039. I heard, as if I had no Ear (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1195_what_we_see_we_know_somewhat|1195. What we see we know somewhat (Dickinson)]]
-- [[testi/dickinson/atomized/terror-and-horror-madness#1284_had_we_our_senses|1284. Had we our senses (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#1426_the_pretty_rain_from_those_sweet_eaves|1426. The pretty Rain from those sweet Eaves (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1490_the_face_in_evanescence_lain|1490. The Face in evanescence lain (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1496_all_that_i_do|1496. All that I do (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1650_a_lane_of_yellow_led_the_eye|1650. A lane of Yellow led the eye (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0167_to_learn_the_transport_by_the_pain|167. To learn the Transport by the Pain (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0181_i_lost_a_world_the_other_day|181. I lost a World — the other day! (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#0201_two_swimmers_wrestled_on_the_spar|201. Two swimmers wrestled on the spar — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0205_i_should_not_dare_to_leave_my_friend|205. I should not dare to leave my friend, (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0305_the_difference_between_despair|305. The difference between Despair (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0327_before_i_got_my_eye_put_out|327. Before I got my eye put out (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0351_i_felt_my_life_with_both_my_hands|351. I felt my life with both my hands (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0355_tis_opposites_entice|355. 'Tis Opposites — entice — (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0369_she_lay_as_if_at_play|369. She lay as if at play (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#0375_the_angle_of_a_landscape|375. The Angle of a Landscape — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0398_i_had_not_minded_walls|398. I had not minded — Walls — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0412_i_read_my_sentence_steadily|412. I read my sentence — steadily — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0419_we_grow_accustomed_to_the_dark|419. We grow accustomed to the Dark — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0420_youll_know_it_as_you_know_tis_noon|420. You'll know it — as you know 'tis Noon — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0421_a_charm_invests_a_face|421. A Charm invests a face (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0429_the_moon_is_distant_from_the_sea|429. The Moon is distant from the Sea — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0451_the_outer_from_the_inner|451. The Outer — from the Inner (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0458_like_eyes_that_looked_on_wastes|458. Like eyes that looked on Wastes — (Dickinson)]]
-- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0474_they_put_us_far_apart|474. They put Us far apart — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0500_within_my_garden_rides_a_bird|500. Within my Garden, rides a Bird (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0547_ive_seen_a_dying_eye|547. I've seen a Dying Eye (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0552_an_ignorance_a_sunset|552. An ignorance a Sunset (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0561_i_measure_every_grief_i_meet|561. I measure every Grief I meet (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0566_a_dying_tiger_moaned_for_drink|566. A Dying Tiger — moaned for Drink — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0571_must_be_a_woe|571. Must be a Woe — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0622_to_know_just_how_he_suffered_would_be_dear|622. To know just how He suffered — would be dear — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0625_twas_a_long_parting_but_the_time|625. 'Twas a long Parting — but the time (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0627_the_tint_i_cannot_take_is_best|627. The Tint I cannot take — is best — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0648_promise_this_when_you_be_dying|648. Promise This — When You be Dying — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0696_their_height_in_heaven_comforts_not|696. Their Height in Heaven comforts not — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0703_out_of_sight_what_of_that|703. Out of sight What of that (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0722_sweet_mountains_ye_tell_me_no_lie|722. Sweet Mountains — Ye tell Me no lie — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0745_renunciation_is_a_piercing_virtue|745. Renunciation — is a piercing Virtue — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0752_so_the_eyes_accost_and_sunder|752. So the Eyes accost — and sunder (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0758_these_saw_visions|758. These — saw Visions — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0788_joy_to_have_merited_the_pain|788. Joy to have merited the Pain — (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0840_i_cannot_buy_it_tis_not_sold|840. I cannot buy it — 'tis not sold — (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0894_of_consciousness_her_awful_mate|894. Of Consciousness, her awful Mate (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0906_the_admirations_and_contempts_of_time|906. The Admirations — and Contempts — of time — (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0971_robbed_by_death_but_that_was_easy|971. Robbed by Death — but that was easy — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0993_we_miss_her_not_because_we_see|993. We miss Her, not because We see — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0998_best_things_dwell_out_of_sight|998. Best Things dwell out of Sight (Dickinson)]]
-- [[testi/eliot/atomized/alienation-outsider-exile#052_eyes_that_last_i_saw_in_tears|Eyes that last I saw in tears (Eliot)]]
-- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#066_ix_son_of_man_behold_with_thine_eyes_and_hear_with_thine_ears|IX Son of Man, behold with thine eyes, and hear with thine ears (Eliot)]]
+- [[works/alcaeus-to-sappho-(coleridge)|ALCAEUS TO SAPPHO (Coleridge)]]
+- [[works/alla-sua-amica-(coleridge)|ALLA SUA AMICA (Coleridge)]]
+- [[works/apologia-pro-vita-sua-(coleridge)|APOLOGIA PRO VITA SUA (Coleridge)]]
+- [[works/ben-jonson-a-nymph’s-passion-(coleridge)|BEN JONSON A NYMPH’S PASSION (Coleridge)]]
+- [[works/grove,-highgate-song,-on-hearing-a-song-in-praise-of-a-lady’s-beauty-(coleridge)|GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY (Coleridge)]]
+- [[works/hexameters-(coleridge)|HEXAMETERS (Coleridge)]]
+- [[works/inscription-for-a-time-piece-(coleridge)|INSCRIPTION FOR A TIME-PIECE (Coleridge)]]
+- [[works/reason-for-love’s-blindness-(coleridge)|REASON FOR LOVE’S BLINDNESS (Coleridge)]]
+- [[works/time,-real-and-imaginary-(coleridge)|TIME, REAL AND IMAGINARY (Coleridge)]]
+- [[works/to-a-critic-(coleridge)|TO A CRITIC (Coleridge)]]
+- 1018. Who saw no Sunrise cannot say (Dickinson)
+- 1039. I heard, as if I had no Ear (Dickinson)
+- 1195. What we see we know somewhat (Dickinson)
+- 1284. Had we our senses (Dickinson)
+- 1426. The pretty Rain from those sweet Eaves (Dickinson)
+- 1490. The Face in evanescence lain (Dickinson)
+- 1496. All that I do (Dickinson)
+- 1650. A lane of Yellow led the eye (Dickinson)
+- 167. To learn the Transport by the Pain (Dickinson)
+- 181. I lost a World — the other day! (Dickinson)
+- 201. Two swimmers wrestled on the spar — (Dickinson)
+- 205. I should not dare to leave my friend, (Dickinson)
+- 305. The difference between Despair (Dickinson)
+- 327. Before I got my eye put out (Dickinson)
+- 351. I felt my life with both my hands (Dickinson)
+- 355. 'Tis Opposites — entice — (Dickinson)
+- 369. She lay as if at play (Dickinson)
+- 375. The Angle of a Landscape — (Dickinson)
+- 398. I had not minded — Walls — (Dickinson)
+- 412. I read my sentence — steadily — (Dickinson)
+- 419. We grow accustomed to the Dark — (Dickinson)
+- 420. You'll know it — as you know 'tis Noon — (Dickinson)
+- 421. A Charm invests a face (Dickinson)
+- 429. The Moon is distant from the Sea — (Dickinson)
+- 451. The Outer — from the Inner (Dickinson)
+- 458. Like eyes that looked on Wastes — (Dickinson)
+- 474. They put Us far apart — (Dickinson)
+- 500. Within my Garden, rides a Bird (Dickinson)
+- 547. I've seen a Dying Eye (Dickinson)
+- 552. An ignorance a Sunset (Dickinson)
+- 561. I measure every Grief I meet (Dickinson)
+- 566. A Dying Tiger — moaned for Drink — (Dickinson)
+- 571. Must be a Woe — (Dickinson)
+- 622. To know just how He suffered — would be dear — (Dickinson)
+- 625. 'Twas a long Parting — but the time (Dickinson)
+- 627. The Tint I cannot take — is best — (Dickinson)
+- 648. Promise This — When You be Dying — (Dickinson)
+- 696. Their Height in Heaven comforts not — (Dickinson)
+- 703. Out of sight What of that (Dickinson)
+- 722. Sweet Mountains — Ye tell Me no lie — (Dickinson)
+- 745. Renunciation — is a piercing Virtue — (Dickinson)
+- 752. So the Eyes accost — and sunder (Dickinson)
+- 758. These — saw Visions — (Dickinson)
+- 788. Joy to have merited the Pain — (Dickinson)
+- 840. I cannot buy it — 'tis not sold — (Dickinson)
+- 894. Of Consciousness, her awful Mate (Dickinson)
+- 906. The Admirations — and Contempts — of time — (Dickinson)
+- 971. Robbed by Death — but that was easy — (Dickinson)
+- 993. We miss Her, not because We see — (Dickinson)
+- 998. Best Things dwell out of Sight (Dickinson)
+- [[works/eyes-that-last-i-saw-in-tears-(eliot)|Eyes that last I saw in tears (Eliot)]]
+- [[works/ix-son-of-man,-behold-with-thine-eyes,-and-hear-with-thine-ears-(eliot)|IX Son of Man, behold with thine eyes, and hear with thine ears (Eliot)]]
 - [[works/minor-poems-(eliot)|MINOR POEMS (Eliot)]]
-- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#109_on_a_portrait|On a Portrait (Eliot)]]
+- [[works/on-a-portrait-(eliot)|On a Portrait (Eliot)]]
 - [[works/the-hollow-men-1925-(eliot)|THE HOLLOW MEN 1925 (Eliot)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#043_fill_for_me_a_brimming_bowl|Fill for me a brimming bowl (Keats)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#090_sonnet_to_homer|Sonnet to Homer (Keats)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#080_sonnet_written_in_answer_to_a_sonnet_ending_thus|Sonnet Written in Answer to a Sonnet Ending thus (Keats)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#005_to|TO (Keats)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#017_to_g_a_w|To G. A. W (Keats)]]
-- [[testi/keats/atomized/seasons-winter-autumn#063_to|To — (Keats)]]
+- [[works/fill-for-me-a-brimming-bowl-(keats)|Fill for me a brimming bowl (Keats)]]
+- [[works/sonnet-to-homer-(keats)|Sonnet to Homer (Keats)]]
+- [[works/sonnet-written-in-answer-to-a-sonnet-ending-thus-(keats)|Sonnet Written in Answer to a Sonnet Ending thus (Keats)]]
+- [[works/to-(keats)|TO (Keats)]]
+- [[works/to-g.-a.-w-(keats)|To G. A. W (Keats)]]
+- [[works/to-—-(keats)|To — (Keats)]]
 - [[works/a-predicament-(poe)|A Predicament (Poe)]]
 - [[works/a-valentine-(poe)|A Valentine (Poe)]]
 - [[works/berenice-(poe)|Berenice (Poe)]]
@@ -116,41 +116,41 @@ tags:
 - [[works/a-lover’s-complaint-(shakespeare)|A Lover’s Complaint (Shakespeare)]]
 - [[works/much-ado-about-nothing-(shakespeare)|MUCH ADO ABOUT NOTHING (Shakespeare)]]
 - [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_113|Sonnet 113 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_114|Sonnet 114 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_119|Sonnet 119 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_121|Sonnet 121 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_127|Sonnet 127 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_130|Sonnet 130 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_132|Sonnet 132 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_133|Sonnet 133 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_137|Sonnet 137 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_139|Sonnet 139 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_014|Sonnet 14 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_141|Sonnet 141 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_148|Sonnet 148 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_149|Sonnet 149 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_150|Sonnet 150 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_152|Sonnet 152 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_153|Sonnet 153 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_020|Sonnet 20 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_023|Sonnet 23 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_024|Sonnet 24 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_043|Sonnet 43 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_046|Sonnet 46 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_047|Sonnet 47 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_061|Sonnet 61 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_069|Sonnet 69 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_007|Sonnet 7 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_083|Sonnet 83 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_093|Sonnet 93 (Shakespeare)]]
+- Sonnet 113 (Shakespeare)
+- Sonnet 114 (Shakespeare)
+- Sonnet 119 (Shakespeare)
+- Sonnet 121 (Shakespeare)
+- Sonnet 127 (Shakespeare)
+- Sonnet 130 (Shakespeare)
+- Sonnet 132 (Shakespeare)
+- Sonnet 133 (Shakespeare)
+- Sonnet 137 (Shakespeare)
+- Sonnet 139 (Shakespeare)
+- Sonnet 14 (Shakespeare)
+- Sonnet 141 (Shakespeare)
+- Sonnet 148 (Shakespeare)
+- Sonnet 149 (Shakespeare)
+- Sonnet 150 (Shakespeare)
+- Sonnet 152 (Shakespeare)
+- Sonnet 153 (Shakespeare)
+- Sonnet 20 (Shakespeare)
+- Sonnet 23 (Shakespeare)
+- Sonnet 24 (Shakespeare)
+- Sonnet 43 (Shakespeare)
+- Sonnet 46 (Shakespeare)
+- Sonnet 47 (Shakespeare)
+- Sonnet 61 (Shakespeare)
+- Sonnet 69 (Shakespeare)
+- Sonnet 7 (Shakespeare)
+- Sonnet 83 (Shakespeare)
+- Sonnet 93 (Shakespeare)
 - [[works/the-history-of-king-lear---the-quarto-text-(shakespeare)|THE HISTORY OF KING LEAR - THE QUARTO TEXT (Shakespeare)]]
 - [[works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)|THE TRAGEDY OF KING LEAR - THE FOLIO TEXT (Shakespeare)]]
-- [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#057_city_of_orgies|City of Orgies (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#256_faces|Faces (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#123_i_sit_and_look_out|I Sit and Look Out (Whitman)]]
-- [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#173_o_tan_faced_prairie_boy|O Tan-Faced Prairie-Boy (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#060_to_a_stranger|To a Stranger (Whitman)]]
+- [[works/city-of-orgies-(whitman)|City of Orgies (Whitman)]]
+- [[works/faces-(whitman)|Faces (Whitman)]]
+- [[works/i-sit-and-look-out-(whitman)|I Sit and Look Out (Whitman)]]
+- [[works/o-tan-faced-prairie-boy-(whitman)|O Tan-Faced Prairie-Boy (Whitman)]]
+- [[works/to-a-stranger-(whitman)|To a Stranger (Whitman)]]
 - [[works/la-sainte-courtisane-(wilde)|La Sainte Courtisane (Wilde)]]
 - [[works/salome-(wilde)|Salome (Wilde)]]
 - [[works/the-birthday-of-the-infanta-(wilde)|The Birthday of the Infanta (Wilde)]]

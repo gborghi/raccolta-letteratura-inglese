@@ -58,9 +58,9 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Archetypes:** Pilgrim
 
-**Characters:** [[characters/hilaire-belloc|Hilaire Belloc]], [[characters/cecil-chesterton|Cecil Chesterton]], [[characters/h.-g.-wells|H. G. Wells]], [[historical-references/george-bernard-shaw|George Bernard Shaw]], [[characters/e.-c.-bentley|E. C. Bentley]]
+**Characters:** Hilaire Belloc, Cecil Chesterton, H. G. Wells, [[historical-references/george-bernard-shaw|George Bernard Shaw]], E. C. Bentley
 
 **Motifs:** [[motifs/childhood|Childhood]], [[motifs/memory|Memory]], [[motifs/journey|Journey]], [[motifs/the-golden-key|The Golden Key]]
 **Themes & Concepts:** [[concepts/conversion|Conversion]], [[concepts/faith|Faith]], [[concepts/memory-and-time|Memory and Time]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/friendship|Friendship]], [[concepts/paradox|Paradox]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/doubt|Doubt]], [[concepts/imagination|Imagination]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/history|History]]

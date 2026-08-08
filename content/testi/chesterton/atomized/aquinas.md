@@ -34,7 +34,7 @@ V THE REAL LIFE OF ST.  THOMAS
 
 VI THE APPROACH TO THOMISM
 
-VII THE PERMANENT PHILOSOPHY
+VII THE PERMANENT [[philosophy|PHILOSOPHY]]
 
 VIII THE SEQUEL TO ST.  THOMAS
 
@@ -76,8 +76,8 @@ But the whole is meant only for a rough [[forms/sketch|sketch]] of a figure in a
 landscape and not of a landscape with figures.
 
 Second, it follows that in any such simplification I can hardly say
-much of the philosopher beyond showing that he had a philosophy.
-I have only, so to speak, given samples of that philosophy.
+much of the philosopher beyond showing that he had a [[philosophy]].
+I have only, so to speak, given samples of that [[philosophy]].
 Lastly, it follows that it is practically impossible to deal adequately
 with the theology.  A lady I know picked up a book of selections
 from St. Thomas with a commentary; and began hopefully to read
@@ -87,7 +87,7 @@ His simplicity, I [[concepts/wonder|wonder]] what His complexity is like."
 With all respect to that excellent Thomistic commentary.
 I have no [[motifs/desire|desire]] to have this book laid down, at the very first glance,
 with a similar sigh.  I have taken the view that the [[forms/biography|biography]]
-is an introduction to the philosophy, and that the philosophy
+is an introduction to the [[philosophy]], and that the [[philosophy]]
 is an introduction to the theology; and that I can only carry
 the reader just beyond the first stage of the story.
 
@@ -124,10 +124,10 @@ Let me at once anticipate comment by answering to the name of that
 notorious character, who rushes in where even the Angels of the
 Angelic Doctor might [[concepts/fear|fear]] to tread.  Some [[motifs/time|time]] ago I wrote a little book
 of this type and shape on St. Francis of Assisi; and some [[motifs/time|time]] after
-(I know not when or how, as the song says, and certainly not why)
+(I know not when or how, as the [[Song|song]] says, and certainly not why)
 I promised to write a book of the same size, or the same smallness on
 St. Thomas [[characters/aquinas|Aquinas]].  The promise was Franciscan only in its rashness;
-and the parallel was very far from being Thomistic in its logic.
+and the parallel was very far from being Thomistic in its [[logic]].
 You can make a [[forms/sketch|sketch]] of St. Francis:  you could only make a plan
 of St. Thomas, like the plan of a labyrinthine [[motifs/city|city]].  And yet
 in a sense he would fit into a much larger or a much smaller book.
@@ -159,7 +159,7 @@ from the bow.  All his life was a series of plunges and scampers:
 darting after the beggar, dashing naked into the woods,
 tossing himself into the strange [[motifs/ship|ship]], hurling himself into
 the Sultan tent and offering to hurl himself into the [[motifs/fire|fire]].
-In appearance he must have been like a thin brown skeleton [[motifs/autumn|autumn]]
+In appearance he must have been like a thin brown [[skeleton]] [[motifs/autumn|autumn]]
 leaf dancing eternally before the [[motifs/wind|wind]]; but in [[concepts/truth|truth]] it was he that
 was the [[motifs/wind|wind]].
 
@@ -175,14 +175,14 @@ of schoolboy, not unknown, who would much rather be thought a dunce
 than have his own [[motifs/dreams|dreams]] invaded, by more active or animated dunces.
 This external contrast extends to almost every point in the
 two personalities.  It was the [[concepts/paradox|paradox]] of St. Francis that while he was
-passionately fond of poems, he was rather distrustful of books.
+passionately fond of [[Poems|poems]], he was rather distrustful of books.
 It was the outstanding fact about St. Thomas that he loved books
 and lived on books; that he lived the very life of the clerk or scholar
 in The Canterbury Tales, who would rather have a hundred books of
-Aristotle and his philosophy than any wealth the world could give him.
+Aristotle and his [[philosophy]] than any wealth the world could give him.
 When asked for what he thanked God most, he answered simply, "I have
 understood every page I ever read."  St. Francis was very vivid in his
-poems and rather vague in his documents; St. Thomas devoted his whole
+[[Poems|poems]] and rather vague in his documents; St. Thomas devoted his whole
 life to documenting whole systems of Pagan and Christian literature;
 and occasionally wrote a [[forms/hymn|hymn]] like a man taking a holiday.
 They saw the same problem from different angles, of simplicity
@@ -220,7 +220,7 @@ But I will confess that, while the romantic glory of St. Francis
 has lost nothing of its glamour for me, I have in later years grown
 to feel almost as much affection, or in some aspects even more,
 for this man who unconsciously inhabited a large heart and a
-large head, like one inheriting a large house, and exercised there
+large head, like one inheriting a large [[house]], and exercised there
 an equally generous if rather more absent-minded hospitality.
 There are moments when St. Francis, the most unworldly man who ever
 walked the world, is almost too efficient for me.
@@ -236,10 +236,10 @@ Lasciate che anticipi subito le obiezioni rispondendo al nome di quel
 famigerato personaggio, che si precipita là dove persino gli Angeli del
 Dottore Angelico potrebbero [[concepts/fear|temere]] di mettere piede. Qualche [[motifs/time|tempo]] fa scrissi un libretto
 di questo tipo e formato su san Francesco d'Assisi; e qualche [[motifs/time|tempo]] dopo
-(non so quando né come, come dice la canzone, e certamente non perché)
+(non so quando né come, come dice la [[Song|canzone]], e certamente non perché)
 promisi di scrivere un libro della medesima grandezza, o della medesima piccolezza, su
 san Tommaso [[characters/aquinas|d'Aquino]]. La promessa fu francescana solo nella sua avventatezza;
-e il parallelo era ben lungi dall'essere tomistico nella sua logica.
+e il parallelo era ben lungi dall'essere tomistico nella sua [[logic|logica]].
 Di san Francesco si può fare uno [[forms/sketch|schizzo]]: di san Tommaso si potrebbe soltanto fare una
 pianta, come la pianta di una [[motifs/city|città]] labirintica. Eppure
 in un certo senso egli entrerebbe in un libro molto più grande o molto più piccolo.
@@ -272,7 +272,7 @@ scattare dietro al mendicante, precipitarsi nudo nei boschi,
 gettarsi sulla strana [[motifs/ship|nave]], scagliarsi dentro
 la tenda del Sultano e offrirsi di scagliarsi nel [[motifs/fire|fuoco]].
 Nell'aspetto dovette essere come una sottile bruna foglia d'[[motifs/autumn|autunno]]
-scheletrica che danza eternamente davanti al [[motifs/wind|vento]]; ma in [[concepts/truth|verità]] era lui che
+[[skeleton|scheletrica]] che danza eternamente davanti al [[motifs/wind|vento]]; ma in [[concepts/truth|verità]] era lui che
 era il [[motifs/wind|vento]].
 
 San Tommaso era un enorme e pesante toro d'uomo, grasso, lento e quieto;
@@ -287,14 +287,14 @@ di scolaro, non ignoto, che assai preferirebbe essere ritenuto un tonto
 piuttosto che vedere invasi i propri [[motifs/dreams|sogni]] da tonti più attivi o animati.
 Questo esteriore contrasto si estende a quasi ogni punto delle
 due personalità. Era il [[concepts/paradox|paradosso]] di san Francesco che, mentre egli era
-appassionatamente amante delle poesie, diffidava piuttosto dei libri.
+appassionatamente amante delle [[Poems|poesie]], diffidava piuttosto dei libri.
 Era il fatto saliente di san Tommaso che egli amava i libri
 e viveva sui libri; che viveva la vita stessa del chierico o dello studioso
 dei Racconti di Canterbury, che preferirebbe avere cento libri di
-Aristotele e della sua filosofia a qualsiasi ricchezza il mondo potesse dargli.
+Aristotele e della sua [[philosophy|filosofia]] a qualsiasi ricchezza il mondo potesse dargli.
 Quando gli chiesero di che cosa ringraziasse Dio più di tutto, egli rispose semplicemente: "Ho
 compreso ogni pagina che io abbia mai letto." San Francesco era assai vivido nelle sue
-poesie e piuttosto vago nei suoi documenti; san Tommaso dedicò l'intera sua
+[[Poems|poesie]] e piuttosto vago nei suoi documenti; san Tommaso dedicò l'intera sua
 vita a documentare interi sistemi di letteratura pagana e cristiana;
 e occasionalmente scrisse un [[forms/hymn|inno]] come un uomo che si prende una vacanza.
 Vedevano lo stesso problema da angolazioni diverse, di semplicità
@@ -332,7 +332,7 @@ Ma confesserò che, mentre la romantica gloria di san Francesco
 non ha perso nulla del suo fascino per me, negli anni successivi sono giunto
 a provare quasi altrettanto affetto, o sotto certi aspetti persino di più,
 per quest'uomo che inconsapevolmente abitava un gran cuore e una
-gran testa, come chi eredita una grande casa, ed esercitava là
+gran testa, come chi eredita una grande [[house|casa]], ed esercitava là
 un'ospitalità altrettanto generosa se pur alquanto più distratta.
 Vi sono momenti in cui san Francesco, l'uomo più distaccato dal mondo che mai
 abbia camminato per il mondo, è quasi troppo efficiente per me.
@@ -351,7 +351,7 @@ St. Francis quite twenty years ago.
 The Saint is a medicine because he is an antidote.  Indeed that
 is why the saint is often a martyr; he is mistaken for a [[motifs/poison|poison]]
 because he is an antidote.  He will generally be found restoring
-the world to sanity by exaggerating whatever the world neglects,
+the world to [[Sanity|sanity]] by exaggerating whatever the world neglects,
 which is by no means always the same element in every age.
 Yet each generation seeks its saint by instinct; and he is not what
 the people want, but rather what the people need.  This is surely
@@ -393,12 +393,12 @@ that the modern world had neglected those particular merits.
 The English middle classes found their only missionary in the figure,
 which of all types in the world they most despised; an Italian beggar.
 
-So, as the nineteenth century clutched at the Franciscan romance,
-precisely because it had neglected romance, so the twentieth century
+So, as the nineteenth century clutched at the Franciscan [[Romance|romance]],
+precisely because it had neglected [[Romance|romance]], so the twentieth century
 is already clutching at the Thomist rational theology, because it has
 neglected reason.  In a world that was too stolid, [[historical-references/christianity|Christianity]] returned
 in the form of a vagabond; in a world that has grown a great deal
-too wild, [[historical-references/christianity|Christianity]] has returned in the form of a teacher of logic.
+too wild, [[historical-references/christianity|Christianity]] has returned in the form of a teacher of [[logic]].
 In the world of Herbert Spencer men wanted a cure for indigestion;
 in the world of Einstein they want a cure for vertigo.
 In the first case, they dimly perceived the fact that it was after
@@ -463,7 +463,7 @@ popolare san Francesco appena vent'anni or sono.
 Il Santo è una medicina perché è un antidoto.  Anzi, è proprio per questo
 che il santo è spesso un martire; lo si scambia per un [[motifs/poison|veleno]]
 perché è un antidoto.  Lo si troverà per lo più intento a riportare
-il mondo alla sanità mentale esagerando ciò che il mondo trascura,
+il mondo alla [[Sanity|sanità mentale]] esagerando ciò che il mondo trascura,
 che non è affatto sempre il medesimo elemento in ogni epoca.
 Eppure ogni generazione cerca per istinto il proprio santo; ed egli non è ciò
 che il popolo vuole, ma piuttosto ciò di cui il popolo ha bisogno.  Questo è
@@ -505,16 +505,16 @@ che il mondo moderno avesse trascurato proprio quei meriti.
 Le classi medie inglesi trovarono il loro unico missionario nella figura
 che, fra tutti i tipi al mondo, più disprezzavano: un accattone italiano.
 
-Così, come l'Ottocento si aggrappò al romanticismo francescano,
-proprio perché aveva trascurato il romanticismo, così il Novecento
+Così, come l'Ottocento si aggrappò al [[Romance|romanticismo]] francescano,
+proprio perché aveva trascurato il [[Romance|romanticismo]], così il Novecento
 si sta già aggrappando alla teologia razionale tomista, perché ha
 trascurato la ragione.  In un mondo troppo ottuso, il [[historical-references/christianity|cristianesimo]] tornò
 nella forma di un vagabondo; in un mondo cresciuto assai
-troppo selvaggio, il [[historical-references/christianity|cristianesimo]] è tornato nella forma di un maestro di logica.
+troppo selvaggio, il [[historical-references/christianity|cristianesimo]] è tornato nella forma di un maestro di [[logic|logica]].
 Nel mondo di Herbert Spencer gli uomini volevano una cura per l'indigestione;
 nel mondo di Einstein vogliono una cura per le vertigini.
 Nel primo caso, percepivano oscuramente il fatto che fu dopo
-un lungo digiuno che san Francesco cantò il Cantico del Sole e la lode
+un lungo digiuno che san Francesco cantò il [[Song|Cantico]] del Sole e la lode
 della terra feconda.  Nel secondo caso, percepivano già oscuramente
 che, anche se vogliono soltanto comprendere Einstein,
 è necessario prima comprendere l'uso dell'intelletto.
@@ -589,7 +589,7 @@ But there seems to be a queer ignorance, not only about
 the technical, but the natural meaning of the word Development.
 The critics of Catholic theology seem to suppose that it is not so
 much an evolution as an evasion; that it is at best an adaptation.
-They fancy that its very success is the success of surrender.
+They fancy that its very [[success]] is the [[success]] of surrender.
 But that is not the natural meaning of the word Development.
 When we talk of a [[archetypes/child|child]] being [[motifs/well|well]]-developed, we mean
 that he has grown bigger and stronger with his own strength;
@@ -621,7 +621,7 @@ reconcile [[characters/christ|Christ]] to Aristotle; he reconciled Aristotle to 
 Yes; in spite of the contrasts that are as conspicuous and even comic
 as the comparison between the fat man and the thin man, the tall
 man and the short:  in spite of the contrast between the vagabond
-and the student, between the apprentice and the aristocrat,
+and the student, between the apprentice and the [[aristocrat]],
 between the book-hater and the book-[[archetypes/lover|lover]], between the wildest
 of all missionaries and the mildest of all professors, the great
 fact of medieval [[concepts/history|history]] is that these two great men were doing
@@ -643,12 +643,12 @@ in the most popular way.  Perhaps it would sound too paradoxical to say
 that these two saints saved us from Spirituality; a dreadful doom.
 Perhaps it may be misunderstood if I say that St. Francis, for all his
 [[motifs/love|love]] of [[motifs/animals|animals]], saved us from being Buddhists; and that St. Thomas,
-for all his [[motifs/love|love]] of Greek philosophy, saved us from being Platonists.
+for all his [[motifs/love|love]] of Greek [[philosophy]], saved us from being Platonists.
 But it is best to say the [[concepts/truth|truth]] in its simplest form; that they
 both reaffirmed the Incarnation, by bringing God back to earth.
 
 This analogy, which may seem rather remote, is really perhaps
-the best practical preface to the philosophy of St. Thomas.
+the best practical preface to the [[philosophy]] of St. Thomas.
 As we shall have to consider more closely later on, the purely spiritual
 or mystical side of Catholicism had very much got the upper hand
 in the first Catholic centuries; through the genius of Augustine,
@@ -691,7 +691,7 @@ Ma pare esserci una strana ignoranza, non solo sul
 significato tecnico, ma anche su quello naturale della parola Sviluppo.
 I critici della teologia cattolica sembrano supporre che essa non sia tanto
 un'evoluzione quanto un'elusione; che sia nel migliore dei casi un adattamento.
-Immaginano che il suo stesso successo sia il successo della resa.
+Immaginano che il suo stesso [[success|successo]] sia il [[success|successo]] della resa.
 Ma non è questo il significato naturale della parola Sviluppo.
 Quando diciamo che un [[archetypes/child|bambino]] è [[motifs/well|ben]] sviluppato, intendiamo
 che è cresciuto più grande e più forte con la propria forza;
@@ -723,7 +723,7 @@ riconciliò [[characters/christ|Cristo]] con Aristotele; riconciliò Aristotele 
 Sì; malgrado i contrasti tanto cospicui e persino comici
 quanto il paragone fra l'uomo grasso e l'uomo magro, l'uomo alto
 e l'uomo basso: malgrado il contrasto fra il vagabondo
-e lo studente, fra l'apprendista e l'aristocratico,
+e lo studente, fra l'apprendista e l'[[aristocrat|aristocratico]],
 fra chi odiava i libri e chi li [[archetypes/lover|amava]], fra il più selvaggio
 di tutti i missionari e il più mite di tutti i professori, il grande
 fatto della [[concepts/history|storia]] medievale è che questi due grandi uomini facevano
@@ -745,12 +745,12 @@ nel modo più popolare.  Forse suonerebbe troppo paradossale dire
 che questi due santi ci salvarono dalla Spiritualità; una tremenda condanna.
 Forse può essere frainteso se dico che san Francesco, con tutto il suo
 [[motifs/love|amore]] per gli [[motifs/animals|animali]], ci salvò dall'essere buddisti; e che san Tommaso,
-con tutto il suo [[motifs/love|amore]] per la filosofia greca, ci salvò dall'essere platonici.
+con tutto il suo [[motifs/love|amore]] per la [[philosophy|filosofia]] greca, ci salvò dall'essere platonici.
 Ma è meglio dire la [[concepts/truth|verità]] nella sua forma più semplice; ossia che essi
 riaffermarono entrambi l'Incarnazione, riportando Dio sulla terra.
 
 Questa analogia, che può sembrare piuttosto remota, è davvero forse
-la migliore introduzione pratica alla filosofia di san Tommaso.
+la migliore introduzione pratica alla [[philosophy|filosofia]] di san Tommaso.
 Come dovremo considerare più da vicino in seguito, il lato puramente spirituale
 o mistico del cattolicesimo aveva preso di gran lunga il sopravvento
 nei primi secoli cattolici; attraverso il genio di Agostino,
@@ -777,7 +777,7 @@ sostanzialmente simile a questo.
 "Far be it from a poor friar to deny that you have these dazzling
 diamonds in your head, all designed in the most perfect mathematical
 shapes and shining with a purely celestial light; all there,
-almost before you begin to think, let alone to see or hear or feel.
+almost before you begin to think, let [[Alone|alone]] to see or hear or feel.
 But I am not ashamed to say that I find my reason fed by my senses;
 that I owe a great deal of what I think to what I see
 and smell and taste and handle; and that so far as my reason
@@ -804,10 +804,10 @@ of St. Thomas that were very severely intellectual, we may note
 that in him as in St. Francis there is a preliminary practical element
 which is rather moral; a sort of good and straightforward [[concepts/humility|humility]];
 and a readiness in the man to regard even himself in some ways
-as an animal; as St. Francis compared his [[concepts/body|body]] to a donkey.
+as an animal; as St. Francis compared his [[concepts/body|body]] to a [[donkey]].
 It may be said that the contrast holds everywhere, even in
 zoological metaphor, and that if St. Francis was like that common
-or [[motifs/garden|garden]] donkey who carried [[characters/christ|Christ]] into Jerusalem, St. Thomas,
+or [[motifs/garden|garden]] [[donkey]] who carried [[characters/christ|Christ]] into Jerusalem, St. Thomas,
 who was actually compared to an ox, rather resembled that Apocalyptic
 [[archetypes/monster|monster]] of almost Assyrian mystery; the winged bull.  But again,
 we must not let all that can be contrasted eclipse what was common;
@@ -815,7 +815,7 @@ or forget that neither of them would have been too proud to wait
 as patiently as the ox and ass in the stable of Bethlehem.
 
 There were of course, as we shall soon see, many other much more
-curious and complicated ideas in the philosophy of St. Thomas;
+curious and complicated ideas in the [[philosophy]] of St. Thomas;
 besides this primary idea of a central common sense that is
 nourished by the five senses.  But at this stage, the point
 of the story is not only that this was a Thomist doctrine,
@@ -875,7 +875,7 @@ up to a point it has already happened in the case of St. Francis.
 But it would not go beyond a certain point in the case of St. Francis.
 Nobody, not even a Freethinker like Renan or Matthew Arnold,
 would pretend that St. Francis was anything but a devout Christian,
-or had any other original motive except the imitation of [[characters/christ|Christ]].
+or had any other original motive except the [[Imitation|imitation]] of [[characters/christ|Christ]].
 Yet St. Francis also had that liberating and humanising effect
 upon religion; though perhaps rather on the [[concepts/imagination|imagination]] than
 the intellect.  But nobody says that St. Francis was loosening
@@ -888,7 +888,7 @@ to have opened the Gospels at random and read the great texts
 about [[concepts/poverty|Poverty]], really only opened the Aeneid and practised
 the Sors Virgiliana out of respect for heathen letters and learning.
 No historian will pretend that St. Francis wrote The Canticle of
-the Sun in close imitation of a Homeric [[forms/hymn|Hymn]] to [[characters/apollo|Apollo]] or loved [[motifs/birds|birds]]
+the Sun in close [[Imitation|imitation]] of a Homeric [[forms/hymn|Hymn]] to [[characters/apollo|Apollo]] or loved [[motifs/birds|birds]]
 because he had carefully learned all the trick of the Roman Augurs.
 
 
@@ -924,10 +924,10 @@ di san Tommaso che erano assai severamente intellettuali, possiamo notare
 che in lui come in san Francesco vi è un preliminare elemento pratico
 che è piuttosto morale; una sorta di buona e schietta [[concepts/humility|umiltà]];
 e una prontezza dell'uomo a considerare in certi modi persino se stesso
-come un animale; come san Francesco paragonava il proprio [[concepts/body|corpo]] a un asino.
+come un animale; come san Francesco paragonava il proprio [[concepts/body|corpo]] a un [[donkey|asino]].
 Si può dire che il contrasto valga ovunque, persino nella
 metafora zoologica, e che se san Francesco era simile a quel comune
-o dozzinale asino che portò [[characters/christ|Cristo]] a Gerusalemme, san Tommaso,
+o dozzinale [[donkey|asino]] che portò [[characters/christ|Cristo]] a Gerusalemme, san Tommaso,
 che fu invece paragonato a un bue, somigliava piuttosto a quel apocalittico
 [[archetypes/monster|mostro]] di mistero quasi assiro; il toro alato.  Ma di nuovo,
 non dobbiamo lasciare che tutto ciò che si può contrapporre eclissi ciò che era comune;
@@ -935,7 +935,7 @@ né dimenticare che nessuno dei due sarebbe stato troppo orgoglioso per attender
 tanto pazientemente quanto il bue e l'asino nella stalla di Betlemme.
 
 Vi erano naturalmente, come vedremo presto, molte altre idee ben più
-curiose e complicate nella filosofia di san Tommaso;
+curiose e complicate nella [[philosophy|filosofia]] di san Tommaso;
 oltre a questa idea primaria di un buon senso centrale che è
 nutrito dai cinque sensi.  Ma a questo punto, il punto
 della storia non è solo che questa fosse una dottrina tomista,
@@ -995,7 +995,7 @@ fino a un certo punto è già accaduto nel caso di san Francesco.
 Ma non andrebbe oltre un certo punto nel caso di san Francesco.
 Nessuno, nemmeno un Libero Pensatore come Renan o Matthew Arnold,
 pretenderebbe che san Francesco fosse qualcosa di diverso da un devoto cristiano,
-o avesse un qualche altro movente originario se non l'imitazione di [[characters/christ|Cristo]].
+o avesse un qualche altro movente originario se non l'[[Imitation|imitazione]] di [[characters/christ|Cristo]].
 Eppure anche san Francesco ebbe quell'effetto liberatore e umanizzante
 sulla religione; benché forse più sull'[[concepts/imagination|immaginazione]] che
 sull'intelletto.  Ma nessuno dice che san Francesco stesse allentando
@@ -1008,7 +1008,7 @@ che aprisse i Vangeli a caso e leggesse i grandi testi
 sulla [[concepts/poverty|povertà]], avesse in realtà solo aperto l'Eneide e praticato
 le Sortes Virgilianae per rispetto delle lettere e del sapere pagani.
 Nessuno storico pretenderà che san Francesco scrivesse il Cantico
-del Sole in stretta imitazione di un [[forms/hymn|Inno]] omerico ad [[characters/apollo|Apollo]] o amasse gli [[motifs/birds|uccelli]]
+del Sole in stretta [[Imitation|imitazione]] di un [[forms/hymn|Inno]] omerico ad [[characters/apollo|Apollo]] o amasse gli [[motifs/birds|uccelli]]
 perché avesse accuratamente appreso tutti i trucchi degli Auguri romani.
 
 
@@ -1029,7 +1029,7 @@ and that he passionately loved the Catholic worship long before he found
 he had to fight for it.  But there is also a special and clinching
 instance of this which once more connects St. Thomas with St. Francis.
 It seems to be strangely forgotten that both these saints were in
-actual fact imitating a Master, who was not Aristotle let alone Ovid,
+actual fact imitating a Master, who was not Aristotle let [[Alone|alone]] Ovid,
 when they sanctified the senses or the simple things of [[concepts/nature|nature]];
 when St. Francis walked humbly among the beasts or St. Thomas
 debated courteously among the Gentiles.
@@ -1271,7 +1271,7 @@ if the flippancy may be used, a strong [[motifs/home|Home]] Ruler.  We might eve
 he was always defending the independence of dependent things.  He insisted
 that such a thing could have its own rights in its own region.
 It was his attitude to the [[motifs/home|Home]] Rule of the reason and even the senses;
-"Daughter am I in my father's house; but mistress in my own."
+"Daughter am I in my father's [[house]]; but mistress in my own."
 And in exactly this sense he emphasised a certain dignity in Man,
 which was sometimes rather swallowed up in the purely theistic
 generalisations about God.  Nobody would say he wanted to divide
@@ -1292,11 +1292,11 @@ Are things so different that they can never be classified:
 or so unified that they can never be distinguished?
 Without pretending to answer such questions here, we may say broadly
 that St. Thomas comes down definitely on the side of Variety,
-as a thing that is real as [[motifs/well|well]] as Unity.  In this, and questions akin
+as a thing that is real as [[motifs/well|well]] as [[unity|Unity]].  In this, and questions akin
 to this, he often departs from the great Greek philosophers who were
 sometimes his models; and entirely departs from the great Oriental
 philosophers who are in some sense his rivals.  He seems fairly certain
-that the difference between [[motifs/chalk|chalk]] and cheese, or pigs and pelicans,
+that the difference between [[motifs/chalk|chalk]] and [[cheese]], or pigs and pelicans,
 is not a mere illusion, or dazzle of our bewildered mind blinded
 by a single light; but is pretty much what we all feel it to be.
 It may be said that this is mere common sense; the common sense
@@ -1314,7 +1314,7 @@ it was emphatically a growth of Christian theology from within;
 it was emphatically not a shrinking of Christian theology under heathen
 or even human influences.  The Franciscan was free to be a friar,
 instead of being bound to be a monk.  But he was more of a Christian,
-more of a Catholic, even more of an ascetic.  So the Thomist was free
+more of a Catholic, even more of an [[ascetic]].  So the Thomist was free
 to be an Aristotelian, instead of being bound to be an Augustinian.
 But he was even more of a theologian; more of an orthodox theologian;
 more of a dogmatist, in having recovered through Aristotle
@@ -1331,7 +1331,7 @@ indeed it still remains the most modern architecture.  Only it
 was followed at the [[historical-references/renaissance|Renaissance]] by a more antiquated architecture.
 In that sense the [[historical-references/renaissance|Renaissance]] might be called the Relapse.
 Whatever may be said of the Gothic and the Gospel according to St. Thomas,
-they were not a Relapse.  It was a new thrust like the titanic thrust
+they were not a Relapse.  It was a new thrust like the [[titanic]] thrust
 of Gothic engineering; and its strength was in a God who makes
 all things new.
 
@@ -1369,7 +1369,7 @@ se mi si concede la frivolezza, un fervente autonomista.  Potremmo persino dire
 che difendeva sempre l'indipendenza delle cose dipendenti.  Egli insisteva
 che una tal cosa potesse avere i propri diritti nella propria regione.
 Era il suo atteggiamento verso l'autogoverno della ragione e persino dei sensi;
-«Figlia sono nella casa di mio padre; ma padrona nella mia».
+«Figlia sono nella [[house|casa]] di mio padre; ma padrona nella mia».
 E proprio in questo senso egli sottolineò una certa dignità nell'Uomo,
 che a volte veniva piuttosto inghiottita nelle puramente teistiche
 generalizzazioni su Dio.  Nessuno direbbe che egli volesse dividere
@@ -1390,11 +1390,11 @@ Le cose sono così diverse da non poter mai essere classificate;
 o così unificate da non poter mai essere distinte?
 Senza pretendere di rispondere a tali domande qui, possiamo dire in generale
 che san Tommaso si schiera decisamente dalla parte della Varietà,
-come cosa che è reale [[motifs/well|tanto]] quanto l'Unità.  In questo, e in questioni affini
+come cosa che è reale [[motifs/well|tanto]] quanto l'[[unity|Unità]].  In questo, e in questioni affini
 a questo, egli si discosta spesso dai grandi filosofi greci che a volte
 gli erano modelli; e si discosta interamente dai grandi filosofi
 orientali che in un certo senso gli sono rivali.  Sembra abbastanza certo
-che la differenza tra il [[motifs/chalk|gesso]] e il formaggio, o tra i maiali e i pellicani,
+che la differenza tra il [[motifs/chalk|gesso]] e il [[cheese|formaggio]], o tra i maiali e i pellicani,
 non sia una mera illusione, o un abbaglio della nostra mente sconcertata, accecata
 da un'unica luce; ma sia press'a poco ciò che tutti sentiamo che sia.
 Si può dire che questo è mero buon senso; il buon senso
@@ -1412,7 +1412,7 @@ fu enfaticamente una crescita della teologia cristiana dall'interno;
 non fu enfaticamente un restringimento della teologia cristiana sotto influenze
 pagane o persino umane.  Il francescano era libero di essere frate,
 invece di essere costretto a essere monaco.  Ma era più cristiano,
-più cattolico, e persino più asceta.  Così il tomista era libero
+più cattolico, e persino più [[ascetic|asceta]].  Così il tomista era libero
 di essere aristotelico, invece di essere costretto a essere agostiniano.
 Ma era persino più teologo; più teologo ortodosso;
 più dogmatico, avendo ricuperato attraverso Aristotele
@@ -1429,7 +1429,7 @@ anzi, resta tuttora l'architettura più moderna.  Solo che essa
 fu seguita al [[historical-references/renaissance|Rinascimento]] da un'architettura più antiquata.
 In tal senso il [[historical-references/renaissance|Rinascimento]] potrebbe chiamarsi la Ricaduta.
 Qualunque cosa si dica del gotico e del Vangelo secondo san Tommaso,
-essi non furono una Ricaduta.  Fu una nuova spinta come la titanica spinta
+essi non furono una Ricaduta.  Fu una nuova spinta come la [[titanic|titanica]] spinta
 dell'ingegneria gotica; e la sua forza era in un Dio che fa
 nuove tutte le cose.
 
@@ -1468,8 +1468,8 @@ by the very revolutionary character of their own revolution.
 In 1215, Dominic Guzman, the Castilian, founded an Order very
 similar to that of Francis; and, by a most curious coincidence
 of [[concepts/history|history]], at almost exactly the same moment as Francis.
-It was directed primarily to preaching the Catholic philosophy
-to the Albigensian heretics; whose own philosophy was one of the many
+It was directed primarily to preaching the Catholic [[philosophy]]
+to the Albigensian heretics; whose own [[philosophy]] was one of the many
 forms of that Manicheanism with which this story is much concerned.
 It had its roots in the remote mysticism and moral detachment of the East;
 and it was therefore inevitable that the Dominicans should be rather
@@ -1535,7 +1535,7 @@ about St. Dominic.  Those who know anything about St. Dominic
 know that he was a missionary and not a militant persecutor;
 that his contribution to religion was the Rosary and not the Rack;
 that his whole career is meaningless, unless we understand that his
-famous victories were victories of persuasion and not persecution.
+famous victories were victories of [[Persuasion|persuasion]] and not persecution.
 He did believe in the justification of persecution; in the sense
 that the secular arm could repress religious disorders.
 So did everybody else believe in persecution; and none more than
@@ -1553,17 +1553,17 @@ to either of them, is that Dominic did happen to be confronted
 with a huge campaign for the [[concepts/conversion|conversion]] of heretics, while Francis
 had only the more subtle task of the [[concepts/conversion|conversion]] of human beings.
 It is an old story that, while we may need somebody like Dominic
-to convert the heathen to [[historical-references/christianity|Christianity]], we are in even greater
-need of somebody like Francis, to convert the Christians
+to [[convert]] the heathen to [[historical-references/christianity|Christianity]], we are in even greater
+need of somebody like Francis, to [[convert]] the Christians
 to [[historical-references/christianity|Christianity]].  Still, we must not lose sight of St. Dominic's
 special problem, which was that of dealing with a whole population,
 kingdoms and cities and countrysides, that had drifted from
 the [[concepts/faith|Faith]] and solidified into strange and abnormal new religions.
 That he did win back masses of men so deceived, merely by talking
 and preaching, remains an enormous triumph worthy of a colossal trophy.
-St. Francis is called humane because he tried to convert
+St. Francis is called humane because he tried to [[convert]]
 Saracens and failed; St. Dominic is called bigoted and besotted
-because he tried to convert Albigensians and succeeded.
+because he tried to [[convert]] Albigensians and succeeded.
 But we happen to be in a curious nook or corner of the hills
 of [[concepts/history|history]], from which we can see Assisi and the Umbrian hills,
 but are out of sight of the vast battle-field of the Southern Crusade;
@@ -1580,8 +1580,8 @@ dal carattere quanto mai rivoluzionario della loro stessa rivoluzione.
 Nel 1215, Domenico di Guzmán, il castigliano, fondò un Ordine assai
 simile a quello di Francesco; e, per una curiosissima coincidenza
 della [[concepts/history|storia]], quasi esattamente nel medesimo momento di Francesco.
-Esso era rivolto primariamente a predicare la filosofia cattolica
-agli eretici albigesi; la cui filosofia era una delle molte
+Esso era rivolto primariamente a predicare la [[philosophy|filosofia]] cattolica
+agli eretici albigesi; la cui [[philosophy|filosofia]] era una delle molte
 forme di quel manicheismo di cui questa storia si occupa assai.
 Aveva le sue radici nel remoto misticismo e nel distacco morale dell'Oriente;
 ed era perciò inevitabile che i domenicani fossero piuttosto
@@ -1647,7 +1647,7 @@ su san Domenico.  Coloro che sanno qualcosa di san Domenico
 sanno che egli era un missionario e non un militante persecutore;
 che il suo contributo alla religione fu il Rosario e non il Cavalletto;
 che tutta la sua carriera è priva di senso, a meno che non comprendiamo che le sue
-famose vittorie furono vittorie di persuasione e non di persecuzione.
+famose vittorie furono vittorie di [[Persuasion|persuasione]] e non di persecuzione.
 Egli credeva sì nella giustificazione della persecuzione; nel senso
 che il braccio secolare potesse reprimere i disordini religiosi.
 Così credeva alla persecuzione chiunque altro; e nessuno più
@@ -1665,17 +1665,17 @@ di nessuno dei due, è che a Domenico accadde di trovarsi di fronte
 a una vasta campagna per la [[concepts/conversion|conversione]] degli eretici, mentre Francesco
 aveva solo il più sottile compito della [[concepts/conversion|conversione]] degli esseri umani.
 È una vecchia storia che, mentre possiamo aver bisogno di qualcuno come Domenico
-per convertire i pagani al [[historical-references/christianity|cristianesimo]], abbiamo un ancor più grande
-bisogno di qualcuno come Francesco, per convertire i cristiani
+per [[convert|convertire]] i pagani al [[historical-references/christianity|cristianesimo]], abbiamo un ancor più grande
+bisogno di qualcuno come Francesco, per [[convert|convertire]] i cristiani
 al [[historical-references/christianity|cristianesimo]].  Tuttavia, non dobbiamo perdere di vista il particolare
 problema di san Domenico, che era quello di aver a che fare con un'intera popolazione,
 regni e città e campagne, che erano andati alla deriva dalla
 [[concepts/faith|fede]] e si erano solidificati in strane e abnormi nuove religioni.
 Che egli riconquistasse masse di uomini così ingannati, semplicemente parlando
 e predicando, resta un enorme trionfo degno di un colossale trofeo.
-San Francesco è detto umano perché tentò di convertire
+San Francesco è detto umano perché tentò di [[convert|convertire]]
 i saraceni e fallì; san Domenico è detto bigotto e ottuso
-perché tentò di convertire gli albigesi e riuscì.
+perché tentò di [[convert|convertire]] gli albigesi e riuscì.
 Ma ci troviamo per caso in un curioso angolo o cantuccio delle colline
 della [[concepts/history|storia]], da cui possiamo vedere Assisi e le colline umbre,
 ma siamo fuori dalla vista del vasto campo di battaglia della Crociata meridionale;
@@ -1738,12 +1738,12 @@ Christendom did feel it as something like the end of an age;
 and how the very roads of the earth seem to shake under the feet
 of the new and nameless army; the march of the Beggars.
 A mystic nursery rhyme suggests the atmosphere of such a crisis:
-"Hark, hark, the dogs do bark; the Beggars are coming to town."
+"Hark, hark, the [[dogs]] do bark; the Beggars are coming to town."
 There were many towns that almost fortified themselves against them
 and many watchdogs of property and rank did really bark, and hark loudly,
 when those Beggars went by; but louder was the singing of the Beggars
 who sang their Canticle to the Sun, and louder the baying of the Hounds
-of Heaven; the Domini canes of the medieval pun; the Dogs of God.
+of Heaven; the Domini canes of the medieval pun; the [[dogs|Dogs]] of God.
 And if we would measure how real and rending seemed that revolution,
 what a break with the past, we can see it in the first and most
 extraordinary event in the life of St. Thomas [[characters/aquinas|Aquinas]].
@@ -1803,12 +1803,12 @@ lo sentì davvero come qualcosa di simile alla fine di un'epoca;
 e come le vie stesse della terra sembrino tremare sotto i piedi
 del nuovo e senza nome esercito; la marcia dei Mendicanti.
 Una mistica filastrocca infantile suggerisce l'atmosfera di una simile crisi:
-"Odi, odi, i cani abbaiano; i Mendicanti stanno venendo in città".
+"Odi, odi, i [[dogs|cani]] abbaiano; i Mendicanti stanno venendo in città".
 Vi furono molte città che quasi si fortificarono contro di loro,
 e molti cani da guardia della proprietà e del rango davvero abbaiarono, e udirono forte,
 quando quei Mendicanti passarono; ma più forte era il canto dei Mendicanti
 che cantavano il loro Cantico al Sole, e più forte il latrare dei Segugi
-del Cielo; i Domini canes del calembour medievale; i Cani di Dio.
+del Cielo; i Domini canes del calembour medievale; i [[dogs|Cani]] di Dio.
 E se volessimo misurare quanto reale e lacerante sembrò quella rivoluzione,
 quale rottura col passato, possiamo vederlo nel primo e più
 straordinario evento della vita di San Tommaso d'[[characters/aquinas|Aquino]].
@@ -1913,7 +1913,7 @@ de Montfort in arms; the dubious experiment of an [[historical-references/inquis
 which started from it; and many other things.  But, broadly speaking,
 it is the period of the great duel between the Popes and the Emperors,
 that is the German Emperors who called themselves Holy Roman Emperors,
-the House of Hohenstaufen.  The particular period of the life
+the [[house|House]] of Hohenstaufen.  The particular period of the life
 of [[characters/aquinas|Aquinas]], however, is entirely overshadowed by the particular
 Emperor who was himself more an Italian than a German; the brilliant
 Frederick II who was called the [[concepts/wonder|Wonder]] of the World.  It may be reminded,
@@ -2028,7 +2028,7 @@ di Montfort con le armi; il dubbio esperimento di un'[[historical-references/inq
 che ne prese avvio; e molte altre cose.  Ma, a grandi linee,
 è il periodo del grande duello tra i Papi e gli Imperatori,
 cioè gli Imperatori tedeschi che si chiamavano Sacri Romani Imperatori,
-la Casa di Hohenstaufen.  Il particolare periodo della vita
+la [[house|Casa]] di Hohenstaufen.  Il particolare periodo della vita
 di [[characters/aquinas|d'Aquino]], tuttavia, è interamente adombrato dal particolare
 Imperatore che era egli stesso più un italiano che un tedesco; il brillante
 Federico II che era chiamato la [[concepts/wonder|Meraviglia]] del Mondo.  Si può ricordare,
@@ -2068,18 +2068,18 @@ It may be noted that the antithesis invokes the assumption
 that a Crusader cannot easily be a statesman; and that a monk
 cannot easily be a philosopher.  Yet, to take only that
 special instance, it would be easy to point out that the cases
-of two famous men in the age of Frederick II would alone be
+of two famous men in the age of Frederick II would [[Alone|alone]] be
 strong enough to upset both the assumption and the antithesis.
 St. Louis, though a Crusader and even an unsuccessful Crusader,
 was really a far more successful statesman than Frederick II.
 By the test of practical politics, he popularised, solidified and
-sanctified the most powerful government in Europe, the order and
+sanctified the most powerful [[government]] in Europe, the order and
 concentration of the French Monarchy; the single dynasty that steadily
 increased its strength for five hundred years up to the glories of
 the Grand Siecle whereas Frederick went down in ruin before the Papacy
 and the Republics and a vast combination of priests and peoples.
 The Holy Roman Empire he wished to found was an ideal rather
-in the sense of a dream; it was certainly never a fact like
+in the sense of [[A Dream|a dream]]; it was certainly never a fact like
 the square and solid State which the French statesman did found.
 Or, to take another example from the next generation, one of
 the most strictly practical statesmen in [[concepts/history|history]], our own Edward I,
@@ -2087,19 +2087,19 @@ was also a Crusader.
 
 The other half of the antithesis is even more false and here even
 more relevant.  Frederick II was not a philosopher in the age of [[characters/monks|monks]].
-He was a gentleman dabbling in philosophy in the age of the monk
+He was a gentleman dabbling in [[philosophy]] in the age of the monk
 Thomas [[characters/aquinas|Aquinas]].  He was doubtless an intelligent and even
 brilliant gentleman; but if he did leave any notes on the [[concepts/nature|nature]] of Being
 and Becoming, or the precise sense in which realities can be relative
 to Reality, I do not imagine those notes are now exciting undergraduates
-at [[settings/oxford|Oxford]] or literary men in [[settings/paris|Paris]], let alone the little groups
+at [[settings/oxford|Oxford]] or literary men in [[settings/paris|Paris]], let [[Alone|alone]] the little groups
 of Thomists who have already sprung up even in [[settings/new-york|New York]] and Chicago.
 It is no disrespect to the Emperor to say that he certainly was not
 a philosopher in the sense in which Thomas [[characters/aquinas|Aquinas]] was a philosopher,
-let alone so great or so universal or so permanent a philosopher.
+let [[Alone|alone]] so great or so universal or so permanent a philosopher.
 And Thomas [[characters/aquinas|Aquinas]] lived in that very age of [[characters/monks|monks]], and in that very
 world of [[characters/monks|monks]], which Macaulay talks of as if it were incapable
-of producing philosophy.
+of producing [[philosophy]].
 
 We need not dwell on the causes of this Victorian prejudice,
 which some still think so [[motifs/well|well]] advanced.  It arose mainly from one
@@ -2137,7 +2137,7 @@ day and [[motifs/night|night]].  But Frederick is more dubious and less doubted;
 he was supposed to be the head of the Holy Roman Empire;
 and accused of wanting to be the head of a very Unholy Roman Empire.
 But even if he were Antichrist, he would still be a witness
-to the unity of Christendom.
+to the [[unity]] of Christendom.
 
 Nevertheless, there is a queer quality in that [[motifs/time|time]]; which, while it
 was international was also internal and intimate.  War, in the wide
@@ -2155,7 +2155,7 @@ is intensely vivid in the particular story we have here to tell,
 in a very rough outline.  If anyone wishes to know what is meant
 by saying that action was more individual, and indeed incalculable,
 he may [[motifs/well|well]] note some of the stages in the story of the great
-feudal house of Aquino, which had its [[settings/castle|castle]] not far from Naples.
+feudal [[house]] of Aquino, which had its [[settings/castle|castle]] not far from Naples.
 In the mere hasty anecdote we have now to tell, we shall note
 in succession five or six stages of this sort.  Landulf of Aquino,
 a heavy feudal fighter typical of the times, rode in armour behind
@@ -2197,18 +2197,18 @@ Si può notare che l'antitesi presuppone l'assunto
 che un Crociato non possa facilmente essere uno statista; e che un monaco
 non possa facilmente essere un filosofo. Eppure, per prendere solo quel
 caso particolare, sarebbe facile far notare che i casi
-di due uomini famosi nell'età di Federico II basterebbero da soli
+di due uomini famosi nell'età di Federico II basterebbero da [[Alone|soli]]
 a rovesciare tanto l'assunto quanto l'antitesi.
 San Luigi, benché Crociato e persino Crociato senza successo,
 fu in realtà uno statista assai più riuscito di Federico II.
 Alla prova della politica pratica, egli rese popolare, consolidò e
-santificò il più potente governo d'Europa, l'ordine e
+santificò il più potente [[government|governo]] d'Europa, l'ordine e
 la concentrazione della Monarchia francese; l'unica dinastia che accrebbe
 costantemente la propria forza per cinquecento anni fino alle glorie del
 Grand Siècle, mentre Federico rovinò dinanzi al Papato,
 alle Repubbliche e a una vasta coalizione di preti e di popoli.
 Il Sacro Romano Impero che egli voleva fondare era un ideale piuttosto
-nel senso di un sogno; non fu certamente mai un fatto come
+nel senso di [[A Dream|un sogno]]; non fu certamente mai un fatto come
 lo Stato quadrato e solido che lo statista francese fondò davvero.
 Oppure, per prendere un altro esempio dalla generazione successiva, uno
 dei più rigorosamente pratici statisti della [[concepts/history|storia]], il nostro Edoardo I,
@@ -2216,7 +2216,7 @@ fu anch'egli un Crociato.
 
 L'altra metà dell'antitesi è ancora più falsa e qui ancora
 più pertinente. Federico II non era un filosofo nell'età dei [[characters/monks|monaci]].
-Era un gentiluomo che si dilettava di filosofia nell'età del monaco
+Era un gentiluomo che si dilettava di [[philosophy|filosofia]] nell'età del monaco
 Tommaso [[characters/aquinas|d'Aquino]]. Era senza dubbio un gentiluomo intelligente e persino
 brillante; ma se pure lasciò qualche appunto sulla [[concepts/nature|natura]] dell'Essere
 e del Divenire, o sul senso preciso in cui le realtà possono essere relative
@@ -2228,7 +2228,7 @@ un filosofo nel senso in cui Tommaso [[characters/aquinas|d'Aquino]] fu un filos
 per non dire un filosofo così grande, così universale o così duraturo.
 E Tommaso [[characters/aquinas|d'Aquino]] visse proprio in quell'età di [[characters/monks|monaci]], e proprio in quel
 mondo di [[characters/monks|monaci]], di cui Macaulay parla come se fosse incapace
-di produrre filosofia.
+di produrre [[philosophy|filosofia]].
 
 Non occorre soffermarsi sulle cause di questo pregiudizio vittoriano,
 che alcuni ancora ritengono così [[motifs/well|bene]] avanzato. Esso nacque principalmente da una
@@ -2266,7 +2266,7 @@ abbia tentato di creare lo Stato Mondiale che invocano a gran voce
 si supponeva che fosse il capo del Sacro Romano Impero;
 e lo si accusava di voler essere il capo di un ben poco sacro Impero Romano.
 Ma anche se fosse stato l'Anticristo, resterebbe pur sempre un testimone
-dell'unità della Cristianità.
+dell'[[unity|unità]] della Cristianità.
 
 Nondimeno, c'è una qualità singolare in quel [[motifs/time|tempo]]; che, mentre era
 internazionale, era anche interno e intimo. La guerra, nel largo
@@ -2284,7 +2284,7 @@ che ama e odia la propria [[motifs/city|città]]. Questa complessità individual
 in un contorno assai grezzo. Se qualcuno desidera sapere cosa si intende
 dicendo che l'azione era più individuale, e anzi incalcolabile,
 può [[motifs/well|bene]] notare alcune delle tappe nella storia della grande
-casa feudale di Aquino, che aveva il suo [[settings/castle|castello]] non lontano da Napoli.
+[[house|casa]] feudale di Aquino, che aveva il suo [[settings/castle|castello]] non lontano da Napoli.
 Nel semplice aneddoto frettoloso che ora dobbiamo raccontare, noteremo
 in successione cinque o sei tappe di questo genere. Landolfo d'Aquino,
 un pesante combattente feudale tipico dei tempi, cavalcò in armatura dietro
@@ -2314,7 +2314,7 @@ diffusa lite di famiglia.
 
 The reason for dwelling here, however, upon the position of the
 Emperor Frederick, as a type of his [[motifs/time|time]], in his culture and his violence,
-in his concern for philosophy and his quarrel with religion,
+in his concern for [[philosophy]] and his quarrel with religion,
 is not merely concerned with these things.  He may here be the first
 figure that crosses the stage, because one of his very typical
 actions precipitated the first action, or obstinate inaction,
@@ -2432,7 +2432,7 @@ the lowest place.
 
 La ragione per indugiare qui, tuttavia, sulla posizione dell'
 Imperatore Federico, come tipo del suo [[motifs/time|tempo]], nella sua cultura e nella sua violenza,
-nella sua sollecitudine per la filosofia e nel suo litigio con la religione,
+nella sua sollecitudine per la [[philosophy|filosofia]] e nel suo litigio con la religione,
 non riguarda soltanto queste cose. Egli può essere qui la prima
 figura che attraversa il palcoscenico, perché una delle sue azioni assai
 tipiche precipitò la prima azione, o ostinata inazione,
@@ -2638,19 +2638,19 @@ knew that he knew, that it was an insult to him as a gentleman
 to suppose that he would break his pledge upon so base a provocation;
 and he had behind him a far more terrible sensibility; all that huge
 [[concepts/ambition|ambition]] of [[concepts/humility|humility]] which was to him the voice of God out of heaven.
-In this one flash alone we see that huge unwieldy figure in an attitude
+In this one flash [[Alone|alone]] we see that huge unwieldy figure in an attitude
 of activity, or even animation; and he was very animated indeed.
 He sprang from his seat and snatched a brand out of the [[motifs/fire|fire]],
-and stood brandishing it like a flaming sword.  The woman not
+and stood brandishing it like a flaming [[Sword|sword]].  The woman not
 unnaturally shrieked and fled, which was all that he wanted;
 but it is quaint to think of what she must have thought of that madman
 of monstrous stature juggling with flames and apparently threatening
-to burn down the house.  All he did, however, was to stride after her
+to burn down the [[house]].  All he did, however, was to stride after her
 to the door and bang and bar it behind her; and then, with a sort
 of impulse of violent ritual, he rammed the burning brand into the door,
 blackening and blistering it with one big black sign of the [[motifs/cross|cross]].
 Then he returned, and dropped it again into the [[motifs/fire|fire]]; and sat down
-on that seat of sedentary scholarship, that chair of philosophy,
+on that seat of sedentary scholarship, that chair of [[philosophy]],
 that secret throne of contemplation, from which he never [[motifs/rose|rose]] again.
 
 --/--
@@ -2746,19 +2746,19 @@ sapevano che egli sapeva, che era un insulto a lui come gentiluomo
 supporre che egli avrebbe infranto il suo voto per una così vile provocazione;
 ed egli aveva dietro di sé una sensibilità assai più terribile; tutta quella immensa
 [[concepts/ambition|ambizione]] di [[concepts/humility|umiltà]] che era per lui la voce di Dio dal cielo.
-In questo solo lampo vediamo quella enorme goffa figura in un atteggiamento
+In questo [[Alone|solo]] lampo vediamo quella enorme goffa figura in un atteggiamento
 di attività, o persino di animazione; ed egli era davvero assai animato.
 Balzò dal suo seggio e afferrò un tizzone dal [[motifs/fire|fuoco]],
-e stette brandendolo come una fiammeggiante spada. La donna, non
+e stette brandendolo come una fiammeggiante [[Sword|spada]]. La donna, non
 innaturalmente, strillò e fuggì, che era tutto ciò che egli voleva;
 ma è curioso pensare a cosa deve aver pensato di quel pazzo
 di mostruosa statura che giocolava con le fiamme e apparentemente minacciava
-di dar fuoco alla casa. Tutto quello che egli fece, tuttavia, fu incalzarla
+di dar fuoco alla [[house|casa]]. Tutto quello che egli fece, tuttavia, fu incalzarla
 fino alla porta e sbatterla e sbarrarla dietro di lei; e poi, con una sorta
 di impulso di violento rito, cacciò il tizzone ardente nella porta,
 annerendola e ustionandola con un grande nero segno della [[motifs/cross|croce]].
 Poi ritornò, e lo lasciò cadere di nuovo nel [[motifs/fire|fuoco]]; e si sedette
-su quel seggio di sedentaria erudizione, quella cattedra di filosofia,
+su quel seggio di sedentaria erudizione, quella cattedra di [[philosophy|filosofia]],
 quel segreto trono di contemplazione, dal quale non si [[motifs/rose|levò]] mai più.
 
 --/--
@@ -2783,8 +2783,8 @@ the mediaeval Church persecuted all scientists as wizards.
 It is very nearly the opposite of the [[concepts/truth|truth]].  The world sometimes
 persecuted them as wizards, and sometimes ran after them as wizards;
 the sort of pursuing that is the reverse of persecuting.
-The Church alone regarded them really and solely as scientists.
-Many an enquiring cleric was charged with mere magic in making his lenses
+The Church [[Alone|alone]] regarded them really and solely as scientists.
+Many an enquiring cleric was charged with mere [[Magic|magic]] in making his lenses
 and mirrors; he was charged by his rude and rustic neighbours; and would
 probably have been charged in exactly the same way if they had been Pagan
 neighbours or Puritan neighbours or Seventh-Day Adventist neighbours.
@@ -2805,7 +2805,7 @@ were in many ways more limited still.  But it is not really so much
 a question of access to the facts, as of attitude to the facts.
 Most of the Schoolmen, if informed by the only informants they
 had that a unicorn has one horn or a salamander lives in the [[motifs/fire|fire]],
-still used it more as an illustration of logic than an incident of life.
+still used it more as an illustration of [[logic]] than an incident of life.
 What they really said was, "If a Unicorn has one horn, two unicorns have
 as many horns as one cow."  And that has not one inch the less a fact
 because the unicorn is a [[forms/fable|fable]].  But with Albertus in medieval times,
@@ -2822,14 +2822,14 @@ that space is limited, and that there is no such thing as an atom.
 This great German, known in his most famous period as a professor
 in [[settings/paris|Paris]], was previously for some [[motifs/time|time]] professor at Cologne.
 In that beautiful Roman [[motifs/city|city]], there gathered round him in thousands the
-lovers of that extraordinary life; the student life of the Middle Ages.
+[[lovers]] of that extraordinary life; the student life of the Middle Ages.
 They came together in great groups called Nations; and the fact
 illustrates very [[motifs/well|well]] the difference between medieval nationalism
 and modern nationalism.  For although there might any morning
 be a brawl between the Spanish students and the Scottish students,
 or between the Flemish and the French, and swords flash or stones fly
 on the most purely patriotic principles, the fact remains that they
-had all come to the same school to learn the same philosophy.
+had all come to the same school to learn the same [[philosophy]].
 And though that might not prevent the starting of a quarrel,
 it might have a great deal to do with the ending of it.
 Before these motley groups of men from the ends of the earth,
@@ -2841,7 +2841,7 @@ about the deeper matters of men and morals; about which he was
 content to hand on a decent and Christianised Aristotelianism;
 he was even in a sense ready to compromise upon the merely
 metaphysical issue of the Nominalists and the Realists.
-He would never have maintained alone the great war that was coming,
+He would never have maintained [[Alone|alone]] the great war that was coming,
 for a balanced and humanised [[historical-references/christianity|Christianity]]; but when it came,
 he was entirely on its side.  He was called the Universal Doctor,
 because of the range of his scientific studies; yet he was in
@@ -2861,7 +2861,7 @@ imposing stature began to have only the ignominious immensity of the big
 boy left behind in the lowest form.  He was called the Dumb Ox.
 He was the object, not merely of mockery, but of pity.
 One good-natured student pitied him so much as to try to help him
-with his lessons, going over the elements of logic like an alphabet
+with his lessons, going over the elements of [[logic]] like an alphabet
 in a horn-book. The dunce thanked him with pathetic politeness;
 and the philanthropist went on swimmingly, till he came to a passage
 about which he was himself a little doubtful; about which, in point
@@ -2889,8 +2889,8 @@ la Chiesa medievale perseguitasse tutti gli scienziati come stregoni.
 È molto vicino all'opposto della [[concepts/truth|verità]]. Il mondo talvolta
 li perseguitava come stregoni, e talvolta correva dietro a loro come stregoni;
 quella sorta di inseguimento che è il rovescio della persecuzione.
-La Chiesa sola li considerava realmente e unicamente come scienziati.
-Più d'un chierico indagatore fu accusato di mera magia nel fabbricare le sue lenti
+La Chiesa [[Alone|sola]] li considerava realmente e unicamente come scienziati.
+Più d'un chierico indagatore fu accusato di mera [[Magic|magia]] nel fabbricare le sue lenti
 e i suoi specchi; era accusato dai suoi rozzi e rustici vicini; e sarebbe
 probabilmente stato accusato esattamente allo stesso modo se fossero stati vicini pagani
 o vicini puritani o vicini Avventisti del Settimo Giorno.
@@ -2911,7 +2911,7 @@ erano per molti versi ancora più limitati. Ma non è in realtà tanto
 una questione di accesso ai fatti, quanto di atteggiamento verso i fatti.
 La maggior parte degli Scolastici, se informati dagli unici informatori che
 avevano che un unicorno ha un solo corno o che una salamandra vive nel [[motifs/fire|fuoco]],
-lo usavano ancora più come illustrazione di logica che come episodio di vita.
+lo usavano ancora più come illustrazione di [[logic|logica]] che come episodio di vita.
 Ciò che realmente dicevano era: "Se un Unicorno ha un solo corno, due unicorni hanno
 tanti corni quanti una vacca". E ciò non è di un pollice meno un fatto
 perché l'unicorno è una [[forms/fable|favola]]. Ma con Alberto nei tempi medievali,
@@ -2928,14 +2928,14 @@ che lo spazio è limitato, e che non esiste cosa alcuna come l'atomo.
 Questo grande tedesco, noto nel suo periodo più celebre come professore
 a [[settings/paris|Parigi]], fu in precedenza per qualche [[motifs/time|tempo]] professore a Colonia.
 In quella bella [[motifs/city|città]] romana, si radunarono attorno a lui a migliaia gli
-amanti di quella straordinaria vita; la vita studentesca del Medioevo.
+[[lovers|amanti]] di quella straordinaria vita; la vita studentesca del Medioevo.
 Si riunivano in grandi gruppi chiamati Nazioni; e il fatto
 illustra assai [[motifs/well|bene]] la differenza tra il nazionalismo medievale
 e il nazionalismo moderno. Poiché sebbene ogni mattina potesse esservi
 una rissa tra gli studenti spagnoli e gli studenti scozzesi,
 o tra i fiamminghi e i francesi, e balenassero spade o volassero pietre
 sui più puramente patriottici principii, resta il fatto che essi
-erano tutti venuti alla stessa scuola per apprendere la stessa filosofia.
+erano tutti venuti alla stessa scuola per apprendere la stessa [[philosophy|filosofia]].
 E benché ciò potesse non impedire l'inizio di un litigio,
 poteva avere molto a che fare con la fine di esso.
 Dinanzi a questi variopinti gruppi di uomini venuti dai confini della terra,
@@ -2947,7 +2947,7 @@ sulle materie più profonde degli uomini e della morale; riguardo alle quali era
 contento di trasmettere un decoroso e cristianizzato aristotelismo;
 era persino in un certo senso pronto a scendere a compromessi sulla
 questione meramente metafisica dei Nominalisti e dei Realisti.
-Non avrebbe mai da solo sostenuto la grande guerra che stava venendo,
+Non avrebbe mai da [[Alone|solo]] sostenuto la grande guerra che stava venendo,
 per un Cristianesimo bilanciato e umanizzato; ma quando venne,
 egli fu interamente dalla sua parte. Fu chiamato il Dottore Universale,
 per l'estensione dei suoi studi scientifici; eppure era in
@@ -2967,7 +2967,7 @@ imponente statura cominciò ad avere solo l'ignominiosa immensità del grosso
 ragazzo lasciato indietro nella classe più bassa. Fu chiamato il Bue Muto.
 Era l'oggetto, non soltanto di scherno, ma di pietà.
 Uno studente di buon cuore lo compassionò a tal punto da tentare di aiutarlo
-nelle sue lezioni, ripassando gli elementi della logica come un alfabeto
+nelle sue lezioni, ripassando gli elementi della [[logic|logica]] come un alfabeto
 in un abbecedario. Lo zuccone lo ringraziò con patetica cortesia;
 e il filantropo proseguì a gonfie vele, finché giunse a un passo
 sul quale egli stesso era un po' dubbioso; sul quale, di fatto,
@@ -3012,7 +3012,7 @@ It seems probable that it was Albertus Magnus himself, the lecturer
 and learned teacher of all these youths, who first suspected something of
 the kind.  He gave Thomas small jobs to do, of annotation or exposition;
 he persuaded him to banish his bashfulness so as to take part in at
-least one debate.  He was a very shrewd old man and had studied
+least one [[debate]].  He was a very shrewd old man and had studied
 the habits of other [[motifs/animals|animals]] besides the salamander and the unicorn.
 He had studied many specimens of the most monstrous of all monstrosities;
 that is called Man.  He knew the signs and marks of the sort of man,
@@ -3134,7 +3134,7 @@ Sembra probabile che fosse Alberto Magno stesso, il conferenziere
 e dotto maestro di tutti questi giovani, il primo a sospettare qualcosa del
 genere. Egli dava a Tommaso piccoli compiti da svolgere, di annotazione o esposizione;
 lo persuase a bandire la sua timidezza così da prendere parte ad almeno
-un dibattito. Era un vecchio assai accorto e aveva studiato
+un [[debate|dibattito]]. Era un vecchio assai accorto e aveva studiato
 le abitudini di altri [[motifs/animals|animali]] oltre alla salamandra e all'unicorno.
 Aveva studiato molti esemplari della più mostruosa di tutte le mostruosità;
 quella che si chiama Uomo. Conosceva i segni e i tratti di quella sorta d'uomo,
@@ -3279,7 +3279,7 @@ and geographical accident of the Moslem proximity to the culture
 of Byzantium.  The Arabs had got hold of the Greek manuscripts
 before the Latins who were the true heirs of the Greeks.
 And Moslems, though not very orthodox Moslems, were turning Aristotle
-into a pantheist philosophy still less acceptable to orthodox Christians.
+into a pantheist [[philosophy]] still less acceptable to orthodox Christians.
 This second controversy, however, requires more explanation than
 the first.  As is remarked on an introductory page, most modern
 people do know that St. Francis at least was a liberator of
@@ -3290,9 +3290,9 @@ would inform them that this was every bit as true of the Dominican
 as of the Franciscan Friars.  Nobody now is particularly likely
 to start up in defence of feudal abbots or fixed and stationary [[characters/monks|monks]],
 against such impudent innovators as St. Francis and St. Thomas.
-We may therefore be allowed to summarise briefly the great debate
+We may therefore be allowed to summarise briefly the great [[debate]]
 about the Friars, though it shook all Christendom in its day.
-But the greater debate about Aristotle presents a greater difficulty;
+But the greater [[debate]] about Aristotle presents a greater difficulty;
 because there are modern misconceptions about it which can only be
 approached with a little more elaboration.
 
@@ -3386,7 +3386,7 @@ e geografico della prossimità musulmana alla cultura
 di Bisanzio. Gli Arabi si erano impadroniti dei manoscritti greci
 prima dei Latini che erano i veri eredi dei Greci.
 E i Musulmani, benché non molto ortodossi Musulmani, stavano trasformando Aristotele
-in una filosofia panteista ancora meno accettabile agli ortodossi Cristiani.
+in una [[philosophy|filosofia]] panteista ancora meno accettabile agli ortodossi Cristiani.
 Questa seconda controversia, tuttavia, richiede più spiegazioni della
 prima. Come si è osservato in una pagina introduttiva, la maggior parte delle
 persone moderne sa che almeno san Francesco fu un liberatore di
@@ -3397,9 +3397,9 @@ le informerebbe che ciò era vero in tutto e per tutto tanto dei Frati domenican
 quanto dei francescani. Nessuno oggi è particolarmente propenso
 a insorgere in difesa degli abati feudali o dei [[characters/monks|monaci]] fissi e stanziali,
 contro innovatori tanto impudenti quanto san Francesco e san Tommaso.
-Ci sia dunque permesso riassumere brevemente il grande dibattito
+Ci sia dunque permesso riassumere brevemente il grande [[debate|dibattito]]
 sui Frati, benché ai suoi tempi scuotesse tutta la Cristianità.
-Ma il più grande dibattito su Aristotele presenta una maggiore difficoltà;
+Ma il più grande [[debate|dibattito]] su Aristotele presenta una maggiore difficoltà;
 perché vi sono moderni fraintendimenti su di esso che possono solo essere
 affrontati con un po' più di elaborazione.
 
@@ -3457,7 +3457,7 @@ the whole story of the medievals, instantly fell into the trap.
 They assumed that Aristotle was some crabbed antiquity and tyranny
 from the black back of the Dark Ages and that Plato was an
 entirely new Pagan pleasure never yet tasted by Christian men.
-Father Knox has shown in what a startling state of innocence
+Father Knox has shown in what a startling state of [[innocence]]
 is the mind of Mr. H. L. Mencken, for instance, upon this point.
 In fact, of course, the story is exactly the other way round.
 If anything, it was Platonism that was the old orthodoxy.
@@ -3505,7 +3505,7 @@ For on one preliminary point, this position must not be misunderstood.
 When we praise the practical value of the Aristotelian Revolution, and the
 originality of [[characters/aquinas|Aquinas]] in leading it, we do not mean that the Scholastic
 philosophers before him had not been philosophers, or had not been
-highly philosophical, or had not been in touch with ancient philosophy.
+highly philosophical, or had not been in touch with ancient [[philosophy]].
 In so far as there was ever a bad break in philosophical [[concepts/history|history]],
 it was not before St. Thomas, or at the beginning of medieval [[concepts/history|history]];
 it was after St. Thomas and at the beginning of modern [[concepts/history|history]].
@@ -3523,8 +3523,8 @@ period largely had to wait for the eighteenth century, or the end of
 the seventeenth century, to find even the names of the new philosophers;
 who were at the best a new kind of philosophers.  But the decline
 of the Empire, the Dark Ages and the early Middle Ages, though too
-much tempted to neglect what was opposed to Platonic philosophy,
-had never neglected philosophy.  In that sense St. Thomas,
+much tempted to neglect what was opposed to Platonic [[philosophy]],
+had never neglected [[philosophy]].  In that sense St. Thomas,
 like most other very original men, has a long and clear pedigree.
 He himself is constantly referring back to the authorities from
 St. Augustine to St. Anselm, and from St. Anselm to St. Albert,
@@ -3532,14 +3532,14 @@ and even when he differs, he also defers.
 
 A very learned Anglican once said to me, not perhaps without
 a touch of tartness, "I can't understand why everybody talks as if
-Thomas [[characters/aquinas|Aquinas]] were the beginning of the Scholastic philosophy.
+Thomas [[characters/aquinas|Aquinas]] were the beginning of the Scholastic [[philosophy]].
 I could understand their saying he was the end of it."
 Whether or no the comment was meant to be tart, we may be sure
 that the reply of St. Thomas would have been perfectly urbane.
 And indeed it would be easy to answer with a certain placidity,
 that in his Thomist language the end of a thing does not mean
 its destruction, but its fulfilment.  No Thomist will complain,
-if Thomism is the end of our philosophy, in the sense in which God
+if Thomism is the end of our [[philosophy]], in the sense in which God
 is the end of our existence.  For that does not mean that we cease
 to exist, but that we become as perennial as the philosophia perennis.
 Putting this claim on one side, however, it is important to remember
@@ -3552,12 +3552,12 @@ that in some respects the whole [[concepts/nature|nature]] of metaphysics had ad
 a long way since Aristotle, by the [[motifs/time|time]] it came to [[characters/aquinas|Aquinas]].
 And that it is no disrespect to the primitive and gigantic genius
 of the Stagirite to say that in some respects he was really but a rude
-and rough founder of philosophy, compared with some of the subsequent
+and rough founder of [[philosophy]], compared with some of the subsequent
 subtleties of medievalism; that the Greek gave a few grand hints
 which the Scholastics developed into the most delicate fine shades.
 This may be an overstatement, but there is a [[concepts/truth|truth]] in it.
-Anyhow, it is certain that even in Aristotelian philosophy,
-let alone Platonic philosophy, there was already a tradition of highly
+Anyhow, it is certain that even in Aristotelian [[philosophy]],
+let [[Alone|alone]] Platonic [[philosophy]], there was already a tradition of highly
 intelligent interpretation.  If that delicacy afterwards degenerated
 into hair-splitting, it was none the less delicate hair-splitting;
 and work requiring very scientific tools.
@@ -3578,7 +3578,7 @@ intera storia dei medievali, caddero all'istante nella trappola.
 Assunsero che Aristotele fosse una qualche arcigna antichità e tirannia
 proveniente dal nero fondo dei Secoli Bui e che Platone fosse un
 piacere pagano interamente nuovo mai ancora assaporato da uomini cristiani.
-Padre Knox ha mostrato in quale sorprendente stato di innocenza
+Padre Knox ha mostrato in quale sorprendente stato di [[innocence|innocenza]]
 si trovi la mente del signor H. L. Mencken, per esempio, su questo punto.
 Di fatto, naturalmente, la storia è esattamente all'incontrario.
 Semmai, fu il platonismo a essere la vecchia ortodossia.
@@ -3626,7 +3626,7 @@ Poiché su un punto preliminare, questa posizione non deve essere fraintesa.
 Quando lodiamo il valore pratico della Rivoluzione Aristotelica, e l'
 originalità di [[characters/aquinas|d'Aquino]] nel guidarla, non intendiamo che i filosofi Scolastici
 prima di lui non fossero stati filosofi, o non fossero stati
-altamente filosofici, o non fossero stati in contatto con l'antica filosofia.
+altamente filosofici, o non fossero stati in contatto con l'antica [[philosophy|filosofia]].
 In quanto vi fu mai una brutta frattura nella [[concepts/history|storia]] filosofica,
 essa non fu prima di san Tommaso, o all'inizio della [[concepts/history|storia]] medievale;
 fu dopo san Tommaso e all'inizio della [[concepts/history|storia]] moderna.
@@ -3644,8 +3644,8 @@ periodo dovettero in gran parte attendere il diciottesimo secolo, o la fine del
 diciassettesimo secolo, per trovare persino i nomi dei nuovi filosofi;
 che erano al meglio una nuova specie di filosofi. Ma il declino
 dell'Impero, i Secoli Bui e l'alto Medioevo, benché troppo
-tentati di trascurare ciò che si opponeva alla filosofia platonica,
-non avevano mai trascurato la filosofia. In quel senso san Tommaso,
+tentati di trascurare ciò che si opponeva alla [[philosophy|filosofia]] platonica,
+non avevano mai trascurato la [[philosophy|filosofia]]. In quel senso san Tommaso,
 come la maggior parte degli altri uomini assai originali, ha un lungo e chiaro pedigree.
 Egli stesso si riferisce costantemente alle autorità da
 sant'Agostino a sant'Anselmo, e da sant'Anselmo a sant'Alberto,
@@ -3653,14 +3653,14 @@ e persino quando dissente, egli anche defersce.
 
 Un anglicano assai dotto mi disse una volta, forse non senza
 un tocco di asprezza: "Non riesco a capire perché tutti parlino come se
-Tommaso [[characters/aquinas|d'Aquino]] fosse l'inizio della filosofia Scolastica.
+Tommaso [[characters/aquinas|d'Aquino]] fosse l'inizio della [[philosophy|filosofia]] Scolastica.
 Potrei capire che dicessero che egli ne fu la fine".
 Che il commento fosse o no inteso come aspro, possiamo essere sicuri
 che la replica di san Tommaso sarebbe stata perfettamente urbana.
 E in effetti sarebbe facile rispondere con una certa placidità,
 che nel suo linguaggio tomista la fine di una cosa non significa
 la sua distruzione, ma il suo compimento. Nessun tomista si lamenterà,
-se il tomismo è la fine della nostra filosofia, nel senso in cui Dio
+se il tomismo è la fine della nostra [[philosophy|filosofia]], nel senso in cui Dio
 è la fine della nostra esistenza. Poiché ciò non significa che noi cessiamo
 di esistere, ma che diveniamo perenni come la philosophia perennis.
 Mettendo questa pretesa da un lato, tuttavia, è importante ricordare
@@ -3673,12 +3673,12 @@ che sotto certi aspetti l'intera [[concepts/nature|natura]] della metafisica era
 di un lungo tratto dai tempi di Aristotele, quando essa giunse a [[characters/aquinas|d'Aquino]].
 E che non è alcuna mancanza di rispetto verso il primitivo e gigantesco genio
 dello Stagirita dire che sotto certi aspetti egli fu davvero soltanto un rude
-e rozzo fondatore della filosofia, se paragonato ad alcune delle susseguenti
+e rozzo fondatore della [[philosophy|filosofia]], se paragonato ad alcune delle susseguenti
 sottigliezze del medievalismo; che il Greco diede pochi grandi accenni
 che gli Scolastici svilupparono nelle più delicate fini sfumature.
 Questa può essere un'esagerazione, ma c'è una [[concepts/truth|verità]] in essa.
-Comunque, è certo che persino nella filosofia aristotelica,
-per non dire nella filosofia platonica, vi era già una tradizione di
+Comunque, è certo che persino nella [[philosophy|filosofia]] aristotelica,
+per non dire nella [[philosophy|filosofia]] platonica, vi era già una tradizione di
 altamente intelligente interpretazione. Se quella delicatezza in seguito degenerò
 nel cavillo, era nondimeno delicato cavillo;
 e opera che richiedeva strumenti assai scientifici.
@@ -3758,7 +3758,7 @@ just as [[characters/aquinas|Aquinas]] accepted things as God created them.  In 
 of St. Thomas the world of positive creation is perpetually present.
 Humanly speaking, it was he who saved the human element in
 Christian theology, if he used for convenience certain elements
-in heathen philosophy.  Only, as has already been urged, the human
+in heathen [[philosophy]].  Only, as has already been urged, the human
 element is also the Christian one.
 
 The panic upon the Aristotelian peril, that had passed across the high
@@ -3790,7 +3790,7 @@ and the [[concepts/fear|fear]] of Mahomet, there was a moment when the prospects
 of any Aristotelian culture in Christendom looked very dark indeed.
 Anathema after anathema was thundered from high places; and under
 the [[archetypes/shadow|shadow]] of the persecution, as so often happens, it seemed for a moment
-that barely one or two figures stood alone in the [[motifs/storm|storm]]-swept area.
+that barely one or two figures stood [[Alone|alone]] in the [[motifs/storm|storm]]-swept area.
 They were both in the black and white of the Dominicans;
 for Albertus and [[characters/aquinas|Aquinas]] stood firm.
 
@@ -3867,7 +3867,7 @@ proprio come [[characters/aquinas|Aquino]] accettava le cose come Dio le aveva c
 di san Tommaso il mondo della creazione positiva è perpetuamente presente.
 Umanamente parlando, fu lui a salvare l'elemento umano nella
 teologia cristiana, pur usando per comodità certi elementi
-della filosofia pagana.  Solo che, come già si è insistito, l'elemento
+della [[philosophy|filosofia]] pagana.  Solo che, come già si è insistito, l'elemento
 umano è anche quello cristiano.
 
 Il panico per il pericolo aristotelico, che era passato per gli alti
@@ -3899,7 +3899,7 @@ e la [[concepts/fear|paura]] di Maometto, vi fu un momento in cui le prospettive
 di una qualsiasi cultura aristotelica nella Cristianità apparvero davvero assai fosche.
 Anatema dopo anatema tuonava dagli alti luoghi; e sotto
 l'[[archetypes/shadow|ombra]] della persecuzione, come spesso accade, parve per un momento
-che appena una o due figure stessero sole nell'area spazzata dalla [[motifs/storm|tempesta]].
+che appena una o due figure stessero [[Alone|sole]] nell'area spazzata dalla [[motifs/storm|tempesta]].
 Erano entrambe nel bianco e nero dei domenicani;
 poiché Alberto e [[characters/aquinas|Aquino]] tennero saldo.
 
@@ -3909,10 +3909,10 @@ poiché Alberto e [[characters/aquinas|Aquino]] tennero saldo.
 
 
 In that sort of combat there is always confusion; and majorities
-change into minorities and back again, as if by magic.  It is always
+change into minorities and back again, as if by [[Magic|magic]].  It is always
 difficult to date the turn of the tide, which seems to be a welter
 of eddies; the very dates seeming to overlap and confuse the crisis.
-But the change, from the moment when the two Dominicans stood alone
+But the change, from the moment when the two Dominicans stood [[Alone|alone]]
 to the moment when the whole Church at last wheeled into line
 with them, may perhaps be found at about the moment when they
 were practically brought before a hostile but a not unjust judge.
@@ -3952,7 +3952,7 @@ Behind the scenes, where the Pope was much more tolerant than the
 a new [[forms/translation|translation]] of Aristotle.  It demonstrated that in many ways
 the heretical [[forms/translation|translation]] had been a very heretical [[forms/translation|translation]].
 With the final consummation of this work, we may say that the great
-Greek philosophy entered finally into the system of Christendom.
+Greek [[philosophy]] entered finally into the system of Christendom.
 The process has been half humourously described as the Baptism
 of Aristotle.
 
@@ -3994,7 +3994,7 @@ but he was willing to begin to study the reality of the world in the
 reality of the worm.  His Aristotelianism simply meant that the study
 of the humblest fact will lead to the study of the highest [[concepts/truth|truth]].
 That for him the process was logical and not biological, was concerned
-with philosophy rather than science, does not alter the essential
+with [[philosophy]] rather than science, does not alter the essential
 idea that he believed in beginning at the [[characters/bottom|bottom]] of the ladder.
 But he also gave, by his view of Scripture and Science,
 and other questions, a sort of charter for pioneers more purely
@@ -4011,10 +4011,10 @@ a just frontier between them.
 <span class="qlang-split" data-lang="it"></span>
 
 In quella sorta di battaglia c'è sempre confusione; e le maggioranze
-mutano in minoranze e viceversa, come per magia.  È sempre
+mutano in minoranze e viceversa, come per [[Magic|magia]].  È sempre
 difficile datare il volgere della marea, che pare un guazzabuglio
 di gorghi; le date stesse paiono sovrapporsi e confondere la crisi.
-Ma il cambiamento, dal momento in cui i due domenicani stettero soli
+Ma il cambiamento, dal momento in cui i due domenicani stettero [[Alone|soli]]
 al momento in cui l'intera Chiesa finalmente si schierò in linea
 con loro, si può forse collocare all'incirca nel momento in cui essi
 furono praticamente condotti dinanzi a un giudice ostile ma non ingiusto.
@@ -4054,7 +4054,7 @@ vescovo di [[settings/paris|Parigi]], gli amici di [[characters/aquinas|Aquino]]
 una nuova [[forms/translation|traduzione]] di Aristotele.  Essa dimostrava che per molti versi
 la [[forms/translation|traduzione]] eretica era stata una [[forms/translation|traduzione]] assai eretica.
 Con il compimento finale di quest'opera, possiamo dire che la grande
-filosofia greca entrò definitivamente nel sistema della Cristianità.
+[[philosophy|filosofia]] greca entrò definitivamente nel sistema della Cristianità.
 Il processo è stato descritto, con un po' di umorismo, come il Battesimo
 di Aristotele.
 
@@ -4096,7 +4096,7 @@ ma era disposto a cominciare a studiare la realtà del mondo nella
 realtà del verme.  Il suo aristotelismo significava semplicemente che lo studio
 del più umile fatto conduce allo studio della più alta [[concepts/truth|verità]].
 Che per lui il processo fosse logico e non biologico, che riguardasse
-la filosofia più che la scienza, non altera l'idea essenziale
+la [[philosophy|filosofia]] più che la scienza, non altera l'idea essenziale
 che egli credeva nel cominciare dal fondo, dal [[characters/bottom|basso]] della scala.
 Ma egli diede anche, con la sua concezione della Scrittura e della Scienza,
 e di altre questioni, una sorta di carta per pionieri più puramente
@@ -4184,7 +4184,7 @@ And Siger of Brabant, following on some of the Arabian Aristotelians,
 advanced a theory which most modern newspaper readers would instantly
 have declared to be the same as the theory of St. Thomas.  That was
 what finally roused St. Thomas to his last and most emphatic protest.
-He had won his battle for a wider scope of philosophy and science;
+He had won his battle for a wider scope of [[philosophy]] and science;
 he had cleared the ground for a general understanding about [[concepts/faith|faith]]
 and enquiry; an understanding that has generally been observed
 among Catholics, and certainly never deserted without disaster.
@@ -4293,7 +4293,7 @@ E Siger di Brabante, seguendo alcuni degli aristotelici arabi,
 avanzò una teoria che la maggior parte dei lettori di giornali moderni avrebbe all'istante
 dichiarato identica alla teoria di san Tommaso.  Fu proprio questo
 a suscitare infine in san Tommaso la sua ultima e più enfatica protesta.
-Egli aveva vinto la sua battaglia per un più ampio raggio di filosofia e scienza;
+Egli aveva vinto la sua battaglia per un più ampio raggio di [[philosophy|filosofia]] e scienza;
 aveva sgombrato il terreno per un'intesa generale sulla [[concepts/faith|fede]]
 e sull'indagine; un'intesa che è stata generalmente osservata
 tra i cattolici, e certamente mai abbandonata senza disastro.
@@ -4360,7 +4360,7 @@ practically dared to suggest that it was the Dominican hood.
 
 So, in his last battle and for the first [[motifs/time|time]], he fought
 as with a battle-axe. There is a ring in the words altogether
-beyond the almost impersonal patience he maintained in debate
+beyond the almost impersonal patience he maintained in [[debate]]
 with so many enemies.  "Behold our refutation of the error.
 It is not based on documents of [[concepts/faith|faith]], but on the reasons and statements
 of the philosophers themselves.  If then anyone there be who,
@@ -4409,7 +4409,7 @@ This is the common sense in a saying attributed to a friend
 of St. Thomas, the great St. Louis, [[characters/king-of-france|King of France]], which shallow
 people quote as a sample of [[concepts/fanaticism|fanaticism]]; the sense of which is, that I
 must either argue with an infidel as a real philosopher can argue,
-or else "thrust a sword through his [[concepts/body|body]] as far as it will go."
+or else "thrust a [[Sword|sword]] through his [[concepts/body|body]] as far as it will go."
 A real philosopher (even of the opposite school) will be the first
 to agree that St. Louis was entirely philosophical.
 
@@ -4459,7 +4459,7 @@ volto osavano praticamente suggerire che fosse il cappuccio domenicano.
 
 Così, nella sua ultima battaglia e per la prima [[motifs/time|volta]], egli combatté
 come con un'ascia da guerra.  Vi è nelle parole un timbro del tutto
-al di là della pazienza quasi impersonale che egli mantenne nel dibattito
+al di là della pazienza quasi impersonale che egli mantenne nel [[debate|dibattito]]
 con tanti nemici.  "Ecco la nostra confutazione dell'errore.
 Essa non si fonda su documenti di [[concepts/faith|fede]], ma sulle ragioni e sugli enunciati
 degli stessi filosofi.  Se dunque vi sia alcuno che,
@@ -4508,7 +4508,7 @@ Questo è il buon senso in un detto attribuito a un amico
 di san Tommaso, il grande san Luigi, [[characters/king-of-france|Re di Francia]], che gli spiriti
 superficiali citano come saggio di [[concepts/fanaticism|fanatismo]]; il cui senso è che io
 devo o discutere con un infedele come può discutere un vero filosofo,
-oppure "trafiggergli il [[concepts/body|corpo]] con una spada fin dove arriva."
+oppure "trafiggergli il [[concepts/body|corpo]] con una [[Sword|spada]] fin dove arriva."
 Un vero filosofo (anche della scuola opposta) sarà il primo
 a convenire che san Luigi fu del tutto filosofico.
 
@@ -4758,7 +4758,7 @@ And then suddenly the goblets leapt and rattled on the board and the great
 table shook, for the friar had brought down his huge fist like a club
 of stone, with a crash that startled everyone like an explosion;
 and had cried out in a strong voice, but like a man in the grip
-of a dream, "And that will settle the Manichees!"
+of [[A Dream|a dream]], "And that will settle the Manichees!"
 
 The palace of a [[archetypes/king|king]], even when it is the palace of a saint,
 has it conventions.  A shock thrilled through the [[settings/court|court]],
@@ -4789,10 +4789,10 @@ This book is meant only to be the [[forms/sketch|sketch]] of a man; but it must
 at least lightly touch, later on, upon a method and a meaning;
 or what our journalism has an annoying way of calling a message.
 A few very inadequate pages must be given to the man in relation
-to his theology and his philosophy; but the thing of which I mean
+to his theology and his [[philosophy]]; but the thing of which I mean
 to speak here is something at once more general and more personal
-even than his philosophy.  I have therefore introduced it here,
-before we come to anything like technical talk about his philosophy.
+even than his [[philosophy]].  I have therefore introduced it here,
+before we come to anything like technical talk about his [[philosophy]].
 It was something that might alternatively be called his
 moral attitude, or his temperamental predisposition, or the purpose
 of his life so far as social and human effects were concerned:
@@ -4832,7 +4832,7 @@ vow of [[motifs/silence|silence]], or a man about town to live a life of strict 
 the average [[archetypes/outsider|outsider]] is convinced, not only that Catholicism is nothing
 except asceticism, but that asceticism is nothing except pessimism.
 He is so obliging as to explain to Catholics why they hold this heroic
-virtue in respect; and is ever ready to point out that the philosophy
+virtue in respect; and is ever ready to point out that the [[philosophy]]
 behind it is an Oriental hatred of anything connected with [[concepts/nature|Nature]],
 and a purely Schopenhauerian disgust with the Will to Live.
 I read in a "high-class" review of Miss Rebecca West's book on
@@ -4843,7 +4843,7 @@ who are in favour of birth and their foes who are in favour
 of birth-control, I will leave the critic to worry out for himself.
 My concern is not with that part of the argument; but with another.
 
-The ordinary modern critic, seeing this ascetic ideal in an
+The ordinary modern critic, seeing this [[ascetic]] ideal in an
 authoritative Church, and not seeing it in most other inhabitants
 of Brixton or Brighton, is apt to say, "This is the result of Authority;
 it would be better to have Religion without Authority."  But in [[concepts/truth|truth]],
@@ -4869,8 +4869,8 @@ in much saner proportion under Catholic Authority than in Pagan
 or Puritan anarchy.  Meanwhile, the whole of this ideal,
 though an essential part of Catholic idealism when it is understood,
 is in some ways entirely a side issue.  It is not the primary principle
-of Catholic philosophy; it is only a particular deduction from
-Catholic ethics.  And when we begin to talk about primary philosophy,
+of Catholic [[philosophy]]; it is only a particular deduction from
+Catholic ethics.  And when we begin to talk about primary [[philosophy]],
 we realise the full and flat contradiction between the monk fasting
 and the fakir hanging himself on hooks.
 
@@ -4881,7 +4881,7 @@ E poi d'improvviso i calici sussultarono e tintinnarono sulla tavola e la grande
 mensa tremò, poiché il frate aveva abbattuto il suo enorme pugno come una mazza
 di pietra, con un fragore che trasalì tutti come un'esplosione;
 e aveva gridato con voce forte, ma come un uomo in preda
-a un sogno: "E questo sistemerà i Manichei!"
+a [[A Dream|un sogno]]: "E questo sistemerà i Manichei!"
 
 Il palazzo di un [[archetypes/king|re]], anche quando è il palazzo di un santo,
 ha le sue convenzioni.  Uno shock percorse la [[settings/court|corte]],
@@ -4912,10 +4912,10 @@ Questo libro vuole essere solo lo [[forms/sketch|schizzo]] di un uomo; ma deve
 almeno sfiorare lievemente, più avanti, un metodo e un significato;
 o quello che il nostro giornalismo ha l'irritante abitudine di chiamare un messaggio.
 Poche pagine assai inadeguate vanno dedicate all'uomo in relazione
-alla sua teologia e alla sua filosofia; ma la cosa di cui intendo
+alla sua teologia e alla sua [[philosophy|filosofia]]; ma la cosa di cui intendo
 parlare qui è qualcosa a un tempo più generale e più personale
-perfino della sua filosofia.  L'ho perciò introdotta qui,
-prima di giungere a qualcosa di simile a un discorso tecnico sulla sua filosofia.
+perfino della sua [[philosophy|filosofia]].  L'ho perciò introdotta qui,
+prima di giungere a qualcosa di simile a un discorso tecnico sulla sua [[philosophy|filosofia]].
 Era qualcosa che si potrebbe in alternativa chiamare il suo
 atteggiamento morale, o la sua predisposizione temperamentale, o lo scopo
 della sua vita per quanto riguarda gli effetti sociali e umani:
@@ -4955,7 +4955,7 @@ trappista di [[motifs/silence|silenzio]], o che un uomo di mondo viva una vita d
 l'[[archetypes/outsider|estraneo]] medio è convinto, non solo che il cattolicesimo non sia nulla
 se non ascetismo, ma che l'ascetismo non sia nulla se non pessimismo.
 Egli è tanto compiacente da spiegare ai cattolici perché essi tengano questa eroica
-virtù in rispetto; ed è sempre pronto a far notare che la filosofia
+virtù in rispetto; ed è sempre pronto a far notare che la [[philosophy|filosofia]]
 che vi sta dietro è un odio orientale per tutto ciò che è connesso con la [[concepts/nature|natura]],
 e un disgusto puramente schopenhaueriano per la Volontà di Vivere.
 Ho letto in una recensione "di alto livello" del libro di Miss Rebecca West su
@@ -4966,7 +4966,7 @@ a essere favorevoli alla nascita e i loro nemici a essere favorevoli
 al controllo delle nascite, lascerò che il critico se lo sbrogli da sé.
 Il mio interesse non è con quella parte dell'argomento; ma con un'altra.
 
-L'ordinario critico moderno, vedendo questo ideale ascetico in una
+L'ordinario critico moderno, vedendo questo ideale [[ascetic|ascetico]] in una
 Chiesa autorevole, e non vedendolo nella maggior parte degli altri abitanti
 di Brixton o Brighton, è incline a dire: "Questo è il risultato dell'Autorità;
 sarebbe meglio avere la Religione senza l'Autorità."  Ma in [[concepts/truth|verità]],
@@ -4992,8 +4992,8 @@ in proporzione assai più sana sotto l'Autorità cattolica che nell'anarchia
 pagana o puritana.  Nel frattempo, l'intero di questo ideale,
 benché sia parte essenziale dell'idealismo cattolico quando è compreso,
 è per certi versi del tutto una questione secondaria.  Non è il principio primario
-della filosofia cattolica; è solo una particolare deduzione dall'
-etica cattolica.  E quando cominciamo a parlare di filosofia primaria,
+della [[philosophy|filosofia]] cattolica; è solo una particolare deduzione dall'
+etica cattolica.  E quando cominciamo a parlare di [[philosophy|filosofia]] primaria,
 ci rendiamo conto della piena e netta contraddizione tra il monaco che digiuna
 e il fachiro che si appende ai ganci.
 
@@ -5002,8 +5002,8 @@ e il fachiro che si appende ai ganci.
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="St. Thomas Aquinas — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/usurper,motif/death,motif/love,motif/mutability,motif/nature,motif/soul,motif/time,motif/well,concept/doubt,concept/nature,histref/christianity,character/aquinas,character/kent,character/satan"></span>
 
 
-Now nobody will begin to understand the Thomist philosophy,
-or indeed the Catholic philosophy, who does not realise that the
+Now nobody will begin to understand the Thomist [[philosophy]],
+or indeed the Catholic [[philosophy]], who does not realise that the
 primary and fundamental part of it is entirely the praise of Life,
 the praise of Being, the praise of God as the Creator of the World.
 Everything else follows a long way after that, being conditioned
@@ -5023,7 +5023,7 @@ And that is where it really does differ, not only from the rather
 excessive eccentricity of the gentleman who hangs himself on hooks,
 but from the whole cosmic theory which is the hook on which he hangs.
 In the case of many Oriental religions, it really is true that
-the asceticism is pessimism; that the ascetic tortures himself
+the asceticism is pessimism; that the [[ascetic]] tortures himself
 to [[motifs/death|death]] out of an abstract hatred of life; that he does nor
 merely mean to control [[concepts/nature|Nature]] as he should, but to contradict
 [[concepts/nature|Nature]] as much as he can.  And though it takes a milder form
@@ -5033,7 +5033,7 @@ of life does really rule as a first principle on so vast a scale.
 One historic form it took was that great enemy of [[historical-references/christianity|Christianity]]
 from its beginnings:  the Manichees.
 
-What is called the Manichean philosophy has had many forms; indeed it
+What is called the Manichean [[philosophy]] has had many forms; indeed it
 has attacked what is immortal and immutable with a very curious kind
 of immortal [[motifs/mutability|mutability]].  It is like the legend of the magician who turns
 himself into a snake or a cloud; and the whole has that nameless
@@ -5053,7 +5053,7 @@ made the evil as [[motifs/well|well]] as the good:  had made an evil will as [[m
 as an evil world.  On this view, if a man chooses to damn his
 [[motifs/soul|soul]] alive, he is not thwarting God's will but rather fulfilling it.
 In these two forms, of the early Gnosticism and the later Calvinism,
-we see the superficial variety and fundamental unity of Manicheanism.
+we see the superficial variety and fundamental [[unity]] of Manicheanism.
 The old Manicheans taught that [[characters/satan|Satan]] originated the whole work of
 creation commonly attributed to God.  The new Calvinists taught that God
 originates the whole work of damnation commonly attributed to [[characters/satan|Satan]].
@@ -5078,7 +5078,7 @@ But it is possible to have bad intentions about good things;
 and good things, like the world and the flesh have been
 twisted by a bad intention called the devil.  But he cannot
 make things bad; they remain as on the first day of creation.
-The work of heaven alone was material; the making of a material world.
+The work of heaven [[Alone|alone]] was material; the making of a material world.
 The work of hell is entirely spiritual.
 
 This error then had many forms; but especially, like nearly
@@ -5092,7 +5092,7 @@ bit as brazen an atheist assault, in the nineteenth century,
 as the Bolshevist No-God movement in the twentieth century.
 To brag of brute prosperity, to admire the most muddly millionaires
 who had cornered wheat by a trick, to talk about the "unfit"
-(in imitation of the scientific thinker who would finish them off
+(in [[Imitation|imitation]] of the scientific thinker who would finish them off
 because he cannot even finish his own sentence--unfit for what?)--
 all that is as simply and openly Anti-Christian as the Black Mass.
 Yet some weak and worldly Catholics did use this cant in defence
@@ -5115,8 +5115,8 @@ the miscalculation of Platonism had come very near to Manicheanism.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ora nessuno comincerà a comprendere la filosofia tomista,
-né invero la filosofia cattolica, se non si rende conto che la
+Ora nessuno comincerà a comprendere la [[philosophy|filosofia]] tomista,
+né invero la [[philosophy|filosofia]] cattolica, se non si rende conto che la
 parte primaria e fondamentale di essa è interamente la lode della Vita,
 la lode dell'Essere, la lode di Dio come Creatore del Mondo.
 Tutto il resto segue assai più tardi, essendo condizionato
@@ -5136,7 +5136,7 @@ Ed è qui che esso differisce davvero, non solo dalla piuttosto
 eccessiva eccentricità del gentiluomo che si appende ai ganci,
 ma dall'intera teoria cosmica che è il gancio a cui egli si appende.
 Nel caso di molte religioni orientali, è davvero vero che
-l'ascetismo è pessimismo; che l'asceta si tortura
+l'ascetismo è pessimismo; che l'[[ascetic|asceta]] si tortura
 fino alla [[motifs/death|morte]] per un astratto odio della vita; che egli non
 intende semplicemente controllare la [[concepts/nature|natura]] come dovrebbe, ma contraddire
 la [[concepts/nature|natura]] quanto più può.  E benché assuma forma più mite
@@ -5146,7 +5146,7 @@ della vita governi davvero come primo principio su scala tanto vasta.
 Una forma storica che esso assunse fu quel grande nemico del [[historical-references/christianity|Cristianesimo]]
 fin dai suoi inizi:  i Manichei.
 
-Ciò che si chiama la filosofia manichea ha avuto molte forme; anzi essa
+Ciò che si chiama la [[philosophy|filosofia]] manichea ha avuto molte forme; anzi essa
 ha assalito ciò che è immortale e immutabile con una specie assai curiosa
 di immortale [[motifs/mutability|mutevolezza]].  È come la leggenda del mago che si muta
 in un serpente o in una nube; e il tutto ha quella innominabile
@@ -5166,7 +5166,7 @@ aveva fatto il male non meno [[motifs/well|bene]] del bene:  aveva fatto una vol
 di un mondo malvagio.  In questa veduta, se un uomo sceglie di dannare la propria
 [[motifs/soul|anima]] da vivo, egli non contrasta la volontà di Dio ma piuttosto la compie.
 In queste due forme, del primo gnosticismo e del più tardo calvinismo,
-vediamo la superficiale varietà e la fondamentale unità del manicheismo.
+vediamo la superficiale varietà e la fondamentale [[unity|unità]] del manicheismo.
 I vecchi Manichei insegnavano che [[characters/satan|Satana]] fu all'origine dell'intera opera
 della creazione comunemente attribuita a Dio.  I nuovi calvinisti insegnavano che Dio
 è all'origine dell'intera opera della dannazione comunemente attribuita a [[characters/satan|Satana]].
@@ -5191,7 +5191,7 @@ Ma è possibile avere cattive intenzioni su cose buone;
 e cose buone, come il mondo e la carne, sono state
 travolte da una cattiva intenzione chiamata il diavolo.  Ma egli non può
 rendere cattive le cose; esse rimangono come nel primo giorno della creazione.
-Soltanto l'opera del cielo fu materiale; il fare di un mondo materiale.
+[[Alone|Soltanto]] l'opera del cielo fu materiale; il fare di un mondo materiale.
 L'opera dell'inferno è interamente spirituale.
 
 Questo errore ebbe dunque molte forme; ma specialmente, come quasi
@@ -5205,7 +5205,7 @@ sfrontato un assalto ateo, nel diciannovesimo secolo,
 quanto il movimento bolscevico del Senza-Dio nel ventesimo.
 Vantarsi della bruta prosperità, ammirare i più confusi milionari
 che avevano accaparrato il grano con un trucco, parlare degli "inadatti"
-(a imitazione del pensatore scientifico che vorrebbe farli fuori
+(a [[Imitation|imitazione]] del pensatore scientifico che vorrebbe farli fuori
 perché non riesce nemmeno a finire la propria frase—inadatti a che cosa?)—
 tutto ciò è tanto semplicemente e apertamente anticristiano quanto la Messa Nera.
 Eppure alcuni deboli e mondani cattolici usarono davvero questo gergo in difesa
@@ -5247,7 +5247,7 @@ It is true that, quite apart from the local perversion, there was
 in Plato a sort of idea that people would be better without
 their bodies:  that their heads might fly off and meet in the sky
 in merely intellectual [[motifs/marriage|marriage]], like cherubs in a picture.
-The ultimate phase of this "Platonic" philosophy was what inflamed
+The ultimate phase of this "Platonic" [[philosophy]] was what inflamed
 poor D. H. Lawrence into talking nonsense, and he was probably unaware
 that the Catholic doctrine of [[motifs/marriage|marriage]] would say much of what he said,
 without talking nonsense.  Anyhow, it is historically important to see
@@ -5259,7 +5259,7 @@ and some of them to abandon everything in [[concepts/despair|despair]].
 
 In [[concepts/truth|truth]], this vividly illuminates the provincial stupidity
 of those who object to what they call "creeds and dogmas."
-It was precisely the creed and dogma that saved the sanity of the world.
+It was precisely the creed and dogma that saved the [[Sanity|sanity]] of the world.
 These people generally propose an alternative religion of intuition
 and feeling.  If, in the really Dark Ages, there had been a religion
 of feeling, it would have been a religion of black and suicidal feeling.
@@ -5312,7 +5312,7 @@ and often looking at all life through different coloured spectacles.
 To say that Schopenhauer had the blues, or that William James had
 a rather rosier outlook, would often convey more than calling the one
 a Pessimist or the other a Pragmatist.  This modern moodiness has
-its value, though the moderns overrate it; just as medieval logic
+its value, though the moderns overrate it; just as medieval [[logic]]
 had its value, though it was overrated in the later Middle Ages.
 But the point is that to explain the medievals to the moderns,
 we must often use this modern language of mood.  Otherwise the character
@@ -5373,7 +5373,7 @@ tutto platonica."  È vero che, del tutto a parte la perversione locale,
 c'era in Platone una sorta di idea per cui gli uomini starebbero meglio
 senza il loro corpo:  che le loro teste potrebbero volar via e
 incontrarsi nel cielo in un [[motifs/marriage|matrimonio]] puramente intellettuale,
-come cherubini in un quadro.  La fase ultima di questa filosofia
+come cherubini in un quadro.  La fase ultima di questa [[philosophy|filosofia]]
 "platonica" fu ciò che infiammò il povero D. H. Lawrence a dire
 sciocchezze, ed egli probabilmente ignorava che la dottrina cattolica
 del [[motifs/marriage|matrimonio]] avrebbe detto gran parte di ciò che egli diceva,
@@ -5387,7 +5387,7 @@ loro tali da abbandonare ogni cosa nella [[concepts/despair|disperazione]].
 
 In [[concepts/truth|verità]], ciò illumina vividamente la stupidità provinciale di
 coloro che si oppongono a quelli che chiamano "credi e dogmi."
-Fu precisamente il credo e il dogma a salvare la sanità mentale
+Fu precisamente il credo e il dogma a salvare la [[Sanity|sanità mentale]]
 del mondo.  Costoro propongono generalmente una religione alternativa
 di intuizione e sentimento.  Se, nei Secoli davvero Bui, ci fosse stata
 una religione del sentimento, sarebbe stata una religione di sentimenti
@@ -5442,7 +5442,7 @@ Dire che Schopenhauer aveva il malumore, o che William James aveva una
 prospettiva alquanto più rosea, spesso comunicherebbe di più che
 chiamare l'uno un Pessimista e l'altro un Pragmatista.  Questo umoralismo
 moderno ha il suo valore, benché i moderni lo sopravvalutino; proprio
-come la logica medievale aveva il suo valore, benché fosse
+come la [[logic|logica]] medievale aveva il suo valore, benché fosse
 sopravvalutata nel tardo Medioevo.  Ma il punto è che, per spiegare i
 medievali ai moderni, dobbiamo spesso usare questo linguaggio moderno
 dello stato d'animo.  Altrimenti il carattere andrà perduto, a causa di
@@ -5555,7 +5555,7 @@ on the [[motifs/wheel|wheel]].
 and whirlpools of the earth, stands up the [[concepts/faith|faith]] of St. Thomas:
 weighted and balanced indeed with more than Oriental metaphysics
 and more than Pagan pomp and pageantry; but vitally and vividly
-alone in declaring that life is a living story, with a great
+[[Alone|alone]] in declaring that life is a living story, with a great
 beginning and a great close; rooted in the primeval joy of God
 and finding its fruition in the final happiness of humanity;
 opening with the colossal [[characters/chorus|chorus]] in which the sons of God shouted
@@ -5563,12 +5563,12 @@ for joy, and ending in that mystical [[concepts/comradeship|comradeship]], shown
 fashion in those ancient words that move like an archaic [[motifs/dance|dance]];
 "For His delight is with the sons of men."
 
-It is the fate of this [[forms/sketch|sketch]] to be sketchy about philosophy,
+It is the fate of this [[forms/sketch|sketch]] to be sketchy about [[philosophy]],
 scanty or rather empty about theology, and to achieve little
 more than a decent [[motifs/silence|silence]] on the subject of sanctity.
 And yet it must none the less be the recurrent burden of this
 little book, to which it must return with some monotony,
-that in this story the philosophy did depend on the theology,
+that in this story the [[philosophy]] did depend on the theology,
 and the theology did depend on the sanctity.  In other words, it must
 repeat the first fact, which was emphasised in the first chapter:
 that this great intellectual creation was a Christian and
@@ -5661,10 +5661,10 @@ di selvaggia [[concepts/freedom|libertà]] o di fresca e creativa innovazione.  
 una volta egli aveva tentato di prorompere; ma anche lui fu solo
 spezzato--sulla [[motifs/wheel|ruota]].
 
-Sola sulla terra, e sollevata e liberata da tutte le ruote e i gorghi
+[[Alone|Sola]] sulla terra, e sollevata e liberata da tutte le ruote e i gorghi
 della terra, si erge la [[concepts/faith|fede]] di san Tommaso:  gravata e bilanciata,
 in verità, da più che orientale metafisica e più che pagana pompa e
-sfarzo; ma vitalmente e vividamente sola nel dichiarare che la vita
+sfarzo; ma vitalmente e vividamente [[Alone|sola]] nel dichiarare che la vita
 è una storia vivente, con un grande principio e un grande epilogo;
 radicata nella primeva gioia di Dio e che trova il suo compimento nella
 felicità ultima dell'umanità; che si apre con il colossale [[characters/chorus|coro]] in
@@ -5673,12 +5673,12 @@ cui i figli di Dio gridarono di gioia, e si chiude in quella mistica
 muovono come una arcaica [[motifs/dance|danza]]; "Poiché la Sua delizia è con i figli
 degli uomini."
 
-È il destino di questo [[forms/sketch|schizzo]] essere schematico sulla filosofia,
+È il destino di questo [[forms/sketch|schizzo]] essere schematico sulla [[philosophy|filosofia]],
 scarno o piuttosto vuoto sulla teologia, e raggiungere poco più di un
 decoroso [[motifs/silence|silenzio]] sul tema della santità.  E tuttavia deve
 nondimeno essere il ritornello ricorrente di questo piccolo libro, al
 quale esso deve tornare con una certa monotonia, che in questa storia la
-filosofia dipendeva dalla teologia, e la teologia dipendeva dalla
+[[philosophy|filosofia]] dipendeva dalla teologia, e la teologia dipendeva dalla
 santità.  In altre parole, esso deve ripetere il primo fatto, che fu
 sottolineato nel primo capitolo:  che questa grande creazione
 intellettuale fu una creazione cristiana e cattolica e non può essere
@@ -5711,9 +5711,9 @@ il mondo intero si fidò della sua parola.
 <span class="atom-split" data-atom="chapter_04--part_06" data-title="St. Thomas Aquinas — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/ghost,motif/cross,motif/desire,motif/dust,motif/great_house,motif/nature,motif/soul,concept/body,concept/common_man,concept/history,concept/humility,concept/nature,concept/truth,concept/wonder,form/history,form/sketch,setting/italy,character/aquinas,character/christ"></span>
 
 
-Second, in the philosophy of St. Thomas, it is proved by the fact
+Second, in the [[philosophy]] of St. Thomas, it is proved by the fact
 that everything depended on the new Christian motive for the study
-of facts, as distinct from truths.  The Thomist philosophy began
+of facts, as distinct from truths.  The Thomist [[philosophy]] began
 with the lowest roots of thought, the senses and the truisms
 of the reason; and a Pagan sage might have scorned such things,
 as he scorned the servile arts.  But the materialism, which is merely
@@ -5759,7 +5759,7 @@ When once [[characters/christ|Christ]] had risen, it was inevitable that Aristot
 should rise again.
 
 Those are three real reasons, and very sufficient reasons, for the general
-support given by the saint to a solid and objective philosophy.
+support given by the saint to a solid and objective [[philosophy]].
 And yet there was something else, very vast and vague, to which I have
 tried to give a faint expression by the interposition of this chapter.
 It is difficult to express it fully, without the awful peril
@@ -5823,9 +5823,9 @@ as common to uncommon Italians.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Secondo, nella filosofia di san Tommaso, ciò è provato dal fatto
+Secondo, nella [[philosophy|filosofia]] di san Tommaso, ciò è provato dal fatto
 che tutto dipendeva dal nuovo motivo cristiano per lo studio dei fatti,
-distinti dalle verità.  La filosofia tomista cominciava dalle più
+distinti dalle verità.  La [[philosophy|filosofia]] tomista cominciava dalle più
 basse radici del pensiero, i sensi e i truismi della ragione; e un saggio
 pagano avrebbe potuto disprezzare tali cose, come disprezzava le arti
 servili.  Ma il materialismo, che in un pagano è mero cinismo, può essere
@@ -5990,7 +5990,7 @@ portrait of St. Thomas; and you will see a sharp difference.
 While the eyes are indeed completely torn away from the immediate
 surroundings, so that the pot of [[motifs/flowers|flowers]] above the philosopher's
 head might fall on it without attracting his attention,
-they are not in the least wistful, let alone vacant.
+they are not in the least wistful, let [[Alone|alone]] vacant.
 There is kindled in them a [[motifs/fire|fire]] of instant inner excitement; they are
 vivid and very Italian eyes.  The man is thinking about something;
 and something that has reached a crisis; not about nothing
@@ -6207,7 +6207,7 @@ St. Thomas indulged in a denunciation.  There is not a single occasion
 on which he indulged in a sneer.  His curiously simple character,
 his lucid but laborious intellect, could not be better summed up than
 by saying that he did not know how to sneer.  He was in a [[topoi/double|double]] sense
-an intellectual aristocrat:  but he was never an intellectual snob.
+an intellectual [[aristocrat]]:  but he was never an intellectual snob.
 He never troubled at all whether those to whom he talked were
 more or less of the sort whom the world thinks worth talking to:
 and it was apparent by the impression of his contemporaries
@@ -6317,7 +6317,7 @@ Tommaso si abbandonò a una denuncia.  Non c'è una sola occasione in cui
 si abbandonò a un sogghigno.  Il suo carattere curiosamente semplice, il
 suo intelletto lucido ma laborioso, non potrebbero essere meglio riassunti
 che dicendo che egli non sapeva sogghignare.  Egli era in [[topoi/double|duplice]] senso
-un aristocratico intellettuale:  ma non fu mai uno snob intellettuale.
+un [[aristocrat|aristocratico]] intellettuale:  ma non fu mai uno snob intellettuale.
 Non si dava mai alcuna pena se coloro con cui parlava fossero più o meno
 del genere che il mondo ritiene degno di essere ascoltato:  ed era palese,
 dall'impressione dei suoi contemporanei, che coloro che ricevevano le
@@ -6428,7 +6428,7 @@ as of an immense background.
 
 Here, if this slight [[forms/sketch|sketch]] could be worthy of its subject, there should
 stand forth something of that stupendous certitude, in the presence
-of which all his libraries of philosophy, and even theology,
+of which all his libraries of [[philosophy]], and even theology,
 were but a litter of pamphlets.  It is certain that this thing
 was in him from the first, in the form of conviction long before it
 could possibly have even begun to take the form of controversy.
@@ -6453,7 +6453,7 @@ objected mildly, if at all, to his handing out things to beggars
 and tramps; but it was intensely disliked by the upper servants.
 
 Still, if we take the thing as seriously as all childish things should
-be taken, we may learn something from that mysterious state of innocence,
+be taken, we may learn something from that mysterious state of [[innocence]],
 which is the first and best [[motifs/spring|spring]] of all our later indignations.
 We may begin to understand why it was that there grew steadily
 with his growing mind, a great and very solitary mind,
@@ -6463,14 +6463,14 @@ protest or prophecy or [[motifs/prayer|prayer]] for deliverance, before he start
 his family by flinging away not only the trappings of nobility,
 but all forms of [[concepts/ambition|ambition]], even ecclesiastical [[concepts/ambition|ambition]].
 His [[motifs/childhood|childhood]] may contain the hint of that first stride of his manhood,
-from the house onto the highway; and his proclamation that he also
+from the [[house]] onto the highway; and his proclamation that he also
 would be a Beggar.
 
 There is another case of a sort of second glimpse or sequel,
 in which an incident [[motifs/well|well]] known in the external sense gives us
 also a glimpse of the internal.  After the affair of the firebrand,
 and the woman who tempted him in the tower, it is said that he had
-a dream; in which two angels girded him with a cord of [[motifs/fire|fire]],
+[[A Dream|a dream]]; in which two angels girded him with a cord of [[motifs/fire|fire]],
 a thing of terrible [[motifs/pain|pain]] and yet giving a terrible strength;
 and he awoke with a great cry in the darkness.  This also has
 something very vivid about it, under the circumstances;
@@ -6487,7 +6487,7 @@ and the dream of St. Thomas was fulfilled very mystically indeed.
 For he did in fact remain remarkably untroubled on that side
 of his human [[concepts/nature|nature]] after the incident; though it is likely enough
 that the incident had caused an upheaval of his normal humanity,
-which produced a dream stronger than a nightmare.  This is no place
+which produced [[A Dream|a dream]] stronger than a [[nightmare]].  This is no place
 to analyse the psychological fact, which puzzles Non-Catholics so much:
 of the way in which priests do manage to be celibate without ceasing
 to be virile.  Anyhow, it seems probable that in this matter he was
@@ -6536,7 +6536,7 @@ accorgeremmo gradualmente della sua presenza; come di un immenso sfondo.
 
 Qui, se questo lieve [[forms/sketch|schizzo]] potesse essere degno del suo soggetto,
 dovrebbe emergere qualcosa di quella stupenda certezza, alla presenza
-della quale tutte le sue biblioteche di filosofia, e perfino di
+della quale tutte le sue biblioteche di [[philosophy|filosofia]], e perfino di
 teologia, non erano che un mucchio di opuscoli.  È certo che questa cosa
 era in lui fin dal principio, nella forma della convinzione assai prima
 che potesse anche solo aver cominciato a prendere la forma della
@@ -6564,7 +6564,7 @@ intensamente sgradito ai domestici di rango superiore.
 
 Tuttavia, se prendiamo la cosa seriamente come tutte le cose infantili
 dovrebbero essere prese, possiamo apprendere qualcosa da quel misterioso
-stato d'innocenza, che è la prima e migliore [[motifs/spring|sorgente]] di tutte le
+stato d'[[innocence|innocenza]], che è la prima e migliore [[motifs/spring|sorgente]] di tutte le
 nostre successive indignazioni.  Possiamo cominciare a comprendere perché
 crebbe costantemente, con la sua mente in crescita, una grande e assai
 solitaria mente, un'[[concepts/ambition|ambizione]] che era l'inversione di tutte le cose che
@@ -6573,13 +6573,13 @@ di lui, fosse in protesta o profezia o [[motifs/prayer|preghiera]] di liberazion
 che egli sbalordisse la sua famiglia gettando via non solo gli ornamenti
 della nobiltà, ma tutte le forme di [[concepts/ambition|ambizione]], perfino l'[[concepts/ambition|ambizione]]
 ecclesiastica.  La sua [[motifs/childhood|infanzia]] può contenere l'accenno di quel primo
-passo della sua virilità, dalla casa alla strada maestra; e la sua
+passo della sua virilità, dalla [[house|casa]] alla strada maestra; e la sua
 proclamazione che anch'egli sarebbe stato un Mendicante.
 
 C'è un altro caso di una sorta di secondo scorcio o sequela, in cui un
 episodio [[motifs/well|ben]] noto nel senso esteriore ci dà anche uno scorcio
 dell'interiore.  Dopo la faccenda del tizzone, e della donna che lo tentò
-nella torre, si dice che egli ebbe un sogno; in cui due angeli lo
+nella torre, si dice che egli ebbe [[A Dream|un sogno]]; in cui due angeli lo
 cinsero con una corda di [[motifs/fire|fuoco]], cosa di terribile [[motifs/pain|dolore]] eppure che
 dava una terribile forza; ed egli si destò con un grande grido nel buio.
 Anche questo ha qualcosa di assai vivido, date le circostanze; e
@@ -6595,7 +6595,7 @@ di san Tommaso si compì in verità assai misticamente.  Poiché egli di
 fatto rimase notevolmente indisturbato su quel versante della sua natura
 umana dopo l'episodio; benché sia abbastanza probabile che l'episodio
 avesse causato uno sconvolgimento della sua normale umanità, che produsse
-un sogno più forte di un incubo.  Questo non è il luogo per
+[[A Dream|un sogno]] più forte di un [[nightmare|incubo]].  Questo non è il luogo per
 analizzare il fatto psicologico, che tanto sconcerta i non cattolici:  del
 modo in cui i sacerdoti riescono a essere celibi senza cessare di essere
 virili.  Comunque sia, sembra probabile che in questa materia egli fosse
@@ -6853,7 +6853,7 @@ suo essere sollevato miracolosamente a mezz'aria.
 
 
 An acute observer said of Thomas [[characters/aquinas|Aquinas]] in his own [[motifs/time|time]], "He could
-alone restore all philosophy, if it had been burnt by [[motifs/fire|fire]]."
+[[Alone|alone]] restore all [[philosophy]], if it had been burnt by [[motifs/fire|fire]]."
 That is what is meant by saying that he was an original man,
 a creative mind; that he could have made his own cosmos out of stones
 and straws, even without the manuscripts of Aristotle or Augustine.
@@ -6862,24 +6862,24 @@ which a man is most original and that in which he is most interested;
 or between the thing that he does best and the thing that he loves most.
 Because St. Thomas was a unique and striking philosopher, it is
 almost unavoidable that this book should be merely, or mainly,
-a [[forms/sketch|sketch]] of his philosophy.  It cannot be, and does not pretend to be,
+a [[forms/sketch|sketch]] of his [[philosophy]].  It cannot be, and does not pretend to be,
 a [[forms/sketch|sketch]] of his theology.  But this is because the theology of a saint
 is simply the theism of a saint; or rather the theism of all saints.
 It is less individual, but it is much more intense.  It is concerned
 with the common origin; but it is hardly an occasion for originality.
 Thus we are forced to think first of Thomas as the maker of
-the Thomist philosophy; as we think first of Christopher [[characters/columbus|Columbus]]
+the Thomist [[philosophy]]; as we think first of Christopher [[characters/columbus|Columbus]]
 as the discoverer of [[settings/america|America]], though he may have been quite sincere
-in his pious [[concepts/hope|hope]] to convert the Khan of Tartary; or of James Watt
+in his pious [[concepts/hope|hope]] to [[convert]] the Khan of Tartary; or of James Watt
 as the discoverer of the steam-engine, though he may have been
 a devout [[motifs/fire|fire]]-worshipper, or a sincere Scottish Calvinist,
 or all kinds of curious things.  Anyhow, it is but natural that
 Augustine and [[characters/aquinas|Aquinas]], Bonaventure and Duns Scotus, all the doctors
 and the saints, should draw nearer to each other as they approach
 the divine units in things; and that there should in that sense
-be less difference between them in theology than in philosophy.
+be less difference between them in theology than in [[philosophy]].
 It is true that, in some matters, the critics of [[characters/aquinas|Aquinas]]
-thought his philosophy had unduly affected his theology.
+thought his [[philosophy]] had unduly affected his theology.
 This is especially so, touching the charge that he made the state
 of Beatitude too intellectual, conceiving it as the satisfaction
 of the [[motifs/love|love]] of [[concepts/truth|truth]]; rather than specially as the [[concepts/truth|truth]] of [[motifs/love|love]].
@@ -6952,8 +6952,8 @@ earthly life; a hint that [[concepts/history|history]] has never been able to ex
 <span class="qlang-split" data-lang="it"></span>
 
 Un acuto osservatore disse di Tommaso [[characters/aquinas|d'Aquino]] al suo
-[[motifs/time|tempo]]: «Egli potrebbe da solo restaurare tutta
-la filosofia, se essa fosse stata arsa dal [[motifs/fire|fuoco]]».
+[[motifs/time|tempo]]: «Egli potrebbe [[Alone|da solo]] restaurare tutta
+la [[philosophy|filosofia]], se essa fosse stata arsa dal [[motifs/fire|fuoco]]».
 È questo che si intende dicendo che egli era un uomo originale,
 una mente creatrice; che avrebbe potuto costruire un proprio cosmo
 con pietre e fili di paglia, anche senza i manoscritti di Aristotele
@@ -6962,16 +6962,16 @@ un uomo è più originale e ciò a cui è più interessato; ovvero tra ciò
 che fa meglio e ciò che ama di più. Poiché san Tommaso fu un filosofo
 unico e straordinario, è quasi inevitabile che questo libro sia
 soltanto, o principalmente, un [[forms/sketch|abbozzo]] della sua
-filosofia. Non può essere, e non pretende di essere,
+[[philosophy|filosofia]]. Non può essere, e non pretende di essere,
 un [[forms/sketch|abbozzo]] della sua teologia. Ma ciò accade perché la
 teologia di un santo è semplicemente il teismo di un santo; o piuttosto
 il teismo di tutti i santi. È meno individuale, ma è molto più intensa.
 Riguarda l'origine comune; ma difficilmente è occasione di originalità.
 Così siamo costretti a pensare a Tommaso anzitutto come all'artefice
-della filosofia tomista; come pensiamo a Cristoforo
+della [[philosophy|filosofia]] tomista; come pensiamo a Cristoforo
 [[characters/columbus|Colombo]] anzitutto come allo scopritore dell'[[settings/america|America]],
 per quanto egli possa essere stato del tutto sincero nella sua pia
-[[concepts/hope|speranza]] di convertire il Khan di Tartaria; o a
+[[concepts/hope|speranza]] di [[convert|convertire]] il Khan di Tartaria; o a
 James Watt come allo scopritore della macchina a vapore, benché possa
 essere stato un devoto adoratore del [[motifs/fire|fuoco]], o un sincero
 calvinista scozzese, o ogni sorta di cose curiose. In ogni caso, è del
@@ -6979,8 +6979,8 @@ tutto naturale che Agostino e [[characters/aquinas|d'Aquino]], Bonaventura e Dun
 Scoto, tutti i dottori e i santi, si avvicinino gli uni agli altri man
 mano che si accostano alle unità divine nelle cose; e che in tal senso
 vi sia minor differenza tra loro nella teologia che nella
-filosofia. È vero che, in alcune materie, i critici di
-[[characters/aquinas|d'Aquino]] ritennero che la sua filosofia avesse
+[[philosophy|filosofia]]. È vero che, in alcune materie, i critici di
+[[characters/aquinas|d'Aquino]] ritennero che la sua [[philosophy|filosofia]] avesse
 indebitamente influenzato la sua teologia. Ciò vale in special modo
 riguardo all'accusa di aver reso lo stato di Beatitudine troppo
 intellettuale, concependolo come il soddisfacimento dell'[[motifs/love|amore]]
@@ -7062,7 +7062,7 @@ as we may say, in which his outer and his [[concepts/inner-life|inner life]] had
 and coincided; he realised how he had longed from [[motifs/childhood|childhood]] to call
 up all allies in the battle for [[characters/christ|Christ]]; how he had only long
 afterwards called up Aristotle as an ally; and now in that last
-nightmare of sophistry, he had for the first [[motifs/time|time]] truly realised
+[[nightmare]] of sophistry, he had for the first [[motifs/time|time]] truly realised
 that some might really wish [[characters/christ|Christ]] to go down before Aristotle.
 He never recovered from the shock.  He won his battle,
 because he was the best brain of his [[motifs/time|time]], but he could not forget
@@ -7098,7 +7098,7 @@ obedience to the outer command would not in fact frustrate obedience
 to some more mysterious inner command; a signal that only he had seen.
 He set out with his friend on the [[motifs/journey|journey]], proposing to rest
 for the [[motifs/night|night]] with his sister, to whom he was deeply devoted;
-and when he came into her house he was stricken down with some
+and when he came into her [[house]] he was stricken down with some
 unnamed malady.  We need not discuss the doubtful medical problems.
 It is true that he had always been one of those men, healthy in
 the main, who are overthrown by small illnesses; it is equally true
@@ -7111,7 +7111,7 @@ The [[works/song-(poe)|Song]] of Solomon read through to him from beginning to e
 The feelings of the men about him must have been mingled and
 rather indescribable; and certainly quite different from his own.
 He confessed his sins and he received his God; and we may be sure
-that the great philosopher had entirely forgotten philosophy.
+that the great philosopher had entirely forgotten [[philosophy]].
 But it was not entirely so with those who had loved him, or even
 those who merely lived in his [[motifs/time|time]].  The elements of the narrative
 are so few, yet so essential, that we have a strong sense
@@ -7124,7 +7124,7 @@ shaking the ramshackle building in which it is for the moment enclosed.
 For truly that [[motifs/machine|machine]] was made of the wheels of all the worlds;
 and revolved like that cosmos of concentric spheres which,
 whatever its fate in the face of changing science, must always
-be something of a symbol for philosophy; the depth of [[topoi/double|double]] and
+be something of a symbol for [[philosophy]]; the depth of [[topoi/double|double]] and
 triple transparencies more mysterious than darkness; the sevenfold,
 the terrible crystal.  In the world of that mind there was a [[motifs/wheel|wheel]]
 of angels, and a [[motifs/wheel|wheel]] of planets, and a [[motifs/wheel|wheel]] of plants or of [[motifs/animals|animals]];
@@ -7134,7 +7134,7 @@ to a hundred questions in the complexity of ethics or economics.
 But there must have been a moment, when men knew that the thunderous
 mill of thought had stopped suddenly; and that after the shock
 of stillness that [[motifs/wheel|wheel]] would shake the world no more; that there
-was nothing now within that hollow house but a great [[motifs/hill|hill]] of clay;
+was nothing now within that hollow [[house]] but a great [[motifs/hill|hill]] of clay;
 and the confessor, who had been with him in the inner chamber,
 ran forth as if in [[concepts/fear|fear]], and whispered that his confession had been
 that of a [[archetypes/child|child]] of five.
@@ -7151,7 +7151,7 @@ esteriore si erano incrociate e coincise; egli si rese conto di come
 avesse desiderato fin dalla [[motifs/childhood|fanciullezza]] di chiamare a
 raccolta tutti gli alleati nella battaglia per [[characters/christ|Cristo]]; di come
 solo molto tempo dopo avesse chiamato Aristotele come alleato; e ora, in
-quell'ultimo incubo di sofismi, per la prima [[motifs/time|volta]]
+quell'ultimo [[nightmare|incubo]] di sofismi, per la prima [[motifs/time|volta]]
 aveva davvero compreso che alcuni potessero realmente desiderare che
 [[characters/christ|Cristo]] soccombesse dinanzi ad Aristotele. Non si riprese mai da
 quello shock. Vinse la sua battaglia, perché era la mente migliore del suo
@@ -7188,7 +7188,7 @@ esterno non avrebbe di fatto frustrato l'obbedienza a un comando interiore
 più misterioso; un segnale che solo lui aveva visto. Partì con il suo
 amico per il [[motifs/journey|viaggio]], proponendosi di riposare per la
 [[motifs/night|notte]] presso la sorella, alla quale era profondamente devoto; e
-quando entrò nella sua casa fu colpito da un male senza nome. Non
+quando entrò nella sua [[house|casa]] fu colpito da un male senza nome. Non
 occorre discutere i dubbi problemi medici. È vero che era sempre stato uno
 di quegli uomini, sani nel complesso, che vengono abbattuti da piccole
 malattie; è altrettanto vero che non esiste alcun resoconto molto chiaro di
@@ -7196,11 +7196,11 @@ questa particolare malattia. Fu infine trasportato a un monastero a
 Fossanova; e la sua strana fine giunse su di lui a grandi passi. Può valere
 la pena di osservare, per coloro che pensano che egli tenesse in troppo
 scarso conto il lato emotivo o romantico della [[concepts/truth|verità]] religiosa,
-che egli chiese che gli si leggesse il Cantico dei Cantici da cima
+che egli chiese che gli si leggesse il [[Song|Cantico]] dei Cantici da cima
 a fondo. I sentimenti degli uomini intorno a lui devono essere stati misti
 e piuttosto indescrivibili; e certamente assai diversi dai suoi. Egli
 confessò i suoi peccati e ricevette il suo Dio; e possiamo essere certi che
-il grande filosofo aveva interamente dimenticato la filosofia.
+il grande filosofo aveva interamente dimenticato la [[philosophy|filosofia]].
 Ma non fu del tutto così per coloro che lo avevano amato, o anche solo per
 coloro che semplicemente vissero al suo [[motifs/time|tempo]]. Gli elementi del
 racconto sono così pochi, eppure così essenziali, che nel leggere la storia
@@ -7213,7 +7213,7 @@ l'edificio sgangherato in cui è per il momento racchiuso. Perché in verità
 quella [[motifs/machine|macchina]] era fatta delle ruote di tutti i mondi; e
 ruotava come quel cosmo di sfere concentriche che, qualunque sia la sua
 sorte di fronte alla scienza che muta, dovrà sempre essere qualcosa come un
-simbolo per la filosofia; la profondità di [[topoi/double|duplici]]
+simbolo per la [[philosophy|filosofia]]; la profondità di [[topoi/double|duplici]]
 e triplici trasparenze più misteriose delle tenebre; il settemplice, il
 terribile cristallo. Nel mondo di quella mente vi era una [[motifs/wheel|ruota]] di
 angeli, e una [[motifs/wheel|ruota]] di pianeti, e una [[motifs/wheel|ruota]] di piante o
@@ -7223,7 +7223,7 @@ tutte le cose terrene, un'autorità sana e una libertà rispettosa di
 dell'economia. Ma vi deve essere stato un momento in cui gli uomini seppero
 che il tonante mulino del pensiero si era arrestato all'improvviso; e che
 dopo lo shock dell'immobilità quella [[motifs/wheel|ruota]] non avrebbe più scosso
-il mondo; che ormai non c'era nulla dentro quella casa vuota se
+il mondo; che ormai non c'era nulla dentro quella [[house|casa]] vuota se
 non una grande [[motifs/hill|collina]] di argilla; e il confessore, che era stato
 con lui nella stanza interna, corse fuori come in preda alla [[concepts/fear|paura]],
 e sussurrò che la sua confessione era stata quella di un [[archetypes/child|bambino]]
@@ -7240,7 +7240,7 @@ VI
 
 THE APPROACH TO THOMISM
 
-The fact that Thomism is the philosophy of common sense is itself
+The fact that Thomism is the [[philosophy]] of common sense is itself
 a matter of common sense.  Yet it wants a word of explanation,
 because we have so long taken such matters in a very uncommon sense.
 For good or evil, Europe since the [[historical-references/reformation|Reformation]], and most especially
@@ -7274,7 +7274,7 @@ necessities like corn."
 So much is familiar; but what is not even now realised is that
 not only the practical politics, but the abstract philosophies
 of the modern world have had this queer twist.  Since the modern
-world began in the sixteenth century, nobody's system of philosophy
+world began in the sixteenth century, nobody's system of [[philosophy]]
 has really corresponded to everybody's sense of reality:
 to what, if left to themselves, common men would call common sense.
 Each started with a [[concepts/paradox|paradox]]:  a peculiar point of view demanding
@@ -7292,7 +7292,7 @@ he is allowed to give this one twist to the mind.
 It will be understood that in these matters I speak as a [[archetypes/fool|fool]];
 or, as our democratic cousins would say, a moron; anyhow as a man
 in the street; and the only object of this chapter is to show
-that the Thomist philosophy is nearer than most philosophies to
+that the Thomist [[philosophy]] is nearer than most philosophies to
 the mind of the man in the street.  I am not, like Father D'Arcy,
 whose admirable book on St. Thomas has illuminated many problems for me,
 a trained philosopher, acquainted with the technique of the trade.
@@ -7319,16 +7319,16 @@ if there is no Hegel to understand.  Yet Father D'Arcy mentions
 this Hegelian [[concepts/paradox|paradox]] as if it were all in the day's work;
 and of course it is, if the work is reading all the modern
 philosophers as searchingly and sympathetically as he has done.
-And this is what I mean saying that all modern philosophy starts
+And this is what I mean saying that all modern [[philosophy]] starts
 with a stumbling-block. It is surely not too much to say that there
 seems to be a twist, in saying that contraries are not incompatible;
 or that a thing can "be" intelligible and not as yet "be" at all.
 
-Against all this the philosophy of St. Thomas stands founded
+Against all this the [[philosophy]] of St. Thomas stands founded
 on the universal common conviction that eggs are eggs.
 The Hegelian may say that an egg is really a hen, because it is a part
 of an endless process of Becoming; the Berkeleian may hold that poached
-eggs only exist as a dream exists; since it is quite as easy to call
+eggs only exist as [[A Dream|a dream]] exists; since it is quite as easy to call
 the dream the cause of the eggs as the eggs the cause of the dream;
 the Pragmatist may believe that we get the best out of scrambled
 eggs by forgetting that they ever were eggs, and only remembering
@@ -7348,12 +7348,12 @@ VI
 
 L'approccio al tomismo
 
-Il fatto che il tomismo sia la filosofia del senso comune è di per sé una questione di buon senso. Eppure richiede qualche spiegazione, perché abbiamo preso tali questioni in un senso molto insolito da troppo tempo. Per il bene o per il male, l'Europa dalla [[historical-references/reformation|Riforma]], e specialmente l'Inghilterra dalla [[historical-references/reformation|Riforma]], è stata in un senso peculiare la [[motifs/home|casa]] del [[concepts/paradox|paradosso]]. Intendo nel senso molto particolare che il [[concepts/paradox|paradosso]] era a [[motifs/home|casa]], e che gli uomini erano a [[motifs/home|casa]] con esso. L'esempio più comune è l'orgoglio degli inglesi di essere pratici perché non sono logici. Per un antico greco o per un cinese, ciò sembrerebbe esattamente come dire che i commessi di [[settings/london|Londra]] eccellono nel fare somme sui loro registri perché non sono precisi nell'aritmetica. Ma il punto non è che sia un [[concepts/paradox|paradosso]]; è che il paradosso è diventato ortodossia; che gli uomini si riposano in un [[concepts/paradox|paradosso]] con la stessa placidità di una banalità. Non è che l'uomo pratico cammini a testa in giù, cosa che può essere talvolta uno stimolante esercizio ginnico seppur sorprendente; è che si riposi sulla testa; e addirittura dorma sulla testa. Questo è un punto importante, perché l'uso del [[concepts/paradox|paradosso]] è quello di svegliare la mente. Prendete un buon [[concepts/paradox|paradosso]], come quello di [[characters/oliver|Oliver]] Wendell Holmes: "Dateci i lussi della vita e ci passeremo delle necessità". È divertente e quindi attirante; ha un bel tono di sfida; contiene una vera sebbene romantica [[concepts/truth|verità]]. Fa parte del gioco che sia formulato quasi come una contraddizione in termini. Ma la maggior parte della gente concorderebbe sul fatto che ci sarebbe un notevole pericolo nel basare l'intero sistema sociale sull'idea che le necessità non sono necessarie; così come alcuni hanno basato tutta la Costituzione britannica sull'idea che il nonsense alla fine si risolve sempre in senso comune. Eppure, anche qui, si potrebbe dire che l'esempio odioso si è diffuso, e che il moderno sistema industriale dice davvero: "Dateci i lussi come il sapone di catrame di carbone, e ci passeremo delle necessità come il grano".
+Il fatto che il tomismo sia la [[philosophy|filosofia]] del senso comune è di per sé una questione di buon senso. Eppure richiede qualche spiegazione, perché abbiamo preso tali questioni in un senso molto insolito da troppo tempo. Per il bene o per il male, l'Europa dalla [[historical-references/reformation|Riforma]], e specialmente l'Inghilterra dalla [[historical-references/reformation|Riforma]], è stata in un senso peculiare la [[motifs/home|casa]] del [[concepts/paradox|paradosso]]. Intendo nel senso molto particolare che il [[concepts/paradox|paradosso]] era a [[motifs/home|casa]], e che gli uomini erano a [[motifs/home|casa]] con esso. L'esempio più comune è l'orgoglio degli inglesi di essere pratici perché non sono logici. Per un antico greco o per un cinese, ciò sembrerebbe esattamente come dire che i commessi di [[settings/london|Londra]] eccellono nel fare somme sui loro registri perché non sono precisi nell'aritmetica. Ma il punto non è che sia un [[concepts/paradox|paradosso]]; è che il paradosso è diventato ortodossia; che gli uomini si riposano in un [[concepts/paradox|paradosso]] con la stessa placidità di una banalità. Non è che l'uomo pratico cammini a testa in giù, cosa che può essere talvolta uno stimolante esercizio ginnico seppur sorprendente; è che si riposi sulla testa; e addirittura dorma sulla testa. Questo è un punto importante, perché l'uso del [[concepts/paradox|paradosso]] è quello di svegliare la mente. Prendete un buon [[concepts/paradox|paradosso]], come quello di [[characters/oliver|Oliver]] Wendell Holmes: "Dateci i lussi della vita e ci passeremo delle necessità". È divertente e quindi attirante; ha un bel tono di sfida; contiene una vera sebbene romantica [[concepts/truth|verità]]. Fa parte del gioco che sia formulato quasi come una contraddizione in termini. Ma la maggior parte della gente concorderebbe sul fatto che ci sarebbe un notevole pericolo nel basare l'intero sistema sociale sull'idea che le necessità non sono necessarie; così come alcuni hanno basato tutta la Costituzione britannica sull'idea che il nonsense alla fine si risolve sempre in senso comune. Eppure, anche qui, si potrebbe dire che l'esempio odioso si è diffuso, e che il moderno sistema industriale dice davvero: "Dateci i lussi come il sapone di catrame di carbone, e ci passeremo delle necessità come il grano".
 
 Tanto è familiare; ma ciò che non si realizza ancora nemmeno ora è che
 non solo la politica pratica, ma anche le filosofie astratte
 del mondo moderno hanno avuto questa strana torsione.  Da quando il mondo
-moderno iniziò nel sedicesimo secolo, il sistema di filosofia di nessuno ha realmente corrisposto al senso della realtà di tutti:
+moderno iniziò nel sedicesimo secolo, il sistema di [[philosophy|filosofia]] di nessuno ha realmente corrisposto al senso della realtà di tutti:
 a ciò che, se lasciati a sé stessi, gli uomini comuni chiamerebbero buon senso.
 Ognuno è partito con un [[concepts/paradox|paradosso]]:  un punto di vista peculiare che richiedeva
 il sacrificio di quello che avrebbero definito un punto di vista sano.
@@ -7370,7 +7370,7 @@ di dare questa torsione alla mente.
 Si capirà che in queste questioni parlo come un [[archetypes/fool|pazzo]];
 o, come direbbero i nostri cugini democratici, uno scemo; comunque come un uomo
 qualunque; e l'unico scopo di questo capitolo è dimostrare
-che la filosofia tomista è più vicina della maggior parte delle filosofie alla
+che la [[philosophy|filosofia]] tomista è più vicina della maggior parte delle filosofie alla
 mente dell'uomo qualunque. Non sono, come il Padre D'Arcy,
 cui l'ammiro per il libro su San Tommaso che mi ha illuminato su molti problemi,
 un filosofo preparato, esperto nella tecnica del mestiere.
@@ -7394,12 +7394,12 @@ Si può perdonare l'uomo della strada se aggiunge che la
 e Hegel pazzo. Lo scemo rifiuta di ammettere che Hegel possa sia esistere che non esistere; o che sia possibile capire Hegel, se non c'è un Hegel da capire. Eppure il Padre D'Arcy menziona questo [[concepts/paradox|paradosso]] hegeliano come se fosse pane per i suoi denti;
 e naturalmente lo è, se il suo mestiere è leggere tutti i filosofi moderni
 con la stessa attenzione e simpatia con cui li ha letti lui.
-E questo è ciò che intendo quando dico che tutta la filosofia moderna inizia
+E questo è ciò che intendo quando dico che tutta la [[philosophy|filosofia]] moderna inizia
 con un ostacolo. Non sembra esagerato dire che c'è una contorsione nel sostenere che i contrari non sono incompatibili;
 o che una cosa possa "essere" intelligibile e nello stesso tempo non "essere" affatto.
 
-Contro tutto questo la filosofia di San Tommaso si fonda sulla convinzione universale e comune che le uova sono uova.
-Il hegeliano può dire che un uovo è in realtà una gallina, perché fa parte di un processo infinito del Divenire; il berkeleiano può sostenere che le uova strapazzate esistono solo come esiste un sogno; dato che è altrettanto facile chiamare il sogno la causa delle uova quanto le uova la causa del sogno;
+Contro tutto questo la [[philosophy|filosofia]] di San Tommaso si fonda sulla convinzione universale e comune che le uova sono uova.
+Il hegeliano può dire che un uovo è in realtà una gallina, perché fa parte di un processo infinito del Divenire; il berkeleiano può sostenere che le uova strapazzate esistono solo come esiste [[A Dream|un sogno]]; dato che è altrettanto facile chiamare il sogno la causa delle uova quanto le uova la causa del sogno;
 il pragmatico può credere di ottenere il meglio dalle uova strapazzate dimenticando che un tempo erano uova, e ricordandosi solo dello strapazzo. Ma nessun discepolo di San Tommaso ha bisogno di confondere le idee per friggere a dovere le sue uova; non deve mettere la testa in una posizione particolare guardando le uova, o strizzando gli occhi davanti alle uova,
 o chiudendo l'altro occhio per vedere una nuova semplificazione delle uova. Il tomista si trova nella piena luce del giorno della fratellanza degli uomini, nella loro comune consapevolezza che le uova non sono galline o [[motifs/dreams|sogni]] o semplici ipotesi pratiche; ma cose attestate dall'Autorità dei Sensi, che proviene da Dio.
 
@@ -7429,16 +7429,16 @@ the sake of argument--or often rather of attack without argument.
 I saw an almost startling example of this essential frivolity
 in a professor of final scepticism, in a paper the other day.
 A man wrote to say that he accepted nothing but Solipsism, and added
-that he had often wondered it was not a more common philosophy.
+that he had often wondered it was not a more common [[philosophy]].
 Now Solipsism simply means that a man believes in his own existence,
 but not in anybody or anything else.  And it never struck this
-simple sophist, that if his philosophy was true, there obviously
+simple sophist, that if his [[philosophy]] was true, there obviously
 were no other philosophers to profess it.
 
 To this question "Is there anything?"  St. Thomas begins by
 answering "Yes"; if he began by answering "No", it would not be
 the beginning, but the end.  That is what some of us call common sense.
-Either there is no philosophy, no philosophers, no thinkers, no thought,
+Either there is no [[philosophy]], no philosophers, no thinkers, no thought,
 no anything; or else there is a real bridge between the mind
 and reality.  But he is actually less exacting than many thinkers,
 much less so than most rationalist and materialist thinkers,
@@ -7479,7 +7479,7 @@ with spikes on the top, separating two men who in many ways stand
 for the same thing.  The wall is almost a historical accident;
 at least it was built a very long [[motifs/time|time]] ago, for reasons that
 need not affect the needs of normal men today; least of all
-the greatest need of normal men; which is for a normal philosophy.
+the greatest need of normal men; which is for a normal [[philosophy]].
 The first difficulty is merely a difference of form; not in the medieval
 but in the modern sense.  There is first a simple obstacle of language;
 there is then a rather more subtle obstacle of logical method.
@@ -7495,7 +7495,7 @@ that could possibly be.  He represents this cosmic conception
 by the word Ens; and anybody who can read any Latin at all,
 however rudely, feels it to be the apt and fitting word; exactly as
 he feels it in a French word in a piece of good French prose.
-It ought to be a matter of logic; but it is also a matter of language.
+It ought to be a matter of [[logic]]; but it is also a matter of language.
 
 Unfortunately there is no satisfying [[forms/translation|translation]] of the word Ens. The
 difficulty is rather verbal than logical, but it is practical.
@@ -7552,16 +7552,16 @@ tutto e poi ammetteranno qualcosa, non foss'altro che per amor di discussione
 esempio quasi sconcertante di questa essenziale frivolezza in un professore
 di scetticismo estremo, in un articolo qualche giorno fa. Un uomo scrisse per
 dire che non accettava altro che il solipsismo, e aggiunse di essersi spesso
-chiesto come mai non fosse una filosofia più diffusa. Ora, il
+chiesto come mai non fosse una [[philosophy|filosofia]] più diffusa. Ora, il
 solipsismo significa semplicemente che un uomo crede nella propria esistenza,
 ma non in quella di chiunque o di qualunque altra cosa. E non venne mai in
-mente a questo semplice sofista che, se la sua filosofia fosse
+mente a questo semplice sofista che, se la sua [[philosophy|filosofia]] fosse
 vera, evidentemente non vi sarebbero altri filosofi a professarla.
 
 A questa domanda «Esiste qualcosa?» san Tommaso comincia col rispondere
 «Sì»; se cominciasse rispondendo «No», non sarebbe l'inizio, ma la fine. È
 ciò che alcuni di noi chiamano senso comune. O non vi è alcuna
-filosofia, nessun filosofo, nessun pensatore, nessun pensiero,
+[[philosophy|filosofia]], nessun filosofo, nessun pensatore, nessun pensiero,
 nulla di nulla; oppure vi è un ponte reale tra la mente e la realtà. Ma egli
 è in realtà meno esigente di molti pensatori, molto meno della maggior parte
 dei pensatori razionalisti e materialisti, riguardo a ciò che quel primo
@@ -7600,7 +7600,7 @@ due uomini che per molti versi rappresentano la stessa cosa. Il muro è quasi
 un incidente storico; perlomeno fu costruito assai lungo [[motifs/time|tempo]] fa,
 per ragioni che non hanno bisogno di toccare i bisogni degli uomini normali
 di oggi; men che meno il più grande bisogno degli uomini normali, che è
-quello di una filosofia normale. La prima difficoltà è
+quello di una [[philosophy|filosofia]] normale. La prima difficoltà è
 meramente una differenza di forma; non nel senso medievale, ma in quello
 moderno. Vi è dapprima un semplice ostacolo di linguaggio; vi è poi un
 ostacolo alquanto più sottile di metodo logico. Ma il linguaggio in sé conta
@@ -7615,7 +7615,7 @@ che potrebbe esistere. Egli rappresenta questa concezione cosmica con la
 parola Ens; e chiunque sappia leggere anche solo un po' di latino, per
 quanto rozzamente, la sente come la parola giusta e appropriata; esattamente
 come la sente in una parola francese all'interno di un brano di buona prosa
-francese. Dovrebbe essere una questione di logica; ma è anche una
+francese. Dovrebbe essere una questione di [[logic|logica]]; ma è anche una
 questione di linguaggio.
 
 Sfortunatamente non esiste una [[forms/translation|traduzione]] soddisfacente della
@@ -7662,23 +7662,23 @@ the point of a pin.  For that also is, in an almost ideal sense, an End.
 But when we say that St. Thomas [[characters/aquinas|Aquinas]] is concerned fundamentally with
 the idea of Being, we must not admit any of the cloudier generalisations
 that we may have grown used to, or even grown tired of, in the sort
-of idealistic writing that is rather rhetoric than philosophy.
+of idealistic writing that is rather rhetoric than [[philosophy]].
 Rhetoric is a very fine thing in its place, as a medieval scholar
-would have willingly agreed, as he taught it along with logic in
+would have willingly agreed, as he taught it along with [[logic]] in
 the schools; but St. Thomas [[characters/aquinas|Aquinas]] himself is not at all rhetorical.
 Perhaps he is hardly even sufficiently rhetorical.
 There are any number of purple patches in Augustine; but there
 are no purple patches in [[characters/aquinas|Aquinas]].  He did on certain definite
 occasions drop into poetry; but he very seldom dropped into oratory.
 And so little was he in touch with some modern tendencies,
-that whenever he did write poetry, he actually put it into poems.
+that whenever he did write poetry, he actually put it into [[Poems|poems]].
 There is another side to this, to be noted later.
-He very specially possessed the philosophy that inspires poetry;
+He very specially possessed the [[philosophy]] that inspires poetry;
 as he did so largely inspire [[historical-references/dante|Dante]]'s poetry.  And poetry without
-philosophy has only inspiration, or, in vulgar language, only [[motifs/wind|wind]].
+[[philosophy]] has only inspiration, or, in vulgar language, only [[motifs/wind|wind]].
 He had, so to speak, the [[concepts/imagination|imagination]] without the imagery.
 And even this is perhaps too sweeping.  There is an image
-of his, that is true poetry as [[motifs/well|well]] as true philosophy;
+of his, that is true poetry as [[motifs/well|well]] as true [[philosophy]];
 about the tree of life bowing down with a huge [[concepts/humility|humility]],
 because of the very load of its living fruitfulness; a thing [[historical-references/dante|Dante]]
 might have described so as to overwhelm us with the tremendous
@@ -7717,7 +7717,7 @@ true premises, owing to the rather ruder conditions of travel
 or experiment.  But however perfect were the conditions of travel
 or experiment, they could only produce premises; it would still
 be necessary to deduce conclusions.  But many modern people talk
-as if what they call induction were some magic way of reaching
+as if what they call induction were some [[Magic|magic]] way of reaching
 a conclusion, without using any of those horrid old syllogisms.
 But induction does not lead us to a conclusion.  Induction only
 leads us to a deduction.  Unless the last three syllogistic steps
@@ -7765,23 +7765,23 @@ ideale, una Fine. Ma quando diciamo che san Tommaso [[characters/aquinas|d'Aquin
 occupa fondamentalmente dell'idea dell'Essere, non dobbiamo ammettere nessuna
 di quelle generalizzazioni più nebulose a cui possiamo esserci abituati, o di
 cui possiamo esserci perfino stancati, in quel genere di scrittura idealistica
-che è retorica più che filosofia. La retorica è cosa assai
+che è retorica più che [[philosophy|filosofia]]. La retorica è cosa assai
 buona al suo posto, come un dotto medievale avrebbe volentieri convenuto,
-poiché la insegnava insieme alla logica nelle scuole; ma san
+poiché la insegnava insieme alla [[logic|logica]] nelle scuole; ma san
 Tommaso [[characters/aquinas|d'Aquino]] in persona non è affatto retorico. Forse non è
 nemmeno sufficientemente retorico. Vi è un gran numero di brani sfarzosi in
 Agostino; ma non vi sono brani sfarzosi in [[characters/aquinas|d'Aquino]]. In certe
 determinate occasioni egli si abbandonò alla poesia; ma assai di rado si
 abbandonò all'oratoria. E così poco era in sintonia con certe tendenze
 moderne, che ogni volta che scriveva poesia, la metteva effettivamente in
-poesie. Vi è un altro lato della questione, che noteremo più avanti.
-Egli possedeva in modo del tutto speciale la filosofia che
+[[Poems|poesie]]. Vi è un altro lato della questione, che noteremo più avanti.
+Egli possedeva in modo del tutto speciale la [[philosophy|filosofia]] che
 ispira la poesia; come in effetti ispirò tanto largamente la poesia di
-[[historical-references/dante|Dante]]. E la poesia senza filosofia ha solo ispirazione, o,
+[[historical-references/dante|Dante]]. E la poesia senza [[philosophy|filosofia]] ha solo ispirazione, o,
 in linguaggio volgare, solo [[motifs/wind|vento]]. Egli aveva, per così dire,
 l'[[concepts/imagination|immaginazione]] senza le immagini. E anche questo è forse
 troppo generico. Vi è un'immagine sua, che è vera poesia [[motifs/well|tanto]]
-quanto vera filosofia: quella dell'albero della vita che si
+quanto vera [[philosophy|filosofia]]: quella dell'albero della vita che si
 china con una immensa [[concepts/humility|umiltà]], per il peso stesso della sua
 vivente fecondità; una cosa che [[historical-references/dante|Dante]] avrebbe potuto descrivere così da
 sopraffarci con il tremendo crepuscolo e quasi inebriarci col frutto divino.
@@ -7819,7 +7819,7 @@ numero sufficiente, a causa delle condizioni piuttosto più rudi di viaggio o
 di sperimentazione. Ma per quanto perfette fossero le condizioni di viaggio o
 di sperimentazione, esse potevano solo produrre premesse; sarebbe pur sempre
 necessario dedurne le conclusioni. Ma molti moderni parlano come se ciò che
-chiamano induzione fosse una qualche via magica per giungere a una
+chiamano induzione fosse una qualche via [[Magic|magica]] per giungere a una
 conclusione, senza usare nessuno di quegli orridi vecchi sillogismi. Ma
 l'induzione non ci conduce a una conclusione. L'induzione ci conduce soltanto
 a una deduzione. A meno che gli ultimi tre passaggi sillogistici non siano
@@ -7875,7 +7875,7 @@ But if he reasoned rightly, however rapidly, he reasoned syllogistically.
 
 As a matter of fact, [[characters/aquinas|Aquinas]] does not usually argue in syllogisms;
 though he always argues syllogistically.  I mean he does not set out
-all the steps of the logic in each case; the legend that he does so is
+all the steps of the [[logic]] in each case; the legend that he does so is
 part of that loose and largely unverified legend of the [[historical-references/renaissance|Renaissance]];
 that the Schoolmen were all crabbed and mechanical medieval bores.
 But he does argue with a certain austerity, and disdain of ornament,
@@ -7962,7 +7962,7 @@ ragionava correttamente, per quanto rapidamente, ragionava sillogisticamente.
 
 In effetti, [[characters/aquinas|d'Aquino]] di solito non argomenta per sillogismi;
 benché argomenti sempre sillogisticamente. Voglio dire che non espone tutti i
-passaggi della logica in ogni caso; la leggenda che lo faccia fa
+passaggi della [[logic|logica]] in ogni caso; la leggenda che lo faccia fa
 parte di quella vaga e in gran parte non verificata leggenda del
 [[historical-references/renaissance|Rinascimento]]: quella per cui gli Scolastici erano tutti
 noiosi medievali contorti e meccanici. Ma egli argomenta con una certa
@@ -8034,7 +8034,7 @@ incontrare lo Scolastico come un pari intellettuale.
 
 VII
 
-THE PERMANENT PHILOSOPHY
+THE PERMANENT [[philosophy|PHILOSOPHY]]
 
 It is a pity that the word Anthropology has been degraded to the study
 of Anthropoids.  It is now incurably associated with squabbles
@@ -8045,7 +8045,7 @@ It is very right that there should be a purely physical science
 of such things; but the name commonly used might [[motifs/well|well]], by analogy,
 have been dedicated to things not only wider and deeper, but rather
 more relevant.  Just as, in [[settings/america|America]], the new Humanists have pointed
-out to the old Humanitarians that their humanitarianism has been
+out to the old Humanitarians that their [[Humanitarianism|humanitarianism]] has been
 largely concentrated on things that are not specially human, such as
 physical conditions, appetites, economic needs, environment and so on--
 so in practice those who are called Anthropologists have to narrow
@@ -8097,7 +8097,7 @@ But he wanted the light from without to shine on what was within.
 He wanted to study the [[concepts/nature|nature]] of Man, and not merely of such
 moss and mushrooms as he might see through the [[motifs/window|window]],
 and which he valued as the first enlightening experience of man.
-And starting from this point, he proceeds to climb the House of Man,
+And starting from this point, he proceeds to climb the [[house|House]] of Man,
 step by step and story by story, until he has come out on the highest
 tower and beheld the largest vision.
 
@@ -8105,7 +8105,7 @@ In other words, he is an anthropologist, with a complete theory
 of Man, right or wrong.  Now the modern Anthropologists, who called
 themselves Agnostics, completely failed to be Anthropologists at all.
 Under their limitations, they could not get a complete
-theory of Man, let alone a complete theory of [[concepts/nature|nature]].
+theory of Man, let [[Alone|alone]] a complete theory of [[concepts/nature|nature]].
 They began by ruling out something which they called the Unknowable.
 The incomprehensibility was almost comprehensible, if we could
 really understand the Unknowable in the sense of the Ultimate.
@@ -8135,7 +8135,7 @@ had no scientific evidence; in that case they failed to produce even
 a scientific hypothesis.  What they generally did produce was a wildly
 unscientific contradiction.  Most Monist moralists simply said that Man
 has no choice; but he must think and act heroically as if he had.
-Huxley made morality, and even Victorian morality, in the exact
+Huxley made [[morality]], and even Victorian [[morality]], in the exact
 sense, [[motifs/supernatural|supernatural]].  He said it had arbitrary rights above [[concepts/nature|nature]];
 a sort of theology without theism.
 
@@ -8144,7 +8144,7 @@ a sort of theology without theism.
 
 VII
 
-LA FILOSOFIA PERMANENTE
+LA [[philosophy|FILOSOFIA]] PERMANENTE
 
 È un peccato che la parola Antropologia sia stata degradata allo studio
 degli Antropoidi. Essa è ormai inguaribilmente associata alle baruffe tra
@@ -8155,7 +8155,7 @@ giustissimo che vi sia una scienza puramente fisica di tali cose; ma il nome
 comunemente usato avrebbe potuto [[motifs/well|bene]], per analogia, essere dedicato
 a cose non solo più ampie e profonde, ma anche più pertinenti. Proprio come,
 in [[settings/america|America]], i nuovi Umanisti hanno fatto notare ai vecchi
-Umanitari che il loro umanitarismo si è largamente
+Umanitari che il loro [[Humanitarianism|umanitarismo]] si è largamente
 concentrato su cose che non sono specialmente umane, quali le condizioni
 fisiche, gli appetiti, i bisogni economici, l'ambiente e così via — così in
 pratica coloro che vengono chiamati Antropologi devono restringere la loro
@@ -8207,14 +8207,14 @@ luce proveniente dal di fuori risplendesse su ciò che era dentro. Voleva
 studiare la [[concepts/nature|natura]] dell'Uomo, e non semplicemente quel muschio e
 quei funghi che poteva scorgere attraverso la [[motifs/window|finestra]], e che
 apprezzava come la prima illuminante esperienza dell'uomo. E partendo da
-questo punto, egli procede a scalare la Casa dell'Uomo, gradino
+questo punto, egli procede a scalare la [[house|Casa]] dell'Uomo, gradino
 dopo gradino e piano dopo piano, finché non è uscito sulla torre più alta e
 ha contemplato la visione più vasta.
 
 In altre parole, egli è un antropologo, con una teoria completa dell'Uomo,
 giusta o sbagliata. Ora gli Antropologi moderni, che si definivano Agnostici,
 fallirono completamente nell'essere Antropologi. Entro i loro limiti, non
-potevano ottenere una teoria completa dell'Uomo, tanto meno una
+potevano ottenere una teoria completa dell'Uomo, [[Alone|tanto meno]] una
 teoria completa della [[concepts/nature|natura]]. Cominciarono con l'escludere qualcosa
 che chiamavano l'Inconoscibile. L'incomprensibilità era quasi comprensibile,
 se potessimo davvero intendere l'Inconoscibile nel senso dell'Ultimo. Ma
@@ -8244,7 +8244,7 @@ caso non riuscirono a produrre nemmeno un'ipotesi scientifica. Ciò che
 generalmente produssero fu una contraddizione selvaggiamente antiscientifica.
 La maggior parte dei moralisti monisti si limitava a dire che l'Uomo non ha
 scelta; ma che egli deve pensare e agire eroicamente come se l'avesse. Huxley
-rese la moralità, e perfino la moralità vittoriana,
+rese la [[morality|moralità]], e perfino la [[morality|moralità]] vittoriana,
 nel senso esatto, [[motifs/supernatural|soprannaturale]]. Disse che essa aveva
 diritti arbitrari al di sopra della [[concepts/nature|natura]]; una sorta di teologia
 senza teismo.
@@ -8284,7 +8284,7 @@ of [[historical-references/islam|Islam]], as dramatic as that of Godfrey stormin
 It is possible that these enemies, by wax of damning with faint praise,
 talked about his very respectable little work on Angels:  as a man
 might say that Darwin was really reliable when writing on coral-[[motifs/insects|insects]];
-or that some of [[historical-references/milton|Milton]]'s Latin poems were very creditable indeed.
+or that some of [[historical-references/milton|Milton]]'s Latin [[Poems|poems]] were very creditable indeed.
 But this is only a conjecture, and many other conjectures are possible.
 And I am disposed to think that St. Thomas really was rather
 specially interested in the [[concepts/nature|nature]] of Angels, for the same reason
@@ -8326,7 +8326,7 @@ known myself, consciously or unconsciously since my [[motifs/childhood|childhood
 When a [[archetypes/child|child]] looks out of the nursery [[motifs/window|window]] and sees anything,
 say the green lawn of the [[motifs/garden|garden]], what does he actually know;
 or does he know anything?  There are all sorts of nursery
-games of negative philosophy played round this question.
+games of negative [[philosophy]] played round this question.
 A brilliant Victorian scientist delighted in declaring that
 the [[archetypes/child|child]] does not see any grass at all; but only a sort of green
 mist reflected in a tiny [[motifs/mirror|mirror]] of the human eye.  This piece
@@ -8384,7 +8384,7 @@ che prende d'assalto Gerusalemme. È possibile che questi nemici, per via di
 lodare a mezza bocca, parlassero della sua rispettabilissima operetta sugli
 Angeli: come un uomo potrebbe dire che Darwin era davvero attendibile quando
 scriveva sugli [[motifs/insects|insetti]] corallini; o che alcune delle
-poesie latine di [[historical-references/milton|Milton]] erano davvero assai pregevoli. Ma questa
+[[Poems|poesie]] latine di [[historical-references/milton|Milton]] erano davvero assai pregevoli. Ma questa
 è solo una congettura, e molte altre congetture sono possibili. E sono incline
 a pensare che san Tommaso fosse davvero interessato in modo piuttosto speciale
 alla [[concepts/nature|natura]] degli Angeli, per la stessa ragione che lo rendeva
@@ -8426,7 +8426,7 @@ inconsciamente, fin dalla mia [[motifs/childhood|fanciullezza]]. Quando un
 [[archetypes/child|bambino]] guarda fuori dalla [[motifs/window|finestra]] della stanza dei
 bambini e vede qualcosa, poniamo il verde prato del [[motifs/garden|giardino]], che
 cosa conosce in realtà; o conosce qualcosa? Vi sono ogni sorta di giochi
-infantili di filosofia negativa che si giocano attorno a questa
+infantili di [[philosophy|filosofia]] negativa che si giocano attorno a questa
 domanda. Un brillante scienziato vittoriano si compiaceva di dichiarare che il
 [[archetypes/child|bambino]] non vede affatto dell'erba; ma soltanto una sorta di nebbia
 verde riflessa in un minuscolo [[motifs/mirror|specchio]] dell'occhio umano. Questo
@@ -8513,7 +8513,7 @@ as anything; unless they are explained away as nothing.
 This crude outline can only at the best be historical rather
 than philosophical.  It is impossible to compress into it
 the metaphysical proofs of such an idea; especially in the medieval
-metaphysical language.  But this distinction in philosophy is
+metaphysical language.  But this distinction in [[philosophy]] is
 tremendous as a turning point in [[concepts/history|history]].  Most thinkers, on realising
 the apparent [[motifs/mutability|mutability]] of being, have really forgotten their own
 realisation of the being, and believed only in the [[motifs/mutability|mutability]].
@@ -8622,7 +8622,7 @@ venire spiegate come alcunché; a meno che non le si spieghi via come nulla.
 Questo rozzo abbozzo può, nella migliore delle ipotesi, essere
 soltanto storico anziché filosofico.  È impossibile comprimervi
 le prove metafisiche di una simile idea; specialmente nel linguaggio
-metafisico medievale.  Ma questa distinzione nella filosofia è
+metafisico medievale.  Ma questa distinzione nella [[philosophy|filosofia]] è
 enorme come punto di svolta nella [[concepts/history|storia]].  La maggior parte dei
 pensatori, accorgendosi dell'apparente [[motifs/mutability|mutabilità]] dell'essere, ha in
 realtà dimenticato la propria presa di coscienza dell'essere, e ha
@@ -8685,7 +8685,7 @@ he had become an atheist because the universe had gone on making itself
 from the beginning or without a beginning; Dean Inge later displayed
 consternation at the very idea that the universe could have an end.
 Most modern Christians, living by tradition where medieval Christians
-could live by logic or reason, vaguely felt that it was a dreadful
+could live by [[logic]] or reason, vaguely felt that it was a dreadful
 idea to deprive them of the Day of Judgment.  Most modern agnostics
 (who are delighted to have their ideas called dreadful) cried out all
 the more, with one accord, that the [[concepts/self|self]]-producing, [[concepts/self|self]]-existent,
@@ -8709,7 +8709,7 @@ It seems almost incredible; but it is a fact that he asked
 what God would have to amuse Him, if the universe ceased.
 That is a measure of how much the modern mind needs Thomas [[characters/aquinas|Aquinas]].
 But even without [[characters/aquinas|Aquinas]], I can hardly conceive any educated man,
-let alone such a learned man, believing in God at all without assuming
+let [[Alone|alone]] such a learned man, believing in God at all without assuming
 that God contains in Himself every perfection including eternal joy;
 and does not require the solar system to entertain him like a circus.
 
@@ -8787,7 +8787,7 @@ aveva continuato a farsi da sé fin dal principio o senza principio;
 il Decano Inge più tardi mostrò costernazione alla sola idea che
 l'universo potesse avere una fine.  La maggior parte dei cristiani
 moderni, che vivono di tradizione là dove i cristiani medievali
-potevano vivere di logica o di ragione, sentiva vagamente che fosse
+potevano vivere di [[logic|logica]] o di ragione, sentiva vagamente che fosse
 un'idea spaventosa privarli del Giorno del Giudizio.  La maggior parte
 degli agnostici moderni (che sono deliziati nel sentir definire
 spaventose le loro idee) gridò tanto più forte, all'unisono, che
@@ -8904,7 +8904,7 @@ with a common character making some generalisation possible;
 in fact, as in most things, he said exactly what all common sense
 would say, if no intelligent heretics had ever disturbed it.
 Nevertheless, they still continue to disturb it.  I remember when
-Mr. H. G. Wells had an alarming fit of Nominalist philosophy; and poured
+Mr. H. G. Wells had an alarming fit of Nominalist [[philosophy]]; and poured
 forth book after book to argue that everything is unique and untypical
 as that a man is so much an individual that he is not even a man.
 It is a quaint and almost comic fact, that this chaotic negation
@@ -8990,9 +8990,9 @@ or misled mankind do, on one excuse or another, go back on it.
 They dissolve the stick or the stone in chemical solutions
 of scepticism; either in the medium of mere [[motifs/time|time]] and change;
 or in the difficulties of classification of unique units;
-or in the difficulty of recognising variety while admitting unity.
-The first of these three is called debate about flux or formless
-transition; the second is the debate about Nominalism and Realism,
+or in the difficulty of recognising variety while admitting [[unity]].
+The first of these three is called [[debate]] about flux or formless
+transition; the second is the [[debate]] about Nominalism and Realism,
 or the existence of general ideas; the third is called the ancient
 metaphysical [[forms/riddle|riddle]] of the One and the Many.  But they can all be
 reduced under a rough image to this same statement about St. Thomas.
@@ -9021,7 +9021,7 @@ una certa generalizzazione; in effetti, come nella maggior parte delle
 cose, egli disse esattamente ciò che direbbe ogni senso comune, se
 nessun intelligente eretico l'avesse mai turbato.  Nondimeno, essi
 continuano tuttora a turbarlo.  Ricordo quando il signor H. G. Wells
-ebbe un allarmante accesso di filosofia nominalista; e riversò libro
+ebbe un allarmante accesso di [[philosophy|filosofia]] nominalista; e riversò libro
 dopo libro per sostenere che ogni cosa è unica e atipica, al punto che
 un uomo è talmente un individuo da non essere nemmeno un uomo.  È un
 fatto bizzarro e quasi comico che questa negazione caotica attragga
@@ -9108,9 +9108,9 @@ sapienti che hanno guidato o fuorviato l'umanità la rinnegano, con l'uno
 o l'altro pretesto.  Essi dissolvono il bastone o la pietra in soluzioni
 chimiche di scetticismo; sia nel medium del mero [[motifs/time|tempo]] e mutamento; sia
 nelle difficoltà di classificazione di unità uniche; sia nella
-difficoltà di riconoscere la varietà pur ammettendo l'unità.  Il primo
-di questi tre è chiamato dibattito sul flusso o transizione informe; il
-secondo è il dibattito sul Nominalismo e sul Realismo, ossia l'esistenza
+difficoltà di riconoscere la varietà pur ammettendo l'[[unity|unità]].  Il primo
+di questi tre è chiamato [[debate|dibattito]] sul flusso o transizione informe; il
+secondo è il [[debate|dibattito]] sul Nominalismo e sul Realismo, ossia l'esistenza
 delle idee generali; il terzo è chiamato l'antico [[forms/riddle|enigma]] metafisico
 dell'Uno e dei Molti.  Ma tutti possono essere ricondotti, sotto una
 rozza immagine, a questa medesima affermazione su san Tommaso.  Egli
@@ -9153,7 +9153,7 @@ really different; things not classified together like grass and grains.
 The first flash of fact shows us a world of really strange
 things not merely strange to us, but strange to each other.
 The separate things need have nothing in common except Being.
-Everything is Being; but it is not true that everything is Unity.
+Everything is Being; but it is not true that everything is [[unity|Unity]].
 It is here, as I have said, that St. Thomas does definitely one
 might say defiantly, part company with the Pantheist and Monist.
 All things are; but among the things that are is the thing
@@ -9195,10 +9195,10 @@ or Fulfilment, in which all this relative relativity becomes actuality;
 in which the trees burst into flower or the rockets into flame.
 
 Here I leave the reader, on the very lowest rung of those ladders
-of logic, by which St. Thomas besieged and mounted the House of Man.
+of [[logic]], by which St. Thomas besieged and mounted the [[house|House]] of Man.
 It is enough to say that by arguments as honest and laborious,
 he climbed up to the turrets and talked with angels on the roofs of gold.
-This is, in a very rude outline, his philosophy; it is impossible
+This is, in a very rude outline, his [[philosophy]]; it is impossible
 in such an outline to describe his theology.  Anyone writing
 so small a book about so big a man, must leave out something.
 Those who know him best will best understand why, after some
@@ -9238,7 +9238,7 @@ realmente diverse; cose non classificate insieme come l'erba e il grano.
 Il primo lampo del fatto ci mostra un mondo di cose davvero strane, non
 semplicemente strane a noi, ma strane le une alle altre.  Le cose
 separate non hanno bisogno di avere nulla in comune se non l'Essere.
-Ogni cosa è Essere; ma non è vero che ogni cosa sia Unità.  È qui,
+Ogni cosa è Essere; ma non è vero che ogni cosa sia [[unity|Unità]].  È qui,
 come ho detto, che san Tommaso definitivamente, si potrebbe dire con
 aria di sfida, si separa dal Panteista e dal Monista.  Tutte le cose
 sono; ma tra le cose che sono vi è la cosa chiamata differenza, tanto
@@ -9277,11 +9277,11 @@ di ciò che lo Scolastico chiamava Fruizione, o Compimento, nel quale
 tutta questa relativa relatività diviene attualità; nel quale gli alberi
 prorompono in fiore o i razzi in fiamma.
 
-Qui lascio il lettore, sul più basso piolo di quelle scale di logica,
-mediante le quali san Tommaso assediò e scalò la Casa dell'Uomo.
+Qui lascio il lettore, sul più basso piolo di quelle scale di [[logic|logica]],
+mediante le quali san Tommaso assediò e scalò la [[house|Casa]] dell'Uomo.
 È sufficiente dire che, con argomenti altrettanto onesti e laboriosi,
 egli salì fino alle torrette e conversò con gli angeli sui tetti d'oro.
-Questa è, in un abbozzo assai rozzo, la sua filosofia; è impossibile in
+Questa è, in un abbozzo assai rozzo, la sua [[philosophy|filosofia]]; è impossibile in
 un simile abbozzo descrivere la sua teologia.  Chiunque scriva un libro
 così piccolo su un uomo così grande, deve tralasciare qualcosa.  Coloro
 che meglio lo conoscono comprenderanno meglio perché, dopo non poca
@@ -9302,7 +9302,7 @@ It is often said that St. Thomas, unlike St. Francis, did not permit
 in his work the indescribable element of poetry.  As, for instance,
 that there is little reference to any pleasure in the actual [[motifs/flowers|flowers]]
 and fruit of natural things, though any amount of concern with the buried
-roots of [[concepts/nature|nature]].  And yet I confess that, in reading his philosophy,
+roots of [[concepts/nature|nature]].  And yet I confess that, in reading his [[philosophy]],
 I have a very peculiar and powerful impression analogous to poetry.
 Curiously enough, it is in some ways more analogous to painting,
 and reminds me very much of the effect produced by the best
@@ -9327,9 +9327,9 @@ beautiful passages that rise in the [[motifs/memory|memory]] like strains of mus
 the illi in vos saeviant; or the unforgettable cry, "Late I have
 loved thee, O Ancient [[concepts/beauty|Beauty]]!"  It is true that there is little
 or nothing of this kind in St. Thomas; but if he was without
-the higher uses of the mere magic of words, he was also free from
+the higher uses of the mere [[Magic|magic]] of words, he was also free from
 that abuse of it, by mere sentimentalists or [[concepts/self|self]]-centred artists,
-which can become merely morbid and a very black magic indeed.
+which can become merely morbid and a very black [[Magic|magic]] indeed.
 And truly it is by some such comparison with the purely introspective
 intellectual that we may find a hint about the real [[concepts/nature|nature]] of the thing
 I describe, or rather fail to describe; I mean the elemental
@@ -9350,11 +9350,11 @@ exactly consists in finding a way out to liberty and the light of day;
 to reality and the land of the living.  In the subjectivist,
 the pressure of the world forces the [[concepts/imagination|imagination]] inwards.
 In the Thomist, the energy of the mind forces the [[concepts/imagination|imagination]] outwards,
-but because the images it seeks are real things.  All their romance
+but because the images it seeks are real things.  All their [[Romance|romance]]
 and glamour, so to speak, lies in the fact that they are real things;
 things not to be found by staring inwards at the mind.
 The flower is a vision because it is not only a vision.
-Or, if you will, it is a vision because it is not a dream.
+Or, if you will, it is a vision because it is not [[A Dream|a dream]].
 This is for the poet the strangeness of stones and trees
 and solid things; they are strange because they are solid.
 I am putting it first in the poetical manner, and indeed it needs
@@ -9368,7 +9368,7 @@ And therefore it enlarges the mind of which it becomes a part.
 The mind conquers a new province like an emperor; but only because
 the mind has answered the bell like a servant.  The mind has
 opened the doors and windows, because it is the natural activity
-of what is inside the house to find out what is outside the house.
+of what is inside the [[house]] to find out what is outside the [[house]].
 If the mind is sufficient to itself, it is insufficient for itself.
 For this feeding upon fact is itself; as an organ it has an object
 which is objective; this eating of the strange strong meat of reality.
@@ -9391,7 +9391,7 @@ an entirely baseless phantasmagoria.  In other words, the essence of
 the Thomist common sense is that two agencies are at work; reality and
 the recognition of reality; and their meeting is a sort of [[motifs/marriage|marriage]].
 Indeed it is very truly a [[motifs/marriage|marriage]], because it is fruitful;
-the only philosophy now in the world that really is fruitful.
+the only [[philosophy]] now in the world that really is fruitful.
 It produces practical results, precisely because it is the combination
 of an adventurous mind and a strange fact.
 
@@ -9407,7 +9407,7 @@ ammise nella sua opera l'indescrivibile elemento della poesia.  Come,
 per esempio, che vi è scarso riferimento a un qualche piacere per i
 [[motifs/flowers|fiori]] e i frutti concreti delle cose naturali, sebbene vi sia ogni
 sorta di interesse per le radici sepolte della [[concepts/nature|natura]].  Eppure confesso
-che, leggendo la sua filosofia, provo un'impressione assai peculiare e
+che, leggendo la sua [[philosophy|filosofia]], provo un'impressione assai peculiare e
 potente, analoga alla poesia.  Curiosamente, essa è per certi versi più
 analoga alla pittura, e mi ricorda moltissimo l'effetto prodotto dai
 migliori tra i pittori moderni, quando gettano una luce strana e quasi
@@ -9432,10 +9432,10 @@ emotivo; sicché i suoi libri abbondano di passi bellissimi che si levano
 nella [[motifs/memory|memoria]] come melodie musicali; l'illi in vos saeviant; o
 l'indimenticabile grido: «Tardi ti ho amata, o Antica [[concepts/beauty|Bellezza]]!»  È
 vero che di questo genere vi è poco o nulla in san Tommaso; ma se egli
-era privo degli usi più elevati della mera magia delle parole, era
+era privo degli usi più elevati della mera [[Magic|magia]] delle parole, era
 anche libero da quell'abuso di essa, da parte di meri sentimentali o di
 artisti [[concepts/self|ego]]centrici, che può divenire semplicemente morboso e una
-magia davvero assai nera.  E in verità è mediante un qualche simile
+[[Magic|magia]] davvero assai nera.  E in verità è mediante un qualche simile
 paragone con l'intellettuale puramente introspettivo che possiamo
 trovare un accenno alla vera [[concepts/nature|natura]] della cosa che descrivo, o piuttosto
 non riesco a descrivere; intendo la poesia elementare e primitiva che
@@ -9457,11 +9457,11 @@ verso la libertà e la luce del giorno; verso la realtà e la terra dei
 viventi.  Nel soggettivista, la pressione del mondo spinge
 l'[[concepts/imagination|immaginazione]] verso l'interno.  Nel tomista, l'energia della mente
 spinge l'[[concepts/imagination|immaginazione]] verso l'esterno, ma perché le immagini che essa
-cerca sono cose reali.  Tutto il loro fascino romanzesco e incanto,
+cerca sono cose reali.  Tutto il loro [[Romance|fascino romanzesco]] e incanto,
 per così dire, risiede nel fatto che esse sono cose reali; cose che non
 si trovano fissando lo sguardo all'interno, verso la mente.  Il fiore è
 una visione perché non è soltanto una visione.  O, se si vuole, è una
-visione perché non è un sogno.  Questa è, per il poeta, la stranezza
+visione perché non è [[A Dream|un sogno]].  Questa è, per il poeta, la stranezza
 delle pietre e degli alberi e delle cose solide; esse sono strane perché
 sono solide.  Lo pongo dapprima nella maniera poetica, e invero occorre
 una ben maggiore sottigliezza tecnica per porlo nella maniera filosofica.
@@ -9473,8 +9473,8 @@ esiste al di fuori della mente, o in assenza della mente.  E perciò esso
 amplia la mente di cui diviene parte.  La mente conquista una nuova
 provincia come un imperatore; ma solo perché la mente ha risposto al
 campanello come un servo.  La mente ha aperto le porte e le finestre,
-perché è la naturale attività di ciò che sta dentro la casa scoprire
-ciò che sta fuori della casa.  Se la mente è sufficiente a se stessa,
+perché è la naturale attività di ciò che sta dentro la [[house|casa]] scoprire
+ciò che sta fuori della [[house|casa]].  Se la mente è sufficiente a se stessa,
 essa è insufficiente per se stessa.  Poiché questo nutrirsi del fatto è
 se stessa; in quanto organo essa ha un oggetto che è oggettivo; questo
 cibarsi della strana e forte carne della realtà.
@@ -9497,7 +9497,7 @@ interamente priva di fondamento.  In altre parole, l'essenza del senso
 comune tomista è che due agenti sono all'opera; la realtà e il
 riconoscimento della realtà; e il loro incontro è una sorta di
 [[motifs/marriage|matrimonio]].  Anzi, è veramente e propriamente un [[motifs/marriage|matrimonio]], perché è
-fecondo; l'unica filosofia oggi al mondo che sia realmente feconda.
+fecondo; l'unica [[philosophy|filosofia]] oggi al mondo che sia realmente feconda.
 Essa produce risultati pratici, proprio perché è la combinazione di una
 mente avventurosa e di un fatto strano.
 
@@ -9513,7 +9513,7 @@ or whatever it may be called, the whole system of St. Thomas is founded;
 God made Man so that he was capable of coming in contact with reality;
 and those whom God hath joined, let no man put asunder.
 
-Now, it is worthy of remark that it is the only working philosophy.
+Now, it is worthy of remark that it is the only working [[philosophy]].
 Of nearly all other philosophies it is strictly true that their
 followers work in spite of them, or do not work at all.
 No sceptics work sceptically; no fatalists work fatalistically;
@@ -9525,18 +9525,18 @@ No sceptic who believes that [[concepts/truth|truth]] is subjective has any hesi
 about treating it as objective.
 
 Thus St. Thomas' work has a constructive quality absent from almost
-all cosmic systems after him.  For he is already building a house,
+all cosmic systems after him.  For he is already building a [[house]],
 while the newer speculators are still at the stage of testing the rungs
 of a ladder, demonstrating the hopeless softness of the unbaked bricks,
 chemically analysing the spirit in the spirit-level, and generally
 quarrelling about whether they can even make the tools that will
-make the house.  [[characters/aquinas|Aquinas]] is whole intellectual aeons ahead of them,
+make the [[house]].  [[characters/aquinas|Aquinas]] is whole intellectual aeons ahead of them,
 over and above the common chronological sense of saying a man
 is in advance of his age; he is ages in advance of our age.
 For he has thrown out a bridge across the abyss of the first [[concepts/doubt|doubt]],
 and found reality beyond and begun to build on it.
-Most modern philosophies are not philosophy but philosophic [[concepts/doubt|doubt]];
-that is, [[concepts/doubt|doubt]] about whether there can be any philosophy.
+Most modern philosophies are not [[philosophy]] but philosophic [[concepts/doubt|doubt]];
+that is, [[concepts/doubt|doubt]] about whether there can be any [[philosophy]].
 If we accept St. Thomas's fundamental act or argument in the acceptance
 of reality, the further deductions from it will be equally real;
 they will be things and not words.  Unlike Kant and most of
@@ -9572,7 +9572,7 @@ very much what they vaguely mean by a Liberal.  I do not mean that any
 of his thousand political suggestions would suit any such definite
 political creed; if there are nowadays any definite political creeds.
 I mean, in the same sense, that he has a sort of atmosphere of
-believing in breadth and balance and debate.  He may not be a Liberal
+believing in breadth and balance and [[debate]].  He may not be a Liberal
 by the extreme demands of the moderns for we seem always to mean
 by the moderns the men of the last century, rather than this.  He was
 very much of a Liberal compared with the most modern of all moderns,
@@ -9624,7 +9624,7 @@ o comunque lo si voglia chiamare, è fondato l'intero sistema di san
 Tommaso; Dio fece l'Uomo in modo che egli fosse capace di venire a
 contatto con la realtà; e ciò che Dio ha congiunto, nessun uomo lo separi.
 
-Ora, è degno di nota che essa è l'unica filosofia che funziona.  Di
+Ora, è degno di nota che essa è l'unica [[philosophy|filosofia]] che funziona.  Di
 quasi tutte le altre filosofie è rigorosamente vero che i loro seguaci
 operano loro malgrado, o non operano affatto.  Nessuno scettico opera
 scetticamente; nessun fatalista opera fatalisticamente; tutti, senza
@@ -9636,18 +9636,18 @@ esitazione nel fare la propria mente.  Nessuno scettico che creda che la
 
 Così l'opera di san Tommaso possiede una qualità costruttiva assente da
 quasi tutti i sistemi cosmici venuti dopo di lui.  Poiché egli sta già
-edificando una casa, mentre i più recenti speculatori sono ancora allo
+edificando una [[house|casa]], mentre i più recenti speculatori sono ancora allo
 stadio di saggiare i pioli di una scala, di dimostrare la disperata
 mollezza dei mattoni non cotti, di analizzare chimicamente lo spirito
 nella livella a bolla, e in genere di questionare se siano addirittura in
-grado di fabbricare gli strumenti che fabbricheranno la casa.  [[characters/aquinas|Aquinas]]
+grado di fabbricare gli strumenti che fabbricheranno la [[house|casa]].  [[characters/aquinas|Aquinas]]
 è avanti a loro di interi eoni intellettuali, ben oltre il comune senso
 cronologico del dire che un uomo è in anticipo sulla propria epoca; egli
 è secoli in anticipo sulla nostra epoca.  Poiché egli ha gettato un
 ponte attraverso l'abisso del primo [[concepts/doubt|dubbio]], e ha trovato la realtà al
 di là e ha cominciato a costruire su di essa.  La maggior parte delle
-filosofie moderne non è filosofia ma [[concepts/doubt|dubbio]] filosofico; vale a dire,
-[[concepts/doubt|dubbio]] sul fatto che possa esservi una qualsiasi filosofia.  Se
+filosofie moderne non è [[philosophy|filosofia]] ma [[concepts/doubt|dubbio]] filosofico; vale a dire,
+[[concepts/doubt|dubbio]] sul fatto che possa esservi una qualsiasi [[philosophy|filosofia]].  Se
 accettiamo l'atto o l'argomento fondamentale di san Tommaso
 nell'accettazione della realtà, le ulteriori deduzioni da esso saranno
 ugualmente reali; saranno cose e non parole.  A differenza di Kant e
@@ -9686,7 +9686,7 @@ vagamente per Liberale.  Non intendo dire che uno qualsiasi dei suoi
 mille suggerimenti politici si adatterebbe a un simile preciso credo
 politico; ammesso che vi siano oggigiorno precisi credi politici.
 Intendo, nel medesimo senso, che egli ha una sorta di atmosfera del
-credere nell'ampiezza e nell'equilibrio e nel dibattito.  Egli può non
+credere nell'ampiezza e nell'equilibrio e nel [[debate|dibattito]].  Egli può non
 essere un Liberale secondo le esigenze estreme dei moderni, giacché
 sembra che per moderni si intendano sempre gli uomini del secolo scorso,
 anziché di questo.  Egli era in gran parte un Liberale a paragone dei
@@ -9737,7 +9737,7 @@ universale.
 
 
 Here, however, we collide with a colossal [[concepts/paradox|paradox]] of [[concepts/history|history]].
-The Thomist philosophy and theology, quite fairly compared with
+The Thomist [[philosophy]] and theology, quite fairly compared with
 other philosophies like the Buddhist or the Monist, with other
 theologies like the Calvinist or the Christian Scientist, is quite
 obviously a working and even a fighting system; full of common sense
@@ -9762,7 +9762,7 @@ from his moral spirit, degenerated with a strange rapidity; and it
 was certainly not in the Scholastics that the improvement occurred.
 Of some of the Scholastics we can only say that they took every
 thing that was worst in Scholasticism and made it worse.
-They continued to count the steps of logic; but every step of logic
+They continued to count the steps of [[logic]]; but every step of [[logic]]
 took them further from common sense.  They forgot how St. Thomas
 had started almost as an agnostic; and seemed resolved to leave
 nothing in heaven or hell about which anybody could be agnostic.
@@ -9778,7 +9778,7 @@ But this was originally full of the thrill of choice; and the feeling
 that she might have chosen otherwise.  It was this detailed [[archetypes/detective|detective]]
 method that was followed, without the thrill of the original
 [[archetypes/detective|detective]] story.  The world was cumbered with countless tomes,
-proving by logic a thousand things that can be known only to God.
+proving by [[logic]] a thousand things that can be known only to God.
 They developed all that was really sterile in Scholasticism,
 and left for us all that is really fruitful in Thomism.
 
@@ -9844,7 +9844,7 @@ even in mediaeval times.
 <span class="qlang-split" data-lang="it"></span>
 
 Qui, tuttavia, ci scontriamo con un colossale [[concepts/paradox|paradosso]] della [[concepts/history|storia]].
-La filosofia e la teologia tomiste, se comparate con equità con altre
+La [[philosophy|filosofia]] e la teologia tomiste, se comparate con equità con altre
 filosofie come la buddhista o la monista, con altre teologie come la
 calvinista o quella della Scienza Cristiana, sono con tutta evidenza un
 sistema operante e persino combattivo; pieno di senso comune e di
@@ -9870,7 +9870,7 @@ dal suo spirito morale, degenerarono con una strana rapidità; e non fu
 certo negli Scolastici che il miglioramento si verificò.  Di alcuni
 Scolastici possiamo solo dire che presero tutto ciò che vi era di
 peggiore nella Scolastica e lo resero peggiore.  Continuarono a contare
-i passi della logica; ma ogni passo della logica li portava più lontano
+i passi della [[logic|logica]]; ma ogni passo della [[logic|logica]] li portava più lontano
 dal senso comune.  Dimenticarono come san Tommaso avesse cominciato
 quasi da agnostico; e sembravano risoluti a non lasciare nulla in cielo
 o all'inferno intorno a cui qualcuno potesse essere agnostico.  Erano una
@@ -9885,7 +9885,7 @@ frutto dell'albero.  Ma questo era in origine pieno del brivido della
 scelta; e della sensazione che ella avrebbe potuto scegliere altrimenti.
 Fu questo minuzioso metodo [[archetypes/detective|poliziesco]] a essere seguito, senza il
 brivido dell'originaria storia [[archetypes/detective|poliziesca]].  Il mondo era ingombrato di
-innumerevoli tomi, che provavano mediante la logica mille cose che
+innumerevoli tomi, che provavano mediante la [[logic|logica]] mille cose che
 possono essere conosciute soltanto da Dio.  Essi svilupparono tutto ciò
 che era realmente sterile nella Scolastica, e lasciarono a noi tutto ciò
 che è realmente fecondo nel Tomismo.
@@ -9999,7 +9999,7 @@ We must be just to those huge human figures, who are in fact
 the hinges of [[concepts/history|history]].  However strong, and rightly strong,
 be our own controversial conviction, it must never mislead us
 into thinking that something trivial has transformed the world.
-So it is with that great Augustinian monk, who avenged all the ascetic
+So it is with that great Augustinian monk, who avenged all the [[ascetic]]
 Augustinians of the Middle Ages; and whose broad and burly figure has
 been big enough to block out for four centuries the distant human
 mountain of [[characters/aquinas|Aquinas]].  It is not, as the moderns delight to say,
@@ -10024,14 +10024,14 @@ or what was later called his Personality.  He had as a fact a rather
 strong personality.  [[characters/aquinas|Aquinas]] had an even stronger personality;
 he had a massive and magnetic presence; he had an intellect that could
 act like a huge system of artillery spread over the whole world;
-he had that instantaneous presence of mind in debate, which alone
+he had that instantaneous presence of mind in [[debate]], which [[Alone|alone]]
 really deserves the name of wit.  But it never occurred to him to use
 anything except his wits, in defence of a [[concepts/truth|truth]] distinct from himself.
 It never occurred to [[characters/aquinas|Aquinas]] to use [[characters/aquinas|Aquinas]] as a weapon.
 There is not a trace of his ever using his personal advantages,
-of birth or [[concepts/body|body]] or brain or breeding, in debate with anybody.
+of birth or [[concepts/body|body]] or brain or breeding, in [[debate]] with anybody.
 In short, he belonged to an age of intellectual unconsciousness, to an age
-of intellectual innocence, which was very intellectual.  Now Luther did
+of intellectual [[innocence]], which was very intellectual.  Now Luther did
 begin the modern mood of depending on things not merely intellectual.
 It is not a question of praise or blame; it matters little whether we say
 that he was a strong personality, or that he was a bit of a big bully.
@@ -10096,7 +10096,7 @@ Dobbiamo essere giusti verso quelle immense figure umane, che sono di fatto
 i cardini della [[concepts/history|storia]]. Per quanto forte, e giustamente forte,
 sia la nostra stessa convinzione polemica, essa non deve mai indurci
 a pensare che qualcosa di banale abbia trasformato il mondo.
-Così è di quel grande monaco agostiniano, che vendicò tutti gli agostiniani ascetici
+Così è di quel grande monaco agostiniano, che vendicò tutti gli agostiniani [[ascetic|ascetici]]
 del Medioevo; e la cui figura ampia e corpulenta è stata
 grande abbastanza da nascondere per quattro secoli la lontana montagna umana
 di [[characters/aquinas|Aquino]]. Non è, come ai moderni piace dire,
@@ -10121,14 +10121,14 @@ o quella che più tardi fu chiamata la propria Personalità. Aveva di fatto una
 personalità piuttosto forte. [[characters/aquinas|Aquino]] aveva una personalità ancora più forte;
 aveva una presenza massiccia e magnetica; aveva un intelletto che poteva
 agire come un enorme sistema d'artiglieria disteso sul mondo intero;
-aveva quella istantanea presenza di spirito nel dibattito, che sola
+aveva quella istantanea presenza di spirito nel [[debate|dibattito]], che [[Alone|sola]]
 merita davvero il nome di arguzia. Ma non gli venne mai in mente di usare
 qualcosa che non fosse il suo ingegno, in difesa di una [[concepts/truth|verità]] distinta da sé.
 Non venne mai in mente ad [[characters/aquinas|Aquino]] di usare [[characters/aquinas|Aquino]] come un'arma.
 Non c'è traccia che egli abbia mai usato i suoi vantaggi personali,
-di nascita o di [[concepts/body|corpo]] o di cervello o di educazione, nel dibattito con chicchessia.
+di nascita o di [[concepts/body|corpo]] o di cervello o di educazione, nel [[debate|dibattito]] con chicchessia.
 In breve, egli apparteneva a un'età di inconsapevolezza intellettuale, a un'età
-di innocenza intellettuale, che era assai intellettuale. Ora Lutero diede
+di [[innocence|innocenza]] intellettuale, che era assai intellettuale. Ora Lutero diede
 davvero inizio all'umore moderno di affidarsi a cose non meramente intellettuali.
 Non è una questione di lode o di biasimo; poco importa se diciamo
 che era una forte personalità, o che era un po' un gran prepotente.
@@ -10159,7 +10159,7 @@ that encyclopaedic survey of social and moral and theoretical things.
 All the close-packed definitions that excluded so many errors
 and extremes; all the broad and balanced judgments upon the clash
 of loyalties or the choice of evils; all the liberal speculations
-upon the limits of government or the proper conditions of justice;
+upon the limits of [[government]] or the proper conditions of justice;
 all the distinctions between the use and abuse of private property;
 all the rules and exceptions about the great evil of war; all the
 allowances for human weakness and all the provisions for human health;
@@ -10175,8 +10175,8 @@ the world, was forgotten like a vapour.
 
 For a [[motifs/time|time]] it seemed that the destruction was final.
 It is still expressed in the amazing fact that (in the North)
-modern men can still write histories of philosophy, in which
-philosophy stops with the last little sophists of Greece and Rome;
+modern men can still write histories of [[philosophy]], in which
+[[philosophy]] stops with the last little sophists of Greece and Rome;
 and is never heard of again until the appearance of such a
 third-rate philosopher as Francis Bacon.  And yet this small book,
 which will probably do nothing else, or have very little other value,
@@ -10190,7 +10190,7 @@ is obviously a very slight and amateurish production; but it is
 not likely to be burned, and if it were, it would not leave even
 a noticeable gap in the pouring mass of new and magnificent work,
 which is now daily dedicated to the philosophia perennis;
-to the Everlasting Philosophy.
+to the Everlasting [[philosophy|Philosophy]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10206,7 +10206,7 @@ quella rassegna enciclopedica di cose sociali e morali e teoretiche.
 Tutte le definizioni serrate che escludevano tanti errori
 e tanti estremi; tutti i giudizi ampi ed equilibrati sul conflitto
 delle fedeltà o sulla scelta dei mali; tutte le liberali speculazioni
-sui limiti del governo o sulle giuste condizioni della giustizia;
+sui limiti del [[government|governo]] o sulle giuste condizioni della giustizia;
 tutte le distinzioni fra l'uso e l'abuso della proprietà privata;
 tutte le regole e le eccezioni intorno al grande male della guerra; tutte le
 concessioni alla debolezza umana e tutte le provvidenze per la salute umana;
@@ -10222,8 +10222,8 @@ del mondo, fu dimenticata come un vapore.
 
 Per un [[motifs/time|tempo]] parve che la distruzione fosse definitiva.
 Lo si esprime ancora nel fatto sorprendente che (nel Nord)
-gli uomini moderni possono ancora scrivere storie della filosofia, in cui
-la filosofia si arresta con gli ultimi piccoli sofisti della Grecia e di Roma;
+gli uomini moderni possono ancora scrivere storie della [[philosophy|filosofia]], in cui
+la [[philosophy|filosofia]] si arresta con gli ultimi piccoli sofisti della Grecia e di Roma;
 e non se ne sente più parlare fino alla comparsa di un
 filosofo di terz'ordine come Francesco Bacone.  Eppure questo piccolo libro,
 che probabilmente non farà nient'altro, o avrà ben poco altro valore,
@@ -10237,4 +10237,4 @@ evidentemente una produzione assai esile e dilettantesca; ma non è
 probabile che venga bruciato, e se anche lo fosse, non lascerebbe nemmeno
 una lacuna avvertibile nella massa dilagante di opera nuova e magnifica,
 che ora ogni giorno si consacra alla philosophia perennis;
-alla Filosofia Eterna.
+alla [[philosophy|Filosofia]] Eterna.

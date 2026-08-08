@@ -50,13 +50,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
+**Archetypes:** Common Man (2)
 
 **Settings:** [[settings/court|Court]], [[settings/london|London]]
 
 **Motifs:** [[motifs/court-(2)|Court (2)]], [[motifs/the-twelve|The Twelve]]
 
-**Characters:** [[characters/christ|Christ]]
+**Characters:** Christ
 
 **Themes & Concepts:** [[concepts/common-man|Common Man]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/paradox|Paradox]], [[concepts/humility|Humility]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/faith|Faith]], [[concepts/courage|Courage]], [[concepts/democracy|Democracy]], [[concepts/crime-and-punishment|Crime and Punishment]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

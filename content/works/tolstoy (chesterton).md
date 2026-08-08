@@ -69,7 +69,7 @@ tags:
 
 **Historical References:** [[historical-references/islam|Islam]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/crimean-war|Crimean War]]
 
-**Archetypes:** [[archetypes/rebel|Rebel]], [[archetypes/prophet|Prophet]]
+**Archetypes:** Rebel, Prophet
 
 **Settings:** [[settings/russia|Russia]], [[settings/battlefield|Battlefield]], [[settings/caucasus|Caucasus]], [[settings/europe|Europe]]
 
@@ -77,7 +77,7 @@ tags:
 
 **Topoi:** [[topoi/war-as-glory|War as Glory]]
 
-**Characters:** [[characters/leo-tolstoy|Leo Tolstoy]], [[characters/ivan-turgenev|Ivan Turgenev]], [[characters/anna-karenina|Anna Karenina]]
+**Characters:** Leo Tolstoy, Ivan Turgenev, Anna Karenina
 
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/madness|Madness]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/artist-and-society|Artist and Society]], [[concepts/truth|Truth]], [[concepts/fanaticism|Fanaticism]], [[concepts/conversion|Conversion]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/simplification-of-life|Simplification of Life]], [[concepts/realism|Realism]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/biography|Biography]], [[forms/nonfiction|Nonfiction]]

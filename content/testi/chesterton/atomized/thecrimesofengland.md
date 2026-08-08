@@ -43,7 +43,7 @@ SOME WORDS TO PROFESSOR WHIRLWIND
 
 The German Professor, his need of [[concepts/education|Education]]
 
-for Debate--Three Mistakes of German
+for [[debate|Debate]]--Three Mistakes of German
 
 Controversialists--The Multiplicity of
 
@@ -66,7 +66,7 @@ QUALCHE PAROLA AL PROFESSOR TURBINE
 
 Il professore tedesco, il suo bisogno di [[concepts/education|Istruzione]]
 
-per il Dibattito--Tre errori dei
+per il [[debate|Dibattito]]--Tre errori dei
 
 polemisti tedeschi--La molteplicità delle
 
@@ -319,11 +319,11 @@ THE MIDNIGHT OF EUROPE
 
 The Two Napoleons--Their Ultimate
 
-Success--The Interlude of Sedan--The
+[[success|Success]]--The Interlude of Sedan--The
 
 Meaning of an Emperor--The Triumph of
 
-Versailles--The True Innocence of England--
+Versailles--The True [[innocence|Innocence]] of England--
 
 Triumph of the Kaiser.
 
@@ -336,11 +336,11 @@ LA MEZZANOTTE D'EUROPA
 
 I due Napoleoni--Il loro definitivo
 
-Successo--L'interludio di Sedan--Il
+[[success|Successo]]--L'interludio di Sedan--Il
 
 Significato di un Imperatore--Il trionfo di
 
-Versailles--La vera Innocenza dell'Inghilterra--
+Versailles--La vera [[innocence|Innocenza]] dell'Inghilterra--
 
 Trionfo del Kaiser.
 
@@ -421,7 +421,7 @@ CHAPTER X
 
 THE BATTLE OF THE MARNE
 
-The Hour of Peril--The Human Deluge--The
+The Hour of Peril--The Human [[deluge|Deluge]]--The
 
 English at the Marne.
 
@@ -447,7 +447,7 @@ anything were really to be made of your moral campaign against the
 
 English nation, it was clearly necessary that somebody, if it were only
 
-an Englishman, should show you how to leave off professing philosophy
+an Englishman, should show you how to leave off professing [[philosophy]]
 
 and begin to practise it. I have therefore sold myself into the Prussian
 
@@ -598,7 +598,7 @@ CAPITOLO X
 
 LA BATTAGLIA DELLA Marna
 
-L'ora del pericolo - Il diluvio umano diluvio - Il
+L'ora del pericolo - Il diluvio umano [[deluge|diluvio]] - Il
 
 L'inglese alla Marna.
 
@@ -624,7 +624,7 @@ se la tua campagna morale contro fosse davvero efficace
 
 La nazione inglese: era chiaramente necessario che qualcuno, se non altro...
 
-un inglese dovrebbe mostrarti come smettere di professare filosofia
+un inglese dovrebbe mostrarti come smettere di professare [[philosophy|filosofia]]
 
 E iniziai a metterla in pratica. Mi sono quindi venduto ai prussiani
 
@@ -799,7 +799,7 @@ or unintelligible, or [[concepts/self|self]]-contradictory, or broken-minded gen
 
 you have something to teach us, teach it to us now. If you propose to
 
-convert us after you have conquered us, why not convert us before you
+[[convert]] us after you have conquered us, why not [[convert]] us before you
 
 have conquered us? As it is, we cannot believe what you say about your
 
@@ -968,7 +968,7 @@ o incomprensibili, o [[concepts/self|auto]]-contraddittori, o in genere sconness
 
 avete qualcosa da insegnarci, insegnatecelo ora. Se vi proponete di
 
-convertirci dopo averci conquistati, perché non convertirci prima di
+[[convert|convertirci]] dopo averci conquistati, perché non [[convert|convertirci]] prima di
 
 averci conquistati? Così com'è, non possiamo credere a ciò che dite sulla vostra
 
@@ -1501,7 +1501,7 @@ dies; he only decays for ever.
 
 If it were a matter of the smallest importance what happened to the
 
-Emperor William when once his house had been disarmed, I should satisfy
+Emperor William when once his [[house]] had been disarmed, I should satisfy
 
 my fancy with another picture of his declining years; a conclusion that
 
@@ -1509,7 +1509,7 @@ would be peaceful, humane, harmonious, and forgiving.
 
 In various parts of the lanes and villages of South England the
 
-pedestrian will come upon an old and quiet public-house, decorated with
+pedestrian will come upon an old and quiet public-[[house]], decorated with
 
 a dark and faded portrait in a cocked hat and the singular [[forms/inscription|inscription]],
 
@@ -1541,7 +1541,7 @@ writer calling himself Voltaire, who was quite shocked at Frederick's
 
 utter lack of religion of any kind. But the little Dissenter drank his
 
-beer in all innocence and rode on. And the great blasphemer of Potsdam
+beer in all [[innocence]] and rode on. And the great blasphemer of Potsdam
 
 would have laughed had he known; it was a jest after his own heart. Such
 
@@ -1551,7 +1551,7 @@ communion, and partake of the eucharistic [[concepts/body|body]] of Poland. Had 
 
 such a [[historical-references/bible|Bible]] reader as the Dissenter doubtless thought him, he might
 
-haply have foreseen the vengeance of humanity upon his house. He might
+haply have foreseen the vengeance of humanity upon his [[house]]. He might
 
 have known what Poland was and was yet to be; he might have known that
 
@@ -1615,7 +1615,7 @@ be borne away; and one to be borne on a high war-[[motifs/horse|horse]] through 
 
 after victory: but with a small bottle of [[motifs/poison|poison]] in the pocket. It is
 
-not irrelevant thus to pause upon the high and dark house of his
+not irrelevant thus to pause upon the high and dark [[house]] of his
 
 [[motifs/childhood|childhood]]. For the peculiar quality which marks out Prussian arms and
 
@@ -1668,7 +1668,7 @@ muore mai; si limita a decadere in eterno.
 
 Se avesse la minima importanza ciò che accade all'
 
-Imperatore Guglielmo una volta disarmata la sua casa, appagherei
+Imperatore Guglielmo una volta disarmata la sua [[house|casa]], appagherei
 
 la mia fantasia con un altro quadro dei suoi anni declinanti; una conclusione che
 
@@ -1676,7 +1676,7 @@ sarebbe pacifica, umana, armoniosa e clemente.
 
 In varie parti dei sentieri e dei villaggi dell'Inghilterra meridionale il
 
-viandante si imbatterà in un'antica e quieta osteria, decorata con
+viandante si imbatterà in un'antica e quieta [[house|osteria]], decorata con
 
 un ritratto scuro e sbiadito con un cappello a punta e la singolare [[forms/inscription|iscrizione]],
 
@@ -1708,7 +1708,7 @@ scrittore che si faceva chiamare Voltaire, il quale era assai scandalizzato dall
 
 totale assenza in Federico di qualsiasi religione. Ma il piccolo Dissenziente beveva la sua
 
-birra in tutta innocenza e proseguiva a cavallo. E il grande bestemmiatore di Potsdam
+birra in tutta [[innocence|innocenza]] e proseguiva a cavallo. E il grande bestemmiatore di Potsdam
 
 avrebbe riso se l'avesse saputo; era uno scherzo di suo gradimento. Tale
 
@@ -1718,7 +1718,7 @@ comunione, e a prendere parte al [[concepts/body|corpo]] eucaristico della Polon
 
 un lettore della [[historical-references/bible|Bibbia]] quale il Dissenziente senza dubbio lo credeva, avrebbe
 
-forse potuto prevedere la vendetta dell'umanità sulla sua casa. Avrebbe
+forse potuto prevedere la vendetta dell'umanità sulla sua [[house|casa]]. Avrebbe
 
 potuto sapere ciò che la Polonia era e sarebbe ancora stata; avrebbe potuto sapere che
 
@@ -1782,7 +1782,7 @@ portar via; e uno da portare su un alto [[motifs/horse|cavallo]] da guerra di vi
 
 dopo vittoria: ma con una piccola boccetta di [[motifs/poison|veleno]] in tasca. Non è
 
-irrilevante soffermarsi così sull'alta e oscura casa della sua
+irrilevante soffermarsi così sull'alta e oscura [[house|casa]] della sua
 
 [[motifs/childhood|infanzia]]. Poiché la peculiare qualità che distingue le armi e le
 
@@ -1839,13 +1839,13 @@ he had been broken; while he could break in, he could never break out.
 
 He could not slay in anger, nor even sin with simplicity. Thus he stands
 
-alone among the conquerors of their kind; his [[concepts/madness|madness]] was not due to a
+[[Alone|alone]] among the conquerors of their kind; his [[concepts/madness|madness]] was not due to a
 
 mere misdirection of [[concepts/courage|courage]]. Before the whisper of war had come to him
 
 the foundations of his audacity had been laid in [[concepts/fear|fear]].
 
-Of the work he did in this world there need be no considerable debate.
+Of the work he did in this world there need be no considerable [[debate]].
 
 It was romantic, if it be romantic that the dragon should [[motifs/swallow|swallow]] St.
 
@@ -2010,13 +2010,13 @@ era stato domato lui; finché poteva domare, non poteva mai affrancarsi.
 
 Non poteva uccidere per ira, né peccare con semplicità. Così egli sta
 
-solo fra i conquistatori della loro specie; la sua [[concepts/madness|follia]] non era dovuta a un
+[[Alone|solo]] fra i conquistatori della loro specie; la sua [[concepts/madness|follia]] non era dovuta a un
 
 mero sviamento del [[concepts/courage|coraggio]]. Prima che il sussurro della guerra gli giungesse
 
 le fondamenta della sua audacia erano state poste nella [[concepts/fear|paura]].
 
-Dell'opera che egli compì in questo mondo non v'è bisogno di gran dibattito.
+Dell'opera che egli compì in questo mondo non v'è bisogno di gran [[debate|dibattito]].
 
 Fu romantica, se è romantico che il drago debba [[motifs/swallow|inghiottire]] san
 
@@ -2275,7 +2275,7 @@ German kingdoms preserved, and were encouraged to preserve, the good
 
 things that go with small interests and strict boundaries, music,
 
-etiquette, a dreamy philosophy, and so on. They were small enough to be
+etiquette, a dreamy [[philosophy]], and so on. They were small enough to be
 
 universal. Their outlook could afford to be in some degree broad and
 
@@ -2446,7 +2446,7 @@ regni tedeschi conservarono, e furono incoraggiati a conservare, le buone
 
 cose che si accompagnano a piccoli interessi e confini rigorosi, la musica,
 
-l'etichetta, una filosofia sognante, e così via. Erano abbastanza piccoli da essere
+l'etichetta, una [[philosophy|filosofia]] sognante, e così via. Erano abbastanza piccoli da essere
 
 universali. La loro visione poteva permettersi di essere in qualche misura ampia e
 
@@ -2579,7 +2579,7 @@ just as [[motifs/well|well]]; but he did mean that by forcing the French back on
 
 guns, as it were, we had made their chief gunner necessarily their chief
 
-citizen. Had the French Republic been left alone, it would probably have
+citizen. Had the French Republic been left [[Alone|alone]], it would probably have
 
 followed the example of most other ideal experiments; and praised peace
 
@@ -2615,7 +2615,7 @@ those who created the Empire. So, at least, Fox argued against that much
 
 less English prig who would have called him unpatriotic; and he threw
 
-the blame upon Pitt's Government for having joined the anti-French
+the blame upon Pitt's [[government|Government]] for having joined the anti-French
 
 alliance, and so tipped up the scale in favour of a military France. But
 
@@ -2750,7 +2750,7 @@ altrettanto [[motifs/well|bene]]; ma intendeva che, respingendo i francesi sui l
 
 cannoni, per così dire, avevamo reso il loro primo artigliere necessariamente il loro primo
 
-cittadino. Fosse stata lasciata sola la Repubblica francese, avrebbe probabilmente
+cittadino. Fosse stata lasciata [[Alone|sola]] la Repubblica francese, avrebbe probabilmente
 
 seguito l'esempio della maggior parte degli altri esperimenti ideali; e lodato la pace
 
@@ -2786,7 +2786,7 @@ coloro che crearono l'Impero. Così, almeno, argomentava Fox contro quel ben
 
 meno inglese pedante che l'avrebbe detto antipatriottico; ed egli gettò
 
-la colpa sul Governo di Pitt per essersi unito all'alleanza
+la colpa sul [[government|Governo]] di Pitt per essersi unito all'alleanza
 
 antifrancese, e aver così fatto pendere la bilancia a favore di una Francia militare. Ma
 
@@ -2967,7 +2967,7 @@ any of those escapades of a floundering modernism which have made
 
 nonsense of this civic common-sense. Some Free Traders have seemed to
 
-leave a man no country to fight for; some Free Lovers seem to leave a
+leave a man no country to fight for; some Free [[lovers|Lovers]] seem to leave a
 
 man no household to rule. But these things have not established
 
@@ -3142,7 +3142,7 @@ una qualsiasi di quelle scappatelle di un modernismo brancolante che hanno reso
 
 insensato questo buon senso civico. Certi liberisti sono sembrati
 
-non lasciare all'uomo alcun paese per cui combattere; certi liberi amanti sembrano non lasciare all'uomo
+non lasciare all'uomo alcun paese per cui combattere; certi liberi [[lovers|amanti]] sembrano non lasciare all'uomo
 
 alcun focolare da governare. Ma queste cose non si sono affermate
 
@@ -3197,7 +3197,7 @@ still retained something of the old Catholic comfort for the [[motifs/soul|soul]
 
 Priests still bore witness to that mighty mediaeval institution which
 
-even its enemies concede to be a noble nightmare. All their hoary
+even its enemies concede to be a noble [[nightmare]]. All their hoary
 
 political iniquities had not deprived them of that dignity. If they
 
@@ -3370,7 +3370,7 @@ conservava ancora qualcosa dell'antico conforto cattolico per l'[[motifs/soul|an
 
 I sacerdoti rendevano ancora testimonianza a quella possente istituzione medievale che
 
-perfino i suoi nemici riconoscono essere un nobile incubo. Tutte le loro canute
+perfino i suoi nemici riconoscono essere un nobile [[nightmare|incubo]]. Tutte le loro canute
 
 iniquità politiche non li avevano privati di quella dignità. Se
 
@@ -3504,7 +3504,7 @@ Professava di restaurare i Borboni, e cercava di derubarli mentre
 
 li restaurava. Per il proprio tornaconto avrebbe mandato in rovina la
 
-Restaurazione insieme alla Rivoluzione. Sola in tutta quell'agonia dei popoli, essa
+Restaurazione insieme alla Rivoluzione. [[Alone|Sola]] in tutta quell'agonia dei popoli, essa
 
 non aveva la stella di un solo ideale a rischiarare la [[motifs/night|notte]] del suo
 
@@ -3565,7 +3565,7 @@ and a second [[motifs/death|death]]. And in this second case there were other el
 
 that were yet more strangely symbolic. That doubtful and [[topoi/double|double]] battle
 
-before Waterloo was like the dual personality in a dream. It
+before Waterloo was like the dual personality in [[A Dream|a dream]]. It
 
 corresponded curiously to the [[topoi/double|double]] mind of the Englishman. We connect
 
@@ -3603,13 +3603,13 @@ after that meeting amid the ashes of Hougomont, where they dreamed they
 
 had trodden out the embers of all [[concepts/democracy|democracy]], the Prussians rode on
 
-before, doing after their kind. After them went that ironical aristocrat
+before, doing after their kind. After them went that ironical [[aristocrat]]
 
 out of embittered Ireland, with what thoughts we know; and Blucher, with
 
 what thoughts we care not; and his soldiers entered [[settings/paris|Paris]], and stole the
 
-sword of Joan of Arc.
+[[Sword|sword]] of Joan of Arc.
 
 IV--_The Coming of the Janissaries_
 
@@ -3665,7 +3665,7 @@ of Heligoland; and in that day his old and once-imprisoned enemy, John
 
 Redmond, was to rise in the hour of English jeopardy, and be thanked in
 
-thunder for the free offer of the Irish sword. All that Robert Cecil
+thunder for the free offer of the Irish [[Sword|sword]]. All that Robert Cecil
 
 thought valueless has been our loss, and all that he thought feeble our
 
@@ -3695,7 +3695,7 @@ In the last two chapters I have sketched in outline the way in which
 
 England, partly by historical accident, but partly also by false
 
-philosophy, was drawn into the orbit of [[settings/germany|Germany]], the centre of whose
+[[philosophy]], was drawn into the orbit of [[settings/germany|Germany]], the centre of whose
 
 circle was already at Berlin. I need not recapitulate the causes at all
 
@@ -3736,7 +3736,7 @@ e una seconda [[motifs/death|morte]]. E in questo secondo caso vi furono altri e
 
 ancor più stranamente simbolici. Quella dubbia e [[topoi/double|duplice]] battaglia
 
-prima di Waterloo era come la doppia personalità in un sogno. Essa
+prima di Waterloo era come la doppia personalità in [[A Dream|un sogno]]. Essa
 
 corrispondeva curiosamente alla [[topoi/double|duplice]] mente dell'inglese. Colleghiamo
 
@@ -3774,13 +3774,13 @@ dopo quell'incontro tra le ceneri di Hougomont, dove sognavano di aver
 
 spento le braci di ogni [[concepts/democracy|democrazia]], i prussiani cavalcarono avanti
 
-innanzi, agendo secondo la loro indole. Dopo di loro andò quell'ironico aristocratico
+innanzi, agendo secondo la loro indole. Dopo di loro andò quell'ironico [[aristocrat|aristocratico]]
 
 uscito dall'inasprita Irlanda, con quali pensieri sappiamo; e Blücher, con
 
 quali pensieri non ci curiamo; e i suoi soldati entrarono a [[settings/paris|Parigi]], e rubarono la
 
-spada di Giovanna d'Arco.
+[[Sword|spada]] di Giovanna d'Arco.
 
 IV--_L'avvento dei Giannizzeri_
 
@@ -3836,7 +3836,7 @@ di Helgoland; e in quel giorno il suo vecchio e un tempo imprigionato nemico, Jo
 
 Redmond, si sarebbe levato nell'ora del pericolo inglese, ed essere ringraziato con
 
-tuono per la libera offerta della spada irlandese. Tutto ciò che Robert Cecil
+tuono per la libera offerta della [[Sword|spada]] irlandese. Tutto ciò che Robert Cecil
 
 reputò senza valore è stato la nostra perdita, e tutto ciò ch'egli reputò debole il nostro
 
@@ -3866,7 +3866,7 @@ Negli ultimi due capitoli ho tratteggiato in abbozzo il modo in cui
 
 l'Inghilterra, in parte per accidente storico, ma in parte anche per falsa
 
-filosofia, fu attirata nell'orbita della [[settings/germany|Germania]], il centro del cui
+[[philosophy|filosofia]], fu attirata nell'orbita della [[settings/germany|Germania]], il centro del cui
 
 cerchio era già a Berlino. Non occorre ch'io ricapitoli le cause in modo
 
@@ -3997,11 +3997,11 @@ abbots of misrule. The stiff and [[concepts/self|self]]-conscious figure of Pitt
 
 remained standing incongruously purse in hand; while his manlier rivals
 
-were stretching out their hands for the sword, the only possible resort
+were stretching out their hands for the [[Sword|sword]], the only possible resort
 
 of men who cannot be bought and refuse to be sold. A rebellion broke out
 
-and was repressed; and the government that repressed it was ten times
+and was repressed; and the [[government]] that repressed it was ten times
 
 more lawless than the rebellion. Fate for once seemed to pick out a
 
@@ -4166,11 +4166,11 @@ abati del disordine. La rigida e [[concepts/self|consapevole di sé]] figura di 
 
 rimasta in piedi incongruamente con la borsa in mano; mentre i suoi più virili rivali
 
-tendevano le mani verso la spada, l'unica risorsa possibile
+tendevano le mani verso la [[Sword|spada]], l'unica risorsa possibile
 
 per uomini che non si possono comprare e rifiutano di essere venduti. Una ribellione scoppiò
 
-e fu repressa; e il governo che la represse fu dieci volte
+e fu repressa; e il [[government|governo]] che la represse fu dieci volte
 
 più illegale della ribellione. Il Fato per una volta parve scegliere una
 
@@ -4271,17 +4271,17 @@ the streets and fields. A village vicar was slain with inconceivable
 
 stripes, and his corpse set on [[motifs/fire|fire]] with frightful jests about a roasted
 
-priest. Rape became a mode of government. The violation of virgins
+priest. Rape became a mode of [[government]]. The violation of virgins
 
 became a standing order of police. Stamped still with the same terrible
 
-symbolism, the work of the English Government and the English settlers
+symbolism, the work of the English [[government|Government]] and the English settlers
 
 seemed to resolve itself into animal atrocities against the wives and
 
 daughters of a race distinguished for a rare and detached purity, and of
 
-a religion which makes of innocence the Mother of God. In its bodily
+a religion which makes of [[innocence]] the Mother of God. In its bodily
 
 aspects it became like a war of devils upon angels; as if England could
 
@@ -4309,7 +4309,7 @@ in his [[motifs/childhood|childhood]] the legend (or rather the [[concepts/truth
 
 frightfully alive that his own mother would not have the word "soldier"
 
-spoken in her house. Wherever we thus find the tradition alive we find
+spoken in her [[house]]. Wherever we thus find the tradition alive we find
 
 that the hateful soldier means especially the German soldier. When the
 
@@ -4442,17 +4442,17 @@ Le strade e i campi. Un parroco di villaggio fu ucciso in modo incredibile
 
 strisce e il suo cadavere fu dato alle [[motifs/fire|flamme]] con terribili scherzi su un arrosto
 
-sacerdote. Lo stupro divenne un mezzo di governo. La violazione delle vergini
+sacerdote. Lo stupro divenne un mezzo di [[government|governo]]. La violazione delle vergini
 
 Divenne un ordine permanente di polizia. Immobile con lo stesso terribile...
 
-simbolismo, l'opera del Governo inglese e dei coloni inglesi
+simbolismo, l'opera del [[government|Governo]] inglese e dei coloni inglesi
 
 sembrava risolversi in atrocità animali contro le mogli e
 
 Figlie di una razza nota per la sua rara e distaccata purezza
 
-una religione che fa dell'innocenza la Madre di Dio. Nel suo corpo
+una religione che fa dell'[[innocence|innocenza]] la Madre di Dio. Nel suo corpo
 
 Aspetti che divennero come una guerra di demoni contro gli angeli; quasi come se l'Inghilterra potesse...
 
@@ -4480,7 +4480,7 @@ nell'[[motifs/childhood|infanzia]] la leggenda (o meglio, la [[concepts/truth|ve
 
 così vivo che sua madre non avrebbe usato la parola "soldato"
 
-parlato nella sua casa. Ovunque troviamo viva la tradizione, troviamo
+parlato nella sua [[house|casa]]. Ovunque troviamo viva la tradizione, troviamo
 
 Il soldato odioso è soprattutto il soldato tedesco. Quando il
 
@@ -4571,7 +4571,7 @@ that the ideal squire was a good squire. The best squire I know in
 
 fiction is Duke [[characters/theseus|Theseus]] in "The Midsummer [[motifs/night|Night]]'s Dream," who is kind to
 
-his people and proud of his dogs; and would be a perfect human being if
+his people and proud of his [[dogs]]; and would be a perfect human being if
 
 he were not just a little bit prone to be kind to both of them in the
 
@@ -4607,7 +4607,7 @@ of the revolutionary century I [[concepts/doubt|doubt]] whether it could have co
 
 bad, if we had not taken a side that forced us to flatter barbarian
 
-tyranny in Europe. We should hardly have seen such a nightmare as the
+tyranny in Europe. We should hardly have seen such a [[nightmare]] as the
 
 Anglicising of Ireland if we had not already seen the Germanising of
 
@@ -4742,7 +4742,7 @@ che il gentiluomo ideale fosse un buon gentiluomo. Il miglior gentiluomo che con
 
 Il personaggio di finzione è il Duca [[characters/theseus|Teseo]] ne "Il sogno di una [[motifs/night|notte]] di mezza estate", che si dimostra gentile con
 
-il suo popolo e orgoglioso dei suoi cani; sarebbe un essere umano perfetto se
+il suo popolo e orgoglioso dei suoi [[dogs|cani]]; sarebbe un essere umano perfetto se
 
 Non era solo un po' incline ad essere gentile con entrambi
 
@@ -4778,7 +4778,7 @@ del secolo rivoluzionario io [[concepts/doubt|dubito]] che avrebbe potuto contin
 
 Male, se non avessimo preso una parte che ci costringeva ad adulare i barbari
 
-tirannia in Europa. Non avremmo quasi visto un tale incubo come il
+tirannia in Europa. Non avremmo quasi visto un tale [[nightmare|incubo]] come il
 
 L'anglicizzazione dell'Irlanda se non avessimo già visto la germanizzazione della...
 
@@ -4933,9 +4933,9 @@ ordinary misrule in the vital matter of its object. The coercion was not
 
 imposed that the people might live quietly, but that the people might
 
-die quietly. And then we sit in an owlish innocence of our sin, and
+die quietly. And then we sit in an owlish [[innocence]] of our sin, and
 
-debate whether the Irish might conceivably succeed in saving Ireland.
+[[debate]] whether the Irish might conceivably succeed in saving Ireland.
 
 We, as a matter of fact, have not even failed to save Ireland. We have
 
@@ -4957,9 +4957,9 @@ said, indeed they have hardly discovered, one quite simple fact--that it
 
 rules England. They are right in asking that the Irish should have a say
 
-in the Irish government, but they are quite wrong in supposing that the
+in the Irish [[government]], but they are quite wrong in supposing that the
 
-English have any particular say in English government. And I seriously
+English have any particular say in English [[government]]. And I seriously
 
 believe I am not deceived by any national bias, when I say that the
 
@@ -5057,7 +5057,7 @@ mercenaries are mostly unprejudiced. To Cobbett's eye we were [[concepts/sufferi
 
 from allies exactly as we should suffer from invaders. Boney was a
 
-bogey; but the German was a nightmare, a thing actually sitting on top
+bogey; but the German was a [[nightmare]], a thing actually sitting on top
 
 of us. In Ireland the Alliance meant the ruin of anything and
 
@@ -5106,9 +5106,9 @@ malgoverno ordinario nel punto vitale del suo oggetto. La coercizione non fu
 
 imposta perché il popolo vivesse in quiete, ma perché il popolo potesse
 
-morire in quiete. E poi ce ne stiamo seduti in una gufesca innocenza del nostro peccato, e
+morire in quiete. E poi ce ne stiamo seduti in una gufesca [[innocence|innocenza]] del nostro peccato, e
 
-discutiamo se gli irlandesi possano concepibilmente riuscire a salvare l'Irlanda.
+[[debate|discutiamo]] se gli irlandesi possano concepibilmente riuscire a salvare l'Irlanda.
 
 Noi, in verità, non abbiamo nemmeno fallito nel salvare l'Irlanda. Abbiamo
 
@@ -5130,9 +5130,9 @@ detto, anzi hanno appena scoperto, un fatto ben semplice: che essa
 
 governa l'Inghilterra. Hanno ragione a chiedere che gli irlandesi abbiano voce
 
-nel governo irlandese, ma hanno del tutto torto a supporre che gli
+nel [[government|governo]] irlandese, ma hanno del tutto torto a supporre che gli
 
-inglesi abbiano voce particolare nel governo inglese. E credo sul serio
+inglesi abbiano voce particolare nel [[government|governo]] inglese. E credo sul serio
 
 di non essere ingannato da alcun pregiudizio nazionale, quando dico che il
 
@@ -5230,7 +5230,7 @@ i mercenari sono per lo più senza pregiudizi. All'occhio di Cobbett noi [[conce
 
 per opera degli alleati esattamente come dovremmo soffrire per opera degli invasori. Boney era uno
 
-spauracchio; ma il tedesco era un incubo, una cosa che di fatto ci stava seduta
+spauracchio; ma il tedesco era un [[nightmare|incubo]], una cosa che di fatto ci stava seduta
 
 addosso. In Irlanda l'Alleanza significava la rovina di ogni cosa e
 
@@ -5325,7 +5325,7 @@ consonants are full of Cobbett. Dr. Johnson was our great man of letters
 
 when he said "stinks," not when he said "putrefaction." Take some common
 
-phrase like "raining cats and dogs," and note not only the extravagance
+phrase like "raining cats and [[dogs]]," and note not only the extravagance
 
 of imagery (though that is very Shakespearean), but a jagged energy in
 
@@ -5333,7 +5333,7 @@ the very spelling. Say "chats" and "chiens" and it is not the same.
 
 Perhaps the old national genius has survived the urban enslavement most
 
-spiritedly in our comic songs, admired by all men of travel and
+spiritedly in our comic [[songs]], admired by all men of travel and
 
 continental culture, by Mr. George Moore as by Mr. Belloc. One (to
 
@@ -5500,7 +5500,7 @@ inglesi sono piene di Cobbett. Il Dr. Johnson fu il nostro grande uomo di letter
 
 quando disse «stinks», non quando disse «putrefaction». Prendete una comune
 
-frase come «raining cats and dogs», e notate non solo la stravaganza
+frase come «raining cats and [[dogs]]», e notate non solo la stravaganza
 
 dell'immagine (benché sia assai shakespeariana), ma un'energia frastagliata nella
 
@@ -5508,7 +5508,7 @@ stessa ortografia. Dite «chats» e «chiens» e non è la stessa cosa.
 
 Forse l'antico genio nazionale è sopravvissuto alla schiavitù urbana più
 
-briosamente nelle nostre canzoni comiche, ammirate da tutti gli uomini di viaggio e
+briosamente nelle nostre [[songs|canzoni]] comiche, ammirate da tutti gli uomini di viaggio e
 
 di cultura continentale, dal signor George Moore come dal signor Belloc. Una (a
 
@@ -6071,7 +6071,7 @@ spoilt [[archetypes/child|child]]. The [[concepts/wonder|wonder]] turns to mere 
 
 always turns to mere immoralism. The wilfulness is no longer liked, but
 
-is actually obeyed. The [[concepts/fear|fear]] becomes a philosophy. Panic hardens into
+is actually obeyed. The [[concepts/fear|fear]] becomes a [[philosophy]]. Panic hardens into
 
 pessimism; or else, what is often equally depressing, optimism.
 
@@ -6236,7 +6236,7 @@ Carlyle segna esattamente il momento in cui il [[archetypes/child|bambino]] tede
 
 si volge sempre in mero immoralismo. L'ostinazione non è più gradita, ma
 
-è di fatto obbedita. La [[concepts/fear|paura]] diventa una filosofia. Il panico s'indurisce in
+è di fatto obbedita. La [[concepts/fear|paura]] diventa una [[philosophy|filosofia]]. Il panico s'indurisce in
 
 pessimismo; oppure, ciò che è spesso ugualmente deprimente, in ottimismo.
 
@@ -6289,13 +6289,13 @@ fell upon him a sort of spell which is his [[forms/tragedy|tragedy]] and the Eng
 
 [[forms/tragedy|tragedy]], and, in no small degree, the German [[forms/tragedy|tragedy]] too. The real
 
-romance of the Teutons was largely a romance of the Southern Teutons,
+[[Romance|romance]] of the Teutons was largely a [[Romance|romance]] of the Southern Teutons,
 
 with their castles, which are almost literally castles in the air, and
 
 their [[motifs/river|river]] which is walled with vineyards and rhymes so naturally to
 
-wine. But as Carlyle's was rootedly a romance of conquest, he had to
+wine. But as Carlyle's was rootedly a [[Romance|romance]] of conquest, he had to
 
 prove that the thing which conquered in [[settings/germany|Germany]] was really more poetical
 
@@ -6325,7 +6325,7 @@ simply feeble--and French. Thus Carlyle became continually gloomier as
 
 his fit of the blues deepened into Prussian blues; nor can there be any
 
-[[concepts/wonder|wonder]]. His philosophy had brought out the result that the Prussian was
+[[concepts/wonder|wonder]]. His [[philosophy]] had brought out the result that the Prussian was
 
 the first of Germans, and, therefore, the first of men. No [[concepts/wonder|wonder]] he
 
@@ -6355,7 +6355,7 @@ people first. She had already found her brutal, if humorous, embodiment
 
 in Bismarck; and he began with a scheme full of brutality and not
 
-without humour. He took up, or rather pretended to take up, the claim of
+without [[Humour|humour]]. He took up, or rather pretended to take up, the claim of
 
 the Prince of Augustenberg to duchies which were a quite lawful part of
 
@@ -6397,7 +6397,7 @@ Prussians were descended from mongrel Slavonic savages. If Protestantism
 
 be progress, the Danes were Protestant; while they had attained quite
 
-peculiar success and wealth in that small ownership and intensive
+peculiar [[success]] and wealth in that small ownership and intensive
 
 cultivation which is very commonly a boast of Catholic lands. They had
 
@@ -6407,7 +6407,7 @@ against Latin revolutionism: quiet [[concepts/freedom|freedom]], quiet prosperit
 
 [[motifs/love|love]] of fields and of the sea. But, moreover, by that coincidence which
 
-dogs this drama, the English of that Victorian epoch had found their
+[[dogs]] this drama, the English of that Victorian epoch had found their
 
 freshest impression of the northern spirit of infancy and [[concepts/wonder|wonder]] in the
 
@@ -6454,13 +6454,13 @@ cadde su di lui una sorta d'incantesimo che è la sua [[forms/tragedy|tragedia]]
 
 la [[forms/tragedy|tragedia]], e, in non piccola misura, anche la [[forms/tragedy|tragedia]] tedesca. Il vero
 
-romanticismo dei Teutoni fu in gran parte un romanticismo dei Teutoni meridionali,
+[[Romance|romanticismo]] dei Teutoni fu in gran parte un [[Romance|romanticismo]] dei Teutoni meridionali,
 
 con i loro castelli, che sono quasi letteralmente castelli in aria, e
 
 il loro [[motifs/river|fiume]] che è murato di vigneti e rima così naturalmente con
 
-il vino. Ma poiché quello di Carlyle era radicalmente un romanticismo di conquista, egli dovette
+il vino. Ma poiché quello di Carlyle era radicalmente un [[Romance|romanticismo]] di conquista, egli dovette
 
 dimostrare che ciò che aveva conquistato in [[settings/germany|Germania]] fosse davvero più poetico
 
@@ -6490,7 +6490,7 @@ semplicemente fiacca--e francese. Così Carlyle divenne di continuo più cupo, m
 
 il suo accesso di malinconia s'inaspriva in blu di Prussia; né vi può essere alcuna
 
-[[concepts/wonder|meraviglia]]. La sua filosofia aveva prodotto il risultato che il Prussiano fosse
+[[concepts/wonder|meraviglia]]. La sua [[philosophy|filosofia]] aveva prodotto il risultato che il Prussiano fosse
 
 il primo dei Tedeschi, e, dunque, il primo degli uomini. Nessuna [[concepts/wonder|meraviglia]] che egli
 
@@ -6520,7 +6520,7 @@ popoli. Aveva già trovato la sua brutale, benché faceta, incarnazione
 
 in Bismarck; ed egli cominciò con un disegno pieno di brutalità e non
 
-privo di umorismo. Assunse, o piuttosto finse di assumere, la rivendicazione del
+privo di [[Humour|umorismo]]. Assunse, o piuttosto finse di assumere, la rivendicazione del
 
 Principe di Augustenburg su ducati che erano una parte del tutto legittima
 
@@ -6562,7 +6562,7 @@ Prussiani discendevano da bastardi selvaggi slavi. Se il Protestantesimo
 
 è progresso, i Danesi erano Protestanti; mentre avevano raggiunto un del tutto
 
-peculiare successo e ricchezza in quella piccola proprietà e intensiva
+peculiare [[success|successo]] e ricchezza in quella piccola proprietà e intensiva
 
 coltivazione che è assai comunemente un vanto delle terre cattoliche. Avevano
 
@@ -6572,7 +6572,7 @@ opposizione al rivoluzionarismo latino: quieta [[concepts/freedom|libertà]], qu
 
 [[motifs/love|amore]] dei campi e del mare. Ma, per di più, per quella coincidenza che
 
-perseguita questo dramma, gli Inglesi di quell'epoca vittoriana avevano trovato la loro
+[[dogs|perseguita]] questo dramma, gli Inglesi di quell'epoca vittoriana avevano trovato la loro
 
 più fresca impressione dello spirito nordico d'infanzia e di [[concepts/wonder|meraviglia]] nelle
 
@@ -6655,7 +6655,7 @@ toy. Here again, it is enormously probable that England would have
 
 struck upon the right side, if the English people had been the English
 
-Government. Among other coincidences, the Danish princess who had
+[[government|Government]]. Among other coincidences, the Danish princess who had
 
 married the English heir was something very like a fairy princess to the
 
@@ -6733,7 +6733,7 @@ wealth, our insularity, our gradual loss of [[concepts/faith|faith]], had so daz
 
 the old Christian England haunted us like a [[archetypes/ghost|ghost]] in whom we could not
 
-quite believe. An aristocrat like Palmerston, loving [[concepts/freedom|freedom]] and hating
+quite believe. An [[aristocrat]] like Palmerston, loving [[concepts/freedom|freedom]] and hating
 
 the upstart despotism, must have looked on at its cold brutality not
 
@@ -6759,7 +6759,7 @@ and easy abandonment of Napoleon III. The Victorian English had a very
 
 bad habit of being influenced by words and at the same [[motifs/time|time]] pretending
 
-to despise them. They would build their whole historical philosophy upon
+to despise them. They would build their whole historical [[philosophy]] upon
 
 two or three titles, and then refuse to get even the titles right. The
 
@@ -6785,7 +6785,7 @@ Arts. His irritation would have increased if the Art Master had promised
 
 him a sea-piece and had brought him a piece of the sea; or if, during
 
-the decoration of his house, the same aesthetic humourist had undertaken
+the decoration of his [[house]], the same aesthetic humourist had undertaken
 
 to procure some Indian Red and had produced a Red Indian.
 
@@ -6830,7 +6830,7 @@ Giocattolo. Anche qui è estremamente probabile che l'Inghilterra avrebbe...
 
 Colpiti sul lato giusto, se gli inglesi fossero stati veramente inglesi
 
-Governo. Tra le altre coincidenze, la principessa danese che aveva
+[[government|Governo]]. Tra le altre coincidenze, la principessa danese che aveva
 
 sposò l'erede inglese era qualcosa di molto simile a una principessa delle fate per la
 
@@ -6908,7 +6908,7 @@ la ricchezza, il nostro isolamento, la nostra graduale perdita di [[concepts/fai
 
 la vecchia Inghilterra cristiana ci perseguitava come un [[archetypes/ghost|fantasma]] in cui non potevamo
 
-crederci del tutto. Un aristocratico come Palmerston, amante della [[concepts/freedom|libertà]] e che odia
+crederci del tutto. Un [[aristocrat|aristocratico]] come Palmerston, amante della [[concepts/freedom|libertà]] e che odia
 
 Il dispotismo emergente, deve aver osservato la sua fredda brutalità non
 
@@ -6934,7 +6934,7 @@ e l'abbandono facile di Napoleone III. Gli inglesi vittoriani avevano un atteggi
 
 cattiva abitudine di lasciarsi influenzare dalle parole e nello stesso [[motifs/time|tempo]] fingere
 
-per disprezzarli. Costruirebbero tutta la loro filosofia storica sulla
+per disprezzarli. Costruirebbero tutta la loro [[philosophy|filosofia]] storica sulla
 
 Due o tre titoli e poi rifiutarsi di fare bene anche solo i titoli.
 
@@ -6960,7 +6960,7 @@ Le arti. La sua irritazione sarebbe aumentata se il maestro d'arte avesse promes
 
 Un dipinto marino e un pezzo di mare; o se, durante...
 
-la decorazione della sua casa, lo stesso umorista estetico si era impegnato
+la decorazione della sua [[house|casa]], lo stesso umorista estetico si era impegnato
 
 per procurarsi un po' di rosso indiano e aveva prodotto un pellerossa.
 
@@ -7033,9 +7033,9 @@ despotism, but forbid any riot against aristocracy. Yet the idea
 
 expressed in "The Emperor of the French" is not dead, but rather risen
 
-from the dead. It is the idea that while a government may pretend to be
+from the dead. It is the idea that while a [[government]] may pretend to be
 
-a popular government, only a person can be really popular. Indeed, the
+a popular [[government]], only a person can be really popular. Indeed, the
 
 idea is still the [[motifs/crown|crown]] of American [[concepts/democracy|democracy]], as it was for a [[motifs/time|time]] the
 
@@ -7077,7 +7077,7 @@ eloquence of Victor Hugo, that Napoleon III. was a mere ape of Napoleon
 
 I. That is, that he had, as the politician says, in "L'Aiglon," "le
 
-petit chapeau, mais pas la tête"; that he was merely a bad imitation.
+petit chapeau, mais pas la tête"; that he was merely a bad [[Imitation|imitation]].
 
 This is extravagantly exaggerative; and those who say it, moreover,
 
@@ -7204,9 +7204,9 @@ dispotismo, ma vietare ogni rivolta contro l'aristocrazia. Eppure l'idea
 
 espressa in «L'Imperatore dei Francesi» non è morta, ma anzi risorta
 
-dai morti. È l'idea che, mentre un governo può pretendere di essere
+dai morti. È l'idea che, mentre un [[government|governo]] può pretendere di essere
 
-un governo popolare, solo una persona può essere davvero popolare. Anzi, l'
+un [[government|governo]] popolare, solo una persona può essere davvero popolare. Anzi, l'
 
 idea è ancora la [[motifs/crown|corona]] della [[concepts/democracy|democrazia]] americana, come fu per un [[motifs/time|tempo]] la
 
@@ -7248,7 +7248,7 @@ eloquenza di Victor Hugo, che Napoleone III fosse una mera scimmia di Napoleone
 
 I. Cioè che egli avesse, come dice il politico, ne «L'Aiglon», «le
 
-petit chapeau, mais pas la tête»; che fosse soltanto una cattiva imitazione.
+petit chapeau, mais pas la tête»; che fosse soltanto una cattiva [[Imitation|imitazione]].
 
 Ciò è stravagantemente esagerato; e quelli che lo dicono, per di più,
 
@@ -7397,9 +7397,9 @@ expected to understand. They knew the [[concepts/truth|truth]]; that Anti-Cleric
 
 not a Protestant movement, but a Catholic mood. And after all the
 
-English Liberals could not get their own Government to risk what the
+English Liberals could not get their own [[government|Government]] to risk what the
 
-French Government had risked; and Napoleon III. might [[motifs/well|well]] have retorted
+French [[government|Government]] had risked; and Napoleon III. might [[motifs/well|well]] have retorted
 
 on Palmerston, his rival in international Liberalism, that half a war
 
@@ -7443,7 +7443,7 @@ with the English than any Englishman. He made his way through a forest
 
 of salutations, which would willingly have turned itself into a forest
 
-of swords. But those who kept the sword kept it sheathed. For the ruling
+of swords. But those who kept the [[Sword|sword]] kept it sheathed. For the ruling
 
 class the valour of the Italian [[archetypes/hero|hero]], like the [[concepts/beauty|beauty]] of the Danish
 
@@ -7570,9 +7570,9 @@ sperar di comprendere. Essi conoscevano la [[concepts/truth|verità]]; che l'ant
 
 un movimento protestante, ma un umore cattolico. E dopotutto i
 
-Liberali inglesi non riuscirono a far rischiare al proprio Governo ciò che il
+Liberali inglesi non riuscirono a far rischiare al proprio [[government|Governo]] ciò che il
 
-Governo francese aveva rischiato; e Napoleone III avrebbe [[motifs/well|ben]] potuto ribattere
+[[government|Governo]] francese aveva rischiato; e Napoleone III avrebbe [[motifs/well|ben]] potuto ribattere
 
 a Palmerston, suo rivale nel Liberalismo internazionale, che mezza guerra
 
@@ -7616,7 +7616,7 @@ presso gli Inglesi di qualunque Inglese. Si aprì la via attraverso una foresta
 
 di saluti, che volentieri si sarebbe tramutata in una foresta
 
-di spade. Ma coloro che tenevano la spada la tennero nel fodero. Per la classe
+di spade. Ma coloro che tenevano la [[Sword|spada]] la tennero nel fodero. Per la classe
 
 dominante il valore dell'[[archetypes/hero|Eroe]] italiano, come la [[concepts/beauty|bellezza]] della Principessa
 
@@ -7723,7 +7723,7 @@ One man answered; one who had quarrelled with the French and their
 
 Emperor; but who knew it was not an emperor that had fallen. Garibaldi,
 
-not always wise but to his end a [[archetypes/hero|hero]], took his station, sword in hand,
+not always wise but to his end a [[archetypes/hero|hero]], took his station, [[Sword|sword]] in hand,
 
 under the darkening sky of Christendom, and shared the last fate of
 
@@ -7775,11 +7775,11 @@ live, as we have lived, to feel that [[motifs/horse|horse]] run away with us, an
 
 through wilder and wilder places, until we knew that we were riding on
 
-the nightmare.
+the [[nightmare]].
 
 What was this thing to which we trusted? And how may we most quickly
 
-explain its development from a dream to a nightmare, and the
+explain its development from [[A Dream|a dream]] to a [[nightmare]], and the
 
 hair's-breadth escape by which it did not hurl us to destruction, as it
 
@@ -7787,7 +7787,7 @@ seems to be hurling the Turk? It is a certain spirit; and we must not
 
 ask for too logical a definition of it, for the people whom it possesses
 
-disown logic; and the whole thing is not so much a theory as a confusion
+disown [[logic]]; and the whole thing is not so much a theory as a confusion
 
 of thought. Its widest and most elementary character is adumbrated in
 
@@ -7805,7 +7805,7 @@ possesses all noble and necessary qualities, and is an end in himself.
 
 It is pointed out in answer that when climbing a tree the [[motifs/horse|horse]] is less
 
-graceful than the cat; that lovers and poets seldom urge the [[motifs/horse|horse]] to
+graceful than the cat; that [[lovers]] and poets seldom urge the [[motifs/horse|horse]] to
 
 make a noise all [[motifs/night|night]] like the [[motifs/nightingale|nightingale]]; that when submerged for
 
@@ -7817,7 +7817,7 @@ oyster. He is not content to answer (though, being a muddle-headed
 
 [[motifs/horse|horse]], he does use this answer also) that having an undivided hoof is
 
-more than pearls or oceans or all ascension or song. He reflects for a
+more than pearls or oceans or all ascension or [[Song|song]]. He reflects for a
 
 few years on the subject of cats; and at last discovers in the cat "the
 
@@ -7827,7 +7827,7 @@ _are_ horses, and wave on every tree-top the tail which is the equine
 
 banner. Nightingales are found to have legs, which explains their power
 
-of song. Haddocks are vertebrates; and therefore are sea-horses. And
+of [[Song|song]]. Haddocks are vertebrates; and therefore are sea-horses. And
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7894,7 +7894,7 @@ Un uomo rispose; uno che aveva litigato coi Francesi e col loro
 
 Imperatore; ma che sapeva non essere un imperatore ciò ch'era caduto. Garibaldi,
 
-non sempre saggio ma fino alla fine un [[archetypes/hero|Eroe]], prese posto, spada in pugno,
+non sempre saggio ma fino alla fine un [[archetypes/hero|Eroe]], prese posto, [[Sword|spada]] in pugno,
 
 sotto il cielo oscurantesi della Cristianità, e condivise l'ultima sorte della
 
@@ -7946,11 +7946,11 @@ visse, come noi siamo vissuti, per sentire quel [[motifs/horse|cavallo]] prender
 
 attraverso luoghi sempre più selvaggi, finché sapemmo di cavalcare
 
-l'incubo.
+l'[[nightmare|incubo]].
 
 Che cos'era questa cosa a cui ci affidammo? E come possiamo più rapidamente
 
-spiegarne lo sviluppo da un sogno a un incubo, e lo
+spiegarne lo sviluppo da [[A Dream|un sogno]] a un [[nightmare|incubo]], e lo
 
 scampo per un pelo per cui non ci scagliò nella distruzione, come
 
@@ -7958,7 +7958,7 @@ sembra star scagliando il Turco? È un certo spirito; e non dobbiamo
 
 chiederne una definizione troppo logica, ché le persone da cui è posseduto
 
-rinnegano la logica; e l'intera cosa non è tanto una teoria quanto una confusione
+rinnegano la [[logic|logica]]; e l'intera cosa non è tanto una teoria quanto una confusione
 
 di pensiero. Il suo carattere più ampio ed elementare è adombrato nella
 
@@ -7976,7 +7976,7 @@ possiede tutte le qualità nobili e necessarie, ed è fine a se stesso.
 
 Gli si fa notare in risposta che nell'arrampicarsi su un albero il [[motifs/horse|cavallo]] è meno
 
-aggraziato del gatto; che gli amanti e i poeti di rado esortano il [[motifs/horse|cavallo]] a
+aggraziato del gatto; che gli [[lovers|amanti]] e i poeti di rado esortano il [[motifs/horse|cavallo]] a
 
 far rumore tutta la [[motifs/night|notte]] come l'[[motifs/nightingale|usignolo]]; che quando è sommerso per
 
@@ -7988,7 +7988,7 @@ ostrica. Non si accontenta di rispondere (benché, essendo un confusionario
 
 [[motifs/horse|cavallo]], usi anche questa risposta) che avere uno zoccolo indiviso vale
 
-più delle perle o degli oceani o di ogni ascensione o canto. Riflette per
+più delle perle o degli oceani o di ogni ascensione o [[Song|canto]]. Riflette per
 
 qualche anno sul tema dei gatti; e alla fine scopre nel gatto «la
 
@@ -7998,7 +7998,7 @@ _sono_ cavalli, e sventolano su ogni cima d'albero la coda ch'è il vessillo
 
 equino. Si scopre che gli usignoli hanno gambe, il che spiega il loro potere
 
-di canto. Gli eglefini sono vertebrati; e dunque sono cavalli marini. E
+di [[Song|canto]]. Gli eglefini sono vertebrati; e dunque sono cavalli marini. E
 
 
 
@@ -8013,7 +8013,7 @@ same [[motifs/horse|horse]]-moving energy sustained.
 
 Now this [[motifs/horse|horse]] is intellectually the wrong [[motifs/horse|horse]]. It is not perhaps
 
-going too far to say that this [[motifs/horse|horse]] is a donkey. For it is obviously
+going too far to say that this [[motifs/horse|horse]] is a [[donkey]]. For it is obviously
 
 within even the intellectual resources of a haddock to answer, "But if a
 
@@ -8045,7 +8045,7 @@ German [[motifs/birds|birds]] or German jewels. They do maintain that the Italia
 
 [[historical-references/renaissance|Renaissance]] was really the German [[historical-references/renaissance|Renaissance]], pure Germans having
 
-Italian names when they were painters, as cockneys sometimes have when
+Italian names when they were painters, as [[cockneys]] sometimes have when
 
 they are hair-dressers. They suggest that Jesus and the great Jews were
 
@@ -8180,7 +8180,7 @@ medesima energia che muove il [[motifs/horse|cavallo]], sostenuta.
 
 Ora, questo [[motifs/horse|cavallo]] è intellettualmente il [[motifs/horse|cavallo]] sbagliato. Non è forse
 
-esagerato dire che questo [[motifs/horse|cavallo]] è un asino. Poiché rientra evidentemente
+esagerato dire che questo [[motifs/horse|cavallo]] è un [[donkey|asino]]. Poiché rientra evidentemente
 
 persino nelle risorse intellettuali di un merluzzo rispondere: «Ma se un
 
@@ -8212,7 +8212,7 @@ che gli usignoli della Toscana o le perle dell'Ellade debbano in qualche modo es
 
 [[historical-references/renaissance|Rinascimento]] fosse in realtà il [[historical-references/renaissance|Rinascimento]] tedesco, giacché puri tedeschi portavano
 
-nomi italiani quando erano pittori, come talora ne hanno i cockney quando
+nomi italiani quando erano pittori, come talora ne hanno i [[cockneys|cockney]] quando
 
 fanno i parrucchieri. Suggeriscono che Gesù e i grandi ebrei fossero
 
@@ -8341,7 +8341,7 @@ tedesco felice come un ritratto; in Francia è il francese l'[[archetypes/artist
 <span class="atom-split" data-atom="chapter_10--part_24" data-title="TheCrimesOfEngland — Chapter 10 (part 24)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/ghost,motif/bees,motif/blood,motif/clock,motif/cross,motif/nature,motif/soul,motif/stars,motif/time,motif/well,concept/eternity,concept/freedom,concept/history,concept/hope,concept/nature,concept/reform,concept/slavery,form/history,histref/french_revolution,setting/germany"></span>
 
 
-always painting and repainting France like a house. No state of social
+always painting and repainting France like a [[house]]. No state of social
 
 good that does not mean the Citizen _choosing_ good, as [[motifs/well|well]] as getting
 
@@ -8367,7 +8367,7 @@ Within the iron framework of the fixed State, the German has not only
 
 liberty but anarchy. Anything can be said although, or rather because,
 
-nothing can be done. Philosophy is really free. But this practically
+nothing can be done. [[philosophy|Philosophy]] is really free. But this practically
 
 means only that the prisoner's cell has become the madman's cell: that
 
@@ -8405,7 +8405,7 @@ Junker. For, first, it fits in with Teutonic Imperialism; making the
 
 "blonde beasts" of Germania into lions whose [[concepts/nature|nature]] it is to eat such
 
-lambs as the French. The highest success of this notion in Europe is
+lambs as the French. The highest [[success]] of this notion in Europe is
 
 marked by praise given to a race famous for its physical firmness and
 
@@ -8453,7 +8453,7 @@ food and physic, but not [[concepts/freedom|freedom]]. The best working model in
 
 is the system of Compulsory Insurance; which was a total failure and
 
-dead letter in France but has been, in the German sense, a great success
+dead letter in France but has been, in the German sense, a great [[success]]
 
 in [[settings/germany|Germany]]. It treats employed persons as a fixed, separate, and lower
 
@@ -8510,7 +8510,7 @@ old slave estate, the employer thought it quite enough to answer
 
 <span class="qlang-split" data-lang="it"></span>
 
-sempre dipingere e ridipingere la Francia come una casa. Nessuno stato di bene
+sempre dipingere e ridipingere la Francia come una [[house|casa]]. Nessuno stato di bene
 
 sociale che non significhi il Cittadino che _sceglie_ il bene, tanto [[motifs/well|bene]] quanto ottenerlo,
 
@@ -8536,7 +8536,7 @@ Entro l'intelaiatura di ferro dello Stato fisso, il Tedesco ha non solo
 
 libertà ma anarchia. Tutto può esser detto sebbene, o piuttosto perché,
 
-nulla può esser fatto. La Filosofia è davvero libera. Ma questo praticamente
+nulla può esser fatto. La [[philosophy|Filosofia]] è davvero libera. Ma questo praticamente
 
 significa solo che la cella del prigioniero è divenuta la cella del pazzo: che
 
@@ -8574,7 +8574,7 @@ Junker. Ché, primo, s'accorda con l'Imperialismo teutonico; facendo delle
 
 «bionde bestie» di Germania leoni la cui [[concepts/nature|natura]] è di mangiare tali
 
-agnelli come i Francesi. Il più alto successo di questa nozione in Europa è
+agnelli come i Francesi. Il più alto [[success|successo]] di questa nozione in Europa è
 
 segnato dalla lode data a una razza famosa per la sua fermezza fisica e
 
@@ -8622,7 +8622,7 @@ cibo e medicina, ma non [[concepts/freedom|libertà]]. Il miglior modello operan
 
 è il sistema dell'Assicurazione Obbligatoria; che fu un totale fallimento e
 
-lettera morta in Francia ma è stato, nel senso tedesco, un gran successo
+lettera morta in Francia ma è stato, nel senso tedesco, un gran [[success|successo]]
 
 in [[settings/germany|Germania]]. Tratta le persone impiegate come una casta fissa, separata e inferiore,
 
@@ -8781,7 +8781,7 @@ Yet there is one part of life and [[concepts/history|history]] in which I would 
 
 absolute spotlessness of England. In one department we wear a robe of
 
-white and a halo of innocence. Long and weary as may be the records of
+white and a halo of [[innocence]]. Long and weary as may be the records of
 
 our wickedness, in one direction we have done nothing but good. Whoever
 
@@ -8807,7 +8807,7 @@ high western region of the Balkans echoed and re-echoed with a single
 
 shot. It was fired by the hand of a [[archetypes/king|king]]--real [[archetypes/king|king]], who sat listening
 
-to his people in front of his own house (for it was hardly a palace),
+to his people in front of his own [[house]] (for it was hardly a palace),
 
 and who, in consequence of his listening to the people, not unfrequently
 
@@ -8952,7 +8952,7 @@ Eppure vi è una parte della vita e della [[concepts/history|storia]] in cui ass
 
 assoluta immacolatezza dell'Inghilterra. In un settore indossiamo una veste di
 
-bianco e un'aureola d'innocenza. Per quanto lunghi e tediosi possano essere gli annali della
+bianco e un'aureola d'[[innocence|innocenza]]. Per quanto lunghi e tediosi possano essere gli annali della
 
 nostra malvagità, in una direzione non abbiamo fatto altro che bene. Chiunque
 
@@ -8978,7 +8978,7 @@ alta regione occidentale dei Balcani echeggiarono e rieccheggiarono di un singol
 
 colpo. Fu sparato dalla mano di un [[archetypes/king|re]]--vero [[archetypes/king|re]], che sedeva ascoltando
 
-il suo popolo davanti alla propria casa (ché era a stento un palazzo),
+il suo popolo davanti alla propria [[house|casa]] (ché era a stento un palazzo),
 
 e che, in conseguenza del suo ascoltare il popolo, non di rado
 
@@ -9161,7 +9161,7 @@ still supposed to be the partner of Prussia and the Hapsburgs. For days
 
 that seemed like months the microscopic state seemed to be attempting
 
-alone what the [[historical-references/crusades|Crusades]] had failed to accomplish. And for days Europe
+[[Alone|alone]] what the [[historical-references/crusades|Crusades]] had failed to accomplish. And for days Europe
 
 and the great powers were thunderstruck, again and yet again, by the
 
@@ -9334,7 +9334,7 @@ ancora ritenuta la partner della Prussia e degli Asburgo. Per giorni
 
 che parevano mesi il microscopico stato parve tentare
 
-da solo ciò che le [[historical-references/crusades|Crociate]] avevano fallito di compiere. E per giorni l'Europa
+[[Alone|da solo]] ciò che le [[historical-references/crusades|Crociate]] avevano fallito di compiere. E per giorni l'Europa
 
 e le grandi potenze furono fulminate, ancora e ancora, dalle
 
@@ -9407,7 +9407,7 @@ factory. By this [[motifs/time|time]] there was in the North German brain an awf
 
 inversion of all the legends and heroic lives that the human race has
 
-loved. Prussia _hated_ romance. Chivalry was not a thing she neglected;
+loved. Prussia _hated_ [[Romance|romance]]. Chivalry was not a thing she neglected;
 
 it was a thing that tormented her as any bully is tormented by an
 
@@ -9463,7 +9463,7 @@ razor, and his [[concepts/body|body]] hidden in a [[motifs/well|well]], we do no
 
 to project a preliminary suspicion about the guilty party. In the
 
-discussions held by the Prussian Government with Lord Haldane and Sir
+discussions held by the Prussian [[government|Government]] with Lord Haldane and Sir
 
 Edward Grey we can now see quite as plainly the meaning of the things
 
@@ -9578,7 +9578,7 @@ Krupp. A questo [[motifs/time|punto]] c'era nel cervello tedesco del Nord una te
 
 inversione di tutte le leggende e le vite eroiche che il genere umano ha
 
-amato. La Prussia _odiava_ il romanzesco. La cavalleria non era una cosa che essa trascurava;
+amato. La Prussia _odiava_ il [[Romance|romanzesco]]. La cavalleria non era una cosa che essa trascurava;
 
 era una cosa che la tormentava come ogni prepotente è tormentato da una
 
@@ -9634,7 +9634,7 @@ rasoio, e il suo [[concepts/body|corpo]] nascosto in un [[motifs/well|pozzo]], n
 
 per formulare un sospetto preliminare sul colpevole. Nelle
 
-discussioni tenute dal Governo prussiano con Lord Haldane e Sir
+discussioni tenute dal [[government|Governo]] prussiano con Lord Haldane e Sir
 
 Edward Grey possiamo ora vedere altrettanto chiaramente il significato delle cose
 
@@ -9787,7 +9787,7 @@ crush truths about public life. Representation had become mere
 
 misrepresentation; a maze of loopholes. This was mainly due to the
 
-monstrous presence of certain secret moneys, on which alone many men
+monstrous presence of certain secret moneys, on which [[Alone|alone]] many men
 
 could win the ruinous elections of the age, and which were contributed
 
@@ -9962,7 +9962,7 @@ schiacciare le verità sulla vita pubblica. La rappresentanza era divenuta mera
 
 travisamento; un labirinto di scappatoie. Ciò era dovuto principalmente alla
 
-mostruosa presenza di certi denari segreti, con i quali soltanto molti uomini
+mostruosa presenza di certi denari segreti, con i quali [[Alone|soltanto]] molti uomini
 
 potevano vincere le rovinose elezioni dell'epoca, e che erano versati
 
@@ -10109,7 +10109,7 @@ numerous even than they discovered. Every oncoming horseman doubled as
 
 in a drunkard's vision; and they were soon striving without speech in a
 
-nightmare of numbers. Then all the allied forces at the front were
+[[nightmare]] of numbers. Then all the allied forces at the front were
 
 overthrown in the tragic battle of Mons; and began that black retreat,
 
@@ -10131,7 +10131,7 @@ about them if they were all lies, or even if they were all deliberate
 
 works of art. Not one of them referred to those close, crowded, and
 
-stirring three centuries which are nearest to us, and which alone are
+stirring three centuries which are nearest to us, and which [[Alone|alone]] are
 
 covered in this [[forms/sketch|sketch]], the centuries during which the Teutonic
 
@@ -10203,7 +10203,7 @@ her flags. Then and now, and in every place and [[motifs/time|time]], it is to b
 
 that the German superiority has been in a certain thing and of a certain
 
-kind. It is _not_ unity; it is not, in the moral sense, discipline.
+kind. It is _not_ [[unity]]; it is not, in the moral sense, discipline.
 
 Nothing can be more united in a moral sense than a French, British, or
 
@@ -10227,7 +10227,7 @@ repetition and dehumanised division of labour, to which no man born
 
 would surrender his brief span in the sunshine, if he could [[concepts/hope|hope]] to beat
 
-his ploughshare into a sword. The nations of the earth were not to
+his ploughshare into a [[Sword|sword]]. The nations of the earth were not to
 
 surrender to the Kaiser; they were to surrender to Krupp, his master and
 
@@ -10278,7 +10278,7 @@ numeroso persino di quanto scoprirono. Ogni cavaliere che sopraggiungeva si sdop
 
 nella visione di un ubriaco; e presto lottavano senza parola in un
 
-incubo di numeri. Poi tutte le forze alleate al fronte furono
+[[nightmare|incubo]] di numeri. Poi tutte le forze alleate al fronte furono
 
 travolte nella tragica battaglia di Mons; e cominciò quella nera ritirata,
 
@@ -10300,7 +10300,7 @@ riguardo a esse se fossero tutte menzogne, o anche se fossero tutte deliberate
 
 opere d'arte. Nessuna di esse si riferiva a quei serrati, affollati, e
 
-movimentati tre secoli che ci sono più vicini, e che soltanto sono
+movimentati tre secoli che ci sono più vicini, e che [[Alone|soltanto]] sono
 
 trattati in questo [[forms/sketch|schizzo]], i secoli durante i quali l'influenza
 
@@ -10372,7 +10372,7 @@ sue bandiere. Allora e ora, e in ogni luogo e [[motifs/time|tempo]], è da notar
 
 che la superiorità tedesca è stata in una certa cosa e di una certa
 
-specie. Non è l'unità; non è, in senso morale, disciplina.
+specie. Non è l'[[unity|unità]]; non è, in senso morale, disciplina.
 
 Nulla può essere più unito in senso morale di un reggimento francese, britannico, o
 
@@ -10396,7 +10396,7 @@ ripetizione e di disumanizzata divisione del lavoro, a cui nessun uomo nato
 
 cederebbe il suo breve tratto al sole, se potesse [[concepts/hope|sperare]] di battere
 
-il suo vomere in una spada. Le nazioni della terra non dovevano
+il suo vomere in una [[Sword|spada]]. Le nazioni della terra non dovevano
 
 arrendersi al Kaiser; dovevano arrendersi a Krupp, suo padrone e
 
@@ -10483,7 +10483,7 @@ in Landrecies; failed to dislodge them and lost a whole battalion in
 
 that battle of the darkness. At the extreme end of the line
 
-Smith-Dorrien's division, who seemed to be nearly caught or cut off, had
+[[smith|Smith]]-Dorrien's division, who seemed to be nearly caught or cut off, had
 
 fought with one gun against four, and so hammered the Germans that they
 
@@ -10656,7 +10656,7 @@ a Landrecies; non riuscì a snidarli e perdette un intero battaglione in
 
 quella battaglia dell'oscurità. All'estremità estrema della linea
 
-la divisione di Smith-Dorrien, che sembrava quasi presa o tagliata fuori, aveva
+la divisione di [[smith|Smith]]-Dorrien, che sembrava quasi presa o tagliata fuori, aveva
 
 combattuto con un cannone contro quattro, e martellò talmente i tedeschi che essi
 
@@ -10761,11 +10761,11 @@ begin with, the word "British" involves a similar awkwardness. I have
 
 tried to use it in the one or two cases that referred to such things as
 
-military glory and unity: though I am sure I have failed of full
+military glory and [[unity]]: though I am sure I have failed of full
 
 consistency in so complex a matter. The difficulty is that this sense of
 
-glory and unity, which should certainly cover the Scotch, should also
+glory and [[unity]], which should certainly cover the Scotch, should also
 
 cover the Irish. And while it is fairly safe to call a Scotsman a North
 
@@ -10798,11 +10798,11 @@ cominciare, la parola «British» comporta una simile scomodità. Ho
 
 cercato di usarla nei pochi casi che si riferivano a cose come
 
-la gloria militare e l'unità: benché sia certo di aver mancato la piena
+la gloria militare e l'[[unity|unità]]: benché sia certo di aver mancato la piena
 
 coerenza in una materia tanto complessa. La difficoltà è che questo senso di
 
-gloria e unità, che dovrebbe certamente comprendere gli Scozzesi, dovrebbe anche
+gloria e [[unity|unità]], che dovrebbe certamente comprendere gli Scozzesi, dovrebbe anche
 
 comprendere gli Irlandesi. E se è abbastanza sicuro chiamare uno Scozzese un Nord
 

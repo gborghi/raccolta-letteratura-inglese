@@ -52,7 +52,7 @@ tags:
 
 **Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/islam|Islam]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/puritanism|Puritanism]]
 
-**Archetypes:** [[archetypes/tyrant|Tyrant]]
+**Archetypes:** Tyrant
 
 **Motifs:** [[motifs/secrets|Secrets]]
 

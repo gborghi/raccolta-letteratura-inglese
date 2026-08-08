@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_unparalleled_adventures_of_one_hans_pfaall" data-title="The Unparalleled Adventures of one Hans Pfaall" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)|The Unparalleled Adventures of one Hans Pfaall]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -379,7 +379,7 @@ da [[motifs/time|tempo]] immemorabile: essi, [[motifs/well|come]] me, esercitand
 
 la rispettabile e anzi lucrosa professione dell’
 
-accomodatura di mantici. Perché, a dire il [[concepts/truth|vero]], fino a questi ultimi anni,
+[[mending|accomodatura]] di mantici. Perché, a dire il [[concepts/truth|vero]], fino a questi ultimi anni,
 
 Titolo:  
 Tutti sono stati messi in subbuglio…
@@ -404,7 +404,7 @@ Leggere di rivoluzioni e seguire il loro corso
 
 L’intelligenza e lo spirito dell’epoca. Se un [[motifs/fire|fuoco]] desiderava essere alimentato, allora.
 
-Potrebbe essere facilmente raffreddato con un giornale, e poiché il governo.
+Potrebbe essere facilmente raffreddato con un giornale, e poiché il [[government|governo]].
 
 Diventava sempre più debole; non ho alcun [[concepts/doubt|dubbio]] che il cuoio e il ferro si stessero rafforzando.
 
@@ -424,7 +424,7 @@ Su quale fosse il metodo più conveniente per porre fine alla mia vita.
 
 Nel frattempo, Duns non mi lasciava molto tempo libero per riflettere.
 
-La mia casa fu letteralmente assediata dal mattino fino alla [[motifs/night|notte]]; insomma.
+La mia [[house|casa]] fu letteralmente assediata dal mattino fino alla [[motifs/night|notte]]; insomma.
 
 Iniziai a delirare, a sbavare e ad agitarmi come un tigre in gabbia…
 
@@ -735,7 +735,7 @@ Potrebbe essere adattato ai scopi per cui intendevo utilizzarlo.
 
 Applicabile… Ma solo con un duro lavoro e una perseveranza instancabile.
 
-Alla fine, riuscii con pieno successo in tutte le mie preparazioni. Le mie.
+Alla fine, riuscii con pieno [[success|successo]] in tutte le mie preparazioni. Le mie.
 
 Il pallone fu presto completato; avrebbe contenuto più di quaranta…
 
@@ -2897,7 +2897,7 @@ Il contesto non mancò di suscitare in me sentimenti profondamente sinceri…
 
 Soddisfazione… e la considerai un buon presagio di qualcosa di definitivo e positivo.
 
-Successo. Infatti, la direzione che avevo seguito fino ad allora aveva portato a.
+[[success|Successo]]. Infatti, la direzione che avevo seguito fino ad allora aveva portato a.
 
 Mi sentivo a disagio, perché era evidente che, se avessi continuato…
 
@@ -3614,7 +3614,7 @@ Fece del suo meglio per tornare a [[motifs/home|casa]] e riflettere sulle misure
 
 Adottato… Tuttavia, arrivato alla porta del sindaco…
 
-Riguardo a quella dimora, il professore osò suggerire che, data la funzione di messaggero.
+Riguardo a quella dimora, il [[The Professor|professore]] osò suggerire che, data la funzione di messaggero.
 
 Aveva pensato fosse giusto scomparire, senza alcun [[concepts/doubt|dubbio]], non temeva affatto di morire per causa di.
 
@@ -3996,7 +3996,7 @@ Luce diffusa dall’oggetto attraverso la dispersione dei suoi raggi. E per ques
 
 Un male senza rimedio per le capacità umane…
 
-visto attraverso quella luce unica che proviene da sé stessa.
+visto attraverso quella luce [[Alone|unica]] che proviene da sé stessa.
 
 L’unica luce “artificiale”, sia diretta che riflessa
 
@@ -4898,7 +4898,7 @@ therein [[motifs/time|time]] out of mind—they, as [[motifs/well|well]] as myse
 
 following the respectable and indeed lucrative profession of
 
-mending of bellows. For, to speak the [[concepts/truth|truth]], until of late years,
+[[mending]] of bellows. For, to speak the [[concepts/truth|truth]], until of late years,
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5079,7 +5079,7 @@ da [[motifs/time|tempo]] immemorabile: essi, [[motifs/well|come]] me, esercitand
 
 la rispettabile e anzi lucrosa professione dell’
 
-accomodatura di mantici. Perché, a dire il [[concepts/truth|vero]], fino a questi ultimi anni,
+[[mending|accomodatura]] di mantici. Perché, a dire il [[concepts/truth|vero]], fino a questi ultimi anni,
 
 
 
@@ -5108,7 +5108,7 @@ do to read about the revolutions, and keep up with the march of
 
 intellect and the spirit of the age. If a [[motifs/fire|fire]] wanted fanning, it
 
-could readily be fanned with a newspaper, and as the government
+could readily be fanned with a newspaper, and as the [[government]]
 
 grew weaker, I have no [[concepts/doubt|doubt]] that leather and iron acquired
 
@@ -5128,7 +5128,7 @@ upon the most convenient method of putting an end to my life.
 
 Duns, in the meantime, left me little leisure for contemplation.
 
-My house was literally besieged from morning till [[motifs/night|night]], so that
+My [[house]] was literally besieged from morning till [[motifs/night|night]], so that
 
 I began to rave, and foam, and fret like a caged tiger against
 
@@ -5200,7 +5200,7 @@ the interest which had been excited within me. The limited [[concepts/nature|nat
 
 of my [[concepts/education|education]] in general, and more especially my ignorance on
 
-subjects connected with natural philosophy, so far from rendering
+subjects connected with natural [[philosophy]], so far from rendering
 
 me diffident of my own ability to comprehend what I had read, or
 
@@ -5240,7 +5240,7 @@ precision, when I gazed on it with earnest, direct and
 
 undeviating attention, as when I suffered my eye only to glance
 
-in its vicinity alone. I was not, of course, at that [[motifs/time|time]] aware
+in its vicinity [[Alone|alone]]. I was not, of course, at that [[motifs/time|time]] aware
 
 that this apparent [[concepts/paradox|paradox]] was occasioned by the center of the
 
@@ -5278,7 +5278,7 @@ Leggere di rivoluzioni e seguire il loro corso
 
 L’intelligenza e lo spirito dell’epoca. Se un [[motifs/fire|fuoco]] desiderava essere alimentato, allora.
 
-Potrebbe essere facilmente raffreddato con un giornale, e poiché il governo.
+Potrebbe essere facilmente raffreddato con un giornale, e poiché il [[government|governo]].
 
 Diventava sempre più debole; non ho alcun [[concepts/doubt|dubbio]] che il cuoio e il ferro si stessero rafforzando.
 
@@ -5298,7 +5298,7 @@ Su quale fosse il metodo più conveniente per porre fine alla mia vita.
 
 Nel frattempo, Duns non mi lasciava molto tempo libero per riflettere.
 
-La mia casa fu letteralmente assediata dal mattino fino alla [[motifs/night|notte]]; insomma.
+La mia [[house|casa]] fu letteralmente assediata dal mattino fino alla [[motifs/night|notte]]; insomma.
 
 Iniziai a delirare, a sbavare e ad agitarmi come un tigre in gabbia…
 
@@ -5607,7 +5607,7 @@ could be adapted to the purposes to which I intended making it
 
 applicable. But, with severe labor and unremitting perseverance,
 
-I at length met with entire success in all my preparations. My
+I at length met with entire [[success]] in all my preparations. My
 
 balloon was soon completed. It would contain more than forty
 
@@ -5797,7 +5797,7 @@ Potrebbe essere adattato ai scopi per cui intendevo utilizzarlo.
 
 Applicabile… Ma solo con un duro lavoro e una perseveranza instancabile.
 
-Alla fine, riuscii con pieno successo in tutte le mie preparazioni. Le mie.
+Alla fine, riuscii con pieno [[success|successo]] in tutte le mie preparazioni. Le mie.
 
 Il pallone fu presto completato; avrebbe contenuto più di quaranta…
 
@@ -9997,7 +9997,7 @@ circumstance did not fail to give me the most heartful
 
 satisfaction, and I hailed it as a happy omen of ultimate
 
-success. Indeed, the direction I had hitherto taken, had filled
+[[success]]. Indeed, the direction I had hitherto taken, had filled
 
 me with uneasiness; for it was evident that, had I continued it
 
@@ -10183,7 +10183,7 @@ Il contesto non mancò di suscitare in me sentimenti profondamente sinceri…
 
 Soddisfazione… e la considerai un buon presagio di qualcosa di definitivo e positivo.
 
-Successo. Infatti, la direzione che avevo seguito fino ad allora aveva portato a.
+[[success|Successo]]. Infatti, la direzione che avevo seguito fino ad allora aveva portato a.
 
 Mi sentivo a disagio, perché era evidente che, se avessi continuato…
 
@@ -11470,7 +11470,7 @@ best of his way [[motifs/home|home]] to deliberate upon the measures to be
 
 adopted. Having reached the door, however, of the burgomaster’s
 
-dwelling, the professor ventured to suggest that as the messenger
+dwelling, [[The Professor|the professor]] ventured to suggest that as the messenger
 
 had thought proper to disappear—no [[concepts/doubt|doubt]] frightened to [[motifs/death|death]] by
 
@@ -11668,7 +11668,7 @@ Fece del suo meglio per tornare a [[motifs/home|casa]] e riflettere sulle misure
 
 Adottato… Tuttavia, arrivato alla porta del sindaco…
 
-Riguardo a quella dimora, il professore osò suggerire che, data la funzione di messaggero.
+Riguardo a quella dimora, il [[The Professor|professore]] osò suggerire che, data la funzione di messaggero.
 
 Aveva pensato fosse giusto scomparire, senza alcun [[concepts/doubt|dubbio]], non temeva affatto di morire per causa di.
 
@@ -11747,7 +11747,7 @@ Fourthly, That Hans Pfaall himself, the drunken [[archetypes/villain|villain]], 
 
 three very idle gentlemen styled his creditors, were all seen, no
 
-longer than two or three days ago, in a tippling house in the
+longer than two or three days ago, in a tippling [[house]] in the
 
 suburbs, having just returned, with money in their pockets, from
 
@@ -12263,7 +12263,7 @@ light from the object, by diffusion of its rays. And for this
 
 evil there is no remedy within human ability; for an object is
 
-seen by means of that light alone which proceeds from itself,
+seen by means of that light [[Alone|alone]] which proceeds from itself,
 
 whether direct or reflected. Thus the only “artificial” light
 
@@ -12464,7 +12464,7 @@ Luce diffusa dall’oggetto attraverso la dispersione dei suoi raggi. E per ques
 
 Un male senza rimedio per le capacità umane…
 
-visto attraverso quella luce unica che proviene da sé stessa.
+visto attraverso quella luce [[Alone|unica]] che proviene da sé stessa.
 
 L’unica luce “artificiale”, sia diretta che riflessa
 

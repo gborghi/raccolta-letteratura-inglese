@@ -16,11 +16,11 @@ tags:
 
 MEASURE FOR MEASURE
 BY SHAKESPEARE, ADAPTED BY THOMAS MIDDLETON
-Measure for Measure, first printed in the 1623 Folio, was performed at [[settings/court|court]] on 26 December 1604. Plague had caused [[settings/london|London]]’s theatres to be closed from May 1603 to April 1604; the play was probably written and first acted during this period. Dislocations and other features of the text as printed suggest that it may have undergone adaptation after Shakespeare’s [[motifs/death|death]]. Someone—perhaps Thomas Middleton, to judge by the style—seems to have supplied a new, seedy opening to Act I, Scene 2; and an adapter seems also to have altered 3.1. 517-4.1.63 by transposing the Duke’s two soliloquies, by introducing a stanza from a popular song, and supplying dialogue to follow it, and by adding other short passages. We print the text in what we believe to be its adapted form; a conjectured reconstruction of Shakespeare’s original version of the adapted sections is given in the Additional Passages.
+Measure for Measure, first printed in the 1623 Folio, was performed at [[settings/court|court]] on 26 December 1604. Plague had caused [[settings/london|London]]’s theatres to be closed from May 1603 to April 1604; the play was probably written and first acted during this period. Dislocations and other features of the text as printed suggest that it may have undergone adaptation after Shakespeare’s [[motifs/death|death]]. Someone—perhaps Thomas Middleton, to judge by the style—seems to have supplied a new, seedy opening to Act I, Scene 2; and an adapter seems also to have altered 3.1. 517-4.1.63 by transposing the Duke’s two soliloquies, by introducing a stanza from a popular [[Song|song]], and supplying dialogue to follow it, and by adding other short passages. We print the text in what we believe to be its adapted form; a conjectured reconstruction of Shakespeare’s original version of the adapted sections is given in the Additional Passages.
 The story of a woman who, in seeking to save the life of a male relative, arouses the lust of a man in authority was an ancient one that reached literary form in the mid sixteenth century. Shakespeare may have known the prose version in Giambattista Cinzio Giraldi’s Gli Ecatommiti (1565, translated into French in 1583) and the same author’s play Epitia (1573, published in 1583), but his main source was George Whetstone’s unsuccessful, unperformed two-part [[forms/tragicomedy|tragicomedy]] Promos and Cassandra, published in 1578.
-Shakespeare’s title comes from St Matthew’s account of [[characters/christ|Christ]]’s Sermon on the Mount: ‘with what measure ye mete, it shall be measured to you again’. The title is not expressive of the play’s morality, but it alerts the spectator to Shakespeare’s exploration of moral issues. His heroine, [[characters/isabella|Isabella]], is not merely, as in Whetstone, a virtuous young maiden: she is about to enter a nunnery. Her brother, [[characters/claudio|Claudio]], has not, as in Whetstone, been accused (however unjustly) of rape: his [[concepts/union|union]] with the girl ([[characters/juliet|Juliet]]) he has made pregnant has been ratified by a betrothal ceremony, and lacks only the church’s formal blessing. So [[characters/angelo|Angelo]], deputizing for the absent Duke of Vienna, seems peculiarly harsh in attempting to enforce the [[motifs/city|city]]’s laws against fornication by insisting on [[characters/claudio|Claudio]]’s execution; and [[characters/angelo|Angelo]]’s hypocrisy in demanding [[characters/isabella|Isabella]]’s chastity in return for her brother’s life seems correspondingly greater. By adding the character of [[characters/mariana|Mariana]], to whom [[characters/angelo|Angelo]] himself had once been betrothed, and by employing the traditional motif of the ‘bed-trick’, by which [[characters/mariana|Mariana]] substitutes for [[characters/isabella|Isabella]] in [[characters/angelo|Angelo]]’s bed, Shakespeare permits [[characters/isabella|Isabella]] both to retain her virtue and to forgive [[characters/angelo|Angelo]] without marrying him.
-Although Measure for Measure, like The Merchant of [[settings/venice|Venice]], is much concerned with justice and [[concepts/mercy|mercy]], its more explicit concern with sex and [[motifs/death|death]] along with the intense emotional reality, at least in the earlier part of the play, of its portrayal of [[characters/angelo|Angelo]], [[characters/isabella|Isabella]], and [[characters/claudio|Claudio]], creates a deeper seriousness of tone which takes it out of the world of romantic [[forms/comedy|comedy]] into that of [[forms/tragicomedy|tragicomedy]] or, as the twentieth-century label has it, ‘[[forms/problem-play|problem play]]’. Its low-life characters inhabit a diseased world of brothels and prisons, but there is a life-enhancing quality in their frank acknowledgement of [[concepts/sexuality|sexuality]]; and the Duke’s manipulation of events casts a tinge of romance over the play’s later scenes.
-Measure for Measure’s subtle and passionate exploration of issues of sexual morality, of the uses and abuses of power, gave it a special appeal in the later part of the twentieth century. Each of the ‘good’ characters fails in some respect; none of the ‘bad’ ones lacks some redeeming quality; all are, in the last analysis, ‘desperately mortal’ (4.2.148).
+Shakespeare’s title comes from St Matthew’s account of [[characters/christ|Christ]]’s Sermon on the Mount: ‘with what measure ye mete, it shall be measured to you again’. The title is not expressive of the play’s [[morality]], but it alerts the spectator to Shakespeare’s exploration of moral issues. His heroine, [[characters/isabella|Isabella]], is not merely, as in Whetstone, a virtuous young maiden: she is about to enter a nunnery. Her brother, [[characters/claudio|Claudio]], has not, as in Whetstone, been accused (however unjustly) of rape: his [[concepts/union|union]] with the girl ([[characters/juliet|Juliet]]) he has made pregnant has been ratified by a betrothal ceremony, and lacks only the church’s formal blessing. So [[characters/angelo|Angelo]], deputizing for the absent Duke of Vienna, seems peculiarly harsh in attempting to enforce the [[motifs/city|city]]’s laws against fornication by insisting on [[characters/claudio|Claudio]]’s execution; and [[characters/angelo|Angelo]]’s hypocrisy in demanding [[characters/isabella|Isabella]]’s chastity in return for her brother’s life seems correspondingly greater. By adding the character of [[characters/mariana|Mariana]], to whom [[characters/angelo|Angelo]] himself had once been betrothed, and by employing the traditional motif of the ‘bed-trick’, by which [[characters/mariana|Mariana]] substitutes for [[characters/isabella|Isabella]] in [[characters/angelo|Angelo]]’s bed, Shakespeare permits [[characters/isabella|Isabella]] both to retain her virtue and to forgive [[characters/angelo|Angelo]] without marrying him.
+Although Measure for Measure, like The Merchant of [[settings/venice|Venice]], is much concerned with justice and [[concepts/mercy|mercy]], its more explicit concern with sex and [[motifs/death|death]] along with the intense emotional reality, at least in the earlier part of the play, of its portrayal of [[characters/angelo|Angelo]], [[characters/isabella|Isabella]], and [[characters/claudio|Claudio]], creates a deeper seriousness of tone which takes it out of the world of romantic [[forms/comedy|comedy]] into that of [[forms/tragicomedy|tragicomedy]] or, as the twentieth-century label has it, ‘[[forms/problem-play|problem play]]’. Its low-life characters inhabit a diseased world of brothels and prisons, but there is a life-enhancing quality in their frank acknowledgement of [[concepts/sexuality|sexuality]]; and the Duke’s manipulation of events casts a tinge of [[Romance|romance]] over the play’s later scenes.
+Measure for Measure’s subtle and passionate exploration of issues of sexual [[morality]], of the uses and abuses of power, gave it a special appeal in the later part of the twentieth century. Each of the ‘good’ characters fails in some respect; none of the ‘bad’ ones lacks some redeeming quality; all are, in the last analysis, ‘desperately mortal’ (4.2.148).
 THE PERSONS OF THE PLAY
 Vincentio, the DUKE of Vienna
 [[characters/angelo|ANGELO]], appointed his deputy
@@ -51,15 +51,1204 @@ Measure for Measure
 
 ### Atto 1, Scena 1
 
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter the Duke, [[characters/escalus\|Escalus]], and other lords DUKE [[characters/escalus\|Escalus]]. |
+| [[characters/escalus\|ESCALUS]] | My lord. |
+| DUKE | Of [[government]] the properties to unfold<br>Would seem in me t’affect speech and discourse,<br>Since I am put to know that your own science<br>Exceeds in that the lists of all advice<br>My strength can give you. Then no more remains<br>But this: to your sufficiency, as your worth is able,<br>And let them work. The [[concepts/nature\|nature]] of our people,<br>Our [[motifs/city\|city]]’s institutions and the terms<br>For common justice, you’re as pregnant in<br>As art and practice hath enriched any<br>That we remember.<br>He gives [[characters/escalus\|Escalus]] papers<br>There is our commission,<br>From which we would not have you warp.<br>(To a lord) Call hither,<br>I say bid come before us, [[characters/angelo\|Angelo]]. Exit lord<br><br>(To [[characters/escalus\|Escalus]]) What figure of us think you he will<br>bear?—<br>For you must know we have with special [[motifs/soul\|soul]]<br>Elected him our absence to supply,<br>Lent him our terror, dressed him with our [[motifs/love\|love]],<br>And given his deputation all the organs<br>Of our own power. What think you of it? |
+| [[characters/escalus\|ESCALUS]] | If any in Vienna be of worth<br>To undergo such ample grace and [[concepts/honour\|honour]],<br>It is Lord [[characters/angelo\|Angelo]]. |
+| *(didascalia)* | Enter [[characters/angelo\|Angelo]] |
+| DUKE | Look where he comes. |
+| [[characters/angelo\|ANGELO]] | Always obedient to your grace’s will,<br>I come to know your pleasure. |
+| DUKE | [[characters/angelo\|Angelo]],<br>There is a kind of character in thy life<br>That to th‘observer doth thy [[concepts/history\|history]]<br>Fully unfold. Thyself and thy belongings<br>Are not thine own so proper as to waste<br>Thyself upon thy virtues, they on thee.<br>Heaven doth with us as we with torches do,<br>Not light them for themselves; for if our virtues<br>Did not go forth of us, ’twere all alike<br>As if we had them not. Spirits are not finely touched<br>But to fine issues; nor [[concepts/nature\|nature]] never lends<br>The smallest scruple of her excellence<br>But, like a thrifty goddess, she determines<br>Herself the glory of a creditor,<br>Both thanks and use. But 1 do bend my speech<br>To one that can my part in him advertise.<br>Hold therefore, [[characters/angelo\|Angelo]].<br>In our remove be thou at full ourself.<br>[[concepts/mortality\|Mortality]] and [[concepts/mercy\|mercy]] in Vienna<br>Live in thy tongue and heart. Old [[characters/escalus\|Escalus]],<br>Though first in question, is thy secondary.<br>Take thy commission. |
+| [[characters/angelo\|ANGELO]] | Now good my lord,<br>Let there be some more test made of my metal<br>Before so noble and so great a figure<br>Be stamped upon it. |
+| DUKE | No more evasion.<br>We have with leavened and prepared choice<br>Proceeded to you; therefore take your honours. |
+| *(didascalia)* | [[characters/angelo\|Angelo]] takes his commission |
+| DUKE | Our haste from hence is of so quick condition<br>That it prefers itself, and [[motifs/leaves\|leaves]] unquestioned<br>Matters of needful value. We shall write to you<br>As [[motifs/time\|time]] and our concernings shall importune,<br>How it goes with us; and do look to know<br>What doth befall you here. So fare you [[motifs/well\|well]].<br>To th’ hopeful execution do I leave you<br>Of your commissions. |
+| [[characters/angelo\|ANGELO]] | Yet give leave, my lord,<br>That we may bring you something on the way. |
+| DUKE | My haste may not admit it;<br>Nor need you, on mine [[concepts/honour\|honour]], have to do<br>With any scruple. Your scope is as mine own,<br>So to enforce or qualify the laws<br>As to your [[motifs/soul\|soul]] seems good. Give me your hand.<br>I’ll privily away. I [[motifs/love\|love]] the people,<br>But do not like to stage me to their eyes.<br>Though it do [[motifs/well\|well]], I do not relish [[motifs/well\|well]]<br>Their loud applause and aves vehement;<br>Nor do I think the man of safe discretion<br>That does affect it. Once more, fare you [[motifs/well\|well]]. |
+| [[characters/angelo\|ANGELO]] | The heavens give safety to your purposes! |
+| [[characters/escalus\|ESCALUS]] | Lead forth and bring you back in happiness! |
+| DUKE | I thank you. Fare you [[motifs/well\|well]]. |
+| *(didascalia)* | Exit |
+| [[characters/escalus\|ESCALUS]] | I shall [[motifs/desire\|desire]] you, sir, to give me leave<br>To have free speech with you; and it concerns me<br>To look into the [[characters/bottom\|bottom]] of my place.<br>A power I have, but of what strength and [[concepts/nature\|nature]]<br>I am not yet instructed. |
+| [[characters/angelo\|ANGELO]] | ’Tis so with me. Let us withdraw together,<br>And we may soon our satisfaction have<br>Touching that point. |
+| [[characters/escalus\|ESCALUS]] | I’ll wait upon your [[concepts/honour\|honour]]. |
+| *(didascalia)* | Exeunt |
+
+### Atto 1, Scena 2
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[characters/lucio\|Lucio]], and two other Gentlemen |
+| [[characters/lucio\|LUCIO]] | If the Duke with the other dukes come not to composition with the [[archetypes/king\|King]] of Hungary, why then, all the dukes fall upon the [[archetypes/king\|King]]. |
+| FIRST GENTLEMAN | Heaven grant us its peace, but not the [[archetypes/king\|King]] of Hungary’s! |
+| SECOND GENTLEMAN | Amen. |
+| [[characters/lucio\|LUCIO]] | Thou concludest like the sanctimonious pirate, that went to sea with the Ten Commandments, but scraped one out of the table. |
+| SECOND GENTLEMAN | ‘Thou shalt not steal’? |
+| [[characters/lucio\|LUCIO]] | Ay, that he razed. |
+| FIRST GENTLEMAN | Why, ’twas a commandment to command the captain and all the rest from their functions: they put forth to steal. There’s not a soldier of us all that in the thanksgiving before meat do relish the petition [[motifs/well\|well]] that prays for peace. 16 |
+| SECOND GENTLEMAN | I never heard any soldier dislike it. |
+| [[characters/lucio\|LUCIO]] | I believe thee, for I think thou never wast where grace was said. |
+| SECOND GENTLEMAN | No? A dozen times at least. 20 |
+| FIRST GENTLEMAN | What, in metre? |
+| [[characters/lucio\|LUCIO]] | In any proportion, or in any language. |
+| FIRST GENTLEMAN | I think, or in any religion. |
+| [[characters/lucio\|LUCIO]] | Ay, why not? Grace is grace despite of all controversy; as for example, thou thyself art a wicked [[archetypes/villain\|villain]] despite of all grace. |
+| FIRST GENTLEMAN | [[motifs/well\|Well]], there went but a pair of shears between us. |
+| [[characters/lucio\|LUCIO]] | I grant—as there may between the lists and the velvet. Thou art the list. |
+| FIRST GENTLEMAN | And thou the velvet. Thou art good velvet, thou’rt a three-piled piece, I warrant thee. I had as lief be a list of an English kersey as be piled as thou art pilled, for a French velvet. Do I speak feelingly now? |
+| [[characters/lucio\|LUCIO]] | I think thou dost, and indeed with most painful feeling of thy speech. I will out of thine own confession learn to begin thy health, but whilst I live forget to drink after thee. |
+| FIRST GENTLEMAN | I think I have done myself wrong, have I not? 40 |
+| SECOND GENTLEMAN | Yes, that thou hast, whether thou art tainted or free. |
+| *(didascalia)* | Enter Mistress Overdone |
+| [[characters/lucio\|LUCIO]] | Behold, behold, where Madam Mitigation comes! I have purchased as many diseases under her roof as come to—45 |
+| SECOND GENTLEMAN | To what, I pray? |
+| [[characters/lucio\|LUCIO]] | Judge. |
+| SECOND GENTLEMAN | To three thousand dolours a year? |
+| FIRST GENTLEMAN | Ay, and more. |
+| [[characters/lucio\|LUCIO]] | A French [[motifs/crown\|crown]] more. |
+| FIRST GENTLEMAN | Thou art always figuring diseases in me, but thou art full of error—I am sound. |
+| [[characters/lucio\|LUCIO]] | Nay not, as one would say, healthy, but so sound as things that are hollow—thy bones are hollow, impiety has made a feast of thee. |
+| FIRST GENTLEMAN | (to Mistress Overdone) How now, which of your hips has the most profound sciatica? |
+| MISTRESS OVERDONE | [[motifs/well\|Well]], [[motifs/well\|well]]! There’s one yonder arrested and carried to [[motifs/prison\|prison]] was worth five thousand of you all. |
+| SECOND GENTLEMAN | Who’s that, I pray thee? |
+| MISTRESS OVERDONE | Marry sir, that’s [[characters/claudio\|Claudio]], Signor [[characters/claudio\|Claudio]]. |
+| FIRST GENTLEMAN | [[characters/claudio\|Claudio]] to [[motifs/prison\|prison]]? ’Tis not so. |
+| MISTRESS OVERDONE | Nay, but I know ’tis so. I saw him arrested, saw him carried away; and, which is more, within these three days his head to be chopped off. |
+| [[characters/lucio\|LUCIO]] | But after all this fooling, I would not have it so. Art thou sure of this? |
+| MISTRESS OVERDONE | I am too sure of it, and it is for getting Madame Julietta with [[archetypes/child\|child]]. |
+| [[characters/lucio\|LUCIO]] | Believe me, this may be. He promised to meet me two hours since and he was ever precise in promise-keeping. |
+| SECOND GENTLEMAN | Besides, you know, it draws something near to the speech we had to such a purpose. |
+| FIRST GENTLEMAN | But most of all agreeing with the proclamation. |
+| [[characters/lucio\|LUCIO]] | Away; let’s go learn the [[concepts/truth\|truth]] of it. |
+| *(didascalia)* | Exeunt [[characters/lucio\|Lucio]] and Gentlemen |
+| MISTRESS OVERDONE | Thus, what with the war, what with the sweat, what with the gallows, and what with [[concepts/poverty\|poverty]], I am custom-shrunk. |
+| *(didascalia)* | Enter [[characters/pompey\|Pompey]] |
+| MISTRESS OVERDONE | How now, what’s the news with you? |
+| [[characters/pompey\|POMPEY]] | You have not heard of the proclamation, have you? |
+| MISTRESS OVERDONE | What proclamation, man? |
+| [[characters/pompey\|POMPEY]] | All houses in the suburbs of Vienna must be plucked down. |
+| MISTRESS OVERDONE | And what shall become of those in the [[motifs/city\|city]]? |
+| [[characters/pompey\|POMPEY]] | They shall stand for seed. They had gone down too, but that a wise burgher put in for them. |
+| MISTRESS OVERDONE | But shall all our houses of resort in the suburbs be pulled down? |
+| [[characters/pompey\|POMPEY]] | To the ground, mistress. |
+| MISTRESS OVERDONE | Why, here’s a change indeed in the commonwealth. What shall become of me? |
+| [[characters/pompey\|POMPEY]] | Come, [[concepts/fear\|fear]] not you. Good counsellors lack no clients. Though you change your place, you need not change your trade. I’ll be your tapster still. [[concepts/courage\|Courage]], there will be pity taken on you. You that have worn your eyes almost out in the service, you will be considered. |
+| *(didascalia)* | A noise within |
+| MISTRESS OVERDONE | What’s to do here, Thomas Tapster?<br>Let’s withdraw! |
+| *(didascalia)* | Enter the Provost, [[characters/claudio\|Claudio]], [[characters/juliet\|Juliet]], and officers; [[characters/lucio\|Lucio]] and the two Gentlemen |
+| [[characters/pompey\|POMPEY]] | Here comes Signor [[characters/claudio\|Claudio]], led by the Provost to [[motifs/prison\|prison]]; and there’s Madame [[characters/juliet\|Juliet]]. |
+| *(didascalia)* | Exeunt Mistress Overdone and [[characters/pompey\|Pompey]] |
+| [[characters/claudio\|CLAUDIO]] | (to the Provost)<br>Fellow, why dost thou show me thus to th’ world?<br>Bear me to [[motifs/prison\|prison]], where I am committed. |
+| PROVOST | I do it not in evil disposition,<br>But from Lord [[characters/angelo\|Angelo]] by special charge. |
+| [[characters/claudio\|CLAUDIO]] | Thus can the demigod Authority<br>Make us pay down for our offence, by weight,<br>The bonds of heaven. On whom it will, it will;<br>On whom it will not, so; yet still ’tis just. |
+| [[characters/lucio\|LUCIO]] | Why, how now, [[characters/claudio\|Claudio]]? Whence comes this<br>restraint? |
+| [[characters/claudio\|CLAUDIO]] | From too much liberty, my [[characters/lucio\|Lucio]], liberty.<br>As surfeit is the father of much fast,<br>So every scope, by the immoderate use,<br>Turns to restraint. Our natures do pursue,<br>Like rats that raven down their proper bane,<br>A thirsty evil; and when we drink, we die. |
+| [[characters/lucio\|LUCIO]] | If I could speak so wisely under an arrest, I would send for certain of my creditors. And yet, to say the [[concepts/truth\|truth]], I had as lief have the foppery of [[concepts/freedom\|freedom]] as the [[morality]] of [[concepts/imprisonment\|imprisonment]]. What’s thy offence, [[characters/claudio\|Claudio]]? |
+| [[characters/claudio\|CLAUDIO]] | What but to speak of would offend again. |
+| [[characters/lucio\|LUCIO]] | What, is’t murder? |
+| [[characters/claudio\|CLAUDIO]] | No. |
+| [[characters/lucio\|LUCIO]] | Lechery? |
+| [[characters/claudio\|CLAUDIO]] | Call it so. |
+| PROVOST | Away, sir; you must go. |
+| [[characters/claudio\|CLAUDIO]] | One word, good friend. |
+| *(didascalia)* | The Provost shows assent |
+| [[characters/claudio\|CLAUDIO]] | [[characters/lucio\|Lucio]], a word with you. |
+| [[characters/lucio\|LUCIO]] | A hundred, if they’ll do you any good. |
+| *(didascalia)* | [[characters/claudio\|Claudio]] and [[characters/lucio\|Lucio]] speak apart |
+| [[characters/lucio\|LUCIO]] | Is lechery so looked after? |
+| [[characters/claudio\|CLAUDIO]] | Thus stands it with me. Upon a true contract,<br>I got possession of Julietta’s bed.<br>You know the lady; she is fast my wife,<br>Save that we do the denunciation lack<br>Of outward order. This we came not to<br>Only for propagation of a dower<br>Remaining in the coffer of her friends,<br>From whom we thought it meet to hide our [[motifs/love\|love]]<br>Till [[motifs/time\|time]] had made them for us. But it chances<br>The stealth of our most mutual entertainment<br>With character too gross is writ on [[characters/juliet\|Juliet]]. |
+| [[characters/lucio\|LUCIO]] | With [[archetypes/child\|child]], perhaps? |
+| [[characters/claudio\|CLAUDIO]] | Unhapp’ly even so.<br>And the new deputy now for the Duke—<br>Whether it be the fault and glimpse of newness,<br>Or whether that the [[concepts/body\|body]] public be<br>A [[motifs/horse\|horse]] whereon the governor doth ride,<br>Who, newly in the seat, that it may know<br>He can command, lets it straight feel the spur—<br>Whether the tyranny be in his place,<br>Or in his eminence that fills it up—<br>I stagger in. But this new governor<br>Awakes me all the enrolled penalties<br>Which have, like unscoured armour, hung by th’ wall<br>So long that fourteen zodiacs have gone round,<br>And none of them been worn; and, for a name,<br>Now puts the drowsy and neglected act<br>Freshly on me. ’Tis surely for a name. |
+| [[characters/lucio\|LUCIO]] | I warrant it is; and thy head stands so tickle on thy shoulders that a milkmaid, if she be in [[motifs/love\|love]], may sigh it off. Send after the Duke, and appeal to him. |
+| [[characters/claudio\|CLAUDIO]] | I have done so, but he’s not to be found.<br>I prithee, [[characters/lucio\|Lucio]], do me this kind service.<br>This day my sister should the cloister enter,<br>And there receive her approbation.<br>Acquaint her with the danger of my state.<br>Implore her in my voice that she make friends<br>To the strict deputy. Bid herself assay him.<br>I have great [[concepts/hope\|hope]] in that, for in her youth<br>There is a prone and speechless dialect<br>Such as move men; beside, she hath prosperous art<br>When she will play with reason and discourse,<br>And [[motifs/well\|well]] she can persuade. |
+| [[characters/lucio\|LUCIO]] | I pray she may—as [[motifs/well\|well]] for the encouragement of thy like, which else would stand under grievous imposition, as for the enjoying of thy life, who I would be sorry should be thus foolishly lost at a game of tick-tack. I’ll to her. |
+| [[characters/claudio\|CLAUDIO]] | I thank you, good friend [[characters/lucio\|Lucio]]. |
+| [[characters/lucio\|LUCIO]] | Within two hours. |
+| [[characters/claudio\|CLAUDIO]] | Come, officer; away. |
+| *(didascalia)* | Exeunt [[characters/lucio\|Lucio]] and gentlemen at one door; |
+| *(didascalia)* | [[characters/claudio\|Claudio]], [[characters/juliet\|Juliet]], Provost, and officers at another |
+
+### Atto 1, Scena 3
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter the Duke and a Friar |
+| DUKE | No, holy father, throw away that thought.<br>Believe not that the dribbling dart of [[motifs/love\|love]]<br>Can pierce a complete bosom. Why I [[motifs/desire\|desire]] thee<br>To give me secret harbour hath a purpose<br>More [[motifs/grave\|grave]] and wrinkled than the aims and ends<br>Of burning youth. |
+| FRIAR | May your grace speak of it? |
+| DUKE | My holy sir, none better knows than you<br>How I have ever loved the life removed,<br>And held in idle price to haunt assemblies<br>Where youth and cost a witless bravery keeps.<br>I have delivered to Lord [[characters/angelo\|Angelo]]—<br>A man of stricture and firm abstinence—<br>My absolute power and place here in Vienna;<br>And he supposes me travelled to Poland—<br>For so I have strewed it in the common ear,<br>And so it is received. Now, pious sir,<br>You will demand of me why I do this. |
+| FRIAR | Gladly, my lord. |
+| DUKE | We have strict statutes and most biting laws,<br>The needful bits and curbs to headstrong weeds,<br>Which for this fourteen years we have let slip;<br>Even like an o‘ergrown [[motifs/lion\|lion]] in a [[motifs/cave\|cave]]<br>That goes not out to prey. Now, as fond fathers,<br>Having bound up the threat’ning twigs of birch<br>Only to stick it in their children’s sight<br>For terror, not to use, in [[motifs/time\|time]] the rod<br>More mocked becomes than feared: so our decrees,<br>Dead to infliction, to themselves are dead;<br>And Liberty plucks Justice by the nose,<br>The baby beats the [[characters/nurse\|nurse]], and quite athwart<br>Goes all decorum. |
+| FRIAR | It rested in your grace<br>To unloose this tied-up Justice when you pleased,<br>And it in you more dreadful would have seemed<br>Than in Lord [[characters/angelo\|Angelo]]. |
+| DUKE | I do [[concepts/fear\|fear]], too dreadful.<br>Sith ‘twas my fault to give the people scope,<br>’Twould be my tyranny to strike and gall them<br>For what I bid them do—for we bid this be done<br>When evil deeds have their permissive pass,<br>And not the punishment. Therefore indeed, my father,<br>I have on [[characters/angelo\|Angelo]] imposed the office,<br>Who may in th‘ambush of my name strike [[motifs/home\|home]],<br>And yet my [[concepts/nature\|nature]] never in the fight<br>T’allow in slander. And to behold his sway,<br>I will as ’twere a brother of your order<br>Visit both prince and people. Therefore, I prithee,<br>Supply me with the habit, and instruct me<br>How I may formally in person bear<br>Like a true friar. More reasons for this action<br>At our more leisure shall I render you.<br>Only this one: Lord [[characters/angelo\|Angelo]] is precise,<br>Stands at a guard with envy, scarce confesses<br>That his [[motifs/blood\|blood]] flows, or that his appetite<br>Is more to bread than stone. Hence shall we see<br>If power change purpose, what our seemers be. |
+| *(didascalia)* | Exeunt |
+
+### Atto 1, Scena 4
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[characters/isabella\|Isabella]], and Francesca, a nun |
+| [[characters/isabella\|ISABELLA]] | And have you nuns no farther privileges? |
+| FRANCESCA | Are not these large enough? |
+| [[characters/isabella\|ISABELLA]] | Yes, truly. I speak not as desiring more,<br>But rather wishing a more strict restraint<br>Upon the sisterhood, the votarists of Saint Clare. |
+| [[characters/lucio\|LUCIO]] | (within)<br>Ho, peace be in this place! |
+| *(didascalia)* | [[characters/isabella\|ISABELLA]] to Francesca |
+| [[characters/lucio\|LUCIO]] | Who’s that which calls? |
+| FRANCESCA | It is a man’s voice. Gentle [[characters/isabella\|Isabella]].<br>Turn you the key, and know his business of him.<br>You may, I may not; you are yet unsworn.<br>When you have vowed, you must not speak with men<br>But in the presence of the prioress.<br>Then if you speak, you must not show your face;<br>Or if you show your face, you must not speak.<br>[[characters/lucio\|Lucio]] calls within<br>He calls again. I pray you answer him. |
+| *(didascalia)* | She stands asidel |
+| [[characters/isabella\|ISABELLA]] | Peace and prosperity! Who is’t that calls?<br>She opens the door. |
+| *(didascalia)* | Enter [[characters/lucio\|Lucio]] |
+| [[characters/lucio\|LUCIO]] | Hail, virgin, if you be—as those cheek-roses<br>Proclaim you are no less. Can you so stead me<br>As bring me to the sight of [[characters/isabella\|Isabella]],<br>A novice of this place, and the fair sister<br>To her unhappy brother [[characters/claudio\|Claudio]]? |
+| [[characters/isabella\|ISABELLA]] | Why her unhappy brother? Let me ask,<br>The rather for I now must make you know<br>I am that [[characters/isabella\|Isabella]], and his sister. |
+| [[characters/lucio\|LUCIO]] | Gentle and fair, your brother kindly greets you.<br>Not to be weary with you, he’s in [[motifs/prison\|prison]]. |
+| [[characters/isabella\|ISABELLA]] | Woe me! For what? |
+| [[characters/lucio\|LUCIO]] | For that which, if myself might be his judge,<br>He should receive his punishment in thanks.<br>He hath got his friend with [[archetypes/child\|child]]. |
+| [[characters/isabella\|ISABELLA]] | Sir,<br>make me not your story. |
+| [[characters/lucio\|LUCIO]] | ‘Tis true. I would not—though ’tis my familiar sin<br>With maids to seem the lapwing, and to jest<br>Tongue far from heart—play with all virgins so.<br>I hold you as a thing enskied and sainted<br>By your renouncement, an immortal spirit,<br>And to be talked with in sincerity<br>As with a saint. |
+| [[characters/isabella\|ISABELLA]] | You do blaspheme the good in mocking me. |
+| [[characters/lucio\|LUCIO]] | Do not believe it. Fewness and [[concepts/truth\|truth]], ’tis thus:<br>Your brother and his [[archetypes/lover\|lover]] have embraced.<br>As those that feed grow full, as blossoming [[motifs/time\|time]]<br>That from the seedness the bare fallow brings<br>To teeming foison, even so her plenteous womb<br>Expresseth his full tilth and husbandry. |
+| [[characters/isabella\|ISABELLA]] | Someone with [[archetypes/child\|child]] by him? My cousin [[characters/juliet\|Juliet]]? |
+| [[characters/lucio\|LUCIO]] | Is she your cousin? |
+| [[characters/isabella\|ISABELLA]] | Adoptedly, as schoolmaids change their names<br>By vain though apt affection. |
+| [[characters/lucio\|LUCIO]] | She it is. |
+| [[characters/isabella\|ISABELLA]] | O, let him marry her! |
+| [[characters/lucio\|LUCIO]] | This is the point.<br>The Duke is very strangely gone from hence;<br>Bore many gentlemen—mysetf being one—<br>In hand and [[concepts/hope\|hope]] of action; but we do learn,<br>By those that know the very nerves of state,<br>His giving out were of an infinite distance<br>From his true-meant design. Upon his place,<br>And with full line of his authority,<br>Governs Lord [[characters/angelo\|Angelo]]—a man whose [[motifs/blood\|blood]]<br>Is very [[motifs/snow\|snow]]-broth; one who never feels<br>The wanton stings and motions of the sense,<br>But doth rebate and blunt his natural edge<br>With profits of the mind, study, and fast.<br>He, to give [[concepts/fear\|fear]] to use and liberty,<br>Which have for long run by the hideous law<br>As mice by lions, hath picked out an act<br>Under whose heavy sense your brother’s life<br>Falls into forfeit. He arrests him on it,<br>And follows close the rigour of the statute<br>To make him an example. All [[concepts/hope\|hope]] is gone,<br>Unless you have the grace by your fair [[motifs/prayer\|prayer]]<br>To soften [[characters/angelo\|Angelo]]. And that’s my pith<br>Of business ’twixt you and your poor brother. |
+| [[characters/isabella\|ISABELLA]] | Doth he so seek his life? |
+| [[characters/lucio\|LUCIO]] | Has censured him already,<br>And, as I hear, the Provost hath a warrant<br>For’s execution. |
+| [[characters/isabella\|ISABELLA]] | Alas, what poor<br>Ability’s in me to do him good? |
+| [[characters/lucio\|LUCIO]] | Assay the power you have. |
+| [[characters/isabella\|ISABELLA]] | My power? Alas, I [[concepts/doubt\|doubt]]. |
+| [[characters/lucio\|LUCIO]] | Our doubts are traitors,<br>And makes us lose the good we oft might win,<br>By fearing to attempt. Go to Lord [[characters/angelo\|Angelo]];<br>And let him learn to know, when maidens sue,<br>Men give like gods, but when they weep and kneel,<br>All their petitions are as freely theirs<br>As they themselves would owe them. |
+| [[characters/isabella\|ISABELLA]] | I’ll see what I can do. |
+| [[characters/lucio\|LUCIO]] | But speedily. |
+| [[characters/isabella\|ISABELLA]] | I will about it straight,<br>No longer staying but to give the Mother<br>Notice of my affair. I humbly thank you.<br>Commend me to my brother. Soon at [[motifs/night\|night]]<br>I’ll send him certain word of my [[success]]. |
+| [[characters/lucio\|LUCIO]] | I take my leave of you. |
+| [[characters/isabella\|ISABELLA]] | Good sir, adieu. |
+| *(didascalia)* | Exeunt [[characters/isabella\|Isabella]] and Francesca at one door, |
+| *(didascalia)* | [[characters/lucio\|Lucio]] at another door |
+
+### Atto 2, Scena 1
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[characters/angelo\|Angelo]], [[characters/escalus\|Escalus]], and servants; a Justice |
+| [[characters/angelo\|ANGELO]] | We must not make a scarecrow of the law,<br>Setting it up to [[concepts/fear\|fear]] the [[motifs/birds\|birds]] of prey,<br>And let it keep one shape till custom make it<br>Their perch, and not their terror. |
+| [[characters/escalus\|ESCALUS]] | Ay, but yet<br>Let us be keen, and rather cut a little<br>Than fall and bruise to [[motifs/death\|death]]. Alas, this gentleman<br>Whom I would save had a most noble father.<br>Let but your [[concepts/honour\|honour]] know—<br>Whom I believe to be most strait in virtue—<br>That in the working of your own affections,<br>Had [[motifs/time\|time]] cohered with place, or place with wishing,<br>Or that the resolute acting of your [[motifs/blood\|blood]]<br>Could have attained th’effect of your own purpose—<br>Whether you had not sometime in your life<br>Erred in this point which now you censure him,<br>And pulled the law upon you. |
+| [[characters/angelo\|ANGELO]] | ’Tis one thing to be tempted, [[characters/escalus\|Escalus]],<br>Another thing to fall. I not deny<br>The jury passing on the prisoner’s life<br>May in the sworn twelve have a thief or two<br>Guiltier than him they try. What knows the law<br>That thieves do pass on thieves? What’s open made to<br>justice,<br>That justice seizes. ’Tis very pregnant:<br>The [[motifs/jewel\|jewel]] that we find, we stoop and take’t<br>Because we see it, but what we do not see<br>We tread upon and never think of it.<br>You may not so extenuate his offence<br>For I have had such faults; but rather tell me,<br>When I that censure him do so offend,<br>Let mine own judgement pattern out my [[motifs/death\|death]],<br>And nothing come in partial. Sir, he must die. |
+| [[characters/escalus\|ESCALUS]] | Be it as your wisdom will. |
+| [[characters/angelo\|ANGELO]] | Where is the Provost? |
+| *(didascalia)* | Enter Provost |
+| PROVOST | Here, if it like your [[concepts/honour\|honour]]. |
+| [[characters/angelo\|ANGELO]] | See that [[characters/claudio\|Claudio]]<br>Be execute by nine tomorrow morning.<br>Bring him his confessor, let him be prepared,<br>For that’s the utmost of his pilgrimage. |
+| *(didascalia)* | Exit Provost |
+| [[characters/escalus\|ESCALUS]] | [[motifs/well\|Well]], heaven forgive him, and forgive us all!<br>Some rise by sin, and some by virtue fall.<br>Some run from brakes of vice, and answer none;<br>And some condemned for a fault [[Alone\|alone]]. |
+| *(didascalia)* | Enter Elbow, Froth, [[characters/pompey\|Pompey]], and officers |
+| ELBOW | Come, bring them away. If these be good people in a commonweal, that do nothing but use their abuses in common houses, I know no law. Bring them away. |
+| [[characters/angelo\|ANGELO]] | How now, sir? What’s your name? And what’s the<br>matter? |
+| ELBOW | If it please your [[concepts/honour\|honour]], I am the poor Duke’s constable, and my name is Elbow. I do lean upon justice, sir; and do bring in here before your good [[concepts/honour\|honour]] two notorious benefactors. |
+| [[characters/angelo\|ANGELO]] | Benefactors? Welll What benefactors are they? Are they not malefactors? |
+| ELBOW | If it please your [[concepts/honour\|honour]], I know not [[motifs/well\|well]] what they are; but precise villains they are, that I am sure of, and void of all profanation in the world that good Christians ought to have. |
+| [[characters/escalus\|ESCALUS]] | (to [[characters/angelo\|Angelo]]) This comes off [[motifs/well\|well]]; here’s a wise officer! |
+| [[characters/angelo\|ANGELO]] | Go to, what quality are they of? Elbow is your name? Why dost thou not speak, Elbow? |
+| [[characters/pompey\|POMPEY]] | He cannot, sir; he’s out at elbow. |
+| [[characters/angelo\|ANGELO]] | What are you, sir? |
+| ELBOW | He, sir? A tapster, sir, parcel bawd; one that serves a bad woman whose [[house]], sir, was, as they say, plucked down in the suburbs; and now she professes a hot-[[house]], which I think is a very ill [[house]] too. |
+| [[characters/escalus\|ESCALUS]] | How know you that? |
+| ELBOW | My wife, sir, whom I detest before heaven and your [[concepts/honour\|honour]]— |
+| [[characters/escalus\|ESCALUS]] | How, thy wife? |
+| ELBOW | Ay, sir, whom I thank heaven is an honest woman— |
+| [[characters/escalus\|ESCALUS]] | Dost thou detest her therefor? |
+| ELBOW | I say, sir, I will detest myself also, as [[motifs/well\|well]] as she, that this [[house]], if it be not a bawd’s [[house]], it is pity of her life, for it is a naughty [[house]]. |
+| [[characters/escalus\|ESCALUS]] | How dost thou know that, constable? |
+| ELBOW | Marry, sir, by my wife, who, if she had been a woman cardinally given, might have been accused in fornication, adultery, and all uncleanliness there. |
+| [[characters/escalus\|ESCALUS]] | By the woman’s means? |
+| ELBOW | Ay, sir, by Mistress Overdone’s means. But as she spit in his face, so she defied him. |
+| [[characters/pompey\|POMPEY]] | (to [[characters/escalus\|Escalus]]) Sir, if it please your [[concepts/honour\|honour]], this is not so. |
+| ELBOW | Prove it before these varlets here, thou honourable man, prove it. |
+| [[characters/escalus\|ESCALUS]] | (to [[characters/angelo\|Angelo]]) Do you hear how he misplaces? |
+| [[characters/pompey\|POMPEY]] | Sir, she came in great with [[archetypes/child\|child]], and [[concepts/longing\|longing]]-saving your [[concepts/honour\|honour]]’s reverence—for stewed prunes. Sir, we had but two in the [[house]], which at that very distant [[motifs/time\|time]] stood, as it were, in a fruit dish—a dish of some threepence; your honours have seen such dishes; they are not china dishes, but very good dishes. |
+| [[characters/escalus\|ESCALUS]] | Go to, go to, no matter for the dish, sir. |
+| [[characters/pompey\|POMPEY]] | No, indeed, sir, not of a pin; you are therein in the right. But to the point. As I say, this Mistress Elbow, being, as I say, with [[archetypes/child\|child]], and being great-bellied, and [[concepts/longing\|longing]], as I said, for prunes; and having but two in the dish, as I said, Master Froth here, this very man, having eaten the rest, as I said, and, as I say, paying for them very honestly; for, as you know, Master Froth, I could not give you threepence again. |
+| FROTH | No, indeed. |
+| [[characters/pompey\|POMPEY]] | Very [[motifs/well\|well]]. You being, then, if you be remembered, cracking the stones of the foresaid prunes— |
+| FROTH | Ay, so I did indeed. |
+| [[characters/pompey\|POMPEY]] | Why, very [[motifs/well\|well]].—I telling you then, if you be remembered, that such a one and such a one were past cure of the thing you wot of, unless they kept very good diet, as I told you— |
+| FROTH | All this is true. no |
+| [[characters/pompey\|POMPEY]] | Why, very [[motifs/well\|well]] then— |
+| [[characters/escalus\|ESCALUS]] | Come, you are a tedious [[archetypes/fool\|fool]]. To the purpose. What was done to Elbow’s wife that he hath cause to complain of? Come me to what was done to her. |
+| [[characters/pompey\|POMPEY]] | Sir, your [[concepts/honour\|honour]] cannot come to that yet. |
+| [[characters/escalus\|ESCALUS]] | No, sir, nor I mean it not. |
+| [[characters/pompey\|POMPEY]] | Sir, but you shall come to it, by your [[concepts/honour\|honour]]’s leave. And I beseech you, look into Master Froth here, sir, a man of fourscore pound a year, whose father died at Hallowmas—was’t not at Hallowmas, Master Froth? |
+| FROTH | All Hallow Eve. |
+| [[characters/pompey\|POMPEY]] | Why, very [[motifs/well\|well]]. I [[concepts/hope\|hope]] here be truths. He, sir, sitting, as I say, in a lower chair, sir—’twas in the Bunch of Grapes, where indeed you have a delight to sit, have you not? |
+| FROTH | I have so, because it is an open room, and good for [[motifs/winter\|winter]]. |
+| [[characters/pompey\|POMPEY]] | Why, very [[motifs/well\|well]] then. I [[concepts/hope\|hope]] here be truths. |
+| [[characters/angelo\|ANGELO]] | This will last out a [[motifs/night\|night]] in [[settings/russia\|Russia]],<br>When nights are longest there. (To [[characters/escalus\|Escalus]]) I’ll take<br>my leave,<br>And leave you to the hearing of the cause,<br>Hoping you’ll find good cause to whip them all. |
+| [[characters/escalus\|ESCALUS]] | I think no less. Good morrow to your lordship. |
+| *(didascalia)* | Exit [[characters/angelo\|Angelo]] |
+| [[characters/escalus\|ESCALUS]] | Now, sir, come on, what was done to Elbow’s wife,<br>once more? |
+| [[characters/pompey\|POMPEY]] | Once, sir? There was nothing done to her once. |
+| ELBOW | I beseech you, sir, ask him what this man did to my wife. |
+| [[characters/pompey\|POMPEY]] | I beseech your [[concepts/honour\|honour]], ask me. |
+| [[characters/escalus\|ESCALUS]] | [[motifs/well\|Well]], sir, what did this gentleman to her? |
+| [[characters/pompey\|POMPEY]] | I beseech you, sir, look in this gentleman’s face. Good Master Froth, look upon his [[concepts/honour\|honour]]. ’Tis for a good purpose. Doth your [[concepts/honour\|honour]] mark his face? |
+| [[characters/escalus\|ESCALUS]] | Ay, sir, very [[motifs/well\|well]]. |
+| [[characters/pompey\|POMPEY]] | Nay, I beseech you, mark it [[motifs/well\|well]]. |
+| [[characters/escalus\|ESCALUS]] | [[motifs/well\|Well]], I do so. |
+| [[characters/pompey\|POMPEY]] | Doth your [[concepts/honour\|honour]] see any harm in his face? |
+| [[characters/escalus\|ESCALUS]] | Why, no. |
+| [[characters/pompey\|POMPEY]] | I’ll be supposed upon a book his face is the worst thing about him. Good, then—if his face be the worst thing about him, how could Master Froth do the constable’s wife any harm? I would know that of your [[concepts/honour\|honour]]. |
+| [[characters/escalus\|ESCALUS]] | He’s in the right, constable; what say you to it? |
+| ELBOW | First, an it like you, the [[house]] is a respected [[house]]; next, this is a respected fellow; and his mistress is a respected woman. |
+| [[characters/pompey\|POMPEY]] | (to [[characters/escalus\|Escalus]]) By this hand, sir, his wife is a more respected person than any of us all. |
+| ELBOW | Varlet, thou liest; thou liest, wicked varlet. The [[motifs/time\|time]] is yet to come that she was ever respected with man, woman, or [[archetypes/child\|child]]. |
+| [[characters/pompey\|POMPEY]] | Sir, she was respected with him before he married with her. |
+| [[characters/escalus\|ESCALUS]] | Which is the wiser here, justice or iniquity? (To Elbow) Is this true? |
+| ELBOW | (to [[characters/pompey\|Pompey]]) O thou caitiff, O thou varlet, O thou wicked Hanniball I respected with her before I was married to her? (To [[characters/escalus\|Escalus]]) If ever I was respected with her, or she with me, let not your worship think me the poor Duke’s officer. (To [[characters/pompey\|Pompey]]) Prove this, thou wicked Hannibal, or I’ll have mine action of battery on thee. |
+| [[characters/escalus\|ESCALUS]] | If he took you a box o’th’ ear you might have your action of slander too. |
+| ELBOW | Marry, I thank your good worship for it. What is’t your worship’s pleasure I shall do with this wicked caitiff? |
+| [[characters/escalus\|ESCALUS]] | Truly, officer, because he hath some offences in him that thou wouldst discover if thou couldst, let him continue in his courses till thou knowest what they are. |
+| ELBOW | Marry, I thank your worship for it.—Thou seest, thou wicked varlet now, what’s come upon thee. Thou art to continue now, thou varlet, thou art to continue. |
+| [[characters/escalus\|ESCALUS]] | (to Froth) Where were you born, friend? |
+| FROTH | Here in Vienna, sir. |
+| [[characters/escalus\|ESCALUS]] | Are you of fourscore pounds a year? |
+| FROTH | Yes, an’t please you, sir. |
+| [[characters/escalus\|ESCALUS]] | So. (To [[characters/pompey\|Pompey]]) What trade are you of, sir? |
+| [[characters/pompey\|POMPEY]] | A tapster, a poor widow’s tapster. |
+| [[characters/escalus\|ESCALUS]] | Your mistress’s name? |
+| [[characters/pompey\|POMPEY]] | Mistress Overdone. |
+| [[characters/escalus\|ESCALUS]] | Hath she had any more than one husband? |
+| [[characters/pompey\|POMPEY]] | Nine, sir—Overdone by the last. |
+| [[characters/escalus\|ESCALUS]] | Nine?—Come hither to me, Master Froth. Master Froth, I would not have you acquainted with tapsters. They will draw you, Master Froth, and you will hang them. Get you gone, and let me hear no more of you. |
+| FROTH | I thank your worship. For mine own part, I never come into any room in a tap-[[house]] but I am drawn in. |
+| [[characters/escalus\|ESCALUS]] | [[motifs/well\|Well]], no more of it, Master Froth. Farewell. |
+| *(didascalia)* | Exit Froth |
+| [[characters/escalus\|ESCALUS]] | Come you hither to me, Master Tapster. What’s your<br>name, Master Tapster? |
+| [[characters/pompey\|POMPEY]] | [[characters/pompey\|Pompey]]. |
+| [[characters/escalus\|ESCALUS]] | What else? |
+| [[characters/pompey\|POMPEY]] | Bum, sir. |
+| [[characters/escalus\|ESCALUS]] | Troth, and your bum is the greatest thing about you; so that, in the beastliest sense, you are [[characters/pompey\|Pompey]] the Great. [[characters/pompey\|Pompey]], you are partly a bawd, [[characters/pompey\|Pompey]], howsoever you colour it in being a tapster, are you not? Come, tell me true; it shall be the better for you. |
+| [[characters/pompey\|POMPEY]] | Truly, sir, I am a poor fellow that would live. |
+| [[characters/escalus\|ESCALUS]] | How would you live, [[characters/pompey\|Pompey]]? By being a bawd? What do you think of the trade, [[characters/pompey\|Pompey]]? Is it a lawful trade? |
+| [[characters/pompey\|POMPEY]] | If the law would allow it, sir. |
+| [[characters/escalus\|ESCALUS]] | But the law will not allow it, [[characters/pompey\|Pompey]]; nor it shall not be allowed in Vienna. |
+| [[characters/pompey\|POMPEY]] | Does your worship mean to geld and spay all the youth of the [[motifs/city\|city]]? |
+| [[characters/escalus\|ESCALUS]] | No, [[characters/pompey\|Pompey]]. |
+| [[characters/pompey\|POMPEY]] | Truly, sir, in my poor opinion they will to’t then. If your worship will take order for the drabs and the knaves, you need not to [[concepts/fear\|fear]] the bawds. |
+| [[characters/escalus\|ESCALUS]] | There is pretty orders beginning, I can tell you. It is but heading and hanging. |
+| [[characters/pompey\|POMPEY]] | If you head and hang all that offend that way but for ten year together, you’ll be glad to give out a commission for more heads. If this law hold in Vienna ten year, I’ll rent the fairest [[house]] in it after threepence a bay. If you live to see this come to pass, say [[characters/pompey\|Pompey]] told you so. |
+| [[characters/escalus\|ESCALUS]] | Thank you, good [[characters/pompey\|Pompey]]; and in requital of your prophecy, hark you. I advise you, let me not find you before me again upon any complaint whatsoever; no, not for dwelling where you do. If I do, [[characters/pompey\|Pompey]], I shall beat you to your tent, and prove a shrewd Caesar to you; in plain dealing, [[characters/pompey\|Pompey]], I shall have you whipped. So for this [[motifs/time\|time]], [[characters/pompey\|Pompey]], fare you [[motifs/well\|well]]. |
+| *(didascalia)* | [[characters/pompey\|POMPEY]] I thank your worship for your good counsel; aside but I shall follow it as the flesh and fortune shall better determine. Whip me? No, no; let carman whip his jade. The valiant heart’s not whipped out of his trade. Exit |
+| [[characters/escalus\|ESCALUS]] | Come hither to me, Master Elbow; come hither, Master Constable. How long have you been in this place of constable? |
+| ELBOW | Seven year and a half, sir. |
+| [[characters/escalus\|ESCALUS]] | I thought, by the readiness in the office, you had continued in it some [[motifs/time\|time]]. You say seven years together? |
+| ELBOW | And a half, sir. |
+| [[characters/escalus\|ESCALUS]] | Alas, it hath been great pains to you. They do you wrong to put you so oft upon’t. Are there not men in your ward sufficient to serve it? |
+| ELBOW | [[concepts/faith\|Faith]], sir, few of any wit in such matters. As they are chosen, they are glad to choose me for them. I do it for some piece of money, and go through with all. |
+| [[characters/escalus\|ESCALUS]] | Look you bring me in the names of some six or seven, the most sufficient of your parish. |
+| ELBOW | To your worship’s [[house]], sir? |
+| [[characters/escalus\|ESCALUS]] | To my [[house]]. Fare you [[motifs/well\|well]]. |
+| *(didascalia)* | Exit Elbow with officers |
+| [[characters/escalus\|ESCALUS]] | What’s o’[[motifs/clock\|clock]], think you? |
+| JUSTICE | Eleven, sir. |
+| [[characters/escalus\|ESCALUS]] | I pray you [[motifs/home\|home]] to dinner with me. |
+| JUSTICE | I humbly thank you. |
+| [[characters/escalus\|ESCALUS]] | It grieves me for the [[motifs/death\|death]] of [[characters/claudio\|Claudio]],<br>But there’s no remedy. |
+| JUSTICE | Lord [[characters/angelo\|Angelo]] is severe. |
+| [[characters/escalus\|ESCALUS]] | It is but needful.<br>[[concepts/mercy\|Mercy]] is not itself that oft looks so.<br>Pardon is still the [[characters/nurse\|nurse]] of second woe.<br>But yet, poor [[characters/claudio\|Claudio]]! There is no remedy.<br>Come, sir. |
+| *(didascalia)* | Exeunt |
+
+### Atto 2, Scena 2
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter the Provost and a Servant |
+| SERVANT | He’s hearing of a cause; he will come straight.<br>I’ll tell him of you. |
+| PROVOST | Pray you do. |
+| *(didascalia)* | Exit Servant |
+| PROVOST | I’ll know<br>His pleasure; maybe he will relent. Alas,<br>He hath but as offended in [[A Dream\|a dream]].<br>All sects, all ages, smack of this vice; and he<br>To die for’t! |
+| *(didascalia)* | Enter |
+| PROVOST | [[characters/angelo\|Angelo]] |
+| [[characters/angelo\|ANGELO]] | Now, what’s the matter, Provost? |
+| PROVOST | Is it your will [[characters/claudio\|Claudio]] shall die tomorrow? |
+| [[characters/angelo\|ANGELO]] | Did not I tell thee yea? Hadst thou not order?<br>Why dost thou ask again? |
+| PROVOST | Lest I might be too rash.<br>Under your good correction, I have seen<br>When after execution judgement hath<br>Repented o’er his doom. |
+| [[characters/angelo\|ANGELO]] | Go to; let that be mine.<br>Do you your office, or give up your place,<br>And you shall [[motifs/well\|well]] be spared. |
+| PROVOST | I crave your [[concepts/honour\|honour]]’s pardon.<br>What shall be done, sir, with the groaning [[characters/juliet\|Juliet]]?<br>She’s very near her hour. |
+| [[characters/angelo\|ANGELO]] | Dispose of her<br>To some more fitter place, and that with [[characters/speed\|speed]]. |
+| *(didascalia)* | Enter Servant |
+| SERVANT | Here is the sister of the man condemned Desires access to you. |
+| [[characters/angelo\|ANGELO]] | Hath he a sister? |
+| PROVOST | Ay, my good lord; a very virtuous maid,<br>And to be shortly of a sisterhood,<br>If not already. |
+| [[characters/angelo\|ANGELO]] | [[motifs/well\|Well]], let her be admitted. |
+| *(didascalia)* | Exit Servant |
+| [[characters/angelo\|ANGELO]] | See you the fornicatress be removed.<br>Let her have needful but not lavish means.<br>There shall be order for’t. |
+| *(didascalia)* | Enter [[characters/lucio\|Lucio]] and [[characters/isabella\|Isabella]] |
+| PROVOST | God save your [[concepts/honour\|honour]]. |
+| [[characters/angelo\|ANGELO]] | Stay a little while. (To [[characters/isabella\|Isabella]]) You’re welcome.<br>What’s your will? |
+| [[characters/isabella\|ISABELLA]] | I am a woeful suitor to your [[concepts/honour\|honour]].<br>Please but your [[concepts/honour\|honour]] hear me. |
+| [[characters/angelo\|ANGELO]] | [[motifs/well\|Well]], what’s your suit? |
+| [[characters/isabella\|ISABELLA]] | There is a vice that most I do abhor,<br>And most [[motifs/desire\|desire]] should meet the blow of justice,<br>For which I would not plead, but that I must;<br>For which I must not plead, but that I am<br>At war ’twixt will and will not. |
+| [[characters/angelo\|ANGELO]] | [[motifs/well\|Well]], the matter? |
+| [[characters/isabella\|ISABELLA]] | I have a brother is condemned to die.<br>I do beseech you, let it be his fault,<br>And not my brother. |
+| PROVOST | (aside)<br>Heaven give thee moving graces! |
+| [[characters/angelo\|ANGELO]] | Condemn the fault, and not the actor of it?<br>Why, every fault’s condemned ere it be done.<br>Mine were the very cipher of a function,<br>To fine the faults whose fine stands in record,<br>And let go by the actor. |
+| [[characters/isabella\|ISABELLA]] | O just but severe law!<br>I had a brother, then. Heaven keep your [[concepts/honour\|honour]]. |
+| [[characters/lucio\|LUCIO]] | (aside to [[characters/isabella\|Isabella]])<br>Give’t not o’er so. To him again; entreat him.<br>Kneel down before him; hang upon his gown.<br>You are too cold. If you should need a pin,<br>You could not with more tame a tongue [[motifs/desire\|desire]] it.<br>To him, I say! |
+| [[characters/isabella\|ISABELLA]] | (to [[characters/angelo\|Angelo]]) Must he needs die? |
+| [[characters/angelo\|ANGELO]] | Maiden, no remedy. |
+| [[characters/isabella\|ISABELLA]] | Yes, I do think that you might pardon him,<br>And neither heaven nor man grieve at the [[concepts/mercy\|mercy]]. |
+| [[characters/angelo\|ANGELO]] | I will not do’t. |
+| [[characters/isabella\|ISABELLA]] | But can you if you would? |
+| [[characters/angelo\|ANGELO]] | Look what I will not, that I cannot do. |
+| [[characters/isabella\|ISABELLA]] | But might you do’t, and do the world no wrong,<br>If so your heart were touched with that remorse<br>As mine is to him? |
+| [[characters/angelo\|ANGELO]] | He’s sentenced; ’tis too late. |
+| [[characters/lucio\|LUCIO]] | (aside to [[characters/isabella\|Isabella]]) You are too cold. |
+| [[characters/isabella\|ISABELLA]] | Too late? Why, no; I that do speak a word<br>May call it again. [[motifs/well\|Well]], believe this,<br>No ceremony that to great ones ’longs,<br>Not the [[archetypes/king\|king]]’s [[motifs/crown\|crown]], nor the deputed [[Sword\|sword]],<br>The marshal’s truncheon, nor the judge’s robe,<br>Become them with one half so good a grace<br>As [[concepts/mercy\|mercy]] does.<br>If he had been as you and you as he,<br>You would have slipped like him, but he, like you,<br>Would not have been so stern. |
+| [[characters/angelo\|ANGELO]] | Pray you be gone. |
+| [[characters/isabella\|ISABELLA]] | I would to heaven I had your potency,<br>And you were Isabel! Should it then be thus?<br>No; I would tell what ’twere to be a judge,<br>And what a prisoner. |
+| [[characters/lucio\|LUCIO]] | (aside to [[characters/isabella\|Isabella]]) Ay, touch him; there’s the vein. |
+| [[characters/angelo\|ANGELO]] | Your brother is a forfeit of the law,<br>And you but waste your words. |
+| [[characters/isabella\|ISABELLA]] | Alas, alas!<br>Why, all the souls that were were forfeit once,<br>And He that might the vantage best have took<br>Found out the remedy. How would you be<br>If He which is the top of judgement should<br>But judge you as you are? O, think on that,<br>And [[concepts/mercy\|mercy]] then will breathe within your lips,<br>Like man new made. |
+| [[characters/angelo\|ANGELO]] | Be you content, fair maid.<br>It is the law, not I, condemn your brother.<br>Were he my kinsman, brother, or my son,<br>It should be thus with him. He must die tomorrow. |
+| [[characters/isabella\|ISABELLA]] | Tomorrow? O, that’s sudden! Spare him, spare him!<br>He’s not prepared for [[motifs/death\|death]]. Even for our kitchens<br>We kill the fowl of season. Shall we serve heaven<br>With less respect than we do minister<br>To our gross selves? Good good my lord, bethink you:<br>Who is it that hath died for this offence?<br>There’s many have committed it. |
+| [[characters/lucio\|LUCIO]] | (aside)<br>Ay, [[motifs/well\|well]] said. |
+| [[characters/angelo\|ANGELO]] | The law hath not been dead, though it hath slept.<br>Those many had not dared to do that evil<br>If the first that did th‘edict infringe<br>Had answered for his deed. Now ’tis awake,<br>Takes note of what is done, and, like a [[archetypes/prophet\|prophet]],<br>Looks in a glass that shows what future evils,<br>Either raw, or by remissness new conceived<br>And so in progress to be hatched and born,<br>Are now to have no successive degrees,<br>But ere they live, to end. |
+| [[characters/isabella\|ISABELLA]] | Yet show some pity. |
+| [[characters/angelo\|ANGELO]] | I show it most of all when I show justice,<br>For then I pity those I do not know<br>Which a dismissed offence would after gall,<br>And do him right that, answering one foul wrong,<br>Lives not to act another. Be satisfied.<br>Your brother dies tomorrow. Be content. |
+| [[characters/isabella\|ISABELLA]] | So you must be the first that gives this sentence,<br>And he that suffers. O, it is excellent<br>To have a giant’s strength, but it is tyrannous<br>To use it like a giant. |
+| [[characters/lucio\|LUCIO]] | (aside to [[characters/isabella\|Isabella]]) That’s [[motifs/well\|well]] said. |
+| [[characters/isabella\|ISABELLA]] | Could great men thunder<br>As Jove himself does, Jove would never be quiet,<br>For every pelting petty officer<br>Would use his heaven for thunder, nothing but<br>thunder.<br>Merciful heaven,<br>Thou rather with thy sharp and sulphurous bolt<br>Split’st the unwedgeable and gnarlèd oak<br>Than the soft myrtle. But man, proud man,<br>Dressed in a little brief authority,<br>Most ignorant of what he’s most assured,<br>His glassy essence, like an angry ape<br>Plays such fantastic tricks before high heaven<br>As makes the angels weep, who, with our spleens,<br>Would all themselves laugh mortal. |
+| [[characters/lucio\|LUCIO]] | (aside to [[characters/isabella\|Isabella]])<br>O, to him, to him, wench! He will relent.<br>He’s coming; I perceive’t. |
+| PROVOST | (aside)<br>Pray heaven she win him! |
+| [[characters/isabella\|ISABELLA]] | We cannot weigh our brother with ourself.<br>Great men may jest with saints; ’tis wit in them,<br>But in the less, foul profanation. |
+| [[characters/lucio\|LUCIO]] | (aside to [[characters/isabella\|Isabella]]) Thou’rt i’th’ right, girl. More o’<br>that. |
+| [[characters/isabella\|ISABELLA]] | That in the captain’s but a choleric word,<br>Which in the soldier is flat blasphemy. |
+| [[characters/lucio\|LUCIO]] | (aside to [[characters/isabella\|Isabella]]) Art advised o’ that? More on’t. |
+| [[characters/angelo\|ANGELO]] | Why do you put these sayings upon me? |
+| [[characters/isabella\|ISABELLA]] | Because authority, though it err like others,<br>Hath yet a kind of medicine in itself<br>That skins the vice o’th’ top. Go to your bosom;<br>Knock there, and ask your heart what it doth know<br>That’s like my brother’s fault. If it confess<br>A natural guiltiness, such as is his,<br>Let it not sound a thought upon your tongue<br>Against my brother’s life. |
+| [[characters/angelo\|ANGELO]] | (aside)<br>She speaks, and ’tis such sense<br>That my sense breeds with it. (To [[characters/isabella\|Isabella]]) Fare you<br>[[motifs/well\|well]]. |
+| [[characters/isabella\|ISABELLA]] | Gentle my lord, turn back. |
+| [[characters/angelo\|ANGELO]] | I will bethink me. Come again tomorrow. |
+| [[characters/isabella\|ISABELLA]] | Hark how I’ll bribe you; good my lord, turn back. |
+| [[characters/angelo\|ANGELO]] | How, bribe me? |
+| [[characters/isabella\|ISABELLA]] | Ay, with such gifts that heaven shall share with you. |
+| [[characters/lucio\|LUCIO]] | (aside to [[characters/isabella\|Isabella]]) You had marred all else. |
+| [[characters/isabella\|ISABELLA]] | Not with fond shekels of the tested gold,<br>Or stones, whose rate are either rich or poor<br>As fancy values them; but with true prayers,<br>That shall be up at heaven and enter there<br>Ere sunrise, prayers from preserved souls,<br>From fasting maids whose minds are dedicate<br>To nothing temporal. |
+| [[characters/angelo\|ANGELO]] | [[motifs/well\|Well]], come to me tomorrow |
+| [[characters/lucio\|LUCIO]] | (aside to [[characters/isabella\|Isabella]]) Go to; ’tis [[motifs/well\|well]]; away. |
+| [[characters/isabella\|ISABELLA]] | Heaven keep your [[concepts/honour\|honour]] safe. |
+| [[characters/angelo\|ANGELO]] | (aside) Amen;<br>For I am that way going to [[concepts/temptation\|temptation]],<br>Where [[motifs/prayer\|prayer]] is crossed. |
+| [[characters/isabella\|ISABELLA]] | At what hour tomorrow<br>Shall I attend your lordship? |
+| [[characters/angelo\|ANGELO]] | At any [[motifs/time\|time]] fore [[motifs/noon\|noon]]. |
+| [[characters/isabella\|ISABELLA]] | God save your [[concepts/honour\|honour]]. |
+| [[characters/angelo\|ANGELO]] | (aside)<br>From thee; even from thy virtue. Exeunt [[characters/isabella\|Isabella]], [[characters/lucio\|Lucio]], and Provost<br>What’s this? What’s this? Is this her fault or mine?<br>The tempter or the tempted, who sins most, ha?<br>Not she; nor doth she tempt; but it is I<br>That, lying by the violet in the sun,<br>Do, as the carrion does, not as the flower,<br>Corrupt with virtuous season. Can it be<br>That modesty may more betray our sense<br>Than woman’s lightness? Having waste ground enough,<br>Shall we [[motifs/desire\|desire]] to raze the sanctuary,<br>And pitch our evils there? O, fie, fie, fie!<br>What dost thou, or what art thou, [[characters/angelo\|Angelo]]?<br>Dost thou [[motifs/desire\|desire]] her foully for those things<br>That make her good? O, let her brother live!<br>Thieves for their robbery have authority,<br>When judges steal themselves. What, do I [[motifs/love\|love]] her,<br>That I [[motifs/desire\|desire]] to hear her speak again,<br>And feast upon her eyes? What is’t I dream on?<br>O cunning enemy, that, to catch a saint,<br>With saints dost bait thy hook! Most dangerous<br>Is that [[concepts/temptation\|temptation]] that doth goad us on<br>To sin in loving virtue. Never could the strumpet,<br>With all her [[topoi/double\|double]] vigour—art and [[concepts/nature\|nature]]—<br>Once stir my temper; but this virtuous maid<br>Subdues me quite. Ever till now<br>When men were fond, I smiled, and wondered how. |
+| *(didascalia)* | Exit |
+
+### Atto 2, Scena 3
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter  at one door the Duke, disguised as a friar, and  at another door the Provost |
+| DUKE | Hail to you, Provost!—so I think you are. |
+| PROVOST | I am the Provost. What’s your will, good friar? |
+| DUKE | Bound by my [[concepts/charity\|charity]] and my blest order,<br>I come to visit the afflicted spirits<br>Here in the [[motifs/prison\|prison]]. Do me the common right<br>To let me see them, and to make me know<br>The [[concepts/nature\|nature]] of their crimes, that I may minister<br>To them accordingly. |
+| PROVOST | I would do more than that, if more were needful. |
+| *(didascalia)* | Enter [[characters/juliet\|Juliet]] |
+| PROVOST | Look, here comes one, a gentlewoman of mine,<br>Who, falling in the flaws of her own youth,<br>Hath blistered her report. She is with [[archetypes/child\|child]],<br>And he that got it, sentenced—a young man<br>More fit to do another such offence<br>Than die for this. |
+| DUKE | When must he die? |
+| PROVOST | As I do think, tomorrow.<br>(To [[characters/juliet\|Juliet]]) I have provided for you. Stay a while,<br>And you shall be conducted. |
+| DUKE | Repent you, fair one, of the sin you carry? |
+| [[characters/juliet\|JULIET]] | I do, and bear the shame most patiently. |
+| DUKE | I’ll teach you how you shall arraign your [[concepts/conscience\|conscience]],<br>And try your penitence if it be sound<br>Or hollowly put on. |
+| [[characters/juliet\|JULIET]] | I’ll gladly learn. |
+| DUKE | [[motifs/love\|Love]] you the man that wronged you? |
+| [[characters/juliet\|JULIET]] | Yes, as I [[motifs/love\|love]] the woman that wronged him. |
+| DUKE | So then it seems your most offenceful act<br>Was mutually committed? |
+| [[characters/juliet\|JULIET]] | Mutually. |
+| DUKE | Then was your sin of heavier kind than his. |
+| [[characters/juliet\|JULIET]] | I do confess it and repent it, father. |
+| DUKE | ’Tis meet so, daughter. But lest you do repent<br>As that the sin hath brought you to this shame—<br>Which sorrow is always toward ourselves, not heaven,<br>Showing we would not spare heaven as we [[motifs/love\|love]] it,<br>But as we stand in [[concepts/fear\|fear]]— |
+| [[characters/juliet\|JULIET]] | I do repent me as it is an evil,<br>And take the shame with joy. |
+| DUKE | There rest.<br>Your partner, as I hear, must die tomorrow,<br>And I am going with instruction to him.<br>Grace go with you. Benedicite! Exit |
+| [[characters/juliet\|JULIET]] | Must die tomorrow? O injurious law,<br>That respites me a life whose very comfort<br>Is still a dying horror! |
+| PROVOST | ’Tis pity of him. |
+| *(didascalia)* | Exeunt |
+| PROVOST | 2.4 Enter [[characters/angelo\|Angelo]] |
+| [[characters/angelo\|ANGELO]] | When I would pray and think, I think and pray<br>To several subjects: heaven hath my empty words,<br>Whilst my invention, hearing not my tongue,<br>Anchors on Isabel; God in my mouth,<br>As if I did but only chew his name,<br>And in my heart the strong and swelling evil<br>Of my conception. The state whereon I studied<br>Is like a good thing, being often read,<br>Grown seared and tedious. Yea, my gravity,<br>Wherein—let no man hear me—I take [[concepts/pride\|pride]],<br>Could I with boot change for an idle plume<br>Which the air beats in vain. O place, O form,<br>How often dost thou with thy case, thy habit,<br>Wrench awe from fools, and tie the wiser souls<br>To thy false seeming! [[motifs/blood\|Blood]], thou art [[motifs/blood\|blood]].<br>Let’s write ‘good angel’ on the devil’s horn—<br>’Tis now the devil’s crest. |
+| *(didascalia)* | Enter Servant |
+| [[characters/angelo\|ANGELO]] | How now? Who’s there? |
+| SERVANT | One Isabel, a sister, desires access to you. |
+| [[characters/angelo\|ANGELO]] | Teach her the way. |
+| *(didascalia)* | Exit Servant |
+| [[characters/angelo\|ANGELO]] | O heavens,<br>Why does my [[motifs/blood\|blood]] thus muster to my heart,<br>Making both it unable for itself,<br>And dispossessing all my other parts<br>Of necessary fitness?<br>So play the foolish throngs with one that swoons—<br>Come all to help him, and so stop the air<br>By which he should revive—and even so<br>The general subject to a [[motifs/well\|well]]-wished [[archetypes/king\|king]]<br>Quit their own part and, in obsequious fondness,<br>Crowd to his presence, where their untaught [[motifs/love\|love]]<br>Must needs appear offence. |
+| *(didascalia)* | Enter |
+| [[characters/angelo\|ANGELO]] | [[characters/isabella\|Isabella]]<br>How now, fair maid? |
+| [[characters/isabella\|ISABELLA]] | I am come to know your pleasure. |
+| [[characters/angelo\|ANGELO]] | (aside)<br>That you might know it would much better please me<br>Than to demand what ’tis. (To [[characters/isabella\|Isabella]]) Your brother<br>cannot live. |
+| [[characters/isabella\|ISABELLA]] | Even so. Heaven keep your [[concepts/honour\|honour]]. |
+| [[characters/angelo\|ANGELO]] | Yet may he live a while, and it may be<br>As long as you or I. Yet he must die. |
+| [[characters/isabella\|ISABELLA]] | Under your sentence? |
+| [[characters/angelo\|ANGELO]] | Yea. |
+| [[characters/isabella\|ISABELLA]] | When, I beseech you?—that in his reprieve,<br>Longer or shorter, he may be so fitted<br>That his [[motifs/soul\|soul]] sicken not. |
+| [[characters/angelo\|ANGELO]] | Ha, fie, these filthy vices! It were as good<br>To pardon him that hath from [[concepts/nature\|nature]] stolen<br>A man already made, as to remit<br>Their saucy sweetness that do coin God’s image<br>In stamps that are forbid. ’Tis all as easy<br>Falsely to take away a life true made<br>As to put metal in restrained moulds,<br>To make a false one. |
+| [[characters/isabella\|ISABELLA]] | ’Tis set down so in heaven, but not in earth. |
+| [[characters/angelo\|ANGELO]] | Say you so? Then I shall pose you quickly.<br>Which had you rather: that the most just law<br>Now took your brother’s life, or, to redeem him,<br>Give up your [[concepts/body\|body]] to such sweet uncleanness<br>As she that he hath stained? |
+| [[characters/isabella\|ISABELLA]] | Sir, believe this.<br>I had rather give my [[concepts/body\|body]] than my [[motifs/soul\|soul]]. |
+| [[characters/angelo\|ANGELO]] | I talk not of your [[motifs/soul\|soul]]. Our compelled sins<br>Stand more for number than for account. |
+| [[characters/isabella\|ISABELLA]] | How say you? |
+| [[characters/angelo\|ANGELO]] | Nay, I’ll not warrant that, for I can speak<br>Against the thing I say. Answer to this.<br>I now, the voice of the recorded law,<br>Pronounce a sentence on your brother’s life.<br>Might there not be a [[concepts/charity\|charity]] in sin<br>To save this brother’s life? |
+| [[characters/isabella\|ISABELLA]] | Please you to do’t,<br>I’ll take it as a peril to my [[motifs/soul\|soul]]<br>It is no sin at all, but [[concepts/charity\|charity]]. |
+| [[characters/angelo\|ANGELO]] | Pleased you to do’t at peril of your [[motifs/soul\|soul]]<br>Were equal poise of sin and [[concepts/charity\|charity]]. |
+| [[characters/isabella\|ISABELLA]] | That I do beg his life, if it be sin,<br>Heaven let me bear it. You granting of my suit,<br>If that be sin, I’ll make it my morn [[motifs/prayer\|prayer]]<br>To have it added to the faults of mine,<br>And nothing of your answer. |
+| [[characters/angelo\|ANGELO]] | Nay, but hear me.<br>Your sense pursues not mine. Either you are ignorant,<br>Or seem so craftily, and that’s not good. |
+| [[characters/isabella\|ISABELLA]] | Let me be ignorant, and in nothing good<br>But graciously to know I am no better. |
+| [[characters/angelo\|ANGELO]] | Thus wisdom wishes to appear most bright<br>When it doth tax itself: as these black masks<br>Proclaim an enshield [[concepts/beauty\|beauty]] ten times louder<br>Than [[concepts/beauty\|beauty]] could, displayed. But mark me.<br>To be received plain, I’ll speak more gross.<br>Your brother is to die. |
+| [[characters/isabella\|ISABELLA]] | So. |
+| [[characters/angelo\|ANGELO]] | And his offence is so, as it appears,<br>Accountant to the law upon that [[motifs/pain\|pain]]. |
+| [[characters/isabella\|ISABELLA]] | True. |
+| [[characters/angelo\|ANGELO]] | Admit no other way to save his life—<br>As I subscribe not that nor any other—<br>But, in the loss of question, that you his sister,<br>Finding yourself desired of such a person<br>Whose credit with the judge, or own great place,<br>Could fetch your brother from the manacles<br>Of the all-binding law, and that there were<br>No earthly mean to save him, but that either<br>You must lay down the treasures of your [[concepts/body\|body]]<br>To this supposed, or else to let him suffer—<br>What would you do? |
+| [[characters/isabella\|ISABELLA]] | As much for my poor brother as myself.<br>That is, were I under the terms of [[motifs/death\|death]],<br>Th’impression of keen whips I’d wear as rubies,<br>And strip myself to [[motifs/death\|death]] as to a bed<br>That [[concepts/longing\|longing]] have been sick for, ere I’d yield<br>My [[concepts/body\|body]] up to shame. |
+| [[characters/angelo\|ANGELO]] | Then must your brother die. |
+| [[characters/isabella\|ISABELLA]] | And ’twere the cheaper way.<br>Better it were a brother died at once<br>Than that a sister, by redeeming him,<br>Should die for ever. |
+| [[characters/angelo\|ANGELO]] | Were not you then as cruel as the sentence<br>That you have slandered so? |
+| [[characters/isabella\|ISABELLA]] | Ignominy in ransom and free pardon<br>Are of two houses; lawful [[concepts/mercy\|mercy]]<br>Is nothing kin to foul redemption. |
+| [[characters/angelo\|ANGELO]] | You seemed of late to make the law a [[archetypes/tyrant\|tyrant]],<br>And rather proved the sliding of your brother<br>A merriment than a vice. |
+| [[characters/isabella\|ISABELLA]] | O pardon me, my lord. It oft falls out<br>To have what we would have, we speak not what we<br>mean.<br>I something do excuse the thing I hate<br>For his advantage that I dearly [[motifs/love\|love]]. |
+| [[characters/angelo\|ANGELO]] | We are all frail. |
+| [[characters/isabella\|ISABELLA]] | Else let my brother die—<br>If not a federy, but only he,<br>Owe and succeed thy weakness. |
+| [[characters/angelo\|ANGELO]] | Nay, women are frail too. |
+| [[characters/isabella\|ISABELLA]] | Ay, as the glasses where they view themselves,<br>Which are as easy broke as they make forms.<br>Women? Help, heaven! Men their creation mar<br>In profiting by them. Nay, call us ten times frail,<br>For we are soft as our complexions are,<br>And credulous to false prints. |
+| [[characters/angelo\|ANGELO]] | I think it [[motifs/well\|well]],<br>And from this testimony of your own sex,<br>Since I suppose we are made to be no stronger<br>Than faults may shake our frames, let me be bold.<br>I do arrest your words. Be that you are;<br>That is, a woman. If you be more, you’re none.<br>If you be one, as you are [[motifs/well\|well]] expressed<br>By all external warrants, show it now,<br>By putting on the destined livery. |
+| [[characters/isabella\|ISABELLA]] | I have no tongue but one. Gentle my lord,<br>Let me entreat you speak the former language. |
+| [[characters/angelo\|ANGELO]] | Plainly conceive, I [[motifs/love\|love]] you. |
+| [[characters/isabella\|ISABELLA]] | My brother did [[motifs/love\|love]] [[characters/juliet\|Juliet]],<br>And you tell me that he shall die for it. |
+| [[characters/angelo\|ANGELO]] | He shall not, Isabel, if you give me [[motifs/love\|love]]. |
+| [[characters/isabella\|ISABELLA]] | I know your virtue hath a licence in’t,<br>Which seems a little fouler than it is,<br>To pluck on others. |
+| [[characters/angelo\|ANGELO]] | Believe me, on mine [[concepts/honour\|honour]],<br>My words express my purpose. |
+| [[characters/isabella\|ISABELLA]] | Ha, little [[concepts/honour\|honour]] to be much believed,<br>And most pernicious purpose! Seeming, seeming!<br>I will proclaim thee, [[characters/angelo\|Angelo]]; look for’t.<br>Sign me a present pardon for my brother,<br>Or with an outstretched throat I’ll tell the world aloud<br>What man thou art. |
+| [[characters/angelo\|ANGELO]] | Who will believe thee, Isabel?<br>My unsoiled name, th‘austereness of my life,<br>My vouch against you, and my place i’th’ state,<br>Will so your accusation overweigh<br>That you shall stifle in your own report,<br>And smell of calumny. I have begun,<br>And now I give my sensual race the rein.<br>Fit thy consent to my sharp appetite.<br>Lay by all nicety and prolixious blushes<br>That banish what they sue for. Redeem thy brother<br>By yielding up thy [[concepts/body\|body]] to my will,<br>Or else he must not only die the [[motifs/death\|death]],<br>But thy unkindness shall his [[motifs/death\|death]] draw out<br>To ling‘ring sufferance. Answer me tomorrow,<br>Or by the affection that now guides me most,<br>I’ll prove a [[archetypes/tyrant\|tyrant]] to him. As for you,<br>Say what you can, my false o’erweighs your true. |
+| *(didascalia)* | Exit |
+| [[characters/isabella\|ISABELLA]] | To whom should I complain? Did I tell this,<br>Who would believe me? O perilous mouths,<br>That bear in them one and the selfsame tongue<br>Either of condemnation or approof,<br>Bidding the law make curtsy to their will,<br>Hooking both right and wrong to th’appetite,<br>To follow as it draws! I’ll to my brother.<br>Though he hath fall’n by prompture of the [[motifs/blood\|blood]],<br>Yet hath he in him such a mind of [[concepts/honour\|honour]]<br>That had he twenty heads to tender down<br>On twenty bloody blocks, he’d yield them up<br>Before his sister should her [[concepts/body\|body]] stoop<br>To such abhorred pollution.<br>Then Isabel live chaste, and brother die:<br>More than our brother is our chastity.<br>I’ll tell him yet of [[characters/angelo\|Angelo]]’s request,<br>And fit his mind to [[motifs/death\|death]], for his [[motifs/soul\|soul]]’s rest. |
+| *(didascalia)* | Exit |
+
+### Atto 3, Scena 1
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter the Duke, disguised as a friar, [[characters/claudio\|Claudio]], and the Provost |
+| DUKE | So then you [[concepts/hope\|hope]] of pardon from Lord [[characters/angelo\|Angelo]]? |
+| [[characters/claudio\|CLAUDIO]] | The miserable have no other medicine<br>But only [[concepts/hope\|hope]].<br>I’ve [[concepts/hope\|hope]] to live, and am prepared to die. |
+| DUKE | Be absolute for [[motifs/death\|death]]. Either [[motifs/death\|death]] or life<br>Shall thereby be the sweeter. Reason thus with life.<br>If I do lose thee, I do lose a thing<br>That none but fools would keep. A breath thou art,<br>Servile to all the skyey influences<br>That dost this habitation where thou keep‘st<br>Hourly afflict. Merely thou art [[motifs/death\|death]]’s [[archetypes/fool\|fool]],<br>For him thou labour’st by thy flight to shun,<br>And yet runn‘st toward him still. Thou art not noble,<br>For all th’accommodations that thou bear’t<br>Are nursed by baseness. Thou’rt by no means valiant,<br>For thou dost [[concepts/fear\|fear]] the soft and tender fork<br>Of a poor worm. Thy best of rest is [[motifs/sleep\|sleep]],<br>And that thou oft provok‘st, yet grossly [[concepts/fear\|fear]]’st<br>Thy [[motifs/death\|death]], which is no more. Thou art not thyself,<br>For thou exist‘st on many a thousand grains<br>That issue out of [[motifs/dust\|dust]]. Happy thou art not,<br>For what thou hast not, still thou striv’st to get,<br>And what thou hast, forget‘st. Thou art not certain,<br>For thy complexion shifts to strange effects<br>After the [[motifs/moon\|moon]]. If thou art rich, thou’rt poor,<br>For like an ass whose back with ingots bows,<br>Thou bear’st thy heavy riches but a [[motifs/journey\|journey]],<br>And [[motifs/death\|death]] unloads thee. Friend hast thou none,<br>For thine own bowels, which do call thee sire,<br>The mere effusion of thy proper loins,<br>Do curse the gout, serpigo, and the rheum,<br>For ending thee no sooner. Thou hast nor youth nor<br>age,<br>But as it were an after-dinner’s [[motifs/sleep\|sleep]]<br>Dreaming on both; for all thy blessed youth<br>Becomes as aged, and doth beg the alms<br>Of palsied eld; and when thou art old and rich,<br>Thou hast neither heat, affection, limb, nor [[concepts/beauty\|beauty]],<br>To make thy riches pleasant. What’s in this<br>That bears the name of life? Yet in this life<br>Lie hid more thousand deaths; yet [[motifs/death\|death]] we [[concepts/fear\|fear]]<br>That makes these odds all even. |
+| [[characters/claudio\|CLAUDIO]] | I humbly thank you.<br>To sue to live, I find I seek to die,<br>And seeking [[motifs/death\|death]], find life. Let it come on. |
+| [[characters/isabella\|ISABELLA]] | (within)<br>What ho! Peace here, grace, and good company! |
+| PROVOST | Who’s there? Come in; the wish deserves a welcome. |
+| DUKE | (to [[characters/claudio\|Claudio]])<br>Dear sir, ere long I’ll visit you again. |
+| [[characters/claudio\|CLAUDIO]] | Most holy sir, I thank you. |
+| *(didascalia)* | Enter [[characters/isabella\|Isabella]] |
+| [[characters/isabella\|ISABELLA]] | My business is a word or two with [[characters/claudio\|Claudio]]. |
+| PROVOST | And very welcome. Look, signor, here’s your sister. |
+| DUKE | Provost, a word with you. |
+| PROVOST | As many as you please.<br>The Duke and Provost draw aside |
+| DUKE | Bring me to hear them speak where I may be<br>concealed.<br>They conceal themselves |
+| [[characters/claudio\|CLAUDIO]] | Now sister, what’s the comfort? |
+| [[characters/isabella\|ISABELLA]] | Why, as all comforts are: most good, most good<br>indeed.<br>Lord [[characters/angelo\|Angelo]], having affairs to heaven,<br>Intends you for his swift ambassador,<br>Where you shall be an everlasting leiger.<br>Therefore your best appointment make with [[characters/speed\|speed]].<br>Tomorrow you set on. |
+| [[characters/claudio\|CLAUDIO]] | Is there no remedy? |
+| [[characters/isabella\|ISABELLA]] | None but such remedy as, to save a head,<br>To cleave a heart in twain. |
+| [[characters/claudio\|CLAUDIO]] | But is there any? |
+| [[characters/isabella\|ISABELLA]] | Yes, brother, you may live.<br>There is a devilish [[concepts/mercy\|mercy]] in the judge,<br>If you’ll implore it, that will free your life,<br>But fetter you till [[motifs/death\|death]]. |
+| [[characters/claudio\|CLAUDIO]] | Perpetual durance? |
+| [[characters/isabella\|ISABELLA]] | Ay, just, perpetual durance; a restraint,<br>Though all the world’s vastidity you had,<br>To a determined scope. |
+| [[characters/claudio\|CLAUDIO]] | But in what [[concepts/nature\|nature]]? |
+| [[characters/isabella\|ISABELLA]] | In such a one as you consenting to’t<br>Would bark your [[concepts/honour\|honour]] from that trunk you bear,<br>And leave you naked. |
+| [[characters/claudio\|CLAUDIO]] | Let me know the point. |
+| [[characters/isabella\|ISABELLA]] | O, I do [[concepts/fear\|fear]] thee, [[characters/claudio\|Claudio]], and I quake<br>Lest thou a feverous life shouldst entertain,<br>And six or seven winters more respect<br>Than a perpetual [[concepts/honour\|honour]]. Dar’st thou die?<br>The sense of [[motifs/death\|death]] is most in apprehension,<br>And the poor beetle that we tread upon<br>In corporal sufferance finds a pang as great<br>As when a giant dies. |
+| [[characters/claudio\|CLAUDIO]] | Why give you me this shame?<br>Think you I can a resolution fetch<br>From flow’ry tenderness? If I must die,<br>I will encounter darkness as a bride,<br>And hug it in mine arms. |
+| [[characters/isabella\|ISABELLA]] | There spake my brother; there my father’s [[motifs/grave\|grave]]<br>Did utter forth a voice. Yes, thou must die.<br>Thou art too noble to conserve a life<br>In base appliances. This outward-sainted deputy,<br>Whose settled visage and deliberate word<br>Nips youth i’th’ head and follies doth enew<br>As falcon doth the fowl, is yet a devil.<br>His filth within being cast, he would appear<br>A pond as deep as hell. |
+| [[characters/claudio\|CLAUDIO]] | The precise [[characters/angelo\|Angelo]]? |
+| [[characters/isabella\|ISABELLA]] | O, ‘tis the cunning livery of hell<br>The damnedest [[concepts/body\|body]] to invest and cover<br>In precise guards! Dost thou think, [[characters/claudio\|Claudio]]:<br>If I would yield him my virginity,<br>Thou might’st be freed! |
+| [[characters/claudio\|CLAUDIO]] | O heavens, it cannot be! |
+| [[characters/isabella\|ISABELLA]] | Yes, he would give’t thee, from this rank offence,<br>So to offend him still. This [[motifs/night\|night]]’s the [[motifs/time\|time]]<br>That I should do what I abhor to name,<br>Or else thou diest tomorrow. |
+| [[characters/claudio\|CLAUDIO]] | Thou shalt not do’t. |
+| [[characters/isabella\|ISABELLA]] | O, were it but my life,<br>I’d throw it down for your deliverance<br>As frankly as a pin. |
+| [[characters/claudio\|CLAUDIO]] | Thanks, dear Isabel. |
+| [[characters/isabella\|ISABELLA]] | Be ready, [[characters/claudio\|Claudio]], for your [[motifs/death\|death]] tomorrow. |
+| [[characters/claudio\|CLAUDIO]] | Yes. Has he affections in him<br>That thus can make him bite the law by th’ nose<br>When he would force it? Sure it is no sin,<br>Or of the deadly seven it is the least. |
+| [[characters/isabella\|ISABELLA]] | Which is the least? |
+| [[characters/claudio\|CLAUDIO]] | If it were damnable, he being so wise,<br>Why would he for the momentary trick<br>Be perdurably fined? O Isabel! |
+| [[characters/isabella\|ISABELLA]] | What says my brother? |
+| [[characters/claudio\|CLAUDIO]] | [[motifs/death\|Death]] is a fearful thing. |
+| [[characters/isabella\|ISABELLA]] | And shamed life a hateful. |
+| [[characters/claudio\|CLAUDIO]] | Ay, but to die, and go we know not where;<br>To lie in cold obstruction, and to rot;<br>This sensible warm motion to become<br>A kneaded clod, and the dilated spirit<br>To bathe in fiery floods, or to reside<br>In thrilling region of thick-ribbed ice;<br>To be imprisoned in the viewless winds,<br>And blown with restless violence round about<br>The pendent world; or to be worse than worst<br>Of those that lawless and incertain thought<br>Imagine howling—’tis too horrible!<br>The weariest and most loathed worldly life<br>That age, ache, penury, and [[concepts/imprisonment\|imprisonment]]<br>Can lay on [[concepts/nature\|nature]] is a paradise<br>To what we [[concepts/fear\|fear]] of [[motifs/death\|death]]. |
+| [[characters/isabella\|ISABELLA]] | Alas, alas! |
+| [[characters/claudio\|CLAUDIO]] | Sweet sister, let me live.<br>What sin you do to save a brother’s life,<br>[[concepts/nature\|Nature]] dispenses with the deed so far<br>That it becomes a virtue. |
+| [[characters/isabella\|ISABELLA]] | O, you beast!<br>O faithless coward, O dishonest wretch,<br>Wilt thou be made a man out of my vice?<br>Is’t not a kind of incest to take life<br>From thine own sister’s shame? What should I think?<br>Heaven shield my mother played my father fair,<br>For such a warped slip of wilderness<br>Ne’er issued from his [[motifs/blood\|blood]]. Take my defiance,<br>Die, perish! Might but my bending down<br>Reprieve thee from thy fate, it should proceed.<br>I’ll pray a thousand prayers for thy [[motifs/death\|death]],<br>No word to save thee. |
+| [[characters/claudio\|CLAUDIO]] | Nay, hear me, Isabel. |
+| [[characters/isabella\|ISABELLA]] | O fie, fie, fie!<br>Thy sin’s not accidental, but a trade.<br>[[concepts/mercy\|Mercy]] to thee would prove itself a bawd.<br>’Tis best that thou diest quickly.<br>She parts from<br>[[characters/claudio\|Claudio]] |
+| [[characters/claudio\|CLAUDIO]] | O hear me, [[characters/isabella\|Isabella]]. |
+| DUKE | (coming forward to [[characters/isabella\|Isabella]]) Vouchsafe a word, young sister, but one word. |
+| [[characters/isabella\|ISABELLA]] | What is your will? |
+| DUKE | Might you dispense with your leisure, I would by and by have some speech with you. The satisfaction I would require is likewise your own benefit. |
+| [[characters/isabella\|ISABELLA]] | I have no superfluous leisure; my stay must be stolen out of other affairs; but I will attend you a while. |
+| DUKE | standing aside with [[characters/claudio\|Claudio]] Son, I have overheard what hath passed between you and your sister. [[characters/angelo\|Angelo]] had never the purpose to corrupt her; only he hath made an assay of her virtue, to practise his judgement with the disposition of natures. She, having the [[concepts/truth\|truth]] of [[concepts/honour\|honour]] in her, hath made him that gracious denial which he is most glad to receive. I am confessor to [[characters/angelo\|Angelo]], and I know this to be true. Therefore prepare yourself to [[motifs/death\|death]]. Do not falsify your resolution with hopes that are fallible. Tomorrow you must die. Go to your knees and make ready. |
+| [[characters/claudio\|CLAUDIO]] | Let me ask my sister pardon. I am so out of [[motifs/love\|love]] with life that I will sue to be rid of it. |
+| DUKE | Hold you there. Farewell. |
+| *(didascalia)* | [[characters/claudio\|Claudio]] joins [[characters/isabella\|Isabella]] |
+| DUKE | Provost, a word with you. |
+| PROVOST | (coming forward) What’s your will, father? |
+| DUKE | That now you are come, you will be gone. Leave me a while with the maid. My mind promises with my habit no loss shall touch her by my company. |
+| PROVOST | In good [[motifs/time\|time]]. Exit with [[characters/claudio\|Claudio]] |
+| DUKE | The hand that hath made you fair hath made you good. The goodness that is cheap in [[concepts/beauty\|beauty]] makes [[concepts/beauty\|beauty]] brief in goodness; but grace, being the [[motifs/soul\|soul]] of your complexion, shall keep the [[concepts/body\|body]] of it ever fair. The assault that [[characters/angelo\|Angelo]] hath made to you fortune hath conveyed to my understanding; and but that frailty hath examples for his falling, I should [[concepts/wonder\|wonder]] at [[characters/angelo\|Angelo]]. How will you do to content this substitute, and to save your brother? |
+| [[characters/isabella\|ISABELLA]] | I am now going to resolve him. I had rather my brother die by the law than my son should be unlawfully born. But O, how much is the good Duke deceived in [[characters/angelo\|Angelo]]! If ever he return and I can speak to him, I will open my lips in vain, or discover his [[government]]. |
+| DUKE | That shall not be much amiss. Yet as the matter now stands, he will avoid your accusation: he made trial of you only. Therefore fasten your ear on my advisings. To the [[motifs/love\|love]] I have in doing good, a remedy presents itself. I do make myself believe that you may most uprighteously do a poor wronged lady a merited benefit, redeem your brother from the angry law, do no stain to your own gracious person, and much please the absent Duke, if peradventure he shall ever return to have hearing of this business. |
+| [[characters/isabella\|ISABELLA]] | Let me hear you speak farther. I have spirit to do anything that appears not foul in the [[concepts/truth\|truth]] of my spirit. |
+| DUKE | Virtue is bold, and goodness never fearful. Have you not heard speak of [[characters/mariana\|Mariana]], the sister of Frederick, the great soldier who miscarried at sea? |
+| [[characters/isabella\|ISABELLA]] | I have heard of the lady, and good words went with her name. |
+| DUKE | She should this [[characters/angelo\|Angelo]] have married, was affianced to her oath, and the nuptial appointed; between which [[motifs/time\|time]] of the contract and limit of the solemnity, her brother Frederick was wrecked at sea, having in that perished vessel the dowry of his sister. But mark how heavily this befell to the poor gentlewoman. There she lost a noble and renowned brother, in his [[motifs/love\|love]] toward her ever most kind and natural; with him, the portion and sinew of her fortune, her [[motifs/marriage\|marriage]] dowry; with both, her combinate husband, this [[motifs/well\|well]]-seeming [[characters/angelo\|Angelo]]. |
+| [[characters/isabella\|ISABELLA]] | Can this be so? Did [[characters/angelo\|Angelo]] so leave her? |
+| DUKE | Left her in her [[motifs/tears\|tears]], and dried not one of them with his comfort; swallowed his vows whole, pretending in her discoveries of dishonour; in few, bestowed her on her own lamentation, which she yet wears for his sake; and he, a marble to her [[motifs/tears\|tears]], is washed with them, but relents not. |
+| [[characters/isabella\|ISABELLA]] | What a merit were it in [[motifs/death\|death]] to take this poor maid from the world! What corruption in this life, that it will let this man live! But how out of this can she avail? |
+| DUKE | It is a rupture that you may easily heal, and the cure of it not only saves your brother, but keeps you from dishonour in doing it. |
+| [[characters/isabella\|ISABELLA]] | Show me how, good father. |
+| DUKE | This forenamed maid hath yet in her the continuance of her first affection. His unjust unkindness, that in all reason should have quenched her [[motifs/love\|love]], hath, like an impediment in the current, made it more violent and unruly. Go you to [[characters/angelo\|Angelo]], answer his requiring with a plausible obedience, agree with his demands to the point; only refer yourself to this advantage: first, that your stay with him may not be long; that the [[motifs/time\|time]] may have all [[archetypes/shadow\|shadow]] and [[motifs/silence\|silence]] in it; and the place answer to convenience. This being granted in course, and now follows all. We shall advise this wronged maid to stead up your appointment, go in your place. If the encounter acknowledge itself hereafter, it may compel him to her recompense; and hear, by this is your brother saved, your [[concepts/honour\|honour]] untainted, the poor [[characters/mariana\|Mariana]] advantaged, and the corrupt deputy scaled. The maid will I frame and make fit for his attempt. If you think [[motifs/well\|well]] to carry this, as you may, the doubleness of the benefit defends the deceit from reproof. What think you of it? |
+| [[characters/isabella\|ISABELLA]] | The image of it gives me content already, and I trust it will grow to a most prosperous perfection. |
+| DUKE | It lies much in your holding up. Haste you speedily to [[characters/angelo\|Angelo]]. If for this [[motifs/night\|night]] he entreat you to his bed, give him promise of satisfaction. I will presently to Saint Luke’s; there at the moated grange resides this dejected [[characters/mariana\|Mariana]]. At that place call upon me; and dispatch with [[characters/angelo\|Angelo]], that it may be quickly. |
+| [[characters/isabella\|ISABELLA]] | I thank you for this comfort. Fare you [[motifs/well\|well]], good father. |
+| *(didascalia)* | Exit |
+| *(didascalia)* | Enter Elbow, Clown, and officers |
+| ELBOW | Nay, if there be no remedy for it but that you will needs buy and sell men and women like beasts, we shall have all the world drink brown and white bastard. |
+| DUKE | O heavens, what stuff is here? |
+| [[characters/pompey\|POMPEY]] | ’Twas never merry world since, of two usuries, the merriest was put down, and the worser allowed by order of law, a furred gown to keep him warm—and furred with fox on lambskins too, to signify that craft, being richer than innocency, stands for the facing. |
+| ELBOW | Come your way, sir.—Btess you, good father friar. |
+| DUKE | And you, good brother father. What offence hath this man made you, sir? |
+| ELBOW | Marry, sir, he hath offended the law; and, sir, we take him to be a thief, too, sir, for we have found upon him, sir, a strange picklock, which we have sent to the deputy. |
+| DUKE | (to [[characters/pompey\|Pompey]])<br>Fie, sirrah, a bawd, a wicked bawd!<br>The evil that thou causest to be done,<br>That is thy means to live. Do thou but think<br>What ‘tis to cram a maw or clothe a back<br>From such a filthy vice. Say to thyself,<br>’From their abominable and beastly touches<br>I drink, I eat, array myself, and live’.<br>Canst thou believe thy living is a life,<br>So stinkingly depending? Go mend, go mend. |
+| [[characters/pompey\|POMPEY]] | Indeed it does stink in some sort, sir. But yet, sir, I would prove— |
+| DUKE | Nay, if the devil have given thee proofs for sin,<br>Thou wilt prove his.—Take him to [[motifs/prison\|prison]], officer.<br>Correction and instruction must both work<br>Ere this rude beast will profit. |
+| ELBOW | He must before the deputy, sir; he has given him warning. The deputy cannot abide a whoremaster. If he be a whoremonger and comes before him, he were as good go a mile on his errand. |
+| DUKE | That we were all as some would seem to be-<br>Free from our faults, or faults from seeming free. |
+| ELBOW | His neck will come to your waist: a cord, sir. |
+| *(didascalia)* | Enter [[characters/lucio\|Lucio]] |
+| [[characters/pompey\|POMPEY]] | I spy comfort, I cry bail. Here’s a gentleman, and a friend of mine. |
+| [[characters/lucio\|LUCIO]] | How now, noble [[characters/pompey\|Pompey]]? What, at the wheels of Caesar? Art thou led in triumph? What, is there none of Pygmalion’s images newly made woman to be had now, for putting the hand in the pocket and extracting clutched? What reply, ha? What sayst thou to this tune, matter, and method? Is’t not drowned i’th’ last rain, ha? What sayst thou, trot? Is the world as it was, man? Which is the way? Is it sad and few words? Or how? The trick of it? |
+| DUKE | Still thus and thus; still worse! |
+| [[characters/lucio\|LUCIO]] | How doth my dear morsel thy mistress? Procures she still, ha? |
+| [[characters/pompey\|POMPEY]] | Troth, sir, she hath eaten up all her beef, and she is herself in the tub. |
+| [[characters/lucio\|LUCIO]] | Why, ’tis good, it is the right of it, it must be so. Ever your fresh whore and your powdered bawd; an unshunned consequence, it must be so. Art going to [[motifs/prison\|prison]], [[characters/pompey\|Pompey]]? |
+| [[characters/pompey\|POMPEY]] | Yes, [[concepts/faith\|faith]], sir. |
+| [[characters/lucio\|LUCIO]] | Why ’tis not amiss, [[characters/pompey\|Pompey]]. Farewell. Go; say I sent thee thither. For debt, [[characters/pompey\|Pompey]], or how? |
+| ELBOW | For being a bawd, for being a bawd. |
+| [[characters/lucio\|LUCIO]] | [[motifs/well\|Well]] then, imprison him. If [[concepts/imprisonment\|imprisonment]] be the due of a bawd, why, ’tis his right. Bawd is he doubtless, and of antiquity too—bawd born. Farewell, good [[characters/pompey\|Pompey]]. Commend me to the [[motifs/prison\|prison]], [[characters/pompey\|Pompey]]. You will turn good husband now, [[characters/pompey\|Pompey]]; you will keep the [[house]]. |
+| [[characters/pompey\|POMPEY]] | I [[concepts/hope\|hope]], sir, your good worship will be my bail? |
+| [[characters/lucio\|LUCIO]] | No, indeed, will I not, [[characters/pompey\|Pompey]]; it is not the wear. I will pray, [[characters/pompey\|Pompey]], to increase your bondage. If you take it not patiently, why, your mettle is the more. Adieu, trusty [[characters/pompey\|Pompey]].—Bless you, friar. |
+| DUKE | And you. |
+| [[characters/lucio\|LUCIO]] | Does Bridget paint still, [[characters/pompey\|Pompey]], ha? |
+| ELBOW | (to [[characters/pompey\|Pompey]]) Come your ways, sir, come. |
+| [[characters/pompey\|POMPEY]] | (to [[characters/lucio\|Lucio]]) You will not bail me then, sir? |
+| [[characters/lucio\|LUCIO]] | Then, [[characters/pompey\|Pompey]], nor now.—What news abroad, friar, what news? |
+| ELBOW | (to [[characters/pompey\|Pompey]]) Come your ways, sir, come. |
+| [[characters/lucio\|LUCIO]] | Go to kennel, [[characters/pompey\|Pompey]], go. |
+| *(didascalia)* | Exeunt Elbow, [[characters/pompey\|Pompey]], and officers |
+| [[characters/lucio\|LUCIO]] | What news, friar, of the Duke? |
+| DUKE | I know none. Can you tell me of any? |
+| [[characters/lucio\|LUCIO]] | Some say he is with the Emperor of [[settings/russia\|Russia]]; other some, he is in Rome. But where is he, think you? |
+| DUKE | I know not where; but wheresoever, I wish him [[motifs/well\|well]]. |
+| [[characters/lucio\|LUCIO]] | It was a mad, fantastical trick of him to steal from the state, and usurp the beggary he was never born to. Lord [[characters/angelo\|Angelo]] dukes it [[motifs/well\|well]] in his absence; he puts transgression to’t. 361 |
+| DUKE | He does [[motifs/well\|well]] in’t. |
+| [[characters/lucio\|LUCIO]] | A little more lenity to lechery would do no harm in him. Something too crabbed that way, friar. |
+| DUKE | It is too general a vice, and severity must cure it. |
+| [[characters/lucio\|LUCIO]] | Yes, in good sooth, the vice is of a great kindred, it is [[motifs/well\|well]] allied. But it is impossible to extirp it quite, friar, till eating and drinking be put down. They say this [[characters/angelo\|Angelo]] was not made by man and woman, after this downright way of creation. Is it true, think you? |
+| DUKE | How should he be made, then? |
+| [[characters/lucio\|LUCIO]] | Some report a sea-maid spawned him, some that he was begot between two stockfishes. But it is certain that when he makes [[motifs/water\|water]] his urine is congealed ice; that I know to be true. And he is a motion ungenerative; that’s infallible. |
+| DUKE | You are pleasant, sir, and speak apace. |
+| [[characters/lucio\|LUCIO]] | Why, what a ruthless thing is this in him, for the rebellion of a codpiece to take away the life of a man! Would the Duke that is absent have done this? Ere he would have hanged a man for the getting a hundred bastards, he would have paid for the nursing a thousand. He had some feeling of the sport, he knew the service, and that instructed him to [[concepts/mercy\|mercy]]. |
+| DUKE | I never heard the absent Duke much detected for women; he was not inclined that way. |
+| [[characters/lucio\|LUCIO]] | O sir, you are deceived. |
+| DUKE | ’Tis not possible. |
+| [[characters/lucio\|LUCIO]] | Who, not the Duke? Yes, your beggar of fifty; and his use was to put a ducat in her clack-dish. The Duke had crochets in him. He would be drunk too, that let me inform you. |
+| DUKE | You do him wrong, surely. |
+| [[characters/lucio\|LUCIO]] | Sir, I was an inward of his. A shy fellow was the Duke, and I believe I know the cause of his withdrawing. |
+| DUKE | What, I prithee, might be the cause? |
+| [[characters/lucio\|LUCIO]] | No, pardon, ’tis a secret must be locked within the teeth and the lips. But this I can let you understand. The greater file of the subject held the Duke to be wise. |
+| DUKE | Wise? Why, no question but he was. |
+| [[characters/lucio\|LUCIO]] | A very superficial, ignorant, unweighing fellow. |
+| DUKE | Either this is envy in you, folly, or mistaking. The very stream of his life, and the business he hath helmed, must, upon a warranted need, give him a better proclamation. Let him be but testimonied in his own bringings-forth, and he shall appear to the envious a scholar, a statesman, and a soldier. Therefore you speak unskilfully, or, if your knowledge be more, it is much darkened in your malice. |
+| [[characters/lucio\|LUCIO]] | Sir, I know him and I [[motifs/love\|love]] him. 410 |
+| DUKE | [[motifs/love\|Love]] talks with better knowledge, and knowledge with dearer [[motifs/love\|love]]. |
+| [[characters/lucio\|LUCIO]] | Come, sir, I know what I know. |
+| DUKE | I can hardly believe that, since you know not what you speak. But if ever the Duke return, as our prayers are he may, let me [[motifs/desire\|desire]] you to make your answer before him. If it be honest you have spoke, you have [[concepts/courage\|courage]] to maintain it. I am bound to call upon you; and I pray you, your name? |
+| [[characters/lucio\|LUCIO]] | Sir, my name is [[characters/lucio\|Lucio]], [[motifs/well\|well]] known to the Duke. |
+| DUKE | He shall know you better, sir, if I may live to report you. |
+| [[characters/lucio\|LUCIO]] | I [[concepts/fear\|fear]] you not. |
+| DUKE | O, you [[concepts/hope\|hope]] the Duke will return no more, or you imagine me too unhurtful an opposite. But indeed I can do you little harm; you’ll forswear this again. |
+| [[characters/lucio\|LUCIO]] | I’ll be hanged first. Thou art deceived in me, friar. But no more of this. Canst thou tell if [[characters/claudio\|Claudio]] die tomorrow or no? |
+| DUKE | Why should he die, sir? |
+| [[characters/lucio\|LUCIO]] | Why? For filling a bottle with a tundish. I would the Duke we talk of were returned again; this ungenitured agent will unpeople the province with continency. Sparrows must not build in his [[house]]-eaves, because they are lecherous. The Duke yet would have dark deeds darkly answered: he would never bring them to light. Would he were returned. Marry, this [[characters/claudio\|Claudio]] is condemned for untrussing. Farewell, good friar. I prithee pray for me. The Duke, I say to thee again, would eat mutton on Fridays. He’s not past it yet, and, I say to thee, he would mouth with a beggar, though she smelt brown bread and garlic. Say that I said so. Farewell. Exit |
+| DUKE | No might nor [[concepts/greatness\|greatness]] in [[concepts/mortality\|mortality]]<br>Can censure scape; back-wounding calumny<br>The whitest virtue strikes. What [[archetypes/king\|king]] so strong<br>Can tie the gall up in the slanderous tongue? |
+| *(didascalia)* | Enter [[characters/escalus\|Escalus]], the Provost, and Mistress Overdone |
+| DUKE | But who comes here? |
+| [[characters/escalus\|ESCALUS]] | (to the Provost) Go, away with her to [[motifs/prison\|prison]]. |
+| MISTRESS OVERDONE | Good my lord, be good to me. Your [[concepts/honour\|honour]] is accounted a merciful man, good my lord. |
+| [[characters/escalus\|ESCALUS]] | [[topoi/double\|Double]] and treble admonition, and still forfeit in the same kind! This would make [[concepts/mercy\|mercy]] swear and play the [[archetypes/tyrant\|tyrant]]. |
+| PROVOST | A bawd of eleven years’ continuance, may it please your [[concepts/honour\|honour]]. |
+| MISTRESS OVERDONE | My lord, this is one [[characters/lucio\|Lucio]]’s information against me. Mistress Kate Keepdown was with [[archetypes/child\|child]] by him in the Duke’s [[motifs/time\|time]]; he promised her [[motifs/marriage\|marriage]]. His [[archetypes/child\|child]] is a year and a quarter old come Philip and Jacob. I have kept it myself; and see how he goes about to abuse me. |
+| [[characters/escalus\|ESCALUS]] | That fellow is a fellow of much licence. Let him be called before us. Away with her to [[motifs/prison\|prison]]. Go to, no more words. Provost, my brother [[characters/angelo\|Angelo]] will not be altered; [[characters/claudio\|Claudio]] must die tomorrow. Let him be furnished with divines, and have all charitable preparation. If my brother wrought by my pity, it should not be so with him. |
+| PROVOST | So please you, this friar hath been with him and advised him for th’entertainment of [[motifs/death\|death]]. Exeunt Provost and Mistress Overdone |
+| [[characters/escalus\|ESCALUS]] | Good even, good father. |
+| DUKE | Bliss and goodness on you. |
+| [[characters/escalus\|ESCALUS]] | Of whence are you? |
+| DUKE | Not of this country, though my chance is now<br>To use it for my [[motifs/time\|time]]. I am a brother<br>Of gracious order, late come from the See<br>In special business from his Holiness. |
+| [[characters/escalus\|ESCALUS]] | What news abroad i’th’ world? |
+| DUKE | None, but that there is so great a fever on goodness that the dissolution of it must cure it. Novelty is only in request, and it is as dangerous to be aged in any kind of course as it is virtuous to be inconstant in any undertaking. There is scarce [[concepts/truth\|truth]] enough alive to make societies secure, but security enough to make fellowships accursed. Much upon this [[forms/riddle\|riddle]] runs the wisdom of the world. This news is old enough, yet it is every day’s news. I pray you, sir, of what disposition was the Duke? |
+| [[characters/escalus\|ESCALUS]] | One that, above all other strifes, contended especially to know himself. |
+| DUKE | What pleasure was he given to? |
+| [[characters/escalus\|ESCALUS]] | Rather rejoicing to see another merry than merry at anything which professed to make him rejoice; a gentleman of all temperance. But leave we him to his events, with a [[motifs/prayer\|prayer]] they may prove prosperous, and let me [[motifs/desire\|desire]] to know how you find [[characters/claudio\|Claudio]] prepared. I am made to understand that you have lent him visitation. |
+| DUKE | He professes to have received no sinister measure from his judge, but most willingly humbles himself to the determination of justice. Yet had he framed to himself, by the instruction of his frailty, many deceiving promises of life, which I, by my good leisure, have discredited to him; and now is he resolved to die. |
+| [[characters/escalus\|ESCALUS]] | You have paid the heavens your function, and the prisoner the very debt of your calling. I have laboured for the poor gentleman to the extremest shore of my modesty, but my brother-justice have I found so severe that he hath forced me to tell him he is indeed Justice. |
+| DUKE | If his own life answer the straitness of his proceeding, it shall become him [[motifs/well\|well]]; wherein if he chance to fail, he hath sentenced himself. |
+| [[characters/escalus\|ESCALUS]] | I am going to visit the prisoner. Fare you [[motifs/well\|well]]. |
+| DUKE | Peace be with you. Exit [[characters/escalus\|Escalus]]<br>He who the [[Sword\|sword]] of heaven will bear<br>Should be as holy as severe,<br>Pattern in himself to know,<br>Grace to stand, and virtue go,<br>More nor less to others paying<br>Than by [[concepts/self\|self]]-offences weighing.<br>Shame to him whose cruel striking<br>Kills for faults of his own liking!<br>Twice treble shame on [[characters/angelo\|Angelo]],<br>To weed my vice, and let his grow!<br>O, what may man within him hide,<br>Though angel on the outward side!<br>How may likeness made in crimes<br>Make my practice on the times<br>To draw with idle spiders’ strings<br>Most ponderous and substantial things?<br>Craft against vice I must apply.<br>With [[characters/angelo\|Angelo]] tonight shall lie<br>His old betrothed but despised.<br>So disguise shall, by th’ disguised,<br>Pay with falsehood false exacting,<br>And perform an old contracting. |
+| *(didascalia)* | Exit |
+
+### Atto 4, Scena 1
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | [[characters/mariana\|Mariana]] discoveredwith a Boy singing |
+| BOY | Take, O take those lips away<br>That so sweetly were forsworn,<br>And those eyes, the break of day<br>Lights that do mislead the morn;<br>But my kisses bring again, bring again,<br>Seals of [[motifs/love\|love]], though sealed in vain, sealed in vain. |
+| *(didascalia)* | Enter the Duke, disguised as a friar |
+| [[characters/mariana\|MARIANA]] | Break off thy [[Song\|song]], and haste thee quick away.<br>Here comes a man of comfort, whose advice<br>Hath often stilled my brawling discontent. Exit Boy<br>I cry you [[concepts/mercy\|mercy]], sir, and [[motifs/well\|well]] could wish io<br>You had not found me here so musical.<br>Let me excuse me, and believe me so:<br>My mirth it much displeased, but pleased my woe. |
+| DUKE | ’Tis good; though music oft hath such a charm<br>To make bad good, and good provoke to harm.<br>I pray you tell me, hath anybody enquired for me here<br>today? Much upon this [[motifs/time\|time]] have I promised here to<br>meet. |
+| [[characters/mariana\|MARIANA]] | You have not been enquired after; I have sat here all day. |
+| *(didascalia)* | Enter |
+| [[characters/mariana\|MARIANA]] | [[characters/isabella\|Isabella]] |
+| DUKE | I do constantly believe you; the [[motifs/time\|time]] is come even now. I shall crave your forbearance a little. Maybe I will call upon you anon, for some advantage to yourself. |
+| [[characters/mariana\|MARIANA]] | I am always bound to you. |
+| *(didascalia)* | Exit |
+| DUKE | Very [[motifs/well\|well]] met, and welcome.<br>What is the news from this good deputy? |
+| [[characters/isabella\|ISABELLA]] | He hath a [[motifs/garden\|garden]] circummured with brick,<br>Whose western side is with a vineyard backed;<br>And to that vineyard is a planked gate,<br>That makes his opening with this bigger key.<br>This other doth command a little door<br>Which from the vineyard to the [[motifs/garden\|garden]] leads.<br>There have I made my promise<br>Upon the heavy middle of the [[motifs/night\|night]]<br>To call upon him. |
+| DUKE | But shall you on your knowledge find this way? |
+| [[characters/isabella\|ISABELLA]] | I have ta‘en a due and wary note upon’t.<br>With whispering and most guilty diligence,<br>In action all of precept, he did show me<br>The way twice o’er. |
+| DUKE | Are there no other tokens<br>Between you ’[[concepts/greed\|greed]] concerning her observance? |
+| [[characters/isabella\|ISABELLA]] | No, none, but only a repair i’th’ dark,<br>And that I have possessed him my most stay<br>Can be but brief, for I have made him know<br>I have a servant comes with me along<br>That stays upon me, whose [[Persuasion\|persuasion]] is<br>I come about my brother. |
+| DUKE | ’Tis [[motifs/well\|well]] borne up.<br>I have not yet made known to [[characters/mariana\|Mariana]]<br>A word of this.—What ho, within! Come forth! |
+| *(didascalia)* | Enter [[characters/mariana\|Mariana]] |
+| DUKE | (To [[characters/mariana\|Mariana]]) I pray you be acquainted with this maid.<br>She comes to do you good. |
+| [[characters/isabella\|ISABELLA]] | I do [[motifs/desire\|desire]] the like. |
+| DUKE | (to [[characters/mariana\|Mariana]])<br>Do you persuade yourself that I respect you? |
+| [[characters/mariana\|MARIANA]] | Good friar, I know you do, and so have found it. |
+| DUKE | Take then this your companion by the hand,<br>Who hath a story ready for your ear.<br>I shall attend your leisure; but make haste,<br>The vaporous [[motifs/night\|night]] approaches. |
+| [[characters/mariana\|MARIANA]] | (to [[characters/isabella\|Isabella]]) Will’t please you walk aside? |
+| *(didascalia)* | Exeunt |
+| [[characters/mariana\|MARIANA]] | [[characters/mariana\|Mariana]]<br>and<br>[[characters/isabella\|Isabella]] |
+| DUKE | O place and [[concepts/greatness\|greatness]], millions of false eyes<br>Are stuck upon thee; volumes of report<br>Run with their false and most contrarious [[topoi/quest\|quest]]<br>Upon thy doings; thousand escapes of wit<br>Make thee the father of their idle dream,<br>And rack thee in their fancies. |
+| *(didascalia)* | Enter [[characters/mariana\|Mariana]] and [[characters/isabella\|Isabella]] |
+| DUKE | Welcome. How agreed? |
+| [[characters/isabella\|ISABELLA]] | She’ll take the enterprise upon her, father,<br>If you advise it. |
+| DUKE | It is not my consent,<br>But my entreaty too. |
+| [[characters/isabella\|ISABELLA]] | (to [[characters/mariana\|Mariana]]) Little have you to say<br>When you depart from him but, soft and low,<br>‘Remember now my brother’. |
+| [[characters/mariana\|MARIANA]] | [[concepts/fear\|Fear]] me not. |
+| DUKE | Nor, gentle daughter, [[concepts/fear\|fear]] you not at all.<br>He is your husband on a pre-contract.<br>To bring you thus together ’tis no sin,<br>Sith that the justice of your title to him<br>Doth flourish the deceit. Come, let us go.<br>Our corn’s to reap, for yet our tilth’s to sow. |
+| *(didascalia)* | Exeunt |
+
+### Atto 4, Scena 2
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter the Provost and [[characters/pompey\|Pompey]] |
+| PROVOST | Come hither, sirrah. Can you cut off a man’s head? |
+| [[characters/pompey\|POMPEY]] | If the man be a bachelor, sir, I can; but if he be a married man, he’s his wife’s head, and I can never cut off a woman’s head. |
+| PROVOST | Come, sir, leave me your snatches, and yield me a direct answer. Tomorrow morning are to die [[characters/claudio\|Claudio]] and Barnardine. Here is in our [[motifs/prison\|prison]] a common executioner, who in his office lacks a helper. If you will take it on you to assist him, it shall redeem you from your gyves; if not, you shall have your full [[motifs/time\|time]] of [[concepts/imprisonment\|imprisonment]], and your deliverance with an unpitied whipping; for you have been a notorious bawd. |
+| [[characters/pompey\|POMPEY]] | Sir, I have been an unlawful bawd [[motifs/time\|time]] out of mind, but yet I will be content to be a lawful hangman. I would be glad to receive some instruction from my fellow partner. |
+| PROVOST | What ho, Abhorson! Where’s Abhorson there? Enter Abhorson |
+| ABHORSON | Do you call, sir? |
+| PROVOST | Sirrah, here’s a fellow will help you tomorrow in your execution. If you think it meet, compound with him by the year, and let him abide here with you; if not, use him for the present, and dismiss him. He cannot plead his estimation with you; he hath been a bawd. |
+| ABHORSON | A bawd, sir? Fie upon him, he will discredit our mystery. |
+| PROVOST | Go to, sir, you weigh equally; a feather will turn the scale. Exit |
+| [[characters/pompey\|POMPEY]] | Pray, sir, by your good favour—for surely, sir, a good favour you have, but that you have a hanging look—do you call, sir, your occupation a mystery? |
+| ABHORSON | Ay, sir, a mystery. |
+| [[characters/pompey\|POMPEY]] | Painting, sir, I have heard say is a mystery; and your whores, sir, being members of my occupation, using painting, do prove my occupation a mystery. But what mystery there should be in hanging, if I should be hanged I cannot imagine. |
+| ABHORSON | Sir, it is a mystery. |
+| [[characters/pompey\|POMPEY]] | Proof. |
+| ABHORSON | Every true man’s apparel fits your thief— |
+| [[characters/pompey\|POMPEY]] | If it be too little for your thief, your true man thinks it big enough. If it be too big for your thief, your thief thinks it little enough. So every true man’s apparel fits your thief. |
+| *(didascalia)* | Enter Provost |
+| PROVOST | Are you agreed? |
+| [[characters/pompey\|POMPEY]] | Sir, I will serve him, for I do find your hangman is a more penitent trade than your bawd—he doth oftener ask [[concepts/forgiveness\|forgiveness]]. |
+| PROVOST | (to Abhorson) You, sirrah, provide your block and your axe tomorrow, four o’[[motifs/clock\|clock]]. |
+| ABHORSON | (to [[characters/pompey\|Pompey]]) Come on, bawd, I will instruct thee in my trade. Follow. |
+| [[characters/pompey\|POMPEY]] | I do [[motifs/desire\|desire]] to learn, sir, and I [[concepts/hope\|hope]], if you have occasion to use me for your own turn, you shall find me yare. For truly, sir, for your kindness I owe you a good turn. |
+| PROVOST | Call hither Barnardine and [[characters/claudio\|Claudio]]. |
+| *(didascalia)* | Exeunt Abhorson and [[characters/pompey\|Pompey]] |
+| PROVOST | Th’one has my pity; not a jot the other,<br>Being a murderer, though he were my brother. |
+| *(didascalia)* | Enter [[characters/claudio\|Claudio]] |
+| PROVOST | Look, here’s the warrant, [[characters/claudio\|Claudio]], for thy [[motifs/death\|death]].<br>’Tis now dead midnight, and by eight tomorrow<br>Thou must be made immortal. Where’s Barnardine? |
+| [[characters/claudio\|CLAUDIO]] | As fast locked up in [[motifs/sleep\|sleep]] as guiltless labour<br>When it lies starkly in the travailer’s bones.<br>He will not wake. |
+| PROVOST | Who can do good on him?<br>[[motifs/well\|Well]], go prepare yourself. |
+| *(didascalia)* | Knocking within |
+| PROVOST | But hark, what noise?<br>Heaven give your spirits comfort! Exit [[characters/claudio\|Claudio]] |
+| *(didascalia)* | Knocking again |
+| PROVOST | By and by!<br>I [[concepts/hope\|hope]] it is some pardon or reprieve<br>For the most gentle [[characters/claudio\|Claudio]]. |
+| *(didascalia)* | Enter the Duke, disguised as a friar |
+| PROVOST | Welcome, father. |
+| DUKE | The best and wholesom’st spirits of the [[motifs/night\|night]]<br>Envelop you, good Provost! Who called here of late? |
+| PROVOST | None since the curfew rung. |
+| DUKE | Not Isabel? |
+| PROVOST | No. |
+| DUKE | They will then, ere’t be long. |
+| PROVOST | What comfort is for [[characters/claudio\|Claudio]]? |
+| DUKE | There’s some in [[concepts/hope\|hope]]. |
+| PROVOST | It is a bitter deputy. |
+| DUKE | Not so, not so; his life is paralleled<br>Even with the stroke and line of his great justice.<br>He doth with holy abstinence subdue<br>That in himself which he spurs on his power<br>To qualify in others. Were he mealed with that<br>Which he corrects, then were he tyrannous;<br>But this being so, he’s just. |
+| *(didascalia)* | Knocking within |
+| DUKE | Now are they come. |
+| *(didascalia)* | The Provost goes to a door |
+| DUKE | This is a gentle Provost. Seldom when<br>The steeled jailer is the friend of men. |
+| *(didascalia)* | Knocking within |
+| DUKE | (To Provost) How now, what noise? That spirit’s<br>possessed with haste<br>That wounds th’unlisting postern with these strokes. |
+| PROVOST | There he must stay until the officer<br>Arise to let him in. He is called up. |
+| DUKE | Have you no countermand for [[characters/claudio\|Claudio]] yet,<br>But he must die tomorrow? |
+| PROVOST | None, sir, none. |
+| DUKE | As near the dawning, Provost, as it is,<br>You shall hear more ere morning. |
+| PROVOST | Happily<br>You something know, yet I believe there comes<br>No countermand. No such example have we;<br>Besides, upon the very siege of justice<br>Lord [[characters/angelo\|Angelo]] hath to the public ear<br>Professed the contrary. |
+| *(didascalia)* | Enter a Messenger |
+| PROVOST | This is his lordship’s man. |
+| *(didascalia)* | DUKE And here comes [[characters/claudio\|Claudio]]’s pardon. |
+| MESSENGER | (giving a paper to Provost) My lord hath sent you this note, and by me this further charge: that you swerve not from the smallest article of it, neither in [[motifs/time\|time]], matter, or other circumstance. Good morrow; for, as I take it, it is almost day. |
+| PROVOST | I shall obey him. |
+| *(didascalia)* | Exit Messenger |
+| DUKE | (aside)<br>This is his pardon, purchased by such sin<br>For which the pardoner himself is in.<br>Hence hath offence his quick celerity,<br>When it is borne in high authority.<br>When vice makes [[concepts/mercy\|mercy]], [[concepts/mercy\|mercy]]’s so extended<br>That for the fault’s [[motifs/love\|love]] is th’offender friended.—<br>Now sir, what news? |
+| PROVOST | I told you: Lord [[characters/angelo\|Angelo]], belike thinking me remiss in mine office, awakens me with this unwonted putting-on; methinks strangely, for he hath not used it before. |
+| DUKE | Pray you let’s hear. |
+| PROVOST | (reading the letter) ‘Whatsoever you may hear to the contrary, let [[characters/claudio\|Claudio]] be executed by four of the [[motifs/clock\|clock]], and in the afternoon Barnardine. For my better satisfaction, let me have [[characters/claudio\|Claudio]]’s head sent me by five. Let this be duly performed, with a thought that more depends on it than we must yet deliver. Thus fail not to do your office, as you will answer it at your peril.’ What say you to this, sir? |
+| DUKE | What is that Barnardine, who is to be executed in th’afternoon? |
+| PROVOST | A Bohemian born, but here nursed up and bred; one that is a prisoner nine years old. |
+| DUKE | How came it that the absent Duke had not either delivered him to his liberty or executed him? I have heard it was ever his manner to do so. |
+| PROVOST | His friends still wrought reprieves for him; and indeed his fact, till now in the [[government]] of Lord [[characters/angelo\|Angelo]], came not to an undoubtful proof. |
+| DUKE | It is now apparent? |
+| PROVOST | Most manifest, and not denied by himself. |
+| DUKE | Hath he borne himself penitently in [[motifs/prison\|prison]]? How seems he to be touched? |
+| PROVOST | A man that apprehends [[motifs/death\|death]] no more dreadfully but as a drunken [[motifs/sleep\|sleep]]; careless, reckless, and fearless of what’s past, present, or to come; insensible of [[concepts/mortality\|mortality]], and desperately mortal. |
+| DUKE | He wants advice. |
+| PROVOST | He will hear none. He hath evermore had the liberty of the [[motifs/prison\|prison]]. Give him leave to escape hence, he would not. Drunk many times a day, if not many days entirely drunk. We have very oft awaked him as if to carry him to execution, and showed him a seeming warrant for it; it hath not moved him at all. |
+| DUKE | More of him anon. There is written in your brow, Provost, honesty and constancy. If I read it not truly, my ancient skill beguiles me. But in the boldness of my cunning, I will lay myself in hazard. [[characters/claudio\|Claudio]], whom here you have warrant to execute, is no greater forfeit to the law than [[characters/angelo\|Angelo]] who hath sentenced him. To make you understand this in a manifested effect, I crave but four days’ respite, for the which you are to do me both a present and a dangerous courtesy. |
+| PROVOST | Pray sir, in what? |
+| DUKE | In the delaying [[motifs/death\|death]]. |
+| PROVOST | Alack, how may I do it, having the hour limited, and an express command under penalty to deliver his head in the view of [[characters/angelo\|Angelo]]? I may make my case as [[characters/claudio\|Claudio]]’s to [[motifs/cross\|cross]] this in the smallest. |
+| DUKE | By the vow of mine order, I warrant you, if my instructions may be your guide, let this Barnardine be this morning executed, and his head borne to [[characters/angelo\|Angelo]]. |
+| PROVOST | [[characters/angelo\|Angelo]] hath seen them both, and will discover the favour. |
+| DUKE | O, [[motifs/death\|death]]’s a great disguiser, and you may add to it. Shave the head and tie the beard, and say it was the [[motifs/desire\|desire]] of the penitent to be so bared before his [[motifs/death\|death]]; you know the course is common. If anything fall to you upon this more than thanks and good fortune, by the saint whom I profess, I will plead against it with my life. |
+| PROVOST | Pardon me, good father, it is against my oath. |
+| DUKE | Were you sworn to the Duke or to the deputy? |
+| PROVOST | To him and to his substitutes. |
+| DUKE | You will think you have made no offence if the Duke avouch the justice of your dealing? |
+| PROVOST | But what likelihood is in that? |
+| DUKE | Not a resemblance, but a certainty. Yet since I see you fearful, that neither my coat, integrity, nor [[Persuasion\|persuasion]] can with ease attempt you, I will go further than I meant, to pluck all fears out of you. (Showing a letter) Look you, sir, here is the hand and seal of the Duke. You know the character, I [[concepts/doubt\|doubt]] not, and the signet is not strange to you? |
+| PROVOST | I know them both. |
+| DUKE | The contents of this is the return of the Duke. You shall anon over-read it at your pleasure, where you shall find within these two days he will be here. This is a thing that [[characters/angelo\|Angelo]] knows not, for he this very day receives letters of strange tenor, perchance of the Duke’s [[motifs/death\|death]], perchance entering into some monastery; but by chance nothing of what is writ. Look, th’unfolding star calls up the shepherd. Put not yourself into amazement how these things should be. All difficulties are but easy when they are known. Call your executioner, and off with Barnardine’s head. I will give him a present shrift, and advise him for a better place. Yet you are amazed; but this shall absolutely resolve you. Come away, it is almost clear [[motifs/dawn\|dawn]]. |
+| *(didascalia)* | Exeunt |
+
+### Atto 4, Scena 3
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[characters/pompey\|Pompey]] |
+| [[characters/pompey\|POMPEY]] | I am as [[motifs/well\|well]] acquainted here as I was in our [[house]] of profession. One would think it were Mistress Overdone’s own [[house]], for here be many of her old customers. First, here’s young Master Rash; he’s in for a commodity of brown paper and old ginger, nine score and seventeen pounds, of which he made five marks ready money. Marry, then ginger was not much in request, for the old women were all dead. Then is there here one Master Caper, at the suit of Master Threepile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar. Then have we here young Dizzy, and young Master Deepvow, and Master Copperspur and Master Starve-lackey the rapier and dagger man, and young Drop-hair that killed lusty Pudding, and Master Forthright the tilter, and brave Master Shoe-tie the great traveller, and wild Half-can that stabbed Pots, and I think forty more, all great doers in our trade, and are now ‘for the Lord’s sake’. Enter Abhorson |
+| ABHORSON | Sirrah, bring Barnardine hither. 19 |
+| [[characters/pompey\|POMPEY]] | Master Barnardine! You must rise and be hanged, Master Barnardine! |
+| ABHORSON | What ho, Barnardine! |
+| BARNARDINE | (within) A pox o’ your throats! Who makes that noise there? What are you? |
+| [[characters/pompey\|POMPEY]] | Your friends, sir; the hangman. You must be so good, sir, to rise and be put to [[motifs/death\|death]]. |
+| BARNARDINE | Away, you rogue, away! I am sleepy. |
+| ABHORSON | Tell him he must awake, and that quickly too. |
+| [[characters/pompey\|POMPEY]] | Pray, Master Barnardine, awake till you are executed, and [[motifs/sleep\|sleep]] afterwards. |
+| ABHORSON | Go in to him and fetch him out. |
+| [[characters/pompey\|POMPEY]] | He is coming, sir, he is coming. I hear his straw rustle. |
+| ABHORSON | Is the axe upon the block, sirrah? |
+| [[characters/pompey\|POMPEY]] | Very ready, sir. |
+| *(didascalia)* | Enter Barnardine |
+| BARNARDINE | How now, Abhorson, what’s the news with you? |
+| ABHORSON | Truly, sir, I would [[motifs/desire\|desire]] you to clap into your prayers, for, look you, the warrant’s come. |
+| BARNARDINE | You rogue, I have been drinking all [[motifs/night\|night]]. I am not fitted for’t. |
+| [[characters/pompey\|POMPEY]] | O, the better, sir; for he that drinks all [[motifs/night\|night]], and is hanged betimes in the morning, may [[motifs/sleep\|sleep]] the sounder all the next day. Enter the Duke, disguised as a friar |
+| ABHORSON | (to Barnardine) Look you, sir, here comes your ghostly father. Do we jest now, think you? |
+| DUKE | (to Barnardine) Sir, induced by my [[concepts/charity\|charity]], and hearing how hastily you are to depart, I am come to advise you, comfort you, and pray with you. |
+| BARNARDINE | Friar, not I. I have been drinking hard all [[motifs/night\|night]], and I will have more [[motifs/time\|time]] to prepare me, or they shall beat out my brains with billets. I will not consent to die this day, that’s certain. |
+| DUKE | O sir, you must; and therefore, I beseech you,<br>Look forward on the [[motifs/journey\|journey]] you shall go. |
+| BARNARDINE | I swear I will not die today, for any man’s [[Persuasion\|persuasion]]. |
+| DUKE | But hear you— |
+| BARNARDINE | Not a word. If you have anything to say to me, come to my ward, for thence will not I today. |
+| *(didascalia)* | Exit |
+| DUKE | Unfit to live or die. O gravel heart!<br>After him, fellows; bring him to the block. |
+| *(didascalia)* | Exeunt Abhorson |
+| DUKE | and<br>[[characters/pompey\|Pompey]] |
+| *(didascalia)* | Enter Provost |
+| PROVOST | Now, sir, how do you find the prisoner? |
+| DUKE | A creature unprepared, unmeet for [[motifs/death\|death]];<br>And to transport him in the mind he is<br>Were damnable. |
+| PROVOST | Here in the [[motifs/prison\|prison]], father,<br>There died this morning of a cruel fever<br>One Ragusine, a most notorious pirate,<br>A man of [[characters/claudio\|Claudio]]’s years, his beard and head<br>Just of his colour. What if we do omit<br>This reprobate till he were [[motifs/well\|well]] inclined,<br>And satisfy the deputy with the visage<br>Of Ragusine, more like to [[characters/claudio\|Claudio]]? |
+| DUKE | O, ’tis an accident that heaven provides.<br>Dispatch it presently; the hour draws on<br>Prefixed by [[characters/angelo\|Angelo]]. See this be done,<br>And sent according to command, whiles I<br>Persuade this rude wretch willingly to die. |
+| PROVOST | This shall be done, good father, presently.<br><br>But Barnardine must die this afternoon;<br>And how shall we continue [[characters/claudio\|Claudio]],<br>To save me from the danger that might come<br>If he were known alive? |
+| DUKE | Let this be done:<br>Put them in secret holds, both Barnardine and [[characters/claudio\|Claudio]].<br>Ere twice the sun hath made his journal greeting<br>To yonder generation, you shall find<br>Your safety manifested. |
+| PROVOST | I am your free dependant. |
+| DUKE | Quick, dispatch, and send the head to [[characters/angelo\|Angelo]]. |
+| *(didascalia)* | Exit Provost |
+| DUKE | Now will I write letters to [[characters/angelo\|Angelo]]—<br>The Provost, he shall bear them—whose contents<br>Shall witness to him I am near at [[motifs/home\|home]],<br>And that by great injunctions I am bound<br>To enter publicly. Him I’ll [[motifs/desire\|desire]]<br>To meet me at the consecrated fount<br>A league below the [[motifs/city\|city]], and from thence,<br>By cold gradation and [[motifs/well\|well]]-balanced form,<br>We shall proceed with [[characters/angelo\|Angelo]]. |
+| *(didascalia)* | Enter the Provost, with Ragusine’s head |
+| PROVOST | Here is the head; I’ll carry it myself. |
+| DUKE | Convenient is it. Make a swift return,<br>For I would commune with you of such things<br>That want no ear but yours. |
+| PROVOST | I’ll make all [[characters/speed\|speed]]. |
+| *(didascalia)* | Exit |
+| [[characters/isabella\|ISABELLA]] | (within) Peace, ho, be here! |
+| DUKE | The tongue of Isabel. She’s come to know<br>If yet her brother’s pardon be come hither;<br>But I will keep her ignorant of her good,<br>To make her heavenly comforts of [[concepts/despair\|despair]]<br>When it is least expected. |
+| *(didascalia)* | [[characters/isabella\|ISABELLA]] within Ho, by your leave! |
+| *(didascalia)* | Enter [[characters/isabella\|Isabella]] |
+| DUKE | Good morning to you, fair and gracious daughter. |
+| [[characters/isabella\|ISABELLA]] | The better, given me by so holy a man.<br>Hath yet the deputy sent my brother’s pardon? |
+| DUKE | He hath released him, Isabel, from the world.<br>His head is off and sent to [[characters/angelo\|Angelo]]. |
+| [[characters/isabella\|ISABELLA]] | Nay, but it is not so. |
+| DUKE | It is no other.<br>Show your wisdom, daughter, in your close patience. |
+| [[characters/isabella\|ISABELLA]] | O, I will to him and pluck out his eyes! |
+| DUKE | You shall not be admitted to his sight. |
+| [[characters/isabella\|ISABELLA]] | (weeping)<br>Unhappy [[characters/claudio\|Claudio]]! Wretched Isabel!<br>Injurious world! Most damned [[characters/angelo\|Angelo]]! |
+| DUKE | This nor hurts him, nor profits you a jot.<br>Forbear it, therefore; give your cause to heaven.<br>Mark what I say, which you shall find<br>By every syllable a faithful verity.<br>The Duke comes [[motifs/home\|home]] tomorrow—nay, dry your<br>eyes—<br>One of our convent, and his confessor,<br>Gives me this instance. Already he hath carried<br>Notice to [[characters/escalus\|Escalus]] and [[characters/angelo\|Angelo]],<br>Who do prepare to meet him at the gates,<br>There to give up their power. If you can pace your<br>wisdom<br>In that good path that I would wish it go,<br>And you shall have your bosom on this wretch,<br>Grace of the Duke, revenges to your heart,<br>And general [[concepts/honour\|honour]]. |
+| [[characters/isabella\|ISABELLA]] | I am directed by you. |
+| DUKE | This letter, then, to Friar Peter give.<br>’Tis that he sent me of the Duke’s return.<br>Say by this token I [[motifs/desire\|desire]] his company<br>At [[characters/mariana\|Mariana]]’s [[house]] tonight. Her cause and yours<br>I’ll perfect him withal, and he shall bring you<br>Before the Duke, and to the head of [[characters/angelo\|Angelo]]<br>Accuse him [[motifs/home\|home]] and [[motifs/home\|home]]. For my poor [[concepts/self\|self]],<br>I am combined by a sacred vow,<br>And shall be absent. (Giving the letter) Wend you with<br>this letter.<br>Command these fretting waters from your eyes<br>With a light heart. Trust not my holy order<br>If I pervert your course. |
+| *(didascalia)* | Enter [[characters/lucio\|Lucio]] |
+| DUKE | Who’s here? |
+| [[characters/lucio\|LUCIO]] | Good even.<br>Friar, where’s the Provost? |
+| DUKE | Not within, sir. |
+| *(didascalia)* | [[characters/lucio\|LUCIO]] O pretty [[characters/isabella\|Isabella]], I am pale at mine heart to see thine eyes so red. Thou must be patient. I am fain to dine and sup with [[motifs/water\|water]] and bran; I dare not for my head fill my belly; one fruitful meal would set me to’t. But they say the Duke will be here tomorrow. By my troth, Isabel, I loved thy brother. If the old fantastical Duke of dark corners had been at [[motifs/home\|home]], he had lived. Exit [[characters/isabella\|Isabella]] |
+| DUKE | Sir, the Duke is marvellous little beholden to your reports; but the best is, he lives not in them. |
+| [[characters/lucio\|LUCIO]] | Friar, thou knowest not the Duke so [[motifs/well\|well]] as I do. He’s a better woodman than thou tak’st him for. |
+| DUKE | [[motifs/well\|Well]], you’ll answer this one day. Fare ye [[motifs/well\|well]]. |
+| [[characters/lucio\|LUCIO]] | Nay, tarry, I’ll go along with thee. I can tell thee pretty tales of the Duke. |
+| DUKE | You have told me too many of him already, sir, if they be true; if not true, none were enough. |
+| [[characters/lucio\|LUCIO]] | I was once before him for getting a wench with [[archetypes/child\|child]]. |
+| DUKE | Did you such a thing? |
+| [[characters/lucio\|LUCIO]] | Yes, marry, did I; but I was fain to forswear it. They would else have married me to the rotten medlar. |
+| DUKE | Sir, your company is fairer than honest. Rest you [[motifs/well\|well]]. |
+| [[characters/lucio\|LUCIO]] | By my troth, I’ll go with thee to the lane’s end. If bawdy talk offend you, we’ll have very little of it. Nay, friar, I am a kind of burr; I shall stick. |
+| *(didascalia)* | Exeunt |
+
+### Atto 4, Scena 4
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[characters/angelo\|Angelo]] and [[characters/escalus\|Escalus]] |
+| [[characters/escalus\|ESCALUS]] | Every letter he hath writ hath disvouched other. |
+| [[characters/angelo\|ANGELO]] | In most uneven and distracted manner. His actions show much like to [[concepts/madness\|madness]]. Pray heaven his wisdom be not tainted. And why meet him at the gates, and redeliver our authorities there? |
+| [[characters/escalus\|ESCALUS]] | I guess not. |
+| [[characters/angelo\|ANGELO]] | And why should we proclaim it in an hour before his entering, that if any crave redress of injustice, they should exhibit their petitions in the street? |
+| [[characters/escalus\|ESCALUS]] | He shows his reason for that—to have a dispatch of complaints, and to deliver us from devices hereafter, which shall then have no power to stand against us. |
+| [[characters/angelo\|ANGELO]] | [[motifs/well\|Well]], I beseech you let it be proclaimed.<br>Betimes i’th’ morn I’ll call you at your [[house]].<br>Give notice to such men of sort and suit<br>As are to meet him. |
+| [[characters/escalus\|ESCALUS]] | I shall, sir. Fare you [[motifs/well\|well]]. |
+| [[characters/angelo\|ANGELO]] | Good [[motifs/night\|night]]. |
+| *(didascalia)* | Exit [[characters/escalus\|Escalus]] |
+| [[characters/angelo\|ANGELO]] | This deed unshapes me quite, makes me unpregnant<br>And dull to all proceedings. A deflowered maid,<br>And by an eminent [[concepts/body\|body]] that enforced<br>The law against it! But that her tender shame<br>Will not proclaim against her maiden loss,<br>How might she tongue me! Yet reason dares her no,<br>For my authority bears off a credent bulk,<br>That no particular scandal once can touch<br>But it confounds the breather. He should have lived,<br>Save that his riotous youth, with dangerous sense,<br>Might in the times to come have ta’en [[concepts/revenge\|revenge]]<br>By so receiving a dishonoured life<br>With ransom of such shame. Would yet he had lived.<br>Alack, when once our grace we have forgot,<br>Nothing goes right; we would, and we would not. Exit |
+
+### Atto 4, Scena 5
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter the Duke, in his own habit, and Friar Peter |
+| DUKE | These letters at fit [[motifs/time\|time]] deliver me.<br>The Provost knows our purpose and our plot.<br>The matter being afoot, keep your instruction,<br>And hold you ever to our special drift,<br>Though sometimes you do blench from this to that<br>As cause doth minister. Go call at Flavio’s [[house]],<br>And tell him where I stay. Give the like notice<br>To Valentinus, Rowland, and to Crassus,<br>And bid them bring the trumpets to the gate.<br>But send me [[characters/flavius\|Flavius]] first. |
+| FRIAR | It shall be speeded [[motifs/well\|well]]. |
+| *(didascalia)* | Exit |
+| *(didascalia)* | Enter Varrius |
+| DUKE | I thank thee, Varrius; thou hast made good haste.<br>Come, we will walk. There’s other of our friends<br>Will greet us here anon. My gentle Varrius! |
+| *(didascalia)* | Exeunt |
+
+### Atto 4, Scena 6
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[characters/isabella\|Isabella]] and [[characters/mariana\|Mariana]] |
+| [[characters/isabella\|ISABELLA]] | To speak so indirectly I am loath—<br>I would say the [[concepts/truth\|truth]], but to accuse him so,<br>That is your part—yet I am advised to do it,<br>He says, to veil full purpose. |
+| [[characters/mariana\|MARIANA]] | Be ruled by him. |
+| [[characters/isabella\|ISABELLA]] | Besides, he tells me that if peradventure<br>He speak against me on the adverse side,<br>I should not think it strange, for ’tis a physic<br>That’s bitter to sweet end. |
+| *(didascalia)* | Enter Friar Peter |
+| [[characters/mariana\|MARIANA]] | I would Friar Peter— |
+| [[characters/isabella\|ISABELLA]] | O, peace; the friar is come. |
+| FRIAR PETER | Come, I have found you out a stand most fit,<br>Where you may have such vantage on the Duke<br>He shall not pass you. Twice have the trumpets<br>sounded.<br>The generous and gravest citizens<br>Have hent the gates, and very near upon<br>The Duke is ent’ring; therefore hence, away. Exeunt |
+
+### Atto 5, Scena 1
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter at one door the Duke, Varrius, and lords, at another door [[characters/angelo\|Angelo]], [[characters/escalus\|Escalus]], [[characters/lucio\|Lucio]], citizens, and officers |
+| DUKE | (to [[characters/angelo\|Angelo]])<br>My very worthy cousin, fairly met.<br>(To [[characters/escalus\|Escalus]]) Our old and faithful friend, we are glad to<br>see you. |
+| [[characters/angelo\|ANGELO]] | and [[characters/escalus\|ESCALUS]]<br>Happy return be to your royal grace. |
+| DUKE | Many and hearty thankings to you both.<br>We have made enquiry of you, and we hear<br>Such goodness of your justice that our [[motifs/soul\|soul]]<br>Cannot but yield you forth to public thanks,<br>Forerunning more requital. |
+| [[characters/angelo\|ANGELO]] | You make my bonds still greater. |
+| DUKE | O, your [[motifs/desert\|desert]] speaks loud, and I should wrong it<br>To lock it in the wards of covert bosom,<br>When it deserves with characters of brass<br>A forted residence ’gainst the tooth of [[motifs/time\|time]]<br>And razure of oblivion. Give me your hand,<br>And let the subject see, to make them know<br>That outward courtesies would fain proclaim<br>Favours that keep within. Come, [[characters/escalus\|Escalus]],<br>You must walk by us on our other hand,<br>And good supporters are you. |
+| *(didascalia)* |  They walk forward. |
+| *(didascalia)* | Enter Friar Peter and [[characters/isabella\|Isabella]] |
+| FRIAR PETER | Now is your [[motifs/time\|time]]. Speak loud, and kneel before him. |
+| [[characters/isabella\|ISABELLA]] | (kneeling)<br>Justice, O royal Duke! Vail your regard<br>Upon a wronged—I would fain have said, a maid.<br>O worthy prince, dishonour not your eye<br>By throwing it on any other object,<br>Till you have heard me in my true complaint,<br>And given me justice, justice, justice, justice! |
+| DUKE | Relate your wrongs. In what? By whom? Be brief.<br>Here is Lord [[characters/angelo\|Angelo]] shall give you justice.<br>Reveal yourself to him. |
+| [[characters/isabella\|ISABELLA]] | O worthy Duke,<br>You bid me seek redemption of the devil.<br>Hear me yourself, for that which I must speak<br>Must either punish me, not being believed,<br>Or wring redress from you. Hear me, O hear me, hear! |
+| [[characters/angelo\|ANGELO]] | My lord, her wits, I [[concepts/fear\|fear]] me, are not firm.<br>She hath been a suitor to me for her brother,<br>Cut off by course of justice. |
+| *(didascalia)* | [[characters/isabella\|ISABELLA]] standing |
+| [[characters/angelo\|ANGELO]] | By course of justice! |
+| [[characters/angelo\|ANGELO]] | And she will speak most bitterly and strange. |
+| [[characters/isabella\|ISABELLA]] | Most strange, but yet most truly, will I speak.<br>That [[characters/angelo\|Angelo]]’s forsworn, is it not strange?<br>That [[characters/angelo\|Angelo]]’s a murderer, is’t not strange?<br>That [[characters/angelo\|Angelo]] is an adulterous thief,<br>An hypocrite, a virgin-violator,<br>Is it not strange, and strange? |
+| DUKE | Nay, it is ten times strange! |
+| [[characters/isabella\|ISABELLA]] | It is not truer he is [[characters/angelo\|Angelo]]<br>Than this is all as true as it is strange.<br>Nay, it is ten times true, for [[concepts/truth\|truth]] is [[concepts/truth\|truth]]<br>To th‘end of reck’ning. |
+| DUKE | Away with her. Poor [[motifs/soul\|soul]],<br>She speaks this in th’infirmity of sense. |
+| [[characters/isabella\|ISABELLA]] | O prince, I conjure thee, as thou believ‘st<br>There is another comfort than this world,<br>That thou neglect me not with that opinion<br>That I am touched with [[concepts/madness\|madness]]. Make not<br>impossible<br>That which but seems unlike. ’Tis not impossible<br>But one, the wicked’st caitiff on the ground,<br>May seem as shy, as [[motifs/grave\|grave]], as just, as absolute,<br>As [[characters/angelo\|Angelo]]; even so may [[characters/angelo\|Angelo]],<br>In all his dressings, characts, titles, forms,<br>Be an arch-[[archetypes/villain\|villain]]. Believe it, royal prince,<br>If he be less, he’s nothing; but he’s more,<br>Had I more name for badness. |
+| DUKE | By mine honesty,<br>If she be mad, as I believe no other,<br>Her [[concepts/madness\|madness]] hath the oddest frame of sense,<br>Such a dependency of thing on thing<br>As e’er I heard in [[concepts/madness\|madness]]. |
+| [[characters/isabella\|ISABELLA]] | O gracious Duke,<br>Harp not on that, nor do not banish reason<br>For inequality; but let your reason serve<br>To make the [[concepts/truth\|truth]] appear where it seems hid,<br>And hide the false seems true. |
+| DUKE | Many that are not mad<br>Have sure more lack of reason. What would you say? |
+| [[characters/isabella\|ISABELLA]] | I am the sister of one [[characters/claudio\|Claudio]],<br>Condemned upon the act of fornication<br>To lose his head, condemned by [[characters/angelo\|Angelo]].<br>I, in probation of a sisterhood,<br>Was sent to by my brother, one [[characters/lucio\|Lucio]]<br>As then the messenger. |
+| [[characters/lucio\|LUCIO]] | That’s I, an’t like your grace.<br>I came to her from [[characters/claudio\|Claudio]], and desired her<br>To try her gracious fortune with Lord [[characters/angelo\|Angelo]]<br>For her poor brother’s pardon. |
+| [[characters/isabella\|ISABELLA]] | That’s he indeed. |
+| DUKE | (to [[characters/lucio\|Lucio]])<br>You were not bid to speak. |
+| [[characters/lucio\|LUCIO]] | No, my good lord,<br>Nor wished to hold my peace. |
+| DUKE | I wish you now, then. Pray you take note of it;<br>And when you have a business for yourself,<br>Pray heaven you then be perfect. |
+| [[characters/lucio\|LUCIO]] | I warrant your [[concepts/honour\|honour]]. |
+| DUKE | The warrant’s for yourself; take heed to’t. |
+| [[characters/isabella\|ISABELLA]] | This gentleman told somewhat of my tale— |
+| [[characters/lucio\|LUCIO]] | Right. |
+| DUKE | It may be right, but you are i’the wrong<br>To speak before your [[motifs/time\|time]]. (To [[characters/isabella\|Isabella]]) Proceed. |
+| [[characters/isabella\|ISABELLA]] | I went<br>To this pernicious caitiff deputy— |
+| DUKE | That’s somewhat madly spoken. |
+| [[characters/isabella\|ISABELLA]] | Pardon it;<br>The phrase is to the matter. |
+| DUKE | Mended again.<br>The matter; proceed. |
+| [[characters/isabella\|ISABELLA]] | In brief, to set the needless process by,<br>How I persuaded, how I prayed and kneeled,<br>How he refelled me, and how I replied—<br>For this was of much length—the vile conclusion<br>I now begin with grief and shame to utter.<br>He would not, but by gift of my chaste [[concepts/body\|body]]<br>To his concupiscible intemperate lust,<br>Release my brother; and after much debatement,<br>My sisterly remorse confutes mine [[concepts/honour\|honour]],<br>And I did yield to him. But the next morn betimes,<br>His purpose surfeiting, he sends a warrant<br>For my poor brother’s head. |
+| DUKE | This is most likely! |
+| [[characters/isabella\|ISABELLA]] | O, that it were as like as it is true! |
+| DUKE | By heaven, fond wretch, thou know‘st not what thou<br>speak’st,<br>Or else thou art suborned against his [[concepts/honour\|honour]]<br>In hateful practice. First, his integrity<br>Stands without blemish. Next, it imports no reason<br>That with such vehemency he should pursue<br>Faults proper to himself. If he had so offended,<br>He would have weighed thy brother by himself,<br>And not have cut him off. Someone hath set you on.<br>Confess the [[concepts/truth\|truth]], and say by whose advice<br>Thou cam’st here to complain. |
+| [[characters/isabella\|ISABELLA]] | And is this all?<br>Then, O you blessed ministers above,<br>Keep me in patience, and with ripened [[motifs/time\|time]]<br>Unfold the evil which is here wrapped up<br>In countenance! Heaven shield your grace from woe,<br>As I, thus wronged, hence unbelievèd go. |
+| DUKE | I know you’d fain be gone. An officer!<br>To [[motifs/prison\|prison]] with her.<br>An officer guards [[characters/isabella\|Isabella]]<br>Shall we thus permit<br>A blasting and a scandalous breath to fall<br>On him so near us? This needs must be a practice.<br>Who knew of your intent and coming hither? |
+| [[characters/isabella\|ISABELLA]] | One that I would were here, Friar Lodowick. |
+| *(didascalia)* | Exit, guarded |
+| DUKE | A ghostly father, belike. Who knows that Lodowick? |
+| [[characters/lucio\|LUCIO]] | My lord, I know him. ’Tis a meddling friar;<br>I do not like the man. Had he been lay, my lord,<br>For certain words he spake against your grace<br>In your retirement, I had swinged him soundly. |
+| DUKE | Words against me? This’ a good friar, belike!<br>And to set on this wretched woman here<br>Against our substitute! Let this friar be found. |
+| *(didascalia)* | Exit one or more |
+| [[characters/lucio\|LUCIO]] | But yesternight, my lord, she and that friar,<br>I saw them at the [[motifs/prison\|prison]]. A saucy friar,<br>A very scurvy fellow. |
+| FRIAR PETER | Blessed be your royal grace!<br>I have stood by, my lord, and I have heard<br>Your royal ear abused. First hath this woman<br>Most wrongfully accused your substitute,<br>Who is as free from touch or soil with her<br>As she from one ungot. |
+| DUKE | We did believe no less.<br>Know you that Friar Lodowick that she speaks of? |
+| FRIAR PETER | I know him for a man divine and holy,<br>Not scurvy, nor a temporary meddler,<br>As he’s reported by this gentleman;<br>And, on my trust, a man that never yet<br>Did, as he vouches, misreport your grace. |
+| [[characters/lucio\|LUCIO]] | My lord, most villainously; believe it. |
+| FRIAR PETER | [[motifs/well\|Well]], he in [[motifs/time\|time]] may come to clear himself;<br>But at this instant he is sick, my lord,<br>Of a strange fever. Upon his mere request,<br>Being come to knowledge that there was complaint<br>Intended ’gainst Lord [[characters/angelo\|Angelo]], came I hither<br>To speak, as from his mouth, what he doth know<br>Is true and false, and what he with his oath<br>And all probation will make up full clear<br>Whensoever he’s convented. First, for this woman:<br>To justify this worthy nobleman,<br>So vulgarly and personally accused,<br>Her shall you hear disproved to her eyes,<br>Till she herself confess it. |
+| DUKE | Good friar, let’s hear it. |
+| *(didascalia)* | Exit Friar Peter |
+| DUKE | Do you not smile at this, Lord [[characters/angelo\|Angelo]]?<br>O heaven, the [[concepts/vanity\|vanity]] of wretched fools!<br>Give us some seats. |
+| *(didascalia)* | Seats are brought in |
+| DUKE | Come, cousin [[characters/angelo\|Angelo]],<br>In this I’ll be impartial; be you judge<br>Of your own cause.<br>The Duke and [[characters/angelo\|Angelo]] sit. |
+| *(didascalia)* | Enter Friar Peter, and [[characters/mariana\|Mariana]], veiled |
+| DUKE | Is this the witness, friar?<br>First let her show her face, and after speak. |
+| [[characters/mariana\|MARIANA]] | Pardon, my lord, I will not show my face<br>Until my husband bid me. |
+| DUKE | What, are you married? |
+| [[characters/mariana\|MARIANA]] | No, my lord. |
+| DUKE | Are you a maid? |
+| [[characters/mariana\|MARIANA]] | No, my lord. |
+| DUKE | A widow then? |
+| [[characters/mariana\|MARIANA]] | Neither, my lord. |
+| DUKE | Why, you are nothing then; neither maid, widow, nor wife! |
+| [[characters/lucio\|LUCIO]] | My lord, she may be a punk, for many of them are neither maid, widow, nor wife. |
+| DUKE | [[motifs/silence\|Silence]] that fellow. I would he had some cause to prattle for himself. |
+| [[characters/lucio\|LUCIO]] | [[motifs/well\|Well]], my lord. |
+| [[characters/mariana\|MARIANA]] | My lord, I do confess I ne’er was married,<br>And I confess besides, I am no maid.<br>I have known my husband, yet my husband<br>Knows not that ever he knew me. |
+| [[characters/lucio\|LUCIO]] | He was drunk then, my lord, it can be no better. |
+| DUKE | For the benefit of [[motifs/silence\|silence]], would thou wert so too. |
+| [[characters/lucio\|LUCIO]] | [[motifs/well\|Well]], my lord. |
+| DUKE | This is no witness for Lord [[characters/angelo\|Angelo]]. |
+| [[characters/mariana\|MARIANA]] | Now I come to’t, my lord.<br>She that accuses him of fornication<br>In [[concepts/self\|self]]-same manner doth accuse my husband,<br>And charges him, my lord, with such a [[motifs/time\|time]]<br>When I’ll depose I had him in mine arms<br>With all th’effect of [[motifs/love\|love]]. |
+| [[characters/angelo\|ANGELO]] | Charges she more than me? |
+| [[characters/mariana\|MARIANA]] | Not that I know. |
+| DUKE | No? You say your husband. |
+| [[characters/mariana\|MARIANA]] | Why just, my lord, and that is [[characters/angelo\|Angelo]],<br>Who thinks he knows that he ne’er knew my [[concepts/body\|body]],<br>But knows, he thinks, that he knows Isabel’s. |
+| [[characters/angelo\|ANGELO]] | This is a strange abuse. Let’s see thy face. |
+| [[characters/mariana\|MARIANA]] | (unveiling)<br>My husband bids me; now I will unmask.<br>This is that face, thou cruel [[characters/angelo\|Angelo]],<br>Which once thou swor’st was worth the looking on.<br>This is the hand which, with a vowed contract,<br>Was fast belocked in thine. This is the [[concepts/body\|body]]<br>That took away the match from Isabel,<br>And did supply thee at thy [[motifs/garden\|garden]]-[[house]]<br>In her imagined person. |
+| DUKE | (to [[characters/angelo\|Angelo]]) Know you this woman? |
+| [[characters/lucio\|LUCIO]] | Carnally, she says. |
+| DUKE | Sirrah, no more! |
+| [[characters/lucio\|LUCIO]] | Enough, my lord. |
+| [[characters/angelo\|ANGELO]] | My lord, I must confess I know this woman;<br>And five years since there was some speech of<br>[[motifs/marriage\|marriage]]<br>Betwixt myself and her, which was broke off,<br>Partly for that her promised proportions<br>Came short of composition, but in chief<br>For that her reputation was disvalued<br>In levity; since which [[motifs/time\|time]] of five years<br>I never spake with her, saw her, nor heard from her,<br>Upon my [[concepts/faith\|faith]] and [[concepts/honour\|honour]]. |
+| *(didascalia)* | [[characters/mariana\|MARIANA]] kneeling before the Duke Noble prince, |
+| [[characters/angelo\|ANGELO]] | As there comes light from heaven, and words from<br>breath,<br>As there is sense in [[concepts/truth\|truth]], and [[concepts/truth\|truth]] in virtue,<br>I am affianced this man’s wife, as strongly<br>As words could make up vows. And, my good lord,<br>But Tuesday [[motifs/night\|night]] last gone, in’s [[motifs/garden\|garden]]-[[house]],<br>He knew me as a wife. As this is true,<br>Let me in safety raise me from my knees,<br>Or else forever be confixèd here,<br>A marble monument. |
+| [[characters/angelo\|ANGELO]] | I did but smile till now.<br>Now, good my lord, give me the scope of justice.<br>My patience here is touched. I do perceive<br>These poor informal women are no more<br>But instruments of some more mightier member<br>That sets them on. Let me have way, my lord,<br>To find this practice out. |
+| DUKE | (standing)<br>Ay, with my heart,<br>And punish them even to your height of pleasure.—<br>Thou foolish friar, and thou pernicious woman<br>Compact with her that’s gone, think‘st thou thy oaths,<br>Though they would swear down each particular saint,<br>Were testimonies against his worth and credit<br>That’s sealed in approbation? You, Lord [[characters/escalus\|Escalus]],<br>Sit with my cousin; lend him your kind pains<br>To find out this abuse, whence ’tis derived.<br>There is another friar that set them on.<br>Let him be sent for.<br>[[characters/escalus\|Escalus]] sits |
+| FRIAR PETER | Would he were here, my lord, for he indeed<br>Hath set the women on to this complaint.<br>Your Provost knows the place where he abides,<br>And he may fetch him. |
+| DUKE | (to one or more)<br>Go, do it instantly. |
+| *(didascalia)* | Exit one or more |
+| DUKE | (To [[characters/angelo\|Angelo]]) And you, my noble and [[motifs/well\|well]]-warranted<br>cousin,<br>Whom it concerns to hear this matter forth,<br>Do with your injuries as seems you best<br>In any chastisement. I for a while will leave you,<br>But stir not you till you have [[motifs/well\|well]] determined<br>Upon these slanderers. |
+| [[characters/escalus\|ESCALUS]] | My lord, we’ll do it throughly. |
+| *(didascalia)* | Exit Duke |
+| [[characters/escalus\|ESCALUS]] | Signor [[characters/lucio\|Lucio]], did not you say you knew that Friar<br>Lodowick to be a dishonest person? |
+| [[characters/lucio\|LUCIO]] | Cucullus non facit monachum: honest in nothing but in his clothes; and one that hath spoke most villainous speeches of the Duke. |
+| [[characters/escalus\|ESCALUS]] | We shall entreat you to abide here till he come, and enforce them against him. We shall find this friar a notable fellow. |
+| [[characters/lucio\|LUCIO]] | As any in Vienna, on my word. |
+| [[characters/escalus\|ESCALUS]] | Call that same Isabel here once again; I would speak with her. Exit one or more (To [[characters/angelo\|Angelo]]) Pray you, my lord, give me leave to question. You shall see how I’ll handle her. |
+| [[characters/lucio\|LUCIO]] | Not better than he, by her own report. |
+| [[characters/escalus\|ESCALUS]] | Say you? |
+| [[characters/lucio\|LUCIO]] | Marry, sir, I think if you handled her privately, she would sooner confess; perchance publicly she’ll be ashamed. |
+| [[characters/escalus\|ESCALUS]] | I will go darkly to work with her. |
+| [[characters/lucio\|LUCIO]] | That’s the way, for women are light at midnight. Enter [[characters/isabella\|Isabella]], guarded |
+| [[characters/escalus\|ESCALUS]] | (to [[characters/isabella\|Isabella]]) Come on, mistress, here’s a gentlewoman denies all that you have said. |
+| *(didascalia)* | Enter the Duke, disguised as a friar, hooded, and the Provost |
+| [[characters/lucio\|LUCIO]] | My lord, here comes the rascal I spoke of, here with the Provost. |
+| [[characters/escalus\|ESCALUS]] | In very good [[motifs/time\|time]]. Speak not you to him till we call upon you. |
+| [[characters/lucio\|LUCIO]] | Mum. |
+| [[characters/escalus\|ESCALUS]] | (to the Duke) Come, sir, did you set these women on to slander Lord [[characters/angelo\|Angelo]]? They have confessed you did. |
+| DUKE | ’Tis false. |
+| [[characters/escalus\|ESCALUS]] | How! Know you where you are? |
+| DUKE | Respect to your great place, and let the devil<br>Be sometime honoured fore his burning throne.<br>Where is the Duke? ’Tis he should hear me speak. |
+| [[characters/escalus\|ESCALUS]] | The Duke’s in us, and we will hear you speak.<br>Look you speak justly. |
+| DUKE | Boldly at least.<br>(To [[characters/isabella\|Isabella]] and [[characters/mariana\|Mariana]]) But O, poor souls,<br>Come you to seek the [[motifs/lamb\|lamb]] here of the fox,<br>Good [[motifs/night\|night]] to your redress! Is the Duke gone?<br>Then is your cause gone too. The Duke’s unjust<br>Thus to retort your manifest appeal,<br>And put your trial in the [[archetypes/villain\|villain]]’s mouth<br>Which here you come to accuse. |
+| [[characters/lucio\|LUCIO]] | This is the rascal, this is he I spoke of. |
+| [[characters/escalus\|ESCALUS]] | Why, thou unreverend and unhallowed friar,<br>Is’t not enough thou hast suborned these women<br>To accuse this worthy man but, in foul mouth,<br>And in the witness of his proper ear,<br>To call him [[archetypes/villain\|villain]], and then to glance from him<br>To th’ Duke himself, to tax him with injustice?<br>Take him hence; to th’ rack with him. We’ll touse you<br>Joint by joint—but we will know his purpose.<br>What, ‘unjust’? |
+| DUKE | Be not so hot. The Duke<br>Dare no more stretch this finger of mine than he<br>Dare rack his own. His subject am I not,<br>Nor here provincial. My business in this state<br>Made me a looker-on here in Vienna,<br>Where I have seen corruption boil and bubble<br>Till it o’errun the stew; laws for all faults,<br>But faults so countenanced that the strong statutes<br>Stand like the forfeits in a barber’s shop,<br>As much in mock as mark. |
+| [[characters/escalus\|ESCALUS]] | Slander to th’ state!<br>Away with him to [[motifs/prison\|prison]]. |
+| [[characters/angelo\|ANGELO]] | What can you vouch against him, Signor [[characters/lucio\|Lucio]]?<br>Is this the man that you did tell us of? |
+| [[characters/lucio\|LUCIO]] | ’Tis he, my lord.—Come hither, goodman Bald-pate. Do you know me? |
+| DUKE | I remember you, sir, by the sound of your voice. I met you at the [[motifs/prison\|prison]], in the absence of the Duke. |
+| [[characters/lucio\|LUCIO]] | O, did you so? And do you remember what you said of the Duke? |
+| DUKE | Most notedly, sir. |
+| [[characters/lucio\|LUCIO]] | Do you so, sir? And was the Duke a fleshmonger, a [[archetypes/fool\|fool]], and a coward, as you then reported him to be? |
+| DUKE | You must, sir, change persons with me ere you make that my report. You indeed spoke so of him, and much more, much worse. |
+| [[characters/lucio\|LUCIO]] | O, thou damnable fellow! Did not I pluck thee by the nose for thy speeches? |
+| DUKE | I protest I [[motifs/love\|love]] the Duke as I [[motifs/love\|love]] myself. |
+| [[characters/angelo\|ANGELO]] | Hark how the [[archetypes/villain\|villain]] would close now, after his treasonable abuses. |
+| [[characters/escalus\|ESCALUS]] | Such a fellow is not to be talked withal. Away with him to [[motifs/prison\|prison]]. Where is the Provost? Away with him to [[motifs/prison\|prison]]. Lay bolts enough upon him. Let him speak no more. Away with those giglets too, and with the other confederate companion. |
+| *(didascalia)* | [[characters/mariana\|Mariana]] is raised to her feet, and is guarded |
+| [[characters/escalus\|ESCALUS]] | The Provost makes to seize the Duke |
+| DUKE | Stay, sir, stay a while. |
+| [[characters/angelo\|ANGELO]] | What, resists he? Help him, [[characters/lucio\|Lucio]]. |
+| [[characters/lucio\|LUCIO]] | (to the Duke) Come, sir; come, sir; come, sir! Foh, sir! Why, you bald-pated lying rascal, you must be hooded, must you? Show your knave’s visage, with a pox to you! Show your sheep-biting face, and be hanged an hour! Will’t not off?<br>He pulls off the friar’s hood, and discovers the Duke. |
+| *(didascalia)* | [[characters/angelo\|Angelo]] and [[characters/escalus\|Escalus]] rise |
+| DUKE | Thou art the first knave that e’er madest a duke.<br>First, Provost, let me bail these gentle three.<br>(To [[characters/lucio\|Lucio]]) Sneak not away, sir, for the friar and you<br>Must have a word anon. (To one or more) Lay hold on<br>him. |
+| [[characters/lucio\|LUCIO]] | This may prove worse than hanging. |
+| DUKE | (to [[characters/escalus\|Escalus]])<br>What you have spoke, I pardon. Sit you down.<br>We’ll borrow place of him. |
+| *(didascalia)* |  [[characters/escalus\|Escalus]] sits |
+| DUKE | (To [[characters/angelo\|Angelo]]) Sir, by your leave. |
+| *(didascalia)* |  He takes [[characters/angelo\|Angelo]]’s seat |
+| DUKE | Hast thou or word or wit or impudence<br>That yet can do thee office? If thou hast,<br>Rely upon it till my tale be heard,<br>And hold no longer out. |
+| [[characters/angelo\|ANGELO]] | O my dread lord,<br>I should be guiltier than my guiltiness<br>To think I can be undiscernible,<br>When I perceive your grace, like power divine,<br>Hath looked upon my passes. Then, good prince,<br>No longer session hold upon my shame,<br>But let my trial be mine own confession.<br>Immediate sentence then, and sequent [[motifs/death\|death]],<br>Is all the grace I beg. |
+| DUKE | Come hither, [[characters/mariana\|Mariana]].<br>(To [[characters/angelo\|Angelo]]) Say, wast thou e’er contracted to this<br>woman? |
+| [[characters/angelo\|ANGELO]] | I was, my lord. |
+| DUKE | Go, take her hence and marry her instantly.<br>Do you the office, friar; which consummate,<br>Return him here again. Go with him, Provost. |
+| *(didascalia)* | Exeunt [[characters/angelo\|Angelo]], [[characters/mariana\|Mariana]], Friar Peter, and the |
+| DUKE | Provost |
+| [[characters/escalus\|ESCALUS]] | My lord, I am more amazed at his dishonour<br>Than at the strangeness of it. |
+| DUKE | Come hither, Isabel.<br>Your friar is now your prince. As I was then<br>Advertising and holy to your business,<br>Not changing heart with habit I am still<br>Attorneyed at your service. |
+| [[characters/isabella\|ISABELLA]] | O, give me pardon,<br>That I, your vassal, have employed and pained<br>Your unknown sovereignty. |
+| DUKE | You are pardoned, Isabel.<br>And now, dear maid, be you as free to us.<br>Your brother’s [[motifs/death\|death]] I know sits at your heart,<br>And you may marvel why I obscured myself,<br>Labouring to save his life, and would not rather<br>Make rash remonstrance of my hidden power<br>Than let him so be lost. O most kind maid,<br>It was the swift celerity of his [[motifs/death\|death]],<br>Which I did think with slower foot came on,<br>That brained my purpose. But peace be with him!<br>That life is better life, past fearing [[motifs/death\|death]],<br>Than that which lives to [[concepts/fear\|fear]]. Make it your comfort,<br>So happy is your brother. |
+| [[characters/isabella\|ISABELLA]] | I do, my lord. |
+| *(didascalia)* | Enter [[characters/angelo\|Angelo]], [[characters/mariana\|Mariana]], Friar Peter, and the Provost |
+| DUKE | For this new-married man approaching here,<br>Whose salt [[concepts/imagination\|imagination]] yet hath wronged<br>Your [[motifs/well\|well]]-defended [[concepts/honour\|honour]], you must pardon<br>For [[characters/mariana\|Mariana]]’s sake; but as he adjudged your<br>brother—<br>Being criminal in [[topoi/double\|double]] violation<br>Of sacred chastity and of promise-breach,<br>Thereon dependent, for your brother’s life—<br>The very [[concepts/mercy\|mercy]] of the law cries out<br>Most audible, even from his proper tongue,<br>‘An [[characters/angelo\|Angelo]] for [[characters/claudio\|Claudio]], [[motifs/death\|death]] for [[motifs/death\|death]]’.<br>Haste still pays haste, and leisure answers leisure;<br>Like doth quit like, and measure still for measure.<br>Then, [[characters/angelo\|Angelo]], thy fault’s thus manifested,<br>Which, though thou wouldst deny, denies thee<br>vantage.<br>We do condemn thee to the very block<br>Where [[characters/claudio\|Claudio]] stooped to [[motifs/death\|death]], and with like haste.<br>Away with him. |
+| [[characters/mariana\|MARIANA]] | O my most gracious lord,<br>I [[concepts/hope\|hope]] you will not mock me with a husband! |
+| DUKE | It is your husband mocked you with a husband.<br>Consenting to the safeguard of your [[concepts/honour\|honour]],<br>I thought your [[motifs/marriage\|marriage]] fit; else imputation,<br>For that he knew you, might reproach your life,<br>And choke your good to come. For his possessions,<br>Although by confiscation they are ours,<br>We do enstate and widow you with all,<br>To buy you a better husband. |
+| [[characters/mariana\|MARIANA]] | O my dear lord,<br>I crave no other, nor no better man. |
+| DUKE | Never crave him; we are definitive. |
+| [[characters/mariana\|MARIANA]] | Gentle my liege— |
+| DUKE | You do but lose your labour.—<br>Away with him to [[motifs/death\|death]]. (To [[characters/lucio\|Lucio]]) Now, sir, to you. |
+| [[characters/mariana\|MARIANA]] | (kneeling)<br>O my good lord!—Sweet Isabel, take my part;<br>Lend me your knees, and all my life to come<br>I’ll lend you all my life to do you service. |
+| DUKE | Against all sense you do importune her.<br>Should she kneel down in [[concepts/mercy\|mercy]] of this fact,<br>Her brother’s [[archetypes/ghost\|ghost]] his paved bed would break,<br>And take her hence in horror. |
+| [[characters/mariana\|MARIANA]] | Isabel,<br>Sweet Isabel, do yet but kneel by me.<br>Hold up your hands; say nothing; I’ll speak all.<br>They say best men are moulded out of faults,<br>And, for the most, become much more the better<br>For being a little bad. So may my husband.<br>O Isabel, will you not lend a knee? |
+| DUKE | He dies for [[characters/claudio\|Claudio]]’s [[motifs/death\|death]]. |
+| [[characters/isabella\|ISABELLA]] | (kneeling) Most bounteous sir,<br>Look, if it please you, on this man condemned<br>As if my brother lived. I partly think<br>A due sincerity governed his deeds,<br>Till he did look on me. Since it is so,<br>Let him not die. My brother had but justice,<br>In that he did the thing for which he died.<br>For [[characters/angelo\|Angelo]],<br>His act did not o’ertake his bad intent,<br>And must be buried but as an intent<br>That perished by the way. Thoughts are no subjects,<br>Intents but merely thoughts. |
+| [[characters/mariana\|MARIANA]] | Merely, my lord. |
+| DUKE | Your suit’s unprofitable. Stand up, I say. |
+| *(didascalia)* | [[characters/mariana\|Mariana]] |
+| *(didascalia)* | and [[characters/isabella\|Isabella]] stand |
+| DUKE | I have bethought me of another fault.<br>Provost, how came it [[characters/claudio\|Claudio]] was beheaded<br>At an unusual hour? |
+| PROVOST | It was commanded so. |
+| DUKE | Had you a special warrant for the deed? |
+| PROVOST | No, my good lord, it was by private message. |
+| DUKE | For which I do discharge you of your office.<br>Give up your keys. |
+| PROVOST | Pardon me, noble lord.<br>I thought it was a fault, but knew it not,<br>Yet did repent me after more advice;<br>For testimony whereof one in the [[motifs/prison\|prison]]<br>That should by private order else have died<br>I have reserved alive. |
+| DUKE | What’s he? |
+| PROVOST | His name is Barnardine. |
+| DUKE | I would thou hadst done so by [[characters/claudio\|Claudio]].<br>Go fetch him hither. Let me look upon him. |
+| *(didascalia)* | Exit Provost |
+| [[characters/escalus\|ESCALUS]] | I am sorry one so learned and so wise<br>As you, Lord [[characters/angelo\|Angelo]], have still appeared,<br>Should slip so grossly, both in the heat of [[motifs/blood\|blood]]<br>And lack of tempered judgement afterward. |
+| [[characters/angelo\|ANGELO]] | I am sorry that such sorrow I procure,<br>And so deep sticks it in my penitent heart<br>That I crave [[motifs/death\|death]] more willingly than [[concepts/mercy\|mercy]].<br>’Tis my deserving, and I do entreat it. |
+| *(didascalia)* | Enter Barnardine and the Provost; [[characters/claudio\|Claudio]], muffled, and [[characters/juliet\|Juliet]] |
+| DUKE | Which is that Barnardine? |
+| PROVOST | This, my lord. |
+| DUKE | There was a friar told me of this man.<br>(To Barnardine) Sirrah, thou art said to have a<br>stubborn [[motifs/soul\|soul]]<br>That apprehends no further than this world,<br>And squar‘st thy life according. Thou’rt condemned;<br>But, for those earthly faults, I quit them all,<br>And pray thee take this [[concepts/mercy\|mercy]] to provide<br>For better times to come.—Friar, advise him.<br>I leave him to your hand. (To Provost) What muffled<br>fellow’s that? |
+| PROVOST | This is another prisoner that I saved,<br>Who should have died when [[characters/claudio\|Claudio]] lost his head,<br>As like almost to [[characters/claudio\|Claudio]] as himself.<br>He unmuffles [[characters/claudio\|Claudio]] |
+| DUKE | (to [[characters/isabella\|Isabella]])<br>If he be like your brother, for his sake<br>Is he pardoned; and for your lovely sake<br>Give me your hand, and say you will be mine.<br>He is my brother too. But fitter [[motifs/time\|time]] for that.<br>By this Lord [[characters/angelo\|Angelo]] perceives he’s safe.<br>Methinks I see a quick’ning in his eye.<br>[[motifs/well\|Well]], [[characters/angelo\|Angelo]], your evil quits you [[motifs/well\|well]].<br>Look that you [[motifs/love\|love]] your wife, her worth worth yours.<br>I find an apt remission in myself;<br>And yet here’s one in place I cannot pardon.<br>(To [[characters/lucio\|Lucio]]) You, sirrah, that knew me for a [[archetypes/fool\|fool]], a<br>coward,<br>One all of luxury, an ass, a madman,<br>Wherein have I so deserved of you<br>That you extol me thus? |
+| [[characters/lucio\|LUCIO]] | [[concepts/faith\|Faith]], my lord, I spoke it but according to the trick. If you will hang me for it, you may; but I had rather it would please you I might be whipped. |
+| DUKE | Whipped first, sir, and hanged after.<br>Proclaim it, Provost, round about the [[motifs/city\|city]],<br>If any woman wronged by this lewd fellow,<br>As I have heard him swear himself there’s one<br>Whom he begot with [[archetypes/child\|child]], let her appear,<br>And he shall marry her. The nuptial finished,<br>Let him be whipped and hanged. |
+| [[characters/lucio\|LUCIO]] | I beseech your highness, do not marry me to a whore. Your highness said even now I made you a duke; good my lord, do not recompense me in making me a cuckold. |
+| DUKE | Upon mine [[concepts/honour\|honour]], thou shalt marry her.<br>Thy slanders I forgive, and therewithal<br>Remit thy other forfeits.—Take him to [[motifs/prison\|prison]],<br>And see our pleasure herein executed. |
+| [[characters/lucio\|LUCIO]] | Marrying a punk, my lord, is pressing to [[motifs/death\|death]], whipping, and hanging. |
+| DUKE | Slandering a prince deserves it. |
+| *(didascalia)* | Exit |
+| DUKE | [[characters/lucio\|Lucio]] |
+| *(didascalia)* | guarded |
+| DUKE | She, [[characters/claudio\|Claudio]], that you wronged, look you restore.<br>Joy to you, [[characters/mariana\|Mariana]]. [[motifs/love\|Love]] her, [[characters/angelo\|Angelo]].<br>I have confessed her, and I know her virtue.<br>Thanks, good friend [[characters/escalus\|Escalus]], for thy much goodness.<br>There’s more behind that is more gratulate.<br>Thanks, Provost, for thy care and secrecy.<br>We shall employ thee in a worthier place.<br>Forgive him, [[characters/angelo\|Angelo]], that brought you [[motifs/home\|home]]<br>The head of Ragusine for [[characters/claudio\|Claudio]]’s.<br>Th’offence pardons itself. Dear Isabel,<br>I have a motion much imports your good,<br>Whereto, if you’ll a willing ear incline,<br>What’s mine is yours, and what is yours is mine.<br>(To all) So bring us to our palace, where we’ll show<br>What’s yet behind that’s meet you all should know. |
+| *(didascalia)* | Exeunt |
+| ADDITIONAL PASSAGES | The text of Measure for Measure given in this edition is probably that of an adapted version made for Shakespeare’s company after his [[motifs/death\|death]]. Adaptation seems to have affected two passages, printed below as we believe Shakespeare to have written them.<br><br>A. 1.2.0.1-116<br>A.2-9 (‘... by him’) are lines which the adapter (whom we believe to be Thomas Middleton) evidently intended to be replaced by 1.2.56-79 of the play as we print it. The adapter must have contributed all of 1.2.0.1-83, which in the earliest and subsequent printed texts precede the discussion between the Clown ([[characters/pompey\|Pompey]]) and the Bawd (Mistress Overdone) about [[characters/claudio\|Claudio]]’s arrest. [[characters/lucio\|Lucio]]’s entry [[Alone\|alone]] at 1. 40.1 below, some eleven lines after his re-entry with the two Gentlemen and the Provost’s party in the adapted text, probably represents Shakespeare’s original intention. In his version, [[characters/juliet\|Juliet]], present but silent in the adapted text both in 1.2 and 5.1, probably did not appear in either scene; accordingly, the words ‘and there’s Madam [[characters/juliet\|Juliet]]’ (1.2.107) must also be the reviser’s work, and do not appear below. |
+| *(didascalia)* | Enter [[characters/pompey\|Pompey]] and Mistress Overdone, meeting |
+| MISTRESS OVERDONE | How now, what’s the news with you? |
+| [[characters/pompey\|POMPEY]] | Yonder man is carried to [[motifs/prison\|prison]]. |
+| MISTRESS OVERDONE | [[motifs/well\|Well]]! What has he done? |
+| [[characters/pompey\|POMPEY]] | A woman. |
+| MISTRESS OVERDONE | But what’s his offence? |
+| [[characters/pompey\|POMPEY]] | Groping for trouts in a peculiar [[motifs/river\|river]]. |
+| MISTRESS OVERDONE | What, is there a maid with [[archetypes/child\|child]] by him? |
+| [[characters/pompey\|POMPEY]] | No, but there’s a woman with maid by him: you have not heard of the proclamation, have you? |
+| MISTRESS OVERDONE | What proclamation, man? |
+| [[characters/pompey\|POMPEY]] | All houses in the suburbs of Vienna must be plucked down. |
+| MISTRESS OVERDONE | And what shall become of those in the [[motifs/city\|city]]? |
+| [[characters/pompey\|POMPEY]] | They shall stand for seed. They had gone down too, but that a wise burgher put in for them. |
+| MISTRESS OVERDONE | But shall all our houses of resort in the suburbs be pulled down? |
+| [[characters/pompey\|POMPEY]] | To the ground, mistress. |
+| MISTRESS OVERDONE | Why, here’s a change indeed in the commonwealth. What shall become of me? |
+| [[characters/pompey\|POMPEY]] | Come, [[concepts/fear\|fear]] not you. Good counsellors lack no clients. Though you change your place, you need not change your trade. I’ll be your tapster still. [[concepts/courage\|Courage]], there will be pity taken on you. You that have worn your eyes almost out in the service, you will be considered. |
+| *(didascalia)* | A noise within |
+| MISTRESS OVERDONE | What’s to do here, Thomas Tapster?<br>Let’s withdraw! |
+| *(didascalia)* | Enter the Provost and [[characters/claudio\|Claudio]] |
+| [[characters/pompey\|POMPEY]] | Here comes Signor [[characters/claudio\|Claudio]], led by the Provost to [[motifs/prison\|prison]]. Exeunt Mistress Overdone and [[characters/pompey\|Pompey]] |
+| [[characters/claudio\|CLAUDIO]] | Fellow, why dost thou show me thus to th’ world?<br>Bear me to [[motifs/prison\|prison]], where I am committed. |
+| PROVOST | I do it not in evil disposition,<br>But from Lord [[characters/angelo\|Angelo]] by special charge. |
+| [[characters/claudio\|CLAUDIO]] | Thus can the demigod Authority<br>Make us pay down for our offence, by weight,<br>The bonds of heaven. On whom it will, it will;<br>On whom it will not, so; yet still ’tis just. |
+| *(didascalia)* | Enter [[characters/lucio\|Lucio]] |
+| [[characters/lucio\|LUCIO]] | Why, how now, [[characters/claudio\|Claudio]]? Whence comes this restraint?<br><br>B. 3.1.515-4.1.65<br>Before revision there would have been no act-break and no [[Song\|song]]; the lines immediately following the [[Song\|song]] would also have been absent. The Duke’s soliloquies ‘He who the [[Sword\|sword]] of heaven will bear’ and ‘O place and [[concepts/greatness\|greatness]]’ have evidently been transposed in revision; in the original, the end of ‘O place and [[concepts/greatness\|greatness]]’ would have led straight on to the Duke’s meeting with [[characters/isabella\|Isabella]] and then [[characters/mariana\|Mariana]]. |
+| [[characters/escalus\|ESCALUS]] | I am going to visit the prisoner. Fare you [[motifs/well\|well]]. |
+| DUKE | Peace be with you. Exit [[characters/escalus\|Escalus]]<br>O place and [[concepts/greatness\|greatness]], millions of false eyes<br>Are stuck upon thee; volumes of report<br>Run with their false and most contrarious [[topoi/quest\|quest]]<br>Upon thy doings; thousand escapes of wit<br>Make thee the father of their idle dream,<br>And rack thee in their fancies. |
+| *(didascalia)* | Enter [[characters/isabella\|Isabella]] |
+| DUKE | Very [[motifs/well\|well]] met.<br>What is the news from this good deputy? |
+| [[characters/isabella\|ISABELLA]] | He hath a [[motifs/garden\|garden]] circummured with brick,<br>Whose western side is with a vineyard backed;<br>And to that vineyard is a planckèd gate,<br>That makes his opening with this bigger key.<br>This other doth command a little door<br>Which from the vineyard to the [[motifs/garden\|garden]] leads.<br>There have I made my promise<br>Upon the heavy middle of the [[motifs/night\|night]]<br>To call upon him. |
+| DUKE | But shall you on your knowledge find this way? |
+| [[characters/isabella\|ISABELLA]] | I have ta‘en a due and wary note upon’t.<br>With whispering and most guilty diligence,<br>In action all of precept, he did show me<br>The way twice o’er. |
+| DUKE | Are there no other tokens<br>Between you ’[[concepts/greed\|greed]] concerning her observance? |
+| [[characters/isabella\|ISABELLA]] | No, none, but only a repair i’th’ dark,<br>And that I have possessed him my most stay<br>Can be but brief, for I have made him know<br>I have a servant comes with me along<br>That stays upon me, whose [[Persuasion\|persuasion]] is<br>I come about my brother. |
+| DUKE | ’Tis [[motifs/well\|well]] borne up.<br>I have not yet made known to [[characters/mariana\|Mariana]]<br>A word of this.—What ho, within! Come forth! |
+| *(didascalia)* | Enter [[characters/mariana\|Mariana]] |
+| DUKE | (To [[characters/mariana\|Mariana]]) I pray you be acquainted with this maid.<br>She comes to do you good. |
+| [[characters/isabella\|ISABELLA]] | I do [[motifs/desire\|desire]] the like. |
+| DUKE | (to [[characters/mariana\|Mariana]])<br>Do you persuade yourself that I respect you? |
+| [[characters/mariana\|MARIANA]] | Good friar, I know you do, and so have found it. |
+| DUKE | Take then this your companion by the hand,<br>Who hath a story ready for your ear.<br>I shall attend your leisure; but make haste,<br>The vaporous [[motifs/night\|night]] approaches. |
+| [[characters/mariana\|MARIANA]] | Will’t please you walk aside. |
+| *(didascalia)* | Exeunt [[characters/mariana\|Mariana]] and [[characters/isabella\|Isabella]] |
+| DUKE | He who the [[Sword\|sword]] of heaven will bear<br>Should be as holy as severe,<br>Pattern in himself to know,<br>Grace to stand, and virtue go,<br>More nor less to others paying<br>Than by [[concepts/self\|self]]-offences weighing.<br>Shame to him whose cruel striking<br>Kills for faults of his own liking!<br>Twice treble shame on [[characters/angelo\|Angelo]],<br>To weed my vice, and let his grow!<br>O, what may man within him hide,<br>Though angel on the outward side!<br>How may likeness made in crimes<br>Make my practice on the times<br>To draw with idle spiders’ strings<br>Most ponderous and substantial things?<br>Craft against vice I must apply.<br>With [[characters/angelo\|Angelo]] tonight shall lie<br>His old betrothed but despised.<br>So disguise shall, by th’ disguised,<br>Pay with falsehood false exacting,<br>And perform an old contracting. |
+| *(didascalia)* | Enter |
+| DUKE | [[characters/mariana\|Mariana]] |
+| *(didascalia)* | and [[characters/isabella\|Isabella]] |
+| DUKE | Welcome. How agreed? |
+| [[characters/isabella\|ISABELLA]] | She’ll take the enterprise upon her, father,<br>If you advise it. |
+| [[characters/othello\|OTHELLO]] | [[characters/othello\|Othello]] was given before James I in the Banqueting [[house\|House]] at Whitehall on I November 1604. Information about the Turkish invasion of Cyprus appears to derive from [[characters/richard\|Richard]] Knolles’s [[concepts/history\|History]] of the Turks, published no earlier than 30 September 1603, so Shakespeare probably completed his play some [[motifs/time\|time]] between that date and the [[motifs/summer\|summer]] of 1604. It first appeared in print in a quarto of 1622; the version printed in the 1623 Folio is about 160 lines longer, and has over a thousand differences in wording. It seems that Shakespeare partially revised his play, adding, for example, [[characters/desdemona\|Desdemona]]’s willow [[Song\|song]] (4.3) and building up [[characters/emilia\|Emilia]]’s role in the closing scenes. We base our text on the Folio as that seems to represent Shakespeare’s second thoughts.<br>Shakespeare’s decision to make a black man a [[archetypes/tragic-hero\|tragic hero]] was bold and original: by an ancient tradition, blackness was associated with sin and [[motifs/death\|death]]; and blackamoors in plays before Shakespeare are generally villainous (as is [[characters/aaron\|Aaron]] in [[characters/titus-andronicus\|Titus Andronicus]]). The story of a Moorish commander deluded by his ensign (standard-bearer) into believing that his young wife has been unfaithful to him with another soldier derives from a prose tale by the Italian Giambattista Cinzio Giraldi first published in 1565 in a collection of linked tales, Gli Ecatommiti (The Hundred Tales). Shakespeare must have read it either in Italian or in a French [[forms/translation\|translation]] of 1584, he may have looked at both. Giraldi tells the tale in a few pages of compressed, matter-of-fact narrative interspersed with brief conversations. His main characters are a Moor of [[settings/venice\|Venice]] ([[characters/othello\|Othello]]), his Venetian wife ([[characters/desdemona\|Desdemona]]), his ensign ([[characters/iago\|Iago]]), his ensign’s wife ([[characters/emilia\|Emilia]]), and a corporal ([[characters/cassio\|Cassio]]) ‘who was very dear to the Moor’. Only [[characters/desdemona\|Desdemona]] is named. Shakespeare’s invented characters include [[characters/roderigo\|Roderigo]], a young, disappointed suitor of [[characters/desdemona\|Desdemona]], and Brabanzio, [[characters/desdemona\|Desdemona]]’s father, who opposes her [[motifs/marriage\|marriage]] to [[characters/othello\|Othello]]. [[characters/bianca\|Bianca]], [[characters/cassio\|Cassio]]’s mistress, is developed from a few hints in the source. Shakespeare also introduces the military action between Turkey and [[settings/venice\|Venice]]—infidels and Christians—which gives especial importance to [[characters/othello\|Othello]]’s posting to Cyprus, a Venetian protectorate which the Turks attacked in 1570 and conquered in the following year. In the source, [[characters/othello\|Othello]] and [[characters/desdemona\|Desdemona]] are already happily settled into married life when they go to Cyprus; Shakespeare compresses the [[motifs/time\|time]]-scheme and makes many changes to the narrative.<br>[[characters/othello\|Othello]], a great [[success]] in Shakespeare’s [[motifs/time\|time]], was one of the first plays to be acted after the reopening of the theatres in 1660, and since that [[motifs/time\|time]] has remained one of the most popular plays on the English stage. |
+| THE PERSONS OF THE | PLAY<br>[[characters/othello\|OTHELLO]], the Moor of [[settings/venice\|Venice]]<br>[[characters/desdemona\|DESDEMONA]], his wife<br>[[characters/michael\|Michael]] [[characters/cassio\|CASSIO]], his lieutenant<br>[[characters/bianca\|BIANCA]], a courtesan, in [[motifs/love\|love]] with [[characters/cassio\|Cassio]]<br>[[characters/iago\|IAGO]], the Moor’s ensign<br>[[characters/emilia\|EMILIA]], [[characters/iago\|Iago]]’s wife<br>A CLOWN, a servant of [[characters/othello\|Othello]]<br>The DUKE of [[settings/venice\|Venice]]<br>BRABANZIO, [[characters/desdemona\|Desdemona]]’s father, a Senator of [[settings/venice\|Venice]]<br>GRAZIANO, Brabanzio’s brother<br>LODOVICO, kinsman of Brabanzio |
+| SENATORS | of [[settings/venice\|Venice]]<br>[[characters/roderigo\|RODERIGO]], a Venetian gentleman, in [[motifs/love\|love]] with [[characters/desdemona\|Desdemona]]<br>MONTANO, Governor of Cyprus<br>A HERALD<br>A MESSENGER<br>Attendants, officers, sailors, gentlemen of Cyprus, musicians |
+
+
 <span class="qlang-split" data-lang="it"></span>
 
 MEASURE FOR MEASURE
 BY SHAKESPEARE, ADAPTED BY THOMAS MIDDLETON
-Measure for Measure, first printed in the 1623 Folio, was performed at [[settings/court|court]] on 26 December 1604. Plague had caused [[settings/london|London]]’s theatres to be closed from May 1603 to April 1604; the play was probably written and first acted during this period. Dislocations and other features of the text as printed suggest that it may have undergone adaptation after Shakespeare’s [[motifs/death|death]]. Someone—perhaps Thomas Middleton, to judge by the style—seems to have supplied a new, seedy opening to Act I, Scene 2; and an adapter seems also to have altered 3.1. 517-4.1.63 by transposing the Duke’s two soliloquies, by introducing a stanza from a popular song, and supplying dialogue to follow it, and by adding other short passages. We print the text in what we believe to be its adapted form; a conjectured reconstruction of Shakespeare’s original version of the adapted sections is given in the Additional Passages.
+Measure for Measure, first printed in the 1623 Folio, was performed at [[settings/court|court]] on 26 December 1604. Plague had caused [[settings/london|London]]’s theatres to be closed from May 1603 to April 1604; the play was probably written and first acted during this period. Dislocations and other features of the text as printed suggest that it may have undergone adaptation after Shakespeare’s [[motifs/death|death]]. Someone—perhaps Thomas Middleton, to judge by the style—seems to have supplied a new, seedy opening to Act I, Scene 2; and an adapter seems also to have altered 3.1. 517-4.1.63 by transposing the Duke’s two soliloquies, by introducing a stanza from a popular [[Song|song]], and supplying dialogue to follow it, and by adding other short passages. We print the text in what we believe to be its adapted form; a conjectured reconstruction of Shakespeare’s original version of the adapted sections is given in the Additional Passages.
 The story of a woman who, in seeking to save the life of a male relative, arouses the lust of a man in authority was an ancient one that reached literary form in the mid sixteenth century. Shakespeare may have known the prose version in Giambattista Cinzio Giraldi’s Gli Ecatommiti (1565, translated into French in 1583) and the same author’s play Epitia (1573, published in 1583), but his main source was George Whetstone’s unsuccessful, unperformed two-part [[forms/tragicomedy|tragicomedy]] Promos and Cassandra, published in 1578.
-Shakespeare’s title comes from St Matthew’s account of [[characters/christ|Christ]]’s Sermon on the Mount: ‘with what measure ye mete, it shall be measured to you again’. The title is not expressive of the play’s morality, but it alerts the spectator to Shakespeare’s exploration of moral issues. His heroine, [[characters/isabella|Isabella]], is not merely, as in Whetstone, a virtuous young maiden: she is about to enter a nunnery. Her brother, [[characters/claudio|Claudio]], has not, as in Whetstone, been accused (however unjustly) of rape: his [[concepts/union|union]] with the girl ([[characters/juliet|Juliet]]) he has made pregnant has been ratified by a betrothal ceremony, and lacks only the church’s formal blessing. So [[characters/angelo|Angelo]], deputizing for the absent Duke of Vienna, seems peculiarly harsh in attempting to enforce the [[motifs/city|city]]’s laws against fornication by insisting on [[characters/claudio|Claudio]]’s execution; and [[characters/angelo|Angelo]]’s hypocrisy in demanding [[characters/isabella|Isabella]]’s chastity in return for her brother’s life seems correspondingly greater. By adding the character of [[characters/mariana|Mariana]], to whom [[characters/angelo|Angelo]] himself had once been betrothed, and by employing the traditional motif of the ‘bed-trick’, by which [[characters/mariana|Mariana]] substitutes for [[characters/isabella|Isabella]] in [[characters/angelo|Angelo]]’s bed, Shakespeare permits [[characters/isabella|Isabella]] both to retain her virtue and to forgive [[characters/angelo|Angelo]] without marrying him.
-Although Measure for Measure, like The Merchant of [[settings/venice|Venice]], is much concerned with justice and [[concepts/mercy|mercy]], its more explicit concern with sex and [[motifs/death|death]] along with the intense emotional reality, at least in the earlier part of the play, of its portrayal of [[characters/angelo|Angelo]], [[characters/isabella|Isabella]], and [[characters/claudio|Claudio]], creates a deeper seriousness of tone which takes it out of the world of romantic [[forms/comedy|comedy]] into that of [[forms/tragicomedy|tragicomedy]] or, as the twentieth-century label has it, ‘[[forms/problem-play|problem play]]’. Its low-life characters inhabit a diseased world of brothels and prisons, but there is a life-enhancing quality in their frank acknowledgement of [[concepts/sexuality|sexuality]]; and the Duke’s manipulation of events casts a tinge of romance over the play’s later scenes.
-Measure for Measure’s subtle and passionate exploration of issues of sexual morality, of the uses and abuses of power, gave it a special appeal in the later part of the twentieth century. Each of the ‘good’ characters fails in some respect; none of the ‘bad’ ones lacks some redeeming quality; all are, in the last analysis, ‘desperately mortal’ (4.2.148).
+Shakespeare’s title comes from St Matthew’s account of [[characters/christ|Christ]]’s Sermon on the Mount: ‘with what measure ye mete, it shall be measured to you again’. The title is not expressive of the play’s [[morality]], but it alerts the spectator to Shakespeare’s exploration of moral issues. His heroine, [[characters/isabella|Isabella]], is not merely, as in Whetstone, a virtuous young maiden: she is about to enter a nunnery. Her brother, [[characters/claudio|Claudio]], has not, as in Whetstone, been accused (however unjustly) of rape: his [[concepts/union|union]] with the girl ([[characters/juliet|Juliet]]) he has made pregnant has been ratified by a betrothal ceremony, and lacks only the church’s formal blessing. So [[characters/angelo|Angelo]], deputizing for the absent Duke of Vienna, seems peculiarly harsh in attempting to enforce the [[motifs/city|city]]’s laws against fornication by insisting on [[characters/claudio|Claudio]]’s execution; and [[characters/angelo|Angelo]]’s hypocrisy in demanding [[characters/isabella|Isabella]]’s chastity in return for her brother’s life seems correspondingly greater. By adding the character of [[characters/mariana|Mariana]], to whom [[characters/angelo|Angelo]] himself had once been betrothed, and by employing the traditional motif of the ‘bed-trick’, by which [[characters/mariana|Mariana]] substitutes for [[characters/isabella|Isabella]] in [[characters/angelo|Angelo]]’s bed, Shakespeare permits [[characters/isabella|Isabella]] both to retain her virtue and to forgive [[characters/angelo|Angelo]] without marrying him.
+Although Measure for Measure, like The Merchant of [[settings/venice|Venice]], is much concerned with justice and [[concepts/mercy|mercy]], its more explicit concern with sex and [[motifs/death|death]] along with the intense emotional reality, at least in the earlier part of the play, of its portrayal of [[characters/angelo|Angelo]], [[characters/isabella|Isabella]], and [[characters/claudio|Claudio]], creates a deeper seriousness of tone which takes it out of the world of romantic [[forms/comedy|comedy]] into that of [[forms/tragicomedy|tragicomedy]] or, as the twentieth-century label has it, ‘[[forms/problem-play|problem play]]’. Its low-life characters inhabit a diseased world of brothels and prisons, but there is a life-enhancing quality in their frank acknowledgement of [[concepts/sexuality|sexuality]]; and the Duke’s manipulation of events casts a tinge of [[Romance|romance]] over the play’s later scenes.
+Measure for Measure’s subtle and passionate exploration of issues of sexual [[morality]], of the uses and abuses of power, gave it a special appeal in the later part of the twentieth century. Each of the ‘good’ characters fails in some respect; none of the ‘bad’ ones lacks some redeeming quality; all are, in the last analysis, ‘desperately mortal’ (4.2.148).
 THE PERSONS OF THE PLAY
 Vincentio, the DUKE of Vienna
 [[characters/angelo|ANGELO]], appointed his deputy
@@ -94,7 +1283,7 @@ Measure for Measure
 |---|---|
 | *(didascalia)* | Entrano il Duca, [[characters/escalus\|Escalo]] e altri signori DUCA [[characters/escalus\|Escalo]]. |
 | [[characters/escalus\|ESCALO]] | Mio signore. |
-| DUCA | Del governo esporre le proprietà<br>parrebbe in me ostentare eloquio e discorso,<br>poiché mi è dato sapere che la vostra scienza<br>in ciò eccede i confini d’ogni consiglio<br>che la mia facoltà vi possa dare. Altro non resta<br>che questo: alla vostra sufficienza, come il vostro merito consente,<br>e lasciate che operino. La [[concepts/nature\|natura]] del nostro popolo,<br>le istituzioni della nostra [[motifs/city\|città]] e i termini<br>della giustizia comune, ne siete gravido<br>quanto arte ed esperienza n’hanno arricchito alcuno<br>di cui serbiamo memoria.<br>Consegna a [[characters/escalus\|Escalo]] delle carte<br>Ecco la nostra commissione,<br>dalla quale non vorremmo che deviaste.<br>(A un signore) Chiamate qui,<br>dico, fate venire innanzi a noi, [[characters/angelo\|Angelo]]. Esce il signore<br><br>(A [[characters/escalus\|Escalo]]) Quale figura di noi credete ch’egli<br>porterà?—<br>Ché dovete sapere che con speciale [[motifs/soul\|animo]]<br>l’abbiamo eletto a supplire la nostra assenza,<br>gli abbiamo prestato il nostro terrore, vestito del nostro [[motifs/love\|amore]],<br>e dato alla sua delega tutti gli organi<br>del nostro proprio potere. Che ve ne pare? |
+| DUCA | Del [[government\|governo]] esporre le proprietà<br>parrebbe in me ostentare eloquio e discorso,<br>poiché mi è dato sapere che la vostra scienza<br>in ciò eccede i confini d’ogni consiglio<br>che la mia facoltà vi possa dare. Altro non resta<br>che questo: alla vostra sufficienza, come il vostro merito consente,<br>e lasciate che operino. La [[concepts/nature\|natura]] del nostro popolo,<br>le istituzioni della nostra [[motifs/city\|città]] e i termini<br>della giustizia comune, ne siete gravido<br>quanto arte ed esperienza n’hanno arricchito alcuno<br>di cui serbiamo memoria.<br>Consegna a [[characters/escalus\|Escalo]] delle carte<br>Ecco la nostra commissione,<br>dalla quale non vorremmo che deviaste.<br>(A un signore) Chiamate qui,<br>dico, fate venire innanzi a noi, [[characters/angelo\|Angelo]]. Esce il signore<br><br>(A [[characters/escalus\|Escalo]]) Quale figura di noi credete ch’egli<br>porterà?—<br>Ché dovete sapere che con speciale [[motifs/soul\|animo]]<br>l’abbiamo eletto a supplire la nostra assenza,<br>gli abbiamo prestato il nostro terrore, vestito del nostro [[motifs/love\|amore]],<br>e dato alla sua delega tutti gli organi<br>del nostro proprio potere. Che ve ne pare? |
 | [[characters/escalus\|ESCALO]] | Se alcuno in Vienna è degno<br>di sostenere sì ampia grazia e [[concepts/honour\|onore]],<br>è il signor [[characters/angelo\|Angelo]]. |
 | *(didascalia)* | Entra [[characters/angelo\|Angelo]] |
 | DUCA | Ecco, guardate, viene. |
@@ -184,7 +1373,7 @@ Measure for Measure
 | [[characters/claudio\|CLAUDIO]] | Così il semidio Autorità può<br>farci pagare per la nostra colpa, a peso,<br>i debiti del cielo. Su chi vuole, vuole;<br>su chi non vuole, no; e pure è giusto. |
 | [[characters/lucio\|LUCIO]] | Ebbene, come va, [[characters/claudio\|Claudio]]? Donde viene questa<br>costrizione? |
 | [[characters/claudio\|CLAUDIO]] | Da troppa libertà, mio [[characters/lucio\|Lucio]], libertà.<br>Come la crapula è padre di molto digiuno,<br>così ogni licenza, per l’uso smodato,<br>si volge in costrizione. Le nostre nature inseguono,<br>come topi che divorano il proprio veleno,<br>un male assetante; e quando beviamo, moriamo. |
-| [[characters/lucio\|LUCIO]] | Se sapessi parlare così saggiamente sotto arresto, manderei a chiamare certi miei creditori. E tuttavia, a dire la [[concepts/truth\|verità]], preferirei la scempiaggine della [[concepts/freedom\|libertà]] alla moralità della [[concepts/imprisonment\|prigionia]]. Qual è la tua colpa, [[characters/claudio\|Claudio]]? |
+| [[characters/lucio\|LUCIO]] | Se sapessi parlare così saggiamente sotto arresto, manderei a chiamare certi miei creditori. E tuttavia, a dire la [[concepts/truth\|verità]], preferirei la scempiaggine della [[concepts/freedom\|libertà]] alla [[morality\|moralità]] della [[concepts/imprisonment\|prigionia]]. Qual è la tua colpa, [[characters/claudio\|Claudio]]? |
 | [[characters/claudio\|CLAUDIO]] | Tale che il solo parlarne offenderebbe di nuovo. |
 | [[characters/lucio\|LUCIO]] | Come, è omicidio? |
 | [[characters/claudio\|CLAUDIO]] | No. |
@@ -261,7 +1450,7 @@ Measure for Measure
 | [[characters/lucio\|LUCIO]] | I nostri dubbi sono traditori,<br>e ci fanno perdere il bene che spesso potremmo vincere,<br>per il timore di tentare. Andate dal signor [[characters/angelo\|Angelo]];<br>e fategli imparare che, quando le fanciulle supplicano,<br>gli uomini donano come dèi, ma quando esse piangono e s’inginocchiano,<br>tutte le loro petizioni son loro concesse così largamente<br>come se le possedessero già. |
 | [[characters/isabella\|ISABELLA]] | Vedrò che cosa posso fare. |
 | [[characters/lucio\|LUCIO]] | Ma presto. |
-| [[characters/isabella\|ISABELLA]] | Mi ci metterò subito,<br>senza indugiare che a dare alla Madre<br>avviso della mia faccenda. Umilmente vi ringrazio.<br>Raccomandatemi a mio fratello. Stasera sul far della [[motifs/night\|notte]]<br>gli manderò notizia certa del mio esito. |
+| [[characters/isabella\|ISABELLA]] | Mi ci metterò subito,<br>senza indugiare che a dare alla Madre<br>avviso della mia faccenda. Umilmente vi ringrazio.<br>Raccomandatemi a mio fratello. Stasera sul far della [[motifs/night\|notte]]<br>gli manderò notizia certa del mio [[success\|esito]]. |
 | [[characters/lucio\|LUCIO]] | Prendo congedo da voi. |
 | [[characters/isabella\|ISABELLA]] | Buon signore, addio. |
 | *(didascalia)* | Escono [[characters/isabella\|Isabella]] e Francesca da una porta, |
@@ -281,7 +1470,7 @@ Measure for Measure
 | PREVOSTO | Qui, se piace a vostro [[concepts/honour\|onore]]. |
 | [[characters/angelo\|ANGELO]] | Badate che [[characters/claudio\|Claudio]]<br>sia giustiziato per le nove di domattina.<br>Portategli il suo confessore, sia preparato,<br>ché quello è l’estremo del suo pellegrinaggio. |
 | *(didascalia)* | Esce il Prevosto |
-| [[characters/escalus\|ESCALO]] | [[motifs/well\|Bene]], il cielo perdoni lui, e perdoni tutti noi!<br>Alcuni salgono col peccato, e altri per virtù cadono.<br>Alcuni corrono per i roveti del vizio, e non ne rispondono;<br>e altri son condannati per un solo fallo. |
+| [[characters/escalus\|ESCALO]] | [[motifs/well\|Bene]], il cielo perdoni lui, e perdoni tutti noi!<br>Alcuni salgono col peccato, e altri per virtù cadono.<br>Alcuni corrono per i roveti del vizio, e non ne rispondono;<br>e altri son condannati per un [[Alone\|solo]] fallo. |
 | *(didascalia)* | Entrano Elbow, Froth, [[characters/pompey\|Pompeo]] e ufficiali |
 | ELBOW | Su, portateli via. Se questa è brava gente in uno Stato, che non fa altro che usare i suoi abusi in case comuni, allora io non conosco legge. Portateli via. |
 | [[characters/angelo\|ANGELO]] | Ebbene, signore? Qual è il vostro nome? E di che si<br>tratta? |
@@ -292,13 +1481,13 @@ Measure for Measure
 | [[characters/angelo\|ANGELO]] | Andiamo, di che qualità sono? Elbow è il tuo nome? Perché non parli, Elbow? |
 | [[characters/pompey\|POMPEO]] | Non può, signore; è scucito al gomito. |
 | [[characters/angelo\|ANGELO]] | Che cosa siete voi, signore? |
-| ELBOW | Lui, signore? Uno spillatore, signore, mezzo ruffiano; uno che serve una cattiva donna la cui casa, signore, fu, a quanto dicono, abbattuta nei sobborghi; e ora ella professa una casa di bagni caldi, che credo sia anch’essa una pessima casa. |
+| ELBOW | Lui, signore? Uno spillatore, signore, mezzo ruffiano; uno che serve una cattiva donna la cui [[house\|casa]], signore, fu, a quanto dicono, abbattuta nei sobborghi; e ora ella professa una [[house\|casa]] di bagni caldi, che credo sia anch’essa una pessima [[house\|casa]]. |
 | [[characters/escalus\|ESCALO]] | Come lo sapete? |
 | ELBOW | Mia moglie, signore, che io detesto davanti al cielo e a vostro [[concepts/honour\|onore]]— |
 | [[characters/escalus\|ESCALO]] | Come, tua moglie? |
 | ELBOW | Sì, signore, la quale, ringrazio il cielo, è donna onesta— |
 | [[characters/escalus\|ESCALO]] | E la detesti per questo? |
-| ELBOW | Io dico, signore, che detesterò anche me stesso, così [[motifs/well\|bene]] come lei, che questa casa, se non è casa di ruffiana, è un peccato per la sua vita, ché è una casa sconcia. |
+| ELBOW | Io dico, signore, che detesterò anche me stesso, così [[motifs/well\|bene]] come lei, che questa [[house\|casa]], se non è [[house\|casa]] di ruffiana, è un peccato per la sua vita, ché è una [[house\|casa]] sconcia. |
 | [[characters/escalus\|ESCALO]] | E come lo sai, conestabile? |
 | ELBOW | Perbacco, signore, da mia moglie, la quale, se fosse stata donna cardinalmente inclinata, avrebbe potuto essere accusata là dentro di fornicazione, adulterio e ogni immondezza. |
 | [[characters/escalus\|ESCALO]] | Per opera di quella donna? |
@@ -306,7 +1495,7 @@ Measure for Measure
 | [[characters/pompey\|POMPEO]] | (a [[characters/escalus\|Escalo]]) Signore, con licenza di vostro [[concepts/honour\|onore]], non è così. |
 | ELBOW | Provalo davanti a questi manigoldi qui, tu uomo onorevole, provalo. |
 | [[characters/escalus\|ESCALO]] | (ad [[characters/angelo\|Angelo]]) Sentite come sposta le parole? |
-| [[characters/pompey\|POMPEO]] | Signore, ella entrò grossa d’un [[archetypes/child\|figlio]], e con [[concepts/longing\|voglia]]—salva la riverenza di vostro [[concepts/honour\|onore]]—di prugne cotte. Signore, non ne avevamo che due in casa, le quali in quel medesimo distante [[motifs/time\|tempo]] stavano, per così dire, in un piatto da frutta—un piatto da tre soldi; le vostre signorie hanno visto piatti simili; non son piatti di porcellana, ma piatti buonissimi. |
+| [[characters/pompey\|POMPEO]] | Signore, ella entrò grossa d’un [[archetypes/child\|figlio]], e con [[concepts/longing\|voglia]]—salva la riverenza di vostro [[concepts/honour\|onore]]—di prugne cotte. Signore, non ne avevamo che due in [[house\|casa]], le quali in quel medesimo distante [[motifs/time\|tempo]] stavano, per così dire, in un piatto da frutta—un piatto da tre soldi; le vostre signorie hanno visto piatti simili; non son piatti di porcellana, ma piatti buonissimi. |
 | [[characters/escalus\|ESCALO]] | Andiamo, andiamo, non importa del piatto, signore. |
 | [[characters/pompey\|POMPEO]] | No, davvero, signore, non vale uno spillo; in questo avete ragione. Ma veniamo al punto. Come dico, questa Mistress Elbow, essendo, come dico, gravida d’un [[archetypes/child\|figlio]], e avendo la pancia grossa, e avendo [[concepts/longing\|voglia]], come ho detto, di prugne; e non essendocene che due nel piatto, come ho detto, avendone messer Froth qui, quest’uomo medesimo, mangiato il resto, come ho detto, e, come dico, pagandole assai onestamente; ché, come sapete, messer Froth, io non potevo rendervi i tre soldi. |
 | FROTH | No, davvero. |
@@ -339,7 +1528,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALO]] | Ma no. |
 | [[characters/pompey\|POMPEO]] | Sarò supposto sopra un libro che la sua faccia è la cosa peggiore che abbia. Bene, dunque—se la sua faccia è la cosa peggiore che abbia, come poteva messer Froth fare alcun male alla moglie del conestabile? Vorrei saperlo da vostro [[concepts/honour\|onore]]. |
 | [[characters/escalus\|ESCALO]] | Ha ragione, conestabile; che ne dite? |
-| ELBOW | Primo, con vostra licenza, la casa è una casa rispettata; secondo, costui è un tipo rispettato; e la sua padrona è una donna rispettata. |
+| ELBOW | Primo, con vostra licenza, la [[house\|casa]] è una [[house\|casa]] rispettata; secondo, costui è un tipo rispettato; e la sua padrona è una donna rispettata. |
 | [[characters/pompey\|POMPEO]] | (a [[characters/escalus\|Escalo]]) Per questa mano, signore, sua moglie è persona più rispettata di tutti noi. |
 | ELBOW | Manigoldo, tu menti; tu menti, malvagio manigoldo. Deve ancora venire il [[motifs/time\|tempo]] in cui ella sia mai stata rispettata con uomo, donna o [[archetypes/child\|fanciullo]]. |
 | [[characters/pompey\|POMPEO]] | Signore, ella fu rispettata con lui prima ch’egli la sposasse. |
@@ -360,7 +1549,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALO]] | Ha avuto più d’un marito? |
 | [[characters/pompey\|POMPEO]] | Nove, signore—Overdone dall’ultimo. |
 | [[characters/escalus\|ESCALO]] | Nove?—Venite qui da me, messer Froth. Messer Froth, non vorrei che frequentaste spillatori. Essi vi spilleranno, messer Froth, e voi li farete impiccare. Andatevene, e ch’io non senta più parlare di voi. |
-| FROTH | Ringrazio vossignoria. Per parte mia, non entro mai in una stanza d’una casa da spillare senza esservi tirato dentro. |
+| FROTH | Ringrazio vossignoria. Per parte mia, non entro mai in una stanza d’una [[house\|casa]] da spillare senza esservi tirato dentro. |
 | [[characters/escalus\|ESCALO]] | [[motifs/well\|Bene]], basta così, messer Froth. Addio. |
 | *(didascalia)* | Esce Froth |
 | [[characters/escalus\|ESCALO]] | Venite qui da me, messer Spillatore. Qual è il vostro<br>nome, messer Spillatore? |
@@ -376,7 +1565,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALO]] | No, [[characters/pompey\|Pompeo]]. |
 | [[characters/pompey\|POMPEO]] | In verità, signore, a mio povero parere ci si metteranno allora. Se vossignoria provvederà alle sgualdrine e ai furfanti, non c’è bisogno di [[concepts/fear\|temere]] i ruffiani. |
 | [[characters/escalus\|ESCALO]] | Cominciano dei bei provvedimenti, ve lo posso dire. Non c’è che decapitare e impiccare. |
-| [[characters/pompey\|POMPEO]] | Se decapitate e impiccate tutti quelli che offendono per quella via anche solo per dieci anni di fila, sarete lieti di emanare una commissione per aver altre teste. Se questa legge dura in Vienna dieci anni, affitterò la più bella casa della città a tre soldi la campata. Se vivrete tanto da veder ciò accadere, dite che [[characters/pompey\|Pompeo]] ve l’aveva detto. |
+| [[characters/pompey\|POMPEO]] | Se decapitate e impiccate tutti quelli che offendono per quella via anche solo per dieci anni di fila, sarete lieti di emanare una commissione per aver altre teste. Se questa legge dura in Vienna dieci anni, affitterò la più bella [[house\|casa]] della città a tre soldi la campata. Se vivrete tanto da veder ciò accadere, dite che [[characters/pompey\|Pompeo]] ve l’aveva detto. |
 | [[characters/escalus\|ESCALO]] | Grazie, buon [[characters/pompey\|Pompeo]]; e in ricompensa della tua profezia, ascolta. Ti avverto: che io non ti trovi più davanti a me per qualsivoglia denuncia; no, neppure per abitare dove abiti. Se accade, [[characters/pompey\|Pompeo]], ti ricaccerò a bastonate nella tua tenda, e sarò per te un accorto Cesare; a parlar chiaro, [[characters/pompey\|Pompeo]], ti farò frustare. Dunque per questa [[motifs/time\|volta]], [[characters/pompey\|Pompeo]], sta’ [[motifs/well\|bene]]. |
 | *(didascalia)* | [[characters/pompey\|POMPEO]] Ringrazio vossignoria del buon consiglio; a parte ma lo seguirò come la carne e la fortuna meglio determineranno. Frustarmi? No, no; il carrettiere frusti la sua rozza. Il cuore valoroso non si lascia frustare fuori dal suo mestiere. Esce |
 | [[characters/escalus\|ESCALO]] | Venite qui da me, messer Elbow; venite qui, messer Conestabile. Da quanto tempo siete in questo posto di conestabile? |
@@ -386,8 +1575,8 @@ Measure for Measure
 | [[characters/escalus\|ESCALO]] | Ahimè, è stata gran fatica per voi. Vi fanno torto a mettervici così spesso. Non ci sono uomini nel vostro quartiere capaci di servirlo? |
 | ELBOW | In [[concepts/faith\|fede]], signore, pochi con un po’ d’ingegno in tali materie. Quando son scelti, sono ben contenti di scegliere me al posto loro. Lo faccio per qualche pezzo di denaro, e sbrigo tutto. |
 | [[characters/escalus\|ESCALO]] | Badate di portarmi i nomi di sei o sette, i più capaci della vostra parrocchia. |
-| ELBOW | Alla casa di vossignoria, signore? |
-| [[characters/escalus\|ESCALO]] | Alla mia casa. State [[motifs/well\|bene]]. |
+| ELBOW | Alla [[house\|casa]] di vossignoria, signore? |
+| [[characters/escalus\|ESCALO]] | Alla mia [[house\|casa]]. State [[motifs/well\|bene]]. |
 | *(didascalia)* | Esce Elbow con gli ufficiali |
 | [[characters/escalus\|ESCALO]] | Che [[motifs/clock\|ora]] è, secondo voi? |
 | GIUDICE | Le undici, signore. |
@@ -406,7 +1595,7 @@ Measure for Measure
 | SERVO | Sta ascoltando una causa; verrà subito.<br>Gli dirò di voi. |
 | PREVOSTO | Fatelo, vi prego. |
 | *(didascalia)* | Esce il Servo |
-| PREVOSTO | Conoscerò<br>il suo piacere; forse s’intenerirà. Ahimè,<br>egli non ha peccato che in un sogno.<br>Ogni setta, ogni età sa di questo vizio; ed egli<br>morire per questo! |
+| PREVOSTO | Conoscerò<br>il suo piacere; forse s’intenerirà. Ahimè,<br>egli non ha peccato che in [[A Dream\|un sogno]].<br>Ogni setta, ogni età sa di questo vizio; ed egli<br>morire per questo! |
 | *(didascalia)* | Entra |
 | PREVOSTO | [[characters/angelo\|Angelo]] |
 | [[characters/angelo\|ANGELO]] | Dunque, che c’è, Prevosto? |
@@ -444,7 +1633,7 @@ Measure for Measure
 | [[characters/isabella\|ISABELLA]] | Ma potreste farlo, e non fare torto al mondo,<br>se il vostro cuore fosse tocco da quella pietà<br>di cui il mio è tocco per lui? |
 | [[characters/angelo\|ANGELO]] | È sentenziato; è troppo tardi. |
 | [[characters/lucio\|LUCIO]] | (a parte, a [[characters/isabella\|Isabella]]) Siete troppo fredda. |
-| [[characters/isabella\|ISABELLA]] | Troppo tardi? Ma no; io che pronuncio una parola<br>posso richiamarla. [[motifs/well\|Bene]], credete a questo,<br>nessuna cerimonia che ai grandi appartenga,<br>non la [[motifs/crown\|corona]] del [[archetypes/king\|re]], né la spada delegata,<br>il bastone del maresciallo, né la toga del giudice,<br>li adorna con grazia neppure a metà così bella<br>come fa la [[concepts/mercy\|clemenza]].<br>Se egli fosse stato come voi e voi come lui,<br>voi sareste scivolato al pari suo, ma egli, come voi,<br>non sarebbe stato così duro. |
+| [[characters/isabella\|ISABELLA]] | Troppo tardi? Ma no; io che pronuncio una parola<br>posso richiamarla. [[motifs/well\|Bene]], credete a questo,<br>nessuna cerimonia che ai grandi appartenga,<br>non la [[motifs/crown\|corona]] del [[archetypes/king\|re]], né la [[Sword\|spada]] delegata,<br>il bastone del maresciallo, né la toga del giudice,<br>li adorna con grazia neppure a metà così bella<br>come fa la [[concepts/mercy\|clemenza]].<br>Se egli fosse stato come voi e voi come lui,<br>voi sareste scivolato al pari suo, ma egli, come voi,<br>non sarebbe stato così duro. |
 | [[characters/angelo\|ANGELO]] | Vi prego, andatevene. |
 | [[characters/isabella\|ISABELLA]] | Volesse il cielo ch’io avessi la vostra potenza,<br>e voi foste Isabella! Sarebbe allora così?<br>No; io direi che cosa è essere giudice,<br>e che cosa prigioniero. |
 | [[characters/lucio\|LUCIO]] | (a parte, a [[characters/isabella\|Isabella]]) Sì, toccatelo; là è la vena. |
@@ -639,7 +1828,7 @@ Measure for Measure
 | DUCA | Che, ora che siete venuto, ve ne andiate. Lasciatemi un poco con la fanciulla. Il mio animo promette, insieme col mio abito, che nessun danno le verrà dalla mia compagnia. |
 | PREVOSTO | In buon [[motifs/time\|tempo]]. Esce con [[characters/claudio\|Claudio]] |
 | DUCA | La mano che vi ha fatta bella vi ha fatta buona. La bontà che nella [[concepts/beauty\|bellezza]] costa poco rende la [[concepts/beauty\|bellezza]] breve nella bontà; ma la grazia, essendo l’[[motifs/soul\|anima]] del vostro aspetto, ne manterrà il [[concepts/body\|corpo]] sempre bello. L’assalto che [[characters/angelo\|Angelo]] vi ha portato, la sorte l’ha recato alla mia conoscenza; e se la fragilità non avesse esempi per la sua caduta, mi [[concepts/wonder\|stupirei]] di [[characters/angelo\|Angelo]]. Che farete per contentare questo sostituto e salvare vostro fratello? |
-| [[characters/isabella\|ISABELLA]] | Vado ora a dargli risposta. Preferisco che mio fratello muoia per la legge, piuttosto che mio figlio nasca fuori legge. Ma oh, quanto s’inganna il buon Duca intorno ad [[characters/angelo\|Angelo]]! Se mai ritorna e io posso parlargli, aprirò le mie labbra invano, o svelerò il suo governo. |
+| [[characters/isabella\|ISABELLA]] | Vado ora a dargli risposta. Preferisco che mio fratello muoia per la legge, piuttosto che mio figlio nasca fuori legge. Ma oh, quanto s’inganna il buon Duca intorno ad [[characters/angelo\|Angelo]]! Se mai ritorna e io posso parlargli, aprirò le mie labbra invano, o svelerò il suo [[government\|governo]]. |
 | DUCA | Non sarebbe cosa fuor di luogo. Eppure, come stanno ora le cose, egli schiverà la vostra accusa: dirà che vi metteva solo alla prova. Perciò porgete l’orecchio ai miei consigli. Per l’[[motifs/love\|amore]] ch’io ho di fare il bene, mi si presenta un rimedio. Mi persuado che voi possiate rettissimamente rendere a una povera dama offesa un beneficio meritato, riscattare vostro fratello dalla legge adirata, non recare macchia alla vostra graziosa persona, e piacere assai al Duca assente, se per caso mai tornasse a udire di questa faccenda. |
 | [[characters/isabella\|ISABELLA]] | Lasciate ch’io vi ascolti oltre. Ho animo di fare qualunque cosa non appaia turpe alla [[concepts/truth\|verità]] del mio spirito. |
 | DUCA | La virtù è ardita, e la bontà mai paurosa. Non avete udito parlare di [[characters/mariana\|Mariana]], la sorella di Federico, il grande soldato che perì in mare? |
@@ -678,7 +1867,7 @@ Measure for Measure
 | [[characters/pompey\|POMPEO]] | Sì, in [[concepts/faith\|fede]], signore. |
 | [[characters/lucio\|LUCIO]] | Non c’è male, [[characters/pompey\|Pompeo]]. Addio. Va’; di’ che t’ho mandato io là. Per debiti, [[characters/pompey\|Pompeo]], o come? |
 | ELBOW | Per essere ruffiano, per essere ruffiano. |
-| [[characters/lucio\|LUCIO]] | [[motifs/well\|Bene]], allora imprigionatelo. Se la [[concepts/imprisonment\|prigionia]] è il dovuto d’un ruffiano, ebbene, gli spetta di diritto. Ruffiano lo è senza dubbio, e d’antichità pure—ruffiano nato. Addio, buon [[characters/pompey\|Pompeo]]. Raccomandami alla [[motifs/prison\|prigione]], [[characters/pompey\|Pompeo]]. Diventerai un buon massaio ora, [[characters/pompey\|Pompeo]]; starai in casa. |
+| [[characters/lucio\|LUCIO]] | [[motifs/well\|Bene]], allora imprigionatelo. Se la [[concepts/imprisonment\|prigionia]] è il dovuto d’un ruffiano, ebbene, gli spetta di diritto. Ruffiano lo è senza dubbio, e d’antichità pure—ruffiano nato. Addio, buon [[characters/pompey\|Pompeo]]. Raccomandami alla [[motifs/prison\|prigione]], [[characters/pompey\|Pompeo]]. Diventerai un buon massaio ora, [[characters/pompey\|Pompeo]]; starai in [[house\|casa]]. |
 | [[characters/pompey\|POMPEO]] | [[concepts/hope\|Spero]], signore, che vossignoria mi farà da garante? |
 | [[characters/lucio\|LUCIO]] | No, davvero, non lo farò, [[characters/pompey\|Pompeo]]; non è di moda. Pregherò, [[characters/pompey\|Pompeo]], che ti si accresca la prigionia. Se non la prendi con pazienza, ebbene, tanto più fegato hai. Addio, fido [[characters/pompey\|Pompeo]].—Dio vi benedica, frate. |
 | DUCA | E voi. |
@@ -723,7 +1912,7 @@ Measure for Measure
 | DUCA | Oh, voi [[concepts/hope\|sperate]] che il Duca non ritorni più, o m’immaginate un avversario troppo innocuo. Ma in verità posso farvi poco male; voi lo negherete con giuramento. |
 | [[characters/lucio\|LUCIO]] | M’impicchino prima. T’inganni sul mio conto, frate. Ma basta di questo. Sai dirmi se [[characters/claudio\|Claudio]] muore domani o no? |
 | DUCA | Perché dovrebbe morire, signore? |
-| [[characters/lucio\|LUCIO]] | Perché? Per aver riempito una bottiglia con un imbuto. Vorrei che il Duca di cui parliamo fosse tornato; questo agente senza genitali spopolerà la provincia a forza di continenza. I passeri non devono nidificare sotto le sue grondaie di casa, perché sono lussuriosi. Il Duca almeno voleva che le opere buie fossero pagate al buio: non le avrebbe mai portate alla luce. Fosse tornato. Perbacco, questo [[characters/claudio\|Claudio]] è condannato per essersi slacciato le brache. Addio, buon frate. Ti prego, prega per me. Il Duca, te lo ripeto, mangerebbe montone di venerdì. Non ne è ancora passato, e, te lo dico, bacerebbe in bocca una mendicante, anche se puzzasse di pan nero e d’aglio. Di’ pure che l’ho detto io. Addio. Esce |
+| [[characters/lucio\|LUCIO]] | Perché? Per aver riempito una bottiglia con un imbuto. Vorrei che il Duca di cui parliamo fosse tornato; questo agente senza genitali spopolerà la provincia a forza di continenza. I passeri non devono nidificare sotto le sue grondaie di [[house\|casa]], perché sono lussuriosi. Il Duca almeno voleva che le opere buie fossero pagate al buio: non le avrebbe mai portate alla luce. Fosse tornato. Perbacco, questo [[characters/claudio\|Claudio]] è condannato per essersi slacciato le brache. Addio, buon frate. Ti prego, prega per me. Il Duca, te lo ripeto, mangerebbe montone di venerdì. Non ne è ancora passato, e, te lo dico, bacerebbe in bocca una mendicante, anche se puzzasse di pan nero e d’aglio. Di’ pure che l’ho detto io. Addio. Esce |
 | DUCA | Né potenza né [[concepts/greatness\|grandezza]] nella [[concepts/mortality\|mortalità]]<br>può sfuggire al biasimo; la calunnia che ferisce alle spalle<br>colpisce la virtù più candida. Quale [[archetypes/king\|re]] è tanto forte<br>da legare il fiele nella lingua calunniatrice? |
 | *(didascalia)* | Entrano [[characters/escalus\|Escalo]], il Prevosto e Mistress Overdone |
 | DUCA | Ma chi viene qui? |
@@ -747,7 +1936,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALO]] | Avete pagato ai cieli il vostro ufficio, e al prigioniero il debito stesso della vostra vocazione. Io mi sono adoperato per il povero gentiluomo fino all’estrema riva del mio ritegno, ma il mio fratello-giustizia l’ho trovato così severo che m’ha costretto a dirgli ch’egli è invero la Giustizia. |
 | DUCA | Se la sua stessa vita risponde al rigore del suo procedere, gli starà [[motifs/well\|bene]]; e se in ciò gli avvenga di mancare, s’è condannato da sé. |
 | [[characters/escalus\|ESCALO]] | Vado a visitare il prigioniero. State [[motifs/well\|bene]]. |
-| DUCA | La pace sia con voi. Esce [[characters/escalus\|Escalo]]<br>Chi la spada del cielo vorrà portare<br>santo dev’essere quanto severo,<br>modello in sé per conoscere,<br>grazia per stare, e virtù per andare,<br>né più né meno agli altri pagando<br>di quanto pesano le colpe di [[concepts/self\|sé]].<br>Vergogna a colui che col crudele colpire<br>uccide per colpe di suo gradire!<br>Due volte tripla vergogna su [[characters/angelo\|Angelo]],<br>che sarchia il mio vizio e lascia crescere il suo!<br>Oh, che può l’uomo nascondere in sé,<br>pur angelo dalla parte di fuori!<br>Come può la somiglianza fatta di delitti<br>far sì che il mio artificio sui tempi<br>tragga con oziosi fili di ragno<br>le cose più ponderose e sostanziali?<br>Astuzia contro vizio devo applicare.<br>Con [[characters/angelo\|Angelo]] stanotte giacerà<br>la sua antica promessa ma disprezzata.<br>Così il travestimento, per mezzo della travestita,<br>pagherà con falsità la falsa esazione,<br>e compirà un vecchio contratto. |
+| DUCA | La pace sia con voi. Esce [[characters/escalus\|Escalo]]<br>Chi la [[Sword\|spada]] del cielo vorrà portare<br>santo dev’essere quanto severo,<br>modello in sé per conoscere,<br>grazia per stare, e virtù per andare,<br>né più né meno agli altri pagando<br>di quanto pesano le colpe di [[concepts/self\|sé]].<br>Vergogna a colui che col crudele colpire<br>uccide per colpe di suo gradire!<br>Due volte tripla vergogna su [[characters/angelo\|Angelo]],<br>che sarchia il mio vizio e lascia crescere il suo!<br>Oh, che può l’uomo nascondere in sé,<br>pur angelo dalla parte di fuori!<br>Come può la somiglianza fatta di delitti<br>far sì che il mio artificio sui tempi<br>tragga con oziosi fili di ragno<br>le cose più ponderose e sostanziali?<br>Astuzia contro vizio devo applicare.<br>Con [[characters/angelo\|Angelo]] stanotte giacerà<br>la sua antica promessa ma disprezzata.<br>Così il travestimento, per mezzo della travestita,<br>pagherà con falsità la falsa esazione,<br>e compirà un vecchio contratto. |
 | *(didascalia)* | Esce |
 
 ### Atto 4, Scena 1
@@ -757,7 +1946,7 @@ Measure for Measure
 | *(didascalia)* | Si scopre [[characters/mariana\|Mariana]] con un Fanciullo che canta |
 | FANCIULLO | Toglimi, oh toglimi quelle labbra<br>che così dolcemente spergiurarono,<br>e quegli occhi, luci del rompere del giorno<br>che sviano il mattino;<br>ma i miei baci rendimi, rendimi,<br>sigilli d’[[motifs/love\|amore]], benché sigillati invano, sigillati invano. |
 | *(didascalia)* | Entra il Duca, travestito da frate |
-| [[characters/mariana\|MARIANA]] | Tronca il tuo canto, e affrettati via di qui.<br>Ecco viene un uomo di conforto, il cui consiglio<br>ha spesso acquietato il mio querulo scontento. Esce il Fanciullo<br>Vi chiedo [[concepts/mercy\|perdono]], signore, e [[motifs/well\|ben]] vorrei io<br>che non m’aveste trovata qui così in musica.<br>Lasciate ch’io mi scusi, e credetemi così:<br>la mia allegria molto mi dispiacque, ma piacque al mio dolore. |
+| [[characters/mariana\|MARIANA]] | Tronca il tuo [[Song\|canto]], e affrettati via di qui.<br>Ecco viene un uomo di conforto, il cui consiglio<br>ha spesso acquietato il mio querulo scontento. Esce il Fanciullo<br>Vi chiedo [[concepts/mercy\|perdono]], signore, e [[motifs/well\|ben]] vorrei io<br>che non m’aveste trovata qui così in musica.<br>Lasciate ch’io mi scusi, e credetemi così:<br>la mia allegria molto mi dispiacque, ma piacque al mio dolore. |
 | DUCA | Sta bene; benché la musica abbia spesso tale incanto<br>da far buono il cattivo, e provocare il buono al danno.<br>Vi prego, ditemi: qualcuno ha chiesto di me qui<br>oggi? Proprio a quest’[[motifs/time\|ora]] avevo promesso qui<br>d’incontrarmi. |
 | [[characters/mariana\|MARIANA]] | Nessuno ha chiesto di voi; sono stata seduta qui tutto il giorno. |
 | *(didascalia)* | Entra |
@@ -770,7 +1959,7 @@ Measure for Measure
 | DUCA | Ma saprete voi con sicurezza trovare questa via? |
 | [[characters/isabella\|ISABELLA]] | Ne ho preso debita e guardinga nota.<br>Con sussurri e diligenza colpevolissima,<br>tutto in atto di precetto, egli mi mostrò<br>due volte la strada. |
 | DUCA | Non ci sono altri segni<br>[[concepts/greed\|convenuti]] fra voi circa il modo di comportarsi di lei? |
-| [[characters/isabella\|ISABELLA]] | No, nessuno, se non solo un venire al buio,<br>e che l’ho ben persuaso che la mia sosta<br>non può essere che breve, ché gli ho fatto sapere<br>ch’io ho un servo che viene con me<br>e mi aspetta, la cui persuasione è<br>che io venga per mio fratello. |
+| [[characters/isabella\|ISABELLA]] | No, nessuno, se non solo un venire al buio,<br>e che l’ho ben persuaso che la mia sosta<br>non può essere che breve, ché gli ho fatto sapere<br>ch’io ho un servo che viene con me<br>e mi aspetta, la cui [[Persuasion\|persuasione]] è<br>che io venga per mio fratello. |
 | DUCA | È [[motifs/well\|ben]] condotta.<br>Non ho ancora fatto sapere a [[characters/mariana\|Mariana]]<br>una parola di questo.—Ehi là, dentro! Venite fuori! |
 | *(didascalia)* | Entra [[characters/mariana\|Mariana]] |
 | DUCA | (a [[characters/mariana\|Mariana]]) Vi prego, fate conoscenza con questa fanciulla.<br>Viene a farvi del bene. |
@@ -864,7 +2053,7 @@ Measure for Measure
 | DUCA | Chi è quel Barnardine, che dev’essere giustiziato nel pomeriggio? |
 | PREVOSTO | Un boemo di nascita, ma qui allevato e cresciuto; uno che è prigioniero da nove anni. |
 | DUCA | Come mai il Duca assente non l’ha né rimesso in libertà né giustiziato? Ho sentito che era sempre suo costume fare così. |
-| PREVOSTO | I suoi amici gli hanno sempre procurato rinvii; e in verità il suo fatto, fino ad ora sotto il governo del signor [[characters/angelo\|Angelo]], non era giunto a prova indubitabile. |
+| PREVOSTO | I suoi amici gli hanno sempre procurato rinvii; e in verità il suo fatto, fino ad ora sotto il [[government\|governo]] del signor [[characters/angelo\|Angelo]], non era giunto a prova indubitabile. |
 | DUCA | Ora è manifesto? |
 | PREVOSTO | Manifestissimo, e non negato da lui stesso. |
 | DUCA | S’è comportato con pentimento in [[motifs/prison\|prigione]]? Come pare toccato? |
@@ -883,7 +2072,7 @@ Measure for Measure
 | PREVOSTO | A lui e ai suoi sostituti. |
 | DUCA | Penserete di non aver commesso offesa, se il Duca garantisce la giustizia del vostro operato? |
 | PREVOSTO | Ma che probabilità c’è in questo? |
-| DUCA | Non una somiglianza, ma una certezza. Pure, poiché vi vedo timoroso, e né la mia veste, né l’integrità, né la persuasione possono facilmente muovervi, andrò più oltre di quanto intendessi, per strapparvi ogni timore. (Mostrando una lettera) Guardate, signore, ecco la mano e il sigillo del Duca. Conoscete la scrittura, non ne [[concepts/doubt\|dubito]], e il sigillo non vi è estraneo? |
+| DUCA | Non una somiglianza, ma una certezza. Pure, poiché vi vedo timoroso, e né la mia veste, né l’integrità, né la [[Persuasion\|persuasione]] possono facilmente muovervi, andrò più oltre di quanto intendessi, per strapparvi ogni timore. (Mostrando una lettera) Guardate, signore, ecco la mano e il sigillo del Duca. Conoscete la scrittura, non ne [[concepts/doubt\|dubito]], e il sigillo non vi è estraneo? |
 | PREVOSTO | Li conosco entrambi. |
 | DUCA | Il contenuto di questa è il ritorno del Duca. La leggerete fra poco a vostro piacere, e vi troverete che entro questi due giorni egli sarà qui. Questa è cosa che [[characters/angelo\|Angelo]] non sa, ché egli proprio oggi riceve lettere di strano tenore, forse della [[motifs/death\|morte]] del Duca, forse del suo entrare in qualche monastero; ma per caso nulla di ciò che è scritto. Guardate, la stella che dischiude chiama su il pastore. Non gettatevi nello stupore su come queste cose possano essere. Tutte le difficoltà sono facili quando sono note. Chiamate il vostro boia, e via la testa di Barnardine. Gli darò subito confessione, e lo consiglierò per un luogo migliore. Ancora siete stupito; ma questo vi risolverà del tutto. Venite via, è quasi chiara l’[[motifs/dawn\|alba]]. |
 | *(didascalia)* | Escono |
@@ -893,7 +2082,7 @@ Measure for Measure
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra [[characters/pompey\|Pompeo]] |
-| [[characters/pompey\|POMPEO]] | Sono qui altrettanto [[motifs/well\|ben]] conosciuto quanto lo ero nella nostra casa di professione. Uno penserebbe che questa sia la casa stessa di Mistress Overdone, ché qui ci sono molti dei suoi vecchi clienti. Primo, ecco il giovane messer Rash; è dentro per una partita di carta straccia e zenzero vecchio, centonovantasette sterline, delle quali fece cinque marchi in contanti. Perbacco, allora lo zenzero non era molto richiesto, ché le vecchie erano tutte morte. Poi c’è qui un messer Caper, per la causa di messer Threepile il merciaio, per quattro abiti di raso color pesca, che ora lo pescano pezzente. Poi abbiamo qui il giovane Dizzy, e il giovane messer Deepvow, e messer Copperspur e messer Starve-lackey l’uomo di stocco e pugnale, e il giovane Drop-hair che ammazzò il gagliardo Pudding, e messer Forthright il giostratore, e il bravo messer Shoe-tie il gran viaggiatore, e il selvatico Half-can che pugnalò Pots, e credo altri quaranta, tutti grandi lavoratori nel nostro mestiere, e ora stanno a chiedere ‘per amor del Signore’. Entra Abhorson |
+| [[characters/pompey\|POMPEO]] | Sono qui altrettanto [[motifs/well\|ben]] conosciuto quanto lo ero nella nostra [[house\|casa]] di professione. Uno penserebbe che questa sia la [[house\|casa]] stessa di Mistress Overdone, ché qui ci sono molti dei suoi vecchi clienti. Primo, ecco il giovane messer Rash; è dentro per una partita di carta straccia e zenzero vecchio, centonovantasette sterline, delle quali fece cinque marchi in contanti. Perbacco, allora lo zenzero non era molto richiesto, ché le vecchie erano tutte morte. Poi c’è qui un messer Caper, per la causa di messer Threepile il merciaio, per quattro abiti di raso color pesca, che ora lo pescano pezzente. Poi abbiamo qui il giovane Dizzy, e il giovane messer Deepvow, e messer Copperspur e messer Starve-lackey l’uomo di stocco e pugnale, e il giovane Drop-hair che ammazzò il gagliardo Pudding, e messer Forthright il giostratore, e il bravo messer Shoe-tie il gran viaggiatore, e il selvatico Half-can che pugnalò Pots, e credo altri quaranta, tutti grandi lavoratori nel nostro mestiere, e ora stanno a chiedere ‘per amor del Signore’. Entra Abhorson |
 | ABHORSON | Messere, porta qua Barnardine. 19 |
 | [[characters/pompey\|POMPEO]] | Messer Barnardine! Dovete alzarvi ed essere impiccato, messer Barnardine! |
 | ABHORSON | Ehi là, Barnardine! |
@@ -915,7 +2104,7 @@ Measure for Measure
 | DUCA | (a Barnardine) Signore, indotto dalla mia [[concepts/charity\|carità]], e udendo con quanta fretta dovete partire, sono venuto a consigliarvi, confortarvi e pregare con voi. |
 | BARNARDINE | Frate, io no. Ho bevuto forte tutta la [[motifs/night\|notte]], e voglio più [[motifs/time\|tempo]] per prepararmi, o mi facciano schizzare le cervella a randellate. Non acconsentirò a morire oggi, questo è certo. |
 | DUCA | Oh signore, dovete; e perciò, vi supplico,<br>guardate avanti al [[motifs/journey\|viaggio]] che dovrete fare. |
-| BARNARDINE | Giuro che non morirò oggi, per la persuasione di nessun uomo. |
+| BARNARDINE | Giuro che non morirò oggi, per la [[Persuasion\|persuasione]] di nessun uomo. |
 | DUCA | Ma ascoltate— |
 | BARNARDINE | Non una parola. Se avete qualcosa da dirmi, venite nella mia cella, ché di là oggi non mi muovo. |
 | *(didascalia)* | Esce |
@@ -952,7 +2141,7 @@ Measure for Measure
 | [[characters/isabella\|ISABELLA]] | (piangendo)<br>Infelice [[characters/claudio\|Claudio]]! Misera Isabel!<br>Mondo ingiurioso! Dannatissimo [[characters/angelo\|Angelo]]! |
 | DUCA | Questo non gli giova né vi profitta d’un briciolo.<br>Astenetevene, dunque; date la vostra causa al cielo.<br>Notate ciò che dico, e troverete<br>in ogni sillaba una fedele verità.<br>Il Duca torna a [[motifs/home\|casa]] domani—no, asciugate i vostri<br>occhi—<br>uno del nostro convento, e suo confessore,<br>me ne dà notizia. Già ha portato<br>l’avviso a [[characters/escalus\|Escalo]] e ad [[characters/angelo\|Angelo]],<br>che si preparano a incontrarlo alle porte,<br>per rendergli là il loro potere. Se saprete misurare la vostra<br>saggezza<br>su quel buon sentiero per cui vorrei che andasse,<br>avrete il vostro sfogo su questo miserabile,<br>la grazia del Duca, vendette a vostro cuore,<br>e [[concepts/honour\|onore]] generale. |
 | [[characters/isabella\|ISABELLA]] | Mi lascio guidare da voi. |
-| DUCA | Questa lettera, dunque, datela a frate Pietro.<br>È quella che mi mandò del ritorno del Duca.<br>Ditegli che con questo segno [[motifs/desire\|desidero]] la sua compagnia<br>in casa di [[characters/mariana\|Mariana]] stanotte. La sua causa e la vostra<br>gliele farò conoscere appieno, ed egli vi condurrà<br>davanti al Duca, e in faccia ad [[characters/angelo\|Angelo]]<br>lo accuserà a [[motifs/home\|fondo]] e a [[motifs/home\|fondo]]. Quanto al mio povero [[concepts/self\|io]],<br>sono legato da un voto sacro,<br>e sarò assente. (Dandole la lettera) Andate con<br>questa lettera.<br>Comandate a queste acque roditrici dei vostri occhi<br>con cuore leggero. Non fidatevi del mio santo ordine<br>se travio il vostro cammino. |
+| DUCA | Questa lettera, dunque, datela a frate Pietro.<br>È quella che mi mandò del ritorno del Duca.<br>Ditegli che con questo segno [[motifs/desire\|desidero]] la sua compagnia<br>in [[house\|casa]] di [[characters/mariana\|Mariana]] stanotte. La sua causa e la vostra<br>gliele farò conoscere appieno, ed egli vi condurrà<br>davanti al Duca, e in faccia ad [[characters/angelo\|Angelo]]<br>lo accuserà a [[motifs/home\|fondo]] e a [[motifs/home\|fondo]]. Quanto al mio povero [[concepts/self\|io]],<br>sono legato da un voto sacro,<br>e sarò assente. (Dandole la lettera) Andate con<br>questa lettera.<br>Comandate a queste acque roditrici dei vostri occhi<br>con cuore leggero. Non fidatevi del mio santo ordine<br>se travio il vostro cammino. |
 | *(didascalia)* | Entra [[characters/lucio\|Lucio]] |
 | DUCA | Chi c’è qui? |
 | [[characters/lucio\|LUCIO]] | Buona sera.<br>Frate, dov’è il Prevosto? |
@@ -980,7 +2169,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALO]] | Non lo indovino. |
 | [[characters/angelo\|ANGELO]] | E perché dovremmo proclamare, un’ora prima del suo ingresso, che se qualcuno chiede riparazione d’ingiustizia esibisca la sua petizione per strada? |
 | [[characters/escalus\|ESCALO]] | Ne mostra la ragione: per avere uno sbrigo delle lagnanze, e per liberarci dagli intrighi futuri, che allora non avranno più forza di reggere contro di noi. |
-| [[characters/angelo\|ANGELO]] | [[motifs/well\|Bene]], vi supplico, si faccia proclamare.<br>Di buon’ora al mattino vi chiamerò alla vostra casa.<br>Date avviso a quegli uomini di rango e di seguito<br>che devono incontrarlo. |
+| [[characters/angelo\|ANGELO]] | [[motifs/well\|Bene]], vi supplico, si faccia proclamare.<br>Di buon’ora al mattino vi chiamerò alla vostra [[house\|casa]].<br>Date avviso a quegli uomini di rango e di seguito<br>che devono incontrarlo. |
 | [[characters/escalus\|ESCALO]] | Lo farò, signore. State [[motifs/well\|bene]]. |
 | [[characters/angelo\|ANGELO]] | Buona [[motifs/night\|notte]]. |
 | *(didascalia)* | Esce [[characters/escalus\|Escalo]] |
@@ -991,7 +2180,7 @@ Measure for Measure
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano il Duca, nel suo proprio abito, e frate Pietro |
-| DUCA | Queste lettere consegnatemele al [[motifs/time\|tempo]] opportuno.<br>Il Prevosto conosce il nostro proposito e il nostro disegno.<br>Essendo la cosa avviata, tenetevi alla vostra istruzione,<br>e attenetevi sempre alla nostra mira particolare,<br>benché talvolta scartiate da questo a quello<br>secondo che la causa lo richieda. Andate a chiamare alla casa di Flavio,<br>e ditegli dove mi trattengo. Date lo stesso avviso<br>a Valentino, a Rowland e a Crasso,<br>e ordinate loro di portare le trombe alla porta.<br>Ma mandatemi prima [[characters/flavius\|Flavio]]. |
+| DUCA | Queste lettere consegnatemele al [[motifs/time\|tempo]] opportuno.<br>Il Prevosto conosce il nostro proposito e il nostro disegno.<br>Essendo la cosa avviata, tenetevi alla vostra istruzione,<br>e attenetevi sempre alla nostra mira particolare,<br>benché talvolta scartiate da questo a quello<br>secondo che la causa lo richieda. Andate a chiamare alla [[house\|casa]] di Flavio,<br>e ditegli dove mi trattengo. Date lo stesso avviso<br>a Valentino, a Rowland e a Crasso,<br>e ordinate loro di portare le trombe alla porta.<br>Ma mandatemi prima [[characters/flavius\|Flavio]]. |
 | FRATE | Sarà spedito [[motifs/well\|bene]]. |
 | *(didascalia)* | Esce |
 | *(didascalia)* | Entra Varrio |
@@ -1101,14 +2290,14 @@ Measure for Measure
 | DUCA | No? Dite vostro marito. |
 | [[characters/mariana\|MARIANA]] | Ma appunto, mio signore, e quello è [[characters/angelo\|Angelo]],<br>che crede di sapere che non conobbe mai il mio [[concepts/body\|corpo]],<br>ma sa, crede lui, di conoscere quello d’Isabel. |
 | [[characters/angelo\|ANGELO]] | Questo è uno strano inganno. Vediamo il tuo volto. |
-| [[characters/mariana\|MARIANA]] | (togliendosi il velo)<br>Mio marito me lo comanda; ora mi smaschero.<br>Questo è quel volto, crudele [[characters/angelo\|Angelo]],<br>che una volta giurasti degno d’essere guardato.<br>Questa è la mano che, con un contratto giurato,<br>fu stretta forte nella tua. Questo è il [[concepts/body\|corpo]]<br>che tolse a Isabel l’incontro,<br>e ti supplì nella tua casa del [[motifs/garden\|giardino]]<br>nella persona di lei immaginata. |
+| [[characters/mariana\|MARIANA]] | (togliendosi il velo)<br>Mio marito me lo comanda; ora mi smaschero.<br>Questo è quel volto, crudele [[characters/angelo\|Angelo]],<br>che una volta giurasti degno d’essere guardato.<br>Questa è la mano che, con un contratto giurato,<br>fu stretta forte nella tua. Questo è il [[concepts/body\|corpo]]<br>che tolse a Isabel l’incontro,<br>e ti supplì nella tua [[house\|casa]] del [[motifs/garden\|giardino]]<br>nella persona di lei immaginata. |
 | DUCA | (a [[characters/angelo\|Angelo]]) Conoscete questa donna? |
 | [[characters/lucio\|LUCIO]] | Carnalmente, dice lei. |
 | DUCA | Messere, basta! |
 | [[characters/lucio\|LUCIO]] | Basta, mio signore. |
 | [[characters/angelo\|ANGELO]] | Mio signore, devo confessare che conosco questa donna;<br>e cinque anni fa ci fu qualche discorso di<br>[[motifs/marriage\|matrimonio]]<br>fra me e lei, che fu rotto,<br>in parte perché le sue promesse proporzioni<br>vennero meno all’accordo, ma soprattutto<br>perché la sua reputazione era svalutata<br>per leggerezza; da quel [[motifs/time\|tempo]] di cinque anni<br>non le ho mai parlato, né l’ho vista, né ho avuto sue nuove,<br>sulla mia [[concepts/faith\|fede]] e sul mio [[concepts/honour\|onore]]. |
 | *(didascalia)* | [[characters/mariana\|MARIANA]] inginocchiandosi davanti al Duca Nobile principe, |
-| [[characters/angelo\|ANGELO]] | Come viene luce dal cielo, e parole dal<br>fiato,<br>come c’è senso nella [[concepts/truth\|verità]], e [[concepts/truth\|verità]] nella virtù,<br>io sono per fidanzamento moglie di quest’uomo, tanto saldamente<br>quanto le parole possano fare i voti. E, mio buon signore,<br>non più tardi di martedì [[motifs/night\|notte]] scorso, nella sua casa del [[motifs/garden\|giardino]],<br>egli mi conobbe come moglie. Se questo è vero,<br>lasciate ch’io mi rialzi salva dalle ginocchia,<br>o altrimenti sia per sempre qui confitta,<br>monumento di marmo. |
+| [[characters/angelo\|ANGELO]] | Come viene luce dal cielo, e parole dal<br>fiato,<br>come c’è senso nella [[concepts/truth\|verità]], e [[concepts/truth\|verità]] nella virtù,<br>io sono per fidanzamento moglie di quest’uomo, tanto saldamente<br>quanto le parole possano fare i voti. E, mio buon signore,<br>non più tardi di martedì [[motifs/night\|notte]] scorso, nella sua [[house\|casa]] del [[motifs/garden\|giardino]],<br>egli mi conobbe come moglie. Se questo è vero,<br>lasciate ch’io mi rialzi salva dalle ginocchia,<br>o altrimenti sia per sempre qui confitta,<br>monumento di marmo. |
 | [[characters/angelo\|ANGELO]] | Fin qui non ho fatto che sorridere.<br>Ora, mio buon signore, datemi il campo della giustizia.<br>La mia pazienza qui è toccata. Ben m’accorgo<br>che queste povere donne senza forma non sono<br>che strumenti di qualche membro più potente<br>che le istiga. Datemi via libera, mio signore,<br>per scoprire questa macchinazione. |
 | DUCA | (alzandosi)<br>Sì, con tutto il cuore,<br>e punitele fino al colmo del vostro piacere.—<br>Tu, sciocco frate, e tu, perniciosa donna<br>d’accordo con quella che se n’è andata, credi tu che i tuoi giuramenti,<br>foss’anche a scongiurare ogni singolo santo,<br>fossero testimonianze contro il suo valore e il suo credito<br>che è sigillato nell’approvazione? Voi, signor [[characters/escalus\|Escalo]],<br>sedete con mio cugino; prestategli la vostra benevola fatica<br>per scoprire donde derivi quest’abuso.<br>C’è un altro frate che le ha istigate.<br>Sia mandato a chiamare.<br>[[characters/escalus\|Escalo]] siede |
 | FRATE PIETRO | Vorrei che fosse qui, mio signore, ché egli davvero<br>ha istigato le donne a questa querela.<br>Il vostro Prevosto conosce il luogo dove dimora,<br>e può andarlo a prendere. |
@@ -1223,7 +2412,7 @@ Measure for Measure
 | *(didascalia)* | sotto scorta |
 | DUCA | Colei, [[characters/claudio\|Claudio]], cui facesti torto, badate di restituirla nell’onore.<br>Gioia a voi, [[characters/mariana\|Mariana]]. [[motifs/love\|Amatela]], [[characters/angelo\|Angelo]].<br>L’ho confessata, e ne conosco la virtù.<br>Grazie, buon amico [[characters/escalus\|Escalo]], per la tua molta bontà.<br>C’è dell’altro in serbo che è più gradito.<br>Grazie, Prevosto, per la tua cura e la tua segretezza.<br>T’impiegheremo in un posto più degno.<br>Perdonagli, [[characters/angelo\|Angelo]], d’averti portato a [[motifs/home\|casa]]<br>la testa di Ragusine invece di quella di [[characters/claudio\|Claudio]].<br>L’offesa si perdona da sé. Cara Isabel,<br>ho una proposta che molto importa al vostro bene,<br>alla quale, se vorrete piegare un orecchio consenziente,<br>ciò che è mio è vostro, e ciò che è vostro è mio.<br>(A tutti) Conduceteci dunque al nostro palazzo, dove mostreremo<br>ciò che ancora resta ed è giusto che tutti sappiate. |
 | *(didascalia)* | Escono |
-| BRANI AGGIUNTIVI | Il testo di Misura per misura dato in questa edizione è probabilmente quello di una versione adattata fatta per la compagnia di Shakespeare dopo la sua [[motifs/death\|morte]]. L’adattamento sembra aver interessato due passi, stampati qui sotto come crediamo che Shakespeare li abbia scritti.<br><br>A. 1.2.0.1-116<br>A.2-9 (‘... by him’) sono versi che l’adattatore (che crediamo sia Thomas Middleton) intendeva evidentemente far sostituire da 1.2.56-79 del dramma come lo stampiamo. L’adattatore deve aver contribuito tutto 1.2.0.1-83, che nei testi a stampa più antichi e successivi precede la discussione fra il Buffone ([[characters/pompey\|Pompeo]]) e la Ruffiana (Mistress Overdone) sull’arresto di [[characters/claudio\|Claudio]]. L’entrata di [[characters/lucio\|Lucio]] solo al v. 40.1 qui sotto, una decina di versi dopo il suo rientro con i due Gentiluomini e il seguito del Prevosto nel testo adattato, rappresenta probabilmente l’intenzione originale di Shakespeare. Nella sua versione, [[characters/juliet\|Giulietta]], presente ma silenziosa nel testo adattato sia in 1.2 sia in 5.1, probabilmente non compariva in nessuna delle due scene; di conseguenza, le parole ‘e c’è madonna [[characters/juliet\|Giulietta]]’ (1.2.107) devono essere anch’esse opera del revisore, e non compaiono qui sotto. |
+| BRANI AGGIUNTIVI | Il testo di Misura per misura dato in questa edizione è probabilmente quello di una versione adattata fatta per la compagnia di Shakespeare dopo la sua [[motifs/death\|morte]]. L’adattamento sembra aver interessato due passi, stampati qui sotto come crediamo che Shakespeare li abbia scritti.<br><br>A. 1.2.0.1-116<br>A.2-9 (‘... by him’) sono versi che l’adattatore (che crediamo sia Thomas Middleton) intendeva evidentemente far sostituire da 1.2.56-79 del dramma come lo stampiamo. L’adattatore deve aver contribuito tutto 1.2.0.1-83, che nei testi a stampa più antichi e successivi precede la discussione fra il Buffone ([[characters/pompey\|Pompeo]]) e la Ruffiana (Mistress Overdone) sull’arresto di [[characters/claudio\|Claudio]]. L’entrata di [[characters/lucio\|Lucio]] [[Alone\|solo]] al v. 40.1 qui sotto, una decina di versi dopo il suo rientro con i due Gentiluomini e il seguito del Prevosto nel testo adattato, rappresenta probabilmente l’intenzione originale di Shakespeare. Nella sua versione, [[characters/juliet\|Giulietta]], presente ma silenziosa nel testo adattato sia in 1.2 sia in 5.1, probabilmente non compariva in nessuna delle due scene; di conseguenza, le parole ‘e c’è madonna [[characters/juliet\|Giulietta]]’ (1.2.107) devono essere anch’esse opera del revisore, e non compaiono qui sotto. |
 | *(didascalia)* | Entrano [[characters/pompey\|Pompeo]] e Mistress Overdone, incontrandosi |
 | MISTRESS OVERDONE | Ebbene, che notizie mi porti? |
 | [[characters/pompey\|POMPEO]] | Quell’uomo laggiù è condotto in [[motifs/prison\|prigione]]. |
@@ -1249,7 +2438,7 @@ Measure for Measure
 | PREVOSTO | Non lo faccio per cattiva disposizione,<br>ma per speciale incarico del signor [[characters/angelo\|Angelo]]. |
 | [[characters/claudio\|CLAUDIO]] | Così può il semidio Autorità<br>farci pagare per la nostra offesa, a peso,<br>i debiti del cielo. Su chi vuole, vuole;<br>su chi non vuole, così; eppure è sempre giusto. |
 | *(didascalia)* | Entra [[characters/lucio\|Lucio]] |
-| [[characters/lucio\|LUCIO]] | Ebbene, [[characters/claudio\|Claudio]]? Donde viene questa costrizione?<br><br>B. 3.1.515-4.1.65<br>Prima della revisione non ci sarebbe stata interruzione d’atto né canzone; anche i versi immediatamente seguenti alla canzone sarebbero mancati. I soliloqui del Duca ‘Chi la spada del cielo vorrà portare’ e ‘O carica e [[concepts/greatness\|grandezza]]’ sono stati evidentemente trasposti nella revisione; nell’originale, la fine di ‘O carica e [[concepts/greatness\|grandezza]]’ avrebbe condotto direttamente all’incontro del Duca con [[characters/isabella\|Isabella]] e poi con [[characters/mariana\|Mariana]]. |
+| [[characters/lucio\|LUCIO]] | Ebbene, [[characters/claudio\|Claudio]]? Donde viene questa costrizione?<br><br>B. 3.1.515-4.1.65<br>Prima della revisione non ci sarebbe stata interruzione d’atto né [[Song\|canzone]]; anche i versi immediatamente seguenti alla [[Song\|canzone]] sarebbero mancati. I soliloqui del Duca ‘Chi la [[Sword\|spada]] del cielo vorrà portare’ e ‘O carica e [[concepts/greatness\|grandezza]]’ sono stati evidentemente trasposti nella revisione; nell’originale, la fine di ‘O carica e [[concepts/greatness\|grandezza]]’ avrebbe condotto direttamente all’incontro del Duca con [[characters/isabella\|Isabella]] e poi con [[characters/mariana\|Mariana]]. |
 | [[characters/escalus\|ESCALO]] | Vado a visitare il prigioniero. State [[motifs/well\|bene]]. |
 | DUCA | La pace sia con voi. Esce [[characters/escalus\|Escalo]]<br>O carica e [[concepts/greatness\|grandezza]], milioni di occhi falsi<br>sono confitti su di te; volumi di dicerie<br>corrono con la loro falsa e contrarissima [[topoi/quest\|caccia]]<br>sulle tue azioni; mille sortite d’ingegno<br>ti fanno padre del loro ozioso sogno,<br>e ti torturano nelle loro fantasie. |
 | *(didascalia)* | Entra [[characters/isabella\|Isabella]] |
@@ -1258,7 +2447,7 @@ Measure for Measure
 | DUCA | Ma saprete voi con sicurezza trovare questa via? |
 | [[characters/isabella\|ISABELLA]] | Ne ho preso debita e guardinga nota.<br>Con sussurri e diligenza colpevolissima,<br>tutto in atto di precetto, egli mi mostrò<br>due volte la strada. |
 | DUCA | Non ci sono altri segni<br>[[concepts/greed\|convenuti]] fra voi circa il modo di comportarsi di lei? |
-| [[characters/isabella\|ISABELLA]] | No, nessuno, se non solo un venire al buio,<br>e che l’ho ben persuaso che la mia sosta<br>non può essere che breve, ché gli ho fatto sapere<br>ch’io ho un servo che viene con me<br>e mi aspetta, la cui persuasione è<br>che io venga per mio fratello. |
+| [[characters/isabella\|ISABELLA]] | No, nessuno, se non solo un venire al buio,<br>e che l’ho ben persuaso che la mia sosta<br>non può essere che breve, ché gli ho fatto sapere<br>ch’io ho un servo che viene con me<br>e mi aspetta, la cui [[Persuasion\|persuasione]] è<br>che io venga per mio fratello. |
 | DUCA | È [[motifs/well\|ben]] condotta.<br>Non ho ancora fatto sapere a [[characters/mariana\|Mariana]]<br>una parola di questo.—Ehi là, dentro! Venite fuori! |
 | *(didascalia)* | Entra [[characters/mariana\|Mariana]] |
 | DUCA | (A [[characters/mariana\|Mariana]]) Vi prego, fate conoscenza con questa fanciulla.<br>Viene a farvi del bene. |
@@ -1268,7 +2457,7 @@ Measure for Measure
 | DUCA | Prendete dunque per mano questa vostra compagna,<br>che ha una storia pronta per il vostro orecchio.<br>Attenderò il vostro comodo; ma fate presto,<br>la vaporosa [[motifs/night\|notte]] s’avvicina. |
 | [[characters/mariana\|MARIANA]] | Vi piace venire in disparte. |
 | *(didascalia)* | Escono [[characters/mariana\|Mariana]] e [[characters/isabella\|Isabella]] |
-| DUCA | Chi la spada del cielo vorrà portare<br>santo dev’essere quanto severo,<br>modello in sé per conoscere,<br>grazia per stare, e virtù per andare,<br>né più né meno agli altri pagando<br>di quanto pesano le colpe di [[concepts/self\|sé]].<br>Vergogna a colui che col crudele colpire<br>uccide per colpe di suo gradire!<br>Due volte tripla vergogna su [[characters/angelo\|Angelo]],<br>che sarchia il mio vizio e lascia crescere il suo!<br>Oh, che può l’uomo nascondere in sé,<br>pur angelo dalla parte di fuori!<br>Come può la somiglianza fatta di delitti<br>far sì che il mio artificio sui tempi<br>tragga con oziosi fili di ragno<br>le cose più ponderose e sostanziali?<br>Astuzia contro vizio devo applicare.<br>Con [[characters/angelo\|Angelo]] stanotte giacerà<br>la sua antica promessa ma disprezzata.<br>Così il travestimento, per mezzo della travestita,<br>pagherà con falsità la falsa esazione,<br>e compirà un vecchio contratto. |
+| DUCA | Chi la [[Sword\|spada]] del cielo vorrà portare<br>santo dev’essere quanto severo,<br>modello in sé per conoscere,<br>grazia per stare, e virtù per andare,<br>né più né meno agli altri pagando<br>di quanto pesano le colpe di [[concepts/self\|sé]].<br>Vergogna a colui che col crudele colpire<br>uccide per colpe di suo gradire!<br>Due volte tripla vergogna su [[characters/angelo\|Angelo]],<br>che sarchia il mio vizio e lascia crescere il suo!<br>Oh, che può l’uomo nascondere in sé,<br>pur angelo dalla parte di fuori!<br>Come può la somiglianza fatta di delitti<br>far sì che il mio artificio sui tempi<br>tragga con oziosi fili di ragno<br>le cose più ponderose e sostanziali?<br>Astuzia contro vizio devo applicare.<br>Con [[characters/angelo\|Angelo]] stanotte giacerà<br>la sua antica promessa ma disprezzata.<br>Così il travestimento, per mezzo della travestita,<br>pagherà con falsità la falsa esazione,<br>e compirà un vecchio contratto. |
 | *(didascalia)* | Entrano |
 | DUCA | [[characters/mariana\|Mariana]] |
 | *(didascalia)* | e [[characters/isabella\|Isabella]] |
@@ -1284,7 +2473,7 @@ Measure for Measure
 |---|---|
 | *(didascalia)* | Enter the Duke, [[characters/escalus\|Escalus]], and other lords DUKE [[characters/escalus\|Escalus]]. |
 | [[characters/escalus\|ESCALUS]] | My lord. |
-| DUKE | Of government the properties to unfold<br>Would seem in me t’affect speech and discourse,<br>Since I am put to know that your own science<br>Exceeds in that the lists of all advice<br>My strength can give you. Then no more remains<br>But this: to your sufficiency, as your worth is able,<br>And let them work. The [[concepts/nature\|nature]] of our people,<br>Our [[motifs/city\|city]]’s institutions and the terms<br>For common justice, you’re as pregnant in<br>As art and practice hath enriched any<br>That we remember.<br>He gives [[characters/escalus\|Escalus]] papers<br>There is our commission,<br>From which we would not have you warp.<br>(To a lord) Call hither,<br>I say bid come before us, [[characters/angelo\|Angelo]]. Exit lord<br><br>(To [[characters/escalus\|Escalus]]) What figure of us think you he will<br>bear?—<br>For you must know we have with special [[motifs/soul\|soul]]<br>Elected him our absence to supply,<br>Lent him our terror, dressed him with our [[motifs/love\|love]],<br>And given his deputation all the organs<br>Of our own power. What think you of it? |
+| DUKE | Of [[government]] the properties to unfold<br>Would seem in me t’affect speech and discourse,<br>Since I am put to know that your own science<br>Exceeds in that the lists of all advice<br>My strength can give you. Then no more remains<br>But this: to your sufficiency, as your worth is able,<br>And let them work. The [[concepts/nature\|nature]] of our people,<br>Our [[motifs/city\|city]]’s institutions and the terms<br>For common justice, you’re as pregnant in<br>As art and practice hath enriched any<br>That we remember.<br>He gives [[characters/escalus\|Escalus]] papers<br>There is our commission,<br>From which we would not have you warp.<br>(To a lord) Call hither,<br>I say bid come before us, [[characters/angelo\|Angelo]]. Exit lord<br><br>(To [[characters/escalus\|Escalus]]) What figure of us think you he will<br>bear?—<br>For you must know we have with special [[motifs/soul\|soul]]<br>Elected him our absence to supply,<br>Lent him our terror, dressed him with our [[motifs/love\|love]],<br>And given his deputation all the organs<br>Of our own power. What think you of it? |
 | [[characters/escalus\|ESCALUS]] | If any in Vienna be of worth<br>To undergo such ample grace and [[concepts/honour\|honour]],<br>It is Lord [[characters/angelo\|Angelo]]. |
 | *(didascalia)* | Enter [[characters/angelo\|Angelo]] |
 | DUKE | Look where he comes. |
@@ -1312,7 +2501,7 @@ Measure for Measure
 |---|---|
 | *(didascalia)* | Entrano il Duca, [[characters/escalus\|Escalo]] e altri signori DUCA [[characters/escalus\|Escalo]]. |
 | [[characters/escalus\|ESCALO]] | Mio signore. |
-| DUCA | Del governo esporre le proprietà<br>parrebbe in me ostentare eloquio e discorso,<br>poiché mi è dato sapere che la vostra scienza<br>in ciò eccede i confini d’ogni consiglio<br>che la mia facoltà vi possa dare. Altro non resta<br>che questo: alla vostra sufficienza, come il vostro merito consente,<br>e lasciate che operino. La [[concepts/nature\|natura]] del nostro popolo,<br>le istituzioni della nostra [[motifs/city\|città]] e i termini<br>della giustizia comune, ne siete gravido<br>quanto arte ed esperienza n’hanno arricchito alcuno<br>di cui serbiamo memoria.<br>Consegna a [[characters/escalus\|Escalo]] delle carte<br>Ecco la nostra commissione,<br>dalla quale non vorremmo che deviaste.<br>(A un signore) Chiamate qui,<br>dico, fate venire innanzi a noi, [[characters/angelo\|Angelo]]. Esce il signore<br><br>(A [[characters/escalus\|Escalo]]) Quale figura di noi credete ch’egli<br>porterà?—<br>Ché dovete sapere che con speciale [[motifs/soul\|animo]]<br>l’abbiamo eletto a supplire la nostra assenza,<br>gli abbiamo prestato il nostro terrore, vestito del nostro [[motifs/love\|amore]],<br>e dato alla sua delega tutti gli organi<br>del nostro proprio potere. Che ve ne pare? |
+| DUCA | Del [[government\|governo]] esporre le proprietà<br>parrebbe in me ostentare eloquio e discorso,<br>poiché mi è dato sapere che la vostra scienza<br>in ciò eccede i confini d’ogni consiglio<br>che la mia facoltà vi possa dare. Altro non resta<br>che questo: alla vostra sufficienza, come il vostro merito consente,<br>e lasciate che operino. La [[concepts/nature\|natura]] del nostro popolo,<br>le istituzioni della nostra [[motifs/city\|città]] e i termini<br>della giustizia comune, ne siete gravido<br>quanto arte ed esperienza n’hanno arricchito alcuno<br>di cui serbiamo memoria.<br>Consegna a [[characters/escalus\|Escalo]] delle carte<br>Ecco la nostra commissione,<br>dalla quale non vorremmo che deviaste.<br>(A un signore) Chiamate qui,<br>dico, fate venire innanzi a noi, [[characters/angelo\|Angelo]]. Esce il signore<br><br>(A [[characters/escalus\|Escalo]]) Quale figura di noi credete ch’egli<br>porterà?—<br>Ché dovete sapere che con speciale [[motifs/soul\|animo]]<br>l’abbiamo eletto a supplire la nostra assenza,<br>gli abbiamo prestato il nostro terrore, vestito del nostro [[motifs/love\|amore]],<br>e dato alla sua delega tutti gli organi<br>del nostro proprio potere. Che ve ne pare? |
 | [[characters/escalus\|ESCALO]] | Se alcuno in Vienna è degno<br>di sostenere sì ampia grazia e [[concepts/honour\|onore]],<br>è il signor [[characters/angelo\|Angelo]]. |
 | *(didascalia)* | Entra [[characters/angelo\|Angelo]] |
 | DUCA | Ecco, guardate, viene. |
@@ -1405,7 +2594,7 @@ Measure for Measure
 | [[characters/claudio\|CLAUDIO]] | Thus can the demigod Authority<br>Make us pay down for our offence, by weight,<br>The bonds of heaven. On whom it will, it will;<br>On whom it will not, so; yet still ’tis just. |
 | [[characters/lucio\|LUCIO]] | Why, how now, [[characters/claudio\|Claudio]]? Whence comes this<br>restraint? |
 | [[characters/claudio\|CLAUDIO]] | From too much liberty, my [[characters/lucio\|Lucio]], liberty.<br>As surfeit is the father of much fast,<br>So every scope, by the immoderate use,<br>Turns to restraint. Our natures do pursue,<br>Like rats that raven down their proper bane,<br>A thirsty evil; and when we drink, we die. |
-| [[characters/lucio\|LUCIO]] | If I could speak so wisely under an arrest, I would send for certain of my creditors. And yet, to say the [[concepts/truth\|truth]], I had as lief have the foppery of [[concepts/freedom\|freedom]] as the morality of [[concepts/imprisonment\|imprisonment]]. What’s thy offence, [[characters/claudio\|Claudio]]? |
+| [[characters/lucio\|LUCIO]] | If I could speak so wisely under an arrest, I would send for certain of my creditors. And yet, to say the [[concepts/truth\|truth]], I had as lief have the foppery of [[concepts/freedom\|freedom]] as the [[morality]] of [[concepts/imprisonment\|imprisonment]]. What’s thy offence, [[characters/claudio\|Claudio]]? |
 | [[characters/claudio\|CLAUDIO]] | What but to speak of would offend again. |
 | [[characters/lucio\|LUCIO]] | What, is’t murder? |
 | [[characters/claudio\|CLAUDIO]] | No. |
@@ -1500,7 +2689,7 @@ Measure for Measure
 | [[characters/claudio\|CLAUDIO]] | Così il semidio Autorità può<br>farci pagare per la nostra colpa, a peso,<br>i debiti del cielo. Su chi vuole, vuole;<br>su chi non vuole, no; e pure è giusto. |
 | [[characters/lucio\|LUCIO]] | Ebbene, come va, [[characters/claudio\|Claudio]]? Donde viene questa<br>costrizione? |
 | [[characters/claudio\|CLAUDIO]] | Da troppa libertà, mio [[characters/lucio\|Lucio]], libertà.<br>Come la crapula è padre di molto digiuno,<br>così ogni licenza, per l’uso smodato,<br>si volge in costrizione. Le nostre nature inseguono,<br>come topi che divorano il proprio veleno,<br>un male assetante; e quando beviamo, moriamo. |
-| [[characters/lucio\|LUCIO]] | Se sapessi parlare così saggiamente sotto arresto, manderei a chiamare certi miei creditori. E tuttavia, a dire la [[concepts/truth\|verità]], preferirei la scempiaggine della [[concepts/freedom\|libertà]] alla moralità della [[concepts/imprisonment\|prigionia]]. Qual è la tua colpa, [[characters/claudio\|Claudio]]? |
+| [[characters/lucio\|LUCIO]] | Se sapessi parlare così saggiamente sotto arresto, manderei a chiamare certi miei creditori. E tuttavia, a dire la [[concepts/truth\|verità]], preferirei la scempiaggine della [[concepts/freedom\|libertà]] alla [[morality\|moralità]] della [[concepts/imprisonment\|prigionia]]. Qual è la tua colpa, [[characters/claudio\|Claudio]]? |
 | [[characters/claudio\|CLAUDIO]] | Tale che il solo parlarne offenderebbe di nuovo. |
 | [[characters/lucio\|LUCIO]] | Come, è omicidio? |
 | [[characters/claudio\|CLAUDIO]] | No. |
@@ -1598,7 +2787,7 @@ Measure for Measure
 | [[characters/lucio\|LUCIO]] | Our doubts are traitors,<br>And makes us lose the good we oft might win,<br>By fearing to attempt. Go to Lord [[characters/angelo\|Angelo]];<br>And let him learn to know, when maidens sue,<br>Men give like gods, but when they weep and kneel,<br>All their petitions are as freely theirs<br>As they themselves would owe them. |
 | [[characters/isabella\|ISABELLA]] | I’ll see what I can do. |
 | [[characters/lucio\|LUCIO]] | But speedily. |
-| [[characters/isabella\|ISABELLA]] | I will about it straight,<br>No longer staying but to give the Mother<br>Notice of my affair. I humbly thank you.<br>Commend me to my brother. Soon at [[motifs/night\|night]]<br>I’ll send him certain word of my success. |
+| [[characters/isabella\|ISABELLA]] | I will about it straight,<br>No longer staying but to give the Mother<br>Notice of my affair. I humbly thank you.<br>Commend me to my brother. Soon at [[motifs/night\|night]]<br>I’ll send him certain word of my [[success]]. |
 | [[characters/lucio\|LUCIO]] | I take my leave of you. |
 | [[characters/isabella\|ISABELLA]] | Good sir, adieu. |
 | *(didascalia)* | Exeunt [[characters/isabella\|Isabella]] and Francesca at one door, |
@@ -1643,7 +2832,7 @@ Measure for Measure
 | [[characters/lucio\|LUCIO]] | I nostri dubbi sono traditori,<br>e ci fanno perdere il bene che spesso potremmo vincere,<br>per il timore di tentare. Andate dal signor [[characters/angelo\|Angelo]];<br>e fategli imparare che, quando le fanciulle supplicano,<br>gli uomini donano come dèi, ma quando esse piangono e s’inginocchiano,<br>tutte le loro petizioni son loro concesse così largamente<br>come se le possedessero già. |
 | [[characters/isabella\|ISABELLA]] | Vedrò che cosa posso fare. |
 | [[characters/lucio\|LUCIO]] | Ma presto. |
-| [[characters/isabella\|ISABELLA]] | Mi ci metterò subito,<br>senza indugiare che a dare alla Madre<br>avviso della mia faccenda. Umilmente vi ringrazio.<br>Raccomandatemi a mio fratello. Stasera sul far della [[motifs/night\|notte]]<br>gli manderò notizia certa del mio esito. |
+| [[characters/isabella\|ISABELLA]] | Mi ci metterò subito,<br>senza indugiare che a dare alla Madre<br>avviso della mia faccenda. Umilmente vi ringrazio.<br>Raccomandatemi a mio fratello. Stasera sul far della [[motifs/night\|notte]]<br>gli manderò notizia certa del mio [[success\|esito]]. |
 | [[characters/lucio\|LUCIO]] | Prendo congedo da voi. |
 | [[characters/isabella\|ISABELLA]] | Buon signore, addio. |
 | *(didascalia)* | Escono [[characters/isabella\|Isabella]] e Francesca da una porta, |
@@ -1666,7 +2855,7 @@ Measure for Measure
 | PROVOST | Here, if it like your [[concepts/honour\|honour]]. |
 | [[characters/angelo\|ANGELO]] | See that [[characters/claudio\|Claudio]]<br>Be execute by nine tomorrow morning.<br>Bring him his confessor, let him be prepared,<br>For that’s the utmost of his pilgrimage. |
 | *(didascalia)* | Exit Provost |
-| [[characters/escalus\|ESCALUS]] | [[motifs/well\|Well]], heaven forgive him, and forgive us all!<br>Some rise by sin, and some by virtue fall.<br>Some run from brakes of vice, and answer none;<br>And some condemned for a fault alone. |
+| [[characters/escalus\|ESCALUS]] | [[motifs/well\|Well]], heaven forgive him, and forgive us all!<br>Some rise by sin, and some by virtue fall.<br>Some run from brakes of vice, and answer none;<br>And some condemned for a fault [[Alone\|alone]]. |
 | *(didascalia)* | Enter Elbow, Froth, [[characters/pompey\|Pompey]], and officers |
 | ELBOW | Come, bring them away. If these be good people in a commonweal, that do nothing but use their abuses in common houses, I know no law. Bring them away. |
 | [[characters/angelo\|ANGELO]] | How now, sir? What’s your name? And what’s the<br>matter? |
@@ -1677,13 +2866,13 @@ Measure for Measure
 | [[characters/angelo\|ANGELO]] | Go to, what quality are they of? Elbow is your name? Why dost thou not speak, Elbow? |
 | [[characters/pompey\|POMPEY]] | He cannot, sir; he’s out at elbow. |
 | [[characters/angelo\|ANGELO]] | What are you, sir? |
-| ELBOW | He, sir? A tapster, sir, parcel bawd; one that serves a bad woman whose house, sir, was, as they say, plucked down in the suburbs; and now she professes a hot-house, which I think is a very ill house too. |
+| ELBOW | He, sir? A tapster, sir, parcel bawd; one that serves a bad woman whose [[house]], sir, was, as they say, plucked down in the suburbs; and now she professes a hot-[[house]], which I think is a very ill [[house]] too. |
 | [[characters/escalus\|ESCALUS]] | How know you that? |
 | ELBOW | My wife, sir, whom I detest before heaven and your [[concepts/honour\|honour]]— |
 | [[characters/escalus\|ESCALUS]] | How, thy wife? |
 | ELBOW | Ay, sir, whom I thank heaven is an honest woman— |
 | [[characters/escalus\|ESCALUS]] | Dost thou detest her therefor? |
-| ELBOW | I say, sir, I will detest myself also, as [[motifs/well\|well]] as she, that this house, if it be not a bawd’s house, it is pity of her life, for it is a naughty house. |
+| ELBOW | I say, sir, I will detest myself also, as [[motifs/well\|well]] as she, that this [[house]], if it be not a bawd’s [[house]], it is pity of her life, for it is a naughty [[house]]. |
 | [[characters/escalus\|ESCALUS]] | How dost thou know that, constable? |
 | ELBOW | Marry, sir, by my wife, who, if she had been a woman cardinally given, might have been accused in fornication, adultery, and all uncleanliness there. |
 | [[characters/escalus\|ESCALUS]] | By the woman’s means? |
@@ -1691,7 +2880,7 @@ Measure for Measure
 | [[characters/pompey\|POMPEY]] | (to [[characters/escalus\|Escalus]]) Sir, if it please your [[concepts/honour\|honour]], this is not so. |
 | ELBOW | Prove it before these varlets here, thou honourable man, prove it. |
 | [[characters/escalus\|ESCALUS]] | (to [[characters/angelo\|Angelo]]) Do you hear how he misplaces? |
-| [[characters/pompey\|POMPEY]] | Sir, she came in great with [[archetypes/child\|child]], and [[concepts/longing\|longing]]-saving your [[concepts/honour\|honour]]’s reverence—for stewed prunes. Sir, we had but two in the house, which at that very distant [[motifs/time\|time]] stood, as it were, in a fruit dish—a dish of some threepence; your honours have seen such dishes; they are not china dishes, but very good dishes. |
+| [[characters/pompey\|POMPEY]] | Sir, she came in great with [[archetypes/child\|child]], and [[concepts/longing\|longing]]-saving your [[concepts/honour\|honour]]’s reverence—for stewed prunes. Sir, we had but two in the [[house]], which at that very distant [[motifs/time\|time]] stood, as it were, in a fruit dish—a dish of some threepence; your honours have seen such dishes; they are not china dishes, but very good dishes. |
 | [[characters/escalus\|ESCALUS]] | Go to, go to, no matter for the dish, sir. |
 | [[characters/pompey\|POMPEY]] | No, indeed, sir, not of a pin; you are therein in the right. But to the point. As I say, this Mistress Elbow, being, as I say, with [[archetypes/child\|child]], and being great-bellied, and [[concepts/longing\|longing]], as I said, for prunes; and having but two in the dish, as I said, Master Froth here, this very man, having eaten the rest, as I said, and, as I say, paying for them very honestly; for, as you know, Master Froth, I could not give you threepence again. |
 | FROTH | No, indeed. |
@@ -1724,7 +2913,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALUS]] | Why, no. |
 | [[characters/pompey\|POMPEY]] | I’ll be supposed upon a book his face is the worst thing about him. Good, then—if his face be the worst thing about him, how could Master Froth do the constable’s wife any harm? I would know that of your [[concepts/honour\|honour]]. |
 | [[characters/escalus\|ESCALUS]] | He’s in the right, constable; what say you to it? |
-| ELBOW | First, an it like you, the house is a respected house; next, this is a respected fellow; and his mistress is a respected woman. |
+| ELBOW | First, an it like you, the [[house]] is a respected [[house]]; next, this is a respected fellow; and his mistress is a respected woman. |
 | [[characters/pompey\|POMPEY]] | (to [[characters/escalus\|Escalus]]) By this hand, sir, his wife is a more respected person than any of us all. |
 | ELBOW | Varlet, thou liest; thou liest, wicked varlet. The [[motifs/time\|time]] is yet to come that she was ever respected with man, woman, or [[archetypes/child\|child]]. |
 | [[characters/pompey\|POMPEY]] | Sir, she was respected with him before he married with her. |
@@ -1745,7 +2934,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALUS]] | Hath she had any more than one husband? |
 | [[characters/pompey\|POMPEY]] | Nine, sir—Overdone by the last. |
 | [[characters/escalus\|ESCALUS]] | Nine?—Come hither to me, Master Froth. Master Froth, I would not have you acquainted with tapsters. They will draw you, Master Froth, and you will hang them. Get you gone, and let me hear no more of you. |
-| FROTH | I thank your worship. For mine own part, I never come into any room in a tap-house but I am drawn in. |
+| FROTH | I thank your worship. For mine own part, I never come into any room in a tap-[[house]] but I am drawn in. |
 | [[characters/escalus\|ESCALUS]] | [[motifs/well\|Well]], no more of it, Master Froth. Farewell. |
 | *(didascalia)* | Exit Froth |
 | [[characters/escalus\|ESCALUS]] | Come you hither to me, Master Tapster. What’s your<br>name, Master Tapster? |
@@ -1761,7 +2950,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALUS]] | No, [[characters/pompey\|Pompey]]. |
 | [[characters/pompey\|POMPEY]] | Truly, sir, in my poor opinion they will to’t then. If your worship will take order for the drabs and the knaves, you need not to [[concepts/fear\|fear]] the bawds. |
 | [[characters/escalus\|ESCALUS]] | There is pretty orders beginning, I can tell you. It is but heading and hanging. |
-| [[characters/pompey\|POMPEY]] | If you head and hang all that offend that way but for ten year together, you’ll be glad to give out a commission for more heads. If this law hold in Vienna ten year, I’ll rent the fairest house in it after threepence a bay. If you live to see this come to pass, say [[characters/pompey\|Pompey]] told you so. |
+| [[characters/pompey\|POMPEY]] | If you head and hang all that offend that way but for ten year together, you’ll be glad to give out a commission for more heads. If this law hold in Vienna ten year, I’ll rent the fairest [[house]] in it after threepence a bay. If you live to see this come to pass, say [[characters/pompey\|Pompey]] told you so. |
 | [[characters/escalus\|ESCALUS]] | Thank you, good [[characters/pompey\|Pompey]]; and in requital of your prophecy, hark you. I advise you, let me not find you before me again upon any complaint whatsoever; no, not for dwelling where you do. If I do, [[characters/pompey\|Pompey]], I shall beat you to your tent, and prove a shrewd Caesar to you; in plain dealing, [[characters/pompey\|Pompey]], I shall have you whipped. So for this [[motifs/time\|time]], [[characters/pompey\|Pompey]], fare you [[motifs/well\|well]]. |
 | *(didascalia)* | [[characters/pompey\|POMPEY]] I thank your worship for your good counsel; aside but I shall follow it as the flesh and fortune shall better determine. Whip me? No, no; let carman whip his jade. The valiant heart’s not whipped out of his trade. Exit |
 | [[characters/escalus\|ESCALUS]] | Come hither to me, Master Elbow; come hither, Master Constable. How long have you been in this place of constable? |
@@ -1771,8 +2960,8 @@ Measure for Measure
 | [[characters/escalus\|ESCALUS]] | Alas, it hath been great pains to you. They do you wrong to put you so oft upon’t. Are there not men in your ward sufficient to serve it? |
 | ELBOW | [[concepts/faith\|Faith]], sir, few of any wit in such matters. As they are chosen, they are glad to choose me for them. I do it for some piece of money, and go through with all. |
 | [[characters/escalus\|ESCALUS]] | Look you bring me in the names of some six or seven, the most sufficient of your parish. |
-| ELBOW | To your worship’s house, sir? |
-| [[characters/escalus\|ESCALUS]] | To my house. Fare you [[motifs/well\|well]]. |
+| ELBOW | To your worship’s [[house]], sir? |
+| [[characters/escalus\|ESCALUS]] | To my [[house]]. Fare you [[motifs/well\|well]]. |
 | *(didascalia)* | Exit Elbow with officers |
 | [[characters/escalus\|ESCALUS]] | What’s o’[[motifs/clock\|clock]], think you? |
 | JUSTICE | Eleven, sir. |
@@ -1798,7 +2987,7 @@ Measure for Measure
 | PREVOSTO | Qui, se piace a vostro [[concepts/honour\|onore]]. |
 | [[characters/angelo\|ANGELO]] | Badate che [[characters/claudio\|Claudio]]<br>sia giustiziato per le nove di domattina.<br>Portategli il suo confessore, sia preparato,<br>ché quello è l’estremo del suo pellegrinaggio. |
 | *(didascalia)* | Esce il Prevosto |
-| [[characters/escalus\|ESCALO]] | [[motifs/well\|Bene]], il cielo perdoni lui, e perdoni tutti noi!<br>Alcuni salgono col peccato, e altri per virtù cadono.<br>Alcuni corrono per i roveti del vizio, e non ne rispondono;<br>e altri son condannati per un solo fallo. |
+| [[characters/escalus\|ESCALO]] | [[motifs/well\|Bene]], il cielo perdoni lui, e perdoni tutti noi!<br>Alcuni salgono col peccato, e altri per virtù cadono.<br>Alcuni corrono per i roveti del vizio, e non ne rispondono;<br>e altri son condannati per un [[Alone\|solo]] fallo. |
 | *(didascalia)* | Entrano Elbow, Froth, [[characters/pompey\|Pompeo]] e ufficiali |
 | ELBOW | Su, portateli via. Se questa è brava gente in uno Stato, che non fa altro che usare i suoi abusi in case comuni, allora io non conosco legge. Portateli via. |
 | [[characters/angelo\|ANGELO]] | Ebbene, signore? Qual è il vostro nome? E di che si<br>tratta? |
@@ -1809,13 +2998,13 @@ Measure for Measure
 | [[characters/angelo\|ANGELO]] | Andiamo, di che qualità sono? Elbow è il tuo nome? Perché non parli, Elbow? |
 | [[characters/pompey\|POMPEO]] | Non può, signore; è scucito al gomito. |
 | [[characters/angelo\|ANGELO]] | Che cosa siete voi, signore? |
-| ELBOW | Lui, signore? Uno spillatore, signore, mezzo ruffiano; uno che serve una cattiva donna la cui casa, signore, fu, a quanto dicono, abbattuta nei sobborghi; e ora ella professa una casa di bagni caldi, che credo sia anch’essa una pessima casa. |
+| ELBOW | Lui, signore? Uno spillatore, signore, mezzo ruffiano; uno che serve una cattiva donna la cui [[house\|casa]], signore, fu, a quanto dicono, abbattuta nei sobborghi; e ora ella professa una [[house\|casa]] di bagni caldi, che credo sia anch’essa una pessima [[house\|casa]]. |
 | [[characters/escalus\|ESCALO]] | Come lo sapete? |
 | ELBOW | Mia moglie, signore, che io detesto davanti al cielo e a vostro [[concepts/honour\|onore]]— |
 | [[characters/escalus\|ESCALO]] | Come, tua moglie? |
 | ELBOW | Sì, signore, la quale, ringrazio il cielo, è donna onesta— |
 | [[characters/escalus\|ESCALO]] | E la detesti per questo? |
-| ELBOW | Io dico, signore, che detesterò anche me stesso, così [[motifs/well\|bene]] come lei, che questa casa, se non è casa di ruffiana, è un peccato per la sua vita, ché è una casa sconcia. |
+| ELBOW | Io dico, signore, che detesterò anche me stesso, così [[motifs/well\|bene]] come lei, che questa [[house\|casa]], se non è [[house\|casa]] di ruffiana, è un peccato per la sua vita, ché è una [[house\|casa]] sconcia. |
 | [[characters/escalus\|ESCALO]] | E come lo sai, conestabile? |
 | ELBOW | Perbacco, signore, da mia moglie, la quale, se fosse stata donna cardinalmente inclinata, avrebbe potuto essere accusata là dentro di fornicazione, adulterio e ogni immondezza. |
 | [[characters/escalus\|ESCALO]] | Per opera di quella donna? |
@@ -1823,7 +3012,7 @@ Measure for Measure
 | [[characters/pompey\|POMPEO]] | (a [[characters/escalus\|Escalo]]) Signore, con licenza di vostro [[concepts/honour\|onore]], non è così. |
 | ELBOW | Provalo davanti a questi manigoldi qui, tu uomo onorevole, provalo. |
 | [[characters/escalus\|ESCALO]] | (ad [[characters/angelo\|Angelo]]) Sentite come sposta le parole? |
-| [[characters/pompey\|POMPEO]] | Signore, ella entrò grossa d’un [[archetypes/child\|figlio]], e con [[concepts/longing\|voglia]]—salva la riverenza di vostro [[concepts/honour\|onore]]—di prugne cotte. Signore, non ne avevamo che due in casa, le quali in quel medesimo distante [[motifs/time\|tempo]] stavano, per così dire, in un piatto da frutta—un piatto da tre soldi; le vostre signorie hanno visto piatti simili; non son piatti di porcellana, ma piatti buonissimi. |
+| [[characters/pompey\|POMPEO]] | Signore, ella entrò grossa d’un [[archetypes/child\|figlio]], e con [[concepts/longing\|voglia]]—salva la riverenza di vostro [[concepts/honour\|onore]]—di prugne cotte. Signore, non ne avevamo che due in [[house\|casa]], le quali in quel medesimo distante [[motifs/time\|tempo]] stavano, per così dire, in un piatto da frutta—un piatto da tre soldi; le vostre signorie hanno visto piatti simili; non son piatti di porcellana, ma piatti buonissimi. |
 | [[characters/escalus\|ESCALO]] | Andiamo, andiamo, non importa del piatto, signore. |
 | [[characters/pompey\|POMPEO]] | No, davvero, signore, non vale uno spillo; in questo avete ragione. Ma veniamo al punto. Come dico, questa Mistress Elbow, essendo, come dico, gravida d’un [[archetypes/child\|figlio]], e avendo la pancia grossa, e avendo [[concepts/longing\|voglia]], come ho detto, di prugne; e non essendocene che due nel piatto, come ho detto, avendone messer Froth qui, quest’uomo medesimo, mangiato il resto, come ho detto, e, come dico, pagandole assai onestamente; ché, come sapete, messer Froth, io non potevo rendervi i tre soldi. |
 | FROTH | No, davvero. |
@@ -1856,7 +3045,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALO]] | Ma no. |
 | [[characters/pompey\|POMPEO]] | Sarò supposto sopra un libro che la sua faccia è la cosa peggiore che abbia. Bene, dunque—se la sua faccia è la cosa peggiore che abbia, come poteva messer Froth fare alcun male alla moglie del conestabile? Vorrei saperlo da vostro [[concepts/honour\|onore]]. |
 | [[characters/escalus\|ESCALO]] | Ha ragione, conestabile; che ne dite? |
-| ELBOW | Primo, con vostra licenza, la casa è una casa rispettata; secondo, costui è un tipo rispettato; e la sua padrona è una donna rispettata. |
+| ELBOW | Primo, con vostra licenza, la [[house\|casa]] è una [[house\|casa]] rispettata; secondo, costui è un tipo rispettato; e la sua padrona è una donna rispettata. |
 | [[characters/pompey\|POMPEO]] | (a [[characters/escalus\|Escalo]]) Per questa mano, signore, sua moglie è persona più rispettata di tutti noi. |
 | ELBOW | Manigoldo, tu menti; tu menti, malvagio manigoldo. Deve ancora venire il [[motifs/time\|tempo]] in cui ella sia mai stata rispettata con uomo, donna o [[archetypes/child\|fanciullo]]. |
 | [[characters/pompey\|POMPEO]] | Signore, ella fu rispettata con lui prima ch’egli la sposasse. |
@@ -1877,7 +3066,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALO]] | Ha avuto più d’un marito? |
 | [[characters/pompey\|POMPEO]] | Nove, signore—Overdone dall’ultimo. |
 | [[characters/escalus\|ESCALO]] | Nove?—Venite qui da me, messer Froth. Messer Froth, non vorrei che frequentaste spillatori. Essi vi spilleranno, messer Froth, e voi li farete impiccare. Andatevene, e ch’io non senta più parlare di voi. |
-| FROTH | Ringrazio vossignoria. Per parte mia, non entro mai in una stanza d’una casa da spillare senza esservi tirato dentro. |
+| FROTH | Ringrazio vossignoria. Per parte mia, non entro mai in una stanza d’una [[house\|casa]] da spillare senza esservi tirato dentro. |
 | [[characters/escalus\|ESCALO]] | [[motifs/well\|Bene]], basta così, messer Froth. Addio. |
 | *(didascalia)* | Esce Froth |
 | [[characters/escalus\|ESCALO]] | Venite qui da me, messer Spillatore. Qual è il vostro<br>nome, messer Spillatore? |
@@ -1893,7 +3082,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALO]] | No, [[characters/pompey\|Pompeo]]. |
 | [[characters/pompey\|POMPEO]] | In verità, signore, a mio povero parere ci si metteranno allora. Se vossignoria provvederà alle sgualdrine e ai furfanti, non c’è bisogno di [[concepts/fear\|temere]] i ruffiani. |
 | [[characters/escalus\|ESCALO]] | Cominciano dei bei provvedimenti, ve lo posso dire. Non c’è che decapitare e impiccare. |
-| [[characters/pompey\|POMPEO]] | Se decapitate e impiccate tutti quelli che offendono per quella via anche solo per dieci anni di fila, sarete lieti di emanare una commissione per aver altre teste. Se questa legge dura in Vienna dieci anni, affitterò la più bella casa della città a tre soldi la campata. Se vivrete tanto da veder ciò accadere, dite che [[characters/pompey\|Pompeo]] ve l’aveva detto. |
+| [[characters/pompey\|POMPEO]] | Se decapitate e impiccate tutti quelli che offendono per quella via anche solo per dieci anni di fila, sarete lieti di emanare una commissione per aver altre teste. Se questa legge dura in Vienna dieci anni, affitterò la più bella [[house\|casa]] della città a tre soldi la campata. Se vivrete tanto da veder ciò accadere, dite che [[characters/pompey\|Pompeo]] ve l’aveva detto. |
 | [[characters/escalus\|ESCALO]] | Grazie, buon [[characters/pompey\|Pompeo]]; e in ricompensa della tua profezia, ascolta. Ti avverto: che io non ti trovi più davanti a me per qualsivoglia denuncia; no, neppure per abitare dove abiti. Se accade, [[characters/pompey\|Pompeo]], ti ricaccerò a bastonate nella tua tenda, e sarò per te un accorto Cesare; a parlar chiaro, [[characters/pompey\|Pompeo]], ti farò frustare. Dunque per questa [[motifs/time\|volta]], [[characters/pompey\|Pompeo]], sta’ [[motifs/well\|bene]]. |
 | *(didascalia)* | [[characters/pompey\|POMPEO]] Ringrazio vossignoria del buon consiglio; a parte ma lo seguirò come la carne e la fortuna meglio determineranno. Frustarmi? No, no; il carrettiere frusti la sua rozza. Il cuore valoroso non si lascia frustare fuori dal suo mestiere. Esce |
 | [[characters/escalus\|ESCALO]] | Venite qui da me, messer Elbow; venite qui, messer Conestabile. Da quanto tempo siete in questo posto di conestabile? |
@@ -1903,8 +3092,8 @@ Measure for Measure
 | [[characters/escalus\|ESCALO]] | Ahimè, è stata gran fatica per voi. Vi fanno torto a mettervici così spesso. Non ci sono uomini nel vostro quartiere capaci di servirlo? |
 | ELBOW | In [[concepts/faith\|fede]], signore, pochi con un po’ d’ingegno in tali materie. Quando son scelti, sono ben contenti di scegliere me al posto loro. Lo faccio per qualche pezzo di denaro, e sbrigo tutto. |
 | [[characters/escalus\|ESCALO]] | Badate di portarmi i nomi di sei o sette, i più capaci della vostra parrocchia. |
-| ELBOW | Alla casa di vossignoria, signore? |
-| [[characters/escalus\|ESCALO]] | Alla mia casa. State [[motifs/well\|bene]]. |
+| ELBOW | Alla [[house\|casa]] di vossignoria, signore? |
+| [[characters/escalus\|ESCALO]] | Alla mia [[house\|casa]]. State [[motifs/well\|bene]]. |
 | *(didascalia)* | Esce Elbow con gli ufficiali |
 | [[characters/escalus\|ESCALO]] | Che [[motifs/clock\|ora]] è, secondo voi? |
 | GIUDICE | Le undici, signore. |
@@ -1926,7 +3115,7 @@ Measure for Measure
 | SERVANT | He’s hearing of a cause; he will come straight.<br>I’ll tell him of you. |
 | PROVOST | Pray you do. |
 | *(didascalia)* | Exit Servant |
-| PROVOST | I’ll know<br>His pleasure; maybe he will relent. Alas,<br>He hath but as offended in a dream.<br>All sects, all ages, smack of this vice; and he<br>To die for’t! |
+| PROVOST | I’ll know<br>His pleasure; maybe he will relent. Alas,<br>He hath but as offended in [[A Dream\|a dream]].<br>All sects, all ages, smack of this vice; and he<br>To die for’t! |
 | *(didascalia)* | Enter |
 | PROVOST | [[characters/angelo\|Angelo]] |
 | [[characters/angelo\|ANGELO]] | Now, what’s the matter, Provost? |
@@ -1964,7 +3153,7 @@ Measure for Measure
 | [[characters/isabella\|ISABELLA]] | But might you do’t, and do the world no wrong,<br>If so your heart were touched with that remorse<br>As mine is to him? |
 | [[characters/angelo\|ANGELO]] | He’s sentenced; ’tis too late. |
 | [[characters/lucio\|LUCIO]] | (aside to [[characters/isabella\|Isabella]]) You are too cold. |
-| [[characters/isabella\|ISABELLA]] | Too late? Why, no; I that do speak a word<br>May call it again. [[motifs/well\|Well]], believe this,<br>No ceremony that to great ones ’longs,<br>Not the [[archetypes/king\|king]]’s [[motifs/crown\|crown]], nor the deputed sword,<br>The marshal’s truncheon, nor the judge’s robe,<br>Become them with one half so good a grace<br>As [[concepts/mercy\|mercy]] does.<br>If he had been as you and you as he,<br>You would have slipped like him, but he, like you,<br>Would not have been so stern. |
+| [[characters/isabella\|ISABELLA]] | Too late? Why, no; I that do speak a word<br>May call it again. [[motifs/well\|Well]], believe this,<br>No ceremony that to great ones ’longs,<br>Not the [[archetypes/king\|king]]’s [[motifs/crown\|crown]], nor the deputed [[Sword\|sword]],<br>The marshal’s truncheon, nor the judge’s robe,<br>Become them with one half so good a grace<br>As [[concepts/mercy\|mercy]] does.<br>If he had been as you and you as he,<br>You would have slipped like him, but he, like you,<br>Would not have been so stern. |
 | [[characters/angelo\|ANGELO]] | Pray you be gone. |
 | [[characters/isabella\|ISABELLA]] | I would to heaven I had your potency,<br>And you were Isabel! Should it then be thus?<br>No; I would tell what ’twere to be a judge,<br>And what a prisoner. |
 | [[characters/lucio\|LUCIO]] | (aside to [[characters/isabella\|Isabella]]) Ay, touch him; there’s the vein. |
@@ -2014,7 +3203,7 @@ Measure for Measure
 | SERVO | Sta ascoltando una causa; verrà subito.<br>Gli dirò di voi. |
 | PREVOSTO | Fatelo, vi prego. |
 | *(didascalia)* | Esce il Servo |
-| PREVOSTO | Conoscerò<br>il suo piacere; forse s’intenerirà. Ahimè,<br>egli non ha peccato che in un sogno.<br>Ogni setta, ogni età sa di questo vizio; ed egli<br>morire per questo! |
+| PREVOSTO | Conoscerò<br>il suo piacere; forse s’intenerirà. Ahimè,<br>egli non ha peccato che in [[A Dream\|un sogno]].<br>Ogni setta, ogni età sa di questo vizio; ed egli<br>morire per questo! |
 | *(didascalia)* | Entra |
 | PREVOSTO | [[characters/angelo\|Angelo]] |
 | [[characters/angelo\|ANGELO]] | Dunque, che c’è, Prevosto? |
@@ -2052,7 +3241,7 @@ Measure for Measure
 | [[characters/isabella\|ISABELLA]] | Ma potreste farlo, e non fare torto al mondo,<br>se il vostro cuore fosse tocco da quella pietà<br>di cui il mio è tocco per lui? |
 | [[characters/angelo\|ANGELO]] | È sentenziato; è troppo tardi. |
 | [[characters/lucio\|LUCIO]] | (a parte, a [[characters/isabella\|Isabella]]) Siete troppo fredda. |
-| [[characters/isabella\|ISABELLA]] | Troppo tardi? Ma no; io che pronuncio una parola<br>posso richiamarla. [[motifs/well\|Bene]], credete a questo,<br>nessuna cerimonia che ai grandi appartenga,<br>non la [[motifs/crown\|corona]] del [[archetypes/king\|re]], né la spada delegata,<br>il bastone del maresciallo, né la toga del giudice,<br>li adorna con grazia neppure a metà così bella<br>come fa la [[concepts/mercy\|clemenza]].<br>Se egli fosse stato come voi e voi come lui,<br>voi sareste scivolato al pari suo, ma egli, come voi,<br>non sarebbe stato così duro. |
+| [[characters/isabella\|ISABELLA]] | Troppo tardi? Ma no; io che pronuncio una parola<br>posso richiamarla. [[motifs/well\|Bene]], credete a questo,<br>nessuna cerimonia che ai grandi appartenga,<br>non la [[motifs/crown\|corona]] del [[archetypes/king\|re]], né la [[Sword\|spada]] delegata,<br>il bastone del maresciallo, né la toga del giudice,<br>li adorna con grazia neppure a metà così bella<br>come fa la [[concepts/mercy\|clemenza]].<br>Se egli fosse stato come voi e voi come lui,<br>voi sareste scivolato al pari suo, ma egli, come voi,<br>non sarebbe stato così duro. |
 | [[characters/angelo\|ANGELO]] | Vi prego, andatevene. |
 | [[characters/isabella\|ISABELLA]] | Volesse il cielo ch’io avessi la vostra potenza,<br>e voi foste Isabella! Sarebbe allora così?<br>No; io direi che cosa è essere giudice,<br>e che cosa prigioniero. |
 | [[characters/lucio\|LUCIO]] | (a parte, a [[characters/isabella\|Isabella]]) Sì, toccatelo; là è la vena. |
@@ -2125,6 +3314,63 @@ Measure for Measure
 | [[characters/juliet\|JULIET]] | Must die tomorrow? O injurious law,<br>That respites me a life whose very comfort<br>Is still a dying horror! |
 | PROVOST | ’Tis pity of him. |
 | *(didascalia)* | Exeunt |
+| PROVOST | 2.4 Enter [[characters/angelo\|Angelo]] |
+| [[characters/angelo\|ANGELO]] | When I would pray and think, I think and pray<br>To several subjects: heaven hath my empty words,<br>Whilst my invention, hearing not my tongue,<br>Anchors on Isabel; God in my mouth,<br>As if I did but only chew his name,<br>And in my heart the strong and swelling evil<br>Of my conception. The state whereon I studied<br>Is like a good thing, being often read,<br>Grown seared and tedious. Yea, my gravity,<br>Wherein—let no man hear me—I take [[concepts/pride\|pride]],<br>Could I with boot change for an idle plume<br>Which the air beats in vain. O place, O form,<br>How often dost thou with thy case, thy habit,<br>Wrench awe from fools, and tie the wiser souls<br>To thy false seeming! [[motifs/blood\|Blood]], thou art [[motifs/blood\|blood]].<br>Let’s write ‘good angel’ on the devil’s horn—<br>’Tis now the devil’s crest. |
+| *(didascalia)* | Enter Servant |
+| [[characters/angelo\|ANGELO]] | How now? Who’s there? |
+| SERVANT | One Isabel, a sister, desires access to you. |
+| [[characters/angelo\|ANGELO]] | Teach her the way. |
+| *(didascalia)* | Exit Servant |
+| [[characters/angelo\|ANGELO]] | O heavens,<br>Why does my [[motifs/blood\|blood]] thus muster to my heart,<br>Making both it unable for itself,<br>And dispossessing all my other parts<br>Of necessary fitness?<br>So play the foolish throngs with one that swoons—<br>Come all to help him, and so stop the air<br>By which he should revive—and even so<br>The general subject to a [[motifs/well\|well]]-wished [[archetypes/king\|king]]<br>Quit their own part and, in obsequious fondness,<br>Crowd to his presence, where their untaught [[motifs/love\|love]]<br>Must needs appear offence. |
+| *(didascalia)* | Enter |
+| [[characters/angelo\|ANGELO]] | [[characters/isabella\|Isabella]]<br>How now, fair maid? |
+| [[characters/isabella\|ISABELLA]] | I am come to know your pleasure. |
+| [[characters/angelo\|ANGELO]] | (aside)<br>That you might know it would much better please me<br>Than to demand what ’tis. (To [[characters/isabella\|Isabella]]) Your brother<br>cannot live. |
+| [[characters/isabella\|ISABELLA]] | Even so. Heaven keep your [[concepts/honour\|honour]]. |
+| [[characters/angelo\|ANGELO]] | Yet may he live a while, and it may be<br>As long as you or I. Yet he must die. |
+| [[characters/isabella\|ISABELLA]] | Under your sentence? |
+| [[characters/angelo\|ANGELO]] | Yea. |
+| [[characters/isabella\|ISABELLA]] | When, I beseech you?—that in his reprieve,<br>Longer or shorter, he may be so fitted<br>That his [[motifs/soul\|soul]] sicken not. |
+| [[characters/angelo\|ANGELO]] | Ha, fie, these filthy vices! It were as good<br>To pardon him that hath from [[concepts/nature\|nature]] stolen<br>A man already made, as to remit<br>Their saucy sweetness that do coin God’s image<br>In stamps that are forbid. ’Tis all as easy<br>Falsely to take away a life true made<br>As to put metal in restrained moulds,<br>To make a false one. |
+| [[characters/isabella\|ISABELLA]] | ’Tis set down so in heaven, but not in earth. |
+| [[characters/angelo\|ANGELO]] | Say you so? Then I shall pose you quickly.<br>Which had you rather: that the most just law<br>Now took your brother’s life, or, to redeem him,<br>Give up your [[concepts/body\|body]] to such sweet uncleanness<br>As she that he hath stained? |
+| [[characters/isabella\|ISABELLA]] | Sir, believe this.<br>I had rather give my [[concepts/body\|body]] than my [[motifs/soul\|soul]]. |
+| [[characters/angelo\|ANGELO]] | I talk not of your [[motifs/soul\|soul]]. Our compelled sins<br>Stand more for number than for account. |
+| [[characters/isabella\|ISABELLA]] | How say you? |
+| [[characters/angelo\|ANGELO]] | Nay, I’ll not warrant that, for I can speak<br>Against the thing I say. Answer to this.<br>I now, the voice of the recorded law,<br>Pronounce a sentence on your brother’s life.<br>Might there not be a [[concepts/charity\|charity]] in sin<br>To save this brother’s life? |
+| [[characters/isabella\|ISABELLA]] | Please you to do’t,<br>I’ll take it as a peril to my [[motifs/soul\|soul]]<br>It is no sin at all, but [[concepts/charity\|charity]]. |
+| [[characters/angelo\|ANGELO]] | Pleased you to do’t at peril of your [[motifs/soul\|soul]]<br>Were equal poise of sin and [[concepts/charity\|charity]]. |
+| [[characters/isabella\|ISABELLA]] | That I do beg his life, if it be sin,<br>Heaven let me bear it. You granting of my suit,<br>If that be sin, I’ll make it my morn [[motifs/prayer\|prayer]]<br>To have it added to the faults of mine,<br>And nothing of your answer. |
+| [[characters/angelo\|ANGELO]] | Nay, but hear me.<br>Your sense pursues not mine. Either you are ignorant,<br>Or seem so craftily, and that’s not good. |
+| [[characters/isabella\|ISABELLA]] | Let me be ignorant, and in nothing good<br>But graciously to know I am no better. |
+| [[characters/angelo\|ANGELO]] | Thus wisdom wishes to appear most bright<br>When it doth tax itself: as these black masks<br>Proclaim an enshield [[concepts/beauty\|beauty]] ten times louder<br>Than [[concepts/beauty\|beauty]] could, displayed. But mark me.<br>To be received plain, I’ll speak more gross.<br>Your brother is to die. |
+| [[characters/isabella\|ISABELLA]] | So. |
+| [[characters/angelo\|ANGELO]] | And his offence is so, as it appears,<br>Accountant to the law upon that [[motifs/pain\|pain]]. |
+| [[characters/isabella\|ISABELLA]] | True. |
+| [[characters/angelo\|ANGELO]] | Admit no other way to save his life—<br>As I subscribe not that nor any other—<br>But, in the loss of question, that you his sister,<br>Finding yourself desired of such a person<br>Whose credit with the judge, or own great place,<br>Could fetch your brother from the manacles<br>Of the all-binding law, and that there were<br>No earthly mean to save him, but that either<br>You must lay down the treasures of your [[concepts/body\|body]]<br>To this supposed, or else to let him suffer—<br>What would you do? |
+| [[characters/isabella\|ISABELLA]] | As much for my poor brother as myself.<br>That is, were I under the terms of [[motifs/death\|death]],<br>Th’impression of keen whips I’d wear as rubies,<br>And strip myself to [[motifs/death\|death]] as to a bed<br>That [[concepts/longing\|longing]] have been sick for, ere I’d yield<br>My [[concepts/body\|body]] up to shame. |
+| [[characters/angelo\|ANGELO]] | Then must your brother die. |
+| [[characters/isabella\|ISABELLA]] | And ’twere the cheaper way.<br>Better it were a brother died at once<br>Than that a sister, by redeeming him,<br>Should die for ever. |
+| [[characters/angelo\|ANGELO]] | Were not you then as cruel as the sentence<br>That you have slandered so? |
+| [[characters/isabella\|ISABELLA]] | Ignominy in ransom and free pardon<br>Are of two houses; lawful [[concepts/mercy\|mercy]]<br>Is nothing kin to foul redemption. |
+| [[characters/angelo\|ANGELO]] | You seemed of late to make the law a [[archetypes/tyrant\|tyrant]],<br>And rather proved the sliding of your brother<br>A merriment than a vice. |
+| [[characters/isabella\|ISABELLA]] | O pardon me, my lord. It oft falls out<br>To have what we would have, we speak not what we<br>mean.<br>I something do excuse the thing I hate<br>For his advantage that I dearly [[motifs/love\|love]]. |
+| [[characters/angelo\|ANGELO]] | We are all frail. |
+| [[characters/isabella\|ISABELLA]] | Else let my brother die—<br>If not a federy, but only he,<br>Owe and succeed thy weakness. |
+| [[characters/angelo\|ANGELO]] | Nay, women are frail too. |
+| [[characters/isabella\|ISABELLA]] | Ay, as the glasses where they view themselves,<br>Which are as easy broke as they make forms.<br>Women? Help, heaven! Men their creation mar<br>In profiting by them. Nay, call us ten times frail,<br>For we are soft as our complexions are,<br>And credulous to false prints. |
+| [[characters/angelo\|ANGELO]] | I think it [[motifs/well\|well]],<br>And from this testimony of your own sex,<br>Since I suppose we are made to be no stronger<br>Than faults may shake our frames, let me be bold.<br>I do arrest your words. Be that you are;<br>That is, a woman. If you be more, you’re none.<br>If you be one, as you are [[motifs/well\|well]] expressed<br>By all external warrants, show it now,<br>By putting on the destined livery. |
+| [[characters/isabella\|ISABELLA]] | I have no tongue but one. Gentle my lord,<br>Let me entreat you speak the former language. |
+| [[characters/angelo\|ANGELO]] | Plainly conceive, I [[motifs/love\|love]] you. |
+| [[characters/isabella\|ISABELLA]] | My brother did [[motifs/love\|love]] [[characters/juliet\|Juliet]],<br>And you tell me that he shall die for it. |
+| [[characters/angelo\|ANGELO]] | He shall not, Isabel, if you give me [[motifs/love\|love]]. |
+| [[characters/isabella\|ISABELLA]] | I know your virtue hath a licence in’t,<br>Which seems a little fouler than it is,<br>To pluck on others. |
+| [[characters/angelo\|ANGELO]] | Believe me, on mine [[concepts/honour\|honour]],<br>My words express my purpose. |
+| [[characters/isabella\|ISABELLA]] | Ha, little [[concepts/honour\|honour]] to be much believed,<br>And most pernicious purpose! Seeming, seeming!<br>I will proclaim thee, [[characters/angelo\|Angelo]]; look for’t.<br>Sign me a present pardon for my brother,<br>Or with an outstretched throat I’ll tell the world aloud<br>What man thou art. |
+| [[characters/angelo\|ANGELO]] | Who will believe thee, Isabel?<br>My unsoiled name, th‘austereness of my life,<br>My vouch against you, and my place i’th’ state,<br>Will so your accusation overweigh<br>That you shall stifle in your own report,<br>And smell of calumny. I have begun,<br>And now I give my sensual race the rein.<br>Fit thy consent to my sharp appetite.<br>Lay by all nicety and prolixious blushes<br>That banish what they sue for. Redeem thy brother<br>By yielding up thy [[concepts/body\|body]] to my will,<br>Or else he must not only die the [[motifs/death\|death]],<br>But thy unkindness shall his [[motifs/death\|death]] draw out<br>To ling‘ring sufferance. Answer me tomorrow,<br>Or by the affection that now guides me most,<br>I’ll prove a [[archetypes/tyrant\|tyrant]] to him. As for you,<br>Say what you can, my false o’erweighs your true. |
+| *(didascalia)* | Exit |
+| [[characters/isabella\|ISABELLA]] | To whom should I complain? Did I tell this,<br>Who would believe me? O perilous mouths,<br>That bear in them one and the selfsame tongue<br>Either of condemnation or approof,<br>Bidding the law make curtsy to their will,<br>Hooking both right and wrong to th’appetite,<br>To follow as it draws! I’ll to my brother.<br>Though he hath fall’n by prompture of the [[motifs/blood\|blood]],<br>Yet hath he in him such a mind of [[concepts/honour\|honour]]<br>That had he twenty heads to tender down<br>On twenty bloody blocks, he’d yield them up<br>Before his sister should her [[concepts/body\|body]] stoop<br>To such abhorred pollution.<br>Then Isabel live chaste, and brother die:<br>More than our brother is our chastity.<br>I’ll tell him yet of [[characters/angelo\|Angelo]]’s request,<br>And fit his mind to [[motifs/death\|death]], for his [[motifs/soul\|soul]]’s rest. |
+| *(didascalia)* | Exit |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2355,7 +3601,7 @@ Measure for Measure
 | DUKE | That now you are come, you will be gone. Leave me a while with the maid. My mind promises with my habit no loss shall touch her by my company. |
 | PROVOST | In good [[motifs/time\|time]]. Exit with [[characters/claudio\|Claudio]] |
 | DUKE | The hand that hath made you fair hath made you good. The goodness that is cheap in [[concepts/beauty\|beauty]] makes [[concepts/beauty\|beauty]] brief in goodness; but grace, being the [[motifs/soul\|soul]] of your complexion, shall keep the [[concepts/body\|body]] of it ever fair. The assault that [[characters/angelo\|Angelo]] hath made to you fortune hath conveyed to my understanding; and but that frailty hath examples for his falling, I should [[concepts/wonder\|wonder]] at [[characters/angelo\|Angelo]]. How will you do to content this substitute, and to save your brother? |
-| [[characters/isabella\|ISABELLA]] | I am now going to resolve him. I had rather my brother die by the law than my son should be unlawfully born. But O, how much is the good Duke deceived in [[characters/angelo\|Angelo]]! If ever he return and I can speak to him, I will open my lips in vain, or discover his government. |
+| [[characters/isabella\|ISABELLA]] | I am now going to resolve him. I had rather my brother die by the law than my son should be unlawfully born. But O, how much is the good Duke deceived in [[characters/angelo\|Angelo]]! If ever he return and I can speak to him, I will open my lips in vain, or discover his [[government]]. |
 | DUKE | That shall not be much amiss. Yet as the matter now stands, he will avoid your accusation: he made trial of you only. Therefore fasten your ear on my advisings. To the [[motifs/love\|love]] I have in doing good, a remedy presents itself. I do make myself believe that you may most uprighteously do a poor wronged lady a merited benefit, redeem your brother from the angry law, do no stain to your own gracious person, and much please the absent Duke, if peradventure he shall ever return to have hearing of this business. |
 | [[characters/isabella\|ISABELLA]] | Let me hear you speak farther. I have spirit to do anything that appears not foul in the [[concepts/truth\|truth]] of my spirit. |
 | DUKE | Virtue is bold, and goodness never fearful. Have you not heard speak of [[characters/mariana\|Mariana]], the sister of Frederick, the great soldier who miscarried at sea? |
@@ -2394,7 +3640,7 @@ Measure for Measure
 | [[characters/pompey\|POMPEY]] | Yes, [[concepts/faith\|faith]], sir. |
 | [[characters/lucio\|LUCIO]] | Why ’tis not amiss, [[characters/pompey\|Pompey]]. Farewell. Go; say I sent thee thither. For debt, [[characters/pompey\|Pompey]], or how? |
 | ELBOW | For being a bawd, for being a bawd. |
-| [[characters/lucio\|LUCIO]] | [[motifs/well\|Well]] then, imprison him. If [[concepts/imprisonment\|imprisonment]] be the due of a bawd, why, ’tis his right. Bawd is he doubtless, and of antiquity too—bawd born. Farewell, good [[characters/pompey\|Pompey]]. Commend me to the [[motifs/prison\|prison]], [[characters/pompey\|Pompey]]. You will turn good husband now, [[characters/pompey\|Pompey]]; you will keep the house. |
+| [[characters/lucio\|LUCIO]] | [[motifs/well\|Well]] then, imprison him. If [[concepts/imprisonment\|imprisonment]] be the due of a bawd, why, ’tis his right. Bawd is he doubtless, and of antiquity too—bawd born. Farewell, good [[characters/pompey\|Pompey]]. Commend me to the [[motifs/prison\|prison]], [[characters/pompey\|Pompey]]. You will turn good husband now, [[characters/pompey\|Pompey]]; you will keep the [[house]]. |
 | [[characters/pompey\|POMPEY]] | I [[concepts/hope\|hope]], sir, your good worship will be my bail? |
 | [[characters/lucio\|LUCIO]] | No, indeed, will I not, [[characters/pompey\|Pompey]]; it is not the wear. I will pray, [[characters/pompey\|Pompey]], to increase your bondage. If you take it not patiently, why, your mettle is the more. Adieu, trusty [[characters/pompey\|Pompey]].—Bless you, friar. |
 | DUKE | And you. |
@@ -2439,7 +3685,7 @@ Measure for Measure
 | DUKE | O, you [[concepts/hope\|hope]] the Duke will return no more, or you imagine me too unhurtful an opposite. But indeed I can do you little harm; you’ll forswear this again. |
 | [[characters/lucio\|LUCIO]] | I’ll be hanged first. Thou art deceived in me, friar. But no more of this. Canst thou tell if [[characters/claudio\|Claudio]] die tomorrow or no? |
 | DUKE | Why should he die, sir? |
-| [[characters/lucio\|LUCIO]] | Why? For filling a bottle with a tundish. I would the Duke we talk of were returned again; this ungenitured agent will unpeople the province with continency. Sparrows must not build in his house-eaves, because they are lecherous. The Duke yet would have dark deeds darkly answered: he would never bring them to light. Would he were returned. Marry, this [[characters/claudio\|Claudio]] is condemned for untrussing. Farewell, good friar. I prithee pray for me. The Duke, I say to thee again, would eat mutton on Fridays. He’s not past it yet, and, I say to thee, he would mouth with a beggar, though she smelt brown bread and garlic. Say that I said so. Farewell. Exit |
+| [[characters/lucio\|LUCIO]] | Why? For filling a bottle with a tundish. I would the Duke we talk of were returned again; this ungenitured agent will unpeople the province with continency. Sparrows must not build in his [[house]]-eaves, because they are lecherous. The Duke yet would have dark deeds darkly answered: he would never bring them to light. Would he were returned. Marry, this [[characters/claudio\|Claudio]] is condemned for untrussing. Farewell, good friar. I prithee pray for me. The Duke, I say to thee again, would eat mutton on Fridays. He’s not past it yet, and, I say to thee, he would mouth with a beggar, though she smelt brown bread and garlic. Say that I said so. Farewell. Exit |
 | DUKE | No might nor [[concepts/greatness\|greatness]] in [[concepts/mortality\|mortality]]<br>Can censure scape; back-wounding calumny<br>The whitest virtue strikes. What [[archetypes/king\|king]] so strong<br>Can tie the gall up in the slanderous tongue? |
 | *(didascalia)* | Enter [[characters/escalus\|Escalus]], the Provost, and Mistress Overdone |
 | DUKE | But who comes here? |
@@ -2463,7 +3709,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALUS]] | You have paid the heavens your function, and the prisoner the very debt of your calling. I have laboured for the poor gentleman to the extremest shore of my modesty, but my brother-justice have I found so severe that he hath forced me to tell him he is indeed Justice. |
 | DUKE | If his own life answer the straitness of his proceeding, it shall become him [[motifs/well\|well]]; wherein if he chance to fail, he hath sentenced himself. |
 | [[characters/escalus\|ESCALUS]] | I am going to visit the prisoner. Fare you [[motifs/well\|well]]. |
-| DUKE | Peace be with you. Exit [[characters/escalus\|Escalus]]<br>He who the sword of heaven will bear<br>Should be as holy as severe,<br>Pattern in himself to know,<br>Grace to stand, and virtue go,<br>More nor less to others paying<br>Than by [[concepts/self\|self]]-offences weighing.<br>Shame to him whose cruel striking<br>Kills for faults of his own liking!<br>Twice treble shame on [[characters/angelo\|Angelo]],<br>To weed my vice, and let his grow!<br>O, what may man within him hide,<br>Though angel on the outward side!<br>How may likeness made in crimes<br>Make my practice on the times<br>To draw with idle spiders’ strings<br>Most ponderous and substantial things?<br>Craft against vice I must apply.<br>With [[characters/angelo\|Angelo]] tonight shall lie<br>His old betrothed but despised.<br>So disguise shall, by th’ disguised,<br>Pay with falsehood false exacting,<br>And perform an old contracting. |
+| DUKE | Peace be with you. Exit [[characters/escalus\|Escalus]]<br>He who the [[Sword\|sword]] of heaven will bear<br>Should be as holy as severe,<br>Pattern in himself to know,<br>Grace to stand, and virtue go,<br>More nor less to others paying<br>Than by [[concepts/self\|self]]-offences weighing.<br>Shame to him whose cruel striking<br>Kills for faults of his own liking!<br>Twice treble shame on [[characters/angelo\|Angelo]],<br>To weed my vice, and let his grow!<br>O, what may man within him hide,<br>Though angel on the outward side!<br>How may likeness made in crimes<br>Make my practice on the times<br>To draw with idle spiders’ strings<br>Most ponderous and substantial things?<br>Craft against vice I must apply.<br>With [[characters/angelo\|Angelo]] tonight shall lie<br>His old betrothed but despised.<br>So disguise shall, by th’ disguised,<br>Pay with falsehood false exacting,<br>And perform an old contracting. |
 | *(didascalia)* | Exit |
 
 
@@ -2534,7 +3780,7 @@ Measure for Measure
 | DUCA | Che, ora che siete venuto, ve ne andiate. Lasciatemi un poco con la fanciulla. Il mio animo promette, insieme col mio abito, che nessun danno le verrà dalla mia compagnia. |
 | PREVOSTO | In buon [[motifs/time\|tempo]]. Esce con [[characters/claudio\|Claudio]] |
 | DUCA | La mano che vi ha fatta bella vi ha fatta buona. La bontà che nella [[concepts/beauty\|bellezza]] costa poco rende la [[concepts/beauty\|bellezza]] breve nella bontà; ma la grazia, essendo l’[[motifs/soul\|anima]] del vostro aspetto, ne manterrà il [[concepts/body\|corpo]] sempre bello. L’assalto che [[characters/angelo\|Angelo]] vi ha portato, la sorte l’ha recato alla mia conoscenza; e se la fragilità non avesse esempi per la sua caduta, mi [[concepts/wonder\|stupirei]] di [[characters/angelo\|Angelo]]. Che farete per contentare questo sostituto e salvare vostro fratello? |
-| [[characters/isabella\|ISABELLA]] | Vado ora a dargli risposta. Preferisco che mio fratello muoia per la legge, piuttosto che mio figlio nasca fuori legge. Ma oh, quanto s’inganna il buon Duca intorno ad [[characters/angelo\|Angelo]]! Se mai ritorna e io posso parlargli, aprirò le mie labbra invano, o svelerò il suo governo. |
+| [[characters/isabella\|ISABELLA]] | Vado ora a dargli risposta. Preferisco che mio fratello muoia per la legge, piuttosto che mio figlio nasca fuori legge. Ma oh, quanto s’inganna il buon Duca intorno ad [[characters/angelo\|Angelo]]! Se mai ritorna e io posso parlargli, aprirò le mie labbra invano, o svelerò il suo [[government\|governo]]. |
 | DUCA | Non sarebbe cosa fuor di luogo. Eppure, come stanno ora le cose, egli schiverà la vostra accusa: dirà che vi metteva solo alla prova. Perciò porgete l’orecchio ai miei consigli. Per l’[[motifs/love\|amore]] ch’io ho di fare il bene, mi si presenta un rimedio. Mi persuado che voi possiate rettissimamente rendere a una povera dama offesa un beneficio meritato, riscattare vostro fratello dalla legge adirata, non recare macchia alla vostra graziosa persona, e piacere assai al Duca assente, se per caso mai tornasse a udire di questa faccenda. |
 | [[characters/isabella\|ISABELLA]] | Lasciate ch’io vi ascolti oltre. Ho animo di fare qualunque cosa non appaia turpe alla [[concepts/truth\|verità]] del mio spirito. |
 | DUCA | La virtù è ardita, e la bontà mai paurosa. Non avete udito parlare di [[characters/mariana\|Mariana]], la sorella di Federico, il grande soldato che perì in mare? |
@@ -2573,7 +3819,7 @@ Measure for Measure
 | [[characters/pompey\|POMPEO]] | Sì, in [[concepts/faith\|fede]], signore. |
 | [[characters/lucio\|LUCIO]] | Non c’è male, [[characters/pompey\|Pompeo]]. Addio. Va’; di’ che t’ho mandato io là. Per debiti, [[characters/pompey\|Pompeo]], o come? |
 | ELBOW | Per essere ruffiano, per essere ruffiano. |
-| [[characters/lucio\|LUCIO]] | [[motifs/well\|Bene]], allora imprigionatelo. Se la [[concepts/imprisonment\|prigionia]] è il dovuto d’un ruffiano, ebbene, gli spetta di diritto. Ruffiano lo è senza dubbio, e d’antichità pure—ruffiano nato. Addio, buon [[characters/pompey\|Pompeo]]. Raccomandami alla [[motifs/prison\|prigione]], [[characters/pompey\|Pompeo]]. Diventerai un buon massaio ora, [[characters/pompey\|Pompeo]]; starai in casa. |
+| [[characters/lucio\|LUCIO]] | [[motifs/well\|Bene]], allora imprigionatelo. Se la [[concepts/imprisonment\|prigionia]] è il dovuto d’un ruffiano, ebbene, gli spetta di diritto. Ruffiano lo è senza dubbio, e d’antichità pure—ruffiano nato. Addio, buon [[characters/pompey\|Pompeo]]. Raccomandami alla [[motifs/prison\|prigione]], [[characters/pompey\|Pompeo]]. Diventerai un buon massaio ora, [[characters/pompey\|Pompeo]]; starai in [[house\|casa]]. |
 | [[characters/pompey\|POMPEO]] | [[concepts/hope\|Spero]], signore, che vossignoria mi farà da garante? |
 | [[characters/lucio\|LUCIO]] | No, davvero, non lo farò, [[characters/pompey\|Pompeo]]; non è di moda. Pregherò, [[characters/pompey\|Pompeo]], che ti si accresca la prigionia. Se non la prendi con pazienza, ebbene, tanto più fegato hai. Addio, fido [[characters/pompey\|Pompeo]].—Dio vi benedica, frate. |
 | DUCA | E voi. |
@@ -2618,7 +3864,7 @@ Measure for Measure
 | DUCA | Oh, voi [[concepts/hope\|sperate]] che il Duca non ritorni più, o m’immaginate un avversario troppo innocuo. Ma in verità posso farvi poco male; voi lo negherete con giuramento. |
 | [[characters/lucio\|LUCIO]] | M’impicchino prima. T’inganni sul mio conto, frate. Ma basta di questo. Sai dirmi se [[characters/claudio\|Claudio]] muore domani o no? |
 | DUCA | Perché dovrebbe morire, signore? |
-| [[characters/lucio\|LUCIO]] | Perché? Per aver riempito una bottiglia con un imbuto. Vorrei che il Duca di cui parliamo fosse tornato; questo agente senza genitali spopolerà la provincia a forza di continenza. I passeri non devono nidificare sotto le sue grondaie di casa, perché sono lussuriosi. Il Duca almeno voleva che le opere buie fossero pagate al buio: non le avrebbe mai portate alla luce. Fosse tornato. Perbacco, questo [[characters/claudio\|Claudio]] è condannato per essersi slacciato le brache. Addio, buon frate. Ti prego, prega per me. Il Duca, te lo ripeto, mangerebbe montone di venerdì. Non ne è ancora passato, e, te lo dico, bacerebbe in bocca una mendicante, anche se puzzasse di pan nero e d’aglio. Di’ pure che l’ho detto io. Addio. Esce |
+| [[characters/lucio\|LUCIO]] | Perché? Per aver riempito una bottiglia con un imbuto. Vorrei che il Duca di cui parliamo fosse tornato; questo agente senza genitali spopolerà la provincia a forza di continenza. I passeri non devono nidificare sotto le sue grondaie di [[house\|casa]], perché sono lussuriosi. Il Duca almeno voleva che le opere buie fossero pagate al buio: non le avrebbe mai portate alla luce. Fosse tornato. Perbacco, questo [[characters/claudio\|Claudio]] è condannato per essersi slacciato le brache. Addio, buon frate. Ti prego, prega per me. Il Duca, te lo ripeto, mangerebbe montone di venerdì. Non ne è ancora passato, e, te lo dico, bacerebbe in bocca una mendicante, anche se puzzasse di pan nero e d’aglio. Di’ pure che l’ho detto io. Addio. Esce |
 | DUCA | Né potenza né [[concepts/greatness\|grandezza]] nella [[concepts/mortality\|mortalità]]<br>può sfuggire al biasimo; la calunnia che ferisce alle spalle<br>colpisce la virtù più candida. Quale [[archetypes/king\|re]] è tanto forte<br>da legare il fiele nella lingua calunniatrice? |
 | *(didascalia)* | Entrano [[characters/escalus\|Escalo]], il Prevosto e Mistress Overdone |
 | DUCA | Ma chi viene qui? |
@@ -2642,7 +3888,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALO]] | Avete pagato ai cieli il vostro ufficio, e al prigioniero il debito stesso della vostra vocazione. Io mi sono adoperato per il povero gentiluomo fino all’estrema riva del mio ritegno, ma il mio fratello-giustizia l’ho trovato così severo che m’ha costretto a dirgli ch’egli è invero la Giustizia. |
 | DUCA | Se la sua stessa vita risponde al rigore del suo procedere, gli starà [[motifs/well\|bene]]; e se in ciò gli avvenga di mancare, s’è condannato da sé. |
 | [[characters/escalus\|ESCALO]] | Vado a visitare il prigioniero. State [[motifs/well\|bene]]. |
-| DUCA | La pace sia con voi. Esce [[characters/escalus\|Escalo]]<br>Chi la spada del cielo vorrà portare<br>santo dev’essere quanto severo,<br>modello in sé per conoscere,<br>grazia per stare, e virtù per andare,<br>né più né meno agli altri pagando<br>di quanto pesano le colpe di [[concepts/self\|sé]].<br>Vergogna a colui che col crudele colpire<br>uccide per colpe di suo gradire!<br>Due volte tripla vergogna su [[characters/angelo\|Angelo]],<br>che sarchia il mio vizio e lascia crescere il suo!<br>Oh, che può l’uomo nascondere in sé,<br>pur angelo dalla parte di fuori!<br>Come può la somiglianza fatta di delitti<br>far sì che il mio artificio sui tempi<br>tragga con oziosi fili di ragno<br>le cose più ponderose e sostanziali?<br>Astuzia contro vizio devo applicare.<br>Con [[characters/angelo\|Angelo]] stanotte giacerà<br>la sua antica promessa ma disprezzata.<br>Così il travestimento, per mezzo della travestita,<br>pagherà con falsità la falsa esazione,<br>e compirà un vecchio contratto. |
+| DUCA | La pace sia con voi. Esce [[characters/escalus\|Escalo]]<br>Chi la [[Sword\|spada]] del cielo vorrà portare<br>santo dev’essere quanto severo,<br>modello in sé per conoscere,<br>grazia per stare, e virtù per andare,<br>né più né meno agli altri pagando<br>di quanto pesano le colpe di [[concepts/self\|sé]].<br>Vergogna a colui che col crudele colpire<br>uccide per colpe di suo gradire!<br>Due volte tripla vergogna su [[characters/angelo\|Angelo]],<br>che sarchia il mio vizio e lascia crescere il suo!<br>Oh, che può l’uomo nascondere in sé,<br>pur angelo dalla parte di fuori!<br>Come può la somiglianza fatta di delitti<br>far sì che il mio artificio sui tempi<br>tragga con oziosi fili di ragno<br>le cose più ponderose e sostanziali?<br>Astuzia contro vizio devo applicare.<br>Con [[characters/angelo\|Angelo]] stanotte giacerà<br>la sua antica promessa ma disprezzata.<br>Così il travestimento, per mezzo della travestita,<br>pagherà con falsità la falsa esazione,<br>e compirà un vecchio contratto. |
 | *(didascalia)* | Esce |
 
 
@@ -2655,7 +3901,7 @@ Measure for Measure
 | *(didascalia)* | [[characters/mariana\|Mariana]] discoveredwith a Boy singing |
 | BOY | Take, O take those lips away<br>That so sweetly were forsworn,<br>And those eyes, the break of day<br>Lights that do mislead the morn;<br>But my kisses bring again, bring again,<br>Seals of [[motifs/love\|love]], though sealed in vain, sealed in vain. |
 | *(didascalia)* | Enter the Duke, disguised as a friar |
-| [[characters/mariana\|MARIANA]] | Break off thy song, and haste thee quick away.<br>Here comes a man of comfort, whose advice<br>Hath often stilled my brawling discontent. Exit Boy<br>I cry you [[concepts/mercy\|mercy]], sir, and [[motifs/well\|well]] could wish io<br>You had not found me here so musical.<br>Let me excuse me, and believe me so:<br>My mirth it much displeased, but pleased my woe. |
+| [[characters/mariana\|MARIANA]] | Break off thy [[Song\|song]], and haste thee quick away.<br>Here comes a man of comfort, whose advice<br>Hath often stilled my brawling discontent. Exit Boy<br>I cry you [[concepts/mercy\|mercy]], sir, and [[motifs/well\|well]] could wish io<br>You had not found me here so musical.<br>Let me excuse me, and believe me so:<br>My mirth it much displeased, but pleased my woe. |
 | DUKE | ’Tis good; though music oft hath such a charm<br>To make bad good, and good provoke to harm.<br>I pray you tell me, hath anybody enquired for me here<br>today? Much upon this [[motifs/time\|time]] have I promised here to<br>meet. |
 | [[characters/mariana\|MARIANA]] | You have not been enquired after; I have sat here all day. |
 | *(didascalia)* | Enter |
@@ -2668,7 +3914,7 @@ Measure for Measure
 | DUKE | But shall you on your knowledge find this way? |
 | [[characters/isabella\|ISABELLA]] | I have ta‘en a due and wary note upon’t.<br>With whispering and most guilty diligence,<br>In action all of precept, he did show me<br>The way twice o’er. |
 | DUKE | Are there no other tokens<br>Between you ’[[concepts/greed\|greed]] concerning her observance? |
-| [[characters/isabella\|ISABELLA]] | No, none, but only a repair i’th’ dark,<br>And that I have possessed him my most stay<br>Can be but brief, for I have made him know<br>I have a servant comes with me along<br>That stays upon me, whose persuasion is<br>I come about my brother. |
+| [[characters/isabella\|ISABELLA]] | No, none, but only a repair i’th’ dark,<br>And that I have possessed him my most stay<br>Can be but brief, for I have made him know<br>I have a servant comes with me along<br>That stays upon me, whose [[Persuasion\|persuasion]] is<br>I come about my brother. |
 | DUKE | ’Tis [[motifs/well\|well]] borne up.<br>I have not yet made known to [[characters/mariana\|Mariana]]<br>A word of this.—What ho, within! Come forth! |
 | *(didascalia)* | Enter [[characters/mariana\|Mariana]] |
 | DUKE | (To [[characters/mariana\|Mariana]]) I pray you be acquainted with this maid.<br>She comes to do you good. |
@@ -2697,7 +3943,7 @@ Measure for Measure
 | *(didascalia)* | Si scopre [[characters/mariana\|Mariana]] con un Fanciullo che canta |
 | FANCIULLO | Toglimi, oh toglimi quelle labbra<br>che così dolcemente spergiurarono,<br>e quegli occhi, luci del rompere del giorno<br>che sviano il mattino;<br>ma i miei baci rendimi, rendimi,<br>sigilli d’[[motifs/love\|amore]], benché sigillati invano, sigillati invano. |
 | *(didascalia)* | Entra il Duca, travestito da frate |
-| [[characters/mariana\|MARIANA]] | Tronca il tuo canto, e affrettati via di qui.<br>Ecco viene un uomo di conforto, il cui consiglio<br>ha spesso acquietato il mio querulo scontento. Esce il Fanciullo<br>Vi chiedo [[concepts/mercy\|perdono]], signore, e [[motifs/well\|ben]] vorrei io<br>che non m’aveste trovata qui così in musica.<br>Lasciate ch’io mi scusi, e credetemi così:<br>la mia allegria molto mi dispiacque, ma piacque al mio dolore. |
+| [[characters/mariana\|MARIANA]] | Tronca il tuo [[Song\|canto]], e affrettati via di qui.<br>Ecco viene un uomo di conforto, il cui consiglio<br>ha spesso acquietato il mio querulo scontento. Esce il Fanciullo<br>Vi chiedo [[concepts/mercy\|perdono]], signore, e [[motifs/well\|ben]] vorrei io<br>che non m’aveste trovata qui così in musica.<br>Lasciate ch’io mi scusi, e credetemi così:<br>la mia allegria molto mi dispiacque, ma piacque al mio dolore. |
 | DUCA | Sta bene; benché la musica abbia spesso tale incanto<br>da far buono il cattivo, e provocare il buono al danno.<br>Vi prego, ditemi: qualcuno ha chiesto di me qui<br>oggi? Proprio a quest’[[motifs/time\|ora]] avevo promesso qui<br>d’incontrarmi. |
 | [[characters/mariana\|MARIANA]] | Nessuno ha chiesto di voi; sono stata seduta qui tutto il giorno. |
 | *(didascalia)* | Entra |
@@ -2710,7 +3956,7 @@ Measure for Measure
 | DUCA | Ma saprete voi con sicurezza trovare questa via? |
 | [[characters/isabella\|ISABELLA]] | Ne ho preso debita e guardinga nota.<br>Con sussurri e diligenza colpevolissima,<br>tutto in atto di precetto, egli mi mostrò<br>due volte la strada. |
 | DUCA | Non ci sono altri segni<br>[[concepts/greed\|convenuti]] fra voi circa il modo di comportarsi di lei? |
-| [[characters/isabella\|ISABELLA]] | No, nessuno, se non solo un venire al buio,<br>e che l’ho ben persuaso che la mia sosta<br>non può essere che breve, ché gli ho fatto sapere<br>ch’io ho un servo che viene con me<br>e mi aspetta, la cui persuasione è<br>che io venga per mio fratello. |
+| [[characters/isabella\|ISABELLA]] | No, nessuno, se non solo un venire al buio,<br>e che l’ho ben persuaso che la mia sosta<br>non può essere che breve, ché gli ho fatto sapere<br>ch’io ho un servo che viene con me<br>e mi aspetta, la cui [[Persuasion\|persuasione]] è<br>che io venga per mio fratello. |
 | DUCA | È [[motifs/well\|ben]] condotta.<br>Non ho ancora fatto sapere a [[characters/mariana\|Mariana]]<br>una parola di questo.—Ehi là, dentro! Venite fuori! |
 | *(didascalia)* | Entra [[characters/mariana\|Mariana]] |
 | DUCA | (a [[characters/mariana\|Mariana]]) Vi prego, fate conoscenza con questa fanciulla.<br>Viene a farvi del bene. |
@@ -2807,7 +4053,7 @@ Measure for Measure
 | DUKE | What is that Barnardine, who is to be executed in th’afternoon? |
 | PROVOST | A Bohemian born, but here nursed up and bred; one that is a prisoner nine years old. |
 | DUKE | How came it that the absent Duke had not either delivered him to his liberty or executed him? I have heard it was ever his manner to do so. |
-| PROVOST | His friends still wrought reprieves for him; and indeed his fact, till now in the government of Lord [[characters/angelo\|Angelo]], came not to an undoubtful proof. |
+| PROVOST | His friends still wrought reprieves for him; and indeed his fact, till now in the [[government]] of Lord [[characters/angelo\|Angelo]], came not to an undoubtful proof. |
 | DUKE | It is now apparent? |
 | PROVOST | Most manifest, and not denied by himself. |
 | DUKE | Hath he borne himself penitently in [[motifs/prison\|prison]]? How seems he to be touched? |
@@ -2826,7 +4072,7 @@ Measure for Measure
 | PROVOST | To him and to his substitutes. |
 | DUKE | You will think you have made no offence if the Duke avouch the justice of your dealing? |
 | PROVOST | But what likelihood is in that? |
-| DUKE | Not a resemblance, but a certainty. Yet since I see you fearful, that neither my coat, integrity, nor persuasion can with ease attempt you, I will go further than I meant, to pluck all fears out of you. (Showing a letter) Look you, sir, here is the hand and seal of the Duke. You know the character, I [[concepts/doubt\|doubt]] not, and the signet is not strange to you? |
+| DUKE | Not a resemblance, but a certainty. Yet since I see you fearful, that neither my coat, integrity, nor [[Persuasion\|persuasion]] can with ease attempt you, I will go further than I meant, to pluck all fears out of you. (Showing a letter) Look you, sir, here is the hand and seal of the Duke. You know the character, I [[concepts/doubt\|doubt]] not, and the signet is not strange to you? |
 | PROVOST | I know them both. |
 | DUKE | The contents of this is the return of the Duke. You shall anon over-read it at your pleasure, where you shall find within these two days he will be here. This is a thing that [[characters/angelo\|Angelo]] knows not, for he this very day receives letters of strange tenor, perchance of the Duke’s [[motifs/death\|death]], perchance entering into some monastery; but by chance nothing of what is writ. Look, th’unfolding star calls up the shepherd. Put not yourself into amazement how these things should be. All difficulties are but easy when they are known. Call your executioner, and off with Barnardine’s head. I will give him a present shrift, and advise him for a better place. Yet you are amazed; but this shall absolutely resolve you. Come away, it is almost clear [[motifs/dawn\|dawn]]. |
 | *(didascalia)* | Exeunt |
@@ -2905,7 +4151,7 @@ Measure for Measure
 | DUCA | Chi è quel Barnardine, che dev’essere giustiziato nel pomeriggio? |
 | PREVOSTO | Un boemo di nascita, ma qui allevato e cresciuto; uno che è prigioniero da nove anni. |
 | DUCA | Come mai il Duca assente non l’ha né rimesso in libertà né giustiziato? Ho sentito che era sempre suo costume fare così. |
-| PREVOSTO | I suoi amici gli hanno sempre procurato rinvii; e in verità il suo fatto, fino ad ora sotto il governo del signor [[characters/angelo\|Angelo]], non era giunto a prova indubitabile. |
+| PREVOSTO | I suoi amici gli hanno sempre procurato rinvii; e in verità il suo fatto, fino ad ora sotto il [[government\|governo]] del signor [[characters/angelo\|Angelo]], non era giunto a prova indubitabile. |
 | DUCA | Ora è manifesto? |
 | PREVOSTO | Manifestissimo, e non negato da lui stesso. |
 | DUCA | S’è comportato con pentimento in [[motifs/prison\|prigione]]? Come pare toccato? |
@@ -2924,7 +4170,7 @@ Measure for Measure
 | PREVOSTO | A lui e ai suoi sostituti. |
 | DUCA | Penserete di non aver commesso offesa, se il Duca garantisce la giustizia del vostro operato? |
 | PREVOSTO | Ma che probabilità c’è in questo? |
-| DUCA | Non una somiglianza, ma una certezza. Pure, poiché vi vedo timoroso, e né la mia veste, né l’integrità, né la persuasione possono facilmente muovervi, andrò più oltre di quanto intendessi, per strapparvi ogni timore. (Mostrando una lettera) Guardate, signore, ecco la mano e il sigillo del Duca. Conoscete la scrittura, non ne [[concepts/doubt\|dubito]], e il sigillo non vi è estraneo? |
+| DUCA | Non una somiglianza, ma una certezza. Pure, poiché vi vedo timoroso, e né la mia veste, né l’integrità, né la [[Persuasion\|persuasione]] possono facilmente muovervi, andrò più oltre di quanto intendessi, per strapparvi ogni timore. (Mostrando una lettera) Guardate, signore, ecco la mano e il sigillo del Duca. Conoscete la scrittura, non ne [[concepts/doubt\|dubito]], e il sigillo non vi è estraneo? |
 | PREVOSTO | Li conosco entrambi. |
 | DUCA | Il contenuto di questa è il ritorno del Duca. La leggerete fra poco a vostro piacere, e vi troverete che entro questi due giorni egli sarà qui. Questa è cosa che [[characters/angelo\|Angelo]] non sa, ché egli proprio oggi riceve lettere di strano tenore, forse della [[motifs/death\|morte]] del Duca, forse del suo entrare in qualche monastero; ma per caso nulla di ciò che è scritto. Guardate, la stella che dischiude chiama su il pastore. Non gettatevi nello stupore su come queste cose possano essere. Tutte le difficoltà sono facili quando sono note. Chiamate il vostro boia, e via la testa di Barnardine. Gli darò subito confessione, e lo consiglierò per un luogo migliore. Ancora siete stupito; ma questo vi risolverà del tutto. Venite via, è quasi chiara l’[[motifs/dawn\|alba]]. |
 | *(didascalia)* | Escono |
@@ -2937,7 +4183,7 @@ Measure for Measure
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[characters/pompey\|Pompey]] |
-| [[characters/pompey\|POMPEY]] | I am as [[motifs/well\|well]] acquainted here as I was in our house of profession. One would think it were Mistress Overdone’s own house, for here be many of her old customers. First, here’s young Master Rash; he’s in for a commodity of brown paper and old ginger, nine score and seventeen pounds, of which he made five marks ready money. Marry, then ginger was not much in request, for the old women were all dead. Then is there here one Master Caper, at the suit of Master Threepile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar. Then have we here young Dizzy, and young Master Deepvow, and Master Copperspur and Master Starve-lackey the rapier and dagger man, and young Drop-hair that killed lusty Pudding, and Master Forthright the tilter, and brave Master Shoe-tie the great traveller, and wild Half-can that stabbed Pots, and I think forty more, all great doers in our trade, and are now ‘for the Lord’s sake’. Enter Abhorson |
+| [[characters/pompey\|POMPEY]] | I am as [[motifs/well\|well]] acquainted here as I was in our [[house]] of profession. One would think it were Mistress Overdone’s own [[house]], for here be many of her old customers. First, here’s young Master Rash; he’s in for a commodity of brown paper and old ginger, nine score and seventeen pounds, of which he made five marks ready money. Marry, then ginger was not much in request, for the old women were all dead. Then is there here one Master Caper, at the suit of Master Threepile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar. Then have we here young Dizzy, and young Master Deepvow, and Master Copperspur and Master Starve-lackey the rapier and dagger man, and young Drop-hair that killed lusty Pudding, and Master Forthright the tilter, and brave Master Shoe-tie the great traveller, and wild Half-can that stabbed Pots, and I think forty more, all great doers in our trade, and are now ‘for the Lord’s sake’. Enter Abhorson |
 | ABHORSON | Sirrah, bring Barnardine hither. 19 |
 | [[characters/pompey\|POMPEY]] | Master Barnardine! You must rise and be hanged, Master Barnardine! |
 | ABHORSON | What ho, Barnardine! |
@@ -2959,7 +4205,7 @@ Measure for Measure
 | DUKE | (to Barnardine) Sir, induced by my [[concepts/charity\|charity]], and hearing how hastily you are to depart, I am come to advise you, comfort you, and pray with you. |
 | BARNARDINE | Friar, not I. I have been drinking hard all [[motifs/night\|night]], and I will have more [[motifs/time\|time]] to prepare me, or they shall beat out my brains with billets. I will not consent to die this day, that’s certain. |
 | DUKE | O sir, you must; and therefore, I beseech you,<br>Look forward on the [[motifs/journey\|journey]] you shall go. |
-| BARNARDINE | I swear I will not die today, for any man’s persuasion. |
+| BARNARDINE | I swear I will not die today, for any man’s [[Persuasion\|persuasion]]. |
 | DUKE | But hear you— |
 | BARNARDINE | Not a word. If you have anything to say to me, come to my ward, for thence will not I today. |
 | *(didascalia)* | Exit |
@@ -2996,7 +4242,7 @@ Measure for Measure
 | [[characters/isabella\|ISABELLA]] | (weeping)<br>Unhappy [[characters/claudio\|Claudio]]! Wretched Isabel!<br>Injurious world! Most damned [[characters/angelo\|Angelo]]! |
 | DUKE | This nor hurts him, nor profits you a jot.<br>Forbear it, therefore; give your cause to heaven.<br>Mark what I say, which you shall find<br>By every syllable a faithful verity.<br>The Duke comes [[motifs/home\|home]] tomorrow—nay, dry your<br>eyes—<br>One of our convent, and his confessor,<br>Gives me this instance. Already he hath carried<br>Notice to [[characters/escalus\|Escalus]] and [[characters/angelo\|Angelo]],<br>Who do prepare to meet him at the gates,<br>There to give up their power. If you can pace your<br>wisdom<br>In that good path that I would wish it go,<br>And you shall have your bosom on this wretch,<br>Grace of the Duke, revenges to your heart,<br>And general [[concepts/honour\|honour]]. |
 | [[characters/isabella\|ISABELLA]] | I am directed by you. |
-| DUKE | This letter, then, to Friar Peter give.<br>’Tis that he sent me of the Duke’s return.<br>Say by this token I [[motifs/desire\|desire]] his company<br>At [[characters/mariana\|Mariana]]’s house tonight. Her cause and yours<br>I’ll perfect him withal, and he shall bring you<br>Before the Duke, and to the head of [[characters/angelo\|Angelo]]<br>Accuse him [[motifs/home\|home]] and [[motifs/home\|home]]. For my poor [[concepts/self\|self]],<br>I am combined by a sacred vow,<br>And shall be absent. (Giving the letter) Wend you with<br>this letter.<br>Command these fretting waters from your eyes<br>With a light heart. Trust not my holy order<br>If I pervert your course. |
+| DUKE | This letter, then, to Friar Peter give.<br>’Tis that he sent me of the Duke’s return.<br>Say by this token I [[motifs/desire\|desire]] his company<br>At [[characters/mariana\|Mariana]]’s [[house]] tonight. Her cause and yours<br>I’ll perfect him withal, and he shall bring you<br>Before the Duke, and to the head of [[characters/angelo\|Angelo]]<br>Accuse him [[motifs/home\|home]] and [[motifs/home\|home]]. For my poor [[concepts/self\|self]],<br>I am combined by a sacred vow,<br>And shall be absent. (Giving the letter) Wend you with<br>this letter.<br>Command these fretting waters from your eyes<br>With a light heart. Trust not my holy order<br>If I pervert your course. |
 | *(didascalia)* | Enter [[characters/lucio\|Lucio]] |
 | DUKE | Who’s here? |
 | [[characters/lucio\|LUCIO]] | Good even.<br>Friar, where’s the Provost? |
@@ -3020,7 +4266,7 @@ Measure for Measure
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra [[characters/pompey\|Pompeo]] |
-| [[characters/pompey\|POMPEO]] | Sono qui altrettanto [[motifs/well\|ben]] conosciuto quanto lo ero nella nostra casa di professione. Uno penserebbe che questa sia la casa stessa di Mistress Overdone, ché qui ci sono molti dei suoi vecchi clienti. Primo, ecco il giovane messer Rash; è dentro per una partita di carta straccia e zenzero vecchio, centonovantasette sterline, delle quali fece cinque marchi in contanti. Perbacco, allora lo zenzero non era molto richiesto, ché le vecchie erano tutte morte. Poi c’è qui un messer Caper, per la causa di messer Threepile il merciaio, per quattro abiti di raso color pesca, che ora lo pescano pezzente. Poi abbiamo qui il giovane Dizzy, e il giovane messer Deepvow, e messer Copperspur e messer Starve-lackey l’uomo di stocco e pugnale, e il giovane Drop-hair che ammazzò il gagliardo Pudding, e messer Forthright il giostratore, e il bravo messer Shoe-tie il gran viaggiatore, e il selvatico Half-can che pugnalò Pots, e credo altri quaranta, tutti grandi lavoratori nel nostro mestiere, e ora stanno a chiedere ‘per amor del Signore’. Entra Abhorson |
+| [[characters/pompey\|POMPEO]] | Sono qui altrettanto [[motifs/well\|ben]] conosciuto quanto lo ero nella nostra [[house\|casa]] di professione. Uno penserebbe che questa sia la [[house\|casa]] stessa di Mistress Overdone, ché qui ci sono molti dei suoi vecchi clienti. Primo, ecco il giovane messer Rash; è dentro per una partita di carta straccia e zenzero vecchio, centonovantasette sterline, delle quali fece cinque marchi in contanti. Perbacco, allora lo zenzero non era molto richiesto, ché le vecchie erano tutte morte. Poi c’è qui un messer Caper, per la causa di messer Threepile il merciaio, per quattro abiti di raso color pesca, che ora lo pescano pezzente. Poi abbiamo qui il giovane Dizzy, e il giovane messer Deepvow, e messer Copperspur e messer Starve-lackey l’uomo di stocco e pugnale, e il giovane Drop-hair che ammazzò il gagliardo Pudding, e messer Forthright il giostratore, e il bravo messer Shoe-tie il gran viaggiatore, e il selvatico Half-can che pugnalò Pots, e credo altri quaranta, tutti grandi lavoratori nel nostro mestiere, e ora stanno a chiedere ‘per amor del Signore’. Entra Abhorson |
 | ABHORSON | Messere, porta qua Barnardine. 19 |
 | [[characters/pompey\|POMPEO]] | Messer Barnardine! Dovete alzarvi ed essere impiccato, messer Barnardine! |
 | ABHORSON | Ehi là, Barnardine! |
@@ -3042,7 +4288,7 @@ Measure for Measure
 | DUCA | (a Barnardine) Signore, indotto dalla mia [[concepts/charity\|carità]], e udendo con quanta fretta dovete partire, sono venuto a consigliarvi, confortarvi e pregare con voi. |
 | BARNARDINE | Frate, io no. Ho bevuto forte tutta la [[motifs/night\|notte]], e voglio più [[motifs/time\|tempo]] per prepararmi, o mi facciano schizzare le cervella a randellate. Non acconsentirò a morire oggi, questo è certo. |
 | DUCA | Oh signore, dovete; e perciò, vi supplico,<br>guardate avanti al [[motifs/journey\|viaggio]] che dovrete fare. |
-| BARNARDINE | Giuro che non morirò oggi, per la persuasione di nessun uomo. |
+| BARNARDINE | Giuro che non morirò oggi, per la [[Persuasion\|persuasione]] di nessun uomo. |
 | DUCA | Ma ascoltate— |
 | BARNARDINE | Non una parola. Se avete qualcosa da dirmi, venite nella mia cella, ché di là oggi non mi muovo. |
 | *(didascalia)* | Esce |
@@ -3079,7 +4325,7 @@ Measure for Measure
 | [[characters/isabella\|ISABELLA]] | (piangendo)<br>Infelice [[characters/claudio\|Claudio]]! Misera Isabel!<br>Mondo ingiurioso! Dannatissimo [[characters/angelo\|Angelo]]! |
 | DUCA | Questo non gli giova né vi profitta d’un briciolo.<br>Astenetevene, dunque; date la vostra causa al cielo.<br>Notate ciò che dico, e troverete<br>in ogni sillaba una fedele verità.<br>Il Duca torna a [[motifs/home\|casa]] domani—no, asciugate i vostri<br>occhi—<br>uno del nostro convento, e suo confessore,<br>me ne dà notizia. Già ha portato<br>l’avviso a [[characters/escalus\|Escalo]] e ad [[characters/angelo\|Angelo]],<br>che si preparano a incontrarlo alle porte,<br>per rendergli là il loro potere. Se saprete misurare la vostra<br>saggezza<br>su quel buon sentiero per cui vorrei che andasse,<br>avrete il vostro sfogo su questo miserabile,<br>la grazia del Duca, vendette a vostro cuore,<br>e [[concepts/honour\|onore]] generale. |
 | [[characters/isabella\|ISABELLA]] | Mi lascio guidare da voi. |
-| DUCA | Questa lettera, dunque, datela a frate Pietro.<br>È quella che mi mandò del ritorno del Duca.<br>Ditegli che con questo segno [[motifs/desire\|desidero]] la sua compagnia<br>in casa di [[characters/mariana\|Mariana]] stanotte. La sua causa e la vostra<br>gliele farò conoscere appieno, ed egli vi condurrà<br>davanti al Duca, e in faccia ad [[characters/angelo\|Angelo]]<br>lo accuserà a [[motifs/home\|fondo]] e a [[motifs/home\|fondo]]. Quanto al mio povero [[concepts/self\|io]],<br>sono legato da un voto sacro,<br>e sarò assente. (Dandole la lettera) Andate con<br>questa lettera.<br>Comandate a queste acque roditrici dei vostri occhi<br>con cuore leggero. Non fidatevi del mio santo ordine<br>se travio il vostro cammino. |
+| DUCA | Questa lettera, dunque, datela a frate Pietro.<br>È quella che mi mandò del ritorno del Duca.<br>Ditegli che con questo segno [[motifs/desire\|desidero]] la sua compagnia<br>in [[house\|casa]] di [[characters/mariana\|Mariana]] stanotte. La sua causa e la vostra<br>gliele farò conoscere appieno, ed egli vi condurrà<br>davanti al Duca, e in faccia ad [[characters/angelo\|Angelo]]<br>lo accuserà a [[motifs/home\|fondo]] e a [[motifs/home\|fondo]]. Quanto al mio povero [[concepts/self\|io]],<br>sono legato da un voto sacro,<br>e sarò assente. (Dandole la lettera) Andate con<br>questa lettera.<br>Comandate a queste acque roditrici dei vostri occhi<br>con cuore leggero. Non fidatevi del mio santo ordine<br>se travio il vostro cammino. |
 | *(didascalia)* | Entra [[characters/lucio\|Lucio]] |
 | DUCA | Chi c’è qui? |
 | [[characters/lucio\|LUCIO]] | Buona sera.<br>Frate, dov’è il Prevosto? |
@@ -3110,7 +4356,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALUS]] | I guess not. |
 | [[characters/angelo\|ANGELO]] | And why should we proclaim it in an hour before his entering, that if any crave redress of injustice, they should exhibit their petitions in the street? |
 | [[characters/escalus\|ESCALUS]] | He shows his reason for that—to have a dispatch of complaints, and to deliver us from devices hereafter, which shall then have no power to stand against us. |
-| [[characters/angelo\|ANGELO]] | [[motifs/well\|Well]], I beseech you let it be proclaimed.<br>Betimes i’th’ morn I’ll call you at your house.<br>Give notice to such men of sort and suit<br>As are to meet him. |
+| [[characters/angelo\|ANGELO]] | [[motifs/well\|Well]], I beseech you let it be proclaimed.<br>Betimes i’th’ morn I’ll call you at your [[house]].<br>Give notice to such men of sort and suit<br>As are to meet him. |
 | [[characters/escalus\|ESCALUS]] | I shall, sir. Fare you [[motifs/well\|well]]. |
 | [[characters/angelo\|ANGELO]] | Good [[motifs/night\|night]]. |
 | *(didascalia)* | Exit [[characters/escalus\|Escalus]] |
@@ -3127,7 +4373,7 @@ Measure for Measure
 | [[characters/escalus\|ESCALO]] | Non lo indovino. |
 | [[characters/angelo\|ANGELO]] | E perché dovremmo proclamare, un’ora prima del suo ingresso, che se qualcuno chiede riparazione d’ingiustizia esibisca la sua petizione per strada? |
 | [[characters/escalus\|ESCALO]] | Ne mostra la ragione: per avere uno sbrigo delle lagnanze, e per liberarci dagli intrighi futuri, che allora non avranno più forza di reggere contro di noi. |
-| [[characters/angelo\|ANGELO]] | [[motifs/well\|Bene]], vi supplico, si faccia proclamare.<br>Di buon’ora al mattino vi chiamerò alla vostra casa.<br>Date avviso a quegli uomini di rango e di seguito<br>che devono incontrarlo. |
+| [[characters/angelo\|ANGELO]] | [[motifs/well\|Bene]], vi supplico, si faccia proclamare.<br>Di buon’ora al mattino vi chiamerò alla vostra [[house\|casa]].<br>Date avviso a quegli uomini di rango e di seguito<br>che devono incontrarlo. |
 | [[characters/escalus\|ESCALO]] | Lo farò, signore. State [[motifs/well\|bene]]. |
 | [[characters/angelo\|ANGELO]] | Buona [[motifs/night\|notte]]. |
 | *(didascalia)* | Esce [[characters/escalus\|Escalo]] |
@@ -3141,7 +4387,7 @@ Measure for Measure
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter the Duke, in his own habit, and Friar Peter |
-| DUKE | These letters at fit [[motifs/time\|time]] deliver me.<br>The Provost knows our purpose and our plot.<br>The matter being afoot, keep your instruction,<br>And hold you ever to our special drift,<br>Though sometimes you do blench from this to that<br>As cause doth minister. Go call at Flavio’s house,<br>And tell him where I stay. Give the like notice<br>To Valentinus, Rowland, and to Crassus,<br>And bid them bring the trumpets to the gate.<br>But send me [[characters/flavius\|Flavius]] first. |
+| DUKE | These letters at fit [[motifs/time\|time]] deliver me.<br>The Provost knows our purpose and our plot.<br>The matter being afoot, keep your instruction,<br>And hold you ever to our special drift,<br>Though sometimes you do blench from this to that<br>As cause doth minister. Go call at Flavio’s [[house]],<br>And tell him where I stay. Give the like notice<br>To Valentinus, Rowland, and to Crassus,<br>And bid them bring the trumpets to the gate.<br>But send me [[characters/flavius\|Flavius]] first. |
 | FRIAR | It shall be speeded [[motifs/well\|well]]. |
 | *(didascalia)* | Exit |
 | *(didascalia)* | Enter Varrius |
@@ -3154,7 +4400,7 @@ Measure for Measure
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano il Duca, nel suo proprio abito, e frate Pietro |
-| DUCA | Queste lettere consegnatemele al [[motifs/time\|tempo]] opportuno.<br>Il Prevosto conosce il nostro proposito e il nostro disegno.<br>Essendo la cosa avviata, tenetevi alla vostra istruzione,<br>e attenetevi sempre alla nostra mira particolare,<br>benché talvolta scartiate da questo a quello<br>secondo che la causa lo richieda. Andate a chiamare alla casa di Flavio,<br>e ditegli dove mi trattengo. Date lo stesso avviso<br>a Valentino, a Rowland e a Crasso,<br>e ordinate loro di portare le trombe alla porta.<br>Ma mandatemi prima [[characters/flavius\|Flavio]]. |
+| DUCA | Queste lettere consegnatemele al [[motifs/time\|tempo]] opportuno.<br>Il Prevosto conosce il nostro proposito e il nostro disegno.<br>Essendo la cosa avviata, tenetevi alla vostra istruzione,<br>e attenetevi sempre alla nostra mira particolare,<br>benché talvolta scartiate da questo a quello<br>secondo che la causa lo richieda. Andate a chiamare alla [[house\|casa]] di Flavio,<br>e ditegli dove mi trattengo. Date lo stesso avviso<br>a Valentino, a Rowland e a Crasso,<br>e ordinate loro di portare le trombe alla porta.<br>Ma mandatemi prima [[characters/flavius\|Flavio]]. |
 | FRATE | Sarà spedito [[motifs/well\|bene]]. |
 | *(didascalia)* | Esce |
 | *(didascalia)* | Entra Varrio |
@@ -3284,14 +4530,14 @@ Measure for Measure
 | DUKE | No? You say your husband. |
 | [[characters/mariana\|MARIANA]] | Why just, my lord, and that is [[characters/angelo\|Angelo]],<br>Who thinks he knows that he ne’er knew my [[concepts/body\|body]],<br>But knows, he thinks, that he knows Isabel’s. |
 | [[characters/angelo\|ANGELO]] | This is a strange abuse. Let’s see thy face. |
-| [[characters/mariana\|MARIANA]] | (unveiling)<br>My husband bids me; now I will unmask.<br>This is that face, thou cruel [[characters/angelo\|Angelo]],<br>Which once thou swor’st was worth the looking on.<br>This is the hand which, with a vowed contract,<br>Was fast belocked in thine. This is the [[concepts/body\|body]]<br>That took away the match from Isabel,<br>And did supply thee at thy [[motifs/garden\|garden]]-house<br>In her imagined person. |
+| [[characters/mariana\|MARIANA]] | (unveiling)<br>My husband bids me; now I will unmask.<br>This is that face, thou cruel [[characters/angelo\|Angelo]],<br>Which once thou swor’st was worth the looking on.<br>This is the hand which, with a vowed contract,<br>Was fast belocked in thine. This is the [[concepts/body\|body]]<br>That took away the match from Isabel,<br>And did supply thee at thy [[motifs/garden\|garden]]-[[house]]<br>In her imagined person. |
 | DUKE | (to [[characters/angelo\|Angelo]]) Know you this woman? |
 | [[characters/lucio\|LUCIO]] | Carnally, she says. |
 | DUKE | Sirrah, no more! |
 | [[characters/lucio\|LUCIO]] | Enough, my lord. |
 | [[characters/angelo\|ANGELO]] | My lord, I must confess I know this woman;<br>And five years since there was some speech of<br>[[motifs/marriage\|marriage]]<br>Betwixt myself and her, which was broke off,<br>Partly for that her promised proportions<br>Came short of composition, but in chief<br>For that her reputation was disvalued<br>In levity; since which [[motifs/time\|time]] of five years<br>I never spake with her, saw her, nor heard from her,<br>Upon my [[concepts/faith\|faith]] and [[concepts/honour\|honour]]. |
 | *(didascalia)* | [[characters/mariana\|MARIANA]] kneeling before the Duke Noble prince, |
-| [[characters/angelo\|ANGELO]] | As there comes light from heaven, and words from<br>breath,<br>As there is sense in [[concepts/truth\|truth]], and [[concepts/truth\|truth]] in virtue,<br>I am affianced this man’s wife, as strongly<br>As words could make up vows. And, my good lord,<br>But Tuesday [[motifs/night\|night]] last gone, in’s [[motifs/garden\|garden]]-house,<br>He knew me as a wife. As this is true,<br>Let me in safety raise me from my knees,<br>Or else forever be confixèd here,<br>A marble monument. |
+| [[characters/angelo\|ANGELO]] | As there comes light from heaven, and words from<br>breath,<br>As there is sense in [[concepts/truth\|truth]], and [[concepts/truth\|truth]] in virtue,<br>I am affianced this man’s wife, as strongly<br>As words could make up vows. And, my good lord,<br>But Tuesday [[motifs/night\|night]] last gone, in’s [[motifs/garden\|garden]]-[[house]],<br>He knew me as a wife. As this is true,<br>Let me in safety raise me from my knees,<br>Or else forever be confixèd here,<br>A marble monument. |
 | [[characters/angelo\|ANGELO]] | I did but smile till now.<br>Now, good my lord, give me the scope of justice.<br>My patience here is touched. I do perceive<br>These poor informal women are no more<br>But instruments of some more mightier member<br>That sets them on. Let me have way, my lord,<br>To find this practice out. |
 | DUKE | (standing)<br>Ay, with my heart,<br>And punish them even to your height of pleasure.—<br>Thou foolish friar, and thou pernicious woman<br>Compact with her that’s gone, think‘st thou thy oaths,<br>Though they would swear down each particular saint,<br>Were testimonies against his worth and credit<br>That’s sealed in approbation? You, Lord [[characters/escalus\|Escalus]],<br>Sit with my cousin; lend him your kind pains<br>To find out this abuse, whence ’tis derived.<br>There is another friar that set them on.<br>Let him be sent for.<br>[[characters/escalus\|Escalus]] sits |
 | FRIAR PETER | Would he were here, my lord, for he indeed<br>Hath set the women on to this complaint.<br>Your Provost knows the place where he abides,<br>And he may fetch him. |
@@ -3406,7 +4652,7 @@ Measure for Measure
 | *(didascalia)* | guarded |
 | DUKE | She, [[characters/claudio\|Claudio]], that you wronged, look you restore.<br>Joy to you, [[characters/mariana\|Mariana]]. [[motifs/love\|Love]] her, [[characters/angelo\|Angelo]].<br>I have confessed her, and I know her virtue.<br>Thanks, good friend [[characters/escalus\|Escalus]], for thy much goodness.<br>There’s more behind that is more gratulate.<br>Thanks, Provost, for thy care and secrecy.<br>We shall employ thee in a worthier place.<br>Forgive him, [[characters/angelo\|Angelo]], that brought you [[motifs/home\|home]]<br>The head of Ragusine for [[characters/claudio\|Claudio]]’s.<br>Th’offence pardons itself. Dear Isabel,<br>I have a motion much imports your good,<br>Whereto, if you’ll a willing ear incline,<br>What’s mine is yours, and what is yours is mine.<br>(To all) So bring us to our palace, where we’ll show<br>What’s yet behind that’s meet you all should know. |
 | *(didascalia)* | Exeunt |
-| ADDITIONAL PASSAGES | The text of Measure for Measure given in this edition is probably that of an adapted version made for Shakespeare’s company after his [[motifs/death\|death]]. Adaptation seems to have affected two passages, printed below as we believe Shakespeare to have written them.<br><br>A. 1.2.0.1-116<br>A.2-9 (‘... by him’) are lines which the adapter (whom we believe to be Thomas Middleton) evidently intended to be replaced by 1.2.56-79 of the play as we print it. The adapter must have contributed all of 1.2.0.1-83, which in the earliest and subsequent printed texts precede the discussion between the Clown ([[characters/pompey\|Pompey]]) and the Bawd (Mistress Overdone) about [[characters/claudio\|Claudio]]’s arrest. [[characters/lucio\|Lucio]]’s entry alone at 1. 40.1 below, some eleven lines after his re-entry with the two Gentlemen and the Provost’s party in the adapted text, probably represents Shakespeare’s original intention. In his version, [[characters/juliet\|Juliet]], present but silent in the adapted text both in 1.2 and 5.1, probably did not appear in either scene; accordingly, the words ‘and there’s Madam [[characters/juliet\|Juliet]]’ (1.2.107) must also be the reviser’s work, and do not appear below. |
+| ADDITIONAL PASSAGES | The text of Measure for Measure given in this edition is probably that of an adapted version made for Shakespeare’s company after his [[motifs/death\|death]]. Adaptation seems to have affected two passages, printed below as we believe Shakespeare to have written them.<br><br>A. 1.2.0.1-116<br>A.2-9 (‘... by him’) are lines which the adapter (whom we believe to be Thomas Middleton) evidently intended to be replaced by 1.2.56-79 of the play as we print it. The adapter must have contributed all of 1.2.0.1-83, which in the earliest and subsequent printed texts precede the discussion between the Clown ([[characters/pompey\|Pompey]]) and the Bawd (Mistress Overdone) about [[characters/claudio\|Claudio]]’s arrest. [[characters/lucio\|Lucio]]’s entry [[Alone\|alone]] at 1. 40.1 below, some eleven lines after his re-entry with the two Gentlemen and the Provost’s party in the adapted text, probably represents Shakespeare’s original intention. In his version, [[characters/juliet\|Juliet]], present but silent in the adapted text both in 1.2 and 5.1, probably did not appear in either scene; accordingly, the words ‘and there’s Madam [[characters/juliet\|Juliet]]’ (1.2.107) must also be the reviser’s work, and do not appear below. |
 | *(didascalia)* | Enter [[characters/pompey\|Pompey]] and Mistress Overdone, meeting |
 | MISTRESS OVERDONE | How now, what’s the news with you? |
 | [[characters/pompey\|POMPEY]] | Yonder man is carried to [[motifs/prison\|prison]]. |
@@ -3432,7 +4678,7 @@ Measure for Measure
 | PROVOST | I do it not in evil disposition,<br>But from Lord [[characters/angelo\|Angelo]] by special charge. |
 | [[characters/claudio\|CLAUDIO]] | Thus can the demigod Authority<br>Make us pay down for our offence, by weight,<br>The bonds of heaven. On whom it will, it will;<br>On whom it will not, so; yet still ’tis just. |
 | *(didascalia)* | Enter [[characters/lucio\|Lucio]] |
-| [[characters/lucio\|LUCIO]] | Why, how now, [[characters/claudio\|Claudio]]? Whence comes this restraint?<br><br>B. 3.1.515-4.1.65<br>Before revision there would have been no act-break and no song; the lines immediately following the song would also have been absent. The Duke’s soliloquies ‘He who the sword of heaven will bear’ and ‘O place and [[concepts/greatness\|greatness]]’ have evidently been transposed in revision; in the original, the end of ‘O place and [[concepts/greatness\|greatness]]’ would have led straight on to the Duke’s meeting with [[characters/isabella\|Isabella]] and then [[characters/mariana\|Mariana]]. |
+| [[characters/lucio\|LUCIO]] | Why, how now, [[characters/claudio\|Claudio]]? Whence comes this restraint?<br><br>B. 3.1.515-4.1.65<br>Before revision there would have been no act-break and no [[Song\|song]]; the lines immediately following the [[Song\|song]] would also have been absent. The Duke’s soliloquies ‘He who the [[Sword\|sword]] of heaven will bear’ and ‘O place and [[concepts/greatness\|greatness]]’ have evidently been transposed in revision; in the original, the end of ‘O place and [[concepts/greatness\|greatness]]’ would have led straight on to the Duke’s meeting with [[characters/isabella\|Isabella]] and then [[characters/mariana\|Mariana]]. |
 | [[characters/escalus\|ESCALUS]] | I am going to visit the prisoner. Fare you [[motifs/well\|well]]. |
 | DUKE | Peace be with you. Exit [[characters/escalus\|Escalus]]<br>O place and [[concepts/greatness\|greatness]], millions of false eyes<br>Are stuck upon thee; volumes of report<br>Run with their false and most contrarious [[topoi/quest\|quest]]<br>Upon thy doings; thousand escapes of wit<br>Make thee the father of their idle dream,<br>And rack thee in their fancies. |
 | *(didascalia)* | Enter [[characters/isabella\|Isabella]] |
@@ -3441,7 +4687,7 @@ Measure for Measure
 | DUKE | But shall you on your knowledge find this way? |
 | [[characters/isabella\|ISABELLA]] | I have ta‘en a due and wary note upon’t.<br>With whispering and most guilty diligence,<br>In action all of precept, he did show me<br>The way twice o’er. |
 | DUKE | Are there no other tokens<br>Between you ’[[concepts/greed\|greed]] concerning her observance? |
-| [[characters/isabella\|ISABELLA]] | No, none, but only a repair i’th’ dark,<br>And that I have possessed him my most stay<br>Can be but brief, for I have made him know<br>I have a servant comes with me along<br>That stays upon me, whose persuasion is<br>I come about my brother. |
+| [[characters/isabella\|ISABELLA]] | No, none, but only a repair i’th’ dark,<br>And that I have possessed him my most stay<br>Can be but brief, for I have made him know<br>I have a servant comes with me along<br>That stays upon me, whose [[Persuasion\|persuasion]] is<br>I come about my brother. |
 | DUKE | ’Tis [[motifs/well\|well]] borne up.<br>I have not yet made known to [[characters/mariana\|Mariana]]<br>A word of this.—What ho, within! Come forth! |
 | *(didascalia)* | Enter [[characters/mariana\|Mariana]] |
 | DUKE | (To [[characters/mariana\|Mariana]]) I pray you be acquainted with this maid.<br>She comes to do you good. |
@@ -3451,12 +4697,15 @@ Measure for Measure
 | DUKE | Take then this your companion by the hand,<br>Who hath a story ready for your ear.<br>I shall attend your leisure; but make haste,<br>The vaporous [[motifs/night\|night]] approaches. |
 | [[characters/mariana\|MARIANA]] | Will’t please you walk aside. |
 | *(didascalia)* | Exeunt [[characters/mariana\|Mariana]] and [[characters/isabella\|Isabella]] |
-| DUKE | He who the sword of heaven will bear<br>Should be as holy as severe,<br>Pattern in himself to know,<br>Grace to stand, and virtue go,<br>More nor less to others paying<br>Than by [[concepts/self\|self]]-offences weighing.<br>Shame to him whose cruel striking<br>Kills for faults of his own liking!<br>Twice treble shame on [[characters/angelo\|Angelo]],<br>To weed my vice, and let his grow!<br>O, what may man within him hide,<br>Though angel on the outward side!<br>How may likeness made in crimes<br>Make my practice on the times<br>To draw with idle spiders’ strings<br>Most ponderous and substantial things?<br>Craft against vice I must apply.<br>With [[characters/angelo\|Angelo]] tonight shall lie<br>His old betrothed but despised.<br>So disguise shall, by th’ disguised,<br>Pay with falsehood false exacting,<br>And perform an old contracting. |
+| DUKE | He who the [[Sword\|sword]] of heaven will bear<br>Should be as holy as severe,<br>Pattern in himself to know,<br>Grace to stand, and virtue go,<br>More nor less to others paying<br>Than by [[concepts/self\|self]]-offences weighing.<br>Shame to him whose cruel striking<br>Kills for faults of his own liking!<br>Twice treble shame on [[characters/angelo\|Angelo]],<br>To weed my vice, and let his grow!<br>O, what may man within him hide,<br>Though angel on the outward side!<br>How may likeness made in crimes<br>Make my practice on the times<br>To draw with idle spiders’ strings<br>Most ponderous and substantial things?<br>Craft against vice I must apply.<br>With [[characters/angelo\|Angelo]] tonight shall lie<br>His old betrothed but despised.<br>So disguise shall, by th’ disguised,<br>Pay with falsehood false exacting,<br>And perform an old contracting. |
 | *(didascalia)* | Enter |
 | DUKE | [[characters/mariana\|Mariana]] |
 | *(didascalia)* | and [[characters/isabella\|Isabella]] |
 | DUKE | Welcome. How agreed? |
 | [[characters/isabella\|ISABELLA]] | She’ll take the enterprise upon her, father,<br>If you advise it. |
+| [[characters/othello\|OTHELLO]] | [[characters/othello\|Othello]] was given before James I in the Banqueting [[house\|House]] at Whitehall on I November 1604. Information about the Turkish invasion of Cyprus appears to derive from [[characters/richard\|Richard]] Knolles’s [[concepts/history\|History]] of the Turks, published no earlier than 30 September 1603, so Shakespeare probably completed his play some [[motifs/time\|time]] between that date and the [[motifs/summer\|summer]] of 1604. It first appeared in print in a quarto of 1622; the version printed in the 1623 Folio is about 160 lines longer, and has over a thousand differences in wording. It seems that Shakespeare partially revised his play, adding, for example, [[characters/desdemona\|Desdemona]]’s willow [[Song\|song]] (4.3) and building up [[characters/emilia\|Emilia]]’s role in the closing scenes. We base our text on the Folio as that seems to represent Shakespeare’s second thoughts.<br>Shakespeare’s decision to make a black man a [[archetypes/tragic-hero\|tragic hero]] was bold and original: by an ancient tradition, blackness was associated with sin and [[motifs/death\|death]]; and blackamoors in plays before Shakespeare are generally villainous (as is [[characters/aaron\|Aaron]] in [[characters/titus-andronicus\|Titus Andronicus]]). The story of a Moorish commander deluded by his ensign (standard-bearer) into believing that his young wife has been unfaithful to him with another soldier derives from a prose tale by the Italian Giambattista Cinzio Giraldi first published in 1565 in a collection of linked tales, Gli Ecatommiti (The Hundred Tales). Shakespeare must have read it either in Italian or in a French [[forms/translation\|translation]] of 1584, he may have looked at both. Giraldi tells the tale in a few pages of compressed, matter-of-fact narrative interspersed with brief conversations. His main characters are a Moor of [[settings/venice\|Venice]] ([[characters/othello\|Othello]]), his Venetian wife ([[characters/desdemona\|Desdemona]]), his ensign ([[characters/iago\|Iago]]), his ensign’s wife ([[characters/emilia\|Emilia]]), and a corporal ([[characters/cassio\|Cassio]]) ‘who was very dear to the Moor’. Only [[characters/desdemona\|Desdemona]] is named. Shakespeare’s invented characters include [[characters/roderigo\|Roderigo]], a young, disappointed suitor of [[characters/desdemona\|Desdemona]], and Brabanzio, [[characters/desdemona\|Desdemona]]’s father, who opposes her [[motifs/marriage\|marriage]] to [[characters/othello\|Othello]]. [[characters/bianca\|Bianca]], [[characters/cassio\|Cassio]]’s mistress, is developed from a few hints in the source. Shakespeare also introduces the military action between Turkey and [[settings/venice\|Venice]]—infidels and Christians—which gives especial importance to [[characters/othello\|Othello]]’s posting to Cyprus, a Venetian protectorate which the Turks attacked in 1570 and conquered in the following year. In the source, [[characters/othello\|Othello]] and [[characters/desdemona\|Desdemona]] are already happily settled into married life when they go to Cyprus; Shakespeare compresses the [[motifs/time\|time]]-scheme and makes many changes to the narrative.<br>[[characters/othello\|Othello]], a great [[success]] in Shakespeare’s [[motifs/time\|time]], was one of the first plays to be acted after the reopening of the theatres in 1660, and since that [[motifs/time\|time]] has remained one of the most popular plays on the English stage. |
+| THE PERSONS OF THE | PLAY<br>[[characters/othello\|OTHELLO]], the Moor of [[settings/venice\|Venice]]<br>[[characters/desdemona\|DESDEMONA]], his wife<br>[[characters/michael\|Michael]] [[characters/cassio\|CASSIO]], his lieutenant<br>[[characters/bianca\|BIANCA]], a courtesan, in [[motifs/love\|love]] with [[characters/cassio\|Cassio]]<br>[[characters/iago\|IAGO]], the Moor’s ensign<br>[[characters/emilia\|EMILIA]], [[characters/iago\|Iago]]’s wife<br>A CLOWN, a servant of [[characters/othello\|Othello]]<br>The DUKE of [[settings/venice\|Venice]]<br>BRABANZIO, [[characters/desdemona\|Desdemona]]’s father, a Senator of [[settings/venice\|Venice]]<br>GRAZIANO, Brabanzio’s brother<br>LODOVICO, kinsman of Brabanzio |
+| SENATORS | of [[settings/venice\|Venice]]<br>[[characters/roderigo\|RODERIGO]], a Venetian gentleman, in [[motifs/love\|love]] with [[characters/desdemona\|Desdemona]]<br>MONTANO, Governor of Cyprus<br>A HERALD<br>A MESSENGER<br>Attendants, officers, sailors, gentlemen of Cyprus, musicians |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3549,14 +4798,14 @@ Measure for Measure
 | DUCA | No? Dite vostro marito. |
 | [[characters/mariana\|MARIANA]] | Ma appunto, mio signore, e quello è [[characters/angelo\|Angelo]],<br>che crede di sapere che non conobbe mai il mio [[concepts/body\|corpo]],<br>ma sa, crede lui, di conoscere quello d’Isabel. |
 | [[characters/angelo\|ANGELO]] | Questo è uno strano inganno. Vediamo il tuo volto. |
-| [[characters/mariana\|MARIANA]] | (togliendosi il velo)<br>Mio marito me lo comanda; ora mi smaschero.<br>Questo è quel volto, crudele [[characters/angelo\|Angelo]],<br>che una volta giurasti degno d’essere guardato.<br>Questa è la mano che, con un contratto giurato,<br>fu stretta forte nella tua. Questo è il [[concepts/body\|corpo]]<br>che tolse a Isabel l’incontro,<br>e ti supplì nella tua casa del [[motifs/garden\|giardino]]<br>nella persona di lei immaginata. |
+| [[characters/mariana\|MARIANA]] | (togliendosi il velo)<br>Mio marito me lo comanda; ora mi smaschero.<br>Questo è quel volto, crudele [[characters/angelo\|Angelo]],<br>che una volta giurasti degno d’essere guardato.<br>Questa è la mano che, con un contratto giurato,<br>fu stretta forte nella tua. Questo è il [[concepts/body\|corpo]]<br>che tolse a Isabel l’incontro,<br>e ti supplì nella tua [[house\|casa]] del [[motifs/garden\|giardino]]<br>nella persona di lei immaginata. |
 | DUCA | (a [[characters/angelo\|Angelo]]) Conoscete questa donna? |
 | [[characters/lucio\|LUCIO]] | Carnalmente, dice lei. |
 | DUCA | Messere, basta! |
 | [[characters/lucio\|LUCIO]] | Basta, mio signore. |
 | [[characters/angelo\|ANGELO]] | Mio signore, devo confessare che conosco questa donna;<br>e cinque anni fa ci fu qualche discorso di<br>[[motifs/marriage\|matrimonio]]<br>fra me e lei, che fu rotto,<br>in parte perché le sue promesse proporzioni<br>vennero meno all’accordo, ma soprattutto<br>perché la sua reputazione era svalutata<br>per leggerezza; da quel [[motifs/time\|tempo]] di cinque anni<br>non le ho mai parlato, né l’ho vista, né ho avuto sue nuove,<br>sulla mia [[concepts/faith\|fede]] e sul mio [[concepts/honour\|onore]]. |
 | *(didascalia)* | [[characters/mariana\|MARIANA]] inginocchiandosi davanti al Duca Nobile principe, |
-| [[characters/angelo\|ANGELO]] | Come viene luce dal cielo, e parole dal<br>fiato,<br>come c’è senso nella [[concepts/truth\|verità]], e [[concepts/truth\|verità]] nella virtù,<br>io sono per fidanzamento moglie di quest’uomo, tanto saldamente<br>quanto le parole possano fare i voti. E, mio buon signore,<br>non più tardi di martedì [[motifs/night\|notte]] scorso, nella sua casa del [[motifs/garden\|giardino]],<br>egli mi conobbe come moglie. Se questo è vero,<br>lasciate ch’io mi rialzi salva dalle ginocchia,<br>o altrimenti sia per sempre qui confitta,<br>monumento di marmo. |
+| [[characters/angelo\|ANGELO]] | Come viene luce dal cielo, e parole dal<br>fiato,<br>come c’è senso nella [[concepts/truth\|verità]], e [[concepts/truth\|verità]] nella virtù,<br>io sono per fidanzamento moglie di quest’uomo, tanto saldamente<br>quanto le parole possano fare i voti. E, mio buon signore,<br>non più tardi di martedì [[motifs/night\|notte]] scorso, nella sua [[house\|casa]] del [[motifs/garden\|giardino]],<br>egli mi conobbe come moglie. Se questo è vero,<br>lasciate ch’io mi rialzi salva dalle ginocchia,<br>o altrimenti sia per sempre qui confitta,<br>monumento di marmo. |
 | [[characters/angelo\|ANGELO]] | Fin qui non ho fatto che sorridere.<br>Ora, mio buon signore, datemi il campo della giustizia.<br>La mia pazienza qui è toccata. Ben m’accorgo<br>che queste povere donne senza forma non sono<br>che strumenti di qualche membro più potente<br>che le istiga. Datemi via libera, mio signore,<br>per scoprire questa macchinazione. |
 | DUCA | (alzandosi)<br>Sì, con tutto il cuore,<br>e punitele fino al colmo del vostro piacere.—<br>Tu, sciocco frate, e tu, perniciosa donna<br>d’accordo con quella che se n’è andata, credi tu che i tuoi giuramenti,<br>foss’anche a scongiurare ogni singolo santo,<br>fossero testimonianze contro il suo valore e il suo credito<br>che è sigillato nell’approvazione? Voi, signor [[characters/escalus\|Escalo]],<br>sedete con mio cugino; prestategli la vostra benevola fatica<br>per scoprire donde derivi quest’abuso.<br>C’è un altro frate che le ha istigate.<br>Sia mandato a chiamare.<br>[[characters/escalus\|Escalo]] siede |
 | FRATE PIETRO | Vorrei che fosse qui, mio signore, ché egli davvero<br>ha istigato le donne a questa querela.<br>Il vostro Prevosto conosce il luogo dove dimora,<br>e può andarlo a prendere. |
@@ -3671,7 +4920,7 @@ Measure for Measure
 | *(didascalia)* | sotto scorta |
 | DUCA | Colei, [[characters/claudio\|Claudio]], cui facesti torto, badate di restituirla nell’onore.<br>Gioia a voi, [[characters/mariana\|Mariana]]. [[motifs/love\|Amatela]], [[characters/angelo\|Angelo]].<br>L’ho confessata, e ne conosco la virtù.<br>Grazie, buon amico [[characters/escalus\|Escalo]], per la tua molta bontà.<br>C’è dell’altro in serbo che è più gradito.<br>Grazie, Prevosto, per la tua cura e la tua segretezza.<br>T’impiegheremo in un posto più degno.<br>Perdonagli, [[characters/angelo\|Angelo]], d’averti portato a [[motifs/home\|casa]]<br>la testa di Ragusine invece di quella di [[characters/claudio\|Claudio]].<br>L’offesa si perdona da sé. Cara Isabel,<br>ho una proposta che molto importa al vostro bene,<br>alla quale, se vorrete piegare un orecchio consenziente,<br>ciò che è mio è vostro, e ciò che è vostro è mio.<br>(A tutti) Conduceteci dunque al nostro palazzo, dove mostreremo<br>ciò che ancora resta ed è giusto che tutti sappiate. |
 | *(didascalia)* | Escono |
-| BRANI AGGIUNTIVI | Il testo di Misura per misura dato in questa edizione è probabilmente quello di una versione adattata fatta per la compagnia di Shakespeare dopo la sua [[motifs/death\|morte]]. L’adattamento sembra aver interessato due passi, stampati qui sotto come crediamo che Shakespeare li abbia scritti.<br><br>A. 1.2.0.1-116<br>A.2-9 (‘... by him’) sono versi che l’adattatore (che crediamo sia Thomas Middleton) intendeva evidentemente far sostituire da 1.2.56-79 del dramma come lo stampiamo. L’adattatore deve aver contribuito tutto 1.2.0.1-83, che nei testi a stampa più antichi e successivi precede la discussione fra il Buffone ([[characters/pompey\|Pompeo]]) e la Ruffiana (Mistress Overdone) sull’arresto di [[characters/claudio\|Claudio]]. L’entrata di [[characters/lucio\|Lucio]] solo al v. 40.1 qui sotto, una decina di versi dopo il suo rientro con i due Gentiluomini e il seguito del Prevosto nel testo adattato, rappresenta probabilmente l’intenzione originale di Shakespeare. Nella sua versione, [[characters/juliet\|Giulietta]], presente ma silenziosa nel testo adattato sia in 1.2 sia in 5.1, probabilmente non compariva in nessuna delle due scene; di conseguenza, le parole ‘e c’è madonna [[characters/juliet\|Giulietta]]’ (1.2.107) devono essere anch’esse opera del revisore, e non compaiono qui sotto. |
+| BRANI AGGIUNTIVI | Il testo di Misura per misura dato in questa edizione è probabilmente quello di una versione adattata fatta per la compagnia di Shakespeare dopo la sua [[motifs/death\|morte]]. L’adattamento sembra aver interessato due passi, stampati qui sotto come crediamo che Shakespeare li abbia scritti.<br><br>A. 1.2.0.1-116<br>A.2-9 (‘... by him’) sono versi che l’adattatore (che crediamo sia Thomas Middleton) intendeva evidentemente far sostituire da 1.2.56-79 del dramma come lo stampiamo. L’adattatore deve aver contribuito tutto 1.2.0.1-83, che nei testi a stampa più antichi e successivi precede la discussione fra il Buffone ([[characters/pompey\|Pompeo]]) e la Ruffiana (Mistress Overdone) sull’arresto di [[characters/claudio\|Claudio]]. L’entrata di [[characters/lucio\|Lucio]] [[Alone\|solo]] al v. 40.1 qui sotto, una decina di versi dopo il suo rientro con i due Gentiluomini e il seguito del Prevosto nel testo adattato, rappresenta probabilmente l’intenzione originale di Shakespeare. Nella sua versione, [[characters/juliet\|Giulietta]], presente ma silenziosa nel testo adattato sia in 1.2 sia in 5.1, probabilmente non compariva in nessuna delle due scene; di conseguenza, le parole ‘e c’è madonna [[characters/juliet\|Giulietta]]’ (1.2.107) devono essere anch’esse opera del revisore, e non compaiono qui sotto. |
 | *(didascalia)* | Entrano [[characters/pompey\|Pompeo]] e Mistress Overdone, incontrandosi |
 | MISTRESS OVERDONE | Ebbene, che notizie mi porti? |
 | [[characters/pompey\|POMPEO]] | Quell’uomo laggiù è condotto in [[motifs/prison\|prigione]]. |
@@ -3697,7 +4946,7 @@ Measure for Measure
 | PREVOSTO | Non lo faccio per cattiva disposizione,<br>ma per speciale incarico del signor [[characters/angelo\|Angelo]]. |
 | [[characters/claudio\|CLAUDIO]] | Così può il semidio Autorità<br>farci pagare per la nostra offesa, a peso,<br>i debiti del cielo. Su chi vuole, vuole;<br>su chi non vuole, così; eppure è sempre giusto. |
 | *(didascalia)* | Entra [[characters/lucio\|Lucio]] |
-| [[characters/lucio\|LUCIO]] | Ebbene, [[characters/claudio\|Claudio]]? Donde viene questa costrizione?<br><br>B. 3.1.515-4.1.65<br>Prima della revisione non ci sarebbe stata interruzione d’atto né canzone; anche i versi immediatamente seguenti alla canzone sarebbero mancati. I soliloqui del Duca ‘Chi la spada del cielo vorrà portare’ e ‘O carica e [[concepts/greatness\|grandezza]]’ sono stati evidentemente trasposti nella revisione; nell’originale, la fine di ‘O carica e [[concepts/greatness\|grandezza]]’ avrebbe condotto direttamente all’incontro del Duca con [[characters/isabella\|Isabella]] e poi con [[characters/mariana\|Mariana]]. |
+| [[characters/lucio\|LUCIO]] | Ebbene, [[characters/claudio\|Claudio]]? Donde viene questa costrizione?<br><br>B. 3.1.515-4.1.65<br>Prima della revisione non ci sarebbe stata interruzione d’atto né [[Song\|canzone]]; anche i versi immediatamente seguenti alla [[Song\|canzone]] sarebbero mancati. I soliloqui del Duca ‘Chi la [[Sword\|spada]] del cielo vorrà portare’ e ‘O carica e [[concepts/greatness\|grandezza]]’ sono stati evidentemente trasposti nella revisione; nell’originale, la fine di ‘O carica e [[concepts/greatness\|grandezza]]’ avrebbe condotto direttamente all’incontro del Duca con [[characters/isabella\|Isabella]] e poi con [[characters/mariana\|Mariana]]. |
 | [[characters/escalus\|ESCALO]] | Vado a visitare il prigioniero. State [[motifs/well\|bene]]. |
 | DUCA | La pace sia con voi. Esce [[characters/escalus\|Escalo]]<br>O carica e [[concepts/greatness\|grandezza]], milioni di occhi falsi<br>sono confitti su di te; volumi di dicerie<br>corrono con la loro falsa e contrarissima [[topoi/quest\|caccia]]<br>sulle tue azioni; mille sortite d’ingegno<br>ti fanno padre del loro ozioso sogno,<br>e ti torturano nelle loro fantasie. |
 | *(didascalia)* | Entra [[characters/isabella\|Isabella]] |
@@ -3706,7 +4955,7 @@ Measure for Measure
 | DUCA | Ma saprete voi con sicurezza trovare questa via? |
 | [[characters/isabella\|ISABELLA]] | Ne ho preso debita e guardinga nota.<br>Con sussurri e diligenza colpevolissima,<br>tutto in atto di precetto, egli mi mostrò<br>due volte la strada. |
 | DUCA | Non ci sono altri segni<br>[[concepts/greed\|convenuti]] fra voi circa il modo di comportarsi di lei? |
-| [[characters/isabella\|ISABELLA]] | No, nessuno, se non solo un venire al buio,<br>e che l’ho ben persuaso che la mia sosta<br>non può essere che breve, ché gli ho fatto sapere<br>ch’io ho un servo che viene con me<br>e mi aspetta, la cui persuasione è<br>che io venga per mio fratello. |
+| [[characters/isabella\|ISABELLA]] | No, nessuno, se non solo un venire al buio,<br>e che l’ho ben persuaso che la mia sosta<br>non può essere che breve, ché gli ho fatto sapere<br>ch’io ho un servo che viene con me<br>e mi aspetta, la cui [[Persuasion\|persuasione]] è<br>che io venga per mio fratello. |
 | DUCA | È [[motifs/well\|ben]] condotta.<br>Non ho ancora fatto sapere a [[characters/mariana\|Mariana]]<br>una parola di questo.—Ehi là, dentro! Venite fuori! |
 | *(didascalia)* | Entra [[characters/mariana\|Mariana]] |
 | DUCA | (A [[characters/mariana\|Mariana]]) Vi prego, fate conoscenza con questa fanciulla.<br>Viene a farvi del bene. |
@@ -3716,7 +4965,7 @@ Measure for Measure
 | DUCA | Prendete dunque per mano questa vostra compagna,<br>che ha una storia pronta per il vostro orecchio.<br>Attenderò il vostro comodo; ma fate presto,<br>la vaporosa [[motifs/night\|notte]] s’avvicina. |
 | [[characters/mariana\|MARIANA]] | Vi piace venire in disparte. |
 | *(didascalia)* | Escono [[characters/mariana\|Mariana]] e [[characters/isabella\|Isabella]] |
-| DUCA | Chi la spada del cielo vorrà portare<br>santo dev’essere quanto severo,<br>modello in sé per conoscere,<br>grazia per stare, e virtù per andare,<br>né più né meno agli altri pagando<br>di quanto pesano le colpe di [[concepts/self\|sé]].<br>Vergogna a colui che col crudele colpire<br>uccide per colpe di suo gradire!<br>Due volte tripla vergogna su [[characters/angelo\|Angelo]],<br>che sarchia il mio vizio e lascia crescere il suo!<br>Oh, che può l’uomo nascondere in sé,<br>pur angelo dalla parte di fuori!<br>Come può la somiglianza fatta di delitti<br>far sì che il mio artificio sui tempi<br>tragga con oziosi fili di ragno<br>le cose più ponderose e sostanziali?<br>Astuzia contro vizio devo applicare.<br>Con [[characters/angelo\|Angelo]] stanotte giacerà<br>la sua antica promessa ma disprezzata.<br>Così il travestimento, per mezzo della travestita,<br>pagherà con falsità la falsa esazione,<br>e compirà un vecchio contratto. |
+| DUCA | Chi la [[Sword\|spada]] del cielo vorrà portare<br>santo dev’essere quanto severo,<br>modello in sé per conoscere,<br>grazia per stare, e virtù per andare,<br>né più né meno agli altri pagando<br>di quanto pesano le colpe di [[concepts/self\|sé]].<br>Vergogna a colui che col crudele colpire<br>uccide per colpe di suo gradire!<br>Due volte tripla vergogna su [[characters/angelo\|Angelo]],<br>che sarchia il mio vizio e lascia crescere il suo!<br>Oh, che può l’uomo nascondere in sé,<br>pur angelo dalla parte di fuori!<br>Come può la somiglianza fatta di delitti<br>far sì che il mio artificio sui tempi<br>tragga con oziosi fili di ragno<br>le cose più ponderose e sostanziali?<br>Astuzia contro vizio devo applicare.<br>Con [[characters/angelo\|Angelo]] stanotte giacerà<br>la sua antica promessa ma disprezzata.<br>Così il travestimento, per mezzo della travestita,<br>pagherà con falsità la falsa esazione,<br>e compirà un vecchio contratto. |
 | *(didascalia)* | Entrano |
 | DUCA | [[characters/mariana\|Mariana]] |
 | *(didascalia)* | e [[characters/isabella\|Isabella]] |

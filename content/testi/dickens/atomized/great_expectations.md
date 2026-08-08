@@ -92,6 +92,10 @@ Chapter LIX.
 
 
 
+
+
+
+
 <span class="atom-split" data-atom="chapter_01" data-title="Great Expectations — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/chains,motif/grave,motif/home,motif/memory,motif/night,motif/river,motif/time,motif/water,motif/wind,concept/body,concept/hope,concept/identity,form/inscription,character/joe_gargery"></span>
 
 
@@ -240,7 +244,7 @@ you never dare to say a word or dare to make a sign concerning your
 having seen such a person as me, or any person sumever, and you shall
 be let to live. You fail, or you go from my words in any partickler, no
 matter how small it is, and your heart and your liver shall be tore
-out, roasted, and ate. Now, I ain’t alone, as you may think I am.
+out, roasted, and ate. Now, I ain’t [[Alone|alone]], as you may think I am.
 There’s a young man hid with me, in comparison with which young man I
 am a Angel. That young man hears the words I speak. That young man has
 a secret way pecooliar to himself, of getting at a boy, and at his
@@ -338,10 +342,10 @@ apron so much. Though I really see no reason why she should have worn
 it at all; or why, if she did wear it at all, she should not have taken
 it off, every day of her life.
 
-Joe’s forge adjoined our house, which was a wooden house, as many of
+Joe’s forge adjoined our [[house]], which was a wooden [[house]], as many of
 the dwellings in our country were,—most of them, at that [[motifs/time|time]]. When I
 ran [[motifs/home|home]] from the churchyard, the forge was shut up, and Joe was
-sitting alone in the kitchen. Joe and I being fellow-sufferers, and
+sitting [[Alone|alone]] in the kitchen. Joe and I being fellow-sufferers, and
 having confidences as such, Joe imparted a confidence to me, the moment
 I raised the latch of the door and peeped in at him opposite to it,
 sitting in the chimney corner.
@@ -447,7 +451,7 @@ my trousers.
 
 The effort of resolution necessary to the achievement of this purpose I
 found to be quite awful. It was as if I had to make up my mind to leap
-from the top of a high house, or plunge into a great depth of [[motifs/water|water]].
+from the top of a high [[house]], or plunge into a great depth of [[motifs/water|water]].
 And it was made the more difficult by the unconscious Joe. In our
 already-mentioned freemasonry as fellow-sufferers, and in his
 good-natured companionship with me, it was our evening habit to compare
@@ -498,7 +502,7 @@ Joe looked at her in a helpless way, then took a helpless bite, and
 looked at me again.
 
 “You know, Pip,” said Joe, solemnly, with his last bite in his cheek,
-and speaking in a confidential voice, as if we two were quite alone,
+and speaking in a confidential voice, as if we two were quite [[Alone|alone]],
 “you and me is always friends, and I’d be the last to tell upon you,
 any [[motifs/time|time]]. But such a—” he moved his chair and looked about the floor
 between us, and then again at me—“such a most oncommon Bolt as that!”
@@ -662,7 +666,7 @@ than usual, owing to the season, I was very much alarmed by a hare
 hanging up by the heels, whom I rather thought I caught, when my back
 was half turned, winking. I had no [[motifs/time|time]] for verification, no [[motifs/time|time]] for
 selection, no [[motifs/time|time]] for anything, for I had no [[motifs/time|time]] to spare. I stole
-some bread, some rind of cheese, about half a jar of mincemeat (which I
+some bread, some rind of [[cheese]], about half a jar of mincemeat (which I
 tied up in my pocket-handkerchief with my last [[motifs/night|night]]’s slice), some
 brandy from a stone bottle (which I decanted into a glass bottle I had
 secretly used for making that intoxicating fluid,
@@ -783,7 +787,7 @@ that, if I was going to be strung up to that there gallows as there is
 over there, directly afterwards. I’ll beat the shivers so far, I’ll bet
 you.”
 
-He was gobbling mincemeat, meatbone, bread, cheese, and pork pie, all
+He was gobbling mincemeat, meatbone, bread, [[cheese]], and pork pie, all
 at once: staring distrustfully while he did so at the mist all round
 us, and often stopping—even stopping his jaws—to listen. Some real or
 fancied sound, some clink upon the [[motifs/river|river]] or breathing of beast upon the
@@ -867,7 +871,7 @@ reason for wanting to borrow a file. Didn’t you hear the cannon last
 heard it up at [[motifs/home|home]], and that’s farther away, and we were shut in
 besides.”
 
-“Why, see now!” said he. “When a man’s alone on these flats, with a
+“Why, see now!” said he. “When a man’s [[Alone|alone]] on these flats, with a
 light head and a light stomach, perishing of cold and want, he hears
 nothin’ all [[motifs/night|night]], but guns firing, and voices calling. Hears? He sees
 the soldiers, with their red coats lighted up by the torches carried
@@ -919,7 +923,7 @@ Chapter IV.
 I fully expected to find a Constable in the kitchen, waiting to take me
 up. But not only was there no Constable there, but no discovery had yet
 been made of the robbery. Mrs. Joe was prodigiously busy in getting the
-house ready for the festivities of the day, and Joe had been put upon
+[[house]] ready for the festivities of the day, and Joe had been put upon
 the kitchen doorstep to keep him out of the [[motifs/dust|dust]]-pan,—an article into
 which his destiny always led him, sooner or later, when my sister was
 vigorously reaping the floors of her establishment.
@@ -980,7 +984,7 @@ I think my sister must have had some general idea that I was a young
 offender whom an Accoucheur Policeman had taken up (on my birthday) and
 delivered over to her, to be dealt with according to the outraged
 majesty of the law. I was always treated as if I had insisted on being
-born in opposition to the dictates of reason, religion, and morality,
+born in opposition to the dictates of reason, religion, and [[morality]],
 and against the dissuading arguments of my best friends. Even when I
 was taken to have a new suit of clothes, the tailor had orders to make
 them like a kind of Reformatory, and on no account to let me have the
@@ -1068,7 +1072,7 @@ speak (I didn’t want to speak), nor because I was regaled with the
 scaly tips of the drumsticks of the fowls, and with those obscure
 corners of pork of which the pig, when living, had had the least reason
 to be vain. No; I should not have minded that, if they would only have
-left me alone. But they wouldn’t leave me alone. They seemed to think
+left me [[Alone|alone]]. But they wouldn’t leave me [[Alone|alone]]. They seemed to think
 the opportunity lost, if they failed to point the conversation at me,
 every now and then, and stick the point into me. I might have been an
 unfortunate little bull in a Spanish arena, I got so smartingly touched
@@ -1110,7 +1114,7 @@ subjects “going about.”
 subjects going about, for them that know how to put salt upon their
 tails. That’s what’s wanted. A man needn’t go far to find a subject, if
 he’s ready with his salt-box.” Mr. Pumblechook added, after a short
-interval of reflection, “Look at Pork alone. There’s a subject! If you
+interval of reflection, “Look at Pork [[Alone|alone]]. There’s a subject! If you
 want a subject, look at Pork!”
 
 “True, sir. Many a moral for the young,” returned Mr. Wopsle,—and I
@@ -1154,7 +1158,7 @@ you had been born such, would you have been here now? Not you—”
 “But I don’t mean in that form, sir,” returned Mr. Pumblechook, who had
 an objection to being interrupted; “I mean, enjoying himself with his
 elders and betters, and improving himself with their conversation, and
-rolling in the lap of luxury. Would he have been doing that? No, he
+[[rolling]] in the lap of luxury. Would he have been doing that? No, he
 wouldn’t. And what would have been your destination?” turning on me
 again. “You would have been disposed of for so many shillings according
 to the market price of the article, and Dunstable the butcher would
@@ -1269,7 +1273,7 @@ merely in spirit, or in the bodily hearing of the company. I felt that
 I could bear no more, and that I must run away. I released the leg of
 the table, and ran for my life.
 
-But I ran no farther than the house door, for there I ran head-foremost
+But I ran no farther than the [[house]] door, for there I ran head-foremost
 into a party of soldiers with their muskets, one of whom held out a
 pair of handcuffs to me, saying, “Here you are, look sharp, come on!”
 
@@ -1614,7 +1618,7 @@ down on his knee to open it, my convict looked round him for the first
 ditch when we came up, and had not moved since. I looked at him eagerly
 when he looked at me, and slightly moved my hands and shook my head. I
 had been waiting for him to see me that I might try to assure him of my
-innocence. It was not at all expressed to me that he even comprehended
+[[innocence]]. It was not at all expressed to me that he even comprehended
 my intention, for he gave me a look that I did not understand, and it
 all passed in a moment. But if he had looked at me for an hour or for a
 day, I could not have remembered his face ever afterwards, as having
@@ -1717,7 +1721,7 @@ were ready, so we followed him to the landing-place made of rough
 stakes and stones, and saw him put into the boat, which was rowed by a
 crew of convicts like himself. No one seemed surprised to see him, or
 interested in seeing him, or glad to see him, or sorry to see him, or
-spoke a word, except that somebody in the boat growled as if to dogs,
+spoke a word, except that somebody in the boat growled as if to [[dogs]],
 “Give way, you!” which was the signal for the dip of the oars. By the
 light of the torches, we saw the black Hulk lying out a little way from
 the mud of the shore, like a wicked Noah’s ark. Cribbed and barred and
@@ -1785,7 +1789,7 @@ about the convict’s confession, and all the visitors suggesting
 different ways by which he had got into the pantry. Mr. Pumblechook
 made out, after carefully surveying the premises, that he had first got
 upon the roof of the forge, and had then got upon the roof of the
-house, and had then let himself down the kitchen chimney by a rope made
+[[house]], and had then let himself down the kitchen chimney by a rope made
 of his bedding cut into strips; and as Mr. Pumblechook was very
 positive and drove his own chaise-cart—over everybody—it was agreed
 that it must be so. Mr. Wopsle, indeed, wildly cried out, “No!” with
@@ -1822,7 +1826,7 @@ notions of the theological positions to which my Catechism bound me, at
 all accurate; for, I have a lively remembrance that I supposed my
 declaration that I was to “walk in the same all the days of my life,”
 laid me under an obligation always to go through the village from our
-house in one particular direction, and never to vary it by turning down
+[[house]] in one particular direction, and never to vary it by turning down
 by the wheelwright’s or up by the mill.
 
 When I was old enough, I was to be apprenticed to Joe, and until I
@@ -1849,7 +1853,7 @@ Wopsle “examined” the scholars once a quarter. What he did on those
 occasions was to turn up his cuffs, stick up his hair, and give us Mark
 Antony’s oration over the [[concepts/body|body]] of Caesar. This was always followed by
 Collins’s Ode on the Passions, wherein I particularly venerated Mr.
-Wopsle as [[concepts/revenge|Revenge]] throwing his [[motifs/blood|blood]]-stained sword in thunder down, and
+Wopsle as [[concepts/revenge|Revenge]] throwing his [[motifs/blood|blood]]-stained [[Sword|sword]] in thunder down, and
 taking the War-denouncing trumpet with a withering look. It was not
 with me then, as it was in later life, when I fell into the society of
 the Passions, and compared them with Collins and Wopsle, rather to the
@@ -1865,7 +1869,7 @@ confess myself quite unequal to the working out of the problem, what
 relation she was to Mr. Wopsle. She was an [[archetypes/orphan|orphan]] like myself; like me,
 too, had been brought up by hand. She was most noticeable, I thought,
 in respect of her extremities; for, her hair always wanted brushing,
-her hands always wanted washing, and her shoes always wanted mending
+her hands always wanted washing, and her shoes always wanted [[mending]]
 and pulling up at heel. This description must be received with a
 week-day limitation. On Sundays, she went to church elaborated.
 
@@ -1890,7 +1894,7 @@ BLEVE ME INF XN PIP.”
 
 
 There was no indispensable necessity for my communicating with Joe by
-letter, inasmuch as he sat beside me and we were alone. But I delivered
+letter, inasmuch as he sat beside me and we were [[Alone|alone]]. But I delivered
 this written communication (slate and all) with my own hand, and Joe
 received it as a miracle of erudition.
 
@@ -2015,7 +2019,7 @@ Joe’s blue eyes turned a little watery; he rubbed first one of them,
 and then the other, in a most uncongenial and uncomfortable manner,
 with the round knob on the top of the poker.
 
-“It were but lonesome then,” said Joe, “living here alone, and I got
+“It were but lonesome then,” said Joe, “living here [[Alone|alone]], and I got
 acquainted with your sister. Now, Pip,”—Joe looked firmly at me as if
 he knew I was not going to agree with him;—“your sister is a fine
 figure of a woman.”
@@ -2073,13 +2077,13 @@ sly. And why on the sly? I’ll tell you why, Pip.”
 He had taken up the poker again; without which, I [[concepts/doubt|doubt]] if he could
 have proceeded in his demonstration.
 
-“Your sister is given to government.”
+“Your sister is given to [[government]].”
 
-“Given to government, Joe?” I was startled, for I had some shadowy idea
+“Given to [[government]], Joe?” I was startled, for I had some shadowy idea
 (and I am afraid I must add, [[concepts/hope|hope]]) that Joe had divorced her in a
 favour of the Lords of the Admiralty, or Treasury.
 
-“Given to government,” said Joe. “Which I meantersay the government of
+“Given to [[government]],” said Joe. “Which I meantersay the [[government]] of
 you and myself.”
 
 “Oh!”
@@ -2185,7 +2189,7 @@ his hand across his nose with his usual conciliatory air on such
 occasions, and looked at her.
 
 “[[motifs/well|Well]]?” said my sister, in her snappish way. “What are you staring at?
-Is the house afire?”
+Is the [[house]] afire?”
 
 “—Which some individual,” Joe politely hinted, “mentioned—she.”
 
@@ -2208,7 +2212,7 @@ encouragement to be extremely light and sportive, “or I’ll work him.”
 
 I had heard of [[characters/miss-havisham|Miss Havisham]] up town,—everybody for miles round had
 heard of [[characters/miss-havisham|Miss Havisham]] up town,—as an immensely rich and grim lady who
-lived in a large and dismal house barricaded against robbers, and who
+lived in a large and dismal [[house]] barricaded against robbers, and who
 led a life of seclusion.
 
 “[[motifs/well|Well]] to be sure!” said Joe, astounded. “I [[concepts/wonder|wonder]] how she come to know
@@ -2306,7 +2310,7 @@ noticing that Mr. Pumblechook appeared to conduct his business by
 looking across the street at the saddler, who appeared to transact
 _his_ business by keeping his eye on the coachmaker, who appeared to
 get on in life by putting his hands in his pockets and contemplating
-the baker, who in his turn folded his arms and stared at the grocer,
+the baker, who in his turn folded his arms and stared at the [[grocer]],
 who stood at his door and yawned at the chemist. The watchmaker, always
 poring over a little desk with a magnifying-glass at his eye, and
 always inspected by a group of smock-frocks poring over him through the
@@ -2336,14 +2340,14 @@ a gorging and gormandizing manner.
 For such reasons, I was very glad when ten o’[[motifs/clock|clock]] came and we started
 for [[characters/miss-havisham|Miss Havisham]]’s; though I was not at all at my ease regarding the
 manner in which I should acquit myself under that lady’s roof. Within a
-quarter of an hour we came to [[characters/miss-havisham|Miss Havisham]]’s house, which was of old
+quarter of an hour we came to [[characters/miss-havisham|Miss Havisham]]’s [[house]], which was of old
 brick, and dismal, and had a great many iron bars to it. Some of the
 windows had been walled up; of those that remained, all the lower were
 rustily barred. There was a courtyard in front, and that was barred; so
 we had to wait, after ringing the bell, until some one should come to
 open it. While we waited at the gate, I peeped in (even then Mr.
 Pumblechook said, “And fourteen?” but I pretended not to hear him), and
-saw that at the side of the house there was a large brewery. No brewing
+saw that at the side of the [[house]] there was a large brewery. No brewing
 was going on in it, and none seemed to have gone on for a long long
 [[motifs/time|time]].
 
@@ -2402,11 +2406,11 @@ don’t you think so?”
 “Not that anybody means to try,” she added, “for that’s all done with,
 and the place will stand as idle as it is till it falls. As to strong
 beer, there’s enough of it in the cellars already, to drown the Manor
-House.”
+[[house|House]].”
 
 [Illustration]
 
-“Is that the name of this house, miss?”
+“Is that the name of this [[house]], miss?”
 
 “One of its names, boy.”
 
@@ -2415,10 +2419,10 @@ House.”
 “One more. Its other name was Satis; which is Greek, or Latin, or
 Hebrew, or all three—or all one to me—for enough.”
 
-“Enough House,” said I; “that’s a curious name, miss.”
+“Enough [[house|House]],” said I; “that’s a curious name, miss.”
 
 “Yes,” she replied; “but it meant more than it said. It meant, when it
-was given, that whoever had this house could want nothing else. They
+was given, that whoever had this [[house]] could want nothing else. They
 must have been easily satisfied in those days, I should think. But
 don’t loiter, boy.”
 
@@ -2428,7 +2432,7 @@ older than I, of course, being a girl, and beautiful and
 [[concepts/self|self]]-possessed; and she was as scornful of me as if she had been
 one-and-twenty, and a [[characters/queen|queen]].
 
-We went into the house by a side door, the great front entrance had two
+We went into the [[house]] by a side door, the great front entrance had two
 [[motifs/chains|chains]] across it outside,—and the first thing I noticed was, that the
 passages were all dark, and that she had left a candle burning there.
 She took it up, and we went through more passages and up a staircase,
@@ -2481,8 +2485,8 @@ of a young woman, and that the figure upon which it now hung loose had
 shrunk to skin and bone. Once, I had been taken to see some ghastly
 waxwork at the Fair, representing I know not what impossible personage
 lying in state. Once, I had been taken to one of our old marsh churches
-to see a skeleton in the ashes of a rich dress that had been dug out of
-a vault under the church pavement. Now, waxwork and skeleton seemed to
+to see a [[skeleton]] in the ashes of a rich dress that had been dug out of
+a vault under the church pavement. Now, waxwork and [[skeleton]] seemed to
 have dark eyes that moved and looked at me. I should have cried out, if
 I could.
 
@@ -2568,7 +2572,7 @@ was still talking to herself, and kept quiet.
 “Call [[characters/estella|Estella]],” she repeated, flashing a look at me. “You can do that.
 Call [[characters/estella|Estella]]. At the door.”
 
-To stand in the dark in a mysterious passage of an unknown house,
+To stand in the dark in a mysterious passage of an unknown [[house]],
 bawling [[characters/estella|Estella]] to a scornful young lady neither visible nor
 responsive, and feeling it a dreadful liberty so to roar out her name,
 was almost as bad as playing to order. But she answered at last, and
@@ -2696,7 +2700,7 @@ room many hours.
 “You are to wait here, you boy,” said [[characters/estella|Estella]]; and disappeared and
 closed the door.
 
-I took the opportunity of being alone in the courtyard to look at my
+I took the opportunity of being [[Alone|alone]] in the courtyard to look at my
 coarse hands and my common boots. My opinion of those accessories was
 not favourable. They had never troubled me before, but they troubled me
 now, as vulgar appendages. I determined to ask Joe why he had ever
@@ -2744,7 +2748,7 @@ face with my sleeve, and came from behind the gate. The bread and meat
 were acceptable, and the beer was warming and tingling, and I was soon
 in spirits to look about me.
 
-To be sure, it was a deserted place, down to the pigeon-house in the
+To be sure, it was a deserted place, down to the pigeon-[[house]] in the
 brewery-yard, which had been blown crooked on its pole by some high
 [[motifs/wind|wind]], and would have made the pigeons think themselves at sea, if there
 had been any pigeons there to be rocked by it. But there were no
@@ -2760,7 +2764,7 @@ those recluses as being like most others.
 Behind the furthest end of the brewery, was a rank [[motifs/garden|garden]] with an old
 wall; not so high but that I could struggle up and hold on long enough
 to look over it, and see that the rank [[motifs/garden|garden]] was the [[motifs/garden|garden]] of the
-house, and that it was overgrown with tangled weeds, but that there was
+[[house]], and that it was overgrown with tangled weeds, but that there was
 a track upon the green and yellow paths, as if some one sometimes
 walked there, and that [[characters/estella|Estella]] was walking away from me even then. But
 she seemed to be everywhere. For when I yielded to the [[concepts/temptation|temptation]]
@@ -2926,7 +2930,7 @@ mine, because she told me to.”
 
 “Was anybody else there?” asked Mr. Pumblechook.
 
-“Four dogs,” said I.
+“Four [[dogs]],” said I.
 
 “Large or small?”
 
@@ -3012,7 +3016,7 @@ would take. My sister stood out for “property.” Mr. Pumblechook was in
 favour of a handsome premium for binding me apprentice to some genteel
 trade,—say, the corn and seed trade, for instance. Joe fell into the
 deepest disgrace with both, for offering the bright suggestion that I
-might only be presented with one of the dogs who had fought for the
+might only be presented with one of the [[dogs]] who had fought for the
 veal-cutlets. “If a [[archetypes/fool|fool]]’s head can’t express better opinions than
 that,” said my sister, “and you have got any work to do, you had better
 go and do it.” So he went.
@@ -3040,8 +3044,8 @@ amazement. “You don’t mean to say it’s—”
 
 “But not all of it? Why sure you don’t mean to say, Pip, that there was
 no black welwet co—eh?” For, I stood shaking my head. “But at least
-there was dogs, Pip? Come, Pip,” said Joe, persuasively, “if there
-warn’t no weal-cutlets, at least there was dogs?”
+there was [[dogs]], Pip? Come, Pip,” said Joe, persuasively, “if there
+warn’t no weal-cutlets, at least there was [[dogs]]?”
 
 “No, Joe.”
 
@@ -3214,7 +3218,7 @@ moist sugar, and lending me, to copy at [[motifs/home|home]], a large old Englis
 which she had imitated from the heading of some newspaper, and which I
 supposed, until she told me what it was, to be a design for a buckle.
 
-Of course there was a public-house in the village, and of course Joe
+Of course there was a public-[[house]] in the village, and of course Joe
 liked sometimes to smoke his pipe there. I had received strict orders
 from my sister to call for him at the Three Jolly Bargemen, that
 evening, on my way from school, and bring him [[motifs/home|home]] at my peril. To the
@@ -3361,7 +3365,7 @@ the poet says.”
 And here I may remark that when Mr. Wopsle referred to me, he
 considered it a necessary part of such reference to rumple my hair and
 poke it into my eyes. I cannot conceive why everybody of his standing
-who visited at our house should always have put me through the same
+who visited at our [[house]] should always have put me through the same
 inflammatory process under similar circumstances. Yet I do not call to
 mind that I was ever in my earlier youth the subject of remark in our
 social family circle, but some large-handed person took some such
@@ -3405,7 +3409,7 @@ Wopsle good-[[motifs/night|night]] (who went out with us), and he gave me only a
 with his aiming eye,—no, not a look, for he shut it up, but wonders may
 be done with an eye by hiding it.
 
-On the way [[motifs/home|home]], if I had been in a humour for talking, the talk must
+On the way [[motifs/home|home]], if I had been in a [[Humour|humour]] for talking, the talk must
 have been all on my side, for Mr. Wopsle parted from us at the door of
 the Jolly Bargemen, and Joe went all the way [[motifs/home|home]] with his mouth wide
 open, to rinse the rum out with as much air as possible. But I was in a
@@ -3433,7 +3437,7 @@ Presently, Joe came back, saying that the man was gone, but that he,
 Joe, had left word at the Three Jolly Bargemen concerning the notes.
 Then my sister sealed them up in a piece of paper, and put them under
 some dried [[motifs/rose|rose]]-[[motifs/leaves|leaves]] in an ornamental teapot on the top of a press in
-the state parlour. There they remained, a nightmare to me, many and
+the state parlour. There they remained, a [[nightmare]] to me, many and
 many a [[motifs/night|night]] and day.
 
 I had sadly broken [[motifs/sleep|sleep]] when I got to bed, through thinking of the
@@ -3461,16 +3465,16 @@ as she had done before, and again preceded me into the dark passage
 where her candle stood. She took no notice of me until she had the
 candle in her hand, when she looked over her shoulder, superciliously
 saying, “You are to come this way to-day,” and took me to quite another
-part of the house.
+part of the [[house]].
 
 The passage was a long one, and seemed to pervade the whole square
-basement of the Manor House. We traversed but one side of the square,
+basement of the Manor [[house|House]]. We traversed but one side of the square,
 however, and at the end of it she stopped, and put her candle down and
 opened a door. Here, the daylight reappeared, and I found myself in a
 small paved courtyard, the opposite side of which was formed by a
-detached dwelling-house, that looked as if it had once belonged to the
+detached dwelling-[[house]], that looked as if it had once belonged to the
 manager or head clerk of the extinct brewery. There was a [[motifs/clock|clock]] in the
-outer wall of this house. Like the [[motifs/clock|clock]] in [[characters/miss-havisham|Miss Havisham]]’s room, and
+outer wall of this [[house]]. Like the [[motifs/clock|clock]] in [[characters/miss-havisham|Miss Havisham]]’s room, and
 like [[characters/miss-havisham|Miss Havisham]]’s watch, it had stopped at twenty minutes to nine.
 
 We went in at the door, which stood open, and into a gloomy room with a
@@ -3662,7 +3666,7 @@ I was obliged to answer in some confusion, “I don’t think I am, ma’am.”
 
 “Yes, ma’am; I could do that, if I was wanted.”
 
-“Since this house strikes you old and [[motifs/grave|grave]], boy,” said [[characters/miss-havisham|Miss Havisham]],
+“Since this [[house]] strikes you old and [[motifs/grave|grave]], boy,” said [[characters/miss-havisham|Miss Havisham]],
 impatiently, “and you are unwilling to play, are you willing to work?”
 
 I could answer this inquiry with a better heart than I had been able to
@@ -3683,7 +3687,7 @@ darkness. It was spacious, and I dare say had once been handsome, but
 every discernible thing in it was covered with [[motifs/dust|dust]] and mould, and
 dropping to pieces. The most prominent object was a long table with a
 tablecloth spread on it, as if a feast had been in preparation when the
-house and the clocks all stopped together. An epergne or centre-piece
+[[house]] and the clocks all stopped together. An epergne or centre-piece
 of some kind was in the middle of this cloth; it was so heavily
 overhung with cobwebs that its form was quite undistinguishable; and,
 as I looked along the yellow expanse out of which I remember its
@@ -3730,7 +3734,7 @@ Walk me, walk me!”
 I made out from this, that the work I had to do, was to walk Miss
 Havisham round and round the room. Accordingly, I started at once, and
 she leaned upon my shoulder, and we went away at a pace that might have
-been an imitation (founded on my first impulse under that roof) of Mr.
+been an [[Imitation|imitation]] (founded on my first impulse under that roof) of Mr.
 Pumblechook’s chaise-cart.
 
 She was not physically strong, and after a little [[motifs/time|time]] said, “Slower!”
@@ -3948,7 +3952,7 @@ weedy offshoot into the likeness of a battered saucepan.
 When I had exhausted the [[motifs/garden|garden]] and a greenhouse with nothing in it but
 a fallen-down grape-vine and some bottles, I found myself in the dismal
 corner upon which I had looked out of the [[motifs/window|window]]. Never questioning for
-a moment that the house was now empty, I looked in at another [[motifs/window|window]],
+a moment that the [[house]] was now empty, I looked in at another [[motifs/window|window]],
 and found myself, to my great surprise, exchanging a broad stare with a
 pale young gentleman with red eyelids and light hair.
 
@@ -4109,7 +4113,7 @@ When the day came round for my return to the scene of the deed of
 violence, my terrors reached their height. Whether myrmidons of
 Justice, especially sent down from [[settings/london|London]], would be lying in ambush
 behind the gate;—whether [[characters/miss-havisham|Miss Havisham]], preferring to take personal
-vengeance for an outrage done to her house, might rise in those
+vengeance for an outrage done to her [[house]], might rise in those
 [[motifs/grave|grave]]-clothes of hers, draw a [[characters/pistol|pistol]], and shoot me dead:—whether
 suborned boys—a numerous band of mercenaries—might be engaged to fall
 upon me in the brewery, and cuff me until I was no more;—it was high
@@ -4123,7 +4127,7 @@ However, go to [[characters/miss-havisham|Miss Havisham]]’s I must, and go I d
 nothing came of the late struggle. It was not alluded to in any way,
 and no pale young gentleman was to be discovered on the premises. I
 found the same gate open, and I explored the [[motifs/garden|garden]], and even looked in
-at the windows of the detached house; but my view was suddenly stopped
+at the windows of the detached [[house]]; but my view was suddenly stopped
 by the closed shutters within, and all was lifeless. Only in the corner
 where the combat had taken place could I detect any evidence of the
 young gentleman’s existence. There were traces of his gore in that
@@ -4158,7 +4162,7 @@ me I might kiss her again. Sometimes, she would coldly tolerate me;
 sometimes, she would condescend to me; sometimes, she would be quite
 familiar with me; sometimes, she would tell me energetically that she
 hated me. [[characters/miss-havisham|Miss Havisham]] would often ask me in a whisper, or when we
-were alone, “Does she grow prettier and prettier, Pip?” And when I said
+were [[Alone|alone]], “Does she grow prettier and prettier, Pip?” And when I said
 yes (for indeed she did), would seem to enjoy it greedily. Also, when
 we played at cards [[characters/miss-havisham|Miss Havisham]] would look on, with a miserly relish
 of [[characters/estella|Estella]]’s moods, whatever they were. And sometimes, when her moods
@@ -4167,10 +4171,10 @@ what to say or do, [[characters/miss-havisham|Miss Havisham]] would embrace her 
 fondness, murmuring something in her ear that sounded like “Break their
 hearts my [[concepts/pride|pride]] and [[concepts/hope|hope]], break their hearts and have no [[concepts/mercy|mercy]]!”
 
-There was a song Joe used to hum fragments of at the forge, of which
+There was a [[Song|song]] Joe used to hum fragments of at the forge, of which
 the burden was Old Clem. This was not a very ceremonious way of
 rendering homage to a patron saint, but I believe Old Clem stood in
-that relation towards smiths. It was a song that imitated the measure
+that relation towards smiths. It was a [[Song|song]] that imitated the measure
 of beating upon iron, and was a mere lyrical excuse for the
 introduction of Old Clem’s respected name. Thus, you were to hammer
 boys round—Old Clem! With a thump and a sound—Old Clem! Beat it out,
@@ -4184,7 +4188,7 @@ took it up in a low brooding voice as if she were singing in her [[motifs/sleep|
 After that, it became customary with us to have it as we moved about,
 and [[characters/estella|Estella]] would often join in; though the whole strain was so
 subdued, even when there were three of us, that it made less noise in
-the grim old house than the lightest breath of [[motifs/wind|wind]].
+the grim old [[house]] than the lightest breath of [[motifs/wind|wind]].
 
 
 
@@ -4299,7 +4303,7 @@ of such inquiries, she threw a candlestick at Joe, burst into a loud
 sobbing, got out the dustpan,—which was always a very bad sign,—put on
 her coarse apron, and began cleaning up to a terrible extent. Not
 satisfied with a dry cleaning, she took to a pail and scrubbing-brush,
-and cleaned us out of house and [[motifs/home|home]], so that we stood shivering in the
+and cleaned us out of [[house]] and [[motifs/home|home]], so that we stood shivering in the
 back-yard. It was ten o’[[motifs/clock|clock]] at [[motifs/night|night]] before we ventured to creep in
 again, and then she asked Joe why he hadn’t married a Negress Slave at
 once? Joe offered no answer, poor fellow, but stood feeling his whisker
@@ -4343,7 +4347,7 @@ sovereign lady on the Rampage might exhibit her wealth in a pageant or
 procession.
 
 When we came to Pumblechook’s, my sister bounced in and left us. As it
-was almost [[motifs/noon|noon]], Joe and I held straight on to [[characters/miss-havisham|Miss Havisham]]’s house.
+was almost [[motifs/noon|noon]], Joe and I held straight on to [[characters/miss-havisham|Miss Havisham]]’s [[house]].
 [[characters/estella|Estella]] opened the gate as usual, and, the moment she appeared, Joe
 took his hat off and stood weighing it by the brim in both his hands;
 as if he had some urgent reason in his mind for being particular to
@@ -4469,7 +4473,7 @@ know that when he did get out he was steadily proceeding upstairs
 instead of coming down, and was deaf to all remonstrances until I went
 after him and laid hold of him. In another minute we were outside the
 gate, and it was locked, and [[characters/estella|Estella]] was gone. When we stood in the
-daylight alone again, Joe backed up against a wall, and said to me,
+daylight [[Alone|alone]] again, Joe backed up against a wall, and said to me,
 “Astonishing!” And there he remained so long saying, “Astonishing” at
 intervals, so often, that I began to think his senses were never coming
 back. At length he prolonged his remark into “Pip, I do assure _you_
@@ -4637,7 +4641,7 @@ My only other remembrances of the great festival are, That they
 wouldn’t let me go to [[motifs/sleep|sleep]], but whenever they saw me dropping off,
 woke me up and told me to enjoy myself. That, rather late in the
 evening Mr. Wopsle gave us Collins’s ode, and threw his bloodstained
-sword in thunder down, with such effect, that a waiter came in and
+[[Sword|sword]] in thunder down, with such effect, that a waiter came in and
 said, “The Commercials underneath sent up their compliments, and it
 wasn’t the Tumblers’ Arms.” That, they were all in excellent spirits on
 the [[motifs/road|road]] [[motifs/home|home]], and sang, O Lady Fair! Mr. Wopsle taking the bass, and
@@ -4687,7 +4691,7 @@ that I was dusty with the [[motifs/dust|dust]] of small-coal, and that I had a w
 upon my daily remembrance to which the anvil was a feather. There have
 been occasions in my later life (I suppose as in most lives) when I
 have felt for a [[motifs/time|time]] as if a thick curtain had fallen on all its
-interest and romance, to shut me out from anything save dull [[concepts/endurance|endurance]]
+interest and [[Romance|romance]], to shut me out from anything save dull [[concepts/endurance|endurance]]
 any more. Never has that curtain dropped so heavy and blank, as when my
 way in life lay stretched out straight before me through the newly
 entered [[motifs/road|road]] of apprenticeship to Joe.
@@ -4745,7 +4749,7 @@ Chapter XV.
 As I was getting too big for Mr. Wopsle’s great-aunt’s room, my
 [[concepts/education|education]] under that preposterous female terminated. Not, however,
 until [[characters/biddy|Biddy]] had imparted to me everything she knew, from the little
-catalogue of prices, to a comic song she had once bought for a
+catalogue of prices, to a comic [[Song|song]] she had once bought for a
 half-penny. Although the only coherent part of the latter piece of
 literature were the opening lines,
 
@@ -4789,7 +4793,7 @@ at the [[characters/bottom|bottom]] of the [[motifs/water|water]]. Whenever I wa
 to sea with their white sails spread, I somehow thought of Miss
 Havisham and [[characters/estella|Estella]]; and whenever the light struck aslant, afar off,
 upon a cloud or sail or green hillside or [[motifs/water|water]]-line, it was just the
-same.—[[characters/miss-havisham|Miss Havisham]] and [[characters/estella|Estella]] and the strange house and the strange
+same.—[[characters/miss-havisham|Miss Havisham]] and [[characters/estella|Estella]] and the strange [[house]] and the strange
 life appeared to have something to do with everything that was
 picturesque.
 
@@ -4987,7 +4991,7 @@ that way. I wish _I_ was his master!”
 “You’d be everybody’s master, if you durst,” retorted Orlick, with an
 ill-favoured grin.
 
-(“Let her alone,” said Joe.)
+(“Let her [[Alone|alone]],” said Joe.)
 
 “I’d be a match for all noodles and all rogues,” returned my sister,
 beginning to work herself into a mighty rage. “And I couldn’t be a
@@ -4999,7 +5003,7 @@ the worst rogue between this and France. Now!”
 “You’re a foul shrew, Mother Gargery,” growled the journeyman. “If that
 makes a judge of rogues, you ought to be a good’un.”
 
-(“Let her alone, will you?” said Joe.)
+(“Let her [[Alone|alone]], will you?” said Joe.)
 
 “What did you say?” cried my sister, beginning to scream. “What did you
 say? What did that fellow Orlick say to me, Pip? What did he call me,
@@ -5021,16 +5025,16 @@ me! Oh!”
 “Ah-h-h!” growled the journeyman, between his teeth, “I’d hold you, if
 you was my wife. I’d hold you under the pump, and choke it out of you.”
 
-(“I tell you, let her alone,” said Joe.)
+(“I tell you, let her [[Alone|alone]],” said Joe.)
 
 “Oh! To hear him!” cried my sister, with a clap of her hands and a
 scream together,—which was her next stage. “To hear the names he’s
-giving me! That Orlick! In my own house! Me, a married woman! With my
+giving me! That Orlick! In my own [[house]]! Me, a married woman! With my
 husband standing by! Oh! Oh!” Here my sister, after a fit of clappings
 and screamings, beat her hands upon her bosom and upon her knees, and
 threw her cap off, and pulled her hair down,—which were the last stages
 on her [[motifs/road|road]] to frenzy. Being by this [[motifs/time|time]] a perfect Fury and a complete
-success, she made a dash at the door which I had fortunately locked.
+[[success]], she made a dash at the door which I had fortunately locked.
 
 What could the wretched Joe do now, after his disregarded parenthetical
 interruptions, but stand up to his journeyman, and ask him what he
@@ -5044,7 +5048,7 @@ Orlick, as if he had been of no more account than the pale young
 gentleman, was very soon among the coal-[[motifs/dust|dust]], and in no hurry to come
 out of it. Then Joe unlocked the door and picked up my sister, who had
 dropped insensible at the [[motifs/window|window]] (but who had seen the fight first, I
-think), and who was carried into the house and laid down, and who was
+think), and who was carried into the [[house]] and laid down, and who was
 recommended to revive, and would do nothing but struggle and clench her
 hands in Joe’s hair. Then came that singular calm and [[motifs/silence|silence]] which
 succeed all uproars; and then, with the vague sensation which I have
@@ -5078,7 +5082,7 @@ evidently deliberated whether or no she should send me about my
 business. But unwilling to hazard the responsibility, she let me in,
 and presently brought the sharp message that I was to “come up.”
 
-Everything was unchanged, and [[characters/miss-havisham|Miss Havisham]] was alone.
+Everything was unchanged, and [[characters/miss-havisham|Miss Havisham]] was [[Alone|alone]].
 
 “[[motifs/well|Well]]?” said she, fixing her eyes upon me. “I [[concepts/hope|hope]] you want nothing?
 You’ll get nothing.”
@@ -5155,7 +5159,7 @@ and it fell wet and thick. The turnpike lamp was a blur, quite out of
 the lamp’s usual place apparently, and its rays looked solid substance
 on the fog. We were noticing this, and saying how that the mist [[motifs/rose|rose]]
 with a change of [[motifs/wind|wind]] from a certain quarter of our marshes, when we
-came upon a man, slouching under the lee of the turnpike house.
+came upon a man, slouching under the lee of the turnpike [[house]].
 
 “Halloa!” we said, stopping. “Orlick there?”
 
@@ -5215,7 +5219,7 @@ place, Pip. Run all!”
 
 “What is it?” I asked, keeping up with him. So did Orlick, at my side.
 
-“I can’t quite understand. The house seems to have been violently
+“I can’t quite understand. The [[house]] seems to have been violently
 entered when [[characters/joe-gargery|Joe Gargery]] was out. Supposed by convicts. Somebody has
 been attacked and hurt.”
 
@@ -5258,7 +5262,7 @@ her struck down on the floor, and promptly called in assistance. The
 [[motifs/fire|fire]] had not then burnt unusually low, nor was the snuff of the candle
 very long; the candle, however, had been blown out.
 
-Nothing had been taken away from any part of the house. Neither, beyond
+Nothing had been taken away from any part of the [[house]]. Neither, beyond
 the blowing out of the candle,—which stood on a table between the door
 and my sister, and was behind her when she stood facing the [[motifs/fire|fire]] and
 was struck,—was there any disarrangement of the kitchen, excepting such
@@ -5270,7 +5274,7 @@ violence, as she lay on her face. And on the ground beside her, when
 Joe picked her up, was a convict’s leg-iron which had been filed
 asunder.
 
-Now, Joe, examining this iron with a smith’s eye, declared it to have
+Now, Joe, examining this iron with a [[smith]]’s eye, declared it to have
 been filed asunder some [[motifs/time|time]] ago. The hue and cry going off to the
 Hulks, and people coming thence to examine the iron, Joe’s opinion was
 corroborated. They did not undertake to say when it had left the
@@ -5310,7 +5314,7 @@ now, had so grown into me and become a part of myself, that I could not
 tear it away. In addition to the dread that, having led up to so much
 mischief, it would be now more likely than ever to alienate Joe from me
 if he believed it, I had a further restraining dread that he would not
-believe it, but would assort it with the fabulous dogs and veal-cutlets
+believe it, but would assort it with the fabulous [[dogs]] and veal-cutlets
 as a monstrous invention. However, I temporized with myself, of
 course—for, was I not wavering between right and wrong, when the thing
 is always done?—and resolved to make a full disclosure if I should see
@@ -5318,7 +5322,7 @@ any such new occasion as a new chance of helping in the discovery of
 the assailant.
 
 The Constables and the Bow Street men from [[settings/london|London]]—for, this happened in
-the days of the extinct red-waistcoated police—were about the house for
+the days of the extinct red-waistcoated police—were about the [[house]] for
 a week or two, and did pretty much what I have heard and read of like
 authorities doing in other such cases. They took up several obviously
 wrong people, and they ran their heads very hard against wrong ideas,
@@ -5438,11 +5442,11 @@ the guinea on the first occasion, but with no better effect than
 causing her to ask me very angrily, if I expected more? Then, and after
 that, I took it.
 
-So unchanging was the dull old house, the yellow light in the darkened
+So unchanging was the dull old [[house]], the yellow light in the darkened
 room, the faded spectre in the chair by the dressing-table glass, that
 I felt as if the stopping of the clocks had stopped [[motifs/time|Time]] in that
 mysterious place, and, while I and everything else outside it grew
-older, it stood still. Daylight never entered the house as to my
+older, it stood still. Daylight never entered the [[house]] as to my
 thoughts and remembrances of it, any more than as to the actual fact.
 It bewildered me, and under its influence I continued at heart to hate
 my trade and to be ashamed of [[motifs/home|home]].
@@ -5532,7 +5536,7 @@ making her more comfortable; “that’s sadly true!”
 And I must consult you a little more, as I used to do. Let us have a
 quiet walk on the marshes next [[characters/sunday|Sunday]], [[characters/biddy|Biddy]], and a long chat.”
 
-My sister was never left alone now; but Joe more than readily undertook
+My sister was never left [[Alone|alone]] now; but Joe more than readily undertook
 the care of her on that [[characters/sunday|Sunday]] afternoon, and [[characters/biddy|Biddy]] and I went out
 together. It was [[motifs/summer|summer]]-[[motifs/time|time]], and lovely weather. When we had passed
 the village and the church and the churchyard, and were out on the
@@ -5817,7 +5821,7 @@ in [[motifs/blood|blood]] to the eyebrows. He gloated over every abhorrent adjec
 the description, and identified himself with every witness at the
 Inquest. He faintly moaned, “I am done for,” as the victim, and he
 barbarously bellowed, “I’ll serve you out,” as the murderer. He gave
-the medical testimony, in pointed imitation of our local practitioner;
+the medical testimony, in pointed [[Imitation|imitation]] of our local practitioner;
 and he piped and shook, as the aged turnpike-keeper who had heard
 blows, to an extent so very paralytic as to suggest a [[concepts/doubt|doubt]] regarding
 the mental competency of that witness. The coroner, in Mr. Wopsle’s
@@ -6160,7 +6164,7 @@ mention of Mr. Matthew Pocket—
 “_That_’s more like it!” cried Mr. Jaggers.—And (I added), I would
 gladly try that gentleman.
 
-“Good. You had better try him in his own house. The way shall be
+“Good. You had better try him in his own [[house]]. The way shall be
 prepared for you, and you can see his son first, who is in [[settings/london|London]]. When
 will you come to [[settings/london|London]]?”
 
@@ -6339,7 +6343,7 @@ to air the room. The very [[motifs/stars|stars]] to which I then raised my eyes,
 afraid I took to be but poor and humble [[motifs/stars|stars]] for glittering on the
 rustic objects among which I had passed my life.
 
-“Saturday [[motifs/night|night]],” said I, when we sat at our supper of bread and cheese
+“Saturday [[motifs/night|night]],” said I, when we sat at our supper of bread and [[cheese]]
 and beer. “Five more days, and then the day before _the_ day! They’ll
 soon go.”
 
@@ -6360,7 +6364,7 @@ would be very disagreeable to be stared at by all the people here.”
 
 
 “Mr. and Mrs. Hubble might like to see you in your new gen-teel figure
-too, Pip,” said Joe, industriously cutting his bread, with his cheese
+too, Pip,” said Joe, industriously cutting his bread, with his [[cheese]]
 on it, in the palm of his left hand, and glancing at my untasted supper
 as if he thought of the [[motifs/time|time]] when we used to compare slices. “So might
 Wopsle. And the Jolly Bargemen might take it as a compliment.”
@@ -6439,7 +6443,7 @@ all the novelty of my emancipation on me, I went to church with Joe,
 and thought perhaps the clergyman wouldn’t have read that about the
 rich man and the kingdom of Heaven, if he had known all.
 
-After our early dinner, I strolled out alone, purposing to finish off
+After our early dinner, I strolled out [[Alone|alone]], purposing to finish off
 the marshes at once, and get them done with. As I passed the church, I
 felt (as I had felt during service in the morning) a [[concepts/sublime|sublime]] compassion
 for the poor creatures who were destined to go there, [[characters/sunday|Sunday]] after
@@ -6462,7 +6466,7 @@ grazing cattle,—though they seemed, in their dull manner, to wear a
 more respectful air now, and to face round, in order that they might
 stare as long as possible at the possessor of such great
 expectations,—farewell, monotonous acquaintances of my [[motifs/childhood|childhood]],
-henceforth I was for [[settings/london|London]] and [[concepts/greatness|greatness]]; not for smith’s work in
+henceforth I was for [[settings/london|London]] and [[concepts/greatness|greatness]]; not for [[smith]]’s work in
 general, and for you! I made my exultant way to the old Battery, and,
 lying down there to consider the question whether [[characters/miss-havisham|Miss Havisham]]
 intended me for [[characters/estella|Estella]], fell asleep.
@@ -6593,7 +6597,7 @@ unjust neither,” said [[characters/biddy|Biddy]], turning away her head.
 I again warmly repeated that it was a bad side of human [[concepts/nature|nature]] (in
 which sentiment, waiving its application, I have since seen reason to
 think I was right), and I walked down the little path away from [[characters/biddy|Biddy]],
-and [[characters/biddy|Biddy]] went into the house, and I went out at the [[motifs/garden|garden]] gate and
+and [[characters/biddy|Biddy]] went into the [[house]], and I went out at the [[motifs/garden|garden]] gate and
 took a dejected stroll until supper-[[motifs/time|time]]; again feeling it very
 sorrowful and strange that this, the second [[motifs/night|night]] of my bright
 fortunes, should be as lonely and unsatisfactory as the first.
@@ -6674,7 +6678,7 @@ calculated me in the parlour, as if I were an estate and he the finest
 species of surveyor, and gave himself such a world of trouble that I
 felt that no suit of clothes could possibly remunerate him for his
 pains. When he had at last done and had appointed to send the articles
-to Mr. Pumblechook’s on the Thursday evening, he said, with his hand
+to Mr. Pumblechook’s on the [[thursday|Thursday]] evening, he said, with his hand
 upon the parlour lock, “I know, sir, that [[settings/london|London]] gentlemen cannot be
 expected to patronise local work, as a rule; but if you would give me a
 turn now and then in the quality of a townsman, I should greatly esteem
@@ -6709,7 +6713,7 @@ prepared a collation for me in the Barnwell parlour, and he too ordered
 his shopman to “come out of the gangway” as my sacred person passed.
 
 “My dear friend,” said Mr. Pumblechook, taking me by both hands, when
-he and I and the collation were alone, “I give you joy of your good
+he and I and the collation were [[Alone|alone]], “I give you joy of your good
 fortune. [[motifs/well|Well]] deserved, [[motifs/well|well]] deserved!”
 
 This was coming to the point, and I thought it a sensible way of
@@ -6792,7 +6796,7 @@ At about this [[motifs/time|time]], I began to observe that he was getting flush
 the face; as to myself, I felt all face, steeped in wine and smarting.
 
 I mentioned to Mr. Pumblechook that I wished to have my new clothes
-sent to his house, and he was ecstatic on my so distinguishing him. I
+sent to his [[house]], and he was ecstatic on my so distinguishing him. I
 mentioned my reason for desiring to avoid observation in the village,
 and he lauded it to the skies. There was nobody but himself, he
 intimated, worthy of my confidence, and—in short, might he? Then he
@@ -6815,7 +6819,7 @@ By degrees he fell to reposing such great confidence in me, as to ask
 my advice in reference to his own affairs. He mentioned that there was
 an opportunity for a great amalgamation and monopoly of the corn and
 seed trade on those premises, if enlarged, such as had never occurred
-before in that or any other neighbourhood. What alone was wanting to
+before in that or any other neighbourhood. What [[Alone|alone]] was wanting to
 the realisation of a vast fortune, he considered to be More Capital.
 Those were the two little words, more capital. Now it appeared to him
 (Pumblechook) that if that capital were got into the business, through
@@ -6862,7 +6866,7 @@ I possessed was adapted to my new station. But I began packing that
 same afternoon, and wildly packed up things that I knew I should want
 next morning, in a fiction that there was not a moment to be lost.
 
-So, Tuesday, Wednesday, and Thursday, passed; and on Friday morning I
+So, Tuesday, Wednesday, and [[thursday|Thursday]], passed; and on Friday morning I
 went to Mr. Pumblechook’s, to put on my new clothes and pay my visit to
 [[characters/miss-havisham|Miss Havisham]]. Mr. Pumblechook’s own room was given up to me to dress
 in, and was decorated with clean towels expressly for the event. My
@@ -6959,7 +6963,7 @@ Sarah Pocket conducted me down, as if I were a [[archetypes/ghost|ghost]] who mu
 out. She could not get over my appearance, and was in the last degree
 confounded. I said “Good-bye, Miss Pocket;” but she merely stared, and
 did not seem collected enough to know that I had spoken. Clear of the
-house, I made the best of my way back to Pumblechook’s, took off my new
+[[house]], I made the best of my way back to Pumblechook’s, took off my new
 clothes, made them into a bundle, and went back [[motifs/home|home]] in my older dress,
 carrying it—to speak the [[concepts/truth|truth]]—much more at my ease too, though I had
 the bundle to carry.
@@ -6977,7 +6981,7 @@ spirits.
 
 I was to leave our village at five in the morning, carrying my little
 hand-portmanteau, and I had told Joe that I wished to walk away all
-alone. I am afraid—sore afraid—that this purpose originated in my sense
+[[Alone|alone]]. I am afraid—sore afraid—that this purpose originated in my sense
 of the contrast there would be between me and Joe, if we went to the
 coach together. I had pretended with myself that there was nothing of
 this taint in the arrangement; but when I went up to my little room on
@@ -6986,7 +6990,7 @@ an impulse upon me to go down again and entreat Joe to walk with me in
 the morning. I did not.
 
 All [[motifs/night|night]] there were coaches in my broken [[motifs/sleep|sleep]], going to wrong places
-instead of to [[settings/london|London]], and having in the traces, now dogs, now cats, now
+instead of to [[settings/london|London]], and having in the traces, now [[dogs]], now cats, now
 pigs, now men,—never horses. Fantastic failures of journeys occupied me
 until the day dawned and the [[motifs/birds|birds]] were singing. Then, I got up and
 partly dressed, and sat at the [[motifs/window|window]] to take a last look out, and in
@@ -7120,7 +7124,7 @@ being interrupted in the perusal of the newspaper.
 
 I began to say that I hoped I was not interrupting, when the clerk
 shoved this gentleman out with as little ceremony as I ever saw used,
-and tossing his fur cap out after him, left me alone.
+and tossing his fur cap out after him, left me [[Alone|alone]].
 
 Mr. Jaggers’s room was lighted by a skylight only, and was a most
 dismal place; the skylight, eccentrically pitched like a broken head,
@@ -7128,7 +7132,7 @@ and the distorted adjoining houses looking as if they had twisted
 themselves to peep down at me through it. There were not so many papers
 about, as I should have expected to see; and there were some odd
 objects about, that I should not have expected to see,—such as an old
-rusty [[characters/pistol|pistol]], a sword in a scabbard, several strange-looking boxes and
+rusty [[characters/pistol|pistol]], a [[Sword|sword]] in a scabbard, several strange-looking boxes and
 packages, and two dreadful casts on a shelf, of faces peculiarly
 swollen, and twitchy about the nose. Mr. Jaggers’s own high-backed
 chair was of deadly black horsehair, with rows of brass nails round it,
@@ -7392,7 +7396,7 @@ to bully his very sandwich as he ate it), informed me what arrangements
 he had made for me. I was to go to “Barnard’s Inn,” to young Mr.
 Pocket’s rooms, where a bed had been sent in for my accommodation; I
 was to remain with young Mr. Pocket until Monday; on Monday I was to go
-with him to his father’s house on a visit, that I might try how I liked
+with him to his father’s [[house]] on a visit, that I might try how I liked
 it. Also, I was told what my allowance was to be,—it was a very liberal
 one,—and had handed to me from one of my guardian’s drawers, the cards
 of certain tradesmen with whom I was to deal for all kinds of clothes,
@@ -7497,7 +7501,7 @@ at his block of a face in search of any encouraging note to the text,
 when he said here we were at Barnard’s Inn. My depression was not
 alleviated by the announcement, for, I had supposed that establishment
 to be an hotel kept by Mr. Barnard, to which the Blue Boar in our town
-was a mere public-house. Whereas I now found Barnard to be a
+was a mere public-[[house]]. Whereas I now found Barnard to be a
 disembodied spirit, or a fiction, and his inn the dingiest collection
 of shabby buildings ever squeezed together in a rank corner as a club
 for Tom-cats.
@@ -7585,7 +7589,7 @@ Market to get it good.”
 
 For a reason that I had, I felt as if my eyes would start out of my
 head. I acknowledged his attention incoherently, and began to think
-this was a dream.
+this was [[A Dream|a dream]].
 
 “Dear me!” said Mr. Pocket, Junior. “This door sticks so!”
 
@@ -7595,7 +7599,7 @@ them. He relinquished them with an agreeable smile, and combated with
 the door as if it were a wild beast. It yielded so suddenly at last,
 that he staggered back upon me, and I staggered back upon the opposite
 door, and we both laughed. But still I felt as if my eyes must start
-out of my head, and as if this must be a dream.
+out of my head, and as if this must be [[A Dream|a dream]].
 
 “Pray come in,” said Mr. Pocket, Junior. “Allow me to lead the way. I
 am rather bare here, but I [[concepts/hope|hope]] you’ll be able to make out tolerably
@@ -7603,18 +7607,18 @@ am rather bare here, but I [[concepts/hope|hope]] you’ll be able to make out t
 through to-morrow with me than with him, and might like to take a walk
 about [[settings/london|London]]. I am sure I shall be very happy to show [[settings/london|London]] to you. As
 to our table, you won’t find that bad, I [[concepts/hope|hope]], for it will be supplied
-from our coffee-house here, and (it is only right I should add) at your
+from our coffee-[[house]] here, and (it is only right I should add) at your
 expense, such being Mr. Jaggers’s directions. As to our lodging, it’s
 not by any means splendid, because I have my own bread to earn, and my
 father hasn’t anything to give me, and I shouldn’t be willing to take
 it, if he had. This is our sitting-room,—just such chairs and tables
 and carpet and so forth, you see, as they could spare from [[motifs/home|home]]. You
 mustn’t give me credit for the tablecloth and spoons and castors,
-because they come for you from the coffee-house. This is my little
+because they come for you from the coffee-[[house]]. This is my little
 bedroom; rather musty, but Barnard’s _is_ musty. This is your bedroom;
 the furniture’s hired for the occasion, but I trust it will answer the
 purpose; if you should want anything, I’ll go and fetch it. The
-chambers are retired, and we shall be alone together, but we shan’t
+chambers are retired, and we shall be [[Alone|alone]] together, but we shan’t
 fight, I dare say. But dear me, I beg your pardon, you’re holding the
 fruit all this [[motifs/time|time]]. Pray let me take these bags from you. I am quite
 ashamed.”
@@ -7713,7 +7717,7 @@ her confidence when nobody else has?”
 
 This was bringing me (I felt) towards dangerous ground. I answered with
 a constraint I made no attempt to disguise, that I had seen Mr. Jaggers
-in [[characters/miss-havisham|Miss Havisham]]’s house on the very day of our combat, but never at
+in [[characters/miss-havisham|Miss Havisham]]’s [[house]] on the very day of our combat, but never at
 any other [[motifs/time|time]], and that I believed he had no recollection of having
 ever seen me there.
 
@@ -7793,11 +7797,11 @@ circumstances, with no old people by, and with [[settings/london|London]] all ar
 This again was heightened by a certain gypsy character that set the
 banquet off; for while the table was, as Mr. Pumblechook might have
 said, the lap of luxury,—being entirely furnished forth from the
-coffee-house,—the circumjacent region of sitting-room was of a
+coffee-[[house]],—the circumjacent region of sitting-room was of a
 comparatively pastureless and shifty character; imposing on the waiter
 the wandering habits of putting the covers on the floor (where he fell
 over them), the melted butter in the arm-chair, the bread on the
-bookshelves, the cheese in the coal-scuttle, and the boiled fowl into
+bookshelves, the [[cheese]] in the coal-scuttle, and the boiled fowl into
 my bed in the next room,—where I found much of its parsley and butter
 in a state of congelation when I retired for the [[motifs/night|night]]. All this made
 the feast delightful, and when the waiter was not there to watch me, my
@@ -7827,9 +7831,9 @@ a crack thing to be a brewer; but it is indisputable that while you
 cannot possibly be genteel and bake, you may be as genteel as never was
 and brew. You see it every day.”
 
-“Yet a gentleman may not keep a public-house; may he?” said I.
+“Yet a gentleman may not keep a public-[[house]]; may he?” said I.
 
-“Not on any account,” returned Herbert; “but a public-house may keep a
+“Not on any account,” returned Herbert; “but a public-[[house]] may keep a
 gentleman. [[motifs/well|Well]]! Mr. Havisham was very rich and very proud. So was his
 daughter.”
 
@@ -7844,7 +7848,7 @@ rather think.”
 “My good Handel, so he was. He married his second wife privately,
 because he was proud, and in course of [[motifs/time|time]] _she_ died. When she was
 dead, I apprehend he first told his daughter what he had done, and then
-the son became a part of the family, residing in the house you are
+the son became a part of the family, residing in the [[house]] you are
 acquainted with. As the son grew a young man, he turned out riotous,
 extravagant, undutiful,—altogether bad. At last his father disinherited
 him; but he softened when he was dying, and left him [[motifs/well|well]] off, though
@@ -7898,7 +7902,7 @@ the exception of my father; he was poor enough, but not [[motifs/time|time]]-ser
 jealous. The only independent one among them, he warned her that she
 was doing too much for this man, and was placing herself too
 unreservedly in his power. She took the first opportunity of angrily
-ordering my father out of the house, in his presence, and my father has
+ordering my father out of the [[house]], in his presence, and my father has
 never seen her since.”
 
 
@@ -8026,9 +8030,9 @@ him where the ships he insured mostly traded to at present?
 Somehow, that pursuit seemed more in keeping with Barnard’s Inn. I said
 (in a tone of conviction), “Ah-h!”
 
-“Yes. I am in a counting-house, and looking about me.”
+“Yes. I am in a counting-[[house]], and looking about me.”
 
-“Is a counting-house profitable?” I asked.
+“Is a counting-[[house]] profitable?” I asked.
 
 “To—do you mean to the young fellow who’s in it?” he asked, in reply.
 
@@ -8043,7 +8047,7 @@ if I would imply that it would be difficult to lay by much accumulative
 capital from such a source of income.
 
 “But the thing is,” said [[characters/herbert-pocket|Herbert Pocket]], “that you look about you.
-_That’s_ the grand thing. You are in a counting-house, you know, and
+_That’s_ the grand thing. You are in a counting-[[house]], you know, and
 you look about you.”
 
 
@@ -8053,7 +8057,7 @@ you look about you.”
 
 
 It struck me as a singular implication that you couldn’t be out of a
-counting-house, you know, and look about you; but I silently deferred
+counting-[[house]], you know, and look about you; but I silently deferred
 to his experience.
 
 “Then the [[motifs/time|time]] comes,” said Herbert, “when you see your opening. And
@@ -8067,7 +8071,7 @@ to his manner of bearing that defeat. It seemed to me that he took all
 blows and buffets now with just the same air as he had taken mine then.
 It was evident that he had nothing around him but the simplest
 necessaries, for everything that I remarked upon turned out to have
-been sent in on my account from the coffee-house or somewhere else.
+been sent in on my account from the coffee-[[house]] or somewhere else.
 
 Yet, having already made his fortune in his own mind, he was so
 unassuming with it that I felt quite grateful to him for not being
@@ -8092,13 +8096,13 @@ about Barnard’s Inn, under pretence of watching it, fell hollow on my
 heart.
 
 On the Monday morning at a quarter before nine, Herbert went to the
-counting-house to report himself,—to look about him, too, I
+counting-[[house]] to report himself,—to look about him, too, I
 suppose,—and I bore him company. He was to come away in an hour or two
 to attend me to Hammersmith, and I was to wait about for him. It
 appeared to me that the eggs from which young Insurers were hatched
 were incubated in [[motifs/dust|dust]] and heat, like the eggs of ostriches, judging
 from the places to which those incipient giants repaired on a Monday
-morning. Nor did the counting-house where Herbert assisted, show in my
+morning. Nor did the counting-[[house]] where Herbert assisted, show in my
 eyes as at all a good Observatory; being a back second floor up a yard,
 of a grimy presence in all particulars, and with a look into another
 back second floor, rather than a look out.
@@ -8107,7 +8111,7 @@ I waited about until it was [[motifs/noon|noon]], and I went upon ’Change, and
 fluey men sitting there under the bills about shipping, whom I took to
 be great merchants, though I couldn’t understand why they should all be
 out of spirits. When Herbert came, we went and had lunch at a
-celebrated house which I then quite venerated, but now believe to have
+celebrated [[house]] which I then quite venerated, but now believe to have
 been the most abject superstition in Europe, and where I could not help
 noticing, even then, that there was much more gravy on the tablecloths
 and knives and waiters’ clothes, than in the steaks. This collation
@@ -8115,7 +8119,7 @@ disposed of at a moderate price (considering the grease, which was not
 charged for), we went back to Barnard’s Inn and got my little
 portmanteau, and then took coach for Hammersmith. We arrived there at
 two or three o’[[motifs/clock|clock]] in the afternoon, and had very little way to walk
-to Mr. Pocket’s house. Lifting the latch of a gate, we passed direct
+to Mr. Pocket’s [[house]]. Lifting the latch of a gate, we passed direct
 into a little [[motifs/garden|garden]] overlooking the [[motifs/river|river]], where Mr. Pocket’s children
 were playing about. And unless I deceive myself on a point where my
 interests or prepossessions are certainly not concerned, I saw that Mr.
@@ -8160,7 +8164,7 @@ region of air, wailing dolefully.
 “If there ain’t Baby!” said Flopson, appearing to think it most
 surprising. “Make haste up, Millers.”
 
-Millers, who was the other [[characters/nurse|nurse]], retired into the house, and by
+Millers, who was the other [[characters/nurse|nurse]], retired into the [[house]], and by
 degrees the [[archetypes/child|child]]’s wailing was hushed and stopped, as if it were a
 young ventriloquist with something in its mouth. Mrs. Pocket read all
 the [[motifs/time|time]], and I was curious to know what the book could be.
@@ -8192,12 +8196,12 @@ baby, Mum, and give me your book.”
 Mrs. Pocket acted on the advice, and inexpertly danced the infant a
 little in her lap, while the other children played about it. This had
 lasted but a very short [[motifs/time|time]], when Mrs. Pocket issued summary orders
-that they were all to be taken into the house for a nap. Thus I made
+that they were all to be taken into the [[house]] for a nap. Thus I made
 the second discovery on that first occasion, that the nurture of the
 little Pockets consisted of alternately tumbling up and lying down.
 
 Under these circumstances, when Flopson and Millers had got the
-children into the house, like a little flock of sheep, and Mr. Pocket
+children into the [[house]], like a little flock of sheep, and Mr. Pocket
 came out of it to make my acquaintance, I was not much surprised to
 find that Mr. Pocket was a gentleman with a rather perplexed expression
 of face, and with his very grey hair disordered on his head, as if he
@@ -8265,7 +8269,7 @@ Pocket was in general the object of a queer sort of respectful pity,
 because she had not married a title; while Mr. Pocket was the object of
 a queer sort of forgiving reproach, because he had never got one.
 
-Mr. Pocket took me into the house and showed me my room: which was a
+Mr. Pocket took me into the [[house]] and showed me my room: which was a
 pleasant one, and so furnished as that I could use it with comfort for
 my own private sitting-room. He then knocked at the doors of two other
 similar rooms, and introduced me to their occupants, by name Drummle
@@ -8275,14 +8279,14 @@ was reading and holding his head, as if he thought himself in danger of
 exploding it with too strong a charge of knowledge.
 
 Both Mr. and Mrs. Pocket had such a noticeable air of being in somebody
-else’s hands, that I wondered who really was in possession of the house
+else’s hands, that I wondered who really was in possession of the [[house]]
 and let them live there, until I found this unknown power to be the
 servants. It was a smooth way of going on, perhaps, in respect of
 saving trouble; but it had the appearance of being expensive, for the
 servants felt it a duty they owed to themselves to be nice in their
 eating and drinking, and to keep a deal of company downstairs. They
 allowed a very liberal table to Mr. and Mrs. Pocket, yet it always
-appeared to me that by far the best part of the house to have boarded
+appeared to me that by far the best part of the [[house]] to have boarded
 in would have been the kitchen,—always supposing the boarder capable of
 [[concepts/self|self]]-defence, for, before I had been there a week, a neighbouring lady
 with whom the family were personally unacquainted, wrote in to say that
@@ -8304,7 +8308,7 @@ had “read” with divers who had lacked opportunities or neglected them,
 and had refurbished divers others for special occasions, and had turned
 his acquirements to the account of literary compilation and correction,
 and on such means, added to some very moderate private resources, still
-maintained the house I saw.
+maintained the [[house]] I saw.
 
 Mr. and Mrs. Pocket had a toady neighbour; a widow lady of that highly
 sympathetic [[concepts/nature|nature]] that she agreed with everybody, blessed everybody,
@@ -8542,7 +8546,7 @@ mischief?”
 
 Mr. Pocket uttered a dismal groan.
 
-“Am I, grandpapa’s granddaughter, to be nothing in the house?” said
+“Am I, grandpapa’s granddaughter, to be nothing in the [[house]]?” said
 Mrs. Pocket. “Besides, the cook has always been a very nice respectful
 woman, and said in the most natural manner when she came to look after
 the situation, that she felt I was born to be a Duchess.”
@@ -8683,7 +8687,7 @@ you like to see ’em? You are one of us, as I may say.”
 I accepted the offer. When Mr. Wemmick had put all the biscuit into the
 post, and had paid me my money from a cash-box in a safe, the key of
 which safe he kept somewhere down his back and produced from his
-coat-collar like an iron-pigtail, we went upstairs. The house was dark
+coat-collar like an iron-pigtail, we went upstairs. The [[house]] was dark
 and shabby, and the greasy shoulders that had left their mark in Mr.
 Jaggers’s room seemed to have been shuffling up and down the staircase
 for years. In the front first floor, a clerk who looked something
@@ -8777,7 +8781,7 @@ friendly manner:—
 mind coming over to see me at Walworth, I could offer you a bed, and I
 should consider it an [[concepts/honour|honour]]. I have not much to show you; but such two
 or three curiosities as I have got you might like to look over; and I
-am fond of a bit of [[motifs/garden|garden]] and a [[motifs/summer|summer]]-house.”
+am fond of a bit of [[motifs/garden|garden]] and a [[motifs/summer|summer]]-[[house]].”
 
 I said I should be delighted to accept his hospitality.
 
@@ -8851,7 +8855,7 @@ me—“exactly like his mother.” It was but natural that I should take to
 him much more kindly than to Drummle, and that, even in the earliest
 evenings of our boating, he and I should pull homeward abreast of one
 another, conversing from boat to boat, while Bentley Drummle came up in
-our wake alone, under the overhanging banks and among the rushes. He
+our wake [[Alone|alone]], under the overhanging banks and among the rushes. He
 would always creep in-shore like some uncomfortable amphibious
 creature, even when the tide would have sent him fast upon his way; and
 I always think of him as coming after us in the dark or by the
@@ -8931,7 +8935,7 @@ intimate associates, I answered, “Yes.”
 “[[motifs/well|Well]], he’s going to ask the whole gang,”—I hardly felt complimented by
 the word,—“and whatever he gives you, he’ll give you good. Don’t look
 forward to variety, but you’ll have excellence. And there’s another rum
-thing in his house,” proceeded Wemmick, after a moment’s pause, as if
+thing in his [[house]],” proceeded Wemmick, after a moment’s pause, as if
 the remark followed on the housekeeper understood; “he never lets a
 door or [[motifs/window|window]] be fastened at [[motifs/night|night]].”
 
@@ -8987,13 +8991,13 @@ district of Walworth.
 
 It appeared to be a collection of back lanes, ditches, and little
 gardens, and to present the aspect of a rather dull retirement.
-Wemmick’s house was a little wooden cottage in the midst of plots of
+Wemmick’s [[house]] was a little wooden cottage in the midst of plots of
 [[motifs/garden|garden]], and the top of it was cut out and painted like a battery
 mounted with guns.
 
 “My own doing,” said Wemmick. “Looks pretty; don’t it?”
 
-I highly commended it, I think it was the smallest house I ever saw;
+I highly commended it, I think it was the smallest [[house]] I ever saw;
 with the queerest gothic windows (by far the greater part of them
 sham), and a gothic door almost too small to get in at.
 
@@ -9196,8 +9200,8 @@ the streets, and whenever that happened he talked louder to me; but he
 never otherwise recognised anybody, or took notice that anybody
 recognised him.
 
-He conducted us to Gerrard Street, Soho, to a house on the south side
-of that street. Rather a stately house of its kind, but dolefully in
+He conducted us to Gerrard Street, Soho, to a [[house]] on the south side
+of that street. Rather a stately [[house]] of its kind, but dolefully in
 want of painting, and with dirty windows. He took out his key and
 opened the door, and we all went into a stone hall, bare, gloomy, and
 little used. So, up a dark brown staircase into a series of three dark
@@ -9207,7 +9211,7 @@ what kind of loops I thought they looked like.
 
 Dinner was laid in the best of these rooms; the second was his
 dressing-room; the third, his bedroom. He told us that he held the
-whole house, but rarely used more of it than we saw. The table was
+whole [[house]], but rarely used more of it than we saw. The table was
 comfortably laid—no silver in the service, of course—and at the side of
 his chair was a capacious dumb-waiter, with a variety of bottles and
 decanters on it, and four dishes of fruit for dessert. I noticed
@@ -9298,7 +9302,7 @@ lips. It was so with all of us, but with no one more than Drummle: the
 development of whose inclination to gird in a grudging and suspicious
 way at the rest, was screwed out of him before the fish was taken off.
 
-It was not then, but when we had got to the cheese, that our
+It was not then, but when we had got to the [[cheese]], that our
 conversation turned upon our rowing feats, and that Drummle was rallied
 for coming up behind of a [[motifs/night|night]] in that slow amphibious way of his.
 Drummle upon this, informed our host that he much preferred our room to
@@ -9420,7 +9424,7 @@ being a lively, bright young fellow, and Drummle being the exact
 opposite, the latter was always disposed to resent him as a direct
 personal affront. He now retorted in a coarse, lumpish way, and Startop
 tried to turn the discussion aside with some small pleasantry that made
-us all laugh. Resenting this little success more than anything,
+us all laugh. Resenting this little [[success]] more than anything,
 Drummle, without any threat or warning, pulled his hands out of his
 pockets, dropped his round shoulders, swore, took up a large glass, and
 would have flung it at his adversary’s head, but for our entertainer’s
@@ -9469,7 +9473,7 @@ am, don’t you? Good [[motifs/night|night]], Pip.”
 “Good [[motifs/night|night]], sir.”
 
 In about a month after that, the Spider’s [[motifs/time|time]] with Mr. Pocket was up
-for good, and, to the great relief of all the house but Mrs. Pocket, he
+for good, and, to the great relief of all the [[house]] but Mrs. Pocket, he
 went [[motifs/home|home]] to the family hole.
 
 
@@ -9586,7 +9590,7 @@ friends is no backerder, if not no forarder. ’Ceptin Wopsle; he’s had a
 drop.”
 
 All this [[motifs/time|time]] (still with both hands taking great care of the
-bird’s-nest), Joe was rolling his eyes round and round the room, and
+bird’s-nest), Joe was [[rolling]] his eyes round and round the room, and
 round and round the flowered pattern of my dressing-gown.
 
 “Had a drop, Joe?”
@@ -9716,7 +9720,7 @@ all my fault, and that if I had been easier with Joe, Joe would have
 been easier with me. I felt impatient of him and out of temper with
 him; in which condition he heaped coals of [[motifs/fire|fire]] on my head.
 
-“Us two being now alone, sir,”—began Joe.
+“Us two being now [[Alone|alone]], sir,”—began Joe.
 
 “Joe,” I interrupted, pettishly, “how can you call me, sir?”
 
@@ -9730,7 +9734,7 @@ were, I was conscious of a sort of dignity in the look.
 <span class="atom-split" data-atom="chapter_27--part_03" data-title="Great Expectations — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/night,motif/time,motif/well,motif/window,concept/honour,concept/hope,setting/london,character/biddy,character/estella,character/miss_havisham"></span>
 
 
-“Us two being now alone,” resumed Joe, “and me having the intentions
+“Us two being now [[Alone|alone]],” resumed Joe, “and me having the intentions
 and abilities to stay not many minutes more, I will now
 conclude—leastways begin—to mention what have led to my having had the
 present [[concepts/honour|honour]]. For was it not,” said Joe, with his old air of lucid
@@ -9976,7 +9980,7 @@ in my shrinking endeavours to fend him off.
 
 The weather was miserably raw, and the two cursed the cold. It made us
 all lethargic before we had gone far, and when we had left the Half-way
-House behind, we habitually dozed and shivered and were silent. I dozed
+[[house|House]] behind, we habitually dozed and shivered and were silent. I dozed
 off, myself, in considering the question whether I ought to restore a
 couple of pounds sterling to this creature before losing sight of him,
 and how it could best be done. In the act of dipping forward as if I
@@ -10047,7 +10051,7 @@ first stones of the town pavement. As to the convicts, they went their
 way with the coach, and I knew at what point they would be spirited off
 to the [[motifs/river|river]]. In my fancy, I saw the boat with its convict crew waiting
 for them at the slime-washed stairs,—again heard the gruff “Give way,
-you!” like an order to dogs,—again saw the wicked Noah’s Ark lying out
+you!” like an order to [[dogs]],—again saw the wicked Noah’s Ark lying out
 on the black [[motifs/water|water]].
 
 I could not have said what I was afraid of, for my [[concepts/fear|fear]] was altogether
@@ -10072,7 +10076,7 @@ paragraph:—
 
 Our readers will learn, not altogether without interest, in reference
 to the recent romantic rise in fortune of a young artificer in iron of
-this neighbourhood (what a theme, by the way, for the magic pen of our
+this neighbourhood (what a theme, by the way, for the [[Magic|magic]] pen of our
 as yet not universally acknowledged townsman TOOBY, the poet of our
 columns!) that the youth’s earliest patron, companion, and friend, was
 a highly respected individual not entirely unconnected with the corn
@@ -10108,11 +10112,11 @@ me.
 
 She had adopted [[characters/estella|Estella]], she had as good as adopted me, and it could
 not fail to be her intention to bring us together. She reserved it for
-me to restore the desolate house, admit the sunshine into the dark
+me to restore the desolate [[house]], admit the sunshine into the dark
 rooms, set the clocks a-going and the cold hearths a-blazing, tear down
 the cobwebs, destroy the vermin,—in short, do all the shining deeds of
-the young Knight of romance, and marry the Princess. I had stopped to
-look at the house as I passed; and its seared red brick walls, blocked
+the young Knight of [[Romance|romance]], and marry the Princess. I had stopped to
+look at the [[house]] as I passed; and its seared red brick walls, blocked
 windows, and strong green ivy clasping even the stacks of chimneys with
 its twigs and tendons, as if with sinewy old arms, had made up a rich
 attractive mystery, of which I was the [[archetypes/hero|hero]]. [[characters/estella|Estella]] was the
@@ -10152,7 +10156,7 @@ in. It’s opposed to my orders to hold the gate open.”
 
 I entered and he swung it, and locked it, and took the key out. “Yes!”
 said he, facing round, after doggedly preceding me a few steps towards
-the house. “Here I am!”
+the [[house]]. “Here I am!”
 
 “How did you come here?”
 
@@ -10181,7 +10185,7 @@ without casting it up. However, I come here some [[motifs/time|time]] since you 
 
 “Ah!” said he, dryly. “But then you’ve got to be a scholar.”
 
-By this [[motifs/time|time]] we had come to the house, where I found his room to be one
+By this [[motifs/time|time]] we had come to the [[house]], where I found his room to be one
 just within the side-door, with a little [[motifs/window|window]] in it looking on the
 courtyard. In its small proportions, it was not unlike the kind of
 place usually assigned to a gate-porter in [[settings/paris|Paris]]. Certain keys were
@@ -10384,7 +10388,7 @@ after we had made the round of it twice or thrice, we came out again
 into the brewery yard. I showed her to a nicety where I had seen her
 walking on the casks, that first old day, and she said, with a cold and
 careless look in that direction, “Did I?” I reminded her where she had
-come out of the house and given me my meat and drink, and she said, “I
+come out of the [[house]] and given me my meat and drink, and she said, “I
 don’t remember.” “Not remember that you made me cry?” said I. “No,”
 said she, and shook her head and looked about her. I verily believe
 that her not remembering and not minding in the least, made me cry
@@ -10457,7 +10461,7 @@ in her case than in mine; but the air of inaccessibility which her
 delight, and at the height of the assurance I felt that our patroness
 had chosen us for one another. Wretched boy!
 
-At last we went back into the house, and there I heard, with surprise,
+At last we went back into the [[house]], and there I heard, with surprise,
 that my guardian had come down to see [[characters/miss-havisham|Miss Havisham]] on business, and
 would come back to dinner. The old wintry branches of chandeliers in
 the room where the mouldering table was spread had been lighted while
@@ -10477,7 +10481,7 @@ cloth. As [[characters/estella|Estella]] looked back over her shoulder before go
 door, [[characters/miss-havisham|Miss Havisham]] kissed that hand to her, with a ravenous intensity
 that was of its kind quite dreadful.
 
-Then, [[characters/estella|Estella]] being gone and we two left alone, she turned to me, and
+Then, [[characters/estella|Estella]] being gone and we two left [[Alone|alone]], she turned to me, and
 said in a whisper,—
 
 “Is she beautiful, graceful, [[motifs/well|well]]-grown? Do you admire her?”
@@ -10567,7 +10571,7 @@ he came to a stop.
 “Twice?”
 
 “Jaggers,” interposed [[characters/miss-havisham|Miss Havisham]], much to my relief, “leave my Pip
-alone, and go with him to your dinner.”
+[[Alone|alone]], and go with him to your dinner.”
 
 He complied, and we groped our way down the dark stairs together. While
 we were still on our way to those detached apartments across the paved
@@ -10599,7 +10603,7 @@ This brought us to the dinner-table, where she and Sarah Pocket awaited
 us. Mr. Jaggers presided, [[characters/estella|Estella]] sat opposite to him, I faced my green
 and yellow friend. We dined very [[motifs/well|well]], and were waited on by a
 maid-servant whom I had never seen in all my comings and goings, but
-who, for anything I know, had been in that mysterious house the whole
+who, for anything I know, had been in that mysterious [[house]] the whole
 [[motifs/time|time]]. After dinner a bottle of choice old port was placed before my
 guardian (he was evidently [[motifs/well|well]] acquainted with the vintage), and the
 two ladies left us.
@@ -10617,7 +10621,7 @@ he showed no consciousness, and even made it appear that he
 extorted—and even did extort, though I don’t know how—those references
 out of my [[archetypes/innocent|innocent]] [[concepts/self|self]].
 
-And when he and I were left alone together, he sat with an air upon him
+And when he and I were left [[Alone|alone]] together, he sat with an air upon him
 of general lying by in consequence of information he possessed, that
 really was too much for me. He [[motifs/cross|cross]]-examined his very wine when he had
 nothing else in hand. He held it between himself and the candle, tasted
@@ -10627,7 +10631,7 @@ again, smelt the port, tried it, drank it, filled again, and
 known the wine to be telling him something to my disadvantage. Three or
 four times I feebly thought I would start conversation; but whenever he
 saw me going to ask him anything, he looked at me with his glass in his
-hand, and rolling his wine about in his mouth, as if requesting me to
+hand, and [[rolling]] his wine about in his mouth, as if requesting me to
 take notice that it was of no use, for he couldn’t answer.
 
 
@@ -10735,7 +10739,7 @@ beheld Trabb’s boy approaching, lashing himself with an empty blue bag.
 Deeming that a serene and unconscious contemplation of him would best
 beseem me, and would be most likely to quell his evil mind, I advanced
 with that expression of countenance, and was rather congratulating
-myself on my success, when suddenly the knees of Trabb’s boy smote
+myself on my [[success]], when suddenly the knees of Trabb’s boy smote
 together, his hair uprose, his cap fell off, he trembled violently in
 every limb, staggered out into the [[motifs/road|road]], and crying to the populace,
 “Hold me! I’m so frightened!” feigned to be in a paroxysm of terror and
@@ -10799,7 +10803,7 @@ went on to Barnard’s Inn.
 
 
 I found Herbert dining on cold meat, and delighted to welcome me back.
-Having despatched The [[archetypes/avenger|Avenger]] to the coffee-house for an addition to
+Having despatched The [[archetypes/avenger|Avenger]] to the coffee-[[house]] for an addition to
 the dinner, I felt that I must open my breast that very evening to my
 friend and chum. As confidence was out of the question with The [[archetypes/avenger|Avenger]]
 in the hall, which could merely be regarded in the light of an
@@ -10877,7 +10881,7 @@ analysis, but thought it not worth disputing.
 
 “When I ask what I am to call myself to-day, Herbert,” I went on, “I
 suggest what I have in my thoughts. You say I am lucky. I know I have
-done nothing to raise myself in life, and that Fortune alone has raised
+done nothing to raise myself in life, and that Fortune [[Alone|alone]] has raised
 me; that is being very lucky. And yet, when I think of [[characters/estella|Estella]]—”
 
 (“And when don’t you, you know?” Herbert threw in, with his eyes on the
@@ -11150,7 +11154,7 @@ these occasions.
 
 But his greatest trials were in the churchyard, which had the
 appearance of a primeval forest, with a kind of small ecclesiastical
-wash-house on one side, and a turnpike gate on the other. Mr. Wopsle in
+wash-[[house]] on one side, and a turnpike gate on the other. Mr. Wopsle in
 a comprehensive black cloak, being descried entering at the turnpike,
 the gravedigger was admonished in a friendly way, “Look out! Here’s the
 undertaker a coming, to see how you’re a getting on with your work!” I
@@ -11299,7 +11303,7 @@ on,—which jostled us out at the doorway,—to ask Herbert what he thought
 of having him [[motifs/home|home]] to supper? Herbert said he thought it would be kind
 to do so; therefore I invited him, and he went to Barnard’s with us,
 wrapped up to the eyes, and we did our best for him, and he sat until
-two o’[[motifs/clock|clock]] in the morning, reviewing his success and developing his
+two o’[[motifs/clock|clock]] in the morning, reviewing his [[success]] and developing his
 plans. I forget in detail what they were, but I have a general
 recollection that he was to begin with reviving the Drama, and to end
 with crushing it; inasmuch as his decease would leave it utterly bereft
@@ -11513,7 +11517,7 @@ they ask of me, the subordinate; but you’ll never catch ’em asking any
 questions of my principal.”
 
 “Is this young gentleman one of the ’prentices or articled ones of your
-office?” asked the turnkey, with a grin at Mr. Wemmick’s humour.
+office?” asked the turnkey, with a grin at Mr. Wemmick’s [[Humour|humour]].
 
 “There he goes again, you see!” cried Wemmick, “I told you so! Asks
 another question of the subordinate before his first is dry! [[motifs/well|Well]],
@@ -11608,7 +11612,7 @@ are to take care of me the while.”
 She drew her arm through mine, as if it must be done, and I requested a
 waiter who had been staring at the coach like a man who had never seen
 such a thing in his life, to show us a private sitting-room. Upon that,
-he pulled out a napkin, as if it were a magic clue without which he
+he pulled out a napkin, as if it were a [[Magic|magic]] clue without which he
 couldn’t find the way upstairs, and led us to the black hole of the
 establishment, fitted up with a diminishing [[motifs/mirror|mirror]] (quite a superfluous
 article, considering the hole’s proportions), an anchovy sauce-cruet,
@@ -11692,7 +11696,7 @@ the thought in my mind, and answered it.
 “It is not easy for even you.” said [[characters/estella|Estella]], “to know what satisfaction
 it gives me to see those people thwarted, or what an enjoyable sense of
 the ridiculous I have when they are made ridiculous. For you were not
-brought up in that strange house from a mere baby. I was. You had not
+brought up in that strange [[house]] from a mere baby. I was. You had not
 your little wits sharpened by their intriguing against you, suppressed
 and defenceless, under the mask of sympathy and pity and what not that
 is soft and soothing. I had. You did not gradually open your round
@@ -11743,7 +11747,7 @@ I could put no trust in it, and build no [[concepts/hope|hope]] on it; and yet I
 against trust and against [[concepts/hope|hope]]. Why repeat it a thousand times? So it
 always was.
 
-I rang for the tea, and the waiter, reappearing with his magic clue,
+I rang for the tea, and the waiter, reappearing with his [[Magic|magic]] clue,
 brought in by degrees some fifty adjuncts to that refreshment, but of
 tea not a glimpse. A teaboard, cups and saucers, plates, knives and
 forks (including carvers), spoons (various), salt-cellars, a meek
@@ -11760,7 +11764,7 @@ extracted one cup of I don’t know what for [[characters/estella|Estella]].
 
 The bill paid, and the waiter remembered, and the ostler not forgotten,
 and the chambermaid taken into consideration,—in a word, the whole
-house bribed into a state of contempt and animosity, and [[characters/estella|Estella]]’s
+[[house]] bribed into a state of contempt and animosity, and [[characters/estella|Estella]]’s
 purse much lightened,—we got into our post-coach and drove away.
 Turning into Cheapside and rattling up Newgate Street, we were soon
 under the walls of which I was so ashamed.
@@ -11791,7 +11795,7 @@ him?”
 
 “Are you intimate?”
 
-“I have dined with him at his private house.”
+“I have dined with him at his private [[house]].”
 
 “I fancy,” said [[characters/estella|Estella]], shrinking “that must be a curious place.”
 
@@ -11850,22 +11854,22 @@ nearly all mine now.”
 It was the first [[motifs/time|time]] she had ever called me by my name. Of course she
 did so purposely, and knew that I should treasure it up.
 
-We came to Richmond all too soon, and our destination there was a house
-by the green,—a staid old house, where hoops and powder and patches,
+We came to Richmond all too soon, and our destination there was a [[house]]
+by the green,—a staid old [[house]], where hoops and powder and patches,
 embroidered coats, rolled stockings, ruffles and swords, had had their
-[[settings/court|court]] days many a [[motifs/time|time]]. Some ancient trees before the house were still
+[[settings/court|court]] days many a [[motifs/time|time]]. Some ancient trees before the [[house]] were still
 cut into fashions as formal and unnatural as the hoops and wigs and
 stiff skirts; but their own allotted places in the great procession of
 the dead were not far off, and they would soon drop into them and go
 the silent way of the rest.
 
 A bell with an old voice—which I dare say in its [[motifs/time|time]] had often said to
-the house, Here is the green farthingale, Here is the diamond-hilted
-sword, Here are the shoes with red heels and the blue solitaire—sounded
+the [[house]], Here is the green farthingale, Here is the diamond-hilted
+[[Sword|sword]], Here are the shoes with red heels and the blue solitaire—sounded
 gravely in the moonlight, and two cherry-coloured maids came fluttering
 out to receive [[characters/estella|Estella]]. The doorway soon absorbed her boxes, and she
 gave me her hand and a smile, and said good-[[motifs/night|night]], and was absorbed
-likewise. And still I stood looking at the house, thinking how happy I
+likewise. And still I stood looking at the [[house]], thinking how happy I
 should be if I lived there with her, and knowing that I never was happy
 with her, but always miserable.
 
@@ -11911,7 +11915,7 @@ not by any means comfortable about [[characters/biddy|Biddy]]. When I woke up in
 that I should have been happier and better if I had never seen Miss
 Havisham’s face, and had risen to manhood content to be partners with
 Joe in the honest old forge. Many a [[motifs/time|time]] of an evening, when I sat
-alone looking at the [[motifs/fire|fire]], I thought, after all there was no [[motifs/fire|fire]] like
+[[Alone|alone]] looking at the [[motifs/fire|fire]], I thought, after all there was no [[motifs/fire|fire]] like
 the forge [[motifs/fire|fire]] and the kitchen [[motifs/fire|fire]] at [[motifs/home|home]].
 
 Yet [[characters/estella|Estella]] was so inseparable from all my restlessness and disquiet of
@@ -11993,7 +11997,7 @@ We spent as much money as we could, and got as little for it as people
 could make up their minds to give us. We were always more or less
 miserable, and most of our acquaintance were in the same condition.
 There was a gay fiction among us that we were constantly enjoying
-ourselves, and a skeleton [[concepts/truth|truth]] that we never did. To the best of my
+ourselves, and a [[skeleton]] [[concepts/truth|truth]] that we never did. To the best of my
 belief, our case was in the last aspect a rather common one.
 
 Every morning, with an air ever new, Herbert went into the [[motifs/city|City]] to look
@@ -12033,7 +12037,7 @@ off his feet,—so that he was actually in the air, like a booted
 Cupid,—for presuming to suppose that we wanted a roll.
 
 At certain times—meaning at uncertain times, for they depended on our
-humour—I would say to Herbert, as if it were a remarkable discovery,—
+[[Humour|humour]]—I would say to Herbert, as if it were a remarkable discovery,—
 
 “My dear Herbert, we are getting on badly.”
 
@@ -12180,7 +12184,7 @@ beans and clover whispered to my heart that the day must come when it
 would be [[motifs/well|well]] for my [[motifs/memory|memory]] that others walking in the sunshine should
 be softened as they thought of me.
 
-At last I came within sight of the house, and saw that Trabb and Co.
+At last I came within sight of the [[house]], and saw that Trabb and Co.
 had put in a funereal execution and taken possession. Two dismally
 absurd persons, each ostentatiously exhibiting a crutch done up in a
 black bandage,—as if that instrument could possibly communicate any
@@ -12190,7 +12194,7 @@ couple into a sawpit on their bridal morning, in consequence of
 intoxication rendering it necessary for him to ride his [[motifs/horse|horse]] clasped
 round the neck with both arms. All the children of the village, and
 most of the women, were admiring these sable warders and the closed
-windows of the house and forge; and as I came up, one of the two
+windows of the [[house]] and forge; and as I came up, one of the two
 warders (the postboy) knocked at the door,—implying that I was far too
 much exhausted by grief to have strength remaining to knock for myself.
 
@@ -12214,7 +12218,7 @@ and said no more.
 [[characters/biddy|Biddy]], looking very neat and modest in her black dress, went quietly
 here and there, and was very helpful. When I had spoken to [[characters/biddy|Biddy]], as I
 thought it not a [[motifs/time|time]] for talking I went and sat down near Joe, and
-there began to [[concepts/wonder|wonder]] in what part of the house it—she—my sister—was.
+there began to [[concepts/wonder|wonder]] in what part of the [[house]] it—she—my sister—was.
 The air of the parlour being faint with the smell of sweet-cake, I
 looked about for the table of refreshments; it was scarcely visible
 until one had got accustomed to the gloom, but there was a cut-up plum
@@ -12300,7 +12304,7 @@ benefactor.
 
 When they were all gone, and when Trabb and his men—but not his Boy; I
 looked for him—had crammed their mummery into bags, and were gone too,
-the house felt wholesomer. Soon afterwards, [[characters/biddy|Biddy]], Joe, and I, had a
+the [[house]] felt wholesomer. Soon afterwards, [[characters/biddy|Biddy]], Joe, and I, had a
 cold dinner together; but we dined in the best parlour, not in the old
 kitchen, and Joe was so exceedingly particular what he did with his
 knife and fork and the saltcellar and what not, that there was great
@@ -12415,7 +12419,7 @@ gentle heart.
 
 “Indeed, it would be hard to say too much for him,” said I; “and [[characters/biddy|Biddy]],
 we must often speak of these things, for of course I shall be often
-down here now. I am not going to leave poor Joe alone.”
+down here now. I am not going to leave poor Joe [[Alone|alone]].”
 
 [[characters/biddy|Biddy]] said never a single word.
 
@@ -12802,7 +12806,7 @@ consideration on a twenty-first birthday, that coming of age at all
 seemed hardly worth while in such a guarded and suspicious world as he
 made of it. He was a thousand times better informed and cleverer than
 Wemmick, and yet I would a thousand times rather have had Wemmick to
-dinner. And Mr. Jaggers made not me alone intensely [[concepts/melancholy|melancholy]],
+dinner. And Mr. Jaggers made not me [[Alone|alone]] intensely [[concepts/melancholy|melancholy]],
 because, after he was gone, Herbert said of himself, with his eyes
 fixed on the [[motifs/fire|fire]], that he thought he must have committed a felony and
 forgotten the details of it, he felt so dejected and guilty.
@@ -13091,8 +13095,8 @@ opening had come at last. Day by day as his hopes grew stronger and his
 face brighter, he must have thought me a more and more affectionate
 friend, for I had the greatest difficulty in restraining my [[motifs/tears|tears]] of
 triumph when I saw him so happy. At length, the thing being done, and
-he having that day entered Clarriker’s House, and he having talked to
-me for a whole evening in a flush of pleasure and success, I did really
+he having that day entered Clarriker’s [[house|House]], and he having talked to
+me for a whole evening in a flush of pleasure and [[success]], I did really
 cry in good earnest when I went to bed, to think that my expectations
 had done some good to somebody.
 
@@ -13110,12 +13114,12 @@ much to give to the theme that so long filled my heart.
 Chapter XXXVIII.
 
 
-If that staid old house near the Green at Richmond should ever come to
+If that staid old [[house]] near the Green at Richmond should ever come to
 be haunted when I am dead, it will be haunted, surely, by my [[archetypes/ghost|ghost]]. O
 the many, many nights and days through which the unquiet spirit within
-me haunted that house when [[characters/estella|Estella]] lived there! Let my [[concepts/body|body]] be where it
+me haunted that [[house]] when [[characters/estella|Estella]] lived there! Let my [[concepts/body|body]] be where it
 would, my spirit was always wandering, wandering, wandering, about that
-house.
+[[house]].
 
 The lady with whom [[characters/estella|Estella]] was placed, Mrs. Brandley by name, was a
 widow, with one daughter several years older than [[characters/estella|Estella]]. The mother
@@ -13128,7 +13132,7 @@ the understanding was established that they were necessary to her, and
 that she was necessary to them. Mrs. Brandley had been a friend of Miss
 Havisham’s before the [[motifs/time|time]] of her seclusion.
 
-In Mrs. Brandley’s house and out of Mrs. Brandley’s house, I suffered
+In Mrs. Brandley’s [[house]] and out of Mrs. Brandley’s [[house]], I suffered
 every kind and degree of torture that [[characters/estella|Estella]] could cause me. The
 [[concepts/nature|nature]] of my relations with her, which placed me on terms of
 familiarity without placing me on terms of favour, conduced to my
@@ -13140,7 +13144,7 @@ of her appointed husband,—I could not have seemed to myself further
 from my hopes when I was nearest to her. The privilege of calling her
 by her name and hearing her call me by mine became, under the
 circumstances an aggravation of my trials; and while I think it likely
-that it almost maddened her other lovers, I know too certainly that it
+that it almost maddened her other [[lovers]], I know too certainly that it
 almost maddened me.
 
 She had admirers without end. No [[concepts/doubt|doubt]] my [[concepts/jealousy|jealousy]] made an admirer of
@@ -13162,7 +13166,7 @@ upon us. There were other times when she would come to a sudden check
 in this tone and in all her many tones, and would seem to pity me.
 
 “Pip, Pip,” she said one evening, coming to such a check, when we sat
-apart at a darkening [[motifs/window|window]] of the house in Richmond; “will you never
+apart at a darkening [[motifs/window|window]] of the [[house]] in Richmond; “will you never
 take warning?”
 
 “Of what?”
@@ -13192,7 +13196,7 @@ to say:—
 
 “The [[motifs/time|time]] has come round when [[characters/miss-havisham|Miss Havisham]] wishes to have me for a day
 at Satis. You are to take me there, and bring me back, if you will. She
-would rather I did not travel alone, and objects to receiving my maid,
+would rather I did not travel [[Alone|alone]], and objects to receiving my maid,
 for she has a sensitive horror of being talked of by such people. Can
 you take me?”
 
@@ -13207,7 +13211,7 @@ This was all the preparation I received for that visit, or for others
 like it; [[characters/miss-havisham|Miss Havisham]] never wrote to me, nor had I ever so much as
 seen her handwriting. We went down on the next day but one, and we
 found her in the room where I had first beheld her, and it is needless
-to add that there was no change in Satis House.
+to add that there was no change in Satis [[house|House]].
 
 She was even more dreadfully fond of [[characters/estella|Estella]] than she had been when I
 last saw them together; I repeat the word advisedly, for there was
@@ -13250,7 +13254,7 @@ being staved off so long and the reason for my late guardian’s
 declining to commit himself to the formal knowledge of such a scheme.
 In a word, I saw in this [[characters/miss-havisham|Miss Havisham]] as I had her then and there
 before my eyes, and always had had her before my eyes; and I saw in
-this, the distinct [[archetypes/shadow|shadow]] of the darkened and unhealthy house in which
+this, the distinct [[archetypes/shadow|shadow]] of the darkened and unhealthy [[house]] in which
 her life was hidden from the sun.
 
 The candles that lighted that room of hers were placed in sconces on
@@ -13302,7 +13306,7 @@ you reproach me for being cold? You?”
 “Are you not?” was the fierce retort.
 
 “You should know,” said [[characters/estella|Estella]]. “I am what you have made me. Take all
-the praise, take all the blame; take all the success, take all the
+the praise, take all the blame; take all the [[success]], take all the
 failure; in short, take me.”
 
 “O, look at her, look at her!” cried [[characters/miss-havisham|Miss Havisham]], bitterly; “Look at
@@ -13408,7 +13412,7 @@ could not do it, you would have been disappointed and angry?”
 [[characters/miss-havisham|Miss Havisham]] sat listening (or it seemed so, for I could not see her
 face), but still made no answer.
 
-“So,” said [[characters/estella|Estella]], “I must be taken as I have been made. The success
+“So,” said [[characters/estella|Estella]], “I must be taken as I have been made. The [[success]]
 is not mine, the failure is not mine, but the two together make me.”
 
 [[characters/miss-havisham|Miss Havisham]] had settled down, I hardly knew how, upon the floor,
@@ -13431,7 +13435,7 @@ and I played at cards, as of yore,—only we were skilful now, and played
 French games,—and so the evening wore away, and I went to bed.
 
 I lay in that separate building across the courtyard. It was the first
-[[motifs/time|time]] I had ever lain down to rest in Satis House, and [[motifs/sleep|sleep]] refused to
+[[motifs/time|time]] I had ever lain down to rest in Satis [[house|House]], and [[motifs/sleep|sleep]] refused to
 come near me. A thousand Miss Havishams haunted me. She was on this
 side of my pillow, on that, at the head of the bed, at the foot, behind
 the half-opened door of the dressing-room, in the dressing-room, in the
@@ -13517,7 +13521,7 @@ where I was to be found.
 
 Whether it was possible in a Christian country to get on without [[motifs/blood|blood]],
 after this, was a question on which the Finches were divided. The
-debate upon it grew so lively, indeed, that at least six more
+[[debate]] upon it grew so lively, indeed, that at least six more
 honourable members told six more, during the discussion, that they
 believed _they_ knew where _they_ were to be found. However, it was
 decided at last (the Grove being a [[settings/court|Court]] of [[concepts/honour|Honour]]) that if Mr. Drummle
@@ -13576,7 +13580,7 @@ places.
 
 “You should be.”
 
-“Say rather, I should not be; for I have my letter to Satis House to
+“Say rather, I should not be; for I have my letter to Satis [[house|House]] to
 write, before I go to [[motifs/sleep|sleep]].”
 
 “Recounting to-[[motifs/night|night]]’s triumph?” said I. “Surely a very poor one,
@@ -13710,8 +13714,8 @@ reading, and read regularly so many hours a day. That matter of
 Herbert’s was still progressing, and everything with me was as I have
 brought it down to the close of the last preceding chapter.
 
-Business had taken Herbert on a [[motifs/journey|journey]] to Marseilles. I was alone, and
-had a dull sense of being alone. Dispirited and anxious, long hoping
+Business had taken Herbert on a [[motifs/journey|journey]] to Marseilles. I was [[Alone|alone]], and
+had a dull sense of being [[Alone|alone]]. Dispirited and anxious, long hoping
 that to-morrow or next week would clear my way, and long disappointed,
 I sadly missed the cheerful face and ready response of my friend.
 
@@ -13728,12 +13732,12 @@ the worst of all.
 
 Alterations have been made in that part of the Temple since that [[motifs/time|time]],
 and it has not now so lonely a character as it had then, nor is it so
-exposed to the [[motifs/river|river]]. We lived at the top of the last house, and the
-[[motifs/wind|wind]] rushing up the [[motifs/river|river]] shook the house that [[motifs/night|night]], like discharges
+exposed to the [[motifs/river|river]]. We lived at the top of the last [[house]], and the
+[[motifs/wind|wind]] rushing up the [[motifs/river|river]] shook the [[house]] that [[motifs/night|night]], like discharges
 of cannon, or breakings of a sea. When the rain came with it and dashed
 against the windows, I thought, raising my eyes to them as they rocked,
 that I might have fancied myself in a [[motifs/storm|storm]]-beaten lighthouse.
-Occasionally, the smoke came rolling down the chimney as though it
+Occasionally, the smoke came [[rolling]] down the chimney as though it
 could not bear to go out into such a [[motifs/night|night]]; and when I set the doors
 open and looked down the staircase, the staircase lamps were blown out;
 and when I shaded my face with my hands and looked through the black
@@ -13864,7 +13868,7 @@ laid a hand upon his breast and put him away.
 
 “Stay!” said I. “Keep off! If you are grateful to me for what I did
 when I was a little [[archetypes/child|child]], I [[concepts/hope|hope]] you have shown your gratitude by
-mending your way of life. If you have come here to thank me, it was not
+[[mending]] your way of life. If you have come here to thank me, it was not
 necessary. Still, however you have found me out, there must be
 something good in the feeling that has brought you here, and I will not
 repulse you; but surely you must understand that—I—”
@@ -14186,7 +14190,7 @@ was not until I began to think, that I began fully to know how wrecked
 I was, and how the [[motifs/ship|ship]] in which I had sailed was gone to pieces.
 
 [[characters/miss-havisham|Miss Havisham]]’s intentions towards me, all a mere dream; [[characters/estella|Estella]] not
-designed for me; I only suffered in Satis House as a convenience, a
+designed for me; I only suffered in Satis [[house|House]] as a convenience, a
 sting for the greedy relations, a model with a mechanical heart to
 practise on when no other practice was at hand; those were the first
 smarts I had. But, sharpest and deepest [[motifs/pain|pain]] of all,—it was for the
@@ -14285,7 +14289,7 @@ the door, whether he had admitted at his gate any gentleman who had
 perceptibly been dining out? Yes, he said; at different times of the
 [[motifs/night|night]], three. One lived in Fountain [[settings/court|Court]], and the other two lived in
 the Lane, and he had seen them all go [[motifs/home|home]]. Again, the only other man
-who dwelt in the house of which my chambers formed a part had been in
+who dwelt in the [[house]] of which my chambers formed a part had been in
 the country for some weeks, and he certainly had not returned in the
 [[motifs/night|night]], because we had seen his door with his seal on it as we came
 upstairs.
@@ -14604,9 +14608,9 @@ get out to further them until two or three in the afternoon. He was to
 remain shut up in the chambers while I was gone, and was on no account
 to open the door.
 
-There being to my knowledge a respectable lodging-house in Essex
+There being to my knowledge a respectable lodging-[[house]] in Essex
 Street, the back of which looked into the Temple, and was almost within
-hail of my windows, I first of all repaired to that house, and was so
+hail of my windows, I first of all repaired to that [[house]], and was so
 fortunate as to secure the second floor for my uncle, Mr. Provis. I
 then went from shop to shop, making such purchases as were necessary to
 the change in his appearance. This business transacted, I turned my
@@ -14856,7 +14860,7 @@ recounted the whole of the secret. Enough, that I saw my own feelings
 reflected in Herbert’s face, and not least among them, my repugnance
 towards the man who had done so much for me.
 
-What would alone have set a division between that man and us, if there
+What would [[Alone|alone]] have set a division between that man and us, if there
 had been no other dividing circumstance, was his triumph in my story.
 Saving his troublesome sense of having been “low” on one occasion since
 his return,—on which point he began to hold forth to Herbert, the
@@ -14958,7 +14962,7 @@ you were to renounce this patronage and these favours, I suppose you
 would do so with some faint [[concepts/hope|hope]] of one day repaying what you have
 already had. Not very strong, that [[concepts/hope|hope]], if you went soldiering!
 Besides, it’s absurd. You would be infinitely better in Clarriker’s
-house, small as it is. I am working up towards a partnership, you
+[[house]], small as it is. I am working up towards a partnership, you
 know.”
 
 Poor fellow! He little suspected with whose money.
@@ -15105,7 +15109,7 @@ Chapter XLII.
 
 
 “Dear boy and Pip’s comrade. I am not a-going fur to tell you my life
-like a song, or a story-book. But to give it you short and handy, I’ll
+like a [[Song|song]], or a story-book. But to give it you short and handy, I’ll
 put it at once into a mouthful of English. In jail and out of jail, in
 jail and out of jail, in jail and out of jail. There, you’ve got it.
 That’s _my_ life pretty much, down to such times as I got shipped off,
@@ -15213,7 +15217,7 @@ nobody.
 “I might a took warning by [[characters/arthur|Arthur]], but I didn’t; and I won’t pretend I
 was partick’ler—for where ’ud be the good on it, dear boy and comrade?
 So I begun wi’ Compeyson, and a poor tool I was in his hands. [[characters/arthur|Arthur]]
-lived at the top of Compeyson’s house (over nigh Brentford it was), and
+lived at the top of Compeyson’s [[house]] (over nigh Brentford it was), and
 Compeyson kept a careful account agen him for board and lodging, in
 case he should ever get better to work it out. But [[characters/arthur|Arthur]] soon settled
 the account. The second or third [[motifs/time|time]] as ever I see him, he come a
@@ -15288,7 +15292,7 @@ on again.
 
 “There ain’t no need to go into it,” he said, looking round once more.
 “The [[motifs/time|time]] wi’ Compeyson was a’most as hard a [[motifs/time|time]] as ever I had; that
-said, all’s said. Did I tell you as I was tried, alone, for
+said, all’s said. Did I tell you as I was tried, [[Alone|alone]], for
 misdemeanor, while with Compeyson?”
 
 I answered, No.
@@ -15436,11 +15440,11 @@ informer was scarcely to be imagined.
 Never had I breathed, and never would I breathe—or so I resolved—a word
 of [[characters/estella|Estella]] to Provis. But, I said to Herbert that, before I could go
 abroad, I must see both [[characters/estella|Estella]] and [[characters/miss-havisham|Miss Havisham]]. This was when we
-were left alone on the [[motifs/night|night]] of the day when Provis told us his story.
+were left [[Alone|alone]] on the [[motifs/night|night]] of the day when Provis told us his story.
 I resolved to go out to Richmond next day, and I went.
 
 On my presenting myself at Mrs. Brandley’s, [[characters/estella|Estella]]’s maid was called
-to tell that [[characters/estella|Estella]] had gone into the country. Where? To Satis House,
+to tell that [[characters/estella|Estella]] had gone into the country. Where? To Satis [[house|House]],
 as usual. Not as usual, I said, for she had never yet gone there
 without me; when was she coming back? There was an air of reservation
 in the answer which increased my perplexity, and the answer was, that
@@ -15649,7 +15653,7 @@ reminded me of Orlick.
 
 Too heavily out of sorts to care much at the [[motifs/time|time]] whether it were he or
 no, or after all to touch the breakfast, I washed the weather and the
-[[motifs/journey|journey]] from my face and hands, and went out to the memorable old house
+[[motifs/journey|journey]] from my face and hands, and went out to the memorable old [[house]]
 that it would have been so much the better for me never to have
 entered, never to have seen.
 
@@ -15832,7 +15836,7 @@ Preserving her unmoved countenance, and with her fingers still going,
 “I know,” said I, in answer to that action,—“I know. I have no [[concepts/hope|hope]]
 that I shall ever call you mine, [[characters/estella|Estella]]. I am ignorant what may become
 of me very soon, how poor I may be, or where I may go. Still, I [[motifs/love|love]]
-you. I have loved you ever since I first saw you in this house.”
+you. I have loved you ever since I first saw you in this [[house]].”
 
 Looking at me perfectly unmoved and with her fingers busy, she shook
 her head again.
@@ -16153,7 +16157,7 @@ won’t name this person—”
 
 “—Had made some little stir in a certain part of the world where a good
 many people go, not always in gratification of their own inclinations,
-and not quite irrespective of the government expense—”
+and not quite irrespective of the [[government]] expense—”
 
 In watching his face, I made quite a firework of the Aged’s sausage,
 and greatly discomposed both my own attention and Wemmick’s; for which
@@ -16256,7 +16260,7 @@ moderate warmth, that Herbert had felt himself obliged to confide the
 state of the case to me, with a view to the lapse of a little [[motifs/time|time]]
 before I made her acquaintance. When I had begun to advance Herbert’s
 prospects by stealth, I had been able to bear this with cheerful
-philosophy: he and his affianced, for their part, had naturally not
+[[philosophy]]: he and his affianced, for their part, had naturally not
 been very anxious to introduce a third person into their interviews;
 and thus, although I was assured that I had risen in Clara’s esteem,
 and although the young lady and I had long regularly interchanged
@@ -16269,7 +16273,7 @@ did not trouble Wemmick with these particulars.
 <span class="atom-split" data-atom="chapter_45--part_03" data-title="Great Expectations — Chapter 45 (part 3)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/night,motif/river,motif/road,motif/time,motif/well,motif/window,character/richard"></span>
 
 
-“The house with the bow-[[motifs/window|window]],” said Wemmick, “being by the
+“The [[house]] with the bow-[[motifs/window|window]],” said Wemmick, “being by the
 [[motifs/river|river]]-side, down the Pool there between Limehouse and Greenwich, and
 being kept, it seems, by a very respectable widow who has a furnished
 upper floor to let, Mr. Herbert put it to me, what did I think of that
@@ -16375,7 +16379,7 @@ narrow vista I could trace in the moonlight, along a series of wooden
 frames set in the ground, that looked like superannuated
 haymaking-rakes which had grown old and lost most of their teeth.
 
-Selecting from the few queer houses upon Mill Pond Bank a house with a
+Selecting from the few queer houses upon Mill Pond Bank a [[house]] with a
 wooden front and three stories of bow-[[motifs/window|window]] (not bay-[[motifs/window|window]], which is
 another thing), I looked at the plate upon the door, and read there,
 Mrs. Whimple. That being the name I wanted, I knocked, and an elderly
@@ -16412,7 +16416,7 @@ While he thus spoke, the growling noise became a prolonged roar, and
 then died away.
 
 “What else can be the consequence,” said Herbert, in explanation, “if
-he _will_ cut the cheese? A man with the gout in his right hand—and
+he _will_ cut the [[cheese]]? A man with the gout in his right hand—and
 everywhere else—can’t expect to get through a [[topoi/double|Double]] [[characters/gloucester|Gloucester]] without
 hurting himself.”
 
@@ -16458,7 +16462,7 @@ truculent Ogre, Old Barley, had pressed into his service.
 “Look here,” said Herbert, showing me the basket, with a compassionate
 and tender smile, after we had talked a little; “here’s poor Clara’s
 supper, served out every [[motifs/night|night]]. Here’s her allowance of bread, and
-here’s her slice of cheese, and here’s her rum,—which I drink. This is
+here’s her slice of [[cheese]], and here’s her rum,—which I drink. This is
 Mr. Barley’s breakfast for to-morrow, served out to be cooked. Two
 mutton-chops, three potatoes, some split peas, a little flour, two
 ounces of butter, a pinch of salt, and all this black pepper. It’s
@@ -16515,7 +16519,7 @@ would commune with himself by the day and [[motifs/night|night]] together; Often
 it was light, having, at the same [[motifs/time|time]], one eye at a telescope which
 was fitted on his bed for the convenience of sweeping the [[motifs/river|river]].
 
-In his two cabin rooms at the top of the house, which were fresh and
+In his two cabin rooms at the top of the [[house]], which were fresh and
 airy, and in which Mr. Barley was less audible than below, I found
 Provis comfortably settled. He expressed no alarm, and seemed to feel
 none that was worth mentioning; but it struck me that he was
@@ -16624,7 +16628,7 @@ All things were as quiet in the Temple as ever I had seen them. The
 windows of the rooms on that side, lately occupied by Provis, were dark
 and still, and there was no lounger in [[motifs/garden|Garden]] [[settings/court|Court]]. I walked past the
 fountain twice or thrice before I descended the steps that were between
-me and my rooms, but I was quite alone. Herbert, coming to my bedside
+me and my rooms, but I was quite [[Alone|alone]]. Herbert, coming to my bedside
 when he came in,—for I went straight to bed, dispirited and
 fatigued,—made the same report. Opening one of the windows after that,
 he looked out into the moonlight, and told me that the pavement was as
@@ -16633,7 +16637,7 @@ solemnly empty as the pavement of any [[settings/cathedral|cathedral]] at that s
 Next day I set myself to get the boat. It was soon done, and the boat
 was brought round to the Temple stairs, and lay where I could reach her
 within a minute or two. Then, I began to go out as for training and
-practice: sometimes alone, sometimes with Herbert. I was often out in
+practice: sometimes [[Alone|alone]], sometimes with Herbert. I was often out in
 cold, rain, and sleet, but nobody took much note of me after I had been
 out a few times. At first, I kept above Blackfriars Bridge; but as the
 hours of the tide changed, I took towards [[settings/london|London]] Bridge. It was Old
@@ -16706,7 +16710,7 @@ about in my boat, and waited, waited, waited, as I best could.
 
 There were states of the tide when, having been down the [[motifs/river|river]], I could
 not get back through the eddy-chafed arches and starlings of old [[settings/london|London]]
-Bridge; then, I left my boat at a wharf near the Custom House, to be
+Bridge; then, I left my boat at a wharf near the Custom [[house|House]], to be
 brought up afterwards to the Temple stairs. I was not averse to doing
 this, as it served to make me and my boat a commoner incident among the
 [[motifs/water|water]]-side people there. From this slight occasion sprang two meetings
@@ -16732,10 +16736,10 @@ with a little girl of noble birth, and a monkey. And Herbert had seen
 him as a predatory Tartar of comic propensities, with a face like a red
 brick, and an outrageous hat all over [[motifs/bells|bells]].
 
-I dined at what Herbert and I used to call a geographical chop-house,
+I dined at what Herbert and I used to call a geographical chop-[[house]],
 where there were maps of the world in porter-pot rims on every
 half-yard of the tablecloths, and charts of gravy on every one of the
-knives,—to this day there is scarcely a single chop-house within the
+knives,—to this day there is scarcely a single chop-[[house]] within the
 [[characters/lord-mayor|Lord Mayor]]’s dominions which is not geographical,—and wore out the [[motifs/time|time]]
 in dozing over crumbs, staring at gas, and baking in a hot blast of
 dinners. By and by, I roused myself, and went to the play.
@@ -16756,7 +16760,7 @@ stated (by the boatswain) to be as black as his figure-head, proposed
 to two other Swabs to get all mankind into difficulties; which was so
 effectually done (the Swab family having considerable political
 influence) that it took half the evening to set things right, and then
-it was only brought about through an honest little grocer with a white
+it was only brought about through an honest little [[grocer]] with a white
 hat, black gaiters, and red nose, getting into a [[motifs/clock|clock]], with a
 gridiron, and listening, and coming out, and knocking everybody down
 from behind with the gridiron whom he couldn’t confute with what he had
@@ -17088,11 +17092,11 @@ compared them with other hands, other eyes, other hair, that I knew of,
 and with what those might be after twenty years of a brutal husband and
 a stormy life. I looked again at those hands and eyes of the
 housekeeper, and thought of the inexplicable feeling that had come over
-me when I last walked—not alone—in the ruined [[motifs/garden|garden]], and through the
+me when I last walked—not [[Alone|alone]]—in the ruined [[motifs/garden|garden]], and through the
 deserted brewery. I thought how the same feeling had come back when I
 saw a face looking at me, and a hand waving to me from a stage-coach
 [[motifs/window|window]]; and how it had come back again and had flashed about me like
-[[motifs/lightning|lightning]], when I had passed in a carriage—not alone—through a sudden
+[[motifs/lightning|lightning]], when I had passed in a carriage—not [[Alone|alone]]—through a sudden
 glare of light in a dark street. I thought how one link of association
 had helped that identification in the theatre, and how such a link,
 wanting before, had been riveted for me now, when I had passed by a
@@ -17142,7 +17146,7 @@ Miss Skiffins, and stopped in the street to blow his nose, with a roll
 of the head, and a flourish not quite free from latent boastfulness.
 
 “Wemmick,” said I, “do you remember telling me, before I first went to
-Mr. Jaggers’s private house, to notice that housekeeper?”
+Mr. Jaggers’s private [[house]], to notice that housekeeper?”
 
 “Did I?” he replied. “Ah, I dare say I did. Deuce take me,” he added,
 suddenly, “I know I did. I find I am not quite unscrewed yet.”
@@ -17261,10 +17265,10 @@ Chapter XLIX.
 
 
 Putting [[characters/miss-havisham|Miss Havisham]]’s note in my pocket, that it might serve as my
-credentials for so soon reappearing at Satis House, in case her
+credentials for so soon reappearing at Satis [[house|House]], in case her
 waywardness should lead her to express any surprise at seeing me, I
 went down again by the coach next day. But I alighted at the Halfway
-House, and breakfasted there, and walked the rest of the distance; for
+[[house|House]], and breakfasted there, and walked the rest of the distance; for
 I sought to get into the town quietly by the unfrequented ways, and to
 leave it in the same manner.
 
@@ -17281,9 +17285,9 @@ trees of the priory [[motifs/garden|garden]], seemed to call to me that the plac
 changed, and that [[characters/estella|Estella]] was gone out of it for ever.
 
 An elderly woman, whom I had seen before as one of the servants who
-lived in the supplementary house across the back courtyard, opened the
+lived in the supplementary [[house]] across the back courtyard, opened the
 gate. The lighted candle stood in the dark passage within, as of old,
-and I took it up and ascended the staircase alone. [[characters/miss-havisham|Miss Havisham]] was
+and I took it up and ascended the staircase [[Alone|alone]]. [[characters/miss-havisham|Miss Havisham]] was
 not in her own room, but was in the larger room across the landing.
 Looking in at the door, after knocking in vain, I saw her sitting on
 the hearth in a ragged chair, close before, and lost in the
@@ -17295,7 +17299,7 @@ was an air of utter [[concepts/loneliness|loneliness]] upon her, that would have
 pity though she had wilfully done me a deeper injury than I could
 charge her with. As I stood compassionating her, and thinking how, in
 the progress of [[motifs/time|time]], I too had come to be a part of the wrecked
-fortunes of that house, her eyes rested on me. She stared, and said in
+fortunes of that [[house]], her eyes rested on me. She stared, and said in
 a low voice, “Is it real?”
 
 “It is I, Pip. Mr. Jaggers gave me your note yesterday, and I have lost
@@ -17446,7 +17450,7 @@ Is she married?”
 
 “Yes.”
 
-It was a needless question, for a new desolation in the desolate house
+It was a needless question, for a new desolation in the desolate [[house]]
 had told me so.
 
 “What have I done! What have I done!” She wrung her hands, and crushed
@@ -17882,7 +17886,7 @@ the latter possibility may be the nearer to the [[concepts/truth|truth]].
 Any way, I could scarcely be withheld from going out to Gerrard Street
 that [[motifs/night|night]]. Herbert’s representations that, if I did, I should probably
 be laid up and stricken useless, when our fugitive’s safety would
-depend upon me, alone restrained my impatience. On the understanding,
+depend upon me, [[Alone|alone]] restrained my impatience. On the understanding,
 again and again reiterated, that, come what would, I was to go to Mr.
 Jaggers to-morrow, I at length submitted to keep quiet, and to have my
 hurts looked after, and to stay at [[motifs/home|home]]. Early next morning we went out
@@ -18222,9 +18226,9 @@ I had the great satisfaction of concluding that arrangement. It was the
 only good thing I had done, and the only completed thing I had done,
 since I was first apprised of my [[clusters/great-expectations|great expectations]].
 
-Clarriker informing me on that occasion that the affairs of the House
+Clarriker informing me on that occasion that the affairs of the [[house|House]]
 were steadily progressing, that he would now be able to establish a
-small branch-house in the East which was much wanted for the extension
+small branch-[[house]] in the East which was much wanted for the extension
 of the business, and that Herbert in his new partnership capacity would
 go out and take charge of it, I found that I must have prepared for a
 separation from my friend, even though my own affairs had been more
@@ -18305,7 +18309,7 @@ our charge would be sitter, and keep quiet; as [[characters/speed|speed]] was no
 object, we should make way enough. We arranged that Herbert should not
 come [[motifs/home|home]] to dinner before going to Mill Pond Bank that evening; that
 he should not go there at all to-morrow evening, Tuesday; that he
-should prepare Provis to come down to some stairs hard by the house, on
+should prepare Provis to come down to some stairs hard by the [[house]], on
 Wednesday, when he saw us approach, and not sooner; that all the
 arrangements with him should be concluded that Monday [[motifs/night|night]]; and that
 he should be communicated with no more in any way, until we took him on
@@ -18319,7 +18323,7 @@ ill-written. It had been delivered by hand (of course, since I left
 [[motifs/home|home]]), and its contents were these:—
 
 “If you are not afraid to come to the old marshes to-[[motifs/night|night]] or to-morrow
-[[motifs/night|night]] at nine, and to come to the little sluice-house by the limekiln,
+[[motifs/night|night]] at nine, and to come to the little sluice-[[house]] by the limekiln,
 you had better come. If you want information regarding _your uncle
 Provis_, you had much better come and tell no one, and lose no [[motifs/time|time]].
 _You must come alone_. Bring this with you.”
@@ -18371,10 +18375,10 @@ It was dark before we got down, and the [[motifs/journey|journey]] seemed long a
 to me, who could see little of it inside, and who could not go outside
 in my disabled state. Avoiding the Blue Boar, I put up at an inn of
 minor reputation down the town, and ordered some dinner. While it was
-preparing, I went to Satis House and inquired for [[characters/miss-havisham|Miss Havisham]]; she
+preparing, I went to Satis [[house|House]] and inquired for [[characters/miss-havisham|Miss Havisham]]; she
 was still very ill, though considered something better.
 
-My inn had once been a part of an ancient ecclesiastical house, and I
+My inn had once been a part of an ancient ecclesiastical [[house]], and I
 dined in a little octagonal common-room, like a font. As I was not able
 to cut my dinner, the old landlord with a shining bald head did it for
 me. This bringing us into conversation, he was so good as to entertain
@@ -18430,7 +18434,7 @@ round my neck, and went out. I had previously sought in my pockets for
 the letter, that I might refer to it again; but I could not find it,
 and was uneasy to think that it must have been dropped in the straw of
 the coach. I knew very [[motifs/well|well]], however, that the appointed place was the
-little sluice-house by the limekiln on the marshes, and the hour nine.
+little sluice-[[house]] by the limekiln on the marshes, and the hour nine.
 Towards the marshes I now went straight, having no [[motifs/time|time]] to spare.
 
 [Illustration]
@@ -18478,10 +18482,10 @@ lay directly in my way, and had been worked that day, as I saw by the
 tools and barrows that were lying about.
 
 Coming up again to the marsh level out of this excavation,—for the rude
-path lay through it,—I saw a light in the old sluice-house. I quickened
+path lay through it,—I saw a light in the old sluice-[[house]]. I quickened
 my pace, and knocked at the door with my hand. Waiting for some reply,
 I looked about me, noticing how the sluice was abandoned and broken,
-and how the house—of wood with a tiled roof—would not be proof against
+and how the [[house]]—of wood with a tiled roof—would not be proof against
 the weather much longer, if it were so even now, and how the mud and
 ooze were coated with lime, and how the choking vapour of the kiln
 crept in a ghostly way towards me. Still there was no answer, and I
@@ -18495,7 +18499,7 @@ was past nine, called again, “Is there any one here?” There being still
 no answer, I went out at the door, irresolute what to do.
 
 It was beginning to rain fast. Seeing nothing save what I had seen
-already, I turned back into the house, and stood just within the
+already, I turned back into the [[house]], and stood just within the
 shelter of the doorway, looking out into the [[motifs/night|night]]. While I was
 considering that some one must have been there lately and must soon be
 coming back, or the candle would not be burning, it came into my head
@@ -18639,7 +18643,7 @@ never know how sorry I had been that [[motifs/night|night]], none would ever kno
 had suffered, how true I had meant to be, what an agony I had passed
 through. The [[motifs/death|death]] close before me was terrible, but far more terrible
 than [[motifs/death|death]] was the dread of being misremembered after [[motifs/death|death]]. And so
-quick were my thoughts, that I saw myself despised by unborn
+quick were my thoughts, that I saw myself despised by [[unborn]]
 generations,—[[characters/estella|Estella]]’s children, and their children,—while the wretch’s
 words were yet on his lips.
 
@@ -18858,7 +18862,7 @@ and inflamed, and I could scarcely endure to have it touched. But, they
 tore up their handkerchiefs to make fresh bandages, and carefully
 replaced it in the sling, until we could get to the town and obtain
 some cooling lotion to put upon it. In a little while we had shut the
-door of the dark and empty sluice-house, and were passing through the
+door of the dark and empty sluice-[[house]], and were passing through the
 quarry on our way back. Trabb’s boy—Trabb’s overgrown young man
 now—went before us with a lantern, which was the light I had seen come
 in at the door. But, the [[motifs/moon|moon]] was a good two hours higher than when I
@@ -18888,20 +18892,20 @@ Among the loungers under the Boar’s archway happened to be Trabb’s
 Boy,—true to his ancient habit of happening to be everywhere where he
 had no business,—and Trabb’s boy had seen me passing from Miss
 Havisham’s in the direction of my dining-place. Thus Trabb’s boy became
-their guide, and with him they went out to the sluice-house, though by
+their guide, and with him they went out to the sluice-[[house]], though by
 the town way to the marshes, which I had avoided. Now, as they went
 along, Herbert reflected, that I might, after all, have been brought
 there on some genuine and serviceable errand tending to Provis’s
 safety, and, bethinking himself that in that case interruption must be
 mischievous, left his guide and Startop on the edge of the quarry, and
-went on by himself, and stole round the house two or three times,
+went on by himself, and stole round the [[house]] two or three times,
 endeavouring to ascertain whether all was right within. As he could
 hear nothing but indistinct sounds of one deep rough voice (this was
 while my mind was so busy), he even at last began to [[concepts/doubt|doubt]] whether I
 was there, when suddenly I cried out loudly, and he answered the cries,
 and rushed in, closely followed by the other two.
 
-When I told Herbert what had passed within the house, he was for our
+When I told Herbert what had passed within the [[house]], he was for our
 immediately going before a magistrate in the town, late at [[motifs/night|night]] as it
 was, and getting out a warrant. But, I had already considered that such
 a course, by detaining us there, or binding us to come back, might be
@@ -18956,7 +18960,7 @@ myself with a start, “Now it has come, and I am turning delirious!”
 
 They kept me very quiet all day, and kept my arm constantly dressed,
 and gave me cooling drinks. Whenever I fell asleep, I awoke with the
-notion I had had in the sluice-house, that a long [[motifs/time|time]] had elapsed and
+notion I had had in the sluice-[[house]], that a long [[motifs/time|time]] had elapsed and
 the opportunity to save him was gone. About midnight I got out of bed
 and went to Herbert, with the conviction that I had been asleep for
 four-and-twenty hours, and that Wednesday was past. It was the last
@@ -19018,7 +19022,7 @@ broad and solitary, where the [[motifs/water|water]]-side inhabitants are very f
 where lone public-houses are scattered here and there, of which we
 could choose one for a resting-place. There, we meant to lie by all
 [[motifs/night|night]]. The steamer for Hamburg and the steamer for Rotterdam would
-start from [[settings/london|London]] at about nine on Thursday morning. We should know at
+start from [[settings/london|London]] at about nine on [[thursday|Thursday]] morning. We should know at
 what [[motifs/time|time]] to expect them, according to where we were, and would hail
 the first; so that, if by any accident we were not taken abroad, we
 should have another chance. We knew the distinguishing marks of each
@@ -19176,7 +19180,7 @@ imperceptible degrees, as the tide ran out, we lost more and more of
 the nearer woods and hills, and dropped lower and lower between the
 muddy banks, but the tide was yet with us when we were off Gravesend.
 As our charge was wrapped in his cloak, I purposely passed within a
-boat or two’s length of the floating Custom House, and so out to catch
+boat or two’s length of the floating Custom [[house|House]], and so out to catch
 the stream, alongside of two emigrant ships, and under the bows of a
 large transport with troops on the forecastle looking down at us. And
 soon the tide began to slacken, and the craft lying at anchor to swing,
@@ -19196,7 +19200,7 @@ floating buoys upon it turned and turned, and everything else seemed
 stranded and still. For now the last of the fleet of ships was round
 the last low point we had headed; and the last green barge,
 straw-laden, with a brown sail, had followed; and some
-ballast-lighters, shaped like a [[archetypes/child|child]]’s first rude imitation of a boat,
+ballast-lighters, shaped like a [[archetypes/child|child]]’s first rude [[Imitation|imitation]] of a boat,
 lay low in the mud; and a little squat shoal-lighthouse on open piles
 stood crippled in the mud on stilts and crutches; and slimy stakes
 stuck out of the mud, and slimy stones stuck out of the mud, and red
@@ -19223,7 +19227,7 @@ As the [[motifs/night|night]] was fast falling, and as the [[motifs/moon|moon]],
 would not rise early, we held a little council; a short one, for
 clearly our course was to lie by at the first lonely tavern we could
 find. So, they plied their oars once more, and I looked out for
-anything like a house. Thus we held on, speaking little, for four or
+anything like a [[house]]. Thus we held on, speaking little, for four or
 five dull miles. It was very cold, and, a collier coming by us, with
 her galley-[[motifs/fire|fire]] smoking and flaring, looked like a comfortable [[motifs/home|home]].
 The [[motifs/night|night]] was as dark by this [[motifs/time|time]] as it would be until morning; and
@@ -19244,11 +19248,11 @@ what an unusual amount of noise the oars worked in the thowels.
 At length we descried a light and a roof, and presently afterwards ran
 alongside a little causeway made of stones that had been picked up hard
 by. Leaving the rest in the boat, I stepped ashore, and found the light
-to be in a [[motifs/window|window]] of a public-house. It was a dirty place enough, and I
+to be in a [[motifs/window|window]] of a public-[[house]]. It was a dirty place enough, and I
 dare say not unknown to smuggling adventurers; but there was a good
 [[motifs/fire|fire]] in the kitchen, and there were eggs and bacon to eat, and various
 liquors to drink. Also, there were two [[topoi/double|double]]-bedded rooms,—“such as
-they were,” the landlord said. No other company was in the house than
+they were,” the landlord said. No other company was in the [[house]] than
 the landlord, his wife, and a grizzled male creature, the “Jack” of the
 little causeway, who was as slimy and smeary as if he had been
 low-[[motifs/water|water]] mark too.
@@ -19329,19 +19333,19 @@ having no one to reply upon, found it impracticable to pursue the
 subject.
 
 This dialogue made us all uneasy, and me very uneasy. The dismal [[motifs/wind|wind]]
-was muttering round the house, the tide was flapping at the shore, and
+was muttering round the [[house]], the tide was flapping at the shore, and
 I had a feeling that we were caged and threatened. A four-oared galley
 hovering about in so unusual a way as to attract this notice was an
 ugly circumstance that I could not get rid of. When I had induced
 Provis to go up to bed, I went outside with my two companions (Startop
 by this [[motifs/time|time]] knew the state of the case), and held another council.
-Whether we should remain at the house until near the steamer’s [[motifs/time|time]],
+Whether we should remain at the [[house]] until near the steamer’s [[motifs/time|time]],
 which would be about one in the afternoon, or whether we should put off
 early in the morning, was the question we discussed. On the whole we
 deemed it the better course to lie where we were, until within an hour
 or so of the steamer’s [[motifs/time|time]], and then to get out in her track, and
 drift easily with the tide. Having settled to do this, we returned into
-the house and went to bed.
+the [[house]] and went to bed.
 
 
 
@@ -19350,7 +19354,7 @@ the house and went to bed.
 
 
 I lay down with the greater part of my clothes on, and slept [[motifs/well|well]] for a
-few hours. When I awoke, the [[motifs/wind|wind]] had risen, and the sign of the house
+few hours. When I awoke, the [[motifs/wind|wind]] had risen, and the sign of the [[house]]
 (the [[motifs/ship|Ship]]) was creaking and banging about, with noises that startled
 me. Rising softly, for my charge lay fast asleep, I looked out of the
 [[motifs/window|window]]. It commanded the causeway where we had hauled up our boat, and,
@@ -19362,7 +19366,7 @@ of the Nore.
 
 My first impulse was to call up Herbert, and show him the two men going
 away. But reflecting, before I got into his room, which was at the back
-of the house and adjoined mine, that he and Startop had had a harder
+of the [[house]] and adjoined mine, that he and Startop had had a harder
 day than I, and were fatigued, I forbore. Going back to my [[motifs/window|window]], I
 could see the two men moving over the marsh. In that light, however, I
 soon lost them, and, feeling very cold, lay down to think of the
@@ -19371,7 +19375,7 @@ matter, and fell asleep again.
 We were up early. As we walked to and fro, all four together, before
 breakfast, I deemed it right to recount what I had seen. Again our
 charge was the least anxious of the party. It was very likely that the
-men belonged to the Custom House, he said quietly, and that they had no
+men belonged to the Custom [[house|House]], he said quietly, and that they had no
 thought of us. I tried to persuade myself that it was so,—as, indeed,
 it might easily be. However, I proposed that he and I should walk away
 together to a distant point we could see, and that the boat should take
@@ -19384,7 +19388,7 @@ on the shoulder. One would have supposed that it was I who was in
 danger, not he, and that he was reassuring me. We spoke very little. As
 we approached the point, I begged him to remain in a sheltered place,
 while I went on to reconnoitre; for it was towards it that the men had
-passed in the [[motifs/night|night]]. He complied, and I went on alone. There was no
+passed in the [[motifs/night|night]]. He complied, and I went on [[Alone|alone]]. There was no
 boat off the point, nor any boat drawn up anywhere near it, nor were
 there any signs of the men having embarked there. But, to be sure, the
 tide was high, and there might have been some footprints under [[motifs/water|water]].
@@ -19507,7 +19511,7 @@ going overboard.
 
 When I asked this officer’s permission to change the prisoner’s wet
 clothes by purchasing any spare garments I could get at the
-public-house, he gave it readily: merely observing that he must take
+public-[[house]], he gave it readily: merely observing that he must take
 charge of everything his prisoner had about him. So the pocket-book
 which had once been in my hands passed into the officer’s. He further
 gave me leave to accompany the prisoner to [[settings/london|London]]; but declined to
@@ -19521,7 +19525,7 @@ took about a dozen drowned men to fit him out completely; and that may
 have been the reason why the different articles of his dress were in
 various stages of [[motifs/decay|decay]].
 
-We remained at the public-house until the tide turned, and then
+We remained at the public-[[house]] until the tide turned, and then
 Magwitch was carried down to the galley and put on board. Herbert and
 Startop were to get to [[settings/london|London]] by land, as soon as they could. We had a
 doleful parting, and when I took my place by Magwitch’s side, I felt
@@ -19589,7 +19593,7 @@ to speak to his [[concepts/identity|identity]]. Nobody doubted it; but Compeyson
 meant to depose to it, was tumbling on the tides, dead, and it happened
 that there was not at that [[motifs/time|time]] any [[motifs/prison|prison]] officer in [[settings/london|London]] who could
 give the required evidence. I had gone direct to Mr. Jaggers at his
-private house, on my arrival over [[motifs/night|night]], to retain his assistance, and
+private [[house]], on my arrival over [[motifs/night|night]], to retain his assistance, and
 Mr. Jaggers on the prisoner’s behalf would admit nothing. It was the
 sole resource; for he told me that the case must be over in five
 minutes when the witness was there, and that no power on earth could
@@ -19615,7 +19619,7 @@ accurate knowledge of Magwitch’s affairs. When his [[concepts/body|body]] was 
 miles from the scene of his [[motifs/death|death]], and so horribly disfigured that he
 was only recognisable by the contents of his pockets, notes were still
 legible, folded in a case he carried. Among these were the name of a
-banking-house in New South Wales, where a sum of money was, and the
+banking-[[house]] in New South Wales, where a sum of money was, and the
 designation of certain lands of considerable value. Both these heads of
 information were in a list that Magwitch, while in [[motifs/prison|prison]], gave to Mr.
 Jaggers, of the possessions he supposed I should inherit. His
@@ -19663,7 +19667,7 @@ friendly words go, with me.”
 
 “I will,” said I.
 
-“In this branch house of ours, Handel, we must have a—”
+“In this branch [[house]] of ours, Handel, we must have a—”
 
 I saw that his delicacy was avoiding the right word, so I said, “A
 clerk.”
@@ -19724,14 +19728,14 @@ the son of my mother!”
 
 On the Saturday in that same week, I took my leave of Herbert,—full of
 bright [[concepts/hope|hope]], but sad and sorry to leave me,—as he sat on one of the
-seaport mail coaches. I went into a coffee-house to write a little note
+seaport mail coaches. I went into a coffee-[[house]] to write a little note
 to Clara, telling her he had gone off, sending his [[motifs/love|love]] to her over and
 over again, and then went to my lonely [[motifs/home|home]],—if it deserved the name;
 for it was now no [[motifs/home|home]] to me, and I had no [[motifs/home|home]] anywhere.
 
 On the stairs I encountered Wemmick, who was coming down, after an
 unsuccessful application of his knuckles to my door. I had not seen him
-alone since the disastrous issue of the attempted flight; and he had
+[[Alone|alone]] since the disastrous issue of the attempted flight; and he had
 come, in his private and personal capacity, to say a few words of
 explanation in reference to that failure.
 
@@ -20197,8 +20201,8 @@ think.”
 
 “What is to be done?”
 
-“You had better come to my house,” said the man. “I keep a very nice
-house.”
+“You had better come to my [[house]],” said the man. “I keep a very nice
+[[house]].”
 
 I made some attempt to get up and dress myself. When I next attended to
 them, they were standing a little off from the bed, looking at me. I
@@ -20216,7 +20220,7 @@ except that they forbore to remove me.
 That I had a fever and was avoided, that I suffered greatly, that I
 often lost my reason, that the [[motifs/time|time]] seemed interminable, that I
 confounded impossible existences with my own [[concepts/identity|identity]]; that I was a
-brick in the house-wall, and yet entreating to be released from the
+brick in the [[house]]-wall, and yet entreating to be released from the
 giddy place where the builders had set me; that I was a steel beam of a
 vast engine, clashing and whirling over a gulf, and yet that I implored
 in my own person to have the engine stopped, and my part in it hammered
@@ -20394,7 +20398,7 @@ Joe, apologetically; “still, a Englishman’s ouse is his [[settings/castle|Ca
 castles must not be busted ’cept when done in war [[motifs/time|time]]. And wotsume’er
 the failings on his part, he were a corn and seedsman in his hart.”
 
-“Is it Pumblechook’s house that has been broken into, then?”
+“Is it Pumblechook’s [[house]] that has been broken into, then?”
 
 
 
@@ -20721,11 +20725,11 @@ in the most superior accommodation the Boar could have given me, and
 the quality of my [[motifs/dreams|dreams]] was about the same as in the best bedroom.
 
 Early in the morning, while my breakfast was getting ready, I strolled
-round by Satis House. There were printed bills on the gate and on bits
+round by Satis [[house|House]]. There were printed bills on the gate and on bits
 of carpet hanging out of the windows, announcing a sale by auction of
-the Household Furniture and Effects, next week. The House itself was to
+the Household Furniture and Effects, next week. The [[house|House]] itself was to
 be sold as old building materials, and pulled down. LOT 1 was marked in
-whitewashed knock-knee letters on the brew house; LOT 2 on that part of
+whitewashed knock-knee letters on the brew [[house]]; LOT 2 on that part of
 the main building which had been so long shut up. Other lots were
 marked off on other parts of the structure, and the ivy had been torn
 down to make room for the inscriptions, and much of it trailed low in
@@ -20781,7 +20785,7 @@ same fat five fingers.
 a-going to Joseph?”
 
 “In heaven’s name,” said I, firing in spite of myself, “what does it
-matter to you where I am going? Leave that teapot alone.”
+matter to you where I am going? Leave that teapot [[Alone|alone]].”
 
 It was the worst course I could have taken, because it gave Pumblechook
 the opportunity he wanted.
@@ -20789,7 +20793,7 @@ the opportunity he wanted.
 “Yes, young man,” said he, releasing the handle of the article in
 question, retiring a step or two from my table, and speaking for the
 behoof of the landlord and waiter at the door, “I _will_ leave that
-teapot alone. You are right, young man. For once you are right. I
+teapot [[Alone|alone]]. You are right, young man. For once you are right. I
 forgit myself when I take such an interest in your breakfast, as to
 wish your frame, exhausted by the debilitating effects of
 prodigygality, to be stimilated by the ’olesome nourishment of your
@@ -20853,7 +20857,7 @@ and hand at me, “‘he knows my total deficiency of common human
 gratitoode. _He_ knows it, Joseph, as none can. _You_ do not know it,
 Joseph, having no call to know it, but that man do.’”
 
-Windy donkey as he was, it really amazed me that he could have the face
+Windy [[donkey]] as he was, it really amazed me that he could have the face
 to talk thus to mine.
 
 “Says you, ‘Joseph, he gave me a little message, which I will now
@@ -20875,9 +20879,9 @@ or down town, if such should be your wishes, that it was right to do
 it, kind to do it, benevolent to do it, and that I would do it again.”
 
 With those words the Impostor shook them both by the hand, with an air,
-and left the house; leaving me much more astonished than delighted by
+and left the [[house]]; leaving me much more astonished than delighted by
 the virtues of that same indefinite “it.” I was not long after him in
-leaving the house too, and when I went down the High Street I saw him
+leaving the [[house]] too, and when I went down the High Street I saw him
 holding forth (no [[concepts/doubt|doubt]] to the same effect) at his shop door to a
 select group, who honoured me with very unfavourable glances as I
 passed on the opposite side of the way.
@@ -20903,7 +20907,7 @@ and whose wanderings had lasted many years.
 The schoolhouse where [[characters/biddy|Biddy]] was mistress I had never seen; but, the
 little roundabout lane by which I entered the village, for quietness’
 sake, took me past it. I was disappointed to find that the day was a
-holiday; no children were there, and [[characters/biddy|Biddy]]’s house was closed. Some
+holiday; no children were there, and [[characters/biddy|Biddy]]’s [[house]] was closed. Some
 hopeful notion of seeing her, busily engaged in her daily duties,
 before she saw me, had been in my mind and was defeated.
 
@@ -20920,7 +20924,7 @@ saw it at last, and saw that it was closed. No gleam of [[motifs/fire|fire]], no
 glittering shower of sparks, no roar of bellows; all shut up, and
 still.
 
-But the house was not deserted, and the best parlour seemed to be in
+But the [[house]] was not deserted, and the best parlour seemed to be in
 use, for there were white curtains fluttering in its [[motifs/window|window]], and the
 [[motifs/window|window]] was open and gay with [[motifs/flowers|flowers]]. I went softly towards it, meaning
 to peep over the [[motifs/flowers|flowers]], when Joe and [[characters/biddy|Biddy]] stood before me, arm in
@@ -21031,7 +21035,7 @@ old Bill Barley’s growls and was at peace, and Herbert had gone away to
 marry Clara, and I was left in sole charge of the Eastern Branch until
 he brought her back.
 
-Many a year went round before I was a partner in the House; but I lived
+Many a year went round before I was a partner in the [[house|House]]; but I lived
 happily with Herbert and his wife, and lived frugally, and paid my
 debts, and maintained a constant correspondence with [[characters/biddy|Biddy]] and Joe. It
 was not until I became third in the Firm, that Clarriker betrayed me to
@@ -21105,7 +21109,7 @@ that poor dream, as I once used to call it, has all gone by, [[characters/biddy|
 gone by!”
 
 Nevertheless, I knew, while I said those words, that I secretly
-intended to revisit the site of the old house that evening, alone, for
+intended to revisit the site of the old [[house]] that evening, [[Alone|alone]], for
 her sake. Yes, even so. For [[characters/estella|Estella]]’s sake.
 
 I had heard of her as leading a most unhappy life, and as being
@@ -21121,7 +21125,7 @@ hurrying my talk with [[characters/biddy|Biddy]], to walk over to the old spot b
 But, what with loitering on the way to look at old objects and to think
 of old times, the day had quite declined when I came to the place.
 
-There was no house now, no brewery, no building whatever left, but the
+There was no [[house]] now, no brewery, no building whatever left, but the
 wall of the old [[motifs/garden|garden]]. The cleared space had been enclosed with a
 rough fence, and looking over it, I saw that some of the old ivy had
 struck root anew, and was growing green on low quiet mounds of ruin. A
@@ -21130,7 +21134,7 @@ gate in the fence standing ajar, I pushed it open, and went in.
 A cold silvery mist had veiled the afternoon, and the [[motifs/moon|moon]] was not yet
 up to scatter it. But, the [[motifs/stars|stars]] were shining beyond the mist, and the
 [[motifs/moon|moon]] was coming, and the evening was not dark. I could trace out where
-every part of the old house had been, and where the brewery had been,
+every part of the old [[house]] had been, and where the brewery had been,
 and where the gates, and where the casks. I had done so, and was
 looking along the desolate [[motifs/garden|garden]] walk, when I beheld a solitary figure
 in it.

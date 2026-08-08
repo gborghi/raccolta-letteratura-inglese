@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire" data-author="Coleridge" data-workhref="works/greek-mythology-·-lust-sexual-desire-·-desire-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="034_an_ode_in_the_manner_of_anacreon" data-title="AN ODE IN THE MANNER OF ANACREON" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/rose,motif/wine_and_drink,concept/love_romantic,form/ode,form/lyric,histref/classical_antiquity,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="034_an_ode_in_the_manner_of_anacreon" data-title="AN ODE IN THE MANNER OF ANACREON" data-chapter="" data-kind="intro"></span>
 
 
 As late, in wreaths, gay [[motifs/flowers|flowers]] I bound,  
@@ -27,14 +27,14 @@ Fluttering his wings within my breast!
 
 
 
-<span class="atom-split" data-atom="044_kisses" data-title="KISSES" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/love,concept/love_romantic,concept/lust,concept/joy,form/lyric,histref/greek_mythology,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="044_kisses" data-title="KISSES" data-chapter="" data-kind="intro"></span>
 
 
 Cupid, if storying Legends tell aright,  
 Once fram’d a rich Elixir of Delight.  
 A Chalice o’er [[motifs/love|love]]-kindled flames he fix’d,  
 And in it Nectar and Ambrosia mix’d:  
-With these the magic dews which Evening brings,   5  
+With these the [[Magic|magic]] dews which Evening brings,   5  
 Brush’d from the Idalian star by faery wings:  
 Each tender pledge of sacred [[concepts/faith|Faith]] he join’d,  
 Each gentler Pleasure of th’ unspotted mind —  
@@ -53,7 +53,7 @@ And breath’d on Sara’s lovelier lips the rest.
 
 
 
-<span class="atom-split" data-atom="054_imitated_from_the_welsh" data-title="IMITATED FROM THE WELSH" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/fire,motif/love,concept/love_romantic,form/epigram,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="054_imitated_from_the_welsh" data-title="IMITATED FROM THE WELSH" data-chapter="" data-kind="intro"></span>
 
 
 If while my passion I impart,  
@@ -69,7 +69,7 @@ It wishes to discover.
 
 
 
-<span class="atom-split" data-atom="063_the_kiss" data-title="THE KISS" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/rose,motif/wind,motif/flowers,concept/love_romantic,concept/lust,form/lyric,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="063_the_kiss" data-title="THE KISS" data-chapter="" data-kind="intro"></span>
 
 
 One kiss, dear Maid! I said and sigh’d —  
@@ -106,7 +106,7 @@ The gentle violence of Joy.
 
 
 
-<span class="atom-split" data-atom="066_to_miss_brunton" data-title="TO MISS BRUNTON" data-chapter="" data-kind="intro" data-tags="concept/the_artist_and_society,concept/beauty,concept/joy,form/lyric,histref/greek_mythology,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="066_to_miss_brunton" data-title="TO MISS BRUNTON" data-chapter="" data-kind="intro"></span>
 
 
 WITH THE PRECEDING [[forms/translation|TRANSLATION]]  
@@ -127,15 +127,15 @@ I have my Brunton too.’
 
 
 
-<span class="atom-split" data-atom="106_the_silver_thimble" data-title="THE SILVER THIMBLE" data-chapter="" data-kind="intro" data-tags="concept/the_artist_and_society,concept/friendship,form/narrative_poem,histref/greek_mythology,histref/classical_antiquity,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="106_the_silver_thimble" data-title="THE SILVER THIMBLE" data-chapter="" data-kind="intro"></span>
 
 
-THE PRODUCTION OF A YOUNG LADY, ADDRESSED TO THE AUTHOR OF THE POEMS ALLUDED TO IN THE PRECEDING EPISTLE  
+THE PRODUCTION OF A YOUNG LADY, ADDRESSED TO THE AUTHOR OF THE [[Poems|POEMS]] ALLUDED TO IN THE PRECEDING EPISTLE  
 She had lost her Silver Thimble, and her complaint being  
 accidentally overheard by him, her Friend, he immediately sent  
 her four others to take her choice of.  
 As oft mine eye with careless glance  
-Has gallop’d thro’ some old romance,  
+Has gallop’d thro’ some old [[Romance|romance]],  
 Of speaking [[motifs/birds|Birds]] and Steeds with wings,  
 Giants and Dwarfs, and Fiends and Kings;  
 Beyond the rest with more attentive care   5  
@@ -204,7 +204,7 @@ SARA.
 
 
 
-<span class="atom-split" data-atom="163_catullian_hendecasyllables" data-title="CATULLIAN HENDECASYLLABLES" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/desire,motif/the_sea,motif/moon,motif/rose,concept/love_romantic,form/lyric,histref/greek_mythology,histref/classical_antiquity,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="163_catullian_hendecasyllables" data-title="CATULLIAN HENDECASYLLABLES" data-chapter="" data-kind="intro"></span>
 
 
 Hear, my belovéd, an old Milesian story! —  
@@ -229,7 +229,7 @@ Shivering with ecstasy sank upon her bosom.
 
 
 
-<span class="atom-split" data-atom="361_jeux_desprit_my_godmothers_beard" data-title="JEUX D’ESPRIT: MY GODMOTHER’S BEARD" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/lust,concept/pride,form/epigram,histref/greek_mythology,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="361_jeux_desprit_my_godmothers_beard" data-title="JEUX D’ESPRIT: MY GODMOTHER’S BEARD" data-chapter="" data-kind="intro"></span>
 
 
 So great the charms of Mrs. Mundy,  
@@ -257,7 +257,7 @@ or 1831. First collected in Coleridge’s [[works/poems-(chesterton)|Poems]], 19
 
 
 
-<span class="atom-split" data-atom="367_the_wills_of_the_wisp" data-title="THE WILLS OF THE WISP" data-chapter="" data-kind="intro" data-tags="archetype/femme_fatale,motif/the_supernatural,motif/light_and_dark,concept/deception,concept/love_romantic,form/lyric,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="367_the_wills_of_the_wisp" data-title="THE WILLS OF THE WISP" data-chapter="" data-kind="intro"></span>
 
 
 A SAPPHIC  
@@ -276,7 +276,7 @@ and D. W., 1877, ii. 169.
 
 
 
-<span class="atom-split" data-atom="433_milesisches_mährchen" data-title="MILESISCHES MÄHRCHEN" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/the_sea,motif/night,motif/rose,concept/love_romantic,histref/greek_mythology,histref/classical_antiquity,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="433_milesisches_mährchen" data-title="MILESISCHES MÄHRCHEN" data-chapter="" data-kind="intro"></span>
 
 
 Ein milesisches Mährchen, Adonide:  
@@ -304,7 +304,7 @@ B
 
 
 
-<span class="atom-split" data-atom="446_alla_sua_amica" data-title="ALLA SUA AMICA" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/fire,motif/eyes_sight,concept/lust,concept/sin_and_the_fall,concept/love_romantic,form/sonnet,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="446_alla_sua_amica" data-title="ALLA SUA AMICA" data-chapter="" data-kind="intro"></span>
 
 
 Sonetto.  

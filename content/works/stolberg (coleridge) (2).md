@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/war-as-glory|War as Glory]]
-**Archetypes:** [[archetypes/child|Child]]
+**Archetypes:** Child
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/blood|Blood]]
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]]
 

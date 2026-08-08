@@ -27,7 +27,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]], [[topoi/love-as-religion|Love as Religion]]
-**Archetypes:** [[archetypes/lover|Lover]]
+**Archetypes:** Lover
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/truth|Truth]], [[concepts/beauty|Beauty]], [[concepts/imagination|Imagination]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

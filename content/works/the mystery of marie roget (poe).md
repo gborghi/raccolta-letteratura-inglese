@@ -70,12 +70,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]]
+**Archetypes:** Detective, (Reputed) Fallen Woman
 **Motifs:** [[motifs/death|Death]], [[motifs/blood|Blood]], [[motifs/river|River]], [[motifs/water|Water]], [[motifs/grave|Grave]], [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/terror-and-horror|Terror and Horror]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
 **Settings:** [[settings/paris|Paris]], [[settings/city-(2)|City (2)]], [[settings/europe|Europe]]
-**Characters:** [[characters/sherlock-holmes-homage|Sherlock Holmes Homage]], [[characters/c.-auguste-dupin|C. Auguste Dupin]], [[characters/marie-roget|Marie Roget]]
+**Characters:** Sherlock Holmes Homage, C. Auguste Dupin, Marie Roget
 
 ## Testo integrale / Full text
 

@@ -71,13 +71,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/contemptus-mundi|Contemptus Mundi]], [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/tragic-hero|Tragic Hero]]
+**Archetypes:** Outsider, Tragic Hero
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/grave|Grave]], [[motifs/animals|Animals]]
 **Themes & Concepts:** [[concepts/misanthropy|Misanthropy]], [[concepts/friendship|Friendship]], [[concepts/satire-of-society|Satire of Society]], [[concepts/social-injustice|Social Injustice]], [[concepts/alienation|Alienation]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/mortality|Mortality]], [[concepts/pride|Pride]]
 **Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/satire|Satire]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/ancient-greece|Ancient Greece]]
 **Settings:** [[settings/ancient-greece-(2)|Ancient Greece (2)]]
-**Characters:** [[characters/timon|Timon]], [[characters/apemantus|Apemantus]], [[characters/alcibiades|Alcibiades]], [[characters/flavius|Flavius]], [[characters/lucullus|Lucullus]], [[characters/lucius|Lucius]], [[characters/sempronius|Sempronius]]
+**Characters:** Timon, Apemantus, Alcibiades, Flavius, Lucullus, Lucius, Sempronius
 
 ## Testo integrale / Full text
 

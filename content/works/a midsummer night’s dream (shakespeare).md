@@ -60,13 +60,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/combat-strife|Combat Strife]], [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/theatrum-mundi|Theatrum Mundi]]
-**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/lover|Lover]]
+**Archetypes:** Trickster, Lover
 **Motifs:** [[motifs/dreams|Dreams]], [[motifs/supernatural|Supernatural]], [[motifs/moon|Moon]], [[motifs/love|Love]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/imagination|Imagination]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]]
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
 **Settings:** [[settings/enchanted-wood-(2)|Enchanted Wood (2)]], [[settings/ancient-greece-(2)|Ancient Greece (2)]]
-**Characters:** [[characters/oberon|Oberon]], [[characters/titania|Titania]], [[characters/puck|Puck]], [[characters/bottom|Bottom]], [[characters/theseus|Theseus]], [[characters/hippolyta|Hippolyta]], [[characters/hermia|Hermia]], [[characters/lysander|Lysander]], [[characters/helena|Helena]], [[characters/demetrius|Demetrius]]
+**Characters:** Oberon, Titania, Puck, Bottom, Theseus, Hippolyta, Hermia, Lysander, Helena, Demetrius
 
 ## Testo integrale / Full text
 

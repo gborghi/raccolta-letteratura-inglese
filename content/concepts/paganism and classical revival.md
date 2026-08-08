@@ -32,7 +32,7 @@ tags:
 - [[works/heret12-(chesterton)|heret12 (Chesterton)]]
 - [[works/nightmare-(chesterton)|nightmare (Chesterton)]]
 - [[works/strange-city-(chesterton)|strange-city (Chesterton)]]
-- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#034_ode_to_psyche|ODE TO PSYCHE (Keats)]]
+- [[works/ode-to-psyche-(keats)|ODE TO PSYCHE (Keats)]]
 
 </div>
 

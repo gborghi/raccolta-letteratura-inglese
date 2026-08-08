@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/wonder-and-gratitude-sublime-storm" data-author="Whitman" data-workhref="works/wonder-and-gratitude-·-sublime-·-storm-(whitman)"></div>
 
 
-<span class="atom-split" data-atom="010_beginning_my_studies" data-title="Beginning My Studies" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/joy,concept/wonder_and_gratitude,concept/the_sublime,form/free_verse,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="010_beginning_my_studies" data-title="Beginning My Studies" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -22,7 +22,7 @@ The mere fact consciousness, these forms, the power of motion,
 The least insect or animal, the senses, eyesight, [[motifs/love|love]],  
 The first step I say awed me and pleas’d me so much,  
 I have hardly gone and hardly wish’d to go any farther,  
-But stop and loiter all the [[motifs/time|time]] to sing it in ecstatic songs.  
+But stop and loiter all the [[motifs/time|time]] to sing it in ecstatic [[songs]].  
 
 
 
@@ -31,7 +31,7 @@ But stop and loiter all the [[motifs/time|time]] to sing it in ecstatic songs.
 
 
 
-<span class="atom-split" data-atom="071_earth_my_likeness" data-title="Earth, My Likeness" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,topos/book_of_nature,motif/nature,concept/lust,concept/the_body,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="071_earth_my_likeness" data-title="Earth, My Likeness" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CALAMUS_  
@@ -44,7 +44,7 @@ I now suspect there is something fierce in you eligible to burst forth,
 For an athlete is enamour’d of me, and I of him,  
 But toward him there is something fierce and terrible in me eligible  
 to burst forth,  
-I dare not tell it in words, not even in these songs.  
+I dare not tell it in words, not even in these [[songs]].  
 
 
 
@@ -53,7 +53,7 @@ I dare not tell it in words, not even in these songs.
 
 
 
-<span class="atom-split" data-atom="111_patroling_barnegat" data-title="Patroling Barnegat" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/the_sea,motif/night,motif/death,motif/wind,concept/the_sublime,form/free_verse,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="111_patroling_barnegat" data-title="Patroling Barnegat" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SEA-DRIFT_  
@@ -81,7 +81,7 @@ That savage trinity warily watching.
 
 
 
-<span class="atom-split" data-atom="116_gods" data-title="Gods" data-chapter="" data-kind="intro" data-tags="motif/death,motif/stars,concept/comradeship,concept/self_and_soul,concept/faith,form/free_verse,form/hymn,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="116_gods" data-title="Gods" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -154,7 +154,7 @@ The sleeping mother and babe--hush’d, I study them long and long.
 
 
 
-<span class="atom-split" data-atom="147_rise_o_days_from_your_fathomless_deeps" data-title="Rise O Days from Your Fathomless Deeps" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/the_sea,motif/nature,motif/serpent_snake,concept/democracy,concept/war_and_its_cost,form/ode,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="147_rise_o_days_from_your_fathomless_deeps" data-title="Rise O Days from Your Fathomless Deeps" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -235,7 +235,7 @@ No more the [[settings/mountains|mountains]] roam or sail the stormy sea.
 
 
 
-<span class="atom-split" data-atom="200_the_singer_in_the_prison" data-title="The Singer in the Prison" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/music_and_song,concept/grace_and_redemption,concept/sin_and_the_fall,concept/self_and_soul,form/hymn,character/death_personified,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="200_the_singer_in_the_prison" data-title="The Singer in the Prison" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_  
@@ -319,7 +319,7 @@ O fearful thought--a convict [[motifs/soul|soul]].
 
 
 
-<span class="atom-split" data-atom="211_miracles" data-title="Miracles" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/the_sea,motif/stars,motif/the_city,concept/wonder_and_gratitude,concept/faith,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="211_miracles" data-title="Miracles" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -360,7 +360,7 @@ What stranger miracles are there?
 
 
 
-<span class="atom-split" data-atom="218_who_learns_my_lesson_complete" data-title="Who Learns My Lesson Complete?" data-chapter="" data-kind="intro" data-tags="motif/stars,concept/immortality,concept/wonder_and_gratitude,concept/the_sublime,concept/the_common_man,form/free_verse,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="218_who_learns_my_lesson_complete" data-title="Who Learns My Lesson Complete?" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_  
@@ -391,7 +391,7 @@ the untruth of a single second,
 I do not think it was made in six days, nor in ten thousand years,  
 nor ten billions of years,  
 Nor plann’d and built one thing after another as an architect plans  
-and builds a house.  
+and builds a [[house]].  
 
 I do not think seventy years is the [[motifs/time|time]] of a man or woman,  
 Nor that seventy millions of years is the [[motifs/time|time]] of a man or woman,  
@@ -424,7 +424,7 @@ wonderful.
 
 
 
-<span class="atom-split" data-atom="239_yet_yet_ye_downcast_hours" data-title="Yet, Yet, Ye Downcast Hours" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/doubt,concept/mortality,concept/melancholy,concept/faith_and_doubt,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="239_yet_yet_ye_downcast_hours" data-title="Yet, Yet, Ye Downcast Hours" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_
@@ -456,7 +456,7 @@ A young man’s voice, Shall I not escape?
 
 
 
-<span class="atom-split" data-atom="241_assurances" data-title="Assurances" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_sea,concept/faith,concept/immortality,concept/self_and_soul,concept/providence,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="241_assurances" data-title="Assurances" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_
@@ -497,7 +497,7 @@ believe Heavenly [[motifs/death|Death]] provides for all.
 
 
 
-<span class="atom-split" data-atom="258_to_a_locomotive_in_winter" data-title="To a Locomotive in Winter" data-chapter="" data-kind="intro" data-tags="motif/machine,motif/winter,motif/storm,motif/fog_and_smoke,concept/wonder_and_gratitude,concept/beauty,form/ode,histref/the_industrial_revolution,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="258_to_a_locomotive_in_winter" data-title="To a Locomotive in Winter" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_  
@@ -541,7 +541,7 @@ To the free skies unpent and glad and strong.
 
 
 
-<span class="atom-split" data-atom="262_a_riddle_song" data-title="A Riddle Song" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,topos/the_quest,motif/love,motif/the_sea,concept/self_and_soul,form/song,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="262_a_riddle_song" data-title="A Riddle Song" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_  
@@ -557,7 +557,7 @@ Costless, vouchsafed to each, yet never man the owner,
 Which poets vainly seek to put in rhyme, historians in prose,  
 Which sculptor never chisel’d yet, nor painter painted,  
 Which vocalist never sung, nor orator nor actor ever utter’d,  
-Invoking here and now I challenge for my song.  
+Invoking here and now I challenge for my [[Song|song]].  
 
 Indifferently, ’mid public, private haunts, in [[concepts/solitude|solitude]],  
 Behind the mountain and the wood,  
@@ -599,10 +599,10 @@ And heaven at last for it.
 
 
 
-<span class="atom-split" data-atom="281_song_at_sunset" data-title="Song at Sunset" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/nature,concept/wonder_and_gratitude,concept/joy,concept/mortality,form/hymn,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="281_song_at_sunset" data-title="Song at Sunset" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: SONGS OF PARTING_  
+_Cluster: [[songs|SONGS]] OF PARTING_  
 
 
 Splendor of ended day floating and filling me,  
@@ -657,7 +657,7 @@ me and [[settings/america|America]]!
 I take your strong chords, intersperse them, and cheerfully pass  
 them forward.  
 
-I too carol the sun, usher’d or at [[motifs/noon|noon]], or as now, setting,  
+I too [[carol]] the sun, usher’d or at [[motifs/noon|noon]], or as now, setting,  
 I too throb to the brain and [[concepts/beauty|beauty]] of the earth and of all the  
 growths of the earth,  
 I too have felt the resistless call of myself.  
@@ -695,7 +695,7 @@ I still warble under you, if none else does, unmitigated adoration.
 _Cluster: GOOD-BYE MY FANCY_
 
 
-The soothing sanity and blitheness of completion,
+The soothing [[Sanity|sanity]] and blitheness of completion,
 The pomp and hurried contest-glare and rush are done;
 Now triumph! transformation! jubilate!
 
@@ -706,20 +706,20 @@ Now triumph! transformation! jubilate!
 
 
 
-<span class="atom-split" data-atom="366_old_chants" data-title="Old Chants" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/history,concept/the_artist_and_society,form/free_verse,histref/classical_antiquity,histref/the_bible,histref/greek_mythology,histref/arthurian_legend,histref/dante,setting/america,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="366_old_chants" data-title="Old Chants" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
 
 
-An ancient song, reciting, ending,  
+An ancient [[Song|song]], reciting, ending,  
 Once gazing toward thee, Mother of All,  
 Musing, seeking themes fitted for thee,  
 Accept me, thou saidst, the elder ballads,  
 And name for me before thou goest each ancient poet.  
 
 (Of many debts incalculable,  
-Haply our New World’s chieftest debt is to old poems.)  
+Haply our New World’s chieftest debt is to old [[Poems|poems]].)  
 
 Ever so far back, preluding thee, [[settings/america|America]],  
 Old chants, Egyptian priests, and those of Ethiopia,  
@@ -749,21 +749,21 @@ Thou enterest at thy entrance porch.
 
 
 
-<span class="atom-split" data-atom="377_the_unexpress_d" data-title="The Unexpress’d" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/stars,concept/the_artist_and_society,concept/the_sublime,form/free_verse,histref/classical_antiquity,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="377_the_unexpress_d" data-title="The Unexpress’d" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
 
 
 How dare one say it?  
-After the cycles, poems, singers, plays,  
+After the cycles, [[Poems|poems]], singers, plays,  
 Vaunted Ionia’s, India’s--Homer, Shakspere--the long, long times’  
 thick dotted roads, areas,  
 The shining clusters and the Milky Ways of [[motifs/stars|stars]]--[[concepts/nature|Nature]]’s pulses reap’d,  
 All retrospective passions, heroes, war, [[motifs/love|love]], adoration,  
 All ages’ plummets dropt to their utmost depths,  
 All human lives, throats, wishes, brains--all experiences’ utterance;  
-After the countless songs, or long or short, all tongues, all lands,  
+After the countless [[songs]], or long or short, all tongues, all lands,  
 Still something not yet told in poesy’s voice or print--something lacking,  
 (Who knows? the best yet unexpress’d and lacking.)  
 

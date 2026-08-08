@@ -56,13 +56,13 @@ tags:
 
 **Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]]
 
-**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]]
+**Archetypes:** Fool, Trickster
 **Motifs:** [[motifs/dreams|Dreams]], [[motifs/supernatural|Supernatural]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/night|Night]]
 **Themes & Concepts:** [[concepts/joy|Joy]], [[concepts/imagination|Imagination]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/greatness|Greatness]], [[concepts/common-man|Common Man]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]]
 **Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/comedy|Comedy]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/elizabethan-england|Elizabethan England]], [[historical-references/puritanism|Puritanism]]
 **Settings:** [[settings/enchanted-wood-(2)|Enchanted Wood (2)]], [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/rural-england|Rural England]]
-**Characters:** [[characters/hamlet|Hamlet]], [[characters/bottom|Bottom]], [[characters/puck|Puck]], [[characters/theseus|Theseus]]
+**Characters:** Hamlet, Bottom, Puck, Theseus
 
 ## Testo integrale / Full text
 

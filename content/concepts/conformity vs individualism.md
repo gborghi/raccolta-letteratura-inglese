@@ -26,7 +26,7 @@ tags:
 - [[works/american-morals-(chesterton)|american-morals (Chesterton)]]
 - [[works/manalive-(chesterton)|manalive (Chesterton)]]
 - [[works/runabbot-(chesterton)|runabbot (Chesterton)]]
-- [[testi/dickinson/atomized/terror-and-horror-madness#0435_much_madness_is_divinest_sense|435. Much Madness is divinest Sense — (Dickinson)]]
+- 435. Much Madness is divinest Sense — (Dickinson)
 - [[works/lambkin's-remains-(belloc)|Lambkin's Remains (Belloc)]]
 
 </div>

@@ -33,7 +33,7 @@ Il suo splendore è versato sulla sabbia.
 Chi è superbo quando i cieli s'umiliano,  
 Chi s'innalza se le [[settings/mountains|montagne]] cadono,  
 Se le fisse [[motifs/stars|stelle]] vacillano e rovinano  
-E un diluvio d'[[motifs/love|amore]] tutto sommerge—  
+E un [[deluge|diluvio]] d'[[motifs/love|amore]] tutto sommerge—  
 Chi leva alto il capo per una [[motifs/crown|corona]],  
 Chi leva alta la volontà per un mandato,  
 Chi lotta col torrente stellato,  
@@ -80,7 +80,7 @@ Its splendour is spilt on the sand.
 Who is proud when the heavens are humble,  
 Who mounts if the [[settings/mountains|mountains]] fall,  
 If the fixed [[motifs/stars|stars]] topple and tumble  
-And a deluge of [[motifs/love|love]] drowns all-  
+And a [[deluge]] of [[motifs/love|love]] drowns all-  
 Who rears up his head for a [[motifs/crown|crown]],  
 Who holds up his will for a warrant,  
 Who strives with the starry torrent,  
@@ -125,7 +125,7 @@ Il suo splendore è versato sulla sabbia.
 Chi è superbo quando i cieli s'umiliano,  
 Chi s'innalza se le [[settings/mountains|montagne]] cadono,  
 Se le fisse [[motifs/stars|stelle]] vacillano e rovinano  
-E un diluvio d'[[motifs/love|amore]] tutto sommerge—  
+E un [[deluge|diluvio]] d'[[motifs/love|amore]] tutto sommerge—  
 Chi leva alto il capo per una [[motifs/crown|corona]],  
 Chi leva alta la volontà per un mandato,  
 Chi lotta col torrente stellato,  

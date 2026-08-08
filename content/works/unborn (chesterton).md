@@ -39,7 +39,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/child|Child]]
+**Archetypes:** Child
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 

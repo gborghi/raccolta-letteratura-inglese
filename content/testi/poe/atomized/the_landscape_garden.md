@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_landscape_garden" data-title="The Landscape Garden" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-landscape-garden-(poe)|The Landscape Garden]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -92,7 +92,7 @@ Un piacere incessante e continuo caratterizzava la sua vita…
 
 Il risultato è frutto di un accordo premeditato. È evidente, infatti, che…
 
-Meno di quella filosofia istintiva che, di tanto in tanto, si manifesta così chiaramente.
+Meno di quella [[philosophy|filosofia]] istintiva che, di tanto in tanto, si manifesta così chiaramente.
 
 Invece di esperienza, il signor Ellison avrebbe trovato.
 
@@ -381,7 +381,7 @@ Il più grande vantaggio, nel realizzare il suo destino di Poeta.
 
 Nella sua spiegazione di questa fraseologia, il signor Ellison ha fatto molto…
 
-Nella ricerca di una soluzione a ciò che per me è sempre stato un enigma, intendo dire.
+Nella ricerca di una soluzione a ciò che per me è sempre stato un [[An Enigma|enigma]], intendo dire.
 
 Il fatto (che solo gli ignoranti contestano) che non esista nulla del genere
 
@@ -429,7 +429,7 @@ Piuttosto che avvicinarsi alla bellezza umana, viva e reale, così com'è.
 
 dicendo: “Ho visto più bellezze viventi, mature e reali, di quante ne abbia viste in tutto, ”
 
-Il nonsenso del loro ideale di pietra. Nel paesaggio, solo, c’è.
+Il nonsenso del loro ideale di pietra. Nel paesaggio, [[Alone|solo]], c’è.
 
 Il principio del critico è vero; e, avendone percepita la [[concepts/truth|verità]] in questo caso, esso.
 
@@ -447,7 +447,7 @@ Affermazione o chimera? La matematica non offre nulla di assoluto in questo sens
 
 Tali apparentemente arbitrarie disposizioni di materia o forma…
 
-Costituiscono, ed è proprio unicamente questo che costituisce, la vera [[concepts/beauty|bellezza]]. Eppure lui.
+Costituiscono, ed è proprio [[Alone|unicamente]] questo che costituisce, la vera [[concepts/beauty|bellezza]]. Eppure lui.
 
 Le ragioni non sono ancora state messe in parole… Resta da farlo.
 
@@ -473,7 +473,7 @@ La stessa modifica.
 
 
 
-Ripeto che, nelle composizioni paesaggistiche o in combinazioni isolate,
+Ripeto che, nelle composizioni paesaggistiche o in combinazioni [[Alone|isolate]],
 
 La natura fisica è suscettibile di “esaltazione”, e.
 
@@ -816,7 +816,7 @@ uninterrupted enjoyment which distinguished his life was in great
 
 part the result of preconcert. It is, indeed evident, that with
 
-less of the instinctive philosophy which, now and then, stands so
+less of the instinctive [[philosophy]] which, now and then, stands so
 
 [[motifs/well|well]] in the stead of experience, Mr. Ellison would have found
 
@@ -898,7 +898,7 @@ end of the hundred years. Many futile attempts had been made to
 
 set aside this singular bequest; their ex post facto character
 
-rendered them abortive; but the attention of a jealous government
+rendered them abortive; but the attention of a jealous [[government]]
 
 was aroused, and a decree finally obtained, forbidding all
 
@@ -1004,7 +1004,7 @@ Un piacere incessante e continuo caratterizzava la sua vita…
 
 Il risultato è frutto di un accordo premeditato. È evidente, infatti, che…
 
-Meno di quella filosofia istintiva che, di tanto in tanto, si manifesta così chiaramente.
+Meno di quella [[philosophy|filosofia]] istintiva che, di tanto in tanto, si manifesta così chiaramente.
 
 Invece di esperienza, il signor Ellison avrebbe trovato.
 
@@ -1295,7 +1295,7 @@ the greatest advantage—in the fulfilment of his destiny as Poet.
 
 In his explanation of this phraseology, Mr. Ellison did much
 
-towards solving what has always seemed to me an enigma. I mean
+towards solving what has always seemed to me [[An Enigma|an enigma]]. I mean
 
 the fact (which none but the ignorant dispute) that no such
 
@@ -1477,7 +1477,7 @@ Il più grande vantaggio, nel realizzare il suo destino di Poeta.
 
 Nella sua spiegazione di questa fraseologia, il signor Ellison ha fatto molto…
 
-Nella ricerca di una soluzione a ciò che per me è sempre stato un enigma, intendo dire.
+Nella ricerca di una soluzione a ciò che per me è sempre stato un [[An Enigma|enigma]], intendo dire.
 
 Il fatto (che solo gli ignoranti contestano) che non esista nulla del genere
 
@@ -1528,7 +1528,7 @@ gladdens our daily path. Byron, who often erred, erred not in
 
 saying, I’ve seen more living [[concepts/beauty|beauty]], ripe and real, than all the
 
-nonsense of their stone ideal. In landscape alone is the
+nonsense of their stone ideal. In landscape [[Alone|alone]] is the
 
 principle of the critic true; and, having felt its [[concepts/truth|truth]] here, it
 
@@ -1546,7 +1546,7 @@ demonstrations, than the sentiment of his Art yields to the
 
 such apparently arbitrary arrangements of matter, or form,
 
-constitute, and alone constitute, the true [[concepts/beauty|Beauty]]. Yet his
+constitute, and [[Alone|alone]] constitute, the true [[concepts/beauty|Beauty]]. Yet his
 
 reasons have not yet been matured into expression. It remains for
 
@@ -1570,7 +1570,7 @@ the identical emendation.
 
 
 
-I repeat that in landscape arrangements, or collocations alone,
+I repeat that in landscape arrangements, or collocations [[Alone|alone]],
 
 is the physical [[concepts/nature|Nature]] susceptible of “exaltation” and that,
 
@@ -1709,7 +1709,7 @@ Piuttosto che avvicinarsi alla bellezza umana, viva e reale, così com'è.
 
 dicendo: “Ho visto più bellezze viventi, mature e reali, di quante ne abbia viste in tutto, ”
 
-Il nonsenso del loro ideale di pietra. Nel paesaggio, solo, c’è.
+Il nonsenso del loro ideale di pietra. Nel paesaggio, [[Alone|solo]], c’è.
 
 Il principio del critico è vero; e, avendone percepita la [[concepts/truth|verità]] in questo caso, esso.
 
@@ -1727,7 +1727,7 @@ Affermazione o chimera? La matematica non offre nulla di assoluto in questo sens
 
 Tali apparentemente arbitrarie disposizioni di materia o forma…
 
-Costituiscono, ed è proprio unicamente questo che costituisce, la vera [[concepts/beauty|bellezza]]. Eppure lui.
+Costituiscono, ed è proprio [[Alone|unicamente]] questo che costituisce, la vera [[concepts/beauty|bellezza]]. Eppure lui.
 
 Le ragioni non sono ancora state messe in parole… Resta da farlo.
 
@@ -1753,7 +1753,7 @@ La stessa modifica.
 
 
 
-Ripeto che, nelle composizioni paesaggistiche o in combinazioni isolate,
+Ripeto che, nelle composizioni paesaggistiche o in combinazioni [[Alone|isolate]],
 
 La natura fisica è suscettibile di “esaltazione”, e.
 

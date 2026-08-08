@@ -19,7 +19,7 @@ _Cluster: INSCRIPTIONS_
 
 I heard that you ask’d for something to prove this puzzle the New World,
 And to define [[settings/america|America]], her athletic [[concepts/democracy|Democracy]],
-Therefore I send you my poems that you behold in them what you wanted.
+Therefore I send you my [[Poems|poems]] that you behold in them what you wanted.
 
 
 
@@ -28,7 +28,7 @@ Therefore I send you my poems that you behold in them what you wanted.
 
 
 
-<span class="atom-split" data-atom="012_to_the_states" data-title="To the States" data-chapter="" data-kind="intro" data-tags="archetype/rebel,concept/democracy,concept/reform,form/free_verse,form/epigram,setting/america,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="012_to_the_states" data-title="To the States" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -47,16 +47,16 @@ afterward resumes its liberty.
 
 
 
-<span class="atom-split" data-atom="013_on_journeys_through_the_states" data-title="On Journeys Through the States" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,topos/eternal_return,archetype/pilgrim,motif/the_journey,motif/seasons,form/free_verse,setting/america,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="013_on_journeys_through_the_states" data-title="On Journeys Through the States" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
 
 
 On journeys through the States we start,  
-(Ay through the world, urged by these songs,  
+(Ay through the world, urged by these [[songs]],  
 Sailing henceforth to every land, to every sea,)  
-We willing learners of all, teachers of all, and lovers of all.  
+We willing learners of all, teachers of all, and [[lovers]] of all.  
 
 We have watch’d the [[motifs/seasons|seasons]] dispensing themselves and passing on,  
 And have said, Why should not a man or woman do as much as the  
@@ -80,7 +80,7 @@ And may be just as much as the [[motifs/seasons|seasons]].
 
 
 
-<span class="atom-split" data-atom="018_i_hear_america_singing" data-title="I Hear America Singing" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/democracy,concept/the_common_man,concept/joy,form/free_verse,form/song,setting/america,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="018_i_hear_america_singing" data-title="I Hear America Singing" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -94,14 +94,14 @@ The boatman singing what belongs to him in his boat, the deckhand
 singing on the steamboat deck,  
 The shoemaker singing as he sits on his bench, the hatter singing as  
 he stands,  
-The wood-cutter’s song, the ploughboy’s on his way in the morning,  
+The wood-cutter’s [[Song|song]], the ploughboy’s on his way in the morning,  
 or at [[motifs/noon|noon]] intermission or at sundown,  
 The delicious singing of the mother, or of the young wife at work,  
 or of the girl sewing or washing,  
 Each singing what belongs to him or her and to none else,  
 The day what belongs to the day--at [[motifs/night|night]] the party of young  
 fellows, robust, friendly,  
-Singing with open mouths their strong melodious songs.  
+Singing with open mouths their strong melodious [[songs]].  
 
 
 
@@ -110,7 +110,7 @@ Singing with open mouths their strong melodious songs.
 
 
 
-<span class="atom-split" data-atom="046_for_you_o_democracy" data-title="For You, O Democracy" data-chapter="" data-kind="intro" data-tags="motif/nature,concept/democracy,concept/comradeship,concept/nationalism_and_patriotism,form/free_verse,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="046_for_you_o_democracy" data-title="For You, O Democracy" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CALAMUS_  
@@ -129,7 +129,7 @@ By the [[motifs/love|love]] of comrades,
 By the manly [[motifs/love|love]] of comrades.  
 
 For you these from me, O [[concepts/democracy|Democracy]], to serve you ma femme!  
-For you, for you I am trilling these songs.  
+For you, for you I am trilling these [[songs]].  
 
 
 
@@ -138,7 +138,7 @@ For you, for you I am trilling these songs.
 
 
 
-<span class="atom-split" data-atom="082_salut_au_monde" data-title="Salut au Monde!" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/the_sea,concept/democracy,concept/comradeship,concept/the_common_man,form/free_verse,histref/christianity,histref/eastern_religion,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="082_salut_au_monde" data-title="Salut au Monde!" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -181,13 +181,13 @@ I hear emulous shouts of Australians pursuing the wild [[motifs/horse|horse]],
 I hear the Spanish [[motifs/dance|dance]] with castanets in the chestnut shade, to  
 the rebeck and guitar,  
 I hear continual echoes from the Thames,  
-I hear fierce French liberty songs,  
-I hear of the Italian boat-sculler the musical recitative of old poems,  
+I hear fierce French liberty [[songs]],  
+I hear of the Italian boat-sculler the musical recitative of old [[Poems|poems]],  
 I hear the locusts in Syria as they strike the grain and grass with  
 the showers of their terrible clouds,  
 I hear the Coptic refrain toward sundown, pensively falling on the  
 breast of the black venerable vast mother the Nile,  
-I hear the chirp of the Mexican muleteer, and the bells of the mule,  
+I hear the chirp of the Mexican muleteer, and [[The Bells|the bells]] of the mule,  
 I hear the Arab muezzin calling from the top of the mosque,  
 I hear the Christian priests at the altars of their churches, I hear  
 the responsive base and soprano,  
@@ -208,7 +208,7 @@ thousand years ago.
 4  
 What do you see Walt Whitman?  
 Who are they you salute, and that one after another salute you?  
-I see a great round [[concepts/wonder|wonder]] rolling through space,  
+I see a great round [[concepts/wonder|wonder]] [[rolling]] through space,  
 I see diminute farms, hamlets, ruins, graveyards, jails, factories,  
 palaces, hovels, huts of barbarians, tents of nomads upon the surface,  
 I see the shaded part on one side where the sleepers are sleeping,  
@@ -348,7 +348,7 @@ I see over the pampas the pursuit of wild cattle for their hides.
 I see the regions of [[motifs/snow|snow]] and ice,  
 I see the sharp-eyed Samoiede and the Finn,  
 I see the seal-seeker in his boat poising his lance,  
-I see the Siberian on his slight-built sledge drawn by dogs,  
+I see the Siberian on his slight-built sledge drawn by [[dogs]],  
 I see the porpoise-hunters, I see the whale-crews of the south  
 Pacific and the north Atlantic,  
 I see the cliffs, glaciers, torrents, valleys, of Switzerland--I  
@@ -467,7 +467,7 @@ I do not say one word against you, away back there where you stand,
 
 13  
 My spirit has pass’d in compassion and determination around the whole earth,  
-I have look’d for equals and lovers and found them ready for me in  
+I have look’d for equals and [[lovers]] and found them ready for me in  
 all lands,  
 I think some divine rapport has equalized me with them.  
 
@@ -494,7 +494,7 @@ For all the haunts and homes of men.
 
 
 
-<span class="atom-split" data-atom="086_our_old_feuillage" data-title="Our Old Feuillage" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/animals,motif/birds,concept/democracy,concept/nationalism_and_patriotism,concept/the_self,concept/labor,form/free_verse,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="086_our_old_feuillage" data-title="Our Old Feuillage" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -536,7 +536,7 @@ Afar on arctic ice the she-walrus lying drowsily while her cubs play around,
 The hawk sailing where men have not yet sail’d, the farthest polar  
 sea, ripply, crystalline, open, beyond the floes,  
 White drift spooning ahead where the [[motifs/ship|ship]] in the tempest dashes,  
-On solid land what is done in cities as the bells strike midnight together,  
+On solid land what is done in cities as [[The Bells|the bells]] strike midnight together,  
 In primitive woods the sounds there also sounding, the howl of the  
 wolf, the scream of the panther, and the hoarse bellow of the elk,  
 In [[motifs/winter|winter]] beneath the hard blue ice of Moosehead lake, in [[motifs/summer|summer]]  
@@ -627,7 +627,7 @@ The certainty of space, increase, [[concepts/freedom|freedom]], futurity,
 In space the sporades, the scatter’d islands, the [[motifs/stars|stars]]--on the firm  
 earth, the lands, my lands,  
 O lands! all so dear to me--what you are, (whatever it is,) I putting it  
-at random in these songs, become a part of that, whatever it is,  
+at random in these [[songs]], become a part of that, whatever it is,  
 Southward there, I screaming, with wings slow flapping, with the  
 myriads of gulls wintering along the coasts of Florida,  
 Otherways there atwixt the banks of the Arkansaw, the Rio Grande,  
@@ -652,11 +652,11 @@ In the Mannahatta, streets, piers, shipping, store-houses, and the
 countless workmen working in the shops,  
 And I too of the Mannahatta, singing thereof--and no less in myself  
 than the whole of the Mannahatta in itself,  
-Singing the song of These, my ever-united lands--my [[concepts/body|body]] no more  
+Singing the [[Song|song]] of These, my ever-united lands--my [[concepts/body|body]] no more  
 inevitably united, part to part, and made out of a thousand  
 diverse contributions one [[concepts/identity|identity]], any more than my lands  
 are inevitably united and made ONE [[concepts/identity|IDENTITY]];  
-Nativities, climates, the grass of the great pastoral Plains,  
+Nativities, climates, the grass of the great [[Pastoral|pastoral]] Plains,  
 Cities, labors, [[motifs/death|death]], [[motifs/animals|animals]], products, war, good and evil--these me,  
 These affording, in all their particulars, the old feuillage to me  
 and to [[settings/america|America]], how can I do less than pass the clew of the [[concepts/union|union]]  
@@ -673,7 +673,7 @@ bouquets of the incomparable feuillage of these States?
 
 
 
-<span class="atom-split" data-atom="095_pioneers_o_pioneers" data-title="Pioneers! O Pioneers!" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/death,motif/swords_weapons,concept/nationalism_and_patriotism,concept/comradeship,concept/labor,concept/nature_vs_civilization,form/free_verse,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="095_pioneers_o_pioneers" data-title="Pioneers! O Pioneers!" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/birds|BIRDS]] OF PASSAGE_  
@@ -761,7 +761,7 @@ All the forms and shows, all the workmen at their work,
 All the seamen and the landsmen, all the masters with their slaves,  
 Pioneers! O pioneers!  
 
-All the hapless silent lovers,  
+All the hapless silent [[lovers]],  
 All the prisoners in the prisons, all the righteous and the wicked,  
 All the joyous, all the sorrowing, all the living, all the dying,  
 Pioneers! O pioneers!  
@@ -819,7 +819,7 @@ Pioneers! O pioneers!
 
 
 
-<span class="atom-split" data-atom="113_a_boston_ballad_1854" data-title="A Boston Ballad [1854]" data-chapter="" data-kind="intro" data-tags="motif/ghosts,motif/crown,motif/the_grave,concept/social_injustice,concept/democracy,form/free_verse,form/satire,setting/new_england,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="113_a_boston_ballad_1854" data-title="A Boston Ballad [1854]" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -829,7 +829,7 @@ To get betimes in Boston town I [[motifs/rose|rose]] this morning early,
 Here’s a good place at the corner, I must stand and see the show.  
 
 Clear the way there Jonathan!  
-Way for the President’s marshal--way for the government cannon!  
+Way for the President’s marshal--way for the [[government]] cannon!  
 Way for the Federal foot and dragoons, (and the apparitions  
 copiously tumbling.)  
 
@@ -853,7 +853,7 @@ Does the ague convulse your limbs? do you mistake your crutches for
 firelocks and level them?  
 
 If you blind your eyes with [[motifs/tears|tears]] you will not see the President’s marshal,  
-If you groan such groans you might balk the government cannon.  
+If you groan such groans you might balk the [[government]] cannon.  
 
 For shame old maniacs--bring down those toss’d arms, and let your  
 white hair be,  
@@ -879,7 +879,7 @@ Find a swift Yankee clipper--here is freight for you, black-bellied clipper,
 Up with your anchor--shake out your sails--steer straight toward  
 Boston bay.  
 
-Now call for the President’s marshal again, bring out the government cannon,  
+Now call for the President’s marshal again, bring out the [[government]] cannon,  
 Fetch [[motifs/home|home]] the roarers from Congress, make another procession,  
 guard it with foot and dragoons.  
 
@@ -955,7 +955,7 @@ rights that others possess the same.
 
 
 
-<span class="atom-split" data-atom="141_to_the_states_to_identify_the_16th_17th_or_18th_presidentiad" data-title="To The States [To Identify the 16th, 17th, or 18th Presidentiad]" data-chapter="" data-kind="intro" data-tags="topos/the_sleeper_awakes,archetype/corrupt_official,motif/night,concept/satire_of_society,concept/power_and_corruption,concept/democracy,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="141_to_the_states_to_identify_the_16th_17th_or_18th_presidentiad" data-title="To The States [To Identify the 16th, 17th, or 18th Presidentiad]" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_
@@ -963,7 +963,7 @@ _Cluster: BY THE ROADSIDE_
 
 Why reclining, interrogating? why myself and all drowsing?
 What deepening twilight-scum floating atop of the waters,
-Who are they as bats and [[motifs/night|night]]-dogs askant in the capitol?
+Who are they as bats and [[motifs/night|night]]-[[dogs]] askant in the capitol?
 What a filthy Presidentiad! (O South, your torrid suns! O North,
 your arctic freezings!)
 Are those really Congressmen? are those the great Judges? is that
@@ -981,7 +981,7 @@ South, North, East, West, inland and seaboard, we will surely awake.)
 
 
 
-<span class="atom-split" data-atom="163_long_too_long_america" data-title="Long, Too Long America" data-chapter="" data-kind="intro" data-tags="concept/nationalism_and_patriotism,concept/war_and_its_cost,concept/the_common_man,concept/democracy,form/lyric,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="163_long_too_long_america" data-title="Long, Too Long America" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -1004,7 +1004,7 @@ really are?)
 
 
 
-<span class="atom-split" data-atom="169_ethiopia_saluting_the_colors" data-title="Ethiopia Saluting the Colors" data-chapter="" data-kind="intro" data-tags="archetype/crone,motif/flags_banners,concept/slavery,concept/social_injustice,form/ballad,histref/american_civil_war,setting/the_american_south,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="169_ethiopia_saluting_the_colors" data-title="Ethiopia Saluting the Colors" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -1037,7 +1037,7 @@ Are the things so strange and marvelous you see or have seen?
 
 
 
-<span class="atom-split" data-atom="171_race_of_veterans" data-title="Race of Veterans" data-chapter="" data-kind="intro" data-tags="motif/storm,concept/heroism,concept/war_and_its_cost,concept/nationalism_and_patriotism,form/fragment,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="171_race_of_veterans" data-title="Race of Veterans" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -1056,7 +1056,7 @@ Race of passion and the [[motifs/storm|storm]].
 
 
 
-<span class="atom-split" data-atom="178_delicate_cluster" data-title="Delicate Cluster" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/the_flag,motif/death,concept/nationalism_and_patriotism,concept/war_and_its_cost,form/lyric,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="178_delicate_cluster" data-title="Delicate Cluster" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -1068,7 +1068,7 @@ Covering all my lands--all my seashores lining!
 How I heard you flap and rustle, cloth defiant!)  
 [[motifs/flag|Flag]] cerulean--sunny [[motifs/flag|flag]], with the orbs of [[motifs/night|night]] dappled!  
 Ah my silvery [[concepts/beauty|beauty]]--ah my woolly white and crimson!  
-Ah to sing the song of you, my matron mighty!  
+Ah to sing the [[Song|song]] of you, my matron mighty!  
 My sacred one, my mother.  
 
 
@@ -1078,7 +1078,7 @@ My sacred one, my mother.
 
 
 
-<span class="atom-split" data-atom="183_turn_o_libertad" data-title="Turn O Libertad" data-chapter="" data-kind="intro" data-tags="concept/liberty,concept/democracy,concept/nationalism_and_patriotism,concept/critique_of_progress,concept/war_and_its_cost,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="183_turn_o_libertad" data-title="Turn O Libertad" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -1107,7 +1107,7 @@ Is swiftly, surely preparing for you.
 
 
 
-<span class="atom-split" data-atom="197_to_a_foil_d_european_revolutionaire" data-title="To a Foil’d European Revolutionaire" data-chapter="" data-kind="intro" data-tags="archetype/rebel,concept/liberty,concept/martyrdom,concept/reform,concept/democracy,concept/comradeship,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="197_to_a_foil_d_european_revolutionaire" data-title="To a Foil’d European Revolutionaire" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -1126,8 +1126,8 @@ Invites no one, promises nothing, sits in calmness and light, is
 positive and composed, knows no discouragement,
 Waiting patiently, waiting its [[motifs/time|time]].
 
-(Not songs of loyalty alone are these,
-But songs of insurrection also,
+(Not [[songs]] of loyalty [[Alone|alone]] are these,
+But [[songs]] of insurrection also,
 For I am the sworn poet of every dauntless [[archetypes/rebel|rebel]] the world over,
 And he going with me [[motifs/leaves|leaves]] peace and routine behind him,
 And stakes his life to be lost at any moment.)
@@ -1174,7 +1174,7 @@ And that [[motifs/death|death]] and dismay are great.
 
 
 
-<span class="atom-split" data-atom="209_i_was_looking_a_long_while" data-title="I Was Looking a Long While" data-chapter="" data-kind="intro" data-tags="concept/democracy,concept/the_common_man,concept/nationalism_and_patriotism,concept/memory,concept/critique_of_progress,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="209_i_was_looking_a_long_while" data-title="I Was Looking a Long While" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -1201,7 +1201,7 @@ All for the modern--all for the average man of to-day.
 
 
 
-<span class="atom-split" data-atom="212_sparkles_from_the_wheel" data-title="Sparkles from the Wheel" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/the_city,motif/the_wheel,concept/the_common_man,concept/wonder_and_gratitude,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="212_sparkles_from_the_wheel" data-title="Sparkles from the Wheel" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -1236,7 +1236,7 @@ Sparkles from the [[motifs/wheel|wheel]].
 
 
 
-<span class="atom-split" data-atom="217_others_may_praise_what_they_like" data-title="Others May Praise What They Like" data-chapter="" data-kind="intro" data-tags="motif/river,motif/nature,concept/nationalism_and_patriotism,concept/the_artist_and_society,concept/nature_vs_civilization,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="217_others_may_praise_what_they_like" data-title="Others May Praise What They Like" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -1256,7 +1256,7 @@ And exudes it all again.
 
 
 
-<span class="atom-split" data-atom="226_with_all_thy_gifts" data-title="With All Thy Gifts" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,concept/nationalism_and_patriotism,concept/democracy,concept/critique_of_progress,form/fragment,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="226_with_all_thy_gifts" data-title="With All Thy Gifts" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_  
@@ -1279,7 +1279,7 @@ The mothers fit for thee?
 
 
 
-<span class="atom-split" data-atom="228_the_prairie_states" data-title="The Prairie States" data-chapter="" data-kind="intro" data-tags="motif/garden,concept/democracy,concept/nationalism_and_patriotism,form/fragment,setting/the_american_frontier,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="228_the_prairie_states" data-title="The Prairie States" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_  
@@ -1299,7 +1299,7 @@ To justify the past.
 
 
 
-<span class="atom-split" data-atom="233_transpositions" data-title="Transpositions" data-chapter="" data-kind="intro" data-tags="topos/world_upside_down,concept/reform,concept/satire_of_society,concept/justice,form/epigram,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="233_transpositions" data-title="Transpositions" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -1316,22 +1316,22 @@ Let them that distrust birth and [[motifs/death|death]] lead the rest.
 
 
 
-<span class="atom-split" data-atom="253_thou_mother_with_thy_equal_brood" data-title="Thou Mother with Thy Equal Brood" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/great_mother,concept/democracy,concept/nationalism_and_patriotism,concept/self_and_soul,concept/faith,form/ode,setting/a_ship,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="253_thou_mother_with_thy_equal_brood" data-title="Thou Mother with Thy Equal Brood" data-chapter="" data-kind="intro"></span>
 
 
 
 1  
 Thou Mother with thy equal brood,  
 Thou varied chain of different States, yet one [[concepts/identity|identity]] only,  
-A special song before I go I’d sing o’er all the rest,  
+A special [[Song|song]] before I go I’d sing o’er all the rest,  
 For thee, the future.  
 
 I’d sow a seed for thee of endless Nationality,  
 I’d fashion thy ensemble including [[concepts/body|body]] and [[motifs/soul|soul]],  
 I’d show away ahead thy real [[concepts/union|Union]], and how it may be accomplish’d.  
 
-The paths to the house I seek to make,  
-But leave to those to come the house itself.  
+The paths to the [[house]] I seek to make,  
+But leave to those to come the [[house]] itself.  
 
 Belief I sing, and preparation;  
 As Life and [[concepts/nature|Nature]] are not great with reference to the present only,  
@@ -1370,18 +1370,18 @@ Through thy reality, lo, the immortal idea!
 3  
 Brain of the New World, what a task is thine,  
 To formulate the Modern--out of the peerless grandeur of the modern,  
-Out of thyself, comprising science, to recast poems, churches, art,  
+Out of thyself, comprising science, to recast [[Poems|poems]], churches, art,  
 (Recast, may-be discard them, end them--maybe their work is done,  
 who knows?)  
 By vision, hand, conception, on the background of the mighty past, the dead,  
 To limn with absolute [[concepts/faith|faith]] the mighty living present.  
 
 And yet thou living present brain, heir of the dead, the Old World brain,  
-Thou that lay folded like an unborn babe within its folds so long,  
+Thou that lay folded like an [[unborn]] babe within its folds so long,  
 Thou carefully prepared by it so long--haply thou but unfoldest it,  
 only maturest it,  
 It to eventuate in thee--the essence of the by-gone [[motifs/time|time]] contain’d in thee,  
-Its poems, churches, arts, unwitting to themselves, destined with  
+Its [[Poems|poems]], churches, arts, unwitting to themselves, destined with  
 reference to thee;  
 Thou but the apples, long, long, long a-growing,  
 The fruit of all the Old ripening to-day in thee.  
@@ -1390,8 +1390,8 @@ The fruit of all the Old ripening to-day in thee.
 Sail, sail thy best, [[motifs/ship|ship]] of [[concepts/democracy|Democracy]],  
 Of value is thy freight, ’tis not the Present only,  
 The Past is also stored in thee,  
-Thou holdest not the venture of thyself alone, not of the Western  
-continent alone,  
+Thou holdest not the venture of thyself [[Alone|alone]], not of the Western  
+continent [[Alone|alone]],  
 Earth’s resume entire floats on thy keel O [[motifs/ship|ship]], is steadied by thy spars,  
 With thee [[motifs/time|Time]] voyages in trust, the antecedent nations sink or  
 swim with thee,  
@@ -1412,8 +1412,8 @@ Out of thy teeming womb thy giant babes in ceaseless procession issuing,
 Acceding from such gestation, taking and giving continual strength  
 and life,  
 World of the real--world of the twain in one,  
-World of the [[motifs/soul|soul]], born by the world of the real alone, led to  
-[[concepts/identity|identity]], [[concepts/body|body]], by it alone,  
+World of the [[motifs/soul|soul]], born by the world of the real [[Alone|alone]], led to  
+[[concepts/identity|identity]], [[concepts/body|body]], by it [[Alone|alone]],  
 Yet in beginning only, incalculable masses of composite precious materials,  
 By [[concepts/history|history]]’s cycles forwarded, by every nation, language, hither sent,  
 Ready, collected here, a freer, vast, electric world, to be  
@@ -1442,7 +1442,7 @@ Thee in thy larger, saner brood of female, male--thee in thy
 athletes, moral, spiritual, South, North, West, East,  
 (To thy immortal breasts, Mother of All, thy every daughter, son,  
 endear’d alike, forever equal,)  
-Thee in thy own musicians, singers, artists, unborn yet, but certain,  
+Thee in thy own musicians, singers, artists, [[unborn]] yet, but certain,  
 Thee in thy moral wealth and civilization, (until which thy proudest  
 material civilization must remain in vain,)  
 Thee in thy all-supplying, all-enclosing worship--thee in no single  
@@ -1465,7 +1465,7 @@ sacerdotal bards, kosmic savans,
 These! these in thee, (certain to come,) to-day I prophesy.  
 
 6  
-Land tolerating all, accepting all, not for the good alone, all good  
+Land tolerating all, accepting all, not for the good [[Alone|alone]], all good  
 for thee,  
 Land in the realms of God to be a realm unto thyself,  
 Under the rule of God to be a rule unto thyself.  
@@ -1480,7 +1480,7 @@ The general inner earth so long so sedulously draped over, now hence
 for what it is boldly laid bare,  
 Open’d by thee to heaven’s light for benefit or bale.  
 
-Not for success alone,  
+Not for [[success]] [[Alone|alone]],  
 Not to fair-sail unintermitted always,  
 The [[motifs/storm|storm]] shall dash thy face, the murk of war and worse than war  
 shall cover thee all over,  
@@ -1520,7 +1520,7 @@ The FUTURE only holds thee and can hold thee.
 
 
 
-<span class="atom-split" data-atom="260_mannahatta" data-title="Mannahatta" data-chapter="" data-kind="intro" data-tags="motif/the_city,motif/the_sea,concept/democracy,form/free_verse,setting/new_york,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="260_mannahatta" data-title="Mannahatta" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_  
@@ -1595,7 +1595,7 @@ Of the envelopment of all by them, and the effusion of all from them.
 
 
 
-<span class="atom-split" data-atom="272_thick_sprinkled_bunting" data-title="Thick-Sprinkled Bunting" data-chapter="" data-kind="intro" data-tags="motif/crown,motif/stars,concept/nationalism_and_patriotism,concept/democracy,concept/war_and_its_cost,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="272_thick_sprinkled_bunting" data-title="Thick-Sprinkled Bunting" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_
@@ -1619,7 +1619,7 @@ Walk supreme to the heavens mighty symbol--run up above them all,
 
 
 
-<span class="atom-split" data-atom="273_what_best_i_see_in_thee" data-title="What Best I See in Thee" data-chapter="" data-kind="intro" data-tags="motif/crown,concept/the_common_man,concept/democracy,concept/heroism,setting/america,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="273_what_best_i_see_in_thee" data-title="What Best I See in Thee" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_
@@ -1646,7 +1646,7 @@ Were all so justified.
 
 
 
-<span class="atom-split" data-atom="275_as_i_walk_these_broad_majestic_days" data-title="As I Walk These Broad Majestic Days" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,concept/democracy,concept/self_and_soul,concept/war_and_its_cost,histref/the_industrial_revolution,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="275_as_i_walk_these_broad_majestic_days" data-title="As I Walk These Broad Majestic Days" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_
@@ -1677,7 +1677,7 @@ What else is so real as mine?
 Libertad and the divine average, [[concepts/freedom|freedom]] to every slave on the face
 of the earth,
 The rapt promises and lumine of seers, the spiritual world, these
-centuries-lasting songs,
+centuries-lasting [[songs]],
 And our visions, the visions of poets, the most solid announcements
 of any.
 
@@ -1688,10 +1688,10 @@ of any.
 
 
 
-<span class="atom-split" data-atom="278_years_of_the_modern" data-title="Years of the Modern" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,topos/poet_as_prophet,motif/crown,motif/dreams,concept/democracy,histref/the_industrial_revolution,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="278_years_of_the_modern" data-title="Years of the Modern" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: SONGS OF PARTING_
+_Cluster: [[songs|SONGS]] OF PARTING_
 
 
 Years of the modern! years of the unperform’d!
@@ -1728,7 +1728,7 @@ The earth, restive, confronts a new era, perhaps a general divine war,
 No one knows what will happen next, such portents fill the days and nights;
 Years prophetical! the space ahead as I walk, as I vainly try to
 pierce it, is full of phantoms,
-Unborn deeds, things soon to be, project their shapes around me,
+[[unborn|Unborn]] deeds, things soon to be, project their shapes around me,
 This incredible rush and heat, this strange ecstatic fever of [[motifs/dreams|dreams]]
 O years!
 Your [[motifs/dreams|dreams]] O years, how they penetrate through me! (I know not
@@ -1746,7 +1746,7 @@ The unperform’d, more gigantic than ever, advance, advance upon me.
 <span class="atom-split" data-atom="280_thoughts" data-title="Thoughts" data-chapter="" data-kind="intro" data-tags="cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
 
 
-_Cluster: SONGS OF PARTING_
+_Cluster: [[songs|SONGS]] OF PARTING_
 
 
 1
@@ -1754,9 +1754,9 @@ Of these years I sing,
 How they pass and have pass’d through convuls’d pains, as through
 parturitions,
 How [[settings/america|America]] illustrates birth, muscular youth, the promise, the sure
-fulfilment, the absolute success, despite of people--illustrates
+fulfilment, the absolute [[success]], despite of people--illustrates
 evil as [[motifs/well|well]] as good,
-The vehement struggle so fierce for unity in one’s-[[concepts/self|self]],
+The vehement struggle so fierce for [[unity]] in one’s-[[concepts/self|self]],
 How many hold despairingly yet to the models departed, caste, myths,
 obedience, compulsion, and to infidelity,
 How few see the arrived models, the athletes, the Western States, or
@@ -1807,7 +1807,7 @@ sweet [[motifs/blood|blood]],
 Of litheness, majestic faces, clear eyes, and perfect physique there,
 Of immense spiritual results future years far West, each side of the
 Anahuacs,
-Of these songs, [[motifs/well|well]] understood there, (being made for that area,)
+Of these [[songs]], [[motifs/well|well]] understood there, (being made for that area,)
 Of the native scorn of grossness and gain there,
 (O it lurks in me [[motifs/night|night]] and day--what is gain after all to savageness
 and [[concepts/freedom|freedom]]?)
@@ -1837,13 +1837,13 @@ going, hurrying sea waves.
 
 
 
-<span class="atom-split" data-atom="298_a_carol_closing_sixty_nine" data-title="A Carol Closing Sixty-Nine" data-chapter="" data-kind="intro" data-tags="motif/blood,concept/mortality,concept/faith,concept/nationalism_and_patriotism,form/song,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="298_a_carol_closing_sixty_nine" data-title="A Carol Closing Sixty-Nine" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
 
 
-A carol closing sixty-nine--a resume--a repetition,  
+A [[carol]] closing sixty-nine--a resume--a repetition,  
 My lines in joy and [[concepts/hope|hope]] continuing on the same,  
 Of ye, O God, Life, [[concepts/nature|Nature]], [[concepts/freedom|Freedom]], Poetry;  
 Of you, my Land--your rivers, prairies, States--you, mottled [[motifs/flag|Flag]] I [[motifs/love|love]],  
@@ -1862,7 +1862,7 @@ The undiminish’d [[concepts/faith|faith]]--the groups of loving friends.
 
 
 
-<span class="atom-split" data-atom="306_america" data-title="America" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/time,concept/nationalism_and_patriotism,concept/democracy,concept/justice,form/ode,form/free_verse,setting/america,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="306_america" data-title="America" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1882,7 +1882,7 @@ Chair’d in the adamant of [[motifs/time|Time]].
 
 
 
-<span class="atom-split" data-atom="314_election_day_november_1884" data-title="Election Day, November, 1884" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/winter,motif/wine_and_drink,concept/democracy,concept/nationalism_and_patriotism,concept/the_common_man,form/free_verse,setting/america,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="314_election_day_november_1884" data-title="Election Day, November, 1884" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1918,7 +1918,7 @@ Swell’d Washington’s, Jefferson’s, [[characters/lincoln|Lincoln]]’s sail
 
 
 
-<span class="atom-split" data-atom="320_broadway" data-title="Broadway" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,motif/the_city,motif/the_road,concept/appearance_vs_reality,concept/the_common_man,form/lyric,setting/new_york,setting/the_modern_metropolis,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="320_broadway" data-title="Broadway" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1944,7 +1944,7 @@ Thou visor’d, vast, unspeakable show and lesson!
 
 
 
-<span class="atom-split" data-atom="329_the_united_states_to_old_world_critics" data-title="The United States to Old World Critics" data-chapter="" data-kind="intro" data-tags="motif/stars,concept/nationalism_and_patriotism,concept/critique_of_progress,concept/the_artist_and_society,concept/democracy,form/free_verse,setting/america,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="329_the_united_states_to_old_world_critics" data-title="The United States to Old World Critics" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1963,7 +1963,7 @@ The solid-planted spires tall shooting to the [[motifs/stars|stars]].
 
 
 
-<span class="atom-split" data-atom="340_orange_buds_by_mail_from_florida" data-title="Orange Buds by Mail from Florida" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/nature,motif/winter,concept/nationalism_and_patriotism,concept/critique_of_progress,form/lyric,setting/america,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="340_orange_buds_by_mail_from_florida" data-title="Orange Buds by Mail from Florida" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1984,7 +1984,7 @@ A bunch of orange buds by mall from Florida.
 
 
 
-<span class="atom-split" data-atom="353_good_bye_my_fancy" data-title="Good-Bye My Fancy" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,concept/mortality,concept/self_and_soul,form/epigram,form/free_verse,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="353_good_bye_my_fancy" data-title="Good-Bye My Fancy" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -2002,7 +2002,7 @@ I keep mine till the last.)
 
 
 
-<span class="atom-split" data-atom="354_on_on_the_same_ye_jocund_twain" data-title="On, on the Same, Ye Jocund Twain!" data-chapter="" data-kind="intro" data-tags="motif/winter,motif/autumn,concept/self_and_soul,concept/democracy,concept/nationalism_and_patriotism,concept/the_common_man,form/free_verse,setting/america,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="354_on_on_the_same_ye_jocund_twain" data-title="On, on the Same, Ye Jocund Twain!" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -2012,14 +2012,14 @@ On, on the same, ye jocund twain!
 My life and recitative, containing birth, youth, mid-age years,  
 Fitful as motley-tongues of flame, inseparably twined and merged in  
 one--combining all,  
-My single [[motifs/soul|soul]]--aims, confirmations, failures, joys--Nor single [[motifs/soul|soul]] alone,  
+My single [[motifs/soul|soul]]--aims, confirmations, failures, joys--Nor single [[motifs/soul|soul]] [[Alone|alone]],  
 I chant my nation’s crucial stage, ([[settings/america|America]]’s, haply humanity’s)--  
 the trial great, the victory great,  
 A strange eclaircissement of all the masses past, the eastern world,  
 the ancient, medieval,  
 Here, here from wanderings, strayings, lessons, wars, defeats--here  
 at the west a voice triumphant--justifying all,  
-A gladsome pealing cry--a song for once of utmost [[concepts/pride|pride]] and satisfaction;  
+A gladsome pealing cry--a [[Song|song]] for once of utmost [[concepts/pride|pride]] and satisfaction;  
 I chant from it the common bulk, the general average horde, (the  
 best sooner than the worst)--And now I chant old age,  
 (My verses, written first for forenoon life, and for the [[motifs/summer|summer]]’s,  
@@ -2027,7 +2027,7 @@ best sooner than the worst)--And now I chant old age,
 I pass to [[motifs/snow|snow]]-white hairs the same, and give to pulses  
 [[motifs/winter|winter]]-cool’d the same;)  
 As here in careless trill, I and my recitatives, with [[concepts/faith|faith]] and [[motifs/love|love]],  
-wafting to other work, to unknown songs, conditions,  
+wafting to other work, to unknown [[songs]], conditions,  
 On, on ye jocund twain! continue on the same!  
 
 
@@ -2037,7 +2037,7 @@ On, on ye jocund twain! continue on the same!
 
 
 
-<span class="atom-split" data-atom="363_bravo_paris_exposition" data-title="Bravo, Paris Exposition!" data-chapter="" data-kind="intro" data-tags="motif/the_city,concept/nationalism_and_patriotism,concept/democracy,concept/friendship,form/ode,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="363_bravo_paris_exposition" data-title="Bravo, Paris Exposition!" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -2058,7 +2058,7 @@ From fifty Nations and nebulous Nations, compacted, sent oversea to-day,
 
 
 
-<span class="atom-split" data-atom="367_a_christmas_greeting" data-title="A Christmas Greeting" data-chapter="" data-kind="intro" data-tags="motif/the_cross,motif/crown,concept/democracy,concept/nationalism_and_patriotism,concept/friendship,form/free_verse,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="367_a_christmas_greeting" data-title="A Christmas Greeting" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -2084,7 +2084,7 @@ The height to be superb humanity.
 
 
 
-<span class="atom-split" data-atom="374_the_commonplace" data-title="The Commonplace" data-chapter="" data-kind="intro" data-tags="motif/serpent_snake,motif/nature,concept/the_common_man,concept/democracy,concept/good_vs_evil,concept/education,form/lyric,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="374_the_commonplace" data-title="The Commonplace" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  

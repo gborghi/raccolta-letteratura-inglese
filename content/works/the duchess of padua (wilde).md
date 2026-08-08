@@ -127,13 +127,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/love-death-(liebestod)|Love-Death (Liebestod)]], [[topoi/love-as-religion|Love as Religion]]
-**Archetypes:** [[archetypes/avenger|Avenger]], [[archetypes/tyrant|Tyrant]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/lover|Lover]]
+**Archetypes:** Avenger, Tyrant, (Reputed) Fallen Woman, Lover
 **Motifs:** [[motifs/blood|Blood]], [[motifs/death|Death]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/poison|Poison]], [[motifs/court-(2)|Court (2)]], [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/romantic-love|Romantic Love]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/guilt|Guilt]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/mercy|Mercy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/social-injustice|Social Injustice]], [[concepts/deception|Deception]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/renaissance|Renaissance]]
 **Settings:** [[settings/italy|Italy]], [[settings/court|Court]], [[settings/europe|Europe]]
-**Characters:** [[characters/guido-ferranti|Guido Ferranti]], [[characters/beatrice|Beatrice]], [[characters/duke-simone-gesso|Duke Simone Gesso]], [[characters/count-moranzone|Count Moranzone]], [[characters/ascanio-cristofano|Ascanio Cristofano]]
+**Characters:** Guido Ferranti, Beatrice, Duke Simone Gesso, Count Moranzone, Ascanio Cristofano
 
 ## Testo integrale / Full text
 

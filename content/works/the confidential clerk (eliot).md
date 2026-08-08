@@ -40,13 +40,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]]
-**Archetypes:** [[archetypes/orphan|Orphan]], [[archetypes/child|Child]]
+**Archetypes:** Orphan, Child
 **Motifs:** [[motifs/garden|Garden]]
 **Themes & Concepts:** [[concepts/identity|Identity]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/artist-and-society|Artist and Society]], [[concepts/deception|Deception]], [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/comedy|Comedy]]
 **Historical References:** [[historical-references/greek-tragedy|Greek Tragedy]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/colby-simpkins|Colby Simpkins]], [[characters/sir-claude-mulhammer|Sir Claude Mulhammer]]
+**Characters:** Colby Simpkins, Sir Claude Mulhammer
 
 ## Testo integrale / Full text
 

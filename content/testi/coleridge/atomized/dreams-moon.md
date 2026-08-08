@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/dreams-moon" data-author="Coleridge" data-workhref="works/dreams-·-moon-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="003_sonnet_to_the_autumnal_moon" data-title="SONNET: TO THE AUTUMNAL MOON" data-chapter="" data-kind="intro" data-tags="motif/moon,motif/night,motif/light_and_dark,motif/autumn,concept/melancholy,concept/imagination,form/sonnet,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="003_sonnet_to_the_autumnal_moon" data-title="SONNET: TO THE AUTUMNAL MOON" data-chapter="" data-kind="intro"></span>
 
 
 Mild Splendour of the various-vested [[motifs/night|Night]]!  
@@ -33,7 +33,7 @@ Sails, like a meteor kindling in its flight.
 
 
 
-<span class="atom-split" data-atom="015_to_the_evening_star" data-title="TO THE EVENING STAR" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,concept/love_romantic,concept/immortality,concept/beauty,form/sonnet,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="015_to_the_evening_star" data-title="TO THE EVENING STAR" data-chapter="" data-kind="intro"></span>
 
 
 O meek attendant of Sol’s setting blaze,  
@@ -55,7 +55,7 @@ Her spirit in thy kindred orb, O Star benign!
 
 
 
-<span class="atom-split" data-atom="173_something_childish_but_very_natural" data-title="SOMETHING CHILDISH, BUT VERY NATURAL" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/sleep,motif/birds,concept/love_romantic,concept/exile,form/lyric,setting/europe,setting/germany,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="173_something_childish_but_very_natural" data-title="SOMETHING CHILDISH, BUT VERY NATURAL" data-chapter="" data-kind="intro"></span>
 
 
 WRITTEN IN [[settings/germany|GERMANY]]  
@@ -68,7 +68,7 @@ But in my [[motifs/sleep|sleep]] to you I fly:
 I’m always with you in my [[motifs/sleep|sleep]]!  
 The world is all one’s own.  
 But then one wakes, and where am I?  
-All, all alone.    10  
+All, all [[Alone|alone]].    10  
 [[motifs/sleep|Sleep]] stays not, though a monarch bids:  
 So I [[motifs/love|love]] to wake ere break of day:  
 For though my [[motifs/sleep|sleep]] be gone,  
@@ -79,7 +79,7 @@ April 23, 1799.
 
 
 
-<span class="atom-split" data-atom="214_a_day-dream" data-title="A DAY-DREAM" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/garden,motif/rose,motif/moon,motif/fire,concept/love_romantic,concept/imagination,concept/memory_and_time,form/lyric,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="214_a_day-dream" data-title="A DAY-DREAM" data-chapter="" data-kind="intro"></span>
 
 
 My eyes make pictures, when they are shut:  
@@ -123,7 +123,7 @@ Murmur it to yourselves, ye two beloved women!
 
 
 
-<span class="atom-split" data-atom="216_the_day-dream_from_an_emigrant_to_his_absent_wife" data-title="THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/childhood,concept/love_romantic,concept/exile,concept/marriage_and_fidelity,concept/grief_and_loss,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="216_the_day-dream_from_an_emigrant_to_his_absent_wife" data-title="THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE" data-chapter="" data-kind="intro"></span>
 
 
 If thou wert here, these [[motifs/tears|tears]] were [[motifs/tears|tears]] of light!  
@@ -161,7 +161,7 @@ I blessed him, tried to laugh, and fell a-weeping!   30
 
 
 
-<span class="atom-split" data-atom="223_phantom" data-title="PHANTOM" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/light_and_dark,concept/self_and_soul,concept/love_romantic,concept/imagination,form/fragment,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="223_phantom" data-title="PHANTOM" data-chapter="" data-kind="intro"></span>
 
 
 All look and likeness caught from earth,  
@@ -177,7 +177,7 @@ Shone through her [[concepts/body|body]] visibly.
 
 
 
-<span class="atom-split" data-atom="250_the_night-scene" data-title="THE NIGHT-SCENE" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/garden,motif/night,motif/stars,motif/serpent_snake,concept/love_romantic,concept/the_sublime,form/blank_verse,form/verse_drama,form/fragment,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="250_the_night-scene" data-title="THE NIGHT-SCENE" data-chapter="" data-kind="intro"></span>
 
 
 A DRAMATIC [[forms/fragment|FRAGMENT]]
@@ -263,7 +263,7 @@ Say nothing of me — I myself will seek her —
 Nay, leave me, friend! I cannot bear the torment
 And keen inquiry of that scanning eye. —
 [Earl Henry retires into the wood.
-Sand. (alone). O Henry! always striv’st thou to be great
+Sand. ([[Alone|alone]]). O Henry! always striv’st thou to be great
 By thine own act — yet art thou never great   75
 But by the inspiration of great passion.
 The whirl-blast comes, the [[motifs/desert|desert]]-sands rise up
@@ -278,7 +278,7 @@ And lazy snakes trail o’er the level ruins!
 
 
 
-<span class="atom-split" data-atom="293_phantom_or_fact_a_dialogue_in_verse" data-title="PHANTOM OR FACT: A DIALOGUE IN VERSE" data-chapter="" data-kind="intro" data-tags="topos/the_double,motif/dreams,motif/sleep,concept/appearance_vs_reality,concept/love_romantic,concept/identity,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="293_phantom_or_fact_a_dialogue_in_verse" data-title="PHANTOM OR FACT: A DIALOGUE IN VERSE" data-chapter="" data-kind="intro"></span>
 
 
 AUTHOR  
@@ -296,7 +296,7 @@ That weary, wandering, disavowing look!   10
 And still, methought, I knew, it was the same!  
 FRIEND  
 This riddling tale, to what does it belong?  
-Is’t [[concepts/history|history]]? vision? or an idle song?  
+Is’t [[concepts/history|history]]? vision? or an idle [[Song|song]]?  
 Or rather say at once, within what space   15  
 Of [[motifs/time|time]] this wild disastrous change took place?  
 AUTHOR  
@@ -309,7 +309,7 @@ And ‘tis a record from the dream of life.   20
 
 
 
-<span class="atom-split" data-atom="344_on_the_curious_circumstance" data-title="ON THE CURIOUS CIRCUMSTANCE" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/moon,concept/satire_of_society,concept/marriage_and_fidelity,form/epigram,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="344_on_the_curious_circumstance" data-title="ON THE CURIOUS CIRCUMSTANCE" data-chapter="" data-kind="intro"></span>
 
 
 THAT IN THE GERMAN LANGUAGE THE SUN IS FEMININE, AND THE [[motifs/moon|MOON]] IS MASCULINE  
@@ -339,7 +339,7 @@ Wie der gehörnt wir Männer sein.’
 
 
 
-<span class="atom-split" data-atom="347_epitaph_on_himself" data-title="EPITAPH: ON HIMSELF" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/sleep,motif/dreams,concept/mortality,concept/identity,form/epigram,setting/an_inn,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="347_epitaph_on_himself" data-title="EPITAPH: ON HIMSELF" data-chapter="" data-kind="intro"></span>
 
 
 Here sleeps at length poor Col., and without screaming —  
@@ -354,7 +354,7 @@ Reminiscences, 1848, p. 467. First collected in 1893.
 
 
 
-<span class="atom-split" data-atom="382_over_my_cottage" data-title="OVER MY COTTAGE" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/moon,motif/dreams,concept/love_romantic,concept/grief_and_loss,concept/mortality,form/fragment,form/epigram,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="382_over_my_cottage" data-title="OVER MY COTTAGE" data-chapter="" data-kind="intro"></span>
 
 
 The Pleasures sport beneath the thatch;  
@@ -396,7 +396,7 @@ Far liker to a Flower now than when alive,
 Cold to the Touch and blooming to the eye.  
 Sept. 1803. Now first published from an MS.  
 [THE [[motifs/night|NIGHT]]-MARE [[motifs/death|DEATH]] IN LIFE]  
-I know ‘tis but a dream, yet feel more anguish  
+I know ‘tis but [[A Dream|a dream]], yet feel more anguish  
 Than if ‘twere [[concepts/truth|truth]]. It has been often so:  
 Must I die under it? Is no one near?  
 Will no one hear these stifled groans and wake me?  
@@ -410,7 +410,7 @@ Itself an earthly sun of pure intensest white.
 
 
 
-<span class="atom-split" data-atom="441_des_knaben_wunderhorn" data-title="DES KNABEN WUNDERHORN" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/dreams,motif/sleep,concept/love_romantic,concept/grief_and_loss,form/song,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="441_des_knaben_wunderhorn" data-title="DES KNABEN WUNDERHORN" data-chapter="" data-kind="intro"></span>
 
 
 Wenn ich ein Vöglein wär  

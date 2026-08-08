@@ -35,11 +35,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/fool|Fool]]
+**Archetypes:** Fool
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[characters/dalroy|Dalroy]]
+**Characters:** Dalroy
 
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/food-and-feasting|Food and Feasting]]
 **Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/fanaticism|Fanaticism]], [[concepts/self-deception|Self-Deception]]

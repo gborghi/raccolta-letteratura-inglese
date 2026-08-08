@@ -88,6 +88,10 @@ Book the First--Recalled to Life
 
 
 
+
+
+
+
 <span class="atom-split" data-atom="chapter_01" data-title="A Tale of Two Cities — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/ghost,archetype/king,motif/city,motif/crown,motif/death,motif/hill,motif/night,motif/spring,motif/winter,concept/body,concept/despair,concept/history,concept/honour,concept/hope,concept/sublime,form/history,histref/america,setting/america,setting/court,setting/london,setting/paris,character/lord_mayor,character/monks,character/queen"></span>
 
 
@@ -97,7 +101,7 @@ The Period
 
 It was the best of times, it was the worst of times, it was the age of
 wisdom, it was the age of foolishness, it was the epoch of belief, it
-was the epoch of incredulity, it was the season of Light, it was the
+was the epoch of [[Incredulity|incredulity]], it was the season of Light, it was the
 season of Darkness, it was the [[motifs/spring|spring]] of [[concepts/hope|hope]], it was the [[motifs/winter|winter]] of
 [[concepts/despair|despair]], we had everything before us, we had nothing before us, we were
 all going direct to Heaven, we were all going direct the other way--in
@@ -238,7 +242,7 @@ hidden under almost as many wrappers from the eyes of the mind, as from
 the eyes of the [[concepts/body|body]], of his two companions. In those days, travellers
 were very shy of being confidential on a short notice, for anybody on
 the [[motifs/road|road]] might be a robber or in league with robbers. As to the latter,
-when every posting-house and ale-house could produce somebody in
+when every posting-[[house]] and ale-[[house]] could produce somebody in
 “the Captain’s” pay, ranging from the landlord to the lowest stable
 non-descript, it was the likeliest thing upon the cards. So the guard
 of the Dover mail thought to himself, that Friday [[motifs/night|night]] in November, one
@@ -408,7 +412,7 @@ it as it began the descent. The guard soon replaced his blunderbuss
 in his arm-chest, and, having looked to the rest of its contents, and
 having looked to the supplementary pistols that he wore in his belt,
 looked to a smaller chest beneath his seat, in which there were a
-few smith’s tools, a couple of torches, and a tinder-box. For he was
+few [[smith]]’s tools, a couple of torches, and a tinder-box. For he was
 furnished with that completeness that if the coach-lamps had been blown
 and stormed out, which did occasionally happen, he had only to shut
 himself up inside, keep the flint and steel sparks [[motifs/well|well]] off the straw,
@@ -430,7 +434,7 @@ five minutes.
 “That’s a coincidence, too,” the guard mused, “for I made the same of it
 myself.”
 
-Jerry, left alone in the mist and darkness, dismounted meanwhile, not
+Jerry, left [[Alone|alone]] in the mist and darkness, dismounted meanwhile, not
 only to ease his spent [[motifs/horse|horse]], but to wipe the mud from his face, and
 shake the wet out of his hat-brim, which might be capable of
 holding about half a gallon. After standing with the bridle over his
@@ -508,7 +512,7 @@ His message perplexed his mind to that degree that he was fain, several
 times, to take off his hat to scratch his head. Except on the [[motifs/crown|crown]],
 which was raggedly bald, he had stiff, black hair, standing jaggedly all
 over it, and growing down [[motifs/hill|hill]] almost to his broad, blunt nose. It was
-so like Smith’s work, so much more like the top of a strongly spiked
+so like [[smith|Smith]]’s work, so much more like the top of a strongly spiked
 wall than a head of hair, that the best of players at leap-frog might
 have declined him, as the most dangerous man in the world to go over.
 
@@ -591,7 +595,7 @@ reality of mist and rain on his cheek.
 Yet even when his eyes were opened on the mist and rain, on the moving
 patch of light from the lamps, and the hedge at the roadside retreating
 by jerks, the [[motifs/night|night]] shadows outside the coach would fall into the train
-of the [[motifs/night|night]] shadows within. The real Banking-house by Temple Bar, the
+of the [[motifs/night|night]] shadows within. The real Banking-[[house]] by Temple Bar, the
 real business of the past day, the real strong rooms, the real express
 sent after him, and the real message returned, would all be there. Out
 of the midst of them, the ghostly face would rise, and he would accost
@@ -723,9 +727,9 @@ gentleman from Tellson’s Bank. Please to let me know.”
 
 “Yes, sir. We have oftentimes the [[concepts/honour|honour]] to entertain your gentlemen in
 their travelling backwards and forwards betwixt [[settings/london|London]] and [[settings/paris|Paris]], sir. A
-vast deal of travelling, sir, in Tellson and Company’s House.”
+vast deal of travelling, sir, in Tellson and Company’s [[house|House]].”
 
-“Yes. We are quite a French House, as [[motifs/well|well]] as an English one.”
+“Yes. We are quite a French [[house|House]], as [[motifs/well|well]] as an English one.”
 
 “Yes, sir. Not much in the habit of such travelling yourself, I think,
 sir?”
@@ -738,7 +742,7 @@ from France.”
 
 “I believe so.”
 
-“But I would hold a pretty wager, sir, that a House like Tellson and
+“But I would hold a pretty wager, sir, that a [[house|House]] like Tellson and
 Company was flourishing, a matter of fifty, not to speak of fifteen
 years ago?”
 
@@ -930,7 +934,7 @@ gentleman; a man of great acquirements--a Doctor.”
 gentleman was of Beauvais. Like Monsieur Manette, your father, the
 gentleman was of repute in [[settings/paris|Paris]]. I had the [[concepts/honour|honour]] of knowing him there.
 Our relations were business relations, but confidential. I was at that
-[[motifs/time|time]] in our French House, and had been--oh! twenty years.”
+[[motifs/time|time]] in our French [[house|House]], and had been--oh! twenty years.”
 
 “At that [[motifs/time|time]]--I may ask, at what [[motifs/time|time]], sir?”
 
@@ -961,8 +965,8 @@ down into her face while she sat looking up into his.
 just now, in saying I had no feelings, and that all the relations I hold
 with my fellow-creatures are mere business relations, when you reflect
 that I have never seen you since. No; you have been the ward of
-Tellson’s House since, and I have been busy with the other business of
-Tellson’s House since. Feelings! I have no [[motifs/time|time]] for them, no chance
+Tellson’s [[house|House]] since, and I have been busy with the other business of
+Tellson’s [[house|House]] since. Feelings! I have no [[motifs/time|time]] for them, no chance
 of them. I pass my whole life, miss, in turning an immense pecuniary
 Mangle.”
 
@@ -1060,12 +1064,12 @@ now immovable, had deepened into one of [[motifs/pain|pain]] and horror.
 
 “But he has been--been found. He is alive. Greatly changed, it is too
 probable; almost a wreck, it is possible; though we will [[concepts/hope|hope]] the best.
-Still, alive. Your father has been taken to the house of an old servant
+Still, alive. Your father has been taken to the [[house]] of an old servant
 in [[settings/paris|Paris]], and we are going there: I, to identify him if I can: you, to
 restore him to life, [[motifs/love|love]], duty, rest, comfort.”
 
 A shiver ran through her frame, and from it through his. She said, in a
-low, distinct, awe-stricken voice, as if she were saying it in a dream,
+low, distinct, awe-stricken voice, as if she were saying it in [[A Dream|a dream]],
 
 “I am going to see his [[archetypes/ghost|Ghost]]! It will be his [[archetypes/ghost|Ghost]]--not him!”
 
@@ -1104,7 +1108,7 @@ A wild-looking woman, whom even in his agitation, Mr. Lorry observed to
 be all of a red colour, and to have red hair, and to be dressed in some
 extraordinary tight-fitting fashion, and to have on her head a most
 wonderful bonnet like a Grenadier wooden measure, and good measure too,
-or a great Stilton cheese, came running into the room in advance of the
+or a great Stilton [[cheese]], came running into the room in advance of the
 inn servants, and soon settled the question of his detachment from the
 poor young lady, by laying a brawny hand upon his chest, and sending him
 flying back against the nearest wall.
@@ -1261,7 +1265,7 @@ meagre loaves. The people rudely pictured as drinking in the wine-shops,
 croaked over their scanty measures of thin wine and beer, and were
 gloweringly confidential together. Nothing was represented in a
 flourishing condition, save tools and weapons; but, the cutler’s knives
-and axes were sharp and bright, the smith’s hammers were heavy, and the
+and axes were sharp and bright, the [[smith]]’s hammers were heavy, and the
 gunmaker’s stock was murderous. The crippling stones of the pavement,
 with their many little reservoirs of mud and [[motifs/water|water]], had no footways, but
 broke off abruptly at the doors. The kennel, to make amends, ran down
@@ -1285,7 +1289,7 @@ long, as to conceive the idea of improving on his method, and hauling
 up men by those ropes and pulleys, to flare upon the darkness of their
 condition. But, the [[motifs/time|time]] was not come yet; and every [[motifs/wind|wind]] that blew over
 France shook the rags of the scarecrows in vain, for the [[motifs/birds|birds]], fine of
-song and feather, took no warning.
+[[Song|song]] and feather, took no warning.
 
 The wine-shop was a corner shop, better than most others in its
 appearance and degree, and the master of the wine-shop had stood outside
@@ -1439,7 +1443,7 @@ by a great number of people. In the gloomy tile-paved entry to the
 gloomy tile-paved staircase, Monsieur Defarge bent down on one knee
 to the [[archetypes/child|child]] of his old master, and put her hand to his lips. It was
 a gentle action, but not at all gently done; a very remarkable
-transformation had come over him in a few seconds. He had no good-humour
+transformation had come over him in a few seconds. He had no good-[[Humour|humour]]
 in his face, nor any openness of aspect left, but had become a secret,
 angry, dangerous man.
 
@@ -1447,12 +1451,12 @@ angry, dangerous man.
 Thus, Monsieur Defarge, in a stern voice, to Mr. Lorry, as they began
 ascending the stairs.
 
-“Is he alone?” the latter whispered.
+“Is he [[Alone|alone]]?” the latter whispered.
 
 “[[works/alone-(poe)|Alone]]! God help him, who should be with him!” said the other, in the
 same low voice.
 
-“Is he always alone, then?”
+“Is he always [[Alone|alone]], then?”
 
 “Yes.”
 
@@ -1556,7 +1560,7 @@ Defarge. “Leave us, good boys; we have business here.”
 The three glided by, and went silently down.
 
 There appearing to be no other door on that floor, and the keeper of
-the wine-shop going straight to this one when they were left alone, Mr.
+the wine-shop going straight to this one when they were left [[Alone|alone]], Mr.
 Lorry asked him in a whisper, with a little anger:
 
 “Do you make a show of Monsieur Manette?”
@@ -1616,7 +1620,7 @@ other door of French construction. To exclude the cold, one half of this
 door was fast closed, and the other was opened but a very little way.
 Such a scanty portion of light was admitted through these means, that it
 was difficult, on first coming in, to see anything; and long habit
-alone could have slowly formed in any one, the ability to do any work
+[[Alone|alone]] could have slowly formed in any one, the ability to do any work
 requiring nicety in such obscurity. Yet, work of that kind was being
 done in the garret; for, with his back towards the door, and his face
 towards the [[motifs/window|window]] where the keeper of the wine-shop stood looking at
@@ -2062,7 +2066,7 @@ she had repeated it.
 “Remember? No, I don’t remember. It was so very long ago.”
 
 That he had no recollection whatever of his having been brought from his
-[[motifs/prison|prison]] to that house, was apparent to them. They heard him mutter,
+[[motifs/prison|prison]] to that [[house]], was apparent to them. They heard him mutter,
 “One Hundred and Five, North Tower;” and when he looked about him, it
 evidently was for the strong fortress-walls which had long encompassed
 him. On their reaching the courtyard he instinctively altered his
@@ -2091,7 +2095,7 @@ over-swinging lamps.
 Under the over-swinging lamps--swinging ever brighter in the better
 streets, and ever dimmer in the worse--and by lighted shops, gay crowds,
 illuminated coffee-houses, and theatre-doors, to one of the [[motifs/city|city]]
-gates. Soldiers with lanterns, at the guard-house there. “Your papers,
+gates. Soldiers with lanterns, at the guard-[[house]] there. “Your papers,
 travellers!” “See here then, Monsieur the Officer,” said Defarge,
 getting down, and taking him gravely apart, “these are the papers of
 monsieur inside, with the white head. They were consigned to me, with
@@ -2135,7 +2139,7 @@ Five Years Later
 Tellson’s Bank by Temple Bar was an old-fashioned place, even in the
 year one thousand seven hundred and eighty. It was very small, very
 dark, very ugly, very incommodious. It was an old-fashioned place,
-moreover, in the moral attribute that the partners in the House were
+moreover, in the moral attribute that the partners in the [[house|House]] were
 proud of its smallness, proud of its darkness, proud of its ugliness,
 proud of its incommodiousness. They were even boastful of its eminence
 in those particulars, and were fired by an express conviction that, if
@@ -2147,7 +2151,7 @@ embellishment. Noakes and Co.’s might, or Snooks Brothers’ might; but
 Tellson’s, thank Heaven--!
 
 Any one of these partners would have disinherited his son on the
-question of rebuilding Tellson’s. In this respect the House was much
+question of rebuilding Tellson’s. In this respect the [[house|House]] was much
 on a par with the Country; which did very often disinherit its sons for
 suggesting improvements in laws and customs that had long been highly
 objectionable, but were only the more respectable.
@@ -2161,8 +2165,8 @@ counters, where the oldest of men made your cheque shake as if the
 windows, which were always under a shower-bath of mud from Fleet-street,
 and which were made the dingier by their own iron bars proper, and the
 heavy [[archetypes/shadow|shadow]] of Temple Bar. If your business necessitated your seeing
-“the House,” you were put into a species of Condemned Hold at the back,
-where you meditated on a misspent life, until the House came with its
+“the [[house|House]],” you were put into a species of Condemned Hold at the back,
+where you meditated on a misspent life, until the [[house|House]] came with its
 hands in its pockets, and you could hardly blink at it in the dismal
 twilight. Your money came out of, or went into, wormy old wooden
 drawers, particles of which flew up your nose and down your throat when
@@ -2171,7 +2175,7 @@ were fast decomposing into rags again. Your plate was stowed away among
 the neighbouring cesspools, and evil communications corrupted its good
 polish in a day or two. Your deeds got into extemporised strong-rooms
 made of kitchens and sculleries, and fretted all the fat out of their
-parchments into the banking-house air. Your lighter boxes of family
+parchments into the banking-[[house]] air. Your lighter boxes of family
 papers went up-stairs into a Barmecide room, that always had a great
 dining-table in it and never had a dinner, and where, even in the year
 one thousand seven hundred and eighty, the first letters written to you
@@ -2201,25 +2205,25 @@ ground floor had, in a rather significant manner.
 
 Cramped in all kinds of dim cupboards and hutches at Tellson’s, the
 oldest of men carried on the business gravely. When they took a young
-man into Tellson’s [[settings/london|London]] house, they hid him somewhere till he was
-old. They kept him in a dark place, like a cheese, until he had the full
+man into Tellson’s [[settings/london|London]] [[house]], they hid him somewhere till he was
+old. They kept him in a dark place, like a [[cheese]], until he had the full
 Tellson flavour and blue-mould upon him. Then only was he permitted to
 be seen, spectacularly poring over large books, and casting his breeches
 and gaiters into the general weight of the establishment.
 
 Outside Tellson’s--never by any means in it, unless called in--was an
 odd-job-man, an occasional porter and messenger, who served as the live
-sign of the house. He was never absent during business hours, unless
+sign of the [[house]]. He was never absent during business hours, unless
 upon an errand, and then he was represented by his son: a grisly urchin
 of twelve, who was his express image. People understood that Tellson’s,
-in a stately way, tolerated the odd-job-man. The house had always
+in a stately way, tolerated the odd-job-man. The [[house]] had always
 tolerated some person in that capacity, and [[motifs/time|time]] and tide had drifted
 this person to the post. His surname was Cruncher, and on the youthful
 occasion of his renouncing by proxy the works of darkness, in the
 easterly parish church of Hounsditch, he had received the added
 appellation of Jerry.
 
-The scene was Mr. Cruncher’s private lodging in Hanging-sword-alley,
+The scene was Mr. Cruncher’s private lodging in Hanging-[[Sword|sword]]-alley,
 Whitefriars: the [[motifs/time|time]], half-past seven of the [[motifs/clock|clock]] on a windy March
 morning, Anno Domini seventeen hundred and eighty. (Mr. Cruncher himself
 always spoke of the year of our Lord as Anna Dominoes: apparently under
@@ -2335,7 +2339,7 @@ His wife explained that she had merely “asked a blessing.”
 
 “Don’t do it!” said Mr. Crunches looking about, as if he rather expected
 to see the loaf disappear under the efficacy of his wife’s petitions. “I
-ain’t a going to be blest out of house and [[motifs/home|home]]. I won’t have my wittles
+ain’t a going to be blest out of [[house]] and [[motifs/home|home]]. I won’t have my wittles
 blest off my table. Keep still!”
 
 Exceedingly red-eyed and grim, as if he had been up all [[motifs/night|night]] at a party
@@ -2350,7 +2354,7 @@ It could scarcely be called a trade, in spite of his favourite
 description of himself as “a honest tradesman.” His stock consisted of
 a wooden stool, made out of a broken-backed chair cut down, which stool,
 young Jerry, walking at his father’s side, carried every morning to
-beneath the banking-house [[motifs/window|window]] that was nearest Temple Bar: where,
+beneath the banking-[[house]] [[motifs/window|window]] that was nearest Temple Bar: where,
 with the addition of the first handful of straw that could be gleaned
 from any passing vehicle to keep the cold and wet from the odd-job-man’s
 feet, it formed the encampment for the day. On this post of his, Mr.
@@ -2777,7 +2781,7 @@ Ever pay him? No. Was not this intimacy with the prisoner, in reality a
 very slight one, forced upon the prisoner in coaches, inns, and packets?
 No. Sure he saw the prisoner with these lists? Certain. Knew no more
 about the lists? No. Had not procured them himself, for instance? No.
-Expect to get anything by this evidence? No. Not in regular government
+Expect to get anything by this evidence? No. Not in regular [[government]]
 pay and employment, to lay traps? Oh dear no. Or to do anything? Oh dear
 no. Swear that? Over and over again. No motives but motives of sheer
 patriotism? None whatever.
@@ -2884,7 +2888,7 @@ came on board in the dead of the [[motifs/night|night]]?”
 
 “He was.”
 
-“Were you travelling alone, Mr. Lorry, or with any companion?”
+“Were you travelling [[Alone|alone]], Mr. Lorry, or with any companion?”
 
 “With two companions. A gentleman and lady. They are here.”
 
@@ -2962,7 +2966,7 @@ felt it. That was the manner of our beginning to speak together.”
 <span class="atom-split" data-atom="chapter_09--part_03" data-title="A Tale of Two Cities — Chapter 3 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/cross,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/history,concept/hope,concept/imprisonment,concept/nature,form/history,histref/america,setting/america,setting/court,setting/london,character/doctor_manette"></span>
 
 
-“Let me interrupt you for a moment. Had he come on board alone?”
+“Let me interrupt you for a moment. Had he come on board [[Alone|alone]]?”
 
 “No.”
 
@@ -3137,7 +3141,7 @@ gallantries and politenesses likely to pass between any young gentleman
 and young lady so thrown together;--with the exception of that
 reference to George Washington, which was altogether too extravagant and
 impossible to be regarded in any other light than as a monstrous joke.
-How it would be a weakness in the government to break down in this
+How it would be a weakness in the [[government]] to break down in this
 attempt to practise for popularity on the lowest national antipathies
 and fears, and therefore Mr. Attorney-General had made the most of it;
 how, nevertheless, it rested upon nothing, save that vile and infamous
@@ -3404,8 +3408,8 @@ business mind is divided between good-natured impulse and business
 appearances, you would be amused, Mr. Darnay.”
 
 Mr. Lorry reddened, and said, warmly, “You have mentioned that before,
-sir. We men of business, who serve a House, are not our own masters. We
-have to think of the House more than ourselves.”
+sir. We men of business, who serve a [[house|House]], are not our own masters. We
+have to think of the [[house|House]] more than ourselves.”
 
 “_I_ know, _I_ know,” rejoined Mr. Carton, carelessly. “Don’t be
 nettled, Mr. Lorry. You are as good as another, I have no [[concepts/doubt|doubt]]: better,
@@ -3446,7 +3450,7 @@ who smelt of port wine, and did not appear to be quite sober, laughed
 then, and turned to Darnay:
 
 “This is a strange chance that throws you and me together. This must
-be a strange [[motifs/night|night]] to you, standing alone here with your counterpart on
+be a strange [[motifs/night|night]] to you, standing [[Alone|alone]] here with your counterpart on
 these street stones?”
 
 “I hardly seem yet,” returned [[characters/charles-darnay|Charles Darnay]], “to belong to this world
@@ -3485,7 +3489,7 @@ are not much alike in that particular. Indeed, I begin to think we are
 not much alike in any particular, you and I.”
 
 Confused by the emotion of the day, and feeling his being there with
-this [[topoi/double|Double]] of coarse deportment, to be like a dream, [[characters/charles-darnay|Charles Darnay]] was
+this [[topoi/double|Double]] of coarse deportment, to be like [[A Dream|a dream]], [[characters/charles-darnay|Charles Darnay]] was
 at a loss how to answer; finally, answered not at all.
 
 “Now your dinner is done,” Carton presently said, “why don’t you call a
@@ -3569,7 +3573,7 @@ care for no man on earth, and no man on earth cares for me.”
 “May be so, Mr. Darnay; may be not. Don’t let your sober face elate you,
 however; you don’t know what it may come to. Good [[motifs/night|night]]!”
 
-When he was left alone, this strange being took up a candle, went to a
+When he was left [[Alone|alone]], this strange being took up a candle, went to a
 glass that hung against the wall, and surveyed himself minutely in it.
 
 “Do you particularly like the man?” he muttered, at his own image; “why
@@ -3837,7 +3841,7 @@ I’ll get to bed.”
 
 When his host followed him out on the staircase with a candle, to light
 him down the stairs, the day was coldly looking in through its grimy
-windows. When he got out of the house, the air was cold and sad, the
+windows. When he got out of the [[house]], the air was cold and sad, the
 dull sky overcast, the [[motifs/river|river]] dark and dim, the whole scene like a
 lifeless [[motifs/desert|desert]]. And wreaths of [[motifs/dust|dust]] were spinning round and round
 before the morning blast, as if the [[motifs/desert|desert]]-sand had risen far away, and
@@ -3905,7 +3909,7 @@ glare of brightness. It was a cool spot, staid but cheerful, a wonderful
 place for echoes, and a very harbour from the raging streets.
 
 There ought to have been a tranquil bark in such an anchorage, and
-there was. The Doctor occupied two floors of a large stiff house, where
+there was. The Doctor occupied two floors of a large stiff [[house]], where
 several callings purported to be pursued by day, but whereof little was
 audible any day, and which was shunned by all of them at [[motifs/night|night]]. In
 a building at the back, attainable by a courtyard where a plane-tree
@@ -3915,12 +3919,12 @@ who had a golden arm starting out of the wall of the front hall--as if
 he had beaten himself precious, and menaced a similar [[concepts/conversion|conversion]] of all
 visitors. Very little of these trades, or of a lonely lodger rumoured
 to live up-stairs, or of a dim coach-trimming maker asserted to have
-a counting-house below, was ever heard or seen. Occasionally, a stray
+a counting-[[house]] below, was ever heard or seen. Occasionally, a stray
 workman putting his coat on, traversed the hall, or a stranger peered
 about there, or a distant clink was heard across the courtyard, or a
 thump from the golden giant. These, however, were only the exceptions
 required to prove the rule that the sparrows in the plane-tree behind
-the house, and the echoes in the corner before it, had their own way
+the [[house]], and the echoes in the corner before it, had their own way
 from [[characters/sunday|Sunday]] morning unto Saturday [[motifs/night|night]].
 
 [[characters/doctor-manette|Doctor Manette]] received such patients here as his old reputation, and
@@ -3930,7 +3934,7 @@ ingenious experiments, brought him otherwise into moderate request, and
 he earned as much as he wanted.
 
 These things were within Mr. [[characters/jarvis-lorry|Jarvis Lorry]]’s knowledge, thoughts, and
-notice, when he rang the door-bell of the tranquil house in the corner,
+notice, when he rang the door-bell of the tranquil [[house]] in the corner,
 on the fine [[characters/sunday|Sunday]] afternoon.
 
 “[[characters/doctor-manette|Doctor Manette]] at [[motifs/home|home]]?”
@@ -3973,7 +3977,7 @@ the Doctor’s consulting-room, used also as the dining-room; the third,
 changingly speckled by the rustle of the plane-tree in the yard, was the
 Doctor’s bedroom, and there, in a corner, stood the disused shoemaker’s
 bench and tray of tools, much as it had stood on the fifth floor of the
-dismal house by the wine-shop, in the suburb of Saint Antoine in [[settings/paris|Paris]].
+dismal [[house]] by the wine-shop, in the suburb of Saint Antoine in [[settings/paris|Paris]].
 
 
 
@@ -4086,7 +4090,7 @@ no touch of compunction. [[characters/miss-pross|Miss Pross]]’s fidelity of be
 (deducting a mere trifle for this slight mistake) was quite a serious
 matter with Mr. Lorry, and had its weight in his good opinion of her.
 
-“As we happen to be alone for the moment, and are both people of
+“As we happen to be [[Alone|alone]] for the moment, and are both people of
 business,” he said, when they had got back to the drawing-room and had
 sat down there in friendly relations, “let me ask you--does the Doctor,
 in talking with Lucie, never refer to the shoemaking [[motifs/time|time]], yet?”
@@ -4154,7 +4158,7 @@ of the whole subject.”
 “It’s plain enough, I should think, why he may be. It’s a dreadful
 remembrance. Besides that, his loss of himself grew out of it. Not
 knowing how he lost himself, or how he recovered himself, he may never
-feel certain of not losing himself again. That alone wouldn’t make the
+feel certain of not losing himself again. That [[Alone|alone]] wouldn’t make the
 subject pleasant, I should think.”
 
 It was a profounder remark than Mr. Lorry had looked for. “True,” said
@@ -4164,8 +4168,8 @@ always shut up within him. Indeed, it is this [[concepts/doubt|doubt]] and the u
 it sometimes causes me that has led me to our present confidence.”
 
 “Can’t be helped,” said [[characters/miss-pross|Miss Pross]], shaking her head. “Touch that
-string, and he instantly changes for the worse. Better leave it alone.
-In short, must leave it alone, like or no like. Sometimes, he gets up in
+string, and he instantly changes for the worse. Better leave it [[Alone|alone]].
+In short, must leave it [[Alone|alone]], like or no like. Sometimes, he gets up in
 the dead of the [[motifs/night|night]], and will be heard, by us overhead there, walking
 up and down, walking up and down, in his room. Ladybird has learnt to
 know then that his mind is walking up and down, walking up and down, in
@@ -4260,7 +4264,7 @@ was only One.
 
 [[characters/doctor-manette|Doctor Manette]] received him kindly, and so did Lucie. But, [[characters/miss-pross|Miss Pross]]
 suddenly became afflicted with a twitching in the head and [[concepts/body|body]], and
-retired into the house. She was not unfrequently the victim of this
+retired into the [[house]]. She was not unfrequently the victim of this
 disorder, and she called it, in familiar conversation, “a fit of the
 jerks.”
 
@@ -4315,10 +4319,10 @@ made me start. We had better go in.”
 He recovered himself almost instantly. Rain was really falling in large
 drops, and he showed the back of his hand with rain-drops on it. But, he
 said not a single word in reference to the discovery that had been told
-of, and, as they went into the house, the business eye of Mr. Lorry
+of, and, as they went into the [[house]], the business eye of Mr. Lorry
 either detected, or fancied it detected, on his face, as it turned
 towards [[characters/charles-darnay|Charles Darnay]], the same singular look that had been upon it
-when it turned towards him in the passages of the [[settings/court|Court]] House.
+when it turned towards him in the passages of the [[settings/court|Court]] [[house|House]].
 
 He recovered himself so quickly, however, that Mr. Lorry had doubts of
 his business eye. The arm of the golden giant in the hall was not more
@@ -4363,7 +4367,7 @@ solemn--”
 
 “It will seem nothing to you. Such whims are only impressive as we
 originate them, I think; they are not to be communicated. I have
-sometimes sat alone here of an evening, listening, until I have made
+sometimes sat [[Alone|alone]] here of an evening, listening, until I have made
 the echoes out to be the echoes of all the footsteps that are coming
 by-and-bye into our lives.”
 
@@ -4380,7 +4384,7 @@ the distant streets, and not one within sight.
 are we to divide them among us?”
 
 “I don’t know, Mr. Darnay; I told you it was a foolish fancy, but you
-asked for it. When I have yielded myself to it, I have been alone, and
+asked for it. When I have yielded myself to it, I have been [[Alone|alone]], and
 then I have imagined them the footsteps of the people who are to come
 into my life, and my father’s.”
 
@@ -4489,7 +4493,7 @@ A sumptuous man was the Farmer-General. Thirty horses stood in his
 stables, twenty-four male domestics sat in his halls, six [[concepts/body|body]]-women
 waited on his wife. As one who pretended to do nothing but plunder and
 forage where he could, the Farmer-General--howsoever his matrimonial
-relations conduced to social morality--was at least the greatest reality
+relations conduced to social [[morality]]--was at least the greatest reality
 among the personages who attended at the hotel of Monseigneur that day.
 
 For, the rooms, though a beautiful scene to look at, and adorned with
@@ -4499,7 +4503,7 @@ reference to the scarecrows in the rags and nightcaps elsewhere (and not
 so far off, either, but that the watching towers of Notre Dame, almost
 equidistant from the two extremes, could see them both), they would
 have been an exceedingly uncomfortable business--if that could have
-been anybody’s business, at the house of Monseigneur. Military officers
+been anybody’s business, at the [[house]] of Monseigneur. Military officers
 destitute of military knowledge; naval officers with no idea of a [[motifs/ship|ship]];
 civil officers without a notion of affairs; brazen ecclesiastics, of the
 worst world worldly, with sensual eyes, loose tongues, and looser lives;
@@ -4680,7 +4684,7 @@ a [[archetypes/child|child]].”
 The fountain was a little removed; for the street opened, where it was,
 into a space some ten or twelve yards square. As the tall man suddenly
 got up from the ground, and came running at the carriage, Monsieur the
-Marquis clapped his hand for an instant on his sword-hilt.
+Marquis clapped his hand for an instant on his [[Sword|sword]]-hilt.
 
 “Killed!” shrieked the man, in wild desperation, extending both arms at
 their length above his head, and staring at him. “Dead!”
@@ -4741,7 +4745,7 @@ moment before; but the wretched father was grovelling on his face on
 the pavement in that spot, and the figure that stood beside him was the
 figure of a dark stout woman, knitting.
 
-“You dogs!” said the Marquis, but smoothly, and with an unchanged front,
+“You [[dogs]]!” said the Marquis, but smoothly, and with an unchanged front,
 except as to the spots on his nose: “I would ride over any of you very
 willingly, and exterminate you from the earth. If I knew which rascal
 threw at the carriage, and if that brigand were sufficiently near it, he
@@ -4765,7 +4769,7 @@ spectacle, and making a barrier behind which they slunk, and through
 which they peeped. The father had long ago taken up his bundle and
 bidden himself away with it, when the women who had tended the bundle
 while it lay on the base of the fountain, sat there watching the running
-of the [[motifs/water|water]] and the rolling of the Fancy Ball--when the one woman who
+of the [[motifs/water|water]] and the [[rolling]] of the Fancy Ball--when the one woman who
 had stood conspicuous, knitting, still knitted on with the steadfastness
 of Fate. The [[motifs/water|water]] of the fountain ran, the swift [[motifs/river|river]] ran, the day ran
 into evening, so much life in the [[motifs/city|city]] ran into [[motifs/death|death]] according to rule,
@@ -4826,7 +4830,7 @@ for the lord, tax local and tax general, were to be paid here and to be
 paid there, according to solemn [[forms/inscription|inscription]] in the little village, until
 the [[concepts/wonder|wonder]] was, that there was any village left unswallowed.
 
-Few children were to be seen, and no dogs. As to the men and women,
+Few children were to be seen, and no [[dogs]]. As to the men and women,
 their choice on earth was stated in the prospect--Life on the lowest
 terms that could sustain it, down in the little village under the mill;
 or captivity and [[motifs/death|Death]] in the dominant [[motifs/prison|prison]] on the crag.
@@ -4834,7 +4838,7 @@ or captivity and [[motifs/death|Death]] in the dominant [[motifs/prison|prison]]
 Heralded by a courier in advance, and by the cracking of his postilions’
 whips, which twined snake-like about their heads in the evening air, as
 if he came attended by the Furies, Monsieur the Marquis drew up in
-his travelling carriage at the posting-house gate. It was hard by the
+his travelling carriage at the posting-[[house]] gate. It was hard by the
 fountain, and the peasants suspended their operations to look at him.
 He looked at them, and saw in them, without knowing it, the slow
 sure filing down of misery-worn face and figure, that was to make the
@@ -5015,7 +5019,7 @@ in little casements; which lights, as the casements darkened, and more
 [[motifs/stars|stars]] came out, seemed to have shot up into the sky instead of having
 been extinguished.
 
-The [[archetypes/shadow|shadow]] of a large high-roofed house, and of many over-hanging trees,
+The [[archetypes/shadow|shadow]] of a large high-roofed [[house]], and of many over-hanging trees,
 was upon Monsieur the Marquis by that [[motifs/time|time]]; and the [[archetypes/shadow|shadow]] was exchanged
 for the light of a [[characters/flambeau|flambeau]], as his carriage stopped, and the great door
 of his chateau was opened to him.
@@ -5063,7 +5067,7 @@ Avoiding the larger rooms, which were dark and made fast for the [[motifs/night|
 Monsieur the Marquis, with his [[characters/flambeau|flambeau]]-bearer going on before, went up
 the staircase to a door in a corridor. This thrown open, admitted him
 to his own private apartment of three rooms: his bed-chamber and two
-others. High vaulted rooms with cool uncarpeted floors, great dogs upon
+others. High vaulted rooms with cool uncarpeted floors, great [[dogs]] upon
 the hearths for the burning of wood in [[motifs/winter|winter]] [[motifs/time|time]], and all luxuries
 befitting the state of a marquis in a luxurious age and country.
 The fashion of the last Louis but one, of the line that was never to
@@ -5085,7 +5089,7 @@ Nor was he; but, he had been expected with Monseigneur.
 “Ah! It is not probable he will arrive to-[[motifs/night|night]]; nevertheless, leave the
 table as it is. I shall be ready in a quarter of an hour.”
 
-In a quarter of an hour Monseigneur was ready, and sat down alone to his
+In a quarter of an hour Monseigneur was ready, and sat down [[Alone|alone]] to his
 sumptuous and choice supper. His chair was opposite to the [[motifs/window|window]], and
 he had taken his soup, and was raising his glass of Bordeaux to his
 lips, when he put it down.
@@ -5153,7 +5157,7 @@ answer--“various business.”
 “Without [[concepts/doubt|doubt]],” said the polished uncle.
 
 So long as a servant was present, no other words passed between them.
-When coffee had been served and they were alone together, the nephew,
+When coffee had been served and they were [[Alone|alone]] together, the nephew,
 looking at the uncle and meeting the eyes of the face that was like a
 fine mask, opened a conversation.
 
@@ -5228,10 +5232,10 @@ and importunity. They are sought by so many, and they are granted
 (comparatively) to so few! It used not to be so, but France in all such
 things is changed for the worse. Our not remote ancestors held the right
 of life and [[motifs/death|death]] over the surrounding vulgar. From this room, many such
-dogs have been taken out to be hanged; in the next room (my bedroom),
+[[dogs]] have been taken out to be hanged; in the next room (my bedroom),
 one fellow, to our knowledge, was poniarded on the spot for professing
 some insolent delicacy respecting his daughter--_his_ daughter? We have
-lost many privileges; a new philosophy has become the mode; and the
+lost many privileges; a new [[philosophy]] has become the mode; and the
 assertion of our station, in these days, might (I do not go so far as
 to say would, but might) cause us real inconvenience. All very bad, very
 bad!”
@@ -5262,8 +5266,8 @@ him sideways with a stronger concentration of keenness, closeness,
 and dislike, than was comportable with its wearer’s assumption of
 indifference.
 
-“Repression is the only lasting philosophy. The dark deference of [[concepts/fear|fear]]
-and [[concepts/slavery|slavery]], my friend,” observed the Marquis, “will keep the dogs
+“Repression is the only lasting [[philosophy]]. The dark deference of [[concepts/fear|fear]]
+and [[concepts/slavery|slavery]], my friend,” observed the Marquis, “will keep the [[dogs]]
 obedient to the whip, as long as this roof,” looking up to it, “shuts
 out the sky.”
 
@@ -5319,7 +5323,7 @@ Every fine straight line in the clear whiteness of his face, was
 cruelly, craftily, and closely compressed, while he stood looking
 quietly at his nephew, with his snuff-box in his hand. Once again he
 touched him on the breast, as though his finger were the fine point of
-a small sword, with which, in delicate finesse, he ran him through the
+a small [[Sword|sword]], with which, in delicate finesse, he ran him through the
 [[concepts/body|body]], and said,
 
 “My friend, I will die, perpetuating the system under which I have
@@ -5368,7 +5372,7 @@ another generation, suffer less; but it is not for me. There is a curse
 on it, and on all this land.”
 
 “And you?” said the uncle. “Forgive my curiosity; do you, under your new
-philosophy, graciously intend to live?”
+[[philosophy]], graciously intend to live?”
 
 “I must do, to live, what others of my countrymen, even with nobility at
 their backs, may have to do some day--work.”
@@ -5409,7 +5413,7 @@ straight lips, and the markings in the nose, curved with a sarcasm that
 looked handsomely diabolic.
 
 “Yes,” repeated the Marquis. “A Doctor with a daughter. Yes. So
-commences the new philosophy! You are fatigued. Good [[motifs/night|night]]!”
+commences the new [[philosophy]]! You are fatigued. Good [[motifs/night|night]]!”
 
 It would have been of as much avail to interrogate any stone face
 outside the chateau as to interrogate that face of his. The nephew
@@ -5446,7 +5450,7 @@ with a long sigh as he composed himself to [[motifs/sleep|sleep]].
 
 The stone faces on the outer walls stared blindly at the black [[motifs/night|night]]
 for three heavy hours; for three heavy hours, the horses in the stables
-rattled at their racks, the dogs barked, and the owl made a noise with
+rattled at their racks, the [[dogs]] barked, and the owl made a noise with
 very little resemblance in it to the noise conventionally assigned to
 the owl by men-poets. But it is the obstinate custom of such creatures
 hardly ever to say what is set down for them.
@@ -5477,9 +5481,9 @@ and the eyes of the stone faces of the chateau were opened.
 Lighter and lighter, until at last the sun touched the tops of the still
 trees, and poured its radiance over the [[motifs/hill|hill]]. In the glow, the [[motifs/water|water]]
 of the chateau fountain seemed to turn to [[motifs/blood|blood]], and the stone faces
-crimsoned. The carol of the [[motifs/birds|birds]] was loud and high, and, on the
+crimsoned. The [[carol]] of the [[motifs/birds|birds]] was loud and high, and, on the
 weather-beaten sill of the great [[motifs/window|window]] of the bed-chamber of Monsieur
-the Marquis, one little bird sang its sweetest song with all its might.
+the Marquis, one little bird sang its sweetest [[Song|song]] with all its might.
 At this, the nearest stone face seemed to stare amazed, and, with open
 mouth and dropped under-jaw, looked awe-stricken.
 
@@ -5499,7 +5503,7 @@ surely. First, the lonely boar-spears and knives of the chase had been
 reddened as of old; then, had gleamed trenchant in the morning sunshine;
 now, doors and windows were thrown open, horses in their stables looked
 round over their shoulders at the light and freshness pouring in at
-doorways, [[motifs/leaves|leaves]] sparkled and rustled at iron-grated windows, dogs
+doorways, [[motifs/leaves|leaves]] sparkled and rustled at iron-grated windows, [[dogs]]
 pulled hard at their [[motifs/chains|chains]], and reared impatient to be loosed.
 
 All these trivial incidents belonged to the routine of life, and the
@@ -5523,7 +5527,7 @@ emotions than grim curiosity and surprise. The led cows, hastily brought
 in and tethered to anything that would hold them, were looking stupidly
 on, or lying down chewing the cud of nothing particularly repaying their
 trouble, which they had picked up in their interrupted saunter. Some of
-the people of the chateau, and some of those of the posting-house, and
+the people of the chateau, and some of those of the posting-[[house]], and
 all the taxing authorities, were armed more or less, and were crowded
 on the other side of the little street in a purposeless way, that was
 highly fraught with nothing. Already, the mender of roads had penetrated
@@ -5583,7 +5587,7 @@ did it and made the best of it. In this, his prosperity consisted.
 A certain portion of his [[motifs/time|time]] was passed at Cambridge, where he
 read with undergraduates as a sort of tolerated smuggler who drove a
 contraband trade in European languages, instead of conveying Greek
-and Latin through the Custom-house. The rest of his [[motifs/time|time]] he passed in
+and Latin through the Custom-[[house]]. The rest of his [[motifs/time|time]] he passed in
 [[settings/london|London]].
 
 Now, from the days when it was always [[motifs/summer|summer]] in Eden, to these days
@@ -5598,7 +5602,7 @@ confronted with his own on the edge of the [[motifs/grave|grave]] that had been 
 him. But, he had not yet spoken to her on the subject; the assassination
 at the deserted chateau far away beyond the heaving [[motifs/water|water]] and the long,
 long, dusty roads--the solid stone chateau which had itself become the
-mere mist of a dream--had been done a year, and he had never yet, by so
+mere mist of [[A Dream|a dream]]--had been done a year, and he had never yet, by so
 much as a single spoken word, disclosed to her the state of his heart.
 
 That he had his reasons for this, he knew full [[motifs/well|well]]. It was again a
@@ -5902,7 +5906,7 @@ promise?”
 should not see us together to-[[motifs/night|night]]. Go! God bless you!”
 
 It was dark when [[characters/charles-darnay|Charles Darnay]] left him, and it was an hour later and
-darker when Lucie came [[motifs/home|home]]; she hurried into the room alone--for
+darker when Lucie came [[motifs/home|home]]; she hurried into the room [[Alone|alone]]--for
 [[characters/miss-pross|Miss Pross]] had gone straight up-stairs--and was surprised to find his
 reading-chair empty.
 
@@ -6001,7 +6005,7 @@ to be agreeable, in a woman’s society, than you do.”
 “Go on,” said [[characters/sydney-carton|Sydney Carton]].
 
 “No; but before I go on,” said Stryver, shaking his head in his bullying
-way, “I’ll have this out with you. You’ve been at [[characters/doctor-manette|Doctor Manette]]’s house
+way, “I’ll have this out with you. You’ve been at [[characters/doctor-manette|Doctor Manette]]’s [[house]]
 as much as I have, or more than I have. Why, I have been ashamed of your
 moroseness there! Your manners have been of that silent and sullen and
 hangdog kind, that, upon my life and [[motifs/soul|soul]], I have been ashamed of you,
@@ -6162,7 +6166,7 @@ under the clouds were a sum.
 It was Stryver’s grand peculiarity that he always seemed too big for any
 place, or space. He was so much too big for Tellson’s, that old clerks
 in distant corners looked up with looks of remonstrance, as though he
-squeezed them against the wall. The House itself, magnificently reading
+squeezed them against the wall. The [[house|House]] itself, magnificently reading
 the paper quite in the far-off perspective, lowered displeased, as if
 the Stryver head had been butted into its responsible waistcoat.
 
@@ -6170,7 +6174,7 @@ The discreet Mr. Lorry said, in a sample tone of the voice he would
 recommend under the circumstances, “How do you do, Mr. Stryver? How do
 you do, sir?” and shook hands. There was a peculiarity in his manner
 of shaking hands, always to be seen in any clerk at Tellson’s who shook
-hands with a customer when the House pervaded the air. He shook in a
+hands with a customer when the [[house|House]] pervaded the air. He shook in a
 [[concepts/self|self]]-abnegating way, as one who shook for Tellson and Co.
 
 “Can I do anything for you, Mr. Stryver?” asked Mr. Lorry, in his
@@ -6180,7 +6184,7 @@ business character.
 have come for a private word.”
 
 “Oh indeed!” said Mr. Lorry, bending down his ear, while his eye strayed
-to the House afar off.
+to the [[house|House]] afar off.
 
 “I am going,” said Mr. Stryver, leaning his arms confidentially on the
 desk: whereupon, although it was a large [[topoi/double|double]] one, there appeared to
@@ -6239,12 +6243,12 @@ having some cause to believe that I should succeed.”
 
 “D--n _me_!” cried Stryver, “but this beats everything.”
 
-Mr. Lorry glanced at the distant House, and glanced at the angry
+Mr. Lorry glanced at the distant [[house|House]], and glanced at the angry
 Stryver.
 
 “Here’s a man of business--a man of years--a man of experience--_in_
 a Bank,” said Stryver; “and having summed up three leading reasons for
-complete success, he says there’s no reason at all! Says it with his
+complete [[success]], he says there’s no reason at all! Says it with his
 head on!” Mr. Stryver remarked upon the peculiarity as if it would have
 been infinitely less remarkable if he had said it with his head off.
 
@@ -6254,8 +6258,8 @@ been infinitely less remarkable if he had said it with his head off.
 <span class="atom-split" data-atom="chapter_18--part_02" data-title="A Tale of Two Cities — Chapter 12 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/blood,motif/clock,motif/night,motif/silence,motif/swallow,motif/well,concept/ambition,concept/doubt,concept/honour,concept/hope,concept/poverty"></span>
 
 
-“When I speak of success, I speak of success with the young lady; and
-when I speak of causes and reasons to make success probable, I speak of
+“When I speak of [[success]], I speak of [[success]] with the young lady; and
+when I speak of causes and reasons to make [[success]] probable, I speak of
 causes and reasons that will tell as such with the young lady. The young
 lady, my good sir,” said Mr. Lorry, mildly tapping the Stryver arm, “the
 young lady. The young lady goes before all.”
@@ -6427,13 +6431,13 @@ The Fellow of No Delicacy
 
 
 If [[characters/sydney-carton|Sydney Carton]] ever shone anywhere, he certainly never shone in the
-house of [[characters/doctor-manette|Doctor Manette]]. He had been there often, during a whole year,
+[[house]] of [[characters/doctor-manette|Doctor Manette]]. He had been there often, during a whole year,
 and had always been the same moody and morose lounger there. When he
 cared to talk, he talked [[motifs/well|well]]; but, the cloud of caring for nothing,
 which overshadowed him with such a fatal darkness, was very rarely
 pierced by the light within him.
 
-And yet he did care something for the streets that environed that house,
+And yet he did care something for the streets that environed that [[house]],
 and for the senseless stones that made their pavements. Many a [[motifs/night|night]]
 he vaguely and unhappily wandered there, when wine had brought no
 transitory gladness to him; many a dreary daybreak revealed his solitary
@@ -6455,7 +6459,7 @@ those stones. From being irresolute and purposeless, his feet became
 animated by an intention, and, in the working out of that intention,
 they took him to the Doctor’s door.
 
-He was shown up-stairs, and found Lucie at her work, alone. She had
+He was shown up-stairs, and found Lucie at her work, [[Alone|alone]]. She had
 never been quite at her ease with him, and received him with some little
 embarrassment as he seated himself near her table. But, looking up at
 his face in the interchange of the first few common-places, she observed
@@ -6536,8 +6540,8 @@ died out of me. Since I knew you, I have been troubled by a remorse that
 I thought would never reproach me again, and have heard whispers from
 old voices impelling me upward, that I thought were silent for ever. I
 have had unformed ideas of striving afresh, beginning anew, shaking off
-sloth and sensuality, and fighting out the abandoned fight. A dream, all
-a dream, that ends in nothing, and [[motifs/leaves|leaves]] the sleeper where he lay down,
+sloth and sensuality, and fighting out the abandoned fight. [[A Dream|A dream]], all
+[[A Dream|a dream]], that ends in nothing, and [[motifs/leaves|leaves]] [[The Sleeper|the sleeper]] where he lay down,
 but I wish you to know that you inspired it.”
 
 “Will nothing of it remain? O Mr. Carton, think again! Try again!”
@@ -6573,7 +6577,7 @@ all my heart, was capable of better things, Mr. Carton!”
 and I know better. I distress you; I draw fast to an end. Will you let
 me believe, when I recall this day, that the last confidence of my life
 was reposed in your pure and [[archetypes/innocent|innocent]] breast, and that it lies there
-alone, and will be shared by no one?”
+[[Alone|alone]], and will be shared by no one?”
 
 “If that will be a consolation to you, yes.”
 
@@ -6774,7 +6778,7 @@ ornament, before the cavalcade had gone far down the Strand; and his
 bear, who was black and very mangy, gave quite an Undertaking air to
 that part of the procession in which he walked.
 
-Thus, with beer-drinking, pipe-smoking, song-roaring, and infinite
+Thus, with beer-drinking, pipe-smoking, [[Song|song]]-roaring, and infinite
 caricaturing of woe, the disorderly procession went its way, recruiting
 at every step, and all the shops shutting up before it. Its destination
 was the old church of Saint Pancras, far off in the fields. It got there
@@ -6784,7 +6788,7 @@ highly to its own satisfaction.
 
 The dead man disposed of, and the crowd being under the necessity of
 providing some other entertainment for itself, another brighter
-genius (or perhaps the same) conceived the humour of impeaching casual
+genius (or perhaps the same) conceived the [[Humour|humour]] of impeaching casual
 passers-by, as Old Bailey spies, and wreaking vengeance on them. Chase
 was given to some scores of inoffensive persons who had never been near
 the Old Bailey in their lives, in the realisation of this fancy, and
@@ -6800,7 +6804,7 @@ progress of a mob.
 Mr. Cruncher did not assist at the closing sports, but had remained
 behind in the churchyard, to confer and condole with the undertakers.
 The place had a soothing influence on him. He procured a pipe from a
-neighbouring public-house, and smoked it, looking in at the railings and
+neighbouring public-[[house]], and smoked it, looking in at the railings and
 maturely considering the spot.
 
 “Jerry,” said Mr. Cruncher, apostrophising himself in his usual way,
@@ -6919,11 +6923,11 @@ Young Jerry, who had only made a feint of undressing when he went to
 bed, was not long after his father. Under cover of the darkness he
 followed out of the room, followed down the stairs, followed down the
 [[settings/court|court]], followed out into the streets. He was in no uneasiness concerning
-his getting into the house again, for it was full of lodgers, and the
+his getting into the [[house]] again, for it was full of lodgers, and the
 door stood ajar all [[motifs/night|night]].
 
 Impelled by a laudable [[concepts/ambition|ambition]] to study the art and mystery of his
-father’s honest calling, Young Jerry, keeping as close to house fronts,
+father’s honest calling, Young Jerry, keeping as close to [[house]] fronts,
 walls, and doorways, as his eyes were close to one another, held his
 honoured parent in view. The honoured parent steering Northward, had not
 gone far, when he was joined by another disciple of Izaak Walton, and
@@ -7026,7 +7030,7 @@ husband to disobey him on the wital subject of his business?”
 “It’s enough for you,” retorted Mr. Cruncher, “to be the wife of a
 honest tradesman, and not to occupy your female mind with calculations
 when he took to his trade or when he didn’t. A honouring and obeying
-wife would let his trade alone altogether. Call yourself a religious
+wife would let his trade [[Alone|alone]] altogether. Call yourself a religious
 woman? If you’re a religious woman, give me a irreligious one! You have
 no more nat’ral sense of duty than the bed of this here Thames [[motifs/river|river]] has
 of a pile, and similarly it must be knocked into you.”
@@ -7323,7 +7327,7 @@ at him by stealth, for it is afraid. But it always looks up, from a
 distance, at the [[motifs/prison|prison]] on the crag; and in the evening, when the work
 of the day is achieved and it assembles to gossip at the fountain, all
 faces are turned towards the [[motifs/prison|prison]]. Formerly, they were turned towards
-the posting-house; now, they are turned towards the [[motifs/prison|prison]]. They
+the posting-[[house]]; now, they are turned towards the [[motifs/prison|prison]]. They
 whisper at the fountain, that although condemned to [[motifs/death|death]] he will not be
 executed; they say that petitions have been presented in [[settings/paris|Paris]], showing
 that he was enraged and made mad by the [[motifs/death|death]] of his [[archetypes/child|child]]; they say
@@ -7454,7 +7458,7 @@ safe, for no one beyond ourselves can decipher it; but shall we always
 be able to decipher it--or, I ought to say, will she?”
 
 “Jacques,” returned Defarge, drawing himself up, “if madame my wife
-undertook to keep the register in her [[motifs/memory|memory]] alone, she would not lose
+undertook to keep the register in her [[motifs/memory|memory]] [[Alone|alone]], she would not lose
 a word of it--not a syllable of it. Knitted, in her own stitches and her
 own symbols, it will always be as plain to her as the sun. Confide in
 [[characters/madame-defarge|Madame Defarge]]. It would be easier for the weakest poltroon that lives,
@@ -7486,7 +7490,7 @@ him to bring it down one day.”
 
 Nothing more was said, and the mender of roads, being found already
 dozing on the topmost stair, was advised to lay himself down on the
-pallet-bed and take some rest. He needed no persuasion, and was soon
+pallet-bed and take some rest. He needed no [[Persuasion|persuasion]], and was soon
 asleep.
 
 Worse quarters than Defarge’s wine-shop, could easily have been found
@@ -7556,7 +7560,7 @@ insolent, and it is the nearer ended.”
 
 “These fools know nothing. While they despise your breath, and would
 stop it for ever and ever, in you or in a hundred like you rather than
-in one of their own horses or dogs, they only know what your breath
+in one of their own horses or [[dogs]], they only know what your breath
 tells them. Let it deceive them, then, a little longer; it cannot
 deceive them too much.”
 
@@ -7766,7 +7770,7 @@ were another enemy strangled.
 “We shall have helped it,” returned madame, with her extended hand in
 strong action. “Nothing that we do, is done in vain. I believe, with all
 my [[motifs/soul|soul]], that we shall see the triumph. But even if not, even if I knew
-certainly not, show me the neck of an aristocrat and [[archetypes/tyrant|tyrant]], and still I
+certainly not, show me the neck of an [[aristocrat]] and [[archetypes/tyrant|tyrant]], and still I
 would--”
 
 Then madame, with her teeth set, tied a very terrible knot indeed.
@@ -7949,7 +7953,7 @@ have shot with the greatest satisfaction.
 The spy, [[motifs/well|well]] used to his business, did not change his unconscious
 attitude, but drained his little glass of cognac, took a sip of fresh
 [[motifs/water|water]], and asked for another glass of cognac. [[characters/madame-defarge|Madame Defarge]] poured it
-out for him, took to her knitting again, and hummed a little song over
+out for him, took to her knitting again, and hummed a little [[Song|song]] over
 it.
 
 “You seem to know this quarter [[motifs/well|well]]; that is to say, better than I do?”
@@ -7991,7 +7995,7 @@ Manette and his daughter, in England.”
 “No,” said Defarge.
 
 “In effect,” madame struck in, looking up from her work and her little
-song, “we never hear about them. We received the news of their safe
+[[Song|song]], “we never hear about them. We received the news of their safe
 arrival, and perhaps another letter, or perhaps two; but, since then,
 they have gradually taken their [[motifs/road|road]] in life--we, ours--and we have held
 no correspondence.”
@@ -8123,7 +8127,7 @@ radiance over great [[settings/london|London]], than on that [[motifs/night|nigh
 seated under the tree, and shone upon their faces through its [[motifs/leaves|leaves]].
 
 Lucie was to be married to-morrow. She had reserved this last evening
-for her father, and they sat alone under the plane-tree.
+for her father, and they sat [[Alone|alone]] under the plane-tree.
 
 “You are happy, my dear father?”
 
@@ -8207,7 +8211,7 @@ deepened as he dwelt upon it; but, there was nothing to shock her in
 the manner of his reference. He only seemed to contrast his present
 cheerfulness and felicity with the dire [[concepts/endurance|endurance]] that was over.
 
-“I have looked at her, speculating thousands of times upon the unborn
+“I have looked at her, speculating thousands of times upon the [[unborn]]
 [[archetypes/child|child]] from whom I had been rent. Whether it was alive. Whether it had
 been born alive, or the poor mother’s shock had killed it. Whether it
 was a son who would some day avenge his father. (There was a [[motifs/time|time]] in my
@@ -8283,7 +8287,7 @@ happiness that I have known with you, and that we have before us.”
 
 He embraced her, solemnly commended her to Heaven, and humbly thanked
 Heaven for having bestowed her on him. By-and-bye, they went into the
-house.
+[[house]].
 
 There was no one bidden to the [[motifs/marriage|marriage]] but Mr. Lorry; there was even to
 be no bridesmaid but the gaunt [[characters/miss-pross|Miss Pross]]. The [[motifs/marriage|marriage]] was to make no
@@ -8433,7 +8437,7 @@ gone.
 
 The corner being out of the way of the idle and curious, and the
 preparations having been very simple and few, the Doctor, Mr. Lorry,
-and [[characters/miss-pross|Miss Pross]], were left quite alone. It was when they turned into
+and [[characters/miss-pross|Miss Pross]], were left quite [[Alone|alone]]. It was when they turned into
 the welcome shade of the cool old hall, that Mr. Lorry observed a great
 change to have come over the Doctor; as if the golden arm uplifted
 there, had struck him a poisoned blow.
@@ -8459,7 +8463,7 @@ there, and all will be [[motifs/well|well]].”
 
 It was easier for Mr. Lorry to look in at Tellson’s, than to look out of
 Tellson’s. He was detained two hours. When he came back, he ascended the
-old staircase alone, having asked no question of the servant; going thus
+old staircase [[Alone|alone]], having asked no question of the servant; going thus
 into the Doctor’s rooms, he was stopped by a low sound of knocking.
 
 “Good God!” he said, with a start. “What’s that?”
@@ -8499,7 +8503,7 @@ his work.
 occupation. Think, dear friend!”
 
 Nothing would induce him to speak more. He looked up, for an instant at
-a [[motifs/time|time]], when he was requested to do so; but, no persuasion would extract
+a [[motifs/time|time]], when he was requested to do so; but, no [[Persuasion|persuasion]] would extract
 a word from him. He worked, and worked, and worked, in [[motifs/silence|silence]], and
 words fell on him as they would have fallen on an echoless wall, or on
 the air. The only ray of [[concepts/hope|hope]] that Mr. Lorry could discover, was, that
@@ -8937,7 +8941,7 @@ had been taken to account for his [[motifs/silence|silence]], Mr. Lorry had prev
 explained to him, and he had written to Lucie in accordance with it, and
 she had no suspicions.
 
-On the [[motifs/night|night]] of the day on which he left the house, Mr. Lorry went into
+On the [[motifs/night|night]] of the day on which he left the [[house]], Mr. Lorry went into
 his room with a chopper, saw, chisel, and hammer, attended by [[characters/miss-pross|Miss Pross]]
 carrying a light. There, with closed doors, and in a mysterious and
 guilty manner, Mr. Lorry hacked the shoemaker’s bench to pieces, while
@@ -8978,7 +8982,7 @@ speaking to him when no one overheard.
 mean any fashion of speech. Indeed, when I say I wish we might be
 friends, I scarcely mean quite that, either.”
 
-[[characters/charles-darnay|Charles Darnay]]--as was natural--asked him, in all good-humour and
+[[characters/charles-darnay|Charles Darnay]]--as was natural--asked him, in all good-[[Humour|humour]] and
 good-fellowship, what he did mean?
 
 “Upon my life,” said Carton, smiling, “I find that easier to comprehend
@@ -9139,7 +9143,7 @@ Echoing Footsteps
 A wonderful corner for echoes, it has been remarked, that corner where
 the Doctor lived. Ever busily winding the golden thread which bound
 her husband, and her father, and herself, and her old directress and
-companion, in a life of quiet bliss, Lucie sat in the still house in
+companion, in a life of quiet bliss, Lucie sat in the still [[house]] in
 the tranquilly resounding corner, listening to the echoing footsteps of
 years.
 
@@ -9158,7 +9162,7 @@ That [[motifs/time|time]] passed, and her little Lucie lay on her bosom. Then, a
 advancing echoes, there was the tread of her tiny feet and the sound of
 her prattling words. Let greater echoes resound as they would, the young
 mother at the cradle side could always hear those coming. They came, and
-the shady house was sunny with a [[archetypes/child|child]]’s laugh, and the Divine friend of
+the shady [[house]] was sunny with a [[archetypes/child|child]]’s laugh, and the Divine friend of
 children, to whom in her trouble she had confided hers, seemed to take
 her [[archetypes/child|child]] in his arms, as He took the [[archetypes/child|child]] of old, and made it a sacred
 joy to her.
@@ -9222,8 +9226,8 @@ These three young gentlemen, Mr. Stryver, exuding patronage of the most
 offensive quality from every pore, had walked before him like three
 sheep to the quiet corner in Soho, and had offered as pupils to
 Lucie’s husband: delicately saying “Halloa! here are three lumps of
-bread-and-cheese towards your matrimonial picnic, Darnay!” The polite
-rejection of the three lumps of bread-and-cheese had quite bloated Mr.
+bread-and-[[cheese]] towards your matrimonial picnic, Darnay!” The polite
+rejection of the three lumps of bread-and-[[cheese]] had quite bloated Mr.
 Stryver with indignation, which he afterwards turned to account in the
 training of the young gentlemen, by directing them to beware of the
 [[concepts/pride|pride]] of Beggars, like that tutor-fellow. He was also in the habit of
@@ -9255,7 +9259,7 @@ in her ears, of the many times her father had told her that he found her
 more devoted to him married (if that could be) than single, and of the
 many times her husband had said to her that no cares and duties seemed
 to divide her [[motifs/love|love]] for him or her help to him, and asked her “What is
-the magic secret, my darling, of your being everything to all of us,
+the [[Magic|magic]] secret, my darling, of your being everything to all of us,
 as if there were only one of us, yet never seeming to be hurried, or to
 have too much to do?”
 
@@ -9487,7 +9491,7 @@ waterfalls than staircases, Defarge, the turnkey, and Jacques Three,
 linked hand and arm, went with all the [[characters/speed|speed]] they could make. Here and
 there, especially at first, the inundation started on them and swept by;
 but when they had done descending, and were winding and climbing up a
-tower, they were alone. Hemmed in here by the massive thickness of walls
+tower, they were [[Alone|alone]]. Hemmed in here by the massive thickness of walls
 and arches, the [[motifs/storm|storm]] within the fortress and without was only audible
 to them in a dull, subdued way, as if the noise out of which they had
 come had almost destroyed their sense of hearing.
@@ -9654,7 +9658,7 @@ last finishing blows had told mightily on the expression.
 [[characters/madame-defarge|Madame Defarge]] sat observing it, with such suppressed approval as was
 to be desired in the leader of the Saint Antoine women. One of her
 sisterhood knitted beside her. The short, rather plump wife of a starved
-grocer, and the mother of two children withal, this lieutenant had
+[[grocer]], and the mother of two children withal, this lieutenant had
 already earned the complimentary name of The Vengeance.
 
 “Hark!” said The Vengeance. “Listen, then! Who comes?”
@@ -9703,10 +9707,10 @@ was heard as she moved it at her feet behind the counter.
 “Patriots!” said Defarge, in a determined voice, “are we ready?”
 
 Instantly [[characters/madame-defarge|Madame Defarge]]’s knife was in her girdle; the drum was beating
-in the streets, as if it and a drummer had flown together by magic; and
+in the streets, as if it and a drummer had flown together by [[Magic|magic]]; and
 The Vengeance, uttering terrific shrieks, and flinging her arms about
-her head like all the forty Furies at once, was tearing from house to
-house, rousing the women.
+her head like all the forty Furies at once, was tearing from [[house]] to
+[[house]], rousing the women.
 
 The men were terrible, in the bloody-minded anger with which they looked
 from windows, caught up what arms they had, and came pouring down into
@@ -9799,7 +9803,7 @@ Nor was this the end of the day’s bad work, for Saint Antoine so shouted
 and danced his angry [[motifs/blood|blood]] up, that it boiled again, on hearing when
 the day closed in that the son-in-law of the despatched, another of the
 people’s enemies and insulters, was coming into [[settings/paris|Paris]] under a guard
-five hundred strong, in cavalry alone. Saint Antoine wrote his crimes
+five hundred strong, in cavalry [[Alone|alone]]. Saint Antoine wrote his crimes
 on flaring sheets of paper, seized him--would have torn him out of the
 breast of an army to bear Foulon company--set his head and heart on
 pikes, and carried the three spoils of the day, in Wolf-procession
@@ -9820,7 +9824,7 @@ most other sauce to wretched bread. Yet, human fellowship infused
 some nourishment into the flinty viands, and struck some sparks of
 cheerfulness out of them. Fathers and mothers who had had their full
 share in the worst of the day, played gently with their meagre children;
-and lovers, with such a world around them and before them, loved and
+and [[lovers]], with such a world around them and before them, loved and
 hoped.
 
 It was almost morning, when Defarge’s wine-shop parted with its last
@@ -9832,7 +9836,7 @@ husky tones, while fastening the door:
 “Eh [[motifs/well|well]]!” returned madame. “Almost.”
 
 Saint Antoine slept, the Defarges slept: even The Vengeance slept with
-her starved grocer, and the drum was at rest. The drum’s was the
+her starved [[grocer]], and the drum was at rest. The drum’s was the
 only voice in Saint Antoine that [[motifs/blood|blood]] and hurry had not changed. The
 Vengeance, as custodian of the drum, could have wakened him up and had
 the same speech out of him as before the Bastille fell, or old Foulon
@@ -9950,7 +9954,7 @@ of bayonets, until the sky began to clear over the village.
 “See!” returned the mender of roads, with extended finger. “You go down
 here, and straight through the street, and past the fountain--”
 
-“To the Devil with all that!” interrupted the other, rolling his eye
+“To the Devil with all that!” interrupted the other, [[rolling]] his eye
 over the landscape. “_I_ go through no streets and past no fountains.
 [[motifs/well|Well]]?”
 
@@ -9971,7 +9975,7 @@ The wayfarer smoked his pipe out, put it in his breast, slipped off his
 great wooden shoes, and lay down on his back on the heap of stones. He
 was fast asleep directly.
 
-As the [[motifs/road|road]]-mender plied his dusty labour, and the hail-clouds, rolling
+As the [[motifs/road|road]]-mender plied his dusty labour, and the hail-clouds, [[rolling]]
 away, revealed bright bars and streaks of sky which were responded to
 by silver gleams upon the landscape, the little man (who wore a red cap
 now, in place of his blue one) seemed fascinated by the figure on the
@@ -10007,7 +10011,7 @@ them, until the sun was low in the west, and the sky was glowing. Then,
 the mender of roads having got his tools together and all things ready
 to go down into the village, roused him.
 
-“Good!” said the sleeper, rising on his elbow. “Two leagues beyond the
+“Good!” said [[The Sleeper|the sleeper]], rising on his elbow. “Two leagues beyond the
 summit of the [[motifs/hill|hill]]?”
 
 “About.”
@@ -10023,8 +10027,8 @@ as it usually did, but came out of doors again, and remained there. A
 curious contagion of whispering was upon it, and also, when it gathered
 together at the fountain in the dark, another curious contagion of
 looking expectantly at the sky in one direction only. Monsieur Gabelle,
-chief functionary of the place, became uneasy; went out on his house-top
-alone, and looked in that direction too; glanced down from behind his
+chief functionary of the place, became uneasy; went out on his [[house]]-top
+[[Alone|alone]], and looked in that direction too; glanced down from behind his
 chimneys at the darkening faces by the fountain below, and sent word to
 the sacristan who kept the keys of the church, that there might be need
 to ring the tocsin by-and-bye.
@@ -10050,7 +10054,7 @@ and windows were. Then it soared higher, and grew broader and brighter.
 Soon, from a score of the great windows, flames burst forth, and the
 stone faces awakened, stared out of [[motifs/fire|fire]].
 
-A faint murmur arose about the house from the few people who were left
+A faint murmur arose about the [[house]] from the few people who were left
 there, and there was a saddling of a [[motifs/horse|horse]] and riding away. There was
 spurring and splashing through the darkness, and bridle was drawn in the
 space by the village fountain, and the [[motifs/horse|horse]] in a foam stood at Monsieur
@@ -10107,7 +10111,7 @@ bell-ringing, and bethinking itself that Monsieur Gabelle had to do with
 the collection of rent and taxes--though it was but a small instalment
 of taxes, and no rent at all, that Gabelle had got in those latter
 days--became impatient for an interview with him, and, surrounding his
-house, summoned him to come forth for personal conference. Whereupon,
+[[house]], summoned him to come forth for personal conference. Whereupon,
 Monsieur Gabelle did heavily bar his door, and retire to hold counsel
 with himself. The result of that conference was, that Gabelle again
 withdrew himself to his housetop behind his stack of chimneys; this [[motifs/time|time]]
@@ -10118,7 +10122,7 @@ parapet, and crush a man or two below.
 Probably, Monsieur Gabelle passed a long [[motifs/night|night]] up there, with the
 distant chateau for [[motifs/fire|fire]] and candle, and the beating at his door,
 combined with the joy-ringing, for music; not to mention his having an
-ill-omened lamp slung across the [[motifs/road|road]] before his posting-house gate,
+ill-omened lamp slung across the [[motifs/road|road]] before his posting-[[house]] gate,
 which the village showed a lively inclination to displace in his favour.
 A trying suspense, to be passing a whole [[motifs/summer|summer]] [[motifs/night|night]] on the brink of
 the black ocean, ready to take that plunge into it upon which Monsieur
@@ -10132,7 +10136,7 @@ other functionaries less fortunate, that [[motifs/night|night]] and other nights
 the rising sun found hanging across once-peaceful streets, where they
 had been born and bred; also, there were other villagers and townspeople
 less fortunate than the mender of roads and his fellows, upon whom the
-functionaries and soldiery turned with success, and whom they strung up
+functionaries and soldiery turned with [[success]], and whom they strung up
 in their turn. But, the fierce figures were steadily wending East, West,
 North, and South, be that as it would; and whosoever hung, [[motifs/fire|fire]] burned.
 The altitude of the gallows that would turn to [[motifs/water|water]] and quench it,
@@ -10191,7 +10195,7 @@ haunt the places where their bodies most resorted, and Monseigneur
 without a guinea haunted the spot where his guineas used to be.
 Moreover, it was the spot to which such French intelligence as was most
 to be relied upon, came quickest. Again: Tellson’s was a munificent
-house, and extended great liberality to old customers who had fallen
+[[house]], and extended great liberality to old customers who had fallen
 from their high estate. Again: those nobles who had seen the coming
 [[motifs/storm|storm]] in [[motifs/time|time]], and anticipating plunder or confiscation, had made
 provident remittances to Tellson’s, were always to be heard of there
@@ -10206,7 +10210,7 @@ through Temple Bar to read.
 
 On a steaming, misty afternoon, Mr. Lorry sat at his desk, and Charles
 Darnay stood leaning on it, talking with him in a low voice. The
-penitential den once set apart for interviews with the House, was now
+penitential den once set apart for interviews with the [[house|House]], was now
 the news-Exchange, and was filled to overflowing. It was within half an
 hour or so of the [[motifs/time|time]] of closing.
 
@@ -10224,7 +10228,7 @@ enough for me; nobody will care to interfere with an old fellow of hard
 upon fourscore when there are so many people there much better worth
 interfering with. As to its being a disorganised [[motifs/city|city]], if it were not a
 disorganised [[motifs/city|city]] there would be no occasion to send somebody from our
-House here to our House there, who knows the [[motifs/city|city]] and the business, of
+[[house|House]] here to our [[house|House]] there, who knows the [[motifs/city|city]] and the business, of
 old, and is in Tellson’s confidence. As to the uncertain travelling, the
 long [[motifs/journey|journey]], and the [[motifs/winter|winter]] weather, if I were not prepared to submit
 myself to a few inconveniences for the sake of Tellson’s, after all
@@ -10253,7 +10257,7 @@ France at this [[motifs/time|time]] of day!”
 more to the purpose that you say you are.”
 
 “And I am, in plain reality. The [[concepts/truth|truth]] is, my dear Charles,” Mr. Lorry
-glanced at the distant House, and lowered his voice, “you can have no
+glanced at the distant [[house|House]], and lowered his voice, “you can have no
 conception of the difficulty with which our business is transacted, and
 of the peril in which our books and papers over yonder are involved. The
 Lord above knows what the compromising consequences would be to numbers
@@ -10276,7 +10280,7 @@ the joints? Why, I am a boy, sir, to half a dozen old codgers here!”
 “How I admire the gallantry of your youthful spirit, Mr. Lorry.”
 
 “Tut! Nonsense, sir!--And, my dear Charles,” said Mr. Lorry, glancing at
-the House again, “you are to remember, that getting things out of
+the [[house|House]] again, “you are to remember, that getting things out of
 [[settings/paris|Paris]] at this present [[motifs/time|time]], no matter what things, is next to an
 impossibility. Papers and precious matters were this very day brought
 to us here (I speak in strict confidence; it is not business-like to
@@ -10335,9 +10339,9 @@ with a particular feeling of objection; and Darnay stood divided between
 going away that he might hear no more, and remaining to interpose his
 word, when the thing that was to be, went on to shape itself out.
 
-The House approached Mr. Lorry, and laying a soiled and unopened letter
+The [[house|House]] approached Mr. Lorry, and laying a soiled and unopened letter
 before him, asked if he had yet discovered any traces of the person to
-whom it was addressed? The House laid the letter down so close to Darnay
+whom it was addressed? The [[house|House]] laid the letter down so close to Darnay
 that he saw the direction--the more quickly because it was his own right
 name. The address, turned into English, ran:
 
@@ -10351,7 +10355,7 @@ be--unless he, the Doctor, dissolved the obligation--kept inviolate
 between them. Nobody else knew it to be his name; his own wife had no
 suspicion of the fact; Mr. Lorry could have none.
 
-“No,” said Mr. Lorry, in reply to the House; “I have referred it,
+“No,” said Mr. Lorry, in reply to the [[house|House]]; “I have referred it,
 I think, to everybody now here, and no one can tell me where this
 gentleman is to be found.”
 
@@ -10424,7 +10428,7 @@ of heels very early in the scuffle, and sneak away.”
 
 With those words, and a final snap of his fingers, Mr. Stryver
 shouldered himself into Fleet-street, amidst the general approbation of
-his hearers. Mr. Lorry and [[characters/charles-darnay|Charles Darnay]] were left alone at the desk,
+his hearers. Mr. Lorry and [[characters/charles-darnay|Charles Darnay]] were left [[Alone|alone]] at the desk,
 in the general departure from the Bank.
 
 “Will you take charge of the letter?” said Mr. Lorry. “You know where to
@@ -10454,7 +10458,7 @@ letter, and read it. These were its contents:
 “After having long been in danger of my life at the hands of the
 village, I have been seized, with great violence and indignity, and
 brought a long [[motifs/journey|journey]] on foot to [[settings/paris|Paris]]. On the [[motifs/road|road]] I have suffered a
-great deal. Nor is that all; my house has been destroyed--razed to the
+great deal. Nor is that all; my [[house]] has been destroyed--razed to the
 ground.
 
 “The crime for which I am imprisoned, Monsieur heretofore the Marquis,
@@ -10495,7 +10499,7 @@ reproachfully in the face, that, as he walked to and fro in the Temple
 considering what to do, he almost hid his face from the passersby.
 
 He knew very [[motifs/well|well]], that in his horror of the deed which had culminated
-the bad deeds and bad reputation of the old family house, in his
+the bad deeds and bad reputation of the old family [[house]], in his
 resentful suspicions of his uncle, and in the aversion with which his
 [[concepts/conscience|conscience]] regarded the crumbling fabric that he was supposed to uphold,
 he had acted imperfectly. He knew very [[motifs/well|well]], that in his [[motifs/love|love]] for Lucie,
@@ -10668,7 +10672,7 @@ ninety-two. More than enough of bad roads, bad equipages, and bad
 horses, he would have encountered to delay him, though the fallen and
 unfortunate [[characters/king-of-france|King of France]] had been upon his throne in all his glory;
 but, the changed times were fraught with other obstacles than
-these. Every town-gate and village taxing-house had its band of
+these. Every town-gate and village taxing-[[house]] had its band of
 citizen-patriots, with their national muskets in a most explosive state
 of readiness, who stopped all comers and goers, [[motifs/cross|cross]]-questioned them,
 inspected their papers, looked for their names in lists of their own,
@@ -10692,12 +10696,12 @@ This universal watchfulness not only stopped him on the highway twenty
 times in a stage, but retarded his progress twenty times in a day, by
 riding after him and taking him back, riding before him and stopping him
 by anticipation, riding with him and keeping him in charge. He had been
-days upon his [[motifs/journey|journey]] in France alone, when he went to bed tired out, in
+days upon his [[motifs/journey|journey]] in France [[Alone|alone]], when he went to bed tired out, in
 a little town on the high [[motifs/road|road]], still a long way from [[settings/paris|Paris]].
 
 Nothing but the production of the afflicted Gabelle’s letter from his
 [[motifs/prison|prison]] of the Abbaye would have got him on so far. His difficulty at the
-guard-house in this small place had been such, that he felt his [[motifs/journey|journey]]
+guard-[[house]] in this small place had been such, that he felt his [[motifs/journey|journey]]
 to have come to a crisis. And he was, therefore, as little surprised as
 a man could be, to find himself awakened at the small inn to which he
 had been remitted until morning, in the middle of the [[motifs/night|night]].
@@ -10712,10 +10716,10 @@ under an escort.”
 dispense with the escort.”
 
 “[[motifs/silence|Silence]]!” growled a red-cap, striking at the coverlet with the butt-end
-of his musket. “Peace, aristocrat!”
+of his musket. “Peace, [[aristocrat]]!”
 
 “It is as the good patriot says,” observed the timid functionary. “You
-are an aristocrat, and must have an escort--and must pay for it.”
+are an [[aristocrat]], and must have an escort--and must pay for it.”
 
 “I have no choice,” said [[characters/charles-darnay|Charles Darnay]].
 
@@ -10725,7 +10729,7 @@ not a favour to be protected from the lamp-iron!”
 “It is always as the good patriot says,” observed the functionary. “Rise
 and dress yourself, emigrant.”
 
-Darnay complied, and was taken back to the guard-house, where other
+Darnay complied, and was taken back to the guard-[[house]], where other
 patriots in rough red caps were smoking, drinking, and sleeping, by
 a watch-[[motifs/fire|fire]]. Here he paid a heavy price for his escort, and hence he
 started with it on the wet, wet roads at three o’[[motifs/clock|clock]] in the morning.
@@ -10768,7 +10772,7 @@ will?”
 
 “You are a cursed emigrant,” cried a farrier, making at him in a
 furious manner through the press, hammer in hand; “and you are a cursed
-aristocrat!”
+[[aristocrat]]!”
 
 The postmaster interposed himself between this man and the rider’s
 bridle (at which he was evidently making), and soothingly said, “Let him
@@ -10791,7 +10795,7 @@ voice heard:
 “Friends, you deceive yourselves, or you are deceived. I am not a
 traitor.”
 
-“He lies!” cried the smith. “He is a traitor since the decree. His life
+“He lies!” cried the [[smith]]. “He is a traitor since the decree. His life
 is forfeit to the people. His cursed life is not his own!”
 
 At the instant when Darnay saw a rush in the eyes of the crowd, which
@@ -10801,7 +10805,7 @@ and the postmaster shut and barred the crazy [[topoi/double|double]] gates. The 
 struck a blow upon them with his hammer, and the crowd groaned; but, no
 more was done.
 
-“What is this decree that the smith spoke of?” Darnay asked the
+“What is this decree that the [[smith]] spoke of?” Darnay asked the
 postmaster, when he had thanked him, and stood beside him in the yard.
 
 “Truly, a decree for selling the property of emigrants.”
@@ -10830,7 +10834,7 @@ lonely spurring over dreary roads, they would come to a cluster of poor
 cottages, not steeped in darkness, but all glittering with lights, and
 would find the people, in a ghostly manner in the dead of the [[motifs/night|night]],
 circling hand in hand round a shrivelled tree of Liberty, or all drawn
-up together singing a Liberty song. Happily, however, there was [[motifs/sleep|sleep]] in
+up together singing a Liberty [[Song|song]]. Happily, however, there was [[motifs/sleep|sleep]] in
 Beauvais that [[motifs/night|night]] to help them out of it and they passed on once more
 into [[concepts/solitude|solitude]] and [[concepts/loneliness|loneliness]]: jingling through the untimely cold and
 wet, among impoverished fields that had yielded no fruits of the earth
@@ -10883,7 +10887,7 @@ He accompanied his conductor into a guard-room, smelling of common wine
 and tobacco, where certain soldiers and patriots, asleep and awake,
 drunk and sober, and in various neutral states between sleeping and
 waking, drunkenness and sobriety, were standing and lying about. The
-light in the guard-house, half derived from the waning oil-lamps of
+light in the guard-[[house]], half derived from the waning oil-lamps of
 the [[motifs/night|night]], and half from the overcast day, was in a correspondingly
 uncertain condition. Some registers were lying open on a desk, and an
 officer of a coarse, dark aspect, presided over these.
@@ -10947,7 +10951,7 @@ guardhouse steps and turned into [[settings/paris|Paris]], “who married the da
 “My name is Defarge, and I keep a wine-shop in the Quarter Saint
 Antoine. Possibly you have heard of me.”
 
-“My wife came to your house to reclaim her father? Yes!”
+“My wife came to your [[house]] to reclaim her father? Yes!”
 
 The word “wife” seemed to serve as a gloomy reminder to Defarge, to say
 with sudden impatience, “In the name of that sharp female newly-born,
@@ -11001,7 +11005,7 @@ I will do nothing for you.”
 was touched besides. As they walked on in [[motifs/silence|silence]], he could not but see
 how used the people were to the spectacle of prisoners passing along the
 streets. The very children scarcely noticed him. A few passers turned
-their heads, and a few shook their fingers at him as an aristocrat;
+their heads, and a few shook their fingers at him as an [[aristocrat]];
 otherwise, that a man in good clothes should be going to [[motifs/prison|prison]], was no
 more remarkable than that a labourer in working clothes should be
 going to work. In one narrow, dark, and dirty street through which they
@@ -11068,7 +11072,7 @@ are ill cared for!
 “In secret, too,” grumbled the gaoler, looking at the written paper. “As
 if I was not already full to bursting!”
 
-He stuck the paper on a file, in an ill-humour, and [[characters/charles-darnay|Charles Darnay]]
+He stuck the paper on a file, in an ill-[[Humour|humour]], and [[characters/charles-darnay|Charles Darnay]]
 awaited his further pleasure for half an hour: sometimes, pacing to and
 fro in the strong arched room: sometimes, resting on a stone seat: in
 either case detained to be imprinted on the [[motifs/memory|memory]] of the chief and his
@@ -11145,7 +11149,7 @@ solitary cell. It struck cold and damp, but was not dark.
 
 “Yours,” said the gaoler.
 
-“Why am I confined alone?”
+“Why am I confined [[Alone|alone]]?”
 
 “How do I know!”
 
@@ -11177,7 +11181,7 @@ embrasure of a [[motifs/window|window]], and she had a light shining upon her go
 hair, and she looked like * * * * Let us ride on again, for God’s sake,
 through the illuminated villages with the people all awake! * * * * He
 made shoes, he made shoes, he made shoes. * * * * Five paces by four and
-a half.” With such scraps tossing and rolling upward from the depths of
+a half.” With such scraps tossing and [[rolling]] upward from the depths of
 his mind, the prisoner walked faster and faster, obstinately counting
 and counting; and the roar of the [[motifs/city|city]] changed to this extent--that it
 still rolled in like muffled drums, but with the wail of voices that he
@@ -11194,8 +11198,8 @@ The Grindstone
 
 
 Tellson’s Bank, established in the Saint Germain Quarter of [[settings/paris|Paris]], was
-in a wing of a large house, approached by a courtyard and shut off from
-the street by a high wall and a strong gate. The house belonged to
+in a wing of a large [[house]], approached by a courtyard and shut off from
+the street by a high wall and a strong gate. The [[house]] belonged to
 a great nobleman who had lived in it until he made a flight from the
 troubles, in his own cook’s dress, and got across the borders. A
 mere beast of the chase flying from hunters, he was still in his
@@ -11207,15 +11211,15 @@ Monseigneur gone, and the three strong men absolving themselves from the
 sin of having drawn his high wages, by being more than ready and
 willing to cut his throat on the altar of the dawning Republic one and
 indivisible of Liberty, Equality, Fraternity, or [[motifs/death|Death]], Monseigneur’s
-house had been first sequestrated, and then confiscated. For, all
+[[house]] had been first sequestrated, and then confiscated. For, all
 things moved so fast, and decree followed decree with that fierce
 precipitation, that now upon the third [[motifs/night|night]] of the [[motifs/autumn|autumn]] month
 of September, patriot emissaries of the law were in possession of
-Monseigneur’s house, and had marked it with the tri-colour, and were
+Monseigneur’s [[house]], and had marked it with the tri-colour, and were
 drinking brandy in its state apartments.
 
 A place of business in [[settings/london|London]] like Tellson’s place of business in [[settings/paris|Paris]],
-would soon have driven the House out of its mind and into the Gazette.
+would soon have driven the [[house|House]] out of its mind and into the Gazette.
 For, what would staid British responsibility and respectability have
 said to orange-trees in boxes in a Bank courtyard, and even to a Cupid
 over the counter? Yet such things were. Tellson’s had whitewashed the
@@ -11241,7 +11245,7 @@ prematurely cold), and on his honest and courageous face there was a
 deeper shade than the pendent lamp could throw, or any object in the
 room distortedly reflect--a shade of horror.
 
-He occupied rooms in the Bank, in his fidelity to the House of which
+He occupied rooms in the Bank, in his fidelity to the [[house|House]] of which
 he had grown to be a part, like strong root-ivy. It chanced that they
 derived a kind of security from the patriotic occupation of the main
 building, but the true-hearted old gentleman never calculated about
@@ -11346,7 +11350,7 @@ I can say. There is no help for you in any action on your part to-[[motifs/night
 you cannot possibly stir out. I say this, because what I must bid you
 to do for Charles’s sake, is the hardest thing to do of all. You must
 instantly be obedient, still, and quiet. You must let me put you in a
-room at the back here. You must leave your father and me alone for
+room at the back here. You must leave your father and me [[Alone|alone]] for
 two minutes, and as there are Life and [[motifs/death|Death]] in the world you must not
 delay.”
 
@@ -11360,7 +11364,7 @@ looked out with him into the courtyard.
 
 Looked out upon a throng of men and women: not enough in number, or near
 enough, to fill the courtyard: not more than forty or fifty in all. The
-people in possession of the house had let them in at the gate, and they
+people in possession of the [[house]] had let them in at the gate, and they
 had rushed in to work at the grindstone; it had evidently been set up
 there for their purpose, as in a convenient and retired spot.
 
@@ -11450,7 +11454,7 @@ dainty cushions.
 
 The great grindstone, Earth, had turned when Mr. Lorry looked out again,
 and the sun was red on the courtyard. But, the lesser grindstone stood
-alone there in the calm morning air, with a red upon it that the sun had
+[[Alone|alone]] there in the calm morning air, with a red upon it that the sun had
 never given, and would never take away.
 
 
@@ -11481,7 +11485,7 @@ its dangerous workings.
 [[motifs/noon|Noon]] coming, and the Doctor not returning, and every minute’s delay
 tending to compromise Tellson’s, Mr. Lorry advised with Lucie. She said
 that her father had spoken of hiring a lodging for a short term, in that
-Quarter, near the Banking-house. As there was no business objection to
+Quarter, near the Banking-[[house]]. As there was no business objection to
 this, and as he foresaw that even if it were all [[motifs/well|well]] with Charles, and
 he were to be released, he could not [[concepts/hope|hope]] to leave the [[motifs/city|city]], Mr. Lorry
 went out in [[topoi/quest|quest]] of such a lodging, and found a suitable one, high up
@@ -11496,7 +11500,7 @@ A disturbed and doleful mind he brought to bear upon them, and slowly
 and heavily the day lagged on with him.
 
 It wore itself out, and wore him out with it, until the Bank closed. He
-was again alone in his room of the previous [[motifs/night|night]], considering what to
+was again [[Alone|alone]] in his room of the previous [[motifs/night|night]], considering what to
 do next, when he heard a foot upon the stair. In a few moments, a
 man stood in his presence, who, with a keenly observant look at him,
 addressed him by his name.
@@ -11555,7 +11559,7 @@ The Vengeance.
 
 They passed through the intervening streets as quickly as they might,
 ascended the staircase of the new domicile, were admitted by Jerry,
-and found Lucie weeping, alone. She was thrown into a transport by the
+and found Lucie weeping, [[Alone|alone]]. She was thrown into a transport by the
 tidings Mr. Lorry gave her of her husband, and clasped the hand that
 delivered his note--little thinking what it had been doing near him in
 the [[motifs/night|night]], and might, but for a chance, have done to him.
@@ -11742,7 +11746,7 @@ thrust a pike as he passed out. Being besought to go to him and dress
 the wound, the Doctor had passed out at the same gate, and had found him
 in the arms of a company of Samaritans, who were seated on the bodies
 of their victims. With an inconsistency as monstrous as anything in this
-awful nightmare, they had helped the healer, and tended the wounded man
+awful [[nightmare]], they had helped the healer, and tended the wounded man
 with the gentlest solicitude--had made a litter for him and escorted him
 carefully from the spot--had then caught up their weapons and plunged
 anew into a butchery so dreadful, that the Doctor had covered his eyes
@@ -11772,7 +11776,7 @@ in his place, as a physician, whose business was with all degrees
 of mankind, bond and free, rich and poor, bad and good, he used his
 personal influence so wisely, that he was soon the inspecting physician
 of three prisons, and among them of La Force. He could now assure Lucie
-that her husband was no longer confined alone, but was mixed with the
+that her husband was no longer confined [[Alone|alone]], but was mixed with the
 general [[concepts/body|body]] of prisoners; he saw her husband weekly, and brought sweet
 messages to her, straight from his lips; sometimes her husband himself
 sent a letter to her (though never by the Doctor’s hand), but she was
@@ -11818,8 +11822,8 @@ alluvial mud, under the bright sky of the South and under the clouds of
 the North, in fell and forest, in the vineyards and the olive-grounds
 and among the cropped grass and the stubble of the corn, along the
 fruitful banks of the broad rivers, and in the sand of the sea-shore.
-What private solicitude could rear itself against the deluge of the Year
-One of Liberty--the deluge rising from below, not falling from above,
+What private solicitude could rear itself against the [[deluge]] of the Year
+One of Liberty--the [[deluge]] rising from below, not falling from above,
 and with the windows of Heaven shut, not opened!
 
 There was no pause, no pity, no peace, no interval of relenting rest, no
@@ -11950,11 +11954,11 @@ if you could, it would be unsafe for you to make a sign of recognition.”
 From that [[motifs/time|time]], in all weathers, she waited there two hours. As the
 [[motifs/clock|clock]] struck two, she was there, and at four she turned resignedly away.
 When it was not too wet or inclement for her [[archetypes/child|child]] to be with her, they
-went together; at other times she was alone; but, she never missed a
+went together; at other times she was [[Alone|alone]]; but, she never missed a
 single day.
 
 It was the dark and dirty corner of a small winding street. The hovel
-of a cutter of wood into lengths for burning, was the only house at that
+of a cutter of wood into lengths for burning, was the only [[house]] at that
 end; all else was wall. On the third day of her being there, he noticed
 her.
 
@@ -12043,11 +12047,11 @@ Liberty, Equality, Fraternity, or [[motifs/death|Death]]!
 The miserable shop of the wood-sawyer was so small, that its whole
 surface furnished very indifferent space for this legend. He had got
 somebody to scrawl it up for him, however, who had squeezed [[motifs/death|Death]] in
-with most inappropriate difficulty. On his house-top, he displayed pike
+with most inappropriate difficulty. On his [[house]]-top, he displayed pike
 and cap, as a good citizen must, and in a [[motifs/window|window]] he had stationed his
 saw inscribed as his “Little Sainte Guillotine”--for the great sharp
 female was by that [[motifs/time|time]] popularly canonised. His shop was shut and he
-was not there, which was a relief to Lucie, and left her quite alone.
+was not there, which was a relief to Lucie, and left her quite [[Alone|alone]].
 
 But, he was not far off, for presently she heard a troubled movement
 and a shouting coming along, which filled her with [[concepts/fear|fear]]. A moment
@@ -12055,7 +12059,7 @@ afterwards, and a throng of people came pouring round the corner by the
 [[motifs/prison|prison]] wall, in the midst of whom was the wood-sawyer hand in hand with
 The Vengeance. There could not be fewer than five hundred people, and
 they were dancing like five thousand demons. There was no other music
-than their own singing. They danced to the popular Revolution song,
+than their own singing. They danced to the popular Revolution [[Song|song]],
 keeping a ferocious [[motifs/time|time]] that was like a gnashing of teeth in unison.
 Men and women danced together, women danced together, men danced
 together, as hazard had brought them together. At first, they were a
@@ -12063,7 +12067,7 @@ mere [[motifs/storm|storm]] of coarse red caps and coarse woollen rags; but, as 
 filled the place, and stopped to [[motifs/dance|dance]] about Lucie, some ghastly
 apparition of a [[motifs/dance|dance]]-figure gone raving mad arose among them. They
 advanced, retreated, struck at one another’s hands, clutched at one
-another’s heads, spun round alone, caught one another and spun round
+another’s heads, spun round [[Alone|alone]], caught one another and spun round
 in pairs, until many of them dropped. While those were down, the rest
 linked hand in hand, and all spun round together: then the ring broke,
 and in separate rings of two and four they turned and turned until they
@@ -12082,7 +12086,7 @@ delicate foot mincing in this slough of [[motifs/blood|blood]] and dirt, were ty
 the disjointed [[motifs/time|time]].
 
 This was the Carmagnole. As it passed, leaving Lucie frightened and
-bewildered in the doorway of the wood-sawyer’s house, the feathery [[motifs/snow|snow]]
+bewildered in the doorway of the wood-sawyer’s [[house]], the feathery [[motifs/snow|snow]]
 fell as quietly and lay as white and soft, as if it had never been.
 
 “O my father!” for he stood before her when she lifted up the eyes she
@@ -12195,7 +12199,7 @@ were engaged in the preparation of some games of forfeits and a little
 concert, for that evening. They crowded to the grates and shed [[motifs/tears|tears]]
 there; but, twenty places in the projected entertainments had to be
 refilled, and the [[motifs/time|time]] was, at best, short to the lock-up hour, when the
-common rooms and corridors would be delivered over to the great dogs
+common rooms and corridors would be delivered over to the great [[dogs]]
 who kept watch there through the [[motifs/night|night]]. The prisoners were far from
 insensible or unfeeling; their ways arose out of the condition of the
 [[motifs/time|time]]. Similarly, though with a subtle difference, a species of fervour
@@ -12339,8 +12343,8 @@ and the clearness of his answers, made a great impression; but, as he
 proceeded, as he showed that the Accused was his first friend on his
 release from his long [[concepts/imprisonment|imprisonment]]; that, the accused had remained in
 England, always faithful and devoted to his daughter and himself in
-their [[concepts/exile|exile]]; that, so far from being in favour with the Aristocrat
-government there, he had actually been tried for his life by it, as
+their [[concepts/exile|exile]]; that, so far from being in favour with the [[aristocrat|Aristocrat]]
+[[government]] there, he had actually been tried for his life by it, as
 the foe of England and friend of the United States--as he brought these
 circumstances into view, with the greatest discretion and with the
 straightforward force of [[concepts/truth|truth]] and earnestness, the Jury and the
@@ -12463,7 +12467,7 @@ many as blameless as her husband and as dear to others as he was to
 her, every day shared the fate from which he had been clutched, that her
 heart could not be as lightened of its load as she felt it ought to be.
 The shadows of the wintry afternoon were beginning to fall, and even now
-the dreadful carts were rolling through the streets. Her mind pursued
+the dreadful carts were [[rolling]] through the streets. Her mind pursued
 them, looking for him among the Condemned; and then she clung closer to
 his real presence and trembled more.
 
@@ -12486,7 +12490,7 @@ Mr. Lorry) had become their daily retainer, and had his bed there every
 
 It was an ordinance of the Republic One and Indivisible of Liberty,
 Equality, Fraternity, or [[motifs/death|Death]], that on the door or doorpost of every
-house, the name of every inmate must be legibly inscribed in letters
+[[house]], the name of every inmate must be legibly inscribed in letters
 of a certain size, at a certain convenient height from the ground. Mr.
 [[characters/jerry-cruncher|Jerry Cruncher]]’s name, therefore, duly embellished the doorpost down
 below; and, as the afternoon shadows deepened, the owner of that name
@@ -12582,7 +12586,7 @@ you move, Ladybird!”
 
 They went out, leaving Lucie, and her husband, her father, and the
 [[archetypes/child|child]], by a bright [[motifs/fire|fire]]. Mr. Lorry was expected back presently from the
-Banking House. [[characters/miss-pross|Miss Pross]] had lighted the lamp, but had put it aside in
+Banking [[house|House]]. [[characters/miss-pross|Miss Pross]] had lighted the lamp, but had put it aside in
 a corner, that they might enjoy the [[motifs/fire|fire]]-light undisturbed. Little Lucie
 sat by her grandfather with her hands clasped through his arm: and he,
 in a tone not rising much above a whisper, began to tell her a story of
@@ -12721,7 +12725,7 @@ bare-armed, soot-begrimed workman reading a journal aloud, and of
 the others listening to him; of the weapons worn, or laid aside to be
 resumed; of the two or three customers fallen forward asleep, who in the
 popular high-shouldered shaggy black spencer looked, in that attitude,
-like slumbering bears or dogs; the two outlandish customers approached
+like slumbering bears or [[dogs]]; the two outlandish customers approached
 the counter, and showed what they wanted.
 
 As their wine was measuring out, a man parted from another man in a
@@ -13026,10 +13030,10 @@ so much the more valuable here for being English that an Englishman
 is less open to suspicion of subornation in those characters than a
 Frenchman, represents himself to his employers under a false name.
 That’s a very good card. Mr. Barsad, now in the employ of the republican
-French government, was formerly in the employ of the aristocratic
-English government, the enemy of France and [[concepts/freedom|freedom]]. That’s an excellent
+French [[government]], was formerly in the employ of the aristocratic
+English [[government]], the enemy of France and [[concepts/freedom|freedom]]. That’s an excellent
 card. Inference clear as day in this region of suspicion, that Mr.
-Barsad, still in the pay of the aristocratic English government, is the
+Barsad, still in the pay of the aristocratic English [[government]], is the
 spy of Pitt, the treacherous foe of the Republic crouching in its bosom,
 the English traitor and agent of all mischief so much spoken of and so
 difficult to find. That’s a card not to be beaten. Have you followed my
@@ -13056,7 +13060,7 @@ vaunting our superiority to secrecy and spies are of very modern
 date--he knew that he had crossed the Channel, and accepted service in
 France: first, as a tempter and an eavesdropper among his own countrymen
 there: gradually, as a tempter and an eavesdropper among the natives. He
-knew that under the overthrown government he had been a spy upon Saint
+knew that under the overthrown [[government]] he had been a spy upon Saint
 Antoine and Defarge’s wine-shop; had received from the watchful police
 such heads of information concerning [[characters/doctor-manette|Doctor Manette]]’s [[concepts/imprisonment|imprisonment]],
 release, and [[concepts/history|history]], as should serve him for an introduction to
@@ -13168,7 +13172,7 @@ it in your hand; it’s no forgery.”
 Here, Mr. Lorry perceived the reflection on the wall to elongate, and
 Mr. Cruncher [[motifs/rose|rose]] and stepped forward. His hair could not have been more
 violently on end, if it had been that moment dressed by the Cow with the
-crumpled horn in the house that Jack built.
+crumpled horn in the [[house]] that Jack built.
 
 Unseen by the spy, Mr. Cruncher stood at his side, and touched him on
 the shoulder like a ghostly bailiff.
@@ -13261,7 +13265,7 @@ said, rising:
 
 “So far, we have spoken before these two, because it was as [[motifs/well|well]] that
 the merits of the cards should not rest solely between you and me. Come
-into the dark room here, and let us have one final word alone.”
+into the dark room here, and let us have one final word [[Alone|alone]].”
 
 
 
@@ -13366,7 +13370,7 @@ returned from the dark room. “Adieu, Mr. Barsad,” said the former; “our
 arrangement thus made, you have nothing to [[concepts/fear|fear]] from me.”
 
 He sat down in a chair on the hearth, over against Mr. Lorry. When they
-were alone, Mr. Lorry asked him what he had done?
+were [[Alone|alone]], Mr. Lorry asked him what he had done?
 
 “Not much. If it should go ill with the prisoner, I have ensured access
 to him, once.”
@@ -13634,7 +13638,7 @@ on high above him. “I am the [[concepts/resurrection|resurrection]] and the li
 he that believeth in me, though he were dead, yet shall he live: and
 whosoever liveth and believeth in me, shall never die.”
 
-In a [[motifs/city|city]] dominated by the axe, alone at [[motifs/night|night]], with natural sorrow
+In a [[motifs/city|city]] dominated by the axe, [[Alone|alone]] at [[motifs/night|night]], with natural sorrow
 rising in him for the sixty-three who had been that day put to [[motifs/death|death]],
 and for to-morrow’s victims then awaiting their doom in the prisons,
 and still of to-morrow’s and to-morrow’s, the chain of association that
@@ -13735,7 +13739,7 @@ after. Eager and prominent among them, one man with a craving face, and
 his fingers perpetually hovering about his lips, whose appearance
 gave great satisfaction to the spectators. A life-thirsting,
 cannibal-looking, bloody-minded juryman, the Jacques Three of St.
-Antoine. The whole jury, as a jury of dogs empannelled to try the deer.
+Antoine. The whole jury, as a jury of [[dogs]] empannelled to try the deer.
 
 Every eye then turned to the five judges and the public prosecutor.
 No favourable leaning in that quarter to-day. A fell, uncompromising,
@@ -13745,7 +13749,7 @@ another, before bending forward with a strained attention.
 
 Charles Evrémonde, called Darnay. Released yesterday. Reaccused and
 retaken yesterday. Indictment delivered to him last [[motifs/night|night]]. Suspected and
-Denounced enemy of the Republic, Aristocrat, one of a family of tyrants,
+Denounced enemy of the Republic, [[aristocrat|Aristocrat]], one of a family of tyrants,
 one of a race proscribed, for that they had used their abolished
 privileges to the infamous oppression of the people. Charles Evrémonde,
 called Darnay, in right of such proscription, absolutely Dead in Law.
@@ -13936,14 +13940,14 @@ paper in its hiding-place.
 emerged upon the country [[motifs/road|road]]. At two-thirds of a league from the
 Barrier--I did not estimate the distance at that [[motifs/time|time]], but afterwards
 when I traversed it--it struck out of the main avenue, and presently
-stopped at a solitary house, We all three alighted, and walked, by
+stopped at a solitary [[house]], We all three alighted, and walked, by
 a damp soft footpath in a [[motifs/garden|garden]] where a neglected fountain had
-overflowed, to the door of the house. It was not opened immediately, in
+overflowed, to the door of the [[house]]. It was not opened immediately, in
 answer to the ringing of the bell, and one of my two conductors struck
 the man who opened it, with his heavy riding glove, across the face.
 
 “There was nothing in this action to attract my particular attention,
-for I had seen common people struck more commonly than dogs. But, the
+for I had seen common people struck more commonly than [[dogs]]. But, the
 other of the two, being angry likewise, struck the man in like manner
 with his arm; the look and bearing of the brothers were then so exactly
 alike, that I then first perceived them to be twin brothers.
@@ -14029,7 +14033,7 @@ efforts, the dose that I desired to give. As I intended to repeat it
 after a while, and as it was necessary to watch its influence, I then
 sat down by the side of the bed. There was a timid and suppressed woman
 in attendance (wife of the man down-stairs), who had retreated into
-a corner. The house was damp and decayed, indifferently
+a corner. The [[house]] was damp and decayed, indifferently
 furnished--evidently, recently occupied and temporarily used. Some thick
 old hangings had been nailed up before the windows, to deaden the
 sound of the shrieks. They continued to be uttered in their regular
@@ -14076,7 +14080,7 @@ that he was dying of a wound from a sharp point.
 “‘I do not want it examined,’ he answered; ‘let it be.’
 
 “It was under his hand, and I soothed him to let me move his hand away.
-The wound was a sword-thrust, received from twenty to twenty-four hours
+The wound was a [[Sword|sword]]-thrust, received from twenty to twenty-four hours
 before, but no skill could have saved him if it had been looked to
 without delay. He was then dying fast. As I turned my eyes to the elder
 brother, I saw him looking down at this handsome boy whose life was
@@ -14086,7 +14090,7 @@ as if he were a fellow-creature.
 “‘How has this been done, monsieur?’ said I.
 
 “‘A crazed young common dog! A serf! Forced my brother to draw upon him,
-and has fallen by my brother’s sword--like a gentleman.’
+and has fallen by my brother’s [[Sword|sword]]--like a gentleman.’
 
 “There was no touch of pity, sorrow, or kindred humanity, in this
 answer. The speaker seemed to acknowledge that it was inconvenient to
@@ -14098,7 +14102,7 @@ the boy, or about his fate.
 “The boy’s eyes had slowly moved to him as he had spoken, and they now
 slowly moved to me.
 
-“‘Doctor, they are very proud, these Nobles; but we common dogs are
+“‘Doctor, they are very proud, these Nobles; but we common [[dogs]] are
 proud too, sometimes. They plunder us, outrage us, beat us, kill us; but
 we have a little [[concepts/pride|pride]] left, sometimes. She--have you seen her, Doctor?’
 
@@ -14123,7 +14127,7 @@ The other is his brother, the worst of a bad race.’
 “It was with the greatest difficulty that the boy gathered bodily force
 to speak; but, his spirit spoke with a dreadful emphasis.
 
-“‘We were so robbed by that man who stands there, as all we common dogs
+“‘We were so robbed by that man who stands there, as all we common [[dogs]]
 are by those superior Beings--taxed by him without [[concepts/mercy|mercy]], obliged to
 work for him without pay, obliged to grind our corn at his mill, obliged
 to feed scores of his tame [[motifs/birds|birds]] on our wretched crops, and forbidden
@@ -14158,7 +14162,7 @@ Bastille; the gentleman’s, all negligent indifference; the peasant’s, all
 trodden-down sentiment, and passionate [[concepts/revenge|revenge]].
 
 “‘You know, Doctor, that it is among the Rights of these Nobles to
-harness us common dogs to carts, and drive us. They so harnessed him and
+harness us common [[dogs]] to carts, and drive us. They so harnessed him and
 drove him. You know that it is among their Rights to keep us in their
 grounds all [[motifs/night|night]], quieting the frogs, in order that their noble [[motifs/sleep|sleep]]
 may not be disturbed. They kept him out in the unwholesome mists at
@@ -14181,7 +14185,7 @@ tidings [[motifs/home|home]], our father’s heart burst; he never spoke one of 
 that filled it. I took my young sister (for I have another) to a place
 beyond the reach of this man, and where, at least, she will never be
 _his_ vassal. Then, I tracked the brother here, and last [[motifs/night|night]] climbed
-in--a common dog, but sword in hand.--Where is the loft [[motifs/window|window]]? It was
+in--a common dog, but [[Sword|sword]] in hand.--Where is the loft [[motifs/window|window]]? It was
 somewhere here?’
 
 “The room was darkening to his sight; the world was narrowing around
@@ -14191,13 +14195,13 @@ over the floor, as if there had been a struggle.
 “‘She heard me, and ran in. I told her not to come near us till he was
 dead. He came in and first tossed me some pieces of money; then struck
 at me with a whip. But I, though a common dog, so struck at him as to
-make him draw. Let him break into as many pieces as he will, the sword
+make him draw. Let him break into as many pieces as he will, the [[Sword|sword]]
 that he stained with my common [[motifs/blood|blood]]; he drew to defend himself--thrust
 at me with all his skill for his life.’
 
 “My glance had fallen, but a few moments before, on the fragments of
-a broken sword, lying among the hay. That weapon was a gentleman’s. In
-another place, lay an old sword that seemed to have been a soldier’s.
+a broken [[Sword|sword]], lying among the hay. That weapon was a gentleman’s. In
+another place, lay an old [[Sword|sword]] that seemed to have been a soldier’s.
 
 “‘Now, lift me up, Doctor; lift me up. Where is he?’
 
@@ -14323,12 +14327,12 @@ me than the elder; but I saw this. I also saw that I was an incumbrance
 in the mind of the elder, too.
 
 “My patient died, two hours before midnight--at a [[motifs/time|time]], by my watch,
-answering almost to the minute when I had first seen her. I was alone
+answering almost to the minute when I had first seen her. I was [[Alone|alone]]
 with her, when her forlorn young head drooped gently on one side, and
 all her earthly wrongs and sorrows ended.
 
 “The brothers were waiting in a room down-stairs, impatient to ride
-away. I had heard them, alone at the bedside, striking their boots with
+away. I had heard them, [[Alone|alone]] at the bedside, striking their boots with
 their riding-whips, and loitering up and down.
 
 “‘At last she is dead?’ said the elder, when I went in.
@@ -14396,7 +14400,7 @@ in part discovered, the main facts of the cruel story, of her husband’s
 share in it, and my being resorted to. She did not know that the girl
 was dead. Her [[concepts/hope|hope]] had been, she said in great distress, to show her,
 in secret, a woman’s sympathy. Her [[concepts/hope|hope]] had been to avert the wrath of
-Heaven from a House that had long been hateful to the [[concepts/suffering|suffering]] many.
+Heaven from a [[house|House]] that had long been hateful to the [[concepts/suffering|suffering]] many.
 
 “She had reasons for believing that there was a young sister living, and
 her greatest [[motifs/desire|desire]] was, to help that sister. I could tell her nothing
@@ -14445,7 +14449,7 @@ the gate, standing silent behind him.
 he had a coach in waiting.
 
 “It brought me here, it brought me to my [[motifs/grave|grave]]. When I was clear of the
-house, a black muffler was drawn tightly over my mouth from behind, and
+[[house]], a black muffler was drawn tightly over my mouth from behind, and
 my arms were pinioned. The two brothers crossed the [[motifs/road|road]] from a dark
 corner, and identified me with a single gesture. The Marquis took from
 his pocket the letter I had written, showed it me, burnt it in the light
@@ -14495,7 +14499,7 @@ smiling to The Vengeance. “Save him now, my Doctor, save him!”
 At every juryman’s vote, there was a roar. Another and another. Roar and
 roar.
 
-Unanimously voted. At heart and by descent an Aristocrat, an enemy
+Unanimously voted. At heart and by descent an [[aristocrat|Aristocrat]], an enemy
 of the Republic, a notorious oppressor of the People. Back to the
 Conciergerie, and [[motifs/death|Death]] within four-and-twenty hours!
 
@@ -14693,7 +14697,7 @@ Darkness
 
 
 [[characters/sydney-carton|Sydney Carton]] paused in the street, not quite decided where to go. “At
-Tellson’s banking-house at nine,” he said, with a musing face. “Shall I
+Tellson’s banking-[[house]] at nine,” he said, with a musing face. “Shall I
 do [[motifs/well|well]], in the mean [[motifs/time|time]], to show myself? I think so. It is best that
 these people should know there is such a man as I here; it is a sound
 precaution, and may be a necessary preparation. But care, care, care!
@@ -14708,7 +14712,7 @@ towards Saint Antoine.
 
 Defarge had described himself, that day, as the keeper of a wine-shop in
 the Saint Antoine suburb. It was not difficult for one who knew the [[motifs/city|city]]
-[[motifs/well|well]], to find his house without asking any question. Having ascertained
+[[motifs/well|well]], to find his [[house]] without asking any question. Having ascertained
 its situation, Carton came out of those closer streets again, and dined
 at a place of refreshment and fell sound asleep after dinner. For the
 first [[motifs/time|time]] in many years, he had no strong drink. Since last [[motifs/night|night]] he
@@ -14843,7 +14847,7 @@ hands as I smite it now, and I tell him, ‘Defarge, I was brought up
 among the fishermen of the sea-shore, and that peasant family so injured
 by the two Evrémonde brothers, as that Bastille paper describes, is my
 family. Defarge, that sister of the mortally wounded boy upon the ground
-was my sister, that husband was my sister’s husband, that unborn [[archetypes/child|child]]
+was my sister, that husband was my sister’s husband, that [[unborn]] [[archetypes/child|child]]
 was their [[archetypes/child|child]], that brother was my brother, that father was my father,
 those dead are my dead, and that summons to answer for those things
 descends to me!’ Ask him, is that so.”
@@ -14874,14 +14878,14 @@ himself in Mr. Lorry’s room again, where he found the old gentleman
 walking to and fro in restless anxiety. He said he had been with Lucie
 until just now, and had only left her for a few minutes, to come and
 keep his appointment. Her father had not been seen, since he quitted the
-banking-house towards four o’[[motifs/clock|clock]]. She had some faint hopes that his
+banking-[[house]] towards four o’[[motifs/clock|clock]]. She had some faint hopes that his
 mediation might save Charles, but they were very slight. He had been
 more than five hours gone: where could he be?
 
 Mr. Lorry waited until ten; but, [[characters/doctor-manette|Doctor Manette]] not returning, and
 he being unwilling to leave Lucie any longer, it was arranged that he
-should go back to her, and come to the banking-house again at midnight.
-In the meanwhile, Carton would wait alone by the [[motifs/fire|fire]] for the Doctor.
+should go back to her, and come to the banking-[[house]] again at midnight.
+In the meanwhile, Carton would wait [[Alone|alone]] by the [[motifs/fire|fire]] for the Doctor.
 
 He waited and waited, and the [[motifs/clock|clock]] struck twelve; but [[characters/doctor-manette|Doctor Manette]]
 did not come back. Mr. Lorry returned, and found no tidings of him, and
@@ -14924,7 +14928,7 @@ that--as if by agreement--they each put a hand upon his shoulder, and
 soothed him to sit down before the [[motifs/fire|fire]], with a promise that he should
 have his work presently. He sank into the chair, and brooded over the
 embers, and shed [[motifs/tears|tears]]. As if all that had happened since the garret
-[[motifs/time|time]] were a momentary fancy, or a dream, Mr. Lorry saw him shrink into
+[[motifs/time|time]] were a momentary fancy, or [[A Dream|a dream]], Mr. Lorry saw him shrink into
 the exact figure that Defarge had had in keeping.
 
 Affected, and impressed with terror as they both were, by this spectacle
@@ -15073,10 +15077,10 @@ helped him so far to arouse the rocking figure before the dying embers,
 as to get a cloak and hat put upon it, and to tempt it forth to find
 where the bench and work were hidden that it still moaningly besought
 to have. He walked on the other side of it and protected it to the
-courtyard of the house where the afflicted heart--so happy in
+courtyard of the [[house]] where the afflicted heart--so happy in
 the memorable [[motifs/time|time]] when he had revealed his own desolate heart to
 it--outwatched the awful [[motifs/night|night]]. He entered the courtyard and remained
-there for a few moments alone, looking up at the light in the [[motifs/window|window]] of
+there for a few moments [[Alone|alone]], looking up at the light in the [[motifs/window|window]] of
 her room. Before he went away, he breathed a blessing towards it, and a
 Farewell.
 
@@ -15106,7 +15110,7 @@ and the frightful moral disorder, born of unspeakable [[concepts/suffering|suffe
 intolerable oppression, and heartless indifference, smote equally
 without distinction.
 
-[[characters/charles-darnay|Charles Darnay]], alone in a cell, had sustained himself with no
+[[characters/charles-darnay|Charles Darnay]], [[Alone|alone]] in a cell, had sustained himself with no
 flattering delusion since he came to it from the Tribunal. In every line
 of the narrative he had heard, he had heard his condemnation. He had
 fully comprehended that no personal influence could possibly save him,
@@ -15177,9 +15181,9 @@ He had [[motifs/time|time]] to finish these letters before the lights were put o
 he lay down on his straw bed, he thought he had done with this world.
 
 But, it beckoned him back in his [[motifs/sleep|sleep]], and showed itself in shining
-forms. Free and happy, back in the old house in Soho (though it had
-nothing in it like the real house), unaccountably released and light of
-heart, he was with Lucie again, and she told him it was all a dream, and
+forms. Free and happy, back in the old [[house]] in Soho (though it had
+nothing in it like the real [[house]]), unaccountably released and light of
+heart, he was with Lucie again, and she told him it was all [[A Dream|a dream]], and
 he had never gone away. A pause of forgetfulness, and then he had even
 suffered, and had come back to her, dead and at peace, and yet there
 was no difference in him. Another pause of oblivion, and he awoke in the
@@ -15237,7 +15241,7 @@ Footsteps in the stone passage outside the door. He stopped.
 
 The key was put in the lock, and turned. Before the door was opened, or
 as it opened, a man said in a low voice, in English: “He has never seen
-me here; I have kept out of his way. Go you in alone; I wait near. Lose
+me here; I have kept out of his way. Go you in [[Alone|alone]]; I wait near. Lose
 no [[motifs/time|time]]!”
 
 The door was quickly opened and closed, and there stood before him
@@ -15437,7 +15441,7 @@ afflicted to find that his friend has drawn a prize in the lottery of
 Sainte Guillotine?”
 
 “A good patriot,” said the other, “could hardly have been more afflicted
-if the Aristocrat had drawn a blank.”
+if the [[aristocrat|Aristocrat]] had drawn a blank.”
 
 They raised the unconscious figure, placed it on a litter they had
 brought to the door, and bent to carry it away.
@@ -15449,7 +15453,7 @@ you, and leave me.”
 
 “Come, then, my children,” said Barsad. “Lift him, and come away!”
 
-The door closed, and Carton was left alone. Straining his powers of
+The door closed, and Carton was left [[Alone|alone]]. Straining his powers of
 listening to the utmost, he listened for any sound that might denote
 suspicion or alarm. There was none. Keys turned, doors clashed,
 footsteps passed along distant passages: no cry was raised, or hurry
@@ -15579,7 +15583,7 @@ carriage and leisurely mount the box, to look at what little luggage it
 carries on the roof; the country-people hanging about, press nearer to
 the coach doors and greedily stare in; a little [[archetypes/child|child]], carried by its
 mother, has its short arm held out for it, that it may touch the wife of
-an aristocrat who has gone to the Guillotine.
+an [[aristocrat]] who has gone to the Guillotine.
 
 “Behold your papers, [[characters/jarvis-lorry|Jarvis Lorry]], countersigned.”
 
@@ -15617,7 +15621,7 @@ farms, dye-works, tanneries, and the like, cottages in twos and threes,
 avenues of leafless trees. Have these men deceived us, and taken us back
 by another [[motifs/road|road]]? Is not this the same place twice over? Thank Heaven,
 no. A village. Look back, look back, and see if we are pursued! Hush!
-the posting-house.
+the posting-[[house]].
 
 Leisurely, our four horses are taken out; leisurely, the coach stands in
 the little street, bereft of horses, and with no likelihood upon it
@@ -15734,7 +15738,7 @@ two to four, always signalling, sometimes with the little one, sometimes
 without. I know what I know. I have seen with my eyes.”
 
 He made all manner of gestures while he spoke, as if in incidental
-imitation of some few of the great diversity of signals that he had
+[[Imitation|imitation]] of some few of the great diversity of signals that he had
 never seen.
 
 “Clearly plots,” said Jacques Three. “Transparently!”
@@ -15974,7 +15978,7 @@ towers?”
 
 “No, miss,” answered Mr. Cruncher.
 
-“Then, like the best of men,” said [[characters/miss-pross|Miss Pross]], “go to the posting-house
+“Then, like the best of men,” said [[characters/miss-pross|Miss Pross]], “go to the posting-[[house]]
 straight, and make that change.”
 
 “I am doubtful,” said Mr. Cruncher, hesitating and shaking his head,
@@ -16120,7 +16124,7 @@ that, you shall not leave here while I can hold you.”
 I will tear you to pieces, but I will have you from that door,” said
 [[characters/madame-defarge|Madame Defarge]].
 
-“We are alone at the top of a high house in a solitary courtyard, we are
+“We are [[Alone|alone]] at the top of a high [[house]] in a solitary courtyard, we are
 not likely to be heard, and I pray for bodily strength to keep you here,
 while every minute you are here is worth a hundred thousand guineas to
 my darling,” said [[characters/miss-pross|Miss Pross]].
@@ -16141,7 +16145,7 @@ you till one or other of us faints or dies!”
 
 [[characters/madame-defarge|Madame Defarge]]’s hands were at her bosom. [[characters/miss-pross|Miss Pross]] looked up, saw
 what it was, struck at it, struck out a flash and a crash, and stood
-alone--blinded with smoke.
+[[Alone|alone]]--blinded with smoke.
 
 All this was in a second. As the smoke cleared, leaving an awful
 stillness, it passed out on the air, like the [[motifs/soul|soul]] of the furious woman
@@ -16244,7 +16248,7 @@ Six tumbrils roll along the streets. Change these back again to what
 they were, thou powerful enchanter, [[motifs/time|Time]], and they shall be seen to be
 the carriages of absolute monarchs, the equipages of feudal nobles, the
 toilettes of flaring Jezebels, the churches that are not my father’s
-house but dens of thieves, the huts of millions of starving peasants!
+[[house]] but dens of thieves, the huts of millions of starving peasants!
 No; the great magician who majestically works out the appointed order
 of the Creator, never reverses his transformations. “If thou be changed
 into this shape by the will of God,” say the seers to the enchanted, in
@@ -16380,7 +16384,7 @@ it go, if they are rapid.”
 “They will be rapid. [[concepts/fear|Fear]] not!”
 
 The two stand in the fast-thinning throng of victims, but they speak as
-if they were alone. Eye to eye, voice to voice, hand to hand, heart to
+if they were [[Alone|alone]]. Eye to eye, voice to voice, hand to hand, heart to
 heart, these two children of the Universal Mother, else so wide apart
 and differing, have come together on the dark highway, to repair [[motifs/home|home]]
 together, and to rest in her bosom.
@@ -16392,7 +16396,7 @@ am very ignorant, and it troubles me--just a little.”
 
 “I have a cousin, an only relative and an [[archetypes/orphan|orphan]], like myself, whom I
 [[motifs/love|love]] very dearly. She is five years younger than I, and she lives in a
-farmer’s house in the south country. [[concepts/poverty|Poverty]] parted us, and she knows
+farmer’s [[house]] in the south country. [[concepts/poverty|Poverty]] parted us, and she knows
 nothing of my fate--for I cannot write--and if I could, how should I
 tell her! It is better as it is.”
 

@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume" data-author="Coleridge" data-workhref="works/grief-and-loss-·-elegy-·-clothing-and-costume-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="012_monody_on_the_death_of_chatterton" data-title="MONODY ON THE DEATH OF CHATTERTON" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/death,concept/grief_and_loss,concept/the_artist_and_society,concept/poverty,concept/social_injustice,concept/melancholy,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="012_monody_on_the_death_of_chatterton" data-title="MONODY ON THE DEATH OF CHATTERTON" data-chapter="" data-kind="intro"></span>
 
 
 FIRST VERSION, IN [[characters/christ|CHRIST]]’S HOSPITAL BOOK — 1790  
@@ -43,7 +43,7 @@ And starts not in his eye th’ indignant Tear?
 Elate of Heart and confident of Fame,  
 From vales where Avon sports, the Minstrel came,   25  
 Gay as the Poet hastes along  
-He meditates the future song,  
+He meditates the future [[Song|song]],  
 How Ælla battled with his country’s foes,  
 And whilst Fancy in the air  
 Paints him many a vision fair   30  
@@ -80,7 +80,7 @@ Thy fixéd eyes she bade thee roll   60
 On scenes that [[motifs/well|well]] might melt thy [[motifs/soul|soul]] —  
 Thy native cot she held to view,  
 Thy native cot, where Peace ere long  
-Had listen’d to thy evening song;  
+Had listen’d to thy evening [[Song|song]];  
 Thy sister’s shrieks she bade thee hear,   65  
 And mark thy mother’s thrilling tear,  
 She made thee feel her deep-drawn sigh,  
@@ -112,7 +112,7 @@ And soar beyond the storms with upright eye elate!   90
 
 
 
-<span class="atom-split" data-atom="016_pain" data-title="PAIN" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/music_and_song,concept/melancholy,concept/mortality,concept/transience,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="016_pain" data-title="PAIN" data-chapter="" data-kind="intro"></span>
 
 
 Once could the Morn’s first beams, the healthful breeze,  
@@ -134,7 +134,7 @@ Ere the wild pulse throbb’d anguish thro’ the [[motifs/night|night]]!
 
 
 
-<span class="atom-split" data-atom="020_on_receiving_an_account_that_his_only_sisters_death_was_inevitable" data-title="ON RECEIVING AN ACCOUNT THAT HIS ONLY SISTER’S DEATH WAS INEVITABLE" data-chapter="" data-kind="intro" data-tags="motif/death,concept/grief_and_loss,concept/mortality,concept/alienation,concept/melancholy,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="020_on_receiving_an_account_that_his_only_sisters_death_was_inevitable" data-title="ON RECEIVING AN ACCOUNT THAT HIS ONLY SISTER’S DEATH WAS INEVITABLE" data-chapter="" data-kind="intro"></span>
 
 
 The tear which mourn’d a brother’s fate scarce dry —  
@@ -156,7 +156,7 @@ Better to die, than live and not be lov’d!
 
 
 
-<span class="atom-split" data-atom="021_on_seeing_a_youth_affectionately_welcomed_by_a_sister" data-title="ON SEEING A YOUTH AFFECTIONATELY WELCOMED BY A SISTER" data-chapter="" data-kind="intro" data-tags="motif/death,motif/memory,motif/the_grave,concept/grief_and_loss,concept/melancholy,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="021_on_seeing_a_youth_affectionately_welcomed_by_a_sister" data-title="ON SEEING A YOUTH AFFECTIONATELY WELCOMED BY A SISTER" data-chapter="" data-kind="intro"></span>
 
 
 I too a sister had! too cruel [[motifs/death|Death]]!  
@@ -178,7 +178,7 @@ For Life was misery, and the [[motifs/grave|Grave]] is Peace!
 
 
 
-<span class="atom-split" data-atom="045_the_gentle_look" data-title="THE GENTLE LOOK" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/flowers,concept/grief_and_loss,concept/melancholy,concept/nostalgia,concept/hope,concept/transience,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="045_the_gentle_look" data-title="THE GENTLE LOOK" data-chapter="" data-kind="intro"></span>
 
 
 Thou gentle Look, that didst my [[motifs/soul|soul]] beguile,  
@@ -200,7 +200,7 @@ Like the bright Rainbow on a willowy stream.
 
 
 
-<span class="atom-split" data-atom="059_the_death_of_the_starling" data-title="THE DEATH OF THE STARLING" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/death,concept/grief_and_loss,form/elegy,histref/ancient_rome,histref/greek_mythology,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="059_the_death_of_the_starling" data-title="THE DEATH OF THE STARLING" data-chapter="" data-kind="intro"></span>
 
 
 Lugete, O Veneres, Cupidinesque. — CATULLUS.  
@@ -219,7 +219,7 @@ Softly stroke the stiffen’d wing.   10
 
 
 
-<span class="atom-split" data-atom="070_elegy_imitated_from_one_of_akensides_blank-verse_inscriptions" data-title="ELEGY IMITATED FROM ONE OF AKENSIDE’S BLANK-VERSE INSCRIPTIONS" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/death,concept/unrequited_love,concept/guilt,concept/conscience,concept/grief_and_loss,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="070_elegy_imitated_from_one_of_akensides_blank-verse_inscriptions" data-title="ELEGY IMITATED FROM ONE OF AKENSIDE’S BLANK-VERSE INSCRIPTIONS" data-chapter="" data-kind="intro"></span>
 
 
 Near the lone pile with ivy overspread,  
@@ -251,7 +251,7 @@ That Riches cannot pay for [[motifs/love|Love]] or [[concepts/truth|Truth]].
 
 
 
-<span class="atom-split" data-atom="072_the_outcast" data-title="THE OUTCAST" data-chapter="" data-kind="intro" data-tags="archetype/fallen_woman,archetype/outcast_wanderer,concept/social_injustice,concept/mercy,concept/alienation,concept/poverty,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="072_the_outcast" data-title="THE OUTCAST" data-chapter="" data-kind="intro"></span>
 
 
 Pale Roamer through the [[motifs/night|night]]! thou poor Forlorn!  
@@ -261,7 +261,7 @@ Betrayed, then cast thee forth to Want and Scorn!
 The world is pitiless: the chaste one’s [[concepts/pride|pride]]   5  
 Mimic of Virtue scowls on thy distress:  
 Thy Loves and they that envied thee deride:  
-And Vice alone will shelter Wretchedness!  
+And Vice [[Alone|alone]] will shelter Wretchedness!  
 O! I could weep to think that there should be  
 Cold-bosom’d lewd ones, who endure to place   10  
 Foul offerings on the shrine of Misery,  
@@ -273,7 +273,7 @@ He, the great Comforter that rules above!
 
 
 
-<span class="atom-split" data-atom="078_lines_on_a_friend_who_died_of_a_frenzy_fever_induced_by_calumnious_reports" data-title="LINES ON A FRIEND WHO DIED OF A FRENZY FEVER INDUCED BY CALUMNIOUS REPORTS" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/madness,motif/death,concept/grief_and_loss,concept/friendship,concept/madness,concept/social_injustice,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="078_lines_on_a_friend_who_died_of_a_frenzy_fever_induced_by_calumnious_reports" data-title="LINES ON A FRIEND WHO DIED OF A FRENZY FEVER INDUCED BY CALUMNIOUS REPORTS" data-chapter="" data-kind="intro"></span>
 
 
 [[characters/edmund|Edmund]]! thy [[motifs/grave|grave]] with aching eye I scan,  
@@ -331,7 +331,7 @@ And fain would [[motifs/sleep|sleep]], though pillowed on a clod!   50
 
 
 
-<span class="atom-split" data-atom="084_priestley" data-title="PRIESTLEY" data-chapter="" data-kind="intro" data-tags="archetype/prophet,concept/liberty,concept/reform,concept/justice,concept/exile,concept/faith,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="084_priestley" data-title="PRIESTLEY" data-chapter="" data-kind="intro"></span>
 
 
 Though rous’d by that dark Vizir Riot rude  
@@ -353,7 +353,7 @@ December 11, 1794.
 
 
 
-<span class="atom-split" data-atom="088_to_the_rev_w_l_bowles" data-title="TO THE REV. W. L. BOWLES" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/the_artist_and_society,concept/imagination,concept/melancholy,concept/friendship,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="088_to_the_rev_w_l_bowles" data-title="TO THE REV. W. L. BOWLES" data-chapter="" data-kind="intro"></span>
 
 
 FIRST VERSION, PRINTED IN ‘MORNING CHRONICLE’, DECEMBER 26, 1794  
@@ -376,7 +376,7 @@ VIII
 
 
 
-<span class="atom-split" data-atom="121_sonnet" data-title="SONNET" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,concept/grief_and_loss,concept/friendship,concept/faith,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="121_sonnet" data-title="SONNET" data-chapter="" data-kind="intro"></span>
 
 
 [TO CHARLES LLOYD]  
@@ -399,7 +399,7 @@ Mourns with no transient [[motifs/love|love]] the Agéd Friend.
 
 
 
-<span class="atom-split" data-atom="131_to_the_rev_george_coleridge_of_ottery_st_mary_devon" data-title="TO THE REV. GEORGE COLERIDGE OF OTTERY ST. MARY, DEVON" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,concept/friendship,concept/alienation,concept/exile,concept/providence,form/blank_verse,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="131_to_the_rev_george_coleridge_of_ottery_st_mary_devon" data-title="TO THE REV. GEORGE COLERIDGE OF OTTERY ST. MARY, DEVON" data-chapter="" data-kind="intro"></span>
 
 
 With some [[works/poems-(chesterton)|Poems]]  
@@ -453,7 +453,7 @@ Thee, who didst watch my boyhood and my youth;
 Didst trace my wanderings with a father’s eye;   45  
 And boding evil yet still hoping good,  
 Rebuk’d each fault, and over all my woes  
-Sorrow’d in [[motifs/silence|silence]]! He who counts alone  
+Sorrow’d in [[motifs/silence|silence]]! He who counts [[Alone|alone]]  
 The beatings of the solitary heart,  
 That Being knows, how I have lov’d thee ever,   50  
 Lov’d as a brother, as a son rever’d thee!  
@@ -469,7 +469,7 @@ Stirr’d by the faint gale of departing May,   60
 Send their loose blossoms slanting o’er our heads!  
 Nor dost not thou sometimes recall those hours,  
 When with the joy of [[concepts/hope|hope]] thou gavest thine ear  
-To my wild firstling-lays. Since then my song  
+To my wild firstling-lays. Since then my [[Song|song]]  
 Hath sounded deeper notes, such as beseem   65  
 Or that sad wisdom folly [[motifs/leaves|leaves]] behind,  
 Or such as, tuned to these tumultuous times,  
@@ -486,7 +486,7 @@ NETHER-STOWEY, SOMERSET, May 26, 1797.
 
 
 
-<span class="atom-split" data-atom="161_hexameters" data-title="HEXAMETERS" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,concept/grief_and_loss,concept/melancholy,concept/exile,form/hexameter_verse,form/verse_epistle,setting/europe,setting/germany,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="161_hexameters" data-title="HEXAMETERS" data-chapter="" data-kind="intro"></span>
 
 
 William, my teacher, my friend! dear William and dear Dorothea!
@@ -540,13 +540,13 @@ You have all in each other; but I am lonely, and want you!
 
 
 
-<span class="atom-split" data-atom="174_home-sick" data-title="HOME-SICK" data-chapter="" data-kind="intro" data-tags="motif/wind,concept/exile,concept/nostalgia,concept/nationalism_and_patriotism,concept/marriage_and_fidelity,form/lyric,setting/europe,setting/germany,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="174_home-sick" data-title="HOME-SICK" data-chapter="" data-kind="intro"></span>
 
 
 WRITTEN IN [[settings/germany|GERMANY]]  
 ‘Tis sweet to him who all the week  
 Through [[motifs/city|city]]-crowds must push his way,  
-To stroll alone through fields and woods,  
+To stroll [[Alone|alone]] through fields and woods,  
 And hallow thus the Sabbath-day.  
 And sweet it is, in [[motifs/summer|summer]] bower,   5  
 Sincere, affectionate and gay,  
@@ -565,7 +565,7 @@ May 6, 1799.
 
 
 
-<span class="atom-split" data-atom="235_to_two_sisters_mary_morgan_and_charlotte_brent" data-title="TO TWO SISTERS: [MARY MORGAN AND CHARLOTTE BRENT]" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/memory,motif/winter,concept/grief_and_loss,concept/memory_and_time,concept/alienation,concept/friendship,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="235_to_two_sisters_mary_morgan_and_charlotte_brent" data-title="TO TWO SISTERS: [MARY MORGAN AND CHARLOTTE BRENT]" data-chapter="" data-kind="intro"></span>
 
 
 A WANDERER’S FAREWELL  
@@ -627,7 +627,7 @@ And shine in the eye, of all the world beside.
 
 
 
-<span class="atom-split" data-atom="261_israels_lament" data-title="ISRAEL’S LAMENT" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/flowers,concept/grief_and_loss,concept/mortality,concept/faith,concept/providence,form/elegy,histref/the_bible,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="261_israels_lament" data-title="ISRAEL’S LAMENT" data-chapter="" data-kind="intro"></span>
 
 
 ‘A Hebrew [[forms/dirge|Dirge]], chaunted in the Great Synagogue, St. James’s Place,  
@@ -670,8 +670,8 @@ He mourns on one funereal pyre.
 Mourn for Britannia’s hopes [[motifs/decay|decay]]’d,  
 Her daughters wail their dear defence;  
 Their fair example, prostrate laid,    35  
-Chaste [[motifs/love|Love]] and fervid Innocence.  
-While Grief in song shall seek repose,  
+Chaste [[motifs/love|Love]] and fervid [[innocence|Innocence]].  
+While Grief in [[Song|song]] shall seek repose,  
 We will take up a Mourning yearly:  
 To wail the blow that crush’d the [[motifs/rose|Rose]],  
 So dearly priz’d and lov’d so dearly.   40  
@@ -696,7 +696,7 @@ Be thou their Comforter, O God!
 
 
 
-<span class="atom-split" data-atom="275_homeless" data-title="HOMELESS" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/exile,concept/alienation,concept/melancholy,form/lyric,histref/christianity,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="275_homeless" data-title="HOMELESS" data-chapter="" data-kind="intro"></span>
 
 
 ‘O! Christmas Day, Oh! happy day!  
@@ -705,14 +705,14 @@ To him who hath a happy [[motifs/home|home]]
 And [[motifs/love|love]] returned from [[motifs/love|love]]!’  
 O! Christmas Day, O gloomy day,   5  
 The barb in [[motifs/memory|Memory]]’s dart,  
-To him who walks alone through Life,  
+To him who walks [[Alone|alone]] through Life,  
 The desolate in heart.  
 1826.  
 
 
 
 
-<span class="atom-split" data-atom="300_loves_apparition_and_evanishment_an_allegoric_romance" data-title="LOVE’S APPARITION AND EVANISHMENT: AN ALLEGORIC ROMANCE" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,archetype/lover,motif/garden,motif/ruins,motif/flowers,concept/melancholy,concept/unrequited_love,concept/grief_and_loss,form/allegory,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="300_loves_apparition_and_evanishment_an_allegoric_romance" data-title="LOVE’S APPARITION AND EVANISHMENT: AN ALLEGORIC ROMANCE" data-chapter="" data-kind="intro"></span>
 
 
 Like a lone Arab, old and blind,  
@@ -721,7 +721,7 @@ Who sits beside a ruin’d [[motifs/well|well]],
 Where the shy sand-asps bask and swell;  
 And now he hangs his agéd head aslant,   5  
 And listens for a human sound — in vain!  
-And now the aid, which Heaven alone can grant,  
+And now the aid, which Heaven [[Alone|alone]] can grant,  
 Upturns his eyeless face from Heaven to gain; —  
 Even thus, in vacant mood, one sultry hour,  
 Resting my eye upon a drooping plant,   10  
@@ -747,7 +747,7 @@ To make [[concepts/hope|Hope]] die anew.
 
 
 
-<span class="atom-split" data-atom="385_de_profundis_clamavi" data-title="DE PROFUNDIS CLAMAVI" data-chapter="" data-kind="intro" data-tags="motif/death,motif/winter,concept/melancholy,concept/mortality,concept/love_romantic,concept/self_and_soul,form/fragment,histref/eastern_religion,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="385_de_profundis_clamavi" data-title="DE PROFUNDIS CLAMAVI" data-chapter="" data-kind="intro"></span>
 
 
 Come, come thou bleak December [[motifs/wind|wind]],  
@@ -815,7 +815,7 @@ With notes as of one who brass is filing.
 
 
 
-<span class="atom-split" data-atom="426_the_poetaster" data-title="THE POETASTER" data-chapter="" data-kind="intro" data-tags="motif/death,concept/grief_and_loss,concept/love_romantic,form/fragment,form/verse_drama,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="426_the_poetaster" data-title="THE POETASTER" data-chapter="" data-kind="intro"></span>
 
 
 Act I, Scene 1.
@@ -843,7 +843,7 @@ Reprinted as [[forms/fragment|Fragment]] No. 59, P. W., 1893, p. 460.
 
 
 
-<span class="atom-split" data-atom="430_mark_akenside" data-title="MARK AKENSIDE" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/unrequited_love,concept/pride,concept/grief_and_loss,concept/providence,form/elegy,form/blank_verse,setting/pastoral_countryside,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="430_mark_akenside" data-title="MARK AKENSIDE" data-chapter="" data-kind="intro"></span>
 
 
 [[forms/blank-verse|BLANK VERSE]] INSCRIPTIONS  
@@ -863,7 +863,7 @@ Beset with osiers, let thy pious hand   10
 Sprinkle fresh [[motifs/water|water]] from the brook, and strew  
 Sweet-smelling [[motifs/flowers|flowers]] — for there doth [[characters/edmund|Edmund]] rest,  
 The learned shepherd; for each rural art  
-Famed, and for songs harmonious, and the woes  
+Famed, and for [[songs]] harmonious, and the woes  
 Of ill-requited [[motifs/love|love]]. The faithless [[concepts/pride|pride]]   15  
 Of fair Matilda sank him to the [[motifs/grave|grave]]  
 In manhood’s prime. But soon did righteous Heaven  

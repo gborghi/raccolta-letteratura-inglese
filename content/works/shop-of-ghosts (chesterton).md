@@ -51,11 +51,11 @@ tags:
 
 **Topoi:** [[topoi/ubi-sunt|Ubi Sunt]]
 
-**Archetypes:** [[archetypes/ghost|Ghost]]
+**Archetypes:** Ghost
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/light-and-dark|Light and Dark]]
 **Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/immortality|Immortality]], [[concepts/nostalgia|Nostalgia]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/nonfiction|Nonfiction]]
-**Characters:** [[characters/death-personified|Death Personified]], [[characters/robin-hood|Robin Hood]], [[historical-references/charles-dickens|Charles Dickens]], [[characters/sir-richard-steele|Sir Richard Steele]], [[characters/ben-jonson|Ben Jonson]]
+**Characters:** Death Personified, Robin Hood, [[historical-references/charles-dickens|Charles Dickens]], Sir Richard Steele, Ben Jonson
 
 ## Testo integrale / Full text
 

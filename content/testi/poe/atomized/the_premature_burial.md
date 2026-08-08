@@ -12,7 +12,7 @@ tags:
 
 <span class="atom-split" data-atom="the_premature_burial" data-title="The Premature Burial" data-chapter="" data-kind="intro"></span>
 
-# The Premature Burial
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -24,7 +24,7 @@ Essere sepolti mentre si è ancora in vita è, senza dubbio, l’estremo più te
 
 Tuttavia, a parte la conclusione inevitabile – _a priori_ – che tali cause debbano produrre tali effetti, ovvero che l’insolita occorrenza di casi di animazione sospesa debba naturalmente portare, di tanto in tanto, a sepolture premature – a parte questa considerazione, abbiamo il testimone diretto dell’esperienza medica e comune per dimostrare che un gran numero di tali sepolture si sono effettivamente verificate. Se necessario, potrei citare subito centinaia di casi ben documentati. Uno di carattere particolarmente notevole, le cui circostanze potrebbero essere ancora fresche nella memoria di alcuni dei miei lettori, è avvenuto non molto tempo fa nella vicina città di Baltimora, dove ha suscitato un’emozione dolorosa, intensa e diffusa. La moglie di uno dei cittadini più rispettabili della città – un eminente avvocato e membro del Congresso – fu colpita da una malattia improvvisa e inspiegabile che mise alla prova le capacità dei suoi medici. Dopo molte sofferenze, morì, o almeno si credeva che fosse morta. Nessuno sospettò, infatti, né aveva motivo di sospettare che in realtà non fosse morta. Presentava tutti i segni tipici della [[motifs/death|morte]]: il viso era pallido e contratto, le labbra livide come il marmo, gli occhi privi di luce. Non c’era più alcuna traccia di vita; la pulsazione era cessata. Per tre giorni il corpo rimase insepoltato, assumendo una rigidità pietrosa. In breve, i funerali furono accelerati a causa del rapido avanzamento di ciò che si riteneva fosse il processo di decomposizione.
 
-La signora fu deposta nella cripta di famiglia, dove rimase intatta per i tre anni successivi. Al termine di questo periodo, la cripta fu aperta per ricevere un sarcofago; ma, ahimè, quale terribile shock attendeva il marito che, personalmente, aprì la porta! Mentre le porte si spalancavano, qualcosa di avvolto in abiti bianchi cadde rumorosamente tra le sue braccia: era lo scheletro di sua moglie, ancora avvolto nel suo sudario intatto.
+La signora fu deposta nella cripta di famiglia, dove rimase intatta per i tre anni successivi. Al termine di questo periodo, la cripta fu aperta per ricevere un sarcofago; ma, ahimè, quale terribile shock attendeva il marito che, personalmente, aprì la porta! Mentre le porte si spalancavano, qualcosa di avvolto in abiti bianchi cadde rumorosamente tra le sue braccia: era lo [[skeleton|scheletro]] di sua moglie, ancora avvolto nel suo sudario intatto.
 
 Un'attenta indagine rivelò che lei era tornata in vita entro due giorni dopo la sua sepoltura; i suoi movimenti all'interno della bara avevano causato il suo cadere da un ripiano verso il pavimento, dove si era rotta a tal punto da permetterle di fuggire. Una lampada, lasciata accidentalmente nella tomba piena di olio, fu trovata vuota; tuttavia, l'olio poteva essere stato consumato per evaporazione. Sulla soglia estrema delle scale che conducevano nella terribile camera fu trovato un grande frammento della bara; sembrava che lei avesse cercato di attirare l'attenzione battendo contro la porta di ferro. Mentre era impegnata in questo tentativo, probabilmente svenne o morì per il terrore; nel fallire, il suo sudario si impigliò in alcuni elementi di ferro che sporgevano all'interno della tomba. Così rimase, e così marcì, in posizione eretta.
 
@@ -35,7 +35,7 @@ La “Rivista Chirurgica” di Lipsia, una pubblicazione di grande autorità e v
 
 Un ufficiale d’artiglieria, di gigantesca statura e robusta salute, essendo stato gettato da un cavallo indomabile, riportò una grave contusione alla testa che lo rese immediatamente privo di sensi; il cranio presentava una leggera frattura, ma non si temeva alcun pericolo imminente. La trapanazione del cranio ebbe successo; gli fu praticata la decompressione cerebrale e furono adottate molte altre misure di soccorso tradizionali. Tuttavia, gradualmente, il suo stato di incoscienza divenne sempre più grave, fino a quando si pensò che fosse morto.
 
-Il tempo era caldo, e lui fu sepolto con una fretta indecente in uno dei cimiteri pubblici. Il suo funerale ebbe luogo di giovedì. Il [[characters/sunday|)domenica]] seguente, il cimitero, come al solito, era affollato di visitatori; verso l’[[motifs/noon|mattino]] scoppiò un grande clamore quando un contadino dichiarò di aver sentito, seduto sulla [[motifs/grave|tomba]] dell’ufficiale, dei movimenti della terra, come se qualcuno stesse lottando sotto di essa. All’inizio nessuno prestò molta attenzione alle sue affermazioni; ma il terrore evidente sul suo volto e la sua ostinazione nel ripetere quella storia finirono per influenzare la folla. Furono rapidamente procurate vanghe, e la [[motifs/grave|tomba]], che era incredibilmente poco profonda, fu aperta in pochi minuti; apparve così la testa della persona sepolta al suo interno. Sembrava morto, ma era seduto quasi dritto all’interno del feretro, il cui coperchio aveva cercato di sollevare con violenza durante le sue convulsioni.
+Il tempo era caldo, e lui fu sepolto con una fretta indecente in uno dei cimiteri pubblici. Il suo funerale ebbe luogo di [[thursday|giovedì]]. Il [[characters/sunday|)domenica]] seguente, il cimitero, come al solito, era affollato di visitatori; verso l’[[motifs/noon|mattino]] scoppiò un grande clamore quando un contadino dichiarò di aver sentito, seduto sulla [[motifs/grave|tomba]] dell’ufficiale, dei movimenti della terra, come se qualcuno stesse lottando sotto di essa. All’inizio nessuno prestò molta attenzione alle sue affermazioni; ma il terrore evidente sul suo volto e la sua ostinazione nel ripetere quella storia finirono per influenzare la folla. Furono rapidamente procurate vanghe, e la [[motifs/grave|tomba]], che era incredibilmente poco profonda, fu aperta in pochi minuti; apparve così la testa della persona sepolta al suo interno. Sembrava morto, ma era seduto quasi dritto all’interno del feretro, il cui coperchio aveva cercato di sollevare con violenza durante le sue convulsioni.
 
 Fu immediatamente trasportato all'ospedale più vicino, dove si constatò che era ancora vivo, sebbene in condizioni di asfissia. Dopo alcune ore riprese conoscenza, riconobbe alcune persone che conosceva e, con frasi spezzate, raccontò delle sue sofferenze nella [[motifs/grave|tomba]].
 
@@ -151,7 +151,7 @@ apparent functions of vitality, and yet in which these cessations
 are merely suspensions, properly so called. They are only
 temporary pauses in the incomprehensible mechanism. A certain
 period elapses, and some unseen mysterious principle again sets
-in motion the magic pinions and the wizard wheels. The silver
+in motion the [[Magic|magic]] pinions and the wizard wheels. The silver
 cord was not for ever loosed, nor the golden bowl irreparably
 broken. But where, meantime, was the [[motifs/soul|soul]]?
 
@@ -186,7 +186,7 @@ it was opened for the reception of a sarcophagus; but, alas! how
 fearful a shock awaited the husband, who, personally, threw open
 the door! As its portals swung outwardly back, some
 white-apparelled object fell rattling within his arms. It was the
-skeleton of his wife in her yet unmoulded shroud.
+[[skeleton]] of his wife in her yet unmoulded shroud.
 
 A careful investigation rendered it evident that she had revived
 within two days after her entombment; that her struggles within
@@ -237,7 +237,7 @@ adamant, and this last lesson of [[motifs/love|love]] sufficed to soften it. She
 bestowed it upon Bossuet. She returned no more to her husband,
 but, concealing from him her [[concepts/resurrection|resurrection]], fled with her [[archetypes/lover|lover]] to
 [[settings/america|America]]. Twenty years afterward, the two returned to France, in
-the persuasion that [[motifs/time|time]] had so greatly altered the lady’s
+the [[Persuasion|persuasion]] that [[motifs/time|time]] had so greatly altered the lady’s
 appearance that her friends would be unable to recognize her.
 They were mistaken, however, for, at the first meeting, Monsieur
 Renelle did actually recognize and make claim to his wife. This
@@ -257,7 +257,7 @@ Essere sepolti mentre si è ancora in vita è, senza dubbio, l’estremo più te
 
 Tuttavia, a parte la conclusione inevitabile – _a priori_ – che tali cause debbano produrre tali effetti, ovvero che l’insolita occorrenza di casi di animazione sospesa debba naturalmente portare, di tanto in tanto, a sepolture premature – a parte questa considerazione, abbiamo il testimone diretto dell’esperienza medica e comune per dimostrare che un gran numero di tali sepolture si sono effettivamente verificate. Se necessario, potrei citare subito centinaia di casi ben documentati. Uno di carattere particolarmente notevole, le cui circostanze potrebbero essere ancora fresche nella memoria di alcuni dei miei lettori, è avvenuto non molto tempo fa nella vicina città di Baltimora, dove ha suscitato un’emozione dolorosa, intensa e diffusa. La moglie di uno dei cittadini più rispettabili della città – un eminente avvocato e membro del Congresso – fu colpita da una malattia improvvisa e inspiegabile che mise alla prova le capacità dei suoi medici. Dopo molte sofferenze, morì, o almeno si credeva che fosse morta. Nessuno sospettò, infatti, né aveva motivo di sospettare che in realtà non fosse morta. Presentava tutti i segni tipici della [[motifs/death|morte]]: il viso era pallido e contratto, le labbra livide come il marmo, gli occhi privi di luce. Non c’era più alcuna traccia di vita; la pulsazione era cessata. Per tre giorni il corpo rimase insepoltato, assumendo una rigidità pietrosa. In breve, i funerali furono accelerati a causa del rapido avanzamento di ciò che si riteneva fosse il processo di decomposizione.
 
-La signora fu deposta nella cripta di famiglia, dove rimase intatta per i tre anni successivi. Al termine di questo periodo, la cripta fu aperta per ricevere un sarcofago; ma, ahimè, quale terribile shock attendeva il marito che, personalmente, aprì la porta! Mentre le porte si spalancavano, qualcosa di avvolto in abiti bianchi cadde rumorosamente tra le sue braccia: era lo scheletro di sua moglie, ancora avvolto nel suo sudario intatto.
+La signora fu deposta nella cripta di famiglia, dove rimase intatta per i tre anni successivi. Al termine di questo periodo, la cripta fu aperta per ricevere un sarcofago; ma, ahimè, quale terribile shock attendeva il marito che, personalmente, aprì la porta! Mentre le porte si spalancavano, qualcosa di avvolto in abiti bianchi cadde rumorosamente tra le sue braccia: era lo [[skeleton|scheletro]] di sua moglie, ancora avvolto nel suo sudario intatto.
 
 Un'attenta indagine rivelò che lei era tornata in vita entro due giorni dopo la sua sepoltura; i suoi movimenti all'interno della bara avevano causato il suo cadere da un ripiano verso il pavimento, dove si era rotta a tal punto da permetterle di fuggire. Una lampada, lasciata accidentalmente nella tomba piena di olio, fu trovata vuota; tuttavia, l'olio poteva essere stato consumato per evaporazione. Sulla soglia estrema delle scale che conducevano nella terribile camera fu trovato un grande frammento della bara; sembrava che lei avesse cercato di attirare l'attenzione battendo contro la porta di ferro. Mentre era impegnata in questo tentativo, probabilmente svenne o morì per il terrore; nel fallire, il suo sudario si impigliò in alcuni elementi di ferro che sporgevano all'interno della tomba. Così rimase, e così marcì, in posizione eretta.
 
@@ -285,7 +285,7 @@ hopeless state of stupor, and, finally, it was thought that he
 died.
 
 The weather was warm, and he was buried with indecent haste in
-one of the public cemeteries. His funeral took place on Thursday.
+one of the public cemeteries. His funeral took place on [[thursday|Thursday]].
 On the [[characters/sunday|Sunday]] following, the grounds of the cemetery were, as
 usual, much thronged with visitors, and about [[motifs/noon|noon]] an intense
 excitement was created by the declaration of a peasant that,
@@ -380,7 +380,7 @@ La “Rivista Chirurgica” di Lipsia, una pubblicazione di grande autorità e v
 
 Un ufficiale d’artiglieria, di gigantesca statura e robusta salute, essendo stato gettato da un cavallo indomabile, riportò una grave contusione alla testa che lo rese immediatamente privo di sensi; il cranio presentava una leggera frattura, ma non si temeva alcun pericolo imminente. La trapanazione del cranio ebbe successo; gli fu praticata la decompressione cerebrale e furono adottate molte altre misure di soccorso tradizionali. Tuttavia, gradualmente, il suo stato di incoscienza divenne sempre più grave, fino a quando si pensò che fosse morto.
 
-Il tempo era caldo, e lui fu sepolto con una fretta indecente in uno dei cimiteri pubblici. Il suo funerale ebbe luogo di giovedì. Il [[characters/sunday|)domenica]] seguente, il cimitero, come al solito, era affollato di visitatori; verso l’[[motifs/noon|mattino]] scoppiò un grande clamore quando un contadino dichiarò di aver sentito, seduto sulla [[motifs/grave|tomba]] dell’ufficiale, dei movimenti della terra, come se qualcuno stesse lottando sotto di essa. All’inizio nessuno prestò molta attenzione alle sue affermazioni; ma il terrore evidente sul suo volto e la sua ostinazione nel ripetere quella storia finirono per influenzare la folla. Furono rapidamente procurate vanghe, e la [[motifs/grave|tomba]], che era incredibilmente poco profonda, fu aperta in pochi minuti; apparve così la testa della persona sepolta al suo interno. Sembrava morto, ma era seduto quasi dritto all’interno del feretro, il cui coperchio aveva cercato di sollevare con violenza durante le sue convulsioni.
+Il tempo era caldo, e lui fu sepolto con una fretta indecente in uno dei cimiteri pubblici. Il suo funerale ebbe luogo di [[thursday|giovedì]]. Il [[characters/sunday|)domenica]] seguente, il cimitero, come al solito, era affollato di visitatori; verso l’[[motifs/noon|mattino]] scoppiò un grande clamore quando un contadino dichiarò di aver sentito, seduto sulla [[motifs/grave|tomba]] dell’ufficiale, dei movimenti della terra, come se qualcuno stesse lottando sotto di essa. All’inizio nessuno prestò molta attenzione alle sue affermazioni; ma il terrore evidente sul suo volto e la sua ostinazione nel ripetere quella storia finirono per influenzare la folla. Furono rapidamente procurate vanghe, e la [[motifs/grave|tomba]], che era incredibilmente poco profonda, fu aperta in pochi minuti; apparve così la testa della persona sepolta al suo interno. Sembrava morto, ma era seduto quasi dritto all’interno del feretro, il cui coperchio aveva cercato di sollevare con violenza durante le sue convulsioni.
 
 Fu immediatamente trasportato all'ospedale più vicino, dove si constatò che era ancora vivo, sebbene in condizioni di asfissia. Dopo alcune ore riprese conoscenza, riconobbe alcune persone che conosceva e, con frasi spezzate, raccontò delle sue sofferenze nella [[motifs/grave|tomba]].
 
@@ -428,7 +428,7 @@ asserted, without hesitation, that no event is so terribly [[motifs/well|well]]
 adapted to inspire the supremeness of bodily and of mental
 distress, as is burial before [[motifs/death|death]]. The unendurable oppression
 of the lungs—the stifling fumes from the damp earth—the clinging
-to the [[motifs/death|death]] garments—the rigid embrace of the narrow house—the
+to the [[motifs/death|death]] garments—the rigid embrace of the narrow [[house]]—the
 blackness of the absolute [[motifs/night|Night]]—the [[motifs/silence|silence]] like a sea that
 overwhelms—the unseen but palpable presence of the Conqueror
 Worm—these things, with the thoughts of the air and grass above,
@@ -672,7 +672,7 @@ quivering of an eyelid, and immediately thereupon, an electric
 shock of a terror, deadly and indefinite, which sends the [[motifs/blood|blood]]
 in torrents from the temples to the heart. And now the first
 positive effort to think. And now the first endeavor to remember.
-And now a partial and evanescent success. And now the [[motifs/memory|memory]] has
+And now a partial and evanescent [[success]]. And now the [[motifs/memory|memory]] has
 so far regained its dominion, that, in some measure, I am
 cognizant of my state. I feel that I am not awaking from ordinary
 [[motifs/sleep|sleep]]. I recollect that I have been subject to catalepsy. And
@@ -685,7 +685,7 @@ without motion. And why? I could not summon [[concepts/courage|courage]] to move
 dared not make the effort which was to satisfy me of my fate—and
 yet there was something at my heart which whispered me it was
 sure. [[concepts/despair|Despair]]—such as no other species of wretchedness ever calls
-into being—[[concepts/despair|despair]] alone urged me, after long irresolution, to
+into being—[[concepts/despair|despair]] [[Alone|alone]] urged me, after long irresolution, to
 uplift the heavy lids of my eyes. I uplifted them. It was
 dark—all dark. I knew that the fit was over. I knew that the
 crisis of my disorder had long passed. I knew that I had now
@@ -756,7 +756,7 @@ any kind. Its extreme width was eighteen inches. The distance of
 its [[characters/bottom|bottom]] from the deck overhead was precisely the same. I found
 it a matter of exceeding difficulty to squeeze myself in.
 Nevertheless, I slept soundly, and the whole of my vision—for it
-was no dream, and no nightmare—arose naturally from the
+was no dream, and no [[nightmare]]—arose naturally from the
 circumstances of my position—from my ordinary bias of thought—and
 from the difficulty, to which I have alluded, of collecting my
 senses, and especially of regaining my [[motifs/memory|memory]], for a long [[motifs/time|time]]

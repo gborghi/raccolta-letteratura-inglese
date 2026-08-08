@@ -47,7 +47,7 @@ tags:
   - character/sally_brass
 ---
 
-*by Dickens*  ·  **Cluster:** [[archetypes/innocent|Innocent]]
+*by Dickens*  ·  **Cluster:** Innocent
 
 > [!abstract] 
 > Dickens's sentimental social novel: orphan Little Nell and her gambling-ruined grandfather flee London and the grotesque dwarf Quilp, wandering through England until Nell's celebrated death among graveyard ruins.
@@ -67,13 +67,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/quest|Quest]], [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/memento-mori|Memento Mori]], [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/pastoral-retreat|Pastoral Retreat]]
-**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/orphan|Orphan]], [[archetypes/villain|Villain]], [[archetypes/outsider|Outsider]], [[archetypes/child|Child]]
+**Archetypes:** Innocent, Orphan, Villain, Outsider, Child
 **Motifs:** [[motifs/death|Death]], [[motifs/journey|Journey]], [[motifs/city|City]], [[motifs/money-and-gold|Money and Gold]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/grave|Grave]], [[motifs/childhood|Childhood]], [[motifs/dreams|Dreams]]
 **Themes & Concepts:** [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/mortality|Mortality]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/grotesque|Grotesque]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/poverty|Poverty]], [[concepts/nature-vs-civilization|Nature vs Civilization]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
-**Characters:** [[characters/little-nell|Little Nell]], [[characters/daniel-quilp|Daniel Quilp]], [[characters/nell's-grandfather|Nell's Grandfather]], [[characters/dick-swiveller|Dick Swiveller]], [[characters/marchioness|Marchioness]], [[characters/kit-nubbles|Kit Nubbles]], [[characters/sampson-brass|Sampson Brass]], [[characters/sally-brass|Sally Brass]]
+**Characters:** Little Nell, Daniel Quilp, Nell's Grandfather, Dick Swiveller, Marchioness, Kit Nubbles, Sampson Brass, Sally Brass
 
 ## Testo integrale / Full text
 

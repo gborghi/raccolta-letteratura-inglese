@@ -32,7 +32,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]], [[topoi/inexpressibility|Inexpressibility]]
-**Archetypes:** [[archetypes/prophet|Prophet]]
+**Archetypes:** Prophet
 **Motifs:** [[motifs/music-and-song|Music and Song]], [[motifs/stars|Stars]], [[motifs/moon|Moon]], [[motifs/supernatural|Supernatural]]
 **Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/beauty|Beauty]], [[concepts/artist-and-society|Artist and Society]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/sublime|Sublime]]
 **Forms & Genres:** [[forms/lyric|Lyric]], [[forms/ode|Ode]]

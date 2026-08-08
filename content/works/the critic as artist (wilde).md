@@ -47,12 +47,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]], [[topoi/book-of-nature|Book of Nature]]
-**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
+**Archetypes:** Self-Made Man
 **Motifs:** [[motifs/music-and-song|Music and Song]], [[motifs/mirror|Mirror]], [[motifs/book-reading|Book Reading]], [[motifs/flowers|Flowers]], [[motifs/silence|Silence]]
 **Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/beauty|Beauty]], [[concepts/imagination|Imagination]], [[concepts/paradox|Paradox]], [[concepts/beauty-and-truth|Beauty and Truth]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/truth|Truth]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/aphorism|Aphorism]], [[forms/epigram|Epigram]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/ancient-greece|Ancient Greece]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/renaissance|Renaissance]]
-**Characters:** [[characters/christ|Christ]]
+**Characters:** Christ
 
 ## Testo integrale / Full text
 

@@ -79,7 +79,7 @@ tags:
 
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/detective-fiction|Detective Fiction]], [[forms/allegory|Allegory]]
 
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/trickster|Trickster]], [[archetypes/rebel|Rebel]], [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/christ-figure|Christ Figure]]
+**Archetypes:** Detective, Trickster, Rebel, Satanic Figure, Double Doppelganger, Christ Figure
 
 **Settings:** [[settings/london|London]], [[settings/river-thames|River Thames]], [[settings/rural-england|Rural England]], [[settings/underworld-cave|Underworld Cave]], [[settings/sea-(2)|Sea (2)]], [[settings/france|France]], [[settings/europe|Europe]]
 
@@ -89,7 +89,7 @@ tags:
 
 **Themes & Concepts:** [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/identity|Identity]], [[concepts/fear|Fear]], [[concepts/paradox|Paradox]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/providence|Providence]], [[concepts/anarchism|Anarchism]], [[concepts/history|History]]
 
-**Characters:** [[characters/gabriel-syme|Gabriel Syme]], [[characters/lucian-gregory|Lucian Gregory]], [[characters/sunday|Sunday]], [[characters/rosamond-gregory|Rosamond Gregory]], [[characters/the-secretary|The Secretary]], [[characters/dr.-bull|Dr. Bull]], [[characters/professor-de-worms|Professor de Worms]], [[characters/marquis-de-st.-eustache|Marquis de St. Eustache]], [[characters/gogol|Gogol]], [[characters/colonel-ducroix|Colonel Ducroix]]
+**Characters:** Gabriel Syme, Lucian Gregory, Sunday, Rosamond Gregory, The Secretary, Dr. Bull, Professor de Worms, Marquis de St. Eustache, Gogol, Colonel Ducroix
 
 ## Testo integrale / Full text
 

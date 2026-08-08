@@ -52,12 +52,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/love-as-religion|Love as Religion]]
-**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/fool|Fool]]
+**Archetypes:** Lover, Fool
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/seasons|Seasons]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/education|Education]], [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]]
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/comic-verse-song|Comic Verse Song]]
 **Settings:** [[settings/court|Court]]
-**Characters:** [[characters/ferdinand-king-of-navarre|Ferdinand King of Navarre]], [[characters/berowne|Berowne]], [[characters/princess-of-france|Princess of France]], [[characters/rosaline|Rosaline]], [[characters/longueville|Longueville]], [[characters/dumaine|Dumaine]], [[characters/don-armado|Don Armado]], [[characters/costard|Costard]]
+**Characters:** Ferdinand King of Navarre, Berowne, Princess of France, Rosaline, Longueville, Dumaine, Don Armado, Costard
 
 ## Testo integrale / Full text
 

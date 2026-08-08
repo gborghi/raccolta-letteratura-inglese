@@ -32,17 +32,17 @@ tags:
 - [[works/theappoftyranny-(chesterton)|TheAppOfTyranny (Chesterton)]]
 - [[works/divorce-(chesterton)|divorce (Chesterton)]]
 - [[works/rash-vows-(chesterton)|rash vows (Chesterton)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#025_honour|HONOUR (Coleridge)]]
+- [[works/honour-(coleridge)|HONOUR (Coleridge)]]
 - [[works/the-piccolomini-(coleridge)|THE PICCOLOMINI (Coleridge)]]
-- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#1427_to_earn_it_by_disdaining_it|1427. To earn it by disdaining it (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1554_go_tell_it_what_a_message|1554. Go tell it — What a Message — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1562_her_losses_make_our_gains_ashamed|1562. Her Losses make our Gains ashamed — (Dickinson)]]
-- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0349_i_had_the_glory_that_will_do|349. I had the Glory — that will do — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0468_the_manner_of_its_death|468. The Manner of its Death (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0522_had_i_presumed_to_hope|522. Had I presumed to hope — (Dickinson)]]
-- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0551_there_is_a_shame_of_nobleness|551. There is a Shame of Nobleness — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0678_wolfe_demanded_during_dying|678. Wolfe demanded during dying (Dickinson)]]
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#144_king_stephen|King Stephen (Keats)]]
+- 1427. To earn it by disdaining it (Dickinson)
+- 1554. Go tell it — What a Message — (Dickinson)
+- 1562. Her Losses make our Gains ashamed — (Dickinson)
+- 349. I had the Glory — that will do — (Dickinson)
+- 468. The Manner of its Death (Dickinson)
+- 522. Had I presumed to hope — (Dickinson)
+- 551. There is a Shame of Nobleness — (Dickinson)
+- 678. Wolfe demanded during dying (Dickinson)
+- [[works/king-stephen-(keats)|King Stephen (Keats)]]
 - [[works/hymn-to-aristogeiton-and-harmodius-(poe)|Hymn to Aristogeiton and Harmodius (Poe)]]
 - [[works/mystification-(poe)|Mystification (Poe)]]
 - [[works/scenes-from-politian-(poe)|Scenes From Politian (Poe)]]
@@ -53,11 +53,11 @@ tags:
 - [[works/henry-v-(shakespeare)|HENRY V (Shakespeare)]]
 - [[works/julius-caesar-(shakespeare)|JULIUS CAESAR (Shakespeare)]]
 - [[works/much-ado-about-nothing-(shakespeare)|MUCH ADO ABOUT NOTHING (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_025|Sonnet 25 (Shakespeare)]]
+- Sonnet 25 (Shakespeare)
 - [[works/the-rape-of-lucrece-(shakespeare)|THE RAPE OF LUCRECE (Shakespeare)]]
 - [[works/the-two-noble-kinsmen-(shakespeare)|THE TWO NOBLE KINSMEN (Shakespeare)]]
 - [[works/troilus-and-cressida-(shakespeare)|TROILUS AND CRESSIDA (Shakespeare)]]
-- [[testi/whitman/atomized/heroism-hero-last-stand#167_i_saw_old_general_at_bay|I Saw Old General at Bay (Whitman)]]
+- [[works/i-saw-old-general-at-bay-(whitman)|I Saw Old General at Bay (Whitman)]]
 - [[works/lord-arthur-savile's-crime-(wilde)|Lord Arthur Savile's Crime (Wilde)]]
 - [[works/rodney-stone-(conan-doyle)|Rodney Stone (Conan Doyle)]]
 - [[works/sir-nigel-(conan-doyle)|Sir Nigel (Conan Doyle)]]

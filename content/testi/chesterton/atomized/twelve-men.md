@@ -23,15 +23,15 @@ G.K. Chesterton
 
 Da «Tremendous Trifles» (1909)
 
-L'altro giorno, mentre meditavo sulla moralità e sul signor H. Pitt, fui, per così dire, ghermito e messo in un banco di giuria a giudicare la gente. Il ghermirmi richiese alcune settimane, ma a me parve qualcosa d'improvviso e arbitrario. Fui messo in quel banco perché abitavo a Battersea, e il mio nome cominciava con la C. Guardandomi attorno, vidi che erano stati convocati e si trovavano presenti nel [[settings/court|tribunale]] intere folle e processioni di uomini, tutti abitanti di Battersea, e tutti con un nome che cominciava con la C.
+L'altro giorno, mentre meditavo sulla [[morality|moralità]] e sul signor H. Pitt, fui, per così dire, ghermito e messo in un banco di giuria a giudicare la gente. Il ghermirmi richiese alcune settimane, ma a me parve qualcosa d'improvviso e arbitrario. Fui messo in quel banco perché abitavo a Battersea, e il mio nome cominciava con la C. Guardandomi attorno, vidi che erano stati convocati e si trovavano presenti nel [[settings/court|tribunale]] intere folle e processioni di uomini, tutti abitanti di Battersea, e tutti con un nome che cominciava con la C.
 
-Pare che convochino sempre i giurati con questo travolgente criterio alfabetico. Con un solo colpo ufficiale, per così dire, Battersea viene spogliata di tutte le sue C, e lasciata a cavarsela come può con il resto dell'alfabeto. Manca un Cumberpatch da una via, un Chizzolpop da un'altra, tre Chucksterfield da Chucksterfield House; i bambini reclamano a gran voce un Cadgerboy assente; la donna all'angolo della strada piange il suo Coffintop, e non vuole essere consolata. Ci sistemiamo con spensierata disinvoltura ai nostri posti (poiché siamo una razza audace e temeraria, noi C di Battersea), e ci viene somministrato un giuramento in maniera del tutto inudibile da un individuo somigliante a un chirurgo militare nella sua seconda [[motifs/childhood|fanciullezza]]. Comprendiamo, tuttavia, che dobbiamo giudicare [[motifs/well|bene]] e fedelmente la causa tra il nostro sovrano signore il [[archetypes/king|Re]] e il prigioniero alla sbarra, nessuno dei quali si è ancora presentato.
+Pare che convochino sempre i giurati con questo travolgente criterio alfabetico. Con un solo colpo ufficiale, per così dire, Battersea viene spogliata di tutte le sue C, e lasciata a cavarsela come può con il resto dell'alfabeto. Manca un Cumberpatch da una via, un Chizzolpop da un'altra, tre Chucksterfield da Chucksterfield [[house|House]]; i bambini reclamano a gran voce un Cadgerboy assente; la donna all'angolo della strada piange il suo Coffintop, e non vuole essere consolata. Ci sistemiamo con spensierata disinvoltura ai nostri posti (poiché siamo una razza audace e temeraria, noi C di Battersea), e ci viene somministrato un giuramento in maniera del tutto inudibile da un individuo somigliante a un chirurgo militare nella sua seconda [[motifs/childhood|fanciullezza]]. Comprendiamo, tuttavia, che dobbiamo giudicare [[motifs/well|bene]] e fedelmente la causa tra il nostro sovrano signore il [[archetypes/king|Re]] e il prigioniero alla sbarra, nessuno dei quali si è ancora presentato.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
-Proprio mentre mi chiedevo se il [[archetypes/king|Re]] e il prigioniero non stessero, forse, giungendo a un amichevole accordo in qualche vicina taverna, la testa del prigioniero spunta sopra la barriera del banco degli imputati; è accusato di rubare biciclette, ed è il ritratto vivente di un mio grande amico. Entriamo nel merito del furto delle biciclette. Giudichiamo [[motifs/well|bene]] e fedelmente la causa tra il [[archetypes/king|Re]] e il prigioniero nella faccenda delle biciclette. E giungiamo alla conclusione, dopo una breve ma ragionevole discussione, che il [[archetypes/king|Re]] non è in alcun modo implicato. Passiamo poi a una donna che aveva trascurato i propri figli, e che ha l'aria di essere stata trascurata da qualcuno o da qualcosa. E io sono tra coloro che immaginano che qualcosa l'avesse trascurata.
+Proprio mentre mi chiedevo se il [[archetypes/king|Re]] e il prigioniero non stessero, forse, giungendo a un amichevole accordo in qualche vicina [[house|taverna]], la testa del prigioniero spunta sopra la barriera del banco degli imputati; è accusato di rubare biciclette, ed è il ritratto vivente di un mio grande amico. Entriamo nel merito del furto delle biciclette. Giudichiamo [[motifs/well|bene]] e fedelmente la causa tra il [[archetypes/king|Re]] e il prigioniero nella faccenda delle biciclette. E giungiamo alla conclusione, dopo una breve ma ragionevole discussione, che il [[archetypes/king|Re]] non è in alcun modo implicato. Passiamo poi a una donna che aveva trascurato i propri figli, e che ha l'aria di essere stata trascurata da qualcuno o da qualcosa. E io sono tra coloro che immaginano che qualcosa l'avesse trascurata.
 
-Per tutto il [[motifs/time|tempo]] in cui l'occhio coglieva queste lievi apparenze e il cervello formulava queste lievi critiche, vi era nel cuore una pietà e un [[concepts/fear|timore]] barbarici che gli uomini non hanno mai saputo esprimere fin dal principio, ma che sono la forza dietro metà dei poemi del mondo. Quello stato d'animo non può nemmeno essere adeguatamente suggerito, se non fiocamente con questa affermazione: che la [[forms/tragedy|tragedia]] è la più alta espressione dell'infinito valore della vita umana. Mai ero stato così vicino al [[motifs/pain|dolore]]; e mai così lontano dal pessimismo. Di norma non avrei affatto parlato di queste oscure emozioni, poiché parlarne è troppo difficile; ma le menziono ora per una ragione specifica e particolare, alla cui esposizione procederò subito. Esprimo questi sentimenti perché dalla loro fornace scaturì una curiosa presa di coscienza di una [[concepts/truth|verità]] politica o sociale. Vidi con una strana e indescrivibile chiarezza che cosa sia davvero una giuria, e perché non dobbiamo mai lasciarla andare.
+Per tutto il [[motifs/time|tempo]] in cui l'occhio coglieva queste lievi apparenze e il cervello formulava queste lievi critiche, vi era nel cuore una pietà e un [[concepts/fear|timore]] barbarici che gli uomini non hanno mai saputo esprimere fin dal principio, ma che sono la forza dietro metà dei [[Poems|poemi]] del mondo. Quello stato d'animo non può nemmeno essere adeguatamente suggerito, se non fiocamente con questa affermazione: che la [[forms/tragedy|tragedia]] è la più alta espressione dell'infinito valore della vita umana. Mai ero stato così vicino al [[motifs/pain|dolore]]; e mai così lontano dal pessimismo. Di norma non avrei affatto parlato di queste oscure emozioni, poiché parlarne è troppo difficile; ma le menziono ora per una ragione specifica e particolare, alla cui esposizione procederò subito. Esprimo questi sentimenti perché dalla loro fornace scaturì una curiosa presa di coscienza di una [[concepts/truth|verità]] politica o sociale. Vidi con una strana e indescrivibile chiarezza che cosa sia davvero una giuria, e perché non dobbiamo mai lasciarla andare.
 
 La tendenza della nostra epoca fino a questo [[motifs/time|momento]] è stata costantemente verso lo specialismo e il professionismo. Tendiamo ad avere soldati addestrati perché combattono meglio, cantanti addestrati perché cantano meglio, ballerini addestrati perché [[motifs/dance|danzano]] meglio, ridenti appositamente istruiti perché ridono meglio, e così via all'infinito. Il principio è stato applicato al diritto e alla politica da innumerevoli scrittori moderni. Molti Fabiani hanno insistito che una parte maggiore del nostro lavoro politico dovrebbe essere svolta da esperti. Molti giuristi hanno dichiarato che la giuria non addestrata dovrebbe essere del tutto soppiantata dal giudice addestrato.
 
@@ -64,7 +64,7 @@ dei perdigiorno, i volti irreali degli avvocati che gesticolano,
 e di vedere il tutto come si vede un quadro nuovo o un dramma mai visto prima.
 
 La nostra civiltà ha deciso, e con grande giustizia,
-che stabilire la [[concepts/guilt|colpevolezza]] o l'innocenza degli uomini è cosa troppo
+che stabilire la [[concepts/guilt|colpevolezza]] o l'[[innocence|innocenza]] degli uomini è cosa troppo
 importante per essere affidata a uomini addestrati.  Vuole luce su
 quella tremenda materia, e interroga uomini che non sanno di legge più di quanto ne sappia io,
 ma che sanno provare le cose che io provai nel banco della giuria.
@@ -85,7 +85,7 @@ G.K. Chesterton
 
 From "Tremendous Trifles" (1909)
 
-The other day, while I was meditating on morality and Mr. H. Pitt,
+The other day, while I was meditating on [[morality]] and Mr. H. Pitt,
 I was, so to speak, snatched up and put into a jury box to try people.
 The snatching took some weeks, but to me it seemed something sudden
 and arbitrary.  I was put into this box because I lived in Battersea,
@@ -98,7 +98,7 @@ It seems that they always summon jurymen in this sweeping
 alphabetical way.  At one official blow, so to speak, Battersea is
 denuded of all its C's, and left to get on as best it can with the rest
 of the alphabet.  A Cumberpatch is missing from one street--a Chizzolpop
-from another--three Chucksterfields from Chucksterfield House;
+from another--three Chucksterfields from Chucksterfield [[house|House]];
 the children are crying out for an absent Cadgerboy; the woman
 at the street corner is weeping for her Coffintop, and will not
 be comforted.  We settle down with a rollicking ease into our seats
@@ -112,7 +112,7 @@ neither of whom has put in an appearance as yet.
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
 Just when I was wondering whether the [[archetypes/king|King]] and the prisoner were, perhaps,
-coming to an amicable understanding in some adjoining public house,
+coming to an amicable understanding in some adjoining public [[house]],
 the prisoner's head appears above the barrier of the dock; he is accused
 of stealing bicycles, and he is the living image of a great friend
 of mine.  We go into the matter of the stealing of the bicycles.
@@ -126,7 +126,7 @@ And I am one of those who fancy that something had.
 All the [[motifs/time|time]] that the eye took in these light appearances and the brain
 passed these light criticisms, there was in the heart a barbaric pity
 and [[concepts/fear|fear]] which men have never been able to utter from the beginning,
-but which is the power behind half the poems of the world.
+but which is the power behind half the [[Poems|poems]] of the world.
 The mood cannot even adequately be suggested, except faintly by this
 statement that [[forms/tragedy|tragedy]] is the highest expression of the infinite
 value of human life.  Never had I stood so close to [[motifs/pain|pain]];
@@ -193,15 +193,15 @@ G.K. Chesterton
 
 Da «Tremendous Trifles» (1909)
 
-L'altro giorno, mentre meditavo sulla moralità e sul signor H. Pitt, fui, per così dire, ghermito e messo in un banco di giuria a giudicare la gente. Il ghermirmi richiese alcune settimane, ma a me parve qualcosa d'improvviso e arbitrario. Fui messo in quel banco perché abitavo a Battersea, e il mio nome cominciava con la C. Guardandomi attorno, vidi che erano stati convocati e si trovavano presenti nel [[settings/court|tribunale]] intere folle e processioni di uomini, tutti abitanti di Battersea, e tutti con un nome che cominciava con la C.
+L'altro giorno, mentre meditavo sulla [[morality|moralità]] e sul signor H. Pitt, fui, per così dire, ghermito e messo in un banco di giuria a giudicare la gente. Il ghermirmi richiese alcune settimane, ma a me parve qualcosa d'improvviso e arbitrario. Fui messo in quel banco perché abitavo a Battersea, e il mio nome cominciava con la C. Guardandomi attorno, vidi che erano stati convocati e si trovavano presenti nel [[settings/court|tribunale]] intere folle e processioni di uomini, tutti abitanti di Battersea, e tutti con un nome che cominciava con la C.
 
-Pare che convochino sempre i giurati con questo travolgente criterio alfabetico. Con un solo colpo ufficiale, per così dire, Battersea viene spogliata di tutte le sue C, e lasciata a cavarsela come può con il resto dell'alfabeto. Manca un Cumberpatch da una via, un Chizzolpop da un'altra, tre Chucksterfield da Chucksterfield House; i bambini reclamano a gran voce un Cadgerboy assente; la donna all'angolo della strada piange il suo Coffintop, e non vuole essere consolata. Ci sistemiamo con spensierata disinvoltura ai nostri posti (poiché siamo una razza audace e temeraria, noi C di Battersea), e ci viene somministrato un giuramento in maniera del tutto inudibile da un individuo somigliante a un chirurgo militare nella sua seconda [[motifs/childhood|fanciullezza]]. Comprendiamo, tuttavia, che dobbiamo giudicare [[motifs/well|bene]] e fedelmente la causa tra il nostro sovrano signore il [[archetypes/king|Re]] e il prigioniero alla sbarra, nessuno dei quali si è ancora presentato.
+Pare che convochino sempre i giurati con questo travolgente criterio alfabetico. Con un solo colpo ufficiale, per così dire, Battersea viene spogliata di tutte le sue C, e lasciata a cavarsela come può con il resto dell'alfabeto. Manca un Cumberpatch da una via, un Chizzolpop da un'altra, tre Chucksterfield da Chucksterfield [[house|House]]; i bambini reclamano a gran voce un Cadgerboy assente; la donna all'angolo della strada piange il suo Coffintop, e non vuole essere consolata. Ci sistemiamo con spensierata disinvoltura ai nostri posti (poiché siamo una razza audace e temeraria, noi C di Battersea), e ci viene somministrato un giuramento in maniera del tutto inudibile da un individuo somigliante a un chirurgo militare nella sua seconda [[motifs/childhood|fanciullezza]]. Comprendiamo, tuttavia, che dobbiamo giudicare [[motifs/well|bene]] e fedelmente la causa tra il nostro sovrano signore il [[archetypes/king|Re]] e il prigioniero alla sbarra, nessuno dei quali si è ancora presentato.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
-Proprio mentre mi chiedevo se il [[archetypes/king|Re]] e il prigioniero non stessero, forse, giungendo a un amichevole accordo in qualche vicina taverna, la testa del prigioniero spunta sopra la barriera del banco degli imputati; è accusato di rubare biciclette, ed è il ritratto vivente di un mio grande amico. Entriamo nel merito del furto delle biciclette. Giudichiamo [[motifs/well|bene]] e fedelmente la causa tra il [[archetypes/king|Re]] e il prigioniero nella faccenda delle biciclette. E giungiamo alla conclusione, dopo una breve ma ragionevole discussione, che il [[archetypes/king|Re]] non è in alcun modo implicato. Passiamo poi a una donna che aveva trascurato i propri figli, e che ha l'aria di essere stata trascurata da qualcuno o da qualcosa. E io sono tra coloro che immaginano che qualcosa l'avesse trascurata.
+Proprio mentre mi chiedevo se il [[archetypes/king|Re]] e il prigioniero non stessero, forse, giungendo a un amichevole accordo in qualche vicina [[house|taverna]], la testa del prigioniero spunta sopra la barriera del banco degli imputati; è accusato di rubare biciclette, ed è il ritratto vivente di un mio grande amico. Entriamo nel merito del furto delle biciclette. Giudichiamo [[motifs/well|bene]] e fedelmente la causa tra il [[archetypes/king|Re]] e il prigioniero nella faccenda delle biciclette. E giungiamo alla conclusione, dopo una breve ma ragionevole discussione, che il [[archetypes/king|Re]] non è in alcun modo implicato. Passiamo poi a una donna che aveva trascurato i propri figli, e che ha l'aria di essere stata trascurata da qualcuno o da qualcosa. E io sono tra coloro che immaginano che qualcosa l'avesse trascurata.
 
-Per tutto il [[motifs/time|tempo]] in cui l'occhio coglieva queste lievi apparenze e il cervello formulava queste lievi critiche, vi era nel cuore una pietà e un [[concepts/fear|timore]] barbarici che gli uomini non hanno mai saputo esprimere fin dal principio, ma che sono la forza dietro metà dei poemi del mondo. Quello stato d'animo non può nemmeno essere adeguatamente suggerito, se non fiocamente con questa affermazione: che la [[forms/tragedy|tragedia]] è la più alta espressione dell'infinito valore della vita umana. Mai ero stato così vicino al [[motifs/pain|dolore]]; e mai così lontano dal pessimismo. Di norma non avrei affatto parlato di queste oscure emozioni, poiché parlarne è troppo difficile; ma le menziono ora per una ragione specifica e particolare, alla cui esposizione procederò subito. Esprimo questi sentimenti perché dalla loro fornace scaturì una curiosa presa di coscienza di una [[concepts/truth|verità]] politica o sociale. Vidi con una strana e indescrivibile chiarezza che cosa sia davvero una giuria, e perché non dobbiamo mai lasciarla andare.
+Per tutto il [[motifs/time|tempo]] in cui l'occhio coglieva queste lievi apparenze e il cervello formulava queste lievi critiche, vi era nel cuore una pietà e un [[concepts/fear|timore]] barbarici che gli uomini non hanno mai saputo esprimere fin dal principio, ma che sono la forza dietro metà dei [[Poems|poemi]] del mondo. Quello stato d'animo non può nemmeno essere adeguatamente suggerito, se non fiocamente con questa affermazione: che la [[forms/tragedy|tragedia]] è la più alta espressione dell'infinito valore della vita umana. Mai ero stato così vicino al [[motifs/pain|dolore]]; e mai così lontano dal pessimismo. Di norma non avrei affatto parlato di queste oscure emozioni, poiché parlarne è troppo difficile; ma le menziono ora per una ragione specifica e particolare, alla cui esposizione procederò subito. Esprimo questi sentimenti perché dalla loro fornace scaturì una curiosa presa di coscienza di una [[concepts/truth|verità]] politica o sociale. Vidi con una strana e indescrivibile chiarezza che cosa sia davvero una giuria, e perché non dobbiamo mai lasciarla andare.
 
 La tendenza della nostra epoca fino a questo [[motifs/time|momento]] è stata costantemente verso lo specialismo e il professionismo. Tendiamo ad avere soldati addestrati perché combattono meglio, cantanti addestrati perché cantano meglio, ballerini addestrati perché [[motifs/dance|danzano]] meglio, ridenti appositamente istruiti perché ridono meglio, e così via all'infinito. Il principio è stato applicato al diritto e alla politica da innumerevoli scrittori moderni. Molti Fabiani hanno insistito che una parte maggiore del nostro lavoro politico dovrebbe essere svolta da esperti. Molti giuristi hanno dichiarato che la giuria non addestrata dovrebbe essere del tutto soppiantata dal giudice addestrato.
 
@@ -239,7 +239,7 @@ faces of the wastrels, the unreal faces of the gesticulating counsel,
 and see it all as one sees a new picture or a play hitherto unvisited.
 
 Our civilization has decided, and very justly decided,
-that determining the [[concepts/guilt|guilt]] or innocence of men is a thing too
+that determining the [[concepts/guilt|guilt]] or [[innocence]] of men is a thing too
 important to be trusted to trained men.  It wishes for light upon
 that awful matter, it asks men who know no more law than I know,
 but who can feel the things that I felt in the jury box.
@@ -273,7 +273,7 @@ dei perdigiorno, i volti irreali degli avvocati che gesticolano,
 e di vedere il tutto come si vede un quadro nuovo o un dramma mai visto prima.
 
 La nostra civiltà ha deciso, e con grande giustizia,
-che stabilire la [[concepts/guilt|colpevolezza]] o l'innocenza degli uomini è cosa troppo
+che stabilire la [[concepts/guilt|colpevolezza]] o l'[[innocence|innocenza]] degli uomini è cosa troppo
 importante per essere affidata a uomini addestrati.  Vuole luce su
 quella tremenda materia, e interroga uomini che non sanno di legge più di quanto ne sappia io,
 ma che sanno provare le cose che io provai nel banco della giuria.

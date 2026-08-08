@@ -37,16 +37,16 @@ tags:
 
 Raccolta tematica di 10 componimenti di John Keats.
 
-- [[testi/keats/atomized/satire-of-society-epigram-satire#132_a_party_of_lovers|A Party of Lovers]]
-- [[testi/keats/atomized/satire-of-society-epigram-satire#024_addressed_to_haydon|ADDRESSED TO HAYDON]]
-- [[testi/keats/atomized/satire-of-society-epigram-satire#109_ben_nevis_-_a_dialogue|Ben Nevis - a Dialogue]]
-- [[testi/keats/atomized/satire-of-society-epigram-satire#086_follys_song|Folly’s Song]]
-- [[testi/keats/atomized/satire-of-society-epigram-satire#069_modern_love|Modern Love]]
-- [[testi/keats/atomized/satire-of-society-epigram-satire#119_ode_on_indolence|Ode on Indolence]]
-- [[testi/keats/atomized/satire-of-society-epigram-satire#067_on_oxford_a_parody|On Oxford A Parody]]
-- [[testi/keats/atomized/satire-of-society-epigram-satire#056_sonnet_before_he_went_to_feed_with_owls_and_bats|Sonnet: Before he went to feed with owls and bats]]
-- [[testi/keats/atomized/satire-of-society-epigram-satire#106_sonnet_on_hearing_the_bagpipe_and|Sonnet on Hearing the Bagpipe and]]
-- [[testi/keats/atomized/satire-of-society-epigram-satire#105_the_gadfly|The Gadfly]]
+- [[works/a-party-of-lovers-(keats)|A Party of Lovers]]
+- [[works/addressed-to-haydon-(keats)|ADDRESSED TO HAYDON]]
+- [[works/ben-nevis---a-dialogue-(keats)|Ben Nevis - a Dialogue]]
+- [[works/folly’s-song-(keats)|Folly’s Song]]
+- [[works/modern-love-(keats)|Modern Love]]
+- [[works/ode-on-indolence-(keats)|Ode on Indolence]]
+- [[works/on-oxford-a-parody-(keats)|On Oxford A Parody]]
+- [[works/sonnet-before-he-went-to-feed-with-owls-and-bats-(keats)|Sonnet: Before he went to feed with owls and bats]]
+- [[works/sonnet-on-hearing-the-bagpipe-and-(keats)|Sonnet on Hearing the Bagpipe and]]
+- [[works/the-gadfly-(keats)|The Gadfly]]
 
 ## Testo / Text
 

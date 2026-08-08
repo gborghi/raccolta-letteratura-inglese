@@ -47,7 +47,7 @@ tags:
 
 **Historical References:** [[historical-references/ibsen|Ibsen]], [[historical-references/william-iii|William III]]
 
-**Characters:** [[characters/mrs.-mountstuart-jenkinson|Mrs. Mountstuart Jenkinson]], [[characters/sir-willoughby-patterne|Sir Willoughby Patterne]]
+**Characters:** Mrs. Mountstuart Jenkinson, Sir Willoughby Patterne
 
 **Topoi:** [[topoi/book-of-nature|Book of Nature]]
 **Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/paradox|Paradox]], [[concepts/joy|Joy]], [[concepts/humility|Humility]], [[concepts/solitude|Solitude]], [[concepts/renunciation|Renunciation]], [[concepts/body|Body]]

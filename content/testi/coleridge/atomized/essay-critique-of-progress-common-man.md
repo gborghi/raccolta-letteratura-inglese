@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/essay-critique-of-progress-common-man" data-author="Coleridge" data-workhref="works/essay-·-critique-of-progress-·-common-man-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="023_to_the_rev_george_coleridge" data-title="TO THE REV. GEORGE COLERIDGE" data-chapter="" data-kind="intro" data-tags="concept/imagination,concept/truth,concept/education,concept/friendship,form/nonfiction,form/essay,cluster/essay,cluster/critique_of_progress,cluster/common_man"></span>
+<span class="atom-split" data-atom="023_to_the_rev_george_coleridge" data-title="TO THE REV. GEORGE COLERIDGE" data-chapter="" data-kind="intro"></span>
 
 
 DEAR BROTHER,
@@ -41,7 +41,7 @@ S. T. C.
 
 
 
-<span class="atom-split" data-atom="053_lines_written_at_the_kings_arms_ross_formerly_the_house_of_the_man_of_ross" data-title="LINES: WRITTEN AT THE KING’S ARMS, ROSS, FORMERLY THE HOUSE OF THE ‘MAN OF ROSS’" data-chapter="" data-kind="intro" data-tags="archetype/pilgrim,motif/wine_and_drink,concept/the_common_man,concept/poverty,concept/humility,concept/social_injustice,form/lyric,cluster/essay,cluster/critique_of_progress,cluster/common_man"></span>
+<span class="atom-split" data-atom="053_lines_written_at_the_kings_arms_ross_formerly_the_house_of_the_man_of_ross" data-title="LINES: WRITTEN AT THE KING’S ARMS, ROSS, FORMERLY THE HOUSE OF THE ‘MAN OF ROSS’" data-chapter="" data-kind="intro"></span>
 
 
 Richer than Miser o’er his countless hoards,  
@@ -69,7 +69,7 @@ And dream of Goodness, thou hast never felt!   20
 
 
 
-<span class="atom-split" data-atom="068_pantisocracy" data-title="PANTISOCRACY" data-chapter="" data-kind="intro" data-tags="topos/golden_age,topos/pastoral_retreat,motif/dreams,motif/moon,concept/hope,concept/reform,form/sonnet,cluster/essay,cluster/critique_of_progress,cluster/common_man"></span>
+<span class="atom-split" data-atom="068_pantisocracy" data-title="PANTISOCRACY" data-chapter="" data-kind="intro"></span>
 
 
 No more my visionary [[motifs/soul|soul]] shall dwell  
@@ -91,7 +91,7 @@ New rays of pleasance trembling to the heart.
 
 
 
-<span class="atom-split" data-atom="069_on_the_prospect_of_establishing_a_pantisocracy_in_america" data-title="ON THE PROSPECT OF ESTABLISHING A PANTISOCRACY IN AMERICA" data-chapter="" data-kind="intro" data-tags="topos/golden_age,archetype/tyrant,concept/hope,concept/reform,concept/power_and_corruption,form/sonnet,setting/new_england,cluster/essay,cluster/critique_of_progress,cluster/common_man"></span>
+<span class="atom-split" data-atom="069_on_the_prospect_of_establishing_a_pantisocracy_in_america" data-title="ON THE PROSPECT OF ESTABLISHING A PANTISOCRACY IN AMERICA" data-chapter="" data-kind="intro"></span>
 
 
 Whilst pale Anxiety, corrosive Care,  
@@ -113,7 +113,7 @@ Content and Bliss on Transatlantic shore.
 
 
 
-<span class="atom-split" data-atom="077_to_a_young_ass_its_mother_being_tethered_near_it" data-title="TO A YOUNG ASS: ITS MOTHER BEING TETHERED NEAR IT" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/animals,motif/chains,concept/economics,concept/social_injustice,concept/poverty,concept/reform,concept/class_conflict,form/lyric,cluster/essay,cluster/critique_of_progress,cluster/common_man"></span>
+<span class="atom-split" data-atom="077_to_a_young_ass_its_mother_being_tethered_near_it" data-title="TO A YOUNG ASS: ITS MOTHER BEING TETHERED NEAR IT" data-chapter="" data-kind="intro"></span>
 
 
 Poor little Foal of an oppresséd race!  
@@ -157,7 +157,7 @@ The aching of pale Fashion’s vacant breast!
 
 
 
-<span class="atom-split" data-atom="136_the_dungeon" data-title="THE DUNGEON" data-chapter="" data-kind="intro" data-tags="motif/nature,concept/social_injustice,concept/reform,concept/grace_and_redemption,form/verse_drama,form/blank_verse,cluster/essay,cluster/critique_of_progress,cluster/common_man"></span>
+<span class="atom-split" data-atom="136_the_dungeon" data-title="THE DUNGEON" data-chapter="" data-kind="intro"></span>
 
 
 [From Osorio, Act V; and Remorse, Act V, Scene i. The
@@ -197,7 +197,7 @@ By the benignant touch of [[motifs/love|Love]] and [[concepts/beauty|Beauty]].  
 
 
 
-<span class="atom-split" data-atom="370_the_bridge_street_committee" data-title="THE BRIDGE STREET COMMITTEE" data-chapter="" data-kind="intro" data-tags="archetype/satanic_figure,concept/satire_of_society,concept/justice,concept/reform,concept/social_injustice,form/satire,cluster/essay,cluster/critique_of_progress,cluster/common_man"></span>
+<span class="atom-split" data-atom="370_the_bridge_street_committee" data-title="THE BRIDGE STREET COMMITTEE" data-chapter="" data-kind="intro"></span>
 
 
 Jack Snipe  
@@ -218,7 +218,7 @@ To imprison and hang
 Carlile and his gang,  
 Is the [[concepts/pride|pride]] of the [[motifs/city|City]],  
 And ‘tis Association  
-That, alone, saves the Nation  
+That, [[Alone|alone]], saves the Nation  
 From [[motifs/death|Death]] and Damnation.  
 First published in Letters and Conversations, &c., 1836, i. 90, 91.  
 These lines, which were inscribed in one of Coleridge’s notebooks, refer  

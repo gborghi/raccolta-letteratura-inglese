@@ -35,7 +35,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/katabasis-descent|Katabasis Descent]]
-**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/ghost|Ghost]]
+**Archetypes:** Outsider, Ghost
 **Motifs:** [[motifs/dreams|Dreams]], [[motifs/night|Night]], [[motifs/ghosts|Ghosts]], [[motifs/memory|Memory]], [[motifs/water|Water]], [[motifs/journey|Journey]], [[motifs/supernatural|Supernatural]]
 **Themes & Concepts:** [[concepts/melancholy|Melancholy]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/memory-and-time|Memory and Time]], [[concepts/sublime|Sublime]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

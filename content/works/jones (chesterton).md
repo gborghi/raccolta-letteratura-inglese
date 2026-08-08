@@ -42,9 +42,9 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[characters/jones|Jones]]
+**Characters:** Jones
 
-**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/common-man-(2)|Common Man (2)]]
+**Archetypes:** Corrupt Official, Common Man (2)
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/body|Body]], [[concepts/grotesque|Grotesque]], [[concepts/freedom-and-liberty|Freedom and Liberty]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/narrative-poem|Narrative Poem]], [[forms/parody|Parody]], [[forms/comic-verse-song|Comic Verse Song]]
 

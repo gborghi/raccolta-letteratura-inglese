@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="a_descent_into_the_maelstrom" data-title="A Descent Into the Maelstrom" data-chapter="" data-kind="intro"></span>
 
-# [[works/a-descent-into-the-maelstrom-(poe)|A Descent Into the Maelstrom]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -648,7 +648,7 @@ counter, and bore us with it as it [[motifs/rose|rose]]—up—up—as if into t
 I would not have believed that any wave could rise so high. And
 then down we came with a sweep, a slide, and a plunge, that made
 me feel sick and dizzy, as if I was falling from some lofty
-mountain-top in a dream. But while we were up I had thrown a
+mountain-top in [[A Dream|a dream]]. But while we were up I had thrown a
 quick glance around—and that one glance was all sufficient. I saw
 our exact position in an instant. The Moskoe-Ström whirlpool was
 about a quarter of a mile dead ahead—but no more like the
@@ -770,7 +770,7 @@ of foam, with the exception that she now lay more along. I took
 
 “Never shall I forget the sensations of awe, horror, and
 admiration with which I gazed about me. The boat appeared to be
-hanging, as if by magic, midway down, upon the interior surface
+hanging, as if by [[Magic|magic]], midway down, upon the interior surface
 of a funnel vast in circumference, prodigious in depth, and whose
 perfectly smooth sides might have been mistaken for ebony, but
 for the bewildering rapidity with which they spun around, and for
@@ -818,7 +818,7 @@ were thus borne, I perceived that our boat was not the only
 object in the embrace of the whirl. Both above and below us were
 visible fragments of vessels, large masses of building timber and
 trunks of trees, with many smaller articles, such as pieces of
-house furniture, broken boxes, barrels and staves. I have already
+[[house]] furniture, broken boxes, barrels and staves. I have already
 described the unnatural curiosity which had taken the place of my
 original terrors. It appeared to grow upon me as I drew nearer
 and nearer to my dreadful doom. I now began to watch, with a

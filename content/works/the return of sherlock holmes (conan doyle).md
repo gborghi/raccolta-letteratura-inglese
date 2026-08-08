@@ -57,7 +57,7 @@ tags:
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]]
 **Motifs:** [[motifs/city|City]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/letters-and-writing|Letters and Writing]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]], [[characters/professor-moriarty|Professor Moriarty]], [[characters/colonel-sebastian-moran|Colonel Sebastian Moran]]
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
+**Characters:** Sherlock Holmes, Doctor Watson, Professor Moriarty, Colonel Sebastian Moran
+**Archetypes:** Detective, Villain
 
 **Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

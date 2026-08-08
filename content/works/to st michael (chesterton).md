@@ -42,7 +42,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/christ-figure|Christ Figure]], [[archetypes/satanic-figure|Satanic Figure]]
+**Archetypes:** Christ Figure, Satanic Figure
 
 **Topoi:** [[topoi/combat-strife|Combat Strife]]
 
@@ -50,7 +50,7 @@ tags:
 **Themes & Concepts:** [[concepts/good-vs-evil|Good vs Evil]], [[concepts/temptation|Temptation]], [[concepts/faith|Faith]], [[concepts/power-of-language|Power of Language]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/hymn|Hymn]]
 **Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]]
-**Characters:** [[characters/satan|Satan]], [[characters/michael|Michael]], [[characters/christ|Christ]]
+**Characters:** Satan, Michael, Christ
 
 ## Testo integrale / Full text
 

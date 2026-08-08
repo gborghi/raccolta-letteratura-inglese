@@ -21,7 +21,7 @@ tags:
 
 INTRODUZIONE
 
-L'autore di questo libro, mio fratello, morì in un ospedale militare francese per gli effetti dell'esposizione al freddo nell'ultimo feroce combattimento che spezzò la potenza prussiana sulla Cristianità; combattimento per cui si era offerto volontario dopo essere stato congedato per infermità e rimandato a [[motifs/home|casa]]. Ogni appunto che io possa buttar giù su di lui parrà per forza sconnesso e incongruo; poiché in un simile rapporto la [[motifs/memory|memoria]] è un guazzabuglio di generalizzazione e dettaglio, che le parole non sanno dire. Una cosa almeno può dirsi qui a proposito. Prima di morire fece almeno due cose che desiderava. Una può sembrare assai più grande dell'altra; ma egli non avrebbe esitato a nominarle insieme. Vide la fine di un impero che era l'incubo delle nazioni; ma credo gli piacque quasi altrettanto l'esser riuscito, spesso negli intervalli della guerra amara e col soccorso di una [[motifs/memory|memoria]] brillante, a mettere insieme queste pagine sulla [[concepts/history|storia]], così necessaria e così stranamente trascurata, della grande [[concepts/democracy|democrazia]] che egli non trattò mai con sufficienza, che non solo amò ma onorò.
+L'autore di questo libro, mio fratello, morì in un ospedale militare francese per gli effetti dell'esposizione al freddo nell'ultimo feroce combattimento che spezzò la potenza prussiana sulla Cristianità; combattimento per cui si era offerto volontario dopo essere stato congedato per infermità e rimandato a [[motifs/home|casa]]. Ogni appunto che io possa buttar giù su di lui parrà per forza sconnesso e incongruo; poiché in un simile rapporto la [[motifs/memory|memoria]] è un guazzabuglio di generalizzazione e dettaglio, che le parole non sanno dire. Una cosa almeno può dirsi qui a proposito. Prima di morire fece almeno due cose che desiderava. Una può sembrare assai più grande dell'altra; ma egli non avrebbe esitato a nominarle insieme. Vide la fine di un impero che era l'[[nightmare|incubo]] delle nazioni; ma credo gli piacque quasi altrettanto l'esser riuscito, spesso negli intervalli della guerra amara e col soccorso di una [[motifs/memory|memoria]] brillante, a mettere insieme queste pagine sulla [[concepts/history|storia]], così necessaria e così stranamente trascurata, della grande [[concepts/democracy|democrazia]] che egli non trattò mai con sufficienza, che non solo amò ma onorò.
 
 Cecil Edward Chesterton nacque il 12 novembre 1879; e vi è uno speciale, se pur
 secondario, senso in cui possiamo usare la frase che egli nacque combattente.
@@ -31,14 +31,14 @@ una [[concepts/truth|verità]] riguardo ai nostri rapporti: che discutevamo perp
 non litigammo mai. In un certo senso era la [[concepts/truth|verità]] psicologica,
 immagino, che non litigammo mai perché discutevamo sempre.
 La sua lucidità e il suo [[motifs/love|amore]] della [[concepts/truth|verità]] mantennero le cose tanto sul piano
-della logica, che il resto dei nostri rapporti rimase, grazie a Dio,
+della [[logic|logica]], che il resto dei nostri rapporti rimase, grazie a Dio,
 in solida simpatia; molto prima di quel [[motifs/time|tempo]] posteriore in cui, in sostanza,
 la nostra discussione era divenuta un accordo. Né, credo, il
 processo fu privo di valore; poiché almeno imparammo ad argomentare in difesa
 del nostro accordo. Ma la retrospettiva merita ora un pensiero solo
 perché illustra una dualità che a lui pareva, ed è,
 assai semplice; ma che a molti è sconcertante nella sua stessa semplicità.
-Quando dico che la sua arma era la logica, la si confonderà correntemente
+Quando dico che la sua arma era la [[logic|logica]], la si confonderà correntemente
 con la formalità o persino con la freddezza: una sciocca superstizione raffigura sempre
 il logico come un pedante dal volto pallido. Egli era una prova vivente,
 una prova assai vivente, che è vero precisamente il contrario.
@@ -85,8 +85,8 @@ gli armeggioni della [[concepts/reform|Riforma]] sociale come i congiurati dello
 Egli era, sopra ogni cosa, un democratico oltre [[motifs/well|che]] un socialista;
 e in quella setta intellettuale cominciò a sentirsi come se fosse
 il solo socialista che era anche democratico. La sua dogmatica,
-democratica convinzione basterebbe da sola a illustrare la falsità
-del contrasto tra la logica e la vita. L'idea dell'uguaglianza umana
+democratica convinzione basterebbe [[Alone|da sola]] a illustrare la falsità
+del contrasto tra la [[logic|logica]] e la vita. L'idea dell'uguaglianza umana
 esisteva con straordinaria chiarezza nel suo cervello, precisamente perché
 esisteva con straordinaria semplicità nel suo carattere.
 Le sue simpatie popolari, a differenza di tanti sentimenti popolari,
@@ -109,7 +109,7 @@ e un ragionato sistema da opporgli. La teoria che sostituì al socialismo
 è quella che per comodità può essere chiamata Distributismo;
 la teoria che la proprietà privata è propria di ogni privato cittadino.
 Non è questo il luogo per la sua esposizione; ma sarà evidente che
-una tale [[concepts/conversion|conversione]] mette il convertito in contatto con tradizioni assai più antiche
+una tale [[concepts/conversion|conversione]] mette il [[convert|convertito]] in contatto con tradizioni assai più antiche
 della [[concepts/freedom|libertà]] umana, quali si esprimono nella famiglia o nella corporazione.
 E fu press'a poco nello stesso [[motifs/time|tempo]] che, avendo per qualche [[motifs/time|tempo]] tenuto
 una posizione anglo-cattolica, egli entrò nella [[historical-references/catholic-church|Chiesa cattolica]] romana.
@@ -119,7 +119,7 @@ come questo, egli fu ancora una volta caratteristicamente divertito e infastidit
 dai sentimentalisti, simpatizzanti od ostili, che supponevano
 fosse attratto dal rito, dalla musica e dal misticismo emotivo.
 Diceva a costoro, con loro qualche sconcerto, di essersi
-convertito perché Roma soltanto poteva soddisfare la ragione.
+convertito perché Roma [[Alone|soltanto]] poteva soddisfare la ragione.
 Nel suo caso, naturalmente, come in quello di Newman e di innumerevoli altri,
 persone [[motifs/well|ben]]intenzionate concepivano mille spiegazioni contorte o
 complicate, piuttosto che supporre che un uomo palesemente
@@ -146,13 +146,13 @@ Tali uomini potevano avere una vaga visione di bandiere rosse e cravatte rosse s
 in un eterno tumulto al di sopra della caduta dei cilindri e delle [[concepts/union|Union]] Jacks;
 ma egli sapeva che il socialismo istituito significava socialismo ufficiale,
 e condotto da una qualche specie di funzionari. Tutte le forme primarie
-di proprietà privata dovevano essere date al governo;
+di proprietà privata dovevano essere date al [[government|governo]];
 e gli venne in mente, come naturale precauzione, di dare un'occhiata
-al governo. Prestò qualche attenzione ai tipi e ai metodi effettivi
+al [[government|governo]]. Prestò qualche attenzione ai tipi e ai metodi effettivi
 di quella classe governante e ufficiale, nel cui potere
 tram e commerci e negozi e case stavano già passando,
 tra fragorosi evviva fabiani per il progresso del socialismo.
-Guardò il moderno governo parlamentare; lo guardò
+Guardò il moderno [[government|governo]] parlamentare; lo guardò
 razionalmente e fermamente e non senza riflessione.
 E la conseguenza fu che venne messo alla sbarra, e quasi
 messo in gattabuia, per averlo chiamato con il suo nome.
@@ -172,16 +172,16 @@ Esiste ancora una straordinaria convinzione che il _New Witness_
 denunciasse i Ministri per aver giocato in Borsa.
 Poteva essere sconveniente che i Ministri giocassero d'azzardo; ma il gioco d'azzardo era
 certo non un misfatto che avrebbe indurito con qualche speciale
-orrore un Anti-Puritano tanto cordiale come l'uomo di cui scrivo.
+orrore un [[anti-puritan|Anti-Puritano]] tanto cordiale come l'uomo di cui scrivo.
 Il caso Marconi non sollevava la difficile etica del gioco d'azzardo,
 ma la perfettamente semplice etica delle commissioni segrete.
-L'accusa contro i Ministri era che, mentre un contratto governativo
+L'accusa contro i Ministri era che, mentre un contratto [[government|governativo]]
 era in esame, essi tentarono di far denaro grazie a una soffiata segreta,
-data loro dallo stesso appaltatore governativo con cui il loro governo
+data loro dallo stesso appaltatore [[government|governativo]] con cui il loro [[government|governo]]
 doveva presumibilmente trattare. Questo è ciò che il loro accusatore asseriva;
 ma non è a questo che essi tentarono di rispondere con un processo.
-Egli fu perseguito, non per ciò che aveva detto del governo,
-ma per alcune cose secondarie che aveva detto dell'appaltatore governativo.
+Egli fu perseguito, non per ciò che aveva detto del [[government|governo]],
+ma per alcune cose secondarie che aveva detto dell'appaltatore [[government|governativo]].
 Quest'ultimo, il signor Godfrey Isaacs, ottenne un verdetto per diffamazione criminale;
 e il giudice inflisse una multa di 100 sterline. I lettori possono per caso
 aver notato i successivi episodi della vita del signor Isaacs,
@@ -195,7 +195,7 @@ autorità legale, che a meno di addurre certe scuse
 sarebbe di certo andato in [[motifs/prison|prigione]] per parecchi anni. Egli non addusse
 quelle scuse; e credo che non gli passasse nemmeno per la mente di farlo.
 La sua [[concepts/freedom|libertà]] da ogni sorta di [[concepts/fear|paura]] aveva in sé una specie di solida
-inconsapevolezza e persino innocenza. Questa qualità omogenea è
+inconsapevolezza e persino [[innocence|innocenza]]. Questa qualità omogenea è
 stata mirabilmente colta e riassunta dal signor Belloc in un omaggio di grande
 [[concepts/truth|verità]] e forza. "Il suo [[concepts/courage|coraggio]] era eroico, nativo, positivo e costante:
 sempre alla più alta potenzialità del [[concepts/courage|coraggio]]. In vita sua non frenò mai
@@ -218,7 +218,7 @@ Ma cose ancor più profonde del patriottismo lo spingevano contro il prussianesi
 Suo nemico era il barbaro quando riduce in schiavitù, cosa ancor più
 infernale del barbaro quando uccide. Suo era l'istinto spirituale
 per cui l'ordine prussiano era peggiore dell'anarchia prussiana;
-e nulla era tanto inumano quanto un inumano umanitarismo.
+e nulla era tanto inumano quanto un inumano [[Humanitarianism|umanitarismo]].
 Se gli aveste chiesto per che cosa combatté e morì tra i devastati
 campi di Francia e di Fiandra, molto probabilmente avrebbe risposto
 che era per salvare il mondo dalle riforme sociali tedesche.
@@ -259,7 +259,7 @@ of generalisation and detail, not to be uttered in words.
 One thing at least may fitly be said here.  Before he died he did
 at least two things that he desired.  One may seem much greater than
 the other; but he would not have shrunk from naming them together.
-He saw the end of an empire that was the nightmare of the nations;
+He saw the end of an empire that was the [[nightmare]] of the nations;
 but I believe it pleased him almost as much that he had been able,
 often in the intervals of bitter warfare and by the aid of a
 brilliant [[motifs/memory|memory]], to put together these pages on the [[concepts/history|history]],
@@ -273,7 +273,7 @@ which he never patronised, which he not only loved but honoured.
 
 INTRODUZIONE
 
-L'autore di questo libro, mio fratello, morì in un ospedale militare francese per gli effetti dell'esposizione al freddo nell'ultimo feroce combattimento che spezzò la potenza prussiana sulla Cristianità; combattimento per cui si era offerto volontario dopo essere stato congedato per infermità e rimandato a [[motifs/home|casa]]. Ogni appunto che io possa buttar giù su di lui parrà per forza sconnesso e incongruo; poiché in un simile rapporto la [[motifs/memory|memoria]] è un guazzabuglio di generalizzazione e dettaglio, che le parole non sanno dire. Una cosa almeno può dirsi qui a proposito. Prima di morire fece almeno due cose che desiderava. Una può sembrare assai più grande dell'altra; ma egli non avrebbe esitato a nominarle insieme. Vide la fine di un impero che era l'incubo delle nazioni; ma credo gli piacque quasi altrettanto l'esser riuscito, spesso negli intervalli della guerra amara e col soccorso di una [[motifs/memory|memoria]] brillante, a mettere insieme queste pagine sulla [[concepts/history|storia]], così necessaria e così stranamente trascurata, della grande [[concepts/democracy|democrazia]] che egli non trattò mai con sufficienza, che non solo amò ma onorò.
+L'autore di questo libro, mio fratello, morì in un ospedale militare francese per gli effetti dell'esposizione al freddo nell'ultimo feroce combattimento che spezzò la potenza prussiana sulla Cristianità; combattimento per cui si era offerto volontario dopo essere stato congedato per infermità e rimandato a [[motifs/home|casa]]. Ogni appunto che io possa buttar giù su di lui parrà per forza sconnesso e incongruo; poiché in un simile rapporto la [[motifs/memory|memoria]] è un guazzabuglio di generalizzazione e dettaglio, che le parole non sanno dire. Una cosa almeno può dirsi qui a proposito. Prima di morire fece almeno due cose che desiderava. Una può sembrare assai più grande dell'altra; ma egli non avrebbe esitato a nominarle insieme. Vide la fine di un impero che era l'[[nightmare|incubo]] delle nazioni; ma credo gli piacque quasi altrettanto l'esser riuscito, spesso negli intervalli della guerra amara e col soccorso di una [[motifs/memory|memoria]] brillante, a mettere insieme queste pagine sulla [[concepts/history|storia]], così necessaria e così stranamente trascurata, della grande [[concepts/democracy|democrazia]] che egli non trattò mai con sufficienza, che non solo amò ma onorò.
 
 
 
@@ -289,14 +289,14 @@ one [[concepts/truth|truth]] about our relations:  that we perpetually argued an
 we never quarrelled.  In a sense it was the psychological [[concepts/truth|truth]],
 I fancy, that we never quarrelled because we always argued.
 His lucidity and [[motifs/love|love]] of [[concepts/truth|truth]] kept things so much on the level
-of logic, that the rest of our relations remained, thank God,
+of [[logic]], that the rest of our relations remained, thank God,
 in solid sympathy; long before that later [[motifs/time|time]] when, in substance,
 our argument had become an agreement.  Nor, I think, was the
 process valueless; for at least we learnt how to argue in defence
 of our agreement.  But the retrospect is only worth a thought now,
 because it illustrates a duality which seemed to him, and is,
 very simple; but to many is baffling in its very simplicity.
-When I say his weapon was logic, it will be currently confused
+When I say his weapon was [[logic]], it will be currently confused
 with formality or even frigidity:  a silly superstition always
 pictures the logician as a pale-faced prig.  He was a living proof,
 a very living proof, that the precise contrary is the case.
@@ -344,8 +344,8 @@ the potterers of Social [[concepts/reform|Reform]] as the plotters of the Servil
 He was himself, above all things, a democrat as [[motifs/well|well]] as a Socialist;
 and in that intellectual sect he began to feel as if he were
 the only Socialist who was also a democrat.  His dogmatic,
-democratic conviction would alone illustrate the falsity of
-the contrast between logic and life.  The idea of human equality
+democratic conviction would [[Alone|alone]] illustrate the falsity of
+the contrast between [[logic]] and life.  The idea of human equality
 existed with extraordinary clarity in his brain, precisely because
 it existed with extraordinary simplicity in his character.
 His popular sympathies, unlike so many popular sentiments,
@@ -368,14 +368,14 @@ una [[concepts/truth|verità]] riguardo ai nostri rapporti: che discutevamo perp
 non litigammo mai. In un certo senso era la [[concepts/truth|verità]] psicologica,
 immagino, che non litigammo mai perché discutevamo sempre.
 La sua lucidità e il suo [[motifs/love|amore]] della [[concepts/truth|verità]] mantennero le cose tanto sul piano
-della logica, che il resto dei nostri rapporti rimase, grazie a Dio,
+della [[logic|logica]], che il resto dei nostri rapporti rimase, grazie a Dio,
 in solida simpatia; molto prima di quel [[motifs/time|tempo]] posteriore in cui, in sostanza,
 la nostra discussione era divenuta un accordo. Né, credo, il
 processo fu privo di valore; poiché almeno imparammo ad argomentare in difesa
 del nostro accordo. Ma la retrospettiva merita ora un pensiero solo
 perché illustra una dualità che a lui pareva, ed è,
 assai semplice; ma che a molti è sconcertante nella sua stessa semplicità.
-Quando dico che la sua arma era la logica, la si confonderà correntemente
+Quando dico che la sua arma era la [[logic|logica]], la si confonderà correntemente
 con la formalità o persino con la freddezza: una sciocca superstizione raffigura sempre
 il logico come un pedante dal volto pallido. Egli era una prova vivente,
 una prova assai vivente, che è vero precisamente il contrario.
@@ -422,8 +422,8 @@ gli armeggioni della [[concepts/reform|Riforma]] sociale come i congiurati dello
 Egli era, sopra ogni cosa, un democratico oltre [[motifs/well|che]] un socialista;
 e in quella setta intellettuale cominciò a sentirsi come se fosse
 il solo socialista che era anche democratico. La sua dogmatica,
-democratica convinzione basterebbe da sola a illustrare la falsità
-del contrasto tra la logica e la vita. L'idea dell'uguaglianza umana
+democratica convinzione basterebbe [[Alone|da sola]] a illustrare la falsità
+del contrasto tra la [[logic|logica]] e la vita. L'idea dell'uguaglianza umana
 esisteva con straordinaria chiarezza nel suo cervello, precisamente perché
 esisteva con straordinaria semplicità nel suo carattere.
 Le sue simpatie popolari, a differenza di tanti sentimenti popolari,
@@ -452,7 +452,7 @@ system to oppose to it.  The theory he substituted for Socialism
 is that which may for convenience be called Distributivism;
 the theory that private property is proper to every private citizen.
 This is no place for its exposition; but it will be evident that
-such a [[concepts/conversion|conversion]] brings the convert into touch with much older
+such a [[concepts/conversion|conversion]] brings the [[convert]] into touch with much older
 traditions of human [[concepts/freedom|freedom]], as expressed in the family or the guild.
 And it was about the same [[motifs/time|time]] that, having for some [[motifs/time|time]] held
 an Anglo-Catholic position, he joined the Roman [[historical-references/catholic-church|Catholic Church]].
@@ -462,7 +462,7 @@ as this, he was again characteristically amused and annoyed
 with the sentimentalists, sympathetic or hostile, who supposed
 he was attracted by ritual, music, and emotional mysticism.
 He told such people, somewhat to their bewilderment, that he had
-been converted because Rome alone could satisfy the reason.
+been converted because Rome [[Alone|alone]] could satisfy the reason.
 In his case, of course, as in Newman's and numberless others,
 [[motifs/well|well]]-meaning people conceived a thousand crooked or
 complicated explanations, rather than suppose that an obviously
@@ -489,13 +489,13 @@ Such men might have a vague vision of red flags and red ties waving
 in an everlasting riot above the fall of top-hats and [[concepts/union|Union]] Jacks;
 but he knew that Socialism established meant Socialism official,
 and conducted by some sort of officials.  All the primary
-forms of private property were to be given to the government;
+forms of private property were to be given to the [[government]];
 and it occurred to him, as a natural precaution, to give a glance
-at the government.  He gave some attention to the actual types
+at the [[government]].  He gave some attention to the actual types
 and methods of that governing and official class, into whose
 power trams and trades and shops and houses were already passing,
 amid loud Fabian cheers for the progress of Socialism.
-He looked at modern parliamentary government; he looked
+He looked at modern parliamentary [[government]]; he looked
 at it rationally and steadily and not without reflection.
 And the consequence was that he was put in the dock, and very
 nearly put in the lock-up, for calling it what it is.
@@ -515,16 +515,16 @@ An extraordinary notion still exists that the _New Witness_
 denounced Ministers for gambling on the Stock Exchange.
 It might be improper for Ministers to gamble; but gambling was
 certainly not a misdemeanor that would have hardened with any special
-horror so hearty an Anti-Puritan as the man of whom I write.
+horror so hearty an [[anti-puritan|Anti-Puritan]] as the man of whom I write.
 The Marconi case did not raise the difficult ethics of gambling,
 but the perfectly plain ethics of secret commissions.
-The charge against the Ministers was that, while a government contract
+The charge against the Ministers was that, while a [[government]] contract
 was being considered, they tried to make money out of a secret tip,
-given them by the very government contractor with whom their government
+given them by the very [[government]] contractor with whom their [[government]]
 was supposed to be bargaining.  This was what their accuser asserted;
 but this was not what they attempted to answer by a prosecution.
-He was prosecuted, not for what he had said of the government,
-but for some secondary things he had said of the government contractor.
+He was prosecuted, not for what he had said of the [[government]],
+but for some secondary things he had said of the [[government]] contractor.
 The latter, Mr. Godfrey Isaacs, gained a verdict for criminal libel;
 and the judge inflicted a fine of £100. Readers may have chanced
 to note the subsequent incidents in the life of Mr. Isaacs,
@@ -545,7 +545,7 @@ e un ragionato sistema da opporgli. La teoria che sostituì al socialismo
 è quella che per comodità può essere chiamata Distributismo;
 la teoria che la proprietà privata è propria di ogni privato cittadino.
 Non è questo il luogo per la sua esposizione; ma sarà evidente che
-una tale [[concepts/conversion|conversione]] mette il convertito in contatto con tradizioni assai più antiche
+una tale [[concepts/conversion|conversione]] mette il [[convert|convertito]] in contatto con tradizioni assai più antiche
 della [[concepts/freedom|libertà]] umana, quali si esprimono nella famiglia o nella corporazione.
 E fu press'a poco nello stesso [[motifs/time|tempo]] che, avendo per qualche [[motifs/time|tempo]] tenuto
 una posizione anglo-cattolica, egli entrò nella [[historical-references/catholic-church|Chiesa cattolica]] romana.
@@ -555,7 +555,7 @@ come questo, egli fu ancora una volta caratteristicamente divertito e infastidit
 dai sentimentalisti, simpatizzanti od ostili, che supponevano
 fosse attratto dal rito, dalla musica e dal misticismo emotivo.
 Diceva a costoro, con loro qualche sconcerto, di essersi
-convertito perché Roma soltanto poteva soddisfare la ragione.
+convertito perché Roma [[Alone|soltanto]] poteva soddisfare la ragione.
 Nel suo caso, naturalmente, come in quello di Newman e di innumerevoli altri,
 persone [[motifs/well|ben]]intenzionate concepivano mille spiegazioni contorte o
 complicate, piuttosto che supporre che un uomo palesemente
@@ -582,13 +582,13 @@ Tali uomini potevano avere una vaga visione di bandiere rosse e cravatte rosse s
 in un eterno tumulto al di sopra della caduta dei cilindri e delle [[concepts/union|Union]] Jacks;
 ma egli sapeva che il socialismo istituito significava socialismo ufficiale,
 e condotto da una qualche specie di funzionari. Tutte le forme primarie
-di proprietà privata dovevano essere date al governo;
+di proprietà privata dovevano essere date al [[government|governo]];
 e gli venne in mente, come naturale precauzione, di dare un'occhiata
-al governo. Prestò qualche attenzione ai tipi e ai metodi effettivi
+al [[government|governo]]. Prestò qualche attenzione ai tipi e ai metodi effettivi
 di quella classe governante e ufficiale, nel cui potere
 tram e commerci e negozi e case stavano già passando,
 tra fragorosi evviva fabiani per il progresso del socialismo.
-Guardò il moderno governo parlamentare; lo guardò
+Guardò il moderno [[government|governo]] parlamentare; lo guardò
 razionalmente e fermamente e non senza riflessione.
 E la conseguenza fu che venne messo alla sbarra, e quasi
 messo in gattabuia, per averlo chiamato con il suo nome.
@@ -608,16 +608,16 @@ Esiste ancora una straordinaria convinzione che il _New Witness_
 denunciasse i Ministri per aver giocato in Borsa.
 Poteva essere sconveniente che i Ministri giocassero d'azzardo; ma il gioco d'azzardo era
 certo non un misfatto che avrebbe indurito con qualche speciale
-orrore un Anti-Puritano tanto cordiale come l'uomo di cui scrivo.
+orrore un [[anti-puritan|Anti-Puritano]] tanto cordiale come l'uomo di cui scrivo.
 Il caso Marconi non sollevava la difficile etica del gioco d'azzardo,
 ma la perfettamente semplice etica delle commissioni segrete.
-L'accusa contro i Ministri era che, mentre un contratto governativo
+L'accusa contro i Ministri era che, mentre un contratto [[government|governativo]]
 era in esame, essi tentarono di far denaro grazie a una soffiata segreta,
-data loro dallo stesso appaltatore governativo con cui il loro governo
+data loro dallo stesso appaltatore [[government|governativo]] con cui il loro [[government|governo]]
 doveva presumibilmente trattare. Questo è ciò che il loro accusatore asseriva;
 ma non è a questo che essi tentarono di rispondere con un processo.
-Egli fu perseguito, non per ciò che aveva detto del governo,
-ma per alcune cose secondarie che aveva detto dell'appaltatore governativo.
+Egli fu perseguito, non per ciò che aveva detto del [[government|governo]],
+ma per alcune cose secondarie che aveva detto dell'appaltatore [[government|governativo]].
 Quest'ultimo, il signor Godfrey Isaacs, ottenne un verdetto per diffamazione criminale;
 e il giudice inflisse una multa di 100 sterline. I lettori possono per caso
 aver notato i successivi episodi della vita del signor Isaacs,
@@ -636,7 +636,7 @@ converging legal authority, that unless he offered certain excuses
 he would certainly go to [[motifs/prison|prison]] for several years.  He did not offer
 those excuses; and I believe it never occurred to him to do so.
 His [[concepts/freedom|freedom]] from [[concepts/fear|fear]] of all kinds had about it a sort of solid
-unconsciousness and even innocence.  This homogeneous quality in it has
+unconsciousness and even [[innocence]].  This homogeneous quality in it has
 been admirably seized and summed up by Mr. Belloc in a tribute of great
 [[concepts/truth|truth]] and power.  "His [[concepts/courage|courage]] was heroic, native, positive and equal:
 always at the highest potentiality of [[concepts/courage|courage]].  He never in his life
@@ -659,7 +659,7 @@ But things even deeper than patriotism impelled him against Prussianism.
 His enemy was the barbarian when he enslaves, as something more
 hellish even than the barbarian when he slays.  His was the spiritual
 instinct by which Prussian order was worse than Prussian anarchy;
-and nothing was so inhuman as an inhuman humanitarianism.
+and nothing was so inhuman as an inhuman [[Humanitarianism|humanitarianism]].
 If you had asked him for what he fought and died amid the wasted
 fields of France and Flanders, he might very probably have answered
 that it was to save the world from German social reforms.
@@ -691,7 +691,7 @@ autorità legale, che a meno di addurre certe scuse
 sarebbe di certo andato in [[motifs/prison|prigione]] per parecchi anni. Egli non addusse
 quelle scuse; e credo che non gli passasse nemmeno per la mente di farlo.
 La sua [[concepts/freedom|libertà]] da ogni sorta di [[concepts/fear|paura]] aveva in sé una specie di solida
-inconsapevolezza e persino innocenza. Questa qualità omogenea è
+inconsapevolezza e persino [[innocence|innocenza]]. Questa qualità omogenea è
 stata mirabilmente colta e riassunta dal signor Belloc in un omaggio di grande
 [[concepts/truth|verità]] e forza. "Il suo [[concepts/courage|coraggio]] era eroico, nativo, positivo e costante:
 sempre alla più alta potenzialità del [[concepts/courage|coraggio]]. In vita sua non frenò mai
@@ -714,7 +714,7 @@ Ma cose ancor più profonde del patriottismo lo spingevano contro il prussianesi
 Suo nemico era il barbaro quando riduce in schiavitù, cosa ancor più
 infernale del barbaro quando uccide. Suo era l'istinto spirituale
 per cui l'ordine prussiano era peggiore dell'anarchia prussiana;
-e nulla era tanto inumano quanto un inumano umanitarismo.
+e nulla era tanto inumano quanto un inumano [[Humanitarianism|umanitarismo]].
 Se gli aveste chiesto per che cosa combatté e morì tra i devastati
 campi di Francia e di Fiandra, molto probabilmente avrebbe risposto
 che era per salvare il mondo dalle riforme sociali tedesche.

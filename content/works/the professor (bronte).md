@@ -54,12 +54,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/lover|Lover]], [[archetypes/outsider|Outsider]]
+**Archetypes:** Self-Made Man, Lover, Outsider
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/self-reliance-and-earned-success|Self-Reliance and Earned Success]], [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/education|Education]], [[concepts/identity|Identity]], [[concepts/class-conflict|Class Conflict]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/faith|Faith]], [[concepts/common-man|Common Man]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/bildungsroman|Bildungsroman]], [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/nonfiction|Nonfiction]]
 **Settings:** [[settings/industrial-city|Industrial City]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]]
-**Characters:** [[characters/william-crimsworth|William Crimsworth]], [[characters/frances-henri|Frances Henri]], [[characters/edward-crimsworth|Edward Crimsworth]], [[characters/monsieur-pelet|Monsieur Pelet]], [[characters/zoraide-reuter|Zoraide Reuter]], [[characters/yorke-hunsden|Yorke Hunsden]]
+**Characters:** William Crimsworth, Frances Henri, Edward Crimsworth, Monsieur Pelet, Zoraide Reuter, Yorke Hunsden
 
 ## Testo integrale / Full text
 

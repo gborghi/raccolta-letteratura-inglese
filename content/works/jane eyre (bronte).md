@@ -60,13 +60,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/orphan|Orphan]], [[archetypes/outsider|Outsider]], [[archetypes/lover|Lover]], [[archetypes/madwoman|Madwoman]]
+**Archetypes:** Orphan, Outsider, Lover, Madwoman
 **Motifs:** [[motifs/fire|Fire]], [[motifs/madness-(2)|Madness (2)]], [[motifs/supernatural|Supernatural]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/great-house|Great House]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/conscience|Conscience]], [[concepts/faith|Faith]], [[concepts/identity|Identity]], [[concepts/alienation|Alienation]], [[concepts/class-conflict|Class Conflict]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/madness|Madness]], [[concepts/temptation|Temptation]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/bildungsroman|Bildungsroman]], [[forms/gothic-novel|Gothic Novel]], [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/christianity|Christianity]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** [[characters/jane-eyre|Jane Eyre]], [[characters/mr-rochester|Mr Rochester]], [[characters/bertha-mason|Bertha Mason]], [[characters/st-john-rivers|St John Rivers]], [[characters/mrs-reed|Mrs Reed]], [[characters/mrs-fairfax|Mrs Fairfax]], [[characters/adele-varens|Adele Varens]], [[characters/helen-burns|Helen Burns]]
+**Characters:** Jane Eyre, Mr Rochester, Bertha Mason, St John Rivers, Mrs Reed, Mrs Fairfax, Adele Varens, Helen Burns
 
 ## Testo integrale / Full text
 

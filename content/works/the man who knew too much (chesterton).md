@@ -62,9 +62,9 @@ tags:
 
 **Topoi:** [[topoi/last-stand|Last Stand]]
 
-**Characters:** [[characters/horne-fisher|Horne Fisher]], [[characters/harold-march|Harold March]]
+**Characters:** Horne Fisher, Harold March
 
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/martyr-saint|Martyr Saint]]
+**Archetypes:** Detective, Corrupt Official, Martyr Saint
 **Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/disillusionment|Disillusionment]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/satire-of-society|Satire of Society]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/conscience|Conscience]], [[concepts/war-and-its-cost|War and its Cost]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
 

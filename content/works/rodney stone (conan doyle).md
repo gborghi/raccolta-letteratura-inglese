@@ -75,5 +75,5 @@ tags:
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/nelson|Nelson]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
 **Characters:** [[historical-references/nelson|Nelson]]
-**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/mentor|Mentor]], [[archetypes/ghost|Ghost]]
+**Archetypes:** Hero, Mentor, Ghost
 **Topoi:** [[topoi/journey-of-life|Journey of Life]]

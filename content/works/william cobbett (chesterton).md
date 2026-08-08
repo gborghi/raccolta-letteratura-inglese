@@ -77,10 +77,10 @@ tags:
 
 ## Connections
 
-**Characters:** [[characters/william-cobbett|William Cobbett]], [[characters/thomas-paine|Thomas Paine]], [[characters/william-pitt|William Pitt]], [[characters/robert-peel|Robert Peel]], [[characters/daniel-o'connell|Daniel O'Connell]]
+**Characters:** William Cobbett, Thomas Paine, William Pitt, Robert Peel, Daniel O'Connell
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/golden-age|Golden Age]]
-**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/prophet|Prophet]], [[archetypes/rebel|Rebel]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/outsider|Outsider]]
+**Archetypes:** Self-Made Man, Prophet, Rebel, Martyr Saint, Tragic Hero, Outsider
 **Motifs:** [[motifs/journey|Journey]], [[motifs/storm|Storm]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/bees|Bees]], [[motifs/road|Road]], [[motifs/horse|Horse]], [[motifs/cross|Cross]], [[motifs/great-house|Great House]]
 **Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/common-man|Common Man]], [[concepts/reform|Reform]], [[concepts/social-injustice|Social Injustice]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/class-conflict|Class Conflict]], [[concepts/poverty|Poverty]], [[concepts/honour|Honour]], [[concepts/truth|Truth]], [[concepts/paradox|Paradox]], [[concepts/martyrdom|Martyrdom]], [[concepts/education|Education]], [[concepts/loneliness|Loneliness]], [[concepts/greatness|Greatness]], [[concepts/democracy|Democracy]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/biography|Biography]], [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]

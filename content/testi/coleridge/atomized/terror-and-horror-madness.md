@@ -11,14 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/terror-and-horror-madness" data-author="Coleridge" data-workhref="works/terror-and-horror-·-madness-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="014_anna_and_harland" data-title="ANNA AND HARLAND" data-chapter="" data-kind="intro" data-tags="archetype/ghost,motif/ghosts,motif/the_grave,motif/memory,concept/love_romantic,concept/grief_and_loss,form/sonnet,form/narrative_poem,cluster/terror_and_horror,cluster/madness"></span>
+<span class="atom-split" data-atom="014_anna_and_harland" data-title="ANNA AND HARLAND" data-chapter="" data-kind="intro"></span>
 
 
 Within these wilds was Anna wont to rove  
 While Harland told his [[motifs/love|love]] in many a sigh,  
 But stern on Harland roll’d her brother’s eye,  
 They fought, they fell — her brother and her [[motifs/love|love]]!  
-To [[motifs/death|Death]]’s dark house did grief-worn Anna haste,   5  
+To [[motifs/death|Death]]’s dark [[house]] did grief-worn Anna haste,   5  
 Yet here her pensive [[archetypes/ghost|ghost]] delights to stay;  
 Oft pouring on the winds the broken lay —  
 And hark, I hear her—’twas the passing blast.  
@@ -33,7 +33,7 @@ Like Heaven’s bright beauteous bow reflected in the stream.
 
 
 
-<span class="atom-split" data-atom="041_the_complaint_of_ninathómafrom_the_same" data-title="THE COMPLAINT OF NINATHÓMA:FROM THE SAME" data-chapter="" data-kind="intro" data-tags="archetype/ghost,motif/the_sea,motif/ghosts,motif/dreams,motif/storm,concept/grief_and_loss,concept/melancholy,form/lyric,setting/the_sea,cluster/terror_and_horror,cluster/madness"></span>
+<span class="atom-split" data-atom="041_the_complaint_of_ninathómafrom_the_same" data-title="THE COMPLAINT OF NINATHÓMA:FROM THE SAME" data-chapter="" data-kind="intro"></span>
 
 
 How long will ye round me be swelling,  
@@ -57,7 +57,7 @@ To howl through my cavern by [[motifs/night|night]].
 
 
 
-<span class="atom-split" data-atom="089_mrs_siddons" data-title="MRS. SIDDONS" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,motif/childhood,motif/night,concept/terror_and_horror,concept/the_sublime,form/sonnet,cluster/terror_and_horror,cluster/madness"></span>
+<span class="atom-split" data-atom="089_mrs_siddons" data-title="MRS. SIDDONS" data-chapter="" data-kind="intro"></span>
 
 
 As when a [[archetypes/child|child]] on some long [[motifs/winter|Winter]]’s [[motifs/night|night]]  
@@ -79,7 +79,7 @@ December 29, 1794.
 
 
 
-<span class="atom-split" data-atom="119_sonnet_composed_on_a_journey_homeward_the_author_having_received_intelligence" data-title="SONNET: COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE" data-chapter="" data-kind="intro" data-tags="motif/dreams,concept/the_uncanny,concept/self_and_soul,concept/childhood_and_growth,form/sonnet,cluster/terror_and_horror,cluster/madness"></span>
+<span class="atom-split" data-atom="119_sonnet_composed_on_a_journey_homeward_the_author_having_received_intelligence" data-title="SONNET: COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE" data-chapter="" data-kind="intro"></span>
 
 
 OF THE BIRTH OF A SON, SEPT. 20,    1796  
@@ -102,7 +102,7 @@ While we wept idly o’er thy little bier!
 
 
 
-<span class="atom-split" data-atom="193_the_mad_monk" data-title="THE MAD MONK" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/madness,motif/blood,motif/the_grave,concept/madness,concept/guilt,concept/grief_and_loss,concept/unrequited_love,form/ballad,cluster/terror_and_horror,cluster/madness"></span>
+<span class="atom-split" data-atom="193_the_mad_monk" data-title="THE MAD MONK" data-chapter="" data-kind="intro"></span>
 
 
 I heard a voice from Etna’s side;  
@@ -112,7 +112,7 @@ A chesnut spread its umbrage wide:
 A hermit or a monk the man might be;    5  
 But him I could not see:  
 And thus the music flow’d along,  
-In melody most like to old Sicilian song:  
+In melody most like to old Sicilian [[Song|song]]:  
 ‘There was a [[motifs/time|time]] when earth, and sea, and skies,  
 The bright green vale, and forest’s dark recess,   10  
 With all things, lay before mine eyes  
@@ -157,7 +157,7 @@ Down thro’ the forest I pursu’d my way.
 
 
 
-<span class="atom-split" data-atom="239_the_madman_and_the_lethargist" data-title="THE MADMAN AND THE LETHARGIST" data-chapter="" data-kind="intro" data-tags="archetype/fool,motif/madness,concept/madness,concept/satire_of_society,concept/doubt,form/fable,form/satire,histref/the_french_revolution,cluster/terror_and_horror,cluster/madness"></span>
+<span class="atom-split" data-atom="239_the_madman_and_the_lethargist" data-title="THE MADMAN AND THE LETHARGIST" data-chapter="" data-kind="intro"></span>
 
 
 AN EXAMPLE
@@ -185,7 +185,7 @@ Seem’d living only when he snor’d.
 The Citizen enraged to see
 This fat Insensibility,
 Or, tir’d with solitary labour,
-Determin’d to convert his neighbour;   25
+Determin’d to [[convert]] his neighbour;   25
 So up he sprang and to ‘t he fell,
 Like devil piping hot from hell,
 With indefatigable fist
@@ -211,7 +211,7 @@ Where Art sits down in blank [[concepts/despair|despair]].’
 
 
 
-<span class="atom-split" data-atom="379_a_dungeon" data-title="A DUNGEON" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/moon,motif/winter,motif/the_grave,motif/madness,motif/animals,concept/madness,concept/melancholy,form/fragment,cluster/terror_and_horror,cluster/madness"></span>
+<span class="atom-split" data-atom="379_a_dungeon" data-title="A DUNGEON" data-chapter="" data-kind="intro"></span>
 
 
 In darkness I remain’d — the neighb’ring [[motifs/clock|clock]]  

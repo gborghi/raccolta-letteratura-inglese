@@ -18,7 +18,7 @@ tags:
 - [[works/the-ballad-of-the-white-horse-(chesterton)|The Ballad of the White Horse (Chesterton)]]
 - [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
 - [[works/history-(chesterton)|history (Chesterton)]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#427_samuel_daniel|SAMUEL DANIEL (Coleridge)]]
+- [[works/samuel-daniel-(coleridge)|SAMUEL DANIEL (Coleridge)]]
 
 </div>
 

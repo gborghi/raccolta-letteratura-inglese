@@ -68,6 +68,6 @@ tags:
 **Motifs:** [[motifs/blood|Blood]], [[motifs/gallows|Gallows]], [[motifs/crown|Crown]]
 **Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]
 **Settings:** [[settings/france|France]], [[settings/paris|Paris]], [[settings/europe|Europe]]
-**Characters:** [[characters/robespierre|Robespierre]], [[characters/jean-jacques-rousseau|Jean-Jacques Rousseau]], [[characters/louis-xvi|Louis XVI]], [[characters/marie-antoinette|Marie Antoinette]], [[characters/danton|Danton]]
-**Archetypes:** [[archetypes/fanatic|Fanatic]], [[archetypes/tyrant|Tyrant]], [[archetypes/martyr-saint|Martyr Saint]]
+**Characters:** Robespierre, Jean-Jacques Rousseau, Louis XVI, Marie Antoinette, Danton
+**Archetypes:** Fanatic, Tyrant, Martyr Saint
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]

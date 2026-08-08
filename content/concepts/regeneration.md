@@ -15,9 +15,9 @@ tags:
 <div class="concept-works-fallback">
 
 - [[works/oak-(chesterton)|oak (Chesterton)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#194_old_ireland|Old Ireland (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#196_this_compost|This Compost (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#214_unfolded_out_of_the_folds|Unfolded out of the Folds (Whitman)]]
+- [[works/old-ireland-(whitman)|Old Ireland (Whitman)]]
+- [[works/this-compost-(whitman)|This Compost (Whitman)]]
+- [[works/unfolded-out-of-the-folds-(whitman)|Unfolded out of the Folds (Whitman)]]
 
 </div>
 

@@ -41,7 +41,7 @@ tags:
 
 **Historical References:** [[historical-references/christianity|Christianity]], [[concepts/communism|Communism]]
 
-**Archetypes:** [[archetypes/pharisee|Pharisee]]
+**Archetypes:** Pharisee
 
 **Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/class-conflict|Class Conflict]], [[concepts/reform|Reform]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/honour|Honour]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/individualism|Individualism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

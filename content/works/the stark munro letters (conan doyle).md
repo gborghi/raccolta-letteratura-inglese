@@ -60,6 +60,6 @@ tags:
 **Forms & Genres:** [[forms/epistolary-diary-novel|Epistolary Diary Novel]], [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/bildungsroman|Bildungsroman]]
 **Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/ambition|Ambition]], [[concepts/friendship|Friendship]], [[concepts/poverty|Poverty]], [[concepts/self-reliance|Self-Reliance]], [[concepts/reason-and-rationalism|Reason and Rationalism]]
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]]
-**Characters:** [[characters/stark-munro|Stark Munro]], [[characters/james-cullingworth|James Cullingworth]]
-**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/self-made-man|Self-Made Man]]
+**Characters:** Stark Munro, James Cullingworth
+**Archetypes:** Trickster, Self-Made Man
 **Topoi:** [[topoi/journey-of-life|Journey of Life]]

@@ -102,13 +102,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/double|Double]]
-**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]], [[archetypes/lover|Lover]]
+**Archetypes:** Fool, Trickster, Lover
 **Motifs:** [[motifs/marriage|Marriage]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/garden|Garden]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/identity|Identity]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/satire|Satire]], [[forms/epigram|Epigram]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
-**Characters:** [[characters/jack-worthing|Jack Worthing]], [[characters/algernon-moncrieff|Algernon Moncrieff]], [[characters/lady-bracknell|Lady Bracknell]], [[characters/gwendolen-fairfax|Gwendolen Fairfax]], [[characters/cecily-cardew|Cecily Cardew]], [[characters/miss-prism|Miss Prism]], [[characters/canon-chasuble|Canon Chasuble]]
+**Characters:** Jack Worthing, Algernon Moncrieff, Lady Bracknell, Gwendolen Fairfax, Cecily Cardew, Miss Prism, Canon Chasuble
 
 ## Testo integrale / Full text
 

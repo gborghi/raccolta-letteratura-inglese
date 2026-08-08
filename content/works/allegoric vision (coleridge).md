@@ -30,7 +30,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/quest|Quest]], [[topoi/seven-ages-of-man|Seven Ages of Man]]
-**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Archetypes:** Pilgrim
 **Motifs:** [[motifs/dreams|Dreams]], [[motifs/light-and-dark|Light and Dark]]
 **Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/faith|Faith]], [[concepts/melancholy|Melancholy]], [[concepts/doubt|Doubt]]
 **Forms & Genres:** [[forms/allegory|Allegory]]

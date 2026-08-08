@@ -56,6 +56,6 @@ tags:
 **Themes & Concepts:** [[concepts/wonder|Wonder]], [[concepts/reason-and-rationalism|Reason and Rationalism]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/courage|Courage]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/nature-vs-civilization|Nature vs Civilization]]
 **Motifs:** [[motifs/sea|Sea]], [[motifs/water|Water]], [[motifs/light-and-dark|Light and Dark]], [[motifs/journey|Journey]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Settings:** [[motifs/ship|Ship]]
-**Characters:** [[characters/professor-maracot|Professor Maracot]], [[characters/cyrus-headley|Cyrus Headley]], [[characters/bill-scanlan|Bill Scanlan]]
-**Archetypes:** [[archetypes/quest-hero|Quest Hero]], [[archetypes/mentor|Mentor]], [[archetypes/hero|Hero]]
+**Characters:** Professor Maracot, Cyrus Headley, Bill Scanlan
+**Archetypes:** Quest Hero, Mentor, Hero
 **Topoi:** [[topoi/katabasis-descent|Katabasis Descent]], [[topoi/golden-age|Golden Age]]

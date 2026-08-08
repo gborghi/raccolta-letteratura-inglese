@@ -36,5 +36,5 @@ tags:
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]]
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/secrets|Secrets]], [[motifs/money-and-gold|Money and Gold]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]], [[characters/professor-moriarty|Professor Moriarty]]
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
+**Characters:** Sherlock Holmes, Doctor Watson, Professor Moriarty
+**Archetypes:** Detective, Villain

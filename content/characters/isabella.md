@@ -14,7 +14,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/keats/atomized/joy-animals-comic-verse-song#030_isabella|ISABELLA (Keats)]]
+- [[works/isabella-(keats)|ISABELLA (Keats)]]
 - [[works/measure-for-measure-(shakespeare)|MEASURE FOR MEASURE (Shakespeare)]]
 
 </div>

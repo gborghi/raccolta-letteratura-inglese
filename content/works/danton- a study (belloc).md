@@ -48,6 +48,6 @@ tags:
 **Motifs:** [[motifs/blood|Blood]], [[motifs/gallows|Gallows]], [[motifs/prison|Prison]], [[motifs/battlefield-(2)|Battlefield (2)]]
 **Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/napoleon|Napoleon]]
 **Settings:** [[settings/france|France]], [[settings/paris|Paris]], [[settings/europe|Europe]]
-**Characters:** [[characters/robespierre|Robespierre]], [[historical-references/napoleon|Napoleon]]
-**Archetypes:** [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/rebel|Rebel]]
+**Characters:** Robespierre, [[historical-references/napoleon|Napoleon]]
+**Archetypes:** Tragic Hero, Rebel
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]

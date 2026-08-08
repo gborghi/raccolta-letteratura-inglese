@@ -34,11 +34,11 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/unattainable-beloved|Unattainable Beloved]]
-**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/innocent|Innocent]]
+**Archetypes:** Lover, Innocent
 **Motifs:** [[motifs/sea|Sea]], [[motifs/death|Death]], [[motifs/grave|Grave]], [[motifs/moon|Moon]], [[motifs/stars|Stars]], [[motifs/childhood|Childhood]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/immortality|Immortality]], [[concepts/melancholy|Melancholy]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]
-**Characters:** [[characters/annabel-lee|Annabel Lee]]
+**Characters:** Annabel Lee
 
 ## Testo integrale / Full text
 

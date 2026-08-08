@@ -81,7 +81,7 @@ tags:
 **Forms & Genres:** [[forms/history-play|History Play]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/wars-of-the-roses|Wars of the Roses]]
 **Settings:** [[settings/battlefield|Battlefield]]
-**Characters:** [[characters/henry-vi|Henry VI]], [[characters/lord-talbot|Lord Talbot]], [[characters/joan-la-pucelle|Joan la Pucelle]], [[characters/duke-of-gloucester|Duke of Gloucester]], [[characters/duke-of-york|Duke of York]], [[characters/earl-of-suffolk|Earl of Suffolk]], [[characters/charles-the-dauphin|Charles the Dauphin]], [[characters/margaret-of-anjou|Margaret of Anjou]]
+**Characters:** Henry VI, Lord Talbot, Joan la Pucelle, Duke of Gloucester, Duke of York, Earl of Suffolk, Charles the Dauphin, Margaret of Anjou
 
 ## Testo integrale / Full text
 

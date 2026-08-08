@@ -205,7 +205,7 @@ Not such a stanza splits the [[motifs/silence|silence]] —
 When the Redemption strikes her [[motifs/bells|Bells]] —  
 
 Let me not spill — its smallest cadence —  
-Humming — for promise — when alone —  
+Humming — for promise — when [[Alone|alone]] —  
 Humming — until my faint Rehearsal —  
 Drop into tune — around the Throne —
 
@@ -425,7 +425,7 @@ Were thoroughly divine
 "And with what [[concepts/body|body]] do they come?" —  
 Then they do come — Rejoice!  
 What [[motifs/door|Door]] — What Hour — Run — run — My [[motifs/soul|Soul]]!  
-Illuminate the House!  
+Illuminate the [[house|House]]!  
 
 "[[concepts/body|Body]]!" Then real — a Face and Eyes —  
 To know that it is them!  
@@ -477,7 +477,7 @@ The Phosphorous of [[characters/god|God]] —
 <span class="atom-split" data-atom="1657_eden_is_that_old-fashioned_house" data-title="1657. Eden is that old-fashioned House" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,topos/fall_from_innocence,concept/nostalgia,concept/innocence_and_experience,histref/the_bible,setting/a_garden,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
 
 
-Eden is that old-fashioned House  
+Eden is that old-fashioned [[house|House]]  
 We dwell in every day  
 Without suspecting our abode  
 Until we drive away.  
@@ -493,7 +493,7 @@ But discover it no more.
 <span class="atom-split" data-atom="1733_no_man_saw_awe_nor_to_his_house" data-title="1733. No man saw awe, nor to his house" data-chapter="" data-kind="intro" data-tags="archetype/prophet,concept/the_sublime,concept/faith,concept/terror_and_horror,concept/mortality,form/lyric,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
 
 
-No man saw awe, nor to his house  
+No man saw awe, nor to his [[house]]  
 Admitted he a man  
 Though by his awful residence  
 Has human [[concepts/nature|nature]] been.  

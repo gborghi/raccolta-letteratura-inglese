@@ -32,15 +32,15 @@ tags:
 - [[works/william-cobbett-(chesterton)|William Cobbett (Chesterton)]]
 - [[works/anti-religious-thought-(chesterton)|anti religious thought (Chesterton)]]
 - [[works/gargoyles-(chesterton)|gargoyles (Chesterton)]]
-- [[testi/coleridge/atomized/essay-critique-of-progress-common-man#069_on_the_prospect_of_establishing_a_pantisocracy_in_america|ON THE PROSPECT OF ESTABLISHING A PANTISOCRACY IN AMERICA (Coleridge)]]
-- [[testi/coleridge/atomized/essay-critique-of-progress-common-man#068_pantisocracy|PANTISOCRACY (Coleridge)]]
+- [[works/on-the-prospect-of-establishing-a-pantisocracy-in-america-(coleridge)|ON THE PROSPECT OF ESTABLISHING A PANTISOCRACY IN AMERICA (Coleridge)]]
+- [[works/pantisocracy-(coleridge)|PANTISOCRACY (Coleridge)]]
 - [[works/stolberg-(coleridge)-(3)|STOLBERG (Coleridge) (3)]]
 - [[works/hyperion-(keats)|Hyperion (Keats)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#038_robin_hood|ROBIN HOOD (Keats)]]
+- [[works/robin-hood-(keats)|ROBIN HOOD (Keats)]]
 - [[works/the-haunted-palace-(poe)|The Haunted Palace (Poe)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_059|Sonnet 59 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_067|Sonnet 67 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_068|Sonnet 68 (Shakespeare)]]
+- Sonnet 59 (Shakespeare)
+- Sonnet 67 (Shakespeare)
+- Sonnet 68 (Shakespeare)
 - [[works/the-soul-of-man-under-socialism-(wilde)|The Soul of Man under Socialism (Wilde)]]
 - [[works/the-maracot-deep-(conan-doyle)|The Maracot Deep (Conan Doyle)]]
 

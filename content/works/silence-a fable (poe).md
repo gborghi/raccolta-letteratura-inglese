@@ -34,7 +34,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/outsider|Outsider]]
+**Archetypes:** Satanic Figure, Outsider
 **Motifs:** [[motifs/silence|Silence]], [[motifs/supernatural|Supernatural]], [[motifs/storm|Storm]], [[motifs/river|River]], [[motifs/moon|Moon]], [[motifs/blood|Blood]], [[concepts/nature|Nature]]
 **Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/uncanny|Uncanny]], [[concepts/melancholy|Melancholy]]
 **Forms & Genres:** [[forms/fable|Fable]], [[forms/allegory|Allegory]]

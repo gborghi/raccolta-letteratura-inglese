@@ -97,7 +97,7 @@ I saw thee sitting, on a throne of gold, 70
 Among the Gods, upon Olympus old,  
 The only sad one; for thou didst not hear  
 The soft, lute-finger’d Muses chaunting clear,  
-Nor even [[characters/apollo|Apollo]] when he sang alone,  
+Nor even [[characters/apollo|Apollo]] when he sang [[Alone|alone]],  
 Deaf to his throbbing throat’s long, long melodious moan.  
 I dreamt I saw thee, robed in purple flakes,  
 Break amorous through the clouds, as morning breaks,  
@@ -128,12 +128,12 @@ To keep it unaffronted, unassail’d
 By the [[motifs/love|love]]-glances of unlovely eyes,  
 Of Satyrs, Fauns, and blear’d Silenus’ sighs.  
 Pale grew her [[concepts/immortality|immortality]], for woe  
-Of all these lovers, and she grieved so  
+Of all these [[lovers]], and she grieved so  
 I took compassion on her, bade her steep  
 Her hair in weird syrops, that would keep  
 Her loveliness invisible, yet free  
 To wander as she loves, in liberty.  
-Thou shalt behold her, Hermes, thou alone,  110  
+Thou shalt behold her, Hermes, thou [[Alone|alone]],  110  
 If thou wilt, as thou swearest, grant my boon!”  
 Then, once again, the charmed God began  
 An oath, and through the serpent’s ears it ran  
@@ -149,7 +149,7 @@ And thou shalt see thy sweet nymph even now.”
 The God on half-shut feathers sank serene,  
 She breath’d upon his eyes, and swift was seen  
 Of both the guarded nymph near-smiling on the green.  
-It was no dream; or say a dream it was,  
+It was no dream; or say [[A Dream|a dream]] it was,  
 Real are the [[motifs/dreams|dreams]] of Gods, and smoothly pass  
 Their pleasures in a long immortal dream.  
 One warm, flush’d moment, hovering, it might seem  
@@ -165,10 +165,10 @@ Her fearful sobs, [[concepts/self|self]]-folding like a flower
 That faints into itself at evening hour:  
 But the God fostering her chilled hand, 140  
 She felt the warmth, her eyelids open’d bland,  
-And, like new [[motifs/flowers|flowers]] at morning song of [[motifs/bees|bees]],  
+And, like new [[motifs/flowers|flowers]] at morning [[Song|song]] of [[motifs/bees|bees]],  
 Bloom’d, and gave up her honey to the lees.  
 Into the green-recessed woods they flew;  
-Nor grew they pale, as mortal lovers do.  
+Nor grew they pale, as mortal [[lovers]] do.  
 
 Left to herself, the serpent now began  
 To change; her elfin [[motifs/blood|blood]] in [[concepts/madness|madness]] ran,  
@@ -230,7 +230,7 @@ And kept his rosy terms in idle languishment.
 Why this fair creature chose so fairily  200  
 By the wayside to linger, we shall see;  
 But first ’tis fit to tell how she could muse  
-And dream, when in the serpent [[motifs/prison|prison]]-house,  
+And dream, when in the serpent [[motifs/prison|prison]]-[[house]],  
 Of all she list, strange or magnificent:  
 How, ever, where she will’d, her spirit went;  
 Whether to faint Elysium, or where  
@@ -272,7 +272,7 @@ She stood: he pass’d, shut up in mysteries,
 His mind wrapp’d like his mantle, while her eyes  
 Follow’d his steps, and her neck regal white  
 Turn’d--syllabling thus, “Ah, [[characters/lycius|Lycius]] bright,  
-And will you leave me on the hills alone?  
+And will you leave me on the hills [[Alone|alone]]?  
 [[characters/lycius|Lycius]], look back! and be some pity shown.”  
 He did; not with cold [[concepts/wonder|wonder]] fearingly,  
 But Orpheus-like at an Eurydice;  
@@ -284,7 +284,7 @@ And still the cup was full,--while he, afraid
 Lest she should vanish ere his lip had paid  
 Due adoration, thus began to adore;  
 Her soft look growing coy, she saw his chain so sure:  
-“Leave thee alone! Look back! Ah, Goddess, see  
+“Leave thee [[Alone|alone]]! Look back! Ah, Goddess, see  
 Whether my eyes can ever turn from thee!  
 For pity do not this sad heart belie--  
 Even as thou vanishest so I shall die.  260  
@@ -326,11 +326,11 @@ The life she had so tangled in her mesh:
 And as he from one trance was wakening  
 Into another, she began to sing,  
 Happy in [[concepts/beauty|beauty]], life, and [[motifs/love|love]], and every thing,  
-A song of [[motifs/love|love]], too sweet for earthly lyres,  
+A [[Song|song]] of [[motifs/love|love]], too sweet for earthly lyres,  
 While, like held breath, the [[motifs/stars|stars]] drew in their panting  
 fires.  300  
 And then she whisper’d in such trembling tone,  
-As those who, safe together met alone  
+As those who, safe together met [[Alone|alone]]  
 For the first [[motifs/time|time]] through many anguish’d days,  
 Use other speech than looks; bidding him raise  
 His drooping head, and clear his [[motifs/soul|soul]] of [[concepts/doubt|doubt]],  
@@ -349,7 +349,7 @@ At [[characters/venus|Venus]]’ temple porch, ‘mid baskets heap’d
 Of amorous herbs and [[motifs/flowers|flowers]], newly reap’d  
 Late on that eve, as ’twas the [[motifs/night|night]] before  
 The Adonian feast; whereof she saw no more,  320  
-But wept alone those days, for why should she adore?  
+But wept [[Alone|alone]] those days, for why should she adore?  
 [[characters/lycius|Lycius]] from [[motifs/death|death]] awoke into amaze,  
 To see her still, and singing so sweet lays;  
 Then from amaze into delight he fell  
@@ -379,14 +379,14 @@ By blinded [[characters/lycius|Lycius]], so in her comprized.
 They pass’d the [[motifs/city|city]] gates, he knew not how,  
 So noiseless, and he never thought to know.  
 
-As men talk in a dream, so Corinth all,  350  
+As men talk in [[A Dream|a dream]], so Corinth all,  350  
 Throughout her palaces imperial,  
 And all her populous streets and temples lewd,  
 Mutter’d, like tempest in the distance brew’d,  
 To the wide-spreaded [[motifs/night|night]] above her towers.  
 Men, women, rich and poor, in the cool hours,  
 Shuffled their sandals o’er the pavement white,  
-Companion’d or alone; while many a light  
+Companion’d or [[Alone|alone]]; while many a light  
 Flared, here and there, from wealthy festivals,  
 And threw their moving shadows on the walls,  
 Or found them cluster’d in the corniced shade  360  
@@ -420,14 +420,14 @@ Ran the dark veins, that none but feet divine
 Could e’er have touch’d there. Sounds Æolian  
 Breath’d from the hinges, as the ample span  
 Of the wide doors disclos’d a place unknown  
-Some [[motifs/time|time]] to any, but those two alone,  
+Some [[motifs/time|time]] to any, but those two [[Alone|alone]],  
 And a few Persian mutes, who that same year  390  
 Were seen about the markets: none knew where  
 They could inhabit; the most curious  
-Were foil’d, who watch’d to trace them to their house:  
+Were foil’d, who watch’d to trace them to their [[house]]:  
 And but the flitter-winged verse must tell,  
 For [[concepts/truth|truth]]’s sake, what woe afterwards befel,  
-’Twould humour many a heart to leave them thus,  
+’Twould [[Humour|humour]] many a heart to leave them thus,  
 Shut from the busy world of more incredulous.  
 
 
@@ -548,9 +548,9 @@ Of deep [[motifs/sleep|sleep]] in a moment was betray’d.
 It was the custom then to bring away  
 The bride from [[motifs/home|home]] at blushing shut of day,  
 Veil’d, in a chariot, heralded along  
-By strewn [[motifs/flowers|flowers]], torches, and a [[motifs/marriage|marriage]] song,  
+By strewn [[motifs/flowers|flowers]], torches, and a [[motifs/marriage|marriage]] [[Song|song]],  
 With other pageants: but this fair unknown  110  
-Had not a friend. So being left alone,  
+Had not a friend. So being left [[Alone|alone]],  
 ([[characters/lycius|Lycius]] was gone to summon all his kin)  
 And knowing surely she could never win  
 His foolish heart from its mad pompousness,  
@@ -675,11 +675,11 @@ The thyrsus, that his watching eyes may swim
 Into forgetfulness; and, for the sage,  
 Let spear-grass and the spiteful thistle wage  
 War on his temples. Do not all charms fly  
-At the mere touch of cold philosophy?  230  
+At the mere touch of cold [[philosophy]]?  230  
 There was an awful rainbow once in heaven:  
 We know her woof, her texture; she is given  
 In the dull catalogue of common things.  
-Philosophy will clip an Angel’s wings,  
+[[philosophy|Philosophy]] will clip an Angel’s wings,  
 Conquer all mysteries by rule and line,  
 Empty the haunted air, and gnomed mine--  
 Unweave a rainbow, as it erewhile made  
@@ -732,7 +732,7 @@ Of painful blindness; leaving thee forlorn,
 In trembling dotage to the feeblest fright  
 Of [[concepts/conscience|conscience]], for their long offended might,  
 For all thine impious proud-heart sophistries,  
-Unlawful magic, and enticing lies.  
+Unlawful [[Magic|magic]], and enticing lies.  
 Corinthians! look upon that gray-beard wretch!  
 Mark how, possess’d, his lashless eyelids stretch  
 Around his demon eyes! Corinthians, see!  

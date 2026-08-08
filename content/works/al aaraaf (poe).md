@@ -37,7 +37,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/paradise-lost|Paradise Lost]], [[topoi/book-of-nature|Book of Nature]]
-**Archetypes:** [[archetypes/lover|Lover]]
+**Archetypes:** Lover
 **Motifs:** [[motifs/stars|Stars]], [[motifs/flowers|Flowers]], [[motifs/music-and-song|Music and Song]], [[motifs/moon|Moon]], [[motifs/death|Death]], [[motifs/silence|Silence]], [[motifs/ruins-the-abbey|Ruins the Abbey]]
 **Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/sublime|Sublime]], [[concepts/mortality|Mortality]], [[concepts/truth|Truth]], [[concepts/imagination|Imagination]], [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]]

@@ -31,7 +31,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** [[archetypes/ghost|Ghost]]
+**Archetypes:** Ghost
 **Motifs:** [[motifs/death|Death]], [[motifs/grave|Grave]], [[motifs/ghosts|Ghosts]], [[motifs/night|Night]], [[motifs/stars|Stars]], [[motifs/silence|Silence]], [[motifs/supernatural|Supernatural]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/melancholy|Melancholy]], [[concepts/uncanny|Uncanny]]
 **Forms & Genres:** [[forms/lyric|Lyric]], [[forms/elegy|Elegy]]

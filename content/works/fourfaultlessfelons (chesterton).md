@@ -80,9 +80,9 @@ tags:
 
 **Topoi:** [[topoi/double|Double]]
 
-**Characters:** [[characters/count-raoul-de-marillac|Count Raoul de Marillac]], [[characters/john-hume|John Hume]], [[characters/barbara-traill|Barbara Traill]], [[characters/walter-windrush|Walter Windrush]], [[characters/jacob-nadoway|Jacob Nadoway]], [[characters/alan-nadoway|Alan Nadoway]], [[characters/colonel-grimm|Colonel Grimm]], [[characters/isidor-simon|Isidor Simon]]
+**Characters:** Count Raoul de Marillac, John Hume, Barbara Traill, Walter Windrush, Jacob Nadoway, Alan Nadoway, Colonel Grimm, Isidor Simon
 
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/scapegoat|Scapegoat]], [[archetypes/trickster|Trickster]], [[archetypes/antihero|Antihero]]
+**Archetypes:** Detective, Scapegoat, Trickster, Antihero
 **Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/guilt|Guilt]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/distributism|Distributism]], [[concepts/class-conflict|Class Conflict]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/self-denial-and-renunciation|Self-Denial and Renunciation]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]], [[forms/satire|Satire]]
 

@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield" data-author="Whitman" data-workhref="works/war-and-its-cost-·-american-civil-war-·-battlefield-(whitman)"></div>
 
 
-<span class="atom-split" data-atom="006_to_thee_old_cause" data-title="To Thee Old Cause" data-chapter="" data-kind="intro" data-tags="motif/the_book,concept/democracy,concept/war_and_its_cost,concept/immortality,form/free_verse,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="006_to_thee_old_cause" data-title="To Thee Old Cause" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -26,7 +26,7 @@ After a strange sad war, great war for thee,
 really fought, for thee,)  
 These chants for thee, the eternal march of thee.  
 
-(A war O soldiers not for itself alone,  
+(A war O soldiers not for itself [[Alone|alone]],  
 Far, far more stood silently waiting behind, now to advance in this book.)  
 
 Thou orb of many orbs!  
@@ -46,7 +46,7 @@ Around the idea of thee.
 
 
 
-<span class="atom-split" data-atom="097_france_the_18th_year_of_these_states" data-title="France [the 18th Year of these States" data-chapter="" data-kind="intro" data-tags="motif/blood,concept/democracy,concept/revenge,concept/war_and_its_cost,form/free_verse,histref/the_french_revolution,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="097_france_the_18th_year_of_these_states" data-title="France [the 18th Year of these States" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/birds|BIRDS]] OF PASSAGE_  
@@ -91,7 +91,7 @@ drowning all that would interrupt them,
 O I think the east [[motifs/wind|wind]] brings a triumphal and free march,  
 It reaches hither, it swells me to Joyful [[concepts/madness|madness]],  
 I will run transpose it in words, to justify  
-I will yet sing a song for you ma femme.  
+I will yet sing a [[Song|song]] for you ma femme.  
 
 
 
@@ -100,7 +100,7 @@ I will yet sing a song for you ma femme.
 
 
 
-<span class="atom-split" data-atom="114_europe_the_72d_and_73d_years_of_these_states" data-title="Europe [The 72d and 73d Years of These States]" data-chapter="" data-kind="intro" data-tags="archetype/tyrant,motif/serpent_snake,motif/the_grave,concept/martyrdom,concept/democracy,concept/power_and_corruption,form/free_verse,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="114_europe_the_72d_and_73d_years_of_these_states" data-title="Europe [The 72d and 73d Years of These States]" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -162,7 +162,7 @@ Not a disembodied spirit can the weapons of tyrants let loose,
 But it stalks invisibly over the earth, whispering, counseling, cautioning.  
 Liberty, let others [[concepts/despair|despair]] of you--I never [[concepts/despair|despair]] of you.  
 
-Is the house shut? is the master away?  
+Is the [[house]] shut? is the master away?  
 Nevertheless, be ready, be not weary of watching,  
 He will soon return, his messengers come anon.  
 
@@ -173,13 +173,13 @@ He will soon return, his messengers come anon.
 
 
 
-<span class="atom-split" data-atom="142_first_o_songs_for_a_prelude" data-title="First O Songs for a Prelude" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/drums_and_bugles,motif/the_city,motif/swords_weapons,concept/war_and_its_cost,concept/nationalism_and_patriotism,form/free_verse,histref/american_civil_war,setting/manhattan,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="142_first_o_songs_for_a_prelude" data-title="First O Songs for a Prelude" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
 
 
-First O songs for a prelude,  
+First O [[songs]] for a prelude,  
 Lightly strike on the stretch’d tympanum [[concepts/pride|pride]] and joy in my [[motifs/city|city]],  
 How she led the rest to arms, how she gave the cue,  
 How at once with lithe limbs unwaiting a moment she sprang,  
@@ -189,9 +189,9 @@ How you sprang--how you threw off the costumes of peace with
 indifferent hand,  
 How your soft opera-music changed, and the drum and fife were heard  
 in their stead,  
-How you led to the war, (that shall serve for our prelude, songs of  
+How you led to the war, (that shall serve for our prelude, [[songs]] of  
 soldiers,)  
-How [[settings/manhattan|Manhattan]] drum-taps led.  
+How [[settings/manhattan|Manhattan]] [[Drum-Taps|drum-taps]] led.  
 
 Forty years had I in my [[motifs/city|city]] seen soldiers parading,  
 Forty years as a pageant, till unawares the lady of this teeming and  
@@ -207,7 +207,7 @@ Till with ominous hum our hive at daybreak pour’d out its myriads.
 From the houses then and the workshops, and through all the doorways,  
 Leapt they tumultuous, and lo! [[settings/manhattan|Manhattan]] arming.  
 
-To the drum-taps prompt,  
+To the [[Drum-Taps|drum-taps]] prompt,  
 The young men falling in and arming,  
 The mechanics arming, (the trowel, the jack-plane, the blacksmith’s  
 hammer, tost aside with precipitation,)  
@@ -268,7 +268,7 @@ But now you smile with joy exulting old Mannahatta.
 
 
 
-<span class="atom-split" data-atom="143_eighteen_sixty_one" data-title="Eighteen Sixty-One" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,concept/war_and_its_cost,concept/nationalism_and_patriotism,concept/the_common_man,form/ode,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="143_eighteen_sixty_one" data-title="Eighteen Sixty-One" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -305,7 +305,7 @@ I repeat you, hurrying, crashing, sad, distracted year.
 
 
 
-<span class="atom-split" data-atom="144_beat_beat_drums" data-title="Beat! Beat! Drums!" data-chapter="" data-kind="intro" data-tags="motif/drums_and_bugles,motif/music_and_song,motif/death,concept/war_and_its_cost,concept/grief_and_loss,form/song,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="144_beat_beat_drums" data-title="Beat! Beat! Drums!" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -347,7 +347,7 @@ So strong you thump O terrible drums--so loud you bugles blow.
 
 
 
-<span class="atom-split" data-atom="148_virginia_the_west" data-title="Virginia--The West" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/swords_weapons,concept/the_union,concept/war_and_its_cost,form/allegory,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="148_virginia_the_west" data-title="Virginia--The West" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -376,7 +376,7 @@ For you provided me Washington--and now these also.
 
 
 
-<span class="atom-split" data-atom="153_an_army_corps_on_the_march" data-title="An Army Corps on the March" data-chapter="" data-kind="intro" data-tags="motif/dust,motif/horse,concept/war_and_its_cost,form/free_verse,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="153_an_army_corps_on_the_march" data-title="An Army Corps on the March" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -398,7 +398,7 @@ As the army corps advances.
 
 
 
-<span class="atom-split" data-atom="157_a_march_in_the_ranks_hard_prest_and_the_road_unknown" data-title="A March in the Ranks Hard-Prest, and the Road Unknown" data-chapter="" data-kind="intro" data-tags="motif/blood,motif/death,motif/night,motif/fire,motif/the_road,concept/war_and_its_cost,concept/terror_and_horror,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="157_a_march_in_the_ranks_hard_prest_and_the_road_unknown" data-title="A March in the Ranks Hard-Prest, and the Road Unknown" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -411,7 +411,7 @@ Till after midnight glimmer upon us the lights of a dim-lighted building,
 We come to an open space in the woods, and halt by the dim-lighted building,
 ’Tis a large old church at the crossing roads, now an impromptu hospital,
 Entering but for a minute I see a sight beyond all the pictures and
-poems ever made,
+[[Poems|poems]] ever made,
 Shadows of deepest, deepest black, just lit by moving candles and lamps,
 And by one great pitchy torch stationary with wild red flame and
 clouds of smoke,
@@ -445,7 +445,7 @@ The unknown [[motifs/road|road]] still marching.
 
 
 
-<span class="atom-split" data-atom="162_the_wound_dresser" data-title="The Wound-Dresser" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/blood,motif/death,concept/war_and_its_cost,concept/grief_and_loss,concept/comradeship,concept/memory_and_time,concept/love_divine,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="162_the_wound_dresser" data-title="The Wound-Dresser" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -545,7 +545,7 @@ Many a soldier’s kiss dwells on these bearded lips.)
 
 
 
-<span class="atom-split" data-atom="164_give_me_the_splendid_silent_sun" data-title="Give Me the Splendid Silent Sun" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/nature,motif/the_city,motif/drums_and_bugles,concept/nature_vs_civilization,concept/war_and_its_cost,setting/manhattan,setting/pastoral_countryside,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="164_give_me_the_splendid_silent_sun" data-title="Give Me the Splendid Silent Sun" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -565,7 +565,7 @@ walk undisturb’d,
 Give me for [[motifs/marriage|marriage]] a sweet-breath’d woman of whom I should never tire,
 Give me a perfect [[archetypes/child|child]], give me away aside from the noise of the
 world a rural domestic life,
-Give me to warble spontaneous songs recluse by myself, for my own ears only,
+Give me to warble spontaneous [[songs]] recluse by myself, for my own ears only,
 Give me [[concepts/solitude|solitude]], give me [[concepts/nature|Nature]], give me again O [[concepts/nature|Nature]] your primal
 sanities!
 
@@ -587,7 +587,7 @@ Keep the blossoming buckwheat fields where the Ninth-month [[motifs/bees|bees]] 
 Give me faces and streets--give me these phantoms incessant and
 endless along the trottoirs!
 Give me interminable eyes--give me women--give me comrades and
-lovers by the thousand!
+[[lovers]] by the thousand!
 Let me see new ones every day--let me hold new ones by the hand every day!
 Give me such shows--give me the streets of [[settings/manhattan|Manhattan]]!
 Give me Broadway, with the soldiers marching--give me the sound of
@@ -617,7 +617,7 @@ the sight of the wounded,)
 
 
 
-<span class="atom-split" data-atom="168_the_artilleryman_s_vision" data-title="The Artilleryman’s Vision" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/night,motif/fog_and_smoke,concept/war_and_its_cost,concept/terror_and_horror,concept/memory_and_time,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="168_the_artilleryman_s_vision" data-title="The Artilleryman’s Vision" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -643,7 +643,7 @@ The chief-gunner ranges and sights his piece and selects a fuse of
 the right [[motifs/time|time]],
 After firing I see him lean aside and look eagerly off to note the effect;
 Elsewhere I hear the cry of a regiment charging, (the young colonel
-leads himself this [[motifs/time|time]] with brandish’d sword,)
+leads himself this [[motifs/time|time]] with brandish’d [[Sword|sword]],)
 I see the gaps cut by the enemy’s volleys, (quickly fill’d up, no delay,)
 I breathe the suffocating smoke, then the flat clouds hover low
 concealing all;
@@ -651,7 +651,7 @@ Now a strange lull for a few seconds, not a shot fired on either side,
 Then resumed the chaos louder than ever, with eager calls and
 orders of officers,
 While from some distant part of the field the [[motifs/wind|wind]] wafts to my ears
-a shout of applause, (some special success,)
+a shout of applause, (some special [[success]],)
 And ever the sound of the cannon far or near, (rousing even in
 [[motifs/dreams|dreams]] a devilish exultation and all the old mad joy in the
 depths of my [[motifs/soul|soul]],)
@@ -671,7 +671,7 @@ And bombs bursting in air, and at [[motifs/night|night]] the vari-color’d rock
 
 
 
-<span class="atom-split" data-atom="177_as_i_lay_with_my_head_in_your_lap_camerado" data-title="As I Lay with My Head in Your Lap Camerado" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,archetype/rebel,motif/swords_weapons,concept/comradeship,concept/doubt,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="177_as_i_lay_with_my_head_in_your_lap_camerado" data-title="As I Lay with My Head in Your Lap Camerado" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -701,7 +701,7 @@ Or whether we shall be victorious, or utterly quell’d and defeated.
 
 
 
-<span class="atom-split" data-atom="179_to_a_certain_civilian" data-title="To a Certain Civilian" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/death,concept/war_and_its_cost,concept/the_artist_and_society,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="179_to_a_certain_civilian" data-title="To a Certain Civilian" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -727,7 +727,7 @@ For I lull nobody, and you will never understand me.
 
 
 
-<span class="atom-split" data-atom="180_lo_victress_on_the_peaks" data-title="Lo, Victress on the Peaks" data-chapter="" data-kind="intro" data-tags="motif/blood,motif/death,concept/liberty,concept/war_and_its_cost,concept/grief_and_loss,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="180_lo_victress_on_the_peaks" data-title="Lo, Victress on the Peaks" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -751,7 +751,7 @@ And psalms of the dead.
 
 
 
-<span class="atom-split" data-atom="181_spirit_whose_work_is_done_washington_city_1865" data-title="Spirit Whose Work Is Done [Washington City, 1865]" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/swords_weapons,motif/the_supernatural,concept/war_and_its_cost,histref/american_civil_war,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="181_spirit_whose_work_is_done_washington_city_1865" data-title="Spirit Whose Work Is Done [Washington City, 1865]" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -779,7 +779,7 @@ Touch my mouth ere you depart, press my lips close,
 Leave me your pulses of rage--bequeath them to me--fill me with
 currents convulsive,
 Let them scorch and blister out of my chants when you are gone,
-Let them identify you to the future in these songs.
+Let them identify you to the future in these [[songs]].
 
 
 
@@ -788,7 +788,7 @@ Let them identify you to the future in these songs.
 
 
 
-<span class="atom-split" data-atom="182_adieu_to_a_soldier" data-title="Adieu to a Soldier" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_road,concept/comradeship,concept/war_and_its_cost,concept/heroism,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="182_adieu_to_a_soldier" data-title="Adieu to a Soldier" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -819,7 +819,7 @@ To fiercer, weightier battles give expression.
 
 
 
-<span class="atom-split" data-atom="271_old_war_dreams" data-title="Old War-Dreams" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/death,motif/memory,concept/war_and_its_cost,histref/american_civil_war,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="271_old_war_dreams" data-title="Old War-Dreams" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_
@@ -850,10 +850,10 @@ I dream, I dream, I dream.
 
 
 
-<span class="atom-split" data-atom="279_ashes_of_soldiers" data-title="Ashes of Soldiers" data-chapter="" data-kind="intro" data-tags="motif/ghosts,motif/comradeship,motif/death,concept/war_and_its_cost,concept/immortality,form/elegy,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="279_ashes_of_soldiers" data-title="Ashes of Soldiers" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: SONGS OF PARTING_  
+_Cluster: [[songs|SONGS]] OF PARTING_  
 
 
 Ashes of soldiers South or North,  
@@ -919,13 +919,13 @@ For the ashes of all dead soldiers South or North.
 
 
 
-<span class="atom-split" data-atom="285_camps_of_green" data-title="Camps of Green" data-chapter="" data-kind="intro" data-tags="motif/death,motif/sleep,motif/comradeship,motif/grass,concept/war_and_its_cost,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="285_camps_of_green" data-title="Camps of Green" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: SONGS OF PARTING_
+_Cluster: [[songs|SONGS]] OF PARTING_
 
 
-Nor alone those camps of white, old comrades of the wars,
+Nor [[Alone|alone]] those camps of white, old comrades of the wars,
 When as order’d forward, after a long march,
 Footsore and weary, soon as the light lessens we halt for the [[motifs/night|night]],
 Some of us so fatigued carrying the gun and knapsack, dropping
@@ -983,7 +983,7 @@ But the bravest press’d to the front and fell, unnamed, unknown.
 
 
 
-<span class="atom-split" data-atom="304_the_wallabout_martyrs" data-title="The Wallabout Martyrs" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/dust,motif/the_grave,concept/nationalism_and_patriotism,concept/war_and_its_cost,form/epigram,form/free_verse,histref/american_civil_war,histref/classical_antiquity,character/odysseus,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="304_the_wallabout_martyrs" data-title="The Wallabout Martyrs" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1002,7 +1002,7 @@ The stepping stones to thee to-day and here, [[settings/america|America]].
 
 
 
-<span class="atom-split" data-atom="328_true_conquerors" data-title="True Conquerors" data-chapter="" data-kind="intro" data-tags="archetype/wise_old_man,motif/the_sea,motif/swords_weapons,concept/heroism,concept/the_common_man,concept/war_and_its_cost,form/epigram,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="328_true_conquerors" data-title="True Conquerors" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1013,7 +1013,7 @@ Old sailors, out of many a perilous voyage, [[motifs/storm|storm]] and wreck,
 Old soldiers from campaigns, with all their wounds, defeats and scars;  
 Enough that they’ve survived at all--long life’s unflinching ones!  
 Forth from their struggles, trials, fights, to have emerged at all--  
-in that alone,  
+in that [[Alone|alone]],  
 True conquerors o’er all the rest.  
 
 
@@ -1023,14 +1023,14 @@ True conquerors o’er all the rest.
 
 
 
-<span class="atom-split" data-atom="336_the_dying_veteran" data-title="The Dying Veteran" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/swords_weapons,motif/fire,concept/war_and_its_cost,concept/mortality,concept/nostalgia,form/dramatic_monologue,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="336_the_dying_veteran" data-title="The Dying Veteran" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
 
 
 Amid these days of order, ease, prosperity,  
-Amid the current songs of [[concepts/beauty|beauty]], peace, decorum,  
+Amid the current [[songs]] of [[concepts/beauty|beauty]], peace, decorum,  
 I cast a reminiscence--(likely ’twill offend you,  
 I heard it in my boyhood;)--More than a generation since,  
 A queer old savage man, a fighter under Washington himself,  
@@ -1056,7 +1056,7 @@ Give me my old wild battle-life again!”
 
 
 
-<span class="atom-split" data-atom="360_to_the_pending_year" data-title="To the Pending Year" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/swords_weapons,concept/memory_and_time,concept/satire_of_society,concept/conscience,form/free_verse,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="360_to_the_pending_year" data-title="To the Pending Year" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -1078,7 +1078,7 @@ Crouch low thy neck to eleemosynary gifts.
 
 
 
-<span class="atom-split" data-atom="364_interpolation_sounds" data-title="Interpolation Sounds" data-chapter="" data-kind="intro" data-tags="motif/death,motif/swords_weapons,motif/music_and_song,concept/war_and_its_cost,form/free_verse,histref/american_civil_war,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="364_interpolation_sounds" data-title="Interpolation Sounds" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  

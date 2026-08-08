@@ -64,7 +64,7 @@ tags:
 
 ## Connections
 
-**Characters:** [[characters/thomas-gradgrind|Thomas Gradgrind]], [[characters/jane-eyre|Jane Eyre]], [[characters/mr-rochester|Mr Rochester]], [[characters/heathcliff|Heathcliff]], [[characters/samuel-pickwick|Samuel Pickwick]], [[characters/seth-pecksniff|Seth Pecksniff]], [[characters/little-nell|Little Nell]], [[characters/daniel-quilp|Daniel Quilp]], [[characters/david-copperfield|David Copperfield]], [[characters/betsey-trotwood|Betsey Trotwood]], [[characters/king-arthur|King Arthur]], [[characters/major-pendennis|Major Pendennis]], [[characters/lancelot|Lancelot]], [[characters/silas-marner|Silas Marner]], [[characters/tess|Tess]]
+**Characters:** Thomas Gradgrind, Jane Eyre, Mr Rochester, Heathcliff, Samuel Pickwick, Seth Pecksniff, Little Nell, Daniel Quilp, David Copperfield, Betsey Trotwood, King Arthur, Major Pendennis, Lancelot, Silas Marner, Tess
 
 **Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/reform|Reform]], [[concepts/democracy|Democracy]], [[concepts/class-conflict|Class Conflict]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

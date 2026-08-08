@@ -73,10 +73,10 @@ tags:
 
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
 
-**Characters:** [[characters/innocent-smith|Innocent Smith]], [[characters/michael-moon|Michael Moon]], [[characters/arthur-inglewood|Arthur Inglewood]], [[characters/diana-duke|Diana Duke]], [[characters/rosamund-hunt|Rosamund Hunt]], [[characters/mary-gray|Mary Gray]], [[characters/moses-gould|Moses Gould]], [[characters/dr.-cyrus-pym|Dr. Cyrus Pym]], [[characters/dr.-warner|Dr. Warner]], [[characters/emerson-eames|Emerson Eames]]
+**Characters:** Innocent Smith, Michael Moon, Arthur Inglewood, Diana Duke, Rosamund Hunt, Mary Gray, Moses Gould, Dr. Cyrus Pym, Dr. Warner, Emerson Eames
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/sleeper-awakes|Sleeper Awakes]], [[topoi/paradise-lost|Paradise Lost]]
-**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/innocent|Innocent]], [[archetypes/trickster|Trickster]], [[archetypes/outsider|Outsider]]
+**Archetypes:** Fool, Innocent, Trickster, Outsider
 **Motifs:** [[motifs/wind|Wind]], [[motifs/madness-(2)|Madness (2)]], [[motifs/journey|Journey]], [[motifs/road|Road]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/garden|Garden]], [[motifs/home|Home]], [[motifs/marriage|Marriage]]
 **Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/joy|Joy]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/paradox|Paradox]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/madness|Madness]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/romantic-love|Romantic Love]], [[concepts/melancholy|Melancholy]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/faith|Faith]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/despair|Despair]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/allegory|Allegory]], [[forms/comedy|Comedy]], [[forms/satire|Satire]]

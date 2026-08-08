@@ -37,5 +37,5 @@ tags:
 **Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/greed-and-money|Greed and Money]], [[concepts/reason-and-rationalism|Reason and Rationalism]], [[concepts/materialism|Materialism]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/machine|Machine]], [[concepts/uncanny|Uncanny]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/professor-challenger|Professor Challenger]]
-**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/villain|Villain]]
+**Characters:** Professor Challenger
+**Archetypes:** Hero, Villain

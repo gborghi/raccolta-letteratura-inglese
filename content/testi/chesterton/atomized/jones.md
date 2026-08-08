@@ -39,7 +39,7 @@ la U.S.U. annesse il cortile
 per non avere sorveglianza sufficiente.  
 Ora, se c'è una condizione  
 su cui il C.C.P. non transige  
-è che ogni casa che si compra  
+è che ogni [[house|casa]] che si compra  
 debba avere un cortile per l'esercizio;  
 sicché [[characters/jones|Jones]], come inquilino, era inidoneo,  
 e il suo stato di salute ne era la prova.  
@@ -109,7 +109,7 @@ The U.S.U. annexed the yard
 For having no sufficient guard.  
 Now if there's one condition  
 The C.C.P. are strong upon  
-It is that every house one buys  
+It is that every [[house]] one buys  
 Must have a yard for exercise;  
 So [[characters/jones|Jones]], as tenant, was unfit,  
 His state of health was proof of it.  
@@ -177,7 +177,7 @@ la U.S.U. annesse il cortile
 per non avere sorveglianza sufficiente.  
 Ora, se c'è una condizione  
 su cui il C.C.P. non transige  
-è che ogni casa che si compra  
+è che ogni [[house|casa]] che si compra  
 debba avere un cortile per l'esercizio;  
 sicché [[characters/jones|Jones]], come inquilino, era inidoneo,  
 e il suo stato di salute ne era la prova.  

@@ -62,13 +62,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/orphan|Orphan]], [[archetypes/innocent|Innocent]], [[archetypes/villain|Villain]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]]
+**Archetypes:** Orphan, Innocent, Villain, (Reputed) Fallen Woman
 **Motifs:** [[motifs/city|City]], [[motifs/money-and-gold|Money and Gold]], [[motifs/blood|Blood]], [[motifs/light-and-dark|Light and Dark]]
 **Themes & Concepts:** [[concepts/poverty|Poverty]], [[concepts/social-injustice|Social Injustice]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/temptation|Temptation]], [[concepts/satire-of-society|Satire of Society]], [[concepts/reform|Reform]], [[concepts/identity|Identity]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/bildungsroman|Bildungsroman]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/oliver-twist|Oliver Twist]], [[characters/fagin|Fagin]], [[characters/bill-sikes|Bill Sikes]], [[characters/nancy|Nancy]], [[characters/artful-dodger|Artful Dodger]], [[characters/mr-bumble|Mr Bumble]], [[characters/mr-brownlow|Mr Brownlow]], [[characters/monks|Monks]], [[characters/rose-maylie|Rose Maylie]]
+**Characters:** Oliver Twist, Fagin, Bill Sikes, Nancy, Artful Dodger, Mr Bumble, Mr Brownlow, Monks, Rose Maylie
 
 ## Testo integrale / Full text
 

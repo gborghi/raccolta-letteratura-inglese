@@ -60,6 +60,6 @@ tags:
 **Motifs:** [[motifs/desert|Desert]], [[motifs/journey|Journey]], [[motifs/swords-and-weapons|Swords and Weapons]]
 **Historical References:** [[historical-references/islam-and-the-east|Islam and the East]], [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/egypt|Egypt]], [[motifs/desert|Desert]], [[settings/orient|Orient]]
-**Characters:** [[characters/miss-sadie-adams|Miss Sadie Adams]], [[characters/colonel-cochrane-cochrane|Colonel Cochrane Cochrane]], [[characters/james-stephens|James Stephens]], [[characters/cecil-brown|Cecil Brown]]
-**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/villain|Villain]], [[archetypes/quest-hero|Quest Hero]]
+**Characters:** Miss Sadie Adams, Colonel Cochrane Cochrane, James Stephens, Cecil Brown
+**Archetypes:** Hero, Villain, Quest Hero
 **Topoi:** [[topoi/combat-strife|Combat Strife]], [[topoi/last-stand|Last Stand]]

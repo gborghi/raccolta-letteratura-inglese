@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="metzengerstein" data-title="Metzengerstein" data-chapter="" data-kind="intro"></span>
 
-# [[works/metzengerstein-(poe)|Metzengerstein]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -36,7 +36,7 @@ Dottrine della metempsicosi. Sulle dottrine stesse…
 
 “Se si tratti della loro falsità o della loro probabilità… non dico nulla.”
 
-Tuttavia, si può affermare che gran parte della nostra incredulità – come dice La Bruyère.
+Tuttavia, si può affermare che gran parte della nostra [[Incredulity|incredulità]] – come dice La Bruyère.
 
 Di tutta la nostra infelicità… “viene dal non poter essere soli”. {*1*}
 
@@ -84,7 +84,7 @@ Conseguenze altrettanto significative… Inoltre, le proprietà, che erano…
 
 Contiguo, da tempo esercitava un’influenza concorrente nelle questioni…
 
-di un governo molto impegnato. Inoltre, i vicini di casa spesso non.
+di un [[government|governo]] molto impegnato. Inoltre, i vicini di casa spesso non.
 
 Amici. E gli abitanti del [[settings/castle|Castello]] Berlifitzing avrebbero potuto.
 
@@ -107,7 +107,7 @@ Famiglie già propense a litigare per qualsiasi stimolo…
 
 Qualsiasi cosa: una vittoria finale da parte di chi già possiede più potere
 
-casa; e naturalmente fu ricordata con maggiore amarezza.
+[[house|casa]]; e naturalmente fu ricordata con maggiore amarezza.
 
 Avidità da parte dei più deboli e meno influenti.
 
@@ -780,7 +780,7 @@ doctrines of the Metempsychosis. Of the doctrines themselves—that
 
 is, of their falsity, or of their probability—I say nothing. I
 
-assert, however, that much of our incredulity—as La Bruyère says
+assert, however, that much of our [[Incredulity|incredulity]]—as La Bruyère says
 
 of all our unhappiness—“_vient de ne pouvoir être seuls_.” {*1}
 
@@ -826,7 +826,7 @@ consequences equally eventful. Besides, the estates, which were
 
 contiguous, had long exercised a rival influence in the affairs
 
-of a busy government. Moreover, near neighbors are seldom
+of a busy [[government]]. Moreover, near neighbors are seldom
 
 friends; and the inhabitants of the [[settings/castle|Castle]] Berlifitzing might
 
@@ -848,7 +848,7 @@ hereditary [[concepts/jealousy|jealousy]]? The prophecy seemed to imply—if it 
 
 anything—a final triumph on the part of the already more powerful
 
-house; and was of course remembered with the more bitter
+[[house]]; and was of course remembered with the more bitter
 
 animosity by the weaker and less influential.
 
@@ -976,7 +976,7 @@ Dottrine della metempsicosi. Sulle dottrine stesse…
 
 “Se si tratti della loro falsità o della loro probabilità… non dico nulla.”
 
-Tuttavia, si può affermare che gran parte della nostra incredulità – come dice La Bruyère.
+Tuttavia, si può affermare che gran parte della nostra [[Incredulity|incredulità]] – come dice La Bruyère.
 
 Di tutta la nostra infelicità… “viene dal non poter essere soli”. {*1*}
 
@@ -1024,7 +1024,7 @@ Conseguenze altrettanto significative… Inoltre, le proprietà, che erano…
 
 Contiguo, da tempo esercitava un’influenza concorrente nelle questioni…
 
-di un governo molto impegnato. Inoltre, i vicini di casa spesso non.
+di un [[government|governo]] molto impegnato. Inoltre, i vicini di casa spesso non.
 
 Amici. E gli abitanti del [[settings/castle|Castello]] Berlifitzing avrebbero potuto.
 
@@ -1047,7 +1047,7 @@ Famiglie già propense a litigare per qualsiasi stimolo…
 
 Qualsiasi cosa: una vittoria finale da parte di chi già possiede più potere
 
-casa; e naturalmente fu ricordata con maggiore amarezza.
+[[house|casa]]; e naturalmente fu ricordata con maggiore amarezza.
 
 Avidità da parte dei più deboli e meno influenti.
 

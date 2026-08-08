@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/self-knowledge-immortality-self-reliance" data-author="Whitman" data-workhref="works/self-knowledge-·-immortality-·-self-reliance-(whitman)"></div>
 
 
-<span class="atom-split" data-atom="022_poets_to_come" data-title="Poets to Come" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,topos/immortality_through_verse,concept/immortality_of_art,concept/the_artist_and_society,form/free_verse,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="022_poets_to_come" data-title="Poets to Come" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -38,13 +38,13 @@ Expecting the main things from you.
 
 
 
-<span class="atom-split" data-atom="054_roots_and_leaves_themselves_alone" data-title="Roots and Leaves Themselves Alone" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/leaves,motif/flowers,motif/birds,concept/love_romantic,form/free_verse,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="054_roots_and_leaves_themselves_alone" data-title="Roots and Leaves Themselves Alone" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CALAMUS_
 
 
-Roots and [[motifs/leaves|leaves]] themselves alone are these,
+Roots and [[motifs/leaves|leaves]] themselves [[Alone|alone]] are these,
 Scents brought to men and women from the wild woods and pond-side,
 Breast-sorrel and pinks of [[motifs/love|love]], fingers that [[motifs/wind|wind]] around tighter
 than vines,
@@ -68,7 +68,7 @@ fruits, tall branches and trees.
 
 
 
-<span class="atom-split" data-atom="056_trickle_drops" data-title="Trickle Drops" data-chapter="" data-kind="intro" data-tags="motif/blood,motif/letters_writing,concept/the_body,concept/lust,concept/comradeship,form/free_verse,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="056_trickle_drops" data-title="Trickle Drops" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CALAMUS_  
@@ -81,7 +81,7 @@ From wounds made to free you whence you were [[motifs/prison|prison]]’d,
 From my face, from my forehead and lips,  
 From my breast, from within where I was conceal’d, press forth red  
 drops, confession drops,  
-Stain every page, stain every song I sing, every word I say, bloody drops,  
+Stain every page, stain every [[Song|song]] I sing, every word I say, bloody drops,  
 Let them know your scarlet heat, let them glisten,  
 Saturate them with yourself all ashamed and wet,  
 Glow upon all I have written or shall write, bleeding drops,  
@@ -110,7 +110,7 @@ As souls only understand souls.
 
 
 
-<span class="atom-split" data-atom="126_roaming_in_thought_after_reading_hegel" data-title="Roaming in Thought [After reading Hegel]" data-chapter="" data-kind="intro" data-tags="concept/good_vs_evil,concept/immortality,concept/the_natural_order,form/free_verse,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="126_roaming_in_thought_after_reading_hegel" data-title="Roaming in Thought [After reading Hegel]" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -146,7 +146,7 @@ Falling upon her even when she sleeps.
 
 
 
-<span class="atom-split" data-atom="139_locations_and_times" data-title="Locations and Times" data-chapter="" data-kind="intro" data-tags="motif/nature,concept/identity,concept/self_and_soul,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="139_locations_and_times" data-title="Locations and Times" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -164,7 +164,7 @@ with them?
 
 
 
-<span class="atom-split" data-atom="159_as_toilsome_i_wander_d_virginia_s_woods" data-title="As Toilsome I Wander’d Virginia’s Woods" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/autumn,concept/comradeship,concept/grief_and_loss,concept/memory,form/elegy,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="159_as_toilsome_i_wander_d_virginia_s_woods" data-title="As Toilsome I Wander’d Virginia’s Woods" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -181,7 +181,7 @@ Bold, cautious, true, and my loving comrade.
 
 Long, long I muse, then on my way go wandering,  
 Many a changeful season to follow, and many a scene of life,  
-Yet at times through changeful season and scene, abrupt, alone, or  
+Yet at times through changeful season and scene, abrupt, [[Alone|alone]], or  
 in the crowded street,  
 Comes before me the unknown soldier’s [[motifs/grave|grave]], comes the [[forms/inscription|inscription]]  
 rude in Virginia’s woods,  
@@ -194,7 +194,7 @@ Bold, cautious, true, and my loving comrade.
 
 
 
-<span class="atom-split" data-atom="176_how_solemn_as_one_by_one_washington_city_1865" data-title="How Solemn As One by One [Washington City, 1865]" data-chapter="" data-kind="intro" data-tags="motif/masks_disguise,motif/swords_weapons,concept/immortality,concept/self_and_soul,concept/comradeship,concept/the_common_man,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="176_how_solemn_as_one_by_one_washington_city_1865" data-title="How Solemn As One by One [Washington City, 1865]" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -221,33 +221,33 @@ Nor the bayonet stab O friend.
 
 
 
-<span class="atom-split" data-atom="195_the_city_dead_house" data-title="The City Dead-House" data-chapter="" data-kind="intro" data-tags="archetype/fallen_woman,archetype/outcast_wanderer,motif/death,motif/the_city,motif/decay,concept/the_body,concept/social_injustice,concept/self_and_soul,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="195_the_city_dead_house" data-title="The City Dead-House" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
 
 
-By the [[motifs/city|city]] dead-house by the gate,
+By the [[motifs/city|city]] dead-[[house]] by the gate,
 As idly sauntering wending my way from the clangor,
 I curious pause, for lo, an outcast form, a poor dead prostitute brought,
 Her corpse they deposit unclaim’d, it lies on the damp brick pavement,
-The divine woman, her [[concepts/body|body]], I see the [[concepts/body|body]], I look on it alone,
-That house once full of passion and [[concepts/beauty|beauty]], all else I notice not,
+The divine woman, her [[concepts/body|body]], I see the [[concepts/body|body]], I look on it [[Alone|alone]],
+That [[house]] once full of passion and [[concepts/beauty|beauty]], all else I notice not,
 Nor stillness so cold, nor running [[motifs/water|water]] from faucet, nor odors
 morbific impress me,
-But the house alone--that wondrous house--that delicate fair house
+But the [[house]] [[Alone|alone]]--that wondrous [[house]]--that delicate fair [[house]]
 --that ruin!
-That immortal house more than all the rows of dwellings ever built!
+That immortal [[house]] more than all the rows of dwellings ever built!
 Or white-domed capitol with majestic figure surmounted, or all the
 old high-spired cathedrals,
-That little house alone more than them all--poor, desperate house!
+That little [[house]] [[Alone|alone]] more than them all--poor, desperate [[house]]!
 Fair, fearful wreck--tenement of a [[motifs/soul|soul]]--itself a [[motifs/soul|soul]],
-Unclaim’d, avoided house--take one breath from my tremulous lips,
+Unclaim’d, avoided [[house]]--take one breath from my tremulous lips,
 Take one tear dropt aside as I go for thought of you,
-Dead house of [[motifs/love|love]]--house of [[concepts/madness|madness]] and sin, crumbled, crush’d,
-House of life, erewhile talking and laughing--but ah, poor house,
+Dead [[house]] of [[motifs/love|love]]--[[house]] of [[concepts/madness|madness]] and sin, crumbled, crush’d,
+[[house|House]] of life, erewhile talking and laughing--but ah, poor [[house]],
 dead even then,
-Months, years, an echoing, garnish’d house--but dead, dead, dead.
+Months, years, an echoing, garnish’d [[house]]--but dead, dead, dead.
 
 
 
@@ -256,7 +256,7 @@ Months, years, an echoing, garnish’d house--but dead, dead, dead.
 
 
 
-<span class="atom-split" data-atom="198_unnamed_land" data-title="Unnamed Land" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,topos/eternal_return,concept/mortality,concept/immortality,concept/memory,concept/self_and_soul,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="198_unnamed_land" data-title="Unnamed Land" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -266,7 +266,7 @@ Nations ten thousand years before these States, and many times ten
 thousand years before these States,
 Garner’d clusters of ages that men and women like us grew up and
 travel’d their course and pass’d on,
-What vast-built cities, what orderly republics, what pastoral tribes
+What vast-built cities, what orderly republics, what [[Pastoral|pastoral]] tribes
 and nomads,
 What histories, rulers, heroes, perhaps transcending all others,
 What laws, customs, wealth, arts, traditions,
@@ -316,7 +316,7 @@ I suspect I shall there find each old particular of those unnamed lands.
 
 
 
-<span class="atom-split" data-atom="208_to_a_common_prostitute" data-title="To a Common Prostitute" data-chapter="" data-kind="intro" data-tags="archetype/fallen_woman,archetype/outcast_wanderer,motif/nature,concept/social_injustice,concept/the_body,concept/grace_and_redemption,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="208_to_a_common_prostitute" data-title="To a Common Prostitute" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -341,7 +341,7 @@ Till then I salute you with a significant look that you do not forget me.
 
 
 
-<span class="atom-split" data-atom="234_to_think_of_time" data-title="To Think of Time" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/time,motif/death,motif/the_grave,concept/mortality,concept/immortality,concept/self_and_soul,concept/identity,concept/faith,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="234_to_think_of_time" data-title="To Think of Time" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -391,9 +391,9 @@ great interest in them, and we taking no interest in them.
 To think how eager we are in building our houses,
 To think others shall be just as eager, and we quite indifferent.
 
-(I see one building the house that serves him a few years, or
+(I see one building the [[house]] that serves him a few years, or
 seventy or eighty years at most,
-I see one building the house that serves him longer than that.)
+I see one building the [[house]] that serves him longer than that.)
 
 Slow-moving and black lines creep over the whole earth--they never
 cease--they are the burial lines,
@@ -438,7 +438,7 @@ To think that these are so much and so nigh to other drivers, and he
 there takes no interest in them.
 
 5
-The markets, the government, the working-man’s wages, to think what
+The markets, the [[government]], the working-man’s wages, to think what
 account they are through our nights and days,
 To think that other working-men will make just as great account of
 them, yet we make little or no account.
@@ -466,7 +466,7 @@ To take interest is [[motifs/well|well]], and not to take interest shall be [[mo
 
 The domestic joys, the dally housework or business, the building of
 houses, are not phantasms, they have weight, form, location,
-Farms, profits, crops, markets, wages, government, are none of them
+Farms, profits, crops, markets, wages, [[government]], are none of them
 phantasms,
 The difference between sin and goodness is no delusion,
 The earth is not an echo, man and his life and all the things of his
@@ -570,7 +570,7 @@ materials are altogether for it!
 
 
 
-<span class="atom-split" data-atom="235_darest_thou_now_o_soul" data-title="Darest Thou Now O Soul" data-chapter="" data-kind="intro" data-tags="topos/night_journey,motif/death,concept/self_and_soul,concept/the_soul_journey,concept/immortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="235_darest_thou_now_o_soul" data-title="Darest Thou Now O Soul" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_  
@@ -603,7 +603,7 @@ Equal, equipt at last, (O joy! O fruit of all!) them to fulfil O [[motifs/soul|s
 
 
 
-<span class="atom-split" data-atom="237_chanting_the_square_deific" data-title="Chanting the Square Deific" data-chapter="" data-kind="intro" data-tags="archetype/christ_figure,archetype/satanic_figure,concept/history,concept/good_vs_evil,concept/self_and_soul,concept/love_divine,form/hymn,histref/christianity,histref/eastern_religion,histref/greek_mythology,character/christ,character/satan,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="237_chanting_the_square_deific" data-title="Chanting the Square Deific" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_  
@@ -617,7 +617,7 @@ Old Brahm I, and I Saturnius am;
 Not [[motifs/time|Time]] affects me--I am [[motifs/time|Time]], old, modern as any,  
 Unpersuadable, relentless, executing righteous judgments,  
 As the Earth, the Father, the brown old Kronos, with laws,  
-Aged beyond computation, yet never new, ever with those mighty laws rolling,  
+Aged beyond computation, yet never new, ever with those mighty laws [[rolling]],  
 Relentless I forgive no man--whoever sins dies--I will have that man’s life;  
 Therefore let none expect [[concepts/mercy|mercy]]--have the [[motifs/seasons|seasons]], gravitation, the  
 appointed days, [[concepts/mercy|mercy]]? no more have I,  
@@ -628,7 +628,7 @@ I dispense from this side judgments inexorable without the least remorse.
 2  
 Consolator most mild, the promis’d one advancing,  
 With gentle hand extended, the mightier God am I,  
-Foretold by prophets and poets in their most rapt prophecies and poems,  
+Foretold by prophets and poets in their most rapt prophecies and [[Poems|poems]],  
 From this side, lo! the Lord [[characters/christ|Christ]] gazes--lo! Hermes I--lo! mine is  
 Hercules’ face,  
 All sorrow, labor, [[concepts/suffering|suffering]], I, tallying it, absorb in myself,  
@@ -674,7 +674,7 @@ Essence of forms, life of the real identities, permanent, positive,
 Life of the great round world, the sun and [[motifs/stars|stars]], and of man, I, the  
 general [[motifs/soul|soul]],  
 Here the square finishing, the solid, I the most solid,  
-Breathe my breath also through these songs.  
+Breathe my breath also through these [[songs]].  
 
 
 
@@ -683,7 +683,7 @@ Breathe my breath also through these songs.
 
 
 
-<span class="atom-split" data-atom="245_a_noiseless_patient_spider" data-title="A Noiseless Patient Spider" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/self_and_soul,concept/alienation,concept/the_soul_journey,concept/the_sublime,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="245_a_noiseless_patient_spider" data-title="A Noiseless Patient Spider" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_  
@@ -709,7 +709,7 @@ Till the gossamer thread you fling catch somewhere, O my [[motifs/soul|soul]].
 
 
 
-<span class="atom-split" data-atom="247_to_one_shortly_to_die" data-title="To One Shortly to Die" data-chapter="" data-kind="intro" data-tags="motif/death,concept/mortality,concept/immortality,concept/self_and_soul,concept/grace_and_redemption,character/death_personified,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="247_to_one_shortly_to_die" data-title="To One Shortly to Die" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_
@@ -742,14 +742,14 @@ I do not commiserate, I congratulate you.
 
 
 
-<span class="atom-split" data-atom="250_the_last_invocation" data-title="The Last Invocation" data-chapter="" data-kind="intro" data-tags="motif/death,concept/self_and_soul,concept/immortality,concept/love_romantic,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="250_the_last_invocation" data-title="The Last Invocation" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_  
 
 
 At the last, tenderly,  
-From the walls of the powerful fortress’d house,  
+From the walls of the powerful fortress’d [[house]],  
 From the clasp of the knitted locks, from the keep of the [[motifs/well|well]]-closed doors,  
 Let me be wafted.  
 
@@ -768,7 +768,7 @@ Strong is your hold O [[motifs/love|love]].)
 
 
 
-<span class="atom-split" data-atom="256_faces" data-title="Faces" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/eyes_sight,motif/masks_disguise,concept/self_and_soul,concept/the_grotesque,concept/appearance_vs_reality,concept/immortality,concept/the_common_man,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="256_faces" data-title="Faces" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_
@@ -788,7 +788,7 @@ despised face,
 The sacred faces of infants, the illuminated face of the mother of
 many children,
 The face of an amour, the face of veneration,
-The face as of a dream, the face of an immobile rock,
+The face as of [[A Dream|a dream]], the face of an immobile rock,
 The face withdrawn of its good and bad, a castrated face,
 A wild hawk, his wings clipp’d by the clipper,
 A stallion that yielded at last to the thongs and knife of the gelder.
@@ -866,7 +866,7 @@ They show their descent from the Master himself.
 
 Off the word I have spoken I except not one--red, white, black, are
 all deific,
-In each house is the ovum, it comes forth after a thousand years.
+In each [[house]] is the ovum, it comes forth after a thousand years.
 
 Spots or cracks at the windows do not disturb me,
 Tall and sufficient stand behind and make signs to me,
@@ -903,7 +903,7 @@ Her grandsons raised the flax, and her grand-daughters spun it with
 the distaff and the [[motifs/wheel|wheel]].
 
 The melodious character of the earth,
-The finish beyond which philosophy cannot go and does not wish to go,
+The finish beyond which [[philosophy]] cannot go and does not wish to go,
 The justified mother of men.
 
 
@@ -913,7 +913,7 @@ The justified mother of men.
 
 
 
-<span class="atom-split" data-atom="264_ah_poverties_wincings_and_sulky_retreats" data-title="Ah Poverties, Wincings, and Sulky Retreats" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,motif/swords_weapons,concept/self_and_soul,concept/alienation,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="264_ah_poverties_wincings_and_sulky_retreats" data-title="Ah Poverties, Wincings, and Sulky Retreats" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_  
@@ -939,7 +939,7 @@ It shall yet stand up the soldier of ultimate victory.
 
 
 
-<span class="atom-split" data-atom="267_weave_in_my_hardy_life" data-title="Weave in, My Hardy Life" data-chapter="" data-kind="intro" data-tags="motif/death,motif/blood,concept/self_and_soul,concept/war_and_its_cost,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="267_weave_in_my_hardy_life" data-title="Weave in, My Hardy Life" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_  
@@ -964,13 +964,13 @@ We know not why or what, yet weave, forever weave.
 
 
 
-<span class="atom-split" data-atom="283_my_legacy" data-title="My Legacy" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/the_book,motif/money_gold,concept/mortality,concept/war_and_its_cost,form/free_verse,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="283_my_legacy" data-title="My Legacy" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: SONGS OF PARTING_
+_Cluster: [[songs|SONGS]] OF PARTING_
 
 
-The business man the acquirer vast,
+[[The Business Man|The business man]] the acquirer vast,
 After assiduous years surveying results, preparing for departure,
 Devises houses and lands to his children, bequeaths stocks, goods,
 funds for a school or hospital,
@@ -982,7 +982,7 @@ With nothing to show to devise from its idle years,
 Nor houses nor lands, nor tokens of gems or gold for my friends,
 Yet certain remembrances of the war for you, and after you,
 And little souvenirs of camps and soldiers, with my [[motifs/love|love]],
-I bind together and bequeath in this bundle of songs.
+I bind together and bequeath in this bundle of [[songs]].
 
 
 
@@ -991,18 +991,18 @@ I bind together and bequeath in this bundle of songs.
 
 
 
-<span class="atom-split" data-atom="287_as_they_draw_to_a_close" data-title="As They Draw to a Close" data-chapter="" data-kind="intro" data-tags="motif/death,motif/nature,motif/the_book,concept/self_and_soul,concept/mortality,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="287_as_they_draw_to_a_close" data-title="As They Draw to a Close" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: SONGS OF PARTING_
+_Cluster: [[songs|SONGS]] OF PARTING_
 
 
 As they draw to a close,
-Of what underlies the precedent songs--of my aims in them,
+Of what underlies the precedent [[songs]]--of my aims in them,
 Of the seed I have sought to plant in them,
 Of joy, sweet joy, through many a year, in them,
 (For them, for them have I lived, in them my work is done,)
-Of many an [[concepts/aspiration|aspiration]] fond, of many a dream and plan;
+Of many an [[concepts/aspiration|aspiration]] fond, of many [[A Dream|a dream]] and plan;
 Through Space and [[motifs/time|Time]] fused in a chant, and the flowing eternal [[concepts/identity|identity]],
 To [[concepts/nature|Nature]] encompassing these, encompassing God--to the joyous,
 electric all,
@@ -1021,10 +1021,10 @@ With you O [[motifs/soul|soul]].
 
 
 
-<span class="atom-split" data-atom="293_so_long" data-title="So Long!" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/leaves,motif/the_book,motif/comradeship,concept/democracy,concept/immortality_of_art,concept/mortality,form/free_verse,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="293_so_long" data-title="So Long!" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: SONGS OF PARTING_
+_Cluster: [[songs|SONGS]] OF PARTING_
 
 
 To conclude, I announce what comes after me.
@@ -1040,8 +1040,8 @@ Then to me and mine our due fruition.
 
 I have press’d through in my own right,
 I have sung the [[concepts/body|body]] and the [[motifs/soul|soul]], war and peace have I sung, and
-the songs of life and [[motifs/death|death]],
-And the songs of birth, and shown that there are many births.
+the [[songs]] of life and [[motifs/death|death]],
+And the [[songs]] of birth, and shown that there are many births.
 
 I have offer’d my style to every one, I have [[motifs/journey|journey]]’d with confident step;
 While my pleasure is yet at the full I whisper So long!
@@ -1100,12 +1100,12 @@ been incessantly preparing.
 What is there more, that I lag and pause and crouch extended with
 unshut mouth?
 Is there a single final farewell?
-My songs cease, I abandon them,
+My [[songs]] cease, I abandon them,
 From behind the screen where I hid I advance personally solely to you.
 
 Camerado, this is no book,
 Who touches this touches a man,
-(Is it [[motifs/night|night]]? are we here together alone?)
+(Is it [[motifs/night|night]]? are we here together [[Alone|alone]]?)
 It is I you hold and who holds you,
 I [[motifs/spring|spring]] from the pages into your arms--decease calls me forth.
 
@@ -1136,7 +1136,7 @@ I am as one disembodied, triumphant, dead.
 
 
 
-<span class="atom-split" data-atom="300_a_font_of_type" data-title="A Font of Type" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/the_book,motif/the_sea,concept/imagination,concept/the_artist_and_society,form/free_verse,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="300_a_font_of_type" data-title="A Font of Type" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_
@@ -1156,7 +1156,7 @@ Within the pallid slivers slumbering.
 
 
 
-<span class="atom-split" data-atom="326_life" data-title="Life" data-chapter="" data-kind="intro" data-tags="topos/the_quest,motif/the_journey,motif/the_road,concept/self_and_soul,concept/doubt,concept/immortality,concept/friendship,form/free_verse,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="326_life" data-title="Life" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1194,7 +1194,7 @@ duly over,)
 
 
 
-<span class="atom-split" data-atom="337_stronger_lessons" data-title="Stronger Lessons" data-chapter="" data-kind="intro" data-tags="concept/innocence_and_experience,concept/self_and_soul,concept/alienation,concept/identity,concept/conscience,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="337_stronger_lessons" data-title="Stronger Lessons" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1213,13 +1213,13 @@ or dispute the passage with you?
 
 
 
-<span class="atom-split" data-atom="343_not_meagre_latent_boughs_alone" data-title="Not Meagre, Latent Boughs Alone" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/seasons,motif/spring,motif/leaves,motif/rose,concept/faith,concept/immortality_of_art,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="343_not_meagre_latent_boughs_alone" data-title="Not Meagre, Latent Boughs Alone" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
 
 
-Not meagre, latent boughs alone, O songs! (scaly and bare, like  
+Not meagre, latent boughs [[Alone|alone]], O [[songs]]! (scaly and bare, like  
 eagles’ talons,)  
 But haply for some sunny day (who knows?) some future [[motifs/spring|spring]], some  
 [[motifs/summer|summer]]--bursting forth,  
@@ -1235,13 +1235,13 @@ And [[motifs/love|love]] and [[concepts/faith|faith]], like scented roses bloomi
 
 
 
-<span class="atom-split" data-atom="347_now_precedent_songs_farewell" data-title="Now Precedent Songs, Farewell" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/music_and_song,motif/blood,concept/memory_and_time,concept/war_and_its_cost,concept/self_and_soul,form/free_verse,setting/a_ship,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="347_now_precedent_songs_farewell" data-title="Now Precedent Songs, Farewell" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
 
 
-Now precedent songs, farewell--by every name farewell,  
+Now precedent [[songs]], farewell--by every name farewell,  
 (Trains of a staggering line in many a strange procession, waggons,  
 From ups and downs--with intervals--from elder years, mid-age, or youth,)  
 “In Cabin’d Ships, or Thee Old Cause or Poets to Come  
@@ -1253,7 +1253,7 @@ From fibre heart of mine--from throat and tongue--(My life’s hot
 pulsing [[motifs/blood|blood]],  
 The personal urge and form for me--not merely paper, automatic type  
 and ink,)  
-Each song of mine--each utterance in the past--having its long, long  
+Each [[Song|song]] of mine--each utterance in the past--having its long, long  
 [[concepts/history|history]],  
 Of life or [[motifs/death|death]], or soldier’s wound, of country’s loss or safety,  
 (O heaven! what flash and started endless train of all! compared  
@@ -1267,7 +1267,7 @@ What wretched shred e’en at the best of all!)
 
 
 
-<span class="atom-split" data-atom="362_long_long_hence" data-title="Long, Long Hence" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/the_book,concept/immortality_of_art,concept/memory_and_time,form/free_verse,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="362_long_long_hence" data-title="Long, Long Hence" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -1277,7 +1277,7 @@ After a long, long course, hundreds of years, denials,
 Accumulations, rous’d [[motifs/love|love]] and joy and thought,  
 Hopes, wishes, aspirations, ponderings, victories, myriads of readers,  
 Coating, compassing, covering--after ages’ and ages’ encrustations,  
-Then only may these songs reach fruition.  
+Then only may these [[songs]] reach fruition.  
 
 
 
@@ -1286,7 +1286,7 @@ Then only may these songs reach fruition.
 
 
 
-<span class="atom-split" data-atom="380_good_bye_my_fancy" data-title="Good-Bye My Fancy!" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/death,motif/the_clock,concept/mortality,concept/self_and_soul,concept/immortality,concept/nostalgia,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="380_good_bye_my_fancy" data-title="Good-Bye My Fancy!" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -1311,7 +1311,7 @@ into one;
 Then if we die we die together, (yes, we’ll remain one,)  
 If we go anywhere we’ll go together to meet what happens,  
 May-be we’ll be better off and blither, and learn something,  
-May-be it is yourself now really ushering me to the true songs, (who  
+May-be it is yourself now really ushering me to the true [[songs]], (who  
 knows?)  
 May-be it is you the mortal knob really undoing, turning--so now finally,  
 Good-bye--and hail! my Fancy.  

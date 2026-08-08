@@ -33,5 +33,5 @@ tags:
 **Themes & Concepts:** [[concepts/ambition|Ambition]], [[concepts/argument-from-authority|Argument from Authority]], [[concepts/wonder|Wonder]]
 **Motifs:** [[motifs/machine|Machine]], [[concepts/uncanny|Uncanny]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/professor-challenger|Professor Challenger]]
-**Archetypes:** [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
+**Characters:** Professor Challenger
+**Archetypes:** Wise Old Man Sage

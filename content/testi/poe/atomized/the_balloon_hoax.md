@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_balloon_hoax" data-title="The Balloon-Hoax" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-balloon-hoax-(poe)|The Balloon-Hoax]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -305,7 +305,7 @@ Un principio insolitamente profondo nella dinamica.
 
 “Tuttavia, il signor Mason era molto soddisfatto dell’esito finale.”
 
-Risultato positivo del suo invento lo spinse a decidere di costruirlo.
+[[success|Risultato]] positivo del suo invento lo spinse a decidere di costruirlo.
 
 immediatamente, se possibile, un pallone di capacità sufficiente per…
 
@@ -560,7 +560,7 @@ Titolo:
 
 Sabato mattina, all’istante preciso del sesto minuto, nel cortile di Weal-Vor.
 
-La casa di House, la residenza del signor Osborne, si trova a circa un miglio da Penstruthal.
+La casa di [[house|House]], la residenza del signor Osborne, si trova a circa un miglio da Penstruthal.
 
 Nord del Galles; alle 11:07 precise, quando tutto è pronto
 
@@ -786,7 +786,7 @@ Era chiaramente visibile a causa della sua fosforescenza. Il [[motifs/wind|vento
 
 Veniva dall’Est per tutta la [[motifs/night|notte]], e ci portò i segni più positivi.
 
-Successo. Abbiamo sofferto molto a causa del freddo e dell'umidità.
+[[success|Successo]]. Abbiamo sofferto molto a causa del freddo e dell'umidità.
 
 L’atmosfera era molto sgradevole; ma lo spazio ampio all’interno dell’auto…
 
@@ -804,7 +804,7 @@ Niente è più sublime della strana pericolosità e novità di…
 
 Avventura come questa… Possa Dio concederci il successo! Non chiedo altro.
 
-Successo, solo per garantire la mia incolumità, una persona così insignificante come me, ma pur sempre.
+[[success|Successo]], solo per garantire la mia incolumità, una persona così insignificante come me, ma pur sempre.
 
 Per il bene della conoscenza umana… e per la grandezza di quel trionfo. E
 
@@ -1568,7 +1568,7 @@ unusually profound principle in dynamics.
 
 “So [[motifs/well|well]] satisfied, however, was Mr. Mason of the ultimate
 
-success of his invention, that he determined to construct
+[[success]] of his invention, that he determined to construct
 
 immediately, if possible, a balloon of sufficient capacity to
 
@@ -1763,7 +1763,7 @@ Un principio insolitamente profondo nella dinamica.
 
 “Tuttavia, il signor Mason era molto soddisfatto dell’esito finale.”
 
-Risultato positivo del suo invento lo spinse a decidere di costruirlo.
+[[success|Risultato]] positivo del suo invento lo spinse a decidere di costruirlo.
 
 immediatamente, se possibile, un pallone di capacità sufficiente per…
 
@@ -2016,7 +2016,7 @@ unexpected events, however, rendered these passports superfluous.
 
 Saturday morning, the 6th instant, in the [[settings/court|Court]]-Yard of Weal-Vor
 
-House, Mr. Osborne’s seat, about a mile from Penstruthal, in
+[[house|House]], Mr. Osborne’s seat, about a mile from Penstruthal, in
 
 North Wales; and at 7 minutes past 11, every thing being ready
 
@@ -2208,7 +2208,7 @@ Titolo:
 
 Sabato mattina, all’istante preciso del sesto minuto, nel cortile di Weal-Vor.
 
-La casa di House, la residenza del signor Osborne, si trova a circa un miglio da Penstruthal.
+La casa di [[house|House]], la residenza del signor Osborne, si trova a circa un miglio da Penstruthal.
 
 Nord del Galles; alle 11:07 precise, quando tutto è pronto
 
@@ -2615,7 +2615,7 @@ was clearly visible on account of its phosphorescence. The [[motifs/wind|wind]]
 
 was from the East all [[motifs/night|night]], and gave us the brightest omen of
 
-success. We suffered no little from cold, and the dampness of the
+[[success]]. We suffered no little from cold, and the dampness of the
 
 atmosphere was most unpleasant; but the ample space in the car
 
@@ -2633,7 +2633,7 @@ nothing more sublimating than the strange peril and novelty of an
 
 adventure such as this. May God grant that we succeed! I ask not
 
-success for mere safety to my insignificant person, but for the
+[[success]] for mere safety to my insignificant person, but for the
 
 sake of human knowledge and—for the vastness of the triumph. And
 
@@ -2796,7 +2796,7 @@ Era chiaramente visibile a causa della sua fosforescenza. Il [[motifs/wind|vento
 
 Veniva dall’Est per tutta la [[motifs/night|notte]], e ci portò i segni più positivi.
 
-Successo. Abbiamo sofferto molto a causa del freddo e dell'umidità.
+[[success|Successo]]. Abbiamo sofferto molto a causa del freddo e dell'umidità.
 
 L’atmosfera era molto sgradevole; ma lo spazio ampio all’interno dell’auto…
 
@@ -2814,7 +2814,7 @@ Niente è più sublime della strana pericolosità e novità di…
 
 Avventura come questa… Possa Dio concederci il successo! Non chiedo altro.
 
-Successo, solo per garantire la mia incolumità, una persona così insignificante come me, ma pur sempre.
+[[success|Successo]], solo per garantire la mia incolumità, una persona così insignificante come me, ma pur sempre.
 
 Per il bene della conoscenza umana… e per la grandezza di quel trionfo. E
 

@@ -45,12 +45,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/dance-of-death|Dance of Death]], [[topoi/memento-mori|Memento Mori]], [[topoi/tempus-fugit|Tempus Fugit]], [[topoi/vanitas|Vanitas]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
-**Archetypes:** [[archetypes/death-personified-(2)|Death Personified (2)]], [[archetypes/tyrant|Tyrant]]
+**Archetypes:** Death Personified (2), Tyrant
 **Motifs:** [[motifs/death|Death]], [[motifs/clock|Clock]], [[motifs/blood|Blood]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/light-and-dark|Light and Dark]], [[motifs/time|Time]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/dreams|Dreams]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/pride|Pride]], [[concepts/power-and-corruption|Power and Corruption]]
 **Forms & Genres:** [[forms/allegory|Allegory]], [[forms/short-story|Short Story]]
 **Settings:** [[settings/castle|Castle]]
-**Characters:** [[characters/death-personified|Death Personified]], [[characters/prince-prospero|Prince Prospero]]
+**Characters:** Death Personified, Prince Prospero
 
 ## Testo integrale / Full text
 

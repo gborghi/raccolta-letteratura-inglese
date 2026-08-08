@@ -36,83 +36,83 @@ tags:
 - [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
 - [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
 - [[works/allegoric-vision-(coleridge)|ALLEGORIC VISION (Coleridge)]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#331_epitaph_on_a_bad_man|EPITAPH ON A BAD MAN (Coleridge)]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#253_human_life|HUMAN LIFE (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#328_occasioned_by_the_last|OCCASIONED BY THE LAST (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#307_on_an_amorous_doctor|ON AN AMOROUS DOCTOR (Coleridge)]]
-- [[testi/coleridge/atomized/terror-and-horror-madness#239_the_madman_and_the_lethargist|THE MADMAN AND THE LETHARGIST (Coleridge)]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#225_what_is_life|WHAT IS LIFE (Coleridge)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0101_will_there_really_be_a_morning|101. Will there really be a Morning (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1012_which_is_best_heaven|1012. Which is best Heaven — (Dickinson)]]
-- [[testi/dickinson/atomized/terror-and-horror-madness#1062_he_scanned_it_staggered|1062. He scanned it — staggered — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1076_just_once_oh_least_request|1076. Just Once! Oh least Request! (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1080_when_they_come_back_if_blossoms_do|1080. When they come back — if Blossoms do — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1187_oh_shadow_on_the_grass|1187. Oh Shadow on the Grass, (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1195_what_we_see_we_know_somewhat|1195. What we see we know somewhat (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1202_the_frost_was_never_seen|1202. The Frost was never seen — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0127_houses_so_the_wise_men_tell_me|127. Houses — so the Wise Men tell me — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1408_the_fact_that_earth_is_heaven|1408. The Fact that Earth is Heaven — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1413_sweet_skepticism_of_the_heart|1413. Sweet Skepticism of the Heart — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1417_how_human_nature_dotes|1417. How Human Nature dotes (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1461_heavenly_father_take_to_thee|1461. Heavenly Father — take to thee (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0149_she_went_as_quiet_as_the_dew|149. She went as quiet as the Dew (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1503_more_than_the_grave_is_closed_to_me|1503. More than the Grave is closed to me — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1551_those_dying_then|1551. Those — dying then, (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0156_you_love_me_you_are_sure|156. You love me — you are sure — (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1591_the_bobolink_is_gone|1591. The Bobolink is gone — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1601_of_god_we_ask_one_favor|1601. Of God we ask one favor, (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#1603_the_going_from_a_world_we_know|1603. The going from a world we know (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1646_why_should_we_hurry_why_indeed|1646. Why should we hurry — why indeed (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1649_a_cap_of_lead_across_the_sky|1649. A Cap of Lead across the sky (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1751_there_comes_an_hour_when_begging_stops|1751. There comes an hour when begging stops, (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0178_i_cautious_scanned_my_little_life|178. I cautious, scanned my little life — (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#0201_two_swimmers_wrestled_on_the_spar|201. Two swimmers wrestled on the spar — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0293_i_got_so_i_could_take_his_name|293. I got so I could take his name — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0338_i_know_that_he_exists|338. I know that He exists. (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0351_i_felt_my_life_with_both_my_hands|351. I felt my life with both my hands (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0376_of_course_i_prayed|376. Of Course — I prayed — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0377_to_lose_ones_faith_surpass|377. To lose one's faith — surpass (Dickinson)]]
-- [[testi/dickinson/atomized/alienation-outsider-exile#0378_i_saw_no_way_the_heavens_were_stitched|378. I saw no Way — The Heavens were stitched — (Dickinson)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#0403_the_winters_are_so_short|403. The Winters are so short — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0408_unit_like_death_for_whom|408. Unit, like Death, for Whom (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0413_i_never_felt_at_home_below_-|413. I never felt at Home — Below —- (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0417_is_it_dead_find_it|417. Is it dead — Find it — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0437_prayer_is_the_little_implement|437. Prayer is the little implement (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0460_i_know_where_wells_grow_droughtless_wells|460. I know where Wells grow — Droughtless Wells — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0462_why_make_it_doubt_it_hurts_it_so|462. Why make it doubt — it hurts it so — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0476_i_meant_to_have_but_modest_needs|476. I meant to have but modest needs — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0489_we_pray_to_heaven|489. We pray — to Heaven — (Dickinson)]]
-- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0497_he_strained_my_faith|497. He strained my faith — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0501_this_world_is_not_conclusion|501. This World is not Conclusion. (Dickinson)]]
-- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0502_at_least_to_pray_is_left_is_left|502. At least — to pray — is left — is left — (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#0052_whether_my_bark_went_down_at_sea|52. Whether my bark went down at sea — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0547_ive_seen_a_dying_eye|547. I've seen a Dying Eye (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0555_trust_in_the_unexpected|555. Trust in the Unexpected — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0564_my_period_had_come_for_prayer|564. My period had come for Prayer — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0576_i_prayed_at_first_a_little_girl|576. I prayed, at first, a little Girl, (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0597_it_always_felt_to_me_a_wrong|597. It always felt to me — a wrong (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0600_it_troubled_me_as_once_i_was|600. It troubled me as once I was — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0069_low_at_my_problem_bending|69. Low at my problem bending, (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0690_victory_comes_late|690. Victory comes late — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0696_their_height_in_heaven_comforts_not|696. Their Height in Heaven comforts not — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0722_sweet_mountains_ye_tell_me_no_lie|722. Sweet Mountains — Ye tell Me no lie — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0724_its_easy_to_invent_a_life|724. It's easy to invent a Life — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0742_four_trees_upon_a_solitary_acre|742. Four Trees — upon a solitary Acre — (Dickinson)]]
-- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0751_my_worthiness_is_all_my_doubt|751. My Worthiness is all my Doubt — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0861_split_the_lark_and_youll_find_the_music|861. Split the Lark — and you'll find the Music — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0965_denial_is_the_only_fact|965. Denial — is the only fact (Dickinson)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#087_oh_i_am_frightend_with_most_hateful_thoughts|Oh, I am frighten’d with most hateful thoughts! (Keats)]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#108_sonnet_written_upon_the_top_of_ben_nevis|Sonnet Written upon the Top of Ben Nevis (Keats)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#120_sonnet_why_did_i_laugh_tonight_no_voice_will_tell|Sonnet Why did I laugh tonight No voice will tell (Keats)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_092|Sonnet 92 (Shakespeare)]]
+- [[works/epitaph-on-a-bad-man-(coleridge)|EPITAPH ON A BAD MAN (Coleridge)]]
+- [[works/human-life-(coleridge)|HUMAN LIFE (Coleridge)]]
+- [[works/occasioned-by-the-last-(coleridge)|OCCASIONED BY THE LAST (Coleridge)]]
+- [[works/on-an-amorous-doctor-(coleridge)|ON AN AMOROUS DOCTOR (Coleridge)]]
+- [[works/the-madman-and-the-lethargist-(coleridge)|THE MADMAN AND THE LETHARGIST (Coleridge)]]
+- [[works/what-is-life-(coleridge)|WHAT IS LIFE (Coleridge)]]
+- 101. Will there really be a Morning (Dickinson)
+- 1012. Which is best Heaven — (Dickinson)
+- 1062. He scanned it — staggered — (Dickinson)
+- 1076. Just Once! Oh least Request! (Dickinson)
+- 1080. When they come back — if Blossoms do — (Dickinson)
+- 1187. Oh Shadow on the Grass, (Dickinson)
+- 1195. What we see we know somewhat (Dickinson)
+- 1202. The Frost was never seen — (Dickinson)
+- 127. Houses — so the Wise Men tell me — (Dickinson)
+- 1408. The Fact that Earth is Heaven — (Dickinson)
+- 1413. Sweet Skepticism of the Heart — (Dickinson)
+- 1417. How Human Nature dotes (Dickinson)
+- 1461. Heavenly Father — take to thee (Dickinson)
+- 149. She went as quiet as the Dew (Dickinson)
+- 1503. More than the Grave is closed to me — (Dickinson)
+- 1551. Those — dying then, (Dickinson)
+- 156. You love me — you are sure — (Dickinson)
+- 1591. The Bobolink is gone — (Dickinson)
+- 1601. Of God we ask one favor, (Dickinson)
+- 1603. The going from a world we know (Dickinson)
+- 1646. Why should we hurry — why indeed (Dickinson)
+- 1649. A Cap of Lead across the sky (Dickinson)
+- 1751. There comes an hour when begging stops, (Dickinson)
+- 178. I cautious, scanned my little life — (Dickinson)
+- 201. Two swimmers wrestled on the spar — (Dickinson)
+- 293. I got so I could take his name — (Dickinson)
+- 338. I know that He exists. (Dickinson)
+- 351. I felt my life with both my hands (Dickinson)
+- 376. Of Course — I prayed — (Dickinson)
+- 377. To lose one's faith — surpass (Dickinson)
+- 378. I saw no Way — The Heavens were stitched — (Dickinson)
+- 403. The Winters are so short — (Dickinson)
+- 408. Unit, like Death, for Whom (Dickinson)
+- 413. I never felt at Home — Below —- (Dickinson)
+- 417. Is it dead — Find it — (Dickinson)
+- 437. Prayer is the little implement (Dickinson)
+- 460. I know where Wells grow — Droughtless Wells — (Dickinson)
+- 462. Why make it doubt — it hurts it so — (Dickinson)
+- 476. I meant to have but modest needs — (Dickinson)
+- 489. We pray — to Heaven — (Dickinson)
+- 497. He strained my faith — (Dickinson)
+- 501. This World is not Conclusion. (Dickinson)
+- 502. At least — to pray — is left — is left — (Dickinson)
+- 52. Whether my bark went down at sea — (Dickinson)
+- 547. I've seen a Dying Eye (Dickinson)
+- 555. Trust in the Unexpected — (Dickinson)
+- 564. My period had come for Prayer — (Dickinson)
+- 576. I prayed, at first, a little Girl, (Dickinson)
+- 597. It always felt to me — a wrong (Dickinson)
+- 600. It troubled me as once I was — (Dickinson)
+- 69. Low at my problem bending, (Dickinson)
+- 690. Victory comes late — (Dickinson)
+- 696. Their Height in Heaven comforts not — (Dickinson)
+- 722. Sweet Mountains — Ye tell Me no lie — (Dickinson)
+- 724. It's easy to invent a Life — (Dickinson)
+- 742. Four Trees — upon a solitary Acre — (Dickinson)
+- 751. My Worthiness is all my Doubt — (Dickinson)
+- 861. Split the Lark — and you'll find the Music — (Dickinson)
+- 965. Denial — is the only fact (Dickinson)
+- [[works/oh,-i-am-frighten’d-with-most-hateful-thoughts!-(keats)|Oh, I am frighten’d with most hateful thoughts! (Keats)]]
+- [[works/sonnet-written-upon-the-top-of-ben-nevis-(keats)|Sonnet Written upon the Top of Ben Nevis (Keats)]]
+- [[works/sonnet-why-did-i-laugh-tonight-no-voice-will-tell-(keats)|Sonnet Why did I laugh tonight No voice will tell (Keats)]]
+- Sonnet 92 (Shakespeare)
 - [[works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)|THE TRAGEDY OF KING LEAR - THE FOLIO TEXT (Shakespeare)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#103_as_i_ebb_d_with_the_ocean_of_life|As I Ebb’d with the Ocean of Life (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#177_as_i_lay_with_my_head_in_your_lap_camerado|As I Lay with My Head in Your Lap Camerado (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#326_life|Life (Whitman)]]
-- [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#049_of_the_terrible_doubt_of_appearances|Of the Terrible Doubt of Appearances (Whitman)]]
+- [[works/as-i-ebb’d-with-the-ocean-of-life-(whitman)|As I Ebb’d with the Ocean of Life (Whitman)]]
+- [[works/as-i-lay-with-my-head-in-your-lap-camerado-(whitman)|As I Lay with My Head in Your Lap Camerado (Whitman)]]
+- [[works/life-(whitman)|Life (Whitman)]]
+- [[works/of-the-terrible-doubt-of-appearances-(whitman)|Of the Terrible Doubt of Appearances (Whitman)]]
 - [[works/thought-(whitman)-(2)|Thought (Whitman) (2)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#321_to_get_the_final_lilt_of_songs|To Get the Final Lilt of Songs (Whitman)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#239_yet_yet_ye_downcast_hours|Yet, Yet, Ye Downcast Hours (Whitman)]]
+- [[works/to-get-the-final-lilt-of-songs-(whitman)|To Get the Final Lilt of Songs (Whitman)]]
+- [[works/yet,-yet,-ye-downcast-hours-(whitman)|Yet, Yet, Ye Downcast Hours (Whitman)]]
 - [[works/the-journey-(conan-doyle)|The Journey (Conan Doyle)]]
 - [[works/the-land-of-mist-(conan-doyle)|The Land of Mist (Conan Doyle)]]
 - [[works/introduction-to-'essays-in-literature-and-history'-(belloc)|Introduction to 'Essays in Literature and History' (Belloc)]]

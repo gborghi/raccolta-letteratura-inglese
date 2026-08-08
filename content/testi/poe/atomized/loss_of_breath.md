@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="loss_of_breath" data-title="Loss of Breath" data-chapter="" data-kind="intro"></span>
 
-# [[works/loss-of-breath-(poe)|Loss of Breath]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -25,7 +25,7 @@ Melodie di Moore
 
 Il più noto sfortunio, alla fine, deve cedere…
 
-Il instancabile [[concepts/courage|coraggio]] della filosofia: come la più testarda delle [[motifs/city|città]].
+Il instancabile [[concepts/courage|coraggio]] della [[philosophy|filosofia]]: come la più testarda delle [[motifs/city|città]].
 
 La costante allerta di un nemico… Shalmanezer, così come lo conosciamo noi.
 
@@ -199,7 +199,7 @@ Ho trovato l’oggetto che cercavo… Forse ha qualcosa di “vaporoso”…
 
 Potrebbe persino assumere una forma concreta. La maggior parte dei filosofi, nel corso dei secoli…
 
-I concetti della filosofia di William sono ancora molto poco filosofici.
+I concetti della [[philosophy|filosofia]] di William sono ancora molto poco filosofici.
 
 Godwin, tuttavia, afferma nel suo “Mandeville” che “le cose invisibili…”
 
@@ -267,7 +267,7 @@ Disposizioni da prendere prima della mia partenza dal paese… per questo avevo�
 
 Ho già preso una decisione. In un ambiente straniero, essendo sconosciuta…
 
-Con una certa probabilità di riuscita, si potrebbe provare a nascondere il mio.
+Con una certa probabilità di [[success|riuscita]], si potrebbe provare a nascondere il mio.
 
 Una calamità infelice… una calamità pianificata, ancora più terribile della povertà stessa.
 
@@ -497,7 +497,7 @@ Il granaio; e la signora del chirurgo che mi ha ospitato…
 
 “Mi legò la bocca con un fazzoletto da tasca… e poi chiuse a chiave la porta.”
 
-In apparenza, mentre si affrettava a mangiare la cena, mi lasciò solo.
+In apparenza, mentre si affrettava a mangiare la cena, mi lasciò [[Alone|solo]].
 
 [[motifs/silence|Silenzio]] e meditazione.
 
@@ -673,11 +673,11 @@ Sepolto in un cimitero pubblico.
 
 Qui, dopo un certo lasso di tempo, fui lasciato indietro. Il sacrestano se ne andò.
 
-E rimasi solo. Una strofa del poema “Malcontent” di Marston.
+E rimasi [[Alone|solo]]. Una strofa del poema “Malcontent” di Marston.
 
 
 
-[[motifs/death|Morte]] è un bravo ragazzo e tiene sempre la sua casa aperta.
+[[motifs/death|Morte]] è un bravo ragazzo e tiene sempre la sua [[house|casa]] aperta.
 
 
 
@@ -1061,7 +1061,7 @@ O breathe not, etc.
 
 The most notorious ill-fortune must in the end yield to the
 
-untiring [[concepts/courage|courage]] of philosophy—as the most stubborn [[motifs/city|city]] to the
+untiring [[concepts/courage|courage]] of [[philosophy]]—as the most stubborn [[motifs/city|city]] to the
 
 ceaseless vigilance of an enemy. Shalmanezer, as we have it in
 
@@ -1233,7 +1233,7 @@ found the lost object of my inquiry. It might have a vapory—it
 
 might even have a tangible form. Most philosophers, upon many
 
-points of philosophy, are still very unphilosophical. William
+points of [[philosophy]], are still very unphilosophical. William
 
 Godwin, however, says in his “Mandeville,” that “invisible things
 
@@ -1266,7 +1266,7 @@ Melodie di Moore
 
 Il più noto sfortunio, alla fine, deve cedere…
 
-Il instancabile [[concepts/courage|coraggio]] della filosofia: come la più testarda delle [[motifs/city|città]].
+Il instancabile [[concepts/courage|coraggio]] della [[philosophy|filosofia]]: come la più testarda delle [[motifs/city|città]].
 
 La costante allerta di un nemico… Shalmanezer, così come lo conosciamo noi.
 
@@ -1440,7 +1440,7 @@ Ho trovato l’oggetto che cercavo… Forse ha qualcosa di “vaporoso”…
 
 Potrebbe persino assumere una forma concreta. La maggior parte dei filosofi, nel corso dei secoli…
 
-I concetti della filosofia di William sono ancora molto poco filosofici.
+I concetti della [[philosophy|filosofia]] di William sono ancora molto poco filosofici.
 
 Godwin, tuttavia, afferma nel suo “Mandeville” che “le cose invisibili…”
 
@@ -1513,7 +1513,7 @@ arrangements prior to my leaving the country, for to this I had
 
 already made up my mind. In a foreign climate, being unknown, I
 
-might, with some probability of success, endeavor to conceal my
+might, with some probability of [[success]], endeavor to conceal my
 
 unhappy calamity—a calamity calculated, even more than beggary,
 
@@ -1708,7 +1708,7 @@ Disposizioni da prendere prima della mia partenza dal paese… per questo avevo�
 
 Ho già preso una decisione. In un ambiente straniero, essendo sconosciuta…
 
-Con una certa probabilità di riuscita, si potrebbe provare a nascondere il mio.
+Con una certa probabilità di [[success|riuscita]], si potrebbe provare a nascondere il mio.
 
 Una calamità infelice… una calamità pianificata, ancora più terribile della povertà stessa.
 
@@ -1941,7 +1941,7 @@ drawers and stockings, the surgeon himself fastened my hands, and
 
 tied up my jaws with a pocket-handkerchief—then bolted the door
 
-on the outside as he hurried to his dinner, leaving me alone to
+on the outside as he hurried to his dinner, leaving me [[Alone|alone]] to
 
 [[motifs/silence|silence]] and to meditation.
 
@@ -2142,7 +2142,7 @@ Il granaio; e la signora del chirurgo che mi ha ospitato…
 
 “Mi legò la bocca con un fazzoletto da tasca… e poi chiuse a chiave la porta.”
 
-In apparenza, mentre si affrettava a mangiare la cena, mi lasciò solo.
+In apparenza, mentre si affrettava a mangiare la cena, mi lasciò [[Alone|solo]].
 
 [[motifs/silence|Silenzio]] e meditazione.
 
@@ -2323,11 +2323,11 @@ interred in a public vault.
 
 Here, after due interval, I was deposited. The sexton departed,
 
-and I was left alone. A line of Marston’s “Malcontent”—
+and I was left [[Alone|alone]]. A line of Marston’s “Malcontent”—
 
 
 
-[[motifs/death|Death]]’s a good fellow and keeps open house—
+[[motifs/death|Death]]’s a good fellow and keeps open [[house]]—
 
 
 
@@ -2530,11 +2530,11 @@ Sepolto in un cimitero pubblico.
 
 Qui, dopo un certo lasso di tempo, fui lasciato indietro. Il sacrestano se ne andò.
 
-E rimasi solo. Una strofa del poema “Malcontent” di Marston.
+E rimasi [[Alone|solo]]. Una strofa del poema “Malcontent” di Marston.
 
 
 
-[[motifs/death|Morte]] è un bravo ragazzo e tiene sempre la sua casa aperta.
+[[motifs/death|Morte]] è un bravo ragazzo e tiene sempre la sua [[house|casa]] aperta.
 
 
 
@@ -2832,7 +2832,7 @@ details of an occurrence by which—and this is very true—much new
 
 light might be thrown upon a highly interesting branch of
 
-physical philosophy.
+physical [[philosophy]].
 
 
 
@@ -2878,7 +2878,7 @@ a life at all times sufficiently eventful, without again
 
 recalling to the attention of the reader the merits of that
 
-indiscriminate philosophy which is a sure and ready shield
+indiscriminate [[philosophy]] which is a sure and ready shield
 
 against those shafts of calamity which can neither be seen, felt
 

@@ -18,73 +18,73 @@ tags:
 - [[works/towers-of-time-(chesterton)|towers-of-time (Chesterton)]]
 - [[works/myths-and-metaphors-(chesterton)|Myths and Metaphors (Chesterton)]]
 - [[works/on-abolishing-sunday-(chesterton)|On Abolishing Sunday (Chesterton)]]
-- [[testi/coleridge/atomized/transience-decay-carpe-diem#359_inscription_for_a_time-piece|INSCRIPTION FOR A TIME-PIECE (Coleridge)]]
-- [[testi/coleridge/atomized/transience-decay-carpe-diem#258_limbo|LIMBO (Coleridge)]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#095_lines_to_a_friend_in_answer_to_a_melancholy_letter|LINES TO A FRIEND IN ANSWER TO A MELANCHOLY LETTER (Coleridge)]]
-- [[testi/coleridge/atomized/transience-decay-carpe-diem#006_quae_nocent_docent|QUAE NOCENT DOCENT (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#248_time_real_and_imaginary|TIME, REAL AND IMAGINARY (Coleridge)]]
+- [[works/inscription-for-a-time-piece-(coleridge)|INSCRIPTION FOR A TIME-PIECE (Coleridge)]]
+- [[works/limbo-(coleridge)|LIMBO (Coleridge)]]
+- [[works/lines-to-a-friend-in-answer-to-a-melancholy-letter-(coleridge)|LINES TO A FRIEND IN ANSWER TO A MELANCHOLY LETTER (Coleridge)]]
+- [[works/quae-nocent-docent-(coleridge)|QUAE NOCENT DOCENT (Coleridge)]]
+- [[works/time,-real-and-imaginary-(coleridge)|TIME, REAL AND IMAGINARY (Coleridge)]]
 - [[works/the-chimes-(dickens)|The Chimes (Dickens)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1039_i_heard_as_if_i_had_no_ear|1039. I heard, as if I had no Ear (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#1056_there_is_a_zone_whose_even_years|1056. There is a Zone whose even Years (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1084_at_half_past_three_a_single_bird|1084. At Half past Three, a single Bird (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#1106_we_do_not_know_the_time_we_lose|1106. We do not know the time we lose — (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#1120_this_slow_day_moved_along|1120. This slow Day moved along — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1150_how_many_schemes_may_die|1150. How many schemes may die (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1167_alone_and_in_a_circumstance|1167. Alone and in a Circumstance (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1168_as_old_as_woe|1168. As old as Woe — (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#1184_the_days_that_we_can_spare|1184. The Days that we can spare (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#1236_like_times_insidious_wrinkle|1236. Like Time's insidious wrinkle (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#1267_i_saw_that_the_flake_was_on_it|1267. I saw that the Flake was on it (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#1276_twas_later_when_the_summer_went|1276. 'Twas later when the summer went (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#1280_the_harm_of_years_is_on_him|1280. The harm of Years is on him — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1294_two_lengths_has_every_day|1294. Two Lengths has every Day — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1296_deaths_waylaying_not_the_sharpest|1296. Death's Waylaying not the sharpest (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#1444_a_little_snow_was_here_and_there|1444. A little Snow was here and there (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#1473_we_talked_with_each_other_about_each_other|1473. We talked with each other about each other (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#1507_the_pile_of_years_is_not_so_high|1507. The Pile of Years is not so high (Dickinson)]]
-- [[testi/dickinson/atomized/terror-and-horror-madness#1509_mine_enemy_is_growing_old|1509. Mine Enemy is growing old — (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#1631_oh_future_thou_secreted_peace|1631. Oh Future! thou secreted peace (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#1656_down_times_quaint_stream|1656. Down Time's quaint stream (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#1738_softened_by_times_consummate_plush|1738. Softened by Time's consummate plush, (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0287_a_clock_stopped|287. A Clock stopped — (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#0345_funny_to_be_a_century|345. Funny — to be a Century — (Dickinson)]]
-- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0349_i_had_the_glory_that_will_do|349. I had the Glory — that will do — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0362_it_struck_me_every_day|362. It struck me — every Day — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0371_a_precious_mouldering_pleasure_tis|371. A precious — mouldering pleasure — 'tis — (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#0406_some_work_for_immortality|406. Some — Work for Immortality — (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#0423_the_months_have_ends_the_years_a_knot|423. The Months have ends — the Years — a knot — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0469_the_red_blaze_is_the_morning|469. The Red — Blaze — is the Morning — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0471_a_night_there_lay_the_days_between|471. A Night — there lay the Days between — (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#0478_i_had_no_time_to_hate|478. I had no time to Hate — (Dickinson)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#0511_if_you_were_coming_in_the_fall|511. If you were coming in the Fall, (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#0563_i_could_not_prove_the_years_had_feet|563. I could not prove the Years had feet — (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#0624_forever_is_composed_of_nows|624. Forever — is composed of Nows — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0635_i_think_the_longest_hour_of_all|635. I think the longest Hour of all (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0650_pain_has_an_element_of_blank|650. Pain — has an Element of Blank — (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0672_the_future_never_spoke|672. The Future — never spoke — (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0686_they_say_that_time_assuages|686. They say that Time assuages — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0712_because_i_could_not_stop_for_death|712. Because I could not stop for Death — (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#0800_two_were_immortal_twice|800. Two — were immortal twice — (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#0802_time_feels_so_vast_that_were_it_not|802. Time feels so vast that were it not (Dickinson)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#0846_twice_had_summer_her_fair_verdure|846. Twice had Summer her fair Verdure (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0865_he_outstripped_time_with_but_a_bout|865. He outstripped Time with but a Bout, (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0879_each_second_is_the_last|879. Each Second is the last (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0990_not_all_die_early_dying_young|990. Not all die early, dying young — (Dickinson)]]
-- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#103_a_lyric_if_time_and_space_as_sages_say|A Lyric ‘If Time and Space, as Sages say’ (Eliot)]]
+- 1039. I heard, as if I had no Ear (Dickinson)
+- 1056. There is a Zone whose even Years (Dickinson)
+- 1084. At Half past Three, a single Bird (Dickinson)
+- 1106. We do not know the time we lose — (Dickinson)
+- 1120. This slow Day moved along — (Dickinson)
+- 1150. How many schemes may die (Dickinson)
+- 1167. Alone and in a Circumstance (Dickinson)
+- 1168. As old as Woe — (Dickinson)
+- 1184. The Days that we can spare (Dickinson)
+- 1236. Like Time's insidious wrinkle (Dickinson)
+- 1267. I saw that the Flake was on it (Dickinson)
+- 1276. 'Twas later when the summer went (Dickinson)
+- 1280. The harm of Years is on him — (Dickinson)
+- 1294. Two Lengths has every Day — (Dickinson)
+- 1296. Death's Waylaying not the sharpest (Dickinson)
+- 1444. A little Snow was here and there (Dickinson)
+- 1473. We talked with each other about each other (Dickinson)
+- 1507. The Pile of Years is not so high (Dickinson)
+- 1509. Mine Enemy is growing old — (Dickinson)
+- 1631. Oh Future! thou secreted peace (Dickinson)
+- 1656. Down Time's quaint stream (Dickinson)
+- 1738. Softened by Time's consummate plush, (Dickinson)
+- 287. A Clock stopped — (Dickinson)
+- 345. Funny — to be a Century — (Dickinson)
+- 349. I had the Glory — that will do — (Dickinson)
+- 362. It struck me — every Day — (Dickinson)
+- 371. A precious — mouldering pleasure — 'tis — (Dickinson)
+- 406. Some — Work for Immortality — (Dickinson)
+- 423. The Months have ends — the Years — a knot — (Dickinson)
+- 469. The Red — Blaze — is the Morning — (Dickinson)
+- 471. A Night — there lay the Days between — (Dickinson)
+- 478. I had no time to Hate — (Dickinson)
+- 511. If you were coming in the Fall, (Dickinson)
+- 563. I could not prove the Years had feet — (Dickinson)
+- 624. Forever — is composed of Nows — (Dickinson)
+- 635. I think the longest Hour of all (Dickinson)
+- 650. Pain — has an Element of Blank — (Dickinson)
+- 672. The Future — never spoke — (Dickinson)
+- 686. They say that Time assuages — (Dickinson)
+- 712. Because I could not stop for Death — (Dickinson)
+- 800. Two — were immortal twice — (Dickinson)
+- 802. Time feels so vast that were it not (Dickinson)
+- 846. Twice had Summer her fair Verdure (Dickinson)
+- 865. He outstripped Time with but a Bout, (Dickinson)
+- 879. Each Second is the last (Dickinson)
+- 990. Not all die early, dying young — (Dickinson)
+- [[works/a-lyric-‘if-time-and-space,-as-sages-say’-(eliot)|A Lyric ‘If Time and Space, as Sages say’ (Eliot)]]
 - [[works/appendix-poems-written-in-early-youth-(eliot)|APPENDIX POEMS WRITTEN IN EARLY YOUTH (Eliot)]]
 - [[works/burnt-norton-1935-(eliot)|Burnt Norton 1935 (Eliot)]]
-- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#054_five-finger_exercises|Five-Finger Exercises (Eliot)]]
+- [[works/five-finger-exercises-(eliot)|Five-Finger Exercises (Eliot)]]
 - [[works/four-quartets-(eliot)|FOUR QUARTETS (Eliot)]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#007_the_boston_evening_transcript|The Boston Evening Transcript (Eliot)]]
+- [[works/the-boston-evening-transcript-(eliot)|The Boston Evening Transcript (Eliot)]]
 - [[works/the-dry-salvages-1941-(eliot)|The Dry Salvages 1941 (Eliot)]]
-- [[testi/eliot/atomized/alienation-outsider-exile#002_the_love_song_of_j_alfred_prufrock|The Love Song of J. Alfred Prufrock (Eliot)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#015_how_many_bards_gild_the_lapses_of_time|HOW MANY BARDS GILD THE LAPSES OF TIME! (Keats)]]
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#050_on_receiving_a_laurel_crown_from_leigh_hunt|On Receiving a Laurel Crown from Leigh Hunt (Keats)]]
-- [[testi/keats/atomized/seasons-winter-autumn#061_on_seeing_the_elgin_marbles|On Seeing the Elgin Marbles (Keats)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#072_sonnet_to_a_cat|Sonnet to a Cat (Keats)]]
-- [[testi/keats/atomized/seasons-winter-autumn#079_sonnet_to_a_lady_seen_for_a_few_moments_at_vauxhall|Sonnet to a Lady Seen for a Few Moments at Vauxhall (Keats)]]
-- [[testi/keats/atomized/seasons-winter-autumn#081_sonnet_to_john_hamilton_reynolds|Sonnet to John Hamilton Reynolds (Keats)]]
-- [[testi/keats/atomized/friendship-tears#011_to_charles_cowden_clarke|TO CHARLES COWDEN CLARKE (Keats)]]
+- [[works/the-love-song-of-j.-alfred-prufrock-(eliot)|The Love Song of J. Alfred Prufrock (Eliot)]]
+- [[works/how-many-bards-gild-the-lapses-of-time!-(keats)|HOW MANY BARDS GILD THE LAPSES OF TIME! (Keats)]]
+- [[works/on-receiving-a-laurel-crown-from-leigh-hunt-(keats)|On Receiving a Laurel Crown from Leigh Hunt (Keats)]]
+- [[works/on-seeing-the-elgin-marbles-(keats)|On Seeing the Elgin Marbles (Keats)]]
+- [[works/sonnet-to-a-cat-(keats)|Sonnet to a Cat (Keats)]]
+- [[works/sonnet-to-a-lady-seen-for-a-few-moments-at-vauxhall-(keats)|Sonnet to a Lady Seen for a Few Moments at Vauxhall (Keats)]]
+- [[works/sonnet-to-john-hamilton-reynolds-(keats)|Sonnet to John Hamilton Reynolds (Keats)]]
+- [[works/to-charles-cowden-clarke-(keats)|TO CHARLES COWDEN CLARKE (Keats)]]
 - [[works/a-predicament-(poe)|A Predicament (Poe)]]
 - [[works/mellonta-tauta-(poe)|Mellonta Tauta (Poe)]]
 - [[works/romance-(poe)|Romance (Poe)]]
@@ -94,39 +94,39 @@ tags:
 - [[works/the-happiest-day-(poe)|The Happiest Day (Poe)]]
 - [[works/the-masque-of-the-red-death-(poe)|The Masque of the Red Death (Poe)]]
 - [[works/2-henry-iv-(shakespeare)|2 HENRY IV (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_100|Sonnet 100 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_104|Sonnet 104 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_106|Sonnet 106 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_108|Sonnet 108 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_115|Sonnet 115 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_116|Sonnet 116 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_012|Sonnet 12 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_123|Sonnet 123 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_126|Sonnet 126 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_015|Sonnet 15 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_016|Sonnet 16 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_019|Sonnet 19 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_002|Sonnet 2 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_022|Sonnet 22 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_039|Sonnet 39 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_005|Sonnet 5 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_055|Sonnet 55 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_058|Sonnet 58 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_059|Sonnet 59 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_060|Sonnet 60 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_063|Sonnet 63 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_064|Sonnet 64 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_065|Sonnet 65 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_077|Sonnet 77 (Shakespeare)]]
+- Sonnet 100 (Shakespeare)
+- Sonnet 104 (Shakespeare)
+- Sonnet 106 (Shakespeare)
+- Sonnet 108 (Shakespeare)
+- Sonnet 115 (Shakespeare)
+- Sonnet 116 (Shakespeare)
+- Sonnet 12 (Shakespeare)
+- Sonnet 123 (Shakespeare)
+- Sonnet 126 (Shakespeare)
+- Sonnet 15 (Shakespeare)
+- Sonnet 16 (Shakespeare)
+- Sonnet 19 (Shakespeare)
+- Sonnet 2 (Shakespeare)
+- Sonnet 22 (Shakespeare)
+- Sonnet 39 (Shakespeare)
+- Sonnet 5 (Shakespeare)
+- Sonnet 55 (Shakespeare)
+- Sonnet 58 (Shakespeare)
+- Sonnet 59 (Shakespeare)
+- Sonnet 60 (Shakespeare)
+- Sonnet 63 (Shakespeare)
+- Sonnet 64 (Shakespeare)
+- Sonnet 65 (Shakespeare)
+- Sonnet 77 (Shakespeare)
 - [[works/the-winter’s-tale-(shakespeare)|THE WINTER’S TALE (Shakespeare)]]
 - [[works/troilus-and-cressida-(shakespeare)|TROILUS AND CRESSIDA (Shakespeare)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#306_america|America (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#008_for_him_i_sing|For Him I Sing (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#242_quicksand_years|Quicksand Years (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#016_savantism|Savantism (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#005_to_a_historian|To a Historian (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#234_to_think_of_time|To Think of Time (Whitman)]]
-- [[testi/whitman/atomized/heroism-hero-last-stand#308_to_day_and_thee|To-Day and Thee (Whitman)]]
+- [[works/america-(whitman)|America (Whitman)]]
+- [[works/for-him-i-sing-(whitman)|For Him I Sing (Whitman)]]
+- [[works/quicksand-years-(whitman)|Quicksand Years (Whitman)]]
+- [[works/savantism-(whitman)|Savantism (Whitman)]]
+- [[works/to-a-historian-(whitman)|To a Historian (Whitman)]]
+- [[works/to-think-of-time-(whitman)|To Think of Time (Whitman)]]
+- [[works/to-day-and-thee-(whitman)|To-Day and Thee (Whitman)]]
 - [[works/the-picture-of-dorian-gray-(wilde)|The Picture of Dorian Gray (Wilde)]]
 - [[works/the-last-galley-(conan-doyle)|The Last Galley (Conan Doyle)]]
 - [[works/the-last-of-the-legions-and-other-tales-of-long-ago-(conan-doyle)|The Last of the Legions and Other Tales of Long Ago (Conan Doyle)]]

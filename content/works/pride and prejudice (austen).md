@@ -88,13 +88,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/lover|Lover]]
+**Archetypes:** Lover
 **Motifs:** [[motifs/marriage|Marriage]], [[motifs/money-and-gold|Money and Gold]], [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/pride|Pride]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/romantic-love|Romantic Love]], [[concepts/class-conflict|Class Conflict]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/satire-of-society|Satire of Society]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/deception|Deception]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/humility|Humility]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/satire|Satire]], [[forms/comedy|Comedy]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** [[characters/elizabeth-bennet|Elizabeth Bennet]], [[characters/mr-darcy|Mr Darcy]], [[characters/jane-bennet|Jane Bennet]], [[characters/mr-bingley|Mr Bingley]], [[characters/mr-wickham|Mr Wickham]], [[characters/mr-collins|Mr Collins]], [[characters/lydia-bennet|Lydia Bennet]], [[characters/charlotte-lucas|Charlotte Lucas]], [[characters/lady-catherine-de-bourgh|Lady Catherine de Bourgh]]
+**Characters:** Elizabeth Bennet, Mr Darcy, Jane Bennet, Mr Bingley, Mr Wickham, Mr Collins, Lydia Bennet, Charlotte Lucas, Lady Catherine de Bourgh
 
 ## Testo integrale / Full text
 

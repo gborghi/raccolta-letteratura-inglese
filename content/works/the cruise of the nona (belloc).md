@@ -148,7 +148,7 @@ tags:
 **Motifs:** [[motifs/sea|Sea]], [[motifs/ship|Ship]], [[motifs/storm|Storm]], [[motifs/wind|Wind]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/danish-invasions|Danish Invasions]]
 **Settings:** [[settings/sea-(2)|Sea (2)]], [[motifs/ship|Ship]]
-**Archetypes:** [[archetypes/the-writer|The Writer]]
+**Archetypes:** The Writer
 **Topoi:** [[topoi/journey-of-life|Journey of Life]]
 
 **Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

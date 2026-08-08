@@ -93,7 +93,7 @@ tags:
 
 **Historical References:** [[historical-references/puritanism|Puritanism]], [[historical-references/new-england|New England]], [[historical-references/arthurian-legend|Arthurian Legend]], [[historical-references/milton|Milton]], [[historical-references/jonathan-swift|Jonathan Swift]]
 
-**Archetypes:** [[archetypes/rebel|Rebel]], [[archetypes/tyrant|Tyrant]], [[archetypes/martyr-saint|Martyr Saint]]
+**Archetypes:** Rebel, Tyrant, Martyr Saint
 
 **Settings:** [[settings/london|London]], [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/america|America]], [[settings/new-england-america|New England America]], [[settings/venice|Venice]], [[settings/denmark|Denmark]], [[settings/ancient-rome|Ancient Rome]], [[settings/europe|Europe]]
 
@@ -101,7 +101,7 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/poet-as-prophet|Poet as Prophet]], [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/golden-age|Golden Age]]
 
-**Characters:** [[characters/hamlet|Hamlet]], [[characters/portia|Portia]], [[characters/shylock|Shylock]], [[characters/macbeth|Macbeth]], [[characters/lady-macbeth|Lady Macbeth]], [[characters/banquo|Banquo]], [[characters/claudius|Claudius]], [[characters/falstaff|Falstaff]], [[characters/sam-weller|Sam Weller]], [[characters/tony-weller|Tony Weller]], [[characters/samuel-pickwick|Samuel Pickwick]], [[characters/artful-dodger|Artful Dodger]], [[characters/dorian-gray|Dorian Gray]], [[characters/rosalind|Rosalind]], [[characters/viola|Viola]], [[characters/king-arthur|King Arthur]], [[characters/gulliver|Gulliver]], [[characters/joan-of-arc|Joan of Arc]]
+**Characters:** Hamlet, Portia, Shylock, Macbeth, Lady Macbeth, Banquo, Claudius, Falstaff, Sam Weller, Tony Weller, Samuel Pickwick, Artful Dodger, Dorian Gray, Rosalind, Viola, King Arthur, Gulliver, Joan of Arc
 
 **Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/artist-and-society|Artist and Society]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/equality-in-death|Equality in Death]], [[concepts/democracy|Democracy]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/slavery|Slavery]], [[concepts/distributism|Distributism]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/education|Education]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/literary-criticism|Literary Criticism]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]

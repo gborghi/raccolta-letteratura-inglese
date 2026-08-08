@@ -33,7 +33,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/quest|Quest]], [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/katabasis-descent|Katabasis Descent]]
-**Archetypes:** [[archetypes/quest-hero|Quest Hero]], [[archetypes/pilgrim|Pilgrim]]
+**Archetypes:** Quest Hero, Pilgrim
 **Motifs:** [[motifs/journey|Journey]], [[motifs/money-and-gold|Money and Gold]], [[motifs/moon|Moon]], [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/quest-(2)|Quest (2)]], [[concepts/disillusionment|Disillusionment]], [[concepts/mortality|Mortality]], [[concepts/ambition|Ambition]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/allegory|Allegory]]

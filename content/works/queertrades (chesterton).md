@@ -47,9 +47,9 @@ tags:
 
 ## Connections
 
-**Characters:** [[characters/basil-grant|Basil Grant]], [[characters/rupert-grant|Rupert Grant]], [[characters/mr-swinburne|Mr Swinburne]], [[characters/major-brown|Major Brown]], [[characters/p.-g.-northover|P. G. Northover]]
+**Characters:** Basil Grant, Rupert Grant, Mr Swinburne, Major Brown, P. G. Northover
 
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/trickster|Trickster]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
+**Archetypes:** Detective, Trickster, Wise Old Man Sage
 **Motifs:** [[motifs/city|City]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/clothing-and-costume|Clothing and Costume]]
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/grotesque|Grotesque]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/imagination|Imagination]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]

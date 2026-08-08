@@ -67,7 +67,7 @@ e le corone erano vive e crescevano, e la pietra era morta.
 Qualcosa nelle semplici sostanze e nei colori elementari,
 nella bianca luce del sole, e nell'immagine cupa e persino segreta,
 tenne la mente per un istante in mezzo a tutta la [[motifs/city|città]] in movimento,
-come un segno dato in sogno. Mi fu detto che la figura era
+come un segno dato in [[A Dream|sogno]]. Mi fu detto che la figura era
 quella di uno dei primi Giorgi; ma in verità mi pareva di sapere
 già che era il Bianco [[motifs/horse|Cavallo]] di Hannover a essersi così
 fatto grigio col tempo irlandese o verde col fogliame irlandese.
@@ -130,8 +130,8 @@ e molte decisamente contraddittorie, l'[[forms/allegory|allegoria]]
 di quelle due immagini di pietra in quel [[motifs/garden|giardino]] pubblico è rimasta
 nella mia [[motifs/memory|memoria]], e non si è capovolta. La Gloriosa Rivoluzione,
 il grande Liberatore protestante, la Successione hannoveriana,
-queste cose erano il vero fasto e l'apoteosi del successo.
-L'aristocratico whig non era semplicemente vittorioso; era come vincitore
+queste cose erano il vero fasto e l'apoteosi del [[success|successo]].
+L'[[aristocrat|aristocratico]] whig non era semplicemente vittorioso; era come vincitore
 che chiedeva la vittoria. La cosa era pienamente espressa in tutta
 la statuaria florida e insolente dell'epoca, in tutti quei tumidi
 cavalieri in uniforme romana e parrucche rococò raffigurati mentre s'impennano
@@ -160,7 +160,7 @@ Eppure non avevo lasciato il medesimo piccolo recinto senza aver visto
 un altro spettacolo ancora più simbolico dei [[motifs/flowers|fiori]] presso
 il piede del piedistallo del poeta. A pochi metri oltre il busto di Mangan
 c'era un appezzamento modello di ortaggi, come un [[motifs/garden|orto]] senza cucina
-o casa annessa, piantato in un mosaico di patate,
+o [[house|casa]] annessa, piantato in un mosaico di patate,
 cavoli e rape, per dimostrare quanto si potesse fare con un acro.
 E mi resi conto come in una visione che in tutta la nuova Irlanda quell'appezzamento
 si ripete come un motivo; e dove c'è un vero [[motifs/garden|orto]]
@@ -230,7 +230,7 @@ Ciò che è fatto in fretta è condannato a diventare trito. Si supponga che un
 uomo debba scrivere su un dato argomento, poniamo l'[[settings/america|America]]; se ha una
 giornata intera per farlo, è possibile che, negli ultimi bagliori del tramonto,
 egli abbia scoperto almeno una cosa che davvero pensa lui stesso sull'[[settings/america|America]].
-È immaginabile che, in qualche luogo sotto la stella della sera,
+È immaginabile che, in qualche luogo sotto la [[Evening Star|stella della sera]],
 gli venga un'idea nuova, magari perfino sul nuovo mondo. Se ha soltanto mezz'ora
 per scrivere, avrà appena il [[motifs/time|tempo]] di consultare un'enciclopedia e di
 ricordare vagamente gli ultimi articoli di fondo. L'enciclopedia sarà superata
@@ -276,7 +276,7 @@ situazione di grande interesse, oggetti verso i quali potrebbero provare notevol
 simpatia, e occasioni di cui potrebbero trarre considerevole vantaggio, se solo
 guardassero quel luogo in modo semplice e diretto, come guarderebbero un'isola
 del tutto nuova, con un nome del tutto nuovo, scoperta da quell'avventura
-marinaresca che è il vero romanzo dell'Inghilterra. In breve, potrebbe
+marinaresca che è il vero [[Romance|romanzo]] dell'Inghilterra. In breve, potrebbe
 farne qualcosa, se solo la trattasse come un oggetto posto davanti a sé, e non
 come un tema o una storia lasciata dietro di sé.
 Vi sarà occasione più avanti di dire tutto ciò che va detto sulla necessità di
@@ -329,7 +329,7 @@ differenza fondamentale renderebbe pericolosa la divisione; essa ha già reso
 impossibile l'[[concepts/union|unione]]. Ora, riordinando questi appunti di una visita
 tanto breve, [[concepts/suffering|soffrendo]] di tutta la stantìa fretta del mio mestiere
 giornalistico, sono stato in [[concepts/doubt|dubbio]] tra un ordine cronologico e uno
-logico degli eventi. Ma ho deciso a favore della logica, dell'alta luce
+logico degli eventi. Ma ho deciso a favore della [[logic|logica]], dell'alta luce
 che davvero rivelava il quadro, e alla quale credo fermamente si debba guardare
 ogni altra cosa. E se qualcuno mi chiedesse quale sia stata la vista che più mi
 colpì in Irlanda, tanto per stranezza quanto per significato, saprei che cosa
@@ -396,7 +396,7 @@ relativamente lindo e puntuale; ciò che era ordinato e organizzato era tardivo 
 sfasciato. Poiché bisogna comprendere con nettezza che i proprietari contadini
 riuscirono qui non solo perché erano realmente proprietari, ma perché erano
 soltanto contadini. Fu _perché_ operavano su piccola scala che ottennero un
-grande successo. Fu perché erano troppo poveri per avere servitori che
+grande [[success|successo]]. Fu perché erano troppo poveri per avere servitori che
 si arricchirono a dispetto degli scioperanti. Era, per quanto valeva, la più netta
 smentita possibile di tutto ciò che si dice in Inghilterra, tanto dai Collettivisti
 quanto dai Capitalisti, sull'efficienza della grande organizzazione. Poiché, nella
@@ -406,7 +406,7 @@ grande [[motifs/machine|macchina]] aveva cessato di funzionare, _perché_ era un
 [[motifs/machine|macchina]]. I piccoli uomini lavoravano ancora, perché non erano
 macchine. Tali erano le strane relazioni tra le due cose, che le [[motifs/stars|stelle]]
 nei loro corsi combattevano contro il Capitalismo; che le nubi stesse,
-rotolando su quella valle rocciosa, guerreggiavano per i suoi pigmei
+[[rolling|rotolando]] su quella valle rocciosa, guerreggiavano per i suoi pigmei
 contro i suoi giganti. La pioggia cade ugualmente sui giusti e sugli ingiusti;
 eppure qui non era caduta ugualmente sui ricchi e sui poveri: era caduta a rovina
 dei ricchi.
@@ -507,7 +507,7 @@ lo sapesse, non saprebbe che cosa significasse. Era apparsa nel piccolo giornale
 prodotti contadini, condotto con tanto successo dal signor George Russell, il celebre
 «A. E.», e mi fu riferita con ardore dal poeta stesso, da un dotto e brillante gesuita, e
 da parecchie altre persone, come la grande notizia dall'Europa. Era semplicemente la
-notizia che i Socialisti ebrei del Governo bolscevico avevano tentato di
+notizia che i Socialisti ebrei del [[government|Governo]] bolscevico avevano tentato di
 confiscare i risparmi dei contadini nelle banche cooperative; ed erano stati costretti a
 desistere. E ne parlavano come di una grande battaglia vinta sul Danubio o sul Reno.
 Questo è ciò che intendo quando dico che questa gente è di un medesimo stampo e appartiene
@@ -519,8 +519,8 @@ una minaccia di Bolscevismo, o fino a che punto soltanto un panico di Capitalism
 che, se una qualche onesta resistenza dovrà essere opposta alla pura rapina, la resistenza
 dell'Irlanda sarà la più onesta, e probabilmente la più importante. Può darsi che l'Israele
 internazionale scagli contro di noi, dall'Oriente, una folle semplificazione
-dell'unità dell'Uomo, come un tempo l'[[historical-references/islam|Islam]] scagliò dall'Oriente una folle
-semplificazione dell'unità di Dio. Se così sarà, è là dove la proprietà è
+dell'[[unity|unità]] dell'Uomo, come un tempo l'[[historical-references/islam|Islam]] scagliò dall'Oriente una folle
+semplificazione dell'[[unity|unità]] di Dio. Se così sarà, è là dove la proprietà è
 [[motifs/well|ben]] distribuita che essa sarà [[motifs/well|ben]] difesa. Il posto d'[[concepts/honour|onore]]
 spetterà a coloro che combattono in tutta [[concepts/truth|verità]] per la propria terra. Se mai
 venisse contro di noi una tale carica di dervisci selvaggi, sarebbero i carri e gli
@@ -581,7 +581,7 @@ contadini liberi. E la combinazione britannica, proprio perché è una combinazi
 una comunità, è per sua [[concepts/nature|natura]] più fiacca e soggetta a un vero scisma di quanto
 non lo sia questa sorta di comunità, che si potrebbe quasi chiamare una comunione. Ogni
 attacco contro di essa è come un tentativo di abolire l'erba; la quale non solo ne è il
-simbolo nella vecchia canzone nazionale, ma ne è un simbolo verissimo in ogni
+simbolo nella vecchia [[Song|canzone]] nazionale, ma ne è un simbolo verissimo in ogni
 nuova [[concepts/history|storia]] filosofica; simbolo della sua uguaglianza, della sua ubiquità,
 della sua molteplicità e della sua possente capacità di ritornare. Combattere contro
 l'erba è combattere contro Dio; possiamo soltanto amministrare tanto male la nostra
@@ -622,7 +622,7 @@ Liverpool, vedremo che è già andato ancora più lontano e ancor peggio. Anche 
 cognome sta perdendo la sua radice e perciò la sua ragione. Il cognome è divenuto
 solitario quanto un soprannome. Poiché si potrebbe sostenere che il nome proprio è
 destinato a essere una cosa individuale e persino isolata; ma il cognome è certamente
-destinato, per ogni logica e ogni [[concepts/history|storia]], a legare un uomo alle
+destinato, per ogni [[logic|logica]] e ogni [[concepts/history|storia]], a legare un uomo alle
 sue origini, alle sue abitudini o alla sua dimora umane. Storicamente, era una parola
 tratta dalla città in cui viveva o dalla corporazione di mestiere cui apparteneva;
 giuridicamente è tuttora la parola attorno a cui ruotano tutte le questioni di
@@ -648,7 +648,7 @@ Ciò che chiamiamo il nome di famiglia non è più, oggi, in primo luogo il nome
 famiglia. La famiglia stessa, come concezione collettiva, è già sbiadita sullo sfondo,
 e rischia di sbiadire via dallo sfondo. In breve, i nostri nomi di battesimo non sono
 le sole cose cristiane che possiamo perdere.
-Ora, il secondo fatto solido che mi colpì in Irlanda (dopo il successo
+Ora, il secondo fatto solido che mi colpì in Irlanda (dopo il [[success|successo]]
 della piccola proprietà e il _fallimento_ della grande organizzazione) fu che la
 famiglia si trovava in una posizione nettamente opposta. Tutto ciò che ho detto sopra,
 nel linguaggio corrente, sull'intera tendenza del mondo moderno, è direttamente
@@ -689,7 +689,7 @@ Ma, che si adotti o no questa veduta sullo stato delle cose in una società indu
 come quella inglese, dobbiamo comprendere con fermezza che uno stato di cose
 totalmente opposto esiste in una società agricola come quella irlandese. Possiamo
 esprimerlo, se vogliamo, nella forma di una fantasia inconsueta e persino ostile.
-Possiamo dire che la casa è più grande dell'uomo; che la casa è un
+Possiamo dire che la [[house|casa]] è più grande dell'uomo; che la [[house|casa]] è un
 amabile orco che rincorre e riacchiappa l'uomo. Ma il fatto è là, consueto o
 inconsueto, amico od ostile; e il fatto è la famiglia. L'[[concepts/pride|orgoglio]] familiare
 è prodigioso; benché di solito si accompagni ad ardenti masse di [[concepts/humility|umiltà]]
@@ -708,7 +708,7 @@ e che perciò non si poteva, con alcun senso razionale, chiamare unionista. Eppu
 faceva parte di uno sfogo appassionatamente sincero, e in verità autenticamente umano e
 storico, della politica dell'angolo nord-orientale contro la politica del resto
 dell'Irlanda. I più di noi ricordano che Sir Edward Carson introdusse nel
-Governo un suo amico avvocato di nome Campbell; era all'inizio della
+[[government|Governo]] un suo amico avvocato di nome Campbell; era all'inizio della
 guerra, e pochi di noi pensarono qualcosa della faccenda, se non che fosse stupido
 affidare cariche ai carsoniani nel momento più delicato della crisi della causa in
 Irlanda. Da allora, come pure sappiamo, il medesimo Campbell si è mostrato un uomo
@@ -730,7 +730,7 @@ Si provi qualcuno a immaginare un inglese che dica, a proposito di qualche lite 
 riflessione mostrerà che sarebbe ancor più impossibile a proposito di uomini pubblici in
 liti pubbliche. Nessun Liberale inglese collegò mai le prime imprese dell'attuale Lord
 Birkenhead a influenze ataviche, o al totem della vasta ed errante tribù degli
-Smith. Nessun patriota inglese risalì l'albero genealogico di un qualsiasi
+[[smith|Smith]]. Nessun patriota inglese risalì l'albero genealogico di un qualsiasi
 pacifista inglese; né disse che non ci fu mai tradimento senza che un Pringle ne fosse
 al [[characters/bottom|fondo]]. È l'articolo indeterminativo a costituire qui la determinata
 distinzione. È l'espressione «un Campbell» a trasformare d'un tratto la scena, e a
@@ -770,7 +770,7 @@ aperti sulla schiuma di mari tanto perigliosi, in una terra così davvero desola
 anche se non ci infastidisse il gioco di parole, ci sorprenderebbe il plurale. E la
 nostra sorpresa sarebbe la misura della più profonda differenza tra l'Inghilterra e
 l'Irlanda. Per esprimerlo con la medesima oziosa immagine, sarebbe il fatto che perfino
-una finestra è parte di una casa, come un bollitore è parte di una casa. Ogni
+una finestra è parte di una [[house|casa]], come un bollitore è parte di una casa. Ogni
 parola in Irlanda è una parola di casa.
 Gli inglesi non avrebbero pensato a un plurale per la parola Gladstone più di quanto lo
 avrebbero fatto per la parola Dio. Non avrebbero mai immaginato Disraeli circondato da
@@ -809,16 +809,16 @@ aristocratici. Deve scartare i poveri che hanno il [[motifs/blood|sangue]] signo
 i ricchi che possono condurre la vita signorile. Se un uomo è interessante perché è un
 McCarthy, ciò equivale, in tal misura, a essere interessante perché è un uomo; vale a dire,
 è interessante sia che si tratti di un duca sia di uno spazzino. Ma se è interessante perché
-è Lord FitzArthur e abita a FitzArthur House, allora è interessante quando ha
-semplicemente comprato la casa, o quando ha semplicemente comprato il titolo. Per
+è Lord FitzArthur e abita a FitzArthur [[house|House]], allora è interessante quando ha
+semplicemente comprato la [[house|casa]], o quando ha semplicemente comprato il titolo. Per
 mantenere una nobiltà terriera, è necessario ammirare il nuovo signore; e perciò dimenticare
 il vecchio signore. Il senso della famiglia è come un cane e segue la famiglia; il senso
-dell'oligarchia è come un gatto e continua a infestare la casa. Non sto
+dell'oligarchia è come un gatto e continua a infestare la [[house|casa]]. Non sto
 argomentando contro l'aristocrazia, se gli inglesi scelgono di conservarla in Inghilterra;
 sto soltanto chiarendo i termini a cui la detengono, e avvertendoli che un popolo dotato di
 un forte senso della famiglia non la deterrà a nessun termine. L'aristocrazia, quale è
 fiorita in Inghilterra fin dalla [[historical-references/reformation|Riforma]], con non poca gloria nazionale e
-successo commerciale, è per sua stessa [[concepts/nature|natura]] edificata su focolari
+[[success|successo]] commerciale, è per sua stessa [[concepts/nature|natura]] edificata su focolari
 infranti e profanati. Deve distruggere cento parenti poveri per mantenere in piedi una
 famiglia. Deve distruggere cento famiglie per mantenere in piedi una classe. Ma se questo
 spirito familiare è incompatibile con ciò che intendiamo per aristocrazia, è del tutto
@@ -901,14 +901,14 @@ saputo l'unico complimento che davvero avevamo sempre reso loro. Il loro atto
 presupponeva che il [[concepts/courage|coraggio]] irlandese avesse bisogno di prove; e non ne
 ebbe mai bisogno. Ho udito le più orribili assurdità dette contro l'Irlanda prima
 della guerra; e non udii mai inglesi [[concepts/doubt|dubitare]] del valore militare irlandese.
-Ciò di cui invece [[concepts/doubt|dubitavano]] era la sanità politica irlandese.
+Ciò di cui invece [[concepts/doubt|dubitavano]] era la [[Sanity|sanità]] politica irlandese.
 Si vedrà subito che l'azione di Pasqua poteva soltanto smentire il pregiudizio che
 non avevano; e in realtà confermò il pregiudizio che avevano. L'accusa contro
 l'irlandese non era una mancanza di audacia, ma piuttosto un eccesso di essa. Gli
 uomini avevano ragione nel crederlo coraggioso, e non potevano avere più ragione. Ma
 avevano torto nel crederlo pazzo, ed ebbero un'eccellente occasione per avere ancor
 più torto. Poi, quando il tentativo di combattere contro l'Inghilterra si sviluppò,
-per sua propria logica, in un rifiuto di combattere per l'Inghilterra, gli
+per sua propria [[logic|logica]], in un rifiuto di combattere per l'Inghilterra, gli
 uomini tolsero il numero che avevano dapprima pensato; e, irritati, giunsero a negare
 ciò che in origine non si erano mai sognati di mettere in dubbio. In ogni caso, questo
 era, credo, lo stato d'animo con cui la minoranza dei veri sinnfeiniani cercò il
@@ -944,7 +944,7 @@ Bradshaw, o persino della signora Bradshaw. Questa è l'atmosfera, da sentire pi
 da descrivere, che uno straniero in Irlanda si sente attorno. Il giornalismo e i
 pettegolezzi inglesi, trattando di uomini d'affari inglesi, sono spesso precisi sul
 presente e profetici sul futuro, ma di rado loquaci sul passato; et pour cause. Ci
-diranno dove il capitalista sta andando, se alla Camera dei Lord, o a Monte
+diranno dove il capitalista sta andando, se alla [[house|Camera]] dei Lord, o a Monte
 Carlo, o, per illazione, in cielo; ma dicono il meno possibile su da dove egli venga.
 In Irlanda un uomo si porta dietro la dimora avita come una lumaca; e il
 [[archetypes/ghost|fantasma]] di suo padre lo segue come la sua [[archetypes/shadow|ombra]]. Tutto ciò che
@@ -986,7 +986,7 @@ Liverpool non saprebbe quando stesse, o non stesse, manomettendo la religione di
 [[archetypes/child|bambino]] nato a Louth. Se mi si desse il controllo completo di un infante
 parsi (il che è fortunatamente improbabile), non avrei la più remota idea di quando
 incidessi più vitalmente sul sistema parsi. Ma il buon senso, e la comprensione del
-significato di una filosofia coerente, mi indurrebbero a sospettare che
+significato di una [[philosophy|filosofia]] coerente, mi indurrebbero a sospettare che
 vi incidessi a ogni minuto. Ma menziono la cosa qui, non per entrare in alcuna di
 queste dispute, ma per dare ancora un altro esempio del modo in cui l'organizzazione
 essenzialmente domestica dell'Irlanda si leverà sempre in rivolta contro qualsiasi
@@ -999,8 +999,8 @@ qualcuno dei nostri più antichi metodi storici, e massacrarli insieme.
 Un piccolo episodio, tuttavia, entro la mia breve esperienza, illustrò il punto
 principale qui in gioco: il senso di una base contadina, persino nell'attacco
 proletario. E ciò fu esemplificato non in una qualche battuta d'arresto del Lavoro, ma
-piuttosto in un successo del Lavoro, nella misura in cui l'esito di un
-amichevole e informale dibattito possa essere annoverato tra i suoi successi
+piuttosto in un [[success|successo]] del Lavoro, nella misura in cui l'esito di un
+amichevole e informale [[debate|dibattito]] possa essere annoverato tra i suoi successi
 più solidi. La faccenda cominciò in origine con una sorta di sconnessa conferenza
 letteraria che tenni al Teatro di Dublino, a proposito della quale menziono soltanto
 due episodi di sfuggita, perché entrambi mi colpirono come peculiarmente autoctoni e
@@ -1016,8 +1016,8 @@ e Protestanti, o Patriottismo e Politicanti. Lo stesso giorno un irlandese di an
 condizione sociale osservò con tutta noncuranza: «Ho appena visto il tuo argomento per
 domani. Suppongo che i Socialisti non saranno d'accordo con te», o parole di questo
 tenore. I due termini gli dissero subito, non della conferenza (che era letteraria, se
-mai era qualcosa), ma dell'intera filosofia sottesa alla conferenza;
-tutta quella filosofia che l'ingombrante elefante, che il signor
+mai era qualcosa), ma dell'intera [[philosophy|filosofia]] sottesa alla conferenza;
+tutta quella [[philosophy|filosofia]] che l'ingombrante elefante, che il signor
 [[works/shaw-(chesterton)|Shaw]] chiamò il Chester-Belloc, faticosamente s'affanna a spiegare in Inghilterra,
 sotto il ponderoso titolo di Distributismo. Come una volta disse il signor Hugh Law,
 con altrettanta verità, a proposito del nostro contrapporre il patriottismo
@@ -1086,7 +1086,7 @@ e mi sono soffermato sugli altri punti soltanto perché essi furono i gradini ch
 mi condussero al mio primo incontro con questa grande forza. E non per questo fu meno un fatto
 a sostegno della mia tesi, per il fatto d'essere in parte uno scherzo a mie spese. Nell'occasione
 che ho menzionato, una serata quanto mai esilarante all'Arts Club, il signor Yeats mi chiese di
-aprire un dibattito all'Abbey Theatre, difendendo la proprietà sul suo versante più
+aprire un [[debate|dibattito]] all'Abbey Theatre, difendendo la proprietà sul suo versante più
 puramente politico. Il mio avversario era uno dei più abili tra i capi di Liberty Hall, la
 famosa roccaforte della politica operaia a Dublino, il signor Johnson, un inglese come me, ma
 meritatamente popolare presso il proletariato irlandese. Tenne un discorso quanto mai ammirevole,
@@ -1109,7 +1109,7 @@ che mi pare lasci il mio argomento dov'era; poiché ciò che è comunitario dev'
 meno che non debba essere caotico. Due scherzi minori, in parte a mie spese, mi restano nella
 [[motifs/memory|memoria]]; pare che io abbia suscitato una certa ilarità temperando una matita con un
 grandissimo coltello spagnolo, al quale tengo (per combinazione) come al dono di un prete irlandese
-che mi è amico, e che si può perciò considerare anche un'arma simbolica, una sorta di spada
+che mi è amico, e che si può perciò considerare anche un'arma simbolica, una sorta di [[Sword|spada]]
 dello spirito. Se il pubblico pensasse che stessi per amputarmi le gambe a illustrazione della mia
 stessa metafora, o che stessi per tagliare la gola al signor Johnson, furibondo per non trovare
 risposta ai suoi argomenti, non lo so. L'altra cosa che mi parve buffa fu un'eccellente battuta
@@ -1122,7 +1122,7 @@ per tutto lo svolgimento fui consapevole, come dico, di un sentimento popolare q
 sosteneva la semplice personalità del mio avversario; come nell'ovazione che ricevette prima ancora
 di parlare, o negli applausi tributati a numerose sue battute d'attualità, allusioni che non sempre
 riuscivo a capire. Dopo l'incontro un illustre unionista del Sud, che per caso possiede terre fuori
-Dublino, mi disse: «Naturalmente, Johnson ha appena avuto un enorme successo nel suo
+Dublino, mi disse: «Naturalmente, Johnson ha appena avuto un enorme [[success|successo]] nel suo
 lavoro qui. Liberty Hall ha appena fatto qualcosa che davvero non era mai stato fatto prima in tutto
 il movimento delle Trade [[concepts/union|Union]]. È riuscito davvero a fondare una Trade [[concepts/union|Union]] per i braccianti
 agricoli. Lo so, perché ho dovuto far fronte alle loro richieste. Sai quanto sia sempre stato del
@@ -1135,7 +1135,7 @@ un'ironia interessante che perfino la mia stessa sconfitta fosse un esempio dell
 e che la [[concepts/truth|verità]] dalla mia parte fosse provata dalla popolarità della parte avversa. La
 corporazione agricola era dovuta a un [[motifs/wind|vento]] di [[concepts/freedom|libertà]] che penetrava in quella
 cupa [[motifs/city|città]] da campi lontanissimi; e alla [[concepts/truth|verità]] che perfino queste pietre
-rotolanti di un proletariato senza casa erano state da così poco staccate dalle radici
+[[rolling|rotolanti]] di un proletariato senza casa erano state da così poco staccate dalle radici
 stesse delle [[settings/mountains|montagne]]. In Irlanda persino l'industrialismo non è industriale. Questo è
 ciò che intendo dicendo che il Lavoro irlandese è l'eccezione che conferma la regola. Ecco perché esso
 non contraddice la mia precedente generalizzazione, secondo cui la nostra crisi capitalista sta sul
@@ -1168,11 +1168,11 @@ Devlin e il signor Tim Healy. Il cittadino di Belfast insinuava che il prete pap
 avesse terrorizzato i contadini quando tentavano di arruolarsi, estraendo uno
 schiacciapollici dalla tasca e un cavalletto di tortura portatile dalla borsa. Il
 nazionalista parlamentare incolpava tanto il Sinn Fein quanto la persecuzione del
-Sinn Fein. I funzionari del Governo britannico, se non incolpavano
+Sinn Fein. I funzionari del [[government|Governo]] britannico, se non incolpavano
 proprio sé stessi, incolpavano quanto meno l'un l'altro. L'ordinario unionista del
 Sud (che recitava molte parti di genere più o meno assennato, compresa quella di un
 [[motifs/home|Home]] Ruler) generalmente concordava con l'ordinario nazionalista che i metodi di
-reclutamento del Governo erano stati tanto pessimi quanto buona era la
+reclutamento del [[government|Governo]] erano stati tanto pessimi quanto buona era la
 sua causa. Ma è manifesto che moltitudini, al principio della guerra, ritenevano che
 essa avesse davvero un'ottima causa; e per giunta un'ottima possibilità. La
 straordinaria storia di come quella possibilità andò perduta troverà forse menzione
@@ -1214,8 +1214,8 @@ caos; ed è ciò che la [[concepts/history|storia]] dirà dello strano e recente
 dell'imperialismo barbarico, un gorgo il cui centro vuoto era Berlino. È qui che gli
 irlandesi estremisti ebbero davvero torto; forse davvero torto per la prima
 [[motifs/time|volta]]. Simpatizzo pienamente col loro essere in rivolta contro il
-Governo britannico. Io stesso sono in rivolta, in quasi ogni modo,
-contro il Governo britannico. Ma la politica è cosa fuggevole di fronte
+[[government|Governo]] britannico. Io stesso sono in rivolta, in quasi ogni modo,
+contro il [[government|Governo]] britannico. Ma la politica è cosa fuggevole di fronte
 alla [[concepts/history|storia]]. C'è forse qualcuno che vuole essere fissato per sempre dalla
 parte sbagliata alla battaglia di Maratona, per una lite con qualche Arconte il cui
 nome stesso è dimenticato? C'è forse qualcuno che vuole essere ricordato come amico di
@@ -1312,7 +1312,7 @@ Vi è una sola cosa che potrebbe salvare la mia dignità in un impiccio così po
 dignitoso come quello che ho qui immaginato. È che il signor Bernard [[works/shaw-(chesterton)|Shaw]] in persona
 venga in mio soccorso. È che il signor Bernard [[works/shaw-(chesterton)|Shaw]] in persona si dichiari a favore
 del corpulento conquistatore dell'oriente; che prenda sul serio tutte le fisime e le
-fallacie di quel superuomo dalla testa grassa. Ciò, e ciò soltanto,
+fallacie di quel superuomo dalla testa grassa. Ciò, e ciò [[Alone|soltanto]],
 garantirebbe che tutte le mie fisime e fallacie fossero non solo dimenticate ma
 perdonate. È presente alla mia [[concepts/imagination|immaginazione]], mi rincresce dirlo, la
 sfrenata possibilità che questo sia proprio ciò che il signor Bernard [[works/shaw-(chesterton)|Shaw]] potrebbe
@@ -1329,10 +1329,10 @@ Comunque stiano le cose, alcuni degli uomini magri, invece di fare dell'uomo gra
 [[archetypes/fool|zimbello]], cominciarono quasi a fare dell'uomo più grasso un [[archetypes/hero|eroe]]; ad
 ammirare le sue vaste curve come linee di sviluppo quasi cosmiche. Ho visto opuscoli
 irlando-americani che prendevano del tutto sul serio (o, preferisco pensare, fingevano
-di prendere del tutto sul serio) la ridicola favola secondo cui le tribù
+di prendere del tutto sul serio) la ridicola [[Romance|favola]] secondo cui le tribù
 teutoniche avrebbero ravvivato e rinfrescato la civiltà dopo la caduta dell'Impero
 romano. Ravvivarono la civiltà press'a poco come restaurarono Lovanio o ricostruirono il
-_Lusitania._ Era una favola che gli inglesi per un breve [[motifs/time|tempo]]
+_Lusitania._ Era una [[Romance|favola]] che gli inglesi per un breve [[motifs/time|tempo]]
 adottarono per comodità, ma di cui gli irlandesi hanno continuamente sofferto come di una
 maledizione. Era una perversità suicida che essi stessi, a loro volta, perpetuassero la
 loro maledizione permanente come una comodità temporanea. Quello fu il peggior errore
@@ -1347,7 +1347,7 @@ sciocchi»; e naturalmente io non intendo questo. Dissi tutto ciò nel mio disco
 mai disinvolto e sconnesso. Ma esso si fondava su questa idea, che gli uomini avessero
 mancato la beffa contro l'Inghilterra, e che ora, sfortunatamente, la beffa fosse
 piuttosto contro l'Irlanda. Era l'Irlanda che ora mancava una grande occasione storica
-per difetto di umorismo e di [[concepts/imagination|immaginazione]], come l'Inghilterra
+per difetto di [[Humour|umorismo]] e di [[concepts/imagination|immaginazione]], come l'Inghilterra
 l'aveva mancata un momento prima. Se gli irlandesi ridessero degli inglesi e aiutassero
 gli inglesi, vincerebbero su tutta la linea. Nella vera [[concepts/history|storia]] del problema
 tedesco, erediterebbero tutti i vantaggi dell'aver avuto ragione fin dal principio. Non
@@ -1357,10 +1357,10 @@ principî che ritenevo, e tuttora ritengo, gli unici principî possibili per for
 base di un appello al reclutamento in Irlanda. Ma nella particolare occasione in
 questione presi naturalmente la cosa assai più alla leggera; sperando che le due beffe
 potessero, per così dire, annullarsi a vicenda, e lasciare i due paesi pari e di
-umore migliore. E dedicai quasi tutte le mie osservazioni a testimoniare che
+[[Humour|umore]] migliore. E dedicai quasi tutte le mie osservazioni a testimoniare che
 gli inglesi si erano davvero, nella massa, spogliati del più rozzo Teutonismo che aveva
 scusato le crudeltà del passato. Dissi che gli inglesi erano tutt'altro che fieri del
-passato governo dell'Irlanda; che la massa degli uomini di tutti i partiti
+passato [[government|governo]] dell'Irlanda; che la massa degli uomini di tutti i partiti
 era assai più modesta e umana nella sua veduta dell'Irlanda di quanto la maggior parte
 degli irlandesi sembra supporre. E conclusi con parole che qui cito soltanto a
 [[motifs/memory|memoria]], perché si dà il caso che siano il testo del curioso episodio che
@@ -1421,7 +1421,7 @@ VI. L'errore dell'Inghilterra
 
 Incontrai un cordiale unionista, per non dire coercizionista, in Irlanda, in modo
 tale da poter parlare con lui a lungo; un gentiluomo irlandese quanto mai gioviale e
-genuino, che stava solidamente dalla parte del sistema del governo
+genuino, che stava solidamente dalla parte del sistema del [[government|governo]]
 britannico in Irlanda. Questo gentiluomo era stato trapassato nel [[concepts/body|corpo]] da un
 colpo delle truppe britanniche, nei loro sforzi di reprimere la Rivolta di Pasqua. La
 cosa mancò di poco d'essere tragica; ma poiché la mancò, non posso fare a meno di
@@ -1438,7 +1438,7 @@ a suo [[concepts/honour|onore]] che fosse, per principio, tanto più indignato c
 non gli spararono che con gli altri rivoltosi che gli spararono. Ma mi arrischio a
 presentarlo qui non tanto come un individuo quanto come un'[[forms/allegory|allegoria]].
 L'episodio mi pare esporre, in forma acuta, lucida e pittoresca, esattamente ciò che
-il governo militare britannico riuscì realmente a fare in Irlanda.
+il [[government|governo]] militare britannico riuscì realmente a fare in Irlanda.
 Riuscì a mezzo uccidere i propri amici, e a offrire un divertimento intelligente ma
 alquanto inumano a tutti i propri nemici. Lo [[motifs/fire|sputafuoco]] teneva la sua arma da
 [[motifs/fire|fuoco]] in una posa così contorta da dare allo spettatore stupito la semplice
@@ -1487,8 +1487,8 @@ riuscimmo ad apparire assai peggiori di quanto fossimo. In un'orribile incoscien
 rimettemmo in scena la [[concepts/history|storia]] per pura ignoranza della [[concepts/history|storia]].
 Fummo tanto sciocchi da agghindarci, e da recitare, per la parte del [[archetypes/villain|malvagio]]
 in una vecchissima [[forms/tragedy|tragedia]]. Ci ammantammo quasi con noncuranza di
-[[motifs/fire|fuoco]] e spada; e se il [[motifs/fire|fuoco]] fosse stato letteralmente
-[[motifs/fire|fuoco]] di scena, o la spada una spada di legno, l'abbaglio
+[[motifs/fire|fuoco]] e [[Sword|spada]]; e se il [[motifs/fire|fuoco]] fosse stato letteralmente
+[[motifs/fire|fuoco]] di scena, o la [[Sword|spada]] una [[Sword|spada]] di legno, l'abbaglio
 meramente artistico sarebbe stato altrettanto grave. Per esempio, m'imbattei presto
 nelle tracce di una lite intorno a qualche sciocco veto nelle scuole, contro i bambini
 irlandesi che portavano coccarde verdi. Chiunque avesse una vena d'[[concepts/imagination|immaginazione]]
@@ -1496,7 +1496,7 @@ storica avrebbe evitato una lite, in quel particolare caso, intorno a quel parti
 colore. È toccare il talismano, è pronunciare il nome, è battere la nota di un altro
 rapporto in cui avevamo torto, a scapito di un nuovo rapporto in cui avevamo ragione.
 Chiunque abbia buon senso, considerando un qualsiasi altro caso, può vedere la forza
-quasi magica di queste coincidenze materiali. Se gli eserciti inglesi in
+quasi [[Magic|magica]] di queste coincidenze materiali. Se gli eserciti inglesi in
 Francia nel 1914 si fossero ritenuti giustificati, per una qualche ragione, nel
 giustiziare una qualche francese, sarebbero forse stati indiscreti se l'avessero uccisa
 (per quanto logicamente) legata a un palo nella piazza del mercato di Rouen. Se il
@@ -1505,7 +1505,7 @@ corrotta congiura di qualche gruppo di ricchi protestanti francesi, consiglierei
 caldamente di non fissare la data alla vigilia di San Bartolomeo, o di non mettersi
 all'opera con sciarpe bianche legate attorno alle braccia. Molti di noi [[concepts/hope|sperano]]
 di vedere una comunità ebraica ricostituita in Palestina; e potremmo facilmente
-immaginare qualche lite in cui il governo di Gerusalemme fosse spinto a
+immaginare qualche lite in cui il [[government|governo]] di Gerusalemme fosse spinto a
 punire qualche [[archetypes/pilgrim|pellegrino]] o monaco greco o latino. Gli ebrei potrebbero
 anche aver ragione nella lite, e il cristiano torto. Ma si può insinuare che gli ebrei
 sarebbero mal consigliati se lo incoronassero davvero di spine, e lo uccidessero su una
@@ -1536,7 +1536,7 @@ potrebbe, non imperdonabilmente, protestare contro gli scolari che sfoggiano in 
 le coccarde Camoscio e Azzurro del signor Simpkin e del signor Slumkey. Ma chi, se non
 un pazzo, non vedrebbe che pronunciare quella parola, o fare quel segno, in Irlanda,
 era come dare il segnale del lamento funebre, e del compianto sulla giustizia perduta
-che si leva nel ritornello dei più nobili canti nazionali; che additare quel
+che si leva nel ritornello dei più nobili [[songs|canti]] nazionali; che additare quel
 cencio di quel colore significava richiamare tutte le responsabilità e le realtà di
 quel regno del terrore in cui, alla lettera, impiccavamo uomini e anche donne per il
 portare del verde? Non stavamo, alla lettera, impiccando questi bambini. Come pura
@@ -1552,13 +1552,13 @@ tutto vero. Non contenti di prendere a prestito vecchie uniformi dagli Assiani d
 1798, presero a prestito le più nuove e lustre uniformi dai Prussiani del 1914.
 Racconterò una sola storia, fra le molte che mi furono narrate, per mostrare ciò che
 intendo. Vi fu una sorta di festival musicale di paese in un luogo chiamato Cullen,
-nella contea di Cork, in cui vi furono naturalmente canti nazionali e assai
+nella contea di Cork, in cui vi furono naturalmente [[songs|canti]] nazionali e assai
 probabilmente discorsi nazionali. Che vi fosse una sorta di atmosfera sociale, che i
 suoi critici chiamerebbero Sinn Fein, è oltremodo probabile; poiché essa esiste ora in
 tutta l'Irlanda, e specialmente in quella parte dell'Irlanda. Se vogliamo impedire che
 essa si esprima affatto, dobbiamo vietare non solo tutte le riunioni pubbliche, ma
 tutte le riunioni private, e persino l'incontro di marito e moglie nella loro propria
-casa. Vi sarebbe pur potuto essere un argomento, su linee coercizioniste, per
+[[house|casa]]. Vi sarebbe pur potuto essere un argomento, su linee coercizioniste, per
 vietare questa riunione pubblica. Vi potrebbe essere un argomento, su linee
 coercizioniste, per imprigionare tutte le persone che vi parteciparono; o un argomento
 ancor più chiaro, su quelle linee, per imprigionare tutte le persone dell'Irlanda. Ma
@@ -1595,10 +1595,10 @@ fiammeggianti dovunque, credendo che sarebbero stati sempre miracolosamente dire
 verso le teste che ospitavano, in quel momento, le opinioni politiche più scorrette. O
 forse intendeva che i sudditi leali sono così superbamente leali da non curarsi
 d'essere accidentalmente bruciati vivi, purché sia loro assicurato che il [[motifs/fire|fuoco]]
-è stato fatto cadere su di loro da funzionari del governo fuori da un
-apparecchio del governo. Ma il mio scopo qui non è di scandagliare un
+è stato fatto cadere su di loro da funzionari del [[government|governo]] fuori da un
+apparecchio del [[government|governo]]. Ma il mio scopo qui non è di scandagliare un
 simile mistero, bensì soltanto di fissare il fatto dominante dell'intera situazione;
-che il governo copiò la teatralità di Potsdam ancor più della tirannia di
+che il [[government|governo]] copiò la teatralità di Potsdam ancor più della tirannia di
 Potsdam. In quell'episodio, gli inglesi riprodussero faticosamente tutti gli accessori
 artificiali dei più famigerati crimini della [[settings/germany|Germania]]: gli uomini volanti,
 la fiamma, la scelta di una folla eterogenea, la scelta di una festa popolare. Ne
@@ -1607,7 +1607,7 @@ Irlanda si fosse agghindato con elmi chiodati e occhiali, unicamente per _sembra
 prussiano. Era ancor più come se un uomo avesse attraversato l'Irlanda su tre
 giganteschi trampoli, più alti degli alberi e visibili dal villaggio più lontano, al
 solo scopo di sembrare uno di quei mostri disumani venuti da Marte, che incedono sui
-loro tripodi di ferro nel grande incubo del signor Wells. Tale era la
+loro tripodi di ferro nel grande [[nightmare|incubo]] del signor Wells. Tale era la
 nostra efficacia educativa che, prima della fine, moltitudini di semplici irlandesi
 ebbero davvero, riguardo all'invasione inglese, la stessa particolare reazione
 psicologica che moltitudini di semplici inglesi ebbero riguardo all'invasione tedesca.
@@ -1696,7 +1696,7 @@ esibizione dell'Inghilterra come [[archetypes/tyrant|tiranno]] in Irlanda. Un pa
 si potrebbe trovare se immaginassimo i superstiti dell'Inghilterra vittoriana, imbevuti
 della tradizione della _Capanna dello zio Tom,_ mentre osservano le truppe americane
 sfilare per [[settings/london|Londra]]. Si supponga che notassero come le truppe negre
-soltanto dovessero marciare in [[motifs/chains|catene]], con un bianco dal cappello a
+[[Alone|soltanto]] dovessero marciare in [[motifs/chains|catene]], con un bianco dal cappello a
 larghe tese che camminava al loro fianco brandendo una frusta. Scene assai peggiori di
 quella sarebbero seguite alla coscrizione irlandese; ma l'unico scopo di questo capitolo
 è mostrare che scene altrettanto stupide segnarono ogni fase del reclutamento irlandese.
@@ -1712,7 +1712,7 @@ traditori dell'Inghilterra, purché potessero pur sempre essere tiranni dell'Irl
 Fin troppi fatti si possono far quadrare con questo; ma per me è ancora troppo mostruoso
 per essere facilmente creduto. Ma quali che fossero i nostri motivi nel farlo, non v'è
 semplicemente alcun [[concepts/doubt|dubbio]] su ciò che facemmo, in questa faccenda dei
-filotedeschi in Irlanda. Non schiacciammo i filotedeschi; non li convertimmo
+filotedeschi in Irlanda. Non schiacciammo i filotedeschi; non li [[convert|convertimmo]]
 né li costringemmo; né li educammo né li sterminammo né li massacrammo. Li fabbricammo;
 li sfornammo pazientemente, costantemente e sistematicamente come da una fabbrica; li
 facemmo esattamente come facevamo le munizioni. Non ci volle poca scienza sociale per
@@ -1745,20 +1745,20 @@ Sostenevano che Piggott fosse un poeta il cui pennello prendeva spesso il soprav
 Si appella a una legge delle nazioni; implica che una nazione sia qualcosa di normale, e quindi uno dei tanti elementi normali dell’esistenza umana. È impossibile avere una nazione senza il Cristianesimo, così come è impossibile avere un cittadino senza una [[motifs/city|città]]. Normalmente, questo concetto viene meglio compreso in Irlanda che in Inghilterra; tuttavia gli irlandesi tendono a un’eccessiva enfasi contraria, portandoli talvolta al culto dell’isolamento. In questo senso, è vero dire che l’errore è già indicato nel nome stesso di Sinn Fein. Ma penso che tale errore venga ancora più incoraggiato, in modo più oscuro e quindi pericoloso, da molte delle cose positive legate al culto dei Celti e allo studio della lingua irlandese antica. È un grande errore difendersi come “Celt” quando si potrebbe invece difendersi come “irlandesi”: la prima identità si basa su questioni complesse legate al temperamento, mentre la seconda si riferisce al fulcro fondamentale della morale. Il celtismo, in sé, potrebbe portare a tutte quelle esagerazioni razziali che di recente hanno spinto altre razze più barbare verso comportamenti pericolosi. Anche i Celti potrebbero finire per sostenere che la loro nazione sia qualcosa di “normale”, ma questo sarebbe un errore ancora più grave.
 Ma il fatto che la loro razza sia qualcosa di unico. I Celti potrebbero anche finire per combattere non per un'uguaglianza basata sul rispetto dei confini, ma per un’aristocrazia fondata sulle caratteristiche del [[motifs/blood|sangue]]. I Celti potrebbero anche contrapporre ciò che è preistorico a ciò che è storico, i pagani ai cristiani, e in questo senso il barbaro al civile. In questo senso devo confessare di non interessarmi molto ai Celti. Sono troppo simili ai Teutoni. Ovviamente tutti sanno che praticamente non esiste alcun pericolo di un imperialismo celtico: il signor Lloyd George non tenterà mai di annettersi la Bretagna come parte naturale del Regno Unito. E nessun conservatore, per quanto antiquato, estenderà il proprio impero in nome dei colori blu e gialli della bandiera britannica.
 Gli antichi Britanni. Non c’è la minima possibilità che gli Irlandesi invadano la Scozia soltanto perché il vecchio nome degli Scozzesi ha origini irlandesi; né che stabiliscano una capitale irlandese a Stratford-on-Avon solo perché “avon” è la parola celtica per “acqua”. Questo genere di cose fanno gli etnologi teutonici. Ma i Celti non sono così stupidi, nemmeno quando sono etnologi. Si potrebbe dire che ciò sia dovuto al fatto che anche i Celti preistorici sembravano essere molto più civilizzati dei Teutoni storici. Ho visto infatti ornamenti e utensili nel meraviglioso museo di Dublino, che fanno pensare a una società di immensa antichità, molto più avanzata nelle arti della vita rispetto ai Prussiani di pochi secoli fa. Ad esempio, c’era davvero quello che sembrava essere un rasoio elettrico. Dubito che i divini Goti avessero bisogno di un rasoio. E non sono così insensibile da non provare simpatia per l’istinto della poesia irlandese moderna, che esalta questo ordine primordiale e misterioso, come se fosse una sorta di paradiso pagano. Non considero queste leggende semplici menzogne, ma tradizioni vere. È un altro indizio del fatto che la civiltà sia più antica della barbarie. E che più ci spingiamo indietro verso le origini pagane, più ci avviciniamo alla grande origine cristiana del “peccato originale”. Ma qualsiasi merito o simpatia venga attribuito al culto delle origini celtiche, in realtà nulla di tutto ciò impedisce che il celtismo diventi un imperialismo barbarico, come il teutonismo. Quello che realmente impedisce l’imperialismo è il nazionalismo. È proprio perché la Germania non era una nazione che desiderava sempre di più diventare un impero. Un patriota, infatti, è una sorta di “amante”. E un “amante” è una sorta di “artista”. Un “artista” amerà sempre una forma troppo tanto per volerla rendere informe, anche solo al fine di renderla più grande. Un gruppo di tribù teutoniche non si curerà di quante altre tribù distrugga o assorba. E le tribù celtiche, quando erano pagane, forse hanno agito allo stesso modo. Ma la nazione irlandese, civilizzata e parte integrante del Cristianesimo, certamente non ha alcun desiderio di mescolarsi con altre tribù, né di far confondere i suoi confini con grandi città come Liverpool o Glasgow. In questo senso, è troppo consapevole di sé per essere egoista. La sua individualità potrebbe renderla un po’ isolata. Ma non certo imperialistica. Questo è anche un merito del nazionalismo, spesso trascurato: il fatto che ciò che viene definito “narrowness” (angustezza) non sia soltanto una barriera all’invasione, ma anche a un’espansione eccessiva. Pertanto, nonostante tutto riguardo ai Celti preistorici, mi sento molto più a mio agio con quei gentiluomini cristiani della movimento Young Ireland, o addirittura con i partecipanti alla Rivolta di Pasqua. Mi sentirei più al sicuro con Meagher.
-Del Spada più che della primitiva lametta da rasoio dei Celti.  
+Del [[Sword|Spada]] più che della primitiva lametta da rasoio dei Celti.  
 La meschinità microscopica degli scrittori inglesi del tardo periodo vittoriano, quando scrivevano degli patrioti irlandesi, non vedeva in loro altro che un semplice scherzo; i ribelli moderni, invece, ritengono di meritare di portare i titoli di antichi re. Ma l’unica [[concepts/doubt|dubbio]] che potrei avere, se ne avessi uno, è se quei re pagani fossero davvero degni dei ribelli cristiani. Sono molto più sicuro dell’[[concepts/heroism|eroismo]] dei moderni Feniani di quello degli antichi.  
 Per quanto riguarda il lato artistico del culto celtico, non ne parlerò qui in modo approfondito; anzi, la sua importanza, soprattutto per gli irlandesi, potrebbe facilmente essere esagerata. Il signor W. B. Yeats si è da tempo dissociato da qualsiasi teoria razziale riguardante la poesia irlandese. E lui, come dice, pensa davvero seriamente a ciò che afferma. Spesso non sono d’accordo con lui; ma sono ancora più in disaccordo con coloro che lo considerano un “oppio poetico”: per me, invece, è sempre stato uno stimolante logico. Del resto, il celticismo, in alcuni aspetti, rappresenta in realtà una sorta di “congiura” per guidare l’inglese in una, danza, anche se si tratta di una danza fatata. Sospetto che molti nomi e annunci vengano stampati in gaelico.
 Non perché gli irlandesi siano in grado di leggerli, ma perché gli inglesi no.  
 L’altro grande mistico moderno di Dublino, “A. E.”, ci intrattenne raccontando a una signora inglese presente che lei non avrebbe mai potuto resistere all’atmosfera celtica: per quanto si sforzasse, presto si sarebbe ritrovata a vagare tra le nebbie montane con un filo di seta intorno alla testa. Un destino che, apparentemente, aveva colpito il figlio o il nipote di un vescovo anglicano che si era perso in quelle zone. La signora inglese, che conosco abbastanza bene, dichiarò categoricamente che sarebbe andata a [[settings/paris|Parigi]] non appena avesse percepito l’arrivo di quell’atmosfera. Ma a mio parere, un’azione così drastica non era affatto necessaria, e non c’era motivo di allarmarsi: dopotutto, le nebbie montane non sembravano avere alcun effetto sulle persone che vivono proprio in quelle zone. Sapevo che A. E. conosceva meglio di me il fatto che i contadini irlandesi non vagano per le montagne, anzi, non vagano affatto, avendo molto lavoro più importante da svolgere. E poiché l’atmosfera celtica non sembrava avere alcun effetto sui Celti, non vedevo motivo di preoccuparmi riguardo al suo potenziale impatto sugli inglesi.
-Un modo per influenzare i Sassoni era, in realtà, una semplice barzelletta nei loro confronti; tuttavia, questa pratica potrebbe essere durata più a lungo nel caso del nipote del vescovo rispetto al mio. Comunque sia, continuai a muovermi in giro (come Atalanta a Calidone), con i capelli sciolti e le guance prive di ornamenti; trovai anche un numero sufficiente di irlandesi nella stessa condizione, il che mi impedì di sentirmi imbarazzato. In breve, tutto ciò rappresenta semplicemente lo umorismo del signor Russell, soprattutto il suo ottimo umorismo, di natura dorata e divina. E un uomo potrebbe essere facilmente ingannato da una simile barzelletta, se non la comprendesse correttamente.
+Un modo per influenzare i Sassoni era, in realtà, una semplice barzelletta nei loro confronti; tuttavia, questa pratica potrebbe essere durata più a lungo nel caso del nipote del vescovo rispetto al mio. Comunque sia, continuai a muovermi in giro (come Atalanta a Calidone), con i capelli sciolti e le guance prive di ornamenti; trovai anche un numero sufficiente di irlandesi nella stessa condizione, il che mi impedì di sentirmi imbarazzato. In breve, tutto ciò rappresenta semplicemente lo [[Humour|umorismo]] del signor Russell, soprattutto il suo ottimo [[Humour|umorismo]], di natura dorata e divina. E un uomo potrebbe essere facilmente ingannato da una simile barzelletta, se non la comprendesse correttamente.
 Non si rendevano conto che quel “buffone” fosse in realtà un uomo pratico. Sul tavolo davanti a lui, mentre parlava, c’erano documenti aziendali, rapporti e statistiche: cose molto più legate ai filetti di vitello che alle idee o alle visioni future. Questo è il fatto essenziale riguardo a questo aspetto di tali persone in Irlanda. Possiamo considerare lo “spettro” celtico come una sorta di “spettro” simbolico, ma possiamo soltanto dubitare della sua realtà; invece, non c’è alcun dubbio sulla realtà del cavolo rapa. Tuttavia, se quel comportamento celtico rappresenta soltanto un aspetto ornamentale della cultura celtica, lo spirito che lo ha generato produce anche tendenze molto più serie verso la separazione dell’Irlanda, si potrebbe quasi dire che tale spirito “secreta” questa volontà di separazione. In questo senso, è vero che in Irlanda esiste troppo separatismo. Non parlo della separazione dall’Inghilterra: quella, come ho detto, è avvenuta molto tempo fa nel senso più serio del termine, ed è una condizione da accettare, non una conseguenza da evitare. Né intendo parlare della separazione da una federazione di stati liberi, purtroppo conosciuta come Impero Britannico: quella è una conseguenza che ancora potremmo evitare, se solo avessimo un po’ di buon senso e onestà nella nostra politica. Intanto, parlo della separazione dall’Europa, dalla comunità europea.
 La civiltà cristiana, secondo le leggi della quale vivono le nazioni. Si potrebbe intendere che qui parli di eccezioni piuttosto che della regola; infatti, la regola è proprio il contrario. La religione cattolica, il fatto più fondamentale in Irlanda, rappresenta di per sé un legame permanente con il Continente. Lo stesso vale, come ho detto, per la libera agricoltura, che spesso costituisce l’espressione economica della stessa fede cattolica. Il signor James Stephens, uomo di genio ma spiritualmente distaccato, mi raccontò con grande umorismo una storia che rappresenta anch’essa un simbolo significativo: un prete cattolico, dopo una conversazione amichevole e abbondanti bicchieri di vino buono, gli disse in confidenza: “Dovresti diventare cattolico. È possibile essere salvati anche senza esserlo; ma non è possibile essere irlandesi senza esserlo.” Tuttavia, queste eccezioni sono abbastanza numerose da rappresentare un pericolo; e credo che di recente siano state due volte alla base di situazioni pericolose per l’Irlanda. Quest’è l’epoca delle minoranze, di gruppi che governano piuttosto che rappresentare i veri interessi della popolazione. I due maggiori partiti in Irlanda, sebbene più rappresentativi rispetto alla maggior parte dei partiti in Inghilterra, sono stati troppo influenzati, a mio parere, dalla moda contemporanea.
 Celtici piuttosto che cattolici. Erano semplicemente troppo isolati per accettare quell’antico flusso inconscio del cristianesimo, le Crociate. Ma la situazione era ancora più complessa di così: erano addirittura troppo isolati per comprendere, non tanto le proprie esigenze internazionali, quanto la propria importanza a livello mondiale. Può sembrare un strano [[concepts/paradox|paradosso]] affermare che entrambi i partiti nazionalisti sottostimassero l’importanza dell’Irlanda come nazione. E ancora più sorprendente potrebbe essere dire che, in questo senso, il partito più nazionalista fosse anche quello meno realmente nazionalista. Tuttavia credo di riuscire a spiegare, sebbene in modo approssimativo, ciò che intendo dire.
 Erano principalmente i membri di Sinn Fein, quel partito nazionalista estremo, a non riconoscere che l’Irlanda fosse una nazione. Almeno, nel loro nazionalismo fallirono proprio nel momento in cui non intervennero nella guerra delle nazioni contro l’imperialismo prussiano. Il loro ragionamento implicava, inconsciamente, l’idea che l’Irlanda non fosse una nazione, ma soltanto una tribù o un insediamento di aborigeni. Se gli irlandesi fossero stati selvaggi oppressi dall’Impero britannico, forse sarebbero stati indifferenti al destino dell’Impero stesso; ma essendo persone civili, non potevano rimanere indifferenti al destino della civiltà stessa. I Kaffir, forse, avrebbero tratto beneficio dal crollo di tutto il sistema coloniale bianco, sia britannico che boero; gli irlandesi potrebbero aver simpatizzato con loro, ma non avrebbero voluto essere considerati allo stesso livello dei Kaffir. I Hottentot avrebbero potuto provare una sorta di felicità se l’ultima città europea fosse caduta in rovina o l’ultimo europeo fosse morto tra le torture; ma gli irlandesi non sarebbero mai diventati Hottentot, nemmeno se avessero sostenuto tale ideologia. In altre parole, se gli irlandesi fossero stati ciò che Cromwell pensava che fossero, forse avrebbero potuto concentrarsi soltanto sul proprio destino e non provare alcuna simpatia per la Francia; ma se sono ciò che Wolfe Tone riteneva che fossero, devono interessarsi alla Francia, proprio come lui stesso si interessava a essa. In breve, se gli irlandesi fossero barbari, non avrebbero motivo di preoccuparsi delle altre barbarie che devastano le città del mondo; ma se sono cittadini, devono interessarsi alle città che vengono distrutte. Questa è la vera ragione per cui il loro allontanamento dalla causa alleata fu un disastro per la loro stessa nazione. Non perché diede a degli sciocchi l’opportunità di lamentarsi di essere “anti-inglesi”, ma perché permise a persone molto più intelligenti di lamentarsi di essere “anti-europei”. Sono completamente d’accordo sul fatto che tale allontanamento fosse principalmente colpa del governo inglese; anzi, riconosco che richiedesse una straordinaria generosità da parte di un irlandese per adempiere al proprio dovere verso la propria nazione, nonostante venisse trattato in modo così arrogante. Tuttavia, è innegabile che oggi l’Irlanda sarebbe molto più vicina alla propria liberazione se gli irlandesi avessero fatto quel sforzo; se avessero capito che tale impegno doveva essere assunto non perché quei governanti lo volevano, ma proprio nonostante lo volessero. Il fatto ancora più curioso è questo: c’erano molti irlandesi, tra i più convinti sostenitori del nazionalismo irlandese, che comprendevano perfettamente questa realtà; la comprendevano con tale sincerità da combattere al fianco dei propri nemici contro gli nemici del mondo intero, e accettavano senza esitazione di essere insultati dagli inglesi e uccisi dai tedeschi. I Redmond e l’antico partito nazionalista, anche se hanno fallito, hanno il diritto di essere considerati tra i più eroici esempi di fallimento nella storia dell’Irlanda.
 Se la loro causa è persa, allora merita certamente di essere affrontata in un luogo dove le cause perse non vengono mai abbandonate. Ma anche l’antica guardia di Redmond, a mio parere, commise nello stesso errore, sebbene in modo più subdolo e su un argomento apparentemente secondario. Anche loro, i cui motivi erano altrettanto nobili quanto quelli dei Sinn Feiner, fallirono, in un certo senso, nel comprendere l’importanza internazionale di una nazione. Nel loro caso si trattava di questioni legate alla politica inglese e non europea; e poiché la situazione era molto più complessa, parlo con molta meno sicurezza al riguardo. Tuttavia credo che ci sia stato un momento decisivo nella storia della politica in cui alcuni irlandesi scelsero il lato sbagliato nella politica inglese, proprio come altri irlandesi successivamente scelsero il lato sbagliato nella politica europea. E con “lato sbagliato”, in entrambi i casi, intendo non solo il lato che non era coerente con la verità, ma anche il lato che non era davvero conforme agli interessi dell’Irlanda stessa. Un uomo può agire contro il corpo, persino il corpo principale, della sua nazione; ma se agisce contro l’anima della sua nazione, anche solo per salvarla, lui e la sua nazione ne soffrono entrambi.
-Posso spiegare meglio ciò che intendo ribadendo la realtà che un visitatore inglese ha effettivamente riscontrato nella politica irlandese, verso la fine della guerra. Può sembrare strano affermare che il fatto più incoraggiante per le relazioni anglo-irlandesi fosse proprio l’ira con cui gli irlandesi accusavano gli inglesi di spergiuro e tradimento. Eppure questa era la mia impressione sincera e concreta: il segno più positivo era proprio quell’odio scatenato dalla delusione derivante dall’idea della [[motifs/home|autonomia]]. Gli uomini non diventano furiosi se non sono delusi riguardo a qualcosa che desiderano davvero; e non si sentono delusi se non per qualcosa che erano effettivamente disposti ad accettare. Se l’Irlanda fosse stata totalmente favorevole a una separazione completa, la perdita della [[motifs/home|autonomia]] non sarebbe stata considerata una perdita. Anzi, forse addirittura un sollievo. Invece, viene vissuta come una vera e propria sconfitta. Almeno su questo posso testimoniare con assoluta certezza. Potrei anche sbagliarmi riguardo alle mie conclusioni. Ma credo che comunque l’Irlanda la considererebbe una vittoria: che una forma di [[motifs/home|autonomia]] sotto il dominio britannico potrebbe, nel lungo periodo, soddisfarla. Tuttavia, questa autonomia sarebbe efficace solo se le venisse concessa concretamente. Non se le venisse semplicemente promessa. Attualmente, gli irlandesi vedono il nostro governo semplicemente come un ostacolo al loro obiettivo.
+Posso spiegare meglio ciò che intendo ribadendo la realtà che un visitatore inglese ha effettivamente riscontrato nella politica irlandese, verso la fine della guerra. Può sembrare strano affermare che il fatto più incoraggiante per le relazioni anglo-irlandesi fosse proprio l’ira con cui gli irlandesi accusavano gli inglesi di spergiuro e tradimento. Eppure questa era la mia impressione sincera e concreta: il segno più positivo era proprio quell’odio scatenato dalla delusione derivante dall’idea della [[motifs/home|autonomia]]. Gli uomini non diventano furiosi se non sono delusi riguardo a qualcosa che desiderano davvero; e non si sentono delusi se non per qualcosa che erano effettivamente disposti ad accettare. Se l’Irlanda fosse stata totalmente favorevole a una separazione completa, la perdita della [[motifs/home|autonomia]] non sarebbe stata considerata una perdita. Anzi, forse addirittura un sollievo. Invece, viene vissuta come una vera e propria sconfitta. Almeno su questo posso testimoniare con assoluta certezza. Potrei anche sbagliarmi riguardo alle mie conclusioni. Ma credo che comunque l’Irlanda la considererebbe una vittoria: che una forma di [[motifs/home|autonomia]] sotto il dominio britannico potrebbe, nel lungo periodo, soddisfarla. Tuttavia, questa autonomia sarebbe efficace solo se le venisse concessa concretamente. Non se le venisse semplicemente promessa. Attualmente, gli irlandesi vedono il nostro [[government|governo]] semplicemente come un ostacolo al loro obiettivo.
 Come un bugiardo che ha infranto la sua parola. Non riesco nemmeno a esprimere quanto grande e negativa sia quell’idea nel contesto attuale; ostacola completamente il “percorso giusto” da seguire. E senza pretendere di considerarla davvero così semplice, la ritengo sostanzialmente vera. In ogni caso, è incredibile che il [[archetypes/king|Re]], i Lord e i Comuni di una grande nazione registrino nella loro legge l’esistenza di tale norma, per poi revocarla illegalmente in risposta alle pressioni di individui privati. Per coloro che traggono benefici da quella legge, questo rappresenta sicuramente un atto di tradimento. Gli irlandesi non avevano torto nel considerarlo tale, anche nel senso più stretto di tradimento e inganno.
-Lì dove hanno sbagliato, mi dispiace dirlo, è stato nel parlare di questa questione come se fosse l’unico e supremo esempio di tali inganni; quando in realtà tutta la nostra politica è piena di simili stratagemmi. In breve, la perdita della giustizia per l’Irlanda era semplicemente una parte della perdita della giustizia in Inghilterra: la perdita di ogni autorità morale nel governo, la perdita di popolarità del Parlamento, la plutocrazia segreta che rende facile accettare tangenti o infrangere promesse, la corruzione che permette di approvare leggi impopolari o promuovere persone disprezzate. Il legislatore non può far rispettare le sue leggi perché, indipendentemente dal fatto che queste siano popolari o meno, il legislatore stesso è completamente impopolare e continua a approvare leggi impopolari. Gli intrighi hanno sostituito la vera governanza; e un politico non può rivolgersi al pubblico, perché la parte più importante della sua politica viene condotta in privato. Il politico moderno conduce la sua vita pubblica in segreto; a volte si sforza di compensare questo comportamento fingendo di gestire la propria vita privata in modo trasparente. Mette addirittura il proprio bambino o il suo libro di compleanni sui giornali illustrati. Ma i suoi affari, che riguardano miliardi di persone in tutto il mondo, avvengono sempre nell’ombra.
+Lì dove hanno sbagliato, mi dispiace dirlo, è stato nel parlare di questa questione come se fosse l’unico e supremo esempio di tali inganni; quando in realtà tutta la nostra politica è piena di simili stratagemmi. In breve, la perdita della giustizia per l’Irlanda era semplicemente una parte della perdita della giustizia in Inghilterra: la perdita di ogni autorità morale nel [[government|governo]], la perdita di popolarità del Parlamento, la plutocrazia segreta che rende facile accettare tangenti o infrangere promesse, la corruzione che permette di approvare leggi impopolari o promuovere persone disprezzate. Il legislatore non può far rispettare le sue leggi perché, indipendentemente dal fatto che queste siano popolari o meno, il legislatore stesso è completamente impopolare e continua a approvare leggi impopolari. Gli intrighi hanno sostituito la vera [[government|governanza]]; e un politico non può rivolgersi al pubblico, perché la parte più importante della sua politica viene condotta in privato. Il politico moderno conduce la sua vita pubblica in segreto; a volte si sforza di compensare questo comportamento fingendo di gestire la propria vita privata in modo trasparente. Mette addirittura il proprio bambino o il suo libro di compleanni sui giornali illustrati. Ma i suoi affari, che riguardano miliardi di persone in tutto il mondo, avvengono sempre nell’ombra.
 Milionari che finiscono nelle sue tasche o nella sua cassaforte privata. A noi è permesso sapere tutto sui suoi cani e gatti; ma non su quegli animali più grandi e pericolosi, i suoi “tori” e “orsi”. C’è stato un momento in cui l’Inghilterra aveva l’opportunità di eliminare questo male parlamentare, proprio come in seguito l’Europa ebbe l’occasione – che fortunatamente sfruttò – di eliminare il male prussiano. La corruzione era diffusa in entrambi i partiti; ma l’opportunità di smascherarla si presentò proprio durante il governo di un partito a favore del “diritto al governo nazionale”; un partito che i Nazionalisti sostenevano esclusivamente per questo motivo. Nel caso Marconi, essi acconsentirono a insabbiare le truffe dei trafficanti ebrei, che sicuramente disprezzavano; proprio come in seguito alcuni membri del Sinn Féin acconsentirono a insabbiare le malvagità dei bulli prussiani, che anch’essi dovevano disprezzare. In entrambi i casi, il movente era totalmente disinteressato, persino idealistico. Fu la praticità ad risultare impraticabile. Facevo parte di un piccolo gruppo che si oppose alla messa a tacere del caso Marconi; ma riconoscevamo sempre le intenzioni patriottiche degli irlandesi che lo permisero. Tuttavia, la nostra critica riguardava soprattutto la loro strategia.
 Secondo il principio “falsus in uno, falsus in omnibus”: l’uomo che vi ingannerà su una cosa vi ingannerà anche su un’altra. Coloro che mentiranno su Marconi mentiranno anche sulla [[motifs/home|autonomia]] locale. Le convenzioni politiche che permettono di trattare le questioni legate a Marconi a un prezzo per il partito e a un altro prezzo per sé stessi, sono le stesse convenzioni che consentono di raccontare una cosa al signor John Redmond e un’altra al signor Edward Carson. L’uomo che, parlando in pubblico al Parlamento, insinuerà uno stato di cose diverso da quello che affermerà quando sarà chiamato a testimoniare in [[settings/court|tribunale]], appartiene allo stesso genere di persone.
 Con motivi del tutto onorevoli, essi aderirono alla concezione più ristretta del loro dovere nazionale. Sacrificarono tutto per il [[motifs/home|governo autonomo]]; persino i propri profondi sentimenti nazionali di disprezzo. Per il bene del [[motifs/home|governo autonomo]], o per la solenne promessa di esso, lasciarono che tali uomini rimanessero al potere; e in cambio scoprirono che quegli stessi uomini erano ancora al potere, mentre il [[motifs/home|governo autonomo]] era scomparso. Quello che intendo riguardo al Partito Nazionalista, e ciò che può essere considerato l’“ombra profetica” dell’errore commesso dal Sinn Féin, può essere ben simboleggiato da una delle figure più nobili di quel partito, o di qualsiasi altro. Un poeta irlandese, parlando con me della dizione incisiva dei contadini irlandesi, mi raccontò di essersi recentemente divertito in compagnia di un agricoltore ubriaco del Kerry: il cui discorso consisteva in una serie di domande su tutto ciò che esiste sotto il cielo e sulla terra, ognuna delle quali terminava con la stessa frase: “Me lo direte ora?” Alla fine, l’agricoltore chiese improvvisamente: “Conoscevate Tom Kettle?” Quando il poeta annuì, l’agricoltore rispose, come se trionfasse: “E perché ci sono così tante persone vive che dovrebbero essere morte, e così tante persone morte che dovrebbero essere vive? Me lo direte ora?” Questo episodio non è certo indegno di un antico poema eroico, né, quindi, indegno dell’eroe e poeta di cui si parla. “Patroclo è morto, ed era un uomo migliore di voi.” Thomas Michael Kettle fu forse l’esempio più rappresentativo di quella grandezza d’animo che ricevette così scarsi riconoscimenti da entrambe le parti del Canale della Manica, e in mezzo a tutte quelle controversie, una grandezza che caratterizzava il fratello di Redmond e molti dei suoi seguaci. Era un uomo intelligente, studioso, oratore; ambizioso in tutti gli ambiti delle arti della pace. Eppure morì combattendo contro i barbari, perché era un europeo troppo nobile per utilizzare quei barbari contro l’Inghilterra, proprio come l’Inghilterra avrebbe dovuto fare.
@@ -2029,7 +2029,7 @@ saprà ciò che sta facendo e dunque ciò che non può fare;
 che non può imbavagliare un uomo e poi [[motifs/cross|contro]]interrogarlo, non più di quanto
 possa fargli saltare le cervella e poi convincerne l'intelligenza.
 Vi può essere — umanamente parlando, vi deve essere — una massa di ingiustizie
-nel governo militaristico dell'Irlanda. Il militarismo stesso
+nel [[government|governo]] militaristico dell'Irlanda. Il militarismo stesso
 può esserne la minore; ma deve comportare l'occultamento
 di tutto il resto.
 Si è osservato sopra che instaurare il militarismo è cosa
@@ -2081,7 +2081,7 @@ a un irlandese di trovarsi in Irlanda, come una rossa cassetta delle lettere ram
 inglese di trovarsi in Inghilterra. Ma vi devono essere mille cose
 pratiche quanto le cassette delle lettere che rammentano a un irlandese che, se è
 nel suo paese, esso non è ancora un paese libero; tutto ciò che è connesso
-con la principale sede del governo glielo rammenta perpetuamente.
+con la principale sede del [[government|governo]] glielo rammenta perpetuamente.
 Può non essere facile per un inglese immaginare quanti siano simili
 dettagli quotidiani. Ma c'è, dopotutto, uno sforzo dell'immaginazione assai
 semplice che fisserebbe per lui il fatto per sempre.
@@ -2211,7 +2211,7 @@ Ma se qualcuno desidera sapere cosa intendo per quella [[concepts/truth|verità]
 che rende nazionale una lingua, varrà la pena di guardare
 alla mera dizione di quel discorso, e notare come il suo intero effetto poggi su
 certe frasi e consuetudini che si dànno a essere proprie della nazione.
-È [[motifs/well|ben]] noto che in Irlanda il marito o capo di casa è
+È [[motifs/well|ben]] noto che in Irlanda il marito o capo di [[house|casa]] è
 sempre chiamato «himself», «lui stesso»; né ciò è proprio soltanto dei contadini, ma adottato,
 sia pure in parte per scherzo, anche dalla piccola nobiltà. Un illustre pubblicista dublinese,
 proprietario terriero e figura di spicco tra l'aristocrazia più nazionale,
@@ -2255,7 +2255,7 @@ Può soltanto vederla, fiutarla, udirla, maneggiarla, urtarvi contro,
 inciamparvi, ucciderla, esserne ucciso, o essere dannato per averle fatto torto.
 Deve accontentarsi di questi meri indizi della sua esistenza;
 ma non può definirla, perché è come una persona; e nessun libro
-di logica si assumerà l'impegno di definire la zia Jane o lo zio William.
+di [[logic|logica]] si assumerà l'impegno di definire la zia Jane o lo zio William.
 Possiamo solo dire, con più o meno mesta convinzione, che se
 la zia Jane non è una persona, allora la cosa chiamata persona non esiste,
 e io dico con pari convinzione che se l'Irlanda non è una nazione,
@@ -2268,13 +2268,13 @@ continuiamo a reprimere l'Irlanda, stiamo reprimendo una nazione; se abbiamo
 ragione di reprimere l'Irlanda, abbiamo ragione di reprimere una nazione.
 Dopo di ciò potremo considerare cosa si possa fare, secondo le nostre
 opinioni sul rispetto dovuto al patriottismo, sulla realtà delle
-alternative cosmopolite e imperiali, e così via. Discuterò
+alternative cosmopolite e imperiali, e così via. [[debate|Discuterò]]
 volentieri con l'uomo che non vuole affatto l'umanità divisa in nazioni;
 posso immaginare una tesi a favore dell'uomo che vuole specialmente frenare
 una particolare nazione, come io frenerei l'antinazionale Prussia.
 Ma non discuterò con un uomo se l'Irlanda sia una nazione,
 o sull'ancor più tremenda questione se sia un'isola.
-So che esiste una filosofia scettica la quale suggerisce che tutte le
+So che esiste una [[philosophy|filosofia]] scettica la quale suggerisce che tutte le
 idee ultime sono solo idee penultime; e dunque forse
 che tutte le isole sono in realtà penisole. Ma pretenderò di sapere
 cosa intendo per isola e cosa intendo per individuo;
@@ -2286,7 +2286,7 @@ sopra uno strano fianco di [[motifs/hill|collina]], e lei che incedeva come una 
 
 IX. Belfast e il problema religioso
 
-Di quella nube di sogno che sembra aleggiare su tante poesie e impressioni irlandesi, ben poco avvertii in Irlanda. C'è un senso reale in questa suggestione di un [[motifs/sleep|sonno]] mistico; ma non significa ciò che la maggior parte di noi immagina, né si trova dove ce l'aspettiamo. Al contrario, credo che l'impressione più viva che quella nazione mi lasciò fu di essere quasi innaturalmente desta. Direi quasi che l'Irlanda soffre d'insonnia. E ciò è vero non solo alla lettera, a proposito di quelle conversazioni formidabili, le prolungate attività di intelletti ricchi e irrequieti, capaci di bruciare le notti dall'oscurità all'alba. È vero sul versante dubbio [[motifs/well|come]] su quello delizioso; e quel temperamento ha qualcosa della vigilanza morbosa e perfino dell'irritabilità dell'insonnia. La sua lucidità non è soltanto sovrumana, ma talvolta, nel senso vero, disumana. La sua chiarezza intellettuale non sa resistere alla [[concepts/temptation|tentazione]] della crudeltà intellettuale. Se dovessi riassumere in una frase l'unico difetto davvero imputabile agli irlandesi, potrei farlo con semplicità. Direi che mi rattristava vederli tutti tanto più simpatici a me di quanto lo fossero l'uno all'altro. Ma è la nostra suprema stoltezza intendere sempre questo come se l'Irlanda fosse una sorta di Fiera di Donnybrook. È in realtà tutto il contrario di una rissa meramente turbolenta e irresponsabile. Lungi dal battersi coi randelli, si battono fin troppo di fioretto; la loro [[concepts/temptation|tentazione]] sta proprio nella finezza e perfino nella delicatezza dell'affondo. Certo vi sono moltitudini che non fanno un uso così letale dell'ironia nazionale; ma essa è tanto diffusa che perfino costoro ne soffrono; e dopo un [[motifs/time|po']] cominciai a capire un poco quel ritornello sull'amarezza del parlare, che ricorre così spesso nei canti del signor Yeats e di altri poeti irlandesi. «Benché la [[concepts/hope|speranza]] ti abbandoni e l'[[motifs/love|amore]] [[motifs/decay|s'estingua]], / ardendo nei fuochi di una lingua calunniosa.» Ma non c'è nulla di sognante in quell'amarezza; il peggio è che le critiche hanno sempre un tocco lucidissimo e logico di [[concepts/truth|verità]]. Non spetta a noi fare prediche agli irlandesi sul [[concepts/forgiveness|perdono]], noi che abbiamo dato loro tanto da perdonare. Ma se qualcuno che non avesse perduto il diritto di predicare loro, se san Patrizio tornasse a predicare, troverebbe che nulla è venuto meno, per tutte quelle ere di agonia, quanto a [[concepts/faith|fede]], [[concepts/honour|onore]] ed [[concepts/endurance|sopportazione]]; ma credo che potrebbe forse dire, ciò che io non ho diritto di dire, una parola sulla [[concepts/charity|carità]]. C'è invero un senso decisivo in cui gli irlandesi sono assai poetici: quello di accordare alla poesia un riconoscimento sociale speciale e serio. Ho talora espresso la fantasia che gli uomini dell'[[topoi/golden-age|Età dell'Oro]] parlassero spontaneamente in versi; ed è davvero vero che metà del discorrere irlandese è in versi. La citazione diventa recitazione. Ma è troppo ritmico per somigliare alle nostre recitazioni teatrali. È uno dei miei ricordi più forti e più cari, e una delle ragioni più precise per cui mi sentii straordinariamente felice a Dublino. Era un paradiso di poeti, in cui chi si sentisse incline a citare un libro o due del _Paradise Lost,_ o a illustrare il proprio pensiero con l'intera ballata dell'_Ancient Mariner,_ sente che sarà compreso meglio che altrove. Ma più si osserva questa qualità così nazionale, meno la si scambierà per qualcosa di meramente irresponsabile, o persino meramente emotivo. Il modo più breve di enunciare la [[concepts/truth|verità]] è dire che la poesia fa la parte della musica. È, in ogni senso dell'espressione, una funzione sociale. Una serata poetica è naturale quanto una serata musicale; ed essendo altrettanto naturale diventa ciò che si dice artificiale. Come in certi ambienti «Suona lei?» è piuttosto «Non suona?», così questi ambienti irlandesi si stupirebbero perché un uomo non recita, anziché perché recita. Un critico ostile, e specialmente un critico irlandese, potrebbe magari dire che gli irlandesi sono poetici perché non sono sufficientemente musicali. Posso immaginare il signor Bernard [[works/shaw-(chesterton)|Shaw]] dire qualcosa del genere. Ma si potrebbe [[motifs/well|ben]] ribattere che non sono soltanto musicali perché non acconsentono a essere soltanto emotivi. È assai più vero dire che assegnano alla poesia un posto ragionevole, che non dire che permettano una qualche particolare interferenza poetica con la ragione. «Ma io, le cui virtù sono le definizioni della mente analitica», dice il signor Yeats, e chiunque abbia respirato quell'atmosfera saprà cosa intende. Nella misura in cui simili cose si allontanano dalla ragione, tendono più al rito che al tumulto. La poesia è in Irlanda ciò che l'umorismo è in [[settings/america|America]]: un'istituzione. L'inglese, che è sempre, nel bene e nel male, il dilettante, prende entrambi in modo più occasionale e perfino accidentale. Occorre sempre ricordare qui che l'antica civiltà irlandese aveva una poesia di alto ordine, che non era meramente mistica, ma piuttosto matematica. Come l'ornamento celtico, il verso celtico tendeva troppo a schemi geometrici. Se ciò era irrazionale, non lo era per eccesso di emozione. Lo si potrebbe piuttosto definire irrazionale per eccesso di ragione. L'antica gerarchia dei menestrelli, ogni grado col proprio metro complicato, suggerisce che vi fosse qualcosa di cinese in una cosa così disumanamente civile. Eppure tutta questa etichetta svanita è in qualche modo nell'aria in Irlanda; e uomini e donne vi si muovono, come ai passi di una [[motifs/dance|danza]] perduta. Così, sia che consideriamo il senso in cui gli irlandesi sono davvero litigiosi, sia il senso in cui sono davvero poetici, troviamo che entrambi ci riconducono a una condizione di chiarezza che sembra l'esatto contrario di un semplice sogno. In entrambi i casi l'Irlanda è critica, e perfino critica verso [[concepts/self|sé stessa]]. L'amarezza che ho osato deplorare non è l'amarezza irlandese contro gli inglesi; quella la darei per non solo inevitabile, ma sostanzialmente giustificabile. È l'amarezza irlandese contro gli irlandesi; le osservazioni di un onesto nazionalista su un altro onesto nazionalista. Similmente, per quanto amino la poesia, non sempre amano i poeti; e c'è abbondanza di [[forms/satire|satira]] nelle loro conversazioni in proposito. Ho detto che metà del discorrere può consistere in poesia; direi quasi che l'altra metà può consistere in [[forms/parody|parodia]]. Tutte queste cose si riducono a un eccesso di vigilanza e realismo; la massa del popolo veglia e prega, ma perfino coloro che non pregano mai non cessano mai di vegliare. Se idealizzano il [[motifs/sleep|sonno]], lo fanno come chi non dorme; si potrebbe quasi dire che sanno solo sognare di sognare. Se un sogno li perseguita, è piuttosto come qualcosa che sfugge loro; e infatti parte della loro poesia più bella parla piuttosto del cercare il paese delle fate che del trovarlo. Ciò ammesso, posso dire che vi fu un luogo in Irlanda dove mi parve davvero di trovarlo, e non soltanto di cercarlo. Vi fu un punto in cui mi parve di vedere il sogno stesso in possesso del luogo; come si potrebbe scorgere da lontano una nube posata su un solo [[motifs/hill|colle]]. Là un sogno, insieme [[motifs/desire|desiderio]] e illusione, incombeva su un'intera [[motifs/city|città]]. Quel luogo era Belfast. La descrizione potrebbe giustificarsi anche alla lettera e nei dettagli. Un uomo mi raccontò, nell'Ulster nordorientale, di aver udito una madre allontanare i figli da uno stagno, o simile luogo di pericolo, dicendo: «Non andate là; ci sono dei piccoli papi, là». Un paese dove si può dire una cosa simile è, rispetto all'Inghilterra, come il paese degli elfi. Se non proprio una terra di fate, è quantomeno una terra di folletti. C'è qualcosa di delizioso nella fantasia di uno stagno pieno di questi elfi peculiari, come tanti tritoni, ciascuno completo della sua minuscola triplice [[motifs/crown|corona]] o delle chiavi incrociate. Questa è la differenza tra questo distretto manifatturiero e un distretto manifatturiero inglese, come quello di Manchester. A Manchester ci sono numerosi robusti anticonformisti; e senza dubbio dirigono qualcuna delle loro ammonizioni educative contro il sistema rappresentato dall'arcivescovo di Canterbury. Ma nessuno a Manchester, per quanto anticonformista, dice a un [[archetypes/child|bambino]] che una pozzanghera è una sorta di vivaio per arcivescovi di Canterbury, piccoli folletti in ghette e grembiule. Si potrà dire che è uno stagno assai stagnante quello che genera simili tritoni. Ma qualunque veduta ne prendiamo, resta vero, tanto per cominciare, che il [[concepts/paradox|paradosso]] si potrebbe dimostrare anche solo con cose superficiali come le superstizioni. L'Ulster protestante puzza di superstizione; è l'odore forte che davvero irrompe come una folata da Belfast, a differenza di Birmingham o Brixton. Ma per me c'è sempre qualcosa di umano e quasi umanizzante nella superstizione; e credo davvero che simili leggende persistenti sul Papa, essere tanto remoto e disumanizzato quanto il [[archetypes/king|Re]] delle Isole dei Cannibali, abbiano funzionato come una sorta di folclore negativo. E lo stesso si può dire, nella misura in cui è vero che la provincia commerciale ha conservato una teologia [[motifs/well|oltre]] che una mitologia. Dovunque gli uomini siano ancora teologici, c'è ancora qualche possibilità che siano logici. E in ciò l'ulsteriano calvinista può essere più irlandese cattolico di quanto comunemente si creda, specialmente da lui stesso. Attacchi e difese abbondano sulla questione del bigottismo di Belfast; ma il bigottismo non è affatto la cosa peggiore di Belfast. Anzi credo sia la migliore. Né è l'esempio più forte di ciò che intendo quando dico che Belfast vive davvero in un sogno. L'altro, più notevole difetto di quella società ha invero una radice religiosa; poiché quasi tutto nella [[concepts/history|storia]] ha una radice religiosa, e specialmente quasi tutto nella [[concepts/history|storia]] irlandese. Di quella origine teorica nella teologia dirò qualcosa tra un momento; qui basterà dire che ciò che ha prodotto il male più evidente e pratico è, in ultima analisi, la teologia stessa, ma non l'abitudine a essere teologici. È il credo; ma non la [[concepts/faith|fede]]. Nella misura in cui il protestante dell'Ulster ha davvero una [[concepts/faith|fede]], è davvero un bravo tipo; benché forse non così bravo come si crede. E questo è l'abisso; e lo si può enunciare nel modo più breve, come spesso l'ho enunciato in simili dibattiti, dicendo che il protestante di solito dice: «Sono un buon protestante», mentre il cattolico dice sempre: «Sono un cattivo cattolico». Quando dico che Belfast è dominata da un sogno, lo intendo nel senso psicologico stretto; che qualcosa dentro la mente è più forte di tutto ciò che le sta fuori. L'assurdo non è solo più forte del senno, ma più forte dei sensi. L'idea nella testa di un uomo può eclissare gli occhi nella sua testa. Mercanti degnissimi e gentilissimi mi dissero che a Belfast non c'era [[concepts/poverty|povertà]]. Non dissero che c'era meno [[concepts/poverty|povertà]] di quanto comunemente si affermasse, o meno [[concepts/poverty|povertà]] di prima, o meno che in luoghi simili altrove. Dissero che non ce n'era affatto. Come osservazione sul Paradiso Terrestre o sulla Nuova Gerusalemme, sarebbe impressionante. Come osservazione sulle strade, per cui loro ed io eravamo entrambi passati pochi istanti prima, era semplicemente un trionfo della pura [[concepts/madness|follia]] dell'[[concepts/imagination|immaginazione]] dell'uomo. Questi eminenti cittadini di Belfast mi accolsero nel modo più gentile e cortese; e non direi volentieri nulla a loro critica al di là di ciò che è necessario per le esigenze pratiche del loro paese e del mio. Ma in verità credo che la critica più grande che si possa muover loro sia che non capirebbero cosa la critica significhi. La rivestirò dunque in una [[forms/parable|parabola]], che non è men buona per essere stata anche un fatto reale. Quando mi si disse che a Belfast non c'era [[concepts/poverty|povertà]], osservai mitemente che la gente doveva avere un gusto singolare nel vestire. Mi fu gravemente assicurato che avevano davvero un gusto singolarissimo nel vestire. Ne trassi l'impressione generale che portare camicie o pantaloni decorati di larghi buchi a intervalli irregolari fosse una forma scusabile di civetteria o di stravaganza alla moda. E sarà sempre una gioia profonda e intima, nei ricordi della mia vita, che proprio mentre questi padri della [[motifs/city|città]] ed io uscivamo sui gradini dell'albergo, comparve davanti a noi uno dei più cenciosi ragazzini cenciosi che avessi visto, a chiedere un penny. Gli diedi un penny, al che questo gruppo di mercanti si trasfigurò d'un tratto in una sorta di plebaglia, vociferando: «Contro la legge! Contro la legge!», e lo cacciarono via in fretta. [[concepts/hope|Spero]] non sia poco amabile essermi tanto divertito a quella visione di una folla di magistrati che scacciava con tanto zelo un [[archetypes/child|bambino]] solitario come un gatto. Comunque sia, non sapevano quel che facevano; e, quel che è peggio, non sapevano di non saperlo. E non capirebbero, se glielo dicessi, quale leggenda si sarebbe potuta comporre attorno a quel [[archetypes/child|bambino]], nelle [[topoi/ages-of-the-world|età cristiane del mondo]]. Il punto è qui che il male dell'illusione non consiste nel bigottismo, ma nella [[concepts/vanity|vanità]]. Non è che un tale uomo di Belfast si creda nel giusto; ché ogni uomo onesto ha il diritto di credersi nel giusto. È che si crede buono, per non dire grande; e nessun uomo onesto può giungere a quella comoda convinzione senza un percorso di disonestà intellettuale. Ciò che separa questo spirito dal buon senso cristiano è il fatto che l'illusione, come la maggior parte delle illusioni insane, è meramente egoistica. È semplicemente il piacere di pensare stravagantemente [[motifs/well|bene]] di sé; e l'illimitato abbandonarsi a quel piacere fiacca assai più di qualsiasi abbandono al bere o alla dissipazione. Ma esso costruisce così completamente un cosmo irreale attorno all'io, che la critica del mondo non può essere avvertita neppure a fini mondani. Potrei dare molti esempi di questo elemento a Belfast, anche a paragone di Birmingham o Manchester. Il [[characters/lord-mayor|sindaco]] di Manchester può darsi non s'intenda molto di quadri; ma conosce uomini che se ne intendono. Ma le autorità di Belfast esporranno un quadro maniacalmente brutto come un capolavoro, solo perché glorifica Belfast. Nessuno oserebbe appendere un quadro simile a Manchester, a un tiro di sasso dal signor Charles Rowley. M'importa relativamente poco del caso dell'estetica; ma il caso è ancor più chiaro nell'etica. Tanto interamente questa gente è divisa dalle tradizioni più cristiane, che i loro stessi vanti li abbassano; e si degradano quando intendono esaltarsi. Non viene loro mai in mente che i loro strani criteri interni non sempre impressionano gli estranei. Un grande datore di lavoro mi presentò diversi dei suoi impiegati assai intelligenti; e posso volentieri testimoniare la sincerità della grande illusione di Belfast anche fra molti degli uomini più poveri di Belfast. Ma i sinceri sforzi loro e del loro padrone, per convincermi che un'[[concepts/union|unione]] con la maggioranza cattolica sotto il [[motifs/home|Home]] Rule era per loro intollerabile, andavano tutti sulla stessa aria, che tornava come una specie di [[characters/chorus|ritornello]]: «Non lasceremo che gente come loro faccia leggi per gente come noi». Non sembrava mai [[motifs/cross|sfiorare]] loro la mente che questo non sia un alto esempio di alcuna moralità umana; che, giudicato dalla _verecundia_ pagana o dall'[[concepts/humility|umiltà]] cristiana o dalla moderna fratellanza democratica, è semplicemente l'osservazione di uno snob. L'uomo in questione è del tutto [[archetypes/innocent|innocente]] di tutto ciò; non ha nozione della modestia, e nemmeno della falsa modestia; non solo è superiore, ma ritiene una superiorità rivendicare la superiorità. È qui che non possiamo evitare la teologia, perché non possiamo evitare la teoria. Poiché il punto è che perfino in teoria l'una atmosfera religiosa ora differisce dall'altra. Che la differenza abbia storicamente una radice religiosa è davvero indiscutibile; ma comunque è radicata profondissimamente. L'essenza del calvinismo era la certezza della salvezza; l'essenza del cattolicesimo è l'incertezza della salvezza. La forma moderna e materializzata di quella certezza è la superiorità; la fede di un uomo in una fissa aristocrazia morale di uomini come lui. Ma la [[concepts/truth|verità]] che qui ci riguarda è che, ormai a questo [[motifs/time|punto]] quantomeno, la superiorità è diventata una dottrina [[motifs/well|oltre]] che un vezzo. [[concepts/doubt|Dubito]] che questa scuola estrema di protestanti creda nell'[[concepts/humility|umiltà]] cristiana anche solo come ideale. [[concepts/doubt|Dubito]] che i più onesti fra loro professerebbero anche solo di crederci. Lo si può vedere chiaramente confrontandola con altre virtù cristiane; delle quali questo calvinismo decaduto offre almeno una versione, anche a chi la ritiene una perversione. Il [[historical-references/puritanism|Puritanesimo]] è una versione della purezza; anche se lo riteniamo una [[forms/parody|parodia]] della purezza. La filantropia è una versione della [[concepts/charity|carità]]; anche se la riteniamo una [[forms/parody|parodia]] della [[concepts/charity|carità]]. Ma in tutto questo protestantesimo commerciale non c'è alcuna versione dell'[[concepts/humility|umiltà]]; non c'è nemmeno una [[forms/parody|parodia]] dell'[[concepts/humility|umiltà]]. L'[[concepts/humility|Umiltà]] non è un ideale. L'[[concepts/humility|Umiltà]] non è nemmeno un'ipocrisia. Non c'è istituzione, né comandamento, né formula comune di parole, né modello popolare o racconto tradizionale, che dica ad alcuno, in qualsivoglia modo, che esista una cosa come il pericolo dell'[[concepts/pride|orgoglio]] spirituale. In breve, c'è qui una scuola di pensiero e di sentimento che considera decisamente la soddisfazione di [[concepts/self|sé]] una forza; contro la forte tradizione cristiana del resto del paese, che altrettanto decisamente la considera una debolezza. Questo è il vero nodo morale nella lotta moderna in Irlanda; né è confinato all'Irlanda. L'Inghilterra è stata profondamente contagiata da questa debolezza farisaica; ma, come ho detto, l'Inghilterra prende le cose vagamente là dove l'Irlanda le prende vividamente. Gli uomini di Belfast offrono quella [[motifs/city|città]] come qualcosa di supremo, unico e senza rivali; e hanno quasi ragione. Non c'è nulla di esattamente simile nell'industrialismo di questo paese; ma nondimeno, la lotta contro la sua religione dell'arroganza è stata combattuta fino in fondo altrove e su un campo più vasto. C'è un altro centro e cittadella da cui questa teoria, della forza in una superiorità [[concepts/self|auto]]ipnotica, ha disprezzato la cristianità. C'è stata una [[motifs/city|città]] rivale di Belfast; e il suo nome era Berlino. Storici di tutte le religioni e di nessuna religione potranno un giorno considerare un fatto storico, immagino, che la [[historical-references/reformation|Riforma]] protestante del Cinquecento (almeno nella forma che effettivamente assunse) fu un crollo barbarico, come quel prussianesimo che fu il prodotto ultimo del protestantesimo. Ma comunque sia, gli storici avranno sempre interesse a notare che esso produsse certe cose curiose e caratteristiche; che val la pena studiare, che ci piacciano o no. E uno dei suoi tratti, immagino, è stato questo: che ha avuto il potere di produrre certe istituzioni le quali progredirono assai rapidamente verso grande ricchezza e potere; che il mondo in un certo momento reputò invincibili; e che il mondo, l'attimo dopo, scoprì d'un tratto intollerabili. Così fu di tutta quella teologia calvinista, di cui Belfast resta ora il solitario missionario. Così fu, perfino ai nostri [[motifs/time|giorni]], di tutto quel capitalismo industriale di cui Belfast è ora l'avamposto assediato e quasi deserto. E così fu di Berlino come di Belfast; e un sottile prussiano potrebbe quasi lamentare una sorta di tradimento, nella bruschezza con cui il mondo si destò e la trovò mancante; nella subitaneità della reazione che la colpì impotente, così poco dopo che era stata reputata onnipotente. Queste cose sembrano racchiudere tutto l'avvenire; e in un lampo sono cose del passato. Belfast è una novità antiquata. Una cosa simile viene ancora scusata per il suo apparire _parvenu_ quando la si scopre _passé._ Per esempio, è solo venendo a contatto con alcune delle controversie attorno alla Convention che un inglese potrebbe rendersi conto di quanto la mentalità del capo di Belfast sia non tanto quella di un remoto Whig del Seicento, quanto quella di un recente Radicale dell'Ottocento. Il suo conformismo pareva quello di un vittoriano più che di un guglielmita; e pareva meno circoscritto dalla Confraternita Orangista che dal Cobden Club. È un fatto assai efficacemente ricoperto e imbrattato dai grossi pennelli del nostro Sistema dei Partiti, che ha l'arte di nascondere tanti fatti lampanti. Questo Partito Unionista in Irlanda è in larghissima parte inteso a resistere alla principale [[concepts/reform|riforma]] propugnata dal Partito Unionista in Inghilterra. Un umorista politico, che comprendesse la tradizione cobdeniana di Belfast e la tradizione chamberlainiana di Birmingham, potrebbe divertirsi immensamente appellandosi dall'una all'altra; congratulandosi con Belfast per le audaci dottrine protezioniste prevalenti in Irlanda; scongiurando il signor Bonar Law e i riformatori delle tariffe di non dimenticare mai la battaglia condotta da Belfast per i sacri principii del Libero Scambio. Ma il fatto che la scuola di Belfast sia semplicemente la scuola di Manchester è solo un aspetto di questa [[concepts/truth|verità]] generale sul brusco crollo nell'antichità; un'improvvisa messa in pensione. L'intera marcia di quell'industrialismo di Manchester non è solo arrestata ma rovesciata; l'intera posizione è aggirata da nuove forze che giungono da nuove direzioni; la ricchezza dei contadini le blocca la [[motifs/road|strada]] davanti; lo sciopero generale s'è levato a minacciarle le spalle. Quella strana nube di [[concepts/vanity|vanità]] che protegge [[concepts/self|sé stessa]] può ancora permettere a Belfast di credere in Belfast, ma la Gran Bretagna non crede davvero in Belfast. Forze filosofiche assai più ampie e profonde della politica hanno minato la concezione di un protestantesimo progressista in Irlanda. Direi io stesso che la mera ascendenza inglese in quell'isola divenne intellettualmente impossibile il giorno in cui Shaftesbury introdusse il primo Factory Act, e il giorno in cui Newman pubblicò le prime pagine dell'_Apologia._ Entrambi erano certamente Tory e probabilmente unionisti. Nessuno dei due era legato all'argomento né l'uno all'altro; l'uno odiava il Papa e l'altro il Liberatore. Ma l'industrialismo non fu mai più [[concepts/self|auto]]evidentemente superiore dopo il primo evento, né il protestantesimo [[concepts/self|auto]]evidentemente superiore dopo l'altro. E occorreva una superiorità torreggiante e [[concepts/self|auto]]evidente per scusare il dominio inglese in Irlanda. È solo sul terreno del fare indiscutibilmente il bene che gli uomini possono fare tanto male quanto quello. Alcuni orangisti prima della guerra si concedettero un bel paragone retorico tra Guglielmo di Prussia e Guglielmo d'Orange; e apertamente suggerirono che il nuovo Liberatore protestante del nord sarebbe venuto dalla [[settings/germany|Germania]] settentrionale. I miei ospiti più moderati a Belfast mi assicurarono che tali orangisti non potevano considerarsi rappresentativi né tantomeno responsabili. Su ciò non posso pronunciarmi. Gli orangisti potevano non essere rappresentativi; potevano non essere responsabili; ma sono ben certo che avevano ragione. Sono ben certo che quei poveri fanatici erano assai più vicini al nervo della [[concepts/truth|verità]] storica che non politicanti di professione come Sir Edward Carson o capitalisti industriali come Sir George Clark. Se mai vi fu al mondo un'alleanza naturale, sarebbe stata l'alleanza tra Belfast e Berlino. I fanatici saranno pure sciocchi, ma hanno qui la luce per cui le cose stolte possono confondere i sapienti. È il punto più luminoso di Belfast, il bigottismo, poiché se la luce nel suo [[concepts/body|corpo]] è tenebra, è pur sempre più luminosa della tenebra. Per quella visione che accompagna ovunque la virilità e la [[concepts/greatness|grandezza]] della religione, questi uomini hanno davvero penetrato il segreto protestante e il significato di quattrocento anni. Il loro protestantesimo è prussianesimo, non come termine ingiurioso, ma come termine di astratta e imparziale scienza etica. Belfast e Berlino stanno dalla stessa parte nella più profonda di tutte le questioni spirituali implicate nella guerra. E questa è la semplice questione se l'[[concepts/pride|orgoglio]] sia un peccato, e dunque una debolezza. La mentalità moderna, o gran parte di essa, ha seriamente sostenuto l'idea che sia una debolezza disarmare la critica con l'[[concepts/self|auto]]critica, e una forza sdegnare la critica per mezzo della [[concepts/self|fiducia in sé]]. Questa è la tesi per cui Berlino diede battaglia alla civiltà più antica in Europa; e quella per cui Belfast diede battaglia alla civiltà più antica in Irlanda. Può darsi, come ho suggerito, che tale [[concepts/pride|orgoglio]] protestante sia il vecchio calvinismo, con la sua fissa elezione dei pochi. Può darsi che il protestantesimo sia semplicemente paganesimo, coi suoi dèi bestiali e i giganti attardati negli angoli del nord più selvaggio. Può darsi che il calvinismo fosse esso stesso un riaffiorare del paganesimo. Ma in ogni caso, sono certo che questa superiorità, che può dominare gli uomini come un incubo, può anche svanire come un incubo. E sospetto fortemente che anche in questa materia, come nella materia della proprietà vista da un popolo di contadini, la civiltà più antica si rivelerà la vera civiltà; e che una società più sana tornerà a considerare l'[[concepts/pride|orgoglio]] una pestilenza, come i socialisti sono già tornati a considerare l'avarizia una pestilenza. L'antica tradizione della cristianità voleva che la forma più alta di [[concepts/faith|fede]] fosse un [[concepts/doubt|dubbio]]. Era il [[concepts/doubt|dubbio]] di un uomo sulla propria [[motifs/soul|anima]]. Me lo espresse mirabilmente il signor Yeats, ora campione dell'ortodossia cattolica, nel dichiarare la sua preferenza per il cattolicesimo medievale a paragone del moderno umanitarismo: «Gli uomini pensavano allora ai propri peccati, e ora pensano sempre a quelli altrui». E perfino secondo il criterio protestante del progresso, l'[[concepts/pride|orgoglio]] si rivela arrestato da una paralisi prematura. Il progresso è superiorità su sé stessi; ed è fermato di netto dalla superiorità sugli altri. Il caso è ancor più chiaro alla prova della poesia, che è assai più solida e permanente del progresso. Il Superuomo sarà stato una sorta di poema; ma non poté mai essere una sorta di poeta. Più tentiamo di analizzare quello strano elemento della [[concepts/wonder|meraviglia]], che è l'[[motifs/soul|anima]] di tutte le arti, più vedremo che esso deve dipendere da una certa subordinazione dell'[[concepts/self|io]] a una gloria che esiste al di là di esso, e perfino a suo dispetto. L'uomo si sente sempre creatura quando agisce da creatore. Quando scolpisce una [[settings/cathedral|cattedrale]] è per fare un [[archetypes/monster|mostro]] capace di [[motifs/swallow|inghiottirlo]]. Ma l'incubo nietzschiano di inghiottire il mondo non è che una specie di sbadiglio. Quando l'anarca evoluzionista ha spezzato tutti i legami e le leggi ed è finalmente libero di parlare, scopre di non aver nulla da dire. Così i canti tedeschi sotto l'aquila imperiale ammutolirono come uccelli canori sotto uno sparviero; ed è solo di rado, qua e là, che un mercante di Belfast libera la propria [[motifs/soul|anima]] in una [[forms/lyric|lirica]]. Deve farsi scrivere dal signor Kipling una poesia su Belfast, in uno stile tecnicamente intonato ai quadri di Belfast. Ecco la vera Tara dell'arpa silenziosa, e il trono e la dimora del sogno; ed è là che i pessimisti celtici dovrebbero piangere in [[motifs/silence|silenzio]] la fine del canto. Suonare la propria tromba non s'è rivelato una buona [[concepts/education|educazione]] musicale. In logica un uomo saggio metterà sempre il carro davanti al [[motifs/horse|cavallo]]. Vale a dire, metterà sempre il fine davanti ai mezzi; quando considera la questione nel suo insieme. Non costruisce un carro allo scopo di far esercitare un [[motifs/horse|cavallo]]. Impiega un [[motifs/horse|cavallo]] per tirare un carro, e qualunque cosa vi sia nel carro. In tutto il ragionare moderno c'è la tendenza a rendere la mera bestia da soma politica più importante del cocchio dell'uomo che essa deve trainare. Ciò ha portato a liquidare tutte queste questioni spirituali in favore di ciò che si chiamano questioni sociali; e questo a un trattamento troppo facile di cose come la questione religiosa a Belfast. C'è una questione religiosa; e non avrà una risposta irreligiosa. Non le si farà fronte con la limitazione della [[concepts/faith|fede]] cristiana, ma piuttosto con l'estensione della [[concepts/charity|carità]] cristiana. Ma se un uomo dice che non c'è differenza tra un protestante e un cattolico, e che entrambi possono agire in modo identico dovunque tranne che in una chiesa o cappella, sta guidando follemente il [[motifs/horse|cavallo]] da tiro avendo dimenticato il carro. Una religione non è la chiesa in cui un uomo va, ma il cosmo in cui vive; e se qualche scettico lo dimentica, il più forsennato fanatico che batte un tamburo orangista sulla Battaglia del Boyne è un filosofo migliore di lui. Molte persone incolte e alcune colte a Belfast credono, in tutta sincerità, che i preti romani siano demoni, in attesa solo di riaccendere i fuochi dell'[[historical-references/inquisition|Inquisizione]]. Per due semplici ragioni, tuttavia, mi rifiutai di prendere questo fatto come prova di alcunché, se non della loro sincerità. Primo, perché le storie, ridotte al loro rudimento di [[concepts/truth|verità]], si risolvevano in genere nell'[[forms/riddle|enigma]] di poveri cattolici romani che davano denaro alla propria religione; e parevano deplorare non tanto una dipendenza dai preti quanto un'indipendenza dai datori di lavoro. E secondo, per una ragione tratta dalla mia esperienza, [[motifs/well|oltre]] che dal sapere comune, riguardo alla gentry protestante del sud dell'Irlanda. Gli unionisti del sud parlavano del tutto privi di questo speciale orrore verso i preti o i contadini cattolici. Brontolavano contro di loro o ne ridevano come un uomo brontola o ride dei propri vicini; ma evidentemente non sognavano che il prete li bruciasse più di quanto sognassero che li mangiasse. Se i preti fossero neri come li dipingevano i neri protestanti, sarebbero al loro peggio là dove sono in maggioranza; e sarebbero conosciuti al loro peggio dalla minoranza. Era chiaro che Belfast serbava la tradizione più bigotta, non perché conoscesse di più i preti, ma perché ne conosceva di meno; non perché fosse sul posto, ma perché il posto le era precluso. Un'illusione ancor più generale era l'idea che tutti gli irlandesi del sud sognassero e non lavorassero. Feci notare che anche questo era incoerente con l'esperienza concreta; giacché in tutto il mondo chi fa rendere una piccola fattoria deve lavorare davvero durissimo. In realtà storica, la vecchia nozione che il contadino irlandese non lavorasse, ma solo sognasse, aveva una spiegazione semplice. Significava soltanto che non lavorava per il profitto di un capitalista; ma sognava di lavorare un giorno per il proprio profitto. Ma nella tradizione può esserci stata anche questa [[concepts/truth|verità]] distorta; che un contadino libero, mentre estende il proprio lavoro, si crea le proprie feste. Non è ozioso tutto il giorno, ma può essere ozioso in qualunque [[motifs/time|momento]] del giorno; non sogna ogni volta che ne ha voglia, ma sogna ogni volta che lo decide. Un famoso industriale di Belfast, uomo di capacità, ma che scuoteva il capo davanti all'inspiegabile prevalenza dei preti, mi assicurò di aver visto contadini nel sud non far nulla, alle ore più disparate; e questa è senza dubbio la differenza tra la fattoria e la fabbrica. Lo stesso signore mi fece visitare il colossale naviglio del grande porto, con tutti i macchinari e i trasporti che vi conducevano. Nessun uomo dotato di [[concepts/imagination|immaginazione]] resterebbe insensibile a simili esperimenti titanici della propria razza; o negherebbe la cupa poesia di quelle fornaci degne di Vulcano o di quei magli degni di Thor. Ma mentre stavo sulla banchina dissi alla mia guida: «Vi siete mai chiesto a che serva tutto questo?» Era un uomo intelligente, un [[concepts/exile|esule]] dalla metafisica Scozia, e capì cosa intendevo. «Non lo so», disse, «forse siamo solo [[motifs/insects|insetti]] che costruiscono una barriera corallina. Non so a che serva la barriera corallina.» «Forse», dissi, «è di questo che il contadino [[motifs/dreams|sogna]], ed è per questo che ascolta il prete.» Poiché sembra esserci una fallacia alla moda secondo cui l'uguaglianza religiosa è qualcosa da sbrigare e liquidare, per poter passare alla vera faccenda dell'uguaglianza politica. In filosofia è vero l'esatto contrario. L'uguaglianza politica è qualcosa da sbrigare e liquidare, per poter passare alla ben più reale faccenda della religione. All'Abbey Theatre vidi un vigoroso dramma del signor St. John Ervine, intitolato _The Mixed [[motifs/marriage|Marriage]];_ che ricorderei se non altro per la bella interpretazione della signorina Maire O'Neill. Ma il dramma mi commosse moltissimo come dramma; eppure sentii che la presenza di questa fallacia lo falsificava in qualche misura. Il drammaturgo pareva risentirsi di uno scisma solo perché interferiva con uno sciopero. Ma l'unico scopo dello scioperare è la libertà; e l'unico scopo della libertà è la vita: cosa interamente spirituale. È la libertà economica che andrebbe liquidata come questa gente liquida la teologia. La otteniamo solo per dimenticarla. È giusto che gli uomini abbiano case, giusto che abbiano terra, giusto che abbiano leggi a protezione della terra; ma tutte queste cose sono solo macchinari per procurare ozio all'[[motifs/soul|anima]] che lavora. La casa è solo un palcoscenico allestito dai macchinisti per la recita di ciò che il signor J. B. Yeats ha chiamato «il dramma del [[motifs/home|focolare]]». Tutte le cose più drammatiche accadono in [[motifs/home|casa]], dal nascere al morire. Ciò che un uomo pensa di queste cose è la sua vita; e sostituirvi un affaccendarsi di campagne elettorali e legislazione è aggirarsi tra quinte e carrucole sul lato sbagliato di scenari di cartone; e non recitare mai il dramma. E quel dramma è sempre una sacra rappresentazione; e il nome del suo [[archetypes/hero|eroe]] è Everyman. Quando tornai dallo splendore desolato del mare e della costa del Donegal, e rividi il [[motifs/garden|giardino]] quadrato e la statua fuori dall'albergo di Dublino, non sapevo di tornare a qualcosa che si sarebbe [[motifs/well|ben]] potuto dire ancor più desolato. Poiché fu quando entrai nell'albergo che per la prima volta scoprii che era colmo dell'orribile [[forms/tragedy|tragedia]] del _Leinster._ Avevo visto spesso la [[motifs/death|morte]] in una [[motifs/home|casa]], ma mai la [[motifs/death|morte]] che decimava una vasta locanda; e c'era qualcosa di stranamente sconvolgente nei posti vuoti di uomini e donne con cui avevo chiacchierato tanto oziosamente pochi giorni prima. Era quasi come se vi fosse più [[forms/tragedy|tragedia]] nel troncare di simili chiacchiere insignificanti che nel recidere legami di una vita intera. Ma c'era tutta la dignità [[motifs/well|oltre]] che la [[forms/tragedy|tragedia]] dell'uomo; e fui lieto, prima di lasciare l'Irlanda, di aver visto il lato più nobile della guarnigione anglo-irlandese; e di aver conosciuto uomini del mio stesso [[motifs/blood|sangue]], per quanto in errore, sopportare così la fine delle cose. Con le cattive notizie dal mare giunsero notizie migliori dalla guerra; Mangin aveva sferrato il colpo clamoroso che tagliò fuori i tedeschi mentre marciavano su Châlons; e con tutte le emozioni di un [[concepts/exile|esule]], per quanto temporaneo, seppi che la mia terra era al sicuro. In qualche modo, le cattive e le buone notizie insieme volsero la mia mente sempre più verso l'Inghilterra; e verso tutto l'umorismo intimo e la geniale bonarietà insulare che perfino agli irlandesi un giorno sarà forse concesso di comprendere. Mentre volgevo verso casa sul primo battello che partì dal porto irlandese, e le colline di Wicklow arretravano in una luce piovosa e spezzata, era con i più semplici di quegli antichi appetiti con cui un uomo dovrebbe tornare al proprio paese. Solo che mi si aggrappava, innegabile, un sentimento riguardo all'Irlanda, un sentimento che non potevo trasferire all'Inghilterra; che mi chiamava come un paese degli elfi di tante figure liete, da [[characters/puck|Puck]] a [[works/pickwick-(chesterton)|Pickwick]]. Guardando quelle colline piovose, sapevo almeno che stavo guardando, forse per l'ultima [[motifs/time|volta]], qualcosa di radicato nella [[concepts/faith|fede]] cristiana. Là almeno l'ideale cristiano era qualcosa di più di un ideale; era, in un senso speciale, reale. Era tanto reale da comparire perfino nelle statistiche. Era tanto [[concepts/self|auto]]evidente da essere visto perfino dai sociologi. Era una terra dove la nostra religione aveva reso visibile perfino la propria visione. Aveva reso popolari perfino le proprie virtù impopolari. Dovrà essere, nei tempi a venire, un banco di prova ultimo, per stabilire se un popolo che prenderà quel nome sul serio, e perfino solidamente, sia destinato a soffrire o a riuscire. Mentre la lunga linea della costa montuosa si dispiegava davanti a me ebbi un'illusione ottica; può darsi che molti l'abbiano avuta prima. Man mano che nuovi tratti di costa e linee di alture si dispiegavano, ebbi la fantasia che l'intera terra non arretrasse ma avanzasse, come qualcosa che spalanca le braccia al mondo. Un casuale brandello di sole si posava, come uno stendardo lacerato, sul [[motifs/hill|colle]] che credo si chiami in irlandese la Montagna delle Lance d'Oro; e avrei potuto immaginare che le lance e lo stendardo stessero avanzando. E in quel lampo ricordai che gli uomini di quest'isola erano un tempo usciti, non come torce di conquistatori o distruttori; ma come missionari nella piena mezzanotte dei Secoli Bui, come una moltitudine di candele in cammino, che furono la luce del mondo. Fine
+Di quella nube di sogno che sembra aleggiare su tante [[Poems|poesie]] e impressioni irlandesi, ben poco avvertii in Irlanda. C'è un senso reale in questa suggestione di un [[motifs/sleep|sonno]] mistico; ma non significa ciò che la maggior parte di noi immagina, né si trova dove ce l'aspettiamo. Al contrario, credo che l'impressione più viva che quella nazione mi lasciò fu di essere quasi innaturalmente desta. Direi quasi che l'Irlanda soffre d'insonnia. E ciò è vero non solo alla lettera, a proposito di quelle conversazioni formidabili, le prolungate attività di intelletti ricchi e irrequieti, capaci di bruciare le notti dall'oscurità all'alba. È vero sul versante dubbio [[motifs/well|come]] su quello delizioso; e quel temperamento ha qualcosa della vigilanza morbosa e perfino dell'irritabilità dell'insonnia. La sua lucidità non è soltanto sovrumana, ma talvolta, nel senso vero, disumana. La sua chiarezza intellettuale non sa resistere alla [[concepts/temptation|tentazione]] della crudeltà intellettuale. Se dovessi riassumere in una frase l'unico difetto davvero imputabile agli irlandesi, potrei farlo con semplicità. Direi che mi rattristava vederli tutti tanto più simpatici a me di quanto lo fossero l'uno all'altro. Ma è la nostra suprema stoltezza intendere sempre questo come se l'Irlanda fosse una sorta di Fiera di Donnybrook. È in realtà tutto il contrario di una rissa meramente turbolenta e irresponsabile. Lungi dal battersi coi randelli, si battono fin troppo di fioretto; la loro [[concepts/temptation|tentazione]] sta proprio nella finezza e perfino nella delicatezza dell'affondo. Certo vi sono moltitudini che non fanno un uso così letale dell'ironia nazionale; ma essa è tanto diffusa che perfino costoro ne soffrono; e dopo un [[motifs/time|po']] cominciai a capire un poco quel ritornello sull'amarezza del parlare, che ricorre così spesso nei [[songs|canti]] del signor Yeats e di altri poeti irlandesi. «Benché la [[concepts/hope|speranza]] ti abbandoni e l'[[motifs/love|amore]] [[motifs/decay|s'estingua]], / ardendo nei fuochi di una lingua calunniosa.» Ma non c'è nulla di sognante in quell'amarezza; il peggio è che le critiche hanno sempre un tocco lucidissimo e logico di [[concepts/truth|verità]]. Non spetta a noi fare prediche agli irlandesi sul [[concepts/forgiveness|perdono]], noi che abbiamo dato loro tanto da perdonare. Ma se qualcuno che non avesse perduto il diritto di predicare loro, se san Patrizio tornasse a predicare, troverebbe che nulla è venuto meno, per tutte quelle ere di agonia, quanto a [[concepts/faith|fede]], [[concepts/honour|onore]] ed [[concepts/endurance|sopportazione]]; ma credo che potrebbe forse dire, ciò che io non ho diritto di dire, una parola sulla [[concepts/charity|carità]]. C'è invero un senso decisivo in cui gli irlandesi sono assai poetici: quello di accordare alla poesia un riconoscimento sociale speciale e serio. Ho talora espresso la fantasia che gli uomini dell'[[topoi/golden-age|Età dell'Oro]] parlassero spontaneamente in versi; ed è davvero vero che metà del discorrere irlandese è in versi. La citazione diventa recitazione. Ma è troppo ritmico per somigliare alle nostre recitazioni teatrali. È uno dei miei ricordi più forti e più cari, e una delle ragioni più precise per cui mi sentii straordinariamente felice a Dublino. Era un paradiso di poeti, in cui chi si sentisse incline a citare un libro o due del _Paradise Lost,_ o a illustrare il proprio pensiero con l'intera ballata dell'_Ancient Mariner,_ sente che sarà compreso meglio che altrove. Ma più si osserva questa qualità così nazionale, meno la si scambierà per qualcosa di meramente irresponsabile, o persino meramente emotivo. Il modo più breve di enunciare la [[concepts/truth|verità]] è dire che la poesia fa la parte della musica. È, in ogni senso dell'espressione, una funzione sociale. Una serata poetica è naturale quanto una serata musicale; ed essendo altrettanto naturale diventa ciò che si dice artificiale. Come in certi ambienti «Suona lei?» è piuttosto «Non suona?», così questi ambienti irlandesi si stupirebbero perché un uomo non recita, anziché perché recita. Un critico ostile, e specialmente un critico irlandese, potrebbe magari dire che gli irlandesi sono poetici perché non sono sufficientemente musicali. Posso immaginare il signor Bernard [[works/shaw-(chesterton)|Shaw]] dire qualcosa del genere. Ma si potrebbe [[motifs/well|ben]] ribattere che non sono soltanto musicali perché non acconsentono a essere soltanto emotivi. È assai più vero dire che assegnano alla poesia un posto ragionevole, che non dire che permettano una qualche particolare interferenza poetica con la ragione. «Ma io, le cui virtù sono le definizioni della mente analitica», dice il signor Yeats, e chiunque abbia respirato quell'atmosfera saprà cosa intende. Nella misura in cui simili cose si allontanano dalla ragione, tendono più al rito che al tumulto. La poesia è in Irlanda ciò che l'[[Humour|umorismo]] è in [[settings/america|America]]: un'istituzione. L'inglese, che è sempre, nel bene e nel male, il dilettante, prende entrambi in modo più occasionale e perfino accidentale. Occorre sempre ricordare qui che l'antica civiltà irlandese aveva una poesia di alto ordine, che non era meramente mistica, ma piuttosto matematica. Come l'ornamento celtico, il verso celtico tendeva troppo a schemi geometrici. Se ciò era irrazionale, non lo era per eccesso di emozione. Lo si potrebbe piuttosto definire irrazionale per eccesso di ragione. L'antica gerarchia dei menestrelli, ogni grado col proprio metro complicato, suggerisce che vi fosse qualcosa di cinese in una cosa così disumanamente civile. Eppure tutta questa etichetta svanita è in qualche modo nell'aria in Irlanda; e uomini e donne vi si muovono, come ai passi di una [[motifs/dance|danza]] perduta. Così, sia che consideriamo il senso in cui gli irlandesi sono davvero litigiosi, sia il senso in cui sono davvero poetici, troviamo che entrambi ci riconducono a una condizione di chiarezza che sembra l'esatto contrario di un semplice sogno. In entrambi i casi l'Irlanda è critica, e perfino critica verso [[concepts/self|sé stessa]]. L'amarezza che ho osato deplorare non è l'amarezza irlandese contro gli inglesi; quella la darei per non solo inevitabile, ma sostanzialmente giustificabile. È l'amarezza irlandese contro gli irlandesi; le osservazioni di un onesto nazionalista su un altro onesto nazionalista. Similmente, per quanto amino la poesia, non sempre amano i poeti; e c'è abbondanza di [[forms/satire|satira]] nelle loro conversazioni in proposito. Ho detto che metà del discorrere può consistere in poesia; direi quasi che l'altra metà può consistere in [[forms/parody|parodia]]. Tutte queste cose si riducono a un eccesso di vigilanza e realismo; la massa del popolo veglia e prega, ma perfino coloro che non pregano mai non cessano mai di vegliare. Se idealizzano il [[motifs/sleep|sonno]], lo fanno come chi non dorme; si potrebbe quasi dire che sanno solo sognare di sognare. Se [[A Dream|un sogno]] li perseguita, è piuttosto come qualcosa che sfugge loro; e infatti parte della loro poesia più bella parla piuttosto del cercare il paese delle fate che del trovarlo. Ciò ammesso, posso dire che vi fu un luogo in Irlanda dove mi parve davvero di trovarlo, e non soltanto di cercarlo. Vi fu un punto in cui mi parve di vedere il sogno stesso in possesso del luogo; come si potrebbe scorgere da lontano una nube posata su un solo [[motifs/hill|colle]]. Là [[A Dream|un sogno]], insieme [[motifs/desire|desiderio]] e illusione, incombeva su un'intera [[motifs/city|città]]. Quel luogo era Belfast. La descrizione potrebbe giustificarsi anche alla lettera e nei dettagli. Un uomo mi raccontò, nell'Ulster nordorientale, di aver udito una madre allontanare i figli da uno stagno, o simile luogo di pericolo, dicendo: «Non andate là; ci sono dei piccoli papi, là». Un paese dove si può dire una cosa simile è, rispetto all'Inghilterra, come il paese degli elfi. Se non proprio una terra di fate, è quantomeno una terra di folletti. C'è qualcosa di delizioso nella fantasia di uno stagno pieno di questi elfi peculiari, come tanti tritoni, ciascuno completo della sua minuscola triplice [[motifs/crown|corona]] o delle chiavi incrociate. Questa è la differenza tra questo distretto manifatturiero e un distretto manifatturiero inglese, come quello di Manchester. A Manchester ci sono numerosi robusti anticonformisti; e senza dubbio dirigono qualcuna delle loro ammonizioni educative contro il sistema rappresentato dall'arcivescovo di Canterbury. Ma nessuno a Manchester, per quanto anticonformista, dice a un [[archetypes/child|bambino]] che una pozzanghera è una sorta di vivaio per arcivescovi di Canterbury, piccoli folletti in ghette e grembiule. Si potrà dire che è uno stagno assai stagnante quello che genera simili tritoni. Ma qualunque veduta ne prendiamo, resta vero, tanto per cominciare, che il [[concepts/paradox|paradosso]] si potrebbe dimostrare anche solo con cose superficiali come le superstizioni. L'Ulster protestante puzza di superstizione; è l'odore forte che davvero irrompe come una folata da Belfast, a differenza di Birmingham o Brixton. Ma per me c'è sempre qualcosa di umano e quasi umanizzante nella superstizione; e credo davvero che simili leggende persistenti sul Papa, essere tanto remoto e disumanizzato quanto il [[archetypes/king|Re]] delle Isole dei Cannibali, abbiano funzionato come una sorta di folclore negativo. E lo stesso si può dire, nella misura in cui è vero che la provincia commerciale ha conservato una teologia [[motifs/well|oltre]] che una mitologia. Dovunque gli uomini siano ancora teologici, c'è ancora qualche possibilità che siano logici. E in ciò l'ulsteriano calvinista può essere più irlandese cattolico di quanto comunemente si creda, specialmente da lui stesso. Attacchi e difese abbondano sulla questione del bigottismo di Belfast; ma il bigottismo non è affatto la cosa peggiore di Belfast. Anzi credo sia la migliore. Né è l'esempio più forte di ciò che intendo quando dico che Belfast vive davvero in [[A Dream|un sogno]]. L'altro, più notevole difetto di quella società ha invero una radice religiosa; poiché quasi tutto nella [[concepts/history|storia]] ha una radice religiosa, e specialmente quasi tutto nella [[concepts/history|storia]] irlandese. Di quella origine teorica nella teologia dirò qualcosa tra un momento; qui basterà dire che ciò che ha prodotto il male più evidente e pratico è, in ultima analisi, la teologia stessa, ma non l'abitudine a essere teologici. È il credo; ma non la [[concepts/faith|fede]]. Nella misura in cui il protestante dell'Ulster ha davvero una [[concepts/faith|fede]], è davvero un bravo tipo; benché forse non così bravo come si crede. E questo è l'abisso; e lo si può enunciare nel modo più breve, come spesso l'ho enunciato in simili dibattiti, dicendo che il protestante di solito dice: «Sono un buon protestante», mentre il cattolico dice sempre: «Sono un cattivo cattolico». Quando dico che Belfast è dominata da [[A Dream|un sogno]], lo intendo nel senso psicologico stretto; che qualcosa dentro la mente è più forte di tutto ciò che le sta fuori. L'assurdo non è solo più forte del senno, ma più forte dei sensi. L'idea nella testa di un uomo può eclissare gli occhi nella sua testa. Mercanti degnissimi e gentilissimi mi dissero che a Belfast non c'era [[concepts/poverty|povertà]]. Non dissero che c'era meno [[concepts/poverty|povertà]] di quanto comunemente si affermasse, o meno [[concepts/poverty|povertà]] di prima, o meno che in luoghi simili altrove. Dissero che non ce n'era affatto. Come osservazione sul Paradiso Terrestre o sulla Nuova Gerusalemme, sarebbe impressionante. Come osservazione sulle strade, per cui loro ed io eravamo entrambi passati pochi istanti prima, era semplicemente un trionfo della pura [[concepts/madness|follia]] dell'[[concepts/imagination|immaginazione]] dell'uomo. Questi eminenti cittadini di Belfast mi accolsero nel modo più gentile e cortese; e non direi volentieri nulla a loro critica al di là di ciò che è necessario per le esigenze pratiche del loro paese e del mio. Ma in verità credo che la critica più grande che si possa muover loro sia che non capirebbero cosa la critica significhi. La rivestirò dunque in una [[forms/parable|parabola]], che non è men buona per essere stata anche un fatto reale. Quando mi si disse che a Belfast non c'era [[concepts/poverty|povertà]], osservai mitemente che la gente doveva avere un gusto singolare nel vestire. Mi fu gravemente assicurato che avevano davvero un gusto singolarissimo nel vestire. Ne trassi l'impressione generale che portare camicie o pantaloni decorati di larghi buchi a intervalli irregolari fosse una forma scusabile di civetteria o di stravaganza alla moda. E sarà sempre una gioia profonda e intima, nei ricordi della mia vita, che proprio mentre questi padri della [[motifs/city|città]] ed io uscivamo sui gradini dell'albergo, comparve davanti a noi uno dei più cenciosi ragazzini cenciosi che avessi visto, a chiedere un penny. Gli diedi un penny, al che questo gruppo di mercanti si trasfigurò d'un tratto in una sorta di plebaglia, vociferando: «Contro la legge! Contro la legge!», e lo cacciarono via in fretta. [[concepts/hope|Spero]] non sia poco amabile essermi tanto divertito a quella visione di una folla di magistrati che scacciava con tanto zelo un [[archetypes/child|bambino]] solitario come un gatto. Comunque sia, non sapevano quel che facevano; e, quel che è peggio, non sapevano di non saperlo. E non capirebbero, se glielo dicessi, quale leggenda si sarebbe potuta comporre attorno a quel [[archetypes/child|bambino]], nelle [[topoi/ages-of-the-world|età cristiane del mondo]]. Il punto è qui che il male dell'illusione non consiste nel bigottismo, ma nella [[concepts/vanity|vanità]]. Non è che un tale uomo di Belfast si creda nel giusto; ché ogni uomo onesto ha il diritto di credersi nel giusto. È che si crede buono, per non dire grande; e nessun uomo onesto può giungere a quella comoda convinzione senza un percorso di disonestà intellettuale. Ciò che separa questo spirito dal buon senso cristiano è il fatto che l'illusione, come la maggior parte delle illusioni insane, è meramente egoistica. È semplicemente il piacere di pensare stravagantemente [[motifs/well|bene]] di sé; e l'illimitato abbandonarsi a quel piacere fiacca assai più di qualsiasi abbandono al bere o alla dissipazione. Ma esso costruisce così completamente un cosmo irreale attorno all'io, che la critica del mondo non può essere avvertita neppure a fini mondani. Potrei dare molti esempi di questo elemento a Belfast, anche a paragone di Birmingham o Manchester. Il [[characters/lord-mayor|sindaco]] di Manchester può darsi non s'intenda molto di quadri; ma conosce uomini che se ne intendono. Ma le autorità di Belfast esporranno un quadro maniacalmente brutto come un capolavoro, solo perché glorifica Belfast. Nessuno oserebbe appendere un quadro simile a Manchester, a un tiro di sasso dal signor Charles Rowley. M'importa relativamente poco del caso dell'estetica; ma il caso è ancor più chiaro nell'etica. Tanto interamente questa gente è divisa dalle tradizioni più cristiane, che i loro stessi vanti li abbassano; e si degradano quando intendono esaltarsi. Non viene loro mai in mente che i loro strani criteri interni non sempre impressionano gli estranei. Un grande datore di lavoro mi presentò diversi dei suoi impiegati assai intelligenti; e posso volentieri testimoniare la sincerità della grande illusione di Belfast anche fra molti degli uomini più poveri di Belfast. Ma i sinceri sforzi loro e del loro padrone, per convincermi che un'[[concepts/union|unione]] con la maggioranza cattolica sotto il [[motifs/home|Home]] Rule era per loro intollerabile, andavano tutti sulla stessa aria, che tornava come una specie di [[characters/chorus|ritornello]]: «Non lasceremo che gente come loro faccia leggi per gente come noi». Non sembrava mai [[motifs/cross|sfiorare]] loro la mente che questo non sia un alto esempio di alcuna [[morality|moralità]] umana; che, giudicato dalla _verecundia_ pagana o dall'[[concepts/humility|umiltà]] cristiana o dalla moderna fratellanza democratica, è semplicemente l'osservazione di uno snob. L'uomo in questione è del tutto [[archetypes/innocent|innocente]] di tutto ciò; non ha nozione della modestia, e nemmeno della falsa modestia; non solo è superiore, ma ritiene una superiorità rivendicare la superiorità. È qui che non possiamo evitare la teologia, perché non possiamo evitare la teoria. Poiché il punto è che perfino in teoria l'una atmosfera religiosa ora differisce dall'altra. Che la differenza abbia storicamente una radice religiosa è davvero indiscutibile; ma comunque è radicata profondissimamente. L'essenza del calvinismo era la certezza della salvezza; l'essenza del cattolicesimo è l'incertezza della salvezza. La forma moderna e materializzata di quella certezza è la superiorità; la fede di un uomo in una fissa aristocrazia morale di uomini come lui. Ma la [[concepts/truth|verità]] che qui ci riguarda è che, ormai a questo [[motifs/time|punto]] quantomeno, la superiorità è diventata una dottrina [[motifs/well|oltre]] che un vezzo. [[concepts/doubt|Dubito]] che questa scuola estrema di protestanti creda nell'[[concepts/humility|umiltà]] cristiana anche solo come ideale. [[concepts/doubt|Dubito]] che i più onesti fra loro professerebbero anche solo di crederci. Lo si può vedere chiaramente confrontandola con altre virtù cristiane; delle quali questo calvinismo decaduto offre almeno una versione, anche a chi la ritiene una perversione. Il [[historical-references/puritanism|Puritanesimo]] è una versione della purezza; anche se lo riteniamo una [[forms/parody|parodia]] della purezza. La filantropia è una versione della [[concepts/charity|carità]]; anche se la riteniamo una [[forms/parody|parodia]] della [[concepts/charity|carità]]. Ma in tutto questo protestantesimo commerciale non c'è alcuna versione dell'[[concepts/humility|umiltà]]; non c'è nemmeno una [[forms/parody|parodia]] dell'[[concepts/humility|umiltà]]. L'[[concepts/humility|Umiltà]] non è un ideale. L'[[concepts/humility|Umiltà]] non è nemmeno un'ipocrisia. Non c'è istituzione, né comandamento, né formula comune di parole, né modello popolare o racconto tradizionale, che dica ad alcuno, in qualsivoglia modo, che esista una cosa come il pericolo dell'[[concepts/pride|orgoglio]] spirituale. In breve, c'è qui una scuola di pensiero e di sentimento che considera decisamente la soddisfazione di [[concepts/self|sé]] una forza; contro la forte tradizione cristiana del resto del paese, che altrettanto decisamente la considera una debolezza. Questo è il vero nodo morale nella lotta moderna in Irlanda; né è confinato all'Irlanda. L'Inghilterra è stata profondamente contagiata da questa debolezza farisaica; ma, come ho detto, l'Inghilterra prende le cose vagamente là dove l'Irlanda le prende vividamente. Gli uomini di Belfast offrono quella [[motifs/city|città]] come qualcosa di supremo, unico e senza rivali; e hanno quasi ragione. Non c'è nulla di esattamente simile nell'industrialismo di questo paese; ma nondimeno, la lotta contro la sua religione dell'arroganza è stata combattuta fino in fondo altrove e su un campo più vasto. C'è un altro centro e cittadella da cui questa teoria, della forza in una superiorità [[concepts/self|auto]]ipnotica, ha disprezzato la cristianità. C'è stata una [[motifs/city|città]] rivale di Belfast; e il suo nome era Berlino. Storici di tutte le religioni e di nessuna religione potranno un giorno considerare un fatto storico, immagino, che la [[historical-references/reformation|Riforma]] protestante del Cinquecento (almeno nella forma che effettivamente assunse) fu un crollo barbarico, come quel prussianesimo che fu il prodotto ultimo del protestantesimo. Ma comunque sia, gli storici avranno sempre interesse a notare che esso produsse certe cose curiose e caratteristiche; che val la pena studiare, che ci piacciano o no. E uno dei suoi tratti, immagino, è stato questo: che ha avuto il potere di produrre certe istituzioni le quali progredirono assai rapidamente verso grande ricchezza e potere; che il mondo in un certo momento reputò invincibili; e che il mondo, l'attimo dopo, scoprì d'un tratto intollerabili. Così fu di tutta quella teologia calvinista, di cui Belfast resta ora il solitario missionario. Così fu, perfino ai nostri [[motifs/time|giorni]], di tutto quel capitalismo industriale di cui Belfast è ora l'avamposto assediato e quasi deserto. E così fu di Berlino come di Belfast; e un sottile prussiano potrebbe quasi lamentare una sorta di tradimento, nella bruschezza con cui il mondo si destò e la trovò mancante; nella subitaneità della reazione che la colpì impotente, così poco dopo che era stata reputata onnipotente. Queste cose sembrano racchiudere tutto l'avvenire; e in un lampo sono cose del passato. Belfast è una novità antiquata. Una cosa simile viene ancora scusata per il suo apparire _parvenu_ quando la si scopre _passé._ Per esempio, è solo venendo a contatto con alcune delle controversie attorno alla Convention che un inglese potrebbe rendersi conto di quanto la mentalità del capo di Belfast sia non tanto quella di un remoto Whig del Seicento, quanto quella di un recente Radicale dell'Ottocento. Il suo conformismo pareva quello di un vittoriano più che di un guglielmita; e pareva meno circoscritto dalla Confraternita Orangista che dal Cobden Club. È un fatto assai efficacemente ricoperto e imbrattato dai grossi pennelli del nostro Sistema dei Partiti, che ha l'arte di nascondere tanti fatti lampanti. Questo Partito Unionista in Irlanda è in larghissima parte inteso a resistere alla principale [[concepts/reform|riforma]] propugnata dal Partito Unionista in Inghilterra. Un umorista politico, che comprendesse la tradizione cobdeniana di Belfast e la tradizione chamberlainiana di Birmingham, potrebbe divertirsi immensamente appellandosi dall'una all'altra; congratulandosi con Belfast per le audaci dottrine protezioniste prevalenti in Irlanda; scongiurando il signor Bonar Law e i riformatori delle tariffe di non dimenticare mai la battaglia condotta da Belfast per i sacri principii del Libero Scambio. Ma il fatto che la scuola di Belfast sia semplicemente la scuola di Manchester è solo un aspetto di questa [[concepts/truth|verità]] generale sul brusco crollo nell'antichità; un'improvvisa messa in pensione. L'intera marcia di quell'industrialismo di Manchester non è solo arrestata ma rovesciata; l'intera posizione è aggirata da nuove forze che giungono da nuove direzioni; la ricchezza dei contadini le blocca la [[motifs/road|strada]] davanti; lo sciopero generale s'è levato a minacciarle le spalle. Quella strana nube di [[concepts/vanity|vanità]] che protegge [[concepts/self|sé stessa]] può ancora permettere a Belfast di credere in Belfast, ma la Gran Bretagna non crede davvero in Belfast. Forze filosofiche assai più ampie e profonde della politica hanno minato la concezione di un protestantesimo progressista in Irlanda. Direi io stesso che la mera ascendenza inglese in quell'isola divenne intellettualmente impossibile il giorno in cui Shaftesbury introdusse il primo Factory Act, e il giorno in cui Newman pubblicò le prime pagine dell'_Apologia._ Entrambi erano certamente Tory e probabilmente unionisti. Nessuno dei due era legato all'argomento né l'uno all'altro; l'uno odiava il Papa e l'altro il Liberatore. Ma l'industrialismo non fu mai più [[concepts/self|auto]]evidentemente superiore dopo il primo evento, né il protestantesimo [[concepts/self|auto]]evidentemente superiore dopo l'altro. E occorreva una superiorità torreggiante e [[concepts/self|auto]]evidente per scusare il dominio inglese in Irlanda. È solo sul terreno del fare indiscutibilmente il bene che gli uomini possono fare tanto male quanto quello. Alcuni orangisti prima della guerra si concedettero un bel paragone retorico tra Guglielmo di Prussia e Guglielmo d'Orange; e apertamente suggerirono che il nuovo Liberatore protestante del nord sarebbe venuto dalla [[settings/germany|Germania]] settentrionale. I miei ospiti più moderati a Belfast mi assicurarono che tali orangisti non potevano considerarsi rappresentativi né tantomeno responsabili. Su ciò non posso pronunciarmi. Gli orangisti potevano non essere rappresentativi; potevano non essere responsabili; ma sono ben certo che avevano ragione. Sono ben certo che quei poveri fanatici erano assai più vicini al nervo della [[concepts/truth|verità]] storica che non politicanti di professione come Sir Edward Carson o capitalisti industriali come Sir George Clark. Se mai vi fu al mondo un'alleanza naturale, sarebbe stata l'alleanza tra Belfast e Berlino. I fanatici saranno pure sciocchi, ma hanno qui la luce per cui le cose stolte possono confondere i sapienti. È il punto più luminoso di Belfast, il bigottismo, poiché se la luce nel suo [[concepts/body|corpo]] è tenebra, è pur sempre più luminosa della tenebra. Per quella visione che accompagna ovunque la virilità e la [[concepts/greatness|grandezza]] della religione, questi uomini hanno davvero penetrato il segreto protestante e il significato di quattrocento anni. Il loro protestantesimo è prussianesimo, non come termine ingiurioso, ma come termine di astratta e imparziale scienza etica. Belfast e Berlino stanno dalla stessa parte nella più profonda di tutte le questioni spirituali implicate nella guerra. E questa è la semplice questione se l'[[concepts/pride|orgoglio]] sia un peccato, e dunque una debolezza. La mentalità moderna, o gran parte di essa, ha seriamente sostenuto l'idea che sia una debolezza disarmare la critica con l'[[concepts/self|auto]]critica, e una forza sdegnare la critica per mezzo della [[concepts/self|fiducia in sé]]. Questa è la tesi per cui Berlino diede battaglia alla civiltà più antica in Europa; e quella per cui Belfast diede battaglia alla civiltà più antica in Irlanda. Può darsi, come ho suggerito, che tale [[concepts/pride|orgoglio]] protestante sia il vecchio calvinismo, con la sua fissa elezione dei pochi. Può darsi che il protestantesimo sia semplicemente paganesimo, coi suoi dèi bestiali e i giganti attardati negli angoli del nord più selvaggio. Può darsi che il calvinismo fosse esso stesso un riaffiorare del paganesimo. Ma in ogni caso, sono certo che questa superiorità, che può dominare gli uomini come un [[nightmare|incubo]], può anche svanire come un [[nightmare|incubo]]. E sospetto fortemente che anche in questa materia, come nella materia della proprietà vista da un popolo di contadini, la civiltà più antica si rivelerà la vera civiltà; e che una società più sana tornerà a considerare l'[[concepts/pride|orgoglio]] una pestilenza, come i socialisti sono già tornati a considerare l'avarizia una pestilenza. L'antica tradizione della cristianità voleva che la forma più alta di [[concepts/faith|fede]] fosse un [[concepts/doubt|dubbio]]. Era il [[concepts/doubt|dubbio]] di un uomo sulla propria [[motifs/soul|anima]]. Me lo espresse mirabilmente il signor Yeats, ora campione dell'ortodossia cattolica, nel dichiarare la sua preferenza per il cattolicesimo medievale a paragone del moderno [[Humanitarianism|umanitarismo]]: «Gli uomini pensavano allora ai propri peccati, e ora pensano sempre a quelli altrui». E perfino secondo il criterio protestante del progresso, l'[[concepts/pride|orgoglio]] si rivela arrestato da una paralisi prematura. Il progresso è superiorità su sé stessi; ed è fermato di netto dalla superiorità sugli altri. Il caso è ancor più chiaro alla prova della poesia, che è assai più solida e permanente del progresso. Il Superuomo sarà stato una sorta di poema; ma non poté mai essere una sorta di poeta. Più tentiamo di analizzare quello strano elemento della [[concepts/wonder|meraviglia]], che è l'[[motifs/soul|anima]] di tutte le arti, più vedremo che esso deve dipendere da una certa subordinazione dell'[[concepts/self|io]] a una gloria che esiste al di là di esso, e perfino a suo dispetto. L'uomo si sente sempre creatura quando agisce da creatore. Quando scolpisce una [[settings/cathedral|cattedrale]] è per fare un [[archetypes/monster|mostro]] capace di [[motifs/swallow|inghiottirlo]]. Ma l'[[nightmare|incubo]] nietzschiano di inghiottire il mondo non è che una specie di sbadiglio. Quando l'anarca evoluzionista ha spezzato tutti i legami e le leggi ed è finalmente libero di parlare, scopre di non aver nulla da dire. Così i [[songs|canti]] tedeschi sotto l'aquila imperiale ammutolirono come uccelli canori sotto uno sparviero; ed è solo di rado, qua e là, che un mercante di Belfast libera la propria [[motifs/soul|anima]] in una [[forms/lyric|lirica]]. Deve farsi scrivere dal signor Kipling una poesia su Belfast, in uno stile tecnicamente intonato ai quadri di Belfast. Ecco la vera Tara dell'arpa silenziosa, e il trono e la dimora del sogno; ed è là che i pessimisti celtici dovrebbero piangere in [[motifs/silence|silenzio]] la fine del [[Song|canto]]. Suonare la propria tromba non s'è rivelato una buona [[concepts/education|educazione]] musicale. In [[logic|logica]] un uomo saggio metterà sempre il carro davanti al [[motifs/horse|cavallo]]. Vale a dire, metterà sempre il fine davanti ai mezzi; quando considera la questione nel suo insieme. Non costruisce un carro allo scopo di far esercitare un [[motifs/horse|cavallo]]. Impiega un [[motifs/horse|cavallo]] per tirare un carro, e qualunque cosa vi sia nel carro. In tutto il ragionare moderno c'è la tendenza a rendere la mera bestia da soma politica più importante del cocchio dell'uomo che essa deve trainare. Ciò ha portato a liquidare tutte queste questioni spirituali in favore di ciò che si chiamano questioni sociali; e questo a un trattamento troppo facile di cose come la questione religiosa a Belfast. C'è una questione religiosa; e non avrà una risposta irreligiosa. Non le si farà fronte con la limitazione della [[concepts/faith|fede]] cristiana, ma piuttosto con l'estensione della [[concepts/charity|carità]] cristiana. Ma se un uomo dice che non c'è differenza tra un protestante e un cattolico, e che entrambi possono agire in modo identico dovunque tranne che in una chiesa o cappella, sta guidando follemente il [[motifs/horse|cavallo]] da tiro avendo dimenticato il carro. Una religione non è la chiesa in cui un uomo va, ma il cosmo in cui vive; e se qualche scettico lo dimentica, il più forsennato fanatico che batte un tamburo orangista sulla Battaglia del Boyne è un filosofo migliore di lui. Molte persone incolte e alcune colte a Belfast credono, in tutta sincerità, che i preti romani siano demoni, in attesa solo di riaccendere i fuochi dell'[[historical-references/inquisition|Inquisizione]]. Per due semplici ragioni, tuttavia, mi rifiutai di prendere questo fatto come prova di alcunché, se non della loro sincerità. Primo, perché le storie, ridotte al loro rudimento di [[concepts/truth|verità]], si risolvevano in genere nell'[[forms/riddle|enigma]] di poveri cattolici romani che davano denaro alla propria religione; e parevano deplorare non tanto una dipendenza dai preti quanto un'indipendenza dai datori di lavoro. E secondo, per una ragione tratta dalla mia esperienza, [[motifs/well|oltre]] che dal sapere comune, riguardo alla gentry protestante del sud dell'Irlanda. Gli unionisti del sud parlavano del tutto privi di questo speciale orrore verso i preti o i contadini cattolici. Brontolavano contro di loro o ne ridevano come un uomo brontola o ride dei propri vicini; ma evidentemente non sognavano che il prete li bruciasse più di quanto sognassero che li mangiasse. Se i preti fossero neri come li dipingevano i neri protestanti, sarebbero al loro peggio là dove sono in maggioranza; e sarebbero conosciuti al loro peggio dalla minoranza. Era chiaro che Belfast serbava la tradizione più bigotta, non perché conoscesse di più i preti, ma perché ne conosceva di meno; non perché fosse sul posto, ma perché il posto le era precluso. Un'illusione ancor più generale era l'idea che tutti gli irlandesi del sud sognassero e non lavorassero. Feci notare che anche questo era incoerente con l'esperienza concreta; giacché in tutto il mondo chi fa rendere una piccola fattoria deve lavorare davvero durissimo. In realtà storica, la vecchia nozione che il contadino irlandese non lavorasse, ma solo sognasse, aveva una spiegazione semplice. Significava soltanto che non lavorava per il profitto di un capitalista; ma sognava di lavorare un giorno per il proprio profitto. Ma nella tradizione può esserci stata anche questa [[concepts/truth|verità]] distorta; che un contadino libero, mentre estende il proprio lavoro, si crea le proprie feste. Non è ozioso tutto il giorno, ma può essere ozioso in qualunque [[motifs/time|momento]] del giorno; non sogna ogni volta che ne ha voglia, ma sogna ogni volta che lo decide. Un famoso industriale di Belfast, uomo di capacità, ma che scuoteva il capo davanti all'inspiegabile prevalenza dei preti, mi assicurò di aver visto contadini nel sud non far nulla, alle ore più disparate; e questa è senza dubbio la differenza tra la fattoria e la fabbrica. Lo stesso signore mi fece visitare il colossale naviglio del grande porto, con tutti i macchinari e i trasporti che vi conducevano. Nessun uomo dotato di [[concepts/imagination|immaginazione]] resterebbe insensibile a simili esperimenti [[titanic|titanici]] della propria razza; o negherebbe la cupa poesia di quelle fornaci degne di Vulcano o di quei magli degni di Thor. Ma mentre stavo sulla banchina dissi alla mia guida: «Vi siete mai chiesto a che serva tutto questo?» Era un uomo intelligente, un [[concepts/exile|esule]] dalla metafisica Scozia, e capì cosa intendevo. «Non lo so», disse, «forse siamo solo [[motifs/insects|insetti]] che costruiscono una barriera corallina. Non so a che serva la barriera corallina.» «Forse», dissi, «è di questo che il contadino [[motifs/dreams|sogna]], ed è per questo che ascolta il prete.» Poiché sembra esserci una fallacia alla moda secondo cui l'uguaglianza religiosa è qualcosa da sbrigare e liquidare, per poter passare alla vera faccenda dell'uguaglianza politica. In [[philosophy|filosofia]] è vero l'esatto contrario. L'uguaglianza politica è qualcosa da sbrigare e liquidare, per poter passare alla ben più reale faccenda della religione. All'Abbey Theatre vidi un vigoroso dramma del signor St. John Ervine, intitolato _The Mixed [[motifs/marriage|Marriage]];_ che ricorderei se non altro per la bella interpretazione della signorina Maire O'Neill. Ma il dramma mi commosse moltissimo come dramma; eppure sentii che la presenza di questa fallacia lo falsificava in qualche misura. Il drammaturgo pareva risentirsi di uno scisma solo perché interferiva con uno sciopero. Ma l'unico scopo dello scioperare è la libertà; e l'unico scopo della libertà è la vita: cosa interamente spirituale. È la libertà economica che andrebbe liquidata come questa gente liquida la teologia. La otteniamo solo per dimenticarla. È giusto che gli uomini abbiano case, giusto che abbiano terra, giusto che abbiano leggi a protezione della terra; ma tutte queste cose sono solo macchinari per procurare ozio all'[[motifs/soul|anima]] che lavora. La [[house|casa]] è solo un palcoscenico allestito dai macchinisti per la recita di ciò che il signor J. B. Yeats ha chiamato «il dramma del [[motifs/home|focolare]]». Tutte le cose più drammatiche accadono in [[motifs/home|casa]], dal nascere al morire. Ciò che un uomo pensa di queste cose è la sua vita; e sostituirvi un affaccendarsi di campagne elettorali e legislazione è aggirarsi tra quinte e carrucole sul lato sbagliato di scenari di cartone; e non recitare mai il dramma. E quel dramma è sempre una sacra rappresentazione; e il nome del suo [[archetypes/hero|eroe]] è Everyman. Quando tornai dallo splendore desolato del mare e della costa del Donegal, e rividi il [[motifs/garden|giardino]] quadrato e la statua fuori dall'albergo di Dublino, non sapevo di tornare a qualcosa che si sarebbe [[motifs/well|ben]] potuto dire ancor più desolato. Poiché fu quando entrai nell'albergo che per la prima volta scoprii che era colmo dell'orribile [[forms/tragedy|tragedia]] del _Leinster._ Avevo visto spesso la [[motifs/death|morte]] in una [[motifs/home|casa]], ma mai la [[motifs/death|morte]] che decimava una vasta locanda; e c'era qualcosa di stranamente sconvolgente nei posti vuoti di uomini e donne con cui avevo chiacchierato tanto oziosamente pochi giorni prima. Era quasi come se vi fosse più [[forms/tragedy|tragedia]] nel troncare di simili chiacchiere insignificanti che nel recidere legami di una vita intera. Ma c'era tutta la dignità [[motifs/well|oltre]] che la [[forms/tragedy|tragedia]] dell'uomo; e fui lieto, prima di lasciare l'Irlanda, di aver visto il lato più nobile della guarnigione anglo-irlandese; e di aver conosciuto uomini del mio stesso [[motifs/blood|sangue]], per quanto in errore, sopportare così la fine delle cose. Con le cattive notizie dal mare giunsero notizie migliori dalla guerra; Mangin aveva sferrato il colpo clamoroso che tagliò fuori i tedeschi mentre marciavano su Châlons; e con tutte le emozioni di un [[concepts/exile|esule]], per quanto temporaneo, seppi che la mia terra era al sicuro. In qualche modo, le cattive e le buone notizie insieme volsero la mia mente sempre più verso l'Inghilterra; e verso tutto l'[[Humour|umorismo]] intimo e la geniale bonarietà insulare che perfino agli irlandesi un giorno sarà forse concesso di comprendere. Mentre volgevo verso casa sul primo battello che partì dal porto irlandese, e le colline di Wicklow arretravano in una luce piovosa e spezzata, era con i più semplici di quegli antichi appetiti con cui un uomo dovrebbe tornare al proprio paese. Solo che mi si aggrappava, innegabile, un sentimento riguardo all'Irlanda, un sentimento che non potevo trasferire all'Inghilterra; che mi chiamava come un paese degli elfi di tante figure liete, da [[characters/puck|Puck]] a [[works/pickwick-(chesterton)|Pickwick]]. Guardando quelle colline piovose, sapevo almeno che stavo guardando, forse per l'ultima [[motifs/time|volta]], qualcosa di radicato nella [[concepts/faith|fede]] cristiana. Là almeno l'ideale cristiano era qualcosa di più di un ideale; era, in un senso speciale, reale. Era tanto reale da comparire perfino nelle statistiche. Era tanto [[concepts/self|auto]]evidente da essere visto perfino dai sociologi. Era una terra dove la nostra religione aveva reso visibile perfino la propria visione. Aveva reso popolari perfino le proprie virtù impopolari. Dovrà essere, nei tempi a venire, un banco di prova ultimo, per stabilire se un popolo che prenderà quel nome sul serio, e perfino solidamente, sia destinato a soffrire o a riuscire. Mentre la lunga linea della costa montuosa si dispiegava davanti a me ebbi un'illusione ottica; può darsi che molti l'abbiano avuta prima. Man mano che nuovi tratti di costa e linee di alture si dispiegavano, ebbi la fantasia che l'intera terra non arretrasse ma avanzasse, come qualcosa che spalanca le braccia al mondo. Un casuale brandello di sole si posava, come uno stendardo lacerato, sul [[motifs/hill|colle]] che credo si chiami in irlandese la Montagna delle Lance d'Oro; e avrei potuto immaginare che le lance e lo stendardo stessero avanzando. E in quel lampo ricordai che gli uomini di quest'isola erano un tempo usciti, non come torce di conquistatori o distruttori; ma come missionari nella piena mezzanotte dei Secoli Bui, come una moltitudine di candele in cammino, che furono la luce del mondo. Fine
 
 
 
@@ -2343,7 +2343,7 @@ and the wreaths were living and growing, and the stone was dead.
 Something in the simple substances and elemental colours,
 in the white sunlight, and the sombre and even secret image,
 held the mind for a moment in the midst of all the moving [[motifs/city|city]],
-like a sign given in a dream. I was told that the figure was
+like a sign given in [[A Dream|a dream]]. I was told that the figure was
 that of one of the first Georges; but indeed I seemed to know
 already that it was the White [[motifs/horse|Horse]] of Hanover that had thus
 grown gray with Irish weather or green with Irish foliage.
@@ -2406,8 +2406,8 @@ and many decidedly contradictory things in Ireland, the [[forms/allegory|allegor
 of those two stone images in that public [[motifs/garden|garden]] has remained
 in my [[motifs/memory|memory]], and has not been reversed. The Glorious Revolution,
 the great Protestant Deliverer, the Hanoverian Succession,
-these things were the very pageant and apotheosis of success.
-The Whig aristocrat was not merely victorious; it was as a victor
+these things were the very pageant and apotheosis of [[success]].
+The Whig [[aristocrat]] was not merely victorious; it was as a victor
 that he asked for victory. The thing was fully expressed in all
 the florid and insolent statuary of the period, in all those tumid
 horsemen in Roman uniform and Rococo periwigs shown as prancing
@@ -2436,7 +2436,7 @@ And yet I had not left the same small enclosure till I had seen
 one other sight which was even more symbolic than the [[motifs/flowers|flowers]] near
 the foot of the poet's pedestal. A few yards beyond the Mangan bust
 was a model plot of vegetables, like a kitchen [[motifs/garden|garden]] with no kitchen
-or house attached to it, planted out in a patchwork of potatoes,
+or [[house]] attached to it, planted out in a patchwork of potatoes,
 cabbages, and turnips, to prove how much could be done with an acre.
 And I realised as in a vision that all over the new Ireland that patch
 is repeated like a pattern; and where there is a real kitchen [[motifs/garden|garden]]
@@ -2551,7 +2551,7 @@ e le corone erano vive e crescevano, e la pietra era morta.
 Qualcosa nelle semplici sostanze e nei colori elementari,
 nella bianca luce del sole, e nell'immagine cupa e persino segreta,
 tenne la mente per un istante in mezzo a tutta la [[motifs/city|città]] in movimento,
-come un segno dato in sogno. Mi fu detto che la figura era
+come un segno dato in [[A Dream|sogno]]. Mi fu detto che la figura era
 quella di uno dei primi Giorgi; ma in verità mi pareva di sapere
 già che era il Bianco [[motifs/horse|Cavallo]] di Hannover a essersi così
 fatto grigio col tempo irlandese o verde col fogliame irlandese.
@@ -2614,8 +2614,8 @@ e molte decisamente contraddittorie, l'[[forms/allegory|allegoria]]
 di quelle due immagini di pietra in quel [[motifs/garden|giardino]] pubblico è rimasta
 nella mia [[motifs/memory|memoria]], e non si è capovolta. La Gloriosa Rivoluzione,
 il grande Liberatore protestante, la Successione hannoveriana,
-queste cose erano il vero fasto e l'apoteosi del successo.
-L'aristocratico whig non era semplicemente vittorioso; era come vincitore
+queste cose erano il vero fasto e l'apoteosi del [[success|successo]].
+L'[[aristocrat|aristocratico]] whig non era semplicemente vittorioso; era come vincitore
 che chiedeva la vittoria. La cosa era pienamente espressa in tutta
 la statuaria florida e insolente dell'epoca, in tutti quei tumidi
 cavalieri in uniforme romana e parrucche rococò raffigurati mentre s'impennano
@@ -2644,7 +2644,7 @@ Eppure non avevo lasciato il medesimo piccolo recinto senza aver visto
 un altro spettacolo ancora più simbolico dei [[motifs/flowers|fiori]] presso
 il piede del piedistallo del poeta. A pochi metri oltre il busto di Mangan
 c'era un appezzamento modello di ortaggi, come un [[motifs/garden|orto]] senza cucina
-o casa annessa, piantato in un mosaico di patate,
+o [[house|casa]] annessa, piantato in un mosaico di patate,
 cavoli e rape, per dimostrare quanto si potesse fare con un acro.
 E mi resi conto come in una visione che in tutta la nuova Irlanda quell'appezzamento
 si ripete come un motivo; e dove c'è un vero [[motifs/garden|orto]]
@@ -2720,7 +2720,7 @@ on a particular subject, let us say [[settings/america|America]]; if he has a da
 to do it in, it is possible that, in the last afterglow of sunset,
 he may have discovered at least one thing which he himself really
 thinks about [[settings/america|America]]. It is conceivable that somewhere under
-the evening star he may have a new idea, even about the new world.
+the [[Evening Star|evening star]] he may have a new idea, even about the new world.
 If he has only half an hour in which to write, he will just have
 [[motifs/time|time]] to consult an encyclopaedia and vaguely remember the latest
 leading articles. The encyclopaedia will be only about a decade
@@ -2767,7 +2767,7 @@ which they could feel considerable sympathy, and opportunities
 of which they might take considerable advantage, if only they would
 really look at the place plain and straight, as they would at some
 entirely new island, with an entirely new name, discovered by that
-seafaring adventure which is the real romance of England. In short,
+seafaring adventure which is the real [[Romance|romance]] of England. In short,
 he might do something with it, if he would only treat it as an object
 in front of him, and not as a subject or story left behind him.
 There will be occasion later to say all that should be said
@@ -2822,7 +2822,7 @@ difference would make division dangerous; it has already made
 [[concepts/union|union]] impossible. Now in turning over these notes of so brief a visit,
 [[concepts/suffering|suffering]] from all the stale scurry of my journalistic trade,
 I have been in [[concepts/doubt|doubt]] between a chronological and a logical order
-of events. But I have decided in favour of logic, of the high
+of events. But I have decided in favour of [[logic]], of the high
 light that really revealed the picture, and by which I firmly
 believe that everything else should be seen. And if any one were
 to ask me what was the sight that struck me most in Ireland,
@@ -2893,7 +2893,7 @@ what was orderly and organised was belated and broken down.
 For it must be sharply realised that the peasant proprietors
 succeeded here, not only because they were really proprietors,
 but because they were only peasants. It was _because_ they were on
-a small scale that they were a great success. It was because they were
+a small scale that they were a great [[success]]. It was because they were
 too poor to have servants that they grew rich in spite of strikers.
 It was, so far as it went, the flattest possible contradiction to
 all that is said in England, both by Collectivists and Capitalists,
@@ -2903,7 +2903,7 @@ but through being organised. On the left side of the [[motifs/road|road]] the bi
 [[motifs/machine|machine]] had stopped working, _because_ it was a big [[motifs/machine|machine]].
 The small men were still working, because they were not machines.
 Such were the strange relations of the two things, that the [[motifs/stars|stars]]
-in their courses fought against Capitalism; that the very clouds rolling
+in their courses fought against Capitalism; that the very clouds [[rolling]]
 over that rocky valley warred for its pigmies against its giants.
 The rain falls alike on the just and the unjust; yet here it had not
 fallen alike on the rich and poor, It had fallen to the destruction
@@ -3022,7 +3022,7 @@ conducted by Mr. George Russell, the celebrated "A. E.," and it was told
 me eagerly by the poet himself, by a learned and brilliant Jesuit,
 and by several other people, as the great news from Europe.
 It was simply the news that the Jewish Socialists of the
-Bolshevist Government had been attempting to confiscate the peasants'
+Bolshevist [[government|Government]] had been attempting to confiscate the peasants'
 savings in the co-operative banks; and had been forced to desist.
 And they spoke of it as of a great battle won on the Danube or the Rhine.
 That is what I mean when I say that these people are of a pattern and
@@ -3035,8 +3035,8 @@ or how far merely a panic of Capitalism. But I know that if any
 honest resistance has to be offered to mere robbery, the resistance
 of Ireland will be the most honest, and probably the most important.
 It may be that international Israel will launch against us out of
-the East an insane simplification of the unity of Man, as [[historical-references/islam|Islam]] once
-launched out of the East an insane simplification of the unity of God.
+the East an insane simplification of the [[unity]] of Man, as [[historical-references/islam|Islam]] once
+launched out of the East an insane simplification of the [[unity]] of God.
 If it be so, it is where property is [[motifs/well|well]] distributed that it
 will be [[motifs/well|well]] defended. The post of [[concepts/honour|honour]] will be with those
 who fight in very [[concepts/truth|truth]] for their own land. If ever there came
@@ -3111,7 +3111,7 @@ And the British combination, precisely because it is a combination
 and not a community, is in its [[concepts/nature|nature]] more lax and liable to real schism
 than this sort of community, which might almost be called a communion.
 Any attack on it is like an attempt to abolish grass; which is not
-only the symbol of it in the old national song, but it is a very true
+only the symbol of it in the old national [[Song|song]], but it is a very true
 symbol of it in any new philosophic [[concepts/history|history]]; a symbol of its equality,
 its ubiquity, its multiplicity, and its mighty power to return.
 To fight against grass is to fight against God; we can only so mismanage
@@ -3130,7 +3130,7 @@ Ciò che è fatto in fretta è condannato a diventare trito. Si supponga che un
 uomo debba scrivere su un dato argomento, poniamo l'[[settings/america|America]]; se ha una
 giornata intera per farlo, è possibile che, negli ultimi bagliori del tramonto,
 egli abbia scoperto almeno una cosa che davvero pensa lui stesso sull'[[settings/america|America]].
-È immaginabile che, in qualche luogo sotto la stella della sera,
+È immaginabile che, in qualche luogo sotto la [[Evening Star|stella della sera]],
 gli venga un'idea nuova, magari perfino sul nuovo mondo. Se ha soltanto mezz'ora
 per scrivere, avrà appena il [[motifs/time|tempo]] di consultare un'enciclopedia e di
 ricordare vagamente gli ultimi articoli di fondo. L'enciclopedia sarà superata
@@ -3176,7 +3176,7 @@ situazione di grande interesse, oggetti verso i quali potrebbero provare notevol
 simpatia, e occasioni di cui potrebbero trarre considerevole vantaggio, se solo
 guardassero quel luogo in modo semplice e diretto, come guarderebbero un'isola
 del tutto nuova, con un nome del tutto nuovo, scoperta da quell'avventura
-marinaresca che è il vero romanzo dell'Inghilterra. In breve, potrebbe
+marinaresca che è il vero [[Romance|romanzo]] dell'Inghilterra. In breve, potrebbe
 farne qualcosa, se solo la trattasse come un oggetto posto davanti a sé, e non
 come un tema o una storia lasciata dietro di sé.
 Vi sarà occasione più avanti di dire tutto ciò che va detto sulla necessità di
@@ -3229,7 +3229,7 @@ differenza fondamentale renderebbe pericolosa la divisione; essa ha già reso
 impossibile l'[[concepts/union|unione]]. Ora, riordinando questi appunti di una visita
 tanto breve, [[concepts/suffering|soffrendo]] di tutta la stantìa fretta del mio mestiere
 giornalistico, sono stato in [[concepts/doubt|dubbio]] tra un ordine cronologico e uno
-logico degli eventi. Ma ho deciso a favore della logica, dell'alta luce
+logico degli eventi. Ma ho deciso a favore della [[logic|logica]], dell'alta luce
 che davvero rivelava il quadro, e alla quale credo fermamente si debba guardare
 ogni altra cosa. E se qualcuno mi chiedesse quale sia stata la vista che più mi
 colpì in Irlanda, tanto per stranezza quanto per significato, saprei che cosa
@@ -3296,7 +3296,7 @@ relativamente lindo e puntuale; ciò che era ordinato e organizzato era tardivo 
 sfasciato. Poiché bisogna comprendere con nettezza che i proprietari contadini
 riuscirono qui non solo perché erano realmente proprietari, ma perché erano
 soltanto contadini. Fu _perché_ operavano su piccola scala che ottennero un
-grande successo. Fu perché erano troppo poveri per avere servitori che
+grande [[success|successo]]. Fu perché erano troppo poveri per avere servitori che
 si arricchirono a dispetto degli scioperanti. Era, per quanto valeva, la più netta
 smentita possibile di tutto ciò che si dice in Inghilterra, tanto dai Collettivisti
 quanto dai Capitalisti, sull'efficienza della grande organizzazione. Poiché, nella
@@ -3306,7 +3306,7 @@ grande [[motifs/machine|macchina]] aveva cessato di funzionare, _perché_ era un
 [[motifs/machine|macchina]]. I piccoli uomini lavoravano ancora, perché non erano
 macchine. Tali erano le strane relazioni tra le due cose, che le [[motifs/stars|stelle]]
 nei loro corsi combattevano contro il Capitalismo; che le nubi stesse,
-rotolando su quella valle rocciosa, guerreggiavano per i suoi pigmei
+[[rolling|rotolando]] su quella valle rocciosa, guerreggiavano per i suoi pigmei
 contro i suoi giganti. La pioggia cade ugualmente sui giusti e sugli ingiusti;
 eppure qui non era caduta ugualmente sui ricchi e sui poveri: era caduta a rovina
 dei ricchi.
@@ -3407,7 +3407,7 @@ lo sapesse, non saprebbe che cosa significasse. Era apparsa nel piccolo giornale
 prodotti contadini, condotto con tanto successo dal signor George Russell, il celebre
 «A. E.», e mi fu riferita con ardore dal poeta stesso, da un dotto e brillante gesuita, e
 da parecchie altre persone, come la grande notizia dall'Europa. Era semplicemente la
-notizia che i Socialisti ebrei del Governo bolscevico avevano tentato di
+notizia che i Socialisti ebrei del [[government|Governo]] bolscevico avevano tentato di
 confiscare i risparmi dei contadini nelle banche cooperative; ed erano stati costretti a
 desistere. E ne parlavano come di una grande battaglia vinta sul Danubio o sul Reno.
 Questo è ciò che intendo quando dico che questa gente è di un medesimo stampo e appartiene
@@ -3419,8 +3419,8 @@ una minaccia di Bolscevismo, o fino a che punto soltanto un panico di Capitalism
 che, se una qualche onesta resistenza dovrà essere opposta alla pura rapina, la resistenza
 dell'Irlanda sarà la più onesta, e probabilmente la più importante. Può darsi che l'Israele
 internazionale scagli contro di noi, dall'Oriente, una folle semplificazione
-dell'unità dell'Uomo, come un tempo l'[[historical-references/islam|Islam]] scagliò dall'Oriente una folle
-semplificazione dell'unità di Dio. Se così sarà, è là dove la proprietà è
+dell'[[unity|unità]] dell'Uomo, come un tempo l'[[historical-references/islam|Islam]] scagliò dall'Oriente una folle
+semplificazione dell'[[unity|unità]] di Dio. Se così sarà, è là dove la proprietà è
 [[motifs/well|ben]] distribuita che essa sarà [[motifs/well|ben]] difesa. Il posto d'[[concepts/honour|onore]]
 spetterà a coloro che combattono in tutta [[concepts/truth|verità]] per la propria terra. Se mai
 venisse contro di noi una tale carica di dervisci selvaggi, sarebbero i carri e gli
@@ -3481,7 +3481,7 @@ contadini liberi. E la combinazione britannica, proprio perché è una combinazi
 una comunità, è per sua [[concepts/nature|natura]] più fiacca e soggetta a un vero scisma di quanto
 non lo sia questa sorta di comunità, che si potrebbe quasi chiamare una comunione. Ogni
 attacco contro di essa è come un tentativo di abolire l'erba; la quale non solo ne è il
-simbolo nella vecchia canzone nazionale, ma ne è un simbolo verissimo in ogni
+simbolo nella vecchia [[Song|canzone]] nazionale, ma ne è un simbolo verissimo in ogni
 nuova [[concepts/history|storia]] filosofica; simbolo della sua uguaglianza, della sua ubiquità,
 della sua molteplicità e della sua possente capacità di ritornare. Combattere contro
 l'erba è combattere contro Dio; possiamo soltanto amministrare tanto male la nostra
@@ -3531,7 +3531,7 @@ we shall see that it has already gone even farther and fared even worse.
 The surname also is losing its root and therefore its reason.
 The surname has become as solitary as a nickname. For it might be argued
 that the first name is meant to be an individual and even isolated thing;
-but the last name is certainly meant, by all logic and [[concepts/history|history]],
+but the last name is certainly meant, by all [[logic]] and [[concepts/history|history]],
 to link a man with his human origins, habits, or habitation.
 Historically, it was a word taken from the town he lived in or
 the trade guild to which he belonged; legally it is still the word
@@ -3563,7 +3563,7 @@ into the background, and is in danger of fading from the background.
 In short, our Christian names are not the only Christian things
 that we may lose.
 Now the second solid fact which struck me in Ireland (after the
-success of small property and the _failure_ of large organisation)
+[[success]] of small property and the _failure_ of large organisation)
 was the fact that the family was in a flatly contrary position.
 All I have said above, in current language, about the whole
 trend of the modern world, is directly opposite to the whole
@@ -3609,7 +3609,7 @@ in an industrial society like the English, we must realise
 firmly that a totally opposite state of things exists in an
 agricultural society like the Irish. We may put it, if we like,
 in the form of an unfamiliar and even unfriendly fancy.
-We may say that the house is greater than the man; that the house
+We may say that the [[house]] is greater than the man; that the [[house]]
 is an amiable ogre that runs after and recaptures the man.
 But the fact is there, familiar or unfamiliar, friendly or unfriendly;
 and the fact is the family. The family [[concepts/pride|pride]] is prodigious; though it
@@ -3631,7 +3631,7 @@ could not with any rational meaning be called Unionist.
 Yet it was part of a passionately sincere, and indeed truly human
 and historic outburst of the politics of the northeast corner,
 against the politics of the rest of Ireland. Most of us remember
-that Sir Edward Carson put into the Government a legal friend of his
+that Sir Edward Carson put into the [[government|Government]] a legal friend of his
 named Campbell; it was at the beginning of the war, and few of us
 thought anything of the matter except that it was stupid to give posts
 to Carsonites at the most delicate crisis of the cause in Ireland.
@@ -3657,7 +3657,7 @@ of a Wilkinson?" A moment's reflection will show that it would
 be even more impossible touching public men in public quarrels.
 No English Liberal ever connected the earlier exploits of the
 present Lord Birkenhead with atavistic influences, or the totem
-of the wide and wandering tribe of Smith. No English patriot
+of the wide and wandering tribe of [[smith|Smith]]. No English patriot
 traced back the family tree of any English pacifist; or said there
 was never treason yet but a Pringle was at the [[characters/bottom|bottom]] of it.
 It is the indefinite article that is here the definite distinction.
@@ -3707,7 +3707,7 @@ But even if we were not annoyed at the pun, we should be
 surprised at the plural. And our surprise would be the measure
 of the deepest difference between England and Ireland.
 To express it in the same idle imagery it would be the fact that even
-a casement is a part of a house, as a kettle is a part of a household.
+a casement is a part of a [[house]], as a kettle is a part of a household.
 Every word in Irish is a household word.
 The English would no more have thought of a plural for the word Gladstone
 than for the word God. They would never have imagined Disraeli compassed
@@ -3755,17 +3755,17 @@ the rich who can live the genteel life. If a man is interesting because
 he is a McCarthy, it is, so far, as he is interesting because he is a man;
 that is, he is interesting whether he is a duke or a dustman.
 But if he is interesting because he is Lord FitzArthur and lives
-at FitzArthur House, then he is interesting when he has merely
-bought the house, or when he has merely bought the title.
+at FitzArthur [[house|House]], then he is interesting when he has merely
+bought the [[house]], or when he has merely bought the title.
 To maintain a squirearchy, it is necessary to admire the new squire;
 and therefore to forget the old squire. The sense of family is like
 a dog and follows the family; the sense of oligarchy is like a cat
-and continues to haunt the house. I am not arguing against aristocracy
+and continues to haunt the [[house]]. I am not arguing against aristocracy
 if the English choose to preserve it in England; I am only making
 clear the terms on which they hold it, and warning them that a
 people with a strong family sense will not hold it on any terms.
 Aristocracy, as it has flourished in England since the [[historical-references/reformation|Reformation]],
-with not a little national glory and commercial success,
+with not a little national glory and commercial [[success]],
 is in its very [[concepts/nature|nature]] built up of broken and desecrated homes.
 It has to destroy a hundred poor relations to keep up a family.
 It has to destroy a hundred families to keep up a class.
@@ -3836,7 +3836,7 @@ Liverpool, vedremo che è già andato ancora più lontano e ancor peggio. Anche 
 cognome sta perdendo la sua radice e perciò la sua ragione. Il cognome è divenuto
 solitario quanto un soprannome. Poiché si potrebbe sostenere che il nome proprio è
 destinato a essere una cosa individuale e persino isolata; ma il cognome è certamente
-destinato, per ogni logica e ogni [[concepts/history|storia]], a legare un uomo alle
+destinato, per ogni [[logic|logica]] e ogni [[concepts/history|storia]], a legare un uomo alle
 sue origini, alle sue abitudini o alla sua dimora umane. Storicamente, era una parola
 tratta dalla città in cui viveva o dalla corporazione di mestiere cui apparteneva;
 giuridicamente è tuttora la parola attorno a cui ruotano tutte le questioni di
@@ -3862,7 +3862,7 @@ Ciò che chiamiamo il nome di famiglia non è più, oggi, in primo luogo il nome
 famiglia. La famiglia stessa, come concezione collettiva, è già sbiadita sullo sfondo,
 e rischia di sbiadire via dallo sfondo. In breve, i nostri nomi di battesimo non sono
 le sole cose cristiane che possiamo perdere.
-Ora, il secondo fatto solido che mi colpì in Irlanda (dopo il successo
+Ora, il secondo fatto solido che mi colpì in Irlanda (dopo il [[success|successo]]
 della piccola proprietà e il _fallimento_ della grande organizzazione) fu che la
 famiglia si trovava in una posizione nettamente opposta. Tutto ciò che ho detto sopra,
 nel linguaggio corrente, sull'intera tendenza del mondo moderno, è direttamente
@@ -3903,7 +3903,7 @@ Ma, che si adotti o no questa veduta sullo stato delle cose in una società indu
 come quella inglese, dobbiamo comprendere con fermezza che uno stato di cose
 totalmente opposto esiste in una società agricola come quella irlandese. Possiamo
 esprimerlo, se vogliamo, nella forma di una fantasia inconsueta e persino ostile.
-Possiamo dire che la casa è più grande dell'uomo; che la casa è un
+Possiamo dire che la [[house|casa]] è più grande dell'uomo; che la [[house|casa]] è un
 amabile orco che rincorre e riacchiappa l'uomo. Ma il fatto è là, consueto o
 inconsueto, amico od ostile; e il fatto è la famiglia. L'[[concepts/pride|orgoglio]] familiare
 è prodigioso; benché di solito si accompagni ad ardenti masse di [[concepts/humility|umiltà]]
@@ -3922,7 +3922,7 @@ e che perciò non si poteva, con alcun senso razionale, chiamare unionista. Eppu
 faceva parte di uno sfogo appassionatamente sincero, e in verità autenticamente umano e
 storico, della politica dell'angolo nord-orientale contro la politica del resto
 dell'Irlanda. I più di noi ricordano che Sir Edward Carson introdusse nel
-Governo un suo amico avvocato di nome Campbell; era all'inizio della
+[[government|Governo]] un suo amico avvocato di nome Campbell; era all'inizio della
 guerra, e pochi di noi pensarono qualcosa della faccenda, se non che fosse stupido
 affidare cariche ai carsoniani nel momento più delicato della crisi della causa in
 Irlanda. Da allora, come pure sappiamo, il medesimo Campbell si è mostrato un uomo
@@ -3944,7 +3944,7 @@ Si provi qualcuno a immaginare un inglese che dica, a proposito di qualche lite 
 riflessione mostrerà che sarebbe ancor più impossibile a proposito di uomini pubblici in
 liti pubbliche. Nessun Liberale inglese collegò mai le prime imprese dell'attuale Lord
 Birkenhead a influenze ataviche, o al totem della vasta ed errante tribù degli
-Smith. Nessun patriota inglese risalì l'albero genealogico di un qualsiasi
+[[smith|Smith]]. Nessun patriota inglese risalì l'albero genealogico di un qualsiasi
 pacifista inglese; né disse che non ci fu mai tradimento senza che un Pringle ne fosse
 al [[characters/bottom|fondo]]. È l'articolo indeterminativo a costituire qui la determinata
 distinzione. È l'espressione «un Campbell» a trasformare d'un tratto la scena, e a
@@ -3984,7 +3984,7 @@ aperti sulla schiuma di mari tanto perigliosi, in una terra così davvero desola
 anche se non ci infastidisse il gioco di parole, ci sorprenderebbe il plurale. E la
 nostra sorpresa sarebbe la misura della più profonda differenza tra l'Inghilterra e
 l'Irlanda. Per esprimerlo con la medesima oziosa immagine, sarebbe il fatto che perfino
-una finestra è parte di una casa, come un bollitore è parte di una casa. Ogni
+una finestra è parte di una [[house|casa]], come un bollitore è parte di una casa. Ogni
 parola in Irlanda è una parola di casa.
 Gli inglesi non avrebbero pensato a un plurale per la parola Gladstone più di quanto lo
 avrebbero fatto per la parola Dio. Non avrebbero mai immaginato Disraeli circondato da
@@ -4023,16 +4023,16 @@ aristocratici. Deve scartare i poveri che hanno il [[motifs/blood|sangue]] signo
 i ricchi che possono condurre la vita signorile. Se un uomo è interessante perché è un
 McCarthy, ciò equivale, in tal misura, a essere interessante perché è un uomo; vale a dire,
 è interessante sia che si tratti di un duca sia di uno spazzino. Ma se è interessante perché
-è Lord FitzArthur e abita a FitzArthur House, allora è interessante quando ha
-semplicemente comprato la casa, o quando ha semplicemente comprato il titolo. Per
+è Lord FitzArthur e abita a FitzArthur [[house|House]], allora è interessante quando ha
+semplicemente comprato la [[house|casa]], o quando ha semplicemente comprato il titolo. Per
 mantenere una nobiltà terriera, è necessario ammirare il nuovo signore; e perciò dimenticare
 il vecchio signore. Il senso della famiglia è come un cane e segue la famiglia; il senso
-dell'oligarchia è come un gatto e continua a infestare la casa. Non sto
+dell'oligarchia è come un gatto e continua a infestare la [[house|casa]]. Non sto
 argomentando contro l'aristocrazia, se gli inglesi scelgono di conservarla in Inghilterra;
 sto soltanto chiarendo i termini a cui la detengono, e avvertendoli che un popolo dotato di
 un forte senso della famiglia non la deterrà a nessun termine. L'aristocrazia, quale è
 fiorita in Inghilterra fin dalla [[historical-references/reformation|Riforma]], con non poca gloria nazionale e
-successo commerciale, è per sua stessa [[concepts/nature|natura]] edificata su focolari
+[[success|successo]] commerciale, è per sua stessa [[concepts/nature|natura]] edificata su focolari
 infranti e profanati. Deve distruggere cento parenti poveri per mantenere in piedi una
 famiglia. Deve distruggere cento famiglie per mantenere in piedi una classe. Ma se questo
 spirito familiare è incompatibile con ciò che intendiamo per aristocrazia, è del tutto
@@ -4130,7 +4130,7 @@ had really always paid them. Their act presupposed that Irish
 [[concepts/courage|courage]] needed proof; and it never did. I have heard all
 the most horrible nonsense talked against Ireland before the war;
 and I never heard Englishmen [[concepts/doubt|doubt]] Irish military valour.
-What they did [[concepts/doubt|doubt]] was Irish political sanity. It will be seen
+What they did [[concepts/doubt|doubt]] was Irish political [[Sanity|sanity]]. It will be seen
 at once that the Easter action could only disprove the prejudice
 they hadn't got; and actually confirmed the prejudice they had got.
 The charge against the Irishman was not a lack of boldness,
@@ -4138,7 +4138,7 @@ but rather an excess of it. Men were right in thinking him brave,
 and they could not be more right. But they were wrong in thinking
 him mad, and they had an excellent opportunity to be more wrong.
 Then, when the attempt to fight against England developed by its own
-logic into a refusal to fight for England, men took away the number
+[[logic]] into a refusal to fight for England, men took away the number
 they first thought of; and were irritated into denying what they
 had originally never dreamed of doubting. In any case, this was,
 I think, the temper in which the minority of the true Sinn Feiners
@@ -4181,7 +4181,7 @@ stranger in Ireland feels around him. English journalism and gossip,
 dealing with English business men, are often precise about the present
 and prophetic about the future, but seldom communicative about the past;
 et pour cause. They will tell us where the capitalist is going to,
-as to the House of Lords, or to Monte Carlo, or inferentially to heaven;
+as to the [[house|House]] of Lords, or to Monte Carlo, or inferentially to heaven;
 but they say as little as possible about where he comes from.
 In Ireland a man carries the family mansion about with him like a snail;
 and his father's [[archetypes/ghost|ghost]] follows him like his [[archetypes/shadow|shadow]]. Everything good and
@@ -4232,7 +4232,7 @@ If I were given the complete control of an infant Parsee
 (which is fortunately unlikely) I should not have the remotest
 notion of when I was most vitally reflecting on the Parsee system.
 But common sense, and a comprehension of the meaning of a coherent
-philosophy, would lead me to suspect that I was reflecting on it
+[[philosophy]], would lead me to suspect that I was reflecting on it
 every other minute. But I mention the matter here, not in order
 to enter into any of these disputes, but to give yet another example
 of the way in which the essentially domestic organisation of Ireland
@@ -4247,8 +4247,8 @@ and massacre them together.
 A small incident within my own short experience, however,
 illustrated the main point involved here; the sense of a peasant base,
 even of the proletarian attack. And this was exemplified not in
-any check to Labour, but rather in a success for Labour, in so far
-as the issue of a friendly and informal debate may be classed with
+any check to Labour, but rather in a [[success]] for Labour, in so far
+as the issue of a friendly and informal [[debate]] may be classed with
 its more solid successes. The business originally began with a sort
 of loose-jointed literary lecture which I gave in the Dublin Theatre,
 in connection with which I only mention two incidents in passing,
@@ -4267,8 +4267,8 @@ On the same day an Irishman of similar social standing remarked
 quite carelessly, "I've just seen your subject for to-morrow. I suppose
 the Socialists won't agree with you," or words to that effect. The two
 terms told him at once, not about the lecture (which was literary if it
-was anything), but about the whole philosophy underlying the lecture;
-the whole of that philosophy which the lumbering elephant called
+was anything), but about the whole [[philosophy]] underlying the lecture;
+the whole of that [[philosophy]] which the lumbering elephant called
 by Mr. [[works/shaw-(chesterton)|Shaw]] the Chester-Belloc laboriously toils to explain in England,
 under the ponderous title of Distributivism. As Mr. Hugh Law once said,
 equally truly, about our pitting of patriotism against imperialism,
@@ -4353,7 +4353,7 @@ accidentally led up to my first meeting with this great force.
 And it was none the less a fact in support of my argument,
 because it was something of a joke against myself.
 On the occasion I have mentioned, a most exhilarating evening
-at the Arts Club, Mr. Yeats asked me to open a debate at the
+at the Arts Club, Mr. Yeats asked me to open a [[debate]] at the
 Abbey Theatre, defending property on its more purely political side.
 My opponent was one of the ablest of the leaders of Liberty Hall,
 the famous stronghold of Labour politics in Dublin, Mr. Johnson,
@@ -4384,7 +4384,7 @@ Two minor jokes, somewhat at my expense, remain in my [[motifs/memory|memory]];
 I appear to have caused some amusement by cutting a pencil with a
 very large Spanish knife, which I value (as it happens) as the gift
 of an Irish priest who is a friend of mine, and which may therefore
-also be regarded as a symbolic weapon, a sort of sword of the spirit.
+also be regarded as a symbolic weapon, a sort of [[Sword|sword]] of the spirit.
 Whether the audience thought I was about to amputate my own legs
 in illustration of my own metaphor, or that I was going to cut
 Mr. Johnson's throat in fury at finding no reply to his arguments,
@@ -4402,7 +4402,7 @@ of my opponent; as in the ovation he received before he spoke at all,
 or the applause given to a number of his topical asides, allusions which
 I could not always understand. After the meeting a distinguished
 Southern Unionist, who happens to own land outside Dublin, said to me,
-"Of course, Johnson has just had a huge success in his work here.
+"Of course, Johnson has just had a huge [[success]] in his work here.
 Liberty Hall has just done something that has really never been
 done before in the whole Trade [[concepts/union|Union]] movement. He has really
 managed to start a Trade [[concepts/union|Union]] for agricultural labourers.
@@ -4419,7 +4419,7 @@ defeat was an example of my own doctrine; and that the [[concepts/truth|truth]]
 on my side was proved by the popularity of the other side.
 The agricultural guild was due to a [[motifs/wind|wind]] of [[concepts/freedom|freedom]] that came into
 that dark [[motifs/city|city]] from very distant fields; and the [[concepts/truth|truth]] that even
-these rolling stones of homeless proletarianism had been so lately
+these [[rolling]] stones of homeless proletarianism had been so lately
 loosened from the very roots of the [[settings/mountains|mountains]].
 In Ireland even the industrialism is not industrial. That is what I
 mean by saying that Irish Labour is the exception that proves the rule.
@@ -4499,14 +4499,14 @@ saputo l'unico complimento che davvero avevamo sempre reso loro. Il loro atto
 presupponeva che il [[concepts/courage|coraggio]] irlandese avesse bisogno di prove; e non ne
 ebbe mai bisogno. Ho udito le più orribili assurdità dette contro l'Irlanda prima
 della guerra; e non udii mai inglesi [[concepts/doubt|dubitare]] del valore militare irlandese.
-Ciò di cui invece [[concepts/doubt|dubitavano]] era la sanità politica irlandese.
+Ciò di cui invece [[concepts/doubt|dubitavano]] era la [[Sanity|sanità]] politica irlandese.
 Si vedrà subito che l'azione di Pasqua poteva soltanto smentire il pregiudizio che
 non avevano; e in realtà confermò il pregiudizio che avevano. L'accusa contro
 l'irlandese non era una mancanza di audacia, ma piuttosto un eccesso di essa. Gli
 uomini avevano ragione nel crederlo coraggioso, e non potevano avere più ragione. Ma
 avevano torto nel crederlo pazzo, ed ebbero un'eccellente occasione per avere ancor
 più torto. Poi, quando il tentativo di combattere contro l'Inghilterra si sviluppò,
-per sua propria logica, in un rifiuto di combattere per l'Inghilterra, gli
+per sua propria [[logic|logica]], in un rifiuto di combattere per l'Inghilterra, gli
 uomini tolsero il numero che avevano dapprima pensato; e, irritati, giunsero a negare
 ciò che in origine non si erano mai sognati di mettere in dubbio. In ogni caso, questo
 era, credo, lo stato d'animo con cui la minoranza dei veri sinnfeiniani cercò il
@@ -4542,7 +4542,7 @@ Bradshaw, o persino della signora Bradshaw. Questa è l'atmosfera, da sentire pi
 da descrivere, che uno straniero in Irlanda si sente attorno. Il giornalismo e i
 pettegolezzi inglesi, trattando di uomini d'affari inglesi, sono spesso precisi sul
 presente e profetici sul futuro, ma di rado loquaci sul passato; et pour cause. Ci
-diranno dove il capitalista sta andando, se alla Camera dei Lord, o a Monte
+diranno dove il capitalista sta andando, se alla [[house|Camera]] dei Lord, o a Monte
 Carlo, o, per illazione, in cielo; ma dicono il meno possibile su da dove egli venga.
 In Irlanda un uomo si porta dietro la dimora avita come una lumaca; e il
 [[archetypes/ghost|fantasma]] di suo padre lo segue come la sua [[archetypes/shadow|ombra]]. Tutto ciò che
@@ -4584,7 +4584,7 @@ Liverpool non saprebbe quando stesse, o non stesse, manomettendo la religione di
 [[archetypes/child|bambino]] nato a Louth. Se mi si desse il controllo completo di un infante
 parsi (il che è fortunatamente improbabile), non avrei la più remota idea di quando
 incidessi più vitalmente sul sistema parsi. Ma il buon senso, e la comprensione del
-significato di una filosofia coerente, mi indurrebbero a sospettare che
+significato di una [[philosophy|filosofia]] coerente, mi indurrebbero a sospettare che
 vi incidessi a ogni minuto. Ma menziono la cosa qui, non per entrare in alcuna di
 queste dispute, ma per dare ancora un altro esempio del modo in cui l'organizzazione
 essenzialmente domestica dell'Irlanda si leverà sempre in rivolta contro qualsiasi
@@ -4597,8 +4597,8 @@ qualcuno dei nostri più antichi metodi storici, e massacrarli insieme.
 Un piccolo episodio, tuttavia, entro la mia breve esperienza, illustrò il punto
 principale qui in gioco: il senso di una base contadina, persino nell'attacco
 proletario. E ciò fu esemplificato non in una qualche battuta d'arresto del Lavoro, ma
-piuttosto in un successo del Lavoro, nella misura in cui l'esito di un
-amichevole e informale dibattito possa essere annoverato tra i suoi successi
+piuttosto in un [[success|successo]] del Lavoro, nella misura in cui l'esito di un
+amichevole e informale [[debate|dibattito]] possa essere annoverato tra i suoi successi
 più solidi. La faccenda cominciò in origine con una sorta di sconnessa conferenza
 letteraria che tenni al Teatro di Dublino, a proposito della quale menziono soltanto
 due episodi di sfuggita, perché entrambi mi colpirono come peculiarmente autoctoni e
@@ -4614,8 +4614,8 @@ e Protestanti, o Patriottismo e Politicanti. Lo stesso giorno un irlandese di an
 condizione sociale osservò con tutta noncuranza: «Ho appena visto il tuo argomento per
 domani. Suppongo che i Socialisti non saranno d'accordo con te», o parole di questo
 tenore. I due termini gli dissero subito, non della conferenza (che era letteraria, se
-mai era qualcosa), ma dell'intera filosofia sottesa alla conferenza;
-tutta quella filosofia che l'ingombrante elefante, che il signor
+mai era qualcosa), ma dell'intera [[philosophy|filosofia]] sottesa alla conferenza;
+tutta quella [[philosophy|filosofia]] che l'ingombrante elefante, che il signor
 [[works/shaw-(chesterton)|Shaw]] chiamò il Chester-Belloc, faticosamente s'affanna a spiegare in Inghilterra,
 sotto il ponderoso titolo di Distributismo. Come una volta disse il signor Hugh Law,
 con altrettanta verità, a proposito del nostro contrapporre il patriottismo
@@ -4684,7 +4684,7 @@ e mi sono soffermato sugli altri punti soltanto perché essi furono i gradini ch
 mi condussero al mio primo incontro con questa grande forza. E non per questo fu meno un fatto
 a sostegno della mia tesi, per il fatto d'essere in parte uno scherzo a mie spese. Nell'occasione
 che ho menzionato, una serata quanto mai esilarante all'Arts Club, il signor Yeats mi chiese di
-aprire un dibattito all'Abbey Theatre, difendendo la proprietà sul suo versante più
+aprire un [[debate|dibattito]] all'Abbey Theatre, difendendo la proprietà sul suo versante più
 puramente politico. Il mio avversario era uno dei più abili tra i capi di Liberty Hall, la
 famosa roccaforte della politica operaia a Dublino, il signor Johnson, un inglese come me, ma
 meritatamente popolare presso il proletariato irlandese. Tenne un discorso quanto mai ammirevole,
@@ -4707,7 +4707,7 @@ che mi pare lasci il mio argomento dov'era; poiché ciò che è comunitario dev'
 meno che non debba essere caotico. Due scherzi minori, in parte a mie spese, mi restano nella
 [[motifs/memory|memoria]]; pare che io abbia suscitato una certa ilarità temperando una matita con un
 grandissimo coltello spagnolo, al quale tengo (per combinazione) come al dono di un prete irlandese
-che mi è amico, e che si può perciò considerare anche un'arma simbolica, una sorta di spada
+che mi è amico, e che si può perciò considerare anche un'arma simbolica, una sorta di [[Sword|spada]]
 dello spirito. Se il pubblico pensasse che stessi per amputarmi le gambe a illustrazione della mia
 stessa metafora, o che stessi per tagliare la gola al signor Johnson, furibondo per non trovare
 risposta ai suoi argomenti, non lo so. L'altra cosa che mi parve buffa fu un'eccellente battuta
@@ -4720,7 +4720,7 @@ per tutto lo svolgimento fui consapevole, come dico, di un sentimento popolare q
 sosteneva la semplice personalità del mio avversario; come nell'ovazione che ricevette prima ancora
 di parlare, o negli applausi tributati a numerose sue battute d'attualità, allusioni che non sempre
 riuscivo a capire. Dopo l'incontro un illustre unionista del Sud, che per caso possiede terre fuori
-Dublino, mi disse: «Naturalmente, Johnson ha appena avuto un enorme successo nel suo
+Dublino, mi disse: «Naturalmente, Johnson ha appena avuto un enorme [[success|successo]] nel suo
 lavoro qui. Liberty Hall ha appena fatto qualcosa che davvero non era mai stato fatto prima in tutto
 il movimento delle Trade [[concepts/union|Union]]. È riuscito davvero a fondare una Trade [[concepts/union|Union]] per i braccianti
 agricoli. Lo so, perché ho dovuto far fronte alle loro richieste. Sai quanto sia sempre stato del
@@ -4733,7 +4733,7 @@ un'ironia interessante che perfino la mia stessa sconfitta fosse un esempio dell
 e che la [[concepts/truth|verità]] dalla mia parte fosse provata dalla popolarità della parte avversa. La
 corporazione agricola era dovuta a un [[motifs/wind|vento]] di [[concepts/freedom|libertà]] che penetrava in quella
 cupa [[motifs/city|città]] da campi lontanissimi; e alla [[concepts/truth|verità]] che perfino queste pietre
-rotolanti di un proletariato senza casa erano state da così poco staccate dalle radici
+[[rolling|rotolanti]] di un proletariato senza casa erano state da così poco staccate dalle radici
 stesse delle [[settings/mountains|montagne]]. In Irlanda persino l'industrialismo non è industriale. Questo è
 ciò che intendo dicendo che il Lavoro irlandese è l'eccezione che conferma la regola. Ecco perché esso
 non contraddice la mia precedente generalizzazione, secondo cui la nostra crisi capitalista sta sul
@@ -4772,11 +4772,11 @@ like Mr. Devlin and Mr. Tim Healy. The Belfast citizen suggested
 that the Popish priest had terrorised the peasants when they tried
 to enlist, producing a thumbscrew from his pocket and a portable rack
 from his handbag. The Parliamentary Nationalist blamed both Sinn Fein
-and the persecution of Sinn Fein. The British Government officials,
+and the persecution of Sinn Fein. The British [[government|Government]] officials,
 if they did not exactly blame themselves, at least blamed each other.
 The ordinary Southern Unionist (who played many parts of a
 more or less sensible sort, including that of a [[motifs/home|Home]] Ruler)
-generally agreed with the ordinary Nationalist that the Government's
+generally agreed with the ordinary Nationalist that the [[government|Government]]'s
 recruiting methods had been as bad as its cause was good.
 But it is manifest that multitudes at the beginning of the war thought
 it really had a very good cause; and moreover a very good chance.
@@ -4822,8 +4822,8 @@ and that is what [[concepts/history|history]] will say of the strange and recent
 up of barbaric imperialism, a whirlpool whose hollow centre
 was Berlin. This is where the extreme Irish were really wrong;
 perhaps really wrong for the first [[motifs/time|time]]. I entirely sympathise
-with their being in revolt against the British Government.
-I am in revolt in most ways against the British Government myself.
+with their being in revolt against the British [[government|Government]].
+I am in revolt in most ways against the British [[government|Government]] myself.
 But politics are a fugitive thing in the face of [[concepts/history|history]]. Does anybody
 want to be fixed for ever on the wrong side at the Battle of Marathon,
 through a quarrel with some Archon whose very name is forgotten?
@@ -4936,7 +4936,7 @@ fix as I have fancied here. It is that Mr. Bernard [[works/shaw-(chesterton)|Sha
 should come to my rescue. It is that Mr. Bernard [[works/shaw-(chesterton)|Shaw]] himself
 should declare in favour of the corpulent conqueror from the east;
 that he should take seriously all the fads and fallacies of that
-fat-headed superman. That, and that alone, would ensure all my
+fat-headed superman. That, and that [[Alone|alone]], would ensure all my
 own fads and fallacies being not only forgotten but forgiven.
 There is present to my [[concepts/imagination|imagination]], I regret to say, a wild
 possibility that this is what Mr. Bernard [[works/shaw-(chesterton)|Shaw]] might really do.
@@ -4956,10 +4956,10 @@ of the fat man, did begin almost to make a [[archetypes/hero|hero]] of the fatte
 to admire his vast curves as almost cosmic lines of development.
 I have seen Irish-American pamphlets which took quite seriously
 (or, I prefer to think, pretended to take quite seriously)
-the ridiculous romance about the Teutonic tribes having revived
+the ridiculous [[Romance|romance]] about the Teutonic tribes having revived
 and refreshed civilisation after the fall of the Roman Empire.
 They revived civilisation very much as they restored Louvain or
-reconstructed the _Lusitania._ It was a romance which the English
+reconstructed the _Lusitania._ It was a [[Romance|romance]] which the English
 for a short [[motifs/time|time]] adopted as a convenience, but from which the Irish
 have continually suffered as from a curse. It was a suicidal
 perversity that they themselves, in their turn, should perpetuate
@@ -4977,7 +4977,7 @@ I said all this in my very casual and rambling speech. But it was
 based on this idea, that men had missed the joke against England,
 and that now unfortunately the joke was rather against Ireland.
 It was Ireland that was now missing a great historical opportunity
-for lack of humour and [[concepts/imagination|imagination]], as England had missed it
+for lack of [[Humour|humour]] and [[concepts/imagination|imagination]], as England had missed it
 a moment before. If the Irish would laugh at the English
 and help the English, they would win all along the line.
 In the real [[concepts/history|history]] of the German problem, they would inherit
@@ -4988,11 +4988,11 @@ These are the principles, which I thought, and still think, the only
 possible principles to form the basis of a recruiting appeal in Ireland.
 But on the particular occasion in question I naturally took the matter
 much more lightly; hoping that the two jokes might, as it were,
-cancel out, and leave the two countries quits and in a better humour.
+cancel out, and leave the two countries quits and in a better [[Humour|humour]].
 And I devoted nearly all my remarks to testifying that the English
 had really, in the mass, shed the cruder Teutonism that had
 excused the cruelties of the past. I said that Englishmen
-were anything but proud of the past government of Ireland;
+were anything but proud of the past [[government]] of Ireland;
 that the mass of men of all parties were far more modest and humane
 in their view of Ireland than most Irishmen seem to suppose.
 And I ended with words which I only quote here from [[motifs/memory|memory]], because they
@@ -5080,11 +5080,11 @@ Devlin e il signor Tim Healy. Il cittadino di Belfast insinuava che il prete pap
 avesse terrorizzato i contadini quando tentavano di arruolarsi, estraendo uno
 schiacciapollici dalla tasca e un cavalletto di tortura portatile dalla borsa. Il
 nazionalista parlamentare incolpava tanto il Sinn Fein quanto la persecuzione del
-Sinn Fein. I funzionari del Governo britannico, se non incolpavano
+Sinn Fein. I funzionari del [[government|Governo]] britannico, se non incolpavano
 proprio sé stessi, incolpavano quanto meno l'un l'altro. L'ordinario unionista del
 Sud (che recitava molte parti di genere più o meno assennato, compresa quella di un
 [[motifs/home|Home]] Ruler) generalmente concordava con l'ordinario nazionalista che i metodi di
-reclutamento del Governo erano stati tanto pessimi quanto buona era la
+reclutamento del [[government|Governo]] erano stati tanto pessimi quanto buona era la
 sua causa. Ma è manifesto che moltitudini, al principio della guerra, ritenevano che
 essa avesse davvero un'ottima causa; e per giunta un'ottima possibilità. La
 straordinaria storia di come quella possibilità andò perduta troverà forse menzione
@@ -5126,8 +5126,8 @@ caos; ed è ciò che la [[concepts/history|storia]] dirà dello strano e recente
 dell'imperialismo barbarico, un gorgo il cui centro vuoto era Berlino. È qui che gli
 irlandesi estremisti ebbero davvero torto; forse davvero torto per la prima
 [[motifs/time|volta]]. Simpatizzo pienamente col loro essere in rivolta contro il
-Governo britannico. Io stesso sono in rivolta, in quasi ogni modo,
-contro il Governo britannico. Ma la politica è cosa fuggevole di fronte
+[[government|Governo]] britannico. Io stesso sono in rivolta, in quasi ogni modo,
+contro il [[government|Governo]] britannico. Ma la politica è cosa fuggevole di fronte
 alla [[concepts/history|storia]]. C'è forse qualcuno che vuole essere fissato per sempre dalla
 parte sbagliata alla battaglia di Maratona, per una lite con qualche Arconte il cui
 nome stesso è dimenticato? C'è forse qualcuno che vuole essere ricordato come amico di
@@ -5224,7 +5224,7 @@ Vi è una sola cosa che potrebbe salvare la mia dignità in un impiccio così po
 dignitoso come quello che ho qui immaginato. È che il signor Bernard [[works/shaw-(chesterton)|Shaw]] in persona
 venga in mio soccorso. È che il signor Bernard [[works/shaw-(chesterton)|Shaw]] in persona si dichiari a favore
 del corpulento conquistatore dell'oriente; che prenda sul serio tutte le fisime e le
-fallacie di quel superuomo dalla testa grassa. Ciò, e ciò soltanto,
+fallacie di quel superuomo dalla testa grassa. Ciò, e ciò [[Alone|soltanto]],
 garantirebbe che tutte le mie fisime e fallacie fossero non solo dimenticate ma
 perdonate. È presente alla mia [[concepts/imagination|immaginazione]], mi rincresce dirlo, la
 sfrenata possibilità che questo sia proprio ciò che il signor Bernard [[works/shaw-(chesterton)|Shaw]] potrebbe
@@ -5241,10 +5241,10 @@ Comunque stiano le cose, alcuni degli uomini magri, invece di fare dell'uomo gra
 [[archetypes/fool|zimbello]], cominciarono quasi a fare dell'uomo più grasso un [[archetypes/hero|eroe]]; ad
 ammirare le sue vaste curve come linee di sviluppo quasi cosmiche. Ho visto opuscoli
 irlando-americani che prendevano del tutto sul serio (o, preferisco pensare, fingevano
-di prendere del tutto sul serio) la ridicola favola secondo cui le tribù
+di prendere del tutto sul serio) la ridicola [[Romance|favola]] secondo cui le tribù
 teutoniche avrebbero ravvivato e rinfrescato la civiltà dopo la caduta dell'Impero
 romano. Ravvivarono la civiltà press'a poco come restaurarono Lovanio o ricostruirono il
-_Lusitania._ Era una favola che gli inglesi per un breve [[motifs/time|tempo]]
+_Lusitania._ Era una [[Romance|favola]] che gli inglesi per un breve [[motifs/time|tempo]]
 adottarono per comodità, ma di cui gli irlandesi hanno continuamente sofferto come di una
 maledizione. Era una perversità suicida che essi stessi, a loro volta, perpetuassero la
 loro maledizione permanente come una comodità temporanea. Quello fu il peggior errore
@@ -5259,7 +5259,7 @@ sciocchi»; e naturalmente io non intendo questo. Dissi tutto ciò nel mio disco
 mai disinvolto e sconnesso. Ma esso si fondava su questa idea, che gli uomini avessero
 mancato la beffa contro l'Inghilterra, e che ora, sfortunatamente, la beffa fosse
 piuttosto contro l'Irlanda. Era l'Irlanda che ora mancava una grande occasione storica
-per difetto di umorismo e di [[concepts/imagination|immaginazione]], come l'Inghilterra
+per difetto di [[Humour|umorismo]] e di [[concepts/imagination|immaginazione]], come l'Inghilterra
 l'aveva mancata un momento prima. Se gli irlandesi ridessero degli inglesi e aiutassero
 gli inglesi, vincerebbero su tutta la linea. Nella vera [[concepts/history|storia]] del problema
 tedesco, erediterebbero tutti i vantaggi dell'aver avuto ragione fin dal principio. Non
@@ -5269,10 +5269,10 @@ principî che ritenevo, e tuttora ritengo, gli unici principî possibili per for
 base di un appello al reclutamento in Irlanda. Ma nella particolare occasione in
 questione presi naturalmente la cosa assai più alla leggera; sperando che le due beffe
 potessero, per così dire, annullarsi a vicenda, e lasciare i due paesi pari e di
-umore migliore. E dedicai quasi tutte le mie osservazioni a testimoniare che
+[[Humour|umore]] migliore. E dedicai quasi tutte le mie osservazioni a testimoniare che
 gli inglesi si erano davvero, nella massa, spogliati del più rozzo Teutonismo che aveva
 scusato le crudeltà del passato. Dissi che gli inglesi erano tutt'altro che fieri del
-passato governo dell'Irlanda; che la massa degli uomini di tutti i partiti
+passato [[government|governo]] dell'Irlanda; che la massa degli uomini di tutti i partiti
 era assai più modesta e umana nella sua veduta dell'Irlanda di quanto la maggior parte
 degli irlandesi sembra supporre. E conclusi con parole che qui cito soltanto a
 [[motifs/memory|memoria]], perché si dà il caso che siano il testo del curioso episodio che
@@ -5339,7 +5339,7 @@ VI. The Mistake of England
 I met one hearty Unionist, not to say Coercionist in Ireland,
 in such a manner as to talk to him at some length;
 one quite genial and genuine Irish gentleman, who was solidly
-on the side of the system of British government in Ireland.
+on the side of the system of British [[government]] in Ireland.
 This gentleman had been shot through the [[concepts/body|body]] by the British
 troops in their efforts to suppress the Easter Rebellion.
 The matter just missed being tragic; but since it did, I cannot help
@@ -5359,7 +5359,7 @@ who did not shoot him than with the other rioters who did.
 But I venture to introduce him here not so much as an individual
 as an [[forms/allegory|allegory]]. The incident seems to me to set forth,
 in a pointed, lucid, and picturesque form, exactly what the British
-military government really succeeded in doing in Ireland.
+military [[government]] really succeeded in doing in Ireland.
 It succeeded in half-killing its friends, and affording an
 intelligent but somewhat inhumane amusement to all its enemies.
 The [[motifs/fire|fire]]-eater held his [[motifs/fire|fire]]-arm in so contorted a posture as to give
@@ -5416,8 +5416,8 @@ Bad as we were, we managed to look much worse than we were.
 In a horrible unconsciousness we re-enacted [[concepts/history|history]] through sheer
 ignorance of [[concepts/history|history]]. We were foolish enough to dress up,
 and to play up, to the part of a [[archetypes/villain|villain]] in a very old [[forms/tragedy|tragedy]].
-We clothed ourselves almost carelessly in [[motifs/fire|fire]] and sword; and if
-the [[motifs/fire|fire]] had been literally stage-[[motifs/fire|fire]] or the sword a wooden sword,
+We clothed ourselves almost carelessly in [[motifs/fire|fire]] and [[Sword|sword]]; and if
+the [[motifs/fire|fire]] had been literally stage-[[motifs/fire|fire]] or the [[Sword|sword]] a wooden [[Sword|sword]],
 the merely artistic blunder would have been quite as bad.
 For instance, I soon came on the traces of a quarrel about some silly
 veto in the schools, against Irish children wearing green rosettes.
@@ -5427,7 +5427,7 @@ It is touching the talisman, it is naming the name, it is striking
 the note of another relation in which we were in the wrong,
 to the confusion of a new relation in which we were in the right.
 Anybody of common sense, considering any other case, can see
-the almost magic force of these material coincidences.
+the almost [[Magic|magic]] force of these material coincidences.
 If the English armies in France in 1914 considered themselves
 justified for some reason in executing some Frenchwoman, they would
 perhaps be indiscreet if they killed her (however logically)
@@ -5437,7 +5437,7 @@ of some group of the wealthy French Protestants, I should strongly
 advise them not to fix the date for the vigil of St. Bartholomew,
 or to go to work with white scarfs tied round their arms.
 Many of us [[concepts/hope|hope]] to see a Jewish commonwealth reconstituted in Palestine;
-and we could easily imagine some quarrel in which the government of
+and we could easily imagine some quarrel in which the [[government]] of
 Jerusalem was impelled to punish some Greek or Latin [[archetypes/pilgrim|pilgrim]] or monk.
 The Jews might even be right in the quarrel and the Christian wrong.
 But it may be hinted that the Jews would be ill-advised if they
@@ -5474,7 +5474,7 @@ in class the Buff and Blue favours of Mr. Simpkin and Mr. Slumkey.
 But who but a madman would not see that to say that word, or make
 that sign, in Ireland, was like giving a signal for keening,
 and the lament over lost justice that is lifted in the burden of
-the noblest of national songs; that to point to that rag of that colour
+the noblest of national [[songs]]; that to point to that rag of that colour
 was to bring back all the responsibilities and realities of that reign
 of terror when we were, quite literally, hanging men and women too for
 wearing of the green? We were not literally hanging these children.
@@ -5494,13 +5494,13 @@ the newest and neatest uniforms from the Prussians of 1914.
 I will give only one story that I was told, out of many,
 to show what I mean. There was a sort of village musical festival
 at a place called Cullen in County Cork, at which there were
-naturally national songs and very possibly national speeches.
+naturally national [[songs]] and very possibly national speeches.
 That there was a sort of social atmosphere, which its critics
 would call Sinn Fein, is exceedingly likely; for that now
 exists all over Ireland, and especially that part of Ireland.
 If we wish to prevent it being expressed at all, we must not
 only forbid all public meetings, but all private meetings,
-and even the meeting of husband and wife in their own house.
+and even the meeting of husband and wife in their own [[house]].
 Still there might have been a case, on coercionist lines, for forbidding
 this public meeting. There might be a case, on coercionist lines,
 for imprisoning all the people who attended it; or a still clearer case,
@@ -5546,9 +5546,9 @@ be miraculously directed towards the heads harbouring, at that moment,
 the most incorrect political opinions. Or perhaps he meant that loyal
 subjects are so superbly loyal that they do not mind being accidentally
 burnt alive, so long as they are assured that the [[motifs/fire|fire]] was dropped
-on them by government officials out of a government apparatus.
+on them by [[government]] officials out of a [[government]] apparatus.
 But my purpose here is not to fathom such a mystery, but merely to fix
-the dominant fact of the whole situation; that the government copied
+the dominant fact of the whole situation; that the [[government]] copied
 the theatricality of Potsdam even more than the tyranny of Potsdam.
 In that incident, the English laboriously reproduced all the
 artificial accessories of the most notorious crimes of [[settings/germany|Germany]];
@@ -5560,7 +5560,7 @@ merely that they might _look_ like Prussians. It was even more
 as if a man had walked across Ireland on three gigantic stilts,
 taller than the trees and visible from the most distant village,
 solely that he might look like one of those unhuman monsters from Mars,
-striding about on their iron tripods in the great nightmare of Mr. Wells.
+striding about on their iron tripods in the great [[nightmare]] of Mr. Wells.
 Such was our educational efficiency, that, before the end,
 multitudes of simple Irish people really had about the English
 invasion the same particular psychological reaction that multitudes
@@ -5661,7 +5661,7 @@ American by a prolonged display of England as the [[archetypes/tyrant|tyrant]] i
 A faint approximation might be found if we imagined the survivors
 of Victorian England, steeped in the tradition of _Uncle Tom's Cabin,_
 watching the American troops march through [[settings/london|London]]. Suppose they noted
-that the negro troops alone had to march in [[motifs/chains|chains]], with a white man
+that the negro troops [[Alone|alone]] had to march in [[motifs/chains|chains]], with a white man
 in a broad-brimmed hat walking beside them and flourishing a whip.
 Scenes far worse than that would have followed Irish conscription;
 but the only purpose of this chapter is to show that scenes
@@ -5681,7 +5681,7 @@ Only too many facts can be made to fit in with this; but for me it
 is still too hideous to be easily believed. But whatever our motives
 in doing it, there is simply no [[concepts/doubt|doubt]] whatever about what we did,
 in this matter of the Pro-Germans in Ireland. We did not crush
-the Pro-Germans; we did not convert them or coerce them; or educate
+the Pro-Germans; we did not [[convert]] them or coerce them; or educate
 them or exterminate them or massacre them. We manufactured them;
 we turned them out patiently, steadily, and systematically
 as if from a factory; we made them exactly as we made munitions.
@@ -5719,7 +5719,7 @@ VI. L'errore dell'Inghilterra
 
 Incontrai un cordiale unionista, per non dire coercizionista, in Irlanda, in modo
 tale da poter parlare con lui a lungo; un gentiluomo irlandese quanto mai gioviale e
-genuino, che stava solidamente dalla parte del sistema del governo
+genuino, che stava solidamente dalla parte del sistema del [[government|governo]]
 britannico in Irlanda. Questo gentiluomo era stato trapassato nel [[concepts/body|corpo]] da un
 colpo delle truppe britanniche, nei loro sforzi di reprimere la Rivolta di Pasqua. La
 cosa mancò di poco d'essere tragica; ma poiché la mancò, non posso fare a meno di
@@ -5736,7 +5736,7 @@ a suo [[concepts/honour|onore]] che fosse, per principio, tanto più indignato c
 non gli spararono che con gli altri rivoltosi che gli spararono. Ma mi arrischio a
 presentarlo qui non tanto come un individuo quanto come un'[[forms/allegory|allegoria]].
 L'episodio mi pare esporre, in forma acuta, lucida e pittoresca, esattamente ciò che
-il governo militare britannico riuscì realmente a fare in Irlanda.
+il [[government|governo]] militare britannico riuscì realmente a fare in Irlanda.
 Riuscì a mezzo uccidere i propri amici, e a offrire un divertimento intelligente ma
 alquanto inumano a tutti i propri nemici. Lo [[motifs/fire|sputafuoco]] teneva la sua arma da
 [[motifs/fire|fuoco]] in una posa così contorta da dare allo spettatore stupito la semplice
@@ -5785,8 +5785,8 @@ riuscimmo ad apparire assai peggiori di quanto fossimo. In un'orribile incoscien
 rimettemmo in scena la [[concepts/history|storia]] per pura ignoranza della [[concepts/history|storia]].
 Fummo tanto sciocchi da agghindarci, e da recitare, per la parte del [[archetypes/villain|malvagio]]
 in una vecchissima [[forms/tragedy|tragedia]]. Ci ammantammo quasi con noncuranza di
-[[motifs/fire|fuoco]] e spada; e se il [[motifs/fire|fuoco]] fosse stato letteralmente
-[[motifs/fire|fuoco]] di scena, o la spada una spada di legno, l'abbaglio
+[[motifs/fire|fuoco]] e [[Sword|spada]]; e se il [[motifs/fire|fuoco]] fosse stato letteralmente
+[[motifs/fire|fuoco]] di scena, o la [[Sword|spada]] una [[Sword|spada]] di legno, l'abbaglio
 meramente artistico sarebbe stato altrettanto grave. Per esempio, m'imbattei presto
 nelle tracce di una lite intorno a qualche sciocco veto nelle scuole, contro i bambini
 irlandesi che portavano coccarde verdi. Chiunque avesse una vena d'[[concepts/imagination|immaginazione]]
@@ -5794,7 +5794,7 @@ storica avrebbe evitato una lite, in quel particolare caso, intorno a quel parti
 colore. È toccare il talismano, è pronunciare il nome, è battere la nota di un altro
 rapporto in cui avevamo torto, a scapito di un nuovo rapporto in cui avevamo ragione.
 Chiunque abbia buon senso, considerando un qualsiasi altro caso, può vedere la forza
-quasi magica di queste coincidenze materiali. Se gli eserciti inglesi in
+quasi [[Magic|magica]] di queste coincidenze materiali. Se gli eserciti inglesi in
 Francia nel 1914 si fossero ritenuti giustificati, per una qualche ragione, nel
 giustiziare una qualche francese, sarebbero forse stati indiscreti se l'avessero uccisa
 (per quanto logicamente) legata a un palo nella piazza del mercato di Rouen. Se il
@@ -5803,7 +5803,7 @@ corrotta congiura di qualche gruppo di ricchi protestanti francesi, consiglierei
 caldamente di non fissare la data alla vigilia di San Bartolomeo, o di non mettersi
 all'opera con sciarpe bianche legate attorno alle braccia. Molti di noi [[concepts/hope|sperano]]
 di vedere una comunità ebraica ricostituita in Palestina; e potremmo facilmente
-immaginare qualche lite in cui il governo di Gerusalemme fosse spinto a
+immaginare qualche lite in cui il [[government|governo]] di Gerusalemme fosse spinto a
 punire qualche [[archetypes/pilgrim|pellegrino]] o monaco greco o latino. Gli ebrei potrebbero
 anche aver ragione nella lite, e il cristiano torto. Ma si può insinuare che gli ebrei
 sarebbero mal consigliati se lo incoronassero davvero di spine, e lo uccidessero su una
@@ -5834,7 +5834,7 @@ potrebbe, non imperdonabilmente, protestare contro gli scolari che sfoggiano in 
 le coccarde Camoscio e Azzurro del signor Simpkin e del signor Slumkey. Ma chi, se non
 un pazzo, non vedrebbe che pronunciare quella parola, o fare quel segno, in Irlanda,
 era come dare il segnale del lamento funebre, e del compianto sulla giustizia perduta
-che si leva nel ritornello dei più nobili canti nazionali; che additare quel
+che si leva nel ritornello dei più nobili [[songs|canti]] nazionali; che additare quel
 cencio di quel colore significava richiamare tutte le responsabilità e le realtà di
 quel regno del terrore in cui, alla lettera, impiccavamo uomini e anche donne per il
 portare del verde? Non stavamo, alla lettera, impiccando questi bambini. Come pura
@@ -5850,13 +5850,13 @@ tutto vero. Non contenti di prendere a prestito vecchie uniformi dagli Assiani d
 1798, presero a prestito le più nuove e lustre uniformi dai Prussiani del 1914.
 Racconterò una sola storia, fra le molte che mi furono narrate, per mostrare ciò che
 intendo. Vi fu una sorta di festival musicale di paese in un luogo chiamato Cullen,
-nella contea di Cork, in cui vi furono naturalmente canti nazionali e assai
+nella contea di Cork, in cui vi furono naturalmente [[songs|canti]] nazionali e assai
 probabilmente discorsi nazionali. Che vi fosse una sorta di atmosfera sociale, che i
 suoi critici chiamerebbero Sinn Fein, è oltremodo probabile; poiché essa esiste ora in
 tutta l'Irlanda, e specialmente in quella parte dell'Irlanda. Se vogliamo impedire che
 essa si esprima affatto, dobbiamo vietare non solo tutte le riunioni pubbliche, ma
 tutte le riunioni private, e persino l'incontro di marito e moglie nella loro propria
-casa. Vi sarebbe pur potuto essere un argomento, su linee coercizioniste, per
+[[house|casa]]. Vi sarebbe pur potuto essere un argomento, su linee coercizioniste, per
 vietare questa riunione pubblica. Vi potrebbe essere un argomento, su linee
 coercizioniste, per imprigionare tutte le persone che vi parteciparono; o un argomento
 ancor più chiaro, su quelle linee, per imprigionare tutte le persone dell'Irlanda. Ma
@@ -5893,10 +5893,10 @@ fiammeggianti dovunque, credendo che sarebbero stati sempre miracolosamente dire
 verso le teste che ospitavano, in quel momento, le opinioni politiche più scorrette. O
 forse intendeva che i sudditi leali sono così superbamente leali da non curarsi
 d'essere accidentalmente bruciati vivi, purché sia loro assicurato che il [[motifs/fire|fuoco]]
-è stato fatto cadere su di loro da funzionari del governo fuori da un
-apparecchio del governo. Ma il mio scopo qui non è di scandagliare un
+è stato fatto cadere su di loro da funzionari del [[government|governo]] fuori da un
+apparecchio del [[government|governo]]. Ma il mio scopo qui non è di scandagliare un
 simile mistero, bensì soltanto di fissare il fatto dominante dell'intera situazione;
-che il governo copiò la teatralità di Potsdam ancor più della tirannia di
+che il [[government|governo]] copiò la teatralità di Potsdam ancor più della tirannia di
 Potsdam. In quell'episodio, gli inglesi riprodussero faticosamente tutti gli accessori
 artificiali dei più famigerati crimini della [[settings/germany|Germania]]: gli uomini volanti,
 la fiamma, la scelta di una folla eterogenea, la scelta di una festa popolare. Ne
@@ -5905,7 +5905,7 @@ Irlanda si fosse agghindato con elmi chiodati e occhiali, unicamente per _sembra
 prussiano. Era ancor più come se un uomo avesse attraversato l'Irlanda su tre
 giganteschi trampoli, più alti degli alberi e visibili dal villaggio più lontano, al
 solo scopo di sembrare uno di quei mostri disumani venuti da Marte, che incedono sui
-loro tripodi di ferro nel grande incubo del signor Wells. Tale era la
+loro tripodi di ferro nel grande [[nightmare|incubo]] del signor Wells. Tale era la
 nostra efficacia educativa che, prima della fine, moltitudini di semplici irlandesi
 ebbero davvero, riguardo all'invasione inglese, la stessa particolare reazione
 psicologica che moltitudini di semplici inglesi ebbero riguardo all'invasione tedesca.
@@ -5994,7 +5994,7 @@ esibizione dell'Inghilterra come [[archetypes/tyrant|tiranno]] in Irlanda. Un pa
 si potrebbe trovare se immaginassimo i superstiti dell'Inghilterra vittoriana, imbevuti
 della tradizione della _Capanna dello zio Tom,_ mentre osservano le truppe americane
 sfilare per [[settings/london|Londra]]. Si supponga che notassero come le truppe negre
-soltanto dovessero marciare in [[motifs/chains|catene]], con un bianco dal cappello a
+[[Alone|soltanto]] dovessero marciare in [[motifs/chains|catene]], con un bianco dal cappello a
 larghe tese che camminava al loro fianco brandendo una frusta. Scene assai peggiori di
 quella sarebbero seguite alla coscrizione irlandese; ma l'unico scopo di questo capitolo
 è mostrare che scene altrettanto stupide segnarono ogni fase del reclutamento irlandese.
@@ -6010,7 +6010,7 @@ traditori dell'Inghilterra, purché potessero pur sempre essere tiranni dell'Irl
 Fin troppi fatti si possono far quadrare con questo; ma per me è ancora troppo mostruoso
 per essere facilmente creduto. Ma quali che fossero i nostri motivi nel farlo, non v'è
 semplicemente alcun [[concepts/doubt|dubbio]] su ciò che facemmo, in questa faccenda dei
-filotedeschi in Irlanda. Non schiacciammo i filotedeschi; non li convertimmo
+filotedeschi in Irlanda. Non schiacciammo i filotedeschi; non li [[convert|convertimmo]]
 né li costringemmo; né li educammo né li sterminammo né li massacrammo. Li fabbricammo;
 li sfornammo pazientemente, costantemente e sistematicamente come da una fabbrica; li
 facemmo esattamente come facevamo le munizioni. Non ci volle poca scienza sociale per
@@ -6076,15 +6076,15 @@ an island. It is admitting that such a nation is only a notion,
 and a nonsensical notion; but in reality it is this notion about
 Irish [[motifs/blood|blood]] that is nonsensical. Ireland is not an illusion;
 and her wrongs are not the subjective fancies of the Irish.
-Irishmen did not dream that they were evicted out of house and [[motifs/home|home]]
+Irishmen did not dream that they were evicted out of [[house]] and [[motifs/home|home]]
 by the ruthless application of a land law no man now dares to defend.
-It was not a nightmare that dragged them from their beds;
+It was not a [[nightmare]] that dragged them from their beds;
 nor were they sleepwalkers when they wandered as far as [[settings/america|America]].
 Skeffington did not have a delusion that he was being shot for keeping
 the peace; the shooting was objective, as the Prussian professors
 would say; as objective as the Prussian militarists could [[motifs/desire|desire]].
 The delusions were admittedly peculiar to the British official
-whom the British Government selected to direct operations on so
+whom the British [[government|Government]] selected to direct operations on so
 important an occasion. I could understand it if the Imperialists
 took refuge in the Celtic cloud, conceived Colthurst as full
 of a mystic frenzy like the chieftain who fought with the sea,
@@ -6219,8 +6219,8 @@ of the bishop's nephew than it did in mine. Anyhow, I continued
 to move about (like Atalanta in Calydon) with unchapleted hair,
 with unfilleted cheek; and found a sufficient number of Irish
 people in the same condition to prevent me from feeling shy.
-In a word, all that sort of thing is simply Mr. Russell's humour,
-especially his good humour, which is of a golden and godlike sort.
+In a word, all that sort of thing is simply Mr. Russell's [[Humour|humour]],
+especially his good [[Humour|humour]], which is of a golden and godlike sort.
 And a man would be very much misled by the practical joke if he does
 not realise that the joker is a practical man. On the desk in front
 of him as he spoke were business papers of reports and statistics,
@@ -6248,7 +6248,7 @@ the most fundamental fact in Ireland, is itself a permanent
 communication with the Continent. So, as I have said, is the free
 peasantry which is so often the economic expression of the same [[concepts/faith|faith]].
 Mr. James Stephens, himself a spiritually detached man of genius,
-told me with great humour a story which is also at least a symbol.
+told me with great [[Humour|humour]] a story which is also at least a symbol.
 A Catholic priest, after a convivial conversation and plenty of
 good wine, said to him confidentially: "You ought to be a Catholic.
 You can be saved without being a Catholic; but you can't be Irish
@@ -6300,7 +6300,7 @@ It was not because it gave fools a chance of complaining that
 they were Anti-English. It was because it gave much cleverer
 people the chance of complaining that they were Anti-European.
 I entirely agree that the [[concepts/alienation|alienation]] was chiefly the fault of
-the English Government; I even agree that it required an abnormal
+the English [[government|Government]]; I even agree that it required an abnormal
 imaginative magnanimity for an Irishman to do his duty to Ireland,
 in spite of being so insolently told to do it. But it is none
 the less true that Ireland to-day would be ten thousand miles
@@ -6349,7 +6349,7 @@ testify with entire certainty. I may or may not be right in the belief
 I build on it; but I believe it would still be felt as a gain;
 that Dominion [[motifs/home|Home]] Rule would in the long run satisfy Ireland.
 But it would satisfy her if it were given to her, not if it were
-promised to her. As it is, the Irish regard our government simply
+promised to her. As it is, the Irish regard our [[government]] simply
 as a liar who has broken his word; I cannot express how big and black
 that simple idea bulks in the landscape and blocks up the [[motifs/road|road]].
 And without professing to regard it as quite so simple,
@@ -6365,12 +6365,12 @@ as if it were the one supreme solitary example of such trickery;
 when the whole of our politics were full of such tricks.
 In short, the loss of justice for Ireland was simply a part
 of the loss of justice in England; the loss of all moral authority
-in government, the loss of the popularity of Parliament, the secret
+in [[government]], the loss of the popularity of Parliament, the secret
 plutocracy which makes it easy to take a bribe or break a pledge,
 the corruption that can pass unpopular laws or promote discredited men.
 The lawgiver cannot enforce his law because, whether or no the law
 be popular, the lawgiver is wholly unpopular, and is perpetually passing
-wholly unpopular laws. Intrigue has been substituted for government;
+wholly unpopular laws. Intrigue has been substituted for [[government]];
 and the public man cannot appeal to the public because all the most
 important part of his policy is conducted in private. The modern
 politician conducts his public life in private. He sometimes condescends
@@ -6378,7 +6378,7 @@ to make up for it by affecting to conduct his private life in public.
 He will put his baby or his birthday book into the illustrated papers;
 it is his dealings with the colossal millions of the cosmopolitan
 millionaires that he puts in his pocket or his private safe.
-We are allowed to know all about his dogs and cats; but not about
+We are allowed to know all about his [[dogs]] and cats; but not about
 those larger and more dangerous [[motifs/animals|animals]], his bulls and bears.
 Now there was a moment when England had an opportunity of breaking
 down this Parliamentary evil, as Europe afterwards had an opportunity
@@ -6516,20 +6516,20 @@ Sostenevano che Piggott fosse un poeta il cui pennello prendeva spesso il soprav
 Si appella a una legge delle nazioni; implica che una nazione sia qualcosa di normale, e quindi uno dei tanti elementi normali dell’esistenza umana. È impossibile avere una nazione senza il Cristianesimo, così come è impossibile avere un cittadino senza una [[motifs/city|città]]. Normalmente, questo concetto viene meglio compreso in Irlanda che in Inghilterra; tuttavia gli irlandesi tendono a un’eccessiva enfasi contraria, portandoli talvolta al culto dell’isolamento. In questo senso, è vero dire che l’errore è già indicato nel nome stesso di Sinn Fein. Ma penso che tale errore venga ancora più incoraggiato, in modo più oscuro e quindi pericoloso, da molte delle cose positive legate al culto dei Celti e allo studio della lingua irlandese antica. È un grande errore difendersi come “Celt” quando si potrebbe invece difendersi come “irlandesi”: la prima identità si basa su questioni complesse legate al temperamento, mentre la seconda si riferisce al fulcro fondamentale della morale. Il celtismo, in sé, potrebbe portare a tutte quelle esagerazioni razziali che di recente hanno spinto altre razze più barbare verso comportamenti pericolosi. Anche i Celti potrebbero finire per sostenere che la loro nazione sia qualcosa di “normale”, ma questo sarebbe un errore ancora più grave.
 Ma il fatto che la loro razza sia qualcosa di unico. I Celti potrebbero anche finire per combattere non per un'uguaglianza basata sul rispetto dei confini, ma per un’aristocrazia fondata sulle caratteristiche del [[motifs/blood|sangue]]. I Celti potrebbero anche contrapporre ciò che è preistorico a ciò che è storico, i pagani ai cristiani, e in questo senso il barbaro al civile. In questo senso devo confessare di non interessarmi molto ai Celti. Sono troppo simili ai Teutoni. Ovviamente tutti sanno che praticamente non esiste alcun pericolo di un imperialismo celtico: il signor Lloyd George non tenterà mai di annettersi la Bretagna come parte naturale del Regno Unito. E nessun conservatore, per quanto antiquato, estenderà il proprio impero in nome dei colori blu e gialli della bandiera britannica.
 Gli antichi Britanni. Non c’è la minima possibilità che gli Irlandesi invadano la Scozia soltanto perché il vecchio nome degli Scozzesi ha origini irlandesi; né che stabiliscano una capitale irlandese a Stratford-on-Avon solo perché “avon” è la parola celtica per “acqua”. Questo genere di cose fanno gli etnologi teutonici. Ma i Celti non sono così stupidi, nemmeno quando sono etnologi. Si potrebbe dire che ciò sia dovuto al fatto che anche i Celti preistorici sembravano essere molto più civilizzati dei Teutoni storici. Ho visto infatti ornamenti e utensili nel meraviglioso museo di Dublino, che fanno pensare a una società di immensa antichità, molto più avanzata nelle arti della vita rispetto ai Prussiani di pochi secoli fa. Ad esempio, c’era davvero quello che sembrava essere un rasoio elettrico. Dubito che i divini Goti avessero bisogno di un rasoio. E non sono così insensibile da non provare simpatia per l’istinto della poesia irlandese moderna, che esalta questo ordine primordiale e misterioso, come se fosse una sorta di paradiso pagano. Non considero queste leggende semplici menzogne, ma tradizioni vere. È un altro indizio del fatto che la civiltà sia più antica della barbarie. E che più ci spingiamo indietro verso le origini pagane, più ci avviciniamo alla grande origine cristiana del “peccato originale”. Ma qualsiasi merito o simpatia venga attribuito al culto delle origini celtiche, in realtà nulla di tutto ciò impedisce che il celtismo diventi un imperialismo barbarico, come il teutonismo. Quello che realmente impedisce l’imperialismo è il nazionalismo. È proprio perché la Germania non era una nazione che desiderava sempre di più diventare un impero. Un patriota, infatti, è una sorta di “amante”. E un “amante” è una sorta di “artista”. Un “artista” amerà sempre una forma troppo tanto per volerla rendere informe, anche solo al fine di renderla più grande. Un gruppo di tribù teutoniche non si curerà di quante altre tribù distrugga o assorba. E le tribù celtiche, quando erano pagane, forse hanno agito allo stesso modo. Ma la nazione irlandese, civilizzata e parte integrante del Cristianesimo, certamente non ha alcun desiderio di mescolarsi con altre tribù, né di far confondere i suoi confini con grandi città come Liverpool o Glasgow. In questo senso, è troppo consapevole di sé per essere egoista. La sua individualità potrebbe renderla un po’ isolata. Ma non certo imperialistica. Questo è anche un merito del nazionalismo, spesso trascurato: il fatto che ciò che viene definito “narrowness” (angustezza) non sia soltanto una barriera all’invasione, ma anche a un’espansione eccessiva. Pertanto, nonostante tutto riguardo ai Celti preistorici, mi sento molto più a mio agio con quei gentiluomini cristiani della movimento Young Ireland, o addirittura con i partecipanti alla Rivolta di Pasqua. Mi sentirei più al sicuro con Meagher.
-Del Spada più che della primitiva lametta da rasoio dei Celti.  
+Del [[Sword|Spada]] più che della primitiva lametta da rasoio dei Celti.  
 La meschinità microscopica degli scrittori inglesi del tardo periodo vittoriano, quando scrivevano degli patrioti irlandesi, non vedeva in loro altro che un semplice scherzo; i ribelli moderni, invece, ritengono di meritare di portare i titoli di antichi re. Ma l’unica [[concepts/doubt|dubbio]] che potrei avere, se ne avessi uno, è se quei re pagani fossero davvero degni dei ribelli cristiani. Sono molto più sicuro dell’[[concepts/heroism|eroismo]] dei moderni Feniani di quello degli antichi.  
 Per quanto riguarda il lato artistico del culto celtico, non ne parlerò qui in modo approfondito; anzi, la sua importanza, soprattutto per gli irlandesi, potrebbe facilmente essere esagerata. Il signor W. B. Yeats si è da tempo dissociato da qualsiasi teoria razziale riguardante la poesia irlandese. E lui, come dice, pensa davvero seriamente a ciò che afferma. Spesso non sono d’accordo con lui; ma sono ancora più in disaccordo con coloro che lo considerano un “oppio poetico”: per me, invece, è sempre stato uno stimolante logico. Del resto, il celticismo, in alcuni aspetti, rappresenta in realtà una sorta di “congiura” per guidare l’inglese in una, danza, anche se si tratta di una danza fatata. Sospetto che molti nomi e annunci vengano stampati in gaelico.
 Non perché gli irlandesi siano in grado di leggerli, ma perché gli inglesi no.  
 L’altro grande mistico moderno di Dublino, “A. E.”, ci intrattenne raccontando a una signora inglese presente che lei non avrebbe mai potuto resistere all’atmosfera celtica: per quanto si sforzasse, presto si sarebbe ritrovata a vagare tra le nebbie montane con un filo di seta intorno alla testa. Un destino che, apparentemente, aveva colpito il figlio o il nipote di un vescovo anglicano che si era perso in quelle zone. La signora inglese, che conosco abbastanza bene, dichiarò categoricamente che sarebbe andata a [[settings/paris|Parigi]] non appena avesse percepito l’arrivo di quell’atmosfera. Ma a mio parere, un’azione così drastica non era affatto necessaria, e non c’era motivo di allarmarsi: dopotutto, le nebbie montane non sembravano avere alcun effetto sulle persone che vivono proprio in quelle zone. Sapevo che A. E. conosceva meglio di me il fatto che i contadini irlandesi non vagano per le montagne, anzi, non vagano affatto, avendo molto lavoro più importante da svolgere. E poiché l’atmosfera celtica non sembrava avere alcun effetto sui Celti, non vedevo motivo di preoccuparmi riguardo al suo potenziale impatto sugli inglesi.
-Un modo per influenzare i Sassoni era, in realtà, una semplice barzelletta nei loro confronti; tuttavia, questa pratica potrebbe essere durata più a lungo nel caso del nipote del vescovo rispetto al mio. Comunque sia, continuai a muovermi in giro (come Atalanta a Calidone), con i capelli sciolti e le guance prive di ornamenti; trovai anche un numero sufficiente di irlandesi nella stessa condizione, il che mi impedì di sentirmi imbarazzato. In breve, tutto ciò rappresenta semplicemente lo umorismo del signor Russell, soprattutto il suo ottimo umorismo, di natura dorata e divina. E un uomo potrebbe essere facilmente ingannato da una simile barzelletta, se non la comprendesse correttamente.
+Un modo per influenzare i Sassoni era, in realtà, una semplice barzelletta nei loro confronti; tuttavia, questa pratica potrebbe essere durata più a lungo nel caso del nipote del vescovo rispetto al mio. Comunque sia, continuai a muovermi in giro (come Atalanta a Calidone), con i capelli sciolti e le guance prive di ornamenti; trovai anche un numero sufficiente di irlandesi nella stessa condizione, il che mi impedì di sentirmi imbarazzato. In breve, tutto ciò rappresenta semplicemente lo [[Humour|umorismo]] del signor Russell, soprattutto il suo ottimo [[Humour|umorismo]], di natura dorata e divina. E un uomo potrebbe essere facilmente ingannato da una simile barzelletta, se non la comprendesse correttamente.
 Non si rendevano conto che quel “buffone” fosse in realtà un uomo pratico. Sul tavolo davanti a lui, mentre parlava, c’erano documenti aziendali, rapporti e statistiche: cose molto più legate ai filetti di vitello che alle idee o alle visioni future. Questo è il fatto essenziale riguardo a questo aspetto di tali persone in Irlanda. Possiamo considerare lo “spettro” celtico come una sorta di “spettro” simbolico, ma possiamo soltanto dubitare della sua realtà; invece, non c’è alcun dubbio sulla realtà del cavolo rapa. Tuttavia, se quel comportamento celtico rappresenta soltanto un aspetto ornamentale della cultura celtica, lo spirito che lo ha generato produce anche tendenze molto più serie verso la separazione dell’Irlanda, si potrebbe quasi dire che tale spirito “secreta” questa volontà di separazione. In questo senso, è vero che in Irlanda esiste troppo separatismo. Non parlo della separazione dall’Inghilterra: quella, come ho detto, è avvenuta molto tempo fa nel senso più serio del termine, ed è una condizione da accettare, non una conseguenza da evitare. Né intendo parlare della separazione da una federazione di stati liberi, purtroppo conosciuta come Impero Britannico: quella è una conseguenza che ancora potremmo evitare, se solo avessimo un po’ di buon senso e onestà nella nostra politica. Intanto, parlo della separazione dall’Europa, dalla comunità europea.
 La civiltà cristiana, secondo le leggi della quale vivono le nazioni. Si potrebbe intendere che qui parli di eccezioni piuttosto che della regola; infatti, la regola è proprio il contrario. La religione cattolica, il fatto più fondamentale in Irlanda, rappresenta di per sé un legame permanente con il Continente. Lo stesso vale, come ho detto, per la libera agricoltura, che spesso costituisce l’espressione economica della stessa fede cattolica. Il signor James Stephens, uomo di genio ma spiritualmente distaccato, mi raccontò con grande umorismo una storia che rappresenta anch’essa un simbolo significativo: un prete cattolico, dopo una conversazione amichevole e abbondanti bicchieri di vino buono, gli disse in confidenza: “Dovresti diventare cattolico. È possibile essere salvati anche senza esserlo; ma non è possibile essere irlandesi senza esserlo.” Tuttavia, queste eccezioni sono abbastanza numerose da rappresentare un pericolo; e credo che di recente siano state due volte alla base di situazioni pericolose per l’Irlanda. Quest’è l’epoca delle minoranze, di gruppi che governano piuttosto che rappresentare i veri interessi della popolazione. I due maggiori partiti in Irlanda, sebbene più rappresentativi rispetto alla maggior parte dei partiti in Inghilterra, sono stati troppo influenzati, a mio parere, dalla moda contemporanea.
 Celtici piuttosto che cattolici. Erano semplicemente troppo isolati per accettare quell’antico flusso inconscio del cristianesimo, le Crociate. Ma la situazione era ancora più complessa di così: erano addirittura troppo isolati per comprendere, non tanto le proprie esigenze internazionali, quanto la propria importanza a livello mondiale. Può sembrare un strano [[concepts/paradox|paradosso]] affermare che entrambi i partiti nazionalisti sottostimassero l’importanza dell’Irlanda come nazione. E ancora più sorprendente potrebbe essere dire che, in questo senso, il partito più nazionalista fosse anche quello meno realmente nazionalista. Tuttavia credo di riuscire a spiegare, sebbene in modo approssimativo, ciò che intendo dire.
 Erano principalmente i membri di Sinn Fein, quel partito nazionalista estremo, a non riconoscere che l’Irlanda fosse una nazione. Almeno, nel loro nazionalismo fallirono proprio nel momento in cui non intervennero nella guerra delle nazioni contro l’imperialismo prussiano. Il loro ragionamento implicava, inconsciamente, l’idea che l’Irlanda non fosse una nazione, ma soltanto una tribù o un insediamento di aborigeni. Se gli irlandesi fossero stati selvaggi oppressi dall’Impero britannico, forse sarebbero stati indifferenti al destino dell’Impero stesso; ma essendo persone civili, non potevano rimanere indifferenti al destino della civiltà stessa. I Kaffir, forse, avrebbero tratto beneficio dal crollo di tutto il sistema coloniale bianco, sia britannico che boero; gli irlandesi potrebbero aver simpatizzato con loro, ma non avrebbero voluto essere considerati allo stesso livello dei Kaffir. I Hottentot avrebbero potuto provare una sorta di felicità se l’ultima città europea fosse caduta in rovina o l’ultimo europeo fosse morto tra le torture; ma gli irlandesi non sarebbero mai diventati Hottentot, nemmeno se avessero sostenuto tale ideologia. In altre parole, se gli irlandesi fossero stati ciò che Cromwell pensava che fossero, forse avrebbero potuto concentrarsi soltanto sul proprio destino e non provare alcuna simpatia per la Francia; ma se sono ciò che Wolfe Tone riteneva che fossero, devono interessarsi alla Francia, proprio come lui stesso si interessava a essa. In breve, se gli irlandesi fossero barbari, non avrebbero motivo di preoccuparsi delle altre barbarie che devastano le città del mondo; ma se sono cittadini, devono interessarsi alle città che vengono distrutte. Questa è la vera ragione per cui il loro allontanamento dalla causa alleata fu un disastro per la loro stessa nazione. Non perché diede a degli sciocchi l’opportunità di lamentarsi di essere “anti-inglesi”, ma perché permise a persone molto più intelligenti di lamentarsi di essere “anti-europei”. Sono completamente d’accordo sul fatto che tale allontanamento fosse principalmente colpa del governo inglese; anzi, riconosco che richiedesse una straordinaria generosità da parte di un irlandese per adempiere al proprio dovere verso la propria nazione, nonostante venisse trattato in modo così arrogante. Tuttavia, è innegabile che oggi l’Irlanda sarebbe molto più vicina alla propria liberazione se gli irlandesi avessero fatto quel sforzo; se avessero capito che tale impegno doveva essere assunto non perché quei governanti lo volevano, ma proprio nonostante lo volessero. Il fatto ancora più curioso è questo: c’erano molti irlandesi, tra i più convinti sostenitori del nazionalismo irlandese, che comprendevano perfettamente questa realtà; la comprendevano con tale sincerità da combattere al fianco dei propri nemici contro gli nemici del mondo intero, e accettavano senza esitazione di essere insultati dagli inglesi e uccisi dai tedeschi. I Redmond e l’antico partito nazionalista, anche se hanno fallito, hanno il diritto di essere considerati tra i più eroici esempi di fallimento nella storia dell’Irlanda.
 Se la loro causa è persa, allora merita certamente di essere affrontata in un luogo dove le cause perse non vengono mai abbandonate. Ma anche l’antica guardia di Redmond, a mio parere, commise nello stesso errore, sebbene in modo più subdolo e su un argomento apparentemente secondario. Anche loro, i cui motivi erano altrettanto nobili quanto quelli dei Sinn Feiner, fallirono, in un certo senso, nel comprendere l’importanza internazionale di una nazione. Nel loro caso si trattava di questioni legate alla politica inglese e non europea; e poiché la situazione era molto più complessa, parlo con molta meno sicurezza al riguardo. Tuttavia credo che ci sia stato un momento decisivo nella storia della politica in cui alcuni irlandesi scelsero il lato sbagliato nella politica inglese, proprio come altri irlandesi successivamente scelsero il lato sbagliato nella politica europea. E con “lato sbagliato”, in entrambi i casi, intendo non solo il lato che non era coerente con la verità, ma anche il lato che non era davvero conforme agli interessi dell’Irlanda stessa. Un uomo può agire contro il corpo, persino il corpo principale, della sua nazione; ma se agisce contro l’anima della sua nazione, anche solo per salvarla, lui e la sua nazione ne soffrono entrambi.
-Posso spiegare meglio ciò che intendo ribadendo la realtà che un visitatore inglese ha effettivamente riscontrato nella politica irlandese, verso la fine della guerra. Può sembrare strano affermare che il fatto più incoraggiante per le relazioni anglo-irlandesi fosse proprio l’ira con cui gli irlandesi accusavano gli inglesi di spergiuro e tradimento. Eppure questa era la mia impressione sincera e concreta: il segno più positivo era proprio quell’odio scatenato dalla delusione derivante dall’idea della [[motifs/home|autonomia]]. Gli uomini non diventano furiosi se non sono delusi riguardo a qualcosa che desiderano davvero; e non si sentono delusi se non per qualcosa che erano effettivamente disposti ad accettare. Se l’Irlanda fosse stata totalmente favorevole a una separazione completa, la perdita della [[motifs/home|autonomia]] non sarebbe stata considerata una perdita. Anzi, forse addirittura un sollievo. Invece, viene vissuta come una vera e propria sconfitta. Almeno su questo posso testimoniare con assoluta certezza. Potrei anche sbagliarmi riguardo alle mie conclusioni. Ma credo che comunque l’Irlanda la considererebbe una vittoria: che una forma di [[motifs/home|autonomia]] sotto il dominio britannico potrebbe, nel lungo periodo, soddisfarla. Tuttavia, questa autonomia sarebbe efficace solo se le venisse concessa concretamente. Non se le venisse semplicemente promessa. Attualmente, gli irlandesi vedono il nostro governo semplicemente come un ostacolo al loro obiettivo.
+Posso spiegare meglio ciò che intendo ribadendo la realtà che un visitatore inglese ha effettivamente riscontrato nella politica irlandese, verso la fine della guerra. Può sembrare strano affermare che il fatto più incoraggiante per le relazioni anglo-irlandesi fosse proprio l’ira con cui gli irlandesi accusavano gli inglesi di spergiuro e tradimento. Eppure questa era la mia impressione sincera e concreta: il segno più positivo era proprio quell’odio scatenato dalla delusione derivante dall’idea della [[motifs/home|autonomia]]. Gli uomini non diventano furiosi se non sono delusi riguardo a qualcosa che desiderano davvero; e non si sentono delusi se non per qualcosa che erano effettivamente disposti ad accettare. Se l’Irlanda fosse stata totalmente favorevole a una separazione completa, la perdita della [[motifs/home|autonomia]] non sarebbe stata considerata una perdita. Anzi, forse addirittura un sollievo. Invece, viene vissuta come una vera e propria sconfitta. Almeno su questo posso testimoniare con assoluta certezza. Potrei anche sbagliarmi riguardo alle mie conclusioni. Ma credo che comunque l’Irlanda la considererebbe una vittoria: che una forma di [[motifs/home|autonomia]] sotto il dominio britannico potrebbe, nel lungo periodo, soddisfarla. Tuttavia, questa autonomia sarebbe efficace solo se le venisse concessa concretamente. Non se le venisse semplicemente promessa. Attualmente, gli irlandesi vedono il nostro [[government|governo]] semplicemente come un ostacolo al loro obiettivo.
 Come un bugiardo che ha infranto la sua parola. Non riesco nemmeno a esprimere quanto grande e negativa sia quell’idea nel contesto attuale; ostacola completamente il “percorso giusto” da seguire. E senza pretendere di considerarla davvero così semplice, la ritengo sostanzialmente vera. In ogni caso, è incredibile che il [[archetypes/king|Re]], i Lord e i Comuni di una grande nazione registrino nella loro legge l’esistenza di tale norma, per poi revocarla illegalmente in risposta alle pressioni di individui privati. Per coloro che traggono benefici da quella legge, questo rappresenta sicuramente un atto di tradimento. Gli irlandesi non avevano torto nel considerarlo tale, anche nel senso più stretto di tradimento e inganno.
-Lì dove hanno sbagliato, mi dispiace dirlo, è stato nel parlare di questa questione come se fosse l’unico e supremo esempio di tali inganni; quando in realtà tutta la nostra politica è piena di simili stratagemmi. In breve, la perdita della giustizia per l’Irlanda era semplicemente una parte della perdita della giustizia in Inghilterra: la perdita di ogni autorità morale nel governo, la perdita di popolarità del Parlamento, la plutocrazia segreta che rende facile accettare tangenti o infrangere promesse, la corruzione che permette di approvare leggi impopolari o promuovere persone disprezzate. Il legislatore non può far rispettare le sue leggi perché, indipendentemente dal fatto che queste siano popolari o meno, il legislatore stesso è completamente impopolare e continua a approvare leggi impopolari. Gli intrighi hanno sostituito la vera governanza; e un politico non può rivolgersi al pubblico, perché la parte più importante della sua politica viene condotta in privato. Il politico moderno conduce la sua vita pubblica in segreto; a volte si sforza di compensare questo comportamento fingendo di gestire la propria vita privata in modo trasparente. Mette addirittura il proprio bambino o il suo libro di compleanni sui giornali illustrati. Ma i suoi affari, che riguardano miliardi di persone in tutto il mondo, avvengono sempre nell’ombra.
+Lì dove hanno sbagliato, mi dispiace dirlo, è stato nel parlare di questa questione come se fosse l’unico e supremo esempio di tali inganni; quando in realtà tutta la nostra politica è piena di simili stratagemmi. In breve, la perdita della giustizia per l’Irlanda era semplicemente una parte della perdita della giustizia in Inghilterra: la perdita di ogni autorità morale nel [[government|governo]], la perdita di popolarità del Parlamento, la plutocrazia segreta che rende facile accettare tangenti o infrangere promesse, la corruzione che permette di approvare leggi impopolari o promuovere persone disprezzate. Il legislatore non può far rispettare le sue leggi perché, indipendentemente dal fatto che queste siano popolari o meno, il legislatore stesso è completamente impopolare e continua a approvare leggi impopolari. Gli intrighi hanno sostituito la vera [[government|governanza]]; e un politico non può rivolgersi al pubblico, perché la parte più importante della sua politica viene condotta in privato. Il politico moderno conduce la sua vita pubblica in segreto; a volte si sforza di compensare questo comportamento fingendo di gestire la propria vita privata in modo trasparente. Mette addirittura il proprio bambino o il suo libro di compleanni sui giornali illustrati. Ma i suoi affari, che riguardano miliardi di persone in tutto il mondo, avvengono sempre nell’ombra.
 Milionari che finiscono nelle sue tasche o nella sua cassaforte privata. A noi è permesso sapere tutto sui suoi cani e gatti; ma non su quegli animali più grandi e pericolosi, i suoi “tori” e “orsi”. C’è stato un momento in cui l’Inghilterra aveva l’opportunità di eliminare questo male parlamentare, proprio come in seguito l’Europa ebbe l’occasione – che fortunatamente sfruttò – di eliminare il male prussiano. La corruzione era diffusa in entrambi i partiti; ma l’opportunità di smascherarla si presentò proprio durante il governo di un partito a favore del “diritto al governo nazionale”; un partito che i Nazionalisti sostenevano esclusivamente per questo motivo. Nel caso Marconi, essi acconsentirono a insabbiare le truffe dei trafficanti ebrei, che sicuramente disprezzavano; proprio come in seguito alcuni membri del Sinn Féin acconsentirono a insabbiare le malvagità dei bulli prussiani, che anch’essi dovevano disprezzare. In entrambi i casi, il movente era totalmente disinteressato, persino idealistico. Fu la praticità ad risultare impraticabile. Facevo parte di un piccolo gruppo che si oppose alla messa a tacere del caso Marconi; ma riconoscevamo sempre le intenzioni patriottiche degli irlandesi che lo permisero. Tuttavia, la nostra critica riguardava soprattutto la loro strategia.
 Secondo il principio “falsus in uno, falsus in omnibus”: l’uomo che vi ingannerà su una cosa vi ingannerà anche su un’altra. Coloro che mentiranno su Marconi mentiranno anche sulla [[motifs/home|autonomia]] locale. Le convenzioni politiche che permettono di trattare le questioni legate a Marconi a un prezzo per il partito e a un altro prezzo per sé stessi, sono le stesse convenzioni che consentono di raccontare una cosa al signor John Redmond e un’altra al signor Edward Carson. L’uomo che, parlando in pubblico al Parlamento, insinuerà uno stato di cose diverso da quello che affermerà quando sarà chiamato a testimoniare in [[settings/court|tribunale]], appartiene allo stesso genere di persone.
 Con motivi del tutto onorevoli, essi aderirono alla concezione più ristretta del loro dovere nazionale. Sacrificarono tutto per il [[motifs/home|governo autonomo]]; persino i propri profondi sentimenti nazionali di disprezzo. Per il bene del [[motifs/home|governo autonomo]], o per la solenne promessa di esso, lasciarono che tali uomini rimanessero al potere; e in cambio scoprirono che quegli stessi uomini erano ancora al potere, mentre il [[motifs/home|governo autonomo]] era scomparso. Quello che intendo riguardo al Partito Nazionalista, e ciò che può essere considerato l’“ombra profetica” dell’errore commesso dal Sinn Féin, può essere ben simboleggiato da una delle figure più nobili di quel partito, o di qualsiasi altro. Un poeta irlandese, parlando con me della dizione incisiva dei contadini irlandesi, mi raccontò di essersi recentemente divertito in compagnia di un agricoltore ubriaco del Kerry: il cui discorso consisteva in una serie di domande su tutto ciò che esiste sotto il cielo e sulla terra, ognuna delle quali terminava con la stessa frase: “Me lo direte ora?” Alla fine, l’agricoltore chiese improvvisamente: “Conoscevate Tom Kettle?” Quando il poeta annuì, l’agricoltore rispose, come se trionfasse: “E perché ci sono così tante persone vive che dovrebbero essere morte, e così tante persone morte che dovrebbero essere vive? Me lo direte ora?” Questo episodio non è certo indegno di un antico poema eroico, né, quindi, indegno dell’eroe e poeta di cui si parla. “Patroclo è morto, ed era un uomo migliore di voi.” Thomas Michael Kettle fu forse l’esempio più rappresentativo di quella grandezza d’animo che ricevette così scarsi riconoscimenti da entrambe le parti del Canale della Manica, e in mezzo a tutte quelle controversie, una grandezza che caratterizzava il fratello di Redmond e molti dei suoi seguaci. Era un uomo intelligente, studioso, oratore; ambizioso in tutti gli ambiti delle arti della pace. Eppure morì combattendo contro i barbari, perché era un europeo troppo nobile per utilizzare quei barbari contro l’Inghilterra, proprio come l’Inghilterra avrebbe dovuto fare.
@@ -6805,7 +6805,7 @@ will know what he is doing and therefore what he cannot do;
 that he cannot gag a man and then [[motifs/cross|cross]]-examine him, any more than
 he can blow out his brains and then convince his intelligence.
 There may be--humanly speaking, there must be--a mass of injustices
-in the militaristic government of Ireland. The militarism itself
+in the militaristic [[government]] of Ireland. The militarism itself
 may be the least of them; but it must involve the concealment
 of all the rest.
 It has been remarked above that establishing militarism is a thing
@@ -6857,7 +6857,7 @@ an Irishman that he is in Ireland, as a red pillar-box reminds an
 Englishman that he is in England. But there must be a thousand things
 as practical as pillar-boxes which remind an Irishman that, if he is
 in his country, it is not yet a free country; everything connected
-with the principal seat of government reminds him of it perpetually.
+with the principal seat of [[government]] reminds him of it perpetually.
 It may not be easy for an Englishman to imagine how many of such
 daily details there are. But there is, after all, one very simple
 effort of the fancy, which would fix the fact for him for ever.
@@ -6987,7 +6987,7 @@ But if any one wishes to know what I mean by the untranslatable [[concepts/truth
 which makes a language national, it will be worth while to look at
 the mere diction of that speech, and note how its whole effect turns on
 certain phrases and customs which happen to be peculiar to the nation.
-It is [[motifs/well|well]] known that in Ireland the husband or head of the house is
+It is [[motifs/well|well]] known that in Ireland the husband or head of the [[house]] is
 always called "himself"; nor is it peculiar to the peasantry, but adopted,
 if partly in jest, by the gentry. A distinguished Dublin publicist,
 a landlord and leader among the more national aristocracy,
@@ -7031,7 +7031,7 @@ He can only see it, smell it, hear it, handle it, bump into it,
 fall over it, kill it, be killed for it, or be damned for doing it wrong.
 He must be content with these mere hints of its existence;
 but he cannot define it, because it is like a person; and no book
-of logic will undertake to define Aunt Jane or Uncle William.
+of [[logic]] will undertake to define Aunt Jane or Uncle William.
 We can only say, with more or less mournful conviction, that if
 Aunt Jane is not a person, there is no such thing as a person,
 and I say with equal conviction that if Ireland is not a nation,
@@ -7044,13 +7044,13 @@ on repressing Ireland, we are repressing a nation; if we are
 right to repress Ireland, we are right to repress a nation.
 After that we may consider what can be done, according to our
 opinions about the respect due to patriotism, the reality of
-cosmopolitan and imperial alternatives, and so on. I will debate
+cosmopolitan and imperial alternatives, and so on. I will [[debate]]
 with the man who does not want mankind divided into nations at all;
 I can imagine a case for the man who wants specially to restrain
 one particular nation, as I would restrain anti-national Prussia.
 But I will not argue with a man about whether Ireland is a nation,
 or about the yet more awful question of whether it is an island.
-I know there is a sceptical philosophy which suggests that all
+I know there is a sceptical [[philosophy]] which suggests that all
 ultimate ideas are only penultimate ideas; and therefore perhaps
 that all islands are really peninsulars. But I will claim to know
 what I mean by an island and what I mean by an individual;
@@ -7322,7 +7322,7 @@ saprà ciò che sta facendo e dunque ciò che non può fare;
 che non può imbavagliare un uomo e poi [[motifs/cross|contro]]interrogarlo, non più di quanto
 possa fargli saltare le cervella e poi convincerne l'intelligenza.
 Vi può essere — umanamente parlando, vi deve essere — una massa di ingiustizie
-nel governo militaristico dell'Irlanda. Il militarismo stesso
+nel [[government|governo]] militaristico dell'Irlanda. Il militarismo stesso
 può esserne la minore; ma deve comportare l'occultamento
 di tutto il resto.
 Si è osservato sopra che instaurare il militarismo è cosa
@@ -7374,7 +7374,7 @@ a un irlandese di trovarsi in Irlanda, come una rossa cassetta delle lettere ram
 inglese di trovarsi in Inghilterra. Ma vi devono essere mille cose
 pratiche quanto le cassette delle lettere che rammentano a un irlandese che, se è
 nel suo paese, esso non è ancora un paese libero; tutto ciò che è connesso
-con la principale sede del governo glielo rammenta perpetuamente.
+con la principale sede del [[government|governo]] glielo rammenta perpetuamente.
 Può non essere facile per un inglese immaginare quanti siano simili
 dettagli quotidiani. Ma c'è, dopotutto, uno sforzo dell'immaginazione assai
 semplice che fisserebbe per lui il fatto per sempre.
@@ -7504,7 +7504,7 @@ Ma se qualcuno desidera sapere cosa intendo per quella [[concepts/truth|verità]
 che rende nazionale una lingua, varrà la pena di guardare
 alla mera dizione di quel discorso, e notare come il suo intero effetto poggi su
 certe frasi e consuetudini che si dànno a essere proprie della nazione.
-È [[motifs/well|ben]] noto che in Irlanda il marito o capo di casa è
+È [[motifs/well|ben]] noto che in Irlanda il marito o capo di [[house|casa]] è
 sempre chiamato «himself», «lui stesso»; né ciò è proprio soltanto dei contadini, ma adottato,
 sia pure in parte per scherzo, anche dalla piccola nobiltà. Un illustre pubblicista dublinese,
 proprietario terriero e figura di spicco tra l'aristocrazia più nazionale,
@@ -7548,7 +7548,7 @@ Può soltanto vederla, fiutarla, udirla, maneggiarla, urtarvi contro,
 inciamparvi, ucciderla, esserne ucciso, o essere dannato per averle fatto torto.
 Deve accontentarsi di questi meri indizi della sua esistenza;
 ma non può definirla, perché è come una persona; e nessun libro
-di logica si assumerà l'impegno di definire la zia Jane o lo zio William.
+di [[logic|logica]] si assumerà l'impegno di definire la zia Jane o lo zio William.
 Possiamo solo dire, con più o meno mesta convinzione, che se
 la zia Jane non è una persona, allora la cosa chiamata persona non esiste,
 e io dico con pari convinzione che se l'Irlanda non è una nazione,
@@ -7561,13 +7561,13 @@ continuiamo a reprimere l'Irlanda, stiamo reprimendo una nazione; se abbiamo
 ragione di reprimere l'Irlanda, abbiamo ragione di reprimere una nazione.
 Dopo di ciò potremo considerare cosa si possa fare, secondo le nostre
 opinioni sul rispetto dovuto al patriottismo, sulla realtà delle
-alternative cosmopolite e imperiali, e così via. Discuterò
+alternative cosmopolite e imperiali, e così via. [[debate|Discuterò]]
 volentieri con l'uomo che non vuole affatto l'umanità divisa in nazioni;
 posso immaginare una tesi a favore dell'uomo che vuole specialmente frenare
 una particolare nazione, come io frenerei l'antinazionale Prussia.
 Ma non discuterò con un uomo se l'Irlanda sia una nazione,
 o sull'ancor più tremenda questione se sia un'isola.
-So che esiste una filosofia scettica la quale suggerisce che tutte le
+So che esiste una [[philosophy|filosofia]] scettica la quale suggerisce che tutte le
 idee ultime sono solo idee penultime; e dunque forse
 che tutte le isole sono in realtà penisole. Ma pretenderò di sapere
 cosa intendo per isola e cosa intendo per individuo;
@@ -7584,7 +7584,7 @@ sopra uno strano fianco di [[motifs/hill|collina]], e lei che incedeva come una 
 
 IX. Belfast and the Religious Problem
 
-Of that cloud of dream which seems to drift over so many Irish poems
+Of that cloud of dream which seems to drift over so many Irish [[Poems|poems]]
 and impressions, I felt very little in Ireland. There is a real
 meaning in this suggestion of a mystic [[motifs/sleep|sleep]]; but it does not mean
 what most of us imagine, and is not to be found where we expect it.
@@ -7611,7 +7611,7 @@ delicacy of the thrust. Of course there are multitudes who make
 no such deadly use of the national irony; but it is sufficiently
 common for even these to suffer from it; and after a [[motifs/time|time]] I began
 to understand a little that burden about bitterness of speech,
-which recurs so often in the songs of Mr. Yeats and other Irish poets.
+which recurs so often in the [[songs]] of Mr. Yeats and other Irish poets.
 "Though [[concepts/hope|hope]] fall from you and [[motifs/love|love]] [[motifs/decay|decay]] Burning in fires of
 a slanderous tongue."
 But there is nothing dreamy about the bitterness; the worst part
@@ -7654,7 +7654,7 @@ than that they permit any particular poetic interference with reason.
 says Mr. Yeats, and any one who has been in the atmosphere
 will know what he means. In so far as such things stray
 from reason, they tend rather to ritual than to riot.
-Poetry is in Ireland what humour is in [[settings/america|America]]; it is an institution.
+Poetry is in Ireland what [[Humour|humour]] is in [[settings/america|America]]; it is an institution.
 The Englishman, who is always for good and evil the amateur,
 takes both in a more occasional and even accidental fashion.
 It must always be remembered here that the ancient Irish civilisation
@@ -7684,13 +7684,13 @@ All these things amount to an excess of vigilance and realism;
 the mass of the people watch and pray, but even those who never pray
 never cease to watch. If they idealise [[motifs/sleep|sleep]], it is as the sleepless do;
 it might almost be said that they can only dream of dreaming.
-If a dream haunts them, it is rather as something that escapes them;
+If [[A Dream|a dream]] haunts them, it is rather as something that escapes them;
 and indeed some of their finest poetry is rather about seeking fairyland
 than about finding it. Granted all this, I may say that there was one
 place in Ireland where I did seem to find it, and not merely to seek it.
 There was one spot where I seemed to see the dream itself in possession;
 as one might see from afar a cloud resting on a single [[motifs/hill|hill]].
-There a dream, at once a [[motifs/desire|desire]] and a delusion, brooded above
+There [[A Dream|a dream]], at once a [[motifs/desire|desire]] and a delusion, brooded above
 a whole [[motifs/city|city]]. That place was Belfast.
 The description could be justified even literally and in detail.
 A man told me in northeast Ulster that he had heard a mother warning
@@ -7727,7 +7727,7 @@ than is commonly realised, especially by himself.
 Attacks and apologies abound about the matter of Belfast bigotry;
 but bigotry is by no means the worst thing in Belfast.
 I rather think it is the best. Nor is it the strongest example
-of what I mean, when I say that Belfast does really live in a dream.
+of what I mean, when I say that Belfast does really live in [[A Dream|a dream]].
 The other and more remarkable fault of the society has indeed
 a religious root; for nearly everything in [[concepts/history|history]] has a
 religious root, and especially nearly everything in Irish [[concepts/history|history]].
@@ -7741,7 +7741,7 @@ so fine a fellow as he thinks himself. And that is the chasm;
 and can be most shortly stated as I have often stated it in such debates,
 by saying that the Protestant generally says, "I am a good Protestant,"
 while the Catholic always says, "I am a bad Catholic."
-When I say that Belfast is dominated by a dream, I mean it
+When I say that Belfast is dominated by [[A Dream|a dream]], I mean it
 in the strict psychological sense; that something inside
 the mind is stronger than everything outside it. Nonsense is
 not only stronger than sense, but stronger than the senses.
@@ -7810,7 +7810,7 @@ that a [[concepts/union|union]] with the Catholic majority under [[motifs/home|H
 to them, all went to one tune, which recurred with a kind of [[characters/chorus|chorus]],
 "We won't have the likes of them making laws for the likes of us."
 It never seemed to [[motifs/cross|cross]] their minds that this is not a high example
-of any human morality; that judged by pagan _verecundia_ or Christian
+of any human [[morality]]; that judged by pagan _verecundia_ or Christian
 [[concepts/humility|humility]] or modern democratic brotherhood, it is simply the remark
 of a snob. The man in question is quite [[archetypes/innocent|innocent]] of all this;
 he has no notion of modesty, or even of mock modesty; he is not
@@ -7953,7 +7953,7 @@ It may be that the Protestantism is merely Paganism, with its brutish
 gods and giants lingering in corners of the more savage north.
 It may be that the Calvinism was itself a recurrence of the Paganism.
 But in any case, I am sure that this superiority, which can
-master men like a nightmare, can also vanish like a nightmare.
+master men like a [[nightmare]], can also vanish like a [[nightmare]].
 And I strongly suspect that in this matter also, as in the matter
 of property as viewed by a peasantry, the older civilisation will
 prove to be the real civilisation; and that a healthier society
@@ -7963,7 +7963,7 @@ The old tradition of Christendom was that the highest form
 of [[concepts/faith|faith]] was a [[concepts/doubt|doubt]]. It was the [[concepts/doubt|doubt]] of a man about his [[motifs/soul|soul]].
 It was admirably expressed to me by Mr. Yeats, who is now champion
 of Catholic orthodoxy, in stating his preference for mediaeval
-Catholicism as compared with modern humanitarianism; "Men were
+Catholicism as compared with modern [[Humanitarianism|humanitarianism]]; "Men were
 thinking then about their own sins, and now they are always
 thinking about other people's." And even by the Protestant test
 of progress, [[concepts/pride|pride]] is seen to be arrested by a premature paralysis.
@@ -7977,18 +7977,18 @@ the more we shall see that it must depend on some subordination
 of the [[concepts/self|self]] to a glory existing beyond it, and even in spite of it.
 Man always feels as a creature when he acts as a creator.
 When he carves a [[settings/cathedral|cathedral]] it is to make a [[archetypes/monster|monster]] that can [[motifs/swallow|swallow]] him.
-But the Nietzschean nightmare of swallowing the world is only a sort
+But the Nietzschean [[nightmare]] of swallowing the world is only a sort
 of yawning. When the evolutionary anarch has broken all links and
 laws and is at last free to speak, he finds he has nothing to say.
-So German songs under the imperial eagle fell silent like songbirds
+So German [[songs]] under the imperial eagle fell silent like songbirds
 under a hawk; and it is but rarely, and here and there, that a
 Belfast merchant liberates his [[motifs/soul|soul]] in a [[forms/lyric|lyric]]. He has to get
 Mr. Kipling to write a Belfast poem, in a style technically attuned
 to the Belfast pictures. There is the true Tara of the silent harp,
 and the throne and habitation of the dream; and it is there that
-the Celtic pessimists should weep in [[motifs/silence|silence]] for the end of song.
+the Celtic pessimists should weep in [[motifs/silence|silence]] for the end of [[Song|song]].
 Blowing one's own trumpet has not proved a good musical [[concepts/education|education]].
-In logic a wise man will always put the cart before the [[motifs/horse|horse]].
+In [[logic]] a wise man will always put the cart before the [[motifs/horse|horse]].
 That is to say, he will always put the end before the means;
 when he is considering the question as a whole.
 He does not construct a cart in order to exercise a [[motifs/horse|horse]].
@@ -8046,7 +8046,7 @@ in the south doing nothing, at all sorts of odd times; and this
 is doubtless the difference between the farm and the factory.
 The same gentleman showed me over the colossal shipping of the
 great harbour, with all machinery and transport leading up to it.
-No man of any [[concepts/imagination|imagination]] would be insensible to such titanic
+No man of any [[concepts/imagination|imagination]] would be insensible to such [[titanic]]
 experiments of his race; or deny the dark poetry of those
 furnaces fit for Vulcan or those hammers worthy of Thor.
 But as I stood on the dock I said to my guide: "Have you ever asked
@@ -8059,7 +8059,7 @@ to the priest."
 For there seems to be a fashionable fallacy to the effect
 that religious equality is something to be done and done with,
 that we may go on to the real matter of political equality.
-In philosophy it is the flat contrary that is true.
+In [[philosophy]] it is the flat contrary that is true.
 Political equality is something to be done and done with,
 that we may go on to the much more real matter of religion.
 At the Abbey Theatre I saw a forcible play by Mr. St. John Ervine,
@@ -8074,7 +8074,7 @@ as these people dismiss theology. We only get it, to forget it.
 It is right that men should have houses, right that they should have land,
 right that they should have laws to protect the land; but all these
 things are only machinery to make leisure for the labouring [[motifs/soul|soul]].
-The house is only a stage set up by stage carpenters for the acting
+The [[house]] is only a stage set up by stage carpenters for the acting
 of what Mr. J. B. Yeats has called "the drama of the [[motifs/home|home]]." All the
 most dramatic things happen at [[motifs/home|home]], from being born to being dead.
 What a man thinks about these things is his life; and to substitute
@@ -8101,7 +8101,7 @@ Mangin had struck the sensational blow that cut off the Germans
 as they marched upon Chalons; and with all the emotions of an [[concepts/exile|exile]],
 however temporary, I knew that my own land was secure.
 Somehow, the bad and good news together turned my mind more and more
-towards England; and all the inner humour and insular geniality
+towards England; and all the inner [[Humour|humour]] and insular geniality
 which even the Irish may some day be allowed to understand.
 As I went homewards on the next boat that started from the Irish port,
 and the Wicklow hills receded in a rainy and broken sunlight,
@@ -8139,4 +8139,4 @@ The End
 
 IX. Belfast e il problema religioso
 
-Di quella nube di sogno che sembra aleggiare su tante poesie e impressioni irlandesi, ben poco avvertii in Irlanda. C'è un senso reale in questa suggestione di un [[motifs/sleep|sonno]] mistico; ma non significa ciò che la maggior parte di noi immagina, né si trova dove ce l'aspettiamo. Al contrario, credo che l'impressione più viva che quella nazione mi lasciò fu di essere quasi innaturalmente desta. Direi quasi che l'Irlanda soffre d'insonnia. E ciò è vero non solo alla lettera, a proposito di quelle conversazioni formidabili, le prolungate attività di intelletti ricchi e irrequieti, capaci di bruciare le notti dall'oscurità all'alba. È vero sul versante dubbio [[motifs/well|come]] su quello delizioso; e quel temperamento ha qualcosa della vigilanza morbosa e perfino dell'irritabilità dell'insonnia. La sua lucidità non è soltanto sovrumana, ma talvolta, nel senso vero, disumana. La sua chiarezza intellettuale non sa resistere alla [[concepts/temptation|tentazione]] della crudeltà intellettuale. Se dovessi riassumere in una frase l'unico difetto davvero imputabile agli irlandesi, potrei farlo con semplicità. Direi che mi rattristava vederli tutti tanto più simpatici a me di quanto lo fossero l'uno all'altro. Ma è la nostra suprema stoltezza intendere sempre questo come se l'Irlanda fosse una sorta di Fiera di Donnybrook. È in realtà tutto il contrario di una rissa meramente turbolenta e irresponsabile. Lungi dal battersi coi randelli, si battono fin troppo di fioretto; la loro [[concepts/temptation|tentazione]] sta proprio nella finezza e perfino nella delicatezza dell'affondo. Certo vi sono moltitudini che non fanno un uso così letale dell'ironia nazionale; ma essa è tanto diffusa che perfino costoro ne soffrono; e dopo un [[motifs/time|po']] cominciai a capire un poco quel ritornello sull'amarezza del parlare, che ricorre così spesso nei canti del signor Yeats e di altri poeti irlandesi. «Benché la [[concepts/hope|speranza]] ti abbandoni e l'[[motifs/love|amore]] [[motifs/decay|s'estingua]], / ardendo nei fuochi di una lingua calunniosa.» Ma non c'è nulla di sognante in quell'amarezza; il peggio è che le critiche hanno sempre un tocco lucidissimo e logico di [[concepts/truth|verità]]. Non spetta a noi fare prediche agli irlandesi sul [[concepts/forgiveness|perdono]], noi che abbiamo dato loro tanto da perdonare. Ma se qualcuno che non avesse perduto il diritto di predicare loro, se san Patrizio tornasse a predicare, troverebbe che nulla è venuto meno, per tutte quelle ere di agonia, quanto a [[concepts/faith|fede]], [[concepts/honour|onore]] ed [[concepts/endurance|sopportazione]]; ma credo che potrebbe forse dire, ciò che io non ho diritto di dire, una parola sulla [[concepts/charity|carità]]. C'è invero un senso decisivo in cui gli irlandesi sono assai poetici: quello di accordare alla poesia un riconoscimento sociale speciale e serio. Ho talora espresso la fantasia che gli uomini dell'[[topoi/golden-age|Età dell'Oro]] parlassero spontaneamente in versi; ed è davvero vero che metà del discorrere irlandese è in versi. La citazione diventa recitazione. Ma è troppo ritmico per somigliare alle nostre recitazioni teatrali. È uno dei miei ricordi più forti e più cari, e una delle ragioni più precise per cui mi sentii straordinariamente felice a Dublino. Era un paradiso di poeti, in cui chi si sentisse incline a citare un libro o due del _Paradise Lost,_ o a illustrare il proprio pensiero con l'intera ballata dell'_Ancient Mariner,_ sente che sarà compreso meglio che altrove. Ma più si osserva questa qualità così nazionale, meno la si scambierà per qualcosa di meramente irresponsabile, o persino meramente emotivo. Il modo più breve di enunciare la [[concepts/truth|verità]] è dire che la poesia fa la parte della musica. È, in ogni senso dell'espressione, una funzione sociale. Una serata poetica è naturale quanto una serata musicale; ed essendo altrettanto naturale diventa ciò che si dice artificiale. Come in certi ambienti «Suona lei?» è piuttosto «Non suona?», così questi ambienti irlandesi si stupirebbero perché un uomo non recita, anziché perché recita. Un critico ostile, e specialmente un critico irlandese, potrebbe magari dire che gli irlandesi sono poetici perché non sono sufficientemente musicali. Posso immaginare il signor Bernard [[works/shaw-(chesterton)|Shaw]] dire qualcosa del genere. Ma si potrebbe [[motifs/well|ben]] ribattere che non sono soltanto musicali perché non acconsentono a essere soltanto emotivi. È assai più vero dire che assegnano alla poesia un posto ragionevole, che non dire che permettano una qualche particolare interferenza poetica con la ragione. «Ma io, le cui virtù sono le definizioni della mente analitica», dice il signor Yeats, e chiunque abbia respirato quell'atmosfera saprà cosa intende. Nella misura in cui simili cose si allontanano dalla ragione, tendono più al rito che al tumulto. La poesia è in Irlanda ciò che l'umorismo è in [[settings/america|America]]: un'istituzione. L'inglese, che è sempre, nel bene e nel male, il dilettante, prende entrambi in modo più occasionale e perfino accidentale. Occorre sempre ricordare qui che l'antica civiltà irlandese aveva una poesia di alto ordine, che non era meramente mistica, ma piuttosto matematica. Come l'ornamento celtico, il verso celtico tendeva troppo a schemi geometrici. Se ciò era irrazionale, non lo era per eccesso di emozione. Lo si potrebbe piuttosto definire irrazionale per eccesso di ragione. L'antica gerarchia dei menestrelli, ogni grado col proprio metro complicato, suggerisce che vi fosse qualcosa di cinese in una cosa così disumanamente civile. Eppure tutta questa etichetta svanita è in qualche modo nell'aria in Irlanda; e uomini e donne vi si muovono, come ai passi di una [[motifs/dance|danza]] perduta. Così, sia che consideriamo il senso in cui gli irlandesi sono davvero litigiosi, sia il senso in cui sono davvero poetici, troviamo che entrambi ci riconducono a una condizione di chiarezza che sembra l'esatto contrario di un semplice sogno. In entrambi i casi l'Irlanda è critica, e perfino critica verso [[concepts/self|sé stessa]]. L'amarezza che ho osato deplorare non è l'amarezza irlandese contro gli inglesi; quella la darei per non solo inevitabile, ma sostanzialmente giustificabile. È l'amarezza irlandese contro gli irlandesi; le osservazioni di un onesto nazionalista su un altro onesto nazionalista. Similmente, per quanto amino la poesia, non sempre amano i poeti; e c'è abbondanza di [[forms/satire|satira]] nelle loro conversazioni in proposito. Ho detto che metà del discorrere può consistere in poesia; direi quasi che l'altra metà può consistere in [[forms/parody|parodia]]. Tutte queste cose si riducono a un eccesso di vigilanza e realismo; la massa del popolo veglia e prega, ma perfino coloro che non pregano mai non cessano mai di vegliare. Se idealizzano il [[motifs/sleep|sonno]], lo fanno come chi non dorme; si potrebbe quasi dire che sanno solo sognare di sognare. Se un sogno li perseguita, è piuttosto come qualcosa che sfugge loro; e infatti parte della loro poesia più bella parla piuttosto del cercare il paese delle fate che del trovarlo. Ciò ammesso, posso dire che vi fu un luogo in Irlanda dove mi parve davvero di trovarlo, e non soltanto di cercarlo. Vi fu un punto in cui mi parve di vedere il sogno stesso in possesso del luogo; come si potrebbe scorgere da lontano una nube posata su un solo [[motifs/hill|colle]]. Là un sogno, insieme [[motifs/desire|desiderio]] e illusione, incombeva su un'intera [[motifs/city|città]]. Quel luogo era Belfast. La descrizione potrebbe giustificarsi anche alla lettera e nei dettagli. Un uomo mi raccontò, nell'Ulster nordorientale, di aver udito una madre allontanare i figli da uno stagno, o simile luogo di pericolo, dicendo: «Non andate là; ci sono dei piccoli papi, là». Un paese dove si può dire una cosa simile è, rispetto all'Inghilterra, come il paese degli elfi. Se non proprio una terra di fate, è quantomeno una terra di folletti. C'è qualcosa di delizioso nella fantasia di uno stagno pieno di questi elfi peculiari, come tanti tritoni, ciascuno completo della sua minuscola triplice [[motifs/crown|corona]] o delle chiavi incrociate. Questa è la differenza tra questo distretto manifatturiero e un distretto manifatturiero inglese, come quello di Manchester. A Manchester ci sono numerosi robusti anticonformisti; e senza dubbio dirigono qualcuna delle loro ammonizioni educative contro il sistema rappresentato dall'arcivescovo di Canterbury. Ma nessuno a Manchester, per quanto anticonformista, dice a un [[archetypes/child|bambino]] che una pozzanghera è una sorta di vivaio per arcivescovi di Canterbury, piccoli folletti in ghette e grembiule. Si potrà dire che è uno stagno assai stagnante quello che genera simili tritoni. Ma qualunque veduta ne prendiamo, resta vero, tanto per cominciare, che il [[concepts/paradox|paradosso]] si potrebbe dimostrare anche solo con cose superficiali come le superstizioni. L'Ulster protestante puzza di superstizione; è l'odore forte che davvero irrompe come una folata da Belfast, a differenza di Birmingham o Brixton. Ma per me c'è sempre qualcosa di umano e quasi umanizzante nella superstizione; e credo davvero che simili leggende persistenti sul Papa, essere tanto remoto e disumanizzato quanto il [[archetypes/king|Re]] delle Isole dei Cannibali, abbiano funzionato come una sorta di folclore negativo. E lo stesso si può dire, nella misura in cui è vero che la provincia commerciale ha conservato una teologia [[motifs/well|oltre]] che una mitologia. Dovunque gli uomini siano ancora teologici, c'è ancora qualche possibilità che siano logici. E in ciò l'ulsteriano calvinista può essere più irlandese cattolico di quanto comunemente si creda, specialmente da lui stesso. Attacchi e difese abbondano sulla questione del bigottismo di Belfast; ma il bigottismo non è affatto la cosa peggiore di Belfast. Anzi credo sia la migliore. Né è l'esempio più forte di ciò che intendo quando dico che Belfast vive davvero in un sogno. L'altro, più notevole difetto di quella società ha invero una radice religiosa; poiché quasi tutto nella [[concepts/history|storia]] ha una radice religiosa, e specialmente quasi tutto nella [[concepts/history|storia]] irlandese. Di quella origine teorica nella teologia dirò qualcosa tra un momento; qui basterà dire che ciò che ha prodotto il male più evidente e pratico è, in ultima analisi, la teologia stessa, ma non l'abitudine a essere teologici. È il credo; ma non la [[concepts/faith|fede]]. Nella misura in cui il protestante dell'Ulster ha davvero una [[concepts/faith|fede]], è davvero un bravo tipo; benché forse non così bravo come si crede. E questo è l'abisso; e lo si può enunciare nel modo più breve, come spesso l'ho enunciato in simili dibattiti, dicendo che il protestante di solito dice: «Sono un buon protestante», mentre il cattolico dice sempre: «Sono un cattivo cattolico». Quando dico che Belfast è dominata da un sogno, lo intendo nel senso psicologico stretto; che qualcosa dentro la mente è più forte di tutto ciò che le sta fuori. L'assurdo non è solo più forte del senno, ma più forte dei sensi. L'idea nella testa di un uomo può eclissare gli occhi nella sua testa. Mercanti degnissimi e gentilissimi mi dissero che a Belfast non c'era [[concepts/poverty|povertà]]. Non dissero che c'era meno [[concepts/poverty|povertà]] di quanto comunemente si affermasse, o meno [[concepts/poverty|povertà]] di prima, o meno che in luoghi simili altrove. Dissero che non ce n'era affatto. Come osservazione sul Paradiso Terrestre o sulla Nuova Gerusalemme, sarebbe impressionante. Come osservazione sulle strade, per cui loro ed io eravamo entrambi passati pochi istanti prima, era semplicemente un trionfo della pura [[concepts/madness|follia]] dell'[[concepts/imagination|immaginazione]] dell'uomo. Questi eminenti cittadini di Belfast mi accolsero nel modo più gentile e cortese; e non direi volentieri nulla a loro critica al di là di ciò che è necessario per le esigenze pratiche del loro paese e del mio. Ma in verità credo che la critica più grande che si possa muover loro sia che non capirebbero cosa la critica significhi. La rivestirò dunque in una [[forms/parable|parabola]], che non è men buona per essere stata anche un fatto reale. Quando mi si disse che a Belfast non c'era [[concepts/poverty|povertà]], osservai mitemente che la gente doveva avere un gusto singolare nel vestire. Mi fu gravemente assicurato che avevano davvero un gusto singolarissimo nel vestire. Ne trassi l'impressione generale che portare camicie o pantaloni decorati di larghi buchi a intervalli irregolari fosse una forma scusabile di civetteria o di stravaganza alla moda. E sarà sempre una gioia profonda e intima, nei ricordi della mia vita, che proprio mentre questi padri della [[motifs/city|città]] ed io uscivamo sui gradini dell'albergo, comparve davanti a noi uno dei più cenciosi ragazzini cenciosi che avessi visto, a chiedere un penny. Gli diedi un penny, al che questo gruppo di mercanti si trasfigurò d'un tratto in una sorta di plebaglia, vociferando: «Contro la legge! Contro la legge!», e lo cacciarono via in fretta. [[concepts/hope|Spero]] non sia poco amabile essermi tanto divertito a quella visione di una folla di magistrati che scacciava con tanto zelo un [[archetypes/child|bambino]] solitario come un gatto. Comunque sia, non sapevano quel che facevano; e, quel che è peggio, non sapevano di non saperlo. E non capirebbero, se glielo dicessi, quale leggenda si sarebbe potuta comporre attorno a quel [[archetypes/child|bambino]], nelle [[topoi/ages-of-the-world|età cristiane del mondo]]. Il punto è qui che il male dell'illusione non consiste nel bigottismo, ma nella [[concepts/vanity|vanità]]. Non è che un tale uomo di Belfast si creda nel giusto; ché ogni uomo onesto ha il diritto di credersi nel giusto. È che si crede buono, per non dire grande; e nessun uomo onesto può giungere a quella comoda convinzione senza un percorso di disonestà intellettuale. Ciò che separa questo spirito dal buon senso cristiano è il fatto che l'illusione, come la maggior parte delle illusioni insane, è meramente egoistica. È semplicemente il piacere di pensare stravagantemente [[motifs/well|bene]] di sé; e l'illimitato abbandonarsi a quel piacere fiacca assai più di qualsiasi abbandono al bere o alla dissipazione. Ma esso costruisce così completamente un cosmo irreale attorno all'io, che la critica del mondo non può essere avvertita neppure a fini mondani. Potrei dare molti esempi di questo elemento a Belfast, anche a paragone di Birmingham o Manchester. Il [[characters/lord-mayor|sindaco]] di Manchester può darsi non s'intenda molto di quadri; ma conosce uomini che se ne intendono. Ma le autorità di Belfast esporranno un quadro maniacalmente brutto come un capolavoro, solo perché glorifica Belfast. Nessuno oserebbe appendere un quadro simile a Manchester, a un tiro di sasso dal signor Charles Rowley. M'importa relativamente poco del caso dell'estetica; ma il caso è ancor più chiaro nell'etica. Tanto interamente questa gente è divisa dalle tradizioni più cristiane, che i loro stessi vanti li abbassano; e si degradano quando intendono esaltarsi. Non viene loro mai in mente che i loro strani criteri interni non sempre impressionano gli estranei. Un grande datore di lavoro mi presentò diversi dei suoi impiegati assai intelligenti; e posso volentieri testimoniare la sincerità della grande illusione di Belfast anche fra molti degli uomini più poveri di Belfast. Ma i sinceri sforzi loro e del loro padrone, per convincermi che un'[[concepts/union|unione]] con la maggioranza cattolica sotto il [[motifs/home|Home]] Rule era per loro intollerabile, andavano tutti sulla stessa aria, che tornava come una specie di [[characters/chorus|ritornello]]: «Non lasceremo che gente come loro faccia leggi per gente come noi». Non sembrava mai [[motifs/cross|sfiorare]] loro la mente che questo non sia un alto esempio di alcuna moralità umana; che, giudicato dalla _verecundia_ pagana o dall'[[concepts/humility|umiltà]] cristiana o dalla moderna fratellanza democratica, è semplicemente l'osservazione di uno snob. L'uomo in questione è del tutto [[archetypes/innocent|innocente]] di tutto ciò; non ha nozione della modestia, e nemmeno della falsa modestia; non solo è superiore, ma ritiene una superiorità rivendicare la superiorità. È qui che non possiamo evitare la teologia, perché non possiamo evitare la teoria. Poiché il punto è che perfino in teoria l'una atmosfera religiosa ora differisce dall'altra. Che la differenza abbia storicamente una radice religiosa è davvero indiscutibile; ma comunque è radicata profondissimamente. L'essenza del calvinismo era la certezza della salvezza; l'essenza del cattolicesimo è l'incertezza della salvezza. La forma moderna e materializzata di quella certezza è la superiorità; la fede di un uomo in una fissa aristocrazia morale di uomini come lui. Ma la [[concepts/truth|verità]] che qui ci riguarda è che, ormai a questo [[motifs/time|punto]] quantomeno, la superiorità è diventata una dottrina [[motifs/well|oltre]] che un vezzo. [[concepts/doubt|Dubito]] che questa scuola estrema di protestanti creda nell'[[concepts/humility|umiltà]] cristiana anche solo come ideale. [[concepts/doubt|Dubito]] che i più onesti fra loro professerebbero anche solo di crederci. Lo si può vedere chiaramente confrontandola con altre virtù cristiane; delle quali questo calvinismo decaduto offre almeno una versione, anche a chi la ritiene una perversione. Il [[historical-references/puritanism|Puritanesimo]] è una versione della purezza; anche se lo riteniamo una [[forms/parody|parodia]] della purezza. La filantropia è una versione della [[concepts/charity|carità]]; anche se la riteniamo una [[forms/parody|parodia]] della [[concepts/charity|carità]]. Ma in tutto questo protestantesimo commerciale non c'è alcuna versione dell'[[concepts/humility|umiltà]]; non c'è nemmeno una [[forms/parody|parodia]] dell'[[concepts/humility|umiltà]]. L'[[concepts/humility|Umiltà]] non è un ideale. L'[[concepts/humility|Umiltà]] non è nemmeno un'ipocrisia. Non c'è istituzione, né comandamento, né formula comune di parole, né modello popolare o racconto tradizionale, che dica ad alcuno, in qualsivoglia modo, che esista una cosa come il pericolo dell'[[concepts/pride|orgoglio]] spirituale. In breve, c'è qui una scuola di pensiero e di sentimento che considera decisamente la soddisfazione di [[concepts/self|sé]] una forza; contro la forte tradizione cristiana del resto del paese, che altrettanto decisamente la considera una debolezza. Questo è il vero nodo morale nella lotta moderna in Irlanda; né è confinato all'Irlanda. L'Inghilterra è stata profondamente contagiata da questa debolezza farisaica; ma, come ho detto, l'Inghilterra prende le cose vagamente là dove l'Irlanda le prende vividamente. Gli uomini di Belfast offrono quella [[motifs/city|città]] come qualcosa di supremo, unico e senza rivali; e hanno quasi ragione. Non c'è nulla di esattamente simile nell'industrialismo di questo paese; ma nondimeno, la lotta contro la sua religione dell'arroganza è stata combattuta fino in fondo altrove e su un campo più vasto. C'è un altro centro e cittadella da cui questa teoria, della forza in una superiorità [[concepts/self|auto]]ipnotica, ha disprezzato la cristianità. C'è stata una [[motifs/city|città]] rivale di Belfast; e il suo nome era Berlino. Storici di tutte le religioni e di nessuna religione potranno un giorno considerare un fatto storico, immagino, che la [[historical-references/reformation|Riforma]] protestante del Cinquecento (almeno nella forma che effettivamente assunse) fu un crollo barbarico, come quel prussianesimo che fu il prodotto ultimo del protestantesimo. Ma comunque sia, gli storici avranno sempre interesse a notare che esso produsse certe cose curiose e caratteristiche; che val la pena studiare, che ci piacciano o no. E uno dei suoi tratti, immagino, è stato questo: che ha avuto il potere di produrre certe istituzioni le quali progredirono assai rapidamente verso grande ricchezza e potere; che il mondo in un certo momento reputò invincibili; e che il mondo, l'attimo dopo, scoprì d'un tratto intollerabili. Così fu di tutta quella teologia calvinista, di cui Belfast resta ora il solitario missionario. Così fu, perfino ai nostri [[motifs/time|giorni]], di tutto quel capitalismo industriale di cui Belfast è ora l'avamposto assediato e quasi deserto. E così fu di Berlino come di Belfast; e un sottile prussiano potrebbe quasi lamentare una sorta di tradimento, nella bruschezza con cui il mondo si destò e la trovò mancante; nella subitaneità della reazione che la colpì impotente, così poco dopo che era stata reputata onnipotente. Queste cose sembrano racchiudere tutto l'avvenire; e in un lampo sono cose del passato. Belfast è una novità antiquata. Una cosa simile viene ancora scusata per il suo apparire _parvenu_ quando la si scopre _passé._ Per esempio, è solo venendo a contatto con alcune delle controversie attorno alla Convention che un inglese potrebbe rendersi conto di quanto la mentalità del capo di Belfast sia non tanto quella di un remoto Whig del Seicento, quanto quella di un recente Radicale dell'Ottocento. Il suo conformismo pareva quello di un vittoriano più che di un guglielmita; e pareva meno circoscritto dalla Confraternita Orangista che dal Cobden Club. È un fatto assai efficacemente ricoperto e imbrattato dai grossi pennelli del nostro Sistema dei Partiti, che ha l'arte di nascondere tanti fatti lampanti. Questo Partito Unionista in Irlanda è in larghissima parte inteso a resistere alla principale [[concepts/reform|riforma]] propugnata dal Partito Unionista in Inghilterra. Un umorista politico, che comprendesse la tradizione cobdeniana di Belfast e la tradizione chamberlainiana di Birmingham, potrebbe divertirsi immensamente appellandosi dall'una all'altra; congratulandosi con Belfast per le audaci dottrine protezioniste prevalenti in Irlanda; scongiurando il signor Bonar Law e i riformatori delle tariffe di non dimenticare mai la battaglia condotta da Belfast per i sacri principii del Libero Scambio. Ma il fatto che la scuola di Belfast sia semplicemente la scuola di Manchester è solo un aspetto di questa [[concepts/truth|verità]] generale sul brusco crollo nell'antichità; un'improvvisa messa in pensione. L'intera marcia di quell'industrialismo di Manchester non è solo arrestata ma rovesciata; l'intera posizione è aggirata da nuove forze che giungono da nuove direzioni; la ricchezza dei contadini le blocca la [[motifs/road|strada]] davanti; lo sciopero generale s'è levato a minacciarle le spalle. Quella strana nube di [[concepts/vanity|vanità]] che protegge [[concepts/self|sé stessa]] può ancora permettere a Belfast di credere in Belfast, ma la Gran Bretagna non crede davvero in Belfast. Forze filosofiche assai più ampie e profonde della politica hanno minato la concezione di un protestantesimo progressista in Irlanda. Direi io stesso che la mera ascendenza inglese in quell'isola divenne intellettualmente impossibile il giorno in cui Shaftesbury introdusse il primo Factory Act, e il giorno in cui Newman pubblicò le prime pagine dell'_Apologia._ Entrambi erano certamente Tory e probabilmente unionisti. Nessuno dei due era legato all'argomento né l'uno all'altro; l'uno odiava il Papa e l'altro il Liberatore. Ma l'industrialismo non fu mai più [[concepts/self|auto]]evidentemente superiore dopo il primo evento, né il protestantesimo [[concepts/self|auto]]evidentemente superiore dopo l'altro. E occorreva una superiorità torreggiante e [[concepts/self|auto]]evidente per scusare il dominio inglese in Irlanda. È solo sul terreno del fare indiscutibilmente il bene che gli uomini possono fare tanto male quanto quello. Alcuni orangisti prima della guerra si concedettero un bel paragone retorico tra Guglielmo di Prussia e Guglielmo d'Orange; e apertamente suggerirono che il nuovo Liberatore protestante del nord sarebbe venuto dalla [[settings/germany|Germania]] settentrionale. I miei ospiti più moderati a Belfast mi assicurarono che tali orangisti non potevano considerarsi rappresentativi né tantomeno responsabili. Su ciò non posso pronunciarmi. Gli orangisti potevano non essere rappresentativi; potevano non essere responsabili; ma sono ben certo che avevano ragione. Sono ben certo che quei poveri fanatici erano assai più vicini al nervo della [[concepts/truth|verità]] storica che non politicanti di professione come Sir Edward Carson o capitalisti industriali come Sir George Clark. Se mai vi fu al mondo un'alleanza naturale, sarebbe stata l'alleanza tra Belfast e Berlino. I fanatici saranno pure sciocchi, ma hanno qui la luce per cui le cose stolte possono confondere i sapienti. È il punto più luminoso di Belfast, il bigottismo, poiché se la luce nel suo [[concepts/body|corpo]] è tenebra, è pur sempre più luminosa della tenebra. Per quella visione che accompagna ovunque la virilità e la [[concepts/greatness|grandezza]] della religione, questi uomini hanno davvero penetrato il segreto protestante e il significato di quattrocento anni. Il loro protestantesimo è prussianesimo, non come termine ingiurioso, ma come termine di astratta e imparziale scienza etica. Belfast e Berlino stanno dalla stessa parte nella più profonda di tutte le questioni spirituali implicate nella guerra. E questa è la semplice questione se l'[[concepts/pride|orgoglio]] sia un peccato, e dunque una debolezza. La mentalità moderna, o gran parte di essa, ha seriamente sostenuto l'idea che sia una debolezza disarmare la critica con l'[[concepts/self|auto]]critica, e una forza sdegnare la critica per mezzo della [[concepts/self|fiducia in sé]]. Questa è la tesi per cui Berlino diede battaglia alla civiltà più antica in Europa; e quella per cui Belfast diede battaglia alla civiltà più antica in Irlanda. Può darsi, come ho suggerito, che tale [[concepts/pride|orgoglio]] protestante sia il vecchio calvinismo, con la sua fissa elezione dei pochi. Può darsi che il protestantesimo sia semplicemente paganesimo, coi suoi dèi bestiali e i giganti attardati negli angoli del nord più selvaggio. Può darsi che il calvinismo fosse esso stesso un riaffiorare del paganesimo. Ma in ogni caso, sono certo che questa superiorità, che può dominare gli uomini come un incubo, può anche svanire come un incubo. E sospetto fortemente che anche in questa materia, come nella materia della proprietà vista da un popolo di contadini, la civiltà più antica si rivelerà la vera civiltà; e che una società più sana tornerà a considerare l'[[concepts/pride|orgoglio]] una pestilenza, come i socialisti sono già tornati a considerare l'avarizia una pestilenza. L'antica tradizione della cristianità voleva che la forma più alta di [[concepts/faith|fede]] fosse un [[concepts/doubt|dubbio]]. Era il [[concepts/doubt|dubbio]] di un uomo sulla propria [[motifs/soul|anima]]. Me lo espresse mirabilmente il signor Yeats, ora campione dell'ortodossia cattolica, nel dichiarare la sua preferenza per il cattolicesimo medievale a paragone del moderno umanitarismo: «Gli uomini pensavano allora ai propri peccati, e ora pensano sempre a quelli altrui». E perfino secondo il criterio protestante del progresso, l'[[concepts/pride|orgoglio]] si rivela arrestato da una paralisi prematura. Il progresso è superiorità su sé stessi; ed è fermato di netto dalla superiorità sugli altri. Il caso è ancor più chiaro alla prova della poesia, che è assai più solida e permanente del progresso. Il Superuomo sarà stato una sorta di poema; ma non poté mai essere una sorta di poeta. Più tentiamo di analizzare quello strano elemento della [[concepts/wonder|meraviglia]], che è l'[[motifs/soul|anima]] di tutte le arti, più vedremo che esso deve dipendere da una certa subordinazione dell'[[concepts/self|io]] a una gloria che esiste al di là di esso, e perfino a suo dispetto. L'uomo si sente sempre creatura quando agisce da creatore. Quando scolpisce una [[settings/cathedral|cattedrale]] è per fare un [[archetypes/monster|mostro]] capace di [[motifs/swallow|inghiottirlo]]. Ma l'incubo nietzschiano di inghiottire il mondo non è che una specie di sbadiglio. Quando l'anarca evoluzionista ha spezzato tutti i legami e le leggi ed è finalmente libero di parlare, scopre di non aver nulla da dire. Così i canti tedeschi sotto l'aquila imperiale ammutolirono come uccelli canori sotto uno sparviero; ed è solo di rado, qua e là, che un mercante di Belfast libera la propria [[motifs/soul|anima]] in una [[forms/lyric|lirica]]. Deve farsi scrivere dal signor Kipling una poesia su Belfast, in uno stile tecnicamente intonato ai quadri di Belfast. Ecco la vera Tara dell'arpa silenziosa, e il trono e la dimora del sogno; ed è là che i pessimisti celtici dovrebbero piangere in [[motifs/silence|silenzio]] la fine del canto. Suonare la propria tromba non s'è rivelato una buona [[concepts/education|educazione]] musicale. In logica un uomo saggio metterà sempre il carro davanti al [[motifs/horse|cavallo]]. Vale a dire, metterà sempre il fine davanti ai mezzi; quando considera la questione nel suo insieme. Non costruisce un carro allo scopo di far esercitare un [[motifs/horse|cavallo]]. Impiega un [[motifs/horse|cavallo]] per tirare un carro, e qualunque cosa vi sia nel carro. In tutto il ragionare moderno c'è la tendenza a rendere la mera bestia da soma politica più importante del cocchio dell'uomo che essa deve trainare. Ciò ha portato a liquidare tutte queste questioni spirituali in favore di ciò che si chiamano questioni sociali; e questo a un trattamento troppo facile di cose come la questione religiosa a Belfast. C'è una questione religiosa; e non avrà una risposta irreligiosa. Non le si farà fronte con la limitazione della [[concepts/faith|fede]] cristiana, ma piuttosto con l'estensione della [[concepts/charity|carità]] cristiana. Ma se un uomo dice che non c'è differenza tra un protestante e un cattolico, e che entrambi possono agire in modo identico dovunque tranne che in una chiesa o cappella, sta guidando follemente il [[motifs/horse|cavallo]] da tiro avendo dimenticato il carro. Una religione non è la chiesa in cui un uomo va, ma il cosmo in cui vive; e se qualche scettico lo dimentica, il più forsennato fanatico che batte un tamburo orangista sulla Battaglia del Boyne è un filosofo migliore di lui. Molte persone incolte e alcune colte a Belfast credono, in tutta sincerità, che i preti romani siano demoni, in attesa solo di riaccendere i fuochi dell'[[historical-references/inquisition|Inquisizione]]. Per due semplici ragioni, tuttavia, mi rifiutai di prendere questo fatto come prova di alcunché, se non della loro sincerità. Primo, perché le storie, ridotte al loro rudimento di [[concepts/truth|verità]], si risolvevano in genere nell'[[forms/riddle|enigma]] di poveri cattolici romani che davano denaro alla propria religione; e parevano deplorare non tanto una dipendenza dai preti quanto un'indipendenza dai datori di lavoro. E secondo, per una ragione tratta dalla mia esperienza, [[motifs/well|oltre]] che dal sapere comune, riguardo alla gentry protestante del sud dell'Irlanda. Gli unionisti del sud parlavano del tutto privi di questo speciale orrore verso i preti o i contadini cattolici. Brontolavano contro di loro o ne ridevano come un uomo brontola o ride dei propri vicini; ma evidentemente non sognavano che il prete li bruciasse più di quanto sognassero che li mangiasse. Se i preti fossero neri come li dipingevano i neri protestanti, sarebbero al loro peggio là dove sono in maggioranza; e sarebbero conosciuti al loro peggio dalla minoranza. Era chiaro che Belfast serbava la tradizione più bigotta, non perché conoscesse di più i preti, ma perché ne conosceva di meno; non perché fosse sul posto, ma perché il posto le era precluso. Un'illusione ancor più generale era l'idea che tutti gli irlandesi del sud sognassero e non lavorassero. Feci notare che anche questo era incoerente con l'esperienza concreta; giacché in tutto il mondo chi fa rendere una piccola fattoria deve lavorare davvero durissimo. In realtà storica, la vecchia nozione che il contadino irlandese non lavorasse, ma solo sognasse, aveva una spiegazione semplice. Significava soltanto che non lavorava per il profitto di un capitalista; ma sognava di lavorare un giorno per il proprio profitto. Ma nella tradizione può esserci stata anche questa [[concepts/truth|verità]] distorta; che un contadino libero, mentre estende il proprio lavoro, si crea le proprie feste. Non è ozioso tutto il giorno, ma può essere ozioso in qualunque [[motifs/time|momento]] del giorno; non sogna ogni volta che ne ha voglia, ma sogna ogni volta che lo decide. Un famoso industriale di Belfast, uomo di capacità, ma che scuoteva il capo davanti all'inspiegabile prevalenza dei preti, mi assicurò di aver visto contadini nel sud non far nulla, alle ore più disparate; e questa è senza dubbio la differenza tra la fattoria e la fabbrica. Lo stesso signore mi fece visitare il colossale naviglio del grande porto, con tutti i macchinari e i trasporti che vi conducevano. Nessun uomo dotato di [[concepts/imagination|immaginazione]] resterebbe insensibile a simili esperimenti titanici della propria razza; o negherebbe la cupa poesia di quelle fornaci degne di Vulcano o di quei magli degni di Thor. Ma mentre stavo sulla banchina dissi alla mia guida: «Vi siete mai chiesto a che serva tutto questo?» Era un uomo intelligente, un [[concepts/exile|esule]] dalla metafisica Scozia, e capì cosa intendevo. «Non lo so», disse, «forse siamo solo [[motifs/insects|insetti]] che costruiscono una barriera corallina. Non so a che serva la barriera corallina.» «Forse», dissi, «è di questo che il contadino [[motifs/dreams|sogna]], ed è per questo che ascolta il prete.» Poiché sembra esserci una fallacia alla moda secondo cui l'uguaglianza religiosa è qualcosa da sbrigare e liquidare, per poter passare alla vera faccenda dell'uguaglianza politica. In filosofia è vero l'esatto contrario. L'uguaglianza politica è qualcosa da sbrigare e liquidare, per poter passare alla ben più reale faccenda della religione. All'Abbey Theatre vidi un vigoroso dramma del signor St. John Ervine, intitolato _The Mixed [[motifs/marriage|Marriage]];_ che ricorderei se non altro per la bella interpretazione della signorina Maire O'Neill. Ma il dramma mi commosse moltissimo come dramma; eppure sentii che la presenza di questa fallacia lo falsificava in qualche misura. Il drammaturgo pareva risentirsi di uno scisma solo perché interferiva con uno sciopero. Ma l'unico scopo dello scioperare è la libertà; e l'unico scopo della libertà è la vita: cosa interamente spirituale. È la libertà economica che andrebbe liquidata come questa gente liquida la teologia. La otteniamo solo per dimenticarla. È giusto che gli uomini abbiano case, giusto che abbiano terra, giusto che abbiano leggi a protezione della terra; ma tutte queste cose sono solo macchinari per procurare ozio all'[[motifs/soul|anima]] che lavora. La casa è solo un palcoscenico allestito dai macchinisti per la recita di ciò che il signor J. B. Yeats ha chiamato «il dramma del [[motifs/home|focolare]]». Tutte le cose più drammatiche accadono in [[motifs/home|casa]], dal nascere al morire. Ciò che un uomo pensa di queste cose è la sua vita; e sostituirvi un affaccendarsi di campagne elettorali e legislazione è aggirarsi tra quinte e carrucole sul lato sbagliato di scenari di cartone; e non recitare mai il dramma. E quel dramma è sempre una sacra rappresentazione; e il nome del suo [[archetypes/hero|eroe]] è Everyman. Quando tornai dallo splendore desolato del mare e della costa del Donegal, e rividi il [[motifs/garden|giardino]] quadrato e la statua fuori dall'albergo di Dublino, non sapevo di tornare a qualcosa che si sarebbe [[motifs/well|ben]] potuto dire ancor più desolato. Poiché fu quando entrai nell'albergo che per la prima volta scoprii che era colmo dell'orribile [[forms/tragedy|tragedia]] del _Leinster._ Avevo visto spesso la [[motifs/death|morte]] in una [[motifs/home|casa]], ma mai la [[motifs/death|morte]] che decimava una vasta locanda; e c'era qualcosa di stranamente sconvolgente nei posti vuoti di uomini e donne con cui avevo chiacchierato tanto oziosamente pochi giorni prima. Era quasi come se vi fosse più [[forms/tragedy|tragedia]] nel troncare di simili chiacchiere insignificanti che nel recidere legami di una vita intera. Ma c'era tutta la dignità [[motifs/well|oltre]] che la [[forms/tragedy|tragedia]] dell'uomo; e fui lieto, prima di lasciare l'Irlanda, di aver visto il lato più nobile della guarnigione anglo-irlandese; e di aver conosciuto uomini del mio stesso [[motifs/blood|sangue]], per quanto in errore, sopportare così la fine delle cose. Con le cattive notizie dal mare giunsero notizie migliori dalla guerra; Mangin aveva sferrato il colpo clamoroso che tagliò fuori i tedeschi mentre marciavano su Châlons; e con tutte le emozioni di un [[concepts/exile|esule]], per quanto temporaneo, seppi che la mia terra era al sicuro. In qualche modo, le cattive e le buone notizie insieme volsero la mia mente sempre più verso l'Inghilterra; e verso tutto l'umorismo intimo e la geniale bonarietà insulare che perfino agli irlandesi un giorno sarà forse concesso di comprendere. Mentre volgevo verso casa sul primo battello che partì dal porto irlandese, e le colline di Wicklow arretravano in una luce piovosa e spezzata, era con i più semplici di quegli antichi appetiti con cui un uomo dovrebbe tornare al proprio paese. Solo che mi si aggrappava, innegabile, un sentimento riguardo all'Irlanda, un sentimento che non potevo trasferire all'Inghilterra; che mi chiamava come un paese degli elfi di tante figure liete, da [[characters/puck|Puck]] a [[works/pickwick-(chesterton)|Pickwick]]. Guardando quelle colline piovose, sapevo almeno che stavo guardando, forse per l'ultima [[motifs/time|volta]], qualcosa di radicato nella [[concepts/faith|fede]] cristiana. Là almeno l'ideale cristiano era qualcosa di più di un ideale; era, in un senso speciale, reale. Era tanto reale da comparire perfino nelle statistiche. Era tanto [[concepts/self|auto]]evidente da essere visto perfino dai sociologi. Era una terra dove la nostra religione aveva reso visibile perfino la propria visione. Aveva reso popolari perfino le proprie virtù impopolari. Dovrà essere, nei tempi a venire, un banco di prova ultimo, per stabilire se un popolo che prenderà quel nome sul serio, e perfino solidamente, sia destinato a soffrire o a riuscire. Mentre la lunga linea della costa montuosa si dispiegava davanti a me ebbi un'illusione ottica; può darsi che molti l'abbiano avuta prima. Man mano che nuovi tratti di costa e linee di alture si dispiegavano, ebbi la fantasia che l'intera terra non arretrasse ma avanzasse, come qualcosa che spalanca le braccia al mondo. Un casuale brandello di sole si posava, come uno stendardo lacerato, sul [[motifs/hill|colle]] che credo si chiami in irlandese la Montagna delle Lance d'Oro; e avrei potuto immaginare che le lance e lo stendardo stessero avanzando. E in quel lampo ricordai che gli uomini di quest'isola erano un tempo usciti, non come torce di conquistatori o distruttori; ma come missionari nella piena mezzanotte dei Secoli Bui, come una moltitudine di candele in cammino, che furono la luce del mondo. Fine
+Di quella nube di sogno che sembra aleggiare su tante [[Poems|poesie]] e impressioni irlandesi, ben poco avvertii in Irlanda. C'è un senso reale in questa suggestione di un [[motifs/sleep|sonno]] mistico; ma non significa ciò che la maggior parte di noi immagina, né si trova dove ce l'aspettiamo. Al contrario, credo che l'impressione più viva che quella nazione mi lasciò fu di essere quasi innaturalmente desta. Direi quasi che l'Irlanda soffre d'insonnia. E ciò è vero non solo alla lettera, a proposito di quelle conversazioni formidabili, le prolungate attività di intelletti ricchi e irrequieti, capaci di bruciare le notti dall'oscurità all'alba. È vero sul versante dubbio [[motifs/well|come]] su quello delizioso; e quel temperamento ha qualcosa della vigilanza morbosa e perfino dell'irritabilità dell'insonnia. La sua lucidità non è soltanto sovrumana, ma talvolta, nel senso vero, disumana. La sua chiarezza intellettuale non sa resistere alla [[concepts/temptation|tentazione]] della crudeltà intellettuale. Se dovessi riassumere in una frase l'unico difetto davvero imputabile agli irlandesi, potrei farlo con semplicità. Direi che mi rattristava vederli tutti tanto più simpatici a me di quanto lo fossero l'uno all'altro. Ma è la nostra suprema stoltezza intendere sempre questo come se l'Irlanda fosse una sorta di Fiera di Donnybrook. È in realtà tutto il contrario di una rissa meramente turbolenta e irresponsabile. Lungi dal battersi coi randelli, si battono fin troppo di fioretto; la loro [[concepts/temptation|tentazione]] sta proprio nella finezza e perfino nella delicatezza dell'affondo. Certo vi sono moltitudini che non fanno un uso così letale dell'ironia nazionale; ma essa è tanto diffusa che perfino costoro ne soffrono; e dopo un [[motifs/time|po']] cominciai a capire un poco quel ritornello sull'amarezza del parlare, che ricorre così spesso nei [[songs|canti]] del signor Yeats e di altri poeti irlandesi. «Benché la [[concepts/hope|speranza]] ti abbandoni e l'[[motifs/love|amore]] [[motifs/decay|s'estingua]], / ardendo nei fuochi di una lingua calunniosa.» Ma non c'è nulla di sognante in quell'amarezza; il peggio è che le critiche hanno sempre un tocco lucidissimo e logico di [[concepts/truth|verità]]. Non spetta a noi fare prediche agli irlandesi sul [[concepts/forgiveness|perdono]], noi che abbiamo dato loro tanto da perdonare. Ma se qualcuno che non avesse perduto il diritto di predicare loro, se san Patrizio tornasse a predicare, troverebbe che nulla è venuto meno, per tutte quelle ere di agonia, quanto a [[concepts/faith|fede]], [[concepts/honour|onore]] ed [[concepts/endurance|sopportazione]]; ma credo che potrebbe forse dire, ciò che io non ho diritto di dire, una parola sulla [[concepts/charity|carità]]. C'è invero un senso decisivo in cui gli irlandesi sono assai poetici: quello di accordare alla poesia un riconoscimento sociale speciale e serio. Ho talora espresso la fantasia che gli uomini dell'[[topoi/golden-age|Età dell'Oro]] parlassero spontaneamente in versi; ed è davvero vero che metà del discorrere irlandese è in versi. La citazione diventa recitazione. Ma è troppo ritmico per somigliare alle nostre recitazioni teatrali. È uno dei miei ricordi più forti e più cari, e una delle ragioni più precise per cui mi sentii straordinariamente felice a Dublino. Era un paradiso di poeti, in cui chi si sentisse incline a citare un libro o due del _Paradise Lost,_ o a illustrare il proprio pensiero con l'intera ballata dell'_Ancient Mariner,_ sente che sarà compreso meglio che altrove. Ma più si osserva questa qualità così nazionale, meno la si scambierà per qualcosa di meramente irresponsabile, o persino meramente emotivo. Il modo più breve di enunciare la [[concepts/truth|verità]] è dire che la poesia fa la parte della musica. È, in ogni senso dell'espressione, una funzione sociale. Una serata poetica è naturale quanto una serata musicale; ed essendo altrettanto naturale diventa ciò che si dice artificiale. Come in certi ambienti «Suona lei?» è piuttosto «Non suona?», così questi ambienti irlandesi si stupirebbero perché un uomo non recita, anziché perché recita. Un critico ostile, e specialmente un critico irlandese, potrebbe magari dire che gli irlandesi sono poetici perché non sono sufficientemente musicali. Posso immaginare il signor Bernard [[works/shaw-(chesterton)|Shaw]] dire qualcosa del genere. Ma si potrebbe [[motifs/well|ben]] ribattere che non sono soltanto musicali perché non acconsentono a essere soltanto emotivi. È assai più vero dire che assegnano alla poesia un posto ragionevole, che non dire che permettano una qualche particolare interferenza poetica con la ragione. «Ma io, le cui virtù sono le definizioni della mente analitica», dice il signor Yeats, e chiunque abbia respirato quell'atmosfera saprà cosa intende. Nella misura in cui simili cose si allontanano dalla ragione, tendono più al rito che al tumulto. La poesia è in Irlanda ciò che l'[[Humour|umorismo]] è in [[settings/america|America]]: un'istituzione. L'inglese, che è sempre, nel bene e nel male, il dilettante, prende entrambi in modo più occasionale e perfino accidentale. Occorre sempre ricordare qui che l'antica civiltà irlandese aveva una poesia di alto ordine, che non era meramente mistica, ma piuttosto matematica. Come l'ornamento celtico, il verso celtico tendeva troppo a schemi geometrici. Se ciò era irrazionale, non lo era per eccesso di emozione. Lo si potrebbe piuttosto definire irrazionale per eccesso di ragione. L'antica gerarchia dei menestrelli, ogni grado col proprio metro complicato, suggerisce che vi fosse qualcosa di cinese in una cosa così disumanamente civile. Eppure tutta questa etichetta svanita è in qualche modo nell'aria in Irlanda; e uomini e donne vi si muovono, come ai passi di una [[motifs/dance|danza]] perduta. Così, sia che consideriamo il senso in cui gli irlandesi sono davvero litigiosi, sia il senso in cui sono davvero poetici, troviamo che entrambi ci riconducono a una condizione di chiarezza che sembra l'esatto contrario di un semplice sogno. In entrambi i casi l'Irlanda è critica, e perfino critica verso [[concepts/self|sé stessa]]. L'amarezza che ho osato deplorare non è l'amarezza irlandese contro gli inglesi; quella la darei per non solo inevitabile, ma sostanzialmente giustificabile. È l'amarezza irlandese contro gli irlandesi; le osservazioni di un onesto nazionalista su un altro onesto nazionalista. Similmente, per quanto amino la poesia, non sempre amano i poeti; e c'è abbondanza di [[forms/satire|satira]] nelle loro conversazioni in proposito. Ho detto che metà del discorrere può consistere in poesia; direi quasi che l'altra metà può consistere in [[forms/parody|parodia]]. Tutte queste cose si riducono a un eccesso di vigilanza e realismo; la massa del popolo veglia e prega, ma perfino coloro che non pregano mai non cessano mai di vegliare. Se idealizzano il [[motifs/sleep|sonno]], lo fanno come chi non dorme; si potrebbe quasi dire che sanno solo sognare di sognare. Se [[A Dream|un sogno]] li perseguita, è piuttosto come qualcosa che sfugge loro; e infatti parte della loro poesia più bella parla piuttosto del cercare il paese delle fate che del trovarlo. Ciò ammesso, posso dire che vi fu un luogo in Irlanda dove mi parve davvero di trovarlo, e non soltanto di cercarlo. Vi fu un punto in cui mi parve di vedere il sogno stesso in possesso del luogo; come si potrebbe scorgere da lontano una nube posata su un solo [[motifs/hill|colle]]. Là [[A Dream|un sogno]], insieme [[motifs/desire|desiderio]] e illusione, incombeva su un'intera [[motifs/city|città]]. Quel luogo era Belfast. La descrizione potrebbe giustificarsi anche alla lettera e nei dettagli. Un uomo mi raccontò, nell'Ulster nordorientale, di aver udito una madre allontanare i figli da uno stagno, o simile luogo di pericolo, dicendo: «Non andate là; ci sono dei piccoli papi, là». Un paese dove si può dire una cosa simile è, rispetto all'Inghilterra, come il paese degli elfi. Se non proprio una terra di fate, è quantomeno una terra di folletti. C'è qualcosa di delizioso nella fantasia di uno stagno pieno di questi elfi peculiari, come tanti tritoni, ciascuno completo della sua minuscola triplice [[motifs/crown|corona]] o delle chiavi incrociate. Questa è la differenza tra questo distretto manifatturiero e un distretto manifatturiero inglese, come quello di Manchester. A Manchester ci sono numerosi robusti anticonformisti; e senza dubbio dirigono qualcuna delle loro ammonizioni educative contro il sistema rappresentato dall'arcivescovo di Canterbury. Ma nessuno a Manchester, per quanto anticonformista, dice a un [[archetypes/child|bambino]] che una pozzanghera è una sorta di vivaio per arcivescovi di Canterbury, piccoli folletti in ghette e grembiule. Si potrà dire che è uno stagno assai stagnante quello che genera simili tritoni. Ma qualunque veduta ne prendiamo, resta vero, tanto per cominciare, che il [[concepts/paradox|paradosso]] si potrebbe dimostrare anche solo con cose superficiali come le superstizioni. L'Ulster protestante puzza di superstizione; è l'odore forte che davvero irrompe come una folata da Belfast, a differenza di Birmingham o Brixton. Ma per me c'è sempre qualcosa di umano e quasi umanizzante nella superstizione; e credo davvero che simili leggende persistenti sul Papa, essere tanto remoto e disumanizzato quanto il [[archetypes/king|Re]] delle Isole dei Cannibali, abbiano funzionato come una sorta di folclore negativo. E lo stesso si può dire, nella misura in cui è vero che la provincia commerciale ha conservato una teologia [[motifs/well|oltre]] che una mitologia. Dovunque gli uomini siano ancora teologici, c'è ancora qualche possibilità che siano logici. E in ciò l'ulsteriano calvinista può essere più irlandese cattolico di quanto comunemente si creda, specialmente da lui stesso. Attacchi e difese abbondano sulla questione del bigottismo di Belfast; ma il bigottismo non è affatto la cosa peggiore di Belfast. Anzi credo sia la migliore. Né è l'esempio più forte di ciò che intendo quando dico che Belfast vive davvero in [[A Dream|un sogno]]. L'altro, più notevole difetto di quella società ha invero una radice religiosa; poiché quasi tutto nella [[concepts/history|storia]] ha una radice religiosa, e specialmente quasi tutto nella [[concepts/history|storia]] irlandese. Di quella origine teorica nella teologia dirò qualcosa tra un momento; qui basterà dire che ciò che ha prodotto il male più evidente e pratico è, in ultima analisi, la teologia stessa, ma non l'abitudine a essere teologici. È il credo; ma non la [[concepts/faith|fede]]. Nella misura in cui il protestante dell'Ulster ha davvero una [[concepts/faith|fede]], è davvero un bravo tipo; benché forse non così bravo come si crede. E questo è l'abisso; e lo si può enunciare nel modo più breve, come spesso l'ho enunciato in simili dibattiti, dicendo che il protestante di solito dice: «Sono un buon protestante», mentre il cattolico dice sempre: «Sono un cattivo cattolico». Quando dico che Belfast è dominata da [[A Dream|un sogno]], lo intendo nel senso psicologico stretto; che qualcosa dentro la mente è più forte di tutto ciò che le sta fuori. L'assurdo non è solo più forte del senno, ma più forte dei sensi. L'idea nella testa di un uomo può eclissare gli occhi nella sua testa. Mercanti degnissimi e gentilissimi mi dissero che a Belfast non c'era [[concepts/poverty|povertà]]. Non dissero che c'era meno [[concepts/poverty|povertà]] di quanto comunemente si affermasse, o meno [[concepts/poverty|povertà]] di prima, o meno che in luoghi simili altrove. Dissero che non ce n'era affatto. Come osservazione sul Paradiso Terrestre o sulla Nuova Gerusalemme, sarebbe impressionante. Come osservazione sulle strade, per cui loro ed io eravamo entrambi passati pochi istanti prima, era semplicemente un trionfo della pura [[concepts/madness|follia]] dell'[[concepts/imagination|immaginazione]] dell'uomo. Questi eminenti cittadini di Belfast mi accolsero nel modo più gentile e cortese; e non direi volentieri nulla a loro critica al di là di ciò che è necessario per le esigenze pratiche del loro paese e del mio. Ma in verità credo che la critica più grande che si possa muover loro sia che non capirebbero cosa la critica significhi. La rivestirò dunque in una [[forms/parable|parabola]], che non è men buona per essere stata anche un fatto reale. Quando mi si disse che a Belfast non c'era [[concepts/poverty|povertà]], osservai mitemente che la gente doveva avere un gusto singolare nel vestire. Mi fu gravemente assicurato che avevano davvero un gusto singolarissimo nel vestire. Ne trassi l'impressione generale che portare camicie o pantaloni decorati di larghi buchi a intervalli irregolari fosse una forma scusabile di civetteria o di stravaganza alla moda. E sarà sempre una gioia profonda e intima, nei ricordi della mia vita, che proprio mentre questi padri della [[motifs/city|città]] ed io uscivamo sui gradini dell'albergo, comparve davanti a noi uno dei più cenciosi ragazzini cenciosi che avessi visto, a chiedere un penny. Gli diedi un penny, al che questo gruppo di mercanti si trasfigurò d'un tratto in una sorta di plebaglia, vociferando: «Contro la legge! Contro la legge!», e lo cacciarono via in fretta. [[concepts/hope|Spero]] non sia poco amabile essermi tanto divertito a quella visione di una folla di magistrati che scacciava con tanto zelo un [[archetypes/child|bambino]] solitario come un gatto. Comunque sia, non sapevano quel che facevano; e, quel che è peggio, non sapevano di non saperlo. E non capirebbero, se glielo dicessi, quale leggenda si sarebbe potuta comporre attorno a quel [[archetypes/child|bambino]], nelle [[topoi/ages-of-the-world|età cristiane del mondo]]. Il punto è qui che il male dell'illusione non consiste nel bigottismo, ma nella [[concepts/vanity|vanità]]. Non è che un tale uomo di Belfast si creda nel giusto; ché ogni uomo onesto ha il diritto di credersi nel giusto. È che si crede buono, per non dire grande; e nessun uomo onesto può giungere a quella comoda convinzione senza un percorso di disonestà intellettuale. Ciò che separa questo spirito dal buon senso cristiano è il fatto che l'illusione, come la maggior parte delle illusioni insane, è meramente egoistica. È semplicemente il piacere di pensare stravagantemente [[motifs/well|bene]] di sé; e l'illimitato abbandonarsi a quel piacere fiacca assai più di qualsiasi abbandono al bere o alla dissipazione. Ma esso costruisce così completamente un cosmo irreale attorno all'io, che la critica del mondo non può essere avvertita neppure a fini mondani. Potrei dare molti esempi di questo elemento a Belfast, anche a paragone di Birmingham o Manchester. Il [[characters/lord-mayor|sindaco]] di Manchester può darsi non s'intenda molto di quadri; ma conosce uomini che se ne intendono. Ma le autorità di Belfast esporranno un quadro maniacalmente brutto come un capolavoro, solo perché glorifica Belfast. Nessuno oserebbe appendere un quadro simile a Manchester, a un tiro di sasso dal signor Charles Rowley. M'importa relativamente poco del caso dell'estetica; ma il caso è ancor più chiaro nell'etica. Tanto interamente questa gente è divisa dalle tradizioni più cristiane, che i loro stessi vanti li abbassano; e si degradano quando intendono esaltarsi. Non viene loro mai in mente che i loro strani criteri interni non sempre impressionano gli estranei. Un grande datore di lavoro mi presentò diversi dei suoi impiegati assai intelligenti; e posso volentieri testimoniare la sincerità della grande illusione di Belfast anche fra molti degli uomini più poveri di Belfast. Ma i sinceri sforzi loro e del loro padrone, per convincermi che un'[[concepts/union|unione]] con la maggioranza cattolica sotto il [[motifs/home|Home]] Rule era per loro intollerabile, andavano tutti sulla stessa aria, che tornava come una specie di [[characters/chorus|ritornello]]: «Non lasceremo che gente come loro faccia leggi per gente come noi». Non sembrava mai [[motifs/cross|sfiorare]] loro la mente che questo non sia un alto esempio di alcuna [[morality|moralità]] umana; che, giudicato dalla _verecundia_ pagana o dall'[[concepts/humility|umiltà]] cristiana o dalla moderna fratellanza democratica, è semplicemente l'osservazione di uno snob. L'uomo in questione è del tutto [[archetypes/innocent|innocente]] di tutto ciò; non ha nozione della modestia, e nemmeno della falsa modestia; non solo è superiore, ma ritiene una superiorità rivendicare la superiorità. È qui che non possiamo evitare la teologia, perché non possiamo evitare la teoria. Poiché il punto è che perfino in teoria l'una atmosfera religiosa ora differisce dall'altra. Che la differenza abbia storicamente una radice religiosa è davvero indiscutibile; ma comunque è radicata profondissimamente. L'essenza del calvinismo era la certezza della salvezza; l'essenza del cattolicesimo è l'incertezza della salvezza. La forma moderna e materializzata di quella certezza è la superiorità; la fede di un uomo in una fissa aristocrazia morale di uomini come lui. Ma la [[concepts/truth|verità]] che qui ci riguarda è che, ormai a questo [[motifs/time|punto]] quantomeno, la superiorità è diventata una dottrina [[motifs/well|oltre]] che un vezzo. [[concepts/doubt|Dubito]] che questa scuola estrema di protestanti creda nell'[[concepts/humility|umiltà]] cristiana anche solo come ideale. [[concepts/doubt|Dubito]] che i più onesti fra loro professerebbero anche solo di crederci. Lo si può vedere chiaramente confrontandola con altre virtù cristiane; delle quali questo calvinismo decaduto offre almeno una versione, anche a chi la ritiene una perversione. Il [[historical-references/puritanism|Puritanesimo]] è una versione della purezza; anche se lo riteniamo una [[forms/parody|parodia]] della purezza. La filantropia è una versione della [[concepts/charity|carità]]; anche se la riteniamo una [[forms/parody|parodia]] della [[concepts/charity|carità]]. Ma in tutto questo protestantesimo commerciale non c'è alcuna versione dell'[[concepts/humility|umiltà]]; non c'è nemmeno una [[forms/parody|parodia]] dell'[[concepts/humility|umiltà]]. L'[[concepts/humility|Umiltà]] non è un ideale. L'[[concepts/humility|Umiltà]] non è nemmeno un'ipocrisia. Non c'è istituzione, né comandamento, né formula comune di parole, né modello popolare o racconto tradizionale, che dica ad alcuno, in qualsivoglia modo, che esista una cosa come il pericolo dell'[[concepts/pride|orgoglio]] spirituale. In breve, c'è qui una scuola di pensiero e di sentimento che considera decisamente la soddisfazione di [[concepts/self|sé]] una forza; contro la forte tradizione cristiana del resto del paese, che altrettanto decisamente la considera una debolezza. Questo è il vero nodo morale nella lotta moderna in Irlanda; né è confinato all'Irlanda. L'Inghilterra è stata profondamente contagiata da questa debolezza farisaica; ma, come ho detto, l'Inghilterra prende le cose vagamente là dove l'Irlanda le prende vividamente. Gli uomini di Belfast offrono quella [[motifs/city|città]] come qualcosa di supremo, unico e senza rivali; e hanno quasi ragione. Non c'è nulla di esattamente simile nell'industrialismo di questo paese; ma nondimeno, la lotta contro la sua religione dell'arroganza è stata combattuta fino in fondo altrove e su un campo più vasto. C'è un altro centro e cittadella da cui questa teoria, della forza in una superiorità [[concepts/self|auto]]ipnotica, ha disprezzato la cristianità. C'è stata una [[motifs/city|città]] rivale di Belfast; e il suo nome era Berlino. Storici di tutte le religioni e di nessuna religione potranno un giorno considerare un fatto storico, immagino, che la [[historical-references/reformation|Riforma]] protestante del Cinquecento (almeno nella forma che effettivamente assunse) fu un crollo barbarico, come quel prussianesimo che fu il prodotto ultimo del protestantesimo. Ma comunque sia, gli storici avranno sempre interesse a notare che esso produsse certe cose curiose e caratteristiche; che val la pena studiare, che ci piacciano o no. E uno dei suoi tratti, immagino, è stato questo: che ha avuto il potere di produrre certe istituzioni le quali progredirono assai rapidamente verso grande ricchezza e potere; che il mondo in un certo momento reputò invincibili; e che il mondo, l'attimo dopo, scoprì d'un tratto intollerabili. Così fu di tutta quella teologia calvinista, di cui Belfast resta ora il solitario missionario. Così fu, perfino ai nostri [[motifs/time|giorni]], di tutto quel capitalismo industriale di cui Belfast è ora l'avamposto assediato e quasi deserto. E così fu di Berlino come di Belfast; e un sottile prussiano potrebbe quasi lamentare una sorta di tradimento, nella bruschezza con cui il mondo si destò e la trovò mancante; nella subitaneità della reazione che la colpì impotente, così poco dopo che era stata reputata onnipotente. Queste cose sembrano racchiudere tutto l'avvenire; e in un lampo sono cose del passato. Belfast è una novità antiquata. Una cosa simile viene ancora scusata per il suo apparire _parvenu_ quando la si scopre _passé._ Per esempio, è solo venendo a contatto con alcune delle controversie attorno alla Convention che un inglese potrebbe rendersi conto di quanto la mentalità del capo di Belfast sia non tanto quella di un remoto Whig del Seicento, quanto quella di un recente Radicale dell'Ottocento. Il suo conformismo pareva quello di un vittoriano più che di un guglielmita; e pareva meno circoscritto dalla Confraternita Orangista che dal Cobden Club. È un fatto assai efficacemente ricoperto e imbrattato dai grossi pennelli del nostro Sistema dei Partiti, che ha l'arte di nascondere tanti fatti lampanti. Questo Partito Unionista in Irlanda è in larghissima parte inteso a resistere alla principale [[concepts/reform|riforma]] propugnata dal Partito Unionista in Inghilterra. Un umorista politico, che comprendesse la tradizione cobdeniana di Belfast e la tradizione chamberlainiana di Birmingham, potrebbe divertirsi immensamente appellandosi dall'una all'altra; congratulandosi con Belfast per le audaci dottrine protezioniste prevalenti in Irlanda; scongiurando il signor Bonar Law e i riformatori delle tariffe di non dimenticare mai la battaglia condotta da Belfast per i sacri principii del Libero Scambio. Ma il fatto che la scuola di Belfast sia semplicemente la scuola di Manchester è solo un aspetto di questa [[concepts/truth|verità]] generale sul brusco crollo nell'antichità; un'improvvisa messa in pensione. L'intera marcia di quell'industrialismo di Manchester non è solo arrestata ma rovesciata; l'intera posizione è aggirata da nuove forze che giungono da nuove direzioni; la ricchezza dei contadini le blocca la [[motifs/road|strada]] davanti; lo sciopero generale s'è levato a minacciarle le spalle. Quella strana nube di [[concepts/vanity|vanità]] che protegge [[concepts/self|sé stessa]] può ancora permettere a Belfast di credere in Belfast, ma la Gran Bretagna non crede davvero in Belfast. Forze filosofiche assai più ampie e profonde della politica hanno minato la concezione di un protestantesimo progressista in Irlanda. Direi io stesso che la mera ascendenza inglese in quell'isola divenne intellettualmente impossibile il giorno in cui Shaftesbury introdusse il primo Factory Act, e il giorno in cui Newman pubblicò le prime pagine dell'_Apologia._ Entrambi erano certamente Tory e probabilmente unionisti. Nessuno dei due era legato all'argomento né l'uno all'altro; l'uno odiava il Papa e l'altro il Liberatore. Ma l'industrialismo non fu mai più [[concepts/self|auto]]evidentemente superiore dopo il primo evento, né il protestantesimo [[concepts/self|auto]]evidentemente superiore dopo l'altro. E occorreva una superiorità torreggiante e [[concepts/self|auto]]evidente per scusare il dominio inglese in Irlanda. È solo sul terreno del fare indiscutibilmente il bene che gli uomini possono fare tanto male quanto quello. Alcuni orangisti prima della guerra si concedettero un bel paragone retorico tra Guglielmo di Prussia e Guglielmo d'Orange; e apertamente suggerirono che il nuovo Liberatore protestante del nord sarebbe venuto dalla [[settings/germany|Germania]] settentrionale. I miei ospiti più moderati a Belfast mi assicurarono che tali orangisti non potevano considerarsi rappresentativi né tantomeno responsabili. Su ciò non posso pronunciarmi. Gli orangisti potevano non essere rappresentativi; potevano non essere responsabili; ma sono ben certo che avevano ragione. Sono ben certo che quei poveri fanatici erano assai più vicini al nervo della [[concepts/truth|verità]] storica che non politicanti di professione come Sir Edward Carson o capitalisti industriali come Sir George Clark. Se mai vi fu al mondo un'alleanza naturale, sarebbe stata l'alleanza tra Belfast e Berlino. I fanatici saranno pure sciocchi, ma hanno qui la luce per cui le cose stolte possono confondere i sapienti. È il punto più luminoso di Belfast, il bigottismo, poiché se la luce nel suo [[concepts/body|corpo]] è tenebra, è pur sempre più luminosa della tenebra. Per quella visione che accompagna ovunque la virilità e la [[concepts/greatness|grandezza]] della religione, questi uomini hanno davvero penetrato il segreto protestante e il significato di quattrocento anni. Il loro protestantesimo è prussianesimo, non come termine ingiurioso, ma come termine di astratta e imparziale scienza etica. Belfast e Berlino stanno dalla stessa parte nella più profonda di tutte le questioni spirituali implicate nella guerra. E questa è la semplice questione se l'[[concepts/pride|orgoglio]] sia un peccato, e dunque una debolezza. La mentalità moderna, o gran parte di essa, ha seriamente sostenuto l'idea che sia una debolezza disarmare la critica con l'[[concepts/self|auto]]critica, e una forza sdegnare la critica per mezzo della [[concepts/self|fiducia in sé]]. Questa è la tesi per cui Berlino diede battaglia alla civiltà più antica in Europa; e quella per cui Belfast diede battaglia alla civiltà più antica in Irlanda. Può darsi, come ho suggerito, che tale [[concepts/pride|orgoglio]] protestante sia il vecchio calvinismo, con la sua fissa elezione dei pochi. Può darsi che il protestantesimo sia semplicemente paganesimo, coi suoi dèi bestiali e i giganti attardati negli angoli del nord più selvaggio. Può darsi che il calvinismo fosse esso stesso un riaffiorare del paganesimo. Ma in ogni caso, sono certo che questa superiorità, che può dominare gli uomini come un [[nightmare|incubo]], può anche svanire come un [[nightmare|incubo]]. E sospetto fortemente che anche in questa materia, come nella materia della proprietà vista da un popolo di contadini, la civiltà più antica si rivelerà la vera civiltà; e che una società più sana tornerà a considerare l'[[concepts/pride|orgoglio]] una pestilenza, come i socialisti sono già tornati a considerare l'avarizia una pestilenza. L'antica tradizione della cristianità voleva che la forma più alta di [[concepts/faith|fede]] fosse un [[concepts/doubt|dubbio]]. Era il [[concepts/doubt|dubbio]] di un uomo sulla propria [[motifs/soul|anima]]. Me lo espresse mirabilmente il signor Yeats, ora campione dell'ortodossia cattolica, nel dichiarare la sua preferenza per il cattolicesimo medievale a paragone del moderno [[Humanitarianism|umanitarismo]]: «Gli uomini pensavano allora ai propri peccati, e ora pensano sempre a quelli altrui». E perfino secondo il criterio protestante del progresso, l'[[concepts/pride|orgoglio]] si rivela arrestato da una paralisi prematura. Il progresso è superiorità su sé stessi; ed è fermato di netto dalla superiorità sugli altri. Il caso è ancor più chiaro alla prova della poesia, che è assai più solida e permanente del progresso. Il Superuomo sarà stato una sorta di poema; ma non poté mai essere una sorta di poeta. Più tentiamo di analizzare quello strano elemento della [[concepts/wonder|meraviglia]], che è l'[[motifs/soul|anima]] di tutte le arti, più vedremo che esso deve dipendere da una certa subordinazione dell'[[concepts/self|io]] a una gloria che esiste al di là di esso, e perfino a suo dispetto. L'uomo si sente sempre creatura quando agisce da creatore. Quando scolpisce una [[settings/cathedral|cattedrale]] è per fare un [[archetypes/monster|mostro]] capace di [[motifs/swallow|inghiottirlo]]. Ma l'[[nightmare|incubo]] nietzschiano di inghiottire il mondo non è che una specie di sbadiglio. Quando l'anarca evoluzionista ha spezzato tutti i legami e le leggi ed è finalmente libero di parlare, scopre di non aver nulla da dire. Così i [[songs|canti]] tedeschi sotto l'aquila imperiale ammutolirono come uccelli canori sotto uno sparviero; ed è solo di rado, qua e là, che un mercante di Belfast libera la propria [[motifs/soul|anima]] in una [[forms/lyric|lirica]]. Deve farsi scrivere dal signor Kipling una poesia su Belfast, in uno stile tecnicamente intonato ai quadri di Belfast. Ecco la vera Tara dell'arpa silenziosa, e il trono e la dimora del sogno; ed è là che i pessimisti celtici dovrebbero piangere in [[motifs/silence|silenzio]] la fine del [[Song|canto]]. Suonare la propria tromba non s'è rivelato una buona [[concepts/education|educazione]] musicale. In [[logic|logica]] un uomo saggio metterà sempre il carro davanti al [[motifs/horse|cavallo]]. Vale a dire, metterà sempre il fine davanti ai mezzi; quando considera la questione nel suo insieme. Non costruisce un carro allo scopo di far esercitare un [[motifs/horse|cavallo]]. Impiega un [[motifs/horse|cavallo]] per tirare un carro, e qualunque cosa vi sia nel carro. In tutto il ragionare moderno c'è la tendenza a rendere la mera bestia da soma politica più importante del cocchio dell'uomo che essa deve trainare. Ciò ha portato a liquidare tutte queste questioni spirituali in favore di ciò che si chiamano questioni sociali; e questo a un trattamento troppo facile di cose come la questione religiosa a Belfast. C'è una questione religiosa; e non avrà una risposta irreligiosa. Non le si farà fronte con la limitazione della [[concepts/faith|fede]] cristiana, ma piuttosto con l'estensione della [[concepts/charity|carità]] cristiana. Ma se un uomo dice che non c'è differenza tra un protestante e un cattolico, e che entrambi possono agire in modo identico dovunque tranne che in una chiesa o cappella, sta guidando follemente il [[motifs/horse|cavallo]] da tiro avendo dimenticato il carro. Una religione non è la chiesa in cui un uomo va, ma il cosmo in cui vive; e se qualche scettico lo dimentica, il più forsennato fanatico che batte un tamburo orangista sulla Battaglia del Boyne è un filosofo migliore di lui. Molte persone incolte e alcune colte a Belfast credono, in tutta sincerità, che i preti romani siano demoni, in attesa solo di riaccendere i fuochi dell'[[historical-references/inquisition|Inquisizione]]. Per due semplici ragioni, tuttavia, mi rifiutai di prendere questo fatto come prova di alcunché, se non della loro sincerità. Primo, perché le storie, ridotte al loro rudimento di [[concepts/truth|verità]], si risolvevano in genere nell'[[forms/riddle|enigma]] di poveri cattolici romani che davano denaro alla propria religione; e parevano deplorare non tanto una dipendenza dai preti quanto un'indipendenza dai datori di lavoro. E secondo, per una ragione tratta dalla mia esperienza, [[motifs/well|oltre]] che dal sapere comune, riguardo alla gentry protestante del sud dell'Irlanda. Gli unionisti del sud parlavano del tutto privi di questo speciale orrore verso i preti o i contadini cattolici. Brontolavano contro di loro o ne ridevano come un uomo brontola o ride dei propri vicini; ma evidentemente non sognavano che il prete li bruciasse più di quanto sognassero che li mangiasse. Se i preti fossero neri come li dipingevano i neri protestanti, sarebbero al loro peggio là dove sono in maggioranza; e sarebbero conosciuti al loro peggio dalla minoranza. Era chiaro che Belfast serbava la tradizione più bigotta, non perché conoscesse di più i preti, ma perché ne conosceva di meno; non perché fosse sul posto, ma perché il posto le era precluso. Un'illusione ancor più generale era l'idea che tutti gli irlandesi del sud sognassero e non lavorassero. Feci notare che anche questo era incoerente con l'esperienza concreta; giacché in tutto il mondo chi fa rendere una piccola fattoria deve lavorare davvero durissimo. In realtà storica, la vecchia nozione che il contadino irlandese non lavorasse, ma solo sognasse, aveva una spiegazione semplice. Significava soltanto che non lavorava per il profitto di un capitalista; ma sognava di lavorare un giorno per il proprio profitto. Ma nella tradizione può esserci stata anche questa [[concepts/truth|verità]] distorta; che un contadino libero, mentre estende il proprio lavoro, si crea le proprie feste. Non è ozioso tutto il giorno, ma può essere ozioso in qualunque [[motifs/time|momento]] del giorno; non sogna ogni volta che ne ha voglia, ma sogna ogni volta che lo decide. Un famoso industriale di Belfast, uomo di capacità, ma che scuoteva il capo davanti all'inspiegabile prevalenza dei preti, mi assicurò di aver visto contadini nel sud non far nulla, alle ore più disparate; e questa è senza dubbio la differenza tra la fattoria e la fabbrica. Lo stesso signore mi fece visitare il colossale naviglio del grande porto, con tutti i macchinari e i trasporti che vi conducevano. Nessun uomo dotato di [[concepts/imagination|immaginazione]] resterebbe insensibile a simili esperimenti [[titanic|titanici]] della propria razza; o negherebbe la cupa poesia di quelle fornaci degne di Vulcano o di quei magli degni di Thor. Ma mentre stavo sulla banchina dissi alla mia guida: «Vi siete mai chiesto a che serva tutto questo?» Era un uomo intelligente, un [[concepts/exile|esule]] dalla metafisica Scozia, e capì cosa intendevo. «Non lo so», disse, «forse siamo solo [[motifs/insects|insetti]] che costruiscono una barriera corallina. Non so a che serva la barriera corallina.» «Forse», dissi, «è di questo che il contadino [[motifs/dreams|sogna]], ed è per questo che ascolta il prete.» Poiché sembra esserci una fallacia alla moda secondo cui l'uguaglianza religiosa è qualcosa da sbrigare e liquidare, per poter passare alla vera faccenda dell'uguaglianza politica. In [[philosophy|filosofia]] è vero l'esatto contrario. L'uguaglianza politica è qualcosa da sbrigare e liquidare, per poter passare alla ben più reale faccenda della religione. All'Abbey Theatre vidi un vigoroso dramma del signor St. John Ervine, intitolato _The Mixed [[motifs/marriage|Marriage]];_ che ricorderei se non altro per la bella interpretazione della signorina Maire O'Neill. Ma il dramma mi commosse moltissimo come dramma; eppure sentii che la presenza di questa fallacia lo falsificava in qualche misura. Il drammaturgo pareva risentirsi di uno scisma solo perché interferiva con uno sciopero. Ma l'unico scopo dello scioperare è la libertà; e l'unico scopo della libertà è la vita: cosa interamente spirituale. È la libertà economica che andrebbe liquidata come questa gente liquida la teologia. La otteniamo solo per dimenticarla. È giusto che gli uomini abbiano case, giusto che abbiano terra, giusto che abbiano leggi a protezione della terra; ma tutte queste cose sono solo macchinari per procurare ozio all'[[motifs/soul|anima]] che lavora. La [[house|casa]] è solo un palcoscenico allestito dai macchinisti per la recita di ciò che il signor J. B. Yeats ha chiamato «il dramma del [[motifs/home|focolare]]». Tutte le cose più drammatiche accadono in [[motifs/home|casa]], dal nascere al morire. Ciò che un uomo pensa di queste cose è la sua vita; e sostituirvi un affaccendarsi di campagne elettorali e legislazione è aggirarsi tra quinte e carrucole sul lato sbagliato di scenari di cartone; e non recitare mai il dramma. E quel dramma è sempre una sacra rappresentazione; e il nome del suo [[archetypes/hero|eroe]] è Everyman. Quando tornai dallo splendore desolato del mare e della costa del Donegal, e rividi il [[motifs/garden|giardino]] quadrato e la statua fuori dall'albergo di Dublino, non sapevo di tornare a qualcosa che si sarebbe [[motifs/well|ben]] potuto dire ancor più desolato. Poiché fu quando entrai nell'albergo che per la prima volta scoprii che era colmo dell'orribile [[forms/tragedy|tragedia]] del _Leinster._ Avevo visto spesso la [[motifs/death|morte]] in una [[motifs/home|casa]], ma mai la [[motifs/death|morte]] che decimava una vasta locanda; e c'era qualcosa di stranamente sconvolgente nei posti vuoti di uomini e donne con cui avevo chiacchierato tanto oziosamente pochi giorni prima. Era quasi come se vi fosse più [[forms/tragedy|tragedia]] nel troncare di simili chiacchiere insignificanti che nel recidere legami di una vita intera. Ma c'era tutta la dignità [[motifs/well|oltre]] che la [[forms/tragedy|tragedia]] dell'uomo; e fui lieto, prima di lasciare l'Irlanda, di aver visto il lato più nobile della guarnigione anglo-irlandese; e di aver conosciuto uomini del mio stesso [[motifs/blood|sangue]], per quanto in errore, sopportare così la fine delle cose. Con le cattive notizie dal mare giunsero notizie migliori dalla guerra; Mangin aveva sferrato il colpo clamoroso che tagliò fuori i tedeschi mentre marciavano su Châlons; e con tutte le emozioni di un [[concepts/exile|esule]], per quanto temporaneo, seppi che la mia terra era al sicuro. In qualche modo, le cattive e le buone notizie insieme volsero la mia mente sempre più verso l'Inghilterra; e verso tutto l'[[Humour|umorismo]] intimo e la geniale bonarietà insulare che perfino agli irlandesi un giorno sarà forse concesso di comprendere. Mentre volgevo verso casa sul primo battello che partì dal porto irlandese, e le colline di Wicklow arretravano in una luce piovosa e spezzata, era con i più semplici di quegli antichi appetiti con cui un uomo dovrebbe tornare al proprio paese. Solo che mi si aggrappava, innegabile, un sentimento riguardo all'Irlanda, un sentimento che non potevo trasferire all'Inghilterra; che mi chiamava come un paese degli elfi di tante figure liete, da [[characters/puck|Puck]] a [[works/pickwick-(chesterton)|Pickwick]]. Guardando quelle colline piovose, sapevo almeno che stavo guardando, forse per l'ultima [[motifs/time|volta]], qualcosa di radicato nella [[concepts/faith|fede]] cristiana. Là almeno l'ideale cristiano era qualcosa di più di un ideale; era, in un senso speciale, reale. Era tanto reale da comparire perfino nelle statistiche. Era tanto [[concepts/self|auto]]evidente da essere visto perfino dai sociologi. Era una terra dove la nostra religione aveva reso visibile perfino la propria visione. Aveva reso popolari perfino le proprie virtù impopolari. Dovrà essere, nei tempi a venire, un banco di prova ultimo, per stabilire se un popolo che prenderà quel nome sul serio, e perfino solidamente, sia destinato a soffrire o a riuscire. Mentre la lunga linea della costa montuosa si dispiegava davanti a me ebbi un'illusione ottica; può darsi che molti l'abbiano avuta prima. Man mano che nuovi tratti di costa e linee di alture si dispiegavano, ebbi la fantasia che l'intera terra non arretrasse ma avanzasse, come qualcosa che spalanca le braccia al mondo. Un casuale brandello di sole si posava, come uno stendardo lacerato, sul [[motifs/hill|colle]] che credo si chiami in irlandese la Montagna delle Lance d'Oro; e avrei potuto immaginare che le lance e lo stendardo stessero avanzando. E in quel lampo ricordai che gli uomini di quest'isola erano un tempo usciti, non come torce di conquistatori o distruttori; ma come missionari nella piena mezzanotte dei Secoli Bui, come una moltitudine di candele in cammino, che furono la luce del mondo. Fine

@@ -89,13 +89,13 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]], [[archetypes/trickster|Trickster]], [[archetypes/fool|Fool]], [[archetypes/prophet|Prophet]]
+**Archetypes:** Detective, Villain, Trickster, Fool, Prophet
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/supernatural|Supernatural]], [[motifs/blood|Blood]], [[motifs/cross|Cross]], [[motifs/money-and-gold|Money and Gold]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/garden|Garden]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/city|City]], [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/faith|Faith]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/class-conflict|Class Conflict]], [[concepts/social-injustice|Social Injustice]], [[concepts/fanaticism|Fanaticism]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/french-revolution|French Revolution]], [[historical-references/greek-mythology|Greek Mythology]]
 **Settings:** [[settings/london|London]], [[settings/scotland-the-highlands|Scotland the Highlands]], [[settings/rural-england|Rural England]], [[settings/paris|Paris]], [[settings/battlefield|Battlefield]], [[settings/europe|Europe]]
-**Characters:** [[characters/father-brown|Father Brown]], [[characters/flambeau|Flambeau]], [[characters/valentin|Valentin]], [[characters/israel-gow|Israel Gow]], [[characters/john-turnbull-angus|John Turnbull Angus]], [[characters/isidore-smythe|Isidore Smythe]], [[characters/laura-hope|Laura Hope]], [[characters/james-welkin|James Welkin]], [[characters/leonard-quinton|Leonard Quinton]], [[characters/prince-saradine|Prince Saradine]], [[characters/wilfred-bohun|Wilfred Bohun]], [[characters/pauline-stacey|Pauline Stacey]], [[characters/kalon|Kalon]], [[characters/arthur-st.-clare|Arthur St. Clare]], [[characters/sir-aaron-armstrong|Sir Aaron Armstrong]], [[characters/patrick-royce|Patrick Royce]]
+**Characters:** Father Brown, Flambeau, Valentin, Israel Gow, John Turnbull Angus, Isidore Smythe, Laura Hope, James Welkin, Leonard Quinton, Prince Saradine, Wilfred Bohun, Pauline Stacey, Kalon, Arthur St. Clare, Sir Aaron Armstrong, Patrick Royce
 
 ## Testo integrale / Full text
 

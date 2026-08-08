@@ -89,6 +89,8 @@ There the matter might very well have ended were it not for Baron Martin’s con
 The Secretary of State, having carefully read the evidence and the judge’s remarks, was about to confirm the decision of the latter, when, upon the very eve of the execution, there came a report from the gaol visitors — perfectly untrained observers — that Parker was showing undoubted signs of madness. This being so the Secretary of State had no choice but to postpone the execution, and to appoint a commission of four eminent alienists to report upon the condition of the prisoner. These four reported unanimously that he was perfectly sane. It is an unwritten law, however, that a prisoner once reprieved is never executed, so Vincent Parker’s sentence was commuted to penal servitude for life — a decision which satisfied, upon the whole, the conscience of the public.
 THE END
 
+THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI
+CONTENTS
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -164,3 +166,124 @@ Il barone Martin riassunse la questione in termini di buon senso: dichiarò che 
 Lì la faccenda avrebbe potuto concludersi facilmente, se non fosse stato per i scrupoli di coscienza del barone Martin. La sua stessa decisione era stata ammirevole, ma le testimonianze di quei medici pazzi pesavano molto su di lui; inoltre, la semplice possibilità che un uomo davvero non responsabile delle proprie azioni potesse perdere la vita a causa della sua decisione lo turbava profondamente. È probabile che questo pensiero lo tenne sveglio tutta quella notte, perché il giorno dopo scrisse al Segretario di Stato, dichiarando di non volersi assumere la responsabilità di una tale decisione.  
 Il Segretario di Stato, dopo aver attentamente esaminato le prove e i commenti del giudice, stava per confermare la sua decisione quando, alla vigilia dell’esecuzione, arrivò una notizia da parte degli osservatori presenti in prigione: Parker mostrava chiari segni di follia. Di fronte a questa situazione, il Segretario di Stato non ebbe altra scelta se non rinviare l’esecuzione e incaricare una commissione di quattro eminenti psichiatri di valutare lo stato del prigioniero. Questi quattro conclusero all’unanimità che Parker era perfettamente sano di mente. Tuttavia, esiste una regola non scritta secondo cui un prigioniero una volta graziato non viene mai giustiziato; pertanto la pena di Vincent Parker fu commutata in reclusione a vita, una decisione che, nel complesso, soddisfece la coscienza dell’opinione pubblica.  
 Fine.
+
+
+
+<span class="atom-split" data-atom="chapter_01" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
+
+
+VOLUME I.
+PREFACE
+I. THE BREAKING OF THE PEACE
+II. THE OPENING OF THE WAR
+III. THE BATTLE OF MONS
+IV. THE BATTLE OF LE CATEAU
+V. THE BATTLE OF THE MARNE
+VI. THE BATTLE OF THE AISNE
+VII. THE LA BASSÉE — ARMENTIÈRES OPERATIONS (From October 11 to October 31, 1914)
+VIII. THE FIRST BATTLE OF YPRES (Up to the Action of Gheluvelt, October 31)
+IX. THE FIRST BATTLE OF YPRES (continued) (From the Action of Gheluvelt to the Winter Lull)
+X. A RETROSPECT AND GENERAL SUMMARY
+XI. THE WINTER LULL OF 1914
+THE END
+
+
+
+
+<span class="atom-split" data-atom="chapter_02" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
+
+
+VOLUME II.
+PREFACE
+I. THE OPENING MONTHS OF 1915
+II. NEUVE CHAPELLE AND HILL 60
+III. THE SECOND BATTLE OF YPRES Stage I. The Gas Attack, April 22-30
+IV. THE SECOND BATTLE OF YPRES Stage II. The Bellewaarde Lines
+V. THE BATTLE OF RICHEBOURG FESTUBERT May 9-24
+VI. THE TRENCHES OF HOOGE
+VII. THE BATTLE OF LOOS The First Day — September 25
+VIII. THE BATTLE OF LOOS The Second Day — September 26
+IX. THE BATTLE OF LOOS From September 27 to the End of the Year
+
+
+
+
+<span class="atom-split" data-atom="chapter_03" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
+
+
+VOLUME III.
+PREFACE
+I. JANUARY TO JULY 1916
+II. THE BATTLE OF THE SOMME Attack of the Seventh and Eighth Corps on Gommecourt, Serre, and Beaumont Hamel
+III. THE BATTLE OF THE SOMME Attack of the Tenth and Third Corps, July 1, 1916
+IV. THE BATTLE OF THE SOMME The Attack of the Fifteenth and Thirteenth Corps, July 1, 1916
+V. THE BATTLE OF THE SOMME From July 2 to July 14, 1916
+VI. THE BATTLE OF THE SOMME The Breaking of the Second Line. July 14, 1916
+VII. THE BATTLE OF THE SOMME July 14 to July 31
+VIII. THE BATTLE OF THE SOMME The Operations of Gough’s Army upon the Northern Flank up to September 15
+IX. THE BATTLE OF THE SOMME August 1 to September 15
+X. THE BATTLE OF THE SOMME Breaking of the Third Line, September 15
+XI. THE GAINING OF THE THIEPVAL RIDGE
+XII. THE BATTLE OF THE SOMME From September 15 to the Battle of the Ancre
+XIII. THE BATTLE OF THE ANCRE November 13, 1916
+
+
+
+
+<span class="atom-split" data-atom="chapter_04" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
+
+
+VOLUME IV.
+PREFACE
+I. THE GERMAN RETREAT UPON THE ARRAS-SOISSONS FRONT
+II. THE BATTLE OF ARRAS April 9 to April 23, 1917
+III. OPERATIONS IN THE ARRAS SECTOR FROM APRIL 23 ONWARDS
+IV. THE BATTLE OF MESSINES June 7, 1917
+V. OPERATIONS FROM JUNE 10 TO JULY 31
+VI. THE THIRD BATTLE OF YPRES July 31, 1917
+VII. THE THIRD BATTLE OF YPRES August 1 to September 6
+VIII. THE THIRD BATTLE OF YPRES September 6 to October 3, 1917
+IX. THE THIRD BATTLE OF YPRES October 4 to November 10, 1917
+X. THE BATTLE OF CAMBRAI First Phase of Battle, November 20
+XI. THE BATTLE OF CAMBRAI Second Phase of Battle, November 30
+
+
+
+
+<span class="atom-split" data-atom="chapter_05" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
+
+
+VOLUME V.
+PREFACE
+I. EVENTS UPON THE BRITISH FRONT UP TO MARCH 21, 1918
+II. THE SECOND BATTLE OF THE SOMME Attack upon the Seventeenth and Sixth Corps
+III. THE SECOND BATTLE OF THE SOMME Attack on the Fourth and Fifth Corps
+IV. THE SECOND BATTLE OF THE SOMME Attack upon the Fifth Army, March 2
+V. THE SECOND BATTLE OF THE SOMME The Retreat of the Seventh and Nineteenth Corps
+VI. THE SECOND BATTLE OF THE SOMME The Retreat of the Eighteenth Corps, March 21-29
+VII. THE SECOND BATTLE OF THE SOMME The Retreat of the Third Corps
+VIII. THE SOMME FRONT FROM APRIL 1 ONWARDS
+IX. THE BATTLE OF THE LYS April 9-12
+X. THE BATTLE OF THE LYS April 13 to May 8
+XI. THE BATTLES OF THE CHEMIN DES DAMES AND OF THE ARDRES May 27 to June 2
+
+
+
+
+<span class="atom-split" data-atom="chapter_06" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
+
+
+VOLUME VI.
+I. THE OPENING OPERATIONS From July 1 to August 8, 191
+II. ATTACK OF RAWLINSON’S FOURTH ARMY The Battle of Amiens, August 8–22
+III. CONTINUATION OF THE OPERATIONS OF RAWLINSON’S FOURTH ARMY From August 22 to the Battle of the Hindenburg Line, September 29
+IV. THE ATTACK OF BYNG’S THIRD ARMY August 21, 1918, to September 29, 1918
+V. THE ADVANCE OF HORNE’S FIRST ARMY From August 26 to September 27
+VI. THE OPERATIONS OF RAWLINSON’S FOURTH ARMY From the Battle of the Hindenburg Line (September 29) to the Battle of the Selle, October 17
+VII. THE OPERATIONS OF RAWLINSON’S FOURTH ARMY From the Battle of the Selle, October 17, to the end
+VIII. OPERATIONS OF BYNG’S THIRD ARMY From the Battle of the Hindenburg Line (September 29) to the Battle of the Selle (October 17)
+IX. OPERATIONS OF BYNG’S THIRD ARMY From the Battle of the Selle, October 12, to the end
+X. THE ADVANCE OF HORNE’S FIRST ARMY From September 27 to the end
+XI. OPERATIONS OF THE SECOND AND FIFTH ARMIES September 28 — November 11
+XII. THE END
+APPENDIX

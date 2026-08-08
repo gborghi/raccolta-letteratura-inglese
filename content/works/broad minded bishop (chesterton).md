@@ -33,7 +33,7 @@ tags:
 
 **Motifs:** [[motifs/insects|Insects]]
 
-**Characters:** [[characters/st.-francis|St. Francis]]
+**Characters:** St. Francis
 
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/humility|Humility]], [[concepts/charity|Charity]], [[concepts/hypocrisy|Hypocrisy]]
 **Forms & Genres:** [[forms/epigram|Epigram]], [[forms/satire|Satire]]

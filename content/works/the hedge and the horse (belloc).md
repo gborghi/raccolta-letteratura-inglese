@@ -41,4 +41,4 @@ tags:
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/great-house|Great House]], [[motifs/letters-and-writing|Letters and Writing]]
 **Historical References:** [[settings/america|America]]
 **Settings:** [[settings/new-york|New York]], [[settings/london|London]]
-**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
+**Archetypes:** Self-Made Man

@@ -52,13 +52,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/locus-amoenus|Locus Amoenus]]
-**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/outsider|Outsider]]
+**Archetypes:** Innocent, Outsider
 **Motifs:** [[motifs/fire|Fire]], [[motifs/marriage|Marriage]], [[motifs/music-and-song|Music and Song]], [[motifs/animals|Animals]], [[motifs/journey|Journey]], [[motifs/supernatural|Supernatural]]
 **Themes & Concepts:** [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/jealousy|Jealousy]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/supernatural-(2)|Supernatural (2)]], [[concepts/innocence-and-experience|Innocence and Experience]]
 **Forms & Genres:** [[forms/short-story|Short Story]], [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** [[characters/john-peerybingle|John Peerybingle]], [[characters/dot-peerybingle|Dot Peerybingle]], [[characters/caleb-plummer|Caleb Plummer]], [[characters/bertha-plummer|Bertha Plummer]], [[characters/tackleton|Tackleton]], [[characters/may-fielding|May Fielding]], [[characters/tilly-slowboy|Tilly Slowboy]]
+**Characters:** John Peerybingle, Dot Peerybingle, Caleb Plummer, Bertha Plummer, Tackleton, May Fielding, Tilly Slowboy
 
 ## Testo integrale / Full text
 

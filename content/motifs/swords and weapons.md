@@ -44,62 +44,62 @@ tags:
 - [[works/theappoftyranny-(chesterton)|TheAppOfTyranny (Chesterton)]]
 - [[works/the-man-who-knew-too-much-(chesterton)|The Man Who Knew Too Much (Chesterton)]]
 - [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#269_a_dialogue_between_poet_and_friend|A DIALOGUE BETWEEN POET AND FRIEND (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#281_alice_du_clos_or_the_forked_tongue|ALICE DU CLOS OR THE FORKED TONGUE (Coleridge)]]
+- [[works/a-dialogue-between-poet-and-friend-(coleridge)|A DIALOGUE BETWEEN POET AND FRIEND (Coleridge)]]
+- [[works/alice-du-clos-or-the-forked-tongue-(coleridge)|ALICE DU CLOS OR THE FORKED TONGUE (Coleridge)]]
 - [[works/napoleon-(coleridge)-(2)|NAPOLEON (Coleridge) (2)]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#427_samuel_daniel|SAMUEL DANIEL (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#227_separation|SEPARATION (Coleridge)]]
+- [[works/samuel-daniel-(coleridge)|SAMUEL DANIEL (Coleridge)]]
+- [[works/separation-(coleridge)|SEPARATION (Coleridge)]]
 - [[works/stolberg-(coleridge)-(2)|STOLBERG (Coleridge) (2)]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#176_the_british_striplings_war-song_imitated_from_stolberg|THE BRITISH STRIPLING’S WAR-SONG IMITATED FROM STOLBERG (Coleridge)]]
+- [[works/the-british-stripling’s-war-song-imitated-from-stolberg-(coleridge)|THE BRITISH STRIPLING’S WAR-SONG IMITATED FROM STOLBERG (Coleridge)]]
 - [[works/the-death-of-wallenstein-(coleridge)|THE DEATH OF WALLENSTEIN (Coleridge)]]
-- [[testi/coleridge/atomized/transience-decay-carpe-diem#259_the_knights_tomb|THE KNIGHT’S TOMB (Coleridge)]]
+- [[works/the-knight’s-tomb-(coleridge)|THE KNIGHT’S TOMB (Coleridge)]]
 - [[works/the-piccolomini-(coleridge)|THE PICCOLOMINI (Coleridge)]]
 - [[works/zapolya-a-christmas-tale-in-two-parts-(coleridge)|ZAPOLYA A CHRISTMAS TALE IN TWO PARTS (Coleridge)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1031_fate_slew_him_but_he_did_not_drop|1031. Fate slew Him, but He did not drop — (Dickinson)]]
-- [[testi/dickinson/atomized/terror-and-horror-madness#1062_he_scanned_it_staggered|1062. He scanned it — staggered — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1152_tell_as_a_marksman_were_forgotten|1152. Tell as a Marksman — were forgotten (Dickinson)]]
-- [[testi/dickinson/atomized/friendship-tears#0118_my_friend_attacks_my_friend|118. My friend attacks my friend! (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1183_step_lightly_on_this_narrow_spot|1183. Step lightly on this narrow spot — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1188_twas_fighting_for_his_life_he_was|1188. 'Twas fighting for his Life he was — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1224_like_trains_of_cars_on_tracks_of_plush|1224. Like Trains of Cars on Tracks of Plush (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1226_the_popular_heart_is_a_cannon_first|1226. The Popular Heart is a Cannon first — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1227_my_triumph_lasted_till_the_drums|1227. My Triumph lasted till the Drums (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0126_to_fight_aloud_is_very_brave|126. To fight aloud, is very brave — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0147_bless_god_he_went_as_soldiers|147. Bless God, he went as soldiers, (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1511_my_country_need_not_change_her_gown|1511. My country need not change her gown, (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0152_the_sun_kept_stooping_stooping_low|152. The Sun kept stooping — stooping — low! (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1529_tis_seasons_since_the_dimpled_war|1529. 'Tis Seasons since the Dimpled War (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1561_no_brigadier_throughout_the_year|1561. No Brigadier throughout the Year (Dickinson)]]
-- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0159_a_little_bread_a_crust_a_crumb|159. A little bread — a crust — a crumb — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0165_a_wounded_deer_leaps_highest|165. A wounded Deer — leaps highest — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1751_there_comes_an_hour_when_begging_stops|1751. There comes an hour when begging stops, (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1764_the_saddest_noise_the_sweetest_noise|1764. The saddest noise, the sweetest noise, (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0358_if_any_sink_assure_that_this_now_standing|358. If any sink, assure that this, now standing — (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0379_rehearsal_to_ourselves|379. Rehearsal to Ourselves (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0384_no_rack_can_torture_me|384. No Rack can torture me — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0042_a_day_help_help_another_day|42. A Day! Help! Help! Another Day! (Dickinson)]]
-- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0474_they_put_us_far_apart|474. They put Us far apart — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0479_she_dealt_her_pretty_words_like_blades|479. She dealt her pretty words like Blades — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0540_i_took_my_power_in_my_hand|540. I took my Power in my Hand — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0616_i_rose_because_he_sank|616. I rose — because He sank — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0639_my_portion_is_defeat_today|639. My Portion is Defeat — today — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0666_ah_teneriffe|666. Ah, Teneriffe! (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0067_success_is_counted_sweetest|67. Success is counted sweetest (Dickinson)]]
-- [[testi/dickinson/atomized/terror-and-horror-madness#0670_one_need_not_be_a_chamber_to_be_haunted|670. One need not be a Chamber — to be Haunted — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0754_my_life_had_stood_a_loaded_gun|754. My Life had stood — a Loaded Gun — (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0077_i_never_hear_the_word_escape|77. I never hear the word escape (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0770_i_lived_on_dread|770. I lived on Dread — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0008_there_is_a_word|8. There is a word (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0831_dying_to_be_afraid_of_thee|831. Dying! To be afraid of thee (Dickinson)]]
-- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#044_a_song_for_simeon|A Song for Simeon (Eliot)]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#050_coriolan|Coriolan (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#082_growltigers_last_stand|Growltiger’s Last Stand (Eliot)]]
-- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#061_iv_there_are_those_who_would_build_the_temple|IV There are those who would build the Temple (Eliot)]]
+- 1031. Fate slew Him, but He did not drop — (Dickinson)
+- 1062. He scanned it — staggered — (Dickinson)
+- 1152. Tell as a Marksman — were forgotten (Dickinson)
+- 118. My friend attacks my friend! (Dickinson)
+- 1183. Step lightly on this narrow spot — (Dickinson)
+- 1188. 'Twas fighting for his Life he was — (Dickinson)
+- 1224. Like Trains of Cars on Tracks of Plush (Dickinson)
+- 1226. The Popular Heart is a Cannon first — (Dickinson)
+- 1227. My Triumph lasted till the Drums (Dickinson)
+- 126. To fight aloud, is very brave — (Dickinson)
+- 147. Bless God, he went as soldiers, (Dickinson)
+- 1511. My country need not change her gown, (Dickinson)
+- 152. The Sun kept stooping — stooping — low! (Dickinson)
+- 1529. 'Tis Seasons since the Dimpled War (Dickinson)
+- 1561. No Brigadier throughout the Year (Dickinson)
+- 159. A little bread — a crust — a crumb — (Dickinson)
+- 165. A wounded Deer — leaps highest — (Dickinson)
+- 1751. There comes an hour when begging stops, (Dickinson)
+- 1764. The saddest noise, the sweetest noise, (Dickinson)
+- 358. If any sink, assure that this, now standing — (Dickinson)
+- 379. Rehearsal to Ourselves (Dickinson)
+- 384. No Rack can torture me — (Dickinson)
+- 42. A Day! Help! Help! Another Day! (Dickinson)
+- 474. They put Us far apart — (Dickinson)
+- 479. She dealt her pretty words like Blades — (Dickinson)
+- 540. I took my Power in my Hand — (Dickinson)
+- 616. I rose — because He sank — (Dickinson)
+- 639. My Portion is Defeat — today — (Dickinson)
+- 666. Ah, Teneriffe! (Dickinson)
+- 67. Success is counted sweetest (Dickinson)
+- 670. One need not be a Chamber — to be Haunted — (Dickinson)
+- 754. My Life had stood — a Loaded Gun — (Dickinson)
+- 77. I never hear the word escape (Dickinson)
+- 770. I lived on Dread — (Dickinson)
+- 8. There is a word (Dickinson)
+- 831. Dying! To be afraid of thee (Dickinson)
+- [[works/a-song-for-simeon-(eliot)|A Song for Simeon (Eliot)]]
+- [[works/coriolan-(eliot)|Coriolan (Eliot)]]
+- [[works/growltiger’s-last-stand-(eliot)|Growltiger’s Last Stand (Eliot)]]
+- [[works/iv-there-are-those-who-would-build-the-temple-(eliot)|IV There are those who would build the Temple (Eliot)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
-- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#053_the_wind_sprang_up_at_four_oclock|The wind sprang up at four o’clock (Eliot)]]
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#144_king_stephen|King Stephen (Keats)]]
+- [[works/the-wind-sprang-up-at-four-o’clock-(eliot)|The wind sprang up at four o’clock (Eliot)]]
+- [[works/king-stephen-(keats)|King Stephen (Keats)]]
 - [[works/otho-the-great-(keats)|Otho the Great (Keats)]]
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#001_specimen_of_an_induction_to_a_poem|SPECIMEN OF AN INDUCTION TO A POEM (Keats)]]
+- [[works/specimen-of-an-induction-to-a-poem-(keats)|SPECIMEN OF AN INDUCTION TO A POEM (Keats)]]
 - [[works/hymn-to-aristogeiton-and-harmodius-(poe)|Hymn to Aristogeiton and Harmodius (Poe)]]
 - [[works/mystification-(poe)|Mystification (Poe)]]
 - [[works/scenes-from-politian-(poe)|Scenes From Politian (Poe)]]
@@ -110,31 +110,31 @@ tags:
 - [[works/king-john-(shakespeare)|KING JOHN (Shakespeare)]]
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
 - [[works/richard-duke-of-york---(3-henry-vi)-(shakespeare)|RICHARD DUKE OF YORK - (3 HENRY VI) (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_100|Sonnet 100 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_055|Sonnet 55 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_074|Sonnet 74 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_095|Sonnet 95 (Shakespeare)]]
+- Sonnet 100 (Shakespeare)
+- Sonnet 55 (Shakespeare)
+- Sonnet 74 (Shakespeare)
+- Sonnet 95 (Shakespeare)
 - [[works/the-two-noble-kinsmen-(shakespeare)|THE TWO NOBLE KINSMEN (Shakespeare)]]
 - [[works/titus-andronicus-(shakespeare)|TITUS ANDRONICUS (Shakespeare)]]
 - [[works/troilus-and-cressida-(shakespeare)|TROILUS AND CRESSIDA (Shakespeare)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#264_ah_poverties_wincings_and_sulky_retreats|Ah Poverties, Wincings, and Sulky Retreats (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#177_as_i_lay_with_my_head_in_your_lap_camerado|As I Lay with My Head in Your Lap Camerado (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#151_cavalry_crossing_a_ford|Cavalry Crossing a Ford (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#143_eighteen_sixty_one|Eighteen Sixty-One (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#142_first_o_songs_for_a_prelude|First O Songs for a Prelude (Whitman)]]
-- [[testi/whitman/atomized/heroism-hero-last-stand#270_from_far_dakota_s_canyons_june_25_1876|From Far Dakota’s Canyons June 25, 1876 (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#176_how_solemn_as_one_by_one_washington_city_1865|How Solemn As One by One Washington City, 1865 (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#364_interpolation_sounds|Interpolation Sounds (Whitman)]]
-- [[testi/whitman/atomized/heroism-hero-last-stand#371_osceola|Osceola (Whitman)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#095_pioneers_o_pioneers|Pioneers! O Pioneers! (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#088_song_of_the_broad_axe|Song of the Broad-Axe (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#268_spain_1873_74|Spain, 1873-74 (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#181_spirit_whose_work_is_done_washington_city_1865|Spirit Whose Work Is Done Washington City, 1865 (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#336_the_dying_veteran|The Dying Veteran (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#360_to_the_pending_year|To the Pending Year (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#328_true_conquerors|True Conquerors (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#148_virginia_the_west|Virginia--The West (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#019_what_place_is_besieged|What Place Is Besieged (Whitman)]]
+- [[works/ah-poverties,-wincings,-and-sulky-retreats-(whitman)|Ah Poverties, Wincings, and Sulky Retreats (Whitman)]]
+- [[works/as-i-lay-with-my-head-in-your-lap-camerado-(whitman)|As I Lay with My Head in Your Lap Camerado (Whitman)]]
+- [[works/cavalry-crossing-a-ford-(whitman)|Cavalry Crossing a Ford (Whitman)]]
+- [[works/eighteen-sixty-one-(whitman)|Eighteen Sixty-One (Whitman)]]
+- [[works/first-o-songs-for-a-prelude-(whitman)|First O Songs for a Prelude (Whitman)]]
+- [[works/from-far-dakota’s-canyons-june-25,-1876-(whitman)|From Far Dakota’s Canyons June 25, 1876 (Whitman)]]
+- [[works/how-solemn-as-one-by-one-washington-city,-1865-(whitman)|How Solemn As One by One Washington City, 1865 (Whitman)]]
+- [[works/interpolation-sounds-(whitman)|Interpolation Sounds (Whitman)]]
+- [[works/osceola-(whitman)|Osceola (Whitman)]]
+- [[works/pioneers!-o-pioneers!-(whitman)|Pioneers! O Pioneers! (Whitman)]]
+- [[works/song-of-the-broad-axe-(whitman)|Song of the Broad-Axe (Whitman)]]
+- [[works/spain,-1873-74-(whitman)|Spain, 1873-74 (Whitman)]]
+- [[works/spirit-whose-work-is-done-washington-city,-1865-(whitman)|Spirit Whose Work Is Done Washington City, 1865 (Whitman)]]
+- [[works/the-dying-veteran-(whitman)|The Dying Veteran (Whitman)]]
+- [[works/to-the-pending-year-(whitman)|To the Pending Year (Whitman)]]
+- [[works/true-conquerors-(whitman)|True Conquerors (Whitman)]]
+- [[works/virginia--the-west-(whitman)|Virginia--The West (Whitman)]]
+- [[works/what-place-is-besieged-(whitman)|What Place Is Besieged (Whitman)]]
 - [[works/a-florentine-tragedy-(wilde)|A Florentine Tragedy (Wilde)]]
 - [[works/the-duchess-of-padua-(wilde)|The Duchess of Padua (Wilde)]]
 - [[works/vera,-or-the-nihilists-(wilde)|Vera, or The Nihilists (Wilde)]]

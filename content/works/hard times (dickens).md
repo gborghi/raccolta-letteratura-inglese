@@ -102,13 +102,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/innocent|Innocent]]
+**Archetypes:** Self-Made Man, Common Man (2), Innocent
 **Motifs:** [[motifs/city|City]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/fire|Fire]], [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/class-conflict|Class Conflict]], [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]], [[concepts/education|Education]], [[concepts/imagination|Imagination]], [[concepts/reform|Reform]], [[concepts/satire-of-society|Satire of Society]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/novel|Novel]], [[forms/satire|Satire]]
 **Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/industrial-city|Industrial City]]
-**Characters:** [[characters/thomas-gradgrind|Thomas Gradgrind]], [[characters/louisa-gradgrind|Louisa Gradgrind]], [[characters/josiah-bounderby|Josiah Bounderby]], [[characters/stephen-blackpool|Stephen Blackpool]], [[characters/sissy-jupe|Sissy Jupe]], [[characters/tom-gradgrind|Tom Gradgrind]], [[characters/james-harthouse|James Harthouse]], [[characters/mrs-sparsit|Mrs Sparsit]]
+**Characters:** Thomas Gradgrind, Louisa Gradgrind, Josiah Bounderby, Stephen Blackpool, Sissy Jupe, Tom Gradgrind, James Harthouse, Mrs Sparsit
 
 ## Testo integrale / Full text
 

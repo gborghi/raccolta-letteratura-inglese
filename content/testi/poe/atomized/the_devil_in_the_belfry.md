@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_devil_in_the_belfry" data-title="The Devil in the Belfry" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-devil-in-the-belfry-(poe)|The Devil in the Belfry]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -99,7 +99,7 @@ Donder—Votteimittis, quasi un fulmine—Un fulmine obsoleto:—pro
 
 Titolo: Approvato da alcune tracce del fluido elettrico evidenti sul…
 
-La cima della guglia della Casa del Consiglio Comunale. Non lo so.
+La cima della guglia della [[house|Casa]] del Consiglio Comunale. Non lo so.
 
 "Scelgo comunque di impegnarmi su un tema di tale importanza."
 
@@ -155,7 +155,7 @@ Piccole case… Queste, con le loro facciate rivolte verso le colline, devono se
 
 Certo, verso il centro della pianura, che si trova a soli sessanta metri di distanza…
 
-Dalla porta d’ingresso di ogni abitazione. Ogni casa ha un piccolo.
+Dalla porta d’ingresso di ogni abitazione. Ogni [[house|casa]] ha un piccolo.
 
 Il [[motifs/garden|giardino]], con un sentiero circolare, un orologio solare e.
 
@@ -173,7 +173,7 @@ Rosso, con estremità nere: in questo modo le pareti sembrano un tabellone da sc
 
 Su larga scala: i timpani sono rivolti verso l’esterno, e lì…
 
-Ci sono cornici, grandi quanto il resto dell’casa, sopra i tetti.
+Ci sono cornici, grandi quanto il resto dell’[[house|casa]], sopra i tetti.
 
 E sopra le porte principali… Le finestre sono strette e profonde, con…
 
@@ -223,12 +223,12 @@ La targhetta del quadrante di un orologio.
 
 Le caminette sono grandi e profonde, con fiamme violente e contorte…
 
-[[motifs/fire|fuoco]] e cani. C'è sempre un fuoco ardente, e una pentola enorme.
+[[motifs/fire|fuoco]] e [[dogs|cani]]. C'è sempre un fuoco ardente, e una pentola enorme.
 
 Titolo:  
 “Over It”, pieno di cavolo riccio e maiale… preparato dalla brava donna…”
 
-La casa è sempre molto impegnata con le attività quotidiane. Lei è una vecchia un po’ grassoccia.
+La [[house|casa]] è sempre molto impegnata con le attività quotidiane. Lei è una vecchia un po’ grassoccia.
 
 Signora con occhi blu e viso rosso, che indossa un enorme cappello…
 
@@ -287,7 +287,7 @@ Proprio davanti alla porta d’ingresso, su un divano alto con sedile in pelle e
 
 Sedia con gambe storte e piedini appuntiti, come quelle dei tavoli…
 
-Fece sedere personalmente l’uomo anziano di quella casa; è davvero una persona eccezionale.
+Fece sedere personalmente l’uomo anziano di quella [[house|casa]]; è davvero una persona eccezionale.
 
 Il piccolo vecchio gentiluomo paffuto, con grandi occhi rotondi e un corpo enorme
 
@@ -311,7 +311,7 @@ Un certo oggetto straordinario al centro della pianura.
 
 
 
-Questo oggetto si trova sulla guglia della Casa del Comune.
+Questo oggetto si trova sulla guglia della [[house|Casa]] del Comune.
 
 Consiglio comunale… Tutti i membri del Consiglio comunale sono molto piccoli, rotondi e unti…
 
@@ -519,7 +519,7 @@ In mezzo a loro; faceva un “chassez” qui, e un “balancez” là…
 
 Poi, dopo una piruetta e un pas de zephyr, con le ali aperte come quelle di una colomba…
 
-Da solo, salì fino alla campanella del Palazzo del Comune.
+Da solo, salì fino alla campanella del [[house|Palazzo]] del Comune.
 
 Il consiglio, dove l’uomo del campanile, colpito dallo [[concepts/wonder|stupore]], sedeva fumando.
 
@@ -730,7 +730,7 @@ Idioti che mettono in scena “Judy O’Flannagan e Paddy O’Rafferty”.
 
 Dato che le cose erano messe in modo così disastroso, lasciai quel posto…
 
-Disgusto. E ora chiedono aiuto a tutti gli amanti del corretto rispetto del [[motifs/time|tempo]].
+Disgusto. E ora chiedono aiuto a tutti gli [[lovers|amanti]] del corretto rispetto del [[motifs/time|tempo]].
 
 Fine kraut. Procediamo ora verso il distretto e ripristiniamo tutto.
 
@@ -822,7 +822,7 @@ Blitzen.” This derivative, to say the [[concepts/truth|truth]], is still
 
 countenanced by some traces of the electric fluid evident on the
 
-summit of the steeple of the House of the Town-Council. I do not
+summit of the steeple of the [[house|House]] of the Town-Council. I do not
 
 choose, however, to commit myself on a theme of such importance,
 
@@ -874,7 +874,7 @@ little houses. These, having their backs on the hills, must look,
 
 of course, to the centre of the plain, which is just sixty yards
 
-from the front door of each dwelling. Every house has a small
+from the front door of each dwelling. Every [[house]] has a small
 
 [[motifs/garden|garden]] before it, with a circular path, a sun-dial, and
 
@@ -892,7 +892,7 @@ red, with black ends, so that the walls look like a chess-board
 
 upon a great scale. The gables are turned to the front, and there
 
-are cornices, as big as all the rest of the house, over the eaves
+are cornices, as big as all the rest of the [[house]], over the eaves
 
 and over the main doors. The windows are narrow and deep, with
 
@@ -1013,7 +1013,7 @@ Donder—Votteimittis, quasi un fulmine—Un fulmine obsoleto:—pro
 
 Titolo: Approvato da alcune tracce del fluido elettrico evidenti sul…
 
-La cima della guglia della Casa del Consiglio Comunale. Non lo so.
+La cima della guglia della [[house|Casa]] del Consiglio Comunale. Non lo so.
 
 "Scelgo comunque di impegnarmi su un tema di tale importanza."
 
@@ -1069,7 +1069,7 @@ Piccole case… Queste, con le loro facciate rivolte verso le colline, devono se
 
 Certo, verso il centro della pianura, che si trova a soli sessanta metri di distanza…
 
-Dalla porta d’ingresso di ogni abitazione. Ogni casa ha un piccolo.
+Dalla porta d’ingresso di ogni abitazione. Ogni [[house|casa]] ha un piccolo.
 
 Il [[motifs/garden|giardino]], con un sentiero circolare, un orologio solare e.
 
@@ -1087,7 +1087,7 @@ Rosso, con estremità nere: in questo modo le pareti sembrano un tabellone da sc
 
 Su larga scala: i timpani sono rivolti verso l’esterno, e lì…
 
-Ci sono cornici, grandi quanto il resto dell’casa, sopra i tetti.
+Ci sono cornici, grandi quanto il resto dell’[[house|casa]], sopra i tetti.
 
 E sopra le porte principali… Le finestre sono strette e profonde, con…
 
@@ -1142,11 +1142,11 @@ dial-plate of a watch.
 
 The fireplaces are large and deep, with fierce crooked-looking
 
-[[motifs/fire|fire]]-dogs. There is constantly a rousing [[motifs/fire|fire]], and a huge pot
+[[motifs/fire|fire]]-[[dogs]]. There is constantly a rousing [[motifs/fire|fire]], and a huge pot
 
 over it, full of sauer-kraut and pork, to which the good woman of
 
-the house is always busy in attending. She is a little fat old
+the [[house]] is always busy in attending. She is a little fat old
 
 lady, with blue eyes and a red face, and wears a huge cap like a
 
@@ -1204,7 +1204,7 @@ Right at the front door, in a high-backed leather-bottomed armed
 
 chair, with crooked legs and puppy feet like the tables, is
 
-seated the old man of the house himself. He is an exceedingly
+seated the old man of the [[house]] himself. He is an exceedingly
 
 puffy little old gentleman, with big circular eyes and a huge
 
@@ -1228,7 +1228,7 @@ a certain remarkable object in the centre of the plain.
 
 
 
-This object is situated in the steeple of the House of the Town
+This object is situated in the steeple of the [[house|House]] of the Town
 
 Council. The Town Council are all very little, round, oily,
 
@@ -1337,12 +1337,12 @@ La targhetta del quadrante di un orologio.
 
 Le caminette sono grandi e profonde, con fiamme violente e contorte…
 
-[[motifs/fire|fuoco]] e cani. C'è sempre un fuoco ardente, e una pentola enorme.
+[[motifs/fire|fuoco]] e [[dogs|cani]]. C'è sempre un fuoco ardente, e una pentola enorme.
 
 Titolo:  
 “Over It”, pieno di cavolo riccio e maiale… preparato dalla brava donna…”
 
-La casa è sempre molto impegnata con le attività quotidiane. Lei è una vecchia un po’ grassoccia.
+La [[house|casa]] è sempre molto impegnata con le attività quotidiane. Lei è una vecchia un po’ grassoccia.
 
 Signora con occhi blu e viso rosso, che indossa un enorme cappello…
 
@@ -1401,7 +1401,7 @@ Proprio davanti alla porta d’ingresso, su un divano alto con sedile in pelle e
 
 Sedia con gambe storte e piedini appuntiti, come quelle dei tavoli…
 
-Fece sedere personalmente l’uomo anziano di quella casa; è davvero una persona eccezionale.
+Fece sedere personalmente l’uomo anziano di quella [[house|casa]]; è davvero una persona eccezionale.
 
 Il piccolo vecchio gentiluomo paffuto, con grandi occhi rotondi e un corpo enorme
 
@@ -1425,7 +1425,7 @@ Un certo oggetto straordinario al centro della pianura.
 
 
 
-Questo oggetto si trova sulla guglia della Casa del Comune.
+Questo oggetto si trova sulla guglia della [[house|Casa]] del Comune.
 
 Consiglio comunale… Tutti i membri del Consiglio comunale sono molto piccoli, rotondi e unti…
 
@@ -1637,7 +1637,7 @@ midst of them; gave a _chassez_ here, and a _balancez_ there; and
 
 then, after a _pirouette_ and a _pas-de-zephyr_, pigeon-winged
 
-himself right up into the belfry of the House of the Town
+himself right up into the belfry of the [[house|House]] of the Town
 
 Council, where the [[concepts/wonder|wonder]]-stricken belfry-man sat smoking in a
 
@@ -1863,7 +1863,7 @@ In mezzo a loro; faceva un “chassez” qui, e un “balancez” là…
 
 Poi, dopo una piruetta e un pas de zephyr, con le ali aperte come quelle di una colomba…
 
-Da solo, salì fino alla campanella del Palazzo del Comune.
+Da solo, salì fino alla campanella del [[house|Palazzo]] del Comune.
 
 Il consiglio, dove l’uomo del campanile, colpito dallo [[concepts/wonder|stupore]], sedeva fumando.
 
@@ -2076,7 +2076,7 @@ nincompoop! of playing “Judy O’Flannagan and Paddy O’Rafferty.”
 
 Affairs being thus miserably situated, I left the place in
 
-disgust, and now appeal for aid to all lovers of correct [[motifs/time|time]] and
+disgust, and now appeal for aid to all [[lovers]] of correct [[motifs/time|time]] and
 
 fine kraut. Let us proceed in a [[concepts/body|body]] to the borough, and restore
 
@@ -2188,7 +2188,7 @@ Idioti che mettono in scena “Judy O’Flannagan e Paddy O’Rafferty”.
 
 Dato che le cose erano messe in modo così disastroso, lasciai quel posto…
 
-Disgusto. E ora chiedono aiuto a tutti gli amanti del corretto rispetto del [[motifs/time|tempo]].
+Disgusto. E ora chiedono aiuto a tutti gli [[lovers|amanti]] del corretto rispetto del [[motifs/time|tempo]].
 
 Fine kraut. Procediamo ora verso il distretto e ripristiniamo tutto.
 

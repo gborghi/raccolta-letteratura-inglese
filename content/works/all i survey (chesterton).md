@@ -107,11 +107,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/rebel|Rebel]]
+**Archetypes:** Common Man (2), Rebel
 
 **Settings:** [[settings/ancient-rome|Ancient Rome]], [[settings/rural-england|Rural England]]
 
-**Characters:** [[historical-references/jonathan-swift|Jonathan Swift]], [[characters/thomas-gray|Thomas Gray]], [[characters/geoffrey-chaucer|Geoffrey Chaucer]], [[characters/sir-walter-scott|Sir Walter Scott]], [[characters/vachel-lindsay|Vachel Lindsay]], [[characters/charles-ii|Charles II]], [[historical-references/robert-louis-stevenson|Robert Louis Stevenson]], [[characters/lord-byron|Lord Byron]]
+**Characters:** [[historical-references/jonathan-swift|Jonathan Swift]], Thomas Gray, Geoffrey Chaucer, Sir Walter Scott, Vachel Lindsay, Charles II, [[historical-references/robert-louis-stevenson|Robert Louis Stevenson]], Lord Byron
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/ubi-sunt|Ubi Sunt]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/common-man|Common Man]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/education|Education]], [[concepts/paradox|Paradox]], [[concepts/artist-and-society|Artist and Society]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nostalgia|Nostalgia]], [[concepts/distributism|Distributism]], [[concepts/democracy|Democracy]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/economics|Economics]], [[concepts/history|History]]

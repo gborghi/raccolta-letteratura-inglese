@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political" data-author="Coleridge" data-workhref="works/nationalism-and-patriotism-·-democracy-·-liberty-political-freedom-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="082_to_the_honourable_mr_erskine" data-title="TO THE HONOURABLE MR. ERSKINE" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/sun,concept/liberty,concept/immortality_of_art,concept/heroism,form/sonnet,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="082_to_the_honourable_mr_erskine" data-title="TO THE HONOURABLE MR. ERSKINE" data-chapter="" data-kind="intro"></span>
 
 
 When British [[concepts/freedom|Freedom]] for an happier land  
@@ -33,12 +33,12 @@ December 1, 1794.
 
 
 
-<span class="atom-split" data-atom="086_koskiusko" data-title="KOSKIUSKO" data-chapter="" data-kind="intro" data-tags="topos/the_last_stand,motif/death,concept/liberty,concept/war_and_its_cost,concept/grief_and_loss,concept/heroism,form/sonnet,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="086_koskiusko" data-title="KOSKIUSKO" data-chapter="" data-kind="intro"></span>
 
 
 O what a loud and fearful shriek was there,  
 As though a thousand souls one [[motifs/death|death]]-groan pour’d!  
-Ah me! they saw beneath a Hireling’s sword  
+Ah me! they saw beneath a Hireling’s [[Sword|sword]]  
 Their KOSKIUSKO fall! Through the swart air  
 (As pauses the tir’d Cossac’s barbarous yell   5  
 Of Triumph) on the chill and midnight gale  
@@ -55,10 +55,10 @@ December 16, 1794.
 
 
 
-<span class="atom-split" data-atom="093_to_lord_stanhope" data-title="TO LORD STANHOPE" data-chapter="" data-kind="intro" data-tags="motif/sun,concept/liberty,concept/nationalism_and_patriotism,concept/heroism,concept/power_and_corruption,form/sonnet,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="093_to_lord_stanhope" data-title="TO LORD STANHOPE" data-chapter="" data-kind="intro"></span>
 
 
-ON READING HIS LATE PROTEST IN THE HOUSE OF LORDS  
+ON READING HIS LATE PROTEST IN THE [[house|HOUSE]] OF LORDS  
 ‘MORNING CHRONICLE,’ JAN. 31, 1795  
 STANHOPE! I hail, with ardent [[forms/hymn|Hymn]], thy name!  
 Thou shalt be bless’d and lov’d, when in the [[motifs/dust|dust]]  
@@ -80,7 +80,7 @@ ONE OF THE PEOPLE.
 
 
 
-<span class="atom-split" data-atom="094_to_earl_stanhope" data-title="TO EARL STANHOPE" data-chapter="" data-kind="intro" data-tags="archetype/rebel,concept/liberty,concept/nationalism_and_patriotism,concept/faith,form/sonnet,histref/the_bible,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="094_to_earl_stanhope" data-title="TO EARL STANHOPE" data-chapter="" data-kind="intro"></span>
 
 
 Not, STANHOPE! with the Patriot’s doubtful name  
@@ -102,16 +102,16 @@ Champion of [[concepts/freedom|Freedom]] and her God! rejoice!
 
 
 
-<span class="atom-split" data-atom="112_literal_translation" data-title="LITERAL TRANSLATION." data-chapter="" data-kind="intro" data-tags="archetype/hero,motif/death,concept/liberty,concept/war_and_its_cost,concept/providence,form/fragment,form/allegory,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="112_literal_translation" data-title="LITERAL TRANSLATION." data-chapter="" data-kind="intro"></span>
 
 
 Leaving the gates of Darkness, O [[motifs/death|Death]]! hasten thou to a Race yoked to  
 Misery! Thou wilt not be received with lacerations of Cheeks, nor with  
-funereal ululation, but with circling Dances and the joy of Songs. Thou  
+funereal ululation, but with circling Dances and the joy of [[songs|Songs]]. Thou  
 art terrible indeed, yet thou dwellest with LIBERTY, stern GENIUS! Borne  
 on thy dark pinions over the swelling of Ocean they return to their  
 native country. There by the side of fountains beneath Citron groves,  
-the Lovers tell to their Beloved, what horrors, being Men, they had  
+the [[lovers|Lovers]] tell to their Beloved, what horrors, being Men, they had  
 endured from Men.  
 ¿ before ¶ ought to have been made long; ´¿ÑÂ QÀM¶ is  
 an Amphimacer not (as the metre here requires) a Dactyl. S.  
@@ -197,7 +197,7 @@ Dar’st thou inspir’d by the holy flame of [[motifs/love|Love]]
 Encounter such fell shapes, nor [[concepts/fear|fear]] to meet  
 Their wrath, their wiles? O Maiden dar’st thou die?’  
 ‘Father of Heaven: I will not [[concepts/fear|fear]].’ she said,   265  
-‘My arm is weak, but mighty is thy sword.’  
+‘My arm is weak, but mighty is thy [[Sword|sword]].’  
 She spake and as she spake the trump was heard  
 That echoed ominous o’er the streets of Rome,  
 When the first Caesar totter’d o’er the [[motifs/grave|grave]]  
@@ -277,7 +277,7 @@ For lines 470-74 vide ante var. of lines 130 foll.
 
 
 
-<span class="atom-split" data-atom="116_verses_addressed_to_j_horne_tooke_and_the_company_who_met_on_june_28th_1796" data-title="VERSES: ADDRESSED TO J. HORNE TOOKE AND THE COMPANY WHO MET ON JUNE 28TH, 1796," data-chapter="" data-kind="intro" data-tags="motif/dawn,concept/liberty,concept/reform,concept/power_and_corruption,concept/social_injustice,form/lyric,histref/ancient_rome,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="116_verses_addressed_to_j_horne_tooke_and_the_company_who_met_on_june_28th_1796" data-title="VERSES: ADDRESSED TO J. HORNE TOOKE AND THE COMPANY WHO MET ON JUNE 28TH, 1796," data-chapter="" data-kind="intro"></span>
 
 
 TO CELEBRATE HIS POLL AT THE WESTMINSTER ELECTION  
@@ -291,14 +291,14 @@ Th’ Horizon kindles with so rich a red,
 That tho’ the Sun still hides his glorious head  
 Th’ impatient Matin-bird, assur’d of Day,  
 [[motifs/leaves|Leaves]] his low nest to meet its earliest ray;   10  
-Loud the sweet song of Gratulation sings,  
+Loud the sweet [[Song|song]] of Gratulation sings,  
 And high in air claps his rejoicing wings!  
 Patriot and Sage! whose breeze-like Spirit first  
 The lazy mists of Pedantry dispers’d  
 (Mists in which Superstition’s pigmy band   15  
 Seem’d Giant Forms, the Genii of the Land!),  
 Thy struggles soon shall wak’ning Britain bless,  
-And [[concepts/truth|Truth]] and [[concepts/freedom|Freedom]] hail thy wish’d success.  
+And [[concepts/truth|Truth]] and [[concepts/freedom|Freedom]] hail thy wish’d [[success]].  
 Yes Tooke! tho’ foul Corruption’s wolfish throng  
 Outmalice Calumny’s imposthum’d Tongue,   20  
 Thy Country’s noblest and determin’d Choice,  
@@ -338,7 +338,7 @@ Not to the Tyrants but the Tyranny!
 
 
 
-<span class="atom-split" data-atom="148_original_poetry" data-title="ORIGINAL POETRY." data-chapter="" data-kind="intro" data-tags="concept/liberty,concept/disillusionment,concept/war_and_its_cost,form/ode,histref/the_french_revolution,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="148_original_poetry" data-title="ORIGINAL POETRY." data-chapter="" data-kind="intro"></span>
 
 
 The following excellent Ode will be in unison with the feelings of every  
@@ -367,7 +367,7 @@ corrected copy.
 
 
 
-<span class="atom-split" data-atom="149_argument_1" data-title="ARGUMENT." data-chapter="" data-kind="intro" data-tags="motif/nature,concept/liberty,concept/disillusionment,concept/faith,histref/the_french_revolution,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="149_argument_1" data-title="ARGUMENT." data-chapter="" data-kind="intro"></span>
 
 
 ‘First Stanza. An invocation to those objects in [[concepts/nature|Nature]] the
@@ -381,13 +381,13 @@ foul superstition of Popery. Reason, indeed, began to suggest many
 apprehensions; yet still the Poet struggled to retain the [[concepts/hope|hope]] that
 France would make conquests by no other means than by presenting to the
 observation of Europe a people more happy and better instructed than
-under other forms of Government. Fourth Stanza. Switzerland, and the
+under other forms of [[government|Government]]. Fourth Stanza. Switzerland, and the
 Poet’s recantation. Fifth Stanza. An address to Liberty, in which the
 Poet expresses his conviction that those feelings and that grand ideal
 of [[concepts/freedom|Freedom]] which the mind attains by its contemplation of its individual
 [[concepts/nature|nature]], and of the [[concepts/sublime|sublime]] surrounding objects (see Stanza the First) do
 not belong to men, as a society, nor can possibly be either gratified or
-realised, under any form of human government; but belong to the
+realised, under any form of human [[government]]; but belong to the
 individual man, so far as he is pure, and inflamed with the [[motifs/love|love]] and
 adoration of God in [[concepts/nature|Nature]].’
 Title] The Recantation: an Ode. By S. T. Coleridge. 1798.
@@ -413,7 +413,7 @@ To live among the winds and brood upon the waves
 
 
 
-<span class="atom-split" data-atom="176_the_british_striplings_war-song_imitated_from_stolberg" data-title="THE BRITISH STRIPLING’S WAR-SONG IMITATED FROM STOLBERG" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/swords_weapons,motif/childhood,concept/heroism,concept/nationalism_and_patriotism,concept/war_and_its_cost,form/song,form/translation,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="176_the_british_striplings_war-song_imitated_from_stolberg" data-title="THE BRITISH STRIPLING’S WAR-SONG IMITATED FROM STOLBERG" data-chapter="" data-kind="intro"></span>
 
 
 Yes, noble old Warrior! this heart has beat high,  
@@ -449,7 +449,7 @@ And I too will fight as my forefathers fought!
 
 
 
-<span class="atom-split" data-atom="352_motto_for_a_transparency" data-title="MOTTO FOR A TRANSPARENCY" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/animals,concept/war_and_its_cost,concept/nationalism_and_patriotism,form/epigram,histref/napoleonic_wars,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="352_motto_for_a_transparency" data-title="MOTTO FOR A TRANSPARENCY" data-chapter="" data-kind="intro"></span>
 
 
 DESIGNED BY WASHINGTON ALLSTON AND EXHIBITED AT BRISTOL ON ‘PROCLAMATION DAY’ — June 29, 1814.  

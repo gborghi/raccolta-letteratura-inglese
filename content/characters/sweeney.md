@@ -15,8 +15,8 @@ tags:
 <div class="concept-works-fallback">
 
 - [[works/sweeney-agonistes-(eliot)|Sweeney Agonistes (Eliot)]]
-- [[testi/eliot/atomized/alienation-outsider-exile#026_sweeney_among_the_nightingales|Sweeney Among the Nightingales (Eliot)]]
-- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#017_sweeney_erect|Sweeney Erect (Eliot)]]
+- [[works/sweeney-among-the-nightingales-(eliot)|Sweeney Among the Nightingales (Eliot)]]
+- [[works/sweeney-erect-(eliot)|Sweeney Erect (Eliot)]]
 
 </div>
 

@@ -23,7 +23,7 @@ Contents
 
 CHAPTER I. THE [[motifs/dawn|DAWN]]
 CHAPTER II. A DEAN, AND A CHAPTER ALSO
-CHAPTER III. THE NUNS’ HOUSE
+CHAPTER III. THE NUNS’ [[house|HOUSE]]
 CHAPTER IV. MR. SAPSEA
 CHAPTER V. MR. [[characters/durdles|DURDLES]] AND FRIEND
 CHAPTER VI. PHILANTHROPY IN MINOR CANON CORNER
@@ -51,6 +51,10 @@ CHAPTER XXIII. THE [[motifs/dawn|DAWN]] AGAIN
 THE MYSTERY OF [[characters/edwin-drood|EDWIN DROOD]]
 
 [Illustration: Rochester [[settings/castle|castle]]]
+
+
+
+
 
 
 
@@ -152,7 +156,7 @@ and limbs, like fitful [[motifs/lightning|lightning]] out of a dark sky, some co
 them seizes upon him: insomuch that he has to withdraw himself to a
 lean arm-chair by the hearth—placed there, perhaps, for such
 emergencies—and to sit in it, holding tight, until he has got the
-better of this unclean spirit of imitation.
+better of this unclean spirit of [[Imitation|imitation]].
 
 Then he comes back, pounces on the Chinaman, and seizing him with both
 hands by the throat, turns him violently on the bed. The Chinaman
@@ -184,7 +188,7 @@ some rat-ridden doorkeeper, in bed in a black hutch beneath the stairs,
 and passes out.
 
 That same afternoon, the massive gray square tower of an old [[settings/cathedral|Cathedral]]
-rises before the sight of a jaded traveller. The bells are going for
+rises before the sight of a jaded traveller. [[The Bells|The bells]] are going for
 daily vesper service, and he must needs attend it, one would say, from
 his haste to reach the open [[settings/cathedral|Cathedral]] door. The choir are getting on
 their sullied white robes, in a hurry, when he arrives among them, gets
@@ -272,7 +276,7 @@ shoots this word out, as defying him to improve upon it: “and a dimness
 and giddiness crept over him as strange as ever I saw: though he didn’t
 seem to mind it particularly, himself. However, a little [[motifs/time|time]] and a
 little [[motifs/water|water]] brought him out of his DAZE.” Mr. Tope repeats the word
-and its emphasis, with the air of saying: “As I _have_ made a success,
+and its emphasis, with the air of saying: “As I _have_ made a [[success]],
 I’ll make it again.”
 
 “And Mr. Jasper has gone [[motifs/home|home]] quite himself, has he?” asked the Dean.
@@ -313,7 +317,7 @@ Wished to know how he was.”
 
 With a pleasant air of patronage, the Dean as nearly cocks his quaint
 hat as a Dean in good spirits may, and directs his comely gaiters
-towards the ruddy dining-room of the snug old red-brick house where he
+towards the ruddy dining-room of the snug old red-brick [[house]] where he
 is at present, “in residence” with Mrs. Dean and Miss Dean.
 
 Mr. Crisparkle, Minor Canon, fair and rosy, and perpetually pitching
@@ -546,7 +550,7 @@ all the pretty girls in the world.”
 “That’s what I complain of. My dead and gone father and Pussy’s dead
 and gone father must needs marry us together by anticipation. Why
 the—Devil, I was going to say, if it had been respectful to their
-[[motifs/memory|memory]]—couldn’t they leave us alone?”
+[[motifs/memory|memory]]—couldn’t they leave us [[Alone|alone]]?”
 
 “Tut, tut, dear boy,” Mr. Jasper remonstrates, in a tone of gentle
 deprecation.
@@ -588,11 +592,11 @@ is restored, he lays a tender hand upon his nephew’s shoulder, and, in
 a tone of voice less troubled than the purport of his words—indeed with
 something of raillery or banter in it—thus addresses him:
 
-“There is said to be a hidden skeleton in every house; but you thought
+“There is said to be a hidden [[skeleton]] in every [[house]]; but you thought
 there was none in mine, dear Ned.”
 
 “Upon my life, Jack, I did think so. However, when I come to consider
-that even in Pussy’s house—if she had one—and in mine—if I had one—”
+that even in Pussy’s [[house]]—if she had one—and in mine—if I had one—”
 
 “You were going to say (but that I interrupted you in spite of myself)
 what a quiet life mine is. No whirl and uproar around me, no
@@ -716,8 +720,8 @@ into the East, and Pussy with me. And although we have our little tiffs
 now, arising out of a certain unavoidable flatness that attends our
 [[motifs/love|love]]-making, owing to its end being all settled beforehand, still I
 have no [[concepts/doubt|doubt]] of our getting on capitally then, when it’s done and
-can’t be helped. In short, Jack, to go back to the old song I was
-freely quoting at dinner (and who knows old songs better than you?), my
+can’t be helped. In short, Jack, to go back to the old [[Song|song]] I was
+freely quoting at dinner (and who knows old [[songs]] better than you?), my
 wife shall [[motifs/dance|dance]], and I will sing, so merrily pass the day. Of Pussy’s
 being beautiful there cannot be a [[concepts/doubt|doubt]];—and when you are good besides,
 Little Miss Impudence,” once more apostrophising the portrait, “I’ll
@@ -742,7 +746,7 @@ danger, I don’t like your putting yourself in that position.”
 “Shall we go and walk in the churchyard?”
 
 “By all means. You won’t mind my slipping out of it for half a moment
-to the Nuns’ House, and leaving a parcel there? Only gloves for Pussy;
+to the Nuns’ [[house|House]], and leaving a parcel there? Only gloves for Pussy;
 as many pairs of gloves as she is years old to-day. Rather poetical,
 Jack?”
 
@@ -762,7 +766,7 @@ Mr. Jasper dissolves his attitude, and they go out together.
 
 
 CHAPTER III.
-THE NUNS’ HOUSE
+THE NUNS’ [[house|HOUSE]]
 
 
 For sufficient reasons, which this narrative will itself unfold as it
@@ -803,7 +807,7 @@ confirmation very like a Quakeress’s bonnet, up in a shady corner.
 In a word, a [[motifs/city|city]] of another and a bygone [[motifs/time|time]] is Cloisterham, with its
 hoarse [[settings/cathedral|Cathedral]]-bell, its hoarse rooks hovering about the [[settings/cathedral|Cathedral]]
 tower, its hoarser and less distinct rooks in the stalls far beneath.
-Fragments of old wall, saint’s chapel, chapter-house, convent and
+Fragments of old wall, saint’s chapel, chapter-[[house]], convent and
 monastery, have got incongruously or obstructively built into many of
 its houses and gardens, much as kindred jumbled notions have become
 incorporated into many of its citizens’ minds. All things in it are of
@@ -818,11 +822,11 @@ theatre has its poor strip of [[motifs/garden|garden]], receiving the foul fiend
 ducks from its stage into the infernal regions, among scarlet-beans or
 oyster-shells, according to the season of the year.
 
-In the midst of Cloisterham stands the Nuns’ House: a venerable brick
+In the midst of Cloisterham stands the Nuns’ [[house|House]]: a venerable brick
 edifice, whose present appellation is doubtless derived from the legend
 of its conventual uses. On the trim gate enclosing its old courtyard is
 a resplendent brass plate flashing forth the legend: “Seminary for
-Young Ladies. Miss Twinkleton.” The house-front is so old and worn, and
+Young Ladies. Miss Twinkleton.” The [[house]]-front is so old and worn, and
 the brass plate is so shining and staring, that the general result has
 reminded imaginative strangers of a battered old beau with a large
 modern eye-glass stuck in his blind eye.
@@ -830,7 +834,7 @@ modern eye-glass stuck in his blind eye.
 Whether the nuns of yore, being of a submissive rather than a
 stiff-necked generation, habitually bent their contemplative heads to
 avoid collision with the beams in the low ceilings of the many chambers
-of their House; whether they sat in its long low windows telling their
+of their [[house|House]]; whether they sat in its long low windows telling their
 beads for their mortification, instead of making necklaces of them for
 their adornment; whether they were ever walled up alive in odd angles
 and jutting gables of the building for having some ineradicable leaven
@@ -873,7 +877,7 @@ from race to race, that the departed Tisher was a hairdresser.
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="The Mystery of Edwin Drood — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/orphan,motif/dance,motif/night,motif/time,motif/well,motif/window,concept/hope,concept/melancholy,character/edwin_drood,character/rosa_bud"></span>
 
 
-The pet pupil of the Nuns’ House is Miss [[characters/rosa-bud|Rosa Bud]], of course called
+The pet pupil of the Nuns’ [[house|House]] is Miss [[characters/rosa-bud|Rosa Bud]], of course called
 Rosebud; wonderfully pretty, wonderfully childish, wonderfully
 whimsical. An awkward interest (awkward because romantic) attaches to
 Miss Bud in the minds of the young ladies, on account of its being
@@ -888,7 +892,7 @@ Mr. Porters has undermined the endeavour—than to evoke from the young
 ladies an unanimous bedchamber cry of “O, what a pretending old thing
 Miss Twinkleton is, my dear!”
 
-The Nuns’ House is never in such a state of flutter as when this
+The Nuns’ [[house|House]] is never in such a state of flutter as when this
 allotted husband calls to see little Rosebud. (It is unanimously
 understood by the young ladies that he is lawfully entitled to this
 privilege, and that if Miss Twinkleton disputed it, she would be
@@ -1034,7 +1038,7 @@ were just as tired of me, you know.”
 
 “It strikes me that she must be a devilish impudent girl,” says Edwin
 Drood. “And so, Pussy, you have passed your last birthday in this old
-house.”
+[[house]].”
 
 “Ah, yes!” Rosa clasps her hands, looks down with a sigh, and shakes
 her head.
@@ -1079,7 +1083,7 @@ disappears with her prize.
 
 “One other thing you must do, Eddy, to oblige me,” says Rosebud. “The
 moment we get into the street, you must put me outside, and keep close
-to the house yourself—squeeze and graze yourself against it.”
+to the [[house]] yourself—squeeze and graze yourself against it.”
 
 “By all means, Rosa, if you wish it. Might I ask why?”
 
@@ -1096,7 +1100,7 @@ distaste for them.
 
 “Nothing escapes their notice, sir. And then I know what would happen.
 Some of them would begin reflecting on me by saying (for _they_ are
-free) that they never will on any account engage themselves to lovers
+free) that they never will on any account engage themselves to [[lovers]]
 without polished leather boots. Hark! Miss Twinkleton. I’ll ask for
 leave.”
 
@@ -1104,7 +1108,7 @@ That discreet lady being indeed heard without, inquiring of nobody in a
 blandly conversational tone as she advances: “Eh? Indeed! Are you quite
 sure you saw my mother-of-pearl button-holder on the work-table in my
 room?” is at once solicited for walking leave, and graciously accords
-it. And soon the young couple go out of the Nuns’ House, taking all
+it. And soon the young couple go out of the Nuns’ [[house|House]], taking all
 precautions against the discovery of the so vitally defective boots of
 Mr. [[characters/edwin-drood|Edwin Drood]]: precautions, let us [[concepts/hope|hope]], effective for the peace of
 Mrs. [[characters/edwin-drood|Edwin Drood]] that is to be.
@@ -1126,7 +1130,7 @@ pretend. No, you needn’t know anything about them; never mind.”
 So he is gloomily borne off to the Lumps-of-Delight shop, where Rosa
 makes her purchase, and, after offering some to him (which he rather
 indignantly declines), begins to partake of it with great zest:
-previously taking off and rolling up a pair of little pink gloves, like
+previously taking off and [[rolling]] up a pair of little pink gloves, like
 [[motifs/rose|rose]]-[[motifs/leaves|leaves]], and occasionally putting her little pink fingers to her
 rosy lips, to cleanse them from the [[motifs/dust|Dust]] of Delight that comes off the
 Lumps.
@@ -1325,7 +1329,7 @@ listen to it; let us get away!”
 
 Her hurry is over as soon as they have passed out of the Close. They go
 arm-in-arm now, gravely and deliberately enough, along the old
-High-street, to the Nuns’ House. At the gate, the street being within
+High-street, to the Nuns’ [[house|House]]. At the gate, the street being within
 sight empty, Edwin bends down his face to Rosebud’s.
 
 She remonstrates, laughing, and is a childish schoolgirl again.
@@ -1386,7 +1390,7 @@ himself has grown since he was a baby; how can dunder-headed Mr. Sapsea
 be otherwise than a credit to Cloisterham, and society?
 
 Mr. Sapsea’s premises are in the High-street, over against the Nuns’
-House. They are of about the period of the Nuns’ House, irregularly
+[[house|House]]. They are of about the period of the Nuns’ [[house|House]], irregularly
 modernised here and there, as steadily deteriorating generations found,
 more and more, that they preferred air and light to Fever and the
 Plague. Over the doorway is a wooden effigy, about half life-size,
@@ -1408,7 +1412,7 @@ materials. Glancing at a scrap of manuscript, Mr. Sapsea reads it to
 himself with a lofty air, and then, slowly pacing the room with his
 thumbs in the arm-holes of his waistcoat, repeats it from [[motifs/memory|memory]]: so
 internally, though with much dignity, that the word “Ethelinda” is
-alone audible.
+[[Alone|alone]] audible.
 
 There are three clean wineglasses in a tray on the table. His
 serving-maid entering, and announcing “Mr. Jasper is come, sir,” Mr.
@@ -1417,7 +1421,7 @@ being claimed.
 
 “Glad to see you, sir. I congratulate myself on having the [[concepts/honour|honour]] of
 receiving you here for the first [[motifs/time|time]].” Mr. Sapsea does the honours of
-his house in this wise.
+his [[house]] in this wise.
 
 “You are very good. The [[concepts/honour|honour]] is mine and the [[concepts/self|self]]-congratulation is
 mine.”
@@ -1503,12 +1507,12 @@ watering eyes.
 enlarged my mind up to—I will not say to what it now is, for that might
 seem to aim at too much, but up to the pitch of wanting another mind to
 be absorbed in it—I cast my eye about me for a nuptial partner.
-Because, as I say, it is not good for man to be alone.”
+Because, as I say, it is not good for man to be [[Alone|alone]].”
 
 Mr. Jasper appears to commit this original idea to [[motifs/memory|memory]].
 
 “Miss Brobity at that [[motifs/time|time]] kept, I will not call it the rival
-establishment to the establishment at the Nuns’ House opposite, but I
+establishment to the establishment at the Nuns’ [[house|House]] opposite, but I
 will call it the other parallel establishment down town. The world did
 have it that she showed a passion for attending my sales, when they
 took place on half holidays, or in vacation [[motifs/time|time]]. The world did put it
@@ -1652,7 +1656,7 @@ been, on certain renowned occasions, taken into custody along with
 [[characters/durdles|Durdles]] (as drunk and incapable), and exhibited before the Bench of
 justices at the townhall. These occasions, however, have been few and
 far apart: [[characters/durdles|Durdles]] being as seldom drunk as sober. For the rest, he is
-an old bachelor, and he lives in a little antiquated hole of a house
+an old bachelor, and he lives in a little antiquated hole of a [[house]]
 that was never finished: supposed to be built, so far, of stones stolen
 from the [[motifs/city|city]] wall. To this abode there is an approach, ankle-deep in
 stone chips, resembling a petrified grove of tombstones, urns,
@@ -2037,8 +2041,8 @@ by this mystic word to express his assent to the arrangement.
 
 They have but to [[motifs/cross|cross]] what was once the vineyard, belonging to what
 was once the Monastery, to come into the narrow back lane wherein
-stands the crazy wooden house of two low stories currently known as the
-Travellers’ Twopenny:—a house all warped and distorted, like the morals
+stands the crazy wooden [[house]] of two low stories currently known as the
+Travellers’ Twopenny:—a [[house]] all warped and distorted, like the morals
 of the travellers, with scant remains of a lattice-work porch over the
 door, and also of a rustic fence before its stamped-out [[motifs/garden|garden]]; by
 reason of the travellers being so bound to the premises by a tender
@@ -2052,7 +2056,7 @@ by fragments of conventional red curtaining in the windows, which rags
 are made muddily transparent in the [[motifs/night|night]]-season by feeble lights of
 rush or cotton dip burning dully in the close air of the inside. As
 [[characters/durdles|Durdles]] and Jasper come near, they are addressed by an inscribed paper
-lantern over the door, setting forth the purport of the house. They are
+lantern over the door, setting forth the purport of the [[house]]. They are
 also addressed by some half-dozen other hideous small boys—whether
 twopenny lodgers or followers or hangers-on of such, who knows!—who, as
 if attracted by some carrion-scent of Deputy in the air, start into the
@@ -2110,7 +2114,7 @@ boxing at a looking-glass with great science and prowess. A fresh and
 healthy portrait the looking-glass presented of the Reverend Septimus,
 feinting and dodging with the utmost artfulness, and hitting out from
 the shoulder with the utmost straightness, while his radiant features
-teemed with innocence, and soft-hearted benevolence beamed from his
+teemed with [[innocence]], and soft-hearted benevolence beamed from his
 boxing-gloves.
 
 It was scarcely breakfast-[[motifs/time|time]] yet, for Mrs. Crisparkle—mother, not
@@ -2138,7 +2142,7 @@ Magnanimously releasing the defeated, just in [[motifs/time|time]] to get his gl
 into a drawer and feign to be looking out of [[motifs/window|window]] in a contemplative
 state of mind when a servant entered, the Reverend Septimus then gave
 place to the urn and other preparations for breakfast. These completed,
-and the two alone again, it was pleasant to see (or would have been, if
+and the two [[Alone|alone]] again, it was pleasant to see (or would have been, if
 there had been any one to see it, which there never was), the old lady
 standing to say the Lord’s [[motifs/prayer|Prayer]] aloud, and her son, Minor Canon
 nevertheless, standing with bent head to hear it, he being within five
@@ -2266,12 +2270,12 @@ dear, for interrupting.”
 “‘Therefore, dear Madam, you will please prepare your son, the Rev. Mr.
 Septimus, to expect Neville as an inmate to be read with, on Monday
 next. On the same day [[characters/helena|Helena]] will accompany him to Cloisterham, to take
-up her quarters at the Nuns’ House, the establishment recommended by
+up her quarters at the Nuns’ [[house|House]], the establishment recommended by
 yourself and son jointly. Please likewise to prepare for her reception
 and tuition there. The terms in both cases are understood to be exactly
 as stated to me in writing by yourself, when I opened a correspondence
 with you on this subject, after the [[concepts/honour|honour]] of being introduced to you
-at your sister’s house in town here. With compliments to the Rev. Mr.
+at your sister’s [[house]] in town here. With compliments to the Rev. Mr.
 Septimus, I am, Dear Madam, Your affectionate brother (In
 Philanthropy), LUKE HONEYTHUNDER.’”
 
@@ -2326,7 +2330,7 @@ Would eight at a friendly dinner at all put you out, Ma?”
 
 So it was settled that way: and when Mr. Crisparkle called with his
 mother upon Miss Twinkleton, to arrange for the reception of Miss
-[[characters/helena-landless|Helena Landless]] at the Nuns’ House, the two other invitations having
+[[characters/helena-landless|Helena Landless]] at the Nuns’ [[house|House]], the two other invitations having
 reference to that establishment were proffered and accepted. Miss
 Twinkleton did, indeed, glance at the globes, as regretting that they
 were not formed to be taken out into society; but became reconciled to
@@ -2375,7 +2379,7 @@ passenger. “Your master is morally bound—and ought to be legally, under
 ruinous penalties—to provide for the comfort of his fellow-man.”
 
 The driver instituted, with the palms of his hands, a superficial
-perquisition into the state of his skeleton; which seemed to make him
+perquisition into the state of his [[skeleton]]; which seemed to make him
 anxious.
 
 “Have I sat upon you?” asked the passenger.
@@ -2647,8 +2651,8 @@ contact, we had made up our minds not to like you.”
 “Really?” said Mr. Crisparkle again.
 
 “But we do like you, sir, and we see an unmistakable difference between
-your house and your reception of us, and anything else we have ever
-known. This—and my happening to be alone with you—and everything around
+your [[house]] and your reception of us, and anything else we have ever
+known. This—and my happening to be [[Alone|alone]] with you—and everything around
 us seeming so quiet and peaceful after Mr. Honeythunder’s departure—and
 Cloisterham being so old and [[motifs/grave|grave]] and beautiful, with the [[motifs/moon|moon]] shining
 on it—these things inclined me to open my heart.”
@@ -2714,7 +2718,7 @@ aid from Heaven.”
 “And, Mr. Neville, I will try to do mine. Here is my hand on it. May
 God bless our endeavours!”
 
-They were now standing at his house-door, and a cheerful sound of
+They were now standing at his [[house]]-door, and a cheerful sound of
 voices and laughter was heard within.
 
 “We will take one more turn before going in,” said Mr. Crisparkle, “for
@@ -2738,7 +2742,7 @@ as a look—may have passed between us. She not only feels as I have
 described, but she very [[motifs/well|well]] knows that I am taking this opportunity of
 speaking to you, both for her and for myself.”
 
-Mr. Crisparkle looked in his face, with some incredulity; but his face
+Mr. Crisparkle looked in his face, with some [[Incredulity|incredulity]]; but his face
 expressed such absolute and firm conviction of the [[concepts/truth|truth]] of what he
 said, that Mr. Crisparkle looked at the pavement, and mused, until they
 came to his door again.
@@ -2772,7 +2776,7 @@ This was said so evidently to himself, or to anybody rather than Mr.
 Crisparkle, that the latter instinctively felt as if to notice it would
 be almost tantamount to noticing a passage in a letter which he had
 read by chance over the writer’s shoulder. A moment afterwards they
-re-entered the house.
+re-entered the [[house]].
 
 Mr. Jasper was seated at the piano as they came into his drawing-room,
 and was accompanying Miss Rosebud while she sang. It was a consequence
@@ -2794,7 +2798,7 @@ in the [[settings/cathedral|Cathedral]] service.
 [Illustration: At the piano]
 
 
-The song went on. It was a sorrowful strain of parting, and the fresh
+The [[Song|song]] went on. It was a sorrowful strain of parting, and the fresh
 young voice was very plaintive and tender. As Jasper watched the pretty
 lips, and ever and again hinted the one note, as though it were a low
 whisper from himself, the voice became less steady, until all at once
@@ -2842,13 +2846,13 @@ too cold.
 
 
 Miss Twinkleton now opining that indeed these were late hours, Mrs.
-Crisparkle, for finding ourselves outside the walls of the Nuns’ House,
+Crisparkle, for finding ourselves outside the walls of the Nuns’ [[house|House]],
 and that we who undertook the formation of the future wives and mothers
 of England (the last words in a lower voice, as requiring to be
 communicated in confidence) were really bound (voice coming up again)
 to set a better example than one of rakish habits, wrappers were put in
 requisition, and the two young cavaliers volunteered to see the ladies
-[[motifs/home|home]]. It was soon done, and the gate of the Nuns’ House closed upon
+[[motifs/home|home]]. It was soon done, and the gate of the Nuns’ [[house|House]] closed upon
 them.
 
 The boarders had retired, and only Mrs. Tisher in solitary vigil
@@ -2994,7 +2998,7 @@ DAGGERS DRAWN
 
 
 The two young men, having seen the damsels, their charges, enter the
-courtyard of the Nuns’ House, and finding themselves coldly stared at
+courtyard of the Nuns’ [[house|House]], and finding themselves coldly stared at
 by the brazen door-plate, as if the battered old beau with the glass in
 his eye were insolent, look at one another, look along the perspective
 of the moonlit street, and slowly walk away together.
@@ -3034,7 +3038,7 @@ innocently referring to your betrothal?”
 
 “By George!” cries Edwin, leading on again at a somewhat quicker pace;
 “everybody in this chattering old Cloisterham refers to it. I [[concepts/wonder|wonder]] no
-public-house has been set up, with my portrait for the sign of The
+public-[[house]] has been set up, with my portrait for the sign of The
 Betrothed’s Head. Or Pussy’s portrait. One or the other.”
 
 “I am not accountable for Mr. Crisparkle’s mentioning the matter to me,
@@ -3087,7 +3091,7 @@ surveying the other with a look of disdain.
 
 But, here a startling right hand is laid on Edwin’s shoulder, and
 Jasper stands between them. For, it would seem that he, too, has
-strolled round by the Nuns’ House, and has come up behind them on the
+strolled round by the Nuns’ [[house|House]], and has come up behind them on the
 shadowy side of the [[motifs/road|road]].
 
 “Ned, Ned, Ned!” he says; “we must have no more of this. I don’t like
@@ -3140,7 +3144,7 @@ has lost hold of his temper; feels that [[characters/edwin-drood|Edwin Drood]]�
 from being infectious, makes him red-hot.
 
 Mr. Jasper, still walking in the centre, hand to shoulder on either
-side, beautifully turns the Refrain of a drinking song, and they all go
+side, beautifully turns the Refrain of a drinking [[Song|song]], and they all go
 up to his rooms. There, the first object visible, when he adds the
 light of a lamp to that of the [[motifs/fire|fire]], is the portrait over the
 chimneypiece. It is not an object calculated to improve the
@@ -3314,7 +3318,7 @@ shame! Give this glass to me. Open your hand, sir. I WILL have it!”
 But Neville throws him off, and pauses for an instant, in a raging
 passion, with the goblet yet in his uplifted hand. Then, he dashes it
 down under the grate, with such force that the broken splinters fly out
-again in a shower; and he [[motifs/leaves|leaves]] the house.
+again in a shower; and he [[motifs/leaves|leaves]] the [[house]].
 
 When he first emerges into the [[motifs/night|night]] air, nothing around him is still
 or steady; nothing around him shows like what it is; he only knows that
@@ -3390,7 +3394,7 @@ commentary.
 
 “You know your room, for I showed it you before dinner; but I will
 accompany you to it once more. Your arm, if you please. Softly, for the
-house is all a-bed.”
+[[house]] is all a-bed.”
 
 Scooping his hand into the same scientific elbow-rest as before, and
 backing it up with the inert strength of his arm, as skilfully as a
@@ -3458,7 +3462,7 @@ CHAPTER IX.
 
 
 Rosa, having no relation that she knew of in the world, had, from the
-seventh year of her age, known no [[motifs/home|home]] but the Nuns’ House, and no
+seventh year of her age, known no [[motifs/home|home]] but the Nuns’ [[house|House]], and no
 mother but Miss Twinkleton. Her remembrance of her own mother was of a
 pretty little creature like herself (not much older than herself it
 seemed to her), who had been brought [[motifs/home|home]] in her father’s arms,
@@ -3489,14 +3493,14 @@ small service; who should take her [[motifs/home|home]] for the holidays; who sh
 write to her the oftenest when they were separated, and whom she would
 most rejoice to see again when they were reunited; even these gentle
 rivalries were not without their slight dashes of bitterness in the
-Nuns’ House. [[motifs/well|Well]] for the poor Nuns in their day, if they hid no harder
+Nuns’ [[house|House]]. [[motifs/well|Well]] for the poor Nuns in their day, if they hid no harder
 strife under their veils and rosaries!
 
 Thus Rosa had grown to be an amiable, giddy, wilful, winning little
 creature; spoilt, in the sense of counting upon kindness from all
 around her; but not in the sense of repaying it with indifference.
 Possessing an exhaustless [[motifs/well|well]] of affection in her [[concepts/nature|nature]], its
-sparkling waters had freshened and brightened the Nuns’ House for
+sparkling waters had freshened and brightened the Nuns’ [[house|House]] for
 years, and yet its depths had never yet been moved: what might betide
 when that came to pass; what developing changes might fall upon the
 heedless head, and light heart, then; remained to be seen.
@@ -3565,9 +3569,9 @@ an end of the subject.
 
 
 It was reserved for Miss Twinkleton to tone down the public mind of the
-Nuns’ House. That lady, therefore, entering in a stately manner what
+Nuns’ [[house|House]]. That lady, therefore, entering in a stately manner what
 plebeians might have called the school-room, but what, in the patrician
-language of the head of the Nuns’ House, was euphuistically, not to say
+language of the head of the Nuns’ [[house|House]], was euphuistically, not to say
 round-aboutedly, denominated “the apartment allotted to study,” and
 saying with a forensic air, “Ladies!” all [[motifs/rose|rose]]. Mrs. Tisher at the same
 [[motifs/time|time]] grouped herself behind her chief, as representing [[characters/queen|Queen]]
@@ -4183,7 +4187,7 @@ stately severity.
 “My dear Ma! why Mr. Neville?”
 
 “Because,” said Mrs. Crisparkle, retiring on first principles, “he came
-[[motifs/home|home]] intoxicated, and did great discredit to this house, and showed
+[[motifs/home|home]] intoxicated, and did great discredit to this [[house]], and showed
 great disrespect to this family.”
 
 “That is not to be denied, Ma. He was then, and he is now, very sorry
@@ -4261,7 +4265,7 @@ the consciousness had stolen upon him that in teaching one, he was
 teaching two; and how he had almost insensibly adapted his explanations
 to both minds—that with which his own was daily in contact, and that
 which he only approached through it. He thought of the gossip that had
-reached him from the Nuns’ House, to the effect that [[characters/helena|Helena]], whom he
+reached him from the Nuns’ [[house|House]], to the effect that [[characters/helena|Helena]], whom he
 had mistrusted as so proud and fierce, submitted herself to the
 fairy-bride (as he called her), and learnt from her what she knew. He
 thought of the picturesque alliance between those two, externally so
@@ -4402,7 +4406,7 @@ so; but what you tell me is confirmed by suppressed hints and
 references that I meet with every day.”
 
 “Now,” Mr. Crisparkle again resumed, in a tone of mild though firm
-persuasion, “is not this to be regretted, and ought it not to be
+[[Persuasion|persuasion]], “is not this to be regretted, and ought it not to be
 amended? These are early days of Neville’s in Cloisterham, and I have
 no [[concepts/fear|fear]] of his outliving such a prejudice, and proving himself to have
 been misunderstood. But how much wiser to take action at once, than to
@@ -4559,7 +4563,7 @@ unreservedly given.”
 The young man twice or thrice essayed to speak, but failed.
 
 “Let me leave you with your sister, whom it is [[motifs/time|time]] you took [[motifs/home|home]],”
-said Mr. Crisparkle. “You will find me alone in my room by-and-by.”
+said Mr. Crisparkle. “You will find me [[Alone|alone]] in my room by-and-by.”
 
 “Pray do not leave us yet,” [[characters/helena|Helena]] implored him. “Another minute.”
 
@@ -4684,7 +4688,7 @@ The perplexed and perplexing look vanished.
 Jasper; “I will do it.”
 
 Mr. Crisparkle, delighted by the swiftness and completeness of his
-success, acknowledged it in the handsomest terms.
+[[success]], acknowledged it in the handsomest terms.
 
 “I will do it,” repeated Jasper, “for the comfort of having your
 guarantee against my vague and unfounded fears. You will laugh—but do
@@ -4807,7 +4811,7 @@ Neither [[motifs/wind|wind]] nor sun, however, favoured Staple Inn one December
 afternoon towards six o’[[motifs/clock|clock]], when it was filled with fog, and candles
 shed murky and blurred rays through the windows of all its
 then-occupied sets of chambers; notably from a set of chambers in a
-corner house in the little inner quadrangle, presenting in black and
+corner [[house]] in the little inner quadrangle, presenting in black and
 white over its ugly portal the mysterious [[forms/inscription|inscription]]:
 
 P
@@ -4873,7 +4877,7 @@ puffy-faced, dark-haired person of thirty, with big dark eyes that
 wholly wanted lustre, and a dissatisfied doughy complexion, that seemed
 to ask to be sent to the baker’s, this attendant was a mysterious
 being, possessed of some strange power over Mr. Grewgious. As though he
-had been called into existence, like a fabulous Familiar, by a magic
+had been called into existence, like a fabulous Familiar, by a [[Magic|magic]]
 spell which had failed when required to dismiss him, he stuck tight to
 Mr. Grewgious’s stool, although Mr. Grewgious’s comfort and convenience
 would manifestly have been advanced by dispossessing him. A gloomy
@@ -5033,7 +5037,7 @@ anything about the Landlesses?”
 “No,” said Mr. Grewgious. “What is the Landlesses? An estate? A villa?
 A farm?”
 
-“A brother and sister. The sister is at the Nuns’ House, and has become
+“A brother and sister. The sister is at the Nuns’ [[house|House]], and has become
 a great friend of P—”
 
 “PRosa’s,” Mr. Grewgious struck in, with a fixed face.
@@ -5075,7 +5079,7 @@ the flying waiter before him out of the room.
 
 It was like a highly-finished miniature painting representing My Lords
 of the Circumlocution Department, Commandership-in-Chief of any sort,
-Government. It was quite an edifying little picture to be hung on the
+[[government|Government]]. It was quite an edifying little picture to be hung on the
 line in the National Gallery.
 
 As the fog had been the proximate cause of this sumptuous repast, so
@@ -5117,9 +5121,9 @@ been seen looking at his visitor between his smoothing fingers.
 consuming meat and drink in a workmanlike manner, though mostly in
 speechlessness.
 
-“I drink to you, Bazzard; Mr. Edwin, success to Mr. Bazzard!”
+“I drink to you, Bazzard; Mr. Edwin, [[success]] to Mr. Bazzard!”
 
-“Success to Mr. Bazzard!” echoed Edwin, with a totally unfounded
+“[[success|Success]] to Mr. Bazzard!” echoed Edwin, with a totally unfounded
 appearance of enthusiasm, and with the unspoken addition: “What in, I
 [[concepts/wonder|wonder]]!”
 
@@ -5173,7 +5177,7 @@ that her dear name is precious to him, cannot be heard or repeated
 without emotion, and is preserved sacred. If he has any distinguishing
 appellation of fondness for her, it is reserved for her, and is not for
 common ears. A name that it would be a privilege to call her by, being
-alone with her own bright [[concepts/self|self]], it would be a liberty, a coldness, an
+[[Alone|alone]] with her own bright [[concepts/self|self]], it would be a liberty, a coldness, an
 insensibility, almost a breach of good [[concepts/faith|faith]], to flaunt elsewhere.”
 
 It was wonderful to see Mr. Grewgious sitting bolt upright, with his
@@ -5375,13 +5379,13 @@ into it.
 “I follow you both, sir,” returned Bazzard, “and I witness the
 transaction.”
 
-Evidently anxious to get away and be alone, [[characters/edwin-drood|Edwin Drood]] now resumed his
+Evidently anxious to get away and be [[Alone|alone]], [[characters/edwin-drood|Edwin Drood]] now resumed his
 outer clothing, muttering something about [[motifs/time|time]] and appointments. The
 fog was reported no clearer (by the flying waiter, who alighted from a
 speculative flight in the coffee interest), but he went out into it;
 and Bazzard, after his manner, “followed” him.
 
-Mr. Grewgious, left alone, walked softly and slowly to and fro, for an
+Mr. Grewgious, left [[Alone|alone]], walked softly and slowly to and fro, for an
 hour and more. He was restless to-[[motifs/night|night]], and seemed dispirited.
 
 “I [[concepts/hope|hope]] I have done right,” he said. “The appeal to him seemed
@@ -5632,12 +5636,12 @@ and putting on a low-crowned, flap-brimmed hat, goes softly out. Why
 does he move so softly to-[[motifs/night|night]]? No outward reason is apparent for it.
 Can there be any sympathetic reason crouching darkly within him?
 
-Repairing to [[characters/durdles|Durdles]]’s unfinished house, or hole in the [[motifs/city|city]] wall, and
+Repairing to [[characters/durdles|Durdles]]’s unfinished [[house]], or hole in the [[motifs/city|city]] wall, and
 seeing a light within it, he softly picks his course among the
 gravestones, monuments, and stony lumber of the yard, already touched
 here and there, sidewise, by the rising [[motifs/moon|moon]]. The two journeymen have
 left their two great saws sticking in their blocks of stone; and two
-skeleton journeymen out of the [[topoi/dance-of-death|Dance of Death]] might be grinning in the
+[[skeleton]] journeymen out of the [[topoi/dance-of-death|Dance of Death]] might be grinning in the
 [[archetypes/shadow|shadow]] of their sheltering sentry-boxes, about to slash away at cutting
 out the gravestones of the next two people destined to die in
 Cloisterham. Likely enough, the two think little of that now, being
@@ -5690,7 +5694,7 @@ Twopenny, and emerging into the clear moonlight of the [[characters/monks|Monks]
 This crossed, they come to Minor Canon Corner: of which the greater
 part lies in [[archetypes/shadow|shadow]] until the [[motifs/moon|moon]] shall rise higher in the sky.
 
-The sound of a closing house-door strikes their ears, and two men come
+The sound of a closing [[house]]-door strikes their ears, and two men come
 out. These are Mr. Crisparkle and Neville. Jasper, with a strange and
 sudden smile upon his face, lays the palm of his hand upon the breast
 of [[characters/durdles|Durdles]], stopping him where he stands.
@@ -5938,18 +5942,18 @@ appeals to his companion for forty winks of a second each.
 “If you will have it so, or must have it so,” replies Jasper, “I’ll not
 leave you here. Take them, while I walk to and fro.”
 
-[[characters/durdles|Durdles]] is asleep at once; and in his [[motifs/sleep|sleep]] he [[motifs/dreams|dreams]] a dream.
+[[characters/durdles|Durdles]] is asleep at once; and in his [[motifs/sleep|sleep]] he [[motifs/dreams|dreams]] [[A Dream|a dream]].
 
-It is not much of a dream, considering the vast extent of the domains
+It is not much of [[A Dream|a dream]], considering the vast extent of the domains
 of dreamland, and their wonderful productions; it is only remarkable
 for being unusually restless and unusually real. He [[motifs/dreams|dreams]] of lying
 there, asleep, and yet counting his companion’s footsteps as he walks
 to and fro. He [[motifs/dreams|dreams]] that the footsteps die away into distance of [[motifs/time|time]]
 and of space, and that something touches him, and that something falls
 from his hand. Then something clinks and gropes about, and he [[motifs/dreams|dreams]]
-that he is alone for so long a [[motifs/time|time]], that the lanes of light take new
+that he is [[Alone|alone]] for so long a [[motifs/time|time]], that the lanes of light take new
 directions as the [[motifs/moon|moon]] advances in her course. From succeeding
-unconsciousness he passes into a dream of slow uneasiness from cold;
+unconsciousness he passes into [[A Dream|a dream]] of slow uneasiness from cold;
 and painfully awakes to a perception of the lanes of light—really
 changed, much as he had dreamed—and Jasper walking among them, beating
 his hands and feet.
@@ -5965,7 +5969,7 @@ forties have stretched into thousands?”
 
 “What’s the [[motifs/time|time]]?”
 
-“Hark! The bells are going in the Tower!”
+“Hark! [[The Bells|The bells]] are going in the Tower!”
 
 They strike four quarters, and then the great bell strikes.
 
@@ -6102,7 +6106,7 @@ Christmas recess was at hand. What had once, and at no remote period,
 been called, even by the erudite Miss Twinkleton herself, “the half,”
 but what was now called, as being more elegant, and more strictly
 collegiate, “the term,” would expire to-morrow. A noticeable relaxation
-of discipline had for some few days pervaded the Nuns’ House. Club
+of discipline had for some few days pervaded the Nuns’ [[house|House]]. Club
 suppers had occurred in the bedrooms, and a dressed tongue had been
 carved with a pair of scissors, and handed round with the curling
 tongs. Portions of marmalade had likewise been distributed on a service
@@ -6194,7 +6198,7 @@ her—that a good understanding was to be reëstablished between the two
 young men, when Edwin came down.
 
 It would have made a pretty picture, so many pretty girls kissing Rosa
-in the cold porch of the Nuns’ House, and that sunny little creature
+in the cold porch of the Nuns’ [[house|House]], and that sunny little creature
 peeping out of it (unconscious of sly faces carved on spout and gable
 peeping at her), and waving farewells to the departing coaches, as if
 she represented the spirit of rosy youth abiding in the place to keep
@@ -6226,7 +6230,7 @@ were neither to be frowned aside nor laughed aside. They would not be
 moved. But for the dinner in Staple Inn, and but for the ring he
 carried in the breast pocket of his coat, he would have drifted into
 their wedding-day without another pause for real thought, loosely
-trusting that all would go [[motifs/well|well]], left alone. But that serious putting
+trusting that all would go [[motifs/well|well]], left [[Alone|alone]]. But that serious putting
 him on his [[concepts/truth|truth]] to the living and the dead had brought him to a check.
 He must either give the ring to Rosa, or he must take it back. Once put
 into this narrowed way of action, it was curious that he began to
@@ -6235,7 +6239,7 @@ considered them before, and began to be less sure of himself than he
 had ever been in all his easy-going days.
 
 “I will be guided by what she says, and by how we get on,” was his
-decision, walking from the gatehouse to the Nuns’ House. “Whatever
+decision, walking from the gatehouse to the Nuns’ [[house|House]]. “Whatever
 comes of it, I will bear his words in mind, and try to be true to the
 living and the dead.”
 
@@ -6359,12 +6363,12 @@ thinking about it, instead of dismissing it. My life is not so busy as
 yours, you see, and I have not so many things to think of. So I thought
 about it very much, and I cried about it very much too (though that was
 not your fault, poor boy); when all at once my guardian came down, to
-prepare for my leaving the Nuns’ House. I tried to hint to him that I
+prepare for my leaving the Nuns’ [[house|House]]. I tried to hint to him that I
 was not quite settled in my mind, but I hesitated and failed, and he
 didn’t understand me. But he is a good, good man. And he put before me
 so kindly, and yet so strongly, how seriously we ought to consider, in
 our circumstances, that I resolved to speak to you the next moment we
-were alone and [[motifs/grave|grave]]. And if I seemed to come to it easily just now,
+were [[Alone|alone]] and [[motifs/grave|grave]]. And if I seemed to come to it easily just now,
 because I came to it all at once, don’t think it was so really, Eddy,
 for O, it was very, very hard, and O, I am very, very sorry!”
 
@@ -6469,7 +6473,7 @@ little case, and again was checked by the consideration: “It is
 certain, now, that I am to give it back to him; then why should I tell
 her of it?” That pretty sympathetic [[concepts/nature|nature]] which could be so sorry for
 him in the blight of their childish hopes of happiness together, and
-could so quietly find itself alone in a new world to weave fresh
+could so quietly find itself [[Alone|alone]] in a new world to weave fresh
 wreaths of such [[motifs/flowers|flowers]] as it might prove to bear, the old world’s
 [[motifs/flowers|flowers]] being withered, would be grieved by those sorrowful jewels; and
 to what purpose? Why should it be? They were but a sign of broken joys
@@ -6674,7 +6678,7 @@ come back before dinner?”
 Mr. Crisparkle gives him a bright nod and a cheerful good-bye;
 expressing (not without intention) absolute confidence and ease.
 
-Neville repairs to the Nuns’ House, and requests that Miss Landless may
+Neville repairs to the Nuns’ [[house|House]], and requests that Miss Landless may
 be informed that her brother is there, by appointment. He waits at the
 gate, not even crossing the threshold; for he is on his parole not to
 put himself in Rosa’s way.
@@ -6710,7 +6714,7 @@ that former party, our engaging guardian excepted, might be dining
 cheerfully in Minor Canon Corner to-morrow? Indeed it probably would be
 so. I can see too [[motifs/well|well]] that I am not high in the old lady’s opinion,
 and it is easy to understand what an irksome clog I must be upon the
-hospitalities of her orderly house—especially at this [[motifs/time|time]] of year—when
+hospitalities of her orderly [[house]]—especially at this [[motifs/time|time]] of year—when
 I must be kept asunder from this person, and there is such a reason for
 my not being brought into contact with that person, and an unfavourable
 reputation has preceded me with such another person; and so on. I have
@@ -6726,7 +6730,7 @@ everybody’s way (my own included, I [[concepts/hope|hope]]) to-morrow morning.
 
 “In a fortnight.”
 
-“And going quite alone?”
+“And going quite [[Alone|alone]]?”
 
 “I am much better without company, even if there were any one but you
 to bear me company, my dear [[characters/helena|Helena]].”
@@ -6750,7 +6754,7 @@ and that his just spirit is not likely to maintain one set of natural
 laws for himself and another for me. He yielded to my view of the
 matter, when convinced that I was honestly in earnest; and so, with his
 full consent, I start to-morrow morning. Early enough to be not only
-out of the streets, but out of hearing of the bells, when the good
+out of the streets, but out of hearing of [[The Bells|the bells]], when the good
 people go to church.”
 
 [[characters/helena|Helena]] thinks it over, and thinks [[motifs/well|well]] of it. Mr. Crisparkle doing so,
@@ -6779,7 +6783,7 @@ Iron-wood.
 Up to this point he has been extremely cheerful. Perhaps, the having to
 carry his case with her, and therefore to present it in its brightest
 aspect, has roused his spirits. Perhaps, the having done so with
-success, is followed by a revulsion. As the day closes in, and the
+[[success]], is followed by a revulsion. As the day closes in, and the
 [[motifs/city|city]]-lights begin to [[motifs/spring|spring]] up before them, he grows depressed.
 
 “I wish I were not going to this dinner, [[characters/helena|Helena]].”
@@ -6803,7 +6807,7 @@ dead weight there is in the air!”
 
 She calls his attention to those copperous clouds beyond the [[motifs/river|river]], and
 says that the [[motifs/wind|wind]] is rising. He scarcely speaks again, until he takes
-leave of her, at the gate of the Nuns’ House. She does not immediately
+leave of her, at the gate of the Nuns’ [[house|House]]. She does not immediately
 enter, when they have parted, but remains looking after him along the
 street. Twice he passes the gatehouse, reluctant to enter. At length,
 the [[settings/cathedral|Cathedral]] [[motifs/clock|clock]] chiming one quarter, with a rapid turn he hurries
@@ -6996,13 +7000,13 @@ to you, deary—should live to all [[concepts/eternity|eternity]]!” replies th
 She has leaned forward to say it in his ear, with her forefinger
 shaking before his eyes, and now huddles herself together, and with
 another “Bless ye, and thank’ee!” goes away in the direction of the
-Travellers’ Lodging House.
+Travellers’ Lodging [[house|House]].
 
 This is not an inspiriting close to a dull day. [[works/alone-(poe)|Alone]], in a sequestered
 place, surrounded by vestiges of old [[motifs/time|time]] and [[motifs/decay|decay]], it rather has a
 tendency to call a shudder into being. He makes for the better-lighted
 streets, and resolves as he walks on to say nothing of this to-[[motifs/night|night]],
-but to mention it to Jack (who alone calls him Ned), as an odd
+but to mention it to Jack (who [[Alone|alone]] calls him Ned), as an odd
 coincidence, to-morrow; of course only as a coincidence, and not as
 anything better worth remembering.
 
@@ -7220,7 +7224,7 @@ the [[motifs/storm|storm]], and has not been back. Call Mr. Neville!”
 
 There is no more looking up at the tower, now. All the assembled eyes
 are turned on Mr. Jasper, white, half-dressed, panting, and clinging to
-the rail before the Minor Canon’s house.
+the rail before the Minor Canon’s [[house]].
 
 
 
@@ -7249,7 +7253,7 @@ fagots would begin to make somebody else warm.
 Indeed, The Tilted Wagon, as a cool establishment on the top of a [[motifs/hill|hill]],
 where the ground before the door was puddled with damp hoofs and
 trodden straw; where a scolding landlady slapped a moist baby (with one
-red sock on and one wanting), in the bar; where the cheese was cast
+red sock on and one wanting), in the bar; where the [[cheese]] was cast
 aground upon a shelf, in company with a mouldy tablecloth and a
 green-handled knife, in a sort of cast-iron canoe; where the pale-faced
 bread shed [[motifs/tears|tears]] of crumb over its shipwreck in another canoe; where
@@ -7261,7 +7265,7 @@ providing good entertainment for Man and Beast. However, Man, in the
 present case, was not critical, but took what entertainment he could
 get, and went on again after a longer rest than he needed.
 
-He stopped at some quarter of a mile from the house, hesitating whether
+He stopped at some quarter of a mile from the [[house]], hesitating whether
 to pursue the [[motifs/road|road]], or to follow a cart track between two high
 hedgerows, which led across the slope of a breezy heath, and evidently
 struck into the [[motifs/road|road]] again by-and-by. He decided in favour of this
@@ -7315,10 +7319,10 @@ descended smartly.
 
 “Let him be!” said this man in a suppressed voice, as they struggled
 together on the grass. “Fair play! His is the build of a girl to mine,
-and he’s got a weight strapped to his back besides. Let him alone. I’ll
+and he’s got a weight strapped to his back besides. Let him [[Alone|alone]]. I’ll
 manage him.”
 
-After a little rolling about, in a close scuffle which caused the faces
+After a little [[rolling]] about, in a close scuffle which caused the faces
 of both to be besmeared with [[motifs/blood|blood]], the man took his knee from
 Neville’s chest, and [[motifs/rose|rose]], saying: “There! Now take him arm-in-arm, any
 two of you!”
@@ -7344,7 +7348,7 @@ somebody else, and let’s be moving!”
 
 Utterly bewildered, Neville stared around him and said not a word.
 Walking between his two conductors, who held his arms in theirs, he
-went on, as in a dream, until they came again into the high [[motifs/road|road]], and
+went on, as in [[A Dream|a dream]], until they came again into the high [[motifs/road|road]], and
 into the midst of a little group of people. The men who had turned back
 were among the group; and its central figures were Mr. Jasper and Mr.
 Crisparkle. Neville’s conductors took him up to the Minor Canon, and
@@ -7391,7 +7395,7 @@ named to me. You went down to the [[motifs/river|river]] together?”
 “What followed? How long did you stay there?”
 
 “About ten minutes; I should say not more. We then walked together to
-your house, and he took leave of me at the door.”
+your [[house]], and he took leave of me at the door.”
 
 “Did he say that he was going down to the [[motifs/river|river]] again?”
 
@@ -7466,7 +7470,7 @@ something that didn’t belong to you. He wavered whether or no he should
 at once issue his warrant for the committal of [[characters/neville-landless|Neville Landless]] to
 jail, under circumstances of [[motifs/grave|grave]] suspicion; and he might have gone so
 far as to do it but for the indignant protest of the Minor Canon: who
-undertook for the young man’s remaining in his own house, and being
+undertook for the young man’s remaining in his own [[house]], and being
 produced by his own hands, whenever demanded. Mr. Jasper then
 understood Mr. Sapsea to suggest that the [[motifs/river|river]] should be dragged, that
 its banks should be rigidly examined, that particulars of the
@@ -7495,7 +7499,7 @@ With the earliest light of the next morning, men were at work upon the
 [[motifs/river|river]], and other men—most of whom volunteered for the service—were
 examining the banks. All the livelong day the search went on; upon the
 [[motifs/river|river]], with barge and pole, and drag and net; upon the muddy and rushy
-shore, with jack-boots, hatchet, spade, rope, dogs, and all imaginable
+shore, with jack-boots, hatchet, spade, rope, [[dogs]], and all imaginable
 appliances. Even at [[motifs/night|night]], the [[motifs/river|river]] was specked with lanterns, and
 lurid with fires; far-off creeks, into which the tide washed as it
 changed, had their knots of watchers, listening to the lapping of the
@@ -7783,7 +7787,7 @@ him to present the question in a new light.
 really had done: “that there was no quarrel or difference between the
 two young men at their last meeting. We all know that their first
 meeting was unfortunately very far from amicable; but all went smoothly
-and quietly when they were last together at my house. My dear boy was
+and quietly when they were last together at my [[house]]. My dear boy was
 not in his usual spirits; he was depressed—I noticed that—and I am
 bound henceforth to dwell upon the circumstance the more, now that I
 know there was a special reason for his being depressed: a reason,
@@ -7810,7 +7814,7 @@ open in his own dealing. He charged against himself reproachfully that
 he had suppressed, so far, the two points of a second strong outbreak
 of temper against [[characters/edwin-drood|Edwin Drood]] on the part of Neville, and of the
 passion of [[concepts/jealousy|jealousy]] having, to his own certain knowledge, flamed up in
-Neville’s breast against him. He was convinced of Neville’s innocence
+Neville’s breast against him. He was convinced of Neville’s [[innocence]]
 of any part in the ugly disappearance; and yet so many little
 circumstances combined so wofully against him, that he dreaded to add
 two more to their cumulative weight. He was among the truest of men;
@@ -7841,7 +7845,7 @@ will.
 
 Now, it fell out that Mr. Crisparkle, going away from this conference
 still very uneasy in his mind, and very much troubled on behalf of the
-young man whom he held as a kind of prisoner in his own house, took a
+young man whom he held as a kind of prisoner in his own [[house]], took a
 memorable [[motifs/night|night]] walk.
 
 He walked to Cloisterham Weir.
@@ -7924,7 +7928,7 @@ Landless with him, went straight to the Mayor. Mr. Jasper was sent for,
 the watch and shirt-pin were identified, Neville was detained, and the
 wildest frenzy and fatuity of evil report [[motifs/rose|rose]] against him. He was of
 that vindictive and violent [[concepts/nature|nature]], that but for his poor sister, who
-alone had influence over him, and out of whose sight he was never to be
+[[Alone|alone]] had influence over him, and out of whose sight he was never to be
 trusted, he would be in the daily commission of murder. Before coming
 to England he had caused to be whipped to [[motifs/death|death]] sundry
 “Natives”—nomadic persons, encamping now in Asia, now in Africa, now in
@@ -7962,7 +7966,7 @@ and set for [[characters/edwin-drood|Edwin Drood]], at twenty minutes past two o
 afternoon; and it had run down, before being cast into the [[motifs/water|water]]; and
 it was the jeweller’s positive opinion that it had never been re-wound.
 This would justify the hypothesis that the watch was taken from him not
-long after he left Mr. Jasper’s house at midnight, in company with the
+long after he left Mr. Jasper’s [[house]] at midnight, in company with the
 last person seen with him, and that it had been thrown away after being
 retained some hours. Why thrown away? If he had been murdered, and so
 artfully disfigured, or concealed, or both, as that the murderer hoped
@@ -8014,10 +8018,10 @@ Minor Canon deferred officially, would have settled the point.
 act according to its lights. The days of taking sanctuary are past.
 This young man must not take sanctuary with us.”
 
-“You mean that he must leave my house, sir?”
+“You mean that he must leave my [[house]], sir?”
 
 “Mr. Crisparkle,” returned the prudent Dean, “I claim no authority in
-your house. I merely confer with you, on the painful necessity you find
+your [[house]]. I merely confer with you, on the painful necessity you find
 yourself under, of depriving this young man of the great advantages of
 your counsel and instruction.”
 
@@ -8036,7 +8040,7 @@ sir, but I am sensible that—”
 nodding his head smoothly, “there is nothing else to be done. No [[concepts/doubt|doubt]],
 no [[concepts/doubt|doubt]]. There is no alternative, as your good sense has discovered.”
 
-“I am entirely satisfied of his perfect innocence, sir, nevertheless.”
+“I am entirely satisfied of his perfect [[innocence]], sir, nevertheless.”
 
 “We-e-ell!” said the Dean, in a more confidential tone, and slightly
 glancing around him, “I would not say so, generally. Not generally.
@@ -8116,7 +8120,7 @@ displays much celebrated for his platform tactics, Mr. Crisparkle
 recognised (in a suit of black) the counterpart of a deceased
 benefactor of his species, an eminent public character, once known to
 fame as Frosty-faced Fogo, who in days of yore superintended the
-formation of the magic circle with the ropes and stakes. There were
+formation of the [[Magic|magic]] circle with the ropes and stakes. There were
 only three conditions of resemblance wanting between these Professors
 and those. Firstly, the Philanthropists were in very bad training: much
 too fleshy, and presenting, both in face and figure, a superabundance
@@ -8153,7 +8157,7 @@ Philanthropist (highly disinterested, if in earnest) gathered these
 into a basket and walked off with them.
 
 “Now, Mr. Crisparkle,” said Mr. Honeythunder, turning his chair half
-round towards him when they were alone, and squaring his arms with his
+round towards him when they were [[Alone|alone]], and squaring his arms with his
 hands on his knees, and his brows knitted, as if he added, I am going
 to make short work of _you_: “Now, Mr. Crisparkle, we entertain
 different views, you and I, sir, of the sanctity of human life.”
@@ -8230,7 +8234,7 @@ murder, and then leave off.
 Crisparkle.
 
 “Enough!” bellowed Mr. Honeythunder, with a solemnity and severity that
-would have brought the house down at a meeting, “E—e—nough! My late
+would have brought the [[house]] down at a meeting, “E—e—nough! My late
 wards being now of age, and I being released from a trust which I
 cannot contemplate without a thrill of horror, there are the accounts
 which you have undertaken to accept on their behalf, and there is a
@@ -8505,7 +8509,7 @@ they were precious to [[characters/neville-landless|Neville Landless]].
 
 When they had got through such studies as they had in hand, they stood
 leaning on the [[motifs/window|window]]-sill, and looking down upon the patch of [[motifs/garden|garden]].
-“Next week,” said Mr. Crisparkle, “you will cease to be alone, and will
+“Next week,” said Mr. Crisparkle, “you will cease to be [[Alone|alone]], and will
 have a devoted companion.”
 
 “And yet,” returned Neville, “this seems an uncongenial place to bring
@@ -8614,7 +8618,7 @@ added:
 
 “If you will kindly step round here behind me, in the gloom of the
 room, and will cast your eye at the second-floor landing [[motifs/window|window]] in
-yonder house, I think you will hardly fail to see a slinking individual
+yonder [[house]], I think you will hardly fail to see a slinking individual
 in whom I recognise our local friend.”
 
 “You are right!” cried Mr. Crisparkle.
@@ -8780,7 +8784,7 @@ a leaf, and “gone below.”
 
 Mr. Grewgious, his bedroom [[motifs/window|window]]-blind held aside with his hand,
 happened at the moment to have Neville’s chambers under his eye for the
-last [[motifs/time|time]] that [[motifs/night|night]]. Fortunately his eye was on the front of the house
+last [[motifs/time|time]] that [[motifs/night|night]]. Fortunately his eye was on the front of the [[house]]
 and not the back, or this remarkable appearance and disappearance might
 have broken his rest as a phenomenon. But Mr. Grewgious seeing nothing
 there, not even a light in the windows, his gaze wandered from the
@@ -8963,7 +8967,7 @@ gateway, and would have light enough. He found that if Mr. and Mrs.
 Tope, living overhead, used for their own egress and ingress a little
 side stair that came plump into the Precincts by a door opening
 outward, to the surprise and inconvenience of a limited public of
-pedestrians in a narrow way, he would be alone, as in a separate
+pedestrians in a narrow way, he would be [[Alone|alone]], as in a separate
 residence. He found the rent moderate, and everything as quaintly
 inconvenient as he could [[motifs/desire|desire]]. He agreed, therefore, to take the
 lodging then and there, and money down, possession to be had next
@@ -9100,8 +9104,8 @@ a long arm.”
 
 “How forcible!—And yet, again, how true!” murmured Mr. Datchery.
 
-“And without betraying, what I call the [[motifs/secrets|secrets]] of the [[motifs/prison|prison]]-house,”
-said Mr. Sapsea; “the [[motifs/secrets|secrets]] of the [[motifs/prison|prison]]-house is the term I used on
+“And without betraying, what I call the [[motifs/secrets|secrets]] of the [[motifs/prison|prison]]-[[house]],”
+said Mr. Sapsea; “the [[motifs/secrets|secrets]] of the [[motifs/prison|prison]]-[[house]] is the term I used on
 the bench.”
 
 “And what other term than His [[concepts/honour|Honour]]’s would express it?” said Mr.
@@ -9197,7 +9201,7 @@ twice two, he’ll be doubly welcome.”
 “A job.”
 
 “Mind you pay me honestly with the job of showing me Mr. [[characters/durdles|Durdles]]’s
-house when I want to go there.”
+[[house]] when I want to go there.”
 
 Deputy, with a piercing broadside of whistle through the whole gap in
 his mouth, as a receipt in full for all arrears, vanished.
@@ -9225,7 +9229,7 @@ CHAPTER XIX.
 Again Miss Twinkleton has delivered her valedictory address, with the
 accompaniments of white-wine and pound-cake, and again the young ladies
 have departed to their several homes. [[characters/helena-landless|Helena Landless]] has left the
-Nuns’ House to attend her brother’s fortunes, and pretty Rosa is alone.
+Nuns’ [[house|House]] to attend her brother’s fortunes, and pretty Rosa is [[Alone|alone]].
 
 Cloisterham is so bright and sunny in these [[motifs/summer|summer]] days, that the
 [[settings/cathedral|Cathedral]] and the monastery-ruin show as if their strong walls were
@@ -9248,7 +9252,7 @@ that the intruders should depart from within the civic bounds, and once
 more fry themselves on the simmering high-roads.
 
 On the afternoon of such a day, when the last [[settings/cathedral|Cathedral]] service is
-done, and when that side of the High Street on which the Nuns’ House
+done, and when that side of the High Street on which the Nuns’ [[house|House]]
 stands is in grateful shade, save where its quaint old [[motifs/garden|garden]] opens to
 the west between the boughs of trees, a servant informs Rosa, to her
 terror, that Mr. Jasper desires to see her.
@@ -9269,7 +9273,7 @@ he asked to see her.
 
 Possessed by a kind of desperation, she adds in the next breath, that
 she will come to Mr. Jasper in the [[motifs/garden|garden]]. She shudders at the thought
-of being shut up with him in the house; but many of its windows command
+of being shut up with him in the [[house]]; but many of its windows command
 the [[motifs/garden|garden]], and she can be seen as [[motifs/well|well]] as heard there, and can shriek
 in the free air and run away. Such is the wild idea that flutters
 through her mind.
@@ -9418,7 +9422,7 @@ scorn; it will be enough for me.”
 
 Impatient [[motifs/tears|tears]] rise to the eyes of the trembling little [[concepts/beauty|beauty]], and
 her face flames; but as she again rises to leave him in indignation,
-and seek protection within the house, he stretches out his hand towards
+and seek protection within the [[house]], he stretches out his hand towards
 the porch, as though he invited her to enter it.
 
 “I told you, you rare charmer, you sweet [[characters/witch|witch]], that you must stay and
@@ -9542,7 +9546,7 @@ the spot. She swiftly moves towards the porch; but in an instant he is
 at her side, and speaking in her ear.
 
 “Rosa, I am [[concepts/self|self]]-repressed again. I am walking calmly beside you to the
-house. I shall wait for some encouragement and [[concepts/hope|hope]]. I shall not strike
+[[house]]. I shall wait for some encouragement and [[concepts/hope|hope]]. I shall not strike
 too soon. Give me a sign that you attend to me.”
 
 She slightly and constrainedly moves her hand.
@@ -9629,7 +9633,7 @@ intellect of average men, instead of identifying it as a horrible
 _was_ a terrible man, and must be fled from.
 
 She had been [[characters/helena|Helena]]’s stay and comfort during the whole [[motifs/time|time]]. She had
-constantly assured her of her full belief in her brother’s innocence,
+constantly assured her of her full belief in her brother’s [[innocence]],
 and of her sympathy with him in his misery. But she had never seen him
 since the disappearance, nor had [[characters/helena|Helena]] ever spoken one word of his
 avowal to Mr. Crisparkle in regard of Rosa, though as a part of the
@@ -9663,7 +9667,7 @@ left the note in a conspicuous place, and went out, softly closing the
 gate after her.
 
 It was the first [[motifs/time|time]] she had ever been even in Cloisterham High Street
-alone. But knowing all its ways and windings very [[motifs/well|well]], she hurried
+[[Alone|alone]]. But knowing all its ways and windings very [[motifs/well|well]], she hurried
 straight to the corner from which the omnibus departed. It was, at that
 very moment, going off.
 
@@ -9701,7 +9705,7 @@ and darker, and the great [[motifs/city|city]] impended nearer and nearer, the d
 usual in such cases began to arise. Whether this was not a wild
 proceeding, after all; how Mr. Grewgious might regard it; whether she
 should find him at the [[motifs/journey|journey]]’s end; how she would act if he were
-absent; what might become of her, alone, in a place so strange and
+absent; what might become of her, [[Alone|alone]], in a place so strange and
 crowded; how if she had but waited and taken counsel first; whether, if
 she could now go back, she would not do it thankfully; a multitude of
 such uneasy speculations disturbed her, more and more as they
@@ -9755,9 +9759,9 @@ embrace:
 what,” he added, soothingly, “has happened? My dear, what has brought
 you here? Who has brought you here?”
 
-“No one. I came alone.”
+“No one. I came [[Alone|alone]].”
 
-“Lord bless me!” ejaculated Mr. Grewgious. “Came alone! Why didn’t you
+“Lord bless me!” ejaculated Mr. Grewgious. “Came [[Alone|alone]]! Why didn’t you
 write to me to come and fetch you?”
 
 “I had no [[motifs/time|time]]. I took a sudden resolution. Poor, poor Eddy!”
@@ -9852,9 +9856,9 @@ her tea-cup, ventured to touch him with her small hand too.
 
 “Yes, my dear.”
 
-“And always alone?”
+“And always [[Alone|alone]]?”
 
-“Always alone; except that I have daily company in a gentleman by the
+“Always [[Alone|alone]]; except that I have daily company in a gentleman by the
 name of Bazzard, my clerk.”
 
 “_He_ doesn’t live here?”
@@ -10116,7 +10120,7 @@ it would be premature.”
 Crisparkle.
 
 The gentleman came in; apologised, with a frank but modest grace, for
-not finding Mr. Crisparkle alone; turned to Mr. Crisparkle, and
+not finding Mr. Crisparkle [[Alone|alone]]; turned to Mr. Crisparkle, and
 smilingly asked the unexpected question: “Who am I?”
 
 “You are the gentleman I saw smoking under the trees in Staple Inn, a
@@ -10181,7 +10185,7 @@ have an idea,” Mr. Grewgious announced, after taking a jog-trot or two
 across the room, so unexpected and unaccountable that they all stared
 at him, doubtful whether he was choking or had the cramp—“I _think_ I
 have an idea. I believe I have had the pleasure of seeing Mr. Tartar’s
-name as tenant of the top set in the house next the top set in the
+name as tenant of the top set in the [[house]] next the top set in the
 corner?”
 
 “Yes, sir,” returned Mr. Tartar. “You are right so far.”
@@ -10258,7 +10262,7 @@ have all got the idea. You have it, my dear?”
 quickly towards her.
 
 “You see, you go over to Staple with Mr. Crisparkle and Mr. Tartar,”
-said Mr. Grewgious; “I going in and out, and out and in alone, in my
+said Mr. Grewgious; “I going in and out, and out and in [[Alone|alone]], in my
 usual way; you go up with those gentlemen to Mr. Tartar’s rooms; you
 look into Mr. Tartar’s flower-[[motifs/garden|garden]]; you wait for Miss [[characters/helena|Helena]]’s
 appearance there, or you signify to Miss [[characters/helena|Helena]] that you are close by;
@@ -10316,7 +10320,7 @@ eyes, she found that he seemed to be thinking something about _them_.
 This a little confused Rosebud, and may account for her never
 afterwards quite knowing how she ascended (with his help) to his [[motifs/garden|garden]]
 in the air, and seemed to get into a marvellous country that came into
-sudden bloom like the country on the summit of the magic bean-stalk.
+sudden bloom like the country on the summit of the [[Magic|magic]] bean-stalk.
 May it flourish for ever!
 
 
@@ -10397,8 +10401,8 @@ Crisparkle’s life in it.
 
 “I—I don’t quite know,” said Rosa with a blush; “unless I am dreaming!”
 
-Why with a blush? For their two faces were alone with the other
-[[motifs/flowers|flowers]]. Are blushes among the fruits of the country of the magic
+Why with a blush? For their two faces were [[Alone|alone]] with the other
+[[motifs/flowers|flowers]]. Are blushes among the fruits of the country of the [[Magic|magic]]
 bean-stalk?
 
 “_I_ am not dreaming,” said [[characters/helena|Helena]], smiling. “I should take more for
@@ -10440,7 +10444,7 @@ a beautiful place!”
 “It is like the inside of the most exquisite [[motifs/ship|ship]] that ever sailed. It
 is like—it is like—”
 
-“Like a dream?” suggested [[characters/helena|Helena]].
+“Like [[A Dream|a dream]]?” suggested [[characters/helena|Helena]].
 
 Rosa answered with a little nod, and smelled the [[motifs/flowers|flowers]].
 
@@ -10623,10 +10627,10 @@ Mr. Crisparkle, willingly accepting the commission, took his departure;
 Mr. Grewgious and his ward set forth on their expedition.
 
 As Mr. Grewgious’s idea of looking at a furnished lodging was to get on
-the opposite side of the street to a house with a suitable bill in the
+the opposite side of the street to a [[house]] with a suitable bill in the
 [[motifs/window|window]], and stare at it; and then work his way tortuously to the back
-of the house, and stare at that; and then not go in, but make similar
-trials of another house, with the same result; their progress was but
+of the [[house]], and stare at that; and then not go in, but make similar
+trials of another [[house]], with the same result; their progress was but
 slow. At length he bethought himself of a widowed cousin, divers times
 removed, of Mr. Bazzard’s, who had once solicited his influence in the
 lodger world, and who lived in Southampton Street, Bloomsbury Square.
@@ -10763,7 +10767,7 @@ attendance; two is kep’, at liberal wages. Words _has_ arisen as to
 tradesmen, but dirty shoes on fresh hearth-stoning was attributable,
 and no wish for a commission on your orders. Coals is either _by_ the
 [[motifs/fire|fire]], or _per_ the scuttle.” She emphasised the prepositions as marking
-a subtle but immense difference. “Dogs is not viewed with favour.
+a subtle but immense difference. “[[dogs|Dogs]] is not viewed with favour.
 Besides litter, they gets stole, and sharing suspicions is apt to creep
 in, and unpleasantness takes place.”
 
@@ -10838,7 +10842,7 @@ skilful wrist, or a mere grin of Mr. Lobley’s over the bow, put all to
 rights! The tide bore them on in the gayest and most sparkling manner,
 until they stopped to dine in some ever-lastingly-green [[motifs/garden|garden]], needing
 no matter-of-fact identification here; and then the tide obligingly
-turned—being devoted to that party alone for that day; and as they
+turned—being devoted to that party [[Alone|alone]] for that day; and as they
 floated idly among some osier-beds, Rosa tried what she could do in the
 rowing way, and came off splendidly, being much assisted; and Mr.
 Grewgious tried what he could do, and came off on his back, doubled up
@@ -10884,7 +10888,7 @@ the ’ouse is not a box nor yet a bundle, nor a carpet-bag. No, I am
 ’ily obleeged to you, Miss Twinkleton, nor yet a beggar.”
 
 This last disclaimer had reference to Miss Twinkleton’s distractedly
-pressing two-and-sixpence on her, instead of the cabman.
+pressing two-and-sixpence on her, instead of the [[cabman]].
 
 Thus cast off, Miss Twinkleton wildly inquired, “which gentleman” was
 to be paid? There being two gentlemen in that position (Miss Twinkleton
@@ -11005,7 +11009,7 @@ your work?”
 
 “Hem! Before retiring, Miss,” proclaimed the Billickin to Rosa, loftily
 cancelling Miss Twinkleton, “I should wish it to be understood between
-yourself and me that my transactions in future is with you alone. I
+yourself and me that my transactions in future is with you [[Alone|alone]]. I
 know no elderly lady here, Miss, none older than yourself.”
 
 “A highly desirable arrangement, Rosa my dear,” observed Miss
@@ -11017,12 +11021,12 @@ ground up young (what a gift it would be to some of us), but that I
 limit myself to you totally.”
 
 “When I have any [[motifs/desire|desire]] to communicate a request to the person of the
-house, Rosa my dear,” observed Miss Twinkleton with majestic
+[[house]], Rosa my dear,” observed Miss Twinkleton with majestic
 cheerfulness, “I will make it known to you, and you will kindly
 undertake, I am sure, that it is conveyed to the proper quarter.”
 
 “Good-evening, Miss,” said the Billickin, at once affectionately and
-distantly. “Being alone in my eyes, I wish you good-evening with best
+distantly. “Being [[Alone|alone]] in my eyes, I wish you good-evening with best
 wishes, and do not find myself drove, I am truly ’appy to say, into
 expressing my contempt for an indiwidual, unfortunately for yourself,
 belonging to you.”
@@ -11033,7 +11037,7 @@ these two battledores. Nothing could be done without a smart match
 being played out. Thus, on the daily-arising question of dinner, Miss
 Twinkleton would say, the three being present together:
 
-“Perhaps, my [[motifs/love|love]], you will consult with the person of the house,
+“Perhaps, my [[motifs/love|love]], you will consult with the person of the [[house]],
 whether she can procure us a [[motifs/lamb|lamb]]’s fry; or, failing that, a roast
 fowl.”
 
@@ -11048,7 +11052,7 @@ On which the Billickin would retort (Rosa not having spoken a word),
 entertain the idea of a [[motifs/lamb|lamb]]’s fry. Firstly, because lambs has long
 been sheep, and secondly, because there is such things as killing-days,
 and there is not. As to roast fowls, Miss, why you must be quite
-surfeited with roast fowls, letting alone your buying, when you market
+surfeited with roast fowls, letting [[Alone|alone]] your buying, when you market
 for yourself, the agedest of poultry with the scaliest of legs, quite
 as if you was accustomed to picking ’em out for cheapness. Try a little
 inwention, Miss. Use yourself to ’ousekeeping a bit. Come now, think of
@@ -11057,7 +11061,7 @@ somethink else.”
 To this encouragement, offered with the indulgent toleration of a wise
 and liberal expert, Miss Twinkleton would rejoin, reddening:
 
-“Or, my dear, you might propose to the person of the house a duck.”
+“Or, my dear, you might propose to the person of the [[house]] a duck.”
 
 “[[motifs/well|Well]], Miss!” the Billickin would exclaim (still no word being spoken
 by Rosa), “you do surprise me when you speak of ducks! Not to mention
@@ -11105,7 +11109,7 @@ that the pretty girl at Billickin’s, who looked so wistfully and so
 much out of the gritty windows of the drawing-room, seemed to be losing
 her spirits. The pretty girl might have lost them but for the accident
 of lighting on some books of voyages and sea-adventure. As a
-compensation against their romance, Miss Twinkleton, reading aloud,
+compensation against their [[Romance|romance]], Miss Twinkleton, reading aloud,
 made the most of all the latitudes and longitudes, bearings, winds,
 currents, offsets, and other statistics (which she felt to be none the
 less improving because they expressed nothing whatever to her); while
@@ -11187,8 +11191,8 @@ travelled, and arrives, as Rosa arrived, on a hot, dusty evening.
 
 His travelling baggage is easily carried in his hand, and he repairs
 with it on foot, to a hybrid hotel in a little square behind Aldersgate
-Street, near the General Post Office. It is hotel, boarding-house, or
-lodging-house, at its visitor’s option. It announces itself, in the new
+Street, near the General Post Office. It is hotel, boarding-[[house]], or
+lodging-[[house]], at its visitor’s option. It announces itself, in the new
 Railway Advertisers, as a [[forms/novel|novel]] enterprise, timidly beginning to [[motifs/spring|spring]]
 up. It bashfully, almost apologetically, gives the traveller to
 understand that it does not expect him, on the good old constitutional
@@ -11206,7 +11210,7 @@ his destination: a miserable [[settings/court|court]], specially miserable among
 such.
 
 He ascends a broken staircase, opens a door, looks into a dark stifling
-room, and says: “Are you alone here?”
+room, and says: “Are you [[Alone|alone]] here?”
 
 “[[works/alone-(poe)|Alone]], deary; worse luck for me, and better for you,” replies a
 croaking voice. “Come in, come in, whoever you be: I can’t see you till
@@ -11240,7 +11244,7 @@ takes me, I shall cough out twenty matches afore I gets a light.”
 
 
 But she finds the candle, and lights it, before the cough comes on. It
-seizes her in the moment of success, and she sits down rocking herself
+seizes her in the moment of [[success]], and she sits down rocking herself
 to and fro, and gasping at intervals: “O, my lungs is awful bad! my
 lungs is wore away to cabbage-nets!” until the fit is over. During its
 continuance she has had no power of sight, or any other power not
@@ -11556,7 +11560,7 @@ and holds him in view.
 He repairs to the back of Aldersgate Street, where a door immediately
 opens to his knocking. She crouches in another doorway, watching that
 one, and easily comprehending that he puts up temporarily at that
-house. Her patience is unexhausted by hours. For sustenance she can,
+[[house]]. Her patience is unexhausted by hours. For sustenance she can,
 and does, buy bread within a hundred yards, and milk as it is carried
 past her.
 
@@ -11564,7 +11568,7 @@ He comes forth again at [[motifs/noon|noon]], having changed his dress, but carr
 nothing in his hand, and having nothing carried for him. He is not
 going back into the country, therefore, just yet. She follows him a
 little way, hesitates, instantaneously turns confidently, and goes
-straight into the house he has quitted.
+straight into the [[house]] he has quitted.
 
 “Is the gentleman from Cloisterham indoors?
 
@@ -11585,7 +11589,7 @@ My gentleman from Cloisterham, I’ll be there before ye, and bide your
 coming. I’ve swore my oath that I’ll not miss ye twice!”
 
 Accordingly, that same evening the poor [[motifs/soul|soul]] stands in Cloisterham High
-Street, looking at the many quaint gables of the Nuns’ House, and
+Street, looking at the many quaint gables of the Nuns’ [[house|House]], and
 getting through the [[motifs/time|time]] as she best can until nine o’[[motifs/clock|clock]]; at which
 hour she has reason to suppose that the arriving omnibus passengers may
 have some interest for her. The friendly darkness, at that hour,
@@ -11683,7 +11687,7 @@ money. “Been here often, my good woman?”
 “Ay, ay?”
 
 They have arrived at the entrance to the [[characters/monks|Monks]]’ Vineyard. An
-appropriate remembrance, presenting an exemplary model for imitation,
+appropriate remembrance, presenting an exemplary model for [[Imitation|imitation]],
 is revived in the woman’s mind by the sight of the place. She stops at
 the gate, and says energetically:
 
@@ -11748,7 +11752,7 @@ bestows it on her as if he were abstracting his mind from the
 sacrifice, and with many servile thanks she goes her way.
 
 [[characters/john-jasper|John Jasper]]’s lamp is kindled, and his lighthouse is shining when Mr.
-Datchery returns alone towards it. As mariners on a dangerous voyage,
+Datchery returns [[Alone|alone]] towards it. As mariners on a dangerous voyage,
 approaching an iron-bound coast, may look along the beams of the
 warning light to the haven lying beyond it that may never be reached,
 so Mr. Datchery’s wistful gaze is directed to this beacon, and beyond.
@@ -11847,7 +11851,7 @@ perhaps supposed to be performed by the Dean.
 
 Mr. Datchery receives the communication with a [[motifs/well|well]]-satisfied though
 pondering face, and breaks up the conference. Returning to his quaint
-lodging, and sitting long over the supper of bread-and-cheese and salad
+lodging, and sitting long over the supper of bread-and-[[cheese]] and salad
 and ale which Mrs. Tope has left prepared for him, he still sits when
 his supper is finished. At length he rises, throws open the door of a
 corner cupboard, and refers to a few uncouth chalked strokes on its
@@ -11875,7 +11879,7 @@ goes to bed.
 A brilliant morning shines on the old [[motifs/city|city]]. Its antiquities and ruins
 are surpassingly beautiful, with a lusty ivy gleaming in the sun, and
 the rich trees waving in the balmy air. Changes of glorious light from
-moving boughs, songs of [[motifs/birds|birds]], scents from gardens, woods, and
+moving boughs, [[songs]] of [[motifs/birds|birds]], scents from gardens, woods, and
 fields—or, rather, from the one great [[motifs/garden|garden]] of the whole cultivated
 island in its yielding [[motifs/time|time]]—penetrate into the [[settings/cathedral|Cathedral]], subdue its
 earthy odour, and preach the [[concepts/resurrection|Resurrection]] and the Life. The cold stone

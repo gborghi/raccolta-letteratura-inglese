@@ -29,6 +29,10 @@ Copyright, 1905, by THE BAKER & TAYLOR COMPANY
 
 
 
+
+
+
+
 <span class="atom-split" data-atom="story_01_introduction" data-title="The Cricket on the Hearth — Introduction" data-chapter="Introduction" data-kind="story" data-tags="archetype/artist,archetype/ghost,archetype/shadow,motif/bells,motif/blood,motif/dance,motif/window,concept/grotesque,concept/resurrection,concept/self,form/comedy,form/novel,form/satire,character/caleb_plummer,character/tiny_tim"></span>
 
 
@@ -44,7 +48,7 @@ day of days.
 
 Dickens gave his first formal expression to his Christmas thoughts in
 his series of small books, the first of which was the famous "Christmas
-Carol," the one perfect chrysolite. The success of the book was
+[[carol|Carol]]," the one perfect chrysolite. The [[success]] of the book was
 immediate. Thackeray wrote of it: "Who can listen to objections
 regarding such a book as this? It seems to me a national benefit, and to
 every man or woman who reads it, a personal kindness."
@@ -56,14 +60,14 @@ characters live, and his drawings were varied and spirited.
 There followed upon this four others: "The Chimes," "The Cricket on the
 Hearth," "The Battle of Life," and "The Haunted Man," with illustrations
 on their first appearance by Doyle, Maclise, and others. The five are
-known to-day as the "Christmas Books." Of them all the "Carol" is the
+known to-day as the "Christmas Books." Of them all the "[[carol|Carol]]" is the
 best known and loved, and "The Cricket on the Hearth," although third in
 the series, is perhaps next in point of popularity, and is especially
 familiar to Americans through Joseph Jefferson's characterisation of
 [[characters/caleb-plummer|Caleb Plummer]].
 
 Dickens seems to have put his whole [[concepts/self|self]] into these glowing little
-stories. Whoever sees but a clever [[archetypes/ghost|ghost]] story in the "Christmas Carol"
+stories. Whoever sees but a clever [[archetypes/ghost|ghost]] story in the "Christmas [[carol|Carol]]"
 misses its chief charm and lesson, for there is a different meaning in
 the movements of Scrooge and his attendant spirits. A new life is
 brought to Scrooge when he, "running to his [[motifs/window|window]], opened it and put
@@ -83,7 +87,7 @@ be as absurd to interpret all of these as caricatures as to deny Dickens
 his great and varied powers of creation. Dickens exaggerated many of his
 comic and satirical characters, as was his right, for caricature and
 [[forms/satire|satire]] are very closely related, while exaggeration is the very essence
-of [[forms/comedy|comedy]]. But there remains a host of characters marked by humour and
+of [[forms/comedy|comedy]]. But there remains a host of characters marked by [[Humour|humour]] and
 pathos. Yet the pictorial presentation of Dickens's characters has ever
 tended toward the [[concepts/grotesque|grotesque]]. The interpretations in this volume aim to
 eliminate the grosser phases of the caricature in favour of the more
@@ -214,7 +218,7 @@ with an air of defiance, and cocking its spout pertly and mockingly at
 Mrs. Peerybingle, as if it said, "I won't boil. Nothing shall induce
 me!"
 
-But, Mrs. Peerybingle, with restored good-humour, dusted her chubby
+But, Mrs. Peerybingle, with restored good-[[Humour|humour]], dusted her chubby
 little hands against each other, and sat down before the kettle
 laughing. Meantime, the jolly blaze uprose and fell, flashing and
 gleaming on the little Hay-maker at the top of the Dutch [[motifs/clock|clock]], until
@@ -243,14 +247,14 @@ irrepressible gurglings in its throat, and to indulge in short vocal
 snorts, which it checked in the bud, as if it hadn't quite made up its
 mind yet to be good company. Now it was that after two or three such
 vain attempts to stifle its convivial sentiments, it threw off all
-moroseness, all reserve, and burst into a stream of song so cosy and
+moroseness, all reserve, and burst into a stream of [[Song|song]] so cosy and
 hilarious as never maudlin [[motifs/nightingale|nightingale]] yet formed the least idea of.
 
 So plain, too! Bless you, you might have understood it like a
 book--better than some books you and I could name, perhaps. With its
 warm breath gushing forth in a light cloud which merrily and gracefully
 ascended a few feet, then hung about the chimney-corner as its own
-domestic Heaven, it trolled its song with that strong energy of
+domestic Heaven, it trolled its [[Song|song]] with that strong energy of
 cheerfulness, that its iron [[concepts/body|body]] hummed and stirred upon the [[motifs/fire|fire]]; and
 the lid itself, the recently rebellious lid--such is the influence of a
 bright example--performed a sort of jig, and clattered like a deaf and
@@ -262,7 +266,7 @@ dumb young cymbal that had never known the use of its twin brother.
 <span class="atom-split" data-atom="story_04_chirp_the_first--part_02" data-title="The Cricket on the Hearth — Chirp The First (part 2)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/frost,motif/home,motif/horse,motif/leaves,motif/night,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/body,concept/doubt,concept/fear,concept/pride,concept/wonder,character/chorus"></span>
 
 
-That this song of the kettle's was a song of invitation and welcome to
+That this [[Song|song]] of the kettle's was a [[Song|song]] of invitation and welcome to
 somebody out of doors: to somebody at that moment coming on towards the
 snug small [[motifs/home|home]] and the crisp [[motifs/fire|fire]]: there is no [[concepts/doubt|doubt]] whatever. Mrs.
 Peerybingle knew it perfectly, as she sat musing before the hearth. It's
@@ -288,11 +292,11 @@ natural and inevitable consequence, for which it had expressly laboured.
 The kettle had had the last of its solo performance. It persevered with
 undiminished ardour; but the Cricket took first fiddle, and kept it.
 Good Heaven, how it chirped! Its shrill, sharp, piercing voice resounded
-through the house, and seemed to twinkle in the outer darkness like a
+through the [[house]], and seemed to twinkle in the outer darkness like a
 star. There was an indescribable little trill and tremble in it at its
 loudest, which suggested its being carried off its legs, and made to
 leap again, by its own intense enthusiasm. Yet they went very [[motifs/well|well]]
-together, the Cricket and the kettle. The burden of the song was still
+together, the Cricket and the kettle. The burden of the [[Song|song]] was still
 the same; and louder, louder, louder still, they sang it in their
 emulation.
 
@@ -322,7 +326,7 @@ both chirped and both hummed, it would have taken a clearer head than
 yours or mine to have decided with anything like certainty. But of this
 there is no [[concepts/doubt|doubt]]: that, the kettle and the Cricket, at one and the same
 moment, and by some power of amalgamation best known to themselves,
-sent, each, his fireside song of comfort streaming into a ray of the
+sent, each, his fireside [[Song|song]] of comfort streaming into a ray of the
 candle that shone out through the [[motifs/window|window]], and a long way down the lane.
 And this light, bursting on a certain person who, on the instant,
 approached towards it through the gloom, expressed the whole thing to
@@ -464,7 +468,7 @@ a fag-end of a tail of his out into the weather, as if he had just
 remembered an appointment, and was off at a round trot, to keep it.
 
 "There! There's the teapot, ready on the hob!" said Dot; as briskly busy
-as a [[archetypes/child|child]] at play at keeping house. "And there's the cold knuckle of
+as a [[archetypes/child|child]] at play at keeping [[house]]. "And there's the cold knuckle of
 ham; and there's the butter; and there's the crusty loaf, and all!
 Here's a clothes basket for the small parcels, John, if you've got any
 there. Where are you, John? Don't let the dear [[archetypes/child|child]] fall under the
@@ -544,11 +548,11 @@ Cricket for its sake!"
 "I [[motifs/love|love]] it for the many times I have heard it, and the many thoughts its
 harmless music has given me. Sometimes, in the twilight, when I have
 felt a little solitary and down-hearted, John--before baby was here, to
-keep me company and make the house gay--when I have thought how lonely
+keep me company and make the [[house]] gay--when I have thought how lonely
 you would be if I should die; how lonely I should be, if I could know
 that you had lost me, dear; its Chirp, Chirp, Chirp upon the hearth has
 seemed to tell me of another little voice, so sweet, so very dear to me,
-before whose coming sound my trouble vanished like a dream. And when I
+before whose coming sound my trouble vanished like [[A Dream|a dream]]. And when I
 used to [[concepts/fear|fear]]--I did [[concepts/fear|fear]] once, John; I was very young, you know--that
 ours might prove to be an ill-assorted [[motifs/marriage|marriage]], I being such a [[archetypes/child|child]],
 and you more like my guardian than my husband; and that you might not,
@@ -576,7 +580,7 @@ have been delivering, I dare say, as you came along?"
 
 "Why, what's this round box? Heart alive, John, it's a wedding-cake!"
 
-"Leave a woman alone to find out that," said John admiringly. "Now, a
+"Leave a woman [[Alone|alone]] to find out that," said John admiringly. "Now, a
 man would never have thought of it! Whereas, it's my belief that if you
 was to pack a wedding-cake up in a tea-chest, or a turn-up bedstead, or
 a pickled-salmon keg, or any unlikely thing, a woman would be sure to
@@ -717,7 +721,7 @@ mildly. "Don't mind me."
 
 With that he took a pair of spectacles from one of his large pockets,
 and a book from another, and leisurely began to read. Making no more of
-Boxer than if he had been a house [[motifs/lamb|lamb]]!
+Boxer than if he had been a [[house]] [[motifs/lamb|lamb]]!
 
 The Carrier and his wife exchanged a look of perplexity. The Stranger
 raised his head; and, glancing from the latter to the former, said:
@@ -865,7 +869,7 @@ pinch Boxer's tail, mum, for half a moment, could you?"
 "Why, Caleb, what a question!"
 
 "Oh, never mind, mum!" said the little man. "He mightn't like it,
-perhaps. There's a small order just come in for barking dogs; and I
+perhaps. There's a small order just come in for barking [[dogs]]; and I
 should wish to go as close to Natur' as I could for sixpence. That's
 all. Never mind, mum."
 
@@ -913,9 +917,9 @@ hairy, red-eyed Jacks in Boxes; Vampire Kites; demoniacal Tumblers who
 wouldn't lie down, and were perpetually flying forward, to stare infants
 out of countenance; his [[motifs/soul|soul]] perfectly revelled. They were his only
 relief, and safety-valve. He was great in such inventions. Anything
-suggestive of a Pony nightmare was delicious to him. He had even lost
+suggestive of a Pony [[nightmare]] was delicious to him. He had even lost
 money (and he took to that toy very kindly) by getting up Goblin slides
-for magic lanterns, whereon the Powers of Darkness were depicted as a
+for [[Magic|magic]] lanterns, whereon the Powers of Darkness were depicted as a
 sort of [[motifs/supernatural|supernatural]] shell-fish, with human faces. In intensifying the
 portraiture of Giants, he had sunk quite a little capital; and, though
 no painter himself, he could indicate, for the instruction of his
@@ -949,7 +953,7 @@ the bottoms of his pockets, and his whole sarcastic, ill-conditioned
 concentrated essence of any number of ravens. But a Bridegroom he
 designed to be.
 
-"In three days' [[motifs/time|time]]. Next Thursday. The last day of the first month in
+"In three days' [[motifs/time|time]]. Next [[thursday|Thursday]]. The last day of the first month in
 the year. That's my wedding-day," said [[characters/tackleton|Tackleton]].
 
 Did I mention that he had always one eye wide open, and one eye nearly
@@ -1006,7 +1010,7 @@ months. We think, you see, that [[motifs/home|home]]--"
 
 "Bah! what's [[motifs/home|home]]?" cried [[characters/tackleton|Tackleton]]. "Four walls and a ceiling! (Why
 don't you kill that Cricket? _I_ would! I always do. I hate their
-noise.) There are four walls and a ceiling at my house. Come to me!"
+noise.) There are four walls and a ceiling at my [[house]]. Come to me!"
 
 "You kill your Crickets, eh?" said John.
 
@@ -1036,12 +1040,12 @@ But the Carrier, though slow to understand the full drift of his
 meaning, eyed him in such a serious manner, that he was obliged to be a
 little more explanatory.
 
-"I have the humour," said [[characters/tackleton|Tackleton]]: holding up the fingers of his left
+"I have the [[Humour|humour]]," said [[characters/tackleton|Tackleton]]: holding up the fingers of his left
 hand, and tapping the forefinger, to imply, "There I am, [[characters/tackleton|Tackleton]] to
-wit": "I have the humour, sir, to marry a young wife, and a pretty
+wit": "I have the [[Humour|humour]], sir, to marry a young wife, and a pretty
 wife": here he rapped his little finger, to express the Bride; not
 sparingly, but sharply; with a sense of power. "I'm able to gratify that
-humour, and I do. It's my whim. But--now look there!"
+[[Humour|humour]], and I do. It's my whim. But--now look there!"
 
 He pointed to where Dot was sitting, thoughtfully before the [[motifs/fire|fire]]:
 leaning her dimpled chin upon her hand, and watching the bright blaze.
@@ -1248,7 +1252,7 @@ might, and cared no more for Gruff and [[characters/tackleton|Tackleton]] than y
 *     *     *     *     *
 
 But what was that young figure of a man, which the same Fairy Cricket
-set so near Her stool, and which remained there, singly and alone? Why
+set so near Her stool, and which remained there, singly and [[Alone|alone]]? Why
 did it linger still, so near her, with its arm upon the chimney-piece,
 ever repeating "Married! and not to me!"
 
@@ -1264,17 +1268,17 @@ visions. Why has its [[archetypes/shadow|shadow]] fallen on his hearth?
 CHIRP THE SECOND
 
 
-[[characters/caleb-plummer|Caleb Plummer]] and his Blind Daughter lived all alone by themselves, as
+[[characters/caleb-plummer|Caleb Plummer]] and his Blind Daughter lived all [[Alone|alone]] by themselves, as
 the Story Books say--and my blessing, with yours, to back it I [[concepts/hope|hope]], on
 the Story Books, for saying anything in this work-a-day world!--Caleb
-Plummer and his Blind Daughter lived all alone by themselves, in a
-little cracked nutshell of a wooden house, which was, in [[concepts/truth|truth]], no
+Plummer and his Blind Daughter lived all [[Alone|alone]] by themselves, in a
+little cracked nutshell of a wooden [[house]], which was, in [[concepts/truth|truth]], no
 better than a pimple on the prominent red-brick nose of Gruff and
 [[characters/tackleton|Tackleton]]. The premises of Gruff and [[characters/tackleton|Tackleton]] were the great feature of
 the street; but you might have knocked down [[characters/caleb-plummer|Caleb Plummer]]'s dwelling
 with a hammer or two, and carried off the pieces in a cart.
 
-If any one had done the dwelling-house of [[characters/caleb-plummer|Caleb Plummer]] the [[concepts/honour|honour]] to
+If any one had done the dwelling-[[house]] of [[characters/caleb-plummer|Caleb Plummer]] the [[concepts/honour|honour]] to
 miss it after such an inroad, it would have been, no [[concepts/doubt|doubt]], to commend
 its demolition as a vast improvement. It stuck to the premises of Gruff
 and [[characters/tackleton|Tackleton]] like a barnacle to a [[motifs/ship|ship]]'s keel, or a snail to a door, or
@@ -1288,7 +1292,7 @@ I have said that Caleb and his poor Blind Daughter lived here. I should
 have said that Caleb lived here, and his poor Blind Daughter somewhere
 else--in an enchanted [[motifs/home|home]] of Caleb's furnishing, where scarcity and
 shabbiness were not, and trouble never entered. Caleb was no sorcerer;
-but in the only magic art that still remains to us, the magic of
+but in the only [[Magic|magic]] art that still remains to us, the [[Magic|magic]] of
 devoted, deathless [[motifs/love|love]], [[concepts/nature|Nature]] had been the mistress of his study;
 and, from her teaching, all the [[concepts/wonder|wonder]] came.
 
@@ -1298,7 +1302,7 @@ every day, beams mouldering and tending downward. The Blind Girl never
 knew that iron was rusting, wood rotting, paper peeling off; the size,
 and shape, and true proportion of the dwelling, withering away. The
 Blind Girl never knew that ugly shapes of delf and earthenware were on
-the board; that sorrow and faint-heartedness were in the house; that
+the board; that sorrow and faint-heartedness were in the [[house]]; that
 Caleb's scanty hairs were turning greyer and more grey before her
 sightless face. The Blind Girl never knew they had a master, cold,
 exacting, and uninterested--never knew that [[characters/tackleton|Tackleton]] was [[characters/tackleton|Tackleton]], in
@@ -1451,7 +1455,7 @@ any bearing on it?
 
 "There we are," said Caleb, falling back a pace or two to form the
 better judgment of his work; "as near the real thing as sixpenn'orth of
-halfpence is to sixpence. What a pity that the whole front of the house
+halfpence is to sixpence. What a pity that the whole front of the [[house]]
 opens at once! If there was only a staircase in it now, and regular
 doors to the rooms to go in at! But that's the worst of my calling, I'm
 always deluding myself, and swindling myself."
@@ -1462,10 +1466,10 @@ always deluding myself, and swindling myself."
 me, Bertha? _I_ was never tired. What does it mean?"
 
 To give the greater force to his words, he checked himself in an
-involuntary imitation of two half-length stretching and yawning figures
+involuntary [[Imitation|imitation]] of two half-length stretching and yawning figures
 on the mantel-shelf, who were represented as in one eternal state of
-weariness from the waist upwards; and hummed a [[forms/fragment|fragment]] of a song. It
-was a Bacchanalian song, something about a Sparkling Bowl. He sang it
+weariness from the waist upwards; and hummed a [[forms/fragment|fragment]] of a [[Song|song]]. It
+was a Bacchanalian [[Song|song]], something about a Sparkling Bowl. He sang it
 with an assumption of a Devil-may-care voice, that made his face a
 thousand times more meagre and more thoughtful than ever.
 
@@ -1674,7 +1678,7 @@ arm that clung about him, came a warning pressure which he understood
 too [[motifs/well|well]].
 
 He coughed a moment, hammered for a moment, and then fell back upon the
-song about the sparkling bowl, his infallible resource in all such
+[[Song|song]] about the sparkling bowl, his infallible resource in all such
 difficulties.
 
 "Our friend, father, our benefactor. I am never tired, you know, of
@@ -1824,7 +1828,7 @@ me better already, he says, as he gets more used to my voice. He told me
 a great deal about himself, and I told him a good deal about myself, and
 a rare lot of questions he asked me. I gave him information about my
 having two beats, you know, in my business; one day to the right from
-our house and back again; another day to the left from our house and
+our [[house]] and back again; another day to the left from our [[house]] and
 back again (for he's a stranger, and don't know the names of places
 about here); and he seemed quite pleased. 'Why, then I shall be
 returning [[motifs/home|home]] to-[[motifs/night|night]] your way,' he says, 'when I thought you'd be
@@ -1934,7 +1938,7 @@ Boxer, by the way, made certain delicate distinctions of his own, in his
 communication with Bertha, which persuade me fully that he knew her to
 be blind. He never sought to attract her attention by looking at her, as
 he often did with other people, but touched her invariably. What
-experience he could ever have had of blind people or blind dogs I don't
+experience he could ever have had of blind people or blind [[dogs]] I don't
 know. He had never lived with a blind master; nor had Mr. Boxer the
 elder, nor Mrs. Boxer, nor any of his respectable family on either side,
 ever been visited with blindness, that I am aware of. He may have found
@@ -2357,7 +2361,7 @@ He spoke in a loud tone; and, as he spoke, the deaf old gentleman
 entered.
 
 "He's not so much a stranger that you haven't seen him once, Caleb,"
-said the Carrier. "You'll give him house room till we go?"
+said the Carrier. "You'll give him [[house]] room till we go?"
 
 "Oh, surely, John, and take it as an [[concepts/honour|honour]]!"
 
@@ -2433,9 +2437,9 @@ indeed. I have been afraid of it. I have suspected it from the first."
 
 The Carrier accompanied him without another word. They went across a
 yard, where the [[motifs/stars|stars]] were shining, and by a little side-door, into
-[[characters/tackleton|Tackleton]]'s own counting-house, where there was a glass [[motifs/window|window]],
+[[characters/tackleton|Tackleton]]'s own counting-[[house]], where there was a glass [[motifs/window|window]],
 commanding the ware-room, which was closed for the [[motifs/night|night]]. There was no
-light in the counting-house itself, but there were lamps in the long
+light in the counting-[[house]] itself, but there were lamps in the long
 narrow ware-room; and consequently the [[motifs/window|window]] was bright.
 
 "A moment!" said [[characters/tackleton|Tackleton]]. "Can you bear to look through that [[motifs/window|window]],
@@ -2551,7 +2555,7 @@ with him hand to hand? He was the younger man.
 
 It was an ill-timed thought, bad for the dark mood of his mind. It was
 an angry thought, goading him to some avenging act, that should change
-the cheerful house into a haunted place which lonely travellers would
+the cheerful [[house]] into a haunted place which lonely travellers would
 dread to pass by [[motifs/night|night]]; and where the timid would see shadows struggling
 in the ruined windows when the [[motifs/moon|moon]] was dim, and hear wild noises in the
 stormy weather.
@@ -2778,7 +2782,7 @@ wheresoever she went, she bore those influences into [[characters/caleb-plummer|
 [[motifs/home|home]], heaped up and running over. The Blind Girl's [[motifs/love|love]] for her, and
 trust in her, and gratitude to her; her own good busy way of setting
 Bertha's thanks aside; her dexterous little arts for filling up each
-moment of the visit in doing something useful to the house, and really
+moment of the visit in doing something useful to the [[house]], and really
 working hard while feigning to make holiday; her bountiful provision of
 those standing delicacies, the Veal and Ham Pie and the bottles of Beer;
 her radiant little face arriving at the door, and taking leave; the
@@ -2838,7 +2842,7 @@ talk?"
 you'll give him a mouthful of hay."
 
 The Carrier having brought it from his stable and set it before him,
-they turned into the house.
+they turned into the [[house]].
 
 "You are not married before [[motifs/noon|noon]]," he said, "I think?"
 
@@ -2888,7 +2892,7 @@ twist. As if he would have screwed the [[concepts/truth|truth]] out of him.
 "Make yourself easy," said the Carrier. "He went into that room last
 [[motifs/night|night]], without harm in word or deed from me, and no one has entered it
 since. He is away of his own free-will. I'd go out gladly at that door,
-and beg my bread from house to house, for life, if I could so change the
+and beg my bread from [[house]] to [[house]], for life, if I could so change the
 past that he had never come. But he has come and gone. And I have done
 with him!"
 
@@ -2904,7 +2908,7 @@ face with his hand, for some little [[motifs/time|time]], before proceeding.
 "And tenderly," insinuated [[characters/tackleton|Tackleton]].
 
 "--Conniving at that man's disguise, and giving him opportunities of
-meeting her alone. I think there's no sight I wouldn't have rather seen
+meeting her [[Alone|alone]]. I think there's no sight I wouldn't have rather seen
 than that. I think there's no man in the world I wouldn't have rather
 had to show it me."
 
@@ -2929,7 +2933,7 @@ generous [[concepts/honour|honour]] dwelling in the man could have imparted.
 "I am a plain, rough man," pursued the Carrier "with very little to
 recommend me. I am not a clever man, as you very [[motifs/well|well]] know. I am not a
 young man. I loved my little Dot, because I had seen her grow up, from a
-[[archetypes/child|child]], in her father's house; because I knew how precious she was;
+[[archetypes/child|child]], in her father's [[house]]; because I knew how precious she was;
 because she had been my life for years and years. There's many men I
 can't compare with, who never could have loved my little Dot like me, I
 think!"
@@ -2963,9 +2967,9 @@ tone:
 "Did I consider," said the Carrier, "that I took her--at her age, and
 with her [[concepts/beauty|beauty]]--from her young companions, and the many scenes of which
 she was the ornament; in which she was the brightest little star that
-ever shone, to shut her up from day to day in my dull house, and keep my
+ever shone, to shut her up from day to day in my dull [[house]], and keep my
 tedious company? Did I consider how little suited I was to her sprightly
-humour, and how wearisome a plodding man like me must be to one of her
+[[Humour|humour]], and how wearisome a plodding man like me must be to one of her
 quick spirit? Did I consider that it was no merit in me, or claim in me,
 that I loved her, when everybody must who knew her? Never. I took
 advantage of her hopeful [[concepts/nature|nature]] and her cheerful disposition; and I
@@ -2994,7 +2998,7 @@ exhibited yet; "I only now begin to know how hard she has tried, to be
 my dutiful and zealous wife. How good she has been; how much she has
 done; how brave and strong a heart she has; let the happiness I have
 known under this roof bear witness! It will be some help and comfort to
-me when I am here alone."
+me when I am here [[Alone|alone]]."
 
 
 
@@ -3002,7 +3006,7 @@ me when I am here alone."
 <span class="atom-split" data-atom="story_06_chirp_the_third--part_05" data-title="The Cricket on the Hearth — Chirp The Third (part 5)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/innocent,archetype/lover,motif/clock,motif/flowers,motif/home,motif/horse,motif/leaves,motif/marriage,motif/night,motif/pain,motif/soul,motif/time,motif/well,concept/courage,concept/forgiveness,concept/self,concept/truth,character/john_peerybingle,character/tackleton"></span>
 
 
-"Here alone?" said [[characters/tackleton|Tackleton]]. "Oh! Then you do mean to take some notice
+"Here [[Alone|alone]]?" said [[characters/tackleton|Tackleton]]. "Oh! Then you do mean to take some notice
 of this?"
 
 "I mean," returned the Carrier, "to do her the greatest kindness, and
@@ -3107,7 +3111,7 @@ sigh, went strolling like a restless, broken man, among some
 neighbouring elms; unwilling to return until the [[motifs/clock|clock]] was on the eve of
 striking.
 
-His little wife, being left alone, sobbed piteously; but often dried her
+His little wife, being left [[Alone|alone]], sobbed piteously; but often dried her
 eyes and checked herself, to say how good he was, how excellent he was!
 and once or twice she laughed; so heartily, triumphantly, and
 incoherently (still crying all the [[motifs/time|time]]), that Tilly was quite
@@ -3155,7 +3159,7 @@ He put his arms about her neck and hugged her, as a [[archetypes/child|child]] m
 hugged one of his own dolls.
 
 "Bertha couldn't stay at [[motifs/home|home]] this morning," said Caleb. "She was
-afraid, I know, to hear the bells ring, and couldn't trust herself to be
+afraid, I know, to hear [[The Bells|the bells]] ring, and couldn't trust herself to be
 so near them on their wedding-day. So we started in good [[motifs/time|time]], and came
 here. I have been thinking of what I have done," said Caleb after a
 moment's pause; "I have been blaming myself till I hardly knew what to
@@ -3190,7 +3194,7 @@ about me as she is. If I could be restored to sight this instant, and
 not a word were spoken, I could choose her from a crowd! My sister!"
 
 "Bertha, my dear!" said Caleb. "I have something on my mind I want to
-tell you while we three are alone. Hear me kindly! I have a confession
+tell you while we three are [[Alone|alone]]. Hear me kindly! I have a confession
 to make to you, my darling!"
 
 "A confession, father?"
@@ -3204,7 +3208,7 @@ She turned her [[concepts/wonder|wonder]]-stricken face towards him, and repeate
 "He accuses himself too strongly, Bertha," said Dot. "You'll say so
 presently. You'll be the first to tell him so."
 
-"He cruel to me!" cried Bertha with a smile of incredulity.
+"He cruel to me!" cried Bertha with a smile of [[Incredulity|incredulity]].
 
 "Not meaning it, my [[archetypes/child|child]]," said Caleb. "But I have been: though I never
 suspected it till yesterday. My dear blind daughter, hear me and forgive
@@ -3243,7 +3247,7 @@ everything."
 "Oh, why," cried the Blind Girl, tortured, as it seemed, almost beyond
 [[concepts/endurance|endurance]], "why did you ever do this? Why did you ever fill my heart so
 full, and then come in like [[motifs/death|Death]], and tear away the objects of my [[motifs/love|love]]?
-O Heaven, how blind I am! How helpless and alone!"
+O Heaven, how blind I am! How helpless and [[Alone|alone]]!"
 
 Her afflicted father hung his head, and offered no reply but in his
 penitence and sorrow.
@@ -3267,7 +3271,7 @@ through her blindness, of the Presence hovering about her father.
 "Mary," said the Blind Girl, "tell me what my [[motifs/home|home]] is. What it truly
 is."
 
-"It is a poor place, Bertha; very poor and bare indeed. The house will
+"It is a poor place, Bertha; very poor and bare indeed. The [[house]] will
 scarcely keep out [[motifs/wind|wind]] and rain another [[motifs/winter|winter]]. It is as roughly
 shielded from the weather, Bertha," Dot continued in a low, clear voice,
 "as your poor father in his sackcloth coat."
@@ -3447,7 +3451,7 @@ me, for nothing shall make me spare myself in his eyes, ever again."
 
 "I was the man," said Edward.
 
-"And could you steal, disguised, into the house of your old friend?"
+"And could you steal, disguised, into the [[house]] of your old friend?"
 rejoined the Carrier. "There was a frank boy once--how many years is it,
 Caleb, since we heard that he was dead, and had it proved, we
 thought?--who never would have done that."
@@ -3535,7 +3539,7 @@ her in his arms. But no; she wouldn't let him.
 
 "Don't [[motifs/love|love]] me yet, please, John! Not for a long [[motifs/time|time]] yet! When I was
 sad about this intended [[motifs/marriage|marriage]], dear, it was because I remembered May
-and Edward such young lovers; and knew that her heart was far away from
+and Edward such young [[lovers]]; and knew that her heart was far away from
 [[characters/tackleton|Tackleton]]. You believe that, now, don't you, John?"
 
 John was going to make another rush at this appeal; but she stopped him
@@ -3651,7 +3655,7 @@ Of course, it became a serious duty now to make such a day of it as
 should mark these events for a high Feast and Festival in the
 Peerybingle Calendar for evermore. Accordingly, Dot went to work to
 produce such an entertainment as should reflect undying [[concepts/honour|honour]] on the
-house and on every one concerned; and, in a very short space of [[motifs/time|time]],
+[[house]] and on every one concerned; and, in a very short space of [[motifs/time|time]],
 she was up to her dimpled elbows in flour, and whitening the Carrier's
 coat, every [[motifs/time|time]] he came near her, by stopping him to give him a kiss.
 That good fellow washed the greens, and peeled the turnips, and broke
@@ -3727,7 +3731,7 @@ missed the dinner would have been to miss as jolly and as stout a meal
 as man need eat; and to have missed the overflowing cups in which they
 drank The Wedding Day would have been the greatest miss of all.
 
-After dinner Caleb sang the song about the Sparkling Bowl. As I'm a
+After dinner Caleb sang the [[Song|song]] about the Sparkling Bowl. As I'm a
 living man, hoping to keep so for a year or two, he sang it through.
 
 And, by-the-bye, a most unlooked-for incident occurred, just as he
@@ -3772,7 +3776,7 @@ more or less, by coming face to face with such a man as you. Caleb! This
 unconscious little [[characters/nurse|nurse]] gave me a broken hint last [[motifs/night|night]], of which I
 have found the thread. I blush to think how easily I might have bound
 you and your daughter to me, and what a miserable idiot I was when I
-took her for one! Friends, one and all, my house is very lonely
+took her for one! Friends, one and all, my [[house]] is very lonely
 to-[[motifs/night|night]]. I have not so much as a Cricket on my Hearth. I have scared
 them all away. Be gracious to me: let me join this happy party!"
 
@@ -3804,7 +3808,7 @@ that the Deputy was a humbug, and must be abandoned, he had got up
 again, turned tail, and come [[motifs/home|home]].
 
 There was a [[motifs/dance|dance]] in the evening. With which general mention of that
-recreation, I should have left it alone, if I had not some reason to
+recreation, I should have left it [[Alone|alone]], if I had not some reason to
 suppose that it was quite an original [[motifs/dance|dance]], and one of a most uncommon
 figure. It was formed in an odd way; in this way.
 
@@ -3819,7 +3823,7 @@ sitting by him best. Mrs. Fielding had no choice, of course, but to say
 _her_ dancing days were over, after that; and everybody said the same,
 except May; May was ready.
 
-So, May and Edward get up, amid great applause, to [[motifs/dance|dance]] alone; and
+So, May and Edward get up, amid great applause, to [[motifs/dance|dance]] [[Alone|alone]]; and
 Bertha plays her liveliest tune.
 
 [[motifs/well|Well]]! if you'll believe me, they had not been dancing five minutes, when
@@ -3841,6 +3845,6 @@ how the kettle hums!
 
 But what is this? Even as I listen to them blithely, and turn towards
 Dot, for one last glimpse of a little figure very pleasant to me, she
-and the rest have vanished into air, and I am left alone. A Cricket
+and the rest have vanished into air, and I am left [[Alone|alone]]. A Cricket
 sings upon the Hearth; a broken [[archetypes/child|child]]'s toy lies upon the ground: and
 nothing else remains.

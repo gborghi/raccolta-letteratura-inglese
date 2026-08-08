@@ -48,8 +48,8 @@ tags:
 ## Capitoli / Chapters
 
 - [Chapter 5](/testi/bronte/atomized/villette#chapter_05)
-- [Chapter 25 (continued)](/testi/bronte/atomized/villette#chapter_26_some_illustrated_work_of_natur)
-- [Chapter 29 (continued)](/testi/bronte/atomized/villette#chapter_31_never_hazarded_a_second_with_a)
+- [Book 26: some illustrated work of natural history. Often had I seen her](/testi/bronte/atomized/villette#chapter_26_some_illustrated_work_of_natur)
+- [Volume 31: never hazarded a second. With all this, I had never yet been](/testi/bronte/atomized/villette#chapter_31_never_hazarded_a_second_with_a)
 - [Chapter 42](/testi/bronte/atomized/villette#chapter_44)
 
 
@@ -57,13 +57,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/ghost|Ghost]]
+**Archetypes:** Outsider, Ghost
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/storm|Storm]], [[motifs/sea|Sea]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/madness-(2)|Madness (2)]], [[motifs/supernatural|Supernatural]]
 **Themes & Concepts:** [[concepts/alienation|Alienation]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/melancholy|Melancholy]], [[concepts/identity|Identity]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/uncanny|Uncanny]], [[concepts/romantic-love|Romantic Love]], [[concepts/exile|Exile]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/bildungsroman|Bildungsroman]], [[forms/gothic-novel|Gothic Novel]]
 **Historical References:** [[historical-references/catholic-church|Catholic Church]]
 **Settings:** [[settings/industrial-city|Industrial City]]
-**Characters:** [[characters/lucy-snowe|Lucy Snowe]], [[characters/paul-emanuel|Paul Emanuel]], [[characters/graham-bretton|Graham Bretton]], [[characters/madame-beck|Madame Beck]], [[characters/ginevra-fanshawe|Ginevra Fanshawe]], [[characters/polly-home|Polly Home]], [[characters/mrs-bretton|Mrs Bretton]]
+**Characters:** Lucy Snowe, Paul Emanuel, Graham Bretton, Madame Beck, Ginevra Fanshawe, Polly Home, Mrs Bretton
 
 ## Testo integrale / Full text
 

@@ -80,10 +80,10 @@ tags:
 
 **Topoi:** [[topoi/double|Double]]
 
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]], [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/avenger|Avenger]], [[archetypes/trickster|Trickster]]
+**Archetypes:** Detective, Villain, Double Doppelganger, Avenger, Trickster
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/conscience|Conscience]], [[concepts/imagination|Imagination]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/identity|Identity]], [[concepts/revenge|Revenge]], [[concepts/forgiveness|Forgiveness]], [[concepts/self-deception|Self-Deception]], [[concepts/mesmerism|Mesmerism]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
-**Characters:** [[characters/father-brown|Father Brown]], [[characters/sherlock-holmes-homage|Sherlock Holmes Homage]], [[characters/flambeau|Flambeau]], [[characters/grandison-chace|Grandison Chace]], [[characters/michael-moonshine|Michael Moonshine]], [[characters/john-bankes|John Bankes]], [[characters/sir-arthur-travers|Sir Arthur Travers]], [[characters/mrs.-mandeville|Mrs. Mandeville]], [[characters/marquis-of-marne|Marquis of Marne]], [[characters/hugo-romaine|Hugo Romaine]], [[characters/james-hardcastle|James Hardcastle]]
+**Characters:** Father Brown, Sherlock Holmes Homage, Flambeau, Grandison Chace, Michael Moonshine, John Bankes, Sir Arthur Travers, Mrs. Mandeville, Marquis of Marne, Hugo Romaine, James Hardcastle
 
 ## Testo integrale / Full text
 

@@ -63,13 +63,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/lover|Lover]]
+**Archetypes:** Innocent, Lover
 **Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/marriage|Marriage]]
 **Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/satire-of-society|Satire of Society]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/romantic-love|Romantic Love]], [[concepts/deception|Deception]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/parody|Parody]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/satire|Satire]], [[forms/bildungsroman|Bildungsroman]], [[forms/gothic-novel|Gothic Novel]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** [[characters/catherine-morland|Catherine Morland]], [[characters/henry-tilney|Henry Tilney]], [[characters/isabella-thorpe|Isabella Thorpe]], [[characters/john-thorpe|John Thorpe]], [[characters/eleanor-tilney|Eleanor Tilney]], [[characters/general-tilney|General Tilney]]
+**Characters:** Catherine Morland, Henry Tilney, Isabella Thorpe, John Thorpe, Eleanor Tilney, General Tilney
 
 ## Testo integrale / Full text
 

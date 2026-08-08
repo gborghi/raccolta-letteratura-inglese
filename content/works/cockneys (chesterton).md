@@ -57,7 +57,7 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Archetypes:** [[archetypes/fool|Fool]]
+**Archetypes:** Fool
 **Motifs:** [[motifs/city|City]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/music-and-song|Music and Song]]
 **Themes & Concepts:** [[concepts/common-man|Common Man]], [[concepts/joy|Joy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/paradox|Paradox]], [[concepts/class-conflict|Class Conflict]], [[concepts/poverty|Poverty]], [[concepts/democracy|Democracy]], [[concepts/reform|Reform]], [[concepts/grotesque|Grotesque]], [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

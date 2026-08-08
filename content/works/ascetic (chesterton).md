@@ -42,7 +42,7 @@ tags:
 
 **Topoi:** [[topoi/war-as-glory|War as Glory]]
 
-**Characters:** [[characters/higgins|Higgins]]
+**Characters:** Higgins
 
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/fire|Fire]], [[motifs/death|Death]], [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/joy|Joy]], [[concepts/faith|Faith]], [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/satire-of-society|Satire of Society]], [[concepts/self-denial-and-renunciation|Self-Denial and Renunciation]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/poverty|Poverty]], [[concepts/economics|Economics]]

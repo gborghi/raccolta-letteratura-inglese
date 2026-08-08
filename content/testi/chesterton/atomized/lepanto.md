@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-Lepanto  
+[[lepanto|Lepanto]]  
 
 G.K.Chesterton  
 
@@ -58,7 +58,7 @@ Luce di [[motifs/death|morte]] d'Africa!
 [[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 cavalca verso il mare.  
 
-Macone è nel suo paradiso sopra la stella della sera,  
+Macone è nel suo paradiso sopra la [[Evening Star|stella della sera]],  
 (_Don Giovanni d'Austria va alla guerra._)  
 muove un turbante immenso sulle ginocchia dell'urì senza tempo,  
 il suo turbante ch'è tessuto dei tramonti e dei mari.  
@@ -103,9 +103,9 @@ San Michele sul suo Monte nelle vie marine del nord
 dove i grigi mari luccicano e mutano le maree taglienti  
 e la gente di mare fatica e si levano le rosse vele.  
 Scuote la sua lancia di ferro e batte le sue ali di pietra;  
-il rumore è passato per la Normandia; il rumore è passato solo;  
+il rumore è passato per la Normandia; il rumore è passato [[Alone|solo]];  
 il Nord è pieno di cose aggrovigliate e di testi e di occhi dolenti,  
-e morta è tutta l'innocenza dell'ira e della sorpresa,  
+e morta è tutta l'[[innocence|innocenza]] dell'ira e della sorpresa,  
 e cristiano uccide cristiano in un'angusta stanza polverosa,  
 e cristiano teme [[characters/christ|Cristo]] che ha un più nuovo volto di condanna,  
 e cristiano odia Maria che Dio baciò in Galilea,--  
@@ -136,7 +136,7 @@ ha scatenato la cannonata.
 
 Il Papa era nella sua cappella prima che rompesse il giorno o la battaglia,  
 (_Don Giovanni d'Austria è nascosto nel fumo._)  
-la stanza celata nella casa dell'uomo dove Dio siede tutto l'anno,  
+la stanza celata nella [[house|casa]] dell'uomo dove Dio siede tutto l'anno,  
 la segreta [[motifs/window|finestra]] da cui il mondo pare piccolo e assai caro.  
 Vede come in uno [[motifs/mirror|specchio]] sul mostruoso mare crepuscolare  
 la mezzaluna delle sue navi crudeli il cui nome è mistero;  
@@ -166,7 +166,7 @@ Domino Gloria!
 [[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 ha reso libero il suo popolo!  
 
-Cervantes sulla sua galea ripone la spada nel fodero  
+Cervantes sulla sua galea ripone la [[Sword|spada]] nel fodero  
 (_Don Giovanni d'Austria cavalca verso casa con una corona d'alloro._)  
 e vede attraverso una terra stanca una [[motifs/road|strada]] sperduta in Spagna,  
 su cui un cavaliere magro e folle per sempre cavalca invano,  
@@ -178,7 +178,7 @@ e sorride, ma non come sorridono i Sultani, e ripone la lama....
 <span class="atom-split" data-atom="part--part_01" data-title="lepanto (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/blood,motif/cross,motif/death,motif/flag,motif/garden,motif/home,motif/lion,motif/love,motif/mirror,motif/moon,motif/night,motif/road,motif/silence,motif/window,concept/endurance,concept/wonder,setting/castle,setting/italy,setting/mountains,character/ariel,character/christ,character/don_john,character/don_john_of_austria,character/queen,character/richard"></span>
 
 
-Lepanto  
+[[lepanto|Lepanto]]  
 
 G.K.Chesterton  
 
@@ -219,7 +219,7 @@ Holding his head up for a [[motifs/flag|flag]] of all the free.
 [[characters/don-john-of-austria|Don John of Austria]]  
 Is riding to the sea.  
 
-Mahound is in his paradise above the evening star,  
+Mahound is in his paradise above the [[Evening Star|evening star]],  
 (_Don John of Austria is going to the war._)  
 He moves a mighty turban on the timeless houri's knees,  
 His turban that is woven of the sunsets and the seas.  
@@ -264,9 +264,9 @@ St. Michaels on his Mountain in the sea-roads of the north
 Where the grey seas glitter and the sharp tides shift  
 And the sea-folk labour and the red sails lift.  
 He shakes his lance of iron and he claps his wings of stone;  
-The noise is gone through Normandy; the noise is gone alone;  
+The noise is gone through Normandy; the noise is gone [[Alone|alone]];  
 The North is full of tangled things and texts and aching eyes,  
-And dead is all the innocence of anger and surprise,  
+And dead is all the [[innocence]] of anger and surprise,  
 And Christian killeth Christian in a narrow dusty room,  
 And Christian dreadeth [[characters/christ|Christ]] that hath a newer face of doom,  
 And Christian hateth Mary that God kissed in Galilee,--  
@@ -297,7 +297,7 @@ Has loosed the cannonade.
 
 The Pope was in his chapel before day or battle broke,  
 (_Don John of Austria is hidden in the smoke._)  
-The hidden room in man's house where God sits all the year,  
+The hidden room in man's [[house]] where God sits all the year,  
 The secret [[motifs/window|window]] whence the world looks small and very dear.  
 He sees as in a [[motifs/mirror|mirror]] on the monstrous twilight sea  
 The crescent of his cruel ships whose name is mystery;  
@@ -327,7 +327,7 @@ Domino Gloria!
 [[characters/don-john-of-austria|Don John of Austria]]  
 Has set his people free!  
 
-Cervantes on his galley sets the sword back in the sheath  
+Cervantes on his galley sets the [[Sword|sword]] back in the sheath  
 (_Don John of Austria rides homeward with a wreath._)  
 And he sees across a weary land a straggling [[motifs/road|road]] in Spain,  
 Up which a lean and foolish knight for ever rides in vain,  
@@ -337,7 +337,7 @@ And he smiles, but not as Sultans smile, and settles back the blade....
 
 <span class="qlang-split" data-lang="it"></span>
 
-Lepanto  
+[[lepanto|Lepanto]]  
 
 G.K.Chesterton  
 
@@ -378,7 +378,7 @@ Luce di [[motifs/death|morte]] d'Africa!
 [[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 cavalca verso il mare.  
 
-Macone è nel suo paradiso sopra la stella della sera,  
+Macone è nel suo paradiso sopra la [[Evening Star|stella della sera]],  
 (_Don Giovanni d'Austria va alla guerra._)  
 muove un turbante immenso sulle ginocchia dell'urì senza tempo,  
 il suo turbante ch'è tessuto dei tramonti e dei mari.  
@@ -423,9 +423,9 @@ San Michele sul suo Monte nelle vie marine del nord
 dove i grigi mari luccicano e mutano le maree taglienti  
 e la gente di mare fatica e si levano le rosse vele.  
 Scuote la sua lancia di ferro e batte le sue ali di pietra;  
-il rumore è passato per la Normandia; il rumore è passato solo;  
+il rumore è passato per la Normandia; il rumore è passato [[Alone|solo]];  
 il Nord è pieno di cose aggrovigliate e di testi e di occhi dolenti,  
-e morta è tutta l'innocenza dell'ira e della sorpresa,  
+e morta è tutta l'[[innocence|innocenza]] dell'ira e della sorpresa,  
 e cristiano uccide cristiano in un'angusta stanza polverosa,  
 e cristiano teme [[characters/christ|Cristo]] che ha un più nuovo volto di condanna,  
 e cristiano odia Maria che Dio baciò in Galilea,--  
@@ -456,7 +456,7 @@ ha scatenato la cannonata.
 
 Il Papa era nella sua cappella prima che rompesse il giorno o la battaglia,  
 (_Don Giovanni d'Austria è nascosto nel fumo._)  
-la stanza celata nella casa dell'uomo dove Dio siede tutto l'anno,  
+la stanza celata nella [[house|casa]] dell'uomo dove Dio siede tutto l'anno,  
 la segreta [[motifs/window|finestra]] da cui il mondo pare piccolo e assai caro.  
 Vede come in uno [[motifs/mirror|specchio]] sul mostruoso mare crepuscolare  
 la mezzaluna delle sue navi crudeli il cui nome è mistero;  
@@ -486,7 +486,7 @@ Domino Gloria!
 [[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 ha reso libero il suo popolo!  
 
-Cervantes sulla sua galea ripone la spada nel fodero  
+Cervantes sulla sua galea ripone la [[Sword|spada]] nel fodero  
 (_Don Giovanni d'Austria cavalca verso casa con una corona d'alloro._)  
 e vede attraverso una terra stanca una [[motifs/road|strada]] sperduta in Spagna,  
 su cui un cavaliere magro e folle per sempre cavalca invano,  

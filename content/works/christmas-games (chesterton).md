@@ -51,9 +51,9 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/trickster|Trickster]]
+**Archetypes:** Trickster
 
-**Characters:** [[characters/sigmund-freud|Sigmund Freud]], [[characters/h.-g.-wells|H. G. Wells]], [[characters/gerald-heard|Gerald Heard]]
+**Characters:** Sigmund Freud, H. G. Wells, Gerald Heard
 
 **Topoi:** [[topoi/golden-age|Golden Age]], [[topoi/world-upside-down|World Upside Down]]
 **Motifs:** [[motifs/childhood|Childhood]], [[motifs/money-and-gold|Money and Gold]], [[motifs/fire|Fire]]

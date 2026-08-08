@@ -32,7 +32,7 @@ tags:
 - [[works/improbable-story-(chesterton)|improbable story (Chesterton)]]
 - [[works/sexlessness-(chesterton)|sexlessness (Chesterton)]]
 - [[works/american-notes-(dickens)|American Notes (Dickens)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#169_ethiopia_saluting_the_colors|Ethiopia Saluting the Colors (Whitman)]]
+- [[works/ethiopia-saluting-the-colors-(whitman)|Ethiopia Saluting the Colors (Whitman)]]
 - [[works/the-crime-of-the-congo-(conan-doyle)|The Crime of the Congo (Conan Doyle)]]
 - [[works/the-servile-state-(belloc)|The Servile State (Belloc)]]
 

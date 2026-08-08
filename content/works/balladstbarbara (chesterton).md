@@ -86,11 +86,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/tyrant|Tyrant]]
+**Archetypes:** Martyr Saint, Tyrant
 
 **Settings:** [[settings/london|London]], [[settings/paris|Paris]], [[motifs/desert|Desert]], [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/europe|Europe]]
 
-**Characters:** [[characters/christ|Christ]], [[characters/herod-antipas|Herod Antipas]], [[characters/lazarus-the-risen-man|Lazarus the Risen Man]], [[characters/king-arthur|King Arthur]], [[characters/barbara|Barbara]]
+**Characters:** Christ, Herod Antipas, Lazarus the Risen Man, King Arthur, Barbara
 
 **Topoi:** [[topoi/ubi-sunt|Ubi Sunt]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/last-stand|Last Stand]], [[topoi/memento-mori|Memento Mori]], [[topoi/world-upside-down|World Upside Down]], [[topoi/quest|Quest]]
 **Motifs:** [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/grave|Grave]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/window|Window]], [[motifs/bells|Bells]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/money-and-gold|Money and Gold]], [[motifs/horse|Horse]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/fire|Fire]], [[motifs/dragon|Dragon]]

@@ -48,6 +48,6 @@ tags:
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/city|City]]
 **Historical References:** [[historical-references/british-empire|British Empire]], [[historical-references/victorian-england|Victorian England]]
 **Settings:** [[settings/london|London]], [[settings/england|England]]
-**Characters:** [[characters/g.-k.-chesterton|G. K. Chesterton]]
-**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/self-made-man|Self-Made Man]]
+**Characters:** G. K. Chesterton
+**Archetypes:** Corrupt Official, Self-Made Man
 **Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]

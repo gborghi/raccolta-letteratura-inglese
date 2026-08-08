@@ -62,12 +62,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/combat-strife|Combat Strife]]
-**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/lover|Lover]], [[archetypes/fool|Fool]]
+**Archetypes:** Villain, Lover, Fool
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/love|Love]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/honour|Honour]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/jealousy|Jealousy]]
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]]
 **Settings:** [[settings/italy|Italy]], [[settings/europe|Europe]]
-**Characters:** [[characters/benedick|Benedick]], [[characters/beatrice|Beatrice]], [[characters/claudio|Claudio]], [[characters/hero-(2)|Hero (2)]], [[characters/don-pedro|Don Pedro]], [[characters/don-john|Don John]], [[characters/dogberry|Dogberry]], [[characters/leonato|Leonato]]
+**Characters:** Benedick, Beatrice, Claudio, Hero (2), Don Pedro, Don John, Dogberry, Leonato
 
 ## Testo integrale / Full text
 

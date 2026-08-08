@@ -63,13 +63,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/rebel|Rebel]]
+**Archetypes:** Rebel
 
 **Settings:** [[settings/london|London]]
 
 **Motifs:** [[motifs/enchanted-wood|Enchanted Wood]], [[motifs/cross|Cross]], [[motifs/garden|Garden]], [[motifs/flag|Flag]]
 
-**Characters:** [[characters/christ|Christ]], [[characters/joan-of-arc|Joan of Arc]], [[characters/nietzsche|Nietzsche]], [[characters/tolstoy|Tolstoy]]
+**Characters:** Christ, Joan of Arc, Nietzsche, Tolstoy
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/paradise-lost|Paradise Lost]]
 **Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/paradox|Paradox]], [[concepts/conversion|Conversion]], [[concepts/joy|Joy]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/faith|Faith]], [[concepts/madness|Madness]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/democracy|Democracy]], [[concepts/original-sin|Original Sin]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/tradition|Tradition]], [[concepts/authority|Authority]], [[concepts/history|History]]

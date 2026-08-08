@@ -43,126 +43,126 @@ tags:
 - [[works/gkc-autobiography-(chesterton)|GKC-Autobiography (Chesterton)]]
 - [[works/chalk-(chesterton)|chalk (Chesterton)]]
 - [[works/to-frances-(chesterton)|to-frances (Chesterton)]]
-- [[testi/coleridge/atomized/dreams-moon#214_a_day-dream|A DAY-DREAM (Coleridge)]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#036_a_fragment_found_in_a_lecture-room|A FRAGMENT FOUND IN A LECTURE-ROOM (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#013_an_invocation|AN INVOCATION (Coleridge)]]
+- [[works/a-day-dream-(coleridge)|A DAY-DREAM (Coleridge)]]
+- [[works/a-fragment-found-in-a-lecture-room-(coleridge)|A FRAGMENT FOUND IN A LECTURE-ROOM (Coleridge)]]
+- [[works/an-invocation-(coleridge)|AN INVOCATION (Coleridge)]]
 - [[works/apologetic-preface-to-‘fire,-famine,-and-slaughter’-(coleridge)|APOLOGETIC PREFACE TO ‘FIRE, FAMINE, AND SLAUGHTER’ (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#190_apologia_pro_vita_sua|APOLOGIA PRO VITA SUA (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#272_constancy_to_an_ideal_object|CONSTANCY TO AN IDEAL OBJECT (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#205_dejection_an_ode|DEJECTION AN ODE (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#387_epigram_on_kepler|EPIGRAM ON KEPLER (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#262_fancy_in_nubibus_or_the_poet_in_the_clouds|FANCY IN NUBIBUS OR THE POET IN THE CLOUDS (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#231_farewell_to_love|FAREWELL TO LOVE (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#047_first_draft_an_effusion_at_evening|FIRST DRAFT AN EFFUSION AT EVENING (Coleridge)]]
+- [[works/apologia-pro-vita-sua-(coleridge)|APOLOGIA PRO VITA SUA (Coleridge)]]
+- [[works/constancy-to-an-ideal-object-(coleridge)|CONSTANCY TO AN IDEAL OBJECT (Coleridge)]]
+- [[works/dejection-an-ode-(coleridge)|DEJECTION AN ODE (Coleridge)]]
+- [[works/epigram-on-kepler-(coleridge)|EPIGRAM ON KEPLER (Coleridge)]]
+- [[works/fancy-in-nubibus-or-the-poet-in-the-clouds-(coleridge)|FANCY IN NUBIBUS OR THE POET IN THE CLOUDS (Coleridge)]]
+- [[works/farewell-to-love-(coleridge)|FAREWELL TO LOVE (Coleridge)]]
+- [[works/first-draft-an-effusion-at-evening-(coleridge)|FIRST DRAFT AN EFFUSION AT EVENING (Coleridge)]]
 - [[works/first-drafts,-early-versions,-etc.-(coleridge)|FIRST DRAFTS, EARLY VERSIONS, ETC. (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#159_kubla_khan|KUBLA KHAN (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#101_lines_in_the_manner_of_spenser|LINES IN THE MANNER OF SPENSER (Coleridge)]]
-- [[testi/coleridge/atomized/memory-and-time-memory-nostalgia#048_lines_on_an_autumnal_evening|LINES ON AN AUTUMNAL EVENING (Coleridge)]]
-- [[testi/coleridge/atomized/dreams-moon#223_phantom|PHANTOM (Coleridge)]]
+- [[works/kubla-khan-(coleridge)|KUBLA KHAN (Coleridge)]]
+- [[works/lines-in-the-manner-of-spenser-(coleridge)|LINES IN THE MANNER OF SPENSER (Coleridge)]]
+- [[works/lines-on-an-autumnal-evening-(coleridge)|LINES ON AN AUTUMNAL EVENING (Coleridge)]]
+- [[works/phantom-(coleridge)|PHANTOM (Coleridge)]]
 - [[works/prose-versions-of-poems,-etc.-(coleridge)|PROSE VERSIONS OF POEMS, ETC. (Coleridge)]]
-- [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#434_schiller_der_epische_hexameter|SCHILLER DER EPISCHE HEXAMETER (Coleridge)]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#420_sir_john_davies_on_the_immortality_of_the_soul|SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#042_songs_of_the_pixies|SONGS OF THE PIXIES (Coleridge)]]
-- [[testi/coleridge/atomized/dreams-moon#003_sonnet_to_the_autumnal_moon|SONNET TO THE AUTUMNAL MOON (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#226_the_blossoming_of_the_solitary_date-tree|THE BLOSSOMING OF THE SOLITARY DATE-TREE (Coleridge)]]
+- [[works/schiller-der-epische-hexameter-(coleridge)|SCHILLER DER EPISCHE HEXAMETER (Coleridge)]]
+- [[works/sir-john-davies-on-the-immortality-of-the-soul-(coleridge)|SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL (Coleridge)]]
+- [[works/songs-of-the-pixies-(coleridge)|SONGS OF THE PIXIES (Coleridge)]]
+- [[works/sonnet-to-the-autumnal-moon-(coleridge)|SONNET TO THE AUTUMNAL MOON (Coleridge)]]
+- [[works/the-blossoming-of-the-solitary-date-tree-(coleridge)|THE BLOSSOMING OF THE SOLITARY DATE-TREE (Coleridge)]]
 - [[works/the-destiny-of-nations-a-vision-(coleridge)|THE DESTINY OF NATIONS A VISION (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#104_the_eolian_harp|THE EOLIAN HARP (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#286_the_garden_of_boccaccio|THE GARDEN OF BOCCACCIO (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#273_the_pang_more_sharp_than_all_an_allegory|THE PANG MORE SHARP THAN ALL AN ALLEGORY (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#207_the_picture_or_the_lovers_resolution|THE PICTURE OR THE LOVER’S RESOLUTION (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#265_the_reproof_and_reply|THE REPROOF AND REPLY (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#169_the_visit_of_the_gods_imitated_from_schiller|THE VISIT OF THE GODS IMITATED FROM SCHILLER (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#134_this_lime-tree_bower_my_prison|THIS LIME-TREE BOWER MY PRISON (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#248_time_real_and_imaginary|TIME, REAL AND IMAGINARY (Coleridge)]]
-- [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#208_to_matilda_betham_from_a_stranger|TO MATILDA BETHAM FROM A STRANGER (Coleridge)]]
-- [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#008_to_the_muse|TO THE MUSE (Coleridge)]]
-- [[testi/coleridge/atomized/essay-critique-of-progress-common-man#023_to_the_rev_george_coleridge|TO THE REV. GEORGE COLERIDGE (Coleridge)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#088_to_the_rev_w_l_bowles|TO THE REV. W. L. BOWLES (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#302_to_the_young_artist_kayser_of_kaserwerth|TO THE YOUNG ARTIST KAYSER OF KASERWERTH (Coleridge)]]
+- [[works/the-eolian-harp-(coleridge)|THE EOLIAN HARP (Coleridge)]]
+- [[works/the-garden-of-boccaccio-(coleridge)|THE GARDEN OF BOCCACCIO (Coleridge)]]
+- [[works/the-pang-more-sharp-than-all-an-allegory-(coleridge)|THE PANG MORE SHARP THAN ALL AN ALLEGORY (Coleridge)]]
+- [[works/the-picture-or-the-lover’s-resolution-(coleridge)|THE PICTURE OR THE LOVER’S RESOLUTION (Coleridge)]]
+- [[works/the-reproof-and-reply-(coleridge)|THE REPROOF AND REPLY (Coleridge)]]
+- [[works/the-visit-of-the-gods-imitated-from-schiller-(coleridge)|THE VISIT OF THE GODS IMITATED FROM SCHILLER (Coleridge)]]
+- [[works/this-lime-tree-bower-my-prison-(coleridge)|THIS LIME-TREE BOWER MY PRISON (Coleridge)]]
+- [[works/time,-real-and-imaginary-(coleridge)|TIME, REAL AND IMAGINARY (Coleridge)]]
+- [[works/to-matilda-betham-from-a-stranger-(coleridge)|TO MATILDA BETHAM FROM A STRANGER (Coleridge)]]
+- [[works/to-the-muse-(coleridge)|TO THE MUSE (Coleridge)]]
+- [[works/to-the-rev.-george-coleridge-(coleridge)|TO THE REV. GEORGE COLERIDGE (Coleridge)]]
+- [[works/to-the-rev.-w.-l.-bowles-(coleridge)|TO THE REV. W. L. BOWLES (Coleridge)]]
+- [[works/to-the-young-artist-kayser-of-kaserwerth-(coleridge)|TO THE YOUNG ARTIST KAYSER OF KASERWERTH (Coleridge)]]
 - [[works/to-william-wordsworth-composed-on-the-night-after-his-recitation-of-a-poem-on-the-growth-of-an-individual-mind|TO WILLIAM WORDSWORTH COMPOSED ON THE NIGHT AFTER HIS RECITATION OF A POEM ON THE GROWTH OF AN INDIVIDUAL MIND]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#038_with_fieldings_amelia|WITH FIELDING’S ‘AMELIA’ (Coleridge)]]
+- [[works/with-fielding’s-‘amelia’-(coleridge)|WITH FIELDING’S ‘AMELIA’ (Coleridge)]]
 - [[works/hard-times-(dickens)|Hard Times (Dickens)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1071_perception_of_an_object_costs|1071. Perception of an object costs (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1126_shall_i_take_thee_the_poet_said|1126. Shall I take thee, the Poet said (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#1198_a_soft_sea_washed_around_the_house|1198. A soft Sea washed around the House (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1223_who_goes_to_dine_must_take_his_feast|1223. Who goes to dine must take his Feast (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1247_to_pile_like_thunder_to_its_close|1247. To pile like Thunder to its close (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#1263_there_is_no_frigate_like_a_book|1263. There is no Frigate like a Book (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1302_i_think_that_the_root_of_the_wind_is_water|1302. I think that the Root of the Wind is Water — (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1392_hope_is_a_strange_invention|1392. Hope is a strange invention — (Dickinson)]]
-- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#1446_his_mind_like_fabrics_of_the_east|1446. His Mind like Fabrics of the East (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1452_your_thoughts_dont_have_words_every_day|1452. Your thoughts don't have words every day (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1481_the_way_hope_builds_his_house|1481. The way Hope builds his House (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0152_the_sun_kept_stooping_stooping_low|152. The Sun kept stooping — stooping — low! (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1585_the_bird_her_punctual_music_brings|1585. The Bird her punctual music brings (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1634_talk_not_to_me_of_summer_trees|1634. Talk not to me of Summer Trees (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0188_make_me_a_picture_of_the_sun|188. Make me a picture of the sun — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0204_a_slash_of_blue|204. A slash of Blue — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0219_she_sweeps_with_many-colored_brooms|219. She sweeps with many-colored Brooms — (Dickinson)]]
-- [[testi/dickinson/atomized/terror-and-horror-madness#0298_alone_i_cannot_be|298. Alone, I cannot be — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0307_the_one_who_could_repeat_the_summer_day|307. The One who could repeat the Summer day — (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0308_i_send_two_sunsets|308. I send Two Sunsets — (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0326_i_cannot_dance_upon_my_toes|326. I cannot dance upon my Toes — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0327_before_i_got_my_eye_put_out|327. Before I got my eye put out (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0352_perhaps_i_asked_too_large|352. Perhaps I asked too large — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0370_heaven_is_so_far_of_the_mind|370. Heaven is so far of the Mind (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0374_i_went_to_heaven|374. I went to Heaven — (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0383_exhilaration_is_within|383. Exhilaration — is within — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0416_a_murmur_in_the_trees_to_note|416. A Murmur in the Trees — to note — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0421_a_charm_invests_a_face|421. A Charm invests a face (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0436_the_wind_tapped_like_a_tired_man|436. The Wind — tapped like a tired Man — (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0439_undue_significance_a_starving_man_attaches|439. Undue Significance a starving man attaches (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0448_this_was_a_poet_it_is_that|448. This was a Poet — It is That (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0500_within_my_garden_rides_a_bird|500. Within my Garden, rides a Bird (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0505_i_would_not_paint_a_picture|505. I would not paint — a picture — (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0526_to_hear_an_oriole_sing|526. To hear an Oriole sing (Dickinson)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#0562_conjecturing_a_climate|562. Conjecturing a Climate (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0569_i_reckon_when_i_count_it_all|569. I reckon — when I count it all — (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0581_i_found_the_words_to_every_thought|581. I found the words to every thought (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0582_inconceivably_solemn|582. Inconceivably solemn! (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0585_i_like_to_see_it_lap_the_miles|585. I like to see it lap the Miles — (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0593_i_think_i_was_enchanted|593. I think I was enchanted (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0595_like_mighty_foot_lights_burned_the_red|595. Like Mighty Foot Lights — burned the Red (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0602_of_brussels_it_was_not|602. Of Brussels — it was not — (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0604_unto_my_books_so_good_to_turn|604. Unto my Books — so good to turn — (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0605_the_spider_holds_a_silver_ball|605. The Spider holds a Silver Ball (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0606_the_trees_like_tassels_hit_and_swung|606. The Trees like Tassels — hit — and swung — (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0613_they_shut_me_up_in_prose|613. They shut me up in Prose — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0628_they_called_me_to_the_window_for|628. They called me to the Window, for (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0632_the_brain_is_wider_than_the_sky|632. The Brain — is wider than the Sky — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0646_i_think_to_live_may_be_a_bliss|646. I think to Live — may be a Bliss (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0657_i_dwell_in_possibility|657. I dwell in Possibility — (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0711_strong_draughts_of_their_refreshing_minds|711. Strong Draughts of Their Refreshing Minds (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0733_the_spirit_is_the_conscious_ear|733. The Spirit is the Conscious Ear. (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0736_have_any_like_myself|736. Have any like Myself (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0737_the_moon_was_but_a_chin_of_gold|737. The Moon was but a Chin of Gold (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0741_dramas_vitallest_expression_is_the_common_day|741. Drama's Vitallest Expression is the Common Day (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0855_to_own_the_art_within_the_soul|855. To own the Art within the Soul (Dickinson)]]
-- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#013_la_figlia_che_piange|La Figlia Che Piange (Eliot)]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#077_a_draught_of_sunshine|A Draught of Sunshine (Keats)]]
-- [[testi/keats/atomized/friendship-tears#097_acrostic|Acrostic (Keats)]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#094_epistle_to_john_hamilton_reynolds|Epistle to John Hamilton Reynolds (Keats)]]
-- [[testi/keats/atomized/seasons-winter-autumn#035_fancy|FANCY (Keats)]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#000_i_stood_tip-toe_upon_a_little_hill|I STOOD TIP-TOE UPON A LITTLE HILL (Keats)]]
+- 1071. Perception of an object costs (Dickinson)
+- 1126. Shall I take thee, the Poet said (Dickinson)
+- 1198. A soft Sea washed around the House (Dickinson)
+- 1223. Who goes to dine must take his Feast (Dickinson)
+- 1247. To pile like Thunder to its close (Dickinson)
+- 1263. There is no Frigate like a Book (Dickinson)
+- 1302. I think that the Root of the Wind is Water — (Dickinson)
+- 1392. Hope is a strange invention — (Dickinson)
+- 1446. His Mind like Fabrics of the East (Dickinson)
+- 1452. Your thoughts don't have words every day (Dickinson)
+- 1481. The way Hope builds his House (Dickinson)
+- 152. The Sun kept stooping — stooping — low! (Dickinson)
+- 1585. The Bird her punctual music brings (Dickinson)
+- 1634. Talk not to me of Summer Trees (Dickinson)
+- 188. Make me a picture of the sun — (Dickinson)
+- 204. A slash of Blue — (Dickinson)
+- 219. She sweeps with many-colored Brooms — (Dickinson)
+- 298. Alone, I cannot be — (Dickinson)
+- 307. The One who could repeat the Summer day — (Dickinson)
+- 308. I send Two Sunsets — (Dickinson)
+- 326. I cannot dance upon my Toes — (Dickinson)
+- 327. Before I got my eye put out (Dickinson)
+- 352. Perhaps I asked too large — (Dickinson)
+- 370. Heaven is so far of the Mind (Dickinson)
+- 374. I went to Heaven — (Dickinson)
+- 383. Exhilaration — is within — (Dickinson)
+- 416. A Murmur in the Trees — to note — (Dickinson)
+- 421. A Charm invests a face (Dickinson)
+- 436. The Wind — tapped like a tired Man — (Dickinson)
+- 439. Undue Significance a starving man attaches (Dickinson)
+- 448. This was a Poet — It is That (Dickinson)
+- 500. Within my Garden, rides a Bird (Dickinson)
+- 505. I would not paint — a picture — (Dickinson)
+- 526. To hear an Oriole sing (Dickinson)
+- 562. Conjecturing a Climate (Dickinson)
+- 569. I reckon — when I count it all — (Dickinson)
+- 581. I found the words to every thought (Dickinson)
+- 582. Inconceivably solemn! (Dickinson)
+- 585. I like to see it lap the Miles — (Dickinson)
+- 593. I think I was enchanted (Dickinson)
+- 595. Like Mighty Foot Lights — burned the Red (Dickinson)
+- 602. Of Brussels — it was not — (Dickinson)
+- 604. Unto my Books — so good to turn — (Dickinson)
+- 605. The Spider holds a Silver Ball (Dickinson)
+- 606. The Trees like Tassels — hit — and swung — (Dickinson)
+- 613. They shut me up in Prose — (Dickinson)
+- 628. They called me to the Window, for (Dickinson)
+- 632. The Brain — is wider than the Sky — (Dickinson)
+- 646. I think to Live — may be a Bliss (Dickinson)
+- 657. I dwell in Possibility — (Dickinson)
+- 711. Strong Draughts of Their Refreshing Minds (Dickinson)
+- 733. The Spirit is the Conscious Ear. (Dickinson)
+- 736. Have any like Myself (Dickinson)
+- 737. The Moon was but a Chin of Gold (Dickinson)
+- 741. Drama's Vitallest Expression is the Common Day (Dickinson)
+- 855. To own the Art within the Soul (Dickinson)
+- [[works/la-figlia-che-piange-(eliot)|La Figlia Che Piange (Eliot)]]
+- [[works/a-draught-of-sunshine-(keats)|A Draught of Sunshine (Keats)]]
+- [[works/acrostic-(keats)|Acrostic (Keats)]]
+- [[works/epistle-to-john-hamilton-reynolds-(keats)|Epistle to John Hamilton Reynolds (Keats)]]
+- [[works/fancy-(keats)|FANCY (Keats)]]
+- [[works/i-stood-tip-toe-upon-a-little-hill-(keats)|I STOOD TIP-TOE UPON A LITTLE HILL (Keats)]]
 - [[works/lamia-(keats)|Lamia (Keats)]]
-- [[testi/keats/atomized/sea-water#032_ode_to_a_nightingale|ODE TO A NIGHTINGALE (Keats)]]
-- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#034_ode_to_psyche|ODE TO PSYCHE (Keats)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#023_on_leaving_some_friends_at_an_early_hour|ON LEAVING SOME FRIENDS AT AN EARLY HOUR (Keats)]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#004_on_receiving_a_curious_shell_and_a_copy_of_verses_from_the_same_ladies|ON RECEIVING A CURIOUS SHELL, AND A COPY OF VERSES, FROM THE SAME LADIES (Keats)]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#029_sleep_and_poetry|SLEEP AND POETRY (Keats)]]
-- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#066_sonnet_on_leigh_hunts_poem_the_story_of_rimini|Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’ (Keats)]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#074_sonnet_on_sitting_down_to_read_king_lear_once_again|Sonnet on Sitting Down to Read King Lear Once Again (Keats)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#129_sonnet_on_the_sonnet|Sonnet on the Sonnet (Keats)]]
-- [[testi/keats/atomized/sea-water#047_sonnet_to_spenser|Sonnet to Spenser (Keats)]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#078_sonnet_to_the_nile|Sonnet to the Nile (Keats)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#080_sonnet_written_in_answer_to_a_sonnet_ending_thus|Sonnet Written in Answer to a Sonnet Ending thus (Keats)]]
-- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#055_sonnet_oh_how_i_love_on_a_fair_summers_eve|Sonnet Oh! how I love, on a fair summer’s eve (Keats)]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#059_sonnet_this_pleasant_tale_is_like_a_little_copse|Sonnet This pleasant tale is like a little copse (Keats)]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#070_the_castle_builder_-_fragments_of_a_dialogue|The Castle Builder - Fragments of a Dialogue (Keats)]]
+- [[works/ode-to-a-nightingale-(keats)|ODE TO A NIGHTINGALE (Keats)]]
+- [[works/ode-to-psyche-(keats)|ODE TO PSYCHE (Keats)]]
+- [[works/on-leaving-some-friends-at-an-early-hour-(keats)|ON LEAVING SOME FRIENDS AT AN EARLY HOUR (Keats)]]
+- [[works/on-receiving-a-curious-shell,-and-a-copy-of-verses,-from-the-same-ladies-(keats)|ON RECEIVING A CURIOUS SHELL, AND A COPY OF VERSES, FROM THE SAME LADIES (Keats)]]
+- [[works/sleep-and-poetry-(keats)|SLEEP AND POETRY (Keats)]]
+- [[works/sonnet-on-leigh-hunt’s-poem-‘the-story-of-rimini’-(keats)|Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’ (Keats)]]
+- [[works/sonnet-on-sitting-down-to-read-king-lear-once-again-(keats)|Sonnet on Sitting Down to Read King Lear Once Again (Keats)]]
+- [[works/sonnet-on-the-sonnet-(keats)|Sonnet on the Sonnet (Keats)]]
+- [[works/sonnet-to-spenser-(keats)|Sonnet to Spenser (Keats)]]
+- [[works/sonnet-to-the-nile-(keats)|Sonnet to the Nile (Keats)]]
+- [[works/sonnet-written-in-answer-to-a-sonnet-ending-thus-(keats)|Sonnet Written in Answer to a Sonnet Ending thus (Keats)]]
+- [[works/sonnet-oh!-how-i-love,-on-a-fair-summer’s-eve-(keats)|Sonnet Oh! how I love, on a fair summer’s eve (Keats)]]
+- [[works/sonnet-this-pleasant-tale-is-like-a-little-copse-(keats)|Sonnet This pleasant tale is like a little copse (Keats)]]
+- [[works/the-castle-builder---fragments-of-a-dialogue-(keats)|The Castle Builder - Fragments of a Dialogue (Keats)]]
 - [[works/the-fall-of-hyperion-(keats)|The Fall of Hyperion (Keats)]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#068_the_poet_-_a_fragment|The Poet - A Fragment (Keats)]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#010_to_my_brother_george|TO MY BROTHER GEORGE (Keats)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#014_written_on_the_day_that_mr_leigh_hunt_left_prison|WRITTEN ON THE DAY THAT MR. LEIGH HUNT LEFT PRISON (Keats)]]
+- [[works/the-poet---a-fragment-(keats)|The Poet - A Fragment (Keats)]]
+- [[works/to-my-brother-george-(keats)|TO MY BROTHER GEORGE (Keats)]]
+- [[works/written-on-the-day-that-mr.-leigh-hunt-left-prison-(keats)|WRITTEN ON THE DAY THAT MR. LEIGH HUNT LEFT PRISON (Keats)]]
 - [[works/a-valentine-(poe)|A Valentine (Poe)]]
 - [[works/al-aaraaf-(poe)|Al Aaraaf (Poe)]]
 - [[works/alone-(poe)|Alone (Poe)]]
@@ -182,11 +182,11 @@ tags:
 - [[works/the-landscape-garden-(poe)|The Landscape Garden (Poe)]]
 - [[works/the-murders-in-the-rue-morgue-(poe)|The Murders in the Rue Morgue (Poe)]]
 - [[works/a-midsummer-night’s-dream-(shakespeare)|A MIDSUMMER NIGHT’S DREAM (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_024|Sonnet 24 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_038|Sonnet 38 (Shakespeare)]]
+- Sonnet 24 (Shakespeare)
+- Sonnet 38 (Shakespeare)
 - [[works/the-tempest-(shakespeare)|THE TEMPEST (Shakespeare)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#300_a_font_of_type|A Font of Type (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#227_my_picture_gallery|My Picture-Gallery (Whitman)]]
+- [[works/a-font-of-type-(whitman)|A Font of Type (Whitman)]]
+- [[works/my-picture-gallery-(whitman)|My Picture-Gallery (Whitman)]]
 - [[works/the-critic-as-artist-(wilde)|The Critic as Artist (Wilde)]]
 - [[works/the-decay-of-lying-(wilde)|The Decay of Lying (Wilde)]]
 - [[works/the-truth-of-masks-(wilde)|The Truth of Masks (Wilde)]]

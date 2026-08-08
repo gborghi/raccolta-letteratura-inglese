@@ -475,7 +475,7 @@ Toyed coolly with the final inch
 Of your delirious Hem —  
 And you dropt, lost,  
 When something broke —  
-And let you from a Dream —  
+And let you from [[A Dream|a Dream]] —  
 
 As if a Goblin with a Gauge —  
 Kept measuring the Hours —  
@@ -851,7 +851,7 @@ And fetch Her Thee — be mine —
 The [[motifs/sun|Sun]] kept setting — setting — still  
 No Hue of Afternoon —  
 Upon the Village I perceived  
-From House to House 'twas [[motifs/noon|Noon]] —  
+From [[house|House]] to [[house|House]] 'twas [[motifs/noon|Noon]] —  
 
 The Dusk kept dropping — dropping — still  
 No [[motifs/dew|Dew]] upon the Grass —  
@@ -1095,7 +1095,7 @@ From presenting — Here —
 <span class="atom-split" data-atom="0892_who_occupies_this_house" data-title="892. Who occupies this House?" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/ghosts,concept/mortality,concept/immortality,form/lyric,setting/new_england,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
 
 
-Who occupies this House?  
+Who occupies this [[house|House]]?  
 A Stranger I must judge  
 Since No one know His Circumstance —  
 'Tis [[motifs/well|well]] the name and age  
@@ -1132,7 +1132,7 @@ A Capital has grown
 Distinguished for the gravity  
 Of every Citizen.  
 
-The Owner of this House  
+The Owner of this [[house|House]]  
 A Stranger He must be —  
 [[concepts/eternity|Eternity]]'s Acquaintances  
 Are mostly so — to me.
@@ -1192,7 +1192,7 @@ I might have aided — thee —
 <span class="atom-split" data-atom="0911_too_little_way_the_house_must_lie" data-title="911. Too little way the House must lie" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,concept/mortality,concept/self_and_soul,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
 
 
-Too little way the House must lie  
+Too little way the [[house|House]] must lie  
 From every Human Heart  
 That holds in undisputed Lease  
 A white inhabitant —  
@@ -1482,7 +1482,7 @@ Is but a month from here —
 Put up my Heart thy Hoary work  
 And take a Rosy Chair.  
 
-Not any House the [[motifs/flowers|Flowers]] keep —  
+Not any [[house|House]] the [[motifs/flowers|Flowers]] keep —  
 The [[motifs/birds|Birds]] enamor Care —  
 Our salary the longest Day  
 Is nothing but a Bier.
@@ -1678,7 +1678,7 @@ If they this moment had.
 
 
 The [[motifs/grave|grave]] my little cottage is,  
-Where "Keeping house" for thee  
+Where "Keeping [[house]]" for thee  
 I make my parlor orderly  
 And lay the marble tea.  
 
@@ -1700,7 +1700,7 @@ That sparkled to the [[motifs/grave|Grave]].
 
 On her departing span  
 No wilderness remain  
-As dauntless in the House of [[motifs/death|Death]]  
+As dauntless in the [[house|House]] of [[motifs/death|Death]]  
 As if it were her own —
 
 

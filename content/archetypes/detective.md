@@ -34,7 +34,7 @@ tags:
 - [[works/thursday-(chesterton)|thursday (Chesterton)]]
 - [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#089_macavity_the_mystery_cat|Macavity the Mystery Cat (Eliot)]]
+- [[works/macavity-the-mystery-cat-(eliot)|Macavity the Mystery Cat (Eliot)]]
 - [[works/maelzel's-chess-player-(poe)|Maelzel's Chess-Player (Poe)]]
 - [[works/the-murders-in-the-rue-morgue-(poe)|The Murders in the Rue Morgue (Poe)]]
 - [[works/the-mystery-of-marie-roget-(poe)|The Mystery of Marie Roget (Poe)]]

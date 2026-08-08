@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-ALLITTERATIVISMO (1914)  
+[[alliterativism|ALLITTERATIVISMO]] (1914)  
 
 (L'ULTIMA SCUOLA)  
 
@@ -51,7 +51,7 @@ che stai violando la neutralità belga.
 <span class="atom-split" data-atom="part--part_01" data-title="alliterativism (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/bees,histref/bible"></span>
 
 
-ALLITERATIVISM (1914)  
+[[alliterativism|ALLITERATIVISM]] (1914)  
 
 (THE LATEST SCHOOL)  
 
@@ -83,7 +83,7 @@ You are violating Belgian neutrality.
 
 <span class="qlang-split" data-lang="it"></span>
 
-ALLITTERATIVISMO (1914)  
+[[alliterativism|ALLITTERATIVISMO]] (1914)  
 
 (L'ULTIMA SCUOLA)  
 

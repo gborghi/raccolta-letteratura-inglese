@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/heroism-hero-last-stand" data-author="Whitman" data-workhref="works/heroism-·-hero-·-last-stand-(whitman)"></div>
 
 
-<span class="atom-split" data-atom="150_the_centenarian_s_story" data-title="The Centenarian’s Story" data-chapter="" data-kind="intro" data-tags="topos/the_last_stand,motif/blood,motif/the_grave,concept/war_and_its_cost,concept/heroism,concept/memory,concept/grief_and_loss,form/narrative_poem,setting/the_battlefield,cluster/heroism,cluster/hero,cluster/last_stand"></span>
+<span class="atom-split" data-atom="150_the_centenarian_s_story" data-title="The Centenarian’s Story" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -71,7 +71,7 @@ Here we lay encamp’d, it was this [[motifs/time|time]] in [[motifs/summer|summ
 As I talk I remember all, I remember the Declaration,  
 It was read here, the whole army paraded, it was read to us here,  
 By his staff surrounded the General stood in the middle, he held up  
-his unsheath’d sword,  
+his unsheath’d [[Sword|sword]],  
 It glitter’d in the sun in full sight of the army.  
 
 ’Twas a bold act then--the English war-ships had just arrived,  
@@ -187,7 +187,7 @@ Stands forever the camp of that dead brigade.
 
 
 
-<span class="atom-split" data-atom="158_a_sight_in_camp_in_the_daybreak_gray_and_dim" data-title="A Sight in Camp in the Daybreak Gray and Dim" data-chapter="" data-kind="intro" data-tags="archetype/christ_figure,motif/death,motif/dawn,concept/martyrdom,concept/love_divine,histref/christianity,setting/the_military_camp,character/christ,cluster/heroism,cluster/hero,cluster/last_stand"></span>
+<span class="atom-split" data-atom="158_a_sight_in_camp_in_the_daybreak_gray_and_dim" data-title="A Sight in Camp in the Daybreak Gray and Dim" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -221,7 +221,7 @@ Dead and divine and brother of all, and here again he lies.
 
 
 
-<span class="atom-split" data-atom="167_i_saw_old_general_at_bay" data-title="I Saw Old General at Bay" data-chapter="" data-kind="intro" data-tags="topos/the_last_stand,archetype/hero,motif/stars,concept/heroism,concept/war_and_its_cost,concept/honour,cluster/heroism,cluster/hero,cluster/last_stand"></span>
+<span class="atom-split" data-atom="167_i_saw_old_general_at_bay" data-title="I Saw Old General at Bay" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -244,7 +244,7 @@ I saw them depart with cheerfulness, freely risking their lives.
 
 
 
-<span class="atom-split" data-atom="205_to_him_that_was_crucified" data-title="To Him That Was Crucified" data-chapter="" data-kind="intro" data-tags="archetype/christ_figure,motif/the_cross,concept/comradeship,concept/faith,histref/christianity,histref/the_bible,character/christ,cluster/heroism,cluster/hero,cluster/last_stand"></span>
+<span class="atom-split" data-atom="205_to_him_that_was_crucified" data-title="To Him That Was Crucified" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -267,7 +267,7 @@ They close peremptorily upon us to surround us, my comrade,
 Yet we walk unheld, free, the whole earth over, journeying up and
 down till we make our ineffaceable mark upon [[motifs/time|time]] and the diverse eras,
 Till we saturate [[motifs/time|time]] and eras, that the men and women of races,
-ages to come, may prove brethren and lovers as we are.
+ages to come, may prove brethren and [[lovers]] as we are.
 
 
 
@@ -276,7 +276,7 @@ ages to come, may prove brethren and lovers as we are.
 
 
 
-<span class="atom-split" data-atom="221_o_star_of_france_1870_71" data-title="O Star of France [1870-71]" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/stars,motif/the_cross,concept/nationalism_and_patriotism,concept/martyrdom,concept/war_and_its_cost,histref/the_french_revolution,setting/a_ship,cluster/heroism,cluster/hero,cluster/last_stand"></span>
+<span class="atom-split" data-atom="221_o_star_of_france_1870_71" data-title="O Star of France [1870-71]" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_  
@@ -290,7 +290,7 @@ And ’mid its teeming madden’d half-drown’d crowds,
 Nor helm nor helmsman.  
 
 Dim smitten star,  
-Orb not of France alone, pale symbol of my [[motifs/soul|soul]], its dearest hopes,  
+Orb not of France [[Alone|alone]], pale symbol of my [[motifs/soul|soul]], its dearest hopes,  
 The struggle and the daring, rage divine for liberty,  
 Of aspirations toward the far ideal, enthusiast’s [[motifs/dreams|dreams]] of brotherhood,  
 Of terror to the [[archetypes/tyrant|tyrant]] and the priest.  
@@ -306,7 +306,7 @@ And left thee sacred.
 In that amid thy many faults thou ever aimedst highly,  
 In that thou wouldst not really sell thyself however great the price,  
 In that thou surely wakedst weeping from thy drugg’d [[motifs/sleep|sleep]],  
-In that alone among thy sisters thou, giantess, didst rend the ones  
+In that [[Alone|alone]] among thy sisters thou, giantess, didst rend the ones  
 that shamed thee,  
 In that thou couldst not, wouldst not, wear the usual [[motifs/chains|chains]],  
 This [[motifs/cross|cross]], thy livid face, thy pierced hands and feet,  
@@ -338,7 +338,7 @@ Shall beam immortal.
 
 
 
-<span class="atom-split" data-atom="270_from_far_dakota_s_canyons_june_25_1876" data-title="From Far Dakota’s Canyons  [June 25, 1876]" data-chapter="" data-kind="intro" data-tags="topos/the_last_stand,topos/war_as_glory,motif/death,motif/swords_weapons,concept/heroism,histref/american_west,cluster/heroism,cluster/hero,cluster/last_stand"></span>
+<span class="atom-split" data-atom="270_from_far_dakota_s_canyons_june_25_1876" data-title="From Far Dakota’s Canyons  [June 25, 1876]" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_
@@ -371,7 +371,7 @@ Breaks forth a [[motifs/lightning|lightning]] flash.
 
 Thou of the tawny flowing hair in battle,
 I erewhile saw, with erect head, pressing ever in front, bearing a
-bright sword in thy hand,
+bright [[Sword|sword]] in thy hand,
 Now ending [[motifs/well|well]] in [[motifs/death|death]] the splendid fever of thy deeds,
 (I bring no [[forms/dirge|dirge]] for it or thee, I bring a glad triumphal [[forms/sonnet|sonnet]],)
 Desperate and glorious, aye in defeat most desperate, most glorious,
@@ -386,7 +386,7 @@ Thou yieldest up thyself.
 
 
 
-<span class="atom-split" data-atom="308_to_day_and_thee" data-title="To-Day and Thee" data-chapter="" data-kind="intro" data-tags="archetype/hero,motif/time,motif/the_book,concept/memory_and_time,concept/immortality_of_art,form/free_verse,histref/classical_antiquity,histref/ancient_greece,cluster/heroism,cluster/hero,cluster/last_stand"></span>
+<span class="atom-split" data-atom="308_to_day_and_thee" data-title="To-Day and Thee" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -395,7 +395,7 @@ _Cluster: SANDS AT SEVENTY_
 The appointed winners in a long-stretch’d game;  
 The course of [[motifs/time|Time]] and nations--[[settings/egypt|Egypt]], India, Greece and Rome;  
 The past entire, with all its heroes, histories, arts, experiments,  
-Its store of songs, inventions, voyages, teachers, books,  
+Its store of [[songs]], inventions, voyages, teachers, books,  
 Garner’d for now and thee--To think of it!  
 The heirdom all converged in thee!  
 
@@ -422,7 +422,7 @@ To [[motifs/memory|memory]] of Him--to birth of Him.
 
 
 
-<span class="atom-split" data-atom="316_death_of_general_grant" data-title="Death of General Grant" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,archetype/hero,motif/the_grave,concept/heroism,concept/war_and_its_cost,concept/grief_and_loss,form/elegy,histref/american_civil_war,cluster/heroism,cluster/hero,cluster/last_stand"></span>
+<span class="atom-split" data-atom="316_death_of_general_grant" data-title="Death of General Grant" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -445,7 +445,7 @@ To admiration has it been enacted!
 
 
 
-<span class="atom-split" data-atom="318_washington_s_monument_february_1885" data-title="Washington’s Monument February, 1885" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,archetype/hero,motif/ruins,concept/nationalism_and_patriotism,concept/heroism,concept/faith,concept/immortality,form/ode,cluster/heroism,cluster/hero,cluster/last_stand"></span>
+<span class="atom-split" data-atom="318_washington_s_monument_february_1885" data-title="Washington’s Monument February, 1885" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -455,7 +455,7 @@ Ah, not this marble, dead and cold:
 Far from its base and shaft expanding--the round zones circling,  
 comprehending,  
 Thou, Washington, art all the world’s, the continents’ entire--not  
-yours alone, [[settings/america|America]],  
+yours [[Alone|alone]], [[settings/america|America]],  
 Europe’s as [[motifs/well|well]], in every part, [[settings/castle|castle]] of lord or laborer’s cot,  
 Or frozen North, or sultry South--the African’s--the Arab’s in his tent,  
 Old Asia’s there with venerable smile, seated amid her ruins;  
@@ -464,7 +464,7 @@ legitimate, continued ever,
 The indomitable heart and arm--proofs of the never-broken line,  
 [[concepts/courage|Courage]], alertness, patience, [[concepts/faith|faith]], the same--e’en in defeat  
 defeated not, the same:)  
-Wherever sails a [[motifs/ship|ship]], or house is built on land, or day or [[motifs/night|night]],  
+Wherever sails a [[motifs/ship|ship]], or [[house]] is built on land, or day or [[motifs/night|night]],  
 Through teeming cities’ streets, indoors or out, factories or farms,  
 Now, or to come, or past--where patriot wills existed or exist,  
 Wherever [[concepts/freedom|Freedom]], pois’d by Toleration, sway’d by Law,  
@@ -477,7 +477,7 @@ Stands or is rising thy true monument.
 
 
 
-<span class="atom-split" data-atom="345_as_the_greek_s_signal_flame" data-title="As the Greek’s Signal Flame" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,archetype/hero,motif/fire,concept/heroism,concept/the_artist_and_society,form/lyric,histref/ancient_greece,histref/classical_antiquity,cluster/heroism,cluster/hero,cluster/last_stand"></span>
+<span class="atom-split" data-atom="345_as_the_greek_s_signal_flame" data-title="As the Greek’s Signal Flame" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -497,7 +497,7 @@ Lift high a kindled brand for thee, Old Poet.
 
 
 
-<span class="atom-split" data-atom="371_osceola" data-title="Osceola" data-chapter="" data-kind="intro" data-tags="topos/the_last_stand,motif/death,motif/swords_weapons,motif/the_mirror,concept/mortality,concept/heroism,form/narrative_poem,histref/american_west,cluster/heroism,cluster/hero,cluster/last_stand"></span>
+<span class="atom-split" data-atom="371_osceola" data-title="Osceola" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  

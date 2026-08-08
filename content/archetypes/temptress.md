@@ -16,7 +16,7 @@ tags:
 
 - [[works/lady-susan-(austen)|Lady Susan (Austen)]]
 - [[works/christabel-(coleridge)|CHRISTABEL (Coleridge)]]
-- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#108_circes_palace|Circe’s Palace (Eliot)]]
+- [[works/circe’s-palace-(eliot)|Circe’s Palace (Eliot)]]
 - [[works/lamia-(keats)|Lamia (Keats)]]
 - [[works/a-lover’s-complaint-(shakespeare)|A Lover’s Complaint (Shakespeare)]]
 - [[works/antony-and-cleopatra-(shakespeare)|ANTONY AND CLEOPATRA (Shakespeare)]]

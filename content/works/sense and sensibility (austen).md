@@ -67,13 +67,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/lover|Lover]]
+**Archetypes:** Lover
 **Motifs:** [[motifs/marriage|Marriage]], [[motifs/money-and-gold|Money and Gold]], [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/satire-of-society|Satire of Society]], [[concepts/deception|Deception]], [[concepts/class-conflict|Class Conflict]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/satire|Satire]]
 **Historical References:** [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** [[characters/elinor-dashwood|Elinor Dashwood]], [[characters/marianne-dashwood|Marianne Dashwood]], [[characters/edward-ferrars|Edward Ferrars]], [[characters/john-willoughby|John Willoughby]], [[characters/colonel-brandon|Colonel Brandon]], [[characters/lucy-steele|Lucy Steele]]
+**Characters:** Elinor Dashwood, Marianne Dashwood, Edward Ferrars, John Willoughby, Colonel Brandon, Lucy Steele
 
 ## Testo integrale / Full text
 

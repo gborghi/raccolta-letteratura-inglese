@@ -68,17 +68,17 @@ The sound of the belch’d words of my voice loos’d to the eddies of
 the [[motifs/wind|wind]],  
 A few light kisses, a few embraces, a reaching around of arms,  
 The play of shine and shade on the trees as the supple boughs wag,  
-The delight alone or in the rush of the streets, or along the fields  
+The delight [[Alone|alone]] or in the rush of the streets, or along the fields  
 and [[motifs/hill|hill]]-sides,  
-The feeling of health, the full-[[motifs/noon|noon]] trill, the song of me rising  
+The feeling of health, the full-[[motifs/noon|noon]] trill, the [[Song|song]] of me rising  
 from bed and meeting the sun.  
 
 Have you reckon’d a thousand acres much? have you reckon’d the earth much?  
 Have you practis’d so long to learn to read?  
-Have you felt so proud to get at the meaning of poems?  
+Have you felt so proud to get at the meaning of [[Poems|poems]]?  
 
 Stop this day and [[motifs/night|night]] with me and you shall possess the origin of  
-all poems,  
+all [[Poems|poems]],  
 You shall possess the good of the earth and sun, (there are millions  
 of suns left,)  
 You shall no longer take things at second or third hand, nor look through  
@@ -131,7 +131,7 @@ less familiar than the rest.
 I am satisfied--I see, [[motifs/dance|dance]], laugh, sing;  
 As the hugging and loving bed-fellow sleeps at my side through the [[motifs/night|night]],  
 and withdraws at the peep of the day with stealthy tread,  
-Leaving me baskets cover’d with white towels swelling the house with  
+Leaving me baskets cover’d with white towels swelling the [[house]] with  
 their plenty,  
 Shall I postpone my acceptation and realization and scream at my eyes,  
 That they turn from gazing after and down the [[motifs/road|road]],  
@@ -194,7 +194,7 @@ all the argument of the earth,
 And I know that the hand of God is the promise of my own,  
 And I know that the spirit of God is the brother of my own,  
 And that all the men ever born are also my brothers, and the women  
-my sisters and lovers,  
+my sisters and [[lovers]],  
 And that a kelson of the creation is [[motifs/love|love]],  
 And limitless are [[motifs/leaves|leaves]] stiff or drooping in the fields,  
 And brown ants in the little wells beneath them,  
@@ -376,7 +376,7 @@ beard and curls protected his neck, he held his bride by the hand,
 She had long eyelashes, her head was bare, her coarse straight locks  
 descended upon her voluptuous limbs and reach’d to her feet.  
 
-The runaway slave came to my house and stopt outside,  
+The runaway slave came to my [[house]] and stopt outside,  
 I heard his motions crackling the twigs of the woodpile,  
 Through the swung half-door of the kitchen I saw him limpsy and weak,  
 And went where he sat on a log and led him in and assured him,  
@@ -399,7 +399,7 @@ Twenty-eight young men bathe by the shore,
 Twenty-eight young men and all so friendly;  
 Twenty-eight years of womanly life and all so lonesome.  
 
-She owns the fine house by the rise of the bank,  
+She owns the fine [[house]] by the rise of the bank,  
 She hides handsome and richly drest aft the blinds of the [[motifs/window|window]].  
 
 Which of the young men does she like the best?  
@@ -466,7 +466,7 @@ I go with the team also.
 In me the caresser of life wherever moving, backward as [[motifs/well|well]] as  
 forward sluing,  
 To niches aside and junior bending, not a person or object missing,  
-Absorbing all to myself and for this song.  
+Absorbing all to myself and for this [[Song|song]].  
 
 Oxen that rattle the yoke and chain or halt in the leafy shade, what  
 is that you express in your eyes?  
@@ -495,7 +495,7 @@ Ya-honk he says, and sounds it down to me like an invitation,
 The pert may suppose it meaningless, but I listening close,  
 Find its purpose and place up there toward the wintry sky.  
 
-The sharp-hoof’d moose of the north, the cat on the house-sill, the  
+The sharp-hoof’d moose of the north, the cat on the [[house]]-sill, the  
 chickadee, the prairie-dog,  
 The litter of the grunting sow as they tug at her teats,  
 The brood of the turkey-hen and she with her half-spread wings,  
@@ -577,7 +577,7 @@ with blue and gold,
 The canal boy trots on the tow-path, the book-keeper counts at his  
 desk, the shoemaker waxes his thread,  
 The conductor beats [[motifs/time|time]] for the band and all the performers follow him,  
-The [[archetypes/child|child]] is baptized, the convert is making his first professions,  
+The [[archetypes/child|child]] is baptized, the [[convert]] is making his first professions,  
 The regatta is spread on the bay, the race is begun, (how the white  
 sails sparkle!)  
 The drover watching his drove sings out to them that would stray,  
@@ -622,7 +622,7 @@ The living [[motifs/sleep|sleep]] for their [[motifs/time|time]], the dead [[mot
 The old husband sleeps by his wife and the young husband sleeps by his wife;  
 And these tend inward to me, and I tend outward to them,  
 And such as it is to be of these more or less I am,  
-And of these one and all I weave the song of myself.  
+And of these one and all I weave the [[Song|song]] of myself.  
 
 
 
@@ -783,7 +783,7 @@ stick at [[motifs/night|night]].
 I know I am august,  
 I do not trouble my spirit to vindicate itself or be understood,  
 I see that the elementary laws never apologize,  
-(I reckon I behave no prouder than the level I plant my house by,  
+(I reckon I behave no prouder than the level I plant my [[house]] by,  
 after all.)  
 
 I exist as I am, that is enough,  
@@ -869,7 +869,7 @@ Partaker of influx and efflux I, extoller of hate and conciliation,
 Extoller of amies and those that [[motifs/sleep|sleep]] in each others’ arms.  
 
 I am he attesting sympathy,  
-(Shall I make my list of things in the house and skip the house that  
+(Shall I make my list of things in the [[house]] and skip the [[house]] that  
 supports them?)  
 
 I am not the poet of goodness only, I do not decline to be the poet  
@@ -906,8 +906,8 @@ And mine a word of the modern, the word En-Masse.
 A word of the [[concepts/faith|faith]] that never balks,  
 Here or henceforward it is all the same to me, I accept [[motifs/time|Time]] absolutely.  
 
-It alone is without flaw, it alone rounds and completes all,  
-That mystic baffling [[concepts/wonder|wonder]] alone completes all.  
+It [[Alone|alone]] is without flaw, it [[Alone|alone]] rounds and completes all,  
+That mystic baffling [[concepts/wonder|wonder]] [[Alone|alone]] completes all.  
 
 I accept Reality and dare not question it,  
 Materialism first and last imbuing.  
@@ -964,7 +964,7 @@ And of the threads that connect the [[motifs/stars|stars]], and of wombs and of 
 father-stuff,  
 And of the rights of them the others are down upon,  
 Of the deform’d, trivial, flat, foolish, despised,  
-Fog in the air, beetles rolling balls of dung.  
+Fog in the air, beetles [[rolling]] balls of dung.  
 
 Through me forbidden voices,  
 Voices of sexes and lusts, voices veil’d and I remove the veil,  
@@ -1066,7 +1066,7 @@ I crowd your sleekest and best by simply looking toward you.
 
 Writing and talk do not prove me,  
 I carry the plenum of proof and every thing else in my face,  
-With the hush of my lips I wholly confound the skeptic.  
+With the hush of my lips I wholly confound the [[skeptic]].  
 
 
 
@@ -1076,7 +1076,7 @@ With the hush of my lips I wholly confound the skeptic.
 
 26  
 Now I will do nothing but listen,  
-To accrue what I hear into this song, to let sounds contribute toward it.  
+To accrue what I hear into this [[Song|song]], to let sounds contribute toward it.  
 
 I hear bravuras of [[motifs/birds|birds]], bustle of growing wheat, gossip of flames,  
 clack of sticks cooking my meals,  
@@ -1198,14 +1198,14 @@ They do not need the obstetric forceps of the surgeon,
 The insignificant is as big to me as any,  
 (What is less or more than a touch?)  
 
-Logic and sermons never convince,  
+[[logic|Logic]] and sermons never convince,  
 The damp of the [[motifs/night|night]] drives deeper into my [[motifs/soul|soul]].  
 
 (Only what proves itself to every man and woman is so,  
 Only what nobody denies is so.)  
 
 A minute and a drop of me settle my brain,  
-I believe the soggy clods shall become lovers and lamps,  
+I believe the soggy clods shall become [[lovers]] and lamps,  
 And a compend of compends is the meat of a man or woman,  
 And a summit and flower there is the feeling they have for each other,  
 And they are to branch boundlessly out of that lesson until it  
@@ -1299,7 +1299,7 @@ Even as I stand or sit passing faster than you.
 33  
 Space and [[motifs/time|Time]]! now I see it is true, what I guess’d at,  
 What I guess’d when I loaf’d on the grass,  
-What I guess’d while I lay alone in my bed,  
+What I guess’d while I lay [[Alone|alone]] in my bed,  
 And again as I walk’d the beach under the paling [[motifs/stars|stars]] of the morning.  
 
 My ties and ballasts leave me, my elbows rest in sea-gaps,  
@@ -1322,7 +1322,7 @@ Where the black bear is searching for roots or honey, where the
 beaver pats the mud with his paddle-shaped tall;  
 Over the growing sugar, over the yellow-flower’d cotton plant, over  
 the rice in its low moist field,  
-Over the sharp-peak’d farm house, with its scallop’d scum and  
+Over the sharp-peak’d farm [[house]], with its scallop’d scum and  
 slender shoots from the gutters,  
 Over the western persimmon, over the long-leav’d corn, over the  
 delicate blue-flower flax,  
@@ -1339,7 +1339,7 @@ Where the brook puts out of the roots of the old tree and flows to
 the meadow,  
 Where cattle stand and shake away flies with the tremulous  
 shuddering of their hides,  
-Where the cheese-cloth hangs in the kitchen, where andirons straddle  
+Where the [[cheese]]-cloth hangs in the kitchen, where andirons straddle  
 the hearth-slab, where cobwebs fall in festoons from the rafters;  
 Where trip-hammers crash, where the press is whirling its cylinders,  
 Wherever the human heart beats with terrible throes under its ribs,  
@@ -1363,7 +1363,7 @@ bull-dances, drinking, laughter,
 At the cider-mill tasting the sweets of the brown mash, sucking the  
 juice through a straw,  
 At apple-peelings wanting kisses for all the red fruit I find,  
-At musters, beach-parties, friendly [[motifs/bees|bees]], huskings, house-raisings;  
+At musters, beach-parties, friendly [[motifs/bees|bees]], huskings, [[house]]-raisings;  
 Where the mocking-bird sounds his delicious gurgles, cackles,  
 screams, weeps,  
 Where the hay-rick stands in the barn-yard, where the dry-stalks are  
@@ -1496,7 +1496,7 @@ The twinges that sting like needles his legs and neck, the murderous
 buckshot and the bullets,  
 All these I feel or am.  
 
-I am the hounded slave, I wince at the bite of the dogs,  
+I am the hounded slave, I wince at the bite of the [[dogs]],  
 Hell and [[concepts/despair|despair]] are upon me, crack and again crack the marksmen,  
 I clutch the rails of the fence, my gore dribs, thinn’d with the  
 ooze of my skin,  
@@ -1565,7 +1565,7 @@ They treated for an honorable capitulation, receiv’d writing and
 seal, gave up their arms and march’d back prisoners of war.  
 
 They were the glory of the race of rangers,  
-Matchless with [[motifs/horse|horse]], rifle, song, supper, courtship,  
+Matchless with [[motifs/horse|horse]], rifle, [[Song|song]], supper, courtship,  
 Large, turbulent, generous, handsome, proud, and affectionate,  
 Bearded, sunburnt, drest in the free costume of hunters,  
 Not a single one over thirty years of age.  
@@ -1633,7 +1633,7 @@ One is directed by the captain himself against the enemy’s main-mast,
 Two [[motifs/well|well]] serv’d with grape and canister [[motifs/silence|silence]] his musketry and  
 clear his decks.  
 
-The tops alone second the [[motifs/fire|fire]] of this little battery, especially  
+The tops [[Alone|alone]] second the [[motifs/fire|fire]] of this little battery, especially  
 the main-top,  
 They hold out bravely during the whole of the action.  
 
@@ -1809,8 +1809,8 @@ O despairer, here is my neck,
 By God, you shall not go down! hang your whole weight upon me.  
 
 I dilate you with tremendous breath, I buoy you up,  
-Every room of the house do I fill with an arm’d force,  
-Lovers of me, bafflers of graves.  
+Every room of the [[house]] do I fill with an arm’d force,  
+[[lovers|Lovers]] of me, bafflers of graves.  
 
 [[motifs/sleep|Sleep]]--I and they keep guard all [[motifs/night|night]],  
 Not [[concepts/doubt|doubt]], not decease shall dare to lay finger upon you,  
@@ -1845,7 +1845,7 @@ Admitting they were alive and did the work of their days,
 and sing for themselves,)  
 Accepting the rough deific sketches to fill out better in myself,  
 bestowing them freely on each man and woman I see,  
-Discovering as much or more in a framer framing a house,  
+Discovering as much or more in a framer framing a [[house]],  
 Putting higher claims for him there with his roll’d-up sleeves  
 driving the mallet and chisel,  
 Not objecting to special revelations, considering a curl of smoke or  
@@ -1930,7 +1930,7 @@ I know perfectly [[motifs/well|well]] my own egotism,
 Know my omnivorous lines and must not write any less,  
 And would fetch you whoever you are flush with myself.  
 
-Not words of routine this song of mine,  
+Not words of routine this [[Song|song]] of mine,  
 But abruptly to question, to leap beyond yet nearer bring;  
 This printed and bound book--but the printer and the  
 printing-office boy?  
@@ -2004,7 +2004,7 @@ Nor the little [[archetypes/child|child]] that peep’d in at the door, and then
 and was never seen again,  
 Nor the old man who has lived without purpose, and feels it with  
 bitterness worse than gall,  
-Nor him in the poor house tubercled by rum and the bad disorder,  
+Nor him in the poor [[house]] tubercled by rum and the bad disorder,  
 Nor the numberless slaughter’d and wreck’d, nor the brutish koboo  
 call’d the ordure of humanity,  
 Nor the sacs merely floating with open mouths for food to slip in,  
@@ -2083,7 +2083,7 @@ Now on this spot I stand with my robust [[motifs/soul|soul]].
 O span of youth! ever-push’d elasticity!  
 O manhood, balanced, florid and full.  
 
-My lovers suffocate me,  
+My [[lovers]] suffocate me,  
 Crowding my lips, thick in the pores of my skin,  
 Jostling me through streets and public halls, coming naked to me at [[motifs/night|night]],  
 Crying by day, Ahoy! from the rocks of the [[motifs/river|river]], swinging and  
@@ -2141,7 +2141,7 @@ never will be measured.
 I tramp a perpetual [[motifs/journey|journey]], (come listen all!)  
 My signs are a rain-proof coat, good shoes, and a staff cut from the woods,  
 No friend of mine takes his ease in my chair,  
-I have no chair, no church, no philosophy,  
+I have no chair, no church, no [[philosophy]],  
 I lead no man to a dinner-table, library, exchange,  
 But each man and each woman of you I lead upon a knoll,  
 My left hand hooking you round the waist,  
@@ -2203,7 +2203,7 @@ Wicked rather than virtuous out of conformity or [[concepts/fear|fear]],
 Fond of his sweetheart, relishing [[motifs/well|well]] his steak,  
 Unrequited [[motifs/love|love]] or a slight cutting him worse than sharp steel cuts,  
 First-rate to ride, to fight, to hit the bull’s eye, to sail a  
-skiff, to sing a song or play on the banjo,  
+skiff, to sing a [[Song|song]] or play on the banjo,  
 Preferring scars and the beard and faces pitted with small-pox over  
 all latherers,  
 And those [[motifs/well|well]]-tann’d to those that keep out of the sun.  
@@ -2217,7 +2217,7 @@ I wait for a boat,
 (It is you talking just as much as myself, I act as the tongue of you,  
 Tied in your mouth, in mine it begins to be loosen’d.)  
 
-I swear I will never again mention [[motifs/love|love]] or [[motifs/death|death]] inside a house,  
+I swear I will never again mention [[motifs/love|love]] or [[motifs/death|death]] inside a [[house]],  
 And I swear I will never translate myself at all, only to him or her  
 who privately stays with me in the open air.  
 
@@ -2238,7 +2238,7 @@ and [[motifs/love|love]] them.
 The soldier camp’d or upon the march is mine,  
 On the [[motifs/night|night]] ere the pending battle many seek me, and I do not fail them,  
 On that solemn [[motifs/night|night]] (it may be their last) those that know me seek me.  
-My face rubs to the hunter’s face when he lies down alone in his blanket,  
+My face rubs to the hunter’s face when he lies down [[Alone|alone]] in his blanket,  
 The driver thinking of me does not mind the jolt of his wagon,  
 The young mother and old mother comprehend me,  
 The girl and the wife rest the needle a moment and forget where they are,  

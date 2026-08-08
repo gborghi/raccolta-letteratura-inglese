@@ -34,7 +34,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/villain|Villain]]
+**Archetypes:** Lover, (Reputed) Fallen Woman, Villain
 **Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/marriage|Marriage]]
 **Themes & Concepts:** [[concepts/friendship|Friendship]], [[concepts/romantic-love|Romantic Love]], [[concepts/revenge|Revenge]], [[concepts/deception|Deception]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/conversion|Conversion]], [[concepts/grace-and-redemption|Grace and Redemption]]
 **Forms & Genres:** [[forms/tragicomedy|Tragicomedy]]

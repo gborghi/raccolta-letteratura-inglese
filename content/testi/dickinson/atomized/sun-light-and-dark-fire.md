@@ -54,7 +54,7 @@ And gambo! I may never name -
 Employ their holiday.  
 
 Here to light measure, move the feet  
-Which walk no more the village street -  
+Which walk no more [[The Village Street|the village street]] -  
 Nor by the wood are found -  
 Here are the [[motifs/birds|birds]] that sought the [[motifs/sun|sun]]  
 When last year's distaff idle hung  
@@ -585,7 +585,7 @@ Or World —
 
 
 To my small Hearth His [[motifs/fire|fire]] came —  
-And all my House aglow  
+And all my [[house|House]] aglow  
 Did fan and rock, with sudden light —  
 'Twas Sunrise — 'twas the Sky —  
 
@@ -778,7 +778,7 @@ It magnifies Our Freight
 
 
 When I have seen the [[motifs/sun|Sun]] emerge  
-From His amazing House —  
+From His amazing [[house|House]] —  
 And leave a Day at every [[motifs/door|Door]]  
 A Deed, in every place —  
 
@@ -886,7 +886,7 @@ And could not find its Eye.
 
 
 The [[motifs/sun|Sun]] went down — no Man looked on —  
-The Earth and I, alone,  
+The Earth and I, [[Alone|alone]],  
 Were present at the Majesty —  
 He triumphed, and went on —  
 

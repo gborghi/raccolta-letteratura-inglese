@@ -114,9 +114,9 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/rebel|Rebel]]
+**Archetypes:** Tyrant, Rebel
 
-**Characters:** [[characters/robin-hood|Robin Hood]], [[characters/richard-iii|Richard III]], [[characters/julius-caesar|Julius Caesar]], [[characters/elizabeth-bennet|Elizabeth Bennet]], [[characters/fanny-price|Fanny Price]], [[characters/queen-elizabeth|Queen Elizabeth]]
+**Characters:** Robin Hood, Richard III, Julius Caesar, Elizabeth Bennet, Fanny Price, Queen Elizabeth
 
 **Topoi:** [[topoi/vanitas|Vanitas]], [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 **Motifs:** [[motifs/food-and-feasting|Food and Feasting]], [[motifs/journey|Journey]], [[motifs/birds|Birds]], [[motifs/window|Window]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/road|Road]]

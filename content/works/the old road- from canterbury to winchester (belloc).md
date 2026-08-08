@@ -46,6 +46,6 @@ tags:
 **Motifs:** [[motifs/road|Road]], [[motifs/journey|Journey]], [[motifs/fire|Fire]], [[motifs/hill|Hill]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/arthurian-legend|Arthurian Legend]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/medieval-england-(2)|Medieval England (2)]]
-**Characters:** [[characters/king-arthur|King Arthur]]
-**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Characters:** King Arthur
+**Archetypes:** Pilgrim
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/book-of-nature|Book of Nature]]

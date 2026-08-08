@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/imagination-fragment-heroic-couplet" data-author="Coleridge" data-workhref="works/imagination-·-fragment-·-heroic-couplet-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="013_an_invocation" data-title="AN INVOCATION" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,concept/imagination,concept/the_artist_and_society,concept/joy,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="013_an_invocation" data-title="AN INVOCATION" data-chapter="" data-kind="intro"></span>
 
 
 Sweet Muse! companion of my every hour!  
@@ -27,7 +27,7 @@ O’erspread my Features with a flush of Joy!
 
 
 
-<span class="atom-split" data-atom="047_first_draft_an_effusion_at_evening" data-title="FIRST DRAFT: AN EFFUSION AT EVENING" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/nature,motif/storm,motif/river,concept/imagination,concept/love_romantic,concept/hope,concept/the_sublime,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="047_first_draft_an_effusion_at_evening" data-title="FIRST DRAFT: AN EFFUSION AT EVENING" data-chapter="" data-kind="intro"></span>
 
 
 WRITTEN IN AUGUST, 1792  
@@ -92,7 +92,7 @@ No more shall deck thy pensive Pleasures sweet
 With wreaths of sober hue my evening seat!  
 Yet dear to [My] Fancy’s Eye thy varied scene  
 Of Wood, [[motifs/hill|Hill]], Dale and sparkling Brook between:   60  
-Yet sweet to [My] Fancy’s Ear the warbled song,  
+Yet sweet to [My] Fancy’s Ear the warbled [[Song|song]],  
 That soars on Morning’s wing thy fields among!  
 Scenes of my [[concepts/hope|Hope]]! the aching Eye ye leave,  
 Like those rich Hues that paint the clouds of Eve!  
@@ -105,7 +105,7 @@ Till chill and damp the moonless [[motifs/night|Night]] descend!
 
 
 
-<span class="atom-split" data-atom="076_melancholy" data-title="MELANCHOLY" data-chapter="" data-kind="intro" data-tags="motif/ruins,motif/dreams,motif/sleep,concept/melancholy,concept/the_grotesque,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="076_melancholy" data-title="MELANCHOLY" data-chapter="" data-kind="intro"></span>
 
 
 A [[forms/fragment|FRAGMENT]]  
@@ -125,7 +125,7 @@ Strange was the dream ——
 
 
 
-<span class="atom-split" data-atom="104_the_eolian_harp" data-title="THE EOLIAN HARP" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/music_and_song,motif/wind,motif/light_in_sound,motif/nature,concept/the_one_life,concept/imagination,concept/faith_and_doubt,concept/love_romantic,form/conversation_poem,form/blank_verse,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="104_the_eolian_harp" data-title="THE EOLIAN HARP" data-chapter="" data-kind="intro"></span>
 
 
 COMPOSED AT CLEVEDON, SOMERSETSHIRE  
@@ -133,7 +133,7 @@ My pensive Sara! thy soft cheek reclined
 Thus on mine arm, most soothing sweet it is  
 To sit beside our Cot, our Cot o’ergrown  
 With white-flower’d Jasmin, and the broad-leav’d Myrtle,  
-(Meet emblems they of Innocence and [[motifs/love|Love]]!)   5  
+(Meet emblems they of [[innocence|Innocence]] and [[motifs/love|Love]]!)   5  
 And watch the clouds, that late were rich with light.  
 Slow saddening round, and mark the star of eve  
 Serenely brilliant (such should Wisdom be)  
@@ -186,7 +186,7 @@ Meek Daughter in the family of [[characters/christ|Christ]]!
 [[motifs/well|Well]] hast thou said and holily disprais’d  
 These shapings of the unregenerate mind;   55  
 Bubbles that glitter as they rise and break  
-On vain Philosophy’s aye-babbling [[motifs/spring|spring]].  
+On vain [[philosophy|Philosophy]]’s aye-babbling [[motifs/spring|spring]].  
 For never guiltless may I speak of him,  
 The Incomprehensible! save when with awe  
 I praise him, and with [[concepts/faith|Faith]] that inly feels;   60  
@@ -199,7 +199,7 @@ Peace, and this Cot, and thee, heart-[[concepts/honour|honour]]’d Maid!
 
 
 
-<span class="atom-split" data-atom="126_argument" data-title="ARGUMENT" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/blood,concept/providence,concept/war_and_its_cost,concept/nationalism_and_patriotism,form/pindaric_ode,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="126_argument" data-title="ARGUMENT" data-chapter="" data-kind="intro"></span>
 
 
 The Ode commences with an address to the Divine [[concepts/providence|Providence]] that  
@@ -224,7 +224,7 @@ I saw the train of the Departing Year!
 Starting from my silent sadness  
 Then with no unholy [[concepts/madness|madness]],   10  
 Ere yet the enter’d cloud foreclos’d my sight,  
-I rais’d the impetuous song, and solemnis’d his flight.  
+I rais’d the impetuous [[Song|song]], and solemnis’d his flight.  
 II  
 Hither, from the recent tomb,  
 From the [[motifs/prison|prison]]’s direr gloom,  
@@ -274,11 +274,11 @@ The exterminating Fiend is fled —
 (Foul her life, and dark her doom)  
 Mighty armies of the dead  
 [[motifs/dance|Dance]], like [[motifs/death|death]]-fires, round her tomb!  
-Then with prophetic song relate,   60  
+Then with prophetic [[Song|song]] relate,   60  
 Each some [[archetypes/tyrant|Tyrant]]-Murderer’s fate!  
 IV  
 Departing Year! ‘twas on no earthly shore  
-My [[motifs/soul|soul]] beheld thy Vision! Where alone,  
+My [[motifs/soul|soul]] beheld thy Vision! Where [[Alone|alone]],  
 Voiceless and stern, before the cloudy throne,  
 Aye [[motifs/memory|Memory]] sits: thy robe inscrib’d with gore,   65  
 With many an unimaginable groan  
@@ -291,7 +291,7 @@ The Spirit of the Earth made reverence meet,
 And stood up, beautiful, before the cloudy seat.  
 V  
 Throughout the blissful throng,  
-Hush’d were harp and song:   75  
+Hush’d were harp and [[Song|song]]:   75  
 Till wheeling round the throne the Lampads seven,  
 (The mystic Words of Heaven)  
 Permissive signal make:  
@@ -302,7 +302,7 @@ By the Earth’s unsolaced groaning,
 Seize thy terrors, Arm of might!  
 By Peace with proffer’d insult scared,  
 Masked Hate and envying Scorn!   85  
-By years of Havoc yet unborn!  
+By years of Havoc yet [[unborn]]!  
 And Hunger’s bosom to the [[motifs/frost|frost]]-winds bared!  
 But chief by Afric’s wrongs,  
 Strange, horrible, and foul!  
@@ -360,7 +360,7 @@ Mid thy herds and thy corn-fields secure thou hast stood,
 And join’d the wild yelling of Famine and [[motifs/blood|Blood]]!  
 The nations curse thee! They with eager wondering  
 Shall hear Destruction, like a vulture, scream!   140  
-Strange-eyed Destruction! who with many a dream  
+Strange-eyed Destruction! who with many [[A Dream|a dream]]  
 Of central fires through nether seas up-thundering  
 Soothes her fierce [[concepts/solitude|solitude]]; yet as she lies  
 By livid fount, or red volcanic stream,  
@@ -387,10 +387,10 @@ God’s Image, sister of the Seraphim.
 
 
 
-<span class="atom-split" data-atom="134_this_lime-tree_bower_my_prison" data-title="THIS LIME-TREE BOWER MY PRISON" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/birds,concept/imagination,concept/friendship,concept/joy,form/blank_verse,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="134_this_lime-tree_bower_my_prison" data-title="THIS LIME-TREE BOWER MY PRISON" data-chapter="" data-kind="intro"></span>
 
 
-ADDRESSED TO CHARLES [[motifs/lamb|LAMB]], OF THE INDIA HOUSE, [[settings/london|LONDON]]  
+ADDRESSED TO CHARLES [[motifs/lamb|LAMB]], OF THE INDIA [[house|HOUSE]], [[settings/london|LONDON]]  
 In the June of 1797 some long-expected friends paid a visit to the  
 author’s cottage; and on the morning of their arrival, he met with an  
 accident, which disabled him from walking during the whole [[motifs/time|time]] of their  
@@ -479,17 +479,17 @@ No sound is dissonant which tells of Life.
 
 
 
-<span class="atom-split" data-atom="159_kubla_khan" data-title="KUBLA KHAN" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/dreams,motif/river,motif/garden,motif/the_supernatural,concept/imagination,concept/the_sublime,form/fragment,setting/the_orient,character/kubla_khan,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="159_kubla_khan" data-title="KUBLA KHAN" data-chapter="" data-kind="intro"></span>
 
 
-[[characters/kubla-khan|KUBLA KHAN]]: OR, A VISION IN A DREAM. A [[forms/fragment|FRAGMENT]]  
+[[characters/kubla-khan|KUBLA KHAN]]: OR, A VISION IN [[A Dream|A DREAM]]. A [[forms/fragment|FRAGMENT]]  
 The following [[forms/fragment|fragment]] is here published at the request  
 of a poet of great and deserved celebrity [Lord Byron], and,  
 as far as the Author’s own opinions are concerned, rather as  
 a psychological curiosity, than on the ground of any supposed  
 poetic merits.   5  
 In the [[motifs/summer|summer]] of the year 1797, the Author, then in ill  
-health, had retired to a lonely farm-house between Porlock  
+health, had retired to a lonely farm-[[house]] between Porlock  
 and Linton, on the Exmoor confines of Somerset and Devonshire.  
 In consequence of a slight indisposition, an anodyne  
 had been prescribed, from the effects of which he fell asleep   10  
@@ -577,7 +577,7 @@ It was an Abyssinian maid,
 And on her dulcimer she played,   40  
 Singing of Mount Abora.  
 Could I revive within me  
-Her symphony and song,  
+Her symphony and [[Song|song]],  
 To such a deep delight ‘twould win me,  
 That with music loud and long,   45  
 I would build that dome in air,  
@@ -594,10 +594,10 @@ And drunk the milk of Paradise.
 
 
 
-<span class="atom-split" data-atom="184_mahomet" data-title="MAHOMET" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/prophet,archetype/hero,motif/river,concept/faith,concept/good_vs_evil,concept/power_and_corruption,form/hexameter_verse,form/fragment,histref/islam,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="184_mahomet" data-title="MAHOMET" data-chapter="" data-kind="intro"></span>
 
 
-Utter the song, O my [[motifs/soul|soul]]! the flight and return of Mohammed,  
+Utter the [[Song|song]], O my [[motifs/soul|soul]]! the flight and return of Mohammed,  
 [[archetypes/prophet|Prophet]] and priest, who scatter’d abroad both evil and blessing,  
 Huge wasteful empires founded and hallow’d slow persecution,  
 [[motifs/soul|Soul]]-withering, but crush’d the blasphemous rites of the Pagan  
@@ -617,7 +617,7 @@ Rushes dividuous all — all rushing impetuous onward.
 
 
 
-<span class="atom-split" data-atom="190_apologia_pro_vita_sua" data-title="APOLOGIA PRO VITA SUA" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/eyes_sight,motif/fire,concept/imagination,concept/the_sublime,concept/the_artist_and_society,form/epigram,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="190_apologia_pro_vita_sua" data-title="APOLOGIA PRO VITA SUA" data-chapter="" data-kind="intro"></span>
 
 
 The poet in his lone yet genial hour  
@@ -633,11 +633,11 @@ Phantoms of sublimity.
 
 
 
-<span class="atom-split" data-atom="220_ad_vilmum_axiologum" data-title="AD VILMUM AXIOLOGUM" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,topos/immortality_through_verse,archetype/prophet,motif/music_and_song,concept/immortality_of_art,concept/the_artist_and_society,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="220_ad_vilmum_axiologum" data-title="AD VILMUM AXIOLOGUM" data-chapter="" data-kind="intro"></span>
 
 
 TO WILLIAM WORDSWORTH
-This be the meed, that thy song creates a thousand-fold echo!
+This be the meed, that thy [[Song|song]] creates a thousand-fold echo!
 Sweet as the warble of woods, that awakes at the gale of the morning!
 List! the Hearts of the Pure, like caves in the ancient [[settings/mountains|mountains]]
 Deep, deep in the Bosom, and from the Bosom resound it,
@@ -651,7 +651,7 @@ Live and are borne as an Infant; the Eternal begets the Immortal:
 
 
 
-<span class="atom-split" data-atom="262_fancy_in_nubibus_or_the_poet_in_the_clouds" data-title="FANCY IN NUBIBUS OR THE POET IN THE CLOUDS" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/prophet,motif/the_sea,concept/imagination,concept/wonder_and_gratitude,form/sonnet,histref/greek_mythology,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="262_fancy_in_nubibus_or_the_poet_in_the_clouds" data-title="FANCY IN NUBIBUS OR THE POET IN THE CLOUDS" data-chapter="" data-kind="intro"></span>
 
 
 O! it is pleasant, with a heart at ease,  
@@ -673,7 +673,7 @@ Rise to the swelling of the voiceful sea.
 
 
 
-<span class="atom-split" data-atom="297_reason" data-title="REASON" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/faith,concept/truth,form/fragment,histref/dante,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="297_reason" data-title="REASON" data-chapter="" data-kind="intro"></span>
 
 
 [‘Finally, what is Reason? You have often asked me: and this  
@@ -692,14 +692,14 @@ Ciò che vedresti, se l’avessi scosso.’
 
 
 
-<span class="atom-split" data-atom="302_to_the_young_artist_kayser_of_kaserwerth" data-title="TO THE YOUNG ARTIST: KAYSER OF KASERWERTH" data-chapter="" data-kind="intro" data-tags="motif/the_mirror,concept/the_artist_and_society,concept/imagination,concept/immortality_of_art,concept/friendship,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="302_to_the_young_artist_kayser_of_kaserwerth" data-title="TO THE YOUNG ARTIST: KAYSER OF KASERWERTH" data-chapter="" data-kind="intro"></span>
 
 
 Kayser! to whom, as to a second [[concepts/self|self]],  
 [[concepts/nature|Nature]], or [[concepts/nature|Nature]]’s next-of-kin, the Elf,  
 Hight Genius, hath dispensed the happy skill  
 To cheer or soothe the parting friend’s ‘Alas!’  
-Turning the blank scroll to a magic glass,   5  
+Turning the blank scroll to a [[Magic|magic]] glass,   5  
 That makes the absent present at our will;  
 And to the shadowing of thy pencil gives  
 Such seeming substance, that it almost lives.  
@@ -715,7 +715,7 @@ Be wise! be happy! and forget not me.
 
 
 
-<span class="atom-split" data-atom="378_fragments_from_a_notebook" data-title="FRAGMENTS FROM A NOTEBOOK" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/music_and_song,motif/birds,motif/the_sea,motif/flowers,motif/death,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="378_fragments_from_a_notebook" data-title="FRAGMENTS FROM A NOTEBOOK" data-chapter="" data-kind="intro"></span>
 
 
 Circa 1796-   98  
@@ -783,7 +783,7 @@ First published in Notizbuch, 1896, p. 350.
 
 
 
-<span class="atom-split" data-atom="381_fragments" data-title="FRAGMENTS" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/birds,motif/the_sea,motif/flowers,concept/mortality,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="381_fragments" data-title="FRAGMENTS" data-chapter="" data-kind="intro"></span>
 
 
 O’er the raised earth the gales of evening sigh;  
@@ -804,7 +804,7 @@ from a Notebook.
 
 
 
-<span class="atom-split" data-atom="383_a_beck_in_winter" data-title="A BECK IN WINTER" data-chapter="" data-kind="intro" data-tags="motif/river,motif/winter,motif/nature,motif/the_city,motif/silence,motif/stars,concept/love_romantic,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="383_a_beck_in_winter" data-title="A BECK IN WINTER" data-chapter="" data-kind="intro"></span>
 
 
 Over the broad, the shallow, rapid stream,  
@@ -836,7 +836,7 @@ That Fancy makes in the clouds, yea, as mute
 As the moonlight that sleeps on the steady vanes.  
 (or)  
 The cell of a departed anchoret,  
-His skeleton and flitting [[archetypes/ghost|ghost]] are there,  
+His [[skeleton]] and flitting [[archetypes/ghost|ghost]] are there,  
 Sole tenants —  
 And all the [[motifs/city|City]] silent as the [[motifs/moon|Moon]]  
 That steeps in quiet light the steady vanes  
@@ -873,13 +873,13 @@ Dec. 1797. First published from an MS. in 1893.
 
 
 
-<span class="atom-split" data-atom="387_epigram_on_kepler" data-title="EPIGRAM ON KEPLER" data-chapter="" data-kind="intro" data-tags="concept/melancholy,concept/grief_and_loss,concept/the_artist_and_society,concept/imagination,concept/social_injustice,form/epigram,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="387_epigram_on_kepler" data-title="EPIGRAM ON KEPLER" data-chapter="" data-kind="intro"></span>
 
 
 FROM THE GERMAN  
 No mortal spirit yet had clomb so high  
 As Kepler — yet his Country saw him die  
-For very want! the Minds alone he fed,  
+For very want! the Minds [[Alone|alone]] he fed,  
 And so the Bodies left him without bread.  
 1799. First published in The Friend, Nov. 30, 1809 (1818, ii. 95;
 1850, ii. 69). First collected P. and D. W., 1877, ii. 374.  
@@ -960,7 +960,7 @@ collected 1893.
 
 
 
-<span class="atom-split" data-atom="389_translation_of_a_fragment_of_heraclitus" data-title="TRANSLATION OF A FRAGMENT OF HERACLITUS" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/prophet,concept/truth,form/fragment,histref/ancient_greece,histref/greek_mythology,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="389_translation_of_a_fragment_of_heraclitus" data-title="TRANSLATION OF A FRAGMENT OF HERACLITUS" data-chapter="" data-kind="intro"></span>
 
 
 Not hers  
@@ -979,7 +979,7 @@ ii. 27. First collected 1893.
 
 
 
-<span class="atom-split" data-atom="397_a_simile" data-title="A SIMILE" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/animals,motif/music_and_song,concept/love_romantic,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="397_a_simile" data-title="A SIMILE" data-chapter="" data-kind="intro"></span>
 
 
 As the shy hind, the soft-eyed gentle Brute  
@@ -995,7 +995,7 @@ Undated. Now first published from an MS.
 
 
 
-<span class="atom-split" data-atom="401_trochaics" data-title="TROCHAICS" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,motif/music_and_song,concept/heroism,concept/love_romantic,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="401_trochaics" data-title="TROCHAICS" data-chapter="" data-kind="intro"></span>
 
 
 Thus she said, and, all around,  
@@ -1009,7 +1009,7 @@ Welcome, welcome, spite of [[motifs/pain|pain]] and sorrow,
 
 
 
-<span class="atom-split" data-atom="403_iambics" data-title="IAMBICS" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/light_and_dark,motif/fire,form/fragment,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="403_iambics" data-title="IAMBICS" data-chapter="" data-kind="intro"></span>
 
 
 No cold shall thee benumb,  
@@ -1023,7 +1023,7 @@ My Pen shall give thee leave hereafter to be dumb.
 
 
 
-<span class="atom-split" data-atom="404_nonsense" data-title="NONSENSE" data-chapter="" data-kind="intro" data-tags="motif/death,concept/heroism,form/fragment,form/song,histref/eastern_religion,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="404_nonsense" data-title="NONSENSE" data-chapter="" data-kind="intro"></span>
 
 
 Sing impassionate [[motifs/soul|Soul]]! of Mohammed the complicate story:  
@@ -1037,7 +1037,7 @@ Now first published from an MS.
 
 
 
-<span class="atom-split" data-atom="405_a_plaintive_movement" data-title="A PLAINTIVE MOVEMENT" data-chapter="" data-kind="intro" data-tags="motif/wind,motif/the_grave,motif/music_and_song,concept/melancholy,form/fragment,form/song,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="405_a_plaintive_movement" data-title="A PLAINTIVE MOVEMENT" data-chapter="" data-kind="intro"></span>
 
 
 Go little Pipe! for ever I must leave thee,  
@@ -1057,7 +1057,7 @@ Now first published from an MS.
 
 
 
-<span class="atom-split" data-atom="407_nonsense_verses" data-title="NONSENSE VERSES" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/fire,motif/night,concept/joy,form/fragment,form/song,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="407_nonsense_verses" data-title="NONSENSE VERSES" data-chapter="" data-kind="intro"></span>
 
 
 [AN EXPERIMENT FOR A METRE]  
@@ -1082,7 +1082,7 @@ Now first published from an MS.
 
 
 
-<span class="atom-split" data-atom="409_experiments_in_metre" data-title="EXPERIMENTS IN METRE" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/river,concept/melancholy,concept/unrequited_love,form/fragment,form/song,histref/greek_mythology,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="409_experiments_in_metre" data-title="EXPERIMENTS IN METRE" data-chapter="" data-kind="intro"></span>
 
 
 There in some darksome shade  
@@ -1110,9 +1110,9 @@ First published from an MS. in 1893.
 Ø ¯ Ø, ¯ Ø Ø, ¯ Ø Ø, ¯  
 ¯ Ø Ø, ¯ Ø  
 Ø ¯ Ø Ø, ¯ Ø etc.  
-Songs of Shepherds and rustical Roundelays,  
+[[songs|Songs]] of Shepherds and rustical Roundelays,  
 Forms of Fancies and whistled on Reeds,  
-Songs to solace young Nymphs upon Holidays  
+[[songs|Songs]] to solace young Nymphs upon Holidays  
 Are too unworthy for wonderful deeds —  
 Round about, hornéd  
 Lucinda they swarméd,  

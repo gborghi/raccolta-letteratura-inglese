@@ -37,17 +37,17 @@ tags:
 
 Raccolta tematica di 11 componimenti di Samuel Taylor Coleridge.
 
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#446_alla_sua_amica|ALLA SUA AMICA]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#034_an_ode_in_the_manner_of_anacreon|AN ODE IN THE MANNER OF ANACREON]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#163_catullian_hendecasyllables|CATULLIAN HENDECASYLLABLES]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#054_imitated_from_the_welsh|IMITATED FROM THE WELSH]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#361_jeux_desprit_my_godmothers_beard|JEUX D’ESPRIT: MY GODMOTHER’S BEARD]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#044_kisses|KISSES]]
+- [[works/alla-sua-amica-(coleridge)|ALLA SUA AMICA]]
+- [[works/an-ode-in-the-manner-of-anacreon-(coleridge)|AN ODE IN THE MANNER OF ANACREON]]
+- [[works/catullian-hendecasyllables-(coleridge)|CATULLIAN HENDECASYLLABLES]]
+- [[works/imitated-from-the-welsh-(coleridge)|IMITATED FROM THE WELSH]]
+- [[works/jeux-d’esprit-my-godmother’s-beard-(coleridge)|JEUX D’ESPRIT: MY GODMOTHER’S BEARD]]
+- [[works/kisses-(coleridge)|KISSES]]
 - MILESISCHES MÄHRCHEN
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#063_the_kiss|THE KISS]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#106_the_silver_thimble|THE SILVER THIMBLE]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#367_the_wills_of_the_wisp|THE WILLS OF THE WISP]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#066_to_miss_brunton|TO MISS BRUNTON]]
+- [[works/the-kiss-(coleridge)|THE KISS]]
+- [[works/the-silver-thimble-(coleridge)|THE SILVER THIMBLE]]
+- [[works/the-wills-of-the-wisp-(coleridge)|THE WILLS OF THE WISP]]
+- [[works/to-miss-brunton-(coleridge)|TO MISS BRUNTON]]
 
 ## Testo / Text
 

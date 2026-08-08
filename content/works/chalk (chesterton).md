@@ -51,7 +51,7 @@ tags:
 
 **Historical References:** [[historical-references/christianity|Christianity]]
 
-**Archetypes:** [[archetypes/artist|Artist]]
+**Archetypes:** Artist
 
 **Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/sublime-in-nature|Sublime in Nature]], [[topoi/pastoral-retreat|Pastoral Retreat]]
 **Motifs:** [[motifs/white-and-red|White and Red]], [[concepts/nature|Nature]], [[motifs/light-and-dark|Light and Dark]], [[motifs/hill|Hill]], [[motifs/chalk|Chalk]]

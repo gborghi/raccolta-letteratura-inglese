@@ -25,14 +25,14 @@ tags:
 - [[works/gargoyles-(chesterton)|gargoyles (Chesterton)]]
 - [[works/telegraph-poles-(chesterton)|telegraph-poles (Chesterton)]]
 - [[works/thursday-(chesterton)|thursday (Chesterton)]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#428_musophilus|MUSOPHILUS (Coleridge)]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#427_samuel_daniel|SAMUEL DANIEL (Coleridge)]]
+- [[works/musophilus-(coleridge)|MUSOPHILUS (Coleridge)]]
+- [[works/samuel-daniel-(coleridge)|SAMUEL DANIEL (Coleridge)]]
 - [[works/a-tale-of-two-cities-(dickens)|A Tale of Two Cities (Dickens)]]
 - [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1134_the_wind_took_up_the_northern_things|1134. The Wind took up the Northern Things (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0415_sunset_at_night_is_natural|415. Sunset at Night — is natural — (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0510_it_was_not_death_for_i_stood_up|510. It was not Death, for I stood up, (Dickinson)]]
-- [[testi/dickinson/atomized/terror-and-horror-madness#0556_the_brain_within_its_groove|556. The Brain, within its Groove (Dickinson)]]
+- 1134. The Wind took up the Northern Things (Dickinson)
+- 415. Sunset at Night — is natural — (Dickinson)
+- 510. It was not Death, for I stood up, (Dickinson)
+- 556. The Brain, within its Groove (Dickinson)
 - [[works/hyperion-(keats)|Hyperion (Keats)]]
 - [[works/the-devil-in-the-belfry-(poe)|The Devil in the Belfry (Poe)]]
 - [[works/a-midsummer-night’s-dream-(shakespeare)|A MIDSUMMER NIGHT’S DREAM (Shakespeare)]]

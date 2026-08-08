@@ -76,7 +76,7 @@ La supplica della mano di un morto
 Sotto il tremolio di una stella che svanisce.  
 È così anche  
 Nell'altro regno della [[motifs/death|morte]]  
-Svegliarsi soli  
+Svegliarsi [[Alone|soli]]  
 Nell'ora in cui siamo  
 Tremanti di tenerezza  
 Labbra che vorrebbero baciare  
@@ -247,7 +247,7 @@ The supplication of a dead man’s hand
 Under the twinkle of a fading star.  
 Is it like this  
 In [[motifs/death|death]]’s other kingdom  
-Waking alone  
+Waking [[Alone|alone]]  
 At the hour when we are  
 Trembling with tenderness  
 Lips that would kiss  
@@ -265,7 +265,7 @@ La supplica della mano di un morto
 Sotto il tremolio di una stella che svanisce.  
 È così anche  
 Nell'altro regno della [[motifs/death|morte]]  
-Svegliarsi soli  
+Svegliarsi [[Alone|soli]]  
 Nell'ora in cui siamo  
 Tremanti di tenerezza  
 Labbra che vorrebbero baciare  
@@ -352,6 +352,9 @@ This is the way the world ends
 This is the way the world ends  
 This is the way the world ends  
 Not with a bang but a whimper.  
+
+[[Ash-Wednesday|ASH-WEDNESDAY]]  
+1930  
 
 
 <span class="qlang-split" data-lang="it"></span>

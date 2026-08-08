@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il Diabolista
+Il [[diabolist|Diabolista]]
 
 di G.K. Chesterton
 
@@ -27,7 +27,7 @@ Di tanto in tanto ho introdotto nei miei saggi un elemento di [[concepts/truth|v
 
 La cosa mi capitò nei giorni in cui frequentavo una scuola d'arte. Una scuola d'arte differisce da quasi tutte le altre scuole o collegi in questo: che, essendo di nuova e rozza creazione e di lassa disciplina, presenta un contrasto particolarmente forte tra gli industriosi e gli oziosi. Chi frequenta una scuola d'arte o svolge una quantità atroce di lavoro o non lavora affatto. Io appartenevo, insieme ad altre persone deliziose, a quest'ultima classe; e ciò mi gettava spesso nella società di uomini assai diversi da me, e che erano oziosi per ragioni assai diverse dalle mie. Io ero ozioso perché ero molto occupato; ero impegnato, in quel [[motifs/time|periodo]], a scoprire, con mia estrema e duratura sorpresa, che non ero ateo. Ma c'erano anche altri sbandati impegnati a scoprire ciò che Carlyle chiamava (credo con inutile delicatezza) il fatto che lo zenzero è piccante in bocca.
 
-Insomma, apprezzo quel [[motifs/time|periodo]] perché mi rese familiare un buon numero rappresentativo di canaglie. A questo proposito ci sono due cose assai curiose che il critico della vita umana può osservare. La prima è il fatto che c'è una vera differenza tra uomini e donne; che le donne preferiscono parlare a due a due, mentre gli uomini preferiscono parlare a tre a tre. La seconda è che quando trovi (come spesso accade) tre giovani mascalzoni e idioti che vanno in giro insieme e si ubriacano insieme ogni giorno, generalmente scopri che uno dei tre mascalzoni e idioti è (per qualche straordinaria ragione) non un mascalzone e non un idiota. In questi piccoli gruppi votati a una bavosa dissipazione c'è quasi sempre un uomo che sembra essersi degnato di scendere alla propria compagnia; un uomo che, pur sapendo scambiare una turpe banalità con i suoi compari, sa anche parlare di politica con un socialista, o di filosofia con un cattolico.
+Insomma, apprezzo quel [[motifs/time|periodo]] perché mi rese familiare un buon numero rappresentativo di canaglie. A questo proposito ci sono due cose assai curiose che il critico della vita umana può osservare. La prima è il fatto che c'è una vera differenza tra uomini e donne; che le donne preferiscono parlare a due a due, mentre gli uomini preferiscono parlare a tre a tre. La seconda è che quando trovi (come spesso accade) tre giovani mascalzoni e idioti che vanno in giro insieme e si ubriacano insieme ogni giorno, generalmente scopri che uno dei tre mascalzoni e idioti è (per qualche straordinaria ragione) non un mascalzone e non un idiota. In questi piccoli gruppi votati a una bavosa dissipazione c'è quasi sempre un uomo che sembra essersi degnato di scendere alla propria compagnia; un uomo che, pur sapendo scambiare una turpe banalità con i suoi compari, sa anche parlare di politica con un socialista, o di [[philosophy|filosofia]] con un cattolico.
 
 Fu proprio un uomo simile che giunsi a conoscere [[motifs/well|bene]]. Era strano, forse, che gli piacesse la sua sudicia e ubriaca compagnia; era ancor più strano, forse, che gli piacesse la mia compagnia. Per ore del giorno mi parlava di [[historical-references/milton|Milton]] o di architettura gotica; per ore della [[motifs/night|notte]] andava dove non ho alcun desiderio di seguirlo, nemmeno con la speculazione. Era un uomo dal viso lungo e ironico, e dai capelli fitti e rossi; era di classe un gentiluomo, e sapeva camminare come tale, ma preferiva, per qualche ragione, camminare come uno stalliere che porta due secchi. Aveva l'aria di una specie di super-fantino; come se qualche arcangelo si fosse dato all'ippica. E non dimenticherò mai la mezz'ora in cui lui e io discutemmo di cose reali per la prima e l'ultima [[motifs/time|volta]].
 
@@ -41,7 +41,7 @@ L'uomo mi chiese bruscamente perché stessi diventando ortodosso. Finché non lo
 
 "Sto diventando ortodosso," dissi, "perché sono giunto, a torto o a ragione, dopo aver teso il cervello fino a farlo scoppiare, all'antica convinzione che l'eresia sia peggiore perfino del peccato. Un errore è più minaccioso di un delitto, perché un errore genera delitti. Un imperialista è peggio di un pirata. Perché un imperialista tiene una scuola per pirati; insegna la pirateria disinteressatamente e senza uno stipendio adeguato. Un [[archetypes/lover|Libero Amatore]] è peggio di un dissoluto. Perché un dissoluto è serio e temerario perfino nel suo più breve [[motifs/love|amore]]; mentre un [[archetypes/lover|Libero Amatore]] è cauto e irresponsabile perfino nella sua più lunga devozione. Odio il [[concepts/doubt|dubbio]] moderno perché è pericoloso."
 
-"Vuoi dire pericoloso per la morale," disse con voce di meravigliosa dolcezza. "Immagino che tu abbia ragione. Ma perché ti importa della morale?"
+"Vuoi dire pericoloso per la [[morality|morale]]," disse con voce di meravigliosa dolcezza. "Immagino che tu abbia ragione. Ma perché ti importa della [[morality|morale]]?"
 
 Gli lanciai una rapida occhiata al viso. Aveva sporto il collo, come aveva l'abitudine di fare; e così aveva portato bruscamente il viso nella luce del falò dal basso, come un volto alla ribalta. Il suo lungo mento e i suoi alti zigomi erano illuminati infernalmente da sotto; sicché pareva un demonio che fissa in giù dentro la fossa fiammeggiante. Ebbi un'insensata sensazione di essere tentato in un deserto; e proprio mentre indugiavo un getto di rosse scintille scoppiò accanto.
 
@@ -50,11 +50,11 @@ Gli lanciai una rapida occhiata al viso. Aveva sporto il collo, come aveva l'abi
 "Sì," rispose.
 
 "È tutto ciò che ti chiedo di ammettere," dissi.  "Concedimi
-quei pochi punti rossi e da essi dedurrò la morale cristiana.
+quei pochi punti rossi e da essi dedurrò la [[morality|morale]] cristiana.
 Un tempo pensavo come te, che il piacere provato in una scintilla
 volante fosse cosa che poteva andare e venire con quella scintilla.
 Un tempo pensavo che quel diletto fosse libero come il [[motifs/fire|fuoco]].
-Un tempo pensavo che la stella rossa che vediamo fosse sola nello spazio.
+Un tempo pensavo che la stella rossa che vediamo fosse [[Alone|sola]] nello spazio.
 Ma ora so che la stella rossa è soltanto sull'apice
 di un'invisibile piramide di virtù.  Quel [[motifs/fire|fuoco]] rosso è soltanto
 il fiore su uno stelo di abitudini viventi, che tu non puoi vedere.
@@ -83,14 +83,14 @@ qualcuno ti brucerebbe in esso; come l'adoratore del demonio che sei."
 "Forse," disse, nel suo modo stanco e leale.  "Solo che ciò che tu chiami male
 io lo chiamo bene."
 
-Discese i grandi gradini solo, e sentii come se volessi
+Discese i grandi gradini [[Alone|solo]], e sentii come se volessi
 che i gradini fossero spazzati e ripuliti.  Lo seguii più tardi, e mentre andavo a cercare
 il mio cappello nel basso, buio corridoio dove era appeso, udii d'improvviso la sua
 voce di nuovo, ma le parole erano inudibili.  Mi fermai, trasalendo:
 poi udii la voce di uno dei più vili tra i suoi sodali dire,
 "Nessuno può mai saperlo."  E poi udii quelle due o tre
 parole che ricordo in ogni sillaba e non posso dimenticare.
-Udii il Diabolista dire: "Ti dico che ho fatto già tutto il resto.
+Udii il [[diabolist|Diabolista]] dire: "Ti dico che ho fatto già tutto il resto.
 Se faccio quello, non conoscerò più la differenza tra il bene e il male."
 Mi precipitai fuori senza osar fermarmi; e passando accanto al [[motifs/fire|fuoco]]
 non sapevo se fosse l'inferno o il furioso [[motifs/love|amore]] di Dio.
@@ -108,7 +108,7 @@ al quale si fermò e si trattenne.
 <span class="atom-split" data-atom="part--part_01" data-title="diabolist (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/ghost,archetype/lover,motif/fire,motif/insects,motif/love,motif/night,motif/stars,motif/time,motif/well,concept/doubt,concept/truth,histref/milton,setting/cathedral,character/milton"></span>
 
 
-The Diabolist
+The [[diabolist|Diabolist]]
 
 by G.K. Chesterton
 
@@ -156,7 +156,7 @@ idiots is (for some extraordinary reason) not a cad and not an idiot.
 In these small groups devoted to a drivelling dissipation there is
 almost always one man who seems to have condescended to his company;
 one man who, while he can talk a foul triviality with his fellows,
-can also talk politics with a Socialist, or philosophy with a Catholic.
+can also talk politics with a Socialist, or [[philosophy]] with a Catholic.
 
 It was just such a man whom I came to know [[motifs/well|well]].
 It was strange, perhaps, that he liked his dirty, drunken society;
@@ -209,9 +209,9 @@ serious and reckless even in his shortest [[motifs/love|love]]; while a Free [[a
 is cautious and irresponsible even in his longest devotion.
 I hate modern [[concepts/doubt|doubt]] because it is dangerous."
 
-"You mean dangerous to morality," he said in a voice
+"You mean dangerous to [[morality]]," he said in a voice
 of wonderful gentleness.  "I expect you are right.
-But why do you care about morality?"
+But why do you care about [[morality]]?"
 
 I glanced at his face quickly.  He had thrust out his neck as he had
 a trick of doing; and so brought his face abruptly into the light
@@ -228,7 +228,7 @@ and even as I paused a burst of red sparks broke past.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il Diabolista
+Il [[diabolist|Diabolista]]
 
 di G.K. Chesterton
 
@@ -238,7 +238,7 @@ Di tanto in tanto ho introdotto nei miei saggi un elemento di [[concepts/truth|v
 
 La cosa mi capitò nei giorni in cui frequentavo una scuola d'arte. Una scuola d'arte differisce da quasi tutte le altre scuole o collegi in questo: che, essendo di nuova e rozza creazione e di lassa disciplina, presenta un contrasto particolarmente forte tra gli industriosi e gli oziosi. Chi frequenta una scuola d'arte o svolge una quantità atroce di lavoro o non lavora affatto. Io appartenevo, insieme ad altre persone deliziose, a quest'ultima classe; e ciò mi gettava spesso nella società di uomini assai diversi da me, e che erano oziosi per ragioni assai diverse dalle mie. Io ero ozioso perché ero molto occupato; ero impegnato, in quel [[motifs/time|periodo]], a scoprire, con mia estrema e duratura sorpresa, che non ero ateo. Ma c'erano anche altri sbandati impegnati a scoprire ciò che Carlyle chiamava (credo con inutile delicatezza) il fatto che lo zenzero è piccante in bocca.
 
-Insomma, apprezzo quel [[motifs/time|periodo]] perché mi rese familiare un buon numero rappresentativo di canaglie. A questo proposito ci sono due cose assai curiose che il critico della vita umana può osservare. La prima è il fatto che c'è una vera differenza tra uomini e donne; che le donne preferiscono parlare a due a due, mentre gli uomini preferiscono parlare a tre a tre. La seconda è che quando trovi (come spesso accade) tre giovani mascalzoni e idioti che vanno in giro insieme e si ubriacano insieme ogni giorno, generalmente scopri che uno dei tre mascalzoni e idioti è (per qualche straordinaria ragione) non un mascalzone e non un idiota. In questi piccoli gruppi votati a una bavosa dissipazione c'è quasi sempre un uomo che sembra essersi degnato di scendere alla propria compagnia; un uomo che, pur sapendo scambiare una turpe banalità con i suoi compari, sa anche parlare di politica con un socialista, o di filosofia con un cattolico.
+Insomma, apprezzo quel [[motifs/time|periodo]] perché mi rese familiare un buon numero rappresentativo di canaglie. A questo proposito ci sono due cose assai curiose che il critico della vita umana può osservare. La prima è il fatto che c'è una vera differenza tra uomini e donne; che le donne preferiscono parlare a due a due, mentre gli uomini preferiscono parlare a tre a tre. La seconda è che quando trovi (come spesso accade) tre giovani mascalzoni e idioti che vanno in giro insieme e si ubriacano insieme ogni giorno, generalmente scopri che uno dei tre mascalzoni e idioti è (per qualche straordinaria ragione) non un mascalzone e non un idiota. In questi piccoli gruppi votati a una bavosa dissipazione c'è quasi sempre un uomo che sembra essersi degnato di scendere alla propria compagnia; un uomo che, pur sapendo scambiare una turpe banalità con i suoi compari, sa anche parlare di politica con un socialista, o di [[philosophy|filosofia]] con un cattolico.
 
 Fu proprio un uomo simile che giunsi a conoscere [[motifs/well|bene]]. Era strano, forse, che gli piacesse la sua sudicia e ubriaca compagnia; era ancor più strano, forse, che gli piacesse la mia compagnia. Per ore del giorno mi parlava di [[historical-references/milton|Milton]] o di architettura gotica; per ore della [[motifs/night|notte]] andava dove non ho alcun desiderio di seguirlo, nemmeno con la speculazione. Era un uomo dal viso lungo e ironico, e dai capelli fitti e rossi; era di classe un gentiluomo, e sapeva camminare come tale, ma preferiva, per qualche ragione, camminare come uno stalliere che porta due secchi. Aveva l'aria di una specie di super-fantino; come se qualche arcangelo si fosse dato all'ippica. E non dimenticherò mai la mezz'ora in cui lui e io discutemmo di cose reali per la prima e l'ultima [[motifs/time|volta]].
 
@@ -252,7 +252,7 @@ L'uomo mi chiese bruscamente perché stessi diventando ortodosso. Finché non lo
 
 "Sto diventando ortodosso," dissi, "perché sono giunto, a torto o a ragione, dopo aver teso il cervello fino a farlo scoppiare, all'antica convinzione che l'eresia sia peggiore perfino del peccato. Un errore è più minaccioso di un delitto, perché un errore genera delitti. Un imperialista è peggio di un pirata. Perché un imperialista tiene una scuola per pirati; insegna la pirateria disinteressatamente e senza uno stipendio adeguato. Un [[archetypes/lover|Libero Amatore]] è peggio di un dissoluto. Perché un dissoluto è serio e temerario perfino nel suo più breve [[motifs/love|amore]]; mentre un [[archetypes/lover|Libero Amatore]] è cauto e irresponsabile perfino nella sua più lunga devozione. Odio il [[concepts/doubt|dubbio]] moderno perché è pericoloso."
 
-"Vuoi dire pericoloso per la morale," disse con voce di meravigliosa dolcezza. "Immagino che tu abbia ragione. Ma perché ti importa della morale?"
+"Vuoi dire pericoloso per la [[morality|morale]]," disse con voce di meravigliosa dolcezza. "Immagino che tu abbia ragione. Ma perché ti importa della [[morality|morale]]?"
 
 Gli lanciai una rapida occhiata al viso. Aveva sporto il collo, come aveva l'abitudine di fare; e così aveva portato bruscamente il viso nella luce del falò dal basso, come un volto alla ribalta. Il suo lungo mento e i suoi alti zigomi erano illuminati infernalmente da sotto; sicché pareva un demonio che fissa in giù dentro la fossa fiammeggiante. Ebbi un'insensata sensazione di essere tentato in un deserto; e proprio mentre indugiavo un getto di rosse scintille scoppiò accanto.
 
@@ -266,11 +266,11 @@ Gli lanciai una rapida occhiata al viso. Aveva sporto il collo, come aveva l'abi
 
 
 "That is all that I ask you to admit," said I. "Give me
-those few red specks and I will deduce Christian morality.
+those few red specks and I will deduce Christian [[morality]].
 Once I thought like you, that one's pleasure in a flying
 spark was a thing that could come and go with that spark.
 Once I thought that the delight was as free as the [[motifs/fire|fire]].
-Once I thought that red star we see was alone in space.
+Once I thought that red star we see was [[Alone|alone]] in space.
 But now I know that the red star is only on the apex
 of an invisible pyramid of virtues.  That red [[motifs/fire|fire]] is only
 the flower on a stalk of living habits, which you cannot see.
@@ -299,14 +299,14 @@ some one would burn you in it; like the devil-worshipper that you are."
 "Perhaps," he said, in his tired, fair way.  "Only what you call evil
 I call good."
 
-He went down the great steps alone, and I felt as if I wanted
+He went down the great steps [[Alone|alone]], and I felt as if I wanted
 the steps swept and cleaned.  I followed later, and as I went to find
 my hat in the low, dark passage where it hung, I suddenly heard his
 voice again, but the words were inaudible.  I stopped, startled:
 then I heard the voice of one of the vilest of his associates saying,
 "Nobody can possibly know."  And then I heard those two or three
 words which I remember in every syllable and cannot forget.
-I heard the Diabolist say, "I tell you I have done everything else.
+I heard the [[diabolist|Diabolist]] say, "I tell you I have done everything else.
 If I do that I shan't know the difference between right and wrong."
 I rushed out without daring to pause; and as I passed the [[motifs/fire|fire]] I
 did not know whether it was hell or the furious [[motifs/love|love]] of God.
@@ -323,11 +323,11 @@ at which he stopped and refrained.
 <span class="qlang-split" data-lang="it"></span>
 
 "È tutto ciò che ti chiedo di ammettere," dissi.  "Concedimi
-quei pochi punti rossi e da essi dedurrò la morale cristiana.
+quei pochi punti rossi e da essi dedurrò la [[morality|morale]] cristiana.
 Un tempo pensavo come te, che il piacere provato in una scintilla
 volante fosse cosa che poteva andare e venire con quella scintilla.
 Un tempo pensavo che quel diletto fosse libero come il [[motifs/fire|fuoco]].
-Un tempo pensavo che la stella rossa che vediamo fosse sola nello spazio.
+Un tempo pensavo che la stella rossa che vediamo fosse [[Alone|sola]] nello spazio.
 Ma ora so che la stella rossa è soltanto sull'apice
 di un'invisibile piramide di virtù.  Quel [[motifs/fire|fuoco]] rosso è soltanto
 il fiore su uno stelo di abitudini viventi, che tu non puoi vedere.
@@ -356,14 +356,14 @@ qualcuno ti brucerebbe in esso; come l'adoratore del demonio che sei."
 "Forse," disse, nel suo modo stanco e leale.  "Solo che ciò che tu chiami male
 io lo chiamo bene."
 
-Discese i grandi gradini solo, e sentii come se volessi
+Discese i grandi gradini [[Alone|solo]], e sentii come se volessi
 che i gradini fossero spazzati e ripuliti.  Lo seguii più tardi, e mentre andavo a cercare
 il mio cappello nel basso, buio corridoio dove era appeso, udii d'improvviso la sua
 voce di nuovo, ma le parole erano inudibili.  Mi fermai, trasalendo:
 poi udii la voce di uno dei più vili tra i suoi sodali dire,
 "Nessuno può mai saperlo."  E poi udii quelle due o tre
 parole che ricordo in ogni sillaba e non posso dimenticare.
-Udii il Diabolista dire: "Ti dico che ho fatto già tutto il resto.
+Udii il [[diabolist|Diabolista]] dire: "Ti dico che ho fatto già tutto il resto.
 Se faccio quello, non conoscerò più la differenza tra il bene e il male."
 Mi precipitai fuori senza osar fermarmi; e passando accanto al [[motifs/fire|fuoco]]
 non sapevo se fosse l'inferno o il furioso [[motifs/love|amore]] di Dio.

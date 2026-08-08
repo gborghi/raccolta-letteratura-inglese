@@ -59,6 +59,10 @@ XXV. CONCLUSION
 
 
 
+
+
+
+
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="Agnes Grey — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/nature,motif/ship,motif/soul,motif/time,motif/well,concept/education,concept/fear,concept/history,concept/nature,concept/wonder,form/history,setting/ship,character/agnes_grey,character/richard"></span>
 
 
@@ -87,11 +91,11 @@ must relinquish her carriage and her lady’s-maid, and all the luxuries
 and elegancies of affluence; which to her were little less than the
 necessaries of life. A carriage and a lady’s-maid were great
 conveniences; but, thank heaven, she had feet to carry her, and hands
-to minister to her own necessities. An elegant house and spacious
+to minister to her own necessities. An elegant [[house]] and spacious
 grounds were not to be despised; but she would rather live in a cottage
 with [[characters/richard|Richard]] Grey than in a palace with any other man in the world.
 
-Finding arguments of no avail, her father, at length, told the lovers
+Finding arguments of no avail, her father, at length, told the [[lovers]]
 they might marry if they pleased; but, in so doing, his daughter would
 forfeit every fraction of her fortune. He expected this would cool the
 ardour of both; but he was mistaken. My father knew too [[motifs/well|well]] my
@@ -141,7 +145,7 @@ satisfied; and if he would but lay by a little for the children, we
 should all have plenty, both for [[motifs/time|time]] present and to come: but saving
 was not my father’s forte. He would not run in debt (at least, my
 mother took good care he should not), but while he had money he must
-spend it: he liked to see his house comfortable, and his wife and
+spend it: he liked to see his [[house]] comfortable, and his wife and
 daughters [[motifs/well|well]] clothed, and [[motifs/well|well]] attended; and besides, he was
 charitably disposed, and liked to give to the poor, according to his
 means: or, as some might think, beyond them.
@@ -163,7 +167,7 @@ My father was delighted, so were we all, with our brightening
 prospects. For the present, it is true, we were reduced to the narrow
 income of the curacy; but my father seemed to think there was no
 necessity for scrupulously restricting our expenditure to that; so,
-with a standing bill at Mr. Jackson’s, another at Smith’s, and a third
+with a standing bill at Mr. Jackson’s, another at [[smith|Smith]]’s, and a third
 at Hobson’s, we got along even more comfortably than before: though my
 mother affirmed we had better keep within bounds, for our prospects of
 wealth were but precarious, after all; and if my father would only
@@ -182,7 +186,7 @@ weeping birch (the only considerable tree in the [[motifs/garden|garden]]), talk
 future happiness to ourselves and our parents, of what we would do, and
 see, and possess; with no firmer foundation for our goodly
 superstructure than the riches that were expected to flow in upon us
-from the success of the worthy merchant’s speculations. Our father was
+from the [[success]] of the worthy merchant’s speculations. Our father was
 nearly as bad as ourselves; only that he affected not to be so much in
 earnest: expressing his bright hopes and sanguine expectations in jests
 and playful sallies, that always struck me as being exceedingly witty
@@ -246,7 +250,7 @@ utterly hopeless, as his morbid [[concepts/imagination|imagination]] represented
 
 The useful pony phaeton was sold, together with the stout, [[motifs/well|well]]-fed
 pony—the old favourite that we had fully determined should end its days
-in peace, and never pass from our hands; the little coach-house and
+in peace, and never pass from our hands; the little coach-[[house]] and
 stable were let; the servant boy, and the more efficient (being the
 more expensive) of the two maid-servants, were dismissed. Our clothes
 were mended, turned, and darned to the utmost verge of decency; our
@@ -274,7 +278,7 @@ that no one could do it so [[motifs/well|well]] as herself: so that whenever I o
 to assist her, I received such an answer as—“No, [[motifs/love|love]], you cannot
 indeed—there’s nothing here you can do. Go and help your sister, or get
 her to take a walk with you—tell her she must not sit so much, and stay
-so constantly in the house as she does—she may [[motifs/well|well]] look thin and
+so constantly in the [[house]] as she does—she may [[motifs/well|well]] look thin and
 dejected.”
 
 
@@ -285,7 +289,7 @@ dejected.”
 
 “Mary, mamma says I’m to help you; or get you to take a walk with me;
 she says you may [[motifs/well|well]] look thin and dejected, if you sit so constantly
-in the house.”
+in the [[house]].”
 
 “Help me you cannot, Agnes; and I cannot go out with _you_—I have far
 too much to do.”
@@ -355,7 +359,7 @@ elder ones.”
 myself, and others too. You do not know half the wisdom and prudence I
 possess, because I have never been tried.”
 
-“Only think,” said Mary, “what would you do in a house full of
+“Only think,” said Mary, “what would you do in a [[house]] full of
 strangers, without me or mamma to speak and act for you—with a parcel
 of children, besides yourself, to attend to; and no one to look to for
 advice? You would not even know what clothes to put on.”
@@ -449,15 +453,15 @@ approached—a sudden anguish seemed to swell my heart. My dear friends
 looked so sad, and spoke so very kindly, that I could scarcely keep my
 eyes from overflowing: but I still affected to be gay. I had taken my
 last ramble with Mary on the moors, my last walk in the [[motifs/garden|garden]], and
-round the house; I had fed, with her, our pet pigeons for the last
+round the [[house]]; I had fed, with her, our pet pigeons for the last
 [[motifs/time|time]]—the pretty creatures that we had tamed to peck their food from our
 hands: I had given a farewell stroke to all their silky backs as they
 crowded in my lap. I had tenderly kissed my own peculiar favourites,
 the pair of [[motifs/snow|snow]]-white fantails; I had played my last tune on the old
-familiar piano, and sung my last song to papa: not the last, I hoped,
+familiar piano, and sung my last [[Song|song]] to papa: not the last, I hoped,
 but the last for what appeared to me a very long [[motifs/time|time]]. And, perhaps,
 when I did these things again it would be with different feelings:
-circumstances might be changed, and this house might never be my
+circumstances might be changed, and this [[house]] might never be my
 settled [[motifs/home|home]] again. My dear little friend, the kitten, would certainly
 be changed: she was already growing a fine cat; and when I returned,
 even for a hasty visit at Christmas, would, most likely, have forgotten
@@ -467,7 +471,7 @@ purring herself to [[motifs/sleep|sleep]] in my lap, it was with a feeling of sa
 could not easily disguise. Then at bed-[[motifs/time|time]], when I retired with Mary
 to our quiet little chamber, where already my drawers were cleared out
 and my share of the bookcase was empty—and where, hereafter, she would
-have to [[motifs/sleep|sleep]] alone, in dreary [[concepts/solitude|solitude]], as she expressed it—my heart
+have to [[motifs/sleep|sleep]] [[Alone|alone]], in dreary [[concepts/solitude|solitude]], as she expressed it—my heart
 sank more than ever: I felt as if I had been selfish and wrong to
 persist in leaving her; and when I knelt once more beside our little
 bed, I prayed for a blessing on her and on my parents more fervently
@@ -478,8 +482,8 @@ rising, that she had been crying too: but neither of us spoke; and in
 together from the consciousness that we were to part so soon.
 
 But the morning brought a renewal of [[concepts/hope|hope]] and spirits. I was to depart
-early; that the conveyance which took me (a gig, hired from Mr. Smith,
-the draper, grocer, and tea-dealer of the village) might return the
+early; that the conveyance which took me (a gig, hired from Mr. [[smith|Smith]],
+the draper, [[grocer]], and tea-dealer of the village) might return the
 same day. I [[motifs/rose|rose]], washed, dressed, swallowed a hasty breakfast,
 received the fond embraces of my father, mother, and sister, kissed the
 cat—to the great scandal of Sally, the maid—shook hands with her,
@@ -490,7 +494,7 @@ me, and waving their adieux. I returned their salute, and prayed God to
 bless them from my heart: we descended the [[motifs/hill|hill]], and I could see them
 no more.
 
-“It’s a coldish mornin’ for you, Miss Agnes,” observed Smith; “and a
+“It’s a coldish mornin’ for you, Miss Agnes,” observed [[smith|Smith]]; “and a
 darksome ’un too; but we’s happen get to yon spot afore there come much
 rain to signify.”
 
@@ -529,7 +533,7 @@ pleasure, to the contemplation of the new life upon which I was
 entering. But though it was not far past the middle of September, the
 heavy clouds and strong north-easterly [[motifs/wind|wind]] combined to render the day
 extremely cold and dreary; and the [[motifs/journey|journey]] seemed a very long one, for,
-as Smith observed, the roads were “very heavy”; and certainly, his
+as [[smith|Smith]] observed, the roads were “very heavy”; and certainly, his
 [[motifs/horse|horse]] was very heavy too: it crawled up the hills, and crept down them,
 and only condescended to shake its sides in a trot where the [[motifs/road|road]] was
 at a dead level or a very gentle slope, which was rarely the case in
@@ -540,7 +544,7 @@ carriage-[[motifs/road|road]], with the green lawn on each side, studded with yo
 trees, and approached the new but stately mansion of Wellwood, rising
 above its mushroom poplar-groves, my heart failed me, and I wished it
 were a mile or two farther off. For the first [[motifs/time|time]] in my life I must
-stand alone: there was no retreating now. I must enter that house, and
+stand [[Alone|alone]]: there was no retreating now. I must enter that [[house]], and
 introduce myself among its strange inhabitants. But how was it to be
 done? True, I was near nineteen; but, thanks to my retired life and the
 protecting care of my mother and sister, I [[motifs/well|well]] knew that many a girl
@@ -583,7 +587,7 @@ hers, for I really could _not_ converse. In fact, my attention was
 almost wholly absorbed in my dinner: not from ravenous appetite, but
 from distress at the toughness of the beefsteaks, and the numbness of
 my hands, almost palsied by their five-hours’ exposure to the bitter
-[[motifs/wind|wind]]. I would gladly have eaten the potatoes and let the meat alone,
+[[motifs/wind|wind]]. I would gladly have eaten the potatoes and let the meat [[Alone|alone]],
 but having got a large piece of the latter on to my plate, I could not
 be so impolite as to leave it; so, after many awkward and unsuccessful
 attempts to cut it with the knife, or tear it with the fork, or pull it
@@ -636,7 +640,7 @@ that I coveted more than all the rest—but with her I had nothing to do.
 
 
 I talked to my little pupils as [[motifs/well|well]] as I could, and tried to render
-myself agreeable; but with little success I [[concepts/fear|fear]], for their mother’s
+myself agreeable; but with little [[success]] I [[concepts/fear|fear]], for their mother’s
 presence kept me under an unpleasant restraint. They, however, were
 remarkably free from shyness. They seemed bold, lively children, and I
 hoped I should soon be on friendly terms with them—the little boy
@@ -787,7 +791,7 @@ for that generous, noble spirit his mother talked of; though I could
 see he was not without a certain degree of quickness and penetration,
 when he chose to exert it.
 
-When we re-entered the house it was nearly tea-[[motifs/time|time]]. Master Tom told me
+When we re-entered the [[house]] it was nearly tea-[[motifs/time|time]]. Master Tom told me
 that, as papa was from [[motifs/home|home]], he and I and Mary Ann were to have tea
 with mamma, for a treat; for, on such occasions, she always dined at
 luncheon-[[motifs/time|time]] with them, instead of at six o’[[motifs/clock|clock]]. Soon after tea,
@@ -859,7 +863,7 @@ you see how Miss Bloomfield has soiled her frock? and that Master
 Bloomfield’s socks are quite wet? and both of them without gloves?
 Dear, dear! Let me _request_ that in future you will keep them _decent_
 at least!” so saying, he turned away, and continued his ride up to the
-house. This was Mr. Bloomfield. I was surprised that he should nominate
+[[house]]. This was Mr. Bloomfield. I was surprised that he should nominate
 his children Master and Miss Bloomfield; and still more so, that he
 should speak so uncivilly to me, their governess, and a perfect
 stranger to himself. Presently the bell rang to summon us in. I dined
@@ -925,7 +929,7 @@ suspending his knife and fork in astonishment.
 
 “No. I told the cook to get some fish—I did not particularize what.”
 
-“[[motifs/well|Well]], that beats everything! A lady professes to keep house, and
+“[[motifs/well|Well]], that beats everything! A lady professes to keep [[house]], and
 doesn’t even know what fish is for dinner! professes to order fish, and
 doesn’t specify what!”
 
@@ -1060,7 +1064,7 @@ to my great joy, he would have the sense to see that his wisest policy
 was to finish his tasks, and go out and amuse himself till I and his
 sisters came to join him; which frequently was not at all, for Mary Ann
 seldom followed his example in this particular: she apparently
-preferred rolling on the floor to any other amusement: down she would
+preferred [[rolling]] on the floor to any other amusement: down she would
 drop like a leaden weight; and when I, with great difficulty, had
 succeeded in rooting her thence, I had still to hold her up with one
 arm, while with the other I held the book from which she was to read or
@@ -1132,7 +1136,7 @@ of me, either.”
 
 On another occasion, I pretended to forget the whole affair; and talked
 and played with her as usual, till [[motifs/night|night]], when I put her to bed; then
-bending over her, while she lay all smiles and good humour, just before
+bending over her, while she lay all smiles and good [[Humour|humour]], just before
 departing, I said, as cheerfully and kindly as before—“Now, Mary Ann,
 just tell me that word before I kiss you good-[[motifs/night|night]]. You are a good
 girl now, and, of course, you will say it.”
@@ -1144,7 +1148,7 @@ girl now, and, of course, you will say it.”
 “[[motifs/well|Well]], I don’t care.”
 
 In vain I expressed my sorrow; in vain I lingered for some symptom of
-contrition; she really “didn’t care,” and I left her alone, and in
+contrition; she really “didn’t care,” and I left her [[Alone|alone]], and in
 darkness, wondering most of all at this last proof of insensate
 stubbornness. In _my_ [[motifs/childhood|childhood]] I could not imagine a more afflictive
 punishment than for my mother to refuse to kiss me at [[motifs/night|night]]: the very
@@ -1274,7 +1278,7 @@ without the aid of the superior’s more potent authority; which, either
 from [[concepts/indolence|indolence]], or the [[concepts/fear|fear]] of becoming unpopular with the said
 rebellious gang, the latter refuses to give. I can conceive few
 situations more harassing than that wherein, however you may long for
-success, however you may labour to fulfil your duty, your efforts are
+[[success]], however you may labour to fulfil your duty, your efforts are
 baffled and set at nought by those beneath you, and unjustly censured
 and misjudged by those above.
 
@@ -1314,7 +1318,7 @@ in my throat, in the vain attempt to reason them out of it. I had got
 Tom pinned up in a corner, whence, I told him, he should not escape
 till he had done his appointed task. Meantime, Fanny had possessed
 herself of my work-bag, and was rifling its contents—and spitting into
-it besides. I told her to let it alone, but to no purpose, of course.
+it besides. I told her to let it [[Alone|alone]], but to no purpose, of course.
 “Burn it, Fanny!” cried Tom: and _this_ command she hastened to obey. I
 sprang to snatch it from the [[motifs/fire|fire]], and Tom darted to the door. “Mary
 Ann, throw her desk out of the [[motifs/window|window]]!” cried he: and my precious desk,
@@ -1323,7 +1327,7 @@ valuables, was about to be precipitated from the three-storey [[motifs/window|wi
 flew to rescue it. Meanwhile Tom had left the room, and was rushing
 down the stairs, followed by Fanny. Having secured my desk, I ran to
 catch them, and Mary Ann came scampering after. All three escaped me,
-and ran out of the house into the [[motifs/garden|garden]], where they plunged about in
+and ran out of the [[house]] into the [[motifs/garden|garden]], where they plunged about in
 the [[motifs/snow|snow]], shouting and screaming in exultant glee.
 
 What must I do? If I followed them, I should probably be unable to
@@ -1359,7 +1363,7 @@ better control over ’em than that!—Now, there they are—gone upstairs
 with their nasty snowy feet! Do go after ’em and see them made decent,
 for heaven’s sake!”
 
-That gentleman’s mother was then staying in the house; and, as I
+That gentleman’s mother was then staying in the [[house]]; and, as I
 ascended the stairs and passed the drawing-room door, I had the
 satisfaction of hearing the old lady declaiming aloud to her
 daughter-in-law to this effect (for I could only distinguish the most
@@ -1416,7 +1420,7 @@ absurdly than ever their mother had done.
 
 I confess I was somewhat troubled at this change: I feared the
 consequences of her displeasure, and even made some efforts to recover
-the ground I had lost—and with better apparent success than I could
+the ground I had lost—and with better apparent [[success]] than I could
 have anticipated. At one [[motifs/time|time]], I, merely in common civility, asked
 after her cough; immediately her long visage relaxed into a smile, and
 she favoured me with a particular [[concepts/history|history]] of that and her other
@@ -1435,10 +1439,10 @@ of Scripture, misquoted or misapplied, and religious exclamations so
 redolent of the ludicrous in the style of delivery and manner of
 bringing in, if not in the expressions themselves, that I decline
 repeating them, she withdrew; tossing her large head in high
-good-humour—with herself at least—and left me hoping that, after all,
+good-[[Humour|humour]]—with herself at least—and left me hoping that, after all,
 she was rather weak than wicked.
 
-At her next visit to Wellwood House, I went so far as to say I was glad
+At her next visit to Wellwood [[house|House]], I went so far as to say I was glad
 to see her looking so [[motifs/well|well]]. The effect of this was magical: the words,
 intended as a mark of civility, were received as a flattering
 compliment; her countenance brightened up, and from that moment she
@@ -1456,7 +1460,7 @@ dislike—chiefly shown by her in secret detractions and calumniations;
 by the other, in an excess of frigid formality in her demeanour; and no
 fawning flattery of the elder could thaw away the wall of ice which the
 younger interposed between them. But with her son, the old lady had
-better success: he would listen to all she had to say, provided she
+better [[success]]: he would listen to all she had to say, provided she
 could soothe his fretful temper, and refrain from irritating him by her
 own asperities; and I have reason to believe that she considerably
 strengthened his prejudice against me. She would tell him that I
@@ -1491,7 +1495,7 @@ not go out; but, by some amazing good fortune, they had all finished
 their lessons, and yet abstained from running down to tease their
 parents—a trick that annoyed me greatly, but which, on rainy days, I
 seldom could prevent their doing; because, below, they found novelty
-and amusement—especially when visitors were in the house; and their
+and amusement—especially when visitors were in the [[house]]; and their
 mother, though she bid me keep them in the schoolroom, would never
 chide them for leaving it, or trouble herself to send them back. But
 this day they appeared satisfied with their present abode, and what is
@@ -1531,7 +1535,7 @@ without a word of reproof!”
 “I didn’t think they were doing any harm.”
 
 “Any harm! Why, look there! Just look at that carpet, and see—was there
-ever anything like it in a Christian house before? No [[concepts/wonder|wonder]] your room
+ever anything like it in a Christian [[house]] before? No [[concepts/wonder|wonder]] your room
 is not fit for a pigsty—no [[concepts/wonder|wonder]] your pupils are worse than a litter
 of pigs!—no [[concepts/wonder|wonder]]—oh! I declare, it puts me quite past my patience”
 and he departed, shutting the door after him with a bang that made the
@@ -1540,7 +1544,7 @@ children laugh.
 “It puts me quite past my patience too!” muttered I, getting up; and,
 seizing the poker, I dashed it repeatedly into the cinders, and stirred
 them up with unwonted energy; thus easing my irritation under pretence
-of mending the [[motifs/fire|fire]].
+of [[mending]] the [[motifs/fire|fire]].
 
 After this, Mr. Bloomfield was continually looking in to see if the
 schoolroom was in order; and, as the children were continually
@@ -1573,7 +1577,7 @@ his mouth almost too full for speech. “There now, Miss Grey! you see
 I’ve got my supper in spite of you: and I haven’t picked up a single
 thing!”
 
-The only person in the house who had any real sympathy for me was the
+The only person in the [[house]] who had any real sympathy for me was the
 [[characters/nurse|nurse]]; for she had suffered like afflictions, though in a smaller
 degree; as she had not the task of teaching, nor was she so responsible
 for the conduct of her charge.
@@ -1650,7 +1654,7 @@ and waspish temper.
 Mr. Robson likewise encouraged Tom’s propensity to persecute the lower
 creation, both by precept and example. As he frequently came to course
 or shoot over his brother-in-law’s grounds, he would bring his
-favourite dogs with him; and he treated them so brutally that, poor as
+favourite [[dogs]] with him; and he treated them so brutally that, poor as
 I was, I would have given a sovereign any day to see one of them bite
 him, provided the animal could have done it with impunity. Sometimes,
 when in a very complacent mood, he would go a-[[motifs/birds|birds]]’-nesting with the
@@ -1660,7 +1664,7 @@ shown them the evil of this pastime, and hoped, in [[motifs/time|time]], to brin
 to some general sense of justice and humanity; but ten minutes’
 [[motifs/birds|birds]]’-nesting with uncle Robson, or even a laugh from him at some
 relation of their former barbarities, was sufficient at once to destroy
-the effect of my whole elaborate course of reasoning and persuasion.
+the effect of my whole elaborate course of reasoning and [[Persuasion|persuasion]].
 Happily, however, during that [[motifs/spring|spring]], they never, but once, got
 anything but empty nests, or eggs—being too impatient to leave them
 till the [[motifs/birds|birds]] were hatched; that once, Tom, who had been with his
@@ -1712,9 +1716,9 @@ Juno. Mr. Robson leant upon his gun, and laughed excessively at the
 violence of his nephew’s passion, and the bitter maledictions and
 opprobrious epithets he heaped upon me. “[[motifs/well|Well]], you _are_ a good ’un!”
 exclaimed he, at length, taking up his weapon and proceeding towards
-the house. “Damme, but the lad has some spunk in him, too. Curse me, if
+the [[house]]. “Damme, but the lad has some spunk in him, too. Curse me, if
 ever I saw a nobler little scoundrel than that. He’s beyond petticoat
-government already: by God! he defies mother, granny, governess, and
+[[government]] already: by God! he defies mother, granny, governess, and
 all! Ha, ha, ha! Never mind, Tom, I’ll get you another brood
 to-morrow.”
 
@@ -1728,7 +1732,7 @@ to-morrow.”
 
 “Humph!” replied he, and having honoured me with a broad stare—which,
 contrary to his expectations, I sustained without flinching—he turned
-away with an air of supreme contempt, and stalked into the house. Tom
+away with an air of supreme contempt, and stalked into the [[house]]. Tom
 next went to tell his mamma. It was not her way to say much on any
 subject; but, when she next saw me, her aspect and demeanour were
 doubly dark and chilled. After some casual remark about the weather,
@@ -1767,7 +1771,7 @@ of words I ever exchanged with her at one [[motifs/time|time]], since the day of
 first arrival.
 
 But Mr. Robson and old Mrs. Bloomfield were not the only guests whose
-coming to Wellwood House annoyed me; every visitor disturbed me more or
+coming to Wellwood [[house|House]] annoyed me; every visitor disturbed me more or
 less; not so much because they neglected me (though I did feel their
 conduct strange and disagreeable in that respect), as because I found
 it impossible to keep my pupils away from them, as I was repeatedly
@@ -1818,7 +1822,7 @@ care on my part.
 Unshaken firmness, devoted diligence, unwearied perseverance, unceasing
 care, were the very qualifications on which I had secretly prided
 myself; and by which I had hoped in [[motifs/time|time]] to overcome all difficulties,
-and obtain success at last. I wished to say something in my own
+and obtain [[success]] at last. I wished to say something in my own
 justification; but in attempting to speak, I felt my voice falter; and
 rather than testify any emotion, or suffer the [[motifs/tears|tears]] to overflow that
 were already gathering in my eyes, I chose to keep [[motifs/silence|silence]], and bear
@@ -1852,11 +1856,11 @@ THE PARSONAGE AGAIN
 For a few months I remained peaceably at [[motifs/home|home]], in the quiet enjoyment
 of liberty and rest, and genuine [[concepts/friendship|friendship]], from all of which I had
 fasted so long; and in the earnest prosecution of my studies, to
-recover what I had lost during my stay at Wellwood House, and to lay in
+recover what I had lost during my stay at Wellwood [[house|House]], and to lay in
 new stores for future use. My father’s health was still very infirm,
 but not materially worse than when I last saw him; and I was glad I had
 it in my power to cheer him by my return, and to amuse him with singing
-his favourite songs.
+his favourite [[songs]].
 
 No one triumphed over my failure, or said I had better have taken his
 or her advice, and quietly stayed at [[motifs/home|home]]. All were glad to have me
@@ -1864,12 +1868,12 @@ back again, and lavished more kindness than ever upon me, to make up
 for the sufferings I had undergone; but not one would touch a shilling
 of what I had so cheerfully earned and so carefully saved, in the [[concepts/hope|hope]]
 of sharing it with them. By dint of pinching here, and scraping there,
-our debts were already nearly paid. Mary had had good success with her
+our debts were already nearly paid. Mary had had good [[success]] with her
 drawings; but our father had insisted upon _her_ likewise keeping all
 the produce of her industry to herself. All we could spare from the
 supply of our humble wardrobe and our little casual expenses, he
 directed us to put into the savings’-bank; saying, we knew not how soon
-we might be dependent on that alone for support: for he felt he had not
+we might be dependent on that [[Alone|alone]] for support: for he felt he had not
 long to be with us, and what would become of our mother and us when he
 was gone, God only knew!
 
@@ -1910,7 +1914,7 @@ tone and pleasant smile, that made my father smile again, less sadly
 and less transiently than was his wont.
 
 “Mamma,” said I, as soon as I could find an opportunity of speaking
-with her alone, “my money is but little, and cannot last long; if I
+with her [[Alone|alone]], “my money is but little, and cannot last long; if I
 could increase it, it would lessen papa’s anxiety, on one subject at
 least. I cannot draw like Mary, and so the best thing I could do would
 be to look out for another situation.”
@@ -2009,7 +2013,7 @@ able to give satisfaction; but in the engagement of governesses she
 considered those things as but subordinate points; as being situated in
 the neighbourhood of O——, she could get masters to supply any
 deficiencies in that respect: but, in her opinion, next to
-unimpeachable morality, a mild and cheerful temper and obliging
+unimpeachable [[morality]], a mild and cheerful temper and obliging
 disposition were the most essential requisities.
 
 My mother did not relish this at all, and now made many objections to
@@ -2030,7 +2034,7 @@ to myself and all my acquaintances. But this rendered it only the more
 piquant to me. I had now, in some measure, got rid of the _mauvaise
 honte_ that had formerly oppressed me so much; there was a pleasing
 excitement in the idea of entering these unknown regions, and making my
-way alone among its strange inhabitants. I now flattered myself I was
+way [[Alone|alone]] among its strange inhabitants. I now flattered myself I was
 going to see something in the world: Mr. Murray’s residence was near a
 large town, and not in a manufacturing district, where the people had
 nothing to do but to make money; his rank from what I could gather,
@@ -2095,7 +2099,7 @@ be the park gates. Then we proceeded along a smoother [[motifs/road|road]], when
 occasionally, I perceived some huge, hoary mass gleaming through the
 darkness, which I took to be a portion of a [[motifs/snow|snow]]-clad tree. After a
 considerable [[motifs/time|time]] we paused again, before the stately portico of a
-large house with long windows descending to the ground.
+large [[house]] with long windows descending to the ground.
 
 I [[motifs/rose|rose]] with some difficulty from under the superincumbent snowdrift,
 and alighted from the carriage, expecting that a kind and hospitable
@@ -2193,7 +2197,7 @@ obvious importance, I determined with myself—I must begin with calling
 them Miss and Master. It seemed to me a chilling and unnatural piece of
 punctilio between the children of a family and their instructor and
 daily companion; especially where the former were in their early
-[[motifs/childhood|childhood]], as at Wellwood House; but even there, my calling the little
+[[motifs/childhood|childhood]], as at Wellwood [[house|House]]; but even there, my calling the little
 Bloomfields by their simple names had been regarded as an offensive
 liberty: as their parents had taken care to show me, by carefully
 designating them _Master_ and _Miss_ Bloomfield, &c., in speaking to
@@ -2248,7 +2252,7 @@ told me what a sweet, good boy he was; and then sailed out, with a
 [[concepts/self|self]]-complacent smile upon her face: thinking, no [[concepts/doubt|doubt]], that she had
 done quite enough for the present, and had been delightfully
 condescending into the bargain. Her children evidently held the same
-opinion, and I alone thought otherwise.
+opinion, and I [[Alone|alone]] thought otherwise.
 
 After this she looked in upon me once or twice, during the absence of
 my pupils, to enlighten me concerning my duties towards them. For the
@@ -2275,7 +2279,7 @@ or some of them, says is better than the putting on of apparel—you will
 know the passage to which I allude, for you are a clergyman’s daughter.
 But I have no [[concepts/doubt|doubt]] you will give satisfaction in this respect as [[motifs/well|well]]
 as the rest. And remember, on all occasions, when any of the young
-people do anything improper, if persuasion and gentle remonstrance will
+people do anything improper, if [[Persuasion|persuasion]] and gentle remonstrance will
 not do, let one of the others come and tell me; for I can speak to them
 more plainly than it would be proper for you to do. And make them as
 happy as you can, Miss Grey, and I dare say you will do very [[motifs/well|well]].”
@@ -2315,7 +2319,7 @@ attached to me as it was possible for _her_ to be to one of my
 character and position: for she seldom lost sight, for above half an
 hour at a [[motifs/time|time]], of the fact of my being a hireling and a poor curate’s
 daughter. And yet, upon the whole, I believe she respected me more than
-she herself was aware of; because I was the only person in the house
+she herself was aware of; because I was the only person in the [[house]]
 who steadily professed good principles, habitually spoke the [[concepts/truth|truth]], and
 generally endeavoured to make inclination bow to duty; and this I say,
 not, of course, in commendation of myself, but to show the unfortunate
@@ -2396,8 +2400,8 @@ keep the situation, I must even let Miss Matilda go on in her own way.
 <span class="atom-split" data-atom="chapter_07--part_04" data-title="Agnes Grey — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/home,motif/time,motif/well,concept/conscience,concept/education,concept/pride,concept/vanity,character/agnes_grey"></span>
 
 
-When her lessons were over, however, her ill-humour was generally over
-too: while riding her spirited pony, or romping with the dogs or her
+When her lessons were over, however, her ill-[[Humour|humour]] was generally over
+too: while riding her spirited pony, or romping with the [[dogs]] or her
 brothers and sister, but especially with her dear brother John, she was
 as happy as a lark. As an animal, Matilda was all right, full of life,
 vigour, and activity; as an intelligent being, she was barbarously
@@ -2479,7 +2483,7 @@ little tormentor was despatched to school; his father declaring that
 outrageously, and his governess could make no hand of him at all.”
 
 A few more observations about Horton Lodge and its ongoings, and I have
-done with dry description for the present. The house was a very
+done with dry description for the present. The [[house]] was a very
 respectable one; superior to Mr. Bloomfield’s, both in age, size, and
 magnificence: the [[motifs/garden|garden]] was not so tastefully laid out; but instead of
 the smooth-shaven lawn, the young trees guarded by palings, the grove
@@ -2528,7 +2532,7 @@ arrangements of the day, I should find it a very difficult matter. I
 had all my meals in the schoolroom with my pupils, at such times as
 suited their fancy: sometimes they would ring for dinner before it was
 half cooked; sometimes they would keep it waiting on the table for
-above an hour, and then be out of humour because the potatoes were
+above an hour, and then be out of [[Humour|humour]] because the potatoes were
 cold, and the gravy covered with cakes of solid fat; sometimes they
 would have tea at four; frequently, they would [[motifs/storm|storm]] at the servants
 because it was not in precisely at five; and when these orders were
@@ -2596,7 +2600,7 @@ be quite sure her approbation was sincere. She was very obliging,
 quiet, and peaceable in the main, but there were some things that put
 her out of temper: they did not much care for that, to be sure, but
 still it was better to keep her in tune; as when she was in a good
-humour she would talk to them, and be very agreeable and amusing
+[[Humour|humour]] she would talk to them, and be very agreeable and amusing
 sometimes, in her way; which was quite different to mamma’s, but still
 very [[motifs/well|well]] for a change. She had her own opinions on every subject, and
 kept steadily to them—very tiresome opinions they often were; as she
@@ -2698,7 +2702,7 @@ and stupid, and won’t let me read.”
 
 “No; only middling.”
 
-“Oh, [[concepts/mercy|mercy]]! what a wretch! What sort of a house is it?”
+“Oh, [[concepts/mercy|mercy]]! what a wretch! What sort of a [[house]] is it?”
 
 “A quiet little vicarage, with an ivy-clad porch, an old-fashioned
 [[motifs/garden|garden]], and—”
@@ -2802,7 +2806,7 @@ anything like it in all your life. The decorations, the entertainment,
 the supper, the music were indescribable! and then the guests! There
 were two noblemen, three baronets, and five titled ladies, and other
 ladies and gentlemen innumerable. The ladies, of course, were of no
-consequence to me, except to put me in a good humour with myself, by
+consequence to me, except to put me in a good [[Humour|humour]] with myself, by
 showing how ugly and awkward most of them were; and the best, mamma
 told me,—the most transcendent beauties among them, were nothing to me.
 As for me, Miss Grey—I’m so _sorry_ you didn’t see me! I was
@@ -2823,7 +2827,7 @@ pearls!”
 “I have no [[concepts/doubt|doubt]] you looked very charming: but should that delight you
 so very much?”
 
-“Oh, no!—not that alone: but, then, I was so much admired; and I made
+“Oh, no!—not that [[Alone|alone]]: but, then, I was so much admired; and I made
 so _many_ conquests in that one [[motifs/night|night]]—you’d be astonished to hear—”
 
 “But what good will they do you?”
@@ -3108,7 +3112,7 @@ friends.”
 I am sure, will ever take a fancy to you.”
 
 “I don’t care: I’m not always grabbing after money, like you and mamma.
-If my husband is able to keep a few good horses and dogs, I shall be
+If my husband is able to keep a few good horses and [[dogs]], I shall be
 quite satisfied; and all the rest may go to the devil!”
 
 “[[motifs/well|Well]], if you use such shocking expressions, I’m sure no real gentleman
@@ -3141,7 +3145,7 @@ at my own disposal than I had ever been blessed with before, since I
 had taken upon me the governess’s yoke; which [[motifs/time|time]] I devoted partly to
 correspondence with my friends, partly to reading, study, and the
 practice of music, singing, &c., partly to wandering in the grounds or
-adjacent fields, with my pupils if they wanted me, alone if they did
+adjacent fields, with my pupils if they wanted me, [[Alone|alone]] if they did
 not.
 
 Often, when they had no more agreeable occupation at hand, the Misses
@@ -3152,12 +3156,12 @@ enjoy the purer pleasure of making the poor people happy with their
 cheering presence and their occasional gifts, so easily bestowed, so
 thankfully received. Sometimes, I was called upon to accompany one or
 both of the sisters in these visits; and sometimes I was desired to go
-alone, to fulfil some promise which they had been more ready to make
+[[Alone|alone]], to fulfil some promise which they had been more ready to make
 than to perform; to carry some small donation, or read to one who was
 sick or seriously disposed: and thus I made a few acquaintances among
 the cottagers; and, occasionally, I went to see them on my own account.
 
-I generally had more satisfaction in going alone than with either of
+I generally had more satisfaction in going [[Alone|alone]] than with either of
 the young ladies; for they, chiefly owing to their defective [[concepts/education|education]],
 comported themselves towards their inferiors in a manner that was
 highly disagreeable for me to witness. They never, in thought,
@@ -3201,7 +3205,7 @@ Brown, a widow, whose son was at work all day in the fields, and who
 was afflicted with an inflammation in the eyes; which had for some [[motifs/time|time]]
 incapacitated her from reading: to her own great grief, for she was a
 woman of a serious, thoughtful turn of mind. I accordingly went, and
-found her alone, as usual, in her little, close, dark cottage, redolent
+found her [[Alone|alone]], as usual, in her little, close, dark cottage, redolent
 of smoke and confined air, but as tidy and clean as she could make it.
 She was seated beside her little [[motifs/fire|fire]] (consisting of a few red cinders
 and a bit of stick), busily knitting, with a small sackcloth cushion at
@@ -3278,7 +3282,7 @@ Hall.”
 bodies a deal ofter nor Maister Bligh, or th’ Rector ever did; an’ it’s
 [[motifs/well|well]] he does, for he’s always welcome: we can’t say as much for th’
 Rector—there is ’at says they’re fair feared on him. When he comes into
-a house, they say he’s sure to find summut wrong, and begin a-calling
+a [[house]], they say he’s sure to find summut wrong, and begin a-calling
 ’em as soon as he crosses th’ doorstuns: but maybe he thinks it his
 duty like to tell ’em what’s wrong. And very oft he comes o’ purpose to
 reprove folk for not coming to church, or not kneeling an’ standing
@@ -3316,7 +3320,7 @@ so bad wi’ th’ rheumatic and all.
 
 “But he says, ‘It’ll do your rheumatiz good to hobble to church:
 there’s nothing like exercise for the rheumatiz. You can walk about the
-house [[motifs/well|well]] enough; why can’t you walk to church? The fact is,’ says he,
+[[house]] [[motifs/well|well]] enough; why can’t you walk to church? The fact is,’ says he,
 ‘you’re getting too fond of your ease. It’s always easy to find excuses
 for shirking one’s duty.’
 
@@ -3426,7 +3430,7 @@ such as me.’
 “He seemed taken aback at that; but he would fain persuade me ’at the
 Rector was only in jest; and when that wouldn’t do, he says, ‘[[motifs/well|Well]],
 [[characters/nancy|Nancy]], you shouldn’t think so much about it: Mr. Hatfield was a little
-out of humour just then: you know we’re none of us perfect—even Moses
+out of [[Humour|humour]] just then: you know we’re none of us perfect—even Moses
 spoke unadvisedly with his lips. But now sit down a minute, if you can
 spare the [[motifs/time|time]], and tell me all your doubts and fears; and I’ll try to
 remove them.’
@@ -3582,7 +3586,7 @@ him it was, an’ we was ill set to get more: but you know, mum, I didn’t
 think o’ him helping us; but, howsever, he sent us a sack o’ coals next
 day; an’ we’ve had good fires ever sin’: and a great blessing it is,
 this [[motifs/winter|winter]] [[motifs/time|time]]. But that’s his way, Miss Grey: when he comes into a
-poor [[concepts/body|body]]’s house a-seein’ sick folk, he like notices what they most
+poor [[concepts/body|body]]’s [[house]] a-seein’ sick folk, he like notices what they most
 stand i’ need on; an’ if he thinks they can’t readily get it therseln,
 he never says nowt about it, but just gets it for ’em. An’ it isn’t
 everybody ’at ’ud do that, ’at has as little as he has: for you know,
@@ -3705,7 +3709,7 @@ which had been absent all day. I comforted her with as many anecdotes
 of that animal’s roving propensities as I could recollect. “I’m feared
 o’ th’ gamekeepers,” said she: “that’s all ’at I think on. If th’ young
 gentlemen had been at [[motifs/home|home]], I should a’ thought they’d been setting
-their dogs at her, an’ worried her, poor thing, as they did _many_ a
+their [[dogs]] at her, an’ worried her, poor thing, as they did _many_ a
 poor thing’s cat; but I haven’t that to be feared on now.” [[characters/nancy|Nancy]]’s eyes
 were better, but still far from [[motifs/well|well]]: she had been trying to make a
 [[characters/sunday|Sunday]] shirt for her son, but told me she could only bear to do a
@@ -3809,10 +3813,10 @@ assurance that I had only done for her what she would have done for me,
 if she had been in my place and I in hers. I hastened back to Horton
 Lodge, where, having entered the schoolroom, I found the tea-table all
 in confusion, the tray flooded with slops, and Miss Matilda in a most
-ferocious humour.
+ferocious [[Humour|humour]].
 
 “Miss Grey, whatever have you been about? I’ve had tea half an hour
-ago, and had to make it myself, and drink it all alone! I wish you
+ago, and had to make it myself, and drink it all [[Alone|alone]]! I wish you
 would come in sooner!”
 
 “I’ve been to see [[characters/nancy|Nancy]] Brown. I thought you would not be back from
@@ -3867,7 +3871,7 @@ or both of his sisters, and any gentlemen visitors they might have.
 
 Whether I walked with the young ladies or rode with their parents,
 depended upon their own capricious will: if they chose to “take” me, I
-went; if, for reasons best known to themselves, they chose to go alone,
+went; if, for reasons best known to themselves, they chose to go [[Alone|alone]],
 I took my seat in the carriage. I liked walking better, but a sense of
 reluctance to obtrude my presence on anyone who did not [[motifs/desire|desire]] it,
 always kept me passive on these and similar occasions; and I never
@@ -3894,7 +3898,7 @@ or regardless of their presence, as if I were wholly absorbed in my own
 reflections, or the contemplation of surrounding objects; or, if I
 lingered behind, it was some bird or insect, some tree or flower, that
 attracted my attention, and having duly examined that, I would pursue
-my walk alone, at a leisurely pace, until my pupils had bidden adieu to
+my walk [[Alone|alone]], at a leisurely pace, until my pupils had bidden adieu to
 their companions and turned off into the quiet private [[motifs/road|road]].
 
 One such occasion I particularly [[motifs/well|well]] remember; it was a lovely
@@ -3906,7 +3910,7 @@ the Misses Murray, who, of course, contrived to join them. Such a party
 was highly agreeable to Rosalie; but not finding it equally suitable to
 my taste, I presently fell back, and began to botanise and entomologise
 along the green banks and budding hedges, till the company was
-considerably in advance of me, and I could hear the sweet song of the
+considerably in advance of me, and I could hear the sweet [[Song|song]] of the
 happy lark; then my spirit of [[concepts/misanthropy|misanthropy]] began to melt away beneath
 the soft, pure air and genial sunshine; but sad thoughts of early
 [[motifs/childhood|childhood]], and yearnings for departed joys, or for a brighter future
@@ -3948,7 +3952,7 @@ for him.
 <span class="atom-split" data-atom="chapter_13--part_02" data-title="Agnes Grey — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/desire,motif/flowers,motif/home,motif/journey,motif/leaves,motif/prayer,motif/road,motif/time,concept/hope,histref/bible,character/agnes_grey,character/nancy"></span>
 
 
-“Your young ladies have left you alone,” said he.
+“Your young ladies have left you [[Alone|alone]],” said he.
 
 “Yes, they are occupied with more agreeable company.”
 
@@ -4016,10 +4020,10 @@ now only in the commencement of your [[motifs/journey|journey]].”
 will to be useful.”
 
 We now approached a stile communicating with a footpath that conducted
-to a farm-house, where, I suppose, Mr. Weston purposed to make himself
+to a farm-[[house]], where, I suppose, Mr. Weston purposed to make himself
 “useful;” for he presently took leave of me, crossed the stile, and
 traversed the path with his usual firm, elastic tread, leaving me to
-ponder his words as I continued my course alone. I had heard before
+ponder his words as I continued my course [[Alone|alone]]. I had heard before
 that he had lost his mother not many months before he came. She then
 was the last and dearest of his early friends; and he had _no home_. I
 pitied him from my heart: I almost wept for sympathy. And this, I
@@ -4111,7 +4115,7 @@ THE RECTOR
 The following day was as fine as the preceding one. Soon after
 breakfast Miss Matilda, having galloped and blundered through a few
 unprofitable lessons, and vengefully thumped the piano for an hour,
-in a terrible humour with both me and it, because her mamma would not
+in a terrible [[Humour|humour]] with both me and it, because her mamma would not
 give her a holiday, had betaken herself to her favourite places of
 resort, the yards, the stables, and the dog-kennels; and Miss Murray
 was gone forth to enjoy a quiet ramble with a new fashionable [[forms/novel|novel]]
@@ -4148,19 +4152,19 @@ _wonder_ you don’t put on your bonnet and go out with the young
 ladies.”
 
 “I think, ma’am, Miss Murray is reading; and Miss Matilda is amusing
-herself with her dogs.”
+herself with her [[dogs]].”
 
 “If you would try to amuse Miss Matilda yourself a little more, I think
-she would not be driven to seek amusement in the companionship of dogs
+she would not be driven to seek amusement in the companionship of [[dogs]]
 and horses and grooms, so much as she is; and if you would be a little
 more cheerful and conversable with Miss Murray, she would not so often
 go wandering in the fields with a book in her hand. However, I don’t
 want to vex you,” added she, seeing, I suppose, that my cheeks burned
 and my hand trembled with some unamiable emotion. “Do, pray, try not to
 be so touchy—there’s no speaking to you else. And tell me if you know
-where Rosalie is gone: and why she likes to be so much alone?”
+where Rosalie is gone: and why she likes to be so much [[Alone|alone]]?”
 
-“She says she likes to be alone when she has a new book to read.”
+“She says she likes to be [[Alone|alone]] when she has a new book to read.”
 
 “But why can’t she read it in the park or the [[motifs/garden|garden]]?—why should she go
 into the fields and lanes? And how is it that that Mr. Hatfield so
@@ -4183,7 +4187,7 @@ seeing that I had put away my drawing materials, and was waiting in the
 doorway for the conclusion of her address.
 
 According to her prognostications, I found Miss Murray in her favourite
-field just without the park; and, unfortunately, not alone; for the
+field just without the park; and, unfortunately, not [[Alone|alone]]; for the
 tall, stately figure of Mr. Hatfield was slowly sauntering by her side.
 
 Here was a poser for me. It was my duty to interrupt the _tête-à-tête_:
@@ -4360,13 +4364,13 @@ them what you like; I would go with you, but I want to finish this
 
 
 volume. I’ll come and meet you when I’ve done it. Be quick, will
-you—and—oh, wait; hadn’t you better read to him a bit? Run to the house
+you—and—oh, wait; hadn’t you better read to him a bit? Run to the [[house]]
 and get some sort of a good book. Anything will do.”
 
 I did as I was desired; but, suspecting something from her hurried
 manner and the suddenness of the request, I just glanced back before I
 quitted the field, and there was Mr. Hatfield about to enter at the
-gate below. By sending me to the house for a book, she had just
+gate below. By sending me to the [[house]] for a book, she had just
 prevented my meeting him on the [[motifs/road|road]].
 
 “Never mind!” thought I, “there’ll be no great harm done. Poor Mark
@@ -4427,7 +4431,7 @@ tell you all he said another [[motifs/time|time]].”
 “But what did _you_ say—I’m more interested in that?”
 
 “I’ll tell you that, too, at some future period. I happened to be in a
-very good humour just then; but, though I was complaisant and gracious
+very good [[Humour|humour]] just then; but, though I was complaisant and gracious
 enough, I took care not to compromise myself in any possible way. But,
 however, the conceited wretch chose to interpret my amiability of
 temper his own way, and at length presumed upon my indulgence so
@@ -4525,7 +4529,7 @@ would be naturally inclined to hate one whose surpassing loveliness has
 so completely estranged my heart from them and blinded me to their
 attractions; and a single hint of the [[concepts/truth|truth]] from me to one of these
 would be sufficient to raise such a talk against you as would seriously
-injure your prospects, and diminish your chance of success with any
+injure your prospects, and diminish your chance of [[success]] with any
 other gentleman you or your mamma might design to entangle.’
 
 “‘What do your mean, sir?’ said I, ready to stamp with passion.
@@ -4608,7 +4612,7 @@ clever, but just enough to make him entertaining; and a man one needn’t
 be ashamed of anywhere, and would not soon grow tired of; and to
 confess the [[concepts/truth|truth]], I rather liked him—better even, of late, than Harry
 Meltham—and he evidently idolised me; and yet, though he came upon me
-all alone and unprepared, I had the wisdom, and the [[concepts/pride|pride]], and the
+all [[Alone|alone]] and unprepared, I had the wisdom, and the [[concepts/pride|pride]], and the
 strength to refuse him—and so scornfully and coolly as I did: I have
 good reason to be proud of that.”
 
@@ -4656,7 +4660,7 @@ liked him after all. I hoped you would have taken him for your beau,
 and left dear Harry to me.”
 
 “Humph! my beau must be an [[characters/adonis|Adonis]] indeed, Matilda, the admired of all
-beholders, if I am to be contented with him alone. I’m sorry to lose
+beholders, if I am to be contented with him [[Alone|alone]]. I’m sorry to lose
 Hatfield, I confess; but the first decent man, or number of men, that
 come to supply his place, will be more than welcome. It’s [[characters/sunday|Sunday]]
 to-morrow—I do [[concepts/wonder|wonder]] how he’ll look, and whether he’ll be able to go
@@ -4667,7 +4671,7 @@ make Mr. Weston do it all.”
 he’s not so soft as that comes to.”
 
 Her sister was slightly offended; but the event proved Matilda was
-right: the disappointed [[archetypes/lover|lover]] performed his pastoral duties as usual.
+right: the disappointed [[archetypes/lover|lover]] performed his [[Pastoral|pastoral]] duties as usual.
 Rosalie, indeed, affirmed he looked very pale and dejected: he might be
 a little paler; but the difference, if any, was scarcely perceptible.
 As for his dejection, I certainly did not hear his laugh ringing from
@@ -4760,7 +4764,7 @@ left them to their merriment and lagged behind, as usual on such
 occasions: I had no relish for walking beside Miss Green or Miss Susan
 like one deaf and dumb, who could neither speak nor be spoken to.
 
-But this [[motifs/time|time]] I was not long alone. It struck me, first, as very odd,
+But this [[motifs/time|time]] I was not long [[Alone|alone]]. It struck me, first, as very odd,
 that just as I was thinking about Mr. Weston he should come up and
 accost me; but afterwards, on due reflection, I thought there was
 nothing odd about it, unless it were the fact of his speaking to me;
@@ -4769,7 +4773,7 @@ that he should be about; and as for my thinking of him, I had been
 doing that, with little intermission, ever since we set out on our
 [[motifs/journey|journey]]; so there was nothing remarkable in that.
 
-“You are alone again, Miss Grey,” said he.
+“You are [[Alone|alone]] again, Miss Grey,” said he.
 
 “Yes.”
 
@@ -4816,7 +4820,7 @@ friends, nor would they think of bestowing such a name on me—they have
 other companions better suited to their tastes.”
 
 “Perhaps you are too wise for them. How do you amuse yourself when
-alone—do you read much?”
+[[Alone|alone]]—do you read much?”
 
 “Reading is my favourite occupation, when I have leisure for it and
 books to read.”
@@ -4901,7 +4905,7 @@ much care; but I thought of the poor man and his one [[motifs/lamb|lamb]], and t
 man with his thousand flocks; and I dreaded I knew not what for Mr.
 Weston, independently of my own blighted hopes.
 
-Right glad was I to get into the house, and find myself alone once more
+Right glad was I to get into the [[house]], and find myself [[Alone|alone]] once more
 in my own room. My first impulse was to sink into the chair beside the
 bed; and laying my head on the pillow, to seek relief in a passionate
 burst of [[motifs/tears|tears]]: there was an imperative craving for such an indulgence;
@@ -5005,7 +5009,7 @@ don’t know what you’ve lost by not looking this way!”
 
 “A bow from me, that would have raised him to the seventh heaven!”
 
-I made no answer. I saw she was out of humour, and I derived a secret
+I made no answer. I saw she was out of [[Humour|humour]], and I derived a secret
 gratification from the fact, not that she was vexed, but that she
 thought she had reason to be so. It made me think my hopes were not
 entirely the offspring of my wishes and [[concepts/imagination|imagination]].
@@ -5040,7 +5044,7 @@ studies, or rather her lessons, for studies they were not, and said,
 “Matilda, I want you to take a walk with me about eleven o’[[motifs/clock|clock]].”
 
 “Oh, I can’t, Rosalie! I have to give orders about my new bridle and
-saddle-cloth, and speak to the rat-catcher about his dogs: Miss Grey
+saddle-cloth, and speak to the rat-catcher about his [[dogs]]: Miss Grey
 must go with you.”
 
 “No, I want you,” said Rosalie; and calling her sister to the [[motifs/window|window]],
@@ -5117,7 +5121,7 @@ a thousand times, and never rest beside her: she might hear her winged
 darling buzzing over and around her; he vainly seeking her, she [[concepts/longing|longing]]
 to be found, but with no power to make her presence known, no voice to
 call him, no wings to follow his flight;—the fly must seek another
-mate, the worm must live and die alone.
+mate, the worm must live and die [[Alone|alone]].
 
 Such were some of my reflections about this period. I might go on
 prosing more and more, I might dive much deeper, and disclose other
@@ -5139,7 +5143,7 @@ she came to tell me her news. Sir Thomas had indeed proposed to her at
 the ball; an event which reflected great credit on her mamma’s
 sagacity, if not upon her skill in contrivance. I rather incline to the
 belief that she had first laid her plans, and then predicted their
-success. The offer had been accepted, of course, and the bridegroom
+[[success]]. The offer had been accepted, of course, and the bridegroom
 elect was coming that day to settle matters with Mr. Murray.
 
 Rosalie was pleased with the thoughts of becoming mistress of Ashby
@@ -5210,7 +5214,7 @@ least. Besides, I don’t care for his letters,” she added,
 contemptuously; “he may write as often as he pleases, and look as great
 a calf as he likes when I meet him; it only amuses me.”
 
-Meantime, young Meltham was pretty frequent in his visits to the house
+Meantime, young Meltham was pretty frequent in his visits to the [[house]]
 or transits past it; and, judging by Matilda’s execrations and
 reproaches, her sister paid more attention to him than civility
 required; in other words, she carried on as animated a flirtation as
@@ -5228,7 +5232,7 @@ was completely beyond my comprehension. Had I seen it depicted in a
 others, I should have deemed it a mistake or an exaggeration; but when
 I saw it with my own eyes, and suffered from it too, I could only
 conclude that excessive [[concepts/vanity|vanity]], like drunkenness, hardens the heart,
-enslaves the faculties, and perverts the feelings; and that dogs are
+enslaves the faculties, and perverts the feelings; and that [[dogs]] are
 not the only creatures which, when gorged to the throat, will yet gloat
 over what they cannot devour, and grudge the smallest morsel to a
 starving brother.
@@ -5245,7 +5249,7 @@ gossip, to what places he was likely to go at such and such a [[motifs/time|time
 whether to baptize a [[archetypes/child|child]], or to visit the aged, the sick, the sad, or
 the dying; and most skilfully she laid her plans accordingly. In these
 excursions she would sometimes go with her sister—whom, by some means,
-she had persuaded or bribed to enter into her schemes—sometimes alone,
+she had persuaded or bribed to enter into her schemes—sometimes [[Alone|alone]],
 never, now, with me; so that I was debarred the pleasure of seeing Mr.
 Weston, or hearing his voice even in conversation with another: which
 would certainly have been a very great pleasure, however hurtful or
@@ -5357,9 +5361,9 @@ be—_almost_ happy, though I might never see him more!”
 I [[concepts/fear|fear]], by this [[motifs/time|time]], the reader is [[motifs/well|well]] nigh disgusted with the folly
 and weakness I have so freely laid before him. I never disclosed it
 then, and would not have done so had my own sister or my mother been
-with me in the house. I was a close and resolute dissembler—in this one
+with me in the [[house]]. I was a close and resolute dissembler—in this one
 case at least. My prayers, my [[motifs/tears|tears]], my wishes, fears, and
-lamentations, were witnessed by myself and heaven alone.
+lamentations, were witnessed by myself and heaven [[Alone|alone]].
 
 When we are harassed by sorrows or anxieties, or long oppressed by any
 powerful feelings which we must keep to ourselves, for which we can
@@ -5371,7 +5375,7 @@ give utterance to those thoughts and feelings in strains less musical,
 perchance, but more appropriate, and therefore more penetrating and
 sympathetic, and, for the [[motifs/time|time]], more soothing, or more powerful to
 rouse and to unburden the oppressed and swollen heart. Before this
-[[motifs/time|time]], at Wellwood House and here, when [[concepts/suffering|suffering]] from [[motifs/home|home]]-sick
+[[motifs/time|time]], at Wellwood [[house|House]] and here, when [[concepts/suffering|suffering]] from [[motifs/home|home]]-sick
 [[concepts/melancholy|melancholy]], I had sought relief twice or thrice at this secret source
 of consolation; and now I flew to it again, with greater avidity than
 ever, because I seemed to need it more. I still preserve those relics
@@ -5504,7 +5508,7 @@ had happened once before, and that, returning through the lanes and
 fields, I often paused to look round me, and walked more slowly than
 was at all necessary—for, though a fine evening, it was not a hot
 one—and, finally, felt a sense of emptiness and disappointment at
-having reached the house without meeting or even catching a distant
+having reached the [[house]] without meeting or even catching a distant
 glimpse of any one, except a few labourers returning from their work.
 
 [[characters/sunday|Sunday]], however, was approaching: I should see him then: for now that
@@ -5526,7 +5530,7 @@ some degree beginning to acquire a taste—a taste at least for the
 company of certain classes of gentlemen; at this dull [[motifs/time|time]] of year—no
 hunting going on, no shooting even—for, though she might not join in
 that, it was _something_ to see her father or the gamekeeper go out
-with the dogs, and to talk with them on their return, about the
+with the [[dogs]], and to talk with them on their return, about the
 different [[motifs/birds|birds]] they had bagged. Now, also, she was denied the solace
 which the companionship of the coachman, grooms, horses, greyhounds,
 and pointers might have afforded; for her mother having,
@@ -5535,7 +5539,7 @@ disposed of her elder daughter, the [[concepts/pride|pride]] of her heart had be
 seriously to turn her attention to the younger; and, being truly
 alarmed at the roughness of her manners, and thinking it high [[motifs/time|time]] to
 work a [[concepts/reform|reform]], had been roused at length to exert her authority, and
-prohibited entirely the yards, stables, kennels, and coach-house. Of
+prohibited entirely the yards, stables, kennels, and coach-[[house]]. Of
 course, she was not implicitly obeyed; but, indulgent as she had
 hitherto been, when once her spirit was roused, her temper was not so
 gentle as she required that of her governesses to be, and her will was
@@ -5594,7 +5598,7 @@ professes to have educated, and judge accordingly. The _judicious_
 governess knows this: she knows that, while she lives in obscurity
 herself, her pupils’ virtues and defects will be open to every eye; and
 that, unless she loses sight of herself in their cultivation, she need
-not [[concepts/hope|hope]] for success. You see, Miss Grey, it is just the same as any
+not [[concepts/hope|hope]] for [[success]]. You see, Miss Grey, it is just the same as any
 other trade or profession: they that wish to prosper must devote
 themselves [[concepts/body|body]] and [[motifs/soul|soul]] to their calling; and if they begin to yield
 to [[concepts/indolence|indolence]] or [[concepts/self|self]]-indulgence they are speedily distanced by wiser
@@ -5608,7 +5612,7 @@ the advantages of a place like this to a person in your situation; and
 I have no [[motifs/desire|desire]] to part with you, as I am sure you would do very [[motifs/well|well]]
 if you will only think of these things and try to exert yourself a
 _little_ more: then, I am convinced, you would _soon_ acquire that
-delicate tact which alone is wanting to give you a proper influence
+delicate tact which [[Alone|alone]] is wanting to give you a proper influence
 over the mind of your pupil.”
 
 I was about to give the lady some idea of the fallacy of her
@@ -5699,12 +5703,12 @@ hear it scream?”
 
 “Poor little thing! What will you do with it?”
 
-“Come along—I shall leave it in the first house we come to. I don’t
+“Come along—I shall leave it in the first [[house]] we come to. I don’t
 want to take it [[motifs/home|home]], for [[concepts/fear|fear]] papa should scold me for letting the dog
 kill it.”
 
 Mr. Weston was now gone, and we too went on our way; but as we
-returned, after having deposited the hare in a farm-house, and
+returned, after having deposited the hare in a farm-[[house]], and
 demolished some spice-cake and currant-wine in exchange, we met him
 returning also from the execution of his mission, whatever it might be.
 He carried in his hand a cluster of beautiful bluebells, which he
@@ -5826,7 +5830,7 @@ wishes and intentions of her daughter; but she affirmed that so long as
 God spared her health and strength, she would make use of them to earn
 her own livelihood, and be chargeable to no one; whether her dependence
 would be felt as a burden or not. If she could afford to reside as a
-lodger in —— vicarage, she would choose that house before all others as
+lodger in —— vicarage, she would choose that [[house]] before all others as
 the place of her abode; but not being so circumstanced, she would never
 come under its roof, except as an occasional visitor: unless sickness
 or calamity should render her assistance really needful, or until age
@@ -5839,7 +5843,7 @@ have not forgotten my accomplishments. God willing, I will check this
 vain repining,” she said, while the [[motifs/tears|tears]] coursed one another down her
 cheeks in spite of her efforts; but she wiped them away, and resolutely
 shaking back her head, continued, “I will exert myself, and look out
-for a small house, commodiously situated in some populous but healthy
+for a small [[house]], commodiously situated in some populous but healthy
 district, where we will take a few young ladies to board and educate—if
 we can get them—and as many day pupils as will come, or as we can
 manage to instruct. Your father’s relations and old friends will be
@@ -5849,9 +5853,9 @@ it, Agnes? will you be willing to leave your present situation and
 try?”
 
 “Quite willing, mamma; and the money I have saved will do to furnish
-the house. It shall be taken from the bank directly.”
+the [[house]]. It shall be taken from the bank directly.”
 
-“When it is wanted: we must get the house, and settle on preliminaries
+“When it is wanted: we must get the [[house]], and settle on preliminaries
 first.”
 
 Mary offered to lend the little she possessed; but my mother declined
@@ -5928,10 +5932,10 @@ CHAPTER XX.
 THE FAREWELL
 
 
-A house in A——, the fashionable watering-place, was hired for our
+A [[house]] in A——, the fashionable watering-place, was hired for our
 seminary; and a promise of two or three pupils was obtained to commence
 with. I returned to Horton Lodge about the middle of July, leaving my
-mother to conclude the bargain for the house, to obtain more pupils, to
+mother to conclude the bargain for the [[house]], to obtain more pupils, to
 sell off the furniture of our old abode, and to fit out the new one.
 
 We often pity the poor, because they have no leisure to mourn their
@@ -5951,17 +5955,17 @@ mother had so much employment for every faculty of her action-loving
 frame. Our kind neighbours lamented that she, once so exalted in wealth
 and station, should be reduced to such extremity in her [[motifs/time|time]] of sorrow;
 but I am persuaded that she would have suffered thrice as much had she
-been left in affluence, with liberty to remain in that house, the scene
+been left in affluence, with liberty to remain in that [[house]], the scene
 of her early happiness and late affliction, and no stern necessity to
 prevent her from incessantly brooding over and lamenting her
 bereavement.
 
-I will not dilate upon the feelings with which I left the old house,
+I will not dilate upon the feelings with which I left the old [[house]],
 the [[motifs/well|well]]-known [[motifs/garden|garden]], the little village church—then doubly dear to
 me, because my father, who, for thirty years, had taught and prayed
 within its walls, lay slumbering now beneath its flags—and the old bare
 hills, delightful in their very desolation, with the narrow vales
-between, smiling in green wood and sparkling [[motifs/water|water]]—the house where I
+between, smiling in green wood and sparkling [[motifs/water|water]]—the [[house]] where I
 was born, the scene of all my early associations, the place where
 throughout life my earthly affections had been centred;—and left them
 to return no more! True, I was going back to Horton Lodge, where, amid
@@ -6023,7 +6027,7 @@ you _must_ dislike it.”
 
 “But if you remember rightly, I said, or meant to say, I could not live
 contentedly without a friend in the world: I was not so unreasonable as
-to require one always near me. I think I could be happy in a house full
+to require one always near me. I think I could be happy in a [[house]] full
 of enemies, if—” but no; that sentence must not be continued—I paused,
 and hastily added,—“And, besides, we cannot [[motifs/well|well]] leave a place where we
 have lived for two or three years, without some feeling of regret.”
@@ -6067,7 +6071,7 @@ him talk as he did talk, and to feel that he thought me worthy to be so
 spoken to—capable of understanding and duly appreciating such
 discourse—was enough.
 
-“Yes, [[characters/edward-weston|Edward Weston]], I could indeed be happy in a house full of
+“Yes, [[characters/edward-weston|Edward Weston]], I could indeed be happy in a [[house]] full of
 enemies, if I had but one friend, who truly, deeply, and faithfully
 loved me; and if that friend were you—though we might be far
 apart—seldom to hear from each other, still more seldom to meet—though
@@ -6157,7 +6161,7 @@ not believe half of what she told me: I pretended to laugh at it all;
 but I was far more credulous than I myself supposed; otherwise, why did
 my heart leap up when a knock was heard at the front door, and the
 maid, who opened it, came to tell my mother a gentleman wished to see
-her? and why was I out of humour for the rest of the day, because it
+her? and why was I out of [[Humour|humour]] for the rest of the day, because it
 proved to be a music-master come to offer his services to our school?
 and what stopped my breath for a moment, when the postman having
 brought a couple of letters, my mother said, “Here, Agnes, this is for
@@ -6307,7 +6311,7 @@ fine Italian paintings of great value—I forget the [[archetypes/artist|artist]
 you will be able to discover prodigious beauties in them, which you
 must point out to me, as I only admire by hearsay; and many elegant
 curiosities besides, which I purchased at Rome and elsewhere; and,
-finally, you shall see my new [[motifs/home|home]]—the splendid house and grounds I
+finally, you shall see my new [[motifs/home|home]]—the splendid [[house]] and grounds I
 used to covet so greatly. Alas! how far the promise of anticipation
 exceeds the pleasure of possession! There’s a fine sentiment! I assure
 you I am become quite a [[motifs/grave|grave]] old matron: pray come, if it be only to
@@ -6392,7 +6396,7 @@ unpretending, but sufficiently comfortable apartment. When I descended
 thence—having divested myself of all travelling encumbrances, and
 arranged my toilet with due consideration for the feelings of my lady
 hostess, she conducted me herself to the room I was to occupy when I
-chose to be alone, or when she was engaged with visitors, or obliged to
+chose to be [[Alone|alone]], or when she was engaged with visitors, or obliged to
 be with her mother-in-law, or otherwise prevented, as she said, from
 enjoying the pleasure of my society. It was a quiet, tidy little
 sitting-room; and I was not sorry to be provided with such a harbour of
@@ -6534,16 +6538,16 @@ he was not sufficiently tractable and submissive to him—and for some
 other unpardonable sins, I don’t know what. But now I positively must
 go and dress: the second bell will ring directly, and if I come to
 dinner in this guise, I shall never hear the end of it from Lady Ashby.
-It’s a strange thing one can’t be mistress in one’s own house! Just
+It’s a strange thing one can’t be mistress in one’s own [[house]]! Just
 ring the bell, and I’ll send for my maid, and tell them to get you some
 tea. Only think of that intolerable woman—”
 
 “Who—your maid?”
 
 “No;—my mother-in-law—and my unfortunate mistake! Instead of letting
-her take herself off to some other house, as she offered to do when I
+her take herself off to some other [[house]], as she offered to do when I
 married, I was [[archetypes/fool|fool]] enough to ask her to live here still, and direct
-the affairs of the house for me; because, in the first place, I hoped
+the affairs of the [[house]] for me; because, in the first place, I hoped
 we should spend the greater part of the year, in town, and in the
 second place, being so young and inexperienced, I was frightened at the
 idea of having a houseful of servants to manage, and dinners to order,
@@ -6613,23 +6617,23 @@ an unpardonable offence against her dear Thomas. _She_ never showed
 such disrespect to _her_ husband: and as for affection, wives never
 think of that now-a-days, she supposes: but things were different in
 _her_ [[motifs/time|time]]—as if there was any good to be done by staying in the room,
-when he does nothing but grumble and scold when he’s in a bad humour,
+when he does nothing but grumble and scold when he’s in a bad [[Humour|humour]],
 talk disgusting nonsense when he’s in a good one, and go to [[motifs/sleep|sleep]] on
 the sofa when he’s too stupid for either; which is most frequently the
 case now, when he has nothing to do but to sot over his wine.”
 
 “But could you not try to occupy his mind with something better; and
 engage him to give up such habits? I’m sure you have powers of
-persuasion, and qualifications for amusing a gentleman, which many
+[[Persuasion|persuasion]], and qualifications for amusing a gentleman, which many
 ladies would be glad to possess.”
 
 “And so you think I would lay myself out for his amusement! No: that’s
 not _my_ idea of a wife. It’s the husband’s part to please the wife,
 not hers to please him; and if he isn’t satisfied with her as she
 is—and thankful to possess her too—he isn’t worthy of her, that’s all.
-And as for persuasion, I assure you I shan’t trouble myself with that:
+And as for [[Persuasion|persuasion]], I assure you I shan’t trouble myself with that:
 I’ve enough to do to bear with him as he is, without attempting to work
-a [[concepts/reform|reform]]. But I’m sorry I left you so long alone, Miss Grey. How have
+a [[concepts/reform|reform]]. But I’m sorry I left you so long [[Alone|alone]], Miss Grey. How have
 you passed the [[motifs/time|time]]?”
 
 “Chiefly in watching the rooks.”
@@ -6724,7 +6728,7 @@ Of course, I pitied her exceedingly; as [[motifs/well|well]] for her false idea 
 happiness and disregard of duty, as for the wretched partner with whom
 her fate was linked. I said what I could to comfort her, and offered
 such counsels as I thought she most required: advising her, first, by
-gentle reasoning, by kindness, example, and persuasion, to try to
+gentle reasoning, by kindness, example, and [[Persuasion|persuasion]], to try to
 ameliorate her husband; and then, when she had done all she could, if
 she still found him incorrigible, to endeavour to abstract herself from
 him—to wrap herself up in her own integrity, and trouble herself as
@@ -6809,7 +6813,7 @@ friends and the public chose to commit to our charge. Consequently, we
 were a considerable distance from the sea, and divided from it by a
 labyrinth of streets and houses. But the sea was my delight; and I
 would often gladly pierce the town to obtain the pleasure of a walk
-beside it, whether with the pupils, or alone with my mother during the
+beside it, whether with the pupils, or [[Alone|alone]] with my mother during the
 vacations. It was delightful to me at all times and [[motifs/seasons|seasons]], but
 especially in the wild commotion of a rough sea-breeze, and in the
 brilliant freshness of a [[motifs/summer|summer]] morning.
@@ -6877,7 +6881,7 @@ wire-haired terrier! When I spoke his name, he leapt up in my face and
 yelled for joy. Almost as much delighted as himself, I caught the
 little creature in my arms, and kissed him repeatedly. But how came he
 to be there? He could not have dropped from the sky, or come all that
-way alone: it must be either his master, the rat-catcher, or somebody
+way [[Alone|alone]]: it must be either his master, the rat-catcher, or somebody
 else that had brought him; so, repressing my extravagant caresses, and
 endeavouring to repress his likewise, I looked round, and beheld—Mr.
 Weston!
@@ -6931,7 +6935,7 @@ upon you now and then?”
 “Yes, if—I suppose so.”
 
 This was a very foolish answer, but the [[concepts/truth|truth]] was, I considered that I
-had no right to invite anyone to my mother’s house without her
+had no right to invite anyone to my mother’s [[house]] without her
 knowledge; and if I had said, “Yes, if my mother does not object,” it
 would appear as if by his question I understood more than was expected;
 so, _supposing_ she would not, I added, “I suppose so:” but of course I
@@ -6961,7 +6965,7 @@ worked certain reforms I have set my heart upon—or, at least,
 progressed some steps towards such an achievement. But you may
 congratulate me now; for I find it very agreeable to _have_ a parish
 all to myself, with nobody to interfere with me—to thwart my plans or
-cripple my exertions: and besides, I have a respectable house in a
+cripple my exertions: and besides, I have a respectable [[house]] in a
 rather pleasant neighbourhood, and three hundred pounds a year; and, in
 fact, I have nothing but [[concepts/solitude|solitude]] to complain of, and nothing but a
 companion to wish for.”
@@ -7140,8 +7144,8 @@ unreasonably so; for, of course, he had his own business and the
 affairs of his parish to attend to. And I dreaded the close of the
 holidays, when _my_ business also would begin, and I should be
 sometimes unable to see him, and sometimes—when my mother was in the
-schoolroom—obliged to be with him alone: a position I did not at all
-[[motifs/desire|desire]], in the house; though to meet him out of doors, and walk beside
+schoolroom—obliged to be with him [[Alone|alone]]: a position I did not at all
+[[motifs/desire|desire]], in the [[house]]; though to meet him out of doors, and walk beside
 him, had proved by no means disagreeable.
 
 One evening, however, in the last week of the vacation, he
@@ -7162,7 +7166,7 @@ prospect will be magnificent. Will you come?”
 
 I went to get ready, and was down again in a few minutes; though, of
 course, I took a little more pains with my attire than if I had merely
-been going out on some shopping expedition alone. The thunder-shower
+been going out on some shopping expedition [[Alone|alone]]. The thunder-shower
 had certainly had a most beneficial effect upon the weather, and the
 evening was most delightful. Mr. Weston would have me to take his arm;
 he said little during our passage through the crowded streets, but
@@ -7185,7 +7189,7 @@ of progression.”
 When we had got about half-way up the [[motifs/hill|hill]], we fell into [[motifs/silence|silence]] again;
 which, as usual, he was the first to break.
 
-“My house is desolate yet, Miss Grey,” he smilingly observed, “and I am
+“My [[house]] is desolate yet, Miss Grey,” he smilingly observed, “and I am
 acquainted now with all the ladies in my parish, and several in this
 town too; and many others I know by sight and by report; but not one of
 them will suit me for a companion; in fact, there is only one person in

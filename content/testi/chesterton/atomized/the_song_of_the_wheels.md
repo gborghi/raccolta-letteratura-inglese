@@ -17,13 +17,13 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il Canto delle Ruote
+# Il [[Song|Canto]] delle Ruote
 
-Il Canto delle Ruote  
+Il [[Song|Canto]] delle Ruote  
 
 [Scritto durante un venerdì e un sabato dell'agosto 1911]  
 
-[[archetypes/king|Re]] Dives passeggiava nel suo [[motifs/garden|giardino]] tutto solo,  
+[[archetypes/king|Re]] Dives passeggiava nel suo [[motifs/garden|giardino]] tutto [[Alone|solo]],  
 Dove i suoi [[motifs/flowers|fiori]] son fatti di ferro e i suoi alberi son fatti di  
 pietra,  
 E i suoi alveari son colmi di tuono e il [[motifs/lightning|fulmine]] balza  
@@ -120,7 +120,7 @@ The [[works/song-(poe)|Song]] Of The Wheels
 
 [Written during a Friday and Saturday in August, 1911]  
 
-[[archetypes/king|King]] Dives he was walking in his [[motifs/garden|garden]] all alone,  
+[[archetypes/king|King]] Dives he was walking in his [[motifs/garden|garden]] all [[Alone|alone]],  
 Where his [[motifs/flowers|flowers]] are made of iron and his trees are made of  
 stone,  
 And his hives are full of thunder and the [[motifs/lightning|lightning]] leaps  
@@ -209,13 +209,13 @@ with the wheels.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il Canto delle Ruote
+# Il [[Song|Canto]] delle Ruote
 
-Il Canto delle Ruote  
+Il [[Song|Canto]] delle Ruote  
 
 [Scritto durante un venerdì e un sabato dell'agosto 1911]  
 
-[[archetypes/king|Re]] Dives passeggiava nel suo [[motifs/garden|giardino]] tutto solo,  
+[[archetypes/king|Re]] Dives passeggiava nel suo [[motifs/garden|giardino]] tutto [[Alone|solo]],  
 Dove i suoi [[motifs/flowers|fiori]] son fatti di ferro e i suoi alberi son fatti di  
 pietra,  
 E i suoi alveari son colmi di tuono e il [[motifs/lightning|fulmine]] balza  

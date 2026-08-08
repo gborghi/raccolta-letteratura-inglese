@@ -14,8 +14,8 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#102_a_fable_for_feasters|A Fable for Feasters (Eliot)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#030_isabella|ISABELLA (Keats)]]
+- [[works/a-fable-for-feasters-(eliot)|A Fable for Feasters (Eliot)]]
+- [[works/isabella-(keats)|ISABELLA (Keats)]]
 
 </div>
 

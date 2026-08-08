@@ -43,5 +43,5 @@ tags:
 **Motifs:** [[motifs/fire|Fire]], [[motifs/ruins-the-abbey|Ruins the Abbey]]
 **Historical References:** [[historical-references/first-world-war|First World War]]
 **Settings:** [[settings/battlefield|Battlefield]], [[settings/france|France]], [[settings/italy|Italy]], [[settings/europe|Europe]]
-**Archetypes:** [[archetypes/hero|Hero]]
+**Archetypes:** Hero
 **Topoi:** [[topoi/war-as-glory|War as Glory]]

@@ -24,140 +24,140 @@ tags:
 - [[works/towers-of-time-(chesterton)|towers-of-time (Chesterton)]]
 - [[works/st-francis-(chesterton)|St Francis (Chesterton)]]
 - [[works/thursday-(chesterton)|thursday (Chesterton)]]
-- [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#224_a_sunset|A SUNSET (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#429_christopher_harvey_the_synagogue|CHRISTOPHER HARVEY THE SYNAGOGUE (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#209_hymn_before_sun-rise_in_the_vale_of_chamouni|HYMN BEFORE SUN-RISE, IN THE VALE OF CHAMOUNI (Coleridge)]]
-- [[testi/coleridge/atomized/transience-decay-carpe-diem#422_letter_to_sir_henry_goodyere|LETTER TO SIR HENRY GOODYERE (Coleridge)]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#395_napoleon|NAPOLEON (Coleridge)]]
-- [[testi/coleridge/atomized/dreams-moon#344_on_the_curious_circumstance|ON THE CURIOUS CIRCUMSTANCE (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#051_perspiration_a_travelling_eclogue|PERSPIRATION. A TRAVELLING ECLOGUE (Coleridge)]]
+- [[works/a-sunset-(coleridge)|A SUNSET (Coleridge)]]
+- [[works/christopher-harvey-the-synagogue-(coleridge)|CHRISTOPHER HARVEY THE SYNAGOGUE (Coleridge)]]
+- [[works/hymn-before-sun-rise,-in-the-vale-of-chamouni-(coleridge)|HYMN BEFORE SUN-RISE, IN THE VALE OF CHAMOUNI (Coleridge)]]
+- [[works/letter-to-sir-henry-goodyere-(coleridge)|LETTER TO SIR HENRY GOODYERE (Coleridge)]]
+- [[works/napoleon-(coleridge)|NAPOLEON (Coleridge)]]
+- [[works/on-the-curious-circumstance-(coleridge)|ON THE CURIOUS CIRCUMSTANCE (Coleridge)]]
+- [[works/perspiration.-a-travelling-eclogue-(coleridge)|PERSPIRATION. A TRAVELLING ECLOGUE (Coleridge)]]
 - [[works/prose-versions-of-poems,-etc.-(coleridge)|PROSE VERSIONS OF POEMS, ETC. (Coleridge)]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#345_spots_in_the_sun|SPOTS IN THE SUN (Coleridge)]]
-- [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#435_stolberg_on_a_cataract|STOLBERG ON A CATARACT (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#263_the_tears_of_a_grateful_people|THE TEARS OF A GRATEFUL PEOPLE (Coleridge)]]
-- [[testi/coleridge/atomized/transience-decay-carpe-diem#058_to_lesbia|TO LESBIA (Coleridge)]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#093_to_lord_stanhope|TO LORD STANHOPE (Coleridge)]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#082_to_the_honourable_mr_erskine|TO THE HONOURABLE MR. ERSKINE (Coleridge)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1000_the_fingers_of_the_light|1000. The Fingers of the Light (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1033_said_death_to_passion|1033. Said Death to Passion (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#1056_there_is_a_zone_whose_even_years|1056. There is a Zone whose even Years (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0106_the_daisy_follows_soft_the_sun|106. The Daisy follows soft the Sun — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1079_the_sun_went_down_no_man_looked_on|1079. The Sun went down — no Man looked on — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0011_i_never_told_the_buried_gold|11. I never told the buried gold (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1107_the_bird_did_prance_the_bee_did_play|1107. The Bird did prance — the Bee did play — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1114_the_largest_fire_ever_known|1114. The largest Fire ever known (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1122_tis_my_first_night_beneath_the_sun|1122. 'Tis my first night beneath the Sun (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1148_after_the_sun_comes_out|1148. After the Sun comes out (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1171_on_the_world_you_colored|1171. On the World you colored (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1174_theres_the_battle_of_burgoyne|1174. There's the Battle of Burgoyne — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#1178_my_god_he_sees_thee|1178. My God — He sees thee — (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#1213_we_like_march|1213. We like March. (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0122_a_something_in_a_summers_day|122. A something in a summer's Day (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1241_the_lilac_is_an_ancient_shrub|1241. The Lilac is an ancient shrub (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1255_longing_is_like_the_seed|1255. Longing is like the Seed (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1278_the_mountains_stood_in_haze|1278. The Mountains stood in Haze — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0128_bring_me_the_sunset_in_a_cup|128. Bring me the sunset in a cup, (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1299_delights_despair_at_setting|1299. Delight's Despair at setting (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1390_these_held_their_wick_above_the_west|1390. These held their Wick above the West — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1415_a_wild_blue_sky_abreast_of_winds|1415. A wild Blue sky abreast of Winds (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1419_it_was_a_quiet_seeming_day|1419. It was a quiet seeming Day — (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#1437_a_dew_sufficed_itself|1437. A Dew sufficed itself — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0150_she_died_this_was_the_way_she_died|150. She died — this was the way she died. (Dickinson)]]
-- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#1510_how_happy_is_the_little_stone|1510. How happy is the little Stone (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0152_the_sun_kept_stooping_stooping_low|152. The Sun kept stooping — stooping — low! (Dickinson)]]
-- [[testi/dickinson/atomized/friendship-tears#1568_to_see_her_is_a_picture|1568. To see her is a Picture — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1624_apparently_with_no_surprise|1624. Apparently with no surprise (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1642_red_sea_indeed_talk_not_to_me|1642. Red Sea, indeed! Talk not to me (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1650_a_lane_of_yellow_led_the_eye|1650. A lane of Yellow led the eye (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1753_through_those_old_grounds_of_memory|1753. Through those old Grounds of memory, (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#1769_the_longest_day_that_god_appoints|1769. The longest day that God appoints (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#0180_as_if_some_little_arctic_flower|180. As if some little Arctic flower (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0188_make_me_a_picture_of_the_sun|188. Make me a picture of the sun — (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0214_i_taste_a_liquor_never_brewed|214. I taste a liquor never brewed (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0219_she_sweeps_with_many-colored_brooms|219. She sweeps with many-colored Brooms — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0228_blazing_in_gold_and_quenching_in_purple|228. Blazing in Gold and quenching in Purple (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#0231_god_permits_industrious_angels|231. God permits industrious Angels — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0232_the_sun_just_touched_the_morning|232. The Sun — just touched the Morning — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0291_how_the_old_mountains_drip_with_sunset|291. How the old Mountains drip with Sunset (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0294_the_doomed_regard_the_sunrise|294. The Doomed — regard the Sunrise (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0304_the_day_came_slow_till_five_oclock|304. The Day came slow — till Five o'clock — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0307_the_one_who_could_repeat_the_summer_day|307. The One who could repeat the Summer day — (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0308_i_send_two_sunsets|308. I send Two Sunsets — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0318_ill_tell_you_how_the_sun_rose|318. I'll tell you how the Sun rose — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0323_as_if_i_asked_a_common_alms|323. As if I asked a common Alms, (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0415_sunset_at_night_is_natural|415. Sunset at Night — is natural — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0420_youll_know_it_as_you_know_tis_noon|420. You'll know it — as you know 'tis Noon — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0425_good_morning_midnight|425. Good Morning — Midnight — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0453_love_thou_art_high|453. Love — thou art high — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0469_the_red_blaze_is_the_morning|469. The Red — Blaze — is the Morning — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0483_a_solemn_thing_within_the_soul|483. A Solemn thing within the Soul (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0552_an_ignorance_a_sunset|552. An ignorance a Sunset (Dickinson)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#0562_conjecturing_a_climate|562. Conjecturing a Climate (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0569_i_reckon_when_i_count_it_all|569. I reckon — when I count it all — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0575_heaven_has_different_signs_to_me|575. Heaven has different Signs — to me — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0622_to_know_just_how_he_suffered_would_be_dear|622. To know just how He suffered — would be dear — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0628_they_called_me_to_the_window_for|628. They called me to the Window, for (Dickinson)]]
-- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0063_if_pain_for_peace_prepares|63. If pain for peace prepares (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0638_to_my_small_hearth_his_fire_came|638. To my small Hearth His fire came — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0643_i_could_suffice_for_him_i_knew|643. I could suffice for Him, I knew — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0646_i_think_to_live_may_be_a_bliss|646. I think to Live — may be a Bliss (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0658_whole_gulfs_of_red_and_fleets_of_red|658. Whole Gulfs — of Red, and Fleets — of Red — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0666_ah_teneriffe|666. Ah, Teneriffe! (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#0667_bloom_upon_the_mountain_stated|667. Bloom upon the Mountain — stated — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0673_the_love_a_life_can_show_below|673. The Love a Life can show Below (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0692_the_sun_kept_setting_setting_still|692. The Sun kept setting — setting — still (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0710_the_sunrise_runs_for_both|710. The Sunrise runs for Both — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0712_because_i_could_not_stop_for_death|712. Because I could not stop for Death — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0716_the_day_undressed_herself|716. The Day undressed — Herself — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0724_its_easy_to_invent_a_life|724. It's easy to invent a Life — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0742_four_trees_upon_a_solitary_acre|742. Four Trees — upon a solitary Acre — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0745_renunciation_is_a_piercing_virtue|745. Renunciation — is a piercing Virtue — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0750_growth_of_man_like_growth_of_nature|750. Growth of Man — like Growth of Nature — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0757_the_mountains_grow_unnoticed|757. The Mountains — grow unnoticed — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0764_presentiment_is_that_long_shadow_on_the_lawn|764. Presentiment — is that long Shadow — on the Lawn — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0766_my_faith_is_larger_than_the_hills|766. My Faith is larger than the Hills — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0776_the_color_of_a_queen_is_this|776. The Color of a Queen, is this — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0783_the_birds_begun_at_four_oclock|783. The Birds begun at Four o'clock — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0794_a_drop_fell_on_the_apple_tree|794. A Drop Fell on the Apple Tree — (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0839_always_mine|839. Always Mine! (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0843_i_made_slow_riches_but_my_gain|843. I made slow Riches but my Gain (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0853_when_one_has_given_up_ones_life|853. When One has given up One's life (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0871_the_sun_and_moon_must_make_their_haste|871. The Sun and Moon must make their haste — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0878_the_sun_is_gay_or_stark|878. The Sun is gay or stark (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0888_when_i_have_seen_the_sun_emerge|888. When I have seen the Sun emerge (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0972_unfulfilled_to_observation|972. Unfulfilled to Observation — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0973_twas_awkward_but_it_fitted_me|973. 'Twas awkward, but it fitted me — (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#0978_it_bloomed_and_dropt_a_single_noon|978. It bloomed and dropt, a Single Noon — (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0985_the_missing_all_prevented_me|985. The Missing All — prevented Me (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0999_superfluous_were_the_sun|999. Superfluous were the Sun (Dickinson)]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#077_a_draught_of_sunshine|A Draught of Sunshine (Keats)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#130_apollo_and_the_graces|Apollo and the Graces (Keats)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#085_daisys_song|Daisy’s Song (Keats)]]
+- [[works/spots-in-the-sun-(coleridge)|SPOTS IN THE SUN (Coleridge)]]
+- [[works/stolberg-on-a-cataract-(coleridge)|STOLBERG ON A CATARACT (Coleridge)]]
+- [[works/the-tears-of-a-grateful-people-(coleridge)|THE TEARS OF A GRATEFUL PEOPLE (Coleridge)]]
+- [[works/to-lesbia-(coleridge)|TO LESBIA (Coleridge)]]
+- [[works/to-lord-stanhope-(coleridge)|TO LORD STANHOPE (Coleridge)]]
+- [[works/to-the-honourable-mr.-erskine-(coleridge)|TO THE HONOURABLE MR. ERSKINE (Coleridge)]]
+- 1000. The Fingers of the Light (Dickinson)
+- 1033. Said Death to Passion (Dickinson)
+- 1056. There is a Zone whose even Years (Dickinson)
+- 106. The Daisy follows soft the Sun — (Dickinson)
+- 1079. The Sun went down — no Man looked on — (Dickinson)
+- 11. I never told the buried gold (Dickinson)
+- 1107. The Bird did prance — the Bee did play — (Dickinson)
+- 1114. The largest Fire ever known (Dickinson)
+- 1122. 'Tis my first night beneath the Sun (Dickinson)
+- 1148. After the Sun comes out (Dickinson)
+- 1171. On the World you colored (Dickinson)
+- 1174. There's the Battle of Burgoyne — (Dickinson)
+- 1178. My God — He sees thee — (Dickinson)
+- 1213. We like March. (Dickinson)
+- 122. A something in a summer's Day (Dickinson)
+- 1241. The Lilac is an ancient shrub (Dickinson)
+- 1255. Longing is like the Seed (Dickinson)
+- 1278. The Mountains stood in Haze — (Dickinson)
+- 128. Bring me the sunset in a cup, (Dickinson)
+- 1299. Delight's Despair at setting (Dickinson)
+- 1390. These held their Wick above the West — (Dickinson)
+- 1415. A wild Blue sky abreast of Winds (Dickinson)
+- 1419. It was a quiet seeming Day — (Dickinson)
+- 1437. A Dew sufficed itself — (Dickinson)
+- 150. She died — this was the way she died. (Dickinson)
+- 1510. How happy is the little Stone (Dickinson)
+- 152. The Sun kept stooping — stooping — low! (Dickinson)
+- 1568. To see her is a Picture — (Dickinson)
+- 1624. Apparently with no surprise (Dickinson)
+- 1642. Red Sea, indeed! Talk not to me (Dickinson)
+- 1650. A lane of Yellow led the eye (Dickinson)
+- 1753. Through those old Grounds of memory, (Dickinson)
+- 1769. The longest day that God appoints (Dickinson)
+- 180. As if some little Arctic flower (Dickinson)
+- 188. Make me a picture of the sun — (Dickinson)
+- 214. I taste a liquor never brewed (Dickinson)
+- 219. She sweeps with many-colored Brooms — (Dickinson)
+- 228. Blazing in Gold and quenching in Purple (Dickinson)
+- 231. God permits industrious Angels — (Dickinson)
+- 232. The Sun — just touched the Morning — (Dickinson)
+- 291. How the old Mountains drip with Sunset (Dickinson)
+- 294. The Doomed — regard the Sunrise (Dickinson)
+- 304. The Day came slow — till Five o'clock — (Dickinson)
+- 307. The One who could repeat the Summer day — (Dickinson)
+- 308. I send Two Sunsets — (Dickinson)
+- 318. I'll tell you how the Sun rose — (Dickinson)
+- 323. As if I asked a common Alms, (Dickinson)
+- 415. Sunset at Night — is natural — (Dickinson)
+- 420. You'll know it — as you know 'tis Noon — (Dickinson)
+- 425. Good Morning — Midnight — (Dickinson)
+- 453. Love — thou art high — (Dickinson)
+- 469. The Red — Blaze — is the Morning — (Dickinson)
+- 483. A Solemn thing within the Soul (Dickinson)
+- 552. An ignorance a Sunset (Dickinson)
+- 562. Conjecturing a Climate (Dickinson)
+- 569. I reckon — when I count it all — (Dickinson)
+- 575. Heaven has different Signs — to me — (Dickinson)
+- 622. To know just how He suffered — would be dear — (Dickinson)
+- 628. They called me to the Window, for (Dickinson)
+- 63. If pain for peace prepares (Dickinson)
+- 638. To my small Hearth His fire came — (Dickinson)
+- 643. I could suffice for Him, I knew — (Dickinson)
+- 646. I think to Live — may be a Bliss (Dickinson)
+- 658. Whole Gulfs — of Red, and Fleets — of Red — (Dickinson)
+- 666. Ah, Teneriffe! (Dickinson)
+- 667. Bloom upon the Mountain — stated — (Dickinson)
+- 673. The Love a Life can show Below (Dickinson)
+- 692. The Sun kept setting — setting — still (Dickinson)
+- 710. The Sunrise runs for Both — (Dickinson)
+- 712. Because I could not stop for Death — (Dickinson)
+- 716. The Day undressed — Herself — (Dickinson)
+- 724. It's easy to invent a Life — (Dickinson)
+- 742. Four Trees — upon a solitary Acre — (Dickinson)
+- 745. Renunciation — is a piercing Virtue — (Dickinson)
+- 750. Growth of Man — like Growth of Nature — (Dickinson)
+- 757. The Mountains — grow unnoticed — (Dickinson)
+- 764. Presentiment — is that long Shadow — on the Lawn — (Dickinson)
+- 766. My Faith is larger than the Hills — (Dickinson)
+- 776. The Color of a Queen, is this — (Dickinson)
+- 783. The Birds begun at Four o'clock — (Dickinson)
+- 794. A Drop Fell on the Apple Tree — (Dickinson)
+- 839. Always Mine! (Dickinson)
+- 843. I made slow Riches but my Gain (Dickinson)
+- 853. When One has given up One's life (Dickinson)
+- 871. The Sun and Moon must make their haste — (Dickinson)
+- 878. The Sun is gay or stark (Dickinson)
+- 888. When I have seen the Sun emerge (Dickinson)
+- 972. Unfulfilled to Observation — (Dickinson)
+- 973. 'Twas awkward, but it fitted me — (Dickinson)
+- 978. It bloomed and dropt, a Single Noon — (Dickinson)
+- 985. The Missing All — prevented Me (Dickinson)
+- 999. Superfluous were the Sun (Dickinson)
+- [[works/a-draught-of-sunshine-(keats)|A Draught of Sunshine (Keats)]]
+- [[works/apollo-and-the-graces-(keats)|Apollo and the Graces (Keats)]]
+- [[works/daisy’s-song-(keats)|Daisy’s Song (Keats)]]
 - [[works/hyperion-(keats)|Hyperion (Keats)]]
-- [[testi/keats/atomized/sea-water#047_sonnet_to_spenser|Sonnet to Spenser (Keats)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#080_sonnet_written_in_answer_to_a_sonnet_ending_thus|Sonnet Written in Answer to a Sonnet Ending thus (Keats)]]
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#049_to_a_young_lady_who_sent_me_a_laurel_crown|To a Young Lady who Sent Me a Laurel Crown (Keats)]]
+- [[works/sonnet-to-spenser-(keats)|Sonnet to Spenser (Keats)]]
+- [[works/sonnet-written-in-answer-to-a-sonnet-ending-thus-(keats)|Sonnet Written in Answer to a Sonnet Ending thus (Keats)]]
+- [[works/to-a-young-lady-who-sent-me-a-laurel-crown-(keats)|To a Young Lady who Sent Me a Laurel Crown (Keats)]]
 - [[works/alone-(poe)|Alone (Poe)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_130|Sonnet 130 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_132|Sonnet 132 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_148|Sonnet 148 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_018|Sonnet 18 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_021|Sonnet 21 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_033|Sonnet 33 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_034|Sonnet 34 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_035|Sonnet 35 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_059|Sonnet 59 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_007|Sonnet 7 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_076|Sonnet 76 (Shakespeare)]]
-- [[testi/whitman/atomized/stars-night-military-camp#338_a_prairie_sunset|A Prairie Sunset (Whitman)]]
-- [[testi/whitman/atomized/nature-book-of-nature-natural-order#324_continuities|Continuities (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#164_give_me_the_splendid_silent_sun|Give Me the Splendid Silent Sun (Whitman)]]
-- [[testi/whitman/atomized/nature-book-of-nature-natural-order#311_out_of_may_s_shows_selected|Out of May’s Shows Selected (Whitman)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#281_song_at_sunset|Song at Sunset (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#255_thou_orb_aloft_full_dazzling|Thou Orb Aloft Full-Dazzling (Whitman)]]
-- [[testi/whitman/atomized/nature-book-of-nature-natural-order#184_to_the_leaven_d_soil_they_trod|To the Leaven’d Soil They Trod (Whitman)]]
-- [[testi/whitman/atomized/nature-book-of-nature-natural-order#365_to_the_sun_set_breeze|To the Sun-Set Breeze (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#093_youth_day_old_age_and_night|Youth, Day, Old Age and Night (Whitman)]]
+- Sonnet 130 (Shakespeare)
+- Sonnet 132 (Shakespeare)
+- Sonnet 148 (Shakespeare)
+- Sonnet 18 (Shakespeare)
+- Sonnet 21 (Shakespeare)
+- Sonnet 33 (Shakespeare)
+- Sonnet 34 (Shakespeare)
+- Sonnet 35 (Shakespeare)
+- Sonnet 59 (Shakespeare)
+- Sonnet 7 (Shakespeare)
+- Sonnet 76 (Shakespeare)
+- [[works/a-prairie-sunset-(whitman)|A Prairie Sunset (Whitman)]]
+- [[works/continuities-(whitman)|Continuities (Whitman)]]
+- [[works/give-me-the-splendid-silent-sun-(whitman)|Give Me the Splendid Silent Sun (Whitman)]]
+- [[works/out-of-may’s-shows-selected-(whitman)|Out of May’s Shows Selected (Whitman)]]
+- [[works/song-at-sunset-(whitman)|Song at Sunset (Whitman)]]
+- [[works/thou-orb-aloft-full-dazzling-(whitman)|Thou Orb Aloft Full-Dazzling (Whitman)]]
+- [[works/to-the-leaven’d-soil-they-trod-(whitman)|To the Leaven’d Soil They Trod (Whitman)]]
+- [[works/to-the-sun-set-breeze-(whitman)|To the Sun-Set Breeze (Whitman)]]
+- [[works/youth,-day,-old-age-and-night-(whitman)|Youth, Day, Old Age and Night (Whitman)]]
 
 </div>
 

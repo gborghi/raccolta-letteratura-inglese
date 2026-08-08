@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight" data-author="Coleridge" data-workhref="works/appearance-vs-reality-·-beauty-·-eyes-and-sight-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="065_translation_of_wranghams_hendecasyllabi_ad_bruntonam_e_granta_exituram_kal_octmd" data-title="TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ [KAL. OCT.MDCCXC]" data-chapter="" data-kind="intro" data-tags="concept/the_artist_and_society,concept/beauty,concept/grief_and_loss,concept/terror_and_horror,form/lyric,histref/greek_mythology,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="065_translation_of_wranghams_hendecasyllabi_ad_bruntonam_e_granta_exituram_kal_octmd" data-title="TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ [KAL. OCT.MDCCXC]" data-chapter="" data-kind="intro"></span>
 
 
 Maid of unboastful charms! whom white-robed [[concepts/truth|Truth]]  
@@ -30,7 +30,7 @@ Or haply clothest with funereal vest
 The bridal loves that wept in [[characters/juliet|Juliet]]’s breast.  
 O’er our chill limbs the thrilling Terrors creep,   15  
 Th’ entrancéd Passions their still vigil keep;  
-While the deep sighs, responsive to the song,  
+While the deep sighs, responsive to the [[Song|song]],  
 Sound through the [[motifs/silence|silence]] of the trembling throng.  
 But purer raptures lighten’d from thy face,  
 And spread o’er all thy form an holier grace,   20  
@@ -53,7 +53,7 @@ Enchanting ministress of virtuous woe!
 
 
 
-<span class="atom-split" data-atom="083_burke" data-title="BURKE" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,concept/liberty,concept/deception,concept/power_and_corruption,concept/grief_and_loss,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="083_burke" data-title="BURKE" data-chapter="" data-kind="intro"></span>
 
 
 As late I lay in Slumber’s shadowy vale,  
@@ -75,7 +75,7 @@ December 9, 1794.
 
 
 
-<span class="atom-split" data-atom="129_to_an_unfortunate_woman_at_the_theatre" data-title="TO AN UNFORTUNATE WOMAN AT THE THEATRE" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,archetype/fallen_woman,motif/birds,concept/melancholy,concept/innocence_and_experience,concept/deception,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="129_to_an_unfortunate_woman_at_the_theatre" data-title="TO AN UNFORTUNATE WOMAN AT THE THEATRE" data-chapter="" data-kind="intro"></span>
 
 
 Maiden, that with sullen brow  
@@ -93,7 +93,7 @@ But no true [[motifs/love|love]] in his eye.
 Loathing thy polluted lot,  
 Hie thee, Maiden, hie thee hence!  
 Seek thy weeping Mother’s cot,   15  
-With a wiser innocence.  
+With a wiser [[innocence]].  
 Thou hast known deceit and folly,  
 Thou hast felt that Vice is woe:  
 With a musing [[concepts/melancholy|melancholy]]  
@@ -115,7 +115,7 @@ And embathe in heavenly light.
 
 
 
-<span class="atom-split" data-atom="130_to_an_unfortunate_woman_whom_the_author_had_known_in_the_days_of_her_innocence" data-title="TO AN UNFORTUNATE WOMAN WHOM THE AUTHOR HAD KNOWN IN THE DAYS OF HER INNOCENCE" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,archetype/fallen_woman,motif/flowers,concept/innocence_and_experience,concept/deception,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="130_to_an_unfortunate_woman_whom_the_author_had_known_in_the_days_of_her_innocence" data-title="TO AN UNFORTUNATE WOMAN WHOM THE AUTHOR HAD KNOWN IN THE DAYS OF HER INNOCENCE" data-chapter="" data-kind="intro"></span>
 
 
 Myrtle-leaf that, ill besped,  
@@ -139,7 +139,7 @@ Flung to fade, to rot and die.
 
 
 
-<span class="atom-split" data-atom="158_the_ballad_of_the_dark_ladié" data-title="THE BALLAD OF THE DARK LADIÉ" data-chapter="" data-kind="intro" data-tags="archetype/fallen_woman,concept/unrequited_love,concept/deception,concept/love_romantic,form/ballad,form/fragment,setting/the_castle,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="158_the_ballad_of_the_dark_ladié" data-title="THE BALLAD OF THE DARK LADIÉ" data-chapter="" data-kind="intro"></span>
 
 
 A [[forms/fragment|FRAGMENT]]  
@@ -210,7 +210,7 @@ And blushing bridal maids.   60
 
 
 
-<span class="atom-split" data-atom="196_alcaeus_to_sappho" data-title="ALCAEUS TO SAPPHO" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/eyes_sight,motif/white_and_red,concept/love_romantic,concept/beauty,form/lyric,histref/classical_antiquity,histref/ancient_greece,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="196_alcaeus_to_sappho" data-title="ALCAEUS TO SAPPHO" data-chapter="" data-kind="intro"></span>
 
 
 How sweet, when crimson colours dart  
@@ -238,7 +238,7 @@ The fairest face on earth!   20
 
 
 
-<span class="atom-split" data-atom="271_the_two_founts" data-title="THE TWO FOUNTS" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/water,motif/flowers,concept/beauty,concept/grief_and_loss,concept/sin_and_the_fall,concept/friendship,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="271_the_two_founts" data-title="THE TWO FOUNTS" data-chapter="" data-kind="intro"></span>
 
 
 STANZAS ADDRESSED TO A LADY ON HER RECOVERY WITH UNBLEMISHED LOOKS, FROM A SEVERE ATTACK OF [[motifs/pain|PAIN]]  
@@ -255,7 +255,7 @@ Two Founts there are, of [[concepts/suffering|Suffering]] and of Cheer!   10
 That to let forth, and this to keep within!  
 But she, whose aspect I find imaged here,  
 Of Pleasure only will to all dispense,  
-That Fount alone unlock, by no distress  
+That Fount [[Alone|alone]] unlock, by no distress  
 Choked or turned inward, but still issue thence   15  
 Unconquered cheer, persistent loveliness.  
 As on the driving cloud the shiny bow,  
@@ -267,7 +267,7 @@ Inweaving each its wreath and dewy [[motifs/crown|crown]],
 Or ere they sank to earth in vernal showers,  
 Had built a bridge to tempt the angels down.  
 Even so, Eliza! on that face of thine,   25  
-On that benignant face, whose look alone  
+On that benignant face, whose look [[Alone|alone]]  
 (The [[motifs/soul|soul]]’s translucence thro’ her crystal shrine!)  
 Has power to soothe all anguish but thine own,  
 A [[concepts/beauty|beauty]] hovers still, and ne’er takes wing,  
@@ -295,7 +295,7 @@ Hoard for thyself the [[motifs/pain|pain]], thou wilt not give!
 
 
 
-<span class="atom-split" data-atom="290_grove_highgate_song_on_hearing_a_song_in_praise_of_a_ladys_beauty" data-title="GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/eyes_sight,motif/flowers,concept/love_romantic,concept/beauty,form/song,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="290_grove_highgate_song_on_hearing_a_song_in_praise_of_a_ladys_beauty" data-title="GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY" data-chapter="" data-kind="intro"></span>
 
 
 AUGUST 1829  
@@ -304,13 +304,13 @@ Nor roseate cheeks, nor sunny eyes,
 Enough of lilies and of roses!  
 A thousand-fold more dear to me  
 The gentle look that [[motifs/love|Love]] discloses, — 5  
-The look that [[motifs/love|Love]] alone can see!  
+The look that [[motifs/love|Love]] [[Alone|alone]] can see!  
 Keepsake, 1830.  
 
 
 
 
-<span class="atom-split" data-atom="337_to_one_who_published_in_print" data-title="TO ONE WHO PUBLISHED IN PRINT" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/letters_writing,concept/satire_of_society,concept/friendship,concept/deception,form/epigram,histref/greek_mythology,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="337_to_one_who_published_in_print" data-title="TO ONE WHO PUBLISHED IN PRINT" data-chapter="" data-kind="intro"></span>
 
 
 WHAT HAD BEEN ENTRUSTED TO HIM BY MY FIRESIDE  
@@ -349,7 +349,7 @@ Weil er vergebens hofft auf was nicht kann geschehn?’
 
 
 
-<span class="atom-split" data-atom="345_spots_in_the_sun" data-title="SPOTS IN THE SUN" data-chapter="" data-kind="intro" data-tags="motif/sun,concept/satire_of_society,concept/faith_and_doubt,concept/appearance_vs_reality,concept/lust,form/epigram,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="345_spots_in_the_sun" data-title="SPOTS IN THE SUN" data-chapter="" data-kind="intro"></span>
 
 
 My father confessor is strict and holy,  
@@ -374,7 +374,7 @@ First published in Morning Post, Oct. 11, 1802.
 
 
 
-<span class="atom-split" data-atom="406_an_experiment_for_a_metre" data-title="AN EXPERIMENT FOR A METRE" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/love_romantic,concept/beauty,form/fragment,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="406_an_experiment_for_a_metre" data-title="AN EXPERIMENT FOR A METRE" data-chapter="" data-kind="intro"></span>
 
 
 Ø Ø ¯, Ø Ø ¯  

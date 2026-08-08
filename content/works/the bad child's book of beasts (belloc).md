@@ -49,5 +49,5 @@ tags:
 **Themes & Concepts:** [[concepts/nonsense|Nonsense]], [[concepts/childhood-and-growth|Childhood And Growth]], [[concepts/wit|Wit]]
 **Motifs:** [[motifs/animals|Animals]], [[motifs/lion|Lion]]
 **Settings:** [[settings/oxford|Oxford]]
-**Archetypes:** [[archetypes/child|Child]]
+**Archetypes:** Child
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]

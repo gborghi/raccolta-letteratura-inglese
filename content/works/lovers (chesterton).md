@@ -43,10 +43,10 @@ tags:
 
 **Settings:** [[settings/inn|Inn]]
 
-**Characters:** [[characters/gabriel-gale|Gabriel Gale]], [[characters/diana-westermaine|Diana Westermaine]], [[characters/hurrel|Hurrel]]
+**Characters:** Gabriel Gale, Diana Westermaine, Hurrel
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/fool|Fool]]
+**Archetypes:** Lover, Fool
 **Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/rash-vow|Rash Vow]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/madness|Madness]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/paradox|Paradox]], [[concepts/friendship|Friendship]]
 **Forms & Genres:** [[forms/short-story|Short Story]]

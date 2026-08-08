@@ -14,7 +14,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/whitman/atomized/sea-water#102_out_of_the_cradle_endlessly_rocking|Out of the Cradle Endlessly Rocking (Whitman)]]
+- [[works/out-of-the-cradle-endlessly-rocking-(whitman)|Out of the Cradle Endlessly Rocking (Whitman)]]
 
 </div>
 

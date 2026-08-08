@@ -29,7 +29,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/inexpressibility|Inexpressibility]], [[topoi/love-as-religion|Love as Religion]]
-**Archetypes:** [[archetypes/lover|Lover]]
+**Archetypes:** Lover
 **Motifs:** [[motifs/dreams|Dreams]], [[motifs/silence|Silence]], [[motifs/moon|Moon]], [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/inexpressibility-(3)|Inexpressibility (3)]], [[concepts/romantic-love|Romantic Love]], [[concepts/beauty|Beauty]], [[concepts/imagination|Imagination]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

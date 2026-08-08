@@ -20,7 +20,7 @@ tags:
 - [[works/titanicgkc-(chesterton)|titanicGKC (Chesterton)]]
 - [[works/unknown-warrior-(chesterton)|unknown-warrior (Chesterton)]]
 - [[works/on-abraham-lincoln-(chesterton)|On Abraham Lincoln (Chesterton)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#136_hast_never_come_to_thee_an_hour|Hast Never Come to Thee an Hour (Whitman)]]
+- [[works/hast-never-come-to-thee-an-hour-(whitman)|Hast Never Come to Thee an Hour (Whitman)]]
 - [[works/the-doings-of-raffles-haw-(conan-doyle)|The Doings of Raffles Haw (Conan Doyle)]]
 
 </div>

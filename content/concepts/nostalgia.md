@@ -32,69 +32,69 @@ tags:
 - [[works/pickwick-(chesterton)|Pickwick (Chesterton)]]
 - [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
 - [[works/spice-of-life-(chesterton)|Spice Of Life (Chesterton)]]
-- [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#237_a_tombless_epitaph|A TOMBLESS EPITAPH (Coleridge)]]
-- [[testi/coleridge/atomized/memory-and-time-memory-nostalgia#031_absence_a_farewell_ode_on_quitting_school_for_jesus_college_cambridge|ABSENCE A FAREWELL ODE ON QUITTING SCHOOL FOR JESUS COLLEGE, CAMBRIDGE (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#170_from_the_german|FROM THE GERMAN (Coleridge)]]
-- [[testi/coleridge/atomized/memory-and-time-memory-nostalgia#439_goethe|GOETHE (Coleridge)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#174_home-sick|HOME-SICK (Coleridge)]]
-- [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#175_lines_written_in_the_album_at_elbingerode_in_the_hartz_forest|LINES WRITTEN IN THE ALBUM AT ELBINGERODE, IN THE HARTZ FOREST (Coleridge)]]
-- [[testi/coleridge/atomized/memory-and-time-memory-nostalgia#048_lines_on_an_autumnal_evening|LINES ON AN AUTUMNAL EVENING (Coleridge)]]
-- [[testi/coleridge/atomized/memory-and-time-memory-nostalgia#055_lines_to_a_beautiful_spring_in_a_village|LINES TO A BEAUTIFUL SPRING IN A VILLAGE (Coleridge)]]
-- [[testi/coleridge/atomized/memory-and-time-memory-nostalgia#091_of_baliol_college_oxford_author_of_the_retrospect_and_other_poems|OF BALIOL COLLEGE, OXFORD, AUTHOR OF THE ‘RETROSPECT’, AND OTHER POEMS (Coleridge)]]
-- [[testi/coleridge/atomized/transience-decay-carpe-diem#006_quae_nocent_docent|QUAE NOCENT DOCENT (Coleridge)]]
-- [[testi/coleridge/atomized/memory-and-time-memory-nostalgia#234_recollections_of_love|RECOLLECTIONS OF LOVE (Coleridge)]]
-- [[testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience#030_sonnet_on_quitting_school_for_college|SONNET ON QUITTING SCHOOL FOR COLLEGE (Coleridge)]]
-- [[testi/coleridge/atomized/memory-and-time-memory-nostalgia#046_sonnet_to_the_river_otter|SONNET TO THE RIVER OTTER (Coleridge)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#045_the_gentle_look|THE GENTLE LOOK (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#431_w_l_bowles|W. L. BOWLES (Coleridge)]]
-- [[testi/coleridge/atomized/memory-and-time-memory-nostalgia#264_youth_and_age|YOUTH AND AGE (Coleridge)]]
+- [[works/a-tombless-epitaph-(coleridge)|A TOMBLESS EPITAPH (Coleridge)]]
+- [[works/absence-a-farewell-ode-on-quitting-school-for-jesus-college,-cambridge-(coleridge)|ABSENCE A FAREWELL ODE ON QUITTING SCHOOL FOR JESUS COLLEGE, CAMBRIDGE (Coleridge)]]
+- [[works/from-the-german-(coleridge)|FROM THE GERMAN (Coleridge)]]
+- [[works/goethe-(coleridge)|GOETHE (Coleridge)]]
+- [[works/home-sick-(coleridge)|HOME-SICK (Coleridge)]]
+- [[works/lines-written-in-the-album-at-elbingerode,-in-the-hartz-forest-(coleridge)|LINES WRITTEN IN THE ALBUM AT ELBINGERODE, IN THE HARTZ FOREST (Coleridge)]]
+- [[works/lines-on-an-autumnal-evening-(coleridge)|LINES ON AN AUTUMNAL EVENING (Coleridge)]]
+- [[works/lines-to-a-beautiful-spring-in-a-village-(coleridge)|LINES TO A BEAUTIFUL SPRING IN A VILLAGE (Coleridge)]]
+- [[works/of-baliol-college,-oxford,-author-of-the-‘retrospect’,-and-other-poems-(coleridge)|OF BALIOL COLLEGE, OXFORD, AUTHOR OF THE ‘RETROSPECT’, AND OTHER POEMS (Coleridge)]]
+- [[works/quae-nocent-docent-(coleridge)|QUAE NOCENT DOCENT (Coleridge)]]
+- [[works/recollections-of-love-(coleridge)|RECOLLECTIONS OF LOVE (Coleridge)]]
+- [[works/sonnet-on-quitting-school-for-college-(coleridge)|SONNET ON QUITTING SCHOOL FOR COLLEGE (Coleridge)]]
+- [[works/sonnet-to-the-river-otter-(coleridge)|SONNET TO THE RIVER OTTER (Coleridge)]]
+- [[works/the-gentle-look-(coleridge)|THE GENTLE LOOK (Coleridge)]]
+- [[works/w.-l.-bowles-(coleridge)|W. L. BOWLES (Coleridge)]]
+- [[works/youth-and-age-(coleridge)|YOUTH AND AGE (Coleridge)]]
 - [[works/a-child's-history-of-england-(dickens)|A Child's History of England (Dickens)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1057_i_had_a_daily_bliss|1057. I had a daily Bliss (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1273_that_sacred_closet_when_you_sweep|1273. That sacred Closet when you sweep — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1293_the_things_we_thought_that_we_should_do|1293. The things we thought that we should do (Dickinson)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#1498_glass_was_the_street_in_tinsel_peril|1498. Glass was the Street — in tinsel Peril (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#1515_the_things_that_never_can_come_back_are_several|1515. The Things that never can come back, are several — (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1657_eden_is_that_old-fashioned_house|1657. Eden is that old-fashioned House (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0169_in_ebon_box_when_years_have_flown|169. In Ebon Box, when years have flown (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1753_through_those_old_grounds_of_memory|1753. Through those old Grounds of memory, (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#1773_the_summer_that_we_did_not_prize|1773. The Summer that we did not prize, (Dickinson)]]
-- [[testi/dickinson/atomized/friendship-tears#0023_i_had_a_guinea_golden|23. I had a guinea golden — (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0302_like_some_old_fashioned_miracle|302. Like Some Old fashioned Miracle (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0367_over_and_over_like_a_tune|367. Over and over, like a Tune — (Dickinson)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#0445_twas_just_this_time_last_year_i_died|445. 'Twas just this time, last year, I died. (Dickinson)]]
-- [[testi/dickinson/atomized/alienation-outsider-exile#0492_civilization_spurns_the_leopard|492. Civilization — spurns — the Leopard! (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0529_im_sorry_for_the_dead_today|529. I'm sorry for the Dead — Today — (Dickinson)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#0562_conjecturing_a_climate|562. Conjecturing a Climate (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0589_the_night_was_wide_and_furnished_scant|589. The Night was wide, and furnished scant (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0607_of_nearness_to_her_sundered_things|607. Of nearness to her sundered Things (Dickinson)]]
-- [[testi/dickinson/atomized/terror-and-horror-madness#0609_i_years_had_been_from_home|609. I Years had been from Home (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0610_youll_find_it_when_you_try_to_die|610. You'll find — it when you try to die — (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#0687_ill_send_the_feather_from_my_hat|687. I'll send the feather from my Hat! (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0719_a_south_wind_has_a_pathos|719. A South Wind — has a pathos (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#0728_let_us_play_yesterday|728. Let Us play Yesterday — (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0814_one_day_is_there_of_the_series|814. One Day is there of the Series (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0898_how_happy_i_was_if_i_could_forget|898. How happy I was if I could forget (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#0090_within_my_reach|90. Within my reach! (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0995_this_was_in_the_white_of_the_year|995. This was in the White of the Year — (Dickinson)]]
-- [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#105_at_graduation_1905|At Graduation 1905 (Eliot)]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#018_a_cooking_egg|A Cooking Egg (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#090_gus_the_theatre_cat|Gus the Theatre Cat (Eliot)]]
-- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#114_ode|Ode (Eliot)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#037_lines_on_the_mermaid_tavern|LINES ON THE MERMAID TAVERN (Keats)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#038_robin_hood|ROBIN HOOD (Keats)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#072_sonnet_to_a_cat|Sonnet to a Cat (Keats)]]
-- [[testi/keats/atomized/seasons-winter-autumn#079_sonnet_to_a_lady_seen_for_a_few_moments_at_vauxhall|Sonnet to a Lady Seen for a Few Moments at Vauxhall (Keats)]]
-- [[testi/keats/atomized/seasons-winter-autumn#112_stanzas|Stanzas (Keats)]]
+- 1057. I had a daily Bliss (Dickinson)
+- 1273. That sacred Closet when you sweep — (Dickinson)
+- 1293. The things we thought that we should do (Dickinson)
+- 1498. Glass was the Street — in tinsel Peril (Dickinson)
+- 1515. The Things that never can come back, are several — (Dickinson)
+- 1657. Eden is that old-fashioned House (Dickinson)
+- 169. In Ebon Box, when years have flown (Dickinson)
+- 1753. Through those old Grounds of memory, (Dickinson)
+- 1773. The Summer that we did not prize, (Dickinson)
+- 23. I had a guinea golden — (Dickinson)
+- 302. Like Some Old fashioned Miracle (Dickinson)
+- 367. Over and over, like a Tune — (Dickinson)
+- 445. 'Twas just this time, last year, I died. (Dickinson)
+- 492. Civilization — spurns — the Leopard! (Dickinson)
+- 529. I'm sorry for the Dead — Today — (Dickinson)
+- 562. Conjecturing a Climate (Dickinson)
+- 589. The Night was wide, and furnished scant (Dickinson)
+- 607. Of nearness to her sundered Things (Dickinson)
+- 609. I Years had been from Home (Dickinson)
+- 610. You'll find — it when you try to die — (Dickinson)
+- 687. I'll send the feather from my Hat! (Dickinson)
+- 719. A South Wind — has a pathos (Dickinson)
+- 728. Let Us play Yesterday — (Dickinson)
+- 814. One Day is there of the Series (Dickinson)
+- 898. How happy I was if I could forget (Dickinson)
+- 90. Within my reach! (Dickinson)
+- 995. This was in the White of the Year — (Dickinson)
+- [[works/at-graduation-1905-(eliot)|At Graduation 1905 (Eliot)]]
+- [[works/a-cooking-egg-(eliot)|A Cooking Egg (Eliot)]]
+- [[works/gus-the-theatre-cat-(eliot)|Gus the Theatre Cat (Eliot)]]
+- [[works/ode-(eliot)|Ode (Eliot)]]
+- [[works/lines-on-the-mermaid-tavern-(keats)|LINES ON THE MERMAID TAVERN (Keats)]]
+- [[works/robin-hood-(keats)|ROBIN HOOD (Keats)]]
+- [[works/sonnet-to-a-cat-(keats)|Sonnet to a Cat (Keats)]]
+- [[works/sonnet-to-a-lady-seen-for-a-few-moments-at-vauxhall-(keats)|Sonnet to a Lady Seen for a Few Moments at Vauxhall (Keats)]]
+- [[works/stanzas-(keats)|Stanzas (Keats)]]
 - [[works/a-dream-(poe)|A Dream (Poe)]]
 - [[works/imitation-(poe)|Imitation (Poe)]]
 - [[works/romance-(poe)|Romance (Poe)]]
 - [[works/the-happiest-day-(poe)|The Happiest Day (Poe)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#380_good_bye_my_fancy|Good-Bye My Fancy! (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#259_o_magnet_south|O Magnet-South (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#317_red_jacket_from_aloft|Red Jacket (From Aloft) (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#336_the_dying_veteran|The Dying Veteran (Whitman)]]
-- [[testi/whitman/atomized/journey-ship#339_twenty_years|Twenty Years (Whitman)]]
-- [[testi/whitman/atomized/nature-book-of-nature-natural-order#201_warble_for_lilac_time|Warble for Lilac-Time (Whitman)]]
+- [[works/good-bye-my-fancy!-(whitman)|Good-Bye My Fancy! (Whitman)]]
+- [[works/o-magnet-south-(whitman)|O Magnet-South (Whitman)]]
+- [[works/red-jacket-(from-aloft)-(whitman)|Red Jacket (From Aloft) (Whitman)]]
+- [[works/the-dying-veteran-(whitman)|The Dying Veteran (Whitman)]]
+- [[works/twenty-years-(whitman)|Twenty Years (Whitman)]]
+- [[works/warble-for-lilac-time-(whitman)|Warble for Lilac-Time (Whitman)]]
 - [[works/waterloo-(conan-doyle)|Waterloo (Conan Doyle)]]
 - [[works/first-and-last-(belloc)|First and Last (Belloc)]]
 - [[works/on-anything-(belloc)|On Anything (Belloc)]]

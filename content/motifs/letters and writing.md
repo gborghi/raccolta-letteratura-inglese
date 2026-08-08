@@ -29,32 +29,32 @@ tags:
 - [[works/innocence-(chesterton)|innocence (Chesterton)]]
 - [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
 - [[works/pun-(chesterton)|pun (Chesterton)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#357_authors_and_publishers|AUTHORS AND PUBLISHERS (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#315_dear_brother_jem|DEAR BROTHER JEM (Coleridge)]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#428_musophilus|MUSOPHILUS (Coleridge)]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#337_to_one_who_published_in_print|TO ONE WHO PUBLISHED IN PRINT (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#354_written_in_an_album|WRITTEN IN AN ALBUM (Coleridge)]]
+- [[works/authors-and-publishers-(coleridge)|AUTHORS AND PUBLISHERS (Coleridge)]]
+- [[works/dear-brother-jem-(coleridge)|DEAR BROTHER JEM (Coleridge)]]
+- [[works/musophilus-(coleridge)|MUSOPHILUS (Coleridge)]]
+- [[works/to-one-who-published-in-print-(coleridge)|TO ONE WHO PUBLISHED IN PRINT (Coleridge)]]
+- [[works/written-in-an-album-(coleridge)|WRITTEN IN AN ALBUM (Coleridge)]]
 - [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#1035_bee_im_expecting_you|1035. Bee! I'm expecting you! (Dickinson)]]
-- [[testi/dickinson/atomized/alienation-outsider-exile#1089_myself_can_read_the_telegrams|1089. Myself can read the Telegrams (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0109_by_a_flower_by_a_letter|109. By a flower — By a letter — (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1126_shall_i_take_thee_the_poet_said|1126. Shall I take thee, the Poet said (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1261_a_word_dropped_careless_on_a_page|1261. A Word dropped careless on a Page (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1459_belshazzar_had_a_letter|1459. Belshazzar had a Letter — (Dickinson)]]
-- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#1651_a_word_made_flesh_is_seldom|1651. A Word made Flesh is seldom (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0169_in_ebon_box_when_years_have_flown|169. In Ebon Box, when years have flown (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#1769_the_longest_day_that_god_appoints|1769. The longest day that God appoints (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1771_how_fleet_how_indiscreet_an_one|1771. How fleet — how indiscreet an one — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0293_i_got_so_i_could_take_his_name|293. I got so I could take his name — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0334_all_the_letters_i_can_write|334. All the letters I can write (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0441_this_is_my_letter_to_the_world|441. This is my letter to the World (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0487_you_love_the_lord_you_cannot_see|487. You love the Lord — you cannot see — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0494_going_to_him_happy_letter|494. Going to Him! Happy letter! (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0544_the_martyr_poets_did_not_tell|544. The Martyr Poets — did not tell — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0636_the_way_i_read_a_letters_this|636. The Way I read a Letter's — this — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0069_low_at_my_problem_bending|69. Low at my problem bending, (Dickinson)]]
-- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0709_publication_is_the_auction|709. Publication — is the Auction (Dickinson)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#075_sonnet_when_i_have_fears_that_i_may_cease_to_be|Sonnet When I have fears that I may cease to be (Keats)]]
+- 1035. Bee! I'm expecting you! (Dickinson)
+- 1089. Myself can read the Telegrams (Dickinson)
+- 109. By a flower — By a letter — (Dickinson)
+- 1126. Shall I take thee, the Poet said (Dickinson)
+- 1261. A Word dropped careless on a Page (Dickinson)
+- 1459. Belshazzar had a Letter — (Dickinson)
+- 1651. A Word made Flesh is seldom (Dickinson)
+- 169. In Ebon Box, when years have flown (Dickinson)
+- 1769. The longest day that God appoints (Dickinson)
+- 1771. How fleet — how indiscreet an one — (Dickinson)
+- 293. I got so I could take his name — (Dickinson)
+- 334. All the letters I can write (Dickinson)
+- 441. This is my letter to the World (Dickinson)
+- 487. You love the Lord — you cannot see — (Dickinson)
+- 494. Going to Him! Happy letter! (Dickinson)
+- 544. The Martyr Poets — did not tell — (Dickinson)
+- 636. The Way I read a Letter's — this — (Dickinson)
+- 69. Low at my problem bending, (Dickinson)
+- 709. Publication — is the Auction (Dickinson)
+- [[works/sonnet-when-i-have-fears-that-i-may-cease-to-be-(keats)|Sonnet When I have fears that I may cease to be (Keats)]]
 - [[works/a-valentine-(poe)|A Valentine (Poe)]]
 - [[works/an-enigma-(poe)|An Enigma (Poe)]]
 - [[works/how-to-write-a-blackwood-article-(poe)|How to Write a Blackwood Article (Poe)]]
@@ -68,34 +68,34 @@ tags:
 - [[works/x-ing-a-paragrab-(poe)|X-Ing a Paragrab (Poe)]]
 - [[works/a-lover’s-complaint-(shakespeare)|A Lover’s Complaint (Shakespeare)]]
 - [[works/love’s-labour’s-lost-(shakespeare)|LOVE’S LABOUR’S LOST (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_103|Sonnet 103 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_108|Sonnet 108 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_011|Sonnet 11 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_122|Sonnet 122 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_017|Sonnet 17 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_018|Sonnet 18 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_026|Sonnet 26 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_032|Sonnet 32 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_038|Sonnet 38 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_063|Sonnet 63 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_065|Sonnet 65 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_074|Sonnet 74 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_076|Sonnet 76 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_078|Sonnet 78 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_079|Sonnet 79 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_080|Sonnet 80 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_081|Sonnet 81 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_082|Sonnet 82 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_084|Sonnet 84 (Shakespeare)]]
+- Sonnet 103 (Shakespeare)
+- Sonnet 108 (Shakespeare)
+- Sonnet 11 (Shakespeare)
+- Sonnet 122 (Shakespeare)
+- Sonnet 17 (Shakespeare)
+- Sonnet 18 (Shakespeare)
+- Sonnet 26 (Shakespeare)
+- Sonnet 32 (Shakespeare)
+- Sonnet 38 (Shakespeare)
+- Sonnet 63 (Shakespeare)
+- Sonnet 65 (Shakespeare)
+- Sonnet 74 (Shakespeare)
+- Sonnet 76 (Shakespeare)
+- Sonnet 78 (Shakespeare)
+- Sonnet 79 (Shakespeare)
+- Sonnet 80 (Shakespeare)
+- Sonnet 81 (Shakespeare)
+- Sonnet 82 (Shakespeare)
+- Sonnet 84 (Shakespeare)
 - [[works/the-merry-wives-of-windsor-(shakespeare)|THE MERRY WIVES OF WINDSOR (Shakespeare)]]
 - [[works/the-two-gentlemen-of-verona-(shakespeare)|THE TWO GENTLEMEN OF VERONA (Shakespeare)]]
 - [[works/twelfth-night-(shakespeare)|TWELFTH NIGHT (Shakespeare)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#300_a_font_of_type|A Font of Type (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#301_as_i_sit_writing_here|As I Sit Writing Here (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#155_come_up_from_the_fields_father|Come Up from the Fields Father (Whitman)]]
-- [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#081_full_of_life_now|Full of Life Now (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#056_trickle_drops|Trickle Drops (Whitman)]]
-- [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#073_what_think_you_i_take_my_pen_in_hand|What Think You I Take My Pen in Hand (Whitman)]]
+- [[works/a-font-of-type-(whitman)|A Font of Type (Whitman)]]
+- [[works/as-i-sit-writing-here-(whitman)|As I Sit Writing Here (Whitman)]]
+- [[works/come-up-from-the-fields-father-(whitman)|Come Up from the Fields Father (Whitman)]]
+- [[works/full-of-life-now-(whitman)|Full of Life Now (Whitman)]]
+- [[works/trickle-drops-(whitman)|Trickle Drops (Whitman)]]
+- [[works/what-think-you-i-take-my-pen-in-hand-(whitman)|What Think You I Take My Pen in Hand (Whitman)]]
 - [[works/a-woman-of-no-importance-(wilde)|A Woman of No Importance (Wilde)]]
 - [[works/an-ideal-husband-(wilde)|An Ideal Husband (Wilde)]]
 - [[works/de-profundis-(wilde)|De Profundis (Wilde)]]

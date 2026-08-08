@@ -59,13 +59,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/double|Double]], [[topoi/quest|Quest]], [[topoi/love-as-religion|Love as Religion]], [[topoi/katabasis-descent|Katabasis Descent]]
-**Archetypes:** [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/witch-enchantress|Witch Enchantress]], [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/lover|Lover]]
+**Archetypes:** Double Doppelganger, Witch Enchantress, Satanic Figure, Lover
 **Motifs:** [[motifs/sea|Sea]], [[motifs/desire|Desire]], [[motifs/love|Love]], [[motifs/supernatural|Supernatural]], [[motifs/mirror|Mirror]], [[motifs/money-and-gold|Money and Gold]], [[motifs/cross|Cross]], [[motifs/moon|Moon]], [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/self-knowledge|Self-Knowledge]], [[concepts/romantic-love|Romantic Love]], [[concepts/temptation|Temptation]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/grace-and-redemption|Grace and Redemption]]
 **Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/allegory|Allegory]], [[forms/short-story|Short Story]]
 **Historical References:** [[historical-references/christianity|Christianity]]
 **Settings:** [[settings/sea-(2)|Sea (2)]], [[settings/orient|Orient]]
-**Characters:** [[characters/satan|Satan]], [[characters/young-fisherman|Young Fisherman]], [[characters/mermaid|Mermaid]], [[characters/soul-(2)|Soul (2)]], [[characters/witch|Witch]]
+**Characters:** Satan, Young Fisherman, Mermaid, Soul (2), Witch
 
 ## Testo integrale / Full text
 

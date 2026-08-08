@@ -11,10 +11,10 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/friendship-tears" data-author="Coleridge" data-workhref="works/friendship-·-tears-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="017_on_a_lady_weeping" data-title="ON A LADY WEEPING" data-chapter="" data-kind="intro" data-tags="motif/tears,motif/birds,motif/spring,concept/love_romantic,concept/friendship,form/lyric,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="017_on_a_lady_weeping" data-title="ON A LADY WEEPING" data-chapter="" data-kind="intro"></span>
 
 
-IMITATION FROM THE LATIN OF NICOLAUS ARCHIUS  
+[[Imitation|IMITATION]] FROM THE LATIN OF NICOLAUS ARCHIUS  
 Lovely gems of radiance meek  
 Trembling down my Laura’s cheek,  
 As the streamlets silent glide  
@@ -34,7 +34,7 @@ And flutters in the fost’ring dew.
 
 
 
-<span class="atom-split" data-atom="079_to_a_friend" data-title="TO A FRIEND" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/friendship,concept/grief_and_loss,concept/melancholy,form/blank_verse,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="079_to_a_friend" data-title="TO A FRIEND" data-chapter="" data-kind="intro"></span>
 
 
 CHARLES [[motifs/lamb|LAMB]]  
@@ -60,7 +60,7 @@ That e’en from [[concepts/friendship|Friendship]]’s eye will shrink asham’
 
 
 
-<span class="atom-split" data-atom="124_to_a_friend_charles_lamb_who_had_declared_his_intention_of_writing_no_more_poetr" data-title="TO A FRIEND: [CHARLES LAMB] WHO HAD DECLARED HIS INTENTION OF WRITING NO MORE POETRY" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/friendship,concept/the_artist_and_society,form/blank_verse,histref/greek_mythology,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="124_to_a_friend_charles_lamb_who_had_declared_his_intention_of_writing_no_more_poetr" data-title="TO A FRIEND: [CHARLES LAMB] WHO HAD DECLARED HIS INTENTION OF WRITING NO MORE POETRY" data-chapter="" data-kind="intro"></span>
 
 
 Dear Charles! whilst yet thou wert a babe, I ween  
@@ -106,7 +106,7 @@ The illustrious brow of Scotch Nobility!
 
 
 
-<span class="atom-split" data-atom="213_an_ode_to_the_rain" data-title="AN ODE TO THE RAIN" data-chapter="" data-kind="intro" data-tags="motif/water,concept/friendship,concept/satire_of_society,concept/joy,form/ode,form/satire,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="213_an_ode_to_the_rain" data-title="AN ODE TO THE RAIN" data-chapter="" data-kind="intro"></span>
 
 
 COMPOSED BEFORE DAYLIGHT, ON THE MORNING APPOINTED FOR THE DEPARTURE OF A VERY WORTHY, BUT NOT VERY PLEASANT VISITOR, WHOM IT WAS FEARED THERAIN MIGHT DETAIN  
@@ -159,7 +159,7 @@ And with him came my sister dear;
 After long absence now first met,  
 Long months by [[motifs/pain|pain]] and grief beset —  
 We three dear friends! in [[concepts/truth|truth]], we groan   45  
-Impatiently to be alone.  
+Impatiently to be [[Alone|alone]].  
 We three, you mark! and not one more!  
 The strong wish makes my spirit sore.  
 We have so much to talk about,  
@@ -189,7 +189,7 @@ Do go, dear Rain! do go away.
 
 
 
-<span class="atom-split" data-atom="274_duty_surviving_self-love_the_only_sure_friend_of_declining_life" data-title="DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/friendship,concept/transience,concept/humility,concept/melancholy,form/lyric,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="274_duty_surviving_self-love_the_only_sure_friend_of_declining_life" data-title="DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE" data-chapter="" data-kind="intro"></span>
 
 
 A SOLILOQUY  
@@ -212,7 +212,7 @@ Because to thee they are not what they were.
 
 
 
-<span class="atom-split" data-atom="335_pondere_non_numero" data-title="PONDERE NON NUMERO" data-chapter="" data-kind="intro" data-tags="concept/friendship,concept/paradox,form/epigram,histref/classical_antiquity,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="335_pondere_non_numero" data-title="PONDERE NON NUMERO" data-chapter="" data-kind="intro"></span>
 
 
 Friends should be weigh’d, not told; who boasts to have won  
@@ -227,7 +227,7 @@ Cf. also Logan, Book II, No. 30.
 
 
 
-<span class="atom-split" data-atom="362_lines_to_thomas_poole" data-title="LINES TO THOMAS POOLE" data-chapter="" data-kind="intro" data-tags="archetype/fool,motif/fire,concept/friendship,concept/joy,concept/truth,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="362_lines_to_thomas_poole" data-title="LINES TO THOMAS POOLE" data-chapter="" data-kind="intro"></span>
 
 
 [Quoted in a letter from Coleridge to John Thelwall, dated  
@@ -239,7 +239,7 @@ T. Poole, —
 Repeating  
 Such verse as Bowles, heart [[concepts/honour|honour]]’d Poet sang,  
 That wakes the Tear, yet steals away the Pang,  
-Then, or with Berkeley, or with Hobbes romance it,  
+Then, or with Berkeley, or with Hobbes [[Romance|romance]] it,  
 Dissecting [[concepts/truth|Truth]] with metaphysic lancet.  
 Or, drawn from up these dark unfathom’d wells,  
 In wiser folly chink the Cap and [[motifs/bells|Bells]].  
@@ -254,7 +254,7 @@ With my own laughter stifled my own wit.
 
 
 
-<span class="atom-split" data-atom="394_profuse_kindness" data-title="PROFUSE KINDNESS" data-chapter="" data-kind="intro" data-tags="concept/friendship,concept/unrequited_love,concept/grief_and_loss,concept/alienation,form/epigram,histref/ancient_greece,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="394_profuse_kindness" data-title="PROFUSE KINDNESS" data-chapter="" data-kind="intro"></span>
 
 
 uÀ¹¿¹ ¿P´r 4Ã±Ã¹½ EÃó À»s¿½ À»s¿½ %¼¹ÃÅ Àq½Ä¿Â.  
@@ -262,7 +262,7 @@ HESIOD. [Works and Days, l. 40.]
 What a [[motifs/spring|spring]]-tide of [[motifs/love|Love]] to dear friends in a shoal!  
 Half of it to one were worth [[topoi/double|double]] the whole!  
 Undated. First published in P. W., 1834.  
-I stand alone, nor tho’ my heart should break,  
+I stand [[Alone|alone]], nor tho’ my heart should break,  
 Have I, to whom I may complain or speak.  
 Here I stand, a hopeless man and sad,  
 Who hoped to have seen my [[motifs/love|Love]], my Life.  
@@ -278,7 +278,7 @@ inscribed on a fly-leaf of Tom. II of Benedetto Menzini’s Poesie,
 
 
 
-<span class="atom-split" data-atom="396_the_three_sorts_of_friends" data-title="THE THREE SORTS OF FRIENDS" data-chapter="" data-kind="intro" data-tags="concept/friendship,concept/love_romantic,concept/beauty,concept/childhood_and_growth,form/epigram,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="396_the_three_sorts_of_friends" data-title="THE THREE SORTS OF FRIENDS" data-chapter="" data-kind="intro"></span>
 
 
 Though friendships differ endless in degree,  

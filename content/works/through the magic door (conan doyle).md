@@ -55,8 +55,8 @@ tags:
 **Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 **Themes & Concepts:** [[concepts/beauty-and-truth|Beauty and Truth]], [[concepts/imagination|Imagination]], [[concepts/creativity|Creativity]], [[concepts/memory-and-time|Memory and Time]], [[concepts/history|History]]
 **Motifs:** [[motifs/the-book|The Book]], [[motifs/book-reading|Book Reading]]
-**Characters:** [[characters/sir-walter-scott|Sir Walter Scott]], [[characters/william-shakespeare|William Shakespeare]]
-**Archetypes:** [[archetypes/the-writer|The Writer]]
+**Characters:** Sir Walter Scott, William Shakespeare
+**Archetypes:** The Writer
 **Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]]
 
 **Also relevant to:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]

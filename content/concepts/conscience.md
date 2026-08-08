@@ -26,36 +26,36 @@ tags:
 - [[works/the-man-who-knew-too-much-(chesterton)|The Man Who Knew Too Much (Chesterton)]]
 - [[works/the-uses-of-diversity-(chesterton)|The Uses of Diversity (Chesterton)]]
 - [[works/titanic-(chesterton)|titanic (Chesterton)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#070_elegy_imitated_from_one_of_akensides_blank-verse_inscriptions|ELEGY IMITATED FROM ONE OF AKENSIDE’S BLANK-VERSE INSCRIPTIONS (Coleridge)]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#331_epitaph_on_a_bad_man|EPITAPH ON A BAD MAN (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#299_forbearance|FORBEARANCE (Coleridge)]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#395_napoleon|NAPOLEON (Coleridge)]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#247_natures_answer|NATURE’S ANSWER (Coleridge)]]
+- [[works/elegy-imitated-from-one-of-akenside’s-blank-verse-inscriptions-(coleridge)|ELEGY IMITATED FROM ONE OF AKENSIDE’S BLANK-VERSE INSCRIPTIONS (Coleridge)]]
+- [[works/epitaph-on-a-bad-man-(coleridge)|EPITAPH ON A BAD MAN (Coleridge)]]
+- [[works/forbearance-(coleridge)|FORBEARANCE (Coleridge)]]
+- [[works/napoleon-(coleridge)|NAPOLEON (Coleridge)]]
+- [[works/nature’s-answer-(coleridge)|NATURE’S ANSWER (Coleridge)]]
 - [[works/osorio-(coleridge)|OSORIO (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#011_progress_of_vice|PROGRESS OF VICE (Coleridge)]]
-- [[testi/coleridge/atomized/transience-decay-carpe-diem#006_quae_nocent_docent|QUAE NOCENT DOCENT (Coleridge)]]
-- [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#277_reflection_on_the_above|REFLECTION ON THE ABOVE (Coleridge)]]
+- [[works/progress-of-vice-(coleridge)|PROGRESS OF VICE (Coleridge)]]
+- [[works/quae-nocent-docent-(coleridge)|QUAE NOCENT DOCENT (Coleridge)]]
+- [[works/reflection-on-the-above-(coleridge)|REFLECTION ON THE ABOVE (Coleridge)]]
 - [[works/remorse-(coleridge)|REMORSE (Coleridge)]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#218_the_pains_of_sleep|THE PAINS OF SLEEP (Coleridge)]]
+- [[works/the-pains-of-sleep-(coleridge)|THE PAINS OF SLEEP (Coleridge)]]
 - [[works/great-expectations-(dickens)|Great Expectations (Dickens)]]
 - [[works/martin-chuzzlewit-(dickens)|Martin Chuzzlewit (Dickens)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1216_a_deed_knocks_first_at_thought|1216. A Deed knocks first at Thought (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1304_not_with_a_club_the_heart_is_broken|1304. Not with a Club, the Heart is broken (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1412_shame_is_the_shawl_of_pink|1412. Shame is the shawl of Pink (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1459_belshazzar_had_a_letter|1459. Belshazzar had a Letter — (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1598_who_is_it_seeks_my_pillow_nights|1598. Who is it seeks my Pillow Nights — (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0041_i_robbed_the_woods|41. I robbed the Woods — (Dickinson)]]
-- [[testi/dickinson/atomized/terror-and-horror-madness#0683_the_soul_unto_itself|683. The Soul unto itself (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0744_remorse_is_memory_awake|744. Remorse — is Memory — awake — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0753_my_soul_accused_me_and_i_quailed|753. My Soul — accused me — And I quailed — (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0894_of_consciousness_her_awful_mate|894. Of Consciousness, her awful Mate (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0969_he_who_in_himself_believes|969. He who in Himself believes — (Dickinson)]]
+- 1216. A Deed knocks first at Thought (Dickinson)
+- 1304. Not with a Club, the Heart is broken (Dickinson)
+- 1412. Shame is the shawl of Pink (Dickinson)
+- 1459. Belshazzar had a Letter — (Dickinson)
+- 1598. Who is it seeks my Pillow Nights — (Dickinson)
+- 41. I robbed the Woods — (Dickinson)
+- 683. The Soul unto itself (Dickinson)
+- 744. Remorse — is Memory — awake — (Dickinson)
+- 753. My Soul — accused me — And I quailed — (Dickinson)
+- 894. Of Consciousness, her awful Mate (Dickinson)
+- 969. He who in Himself believes — (Dickinson)
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
 - [[works/the-elder-statesman-(eliot)|THE ELDER STATESMAN (Eliot)]]
 - [[works/the-family-reunion-(eliot)|THE FAMILY REUNION (Eliot)]]
-- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#062_v_o_lord_deliver_me_from_the_man_of_excellent_intention_and_impure_heart|V O Lord, deliver me from the man of excellent intention and impure heart (Eliot)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#116_sonnet_to_sleep|Sonnet to Sleep (Keats)]]
+- [[works/v-o-lord,-deliver-me-from-the-man-of-excellent-intention-and-impure-heart-(eliot)|V O Lord, deliver me from the man of excellent intention and impure heart (Eliot)]]
+- [[works/sonnet-to-sleep-(keats)|Sonnet to Sleep (Keats)]]
 - [[works/scenes-from-politian-(poe)|Scenes From Politian (Poe)]]
 - [[works/the-black-cat-(poe)|The Black Cat (Poe)]]
 - [[works/the-imp-of-the-perverse-(poe)|The Imp of the Perverse (Poe)]]
@@ -69,12 +69,12 @@ tags:
 - [[works/measure-for-measure-(shakespeare)|MEASURE FOR MEASURE (Shakespeare)]]
 - [[works/richard-iii-(shakespeare)|RICHARD III (Shakespeare)]]
 - [[works/sir-thomas-more-(shakespeare)|SIR THOMAS MORE (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_121|Sonnet 121 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_136|Sonnet 136 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_151|Sonnet 151 (Shakespeare)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#199_song_of_prudence|Song of Prudence (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#337_stronger_lessons|Stronger Lessons (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#360_to_the_pending_year|To the Pending Year (Whitman)]]
+- Sonnet 121 (Shakespeare)
+- Sonnet 136 (Shakespeare)
+- Sonnet 151 (Shakespeare)
+- [[works/song-of-prudence-(whitman)|Song of Prudence (Whitman)]]
+- [[works/stronger-lessons-(whitman)|Stronger Lessons (Whitman)]]
+- [[works/to-the-pending-year-(whitman)|To the Pending Year (Whitman)]]
 - [[works/lord-arthur-savile's-crime-(wilde)|Lord Arthur Savile's Crime (Wilde)]]
 - [[works/the-ballad-of-reading-gaol-(wilde)|The Ballad of Reading Gaol (Wilde)]]
 - [[works/the-picture-of-dorian-gray-(wilde)|The Picture of Dorian Gray (Wilde)]]

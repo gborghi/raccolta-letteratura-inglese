@@ -29,7 +29,7 @@ II THE YELLOW BIRD
 III THE [[archetypes/shadow|SHADOW]] OF THE SHARK
 IV THE CRIME OF GABRIEL GALE
 V THE FINGER OF STONE
-VI THE HOUSE OF THE PEACOCK
+VI THE [[house|HOUSE]] OF THE PEACOCK
 VII THE PURPLE [[motifs/jewel|JEWEL]]
 VIII THE ASYLUM OF ADVENTURE
 
@@ -49,7 +49,7 @@ more grey than green, with broken-down hedges mingling with
 the [[concepts/melancholy|melancholy]] reeds of a [[motifs/river|river]]; with a few dark and dank arbours,
 of which the roofs and the seats had alike collapsed; and a dingy
 dried-up fountain, with a weather-stained [[motifs/water|water]]-nymph and no [[motifs/water|water]].
-The house itself seemed rather devoured by ivy than decorated with it;
+The [[house]] itself seemed rather devoured by ivy than decorated with it;
 as if its old bones of brown brick were slowly broken by the dragon
 coils of that gigantic parasite.  On the other side it looked on a
 lonely [[motifs/road|road]] leading across the hills down to a ford across the [[motifs/river|river]];
@@ -84,7 +84,7 @@ Have you got a cord or a rope or anything?"
 
 The [[concepts/melancholy|melancholy]] inn-keeper turned very slowly and went indoors,
 coming out presently with a length of dusty rope in a loop like a halter,
-probably for tethering a donkey or a calf.
+probably for tethering a [[donkey]] or a calf.
 
 "That's all I've got," he said; "I'm pretty [[motifs/well|well]] at the end of my
 own tether anyhow."
@@ -112,7 +112,7 @@ why anybody should."
 "[[motifs/well|Well]], they say the new squire is nearly bankrupt himself,"
 observed Dr. Garth.  "So [[concepts/history|history]] brings its revenges.
 Westermaine's his name, isn't it?  I'm told there's a brother and sister
-living in the big house over there, with precious little to live on.
+living in the big [[house]] over there, with precious little to live on.
 I suppose the whole countryside's rather gone downhill.
 But you're wrong about nobody coming here," he added suddenly,
 "for there are two men coming over the [[motifs/hill|hill]] now."
@@ -155,7 +155,7 @@ stuffed anyhow into his knapsack.
 
 GLI AMICI FANTASTICI
 
-La locanda chiamata Sole Nascente aveva un aspetto esteriore che suggeriva piuttosto il nome di Sole Calante. Sorgeva in uno stretto triangolo di [[motifs/garden|giardino]], più grigio che verde, con siepi diroccate che si mescolavano ai [[concepts/melancholy|malinconici]] canneti di un [[motifs/river|fiume]]; con alcuni pergolati scuri e umidi, i cui tetti e sedili erano ugualmente crollati; e una squallida fontana prosciugata, con una ninfa d'[[motifs/water|acqua]] macchiata dalle intemperie e senz'[[motifs/water|acqua]]. La casa stessa sembrava più divorata dall'edera che ornata da essa; come se le sue vecchie ossa di mattone bruno fossero lentamente spezzate dalle spire draconiche di quel gigantesco parassita. Dall'altro lato guardava su una [[motifs/road|strada]] solitaria che attraversava le colline scendendo a un guado sul [[motifs/river|fiume]]; ormai in gran parte abbandonato dopo la costruzione di un ponte più a valle. Fuori dalla porta c'erano una panca e un tavolo di legno, e al di sopra un'insegna di legno, molto annerita, con l'oro del disco solare sbiadito in un bruno; e sotto l'insegna stava il locandiere, che scrutava tetro lungo la [[motifs/road|strada]]. I suoi capelli erano neri e lisci, e il suo volto, di un purpureo congesto, aveva tutta la cupezza, se non tutta la [[concepts/beauty|bellezza]], del tramonto.
+La locanda chiamata Sole Nascente aveva un aspetto esteriore che suggeriva piuttosto il nome di Sole Calante. Sorgeva in uno stretto triangolo di [[motifs/garden|giardino]], più grigio che verde, con siepi diroccate che si mescolavano ai [[concepts/melancholy|malinconici]] canneti di un [[motifs/river|fiume]]; con alcuni pergolati scuri e umidi, i cui tetti e sedili erano ugualmente crollati; e una squallida fontana prosciugata, con una ninfa d'[[motifs/water|acqua]] macchiata dalle intemperie e senz'[[motifs/water|acqua]]. La [[house|casa]] stessa sembrava più divorata dall'edera che ornata da essa; come se le sue vecchie ossa di mattone bruno fossero lentamente spezzate dalle spire draconiche di quel gigantesco parassita. Dall'altro lato guardava su una [[motifs/road|strada]] solitaria che attraversava le colline scendendo a un guado sul [[motifs/river|fiume]]; ormai in gran parte abbandonato dopo la costruzione di un ponte più a valle. Fuori dalla porta c'erano una panca e un tavolo di legno, e al di sopra un'insegna di legno, molto annerita, con l'oro del disco solare sbiadito in un bruno; e sotto l'insegna stava il locandiere, che scrutava tetro lungo la [[motifs/road|strada]]. I suoi capelli erano neri e lisci, e il suo volto, di un purpureo congesto, aveva tutta la cupezza, se non tutta la [[concepts/beauty|bellezza]], del tramonto.
 
 L'unica persona del luogo che mostrasse una qualche vivacità era la persona che se ne stava andando. Era il primo e l'ultimo cliente da molti mesi; una solitaria [[motifs/swallow|rondine]] che aveva vistosamente mancato di fare [[motifs/summer|estate]]; e la [[motifs/swallow|rondine]] ora se ne volava via. Era un medico in vacanza; giovane, e di una gradevole bruttezza, con un volto spigoloso e spiritoso e capelli rossi; e l'attività felina dei suoi movimenti contrastava con l'inerzia stagnante della locanda presso il guado. Stava allacciando la propria borsa sul tavolo sotto l'insegna; e né il suo oste, che stava a un passo di distanza, né l'unico servo, che si muoveva pesante e oscuro all'interno, si offrì di aiutarlo; forse per malumore, forse semplicemente per svagatezza e disuso.
 
@@ -163,7 +163,7 @@ Il lungo [[motifs/silence|silenzio]], ozioso o operoso, fu rotto per la prima [[
 
 «Bell'affare», osservò il signore medico, che rispondeva al nome di Garth; «dovrò legarla con qualcosa. Avete uno spago o una corda o qualcosa del genere?»
 
-Il [[concepts/melancholy|malinconico]] locandiere si voltò molto lentamente ed entrò in casa, uscendone poco dopo con un pezzo di corda polverosa avvolto in un cappio come una cavezza, probabilmente per legare un asino o un vitello.
+Il [[concepts/melancholy|malinconico]] locandiere si voltò molto lentamente ed entrò in casa, uscendone poco dopo con un pezzo di corda polverosa avvolto in un cappio come una cavezza, probabilmente per legare un [[donkey|asino]] o un vitello.
 
 «È tutto ciò che ho», disse; «e comunque sono [[motifs/well|proprio]] alla fine della mia corda.»
 
@@ -175,7 +175,7 @@ Il [[concepts/melancholy|malinconico]] locandiere si voltò molto lentamente ed 
 
 «Molto obbligato, signore», osservò l'altro burbero, «ma ci vorrebbero ben più conti per impedire a questa vecchia baracca marcia di andare in rovina. Un tempo era un buon affare, quando il diritto di passaggio era aperto oltre il [[motifs/river|fiume]], e tutti usavano questo guado. Ma l'ultimo signorotto ha chiuso il sentiero in qualche modo; e ora tutto passa dal ponte nuovo un miglio più in là. Nessuno viene da questa parte; e, con rispetto parlando, non so perché qualcuno dovrebbe.»
 
-«[[motifs/well|Beh]], dicono che lo stesso signorotto nuovo sia quasi in bancarotta», osservò il dottor Garth. «Così la [[concepts/history|storia]] porta le sue vendette. Westermaine è il suo nome, non è vero? Mi dicono che ci sono un fratello e una sorella che vivono nella grande casa laggiù, con ben poco di che vivere. Suppongo che l'intera campagna sia piuttosto andata in declino. Ma vi sbagliate sul fatto che nessuno venga qui», aggiunse d'un tratto, «perché ci sono due uomini che stanno scavalcando la [[motifs/hill|collina]] proprio ora.»
+«[[motifs/well|Beh]], dicono che lo stesso signorotto nuovo sia quasi in bancarotta», osservò il dottor Garth. «Così la [[concepts/history|storia]] porta le sue vendette. Westermaine è il suo nome, non è vero? Mi dicono che ci sono un fratello e una sorella che vivono nella grande [[house|casa]] laggiù, con ben poco di che vivere. Suppongo che l'intera campagna sia piuttosto andata in declino. Ma vi sbagliate sul fatto che nessuno venga qui», aggiunse d'un tratto, «perché ci sono due uomini che stanno scavalcando la [[motifs/hill|collina]] proprio ora.»
 
 La [[motifs/road|strada]] attraversava la valle ad angolo retto rispetto al [[motifs/river|fiume]]; oltre il guado il dimenticato diritto di passaggio si poteva rintracciare più debolmente su per il pendio fino al punto in cui il cancello in rovina che segnava l'Abbazia di Westermaine si ergeva scuro contro nubi di un pallore vagamente sinistro, come con un accenno di [[motifs/storm|tempesta]]. Ma dall'altro lato della valle il cielo era limpido; e il primo pomeriggio sembrava luminoso e vivace come il mattino. E da questo lato, dove la bianca [[motifs/road|strada]] curvava oltre la [[motifs/hill|collina]], avanzavano due figure che sembravano, anche quando erano appena più che puntini in lontananza, marcatamente dissimili.
 
@@ -195,7 +195,7 @@ character had disappeared into his gloomy place of entertainment,
 he turned to the doctor with the same radiant loquacity:
 
 "My friend's a painter," he explained, "but rather a special sort
-of painter.  You might call him a house-painter; but he's not quite
+of painter.  You might call him a [[house]]-painter; but he's not quite
 what most people mean by one.  It may surprise you, sir, but he's
 an R.A., and not the stuffy sort that sometimes suggests, either.
 One of the first among the young geniuses, and exhibits at all
@@ -224,11 +224,11 @@ and Christian again.  If I could do it, I would do nothing else
 till I die."
 
 "Of course you can do it," replied his travelling companion.
-"A picture by an [[archetypes/artist|artist]] like you, and hung outside a public-house,
+"A picture by an [[archetypes/artist|artist]] like you, and hung outside a public-[[house]],
 makes it fashionable for miles round."
 
 "Is it really true, then," inquired Dr. Garth, "that you employ
-all your serious powers on subjects like public-house signs?"
+all your serious powers on subjects like public-[[house]] signs?"
 
 "What finer subjects are there, even as subjects?" asked the painter;
 he was now evidently full of his favourite subject and he was one of
@@ -253,7 +253,7 @@ it with absorption.
 "He's a poet as [[motifs/well|well]] as a painter, you know," explained the smaller man,
 still regarding his companion with an absurd air of proprietorship,
 as if he himself were the keeper and showman of some singular
-wild animal; "You've probably heard of the poems of Gabriel Gale,
+wild animal; "You've probably heard of the [[Poems|poems]] of Gabriel Gale,
 illustrated by himself?  I can get you a copy if you are interested
 in these things.  I'm his agent and business man; my name's Hurrel...
 James Hurrel.  People laugh at us and call us the Heavenly Twins,
@@ -281,7 +281,7 @@ practical idea, too.  I'm a business man, and you may believe me
 it's really a business proposition.  Not only for us, but for
 the other people too... for the inn-keepers and the villagers
 and the squires, and everybody.  Why, look at this broken-down
-ale-house they call the Rising Sun.  If everyone would work together,
+ale-[[house]] they call the Rising Sun.  If everyone would work together,
 they could have this empty hole humming like a hive in a year.
 If the squire would open the old [[motifs/road|road]] and let people visit the ruins,
 if he'd build a bridge here by the inn and hang out a sign painted
@@ -309,7 +309,7 @@ Si fermarono davanti alla locanda; e l'uomo più basso disse gioviale al suo com
 
 Poi chiamò con vivace cortesia il locandiere, chiedendogli di portare fuori due boccali di birra; e quando quel tetro personaggio fu scomparso nel suo tetro luogo di ristoro, si rivolse al dottore con la stessa raggiante loquacità:
 
-«Il mio amico è un pittore», spiegò, «ma un pittore piuttosto particolare. Potreste chiamarlo un imbianchino di case; ma non è affatto ciò che la maggior parte della gente intende con questo. Vi sorprenderà, signore, ma è un membro della R.A., e nemmeno di quella specie tronfia che a volte questo suggerisce. Uno dei primi tra i giovani geni, ed espone in tutte le loro stravaganti gallerie. Ma tutto il suo scopo e la sua gloria nella vita è andare in giro a ridipingere le insegne delle locande. Ecco; non tutti i giorni s'incontra un genio con una fisima simile. Come si chiama questa taverna?»
+«Il mio amico è un pittore», spiegò, «ma un pittore piuttosto particolare. Potreste chiamarlo un imbianchino di [[house|case]]; ma non è affatto ciò che la maggior parte della gente intende con questo. Vi sorprenderà, signore, ma è un membro della R.A., e nemmeno di quella specie tronfia che a volte questo suggerisce. Uno dei primi tra i giovani geni, ed espone in tutte le loro stravaganti gallerie. Ma tutto il suo scopo e la sua gloria nella vita è andare in giro a ridipingere le insegne delle locande. Ecco; non tutti i giorni s'incontra un genio con una fisima simile. Come si chiama questa taverna?»
 
 E si alzò sulla punta dei piedi, tendendo il collo e scrutando l'insegna annerita con una straordinaria e trattenuta vivacità nella sua curiosità.
 
@@ -319,23 +319,23 @@ E si alzò sulla punta dei piedi, tendendo il collo e scrutando l'insegna anneri
 
 «Non lo sento tanto a proposito dell'Impero», disse il pittore semplicemente, rompendo il suo [[motifs/silence|silenzio]] come chi pensa ad alta voce spontaneamente. «Dopotutto, non si immagina una locanda inglese in cima al Monte Everest, o da qualche parte lungo il Canale di Suez. Ma la propria vita sarebbe [[motifs/well|ben]] spesa a risvegliare le locande morte d'Inghilterra e a renderle di nuovo inglesi e cristiane. Se potessi farlo, non farei altro fino alla morte.»
 
-«Certo che puoi farlo», rispose il suo compagno di viaggio. «Un quadro di un [[archetypes/artist|artista]] come te, appeso fuori da una osteria, la rende alla moda per miglia intorno.»
+«Certo che puoi farlo», rispose il suo compagno di viaggio. «Un quadro di un [[archetypes/artist|artista]] come te, appeso fuori da una [[house|osteria]], la rende alla moda per miglia intorno.»
 
-«È davvero vero, allora», domandò il dottor Garth, «che voi impiegate tutte le vostre serie facoltà su soggetti come le insegne delle osterie?»
+«È davvero vero, allora», domandò il dottor Garth, «che voi impiegate tutte le vostre serie facoltà su soggetti come le insegne delle [[house|osterie]]?»
 
 «Quali soggetti più belli esistono, anche solo come soggetti?» chiese il pittore; era ormai evidentemente pieno del suo argomento prediletto ed era uno di quelli che o stanno astrattamente in silenzio o discutono con ardore. «È più dignitoso dipingere un ritratto d'Accademia di qualche sindaco snob con una catena d'oro, o della moglie di qualche milionario truffatore con un diadema di diamanti, che dipingere le teste dei grandi ammiragli inglesi, da brindare con buona birra? È meglio dipingere qualche vecchio babbeo nepotista che indossa il suo Giorgio e la sua Giarrettiera, che dipingere san Giorgio stesso nell'atto di uccidere il Drago? Ho ridipinto sei vecchie insegne di san Giorgio e il Drago, o perfino del Drago senza san Giorgio; un'insegna chiamata il Drago Verde è di solito molto suggestiva per chiunque abbia un po' d'[[concepts/imagination|immaginazione]]; puoi farne una sorta di spirito e terrore delle foreste tropicali. Perfino un Cinghiale Azzurro è suggestivo; qualcosa di notturno con [[motifs/stars|stelle]] come l'Orsa Maggiore; come quel fosco e mostruoso cinghiale che rappresentava il caos e l'antica [[motifs/night|Notte]] nella mitologia celtica.»
 
 E allungò la mano verso il suo boccale di peltro, e vi si applicò con assorto raccoglimento.
 
-«È un poeta [[motifs/well|oltre]] che un pittore, sapete», spiegò l'uomo più piccolo, continuando a osservare il suo compagno con un'assurda aria di proprietà, come se lui stesso fosse il custode e l'esibitore di qualche singolare animale selvatico; «avrete probabilmente sentito parlare delle Poesie di Gabriel Gale, illustrate da lui stesso? Posso procurarvene una copia se vi interessano queste cose. Sono il suo agente e uomo d'affari; il mio nome è Hurrel... James Hurrel. La gente ride di noi e ci chiama i Gemelli Celesti, perché siamo inseparabili, e non lo perdo mai di vista. Devo badare a lui... eccentricità del genio, sapete.»
+«È un poeta [[motifs/well|oltre]] che un pittore, sapete», spiegò l'uomo più piccolo, continuando a osservare il suo compagno con un'assurda aria di proprietà, come se lui stesso fosse il custode e l'esibitore di qualche singolare animale selvatico; «avrete probabilmente sentito parlare delle [[Poems|Poesie]] di Gabriel Gale, illustrate da lui stesso? Posso procurarvene una copia se vi interessano queste cose. Sono il suo agente e uomo d'affari; il mio nome è Hurrel... James Hurrel. La gente ride di noi e ci chiama i Gemelli Celesti, perché siamo inseparabili, e non lo perdo mai di vista. Devo badare a lui... eccentricità del genio, sapete.»
 
 Il pittore staccò il volto dal boccale di peltro, un volto infiammato di polemica.
 
 «Il genio non dovrebbe essere eccentrico!» gridò con una certa concitazione. «Il genio dovrebbe essere centrico. Dovrebbe stare nel nucleo del cosmo, non sui bordi che ruotano. La gente sembra credere che sia un complimento accusare uno di essere un [[archetypes/outsider|estraneo]], e parlare delle eccentricità del genio. Che cosa penserebbero, se dicessi che vorrei soltanto, per Dio, avere le centricità del genio?»
 
-«[[concepts/fear|Temo]] penserebbero che è la birra», rispose il dottor Garth, «ad aver leggermente confuso i vostri polisillabi. [[motifs/well|Beh]], può essere un'idea romantica far rivivere le vecchie insegne, come dite. Il romanticismo non è molto nelle mie corde.»
+«[[concepts/fear|Temo]] penserebbero che è la birra», rispose il dottor Garth, «ad aver leggermente confuso i vostri polisillabi. [[motifs/well|Beh]], può essere un'idea romantica far rivivere le vecchie insegne, come dite. Il [[Romance|romanticismo]] non è molto nelle mie corde.»
 
-Il signor Hurrel, l'agente, intervenne bruscamente, e perfino con ardore. «Ma non è soltanto un'idea romantica», spiegò; «è anche un'idea reale, pratica. Sono un uomo d'affari, e potete credermi che è davvero una proposta commerciale. Non solo per noi, ma anche per gli altri... per i locandieri e i paesani e i signorotti, e per tutti. Ma guardate questa cadente osteria di birra che chiamano il Sole Nascente. Se tutti lavorassero insieme, potrebbero far ronzare questo buco vuoto come un alveare nel giro di un anno. Se il signorotto aprisse la vecchia [[motifs/road|strada]] e lasciasse che la gente visitasse le rovine, se costruisse un ponte qui presso la locanda e appendesse un'insegna dipinta da Gabriel Gale, avreste tutti i turisti colti d'Europa a fermarsi qui per pranzo.»
+Il signor Hurrel, l'agente, intervenne bruscamente, e perfino con ardore. «Ma non è soltanto un'idea romantica», spiegò; «è anche un'idea reale, pratica. Sono un uomo d'affari, e potete credermi che è davvero una proposta commerciale. Non solo per noi, ma anche per gli altri... per i locandieri e i paesani e i signorotti, e per tutti. Ma guardate questa cadente [[house|osteria]] di birra che chiamano il Sole Nascente. Se tutti lavorassero insieme, potrebbero far ronzare questo buco vuoto come un alveare nel giro di un anno. Se il signorotto aprisse la vecchia [[motifs/road|strada]] e lasciasse che la gente visitasse le rovine, se costruisse un ponte qui presso la locanda e appendesse un'insegna dipinta da Gabriel Gale, avreste tutti i turisti colti d'Europa a fermarsi qui per pranzo.»
 
 «Ehilà!» gridò il dottore. «Sembra che stiano già venendo a pranzo. Davvero, il nostro pessimista amico lì dentro parlava come se questa fosse una rovina nel [[motifs/desert|deserto]]; ma comincio a credere che faccia affari come il Savoy.»
 
@@ -426,7 +426,7 @@ down to a luncheon that was really a committee round the table
 in the dreary [[motifs/garden|garden]] beside the [[motifs/river|river]].  Hurrel was drawing plans
 on the wooden table and making calculations on pieces of paper,
 and reeling off figures and answering objections and growing every
-moment more restless and radiant.  He had one piece of magic for making
+moment more restless and radiant.  He had one piece of [[Magic|magic]] for making
 others believe... the fact that he evidently believed himself;
 and the squire, who had never met such a person before, had no weapons
 with which to fight him, even if it had been his interest to do so.
@@ -486,7 +486,7 @@ Quando ebbe smesso di guardarla, lei cominciò a guardare lui, ma con una curios
 
 Nel frattempo, il signor James Hurrel aveva compiuto meraviglie, per non dire miracoli. Con qualcosa di più della tenacia di un imbonitore, con qualcosa dell'eloquenza del diplomatico nato, aveva già avvolto attorno al signorotto una rete di suggerimenti e proposte e possibilità. C'era davvero in lui qualcosa di quell'uomo d'affari fantasioso di cui tanto sentiamo parlare e così poco vediamo. Faccende che un uomo come Westermaine non avrebbe mai potuto normalmente concepire come definibili se non con lunghe lettere di avvocati estese su parecchi mesi, sembravano sistemarsi davanti a lui in parecchi minuti. Un nuovo ponte del più artistico legname sembrava già puntare attraverso il [[motifs/river|fiume]] verso la [[motifs/road|strada]] aperta; una nuova e più alta classe di affitti sembrava già punteggiare la valle di villaggi artistici; e una nuova aurea insegna del Sole Nascente, con la firma di Gabriel Gale, già fiammeggiava sopra di loro, un simbolo che il sole era davvero sorto.
 
-Prima ancora di rendersene conto, l'intera compagnia era stata sospinta nel modo più amichevole attraverso la locanda, e fatta sedere a un pranzo che era in realtà un comitato attorno al tavolo nel tetro [[motifs/garden|giardino]] accanto al [[motifs/river|fiume]]. Hurrel disegnava piani sul tavolo di legno e faceva calcoli su pezzi di carta, e snocciolava cifre e rispondeva alle obiezioni e diventava ogni momento più irrequieto e raggiante. Aveva un elemento di magia per far credere gli altri... il fatto che evidentemente credeva lui stesso; e il signorotto, che non aveva mai incontrato una persona simile prima, non aveva armi con cui combatterlo, anche se fosse stato suo interesse farlo. In mezzo a tutto questo turbinìo Lady [[characters/diana|Diana]] guardò dall'altra parte verso Gale, che sedeva all'angolo opposto del tavolo, alquanto distaccato e trasognato.
+Prima ancora di rendersene conto, l'intera compagnia era stata sospinta nel modo più amichevole attraverso la locanda, e fatta sedere a un pranzo che era in realtà un comitato attorno al tavolo nel tetro [[motifs/garden|giardino]] accanto al [[motifs/river|fiume]]. Hurrel disegnava piani sul tavolo di legno e faceva calcoli su pezzi di carta, e snocciolava cifre e rispondeva alle obiezioni e diventava ogni momento più irrequieto e raggiante. Aveva un elemento di [[Magic|magia]] per far credere gli altri... il fatto che evidentemente credeva lui stesso; e il signorotto, che non aveva mai incontrato una persona simile prima, non aveva armi con cui combatterlo, anche se fosse stato suo interesse farlo. In mezzo a tutto questo turbinìo Lady [[characters/diana|Diana]] guardò dall'altra parte verso Gale, che sedeva all'angolo opposto del tavolo, alquanto distaccato e trasognato.
 
 «Che cosa ne pensate, signor Gale?» disse lei; ma il consulente d'affari del signor Gale rispose per lui, come rispondeva per tutti e per tutto.
 
@@ -509,7 +509,7 @@ Almost as he spoke a noise like a sort of cry came through the inn
 from the [[motifs/road|road]] beyond, and Dr. Garth sprang to his feet and stood peering
 in at the door.  The next moment Gale also seemed to rouse himself
 with a sort of sudden agitation; and the moment after that the others
-were all following the doctor, who had already started through the house.
+were all following the doctor, who had already started through the [[house]].
 But when he came to the front door Gale turned for a moment,
 barring the exit with his tall figure, and said:
 
@@ -556,7 +556,7 @@ a moment, said with a certain abruptness:
 
 "Look here, I want to ask you a favour, which may seem an odd one.
 I want you to let me question this poor chap when he comes to.
-Give me ten minutes alone with him, and I will promise to cure him
+Give me ten minutes [[Alone|alone]] with him, and I will promise to cure him
 of suicidal mania better than a policeman could."
 
 "But why you especially?" asked the doctor, in some natural annoyance.
@@ -632,7 +632,7 @@ medieval world; which were all she knew of the medieval world.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Quasi mentre parlava un rumore simile a una specie di grido giunse attraverso la locanda dalla [[motifs/road|strada]] al di là, e il dottor Garth balzò in piedi e rimase a scrutare dentro la porta. L'istante dopo anche Gale parve riscuotersi con una sorta di improvvisa agitazione; e l'istante ancora successivo gli altri seguivano tutti il dottore, che aveva già preso ad attraversare la casa. Ma quando giunse alla porta d'ingresso Gale si voltò per un momento, sbarrando l'uscita con la sua alta figura, e disse:
+Quasi mentre parlava un rumore simile a una specie di grido giunse attraverso la locanda dalla [[motifs/road|strada]] al di là, e il dottor Garth balzò in piedi e rimase a scrutare dentro la porta. L'istante dopo anche Gale parve riscuotersi con una sorta di improvvisa agitazione; e l'istante ancora successivo gli altri seguivano tutti il dottore, che aveva già preso ad attraversare la [[house|casa]]. Ma quando giunse alla porta d'ingresso Gale si voltò per un momento, sbarrando l'uscita con la sua alta figura, e disse:
 
 «Non lasciate uscire la signora.»
 
@@ -652,7 +652,7 @@ Hurrel e il dottore portarono lo sventurato locandiere dentro la sua locanda, e 
 
 Rise brevemente e aggrottò pesantemente la fronte, e poi, dopo aver rimuginato un momento, disse con una certa bruschezza:
 
-«Sentite, voglio chiedervi un favore, che potrà sembrare bizzarro. Voglio che mi lasciate interrogare questo pover'uomo quando rinviene. Datemi dieci minuti da solo con lui, e prometto di guarirlo dalla mania suicida meglio di quanto potrebbe un poliziotto.»
+«Sentite, voglio chiedervi un favore, che potrà sembrare bizzarro. Voglio che mi lasciate interrogare questo pover'uomo quando rinviene. Datemi dieci minuti [[Alone|da solo]] con lui, e prometto di guarirlo dalla mania suicida meglio di quanto potrebbe un poliziotto.»
 
 «Ma perché proprio voi?» chiese il dottore, con un certo naturale fastidio.
 
@@ -749,7 +749,7 @@ pretty dicky.  As it is, we shall have to [[motifs/cross|cross]] two at a [[moti
 in our own rotten old cart."
 
 It was in a sort of dream that she found herself again untethering
-the [[motifs/horse|horse]] and again taking the reins.  It was in a dream
+the [[motifs/horse|horse]] and again taking the reins.  It was in [[A Dream|a dream]]
 that she heard the voice that irritated her so much saying,
 "Heavenly Twins, you know, Heavenly Twins; we mustn't be parted";
 and then the voice of the squire replying, "Oh, it'll only be
@@ -779,7 +779,7 @@ of an intense interest, does not in any other point affect this story.
 It is enough to say that he was rather deaf, and, like many grooms,
 more sympathetic with the moods of horses than of men.
 Lady [[characters/diana|Diana]] sought him out in the stable, which stood far from
-the house and near the [[motifs/river|river]], and told him to take the dog-cart back
+the [[house]] and near the [[motifs/river|river]], and told him to take the dog-cart back
 for the rest of the party.  She spoke hurriedly and told him to hurry,
 because the rain would soon make the ford difficult; and her phrases,
 combined with his own bias, turned his mind chiefly to a consideration
@@ -869,7 +869,7 @@ piuttosto malsicuro. Così com'è, dovremo [[motifs/cross|attraversare]] due all
 sul nostro sgangherato vecchio carro.»
 
 Fu in una sorta di sogno che si ritrovò di nuovo a slegare
-il [[motifs/horse|cavallo]] e a prendere di nuovo le redini. Fu in un sogno
+il [[motifs/horse|cavallo]] e a prendere di nuovo le redini. Fu in [[A Dream|un sogno]]
 che udì la voce che tanto la irritava dire:
 «Gemelli Celesti, sa, Gemelli Celesti; non dobbiamo essere separati»;
 e poi la voce dello squire che rispondeva: «Oh, sarà solo
@@ -899,7 +899,7 @@ di un intenso interesse, non tocca sotto nessun altro punto questa storia.
 Basti dire che era piuttosto sordo, e, come molti stallieri,
 più in sintonia con gli umori dei cavalli che con quelli degli uomini.
 Lady [[characters/diana|Diana]] lo cercò nella stalla, che si trovava lontano
-dalla casa e vicino al [[motifs/river|fiume]], e gli disse di riportare indietro il calessino
+dalla [[house|casa]] e vicino al [[motifs/river|fiume]], e gli disse di riportare indietro il calessino
 per il resto della comitiva. Parlò frettolosamente e gli disse di sbrigarsi,
 perché la pioggia avrebbe presto reso difficile il guado; e le sue frasi,
 combinate con la sua stessa inclinazione, rivolsero la sua mente principalmente a una considerazione
@@ -936,13 +936,13 @@ He seemed to be waving his arms slowly like branches in
 a breeze, and she fancied the arms were unnaturally long.
 For an instant she had the ugly fancy that the figure was deformed;
 and yet the more unearthly fancy that it had no head.
-Then the nightmare turned into ordinary nonsense, for the man
+Then the [[nightmare]] turned into ordinary nonsense, for the man
 threw a sort of cartwheel and alighted on his feet laughing.
 He had actually been standing on his head, or rather on his hands.
 
 "Excuse me," he said, "I often do that.  It's a very good thing
 for a landscape-painter to see the landscape upside down.
-He sees things then as they really are; yes, and that's true in philosophy
+He sees things then as they really are; yes, and that's true in [[philosophy]]
 as [[motifs/well|well]] as art."  He brooded and then explained explosively.
 
 "It's all very [[motifs/well|well]] to talk about being topsy-turvy. But when
@@ -1000,7 +1000,7 @@ moment looked impassable, like the [[motifs/river|river]] of [[motifs/death|deat
 
 In a strange way it seemed to her a symbol of something
 greater than the mere grim realism that would have told her,
-now only too plainly, that she was left alone with a lunatic.
+now only too plainly, that she was left [[Alone|alone]] with a lunatic.
 Somehow it seemed that the lunacy itself was only a sort
 of abominable accident and obstacle between her and something
 that might have been beautiful and a satisfaction of the [[motifs/soul|soul]].
@@ -1036,7 +1036,7 @@ and there [[motifs/rose|rose]] in her a furious refusal to be a passive spectato
 of what might [[motifs/well|well]] be merely a [[concepts/suicide|suicide]].  After all, however mad
 he might be, the man was doing the right thing in trying to rejoin
 his medical attendant; and she would not have the last effort
-of his sanity frustrated by the antics of his disease.
+of his [[Sanity|sanity]] frustrated by the antics of his disease.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1058,13 +1058,13 @@ Sembrava agitare le braccia lentamente come rami in
 una brezza, e le parve che le braccia fossero innaturalmente lunghe.
 Per un istante ebbe la brutta impressione che la figura fosse deforme;
 e tuttavia l'impressione ancor più sovrannaturale che non avesse testa.
-Poi l'incubo si mutò in ordinaria assurdità, poiché l'uomo
+Poi l'[[nightmare|incubo]] si mutò in ordinaria assurdità, poiché l'uomo
 fece una specie di ruota e atterrò sui piedi ridendo.
 In effetti era stato in piedi sulla testa, o piuttosto sulle mani.
 
 «Mi scusi», disse, «lo faccio spesso. È un'ottima cosa
 per un paesaggista vedere il paesaggio a testa in giù.
-Allora vede le cose come realmente sono; sì, e questo è vero in filosofia
+Allora vede le cose come realmente sono; sì, e questo è vero in [[philosophy|filosofia]]
 come [[motifs/well|pure]] nell'arte.» Meditò e poi spiegò con foga esplosiva.
 
 «Va tutto molto [[motifs/well|bene]] parlare dell'essere a gambe all'aria. Ma quando
@@ -1122,7 +1122,7 @@ momento selvaggio appariva invalicabile, come il [[motifs/river|fiume]] della [[
 
 In modo strano le parve un simbolo di qualcosa
 di più grande del mero cupo realismo che le avrebbe detto,
-ormai fin troppo chiaramente, che era rimasta sola con un pazzo.
+ormai fin troppo chiaramente, che era rimasta [[Alone|sola]] con un pazzo.
 In qualche modo pareva che la pazzia stessa fosse soltanto una sorta
 di abominevole incidente e ostacolo tra lei e qualcosa
 che avrebbe potuto essere bello e un appagamento dell'[[motifs/soul|anima]].
@@ -1158,7 +1158,7 @@ e in lei [[motifs/rose|sorse]] un furioso rifiuto di essere spettatrice passiva
 di quello che poteva [[motifs/well|ben]] essere un semplice [[concepts/suicide|suicidio]]. Dopotutto, per quanto pazzo
 egli fosse, l'uomo stava facendo la cosa giusta nel cercare di raggiungere
 il suo medico assistente; e lei non avrebbe permesso che l'ultimo sforzo
-della sua ragione fosse frustrato dalle stravaganze della sua malattia.
+della sua [[Sanity|ragione]] fosse frustrato dalle stravaganze della sua malattia.
 
 
 
@@ -1209,7 +1209,7 @@ and twigs upon the wooded heights, and the clover in the flat
 fields beside the [[motifs/river|river]].  And with the same clarity she saw for an
 instant something incredible and abominable, and yet not wholly
 new or unfamiliar... something that returned in the waking world
-as a detested nightmare will return in [[motifs/sleep|sleep]].  It was the black
+as a detested [[nightmare]] will return in [[motifs/sleep|sleep]].  It was the black
 figure of a man dangling from the painted gallows of the Rising Sun.
 But it was not the same man.
 
@@ -1260,7 +1260,7 @@ behaved far worse than the lunatic."
 
 They had drawn nearer to the doorway, and their voices
 also were covered by the noise of the elements, so that they
-were almost as much alone as when they stood beyond the [[motifs/river|river]].
+were almost as much [[Alone|alone]] as when they stood beyond the [[motifs/river|river]].
 She remembered the earlier dialogue, and the violent and mysterious
 language he had used in it; and she said doubtfully:
 
@@ -1379,7 +1379,7 @@ e dei ramoscelli sulle alture boscose, e il trifoglio nei piatti
 campi accanto al [[motifs/river|fiume]]. E con la medesima chiarezza vide per un
 istante qualcosa di incredibile e abominevole, e tuttavia non del tutto
 nuovo o sconosciuto... qualcosa che ritornava nel mondo della veglia
-come un detestato incubo ritornerà nel [[motifs/sleep|sonno]]. Era la nera
+come un detestato [[nightmare|incubo]] ritornerà nel [[motifs/sleep|sonno]]. Era la nera
 figura di un uomo che pendeva dalla dipinta forca del Sole Nascente.
 Ma non era lo stesso uomo.
 
@@ -1430,7 +1430,7 @@ comportato assai peggio del pazzo.»
 
 Si erano avvicinati alla soglia, e anche le loro voci
 erano coperte dal rumore degli elementi, così che erano
-quasi tanto soli quanto quando stavano al di là del [[motifs/river|fiume]].
+quasi tanto [[Alone|soli]] quanto quando stavano al di là del [[motifs/river|fiume]].
 Ella ricordò il dialogo precedente, e il violento e misterioso
 linguaggio che egli vi aveva usato; e disse con dubbio:
 
@@ -1525,13 +1525,13 @@ by comparison, but the grey columns of which were mirrored in the curving
 [[motifs/river|river]] like a long winding colonnade.  Only a little way along,
 on one side of the [[motifs/river|river]], the bank was cleared of timber, and formed
 a platform for old gardens and orchards, in the midst of which stood
-an old tall house, of a rich brown brick with blue shutters,
+an old tall [[house]], of a rich brown brick with blue shutters,
 and rather neglected creepers clinging to it, more like moss to a stone
 than like [[motifs/flowers|flowers]] to a flower-bed. The roof was flat, with a chimney
 near the centre of it, from which a thin thread of smoke was drawn up
-into the sky; the only sign that the house was not wholly deserted.
+into the sky; the only sign that the [[house]] was not wholly deserted.
 Of the five men who looked down at the landscape, only one had any
-special reason for looking at the house.
+special reason for looking at the [[house]].
 
 The eldest of the artists, a dark, active, ambitious man
 in spectacles, destined to be famous afterwards under the name
@@ -1559,32 +1559,32 @@ for he was more interested in science than in art, and carried
 not a paint-box but a camera.  Nevertheless, he was, not without
 an intelligent appreciation of scenery, and he was in the act
 of fixing up his photographic apparatus so that it covered the angle
-of the [[motifs/river|river]] where stood the neglected [[motifs/garden|garden]] and the distant house.
+of the [[motifs/river|river]] where stood the neglected [[motifs/garden|garden]] and the distant [[house]].
 And at that moment the fifth man, who had not yet moved or spoken,
 made so abrupt and arresting a gesture that one might say that
 he struck up the camera, like a gun pointed to kill.
 
 "Don't," he said; "it's bad enough when they try to paint it."
 
-"What's the matter?" asked Garth.  "Don't you like that house?"
+"What's the matter?" asked Garth.  "Don't you like that [[house]]?"
 
 "I like it too much," said the other, "or rather, I [[motifs/love|love]] it too much
 to like it at all."
 
 The fifth man who spoke was the youngest of the party,
-but he had already at least some local success and celebrity;
+but he had already at least some local [[success]] and celebrity;
 partly because he had devoted his talent to the landscape
 and legends of that countryside, and partly because he came of a
 family of small squires whose name was historic in those hills.
 He was tall, with dark-brown hair and a long brown face, with a
 high-bridged nose that looked rather distinguished than handsome;
 and there was a permanent cloud of consideration on his brow
-that made him seem much older than his years.  He alone of all
+that made him seem much older than his years.  He [[Alone|alone]] of all
 these men had made no gesture, either of labour or relaxation,
 on coming to the crest of the [[motifs/hill|hill]].  While Walton went to and fro,
 and Hutton started cheerfully on his meal, and Gale flung himself
 on the couch of [[motifs/leaves|leaves]] to look up into the tree-tops, this man
-had stood like a statue looking across the valley to the house,
+had stood like a statue looking across the valley to the [[house]],
 and it was only when Garth pointed his camera that he had even
 lifted a hand.
 
@@ -1637,13 +1637,13 @@ al confronto, ma le cui grigie colonne si specchiavano nel [[motifs/river|fiume]
 come un lungo colonnato serpeggiante. Solo un poco più avanti,
 su un lato del [[motifs/river|fiume]], la riva era sgombra di alberi, e formava
 una piattaforma per vecchi giardini e frutteti, in mezzo ai quali sorgeva
-una vecchia alta casa, di un ricco mattone bruno con imposte azzurre,
+una vecchia alta [[house|casa]], di un ricco mattone bruno con imposte azzurre,
 e rampicanti piuttosto trascurati aggrappati a essa, più come muschio a una pietra
 che come [[motifs/flowers|fiori]] a un'aiuola. Il tetto era piatto, con un comignolo
 vicino al suo centro, dal quale un sottile filo di fumo veniva tirato su
-nel cielo; l'unico segno che la casa non fosse del tutto abbandonata.
+nel cielo; l'unico segno che la [[house|casa]] non fosse del tutto abbandonata.
 Dei cinque uomini che guardavano giù verso il paesaggio, uno solo aveva qualche
-speciale ragione di guardare la casa.
+speciale ragione di guardare la [[house|casa]].
 
 Il più anziano degli artisti, un uomo scuro, attivo, ambizioso
 con gli occhiali, destinato a diventare celebre in seguito sotto il nome
@@ -1671,32 +1671,32 @@ poiché era più interessato alla scienza che all'arte, e portava
 non una cassetta di colori ma una macchina fotografica. Nondimeno, non era senza
 un'intelligente apprezzamento del paesaggio, ed era nell'atto
 di sistemare il suo apparecchio fotografico in modo che coprisse l'angolo
-del [[motifs/river|fiume]] dove sorgevano il trascurato [[motifs/garden|giardino]] e la lontana casa.
+del [[motifs/river|fiume]] dove sorgevano il trascurato [[motifs/garden|giardino]] e la lontana [[house|casa]].
 E in quel momento il quinto uomo, che non si era ancora mosso né aveva parlato,
 fece un gesto così brusco e sorprendente che si sarebbe potuto dire
 che egli abbatté la macchina fotografica, come un fucile puntato per uccidere.
 
 «Non lo faccia», disse; «è già abbastanza brutto quando cercano di dipingerla.»
 
-«Che cosa c'è?» chiese Garth. «Non le piace quella casa?»
+«Che cosa c'è?» chiese Garth. «Non le piace quella [[house|casa]]?»
 
 «Mi piace troppo», disse l'altro, «o piuttosto, l'[[motifs/love|amo]] troppo
 per riuscire a farmela piacere affatto.»
 
 Il quinto uomo che parlò era il più giovane della comitiva,
-ma aveva già almeno un certo successo e una certa celebrità locali;
+ma aveva già almeno un certo [[success|successo]] e una certa celebrità locali;
 in parte perché aveva dedicato il suo talento al paesaggio
 e alle leggende di quella campagna, e in parte perché veniva da una
 famiglia di piccoli squire il cui nome era storico su quelle colline.
 Era alto, con capelli castano scuro e un lungo volto bruno, con un
 naso dal dorso alto che appariva piuttosto distinto che bello;
 e c'era una permanente nube di riflessione sulla sua fronte
-che lo faceva sembrare assai più vecchio dei suoi anni. Egli solo di tutti
+che lo faceva sembrare assai più vecchio dei suoi anni. Egli [[Alone|solo]] di tutti
 questi uomini non aveva fatto alcun gesto, né di lavoro né di riposo,
 giungendo sulla cresta della [[motifs/hill|collina]]. Mentre Walton andava avanti e indietro,
 e Hutton cominciava allegramente il suo pasto, e Gale si gettava
 sul giaciglio di [[motifs/leaves|foglie]] per guardare su tra le cime degli alberi, quest'uomo
-era rimasto come una statua a guardare attraverso la valle verso la casa,
+era rimasto come una statua a guardare attraverso la valle verso la [[house|casa]],
 e fu solo quando Garth puntò la sua macchina fotografica che egli persino
 alzò una mano.
 
@@ -1742,7 +1742,7 @@ an odd shape as all that."
 auctioneer's hammer?  You poets who are so strong about [[concepts/nature|Nature]]
 are generally weak in natural [[concepts/history|history]].  [[motifs/well|Well]], Mallow," he added,
 turning to his companion, "you've nothing to [[concepts/fear|fear]] from them, if you
-like to talk in an ordinary voice.  What about this house of yours?"
+like to talk in an ordinary voice.  What about this [[house]] of yours?"
 
 "It's not mine," said Mallow.  "As a matter of fact, it belongs
 to an old friend of my mother's, a Mrs. Verney, a widow.
@@ -1785,7 +1785,7 @@ a quiet rest in the country."
 "And I suppose, I may take it," said the doctor, "that you feel
 there is a little too much of the Muscovite in your young life?"
 
-"As a matter of fact, he moved into the house late last [[motifs/night|night]],"
+"As a matter of fact, he moved into the [[house]] late last [[motifs/night|night]],"
 continued Mallow, "and I suppose that's really why I drifted
 in this direction this morning, trailing you all at my heels.
 I said it was a beautiful place, and so it is; but I don't want
@@ -1814,7 +1814,7 @@ with increased conviction to those places where I was born or played
 as a boy, narrowing my circles like a bird going back to a nest.
 That seems to me the end of all travel, and especially of the widest
 travel... to get [[motifs/home|home]].  But she has another idea in her mind.
-It's not only that she says that old brown brick house is like a [[motifs/prison|prison]],
+It's not only that she says that old brown brick [[house]] is like a [[motifs/prison|prison]],
 or that the hills are like walls shutting her in; I dare say things
 do get pretty dull in such a place.  There's a theory in it, too,
 which I suppose she's got from her psychological friend.  She says
@@ -1857,7 +1857,7 @@ theory about the elimination of limits and..."
 
 «Non sembra un martello», disse Gale con sonnolenza; «non ha una forma così strana».
 
-"Somaro!" disse Garth brevemente. "Ti aspettavi che sembrasse il martelletto di un banditore? Voi poeti, così forti riguardo alla [[concepts/nature|Natura]], siete generalmente deboli in [[concepts/history|storia]] naturale. [[motifs/well|Bene]], Mallow," aggiunse, rivolgendosi al suo compagno, "non hai nulla da [[concepts/fear|temere]] da loro, se ti piace parlare con una voce normale. E questa tua casa?"
+"Somaro!" disse Garth brevemente. "Ti aspettavi che sembrasse il martelletto di un banditore? Voi poeti, così forti riguardo alla [[concepts/nature|Natura]], siete generalmente deboli in [[concepts/history|storia]] naturale. [[motifs/well|Bene]], Mallow," aggiunse, rivolgendosi al suo compagno, "non hai nulla da [[concepts/fear|temere]] da loro, se ti piace parlare con una voce normale. E questa tua [[house|casa]]?"
 
 «Non è mia», disse Mallow. «In realtà appartiene a un'antica amica di mia madre, una certa signora Verney, vedova. Come vede, il posto è andato in rovina perché i Verney sono sempre più poveri e non sanno cosa fare, ed ecco da dove nasce il problema. Ma ho trascorso lì dei momenti felici che probabilmente non avrò mai più».
 
@@ -1885,7 +1885,7 @@ riposarsi tranquillamente in campagna."
 
 "E immagino", disse il dottore, "che lei pensi che ci sia un po' troppo moscovita nella sua giovane vita?"
 
-"Di fatto si è trasferito nella casa ieri sera tardi,"
+"Di fatto si è trasferito nella [[house|casa]] ieri sera tardi,"
 continuò Mallow, "e immagino che sia proprio per questo che questa mattina mi sono ritrovato a vagare in questa direzione, con tutti voi alle calcagna.
 Ho detto che era un posto bellissimo e lo è davvero; ma non voglio dipingerlo né tanto meno visitarlo; eppure,
 avevo una vaga sensazione di voler essere da qualche parte nelle vicinanze."
@@ -1902,7 +1902,7 @@ e Laura è molto entusiasta delle sue idee. È una cosa piuttosto indescrivibile
 Ma ogni volta che ci siamo incontrati ultimamente è stato letteralmente come un incontro su una [[motifs/road|strada]] maestra, quando due persone vanno in direzioni opposte.
 E credo di sapere cosa sia; lei va sempre verso l'esterno, e io vado sempre verso l'interno. Più vedo il mondo, più uomini incontro o libri leggo o domande rispondo, più torno con convinzione rinnovata a quei luoghi dove sono nato o ho giocato da bambino, restringendo i miei cerchi come un uccello che torna al suo nido.
 Questo mi sembra il fine di tutti i viaggi, e specialmente del più ampio dei viaggi... [[motifs/home|tornare a casa]]. Ma lei ha un'altra idea in mente.
-Non è solo che dice che quella vecchia casa di mattoni marroni è come una [[motifs/prison|prigione]], o che le colline sono come mura che la chiudono; ammetto che le cose possano diventare piuttosto noiose in un posto del genere. C'è anche una teoria, credo presa dal suo amico psicologo.
+Non è solo che dice che quella vecchia [[house|casa]] di mattoni marroni è come una [[motifs/prison|prigione]], o che le colline sono come mura che la chiudono; ammetto che le cose possano diventare piuttosto noiose in un posto del genere. C'è anche una teoria, credo presa dal suo amico psicologo.
 Dice che anche nella sua valle e nel suo [[motifs/garden|giardino]], gli alberi crescono solo perché si irradiano verso l'esterno, che è il latino per ramificarsi.
 Dice che la stessa parola "radioso" dimostra che questo è il segreto della felicità.
 Ci sarà qualcosa di vero, immagino; ma io irradio verso l'interno, per così dire;
@@ -1956,12 +1956,12 @@ and seems to be struggling with another."
 Even as he spoke the fifth [[motifs/window|window]] burst open, and even from
 where they stood they could see a creeper that had strayed
 across it snap and drop with the gesture.  It had the look of
-the snapping of some green chain securing the house like a [[motifs/prison|prison]].
+the snapping of some green chain securing the [[house]] like a [[motifs/prison|prison]].
 It had almost the look of the breaking of the seal of a tomb.
 
 For Mallow, against all his prejudices, felt the presence and pressure
 of that revolutionary ideal which he recognized as his rival.
-All along the shattered façade of the old brown house the windows
+All along the shattered façade of the old brown [[house]] the windows
 were opening one after another like the eyes of an Argus waking
 from his giant [[motifs/sleep|sleep]].  He was forced to admit to himself that he had
 never seen the place thus coming to life from within, as a plant
@@ -1974,7 +1974,7 @@ of a row of windows open when they were commonly closed.
 The same fancy about unfolding life seemed to fill the whole scene
 like a new atmosphere.  It was as if a fresh air had streamed out
 of the windows instead of into them.  The sun was already fairly high,
-but it came out of the morning mists above the house with something
+but it came out of the morning mists above the [[house]] with something
 of the silent explosion of daybreak.  The very shapes of the forest trees,
 spreading themselves like fans, seemed to repeat the original
 word "radiant", which he had thought of almost as a Latin pun.
@@ -1982,12 +1982,12 @@ Sailing over his head, as if sent flying by a sort of centrifugal force,
 the clouds still carried into the height of [[motifs/noon|noon]] the colours of sunrise.
 He felt all the fresh things that he feared coming at him by an
 irrepressible expansion.  Everything seemed to enlarge itself.
-Even when his eye fell on a stunted gate-post standing alone in
+Even when his eye fell on a stunted gate-post standing [[Alone|alone]] in
 the old [[motifs/garden|garden]], he could fancy that it swelled as he stared at it.
 
 A sharp exclamation from his friend woke him from his unnatural
 day-dream, which might rather be called, by a contradiction,
-a white nightmare of light.
+a white [[nightmare]] of light.
 
 "By blazes! he's found another [[motifs/window|window]]," cried the doctor;
 "a [[motifs/window|window]] in the roof."
@@ -2005,7 +2005,7 @@ of one arisen from [[motifs/sleep|sleep]].
 flashing across his face and vanishing; "I'm going to pay a call."
 
 "I rather thought you might," answered Garth.  "Do you want
-to go alone?"
+to go [[Alone|alone]]?"
 
 As he spoke he looked round for the rest of the company, but Walton
 and Hutton were still chatting some distance away on the other side
@@ -2030,11 +2030,11 @@ ever live in a round [[motifs/prison|prison]]?"
 "A little bird told me," Gale said gravely.  "Oh, it's quite true."
 
 He had risen to his feet by this [[motifs/time|time]], and came slowly forward
-to the brow of the [[motifs/hill|hill]], looking across at the house by the [[motifs/river|river]].
+to the brow of the [[motifs/hill|hill]], looking across at the [[house]] by the [[motifs/river|river]].
 As he looked his dreamy blue eyes seemed to wake up, like the windows
-opening in the house he gazed at.
+opening in the [[house]] he gazed at.
 
-"Another bird," he said softly, "like a sparrow on the house-tops.
+"Another bird," he said softly, "like a sparrow on the [[house]]-tops.
 And that fits in with it exactly."
 
 There was some suggestion of [[concepts/truth|truth]] in the phrase, for the strange
@@ -2081,12 +2081,12 @@ e pare stia lottando con un'altra.»
 Proprio mentre parlava la quinta [[motifs/window|finestra]] si spalancò, e persino da
 dove si trovavano poterono vedere un rampicante che si era smarrito
 attraverso di essa spezzarsi e cadere con quel gesto. Aveva l'aspetto
-dello spezzarsi di una qualche verde catena che assicurava la casa come una [[motifs/prison|prigione]].
+dello spezzarsi di una qualche verde catena che assicurava la [[house|casa]] come una [[motifs/prison|prigione]].
 Aveva quasi l'aspetto della rottura del sigillo di una tomba.
 
 Poiché Mallow, contro tutti i suoi pregiudizi, sentiva la presenza e la pressione
 di quell'ideale rivoluzionario che riconosceva come suo rivale.
-Lungo tutta la sconquassata facciata della vecchia casa bruna le finestre
+Lungo tutta la sconquassata facciata della vecchia [[house|casa]] bruna le finestre
 si aprivano una dopo l'altra come gli occhi di un Argo che si sveglia
 dal suo gigantesco [[motifs/sleep|sonno]]. Fu costretto ad ammettere a se stesso di non aver
 mai visto quel luogo prendere così vita dall'interno, come una pianta
@@ -2099,7 +2099,7 @@ di una fila di finestre aperte quando erano comunemente chiuse.
 La stessa fantasia sulla vita che si dischiude pareva riempire l'intera scena
 come una nuova atmosfera. Era come se un'aria fresca fosse fluita fuori
 dalle finestre invece che dentro di esse. Il sole era già abbastanza alto,
-ma usciva dalle nebbie mattutine sopra la casa con qualcosa
+ma usciva dalle nebbie mattutine sopra la [[house|casa]] con qualcosa
 della silenziosa esplosione dell'alba. Le stesse forme degli alberi della foresta,
 che si spiegavano come ventagli, sembravano ripetere l'originaria
 parola «radiante», a cui aveva pensato quasi come a un gioco di parole latino.
@@ -2107,12 +2107,12 @@ Veleggiando sopra la sua testa, come spinte in volo da una sorta di forza centri
 le nuvole portavano ancora nell'altezza del [[motifs/noon|mezzogiorno]] i colori dell'alba.
 Sentiva tutte le fresche cose che temeva venirgli incontro con
 un'irreprimibile espansione. Ogni cosa pareva ingrandirsi.
-Persino quando il suo occhio cadde su un tozzo palo di cancello che stava solo in
+Persino quando il suo occhio cadde su un tozzo palo di cancello che stava [[Alone|solo]] in
 mezzo al vecchio [[motifs/garden|giardino]], poteva immaginare che si gonfiasse mentre lo fissava.
 
 Una brusca esclamazione del suo amico lo destò dal suo innaturale
 sogno a occhi aperti, che si sarebbe potuto piuttosto chiamare, per una
-contraddizione, un bianco incubo di luce.
+contraddizione, un bianco [[nightmare|incubo]] di luce.
 
 «Perdinci! ha trovato un'altra [[motifs/window|finestra]]», gridò il dottore;
 «una [[motifs/window|finestra]] nel tetto.»
@@ -2130,7 +2130,7 @@ di uno che si è alzato dal [[motifs/sleep|sonno]].
 guizzandogli sul volto e svanendo; «vado a fare una visita.»
 
 «Immaginavo che potesse», rispose Garth. «Vuole
-andare solo?»
+andare [[Alone|solo]]?»
 
 Mentre parlava si guardò intorno cercando il resto della compagnia, ma Walton
 e Hutton stavano ancora chiacchierando a una certa distanza dall'altra parte
@@ -2155,11 +2155,11 @@ ha mai vissuto in una [[motifs/prison|prigione]] rotonda?»
 «Me l'ha detto un uccellino», disse Gale gravemente. «Oh, è del tutto vero.»
 
 Si era rialzato in piedi a questo [[motifs/time|punto]], e venne lentamente avanti
-fino al ciglio della [[motifs/hill|collina]], guardando dall'altra parte verso la casa presso il [[motifs/river|fiume]].
+fino al ciglio della [[motifs/hill|collina]], guardando dall'altra parte verso la [[house|casa]] presso il [[motifs/river|fiume]].
 Mentre guardava i suoi sognanti occhi azzurri parvero destarsi, come le finestre
-che si aprivano nella casa che egli fissava.
+che si aprivano nella [[house|casa]] che egli fissava.
 
-«Un altro uccello», disse dolcemente, «come un passero sui tetti delle case.
+«Un altro uccello», disse dolcemente, «come un passero sui tetti delle [[house|case]].
 E questo vi si accorda esattamente.»
 
 C'era qualche accenno di [[concepts/truth|verità]] nella frase, poiché la strana
@@ -2185,7 +2185,7 @@ gli assomigli davvero parecchio.»
 
 Mallow, in his more mystical mood, looked strangely from one to the other,
 for indeed there was a certain vague similarity between the two tall,
-fair-haired figures, the one on the house and the other on the [[motifs/hill|hill]].
+fair-haired figures, the one on the [[house]] and the other on the [[motifs/hill|hill]].
 
 "Perhaps I am rather like him," said Gale quietly.  "Perhaps I'm
 just sufficiently like him to learn not to be like him, so to speak.
@@ -2206,9 +2206,9 @@ a hammer is meant for; and every now and then I manage to do it."
 "I can hit the right nail on the head," answered the poet.
 
 It was not, in fact, until later in the day that Mallow paid his call
-at Mrs. Verney's house.  Mrs. Verney was going up to the neighbouring
+at Mrs. Verney's [[house]].  Mrs. Verney was going up to the neighbouring
 village for the afternoon; and Mallow had more than one motive for
-making his attack when the stranger was alone with his secretary.
+making his attack when the stranger was [[Alone|alone]] with his secretary.
 He had a general idea of using his friends to detach or detain
 the stranger while he himself sought for explanation from the secretary;
 so he dragged Garth and Gale along with him to Mrs. Verney's drawing-room;
@@ -2232,7 +2232,7 @@ doors are suggestive; but he always acted on the suggestion.
 Most of them understand that there can be something vaguely inviting
 about a gap in a [[motifs/garden|garden]] hedge, or the abrupt angle of a path;
 but he always accepted the invitation.  The shape of a [[motifs/hill|hill]],
-or the corner of a house, checked him like a challenge.  He wrestled
+or the corner of a [[house]], checked him like a challenge.  He wrestled
 with it seriously till it had given up something of its secret,
 till he could put something like a name to his nameless fancy;
 and these things were the active adventures of his life.
@@ -2243,7 +2243,7 @@ he looked more like a floating tuft of thistledown caught
 upon any thorn.
 
 On this occasion his friends lost him, or left him behind, as they
-turned the corner of the house just after passing an old-fashioned
+turned the corner of the [[house]] just after passing an old-fashioned
 bow-[[motifs/window|window]] looking out on the [[motifs/garden|garden]].  Inside the [[motifs/window|window]] stood a small
 round table on which was a bowl of goldfish; and Gale stopped abruptly
 and stared at it as if he had never seen such a thing before.
@@ -2270,15 +2270,15 @@ of the rich tones of sunset?"
 
 His inquiry remained unanswered, for he made it to the empty air.
 His companions were deficient in his sense of the importance of goldfish,
-and had gone on impatiently to the main entrance of the house,
+and had gone on impatiently to the main entrance of the [[house]],
 leaving him lingering by the bowl near the bow-[[motifs/window|window]]. He continued
 to look at it for a considerable [[motifs/time|time]], and when at last he turned away,
 it was not to follow his friends, but to pace the paths of the [[motifs/garden|garden]]
 in the deepening and darkening twilight, revolving in his mind
-some occult romance beginning with a bowl of fish.
+some occult [[Romance|romance]] beginning with a bowl of fish.
 
 Meanwhile, his more practical friends, pursuing the main purpose
-of the story, had penetrated into the house and found at least some
+of the story, had penetrated into the [[house]] and found at least some
 members of the household.  There had been many things in the [[motifs/garden|garden]]
 or the gateway over which Mallow also might have been disposed to
 linger if his mood had been merely sentimental; an old swing standing
@@ -2286,7 +2286,7 @@ by the corner of the orchard, the angle of a faded tennis lawn,
 the fork of a pear-tree, all of which had stories attached to them.
 But he was possessed of a passionate curiosity far too practical
 for sentiment of the merely reminiscent sort; he was resolved
-to run to earth the mystery of the new man in the old house.
+to run to earth the mystery of the new man in the old [[house]].
 He felt that a change had come over everything with the man's
 mere presence; and wished to know how far that change had gone.
 He half expected to see those familiar rooms swept bare, or filled
@@ -2297,7 +2297,7 @@ with strange furniture where the stranger had passed.
 
 Mallow, nel suo umore più mistico, guardava stranamente dall'uno all'altro,
 poiché in effetti c'era una certa vaga somiglianza tra le due alte figure
-dai capelli chiari, l'una sulla casa e l'altra sulla [[motifs/hill|collina]].
+dai capelli chiari, l'una sulla [[house|casa]] e l'altra sulla [[motifs/hill|collina]].
 
 «Forse gli assomiglio davvero», disse Gale tranquillamente. «Forse gli
 assomiglio appena a sufficienza per imparare a non assomigliargli, per così dire.
@@ -2318,9 +2318,9 @@ un martello è fatto; e di tanto in tanto riesco a farlo.»
 «So piantare il chiodo giusto sulla testa», rispose il poeta.
 
 Non fu, in effetti, fino a più tardi nella giornata che Mallow fece la sua visita
-alla casa della signora Verney. La signora Verney stava andando al vicino
+alla [[house|casa]] della signora Verney. La signora Verney stava andando al vicino
 villaggio per il pomeriggio; e Mallow aveva più di un motivo per
-sferrare il suo attacco quando lo straniero fosse solo con il suo segretario.
+sferrare il suo attacco quando lo straniero fosse [[Alone|solo]] con il suo segretario.
 Aveva l'idea generale di usare i suoi amici per staccare o trattenere
 lo straniero mentre lui stesso cercava spiegazioni dal segretario;
 così trascinò con sé Garth e Gale fino al salotto della signora Verney;
@@ -2344,7 +2344,7 @@ sono suggestive; ma lui agiva sempre sul suggerimento.
 La maggior parte di esse comprende che ci può essere qualcosa di vagamente invitante
 in un varco in una siepe di [[motifs/garden|giardino]], o nell'angolo brusco di un sentiero;
 ma lui accettava sempre l'invito. La forma di una [[motifs/hill|collina]],
-o l'angolo di una casa, lo fermava come una sfida. Lottava
+o l'angolo di una [[house|casa]], lo fermava come una sfida. Lottava
 seriamente con essa finché non avesse ceduto qualcosa del suo segreto,
 finché non potesse dare qualcosa come un nome alla sua fantasia senza nome;
 e queste cose erano le attive avventure della sua vita.
@@ -2355,7 +2355,7 @@ somigliava più a un ciuffo fluttuante di lanugine di cardo colto
 su una spina qualsiasi.
 
 In questa occasione i suoi amici lo persero, o lo lasciarono indietro, mentre
-svoltavano l'angolo della casa proprio dopo aver oltrepassato un'antiquata
+svoltavano l'angolo della [[house|casa]] proprio dopo aver oltrepassato un'antiquata
 [[motifs/window|bovindo]] che dava sul [[motifs/garden|giardino]]. Dentro la [[motifs/window|finestra]] stava un piccolo
 tavolino rotondo su cui c'era una boccia di pesci rossi; e Gale si fermò di colpo
 e la fissò come se non avesse mai visto una cosa simile prima.
@@ -2382,15 +2382,15 @@ delle ricche tonalità del tramonto?»
 
 La sua domanda rimase senza risposta, poiché la rivolse all'aria vuota.
 I suoi compagni erano carenti del suo senso dell'importanza dei pesci rossi,
-ed erano proseguiti impazientemente verso l'ingresso principale della casa,
+ed erano proseguiti impazientemente verso l'ingresso principale della [[house|casa]],
 lasciandolo indugiare presso la boccia vicino al [[motifs/window|bovindo]]. Egli continuò
 a guardarla per un [[motifs/time|tempo]] considerevole, e quando alla fine si voltò via,
 non fu per seguire i suoi amici, ma per percorrere i sentieri del [[motifs/garden|giardino]]
 nel crepuscolo che si faceva più profondo e più scuro, rimuginando nella sua mente
-qualche occulto romanzo che cominciava con una boccia di pesci.
+qualche occulto [[Romance|romanzo]] che cominciava con una boccia di pesci.
 
 Nel frattempo, i suoi amici più pratici, perseguendo lo scopo principale
-della storia, erano penetrati nella casa e avevano trovato almeno alcuni
+della storia, erano penetrati nella [[house|casa]] e avevano trovato almeno alcuni
 membri della famiglia. C'erano state molte cose nel [[motifs/garden|giardino]]
 o presso il cancello su cui anche Mallow avrebbe potuto essere disposto a
 indugiare se il suo umore fosse stato meramente sentimentale; una vecchia altalena che stava
@@ -2398,7 +2398,7 @@ presso l'angolo del frutteto, l'angolo di un campo da tennis sbiadito,
 la biforcazione di un pero, tutte cose a cui erano legate delle storie.
 Ma egli era posseduto da una curiosità appassionata assai troppo pratica
 per un sentimentalismo del tipo meramente rievocativo; era risoluto
-a stanare il mistero del nuovo uomo nella vecchia casa.
+a stanare il mistero del nuovo uomo nella vecchia [[house|casa]].
 Sentiva che un mutamento era sopraggiunto su ogni cosa con la mera
 presenza dell'uomo; e desiderava sapere fin dove quel mutamento fosse arrivato.
 Quasi si aspettava di vedere quelle familiari stanze spazzate a nudo, o riempite
@@ -2490,8 +2490,8 @@ the fixed [[motifs/stars|stars]]."
 
 "I think," said Mallow, "that you will have conquered the remotest
 star before you really conquer this one old corner of the earth.
-It has a magic of its own which I think will outlast all such
-conjuring tricks.  This was the house of Merlin; and, though they
+It has a [[Magic|magic]] of its own which I think will outlast all such
+conjuring tricks.  This was the [[house]] of Merlin; and, though they
 say Merlin himself fell under a spell, it was not that of Marconi."
 
 "No," answered the stranger, still smiling.  "We all know the spell
@@ -2509,7 +2509,7 @@ handsome in a fashion which seemed to have a certain pagan exuberance
 till she came near enough to show the concentrated seriousness of her
 clear eyes; she might be called a pagan with the eyes of a puritan.
 She saluted her guests without any change of countenance,
-and handed the papers to the professor without any word of comment.
+and handed the papers to [[The Professor|the professor]] without any word of comment.
 Something in her automatic manner seemed to sting Mallow to a
 final impatience; and, picking up his hat from the [[motifs/window|window]]-sill,
 he called out in a loud and careless voice:
@@ -2608,8 +2608,8 @@ le [[motifs/stars|stelle]] fisse.»
 
 «Penso», disse Mallow, «che lei avrà conquistato la più remota
 stella prima di conquistare davvero questo solo vecchio angolo della terra.
-Esso ha una magia tutta sua che, credo, sopravvivrà a tutti questi
-giochi di prestigio. Questa era la casa di Merlino; e, sebbene
+Esso ha una [[Magic|magia]] tutta sua che, credo, sopravvivrà a tutti questi
+giochi di prestigio. Questa era la [[house|casa]] di Merlino; e, sebbene
 dicano che Merlino stesso cadde sotto un incantesimo, non fu quello di Marconi.»
 
 «No», rispose lo straniero, sempre sorridendo. «Sappiamo tutti l'incantesimo
@@ -2627,7 +2627,7 @@ bella in una foggia che pareva avere una certa pagana esuberanza
 finché non si avvicinava abbastanza da mostrare la concentrata serietà dei suoi
 occhi limpidi; la si sarebbe potuta chiamare una pagana con gli occhi di una puritana.
 Salutò i suoi ospiti senza alcun mutamento di espressione,
-e porse i fogli a il professore senza una parola di commento.
+e porse i fogli a [[The Professor|il professore]] senza una parola di commento.
 Qualcosa nel suo fare automatico parve pungere Mallow fino a una
 finale impazienza; e, raccogliendo il suo cappello dal davanzale della [[motifs/window|finestra]],
 esclamò con voce alta e noncurante:
@@ -2680,7 +2680,7 @@ Then Mallow looked more closely at the face in [[archetypes/shadow|shadow]], and
 with some astonishment, the name of Gale.
 
 "You must get away from here at once," said the poet sharply;
-"everybody who can must get away from this house.  There's no
+"everybody who can must get away from this [[house]].  There's no
 [[motifs/time|time]] to explain."
 
 As he spoke, he sprang from the wall and alighted beside them,
@@ -2763,7 +2763,7 @@ and that started my thoughts off as it might anybody's. Is it
 always kind to set a bird at liberty?  What exactly is liberty?
 First and foremost, surely, it is the power of a thing to be itself.
 In some ways the yellow bird was free in the cage.  It was free
-to be alone.  It was free to sing.  In the forest its feathers would
+to be [[Alone|alone]].  It was free to sing.  In the forest its feathers would
 be torn to pieces and its voice choked for ever.  Then I began
 to think that being oneself, which is liberty, is itself limitation.
 We are limited by our brains and bodies; and if we break out,
@@ -2808,7 +2808,7 @@ Poi Mallow guardò più da vicino il volto in [[archetypes/shadow|ombra]], e pro
 con una certa sorpresa, il nome di Gale.
 
 «Dovete andarvene subito da qui» disse il poeta bruscamente;
-«chiunque possa deve andarsene da questa casa. Non c'è
+«chiunque possa deve andarsene da questa [[house|casa]]. Non c'è
 [[motifs/time|tempo]] di spiegare.»
 
 Mentre parlava, saltò giù dal muro e atterrò accanto a loro,
@@ -2891,7 +2891,7 @@ e questo avviò i miei pensieri come avrebbe fatto con quelli di chiunque. È
 sempre gentile mettere un uccello in libertà? Che cos'è esattamente la libertà?
 Prima di tutto, di certo, è il potere di una cosa di essere se stessa.
 Per certi versi l'uccello giallo era libero nella gabbia. Era libero
-di essere solo. Era libero di cantare. Nella foresta le sue piume sarebbero
+di essere [[Alone|solo]]. Era libero di cantare. Nella foresta le sue piume sarebbero
 state fatte a pezzi e la sua voce soffocata per sempre. Poi cominciai
 a pensare che l'essere se stessi, che è libertà, è esso stesso limitazione.
 Siamo limitati dai nostri cervelli e dai nostri corpi; e se ne rompiamo i confini,
@@ -2910,7 +2910,7 @@ to the sky.  I knew nothing of him; but I knew on the instant
 that he was the man who had given a bird its [[concepts/freedom|freedom]] at any risk.
 As we went down the [[motifs/hill|hill]] I heard a little more about him;
 how he had escaped by blowing up his [[motifs/prison|prison]]; and I felt that one fact
-had filled all his life with a philosophy of emancipation and escape.
+had filled all his life with a [[philosophy]] of emancipation and escape.
 Always at the back of his mind, I was certain, was that one bursting
 moment when he saw white daylight shining through the shattered wall.
 I knew why he let [[motifs/birds|birds]] out of cages and why he had written a book
@@ -2925,7 +2925,7 @@ seemed almost grey, and even outlined in lines of grey light,
 which might have been moonlight, but I think was the corpse-light
 of phosphorescence.  They lay scattered at random on the round table;
 and I saw by the faint glimmer that the glass bowl was broken.
-So I found my romance when I returned to it; for those fantastic
+So I found my [[Romance|romance]] when I returned to it; for those fantastic
 fishes had been to me like the hieroglyphics of a message,
 which the fiery finger of God had thus written in red-hot gold.
 But when I looked again, the finger had written another lesson in letters
@@ -2942,7 +2942,7 @@ this man had made the great stride from liberty to lunacy.
 The man who opened the bird-cage loved [[concepts/freedom|freedom]]; possibly too much;
 certainly very much.  But the man who broke the bowl merely
 because he thought it a [[motifs/prison|prison]] for the fish, when it was their only
-possible house of life... that man was already outside the world
+possible [[house]] of life... that man was already outside the world
 of reason, raging with a [[motifs/desire|desire]] to be outside everything.
 In a most literal and living sense, he was out of his wits.
 And there was another thing revealed to me by the grey [[motifs/ghosts|ghosts]] of
@@ -2975,7 +2975,7 @@ that was licking itself in a lively fashion a few yards away.
 Then he saw that it was the smouldering ruin of the blue
 wooden gate-post at which he had gazed that morning,
 flung all the way through the air like a flaming thunderbolt.
-They had come just far enough from the house to be out of danger.
+They had come just far enough from the [[house]] to be out of danger.
 Then he looked again at the blue-painted wood curling with golden flames,
 and for the first [[motifs/time|time]] began to tremble.
 
@@ -3006,7 +3006,7 @@ verso il cielo. Non sapevo nulla di lui; ma seppi all'istante
 che era l'uomo che aveva dato a un uccello la sua [[concepts/freedom|libertà]] a ogni costo.
 Mentre scendevamo la [[motifs/hill|collina]] sentii dire qualcosa di più su di lui;
 come fosse evaso facendo saltare la sua [[motifs/prison|prigione]]; e sentii che quel solo fatto
-aveva riempito tutta la sua vita di una filosofia di emancipazione e di fuga.
+aveva riempito tutta la sua vita di una [[philosophy|filosofia]] di emancipazione e di fuga.
 Sempre, sul fondo della sua mente, ne ero certo, c'era quell'unico esplosivo
 momento in cui vide la bianca luce del giorno splendere attraverso il muro squarciato.
 Sapevo perché lasciava uscire gli [[motifs/birds|uccelli]] dalle gabbie e perché aveva scritto un libro
@@ -3021,7 +3021,7 @@ sembravano quasi grigie, e persino delineate in linee di luce grigia,
 che avrebbe potuto essere chiaro di luna, ma che credo fosse la luce cadaverica
 della fosforescenza. Giacevano sparse a caso sulla tavola rotonda;
 e vidi al debole bagliore che la boccia di vetro era rotta.
-Così ritrovai la mia Storia quando vi tornai; poiché quei fantastici
+Così ritrovai la mia [[Romance|Storia]] quando vi tornai; poiché quei fantastici
 pesci erano stati per me come i geroglifici di un messaggio,
 che il dito di fuoco di Dio aveva così scritto in oro incandescente.
 Ma quando guardai di nuovo, il dito aveva scritto un'altra lezione in lettere
@@ -3038,7 +3038,7 @@ quest'uomo aveva compiuto il grande passo dalla libertà alla follia.
 L'uomo che aprì la gabbia degli uccelli amava la [[concepts/freedom|libertà]]; forse troppo;
 certamente moltissimo. Ma l'uomo che ruppe la boccia soltanto
 perché la riteneva una [[motifs/prison|prigione]] per i pesci, quando era la loro unica
-dimora di vita possibile... quell'uomo era già fuori dal mondo
+[[house|dimora]] di vita possibile... quell'uomo era già fuori dal mondo
 della ragione, smaniante di un [[motifs/desire|desiderio]] di essere fuori da ogni cosa.
 In un senso quanto mai letterale e vivo, era fuori di senno.
 E c'era un'altra cosa che mi fu rivelata dai grigi [[motifs/ghosts|fantasmi]] dei
@@ -3071,7 +3071,7 @@ amica che si leccava vivacemente a pochi metri di distanza.
 Poi vide che era il rudere fumante del palo azzurro
 di legno del cancello che aveva contemplato quel mattino,
 scagliato per tutta l'aria come una folgore fiammeggiante.
-Si erano allontanati dalla casa quel tanto che bastava per essere fuori pericolo.
+Si erano allontanati dalla [[house|casa]] quel tanto che bastava per essere fuori pericolo.
 Poi guardò di nuovo il legno dipinto d'azzurro che si arricciava tra fiamme dorate,
 e per la prima [[motifs/time|volta]] cominciò a tremare.
 
@@ -3115,7 +3115,7 @@ has seen a good many crimes committed by flying creatures.
 And in the other case the [[archetypes/detective|detective]] implied that no deed need be
 attributed to spirits or [[motifs/supernatural|supernatural]] beings; in short, to any of
 the agencies to which Sir [[characters/arthur|Arthur]] is now the most positive and even
-passionate witness.  Presumably, in his present mood and philosophy,
+passionate witness.  Presumably, in his present mood and [[philosophy]],
 the Hound of the Baskervilles might [[motifs/well|well]] have been a really ghostly hound;
 at least, if the optimism which seems to go with spiritualism
 would permit him to believe in such a thing as a hell-hound. It
@@ -3164,7 +3164,7 @@ where he had lived, had seen not a little of such ethical emancipation.
 But this was possibly a malicious misrepresentation of his very human
 curiosity and sympathy in the matter of the customs of the savages;
 which to the ordinary prejudice was indistinguishable from a white
-man going _fantee._ Anyhow, travelling about alone with nothing but
+man going _fantee._ Anyhow, travelling about [[Alone|alone]] with nothing but
 a big [[historical-references/bible|Bible]], he had learned to study it minutely, first for oracles
 and commandments, and afterwards for errors and contradictions;
 for the [[historical-references/bible|Bible]]-smasher is only the [[historical-references/bible|Bible]]-worshipper turned upside down.
@@ -3213,7 +3213,7 @@ ha visto un buon numero di delitti commessi da creature volanti.
 E nell'altro caso l'[[archetypes/detective|investigatore]] lasciò intendere che nessuna azione va
 attribuita agli spiriti o a esseri [[motifs/supernatural|soprannaturali]]; in breve, a nessuna
 di quelle agenzie di cui Sir [[characters/arthur|Arthur]] è oggi il più deciso e persino
-appassionato testimone. Presumibilmente, nel suo presente stato d'animo e filosofia,
+appassionato testimone. Presumibilmente, nel suo presente stato d'animo e [[philosophy|filosofia]],
 il Mastino dei Baskerville avrebbe [[motifs/well|ben]] potuto essere un mastino davvero spettrale;
 per lo meno, se l'ottimismo che sembra accompagnarsi allo spiritismo
 gli permettesse di credere a una cosa come un mastino infernale. Può
@@ -3262,7 +3262,7 @@ dove aveva vissuto, avessero visto non poco di tale emancipazione etica.
 Ma questa era forse una malevola travisazione della sua quanto mai umana
 curiosità e simpatia in fatto di costumi dei selvaggi;
 che al pregiudizio comune era indistinguibile da un uomo bianco
-che _si imbarbariva._ Comunque, viaggiando in giro solo con nient'altro che
+che _si imbarbariva._ Comunque, viaggiando in giro [[Alone|solo]] con nient'altro che
 una grande [[historical-references/bible|Bibbia]], aveva imparato a studiarla minuziosamente, dapprima per oracoli
 e comandamenti, e poi per errori e contraddizioni;
 poiché il demolitore della [[historical-references/bible|Bibbia]] non è che l'adoratore della [[historical-references/bible|Bibbia]] capovolto.
@@ -3335,7 +3335,7 @@ from cutting me up."
 "Not in society," replied the poet with a certain polite discomposure,
 looking round with something like a flush under his fair hair;
 he was a long, loose-limbed man named Gabriel Gale, whose pictures
-were more widely known than his poems.
+were more widely known than his [[Poems|poems]].
 
 "You've seen them in the tanks, I suppose," said Boon;
 "but I've seen them in the sea.  I've seen them where they are
@@ -3400,7 +3400,7 @@ hear his beard bristling.
 "Take care it is not you who blaspheme."
 
 And then, before anyone could move, the black figure against the patch
-of gold had swung round and was walking away from the house,
+of gold had swung round and was walking away from the [[house]],
 so impetuously that they had a momentary [[concepts/fear|fear]] that he would walk
 over the cliff.  However, he found the little wooden gate that led
 to a flight of wooden steps; and they heard him stumbling down
@@ -3463,7 +3463,7 @@ di sezionare me.»
 «Non in società» rispose il poeta con una certa cortese scompostezza,
 guardandosi intorno con qualcosa come una vampata sotto i capelli chiari;
 era un uomo lungo e dalle membra sciolte di nome Gabriel Gale, i cui quadri
-erano più largamente noti delle sue poesie.
+erano più largamente noti delle sue [[Poems|poesie]].
 
 «Li avrete visti nelle vasche, immagino» disse Boon;
 «ma io li ho visti nel mare. Li ho visti là dove essi sono
@@ -3528,7 +3528,7 @@ udire la sua barba rizzarsi.
 «Badate che non siate voi a bestemmiare.»
 
 E allora, prima che alcuno potesse muoversi, la figura nera contro la chiazza
-d'oro si era voltata di scatto e si allontanava dalla casa,
+d'oro si era voltata di scatto e si allontanava dalla [[house|casa]],
 tanto impetuosamente che ebbero per un momento il [[concepts/fear|timore]] che camminasse
 oltre la scogliera. Tuttavia, trovò il cancelletto di legno che conduceva
 a una rampa di scalini di legno; e lo udirono inciampare giù per
@@ -3557,7 +3557,7 @@ Il suo ospite affrontò con animazione gli altri comuni argomenti del giorno.
 
 "I bet I'm the most industrious of the lot of you," he said.
 "I've been at my easel on the beach all day, trying to paint this
-blessed cliff, and make it look like [[motifs/chalk|chalk]] and not cheese."
+blessed cliff, and make it look like [[motifs/chalk|chalk]] and not [[cheese]]."
 
 "I saw you, but I didn't like to disturb you," said Wilkes.  "I generally
 try to put in an hour or so looking for specimens at high tide:
@@ -3620,7 +3620,7 @@ He stopped a moment and remained quite still, as if he were
 watching something.  Some even fancied that his pale, aquiline face
 looked paler as [[motifs/well|well]] as sharper.
 
-"What was that at the [[motifs/window|window]]?" he asked.  "Is anybody outside this house?"
+"What was that at the [[motifs/window|window]]?" he asked.  "Is anybody outside this [[house]]?"
 
 "What's the matter?  What did you see?" asked his host,
 in abrupt agitation.
@@ -3649,7 +3649,7 @@ its way across the foam, and the flat sand and the spire and roofs
 of the fishing village.  He had half-imagined the moist sea air
 thickening in some strange way to a greener and more liquid atmosphere
 in which the marine monsters could swim about in the streets.
-He had entertained the fancy that the house itself stood in the depths
+He had entertained the fancy that the [[house]] itself stood in the depths
 of the sea, and that the great goblin-headed fishes were nosing
 round it, as round the cabin windows of a wreck.
 
@@ -3691,7 +3691,7 @@ which spread its name over all the newspapers of the country.
 
 «Scommetto che sono il più industrioso di tutti voi» disse.
 «Sono stato al mio cavalletto sulla spiaggia tutto il giorno, cercando di dipingere questa
-benedetta scogliera, e di farla sembrare [[motifs/chalk|gesso]] e non formaggio.»
+benedetta scogliera, e di farla sembrare [[motifs/chalk|gesso]] e non [[cheese|formaggio]].»
 
 «Vi ho visto, ma non mi andava di disturbarvi» disse Wilkes. «Di solito
 cerco di dedicare un'oretta o giù di lì a cercare esemplari con l'alta marea:
@@ -3754,7 +3754,7 @@ Si arrestò un momento e rimase del tutto immobile, come se stesse
 osservando qualcosa. Alcuni immaginarono persino che il suo volto pallido e aquilino
 apparisse ancora più pallido [[motifs/well|oltre]] che più affilato.
 
-«Che cos'era quello alla [[motifs/window|finestra]]?» chiese. «C'è qualcuno fuori da questa casa?»
+«Che cos'era quello alla [[motifs/window|finestra]]?» chiese. «C'è qualcuno fuori da questa [[house|casa]]?»
 
 «Che succede? Che cosa avete visto?» chiese l'ospite,
 in brusca agitazione.
@@ -3783,7 +3783,7 @@ il suo volo attraverso la schiuma, e la piatta sabbia e la guglia e i tetti
 del villaggio di pescatori. Aveva mezzo immaginato l'umida aria marina
 che si addensava in qualche strano modo in un'atmosfera più verde e più liquida
 in cui i mostri marini potessero nuotare in giro per le strade.
-Aveva accarezzato la fantasia che la casa stessa sorgesse nelle profondità
+Aveva accarezzato la fantasia che la [[house|casa]] stessa sorgesse nelle profondità
 del mare, e che i grandi pesci dalla testa di folletto la annusassero,
 come attorno agli oblò della cabina di un relitto.
 
@@ -3919,7 +3919,7 @@ Gale's sub-consciousness exploded with a strange note of harsh mockery.
 "What," he cried, "you don't think the starfish jumped up
 and killed him?"
 
-"No, of course not," said Garth, with his gruff good humour.
+"No, of course not," said Garth, with his gruff good [[Humour|humour]].
 "What on earth is the matter with you?"
 
 "Lunacy, I think," said the poet, and began to walk slowly
@@ -3927,7 +3927,7 @@ towards the shore.
 
 As [[motifs/time|time]] went on he almost felt disposed to fancy that he had
 correctly diagnosed his own complaint.  The image began to figure
-even in his [[motifs/dreams|dreams]], but not merely as a natural nightmare about
+even in his [[motifs/dreams|dreams]], but not merely as a natural [[nightmare]] about
 the [[concepts/body|body]] on the sea-shore. The significant sea creature seemed
 more vivid even than the [[concepts/body|body]].  As he had originally seen the corpse
 from above, spread flat out beneath him, he saw it in his visions
@@ -4043,7 +4043,7 @@ Il subconscio di Gale esplose con una strana nota di aspra beffa.
 «Come» gridò, «non penserete mica che la stella marina sia balzata su
 e l'abbia ucciso?»
 
-«No, certo che no» disse Garth, con il suo burbero buon umore.
+«No, certo che no» disse Garth, con il suo burbero buon [[Humour|umore]].
 «Che diamine vi prende?»
 
 «Follia, credo» disse il poeta, e cominciò a camminare lentamente
@@ -4051,7 +4051,7 @@ verso la riva.
 
 Col passare del [[motifs/time|tempo]] si sentì quasi disposto a immaginare di aver
 correttamente diagnosticato il proprio male. L'immagine cominciò a figurare
-persino nei suoi [[motifs/dreams|sogni]], ma non semplicemente come un naturale incubo sul
+persino nei suoi [[motifs/dreams|sogni]], ma non semplicemente come un naturale [[nightmare|incubo]] sul
 [[concepts/body|corpo]] in riva al mare. La significativa creatura marina sembrava
 persino più vivida del [[concepts/body|corpo]]. Poiché aveva originariamente veduto il cadavere
 dall'alto, disteso piatto sotto di lui, lo vedeva nelle sue visioni
@@ -4122,7 +4122,7 @@ Then he looked down again at the drop of the dizzy cliffs
 to the flats that seemed to be swimming below him like a sea.
 And he saw the long, loose lines drawn in the sand unified into
 a shape, as flat as a picture on a wall.  He had often seen a [[archetypes/child|child]],
-in the same fashion, draw on the sand a pig as large as a house.
+in the same fashion, draw on the sand a pig as large as a [[house]].
 But in this case he could not shake off his former feeling of
 something archaic, like a palaeolithic drawing, about the scratching
 of the brown sand.  And Mr. Boon had not drawn a pig, but a shark;
@@ -4242,7 +4242,7 @@ Poi guardò di nuovo giù verso il salto delle vertiginose scogliere
 fino alle distese che sembravano nuotare sotto di lui come un mare.
 E vide le lunghe, sciolte linee tracciate nella sabbia unificarsi in
 una forma, piatta come un quadro su un muro. Aveva spesso veduto un [[archetypes/child|bambino]],
-allo stesso modo, disegnare sulla sabbia un maiale grande come una casa.
+allo stesso modo, disegnare sulla sabbia un maiale grande come una [[house|casa]].
 Ma in questo caso non riusciva a scrollarsi di dosso la precedente sensazione di
 qualcosa di arcaico, come un disegno paleolitico, in quel graffiare
 della sabbia bruna. E il signor Boon non aveva disegnato un maiale, ma uno squalo;
@@ -4467,7 +4467,7 @@ Garth lo fissò per qualche istante; poi osservò gravemente:
 "I don't mean that a man merely dissecting a daisy must be on
 the [[motifs/road|road]] to the gallows," conceded the poet, magnanimously, "but I
 do say that to mean it as he meant it is to be on a straight
-[[motifs/road|road]] of logic that leads there if he chooses to follow it.
+[[motifs/road|road]] of [[logic]] that leads there if he chooses to follow it.
 God is inside everything.  But this man wanted to be outside everything;
 to see everything hung in a vacuum, simply its own dead [[concepts/self|self]].
 It's not only not the same, it's almost the opposite of scepticism
@@ -4587,7 +4587,7 @@ How did anybody merely playing a practical joke get hold of a
 fish's face?  It was very life-like; for it was one of the masks
 modelled for the Wilkes museum; and Wilkes had left it in the hall
 in his great canvas bag.  It seems simple, doesn't it, for a man
-to raise an alarm inside a house, walk out to see, and instantly
+to raise an alarm inside a [[house]], walk out to see, and instantly
 put on a mask and look in at a [[motifs/window|window]]?  That's all he did;
 and you can see his idea, from the fact that he proceeded to warn
 Sir Owen of an enemy.  He wanted all this idolatrous and mystical
@@ -4611,7 +4611,7 @@ IV
 
 «Mio caro amico!» protestò il dottor Garth.
 
-«Non voglio dire che un uomo che semplicemente disseziona una margherita debba trovarsi sulla [[motifs/road|strada]] della forca,» concesse il poeta, magnanimo, «ma dico che intenderlo come lo intendeva lui significa trovarsi su una diritta [[motifs/road|strada]] di logica che vi conduce, se sceglie di seguirla. Dio è dentro ogni cosa. Ma quest'uomo voleva essere fuori da ogni cosa; vedere ogni cosa sospesa nel vuoto, semplicemente il proprio morto [[concepts/self|sé]]. Non solo non è lo stesso, è quasi l'opposto dello scetticismo nel senso di Boon o del Libro di Giobbe. Quello è un uomo sopraffatto dai misteri; ma quest'uomo nega che vi siano misteri. Non è, nel senso ordinario, una questione di teologia, ma di psicologia. La maggior parte dei buoni pagani e panteisti potrebbe parlare dei miracoli della [[concepts/nature|natura]]; ma quest'uomo nega che vi siano miracoli, anche nel senso di prodigi. Non vede che quella spaventosa luce arida gettata sulle cose deve alla fine inaridire i misteri morali come illusioni, il rispetto per l'età, il rispetto per la proprietà, e che la sacralità della vita diverrà una superstizione? Gli uomini per la strada sono soltanto organismi, con i loro organi più o meno esibiti. Per uno come lui non c'è più alcun terrore nel contatto con la carne umana, né egli vede Dio che lo osserva dagli occhi di un uomo.»
+«Non voglio dire che un uomo che semplicemente disseziona una margherita debba trovarsi sulla [[motifs/road|strada]] della forca,» concesse il poeta, magnanimo, «ma dico che intenderlo come lo intendeva lui significa trovarsi su una diritta [[motifs/road|strada]] di [[logic|logica]] che vi conduce, se sceglie di seguirla. Dio è dentro ogni cosa. Ma quest'uomo voleva essere fuori da ogni cosa; vedere ogni cosa sospesa nel vuoto, semplicemente il proprio morto [[concepts/self|sé]]. Non solo non è lo stesso, è quasi l'opposto dello scetticismo nel senso di Boon o del Libro di Giobbe. Quello è un uomo sopraffatto dai misteri; ma quest'uomo nega che vi siano misteri. Non è, nel senso ordinario, una questione di teologia, ma di psicologia. La maggior parte dei buoni pagani e panteisti potrebbe parlare dei miracoli della [[concepts/nature|natura]]; ma quest'uomo nega che vi siano miracoli, anche nel senso di prodigi. Non vede che quella spaventosa luce arida gettata sulle cose deve alla fine inaridire i misteri morali come illusioni, il rispetto per l'età, il rispetto per la proprietà, e che la sacralità della vita diverrà una superstizione? Gli uomini per la strada sono soltanto organismi, con i loro organi più o meno esibiti. Per uno come lui non c'è più alcun terrore nel contatto con la carne umana, né egli vede Dio che lo osserva dagli occhi di un uomo.»
 
 «Può non credere ai miracoli, ma pare che li compia,» osservò il dottore. «Che altro faceva, quando ha abbattuto un uomo sulla sabbia senza lasciare un segno a indicare dove si trovasse?»
 
@@ -4633,7 +4633,7 @@ Gale annuì. «Era ciò che mi lasciava perplesso; finché qualcosa che vidi sul
 
 «Vuol dunque dirmi,» incalzò Garth, «che tutta questa faccenda sull'[[archetypes/shadow|ombra]] dello squalo non c'entrava nulla?»
 
-«L'[[archetypes/shadow|ombra]] dello squalo c'entrava eccome,» replicò Gale. «L'assassino si celò nell'[[archetypes/shadow|ombra]] dello squalo, e colpì da sotto l'[[archetypes/shadow|ombra]] dello squalo. [[concepts/doubt|Dubito]] che avrebbe colpito affatto, se non avesse avuto l'[[archetypes/shadow|ombra]] di quella fantastica pinna in cui nascondersi. E la prova è che egli stesso si prese la briga di sottolineare ed esagerare la leggenda del povero Boon che danzava davanti a Dagon. Ricorda quello strano episodio della faccia di pesce alla [[motifs/window|finestra]]? Come poteva chi giocasse semplicemente uno scherzo procurarsi una faccia di pesce? Era assai realistica; giacché era una delle maschere modellate per il museo di Wilkes; e Wilkes l'aveva lasciata nell'atrio nel suo gran sacco di tela. Sembra semplice, vero, che un uomo dia l'allarme dentro una casa, esca a vedere, e istantaneamente indossi una maschera e sbirci a una [[motifs/window|finestra]]? È tutto ciò che fece; e potete cogliere la sua idea dal fatto che passò poi ad avvertire Sir Owen di un nemico. Voleva che tutta questa faccenda dell'omicidio idolatrico e mistico fosse sfruttata per quanto valeva, affinché il suo omicidio del tutto ragionevole non venisse notato. E come vedete c'è riuscito. Voi mi dite che Boon è nelle mani della polizia.»
+«L'[[archetypes/shadow|ombra]] dello squalo c'entrava eccome,» replicò Gale. «L'assassino si celò nell'[[archetypes/shadow|ombra]] dello squalo, e colpì da sotto l'[[archetypes/shadow|ombra]] dello squalo. [[concepts/doubt|Dubito]] che avrebbe colpito affatto, se non avesse avuto l'[[archetypes/shadow|ombra]] di quella fantastica pinna in cui nascondersi. E la prova è che egli stesso si prese la briga di sottolineare ed esagerare la leggenda del povero Boon che danzava davanti a Dagon. Ricorda quello strano episodio della faccia di pesce alla [[motifs/window|finestra]]? Come poteva chi giocasse semplicemente uno scherzo procurarsi una faccia di pesce? Era assai realistica; giacché era una delle maschere modellate per il museo di Wilkes; e Wilkes l'aveva lasciata nell'atrio nel suo gran sacco di tela. Sembra semplice, vero, che un uomo dia l'allarme dentro una [[house|casa]], esca a vedere, e istantaneamente indossi una maschera e sbirci a una [[motifs/window|finestra]]? È tutto ciò che fece; e potete cogliere la sua idea dal fatto che passò poi ad avvertire Sir Owen di un nemico. Voleva che tutta questa faccenda dell'omicidio idolatrico e mistico fosse sfruttata per quanto valeva, affinché il suo omicidio del tutto ragionevole non venisse notato. E come vedete c'è riuscito. Voi mi dite che Boon è nelle mani della polizia.»
 
 Garth balzò in piedi. «Che cosa si deve fare?» disse.
 
@@ -4651,10 +4651,10 @@ IV
 THE CRIME OF GABRIEL GALE
 
 DR.  BUTTERWORTH, the famous [[settings/london|London]] physician, was sitting
-in his [[motifs/summer|summer]]-house in his shirt sleeves, for it was a hot day
+in his [[motifs/summer|summer]]-[[house]] in his shirt sleeves, for it was a hot day
 and he had been playing tennis on the sunny lawns outside.
 He had a solid face and figure and carried everywhere an atmosphere
-of bodily health and good humour which helped him not a little in
+of bodily health and good [[Humour|humour]] which helped him not a little in
 his profession; but he was not serious or [[concepts/self|self]]-conscious about it.
 He was not one of those in whom health has degenerated into hygiene.
 He played tennis when he felt inclined and left off when he felt inclined;
@@ -4665,7 +4665,7 @@ and by himself as meaning that he would always be able to play.
 And he enjoyed a joke very much, even the most minute and trivial joke
 that his roving eye encountered; and at this moment it encountered
 a quaint detail, which was something of a quaint contrast, in the glowing
-[[motifs/garden|garden]] outside.  Framed in the dark doorway of the [[motifs/summer|summer]]-house,
+[[motifs/garden|garden]] outside.  Framed in the dark doorway of the [[motifs/summer|summer]]-[[house]],
 like a lighted scene on the stage, was the perspective of a [[motifs/garden|garden]] path,
 bordered with very gay and flamboyant beds of tulips, having something
 of the gorgeous formality of the borders of a Persian illumination.
@@ -4737,7 +4737,7 @@ was a risky business, to walk on the edge of the precipice
 like that; and now, as I say, he's done it once too often.
 I always distrusted it myself."
 
-"I should think so," said Dr. Butterworth, all his solid sanity
+"I should think so," said Dr. Butterworth, all his solid [[Sanity|sanity]]
 stiffening against the suggestion.  "He might as [[motifs/well|well]] say that a doctor
 ought to limp all the way to cure a lame man, or shut his eyes
 in order to help the blind."
@@ -4771,7 +4771,7 @@ The only explanation is that he wasn't himself.
 
 IL DELITTO DI GABRIEL GALE
 
-Il DOTT. BUTTERWORTH, il celebre medico di [[settings/london|Londra]], sedeva nel suo [[motifs/summer|padiglione]] estivo in maniche di camicia, giacché era una giornata calda ed egli aveva giocato a tennis sui prati soleggiati lì fuori. Aveva un viso e una figura solidi e portava ovunque con sé un'atmosfera di salute fisica e di buon umore che non poco lo aiutava nella sua professione; ma non ne era serio né [[concepts/self|preso da sé]]. Non era di quelli in cui la salute è degenerata in igiene. Giocava a tennis quando ne aveva voglia e smetteva quando ne aveva voglia; come nella presente occasione, in cui si era ritirato a fumare la pipa all'ombra. Godeva d'una partita come godeva d'uno scherzo; il che veniva interpretato da alcuni come segno che non sarebbe mai stato un giocatore, e da lui stesso come segno che sarebbe sempre stato in grado di giocare. E godeva moltissimo di uno scherzo, anche del più minuto e banale scherzo in cui incappasse il suo occhio errante; e in quel momento incappò in un curioso particolare, che era una sorta di curioso contrasto, nel [[motifs/garden|giardino]] sfolgorante là fuori. Incorniciata nella scura soglia del [[motifs/summer|padiglione]] estivo, come una scena illuminata sul palcoscenico, stava la prospettiva di un sentiero di [[motifs/garden|giardino]], bordato di aiuole di tulipani assai vivaci e sgargianti, con qualcosa della sontuosa formalità dei margini di una miniatura persiana. E lungo il centro del sentiero centrale avanzava una figura che al confronto appariva quasi completamente nera, col cilindro nero, gli abiti neri e l'ombrello nero; poteva essere il mitico Tulipano Nero venuto in vita e una [[forms/parody|parodia]] ambulante degli alti, sbilenchi [[motifs/garden|fiori]] da [[motifs/flowers|giardino]]. L'istante dopo tutte quelle fantasie erano svanite dalla fantasticheria del dottore; poiché aveva riconosciuto un volto familiare sotto il cilindro; sapeva che il contrasto non era meramente [[concepts/grotesque|grottesco]]; ed era turbato dalla gravità degli occhi del visitatore.
+Il DOTT. BUTTERWORTH, il celebre medico di [[settings/london|Londra]], sedeva nel suo [[motifs/summer|padiglione]] [[house|estivo]] in maniche di camicia, giacché era una giornata calda ed egli aveva giocato a tennis sui prati soleggiati lì fuori. Aveva un viso e una figura solidi e portava ovunque con sé un'atmosfera di salute fisica e di buon [[Humour|umore]] che non poco lo aiutava nella sua professione; ma non ne era serio né [[concepts/self|preso da sé]]. Non era di quelli in cui la salute è degenerata in igiene. Giocava a tennis quando ne aveva voglia e smetteva quando ne aveva voglia; come nella presente occasione, in cui si era ritirato a fumare la pipa all'ombra. Godeva d'una partita come godeva d'uno scherzo; il che veniva interpretato da alcuni come segno che non sarebbe mai stato un giocatore, e da lui stesso come segno che sarebbe sempre stato in grado di giocare. E godeva moltissimo di uno scherzo, anche del più minuto e banale scherzo in cui incappasse il suo occhio errante; e in quel momento incappò in un curioso particolare, che era una sorta di curioso contrasto, nel [[motifs/garden|giardino]] sfolgorante là fuori. Incorniciata nella scura soglia del [[motifs/summer|padiglione]] [[house|estivo]], come una scena illuminata sul palcoscenico, stava la prospettiva di un sentiero di [[motifs/garden|giardino]], bordato di aiuole di tulipani assai vivaci e sgargianti, con qualcosa della sontuosa formalità dei margini di una miniatura persiana. E lungo il centro del sentiero centrale avanzava una figura che al confronto appariva quasi completamente nera, col cilindro nero, gli abiti neri e l'ombrello nero; poteva essere il mitico Tulipano Nero venuto in vita e una [[forms/parody|parodia]] ambulante degli alti, sbilenchi [[motifs/garden|fiori]] da [[motifs/flowers|giardino]]. L'istante dopo tutte quelle fantasie erano svanite dalla fantasticheria del dottore; poiché aveva riconosciuto un volto familiare sotto il cilindro; sapeva che il contrasto non era meramente [[concepts/grotesque|grottesco]]; ed era turbato dalla gravità degli occhi del visitatore.
 
 «Salve, Garth,» disse cordialmente, «siediti e raccontaci tutto di te. Hai l'aria di andare a un funerale.»
 
@@ -4801,7 +4801,7 @@ Poi aggiunse bruscamente: «Naturalmente è sempre una triste faccenda; ma temo 
 
 «Ti dico che aveva una teoria,» disse Garth. «Riteneva di poter curare le persone toccate con ciò che chiamava simpatia. Ma non significava ciò che tu intenderesti per simpatia; intendeva seguire i loro pensieri e andare con loro a metà strada, o per tutta la strada se poteva. Solevo scherzare con lui, pover'uomo, e dirgli che se un pazzo si credeva fatto di vetro, Gale si sarebbe sforzato di sentirsi un po' trasparente. Comunque, quella era la sua idea, che potesse davvero guardare le cose in qualche misura dal punto di vista del pazzo; e parlargli nella sua stessa lingua. Ammetteva egli stesso che era una faccenda rischiosa, camminare così sull'orlo del precipizio; e ora, come dico, l'ha fatta una volta di troppo. Io stesso ne ho sempre diffidato.»
 
-«Lo credo bene,» disse il dottor Butterworth, tutta la sua solida sanità mentale irrigidendosi contro l'idea. «Tanto [[motifs/well|varrebbe]] dire che un medico dovrebbe zoppicare per tutta la strada per curare uno zoppo, o chiudere gli occhi per aiutare i ciechi.»
+«Lo credo bene,» disse il dottor Butterworth, tutta la sua solida [[Sanity|sanità mentale]] irrigidendosi contro l'idea. «Tanto [[motifs/well|varrebbe]] dire che un medico dovrebbe zoppicare per tutta la strada per curare uno zoppo, o chiudere gli occhi per aiutare i ciechi.»
 
 «Se il cieco guida il cieco,» assentì l'altro cupamente. «[[motifs/well|Ebbene]], questa [[motifs/time|volta]] è caduto nel fosso.»
 
@@ -4845,7 +4845,7 @@ at Mrs. Blakeney's; with a clear blue sky without a cloud in it,
 so that old Blakeney went pottering round and showed all the first
 comers his gardens and glasshouses.  But after that they all went
 in to tea, which was served in the great peacock-green drawing-room
-in the middle of the house; and so it happened that Saunders
+in the middle of the [[house]]; and so it happened that Saunders
 came late and there was a good deal of laughter as he sat down,
 much to his embarrassment; because the weather joke had been repeated
 and people were quite pleased to see it falsified for once.
@@ -4853,14 +4853,14 @@ Then they all went out into the rooms nearer the entrance;
 and Gabriel Gale was walking towards the doorway.  Between two
 pillars he caught sight of one of the outer windows and stood
 rooted to the spot, rigidly pointing with one arm.  That gesture
-alone warned me that something was really rather wrong with him;
+[[Alone|alone]] warned me that something was really rather wrong with him;
 but when I looked I could hardly help sharing his shock of surprise.
 For the windows that had been painted blue with [[motifs/summer|summer]] sky were painted
-black with rain.  On every side of the house the rain dripped and
+black with rain.  On every side of the [[house]] the rain dripped and
 pattered as dismally as if it had been raining for a hundred years.
 And ten minutes before the whole [[motifs/garden|garden]] had seemed a [[motifs/garden|garden]]
 of gold like the Hesperides.  Gale stood staring at this flying
-[[motifs/storm|storm]] from nowhere, that had so suddenly struck the house;
+[[motifs/storm|storm]] from nowhere, that had so suddenly struck the [[house]];
 then he turned slowly and looked, with an expression not to
 be forgotten, at the man who was standing a few yards away.
 It was Herbert Saunders.
@@ -4873,7 +4873,7 @@ whose name was already associated with it, if only by a jest.
 It was a mere coincidence, of course; but what worried me was
 the possible effect on my friend's already rather rickety psychology.
 He and Saunders were both standing and staring out of the same
-wide [[motifs/window|window]], looking at the deluge-darkened [[motifs/garden|garden]] and the swaying
+wide [[motifs/window|window]], looking at the [[deluge]]-darkened [[motifs/garden|garden]] and the swaying
 and tormented trees; but Saunder's simple face seemed to express
 only amiable bewilderment; indeed, he was smiling vaguely and shyly,
 as he did when he received a compliment.  For he was one of those whose
@@ -4897,7 +4897,7 @@ black outline, which may have captured poor Gale's fancy; for he was
 always prone to be taken by odd sights as if they were signals.
 Anyhow at that moment the host and hostess and other guests came
 hurrying by; the old man lamenting over the ruin of his hay;
-but the lady of the house apparently much more concerned about the fate
+but the lady of the [[house]] apparently much more concerned about the fate
 of some highly ornamental [[motifs/garden|garden]]-chairs, which had apparently been
 left out on the lawn just adjoining the meadow, under the large
 apple-tree whose boughs were now tossing and twisting in the [[motifs/storm|storm]].
@@ -4921,11 +4921,11 @@ the chairs and they'll come to you.'
 
 «C'era un'altra cosa che mi rendeva certo che non era in sé. Il tempo era stato assai difficile per tutti già da qualche [[motifs/time|tempo]]; caldo e tempestoso ed elettrico; ma era la prima [[motifs/time|volta]] che lo vedevo turbato da simili temporali. L'ho visto fare le sciocchezze più grandi; l'ho visto stare a testa in giù nel [[motifs/garden|giardino]]; ma ciò non faceva che dimostrare che _non_ era influenzato dalla [[motifs/storm|tempesta]]. Ma questa [[motifs/time|volta]] sono certo che queste strane tempeste semitropicali siano state troppo per lui; sì che perfino il soggetto stesso della [[motifs/storm|tempesta]] lo turbava in qualche modo. Poiché questa [[forms/tragedy|tragedia]] sorse dalla più banale delle banalità. L'intera terribile e innaturale faccenda cominciò col parlare del tempo.
 
-«Lady Flamborough disse a un ospite del suo [[motifs/garden|garden]]-party piuttosto umido: 'Avete portato con voi il cattivo tempo.' Chiunque potrebbe dirlo a chiunque; ma lo disse al giovane Herbert Saunders, che è terribilmente impacciato e timido, uno di quei ragazzi lunghi e sciolti dai grandi piedi, che paiono aver superato in crescita i loro abiti e il loro ingegno; l'ultima persona che vorrebbe essere additata da una qualsiasi osservazione, per quanto insignificante. Così Saunders non fece che restare a bocca aperta e gorgogliare o ammutolire, ma in qualche modo l'osservazione della dama parve dare sui nervi a Gale fin dal principio. Poco dopo Gale incontrò di nuovo Lady Flamborough, a un altro ricevimento dove pioveva, e a un tratto puntò il dito, come un comico cospiratore, verso l'alta e sgraziata figura di Saunders in lontananza e disse: 'Continua a portare cattivo tempo.' Poi accadde una di quelle coincidenze che sono del tutto naturali ma paiono far impazzire davvero i pazzi. La [[motifs/time|volta]] successiva che tutta quella compagnia si trovò riunita fu in un pomeriggio davvero splendido da Mrs. Blakeney; con un cielo azzurro e limpido senza una nuvola, sì che il vecchio Blakeney andò gironzolando e mostrò a tutti i primi arrivati i suoi giardini e le sue serre. Ma dopo di ciò entrarono tutti a prendere il tè, che fu servito nel gran salotto verde-pavone in mezzo alla casa; e così accadde che Saunders arrivò tardi e ci fu un bel po' di risate mentre si sedeva, con suo grande imbarazzo; perché lo scherzo sul tempo era stato ripetuto e la gente era ben lieta di vederlo per una volta smentito. Poi uscirono tutti nelle stanze più prossime all'ingresso; e Gabriel Gale stava camminando verso la soglia. Fra due colonne scorse una delle finestre esterne e rimase inchiodato sul posto, puntando rigidamente con un braccio. Quel gesto soltanto mi avvertì che qualcosa in lui non andava davvero; ma quando guardai non potei quasi fare a meno di condividere il suo sussulto di sorpresa. Poiché le finestre che erano state dipinte d'azzurro col cielo d'[[motifs/summer|estate]] erano dipinte di nero dalla pioggia. Su ogni lato della casa la pioggia gocciolava e picchiettava lugubre come se piovesse da cent'anni. E dieci minuti prima l'intero [[motifs/garden|giardino]] era parso un [[motifs/garden|giardino]] d'oro come quello delle Esperidi. Gale rimase a fissare questa [[motifs/storm|tempesta]] volante venuta dal nulla, che aveva così improvvisamente colpito la casa; poi si volse lentamente e guardò, con un'espressione da non dimenticare, l'uomo che stava a pochi passi di distanza. Era Herbert Saunders.
+«Lady Flamborough disse a un ospite del suo [[motifs/garden|garden]]-party piuttosto umido: 'Avete portato con voi il cattivo tempo.' Chiunque potrebbe dirlo a chiunque; ma lo disse al giovane Herbert Saunders, che è terribilmente impacciato e timido, uno di quei ragazzi lunghi e sciolti dai grandi piedi, che paiono aver superato in crescita i loro abiti e il loro ingegno; l'ultima persona che vorrebbe essere additata da una qualsiasi osservazione, per quanto insignificante. Così Saunders non fece che restare a bocca aperta e gorgogliare o ammutolire, ma in qualche modo l'osservazione della dama parve dare sui nervi a Gale fin dal principio. Poco dopo Gale incontrò di nuovo Lady Flamborough, a un altro ricevimento dove pioveva, e a un tratto puntò il dito, come un comico cospiratore, verso l'alta e sgraziata figura di Saunders in lontananza e disse: 'Continua a portare cattivo tempo.' Poi accadde una di quelle coincidenze che sono del tutto naturali ma paiono far impazzire davvero i pazzi. La [[motifs/time|volta]] successiva che tutta quella compagnia si trovò riunita fu in un pomeriggio davvero splendido da Mrs. Blakeney; con un cielo azzurro e limpido senza una nuvola, sì che il vecchio Blakeney andò gironzolando e mostrò a tutti i primi arrivati i suoi giardini e le sue serre. Ma dopo di ciò entrarono tutti a prendere il tè, che fu servito nel gran salotto verde-pavone in mezzo alla [[house|casa]]; e così accadde che Saunders arrivò tardi e ci fu un bel po' di risate mentre si sedeva, con suo grande imbarazzo; perché lo scherzo sul tempo era stato ripetuto e la gente era ben lieta di vederlo per una volta smentito. Poi uscirono tutti nelle stanze più prossime all'ingresso; e Gabriel Gale stava camminando verso la soglia. Fra due colonne scorse una delle finestre esterne e rimase inchiodato sul posto, puntando rigidamente con un braccio. Quel gesto [[Alone|soltanto]] mi avvertì che qualcosa in lui non andava davvero; ma quando guardai non potei quasi fare a meno di condividere il suo sussulto di sorpresa. Poiché le finestre che erano state dipinte d'azzurro col cielo d'[[motifs/summer|estate]] erano dipinte di nero dalla pioggia. Su ogni lato della [[house|casa]] la pioggia gocciolava e picchiettava lugubre come se piovesse da cent'anni. E dieci minuti prima l'intero [[motifs/garden|giardino]] era parso un [[motifs/garden|giardino]] d'oro come quello delle Esperidi. Gale rimase a fissare questa [[motifs/storm|tempesta]] volante venuta dal nulla, che aveva così improvvisamente colpito la [[house|casa]]; poi si volse lentamente e guardò, con un'espressione da non dimenticare, l'uomo che stava a pochi passi di distanza. Era Herbert Saunders.
 
-«Potete immaginare che non sia molto nel mio stile credere alla stregoneria o ai maghi che governano gli elementi; ma pareva davvero esserci qualcosa di strano in quel giorno senza nubi che si era così rapidamente rannuvolato, con l'arrivo dell'unico uomo il cui nome era già associato ad esso, non fosse che per uno scherzo. Era una mera coincidenza, s'intende; ma ciò che mi preoccupava era il possibile effetto sulla psicologia già piuttosto malferma del mio amico. Egli e Saunders stavano entrambi in piedi a fissare fuori dalla stessa ampia [[motifs/window|finestra]], guardando il diluvio che oscurava il [[motifs/garden|giardino]] e gli alberi ondeggianti e tormentati; ma il volto semplice di Saunders pareva esprimere soltanto un amabile sconcerto; anzi, sorrideva vagamente e timidamente, come faceva quando riceveva un complimento. Poiché era di quelli il cui volto, dopo un complimento, pare sempre aver ricevuto uno schiaffo. Egli evidentemente non vi vedeva altro che una ripetizione dello scherzo; forse pensava che il clima inglese stesse tenendo su lo scherzo. E, in confronto al suo volto, il volto di Gabriel era come il volto di un demonio. Così parve almeno, mentre balzava bianco fuori dall'oscurità crescente per incontrare il primo bianco scoppio del [[motifs/lightning|fulmine]]; poi seguì soltanto il tuono e il fragore della pioggia rombante; ma io sapevo che egli stava là a dondolarsi con quell'inspiegabile eccitazione. Attraverso il tuono udii la sua voce dire: 'Fa sentire come Dio.'
+«Potete immaginare che non sia molto nel mio stile credere alla stregoneria o ai maghi che governano gli elementi; ma pareva davvero esserci qualcosa di strano in quel giorno senza nubi che si era così rapidamente rannuvolato, con l'arrivo dell'unico uomo il cui nome era già associato ad esso, non fosse che per uno scherzo. Era una mera coincidenza, s'intende; ma ciò che mi preoccupava era il possibile effetto sulla psicologia già piuttosto malferma del mio amico. Egli e Saunders stavano entrambi in piedi a fissare fuori dalla stessa ampia [[motifs/window|finestra]], guardando il [[deluge|diluvio]] che oscurava il [[motifs/garden|giardino]] e gli alberi ondeggianti e tormentati; ma il volto semplice di Saunders pareva esprimere soltanto un amabile sconcerto; anzi, sorrideva vagamente e timidamente, come faceva quando riceveva un complimento. Poiché era di quelli il cui volto, dopo un complimento, pare sempre aver ricevuto uno schiaffo. Egli evidentemente non vi vedeva altro che una ripetizione dello scherzo; forse pensava che il clima inglese stesse tenendo su lo scherzo. E, in confronto al suo volto, il volto di Gabriel era come il volto di un demonio. Così parve almeno, mentre balzava bianco fuori dall'oscurità crescente per incontrare il primo bianco scoppio del [[motifs/lightning|fulmine]]; poi seguì soltanto il tuono e il fragore della pioggia rombante; ma io sapevo che egli stava là a dondolarsi con quell'inspiegabile eccitazione. Attraverso il tuono udii la sua voce dire: 'Fa sentire come Dio.'
 
-«Immediatamente sotto le finestre un sentierino correva ai margini di certe terre a prato annesse al [[motifs/garden|giardino]], dove i Blakeney avevano raccolto il loro fieno; e un mucchio di fieno moderatamente grande appariva quasi montuosamente scuro contro quel cielo basso e minaccioso; un forcone a due punte posato di traverso su di esso aveva certamente qualcosa di sinistro nel suo nero profilo, che può aver colpito la fantasia del povero Gale; poiché egli era sempre incline a lasciarsi prendere da immagini bizzarre come se fossero segnali. Comunque in quel momento il padrone e la padrona di casa e altri ospiti sopraggiunsero di corsa; il vecchio lamentandosi per la rovina del suo fieno; ma la signora della casa a quanto pareva assai più in ansia per la sorte di certe sedie da [[motifs/garden|giardino]] assai ornamentali, che a quanto pareva erano state lasciate fuori sul prato proprio accanto al campo, sotto il grande melo i cui rami ora si agitavano e si torcevano nella [[motifs/storm|tempesta]].
+«Immediatamente sotto le finestre un sentierino correva ai margini di certe terre a prato annesse al [[motifs/garden|giardino]], dove i Blakeney avevano raccolto il loro fieno; e un mucchio di fieno moderatamente grande appariva quasi montuosamente scuro contro quel cielo basso e minaccioso; un forcone a due punte posato di traverso su di esso aveva certamente qualcosa di sinistro nel suo nero profilo, che può aver colpito la fantasia del povero Gale; poiché egli era sempre incline a lasciarsi prendere da immagini bizzarre come se fossero segnali. Comunque in quel momento il padrone e la padrona di casa e altri ospiti sopraggiunsero di corsa; il vecchio lamentandosi per la rovina del suo fieno; ma la signora della [[house|casa]] a quanto pareva assai più in ansia per la sorte di certe sedie da [[motifs/garden|giardino]] assai ornamentali, che a quanto pareva erano state lasciate fuori sul prato proprio accanto al campo, sotto il grande melo i cui rami ora si agitavano e si torcevano nella [[motifs/storm|tempesta]].
 
 «Gabriel Gale, quando è in perfetto senno, è il più cavalleresco degli uomini, e avrebbe recuperato le sedie della signora d'un balzo. Ma ora non poteva far altro che fissare torvo lo sventurato Saunders; il quale si destò tremante ai suoi doveri sociali, in quell'agonia di [[concepts/self|autocoscienza]] in cui un uomo ha paura di fare la cosa giusta e paura di non farla. Alla fine, tuttavia, si scosse in avanti, armeggiò con la porta, la spalancò e corse fuori nella pioggia rimbombante. Allora Gale lo seguì fino alla porta aperta e gli gridò dietro qualcosa. Per la maggior parte della compagnia, credo, andò perduto nel frastuono; ma anche se l'avessero udito, di certo non avrebbero potuto capirlo. Io lo udii; e credetti di capirlo fin troppo [[motifs/well|bene]]. Poiché ciò che Gale gridò attraverso la [[motifs/storm|tempesta]] fu: 'Perché non chiami le sedie e verranno da te.'
 
@@ -4952,13 +4952,13 @@ and rear up as against an invisible obstacle, as the rope tightened
 and tugged it back.
 
 "I looked round for assistance; and was surprised and somewhat
-alarmed to find I was alone.  The host and hostess, and the others,
+alarmed to find I was [[Alone|alone]].  The host and hostess, and the others,
 having despatched the obliging Saunders after the chairs, had rushed
 off to summon the servants or secure other doors and windows, or look
 after other fittings threatened by the weather; and there was no one but
 myself to watch the unmeaning and apparently imbecile [[forms/tragedy|tragedy]] outside.
 I saw Gale drag Saunders like a sack at the end of a rope along
-the whole length of windows and disappear round a corner of the house.
+the whole length of windows and disappear round a corner of the [[house]].
 But I turned cold with a new [[concepts/fear|fear]] when, even as he rushed past,
 he snatched the hay-fork from the mound and seemed to disappear
 brandishing it, like the fabulous fork of a demon.  I rushed after them,
@@ -4994,7 +4994,7 @@ now and get it over."
 The interview between Gale and the two doctors, at an adjacent hotel,
 was so short and so extraordinary that they went away with their
 very level heads turning like [[motifs/wind|wind]]-mills. For Gale displayed
-nothing even of the merely childish innocence of levity attributed
+nothing even of the merely childish [[innocence]] of levity attributed
 to him in the tale of the dandelions.  He listened with patience,
 and a humorous and benevolent mildness which made the two doctors,
 who were considerably his seniors, feel as if they were being
@@ -5045,7 +5045,7 @@ as in a confessional box."
 The two doctors, when they parted in some bewilderment, but tacitly
 accepting this suggestion of a respite, lost no [[motifs/time|time]] in fulfilling
 the condition required.  They sent off a carefully worded telegram
-to Saunders, who had now returned [[motifs/home|home]] to his mother's house, asking him
+to Saunders, who had now returned [[motifs/home|home]] to his mother's [[house]], asking him
 what were his impressions and views about the extraordinary conduct
 of Gabriel Gale.  The reply came back with remarkable promptitude;
 and Garth came to Butterworth with the open telegram in his hand
@@ -5057,7 +5057,7 @@ of the message were:
 
 «Un secondo o due dopo aggiunse, quasi fosse un ripensamento: 'Potresti [[motifs/well|anche]] dire all'albero di venir qui, [[motifs/well|pure]].' Naturalmente non vi fu risposta; e in effetti Saunders, in parte per la sua naturale goffaggine e in parte nella distrazione degli elementi scatenati, pareva per il momento aver smarrito la strada e barcollava su per il sentiero più ripido del prato, un po' a sinistra dell'albero. Riuscivo appena a scorgere la sua lunga figura e i gomiti angolosi e goffi stagliati contro il cielo. Poi seguì l'improvviso, violento e del tutto incomprensibile episodio. Una corda giaceva per metà attorno a uno dei covoni in primo piano; e Gale, balzando fuori dalla porta, la raccolse e parve annodarla con una sorta di furia selvaggia. L'istante dopo attraversò il cielo la grande curva vorticosa di un cappio lanciato alla maniera di un lazo. E potei vedere la figura vacillante sul crinale scuro mutare atteggiamento e impennarsi come contro un ostacolo invisibile, mentre la corda si tendeva e la strattonava all'indietro.
 
-«Mi guardai attorno in cerca di aiuto; e fui sorpreso e alquanto allarmato di trovarmi solo. Il padrone e la padrona di casa, e gli altri, avendo spedito il compiacente Saunders a recuperare le sedie, s'erano precipitati a chiamare i domestici o ad assicurare altre porte e finestre, o a badare ad altri infissi minacciati dal maltempo; e non c'era nessuno all'infuori di me a osservare l'insensata e apparentemente imbecille [[forms/tragedy|tragedia]] là fuori. Vidi Gale trascinare Saunders come un sacco all'estremità di una corda lungo tutta la fila di finestre e sparire dietro un angolo della casa. Ma gelai per un nuovo [[concepts/fear|terrore]] quando, proprio mentre passava di corsa, strappò il forcone dal mucchio e parve sparire brandendolo, come la favolosa forca di un demonio. Mi lanciai al loro inseguimento, ma scivolando sulle pietre bagnate, mi feci male a un piede e dovetti zoppicare; l'infuriante [[motifs/storm|tempesta]] parve aver inghiottito quel pazzo e tutte le sue buffonate; e fu solo qualche [[motifs/time|tempo]] dopo che gli uomini scoprirono come quella [[motifs/dance|danza]] fosse finita. Herbert Saunders fu trovato legato a un albero, ancora vivo e persino illeso, ma con l'aspetto di chi ha appena scampato un attacco micidiale; poiché le punte del forcone erano state conficcate per pura furia nell'albero su ciascun lato del suo collo, tenendolo inchiodato lì come da un anello di ferro. Gabriel Gale non fu ritrovato per quasi un giorno, finché la [[motifs/storm|tempesta]] non si fu spenta e il sole non fu tornato; e se ne andava bighellonando in un prato attiguo soffiando via i pappi dei tarassachi. Di rado l'ho conosciuto così sereno.»
+«Mi guardai attorno in cerca di aiuto; e fui sorpreso e alquanto allarmato di trovarmi [[Alone|solo]]. Il padrone e la padrona di casa, e gli altri, avendo spedito il compiacente Saunders a recuperare le sedie, s'erano precipitati a chiamare i domestici o ad assicurare altre porte e finestre, o a badare ad altri infissi minacciati dal maltempo; e non c'era nessuno all'infuori di me a osservare l'insensata e apparentemente imbecille [[forms/tragedy|tragedia]] là fuori. Vidi Gale trascinare Saunders come un sacco all'estremità di una corda lungo tutta la fila di finestre e sparire dietro un angolo della [[house|casa]]. Ma gelai per un nuovo [[concepts/fear|terrore]] quando, proprio mentre passava di corsa, strappò il forcone dal mucchio e parve sparire brandendolo, come la favolosa forca di un demonio. Mi lanciai al loro inseguimento, ma scivolando sulle pietre bagnate, mi feci male a un piede e dovetti zoppicare; l'infuriante [[motifs/storm|tempesta]] parve aver inghiottito quel pazzo e tutte le sue buffonate; e fu solo qualche [[motifs/time|tempo]] dopo che gli uomini scoprirono come quella [[motifs/dance|danza]] fosse finita. Herbert Saunders fu trovato legato a un albero, ancora vivo e persino illeso, ma con l'aspetto di chi ha appena scampato un attacco micidiale; poiché le punte del forcone erano state conficcate per pura furia nell'albero su ciascun lato del suo collo, tenendolo inchiodato lì come da un anello di ferro. Gabriel Gale non fu ritrovato per quasi un giorno, finché la [[motifs/storm|tempesta]] non si fu spenta e il sole non fu tornato; e se ne andava bighellonando in un prato attiguo soffiando via i pappi dei tarassachi. Di rado l'ho conosciuto così sereno.»
 
 Vi fu un breve [[motifs/silence|silenzio]]. «Come sta l'altro tale... Saunders?» chiese Butterworth, dopo una pausa di accigliata riflessione. «Fu ferito gravemente?»
 
@@ -5065,7 +5065,7 @@ Vi fu un breve [[motifs/silence|silenzio]]. «Come sta l'altro tale... Saunders?
 
 «Molto [[motifs/well|bene]],» disse il dottore di [[settings/london|Londra]], alzandosi con brusca compostezza e abbottonandosi la giacca. «Faremmo meglio ad andare a vederlo subito e a farla finita.»
 
-Il colloquio fra Gale e i due dottori, in un albergo vicino, fu così breve e straordinario che essi se ne andarono con le loro teste assai equilibrate che giravano come [[motifs/wind|mulini a vento]]. Poiché Gale non mostrò nulla nemmeno della puerile innocenza di frivolezza attribuitagli nel racconto dei tarassachi. Ascoltò con pazienza, e con una mitezza umoristica e benevola che fece sentire i due dottori, che erano assai più anziani di lui, come se venissero trattati da giovincelli. Quando Garth cominciò a rivelargli con dolcezza che una qualche cura di riposo era richiesta nel suo stesso interesse, egli rise di cuore e prevenne tutte quelle perifrasi.
+Il colloquio fra Gale e i due dottori, in un albergo vicino, fu così breve e straordinario che essi se ne andarono con le loro teste assai equilibrate che giravano come [[motifs/wind|mulini a vento]]. Poiché Gale non mostrò nulla nemmeno della puerile [[innocence|innocenza]] di frivolezza attribuitagli nel racconto dei tarassachi. Ascoltò con pazienza, e con una mitezza umoristica e benevola che fece sentire i due dottori, che erano assai più anziani di lui, come se venissero trattati da giovincelli. Quando Garth cominciò a rivelargli con dolcezza che una qualche cura di riposo era richiesta nel suo stesso interesse, egli rise di cuore e prevenne tutte quelle perifrasi.
 
 «Non essere nervoso, vecchio mio,» disse, «vuoi dire che dovrei stare in un manicomio; e sono certo che lo dici per il mio [[motifs/well|bene]].»
 
@@ -5089,7 +5089,7 @@ Aggrottò leggermente le sopracciglia come se considerasse un punto nuovo e mera
 
 Il poeta scosse il capo. «No,» disse, «quel genere d'uomo si sente molto più libero per iscritto. Al telefono non farà che balbettare. Non balbetterà nulla di simile a ciò che immagini, nemmeno allora; ma balbetterà. Ma scrivendo con la testa in una di quelle piccole cabine dell'ufficio telegrafico, si sentirà libero come in un confessionale.»
 
-I due dottori, quando si separarono in un certo sconcerto, ma accettando tacitamente questo suggerimento di una tregua, non persero [[motifs/time|tempo]] nell'adempiere alla condizione richiesta. Spedirono un telegramma accuratamente formulato a Saunders, che ora era tornato a [[motifs/home|casa]], nella dimora di sua madre, chiedendogli quali fossero le sue impressioni e i suoi giudizi sulla straordinaria condotta di Gabriel Gale. La risposta tornò con notevole prontezza; e Garth venne da Butterworth col telegramma aperto in mano e un'espressione piuttosto stordita sul volto. Poiché i termini esatti del messaggio erano:
+I due dottori, quando si separarono in un certo sconcerto, ma accettando tacitamente questo suggerimento di una tregua, non persero [[motifs/time|tempo]] nell'adempiere alla condizione richiesta. Spedirono un telegramma accuratamente formulato a Saunders, che ora era tornato a [[motifs/home|casa]], nella [[house|dimora]] di sua madre, chiedendogli quali fossero le sue impressioni e i suoi giudizi sulla straordinaria condotta di Gabriel Gale. La risposta tornò con notevole prontezza; e Garth venne da Butterworth col telegramma aperto in mano e un'espressione piuttosto stordita sul volto. Poiché i termini esatti del messaggio erano:
 
 
 
@@ -5101,14 +5101,14 @@ which more than saved my life."
 
 The two doctors looked at each other in [[motifs/silence|silence]]; and in almost
 as complete a [[motifs/silence|silence]] got into a car and drove across the hills
-once more to the Blakeney's house, where Gale was still staying.
+once more to the Blakeney's [[house]], where Gale was still staying.
 
 They drove across the hilly country and descended into
-the wide and shallow valley where stood the house which
+the wide and shallow valley where stood the [[house]] which
 sheltered that dangerous character, Mr. Gabriel Gale.
 Garth could recall, and Butterworth could imagine, all the irony
 suggested to the [[concepts/imagination|imagination]] by such a story about such a scene.
-The house of the Blakeneys stood high and plain just beyond the [[motifs/river|river]];
+The [[house]] of the Blakeneys stood high and plain just beyond the [[motifs/river|river]];
 it was one of those houses that strike the eye as old-fashioned
 and yet not old.  Certainly it was not old enough to be beautiful;
 but it had everything that recalls, to those that faintly
@@ -5118,8 +5118,8 @@ the long plain windows looked in dismally upon high-ceilinged rooms;
 the curtains that hung parallel with the pillars were strips of dull red;
 and even from that distance the humorous Butterworth was certain
 that they had heavy and quite useless tassels.  It was a strange
-house to have been the scene of an incredible crime or lunacy.
-It was an even stranger house to have been, as was alleged,
+[[house]] to have been the scene of an incredible crime or lunacy.
+It was an even stranger [[house]] to have been, as was alleged,
 the scene of a yet more incredible or mysterious [[concepts/mercy|mercy]].
 All about it lay its ordered gardens and its mown or unmown meadows;
 its plantations of trees and deep alleys and shrubberies;
@@ -5207,9 +5207,9 @@ of being mad?"
 
 «Non potrò mai essere sufficientemente grato a Gale per la sua grande bontà, che più che salvarmi la vita.»
 
-I due dottori si guardarono in [[motifs/silence|silenzio]]; e in un [[motifs/silence|silenzio]] quasi altrettanto completo salirono in macchina e attraversarono di nuovo le colline fino alla casa dei Blakeney, dove Gale alloggiava ancora.
+I due dottori si guardarono in [[motifs/silence|silenzio]]; e in un [[motifs/silence|silenzio]] quasi altrettanto completo salirono in macchina e attraversarono di nuovo le colline fino alla [[house|casa]] dei Blakeney, dove Gale alloggiava ancora.
 
-Attraversarono la contrada collinosa e discesero nell'ampia e poco profonda valle dove sorgeva la casa che dava rifugio a quel pericoloso individuo, il signor Gabriel Gale. Garth poteva rammentare, e Butterworth poteva immaginare, tutta l'ironia suggerita all'[[concepts/imagination|immaginazione]] da una simile storia in un simile scenario. La casa dei Blakeney sorgeva alta e disadorna appena oltre il [[motifs/river|fiume]]; era una di quelle case che colpiscono l'occhio come antiquate eppure non antiche. Certo non era abbastanza vecchia da essere bella; ma aveva tutto ciò che richiama, a coloro che debolmente le rammentano, le ultime tradizioni della prima età vittoriana attardatesi fino ai tempi della media età vittoriana. Le alte colonne apparivano così pallide; le lunghe e disadorne finestre guardavano lugubri dentro stanze dagli alti soffitti; le tende che pendevano parallele alle colonne erano strisce di rosso spento; e perfino da quella distanza l'umoristico Butterworth era certo che avessero pesanti e del tutto inutili nappe. Era una casa ben strana per essere stata teatro di un incredibile delitto o di una incredibile follia. Era una casa ancor più strana per essere stata, come si asseriva, teatro di una [[concepts/mercy|misericordia]] ancor più incredibile o misteriosa. Tutt'intorno ad essa si stendevano i suoi giardini ordinati e i suoi prati falciati o non falciati; le sue piantagioni di alberi e i profondi viali e i boschetti; tutte le cose che in quella selvaggia [[motifs/night|notte]] erano state abbandonate allo splendore devastatore del [[motifs/lightning|fulmine]] e del [[motifs/wind|vento]]. Ora l'intero paesaggio giaceva disteso in una dorata calma d'[[motifs/summer|estate]]; e i cieli azzurri sopra di esso erano così profondi e immoti che il ronzio di una mosca vi restava sospeso e si udiva lontano quanto l'allodola. Così luccicavano al sole, tutti solidi e oggettivi, gli arredi scenici di quella orrenda farsa. Garth vedeva tutte le vuote e sbarrate finestre che aveva visto per l'ultima volta grondanti di pioggia e sferzate dal [[motifs/wind|vento]] e dalla selvaggia [[motifs/dance|danza]] del pazzo e della sua vittima. Vedeva l'albero biforcuto a cui la vittima era stata legata, ancora coi due neri fori in cui il forcone l'aveva trafitto, simili alle orbite cave di un teschio, e che facevano sembrare il tutto una sorta di folletto cornuto. C'era il fieno ammucchiato, ancora in parte scomposto e sparso come dalla vertiginosa [[motifs/dance|danza]] di un piccolo ciclone; e oltre esso si [[motifs/rose|levava]] l'alta verde parete dell'erba non falciata e ritta del prato successivo. Dal fitto stesso di questa mite giungla o foresta in miniatura, una lunga e sottile linea di fumo saliva verso il cielo; come da un piccolissimo [[motifs/fire|fuoco]] di erbacce. Nient'altro di umano o di vivo era visibile nell'afoso paesaggio d'[[motifs/summer|estate]]; ma Garth pareva conoscere e riconoscere il significato del fumo. Lanciò un lungo richiamo attraverso i campi, gridando: «Sei tu, Gale?»
+Attraversarono la contrada collinosa e discesero nell'ampia e poco profonda valle dove sorgeva la [[house|casa]] che dava rifugio a quel pericoloso individuo, il signor Gabriel Gale. Garth poteva rammentare, e Butterworth poteva immaginare, tutta l'ironia suggerita all'[[concepts/imagination|immaginazione]] da una simile storia in un simile scenario. La [[house|casa]] dei Blakeney sorgeva alta e disadorna appena oltre il [[motifs/river|fiume]]; era una di quelle case che colpiscono l'occhio come antiquate eppure non antiche. Certo non era abbastanza vecchia da essere bella; ma aveva tutto ciò che richiama, a coloro che debolmente le rammentano, le ultime tradizioni della prima età vittoriana attardatesi fino ai tempi della media età vittoriana. Le alte colonne apparivano così pallide; le lunghe e disadorne finestre guardavano lugubri dentro stanze dagli alti soffitti; le tende che pendevano parallele alle colonne erano strisce di rosso spento; e perfino da quella distanza l'umoristico Butterworth era certo che avessero pesanti e del tutto inutili nappe. Era una [[house|casa]] ben strana per essere stata teatro di un incredibile delitto o di una incredibile follia. Era una [[house|casa]] ancor più strana per essere stata, come si asseriva, teatro di una [[concepts/mercy|misericordia]] ancor più incredibile o misteriosa. Tutt'intorno ad essa si stendevano i suoi giardini ordinati e i suoi prati falciati o non falciati; le sue piantagioni di alberi e i profondi viali e i boschetti; tutte le cose che in quella selvaggia [[motifs/night|notte]] erano state abbandonate allo splendore devastatore del [[motifs/lightning|fulmine]] e del [[motifs/wind|vento]]. Ora l'intero paesaggio giaceva disteso in una dorata calma d'[[motifs/summer|estate]]; e i cieli azzurri sopra di esso erano così profondi e immoti che il ronzio di una mosca vi restava sospeso e si udiva lontano quanto l'allodola. Così luccicavano al sole, tutti solidi e oggettivi, gli arredi scenici di quella orrenda farsa. Garth vedeva tutte le vuote e sbarrate finestre che aveva visto per l'ultima volta grondanti di pioggia e sferzate dal [[motifs/wind|vento]] e dalla selvaggia [[motifs/dance|danza]] del pazzo e della sua vittima. Vedeva l'albero biforcuto a cui la vittima era stata legata, ancora coi due neri fori in cui il forcone l'aveva trafitto, simili alle orbite cave di un teschio, e che facevano sembrare il tutto una sorta di folletto cornuto. C'era il fieno ammucchiato, ancora in parte scomposto e sparso come dalla vertiginosa [[motifs/dance|danza]] di un piccolo ciclone; e oltre esso si [[motifs/rose|levava]] l'alta verde parete dell'erba non falciata e ritta del prato successivo. Dal fitto stesso di questa mite giungla o foresta in miniatura, una lunga e sottile linea di fumo saliva verso il cielo; come da un piccolissimo [[motifs/fire|fuoco]] di erbacce. Nient'altro di umano o di vivo era visibile nell'afoso paesaggio d'[[motifs/summer|estate]]; ma Garth pareva conoscere e riconoscere il significato del fumo. Lanciò un lungo richiamo attraverso i campi, gridando: «Sei tu, Gale?»
 
 Due piedi puntati verso il cielo e due lunghe gambe a testa in giù si [[motifs/rose|levarono]] verticalmente fuori dall'erba alta, appena oltre il fumo; e si agitavano verso di loro come braccia, quasi secondo una concertata scienza dei segnali. Poi le gambe parvero dare un balzo e un tuffo e il proprietario delle gambe risalì dritto e si [[motifs/rose|levò]] o emerse lentamente dalle profondità del verde, fissandoli con un'espressione nebulosa e benevola. Fumava un lungo e sottile sigaro: il [[motifs/fire|fuoco]] dietro il fumo.
 
@@ -5346,7 +5346,7 @@ And I believe profoundly that there was no other remedy.
 Anything in the [[concepts/nature|nature]] of soothing or quieting him would only
 have made him yet more secretive and yet more swollen-headed. As
 for humouring him, it's the very worst thing to do with people
-who are losing their sense of humour.  No; there was something
+who are losing their sense of [[Humour|humour]].  No; there was something
 he was beginning to believe about himself; and it was still possible
 to prove that it wasn't true."
 
@@ -5386,7 +5386,7 @@ Finché le [[motifs/stars|stelle]] a stento sanno reggersi.'
 
 «Portai a termine tutta quella folle faccenda; ed ero sicuro di aver ragione; come egli stesso ora è sicuro che avevo ragione. Nessuno all'infuori di me sapeva quanto lontano fosse già andato lungo quella [[motifs/road|strada]]; e sapevo che non c'era altro rimedio se non l'acuta, pratica, dolorosa scoperta che non poteva controllare la materia o gli elementi; che non poteva muovere gli alberi o rimuovere i forconi; che poteva lottare per due ore con una corda e un paio di punte ed essere ancora legato.
 
-«Era certo un rimedio piuttosto disperato; davvero non si può dire nulla a suo favore se non che era un rimedio. E credo profondamente che non ci fosse altro rimedio. Qualunque cosa nella [[concepts/nature|natura]] del calmarlo o del tranquillizzarlo lo avrebbe reso soltanto ancor più chiuso e ancor più tronfio. Quanto all'assecondarlo, è la cosa peggiore da fare con chi sta perdendo il senso dell'umorismo. No; c'era qualcosa che egli cominciava a credere di sé; ed era ancora possibile provare che non era vero.»
+«Era certo un rimedio piuttosto disperato; davvero non si può dire nulla a suo favore se non che era un rimedio. E credo profondamente che non ci fosse altro rimedio. Qualunque cosa nella [[concepts/nature|natura]] del calmarlo o del tranquillizzarlo lo avrebbe reso soltanto ancor più chiuso e ancor più tronfio. Quanto all'assecondarlo, è la cosa peggiore da fare con chi sta perdendo il senso dell'[[Humour|umorismo]]. No; c'era qualcosa che egli cominciava a credere di sé; ed era ancora possibile provare che non era vero.»
 
 
 
@@ -5404,7 +5404,7 @@ and was going to be a clergyman; and he may have brooded upon [[concepts/doubt|d
 and inspiration and prophecy till they began to work the wrong way.
 The worst is always very near the best; there is something much
 worse than atheism which is Satanism; otherwise known as Being God.
-But as a matter of mere philosophy, apart from theology, the thing
+But as a matter of mere [[philosophy]], apart from theology, the thing
 is much nearer to the nerve of all thinking than you might think.
 That's why it was so insinuating and so difficult to see or to stop.
 That's what I mean when I say I had a sympathy with the young lunatic.
@@ -5483,9 +5483,9 @@ been in that centre of the cosmos knows that it is to be in hell.
 And there is only one cure for it.  Oh, I know that people have
 written all kinds of cant and false comfort about the cause of evil;
 and of why there is [[motifs/pain|pain]] in the world.  God forbid that we should add
-ourselves to such a chattering monkey-house of moralists.  But for
+ourselves to such a chattering monkey-[[house]] of moralists.  But for
 all that, this [[concepts/truth|truth]] is true; objectively and experimentally true.
-There is no cure for that nightmare of omnipotence except [[motifs/pain|pain]];
+There is no cure for that [[nightmare]] of omnipotence except [[motifs/pain|pain]];
 because that is the thing a man _knows_ he would not tolerate if he could
 really control it.  A man must be in some place from which he would
 certainly escape if he could, if he is really to realize that all
@@ -5504,7 +5504,7 @@ but I nailed him to a tree."
 
 «Pensa davvero,» chiese il dottor Butterworth, aggrottando la fronte, «che in questa faccenda vi fosse veramente qualcosa in quell'immaginario teologico? Suppone che _lui_ lo mettesse nella forma per cui poteva far venire la pioggia e il tuono perché era Dio Onnipotente? Certo, ci sono casi di mania religiosa piuttosto simili a questo.»
 
-«Deve ricordare,» disse Gale, «che era uno studente di teologia e stava per diventare ecclesiastico; e può darsi che abbia rimuginato sul [[concepts/doubt|dubbio]] e sull'ispirazione e sulla profezia finché non hanno cominciato a operare nel verso sbagliato. Il peggio è sempre vicinissimo al meglio; c'è qualcosa di molto peggiore dell'ateismo, ed è il Satanismo; altrimenti detto Essere Dio. Ma come pura questione di filosofia, a prescindere dalla teologia, la cosa è molto più vicina al nervo di ogni pensiero di quanto lei possa credere. Ecco perché era così insinuante e così difficile da vedere o da fermare. È questo che intendo quando dico che provavo una simpatia per il giovane folle. In fondo, era un errore molto naturale.»
+«Deve ricordare,» disse Gale, «che era uno studente di teologia e stava per diventare ecclesiastico; e può darsi che abbia rimuginato sul [[concepts/doubt|dubbio]] e sull'ispirazione e sulla profezia finché non hanno cominciato a operare nel verso sbagliato. Il peggio è sempre vicinissimo al meglio; c'è qualcosa di molto peggiore dell'ateismo, ed è il Satanismo; altrimenti detto Essere Dio. Ma come pura questione di [[philosophy|filosofia]], a prescindere dalla teologia, la cosa è molto più vicina al nervo di ogni pensiero di quanto lei possa credere. Ecco perché era così insinuante e così difficile da vedere o da fermare. È questo che intendo quando dico che provavo una simpatia per il giovane folle. In fondo, era un errore molto naturale.»
 
 «Mio caro Gale,» protestò l'amico Garth. «Ti stai affezionando un po' troppo al [[concepts/paradox|paradosso]]. Un giovane girino di un curato crede di poter governare i cieli e sradicare gli alberi e chiamare a sé il tuono, e tu lo chiami un errore naturale.»
 
@@ -5522,7 +5522,7 @@ but I nailed him to a tree."
 
 «Uso la parola idealista nel suo senso filosofico. Intendo il vero scettico che dubita della materia e delle menti altrui e di tutto tranne che del proprio io. Ci sono passato io stesso; come sono passato per quasi ogni forma di infernale idiozia. È l'unica utilità che ho al mondo; essere stato ogni sorta di idiota. Ma credimi, la sorta di idiota peggiore e più miserabile è colui che sembra creare e contenere tutte le cose. L'uomo è una creatura; tutta la sua felicità consiste nell'essere una creatura; o, come la Gran Voce ci comandò, nel diventare un [[archetypes/child|bambino]]. Tutto il suo diletto sta nell'avere un dono o un regalo; che il [[archetypes/child|bambino]], con profonda comprensione, apprezza perché è 'una sorpresa'. Ma la sorpresa implica che una cosa venga da fuori di noi; e la gratitudine che venga da qualcuno diverso da noi. È infilata nella cassetta delle lettere; è gettata dentro dalla [[motifs/window|finestra]]; è scagliata oltre il muro. Quei limiti sono le linee del disegno stesso del piacere umano.
 
-«Ho anche sognato di aver sognato l'intera creazione. Mi ero dato le [[motifs/stars|stelle]] in dono; mi ero consegnato il sole e la [[motifs/moon|luna]]. Ero stato dietro e al principio di tutte le cose; e senza di me nulla è stato fatto di ciò che è stato fatto. Chiunque sia stato in quel centro del cosmo sa che è essere all'inferno. E c'è un solo rimedio. Oh, so che la gente ha scritto ogni sorta di ipocrisia e falsa consolazione sulla causa del male; e sul perché ci sia [[motifs/pain|dolore]] al mondo. Dio ci scampi dall'aggiungerci a una simile ciarliera gabbia di scimmie di moralisti. Ma nonostante tutto, questa [[concepts/truth|verità]] è vera; oggettivamente e sperimentalmente vera. Non c'è cura per quell'incubo di onnipotenza se non il [[motifs/pain|dolore]]; perché è la cosa che un uomo _sa_ che non tollererebbe se potesse davvero controllarla. Un uomo deve trovarsi in qualche luogo da cui certamente fuggirebbe se potesse, se davvero deve rendersi conto che non tutte le cose provengono dall'interno. Questo è il significato di quella folle [[forms/parable|parabola]] o mistero che avete visto recitare qui come un'[[forms/allegory|allegoria]]. [[concepts/doubt|Dubito]] che alcuna delle nostre azioni sia davvero qualcosa di diverso da un'[[forms/allegory|allegoria]]. [[concepts/doubt|Dubito]] che si possa dire alcuna [[concepts/truth|verità]] se non in una [[forms/parable|parabola]]. C'era un uomo che vedeva sé stesso seduto nel cielo; e i suoi servi, gli angeli, andavano avanti e indietro in vesti colorate di nuvola e fiamma e nel corteo delle [[motifs/seasons|stagioni]]; ma egli era al di sopra di tutto e il suo volto pareva riempire i cieli. E, Dio mi perdoni la bestemmia, ma io l'ho inchiodato a un albero.»
+«Ho anche sognato di aver sognato l'intera creazione. Mi ero dato le [[motifs/stars|stelle]] in dono; mi ero consegnato il sole e la [[motifs/moon|luna]]. Ero stato dietro e al principio di tutte le cose; e senza di me nulla è stato fatto di ciò che è stato fatto. Chiunque sia stato in quel centro del cosmo sa che è essere all'inferno. E c'è un solo rimedio. Oh, so che la gente ha scritto ogni sorta di ipocrisia e falsa consolazione sulla causa del male; e sul perché ci sia [[motifs/pain|dolore]] al mondo. Dio ci scampi dall'aggiungerci a una simile ciarliera [[house|gabbia]] di scimmie di moralisti. Ma nonostante tutto, questa [[concepts/truth|verità]] è vera; oggettivamente e sperimentalmente vera. Non c'è cura per quell'[[nightmare|incubo]] di onnipotenza se non il [[motifs/pain|dolore]]; perché è la cosa che un uomo _sa_ che non tollererebbe se potesse davvero controllarla. Un uomo deve trovarsi in qualche luogo da cui certamente fuggirebbe se potesse, se davvero deve rendersi conto che non tutte le cose provengono dall'interno. Questo è il significato di quella folle [[forms/parable|parabola]] o mistero che avete visto recitare qui come un'[[forms/allegory|allegoria]]. [[concepts/doubt|Dubito]] che alcuna delle nostre azioni sia davvero qualcosa di diverso da un'[[forms/allegory|allegoria]]. [[concepts/doubt|Dubito]] che si possa dire alcuna [[concepts/truth|verità]] se non in una [[forms/parable|parabola]]. C'era un uomo che vedeva sé stesso seduto nel cielo; e i suoi servi, gli angeli, andavano avanti e indietro in vesti colorate di nuvola e fiamma e nel corteo delle [[motifs/seasons|stagioni]]; ma egli era al di sopra di tutto e il suo volto pareva riempire i cieli. E, Dio mi perdoni la bestemmia, ma io l'ho inchiodato a un albero.»
 
 
 
@@ -5534,7 +5534,7 @@ and his face was pale in the sunlight.  For he spoke indeed in parables;
 and the things of which he was thinking were far away from that [[motifs/garden|garden]]
 or even from that tale.  There swelled up darkly and mountainously
 in his [[motifs/memory|memory]] the slopes of another [[motifs/garden|garden]] against another [[motifs/storm|storm]].
-The skeleton arch of a ruined abbey stood gaunt against the ghastly light,
+The [[skeleton]] arch of a ruined abbey stood gaunt against the ghastly light,
 and beyond the racing [[motifs/river|river]] was the low and desolate inn among
 the reeds; and all that grey landscape was to him one purple patch
 of Paradise... and of [[topoi/paradise-lost|Paradise Lost]].
@@ -5594,7 +5594,7 @@ to give pleasure to a thoughtful mind?  I should imagine
 that a madhouse would be an excellent place to be sane in.
 I'd a long sight rather live in a nice quiet secluded madhouse
 than in intellectual clubs full of unintellectual people,
-all chattering nonsense about the newest book of philosophy;
+all chattering nonsense about the newest book of [[philosophy]];
 or in some of those earnest, elbowing sort of Movements that want you
 to go in for Service and help to take away somebody else's toys.
 I don't much mind to what place I may wander to think in,
@@ -5659,7 +5659,7 @@ annoyed the worthy freethinker; or perhaps there was something
 in the deeper and more positive tones with which the parson
 dealt with more serious matters, that had the same effect.
 It was with more than his usual breeziness that the reverend
-gentleman on this occasion affirmed the philosophy of his life.
+gentleman on this occasion affirmed the [[philosophy]] of his life.
 "God wants you to play the game," he said.  "That's all that God wants;
 people who will play the game."
 
@@ -5691,7 +5691,7 @@ V
 
 <span class="qlang-split" data-lang="it"></span>
 
-Si era alzato in piedi in un'agitazione repressa e assai insolita; e il suo volto era pallido nella luce del sole. Poiché parlava davvero per parabole; e le cose a cui pensava erano lontane da quel [[motifs/garden|giardino]] o perfino da quel racconto. Si gonfiavano oscuri e montuosi nella sua [[motifs/memory|memoria]] i pendii di un altro [[motifs/garden|giardino]] contro un'altra [[motifs/storm|tempesta]]. L'arco a scheletro di un'abbazia in rovina si ergeva scarno contro la luce spettrale, e oltre il [[motifs/river|fiume]] impetuoso c'era la locanda bassa e desolata tra i canneti; e tutto quel grigio paesaggio era per lui un'unica macchia purpurea di Paradiso... e di [[topoi/paradise-lost|Paradiso Perduto]].
+Si era alzato in piedi in un'agitazione repressa e assai insolita; e il suo volto era pallido nella luce del sole. Poiché parlava davvero per parabole; e le cose a cui pensava erano lontane da quel [[motifs/garden|giardino]] o perfino da quel racconto. Si gonfiavano oscuri e montuosi nella sua [[motifs/memory|memoria]] i pendii di un altro [[motifs/garden|giardino]] contro un'altra [[motifs/storm|tempesta]]. L'arco a [[skeleton|scheletro]] di un'abbazia in rovina si ergeva scarno contro la luce spettrale, e oltre il [[motifs/river|fiume]] impetuoso c'era la locanda bassa e desolata tra i canneti; e tutto quel grigio paesaggio era per lui un'unica macchia purpurea di Paradiso... e di [[topoi/paradise-lost|Paradiso Perduto]].
 
 «È l'unica via,» ripeteva; «è l'unica risposta all'eresia del mistico; che è quella di immaginare che la mente sia tutto. È spezzarsi il cuore. Grazie a Dio per le pietre dure; grazie a Dio per i fatti duri; grazie a Dio per le spine e le rocce e i deserti e i lunghi anni. Almeno ora so di non essere la cosa migliore o più forte del mondo. Almeno ora so di non aver sognato ogni cosa.»
 
@@ -5713,13 +5713,13 @@ Gabriel Gale gettò un'occhiata brusca sopra la spalla e il tono della sua voce 
 
 «Non capisco,» disse Butterworth. «Intendi il pericolo di essere dichiarato pazzo?»
 
-«Dichiaratemi pazzo fin che vi pare,» disse Gale con disprezzo. «Credete che me ne importerebbe granché se lo faceste? Credete che non potrei essere ragionevolmente felice in un manicomio, finché ci fosse [[motifs/dust|polvere]] in un raggio di sole o ombre su un muro... finché potessi guardare le cose ordinarie e pensare quanto siano straordinarie? Credete che non potrei lodare Dio con tollerabile pietà per la forma del naso del mio guardiano o per qualunque altra cosa atta a dar piacere a una mente pensosa? Immaginerei che un manicomio sarebbe un luogo eccellente in cui essere sani di mente. Preferirei di gran lunga vivere in un bel manicomio tranquillo e appartato che in circoli intellettuali pieni di gente non intellettuale, tutti a cianciare sciocchezze sull'ultimo libro di filosofia; o in qualcuno di quei Movimenti solerti e gomitanti che vogliono che tu ti dia al Servizio e aiuti a portar via i giocattoli di qualcun altro. Non m'importa molto in quale luogo io possa vagare a pensare, prima di morire; purché i pensieri non vaghino troppo; o non vaghino per la [[motifs/road|strada]] sbagliata. E ciò che hai appena detto tocca davvero il pericolo reale. Tocca il pericolo a cui Garth stava davvero pensando, quando ha suggerito che io avessi recuperato dei folli e che io stesso potessi diventare un naufrago. Se la gente mi dice che davvero non capisce cosa intendo... se dicono di non riuscire a vedere una [[concepts/truth|verità]] tanto semplice come che è meglio per un uomo essere un uomo, che è pericoloso attribuirsi onori divini... se dicono di non vedere _questo_ da sé, ma lo immaginano come una sorta di misticismo uscito dalla mia testa, _allora_ sono io stesso di nuovo in pericolo. Sono in pericolo di pensare qualcosa che potrebbe essere più folle e peggiore del pensare di essere Dio Onnipotente.»
+«Dichiaratemi pazzo fin che vi pare,» disse Gale con disprezzo. «Credete che me ne importerebbe granché se lo faceste? Credete che non potrei essere ragionevolmente felice in un manicomio, finché ci fosse [[motifs/dust|polvere]] in un raggio di sole o ombre su un muro... finché potessi guardare le cose ordinarie e pensare quanto siano straordinarie? Credete che non potrei lodare Dio con tollerabile pietà per la forma del naso del mio guardiano o per qualunque altra cosa atta a dar piacere a una mente pensosa? Immaginerei che un manicomio sarebbe un luogo eccellente in cui essere sani di mente. Preferirei di gran lunga vivere in un bel manicomio tranquillo e appartato che in circoli intellettuali pieni di gente non intellettuale, tutti a cianciare sciocchezze sull'ultimo libro di [[philosophy|filosofia]]; o in qualcuno di quei Movimenti solerti e gomitanti che vogliono che tu ti dia al Servizio e aiuti a portar via i giocattoli di qualcun altro. Non m'importa molto in quale luogo io possa vagare a pensare, prima di morire; purché i pensieri non vaghino troppo; o non vaghino per la [[motifs/road|strada]] sbagliata. E ciò che hai appena detto tocca davvero il pericolo reale. Tocca il pericolo a cui Garth stava davvero pensando, quando ha suggerito che io avessi recuperato dei folli e che io stesso potessi diventare un naufrago. Se la gente mi dice che davvero non capisce cosa intendo... se dicono di non riuscire a vedere una [[concepts/truth|verità]] tanto semplice come che è meglio per un uomo essere un uomo, che è pericoloso attribuirsi onori divini... se dicono di non vedere _questo_ da sé, ma lo immaginano come una sorta di misticismo uscito dalla mia testa, _allora_ sono io stesso di nuovo in pericolo. Sono in pericolo di pensare qualcosa che potrebbe essere più folle e peggiore del pensare di essere Dio Onnipotente.»
 
 «E ancora non capisco,» disse il medico sorridente.
 
 «Penserò di essere l'unico uomo sano di mente,» disse Gabriel Gale.
 
-Vi fu una sorta di seguito che giunse alle orecchie di Garth molto tempo dopo; un epilogo alla folle [[forms/comedy|commedia]] del forcone e del melo. Garth differiva da Gale per avere una più evidente inclinazione al razionale, o almeno al razionalistico; e spesso si ritrovava a discutere con gli scettici di vari circoli e gruppi scientifici; trovandoli una razza assai degna, spesso genuinamente dalla testa dura e talvolta piuttosto propensa a essere di legno. In una certa località di campagna, il cui nome non è rilevante, il posto di ateo del villaggio era rimasto vacante, per così dire, per la deplorevole perversità del calzolaio nell'essere un Congregazionalista. Le sue funzioni ufficiali erano svolte da una persona più prospera di nome Pond, un degno cappellaio che era piuttosto più famoso come giocatore di cricket. Sul campo di cricket veniva spesso opposto a un altro eccellente giocatore, che era il Vicario della parrocchia; anzi, si contendevano più di frequente sul campo del cricket che sul campo della speculazione spirituale. Poiché il chierico era del tipo che è clamorosamente popolare e di successo soprattutto per la sua abilità in tali sport. Era il genere di parroco che la gente elogia dicendo che non somiglia affatto a un parroco. Era un uomo grande, robusto, gioviale, dal volto rosso e dai modi risoluti; ancora giovane ma padre di una chiassosa famiglia di ragazzi, e in gran parte molto simile lui stesso a un ragazzo. Ciononostante, com'era naturale, certi passaggi di canzonatura, che difficilmente si potevano dire controversia, passavano di tanto in tanto tra il parroco e l'ateo del villaggio. Non c'era bisogno di compatire il chierico per le punture di spillo del materialista scientifico; poiché uno spillo non ha effetto su un pachiderma. Il parroco era il tipo d'uomo che sembra avvolto in strati dentro strati di solida sostanza che resiste a qualunque cosa esterna al suo allegro e assennato modo di vivere. Ma un curioso episodio si era attaccato alla [[motifs/memory|memoria]] di Pond, ed egli lo raccontò a Garth, in qualcosa del tono perplesso con cui un materialista narra una storia di [[archetypes/ghost|fantasmi]]. I rivali giocatori di cricket si erano punzecchiati a vicenda alla solita maniera amichevole, che non andava molto sotto la superficie. Il Vicario era senza dubbio un cristiano sincero, benché soprattutto quel che si soleva chiamare un cristiano muscolare. Ma non gli si fa torto a dire che era più profondamente commosso nel dire che una certa azione non era Cricket che nel dire che non era [[historical-references/christianity|Cristianesimo]]. In questa e in altre occasioni, tuttavia, egli si affidava soprattutto a stuzzicare il suo avversario con scherzi piuttosto ovvi; come la ripetuta domanda su quante volte ci si potesse aspettare che il cappellaio facesse l'hat-trick. Forse la ripetizione di questo [[forms/epigram|epigramma]] alla fine infastidì il degno libero pensatore; o forse c'era qualcosa nei toni più profondi e più positivi con cui il parroco trattava le questioni più serie, che ebbe lo stesso effetto. Fu con più della sua abituale gioviale spavalderia che il reverendo gentiluomo in quell'occasione affermò la filosofia della sua vita. «Dio vuole che tu stia al gioco,» disse. «È tutto ciò che Dio vuole; gente che stia al gioco.»
+Vi fu una sorta di seguito che giunse alle orecchie di Garth molto tempo dopo; un epilogo alla folle [[forms/comedy|commedia]] del forcone e del melo. Garth differiva da Gale per avere una più evidente inclinazione al razionale, o almeno al razionalistico; e spesso si ritrovava a discutere con gli scettici di vari circoli e gruppi scientifici; trovandoli una razza assai degna, spesso genuinamente dalla testa dura e talvolta piuttosto propensa a essere di legno. In una certa località di campagna, il cui nome non è rilevante, il posto di ateo del villaggio era rimasto vacante, per così dire, per la deplorevole perversità del calzolaio nell'essere un Congregazionalista. Le sue funzioni ufficiali erano svolte da una persona più prospera di nome Pond, un degno cappellaio che era piuttosto più famoso come giocatore di cricket. Sul campo di cricket veniva spesso opposto a un altro eccellente giocatore, che era il Vicario della parrocchia; anzi, si contendevano più di frequente sul campo del cricket che sul campo della speculazione spirituale. Poiché il chierico era del tipo che è clamorosamente popolare e di successo soprattutto per la sua abilità in tali sport. Era il genere di parroco che la gente elogia dicendo che non somiglia affatto a un parroco. Era un uomo grande, robusto, gioviale, dal volto rosso e dai modi risoluti; ancora giovane ma padre di una chiassosa famiglia di ragazzi, e in gran parte molto simile lui stesso a un ragazzo. Ciononostante, com'era naturale, certi passaggi di canzonatura, che difficilmente si potevano dire controversia, passavano di tanto in tanto tra il parroco e l'ateo del villaggio. Non c'era bisogno di compatire il chierico per le punture di spillo del materialista scientifico; poiché uno spillo non ha effetto su un pachiderma. Il parroco era il tipo d'uomo che sembra avvolto in strati dentro strati di solida sostanza che resiste a qualunque cosa esterna al suo allegro e assennato modo di vivere. Ma un curioso episodio si era attaccato alla [[motifs/memory|memoria]] di Pond, ed egli lo raccontò a Garth, in qualcosa del tono perplesso con cui un materialista narra una storia di [[archetypes/ghost|fantasmi]]. I rivali giocatori di cricket si erano punzecchiati a vicenda alla solita maniera amichevole, che non andava molto sotto la superficie. Il Vicario era senza dubbio un cristiano sincero, benché soprattutto quel che si soleva chiamare un cristiano muscolare. Ma non gli si fa torto a dire che era più profondamente commosso nel dire che una certa azione non era Cricket che nel dire che non era [[historical-references/christianity|Cristianesimo]]. In questa e in altre occasioni, tuttavia, egli si affidava soprattutto a stuzzicare il suo avversario con scherzi piuttosto ovvi; come la ripetuta domanda su quante volte ci si potesse aspettare che il cappellaio facesse l'hat-trick. Forse la ripetizione di questo [[forms/epigram|epigramma]] alla fine infastidì il degno libero pensatore; o forse c'era qualcosa nei toni più profondi e più positivi con cui il parroco trattava le questioni più serie, che ebbe lo stesso effetto. Fu con più della sua abituale gioviale spavalderia che il reverendo gentiluomo in quell'occasione affermò la [[philosophy|filosofia]] della sua vita. «Dio vuole che tu stia al gioco,» disse. «È tutto ciò che Dio vuole; gente che stia al gioco.»
 
 «E lei come lo sa?» chiese il signor Pond piuttosto stizzosamente e con insolita irritazione. «Come fa a sapere cosa vuole Dio? Non è mai stato Dio, vero?»
 
@@ -5789,8 +5789,8 @@ He generally did as he liked in an abstracted fashion;
 and what he very often liked to do was nothing.  On this occasion
 he showed a lamentable disposition to drift towards the café first;
 and having drunk a glass or two of wine, he drifted not into the town
-but out of it, roaming about the steep bare slope above, with a rolling
-eye on the rolling clouds; and talking to himself until he found
+but out of it, roaming about the steep bare slope above, with a [[rolling]]
+eye on the [[rolling]] clouds; and talking to himself until he found
 somebody else to talk to, which happened when he put his foot through
 the glass roof of a studio just below him on the steep incline.
 As it was an [[archetypes/artist|artist]]'s studio, however, their quarrel fortunately
@@ -5808,7 +5808,7 @@ monastery and café, was only the temple of the presiding genius
 of Boyg.  But in this case the practical instinct of Dr. Garth
 would seem to have guided him rightly; for he discovered things
 considerably more startling than anything the antiquarian found
-in the Romanesque arches or the poet in the rolling clouds.
+in the Romanesque arches or the poet in the [[rolling]] clouds.
 And it is his adventures, in that single hour before lunch,
 upon which this tale must turn.
 
@@ -5849,9 +5849,9 @@ TRE giovani in gita a piedi si fermarono appena fuori della cittadina di Carillo
 
 I tre turisti avevano appena convenuto di separarsi per un'ora, e di ritrovarsi per il pranzo al piccolo caffè di fronte; e i diversi modi in cui occupavano il loro [[motifs/time|tempo]] e assecondavano i loro gusti serviranno da sufficiente sommario di lavoro delle loro personalità. [[characters/arthur|Arthur]] Armitage era un giovane bruno e [[motifs/grave|serio]], con un gran mucchio di denaro, che spendeva in un coscienzioso e continuo corso di [[concepts/self|auto]]-coltura, specialmente in materia d'arte e architettura; e il suo grave profilo aquilino era già rivolto verso il monastero bizantino, per l'esauriente esame del quale si era già preparato, come se andasse a sostenere un esame anziché a farne uno. L'uomo accanto a lui, benché egli stesso [[archetypes/artist|artista]], non tradiva alcun simile ardore artistico. Era un pittore che sprecava gran parte del suo [[motifs/time|tempo]] come poeta; ma Armitage, che raccoglieva sempre geni, era in un certo senso divenuto suo patrono in entrambi i campi. Il suo nome era Gabriel Gale; un uomo lungo, sciolto, piuttosto svogliato, dai capelli gialli; ma un uomo non facile da patrocinare per alcun patrono.
 
-Egli generalmente faceva ciò che gli piaceva in maniera distratta; e ciò che assai spesso gli piaceva fare era nulla. In questa occasione mostrò una lamentevole disposizione a derivare dapprima verso il caffè; e avendo bevuto un bicchiere o due di vino, derivò non dentro la città ma fuori di essa, vagando per il ripido pendio spoglio là sopra, con l'occhio roteante sulle nubi ruotanti; e parlando fra sé finché non trovò qualcun altro con cui parlare, il che accadde quando mise il piede attraverso il tetto di vetro di uno studio giusto sotto di lui sul ripido declivio. Trattandosi però dello studio di un [[archetypes/artist|artista]], la loro lite fortunatamente terminò in una discussione sul futuro dell'arte realistica; e quando comparve al pranzo, quella era l'estensione della sua conoscenza della bizzarra e storica cittadina di Carillon.
+Egli generalmente faceva ciò che gli piaceva in maniera distratta; e ciò che assai spesso gli piaceva fare era nulla. In questa occasione mostrò una lamentevole disposizione a derivare dapprima verso il caffè; e avendo bevuto un bicchiere o due di vino, derivò non dentro la città ma fuori di essa, vagando per il ripido pendio spoglio là sopra, con l'occhio [[rolling|roteante]] sulle nubi [[rolling|ruotanti]]; e parlando fra sé finché non trovò qualcun altro con cui parlare, il che accadde quando mise il piede attraverso il tetto di vetro di uno studio giusto sotto di lui sul ripido declivio. Trattandosi però dello studio di un [[archetypes/artist|artista]], la loro lite fortunatamente terminò in una discussione sul futuro dell'arte realistica; e quando comparve al pranzo, quella era l'estensione della sua conoscenza della bizzarra e storica cittadina di Carillon.
 
-Il nome del terzo uomo era Garth; era più basso e più brutto e alquanto più anziano degli altri, ma con un occhio assai più vivace nel suo volto affilato; camminava molto più svelto, e in fatto di conoscenza del mondo, gli altri due erano bambini a lui affidati. Era un medico assai capace, con l'hobby di un'indagine scientifica più fondamentale; e per lui l'intera città, università e studio, monastero e caffè, non era che il tempio del genio tutelare di Boyg. Ma in questo caso l'istinto pratico del dottor Garth pare averlo guidato rettamente; poiché egli scoprì cose considerevolmente più sconcertanti di qualunque cosa l'antiquario trovasse negli archi romanici o il poeta nelle nubi ruotanti. E sono le sue avventure, in quell'unica ora prima del pranzo, quelle attorno a cui questo racconto deve ruotare.
+Il nome del terzo uomo era Garth; era più basso e più brutto e alquanto più anziano degli altri, ma con un occhio assai più vivace nel suo volto affilato; camminava molto più svelto, e in fatto di conoscenza del mondo, gli altri due erano bambini a lui affidati. Era un medico assai capace, con l'hobby di un'indagine scientifica più fondamentale; e per lui l'intera città, università e studio, monastero e caffè, non era che il tempio del genio tutelare di Boyg. Ma in questo caso l'istinto pratico del dottor Garth pare averlo guidato rettamente; poiché egli scoprì cose considerevolmente più sconcertanti di qualunque cosa l'antiquario trovasse negli archi romanici o il poeta nelle nubi [[rolling|ruotanti]]. E sono le sue avventure, in quell'unica ora prima del pranzo, quelle attorno a cui questo racconto deve ruotare.
 
 I tavoli del caffè stavano sul selciato sotto una fila di alberi di fronte all'antica porta rotonda nelle mura, attraverso la quale si scorgeva il bianco bagliore della [[motifs/road|strada]] su cui avevano appena camminato. Ma le ripide colline erano così alte intorno alla città che si [[motifs/rose|levavano]] nette sopra le mura, in un più enorme muro di roccia liscia e obliqua, spoglia salvo per occasionali ciuffi di cactus. Non c'era crepa in quella inclinata distesa di pietra tranne il letto piuttosto basso e sassoso di un piccolo ruscello. Più in basso, dove il ruscello raggiungeva il livello della valle, si [[motifs/rose|levavano]] le scure cupole della basilica del vecchio monastero; e da questa una curiosa scalinata di pietre grezze saliva per un tratto su per la [[motifs/hill|collina]] lungo il corso d'acqua, e si arrestava a un piccolo e solitario edificio che pareva poco più di una capanna fatta di pietre. Un po' più in alto il bagliore del tetto di vetro dello studio, con cui Gale si era scontrato nei suoi inconsci vagabondaggi, segnava l'ultimo punto di abitazione umana in tutte quelle rocciose lande che si [[motifs/rose|levavano]] intorno alla cittadina.
 
@@ -5952,7 +5952,7 @@ are just great rocks chucked at the public and..."
 with pardonable impatience.  "Will nothing make you understand that
 something has really happened that isn't any of your ideas and isms?
 It wasn't only the geological museum; it was the same everywhere.
-I passed by the house Boyg first lived in, where they very properly
+I passed by the [[house]] Boyg first lived in, where they very properly
 put up a medallion; and the medallion was all splashed with mud.
 I crossed the market-place, where they put up a statue to him
 just recently.  It was still hung with wreaths of laurel by his pupils
@@ -6028,7 +6028,7 @@ Armitage si interpose alla maniera benevola di un presidente. «Dobbiamo davvero
 
 «Donazioni al museo geologico, senza [[concepts/doubt|dubbio]],» osservò Gale. «Un munifico mecenate capita di passare, e getta dentro un prezioso reperto attraverso la [[motifs/window|finestra]]. Non vedo perché ciò non dovrebbe farsi in quello che tu chiami il mondo della scienza; sono certo che si fa senza problemi nel mondo dell'arte. I busti e i bassorilievi del vecchio Paradou sono soltanto grandi rocce scagliate contro il pubblico e...»
 
-«Paradou può andare a... diciamo, in Paradiso?» disse Garth, con perdonabile impazienza. «Nulla ti farà capire che è davvero accaduto qualcosa che non è una delle tue idee e dei tuoi ismi? Non era solo il museo geologico; era lo stesso dappertutto. Passai davanti alla casa in cui Boyg visse dapprima, dove assai giustamente hanno posto un medaglione; e il medaglione era tutto schizzato di fango. Attraversai la piazza del mercato, dove gli hanno eretto una statua proprio di recente. Era ancora addobbata di ghirlande d'alloro dai suoi allievi e dal partito che lo apprezza; ma erano mezze strappate via, come se ci fosse stata una lotta, ed erano state evidentemente lanciate delle pietre, poiché un pezzo della mano era scheggiato.»
+«Paradou può andare a... diciamo, in Paradiso?» disse Garth, con perdonabile impazienza. «Nulla ti farà capire che è davvero accaduto qualcosa che non è una delle tue idee e dei tuoi ismi? Non era solo il museo geologico; era lo stesso dappertutto. Passai davanti alla [[house|casa]] in cui Boyg visse dapprima, dove assai giustamente hanno posto un medaglione; e il medaglione era tutto schizzato di fango. Attraversai la piazza del mercato, dove gli hanno eretto una statua proprio di recente. Era ancora addobbata di ghirlande d'alloro dai suoi allievi e dal partito che lo apprezza; ma erano mezze strappate via, come se ci fosse stata una lotta, ed erano state evidentemente lanciate delle pietre, poiché un pezzo della mano era scheggiato.»
 
 «La statua di Paradou, senza [[concepts/doubt|dubbio]],» osservò Gale. «Non c'è da [[concepts/wonder|stupirsi]] che le lanciassero addosso delle cose.»
 
@@ -6044,8 +6044,8 @@ Armitage si interpose alla maniera benevola di un presidente. «Dobbiamo davvero
 "One is tempted to wish he were martyred already; but the [[concepts/martyrdom|martyrdom]],
 if any, was not his," said Garth darkly.  "Allow me to continue my story
 in order.  I had crossed the market-place to find Professor Boyg's
-private house, which stood at the corner of it.  I found the shutters
-up and the house apparently empty, except for one old servant,
+private [[house]], which stood at the corner of it.  I found the shutters
+up and the [[house]] apparently empty, except for one old servant,
 who refused at first to tell me anything; indeed, I found a good deal
 of rustic reluctance on both sides to tell a foreigner anything.
 But when I had managed to make the [[concepts/nature|nature]] of my introduction quite
@@ -6089,7 +6089,7 @@ of the name of Bertrand, and a very able man, too, eminently worthy
 of the great man's confidence, and intensely devoted to his cause.
 He is carrying on Boyg's work so far as it can be carried on; and about
 Boyg's [[motifs/death|death]] or disappearance he knows the little that can be known.
-It was when I finally ran him to earth in a little house full of
+It was when I finally ran him to earth in a little [[house]] full of
 Boyg's books and instruments, at the [[characters/bottom|bottom]] of the [[motifs/hill|hill]] just beyond
 the town, that I first began to realize the [[concepts/nature|nature]] of this sinister
 and mysterious business.  Bertrand is a quiet man, though he has
@@ -6165,7 +6165,7 @@ They were but part of a sentence, but they included the words,
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Si è tentati di augurarsi che fosse già martire; ma il [[concepts/martyrdom|martirio]], se ce n'è stato, non fu il suo,» disse Garth cupamente. «Permettetemi di continuare la mia storia in ordine. Avevo attraversato la piazza del mercato per trovare la casa privata del professor Boyg, che sorgeva all'angolo di essa. Trovai le imposte chiuse e la casa apparentemente vuota, tranne per un vecchio servitore, che dapprima rifiutò di dirmi alcunché; anzi, trovai una buona dose di rustica riluttanza da entrambe le parti a dire qualsiasi cosa a uno straniero. Ma quando riuscii a rendergli ben chiara la [[concepts/nature|natura]] della mia presentazione, alla fine cedette; e mi disse che il suo padrone era morto.»
+«Si è tentati di augurarsi che fosse già martire; ma il [[concepts/martyrdom|martirio]], se ce n'è stato, non fu il suo,» disse Garth cupamente. «Permettetemi di continuare la mia storia in ordine. Avevo attraversato la piazza del mercato per trovare la [[house|casa]] privata del professor Boyg, che sorgeva all'angolo di essa. Trovai le imposte chiuse e la [[house|casa]] apparentemente vuota, tranne per un vecchio servitore, che dapprima rifiutò di dirmi alcunché; anzi, trovai una buona dose di rustica riluttanza da entrambe le parti a dire qualsiasi cosa a uno straniero. Ma quando riuscii a rendergli ben chiara la [[concepts/nature|natura]] della mia presentazione, alla fine cedette; e mi disse che il suo padrone era morto.»
 
 Vi fu una pausa, e poi Gale, che per la prima [[motifs/time|volta]] pareva alquanto colpito, chiese distrattamente:
 
@@ -6185,7 +6185,7 @@ Vi fu un istante di [[motifs/silence|silenzio]], e poi il dottore parlò con voc
 
 Armitage chiuse il taccuino, ma continuò a guardare fisso in basso verso il tavolo. «Prosegui la tua storia,» disse.
 
-«Il vecchio servitore di Boyg,» riprese il dottore, «che è uno strano, silenzioso, vecchio tipo dal volto giallo, fu alla fine indotto a rivelarmi l'esistenza dell'assistente di Boyg, del quale credo fosse piuttosto geloso. L'aiutante scientifico e braccio destro del Professore è un uomo di nome Bertrand, e anch'egli uomo assai capace, eminentemente degno della fiducia del grand'uomo, e intensamente devoto alla sua causa. Egli porta avanti l'opera di Boyg per quanto la si possa portare avanti; e sulla [[motifs/death|morte]] o scomparsa di Boyg sa il poco che si può sapere. Fu quando finalmente lo scovai in una piccola casa piena di libri e strumenti di Boyg, [[characters/bottom|in fondo]] alla [[motifs/hill|collina]] appena oltre la città, che cominciai per la prima volta a comprendere la [[concepts/nature|natura]] di questa sinistra e misteriosa faccenda. Bertrand è un uomo quieto, benché abbia un po' della perdonabile [[concepts/vanity|vanità]] non insolita negli assistenti. Talvolta si sarebbe portati a immaginare che la grande scoperta fosse quasi tanto sua quanto del suo maestro; ma ciò non fa danno, poiché non fa che indurlo a battersi per la fama del maestro quasi come se fosse la propria. Ma in realtà egli non si preoccupa soltanto della scoperta; o piuttosto, non si preoccupa soltanto di quella scoperta. Non avevo guardato a lungo gli occhi scuri e vivaci e il viso acuto di quel giovane quieto prima di rendermi conto che c'era qualcos'altro che egli cerca di scoprire. In effetti, non è più semplicemente un assistente scientifico, e neppure uno studioso di scienze. A meno che io non m'inganni di molto, egli recita la parte del [[archetypes/detective|investigatore]] dilettante.»
+«Il vecchio servitore di Boyg,» riprese il dottore, «che è uno strano, silenzioso, vecchio tipo dal volto giallo, fu alla fine indotto a rivelarmi l'esistenza dell'assistente di Boyg, del quale credo fosse piuttosto geloso. L'aiutante scientifico e braccio destro [[The Professor|del Professore]] è un uomo di nome Bertrand, e anch'egli uomo assai capace, eminentemente degno della fiducia del grand'uomo, e intensamente devoto alla sua causa. Egli porta avanti l'opera di Boyg per quanto la si possa portare avanti; e sulla [[motifs/death|morte]] o scomparsa di Boyg sa il poco che si può sapere. Fu quando finalmente lo scovai in una piccola [[house|casa]] piena di libri e strumenti di Boyg, [[characters/bottom|in fondo]] alla [[motifs/hill|collina]] appena oltre la città, che cominciai per la prima volta a comprendere la [[concepts/nature|natura]] di questa sinistra e misteriosa faccenda. Bertrand è un uomo quieto, benché abbia un po' della perdonabile [[concepts/vanity|vanità]] non insolita negli assistenti. Talvolta si sarebbe portati a immaginare che la grande scoperta fosse quasi tanto sua quanto del suo maestro; ma ciò non fa danno, poiché non fa che indurlo a battersi per la fama del maestro quasi come se fosse la propria. Ma in realtà egli non si preoccupa soltanto della scoperta; o piuttosto, non si preoccupa soltanto di quella scoperta. Non avevo guardato a lungo gli occhi scuri e vivaci e il viso acuto di quel giovane quieto prima di rendermi conto che c'era qualcos'altro che egli cerca di scoprire. In effetti, non è più semplicemente un assistente scientifico, e neppure uno studioso di scienze. A meno che io non m'inganni di molto, egli recita la parte del [[archetypes/detective|investigatore]] dilettante.»
 
 «La vostra formazione artistica, amici miei, può essere una cosa eccellente per scoprire un poeta, o persino uno scultore; ma mi perdonerete se penso che una formazione scientifica sia piuttosto migliore per scoprire un assassino. Bertrand si è messo al lavoro in maniera assai professionale, ritengo, e posso dirvi per sommi capi ciò che ha scoperto finora. Boyg fu visto l'ultima volta da Bertrand mentre scendeva il fianco della collina lungo il corso d'acqua, essendosi appena allontanato dallo studio dello scultore amico di Gale, dove posava per un'ora ogni mattina. Posso dire qui, più per amore del metodo logico che perché sia richiesto dall'argomentazione logica, che lo scultore in ogni caso non aveva alcuna lite con Boyg, ma era, al contrario, un ardente ammiratore di lui come figura avanzata e rivoluzionaria.»
 
@@ -6301,7 +6301,7 @@ I think; we have no interest except an interest in the [[concepts/truth|truth]].
 a public meeting in the market-place to demand that they do so.
 The assassins will be there, doubtless, and I shall not only
 denounce but convict them to their faces.  Be there yourself,
-monsieur, on Thursday at half-past two, and you will learn how one
+monsieur, on [[thursday|Thursday]] at half-past two, and you will learn how one
 of the world's greatest men was done to [[motifs/death|death]] by his enemies.
 For the moment I will only say one word.  As the great [[characters/edgar|Edgar]] Poe
 said in your own language, '[[concepts/truth|Truth]] is not always in a [[motifs/well|well]].'
@@ -6338,7 +6338,7 @@ Il dottor Garth balzò in piedi, gli occhi brillanti di curiosità; poi, ritrova
 
 «Ci sarà concesso di udirlo?» chiese Armitage con gravità.
 
-«Tutti lo udranno nel [[motifs/time|tempo]] di tre giorni,» rispose il pallido francese. «Poiché le autorità rifiutano di riaprire la questione, teniamo una pubblica assemblea nella piazza del mercato per esigere che lo facciano. Gli assassini saranno là, senza dubbio, e io non soltanto li denuncerò ma li smaschererò in faccia. Siate là voi stesso, monsieur, giovedì alle due e mezza, e apprenderete come uno dei più grandi uomini del mondo fu messo a [[motifs/death|morte]] dai suoi nemici. Per il momento dirò una sola parola. Come disse il grande [[characters/edgar|Edgar]] Poe nella vostra stessa lingua, 'la [[concepts/truth|verità]] non è sempre in un [[motifs/well|pozzo]].' Credo che talvolta sia troppo ovvia per essere vista.»
+«Tutti lo udranno nel [[motifs/time|tempo]] di tre giorni,» rispose il pallido francese. «Poiché le autorità rifiutano di riaprire la questione, teniamo una pubblica assemblea nella piazza del mercato per esigere che lo facciano. Gli assassini saranno là, senza dubbio, e io non soltanto li denuncerò ma li smaschererò in faccia. Siate là voi stesso, monsieur, [[thursday|giovedì]] alle due e mezza, e apprenderete come uno dei più grandi uomini del mondo fu messo a [[motifs/death|morte]] dai suoi nemici. Per il momento dirò una sola parola. Come disse il grande [[characters/edgar|Edgar]] Poe nella vostra stessa lingua, 'la [[concepts/truth|verità]] non è sempre in un [[motifs/well|pozzo]].' Credo che talvolta sia troppo ovvia per essere vista.»
 
 
 
@@ -6371,7 +6371,7 @@ sympathy and the _mot juste._ But the pen dropped from his hand,
 so to speak, or at least wandered over the page in a mazy desperation,
 in the attempt to describe the great mob meeting, or rather
 the meeting of two mobs, which took place in the picturesque
-market-place in which he had wandered alone a few days before,
+market-place in which he had wandered [[Alone|alone]] a few days before,
 criticising the style of the statue, or admiring the sky-line of
 the basilica.  He had read and written about [[concepts/democracy|democracy]] all his life;
 and when first he met it, it swallowed him like an earthquake.
@@ -6400,9 +6400,9 @@ near the pedestal of the statue, and announced almost without words,
 by one dramatic gesture, that he had come to avenge the dead.
 
 Then the words came, and they came thick and fast, telling and terrible;
-but Armitage heard them as in a dream till they reached the point
+but Armitage heard them as in [[A Dream|a dream]] till they reached the point
 for which he was waiting; the point that would awaken any dreamer.
-He heard the prose poems of laudation, the [[forms/hymn|hymn]] to Boyg the [[archetypes/hero|hero]],
+He heard the prose [[Poems|poems]] of laudation, the [[forms/hymn|hymn]] to Boyg the [[archetypes/hero|hero]],
 the tale of his [[forms/tragedy|tragedy]] so far as he knew it already.
 He heard the official decision about the impossibility of
 the clerics concealing the corpse, as he had heard it already.
@@ -6439,7 +6439,7 @@ When the last cheer and howl of a whole hell of such noises had
 died away, Father Bernard succeeded in making his voice heard.
 
 "It is enough to say in answer to this maniac charge that the atheists
-who bring it against us cannot induce their own atheistic Government
+who bring it against us cannot induce their own atheistic [[government|Government]]
 to support them.  But as the charge is against Father Hyacinth
 rather than against me, I will ask him to reply to it."
 
@@ -6472,11 +6472,11 @@ Gale si sollevò lentamente e mollemente dal suo posto, e rispose nel suo modo s
 
 «Ma sì, in un certo senso,» disse; «anzi, sono abbastanza sicuro di poter trovare il [[concepts/body|corpo]]. Anzi, in un certo modo di dire, l'ho trovato.»
 
-Chi abbia una qualche cognizione della personalità del signor [[characters/arthur|Arthur]] Armitage non avrà bisogno che gli si dica che teneva un diario; e si sforzava di annotare le sue impressioni di viaggio all'estero con simpatia atmosferica e il _mot juste_. Ma la penna gli cadde di mano, per così dire, o almeno vagò per la pagina in una disperazione labirintica, nel tentativo di descrivere il grande raduno di folla, o piuttosto l'incontro di due folle, che ebbe luogo nella pittoresca piazza del mercato in cui aveva girovagato solo pochi giorni prima, criticando lo stile della statua, o ammirando il profilo della basilica contro il cielo. Aveva letto e scritto di [[concepts/democracy|democrazia]] per tutta la vita; e quando la incontrò per la prima volta, essa lo inghiottì come un terremoto. Una reale e spaventosa differenza divideva questa folla francese in un mercato di provincia da tutte le folle inglesi che avesse mai visto a Hyde Park o Trafalgar Square. Questi francesi non erano venuti là per sbarazzarsi dei loro sentimenti, ma per sbarazzarsi dei loro nemici. Qualcosa sarebbe stato fatto come risultato di questo genere di pubblica assemblea; poteva essere un assassinio, ma sarebbe stato qualcosa.
+Chi abbia una qualche cognizione della personalità del signor [[characters/arthur|Arthur]] Armitage non avrà bisogno che gli si dica che teneva un diario; e si sforzava di annotare le sue impressioni di viaggio all'estero con simpatia atmosferica e il _mot juste_. Ma la penna gli cadde di mano, per così dire, o almeno vagò per la pagina in una disperazione labirintica, nel tentativo di descrivere il grande raduno di folla, o piuttosto l'incontro di due folle, che ebbe luogo nella pittoresca piazza del mercato in cui aveva girovagato [[Alone|solo]] pochi giorni prima, criticando lo stile della statua, o ammirando il profilo della basilica contro il cielo. Aveva letto e scritto di [[concepts/democracy|democrazia]] per tutta la vita; e quando la incontrò per la prima volta, essa lo inghiottì come un terremoto. Una reale e spaventosa differenza divideva questa folla francese in un mercato di provincia da tutte le folle inglesi che avesse mai visto a Hyde Park o Trafalgar Square. Questi francesi non erano venuti là per sbarazzarsi dei loro sentimenti, ma per sbarazzarsi dei loro nemici. Qualcosa sarebbe stato fatto come risultato di questo genere di pubblica assemblea; poteva essere un assassinio, ma sarebbe stato qualcosa.
 
 E benché, o piuttosto perché, aveva questa ferocia militante, aveva anche una sorta di disciplina militare. I gruppi di uomini si schieravano volontariamente in cordoni, e in qualche rozza maniera seguivano il comando dei capi. Padre Bernard era là, con un volto di bronzo, come la maschera di un imperatore romano, avidamente obbedito dalla sua folla di devoti crociati, e accanto a lui il selvaggio predicatore, Hyacinth, che sembrava egli stesso un morto tratto fuori dalla [[motifs/grave|fossa]], con un volto costruito d'ossa, e cavernose orbite abbastanza profonde e scure da nascondere gli occhi. Dall'altra parte c'erano il cupo pallore di Bertrand e l'attività da topo del rosso di capelli dottor Garth; la loro stessa folla anticlericale ruggiva dietro di loro, e i loro occhi ardevano di trionfo. Prima che Armitage potesse raccogliersi a sufficienza per prendere appunti adeguati su una qualsiasi di queste cose, Bertrand era balzato su una sedia posta vicino al piedistallo della statua, e aveva annunciato quasi senza parole, con un solo gesto drammatico, di essere venuto a vendicare il morto.
 
-Poi vennero le parole, e vennero fitte e veloci, incisive e terribili; ma Armitage le udì come in un sogno finché non giunsero al punto che egli attendeva; il punto che avrebbe destato qualunque sognatore. Udì i poemi in prosa di lode, l'[[forms/hymn|inno]] a Boyg l'[[archetypes/hero|Eroe]], il racconto della sua [[forms/tragedy|tragedia]] per quanto già la conoscesse. Udì la decisione ufficiale sull'impossibilità che i chierici avessero occultato il cadavere, come già l'aveva udita. E poi lui e l'intera folla sobbalzarono insieme a qualcosa che prima non conoscevano; o piuttosto, come in tutti questi indovinelli, qualcosa che conoscevano e non comprendevano.
+Poi vennero le parole, e vennero fitte e veloci, incisive e terribili; ma Armitage le udì come in [[A Dream|un sogno]] finché non giunsero al punto che egli attendeva; il punto che avrebbe destato qualunque sognatore. Udì i [[Poems|poemi]] in prosa di lode, l'[[forms/hymn|inno]] a Boyg l'[[archetypes/hero|Eroe]], il racconto della sua [[forms/tragedy|tragedia]] per quanto già la conoscesse. Udì la decisione ufficiale sull'impossibilità che i chierici avessero occultato il cadavere, come già l'aveva udita. E poi lui e l'intera folla sobbalzarono insieme a qualcosa che prima non conoscevano; o piuttosto, come in tutti questi indovinelli, qualcosa che conoscevano e non comprendevano.
 
 «Adducono che le loro celle sono spoglie e le loro vite semplici,» stava dicendo Bertrand, «ed è vero che questi schiavi della superstizione sono tagliati fuori dalle gioie naturali degli uomini. Ma hanno le loro gioie; oh, credetemi, hanno le loro festività. Se non possono gioire nell'[[motifs/love|amore]], possono gioire nell'odio. E pare che tutti abbiano dimenticato che proprio il giorno in cui il Maestro scomparve, gli studenti di teologia nel loro stesso quadrilatero lo bruciarono in effigie. In effigie.»
 
@@ -6486,7 +6486,7 @@ Un brivido che era appena un sussurro, ma era più selvaggio di un grido, percor
 
 Quando l'ultimo urrà e ululato di tutto un inferno di simili rumori si fu spento, Padre Bernard riuscì a farsi udire.
 
-«Basti dire in risposta a questa folle accusa che gli atei che la muovono contro di noi non riescono a indurre il loro stesso Governo ateo a sostenerli. Ma poiché l'accusa è contro Padre Hyacinth piuttosto che contro di me, gli chiederò di rispondervi.»
+«Basti dire in risposta a questa folle accusa che gli atei che la muovono contro di noi non riescono a indurre il loro stesso [[government|Governo]] ateo a sostenerli. Ma poiché l'accusa è contro Padre Hyacinth piuttosto che contro di me, gli chiederò di rispondervi.»
 
 Vi fu un altro tornado di rumori contrastanti quando il predicatore eremita aprì la bocca; ma i suoi stessi toni avevano un certo potere di penetrare, e di sedarlo. C'era qualcosa di strano in una simile voce che usciva da un simile teschio e [[motifs/cross|ossa incrociate]] di un volto; poiché era inequivocabilmente la voce musicale e commovente che aveva scosso tante congregazioni e pellegrinaggi. Solo che in questa crisi aveva un tremendo accento di realtà, che era al di là di ogni arte oratoria. Ma prima che il tumulto si fosse ancora spento Armitage, mosso da qualche strano istinto nervoso, si era voltato bruscamente verso Garth e aveva detto: «Che ne è stato di Gale? Ha detto che sarebbe stato qui. Non ha forse detto qualche sciocchezza sul portare lui stesso il [[concepts/body|corpo]]?»
 
@@ -6525,14 +6525,14 @@ the [[motifs/death|death]] of Boyg has inherited the whole power and position of
 I could point to one who is truly the heir and the man whom the
 crime benefits; who is known to claim much of the discovery as his own;
 who has been not so much the assistant as the rival of the dead.
-He alone has given evidence that Boyg was seen on the [[motifs/hill|hill]] at all
-on that fatal day.  He alone inherits by the [[motifs/death|death]] anything solid,
+He [[Alone|alone]] has given evidence that Boyg was seen on the [[motifs/hill|hill]] at all
+on that fatal day.  He [[Alone|alone]] inherits by the [[motifs/death|death]] anything solid,
 from the largest ambitions in the scientific world, to the smallest
 magnifying glass in his collection.  The man lives, and I could
 stretch out my hand and touch him."
 
 Hundreds of faces were turned upon Bertrand with a frightful
-expression of inhuman eagerness; the turn of the debate had been
+expression of inhuman eagerness; the turn of the [[debate]] had been
 too dramatic to raise a cry.  Bertrand's very lips were pale,
 but they smiled as they formed the words:
 
@@ -6541,7 +6541,7 @@ but they smiled as they formed the words:
 "God grant you did nothing with it, dead or alive," answered the other.
 "I do not charge you; but if ever you are charged as I am unjustly,
 you may need a God on that day.  Though I were ten times guillotined,
-God could testify to my innocence; if it were by bidding me
+God could testify to my [[innocence]]; if it were by bidding me
 walk these streets, like St. Denis, with my head in my hand.
 I have no other proof.  I can call no other witness.
 He can deliver me if He will."
@@ -6587,7 +6587,7 @@ but in every town in the world."
 
 The anti-clericals began to cheer warmly, while their opponents watched
 in [[motifs/silence|silence]], wondering where this last eccentric development might lead.
-The poet seemed to realize their mystification, and smiled
+The poet seemed to realize their [[Mystification|mystification]], and smiled
 as he continued:
 
 "Perhaps you [[concepts/wonder|wonder]] why I should say that so emphatically.
@@ -6626,13 +6626,13 @@ The scientific experiment has been made; and the proof is before you."
 
 Il dottor Garth alzò le spalle. «Immagino stia blaterando qualche altra sciocchezza in cima alla [[motifs/hill|collina]], da qualche altra parte. Non si deve chiedere ai poeti di ricordare tutte le sciocchezze che dicono.»
 
-«Amici miei,» stava dicendo padre Giacinto, con tono quieto ma penetrante. «Non ho risposta da dare a questa accusa. Non ho prove con cui confutarla. Se un uomo può essere mandato alla ghigliottina su tali prove, alla ghigliottina andrò. Credete che io non sappia che uomini [[archetypes/innocent|innocenti]] sono stati ghigliottinati? Il signor Bertrand ha parlato del rogo di Bruno, come se solo i nemici della Chiesa fossero stati arsi. Dimentica forse qualche francese che Giovanna d'Arco fu arsa; ed era colpevole? I primi cristiani furono torturati per essere cannibali, un'accusa altrettanto probabile quanto quella contro di me. Immaginate che, poiché ora uccidete gli uomini con macchinari moderni e leggi moderne, noi non sappiamo che siete altrettanto propensi a uccidere ingiustamente quanto Erode o Eliogabalo? Credete che non sappiamo che i poteri del mondo sono ciò che sempre furono, che i vostri avvocati che opprimono i poveri per denaro verseranno [[archetypes/innocent|innocente]] [[motifs/blood|sangue]] per oro? Se fossi qui a scambiare simili discorsi da avvocato, potrei usarli contro di voi più ragionevolmente di quanto voi contro di me. Per quale ragione si suppone che io abbia messo in pericolo la mia [[motifs/soul|anima]] con un delitto così mostruoso? Per una teoria su una teoria; per un'ipotesi su un'ipotesi, per qualche esile fantastica nozione che una scoperta sui fossili minacciasse l'eterna [[concepts/truth|verità]]. Potrei indicare altri che avevano ragioni migliori per l'omicidio di quella. Potrei indicare un uomo che con la [[motifs/death|morte]] di Boyg ha ereditato l'intero potere e la posizione di Boyg. Potrei indicare uno che è veramente l'erede e l'uomo che il delitto avvantaggia; che è noto per rivendicare gran parte della scoperta come propria; che è stato non tanto l'assistente quanto il rivale del morto. Egli solo ha testimoniato che Boyg fu visto sulla [[motifs/hill|collina]] in quel giorno fatale. Egli solo eredita con la [[motifs/death|morte]] qualcosa di solido, dalle più grandi ambizioni nel mondo scientifico, alla più piccola lente d'ingrandimento nella sua collezione. L'uomo vive, e potrei stendere la mano e toccarlo.»
+«Amici miei,» stava dicendo padre Giacinto, con tono quieto ma penetrante. «Non ho risposta da dare a questa accusa. Non ho prove con cui confutarla. Se un uomo può essere mandato alla ghigliottina su tali prove, alla ghigliottina andrò. Credete che io non sappia che uomini [[archetypes/innocent|innocenti]] sono stati ghigliottinati? Il signor Bertrand ha parlato del rogo di Bruno, come se solo i nemici della Chiesa fossero stati arsi. Dimentica forse qualche francese che Giovanna d'Arco fu arsa; ed era colpevole? I primi cristiani furono torturati per essere cannibali, un'accusa altrettanto probabile quanto quella contro di me. Immaginate che, poiché ora uccidete gli uomini con macchinari moderni e leggi moderne, noi non sappiamo che siete altrettanto propensi a uccidere ingiustamente quanto Erode o Eliogabalo? Credete che non sappiamo che i poteri del mondo sono ciò che sempre furono, che i vostri avvocati che opprimono i poveri per denaro verseranno [[archetypes/innocent|innocente]] [[motifs/blood|sangue]] per oro? Se fossi qui a scambiare simili discorsi da avvocato, potrei usarli contro di voi più ragionevolmente di quanto voi contro di me. Per quale ragione si suppone che io abbia messo in pericolo la mia [[motifs/soul|anima]] con un delitto così mostruoso? Per una teoria su una teoria; per un'ipotesi su un'ipotesi, per qualche esile fantastica nozione che una scoperta sui fossili minacciasse l'eterna [[concepts/truth|verità]]. Potrei indicare altri che avevano ragioni migliori per l'omicidio di quella. Potrei indicare un uomo che con la [[motifs/death|morte]] di Boyg ha ereditato l'intero potere e la posizione di Boyg. Potrei indicare uno che è veramente l'erede e l'uomo che il delitto avvantaggia; che è noto per rivendicare gran parte della scoperta come propria; che è stato non tanto l'assistente quanto il rivale del morto. Egli [[Alone|solo]] ha testimoniato che Boyg fu visto sulla [[motifs/hill|collina]] in quel giorno fatale. Egli [[Alone|solo]] eredita con la [[motifs/death|morte]] qualcosa di solido, dalle più grandi ambizioni nel mondo scientifico, alla più piccola lente d'ingrandimento nella sua collezione. L'uomo vive, e potrei stendere la mano e toccarlo.»
 
-Centinaia di volti si volsero verso Bertrand con una spaventosa espressione di disumana avidità; la svolta del dibattito era stata troppo drammatica per suscitare un grido. Le labbra stesse di Bertrand erano pallide, ma sorrisero mentre formavano le parole:
+Centinaia di volti si volsero verso Bertrand con una spaventosa espressione di disumana avidità; la svolta del [[debate|dibattito]] era stata troppo drammatica per suscitare un grido. Le labbra stesse di Bertrand erano pallide, ma sorrisero mentre formavano le parole:
 
 «E che cosa ho fatto del [[concepts/body|corpo]]?»
 
-«Dio voglia che tu non ne abbia fatto nulla, morto o vivo,» rispose l'altro. «Non ti accuso; ma se mai fossi accusato ingiustamente come lo sono io, potresti aver bisogno di un Dio in quel giorno. Anche se fossi ghigliottinato dieci volte, Dio potrebbe testimoniare la mia innocenza; fosse pure ordinandomi di camminare per queste strade, come san Dionigi, con la testa in mano. Non ho altra prova. Non posso chiamare altro testimone. Egli può liberarmi se vorrà.»
+«Dio voglia che tu non ne abbia fatto nulla, morto o vivo,» rispose l'altro. «Non ti accuso; ma se mai fossi accusato ingiustamente come lo sono io, potresti aver bisogno di un Dio in quel giorno. Anche se fossi ghigliottinato dieci volte, Dio potrebbe testimoniare la mia [[innocence|innocenza]]; fosse pure ordinandomi di camminare per queste strade, come san Dionigi, con la testa in mano. Non ho altra prova. Non posso chiamare altro testimone. Egli può liberarmi se vorrà.»
 
 Vi fu un improvviso [[motifs/silence|silenzio]], che in qualche modo era più forte di una pausa; e in esso si udì Armitage dire bruscamente, e quasi querulo:
 
@@ -6652,7 +6652,7 @@ L'istante dopo aveva stupito i suoi amici, che non erano abituati a vederlo cos�
 
 «[[motifs/well|Ebbene]], amici miei,» disse, «la prima cosa che devo fare è associarmi a tutto ciò che ha detto il mio onorevole amico, se mi permette di chiamarlo così, sui meriti e le alte qualità morali del defunto professor Boyg. Boyg, in ogni caso, è in ogni modo degno di tutto l'[[concepts/honour|onore]] che possiate rendergli. Qualunque altra cosa sia dubbia, qualunque altra cosa ci divida, tutti possiamo salutare in lui quella ricerca della [[concepts/truth|verità]] che è il più disinteressato di tutti i nostri doveri verso Dio. Concordo con il mio amico dottor Garth che egli merita una statua, non solo nella sua città, ma in ogni città del mondo.»
 
-Gli anticlericali cominciarono ad applaudire calorosamente, mentre i loro avversari osservavano in [[motifs/silence|silenzio]], chiedendosi dove potesse condurre quest'ultimo eccentrico sviluppo. Il poeta parve rendersi conto del loro sconcerto, e sorrise mentre continuava:
+Gli anticlericali cominciarono ad applaudire calorosamente, mentre i loro avversari osservavano in [[motifs/silence|silenzio]], chiedendosi dove potesse condurre quest'ultimo eccentrico sviluppo. Il poeta parve rendersi conto del loro [[Mystification|sconcerto]], e sorrise mentre continuava:
 
 «Forse vi [[concepts/wonder|domandate]] perché io lo dica con tanta enfasi. [[motifs/well|Ebbene]], suppongo che tutti abbiate le vostre ragioni per riconoscere questo genuino [[motifs/love|amore]] della [[concepts/truth|verità]] nel defunto professore. Ma lo dico perché mi capita di sapere qualcosa che forse voi non sapete, e che mi rende particolarmente certo della sua onestà.»
 
@@ -6842,7 +6842,7 @@ VI
 <span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_01" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 1)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt" data-tags="archetype/detective,archetype/lover,motif/birds,motif/crown,motif/fire,motif/garden,motif/memory,motif/road,motif/time,motif/window,concept/apocalypse,concept/beauty,setting/london"></span>
 
 
-THE HOUSE OF THE PEACOCK
+THE [[house|HOUSE]] OF THE PEACOCK
 
 IT happened that some years ago, down a sunny and empty street
 of suburban gardens and villas, a young man was walking;
@@ -6881,7 +6881,7 @@ another young man, who happened to be walking down the same
 street an hour or two afterwards on the same sunny afternoon.
 It must not be supposed that he brought to the problem any of
 the dexterities of a [[archetypes/detective|detective]]; least of all of the usual [[archetypes/detective|detective]]
-of romance, who solves problems by the closest attention to everything
+of [[Romance|romance]], who solves problems by the closest attention to everything
 and the promptest presence of mind.  It would be truer to say of this
 man that he sometimes solved them by absence of mind.  Some solitary
 object he was staring at would become fixed in his mind like a talisman,
@@ -6938,7 +6938,7 @@ front gate with all the air of repose and finality of a rustic leaning
 on his own stile.  Comment might have been aroused if anybody had
 come out; but nobody came out.  On the contrary, somebody went in.
 As the peacock again turned its tiny [[motifs/crown|crown]] and trailed away
-towards the house, the poet calmly opened the [[motifs/garden|garden]] gate and
+towards the [[house]], the poet calmly opened the [[motifs/garden|garden]] gate and
 stepped across the grass, following in the track of the bird.
 The darkening twilight of that [[motifs/garden|garden]] was enriched by masses of red may,
 and altogether the villa had the look of being cruder and more
@@ -6952,7 +6952,7 @@ of the upper storey, and a few petals seemed to have dropped on
 the ladder, indicating that they had been carried up by that route.
 All these things the gaze of Gale gradually took in, as he stood
 with a rather bewildered air at the foot of the ladder.
-He felt the contrast between the unfinished house with the ladder
+He felt the contrast between the unfinished [[house]] with the ladder
 and the rich [[motifs/garden|garden]] with the peacock.  It was almost as if the
 aristocratic [[motifs/birds|birds]] and bushes had been there before the bourgeois
 bricks and mortar.
@@ -6960,24 +6960,24 @@ bricks and mortar.
 
 <span class="qlang-split" data-lang="it"></span>
 
-LA CASA DEL PAVONE
+LA [[house|CASA]] DEL PAVONE
 
 Accadde che alcuni anni fa, lungo una via soleggiata e deserta di giardini e villini suburbani, camminasse un giovane; un giovane in abiti piuttosto strani e con un cappello quasi preistorico; poiché era giunto da poco a [[settings/london|Londra]] da una cittadina molto remota e sonnolenta del West Country. Non vi era null'altro di particolarmente notevole in lui, tranne ciò che gli accadde; che fu certamente notevole, per non dire deplorevole. Gli piombò addosso, cannoneggiando, un anziano signore che correva giù per la strada, senza fiato, a capo scoperto, e in abito da sera festoso, il quale immediatamente lo afferrò per i risvolti del suo cappotto antiquato e lo invitò a cena. Sarebbe più esatto dire che lo implorò di venire a cena. Poiché lo sconcertato provinciale non conosceva né lui né alcun altro per miglia all'intorno, la situazione pareva singolare; ma il provinciale, supponendo vagamente che fosse una cerimonia ospitale peculiare della città di [[settings/london|Londra]], dove le strade erano lastricate d'oro, alla fine acconsentì. Andò all'ospitale dimora, che era solo a pochi usci più giù per la [[motifs/road|strada]]; e non fu mai più visto nella terra dei vivi.
 
 Nessuna delle spiegazioni ordinarie sembrerebbe adattarsi al caso. I due uomini erano perfetti sconosciuti. L'uomo di campagna non portava con sé documenti od oggetti di valore o denaro degni di menzione; e certamente non aveva affatto l'aria di uno che potesse portarne. E, d'altra parte, il suo ospite recava i segni esteriori di una prosperità quasi offensiva; un luccichio di raso nelle fodere degli abiti, uno scintillio di pietre opalescenti nei bottoni della camicia e nei gemelli, un sigaro che pareva profumare la strada. L'ospite difficilmente avrebbe potuto essere adescato con l'ordinario movente della rapina, o di qualsiasi forma di frode. E in verità il movente con cui fu realmente adescato era uno dei più bizzarri al mondo; così bizzarro che un uomo avrebbe potuto fare cento congetture prima di indovinarlo.
 
-È dubbio che qualcuno l'avrebbe mai indovinato, se non fosse stato per il tocco supplementare di eccentricità che si dava il caso distinguesse un altro giovane, che si dava il caso stesse camminando lungo la stessa via un'ora o due dopo, nello stesso soleggiato pomeriggio. Non si deve supporre che egli portasse al problema alcuna delle destrezze di un [[archetypes/detective|investigatore]]; men che meno del solito [[archetypes/detective|investigatore]] da romanzo, che risolve i problemi con la più stretta attenzione a ogni cosa e la più pronta presenza di spirito. Sarebbe più esatto dire di quest'uomo che talvolta li risolveva per assenza di spirito. Qualche oggetto solitario che stava fissando gli si fissava nella mente come un talismano, e lo fissava finché quello cominciava a parlargli come un oracolo. In altre occasioni una pietra, una stella marina, o un canarino avevano così inchiodato il suo occhio e parevano rispondere alle sue domande. Nella presente occasione il suo testo era meno banale da un punto di vista ordinario; ma passò un certo [[motifs/time|tempo]] prima che il suo stesso punto di vista potesse essere ordinario. Si era lasciato andare alla deriva lungo la soleggiata [[motifs/road|strada]] suburbana, assaporando un certo sonnolento piacere nel vedere dove il maggiociondolo tracciava linee d'oro nel verde, o chiazze di biancospino bianco o rosso ardevano nelle ombre crescenti; poiché il sole andava assumendo la tinta del tramonto. Ma per la maggior parte si contentava di vedere i verdi semicerchi di prato ripetersi come un motivo di lune verdi; poiché non era uomo per cui la ripetizione fosse mera monotonia. Solo, guardando oltre un certo cancello un certo prato, divenne piacevolmente cosciente, o semi-cosciente, di una nuova nota di colore nel verde; un verde assai più azzurro, che pareva mutare in azzurro vivido, quando l'oggetto che stava fissando si mosse bruscamente, girando una piccola testa su un lungo collo. Era un pavone. Ma aveva pensato a mille cose prima di pensare alla cosa ovvia. L'azzurro ardente del piumaggio sul collo gli aveva ricordato il [[motifs/fire|fuoco]] azzurro, e il [[motifs/fire|fuoco]] azzurro gli aveva ricordato qualche cupa fantasia sui diavoli azzurri, prima ancora che avesse pienamente compreso che era un pavone quello che stava fissando. E la coda, quella strascicante tappezzeria di occhi, aveva condotto il suo vagante ingegno lontano, verso quei cupi ma divini mostri dell'[[concepts/apocalypse|Apocalisse]] i cui occhi erano moltiplicati come le loro ali, prima che si fosse ricordato che un pavone, anche in un senso più pratico, era una cosa strana da vedere in un ambiente così ordinario.
+È dubbio che qualcuno l'avrebbe mai indovinato, se non fosse stato per il tocco supplementare di eccentricità che si dava il caso distinguesse un altro giovane, che si dava il caso stesse camminando lungo la stessa via un'ora o due dopo, nello stesso soleggiato pomeriggio. Non si deve supporre che egli portasse al problema alcuna delle destrezze di un [[archetypes/detective|investigatore]]; men che meno del solito [[archetypes/detective|investigatore]] da [[Romance|romanzo]], che risolve i problemi con la più stretta attenzione a ogni cosa e la più pronta presenza di spirito. Sarebbe più esatto dire di quest'uomo che talvolta li risolveva per assenza di spirito. Qualche oggetto solitario che stava fissando gli si fissava nella mente come un talismano, e lo fissava finché quello cominciava a parlargli come un oracolo. In altre occasioni una pietra, una stella marina, o un canarino avevano così inchiodato il suo occhio e parevano rispondere alle sue domande. Nella presente occasione il suo testo era meno banale da un punto di vista ordinario; ma passò un certo [[motifs/time|tempo]] prima che il suo stesso punto di vista potesse essere ordinario. Si era lasciato andare alla deriva lungo la soleggiata [[motifs/road|strada]] suburbana, assaporando un certo sonnolento piacere nel vedere dove il maggiociondolo tracciava linee d'oro nel verde, o chiazze di biancospino bianco o rosso ardevano nelle ombre crescenti; poiché il sole andava assumendo la tinta del tramonto. Ma per la maggior parte si contentava di vedere i verdi semicerchi di prato ripetersi come un motivo di lune verdi; poiché non era uomo per cui la ripetizione fosse mera monotonia. Solo, guardando oltre un certo cancello un certo prato, divenne piacevolmente cosciente, o semi-cosciente, di una nuova nota di colore nel verde; un verde assai più azzurro, che pareva mutare in azzurro vivido, quando l'oggetto che stava fissando si mosse bruscamente, girando una piccola testa su un lungo collo. Era un pavone. Ma aveva pensato a mille cose prima di pensare alla cosa ovvia. L'azzurro ardente del piumaggio sul collo gli aveva ricordato il [[motifs/fire|fuoco]] azzurro, e il [[motifs/fire|fuoco]] azzurro gli aveva ricordato qualche cupa fantasia sui diavoli azzurri, prima ancora che avesse pienamente compreso che era un pavone quello che stava fissando. E la coda, quella strascicante tappezzeria di occhi, aveva condotto il suo vagante ingegno lontano, verso quei cupi ma divini mostri dell'[[concepts/apocalypse|Apocalisse]] i cui occhi erano moltiplicati come le loro ali, prima che si fosse ricordato che un pavone, anche in un senso più pratico, era una cosa strana da vedere in un ambiente così ordinario.
 
 Poiché Gabriel Gale, come si chiamava il giovane, era un poeta minore, ma qualcosa come un pittore maggiore; e, nella sua veste di celebrità e di [[archetypes/lover|amante]] del paesaggio, era stato invitato abbastanza spesso in quei più vasti giardini paesaggistici dell'aristocrazia terriera, dove i pavoni come animali domestici non sono rari. Il solo pensiero di simili residenze di campagna gli riportò il [[motifs/memory|ricordo]] di una di esse, in verità decaduta e trascurata rispetto alla maggior parte, ma che aveva per lui la [[concepts/beauty|bellezza]] quasi insopportabile di un paradiso perduto. Vide, ergersi per un istante in tale luccicante erba, una figura più maestosa di qualsiasi pavone, i colori del cui abito ardevano d'azzurro con una vivida tristezza che poteva davvero essere simboleggiata da un diavolo azzurro. Ma quando le fantasie intellettuali e i rimpianti emotivi si furono del pari dileguati, rimase una perplessità più razionale. Dopotutto, un pavone era una cosa insolita da vedere nel [[motifs/garden|giardino]] anteriore di un piccolo villino suburbano. Sembrava in qualche modo troppo grande per il luogo, come se dovesse abbattere gli alberelli quando spiegava la coda. Era come far visita a una zitella in un affittacamere, dalla quale ci si potrebbe aspettare che tenga un uccellino, e scoprire che teneva uno struzzo.
 
-Queste riflessioni più pratiche, a loro volta, gli erano passate per la mente prima che giungesse alla più pratica riflessione di tutte... che negli ultimi cinque minuti si era appoggiato al cancello anteriore di qualcun altro con tutta l'aria di riposo e di finalità di un campagnolo appoggiato alla propria staccionata. Sarebbero potuti sorgere commenti se qualcuno fosse uscito; ma nessuno uscì. Al contrario, qualcuno entrò. Quando il pavone di nuovo girò la sua minuscola [[motifs/crown|corona]] e si allontanò strascicando verso la casa, il poeta aprì con calma il cancello del [[motifs/garden|giardino]] e attraversò l'erba, seguendo la traccia dell'uccello. Il crepuscolo oscurantesi di quel [[motifs/garden|giardino]] era arricchito da masse di biancospino rosso, e nel complesso il villino aveva l'aspetto di essere più rozzo e più cockney del terreno in cui sorgeva. In verità, era o effettivamente incompiuto o in corso di qualche nuova modifica e riparazione, poiché una scala a pioli era appoggiata al muro, apparentemente per permettere agli operai di raggiungere un piano superiore e, per di più, vi erano segni di cespugli tagliati o sradicati, forse per qualche nuovo progetto edilizio. Rossi mazzi così raccolti dai cespugli erano ammucchiati sul davanzale della [[motifs/window|finestra]] del piano superiore, e alcuni petali parevano essere caduti sulla scala, indicando che erano stati portati su per quella via. Tutte queste cose lo sguardo di Gale gradualmente colse, mentre stava con aria piuttosto smarrita ai piedi della scala. Sentiva il contrasto tra la casa incompiuta con la scala e il ricco [[motifs/garden|giardino]] con il pavone. Era quasi come se gli aristocratici [[motifs/birds|uccelli]] e cespugli fossero stati là prima dei borghesi mattoni e calce.
+Queste riflessioni più pratiche, a loro volta, gli erano passate per la mente prima che giungesse alla più pratica riflessione di tutte... che negli ultimi cinque minuti si era appoggiato al cancello anteriore di qualcun altro con tutta l'aria di riposo e di finalità di un campagnolo appoggiato alla propria staccionata. Sarebbero potuti sorgere commenti se qualcuno fosse uscito; ma nessuno uscì. Al contrario, qualcuno entrò. Quando il pavone di nuovo girò la sua minuscola [[motifs/crown|corona]] e si allontanò strascicando verso la [[house|casa]], il poeta aprì con calma il cancello del [[motifs/garden|giardino]] e attraversò l'erba, seguendo la traccia dell'uccello. Il crepuscolo oscurantesi di quel [[motifs/garden|giardino]] era arricchito da masse di biancospino rosso, e nel complesso il villino aveva l'aspetto di essere più rozzo e più cockney del terreno in cui sorgeva. In verità, era o effettivamente incompiuto o in corso di qualche nuova modifica e riparazione, poiché una scala a pioli era appoggiata al muro, apparentemente per permettere agli operai di raggiungere un piano superiore e, per di più, vi erano segni di cespugli tagliati o sradicati, forse per qualche nuovo progetto edilizio. Rossi mazzi così raccolti dai cespugli erano ammucchiati sul davanzale della [[motifs/window|finestra]] del piano superiore, e alcuni petali parevano essere caduti sulla scala, indicando che erano stati portati su per quella via. Tutte queste cose lo sguardo di Gale gradualmente colse, mentre stava con aria piuttosto smarrita ai piedi della scala. Sentiva il contrasto tra la [[house|casa]] incompiuta con la scala e il ricco [[motifs/garden|giardino]] con il pavone. Era quasi come se gli aristocratici [[motifs/birds|uccelli]] e cespugli fossero stati là prima dei borghesi mattoni e calce.
 
 
 
 <span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_02" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 2)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt" data-tags="archetype/king,motif/dawn,motif/garden,motif/mirror,motif/ship,motif/well,motif/window,concept/imagination,setting/ship"></span>
 
 
-He had a curious innocence which often appeared as impudence.
+He had a curious [[innocence]] which often appeared as impudence.
 Like other human beings, he was quite capable of doing wrong knowingly
 and being ashamed of it.  But so long as he meant no wrong, it never
 even occurred to him that there could be anything to be ashamed of.
@@ -7017,9 +7017,9 @@ he was and how he had got there.  It was characteristic of him that,
 though he saw a practical point belatedly... and, perhaps, too late...
 when he did see it he saw it lucidly in all its logical ramifications.
 Nobody would believe in any legitimate reason for entering
-a strange house by the [[motifs/window|window]] instead of knocking at the door.
+a strange [[house]] by the [[motifs/window|window]] instead of knocking at the door.
 Also, as it happened, he had no legitimate reason... or none
-that he could explain without a lecture on poetry and philosophy.
+that he could explain without a lecture on poetry and [[philosophy]].
 He even realized the ugly detail that he was at that very moment
 fidgeting with the knives on the table, and that a large number
 of them were silver.  After an instant of hesitation, he put down
@@ -7042,7 +7042,7 @@ gentleman's shirt-front, which was an unusually large and luminous opal.
 Having uttered his highly perverse and even suicidal remark,
 the poet smiled as if in relief, and waited for the other to speak.
 
-"Are you a burglar?" asked the owner of the house at last.
+"Are you a burglar?" asked the owner of the [[house]] at last.
 
 "To make a clean breast of it, I'm not," answered Gale.
 "But if you ask me what else I am, I really don't know."
@@ -7063,7 +7063,7 @@ have had about the meaning of this string of eccentricities.
 He knew why the host wore opals, and why the [[motifs/mirror|mirror]] had been
 deliberately broken and why the salt was spilt, and why the knives
 shone on the table in a pattern of crosses, and why the eccentric
-householder brought may into the house, and why he decorated it
+householder brought may into the [[house]], and why he decorated it
 with peacocks' feathers, and even had a peacock in the [[motifs/garden|garden]].
 He realized that the ladder did not stand where it did to permit
 people to climb by it to the [[motifs/window|window]], but merely that they might
@@ -7091,17 +7091,17 @@ of the peacock, where the sunset light was dying on the lawn.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Aveva una curiosa innocenza che spesso appariva come sfrontatezza. Come gli altri esseri umani, era del tutto capace di fare il male consapevolmente e di vergognarsene. Ma finché non intendeva fare il male, non gli passava nemmeno per la mente che potesse esserci qualcosa di cui vergognarsi. Per lui il furto con scasso significava rubare; e avrebbe potuto passeggiare, per così dire, giù per il camino nella camera da letto di un [[archetypes/king|re]], purché non avesse alcuna intenzione di rubare. L'invito della scala appoggiata e della [[motifs/window|finestra]] aperta era qualcosa di quasi troppo ovvio persino per essere chiamato un'avventura. Cominciò a salire la scala come se stesse salendo i gradini d'ingresso di un albergo. Ma quando giunse ai pioli superiori parve fermarsi un momento, aggrottò le ciglia davanti a qualcosa; e, accelerando la salita, scivolò rapidamente oltre il davanzale della [[motifs/window|finestra]] dentro la stanza.
+Aveva una curiosa [[innocence|innocenza]] che spesso appariva come sfrontatezza. Come gli altri esseri umani, era del tutto capace di fare il male consapevolmente e di vergognarsene. Ma finché non intendeva fare il male, non gli passava nemmeno per la mente che potesse esserci qualcosa di cui vergognarsi. Per lui il furto con scasso significava rubare; e avrebbe potuto passeggiare, per così dire, giù per il camino nella camera da letto di un [[archetypes/king|re]], purché non avesse alcuna intenzione di rubare. L'invito della scala appoggiata e della [[motifs/window|finestra]] aperta era qualcosa di quasi troppo ovvio persino per essere chiamato un'avventura. Cominciò a salire la scala come se stesse salendo i gradini d'ingresso di un albergo. Ma quando giunse ai pioli superiori parve fermarsi un momento, aggrottò le ciglia davanti a qualcosa; e, accelerando la salita, scivolò rapidamente oltre il davanzale della [[motifs/window|finestra]] dentro la stanza.
 
 Il crepuscolo della stanza sembrava oscurità dopo il dorato bagliore della luce serale, e passò un secondo o due prima che il barlume di luce riflesso da un tondo [[motifs/mirror|specchio]] di fronte gli permettesse di distinguere le caratteristiche principali dell'interno. La stanza stessa sembrava polverosa e persino sciupata; i drappeggi blu-verde scuro, di un motivo a pavone, come a proseguire lo stesso schema della decorazione vivente del [[motifs/garden|giardino]], erano essi stessi, nondimeno, uno sfondo di colori spenti; e, scrutando nel polveroso [[motifs/mirror|specchio]], vide che era incrinato. Nondimeno, la stanza trascurata era evidentemente in parte ridecorata per una nuova festività, poiché una lunga tavola era elaboratamente apparecchiata per un pranzo. Presso ogni piatto c'era un gruppo di bicchieri bizzarri e vari per i vini di ogni portata; e i vasi azzurri sulla tavola e sulla mensola del camino erano riempiti degli stessi fiori rossi e bianchi del [[motifs/garden|giardino]] che aveva visto sul davanzale della [[motifs/window|finestra]]. Nondimeno, vi erano cose strane sulla tavola da pranzo, e il suo primo pensiero fu che essa fosse già stata teatro di qualche colluttazione o fuga precipitosa, in cui la saliera era stata rovesciata e, per quel che ne sapeva, lo specchio infranto. Poi guardò i coltelli sulla tavola, e una luce cominciava ad [[motifs/dawn|albeggiare]] nei suoi occhi, quando la porta si aprì e un uomo robusto, dai capelli grigi, entrò rapidamente nella stanza.
 
-E a quello ritornò al buon senso come un uomo scagliato da una [[motifs/ship|nave]] in volo nel freddo urto del mare. Ricordò all'improvviso dove si trovava e come ci era arrivato. Era caratteristico di lui che, benché vedesse un punto pratico in ritardo... e, forse, troppo tardi... quando lo vedeva lo vedeva lucidamente in tutte le sue ramificazioni logiche. Nessuno avrebbe creduto a una qualsiasi ragione legittima per entrare in una casa estranea dalla [[motifs/window|finestra]] invece di bussare alla porta. Inoltre, guarda caso, non aveva alcuna ragione legittima... o nessuna che potesse spiegare senza una conferenza sulla poesia e la filosofia. Si rese conto persino del brutto particolare che in quello stesso momento stava trafficando con i coltelli sulla tavola, e che un gran numero di essi erano d'argento. Dopo un istante d'esitazione, posò il coltello e si tolse educatamente il cappello.
+E a quello ritornò al buon senso come un uomo scagliato da una [[motifs/ship|nave]] in volo nel freddo urto del mare. Ricordò all'improvviso dove si trovava e come ci era arrivato. Era caratteristico di lui che, benché vedesse un punto pratico in ritardo... e, forse, troppo tardi... quando lo vedeva lo vedeva lucidamente in tutte le sue ramificazioni logiche. Nessuno avrebbe creduto a una qualsiasi ragione legittima per entrare in una [[house|casa]] estranea dalla [[motifs/window|finestra]] invece di bussare alla porta. Inoltre, guarda caso, non aveva alcuna ragione legittima... o nessuna che potesse spiegare senza una conferenza sulla poesia e la [[philosophy|filosofia]]. Si rese conto persino del brutto particolare che in quello stesso momento stava trafficando con i coltelli sulla tavola, e che un gran numero di essi erano d'argento. Dopo un istante d'esitazione, posò il coltello e si tolse educatamente il cappello.
 
 «[[motifs/well|Ebbene]],» disse infine, con incongrua ironia, «non sparerei, se fossi in voi; ma suppongo che manderete a chiamare la polizia.»
 
 Il nuovo venuto, che era apparentemente il padrone di casa, era anch'egli fissato per il momento in un atteggiamento alquanto sconcertante. Quando dapprima aprì la porta aveva avuto un sussulto convulso, aveva aperto la bocca come per gridare, e l'aveva richiusa arcigno, come se non intendesse nemmeno parlare. Era un uomo dal volto forte e sagace, guastato da occhi dolorosamente sporgenti che gli davano un'aria di perpetua protesta. Ma per qualche caso non fu verso questi occhi accusatori che si diressero i sonnolenti occhi azzurri del poetico ladro. Il trucco per cui il suo occhio vagante era così spesso inchiodato da qualche oggetto banale lo indusse a non guardare più in alto, in quel momento, del bottone sullo sparato della camicia del vecchio signore, che era un opale insolitamente grande e luminoso. Avendo pronunciato la sua osservazione altamente perversa e persino suicida, il poeta sorrise come in sollievo, e attese che l'altro parlasse.
 
-«Siete un ladro?» chiese infine il padrone della casa.
+«Siete un ladro?» chiese infine il padrone della [[house|casa]].
 
 «A dirla tutta, non lo sono,» rispose Gale. «Ma se mi chiedete che cos'altro io sia, davvero non lo so.»
 
@@ -7113,7 +7113,7 @@ Poi, dopo una sorta di pausa agitata, ripeté:
 
 «Su, dovete proprio fermarvi a cena; c'è un posto apparecchiato per voi.»
 
-Gale guardò gravemente lungo la tavola e contò il numero dei posti apparecchiati per la cena. Il numero fugò ogni dubbio finale che potesse aver avuto sul significato di questa sfilza di eccentricità. Sapeva perché l'ospite portava opali, e perché lo [[motifs/mirror|specchio]] era stato deliberatamente rotto, e perché il sale era rovesciato, e perché i coltelli splendevano sulla tavola in un motivo di croci, e perché l'eccentrico padrone di casa aveva portato biancospino nella casa, e perché la decorava con penne di pavone, e aveva persino un pavone nel [[motifs/garden|giardino]]. Comprese che la scala non stava dov'era per permettere alla gente di arrampicarvisi fino alla [[motifs/window|finestra]], ma solo perché potessero passarvi sotto entrando dalla porta. E comprese che egli era il tredicesimo uomo a sedersi a quel banchetto.
+Gale guardò gravemente lungo la tavola e contò il numero dei posti apparecchiati per la cena. Il numero fugò ogni dubbio finale che potesse aver avuto sul significato di questa sfilza di eccentricità. Sapeva perché l'ospite portava opali, e perché lo [[motifs/mirror|specchio]] era stato deliberatamente rotto, e perché il sale era rovesciato, e perché i coltelli splendevano sulla tavola in un motivo di croci, e perché l'eccentrico padrone di casa aveva portato biancospino nella [[house|casa]], e perché la decorava con penne di pavone, e aveva persino un pavone nel [[motifs/garden|giardino]]. Comprese che la scala non stava dov'era per permettere alla gente di arrampicarvisi fino alla [[motifs/window|finestra]], ma solo perché potessero passarvi sotto entrando dalla porta. E comprese che egli era il tredicesimo uomo a sedersi a quel banchetto.
 
 «La cena sta appena arrivando,» disse l'uomo dagli opali con ansiosa affabilità. «Vado giù a chiamare gli altri compagni. Li troverete una compagnia molto interessante, ve l'assicuro; nessuna sciocchezza in loro; individui accorti, acuti, schierati contro tutte queste sciocchezze superstiziose. Mi chiamo Crundle. Humphrey Crundle, e sono piuttosto [[motifs/well|ben]] noto nel mondo degli affari. Suppongo di dovermi presentare per potervi presentare agli altri.»
 
@@ -7151,7 +7151,7 @@ anything of their quality, owing to the abounding liveliness and
 loquacity of their host.  Mr. Crundle may, perhaps, have thought
 it appropriate in a President of a Thirteen Club to talk thirteen
 to the dozen.  Anyhow, for some [[motifs/time|time]] he talked for the whole company,
-rolling about in his chair in radiant satisfaction, like a man
+[[rolling]] about in his chair in radiant satisfaction, like a man
 who has at last realized his wildest vision of happiness.
 Indeed, there was something almost abnormal about the gaiety and vivacity
 of this grey-haired merchant; it seemed to be fed from a fountain
@@ -7244,7 +7244,7 @@ the Creator is crazy."
 
 I membri del Club dei Tredici, mentre salivano in fila le scale e si sistemavano ai loro posti, sembravano per la maggior parte almeno del tutto pronti per la cena. La maggior parte di essi aveva un atteggiamento piuttosto gioviale, che in alcuni assumeva la forma più vivida della volgarità. Alcuni, che erano assai giovani, impiegati e forse dipendenti, avevano volti sciocchi e nervosi, come se stessero facendo qualcosa di un po' troppo ardito. Due di loro spiccavano dalla compagnia per la singolarità di essere manifestamente gentiluomini. Uno di questi era un piccolo, rinsecchito vecchio signore, con un volto che era un labirinto di rughe, in cima al quale era appollaiata una assai evidente parrucca castana. Fu presentato come Sir Daniel Creed, ed era apparentemente un avvocato di fama ai suoi tempi, benché quei tempi sembrassero un po' lontani. L'altro, che fu semplicemente presentato come il signor Noel, era più interessante: un uomo alto, robusto, di età dubbia ma d'indubitabile intelligenza, persino al primo sguardo dei suoi occhi. I suoi lineamenti erano belli, in un modo ampio e rude; ma gli incavi delle tempie e la struttura infossata degli occhi gli davano un'aria di stanchezza che era mentale e non fisica. Le impalpabili intuizioni del poeta gli dissero che l'apparenza non era ingannevole... che l'uomo che era così entrato in quella strana società era stato in molte strane società, probabilmente cercando qualcosa di più strano di quanto avesse mai trovato.
 
-Passò tuttavia un certo [[motifs/time|tempo]] prima che alcuno di questi ospiti potesse mostrare qualcosa della propria qualità, a causa della traboccante vivacità e loquacità del loro ospite. Il signor Crundle può forse aver ritenuto opportuno, in un Presidente di un Club dei Tredici, parlare a tredici alla dozzina. Comunque sia, per un certo [[motifs/time|tempo]] parlò per l'intera compagnia, rotolandosi sulla sedia in raggiante soddisfazione, come un uomo che ha finalmente realizzato la sua più sfrenata visione di felicità. In verità, c'era qualcosa di quasi anormale nella gaiezza e vivacità di questo mercante dai capelli grigi; sembrava alimentata da una fonte dentro di lui che nulla doveva alle circostanze della festa. Le osservazioni con cui bersagliava tutti erano spesso piuttosto casuali, ma sempre fragorosamente divertenti per lui stesso. Gale poteva solo vagamente speculare su come sarebbe stato quando avesse vuotato tutti e cinque i bicchieri davanti a sé. Ma, in verità, era destinato a mostrarsi in più di un aspetto strano prima che quei bicchieri fossero vuotati.
+Passò tuttavia un certo [[motifs/time|tempo]] prima che alcuno di questi ospiti potesse mostrare qualcosa della propria qualità, a causa della traboccante vivacità e loquacità del loro ospite. Il signor Crundle può forse aver ritenuto opportuno, in un Presidente di un Club dei Tredici, parlare a tredici alla dozzina. Comunque sia, per un certo [[motifs/time|tempo]] parlò per l'intera compagnia, [[rolling|rotolandosi]] sulla sedia in raggiante soddisfazione, come un uomo che ha finalmente realizzato la sua più sfrenata visione di felicità. In verità, c'era qualcosa di quasi anormale nella gaiezza e vivacità di questo mercante dai capelli grigi; sembrava alimentata da una fonte dentro di lui che nulla doveva alle circostanze della festa. Le osservazioni con cui bersagliava tutti erano spesso piuttosto casuali, ma sempre fragorosamente divertenti per lui stesso. Gale poteva solo vagamente speculare su come sarebbe stato quando avesse vuotato tutti e cinque i bicchieri davanti a sé. Ma, in verità, era destinato a mostrarsi in più di un aspetto strano prima che quei bicchieri fossero vuotati.
 
 Fu dopo una delle sue ripetute affermazioni che quelle storie sulla mala sorte erano tutte lo stesso genere di maledette sciocchezze che la voce acuta benché tremula del vecchio Creed riuscì a inserire una parola di traverso.
 
@@ -7280,7 +7280,7 @@ Crundle mostrò una curiosa irrequietezza mentre questa conversazione procedeva;
 
 
 Gale nodded thoughtfully, as if in partial assent, and answered rather
-as if he were addressing Noel alone, in the middle of a wilderness.
+as if he were addressing Noel [[Alone|alone]], in the middle of a wilderness.
 
 "In that sense of course you are right," he said.
 "But I think there is a little more to be said on the matter.
@@ -7300,7 +7300,7 @@ Whether he succeeds depends on the spirit in which we break it.
 And I can imagine that breaking the [[motifs/mirror|mirror]] in a certain moral
 spirit... as, for instance, a spirit of scorn and inhumanity...
 might bring one in touch with lower influences.  I can imagine
-that a cloud might rest on the house where such a thing was done,
+that a cloud might rest on the [[house]] where such a thing was done,
 and evil spirits cluster about it."
 
 There was a rather singular [[motifs/silence|silence]], a [[motifs/silence|silence]] that seemed to the
@@ -7328,7 +7328,7 @@ observed the more precise lawyer, "and that Mr. Gale had kindly
 taken his place."
 
 "Yes," snapped Crundle, "I asked him to sit down as thirteenth man,
-and that alone smashes your superstition; for considering how he came in,
+and that [[Alone|alone]] smashes your superstition; for considering how he came in,
 he's jolly lucky to get a good dinner."
 
 Noel again interposed with a remonstrance; but Gale had already
@@ -7337,7 +7337,7 @@ and he addressed himself to Creed and Noel, neglecting his excitable host.
 
 "I am much obliged to you gentlemen," he said, "but I think I shall
 be going.  It is quite true that I was invited to the dinner,
-but hardly to the house... [[motifs/well|well]], I can't help having a curious
+but hardly to the [[house]]... [[motifs/well|well]], I can't help having a curious
 notion about it."
 
 He played for a moment with the crossed knives on the table;
@@ -7392,7 +7392,7 @@ For the first [[motifs/time|time]] in his restless hour of hospitality the man a
 of the table sat perfectly still.  Something in his sudden and stony
 immobility seemed to startle all the rest into life, and they all
 sprang to their feet with a confused clamour of protest and question.
-Noel alone seemed to keep his head under the shock.
+Noel [[Alone|alone]] seemed to keep his head under the shock.
 
 "Mr. Gale," he said firmly, "you have said too much or too little.
 A good many people would say you were talking a lot of lurid nonsense,
@@ -7404,9 +7404,9 @@ Whom do you accuse; or are we all to accuse each other?"
 
 <span class="qlang-split" data-lang="it"></span>
 
-Gale annuì pensieroso, come in parziale assenso, e rispose piuttosto come se si rivolgesse a Noel solo, in mezzo a un deserto.
+Gale annuì pensieroso, come in parziale assenso, e rispose piuttosto come se si rivolgesse a Noel [[Alone|solo]], in mezzo a un deserto.
 
-«In quel senso naturalmente avete ragione,» disse. «Ma penso che ci sia un poco di più da dire sulla questione. Penso che la maggior parte della gente, come dico, abbia davvero preso queste superstizioni piuttosto alla leggera, forse più alla leggera di voi. E penso che per lo più si riferissero a mali più lievi, in quel mondo di circostanze alla rinfusa che essi immaginavano piuttosto connesse con gli elfi che con gli angeli. Ma, dopotutto, i cristiani ammettono più di un genere persino di angeli; e alcuni di essi sono angeli caduti... come la gente con le penne di pavone. Ora, ho la sensazione che _essi_ potrebbero davvero avere a che fare con le penne di pavone. Proprio come gli spiriti inferiori giocano bassi scherzi con tavoli e tamburelli, potrebbero giocare bassi scherzi con coltelli e saliere. Certamente le nostre anime non dipendono da uno [[motifs/mirror|specchio]] rotto; ma non c'è nulla che uno spirito immondo desidererebbe di più che farci pensare così. Se ci riesca dipende dallo spirito con cui lo rompiamo. E posso immaginare che rompere lo [[motifs/mirror|specchio]] in un certo spirito morale... come, per esempio, uno spirito di scherno e disumanità... potrebbe mettere in contatto con influenze inferiori. Posso immaginare che una nube possa posarsi sulla casa dove una tal cosa fosse fatta, e spiriti maligni raggrupparvisi intorno.»
+«In quel senso naturalmente avete ragione,» disse. «Ma penso che ci sia un poco di più da dire sulla questione. Penso che la maggior parte della gente, come dico, abbia davvero preso queste superstizioni piuttosto alla leggera, forse più alla leggera di voi. E penso che per lo più si riferissero a mali più lievi, in quel mondo di circostanze alla rinfusa che essi immaginavano piuttosto connesse con gli elfi che con gli angeli. Ma, dopotutto, i cristiani ammettono più di un genere persino di angeli; e alcuni di essi sono angeli caduti... come la gente con le penne di pavone. Ora, ho la sensazione che _essi_ potrebbero davvero avere a che fare con le penne di pavone. Proprio come gli spiriti inferiori giocano bassi scherzi con tavoli e tamburelli, potrebbero giocare bassi scherzi con coltelli e saliere. Certamente le nostre anime non dipendono da uno [[motifs/mirror|specchio]] rotto; ma non c'è nulla che uno spirito immondo desidererebbe di più che farci pensare così. Se ci riesca dipende dallo spirito con cui lo rompiamo. E posso immaginare che rompere lo [[motifs/mirror|specchio]] in un certo spirito morale... come, per esempio, uno spirito di scherno e disumanità... potrebbe mettere in contatto con influenze inferiori. Posso immaginare che una nube possa posarsi sulla [[house|casa]] dove una tal cosa fosse fatta, e spiriti maligni raggrupparvisi intorno.»
 
 Vi fu un [[motifs/silence|silenzio]] piuttosto singolare, un [[motifs/silence|silenzio]] che parve a chi parlava rimuginare e posarsi persino sui giardini e sulle vie al di là; nessuno parlò; il [[motifs/silence|silenzio]] fu punteggiato alla fine dal sottile e penetrante grido di un pavone.
 
@@ -7416,11 +7416,11 @@ Fu allora che Humphrey Crundle li fece trasalire tutti con il suo primo scoppio.
 
 «Ho inteso che [[characters/arthur|Arthur]] Bailey ha mandato un telegramma dicendo che era trattenuto,» osservò il più preciso avvocato, «e che il signor Gale aveva gentilmente preso il suo posto.»
 
-«Sì,» scattò Crundle, «gli ho chiesto di sedersi come tredicesimo uomo, e questo solo manda in frantumi la vostra superstizione; poiché, considerato come è entrato, è maledettamente fortunato ad avere una buona cena.»
+«Sì,» scattò Crundle, «gli ho chiesto di sedersi come tredicesimo uomo, e questo [[Alone|solo]] manda in frantumi la vostra superstizione; poiché, considerato come è entrato, è maledettamente fortunato ad avere una buona cena.»
 
 Noel s'intromise di nuovo con una rimostranza; ma Gale si era già alzato in piedi. Non sembrava seccato, ma piuttosto distratto; e si rivolse a Creed e Noel, trascurando il suo eccitabile ospite.
 
-«Vi sono molto obbligato, signori,» disse, «ma penso che me ne andrò. È del tutto vero che fui invitato alla cena, ma difficilmente alla casa... [[motifs/well|ebbene]], non posso fare a meno di avere una curiosa idea al riguardo.»
+«Vi sono molto obbligato, signori,» disse, «ma penso che me ne andrò. È del tutto vero che fui invitato alla cena, ma difficilmente alla [[house|casa]]... [[motifs/well|ebbene]], non posso fare a meno di avere una curiosa idea al riguardo.»
 
 Giocherellò per un momento con i coltelli incrociati sulla tavola; poi disse, guardando fuori verso il [[motifs/garden|giardino]]...
 
@@ -7442,7 +7442,7 @@ Poi il poeta per la prima [[motifs/time|volta]] volse il volto verso Humphrey Cr
 
 «I pavoni possono non essere sfortunati; ma l'[[concepts/pride|orgoglio]] è sfortunato. E fu con insolenza e disprezzo che vi accingeste a calpestare le tradizioni o le follie di uomini più umili; cosicché siete giunto infine a calpestare una cosa più santa. Gli specchi incrinati possono non essere sfortunati; ma i cervelli incrinati sono sfortunati; e vi siete impazzito di ragione e buon senso finché non siete, in questo giorno, un lunatico criminale. E il biancospino rosso può non essere sfortunato; ma c'è qualcosa che è più rosso e assai più sfortunato; e ce ne sono macchie sul davanzale della [[motifs/window|finestra]] e sui gradini della scala. Io stesso le presi per i petali rossi.»
 
-Per la prima [[motifs/time|volta]] nella sua irrequieta ora di ospitalità l'uomo a capotavola sedette perfettamente immobile. Qualcosa nella sua improvvisa e pietrosa immobilità parve destare alla vita tutti gli altri, ed essi balzarono tutti in piedi con un confuso clamore di protesta e domande. Noel solo parve mantenere la testa a posto sotto lo shock.
+Per la prima [[motifs/time|volta]] nella sua irrequieta ora di ospitalità l'uomo a capotavola sedette perfettamente immobile. Qualcosa nella sua improvvisa e pietrosa immobilità parve destare alla vita tutti gli altri, ed essi balzarono tutti in piedi con un confuso clamore di protesta e domande. Noel [[Alone|solo]] parve mantenere la testa a posto sotto lo shock.
 
 «Signor Gale,» disse con fermezza, «avete detto troppo o troppo poco. Molta gente direbbe che state dicendo un mucchio di truci sciocchezze, ma ho l'idea che ciò che dite non sia sempre una sciocchezza tale quale suona. Ma se lo lasciate così com'è, sarà semplicemente calunnia non suffragata. In parole povere, dite che qui c'è stato un delitto. Chi accusate; o dobbiamo accusarci l'un l'altro?»
 
@@ -7479,7 +7479,7 @@ and the wine spilt in a [[motifs/blood|blood]]-red star.
 Don't you see?  That man out there isn't the thirteenth man.
 He's really the fourteenth man, and the fellow here is the fifteenth.
 [[characters/arthur|Arthur]] Bailey's the real thirteenth man, and he's all right, isn't he?
-He didn't actually come to the house, but why should that matter?
+He didn't actually come to the [[house]], but why should that matter?
 Why the devil should that matter?  He's the thirteenth member of the club,
 isn't he?  There can't be any more thirteenth men afterwards, can there?
 I don't care a curse about all the rest; I don't care what you call
@@ -7552,7 +7552,7 @@ and turned his face to the advancing crowd.
 
 "I do not like boasting," said the poet, "but unfortunately the argument
 can only take that form.  I am a sentimentalist, as Mr. Bull would say;
-I am by trade a sentimentalist; a mere scribbler of sentimental songs.
+I am by trade a sentimentalist; a mere scribbler of sentimental [[songs]].
 You are all very hard-headed, rational, sensible people who laugh
 at superstitions; you are practical men, and men of common sense.
 But your common sense didn't discover the dead [[concepts/body|body]].  You would
@@ -7575,7 +7575,7 @@ for the unlucky one."
 
 Il vecchio Crundle continuò a sedere come un'immagine scolpita; e qualcosa disse loro che i suoi occhi sporgenti erano ora, per così dire, rivolti all'interno. Stava rimuginando qualche enigma tutto suo che pareva confonderlo e accecarlo, cosicché l'intera scena scomposta si svolgeva attorno a lui inosservata. Creed e Noel lasciarono la stanza e li si udì scendere di corsa le scale e parlare a bassa voce sotto la [[motifs/window|finestra]]. Poi le loro voci si spensero in direzione del bidone dell'[[motifs/dust|immondizia]]; e ancora il vecchio sedeva con l'opale sul petto, immobile come un idolo orientale con la sua sacra gemma. Poi parve improvvisamente dilatarsi e ardere come se una mostruosa lampada gli fosse stata accesa dentro. Balzò in piedi, brandì il calice come per un brindisi, e lo abbatté di nuovo sulla tavola sì che il vetro si frantumò e il vino si sparse in una stella rossa come il [[motifs/blood|sangue]].
 
-«Ci sono; avevo ragione,» gridò in una sorta di esaltazione. «Avevo ragione; avevo ragione dopotutto. Non capite, tutti voi? Non capite? Quell'uomo là fuori non è il tredicesimo uomo. È in realtà il quattordicesimo uomo, e il tale qui è il quindicesimo. [[characters/arthur|Arthur]] Bailey è il vero tredicesimo uomo, e lui sta bene, no? Non è effettivamente venuto alla casa, ma perché questo dovrebbe importare? Perché diavolo dovrebbe importare? È il tredicesimo membro del club, no? Non ci possono essere altri tredicesimi uomini in seguito, giusto? Non m'importa un accidente di tutto il resto; non m'importa come mi chiamate o che cosa mi fate. Dico che tutta questa poetica robaccia da [[archetypes/fool|sciocco]] va a monte, perché l'uomo nel bidone dell'[[motifs/dust|immondizia]] non è affatto il numero tredici, e sfido chiunque...»
+«Ci sono; avevo ragione,» gridò in una sorta di esaltazione. «Avevo ragione; avevo ragione dopotutto. Non capite, tutti voi? Non capite? Quell'uomo là fuori non è il tredicesimo uomo. È in realtà il quattordicesimo uomo, e il tale qui è il quindicesimo. [[characters/arthur|Arthur]] Bailey è il vero tredicesimo uomo, e lui sta bene, no? Non è effettivamente venuto alla [[house|casa]], ma perché questo dovrebbe importare? Perché diavolo dovrebbe importare? È il tredicesimo membro del club, no? Non ci possono essere altri tredicesimi uomini in seguito, giusto? Non m'importa un accidente di tutto il resto; non m'importa come mi chiamate o che cosa mi fate. Dico che tutta questa poetica robaccia da [[archetypes/fool|sciocco]] va a monte, perché l'uomo nel bidone dell'[[motifs/dust|immondizia]] non è affatto il numero tredici, e sfido chiunque...»
 
 Noel e Creed stavano in piedi nella stanza con volti assai truci mentre l'uomo a capotavola cianciava con una spaventosa volubilità. Quando ebbe un attimo il fiato mozzo e soffocò nell'impeto delle proprie parole, Noel disse con voce d'acciaio:
 
@@ -7610,7 +7610,7 @@ Gabriel Gale si fece avanti davanti alla figura crollata sulla sedia, e volse il
 
 «[[motifs/well|Ebbene]], di che si tratta?» chiese Noel con fermezza.
 
-«Non mi piace vantarmi,» disse il poeta, «ma purtroppo l'argomento può assumere solo quella forma. Sono un sentimentale, come direbbe il signor Bull; sono di mestiere un sentimentale; un mero scribacchino di sentimentali canzoni. Voi siete tutte persone assai pratiche, razionali, assennate, che ridete delle superstizioni; siete uomini pratici, e uomini di buon senso. Ma il vostro buon senso non ha scoperto il [[concepts/body|corpo]] morto. Avreste fumato i vostri pratici sigari e bevuto il vostro pratico grog e sareste andati a [[motifs/home|casa]] tutti sorridenti, lasciandolo a marcire nel bidone dell'[[motifs/dust|immondizia]]. _Voi_ non avete mai scoperto dove la vostra razionale scettica [[motifs/road|strada]] può condurre un uomo, come ha condotto quel povero idiota farfugliante sulla sedia. Un sentimentale, un dilettante di chiaro di luna, l'ha scoperto per voi; forse perché era un sentimentale. Poiché ho davvero in me una vena del chiaro di luna che svia tali uomini; ecco perché posso seguirli. E ora il fortunato sentimentale deve dire una parola per lo sfortunato.»
+«Non mi piace vantarmi,» disse il poeta, «ma purtroppo l'argomento può assumere solo quella forma. Sono un sentimentale, come direbbe il signor Bull; sono di mestiere un sentimentale; un mero scribacchino di sentimentali [[songs|canzoni]]. Voi siete tutte persone assai pratiche, razionali, assennate, che ridete delle superstizioni; siete uomini pratici, e uomini di buon senso. Ma il vostro buon senso non ha scoperto il [[concepts/body|corpo]] morto. Avreste fumato i vostri pratici sigari e bevuto il vostro pratico grog e sareste andati a [[motifs/home|casa]] tutti sorridenti, lasciandolo a marcire nel bidone dell'[[motifs/dust|immondizia]]. _Voi_ non avete mai scoperto dove la vostra razionale scettica [[motifs/road|strada]] può condurre un uomo, come ha condotto quel povero idiota farfugliante sulla sedia. Un sentimentale, un dilettante di chiaro di luna, l'ha scoperto per voi; forse perché era un sentimentale. Poiché ho davvero in me una vena del chiaro di luna che svia tali uomini; ecco perché posso seguirli. E ora il fortunato sentimentale deve dire una parola per lo sfortunato.»
 
 «Intendete per il criminale?» chiese Creed con la sua voce acuta ma tremante.
 
@@ -7692,8 +7692,8 @@ like a panther and was tugging at the lifted wrist.
 
 "For all Crundle's crazy universe was rocking in that instant.
 You, who talk of superstitions, have you realized that this
-house is a house of spells?  Don't you know it is chock full
-of charms and magic rites, only they are all done backwards,
+[[house]] is a [[house]] of spells?  Don't you know it is chock full
+of charms and [[Magic|magic]] rites, only they are all done backwards,
 as the witches said the Lord's [[motifs/prayer|Prayer]]?  Can you imagine how a [[characters/witch|witch]]
 would feel if two words of the [[motifs/prayer|prayer]] came right by accident?
 Crundle saw that this clown from the country was reversing
@@ -7703,7 +7703,7 @@ With all the strength he could call from hell he hung on to the hand
 with the knife, caring only to prevent a few grains of silver [[motifs/dust|dust]]
 from drifting to the floor.
 
-"God alone knows if it was an accident.  I do not say it as an
+"God [[Alone|alone]] knows if it was an accident.  I do not say it as an
 idle phrase.  That single split second, and all that was really hidden
 in it, lies open before God as large and luminous as an [[concepts/eternity|eternity]].
 But I am a man and he is a man; and I will not give a man to the gallows,
@@ -7802,8 +7802,8 @@ come una pantera e gli tirava il polso levato.
 
 «Poiché tutto il folle universo di Crundle vacillava in quell'istante.
 Voi, che parlate di superstizioni, vi siete reso conto che questa
-casa è una casa di incantesimi?  Non sapete che è stipata
-di amuleti e riti magici, solo che sono tutti fatti alla rovescia,
+[[house|casa]] è una [[house|casa]] di incantesimi?  Non sapete che è stipata
+di amuleti e riti [[Magic|magici]], solo che sono tutti fatti alla rovescia,
 come le streghe recitavano la [[motifs/prayer|Preghiera]] del Signore?  Riuscite a immaginare come si sentirebbe una [[characters/witch|strega]]
 se due parole della [[motifs/prayer|preghiera]] venissero giuste per caso?
 Crundle vide che questo buffone di campagna stava rovesciando
@@ -7813,7 +7813,7 @@ Con tutta la forza che poté chiamare dall'inferno si aggrappò alla mano
 col coltello, curandosi solo d'impedire che pochi granelli d'argentea [[motifs/dust|polvere]]
 scivolassero al suolo.
 
-«Solo Dio sa se fu un incidente.  Non lo dico come una
+«[[Alone|Solo]] Dio sa se fu un incidente.  Non lo dico come una
 frase oziosa.  Quell'unico frammento di secondo, e tutto ciò che vi era davvero nascosto
 dentro, giace aperto dinanzi a Dio, grande e luminoso come un'[[concepts/eternity|eternità]].
 Ma io sono un uomo ed egli è un uomo; e non consegnerò un uomo alla forca,
@@ -7878,7 +7878,7 @@ and I want to ask you a question about them."
 "Were they not happier men than you?"
 
 Gale paused a moment as he put the question, and then went on.
-"Did they not in fact sing more songs, and [[motifs/dance|dance]] more dances,
+"Did they not in fact sing more [[songs]], and [[motifs/dance|dance]] more dances,
 and drink wine with more real merriment?  That was because they
 believed in evil.  In evil spells, perhaps, in evil luck,
 in evil under all sorts of stupid and ignorant symbols;
@@ -7945,7 +7945,7 @@ e voglio porvi una domanda su di essa."
 "Non erano forse uomini più felici di voi?"
 
 Gale fece una pausa mentre poneva la domanda, poi proseguì.
-"Non cantavano forse, in verità, più canzoni, e non ballavano più [[motifs/dance|danze]],
+"Non cantavano forse, in verità, più [[songs|canzoni]], e non ballavano più [[motifs/dance|danze]],
 e non bevevano il vino con più schietta allegria?  Ciò perché essi
 credevano nel male.  In malefici incantesimi, forse, in cattiva sorte,
 nel male sotto ogni sorta di simboli stupidi e ignoranti;
@@ -8235,7 +8235,7 @@ but I knew enough about it to know that he was drinking a great
 deal too much, and it's not a thing like ordinary wine or brandy;
 the state it can get you into is quite extraordinary; more like
 the clear [[concepts/madness|madness]] that comes from hashish.  And he finally rushed
-out of the house with that green [[motifs/fire|fire]] in his brain and began to get
+out of the [[house]] with that green [[motifs/fire|fire]] in his brain and began to get
 out his car; starting it quite correctly and even driving it [[motifs/well|well]],
 for there is a lucidity in such intoxication; but driving it faster
 and faster down the dreary vistas of the Old [[characters/kent|Kent]] [[motifs/road|Road]] and out into
@@ -8369,7 +8369,7 @@ ma ne sapevo abbastanza da capire che ne stava bevendo troppo
 di gran lunga, e non è una cosa come il vino o il brandy ordinari;
 lo stato in cui può ridurti è del tutto straordinario; più simile
 alla lucida [[concepts/madness|follia]] che viene dall'hashish.  E alla fine si precipitò
-fuori di casa con quel verde [[motifs/fire|fuoco]] nel cervello e cominciò a tirar
+fuori di [[house|casa]] con quel verde [[motifs/fire|fuoco]] nel cervello e cominciò a tirar
 fuori la sua auto; avviandola in modo del tutto corretto e persino guidandola [[motifs/well|bene]],
 poiché in una simile ebbrezza c'è una lucidità; ma guidandola sempre più
 velocemente giù per i tetri panorami della Old [[characters/kent|Kent]] [[motifs/road|Road]] e fuori verso
@@ -8396,7 +8396,7 @@ la terra piatta verso oriente, le torri di Canterbury».
 
 
 "I [[concepts/wonder|wonder]]," said Gabriel Gale suddenly, like a man coming out
-of a dream, "how they did upset the statuette.  Surely the woman
+of [[A Dream|a dream]], "how they did upset the statuette.  Surely the woman
 threw it, if anybody did.  He'd hardly have done a thing like that,
 even if he was drunk."
 
@@ -8406,13 +8406,13 @@ after a slightly impatient [[motifs/silence|silence]], the man called Florence w
 on with his narrative.
 
 "Of course I knew that the moment he saw the great Gothic towers of
-the [[settings/cathedral|cathedral]] they would mingle with his waking nightmare and in a way
+the [[settings/cathedral|cathedral]] they would mingle with his waking [[nightmare]] and in a way
 fulfil and [[motifs/crown|crown]] it.  I cannot say whether he had taken that [[motifs/road|road]]
 in order to reach the [[settings/cathedral|cathedral]]; or whether it was merely a coincidence;
 but there was naturally nothing else in all that landscape that could
 so fit in with his mood about steep places and dizzy heights.
 And so of course he took up his crazy [[forms/parable|parable]] again and talked about
-riding upon gargoyles, as upon demon horses, or hunting with hell-hounds
+riding upon [[gargoyles]], as upon demon horses, or hunting with hell-hounds
 above the winds of heaven.  It was very late before we reached
 the [[settings/cathedral|cathedral]]; and though it stands more deeply embedded in the town
 than is common in [[settings/cathedral|cathedral]] cities, it so happened that the houses
@@ -8500,7 +8500,7 @@ the [[settings/cathedral|cathedral]].  I never thought of it again till this min
 <span class="qlang-split" data-lang="it"></span>
 
 «Mi [[concepts/wonder|domando]]», disse Gabriel Gale d'un tratto, come un uomo che esce
-da un sogno, «come mai rovesciarono la statuetta.  Di certo fu la donna
+da [[A Dream|un sogno]], «come mai rovesciarono la statuetta.  Di certo fu la donna
 a scagliarla, se qualcuno lo fece.  Difficilmente lui avrebbe fatto una cosa simile,
 anche se era ubriaco».
 
@@ -8510,13 +8510,13 @@ dopo un [[motifs/silence|silenzio]] lievemente impaziente, l'uomo di nome Floren
 riprese la sua narrazione.
 
 «Naturalmente sapevo che nel momento in cui avesse visto le grandi torri gotiche della
-[[settings/cathedral|cattedrale]] esse si sarebbero mescolate al suo incubo a occhi aperti e in un certo modo
+[[settings/cathedral|cattedrale]] esse si sarebbero mescolate al suo [[nightmare|incubo]] a occhi aperti e in un certo modo
 l'avrebbero compiuto e [[motifs/crown|coronato]].  Non so dire se avesse imboccato quella [[motifs/road|strada]]
 per raggiungere la [[settings/cathedral|cattedrale]]; o se fu solo una coincidenza;
 ma naturalmente non c'era nient'altro in tutto quel paesaggio che potesse
 accordarsi tanto col suo umore sui luoghi scoscesi e le altezze vertiginose.
 E così, naturalmente, riprese la sua folle [[forms/parable|parabola]] e parlò di
-cavalcare gargolle, come su cavalli demoniaci, o di cacciare con mastini infernali
+cavalcare [[gargoyles|gargolle]], come su cavalli demoniaci, o di cacciare con mastini infernali
 sopra i venti del cielo.  Era molto tardi prima che raggiungessimo
 la [[settings/cathedral|cattedrale]]; e sebbene essa sorga più profondamente incassata nella città
 di quanto sia comune nelle città con [[settings/cathedral|cattedrale]], accadde che le case
@@ -8701,13 +8701,13 @@ I telephoned a moment ago to ask about the car left in Canterbury;
 and they cannot at present find traces of any such car.
 Above all, there is the damning fact that this fellow Florence
 forgot all about his imaginary car, and contradicted himself
-by saying that he went back by train.  That alone makes me think
+by saying that he went back by train.  That [[Alone|alone]] makes me think
 his story is false."
 
 "Does it?" asked Gale, looking at him with childlike [[concepts/wonder|wonder]].
-"Why, that alone makes me think his story is true."
+"Why, that [[Alone|alone]] makes me think his story is true."
 
-"How do you mean?" asked Gunter; "that alone?"
+"How do you mean?" asked Gunter; "that [[Alone|alone]]?"
 
 "Yes," said Gale; "that one detail is so true that I could almost
 believe the [[concepts/truth|truth]] of all the rest, if he'd described Phineas
@@ -8718,7 +8718,7 @@ He sat frowning and blinking for a moment and then said rather testily:
 by that sort of man?  A shabby, impecunious man, a man who never
 travels far except in trains, is caught up for one wild ride
 in a rich friend's car, drugged into a sort of dream of absinthe,
-dragged into a topsy-turvy mystery like a nightmare, wakes up to find
+dragged into a topsy-turvy mystery like a [[nightmare]], wakes up to find
 his friend caught up into the sky and everybody, in broad daylight,
 denying that the thing had ever happened.  In that sort of chilly,
 empty awakening, a poor man talking to contemptuous policemen,
@@ -8829,13 +8829,13 @@ Ho telefonato un momento fa per chiedere dell'auto lasciata a Canterbury;
 e al momento non riescono a trovare tracce di alcuna auto simile.
 Soprattutto, c'è il fatto schiacciante che questo Florence
 si è dimenticato completamente della sua auto immaginaria, e si è contraddetto
-dicendo che tornò in treno.  Solo questo mi fa pensare
+dicendo che tornò in treno.  [[Alone|Solo]] questo mi fa pensare
 che la sua storia sia falsa».
 
 «Davvero?» chiese Gale, guardandolo con [[concepts/wonder|meraviglia]] fanciullesca.
-«Ebbene, solo questo mi fa pensare che la sua storia sia vera».
+«Ebbene, [[Alone|solo]] questo mi fa pensare che la sua storia sia vera».
 
-«Che intendete?» chiese Gunter; «solo questo?»
+«Che intendete?» chiese Gunter; «[[Alone|solo]] questo?»
 
 «Sì», disse Gale; «quell'unico dettaglio è così vero che potrei quasi
 credere alla [[concepts/truth|verità]] di tutto il resto, anche se avesse descritto Phineas
@@ -8846,7 +8846,7 @@ Sedette accigliato e sbattendo le palpebre per un momento e poi disse piuttosto 
 quel genere d'uomo?  Un uomo squallido e squattrinato, un uomo che non
 viaggia mai lontano se non in treno, viene trascinato per una corsa sfrenata
 nell'auto d'un amico ricco, drogato in una sorta di sogno d'assenzio,
-trascinato in un mistero sottosopra come un incubo, si sveglia per trovare
+trascinato in un mistero sottosopra come un [[nightmare|incubo]], si sveglia per trovare
 il suo amico rapito in cielo e tutti, in pieno giorno,
 che negano che la cosa sia mai avvenuta.  In quella sorta di gelido,
 vuoto risveglio, un pover'uomo che parla con poliziotti sprezzanti,
@@ -8921,7 +8921,7 @@ ends in Margate."
 The worthy tradesman of Croydon was the first to get to his feet
 after Gale had risen, and he fingered the lapels of his outlandish
 coat with all his native embarrassment.  "I'm afraid all this
-is beyond me, gentlemen," he said, "gargoyles and dragons
+is beyond me, gentlemen," he said, "[[gargoyles]] and dragons
 and pessimists and such are not in my line.  But it does seem
 that the police have got a clue that points down the Margate [[motifs/road|road]];
 and if you ask me, I think we'd better discuss this matter again
@@ -8958,7 +8958,7 @@ of thought of his own; and, for some reason or other, he seemed
 to take quite a friendly interest in Mr. Salt's suburban shop.
 Indeed, he seemed to take more interest in this [[forms/novel|novel]] scene than in
 the older and more serious problem which he had come there to solve.
-He gazed entranced at the china dogs and pink pincushions
+He gazed entranced at the china [[dogs]] and pink pincushions
 on the parlour mantelpiece; he was with difficulty drawn away
 from a rapt contemplation of the diamond pattern of lemon-drops
 and raspberry-drops which decorated the [[motifs/window|window]]; and he looked even
@@ -8976,13 +8976,13 @@ a young woman with a [[motifs/crown|crown]] of braided brown hair, and a good
 difficulty in identifying the young lady interested in church work.
 The poet gazed at the pale squares of lawn and the few thin and
 dwarfish trees with quite a sentimental interest, almost as if it
-were a romance of his own; nor did his universal good humour fail him
+were a [[Romance|romance]] of his own; nor did his universal good [[Humour|humour]] fail him
 even when he encountered, a few lamp-posts further down the [[motifs/road|road]],
 the saturnine and somewhat unsympathetic countenance of Mr. Hiram Hatt.
 The [[archetypes/lover|lover]] was still lingering at the [[motifs/garden|garden]] gate, after the fashion
 of his kind, and Hatt and Gale walked more briskly ahead of him towards
 his [[motifs/home|home]].  To Hatt the poet made the somewhat irrelevant remark:
-"Do you understand that [[motifs/desire|desire]] to be one of the lovers of [[characters/cleopatra|Cleopatra]]?"
+"Do you understand that [[motifs/desire|desire]] to be one of the [[lovers]] of [[characters/cleopatra|Cleopatra]]?"
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9045,7 +9045,7 @@ finisce a Margate».
 Il degno commerciante di Croydon fu il primo ad alzarsi in piedi
 dopo che Gale s'era levato, e tastò i risvolti della sua bizzarra
 giacca con tutto il suo innato imbarazzo.  «Temo che tutto questo
-mi superi, signori», disse, «gargolle e draghi
+mi superi, signori», disse, «[[gargoyles|gargolle]] e draghi
 e pessimisti e simili non sono roba mia.  Ma pare proprio
 che la polizia abbia trovato un indizio che punta giù per la [[motifs/road|strada]] di Margate;
 e se volete il mio parere, credo che faremmo meglio a discutere di nuovo la questione
@@ -9082,7 +9082,7 @@ di pensieri suoi propri; e, per una ragione o l'altra, pareva
 provare un interesse del tutto amichevole per la bottega suburbana del signor Salt.
 Anzi, pareva prendere più interesse a questa [[forms/novel|nuova]] scena che al
 più vecchio e più serio problema che era venuto lì a risolvere.
-Fissava incantato i cani di porcellana e i puntaspilli rosa
+Fissava incantato i [[dogs|cani]] di porcellana e i puntaspilli rosa
 sulla mensola del camino del salottino; a stento lo si distoglieva
 da una rapita contemplazione del motivo a rombi di caramelle al limone
 e al lampone che ornavano la [[motifs/window|vetrina]]; e guardava persino
@@ -9100,13 +9100,13 @@ volto [[motifs/grave|grave]], scese con lui lungo il sentiero del [[motifs/garde
 difficoltà a identificare la giovane signora interessata alle opere di chiesa.
 Il poeta contemplò i pallidi riquadri di prato e i pochi alberelli esili e
 nani con un interesse del tutto sentimentale, quasi come se
-fosse un idillio suo proprio; né il suo universale buon umore gli venne meno
+fosse un [[Romance|idillio]] suo proprio; né il suo universale buon [[Humour|umore]] gli venne meno
 persino quando incontrò, qualche lampione più giù per la [[motifs/road|strada]],
 la saturnina e alquanto sgradevole fisionomia del signor Hiram Hatt.
 L'[[archetypes/lover|innamorato]] indugiava ancora al cancello del [[motifs/garden|giardino]], secondo l'usanza
 della sua specie, e Hatt e Gale camminarono più svelti davanti a lui verso
 la sua [[motifs/home|casa]].  A Hatt il poeta fece l'osservazione alquanto irrilevante:
-«Comprendete quel [[motifs/desire|desiderio]] di essere uno degli amanti di [[characters/cleopatra|Cleopatra]]?»
+«Comprendete quel [[motifs/desire|desiderio]] di essere uno degli [[lovers|amanti]] di [[characters/cleopatra|Cleopatra]]?»
 
 
 
@@ -9484,7 +9484,7 @@ jealous of Joseph."
 very sharply and impatiently.  "And let me tell you I don't think
 it's a decent occasion for doing it.  I know all about your jokes
 and fancies and paradoxes, but we're all in a damned hard position,
-sitting here in the man's own house, and knowing we're in the house
+sitting here in the man's own [[house]], and knowing we're in the [[house]]
 of a murderer."
 
 "I know... it's simply infernal," said Gunter, his stiffness
@@ -9497,7 +9497,7 @@ of murder stood in the room.  His eyes were bright like a [[archetypes/child|chi
 over a new toy, his face was flushed to the roots of his fiery hair,
 his broad shoulders were squared backwards like a soldier's;
 and in the lapel of his coat was a large purple flower, of a colour
-that Gale remembered in the [[motifs/garden|garden]]-beds of the house down the [[motifs/road|road]].
+that Gale remembered in the [[motifs/garden|garden]]-beds of the [[house]] down the [[motifs/road|road]].
 Gale had no difficulty in guessing the reason of this triumphant entry.
 
 Then the man with the buttonhole saw the tragic faces on the other
@@ -9612,7 +9612,7 @@ geloso di Joseph».
 assai aspramente e con impazienza.  «E lasciate che vi dica che non credo
 sia un'occasione decente per farlo.  So tutto dei vostri scherzi
 e fantasie e paradossi, ma siamo tutti in una posizione maledettamente difficile,
-seduti qui nella casa stessa dell'uomo, e sapendo di essere nella casa
+seduti qui nella [[house|casa]] stessa dell'uomo, e sapendo di essere nella [[house|casa]]
 di un assassino».
 
 «Lo so... è semplicemente infernale», disse Gunter, la sua rigidità
@@ -9625,7 +9625,7 @@ per omicidio comparve nella stanza.  I suoi occhi erano lucenti come quelli di u
 davanti a un nuovo giocattolo, il suo volto era arrossato fin alle radici dei suoi capelli di fuoco,
 le sue larghe spalle erano squadrate all'indietro come quelle di un soldato;
 e all'occhiello della giacca aveva un grande fiore purpureo, di un colore
-che Gale ricordava nelle aiuole del [[motifs/garden|giardino]] della casa più giù per la [[motifs/road|strada]].
+che Gale ricordava nelle aiuole del [[motifs/garden|giardino]] della [[house|casa]] più giù per la [[motifs/road|strada]].
 Gale non ebbe difficoltà a indovinare la ragione di questo trionfante ingresso.
 
 Poi l'uomo con l'occhiello vide i volti tragici dall'altra
@@ -9725,10 +9725,10 @@ a girl round the corner and feel awkward about it; to be young.
 That was the only paradise still left virgin and unspoilt enough,
 in the [[concepts/imagination|imagination]] of a man who has turned the seven heavens upside down.
 That is what he tried as his last experiment, and I think we can
-say it has been a success."
+say it has been a [[success]]."
 
 "Yes," said the confectioner with a stony satisfaction, "it has
-been a great success."
+been a great [[success]]."
 
 Mr. Gunter, the solicitor, [[motifs/rose|rose]] also with a sort of gesture of [[concepts/despair|despair]].
 "[[motifs/well|Well]], I don't think I understand it any better for knowing
@@ -9792,9 +9792,9 @@ Fissò per un momento il boccale sul tavolo e poi disse: «Questa è ciò che ch
 
 «[[motifs/well|Ebbene]], qual è il passo che sta oltre a ciò? Che cosa viene dopo? Vi dico che dopo di ciò sono possibili solo due passi. Uno è il passo oltre la scogliera; cessare di essere. L'altro è _essere_ qualcuno, invece di scrivere di ognuno. È incarnarsi come un vero essere umano in quella folla; ricominciare tutto daccapo come una persona reale. Se uno non rinasce...
 
-«Lo provò e scoprì che era questo che desiderava; le cose che non conosceva dall'[[motifs/childhood|infanzia]]; le sciocche piccole cose della bassa borghesia; l'aver a che fare con leccalecca e ginger-beer; l'innamorarsi [[motifs/love|d'amore]] di una ragazza dietro l'angolo e il sentirsi impacciato per questo; l'essere giovane. Quello era l'unico paradiso ancora rimasto abbastanza vergine e intatto, nell'[[concepts/imagination|immaginazione]] di un uomo che ha capovolto i sette cieli. È questo che egli tentò come suo ultimo esperimento, e credo che possiamo dire che è stato un successo».
+«Lo provò e scoprì che era questo che desiderava; le cose che non conosceva dall'[[motifs/childhood|infanzia]]; le sciocche piccole cose della bassa borghesia; l'aver a che fare con leccalecca e ginger-beer; l'innamorarsi [[motifs/love|d'amore]] di una ragazza dietro l'angolo e il sentirsi impacciato per questo; l'essere giovane. Quello era l'unico paradiso ancora rimasto abbastanza vergine e intatto, nell'[[concepts/imagination|immaginazione]] di un uomo che ha capovolto i sette cieli. È questo che egli tentò come suo ultimo esperimento, e credo che possiamo dire che è stato un [[success|successo]]».
 
-«Sì», disse il pasticciere con una soddisfazione di pietra, «è stato un grande successo».
+«Sì», disse il pasticciere con una soddisfazione di pietra, «è stato un grande [[success|successo]]».
 
 Anche il signor Gunter, l'avvocato, si [[motifs/rose|alzò]] con una sorta di gesto di [[concepts/despair|disperazione]]. «[[motifs/well|Ebbene]], non credo di capirlo meglio ora che ne so tutto», disse; «ma suppongo che debba essere come dice lei. Ma come diavolo l'ha saputo lei stesso?»
 
@@ -9824,7 +9824,7 @@ a stone's throw from them, and whom they had never seen.
 
 The figure following the coffin, the chief and only mourner, they had seen
 fairly often.  He had a habit of disappearing into his late friend's
-house and being invisible for long periods, but he came and went openly.
+[[house]] and being invisible for long periods, but he came and went openly.
 No one knew when the dead man had first come, but he probably came
 in the [[motifs/night|night]]; and he went out in the coffin.  The figure following it
 was a tall figure in black, bare-headed, with the sea-blast whistling
@@ -9857,8 +9857,8 @@ Then he went out of the little shop again and walked eastwards out
 of the village, with undisguised briskness, till he had left the houses
 far behind, and his funeral hat and habit were an almost incongruous
 black spot upon great green uplands and the motley forests of [[motifs/autumn|autumn]].
-He had walked for about half a day, lunched on bread and cheese and ale at
-a little public-house, and resumed his march with unabated cheerfulness,
+He had walked for about half a day, lunched on bread and [[cheese]] and ale at
+a little public-[[house]], and resumed his march with unabated cheerfulness,
 when the first event of that strange day befell him.  He was
 threading his way by a [[motifs/river|river]] that ran in a hollow of the green hills;
 and at one point his path narrowed and ran under a high stone wall.
@@ -9941,13 +9941,13 @@ IL RIFUGIO DELL'AVVENTURA
 
 Una piccolissima processione funebre attraversava un piccolissimo cimitero sulla costa rocciosa della Cornovaglia; portando una bara alla sua [[motifs/grave|fossa]] sotto il basso muro battuto dal vento. La bara era del tutto formale e discreta; ma il gruppetto di pescatori e braccianti la squadrava con gli occhi obliqui della superstizione; quasi fosse stata la bara deforme della leggenda che si diceva contenesse un [[archetypes/monster|mostro]]. Perché conteneva il [[concepts/body|corpo]] di un vicino prossimo, che aveva a lungo vissuto a un tiro di sasso da loro, e che non avevano mai visto.
 
-La figura che seguiva la bara, il principale e unico dolente, l'avevano vista abbastanza spesso. Aveva l'abitudine di sparire nella casa del defunto amico e di rendersi invisibile per lunghi periodi, ma andava e veniva apertamente. Nessuno sapeva quando il morto fosse arrivato la prima volta; ma probabilmente era venuto di [[motifs/night|notte]]; e se ne andò nella bara. La figura che la seguiva era una figura alta vestita di nero, a capo scoperto, con la raffica del mare che fischiava tra le ciocche dei suoi capelli gialli come tra le pallide erbe marine. Era ancora giovane e nessuno avrebbe potuto dire che l'abito da lutto gli stesse male; ma alcuni che lo conoscevano l'avrebbero guardato con involontaria sorpresa e sentito che lo mostrava in una fase nuova. Quando era vestito, come per lo più era, nei negligenti tweed e nelle calze del paesaggista viandante, appariva soltanto amabile e distratto; ma il nero faceva risaltare qualcosa di più angoloso e fisso nel suo volto. Con la sua veste nera e i capelli gialli avrebbe potuto essere il tradizionale [[characters/hamlet|Amleto]]; e in verità lo sguardo dei suoi occhi era visionario e vago; ma il tradizionale [[characters/hamlet|Amleto]] difficilmente avrebbe avuto un mento così lungo e diritto come quello che gli posava inconsapevole sulla cravatta nera. Dopo la cerimonia, lasciò la chiesa del villaggio e s'incamminò verso l'ufficio postale del villaggio, allungando e alleggerendo gradualmente il passo, come un uomo che, con tutta la cura per il decoro, riesce a stento a nascondere di essersi liberato di un dovere.
+La figura che seguiva la bara, il principale e unico dolente, l'avevano vista abbastanza spesso. Aveva l'abitudine di sparire nella [[house|casa]] del defunto amico e di rendersi invisibile per lunghi periodi, ma andava e veniva apertamente. Nessuno sapeva quando il morto fosse arrivato la prima volta; ma probabilmente era venuto di [[motifs/night|notte]]; e se ne andò nella bara. La figura che la seguiva era una figura alta vestita di nero, a capo scoperto, con la raffica del mare che fischiava tra le ciocche dei suoi capelli gialli come tra le pallide erbe marine. Era ancora giovane e nessuno avrebbe potuto dire che l'abito da lutto gli stesse male; ma alcuni che lo conoscevano l'avrebbero guardato con involontaria sorpresa e sentito che lo mostrava in una fase nuova. Quando era vestito, come per lo più era, nei negligenti tweed e nelle calze del paesaggista viandante, appariva soltanto amabile e distratto; ma il nero faceva risaltare qualcosa di più angoloso e fisso nel suo volto. Con la sua veste nera e i capelli gialli avrebbe potuto essere il tradizionale [[characters/hamlet|Amleto]]; e in verità lo sguardo dei suoi occhi era visionario e vago; ma il tradizionale [[characters/hamlet|Amleto]] difficilmente avrebbe avuto un mento così lungo e diritto come quello che gli posava inconsapevole sulla cravatta nera. Dopo la cerimonia, lasciò la chiesa del villaggio e s'incamminò verso l'ufficio postale del villaggio, allungando e alleggerendo gradualmente il passo, come un uomo che, con tutta la cura per il decoro, riesce a stento a nascondere di essersi liberato di un dovere.
 
 «È una cosa orribile da dire», disse tra sé, «ma mi sento come un vedovo felice».
 
 Entrò poi nell'ufficio postale e spedì un telegramma indirizzato a una certa Lady [[characters/diana|Diana]] Westermaine, Westermaine Abbey: un telegramma che diceva: «Vengo domani a mantenere la mia promessa e a raccontarvi la storia di una strana [[concepts/friendship|amicizia]]».
 
-Poi uscì di nuovo dalla piccola bottega e camminò verso oriente fuori dal villaggio, con non dissimulata sveltezza, finché si lasciò le case molto indietro, e il suo cappello e l'abito da funerale furono una macchia nera quasi incongrua sui grandi altipiani verdi e sulle variopinte foreste d'[[motifs/autumn|autunno]]. Aveva camminato per circa mezza giornata, aveva pranzato con pane e formaggio e birra in una piccola osteria, e aveva ripreso la marcia con immutata allegria, quando gli accadde il primo evento di quella strana giornata. Si faceva strada lungo un [[motifs/river|fiume]] che scorreva in un avvallamento delle verdi colline; e a un certo punto il suo sentiero si restringeva e correva sotto un alto muro di pietra. Il muro era costruito con grandissime pietre piatte dal contorno frastagliato, e una fila di esse correva lungo la cima come i denti di un gigante. Normalmente non avrebbe prestato tanta attenzione alla struttura del muro; anzi non vi prestò alcuna attenzione fino a dopo che qualcosa fu accaduto. Fino a quando (di fatto) ci fu un grande varco nella fila di denti rocciosi, e uno dei macigni giacque piatto ai suoi piedi, sollevando [[motifs/dust|polvere]] come il fumo di un'esplosione. Aveva appena sfiorato una delle sue lunghe ciocche di capelli chiari mentre cadeva.
+Poi uscì di nuovo dalla piccola bottega e camminò verso oriente fuori dal villaggio, con non dissimulata sveltezza, finché si lasciò le case molto indietro, e il suo cappello e l'abito da funerale furono una macchia nera quasi incongrua sui grandi altipiani verdi e sulle variopinte foreste d'[[motifs/autumn|autunno]]. Aveva camminato per circa mezza giornata, aveva pranzato con pane e [[cheese|formaggio]] e birra in una piccola [[house|osteria]], e aveva ripreso la marcia con immutata allegria, quando gli accadde il primo evento di quella strana giornata. Si faceva strada lungo un [[motifs/river|fiume]] che scorreva in un avvallamento delle verdi colline; e a un certo punto il suo sentiero si restringeva e correva sotto un alto muro di pietra. Il muro era costruito con grandissime pietre piatte dal contorno frastagliato, e una fila di esse correva lungo la cima come i denti di un gigante. Normalmente non avrebbe prestato tanta attenzione alla struttura del muro; anzi non vi prestò alcuna attenzione fino a dopo che qualcosa fu accaduto. Fino a quando (di fatto) ci fu un grande varco nella fila di denti rocciosi, e uno dei macigni giacque piatto ai suoi piedi, sollevando [[motifs/dust|polvere]] come il fumo di un'esplosione. Aveva appena sfiorato una delle sue lunghe ciocche di capelli chiari mentre cadeva.
 
 Alzando lo sguardo, un poco sconcertato dallo shock del suo scampo per un pelo, vide per un istante nel varco scuro lasciato nella muratura un volto, spiante e maligno. Gridò prontamente:
 
@@ -10009,7 +10009,7 @@ the lawns of the little riverside hotel sloped down to the [[motifs/river|river]
 And on the bank over-hanging the [[motifs/river|river]] a man stood waiting for them;
 a remarkable looking man with a fine sallow face rather like an actor's
 and very curly grizzled hair.  He welcomed them with a pleasant smile,
-and then turned towards the house with something of a habit of command
+and then turned towards the [[house]] with something of a habit of command
 or at least of direction.  "I've ordered something for you," he said.
 "If we go in now it will be ready."
 
@@ -10037,7 +10037,7 @@ and he fell all askew, kicking his legs in the air.
 He was on his feet again immediately, and found himself confronted
 by his three companions who had followed in [[concepts/doubt|doubt]] or remonstrance.
 But the smiling Starkey was foremost, and his screwed-up eyes
-expressed good humour and even sympathy.
+expressed good [[Humour|humour]] and even sympathy.
 
 "Rotten sort of swing of yours," he said.  "These things are
 all falling to pieces," and he gave the other rope a twitch,
@@ -10059,9 +10059,9 @@ Wolfe, smiling.  "You poets often have sudden impulses, don't you?"
 Perhaps I'm not one; anyhow I never could describe those impulses.
 The only way to do it would be to write a poem about the swing and a poem
 about the arbour, and put them both into a longer poem about the [[motifs/garden|garden]].
-And poems aren't produced quite so quickly as all that, though I've
+And [[Poems|poems]] aren't produced quite so quickly as all that, though I've
 always had a notion that a real poet would never talk prose.
-He would talk about the weather in rolling stanzas like the [[motifs/storm|storm]]-clouds,
+He would talk about the weather in [[rolling]] stanzas like the [[motifs/storm|storm]]-clouds,
 or ask you to pass the potatoes in an impromptu [[forms/lyric|lyric]] as beautiful
 as the blue flower of the potato."
 
@@ -10070,9 +10070,9 @@ as the blue flower of the potato."
 
 Con questi variopinti proclami il signor Gale abbelliva la campagna e si rendeva amato tra i suoi pari. Non potevano fare granché in proposito; non era diffamazione, perché nulla era detto; non era molestia né danno, perché era fatto sulla sua propria proprietà, benché in vista del mondo intero. Tra coloro che si radunavano ogni giorno a guardare il pittore all'opera c'era un robusto contadino dalla faccia rossa e dai baffoni ispidi, di nome Banks, apparentemente uno di quelle persone che si dilettano di qualunque avvenimento e sono più o meno impenetrabili a qualunque opinione. Non lo si poteva mai indurre a rompersi la testa sul simbolismo sociologico delle caricature di Gale; ma considerava l'episodio con esuberante interesse come una di quelle grandi storie destinate a essere la gloria del contado, come un vitello nato con cinque zampe o qualche piacevole storia di [[archetypes/ghost|fantasmi]] sulla vecchia forca della brughiera. Benché così poco teorico, era ben lungi dall'essere uno [[archetypes/fool|sciocco]], e aveva tutto un groviglio di racconti umoristici e tragici, atti a mostrare quanta ricca umanità fosse racchiusa entro i quattro angoli del suo contado. Così accadde che lui e il suo vicino rivoluzionario ebbero molte conversazioni davanti a dolci e birra, e fecero insieme molte spedizioni verso tombe affascinanti o storiche osterie. E così accadde che in una di queste spedizioni Banks s'imbatté in due altri suoi compari, che formarono una comitiva di quattro, facendo scoperte non del tutto prive d'interesse.
 
-Il primo degli amici del contadino, presentato a Gale sotto il nome di Starkey, era un ometto vivace con una corta barba ispida e occhi acuti, che però aveva l'abitudine di strizzare con un sorriso beffardo per la maggior parte di una conversazione. Sia lui sia il suo amico Banks erano vivamente interessati alla storia delle proteste politiche di Gale, sebbene le considerassero fin troppo come scherzi. Ed erano entrambi particolarmente ansiosi di presentare un loro amico di nome Wolfe, sempre chiamato Sim, che aveva un debole, a quanto pareva, per tali faccende, e poteva avere suggerimenti da dare. Con una sorta di sonnolenta curiosità che gli era tipica, Gale si trovò trascinato in una spedizione per la scoperta di Sim; e Sim fu scoperto in una piccola oscura locanda chiamata l'Uva, un miglio o giù di lì risalendo il [[motifs/river|fiume]]. I tre uomini avevano preso una barca, con il piccolo Starkey come timoniere; era una gloriosa mattina d'[[motifs/autumn|autunno]], ma il [[motifs/river|fiume]] era quasi nascosto sotto alte rive e boschi sporgenti, intersecato da grandi squarci di luce solare ardente, in uno dei quali i prati del piccolo albergo sul fiume digradavano verso il [[motifs/river|fiume]]. E sulla riva a strapiombo sul [[motifs/river|fiume]] un uomo stava aspettandoli; un uomo dall'aspetto notevole, con un bel viso olivastro piuttosto simile a quello di un attore e capelli grigi molto ricci. Li accolse con un sorriso cordiale, e poi si voltò verso la casa con qualcosa dell'abitudine al comando o almeno alla direzione. «Ho ordinato qualcosa per voi», disse. «Se entriamo adesso sarà pronto».
+Il primo degli amici del contadino, presentato a Gale sotto il nome di Starkey, era un ometto vivace con una corta barba ispida e occhi acuti, che però aveva l'abitudine di strizzare con un sorriso beffardo per la maggior parte di una conversazione. Sia lui sia il suo amico Banks erano vivamente interessati alla storia delle proteste politiche di Gale, sebbene le considerassero fin troppo come scherzi. Ed erano entrambi particolarmente ansiosi di presentare un loro amico di nome Wolfe, sempre chiamato Sim, che aveva un debole, a quanto pareva, per tali faccende, e poteva avere suggerimenti da dare. Con una sorta di sonnolenta curiosità che gli era tipica, Gale si trovò trascinato in una spedizione per la scoperta di Sim; e Sim fu scoperto in una piccola oscura locanda chiamata l'Uva, un miglio o giù di lì risalendo il [[motifs/river|fiume]]. I tre uomini avevano preso una barca, con il piccolo Starkey come timoniere; era una gloriosa mattina d'[[motifs/autumn|autunno]], ma il [[motifs/river|fiume]] era quasi nascosto sotto alte rive e boschi sporgenti, intersecato da grandi squarci di luce solare ardente, in uno dei quali i prati del piccolo albergo sul fiume digradavano verso il [[motifs/river|fiume]]. E sulla riva a strapiombo sul [[motifs/river|fiume]] un uomo stava aspettandoli; un uomo dall'aspetto notevole, con un bel viso olivastro piuttosto simile a quello di un attore e capelli grigi molto ricci. Li accolse con un sorriso cordiale, e poi si voltò verso la [[house|casa]] con qualcosa dell'abitudine al comando o almeno alla direzione. «Ho ordinato qualcosa per voi», disse. «Se entriamo adesso sarà pronto».
 
-Mentre Gabriel Gale chiudeva la fila indiana dei quattro uomini che salivano il diritto sentiero lastricato verso la porta della locanda, il suo occhio vagabondo colse il resto del [[motifs/garden|giardino]], e qualcosa si mosse nel suo spirito, anch'esso incline a vagare, e perfino, in senso leggero, a una sorta di ribellione. Il ripido sentiero era fiancheggiato da alberelli, simili al disegno di un ricamo. Non capiva perché dovesse camminare diritto su un sentiero così diritto, e molte cose nel [[motifs/garden|giardino]] attiravano la sua fantasia errante. Avrebbe preferito di gran lunga pranzare a uno dei tavolini corrosi dalle intemperie sparsi sul prato. Sarebbe stato lieto di brancolare nel buio e cadente pergolato nell'angolo, di cui poteva scorgere vagamente il tavolo circolare e il sedile semicircolare nell'[[archetypes/shadow|ombra]] della sua cortina di rampicanti. Era ancor più attratto dal caso per cui una vecchia altalena da bambini, con i suoi pali e le sue corde e il suo sedile pendente, si trovava proprio accanto ai cespugli della riva del [[motifs/river|fiume]]. Di fatto, l'ultima infantile [[concepts/temptation|tentazione]] era irresistibile; e gridando: «Vado di qua», corse attraverso il [[motifs/garden|giardino]] verso il pergolato, prendendo l'altalena con una sorta di balzo lungo il cammino. Atterrò sul sedile di legno e dondolò avanti e indietro due volte, lasciandolo di nuovo con un altro balzo volante. Proprio mentre lo faceva, però, la corda si spezzò all'attacco superiore, ed egli cadde tutto di traverso, sgambettando in aria. Fu subito di nuovo in piedi, e si trovò di fronte ai suoi tre compagni che l'avevano seguito in [[concepts/doubt|dubbio]] o rimostranza. Ma il sorridente Starkey era in prima fila, e i suoi occhi strizzati esprimevano buon umore e perfino simpatia.
+Mentre Gabriel Gale chiudeva la fila indiana dei quattro uomini che salivano il diritto sentiero lastricato verso la porta della locanda, il suo occhio vagabondo colse il resto del [[motifs/garden|giardino]], e qualcosa si mosse nel suo spirito, anch'esso incline a vagare, e perfino, in senso leggero, a una sorta di ribellione. Il ripido sentiero era fiancheggiato da alberelli, simili al disegno di un ricamo. Non capiva perché dovesse camminare diritto su un sentiero così diritto, e molte cose nel [[motifs/garden|giardino]] attiravano la sua fantasia errante. Avrebbe preferito di gran lunga pranzare a uno dei tavolini corrosi dalle intemperie sparsi sul prato. Sarebbe stato lieto di brancolare nel buio e cadente pergolato nell'angolo, di cui poteva scorgere vagamente il tavolo circolare e il sedile semicircolare nell'[[archetypes/shadow|ombra]] della sua cortina di rampicanti. Era ancor più attratto dal caso per cui una vecchia altalena da bambini, con i suoi pali e le sue corde e il suo sedile pendente, si trovava proprio accanto ai cespugli della riva del [[motifs/river|fiume]]. Di fatto, l'ultima infantile [[concepts/temptation|tentazione]] era irresistibile; e gridando: «Vado di qua», corse attraverso il [[motifs/garden|giardino]] verso il pergolato, prendendo l'altalena con una sorta di balzo lungo il cammino. Atterrò sul sedile di legno e dondolò avanti e indietro due volte, lasciandolo di nuovo con un altro balzo volante. Proprio mentre lo faceva, però, la corda si spezzò all'attacco superiore, ed egli cadde tutto di traverso, sgambettando in aria. Fu subito di nuovo in piedi, e si trovò di fronte ai suoi tre compagni che l'avevano seguito in [[concepts/doubt|dubbio]] o rimostranza. Ma il sorridente Starkey era in prima fila, e i suoi occhi strizzati esprimevano buon [[Humour|umore]] e perfino simpatia.
 
 «Bella schifezza d'altalena, la vostra», disse. «Queste cose stanno tutte andando in pezzi», e diede uno strappo all'altra corda, facendo cadere anche quella. Poi aggiunse: «Volete banchettare nel pergolato, eh? [[motifs/well|Benissimo]]; entrate voi per primo e rompete le ragnatele. Quando avrete raccolto tutti i ragni, vi seguirò».
 
@@ -10080,7 +10080,7 @@ Gale si tuffò ridendo nell'angolo buio in questione e si sedette al centro del 
 
 «Suppongo sia stato un vostro improvviso impulso», disse l'uomo di nome Wolfe, sorridendo. «Voi poeti avete spesso improvvisi impulsi, non è vero?»
 
-«Non tocca a me dire che fosse l'impulso di un poeta», replicò Gale; «ma sono certo che occorrerebbe un poeta per descriverlo. Forse non lo sono; in ogni caso non saprei mai descrivere quegli impulsi. L'unico modo per farlo sarebbe scrivere una poesia sull'altalena e una poesia sul pergolato, e metterle entrambe in una poesia più lunga sul [[motifs/garden|giardino]]. E le poesie non si producono tanto in fretta, benché io abbia sempre avuto l'idea che un vero poeta non parlerebbe mai in prosa. Parlerebbe del tempo in rotolanti stanze come le nubi di [[motifs/storm|tempesta]], o vi chiederebbe di passargli le patate in un'improvvisata [[forms/lyric|lirica]] bella come il fiore azzurro della patata».
+«Non tocca a me dire che fosse l'impulso di un poeta», replicò Gale; «ma sono certo che occorrerebbe un poeta per descriverlo. Forse non lo sono; in ogni caso non saprei mai descrivere quegli impulsi. L'unico modo per farlo sarebbe scrivere una poesia sull'altalena e una poesia sul pergolato, e metterle entrambe in una poesia più lunga sul [[motifs/garden|giardino]]. E le [[Poems|poesie]] non si producono tanto in fretta, benché io abbia sempre avuto l'idea che un vero poeta non parlerebbe mai in prosa. Parlerebbe del tempo in [[rolling|rotolanti]] stanze come le nubi di [[motifs/storm|tempesta]], o vi chiederebbe di passargli le patate in un'improvvisata [[forms/lyric|lirica]] bella come il fiore azzurro della patata».
 
 
 
@@ -10163,12 +10163,12 @@ to what you call making a tiger out of a cat, or what some call making
 a mountain out of a molehill.  You do not go on and make a cat more
 of a cat; you are always trying to work back and prove that it is less
 than a cat; that it is a defective cat or a mentally deficient cat.
-But a cat is a cat; that is the supreme sanity which is so thickly
+But a cat is a cat; that is the supreme [[Sanity|sanity]] which is so thickly
 clouded in your mind.  After all, a molehill is a [[motifs/hill|hill]] and a mountain
 is a [[motifs/hill|hill]].  But you have got into the state of the mad [[characters/queen|queen]],
 who said she knew hills compared with which this was a valley.
 You can't grasp the thing called a thing.  Nothing for you has
-a central stalk of sanity.  There is no core to your cosmos.
+a central stalk of [[Sanity|sanity]].  There is no core to your cosmos.
 Your trouble began with being an atheist."
 
 "I have not confessed to being an atheist," said Wolfe staring.
@@ -10178,7 +10178,7 @@ Your trouble began with being an atheist."
 But I will tell you one thing:  I can only exaggerate things the way
 they are going.  But I'm not often wrong about the way they are going.
 You may be as sleek as a cat but I knew you were evolving into a tiger.
-And I guessed this little lizard could be turned by black magic
+And I guessed this little lizard could be turned by black [[Magic|magic]]
 into a dragon."
 
 As he spoke he was looking grimly at Starkey and out under
@@ -10197,7 +10197,7 @@ on yours?  You can't see any further into me than I can into you.
 Not half so far.  Didn't you know a portrait-painter has to value
 people at sight as much as a doctor?  And I do it better than you;
 I have a knack that way.  That's why I can paint those pictures
-on the wall; and I could paint your pictures as big as a house.
+on the wall; and I could paint your pictures as big as a [[house]].
 I know what is at the back of your mind, Doctor Simeon Wolfe;
 and it's a chaos of exceptions with no rule.  You could find
 anything abnormal, because you have no normal.  You could find
@@ -10227,15 +10227,15 @@ Contro la luce d'argento sul [[motifs/river|fiume]] la scura intelaiatura dell'a
 
 «È perfettamente esatto», disse Gale gravemente; «non lo faccio mai».
 
-Poi la sua bocca si storse un poco, come se un'idea bizzarra gli fosse venuta in mente. «La psicologia è certamente molto preziosa», disse. «Sembra insegnarci a vedere dentro le menti altrui. Voi, per esempio, avete una mente che è molto interessante: avete raggiunto una condizione che credo di riconoscere. Vi trovate in quel particolare atteggiamento in cui il soggetto, quando pensa a qualcosa, non pensa mai al centro di alcunché. Vedete solo bordi corrosi. La vostra malattia è l'opposto della mia, di ciò che voi chiamate fare una tigre di un gatto, o ciò che alcuni chiamano fare di una talpa una montagna. Voi non proseguite a fare di un gatto più un gatto; cercate sempre di risalire e di provare che è meno di un gatto; che è un gatto difettoso o un gatto mentalmente deficiente. Ma un gatto è un gatto; questa è la suprema sanità mentale che è così fittamente offuscata nella vostra mente. Dopo tutto, una collinetta è una [[motifs/hill|collina]] e una montagna è una [[motifs/hill|collina]]. Ma voi siete finito nello stato della folle [[characters/queen|regina]], che diceva di conoscere colline al cui confronto questa era una valle. Non riuscite ad afferrare la cosa chiamata cosa. Nulla per voi ha un centrale stelo di sanità mentale. Non c'è nucleo nel vostro cosmo. I vostri guai cominciarono con l'essere ateo».
+Poi la sua bocca si storse un poco, come se un'idea bizzarra gli fosse venuta in mente. «La psicologia è certamente molto preziosa», disse. «Sembra insegnarci a vedere dentro le menti altrui. Voi, per esempio, avete una mente che è molto interessante: avete raggiunto una condizione che credo di riconoscere. Vi trovate in quel particolare atteggiamento in cui il soggetto, quando pensa a qualcosa, non pensa mai al centro di alcunché. Vedete solo bordi corrosi. La vostra malattia è l'opposto della mia, di ciò che voi chiamate fare una tigre di un gatto, o ciò che alcuni chiamano fare di una talpa una montagna. Voi non proseguite a fare di un gatto più un gatto; cercate sempre di risalire e di provare che è meno di un gatto; che è un gatto difettoso o un gatto mentalmente deficiente. Ma un gatto è un gatto; questa è la suprema [[Sanity|sanità mentale]] che è così fittamente offuscata nella vostra mente. Dopo tutto, una collinetta è una [[motifs/hill|collina]] e una montagna è una [[motifs/hill|collina]]. Ma voi siete finito nello stato della folle [[characters/queen|regina]], che diceva di conoscere colline al cui confronto questa era una valle. Non riuscite ad afferrare la cosa chiamata cosa. Nulla per voi ha un centrale stelo di [[Sanity|sanità mentale]]. Non c'è nucleo nel vostro cosmo. I vostri guai cominciarono con l'essere ateo».
 
 «Non ho confessato di essere ateo», disse Wolfe fissandolo.
 
-«Non ho confessato di essere un [[archetypes/artist|artista]]», replicò Gale, «né di avere incontrollati appetiti artistici o simili sciocchezze. Ma vi dirò una cosa: io posso solo esagerare le cose nel verso in cui vanno. E non mi sbaglio spesso sul verso in cui vanno. Potete essere liscio come un gatto, ma sapevo che vi stavate evolvendo in una tigre. E ho indovinato che questa piccola lucertola poteva essere trasformata con nera magia in un drago».
+«Non ho confessato di essere un [[archetypes/artist|artista]]», replicò Gale, «né di avere incontrollati appetiti artistici o simili sciocchezze. Ma vi dirò una cosa: io posso solo esagerare le cose nel verso in cui vanno. E non mi sbaglio spesso sul verso in cui vanno. Potete essere liscio come un gatto, ma sapevo che vi stavate evolvendo in una tigre. E ho indovinato che questa piccola lucertola poteva essere trasformata con nera [[Magic|magia]] in un drago».
 
 Mentre parlava guardava torvo Starkey e fuori sotto l'arco scuro del pergolato, come fuori da una [[motifs/prison|prigione]] che si chiudeva, con quei due lémuri seduti a ciascun lato del cancello. Oltre c'era la sagoma scarna simile a una forca e oltre ancora il verde e l'argento del [[motifs/garden|giardino]] e il ruscello splendeva come un paradiso perduto di libertà. Ma era caratteristico di lui che, anche quando era praticamente senza speranza, gli piacesse essere logicamente trionfante; gli piaceva rovesciare le carte in tavola ai suoi critici anche quando, per così dire, erano astratti come tavole pitagoriche.
 
-«Ebbene, miei dotti amici», proseguì con disprezzo, «credete davvero di essere più adatti voi a scrivere un referto sulla mia mente di quanto lo sia io sulla vostra? Non potete vedere più in profondità in me di quanto io possa in voi. Nemmeno la metà. Non sapevate che un ritrattista deve valutare la gente a prima vista tanto quanto un medico? E io lo faccio meglio di voi; ho un talento in questo. È per questo che posso dipingere quei quadri sul muro; e potrei dipingere i vostri ritratti grandi come una casa. So che cosa c'è in fondo alla vostra mente, dottor Simeon Wolfe; ed è un caos di eccezioni senza regola. Potreste trovare anomalo qualsiasi cosa, perché non avete alcun normale. Potreste trovare pazzo chiunque; e quanto al perché vogliate specialmente trovare pazzo me... ebbene, quello è un altro svantaggio dell'essere ateo. Non pensate che nulla vi colpirà per la vile perfidia che vi siete venduto a compiere oggi».
+«Ebbene, miei dotti amici», proseguì con disprezzo, «credete davvero di essere più adatti voi a scrivere un referto sulla mia mente di quanto lo sia io sulla vostra? Non potete vedere più in profondità in me di quanto io possa in voi. Nemmeno la metà. Non sapevate che un ritrattista deve valutare la gente a prima vista tanto quanto un medico? E io lo faccio meglio di voi; ho un talento in questo. È per questo che posso dipingere quei quadri sul muro; e potrei dipingere i vostri ritratti grandi come una [[house|casa]]. So che cosa c'è in fondo alla vostra mente, dottor Simeon Wolfe; ed è un caos di eccezioni senza regola. Potreste trovare anomalo qualsiasi cosa, perché non avete alcun normale. Potreste trovare pazzo chiunque; e quanto al perché vogliate specialmente trovare pazzo me... ebbene, quello è un altro svantaggio dell'essere ateo. Non pensate che nulla vi colpirà per la vile perfidia che vi siete venduto a compiere oggi».
 
 
 
@@ -10254,7 +10254,7 @@ bribed you and another cheap doctor to certify me for a madhouse.
 I know the sort of man you are.  I know this is not the first
 dirty trick you have done to help the rich out of a hole.
 You would do anything for your paymasters.  Possibly the murder
-of the unborn."
+of the [[unborn]]."
 
 Wolfe's face was still wrinkled with its Semitic sneer,
 but his olive tint had turned to a sort of loathsome yellow.
@@ -10276,7 +10276,7 @@ for the law was probably on the side of the doctors; and Gale
 continued his address to them.
 
 "The mental deficiency of Dr. Starkey," he said, "consists in having
-forgotten the [[concepts/truth|truth]].  You, Starkey, have no sceptical philosophy
+forgotten the [[concepts/truth|truth]].  You, Starkey, have no sceptical [[philosophy]]
 like your friend.  You are a practical man, my dear Starkey;
 but you have told lies so incessantly and from so early an age that you
 never see anything as it is, but only as it could be made to look.
@@ -10373,7 +10373,7 @@ That will give us a good start for our escape."
 
 «Non c'è alcun [[concepts/doubt|dubbio]] sulla vostra condizione ormai», disse il dottor Wolfe con un ghigno.
 
-«Voi sembrate un attore, ma non siete un attore molto bravo», rispose Gale con calma. «Vedo che la mia congettura era esatta. Questi strozzini ed esattori d'affitti che opprimono i poveri, nella mia valle natia, non hanno potuto trovare alcuna cavillosa legge che m'impedisse di dipingere i colori delle loro anime all'inferno. Così hanno corrotto voi e un altro medico da quattro soldi perché mi certificaste per un manicomio. So che razza d'uomo siete. So che questo non è il primo sporco trucco che avete fatto per tirar fuori i ricchi da un guaio. Fareste qualsiasi cosa per i vostri padroni. Forse anche l'assassinio del nascituro».
+«Voi sembrate un attore, ma non siete un attore molto bravo», rispose Gale con calma. «Vedo che la mia congettura era esatta. Questi strozzini ed esattori d'affitti che opprimono i poveri, nella mia valle natia, non hanno potuto trovare alcuna cavillosa legge che m'impedisse di dipingere i colori delle loro anime all'inferno. Così hanno corrotto voi e un altro medico da quattro soldi perché mi certificaste per un manicomio. So che razza d'uomo siete. So che questo non è il primo sporco trucco che avete fatto per tirar fuori i ricchi da un guaio. Fareste qualsiasi cosa per i vostri padroni. Forse anche l'assassinio del [[unborn|nascituro]]».
 
 Il volto di Wolfe era ancora corrugato nel suo ghigno semitico, ma la sua tinta olivastra si era mutata in una sorta di ripugnante giallo. Starkey esclamò con improvvisa stridulità, brusca come l'abbaiare di un cane.
 
@@ -10478,7 +10478,7 @@ he had other responsibilities besides those of his chivalric vow
 to his companion-in-arms; and he concluded that their companionship
 could only be rightly continued in some safe and more secluded form.
 Then it was that he put his friend into the comfortable and
-secret house in Cornwall, and spent most of his own [[motifs/time|time]] there,
+secret [[house]] in Cornwall, and spent most of his own [[motifs/time|time]] there,
 leaving a trustworthy servant on guard during his brief absences.
 His companion, whose name was James Hurrel, had been a business man
 of great ability and even audacity, until his schemes grew a little
@@ -10491,7 +10491,7 @@ back from his funeral a free man.
 * * * * *
 
 Next morning, after a few hours' walking a rise and change in the
-rolling and wooded country told him that he was on the borders of his
+[[rolling]] and wooded country told him that he was on the borders of his
 enchanted ground.  He remembered something in the grouping of the trees,
 and how they seemed to huddle and stand on tiptoe with their backs
 to him, looking into the happy valley.  He came to where the [[motifs/road|road]]
@@ -10515,7 +10515,7 @@ the [[motifs/great-house|great house]] across the [[motifs/river|river]].  It wa
 as if the writer had hesitated about a form of address; and it ran:
 
 "I want to hear the story and [[concepts/hope|hope]] you will come over tomorrow
-(Thursday). I [[concepts/fear|fear]] I shall be out today, as I have to go to see
+([[thursday|Thursday]]). I [[concepts/fear|fear]] I shall be out today, as I have to go to see
 a Dr. Wilson in Wimbledon about some work I have a chance of doing.
 I suppose you know we are pretty hard up in these days.  D.W."
 
@@ -10546,15 +10546,15 @@ Duecento iarde lungo il sentiero presso il [[motifs/river|fiume]] si fermò e pa
 
 Così furono pronunciate in quel luogo selvaggio le parole selvagge che determinarono la vita di Gabriel Gale per tanti anni a venire; e la passeggiata che cominciò in quel bosco si trasformò in un vagabondare per tutto il paese da parte di quei due fantastici fuorilegge. In effetti una sorta di tregua armata cadde tra loro e i loro nemici, perché ciascuno aveva qualcosa da [[concepts/fear|temere]] dall'altro. Gale non usò tutto ciò che aveva scoperto contro i due medici, per timore che spingessero l'inseguimento del suo amico; ed essi non lo spinsero per timore che egli si vendicasse con le proprie rivelazioni. Così i due giunsero a vagare praticamente indisturbati fino al giorno di quell'avventura, già descritta all'inizio di tutte queste cose, quando egli s'innamorò [[motifs/love|d'amore]], e il suo folle compagno cadde in un parossismo che andò assai vicino all'omicidio.
 
-In ogni senso quel giorno terribile aveva mutato tutto. Quello scoppio omicida aveva finalmente convinto un Gabriel più triste e più saggio che egli aveva altre responsabilità oltre a quelle del suo voto cavalleresco al compagno d'armi; e concluse che la loro compagnia poteva essere giustamente continuata solo in qualche forma sicura e più appartata. Fu allora che mise il suo amico nella comoda e segreta casa in Cornovaglia, e vi trascorse la maggior parte del proprio [[motifs/time|tempo]], lasciando un servitore fidato di guardia durante le sue brevi assenze. Il suo compagno, il cui nome era James Hurrel, era stato un uomo d'affari di grande abilità e perfino audacia, finché i suoi progetti non si fecero un po' troppo grandi per il suo cervello; e visse abbastanza felicemente in Cornovaglia, coprendo i tavoli di prospetti e le pareti di manifesti relativi a varie imprese finanziarie del genere più promettente. Là morì, in apparenza altrettanto felicemente; e Gale tornò a piedi dal suo funerale da uomo libero.
+In ogni senso quel giorno terribile aveva mutato tutto. Quello scoppio omicida aveva finalmente convinto un Gabriel più triste e più saggio che egli aveva altre responsabilità oltre a quelle del suo voto cavalleresco al compagno d'armi; e concluse che la loro compagnia poteva essere giustamente continuata solo in qualche forma sicura e più appartata. Fu allora che mise il suo amico nella comoda e segreta [[house|casa]] in Cornovaglia, e vi trascorse la maggior parte del proprio [[motifs/time|tempo]], lasciando un servitore fidato di guardia durante le sue brevi assenze. Il suo compagno, il cui nome era James Hurrel, era stato un uomo d'affari di grande abilità e perfino audacia, finché i suoi progetti non si fecero un po' troppo grandi per il suo cervello; e visse abbastanza felicemente in Cornovaglia, coprendo i tavoli di prospetti e le pareti di manifesti relativi a varie imprese finanziarie del genere più promettente. Là morì, in apparenza altrettanto felicemente; e Gale tornò a piedi dal suo funerale da uomo libero.
 
 * * * * *
 
-Il mattino dopo, dopo poche ore di cammino, un rialzo e un mutamento nella campagna ondulata e boscosa gli dissero che era ai confini del suo terreno incantato. Ricordava qualcosa nel raggruppamento degli alberi, e come sembrassero rannicchiarsi e stare in punta di piedi con le spalle a lui, guardando dentro la valle felice. Giunse dove la [[motifs/road|strada]] si curvava sopra la [[motifs/hill|collina]], come vi era giunto con il suo amico in tempi passati; e vide sotto di sé i prati che scendevano ripidi come tetti di paglia e si appiattivano finché non raggiungevano l'ampio e basso [[motifs/river|fiume]], e il guado e la scura locanda chiamata il Sole Nascente.
+Il mattino dopo, dopo poche ore di cammino, un rialzo e un mutamento nella campagna [[rolling|ondulata]] e boscosa gli dissero che era ai confini del suo terreno incantato. Ricordava qualcosa nel raggruppamento degli alberi, e come sembrassero rannicchiarsi e stare in punta di piedi con le spalle a lui, guardando dentro la valle felice. Giunse dove la [[motifs/road|strada]] si curvava sopra la [[motifs/hill|collina]], come vi era giunto con il suo amico in tempi passati; e vide sotto di sé i prati che scendevano ripidi come tetti di paglia e si appiattivano finché non raggiungevano l'ampio e basso [[motifs/river|fiume]], e il guado e la scura locanda chiamata il Sole Nascente.
 
 Il tetro locandiere dei vecchi tempi se n'era andato, avendo trovato meno tetro prendere servizio in certe scuderie del vicinato; e un individuo più sveglio con l'aria di uno stalliere fu il destinatario delle espansive lodi di Gale sulla [[concepts/beauty|bellezza]] della scena. Gale ebbe la bontà d'informare il locandiere della [[concepts/beauty|bellezza]] dei cieli nei dintorni della sua stessa locanda, raccontando come lui, Gale, avesse una volta visto un tramonto in quella valle del tutto peculiare a essa e ineguagliato in ogni parte del mondo; e come perfino la [[motifs/storm|tempesta]] che aveva seguito il tramonto fosse stata qualcosa di assai [[concepts/sublime|sublime]] in quello stile. Le sue generalizzazioni furono però in certo modo frenate e sviate da un biglietto che il locandiere gli mise in mano, un biglietto proveniente dalla [[motifs/great-house|grande casa]] al di là del [[motifs/river|fiume]]. Era privo di qualsiasi apertura formale, come se lo scrivente avesse esitato su una formula d'indirizzo; e diceva:
 
-«Desidero udire la storia e [[concepts/hope|spero]] che verrete domani (giovedì). [[concepts/fear|Temo]] che oggi sarò fuori, dovendo andare a trovare un certo dottor Wilson a Wimbledon per un lavoro che ho la possibilità di fare. Suppongo sappiate che siamo piuttosto a corto di denaro di questi tempi. D.W.»
+«Desidero udire la storia e [[concepts/hope|spero]] che verrete domani ([[thursday|giovedì]]). [[concepts/fear|Temo]] che oggi sarò fuori, dovendo andare a trovare un certo dottor Wilson a Wimbledon per un lavoro che ho la possibilità di fare. Suppongo sappiate che siamo piuttosto a corto di denaro di questi tempi. D.W.»
 
 L'intero paesaggio gli parve oscurarsi per un istante mentre leggeva la lettera, ma non perse il suo brioso contegno né il suo arioso modo di parlare.
 
@@ -10572,7 +10572,7 @@ who was a friend of his, and one or two other telegrams to persons
 in rather responsible positions.  When he got to [[settings/london|London]] he went into
 the offices of the vulgarest and most sensational newspaper he knew,
 and looked up the back files for the details of forgotten crimes.
-When he got to Wimbledon he had a long interview with a local house
+When he got to Wimbledon he had a long interview with a local [[house]]
 agent and ended up towards evening, outside a high [[motifs/garden|garden]] wall
 with a green door, in a wide but empty and silent suburban [[motifs/road|road]].
 He went quietly up to the door and barely touched it with
@@ -10620,7 +10620,7 @@ and then said:
 this morning; but they asked me to stay.  I was going to wire to you."
 
 "Thank God I followed you," he answered.  "I [[concepts/doubt|doubt]] if the wire
-would have reached me... from this house."
+would have reached me... from this [[house]]."
 
 "What do you mean?" she asked, "and how did you follow?"
 
@@ -10635,7 +10635,7 @@ in a regular and even punctilious fashion.
 
 The host or hostess had apparently not yet become visible;
 there were only three gentlemen, presumably guests and perhaps
-members of a house-party. One was introduced as Mr. Wolmer,
+members of a [[house]]-party. One was introduced as Mr. Wolmer,
 a young man with a fair moustache and a tall fine figure that made
 his head look small; with a fine bridged nose that ought to have been
 like a hawk's if the prominence of the eyes and some deficiency
@@ -10690,13 +10690,13 @@ Era sempre stato capace di rievocare il [[motifs/memory|ricordo]] delle sue scur
 
 «Stanno per uscire a prendere il tè fra un momento», disse in modo alquanto imbarazzato. «Suppongo di dovervi presentare a loro. Ho accettato l'impiego solo stamattina; ma mi hanno chiesto di fermarmi. Stavo per telegrafarvi».
 
-«Grazie a Dio vi ho seguita», rispose. «[[concepts/doubt|Dubito]] che il telegramma mi sarebbe giunto... da questa casa».
+«Grazie a Dio vi ho seguita», rispose. «[[concepts/doubt|Dubito]] che il telegramma mi sarebbe giunto... da questa [[house|casa]]».
 
 «Che cosa intendete?» chiese lei, «e come avete fatto a seguirmi?»
 
 «Non mi piaceva il vostro indirizzo di Wimbledon», disse: e con ciò, strane figure cominciarono a riempire il [[motifs/garden|giardino]], ed ella attraversò fino al tavolo da tè. Il suo volto era alquanto più pallido e più severo di un tempo, ma nei suoi occhi grigi c'era una luce non del tutto spenta, una curiosità ancora venata di sfida. Nel [[motifs/time|momento]] in cui raggiunsero il tavolo due o tre persone si erano radunate attorno a esso; e il visitatore alquanto irregolare le aveva salutate in modo regolare e perfino cerimonioso.
 
-L'ospite o la padrona di casa a quanto pareva non era ancora divenuto visibile; c'erano solo tre gentiluomini, presumibilmente invitati e forse membri di una comitiva della casa. Uno fu presentato come il signor Wolmer, un giovane dai baffi biondi e da un'alta e bella figura che faceva sembrare piccola la sua testa; con un bel naso arcuato che avrebbe dovuto essere come quello di un falco se la prominenza degli occhi e una certa deficienza del mento non l'avessero in qualche modo reso più simile a quello di un pappagallo. Il secondo era un certo maggiore Bruce, un uomo molto basso con una testa molto lunga striata di capelli grigio ferro, e un'espressione che suggeriva, abbastanza veritieramente, che assai di rado apriva bocca. Il terzo era una persona anziana con una nera papalina sul capo calvo e una frangia o ventaglio di barba o basette rosse; era evidentemente una persona di una certa importanza e conosciuta come il professor Patterson.
+L'ospite o la padrona di casa a quanto pareva non era ancora divenuto visibile; c'erano solo tre gentiluomini, presumibilmente invitati e forse membri di una comitiva della [[house|casa]]. Uno fu presentato come il signor Wolmer, un giovane dai baffi biondi e da un'alta e bella figura che faceva sembrare piccola la sua testa; con un bel naso arcuato che avrebbe dovuto essere come quello di un falco se la prominenza degli occhi e una certa deficienza del mento non l'avessero in qualche modo reso più simile a quello di un pappagallo. Il secondo era un certo maggiore Bruce, un uomo molto basso con una testa molto lunga striata di capelli grigio ferro, e un'espressione che suggeriva, abbastanza veritieramente, che assai di rado apriva bocca. Il terzo era una persona anziana con una nera papalina sul capo calvo e una frangia o ventaglio di barba o basette rosse; era evidentemente una persona di una certa importanza e conosciuta come il professor Patterson.
 
 Gale prese il tè e s'indulse in cortese conversazione in modo assai animato, chiedendosi per tutto il [[motifs/time|tempo]] chi fosse colui che avrebbe dovuto essere a capo del tavolo, dove [[characters/diana|Diana]] Westermaine versava il tè. Il contegno dell'uomo di nome Wolmer era piuttosto inquieto; e dopo poco si alzò e cominciò, come per la necessità di fare qualcosa, a colpire qua e là le palle da croquet sul prato. Gale, che lo osservava con un certo interesse, ne seguì l'esempio raccogliendo una mazza e tentando un certo particolare gioco di far passare due palle attraverso un archetto. Era un gioco che richiedeva una prova di una certa minuziosità, poiché egli si mise carponi per esaminare più da vicino la posizione.
 
@@ -10711,7 +10711,7 @@ Wolmer fissava con occhio maligno l'archetto e disse qualcosa con voce spessa ch
 <span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_07" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 7)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt" data-tags="motif/fire,motif/flowers,motif/garden,motif/home,motif/memory,motif/nature,motif/silence,motif/time,motif/wind,concept/nature,concept/truth,character/diana"></span>
 
 
-"Better put down that mallet now," said the professor in a soothing voice,
+"Better put down that mallet now," said [[The Professor|the professor]] in a soothing voice,
 putting a rather shaky hand on the other's arm.
 
 "Oh, I'll put it down then," said Wolmer, and slung it away over
@@ -10719,7 +10719,7 @@ his shoulder like a man putting the hammer at the Highland Sports.
 It flew through the air like a thunderbolt, striking the forlorn
 plaster statue in the centre and breaking it off short at the top.
 Mr. Wolmer laughed in a rather uncontrolled fashion; and then strode
-away into the house.
+away into the [[house]].
 
 The girl had been watching these things with her dark brows bent and her
 pallor growing somewhat more marked.  There was an unpleasant [[motifs/silence|silence]],
@@ -10729,7 +10729,7 @@ and then Major Bruce spoke for the first [[motifs/time|time]].
 
 The atmosphere of the suburban [[motifs/garden|garden]] as a matter of fact was very clear,
 sunny and pleasant, and [[characters/diana|Diana]] looked round with a growing and even
-creeping mystification at the gay flower-pots and the lawns golden
+creeping [[Mystification|mystification]] at the gay flower-pots and the lawns golden
 in the evening light.
 
 "Perhaps it is my own misfortune," resumed the Major reflectively.
@@ -10775,7 +10775,7 @@ He stopped when he saw her white face.
 "Do you know what this place is?" she whispered.  "It is a madhouse."
 
 "It's a very easy one to escape from," said Gale in a serene manner.
-"I've just seen the professor escape from it.  He escapes regularly;
+"I've just seen [[The Professor|the professor]] escape from it.  He escapes regularly;
 probably on Wednesdays and Saturdays."
 
 "This is no [[motifs/time|time]] for your jokes," she cried.  "I tell you we've
@@ -10795,7 +10795,7 @@ about this horrible place."
 "For me it will always be a holy place," he said.  "Was it not under
 that arch there that you appeared out of the abyss of [[motifs/memory|memory]]?
 And after all, it's a beautiful [[motifs/garden|garden]] and I'm almost sorry to leave it.
-The house, too, makes a romantic background; and really we
+The [[house]], too, makes a romantic background; and really we
 might be very comfortable here... if only it were a madhouse."
 And he sighed with regret.
 
@@ -10812,7 +10812,7 @@ were faintly familiar to her; behind were two stalwart figures,
 obviously in "plain clothes", and between them the unexpected
 apparition of Professor Patterson in handcuffs.
 
-"Caught him setting [[motifs/fire|fire]] to a house," said the red-haired man briefly.
+"Caught him setting [[motifs/fire|fire]] to a [[house]]," said the red-haired man briefly.
 "Valuable documents."
 
 Later in that bewildering stretch of hours, the friends
@@ -10831,14 +10831,14 @@ notion up, because I happened to guess where the notion came from.
 By the way, I suppose this is the gentleman who engaged you
 as a typist."
 
-As he spoke a small alert figure strode out of the house and across
+As he spoke a small alert figure strode out of the [[house]] and across
 the lawns; his short beard thrust forward with something of the gesture
 of a terrier.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Meglio che posiate quel maglio, adesso», disse il professore con voce suadente,
+«Meglio che posiate quel maglio, adesso», disse [[The Professor|il professore]] con voce suadente,
 posando una mano piuttosto tremante sul braccio dell'altro.
 
 «Oh, allora lo poso», disse Wolmer, e se lo scagliò dietro
@@ -10846,7 +10846,7 @@ la spalla come chi lancia il martello ai Giochi delle Highland.
 Volò nell'aria come una folgore, colpendo la desolata
 statua di gesso al centro e spezzandola di netto in cima.
 Il signor Wolmer rise in modo piuttosto sfrenato; e poi si allontanò
-a grandi passi verso la casa.
+a grandi passi verso la [[house|casa]].
 
 La ragazza aveva osservato queste cose con le sopracciglia scure aggrottate e il suo
 pallore che si faceva un po' più marcato. Vi fu uno sgradevole [[motifs/silence|silenzio]],
@@ -10856,7 +10856,7 @@ e poi il maggiore Bruce parlò per la prima [[motifs/time|volta]].
 
 L'atmosfera del [[motifs/garden|giardino]] suburbano era in realtà molto limpida,
 soleggiata e piacevole, e [[characters/diana|Diana]] si guardò attorno con una crescente e persino
-strisciante perplessità di fronte ai vasi di fiori allegri e ai prati dorati
+strisciante [[Mystification|perplessità]] di fronte ai vasi di fiori allegri e ai prati dorati
 nella luce della sera.
 
 «Forse è una mia sventura», riprese il maggiore in tono riflessivo.
@@ -10902,7 +10902,7 @@ Si fermò quando vide il suo volto bianco.
 «Sapete cos'è questo posto?» sussurrò lei. «È un manicomio.»
 
 «È un manicomio molto facile da cui fuggire», disse Gale con aria serena.
-«Ho appena visto il professore fuggirne. Fugge regolarmente;
+«Ho appena visto [[The Professor|il professore]] fuggirne. Fugge regolarmente;
 probabilmente il mercoledì e il sabato.»
 
 «Non è il [[motifs/time|momento]] per i vostri scherzi», gridò lei. «Vi dico che siamo
@@ -10922,7 +10922,7 @@ di questo orribile luogo.»
 «Per me sarà sempre un luogo santo», disse. «Non fu forse sotto
 quell'arco laggiù che voi appariste dall'abisso della [[motifs/memory|memoria]]?
 E dopo tutto, è un bel [[motifs/garden|giardino]] e mi dispiace quasi lasciarlo.
-Anche la casa fa da sfondo romantico; e davvero
+Anche la [[house|casa]] fa da sfondo romantico; e davvero
 potremmo stare molto comodi qui... se solo fosse un manicomio.»
 E sospirò con rammarico.
 
@@ -10939,7 +10939,7 @@ le erano vagamente familiari; dietro c'erano due robuste figure,
 evidentemente in «abiti civili», e in mezzo a loro l'inattesa
 apparizione del professor Patterson in manette.
 
-«Colto mentre appiccava il [[motifs/fire|fuoco]] a una casa», disse brevemente l'uomo dai capelli rossi.
+«Colto mentre appiccava il [[motifs/fire|fuoco]] a una [[house|casa]]», disse brevemente l'uomo dai capelli rossi.
 «Documenti di valore.»
 
 Più tardi, in quel tratto sconcertante di ore, gli amici
@@ -10958,7 +10958,7 @@ la pista, perché mi è capitato di indovinare da dove venisse l'idea.
 A proposito, suppongo che questo sia il signore che vi ingaggiò
 come dattilografa.»
 
-Mentre parlava, una piccola figura sveglia uscì a grandi passi dalla casa e attraversò
+Mentre parlava, una piccola figura sveglia uscì a grandi passi dalla [[house|casa]] e attraversò
 i prati; la sua corta barba protesa in avanti con qualcosa del gesto
 di un terrier.
 

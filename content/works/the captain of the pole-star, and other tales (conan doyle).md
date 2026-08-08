@@ -52,6 +52,6 @@ tags:
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[motifs/ship|Ship]], [[motifs/snow|Snow]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/american-civil-war|American Civil War]]
 **Settings:** [[motifs/ship|Ship]], [[settings/america|America]]
-**Archetypes:** [[archetypes/ghost|Ghost]], [[archetypes/outsider|Outsider]]
+**Archetypes:** Ghost, Outsider
 
 **Also relevant to:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]]

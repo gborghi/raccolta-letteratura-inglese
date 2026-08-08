@@ -167,13 +167,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
+**Archetypes:** Trickster, Wise Old Man Sage
 
 **Settings:** [[settings/london|London]]
 
 **Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[characters/christ|Christ]], [[characters/satan|Satan]], [[characters/beatrice|Beatrice]], [[characters/sam-weller|Sam Weller]], [[characters/job|Job]], [[characters/robinson-crusoe|Robinson Crusoe]]
+**Characters:** Christ, Satan, Beatrice, Sam Weller, Job, Robinson Crusoe
 
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/dragon|Dragon]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/joy|Joy]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/original-sin|Original Sin]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/grotesque|Grotesque]], [[concepts/distributism|Distributism]], [[concepts/resurrection|Resurrection]], [[concepts/wonder|Wonder]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/democracy|Democracy]], [[concepts/poverty|Poverty]], [[concepts/vulgarity|Vulgarity]], [[concepts/economics|Economics]], [[concepts/history|History]]

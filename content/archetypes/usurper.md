@@ -17,7 +17,7 @@ tags:
 - [[works/spice-of-life-(chesterton)|Spice Of Life (Chesterton)]]
 - [[works/history-(chesterton)|history (Chesterton)]]
 - [[works/zapolya-a-christmas-tale-in-two-parts-(coleridge)|ZAPOLYA A CHRISTMAS TALE IN TWO PARTS (Coleridge)]]
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#144_king_stephen|King Stephen (Keats)]]
+- [[works/king-stephen-(keats)|King Stephen (Keats)]]
 - [[works/tamerlane-(poe)|Tamerlane (Poe)]]
 - [[works/hamlet-(shakespeare)|HAMLET (Shakespeare)]]
 - [[works/king-john-(shakespeare)|KING JOHN (Shakespeare)]]

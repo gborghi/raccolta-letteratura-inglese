@@ -72,12 +72,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/pastoral-retreat|Pastoral Retreat]], [[topoi/locus-amoenus|Locus Amoenus]], [[topoi/all-the-world's-a-stage|All the World's a Stage]], [[topoi/seven-ages-of-man|Seven Ages of Man]], [[topoi/combat-strife|Combat Strife]]
-**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/fool|Fool]], [[archetypes/outsider|Outsider]]
+**Archetypes:** Lover, Fool, Outsider
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[concepts/nature|Nature]], [[motifs/love|Love]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/exile|Exile]], [[concepts/melancholy|Melancholy]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]]
 **Settings:** [[settings/enchanted-wood-(2)|Enchanted Wood (2)]], [[settings/pastoral-countryside|Pastoral Countryside]], [[settings/court|Court]]
-**Characters:** [[characters/rosalind|Rosalind]], [[characters/orlando|Orlando]], [[characters/celia|Celia]], [[characters/touchstone|Touchstone]], [[characters/jaques|Jaques]], [[characters/duke-senior|Duke Senior]], [[characters/duke-frederick|Duke Frederick]], [[characters/oliver|Oliver]], [[characters/silvius|Silvius]], [[characters/phoebe|Phoebe]]
+**Characters:** Rosalind, Orlando, Celia, Touchstone, Jaques, Duke Senior, Duke Frederick, Oliver, Silvius, Phoebe
 
 ## Testo integrale / Full text
 

@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan" data-author="Keats" data-workhref="works/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet-(keats)"></div>
 
 
-<span class="atom-split" data-atom="014_written_on_the_day_that_mr_leigh_hunt_left_prison" data-title="WRITTEN ON THE DAY THAT MR. LEIGH HUNT LEFT PRISON" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,concept/friendship,concept/the_artist_and_society,concept/imagination,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="014_written_on_the_day_that_mr_leigh_hunt_left_prison" data-title="WRITTEN ON THE DAY THAT MR. LEIGH HUNT LEFT PRISON" data-chapter="" data-kind="intro"></span>
 
 
 What though, for showing [[concepts/truth|truth]] to flatter’d state  
@@ -32,7 +32,7 @@ Took happy flights. Who shall his fame impair
 
 
 
-<span class="atom-split" data-atom="015_how_many_bards_gild_the_lapses_of_time" data-title="HOW MANY BARDS GILD THE LAPSES OF TIME!" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/memory,motif/music_and_song,motif/time,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="015_how_many_bards_gild_the_lapses_of_time" data-title="HOW MANY BARDS GILD THE LAPSES OF TIME!" data-chapter="" data-kind="intro"></span>
 
 
 How many bards gild the lapses of [[motifs/time|time]]!  
@@ -44,7 +44,7 @@ And often, when I sit me down to rhyme,
   But no confusion, no disturbance rude  
 Do they occasion; ’tis a pleasing chime.  
 So the unnumber’d sounds that evening store;  
-  The songs of [[motifs/birds|birds]] — the whisp’ring of the [[motifs/leaves|leaves]] —  
+  The [[songs]] of [[motifs/birds|birds]] — the whisp’ring of the [[motifs/leaves|leaves]] —  
 The voice of waters — the great bell that heaves  
   With solemn sound, — and thousand others more,  
 That distance of recognizance bereaves,  
@@ -53,7 +53,7 @@ That distance of recognizance bereaves,
 
 
 
-<span class="atom-split" data-atom="016_to_a_friend_who_sent_me_some_roses" data-title="TO A FRIEND WHO SENT ME SOME ROSES" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/flowers,motif/nature,concept/friendship,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="016_to_a_friend_who_sent_me_some_roses" data-title="TO A FRIEND WHO SENT ME SOME ROSES" data-chapter="" data-kind="intro"></span>
 
 
 As late I rambled in the happy fields,  
@@ -74,7 +74,7 @@ Soft voices had they, that with tender plea
 
 
 
-<span class="atom-split" data-atom="023_on_leaving_some_friends_at_an_early_hour" data-title="ON LEAVING SOME FRIENDS AT AN EARLY HOUR" data-chapter="" data-kind="intro" data-tags="motif/stars,concept/friendship,concept/imagination,concept/the_sublime,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="023_on_leaving_some_friends_at_an_early_hour" data-title="ON LEAVING SOME FRIENDS AT AN EARLY HOUR" data-chapter="" data-kind="intro"></span>
 
 
 Give me a golden pen, and let me lean  
@@ -90,12 +90,12 @@ The while let music wander round my ears.
     Let me write down a line of glorious tone,  
 And full of many wonders of the spheres:  
   For what a height my spirit is contending!  
-    ’Tis not content so soon to be alone.  
+    ’Tis not content so soon to be [[Alone|alone]].  
 
 
 
 
-<span class="atom-split" data-atom="028_happy_is_england_i_could_be_content" data-title="HAPPY IS ENGLAND! I COULD BE CONTENT" data-chapter="" data-kind="intro" data-tags="concept/nationalism_and_patriotism,concept/beauty,form/sonnet,setting/europe,setting/rural_england,setting/italy,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="028_happy_is_england_i_could_be_content" data-title="HAPPY IS ENGLAND! I COULD BE CONTENT" data-chapter="" data-kind="intro"></span>
 
 
 Happy is England! I could be content  
@@ -116,7 +116,7 @@ And float with them about the [[motifs/summer|summer]] waters.
 
 
 
-<span class="atom-split" data-atom="043_fill_for_me_a_brimming_bowl" data-title="Fill for me a brimming bowl" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/wine_and_drink,motif/memory,motif/eyes_sight,concept/unrequited_love,concept/melancholy,form/lyric,histref/greek_mythology,setting/the_underworld,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="043_fill_for_me_a_brimming_bowl" data-title="Fill for me a brimming bowl" data-chapter="" data-kind="intro"></span>
 
 
 Fill for me a brimming bowl  
@@ -154,7 +154,7 @@ August 1814
 
 
 
-<span class="atom-split" data-atom="064_lines" data-title="Lines" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/sleep,motif/dawn,concept/lust,concept/love_romantic,concept/beauty,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="064_lines" data-title="Lines" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -184,7 +184,7 @@ For all the blushing of the hasty mom.
 
 
 
-<span class="atom-split" data-atom="075_sonnet_when_i_have_fears_that_i_may_cease_to_be" data-title="Sonnet: When I have fears that I may cease to be" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/letters_writing,motif/stars,concept/mortality,concept/transience,concept/ambition,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="075_sonnet_when_i_have_fears_that_i_may_cease_to_be" data-title="Sonnet: When I have fears that I may cease to be" data-chapter="" data-kind="intro"></span>
 
 
 When I have fears that I may cease to be  
@@ -192,20 +192,20 @@ Before my pen has glean’d my teeming brain,
 Before high-piled books, in charactery,’  
 Hold like rich gamers the full ripen’d grain;  
 When I behold, upon the [[motifs/night|night]]’s starr’d face,  
-Huge cloudy symbols of a high romance,  
+Huge cloudy symbols of a high [[Romance|romance]],  
 And think that I may never live to trace  
-Their shadows, with the magic hand of chance;  
+Their shadows, with the [[Magic|magic]] hand of chance;  
 And when I feel, fair creature of an hour,  
 That I shall never look upon thee more,  10  
 Never have relish in the faery power  
 Of unreflecting [[motifs/love|love]]; - then on the shore  
-Of the wide world I stand alone, and think  
+Of the wide world I stand [[Alone|alone]], and think  
 Till [[motifs/love|love]] and fame to nothingness do sink.  
 
 
 
 
-<span class="atom-split" data-atom="084_o_were_i_one_of_the_olympian_twelve" data-title="O! Were I one of the Olympian twelve" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,topos/the_quest,motif/desire,concept/love_romantic,concept/beauty,form/fragment,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="084_o_were_i_one_of_the_olympian_twelve" data-title="O! Were I one of the Olympian twelve" data-chapter="" data-kind="intro"></span>
 
 
 O! Were I one of the Olympian twelve,  
@@ -223,7 +223,7 @@ To melt away upon the traveller’s lips.
 
 
 
-<span class="atom-split" data-atom="088_song_the_stranger_lighted_from_his_steed" data-title="Song: The stranger lighted from his steed" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/rose,concept/desire,concept/love_romantic,form/song,form/ballad,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="088_song_the_stranger_lighted_from_his_steed" data-title="Song: The stranger lighted from his steed" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -260,7 +260,7 @@ My sudden adoration, my great [[motifs/love|love]]!
 
 
 
-<span class="atom-split" data-atom="090_sonnet_to_homer" data-title="Sonnet to Homer" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/light_and_dark,motif/eyes_sight,motif/the_sea,concept/immortality_of_art,form/sonnet,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="090_sonnet_to_homer" data-title="Sonnet to Homer" data-chapter="" data-kind="intro"></span>
 
 
 Standing aloof in giant ignorance,  
@@ -282,7 +282,7 @@ To Dian, [[characters/queen|Queen]] of Earth, and Heaven, and Hell.
 
 
 
-<span class="atom-split" data-atom="093_the_devon_maid" data-title="The Devon Maid" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/nature,concept/desire,concept/love_romantic,form/song,setting/pastoral_countryside,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="093_the_devon_maid" data-title="The Devon Maid" data-chapter="" data-kind="intro"></span>
 
 
 Stanzas sent in a letter to B. R. Haydon  
@@ -314,12 +314,12 @@ And kiss on a grass green pillow.
 
 
 
-<span class="atom-split" data-atom="098_sonnet_on_visiting_the_tomb_of_burns" data-title="Sonnet on Visiting the Tomb of Burns" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/mortality,concept/melancholy,concept/beauty,concept/transience,form/sonnet,setting/scotland,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="098_sonnet_on_visiting_the_tomb_of_burns" data-title="Sonnet on Visiting the Tomb of Burns" data-chapter="" data-kind="intro"></span>
 
 
 The town, the churchyard, and the setting sun,  
 The clouds, the trees, the rounded hills all seem,  
-Though beautiful, cold - strange - as in a dream,  
+Though beautiful, cold - strange - as in [[A Dream|a dream]],  
 I dreamed long ago, now new begun.  
 The short-liv’d, paly [[motifs/summer|summer]] is but won  
 From [[motifs/winter|winter]]’s ague, for one hour’s gleam;  
@@ -335,12 +335,12 @@ Thy face; I sin against thy native skies.
 
 
 
-<span class="atom-split" data-atom="103_sonnet_written_in_the_cottage_where_burns_was_born" data-title="Sonnet Written in the Cottage where Burns was Born" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/wine_and_drink,concept/mortality,concept/melancholy,form/sonnet,setting/scotland,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="103_sonnet_written_in_the_cottage_where_burns_was_born" data-title="Sonnet Written in the Cottage where Burns was Born" data-chapter="" data-kind="intro"></span>
 
 
 This mortal [[concepts/body|body]] of a thousand days  
 Now fills, O Burns, a space in thine own room,  
-Where thou didst dream alone on budded bays,  
+Where thou didst dream [[Alone|alone]] on budded bays,  
 Happy and thoughtless of thy day of doom!  
 My pulse is warm with thine own barley-bree,  
 My head is light with pledging a great [[motifs/soul|soul]],  
@@ -357,7 +357,7 @@ O smile among the shades, for this is fame!
 
 
 
-<span class="atom-split" data-atom="110_translation_from_a_sonnet_of_ronsard" data-title="Translation from a Sonnet of Ronsard" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/fire,concept/beauty,concept/love_romantic,form/sonnet,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="110_translation_from_a_sonnet_of_ronsard" data-title="Translation from a Sonnet of Ronsard" data-chapter="" data-kind="intro"></span>
 
 
 [[concepts/nature|Nature]] withheld Cassandra in the skies,  
@@ -377,7 +377,7 @@ They were my pleasures - they my life’s sad end;
 
 
 
-<span class="atom-split" data-atom="115_ode_to_fanny" data-title="Ode to Fanny" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/flowers,concept/love_romantic,concept/jealousy,concept/unrequited_love,form/ode,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="115_ode_to_fanny" data-title="Ode to Fanny" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -436,7 +436,7 @@ To one who loves you as I [[motifs/love|love]], sweet Fanny!
 Whose heart goes fluttering for you everywhere,  
 Nor, when away you roam,  
 Dare keep its wretched [[motifs/home|home]],  
-[[motifs/love|Love]], [[motifs/love|love]] alone, his pains severe and many:  
+[[motifs/love|Love]], [[motifs/love|love]] [[Alone|alone]], his pains severe and many:  
 Then, loveliest! keep me free,  
 From torturing [[concepts/jealousy|jealousy]].  
 
@@ -453,12 +453,12 @@ If not - may my eyes close,
 
 
 
-<span class="atom-split" data-atom="117_song_hush_hush_tread_softly_hush_hush_my_dear" data-title="Song: Hush, hush! tread softly! hush, hush my dear!" data-chapter="" data-kind="intro" data-tags="motif/night,motif/rose,motif/moon,concept/desire,concept/love_romantic,form/song,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="117_song_hush_hush_tread_softly_hush_hush_my_dear" data-title="Song: Hush, hush! tread softly! hush, hush my dear!" data-chapter="" data-kind="intro"></span>
 
 
 I  
 Hush, hush! tread softly! hush, hush my dear!  
-All the house is asleep, but we know very [[motifs/well|well]]  
+All the [[house]] is asleep, but we know very [[motifs/well|well]]  
 That the jealous, the jealous old bald-pate may hear,  
 Tho’ you’ve padded his nightcap - O sweet Isabel!  
 Tho’ your feet are more light than a Fairy’s feet,  
@@ -489,7 +489,7 @@ While I kiss to the melody, aching all through!
 
 
 
-<span class="atom-split" data-atom="121_sonnet" data-title="Sonnet:" data-chapter="" data-kind="intro" data-tags="topos/katabasis_descent,motif/dreams,motif/storm,concept/love_romantic,form/sonnet,histref/dante,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="121_sonnet" data-title="Sonnet:" data-chapter="" data-kind="intro"></span>
 
 
 As Hermes once took to his feathers light,  
@@ -502,7 +502,7 @@ Not to pure Ida’ with its [[motifs/snow|snow]]-cold skies,
 Nor unto Tempe where Jove griev’d a day;  
 But to that second circle of sad hell,  
 Where ‘mid the gust, the whirlwind, and the flaw 10  
-Of rain and hailstones, lovers need not tell  
+Of rain and hailstones, [[lovers]] need not tell  
 Their sorrows. Pale were the sweet lips I saw,  
 Pale were the lips I kiss’d, and fair the form  
 I floated with, about that [[concepts/melancholy|melancholy]] [[motifs/storm|storm]].  
@@ -510,7 +510,7 @@ I floated with, about that [[concepts/melancholy|melancholy]] [[motifs/storm|sto
 
 
 
-<span class="atom-split" data-atom="127_fame_like_a_wayward_giri_will_still_be_coy" data-title="Fame, like a wayward Giri, will still be coy" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,concept/ambition,concept/the_artist_and_society,form/sonnet,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="127_fame_like_a_wayward_giri_will_still_be_coy" data-title="Fame, like a wayward Giri, will still be coy" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -533,7 +533,7 @@ Then, if she likes it, she will follow you.
 
 
 
-<span class="atom-split" data-atom="128_how_feverd_is_the_man_who_cannot_look" data-title="How fever’d is the man, who cannot look" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/nature,concept/mortality,concept/humility,concept/grace_and_redemption,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="128_how_feverd_is_the_man_who_cannot_look" data-title="How fever’d is the man, who cannot look" data-chapter="" data-kind="intro"></span>
 
 
 You cannot eat your cake and have it too. - Proverb  
@@ -557,7 +557,7 @@ Spoil his salvation for a fierce miscreed?
 
 
 
-<span class="atom-split" data-atom="129_sonnet_on_the_sonnet" data-title="Sonnet on the Sonnet" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/imagination,concept/the_artist_and_society,form/sonnet,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="129_sonnet_on_the_sonnet" data-title="Sonnet on the Sonnet" data-chapter="" data-kind="intro"></span>
 
 
 If by dull rhymes our English must be chain’d,  
@@ -578,7 +578,7 @@ She will be bound with garlands of her own.
 
 
 
-<span class="atom-split" data-atom="131_you_say_you_love" data-title="You Say You Love" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/fire,concept/unrequited_love,concept/love_romantic,concept/lust,form/song,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="131_you_say_you_love" data-title="You Say You Love" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -612,14 +612,14 @@ O [[motifs/love|love]] me truly!
 V  
 O breathe a word or two of [[motifs/fire|fire]]!  
 Smile, as if those words should burn me,  
-Squeeze as lovers should - O kiss  
+Squeeze as [[lovers]] should - O kiss  
 And in thy heart inurn me!  
 O [[motifs/love|love]] me truly!  
 
 
 
 
-<span class="atom-split" data-atom="135_sonnet_to_fanny" data-title="Sonnet to Fanny" data-chapter="" data-kind="intro" data-tags="concept/love_romantic,concept/lust,concept/jealousy,concept/self_and_soul,concept/ambition,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="135_sonnet_to_fanny" data-title="Sonnet to Fanny" data-chapter="" data-kind="intro"></span>
 
 
 I cry your [[concepts/mercy|mercy]] - pity - [[motifs/love|love]]! - aye, [[motifs/love|love]]!  

@@ -14,16 +14,16 @@ tags:
 <span class="atom-split" data-atom="intro" data-title="VARIOUS POEMS" data-chapter="" data-kind="intro"></span>
 
 
-VARIOUS POEMS  
-A POET like Shakespeare may frequently have been asked to write verses for a variety of occasions, and it is entirely possible that he is the author of song lyrics and other short poems published without attribution or attributed only to ‘W.S.’ The poems in this section (arranged in an approximate chronological order) were all explicitly ascribed to him either in his lifetime or not long afterwards. Because they are short it is impossible to be sure, on stylistic grounds alone, of Shakespeare’s authorship; but none of the poems is ever attributed during the period to anyone else.  
-‘Shall I die?’ is transcribed, with Shakespeare’s name appended, in a manuscript collection of poems, dating probably from the late 1630s, which is now in the Bodleian Library, [[settings/oxford|Oxford]]; another, unascribed version is in the Beinecke Library, Yale University. The poem exhibits many parallels with plays and poems that Shakespeare wrote about 1593-5. Its stanza form has not been found elsewhere in the period, but most closely resembles Robin Goodfellow’s lines spoken over the sleeping [[characters/lysander|Lysander]] (A Midsummer [[motifs/night|Night]]’s Dream, 3.2.36-46). Extended over nine stanzas it becomes a virtuoso exercise: every third word rhymes. The case for supporting the seventeenth-century ascription to Shakespeare was strongly made when the [[settings/oxford|Oxford]] edition first appeared. It has been hotly, often acrimoniously contested and remains a matter for debate, but the [[settings/oxford|Oxford]] manuscript is generally reliable, and if the poem is of no great consequence, that might explain why it did not reach print.  
+VARIOUS [[Poems|POEMS]]  
+A POET like Shakespeare may frequently have been asked to write verses for a variety of occasions, and it is entirely possible that he is the author of [[Song|song]] lyrics and other short [[Poems|poems]] published without attribution or attributed only to ‘W.S.’ The [[Poems|poems]] in this section (arranged in an approximate chronological order) were all explicitly ascribed to him either in his lifetime or not long afterwards. Because they are short it is impossible to be sure, on stylistic grounds [[Alone|alone]], of Shakespeare’s authorship; but none of the [[Poems|poems]] is ever attributed during the period to anyone else.  
+‘Shall I die?’ is transcribed, with Shakespeare’s name appended, in a manuscript collection of [[Poems|poems]], dating probably from the late 1630s, which is now in the Bodleian Library, [[settings/oxford|Oxford]]; another, unascribed version is in the Beinecke Library, Yale University. The poem exhibits many parallels with plays and [[Poems|poems]] that Shakespeare wrote about 1593-5. Its stanza form has not been found elsewhere in the period, but most closely resembles Robin Goodfellow’s lines spoken over the sleeping [[characters/lysander|Lysander]] (A Midsummer [[motifs/night|Night]]’s Dream, 3.2.36-46). Extended over nine stanzas it becomes a virtuoso exercise: every third word rhymes. The case for supporting the seventeenth-century ascription to Shakespeare was strongly made when the [[settings/oxford|Oxford]] edition first appeared. It has been hotly, often acrimoniously contested and remains a matter for [[debate]], but the [[settings/oxford|Oxford]] manuscript is generally reliable, and if the poem is of no great consequence, that might explain why it did not reach print.  
 Perhaps the most trivial verse ever ascribed to a great poet is the ‘posy’ said to have accompanied a pair of gloves given by a Stratford schoolmaster, Alexander Aspinall, to his second wife, whom he married in 1594. The ascription is found in a manuscript compiled by Sir Francis Fane of Bulbeck (1611-80).  
-In 1599 William Jaggard published a collection of poems, which he ascribed to Shakespeare, under the title The Passionate [[archetypes/pilgrim|Pilgrim]]. It includes versions of two of Shakespeare’s Sonnets (which we print as Alternative Versions), three extracts from [[motifs/love|Love]]’s Labour’s Lost, which had already appeared in print, several poems known to be by other poets, and eleven poems of unknown authorship. A reprint of 1612 added nine poems by Thomas Heywood, who promptly protested against the ‘manifest injury’ done to him by printing his poems ‘in a less volume, under the name of another, which may put the world in opinion I might steal them from him ... But as I must acknowledge my lines not worthy his patronage under whom he hath published them, so the author I know much offended with Master Jaggard that, altogether unknown to him, presumed to make so bold with his name.’ Probably as a result, the original title-page of the 1612 edition was replaced with one that did not mention Shakespeare’s name. We print below the poems of unknown authorship since the attribution to Shakespeare has not been disproved.  
+In 1599 William Jaggard published a collection of [[Poems|poems]], which he ascribed to Shakespeare, under the title The Passionate [[archetypes/pilgrim|Pilgrim]]. It includes versions of two of Shakespeare’s Sonnets (which we print as Alternative Versions), three extracts from [[motifs/love|Love]]’s Labour’s Lost, which had already appeared in print, several [[Poems|poems]] known to be by other poets, and eleven [[Poems|poems]] of unknown authorship. A reprint of 1612 added nine [[Poems|poems]] by Thomas Heywood, who promptly protested against the ‘manifest injury’ done to him by printing his [[Poems|poems]] ‘in a less volume, under the name of another, which may put the world in opinion I might steal them from him ... But as I must acknowledge my lines not worthy his patronage under whom he hath published them, so the author I know much offended with Master Jaggard that, altogether unknown to him, presumed to make so bold with his name.’ Probably as a result, the original title-page of the 1612 edition was replaced with one that did not mention Shakespeare’s name. We print below the [[Poems|poems]] of unknown authorship since the attribution to Shakespeare has not been disproved.  
 The finest poem in this section, ‘The Phoenix and Turtle’, was ascribed to Shakespeare in 1601 when it appeared, without title, as one of the ‘Poetical Essays’ appended to Robert Chester’s [[motifs/love|Love]]’s Martyr: or [[characters/rosalind|Rosalind]]’s Complaint, which is described as ‘allegorically shadowing the [[concepts/truth|truth]] of [[motifs/love|love]] in the constant fate of the phoenix and turtle’. Since the early nineteenth century it has been known as ‘The Phoenix and the Turtle’ or (following the title-page) ‘The Phoenix and Turtle’. An incantatory [[forms/elegy|elegy]], it may [[motifs/well|well]] have irrecoverable allegorical significance. Chester’s poem appears to have been composed as a compliment to his patrons, Sir John and Lady Ursula Salusbury. Although we know of no direct link between Shakespeare and the Salusburys, Lady Ursula was a half-sister of Ferdinando Stanley, Lord Strange, whose theatrical company performed [[characters/titus-andronicus|Titus Andronicus]] and 1 [[characters/henry-vi|Henry VI]] early in Shakespeare’s career.  
 It is not clear whether the two stanzas engraved at opposite ends of the Stanley tomb in the parish church of Tong, in Shropshire, constitute one epitaph or two. Their most likely subject is Sir Thomas Stanley (d. 1576), Ferdinando’s uncle. The stanzas are ascribed to Shakespeare in two manuscript miscellanies of the 1630s and by the antiquary Sir William Dugdale in a manuscript appended to his Visitation of Shropshire in 1664.  
 The satirical completion of an epitaph on Ben Jonson (written during his lifetime) is ascribed to Shakespeare in two different seventeenth-century manuscripts.  
 Shakespeare probably knew Elias James (c. 1578-1610), who managed a brewery in the Blackfriars district of [[settings/london|London]]. His epitaph is ascribed to Shakespeare in the same [[settings/oxford|Oxford]] manuscript as ‘Shall I die?’  
-The Combe family of Stratford-upon-Avon were friends of Shakespeare. He bequeathed his sword to one of them, and John Combe, who died in 1614, left Shakespeare £5. Several mock epitaphs similar to the first epitaph on John Combe have survived, one (on an unnamed usurer) printed as early as 1608; later versions mention three other men as the usurer. Shakespeare may have adapted some existing lines; or some existing lines may have been adapted anonymously in Stratford, and later attributed to Stratford’s most famous poet. The ascription to him dates from 1634, and is supported by four other seventeenth-century manuscripts. The second Combe epitaph is found in only one manuscript; it seems entirely original, and alludes to a bequest to the poor made in Combe’s will.  
+The Combe family of Stratford-upon-Avon were friends of Shakespeare. He bequeathed his [[Sword|sword]] to one of them, and John Combe, who died in 1614, left Shakespeare £5. Several mock epitaphs similar to the first epitaph on John Combe have survived, one (on an unnamed usurer) printed as early as 1608; later versions mention three other men as the usurer. Shakespeare may have adapted some existing lines; or some existing lines may have been adapted anonymously in Stratford, and later attributed to Stratford’s most famous poet. The ascription to him dates from 1634, and is supported by four other seventeenth-century manuscripts. The second Combe epitaph is found in only one manuscript; it seems entirely original, and alludes to a bequest to the poor made in Combe’s will.  
 The lines on [[archetypes/king|King]] James first appear, unattributed, beneath an engraving of the [[archetypes/king|King]] printed as the frontispiece to the 1616 edition of his works. They are attributed to Shakespeare—the leading writer of the theatre company of which [[archetypes/king|King]] James was patron—in at least two seventeenth-century manuscripts; the same attribution was recorded in a printed broadside now apparently lost.  
 Shakespeare’s own epitaph is written in the first person; the tradition that he composed it himself is recorded in several manuscripts from the middle to the late seventeenth century.  
 
@@ -32,7 +32,7 @@ Various [[works/poems-(chesterton)|Poems]]
 A [[works/song-(poe)|Song]]  
 1  
 Shall I die? Shall I fly  
-Lovers’ baits and deceits,  
+[[lovers|Lovers]]’ baits and deceits,  
 sorrow breeding?  
 Shall I tend? Shall I send?  
 Shall I sue, and not rue  
@@ -67,7 +67,7 @@ Sure will not seem to blot
 Her deserts, wronging him doth her duty.  
 
 4  
-In a dream it did seem—  
+In [[A Dream|a dream]] it did seem—  
 But alas, [[motifs/dreams|dreams]] do pass  
 as do shadows—  
 I did walk, I did talk  
@@ -209,7 +209,7 @@ Here in these brakes deep-wounded with a boar,
 Deep in the thigh, a spectacle of ruth.  
 See in my thigh,’ quoth she, ‘here was the sore.’  
 She showed hers; he saw more wounds than one,  
-And blushing fled, and left her all alone.  
+And blushing fled, and left her all [[Alone|alone]].  
 
 10  
 Sweet [[motifs/rose|rose]], fair flower, untimely plucked, soon faded—  
@@ -315,7 +315,7 @@ Alas, she could not help it.
 Thus art with arms contending was victor of the day,  
 Which by a gift of learning did bear the maid away.  
 Then lullaby, the learned man hath got the lady gay;  
-For now my song is ended.  
+For now my [[Song|song]] is ended.  
 
 17  
 My flocks feed not, my ewes breed not,  
@@ -354,7 +354,7 @@ All our evening sport from us is fled,
 All our [[motifs/love|love]] is lost, for [[motifs/love|love]] is dead.  
 Farewell, sweet lass, thy like ne’er was  
 For a sweet content, the cause of all my moan.  
-Poor Corydon must live alone,  
+Poor Corydon must live [[Alone|alone]],  
 Other help for him I see that there is none.  
 
 18  
@@ -415,7 +415,7 @@ Were kisses all the joys in bed,
 One woman would another wed.  
 
 But soft, enough—too much, I [[concepts/fear|fear]],  
-Lest that my mistress hear my song  
+Lest that my mistress hear my [[Song|song]]  
 She will not stick to round me on th’ear  
 To teach my tongue to be so long.  
 Yet will she blush (here be it said)  
@@ -642,25 +642,25 @@ Lords, Ladies, Gentlemen, Aldermen, Citizens, Prentices, Servingmen, Warders of 
 
 <span class="qlang-split" data-lang="it"></span>
 
-POESIE VARIE  
-A un POETA come Shakespeare sarà stato chiesto spesso di scrivere versi per le occasioni più varie, ed è del tutto possibile che sia lui l’autore di testi di canzone e di altre brevi poesie pubblicate senza attribuzione o attribuite soltanto a ‘W.S.’ Le poesie raccolte in questa sezione (disposte in un ordine cronologico approssimativo) gli furono tutte esplicitamente ascritte o mentre era in vita o non molto dopo. Poiché sono brevi, è impossibile essere certi, sul solo fondamento dello stile, della paternità shakespeariana; ma nessuna di queste poesie è mai attribuita, in quel periodo, a qualcun altro.  
-‘Shall I die?’ è trascritta, col nome di Shakespeare in calce, in una raccolta manoscritta di poesie che risale probabilmente alla fine degli anni Trenta del Seicento e che si trova ora nella Bodleian Library di [[settings/oxford|Oxford]]; un’altra versione, senza attribuzione, è nella Beinecke Library della Yale University. La poesia presenta molti riscontri con drammi e poesie che Shakespeare scrisse intorno al 1593-5. La sua forma strofica non è stata trovata altrove in quel periodo, ma somiglia più da vicino ai versi che Robin Goodfellow pronuncia sopra [[characters/lysander|Lisandro]] addormentato (Sogno di una [[motifs/night|notte]] di mezza estate, 3.2.36-46). Prolungata per nove strofe, diventa un esercizio di virtuosismo: ogni terza parola rima. Le ragioni a sostegno dell’attribuzione seicentesca a Shakespeare furono esposte con vigore quando l’edizione di [[settings/oxford|Oxford]] apparve la prima volta. Sono state contestate aspramente, spesso con acrimonia, e restano materia di discussione; ma il manoscritto di [[settings/oxford|Oxford]] è in genere attendibile, e se la poesia non è di gran conto, ciò potrebbe spiegare perché non giunse alla stampa.  
+[[Poems|POESIE]] VARIE  
+A un POETA come Shakespeare sarà stato chiesto spesso di scrivere versi per le occasioni più varie, ed è del tutto possibile che sia lui l’autore di testi di [[Song|canzone]] e di altre brevi [[Poems|poesie]] pubblicate senza attribuzione o attribuite soltanto a ‘W.S.’ Le [[Poems|poesie]] raccolte in questa sezione (disposte in un ordine cronologico approssimativo) gli furono tutte esplicitamente ascritte o mentre era in vita o non molto dopo. Poiché sono brevi, è impossibile essere certi, sul [[Alone|solo]] fondamento dello stile, della paternità shakespeariana; ma nessuna di queste [[Poems|poesie]] è mai attribuita, in quel periodo, a qualcun altro.  
+‘Shall I die?’ è trascritta, col nome di Shakespeare in calce, in una raccolta manoscritta di [[Poems|poesie]] che risale probabilmente alla fine degli anni Trenta del Seicento e che si trova ora nella Bodleian Library di [[settings/oxford|Oxford]]; un’altra versione, senza attribuzione, è nella Beinecke Library della Yale University. La poesia presenta molti riscontri con drammi e [[Poems|poesie]] che Shakespeare scrisse intorno al 1593-5. La sua forma strofica non è stata trovata altrove in quel periodo, ma somiglia più da vicino ai versi che Robin Goodfellow pronuncia sopra [[characters/lysander|Lisandro]] addormentato (Sogno di una [[motifs/night|notte]] di mezza estate, 3.2.36-46). Prolungata per nove strofe, diventa un esercizio di virtuosismo: ogni terza parola rima. Le ragioni a sostegno dell’attribuzione seicentesca a Shakespeare furono esposte con vigore quando l’edizione di [[settings/oxford|Oxford]] apparve la prima volta. Sono state contestate aspramente, spesso con acrimonia, e restano materia di [[debate|discussione]]; ma il manoscritto di [[settings/oxford|Oxford]] è in genere attendibile, e se la poesia non è di gran conto, ciò potrebbe spiegare perché non giunse alla stampa.  
 Forse i versi più insignificanti mai ascritti a un grande poeta sono il ‘motto’ che si dice accompagnasse un paio di guanti donati da un maestro di scuola di Stratford, Alexander Aspinall, alla sua seconda moglie, che sposò nel 1594. L’attribuzione si trova in un manoscritto compilato da Sir Francis Fane di Bulbeck (1611-80).  
-Nel 1599 William Jaggard pubblicò una raccolta di poesie, che ascrisse a Shakespeare, col titolo The Passionate [[archetypes/pilgrim|Pilgrim]]. Vi si trovano versioni di due Sonetti di Shakespeare (che stampiamo come Versioni alternative), tre estratti da [[motifs/love|Pene]] d’amore perdute, già apparse a stampa, parecchie poesie che si sanno di altri poeti, e undici poesie di autore ignoto. Una ristampa del 1612 vi aggiunse nove poesie di Thomas Heywood, il quale protestò subito contro la ‘manifesta ingiuria’ fattagli stampando le sue poesie ‘in un volume minore, sotto il nome d’un altro, il che può far credere al mondo ch’io le abbia rubate a lui ... Ma come devo riconoscere che i miei versi non sono degni di colui sotto il cui patrocinio egli li ha pubblicati, così so che l’autore è molto offeso con Master Jaggard, il quale, del tutto a lui ignoto, ha osato prendersi tanta libertà col suo nome.’ Probabilmente in conseguenza di ciò, il frontespizio originale dell’edizione del 1612 fu sostituito con uno che non faceva il nome di Shakespeare. Stampiamo qui sotto le poesie di autore ignoto, poiché l’attribuzione a Shakespeare non è stata smentita.  
+Nel 1599 William Jaggard pubblicò una raccolta di [[Poems|poesie]], che ascrisse a Shakespeare, col titolo The Passionate [[archetypes/pilgrim|Pilgrim]]. Vi si trovano versioni di due Sonetti di Shakespeare (che stampiamo come Versioni alternative), tre estratti da [[motifs/love|Pene]] d’amore perdute, già apparse a stampa, parecchie [[Poems|poesie]] che si sanno di altri poeti, e undici [[Poems|poesie]] di autore ignoto. Una ristampa del 1612 vi aggiunse nove [[Poems|poesie]] di Thomas Heywood, il quale protestò subito contro la ‘manifesta ingiuria’ fattagli stampando le sue [[Poems|poesie]] ‘in un volume minore, sotto il nome d’un altro, il che può far credere al mondo ch’io le abbia rubate a lui ... Ma come devo riconoscere che i miei versi non sono degni di colui sotto il cui patrocinio egli li ha pubblicati, così so che l’autore è molto offeso con Master Jaggard, il quale, del tutto a lui ignoto, ha osato prendersi tanta libertà col suo nome.’ Probabilmente in conseguenza di ciò, il frontespizio originale dell’edizione del 1612 fu sostituito con uno che non faceva il nome di Shakespeare. Stampiamo qui sotto le [[Poems|poesie]] di autore ignoto, poiché l’attribuzione a Shakespeare non è stata smentita.  
 La poesia più bella di questa sezione, ‘The Phoenix and Turtle’, fu ascritta a Shakespeare nel 1601, quando apparve, senza titolo, come uno dei ‘Poetical Essays’ aggiunti in appendice a [[motifs/love|Love]]’s Martyr: or [[characters/rosalind|Rosalind]]’s Complaint di Robert Chester, che è descritto come opera ‘che adombra allegoricamente la [[concepts/truth|verità]] dell’[[motifs/love|amore]] nella costante sorte della fenice e della tortora’. Dal principio dell’Ottocento è nota come ‘The Phoenix and the Turtle’ o (seguendo il frontespizio) ‘The Phoenix and Turtle’. [[forms/elegy|Elegia]] incantatoria, essa può [[motifs/well|ben]] avere un significato allegorico ormai irrecuperabile. Il poema di Chester pare composto come omaggio ai suoi patroni, Sir John e Lady Ursula Salusbury. Benché non si conosca alcun legame diretto fra Shakespeare e i Salusbury, Lady Ursula era sorellastra di Ferdinando Stanley, Lord Strange, la cui compagnia teatrale rappresentò il [[characters/titus-andronicus|Tito Andronico]] e la prima parte dell’[[characters/henry-vi|Enrico VI]] agli inizi della carriera di Shakespeare.  
 Non è chiaro se le due stanze incise alle estremità opposte della tomba degli Stanley nella chiesa parrocchiale di Tong, nello Shropshire, costituiscano un solo epitaffio o due. Il loro soggetto più probabile è Sir Thomas Stanley (m. 1576), zio di Ferdinando. Le stanze sono ascritte a Shakespeare in due miscellanee manoscritte degli anni Trenta del Seicento e dall’antiquario Sir William Dugdale in un manoscritto aggiunto alla sua Visitation of Shropshire nel 1664.  
 Il completamento satirico di un epitaffio su Ben Jonson (scritto mentre egli era ancora vivo) è ascritto a Shakespeare in due diversi manoscritti seicenteschi.  
 Shakespeare conobbe probabilmente Elias James (c. 1578-1610), che dirigeva una birreria nel quartiere di Blackfriars a [[settings/london|Londra]]. Il suo epitaffio è ascritto a Shakespeare nello stesso manoscritto di [[settings/oxford|Oxford]] che contiene ‘Shall I die?’  
-La famiglia Combe di Stratford-upon-Avon era amica di Shakespeare. Egli lasciò in eredità la sua spada a uno di loro, e John Combe, morto nel 1614, lasciò a Shakespeare £5. Parecchi epitaffi burleschi simili al primo epitaffio su John Combe sono sopravvissuti, uno dei quali (su un usuraio senza nome) stampato già nel 1608; versioni posteriori nominano altri tre uomini come usuraio. Shakespeare può aver adattato versi già esistenti; oppure versi già esistenti possono essere stati adattati anonimamente a Stratford, e più tardi attribuiti al più famoso poeta di Stratford. L’attribuzione a lui risale al 1634, ed è sostenuta da altri quattro manoscritti seicenteschi. Il secondo epitaffio su Combe si trova in un solo manoscritto; sembra del tutto originale, e allude a un lascito ai poveri contenuto nel testamento di Combe.  
+La famiglia Combe di Stratford-upon-Avon era amica di Shakespeare. Egli lasciò in eredità la sua [[Sword|spada]] a uno di loro, e John Combe, morto nel 1614, lasciò a Shakespeare £5. Parecchi epitaffi burleschi simili al primo epitaffio su John Combe sono sopravvissuti, uno dei quali (su un usuraio senza nome) stampato già nel 1608; versioni posteriori nominano altri tre uomini come usuraio. Shakespeare può aver adattato versi già esistenti; oppure versi già esistenti possono essere stati adattati anonimamente a Stratford, e più tardi attribuiti al più famoso poeta di Stratford. L’attribuzione a lui risale al 1634, ed è sostenuta da altri quattro manoscritti seicenteschi. Il secondo epitaffio su Combe si trova in un solo manoscritto; sembra del tutto originale, e allude a un lascito ai poveri contenuto nel testamento di Combe.  
 I versi sul [[archetypes/king|re]] Giacomo compaiono la prima volta, senza attribuzione, sotto un’incisione del [[archetypes/king|Re]] stampata come antiporta all’edizione del 1616 delle sue opere. Sono attribuiti a Shakespeare—il primo scrittore della compagnia teatrale di cui [[archetypes/king|re]] Giacomo era patrono—in almeno due manoscritti seicenteschi; la stessa attribuzione era registrata in un foglio volante a stampa oggi apparentemente perduto.  
 L’epitaffio dello stesso Shakespeare è scritto in prima persona; la tradizione secondo cui lo compose egli stesso è registrata in parecchi manoscritti dalla metà alla fine del Seicento.  
 
-Poesie varie  
+[[Poems|Poesie]] varie  
 
-Una Canzone  
+Una [[Song|Canzone]]  
 1  
 Morirò? Fuggirò  
-l’esche e gli inganni degli amanti,  
+l’esche e gli inganni degli [[lovers|amanti]],  
 che pena generano?  
 Attenderò? Manderò?  
 Supplicherò, né dorrò  
@@ -695,7 +695,7 @@ certo non vorrà macchiare
 i suoi meriti, offendendo chi le rende omaggio.  
 
 4  
-In un sogno mi parve—  
+In [[A Dream|un sogno]] mi parve—  
 ma ahimè, i [[motifs/dreams|sogni]] passano  
 come passano le ombre—  
 ch’io andassi, ch’io parlassi  
@@ -771,7 +771,7 @@ Il dono è piccolo,
 la volontà è tutto:  
 Alexander Aspinall  
 
-Poesie da The Passionate [[archetypes/pilgrim|Pilgrim]]  
+[[Poems|Poesie]] da The Passionate [[archetypes/pilgrim|Pilgrim]]  
 4  
 Dolce Citerea, sedendo presso un ruscello  
 col giovane [[characters/adonis|Adone]], vago, fresco e acerbo,  
@@ -837,7 +837,7 @@ qui fra questi roveti ferito a fondo da un cinghiale,
 fondo nella coscia, spettacolo di pietà.  
 Guarda nella mia coscia,’ disse, ‘qui era la piaga.’  
 Mostrò la sua; ei vide più d’una ferita,  
-e arrossendo fuggì, e la lasciò tutta sola.  
+e arrossendo fuggì, e la lasciò tutta [[Alone|sola]].  
 
 10  
 Dolce [[motifs/rose|rosa]], bel fiore, colto anzitempo, presto appassito—  
@@ -943,7 +943,7 @@ ahimè, ella non poté farci nulla.
 Così l’arte, contendendo con l’armi, fu vincitrice del giorno,  
 e con un dono di dottrina si portò via la fanciulla.  
 E dunque ninna nanna: il dotto ha avuto la gaia signora;  
-ché ora la mia canzone è finita.  
+ché ora la mia [[Song|canzone]] è finita.  
 
 17  
 Le mie greggi non pascono, le pecore non figliano,  
@@ -982,7 +982,7 @@ ogni nostro gioco serale è fuggito da noi,
 ogni nostro [[motifs/love|amore]] è perduto, ché [[motifs/love|amore]] è morto.  
 Addio, dolce fanciulla, la tua pari non fu mai  
 per dolce contento, cagione d’ogni mio lamento.  
-Il povero Coridone deve vivere solo,  
+Il povero Coridone deve vivere [[Alone|solo]],  
 altro soccorso per lui vedo che non v’è.  
 
 18  
@@ -1043,7 +1043,7 @@ Fossero i baci tutte le gioie del letto,
 una donna sposerebbe un’altra donna.  
 
 Ma piano, basta—troppo, [[concepts/fear|temo]],  
-ché se la mia signora ode la mia canzone  
+ché se la mia signora ode la mia [[Song|canzone]]  
 non esiterà a bisbigliarmi all’orecchio  
 per punir la mia lingua d’esser sì lunga.  
 Pure arrossirà (sia detto qui)  

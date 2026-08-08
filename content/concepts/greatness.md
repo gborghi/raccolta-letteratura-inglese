@@ -19,7 +19,7 @@ tags:
 - [[works/william-cobbett-(chesterton)|William Cobbett (Chesterton)]]
 - [[works/intro-love-and-freindship-(chesterton)|intro-love-and-freindship (Chesterton)]]
 - [[works/midsummer-nights-dream-(chesterton)|midsummer nights dream (Chesterton)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0796_who_giants_know_with_lesser_men|796. Who Giants know, with lesser Men (Dickinson)]]
+- 796. Who Giants know, with lesser Men (Dickinson)
 
 </div>
 

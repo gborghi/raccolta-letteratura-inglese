@@ -36,12 +36,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/temptress|Temptress]], [[archetypes/innocent|Innocent]]
+**Archetypes:** Temptress, Innocent
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/moon|Moon]]
 **Themes & Concepts:** [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/temptation|Temptation]], [[concepts/uncanny|Uncanny]], [[concepts/terror-and-horror|Terror and Horror]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]]
 **Settings:** [[settings/castle|Castle]]
-**Characters:** [[characters/christabel|Christabel]], [[characters/geraldine|Geraldine]]
+**Characters:** Christabel, Geraldine
 
 ## Testo integrale / Full text
 

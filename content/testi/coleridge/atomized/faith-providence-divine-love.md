@@ -11,12 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/faith-providence-divine-love" data-author="Coleridge" data-workhref="works/faith-·-providence-·-divine-love-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="004_anthem_for_the_children_of_christs_hospital" data-title="ANTHEM FOR THE CHILDREN OF CHRIST’S HOSPITAL" data-chapter="" data-kind="intro" data-tags="concept/faith,concept/grace_and_redemption,concept/wonder_and_gratitude,concept/providence,concept/poverty,concept/grief_and_loss,form/hymn,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="004_anthem_for_the_children_of_christs_hospital" data-title="ANTHEM FOR THE CHILDREN OF CHRIST’S HOSPITAL" data-chapter="" data-kind="intro"></span>
 
 
 Seraphs! around th’ Eternal’s seat who throng  
 With tuneful ecstasies of praise:  
-O! teach our feeble tongues like yours the song  
+O! teach our feeble tongues like yours the [[Song|song]]  
 Of fervent gratitude to raise —  
 Like you, inspired with holy flame    5  
 To dwell on that Almighty name  
@@ -51,7 +51,7 @@ And each glad scene look brighter for the [[motifs/storm|storm]]!
 
 
 
-<span class="atom-split" data-atom="011_progress_of_vice" data-title="PROGRESS OF VICE" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,motif/madness,concept/temptation,concept/sin_and_the_fall,concept/guilt,concept/conscience,concept/good_vs_evil,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="011_progress_of_vice" data-title="PROGRESS OF VICE" data-chapter="" data-kind="intro"></span>
 
 
 [Nemo repente turpissimus]  
@@ -84,7 +84,7 @@ Ah! close the scene — ah! close — for dreadful is the sight.
 
 
 
-<span class="atom-split" data-atom="061_morienti_superstes" data-title="MORIENTI SUPERSTES" data-chapter="" data-kind="intro" data-tags="motif/sleep,motif/birds,concept/grief_and_loss,concept/providence,concept/faith,concept/mortality,form/lyric,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="061_morienti_superstes" data-title="MORIENTI SUPERSTES" data-chapter="" data-kind="intro"></span>
 
 
 Yet art thou happier far than she  
@@ -100,7 +100,7 @@ No sparrow falleth to the ground.
 
 
 
-<span class="atom-split" data-atom="080_o_i_have_wakd_at_midnight_and_have_wept" data-title="O! I HAVE WAK’D AT MIDNIGHT, AND HAVE WEPT" data-chapter="" data-kind="intro" data-tags="motif/night,concept/grief_and_loss,concept/faith,concept/friendship,concept/hope,concept/wonder_and_gratitude,form/blank_verse,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="080_o_i_have_wakd_at_midnight_and_have_wept" data-title="O! I HAVE WAK’D AT MIDNIGHT, AND HAVE WEPT" data-chapter="" data-kind="intro"></span>
 
 
 O! I have wak’d at midnight, and have wept,  
@@ -123,7 +123,7 @@ And praise Him Gracious with a Brother’s Joy!
 
 
 
-<span class="atom-split" data-atom="098_pity" data-title="PITY" data-chapter="" data-kind="intro" data-tags="concept/poverty,concept/social_injustice,concept/grace_and_redemption,form/sonnet,histref/the_bible,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="098_pity" data-title="PITY" data-chapter="" data-kind="intro"></span>
 
 
 Sweet [[concepts/mercy|Mercy]]! how my very heart has bled  
@@ -145,7 +145,7 @@ And call’d them Friends, and heal’d their noisome sores!
 
 
 
-<span class="atom-split" data-atom="118_sonnet_on_receiving_a_letter_informing_me_of_the_birth_of_a_son" data-title="SONNET: ON RECEIVING A LETTER INFORMING ME OF THE BIRTH OF A SON" data-chapter="" data-kind="intro" data-tags="archetype/child,concept/faith,concept/grace_and_redemption,concept/childhood_and_growth,form/sonnet,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="118_sonnet_on_receiving_a_letter_informing_me_of_the_birth_of_a_son" data-title="SONNET: ON RECEIVING A LETTER INFORMING ME OF THE BIRTH OF A SON" data-chapter="" data-kind="intro"></span>
 
 
 When they did greet me father, sudden awe  
@@ -167,7 +167,7 @@ Sept. 20, 1796.
 
 
 
-<span class="atom-split" data-atom="127_thousand_human_beings_men_women_and_children_murdered_in_cold_blood" data-title="THOUSAND HUMAN BEINGS, MEN, WOMEN, AND CHILDREN, MURDERED IN COLD BLOOD," data-chapter="" data-kind="intro" data-tags="archetype/prophet,concept/war_and_its_cost,concept/power_and_corruption,concept/providence,concept/social_injustice,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="127_thousand_human_beings_men_women_and_children_murdered_in_cold_blood" data-title="THOUSAND HUMAN BEINGS, MEN, WOMEN, AND CHILDREN, MURDERED IN COLD BLOOD," data-chapter="" data-kind="intro"></span>
 
 
 for no other crime than that their garrison had defended the place with
@@ -258,7 +258,7 @@ And sure he deem’d that orb was quench’d in [[motifs/night|night]]:
 For still, &c.
 4{o}.
 To juggle this easily-juggled people into better
-humour with the supplies (and themselves, perhaps, affrighted
+[[Humour|humour]] with the supplies (and themselves, perhaps, affrighted
 by the successes of the French) our Ministry sent an
 Ambassador to [[settings/paris|Paris]] to sue for Peace. The supplies are
 granted: and in the meantime the Archduke Charles turns the
@@ -353,7 +353,7 @@ Cleans’d from bedimming [[concepts/fear|Fear]], and Anguish weak and blind.
 
 
 
-<span class="atom-split" data-atom="156_the_wanderings_of_cain" data-title="THE WANDERINGS OF CAIN" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,concept/sin_and_the_fall,concept/guilt,form/fragment,histref/the_bible,character/cain,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="156_the_wanderings_of_cain" data-title="THE WANDERINGS OF CAIN" data-chapter="" data-kind="intro"></span>
 
 
 PREFATORY NOTE  
@@ -431,7 +431,7 @@ S. T. COLERIDGE (1828).
 
 
 
-<span class="atom-split" data-atom="162_translation_of_a_passage_in_ottfrieds_metrical_paraphrase_of_the_gospel" data-title="TRANSLATION OF A PASSAGE IN OTTFRIED’S METRICAL PARAPHRASE OF THE GOSPEL" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,concept/love_divine,concept/faith,form/translation,form/hymn,histref/the_bible,histref/christianity,character/the_virgin_mary,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="162_translation_of_a_passage_in_ottfrieds_metrical_paraphrase_of_the_gospel" data-title="TRANSLATION OF A PASSAGE IN OTTFRIED’S METRICAL PARAPHRASE OF THE GOSPEL" data-chapter="" data-kind="intro"></span>
 
 
 [This paraphrase, written about the [[motifs/time|time]] of Charlemagne, is by no means  
@@ -474,7 +474,7 @@ For us she bore the heavenly Lord!   25
 
 
 
-<span class="atom-split" data-atom="182_hexameters_paraphrase_of_psalm_xlvi" data-title="HEXAMETERS: PARAPHRASE OF PSALM XLVI" data-chapter="" data-kind="intro" data-tags="concept/faith,concept/providence,concept/war_and_its_cost,form/hexameter_verse,form/hymn,form/translation,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="182_hexameters_paraphrase_of_psalm_xlvi" data-title="HEXAMETERS: PARAPHRASE OF PSALM XLVI" data-chapter="" data-kind="intro"></span>
 
 
 GMd -s omr Strngth nd omr Rfmge: threfOre w+ll w nOt trmbl,  
@@ -494,7 +494,7 @@ Halleluja! th’ Eternal is with us, the God of our Fathers!
 
 
 
-<span class="atom-split" data-atom="187_a_christmas_carol" data-title="A CHRISTMAS CAROL" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,concept/war_and_its_cost,concept/love_divine,concept/faith,form/hymn,form/song,histref/the_bible,histref/christianity,character/the_virgin_mary,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="187_a_christmas_carol" data-title="A CHRISTMAS CAROL" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -503,12 +503,12 @@ And found the lowly stable-shed
 Where the Virgin-Mother lay:  
 And now they checked their eager tread,  
 For to the Babe, that at her bosom clung,   5  
-A Mother’s song the Virgin-Mother sung.  
+A Mother’s [[Song|song]] the Virgin-Mother sung.  
 II  
 They told her how a glorious light,  
 Streaming from a heavenly throng,  
 Around them shone, suspending [[motifs/night|night]]!  
-While sweeter than a mother’s song,  
+While sweeter than a mother’s [[Song|song]],  
 10  
 Blest Angels heralded the Saviour’s birth,  
 Glory to God on high! and Peace on Earth.  
@@ -559,13 +559,13 @@ Peace, Peace on Earth! the Prince of Peace is born.’
 
 
 
-<span class="atom-split" data-atom="211_reply_to_the_above" data-title="REPLY TO THE ABOVE" data-chapter="" data-kind="intro" data-tags="concept/humility,concept/faith,concept/mortality,concept/friendship,form/epigram,character/death_personified,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="211_reply_to_the_above" data-title="REPLY TO THE ABOVE" data-chapter="" data-kind="intro"></span>
 
 
 For shame, dear friend, renounce this canting strain!  
 What would’st thou have a good great man obtain?  
 Place? titles? salary? a gilded chain?  
-Or throne of corses which his sword had slain?   10  
+Or throne of corses which his [[Sword|sword]] had slain?   10  
 [[concepts/greatness|Greatness]] and goodness are not means, but ends!  
 Hath he not always treasures, always friends,  
 The good great man? three treasures, [[motifs/love|LOVE]], and LIGHT,  
@@ -577,7 +577,7 @@ HIMSELF, his MAKER, and the ANGEL [[motifs/death|DEATH]]!
 
 
 
-<span class="atom-split" data-atom="226_the_blossoming_of_the_solitary_date-tree" data-title="THE BLOSSOMING OF THE SOLITARY DATE-TREE" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,archetype/great_mother,motif/serpent_snake,concept/unrequited_love,concept/alienation,concept/melancholy,concept/sin_and_the_fall,concept/imagination,form/elegy,histref/the_bible,character/satan,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="226_the_blossoming_of_the_solitary_date-tree" data-title="THE BLOSSOMING OF THE SOLITARY DATE-TREE" data-chapter="" data-kind="intro"></span>
 
 
 A LAMENT  
@@ -642,7 +642,7 @@ to embrace them?
 3  
 [[concepts/imagination|Imagination]]; honourable aims;  
 Free commune with the choir that cannot die;  
-Science and song; delight in little things,   50  
+Science and [[Song|song]]; delight in little things,   50  
 The buoyant [[archetypes/child|child]] surviving in the man;  
 Fields, forests, ancient [[settings/mountains|mountains]], ocean, sky,  
 With all their voices — O dare I accuse  
@@ -669,7 +669,7 @@ And if the babe perchance should lisp the notes aright,
 6  
 Then is she tenfold gladder than before!  
 But should disease or chance the darling take,  
-What then avail those songs, which sweet of yore  
+What then avail those [[songs]], which sweet of yore  
 Were only sweet for their sweet echo’s sake?   75  
 Dear maid! no prattler at a mother’s knee  
 Was e’er so dearly prized as I prize thee:  
@@ -679,7 +679,7 @@ Why was I made for [[motifs/love|Love]] and [[motifs/love|Love]] denied to me?
 
 
 
-<span class="atom-split" data-atom="228_the_rash_conjurer" data-title="THE RASH CONJURER" data-chapter="" data-kind="intro" data-tags="archetype/satanic_figure,motif/the_supernatural,motif/fire,motif/lamb,concept/the_grotesque,concept/good_vs_evil,concept/satire_of_society,form/ballad,histref/catholic_church,setting/the_underworld,character/satan,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="228_the_rash_conjurer" data-title="THE RASH CONJURER" data-chapter="" data-kind="intro"></span>
 
 
 Strong spirit-bidding sounds!  
@@ -735,7 +735,7 @@ I might now have been sloshing down Junket and Curds,
 Like a Devonshire Christian:   51  
 But now a Philistine!  
 Ye Earthmen! be warned by a judgement so tragic,  
-And wipe yourselves cleanly with all books of magic —  
+And wipe yourselves cleanly with all books of [[Magic|magic]] —  
 Hark! hark! it is Dives! ‘Hold your Bother, you Booby!  
 I am burnt ashy white, and you yet are but ruby.’   56  
 Epilogue.  
@@ -751,7 +751,7 @@ Catholicus.
 
 
 
-<span class="atom-split" data-atom="242_the_virgins_cradle-hymn" data-title="THE VIRGIN’S CRADLE-HYMN" data-chapter="" data-kind="intro" data-tags="motif/sleep,motif/childhood,concept/love_divine,concept/faith,concept/innocence_and_experience,form/hymn,histref/catholic_church,character/the_virgin_mary,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="242_the_virgins_cradle-hymn" data-title="THE VIRGIN’S CRADLE-HYMN" data-chapter="" data-kind="intro"></span>
 
 
 COPIED FROM A PRINT OF THE VIRGIN IN A ROMAN CATHOLIC VILLAGE IN [[settings/germany|GERMANY]]  
@@ -765,7 +765,7 @@ Blande, veni, somnule.
 
 
 
-<span class="atom-split" data-atom="248_time_real_and_imaginary" data-title="TIME, REAL AND IMAGINARY" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/time,motif/eyes_sight,concept/memory_and_time,concept/imagination,form/allegory,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="248_time_real_and_imaginary" data-title="TIME, REAL AND IMAGINARY" data-chapter="" data-kind="intro"></span>
 
 
 AN [[forms/allegory|ALLEGORY]]  
@@ -785,7 +785,7 @@ And knows not whether he be first or last.
 
 
 
-<span class="atom-split" data-atom="251_a_hymn" data-title="A HYMN" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,concept/faith,concept/love_divine,concept/wonder_and_gratitude,form/hymn,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="251_a_hymn" data-title="A HYMN" data-chapter="" data-kind="intro"></span>
 
 
 My Maker! of thy power the trace  
@@ -813,7 +813,7 @@ Where but thy [[archetypes/shadow|Shadow]] falls, Grief cannot be! — 20
 
 
 
-<span class="atom-split" data-atom="256_faith_hope_and_charity_from_the_italian_of_guarini" data-title="FAITH, HOPE, AND CHARITY FROM THE ITALIAN OF GUARINI" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/faith,concept/love_divine,concept/grace_and_redemption,form/hymn,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="256_faith_hope_and_charity_from_the_italian_of_guarini" data-title="FAITH, HOPE, AND CHARITY FROM THE ITALIAN OF GUARINI" data-chapter="" data-kind="intro"></span>
 
 
 [[concepts/faith|FAITH]]  
@@ -827,7 +827,7 @@ Inaudible as of the sphere
 Our music dies upon the ear,  
 Enchanted with the mortal Syren’s strain.  
 [[concepts/hope|HOPE]]  
-Yet let our choral songs abound!  
+Yet let our choral [[songs]] abound!  
 Th’ inspiring Power, its living Source,   10  
 May flow with them and give them force,  
 If, elsewhere all unheard, in Heaven they sound.  
@@ -856,7 +856,7 @@ See, O World, see thy salvation!
 Let the Heavens with praises ring.  
 Who would have a Throne above,  
 Let him [[concepts/hope|hope]], believe and [[motifs/love|love]];   30  
-And whoso loves no earthly song,  
+And whoso loves no earthly [[Song|song]],  
 But does for heavenly music long,  
 [[concepts/faith|Faith]], [[concepts/hope|Hope]], and [[concepts/charity|Charity]] for him,  
 Shall sing like wingéd Cherubim.  
@@ -865,7 +865,7 @@ Shall sing like wingéd Cherubim.
 
 
 
-<span class="atom-split" data-atom="263_the_tears_of_a_grateful_people" data-title="THE TEARS OF A GRATEFUL PEOPLE" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/sun,concept/grief_and_loss,concept/kingship_and_legitimacy,concept/providence,concept/faith,form/elegy,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="263_the_tears_of_a_grateful_people" data-title="THE TEARS OF A GRATEFUL PEOPLE" data-chapter="" data-kind="intro"></span>
 
 
 A Hebrew [[forms/dirge|Dirge]] and [[forms/hymn|Hymn]], chaunted in the Great Synagogue. St. James’ pl.  
@@ -942,7 +942,7 @@ And pouring out our heart in [[motifs/prayer|prayer]],
 Our heav’nly Father’s [[concepts/mercy|mercy]] crave.  
 Until Jehovah from his throne  
 Shall heed his [[concepts/suffering|suffering]] people’s fears;   70  
-Shall turn to song the Mourner’s groan,  
+Shall turn to [[Song|song]] the Mourner’s groan,  
 To smiles of joy the Nation’s [[motifs/tears|tears]].  
 Praise to the Lord! Loud praises sing!  
 And bless Jehovah’s righteous hand!  
@@ -986,7 +986,7 @@ Lord, hear us! we entreat!    105
 
 
 
-<span class="atom-split" data-atom="269_a_dialogue_between_poet_and_friend" data-title="A DIALOGUE BETWEEN POET AND FRIEND" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,motif/serpent_snake,motif/swords_weapons,concept/faith_and_doubt,concept/deception,concept/martyrdom,form/satire,histref/catholic_church,histref/the_reformation,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="269_a_dialogue_between_poet_and_friend" data-title="A DIALOGUE BETWEEN POET AND FRIEND" data-chapter="" data-kind="intro"></span>
 
 
 FOUND WRITTEN ON THE BLANK LEAF AT THE BEGINNING OF BUTLER’S ‘BOOK OF THE CHURCH’ (1825)  
@@ -1011,7 +1011,7 @@ Yet Milner —
 FRIEND  
 Enough of Milner! we’re agreed,  
 Who now defends would then have done the deed.  
-But who not feels persuasion’s gentle sway,  
+But who not feels [[Persuasion|persuasion]]’s gentle sway,  
 Who but must meet the proffered hand half way   20  
 When courteous Butler —  
 POET  
@@ -1057,9 +1057,9 @@ I trust the bolts and [[motifs/cross|cross]]-bars of the laws
 More than the Protestant milk all newly lapt,  
 Impearling a tame wild-cat’s whisker’d jaws!  
 1825, or 1826.  
-SONG  
+[[Song|SONG]]  
 Though veiled in spires of myrtle-wreath,  
-[[motifs/love|Love]] is a sword which cuts its sheath,  
+[[motifs/love|Love]] is a [[Sword|sword]] which cuts its sheath,  
 And through the clefts itself has made,  
 We spy the flashes of the blade!  
 But through the clefts itself has made   5  
@@ -1071,7 +1071,7 @@ And only hilt and stump remain.
 
 
 
-<span class="atom-split" data-atom="273_the_pang_more_sharp_than_all_an_allegory" data-title="THE PANG MORE SHARP THAN ALL: AN ALLEGORY" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/the_mirror,motif/flowers,concept/grief_and_loss,concept/imagination,concept/disillusionment,form/allegory,histref/arthurian_legend,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="273_the_pang_more_sharp_than_all_an_allegory" data-title="THE PANG MORE SHARP THAN ALL: AN ALLEGORY" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -1114,7 +1114,7 @@ IV
 Ah! he is gone, and yet will not depart! —  
 Is with me still, yet I from him exiled!   35  
 For still there lives within my secret heart  
-The magic image of the magic [[archetypes/child|Child]],  
+The [[Magic|magic]] image of the [[Magic|magic]] [[archetypes/child|Child]],  
 Which there he made up-grow by his strong art,  
 As in that crystal orb — wise Merlin’s feat, —  
 The wondrous ‘World of Glass,’ wherein inisled   40  
@@ -1142,7 +1142,7 @@ Is Kindness counterfeiting absent [[motifs/love|Love]]!
 
 
 
-<span class="atom-split" data-atom="287_love_hope_and_patience_in_education" data-title="LOVE, HOPE, AND PATIENCE IN EDUCATION" data-chapter="" data-kind="intro" data-tags="concept/education,concept/childhood_and_growth,concept/love_divine,concept/humility,form/allegory,form/sonnet,histref/greek_mythology,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="287_love_hope_and_patience_in_education" data-title="LOVE, HOPE, AND PATIENCE IN EDUCATION" data-chapter="" data-kind="intro"></span>
 
 
 O’er wayward [[motifs/childhood|childhood]] would’st thou hold firm rule,  
@@ -1176,7 +1176,7 @@ And both supporting does the work of both.
 
 
 
-<span class="atom-split" data-atom="299_forbearance" data-title="FORBEARANCE" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/fire,concept/forgiveness,concept/humility,concept/conscience,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="299_forbearance" data-title="FORBEARANCE" data-chapter="" data-kind="intro"></span>
 
 
 Beareth all things. — 1 COR. xiii. 7.  
@@ -1201,7 +1201,7 @@ Give him the rotten timber for his pains!
 
 
 
-<span class="atom-split" data-atom="303_my_baptismal_birth-day" data-title="MY BAPTISMAL BIRTH-DAY" data-chapter="" data-kind="intro" data-tags="motif/death,concept/faith,concept/grace_and_redemption,concept/immortality,concept/love_divine,histref/christianity,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="303_my_baptismal_birth-day" data-title="MY BAPTISMAL BIRTH-DAY" data-chapter="" data-kind="intro"></span>
 
 
 God’s [[archetypes/child|child]] in [[characters/christ|Christ]] adopted, — [[characters/christ|Christ]] my all, —  
@@ -1223,7 +1223,7 @@ Yes! but not his—’tis [[motifs/death|Death]] itself there dies.
 
 
 
-<span class="atom-split" data-atom="316_jobs_luck" data-title="JOB’S LUCK" data-chapter="" data-kind="intro" data-tags="archetype/satanic_figure,concept/providence,concept/marriage_and_fidelity,concept/good_vs_evil,form/epigram,histref/the_bible,character/satan,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="316_jobs_luck" data-title="JOB’S LUCK" data-chapter="" data-kind="intro"></span>
 
 
 Sly Beelzebub took all occasions  
@@ -1257,7 +1257,7 @@ Title] The Devil Outwitted M. P.
 
 
 
-<span class="atom-split" data-atom="360_epitaph_of_the_present_year_on_the_monument_of_thomas_fuller" data-title="EPITAPH OF THE PRESENT YEAR ON THE MONUMENT OF THOMAS FULLER" data-chapter="" data-kind="intro" data-tags="motif/fire,concept/satire_of_society,concept/faith_and_doubt,concept/original_sin,form/epigram,histref/the_reformation,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="360_epitaph_of_the_present_year_on_the_monument_of_thomas_fuller" data-title="EPITAPH OF THE PRESENT YEAR ON THE MONUMENT OF THOMAS FULLER" data-chapter="" data-kind="intro"></span>
 
 
 A Lutheran stout, I hold for Goose-and-Gaundry  
@@ -1276,7 +1276,7 @@ Now first published from an MS.
 
 
 
-<span class="atom-split" data-atom="380_hymns_moon" data-title="HYMNS — MOON" data-chapter="" data-kind="intro" data-tags="motif/moon,motif/the_grave,motif/dust,concept/love_divine,concept/satire_of_society,form/fragment,form/hymn,histref/eastern_religion,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="380_hymns_moon" data-title="HYMNS — MOON" data-chapter="" data-kind="intro"></span>
 
 
 In a [[motifs/cave|cave]] in the [[settings/mountains|mountains]] of Cashmeer, an image of ice, which  
@@ -1296,7 +1296,7 @@ And a square stone with a few pious texts
 Cut neatly on it, keeps the mould down tight.  
 First published in 1893. Compare Osorio, Act III, lines 259-   62  
 (ante, p. 560).  
-And with my whole heart sing the stately song,  
+And with my whole heart sing the stately [[Song|song]],  
 Loving the God that made me.  
 First published in 1893. Compare Fears in [[concepts/solitude|Solitude]], ll. 196-7 (ante,  
 p. 263).  
@@ -1339,7 +1339,7 @@ First published, Lit. Rem., i. 281.
 
 
 
-<span class="atom-split" data-atom="391_to_edward_irving" data-title="TO EDWARD IRVING" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,concept/faith,concept/friendship,concept/truth,form/fragment,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="391_to_edward_irving" data-title="TO EDWARD IRVING" data-chapter="" data-kind="intro"></span>
 
 
 But you, honored IRVING, are as little disposed as myself to favor  
@@ -1367,7 +1367,7 @@ and D. W., 1877, ii. 367.
 
 
 
-<span class="atom-split" data-atom="410_a_metrical_accident" data-title="A METRICAL ACCIDENT" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/fire,motif/blood,concept/martyrdom,concept/justice,form/fragment,histref/the_reformation,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="410_a_metrical_accident" data-title="A METRICAL ACCIDENT" data-chapter="" data-kind="intro"></span>
 
 
 Curious instance of casual metre and rhyme in a prose narrative (The  
@@ -1388,7 +1388,7 @@ July 7, 1826. Now first published from an MS.
 
 
 
-<span class="atom-split" data-atom="429_christopher_harvey_the_synagogue" data-title="CHRISTOPHER HARVEY THE SYNAGOGUE" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/sun,concept/grace_and_redemption,concept/faith,form/hymn,histref/christianity,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="429_christopher_harvey_the_synagogue" data-title="CHRISTOPHER HARVEY THE SYNAGOGUE" data-chapter="" data-kind="intro"></span>
 
 
 THE NATIVITY OR CHRISTMAS DAY.  
@@ -1421,7 +1421,7 @@ Harvey, 1874, p. 47.
 
 
 
-<span class="atom-split" data-atom="431_w_l_bowles" data-title="W. L. BOWLES" data-chapter="" data-kind="intro" data-tags="concept/melancholy,concept/nostalgia,concept/providence,concept/faith,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="431_w_l_bowles" data-title="W. L. BOWLES" data-chapter="" data-kind="intro"></span>
 
 
 —— I yet remain  

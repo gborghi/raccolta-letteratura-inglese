@@ -21,7 +21,7 @@ and the Online Distributed Proofreading Team at
 
 http://www.pgdp.net
 
-MAGIC
+[[Magic|MAGIC]]
 
 A FANTASTIC [[forms/comedy|COMEDY]]
 
@@ -29,7 +29,7 @@ A FANTASTIC [[forms/comedy|COMEDY]]
 
 From a photograph]
 
-MAGIC
+[[Magic|MAGIC]]
 
 A FANTASTIC [[forms/comedy|COMEDY]]
 
@@ -59,7 +59,7 @@ THE DUKE
 
 DOCTOR GRIMTHORPE
 
-THE REV. CYRIL SMITH
+THE REV. CYRIL [[smith|SMITH]]
 
 MORRIS CARLEON
 
@@ -81,7 +81,7 @@ THE STRANGER             FRANKLIN DYALL
 
 PATRICIA CARLEON         MISS GRACE CROFT
 
-THE REV. CYRIL SMITH     O.P. HEGGIE
+THE REV. CYRIL [[smith|SMITH]]     O.P. HEGGIE
 
 DR. GRIMTHORPE           WILLIAM FARREN
 
@@ -111,7 +111,7 @@ _A distant voice, a woman's, is heard, half-singing, half-chanting,
 
 unintelligible words. The cloaked figure raises its head and
 
-listens with interest. The song draws nearer and_ PATRICIA CARLEON
+listens with interest. The [[Song|song]] draws nearer and_ PATRICIA CARLEON
 
 _enters. She is dark and slight, and has a dreamy expression.
 
@@ -133,7 +133,7 @@ the ground with his staff._]
 
 I have a hat, but not to wear;
 
-I wear a sword, but not to slay,
+I wear a [[Sword|sword]], but not to slay,
 
 And ever in my bag I bear
 
@@ -181,11 +181,11 @@ speak.
 
 ACT ONE, _the Duke's drawing-room, an apartment with open French
 
-windows or any opening large enough to show a [[motifs/garden|garden]] and one house
+windows or any opening large enough to show a [[motifs/garden|garden]] and one [[house]]
 
 fairly near. It is evening, and there is a red lamp lighted in the
 
-house beyond. The_ REV. CYRIL SMITH _is sitting with hat and
+[[house]] beyond. The_ REV. CYRIL [[smith|SMITH]] _is sitting with hat and
 
 umbrella beside him, evidently a visitor. He is a young man with
 
@@ -199,23 +199,23 @@ ass._
 
 [_To him enters_ MR. [[characters/hastings|HASTINGS]] _with papers in his hand._
 
-[[characters/hastings|HASTINGS]]. Oh, good evening. You are Mr. Smith. [_Pause._] I mean you are
+[[characters/hastings|HASTINGS]]. Oh, good evening. You are Mr. [[smith|Smith]]. [_Pause._] I mean you are
 
 the Rector, I think.
 
-SMITH. I am the Rector.
+[[smith|SMITH]]. I am the Rector.
 
 [[characters/hastings|HASTINGS]]. I am the Duke's secretary. His Grace asks me to say that he
 
 hopes to see you very soon; but he is engaged just now with the Doctor.
 
-SMITH. Is the Duke ill?
+[[smith|SMITH]]. Is the Duke ill?
 
 [[characters/hastings|HASTINGS]]. [_Laughing._] Oh, no; the Doctor has come to ask him to help
 
 some cause or other. The Duke is never ill.
 
-SMITH. Is the Doctor with him now?
+[[smith|SMITH]]. Is the Doctor with him now?
 
 [[characters/hastings|HASTINGS]]. Why, strictly speaking, he is not. The Doctor has gone over
 
@@ -223,7 +223,7 @@ the [[motifs/road|road]] to fetch a paper connected with his proposal. But he ha
 
 to go, as you can see. That's his red lamp at the end of his grounds.
 
-SMITH. Yes, I know. I am much obliged to you. I will wait as long as is
+[[smith|SMITH]]. Yes, I know. I am much obliged to you. I will wait as long as is
 
 necessary.
 
@@ -243,7 +243,7 @@ DOCTOR. [_Folding up the paper._] I beg your pardon, sir, I did not
 
 notice there was anyone here.
 
-SMITH. [_Amicably._] I beg yours. A new clergyman cannot expect to be
+[[smith|SMITH]]. [_Amicably._] I beg yours. A new clergyman cannot expect to be
 
 expected. I only came to see the Duke about some local affairs.
 
@@ -251,25 +251,25 @@ DOCTOR. [_Smiling._] And so, oddly enough, did I. But I suppose we
 
 should both like to get hold of him by a separate ear.
 
-SMITH. Oh, there's no disguise as far as I'm concerned. I've joined this
+[[smith|SMITH]]. Oh, there's no disguise as far as I'm concerned. I've joined this
 
-league for starting a model public-house in the parish; and in plain
+league for starting a model public-[[house]] in the parish; and in plain
 
 words, I've come to ask his Grace for a subscription to it.
 
 DOCTOR. [_Grimly._] And, as it happens, I have joined in the petition
 
-against the erection of a model public-house in this parish. The
+against the erection of a model public-[[house]] in this parish. The
 
 similarity of our position grows with every instant.
 
-SMITH. Yes, I think we must have been twins.
+[[smith|SMITH]]. Yes, I think we must have been twins.
 
-DOCTOR. [_More good-humouredly._] [[motifs/well|Well]], what is a model public-house? Do
+DOCTOR. [_More good-humouredly._] [[motifs/well|Well]], what is a model public-[[house]]? Do
 
 you mean a toy?
 
-SMITH. I mean a place where Englishmen can get decent drink and drink it
+[[smith|SMITH]]. I mean a place where Englishmen can get decent drink and drink it
 
 decently. Do you call that a toy?
 
@@ -277,7 +277,7 @@ DOCTOR. No; I should call that a conjuring trick. Or, in apology to your
 
 cloth, I will say a miracle.
 
-SMITH. I accept the apology to my cloth. I am doing my duty as a priest.
+[[smith|SMITH]]. I accept the apology to my cloth. I am doing my duty as a priest.
 
 How can the Church have a right to make men fast if she does not allow
 
@@ -287,7 +287,7 @@ DOCTOR. [_Bitterly._] And when you have done feasting them, you will
 
 send them to me to be cured.
 
-SMITH. Yes; and when you've done curing them you'll send them to me to
+[[smith|SMITH]]. Yes; and when you've done curing them you'll send them to me to
 
 be buried.
 
@@ -295,19 +295,19 @@ DOCTOR. [_After a pause, laughing._] [[motifs/well|Well]], you have all the old
 
 doctrines. It is only fair you should have all the old jokes too.
 
-SMITH. [_Laughing also._] By the way, you call it a conjuring trick that
+[[smith|SMITH]]. [_Laughing also._] By the way, you call it a conjuring trick that
 
 poor people should drink moderately.
 
 DOCTOR. I call it a chemical discovery that alcohol is not a food.
 
-SMITH. You don't drink wine yourself?
+[[smith|SMITH]]. You don't drink wine yourself?
 
 DOCTOR. [_Mildly startled._] Drink wine! [[motifs/well|Well]]--what else is there to
 
 drink?
 
-SMITH. So drinking decently is a conjuring trick that you can do,
+[[smith|SMITH]]. So drinking decently is a conjuring trick that you can do,
 
 anyhow?
 
@@ -317,7 +317,7 @@ about conjuring tricks, there is to be conjuring and all kinds of things
 
 here this afternoon.
 
-SMITH. Conjuring? Indeed? Why is that?
+[[smith|SMITH]]. Conjuring? Indeed? Why is that?
 
 _Enter_ [[characters/hastings|HASTINGS]] _with a letter in each hand._
 
@@ -327,9 +327,9 @@ the business matter first of all.
 
 [_He gives a note to each of them._
 
-SMITH. [_Turning eagerly to the_ DOCTOR.] But this is rather splendid.
+[[smith|SMITH]]. [_Turning eagerly to the_ DOCTOR.] But this is rather splendid.
 
-The Duke's given L50 to the new public-house.
+The Duke's given L50 to the new public-[[house]].
 
 [[characters/hastings|HASTINGS]]. The Duke is very liberal.
 
@@ -337,13 +337,13 @@ The Duke's given L50 to the new public-house.
 
 DOCTOR. [_Examining his cheque._] Very. But this is rather curious. He
 
-has also given L50 to the league for opposing the new public-house.
+has also given L50 to the league for opposing the new public-[[house]].
 
 [[characters/hastings|HASTINGS]]. The Duke is very liberal-minded.
 
 [_Exit._
 
-SMITH. [_Staring at his cheque._] Liberal-minded!... Absent-minded, I
+[[smith|SMITH]]. [_Staring at his cheque._] Liberal-minded!... Absent-minded, I
 
 should call it.
 
@@ -361,13 +361,13 @@ always trying to please everybody. He generally finishes by pleasing
 
 nobody.
 
-SMITH. Yes; I think I know the sort of thing.
+[[smith|SMITH]]. Yes; I think I know the sort of thing.
 
 DOCTOR. Take this conjuring, for instance. You know the Duke has two
 
 wards who are to live with him now?
 
-SMITH. Yes. I heard something about a nephew and niece from Ireland.
+[[smith|SMITH]]. Yes. I heard something about a nephew and niece from Ireland.
 
 DOCTOR. The niece came from Ireland some months ago, but the nephew
 
@@ -375,15 +375,15 @@ comes back from [[settings/america|America]] to-[[motifs/night|night]]. [_He get
 
 the room._] I think I will tell you all about it. In spite of your
 
-precious public-house you seem to me to be a sane man. And I fancy I
+precious public-[[house]] you seem to me to be a sane man. And I fancy I
 
 shall want all the sane men I can get to-[[motifs/night|night]].
 
-SMITH. [_Rising also._] I am at your service. Do you know, I rather
+[[smith|SMITH]]. [_Rising also._] I am at your service. Do you know, I rather
 
 guessed you did not come here only to protest against my precious
 
-public-house.
+public-[[house]].
 
 DOCTOR. [_Striding about in subdued excitement._] [[motifs/well|Well]], you guessed
 
@@ -391,13 +391,13 @@ right. I was family physician to the Duke's brother in Ireland. I knew
 
 the family pretty [[motifs/well|well]].
 
-SMITH. [_Quietly._] I suppose you mean you knew something odd about the
+[[smith|SMITH]]. [_Quietly._] I suppose you mean you knew something odd about the
 
 family?
 
 DOCTOR. [[motifs/well|Well]], they saw fairies and things of that sort.
 
-SMITH. And I suppose, to the medical mind, seeing fairies means much the
+[[smith|SMITH]]. And I suppose, to the medical mind, seeing fairies means much the
 
 same as seeing snakes?
 
@@ -413,7 +413,7 @@ and goblins and witches into the poor Duke's own back [[motifs/garden|garden]] a
 
 a yard of my own red lamp. It shows a lack of tact.
 
-SMITH. But I do understand that the Duke's nephew and niece see witches
+[[smith|SMITH]]. But I do understand that the Duke's nephew and niece see witches
 
 and fairies between here and your lamp.
 
@@ -425,7 +425,7 @@ can't see fairies in [[settings/america|America]]. But there is this sort of sup
 
 the family, and I am not easy in my mind about the girl.
 
-SMITH. Why, what does she do?
+[[smith|SMITH]]. Why, what does she do?
 
 DOCTOR. Oh, she wanders about the park and the woods in the evenings.
 
@@ -437,13 +437,13 @@ But what is worse, she is always talking about meeting somebody, some
 
 elf or wizard or something. I don't like it at all.
 
-SMITH. Have you told the Duke?
+[[smith|SMITH]]. Have you told the Duke?
 
 DOCTOR. [_With a grim smile._] Oh, yes, I told the Duke. The result was
 
 the conjurer.
 
-SMITH. [_With amazement._] The _conjurer_?
+[[smith|SMITH]]. [_With amazement._] The _conjurer_?
 
 DOCTOR. [_Puts down his cigar in the ash-tray._] The Duke is
 
@@ -481,7 +481,7 @@ the present state of the peerage it is necessary to explain that
 
 the_ DUKE, _though an ass, is a gentleman._
 
-DUKE. Good-morning, Mr. Smith. So sorry to have kept you waiting, but
+DUKE. Good-morning, Mr. [[smith|Smith]]. So sorry to have kept you waiting, but
 
 we're rather in a rush to-day. [_Turns to_ [[characters/hastings|HASTINGS]], _who has gone over
 
@@ -501,7 +501,7 @@ hear he's been doing great things out there. Petrol, or something. Must
 
 move with the times, eh?
 
-DOCTOR. I'm afraid Mr. Smith doesn't always agree with moving with the
+DOCTOR. I'm afraid Mr. [[smith|Smith]] doesn't always agree with moving with the
 
 times.
 
@@ -527,15 +527,15 @@ know.
 
 abrupt of the_ DUKE'S _associations or disassociations of thought._
 
-SMITH. [_At last, faintly._] Ancient Britons....
+[[smith|SMITH]]. [_At last, faintly._] Ancient Britons....
 
-DOCTOR. [_To_ SMITH _in a low voice._] Don't bother. It's only his
+DOCTOR. [_To_ [[smith|SMITH]] _in a low voice._] Don't bother. It's only his
 
 broad-mindedness.
 
 DUKE. [_With unabated cheerfulness._] I saw the place you're putting up
 
-for it, Mr. Smith. Very good work. Very good work, indeed. Art for the
+for it, Mr. [[smith|Smith]]. Very good work. Very good work, indeed. Art for the
 
 people, eh? I particularly liked that woodwork over the west door--I'm
 
@@ -545,9 +545,9 @@ reminds one of the [[historical-references/french-revolution|French Revolution]]
 
 [_Another [[motifs/silence|silence]]. As the_ DUKE _lounges alertly about the room_,
 
-SMITH _speaks to the_ DOCTOR _in an undertone._
+[[smith|SMITH]] _speaks to the_ DOCTOR _in an undertone._
 
-SMITH. Does it remind you of the [[historical-references/french-revolution|French Revolution]]?
+[[smith|SMITH]]. Does it remind you of the [[historical-references/french-revolution|French Revolution]]?
 
 DOCTOR. As much as of anything else. His Grace never reminds me of
 
@@ -661,7 +661,7 @@ DUKE. Oh, not a _man_, you know. A magician, something mythical, you
 
 know.
 
-SMITH. Not a _man_, but a medicine man.
+[[smith|SMITH]]. Not a _man_, but a medicine man.
 
 DOCTOR. [_Grimly._] I am a medicine man.
 
@@ -687,9 +687,9 @@ old Buffle used to say....
 
 [_As he speaks a distant voice is heard singing in the [[motifs/garden|garden]]; it
 
-comes nearer and nearer, and_ SMITH _turns suddenly to the_ DOCTOR.
+comes nearer and nearer, and_ [[smith|SMITH]] _turns suddenly to the_ DOCTOR.
 
-SMITH. Whose voice is that?
+[[smith|SMITH]]. Whose voice is that?
 
 DOCTOR. It is no business of mine to decide!
 
@@ -737,11 +737,11 @@ cloak, with a peaked cap or hood like the elves in my nursery stories.
 
 Sometimes when I look out of the [[motifs/window|window]] here, I see him passing round
 
-this house like a [[archetypes/shadow|shadow]]; and see his pointed hood, dark against the
+this [[house]] like a [[archetypes/shadow|shadow]]; and see his pointed hood, dark against the
 
 sunset or the rising of the [[motifs/moon|moon]].
 
-SMITH. What does he talk about?
+[[smith|SMITH]]. What does he talk about?
 
 PATRICIA. He tells me the [[concepts/truth|truth]]. Very many true things. He is a wizard.
 
@@ -783,7 +783,7 @@ allow a little more for poetry. We can't all feed on nothing but petrol.
 
 DUKE. Quite right, quite right. And being Irish, don't you know, Celtic,
 
-as old Buffle used to say, charming songs, you know, about the Irish
+as old Buffle used to say, charming [[songs]], you know, about the Irish
 
 girl who has a plaid shawl--and a Banshee. [_Sighs profoundly._] Poor
 
@@ -791,7 +791,7 @@ old Gladstone!
 
 [_Silence as usual._
 
-SMITH. [_Speaking to_ DOCTOR.] I thought you yourself considered the
+[[smith|SMITH]]. [_Speaking to_ DOCTOR.] I thought you yourself considered the
 
 family superstition bad for the health?
 
@@ -831,7 +831,7 @@ But don't you think there may be floating and spiritual [[motifs/stars|stars]] w
 
 last longer than the red lamps?
 
-SMITH. [_With decision._] Yes. But they are fixed [[motifs/stars|stars]].
+[[smith|SMITH]]. [_With decision._] Yes. But they are fixed [[motifs/stars|stars]].
 
 DOCTOR. The red lamp will last my [[motifs/time|time]].
 
@@ -881,7 +881,7 @@ PATRICIA. Oh, you need not trouble. He will come if I call him.
 
 [_She goes out into the [[motifs/garden|garden]] and calls out some half-chanted and
 
-unintelligible words, somewhat like the song preceding her
+unintelligible words, somewhat like the [[Song|song]] preceding her
 
 entrance. The red light reappears; and there is a slight sound as
 
@@ -899,7 +899,7 @@ MORRIS. [_Shutting the [[motifs/garden|garden]] doors behind him._] Now, see her
 
 we've got you. And we know you're a fraud.
 
-SMITH. [_Quietly._] Pardon me, I do not fancy that we know that. For
+[[smith|SMITH]]. [_Quietly._] Pardon me, I do not fancy that we know that. For
 
 myself I must confess to something of the Doctor's agnosticism.
 
@@ -907,13 +907,13 @@ MORRIS. [_Excited, and turning almost with a snarl._] I didn't know you
 
 parsons stuck up for any fables but your own.
 
-SMITH. I stick up for the thing every man has a right to. Perhaps the
+[[smith|SMITH]]. I stick up for the thing every man has a right to. Perhaps the
 
 only thing that every man has a right to.
 
 MORRIS. And what is that?
 
-SMITH. The benefit of the [[concepts/doubt|doubt]]. Even your master, the petroleum
+[[smith|SMITH]]. The benefit of the [[concepts/doubt|doubt]]. Even your master, the petroleum
 
 millionaire, has a right to that. And I think he needs it more.
 
@@ -1023,7 +1023,7 @@ never forgets faces. [_Waves the programmes about._] I never forget
 
 faces. [_Catches sight of the_ CONJURER _and genially draws him into the
 
-discussion._] Why, the Professor here who performs before the [[archetypes/king|King]]
+discussion._] Why, [[The Professor|the Professor]] here who performs before the [[archetypes/king|King]]
 
 [_puts down the programmes_]--you see it on the caravans, you
 
@@ -1059,7 +1059,7 @@ only other thing at all urgent is the Militant Vegetarians.
 
 DUKE. Ah! The Militant Vegetarians! You've heard of them, I'm sure.
 
-Won't obey the law [_to the_ CONJURER] so long as the Government serves
+Won't obey the law [_to the_ CONJURER] so long as the [[government|Government]] serves
 
 out meat.
 
@@ -1073,7 +1073,7 @@ too--oh, certainly advanced. Like Joan of Arc.
 
 [_Short [[motifs/silence|silence]], in which the_ CONJURER _stares at him._]
 
-CONJURER. _Was_ Joan of Arc a Vegetarian?
+CONJURER. _Was_ Joan of Arc a [[vegetarian|Vegetarian]]?
 
 DUKE. Oh, [[motifs/well|well]], it's a very high ideal, after all. The Sacredness of
 
@@ -1081,7 +1081,7 @@ Life, you know--the Sacredness of Life. [_Shakes his head._] But they
 
 carry it too far. They killed a policeman down in [[characters/kent|Kent]].
 
-CONJURER. Killed a policeman? How Vegetarian! [[motifs/well|Well]], I suppose it was, so
+CONJURER. Killed a policeman? How [[vegetarian|Vegetarian]]! [[motifs/well|Well]], I suppose it was, so
 
 long as they didn't eat him.
 
@@ -1119,11 +1119,11 @@ Not a logical system--no Rousseau in it--but see how [[motifs/well|well]] it wor
 
 shall be the very best magistrate that could be on the Bench. The others
 
-would be biassed, you know. Old Sir Lawrence is a Vegetarian himself;
+would be biassed, you know. Old Sir Lawrence is a [[vegetarian|Vegetarian]] himself;
 
-and might be hard on the Anti-Vegetarian roughs. Colonel Crashaw would
+and might be hard on the Anti-[[vegetarian|Vegetarian]] roughs. Colonel Crashaw would
 
-be sure to be hard on the Vegetarian roughs. But if I've paid both of
+be sure to be hard on the [[vegetarian|Vegetarian]] roughs. But if I've paid both of
 
 'em, of course I shan't be hard on either of 'em--and there you have it.
 
@@ -1321,7 +1321,7 @@ Mostly he has to do it in the beastly black cities of the Midlands and
 
 the North, where he can't get out into the country. Now and again he
 
-does it at some gentleman's country-house, where he can get out into the
+does it at some gentleman's country-[[house]], where he can get out into the
 
 country. [[motifs/well|Well]], you know that actors and orators and all sorts of people
 
@@ -1341,9 +1341,9 @@ some [[motifs/time|time]] to prepare an impromptu. A man like that walks about t
 
 woods and fields doing all his tricks beforehand, and talking all sorts
 
-of gibberish because he thinks he is alone. One evening this man found
+of gibberish because he thinks he is [[Alone|alone]]. One evening this man found
 
-he was not alone. He found a very beautiful [[archetypes/child|child]] was watching him.
+he was not [[Alone|alone]]. He found a very beautiful [[archetypes/child|child]] was watching him.
 
 PATRICIA. A [[archetypes/child|child]]?
 
@@ -1375,7 +1375,7 @@ much, Miss Carleon, if he enjoyed the only fairy tale he had had in his
 
 life? Suppose he said the silly circles he was drawing for practice
 
-were really magic circles? Suppose he said the bosh he was talking was
+were really [[Magic|magic]] circles? Suppose he said the bosh he was talking was
 
 the language of the elves? Remember, he has read fairy tales as much as
 
@@ -1387,13 +1387,13 @@ he, too, tried to have a holiday in fairyland?
 
 PATRICIA. [_Simply._] I blame him less than I did. But I still say there
 
-can be nothing worse than false magic. And, after all, it was he who
+can be nothing worse than false [[Magic|magic]]. And, after all, it was he who
 
-brought the false magic.
+brought the false [[Magic|magic]].
 
 CONJURER. [_Rising from his seat._] Yes. It was she who brought the real
 
-magic.
+[[Magic|magic]].
 
 [_Enter_ MORRIS, _in evening-dress. He walks straight up to the
 
@@ -1467,7 +1467,7 @@ of cards and balancing it in his hand._
 
 MORRIS. Ah, most mysteries are tolerably plain if you know the
 
-apparatus. [_Enter_ DOCTOR _and_ SMITH, _talking with [[motifs/grave|grave]] faces, but
+apparatus. [_Enter_ DOCTOR _and_ [[smith|SMITH]], _talking with [[motifs/grave|grave]] faces, but
 
 growing silent as they reach the group._] I guess I wish we had all the
 
@@ -1509,23 +1509,23 @@ PATRICIA. The Vanishing Lady!
 
 [_Exit_ PATRICIA.
 
-SMITH. There is one part of their old apparatus I regret especially
+[[smith|SMITH]]. There is one part of their old apparatus I regret especially
 
 being lost.
 
 MORRIS. [_Still excited._] Yes!
 
-SMITH. The apparatus for writing the Book of Job.
+[[smith|SMITH]]. The apparatus for writing the Book of Job.
 
 MORRIS. [[motifs/well|Well]], [[motifs/well|well]], they didn't know everything in those old times.
 
-SMITH. No, and in those old times they knew they didn't. [_Dreamily._]
+[[smith|SMITH]]. No, and in those old times they knew they didn't. [_Dreamily._]
 
 Where shall wisdom be found, and what is the place of understanding?
 
 CONJURER. Somewhere in [[settings/america|America]], I believe.
 
-SMITH. [_Still dreamily._] Man knoweth not the price thereof; neither is
+[[smith|SMITH]]. [_Still dreamily._] Man knoweth not the price thereof; neither is
 
 it found in the land of the living. The deep sayeth it is not in me, the
 
@@ -1643,29 +1643,29 @@ hear you say you are a savage and have buried a tomahawk. I would rather
 
 hear you say, as your Irish ancestors would have said, that you have
 
-sheathed your sword with the dignity proper to a gentleman.
+sheathed your [[Sword|sword]] with the dignity proper to a gentleman.
 
-MORRIS. Very [[motifs/well|well]]. I've sheathed my sword with the dignity proper to a
+MORRIS. Very [[motifs/well|well]]. I've sheathed my [[Sword|sword]] with the dignity proper to a
 
 gentleman.
 
-CONJURER. And I have sheathed my sword with the dignity proper to a
+CONJURER. And I have sheathed my [[Sword|sword]] with the dignity proper to a
 
 conjurer.
 
-MORRIS. How does the Conjurer sheath a sword?
+MORRIS. How does the Conjurer sheath a [[Sword|sword]]?
 
 CONJURER. Swallows it.
 
 DOCTOR. Then we all agree there shall be no quarrel.
 
-SMITH. May I say a word? I have a great dislike of a quarrel, for a
+[[smith|SMITH]]. May I say a word? I have a great dislike of a quarrel, for a
 
 reason quite beyond my duty to my cloth.
 
 MORRIS. And what is that?
 
-SMITH. I object to a quarrel because it always interrupts an argument.
+[[smith|SMITH]]. I object to a quarrel because it always interrupts an argument.
 
 May I bring you back for a moment to the argument? You were saying that
 
@@ -1685,19 +1685,19 @@ MORRIS. Wal, the Duke's real amiable; but I reckon you'd find what you
 
 call the interruption of an argument.
 
-SMITH. [[motifs/well|Well]], suppose I did say so, you wouldn't take it as meaning that
+[[smith|SMITH]]. [[motifs/well|Well]], suppose I did say so, you wouldn't take it as meaning that
 
 Sir Joshua Reynolds never lived. Why should sham miracles prove to us
 
-that real Saints and Prophets never lived. There may be sham magic and
+that real Saints and Prophets never lived. There may be sham [[Magic|magic]] and
 
-real magic also.
+real [[Magic|magic]] also.
 
 [_The_ CONJURER _raises his head and listens with a strange air of
 
 intentness._
 
-SMITH. There may be turnip [[motifs/ghosts|ghosts]] precisely because there are real
+[[smith|SMITH]]. There may be turnip [[motifs/ghosts|ghosts]] precisely because there are real
 
 [[motifs/ghosts|ghosts]]. There may be theatrical fairies precisely because there are real
 
@@ -1705,7 +1705,7 @@ fairies. You do not abolish the Bank of England by pointing to a forged
 
 bank-note.
 
-MORRIS. I [[concepts/hope|hope]] the Professor enjoys being called a forged bank-note.
+MORRIS. I [[concepts/hope|hope]] [[The Professor|the Professor]] enjoys being called a forged bank-note.
 
 CONJURER. Almost as much as being called the Prospectus of some American
 
@@ -1717,9 +1717,9 @@ CONJURER. I am sorry.
 
 MORRIS. Wal, let's have the argument first, then I guess we can have the
 
-quarrel afterwards. I'll clean this house of some encumbrances. See
+quarrel afterwards. I'll clean this [[house]] of some encumbrances. See
 
-here, Mr. Smith, I'm not putting anything on your real miracle notion. I
+here, Mr. [[smith|Smith]], I'm not putting anything on your real miracle notion. I
 
 say, and Science says, that there's a cause for everything. Science will
 
@@ -1731,7 +1731,7 @@ mighty mean. Sooner or later Science will botanise a bit on your turnip
 
 say....
 
-DOCTOR. [_In a low voice to_ SMITH.] I don't like this peaceful argument
+DOCTOR. [_In a low voice to_ [[smith|SMITH]].] I don't like this peaceful argument
 
 of yours. The boy is getting much too excited.
 
@@ -1821,9 +1821,9 @@ MORRIS. [_Turning on him furiously._] You call yourself a man of
 
 science, and you dare to tell me not to inquire!
 
-SMITH. We only mean that for the moment you might let it alone.
+[[smith|SMITH]]. We only mean that for the moment you might let it [[Alone|alone]].
 
-MORRIS. [_Violently._] No, Priest, I will not let it alone. [_Pacing the
+MORRIS. [_Violently._] No, Priest, I will not let it [[Alone|alone]]. [_Pacing the
 
 room again._] Could it be done with mirrors? [_He clasps his brow._] You
 
@@ -1835,7 +1835,7 @@ light....
 
 [_Sudden [[motifs/silence|silence]]._
 
-SMITH. [_Quietly to the_ DOCTOR.] You don't get blue.
+[[smith|SMITH]]. [_Quietly to the_ DOCTOR.] You don't get blue.
 
 DOCTOR. [_Stepping across to the_ CONJURER.] If you have done this
 
@@ -1861,13 +1861,13 @@ out what's wrong with the lamp.
 
 DOCTOR. It is still a wet [[motifs/night|night]], I am afraid.
 
-SMITH. Yes. And somebody else will be wandering about the [[motifs/garden|garden]] now.
+[[smith|SMITH]]. Yes. And somebody else will be wandering about the [[motifs/garden|garden]] now.
 
 [_Through the broken glass doors_ MORRIS _can be seen marching
 
 backwards and forwards with swifter and swifter steps._
 
-SMITH. I suppose in this case the Celtic twilight will not get on the
+[[smith|SMITH]]. I suppose in this case the Celtic twilight will not get on the
 
 chest.
 
@@ -1899,13 +1899,13 @@ PATRICIA. I am going out to find my brother.
 
 [_She goes out into the [[motifs/garden|garden]] through the open doors._
 
-SMITH. [_After a [[motifs/silence|silence]], very suddenly._] What is that noise? She is
+[[smith|SMITH]]. [_After a [[motifs/silence|silence]], very suddenly._] What is that noise? She is
 
-not singing those songs to him, is she?
+not singing those [[songs]] to him, is she?
 
 CONJURER. No. He does not understand the language of the elves.
 
-SMITH. But what are all those cries and gasps I hear?
+[[smith|SMITH]]. But what are all those cries and gasps I hear?
 
 CONJURER. The normal noises, I believe, of a quiet business man.
 
@@ -1921,7 +1921,7 @@ DOCTOR. My dear lady, certainly. Shall I fetch the Duke?
 
 PATRICIA. I would prefer the Doctor.
 
-SMITH. Can I be of any use?
+[[smith|SMITH]]. Can I be of any use?
 
 PATRICIA. I only want the Doctor.
 
@@ -1929,19 +1929,19 @@ PATRICIA. I only want the Doctor.
 
 at each other._
 
-SMITH. [_Quietly._] That last was a wonderful trick of yours.
+[[smith|SMITH]]. [_Quietly._] That last was a wonderful trick of yours.
 
 CONJURER. Thank you. I suppose you mean it was the only one you didn't
 
 see through.
 
-SMITH. Something of the kind, I confess. Your last trick was the best
+[[smith|SMITH]]. Something of the kind, I confess. Your last trick was the best
 
 trick I have ever seen. It is so good that I wish you had not done it.
 
 CONJURER. And so do I.
 
-SMITH. How do you mean? Do you wish you had never been a conjurer?
+[[smith|SMITH]]. How do you mean? Do you wish you had never been a conjurer?
 
 CONJURER. I wish I had never been born.
 
@@ -1951,7 +1951,7 @@ CONJURER. I wish I had never been born.
 
 DOCTOR. It is all right so far. We have brought him back.
 
-SMITH. [_Drawing near to him._] You told me there was mental trouble
+[[smith|SMITH]]. [_Drawing near to him._] You told me there was mental trouble
 
 with the girl.
 
@@ -1959,27 +1959,27 @@ DOCTOR. [_Looking at him steadily._] No. I told you there was mental
 
 trouble in the family.
 
-SMITH. [_After a [[motifs/silence|silence]]._] Where is Mr. Morris Carleon?
+[[smith|SMITH]]. [_After a [[motifs/silence|silence]]._] Where is Mr. Morris Carleon?
 
 DOCTOR. I have got him into bed in the next room. His sister is looking
 
 after him.
 
-SMITH. His sister! Oh, then do you believe in fairies?
+[[smith|SMITH]]. His sister! Oh, then do you believe in fairies?
 
 DOCTOR. Believe in fairies? What do you mean?
 
-SMITH. At least you put the person who does believe in them in charge of
+[[smith|SMITH]]. At least you put the person who does believe in them in charge of
 
 the person who doesn't.
 
 DOCTOR. [[motifs/well|Well]], I suppose I do.
 
-SMITH. You don't think she'll keep him awake all [[motifs/night|night]] with fairy tales?
+[[smith|SMITH]]. You don't think she'll keep him awake all [[motifs/night|night]] with fairy tales?
 
 DOCTOR. Certainly not.
 
-SMITH. You don't think she'll throw the medicine-bottle out of [[motifs/window|window]]
+[[smith|SMITH]]. You don't think she'll throw the medicine-bottle out of [[motifs/window|window]]
 
 and administer--er--a dewdrop, or anything of that sort? Or a
 
@@ -1987,7 +1987,7 @@ four-leaved clover, say?
 
 DOCTOR. No; of course not.
 
-SMITH. I only ask because you scientific men are a little hard on us
+[[smith|SMITH]]. I only ask because you scientific men are a little hard on us
 
 clergymen. You don't believe in a priesthood; but you'll admit I'm more
 
@@ -2007,7 +2007,7 @@ a flicker of [[concepts/doubt|doubt]]: because you trust women.
 
 DOCTOR. [_Very seriously._] Yes, I trust women.
 
-SMITH. You trust a woman with the practical issues of life and [[motifs/death|death]],
+[[smith|SMITH]]. You trust a woman with the practical issues of life and [[motifs/death|death]],
 
 through sleepless hours when a shaking hand or an extra grain would
 
@@ -2015,7 +2015,7 @@ kill.
 
 DOCTOR. Yes.
 
-SMITH. But if the woman gets up to go to early service at my church, you
+[[smith|SMITH]]. But if the woman gets up to go to early service at my church, you
 
 call her weak-minded and say that nobody but women can believe in
 
@@ -2025,13 +2025,13 @@ DOCTOR. I should never call this woman weak-minded--no, by God, not even
 
 if she went to church.
 
-SMITH. Yet there are many as strong-minded who believe passionately in
+[[smith|SMITH]]. Yet there are many as strong-minded who believe passionately in
 
 going to church.
 
 DOCTOR. Weren't there as many who believed passionately in [[characters/apollo|Apollo]]?
 
-SMITH. And what harm came of believing in [[characters/apollo|Apollo]]? And what a mass of
+[[smith|SMITH]]. And what harm came of believing in [[characters/apollo|Apollo]]? And what a mass of
 
 harm may have come of not believing in [[characters/apollo|Apollo]]? Does it never strike you
 
@@ -2041,13 +2041,13 @@ be a disease, as [[motifs/well|well]] as proclaiming doctrines? You talk of reli
 
 mania! Is there no such thing as irreligious mania? Is there no such
 
-thing in the house at this moment?
+thing in the [[house]] at this moment?
 
 DOCTOR. Then you think no one should question at all.
 
-SMITH. [_With passion, pointing to the next room._] I think _that_ is
+[[smith|SMITH]]. [_With passion, pointing to the next room._] I think _that_ is
 
-what comes of questioning! Why can't you leave the universe alone and
+what comes of questioning! Why can't you leave the universe [[Alone|alone]] and
 
 let it mean what it likes? Why shouldn't the thunder be Jupiter? More
 
@@ -2057,7 +2057,7 @@ wasn't Jupiter.
 
 DOCTOR. [_Looking at him._] Do you believe in your own religion?
 
-SMITH. [_Returning the look equally steadily._] Suppose I don't: I
+[[smith|SMITH]]. [_Returning the look equally steadily._] Suppose I don't: I
 
 should still be a [[archetypes/fool|fool]] to question it. The [[archetypes/child|child]] who doubts about Santa
 
@@ -2067,7 +2067,7 @@ DOCTOR. You are a Pragmatist.
 
 _Enter_ DUKE, _absent-mindedly._
 
-SMITH. That is what the lawyers call vulgar abuse. But I do appeal to
+[[smith|SMITH]]. That is what the lawyers call vulgar abuse. But I do appeal to
 
 practise. Here is a family over which you tell me a mental calamity
 
@@ -2101,13 +2101,13 @@ DUKE. [_Firmly._] Never had any Marconis myself. Wouldn't touch 'em.
 
 [_Exit_ DUKE, _aimlessly._
 
-DOCTOR. [_Exploding._] [[motifs/well|Well]], of all the.... [_Turns to_ SMITH.] You
+DOCTOR. [_Exploding._] [[motifs/well|Well]], of all the.... [_Turns to_ [[smith|SMITH]].] You
 
 asked me just now which member of the family had inherited the family
 
 [[concepts/madness|madness]].
 
-SMITH. Yes; I did.
+[[smith|SMITH]]. Yes; I did.
 
 DOCTOR. [_In a low, emphatic voice._] On my living [[motifs/soul|soul]], I believe it
 
@@ -2255,7 +2255,7 @@ statement. [_Hazily._] Look at Ibsen.
 
 [_Silence._
 
-DOCTOR. Of course the Professor feels considerable reluctance in the
+DOCTOR. Of course [[The Professor|the Professor]] feels considerable reluctance in the
 
 matter. He points out that his [[motifs/secrets|secrets]] are an essential part of his
 
@@ -2359,11 +2359,11 @@ CONJURER. Because it is so simple. [_He springs suddenly to his feet,
 
 the cheque still in his hand._] You ask me how I really did the last
 
-trick. I will tell you how I did the last trick. I did it by magic.
+trick. I will tell you how I did the last trick. I did it by [[Magic|magic]].
 
 [_The_ DUKE _and_ DOCTOR _stare at him motionless; but the_ REV.
 
-SMITH _starts and takes a step nearer the table. The_ CONJURER
+[[smith|SMITH]] _starts and takes a step nearer the table. The_ CONJURER
 
 _pulls his cloak round his shoulders. This gesture, as of
 
@@ -2371,11 +2371,11 @@ departure, brings the_ DOCTOR _to his feet._
 
 DOCTOR. [_Astonished and angry._] Do you really mean that you take the
 
-cheque and then tell us it was only magic?
+cheque and then tell us it was only [[Magic|magic]]?
 
 CONJURER. [_Pulling the cheque to pieces._] I tear the cheque, and I
 
-tell you it was only magic.
+tell you it was only [[Magic|magic]].
 
 DOCTOR. [_With violent sincerity._] But hang it all, there's no such
 
@@ -2383,7 +2383,7 @@ thing.
 
 CONJURER. Yes there is. I wish to God I did not know that there is.
 
-DUKE. [_Rising also._] Why, really, magic....
+DUKE. [_Rising also._] Why, really, [[Magic|magic]]....
 
 CONJURER. [_Contemptuously._] Yes, your Grace, one of those larger laws
 
@@ -2391,15 +2391,15 @@ you were telling us about.
 
 [_He buttons his cloak up at his throat and takes up his bag. As he
 
-does so the_ REV. SMITH _steps between him and the door and stops
+does so the_ REV. [[smith|SMITH]] _steps between him and the door and stops
 
 him for a moment._
 
-SMITH. [_In a low voice._] One moment, sir.
+[[smith|SMITH]]. [_In a low voice._] One moment, sir.
 
 CONJURER. What do you want?
 
-SMITH. I want to apologize to you. I mean on behalf of the company. I
+[[smith|SMITH]]. I want to apologize to you. I mean on behalf of the company. I
 
 think it was wrong to offer you money. I think it was more wrong to
 
@@ -2423,11 +2423,11 @@ it helps you.
 
 [_Turns again to go, but more irresolutely._
 
-SMITH. You know quite [[motifs/well|well]] it will not help us.
+[[smith|SMITH]]. You know quite [[motifs/well|well]] it will not help us.
 
 CONJURER. Why not?
 
-SMITH. You know quite [[motifs/well|well]] why not. You are an honest man; and you have
+[[smith|SMITH]]. You know quite [[motifs/well|well]] why not. You are an honest man; and you have
 
 said it yourself. Because he would not believe it.
 
@@ -2435,13 +2435,13 @@ CONJURER. [_With a sort of fury._] [[motifs/well|Well]], does anybody believe it
 
 believe it?
 
-SMITH. [_With great restraint._] Your question is quite fair. Come, let
+[[smith|SMITH]]. [_With great restraint._] Your question is quite fair. Come, let
 
 us sit down and talk about it. Let me take your cloak.
 
 CONJURER. I will take off my cloak when you take off your coat.
 
-SMITH. [_Smiling._] Why? Do you want me to fight?
+[[smith|SMITH]]. [_Smiling._] Why? Do you want me to fight?
 
 CONJURER. [_Violently._] I want you to be martyred. I want you to _bear_
 
@@ -2465,7 +2465,7 @@ that if you don't believe in it? [_With violence._] Or perhaps you don't
 
 believe in devils?
 
-SMITH. I believe.... [_After a pause._] I wish I could believe.
+[[smith|SMITH]]. I believe.... [_After a pause._] I wish I could believe.
 
 CONJURER. Yes. I wish I could disbelieve.
 
@@ -2475,7 +2475,7 @@ CONJURER. Yes. I wish I could disbelieve.
 
 PATRICIA. May I speak to the Conjurer?
 
-SMITH. [_Hastening forward._] You want the Doctor?
+[[smith|SMITH]]. [_Hastening forward._] You want the Doctor?
 
 PATRICIA. No, the Conjurer.
 
@@ -2539,7 +2539,7 @@ am a man. And you are a woman. And all the elves have gone to elfland,
 
 and all the devils to hell. And you and I will walk out of this great
 
-vulgar house and be married.... Every one is crazy in this house
+vulgar [[house]] and be married.... Every one is crazy in this [[house]]
 
 to-[[motifs/night|night]], I think. What am I saying? As if _you_ could marry _me_! O my
 
@@ -2555,7 +2555,7 @@ recently made an offer, I accept it.
 
 CONJURER. Oh, it's nonsense, it's nonsense. How can a man marry an
 
-archangel, let alone a lady. My mother was a lady and she married a
+archangel, let [[Alone|alone]] a lady. My mother was a lady and she married a
 
 dying fiddler who tramped the roads; and the mixture plays the cat and
 
@@ -2689,7 +2689,7 @@ lights, and so on. I don't know whether you realize that it's rather a
 
 strain on a man to drink bad coffee at a coffee-stall when he knows he
 
-has just enough magic in him to make a bottle of champagne walk out of
+has just enough [[Magic|magic]] in him to make a bottle of champagne walk out of
 
 an empty shop.
 
@@ -2775,23 +2775,23 @@ DUKE. What an extraordinary fellow. I [[concepts/wonder|wonder]] if....
 
 [_Suddenly stops speaking._
 
-DOCTOR. [_After a long [[motifs/silence|silence]], in a low voice to_ SMITH.] How do you
+DOCTOR. [_After a long [[motifs/silence|silence]], in a low voice to_ [[smith|SMITH]].] How do you
 
 feel?
 
-SMITH. I feel I must have a [[motifs/window|window]] shut or I must have it open, and I
+[[smith|SMITH]]. I feel I must have a [[motifs/window|window]] shut or I must have it open, and I
 
 don't know which it is.
 
 [_Another long [[motifs/silence|silence]]._
 
-SMITH. [_Crying out suddenly in the dark._] In God's name, go!
+[[smith|SMITH]]. [_Crying out suddenly in the dark._] In God's name, go!
 
 DOCTOR. [_Jumping up rather in a tremble._] Really, sir, I am not used
 
 to being spoken to....
 
-SMITH. It was not you whom I told to go.
+[[smith|SMITH]]. It was not you whom I told to go.
 
 DOCTOR. No. [_Pause._] But I think I will go. This room is simply
 
@@ -2839,7 +2839,7 @@ electricity.
 
 [_Silence as usual._
 
-SMITH. I think there has been more than electricity in all this.
+[[smith|SMITH]]. I think there has been more than electricity in all this.
 
 _Enter_ PATRICIA, _still pale, but radiant._
 
@@ -2853,13 +2853,13 @@ DUKE. Professor, we owe you a thousand thanks!
 
 DOCTOR. Really, you have doubled your claim to originality!
 
-SMITH. It is much more marvellous to explain a miracle than to work a
+[[smith|SMITH]]. It is much more marvellous to explain a miracle than to work a
 
 miracle. What was your explanation, by the way?
 
 CONJURER. I shall not tell you.
 
-SMITH. [_Starting._] Indeed? Why not?
+[[smith|SMITH]]. [_Starting._] Indeed? Why not?
 
 CONJURER. Because God and the demons and that Immortal Mystery that you
 
@@ -2869,25 +2869,25 @@ Because you have felt it here. Because you know the spirits as [[motifs/well|wel
 
 do and [[concepts/fear|fear]] them as much as I do.
 
-SMITH. [[motifs/well|Well]]?
+[[smith|SMITH]]. [[motifs/well|Well]]?
 
 CONJURER. Because all this would not avail. If I told you the lie I told
 
 Morris Carleon about how I did that trick....
 
-SMITH. [[motifs/well|Well]]?
+[[smith|SMITH]]. [[motifs/well|Well]]?
 
 CONJURER. YOU would believe it as he believed it. You cannot think
 
-[_pointing to the lamp_] how that trick could be done naturally. I alone
+[_pointing to the lamp_] how that trick could be done naturally. I [[Alone|alone]]
 
-found out how it could be done--after I had done it by magic. But if I
+found out how it could be done--after I had done it by [[Magic|magic]]. But if I
 
 tell you a natural way of doing it....
 
-SMITH. [[motifs/well|Well]]?...
+[[smith|SMITH]]. [[motifs/well|Well]]?...
 
-CONJURER. Half an hour after I have left this house you will be all
+CONJURER. Half an hour after I have left this [[house]] you will be all
 
 saying how it was done.
 
@@ -2901,7 +2901,7 @@ PATRICIA. Yes. That fairy tale has really and truly come to an end.
 
 [_Looks at him a little in the old mystical manner._] It is very hard
 
-for a fairy tale to come to an end. If you leave it alone it lingers
+for a fairy tale to come to an end. If you leave it [[Alone|alone]] it lingers
 
 everlastingly. Our fairy tale has come to an end in the only way a fairy
 
@@ -2939,7 +2939,7 @@ The Bogie Men--The Full [[motifs/moon|Moon]]--Coats Damer's Gold--McDonough's Wi
 
 _8^o. With Portrait in Photogravure. $1.50 net. By mail, $1.65_
 
-The plays have been acted with great success by the Abbey Company, and
+The plays have been acted with great [[success]] by the Abbey Company, and
 
 have been highly extolled by appreciative audiences and an enthusiastic
 
@@ -3001,7 +3001,7 @@ wrote about the French, having a talent curiously like Moliere."
 
 "The witchery of Yeats, the vivid [[concepts/imagination|imagination]] of Synge, the amusing
 
-literalism mixed with the pronounced romance of their imitators, have
+literalism mixed with the pronounced [[Romance|romance]] of their imitators, have
 
 their place and have been given their praise without stint. But none of
 
@@ -3109,7 +3109,7 @@ The Silver Box--Joy--Strife
 
 By John Galsworthy
 
-Author of "The Country House," etc.
+Author of "The Country [[house|House]]," etc.
 
 [[motifs/crown|Crown]] 8vo. $1.35 net
 
@@ -3123,7 +3123,7 @@ remarkable social document of significance, but as a creation which,
 
 while of the most modern realism, is yet classic in its pronounced art
 
-and exalted philosophy. The play shows the types of the strongest men as
+and exalted [[philosophy]]. The play shows the types of the strongest men as
 
 victims of comical events and of weaker men. It will be produced in
 
@@ -3188,7 +3188,7 @@ E il team di correzione online distribuita
 
 http://www.pgdp.net
 
-MAGIA
+[[Magic|MAGIA]]
 
 In una fantastica [[forms/comedy|commedia]]
 
@@ -3196,7 +3196,7 @@ Illustrazione: G.K. Chesterton
 
 Dalla fotografia
 
-MAGIA
+[[Magic|MAGIA]]
 
 In una fantastica [[forms/comedy|commedia]]
 
@@ -3226,7 +3226,7 @@ Il Duca
 
 Dottor Grimthorpe
 
-Il reverendo Cyril Smith
+Il reverendo Cyril [[smith|Smith]]
 
 MORRIS CARLEON
 
@@ -3248,7 +3248,7 @@ Il forestiero          Franklin Dyall
 
 Patricia Carleon – Miss Grace Croft
 
-Il reverendo Cyril Smith     O.P. Heggie
+Il reverendo Cyril [[smith|Smith]]     O.P. Heggie
 
 Dr. Grimthorpe – William Farren
 
@@ -3278,7 +3278,7 @@ Una voce lontana, di una donna, si sente: metà canta, metà recita.
 
 Parole incomprensibili. La figura incappucciata alza la testa…
 
-Ascolta con interesse. La canzone si avvicina, e_ PATRICIA CARLEON
+Ascolta con interesse. La [[Song|canzone]] si avvicina, e_ PATRICIA CARLEON
 
 _entra. È scura di pelle e snella, con un’espressione sognante.
 
@@ -3300,7 +3300,7 @@ Con il suo bastone tocca la terra.
 
 Ho un cappello, ma non per indossarlo;
 
-Indosso una _spada, ma non per uccidere.
+Indosso una [[Sword|_spada]], ma non per uccidere.
 
 Sempre con me nella mia borsa
 
@@ -3349,11 +3349,11 @@ La scena sembra dissolversi, lasciando il posto a un ambiente diverso…
 Titolo:  
 ATTO PRIMO – Il salotto del duca, un ambiente con arredi francesi aperti
 
-Finestre o qualsiasi apertura abbastanza grande da permettere di vedere un [[motifs/garden|giardino]] e una casa.
+Finestre o qualsiasi apertura abbastanza grande da permettere di vedere un [[motifs/garden|giardino]] e una [[house|casa]].
 
 Piuttosto vicino. È sera, e c’è una luce rossa accesa…
 
-La casa oltre. Il reverendo Cyril Smith è seduto lì, con il cappello in testa.
+La [[house|casa]] oltre. Il reverendo Cyril Smith è seduto lì, con il cappello in testa.
 
 Un visitatore al suo fianco… Un giovane uomo…
 
@@ -3367,23 +3367,23 @@ Ass._
 
 _Dentro entra il signor [[characters/hastings|HASTINGS]], con dei documenti in mano._
 
-[[characters/hastings|HASTINGS]]. Oh, buonasera. Lei è il signor Smith. [_Pausa._] Voglio dire, lei è davvero lui.
+[[characters/hastings|HASTINGS]]. Oh, buonasera. Lei è il signor [[smith|Smith]]. [_Pausa._] Voglio dire, lei è davvero lui.
 
 Il Rettore, credo.
 
-SMITH. Sono il Rettore.
+[[smith|SMITH]]. Sono il Rettore.
 
 [[characters/hastings|HASTINGS]]. Sono il segretario del Duca. Sua Grazia mi incarica di dire che.
 
 Spero di vederti molto presto; ma in questo momento è impegnato con il Dottore.
 
-SMITH. Il Duca è malato?
+[[smith|SMITH]]. Il Duca è malato?
 
 [[characters/hastings|HASTINGS]]. [_Ridefinendo._] Oh no. Il Dottore è venuto a chiedergli di aiutare.
 
 Per qualche motivo o altro. Il Duca non si ammala mai.
 
-SMITH. Il Dottore è con lui adesso?
+[[smith|SMITH]]. Il Dottore è con lui adesso?
 
 [[characters/hastings|HASTINGS]]. In realtà, non lo è. Il Dottore se n’è già andato.
 
@@ -3391,7 +3391,7 @@ La strada per andare a prendere un documento legato alla sua proposta. Ma non è
 
 Da lì si va, come potete vedere. Quella è la sua lampada rossa, all’estremità del suo terreno.
 
-SMITH. Sì, lo so. Sono molto grato a voi. Aspetterò per tutto il tempo necessario.
+[[smith|SMITH]]. Sì, lo so. Sono molto grato a voi. Aspetterò per tutto il tempo necessario.
 
 Necessario.
 
@@ -3411,7 +3411,7 @@ DOTTORE. [_Ripiegando la carta._] Vi chiedo scusa, signore, non avevo
 
 notato che ci fosse qualcuno qui.
 
-SMITH. [_Amichevolmente._] Scusate voi. Un nuovo ecclesiastico non può aspettarsi di essere
+[[smith|SMITH]]. [_Amichevolmente._] Scusate voi. Un nuovo ecclesiastico non può aspettarsi di essere
 
 atteso. Sono venuto solo per vedere il Duca a proposito di certe faccende locali.
 
@@ -3419,25 +3419,25 @@ DOTTORE. [_Sorridendo._] E, per strano che sia, anch'io. Ma suppongo che
 
 entrambi vorremmo prenderlo per un orecchio ciascuno.
 
-SMITH. Oh, per quanto mi riguarda non c'è alcun mistero. Mi sono unito a questa
+[[smith|SMITH]]. Oh, per quanto mi riguarda non c'è alcun mistero. Mi sono unito a questa
 
-lega per l'apertura di un'osteria modello nella parrocchia; e in parole
+lega per l'apertura di un'[[house|osteria]] modello nella parrocchia; e in parole
 
 povere, sono venuto a chiedere a Sua Grazia una sottoscrizione.
 
 DOTTORE. [_Cupamente._] E, guarda caso, io mi sono unito alla petizione
 
-contro l'erezione di un'osteria modello in questa parrocchia. La
+contro l'erezione di un'[[house|osteria]] modello in questa parrocchia. La
 
 somiglianza della nostra posizione cresce a ogni istante.
 
-SMITH. Sì, credo che dobbiamo essere stati gemelli.
+[[smith|SMITH]]. Sì, credo che dobbiamo essere stati gemelli.
 
-DOTTORE. [_Con più buonumore._] [[motifs/well|Beh]], che cos'è un'osteria modello? Volete
+DOTTORE. [_Con più buonumore._] [[motifs/well|Beh]], che cos'è un'[[house|osteria]] modello? Volete
 
 forse dire un giocattolo?
 
-SMITH. Intendo un luogo dove gli inglesi possano bere qualcosa di decente e berlo
+[[smith|SMITH]]. Intendo un luogo dove gli inglesi possano bere qualcosa di decente e berlo
 
 decentemente. Voi lo chiamate un giocattolo?
 
@@ -3445,7 +3445,7 @@ DOTTORE. No; lo chiamerei un gioco di prestigio. O, in omaggio al vostro
 
 abito, dirò un miracolo.
 
-SMITH. Accetto l'omaggio al mio abito. Sto facendo il mio dovere di sacerdote.
+[[smith|SMITH]]. Accetto l'omaggio al mio abito. Sto facendo il mio dovere di sacerdote.
 
 Come può la Chiesa avere il diritto di far digiunare gli uomini se non permette
 
@@ -3455,7 +3455,7 @@ DOTTORE. [_Con amarezza._] E quando avrete finito di banchettarli, li
 
 manderete da me a farsi curare.
 
-SMITH. Sì; e quando voi avrete finito di curarli li manderete da me a
+[[smith|SMITH]]. Sì; e quando voi avrete finito di curarli li manderete da me a
 
 farsi seppellire.
 
@@ -3463,19 +3463,19 @@ DOTTORE. [_Dopo una pausa, ridendo._] [[motifs/well|Beh]], voi avete tutte le ve
 
 dottrine. È giusto che abbiate anche tutte le vecchie battute.
 
-SMITH. [_Ridendo anche lui._] A proposito, chiamate gioco di prestigio il fatto che
+[[smith|SMITH]]. [_Ridendo anche lui._] A proposito, chiamate gioco di prestigio il fatto che
 
 la povera gente beva con moderazione.
 
 DOTTORE. La chiamo una scoperta chimica: che l'alcol non è un alimento.
 
-SMITH. Voi non bevete vino?
+[[smith|SMITH]]. Voi non bevete vino?
 
 DOTTORE. [_Lievemente trasalendo._] Bere vino! [[motifs/well|Beh]]--che altro c'è da
 
 bere?
 
-SMITH. Dunque bere decentemente è un gioco di prestigio che voi comunque sapete
+[[smith|SMITH]]. Dunque bere decentemente è un gioco di prestigio che voi comunque sapete
 
 fare?
 
@@ -3485,7 +3485,7 @@ di giochi di prestigio, ci saranno prestidigitazione e ogni sorta di cose
 
 qui questo pomeriggio.
 
-SMITH. Prestidigitazione? Davvero? E perché mai?
+[[smith|SMITH]]. Prestidigitazione? Davvero? E perché mai?
 
 _Entra_ [[characters/hastings|HASTINGS]] _con una lettera in ciascuna mano._
 
@@ -3495,9 +3495,9 @@ prima di tutto la questione d'affari.
 
 [_Consegna un biglietto a ciascuno di loro._
 
-SMITH. [_Voltandosi con entusiasmo verso il_ DOTTORE.] Ma questo è davvero splendido.
+[[smith|SMITH]]. [_Voltandosi con entusiasmo verso il_ DOTTORE.] Ma questo è davvero splendido.
 
-Il Duca ha dato 50 sterline alla nuova osteria.
+Il Duca ha dato 50 sterline alla nuova [[house|osteria]].
 
 [[characters/hastings|HASTINGS]]. Il Duca è molto liberale.
 
@@ -3505,13 +3505,13 @@ Il Duca ha dato 50 sterline alla nuova osteria.
 
 DOTTORE. [_Esaminando il proprio assegno._] Moltissimo. Ma questo è piuttosto curioso. Ha
 
-dato anche 50 sterline alla lega che si oppone alla nuova osteria.
+dato anche 50 sterline alla lega che si oppone alla nuova [[house|osteria]].
 
 [[characters/hastings|HASTINGS]]. Il Duca è di mentalità molto liberale.
 
 [_Esce._
 
-SMITH. [_Fissando il proprio assegno._] Di mentalità liberale!... Distratto di mente, lo
+[[smith|SMITH]]. [_Fissando il proprio assegno._] Di mentalità liberale!... Distratto di mente, lo
 
 chiamerei io.
 
@@ -3529,13 +3529,13 @@ cerca sempre di accontentare tutti. In genere finisce per non accontentare
 
 nessuno.
 
-SMITH. Sì; credo di sapere di che genere di cosa si tratta.
+[[smith|SMITH]]. Sì; credo di sapere di che genere di cosa si tratta.
 
 DOTTORE. Prendete questa faccenda della prestidigitazione, per esempio. Sapete che il Duca ha due
 
 pupilli che ora devono vivere con lui?
 
-SMITH. Sì. Ho sentito qualcosa a proposito di un nipote e di una nipote dall'Irlanda.
+[[smith|SMITH]]. Sì. Ho sentito qualcosa a proposito di un nipote e di una nipote dall'Irlanda.
 
 DOTTORE. La nipote è venuta dall'Irlanda alcuni mesi fa, ma il nipote
 
@@ -3543,15 +3543,15 @@ torna dall'[[settings/america|America]] [[motifs/night|stasera]]. [_Si alza brus
 
 la stanza._] Credo che vi racconterò tutto. Nonostante la vostra
 
-preziosa osteria, voi mi sembrate un uomo assennato. E credo che
+preziosa [[house|osteria]], voi mi sembrate un uomo assennato. E credo che
 
 avrò bisogno di tutti gli uomini assennati che potrò trovare [[motifs/night|stasera]].
 
-SMITH. [_Alzandosi anche lui._] Sono al vostro servizio. Sapete, avevo un po'
+[[smith|SMITH]]. [_Alzandosi anche lui._] Sono al vostro servizio. Sapete, avevo un po'
 
 indovinato che non eravate venuto qui solo per protestare contro la mia preziosa
 
-osteria.
+[[house|osteria]].
 
 DOTTORE. [_Camminando avanti e indietro in un'eccitazione contenuta._] [[motifs/well|Beh]], avete indovinato
 
@@ -3559,13 +3559,13 @@ giusto. Ero il medico di famiglia del fratello del Duca in Irlanda. Conoscevo
 
 la famiglia piuttosto [[motifs/well|bene]].
 
-SMITH. [_Sommessamente._] Suppongo vogliate dire che sapevate qualcosa di strano sulla
+[[smith|SMITH]]. [_Sommessamente._] Suppongo vogliate dire che sapevate qualcosa di strano sulla
 
 famiglia?
 
 DOTTORE. [[motifs/well|Beh]], vedevano fate e cose di quel genere.
 
-SMITH. E suppongo che, per la mente medica, vedere fate significhi più o meno lo
+[[smith|SMITH]]. E suppongo che, per la mente medica, vedere fate significhi più o meno lo
 
 stesso che vedere serpenti?
 
@@ -3581,7 +3581,7 @@ e folletti e streghe nel [[motifs/garden|giardino]] sul retro del povero Duca st
 
 iarda dalla mia stessa lampada rossa. Dimostra una mancanza di tatto.
 
-SMITH. Ma io ho ben capito che il nipote e la nipote del Duca vedono streghe
+[[smith|SMITH]]. Ma io ho ben capito che il nipote e la nipote del Duca vedono streghe
 
 e fate tra qui e la vostra lampada.
 
@@ -3593,7 +3593,7 @@ possono vedere fate in [[settings/america|America]]. Ma c'è questa specie di su
 
 famiglia, e non sono tranquillo riguardo alla ragazza.
 
-SMITH. Perché, che cosa fa?
+[[smith|SMITH]]. Perché, che cosa fa?
 
 DOTTORE. Oh, vaga per il parco e per i boschi la sera.
 
@@ -3605,13 +3605,13 @@ Ma quel che è peggio, parla sempre di incontrare qualcuno, un qualche
 
 elfo o mago o cosa simile. Non mi piace affatto.
 
-SMITH. L'avete detto al Duca?
+[[smith|SMITH]]. L'avete detto al Duca?
 
 DOTTORE. [_Con un sorriso torvo._] Oh, sì, l'ho detto al Duca. Il risultato è stato
 
 il prestigiatore.
 
-SMITH. [_Con stupore._] Il _prestigiatore_?
+[[smith|SMITH]]. [_Con stupore._] Il _prestigiatore_?
 
 DOTTORE. [_Posa il sigaro nel portacenere._] Il Duca è
 
@@ -3649,7 +3649,7 @@ stato presente del ceto nobiliare è necessario spiegare che
 
 il_ DUCA, _benché sciocco, è un gentiluomo._
 
-DUCA. Buongiorno, signor Smith. Mi dispiace tanto avervi fatto aspettare, ma
+DUCA. Buongiorno, signor [[smith|Smith]]. Mi dispiace tanto avervi fatto aspettare, ma
 
 oggi siamo un po' di fretta. [_Si volge verso_ [[characters/hastings|HASTINGS]], _che si è portato
 
@@ -3669,7 +3669,7 @@ dicono che laggiù abbia fatto grandi cose. Petrolio, o qualcosa del genere. Bis
 
 stare al passo coi tempi, eh?
 
-DOTTORE. Temo che il signor Smith non sia sempre d'accordo con lo stare al passo coi
+DOTTORE. Temo che il signor [[smith|Smith]] non sia sempre d'accordo con lo stare al passo coi
 
 tempi.
 
@@ -3695,15 +3695,15 @@ sapete.
 
 brusche associazioni o dissociazioni di pensiero del_ DUCA.
 
-SMITH. [_Alla fine, con voce fioca._] Antichi Britanni....
+[[smith|SMITH]]. [_Alla fine, con voce fioca._] Antichi Britanni....
 
-DOTTORE. [_Al_ SMITH _a bassa voce._] Non fateci caso. È solo la sua
+DOTTORE. [_Al_ [[smith|SMITH]] _a bassa voce._] Non fateci caso. È solo la sua
 
 larghezza di vedute.
 
 DUCA. [_Con immutata giovialità._] Ho visto il luogo che state costruendo
 
-a tale scopo, signor Smith. Ottimo lavoro. Ottimo lavoro, davvero. L'arte per il
+a tale scopo, signor [[smith|Smith]]. Ottimo lavoro. Ottimo lavoro, davvero. L'arte per il
 
 popolo, eh? Mi è piaciuto in particolare quel lavoro in legno sopra la porta ovest--sono
 
@@ -3713,9 +3713,9 @@ ricorda la [[historical-references/french-revolution|Rivoluzione francese]].
 
 [_Un altro [[motifs/silence|silenzio]]. Mentre il_ DUCA _gironzola vigile per la stanza_,
 
-SMITH _parla al_ DOTTORE _sottovoce._
+[[smith|SMITH]] _parla al_ DOTTORE _sottovoce._
 
-SMITH. Vi ricorda la [[historical-references/french-revolution|Rivoluzione francese]]?
+[[smith|SMITH]]. Vi ricorda la [[historical-references/french-revolution|Rivoluzione francese]]?
 
 DOTTORE. Quanto qualunque altra cosa. Sua Grazia non mi ricorda mai
 
@@ -3829,7 +3829,7 @@ DUCA. Oh, non un _uomo_, sapete. Un mago, qualcosa di mitico, sapete
 
 bene.
 
-SMITH. Non un _uomo_, ma un uomo di medicina.
+[[smith|SMITH]]. Non un _uomo_, ma un uomo di medicina.
 
 DOTTORE. [_Cupamente._] Io sono un uomo di medicina.
 
@@ -3855,9 +3855,9 @@ diceva il vecchio Buffle....
 
 [_Mentre parla si ode una voce lontana cantare nel [[motifs/garden|giardino]]; si
 
-avvicina sempre di più, e_ SMITH _si volge di scatto verso il_ DOTTORE.
+avvicina sempre di più, e_ [[smith|SMITH]] _si volge di scatto verso il_ DOTTORE.
 
-SMITH. Di chi è quella voce?
+[[smith|SMITH]]. Di chi è quella voce?
 
 DOTTORE. Non spetta a me deciderlo!
 
@@ -3905,11 +3905,11 @@ mantello, con un berretto a punta o cappuccio come gli elfi nelle mie storie d'i
 
 A volte, quando guardo fuori dalla [[motifs/window|finestra]] qui, lo vedo aggirarsi attorno a
 
-questa casa come un'[[archetypes/shadow|ombra]]; e vedo il suo cappuccio a punta, scuro contro il
+questa [[house|casa]] come un'[[archetypes/shadow|ombra]]; e vedo il suo cappuccio a punta, scuro contro il
 
 tramonto o il sorgere della [[motifs/moon|luna]].
 
-SMITH. Di che cosa parla?
+[[smith|SMITH]]. Di che cosa parla?
 
 PATRICIA. Mi dice la [[concepts/truth|verità]]. Moltissime cose vere. È un mago.
 
@@ -3951,7 +3951,7 @@ concedere un po' di più alla poesia. Non possiamo tutti nutrirci solo di petrol
 
 DUCA. Giustissimo, giustissimo. Ed essendo irlandese, non è vero, celtico,
 
-come diceva il vecchio Buffle, deliziose canzoni, sapete, sulla ragazza
+come diceva il vecchio Buffle, deliziose [[songs|canzoni]], sapete, sulla ragazza
 
 irlandese che ha uno scialle scozzese--e una Banshee. [_Sospira profondamente._] Povero
 
@@ -3959,7 +3959,7 @@ vecchio Gladstone!
 
 [_Silenzio come al solito._
 
-SMITH. [_Parlando al_ DOTTORE.] Credevo che voi stesso consideraste la
+[[smith|SMITH]]. [_Parlando al_ DOTTORE.] Credevo che voi stesso consideraste la
 
 superstizione di famiglia dannosa per la salute?
 
@@ -3999,7 +3999,7 @@ Ma non pensate che possano esistere [[motifs/stars|stelle]] fluttuanti e spiritu
 
 dureranno più a lungo delle lampade rosse?
 
-SMITH. _Con determinazione._ Sì. Ma sono stelle immobili, fisse nel cielo.
+[[smith|SMITH]]. _Con determinazione._ Sì. Ma sono stelle immobili, fisse nel cielo.
 
 DOTTORE. La luce rossa durerà per tutta la mia [[motifs/time|)vita]].
 
@@ -4049,7 +4049,7 @@ PATRICIA. Oh, non c’è bisogno che vi disturbiate. Verrà se lo chiamo io.
 
 Uscì nel [[motifs/garden|giardino]] e chiamò, con voce semicantata.
 
-Parole incomprensibili, un po' come la canzone che l'aveva preceduta.
+Parole incomprensibili, un po' come la [[Song|canzone]] che l'aveva preceduta.
 
 “Entrata… Il semaforo rosso si accende di nuovo; e si sente un leggero suono…”
 
@@ -4067,7 +4067,7 @@ MORRIS. _Chiude le porte del [[motifs/garden|giardino]] alle sue spalle._ Ora, g
 
 Ti abbiamo catturato. E sappiamo che sei un truffatore.
 
-SMITH. [_In silenzio._] Scusate, non credo che lo sappiamo. Perché.
+[[smith|SMITH]]. [_In silenzio._] Scusate, non credo che lo sappiamo. Perché.
 
 Devo ammettere che anch'io condivido, in parte, l'agnosticismo del Dottore.
 
@@ -4075,13 +4075,13 @@ MORRIS. [_Emozionato, e quasi ringhiando._] Non sapevo che fossi qui…
 
 I parroci difendevano solo le favole proprie, non quelle altrui.
 
-SMITH. Io difendo ciò che ogni uomo ha il diritto di avere. Forse.
+[[smith|SMITH]]. Io difendo ciò che ogni uomo ha il diritto di avere. Forse.
 
 L’unica cosa a cui ogni uomo ha diritto.
 
 MORRIS. E cos'è quello?
 
-SMITH. Il vantaggio della [[concepts/doubt|dubbio]]. Anche il tuo padrone, il petrolio.
+[[smith|SMITH]]. Il vantaggio della [[concepts/doubt|dubbio]]. Anche il tuo padrone, il petrolio.
 
 Un milionario ha il diritto a farlo. E penso che ne abbia bisogno ancora di più.
 
@@ -4192,7 +4192,7 @@ In campagna, e tutto il resto. Guardate ora come ricordo i volti! Il [[archetype
 Titolo:  
 “Vede il Mago… e lo invita gentilmente ad avvicinarsi”
 
-Il Professore, che si esibisce davanti al [[archetypes/king|Re]], perché.
+[[The Professor|Il Professore]], che si esibisce davanti al [[archetypes/king|Re]], perché.
 
 Programmi installati – Li vedi sugli caravan, vero?
 
@@ -4228,7 +4228,7 @@ sola altra cosa davvero urgente sono i Vegetariani Militanti.
 
 DUCA. Ah! I Vegetariani Militanti! Ne avete sentito parlare, ne sono certo.
 
-Non obbediscono alla legge [_al_ PRESTIGIATORE] finché il Governo distribuisce
+Non obbediscono alla legge [_al_ PRESTIGIATORE] finché il [[government|Governo]] distribuisce
 
 carne.
 
@@ -4242,7 +4242,7 @@ anche--oh, certamente avanzati. Come Giovanna d'Arco.
 
 [_Breve [[motifs/silence|silenzio]], durante il quale il_ PRESTIGIATORE _lo fissa._]
 
-PRESTIGIATORE. _Era_ Giovanna d'Arco una Vegetariana?
+PRESTIGIATORE. _Era_ Giovanna d'Arco una [[vegetarian|Vegetariana]]?
 
 DUCA. Oh, [[motifs/well|beh]], è un ideale molto alto, dopotutto. La Sacralità della
 
@@ -4250,7 +4250,7 @@ Vita, sapete--la Sacralità della Vita. [_Scuote il capo._] Ma loro
 
 la portano troppo oltre. Hanno ucciso un poliziotto giù nel [[characters/kent|Kent]].
 
-PRESTIGIATORE. Ucciso un poliziotto? Che cosa Vegetariana! [[motifs/well|Beh]], suppongo che lo fosse, purché
+PRESTIGIATORE. Ucciso un poliziotto? Che cosa [[vegetarian|Vegetariana]]! [[motifs/well|Beh]], suppongo che lo fosse, purché
 
 non l'abbiano mangiato.
 
@@ -4288,11 +4288,11 @@ Non un sistema logico--niente Rousseau dentro--ma guardate quanto [[motifs/well|
 
 sarò il miglior magistrato che possa sedere in tribunale. Gli altri
 
-sarebbero prevenuti, sapete. Il vecchio Sir Lawrence è lui stesso un Vegetariano;
+sarebbero prevenuti, sapete. Il vecchio Sir Lawrence è lui stesso un [[vegetarian|Vegetariano]];
 
-e potrebbe essere duro coi manigoldi Anti-Vegetariani. Il colonnello Crashaw
+e potrebbe essere duro coi manigoldi Anti-[[vegetarian|Vegetariani]]. Il colonnello Crashaw
 
-sarebbe di certo duro coi manigoldi Vegetariani. Ma se li ho pagati
+sarebbe di certo duro coi manigoldi [[vegetarian|Vegetariani]]. Ma se li ho pagati
 
 entrambi, naturalmente non sarò duro con nessuno dei due--ed eccola qua.
 
@@ -4490,7 +4490,7 @@ Perlopiù deve farlo nelle bestiali città nere delle Midlands e
 
 del Nord, dove non può uscire in campagna. Di tanto in tanto lo
 
-fa in una casa di campagna di qualche gentiluomo, dove può uscire in
+fa in una [[house|casa]] di campagna di qualche gentiluomo, dove può uscire in
 
 campagna. [[motifs/well|Beh]], sapete che attori e oratori e ogni sorta di persone
 
@@ -4510,9 +4510,9 @@ un po' di [[motifs/time|tempo]] per preparare un'improvvisata. Un uomo così va 
 
 boschi e i campi facendo tutti i suoi trucchi in anticipo, e dicendo ogni sorta
 
-di farfugliamenti perché crede di essere solo. Una sera quest'uomo scoprì
+di farfugliamenti perché crede di essere [[Alone|solo]]. Una sera quest'uomo scoprì
 
-di non essere solo. Scoprì che una bellissima [[archetypes/child|fanciulla]] lo stava osservando.
+di non essere [[Alone|solo]]. Scoprì che una bellissima [[archetypes/child|fanciulla]] lo stava osservando.
 
 PATRICIA. Una [[archetypes/child|fanciulla]]?
 
@@ -4544,7 +4544,7 @@ uomo, Miss Carleon, se ha goduto dell'unica fiaba che avesse avuto nella sua
 
 vita? Supponete che dicesse che gli sciocchi cerchi che tracciava per esercizio
 
-erano davvero cerchi magici? Supponete che dicesse che le fandonie che diceva erano
+erano davvero cerchi [[Magic|magici]]? Supponete che dicesse che le fandonie che diceva erano
 
 la lingua degli elfi? Ricordate, ha letto fiabe tanto quanto
 
@@ -4556,13 +4556,13 @@ anche lui ha cercato di prendersi una vacanza nel paese delle fate?
 
 PATRICIA. [_Con semplicità._] Lo biasimo meno di prima. Ma continuo a dire che
 
-non ci può essere nulla di peggio della falsa magia. E, dopotutto, fu lui a
+non ci può essere nulla di peggio della falsa [[Magic|magia]]. E, dopotutto, fu lui a
 
-portare la falsa magia.
+portare la falsa [[Magic|magia]].
 
 PRESTIGIATORE. [_Alzandosi dal suo posto._] Sì. Fu lei a portare la vera
 
-magia.
+[[Magic|magia]].
 
 [_Entra_ MORRIS, _in abito da sera. Cammina dritto verso il
 
@@ -4636,7 +4636,7 @@ di carte e soppesandolo nella mano._
 
 MORRIS. Ah, quasi tutti i misteri sono abbastanza chiari se si conosce
 
-l'apparato. [_Entrano il_ DOTTORE _e_ SMITH, _parlando con volti [[motifs/grave|gravi]], ma
+l'apparato. [_Entrano il_ DOTTORE _e_ [[smith|SMITH]], _parlando con volti [[motifs/grave|gravi]], ma
 
 facendosi silenziosi mentre raggiungono il gruppo._] Vorrei proprio che avessimo tutto il
 
@@ -4678,23 +4678,23 @@ PATRICIA. La Dama che Scompare!
 
 [_Esce_ PATRICIA.
 
-SMITH. C'è una parte del loro vecchio apparato la cui perdita rimpiango
+[[smith|SMITH]]. C'è una parte del loro vecchio apparato la cui perdita rimpiango
 
 in modo particolare.
 
 MORRIS. [_Ancora eccitato._] Sì!
 
-SMITH. L'apparato per scrivere il Libro di Giobbe.
+[[smith|SMITH]]. L'apparato per scrivere il Libro di Giobbe.
 
 MORRIS. [[motifs/well|Beh]], [[motifs/well|beh]], non sapevano tutto in quei tempi antichi.
 
-SMITH. No, e in quei tempi antichi sapevano di non saperlo. [_Sognante._]
+[[smith|SMITH]]. No, e in quei tempi antichi sapevano di non saperlo. [_Sognante._]
 
 Dove si troverà la sapienza, e qual è il luogo dell'intelligenza?
 
 PRESTIGIATORE. Da qualche parte in [[settings/america|America]], credo.
 
-SMITH. [_Sempre sognante._] L'uomo non ne conosce il prezzo; né essa
+[[smith|SMITH]]. [_Sempre sognante._] L'uomo non ne conosce il prezzo; né essa
 
 si trova nella terra dei viventi. L'abisso dice: non è in me; il
 
@@ -4813,29 +4813,29 @@ Ascolto dire che sei un selvaggio e che hai sepolto un tomahawk… Preferirei di
 Titolo:  
 “Sentirti dire, come avrebbero detto i tuoi antenati irlandesi, che…”
 
-Avvolgesti la tua _spada con la dignità propria di un gentiluomo.
+Avvolgesti la tua [[Sword|_spada]] con la dignità propria di un gentiluomo.
 
-MORRIS. Molto bene. Ho riposto la mia _spada con la dignità che si addice a.
+MORRIS. Molto bene. Ho riposto la mia [[Sword|_spada]] con la dignità che si addice a.
 
 Signore.
 
-Congiuratore. E ho riposto la mia _spada con la dignità che le è dovuta.
+Congiuratore. E ho riposto la mia [[Sword|_spada]] con la dignità che le è dovuta.
 
 Stregone.
 
-MORRIS. Come fa il Mago a riporre una _spada nel suo fodero?
+MORRIS. Come fa il Mago a riporre una [[Sword|_spada]] nel suo fodero?
 
 Stregone. Lo ingoia.
 
 DOTTORE. Allora siamo tutti d’accordo sul fatto che non dovranno esserci litigi.
 
-SMITH. Posso dire una parola? Non sopporto affatto le liti.
+[[smith|SMITH]]. Posso dire una parola? Non sopporto affatto le liti.
 
 Una ragione che va ben oltre i limiti del mio dovere verso la mia attività.
 
 MORRIS. E cos'è quello?
 
-SMITH. Mi oppongo alle liti, perché interrompono sempre una discussione.
+[[smith|SMITH]]. Mi oppongo alle liti, perché interrompono sempre una discussione.
 
 Posso riportarvi per un momento sull’argomento di cui stavamo parlando? Stavate dicendo che…
 
@@ -4857,19 +4857,19 @@ Morris: davvero un uomo amabile… ma credo che tu troveresti in lui qualcosa di
 
 Chiamiamo questa interruzione di un argomento.
 
-SMITH. Beh, supponiamo che l'abbia detto davvero, voi non pensereste che intendessi dire.
+[[smith|SMITH]]. Beh, supponiamo che l'abbia detto davvero, voi non pensereste che intendessi dire.
 
 Sir Joshua Reynolds non visse mai… Perché dovrebbero i falsi miracoli dimostrarci qualcosa?
 
 Che quei veri Santi e Profeti non siano mai esistiti. Potrebbero esserci magie false, ma.
 
-Anche vera magia.
+Anche vera [[Magic|magia]].
 
 Il Mago Alza la Testa e Ascolta con un’aria Strana
 
 Intenzionalità
 
-SMITH. Potrebbero esistere “fantasmi” di ravanello proprio perché ne esistono di veri.
+[[smith|SMITH]]. Potrebbero esistere “fantasmi” di ravanello proprio perché ne esistono di veri.
 
 [[motifs/ghosts|fantasmi]]. Forse esistono fate teatrali proprio perché ne esistono di vere.
 
@@ -4877,7 +4877,7 @@ Fate: Non si può abolire la Banca d’Inghilterra semplicemente indicando un do
 
 Banconota.
 
-Morris. Spero che al Professore piaccia essere chiamato “banconota falsa”.
+Morris. Spero che al [[The Professor|Professore]] piaccia essere chiamato “banconota falsa”.
 
 Conjurer. Quasi quanto essere definito il “prospetto” di qualche azienda americana…
 
@@ -4889,9 +4889,9 @@ STREGONE: Mi dispiace.
 
 MORRIS. Ebbene, prima facciamoci questa discussione, e poi potremo…
 
-Litigheranno dopo. Pulirò questa casa da tutte queste incombenze. Capito?
+Litigheranno dopo. Pulirò questa [[house|casa]] da tutte queste incombenze. Capito?
 
-Ecco, signor Smith, non sto affatto mettendo in dubbio la sua idea di un vero miracolo. Io.
+Ecco, signor [[smith|Smith]], non sto affatto mettendo in dubbio la sua idea di un vero miracolo. Io.
 
 “Dicono, e la scienza conferma, che tutto abbia una causa. La scienza… lo dimostra.”
 
@@ -4903,7 +4903,7 @@ Potente e meschino… Prima o poi la scienza si occuperà anche dei tuoi “rapa
 
 Diciamo.
 
-DOTTORO. _A bassa voce, rivolto a SMITH._ Non mi piace questo discorso pacifico.
+DOTTORO. _A bassa voce, rivolto a [[smith|SMITH]]._ Non mi piace questo discorso pacifico.
 
 Di tuo. Il ragazzo si sta eccitando troppo.
 
@@ -4993,9 +4993,9 @@ MORRIS. [_Lo affronta con rabbia._] Ti definisci un uomo…
 
 Scienza, e tu osi dirmi di non indagare?
 
-SMITH. Vogliamo solo dire che, per il momento, potresti lasciarlo da solo.
+[[smith|SMITH]]. Vogliamo solo dire che, per il momento, potresti lasciarlo [[Alone|da solo]].
 
-MORRIS. [_Con violenza._] No, Prete, non lo lascerò stare. [_Percorrendo di nuovo
+MORRIS. [_Con violenza._] No, Prete, non lo lascerò [[Alone|stare]]. [_Percorrendo di nuovo
 
 la stanza._] Si potrebbe fare con degli specchi? [_Si stringe la fronte._] Lei
 
@@ -5007,7 +5007,7 @@ rossa....
 
 [_[[motifs/silence|Silenzio]] improvviso._
 
-SMITH. [_Sottovoce al_ DOTTORE.] Non ottieni il blu.
+[[smith|SMITH]]. [_Sottovoce al_ DOTTORE.] Non ottieni il blu.
 
 DOTTORE. [_Avvicinandosi al_ PRESTIGIATORE.] Se ha fatto lei questo
 
@@ -5033,13 +5033,13 @@ cosa c'è di sbagliato nella lampada.
 
 DOTTORE. È ancora una [[motifs/night|notte]] umida, temo.
 
-SMITH. Sì. E ora qualcun altro andrà errando per il [[motifs/garden|giardino]].
+[[smith|SMITH]]. Sì. E ora qualcun altro andrà errando per il [[motifs/garden|giardino]].
 
 [_Attraverso le porte a vetri infrante si vede_ MORRIS _andare
 
 avanti e indietro a passi sempre più rapidi._
 
-SMITH. Suppongo che in questo caso il crepuscolo celtico non gli si poserà sul
+[[smith|SMITH]]. Suppongo che in questo caso il crepuscolo celtico non gli si poserà sul
 
 petto.
 
@@ -5071,13 +5071,13 @@ PATRICIA. Esco a cercare mio fratello.
 
 [_Esce nel [[motifs/garden|giardino]] attraverso le porte aperte._
 
-SMITH. [_Dopo un [[motifs/silence|silenzio]], all'improvviso._] Che cos'è quel rumore? Non gli
+[[smith|SMITH]]. [_Dopo un [[motifs/silence|silenzio]], all'improvviso._] Che cos'è quel rumore? Non gli
 
-starà mica cantando quelle canzoni, vero?
+starà mica cantando quelle [[songs|canzoni]], vero?
 
 PRESTIGIATORE. No. Lui non capisce la lingua degli elfi.
 
-SMITH. Ma cosa sono tutte quelle grida e quegli ansiti che sento?
+[[smith|SMITH]]. Ma cosa sono tutte quelle grida e quegli ansiti che sento?
 
 PRESTIGIATORE. I normali rumori, credo, di un tranquillo uomo d'affari.
 
@@ -5093,7 +5093,7 @@ DOTTORE. Mia cara signora, certamente. Devo chiamare il Duca?
 
 PATRICIA. Preferirei il Dottore.
 
-SMITH. Posso essere d'aiuto?
+[[smith|SMITH]]. Posso essere d'aiuto?
 
 PATRICIA. Voglio soltanto il Dottore.
 
@@ -5101,19 +5101,19 @@ PATRICIA. Voglio soltanto il Dottore.
 
 guardano l'un l'altro._
 
-SMITH. [_Sottovoce._] Quest'ultimo è stato un trucco meraviglioso, il suo.
+[[smith|SMITH]]. [_Sottovoce._] Quest'ultimo è stato un trucco meraviglioso, il suo.
 
 PRESTIGIATORE. Grazie. Suppongo che intenda dire che è stato l'unico che non ha
 
 smascherato.
 
-SMITH. Qualcosa del genere, lo confesso. Il suo ultimo trucco è stato il miglior
+[[smith|SMITH]]. Qualcosa del genere, lo confesso. Il suo ultimo trucco è stato il miglior
 
 trucco che io abbia mai visto. È così bello che vorrei non l'avesse fatto.
 
 PRESTIGIATORE. E lo vorrei anch'io.
 
-SMITH. Come sarebbe? Vorrebbe non essere mai stato un prestigiatore?
+[[smith|SMITH]]. Come sarebbe? Vorrebbe non essere mai stato un prestigiatore?
 
 PRESTIGIATORE. Vorrei non essere mai nato.
 
@@ -5123,7 +5123,7 @@ PRESTIGIATORE. Vorrei non essere mai nato.
 
 DOTTORE. Per ora va tutto bene. L'abbiamo riportato indietro.
 
-SMITH. [_Avvicinandosi a lui._] Mi aveva detto che c'era un disturbo mentale
+[[smith|SMITH]]. [_Avvicinandosi a lui._] Mi aveva detto che c'era un disturbo mentale
 
 nella ragazza.
 
@@ -5131,27 +5131,27 @@ DOTTORE. [_Guardandolo fisso._] No. Le ho detto che c'era un disturbo
 
 mentale nella famiglia.
 
-SMITH. [_Dopo un [[motifs/silence|silenzio]]._] Dov'è il signor Morris Carleon?
+[[smith|SMITH]]. [_Dopo un [[motifs/silence|silenzio]]._] Dov'è il signor Morris Carleon?
 
 DOTTORE. L'ho messo a letto nella stanza accanto. Sua sorella si sta
 
 prendendo cura di lui.
 
-SMITH. Sua sorella! Oh, allora lei crede nelle fate?
+[[smith|SMITH]]. Sua sorella! Oh, allora lei crede nelle fate?
 
 DOTTORE. Credere nelle fate? Che cosa intende?
 
-SMITH. Quantomeno ha affidato la persona che ci crede alla custodia
+[[smith|SMITH]]. Quantomeno ha affidato la persona che ci crede alla custodia
 
 della persona che non ci crede.
 
 DOTTORE. [[motifs/well|Beh]], suppongo di sì.
 
-SMITH. Non teme che lo terrà sveglio tutta la [[motifs/night|notte]] con le fiabe?
+[[smith|SMITH]]. Non teme che lo terrà sveglio tutta la [[motifs/night|notte]] con le fiabe?
 
 DOTTORE. Certamente no.
 
-SMITH. Non teme che getterà la boccetta della medicina dalla [[motifs/window|finestra]]
+[[smith|SMITH]]. Non teme che getterà la boccetta della medicina dalla [[motifs/window|finestra]]
 
 e gli somministrerà... ehm... una goccia di rugiada, o qualcosa del genere? O un
 
@@ -5159,7 +5159,7 @@ quadrifoglio, mettiamo?
 
 DOTTORE. No; certo che no.
 
-SMITH. Lo chiedo solo perché voi uomini di scienza siete un po' duri con noi
+[[smith|SMITH]]. Lo chiedo solo perché voi uomini di scienza siete un po' duri con noi
 
 ecclesiastici. Voi non credete in un sacerdozio; ma ammetterà che io sono più
 
@@ -5179,7 +5179,7 @@ un'ombra di [[concepts/doubt|dubbio]]: perché si fida delle donne.
 
 DOTTORE. [_Molto serio._] Sì, mi fido delle donne.
 
-SMITH. Affida a una donna le questioni pratiche della vita e della [[motifs/death|morte]],
+[[smith|SMITH]]. Affida a una donna le questioni pratiche della vita e della [[motifs/death|morte]],
 
 lungo ore insonni in cui una mano tremante o un grano di troppo
 
@@ -5187,7 +5187,7 @@ ucciderebbero.
 
 DOTTORE. Sì.
 
-SMITH. Ma se la donna si alza per andare alla prima funzione nella mia chiesa, la
+[[smith|SMITH]]. Ma se la donna si alza per andare alla prima funzione nella mia chiesa, la
 
 chiama debole di mente e dice che nessuno tranne le donne può credere nella
 
@@ -5197,13 +5197,13 @@ DOTTORE. Non chiamerei mai debole di mente questa donna... no, per Dio, nemmeno
 
 se andasse in chiesa.
 
-SMITH. Eppure ce ne sono molte altrettanto salde di mente che credono con passione
+[[smith|SMITH]]. Eppure ce ne sono molte altrettanto salde di mente che credono con passione
 
 nell'andare in chiesa.
 
 DOTTORE. Non ce n'erano altrettante che credevano con passione in [[characters/apollo|Apollo]]?
 
-SMITH. E che male venne dal credere in [[characters/apollo|Apollo]]? E quale massa di
+[[smith|SMITH]]. E che male venne dal credere in [[characters/apollo|Apollo]]? E quale massa di
 
 male può essere venuta dal non credere in [[characters/apollo|Apollo]]? Non le viene mai in mente
 
@@ -5213,13 +5213,13 @@ essere una malattia, [[motifs/well|tanto]] quanto proclamare dottrine? Lei parla
 
 religiosa! Non esiste forse una mania irreligiosa? Non c'è forse una simile
 
-cosa in questa casa in questo momento?
+cosa in questa [[house|casa]] in questo momento?
 
 DOTTORE. Allora lei pensa che nessuno dovrebbe mai mettere in questione nulla.
 
-SMITH. [_Con passione, indicando la stanza accanto._] Io penso che _quello_ sia
+[[smith|SMITH]]. [_Con passione, indicando la stanza accanto._] Io penso che _quello_ sia
 
-ciò che viene dal mettere in questione! Perché non potete lasciare in pace l'universo e
+ciò che viene dal mettere in questione! Perché non potete lasciare [[Alone|in pace]] l'universo e
 
 lasciargli significare ciò che vuole? Perché il tuono non dovrebbe essere Giove? Più
 
@@ -5229,7 +5229,7 @@ era Giove.
 
 DOTTORE. [_Guardandolo._] Lei crede nella sua stessa religione?
 
-SMITH. [_Ricambiando lo sguardo con altrettanta fermezza._] Supponga di no: sarei
+[[smith|SMITH]]. [_Ricambiando lo sguardo con altrettanta fermezza._] Supponga di no: sarei
 
 comunque uno [[archetypes/fool|sciocco]] a metterla in questione. Il [[archetypes/child|bambino]] che dubita di Babbo
 
@@ -5239,7 +5239,7 @@ DOTTORE. Lei è un Pragmatista.
 
 _Entra il_ DUCA, _distrattamente._
 
-SMITH. È ciò che gli avvocati chiamano ingiuria volgare. Ma io mi appello davvero
+[[smith|SMITH]]. È ciò che gli avvocati chiamano ingiuria volgare. Ma io mi appello davvero
 
 alla pratica. Ecco una famiglia sulla quale lei mi dice che incombe una
 
@@ -5273,13 +5273,13 @@ DUCA. [_Con fermezza._] Mai avute azioni Marconi, io. Non le toccherei.
 
 [_Esce il_ DUCA, _senza meta._
 
-DOTTORE. [_Esplodendo._] [[motifs/well|Ma]], questa poi.... [_Si volge a_ SMITH.] Lei
+DOTTORE. [_Esplodendo._] [[motifs/well|Ma]], questa poi.... [_Si volge a_ [[smith|SMITH]].] Lei
 
 mi ha chiesto poco fa quale membro della famiglia avesse ereditato la
 
 [[concepts/madness|follia]] di famiglia.
 
-SMITH. Sì; gliel'ho chiesto.
+[[smith|SMITH]]. Sì; gliel'ho chiesto.
 
 DOTTORE. [_A voce bassa ed enfatica._] Sulla mia [[motifs/soul|anima]] viva, credo che
 
@@ -5427,7 +5427,7 @@ scientifica. [_Vagamente._] Guardi Ibsen.
 
 [_Silenzio._
 
-DOTTORE. Naturalmente il Professore prova una notevole riluttanza nella
+DOTTORE. Naturalmente [[The Professor|il Professore]] prova una notevole riluttanza nella
 
 faccenda. Fa notare che i suoi [[motifs/secrets|segreti]] sono parte essenziale della sua
 
@@ -5531,11 +5531,11 @@ PRESTIGIATORE. Perché è così semplice. [_Balza d'improvviso in piedi,
 
 l'assegno ancora in mano._] Mi chiedete come ho fatto davvero l'ultimo
 
-trucco. Vi dirò come ho fatto l'ultimo trucco. L'ho fatto con la magia.
+trucco. Vi dirò come ho fatto l'ultimo trucco. L'ho fatto con la [[Magic|magia]].
 
 [_Il_ DUCA _e il_ DOTTORE _lo fissano immobili; ma il_ REV.
 
-SMITH _trasalisce e fa un passo verso il tavolo. Il_ PRESTIGIATORE
+[[smith|SMITH]] _trasalisce e fa un passo verso il tavolo. Il_ PRESTIGIATORE
 
 _si stringe il mantello intorno alle spalle. Questo gesto, come di
 
@@ -5543,11 +5543,11 @@ partenza, riporta il_ DOTTORE _in piedi._
 
 DOTTORE. [_Stupito e adirato._] Intende davvero dire che prende
 
-l'assegno e poi ci dice che era solo magia?
+l'assegno e poi ci dice che era solo [[Magic|magia]]?
 
 PRESTIGIATORE. [_Facendo a pezzi l'assegno._] Straccio l'assegno, e vi
 
-dico che era solo magia.
+dico che era solo [[Magic|magia]].
 
 DOTTORE. [_Con violenta sincerità._] Ma diamine, una cosa simile non
 
@@ -5555,7 +5555,7 @@ esiste.
 
 PRESTIGIATORE. Sì che esiste. Volesse Iddio che non sapessi che esiste.
 
-DUCA. [_Alzandosi anch'egli._] Ma davvero, la magia....
+DUCA. [_Alzandosi anch'egli._] Ma davvero, la [[Magic|magia]]....
 
 PRESTIGIATORE. [_Con disprezzo._] Sì, Vostra Grazia, una di quelle leggi più vaste
 
@@ -5563,15 +5563,15 @@ di cui ci parlava.
 
 [_Si abbottona il mantello alla gola e prende la sua borsa. Mentre
 
-lo fa il_ REV. SMITH _si frappone tra lui e la porta e lo
+lo fa il_ REV. [[smith|SMITH]] _si frappone tra lui e la porta e lo
 
 ferma per un momento._
 
-SMITH. [_A voce bassa._] Un momento, signore.
+[[smith|SMITH]]. [_A voce bassa._] Un momento, signore.
 
 PRESTIGIATORE. Che cosa vuole?
 
-SMITH. Voglio scusarmi con lei. Intendo a nome dei presenti. Penso
+[[smith|SMITH]]. Voglio scusarmi con lei. Intendo a nome dei presenti. Penso
 
 che sia stato sbagliato offrirle del denaro. Penso che sia stato ancor più sbagliato
 
@@ -5595,11 +5595,11 @@ vi aiuta.
 
 [_Si volge di nuovo per andarsene, ma più irresoluto._
 
-SMITH. Lo sa [[motifs/well|bene]] che non ci aiuterà.
+[[smith|SMITH]]. Lo sa [[motifs/well|bene]] che non ci aiuterà.
 
 PRESTIGIATORE. Perché no?
 
-SMITH. Lo sa [[motifs/well|bene]] perché no. Lei è un uomo onesto; e l'ha
+[[smith|SMITH]]. Lo sa [[motifs/well|bene]] perché no. Lei è un uomo onesto; e l'ha
 
 detto lei stesso. Perché lui non ci crederebbe.
 
@@ -5607,13 +5607,13 @@ PRESTIGIATORE. [_Con una sorta di furia._] [[motifs/well|Beh]], c'è forse qualc
 
 crede?
 
-SMITH. [_Con grande ritegno._] La sua domanda è del tutto legittima. Su,
+[[smith|SMITH]]. [_Con grande ritegno._] La sua domanda è del tutto legittima. Su,
 
 sediamoci e parliamone. Mi lasci prendere il suo mantello.
 
 PRESTIGIATORE. Mi toglierò il mantello quando lei si toglierà l'abito.
 
-SMITH. [_Sorridendo._] Perché? Vuole che mi batta?
+[[smith|SMITH]]. [_Sorridendo._] Perché? Vuole che mi batta?
 
 PRESTIGIATORE. [_Con violenza._] Voglio che lei sia martirizzato. Voglio che _renda_
 
@@ -5637,7 +5637,7 @@ così se non ci crede? [_Con violenza._] O forse non
 
 crede nei diavoli?
 
-SMITH. Credo.... [_Dopo una pausa._] Vorrei poter credere.
+[[smith|SMITH]]. Credo.... [_Dopo una pausa._] Vorrei poter credere.
 
 PRESTIGIATORE. Sì. Io vorrei poter non credere.
 
@@ -5647,7 +5647,7 @@ PRESTIGIATORE. Sì. Io vorrei poter non credere.
 
 PATRICIA. Posso parlare col Prestigiatore?
 
-SMITH. [_Facendosi avanti in fretta._] Vuole il Dottore?
+[[smith|SMITH]]. [_Facendosi avanti in fretta._] Vuole il Dottore?
 
 PATRICIA. No, il Prestigiatore.
 
@@ -5711,7 +5711,7 @@ un uomo. E lei è una donna. E tutti gli elfi se ne sono andati nel paese degli 
 
 e tutti i diavoli all'inferno. E io e lei usciremo da questa grande
 
-volgare casa e ci sposeremo.... Sono tutti impazziti in questa casa
+volgare [[house|casa]] e ci sposeremo.... Sono tutti impazziti in questa [[house|casa]]
 
 questa [[motifs/night|notte]], credo. Che cosa vado dicendo? Come se _lei_ potesse sposare _me_! O mio
 
@@ -5727,7 +5727,7 @@ da poco fatto un'offerta, e io l'accetto.
 
 PRESTIGIATORE. Oh, è un'assurdità, un'assurdità. Come può un uomo sposare un
 
-arcangelo, figuriamoci una dama. Mia madre era una dama e sposò un
+arcangelo, [[Alone|figuriamoci]] una dama. Mia madre era una dama e sposò un
 
 violinista morente che batteva le strade; e quella mescolanza fa scempio
 
@@ -5861,7 +5861,7 @@ le luci, e così via. Non so se lei si renda conto che è piuttosto una
 
 tortura per un uomo bere pessimo caffè a un chiosco quando sa di
 
-avere in sé giusto quel tanto di magia da far uscire una bottiglia di champagne da
+avere in sé giusto quel tanto di [[Magic|magia]] da far uscire una bottiglia di champagne da
 
 un negozio vuoto.
 
@@ -5947,23 +5947,23 @@ DUCA. Che tipo straordinario. Mi [[concepts/wonder|domando]] se....
 
 [_Smette di colpo di parlare._
 
-DOTTORE. [_Dopo un lungo [[motifs/silence|silenzio]], a voce bassa a_ SMITH.] Come si
+DOTTORE. [_Dopo un lungo [[motifs/silence|silenzio]], a voce bassa a_ [[smith|SMITH]].] Come si
 
 sente?
 
-SMITH. Sento che devo far chiudere una [[motifs/window|finestra]] o devo farla aprire, e non
+[[smith|SMITH]]. Sento che devo far chiudere una [[motifs/window|finestra]] o devo farla aprire, e non
 
 so quale delle due.
 
 [_Un altro lungo [[motifs/silence|silenzio]]._
 
-SMITH. [_Gridando d'improvviso nel buio._] In nome di Dio, va' via!
+[[smith|SMITH]]. [_Gridando d'improvviso nel buio._] In nome di Dio, va' via!
 
 DOTTORE. [_Balzando in piedi tutto tremante._] Davvero, signore, non sono abituato
 
 a sentirmi parlare così....
 
-SMITH. Non era a lei che dicevo di andarsene.
+[[smith|SMITH]]. Non era a lei che dicevo di andarsene.
 
 DOTTORE. No. [_Pausa._] Ma credo che me ne andrò. Questa stanza è semplicemente
 
@@ -6011,7 +6011,7 @@ elettricità.
 
 [_Silenzio come al solito._
 
-SMITH. Credo che ci sia stato più che elettricità in tutto questo.
+[[smith|SMITH]]. Credo che ci sia stato più che elettricità in tutto questo.
 
 _Entra_ PATRICIA, _ancora pallida, ma raggiante._
 
@@ -6025,13 +6025,13 @@ DUCA. Professore, le dobbiamo mille grazie!
 
 DOTTORE. Davvero, avete raddoppiato la vostra affermazione riguardo all’originalità del vostro lavoro!
 
-SMITH. È molto più meraviglioso spiegare un miracolo che compiere uno stesso.
+[[smith|SMITH]]. È molto più meraviglioso spiegare un miracolo che compiere uno stesso.
 
 Un miracolo. A proposito, qual era la tua spiegazione?
 
 STREGONE: Non ve lo dirò.
 
-SMITH. [_Inizio._] Davvero? Perché no?
+[[smith|SMITH]]. [_Inizio._] Davvero? Perché no?
 
 Conjuratore… Perché Dio, i demoni e quell’Immortale Mistero che tu…
 
@@ -6041,25 +6041,25 @@ Perché tu l’hai provato qui. Perché conosci gli spiriti altrettanto bene qua
 
 Fai lo stesso e [[concepts/fear|temili]]li tanto quanto me.
 
-SMITH. [[motifs/well|Beh]]?
+[[smith|SMITH]]. [[motifs/well|Beh]]?
 
 Conjurer. Perché tutto ciò non sarebbe servito a nulla… Se vi raccontassi la menzogna che ho detto…
 
 Morris Carleon riguardo a come ho fatto quel trucco.
 
-SMITH. [[motifs/well|Beh]]?
+[[smith|SMITH]]. [[motifs/well|Beh]]?
 
 Conjurer… Ci si crederebbe davvero, proprio come lui ci credeva. È impossibile non pensarci.
 
-[_indicando la lampada_] come quel trucco potesse essere eseguito in modo naturale. Solo io, da solo.
+[_indicando la lampada_] come quel trucco potesse essere eseguito in modo naturale. Solo io, [[Alone|da solo]].
 
-Scoprii come si poteva fare, dopo che l’avevo già fatto con la magia. Ma se io.
+Scoprii come si poteva fare, dopo che l’avevo già fatto con la [[Magic|magia]]. Ma se io.
 
 Ti dirò un modo naturale per farlo.
 
-SMITH. [[motifs/well|Beh]]?.
+[[smith|SMITH]]. [[motifs/well|Beh]]?.
 
-STREGONE: Mezz’ora dopo che me ne sarò andato da questa casa, voi tutti.
+STREGONE: Mezz’ora dopo che me ne sarò andato da questa [[house|casa]], voi tutti.
 
 Spiegando come era stato fatto.
 
@@ -6073,7 +6073,7 @@ PATRICIA. Sì. Quella favola è davvero finita per sempre.
 
 Lo guarda con quel vecchio sguardo mistico… È molto difficile.
 
-Affinché una favola possa avere una fine. Se la lasci da sola, continuerà ad esistere.
+Affinché una favola possa avere una fine. Se la lasci [[Alone|da sola]], continuerà ad esistere.
 
 “Per sempre… La nostra fiaba è giunta alla fine, nel solo modo possibile per una favola.”
 
@@ -6112,7 +6112,7 @@ Gli uomini dei binari – Tutto il [[motifs/moon|luna]] – I cappotti di Damer�
 
 _8^o. Con ritratto in fotogравura. 1,50 dollari a netto. Per posta: 1,65 dollari.
 
-Queste opere teatrali sono state rappresentate con grande successo dalla compagnia Abbey Company, e.
+Queste opere teatrali sono state rappresentate con grande [[success|successo]] dalla compagnia Abbey Company, e.
 
 Ampiamente lodati dal pubblico apprezzativo e da critici entusiasti
 
@@ -6176,7 +6176,7 @@ Scrisse di francesi, possedendo un talento stranamente simile a quello di Moliè
 
 La magia letteraria di Yeats, l’immaginazione vivida di Synge, le cose divertenti.
 
-Il letteralismo, mescolato con il marcato romanticismo dei loro imitatori, ha.
+Il letteralismo, mescolato con il marcato [[Romance|romanticismo]] dei loro imitatori, ha.
 
 Il loro ruolo è stato riconosciuto e hanno ricevuto grandi lodi. Ma nessuno di loro…
 
@@ -6300,7 +6300,7 @@ Un notevole documento sociale di grande rilevanza… ma anche come opera creativ
 
 Un realismo estremamente moderno, ma che rimane classico per la sua evidente qualità artistica
 
-e l’filosofia elevata. La pièce mostra i tipi degli uomini più forti come.
+e l’[[philosophy|filosofia]] elevata. La pièce mostra i tipi degli uomini più forti come.
 
 Vittime di eventi comici e di uomini più deboli… Sarà prodotto in…
 
@@ -6369,7 +6369,7 @@ and the Online Distributed Proofreading Team at
 
 http://www.pgdp.net
 
-MAGIC
+[[Magic|MAGIC]]
 
 A FANTASTIC [[forms/comedy|COMEDY]]
 
@@ -6377,7 +6377,7 @@ A FANTASTIC [[forms/comedy|COMEDY]]
 
 From a photograph]
 
-MAGIC
+[[Magic|MAGIC]]
 
 A FANTASTIC [[forms/comedy|COMEDY]]
 
@@ -6407,7 +6407,7 @@ THE DUKE
 
 DOCTOR GRIMTHORPE
 
-THE REV. CYRIL SMITH
+THE REV. CYRIL [[smith|SMITH]]
 
 MORRIS CARLEON
 
@@ -6429,7 +6429,7 @@ THE STRANGER             FRANKLIN DYALL
 
 PATRICIA CARLEON         MISS GRACE CROFT
 
-THE REV. CYRIL SMITH     O.P. HEGGIE
+THE REV. CYRIL [[smith|SMITH]]     O.P. HEGGIE
 
 DR. GRIMTHORPE           WILLIAM FARREN
 
@@ -6459,7 +6459,7 @@ _A distant voice, a woman's, is heard, half-singing, half-chanting,
 
 unintelligible words. The cloaked figure raises its head and
 
-listens with interest. The song draws nearer and_ PATRICIA CARLEON
+listens with interest. The [[Song|song]] draws nearer and_ PATRICIA CARLEON
 
 _enters. She is dark and slight, and has a dreamy expression.
 
@@ -6481,7 +6481,7 @@ the ground with his staff._]
 
 I have a hat, but not to wear;
 
-I wear a sword, but not to slay,
+I wear a [[Sword|sword]], but not to slay,
 
 And ever in my bag I bear
 
@@ -6529,11 +6529,11 @@ speak.
 
 ACT ONE, _the Duke's drawing-room, an apartment with open French
 
-windows or any opening large enough to show a [[motifs/garden|garden]] and one house
+windows or any opening large enough to show a [[motifs/garden|garden]] and one [[house]]
 
 fairly near. It is evening, and there is a red lamp lighted in the
 
-house beyond. The_ REV. CYRIL SMITH _is sitting with hat and
+[[house]] beyond. The_ REV. CYRIL [[smith|SMITH]] _is sitting with hat and
 
 umbrella beside him, evidently a visitor. He is a young man with
 
@@ -6547,23 +6547,23 @@ ass._
 
 [_To him enters_ MR. [[characters/hastings|HASTINGS]] _with papers in his hand._
 
-[[characters/hastings|HASTINGS]]. Oh, good evening. You are Mr. Smith. [_Pause._] I mean you are
+[[characters/hastings|HASTINGS]]. Oh, good evening. You are Mr. [[smith|Smith]]. [_Pause._] I mean you are
 
 the Rector, I think.
 
-SMITH. I am the Rector.
+[[smith|SMITH]]. I am the Rector.
 
 [[characters/hastings|HASTINGS]]. I am the Duke's secretary. His Grace asks me to say that he
 
 hopes to see you very soon; but he is engaged just now with the Doctor.
 
-SMITH. Is the Duke ill?
+[[smith|SMITH]]. Is the Duke ill?
 
 [[characters/hastings|HASTINGS]]. [_Laughing._] Oh, no; the Doctor has come to ask him to help
 
 some cause or other. The Duke is never ill.
 
-SMITH. Is the Doctor with him now?
+[[smith|SMITH]]. Is the Doctor with him now?
 
 [[characters/hastings|HASTINGS]]. Why, strictly speaking, he is not. The Doctor has gone over
 
@@ -6571,7 +6571,7 @@ the [[motifs/road|road]] to fetch a paper connected with his proposal. But he ha
 
 to go, as you can see. That's his red lamp at the end of his grounds.
 
-SMITH. Yes, I know. I am much obliged to you. I will wait as long as is
+[[smith|SMITH]]. Yes, I know. I am much obliged to you. I will wait as long as is
 
 necessary.
 
@@ -6592,7 +6592,7 @@ E il team di correzione online distribuita
 
 http://www.pgdp.net
 
-MAGIA
+[[Magic|MAGIA]]
 
 In una fantastica [[forms/comedy|commedia]]
 
@@ -6600,7 +6600,7 @@ Illustrazione: G.K. Chesterton
 
 Dalla fotografia
 
-MAGIA
+[[Magic|MAGIA]]
 
 In una fantastica [[forms/comedy|commedia]]
 
@@ -6630,7 +6630,7 @@ Il Duca
 
 Dottor Grimthorpe
 
-Il reverendo Cyril Smith
+Il reverendo Cyril [[smith|Smith]]
 
 MORRIS CARLEON
 
@@ -6652,7 +6652,7 @@ Il forestiero          Franklin Dyall
 
 Patricia Carleon – Miss Grace Croft
 
-Il reverendo Cyril Smith     O.P. Heggie
+Il reverendo Cyril [[smith|Smith]]     O.P. Heggie
 
 Dr. Grimthorpe – William Farren
 
@@ -6682,7 +6682,7 @@ Una voce lontana, di una donna, si sente: metà canta, metà recita.
 
 Parole incomprensibili. La figura incappucciata alza la testa…
 
-Ascolta con interesse. La canzone si avvicina, e_ PATRICIA CARLEON
+Ascolta con interesse. La [[Song|canzone]] si avvicina, e_ PATRICIA CARLEON
 
 _entra. È scura di pelle e snella, con un’espressione sognante.
 
@@ -6704,7 +6704,7 @@ Con il suo bastone tocca la terra.
 
 Ho un cappello, ma non per indossarlo;
 
-Indosso una _spada, ma non per uccidere.
+Indosso una [[Sword|_spada]], ma non per uccidere.
 
 Sempre con me nella mia borsa
 
@@ -6753,11 +6753,11 @@ La scena sembra dissolversi, lasciando il posto a un ambiente diverso…
 Titolo:  
 ATTO PRIMO – Il salotto del duca, un ambiente con arredi francesi aperti
 
-Finestre o qualsiasi apertura abbastanza grande da permettere di vedere un [[motifs/garden|giardino]] e una casa.
+Finestre o qualsiasi apertura abbastanza grande da permettere di vedere un [[motifs/garden|giardino]] e una [[house|casa]].
 
 Piuttosto vicino. È sera, e c’è una luce rossa accesa…
 
-La casa oltre. Il reverendo Cyril Smith è seduto lì, con il cappello in testa.
+La [[house|casa]] oltre. Il reverendo Cyril Smith è seduto lì, con il cappello in testa.
 
 Un visitatore al suo fianco… Un giovane uomo…
 
@@ -6771,23 +6771,23 @@ Ass._
 
 _Dentro entra il signor [[characters/hastings|HASTINGS]], con dei documenti in mano._
 
-[[characters/hastings|HASTINGS]]. Oh, buonasera. Lei è il signor Smith. [_Pausa._] Voglio dire, lei è davvero lui.
+[[characters/hastings|HASTINGS]]. Oh, buonasera. Lei è il signor [[smith|Smith]]. [_Pausa._] Voglio dire, lei è davvero lui.
 
 Il Rettore, credo.
 
-SMITH. Sono il Rettore.
+[[smith|SMITH]]. Sono il Rettore.
 
 [[characters/hastings|HASTINGS]]. Sono il segretario del Duca. Sua Grazia mi incarica di dire che.
 
 Spero di vederti molto presto; ma in questo momento è impegnato con il Dottore.
 
-SMITH. Il Duca è malato?
+[[smith|SMITH]]. Il Duca è malato?
 
 [[characters/hastings|HASTINGS]]. [_Ridefinendo._] Oh no. Il Dottore è venuto a chiedergli di aiutare.
 
 Per qualche motivo o altro. Il Duca non si ammala mai.
 
-SMITH. Il Dottore è con lui adesso?
+[[smith|SMITH]]. Il Dottore è con lui adesso?
 
 [[characters/hastings|HASTINGS]]. In realtà, non lo è. Il Dottore se n’è già andato.
 
@@ -6795,7 +6795,7 @@ La strada per andare a prendere un documento legato alla sua proposta. Ma non è
 
 Da lì si va, come potete vedere. Quella è la sua lampada rossa, all’estremità del suo terreno.
 
-SMITH. Sì, lo so. Sono molto grato a voi. Aspetterò per tutto il tempo necessario.
+[[smith|SMITH]]. Sì, lo so. Sono molto grato a voi. Aspetterò per tutto il tempo necessario.
 
 Necessario.
 
@@ -6820,7 +6820,7 @@ DOCTOR. [_Folding up the paper._] I beg your pardon, sir, I did not
 
 notice there was anyone here.
 
-SMITH. [_Amicably._] I beg yours. A new clergyman cannot expect to be
+[[smith|SMITH]]. [_Amicably._] I beg yours. A new clergyman cannot expect to be
 
 expected. I only came to see the Duke about some local affairs.
 
@@ -6828,25 +6828,25 @@ DOCTOR. [_Smiling._] And so, oddly enough, did I. But I suppose we
 
 should both like to get hold of him by a separate ear.
 
-SMITH. Oh, there's no disguise as far as I'm concerned. I've joined this
+[[smith|SMITH]]. Oh, there's no disguise as far as I'm concerned. I've joined this
 
-league for starting a model public-house in the parish; and in plain
+league for starting a model public-[[house]] in the parish; and in plain
 
 words, I've come to ask his Grace for a subscription to it.
 
 DOCTOR. [_Grimly._] And, as it happens, I have joined in the petition
 
-against the erection of a model public-house in this parish. The
+against the erection of a model public-[[house]] in this parish. The
 
 similarity of our position grows with every instant.
 
-SMITH. Yes, I think we must have been twins.
+[[smith|SMITH]]. Yes, I think we must have been twins.
 
-DOCTOR. [_More good-humouredly._] [[motifs/well|Well]], what is a model public-house? Do
+DOCTOR. [_More good-humouredly._] [[motifs/well|Well]], what is a model public-[[house]]? Do
 
 you mean a toy?
 
-SMITH. I mean a place where Englishmen can get decent drink and drink it
+[[smith|SMITH]]. I mean a place where Englishmen can get decent drink and drink it
 
 decently. Do you call that a toy?
 
@@ -6854,7 +6854,7 @@ DOCTOR. No; I should call that a conjuring trick. Or, in apology to your
 
 cloth, I will say a miracle.
 
-SMITH. I accept the apology to my cloth. I am doing my duty as a priest.
+[[smith|SMITH]]. I accept the apology to my cloth. I am doing my duty as a priest.
 
 How can the Church have a right to make men fast if she does not allow
 
@@ -6864,7 +6864,7 @@ DOCTOR. [_Bitterly._] And when you have done feasting them, you will
 
 send them to me to be cured.
 
-SMITH. Yes; and when you've done curing them you'll send them to me to
+[[smith|SMITH]]. Yes; and when you've done curing them you'll send them to me to
 
 be buried.
 
@@ -6872,19 +6872,19 @@ DOCTOR. [_After a pause, laughing._] [[motifs/well|Well]], you have all the old
 
 doctrines. It is only fair you should have all the old jokes too.
 
-SMITH. [_Laughing also._] By the way, you call it a conjuring trick that
+[[smith|SMITH]]. [_Laughing also._] By the way, you call it a conjuring trick that
 
 poor people should drink moderately.
 
 DOCTOR. I call it a chemical discovery that alcohol is not a food.
 
-SMITH. You don't drink wine yourself?
+[[smith|SMITH]]. You don't drink wine yourself?
 
 DOCTOR. [_Mildly startled._] Drink wine! [[motifs/well|Well]]--what else is there to
 
 drink?
 
-SMITH. So drinking decently is a conjuring trick that you can do,
+[[smith|SMITH]]. So drinking decently is a conjuring trick that you can do,
 
 anyhow?
 
@@ -6894,7 +6894,7 @@ about conjuring tricks, there is to be conjuring and all kinds of things
 
 here this afternoon.
 
-SMITH. Conjuring? Indeed? Why is that?
+[[smith|SMITH]]. Conjuring? Indeed? Why is that?
 
 _Enter_ [[characters/hastings|HASTINGS]] _with a letter in each hand._
 
@@ -6904,9 +6904,9 @@ the business matter first of all.
 
 [_He gives a note to each of them._
 
-SMITH. [_Turning eagerly to the_ DOCTOR.] But this is rather splendid.
+[[smith|SMITH]]. [_Turning eagerly to the_ DOCTOR.] But this is rather splendid.
 
-The Duke's given L50 to the new public-house.
+The Duke's given L50 to the new public-[[house]].
 
 [[characters/hastings|HASTINGS]]. The Duke is very liberal.
 
@@ -6914,13 +6914,13 @@ The Duke's given L50 to the new public-house.
 
 DOCTOR. [_Examining his cheque._] Very. But this is rather curious. He
 
-has also given L50 to the league for opposing the new public-house.
+has also given L50 to the league for opposing the new public-[[house]].
 
 [[characters/hastings|HASTINGS]]. The Duke is very liberal-minded.
 
 [_Exit._
 
-SMITH. [_Staring at his cheque._] Liberal-minded!... Absent-minded, I
+[[smith|SMITH]]. [_Staring at his cheque._] Liberal-minded!... Absent-minded, I
 
 should call it.
 
@@ -6938,13 +6938,13 @@ always trying to please everybody. He generally finishes by pleasing
 
 nobody.
 
-SMITH. Yes; I think I know the sort of thing.
+[[smith|SMITH]]. Yes; I think I know the sort of thing.
 
 DOCTOR. Take this conjuring, for instance. You know the Duke has two
 
 wards who are to live with him now?
 
-SMITH. Yes. I heard something about a nephew and niece from Ireland.
+[[smith|SMITH]]. Yes. I heard something about a nephew and niece from Ireland.
 
 DOCTOR. The niece came from Ireland some months ago, but the nephew
 
@@ -6952,15 +6952,15 @@ comes back from [[settings/america|America]] to-[[motifs/night|night]]. [_He get
 
 the room._] I think I will tell you all about it. In spite of your
 
-precious public-house you seem to me to be a sane man. And I fancy I
+precious public-[[house]] you seem to me to be a sane man. And I fancy I
 
 shall want all the sane men I can get to-[[motifs/night|night]].
 
-SMITH. [_Rising also._] I am at your service. Do you know, I rather
+[[smith|SMITH]]. [_Rising also._] I am at your service. Do you know, I rather
 
 guessed you did not come here only to protest against my precious
 
-public-house.
+public-[[house]].
 
 DOCTOR. [_Striding about in subdued excitement._] [[motifs/well|Well]], you guessed
 
@@ -6968,13 +6968,13 @@ right. I was family physician to the Duke's brother in Ireland. I knew
 
 the family pretty [[motifs/well|well]].
 
-SMITH. [_Quietly._] I suppose you mean you knew something odd about the
+[[smith|SMITH]]. [_Quietly._] I suppose you mean you knew something odd about the
 
 family?
 
 DOCTOR. [[motifs/well|Well]], they saw fairies and things of that sort.
 
-SMITH. And I suppose, to the medical mind, seeing fairies means much the
+[[smith|SMITH]]. And I suppose, to the medical mind, seeing fairies means much the
 
 same as seeing snakes?
 
@@ -6990,7 +6990,7 @@ and goblins and witches into the poor Duke's own back [[motifs/garden|garden]] a
 
 a yard of my own red lamp. It shows a lack of tact.
 
-SMITH. But I do understand that the Duke's nephew and niece see witches
+[[smith|SMITH]]. But I do understand that the Duke's nephew and niece see witches
 
 and fairies between here and your lamp.
 
@@ -7002,7 +7002,7 @@ can't see fairies in [[settings/america|America]]. But there is this sort of sup
 
 the family, and I am not easy in my mind about the girl.
 
-SMITH. Why, what does she do?
+[[smith|SMITH]]. Why, what does she do?
 
 DOCTOR. Oh, she wanders about the park and the woods in the evenings.
 
@@ -7021,7 +7021,7 @@ DOTTORE. [_Ripiegando la carta._] Vi chiedo scusa, signore, non avevo
 
 notato che ci fosse qualcuno qui.
 
-SMITH. [_Amichevolmente._] Scusate voi. Un nuovo ecclesiastico non può aspettarsi di essere
+[[smith|SMITH]]. [_Amichevolmente._] Scusate voi. Un nuovo ecclesiastico non può aspettarsi di essere
 
 atteso. Sono venuto solo per vedere il Duca a proposito di certe faccende locali.
 
@@ -7029,25 +7029,25 @@ DOTTORE. [_Sorridendo._] E, per strano che sia, anch'io. Ma suppongo che
 
 entrambi vorremmo prenderlo per un orecchio ciascuno.
 
-SMITH. Oh, per quanto mi riguarda non c'è alcun mistero. Mi sono unito a questa
+[[smith|SMITH]]. Oh, per quanto mi riguarda non c'è alcun mistero. Mi sono unito a questa
 
-lega per l'apertura di un'osteria modello nella parrocchia; e in parole
+lega per l'apertura di un'[[house|osteria]] modello nella parrocchia; e in parole
 
 povere, sono venuto a chiedere a Sua Grazia una sottoscrizione.
 
 DOTTORE. [_Cupamente._] E, guarda caso, io mi sono unito alla petizione
 
-contro l'erezione di un'osteria modello in questa parrocchia. La
+contro l'erezione di un'[[house|osteria]] modello in questa parrocchia. La
 
 somiglianza della nostra posizione cresce a ogni istante.
 
-SMITH. Sì, credo che dobbiamo essere stati gemelli.
+[[smith|SMITH]]. Sì, credo che dobbiamo essere stati gemelli.
 
-DOTTORE. [_Con più buonumore._] [[motifs/well|Beh]], che cos'è un'osteria modello? Volete
+DOTTORE. [_Con più buonumore._] [[motifs/well|Beh]], che cos'è un'[[house|osteria]] modello? Volete
 
 forse dire un giocattolo?
 
-SMITH. Intendo un luogo dove gli inglesi possano bere qualcosa di decente e berlo
+[[smith|SMITH]]. Intendo un luogo dove gli inglesi possano bere qualcosa di decente e berlo
 
 decentemente. Voi lo chiamate un giocattolo?
 
@@ -7055,7 +7055,7 @@ DOTTORE. No; lo chiamerei un gioco di prestigio. O, in omaggio al vostro
 
 abito, dirò un miracolo.
 
-SMITH. Accetto l'omaggio al mio abito. Sto facendo il mio dovere di sacerdote.
+[[smith|SMITH]]. Accetto l'omaggio al mio abito. Sto facendo il mio dovere di sacerdote.
 
 Come può la Chiesa avere il diritto di far digiunare gli uomini se non permette
 
@@ -7065,7 +7065,7 @@ DOTTORE. [_Con amarezza._] E quando avrete finito di banchettarli, li
 
 manderete da me a farsi curare.
 
-SMITH. Sì; e quando voi avrete finito di curarli li manderete da me a
+[[smith|SMITH]]. Sì; e quando voi avrete finito di curarli li manderete da me a
 
 farsi seppellire.
 
@@ -7073,19 +7073,19 @@ DOTTORE. [_Dopo una pausa, ridendo._] [[motifs/well|Beh]], voi avete tutte le ve
 
 dottrine. È giusto che abbiate anche tutte le vecchie battute.
 
-SMITH. [_Ridendo anche lui._] A proposito, chiamate gioco di prestigio il fatto che
+[[smith|SMITH]]. [_Ridendo anche lui._] A proposito, chiamate gioco di prestigio il fatto che
 
 la povera gente beva con moderazione.
 
 DOTTORE. La chiamo una scoperta chimica: che l'alcol non è un alimento.
 
-SMITH. Voi non bevete vino?
+[[smith|SMITH]]. Voi non bevete vino?
 
 DOTTORE. [_Lievemente trasalendo._] Bere vino! [[motifs/well|Beh]]--che altro c'è da
 
 bere?
 
-SMITH. Dunque bere decentemente è un gioco di prestigio che voi comunque sapete
+[[smith|SMITH]]. Dunque bere decentemente è un gioco di prestigio che voi comunque sapete
 
 fare?
 
@@ -7095,7 +7095,7 @@ di giochi di prestigio, ci saranno prestidigitazione e ogni sorta di cose
 
 qui questo pomeriggio.
 
-SMITH. Prestidigitazione? Davvero? E perché mai?
+[[smith|SMITH]]. Prestidigitazione? Davvero? E perché mai?
 
 _Entra_ [[characters/hastings|HASTINGS]] _con una lettera in ciascuna mano._
 
@@ -7105,9 +7105,9 @@ prima di tutto la questione d'affari.
 
 [_Consegna un biglietto a ciascuno di loro._
 
-SMITH. [_Voltandosi con entusiasmo verso il_ DOTTORE.] Ma questo è davvero splendido.
+[[smith|SMITH]]. [_Voltandosi con entusiasmo verso il_ DOTTORE.] Ma questo è davvero splendido.
 
-Il Duca ha dato 50 sterline alla nuova osteria.
+Il Duca ha dato 50 sterline alla nuova [[house|osteria]].
 
 [[characters/hastings|HASTINGS]]. Il Duca è molto liberale.
 
@@ -7115,13 +7115,13 @@ Il Duca ha dato 50 sterline alla nuova osteria.
 
 DOTTORE. [_Esaminando il proprio assegno._] Moltissimo. Ma questo è piuttosto curioso. Ha
 
-dato anche 50 sterline alla lega che si oppone alla nuova osteria.
+dato anche 50 sterline alla lega che si oppone alla nuova [[house|osteria]].
 
 [[characters/hastings|HASTINGS]]. Il Duca è di mentalità molto liberale.
 
 [_Esce._
 
-SMITH. [_Fissando il proprio assegno._] Di mentalità liberale!... Distratto di mente, lo
+[[smith|SMITH]]. [_Fissando il proprio assegno._] Di mentalità liberale!... Distratto di mente, lo
 
 chiamerei io.
 
@@ -7139,13 +7139,13 @@ cerca sempre di accontentare tutti. In genere finisce per non accontentare
 
 nessuno.
 
-SMITH. Sì; credo di sapere di che genere di cosa si tratta.
+[[smith|SMITH]]. Sì; credo di sapere di che genere di cosa si tratta.
 
 DOTTORE. Prendete questa faccenda della prestidigitazione, per esempio. Sapete che il Duca ha due
 
 pupilli che ora devono vivere con lui?
 
-SMITH. Sì. Ho sentito qualcosa a proposito di un nipote e di una nipote dall'Irlanda.
+[[smith|SMITH]]. Sì. Ho sentito qualcosa a proposito di un nipote e di una nipote dall'Irlanda.
 
 DOTTORE. La nipote è venuta dall'Irlanda alcuni mesi fa, ma il nipote
 
@@ -7153,15 +7153,15 @@ torna dall'[[settings/america|America]] [[motifs/night|stasera]]. [_Si alza brus
 
 la stanza._] Credo che vi racconterò tutto. Nonostante la vostra
 
-preziosa osteria, voi mi sembrate un uomo assennato. E credo che
+preziosa [[house|osteria]], voi mi sembrate un uomo assennato. E credo che
 
 avrò bisogno di tutti gli uomini assennati che potrò trovare [[motifs/night|stasera]].
 
-SMITH. [_Alzandosi anche lui._] Sono al vostro servizio. Sapete, avevo un po'
+[[smith|SMITH]]. [_Alzandosi anche lui._] Sono al vostro servizio. Sapete, avevo un po'
 
 indovinato che non eravate venuto qui solo per protestare contro la mia preziosa
 
-osteria.
+[[house|osteria]].
 
 DOTTORE. [_Camminando avanti e indietro in un'eccitazione contenuta._] [[motifs/well|Beh]], avete indovinato
 
@@ -7169,13 +7169,13 @@ giusto. Ero il medico di famiglia del fratello del Duca in Irlanda. Conoscevo
 
 la famiglia piuttosto [[motifs/well|bene]].
 
-SMITH. [_Sommessamente._] Suppongo vogliate dire che sapevate qualcosa di strano sulla
+[[smith|SMITH]]. [_Sommessamente._] Suppongo vogliate dire che sapevate qualcosa di strano sulla
 
 famiglia?
 
 DOTTORE. [[motifs/well|Beh]], vedevano fate e cose di quel genere.
 
-SMITH. E suppongo che, per la mente medica, vedere fate significhi più o meno lo
+[[smith|SMITH]]. E suppongo che, per la mente medica, vedere fate significhi più o meno lo
 
 stesso che vedere serpenti?
 
@@ -7191,7 +7191,7 @@ e folletti e streghe nel [[motifs/garden|giardino]] sul retro del povero Duca st
 
 iarda dalla mia stessa lampada rossa. Dimostra una mancanza di tatto.
 
-SMITH. Ma io ho ben capito che il nipote e la nipote del Duca vedono streghe
+[[smith|SMITH]]. Ma io ho ben capito che il nipote e la nipote del Duca vedono streghe
 
 e fate tra qui e la vostra lampada.
 
@@ -7203,7 +7203,7 @@ possono vedere fate in [[settings/america|America]]. Ma c'è questa specie di su
 
 famiglia, e non sono tranquillo riguardo alla ragazza.
 
-SMITH. Perché, che cosa fa?
+[[smith|SMITH]]. Perché, che cosa fa?
 
 DOTTORE. Oh, vaga per il parco e per i boschi la sera.
 
@@ -7220,13 +7220,13 @@ But what is worse, she is always talking about meeting somebody, some
 
 elf or wizard or something. I don't like it at all.
 
-SMITH. Have you told the Duke?
+[[smith|SMITH]]. Have you told the Duke?
 
 DOCTOR. [_With a grim smile._] Oh, yes, I told the Duke. The result was
 
 the conjurer.
 
-SMITH. [_With amazement._] The _conjurer_?
+[[smith|SMITH]]. [_With amazement._] The _conjurer_?
 
 DOCTOR. [_Puts down his cigar in the ash-tray._] The Duke is
 
@@ -7264,7 +7264,7 @@ the present state of the peerage it is necessary to explain that
 
 the_ DUKE, _though an ass, is a gentleman._
 
-DUKE. Good-morning, Mr. Smith. So sorry to have kept you waiting, but
+DUKE. Good-morning, Mr. [[smith|Smith]]. So sorry to have kept you waiting, but
 
 we're rather in a rush to-day. [_Turns to_ [[characters/hastings|HASTINGS]], _who has gone over
 
@@ -7284,7 +7284,7 @@ hear he's been doing great things out there. Petrol, or something. Must
 
 move with the times, eh?
 
-DOCTOR. I'm afraid Mr. Smith doesn't always agree with moving with the
+DOCTOR. I'm afraid Mr. [[smith|Smith]] doesn't always agree with moving with the
 
 times.
 
@@ -7310,15 +7310,15 @@ know.
 
 abrupt of the_ DUKE'S _associations or disassociations of thought._
 
-SMITH. [_At last, faintly._] Ancient Britons....
+[[smith|SMITH]]. [_At last, faintly._] Ancient Britons....
 
-DOCTOR. [_To_ SMITH _in a low voice._] Don't bother. It's only his
+DOCTOR. [_To_ [[smith|SMITH]] _in a low voice._] Don't bother. It's only his
 
 broad-mindedness.
 
 DUKE. [_With unabated cheerfulness._] I saw the place you're putting up
 
-for it, Mr. Smith. Very good work. Very good work, indeed. Art for the
+for it, Mr. [[smith|Smith]]. Very good work. Very good work, indeed. Art for the
 
 people, eh? I particularly liked that woodwork over the west door--I'm
 
@@ -7328,9 +7328,9 @@ reminds one of the [[historical-references/french-revolution|French Revolution]]
 
 [_Another [[motifs/silence|silence]]. As the_ DUKE _lounges alertly about the room_,
 
-SMITH _speaks to the_ DOCTOR _in an undertone._
+[[smith|SMITH]] _speaks to the_ DOCTOR _in an undertone._
 
-SMITH. Does it remind you of the [[historical-references/french-revolution|French Revolution]]?
+[[smith|SMITH]]. Does it remind you of the [[historical-references/french-revolution|French Revolution]]?
 
 DOCTOR. As much as of anything else. His Grace never reminds me of
 
@@ -7415,13 +7415,13 @@ Ma quel che è peggio, parla sempre di incontrare qualcuno, un qualche
 
 elfo o mago o cosa simile. Non mi piace affatto.
 
-SMITH. L'avete detto al Duca?
+[[smith|SMITH]]. L'avete detto al Duca?
 
 DOTTORE. [_Con un sorriso torvo._] Oh, sì, l'ho detto al Duca. Il risultato è stato
 
 il prestigiatore.
 
-SMITH. [_Con stupore._] Il _prestigiatore_?
+[[smith|SMITH]]. [_Con stupore._] Il _prestigiatore_?
 
 DOTTORE. [_Posa il sigaro nel portacenere._] Il Duca è
 
@@ -7459,7 +7459,7 @@ stato presente del ceto nobiliare è necessario spiegare che
 
 il_ DUCA, _benché sciocco, è un gentiluomo._
 
-DUCA. Buongiorno, signor Smith. Mi dispiace tanto avervi fatto aspettare, ma
+DUCA. Buongiorno, signor [[smith|Smith]]. Mi dispiace tanto avervi fatto aspettare, ma
 
 oggi siamo un po' di fretta. [_Si volge verso_ [[characters/hastings|HASTINGS]], _che si è portato
 
@@ -7479,7 +7479,7 @@ dicono che laggiù abbia fatto grandi cose. Petrolio, o qualcosa del genere. Bis
 
 stare al passo coi tempi, eh?
 
-DOTTORE. Temo che il signor Smith non sia sempre d'accordo con lo stare al passo coi
+DOTTORE. Temo che il signor [[smith|Smith]] non sia sempre d'accordo con lo stare al passo coi
 
 tempi.
 
@@ -7505,15 +7505,15 @@ sapete.
 
 brusche associazioni o dissociazioni di pensiero del_ DUCA.
 
-SMITH. [_Alla fine, con voce fioca._] Antichi Britanni....
+[[smith|SMITH]]. [_Alla fine, con voce fioca._] Antichi Britanni....
 
-DOTTORE. [_Al_ SMITH _a bassa voce._] Non fateci caso. È solo la sua
+DOTTORE. [_Al_ [[smith|SMITH]] _a bassa voce._] Non fateci caso. È solo la sua
 
 larghezza di vedute.
 
 DUCA. [_Con immutata giovialità._] Ho visto il luogo che state costruendo
 
-a tale scopo, signor Smith. Ottimo lavoro. Ottimo lavoro, davvero. L'arte per il
+a tale scopo, signor [[smith|Smith]]. Ottimo lavoro. Ottimo lavoro, davvero. L'arte per il
 
 popolo, eh? Mi è piaciuto in particolare quel lavoro in legno sopra la porta ovest--sono
 
@@ -7523,9 +7523,9 @@ ricorda la [[historical-references/french-revolution|Rivoluzione francese]].
 
 [_Un altro [[motifs/silence|silenzio]]. Mentre il_ DUCA _gironzola vigile per la stanza_,
 
-SMITH _parla al_ DOTTORE _sottovoce._
+[[smith|SMITH]] _parla al_ DOTTORE _sottovoce._
 
-SMITH. Vi ricorda la [[historical-references/french-revolution|Rivoluzione francese]]?
+[[smith|SMITH]]. Vi ricorda la [[historical-references/french-revolution|Rivoluzione francese]]?
 
 DOTTORE. Quanto qualunque altra cosa. Sua Grazia non mi ricorda mai
 
@@ -7644,7 +7644,7 @@ DUKE. Oh, not a _man_, you know. A magician, something mythical, you
 
 know.
 
-SMITH. Not a _man_, but a medicine man.
+[[smith|SMITH]]. Not a _man_, but a medicine man.
 
 DOCTOR. [_Grimly._] I am a medicine man.
 
@@ -7670,9 +7670,9 @@ old Buffle used to say....
 
 [_As he speaks a distant voice is heard singing in the [[motifs/garden|garden]]; it
 
-comes nearer and nearer, and_ SMITH _turns suddenly to the_ DOCTOR.
+comes nearer and nearer, and_ [[smith|SMITH]] _turns suddenly to the_ DOCTOR.
 
-SMITH. Whose voice is that?
+[[smith|SMITH]]. Whose voice is that?
 
 DOCTOR. It is no business of mine to decide!
 
@@ -7720,11 +7720,11 @@ cloak, with a peaked cap or hood like the elves in my nursery stories.
 
 Sometimes when I look out of the [[motifs/window|window]] here, I see him passing round
 
-this house like a [[archetypes/shadow|shadow]]; and see his pointed hood, dark against the
+this [[house]] like a [[archetypes/shadow|shadow]]; and see his pointed hood, dark against the
 
 sunset or the rising of the [[motifs/moon|moon]].
 
-SMITH. What does he talk about?
+[[smith|SMITH]]. What does he talk about?
 
 PATRICIA. He tells me the [[concepts/truth|truth]]. Very many true things. He is a wizard.
 
@@ -7766,7 +7766,7 @@ allow a little more for poetry. We can't all feed on nothing but petrol.
 
 DUKE. Quite right, quite right. And being Irish, don't you know, Celtic,
 
-as old Buffle used to say, charming songs, you know, about the Irish
+as old Buffle used to say, charming [[songs]], you know, about the Irish
 
 girl who has a plaid shawl--and a Banshee. [_Sighs profoundly._] Poor
 
@@ -7774,7 +7774,7 @@ old Gladstone!
 
 [_Silence as usual._
 
-SMITH. [_Speaking to_ DOCTOR.] I thought you yourself considered the
+[[smith|SMITH]]. [_Speaking to_ DOCTOR.] I thought you yourself considered the
 
 family superstition bad for the health?
 
@@ -7853,7 +7853,7 @@ DUCA. Oh, non un _uomo_, sapete. Un mago, qualcosa di mitico, sapete
 
 bene.
 
-SMITH. Non un _uomo_, ma un uomo di medicina.
+[[smith|SMITH]]. Non un _uomo_, ma un uomo di medicina.
 
 DOTTORE. [_Cupamente._] Io sono un uomo di medicina.
 
@@ -7879,9 +7879,9 @@ diceva il vecchio Buffle....
 
 [_Mentre parla si ode una voce lontana cantare nel [[motifs/garden|giardino]]; si
 
-avvicina sempre di più, e_ SMITH _si volge di scatto verso il_ DOTTORE.
+avvicina sempre di più, e_ [[smith|SMITH]] _si volge di scatto verso il_ DOTTORE.
 
-SMITH. Di chi è quella voce?
+[[smith|SMITH]]. Di chi è quella voce?
 
 DOTTORE. Non spetta a me deciderlo!
 
@@ -7929,11 +7929,11 @@ mantello, con un berretto a punta o cappuccio come gli elfi nelle mie storie d'i
 
 A volte, quando guardo fuori dalla [[motifs/window|finestra]] qui, lo vedo aggirarsi attorno a
 
-questa casa come un'[[archetypes/shadow|ombra]]; e vedo il suo cappuccio a punta, scuro contro il
+questa [[house|casa]] come un'[[archetypes/shadow|ombra]]; e vedo il suo cappuccio a punta, scuro contro il
 
 tramonto o il sorgere della [[motifs/moon|luna]].
 
-SMITH. Di che cosa parla?
+[[smith|SMITH]]. Di che cosa parla?
 
 PATRICIA. Mi dice la [[concepts/truth|verità]]. Moltissime cose vere. È un mago.
 
@@ -7975,7 +7975,7 @@ concedere un po' di più alla poesia. Non possiamo tutti nutrirci solo di petrol
 
 DUCA. Giustissimo, giustissimo. Ed essendo irlandese, non è vero, celtico,
 
-come diceva il vecchio Buffle, deliziose canzoni, sapete, sulla ragazza
+come diceva il vecchio Buffle, deliziose [[songs|canzoni]], sapete, sulla ragazza
 
 irlandese che ha uno scialle scozzese--e una Banshee. [_Sospira profondamente._] Povero
 
@@ -7983,7 +7983,7 @@ vecchio Gladstone!
 
 [_Silenzio come al solito._
 
-SMITH. [_Parlando al_ DOTTORE.] Credevo che voi stesso consideraste la
+[[smith|SMITH]]. [_Parlando al_ DOTTORE.] Credevo che voi stesso consideraste la
 
 superstizione di famiglia dannosa per la salute?
 
@@ -8028,7 +8028,7 @@ dureranno più a lungo delle lampade rosse?
 <span class="atom-split" data-atom="part--part_05" data-title="Magic (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/shadow,motif/garden,motif/leaves,motif/night,motif/stars,motif/time,motif/well,concept/doubt,character/hastings"></span>
 
 
-SMITH. [_With decision._] Yes. But they are fixed [[motifs/stars|stars]].
+[[smith|SMITH]]. [_With decision._] Yes. But they are fixed [[motifs/stars|stars]].
 
 DOCTOR. The red lamp will last my [[motifs/time|time]].
 
@@ -8078,7 +8078,7 @@ PATRICIA. Oh, you need not trouble. He will come if I call him.
 
 [_She goes out into the [[motifs/garden|garden]] and calls out some half-chanted and
 
-unintelligible words, somewhat like the song preceding her
+unintelligible words, somewhat like the [[Song|song]] preceding her
 
 entrance. The red light reappears; and there is a slight sound as
 
@@ -8096,7 +8096,7 @@ MORRIS. [_Shutting the [[motifs/garden|garden]] doors behind him._] Now, see her
 
 we've got you. And we know you're a fraud.
 
-SMITH. [_Quietly._] Pardon me, I do not fancy that we know that. For
+[[smith|SMITH]]. [_Quietly._] Pardon me, I do not fancy that we know that. For
 
 myself I must confess to something of the Doctor's agnosticism.
 
@@ -8104,13 +8104,13 @@ MORRIS. [_Excited, and turning almost with a snarl._] I didn't know you
 
 parsons stuck up for any fables but your own.
 
-SMITH. I stick up for the thing every man has a right to. Perhaps the
+[[smith|SMITH]]. I stick up for the thing every man has a right to. Perhaps the
 
 only thing that every man has a right to.
 
 MORRIS. And what is that?
 
-SMITH. The benefit of the [[concepts/doubt|doubt]]. Even your master, the petroleum
+[[smith|SMITH]]. The benefit of the [[concepts/doubt|doubt]]. Even your master, the petroleum
 
 millionaire, has a right to that. And I think he needs it more.
 
@@ -8220,7 +8220,7 @@ never forgets faces. [_Waves the programmes about._] I never forget
 
 faces. [_Catches sight of the_ CONJURER _and genially draws him into the
 
-discussion._] Why, the Professor here who performs before the [[archetypes/king|King]]
+discussion._] Why, [[The Professor|the Professor]] here who performs before the [[archetypes/king|King]]
 
 [_puts down the programmes_]--you see it on the caravans, you
 
@@ -8243,7 +8243,7 @@ CONJURER. I should say it was remembering which people to remember.
 
 <span class="qlang-split" data-lang="it"></span>
 
-SMITH. _Con determinazione._ Sì. Ma sono stelle immobili, fisse nel cielo.
+[[smith|SMITH]]. _Con determinazione._ Sì. Ma sono stelle immobili, fisse nel cielo.
 
 DOTTORE. La luce rossa durerà per tutta la mia [[motifs/time|)vita]].
 
@@ -8293,7 +8293,7 @@ PATRICIA. Oh, non c’è bisogno che vi disturbiate. Verrà se lo chiamo io.
 
 Uscì nel [[motifs/garden|giardino]] e chiamò, con voce semicantata.
 
-Parole incomprensibili, un po' come la canzone che l'aveva preceduta.
+Parole incomprensibili, un po' come la [[Song|canzone]] che l'aveva preceduta.
 
 “Entrata… Il semaforo rosso si accende di nuovo; e si sente un leggero suono…”
 
@@ -8311,7 +8311,7 @@ MORRIS. _Chiude le porte del [[motifs/garden|giardino]] alle sue spalle._ Ora, g
 
 Ti abbiamo catturato. E sappiamo che sei un truffatore.
 
-SMITH. [_In silenzio._] Scusate, non credo che lo sappiamo. Perché.
+[[smith|SMITH]]. [_In silenzio._] Scusate, non credo che lo sappiamo. Perché.
 
 Devo ammettere che anch'io condivido, in parte, l'agnosticismo del Dottore.
 
@@ -8319,13 +8319,13 @@ MORRIS. [_Emozionato, e quasi ringhiando._] Non sapevo che fossi qui…
 
 I parroci difendevano solo le favole proprie, non quelle altrui.
 
-SMITH. Io difendo ciò che ogni uomo ha il diritto di avere. Forse.
+[[smith|SMITH]]. Io difendo ciò che ogni uomo ha il diritto di avere. Forse.
 
 L’unica cosa a cui ogni uomo ha diritto.
 
 MORRIS. E cos'è quello?
 
-SMITH. Il vantaggio della [[concepts/doubt|dubbio]]. Anche il tuo padrone, il petrolio.
+[[smith|SMITH]]. Il vantaggio della [[concepts/doubt|dubbio]]. Anche il tuo padrone, il petrolio.
 
 Un milionario ha il diritto a farlo. E penso che ne abbia bisogno ancora di più.
 
@@ -8436,7 +8436,7 @@ In campagna, e tutto il resto. Guardate ora come ricordo i volti! Il [[archetype
 Titolo:  
 “Vede il Mago… e lo invita gentilmente ad avvicinarsi”
 
-Il Professore, che si esibisce davanti al [[archetypes/king|Re]], perché.
+[[The Professor|Il Professore]], che si esibisce davanti al [[archetypes/king|Re]], perché.
 
 Programmi installati – Li vedi sugli caravan, vero?
 
@@ -8477,7 +8477,7 @@ only other thing at all urgent is the Militant Vegetarians.
 
 DUKE. Ah! The Militant Vegetarians! You've heard of them, I'm sure.
 
-Won't obey the law [_to the_ CONJURER] so long as the Government serves
+Won't obey the law [_to the_ CONJURER] so long as the [[government|Government]] serves
 
 out meat.
 
@@ -8491,7 +8491,7 @@ too--oh, certainly advanced. Like Joan of Arc.
 
 [_Short [[motifs/silence|silence]], in which the_ CONJURER _stares at him._]
 
-CONJURER. _Was_ Joan of Arc a Vegetarian?
+CONJURER. _Was_ Joan of Arc a [[vegetarian|Vegetarian]]?
 
 DUKE. Oh, [[motifs/well|well]], it's a very high ideal, after all. The Sacredness of
 
@@ -8499,7 +8499,7 @@ Life, you know--the Sacredness of Life. [_Shakes his head._] But they
 
 carry it too far. They killed a policeman down in [[characters/kent|Kent]].
 
-CONJURER. Killed a policeman? How Vegetarian! [[motifs/well|Well]], I suppose it was, so
+CONJURER. Killed a policeman? How [[vegetarian|Vegetarian]]! [[motifs/well|Well]], I suppose it was, so
 
 long as they didn't eat him.
 
@@ -8537,11 +8537,11 @@ Not a logical system--no Rousseau in it--but see how [[motifs/well|well]] it wor
 
 shall be the very best magistrate that could be on the Bench. The others
 
-would be biassed, you know. Old Sir Lawrence is a Vegetarian himself;
+would be biassed, you know. Old Sir Lawrence is a [[vegetarian|Vegetarian]] himself;
 
-and might be hard on the Anti-Vegetarian roughs. Colonel Crashaw would
+and might be hard on the Anti-[[vegetarian|Vegetarian]] roughs. Colonel Crashaw would
 
-be sure to be hard on the Vegetarian roughs. But if I've paid both of
+be sure to be hard on the [[vegetarian|Vegetarian]] roughs. But if I've paid both of
 
 'em, of course I shan't be hard on either of 'em--and there you have it.
 
@@ -8678,7 +8678,7 @@ sola altra cosa davvero urgente sono i Vegetariani Militanti.
 
 DUCA. Ah! I Vegetariani Militanti! Ne avete sentito parlare, ne sono certo.
 
-Non obbediscono alla legge [_al_ PRESTIGIATORE] finché il Governo distribuisce
+Non obbediscono alla legge [_al_ PRESTIGIATORE] finché il [[government|Governo]] distribuisce
 
 carne.
 
@@ -8692,7 +8692,7 @@ anche--oh, certamente avanzati. Come Giovanna d'Arco.
 
 [_Breve [[motifs/silence|silenzio]], durante il quale il_ PRESTIGIATORE _lo fissa._]
 
-PRESTIGIATORE. _Era_ Giovanna d'Arco una Vegetariana?
+PRESTIGIATORE. _Era_ Giovanna d'Arco una [[vegetarian|Vegetariana]]?
 
 DUCA. Oh, [[motifs/well|beh]], è un ideale molto alto, dopotutto. La Sacralità della
 
@@ -8700,7 +8700,7 @@ Vita, sapete--la Sacralità della Vita. [_Scuote il capo._] Ma loro
 
 la portano troppo oltre. Hanno ucciso un poliziotto giù nel [[characters/kent|Kent]].
 
-PRESTIGIATORE. Ucciso un poliziotto? Che cosa Vegetariana! [[motifs/well|Beh]], suppongo che lo fosse, purché
+PRESTIGIATORE. Ucciso un poliziotto? Che cosa [[vegetarian|Vegetariana]]! [[motifs/well|Beh]], suppongo che lo fosse, purché
 
 non l'abbiano mangiato.
 
@@ -8738,11 +8738,11 @@ Non un sistema logico--niente Rousseau dentro--ma guardate quanto [[motifs/well|
 
 sarò il miglior magistrato che possa sedere in tribunale. Gli altri
 
-sarebbero prevenuti, sapete. Il vecchio Sir Lawrence è lui stesso un Vegetariano;
+sarebbero prevenuti, sapete. Il vecchio Sir Lawrence è lui stesso un [[vegetarian|Vegetariano]];
 
-e potrebbe essere duro coi manigoldi Anti-Vegetariani. Il colonnello Crashaw
+e potrebbe essere duro coi manigoldi Anti-[[vegetarian|Vegetariani]]. Il colonnello Crashaw
 
-sarebbe di certo duro coi manigoldi Vegetariani. Ma se li ho pagati
+sarebbe di certo duro coi manigoldi [[vegetarian|Vegetariani]]. Ma se li ho pagati
 
 entrambi, naturalmente non sarò duro con nessuno dei due--ed eccola qua.
 
@@ -8945,7 +8945,7 @@ Mostly he has to do it in the beastly black cities of the Midlands and
 
 the North, where he can't get out into the country. Now and again he
 
-does it at some gentleman's country-house, where he can get out into the
+does it at some gentleman's country-[[house]], where he can get out into the
 
 country. [[motifs/well|Well]], you know that actors and orators and all sorts of people
 
@@ -8965,9 +8965,9 @@ some [[motifs/time|time]] to prepare an impromptu. A man like that walks about t
 
 woods and fields doing all his tricks beforehand, and talking all sorts
 
-of gibberish because he thinks he is alone. One evening this man found
+of gibberish because he thinks he is [[Alone|alone]]. One evening this man found
 
-he was not alone. He found a very beautiful [[archetypes/child|child]] was watching him.
+he was not [[Alone|alone]]. He found a very beautiful [[archetypes/child|child]] was watching him.
 
 PATRICIA. A [[archetypes/child|child]]?
 
@@ -8999,7 +8999,7 @@ much, Miss Carleon, if he enjoyed the only fairy tale he had had in his
 
 life? Suppose he said the silly circles he was drawing for practice
 
-were really magic circles? Suppose he said the bosh he was talking was
+were really [[Magic|magic]] circles? Suppose he said the bosh he was talking was
 
 the language of the elves? Remember, he has read fairy tales as much as
 
@@ -9011,13 +9011,13 @@ he, too, tried to have a holiday in fairyland?
 
 PATRICIA. [_Simply._] I blame him less than I did. But I still say there
 
-can be nothing worse than false magic. And, after all, it was he who
+can be nothing worse than false [[Magic|magic]]. And, after all, it was he who
 
-brought the false magic.
+brought the false [[Magic|magic]].
 
 CONJURER. [_Rising from his seat._] Yes. It was she who brought the real
 
-magic.
+[[Magic|magic]].
 
 [_Enter_ MORRIS, _in evening-dress. He walks straight up to the
 
@@ -9136,7 +9136,7 @@ Perlopiù deve farlo nelle bestiali città nere delle Midlands e
 
 del Nord, dove non può uscire in campagna. Di tanto in tanto lo
 
-fa in una casa di campagna di qualche gentiluomo, dove può uscire in
+fa in una [[house|casa]] di campagna di qualche gentiluomo, dove può uscire in
 
 campagna. [[motifs/well|Beh]], sapete che attori e oratori e ogni sorta di persone
 
@@ -9156,9 +9156,9 @@ un po' di [[motifs/time|tempo]] per preparare un'improvvisata. Un uomo così va 
 
 boschi e i campi facendo tutti i suoi trucchi in anticipo, e dicendo ogni sorta
 
-di farfugliamenti perché crede di essere solo. Una sera quest'uomo scoprì
+di farfugliamenti perché crede di essere [[Alone|solo]]. Una sera quest'uomo scoprì
 
-di non essere solo. Scoprì che una bellissima [[archetypes/child|fanciulla]] lo stava osservando.
+di non essere [[Alone|solo]]. Scoprì che una bellissima [[archetypes/child|fanciulla]] lo stava osservando.
 
 PATRICIA. Una [[archetypes/child|fanciulla]]?
 
@@ -9190,7 +9190,7 @@ uomo, Miss Carleon, se ha goduto dell'unica fiaba che avesse avuto nella sua
 
 vita? Supponete che dicesse che gli sciocchi cerchi che tracciava per esercizio
 
-erano davvero cerchi magici? Supponete che dicesse che le fandonie che diceva erano
+erano davvero cerchi [[Magic|magici]]? Supponete che dicesse che le fandonie che diceva erano
 
 la lingua degli elfi? Ricordate, ha letto fiabe tanto quanto
 
@@ -9202,13 +9202,13 @@ anche lui ha cercato di prendersi una vacanza nel paese delle fate?
 
 PATRICIA. [_Con semplicità._] Lo biasimo meno di prima. Ma continuo a dire che
 
-non ci può essere nulla di peggio della falsa magia. E, dopotutto, fu lui a
+non ci può essere nulla di peggio della falsa [[Magic|magia]]. E, dopotutto, fu lui a
 
-portare la falsa magia.
+portare la falsa [[Magic|magia]].
 
 PRESTIGIATORE. [_Alzandosi dal suo posto._] Sì. Fu lei a portare la vera
 
-magia.
+[[Magic|magia]].
 
 [_Entra_ MORRIS, _in abito da sera. Cammina dritto verso il
 
@@ -9287,7 +9287,7 @@ of cards and balancing it in his hand._
 
 MORRIS. Ah, most mysteries are tolerably plain if you know the
 
-apparatus. [_Enter_ DOCTOR _and_ SMITH, _talking with [[motifs/grave|grave]] faces, but
+apparatus. [_Enter_ DOCTOR _and_ [[smith|SMITH]], _talking with [[motifs/grave|grave]] faces, but
 
 growing silent as they reach the group._] I guess I wish we had all the
 
@@ -9329,23 +9329,23 @@ PATRICIA. The Vanishing Lady!
 
 [_Exit_ PATRICIA.
 
-SMITH. There is one part of their old apparatus I regret especially
+[[smith|SMITH]]. There is one part of their old apparatus I regret especially
 
 being lost.
 
 MORRIS. [_Still excited._] Yes!
 
-SMITH. The apparatus for writing the Book of Job.
+[[smith|SMITH]]. The apparatus for writing the Book of Job.
 
 MORRIS. [[motifs/well|Well]], [[motifs/well|well]], they didn't know everything in those old times.
 
-SMITH. No, and in those old times they knew they didn't. [_Dreamily._]
+[[smith|SMITH]]. No, and in those old times they knew they didn't. [_Dreamily._]
 
 Where shall wisdom be found, and what is the place of understanding?
 
 CONJURER. Somewhere in [[settings/america|America]], I believe.
 
-SMITH. [_Still dreamily._] Man knoweth not the price thereof; neither is
+[[smith|SMITH]]. [_Still dreamily._] Man knoweth not the price thereof; neither is
 
 it found in the land of the living. The deep sayeth it is not in me, the
 
@@ -9488,7 +9488,7 @@ di carte e soppesandolo nella mano._
 
 MORRIS. Ah, quasi tutti i misteri sono abbastanza chiari se si conosce
 
-l'apparato. [_Entrano il_ DOTTORE _e_ SMITH, _parlando con volti [[motifs/grave|gravi]], ma
+l'apparato. [_Entrano il_ DOTTORE _e_ [[smith|SMITH]], _parlando con volti [[motifs/grave|gravi]], ma
 
 facendosi silenziosi mentre raggiungono il gruppo._] Vorrei proprio che avessimo tutto il
 
@@ -9530,23 +9530,23 @@ PATRICIA. La Dama che Scompare!
 
 [_Esce_ PATRICIA.
 
-SMITH. C'è una parte del loro vecchio apparato la cui perdita rimpiango
+[[smith|SMITH]]. C'è una parte del loro vecchio apparato la cui perdita rimpiango
 
 in modo particolare.
 
 MORRIS. [_Ancora eccitato._] Sì!
 
-SMITH. L'apparato per scrivere il Libro di Giobbe.
+[[smith|SMITH]]. L'apparato per scrivere il Libro di Giobbe.
 
 MORRIS. [[motifs/well|Beh]], [[motifs/well|beh]], non sapevano tutto in quei tempi antichi.
 
-SMITH. No, e in quei tempi antichi sapevano di non saperlo. [_Sognante._]
+[[smith|SMITH]]. No, e in quei tempi antichi sapevano di non saperlo. [_Sognante._]
 
 Dove si troverà la sapienza, e qual è il luogo dell'intelligenza?
 
 PRESTIGIATORE. Da qualche parte in [[settings/america|America]], credo.
 
-SMITH. [_Sempre sognante._] L'uomo non ne conosce il prezzo; né essa
+[[smith|SMITH]]. [_Sempre sognante._] L'uomo non ne conosce il prezzo; né essa
 
 si trova nella terra dei viventi. L'abisso dice: non è in me; il
 
@@ -9669,29 +9669,29 @@ hear you say you are a savage and have buried a tomahawk. I would rather
 
 hear you say, as your Irish ancestors would have said, that you have
 
-sheathed your sword with the dignity proper to a gentleman.
+sheathed your [[Sword|sword]] with the dignity proper to a gentleman.
 
-MORRIS. Very [[motifs/well|well]]. I've sheathed my sword with the dignity proper to a
+MORRIS. Very [[motifs/well|well]]. I've sheathed my [[Sword|sword]] with the dignity proper to a
 
 gentleman.
 
-CONJURER. And I have sheathed my sword with the dignity proper to a
+CONJURER. And I have sheathed my [[Sword|sword]] with the dignity proper to a
 
 conjurer.
 
-MORRIS. How does the Conjurer sheath a sword?
+MORRIS. How does the Conjurer sheath a [[Sword|sword]]?
 
 CONJURER. Swallows it.
 
 DOCTOR. Then we all agree there shall be no quarrel.
 
-SMITH. May I say a word? I have a great dislike of a quarrel, for a
+[[smith|SMITH]]. May I say a word? I have a great dislike of a quarrel, for a
 
 reason quite beyond my duty to my cloth.
 
 MORRIS. And what is that?
 
-SMITH. I object to a quarrel because it always interrupts an argument.
+[[smith|SMITH]]. I object to a quarrel because it always interrupts an argument.
 
 May I bring you back for a moment to the argument? You were saying that
 
@@ -9711,19 +9711,19 @@ MORRIS. Wal, the Duke's real amiable; but I reckon you'd find what you
 
 call the interruption of an argument.
 
-SMITH. [[motifs/well|Well]], suppose I did say so, you wouldn't take it as meaning that
+[[smith|SMITH]]. [[motifs/well|Well]], suppose I did say so, you wouldn't take it as meaning that
 
 Sir Joshua Reynolds never lived. Why should sham miracles prove to us
 
-that real Saints and Prophets never lived. There may be sham magic and
+that real Saints and Prophets never lived. There may be sham [[Magic|magic]] and
 
-real magic also.
+real [[Magic|magic]] also.
 
 [_The_ CONJURER _raises his head and listens with a strange air of
 
 intentness._
 
-SMITH. There may be turnip [[motifs/ghosts|ghosts]] precisely because there are real
+[[smith|SMITH]]. There may be turnip [[motifs/ghosts|ghosts]] precisely because there are real
 
 [[motifs/ghosts|ghosts]]. There may be theatrical fairies precisely because there are real
 
@@ -9731,7 +9731,7 @@ fairies. You do not abolish the Bank of England by pointing to a forged
 
 bank-note.
 
-MORRIS. I [[concepts/hope|hope]] the Professor enjoys being called a forged bank-note.
+MORRIS. I [[concepts/hope|hope]] [[The Professor|the Professor]] enjoys being called a forged bank-note.
 
 CONJURER. Almost as much as being called the Prospectus of some American
 
@@ -9743,9 +9743,9 @@ CONJURER. I am sorry.
 
 MORRIS. Wal, let's have the argument first, then I guess we can have the
 
-quarrel afterwards. I'll clean this house of some encumbrances. See
+quarrel afterwards. I'll clean this [[house]] of some encumbrances. See
 
-here, Mr. Smith, I'm not putting anything on your real miracle notion. I
+here, Mr. [[smith|Smith]], I'm not putting anything on your real miracle notion. I
 
 say, and Science says, that there's a cause for everything. Science will
 
@@ -9757,7 +9757,7 @@ mighty mean. Sooner or later Science will botanise a bit on your turnip
 
 say....
 
-DOCTOR. [_In a low voice to_ SMITH.] I don't like this peaceful argument
+DOCTOR. [_In a low voice to_ [[smith|SMITH]].] I don't like this peaceful argument
 
 of yours. The boy is getting much too excited.
 
@@ -9847,7 +9847,7 @@ MORRIS. [_Turning on him furiously._] You call yourself a man of
 
 science, and you dare to tell me not to inquire!
 
-SMITH. We only mean that for the moment you might let it alone.
+[[smith|SMITH]]. We only mean that for the moment you might let it [[Alone|alone]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9869,29 +9869,29 @@ Ascolto dire che sei un selvaggio e che hai sepolto un tomahawk… Preferirei di
 Titolo:  
 “Sentirti dire, come avrebbero detto i tuoi antenati irlandesi, che…”
 
-Avvolgesti la tua _spada con la dignità propria di un gentiluomo.
+Avvolgesti la tua [[Sword|_spada]] con la dignità propria di un gentiluomo.
 
-MORRIS. Molto bene. Ho riposto la mia _spada con la dignità che si addice a.
+MORRIS. Molto bene. Ho riposto la mia [[Sword|_spada]] con la dignità che si addice a.
 
 Signore.
 
-Congiuratore. E ho riposto la mia _spada con la dignità che le è dovuta.
+Congiuratore. E ho riposto la mia [[Sword|_spada]] con la dignità che le è dovuta.
 
 Stregone.
 
-MORRIS. Come fa il Mago a riporre una _spada nel suo fodero?
+MORRIS. Come fa il Mago a riporre una [[Sword|_spada]] nel suo fodero?
 
 Stregone. Lo ingoia.
 
 DOTTORE. Allora siamo tutti d’accordo sul fatto che non dovranno esserci litigi.
 
-SMITH. Posso dire una parola? Non sopporto affatto le liti.
+[[smith|SMITH]]. Posso dire una parola? Non sopporto affatto le liti.
 
 Una ragione che va ben oltre i limiti del mio dovere verso la mia attività.
 
 MORRIS. E cos'è quello?
 
-SMITH. Mi oppongo alle liti, perché interrompono sempre una discussione.
+[[smith|SMITH]]. Mi oppongo alle liti, perché interrompono sempre una discussione.
 
 Posso riportarvi per un momento sull’argomento di cui stavamo parlando? Stavate dicendo che…
 
@@ -9913,19 +9913,19 @@ Morris: davvero un uomo amabile… ma credo che tu troveresti in lui qualcosa di
 
 Chiamiamo questa interruzione di un argomento.
 
-SMITH. Beh, supponiamo che l'abbia detto davvero, voi non pensereste che intendessi dire.
+[[smith|SMITH]]. Beh, supponiamo che l'abbia detto davvero, voi non pensereste che intendessi dire.
 
 Sir Joshua Reynolds non visse mai… Perché dovrebbero i falsi miracoli dimostrarci qualcosa?
 
 Che quei veri Santi e Profeti non siano mai esistiti. Potrebbero esserci magie false, ma.
 
-Anche vera magia.
+Anche vera [[Magic|magia]].
 
 Il Mago Alza la Testa e Ascolta con un’aria Strana
 
 Intenzionalità
 
-SMITH. Potrebbero esistere “fantasmi” di ravanello proprio perché ne esistono di veri.
+[[smith|SMITH]]. Potrebbero esistere “fantasmi” di ravanello proprio perché ne esistono di veri.
 
 [[motifs/ghosts|fantasmi]]. Forse esistono fate teatrali proprio perché ne esistono di vere.
 
@@ -9933,7 +9933,7 @@ Fate: Non si può abolire la Banca d’Inghilterra semplicemente indicando un do
 
 Banconota.
 
-Morris. Spero che al Professore piaccia essere chiamato “banconota falsa”.
+Morris. Spero che al [[The Professor|Professore]] piaccia essere chiamato “banconota falsa”.
 
 Conjurer. Quasi quanto essere definito il “prospetto” di qualche azienda americana…
 
@@ -9945,9 +9945,9 @@ STREGONE: Mi dispiace.
 
 MORRIS. Ebbene, prima facciamoci questa discussione, e poi potremo…
 
-Litigheranno dopo. Pulirò questa casa da tutte queste incombenze. Capito?
+Litigheranno dopo. Pulirò questa [[house|casa]] da tutte queste incombenze. Capito?
 
-Ecco, signor Smith, non sto affatto mettendo in dubbio la sua idea di un vero miracolo. Io.
+Ecco, signor [[smith|Smith]], non sto affatto mettendo in dubbio la sua idea di un vero miracolo. Io.
 
 “Dicono, e la scienza conferma, che tutto abbia una causa. La scienza… lo dimostra.”
 
@@ -9959,7 +9959,7 @@ Potente e meschino… Prima o poi la scienza si occuperà anche dei tuoi “rapa
 
 Diciamo.
 
-DOTTORO. _A bassa voce, rivolto a SMITH._ Non mi piace questo discorso pacifico.
+DOTTORO. _A bassa voce, rivolto a [[smith|SMITH]]._ Non mi piace questo discorso pacifico.
 
 Di tuo. Il ragazzo si sta eccitando troppo.
 
@@ -10049,14 +10049,14 @@ MORRIS. [_Lo affronta con rabbia._] Ti definisci un uomo…
 
 Scienza, e tu osi dirmi di non indagare?
 
-SMITH. Vogliamo solo dire che, per il momento, potresti lasciarlo da solo.
+[[smith|SMITH]]. Vogliamo solo dire che, per il momento, potresti lasciarlo [[Alone|da solo]].
 
 
 
 <span class="atom-split" data-atom="part--part_10" data-title="Magic (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="motif/death,motif/garden,motif/grave,motif/mirror,motif/night,motif/silence,motif/well,motif/window,concept/doubt,histref/bible,character/apollo"></span>
 
 
-MORRIS. [_Violently._] No, Priest, I will not let it alone. [_Pacing the
+MORRIS. [_Violently._] No, Priest, I will not let it [[Alone|alone]]. [_Pacing the
 
 room again._] Could it be done with mirrors? [_He clasps his brow._] You
 
@@ -10068,7 +10068,7 @@ light....
 
 [_Sudden [[motifs/silence|silence]]._
 
-SMITH. [_Quietly to the_ DOCTOR.] You don't get blue.
+[[smith|SMITH]]. [_Quietly to the_ DOCTOR.] You don't get blue.
 
 DOCTOR. [_Stepping across to the_ CONJURER.] If you have done this
 
@@ -10094,13 +10094,13 @@ out what's wrong with the lamp.
 
 DOCTOR. It is still a wet [[motifs/night|night]], I am afraid.
 
-SMITH. Yes. And somebody else will be wandering about the [[motifs/garden|garden]] now.
+[[smith|SMITH]]. Yes. And somebody else will be wandering about the [[motifs/garden|garden]] now.
 
 [_Through the broken glass doors_ MORRIS _can be seen marching
 
 backwards and forwards with swifter and swifter steps._
 
-SMITH. I suppose in this case the Celtic twilight will not get on the
+[[smith|SMITH]]. I suppose in this case the Celtic twilight will not get on the
 
 chest.
 
@@ -10132,13 +10132,13 @@ PATRICIA. I am going out to find my brother.
 
 [_She goes out into the [[motifs/garden|garden]] through the open doors._
 
-SMITH. [_After a [[motifs/silence|silence]], very suddenly._] What is that noise? She is
+[[smith|SMITH]]. [_After a [[motifs/silence|silence]], very suddenly._] What is that noise? She is
 
-not singing those songs to him, is she?
+not singing those [[songs]] to him, is she?
 
 CONJURER. No. He does not understand the language of the elves.
 
-SMITH. But what are all those cries and gasps I hear?
+[[smith|SMITH]]. But what are all those cries and gasps I hear?
 
 CONJURER. The normal noises, I believe, of a quiet business man.
 
@@ -10154,7 +10154,7 @@ DOCTOR. My dear lady, certainly. Shall I fetch the Duke?
 
 PATRICIA. I would prefer the Doctor.
 
-SMITH. Can I be of any use?
+[[smith|SMITH]]. Can I be of any use?
 
 PATRICIA. I only want the Doctor.
 
@@ -10162,19 +10162,19 @@ PATRICIA. I only want the Doctor.
 
 at each other._
 
-SMITH. [_Quietly._] That last was a wonderful trick of yours.
+[[smith|SMITH]]. [_Quietly._] That last was a wonderful trick of yours.
 
 CONJURER. Thank you. I suppose you mean it was the only one you didn't
 
 see through.
 
-SMITH. Something of the kind, I confess. Your last trick was the best
+[[smith|SMITH]]. Something of the kind, I confess. Your last trick was the best
 
 trick I have ever seen. It is so good that I wish you had not done it.
 
 CONJURER. And so do I.
 
-SMITH. How do you mean? Do you wish you had never been a conjurer?
+[[smith|SMITH]]. How do you mean? Do you wish you had never been a conjurer?
 
 CONJURER. I wish I had never been born.
 
@@ -10184,7 +10184,7 @@ CONJURER. I wish I had never been born.
 
 DOCTOR. It is all right so far. We have brought him back.
 
-SMITH. [_Drawing near to him._] You told me there was mental trouble
+[[smith|SMITH]]. [_Drawing near to him._] You told me there was mental trouble
 
 with the girl.
 
@@ -10192,27 +10192,27 @@ DOCTOR. [_Looking at him steadily._] No. I told you there was mental
 
 trouble in the family.
 
-SMITH. [_After a [[motifs/silence|silence]]._] Where is Mr. Morris Carleon?
+[[smith|SMITH]]. [_After a [[motifs/silence|silence]]._] Where is Mr. Morris Carleon?
 
 DOCTOR. I have got him into bed in the next room. His sister is looking
 
 after him.
 
-SMITH. His sister! Oh, then do you believe in fairies?
+[[smith|SMITH]]. His sister! Oh, then do you believe in fairies?
 
 DOCTOR. Believe in fairies? What do you mean?
 
-SMITH. At least you put the person who does believe in them in charge of
+[[smith|SMITH]]. At least you put the person who does believe in them in charge of
 
 the person who doesn't.
 
 DOCTOR. [[motifs/well|Well]], I suppose I do.
 
-SMITH. You don't think she'll keep him awake all [[motifs/night|night]] with fairy tales?
+[[smith|SMITH]]. You don't think she'll keep him awake all [[motifs/night|night]] with fairy tales?
 
 DOCTOR. Certainly not.
 
-SMITH. You don't think she'll throw the medicine-bottle out of [[motifs/window|window]]
+[[smith|SMITH]]. You don't think she'll throw the medicine-bottle out of [[motifs/window|window]]
 
 and administer--er--a dewdrop, or anything of that sort? Or a
 
@@ -10220,7 +10220,7 @@ four-leaved clover, say?
 
 DOCTOR. No; of course not.
 
-SMITH. I only ask because you scientific men are a little hard on us
+[[smith|SMITH]]. I only ask because you scientific men are a little hard on us
 
 clergymen. You don't believe in a priesthood; but you'll admit I'm more
 
@@ -10240,7 +10240,7 @@ a flicker of [[concepts/doubt|doubt]]: because you trust women.
 
 DOCTOR. [_Very seriously._] Yes, I trust women.
 
-SMITH. You trust a woman with the practical issues of life and [[motifs/death|death]],
+[[smith|SMITH]]. You trust a woman with the practical issues of life and [[motifs/death|death]],
 
 through sleepless hours when a shaking hand or an extra grain would
 
@@ -10248,7 +10248,7 @@ kill.
 
 DOCTOR. Yes.
 
-SMITH. But if the woman gets up to go to early service at my church, you
+[[smith|SMITH]]. But if the woman gets up to go to early service at my church, you
 
 call her weak-minded and say that nobody but women can believe in
 
@@ -10258,20 +10258,20 @@ DOCTOR. I should never call this woman weak-minded--no, by God, not even
 
 if she went to church.
 
-SMITH. Yet there are many as strong-minded who believe passionately in
+[[smith|SMITH]]. Yet there are many as strong-minded who believe passionately in
 
 going to church.
 
 DOCTOR. Weren't there as many who believed passionately in [[characters/apollo|Apollo]]?
 
-SMITH. And what harm came of believing in [[characters/apollo|Apollo]]? And what a mass of
+[[smith|SMITH]]. And what harm came of believing in [[characters/apollo|Apollo]]? And what a mass of
 
 harm may have come of not believing in [[characters/apollo|Apollo]]? Does it never strike you
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-MORRIS. [_Con violenza._] No, Prete, non lo lascerò stare. [_Percorrendo di nuovo
+MORRIS. [_Con violenza._] No, Prete, non lo lascerò [[Alone|stare]]. [_Percorrendo di nuovo
 
 la stanza._] Si potrebbe fare con degli specchi? [_Si stringe la fronte._] Lei
 
@@ -10283,7 +10283,7 @@ rossa....
 
 [_[[motifs/silence|Silenzio]] improvviso._
 
-SMITH. [_Sottovoce al_ DOTTORE.] Non ottieni il blu.
+[[smith|SMITH]]. [_Sottovoce al_ DOTTORE.] Non ottieni il blu.
 
 DOTTORE. [_Avvicinandosi al_ PRESTIGIATORE.] Se ha fatto lei questo
 
@@ -10309,13 +10309,13 @@ cosa c'è di sbagliato nella lampada.
 
 DOTTORE. È ancora una [[motifs/night|notte]] umida, temo.
 
-SMITH. Sì. E ora qualcun altro andrà errando per il [[motifs/garden|giardino]].
+[[smith|SMITH]]. Sì. E ora qualcun altro andrà errando per il [[motifs/garden|giardino]].
 
 [_Attraverso le porte a vetri infrante si vede_ MORRIS _andare
 
 avanti e indietro a passi sempre più rapidi._
 
-SMITH. Suppongo che in questo caso il crepuscolo celtico non gli si poserà sul
+[[smith|SMITH]]. Suppongo che in questo caso il crepuscolo celtico non gli si poserà sul
 
 petto.
 
@@ -10347,13 +10347,13 @@ PATRICIA. Esco a cercare mio fratello.
 
 [_Esce nel [[motifs/garden|giardino]] attraverso le porte aperte._
 
-SMITH. [_Dopo un [[motifs/silence|silenzio]], all'improvviso._] Che cos'è quel rumore? Non gli
+[[smith|SMITH]]. [_Dopo un [[motifs/silence|silenzio]], all'improvviso._] Che cos'è quel rumore? Non gli
 
-starà mica cantando quelle canzoni, vero?
+starà mica cantando quelle [[songs|canzoni]], vero?
 
 PRESTIGIATORE. No. Lui non capisce la lingua degli elfi.
 
-SMITH. Ma cosa sono tutte quelle grida e quegli ansiti che sento?
+[[smith|SMITH]]. Ma cosa sono tutte quelle grida e quegli ansiti che sento?
 
 PRESTIGIATORE. I normali rumori, credo, di un tranquillo uomo d'affari.
 
@@ -10369,7 +10369,7 @@ DOTTORE. Mia cara signora, certamente. Devo chiamare il Duca?
 
 PATRICIA. Preferirei il Dottore.
 
-SMITH. Posso essere d'aiuto?
+[[smith|SMITH]]. Posso essere d'aiuto?
 
 PATRICIA. Voglio soltanto il Dottore.
 
@@ -10377,19 +10377,19 @@ PATRICIA. Voglio soltanto il Dottore.
 
 guardano l'un l'altro._
 
-SMITH. [_Sottovoce._] Quest'ultimo è stato un trucco meraviglioso, il suo.
+[[smith|SMITH]]. [_Sottovoce._] Quest'ultimo è stato un trucco meraviglioso, il suo.
 
 PRESTIGIATORE. Grazie. Suppongo che intenda dire che è stato l'unico che non ha
 
 smascherato.
 
-SMITH. Qualcosa del genere, lo confesso. Il suo ultimo trucco è stato il miglior
+[[smith|SMITH]]. Qualcosa del genere, lo confesso. Il suo ultimo trucco è stato il miglior
 
 trucco che io abbia mai visto. È così bello che vorrei non l'avesse fatto.
 
 PRESTIGIATORE. E lo vorrei anch'io.
 
-SMITH. Come sarebbe? Vorrebbe non essere mai stato un prestigiatore?
+[[smith|SMITH]]. Come sarebbe? Vorrebbe non essere mai stato un prestigiatore?
 
 PRESTIGIATORE. Vorrei non essere mai nato.
 
@@ -10399,7 +10399,7 @@ PRESTIGIATORE. Vorrei non essere mai nato.
 
 DOTTORE. Per ora va tutto bene. L'abbiamo riportato indietro.
 
-SMITH. [_Avvicinandosi a lui._] Mi aveva detto che c'era un disturbo mentale
+[[smith|SMITH]]. [_Avvicinandosi a lui._] Mi aveva detto che c'era un disturbo mentale
 
 nella ragazza.
 
@@ -10407,27 +10407,27 @@ DOTTORE. [_Guardandolo fisso._] No. Le ho detto che c'era un disturbo
 
 mentale nella famiglia.
 
-SMITH. [_Dopo un [[motifs/silence|silenzio]]._] Dov'è il signor Morris Carleon?
+[[smith|SMITH]]. [_Dopo un [[motifs/silence|silenzio]]._] Dov'è il signor Morris Carleon?
 
 DOTTORE. L'ho messo a letto nella stanza accanto. Sua sorella si sta
 
 prendendo cura di lui.
 
-SMITH. Sua sorella! Oh, allora lei crede nelle fate?
+[[smith|SMITH]]. Sua sorella! Oh, allora lei crede nelle fate?
 
 DOTTORE. Credere nelle fate? Che cosa intende?
 
-SMITH. Quantomeno ha affidato la persona che ci crede alla custodia
+[[smith|SMITH]]. Quantomeno ha affidato la persona che ci crede alla custodia
 
 della persona che non ci crede.
 
 DOTTORE. [[motifs/well|Beh]], suppongo di sì.
 
-SMITH. Non teme che lo terrà sveglio tutta la [[motifs/night|notte]] con le fiabe?
+[[smith|SMITH]]. Non teme che lo terrà sveglio tutta la [[motifs/night|notte]] con le fiabe?
 
 DOTTORE. Certamente no.
 
-SMITH. Non teme che getterà la boccetta della medicina dalla [[motifs/window|finestra]]
+[[smith|SMITH]]. Non teme che getterà la boccetta della medicina dalla [[motifs/window|finestra]]
 
 e gli somministrerà... ehm... una goccia di rugiada, o qualcosa del genere? O un
 
@@ -10435,7 +10435,7 @@ quadrifoglio, mettiamo?
 
 DOTTORE. No; certo che no.
 
-SMITH. Lo chiedo solo perché voi uomini di scienza siete un po' duri con noi
+[[smith|SMITH]]. Lo chiedo solo perché voi uomini di scienza siete un po' duri con noi
 
 ecclesiastici. Voi non credete in un sacerdozio; ma ammetterà che io sono più
 
@@ -10455,7 +10455,7 @@ un'ombra di [[concepts/doubt|dubbio]]: perché si fida delle donne.
 
 DOTTORE. [_Molto serio._] Sì, mi fido delle donne.
 
-SMITH. Affida a una donna le questioni pratiche della vita e della [[motifs/death|morte]],
+[[smith|SMITH]]. Affida a una donna le questioni pratiche della vita e della [[motifs/death|morte]],
 
 lungo ore insonni in cui una mano tremante o un grano di troppo
 
@@ -10463,7 +10463,7 @@ ucciderebbero.
 
 DOTTORE. Sì.
 
-SMITH. Ma se la donna si alza per andare alla prima funzione nella mia chiesa, la
+[[smith|SMITH]]. Ma se la donna si alza per andare alla prima funzione nella mia chiesa, la
 
 chiama debole di mente e dice che nessuno tranne le donne può credere nella
 
@@ -10473,13 +10473,13 @@ DOTTORE. Non chiamerei mai debole di mente questa donna... no, per Dio, nemmeno
 
 se andasse in chiesa.
 
-SMITH. Eppure ce ne sono molte altrettanto salde di mente che credono con passione
+[[smith|SMITH]]. Eppure ce ne sono molte altrettanto salde di mente che credono con passione
 
 nell'andare in chiesa.
 
 DOTTORE. Non ce n'erano altrettante che credevano con passione in [[characters/apollo|Apollo]]?
 
-SMITH. E che male venne dal credere in [[characters/apollo|Apollo]]? E quale massa di
+[[smith|SMITH]]. E che male venne dal credere in [[characters/apollo|Apollo]]? E quale massa di
 
 male può essere venuta dal non credere in [[characters/apollo|Apollo]]? Non le viene mai in mente
 
@@ -10494,13 +10494,13 @@ be a disease, as [[motifs/well|well]] as proclaiming doctrines? You talk of reli
 
 mania! Is there no such thing as irreligious mania? Is there no such
 
-thing in the house at this moment?
+thing in the [[house]] at this moment?
 
 DOCTOR. Then you think no one should question at all.
 
-SMITH. [_With passion, pointing to the next room._] I think _that_ is
+[[smith|SMITH]]. [_With passion, pointing to the next room._] I think _that_ is
 
-what comes of questioning! Why can't you leave the universe alone and
+what comes of questioning! Why can't you leave the universe [[Alone|alone]] and
 
 let it mean what it likes? Why shouldn't the thunder be Jupiter? More
 
@@ -10510,7 +10510,7 @@ wasn't Jupiter.
 
 DOCTOR. [_Looking at him._] Do you believe in your own religion?
 
-SMITH. [_Returning the look equally steadily._] Suppose I don't: I
+[[smith|SMITH]]. [_Returning the look equally steadily._] Suppose I don't: I
 
 should still be a [[archetypes/fool|fool]] to question it. The [[archetypes/child|child]] who doubts about Santa
 
@@ -10520,7 +10520,7 @@ DOCTOR. You are a Pragmatist.
 
 _Enter_ DUKE, _absent-mindedly._
 
-SMITH. That is what the lawyers call vulgar abuse. But I do appeal to
+[[smith|SMITH]]. That is what the lawyers call vulgar abuse. But I do appeal to
 
 practise. Here is a family over which you tell me a mental calamity
 
@@ -10554,13 +10554,13 @@ DUKE. [_Firmly._] Never had any Marconis myself. Wouldn't touch 'em.
 
 [_Exit_ DUKE, _aimlessly._
 
-DOCTOR. [_Exploding._] [[motifs/well|Well]], of all the.... [_Turns to_ SMITH.] You
+DOCTOR. [_Exploding._] [[motifs/well|Well]], of all the.... [_Turns to_ [[smith|SMITH]].] You
 
 asked me just now which member of the family had inherited the family
 
 [[concepts/madness|madness]].
 
-SMITH. Yes; I did.
+[[smith|SMITH]]. Yes; I did.
 
 DOCTOR. [_In a low, emphatic voice._] On my living [[motifs/soul|soul]], I believe it
 
@@ -10697,13 +10697,13 @@ essere una malattia, [[motifs/well|tanto]] quanto proclamare dottrine? Lei parla
 
 religiosa! Non esiste forse una mania irreligiosa? Non c'è forse una simile
 
-cosa in questa casa in questo momento?
+cosa in questa [[house|casa]] in questo momento?
 
 DOTTORE. Allora lei pensa che nessuno dovrebbe mai mettere in questione nulla.
 
-SMITH. [_Con passione, indicando la stanza accanto._] Io penso che _quello_ sia
+[[smith|SMITH]]. [_Con passione, indicando la stanza accanto._] Io penso che _quello_ sia
 
-ciò che viene dal mettere in questione! Perché non potete lasciare in pace l'universo e
+ciò che viene dal mettere in questione! Perché non potete lasciare [[Alone|in pace]] l'universo e
 
 lasciargli significare ciò che vuole? Perché il tuono non dovrebbe essere Giove? Più
 
@@ -10713,7 +10713,7 @@ era Giove.
 
 DOTTORE. [_Guardandolo._] Lei crede nella sua stessa religione?
 
-SMITH. [_Ricambiando lo sguardo con altrettanta fermezza._] Supponga di no: sarei
+[[smith|SMITH]]. [_Ricambiando lo sguardo con altrettanta fermezza._] Supponga di no: sarei
 
 comunque uno [[archetypes/fool|sciocco]] a metterla in questione. Il [[archetypes/child|bambino]] che dubita di Babbo
 
@@ -10723,7 +10723,7 @@ DOTTORE. Lei è un Pragmatista.
 
 _Entra il_ DUCA, _distrattamente._
 
-SMITH. È ciò che gli avvocati chiamano ingiuria volgare. Ma io mi appello davvero
+[[smith|SMITH]]. È ciò che gli avvocati chiamano ingiuria volgare. Ma io mi appello davvero
 
 alla pratica. Ecco una famiglia sulla quale lei mi dice che incombe una
 
@@ -10757,13 +10757,13 @@ DUCA. [_Con fermezza._] Mai avute azioni Marconi, io. Non le toccherei.
 
 [_Esce il_ DUCA, _senza meta._
 
-DOTTORE. [_Esplodendo._] [[motifs/well|Ma]], questa poi.... [_Si volge a_ SMITH.] Lei
+DOTTORE. [_Esplodendo._] [[motifs/well|Ma]], questa poi.... [_Si volge a_ [[smith|SMITH]].] Lei
 
 mi ha chiesto poco fa quale membro della famiglia avesse ereditato la
 
 [[concepts/madness|follia]] di famiglia.
 
-SMITH. Sì; gliel'ho chiesto.
+[[smith|SMITH]]. Sì; gliel'ho chiesto.
 
 DOTTORE. [_A voce bassa ed enfatica._] Sulla mia [[motifs/soul|anima]] viva, credo che
 
@@ -10916,7 +10916,7 @@ statement. [_Hazily._] Look at Ibsen.
 
 [_Silence._
 
-DOCTOR. Of course the Professor feels considerable reluctance in the
+DOCTOR. Of course [[The Professor|the Professor]] feels considerable reluctance in the
 
 matter. He points out that his [[motifs/secrets|secrets]] are an essential part of his
 
@@ -11020,11 +11020,11 @@ CONJURER. Because it is so simple. [_He springs suddenly to his feet,
 
 the cheque still in his hand._] You ask me how I really did the last
 
-trick. I will tell you how I did the last trick. I did it by magic.
+trick. I will tell you how I did the last trick. I did it by [[Magic|magic]].
 
 [_The_ DUKE _and_ DOCTOR _stare at him motionless; but the_ REV.
 
-SMITH _starts and takes a step nearer the table. The_ CONJURER
+[[smith|SMITH]] _starts and takes a step nearer the table. The_ CONJURER
 
 _pulls his cloak round his shoulders. This gesture, as of
 
@@ -11032,11 +11032,11 @@ departure, brings the_ DOCTOR _to his feet._
 
 DOCTOR. [_Astonished and angry._] Do you really mean that you take the
 
-cheque and then tell us it was only magic?
+cheque and then tell us it was only [[Magic|magic]]?
 
 CONJURER. [_Pulling the cheque to pieces._] I tear the cheque, and I
 
-tell you it was only magic.
+tell you it was only [[Magic|magic]].
 
 DOCTOR. [_With violent sincerity._] But hang it all, there's no such
 
@@ -11044,7 +11044,7 @@ thing.
 
 CONJURER. Yes there is. I wish to God I did not know that there is.
 
-DUKE. [_Rising also._] Why, really, magic....
+DUKE. [_Rising also._] Why, really, [[Magic|magic]]....
 
 CONJURER. [_Contemptuously._] Yes, your Grace, one of those larger laws
 
@@ -11052,15 +11052,15 @@ you were telling us about.
 
 [_He buttons his cloak up at his throat and takes up his bag. As he
 
-does so the_ REV. SMITH _steps between him and the door and stops
+does so the_ REV. [[smith|SMITH]] _steps between him and the door and stops
 
 him for a moment._
 
-SMITH. [_In a low voice._] One moment, sir.
+[[smith|SMITH]]. [_In a low voice._] One moment, sir.
 
 CONJURER. What do you want?
 
-SMITH. I want to apologize to you. I mean on behalf of the company. I
+[[smith|SMITH]]. I want to apologize to you. I mean on behalf of the company. I
 
 think it was wrong to offer you money. I think it was more wrong to
 
@@ -11084,11 +11084,11 @@ it helps you.
 
 [_Turns again to go, but more irresolutely._
 
-SMITH. You know quite [[motifs/well|well]] it will not help us.
+[[smith|SMITH]]. You know quite [[motifs/well|well]] it will not help us.
 
 CONJURER. Why not?
 
-SMITH. You know quite [[motifs/well|well]] why not. You are an honest man; and you have
+[[smith|SMITH]]. You know quite [[motifs/well|well]] why not. You are an honest man; and you have
 
 said it yourself. Because he would not believe it.
 
@@ -11096,7 +11096,7 @@ CONJURER. [_With a sort of fury._] [[motifs/well|Well]], does anybody believe it
 
 believe it?
 
-SMITH. [_With great restraint._] Your question is quite fair. Come, let
+[[smith|SMITH]]. [_With great restraint._] Your question is quite fair. Come, let
 
 us sit down and talk about it. Let me take your cloak.
 
@@ -11125,7 +11125,7 @@ scientifica. [_Vagamente._] Guardi Ibsen.
 
 [_Silenzio._
 
-DOTTORE. Naturalmente il Professore prova una notevole riluttanza nella
+DOTTORE. Naturalmente [[The Professor|il Professore]] prova una notevole riluttanza nella
 
 faccenda. Fa notare che i suoi [[motifs/secrets|segreti]] sono parte essenziale della sua
 
@@ -11229,11 +11229,11 @@ PRESTIGIATORE. Perché è così semplice. [_Balza d'improvviso in piedi,
 
 l'assegno ancora in mano._] Mi chiedete come ho fatto davvero l'ultimo
 
-trucco. Vi dirò come ho fatto l'ultimo trucco. L'ho fatto con la magia.
+trucco. Vi dirò come ho fatto l'ultimo trucco. L'ho fatto con la [[Magic|magia]].
 
 [_Il_ DUCA _e il_ DOTTORE _lo fissano immobili; ma il_ REV.
 
-SMITH _trasalisce e fa un passo verso il tavolo. Il_ PRESTIGIATORE
+[[smith|SMITH]] _trasalisce e fa un passo verso il tavolo. Il_ PRESTIGIATORE
 
 _si stringe il mantello intorno alle spalle. Questo gesto, come di
 
@@ -11241,11 +11241,11 @@ partenza, riporta il_ DOTTORE _in piedi._
 
 DOTTORE. [_Stupito e adirato._] Intende davvero dire che prende
 
-l'assegno e poi ci dice che era solo magia?
+l'assegno e poi ci dice che era solo [[Magic|magia]]?
 
 PRESTIGIATORE. [_Facendo a pezzi l'assegno._] Straccio l'assegno, e vi
 
-dico che era solo magia.
+dico che era solo [[Magic|magia]].
 
 DOTTORE. [_Con violenta sincerità._] Ma diamine, una cosa simile non
 
@@ -11253,7 +11253,7 @@ esiste.
 
 PRESTIGIATORE. Sì che esiste. Volesse Iddio che non sapessi che esiste.
 
-DUCA. [_Alzandosi anch'egli._] Ma davvero, la magia....
+DUCA. [_Alzandosi anch'egli._] Ma davvero, la [[Magic|magia]]....
 
 PRESTIGIATORE. [_Con disprezzo._] Sì, Vostra Grazia, una di quelle leggi più vaste
 
@@ -11261,15 +11261,15 @@ di cui ci parlava.
 
 [_Si abbottona il mantello alla gola e prende la sua borsa. Mentre
 
-lo fa il_ REV. SMITH _si frappone tra lui e la porta e lo
+lo fa il_ REV. [[smith|SMITH]] _si frappone tra lui e la porta e lo
 
 ferma per un momento._
 
-SMITH. [_A voce bassa._] Un momento, signore.
+[[smith|SMITH]]. [_A voce bassa._] Un momento, signore.
 
 PRESTIGIATORE. Che cosa vuole?
 
-SMITH. Voglio scusarmi con lei. Intendo a nome dei presenti. Penso
+[[smith|SMITH]]. Voglio scusarmi con lei. Intendo a nome dei presenti. Penso
 
 che sia stato sbagliato offrirle del denaro. Penso che sia stato ancor più sbagliato
 
@@ -11293,11 +11293,11 @@ vi aiuta.
 
 [_Si volge di nuovo per andarsene, ma più irresoluto._
 
-SMITH. Lo sa [[motifs/well|bene]] che non ci aiuterà.
+[[smith|SMITH]]. Lo sa [[motifs/well|bene]] che non ci aiuterà.
 
 PRESTIGIATORE. Perché no?
 
-SMITH. Lo sa [[motifs/well|bene]] perché no. Lei è un uomo onesto; e l'ha
+[[smith|SMITH]]. Lo sa [[motifs/well|bene]] perché no. Lei è un uomo onesto; e l'ha
 
 detto lei stesso. Perché lui non ci crederebbe.
 
@@ -11305,7 +11305,7 @@ PRESTIGIATORE. [_Con una sorta di furia._] [[motifs/well|Beh]], c'è forse qualc
 
 crede?
 
-SMITH. [_Con grande ritegno._] La sua domanda è del tutto legittima. Su,
+[[smith|SMITH]]. [_Con grande ritegno._] La sua domanda è del tutto legittima. Su,
 
 sediamoci e parliamone. Mi lasci prendere il suo mantello.
 
@@ -11316,7 +11316,7 @@ PRESTIGIATORE. Mi toglierò il mantello quando lei si toglierà l'abito.
 <span class="atom-split" data-atom="part--part_13" data-title="Magic (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/love,motif/night,motif/secrets,motif/soul,motif/supernatural,motif/time,motif/well,concept/body,concept/courage,character/nurse"></span>
 
 
-SMITH. [_Smiling._] Why? Do you want me to fight?
+[[smith|SMITH]]. [_Smiling._] Why? Do you want me to fight?
 
 CONJURER. [_Violently._] I want you to be martyred. I want you to _bear_
 
@@ -11340,7 +11340,7 @@ that if you don't believe in it? [_With violence._] Or perhaps you don't
 
 believe in devils?
 
-SMITH. I believe.... [_After a pause._] I wish I could believe.
+[[smith|SMITH]]. I believe.... [_After a pause._] I wish I could believe.
 
 CONJURER. Yes. I wish I could disbelieve.
 
@@ -11350,7 +11350,7 @@ CONJURER. Yes. I wish I could disbelieve.
 
 PATRICIA. May I speak to the Conjurer?
 
-SMITH. [_Hastening forward._] You want the Doctor?
+[[smith|SMITH]]. [_Hastening forward._] You want the Doctor?
 
 PATRICIA. No, the Conjurer.
 
@@ -11414,7 +11414,7 @@ am a man. And you are a woman. And all the elves have gone to elfland,
 
 and all the devils to hell. And you and I will walk out of this great
 
-vulgar house and be married.... Every one is crazy in this house
+vulgar [[house]] and be married.... Every one is crazy in this [[house]]
 
 to-[[motifs/night|night]], I think. What am I saying? As if _you_ could marry _me_! O my
 
@@ -11430,7 +11430,7 @@ recently made an offer, I accept it.
 
 CONJURER. Oh, it's nonsense, it's nonsense. How can a man marry an
 
-archangel, let alone a lady. My mother was a lady and she married a
+archangel, let [[Alone|alone]] a lady. My mother was a lady and she married a
 
 dying fiddler who tramped the roads; and the mixture plays the cat and
 
@@ -11519,7 +11519,7 @@ PATRICIA. Why did you give it up?
 
 <span class="qlang-split" data-lang="it"></span>
 
-SMITH. [_Sorridendo._] Perché? Vuole che mi batta?
+[[smith|SMITH]]. [_Sorridendo._] Perché? Vuole che mi batta?
 
 PRESTIGIATORE. [_Con violenza._] Voglio che lei sia martirizzato. Voglio che _renda_
 
@@ -11543,7 +11543,7 @@ così se non ci crede? [_Con violenza._] O forse non
 
 crede nei diavoli?
 
-SMITH. Credo.... [_Dopo una pausa._] Vorrei poter credere.
+[[smith|SMITH]]. Credo.... [_Dopo una pausa._] Vorrei poter credere.
 
 PRESTIGIATORE. Sì. Io vorrei poter non credere.
 
@@ -11553,7 +11553,7 @@ PRESTIGIATORE. Sì. Io vorrei poter non credere.
 
 PATRICIA. Posso parlare col Prestigiatore?
 
-SMITH. [_Facendosi avanti in fretta._] Vuole il Dottore?
+[[smith|SMITH]]. [_Facendosi avanti in fretta._] Vuole il Dottore?
 
 PATRICIA. No, il Prestigiatore.
 
@@ -11617,7 +11617,7 @@ un uomo. E lei è una donna. E tutti gli elfi se ne sono andati nel paese degli 
 
 e tutti i diavoli all'inferno. E io e lei usciremo da questa grande
 
-volgare casa e ci sposeremo.... Sono tutti impazziti in questa casa
+volgare [[house|casa]] e ci sposeremo.... Sono tutti impazziti in questa [[house|casa]]
 
 questa [[motifs/night|notte]], credo. Che cosa vado dicendo? Come se _lei_ potesse sposare _me_! O mio
 
@@ -11633,7 +11633,7 @@ da poco fatto un'offerta, e io l'accetto.
 
 PRESTIGIATORE. Oh, è un'assurdità, un'assurdità. Come può un uomo sposare un
 
-arcangelo, figuriamoci una dama. Mia madre era una dama e sposò un
+arcangelo, [[Alone|figuriamoci]] una dama. Mia madre era una dama e sposò un
 
 violinista morente che batteva le strade; e quella mescolanza fa scempio
 
@@ -11772,7 +11772,7 @@ lights, and so on. I don't know whether you realize that it's rather a
 
 strain on a man to drink bad coffee at a coffee-stall when he knows he
 
-has just enough magic in him to make a bottle of champagne walk out of
+has just enough [[Magic|magic]] in him to make a bottle of champagne walk out of
 
 an empty shop.
 
@@ -11858,23 +11858,23 @@ DUKE. What an extraordinary fellow. I [[concepts/wonder|wonder]] if....
 
 [_Suddenly stops speaking._
 
-DOCTOR. [_After a long [[motifs/silence|silence]], in a low voice to_ SMITH.] How do you
+DOCTOR. [_After a long [[motifs/silence|silence]], in a low voice to_ [[smith|SMITH]].] How do you
 
 feel?
 
-SMITH. I feel I must have a [[motifs/window|window]] shut or I must have it open, and I
+[[smith|SMITH]]. I feel I must have a [[motifs/window|window]] shut or I must have it open, and I
 
 don't know which it is.
 
 [_Another long [[motifs/silence|silence]]._
 
-SMITH. [_Crying out suddenly in the dark._] In God's name, go!
+[[smith|SMITH]]. [_Crying out suddenly in the dark._] In God's name, go!
 
 DOCTOR. [_Jumping up rather in a tremble._] Really, sir, I am not used
 
 to being spoken to....
 
-SMITH. It was not you whom I told to go.
+[[smith|SMITH]]. It was not you whom I told to go.
 
 DOCTOR. No. [_Pause._] But I think I will go. This room is simply
 
@@ -11922,7 +11922,7 @@ electricity.
 
 [_Silence as usual._
 
-SMITH. I think there has been more than electricity in all this.
+[[smith|SMITH]]. I think there has been more than electricity in all this.
 
 _Enter_ PATRICIA, _still pale, but radiant._
 
@@ -11985,7 +11985,7 @@ le luci, e così via. Non so se lei si renda conto che è piuttosto una
 
 tortura per un uomo bere pessimo caffè a un chiosco quando sa di
 
-avere in sé giusto quel tanto di magia da far uscire una bottiglia di champagne da
+avere in sé giusto quel tanto di [[Magic|magia]] da far uscire una bottiglia di champagne da
 
 un negozio vuoto.
 
@@ -12071,23 +12071,23 @@ DUCA. Che tipo straordinario. Mi [[concepts/wonder|domando]] se....
 
 [_Smette di colpo di parlare._
 
-DOTTORE. [_Dopo un lungo [[motifs/silence|silenzio]], a voce bassa a_ SMITH.] Come si
+DOTTORE. [_Dopo un lungo [[motifs/silence|silenzio]], a voce bassa a_ [[smith|SMITH]].] Come si
 
 sente?
 
-SMITH. Sento che devo far chiudere una [[motifs/window|finestra]] o devo farla aprire, e non
+[[smith|SMITH]]. Sento che devo far chiudere una [[motifs/window|finestra]] o devo farla aprire, e non
 
 so quale delle due.
 
 [_Un altro lungo [[motifs/silence|silenzio]]._
 
-SMITH. [_Gridando d'improvviso nel buio._] In nome di Dio, va' via!
+[[smith|SMITH]]. [_Gridando d'improvviso nel buio._] In nome di Dio, va' via!
 
 DOTTORE. [_Balzando in piedi tutto tremante._] Davvero, signore, non sono abituato
 
 a sentirmi parlare così....
 
-SMITH. Non era a lei che dicevo di andarsene.
+[[smith|SMITH]]. Non era a lei che dicevo di andarsene.
 
 DOTTORE. No. [_Pausa._] Ma credo che me ne andrò. Questa stanza è semplicemente
 
@@ -12135,7 +12135,7 @@ elettricità.
 
 [_Silenzio come al solito._
 
-SMITH. Credo che ci sia stato più che elettricità in tutto questo.
+[[smith|SMITH]]. Credo che ci sia stato più che elettricità in tutto questo.
 
 _Entra_ PATRICIA, _ancora pallida, ma raggiante._
 
@@ -12154,13 +12154,13 @@ DUCA. Professore, le dobbiamo mille grazie!
 
 DOCTOR. Really, you have doubled your claim to originality!
 
-SMITH. It is much more marvellous to explain a miracle than to work a
+[[smith|SMITH]]. It is much more marvellous to explain a miracle than to work a
 
 miracle. What was your explanation, by the way?
 
 CONJURER. I shall not tell you.
 
-SMITH. [_Starting._] Indeed? Why not?
+[[smith|SMITH]]. [_Starting._] Indeed? Why not?
 
 CONJURER. Because God and the demons and that Immortal Mystery that you
 
@@ -12170,25 +12170,25 @@ Because you have felt it here. Because you know the spirits as [[motifs/well|wel
 
 do and [[concepts/fear|fear]] them as much as I do.
 
-SMITH. [[motifs/well|Well]]?
+[[smith|SMITH]]. [[motifs/well|Well]]?
 
 CONJURER. Because all this would not avail. If I told you the lie I told
 
 Morris Carleon about how I did that trick....
 
-SMITH. [[motifs/well|Well]]?
+[[smith|SMITH]]. [[motifs/well|Well]]?
 
 CONJURER. YOU would believe it as he believed it. You cannot think
 
-[_pointing to the lamp_] how that trick could be done naturally. I alone
+[_pointing to the lamp_] how that trick could be done naturally. I [[Alone|alone]]
 
-found out how it could be done--after I had done it by magic. But if I
+found out how it could be done--after I had done it by [[Magic|magic]]. But if I
 
 tell you a natural way of doing it....
 
-SMITH. [[motifs/well|Well]]?...
+[[smith|SMITH]]. [[motifs/well|Well]]?...
 
-CONJURER. Half an hour after I have left this house you will be all
+CONJURER. Half an hour after I have left this [[house]] you will be all
 
 saying how it was done.
 
@@ -12202,7 +12202,7 @@ PATRICIA. Yes. That fairy tale has really and truly come to an end.
 
 [_Looks at him a little in the old mystical manner._] It is very hard
 
-for a fairy tale to come to an end. If you leave it alone it lingers
+for a fairy tale to come to an end. If you leave it [[Alone|alone]] it lingers
 
 everlastingly. Our fairy tale has come to an end in the only way a fairy
 
@@ -12240,7 +12240,7 @@ The Bogie Men--The Full [[motifs/moon|Moon]]--Coats Damer's Gold--McDonough's Wi
 
 _8^o. With Portrait in Photogravure. $1.50 net. By mail, $1.65_
 
-The plays have been acted with great success by the Abbey Company, and
+The plays have been acted with great [[success]] by the Abbey Company, and
 
 have been highly extolled by appreciative audiences and an enthusiastic
 
@@ -12302,7 +12302,7 @@ wrote about the French, having a talent curiously like Moliere."
 
 "The witchery of Yeats, the vivid [[concepts/imagination|imagination]] of Synge, the amusing
 
-literalism mixed with the pronounced romance of their imitators, have
+literalism mixed with the pronounced [[Romance|romance]] of their imitators, have
 
 their place and have been given their praise without stint. But none of
 
@@ -12383,13 +12383,13 @@ only to that of Cromwell.
 
 DOTTORE. Davvero, avete raddoppiato la vostra affermazione riguardo all’originalità del vostro lavoro!
 
-SMITH. È molto più meraviglioso spiegare un miracolo che compiere uno stesso.
+[[smith|SMITH]]. È molto più meraviglioso spiegare un miracolo che compiere uno stesso.
 
 Un miracolo. A proposito, qual era la tua spiegazione?
 
 STREGONE: Non ve lo dirò.
 
-SMITH. [_Inizio._] Davvero? Perché no?
+[[smith|SMITH]]. [_Inizio._] Davvero? Perché no?
 
 Conjuratore… Perché Dio, i demoni e quell’Immortale Mistero che tu…
 
@@ -12399,25 +12399,25 @@ Perché tu l’hai provato qui. Perché conosci gli spiriti altrettanto bene qua
 
 Fai lo stesso e [[concepts/fear|temili]]li tanto quanto me.
 
-SMITH. [[motifs/well|Beh]]?
+[[smith|SMITH]]. [[motifs/well|Beh]]?
 
 Conjurer. Perché tutto ciò non sarebbe servito a nulla… Se vi raccontassi la menzogna che ho detto…
 
 Morris Carleon riguardo a come ho fatto quel trucco.
 
-SMITH. [[motifs/well|Beh]]?
+[[smith|SMITH]]. [[motifs/well|Beh]]?
 
 Conjurer… Ci si crederebbe davvero, proprio come lui ci credeva. È impossibile non pensarci.
 
-[_indicando la lampada_] come quel trucco potesse essere eseguito in modo naturale. Solo io, da solo.
+[_indicando la lampada_] come quel trucco potesse essere eseguito in modo naturale. Solo io, [[Alone|da solo]].
 
-Scoprii come si poteva fare, dopo che l’avevo già fatto con la magia. Ma se io.
+Scoprii come si poteva fare, dopo che l’avevo già fatto con la [[Magic|magia]]. Ma se io.
 
 Ti dirò un modo naturale per farlo.
 
-SMITH. [[motifs/well|Beh]]?.
+[[smith|SMITH]]. [[motifs/well|Beh]]?.
 
-STREGONE: Mezz’ora dopo che me ne sarò andato da questa casa, voi tutti.
+STREGONE: Mezz’ora dopo che me ne sarò andato da questa [[house|casa]], voi tutti.
 
 Spiegando come era stato fatto.
 
@@ -12431,7 +12431,7 @@ PATRICIA. Sì. Quella favola è davvero finita per sempre.
 
 Lo guarda con quel vecchio sguardo mistico… È molto difficile.
 
-Affinché una favola possa avere una fine. Se la lasci da sola, continuerà ad esistere.
+Affinché una favola possa avere una fine. Se la lasci [[Alone|da sola]], continuerà ad esistere.
 
 “Per sempre… La nostra fiaba è giunta alla fine, nel solo modo possibile per una favola.”
 
@@ -12470,7 +12470,7 @@ Gli uomini dei binari – Tutto il [[motifs/moon|luna]] – I cappotti di Damer�
 
 _8^o. Con ritratto in fotogравura. 1,50 dollari a netto. Per posta: 1,65 dollari.
 
-Queste opere teatrali sono state rappresentate con grande successo dalla compagnia Abbey Company, e.
+Queste opere teatrali sono state rappresentate con grande [[success|successo]] dalla compagnia Abbey Company, e.
 
 Ampiamente lodati dal pubblico apprezzativo e da critici entusiasti
 
@@ -12534,7 +12534,7 @@ Scrisse di francesi, possedendo un talento stranamente simile a quello di Moliè
 
 La magia letteraria di Yeats, l’immaginazione vivida di Synge, le cose divertenti.
 
-Il letteralismo, mescolato con il marcato romanticismo dei loro imitatori, ha.
+Il letteralismo, mescolato con il marcato [[Romance|romanticismo]] dei loro imitatori, ha.
 
 Il loro ruolo è stato riconosciuto e hanno ricevuto grandi lodi. Ma nessuno di loro…
 
@@ -12648,7 +12648,7 @@ The Silver Box--Joy--Strife
 
 By John Galsworthy
 
-Author of "The Country House," etc.
+Author of "The Country [[house|House]]," etc.
 
 [[motifs/crown|Crown]] 8vo. $1.35 net
 
@@ -12662,7 +12662,7 @@ remarkable social document of significance, but as a creation which,
 
 while of the most modern realism, is yet classic in its pronounced art
 
-and exalted philosophy. The play shows the types of the strongest men as
+and exalted [[philosophy]]. The play shows the types of the strongest men as
 
 victims of comical events and of weaker men. It will be produced in
 
@@ -12768,7 +12768,7 @@ Un notevole documento sociale di grande rilevanza… ma anche come opera creativ
 
 Un realismo estremamente moderno, ma che rimane classico per la sua evidente qualità artistica
 
-e l’filosofia elevata. La pièce mostra i tipi degli uomini più forti come.
+e l’[[philosophy|filosofia]] elevata. La pièce mostra i tipi degli uomini più forti come.
 
 Vittime di eventi comici e di uomini più deboli… Sarà prodotto in…
 

@@ -44,7 +44,7 @@ One [[motifs/winter|winter]] morning he looked out of his [[motifs/window|window
 Suddenly he rubbed his eyes in [[concepts/wonder|wonder]] and looked and looked. It certainly was a marvellous sight. In the farthest corner of the [[motifs/garden|garden]] was a tree quite covered with lovely white blossoms. Its branches were all golden, and silver fruit hung down from them, and underneath it stood the little boy he had loved.
 THE LITTLE BOY HE HAD LOVED
 Downstairs ran the Giant in great joy, and out into the [[motifs/garden|garden]]. He hastened across the grass, and came near to the [[archetypes/child|child]]. And when he came quite close his face grew red with  anger, and he said, “Who hath dared to wound thee?” For on the palms of the [[archetypes/child|child]]’s hands were the prints of two nails, and the prints of two nails were on the little feet.
-“Who hath dared to wound thee?” cried the Giant; “tell me, that I might take my big sword and slay him.”
+“Who hath dared to wound thee?” cried the Giant; “tell me, that I might take my big [[Sword|sword]] and slay him.”
 “Nay!” answered the [[archetypes/child|child]]; “but these are the wounds of [[motifs/love|Love]].”
 “Who art thou?” said the Giant, and a strange awe fell on him, and he knelt before the little [[archetypes/child|child]].
 And the [[archetypes/child|child]] smiled on the Giant, and said to him, “You let me play once in your [[motifs/garden|garden]], to-day you shall come with me to my [[motifs/garden|garden]], which is Paradise.”

@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="great_britain_and_the_next_war" data-title="GREAT BRITAIN AND THE NEXT WAR" data-chapter="" data-kind="intro"></span>
 
-# GREAT BRITAIN AND THE NEXT WAR
+
 
 <span class="qlang-split" data-lang="it"></span>
 

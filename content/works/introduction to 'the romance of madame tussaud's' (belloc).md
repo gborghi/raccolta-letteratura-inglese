@@ -62,6 +62,6 @@ tags:
 **Motifs:** [[motifs/death|Death]], [[motifs/mirror|Mirror]], [[motifs/time|Time]]
 **Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/napoleon|Napoleon]]
 **Settings:** [[settings/paris|Paris]], [[settings/france|France]], [[settings/europe|Europe]]
-**Characters:** [[characters/robespierre|Robespierre]], [[historical-references/napoleon|Napoleon]], [[historical-references/voltaire|Voltaire]], [[characters/duke-of-wellington|Duke of Wellington]]
-**Archetypes:** [[archetypes/tragic-hero|Tragic Hero]]
+**Characters:** Robespierre, [[historical-references/napoleon|Napoleon]], [[historical-references/voltaire|Voltaire]], Duke of Wellington
+**Archetypes:** Tragic Hero
 **Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/fortune's-wheel|Fortune's Wheel]]

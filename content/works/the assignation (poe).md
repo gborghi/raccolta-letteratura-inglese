@@ -52,7 +52,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/unattainable-beloved|Unattainable Beloved]]
-**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/outsider|Outsider]]
+**Archetypes:** Lover, Outsider
 **Motifs:** [[motifs/love|Love]], [[motifs/death|Death]], [[motifs/water|Water]], [[motifs/mirror|Mirror]], [[motifs/music-and-song|Music and Song]], [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/beauty|Beauty]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/melancholy|Melancholy]], [[concepts/mortality|Mortality]]
 **Forms & Genres:** [[forms/short-story|Short Story]]

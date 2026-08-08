@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-Rotariani - (1927)  
+[[rotarians|Rotariani]] - (1927)  
 
 G.K.Chesterton  
 
@@ -37,14 +37,14 @@ Una Dichiarazione di Dipendenza
 La giustizia jeffersoniana che  
 i mercanti degeneri citano,  
 i Repubblicani l'hanno avuta di diritto,  
-i Rotariani a memoria.
+i [[rotarians|Rotariani]] a memoria.
 
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="rotarians (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/soul,motif/wheel,concept/body"></span>
 
 
-Rotarians - (1927)  
+[[rotarians|Rotarians]] - (1927)  
 
 G.K.Chesterton  
 
@@ -64,12 +64,12 @@ A Declaration of Dependence
 The Jeffersonian justice which  
 Degenerate hucksters quote  
 Republicans have had by right  
-Rotarians by rote.
+[[rotarians|Rotarians]] by rote.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Rotariani - (1927)  
+[[rotarians|Rotariani]] - (1927)  
 
 G.K.Chesterton  
 
@@ -89,4 +89,4 @@ Una Dichiarazione di Dipendenza
 La giustizia jeffersoniana che  
 i mercanti degeneri citano,  
 i Repubblicani l'hanno avuta di diritto,  
-i Rotariani a memoria.
+i [[rotarians|Rotariani]] a memoria.

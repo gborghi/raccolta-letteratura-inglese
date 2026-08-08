@@ -76,11 +76,11 @@ tags:
 
 **Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/arthurian-legend|Arthurian Legend]], [[historical-references/industrial-revolution|Industrial Revolution]]
 
-**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/rebel|Rebel]], [[archetypes/self-made-man|Self-Made Man]]
+**Archetypes:** Trickster, Rebel, Self-Made Man
 
 **Motifs:** [[motifs/animals|Animals]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/river|River]], [[motifs/garden|Garden]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/fire|Fire]]
 
-**Characters:** [[characters/colonel-crane|Colonel Crane]], [[characters/owen-hood|Owen Hood]], [[characters/hilary-pierce|Hilary Pierce]], [[characters/wilding-white|Wilding White]], [[characters/enoch-oates|Enoch Oates]], [[characters/bellew-blair|Bellew Blair]], [[characters/audrey-smith|Audrey Smith]], [[characters/elizabeth-seymour|Elizabeth Seymour]], [[characters/joan-hardy|Joan Hardy]], [[characters/sir-horace-hunter|Sir Horace Hunter]], [[characters/lord-normantowers|Lord Normantowers]], [[characters/earl-of-eden|Earl of Eden]]
+**Characters:** Colonel Crane, Owen Hood, Hilary Pierce, Wilding White, Enoch Oates, Bellew Blair, Audrey Smith, Elizabeth Seymour, Joan Hardy, Sir Horace Hunter, Lord Normantowers, Earl of Eden
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/pastoral-retreat|Pastoral Retreat]], [[topoi/quest|Quest]]
 **Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/satire-of-society|Satire of Society]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/joy|Joy]], [[concepts/paradox|Paradox]], [[concepts/class-conflict|Class Conflict]], [[concepts/romantic-love|Romantic Love]], [[concepts/truth|Truth]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/common-man|Common Man]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/economics|Economics]], [[concepts/history|History]]

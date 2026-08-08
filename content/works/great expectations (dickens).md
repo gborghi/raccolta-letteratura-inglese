@@ -69,13 +69,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/orphan|Orphan]], [[archetypes/self-made-man|Self-Made Man]], [[archetypes/outsider|Outsider]], [[archetypes/crone|Crone]]
+**Archetypes:** Orphan, Self-Made Man, Outsider, Crone
 **Motifs:** [[motifs/childhood|Childhood]], [[motifs/money-and-gold|Money and Gold]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/fire|Fire]], [[motifs/grave|Grave]], [[motifs/ruins-the-abbey|Ruins the Abbey]]
 **Themes & Concepts:** [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/identity|Identity]], [[concepts/class-conflict|Class Conflict]], [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/pride|Pride]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/bildungsroman|Bildungsroman]], [[forms/novel|Novel]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
-**Characters:** [[characters/pip|Pip]], [[characters/estella|Estella]], [[characters/miss-havisham|Miss Havisham]], [[characters/joe-gargery|Joe Gargery]], [[characters/abel-magwitch|Abel Magwitch]], [[characters/mr-jaggers|Mr Jaggers]], [[characters/herbert-pocket|Herbert Pocket]], [[characters/john-wemmick|John Wemmick]], [[characters/mrs-joe-gargery|Mrs Joe Gargery]], [[characters/biddy|Biddy]]
+**Characters:** Pip, Estella, Miss Havisham, Joe Gargery, Abel Magwitch, Mr Jaggers, Herbert Pocket, John Wemmick, Mrs Joe Gargery, Biddy
 
 ## Testo integrale / Full text
 

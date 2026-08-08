@@ -50,13 +50,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/paradise-lost|Paradise Lost]], [[topoi/locus-amoenus|Locus Amoenus]], [[topoi/fall-from-innocence|Fall from Innocence]]
-**Archetypes:** [[archetypes/christ-figure|Christ Figure]], [[archetypes/child|Child]], [[archetypes/innocent|Innocent]]
+**Archetypes:** Christ Figure, Child, Innocent
 **Motifs:** [[motifs/garden|Garden]], [[motifs/seasons|Seasons]], [[motifs/winter|Winter]], [[motifs/spring|Spring]], [[motifs/childhood|Childhood]], [[motifs/cross|Cross]], [[motifs/flowers|Flowers]], [[motifs/birds|Birds]]
 **Themes & Concepts:** [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/conversion|Conversion]], [[concepts/divine-love|Divine Love]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/mercy|Mercy]], [[concepts/humility|Humility]]
 **Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/allegory|Allegory]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
 **Settings:** [[settings/garden-(2)|Garden (2)]]
-**Characters:** [[characters/christ|Christ]]
+**Characters:** Christ
 
 ## Testo integrale / Full text
 

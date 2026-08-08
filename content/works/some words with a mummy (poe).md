@@ -50,7 +50,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]], [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** [[archetypes/monster|Monster]]
+**Archetypes:** Monster
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/grave|Grave]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/clothing-and-costume|Clothing and Costume]]
 **Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/satire-of-society|Satire of Society]], [[concepts/grotesque|Grotesque]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]

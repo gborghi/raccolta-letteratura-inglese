@@ -28,7 +28,7 @@ William Shakespeare
 
 THE ARGUMENT  
 
-[[characters/lucius|Lucius]] Tarquinius (for his excessive [[concepts/pride|pride]] surnamed Superbus), after he had caused his own father-in-law Servius Tullius to be cruelly murdered, and, contrary to the Roman laws and customs, not requiring or staying for the people’s suffrages had possessed himself of the kingdom, went accompanied with his sons and other noblemen of Rome to besiege Ardea, during which siege the principal men of the army meeting one evening at the tent of Sextus Tarquinius, the [[archetypes/king|King]]’s son, in their discourses after supper everyone commended the virtues of his own wife, among whom Collatinus extolled the incomparable chastity of his wife, Lucretia. In that pleasant humour they all posted to Rome, and, intending by their secret and sudden arrival to make trial of that which everyone had before avouched, only Collatinus finds his wife (though it were late in the [[motifs/night|night]]) spinning amongst her maids. The other ladies were all found dancing, and revelling, or in several disports. Whereupon the noblemen yielded Collatinus the victory and his wife the fame. At that [[motifs/time|time]] Sextus Tarquinius, being enflamed with [[characters/lucrece|Lucrece]]’ [[concepts/beauty|beauty]], yet smothering his passions for the present, departed with the rest back to the camp, from whence he shortly after privily withdrew himself and was, according to his estate, royally entertained and lodged by [[characters/lucrece|Lucrece]] at Collatium. The same [[motifs/night|night]] he treacherously stealeth into her chamber, violently ravished her, and early in the morning speedeth away. [[characters/lucrece|Lucrece]], in this lamentable plight, hastily dispatcheth messengers—one to Rome for her father, another to the camp for [[characters/collatine|Collatine]]. They came, the one accompanied with Junius [[characters/brutus|Brutus]], the other with Publius Valerius, and, finding [[characters/lucrece|Lucrece]] attired in mourning habit, demanded the cause of her sorrow. She, first taking an oath of them for her [[concepts/revenge|revenge]], revealed the actor and whole manner of his dealing, and withal suddenly stabbed herself. Which done, with one consent they all vowed to root out the whole hated family of the Tarquins, and, bearing the dead [[concepts/body|body]] to Rome, [[characters/brutus|Brutus]] acquainted the people with the doer and manner of the vile deed, with a bitter invective against the tyranny of the [[archetypes/king|King]]; wherewith the people were so moved that with one consent and a general acclamation the Tarquins were all exiled and the state government changed from kings to consuls.  
+[[characters/lucius|Lucius]] Tarquinius (for his excessive [[concepts/pride|pride]] surnamed Superbus), after he had caused his own father-in-law Servius Tullius to be cruelly murdered, and, contrary to the Roman laws and customs, not requiring or staying for the people’s suffrages had possessed himself of the kingdom, went accompanied with his sons and other noblemen of Rome to besiege Ardea, during which siege the principal men of the army meeting one evening at the tent of Sextus Tarquinius, the [[archetypes/king|King]]’s son, in their discourses after supper everyone commended the virtues of his own wife, among whom Collatinus extolled the incomparable chastity of his wife, Lucretia. In that pleasant [[Humour|humour]] they all posted to Rome, and, intending by their secret and sudden arrival to make trial of that which everyone had before avouched, only Collatinus finds his wife (though it were late in the [[motifs/night|night]]) spinning amongst her maids. The other ladies were all found dancing, and revelling, or in several disports. Whereupon the noblemen yielded Collatinus the victory and his wife the fame. At that [[motifs/time|time]] Sextus Tarquinius, being enflamed with [[characters/lucrece|Lucrece]]’ [[concepts/beauty|beauty]], yet smothering his passions for the present, departed with the rest back to the camp, from whence he shortly after privily withdrew himself and was, according to his estate, royally entertained and lodged by [[characters/lucrece|Lucrece]] at Collatium. The same [[motifs/night|night]] he treacherously stealeth into her chamber, violently ravished her, and early in the morning speedeth away. [[characters/lucrece|Lucrece]], in this lamentable plight, hastily dispatcheth messengers—one to Rome for her father, another to the camp for [[characters/collatine|Collatine]]. They came, the one accompanied with Junius [[characters/brutus|Brutus]], the other with Publius Valerius, and, finding [[characters/lucrece|Lucrece]] attired in mourning habit, demanded the cause of her sorrow. She, first taking an oath of them for her [[concepts/revenge|revenge]], revealed the actor and whole manner of his dealing, and withal suddenly stabbed herself. Which done, with one consent they all vowed to root out the whole hated family of the Tarquins, and, bearing the dead [[concepts/body|body]] to Rome, [[characters/brutus|Brutus]] acquainted the people with the doer and manner of the vile deed, with a bitter invective against the tyranny of the [[archetypes/king|King]]; wherewith the people were so moved that with one consent and a general acclamation the Tarquins were all exiled and the state [[government]] changed from kings to consuls.  
 
 The Rape of [[characters/lucrece|Lucrece]]  
 From the besieged Ardea all in post,  
@@ -143,7 +143,7 @@ And decks with praises [[characters/collatine|Collatine]]’s high name
 Made glorious by his manly chivalry  
 With bruised arms and wreaths of victory.  
 Her joy with heaved-up hand she doth express,  
-And wordless so greets heaven for his success.  
+And wordless so greets heaven for his [[success]].  
 Far from the purpose of his coming thither  
 He makes excuses for his being there.  
 No cloudy show of stormy blust’ring weather  
@@ -217,7 +217,7 @@ And to the flame thus speaks advisedly:
 So [[characters/lucrece|Lucrece]] must I force to my [[motifs/desire|desire]].’  
 Here pale with [[concepts/fear|fear]] he doth premeditate  
 The dangers of his loathsome enterprise,  
-And in his inward mind he doth debate  
+And in his inward mind he doth [[debate]]  
 What following sorrow may on this arise.  
 Then, looking scornfully, he doth despise  
 His naked armour of still-slaughtered lust,  
@@ -244,7 +244,7 @@ That my posterity, shamed with the note,
 Shall curse my bones and hold it for no sin  
 To wish that I their father had not been.  
 ‘What win I if I gain the thing I seek?  
-A dream, a breath, a froth of fleeting joy.  
+[[A Dream|A dream]], a breath, a froth of fleeting joy.  
 Who buys a minute’s mirth to wail a week,  
 Or sells [[concepts/eternity|eternity]] to get a toy?  
 For one sweet grape who will the vine destroy?  
@@ -318,7 +318,7 @@ Is almost choked by unresisted lust.
 Away he steals, with open list’ning ear,  
 Full of foul [[concepts/hope|hope]] and full of fond mistrust,  
 Both which as servitors to the unjust  
-So [[motifs/cross|cross]] him with their opposite persuasion  
+So [[motifs/cross|cross]] him with their opposite [[Persuasion|persuasion]]  
 That now he vows a league, and now invasion.  
 Within his thought her heavenly image sits,  
 And in the selfsame seat sits [[characters/collatine|Collatine]].  
@@ -400,7 +400,7 @@ Lies at the [[concepts/mercy|mercy]] of his mortal sting.
 Into the chamber wickedly he stalks,  
 And gazeth on her yet-unstained bed.  
 The curtains being close, about he walks,  
-Rolling his greedy eye-balls in his head.  
+[[rolling|Rolling]] his greedy eye-balls in his head.  
 By their high treason is his heart misled,  
 Which gives the watchword to his hand full soon  
 To draw the cloud that hides the silver [[motifs/moon|moon]].  
@@ -624,7 +624,7 @@ Be moved with my [[motifs/tears|tears]], my sighs, my groans.
 ‘All which together, like a troubled ocean,  
 Beat at thy rocky and wreck-threat’ning heart  
 To soften it with their continual motion,  
-For stones dissolved to [[motifs/water|water]] do convert.  
+For stones dissolved to [[motifs/water|water]] do [[convert]].  
 O, if no harder than a stone thou art,  
 Melt at my [[motifs/tears|tears]], and be compassionate.  
 Soft pity enters at an iron gate.  
@@ -658,7 +658,7 @@ Thou back‘st reproach against long-living laud,
 And mak’st fair reputation but a bawd.  
 ‘Hast thou command? By him that gave it thee,  
 From a pure heart command thy [[archetypes/rebel|rebel]] will.  
-Draw not thy sword to guard iniquity,  
+Draw not thy [[Sword|sword]] to guard iniquity,  
 For it was lent thee all that brood to kill.  
 Thy princely office how canst thou fulfil  
 When, patterned by thy fault, foul sin may say  
@@ -828,7 +828,7 @@ As palmers’ chat makes short their pilgrimage.
 ‘Where now I have no one to blush with me,  
 To [[motifs/cross|cross]] their arms and hang their heads with mine,  
 To mask their brows and hide their infamy,  
-But I alone, alone must sit and pine,  
+But I [[Alone|alone]], [[Alone|alone]] must sit and pine,  
 Seasoning the earth with showers of silver brine,  
 Mingling my talk with [[motifs/tears|tears]], my grief with groans,  
 Poor wasting monuments of lasting moans.  
@@ -1053,7 +1053,7 @@ But eagles gazed upon with every eye.
 ‘Out, idle words, servants to shallow fools,  
 Unprofitable sounds, weak arbitrators!  
 Busy yourselves in skill-contending schools,  
-Debate where leisure serves with dull debaters,  
+[[debate|Debate]] where leisure serves with dull debaters,  
 To trembling clients be you mediators;  
 For me, I force not argument a straw,  
 Since that my case is past the help of law.  
@@ -1205,7 +1205,7 @@ When both were kept for heaven and [[characters/collatine|Collatine]]?
 Ay me, the bark peeled from the lofty pine  
 His [[motifs/leaves|leaves]] will wither and his sap [[motifs/decay|decay]];  
 So must my [[motifs/soul|soul]], her bark being peeled away.  
-‘Her house is sacked, her quiet interrupted,  
+‘Her [[house]] is sacked, her quiet interrupted,  
 Her mansion battered by the enemy,  
 Her sacred temple spotted, spoiled, corrupted,  
 Grossly engirt with daring infamy.  
@@ -1343,7 +1343,7 @@ Of that unworthy wife that greeteth thee,
 Health to thy person! Next, vouchsafe t’afford—  
 If ever, [[motifs/love|love]], thy [[characters/lucrece|Lucrece]] thou wilt see—  
 Some present [[characters/speed|speed]] to come and visit me.  
-So I commend me, from our house in grief;  
+So I commend me, from our [[house]] in grief;  
 My woes are tedious, though my words are brief.’  
 Here folds she up the tenor of her woe,  
 Her certain sorrow writ uncertainly.  
@@ -1377,7 +1377,7 @@ Extremity still urgeth such extremes.
 The homely [[archetypes/villain|villain]] curtsies to her low,  
 And blushing on her with a steadfast eye  
 Receives the scroll without or yea or no,  
-And forth with bashful innocence doth hie.  
+And forth with bashful [[innocence]] doth hie.  
 But they whose [[concepts/guilt|guilt]] within their bosoms lie  
 Imagine every eye beholds their blame,  
 For [[characters/lucrece|Lucrece]] thought he blushed to see her shame,  
@@ -1437,7 +1437,7 @@ The face of either ciphered either’s heart;
 Their face their manners most expressly told.  
 In [[characters/ajax|Ajax]]’ eyes blunt rage and rigour rolled,  
 But the mild glance that sly [[characters/ulysses|Ulysses]] lent  
-Show I deep regard and smiling government.  
+Show I deep regard and smiling [[government]].  
 There pleading might you see [[motifs/grave|grave]] Nestor stand,  
 As ’twere encouraging the Greeks to fight,  
 Making such sober action with his hand  
@@ -1458,7 +1458,7 @@ Here one being thronged bears back, all boll’n and red;
 Another, smothered, seems to pelt and swear,  
 And in their rage such signs of rage they bear  
 As but for loss of Nestor’s golden words  
-It seemed they would debate with angry swords.  
+It seemed they would [[debate]] with angry swords.  
 For much imaginary work was there;  
 Conceit deceitful, so compact, so kind,  
 That for [[characters/achilles|Achilles]]’ image stood his spear  
@@ -1517,7 +1517,7 @@ And here in Troy, for trespass of thine eye,
 The sire, the son, the dame and daughter die.  
 ‘Why should the private pleasure of someone  
 Become the public plague of many moe?  
-Let sin alone committed light alone  
+Let sin [[Alone|alone]] committed light [[Alone|alone]]  
 Upon his head that hath transgressed so;  
 Let guiltless souls be freed from guilty woe.  
 For one’s offence why should so many fall,  
@@ -1596,7 +1596,7 @@ Are balls of quenchless [[motifs/fire|fire]] to burn thy [[motifs/city|city]].
 ‘Such devils steal effects from lightless hell,  
 For Sinon in his [[motifs/fire|fire]] doth quake with cold,  
 And in that cold hot-burning [[motifs/fire|fire]] doth dwell.  
-These contraries such unity do hold  
+These contraries such [[unity]] do hold  
 Only to flatter fools and make them bold;  
 So Priam’s trust false Sinon’s [[motifs/tears|tears]] doth flatter  
 That he finds means to burn his Troy with [[motifs/water|water]].’  
@@ -1678,7 +1678,7 @@ The loathsome act of lust, and so did kill
 The lechers in their deed. This act will be  
 My fame, and thy perpetual infamy.”  
 ‘With this I did begin to start and cry,  
-And then against my heart he set his sword,  
+And then against my heart he set his [[Sword|sword]],  
 Swearing unless I took all patiently  
 I should not live to speak another word.  
 So should my shame still rest upon record,  
@@ -1811,7 +1811,7 @@ And leave the falt’ring feeble souls alive?
 The old [[motifs/bees|bees]] die, the young possess their hive.  
 Then live, sweet [[characters/lucrece|Lucrece]], live again and see  
 Thy father die, and not thy father thee.’  
-By this starts [[characters/collatine|Collatine]] as from a dream,  
+By this starts [[characters/collatine|Collatine]] as from [[A Dream|a dream]],  
 And bids Lucretius give his sorrow place;  
 And then in key-cold [[characters/lucrece|Lucrece]]’ bleeding stream  
 He falls, and bathes the pale [[concepts/fear|fear]] in his face,  
@@ -1864,7 +1864,7 @@ Now set thy long-experienced wit to school.
 Do wounds help wounds, or grief help grievous deeds?  
 Is it [[concepts/revenge|revenge]] to give thyself a blow  
 For his foul act by whom thy fair wife bleeds?  
-Such childish humour from weak minds proceeds;  
+Such childish [[Humour|humour]] from weak minds proceeds;  
 Thy wretched wife mistook the matter so  
 To slay herself, that should have slain her foe.  
 ‘Courageous Roman, do not steep thy heart  
@@ -1944,7 +1944,7 @@ William Shakespeare
 
 L’ARGOMENTO  
 
-[[characters/lucius|Lucio]] Tarquinio (per il suo eccessivo [[concepts/pride|orgoglio]] soprannominato Superbo), dopo aver fatto crudelmente assassinare il proprio suocero Servio Tullio e, contro le leggi e i costumi romani, essersi impadronito del regno senza richiedere né attendere i suffragi del popolo, andò accompagnato dai suoi figli e da altri nobili di Roma ad assediare Ardea; durante il quale assedio, ritrovandosi una sera i principali uomini dell’esercito nella tenda di Sesto Tarquinio, figlio del [[archetypes/king|Re]], nei loro discorsi dopo cena ciascuno lodò le virtù della propria moglie, e fra costoro Collatino esaltò l’incomparabile castità della sua sposa, Lucrezia. In quel piacevole umore corsero tutti a Roma, e, intendendo col loro segreto e improvviso arrivo far prova di ciò che ciascuno aveva prima affermato, il solo Collatino trova la moglie (benché fosse tarda [[motifs/night|notte]]) a filare fra le sue ancelle. Le altre dame furono trovate tutte a danzare, a far festa, o in vari passatempi. Onde i nobili concessero a Collatino la vittoria e alla sua sposa la fama. In quel [[motifs/time|tempo]] Sesto Tarquinio, infiammato da [[characters/lucrece|Lucrezia]], dalla [[concepts/beauty|bellezza]] di lei, pur soffocando per allora le sue passioni, partì con gli altri di ritorno al campo, donde poco dopo si ritrasse di nascosto e fu, secondo il suo grado, regalmente accolto e alloggiato da [[characters/lucrece|Lucrezia]] a Collazia. Quella stessa [[motifs/night|notte]] egli s’insinua a tradimento nella camera di lei, la violenta con la forza, e la mattina presto s’affretta via. [[characters/lucrece|Lucrezia]], in questo lamentevole stato, spedisce in fretta messaggeri—uno a Roma per suo padre, un altro al campo per [[characters/collatine|Collatino]]. Vennero, l’uno accompagnato da Giunio [[characters/brutus|Bruto]], l’altro da Publio Valerio, e, trovando [[characters/lucrece|Lucrezia]] vestita a lutto, domandarono la cagione del suo dolore. Ella, prendendo prima da loro un giuramento per la sua [[concepts/revenge|vendetta]], rivelò l’autore e tutto il modo del suo operare, e insieme d’un tratto si trafisse. Il che fatto, di comune accordo giurarono tutti di sradicare l’intera odiata famiglia dei Tarquini, e, portato il [[concepts/body|corpo]] morto a Roma, [[characters/brutus|Bruto]] fece noti al popolo l’autore e il modo del vile atto, con un’aspra invettiva contro la tirannia del [[archetypes/king|Re]]; onde il popolo fu tanto commosso che di comune accordo e con generale acclamazione i Tarquini furono tutti esiliati e il governo dello stato mutato dai re ai consoli.  
+[[characters/lucius|Lucio]] Tarquinio (per il suo eccessivo [[concepts/pride|orgoglio]] soprannominato Superbo), dopo aver fatto crudelmente assassinare il proprio suocero Servio Tullio e, contro le leggi e i costumi romani, essersi impadronito del regno senza richiedere né attendere i suffragi del popolo, andò accompagnato dai suoi figli e da altri nobili di Roma ad assediare Ardea; durante il quale assedio, ritrovandosi una sera i principali uomini dell’esercito nella tenda di Sesto Tarquinio, figlio del [[archetypes/king|Re]], nei loro discorsi dopo cena ciascuno lodò le virtù della propria moglie, e fra costoro Collatino esaltò l’incomparabile castità della sua sposa, Lucrezia. In quel piacevole [[Humour|umore]] corsero tutti a Roma, e, intendendo col loro segreto e improvviso arrivo far prova di ciò che ciascuno aveva prima affermato, il solo Collatino trova la moglie (benché fosse tarda [[motifs/night|notte]]) a filare fra le sue ancelle. Le altre dame furono trovate tutte a danzare, a far festa, o in vari passatempi. Onde i nobili concessero a Collatino la vittoria e alla sua sposa la fama. In quel [[motifs/time|tempo]] Sesto Tarquinio, infiammato da [[characters/lucrece|Lucrezia]], dalla [[concepts/beauty|bellezza]] di lei, pur soffocando per allora le sue passioni, partì con gli altri di ritorno al campo, donde poco dopo si ritrasse di nascosto e fu, secondo il suo grado, regalmente accolto e alloggiato da [[characters/lucrece|Lucrezia]] a Collazia. Quella stessa [[motifs/night|notte]] egli s’insinua a tradimento nella camera di lei, la violenta con la forza, e la mattina presto s’affretta via. [[characters/lucrece|Lucrezia]], in questo lamentevole stato, spedisce in fretta messaggeri—uno a Roma per suo padre, un altro al campo per [[characters/collatine|Collatino]]. Vennero, l’uno accompagnato da Giunio [[characters/brutus|Bruto]], l’altro da Publio Valerio, e, trovando [[characters/lucrece|Lucrezia]] vestita a lutto, domandarono la cagione del suo dolore. Ella, prendendo prima da loro un giuramento per la sua [[concepts/revenge|vendetta]], rivelò l’autore e tutto il modo del suo operare, e insieme d’un tratto si trafisse. Il che fatto, di comune accordo giurarono tutti di sradicare l’intera odiata famiglia dei Tarquini, e, portato il [[concepts/body|corpo]] morto a Roma, [[characters/brutus|Bruto]] fece noti al popolo l’autore e il modo del vile atto, con un’aspra invettiva contro la tirannia del [[archetypes/king|Re]]; onde il popolo fu tanto commosso che di comune accordo e con generale acclamazione i Tarquini furono tutti esiliati e il [[government|governo]] dello stato mutato dai re ai consoli.  
 
 Il Ratto di [[characters/lucrece|Lucrezia]]  
 Dall’assediata Ardea a spron battuto,  
@@ -2059,7 +2059,7 @@ e adorna di lodi l’alto nome di [[characters/collatine|Collatino]]
 reso glorioso dalla sua virile cavalleria  
 con armi ammaccate e serti di vittoria.  
 La sua gioia con mano levata ella esprime,  
-e senza parole così saluta il cielo per il suo successo.  
+e senza parole così saluta il cielo per il suo [[success|successo]].  
 Lontano dal vero scopo del suo venir colà  
 ei adduce scuse per la sua presenza.  
 Nessun nuvoloso segno di tempo burrascoso e ventoso  
@@ -2133,7 +2133,7 @@ e alla fiamma così parla deliberato:
 così [[characters/lucrece|Lucrezia]] devo costringere al mio [[motifs/desire|desiderio]].’  
 Qui, pallido di [[concepts/fear|paura]], premedita  
 i pericoli della sua ripugnante impresa,  
-e nella mente sua interiore dibatte  
+e nella mente sua interiore [[debate|dibatte]]  
 qual dolore ne possa poi sorgere.  
 Poi, guardando con scherno, disprezza  
 la nuda armatura della sua libidine sempre uccisa,  
@@ -2160,7 +2160,7 @@ sì che la mia posterità, svergognata da quel segno,
 maledirà le mie ossa e non terrà per peccato  
 il desiderare ch’io non fossi stato loro padre.  
 ‘Che vinco io se ottengo la cosa che cerco?  
-Un sogno, un soffio, una schiuma di gioia fuggevole.  
+[[A Dream|Un sogno]], un soffio, una schiuma di gioia fuggevole.  
 Chi compra il riso d’un minuto per piangere una settimana,  
 o vende l’[[concepts/eternity|eternità]] per avere un balocco?  
 Per un solo dolce acino chi distruggerà la vite?  
@@ -2234,7 +2234,7 @@ Come grano soffocato dalle erbacce, così la cauta [[concepts/fear|paura]]
 Via se ne va furtivo, con l’orecchio aperto in ascolto,  
 pieno di sozza [[concepts/hope|speranza]] e pieno di stolta diffidenza,  
 le quali entrambe, come serve dell’ingiusto,  
-tanto lo [[motifs/cross|contrariano]] con la loro opposta persuasione  
+tanto lo [[motifs/cross|contrariano]] con la loro opposta [[Persuasion|persuasione]]  
 ch’ora egli giura tregua, e ora invasione.  
 Dentro il suo pensiero siede la celeste immagine di lei,  
 e nel medesimo seggio siede [[characters/collatine|Collatino]].  
@@ -2316,7 +2316,7 @@ giace in [[concepts/mercy|balia]] del suo morso mortale.
 Dentro la camera scivola scellerato,  
 e fissa il letto di lei ancora immacolato.  
 Chiuse essendo le cortine, va e viene intorno,  
-roteando nel capo le sue pupille avide.  
+[[rolling|roteando]] nel capo le sue pupille avide.  
 Dal loro alto tradimento il suo cuore è sviato,  
 il quale dà ben presto la parola d’ordine alla sua mano  
 di tirare la nube che nasconde l’argentea [[motifs/moon|luna]].  
@@ -2540,7 +2540,7 @@ sii commosso dalle mie [[motifs/tears|lacrime]], dai miei sospiri, dai miei gemi
 ‘Tutti i quali insieme, come oceano in tempesta,  
 battono contro il tuo cuore roccioso e minaccioso di naufragi  
 per ammollirlo col loro moto continuo,  
-ché le pietre disciolte in [[motifs/water|acqua]] si convertono.  
+ché le pietre disciolte in [[motifs/water|acqua]] si [[convert|convertono]].  
 Oh, se non sei più duro d’una pietra,  
 struggiti alle mie [[motifs/tears|lacrime]], e sii compassionevole.  
 La molle pietà entra per una porta di ferro.  
@@ -2574,7 +2574,7 @@ Tu sostieni l’obbrobrio contro la lode longeva,
 e fai della bella riputazione una ruffiana.  
 ‘Hai tu comando? Per colui che te lo diede,  
 da puro cuore comanda alla tua [[archetypes/rebel|ribelle]] voglia.  
-Non sguainare la tua spada a difesa dell’iniquità,  
+Non sguainare la tua [[Sword|spada]] a difesa dell’iniquità,  
 ché ti fu prestata per uccidere tutta quella genìa.  
 Come puoi compiere il tuo ufficio di principe  
 quando, sul modello della tua colpa, il sozzo peccato potrà dire  
@@ -2744,7 +2744,7 @@ come il chiacchierare dei pellegrini accorcia il pellegrinaggio.
 ‘Laddove ora non ho nessuno che arrossisca con me,  
 che [[motifs/cross|incroci]] le braccia e chini il capo col mio,  
 che si mascheri la fronte e nasconda la sua infamia;  
-ma io sola, sola devo sedere e struggermi,  
+ma io [[Alone|sola]], [[Alone|sola]] devo sedere e struggermi,  
 condendo la terra con piogge di salsa argentea,  
 mescolando il mio parlare con [[motifs/tears|lacrime]], il mio dolore con gemiti,  
 poveri consumati monumenti di lamenti duraturi.  
@@ -2969,7 +2969,7 @@ ma le aquile son mirate da ogni occhio.
 ‘Via, parole oziose, serve di sciocchi superficiali,  
 suoni inutili, deboli arbitri!  
 Affaccendatevi nelle scuole che gareggiano d’ingegno,  
-disputate dove l’ozio consente con ottusi disputanti,  
+[[debate|disputate]] dove l’ozio consente con ottusi disputanti,  
 siate mediatrici per clienti tremanti;  
 quanto a me, non stimo un fuscello l’argomentare,  
 poiché il mio caso è oltre il soccorso della legge.  
@@ -3121,7 +3121,7 @@ quando entrambi erano serbati al cielo e a [[characters/collatine|Collatino]]?
 Ahimè, all’alto pino scortecciato  
 le [[motifs/leaves|foglie]] appassiranno e la linfa si [[motifs/decay|disfarà]];  
 così deve avvenire alla mia [[motifs/soul|anima]], tolta via la sua corteccia.  
-‘La sua casa è saccheggiata, la sua quiete interrotta,  
+‘La sua [[house|casa]] è saccheggiata, la sua quiete interrotta,  
 la sua dimora battuta dal nemico,  
 il suo sacro tempio macchiato, guastato, corrotto,  
 grossolanamente cinto d’ardita infamia.  
@@ -3259,7 +3259,7 @@ di quell’indegna moglie che ti saluta,
 salute alla tua persona! Poi, degnati di concedere—  
 se mai, [[motifs/love|amore]], la tua [[characters/lucrece|Lucrezia]] vorrai vedere—  
 qualche immediata [[characters/speed|prestezza]] nel venire a visitarmi.  
-Così mi raccomando, dalla nostra casa, nel dolore;  
+Così mi raccomando, dalla nostra [[house|casa]], nel dolore;  
 i miei affanni son lunghi, benché le mie parole sian brevi.’  
 Qui ella ripiega il tenore del suo affanno,  
 il suo certo dolore scritto incertamente.  
@@ -3293,7 +3293,7 @@ l’estremità sempre incalza a tali estremi.
 L’umile [[archetypes/villain|villano]] le fa un basso inchino,  
 e arrossendo su di lei con occhio fermo  
 riceve il rotolo senza né sì né no,  
-e via con timida innocenza s’affretta.  
+e via con timida [[innocence|innocenza]] s’affretta.  
 Ma quelli la cui [[concepts/guilt|colpa]] giace dentro il petto  
 immaginano che ogni occhio miri il loro biasimo,  
 ché [[characters/lucrece|Lucrezia]] pensò ch’ei fosse arrossito nel veder la sua vergogna,  
@@ -3353,7 +3353,7 @@ Il volto d’entrambi cifrava il cuore d’entrambi;
 il loro volto raccontava espressissimamente i loro costumi.  
 Negli occhi d’[[characters/ajax|Aiace]] rotolavano ottusa rabbia e rigore,  
 ma il mite sguardo che l’astuto [[characters/ulysses|Ulisse]] prestava  
-mostrava profondo riguardo e sorridente governo.  
+mostrava profondo riguardo e sorridente [[government|governo]].  
 Là supplicante potevi veder stare il [[motifs/grave|grave]] Nestore,  
 quasi incoraggiando i Greci a combattere,  
 facendo con la mano sì sobria azione  
@@ -3374,7 +3374,7 @@ qui uno, pigiato, indietreggia, tutto gonfio e rosso;
 un altro, soffocato, par che colpisca e bestemmi,  
 e nella loro rabbia portano tali segni di rabbia  
 che, se non fosse per la perdita delle auree parole di Nestore,  
-pareva volessero disputare con spade adirate.  
+pareva volessero [[debate|disputare]] con spade adirate.  
 Ché molto lavoro d’immaginazione era là;  
 concetto ingannevole, sì compatto, sì gentile,  
 che per l’immagine d’[[characters/achilles|Achille]] stava la sua lancia  
@@ -3433,7 +3433,7 @@ e qui in Troia, per la colpa del tuo occhio,
 il padre, il figlio, la madre e la figlia muoiono.  
 ‘Perché il privato piacere d’uno solo  
 deve divenire la pubblica peste di molti altri?  
-Il peccato commesso da solo ricada solo  
+Il peccato commesso da [[Alone|solo]] ricada [[Alone|solo]]  
 sul capo di colui che ha così trasgredito;  
 le anime innocenti sian libere dall’affanno dei colpevoli.  
 Per l’offesa d’uno perché tanti dovrebbero cadere,  
@@ -3512,7 +3512,7 @@ son palle di [[motifs/fire|fuoco]] inestinguibile per bruciare la tua [[motifs/c
 ‘Tali demoni rubano effetti dall’inferno senza luce,  
 ché Sinone nel suo [[motifs/fire|fuoco]] trema di freddo,  
 e in quel freddo dimora [[motifs/fire|fuoco]] ardente e caldo.  
-Questi contrari tengono tale unità  
+Questi contrari tengono tale [[unity|unità]]  
 solo per lusingare gli sciocchi e renderli arditi;  
 così le [[motifs/tears|lacrime]] del falso Sinone lusingano la fiducia di Priamo,  
 sì ch’ei trova modo di bruciare la sua Troia con l’[[motifs/water|acqua]].’  
@@ -3594,7 +3594,7 @@ l’atto ripugnante della libidine, e d’aver così uccisi
 i lussuriosi nel loro fatto. Quest’atto sarà  
 la mia fama, e la tua perpetua infamia.”  
 ‘A ciò io cominciai a sussultare e a gridare,  
-e allora contro il mio cuore egli pose la sua spada,  
+e allora contro il mio cuore egli pose la sua [[Sword|spada]],  
 giurando che, se non avessi preso tutto in pazienza,  
 non sarei vissuta per dire un’altra parola.  
 Così la mia vergogna sarebbe rimasta per sempre negli annali,  
@@ -3728,7 +3728,7 @@ e lascerà vive le anime vacillanti e deboli?
 Le vecchie [[motifs/bees|api]] muoiono, le giovani posseggono il loro alveare.  
 Vivi dunque, dolce [[characters/lucrece|Lucrezia]], vivi di nuovo e vedi  
 morire tuo padre, e non tuo padre te.’  
-A ciò [[characters/collatine|Collatino]] trasale come da un sogno,  
+A ciò [[characters/collatine|Collatino]] trasale come da [[A Dream|un sogno]],  
 e ingiunge a Lucrezio di dar luogo al suo dolore;  
 e allora nel sanguinante rivo di [[characters/lucrece|Lucrezia]] fredda come chiave  
 egli cade, e bagna la pallida [[concepts/fear|paura]] che ha in volto,  
@@ -3781,7 +3781,7 @@ mandi ora a scuola il tuo ingegno lungamente esperto.
 Le ferite soccorrono le ferite, o il dolore i dolorosi atti?  
 È [[concepts/revenge|vendetta]] darsi un colpo  
 per il sozzo atto di colui per cui la tua bella moglie sanguina?  
-Tal puerile umore procede da menti deboli;  
+Tal puerile [[Humour|umore]] procede da menti deboli;  
 la tua misera moglie fraintese così la cosa  
 da uccidere sé stessa, quando avrebbe dovuto uccidere il suo nemico.  
 ‘Coraggioso Romano, non immergere il tuo cuore  

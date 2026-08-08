@@ -48,4 +48,4 @@ tags:
 **Themes & Concepts:** [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/greed-and-money|Greed and Money]], [[concepts/revenge|Revenge]], [[concepts/courage|Courage]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/journey|Journey]], [[motifs/money-and-gold|Money and Gold]], [[motifs/blood|Blood]]
 **Settings:** [[settings/american-frontier|American Frontier]], [[settings/mountains|Mountains]]
-**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/hero|Hero]], [[archetypes/trickster|Trickster]]
+**Archetypes:** Villain, Hero, Trickster

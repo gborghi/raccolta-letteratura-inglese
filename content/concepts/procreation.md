@@ -16,21 +16,21 @@ tags:
 
 - [[works/social-reform-b.c-(chesterton)|Social Reform B.C (Chesterton)]]
 - [[works/sexlessness-(chesterton)|sexlessness (Chesterton)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_001|Sonnet 1 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_010|Sonnet 10 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_011|Sonnet 11 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_012|Sonnet 12 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_013|Sonnet 13 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_014|Sonnet 14 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_016|Sonnet 16 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_017|Sonnet 17 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_002|Sonnet 2 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_003|Sonnet 3 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_004|Sonnet 4 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_006|Sonnet 6 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_007|Sonnet 7 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_008|Sonnet 8 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_009|Sonnet 9 (Shakespeare)]]
+- Sonnet 1 (Shakespeare)
+- Sonnet 10 (Shakespeare)
+- Sonnet 11 (Shakespeare)
+- Sonnet 12 (Shakespeare)
+- Sonnet 13 (Shakespeare)
+- Sonnet 14 (Shakespeare)
+- Sonnet 16 (Shakespeare)
+- Sonnet 17 (Shakespeare)
+- Sonnet 2 (Shakespeare)
+- Sonnet 3 (Shakespeare)
+- Sonnet 4 (Shakespeare)
+- Sonnet 6 (Shakespeare)
+- Sonnet 7 (Shakespeare)
+- Sonnet 8 (Shakespeare)
+- Sonnet 9 (Shakespeare)
 
 </div>
 

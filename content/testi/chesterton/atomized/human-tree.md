@@ -19,11 +19,11 @@ tags:
 
 L'Albero Umano  
 
-Molti sono stati gli amanti della Terra,  
+Molti sono stati gli [[lovers|amanti]] della Terra,  
 provati in mari e in guerre, io credo;  
 eppure il più possente io ho veduto:  
 sì, il migliore io vidi.  
-Uno che in un campo solo  
+Uno che in un campo [[Alone|solo]]  
 si ergeva più immoto d'una pietra  
 per timore che una falena volasse.  
 
@@ -47,7 +47,7 @@ Rispondici, o Dio!
 spezza una volta la quiete in due,  
 per timore che sussurriamo, che ci [[concepts/wonder|domandiamo]]  
 sei tu davvero là?'  
-Ma io lo vidi là solo,  
+Ma io lo vidi là [[Alone|solo]],  
 in piedi più immoto d'una pietra  
 per timore che una falena cadesse.  
 
@@ -60,11 +60,11 @@ G.K. CHESTERTON
 
 The Human Tree  
 
-Many have Earth's lovers been,  
+Many have Earth's [[lovers]] been,  
 Tried in seas and wars, I ween;  
 Yet the mightiest have I seen:  
 Yea, the best saw I.  
-One that in a field alone  
+One that in a field [[Alone|alone]]  
 Stood up stiller than a stone  
 Lest a moth should fly.  
 
@@ -88,7 +88,7 @@ Answer us, O God!
 Split the stillness once asunder,  
 Lest we whisper, lest we [[concepts/wonder|wonder]]  
 Art thou there at all?'  
-But I saw him there alone,  
+But I saw him there [[Alone|alone]],  
 Standing stiller than a stone  
 Lest a moth should fall.  
 
@@ -99,11 +99,11 @@ G.K. CHESTERTON
 
 L'Albero Umano  
 
-Molti sono stati gli amanti della Terra,  
+Molti sono stati gli [[lovers|amanti]] della Terra,  
 provati in mari e in guerre, io credo;  
 eppure il più possente io ho veduto:  
 sì, il migliore io vidi.  
-Uno che in un campo solo  
+Uno che in un campo [[Alone|solo]]  
 si ergeva più immoto d'una pietra  
 per timore che una falena volasse.  
 
@@ -127,7 +127,7 @@ Rispondici, o Dio!
 spezza una volta la quiete in due,  
 per timore che sussurriamo, che ci [[concepts/wonder|domandiamo]]  
 sei tu davvero là?'  
-Ma io lo vidi là solo,  
+Ma io lo vidi là [[Alone|solo]],  
 in piedi più immoto d'una pietra  
 per timore che una falena cadesse.  
 

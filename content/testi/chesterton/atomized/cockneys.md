@@ -17,16 +17,16 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
--=[ I COCKNEY E LE LORO BATTUTE ]=-
+-=[ I [[cockneys|COCKNEY]] E LE LORO BATTUTE ]=-
 
 Tratto da All Things Considered di G. K. Chesterton; un etext in
 corso d'opera, da un'edizione della John Lane Company, [[settings/new-york|New York]], 1909.
 
 Questo etext è stato battuto a macchina da Rob Szarka.
 
-Uno scrittore dello Yorkshire Evening Post è davvero molto in collera per le mie prestazioni in questa rubrica. I suoi precisi termini di rimprovero sono: «Il signor G. K. Chesterton non è un umorista: nemmeno un umorista cockney». Non mi dispiace che egli dica che non sono un umorista... nel che (a dire la [[concepts/truth|verità]]) credo che abbia perfettamente ragione. Ma mi risento che dica che non sono un cockney. Quella freccia avvelenata, lo ammetto, andò a [[motifs/home|segno]]. Se uno scrittore francese dicesse di me: «non è un metafisico: nemmeno un metafisico inglese», potrei [[motifs/swallow|inghiottire]] l'insulto alla mia metafisica, ma mi adirerei per l'insulto al mio paese. Perciò non sostengo di essere un umorista; ma insisto di essere un cockney. Se fossi un umorista, sarei certamente un umorista cockney; se fossi un santo, sarei certamente un santo cockney. Non occorre che reciti lo splendido catalogo dei santi cockney che hanno scritto i loro nomi sulle nostre nobili vecchie chiese della [[motifs/city|City]]. Non occorre che vi importuni con la lunga lista degli umoristi cockney che hanno saldato i loro conti (o non li hanno saldati) nelle nostre nobili vecchie taverne della [[motifs/city|City]]. Possiamo piangere insieme sul patetico del povero uomo dello Yorkshire, la cui contea non ha mai prodotto un umorismo non intelligibile al resto del mondo. E possiamo sorridere insieme quando dice che il tale o il tal altro non è «nemmeno» un umorista cockney come Samuel Johnson o Charles [[motifs/lamb|Lamb]]. È di certo sufficientemente ovvio che tutto il miglior umorismo che esiste nella nostra lingua è umorismo cockney. Chaucer era un cockney; aveva la sua casa vicino all'Abbazia. Dickens era un cockney; diceva di non saper pensare senza le strade di [[settings/london|Londra]]. Le taverne di [[settings/london|Londra]] udirono sempre le conversazioni più pittoresche, fosse quella di Ben Jonson alla [[characters/mermaid|Sirena]] o quella di Sam Johnson al Cock. Persino ai nostri [[motifs/time|giorni]] si può notare che l'umorismo più vitale e genuino si scrive ancora su [[settings/london|Londra]]. Di questo tipo è la mite e umana ironia che contraddistingue gli studi del signor Pett Ridge sulle piccole strade grigie. Di questo tipo è il riso semplice ma travolgente dei migliori racconti del signor W. W. Jacobs, che narrano del fumo e dello scintillio del Tamigi. No; concedo di non essere un umorista cockney. No; non ne sono degno. Un [[motifs/time|giorno]], dopo tristi e faticose vite ulteriori; un [[motifs/time|giorno]], dopo feroci e apocalittiche incarnazioni; in qualche strano mondo al di là delle [[motifs/stars|stelle]], potrò infine diventare un umorista cockney. In quel paradiso potenziale potrò camminare tra gli umoristi cockney, se non da pari, almeno da compagno. Potrò sentire per un momento sulla mia spalla la calorosa mano di Dryden e percorrere i labirinti della dolce follia di [[motifs/lamb|Lamb]]. Ma ciò potrebbe accadere solo se io fossi non soltanto molto più intelligente, ma molto migliore di quel che sono. Prima di raggiungere quella sfera avrò lasciato dietro di me, forse, la sfera abitata dagli angeli, e avrò persino oltrepassato quella riservata esclusivamente all'uso degli uomini dello Yorkshire.
+Uno scrittore dello Yorkshire Evening Post è davvero molto in collera per le mie prestazioni in questa rubrica. I suoi precisi termini di rimprovero sono: «Il signor G. K. Chesterton non è un umorista: nemmeno un umorista cockney». Non mi dispiace che egli dica che non sono un umorista... nel che (a dire la [[concepts/truth|verità]]) credo che abbia perfettamente ragione. Ma mi risento che dica che non sono un cockney. Quella freccia avvelenata, lo ammetto, andò a [[motifs/home|segno]]. Se uno scrittore francese dicesse di me: «non è un metafisico: nemmeno un metafisico inglese», potrei [[motifs/swallow|inghiottire]] l'insulto alla mia metafisica, ma mi adirerei per l'insulto al mio paese. Perciò non sostengo di essere un umorista; ma insisto di essere un cockney. Se fossi un umorista, sarei certamente un umorista cockney; se fossi un santo, sarei certamente un santo cockney. Non occorre che reciti lo splendido catalogo dei santi cockney che hanno scritto i loro nomi sulle nostre nobili vecchie chiese della [[motifs/city|City]]. Non occorre che vi importuni con la lunga lista degli umoristi cockney che hanno saldato i loro conti (o non li hanno saldati) nelle nostre nobili vecchie taverne della [[motifs/city|City]]. Possiamo piangere insieme sul patetico del povero uomo dello Yorkshire, la cui contea non ha mai prodotto un [[Humour|umorismo]] non intelligibile al resto del mondo. E possiamo sorridere insieme quando dice che il tale o il tal altro non è «nemmeno» un umorista cockney come Samuel Johnson o Charles [[motifs/lamb|Lamb]]. È di certo sufficientemente ovvio che tutto il miglior [[Humour|umorismo]] che esiste nella nostra lingua è [[Humour|umorismo]] cockney. Chaucer era un cockney; aveva la sua [[house|casa]] vicino all'Abbazia. Dickens era un cockney; diceva di non saper pensare senza le strade di [[settings/london|Londra]]. Le taverne di [[settings/london|Londra]] udirono sempre le conversazioni più pittoresche, fosse quella di Ben Jonson alla [[characters/mermaid|Sirena]] o quella di Sam Johnson al Cock. Persino ai nostri [[motifs/time|giorni]] si può notare che l'[[Humour|umorismo]] più vitale e genuino si scrive ancora su [[settings/london|Londra]]. Di questo tipo è la mite e umana ironia che contraddistingue gli studi del signor Pett Ridge sulle piccole strade grigie. Di questo tipo è il riso semplice ma travolgente dei migliori racconti del signor W. W. Jacobs, che narrano del fumo e dello scintillio del Tamigi. No; concedo di non essere un umorista cockney. No; non ne sono degno. Un [[motifs/time|giorno]], dopo tristi e faticose vite ulteriori; un [[motifs/time|giorno]], dopo feroci e apocalittiche incarnazioni; in qualche strano mondo al di là delle [[motifs/stars|stelle]], potrò infine diventare un umorista cockney. In quel paradiso potenziale potrò camminare tra gli umoristi cockney, se non da pari, almeno da compagno. Potrò sentire per un momento sulla mia spalla la calorosa mano di Dryden e percorrere i labirinti della dolce follia di [[motifs/lamb|Lamb]]. Ma ciò potrebbe accadere solo se io fossi non soltanto molto più intelligente, ma molto migliore di quel che sono. Prima di raggiungere quella sfera avrò lasciato dietro di me, forse, la sfera abitata dagli angeli, e avrò persino oltrepassato quella riservata esclusivamente all'uso degli uomini dello Yorkshire.
 
-No; [[settings/london|Londra]], in questa faccenda, è attaccata sul suo terreno più forte. [[settings/london|Londra]] è la più grande delle gonfie città moderne; [[settings/london|Londra]] è la più fumosa; [[settings/london|Londra]] è la più sudicia; [[settings/london|Londra]] è, se volete, la più cupa; [[settings/london|Londra]] è, se volete, la più misera. Ma [[settings/london|Londra]] è di certo la più divertente e la più divertita. Potrete dimostrare che abbiamo più [[forms/tragedy|tragedia]]; resta il fatto che abbiamo più [[forms/comedy|commedia]], che abbiamo più farsa. Abbiamo, nel peggiore dei casi, una splendida ipocrisia di umorismo. Nascondiamo il nostro dolore dietro una derisione sguaiata. Voi parlate di gente che ride tra le [[motifs/tears|lacrime]]; è nostro vanto che noi piangiamo soltanto attraverso la nostra risata. Rimane sempre questo grande vanto, forse il più grande vanto possibile alla [[concepts/nature|natura]] umana. Intendo il grande vanto che la parte più infelice della nostra popolazione è anche la parte più ilare. I poveri possono dimenticare quel problema sociale che noi (i moderatamente ricchi) non dovremmo mai dimenticare. Beati i poveri; poiché essi soli non hanno sempre i poveri con sé. I poveri onesti possono talvolta dimenticare la [[concepts/poverty|povertà]]. I ricchi onesti non possono mai dimenticarla.
+No; [[settings/london|Londra]], in questa faccenda, è attaccata sul suo terreno più forte. [[settings/london|Londra]] è la più grande delle gonfie città moderne; [[settings/london|Londra]] è la più fumosa; [[settings/london|Londra]] è la più sudicia; [[settings/london|Londra]] è, se volete, la più cupa; [[settings/london|Londra]] è, se volete, la più misera. Ma [[settings/london|Londra]] è di certo la più divertente e la più divertita. Potrete dimostrare che abbiamo più [[forms/tragedy|tragedia]]; resta il fatto che abbiamo più [[forms/comedy|commedia]], che abbiamo più farsa. Abbiamo, nel peggiore dei casi, una splendida ipocrisia di [[Humour|umorismo]]. Nascondiamo il nostro dolore dietro una derisione sguaiata. Voi parlate di gente che ride tra le [[motifs/tears|lacrime]]; è nostro vanto che noi piangiamo soltanto attraverso la nostra risata. Rimane sempre questo grande vanto, forse il più grande vanto possibile alla [[concepts/nature|natura]] umana. Intendo il grande vanto che la parte più infelice della nostra popolazione è anche la parte più ilare. I poveri possono dimenticare quel problema sociale che noi (i moderatamente ricchi) non dovremmo mai dimenticare. Beati i poveri; poiché essi [[Alone|soli]] non hanno sempre i poveri con sé. I poveri onesti possono talvolta dimenticare la [[concepts/poverty|povertà]]. I ricchi onesti non possono mai dimenticarla.
 
 Credo fermamente nel valore di tutte le nozioni volgari, e in special
 modo delle barzellette volgari. Quando avete afferrato una barzelletta
@@ -38,17 +38,17 @@ qualcosa di indelicato. Ricordo che il signor Max Beerbohm (il quale
 possiede ogni merito tranne quello della [[concepts/democracy|democrazia]])
 tentò di analizzare le facezie di cui ride la folla. Le divise in tre
 categorie: le facezie sull'umiliazione corporea, le facezie sulle cose
-straniere, come gli stranieri, e le facezie sul formaggio
+straniere, come gli stranieri, e le facezie sul [[cheese|formaggio]]
 andato a male. Il signor Max Beerbohm credeva di comprendere le prime
 due forme; ma non sono sicuro che le comprendesse. Per capire
-l'umorismo volgare non basta essere spiritosi. Bisogna anche
+l'[[Humour|umorismo]] volgare non basta essere spiritosi. Bisogna anche
 essere volgari, come lo sono io. E nel primo caso è senz'altro evidente
 che non ridiamo (come confido facciamo) semplicemente per il fatto che
 qualcosa si fa male, quando un Primo Ministro si siede sul proprio
 cappello. Se fosse così dovremmo ridere ogni volta che vediamo un
 funerale. Non ridiamo del semplice fatto che qualcosa cade; non vi è
 nulla di comico nelle [[motifs/leaves|foglie]] che cadono o nel sole che
-tramonta. Quando la nostra casa crolla non ridiamo. Tutti gli
+tramonta. Quando la nostra [[house|casa]] crolla non ridiamo. Tutti gli
 [[motifs/birds|uccelli]] del cielo potrebbero piovere intorno a noi in un
 acquazzone perpetuo come una grandinata senza destare un sorriso. Se
 davvero vi chiedete perché ridiamo di un uomo che si siede
@@ -75,13 +75,13 @@ all'inclinazione.
 Il signor Max Beerbohm, ricordo, professava di comprendere le prime due
 forme dell'arguzia popolare, ma diceva che la terza lo lasciava del
 tutto perplesso. Non riusciva a capire perché ci dovesse essere
-qualcosa di comico nel formaggio andato a male. Posso dirglielo
+qualcosa di comico nel [[cheese|formaggio]] andato a male. Posso dirglielo
 subito. Gli è sfuggita l'idea perché essa è sottile e filosofica, mentre
-lui cercava qualcosa di ignorante e sciocco. Il formaggio
+lui cercava qualcosa di ignorante e sciocco. Il [[cheese|formaggio]]
 andato a male è comico perché è (come lo straniero o l'uomo caduto sul
 selciato) il tipo del passaggio o della trasgressione al di là di un
-grande confine mistico. Il formaggio andato a male simboleggia
-il mutamento dall'inorganico all'organico. Il formaggio andato
+grande confine mistico. Il [[cheese|formaggio]] andato a male simboleggia
+il mutamento dall'inorganico all'organico. Il [[cheese|formaggio]] andato
 a male simboleggia lo sbalorditivo prodigio della materia che assume
 vitalità. Simboleggia l'origine stessa della vita. Ed è solo di
 questioni così solenni come l'origine della vita che la
@@ -119,7 +119,7 @@ ma che nessun uomo può concepibilmente averlo mai fatto. La barzelletta
 sta per una [[concepts/truth|verità]] ultima, e questa è una [[concepts/truth|verità]]
 sottile. Non è affatto facile enunciarla correttamente. La si può forse
 enunciare nel modo più corretto dicendo che, anche se l'uomo è il capo
-della casa, egli sa di esserne la polena.
+della [[house|casa]], egli sa di esserne la polena.
 
 Ma i volgari giornali umoristici sono tanto sottili e veri da
 essere perfino profetici.  Se davvero volete sapere che cosa sta per
@@ -193,7 +193,7 @@ Part of an etext in progress by Rob Szarka.
 <span class="atom-split" data-atom="part--part_01" data-title="cockneys (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/home,motif/lamb,motif/nature,motif/stars,motif/swallow,motif/tears,motif/time,concept/nature,concept/poverty,concept/truth,form/comedy,form/tragedy,setting/london,setting/new_york,character/mermaid"></span>
 
 
--=[ COCKNEYS AND THEIR JOKES ]=-
+-=[ [[cockneys|COCKNEYS]] AND THEIR JOKES ]=-
 
 Excerpted from All Things Considered by G. K. Chesterton; an etext in
 progress, from an edition by John Lane Company, [[settings/new-york|New York]], 1909.
@@ -219,18 +219,18 @@ noble old [[motifs/city|City]] churches.  I need not trouble you with the long
 list of the Cockney humourists who have discharged their bills
 (or failed to discharge them) in our noble old [[motifs/city|City]] taverns.
 We can weep together over the pathos of the poor Yorkshireman,
-whose county has never produced some humour not intelligble
+whose county has never produced some [[Humour|humour]] not intelligble
 to the rest of the world.  And we can smile together
 when he says that somebody or other is "not even" a Cockney
 humourist like Samuel Johnson or Charles [[motifs/lamb|Lamb]].  It is surely
-sufficiently obvious that all the best humour that exists
-in our language is Cockney humour.  Chaucer was a Cockney;
-he had his house close to the Abbey.  Dickens was a Cockney;
+sufficiently obvious that all the best [[Humour|humour]] that exists
+in our language is Cockney [[Humour|humour]].  Chaucer was a Cockney;
+he had his [[house]] close to the Abbey.  Dickens was a Cockney;
 he said he could not think without the [[settings/london|London]] streets.
 The [[settings/london|London]] taverns heard always the quaintest conversation,
 whether it was Ben Jonson's at the [[characters/mermaid|Mermaid]] or Sam Johnson's
 at the Cock.  Even in our own [[motifs/time|time]] it may be noted that the most
-vital and genuine humour is still written about [[settings/london|London]].  Of this
+vital and genuine [[Humour|humour]] is still written about [[settings/london|London]].  Of this
 type is the mild and humane irony which marks Mr. Pett Ridge's
 studies of the small grey streets.  Of this type is the simple
 but smashing laughter of the best tales of Mr. W. W. Jacobs,
@@ -255,7 +255,7 @@ the most sombre; [[settings/london|London]] is, if you will, the most miserable.
 But [[settings/london|London]] is certainly the most amusing and the most amused.
 You may prove that we have the most [[forms/tragedy|tragedy]]; the fact remains
 that we have the most [[forms/comedy|comedy]], that we have the most farce.
-We have at the very worst a splendid hypocrisy of humour.
+We have at the very worst a splendid hypocrisy of [[Humour|humour]].
 We conceal our sorrow behind a screaming derision.  You speak of
 people who laugh through their [[motifs/tears|tears]]; it is our boast that we only
 weep through our laughter.  There remains always this great boast,
@@ -263,23 +263,23 @@ perhaps the greatest boast that is possible to human [[concepts/nature|nature]].
 I mean the great boast that the most unhappy part of our population
 is also the most hilarious part.  The poor can forget that social
 problem which we (the moderately rich) ought never to forget.
-Blessed are the poor; for they alone have not the poor always
+Blessed are the poor; for they [[Alone|alone]] have not the poor always
 with them.  The honest poor can sometimes forget [[concepts/poverty|poverty]].
 The honest rich can never forget it.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
--=[ I COCKNEY E LE LORO BATTUTE ]=-
+-=[ I [[cockneys|COCKNEY]] E LE LORO BATTUTE ]=-
 
 Tratto da All Things Considered di G. K. Chesterton; un etext in
 corso d'opera, da un'edizione della John Lane Company, [[settings/new-york|New York]], 1909.
 
 Questo etext è stato battuto a macchina da Rob Szarka.
 
-Uno scrittore dello Yorkshire Evening Post è davvero molto in collera per le mie prestazioni in questa rubrica. I suoi precisi termini di rimprovero sono: «Il signor G. K. Chesterton non è un umorista: nemmeno un umorista cockney». Non mi dispiace che egli dica che non sono un umorista... nel che (a dire la [[concepts/truth|verità]]) credo che abbia perfettamente ragione. Ma mi risento che dica che non sono un cockney. Quella freccia avvelenata, lo ammetto, andò a [[motifs/home|segno]]. Se uno scrittore francese dicesse di me: «non è un metafisico: nemmeno un metafisico inglese», potrei [[motifs/swallow|inghiottire]] l'insulto alla mia metafisica, ma mi adirerei per l'insulto al mio paese. Perciò non sostengo di essere un umorista; ma insisto di essere un cockney. Se fossi un umorista, sarei certamente un umorista cockney; se fossi un santo, sarei certamente un santo cockney. Non occorre che reciti lo splendido catalogo dei santi cockney che hanno scritto i loro nomi sulle nostre nobili vecchie chiese della [[motifs/city|City]]. Non occorre che vi importuni con la lunga lista degli umoristi cockney che hanno saldato i loro conti (o non li hanno saldati) nelle nostre nobili vecchie taverne della [[motifs/city|City]]. Possiamo piangere insieme sul patetico del povero uomo dello Yorkshire, la cui contea non ha mai prodotto un umorismo non intelligibile al resto del mondo. E possiamo sorridere insieme quando dice che il tale o il tal altro non è «nemmeno» un umorista cockney come Samuel Johnson o Charles [[motifs/lamb|Lamb]]. È di certo sufficientemente ovvio che tutto il miglior umorismo che esiste nella nostra lingua è umorismo cockney. Chaucer era un cockney; aveva la sua casa vicino all'Abbazia. Dickens era un cockney; diceva di non saper pensare senza le strade di [[settings/london|Londra]]. Le taverne di [[settings/london|Londra]] udirono sempre le conversazioni più pittoresche, fosse quella di Ben Jonson alla [[characters/mermaid|Sirena]] o quella di Sam Johnson al Cock. Persino ai nostri [[motifs/time|giorni]] si può notare che l'umorismo più vitale e genuino si scrive ancora su [[settings/london|Londra]]. Di questo tipo è la mite e umana ironia che contraddistingue gli studi del signor Pett Ridge sulle piccole strade grigie. Di questo tipo è il riso semplice ma travolgente dei migliori racconti del signor W. W. Jacobs, che narrano del fumo e dello scintillio del Tamigi. No; concedo di non essere un umorista cockney. No; non ne sono degno. Un [[motifs/time|giorno]], dopo tristi e faticose vite ulteriori; un [[motifs/time|giorno]], dopo feroci e apocalittiche incarnazioni; in qualche strano mondo al di là delle [[motifs/stars|stelle]], potrò infine diventare un umorista cockney. In quel paradiso potenziale potrò camminare tra gli umoristi cockney, se non da pari, almeno da compagno. Potrò sentire per un momento sulla mia spalla la calorosa mano di Dryden e percorrere i labirinti della dolce follia di [[motifs/lamb|Lamb]]. Ma ciò potrebbe accadere solo se io fossi non soltanto molto più intelligente, ma molto migliore di quel che sono. Prima di raggiungere quella sfera avrò lasciato dietro di me, forse, la sfera abitata dagli angeli, e avrò persino oltrepassato quella riservata esclusivamente all'uso degli uomini dello Yorkshire.
+Uno scrittore dello Yorkshire Evening Post è davvero molto in collera per le mie prestazioni in questa rubrica. I suoi precisi termini di rimprovero sono: «Il signor G. K. Chesterton non è un umorista: nemmeno un umorista cockney». Non mi dispiace che egli dica che non sono un umorista... nel che (a dire la [[concepts/truth|verità]]) credo che abbia perfettamente ragione. Ma mi risento che dica che non sono un cockney. Quella freccia avvelenata, lo ammetto, andò a [[motifs/home|segno]]. Se uno scrittore francese dicesse di me: «non è un metafisico: nemmeno un metafisico inglese», potrei [[motifs/swallow|inghiottire]] l'insulto alla mia metafisica, ma mi adirerei per l'insulto al mio paese. Perciò non sostengo di essere un umorista; ma insisto di essere un cockney. Se fossi un umorista, sarei certamente un umorista cockney; se fossi un santo, sarei certamente un santo cockney. Non occorre che reciti lo splendido catalogo dei santi cockney che hanno scritto i loro nomi sulle nostre nobili vecchie chiese della [[motifs/city|City]]. Non occorre che vi importuni con la lunga lista degli umoristi cockney che hanno saldato i loro conti (o non li hanno saldati) nelle nostre nobili vecchie taverne della [[motifs/city|City]]. Possiamo piangere insieme sul patetico del povero uomo dello Yorkshire, la cui contea non ha mai prodotto un [[Humour|umorismo]] non intelligibile al resto del mondo. E possiamo sorridere insieme quando dice che il tale o il tal altro non è «nemmeno» un umorista cockney come Samuel Johnson o Charles [[motifs/lamb|Lamb]]. È di certo sufficientemente ovvio che tutto il miglior [[Humour|umorismo]] che esiste nella nostra lingua è [[Humour|umorismo]] cockney. Chaucer era un cockney; aveva la sua [[house|casa]] vicino all'Abbazia. Dickens era un cockney; diceva di non saper pensare senza le strade di [[settings/london|Londra]]. Le taverne di [[settings/london|Londra]] udirono sempre le conversazioni più pittoresche, fosse quella di Ben Jonson alla [[characters/mermaid|Sirena]] o quella di Sam Johnson al Cock. Persino ai nostri [[motifs/time|giorni]] si può notare che l'[[Humour|umorismo]] più vitale e genuino si scrive ancora su [[settings/london|Londra]]. Di questo tipo è la mite e umana ironia che contraddistingue gli studi del signor Pett Ridge sulle piccole strade grigie. Di questo tipo è il riso semplice ma travolgente dei migliori racconti del signor W. W. Jacobs, che narrano del fumo e dello scintillio del Tamigi. No; concedo di non essere un umorista cockney. No; non ne sono degno. Un [[motifs/time|giorno]], dopo tristi e faticose vite ulteriori; un [[motifs/time|giorno]], dopo feroci e apocalittiche incarnazioni; in qualche strano mondo al di là delle [[motifs/stars|stelle]], potrò infine diventare un umorista cockney. In quel paradiso potenziale potrò camminare tra gli umoristi cockney, se non da pari, almeno da compagno. Potrò sentire per un momento sulla mia spalla la calorosa mano di Dryden e percorrere i labirinti della dolce follia di [[motifs/lamb|Lamb]]. Ma ciò potrebbe accadere solo se io fossi non soltanto molto più intelligente, ma molto migliore di quel che sono. Prima di raggiungere quella sfera avrò lasciato dietro di me, forse, la sfera abitata dagli angeli, e avrò persino oltrepassato quella riservata esclusivamente all'uso degli uomini dello Yorkshire.
 
-No; [[settings/london|Londra]], in questa faccenda, è attaccata sul suo terreno più forte. [[settings/london|Londra]] è la più grande delle gonfie città moderne; [[settings/london|Londra]] è la più fumosa; [[settings/london|Londra]] è la più sudicia; [[settings/london|Londra]] è, se volete, la più cupa; [[settings/london|Londra]] è, se volete, la più misera. Ma [[settings/london|Londra]] è di certo la più divertente e la più divertita. Potrete dimostrare che abbiamo più [[forms/tragedy|tragedia]]; resta il fatto che abbiamo più [[forms/comedy|commedia]], che abbiamo più farsa. Abbiamo, nel peggiore dei casi, una splendida ipocrisia di umorismo. Nascondiamo il nostro dolore dietro una derisione sguaiata. Voi parlate di gente che ride tra le [[motifs/tears|lacrime]]; è nostro vanto che noi piangiamo soltanto attraverso la nostra risata. Rimane sempre questo grande vanto, forse il più grande vanto possibile alla [[concepts/nature|natura]] umana. Intendo il grande vanto che la parte più infelice della nostra popolazione è anche la parte più ilare. I poveri possono dimenticare quel problema sociale che noi (i moderatamente ricchi) non dovremmo mai dimenticare. Beati i poveri; poiché essi soli non hanno sempre i poveri con sé. I poveri onesti possono talvolta dimenticare la [[concepts/poverty|povertà]]. I ricchi onesti non possono mai dimenticarla.
+No; [[settings/london|Londra]], in questa faccenda, è attaccata sul suo terreno più forte. [[settings/london|Londra]] è la più grande delle gonfie città moderne; [[settings/london|Londra]] è la più fumosa; [[settings/london|Londra]] è la più sudicia; [[settings/london|Londra]] è, se volete, la più cupa; [[settings/london|Londra]] è, se volete, la più misera. Ma [[settings/london|Londra]] è di certo la più divertente e la più divertita. Potrete dimostrare che abbiamo più [[forms/tragedy|tragedia]]; resta il fatto che abbiamo più [[forms/comedy|commedia]], che abbiamo più farsa. Abbiamo, nel peggiore dei casi, una splendida ipocrisia di [[Humour|umorismo]]. Nascondiamo il nostro dolore dietro una derisione sguaiata. Voi parlate di gente che ride tra le [[motifs/tears|lacrime]]; è nostro vanto che noi piangiamo soltanto attraverso la nostra risata. Rimane sempre questo grande vanto, forse il più grande vanto possibile alla [[concepts/nature|natura]] umana. Intendo il grande vanto che la parte più infelice della nostra popolazione è anche la parte più ilare. I poveri possono dimenticare quel problema sociale che noi (i moderatamente ricchi) non dovremmo mai dimenticare. Beati i poveri; poiché essi [[Alone|soli]] non hanno sempre i poveri con sé. I poveri onesti possono talvolta dimenticare la [[concepts/poverty|povertà]]. I ricchi onesti non possono mai dimenticarla.
 
 
 
@@ -295,17 +295,17 @@ delicate which they could only express by something indelicate.
 I remember that Mr. Max Beerbohm (who has every merit except [[concepts/democracy|democracy]])
 attempted to analyse the jokes at which the mob laughs.
 He divided them into three sections:  jokes about bodily humiliation,
-jokes about things alien, such as foreigners, and jokes about bad cheese.
+jokes about things alien, such as foreigners, and jokes about bad [[cheese]].
 Mr. Max Beerbohn thought he understood the first two forms;
 but I am not sure that he did.  In order to understand vulgar
-humour it is not enough to be humorous.  One must also be vulgar,
+[[Humour|humour]] it is not enough to be humorous.  One must also be vulgar,
 as I am.  And in the first case it is surely obvious that it
 is not merely at the fact of something being hurt that we laugh
 (as I trust we do) when a Prime Minister sits on his hat.
 If that were so we should laugh whenever we saw a funeral.
 We do not laugh at the mere fact of something falling down;
 there is nothing humorous about [[motifs/leaves|leaves]] falling or the sun going down.
-When our house falls down we do not laugh.  All the [[motifs/birds|birds]] of the air
+When our [[house]] falls down we do not laugh.  All the [[motifs/birds|birds]] of the air
 might drop around us in a perpetual shower like a hailstorm
 without arousing a smile.  If you really ask yourself why we laugh
 at a man sitting down suddenly in the street you will discover
@@ -329,14 +329,14 @@ though if one is a gentleman one resists the inclination.
 
 Mr. Max Beerbohm, I remember, professed to understand the first two
 forms of popular wit, but said that the third quite stumped him.
-He could not see why there should be anything funny about bad cheese.
+He could not see why there should be anything funny about bad [[cheese]].
 I can tell him at once.  He has missed the idea because it
 is subtle and philosophical, and he was looking for something
-ignorant and foolish.  Bad cheese is funny because it is
+ignorant and foolish.  Bad [[cheese]] is funny because it is
 (like the foreigner or the man fallen on the pavement) the type
 of the transition or transgression across a great mystical boundary.
-Bad cheese symbolises the change from the inorganic to the organic.
-Bad cheese symbolises the startling prodigy of matter taking
+Bad [[cheese]] symbolises the change from the inorganic to the organic.
+Bad [[cheese]] symbolises the startling prodigy of matter taking
 on vitality.  It symbolises the origin of life itself.
 And it is only about such solemn matters as the origin of life that
 the [[concepts/democracy|democracy]] condescends to joke.  Thus, for instance, the [[concepts/democracy|democracy]]
@@ -369,7 +369,7 @@ who is married knows quite [[motifs/well|well]], not only that he does not regar
 wife as a chattel, but that no man can conceivably ever have done so.
 The joke stands for an ultimate [[concepts/truth|truth]], and that is a subtle [[concepts/truth|truth]].
 It is not very easy to state correctly.  It can, perhaps, be most
-correctly stated by saying that, even if the man is the head of the house,
+correctly stated by saying that, even if the man is the head of the [[house]],
 he knows he is the figure-head.
 
 
@@ -385,17 +385,17 @@ qualcosa di indelicato. Ricordo che il signor Max Beerbohm (il quale
 possiede ogni merito tranne quello della [[concepts/democracy|democrazia]])
 tentò di analizzare le facezie di cui ride la folla. Le divise in tre
 categorie: le facezie sull'umiliazione corporea, le facezie sulle cose
-straniere, come gli stranieri, e le facezie sul formaggio
+straniere, come gli stranieri, e le facezie sul [[cheese|formaggio]]
 andato a male. Il signor Max Beerbohm credeva di comprendere le prime
 due forme; ma non sono sicuro che le comprendesse. Per capire
-l'umorismo volgare non basta essere spiritosi. Bisogna anche
+l'[[Humour|umorismo]] volgare non basta essere spiritosi. Bisogna anche
 essere volgari, come lo sono io. E nel primo caso è senz'altro evidente
 che non ridiamo (come confido facciamo) semplicemente per il fatto che
 qualcosa si fa male, quando un Primo Ministro si siede sul proprio
 cappello. Se fosse così dovremmo ridere ogni volta che vediamo un
 funerale. Non ridiamo del semplice fatto che qualcosa cade; non vi è
 nulla di comico nelle [[motifs/leaves|foglie]] che cadono o nel sole che
-tramonta. Quando la nostra casa crolla non ridiamo. Tutti gli
+tramonta. Quando la nostra [[house|casa]] crolla non ridiamo. Tutti gli
 [[motifs/birds|uccelli]] del cielo potrebbero piovere intorno a noi in un
 acquazzone perpetuo come una grandinata senza destare un sorriso. Se
 davvero vi chiedete perché ridiamo di un uomo che si siede
@@ -422,13 +422,13 @@ all'inclinazione.
 Il signor Max Beerbohm, ricordo, professava di comprendere le prime due
 forme dell'arguzia popolare, ma diceva che la terza lo lasciava del
 tutto perplesso. Non riusciva a capire perché ci dovesse essere
-qualcosa di comico nel formaggio andato a male. Posso dirglielo
+qualcosa di comico nel [[cheese|formaggio]] andato a male. Posso dirglielo
 subito. Gli è sfuggita l'idea perché essa è sottile e filosofica, mentre
-lui cercava qualcosa di ignorante e sciocco. Il formaggio
+lui cercava qualcosa di ignorante e sciocco. Il [[cheese|formaggio]]
 andato a male è comico perché è (come lo straniero o l'uomo caduto sul
 selciato) il tipo del passaggio o della trasgressione al di là di un
-grande confine mistico. Il formaggio andato a male simboleggia
-il mutamento dall'inorganico all'organico. Il formaggio andato
+grande confine mistico. Il [[cheese|formaggio]] andato a male simboleggia
+il mutamento dall'inorganico all'organico. Il [[cheese|formaggio]] andato
 a male simboleggia lo sbalorditivo prodigio della materia che assume
 vitalità. Simboleggia l'origine stessa della vita. Ed è solo di
 questioni così solenni come l'origine della vita che la
@@ -466,7 +466,7 @@ ma che nessun uomo può concepibilmente averlo mai fatto. La barzelletta
 sta per una [[concepts/truth|verità]] ultima, e questa è una [[concepts/truth|verità]]
 sottile. Non è affatto facile enunciarla correttamente. La si può forse
 enunciare nel modo più corretto dicendo che, anche se l'uomo è il capo
-della casa, egli sa di esserne la polena.
+della [[house|casa]], egli sa di esserne la polena.
 
 
 

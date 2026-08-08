@@ -42,7 +42,7 @@ tags:
 
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
 
-**Characters:** [[characters/fagin|Fagin]]
+**Characters:** Fagin
 
 **Themes & Concepts:** [[concepts/deception|Deception]], [[concepts/truth|Truth]], [[concepts/satire-of-society|Satire of Society]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/power-of-language|Power of Language]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/critique-of-progress|Critique of Progress]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]

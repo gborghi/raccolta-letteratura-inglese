@@ -148,7 +148,7 @@ Ash on an old man’s sleeve
 Is all the ash the burnt roses leave.  
 [[motifs/dust|Dust]] in the air suspended  
 Marks the place where a story ended.  
-[[motifs/dust|Dust]] inbreathed was a house —  
+[[motifs/dust|Dust]] inbreathed was a [[house]] —  
 The wall, the wainscot and the mouse.  
 The [[motifs/death|death]] of [[concepts/hope|hope]] and [[concepts/despair|despair]],  
         This is the [[motifs/death|death]] of air.  
@@ -251,7 +251,7 @@ Cenere sulla manica di un vecchio
 È tutta la cenere che le rose bruciate lasciano.  
 [[motifs/dust|Polvere]] sospesa nell'aria  
 Segna il luogo dove una storia è finita.  
-[[motifs/dust|Polvere]] respirata fu una casa —  
+[[motifs/dust|Polvere]] respirata fu una [[house|casa]] —  
 Il muro, il rivestimento e il topo.  
 La [[motifs/death|morte]] della [[concepts/hope|speranza]] e della [[concepts/despair|disperazione]],  
         Questa è la [[motifs/death|morte]] dell'aria.  

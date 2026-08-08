@@ -65,13 +65,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/lover|Lover]]
+**Archetypes:** Tyrant, Lover
 
 **Motifs:** [[motifs/imprisonment-(2)|Imprisonment (2)]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/journey|Journey]], [[motifs/marriage|Marriage]]
 
 **Topoi:** [[topoi/carpe-diem|Carpe Diem]], [[topoi/poet-as-prophet|Poet as Prophet]]
 
-**Characters:** [[characters/caliban|Caliban]], [[characters/elizabeth-barrett-browning|Elizabeth Barrett Browning]], [[characters/edward-moulton-barrett|Edward Moulton Barrett]], [[characters/pompilia|Pompilia]], [[characters/giuseppe-caponsacchi|Giuseppe Caponsacchi]], [[characters/guido-franceschini|Guido Franceschini]]
+**Characters:** Caliban, Elizabeth Barrett Browning, Edward Moulton Barrett, Pompilia, Giuseppe Caponsacchi, Guido Franceschini
 
 **Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/imagination|Imagination]], [[concepts/joy|Joy]], [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/grotesque|Grotesque]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/paradox|Paradox]], [[concepts/truth|Truth]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/immortality-of-the-soul|Immortality of the Soul]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/optimism|Optimism]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/biography|Biography]], [[forms/literary-criticism|Literary Criticism]], [[forms/dramatic-monologue|Dramatic Monologue]], [[forms/epic|Epic]], [[forms/history-play|History Play]], [[forms/sonnet|Sonnet]], [[forms/nonfiction|Nonfiction]]

@@ -66,5 +66,5 @@ tags:
 **Motifs:** [[motifs/sea|Sea]], [[motifs/ship|Ship]], [[motifs/fire|Fire]], [[motifs/storm|Storm]], [[motifs/journey|Journey]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/french-revolution|French Revolution]]
 **Settings:** [[settings/scotland-the-highlands|Scotland the Highlands]], [[settings/battlefield|Battlefield]], [[motifs/ship|Ship]]
-**Characters:** [[characters/napoleon-bonaparte|Napoleon Bonaparte]], [[characters/wellington|Wellington]], [[characters/sir-walter-scott|Sir Walter Scott]]
-**Archetypes:** [[archetypes/quest-hero|Quest Hero]], [[archetypes/hero|Hero]], [[archetypes/lover|Lover]]
+**Characters:** Napoleon Bonaparte, Wellington, Sir Walter Scott
+**Archetypes:** Quest Hero, Hero, Lover

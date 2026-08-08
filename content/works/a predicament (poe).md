@@ -45,7 +45,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/tempus-fugit|Tempus Fugit]], [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** [[archetypes/fool|Fool]]
+**Archetypes:** Fool
 **Motifs:** [[motifs/clock|Clock]], [[motifs/time|Time]], [[motifs/death|Death]], [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/grotesque|Grotesque]], [[concepts/satire-of-society|Satire of Society]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/mortality|Mortality]]
 **Forms & Genres:** [[forms/parody|Parody]], [[forms/satire|Satire]], [[forms/short-story|Short Story]]

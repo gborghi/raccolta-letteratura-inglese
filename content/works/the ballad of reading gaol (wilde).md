@@ -62,12 +62,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/memento-mori|Memento Mori]], [[topoi/dance-of-death|Dance of Death]], [[topoi/fortune's-wheel|Fortune's Wheel]]
-**Archetypes:** [[archetypes/scapegoat|Scapegoat]], [[archetypes/christ-figure|Christ Figure]], [[archetypes/outsider|Outsider]], [[archetypes/martyr-saint|Martyr Saint]]
+**Archetypes:** Scapegoat, Christ Figure, Outsider, Martyr Saint
 **Motifs:** [[motifs/death|Death]], [[motifs/blood|Blood]], [[motifs/grave|Grave]], [[motifs/cross|Cross]], [[motifs/rose|Rose]], [[motifs/white-and-red|White and Red]], [[motifs/clock|Clock]], [[motifs/bells|Bells]], [[motifs/dawn|Dawn]], [[motifs/supernatural|Supernatural]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/guilt|Guilt]], [[concepts/mercy|Mercy]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/social-injustice|Social Injustice]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/martyrdom|Martyrdom]], [[concepts/conscience|Conscience]], [[concepts/alienation|Alienation]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/elegy|Elegy]], [[forms/lyric|Lyric]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/regency-georgian-england|Regency Georgian England]]
-**Characters:** [[characters/christ|Christ]], [[characters/death-personified|Death Personified]]
+**Characters:** Christ, Death Personified
 
 ## Testo integrale / Full text
 

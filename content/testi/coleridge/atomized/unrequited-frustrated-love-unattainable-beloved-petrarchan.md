@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan" data-author="Coleridge" data-workhref="works/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="002_nil_pejus_est_caelibe_vitæ" data-title="NIL PEJUS EST CAELIBE VITÆ" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/death,motif/the_grave,concept/marriage_and_fidelity,concept/love_romantic,concept/friendship,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="002_nil_pejus_est_caelibe_vitæ" data-title="NIL PEJUS EST CAELIBE VITÆ" data-chapter="" data-kind="intro"></span>
 
 
 IN [[characters/christ|CHRIST]]’S HOSPITAL BOOK  
@@ -41,13 +41,13 @@ To shew the man so blest once breath’d the vital air.
 
 
 
-<span class="atom-split" data-atom="019_genevieve" data-title="GENEVIEVE" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/stars,concept/love_romantic,concept/beauty,form/lyric,form/song,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="019_genevieve" data-title="GENEVIEVE" data-chapter="" data-kind="intro"></span>
 
 
 Maid of my [[motifs/love|Love]], sweet Genevieve!  
 In [[concepts/beauty|Beauty]]’s light you glide along:  
 Your eye is like the Star of Eve,  
-And sweet your voice, as Seraph’s song  
+And sweet your voice, as Seraph’s [[Song|song]]  
 Yet not your heavenly [[concepts/beauty|beauty]] gives   5  
 This heart with Passion soft to glow:  
 Within your [[motifs/soul|soul]] a voice there lives!  
@@ -63,7 +63,7 @@ And therefore [[motifs/love|love]] I you, sweet Genevieve!
 
 
 
-<span class="atom-split" data-atom="037_a_lovers_complaint_to_his_mistress" data-title="A LOVER’S COMPLAINT TO HIS MISTRESS" data-chapter="" data-kind="intro" data-tags="archetype/femme_fatale,motif/the_sea,motif/money_gold,concept/unrequited_love,concept/deception,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="037_a_lovers_complaint_to_his_mistress" data-title="A LOVER’S COMPLAINT TO HIS MISTRESS" data-chapter="" data-kind="intro"></span>
 
 
 WHO DESERTED HIM IN [[topoi/quest|QUEST]] OF A MORE WEALTHY HUSBAND IN THE EAST INDIES  
@@ -84,7 +84,7 @@ And faithless Ocean smile — but to deceive!
 
 
 
-<span class="atom-split" data-atom="038_with_fieldings_amelia" data-title="WITH FIELDING’S ‘AMELIA’" data-chapter="" data-kind="intro" data-tags="motif/the_book,concept/marriage_and_fidelity,concept/imagination,concept/the_common_man,concept/love_romantic,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="038_with_fieldings_amelia" data-title="WITH FIELDING’S ‘AMELIA’" data-chapter="" data-kind="intro"></span>
 
 
 Virtues and Woes alike too great for man  
@@ -106,7 +106,7 @@ In all but sorrows shall Amelias be!
 
 
 
-<span class="atom-split" data-atom="040_imitated_from_ossian" data-title="IMITATED FROM OSSIAN" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/flowers,motif/wind,motif/river,motif/moon,concept/transience,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="040_imitated_from_ossian" data-title="IMITATED FROM OSSIAN" data-chapter="" data-kind="intro"></span>
 
 
 The stream with languid murmur creeps,  
@@ -124,7 +124,7 @@ The dreary vale of Lumin.’
 With eager gaze and wetted cheek  
 My wonted haunts along,  
 Thus, faithful Maiden! thou shalt seek   15  
-The Youth of simplest song.  
+The Youth of simplest [[Song|song]].  
 But I along the breeze shall roll  
 The voice of feeble power;  
 And dwell, the [[motifs/moon|Moon]]-beam of thy [[motifs/soul|soul]],  
@@ -134,7 +134,7 @@ In Slumber’s nightly hour.   20
 
 
 
-<span class="atom-split" data-atom="043_the_rose" data-title="THE ROSE" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/rose,motif/flowers,motif/garden,concept/love_romantic,concept/beauty,form/lyric,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="043_the_rose" data-title="THE ROSE" data-chapter="" data-kind="intro"></span>
 
 
 As late each flower that sweetest blows  
@@ -157,7 +157,7 @@ Ah! soon the [[motifs/soul|soul]]-entrancing sight
 Subdued the impatient boy!  
 He gazed! he thrill’d with deep delight!  
 Then clapp’d his wings for joy.   20  
-‘And O!’ he cried—’Of magic kind  
+‘And O!’ he cried—’Of [[Magic|magic]] kind  
 What charms this Throne endear!  
 Some other [[motifs/love|Love]] let [[characters/venus|Venus]] find —  
 I’ll fix my empire here.’  
@@ -166,7 +166,7 @@ I’ll fix my empire here.’
 
 
 
-<span class="atom-split" data-atom="062_the_sigh" data-title="THE SIGH" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/the_sea,concept/love_romantic,concept/melancholy,concept/grief_and_loss,concept/exile,concept/unrequited_love,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="062_the_sigh" data-title="THE SIGH" data-chapter="" data-kind="intro"></span>
 
 
 When Youth his faery reign began  
@@ -198,7 +198,7 @@ Still, Mary! still I sigh for thee.
 
 
 
-<span class="atom-split" data-atom="074_on_a_discovery_made_too_late" data-title="ON A DISCOVERY MADE TOO LATE" data-chapter="" data-kind="intro" data-tags="motif/madness,concept/jealousy,concept/grief_and_loss,concept/madness,concept/hope,concept/unrequited_love,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="074_on_a_discovery_made_too_late" data-title="ON A DISCOVERY MADE TOO LATE" data-chapter="" data-kind="intro"></span>
 
 
 Thou bleedest, my poor Heart! and thy distress  
@@ -210,7 +210,7 @@ Or, listening, why forget the healing tale,
 When [[concepts/jealousy|Jealousy]] with feverous fancies pale  
 Jarr’d thy fine fibres with a maniac’s hand?  
 Faint was that [[concepts/hope|Hope]], and rayless! — Yet ‘twas fair  
-And sooth’d with many a dream the hour of rest:   10  
+And sooth’d with many [[A Dream|a dream]] the hour of rest:   10  
 Thou should’st have lov’d it most, when most opprest,  
 And nurs’d it with an agony of care,  
 Even as a mother her sweet infant heir  
@@ -220,7 +220,7 @@ That wan and sickly droops upon her breast!
 
 
 
-<span class="atom-split" data-atom="081_sonnets_on_eminent_characters" data-title="SONNETS ON EMINENT CHARACTERS" data-chapter="" data-kind="intro" data-tags="concept/the_artist_and_society,concept/nationalism_and_patriotism,concept/satire_of_society,form/sonnet_sequence,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="081_sonnets_on_eminent_characters" data-title="SONNETS ON EMINENT CHARACTERS" data-chapter="" data-kind="intro"></span>
 
 
 CONTRIBUTED TO THE ‘MORNING CHRONICLE’ IN DECEMBER 1794 AND JANUARY 1795  
@@ -235,7 +235,7 @@ I
 
 
 
-<span class="atom-split" data-atom="087_pitt" data-title="PITT" data-chapter="" data-kind="intro" data-tags="archetype/christ_figure,motif/the_cross,concept/power_and_corruption,concept/deception,concept/liberty,form/sonnet,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="087_pitt" data-title="PITT" data-chapter="" data-kind="intro"></span>
 
 
 Not always should the Tear’s ambrosial dew  
@@ -257,7 +257,7 @@ December 23, 1794.
 
 
 
-<span class="atom-split" data-atom="092_to_richard_brinsley_sheridan_esq" data-title="TO RICHARD BRINSLEY SHERIDAN, ESQ." data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/the_artist_and_society,concept/nationalism_and_patriotism,concept/deception,form/sonnet,histref/classical_antiquity,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="092_to_richard_brinsley_sheridan_esq" data-title="TO RICHARD BRINSLEY SHERIDAN, ESQ." data-chapter="" data-kind="intro"></span>
 
 
 It was some Spirit, SHERIDAN! that breath’d  
@@ -273,13 +273,13 @@ Swell the full tones! And now thine eye-beams [[motifs/dance|dance]]   10
 Meanings of Scorn and Wit’s quaint revelry!  
 Writhes inly from the bosom-probing glance  
 The Apostate by the brainless rout ador’d,  
-As erst that elder Fiend beneath great [[characters/michael|Michael]]’s sword.  
+As erst that elder Fiend beneath great [[characters/michael|Michael]]’s [[Sword|sword]].  
 January 29, 1795.  
 
 
 
 
-<span class="atom-split" data-atom="097_to_the_rev_w_j_hort_while_teaching_a_young_lady_some_song-tunes_on_his_flute" data-title="TO THE REV. W. J. HORT: WHILE TEACHING A YOUNG LADY SOME SONG-TUNES ON HIS FLUTE" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/music_and_song,motif/memory,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="097_to_the_rev_w_j_hort_while_teaching_a_young_lady_some_song-tunes_on_his_flute" data-title="TO THE REV. W. J. HORT: WHILE TEACHING A YOUNG LADY SOME SONG-TUNES ON HIS FLUTE" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -290,9 +290,9 @@ Breathe that passion-warbled strain:
 Till [[motifs/memory|Memory]] each form shall bring   5  
 The loveliest of her shadowy throng;  
 And [[concepts/hope|Hope]], that soars on sky-lark wing,  
-Carol wild her gladdest song!  
+[[carol|Carol]] wild her gladdest [[Song|song]]!  
 II  
-O skill’d with magic spell to roll  
+O skill’d with [[Magic|magic]] spell to roll  
 The thrilling tones, that concentrate the [[motifs/soul|soul]]!   10  
 Breathe thro’ thy flute those tender notes again,  
 While near thee sits the chaste-eyed Maiden mild;  
@@ -316,7 +316,7 @@ And I will thank thee with a raptur’d tear.
 
 
 
-<span class="atom-split" data-atom="101_lines_in_the_manner_of_spenser" data-title="LINES IN THE MANNER OF SPENSER" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/dreams,motif/sleep,concept/love_romantic,concept/imagination,form/spenserian_stanza,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="101_lines_in_the_manner_of_spenser" data-title="LINES IN THE MANNER OF SPENSER" data-chapter="" data-kind="intro"></span>
 
 
 O Peace, that on a lilied bank dost [[motifs/love|love]]  
@@ -324,7 +324,7 @@ To rest thine head beneath an Olive-Tree,
 I would that from the pinions of thy Dove  
 One quill withouten [[motifs/pain|pain]] ypluck’d might be!  
 For O! I wish my Sara’s frowns to flee,   5  
-And fain to her some soothing song would write,  
+And fain to her some soothing [[Song|song]] would write,  
 Lest she resent my rude discourtesy,  
 Who vow’d to meet her ere the morning light,  
 But broke my plighted word — ah! false and recreant wight!  
@@ -350,7 +350,7 @@ When as I ‘gan to lift my drowsy head —
 Was fluttering now, as quickly to depart;  
 When twang’d an arrow from [[motifs/love|Love]]’s mystic string,   30  
 With pathless wound it pierc’d him to the heart.  
-Was there some magic in the Elfin’s dart?  
+Was there some [[Magic|magic]] in the Elfin’s dart?  
 Or did he strike my couch with wizard lance?  
 For straight so fair a Form did upwards start  
 (No fairer deck’d the bowers of old [[works/romance-(poe)|Romance]])   35  
@@ -369,7 +369,7 @@ Fondly forgot. Too late I woke, and sigh’d —
 
 
 
-<span class="atom-split" data-atom="102_the_hour_when_we_shall_meet_again" data-title="THE HOUR WHEN WE SHALL MEET AGAIN" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/rose,motif/dawn,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="102_the_hour_when_we_shall_meet_again" data-title="THE HOUR WHEN WE SHALL MEET AGAIN" data-chapter="" data-kind="intro"></span>
 
 
 (Composed during Illness, and in Absence.)  
@@ -396,7 +396,7 @@ His pitying Mistress mourns, and mourning heals!
 
 
 
-<span class="atom-split" data-atom="117_on_a_late_connubial_rupture_in_high_life" data-title="ON A LATE CONNUBIAL RUPTURE IN HIGH LIFE" data-chapter="" data-kind="intro" data-tags="motif/rose,concept/marriage_and_fidelity,concept/grief_and_loss,concept/power_and_corruption,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="117_on_a_late_connubial_rupture_in_high_life" data-title="ON A LATE CONNUBIAL RUPTURE IN HIGH LIFE" data-chapter="" data-kind="intro"></span>
 
 
 [PRINCE AND PRINCESS OF WALES]  
@@ -425,7 +425,7 @@ Like two bright dew-drops meeting in a flower.   20
 
 
 
-<span class="atom-split" data-atom="152_lewti_or_the_circassian_love-chaunt" data-title="LEWTI OR THE CIRCASSIAN LOVE-CHAUNT" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/moon,motif/nightingale,concept/unrequited_love,concept/love_romantic,form/song,setting/the_orient,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="152_lewti_or_the_circassian_love-chaunt" data-title="LEWTI OR THE CIRCASSIAN LOVE-CHAUNT" data-chapter="" data-kind="intro"></span>
 
 
 At midnight by the stream I roved,  
@@ -503,7 +503,7 @@ I then might view her bosom white
 Heaving lovely to my sight,  
 As these two swans together heave  
 On the gently-swelling wave.   75  
-Oh! that she saw me in a dream,  
+Oh! that she saw me in [[A Dream|a dream]],  
 And dreamt that I had died for care;  
 All pale and wasted I would seem,  
 Yet fair withal, as spirits are!  
@@ -516,7 +516,7 @@ To-morrow Lewti may be kind.
 
 
 
-<span class="atom-split" data-atom="170_from_the_german" data-title="FROM THE GERMAN" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/nature,motif/the_journey,concept/nostalgia,form/lyric,form/translation,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="170_from_the_german" data-title="FROM THE GERMAN" data-chapter="" data-kind="intro"></span>
 
 
 Know’st thou the land where the pale citrons grow,  
@@ -530,7 +530,7 @@ Thither with thee, O, thither would I wend!
 
 
 
-<span class="atom-split" data-atom="171_water_ballad" data-title="WATER BALLAD" data-chapter="" data-kind="intro" data-tags="motif/river,motif/the_journey,motif/water,concept/love_romantic,concept/marriage_and_fidelity,form/song,form/translation,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="171_water_ballad" data-title="WATER BALLAD" data-chapter="" data-kind="intro"></span>
 
 
 FROM THE FRENCH  
@@ -563,7 +563,7 @@ For ever by my side.’
 
 
 
-<span class="atom-split" data-atom="177_names" data-title="NAMES" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/love,concept/love_romantic,form/epigram,form/translation,histref/classical_antiquity,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="177_names" data-title="NAMES" data-chapter="" data-kind="intro"></span>
 
 
 [FROM LESSING]  
@@ -584,7 +584,7 @@ Only, only call me Thine.’
 
 
 
-<span class="atom-split" data-atom="178_philadelphia" data-title="PHILADELPHIA" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/love,concept/love_romantic,form/epigram,form/translation,histref/classical_antiquity,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="178_philadelphia" data-title="PHILADELPHIA" data-chapter="" data-kind="intro"></span>
 
 
 in  
@@ -619,12 +619,12 @@ P. R.
 
 
 
-<span class="atom-split" data-atom="181_westphalian_song" data-title="WESTPHALIAN SONG" data-chapter="" data-kind="intro" data-tags="motif/death,motif/love,concept/love_romantic,concept/deception,form/song,form/translation,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="181_westphalian_song" data-title="WESTPHALIAN SONG" data-chapter="" data-kind="intro"></span>
 
 
 [The following is an almost literal [[forms/translation|translation]] of a very old and very  
-favourite song among the Westphalian Boors. The turn at the end is the  
-same with one of Mr. Dibdin’s excellent songs, and the air to which it  
+favourite [[Song|song]] among the Westphalian Boors. The turn at the end is the  
+same with one of Mr. Dibdin’s excellent [[songs]], and the air to which it  
 is sung by the Boors is remarkably sweet and lively.]  
 When thou to my true-[[motifs/love|love]] com’st  
 Greet her from me kindly;  
@@ -639,7 +639,7 @@ Say, I come to-morrow.
 
 
 
-<span class="atom-split" data-atom="185_love" data-title="LOVE" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,archetype/lover,motif/music_and_song,motif/ruins,motif/moon,concept/love_romantic,concept/unrequited_love,concept/madness,form/ballad,form/narrative_poem,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="185_love" data-title="LOVE" data-chapter="" data-kind="intro"></span>
 
 
 All thoughts, all passions, all delights,  
@@ -661,10 +661,10 @@ Amid the lingering light.
 Few sorrows hath she of her own,  
 My [[concepts/hope|hope]]! my joy! my Genevieve!  
 She loves me best, whene’er I sing  
-The songs that make her grieve.    20  
+The [[songs]] that make her grieve.    20  
 I played a soft and doleful air,  
 I sang an old and moving story —  
-An old rude song, that suited [[motifs/well|well]]  
+An old rude [[Song|song]], that suited [[motifs/well|well]]  
 That ruin wild and hoary.  
 She listened with a flitting blush,    25  
 With downcast eyes and modest grace;  
@@ -720,7 +720,7 @@ And gentle wishes long subdued,   75
 Subdued and cherished long!  
 She wept with pity and delight,  
 She blushed with [[motifs/love|love]], and virgin-shame;  
-And like the murmur of a dream,  
+And like the murmur of [[A Dream|a dream]],  
 I heard her breathe my name.   80  
 Her bosom heaved — she stepped aside,  
 As conscious of my look she stepped —  
@@ -743,7 +743,7 @@ My bright and beauteous Bride.
 
 
 
-<span class="atom-split" data-atom="191_the_keepsake" data-title="THE KEEPSAKE" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/rose,motif/seasons,motif/memory,concept/love_romantic,concept/marriage_and_fidelity,concept/transience,form/blank_verse,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="191_the_keepsake" data-title="THE KEEPSAKE" data-chapter="" data-kind="intro"></span>
 
 
 The tedded hay, the first fruits of the soil,  
@@ -790,7 +790,7 @@ And own thenceforth no other name but mine!
 
 
 
-<span class="atom-split" data-atom="202_to_asra" data-title="TO ASRA" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,motif/water,motif/spring,concept/love_romantic,concept/joy,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="202_to_asra" data-title="TO ASRA" data-chapter="" data-kind="intro"></span>
 
 
 Are there two things, of all which men possess,  
@@ -812,7 +812,7 @@ Thy lot, methinks, were Heaven, thy age, [[concepts/eternity|Eternity]]!
 
 
 
-<span class="atom-split" data-atom="204_loves_sanctuary" data-title="LOVE’S SANCTUARY" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,concept/love_romantic,concept/love_divine,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="204_loves_sanctuary" data-title="LOVE’S SANCTUARY" data-chapter="" data-kind="intro"></span>
 
 
 This yearning heart ([[motifs/love|Love]]! witness what I say)  
@@ -825,7 +825,7 @@ Like saintly Priests, that dare not think amiss.
 
 
 
-<span class="atom-split" data-atom="207_the_picture_or_the_lovers_resolution" data-title="THE PICTURE OR THE LOVER’S RESOLUTION" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,topos/pastoral_retreat,archetype/outcast_wanderer,motif/the_mirror,motif/water,motif/nature,motif/serpent_snake,concept/love_romantic,concept/unrequited_love,concept/imagination,concept/appearance_vs_reality,form/blank_verse,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="207_the_picture_or_the_lovers_resolution" data-title="THE PICTURE OR THE LOVER’S RESOLUTION" data-chapter="" data-kind="intro"></span>
 
 
 Through weeds and thorns, and matted underwood  
@@ -897,7 +897,7 @@ Shiver in sunshine, but his feeble heart
 Shall flow away like a dissolving thing.  
 Sweet breeze! thou only, if I guess aright,  
 Liftest the feathers of the robin’s breast,  
-That swells its little breast, so full of song,   70  
+That swells its little breast, so full of [[Song|song]],   70  
 Singing above me, on the mountain-ash.  
 And thou too, [[motifs/desert|desert]] stream! no pool of thine,  
 Though clear as lake in latest [[motifs/summer|summer]]-eve,  
@@ -947,7 +947,7 @@ Making thee doleful as a cavern-[[motifs/well|well]]:   115
 Save when the shy [[archetypes/king|king]]-fishers build their nest  
 On thy steep banks, no loves hast thou, wild stream!  
 This be my chosen haunt — emancipate  
-From Passion’s [[motifs/dreams|dreams]], a freeman, and alone,  
+From Passion’s [[motifs/dreams|dreams]], a freeman, and [[Alone|alone]],  
 I rise and trace its devious course. O lead,   120  
 Lead me to deeper shades and lonelier glooms.  
 Lo! stealing through the canopy of firs,  
@@ -978,7 +978,7 @@ Dashed upwards by the furious waterfall.
 How solemnly the pendent ivy-mass  
 Swings in its winnow: All the air is calm.  
 The smoke from cottage-chimneys, tinged with light,  
-Rises in columns; from this house alone,   150  
+Rises in columns; from this [[house]] [[Alone|alone]],   150  
 Close by the [[motifs/water|water]]-fall, the column slants,  
 And feels its ceaseless breeze. But what is this?  
 That cottage, with its slanting chimney-smoke,  
@@ -1000,13 +1000,13 @@ Slanting at eve, rest bright, and linger long
 Upon thy purple [[motifs/bells|bells]]! O Isabel!  
 Daughter of genius! stateliest of our maids!   170  
 More beautiful than whom Alcaeus wooed,  
-The Lesbian woman of immortal song!  
+The Lesbian woman of immortal [[Song|song]]!  
 O [[archetypes/child|child]] of genius! stately, beautiful,  
 And full of [[motifs/love|love]] to all, save only me,  
 And not ungentle e’en to me! My heart,   175  
 Why beats it thus? Through yonder coppice-wood  
 Needs must the pathway turn, that leads straightway  
-On to her father’s house. She is alone!  
+On to her father’s [[house]]. She is [[Alone|alone]]!  
 The [[motifs/night|night]] draws on — such ways are hard to hit —  
 And fit it is I should restore this [[forms/sketch|sketch]],   180  
 Dropt unawares, no [[concepts/doubt|doubt]]. Why should I yearn  
@@ -1020,7 +1020,7 @@ And I may be her guide the long wood through.
 
 
 
-<span class="atom-split" data-atom="217_the_happy_husband" data-title="THE HAPPY HUSBAND" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/love_romantic,concept/marriage_and_fidelity,concept/joy,form/fragment,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="217_the_happy_husband" data-title="THE HAPPY HUSBAND" data-chapter="" data-kind="intro"></span>
 
 
 A [[forms/fragment|FRAGMENT]]  
@@ -1044,7 +1044,7 @@ And into tenderness soon dying,
 Resign the [[motifs/soul|soul]] to [[motifs/love|love]] again; —  
 A more precipitated vein  
 Of notes, that eddy in the flow   20  
-Of smoothest song, they come, they go,  
+Of smoothest [[Song|song]], they come, they go,  
 And leave their sweeter understrain,  
 Its own sweet [[concepts/self|self]] — a [[motifs/love|love]] of Thee  
 That seems, yet cannot greater be!  
@@ -1053,7 +1053,7 @@ That seems, yet cannot greater be!
 
 
 
-<span class="atom-split" data-atom="219_the_exchange" data-title="THE EXCHANGE" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/nature,concept/love_romantic,concept/joy,form/song,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="219_the_exchange" data-title="THE EXCHANGE" data-chapter="" data-kind="intro"></span>
 
 
 We pledged our hearts, my [[motifs/love|love]] and I, —  
@@ -1069,7 +1069,7 @@ We had exchanged our hearts indeed.
 
 
 
-<span class="atom-split" data-atom="227_separation" data-title="SEPARATION" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/swords_weapons,concept/love_romantic,concept/grief_and_loss,concept/appearance_vs_reality,form/song,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="227_separation" data-title="SEPARATION" data-chapter="" data-kind="intro"></span>
 
 
 A sworded man whose trade is [[motifs/blood|blood]],  
@@ -1103,7 +1103,7 @@ Not half enough to part from Thee!
 
 
 
-<span class="atom-split" data-atom="231_farewell_to_love" data-title="FAREWELL TO LOVE" data-chapter="" data-kind="intro" data-tags="archetype/lover,concept/love_romantic,concept/disillusionment,concept/imagination,concept/melancholy,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="231_farewell_to_love" data-title="FAREWELL TO LOVE" data-chapter="" data-kind="intro"></span>
 
 
 Farewell, sweet [[motifs/love|Love]]! yet blame you not my [[concepts/truth|truth]];  
@@ -1117,7 +1117,7 @@ To you I gave my whole weak wishing heart.
 And when I met the maid that realised  
 Your fair creations, and had won her kindness,   10  
 Say, but for her if aught on earth I prized!  
-Your [[motifs/dreams|dreams]] alone I dreamt, and caught your blindness.  
+Your [[motifs/dreams|dreams]] [[Alone|alone]] I dreamt, and caught your blindness.  
 O grief! — but farewell, [[motifs/love|Love]]! I will go play me  
 With thoughts that please me less, and less betray me.  
 1806.  
@@ -1125,7 +1125,7 @@ With thoughts that please me less, and less betray me.
 
 
 
-<span class="atom-split" data-atom="240_the_visionary_hope" data-title="THE VISIONARY HOPE" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/sleep,concept/melancholy,concept/unrequited_love,concept/grief_and_loss,concept/alienation,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="240_the_visionary_hope" data-title="THE VISIONARY HOPE" data-chapter="" data-kind="intro"></span>
 
 
 Sad lot, to have no [[concepts/hope|Hope]]! Though lowly kneeling  
@@ -1149,7 +1149,7 @@ Which waned and died, yet ever near him stood,
 Though changed in [[concepts/nature|nature]], wander where he would —  
 For [[motifs/love|Love]]’s [[concepts/despair|Despair]] is but [[concepts/hope|Hope]]’s pining [[archetypes/ghost|Ghost]]!   20  
 For this one [[concepts/hope|hope]] he makes his hourly moan,  
-He wishes and can wish for this alone!  
+He wishes and can wish for this [[Alone|alone]]!  
 Pierced, as with light from Heaven, before its gleams  
 (So the [[motifs/love|love]]-stricken visionary deems)  
 Disease would vanish, like a [[motifs/summer|summer]] shower,   25  
@@ -1161,7 +1161,7 @@ Such strength that he would bless his pains and live.
 
 
 
-<span class="atom-split" data-atom="245_reason_for_loves_blindness" data-title="REASON FOR LOVE’S BLINDNESS" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/eyes_sight,concept/love_romantic,concept/appearance_vs_reality,concept/truth,form/epigram,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="245_reason_for_loves_blindness" data-title="REASON FOR LOVE’S BLINDNESS" data-chapter="" data-kind="intro"></span>
 
 
 I have heard of reasons manifold  
@@ -1177,7 +1177,7 @@ He seeth with the heart.
 
 
 
-<span class="atom-split" data-atom="266_first_advent_of_love" data-title="FIRST ADVENT OF LOVE" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/wind,concept/love_romantic,concept/innocence_and_experience,form/lyric,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="266_first_advent_of_love" data-title="FIRST ADVENT OF LOVE" data-chapter="" data-kind="intro"></span>
 
 
 O fair is [[motifs/love|Love]]’s first [[concepts/hope|hope]] to gentle mind!  
@@ -1191,7 +1191,7 @@ Meets it with brow uplift, and stays his reaping.
 
 
 
-<span class="atom-split" data-atom="272_constancy_to_an_ideal_object" data-title="CONSTANCY TO AN IDEAL OBJECT" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/storm,concept/imagination,concept/unrequited_love,concept/transience,concept/exile,concept/self_and_soul,concept/disillusionment,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="272_constancy_to_an_ideal_object" data-title="CONSTANCY TO AN IDEAL OBJECT" data-chapter="" data-kind="intro"></span>
 
 
 Since all that beat about in [[concepts/nature|Nature]]’s range,  
@@ -1231,7 +1231,7 @@ Nor knows he makes the [[archetypes/shadow|shadow]], he pursues!
 
 
 
-<span class="atom-split" data-atom="280_to_mary_pridham" data-title="TO MARY PRIDHAM" data-chapter="" data-kind="intro" data-tags="concept/love_romantic,concept/marriage_and_fidelity,concept/joy,concept/friendship,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="280_to_mary_pridham" data-title="TO MARY PRIDHAM" data-chapter="" data-kind="intro"></span>
 
 
 AFTERWARDS MRS. DERWENT COLERIDGE  
@@ -1253,7 +1253,7 @@ S. T. COLERIDGE.
 
 
 
-<span class="atom-split" data-atom="281_alice_du_clos_or_the_forked_tongue" data-title="ALICE DU CLOS OR THE FORKED TONGUE" data-chapter="" data-kind="intro" data-tags="archetype/innocent,archetype/villain,motif/blood,motif/dawn,motif/swords_weapons,motif/horse,concept/deception,concept/jealousy,concept/innocence_and_experience,form/ballad,form/narrative_poem,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="281_alice_du_clos_or_the_forked_tongue" data-title="ALICE DU CLOS OR THE FORKED TONGUE" data-chapter="" data-kind="intro"></span>
 
 
 A BALLAD  
@@ -1445,8 +1445,8 @@ That regal front! those cheeks aglow!
 Thou needed’st but the crescent sheen,  
 A quiver’d Dian to have been,   185  
 Thou lovely [[archetypes/child|child]] of old Du Clos!  
-Dark as a dream Lord Julian stood,  
-Swift as a dream, from forth the wood,  
+Dark as [[A Dream|a dream]] Lord Julian stood,  
+Swift as [[A Dream|a dream]], from forth the wood,  
 Sprang on the plighted Maid!  
 With fatal aim, and frantic force,    190  
 The shaft was hurl’d! — a lifeless corse,  
@@ -1457,7 +1457,7 @@ Lies bleeding on the glade.
 
 
 
-<span class="atom-split" data-atom="282_loves_burial-place" data-title="LOVE’S BURIAL-PLACE" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/unrequited_love,concept/transience,concept/melancholy,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="282_loves_burial-place" data-title="LOVE’S BURIAL-PLACE" data-chapter="" data-kind="intro"></span>
 
 
 Lady. If [[motifs/love|Love]] be dead —  
@@ -1476,7 +1476,7 @@ And died at length of a Decline.’
 
 
 
-<span class="atom-split" data-atom="291_love_and_friendship_opposite" data-title="LOVE AND FRIENDSHIP OPPOSITE" data-chapter="" data-kind="intro" data-tags="archetype/lover,concept/love_romantic,concept/friendship,concept/unrequited_love,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="291_love_and_friendship_opposite" data-title="LOVE AND FRIENDSHIP OPPOSITE" data-chapter="" data-kind="intro"></span>
 
 
 Her attachment may differ from yours in degree,  
@@ -1492,7 +1492,7 @@ You must lower down your state to hers.
 
 
 
-<span class="atom-split" data-atom="292_not_at_home" data-title="NOT AT HOME" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/sleep,concept/love_romantic,concept/jealousy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="292_not_at_home" data-title="NOT AT HOME" data-chapter="" data-kind="intro"></span>
 
 
 That [[concepts/jealousy|Jealousy]] may rule a mind  
@@ -1502,7 +1502,7 @@ I know; but ne’er expect to find
 She has a strange cast in her ee,   5  
 A swart sour-visaged maid —  
 But yet [[motifs/love|Love]]’s own twin-sister she  
-His house-mate and his shade.  
+His [[house]]-mate and his shade.  
 Ask for her and she’ll be denied: —  
 What then? they only mean   10  
 Their mistress has lain down to [[motifs/sleep|sleep]],  
@@ -1512,7 +1512,7 @@ And can’t just then be seen.
 
 
 
-<span class="atom-split" data-atom="356_sentimental" data-title="SENTIMENTAL" data-chapter="" data-kind="intro" data-tags="motif/rose,concept/satire_of_society,concept/love_romantic,form/parody,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="356_sentimental" data-title="SENTIMENTAL" data-chapter="" data-kind="intro"></span>
 
 
 The [[motifs/rose|rose]] that blushes like the morn,  
@@ -1535,7 +1535,7 @@ collected in P. and D. W., 1877, ii. 373.
 
 
 
-<span class="atom-split" data-atom="358_the_alternative" data-title="THE ALTERNATIVE" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,concept/unrequited_love,concept/love_romantic,concept/satire_of_society,form/epigram,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="358_the_alternative" data-title="THE ALTERNATIVE" data-chapter="" data-kind="intro"></span>
 
 
 This way or that, ye Powers above me!  
@@ -1554,7 +1554,7 @@ collected in 1893.
 
 
 
-<span class="atom-split" data-atom="423_ben_jonson_a_nymphs_passion" data-title="BEN JONSON: A NYMPH’S PASSION" data-chapter="" data-kind="intro" data-tags="motif/love,motif/eyes_sight,motif/flowers,concept/love_romantic,concept/jealousy,form/lyric,form/song,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="423_ben_jonson_a_nymphs_passion" data-title="BEN JONSON: A NYMPH’S PASSION" data-chapter="" data-kind="intro"></span>
 
 
 I [[motifs/love|love]], and he loves me again,  

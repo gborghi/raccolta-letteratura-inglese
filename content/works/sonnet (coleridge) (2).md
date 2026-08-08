@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/combat-strife|Combat Strife]]
-**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]]
+**Archetypes:** Femme Fatale
 **Motifs:** [[motifs/fire|Fire]]
 **Themes & Concepts:** [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]

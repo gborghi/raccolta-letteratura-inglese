@@ -39,7 +39,7 @@ o alle sue presunte virtù.
 Questo è di gran lunga il più pericoloso e perfino suicida trucco
 dei due; ma la sua [[concepts/nature|natura]] richiede qualche spiegazione.
 Il primo metodo, comune o convenzionale, è almeno abbastanza semplice.
-Il capitalista dice al comunista: "Non entrerai nella mia casa,
+Il capitalista dice al comunista: "Non entrerai nella mia [[house|casa]],
 perché so che la daresti alle fiamme; non parlerai alla mia famiglia,
 perché so che la faresti saltare in aria; sei un volgare ladro e
 assassino, e io sono una persona altamente rispettabile e morale; e non come
@@ -83,7 +83,7 @@ rispettabilità convenzionale; al contrario, è solo l'uomo
 che possiede un po' di proprietà e di riservatezza che può vivere liberamente la propria vita.
 Dall'altro, non è una mera licenza di commerciare, e ancor meno
 una mera licenza di truffare; al contrario, tutto il senso
-della proprietà è che in essa soltanto può nutrirsi naturalmente
+della proprietà è che in essa [[Alone|soltanto]] può nutrirsi naturalmente
 il sentimento dell'[[concepts/honour|onore]].  Servirebbe un certo spazio per esporlo
 qui, e potrebbe volerci un po' di [[motifs/time|tempo]] per esporlo al comunista.
 Ma il comunista ascolterebbe almeno più a lungo di quanto ascolterebbe
@@ -117,7 +117,7 @@ or his supposed virtues.
 This is very much the more dangerous and even suicidal trick
 of the two; but its [[concepts/nature|nature]] needs a little explanation.
 The first common or conventional method is at least simple enough.
-The Capitalist says to the Communist, "You shall not enter my house,
+The Capitalist says to the Communist, "You shall not enter my [[house]],
 for I know you would burt it down; you shall not speak to my family,
 for I know you would blow them up; you are a common thief and
 murderer and I am a highly respectable and moral person; and not as
@@ -161,7 +161,7 @@ a conventional respectability; on the contrary, it is only the man
 with some property and privacy who can live his own life freely.
 On the other hand, it is not a mere licence to trade, still less
 a mere licence to cheat; on the contrary, the whole point
-of property is that in that alone can be naturally nourished
+of property is that in that [[Alone|alone]] can be naturally nourished
 the sentiment of [[concepts/honour|honour]].  It would need some space to expound it
 here and might take some [[motifs/time|time]] to expound it to the Communist.
 But the Communist would listen at least longer than he would
@@ -193,7 +193,7 @@ o alle sue presunte virtù.
 Questo è di gran lunga il più pericoloso e perfino suicida trucco
 dei due; ma la sua [[concepts/nature|natura]] richiede qualche spiegazione.
 Il primo metodo, comune o convenzionale, è almeno abbastanza semplice.
-Il capitalista dice al comunista: "Non entrerai nella mia casa,
+Il capitalista dice al comunista: "Non entrerai nella mia [[house|casa]],
 perché so che la daresti alle fiamme; non parlerai alla mia famiglia,
 perché so che la faresti saltare in aria; sei un volgare ladro e
 assassino, e io sono una persona altamente rispettabile e morale; e non come
@@ -237,7 +237,7 @@ rispettabilità convenzionale; al contrario, è solo l'uomo
 che possiede un po' di proprietà e di riservatezza che può vivere liberamente la propria vita.
 Dall'altro, non è una mera licenza di commerciare, e ancor meno
 una mera licenza di truffare; al contrario, tutto il senso
-della proprietà è che in essa soltanto può nutrirsi naturalmente
+della proprietà è che in essa [[Alone|soltanto]] può nutrirsi naturalmente
 il sentimento dell'[[concepts/honour|onore]].  Servirebbe un certo spazio per esporlo
 qui, e potrebbe volerci un po' di [[motifs/time|tempo]] per esporlo al comunista.
 Ma il comunista ascolterebbe almeno più a lungo di quanto ascolterebbe

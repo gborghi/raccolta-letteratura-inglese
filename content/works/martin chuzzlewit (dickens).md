@@ -57,13 +57,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/trickster|Trickster]], [[archetypes/self-made-man|Self-Made Man]], [[archetypes/fool|Fool]]
+**Archetypes:** Villain, Trickster, Self-Made Man, Fool
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/blood|Blood]], [[motifs/journey|Journey]], [[motifs/inn-tavern|Inn Tavern]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/pride|Pride]], [[concepts/ambition|Ambition]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/greed|Greed]], [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/nature-vs-civilization|Nature vs Civilization]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]], [[forms/bildungsroman|Bildungsroman]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/martin-chuzzlewit|Martin Chuzzlewit]], [[characters/seth-pecksniff|Seth Pecksniff]], [[characters/tom-pinch|Tom Pinch]], [[characters/jonas-chuzzlewit|Jonas Chuzzlewit]], [[characters/mark-tapley|Mark Tapley]], [[characters/sairey-gamp|Sairey Gamp]], [[characters/mary-graham|Mary Graham]], [[characters/old-martin-chuzzlewit|Old Martin Chuzzlewit]], [[characters/montague-tigg|Montague Tigg]]
+**Characters:** Martin Chuzzlewit, Seth Pecksniff, Tom Pinch, Jonas Chuzzlewit, Mark Tapley, Sairey Gamp, Mary Graham, Old Martin Chuzzlewit, Montague Tigg
 
 ## Testo integrale / Full text
 

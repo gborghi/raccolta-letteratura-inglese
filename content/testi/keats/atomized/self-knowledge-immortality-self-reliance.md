@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/self-knowledge-immortality-self-reliance" data-author="Keats" data-workhref="works/self-knowledge-·-immortality-·-self-reliance-(keats)"></div>
 
 
-<span class="atom-split" data-atom="033_ode_on_a_grecian_urn" data-title="ODE ON A GRECIAN URN" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/silence,concept/beauty_and_truth,concept/immortality_of_art,concept/transience,concept/beauty,concept/truth,concept/love_romantic,concept/paradox,form/ode,histref/classical_antiquity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="033_ode_on_a_grecian_urn" data-title="ODE ON A GRECIAN URN" data-chapter="" data-kind="intro"></span>
 
 
 Thou still unravish’d bride of quietness,  
@@ -30,7 +30,7 @@ Are sweeter; therefore, ye soft pipes, play on;
 Not to the sensual ear, but, more endear’d,  
 Pipe to the spirit ditties of no tone:  
 Fair youth, beneath the trees, thou canst not leave  
-Thy song, nor ever can those trees be bare;  
+Thy [[Song|song]], nor ever can those trees be bare;  
 Bold [[archetypes/lover|Lover]], never, never canst thou kiss,  
 Though winning near the goal--yet, do not grieve;  
 She cannot fade, though thou hast not thy bliss,  
@@ -39,7 +39,7 @@ For ever wilt thou [[motifs/love|love]], and she be fair!  20
 Ah, happy, happy boughs! that cannot shed  
 Your [[motifs/leaves|leaves]], nor ever bid the [[motifs/spring|Spring]] adieu;  
 And, happy melodist, unwearied,  
-For ever piping songs for ever new;  
+For ever piping [[songs]] for ever new;  
 More happy [[motifs/love|love]]! more happy, happy [[motifs/love|love]]!  
 For ever warm and still to be enjoy’d,  
 For ever panting, and for ever young;  
@@ -62,7 +62,7 @@ O Attic shape! Fair attitude! with brede
 Of marble men and maidens overwrought,  
 With forest branches and the trodden weed;  
 Thou, silent form, dost tease us out of thought  
-As doth [[concepts/eternity|eternity]]: Cold Pastoral!  
+As doth [[concepts/eternity|eternity]]: Cold [[Pastoral]]!  
 When old age shall this generation waste,  
 Thou shalt remain, in midst of other woe  
 Than ours, a friend to man, to whom thou say’st,  
@@ -74,7 +74,7 @@ The original manuscript
 
 
 
-<span class="atom-split" data-atom="036_ode" data-title="ODE" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/music_and_song,concept/immortality,form/ode,histref/classical_antiquity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="036_ode" data-title="ODE" data-chapter="" data-kind="intro"></span>
 
 
 Bards of Passion and of Mirth,  
@@ -123,7 +123,7 @@ Ye have souls in heaven too,
 
 
 
-<span class="atom-split" data-atom="048_ode_to_apollo" data-title="Ode to Apollo" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,topos/poet_as_prophet,motif/music_and_song,motif/fire,concept/immortality_of_art,form/ode,histref/greek_mythology,histref/classical_antiquity,character/apollo,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="048_ode_to_apollo" data-title="Ode to Apollo" data-chapter="" data-kind="intro"></span>
 
 
 In thy western halls of gold  
@@ -175,7 +175,7 @@ Then o’er the strings his fingers gently move,  40
 And melt the [[motifs/soul|soul]] to pity and to [[motifs/love|love]].  
 
 But when Thou joinest with the Nine,  
-And all the powers of song combine,  
+And all the powers of [[Song|song]] combine,  
 We listen here on earth:  
 The dying tones that fill the air,  
 And charm the ear of evening fair,  
@@ -184,7 +184,7 @@ From thee, great God of Bards, receive their heavenly birth.
 
 
 
-<span class="atom-split" data-atom="053_sonnet_as_from_the_darkening_gloom_a_silver_dove" data-title="Sonnet: As from the darkening gloom a silver dove" data-chapter="" data-kind="intro" data-tags="motif/death,motif/birds,motif/light_and_dark,concept/immortality,concept/faith,concept/self_and_soul,form/sonnet,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="053_sonnet_as_from_the_darkening_gloom_a_silver_dove" data-title="Sonnet: As from the darkening gloom a silver dove" data-chapter="" data-kind="intro"></span>
 
 
 As from the darkening gloom a silver dove  
@@ -206,7 +206,7 @@ Wherefore does any grief our joy impair?
 
 
 
-<span class="atom-split" data-atom="057_sonnet_written_in_disgust_of_vulgar_superstition" data-title="Sonnet Written in Disgust of Vulgar Superstition" data-chapter="" data-kind="intro" data-tags="motif/bells,motif/the_grave,motif/flowers,concept/faith_and_doubt,concept/satire_of_society,concept/transience,form/sonnet,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="057_sonnet_written_in_disgust_of_vulgar_superstition" data-title="Sonnet Written in Disgust of Vulgar Superstition" data-chapter="" data-kind="intro"></span>
 
 
 The church [[motifs/bells|bells]] toll a [[concepts/melancholy|melancholy]] round,  
@@ -228,7 +228,7 @@ And many glories of immortal stamp.
 
 
 
-<span class="atom-split" data-atom="073_lines_on_seeing_a_lock_of_miltons_hair" data-title="Lines On Seeing a Lock of Milton’s Hair" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/music_and_song,motif/stars,concept/immortality_of_art,concept/ambition,concept/beauty,form/ode,histref/the_renaissance,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="073_lines_on_seeing_a_lock_of_miltons_hair" data-title="Lines On Seeing a Lock of Milton’s Hair" data-chapter="" data-kind="intro"></span>
 
 
 Chief of organic numbers!  
@@ -265,7 +265,7 @@ Hymning and harmony
 Of thee, and of thy works, and of thy life;  
 But vain is now the burning and the strife,  
 Pangs are in vain, until I grow high-rife  
-With old Philosophy,  
+With old [[philosophy|Philosophy]],  
 And mad with glimpses of futurity!  
 
 For many years my offering must be hush’d;  
@@ -282,7 +282,7 @@ I thought I had beheld it from the flood.
 
 
 
-<span class="atom-split" data-atom="074_sonnet_on_sitting_down_to_read_king_lear_once_again" data-title="Sonnet on Sitting Down to Read King Lear Once Again" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/fire,motif/the_book,motif/birds,concept/imagination,concept/grief_and_loss,form/sonnet,histref/greek_mythology,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="074_sonnet_on_sitting_down_to_read_king_lear_once_again" data-title="Sonnet on Sitting Down to Read King Lear Once Again" data-chapter="" data-kind="intro"></span>
 
 
 O golden tongued [[works/romance-(poe)|Romance]], with serene lute!  
@@ -304,7 +304,7 @@ Give me new Phoenix wings’ to fly at my [[motifs/desire|desire]].
 
 
 
-<span class="atom-split" data-atom="100_a_song_about_myself" data-title="A Song About Myself" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/childhood,motif/the_journey,concept/childhood_and_growth,concept/wonder_and_gratitude,form/song,setting/scotland,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="100_a_song_about_myself" data-title="A Song About Myself" data-chapter="" data-kind="intro"></span>
 
 
 From a Letter to Fanny Keats  
@@ -418,7 +418,7 @@ He ran away to Scotland
     Was as hard,  
     That a yard  
     Was as long,  
-    That a song  
+    That a [[Song|song]]  
     Was as merry,  
     That a cherry  
     Was as red,  
@@ -438,7 +438,7 @@ He ran away to Scotland
 
 
 
-<span class="atom-split" data-atom="108_sonnet_written_upon_the_top_of_ben_nevis" data-title="Sonnet Written upon the Top of Ben Nevis" data-chapter="" data-kind="intro" data-tags="motif/fog_and_smoke,concept/the_sublime,concept/doubt,concept/self_and_soul,form/sonnet,setting/scotland,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="108_sonnet_written_upon_the_top_of_ben_nevis" data-title="Sonnet Written upon the Top of Ben Nevis" data-chapter="" data-kind="intro"></span>
 
 
 Read me a lesson, Muse, and speak it loud  
@@ -460,7 +460,7 @@ But in the world of thought and mental might!
 
 
 
-<span class="atom-split" data-atom="114_the_eve_of_saint_mark" data-title="The Eve of Saint Mark" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/bells,motif/the_supernatural,concept/faith,concept/martyrdom,form/narrative_poem,histref/the_bible,setting/medieval_england,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="114_the_eve_of_saint_mark" data-title="The Eve of Saint Mark" data-chapter="" data-kind="intro"></span>
 
 
 Upon a Sabbath-day it fell;  
@@ -487,7 +487,7 @@ Was fill’d with patient folk and slow,
 With whispers hush, and shuffling feet,  
 While play’d the organ loud and sweet.  
 
-The bells had ceas’d, the prayers begun.  
+[[The Bells|The bells]] had ceas’d, the prayers begun.  
 And Bertha had not yet half done  
 A curious volume, patch’d and torn,  
 That all day long, from earliest mom,  

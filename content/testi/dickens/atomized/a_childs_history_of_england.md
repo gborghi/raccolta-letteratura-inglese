@@ -19,6 +19,11 @@ David Price, email ccx074@pglaf.org
 
 
 
+
+
+
+
+
 <span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_01" data-title="A Child's History of England — The Mudfog And Other Sketches (part 1)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/grave,motif/hill,motif/lion,motif/night,motif/river,motif/silence,motif/stars,motif/summer,motif/time,motif/water,motif/well,motif/window,motif/winter,concept/beauty,concept/body,concept/history,concept/truth,form/history"></span>
 
 
@@ -112,10 +117,10 @@ Among this knot of sage and learned men, no one was so eminently
 distinguished, during many years, for the quiet modesty of his appearance
 and demeanour, as Nicholas Tulrumble, the [[motifs/well|well]]-known coal-dealer.
 However exciting the subject of discussion, however animated the tone of
-the debate, or however warm the personalities exchanged, (and even in
+the [[debate]], or however warm the personalities exchanged, (and even in
 Mudfog we get personal sometimes,) Nicholas Tulrumble was always the
 same.  To say [[concepts/truth|truth]], Nicholas, being an industrious man, and always up
-betimes, was apt to fall asleep when a debate began, and to remain asleep
+betimes, was apt to fall asleep when a [[debate]] began, and to remain asleep
 till it was over, when he would wake up very much refreshed, and give his
 vote with the greatest complacency.  The fact was, that Nicholas
 Tulrumble, knowing that everybody there had made up his mind beforehand,
@@ -130,7 +135,7 @@ life in a wooden tenement of four feet square, with a capital of two and
 ninepence, and a stock in trade of three bushels and a-half of coals,
 exclusive of the large lump which hung, by way of sign-board, outside.
 Then he enlarged the shed, and kept a truck; then he left the shed, and
-the truck too, and started a donkey and a Mrs. Tulrumble; then he moved
+the truck too, and started a [[donkey]] and a Mrs. Tulrumble; then he moved
 again and set up a cart; the cart was soon afterwards exchanged for a
 waggon; and so he went on like his great predecessor Whittington—only
 without a cat for a partner—increasing in wealth and fame, until at last
@@ -146,7 +151,7 @@ quarter of a mile distant from the town of Mudfog.
 
 
 About this [[motifs/time|time]], it began to be murmured in Mudfog that Nicholas
-Tulrumble was growing vain and haughty; that prosperity and success had
+Tulrumble was growing vain and haughty; that prosperity and [[success]] had
 corrupted the simplicity of his manners, and tainted the natural goodness
 of his heart; in short, that he was setting up for a public character,
 and a great gentleman, and affected to look down upon his old companions
@@ -348,7 +353,7 @@ Twigger.
 ‘[[motifs/well|Well]], Twigger!’ said Nicholas Tulrumble, condescendingly.
 
 There was a [[motifs/time|time]] when Twigger would have replied, ‘[[motifs/well|Well]], Nick!’ but that
-was in the days of the truck, and a couple of years before the donkey;
+was in the days of the truck, and a couple of years before the [[donkey]];
 so, he only bowed.
 
 ‘I want you to go into training, Twigger,’ said Mr. Tulrumble.
@@ -494,12 +499,12 @@ not the least intention of dilating upon, notwithstanding.
 
 Oh! it was a grand and beautiful sight to behold a corporation in glass
 coaches, provided at the sole cost and charge of Nicholas Tulrumble,
-coming rolling along, like a funeral out of mourning, and to watch the
+coming [[rolling]] along, like a funeral out of mourning, and to watch the
 attempts the corporation made to look great and solemn, when Nicholas
 Tulrumble himself, in the four-[[motifs/wheel|wheel]] chaise, with the tall postilion,
 rolled out after them, with Mr. Jennings on one side to look like a
 chaplain, and a supernumerary on the other, with an old life-guardsman’s
-sabre, to imitate the sword-bearer; and to see the [[motifs/tears|tears]] rolling down the
+sabre, to imitate the [[Sword|sword]]-bearer; and to see the [[motifs/tears|tears]] [[rolling]] down the
 faces of the mob as they screamed with merriment.  This was beautiful!
 and so was the appearance of Mrs. Tulrumble and son, as they bowed with
 [[motifs/grave|grave]] dignity out of their coach-[[motifs/window|window]] to all the dirty faces that were
@@ -531,13 +536,13 @@ kitchen of Mudfog Hall for the purpose of indulging the servants with a
 private view of the curiosity that was to burst upon the town; and,
 somehow or other, the footman was so companionable, and the housemaid so
 kind, and the cook so friendly, that he could not resist the offer of the
-first-mentioned to sit down and take something—just to drink success to
+first-mentioned to sit down and take something—just to drink [[success]] to
 master in.
 
 So, down Ned Twigger sat himself in his brass livery on the top of the
 kitchen-table; and in a mug of something strong, paid for by the
 unconscious Nicholas Tulrumble, and provided by the companionable
-footman, drank success to the Mayor and his procession; and, as Ned laid
+footman, drank [[success]] to the Mayor and his procession; and, as Ned laid
 by his helmet to imbibe the something strong, the companionable footman
 put it on his own head, to the immeasurable and unrecordable delight of
 the cook and housemaid.  The companionable footman was very facetious to
@@ -556,7 +561,7 @@ most decidedly and unquestionably with laughter.
 ‘What!’ said Mr. Tulrumble, starting up in the four-[[motifs/wheel|wheel]] chaise.
 ‘Laughing?  If they laugh at a man in real brass armour, they’d laugh
 when their own fathers were dying.  Why doesn’t he go into his place, Mr.
-Jennings?  What’s he rolling down towards us for? he has no business
+Jennings?  What’s he [[rolling]] down towards us for? he has no business
 here!’
 
 ‘I am afraid, sir—’ faltered Mr. Jennings.
@@ -584,7 +589,7 @@ progressing.  This was bad enough, but, as if fate and fortune had
 conspired against Nicholas Tulrumble, Mr. Twigger, not having been
 penitent for a good calendar month, took it into his head to be most
 especially and particularly sentimental, just when his repentance could
-have been most conveniently dispensed with.  Immense [[motifs/tears|tears]] were rolling
+have been most conveniently dispensed with.  Immense [[motifs/tears|tears]] were [[rolling]]
 down his cheeks, and he was vainly endeavouring to conceal his grief by
 applying to his eyes a blue cotton pocket-handkerchief with white
 spots,—an article not strictly in keeping with a suit of armour some
@@ -696,18 +701,18 @@ corporation gave him.  There was only one man in the party who was
 thoroughly awake; and he was insolent, and called him Nick.  Nick!  What
 would be the consequence, thought Nicholas, of anybody presuming to call
 the [[characters/lord-mayor|Lord Mayor]] of [[settings/london|London]] ‘Nick!’  He should like to know what the
-sword-bearer would say to that; or the recorder, or the toast-master, or
+[[Sword|sword]]-bearer would say to that; or the recorder, or the toast-master, or
 any other of the great officers of the [[motifs/city|city]].  They’d nick him.
 
 But these were not the worst of Nicholas Tulrumble’s doings.  If they had
 been, he might have remained a Mayor to this day, and have talked till he
 lost his voice.  He contracted a relish for statistics, and got
-philosophical; and the statistics and the philosophy together, led him
+philosophical; and the statistics and the [[philosophy]] together, led him
 into an act which increased his unpopularity and hastened his downfall.
 
 At the very end of the Mudfog High-street, and abutting on the
 [[motifs/river|river]]-side, stands the Jolly Boatmen, an old-fashioned low-roofed,
-bay-windowed house, with a bar, kitchen, and tap-room all in one, and a
+bay-windowed [[house]], with a bar, kitchen, and tap-room all in one, and a
 large fireplace with a kettle to correspond, round which the working men
 have congregated [[motifs/time|time]] out of mind on a [[motifs/winter|winter]]’s [[motifs/night|night]], refreshed by
 draughts of good strong beer, and cheered by the sounds of a fiddle and
@@ -734,12 +739,12 @@ population.  Then, he related how shocked he had been, to see barrels of
 beer sliding down into the cellar of the Jolly Boatmen week after week;
 and how he had sat at a [[motifs/window|window]] opposite the Jolly Boatmen for two days
 together, to count the people who went in for beer between the hours of
-twelve and one o’[[motifs/clock|clock]] alone—which, by-the-bye, was the [[motifs/time|time]] at which the
+twelve and one o’[[motifs/clock|clock]] [[Alone|alone]]—which, by-the-bye, was the [[motifs/time|time]] at which the
 great majority of the Mudfog people dined.  Then, he went on to state,
 how the number of people who came out with beer-jugs, averaged twenty-one
 in five minutes, which, being multiplied by twelve, gave two hundred and
 fifty-two people with beer-jugs in an hour, and multiplied again by
-fifteen (the number of hours during which the house was open daily)
+fifteen (the number of hours during which the [[house]] was open daily)
 yielded three thousand seven hundred and eighty people with beer-jugs per
 day, or twenty-six thousand four hundred and sixty people with beer-jugs,
 per week.  Then he proceeded to show that a tambourine and moral
@@ -784,7 +789,7 @@ old chair, again.’
 The old fellows opened their eyes, and three or four more old fellows
 opened the door, to whom Nicholas, with [[motifs/tears|tears]] in his eyes, thrust out his
 hand too, and told the same story.  They raised a shout of joy, that made
-the bells in the ancient church-tower vibrate again, and wheeling the old
+[[The Bells|the bells]] in the ancient church-tower vibrate again, and wheeling the old
 chair into the warm corner, thrust old Nicholas down into it, and ordered
 in the very largest-sized bowl of hot punch, with an unlimited number of
 pipes, directly.
@@ -877,7 +882,7 @@ point, you may depend upon receiving it.’
 
 I HAVE just returned from a personal interview with the landlord of the
 Pig and Tinder-box.  He speaks confidently of the probability of
-Professors Snore, Doze, and Wheezy taking up their residence at his house
+Professors Snore, Doze, and Wheezy taking up their residence at his [[house]]
 during the sitting of the association, but denies that the beds have been
 yet engaged; in which representation he is confirmed by the chambermaid—a
 girl of artless manners, and interesting appearance.  The boots denies
@@ -894,7 +899,7 @@ Pray heaven it may prove so!’
 
 ‘_Tuesday_, _noon_.
 
-‘AT an early hour this morning the bells of all the churches struck seven
+‘AT an early hour this morning [[The Bells|the bells]] of all the churches struck seven
 o’[[motifs/clock|clock]]; the effect of which, in the present lively state of the town,
 was extremely singular.  While I was at breakfast, a yellow gig, drawn by
 a dark grey [[motifs/horse|horse]], with a patch of white over his right eyelid, proceeded
@@ -920,7 +925,7 @@ engaged apartments at the Original Pig.  This intelligence is
 _exclusive_; and I leave you and your readers to draw their own
 inferences from it.  Why Professor Wheezy, of all people in the world,
 should repair to the Original Pig in preference to the Pig and
-Tinder-box, it is not easy to conceive.  The professor is a man who
+Tinder-box, it is not easy to conceive.  [[The Professor|The professor]] is a man who
 should be above all such petty feelings.  Some people here openly impute
 treachery, and a distinct breach of [[concepts/faith|faith]] to Professors Snore and Doze;
 while others, again, are disposed to acquit them of any culpability in
@@ -1039,7 +1044,7 @@ that the expressive features of Professor Muff were much scratched and
 lacerated by the injured lady; and that Professor Nogo, besides
 sustaining several severe bites, has lost some handfuls of hair from the
 same cause.  It must be some consolation to these gentlemen to know that
-their ardent attachment to scientific pursuits has alone occasioned these
+their ardent attachment to scientific pursuits has [[Alone|alone]] occasioned these
 unpleasant consequences; for which the sympathy of a grateful country
 will sufficiently reward them.  The unfortunate lady remains at the Pig
 and Tinder-box, and up to this [[motifs/time|time]] is reported in a very precarious
@@ -1253,7 +1258,7 @@ themselves to honest labour.  This appeared to him, the only difficulty.
 
 ‘THE AUTHOR submitted that this difficulty was easily overcome, or rather
 that there was no difficulty at all in the case.  Obviously the course to
-be pursued, if Her Majesty’s government could be prevailed upon to take
+be pursued, if Her Majesty’s [[government]] could be prevailed upon to take
 up the plan, would be, to secure at a remunerative salary the individual
 to whom he had alluded as presiding over the exhibition in Regent-street
 at the period of his visit.  That gentleman would at once be able to put
@@ -1360,7 +1365,7 @@ must decline answering it.
 ‘SECTION B.—ANATOMY AND MEDICINE.
 
 
-COACH-HOUSE, PIG AND TINDER-BOX.
+COACH-[[house|HOUSE]], PIG AND TINDER-BOX.
 
 _President_—Dr. Toorell.  _Vice-Presidents_—Professors Muff and Nogo.
 
@@ -1417,7 +1422,7 @@ unobserved from the room, with that portion of the coats of the stomach
 upon which an exact model of the instrument was distinctly impressed,
 with which he hastened to a locksmith of doubtful character, who made a
 new key from the pattern so shown to him.  With this key the medical
-student entered the house of the deceased gentleman, and committed a
+student entered the [[house]] of the deceased gentleman, and committed a
 burglary to a large amount, for which he was subsequently tried and
 executed.
 
@@ -1459,7 +1464,7 @@ important discovery, and he hoped the [[characters/lord-mayor|Lord Mayor]] and [
 would patronize it immediately.
 
 ‘A Member begged to be informed whether it would be possible to
-administer—say, the twentieth part of a grain of bread and cheese to all
+administer—say, the twentieth part of a grain of bread and [[cheese]] to all
 grown-up paupers, and the fortieth part to children, with the same
 satisfying effect as their present allowance.
 
@@ -1513,7 +1518,7 @@ George of England or a respectable tallow-chandler, instantly replied,
 “Taint George of Ingling.”  Another, a little boy of eight years old, was
 found to be firmly impressed with a belief in the existence of dragons,
 and openly stated that it was his intention when he grew up, to rush
-forth sword in hand for the deliverance of captive princesses, and the
+forth [[Sword|sword]] in hand for the deliverance of captive princesses, and the
 promiscuous slaughter of giants.  Not one [[archetypes/child|child]] among the number
 interrogated had ever heard of Mungo Park,—some inquiring whether he was
 at all connected with the black man that swept the crossing; and others
@@ -1544,11 +1549,11 @@ immense and urgent necessity of storing the minds of children with
 nothing but facts and figures; which process the President very forcibly
 remarked, had made them (the section) the men they were.
 
-‘MR. SLUG then stated some curious calculations respecting the dogs’-meat
+‘MR. SLUG then stated some curious calculations respecting the [[dogs]]’-meat
 barrows of [[settings/london|London]].  He found that the total number of small carts and
-barrows engaged in dispensing provision to the cats and dogs of the
+barrows engaged in dispensing provision to the cats and [[dogs]] of the
 metropolis was, one thousand seven hundred and forty-three.  The average
-number of skewers delivered daily with the provender, by each dogs’-meat
+number of skewers delivered daily with the provender, by each [[dogs]]’-meat
 cart or barrow, was thirty-six.  Now, multiplying the number of skewers
 so delivered by the number of barrows, a total of sixty-two thousand
 seven hundred and forty-eight skewers daily would be obtained.  Allowing
@@ -1580,7 +1585,7 @@ in sitting upon boxes.
 ‘SECTION D.—MECHANICAL SCIENCE.
 
 
-COACH-HOUSE, ORIGINAL PIG.
+COACH-[[house|HOUSE]], ORIGINAL PIG.
 
 _President_—Mr. Carter.  _Vice-Presidents_—Mr. Truck and Mr. Waghorn.
 
@@ -1741,7 +1746,7 @@ indescribable.  But of such materials is our imperfect [[concepts/nature|nature]
 ‘I am happy to say that I am the first passenger on board, and shall thus
 be enabled to give you an account of all that happens in the order of its
 occurrence.  The chimney is smoking a good deal, and so are the crew; and
-the captain, I am informed, is very drunk in a little house upon deck,
+the captain, I am informed, is very drunk in a little [[house]] upon deck,
 something like a black turnpike.  I should infer from all I hear that he
 has got the steam up.
 
@@ -1786,7 +1791,7 @@ travelling carriage.’
 ‘THE passengers are pouring in every instant.  Four omnibuses full have
 just arrived upon the wharf, and all is bustle and activity.  The noise
 and confusion are very great.  Cloths are laid in the cabins, and the
-steward is placing blue plates—full of knobs of cheese at equal distances
+steward is placing blue plates—full of knobs of [[cheese]] at equal distances
 down the centre of the tables.  He drops a great many knobs; but, being
 used to it, picks them up again with great dexterity, and, after wiping
 them on his sleeve, throws them back into the plates.  He is a young man
@@ -1820,9 +1825,9 @@ necessary to agree upon, because, although the cabin is very comfortable,
 there is not room for more than one gentleman to be out of bed at a [[motifs/time|time]],
 and even he must take his boots off in the passage.
 
-‘As I anticipated, the knobs of cheese were provided for the passengers’
+‘As I anticipated, the knobs of [[cheese]] were provided for the passengers’
 supper, and are now in course of consumption.  Your readers will be
-surprised to hear that Professor Woodensconce has abstained from cheese
+surprised to hear that Professor Woodensconce has abstained from [[cheese]]
 for eight years, although he takes butter in considerable quantities.
 Professor Grime having lost several teeth, is unable, I observe, to eat
 his crusts without previously soaking them in his bottled porter.  How
@@ -1830,7 +1835,7 @@ interesting are these peculiarities!’
 
 ‘_Half-past eleven_.
 
-‘PROFESSORS Woodensconce and Grime, with a degree of good humour that
+‘PROFESSORS Woodensconce and Grime, with a degree of good [[Humour|humour]] that
 delights us all, have just arranged to toss for a bottle of mulled port.
 There has been some discussion whether the payment should be decided by
 the first toss or the best out of three.  Eventually the latter course
@@ -1884,7 +1889,7 @@ to this.’
 of a flickering lamp suspended from the ceiling; Professor Grime is lying
 on the opposite shelf on the broad of his back, with his mouth wide open.
 The scene is indescribably solemn.  The rippling of the tide, the noise
-of the sailors’ feet overhead, the gruff voices on the [[motifs/river|river]], the dogs on
+of the sailors’ feet overhead, the gruff voices on the [[motifs/river|river]], the [[dogs]] on
 the shore, the snoring of the passengers, and a constant creaking of
 every plank in the vessel, are the only sounds that meet the ear.  With
 these exceptions, all is profound [[motifs/silence|silence]].
@@ -2019,7 +2024,7 @@ inside and out with distinguished characters, comprising Mr.
 Muddlebranes, Mr. Drawley, Professor Muff, Mr. X. Misty, Mr. X. X. Misty,
 Mr. Purblind, Professor Rummun, The Honourable and Reverend Mr. Long
 Eers, Professor John Ketch, Sir William Joltered, Doctor Buffer, Mr.
-Smith (of [[settings/london|London]]), Mr. Brown (of Edinburgh), Sir Hookham Snivey, and
+[[smith|Smith]] (of [[settings/london|London]]), Mr. Brown (of Edinburgh), Sir Hookham Snivey, and
 Professor Pumpkinskull.  The ten last-named gentlemen were wet through,
 and looked extremely intelligent.’
 
@@ -2040,7 +2045,7 @@ ascertain the [[concepts/truth|truth]] from him.’
 
 ‘_Half-past six_.
 
-‘I ENGAGED a donkey-chaise shortly after writing the above, and proceeded
+‘I ENGAGED a [[donkey]]-chaise shortly after writing the above, and proceeded
 at a brisk trot in the direction of Sowster’s residence, passing through
 a beautiful expanse of country, with red brick buildings on either side,
 and stopping in the marketplace to observe the spot where Mr. Kwakley’s
@@ -2065,7 +2070,7 @@ regulation, and added with peculiar significance “Never wos sitch times!”
 ‘You will easily believe that this intelligence gave me considerable
 surprise, not wholly unmixed with anxiety, and that I lost no [[motifs/time|time]] in
 waiting on Professor Pumpkinskull, and stating the object of my visit.
-After a few moments’ reflection, the Professor, who, I am bound to say,
+After a few moments’ reflection, [[The Professor|the Professor]], who, I am bound to say,
 behaved with the utmost politeness, openly avowed (I mark the passage in
 italics) _that he had requested Sowster to attend on the Monday morning
 at the Boot-jack and Countenance_, _to keep off the boys_; _and that he
@@ -2074,7 +2079,7 @@ same object_, _at the Black Boy and Stomach-ache_!
 
 ‘Now I leave this unconstitutional proceeding to your comments and the
 consideration of your readers.  I have yet to learn that a beadle,
-without the precincts of a church, churchyard, or work-house, and acting
+without the precincts of a church, churchyard, or work-[[house]], and acting
 otherwise than under the express orders of churchwardens and overseers in
 council assembled, to enforce the law against people who come upon the
 parish, and other offenders, has any lawful authority whatever over the
@@ -2166,7 +2171,7 @@ truly intellectual amusements.
 attain this most desirable end?
 
 ‘THE AUTHOR submitted that it could be most fully and satisfactorily
-accomplished, if Her Majesty’s Government would cause to be brought over
+accomplished, if Her Majesty’s [[government|Government]] would cause to be brought over
 to England, and maintained at the public expense, and for the public
 amusement, such a number of bears as would enable every quarter of the
 town to be visited—say at least by three bears a week.  No difficulty
@@ -2225,11 +2230,11 @@ important question should be immediately submitted to the consideration
 of the council.
 
 ‘THE PRESIDENT wished to know whether any gentleman could inform the
-section what had become of the dancing-dogs?
+section what had become of the dancing-[[dogs]]?
 
 ‘A MEMBER replied, after some hesitation, that on the day after three
 glee-singers had been committed to [[motifs/prison|prison]] as criminals by a late most
-zealous police-magistrate of the metropolis, the dogs had abandoned their
+zealous police-magistrate of the metropolis, the [[dogs]] had abandoned their
 professional duties, and dispersed themselves in different quarters of
 the town to gain a livelihood by less dangerous means.  He was given to
 understand that since that period they had supported themselves by lying
@@ -2298,7 +2303,7 @@ stand in the way of such a great public improvement.
 swell mob persevered in their objection, nothing could be done.
 
 ‘PROFESSOR GRIME suggested, that surely, in that case, Her Majesty’s
-Government might be prevailed upon to take it up.
+[[government|Government]] might be prevailed upon to take it up.
 
 ‘MR. CRINKLES said, that if the objection were found to be insuperable he
 should apply to Parliament, which he thought could not fail to recognise
@@ -2318,7 +2323,7 @@ was, that a space of ground of not less than ten miles in length and four
 in breadth should be purchased by a new company, to be incorporated by
 Act of Parliament, and inclosed by a brick wall of not less than twelve
 feet in height.  He proposed that it should be laid out with highway
-roads, turnpikes, bridges, miniature villages, and every object that
+roads, [[turnpikes]], bridges, miniature villages, and every object that
 could conduce to the comfort and glory of Four-in-hand Clubs, so that
 they might be fairly presumed to require no drive beyond it.  This
 delightful retreat would be fitted up with most commodious and extensive
@@ -2460,7 +2465,7 @@ _President_—Dr. Soemup.  _Vice-Presidents_—Messrs. Pessell and Mortair.
 
 ‘DR. GRUMMIDGE stated to the section a most interesting case of
 monomania, and described the course of treatment he had pursued with
-perfect success.  The patient was a married lady in the middle rank of
+perfect [[success]].  The patient was a married lady in the middle rank of
 life, who, having seen another lady at an evening party in a full suit of
 pearls, was suddenly seized with a [[motifs/desire|desire]] to possess a similar equipment,
 although her husband’s finances were by no means equal to the necessary
@@ -2518,7 +2523,7 @@ gentleman had been sacrificed to the ignorance of the peasantry.
 ‘SECTION D.—STATISTICS.
 
 
-OUT-HOUSE, BLACK BOY AND STOMACH-ACHE.
+OUT-[[house|HOUSE]], BLACK BOY AND STOMACH-ACHE.
 
 _President_—Mr. Slug.  _Vice-Presidents_—Messrs. Noakes and Styles.
 
@@ -2677,7 +2682,7 @@ laughter, and express their merriment and admiration in rounds of
 applause.
 
 Is this like life?  Change the scene to any real street;—to the Stock
-Exchange, or the [[motifs/city|City]] banker’s; the merchant’s counting-house, or even
+Exchange, or the [[motifs/city|City]] banker’s; the merchant’s counting-[[house]], or even
 the tradesman’s shop.  See any one of these men fall,—the more suddenly,
 and the nearer the zenith of his [[concepts/pride|pride]] and riches, the better.  What a
 wild hallo is raised over his prostrate carcase by the shouting mob; how
@@ -2750,7 +2755,7 @@ them—more’s the pity!
 
 ‘I know who you mean,’ says some dirty-faced patron of Mr.
 Osbaldistone’s, laying down the Miscellany when he has got thus far, and
-bestowing upon vacancy a most knowing glance; ‘you mean C. J. Smith as
+bestowing upon vacancy a most knowing glance; ‘you mean C. J. [[smith|Smith]] as
 did Guy Fawkes, and George Barnwell at the [[motifs/garden|Garden]].’  The dirty-faced
 gentleman has hardly uttered the words, when he is interrupted by a young
 gentleman in no shirt-collar and a Petersham coat.  ‘No, no,’ says the
@@ -2770,7 +2775,7 @@ It is very [[motifs/well|well]] known to all playgoers and pantomime-seers, that
 scenes in which a theatrical clown is at the very height of his glory are
 those which are described in the play-bills as ‘Cheesemonger’s shop and
 Crockery warehouse,’ or ‘Tailor’s shop, and Mrs. Queertable’s
-boarding-house,’ or places bearing some such title, where the great fun
+boarding-[[house]],’ or places bearing some such title, where the great fun
 of the thing consists in the [[archetypes/hero|hero]]’s taking lodgings which he has not the
 slightest intention of paying for, or obtaining goods under false
 pretences, or abstracting the stock-in-trade of the respectable
@@ -2780,20 +2785,20 @@ possibly can, it only remaining to be observed that, the more extensive
 the swindling is, and the more barefaced the impudence of the swindler,
 the greater the rapture and ecstasy of the audience.  Now it is a most
 remarkable fact that precisely this sort of thing occurs in real life day
-after day, and nobody sees the humour of it.  Let us illustrate our
+after day, and nobody sees the [[Humour|humour]] of it.  Let us illustrate our
 position by detailing the plot of this portion of the pantomime—not of
 the theatre, but of life.
 
 The Honourable Captain Fitz-Whisker Fiercy, attended by his livery
 servant Do’em—a most respectable servant to look at, who has grown grey
 in the service of the captain’s family—views, treats for, and ultimately
-obtains possession of, the unfurnished house, such a number, such a
+obtains possession of, the unfurnished [[house]], such a number, such a
 street.  All the tradesmen in the neighbourhood are in agonies of
 competition for the captain’s custom; the captain is a good-natured,
 kind-hearted, easy man, and, to avoid being the cause of disappointment
 to any, he most handsomely gives orders to all.  Hampers of wine, baskets
 of provisions, cart-loads of furniture, boxes of jewellery, supplies of
-luxuries of the costliest description, flock to the house of the
+luxuries of the costliest description, flock to the [[house]] of the
 Honourable Captain Fitz-Whisker Fiercy, where they are received with the
 utmost readiness by the highly respectable Do’em; while the captain
 himself struts and swaggers about with that compound air of conscious
@@ -2820,7 +2825,7 @@ either.  Talk of Grimaldi, we say again!  Did Grimaldi, in his best days,
 ever do anything in this way equal to Da Costa?
 
 The mention of this latter justly celebrated clown reminds us of his last
-piece of humour, the fraudulently obtaining certain stamped acceptances
+piece of [[Humour|humour]], the fraudulently obtaining certain stamped acceptances
 from a young gentleman in the army.  We had scarcely laid down our pen to
 contemplate for a few moments this admirable actor’s performance of that
 exquisite practical joke, than a new branch of our subject flashed
@@ -2866,7 +2871,7 @@ property, generally speaking, of any such misdemeanours.  On a more
 mature consideration of the subject, we have arrived at the conclusion
 that the harlequins of life are just ordinary men, to be found in no
 particular walk or degree, on whom a certain station, or particular
-conjunction of circumstances, confers the magic wand.  And this brings us
+conjunction of circumstances, confers the [[Magic|magic]] wand.  And this brings us
 to a few words on the pantomime of public and political life, which we
 shall say at once, and then conclude—merely premising in this place that
 we decline any reference whatever to the columbine, being in no wise
@@ -2895,7 +2900,7 @@ gratuitously through the country when the theatre is closed, they reduce
 themselves to the level of mountebanks, and thereby tend to degrade the
 respectability of the profession.  Certainly Grimaldi never did this sort
 of thing; and though Brown, [[archetypes/king|King]], and Gibson have gone to the Surrey in
-vacation [[motifs/time|time]], and Mr. C. J. Smith has ruralised at Sadler’s Wells, we
+vacation [[motifs/time|time]], and Mr. C. J. [[smith|Smith]] has ruralised at Sadler’s Wells, we
 find no theatrical precedent for a general tumbling through the country,
 except in the gentleman, name unknown, who threw summersets on behalf of
 the late Mr. Richardson, and who is no authority either, because he had
@@ -2926,7 +2931,7 @@ disgusting than otherwise, except to the admirers of such things, with
 whom we confess we have no fellow-feeling.
 
 Strange tricks—very strange tricks—are also performed by the harlequin
-who holds for the [[motifs/time|time]] being the magic wand which we have just mentioned.
+who holds for the [[motifs/time|time]] being the [[Magic|magic]] wand which we have just mentioned.
 The mere waving it before a man’s eyes will dispossess his brains of all
 the notions previously stored there, and fill it with an entirely new set
 of ideas; one gentle tap on the back will alter the colour of a man’s
@@ -3022,18 +3027,18 @@ became as anxious to go, as we had previously been to stay away.
 We went early, and posted ourselves in an eligible part of the
 drawing-room, from whence we could [[concepts/hope|hope]] to obtain a full view of the
 interesting animal.  Two or three hours passed, the quadrilles began, the
-room filled; but no [[motifs/lion|lion]] appeared.  The lady of the house became
+room filled; but no [[motifs/lion|lion]] appeared.  The lady of the [[house]] became
 inconsolable,—for it is one of the peculiar privileges of these lions to
 make solemn appointments and never keep them,—when all of a sudden there
 came a tremendous [[topoi/double|double]] rap at the street-door, and the master of the
-house, after gliding out (unobserved as he flattered himself) to peep
+[[house]], after gliding out (unobserved as he flattered himself) to peep
 over the banisters, came into the room, rubbing his hands together with
 great glee, and cried out in a very important voice, ‘My dear, Mr. —
 (naming the [[motifs/lion|lion]]) has this moment arrived.’
 
 Upon this, all eyes were turned towards the door, and we observed several
 young ladies, who had been laughing and conversing previously with great
-gaiety and good humour, grow extremely quiet and sentimental; while some
+gaiety and good [[Humour|humour]], grow extremely quiet and sentimental; while some
 young gentlemen, who had been cutting great figures in the facetious and
 small-talk way, suddenly sank very obviously in the estimation of the
 company, and were looked upon with great coldness and indifference.  Even
@@ -3091,7 +3096,7 @@ announcement of supper; for if you wish to see a tame [[motifs/lion|lion]] under
 particularly favourable circumstances, feeding-[[motifs/time|time]] is the period of all
 others to pitch upon.  We were therefore very much delighted to observe a
 sensation among the guests, which we [[motifs/well|well]] knew how to interpret, and
-immediately afterwards to behold the [[motifs/lion|lion]] escorting the lady of the house
+immediately afterwards to behold the [[motifs/lion|lion]] escorting the lady of the [[house]]
 down-stairs.  We offered our arm to an elderly female of our
 acquaintance, who—dear old [[motifs/soul|soul]]!—is the very best person that ever lived,
 to lead down to any meal; for, be the room ever so small, or the party
@@ -3166,7 +3171,7 @@ THE ‘GENTLEMAN CONNECTED WITH THE PRESS’
 <span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_06" data-title="A Child's History of England — The Pantomime Of Life (part 6)" data-chapter="The Pantomime Of Life" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/fire,motif/summer,motif/time,motif/well,motif/winter,concept/fear,concept/history,concept/honour,concept/hope,concept/union,form/history"></span>
 
 
-IN the parlour of the Green Dragon, a public-house in the immediate
+IN the parlour of the Green Dragon, a public-[[house]] in the immediate
 neighbourhood of Westminster Bridge, everybody talks politics, every
 evening, the great political authority being Mr. Robert Bolton, an
 individual who defines himself as ‘a gentleman connected with the press,’
@@ -3329,18 +3334,18 @@ knife from the paternal grasp) up in his arms, carried him down-stairs,
 shoved him into a copper of boiling [[motifs/water|water]] among some linen, closed the
 lid, and jumped upon the top of it, in which position he was found with a
 ferocious countenance by the mother, who arrived in the [[concepts/melancholy|melancholy]]
-wash-house just as he had so settled himself.
+wash-[[house]] just as he had so settled himself.
 
 ‘“Where’s my boy?” shrieked the mother.
 
 ‘“In that copper, boiling,” coolly replied the benign father.
 
-‘Struck by the awful intelligence, the mother rushed from the house, and
+‘Struck by the awful intelligence, the mother rushed from the [[house]], and
 alarmed the neighbourhood.  The police entered a minute afterwards.  The
-father, having bolted the wash-house door, had bolted himself.  They
+father, having bolted the wash-[[house]] door, had bolted himself.  They
 dragged the lifeless [[concepts/body|body]] of the boiled baker from the cauldron, and,
 with a promptitude commendable in men of their station, they immediately
-carried it to the station-house.  Subsequently, the baker was apprehended
+carried it to the station-[[house]].  Subsequently, the baker was apprehended
 while seated on the top of a lamp-post in Parliament Street, lighting his
 pipe.’
 
@@ -3402,7 +3407,7 @@ little box in which he sits in ghastly mockery of his old condition with
 (when they travel at all) _inside_ and in a portable stable invented for
 the purpose,—he dismounted, I say, slowly and sadly, from his post, and
 looking mournfully about him as if in dismal recollection of the old
-roadside public-house the blazing [[motifs/fire|fire]]—the glass of foaming ale—the buxom
+roadside public-[[house]] the blazing [[motifs/fire|fire]]—the glass of foaming ale—the buxom
 handmaid and admiring hangers-on of tap-room and stable, all honoured by
 his notice; and, retiring a little apart, stood leaning against a
 signal-post, surveying the engine with a look of combined affliction and
@@ -3428,11 +3433,11 @@ days to come, when mail-coach guards shall no longer be judges of
 given place to coke.  ‘In those dawning times,’ thought I,
 ‘exhibition-rooms shall teem with portraits of Her Majesty’s favourite
 engine, with boilers after [[concepts/nature|Nature]] by future Landseers.  Some Amburgh, yet
-unborn, shall break wild horses by his magic power; and in the dress of a
+[[unborn]], shall break wild horses by his [[Magic|magic]] power; and in the dress of a
 mail-coach guard exhibit his TRAINED [[motifs/animals|ANIMALS]] in a mock mail-coach.  Then,
 shall wondering crowds observe how that, with the exception of his whip,
 it is all his eye; and crowned heads shall see them fed on oats, and
-stand alone unmoved and undismayed, while counters flee affrighted when
+stand [[Alone|alone]] unmoved and undismayed, while counters flee affrighted when
 the coursers neigh!’
 
 Such, my [[archetypes/child|child]], were the reflections from which I was only awakened then,

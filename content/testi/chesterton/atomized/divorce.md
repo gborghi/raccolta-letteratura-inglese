@@ -14,21 +14,21 @@ tags:
 <span class="atom-split" data-atom="divorce" data-title="The Superstition of Divorce" data-chapter="" data-kind="intro"></span>
 
 
-The Superstition of Divorce
+The Superstition of [[divorce|Divorce]]
 
 (1920)
 
 by G.K. Chesterton
 
 Introductory Note
-I The Superstition of Divorce (1)
-II The Superstition of Divorce (2)
-III The Superstition of Divorce (3)
-IV The Superstition of Divorce (4)
+I The Superstition of [[divorce|Divorce]] (1)
+II The Superstition of [[divorce|Divorce]] (2)
+III The Superstition of [[divorce|Divorce]] (3)
+IV The Superstition of [[divorce|Divorce]] (4)
 V The Story of the Family
 VI The Story of the Vow
 VII The Tragedies of [[motifs/marriage|Marriage]]
-VIII The Vista of Divorce
+VIII The Vista of [[divorce|Divorce]]
 IX Conclusion
 
 --/--
@@ -37,7 +37,7 @@ INTRODUCTORY NOTE
 
 The earlier part of this book appeared in the form of five articles
 which came out in the "New Witness" at the crisis of the recent
-controversy in the Press on the subject of divorce.  Crude and sketchy
+controversy in the Press on the subject of [[divorce]].  Crude and sketchy
 as they confessedly were, they had a certain rude plan of their own,
 which I find it very difficult to recast even in order to expand.
 I have therefore decided to reprint the original articles as they stood,
@@ -59,12 +59,12 @@ G.K.C.
 
 I
 
-THE SUPERSTITION OF DIVORCE (1)
+THE SUPERSTITION OF [[divorce|DIVORCE]] (1)
 
 It is futile to talk of [[concepts/reform|reform]] without reference to form.
 To take a case from my own taste and fancy, there is nothing I feel
 to be so beautiful and wonderful as a [[motifs/window|window]].  All casements are
-magic casements, whether they open on the foam or the front-[[motifs/garden|garden]];
+[[Magic|magic]] casements, whether they open on the foam or the front-[[motifs/garden|garden]];
 they lie close to the ultimate mystery and [[concepts/paradox|paradox]] of limitation
 and liberty.  But if I followed my instinct towards an infinite
 number of windows, it would end in having no walls.  It would also
@@ -72,16 +72,16 @@ number of windows, it would end in having no walls.  It would also
 for a [[motifs/window|window]] makes a picture by making a picture-frame. But there
 is a simpler way of stating my more simple and fatal error.
 It is that I have wanted a [[motifs/window|window]], without considering whether
-I wanted a house.  Now many appeals are being made to us to-day
+I wanted a [[house]].  Now many appeals are being made to us to-day
 on behalf of that light and liberty that might [[motifs/well|well]] be symbolised
 by windows; especially as so many of them concern the enlightenment
-and liberation of the house, in the sense of the [[motifs/home|home]].
+and liberation of the [[house]], in the sense of the [[motifs/home|home]].
 Many quite disinterested people urge many quite reasonable
-considerations in the case of divorce, as a type of domestic liberation;
+considerations in the case of [[divorce]], as a type of domestic liberation;
 but in the journalistic and general discussion of the matter there
 is far too much of the mind that works backwards and at random,
 in the manner of all windows and no walls.  Such people say they
-want divorce, without asking themselves whether they want [[motifs/marriage|marriage]].
+want [[divorce]], without asking themselves whether they want [[motifs/marriage|marriage]].
 Even in order to be divorced it has generally been found necessary
 to go through the preliminary formality of being married; and unless
 the [[concepts/nature|nature]] of this initial act be considered, we might as [[motifs/well|well]] be
@@ -107,12 +107,12 @@ but that it does not criticise.  It is destruction without design.
 It is taking a complex [[motifs/machine|machine]] to pieces bit by bit, in any order,
 without even knowing what the [[motifs/machine|machine]] is for.  And if a man deals
 with a deadly dynamic [[motifs/machine|machine]] on the principle of touching the knob
-that's nearest, he will find out the defects of that cheery philosophy.
+that's nearest, he will find out the defects of that cheery [[philosophy]].
 Now leaving many sincere and serious critics of modern [[motifs/marriage|marriage]]
 on one side for the moment, great masses of modern men and women,
 who write and talk about [[motifs/marriage|marriage]], are thus nibbling blindly at it
 like an army of mice.  When the reformers propose, for instance,
-that divorce should be obtainable after an absence of three years
+that [[divorce]] should be obtainable after an absence of three years
 (the absence actually taken for granted in the first military
 arrangements of the late European War) their readers and supporters
 could seldom give any sort of logical reason for the period
@@ -132,7 +132,7 @@ how large is the idea they attack; or how relatively small appear
 the holes that they pick in it.
 
 Thus, Sir [[characters/arthur|Arthur]] Conan Doyle, an intelligent man in other matters,
-says that there is only a "theological" opposition to divorce,
+says that there is only a "theological" opposition to [[divorce]],
 and that it is entirely founded on "certain texts" in the [[historical-references/bible|Bible]]
 about marriages.  This is exactly as if he said that a belief
 in the brotherhood of men was only founded on certain texts
@@ -140,7 +140,7 @@ in the [[historical-references/bible|Bible]], about all men being the children o
 Millions of peasants and plain people all over the world assume
 [[motifs/marriage|marriage]] to be static, without having ever clapped eyes on any text.
 Numbers of more modern people, especially after the recent experiments
-in [[settings/america|America]], think divorce is a social disease, without having ever
+in [[settings/america|America]], think [[divorce]] is a social disease, without having ever
 bothered about any text.  It may be maintained that even in these,
 or in any one, the idea of [[motifs/marriage|marriage]] is ultimately mystical;
 and the same may be maintained about the idea of brotherhood.
@@ -161,25 +161,25 @@ but barely cousins (German) any number of times removed.
 And suppose he proceeds to remove them even further with a hatchet,
 suppose he bases on this a repetition of the conduct of [[characters/cain|Cain]],
 saying not so much "Am I my brother's keeper?" as "Is he really
-my brother?"  And suppose this higher philosophy of the hatchet
+my brother?"  And suppose this higher [[philosophy]] of the hatchet
 becomes prevalent in colleges and cultivated circles, as even
 more foolish philosophies have done.  Then I agree it probably
 will be the Christian, the man who preserves the text about [[characters/cain|Cain]],
-who will continue to assert that he is still the professor's brother;
-that he is still the professor's keeper.  He may possibly add that,
-in his opinion, the professor seems to require a keeper.
+who will continue to assert that he is still [[The Professor|the professor]]'s brother;
+that he is still [[The Professor|the professor]]'s keeper.  He may possibly add that,
+in his opinion, [[The Professor|the professor]] seems to require a keeper.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 I
 
-LA SUPERSTIZIONE DEL DIVORZIO (1)
+LA SUPERSTIZIONE DEL [[divorce|DIVORZIO]] (1)
 
 È inutile parlare di [[concepts/reform|riforma]] senza riferimento alla forma.
 Per prendere un caso dal mio gusto e dalla mia fantasia, non c'è
 nulla che io senta tanto bello e meraviglioso quanto una [[motifs/window|finestra]].
-Tutte le finestre sono finestre magiche, sia che si aprano sulla
+Tutte le finestre sono finestre [[Magic|magiche]], sia che si aprano sulla
 spuma sia sul [[motifs/garden|giardino]] antistante; giacciono vicine al mistero
 ultimo e al [[concepts/paradox|paradosso]] della limitazione e della libertà.
 Ma se seguissi il mio istinto verso un numero infinito di finestre,
@@ -187,17 +187,17 @@ finirei col non avere pareti. Finirei anche (si può aggiungere
 incidentalmente) col non avere neppure finestre; poiché una [[motifs/window|finestra]]
 fa un quadro facendo una cornice. Ma c'è un modo più semplice di
 enunciare il mio errore più semplice e fatale. Ed è che ho desiderato
-una [[motifs/window|finestra]], senza considerare se desiderassi una casa.
+una [[motifs/window|finestra]], senza considerare se desiderassi una [[house|casa]].
 Ora molti appelli ci vengono rivolti oggi a favore di quella luce
 e libertà che potrebbero [[motifs/well|ben]] essere simboleggiate dalle finestre;
 specialmente perché tanti di essi riguardano l'illuminazione e la
-liberazione della casa, nel senso del [[motifs/home|focolare]].
+liberazione della [[house|casa]], nel senso del [[motifs/home|focolare]].
 Molte persone del tutto disinteressate adducono molte considerazioni
-del tutto ragionevoli nel caso del divorzio, come tipo di
+del tutto ragionevoli nel caso del [[divorce|divorzio]], come tipo di
 liberazione domestica; ma nella discussione giornalistica e generale
 della questione c'è fin troppo di quella mente che lavora a ritroso
 e a caso, alla maniera del tutte finestre e nessuna parete. Tali persone
-dicono di volere il divorzio, senza chiedersi se vogliano il
+dicono di volere il [[divorce|divorzio]], senza chiedersi se vogliano il
 [[motifs/marriage|matrimonio]]. Persino per divorziare si è generalmente trovato
 necessario passare attraverso la formalità preliminare di sposarsi;
 e a meno che non si consideri la [[concepts/nature|natura]] di questo atto iniziale,
@@ -223,12 +223,12 @@ senza disegno. È prendere una complessa [[motifs/machine|macchina]] a pezzi uno
 per uno, in qualunque ordine, senza neppure sapere a cosa serva la
 [[motifs/machine|macchina]]. E se un uomo tratta una [[motifs/machine|macchina]] dinamica e mortale
 col principio di toccare la manopola più vicina, scoprirà i difetti
-di quell'allegra filosofia. Ora, lasciando da parte per il
+di quell'allegra [[philosophy|filosofia]]. Ora, lasciando da parte per il
 momento molti critici sinceri e seri del [[motifs/marriage|matrimonio]] moderno,
 grandi masse di uomini e donne moderni, che scrivono e parlano del
 [[motifs/marriage|matrimonio]], lo stanno così rosicchiando alla cieca come un
 esercito di topi. Quando i riformatori propongono, per esempio, che
-il divorzio debba essere ottenibile dopo un'assenza di tre anni
+il [[divorce|divorzio]] debba essere ottenibile dopo un'assenza di tre anni
 (l'assenza effettivamente data per scontata nei primi ordinamenti
 militari della recente Guerra europea) i loro lettori e sostenitori
 raramente saprebbero dare una qualche ragione logica per cui il periodo
@@ -248,7 +248,7 @@ attaccano; o di quanto relativamente piccoli appaiano i buchi che vi
 praticano.
 
 Così, Sir [[characters/arthur|Arthur]] Conan Doyle, un uomo intelligente in altre
-faccende, dice che c'è soltanto un'opposizione "teologica" al divorzio,
+faccende, dice che c'è soltanto un'opposizione "teologica" al [[divorce|divorzio]],
 e che essa è interamente fondata su "certi testi" della [[historical-references/bible|Bibbia]]
 riguardo ai matrimoni. Questo è esattamente come se dicesse che la
 credenza nella fratellanza degli uomini fosse fondata soltanto su
@@ -257,7 +257,7 @@ figli di Adamo ed Eva. Milioni di contadini e di gente semplice in
 tutto il mondo danno per scontato che il [[motifs/marriage|matrimonio]] sia statico,
 senza aver mai posato gli occhi su alcun testo. Numeri di persone più
 moderne, specialmente dopo i recenti esperimenti in [[settings/america|America]], pensano
-che il divorzio sia una malattia sociale, senza essersi mai
+che il [[divorce|divorzio]] sia una malattia sociale, senza essersi mai
 preoccupate di alcun testo. Si può sostenere che persino in costoro,
 o in chiunque, l'idea del [[motifs/marriage|matrimonio]] sia in ultima analisi mistica;
 e lo stesso si può sostenere dell'idea di fratellanza. È ovvio che
@@ -278,20 +278,20 @@ un numero qualsiasi di volte. E supponiamo che egli proceda a rimuoverli
 ancor più con un'accetta, supponiamo che egli fondi su ciò una
 ripetizione della condotta di [[characters/cain|Caino]], dicendo non tanto "Sono forse
 il custode di mio fratello?" quanto "È davvero mio fratello?" E supponiamo
-che questa più alta filosofia dell'accetta divenga prevalente
+che questa più alta [[philosophy|filosofia]] dell'accetta divenga prevalente
 nei collegi e nei circoli colti, come hanno fatto filosofie ancor più
 sciocche. Allora convengo che probabilmente sarà il cristiano, l'uomo
 che conserva il testo su [[characters/cain|Caino]], a continuare ad affermare di essere
-ancora il fratello del professore; di essere ancora il
-custode del professore. Egli forse aggiungerà che, a suo
-parere, il professore sembra richiedere un custode.
+ancora il fratello [[The Professor|del professore]]; di essere ancora il
+custode [[The Professor|del professore]]. Egli forse aggiungerà che, a suo
+parere, [[The Professor|il professore]] sembra richiedere un custode.
 
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="The Superstition of Divorce — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/dawn,motif/fire,motif/flag,motif/love,motif/machine,motif/marriage,motif/nature,motif/well,concept/honour,concept/nature,concept/poverty,concept/suffering"></span>
 
 
-And that is doubtless the situation in the controversies about divorce
+And that is doubtless the situation in the controversies about [[divorce]]
 and [[motifs/marriage|marriage]] to-day. It is the Christian church which continues
 to hold strongly, when the world for some reason has weakened on it,
 what many others hold at other times.  But even then it is barely
@@ -302,7 +302,7 @@ of life, and defended, rightly or wrongly, by constant appeals to every
 aspect of life.  The religion that holds it most strongly will hold
 it when nobody else holds it; that is quite true, and that some of us
 may be so perverse as to think a point in favour of the religion.
-But anybody who holds it at all will hold it as a philosophy,
+But anybody who holds it at all will hold it as a [[philosophy]],
 not hung on one text but on a hundred truths.  Fraternity may
 be a sentimental metaphor; I may be [[concepts/suffering|suffering]] a delusion when I
 hail a Montenegrin peasant as my long lost brother.  As a fact,
@@ -323,7 +323,7 @@ fifty pounds and said "Here is hard cash; I am a plain man;
 it is quite indifferent to me whether I am paying a debt, or giving
 alms to a beggar, or buying a wild bull or a bathing [[motifs/machine|machine]]."
 Despite the infectious heartiness of his tone, I should still,
-in considering the hard cash, say (like a cabman) "What's this?"
+in considering the hard cash, say (like a [[cabman]]) "What's this?"
 I should continue to insist, priggishly, that it was a highly practical
 point what the money was; what it was supposed to stand for, to aim
 at or to declare; what was the [[concepts/nature|nature]] of the transaction; or, in short,
@@ -342,9 +342,9 @@ I am not now defending but defining vows; I am pointing out that this
 is a discussion about vows; first, of whether there ought to be vows;
 and second, of what vows ought to be.  Ought a man to break a promise?
 Ought a man to make a promise?  These are philosophic questions;
-but the philosophic peculiarity of divorce and re-[[motifs/marriage|marriage]], as compared
+but the philosophic peculiarity of [[divorce]] and re-[[motifs/marriage|marriage]], as compared
 with free [[motifs/love|love]] and no [[motifs/marriage|marriage]], is that a man breaks and makes
-a promise at the same moment.  It is a highly German philosophy;
+a promise at the same moment.  It is a highly German [[philosophy]];
 and recalls the way in which the enemy wishes to celebrate his
 successful destruction of all treaties by signing some more.
 If I were breaking a promise, I would do it without promises.
@@ -383,7 +383,7 @@ national loyalty, some of us would have deserted our nation long ago.
 <span class="qlang-split" data-lang="it"></span>
 
 E questa è senza dubbio la situazione nelle controversie odierne sul
-divorzio e sul [[motifs/marriage|matrimonio]]. È la Chiesa cristiana che continua
+[[divorce|divorzio]] e sul [[motifs/marriage|matrimonio]]. È la Chiesa cristiana che continua
 a sostenere con fermezza, quando il mondo per qualche ragione si è
 indebolito su di esso, ciò che molti altri sostengono in altri tempi.
 Ma anche allora è appena raccogliere i brandelli e i frammenti della
@@ -394,7 +394,7 @@ mediante costanti appelli a ogni aspetto della vita. La religione che
 la sostiene con più forza la sosterrà quando nessun altro la sostiene;
 questo è del tutto vero, e alcuni di noi possono essere tanto perversi
 da ritenerlo un punto a favore della religione. Ma chiunque la sostenga,
-in qualsiasi misura, la sosterrà come una filosofia, non appesa
+in qualsiasi misura, la sosterrà come una [[philosophy|filosofia]], non appesa
 a un solo testo ma a cento verità. La fraternità può essere una
 metafora sentimentale; posso essere vittima di un'illusione, [[concepts/suffering|soffrire]]
 un delirio, quando saluto un contadino montenegrino come mio fratello
@@ -415,7 +415,7 @@ ideale non sarebbe uno che sbatte sul tavolo cinquanta sterline e dice
 se stia pagando un debito, o facendo l'elemosina a un mendicante, o
 comprando un toro selvatico o una [[motifs/machine|macchina]] da bagno". Nonostante
 la contagiosa cordialità del suo tono, io, considerando il denaro
-contante, direi comunque (come un vetturino) "Che cos'è questo?"
+contante, direi comunque (come un [[cabman|vetturino]]) "Che cos'è questo?"
 Continuerei a insistere, pedantemente, che era un punto altamente
 pratico stabilire che cosa fosse quel denaro; che cosa fosse inteso a
 rappresentare, a mirare o a dichiarare; quale fosse la [[concepts/nature|natura]] della
@@ -434,9 +434,9 @@ sto ora difendendo ma definendo i voti; sto facendo notare che questa è
 una discussione sui voti; primo, se debbano esserci voti; e secondo,
 quali voti debbano esserci. Deve un uomo rompere una promessa? Deve un
 uomo fare una promessa? Queste sono questioni filosofiche; ma la
-peculiarità filosofica del divorzio e delle nuove nozze, in confronto
+peculiarità filosofica del [[divorce|divorzio]] e delle nuove nozze, in confronto
 al [[motifs/love|libero amore]] e al nessun [[motifs/marriage|matrimonio]], è che un uomo rompe e fa
-una promessa nel medesimo istante. È una filosofia assai tedesca;
+una promessa nel medesimo istante. È una [[philosophy|filosofia]] assai tedesca;
 e ricorda il modo in cui il nemico desidera celebrare la sua riuscita
 distruzione di tutti i trattati firmandone qualche altro. Se rompessi
 una promessa, lo farei senza promesse. Ma sono ben lontano dal
@@ -479,21 +479,21 @@ tempo.
 
 II
 
-THE SUPERSTITION OF DIVORCE (2)
+THE SUPERSTITION OF [[divorce|DIVORCE]] (2)
 
 To the two or three articles appearing here on this subject
-I have given the title of the Superstition of Divorce;
+I have given the title of the Superstition of [[divorce|Divorce]];
 and the title is not taken at random.  While free [[motifs/love|love]] seems
-to me a heresy, divorce does really seem to me a superstition.
+to me a heresy, [[divorce]] does really seem to me a superstition.
 It is not only more of a superstition than free [[motifs/love|love]], but much
 more of a superstition than strict sacramental [[motifs/marriage|marriage]]; and this
-point can hardly be made too plain.  It is the partisans of divorce,
+point can hardly be made too plain.  It is the partisans of [[divorce]],
 not the defenders of [[motifs/marriage|marriage]], who attach a stiff and senseless
 sanctity to a mere ceremony, apart from the meaning of the ceremony.
 It is our opponents, and not we, who [[concepts/hope|hope]] to be saved
 by the letter of ritual, instead of the spirit of reality.
 It is they who hold that vow or violation, loyalty or disloyalty,
-can all be disposed of by a mysterious and magic rite, performed first
+can all be disposed of by a mysterious and [[Magic|magic]] rite, performed first
 in a law-[[settings/court|court]] and then in a church or a registry office.
 There is little difference between the two parts of the ritual;
 except that the law [[settings/court|court]] is much more ritualistic.
@@ -527,7 +527,7 @@ pagan citizens felt thus about the [[motifs/city|city]]; and modern nationalists
 feel thus about the nation.  But even mere modern internationalists
 feel it about something; if it is only the nation of mankind.
 Even the humanitarian does not become a misanthrope and live in a
-monkey-house. Even a disappointed Collectivist or Communist does
+monkey-[[house]]. Even a disappointed Collectivist or Communist does
 not retire into the exclusive society of beavers, because beavers
 are all communists of the most class-conscious solidarity.
 He admits the necessity of clinging to his fellow creatures,
@@ -589,21 +589,21 @@ but it may be true of Mrs. Brown that she might have been a Robinson.
 
 II
 
-LA SUPERSTIZIONE DEL DIVORZIO (2)
+LA SUPERSTIZIONE DEL [[divorce|DIVORZIO]] (2)
 
 Ai due o tre articoli che qui compaiono su questo argomento ho dato il
-titolo di Superstizione del Divorzio; e il titolo non è preso a
-caso. Mentre il [[motifs/love|libero amore]] mi sembra un'eresia, il divorzio mi
+titolo di Superstizione del [[divorce|Divorzio]]; e il titolo non è preso a
+caso. Mentre il [[motifs/love|libero amore]] mi sembra un'eresia, il [[divorce|divorzio]] mi
 sembra davvero una superstizione. Non è soltanto più superstizione del
 [[motifs/love|libero amore]], ma molto più superstizione del rigoroso [[motifs/marriage|matrimonio]]
 sacramentale; e questo punto non si può rendere troppo chiaro. Sono i
-fautori del divorzio, non i difensori del [[motifs/marriage|matrimonio]], ad
+fautori del [[divorce|divorzio]], non i difensori del [[motifs/marriage|matrimonio]], ad
 attribuire una rigida e insensata santità a una mera cerimonia, a
 prescindere dal significato della cerimonia. Sono i nostri avversari, e
 non noi, a [[concepts/hope|sperare]] di essere salvati dalla lettera del rito, invece
 che dallo spirito della realtà. Sono loro a sostenere che voto o
 violazione, lealtà o slealtà, possano tutti risolversi mediante un rito
-misterioso e magico, celebrato prima in un [[settings/court|tribunale]] e poi in una
+misterioso e [[Magic|magico]], celebrato prima in un [[settings/court|tribunale]] e poi in una
 chiesa o in un ufficio dello stato civile. C'è poca differenza tra le
 due parti del rito; se non che il [[settings/court|tribunale]] è molto più ritualistico.
 Ma i paralleli più semplici mostreranno a chiunque che tutto ciò è pura
@@ -635,7 +635,7 @@ pagani sentivano così riguardo alla [[motifs/city|città]]; e i nazionalisti mo
 sentono così riguardo alla nazione. Ma persino i meri internazionalisti
 moderni lo sentono per qualcosa; non fosse che per la nazione dell'umanità.
 Persino l'umanitario non diventa un misantropo e va a vivere in una
-casa di scimmie. Persino un deluso collettivista o comunista non si
+[[house|casa]] di scimmie. Persino un deluso collettivista o comunista non si
 ritira nell'esclusiva società dei castori, perché i castori sono tutti
 comunisti della più consapevole solidarietà di classe. Egli ammette la
 necessità di aggrapparsi ai propri simili, e di supplicarli di abbandonare
@@ -719,7 +719,7 @@ Such is, in a curt and crude outline, this obvious thing for those
 to whom it is not obvious.  Now I know there are thinking men among
 those who would tamper with it; and I shall expect some of these to
 reply to my questions.  But for the moment I only ask this question:
-whether the parliamentary and journalistic divorce movement shows
+whether the parliamentary and journalistic [[divorce]] movement shows
 even a shadowy trace of these fundamental truths, regarded as tests.
 Does it even discuss the [[concepts/nature|nature]] of a vow, the limits and objects
 of loyalty, the [[concepts/survival|survival]] of the family as a small and free state?
@@ -740,7 +740,7 @@ of sex is the worthiest of the great works of the earth.
 
 It is exceedingly characteristic of the dreary decades before the War
 that the forms of [[concepts/freedom|freedom]] in which they seemed to specialise were [[concepts/suicide|suicide]]
-and divorce.  I am not at the moment pronouncing on the moral problem
+and [[divorce]].  I am not at the moment pronouncing on the moral problem
 of either; I am merely noting, as signs of those times, those two true
 or false counsels of [[concepts/despair|despair]]; the end of life and the end of [[motifs/love|love]].
 Other forms of [[concepts/freedom|freedom]] were being increasingly curtailed.
@@ -757,12 +757,12 @@ It was wicked to fight, and unsafe even to argue; for citing any
 certain and contemporary fact might land one in a libel action.
 As all these doors were successfully shut in our faces along the chilly
 and cheerless corridor of progress (with its glazed tiles) the doors
-of [[motifs/death|death]] and divorce alone stood open, or rather opened wider and wider.
-I do not expect the exponents of divorce to admit any similarity
+of [[motifs/death|death]] and [[divorce]] [[Alone|alone]] stood open, or rather opened wider and wider.
+I do not expect the exponents of [[divorce]] to admit any similarity
 in the two things; yet the passing parallel is not irrelevant.
 It may enable them to realise the limits within which our moral
 instincts can, even for the sake of argument, treat this desperate remedy
-as a normal object of [[motifs/desire|desire]].  Divorce is for us at best a failure,
+as a normal object of [[motifs/desire|desire]].  [[divorce|Divorce]] is for us at best a failure,
 of which we are more concerned to find and cure the cause than to
 complete the effects; and we regard a system that produces many divorces
 as we do a system that drives men to drown and shoot themselves.
@@ -770,7 +770,7 @@ For instance, it is perhaps the commonest complaint against the existing
 law that the poor cannot afford to avail themselves of it.  It is
 an argument to which normally I should listen with special sympathy.
 But while I should condemn the law being a luxury, my first thought
-will naturally be that divorce and [[motifs/death|death]] are only luxuries in a rather
+will naturally be that [[divorce]] and [[motifs/death|death]] are only luxuries in a rather
 rare sense.  I should not primarily condole with the poor man on
 the high price of prussic acid; or on the fact that all precipices
 of suitable suicidal height were the private property of the landlords.
@@ -784,7 +784,7 @@ if he were jumping over Shakespeare's Cliff, even if Dover sands
 were strewn with the remains of the dukes and bankers who had already
 taken the plunge.
 
-But in one respect, I will heartily concede, the cult of divorce has
+But in one respect, I will heartily concede, the cult of [[divorce]] has
 differed from the mere cult of [[motifs/death|death]].  The cult of [[motifs/death|death]] is dead.
 Those I knew in my youth as young pessimists are now aged optimists.
 And, what is more to the point at present, even when it was living
@@ -802,14 +802,14 @@ was an oligarchic privilege in the decadent epoch; and even as such has
 largely passed with that epoch.  Pessimism, which was never popular,
 is no longer even fashionable.  A far different fate has awaited
 the other fashion; the other somewhat dismal form of [[concepts/freedom|freedom]].
-If divorce is a disease, it is no longer to be a fashionable disease
+If [[divorce]] is a disease, it is no longer to be a fashionable disease
 like appendicitis; it is to be made an epidemic like small-pox. As
 we have already seen papers and public men to-day make a vast parade
-of the necessity of setting the poor man free to get a divorce.
+of the necessity of setting the poor man free to get a [[divorce]].
 Now why are they so mortally anxious that he should be free to get
-a divorce, and not in the least anxious that he should be free to get
+a [[divorce]], and not in the least anxious that he should be free to get
 anything else?  Why are the same people happy, nay almost hilarious,
-when he gets a divorce, who are horrified when he gets a drink?
+when he gets a [[divorce]], who are horrified when he gets a drink?
 What becomes of his money, what becomes of his children, where he works,
 when he ceases to work, are less and less under his personal control.
 Labour Exchanges, Insurance Cards, Welfare Work, and a hundred forms
@@ -848,7 +848,7 @@ Tale è, in un abbozzo brusco e grezzo, questa cosa ovvia per coloro ai
 quali non è ovvia. Ora so che vi sono uomini di pensiero tra coloro che
 vi metterebbero mano; e mi aspetto che alcuni di questi replichino alle
 mie domande. Ma per il momento pongo soltanto questa domanda: se il
-movimento parlamentare e giornalistico per il divorzio mostri anche
+movimento parlamentare e giornalistico per il [[divorce|divorzio]] mostri anche
 una traccia d'ombra di queste verità fondamentali, considerate come
 banchi di prova. Discute forse la [[concepts/nature|natura]] di un voto, i limiti e gli
 oggetti della lealtà, la [[concepts/survival|sopravvivenza]] della famiglia come piccolo e
@@ -869,7 +869,7 @@ due torri del sesso sia la più degna delle grandi opere della terra.
 
 È estremamente caratteristico dei tetri decenni prima della Guerra che le
 forme di [[concepts/freedom|libertà]] nelle quali essi parevano specializzarsi fossero il
-[[concepts/suicide|suicidio]] e il divorzio. Non mi sto in questo momento
+[[concepts/suicide|suicidio]] e il [[divorce|divorzio]]. Non mi sto in questo momento
 pronunciando sul problema morale né dell'uno né dell'altro; sto soltanto
 notando, come segni di quei tempi, quei due veri o falsi consigli di
 [[concepts/despair|disperazione]]; la fine della vita e la fine dell'[[motifs/love|amore]]. Altre forme
@@ -887,13 +887,13 @@ scommesse. Era malvagio combattere, e malsicuro persino discutere; poiché
 citare un qualche fatto certo e contemporaneo poteva far finire in una
 causa per diffamazione. Mentre tutte queste porte venivano chiuse con
 successo in faccia a noi lungo il gelido e squallido corridoio del progresso
-(con le sue piastrelle smaltate) le porte della [[motifs/death|morte]] e del divorzio
-sole restavano aperte, o piuttosto si aprivano sempre più. Non mi
-aspetto che i fautori del divorzio ammettano alcuna somiglianza tra
+(con le sue piastrelle smaltate) le porte della [[motifs/death|morte]] e del [[divorce|divorzio]]
+[[Alone|sole]] restavano aperte, o piuttosto si aprivano sempre più. Non mi
+aspetto che i fautori del [[divorce|divorzio]] ammettano alcuna somiglianza tra
 le due cose; eppure il fugace parallelo non è irrilevante. Può metterli in
 grado di rendersi conto dei limiti entro i quali i nostri istinti morali
 possono, anche solo per amor di discussione, trattare questo rimedio
-disperato come un normale oggetto di [[motifs/desire|desiderio]]. Il divorzio è per
+disperato come un normale oggetto di [[motifs/desire|desiderio]]. Il [[divorce|divorzio]] è per
 noi nel migliore dei casi un fallimento, di cui ci preoccupiamo più di
 trovare e curare la causa che di completarne gli effetti; e consideriamo
 un sistema che produce molti divorzi come consideriamo un sistema che
@@ -901,7 +901,7 @@ spinge gli uomini ad annegarsi e a spararsi. Per esempio, è forse la più
 comune lagnanza contro la legge esistente che i poveri non possano
 permettersi di avvalersene. È un argomento al quale normalmente presterei
 ascolto con speciale simpatia. Ma per quanto condannerei che la legge sia
-un lusso, il mio primo pensiero sarà naturalmente che il divorzio e la
+un lusso, il mio primo pensiero sarà naturalmente che il [[divorce|divorzio]] e la
 [[motifs/death|morte]] sono lussi soltanto in un senso piuttosto raro. Non condoglierei
 in primo luogo col povero per l'alto prezzo dell'acido prussico; o per il
 fatto che tutti i precipizi di conveniente altezza suicida fossero
@@ -915,7 +915,7 @@ povero impiegato o artigiano, se stesse saltando dalla Rupe di Shakespeare,
 anche se le sabbie di Dover fossero cosparse dei resti dei duchi e dei
 banchieri che avevano già fatto il gran salto.
 
-Ma sotto un aspetto, lo concederò di cuore, il culto del divorzio si
+Ma sotto un aspetto, lo concederò di cuore, il culto del [[divorce|divorzio]] si
 è distinto dal mero culto della [[motifs/death|morte]]. Il culto della [[motifs/death|morte]] è morto.
 Quelli che conoscevo in gioventù come giovani pessimisti sono ora attempati
 ottimisti. E, ciò che più conta al presente, persino quando era vivo era
@@ -932,15 +932,15 @@ forma di fare il [[archetypes/fool|folle]], alla romana o altrimenti, era un pri
 oligarchico nell'epoca decadente; e persino come tale è in gran parte
 passata con quell'epoca. Il pessimismo, che non fu mai popolare, non è più
 neppure di moda. Una sorte assai diversa ha atteso l'altra moda; l'altra
-forma alquanto lugubre di [[concepts/freedom|libertà]]. Se il divorzio è una malattia,
+forma alquanto lugubre di [[concepts/freedom|libertà]]. Se il [[divorce|divorzio]] è una malattia,
 non dev'essere più una malattia alla moda come l'appendicite; dev'essere
 resa un'epidemia come il vaiolo. Come già abbiamo visto, giornali e uomini
 pubblici oggi fanno grande sfoggio della necessità di rendere il povero
-libero di ottenere un divorzio. Ora, perché sono così mortalmente
-ansiosi che egli sia libero di ottenere un divorzio, e per nulla
+libero di ottenere un [[divorce|divorzio]]. Ora, perché sono così mortalmente
+ansiosi che egli sia libero di ottenere un [[divorce|divorzio]], e per nulla
 ansiosi che egli sia libero di ottenere qualsiasi altra cosa? Perché le
 stesse persone sono felici, anzi quasi ilari, quando egli ottiene un
-divorzio, loro che inorridiscono quando egli ottiene da bere? Che ne
+[[divorce|divorzio]], loro che inorridiscono quando egli ottiene da bere? Che ne
 sia del suo denaro, che ne sia dei suoi figli, dove egli lavori, quando
 cessi di lavorare, sono cose sempre meno sotto il suo controllo personale.
 Uffici di collocamento, tessere assicurative, opere assistenziali, e cento
@@ -964,7 +964,7 @@ aggrada?
 The answer is, I regret to say, that this social campaign,
 in most though by no means all of its most prominent campaigners,
 relies in this matter on a very smug and pestilent piece of cant.
-There are some advocates of democratic divorce who are really
+There are some advocates of democratic [[divorce]] who are really
 advocates of general democratic [[concepts/freedom|freedom]]; but they are the exceptions;
 I might say, with all respect, that they are the dupes.
 The omnipresence of the thing in the press and in political society
@@ -973,7 +973,7 @@ The modern rulers, who are simply the rich men, are really quite
 consistent in their attitude to the poor man.  It is the same spirit
 which takes away his children under the pretence of order, which takes
 away his wife under the pretence of liberty.  That which wishes,
-in the words of the comic song, to break up the happy [[motifs/home|home]],
+in the words of the comic [[Song|song]], to break up the happy [[motifs/home|home]],
 is primarily anxious not to break up the much more unhappy factory.
 Capitalism, of course, is at war with the family, for the same
 reason which has led to its being at war with the Trade [[concepts/union|Union]].
@@ -998,7 +998,7 @@ Without the family we are helpless before the State, which in our modern
 case is the Servile State.  To use a military metaphor, the family
 is the only formation in which the charge of the rich can be repulsed.
 It is a force that forms twos as soldiers form fours; and, in every
-peasant country, has stood in the square house or the square
+peasant country, has stood in the square [[house]] or the square
 plot of land as infantry have stood in squares against cavalry.
 How this force operates this, and why, I will try to explain in
 the last of these articles.  But it is when it is most nearly ridden
@@ -1016,7 +1016,7 @@ as passing as a vision is made permanent as a vow.
 La risposta è, mi duole dirlo, che questa campagna sociale,
 nella maggior parte anche se non certo in tutti i suoi più eminenti fautori,
 si regge in questa materia su una ciancia tanto compiaciuta quanto pestilenziale.
-Vi sono alcuni sostenitori del divorzio democratico che in realtà sono
+Vi sono alcuni sostenitori del [[divorce|divorzio]] democratico che in realtà sono
 sostenitori di una generale [[concepts/freedom|libertà]] democratica; ma sono l'eccezione;
 direi, con tutto il rispetto, che sono gli ingannati.
 L'onnipresenza della cosa sulla stampa e nella società politica
@@ -1025,7 +1025,7 @@ I governanti moderni, che altro non sono se non gli uomini ricchi, sono in verit
 coerenti nel loro atteggiamento verso l'uomo povero. È lo stesso spirito
 che gli sottrae i figli col pretesto dell'ordine, e che gli sottrae
 la moglie col pretesto della libertà. Ciò che desidera,
-per dirla con le parole della canzonetta comica, spezzare il felice focolare [[motifs/home|domestico]],
+per dirla con le parole della [[Song|canzonetta]] comica, spezzare il felice focolare [[motifs/home|domestico]],
 è anzitutto ansioso di non spezzare la ben più infelice fabbrica.
 Il capitalismo, s'intende, è in guerra con la famiglia, per la stessa
 ragione che l'ha portato a essere in guerra col Sindacato [[concepts/union|Union]].
@@ -1050,7 +1050,7 @@ Senza la famiglia siamo impotenti dinanzi allo Stato, che nel nostro caso
 moderno è lo Stato Servile. Per usare una metafora militare, la famiglia
 è l'unica formazione in cui la carica dei ricchi può essere respinta.
 È una forza che si dispone a due a due come i soldati si dispongono a quattro; e, in ogni
-paese contadino, ha resistito nella casa quadrata o nel quadrato
+paese contadino, ha resistito nella [[house|casa]] quadrata o nel quadrato
 appezzamento di terra come la fanteria ha resistito in quadrato contro la cavalleria.
 Come operi questa forza, e perché, cercherò di spiegarlo
 nell'ultimo di questi articoli. Ma è quando essa è più prossima a essere calpestata
@@ -1069,7 +1069,7 @@ fugace come una visione è reso permanente come un voto.
 
 III
 
-THE SUPERSTITION OF DIVORCE (3)
+THE SUPERSTITION OF [[divorce|DIVORCE]] (3)
 
 There has long been a curiously consistent attempt to conceal the fact
 that France is a Christian country.  There have been Frenchmen
@@ -1088,8 +1088,8 @@ a broomstick so that one knew it had swept the room after a murder.
 The furniture of Balzac is more alive than the figures of many dramas.
 For this I was prepared; but not for a certain spiritual
 assumption which I recognised at once as a historical phenomenon.
-The morality of a great writer is not the morality he teaches,
-but the morality he takes for granted.  The Catholic type
+The [[morality]] of a great writer is not the [[morality]] he teaches,
+but the [[morality]] he takes for granted.  The Catholic type
 of Christian ethics runs through Balzac's books, exactly as
 the Puritan type of Christian ethics runs through Bunyan's books.
 What his professed opinions were I do not know, any more than I
@@ -1112,7 +1112,7 @@ in order to weaken."
 
 Throughout our youth and the years before the War, the current
 criticism followed Ibsen in describing the domestic system as a doll's
-house and the domestic woman as a doll.  Mr. Bernard [[works/shaw-(chesterton)|Shaw]] varied
+[[house]] and the domestic woman as a doll.  Mr. Bernard [[works/shaw-(chesterton)|Shaw]] varied
 the metaphor by saying that mere custom kept the woman in the [[motifs/home|home]]
 as it keeps the parrot in the cage; and the plays and tales of
 the period made vivid sketches of a woman who also resembled a parrot
@@ -1124,9 +1124,9 @@ hypocrisy and boredom, as the constituent elements of a "happy
 English [[motifs/home|home]]."  Leaving the [[concepts/truth|truth]] of this aside for the moment,
 it will be [[motifs/well|well]] to insist that the conventionality thus criticised
 would be even more characteristic of a happy French [[motifs/home|home]].  It is not
-the Englishman's house, but the Frenchman's house that is his [[settings/castle|castle]].
+the Englishman's [[house]], but the Frenchman's [[house]] that is his [[settings/castle|castle]].
 It might be further added, touching the essential ethical view
-of the sexes at least, that the Irishman's house is his [[settings/castle|castle]];
+of the sexes at least, that the Irishman's [[house]] is his [[settings/castle|castle]];
 though it has been for some centuries a besieged [[settings/castle|castle]].
 Anyhow, those conventions which were remarked as making
 domesticity dull, narrow and unnaturally meek and submissive,
@@ -1166,7 +1166,7 @@ Those who are blamed for the bigotry or bourgeois smugness of their
 [[motifs/marriage|marriage]] conventions are actually those blamed for the restlessness
 and violence of their political reforms.  Nor is there seriously
 any difficulty in discovering the cause of this.  It is simply
-that in such a society the government, in dealing with the family,
+that in such a society the [[government]], in dealing with the family,
 deals with something almost as permanent and [[concepts/self|self]]-renewing as itself.
 There can be a continuous family policy, like a continuous
 foreign policy.  In peasant countries the family fights, it may almost
@@ -1182,7 +1182,7 @@ to be after its subsequent glories), and in a more general sense it
 is certain that meddling with the housewife will ultimately mean
 getting into hot [[motifs/water|water]].  But it is not of such crises of bodily
 struggle that I speak, but of a steady and peaceful pressure from
-below of a thousand families upon the framework of government.
+below of a thousand families upon the framework of [[government]].
 For this a certain spirit of defence and enclosure is essential;
 and even feudalism was right in feeling that any such affair
 of [[concepts/honour|honour]] must be a family affair.  It was a true artistic instinct
@@ -1216,9 +1216,9 @@ and omnipresent inspiration to build for themselves; and this type
 is the family.
 
 I had intended this article to be the last of those outlining
-the elements of this debate; but I shall have to add a short
+the elements of this [[debate]]; but I shall have to add a short
 concluding section on the way in which all this is missed in
-the practical (or rather unpractical) proposals about divorce.
+the practical (or rather unpractical) proposals about [[divorce]].
 Here I will only say that they suffer from the modern and morbid
 weaknesses of always sacrificing the normal to the abnormal.  As a fact
 the "tyranny, hypocrisy and boredom" complained of are not domesticity,
@@ -1240,7 +1240,7 @@ And the experience of mankind points the other way.
 
 III
 
-LA SUPERSTIZIONE DEL DIVORZIO (3)
+LA SUPERSTIZIONE DEL [[divorce|DIVORZIO]] (3)
 
 C'è stato a lungo un tentativo curiosamente coerente di celare il fatto
 che la Francia è un paese cristiano. Ci sono stati francesi nella congiura,
@@ -1258,8 +1258,8 @@ egli stesso descrive, capace di disegnare un manico di scopa così che si
 sapeva che aveva spazzato la stanza dopo un omicidio. Il mobilio di Balzac
 è più vivo delle figure di molti drammi. A questo ero preparato; ma non a
 una certa assunzione spirituale che riconobbi subito come fenomeno storico.
-La moralità di un grande scrittore non è la moralità che egli
-insegna, ma la moralità che egli dà per scontata. Il tipo cattolico
+La [[morality|moralità]] di un grande scrittore non è la [[morality|moralità]] che egli
+insegna, ma la [[morality|moralità]] che egli dà per scontata. Il tipo cattolico
 dell'etica cristiana attraversa i libri di Balzac, esattamente come il tipo
 puritano dell'etica cristiana attraversa i libri di Bunyan. Quali fossero
 le sue opinioni professate non lo so, non più di quanto conosca quelle di
@@ -1281,7 +1281,7 @@ isolato i suoi membri per meglio governarli, e ha diviso per indebolire."
 
 Per tutta la nostra giovinezza e gli anni prima della Guerra, la critica
 corrente seguiva Ibsen nel descrivere il sistema domestico come una
-casa di bambole e la donna domestica come una bambola. Il signor
+[[house|casa]] di bambole e la donna domestica come una bambola. Il signor
 Bernard [[works/shaw-(chesterton)|Shaw]] variava la metafora dicendo che la mera consuetudine teneva
 la donna nel [[motifs/home|focolare]] come tiene il pappagallo nella gabbia; e le opere
 teatrali e i racconti del periodo davano vividi schizzi di una donna che
@@ -1293,9 +1293,9 @@ Voysey" la tirannia, l'ipocrisia e la noia, come elementi costitutivi di un
 "felice [[motifs/home|focolare]] inglese". Lasciando da parte per il momento la
 [[concepts/truth|verità]] di ciò, sarà [[motifs/well|bene]] insistere che la convenzionalità così
 criticata sarebbe ancor più caratteristica di un felice [[motifs/home|focolare]] francese.
-Non è la casa dell'inglese, ma la casa del francese a essere il
+Non è la [[house|casa]] dell'inglese, ma la [[house|casa]] del francese a essere il
 suo [[settings/castle|castello]]. Si potrebbe aggiungere inoltre, riguardo almeno alla
-veduta etica essenziale dei sessi, che la casa dell'irlandese è il suo
+veduta etica essenziale dei sessi, che la [[house|casa]] dell'irlandese è il suo
 [[settings/castle|castello]]; benché sia stata per alcuni secoli un [[settings/castle|castello]] assediato.
 Comunque sia, quelle convenzioni che si notavano come rendenti la domesticità
 cupa, angusta e innaturalmente mite e sottomessa, sono particolarmente
@@ -1332,7 +1332,7 @@ rivoluzionari riguardo allo Stato. Coloro che vengono biasimati per la
 bigotteria o la borghese compiacenza delle loro convenzioni di [[motifs/marriage|matrimonio]]
 sono in realtà quelli biasimati per l'irrequietezza e la violenza delle loro
 riforme politiche. Né c'è seriamente alcuna difficoltà nello scoprire la
-causa di ciò. È semplicemente che in una tale società il governo, nel
+causa di ciò. È semplicemente che in una tale società il [[government|governo]], nel
 trattare con la famiglia, tratta con qualcosa di quasi altrettanto permanente
 e capace di rinnovarsi da [[concepts/self|sé]] quanto esso stesso. Ci può essere una
 politica familiare continua, come una politica estera continua. Nei paesi
@@ -1348,7 +1348,7 @@ di casa in Irlanda (dovrebbe certamente esserlo dopo le sue glorie
 successive), e in un senso più generale è certo che l'immischiarsi con la
 massaia significherà alla fine cacciarsi in [[motifs/water|acqua]] bollente. Ma non è di
 tali crisi di lotta corporea che parlo, bensì di una pressione costante e
-pacifica dal basso di mille famiglie sull'intelaiatura del governo.
+pacifica dal basso di mille famiglie sull'intelaiatura del [[government|governo]].
 Per questo è essenziale un certo spirito di difesa e di recinto; e persino il
 feudalesimo aveva ragione nel sentire che ogni simile affare d'[[concepts/honour|onore]]
 dovesse essere un affare di famiglia. Fu un vero istinto artistico quello che
@@ -1380,9 +1380,9 @@ hanno una spontanea e onnipresente ispirazione a costruire per sé; e questo
 tipo è la famiglia.
 
 Avevo inteso che questo articolo fosse l'ultimo di quelli che delineano gli
-elementi di questo dibattito; ma dovrò aggiungere una breve sezione
+elementi di questo [[debate|dibattito]]; ma dovrò aggiungere una breve sezione
 conclusiva sul modo in cui tutto ciò viene mancato nelle proposte pratiche
-(o piuttosto impratiche) riguardo al divorzio. Qui dirò soltanto che
+(o piuttosto impratiche) riguardo al [[divorce|divorzio]]. Qui dirò soltanto che
 esse soffrono delle moderne e morbose debolezze del sacrificare sempre il
 normale all'anormale. Di fatto la "tirannia, ipocrisia e noia" di cui ci si
 lagna non sono la domesticità, ma il [[motifs/decay|decadimento]] della domesticità. Il
@@ -1405,16 +1405,16 @@ invece che una frode. E l'esperienza dell'umanità indica il senso opposto.
 
 IV
 
-THE SUPERSTITION OF DIVORCE (4)
+THE SUPERSTITION OF [[divorce|DIVORCE]] (4)
 
 I have touched before now on a famous or infamous Royalist who
 suggested that the people should eat grass; an unfortunate remark
 perhaps for a Royalist to make; since the regimen is only recorded
 of a Royal Personage.  But there was certainly a simplicity
 in the solution worthy of a sultan or even a savage chief;
-and it is this touch of autocratic innocence on which I have mainly
+and it is this touch of autocratic [[innocence]] on which I have mainly
 insisted touching the social reforms of our day, and especially
-the social [[concepts/reform|reform]] known as divorce.  I am primarily more concerned
+the social [[concepts/reform|reform]] known as [[divorce]].  I am primarily more concerned
 with the arbitrary method than with the anarchic result.
 Very much as the old [[archetypes/tyrant|tyrant]] would turn any number of men out
 to grass, so the new [[archetypes/tyrant|tyrant]] would turn any number of women into
@@ -1422,12 +1422,12 @@ grass-widows. Anyhow, to vary the legendary symbolism, it never
 seems to occur to the [[archetypes/king|king]] in this fairy tale that the gold [[motifs/crown|crown]]
 on his head is a less, and not a more, sacred and settled ornament
 than the gold ring on the woman's finger.  This change is being
-achieved by the summary and even secret government which we now suffer;
+achieved by the summary and even secret [[government]] which we now suffer;
 and this would be the first point against it, even if it were
 really an emancipation; and it is only in form an emancipation.
 I will not anticipate the details of its defence, which can
 be offered by others, but I will here conclude for the present
-by roughly suggesting the practical defences of divorce,
+by roughly suggesting the practical defences of [[divorce]],
 as generally given just at present, under four heads.  And I will
 only ask the reader to note that they all have one thing in common;
 the fact that each argument is also used for all that social [[concepts/reform|reform]]
@@ -1485,16 +1485,16 @@ which permit a human being to be burned alive, also permit
 the exalted science of [[concepts/eugenics|Eugenics]].  It is the same in the milder
 matter of liquor laws; and we are told that certain rather crude
 colonials have established prohibition Laws, which they try to evade;
-just as we are told they have established divorce laws, which they
-are now trying to repeal.  For in this case of divorce, at least,
+just as we are told they have established [[divorce]] laws, which they
+are now trying to repeal.  For in this case of [[divorce]], at least,
 the argument from distant precedents has recoiled crushingly upon itself.
-There is already an agitation for less divorce in [[settings/america|America]],
-even while there is an agitation for more divorce in England.
+There is already an agitation for less [[divorce]] in [[settings/america|America]],
+even while there is an agitation for more [[divorce]] in England.
 
 Again, when an argument is based on a need of population, it will
 be [[motifs/well|well]] if those supporting it realise where it may carry them.
 It is exceedingly doubtful whether population is one of the advantages
-of divorce; but there is no [[concepts/doubt|doubt]] that it is one of the advantages
+of [[divorce]]; but there is no [[concepts/doubt|doubt]] that it is one of the advantages
 of polygamy.  It is already used in [[settings/germany|Germany]] as an argument for polygamy.
 But the very word will teach us to look even beyond [[settings/germany|Germany]]
 for something yet more remote and repulsive.  Mere population,
@@ -1542,7 +1542,7 @@ One word should be added to this hasty [[forms/sketch|sketch]] of the elements o
 the case.  I have deliberately left out the loftiest aspect and argument,
 that which sees [[motifs/marriage|marriage]] as a divine institution; and that for
 the logical reason that those who believe in this would not believe
-in divorce; and I am arguing with those who do believe in divorce.
+in [[divorce]]; and I am arguing with those who do believe in [[divorce]].
 I do not ask them to assume the worth of my creed or any creed;
 and I could wish they did not so often ask me to assume the worth
 of their worthless, poisonous plutocratic modern society.
@@ -1560,15 +1560,15 @@ of what the latest enlightenment can only slowly discover in the end.
 
 IV
 
-LA SUPERSTIZIONE DEL DIVORZIO (4)
+LA SUPERSTIZIONE DEL [[divorce|DIVORZIO]] (4)
 
 Ho già accennato in altre occasioni a un famoso o famigerato realista che
 suggerì che il popolo mangiasse erba; osservazione sfortunata forse per un
 realista da farsi; giacché quel regime è registrato soltanto di un Personaggio
 Reale. Ma c'era certamente una semplicità nella soluzione degna di un sultano
-o persino di un capo selvaggio; ed è questo tocco di innocenza
+o persino di un capo selvaggio; ed è questo tocco di [[innocence|innocenza]]
 autocratica su cui ho principalmente insistito riguardo alle riforme sociali
-dei nostri giorni, e specialmente la [[concepts/reform|riforma]] sociale nota come divorzio.
+dei nostri giorni, e specialmente la [[concepts/reform|riforma]] sociale nota come [[divorce|divorzio]].
 Mi preoccupa principalmente più il metodo arbitrario che il risultato
 anarchico. Proprio come il vecchio [[archetypes/tyrant|tiranno]] avrebbe mandato al pascolo un
 numero qualsiasi di uomini, così il nuovo [[archetypes/tyrant|tiranno]] trasformerebbe un numero
@@ -1576,11 +1576,11 @@ qualsiasi di donne in vedove bianche. Comunque sia, per variare il simbolismo
 leggendario, non sembra mai venire in mente al [[archetypes/king|re]] di questa fiaba che la
 [[motifs/crown|corona]] d'oro sul suo capo è un ornamento meno, e non più, sacro e stabile
 dell'anello d'oro al dito della donna. Questo mutamento viene attuato dal
-governo sommario e persino segreto che ora subiamo; e questo sarebbe il
+[[government|governo]] sommario e persino segreto che ora subiamo; e questo sarebbe il
 primo punto contro di esso, anche se fosse davvero un'emancipazione; ed è
 soltanto nella forma un'emancipazione. Non anticiperò i dettagli della sua
 difesa, che possono essere offerti da altri, ma qui concluderò per il momento
-suggerendo a grandi linee le difese pratiche del divorzio, come
+suggerendo a grandi linee le difese pratiche del [[divorce|divorzio]], come
 generalmente date proprio al presente, sotto quattro capi. E chiederò soltanto
 al lettore di notare che tutte hanno una cosa in comune; il fatto che ogni
 argomento è usato anche per tutta quella [[concepts/reform|riforma]] sociale che gli uomini
@@ -1632,15 +1632,15 @@ stesse strane sezioni sociali, che permettono che un essere umano sia bruciato
 vivo, permettano anche l'esaltata scienza dell'[[concepts/eugenics|Eugenetica]]. Lo stesso avviene
 nella più mite questione delle leggi sui liquori; e ci viene detto che certi
 coloniali piuttosto rozzi hanno stabilito leggi proibizioniste, che cercano di
-eludere; proprio come ci viene detto che hanno stabilito leggi sul divorzio,
-che ora stanno cercando di abrogare. Poiché in questo caso del divorzio,
+eludere; proprio come ci viene detto che hanno stabilito leggi sul [[divorce|divorzio]],
+che ora stanno cercando di abrogare. Poiché in questo caso del [[divorce|divorzio]],
 almeno, l'argomento dei precedenti lontani ha rinculato schiacciante su se
-stesso. C'è già un'agitazione per meno divorzio in [[settings/america|America]], mentre c'è
-un'agitazione per più divorzio in Inghilterra.
+stesso. C'è già un'agitazione per meno [[divorce|divorzio]] in [[settings/america|America]], mentre c'è
+un'agitazione per più [[divorce|divorzio]] in Inghilterra.
 
 Di nuovo, quando un argomento è fondato su un bisogno di popolazione, sarà [[motifs/well|bene]]
 che coloro che lo sostengono si rendano conto di dove esso possa condurli. È
-estremamente dubbio che la popolazione sia uno dei vantaggi del divorzio; ma
+estremamente dubbio che la popolazione sia uno dei vantaggi del [[divorce|divorzio]]; ma
 non c'è [[concepts/doubt|dubbio]] che sia uno dei vantaggi della poligamia. Esso è già usato in
 [[settings/germany|Germania]] come argomento per la poligamia. Ma la parola stessa ci insegnerà a
 guardare persino oltre la [[settings/germany|Germania]] per qualcosa di ancor più remoto e
@@ -1683,8 +1683,8 @@ col spirituale arbitrato del signor Nupkins.
 Una parola dovrebbe essere aggiunta a questo frettoloso [[forms/sketch|schizzo]] degli elementi
 del caso. Ho deliberatamente lasciato fuori l'aspetto e l'argomento più elevato,
 quello che vede il [[motifs/marriage|matrimonio]] come un'istituzione divina; e ciò per la logica
-ragione che coloro che credono in questo non crederebbero nel divorzio; e io
-sto discutendo con coloro che credono davvero nel divorzio. Non chiedo loro di
+ragione che coloro che credono in questo non crederebbero nel [[divorce|divorzio]]; e io
+sto discutendo con coloro che credono davvero nel [[divorce|divorzio]]. Non chiedo loro di
 assumere il valore del mio credo o di alcun credo; e vorrei che essi non
 chiedessero così spesso a me di assumere il valore della loro senza valore,
 velenosa, plutocratica società moderna. Ma se si potesse mostrare, come credo si
@@ -1720,16 +1720,16 @@ of vassals against their lords, of niggers against nigger-drivers,
 of Poles against Prussians or Irishmen against Englishmen;
 for all the world as if we really believed in the fabulous nation
 of the Amazons.  The equally philosophical idea of a general
-revolt of men against women has been put into a romance by
+revolt of men against women has been put into a [[Romance|romance]] by
 Sir Walter Besant, and into a sociological book by Mr. Belfort Bax.
 But at the first touch of this [[concepts/truth|truth]] of an aboriginal attraction,
 all such comparisons collapse and are seen to be comic.
 A Prussian does not feel from the first that he can only
 be happy if he spends his days and nights with a Pole.
-An Englishman does not think his house empty and cheerless unless
+An Englishman does not think his [[house]] empty and cheerless unless
 it happens to contain an Irishman.  A white man does not in his
 romantic youth dream of the perfect [[concepts/beauty|beauty]] of a black man.
-A railway magnate seldom writes poems about the personal fascination
+A railway magnate seldom writes [[Poems|poems]] about the personal fascination
 of a railway porter.  All the other revolts against all the other
 relations are reasonable and even inevitable, because those
 relations are originally only founded upon force or [[concepts/self|self]] interest.
@@ -1775,7 +1775,7 @@ always unable to delegate all of it.  In this, I repeat, it will always
 be necessary for the two teachers to remain together, in proportion
 as they have anything to teach.  One of the shapeless sea-beasts,
 that merely detaches itself from its offspring and floats away,
-could float away to a submarine divorce [[settings/court|court]], or an advanced club
+could float away to a submarine [[divorce]] [[settings/court|court]], or an advanced club
 founded on free-[[motifs/love|love]] for fishes.  The sea-beast might do this,
 precisely because the sea beast's offspring need do nothing;
 because it has not got to learn the polka or the multiplication table.
@@ -1809,7 +1809,7 @@ V
 LA STORIA DELLA FAMIGLIA
 
 L'istituzione più antica dell'uomo ha un'autorità che può sembrare selvaggia quanto l'anarchia.
-Essa sola tra tutte le istituzioni del genere inizia con una spontanea attrazione; e si può dire, strettamente e non sentimentalmente,
+[[Alone|Essa sola]] tra tutte le istituzioni del genere inizia con una spontanea attrazione; e si può dire, strettamente e non sentimentalmente,
 che sia fondata sull'[[motifs/love|amore]] anziché sulla [[concepts/fear|paura]]. Il tentativo di paragonarla alle istituzioni coercitive che complicano la
 successiva [[concepts/history|storia]] ha portato a infinite illogicità nei tempi successivi. È unica quanto universale.
 Non c'è nulla in nessun'altra relazione sociale che sia anche solo lontanamente paragonabile all'attrazione reciproca dei sessi.
@@ -1818,13 +1818,13 @@ in cento follie. L'idea di una rivolta generale delle donne contro gli uomini è
 come se fosse la rivolta dei vassalli contro i loro signori, degli schiavi africani contro chi li sfrutta,
 dei polacchi contro i prussiani o degli irlandesi contro gli inglesi;
 come se davvero credessimo nella favolosa nazione delle Amazzoni. L'idea altrettanto filosofica di una rivolta generale
-degli uomini contro le donne è stata messa in un romanzo da Sir Walter Besant, e in un libro sociologico dal signor Belfort Bax.
+degli uomini contro le donne è stata messa in un [[Romance|romanzo]] da Sir Walter Besant, e in un libro sociologico dal signor Belfort Bax.
 Ma al primo contatto con questa [[concepts/truth|verità]] di un'attrazione primordiale,
 tutti questi paragoni crollano e si vede che sono comici. Un prussiano non sente fin dall'inizio
 che può essere felice solo se trascorre i suoi giorni e le sue notti con un polacco.
-Un inglese non pensa che la sua casa sia vuota e desolata a meno che non contenga per caso un irlandese. Un bianco
+Un inglese non pensa che la sua [[house|casa]] sia vuota e desolata a meno che non contenga per caso un irlandese. Un bianco
 non sogna nella sua giovinezza romantica la perfetta [[concepts/beauty|bellezza]] di un nero.
-Un magnate delle ferrovie raramente scrive poesie sulla personale fascinazione di un facchino. Tutte le altre rivolte
+Un magnate delle ferrovie raramente scrive [[Poems|poesie]] sulla personale fascinazione di un facchino. Tutte le altre rivolte
 contro tutte le altre relazioni sono ragionevoli e persino inevitabili, perché quelle relazioni si fondano originariamente solo su forza o [[concepts/self|interesse]] personale.
 La forza può abolire ciò che la forza ha stabilito; l'[[concepts/self|interesse]] personale
 può terminare un contratto quando è stato dettato dall'[[concepts/self|interesse]] personale. Ma l'[[motifs/love|amore]] tra uomo e donna non è un istituto che può essere abolito,
@@ -1859,7 +1859,7 @@ sempre incapace di delegarne tutto. In questo, lo ripeto, sarà sempre
 necessario che i due insegnanti rimangano insieme, in proporzione
 a ciò che hanno da insegnare. Uno dei mostri informi del mare,
 che si stacca semplicemente dalla sua prole e galleggia via,
-potrebbe allontanarsi verso un tribunale divorzista sottomarino, o un club avanzato
+potrebbe allontanarsi verso un tribunale [[divorce|divorzista]] sottomarino, o un club avanzato
 fondato sul libero [[motifs/love|amore]] per i pesci. La bestia marina potrebbe farlo,
 proprio perché la prole della bestia marina non ha bisogno di fare nulla;
 perché non deve imparare la polca o la tabella pitagorica.
@@ -1905,7 +1905,7 @@ I do not know why he did not go on to say that they should
 earn their own living, pay income tax to the state, and die
 in battle for the fatherland; for the proposal evidently is
 that children shall have no [[motifs/childhood|childhood]].  But you can, if you find
-entertainment in such games, organise "representative government"
+entertainment in such games, organise "representative [[government]]"
 among little boys and girls, and tell them to take their legal
 and constitutional responsibilities as seriously as possible.
 In short, you can be crazy; but you cannot be consistent.
@@ -1919,10 +1919,10 @@ of more artificial authorities.  It has always been regarded as
 something in the literal sense individual; that is, as an absolute
 that could not really be divided.  A baby was not even a baby apart
 from its mother; it was something else, most probably a corpse.
-It was always recognised as standing in a peculiar relation to government;
+It was always recognised as standing in a peculiar relation to [[government]];
 simply because it was one of the few things that had not been made
-by government; and could to some extent come into existence with out
-the support of government.  Indeed the case for it is too strong
+by [[government]]; and could to some extent come into existence with out
+the support of [[government]].  Indeed the case for it is too strong
 to be stated.  For the case for it is that there is nothing like it;
 and we can only find faint parallels to it in those more elaborate
 and painful powers and institutions that are its inferiors.
@@ -1942,7 +1942,7 @@ and she does not always, in the scurry of her social or domestic duties,
 pause to distinguish the optimistic materialism of Mrs. Robinson from
 the more acid cynicism which tinges the hedonism of Mr. Robinson.
 There is a colour of the household inside, as conspicuous as the colour
-of the house outside.  That colour is a blend, and if any tint
+of the [[house]] outside.  That colour is a blend, and if any tint
 in it predominate it is generally that preferred by Mrs. Robinson.
 But, like all composite colours, it is a separate colour;
 as separate as green is from blue and yellow.  Every [[motifs/marriage|marriage]] is
@@ -1974,7 +1974,7 @@ that unlimited liberty is, anarchy, or rather is nonentity.
 The civic idea of liberty is to give the citizen a province
 of liberty; a limitation within which a citizen is a [[archetypes/king|king]].
 This is the only way in which [[concepts/truth|truth]] can ever find refuge from
-public persecution, and the good man survive the bad government.
+public persecution, and the good man survive the bad [[government]].
 But the good man by himself is no match for the [[motifs/city|city]].
 There must be balanced against it another ideal institution,
 and in that sense an immortal institution.  So long as the state
@@ -2009,7 +2009,7 @@ dire, come disse l'altro giorno un pedagogo, che i bambini piccoli dovrebbero
 non abbia proseguito dicendo che dovrebbero guadagnarsi da vivere, pagare
 l'imposta sul reddito allo Stato, e morire in battaglia per la patria; poiché la
 proposta evidentemente è che i bambini non abbiano alcuna [[motifs/childhood|infanzia]]. Ma puoi,
-se trovi divertimento in tali giochi, organizzare un "governo rappresentativo"
+se trovi divertimento in tali giochi, organizzare un "[[government|governo]] rappresentativo"
 tra i bambini e le bambine, e dir loro di prendere le loro responsabilità legali
 e costituzionali con la massima serietà possibile. In breve, puoi essere pazzo;
 ma non puoi essere coerente. Non puoi realmente riportare il tuo stesso principio
@@ -2022,9 +2022,9 @@ artificiali. È sempre stato considerato qualcosa in senso letterale individuale
 cioè, come un assoluto che non poteva realmente essere diviso. Un bimbo non era
 nemmeno un bimbo separato dalla madre; era qualcos'altro, molto probabilmente un
 cadavere. Fu sempre riconosciuto come stante in una peculiare relazione col
-governo; semplicemente perché era una delle poche cose che non erano state
-fatte dal governo; e poteva in qualche misura venire all'esistenza senza il
-sostegno del governo. Invero la causa a suo favore è troppo forte per essere
+[[government|governo]]; semplicemente perché era una delle poche cose che non erano state
+fatte dal [[government|governo]]; e poteva in qualche misura venire all'esistenza senza il
+sostegno del [[government|governo]]. Invero la causa a suo favore è troppo forte per essere
 esposta. Poiché la causa a suo favore è che non c'è nulla di simile ad esso; e
 possiamo trovarne soltanto deboli paralleli in quei poteri e istituzioni più
 elaborati e penosi che ne sono gli inferiori. Così l'unico modo di renderlo è
@@ -2041,7 +2041,7 @@ la signora Brown. Una donna dice davvero "Non mi piace che Jemima frequenti tant
 i Robinson"; e non sempre, nella fretta dei suoi doveri sociali o domestici, si
 ferma a distinguere l'ottimistico materialismo della signora Robinson dal più
 acido cinismo che tinge l'edonismo del signor Robinson. C'è un colore della
-famiglia all'interno, cospicuo quanto il colore della casa all'esterno. Quel
+famiglia all'interno, cospicuo quanto il colore della [[house|casa]] all'esterno. Quel
 colore è una mescolanza, e se qualche tinta in esso predomina è generalmente
 quella preferita dalla signora Robinson. Ma, come tutti i colori compositi, è un
 colore a sé; distinto quanto il verde lo è dal blu e dal giallo. Ogni [[motifs/marriage|matrimonio]]
@@ -2069,7 +2069,7 @@ più naturalmente dello Stato. Ogni uomo sano riconosce che la libertà illimita
 è anarchia, o piuttosto è nullità. L'idea civica della libertà è dare al cittadino
 una provincia di libertà; una limitazione entro la quale un cittadino è un [[archetypes/king|re]].
 Questo è l'unico modo in cui la [[concepts/truth|verità]] possa mai trovare rifugio dalla
-persecuzione pubblica, e l'uomo buono sopravvivere al cattivo governo. Ma
+persecuzione pubblica, e l'uomo buono sopravvivere al cattivo [[government|governo]]. Ma
 l'uomo buono da solo non è pari alla [[motifs/city|città]]. Deve esserci, contrapposta ad essa,
 un'altra istituzione ideale, e in quel senso un'istituzione immortale. Finché lo
 Stato è l'unica istituzione ideale, lo Stato chiamerà il cittadino a sacrificarsi,
@@ -2150,14 +2150,14 @@ arbitrary power because there are here and there such things as
 criminal parents; as if there were no such things as criminal doctors
 or criminal school-masters. A mother is not always judicious about
 her [[archetypes/child|child]]'s diet, so it is given into the control of Dr. Crippen.
-A father is thought not to teach his sons the purest morality;
+A father is thought not to teach his sons the purest [[morality]];
 so they are put under the tutorship of Eugene Aram.
 These celebrated criminals are no more rare in their respective
 professions than the cruel parents are in the profession
 of parenthood.  But indeed the case is far stronger than this;
 and there is no need to rely on the case of such criminals at all.
 The ordinary weaknesses of human [[concepts/nature|nature]] will explain all the weaknesses
-of bureaucracy and business government all over the world.
+of bureaucracy and business [[government]] all over the world.
 The official need only be an ordinary man to be more indifferent
 to other people's children than to his own; and even to sacrifice
 other people's family prosperity to his own.  He may be bored;
@@ -2298,14 +2298,14 @@ un potere arbitrario perché esistono qua e là cose come
 genitori criminali; come se non esistessero cose come medici criminali
 o maestri di scuola criminali.  Una madre non è sempre giudiziosa riguardo
 alla dieta del suo [[archetypes/child|bambino]], e così esso è affidato al controllo del dottor Crippen.
-Un padre è ritenuto incapace di insegnare ai suoi figli la più pura moralità;
+Un padre è ritenuto incapace di insegnare ai suoi figli la più pura [[morality|moralità]];
 e così essi sono posti sotto la tutela di Eugene Aram.
 Questi celebri criminali non sono più rari nelle loro rispettive
 professioni di quanto i genitori crudeli lo siano nella professione
 della genitorialità.  Ma in verità il caso è assai più forte di questo;
 e non c'è alcun bisogno di fare affidamento sul caso di simili criminali.
 Le ordinarie debolezze della [[concepts/nature|natura]] umana spiegheranno tutte le debolezze
-della burocrazia e del governo degli affari in tutto il mondo.
+della burocrazia e del [[government|governo]] degli affari in tutto il mondo.
 Basta che il funzionario sia un uomo ordinario per essere più indifferente
 ai figli altrui che ai propri; e persino per sacrificare
 la prosperità della famiglia altrui alla propria.  Può essere annoiato;
@@ -2395,7 +2395,7 @@ Charles [[motifs/lamb|Lamb]], with his fine fantastic instinct for combinations 
 also contrasts, has noted somewhere a contrast between St. [[characters/valentine|Valentine]]
 and valentines.  There seems a comic incongruity in such lively
 and frivolous flirtations still depending on the date and title
-of an ascetic and celibate bishop of the Dark Ages.  The [[concepts/paradox|paradox]] lends
+of an [[ascetic]] and celibate bishop of the Dark Ages.  The [[concepts/paradox|paradox]] lends
 itself to his treatment, and there is a [[concepts/truth|truth]] in his view of it.
 Perhaps it may seem even more of a [[concepts/paradox|paradox]] to say there is no [[concepts/paradox|paradox]].
 In such cases unification appears more provocative than division;
@@ -2409,14 +2409,14 @@ object of tracing a philosophical principle running through them.
 But if he did, I have no [[concepts/doubt|doubt]] about the philosophic principle
 he would find.  However trivial, however imbecile, however vulgar
 or vapid or stereotyped the imagery of such things might be, it would
-always involve one idea, the same idea that makes lovers laboriously
+always involve one idea, the same idea that makes [[lovers]] laboriously
 chip their initials on a tree or a rock, in a sort of monogram
 of monogamy.  It may be a cockney trick to tie one's [[motifs/love|love]] on a tree;
 though [[characters/orlando|Orlando]] did it, and would now doubtless be arrested
 by the police for breaking the byelaws of the Forest of Arden.
 I am not here concerned especially to commend the habit of cutting
 one's own name and private address in large letters on the front
-of the Parthenon, across the face of the Sphinx, or in any other nook
+of the Parthenon, across the face of [[The Sphinx|the Sphinx]], or in any other nook
 or corner where it may chance to arrest the sentimental interest
 of posterity.  But like many other popular things, of the sort
 that can generally be found in Shakespeare, there is a meaning in it
@@ -2428,19 +2428,19 @@ of tying oneself to something that runs through all this old amorous
 of hearts chained together, or skewered together, or in some
 manner secured; there is a security that can only be called captivity.
 That it frequently fails to secure itself has nothing to do with
-the present point.  The point is that every philosophy of sex
+the present point.  The point is that every [[philosophy]] of sex
 must fail, which does not account for its [[concepts/ambition|ambition]] of fixity,
 as [[motifs/well|well]] as for its experience of failure.  There is nothing to make
 [[characters/orlando|Orlando]] commit himself on the sworn evidence of the nearest tree.
 He is not bound to be bound; he is under constraint, but nobody
 constrains him to be under constraint.  In short, [[characters/orlando|Orlando]] took
 a vow to marry precisely as [[characters/valentine|Valentine]] took a vow not to marry.
-Nor could any ascetic, without being a heretic, have asserted
+Nor could any [[ascetic]], without being a heretic, have asserted
 in the wildest reactions of asceticism, that the vow of [[characters/orlando|Orlando]]
 was not lawful as [[motifs/well|well]] as the vow of [[characters/valentine|Valentine]].  But it is a notable
 fact that even when it was not lawful, it was still a vow.
 Through all that mediaeval culture, which has left us the legend
-of romance, there ran this pattern of a chain, which was felt as binding
+of [[Romance|romance]], there ran this pattern of a chain, which was felt as binding
 even where it ought not to bind.  The lawless loves of mediaeval
 legends all have their own law, and especially their own loyalty,
 as in the tales of Tristram or Lancelot.  In this sense we might say
@@ -2503,7 +2503,7 @@ Charles [[motifs/lamb|Lamb]], col suo fine e fantastico istinto per le combinazi
 anche contrasti, ha notato in qualche luogo un contrasto tra San [[characters/valentine|Valentino]]
 e i biglietti di San Valentino.  Vi è una comica incongruenza in flirt
 tanto vivaci e frivoli che ancora dipendono dalla data e dal titolo
-di un vescovo asceta e celibe dei Secoli Bui.  Il [[concepts/paradox|paradosso]] si presta
+di un vescovo [[ascetic|asceta]] e celibe dei Secoli Bui.  Il [[concepts/paradox|paradosso]] si presta
 al suo trattamento, e vi è una [[concepts/truth|verità]] nella sua veduta di esso.
 Forse potrà sembrare ancora più un [[concepts/paradox|paradosso]] dire che non vi è alcun [[concepts/paradox|paradosso]].
 In tali casi l'unificazione appare più provocatoria della divisione;
@@ -2517,14 +2517,14 @@ scopo di rintracciare un principio filosofico che li attraversi.
 Ma se lo facesse, non ho alcun [[concepts/doubt|dubbio]] sul principio filosofico
 che troverebbe.  Per quanto banale, per quanto imbecille, per quanto volgare
 o insulsa o stereotipata potesse essere l'immagine di simili cose, essa
-implicherebbe sempre un'unica idea, la stessa idea che spinge gli amanti a intagliare laboriosamente
+implicherebbe sempre un'unica idea, la stessa idea che spinge gli [[lovers|amanti]] a intagliare laboriosamente
 le loro iniziali su un albero o su una roccia, in una sorta di monogramma
 della monogamia.  Può essere una trovata da cockney legare il proprio [[motifs/love|amore]] a un albero;
 sebbene [[characters/orlando|Orlando]] lo facesse, e ora senza dubbio verrebbe arrestato
 dalla polizia per aver violato i regolamenti della Foresta di Arden.
 Non mi preme qui in modo speciale lodare l'abitudine di incidere
 il proprio nome e indirizzo privato a grandi lettere sulla facciata
-del Partenone, sul volto de la Sfinge, o in ogni altro cantuccio
+del Partenone, sul volto de [[The Sphinx|la Sfinge]], o in ogni altro cantuccio
 o angolo dove per caso possa attirare l'interesse sentimentale
 dei posteri.  Ma come molte altre cose popolari, del genere
 che generalmente si trova in Shakespeare, vi è in essa un significato
@@ -2536,19 +2536,19 @@ di legarsi a qualcosa che scorre attraverso tutta questa vecchia amorosa
 di cuori incatenati insieme, o infilzati insieme, o in qualche
 modo assicurati; vi è una sicurezza che può solo chiamarsi cattività.
 Che essa frequentemente non riesca ad assicurarsi non ha nulla a che fare
-col presente punto.  Il punto è che ogni filosofia del sesso
+col presente punto.  Il punto è che ogni [[philosophy|filosofia]] del sesso
 deve fallire, se non rende conto della sua [[concepts/ambition|ambizione]] di fissità,
 tanto [[motifs/well|bene]] quanto della sua esperienza di fallimento.  Non c'è nulla che costringa
 [[characters/orlando|Orlando]] a impegnarsi sulla giurata testimonianza dell'albero più vicino.
 Egli non è tenuto a essere legato; è sotto costrizione, ma nessuno
 lo costringe a essere sotto costrizione.  In breve, [[characters/orlando|Orlando]] fece
 voto di sposarsi esattamente come [[characters/valentine|Valentino]] fece voto di non sposarsi.
-Né alcun asceta, senza essere un eretico, avrebbe potuto asserire
+Né alcun [[ascetic|asceta]], senza essere un eretico, avrebbe potuto asserire
 nelle più selvagge reazioni dell'ascetismo, che il voto di [[characters/orlando|Orlando]]
 non fosse lecito tanto [[motifs/well|quanto]] il voto di [[characters/valentine|Valentino]].  Ma è un notevole
 fatto che anche quando non era lecito, era pur sempre un voto.
 Attraverso tutta quella cultura medievale, che ci ha lasciato la leggenda
-del romanzo cavalleresco, correva questo motivo di una catena, che era sentito come vincolante
+del [[Romance|romanzo]] cavalleresco, correva questo motivo di una catena, che era sentito come vincolante
 anche là dove non avrebbe dovuto vincolare.  Gli amori senza legge delle leggende
 medievali hanno tutti la loro propria legge, e specialmente la loro propria lealtà,
 come nei racconti di Tristano o di Lancillotto.  In questo senso potremmo dire
@@ -2645,7 +2645,7 @@ from a vow to give all the spoils of conquest to the poor to a vow
 to refrain from shaving until the first glimpse of Jerusalem.
 As I have remarked, this rule of loyalty, even in the unruly
 exceptions which proved the rule, ran through all the romances
-and songs of the troubadours; and there were always vows
+and [[songs]] of the troubadours; and there were always vows
 even when they were very far from being [[motifs/marriage|marriage]] vows.
 The idea is as much present in what they called the Gay Science,
 of [[motifs/love|love]], as in what they called the Divine Science, of theology.
@@ -2749,7 +2749,7 @@ dal voto di dare tutte le spoglie della conquista ai poveri al voto
 di astenersi dal radersi finché non si scorgesse la prima immagine di Gerusalemme.
 Come ho osservato, questa regola di lealtà, persino nelle indisciplinate
 eccezioni che confermavano la regola, correva attraverso tutti i romanzi
-e i canti dei trovatori; e vi erano sempre voti
+e i [[songs|canti]] dei trovatori; e vi erano sempre voti
 anche quando erano ben lungi dall'essere voti [[motifs/marriage|matrimoniali]].
 L'idea è altrettanto presente in ciò che chiamavano la Gaia Scienza,
 dell'[[motifs/love|amore]], quanto in ciò che chiamavano la Divina Scienza, della teologia.
@@ -2862,7 +2862,7 @@ The monasteries, that had been built by vows, were destroyed.
 The guilds, that had been regiments of volunteers were dispersed.
 The sacramental [[concepts/nature|nature]] of [[motifs/marriage|marriage]] was denied; and many
 of the greatest intellects of the new movement, like [[historical-references/milton|Milton]],
-already indulged in a very modern idealisation of divorce.
+already indulged in a very modern idealisation of [[divorce]].
 The progress of this sort of emancipation advanced step by step
 with the progress of that aristocratic ascendancy which has made
 the [[concepts/history|history]] of modern England; with all its sympathy with personal
@@ -2871,7 +2871,7 @@ liberty, and all its utter lack of sympathy with popular life.
 It threatened to become not only a contract, but a contract that could
 not be kept.  For this one question has retained a strange symbolic
 supremacy amid all the similar questions, which seems to perpetuate
-the coincidence of the origin.  It began with divorce for a [[archetypes/king|king]];
+the coincidence of the origin.  It began with [[divorce]] for a [[archetypes/king|king]];
 and it is now ending in divorces for a whole kingdom.
 
 The modern era that followed can be called the era of contract;
@@ -2915,8 +2915,8 @@ they support all the modern restrictions touching drink and hygiene.
 They may be called the friends of temperance or even of happiness;
 but even their friends would not call them the friends of [[concepts/freedom|freedom]].
 There is only one form of [[concepts/freedom|freedom]] which they tolerate; and that is the
-sort of sexual [[concepts/freedom|freedom]] which is covered by the legal fiction of divorce.
-If we ask why this liberty is alone left, when so many liberties
+sort of sexual [[concepts/freedom|freedom]] which is covered by the legal fiction of [[divorce]].
+If we ask why this liberty is [[Alone|alone]] left, when so many liberties
 are lost, we shall find the answer in the summary of this chapter.
 They are trying to break the vow of the knight as they broke the vow
 of the monk.  They recognise the vow as the vital antithesis
@@ -2932,7 +2932,7 @@ In short, what they [[concepts/fear|fear]], in the most literal sense, is [[moti
 Men can always be blind to a thing so long as it is big enough.
 It is so difficult to see the world in which we live, that I
 know that many will see all I have said here of [[concepts/slavery|slavery]] as a
-nonsensical nightmare.  But if my association of divorce with [[concepts/slavery|slavery]]
+nonsensical [[nightmare]].  But if my association of [[divorce]] with [[concepts/slavery|slavery]]
 seems only a far-fetched and theoretical [[concepts/paradox|paradox]], I should have no
 difficulty in replacing it by a concrete and familiar picture.
 Let them merely remember the [[motifs/time|time]] when they read "Uncle Tom's Cabin,"
@@ -2991,7 +2991,7 @@ I monasteri, che erano stati costruiti da voti, furono distrutti.
 Le gilde, che erano state reggimenti di volontari, furono disperse.
 La [[concepts/nature|natura]] sacramentale del [[motifs/marriage|matrimonio]] fu negata; e molti
 dei più grandi intelletti del nuovo movimento, come [[historical-references/milton|Milton]],
-già indulgevano a una assai moderna idealizzazione del divorzio.
+già indulgevano a una assai moderna idealizzazione del [[divorce|divorzio]].
 Il progresso di questa sorta di emancipazione avanzò passo dopo passo
 col progresso di quell'ascendente aristocratico che ha fatto
 la [[concepts/history|storia]] dell'Inghilterra moderna; con tutta la sua simpatia per la libertà
@@ -3000,7 +3000,7 @@ Il [[motifs/marriage|matrimonio]] non solo divenne meno un sacramento ma meno un
 Minacciò di divenire non solo un contratto, ma un contratto che non poteva
 essere mantenuto.  Poiché quest'unica questione ha conservato una strana simbolica
 supremazia tra tutte le questioni simili, che sembra perpetuare
-la coincidenza dell'origine.  Cominciò con un divorzio per un [[archetypes/king|re]];
+la coincidenza dell'origine.  Cominciò con un [[divorce|divorzio]] per un [[archetypes/king|re]];
 e ora sta finendo in divorzi per un intero regno.
 
 L'era moderna che seguì può chiamarsi l'era del contratto;
@@ -3044,8 +3044,8 @@ sostengono tutte le moderne restrizioni riguardanti l'alcol e l'igiene.
 Possono essere chiamati amici della temperanza o persino della felicità;
 ma nemmeno i loro amici li chiamerebbero amici della [[concepts/freedom|libertà]].
 Vi è una sola forma di [[concepts/freedom|libertà]] che essi tollerano; ed è quella
-sorta di [[concepts/freedom|libertà]] sessuale che è coperta dalla finzione legale del divorzio.
-Se domandiamo perché questa libertà è sola lasciata, quando tante libertà
+sorta di [[concepts/freedom|libertà]] sessuale che è coperta dalla finzione legale del [[divorce|divorzio]].
+Se domandiamo perché questa libertà è [[Alone|sola]] lasciata, quando tante libertà
 sono perdute, troveremo la risposta nel sommario di questo capitolo.
 Essi stanno cercando di infrangere il voto del cavaliere come infransero il voto
 del monaco.  Riconoscono il voto come la vitale antitesi
@@ -3061,7 +3061,7 @@ In breve, ciò che essi [[concepts/fear|temono]], nel senso più letterale, è i
 Gli uomini possono sempre essere ciechi a una cosa fintanto che essa è abbastanza grande.
 È così difficile vedere il mondo in cui viviamo, che io
 so che molti vedranno tutto ciò che ho detto qui della [[concepts/slavery|schiavitù]] come un
-insensato incubo.  Ma se la mia associazione del divorzio con la [[concepts/slavery|schiavitù]]
+insensato [[nightmare|incubo]].  Ma se la mia associazione del [[divorce|divorzio]] con la [[concepts/slavery|schiavitù]]
 sembra solo un [[concepts/paradox|paradosso]] forzato e teorico, non avrei alcuna
 difficoltà a sostituirlo con un quadro concreto e familiare.
 Ricordino soltanto il [[motifs/time|tempo]] in cui lessero «La capanna dello zio Tom»,
@@ -3101,7 +3101,7 @@ me [[archetypes/king|king]], out of mere malice because I am a strict republican
 Or it is as if he said, "These heartless brutes are so prejudiced
 against a teetotaler, that they won't even give him a glass of brandy."
 
-The fashion of divorce would not be a modern fashion if it were
+The fashion of [[divorce]] would not be a modern fashion if it were
 not full of this touching fallacy.  A great deal of it might be
 summed up as a most illogical and fanatical appetite for getting
 married in churches.  It is as if a man should practice polygamy
@@ -3150,7 +3150,7 @@ to ask institutions for a formal approval, which they can only
 give by inconsistency.
 
 I have put first the question of what is [[motifs/marriage|marriage]].
-And we are now in a position to ask more clearly what is divorce.
+And we are now in a position to ask more clearly what is [[divorce]].
 It is not merely the negation or neglect of [[motifs/marriage|marriage]]; for any one can
 always neglect [[motifs/marriage|marriage]].  It is not the dissolution of the legal
 obligation of [[motifs/marriage|marriage]], or even the legal obligation of monogamy;
@@ -3167,11 +3167,11 @@ out of the room when somebody they don't like comes into it?"
 We cannot be forcibly introduced to a polygamist by a policeman.
 It would not be an assertion of social liberty, but a denial
 of social liberty, if we found ourselves practically obliged
-to associate with all the profligates in society.  But divorce is
-not in this sense mere anarchy.  On the contrary divorce is in this
+to associate with all the profligates in society.  But [[divorce]] is
+not in this sense mere anarchy.  On the contrary [[divorce]] is in this
 sense respectability; and even a rigid excess of respectability.
-Divorce in this sense might indeed be not unfairly called snobbery.
-The definition of divorce, which concerns us here, is that it
+[[divorce|Divorce]] in this sense might indeed be not unfairly called snobbery.
+The definition of [[divorce]], which concerns us here, is that it
 is the attempt to give respectability, and not liberty.  It is
 the attempt to give a certain social status, and not a legal status.
 It is indeed supposed that this can be done by the alteration
@@ -3242,7 +3242,7 @@ lagnando di essere trattato come ciò che egli stesso dichiara di essere.
 Oppure è come se dicesse: «Questi bruti senza cuore sono così prevenuti
 contro un astemio, che non vogliono nemmeno dargli un bicchiere di brandy.»
 
-La moda del divorzio non sarebbe una moda moderna se non fosse
+La moda del [[divorce|divorzio]] non sarebbe una moda moderna se non fosse
 piena di questa toccante fallacia.  Gran parte di essa potrebbe
 riassumersi come un appetito quanto mai illogico e fanatico di sposarsi
 nelle chiese.  È come se un uomo praticasse la poligamia
@@ -3291,7 +3291,7 @@ chiedere alle istituzioni un'approvazione formale, che esse possono soltanto
 dare per incoerenza.
 
 Ho posto per prima la questione di che cosa sia il [[motifs/marriage|matrimonio]].
-E siamo ora in grado di chiedere più chiaramente che cosa sia il divorzio.
+E siamo ora in grado di chiedere più chiaramente che cosa sia il [[divorce|divorzio]].
 Non è meramente la negazione o la trascuranza del [[motifs/marriage|matrimonio]]; poiché chiunque può
 sempre trascurare il [[motifs/marriage|matrimonio]].  Non è la dissoluzione dell'obbligo legale
 del [[motifs/marriage|matrimonio]], e nemmeno dell'obbligo legale della monogamia;
@@ -3308,11 +3308,11 @@ dalla stanza quando vi entra qualcuno che non le piace?»
 Non possiamo essere presentati a forza a un poligamo da un poliziotto.
 Non sarebbe un'affermazione di libertà sociale, ma una negazione
 di libertà sociale, se ci trovassimo praticamente obbligati
-a frequentare tutti i dissoluti della società.  Ma il divorzio non è
-in questo senso mera anarchia.  Al contrario il divorzio è in questo
+a frequentare tutti i dissoluti della società.  Ma il [[divorce|divorzio]] non è
+in questo senso mera anarchia.  Al contrario il [[divorce|divorzio]] è in questo
 senso rispettabilità; e persino un rigido eccesso di rispettabilità.
-Il divorzio in questo senso potrebbe invero non ingiustamente chiamarsi snobismo.
-La definizione del divorzio, che qui ci concerne, è che esso
+[[divorce|Il divorzio]] in questo senso potrebbe invero non ingiustamente chiamarsi snobismo.
+La definizione del [[divorce|divorzio]], che qui ci concerne, è che esso
 è il tentativo di dare rispettabilità, e non libertà.  È
 il tentativo di dare un certo status sociale, e non uno status legale.
 Si suppone invero che ciò si possa fare con l'alterazione
@@ -3371,7 +3371,7 @@ for richer for poorer, in sickness or in health.  But there is
 one result of this line of argument which should correct a danger
 in some arguments on the same side.
 
-It is very essential that a stricture on divorce, which is in fact
+It is very essential that a stricture on [[divorce]], which is in fact
 simply a defence of [[motifs/marriage|marriage]], should be independent of sentimentalism,
 especially in the form called optimism.  A man justifying a fight
 for national independence or civic [[concepts/freedom|freedom]] is neither sentimental
@@ -3385,9 +3385,9 @@ it is his whole boast that militarism, and even modern science,
 can produce no instrument of torture to tame the [[motifs/soul|soul]] of man.
 It is idle, in speaking of war, to pit the realistic against the romantic,
 in the sense of the heroic; for all possible realism can only increase
-the [[concepts/heroism|heroism]]; and therefore, in the highest sense, increase the romance.
+the [[concepts/heroism|heroism]]; and therefore, in the highest sense, increase the [[Romance|romance]].
 Now I do not compare [[motifs/marriage|marriage]] with war, but I do compare [[motifs/marriage|marriage]]
-with law or liberty or patriotism or popular government,
+with law or liberty or patriotism or popular [[government]],
 or any of the human ideals which have often to be defended by war.
 Even the wildest of those ideals, which seem to escape from all
 the discipline of peace, do not escape from the discipline of war.
@@ -3407,16 +3407,16 @@ for in vigilance and [[motifs/pain|pain]], and a whole army of martyrs.
 Hence I am far indeed from denying the hard cases which
 exist here, as in all matters involving the idea of [[concepts/honour|honour]].
 For indeed I could not deny them without denying the whole
-parallel of militant morality on which my argument rests.
+parallel of militant [[morality]] on which my argument rests.
 But this being first understood, it will be [[motifs/well|well]] to discuss in a
 little more detail what are described as the tragedies of [[motifs/marriage|marriage]].
 And the first thing to note about the most tragic of them is that they
 are not tragedies of [[motifs/marriage|marriage]] at all They are tragedies of sex;
-and might easily occur in a highly modern romance in which [[motifs/marriage|marriage]]
+and might easily occur in a highly modern [[Romance|romance]] in which [[motifs/marriage|marriage]]
 was not mentioned at all.  It is generally summarised by saying
 that the tragic element is the absence of [[motifs/love|love]].  But it is often
 forgotten that another tragic element is often the presence of [[motifs/love|love]].
-The doctors of divorce, with an air of the frank and friendly
+The doctors of [[divorce]], with an air of the frank and friendly
 realism of men of the world, are always recommending and rejoicing
 in a sensible separation by mutual consent.  But if we are really
 to dismiss our [[motifs/dreams|dreams]] of dignity and [[concepts/honour|honour]], if we are really to fall
@@ -3428,24 +3428,24 @@ By far the commonest problem in such cases is that in which one
 party wishes to end the partnership and the other does not.
 And of that emotional situation you can make nothing but a [[forms/tragedy|tragedy]],
 whichever way you turn it.  With or without [[motifs/marriage|marriage]],
-with or without divorce, with or without any arrangements
+with or without [[divorce]], with or without any arrangements
 that anybody can suggest or imagine, it remains a [[forms/tragedy|tragedy]].
 The only difference is that by the doctrine of [[motifs/marriage|marriage]] it remains
 both a noble and a fruitful [[forms/tragedy|tragedy]]; like that of a man who falls
 fighting for his country, or dies testifying to the [[concepts/truth|truth]].
 But the [[concepts/truth|truth]] is that the innovators have as much sham optimism
-about divorce as any romanticist can have had about [[motifs/marriage|marriage]].
-They regard their story, when it ends in the divorce [[settings/court|court]],
+about [[divorce]] as any romanticist can have had about [[motifs/marriage|marriage]].
+They regard their story, when it ends in the [[divorce]] [[settings/court|court]],
 through as rosy a mist of sentimentalism as anybody ever regarded
 a story ending with wedding [[motifs/bells|bells]].  Such a reformer is quite
 sure that when once the prince and princess are divorced
 by the fairy godmother, they will live happily ever after.
-I enjoy romance, but I like it to be rooted in reality; and any
+I enjoy [[Romance|romance]], but I like it to be rooted in reality; and any
 one with a touch of reality knows that nine couples out of ten,
 when they are divorced, are left in an exceedingly different state.
 It will be safe to say in most cases that one partner will fail
 to find happiness in an infatuation, and the other will from
-the first accept a [[forms/tragedy|tragedy]].  In the realm of reality and not romance,
+the first accept a [[forms/tragedy|tragedy]].  In the realm of reality and not [[Romance|romance]],
 it is commonly a case of breaking hearts as [[motifs/well|well]] as breaking promises;
 and even dishonour is not always a remedy for remorse.
 
@@ -3464,7 +3464,7 @@ nella ricchezza e nella povertà, nella malattia e nella salute.  Ma vi è
 un risultato di questa linea di argomentazione che dovrebbe correggere un pericolo
 in alcuni argomenti dalla stessa parte.
 
-È assai essenziale che una critica al divorzio, che è di fatto
+È assai essenziale che una critica al [[divorce|divorzio]], che è di fatto
 semplicemente una difesa del [[motifs/marriage|matrimonio]], sia indipendente dal sentimentalismo,
 specialmente nella forma chiamata ottimismo.  Un uomo che giustifica una lotta
 per l'indipendenza nazionale o la [[concepts/freedom|libertà]] civica non è né sentimentale
@@ -3478,9 +3478,9 @@ piuttosto che come piacere.  Accresce la lode con il [[motifs/pain|dolore]];
 non possano produrre alcuno strumento di tortura per domare l'[[motifs/soul|anima]] dell'uomo.
 È vano, parlando di guerra, contrapporre il realistico al romantico,
 nel senso dell'eroico; poiché ogni realismo possibile può soltanto accrescere
-l'[[concepts/heroism|eroismo]]; e perciò, nel senso più alto, accrescere il romanzesco.
+l'[[concepts/heroism|eroismo]]; e perciò, nel senso più alto, accrescere il [[Romance|romanzesco]].
 Ora io non paragono il [[motifs/marriage|matrimonio]] alla guerra, ma paragono il [[motifs/marriage|matrimonio]]
-alla legge o alla libertà o al patriottismo o al governo popolare,
+alla legge o alla libertà o al patriottismo o al [[government|governo]] popolare,
 o a uno qualunque degli ideali umani che spesso devono essere difesi con la guerra.
 Persino il più selvaggio di quegli ideali, che sembrano sfuggire a tutta
 la disciplina della pace, non sfugge alla disciplina della guerra.
@@ -3500,16 +3500,16 @@ in vigilanza e [[motifs/pain|dolore]], e con un intero esercito di martiri.
 Sono dunque assai lontano dal negare i casi difficili che
 esistono qui, come in ogni materia che coinvolga l'idea dell'[[concepts/honour|onore]].
 Poiché invero non potrei negarli senza negare l'intero
-parallelo della moralità militante su cui poggia il mio argomento.
+parallelo della [[morality|moralità]] militante su cui poggia il mio argomento.
 Ma inteso prima questo, sarà [[motifs/well|bene]] discutere in un
 poco più di dettaglio ciò che è descritto come le tragedie del [[motifs/marriage|matrimonio]].
 E la prima cosa da notare sulla più tragica di esse è che esse
 non sono affatto tragedie del [[motifs/marriage|matrimonio]].  Sono tragedie del sesso;
-e potrebbero facilmente accadere in un romanzo quanto mai moderno in cui il [[motifs/marriage|matrimonio]]
+e potrebbero facilmente accadere in un [[Romance|romanzo]] quanto mai moderno in cui il [[motifs/marriage|matrimonio]]
 non fosse affatto menzionato.  Generalmente si riassume dicendo
 che l'elemento tragico è l'assenza dell'[[motifs/love|amore]].  Ma spesso si
 dimentica che un altro elemento tragico è spesso la presenza dell'[[motifs/love|amore]].
-I dottori del divorzio, con un'aria del franco e amichevole
+I dottori del [[divorce|divorzio]], con un'aria del franco e amichevole
 realismo degli uomini di mondo, stanno sempre raccomandando e rallegrandosi
 di una sensata separazione per mutuo consenso.  Ma se dobbiamo davvero
 congedare i nostri [[motifs/dreams|sogni]] di dignità e [[concepts/honour|onore]], se dobbiamo davvero
@@ -3521,24 +3521,24 @@ Di gran lunga il problema più comune in tali casi è quello in cui una
 parte desidera porre fine alla società e l'altra no.
 E di quella situazione emotiva non si può fare altro che una [[forms/tragedy|tragedia]],
 in qualunque modo la si rivolti.  Con o senza [[motifs/marriage|matrimonio]],
-con o senza divorzio, con o senza qualsiasi accordo
+con o senza [[divorce|divorzio]], con o senza qualsiasi accordo
 che chiunque possa suggerire o immaginare, essa rimane una [[forms/tragedy|tragedia]].
 L'unica differenza è che per la dottrina del [[motifs/marriage|matrimonio]] essa rimane
 insieme una nobile e feconda [[forms/tragedy|tragedia]]; come quella di un uomo che cade
 combattendo per il suo paese, o muore testimoniando la [[concepts/truth|verità]].
 Ma la [[concepts/truth|verità]] è che gli innovatori hanno tanto falso ottimismo
-sul divorzio quanto qualsiasi romanticista poté mai avere sul [[motifs/marriage|matrimonio]].
-Essi guardano alla loro storia, quando finisce nel [[settings/court|tribunale]] del divorzio,
+sul [[divorce|divorzio]] quanto qualsiasi romanticista poté mai avere sul [[motifs/marriage|matrimonio]].
+Essi guardano alla loro storia, quando finisce nel [[settings/court|tribunale]] del [[divorce|divorzio]],
 attraverso una foschia sentimentale rosea come chiunque mai guardò
 a una storia che finisce con [[motifs/bells|campane]] nuziali.  Tale riformatore è del tutto
 certo che una volta che il principe e la principessa siano divorziati
 dalla fata madrina, essi vivranno felici e contenti per sempre.
-Io godo del romanzesco, ma mi piace che sia radicato nella realtà; e chiunque
+Io godo del [[Romance|romanzesco]], ma mi piace che sia radicato nella realtà; e chiunque
 con un tocco di realtà sa che nove coppie su dieci,
 quando divorziano, restano in uno stato oltremodo diverso.
 Sarà prudente dire che nella maggior parte dei casi un partner non riuscirà
 a trovare la felicità in un'infatuazione, e l'altro fin
-dal principio accetterà una [[forms/tragedy|tragedia]].  Nel regno della realtà e non del romanzesco,
+dal principio accetterà una [[forms/tragedy|tragedia]].  Nel regno della realtà e non del [[Romance|romanzesco]],
 è comunemente un caso di cuori spezzati tanto [[motifs/well|quanto]] di promesse infrante;
 e persino il disonore non è sempre un rimedio al rimorso.
 
@@ -3592,7 +3592,7 @@ It [[motifs/leaves|leaves]] out a thousand things; the provocation, the atmosphe
 the harassing restrictions of space, the nagging which Dickens
 described as the terrors of "temper in a cart," the absence of certain
 taboos of social training, the tradition of greater roughness even
-in the gestures of affection.  To make all [[motifs/marriage|marriage]] or divorce,
+in the gestures of affection.  To make all [[motifs/marriage|marriage]] or [[divorce]],
 in the case of such a man, turn upon a blow is like blasting
 the whole life of a gentleman because he has slammed the door.
 Often a poor man cannot slam the door; partly because the model
@@ -3627,7 +3627,7 @@ at such length, to the same man when he comes back and complains
 that he has not got a wife.  Now in practice at this moment
 the great mass of the complaints are precisely of this kind.
 The reformers insist particularly on the pathos of a man's
-position when he has obtained a separation without a divorce.
+position when he has obtained a separation without a [[divorce]].
 Their most tragic figure is that of the man who is already free of all
 those ills he had, and is only asking to be allowed to fly to others
 that he knows not of.  I should be the last to deny that, in certain
@@ -3640,8 +3640,8 @@ but anyhow it is the point of our whole distinction in the matter;
 it is here that we draw the line, and I have nowhere denied that it
 is a line of battle.  The battle joins on the debatable ground,
 not of the man's doubtful past but of his still more doubtful future.
-In a word, the divorce controversy is not really a controversy
-about divorce.  It is a controversy about re-[[motifs/marriage|marriage]]; or rather
+In a word, the [[divorce]] controversy is not really a controversy
+about [[divorce]].  It is a controversy about re-[[motifs/marriage|marriage]]; or rather
 about whether it is [[motifs/marriage|marriage]] at all.
 
 And with that we can only return to the point of [[concepts/honour|honour]]
@@ -3663,8 +3663,8 @@ men will feel that this distinction between release and "re-lease"
 is neither fanciful nor harsh, but very rational and human.
 A patriot may be an [[concepts/exile|exile]] in another country; but he will not be
 a patriot of another country.  He will be as cheerful as he can
-in an abnormal position; he may or may not sing his country's songs
-in a strange land; but he will not sing the strange songs as his own.
+in an abnormal position; he may or may not sing his country's [[songs]]
+in a strange land; but he will not sing the strange [[songs]] as his own.
 And such may fairly be also the attitude of the citizen who has
 gone into [[concepts/exile|exile]] from the oldest of earthly cities.
 
@@ -3718,7 +3718,7 @@ ma non è un atto di eguale giustizia tra le classi.
 le assillanti ristrettezze di spazio, il brontolio che Dickens
 descrisse come i terrori del «cattivo umore in un carretto», l'assenza di certi
 tabù dell'educazione sociale, la tradizione di una maggiore rudezza persino
-nei gesti dell'affetto.  Far dipendere ogni [[motifs/marriage|matrimonio]] o divorzio,
+nei gesti dell'affetto.  Far dipendere ogni [[motifs/marriage|matrimonio]] o [[divorce|divorzio]],
 nel caso di un tal uomo, da un colpo è come dare alle fiamme
 l'intera vita di un gentiluomo perché ha sbattuto la porta.
 Spesso un pover'uomo non può sbattere la porta; in parte perché la
@@ -3753,7 +3753,7 @@ a tale lunghezza, al medesimo uomo quando torna e si lagna
 di non avere una moglie.  Ora in pratica in questo momento
 la gran massa delle lagnanze è precisamente di questo genere.
 I riformatori insistono particolarmente sul pathos della posizione
-di un uomo quando ha ottenuto una separazione senza un divorzio.
+di un uomo quando ha ottenuto una separazione senza un [[divorce|divorzio]].
 La loro figura più tragica è quella dell'uomo che è già libero di tutti
 quei mali che aveva, e chiede soltanto che gli sia concesso di volare verso altri
 che egli non conosce.  Sarei l'ultimo a negare che, in certe
@@ -3766,8 +3766,8 @@ ma comunque è il punto dell'intera nostra distinzione in materia;
 è qui che tracciamo la linea, e in nessun luogo ho negato che essa
 sia una linea di battaglia.  La battaglia s'ingaggia sul terreno conteso,
 non del dubbio passato dell'uomo ma del suo ancor più dubbio futuro.
-In una parola, la controversia sul divorzio non è realmente una controversia
-sul divorzio.  È una controversia sul ri-[[motifs/marriage|matrimonio]]; o piuttosto
+In una parola, la controversia sul [[divorce|divorzio]] non è realmente una controversia
+sul [[divorce|divorzio]].  È una controversia sul ri-[[motifs/marriage|matrimonio]]; o piuttosto
 sul se sia affatto un [[motifs/marriage|matrimonio]].
 
 E con ciò possiamo soltanto tornare al punto d'[[concepts/honour|onore]]
@@ -3789,8 +3789,8 @@ sentirà che questa distinzione tra la liberazione (release) e la «ri-locazione
 non è né fantasiosa né dura, ma assai razionale e umana.
 Un patriota può essere un [[concepts/exile|esule]] in un altro paese; ma non sarà
 un patriota di un altro paese.  Sarà allegro quanto può
-in una posizione anormale; potrà o non potrà cantare i canti del suo paese
-in una terra straniera; ma non canterà i canti stranieri come propri.
+in una posizione anormale; potrà o non potrà cantare i [[songs|canti]] del suo paese
+in una terra straniera; ma non canterà i [[songs|canti]] stranieri come propri.
 E tale può ben essere anche l'atteggiamento del cittadino che è
 andato in [[concepts/exile|esilio]] dalla più antica delle città terrene.
 
@@ -3803,16 +3803,16 @@ andato in [[concepts/exile|esilio]] dalla più antica delle città terrene.
 
 VIII
 
-THE VISTA OF DIVORCE
+THE VISTA OF [[divorce|DIVORCE]]
 
-The case for divorce combines all the advantages of having it
+The case for [[divorce]] combines all the advantages of having it
 both ways; and of drawing the same deduction from right or left,
 and from black or white.  Whichever way the programme works
 in practice, it can still be justified in theory.  If there
-are few examples of divorce, it shows how little divorce need
+are few examples of [[divorce]], it shows how little [[divorce]] need
 be dreaded; if there are many, it shows how much it is required.
-The rarity of divorce is an argument in favour of divorce;
-and the multiplicity of divorce is an argument against [[motifs/marriage|marriage]].
+The rarity of [[divorce]] is an argument in favour of [[divorce]];
+and the multiplicity of [[divorce]] is an argument against [[motifs/marriage|marriage]].
 Now, in [[concepts/truth|truth]], if we were confined to considering this alternative
 in a speculative manner, if there were no concrete facts but only
 abstract probabilities, we should have no difficulty in arguing our case.
@@ -3821,10 +3821,10 @@ to anarchy, and gives no logical or legal guarantee worth discussing.
 The advantages of their [[concepts/reform|reform]] do not accrue to the [[archetypes/innocent|innocent]] party,
 but to the guilty party; especially if he be sufficiently guilty.
 A man has only to commit the crime of desertion to obtain the reward
-of divorce.  And if they are entitled to take as typical the most
+of [[divorce]].  And if they are entitled to take as typical the most
 horrible hypothetical cases of the abuse of the [[motifs/marriage|marriage]] laws,
 surely we are entitled to take equally extreme possibilities in the abuse
-of their own divorce laws.  If they, when looking about for a husband,
+of their own [[divorce]] laws.  If they, when looking about for a husband,
 so often hit upon a homicidal maniac, surely we may politely introduce
 them to the far more human figure of the gentleman who marries as
 many women as he likes and gets rid of them as often as he pleases.
@@ -3832,14 +3832,14 @@ But in fact there is no necessity for us to argue thus in the abstract;
 for the amiable gentleman in question undoubtedly exists in the concrete.
 Of course, he is no new figure; he is a very recurrent type of rascal;
 his name has been Lothario or Don Juan; and he has often been
-represented as a rather romantic rascal.  The point of divorce [[concepts/reform|reform]],
+represented as a rather romantic rascal.  The point of [[divorce]] [[concepts/reform|reform]],
 it cannot be too often repeated, is that the rascal should not
 only be regarded as romantic, but regarded as respectable.
 He is not to sow his wild oats and settle down; he is merely to settle
 down to sowing his wild oats.  They are to be regarded as tame
 and inoffensive oats; almost, if one may say so, as Quaker oats.
 But there is no need, as I say, to speculate about whether the looser
-view of divorce might prevail; for it is already prevailing.
+view of [[divorce]] might prevail; for it is already prevailing.
 The newspapers are full of an astonishing hilarity about the rapidity
 with which hundreds or thousands of human families are being broken up
 by the lawyers; and about the undisguised haste of the "hustling judges"
@@ -3852,7 +3852,7 @@ as if there might, here and there, be a hint of some sort
 of reason for ruining the fundamental institution of society.
 And nobody who notes those details, or considers those faint hints
 of reason, can [[concepts/doubt|doubt]] for a moment that masses of these men and women
-are now simply using divorce in the spirit of free-[[motifs/love|love]]. They
+are now simply using [[divorce]] in the spirit of free-[[motifs/love|love]]. They
 are very seldom the sort of people who have once fallen tragically
 into the wrong place, and have now found their way triumphantly
 to the right place.  They are almost always people who are
@@ -3863,7 +3863,7 @@ a promise they have already broken in practice and almost avowedly
 disbelieve in principle.
 
 In face of this headlong fashion, it is really reasonable to ask
-the divorce reformers what is their attitude towards the old
+the [[divorce]] reformers what is their attitude towards the old
 monogamous ethic of our civilisation; and whether they wish to
 retain it in general, or to retain it at all.  Unfortunately even
 the sincerest and most lucid of them use language which [[motifs/leaves|leaves]]
@@ -3871,7 +3871,7 @@ the matter a little doubtful.  Mr. E. S. P. Haynes is one of the most
 brilliant and most fair-minded controversialists on that side;
 and he has said, for instance, that he agrees with me in supporting
 the ideal of indissoluble or, at least, of undissolved [[motifs/marriage|marriage]].
-Mr. Haynes is one of the few friends of divorce who are also real
+Mr. Haynes is one of the few friends of [[divorce]] who are also real
 friends of [[concepts/democracy|democracy]]; and I am sure that in practice this stands
 for a real sympathy with the [[motifs/home|home]], especially the poor [[motifs/home|home]].
 Unfortunately, on the theoretic side, the word "ideal" is far from being
@@ -3889,7 +3889,7 @@ a soldier, or the shrine and image of a historical character,
 who had resisted the example of the man in the "New Witness"
 ballade in bolting with the children's [[characters/nurse|nurse]].  Such high
 artistic hagiology would be quite consistent with Mr. Haynes'
-divorce [[concepts/reform|reform]]; with re-[[motifs/marriage|marriage]] after three years, or three hours.
+[[divorce]] [[concepts/reform|reform]]; with re-[[motifs/marriage|marriage]] after three years, or three hours.
 It would also be quite consistent with Mr. Haynes' phrase about
 preserving an ideal of [[motifs/marriage|marriage]].  What it would not be consistent
 with is the perfectly plain, solid, secular and social usefulness
@@ -3926,17 +3926,17 @@ by pointing to one infant.
 
 VIII
 
-LA PROSPETTIVA DEL DIVORZIO
+LA PROSPETTIVA DEL [[divorce|DIVORZIO]]
 
-Le ragioni a favore del divorzio combinano tutti i vantaggi
+Le ragioni a favore del [[divorce|divorzio]] combinano tutti i vantaggi
 del poter avere la cosa in entrambi i modi; e del trarre la medesima
 deduzione tanto da destra quanto da sinistra, e dal bianco come dal nero.
 In qualunque modo il programma funzioni nella pratica, esso può comunque
-essere giustificato in teoria.  Se vi sono pochi esempi di divorzio,
-ciò dimostra quanto poco il divorzio debba essere temuto;
+essere giustificato in teoria.  Se vi sono pochi esempi di [[divorce|divorzio]],
+ciò dimostra quanto poco il [[divorce|divorzio]] debba essere temuto;
 se ve ne sono molti, ciò dimostra quanto esso sia necessario.
-La rarità del divorzio è un argomento in favore del divorzio;
-e la molteplicità del divorzio è un argomento contro il [[motifs/marriage|matrimonio]].
+La rarità del [[divorce|divorzio]] è un argomento in favore del [[divorce|divorzio]];
+e la molteplicità del [[divorce|divorzio]] è un argomento contro il [[motifs/marriage|matrimonio]].
 Ora, in [[concepts/truth|verità]], se ci limitassimo a considerare questa alternativa
 in maniera speculativa, se non vi fossero fatti concreti ma soltanto
 astratte probabilità, non avremmo alcuna difficoltà a sostenere la nostra tesi.
@@ -3945,11 +3945,11 @@ vicina all'anarchia, e non offre alcuna garanzia logica o legale che
 valga la pena discutere.  I vantaggi della loro [[concepts/reform|riforma]] non ricadono
 sulla parte [[archetypes/innocent|innocente]], bensì sulla parte colpevole;
 specialmente se essa sia sufficientemente colpevole.  A un uomo basta
-commettere il delitto dell'abbandono per ottenere il premio del divorzio.
+commettere il delitto dell'abbandono per ottenere il premio del [[divorce|divorzio]].
 E se essi hanno il diritto di prendere come tipici i più orribili casi
 ipotetici di abuso delle leggi sul [[motifs/marriage|matrimonio]], di certo noi
 abbiamo il diritto di prendere possibilità altrettanto estreme
-nell'abuso delle loro stesse leggi sul divorzio.  Se essi,
+nell'abuso delle loro stesse leggi sul [[divorce|divorzio]].  Se essi,
 cercandosi un marito, tanto spesso s'imbattono in un maniaco omicida,
 di certo noi possiamo garbatamente presentar loro la figura assai più
 umana del gentiluomo che sposa quante donne gli aggrada e se ne disfa
@@ -3958,14 +3958,14 @@ di ragionare così in astratto; giacché l'amabile gentiluomo in questione
 esiste senza dubbio nel concreto.  Naturalmente egli non è una figura nuova;
 è un tipo di mascalzone assai ricorrente; il suo nome è stato Lotario
 o Don Giovanni; ed è stato spesso rappresentato come un mascalzone
-piuttosto romantico.  Il nocciolo della [[concepts/reform|riforma]] del divorzio,
+piuttosto romantico.  Il nocciolo della [[concepts/reform|riforma]] del [[divorce|divorzio]],
 non lo si ripeterà mai abbastanza, è che il mascalzone non debba soltanto
 essere considerato romantico, ma considerato rispettabile.  Egli non deve
 seminare la sua avena selvatica e poi mettere la testa a posto; deve
 semplicemente mettere la testa a posto nel seminare la sua avena selvatica.
 Essa va considerata come avena mite e inoffensiva; quasi, se così si può dire,
 come avena da quaccheri.  Ma non v'è bisogno, come dico, di speculare
-se la visione più permissiva del divorzio possa prevalere;
+se la visione più permissiva del [[divorce|divorzio]] possa prevalere;
 giacché essa sta già prevalendo.  I giornali sono pieni di una sorprendente
 ilarità circa la rapidità con cui centinaia o migliaia di famiglie umane
 vengono disgregate dagli avvocati; e circa la non dissimulata fretta
@@ -3979,7 +3979,7 @@ qua e là, un accenno di qualche sorta di ragione per rovinare l'istituzione
 fondamentale della società.  E nessuno che noti quei dettagli, o consideri
 quei fievoli accenni di ragione, può [[concepts/doubt|dubitare]] per un istante
 che masse di questi uomini e donne stiano ora semplicemente usando
-il divorzio nello spirito del libero [[motifs/love|amore]].  Assai di rado
+il [[divorce|divorzio]] nello spirito del libero [[motifs/love|amore]].  Assai di rado
 sono il genere di persone che una volta erano tragicamente cadute
 nel posto sbagliato, e hanno ora trovato trionfalmente la via
 verso il posto giusto.  Sono quasi sempre persone che palesemente
@@ -3989,7 +3989,7 @@ il fare di nuovo, se possibile in una chiesa, una promessa che hanno già
 infranto nella pratica e in cui, quasi dichiaratamente, non credono per principio.
 
 Di fronte a questa moda precipitosa, è davvero ragionevole domandare
-ai riformatori del divorzio quale sia il loro atteggiamento
+ai riformatori del [[divorce|divorzio]] quale sia il loro atteggiamento
 verso la vecchia etica monogamica della nostra civiltà; e se desiderino
 conservarla in generale, oppure conservarla affatto.  Purtroppo persino
 i più sinceri e lucidi tra loro adoperano un linguaggio che [[motifs/leaves|lascia]]
@@ -3997,7 +3997,7 @@ la questione un poco dubbia.  Il signor E. S. P. Haynes è uno dei più
 brillanti e più equanimi polemisti di quella parte; ed egli ha detto,
 per esempio, di concordare con me nel sostenere l'ideale del [[motifs/marriage|matrimonio]]
 indissolubile o, quanto meno, non disciolto.  Il signor Haynes è uno dei
-pochi amici del divorzio che siano anche veri amici
+pochi amici del [[divorce|divorzio]] che siano anche veri amici
 della [[concepts/democracy|democrazia]]; e sono certo che nella pratica ciò equivalga
 a una reale simpatia per la [[motifs/home|casa]], specialmente la [[motifs/home|casa]]
 dei poveri.  Purtroppo, sul versante teorico, la parola «ideale»
@@ -4015,7 +4015,7 @@ eretta alla [[motifs/memory|memoria]] di una moglie che mai fuggì con un soldat
 o dal sacrario e dall'effigie di un personaggio storico che avesse resistito
 all'esempio dell'uomo della ballata sul «New Witness», il quale se la svignò
 con la [[characters/nurse|bambinaia]] dei bambini.  Una così alta agiografia artistica
-sarebbe del tutto coerente con la [[concepts/reform|riforma]] del divorzio
+sarebbe del tutto coerente con la [[concepts/reform|riforma]] del [[divorce|divorzio]]
 del signor Haynes; con il nuovo [[motifs/marriage|matrimonio]] dopo tre anni, o tre ore.
 Sarebbe anche del tutto coerente con la frase del signor Haynes
 sul preservare un ideale del [[motifs/marriage|matrimonio]].  Ciò con cui non sarebbe
@@ -4054,7 +4054,7 @@ della fanteria additando un solo fante.
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="The Superstition of Divorce — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/marriage,motif/well,concept/beauty,concept/courage,concept/hope,form/satire,histref/america,histref/catholic_church,histref/christianity,setting/america"></span>
 
 
-I take it, however, that the advocates of divorce do not mean that
+I take it, however, that the advocates of [[divorce]] do not mean that
 [[motifs/marriage|marriage]] is to remain ideal only in the sense of being almost impossible.
 They do not mean that a faithful husband is only to be admired
 as a fanatic.  The reasonable men among them do really mean that a
@@ -4069,7 +4069,7 @@ taken in the spirit of licence as if the exception were to be
 the rule, or, rather, perhaps the absence of rule.  This will especially
 be made manifest if we consider that the effect of the process is
 accumulative like a snowball, and returns on itself like a snowball.
-The obvious effect of frivolous divorce will be frivolous [[motifs/marriage|marriage]].
+The obvious effect of frivolous [[divorce]] will be frivolous [[motifs/marriage|marriage]].
 If people can be separated for no reason they will feel it all the easier
 to be united for no reason.  A man might quite clearly foresee
 that a sensual infatuation would be fleeting, and console himself
@@ -4077,7 +4077,7 @@ with the knowledge that the connection could be equally fleeting.
 There seems no particular reason why he should not elaborately calculate
 that he could stand a particular lady's temper for ten months;
 or reckon that he would have enjoyed and exhausted her repertoire of
-drawing-room songs in two years.  The old joke about choosing the wife
+drawing-room [[songs]] in two years.  The old joke about choosing the wife
 to fit the furniture or the fashions might quite logically return,
 not as an old joke but as a new solemnity; indeed, it will be found
 that a new religion is generally the return of an old joke.
@@ -4085,7 +4085,7 @@ A man might quite consistently see a woman as suited to the period
 of the hobble skirt, and as less suited to the threatened
 recurrence of the crinoline.  These fancies are fantastic enough,
 but they are not a shade more fantastic than the facts of
-many a divorce controversy as urged in the divorce courts.
+many a [[divorce]] controversy as urged in the [[divorce]] courts.
 And this is to leave out altogether the most fantastic fact of all:
 the winking at widespread and conspicuous collusion.
 Collusion has become not so much an illegal evasion as a legal fiction,
@@ -4102,21 +4102,21 @@ he showed a third type of social [[concepts/courage|courage]], in avowing the ab
 expedient which so many others are content merely to accept and employ.
 It is admittedly a frantic and farcical thing that a good man
 should find or think it necessary to pretend to commit a sin.
-Some of the divorce moralists seem to deduce from this that he ought
+Some of the [[divorce]] moralists seem to deduce from this that he ought
 really to commit the sin.  They may possibly be aware, however,
 that there are some who do not agree with them.
 
 For this latter fact is the next step in the speculative progress
-of the new morality.  The divorce advocates must be [[motifs/well|well]] aware
+of the new [[morality]].  The [[divorce]] advocates must be [[motifs/well|well]] aware
 that modern civilisation still contains strong elements,
 not the least intelligent and certainly not the least vigorous,
 which will not accept the new respectability as a substitute
 for the old religious vow.  The Roman [[historical-references/catholic-church|Catholic Church]],
 the Anglo-Catholic school, the conservative peasantries, and a large
-section of the popular life everywhere, will regard the riot of divorce
+section of the popular life everywhere, will regard the riot of [[divorce]]
 and re-[[motifs/marriage|marriage]] as they would any other riot of irresponsibility.
 The consequence would appear to be that two different standards
-will appear in ordinary morality, and even in ordinary society.
+will appear in ordinary [[morality]], and even in ordinary society.
 Instead of the old social distinction between those who are
 married and those who are unmarried, there will be a distinction
 between those who are married and those who are really married.
@@ -4129,16 +4129,16 @@ gravely and doubtfully the future of our own country.
 
 Anarchy cannot last, but anarchic communities cannot last either.
 Mere lawlessness cannot live, but it can destroy life.
-The nations of the earth always return to sanity and solidarity;
+The nations of the earth always return to [[Sanity|sanity]] and solidarity;
 but the nations which return to it first are the nations which survive.
 We in England cannot afford to allow our social institutions to go
-to pieces, as if this ancient and noble country were an ephemeral colony.
+to pieces, as if this ancient and noble country were an [[ephemeral]] colony.
 We cannot afford it comparatively, even if we could afford it positively.
 We are surrounded by vigorous nations mainly rooted in the peasant
 or permanent ideals; notably in the case of France and Ireland.
 I know that the detested and detestably undemocratic parliamentary clique,
 which corrupts France as it does England, was persuaded or bribed by a Jew
-named Naquet to pass a crude and recent divorce law, which was full
+named Naquet to pass a crude and recent [[divorce]] law, which was full
 of the hatred of [[historical-references/christianity|Christianity]].  But only a very superficial critic
 of France can be unaware that French parliamentarism is superficial.
 The French nation as a whole, the most rigidly respectable
@@ -4153,7 +4153,7 @@ and a little French.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Suppongo, tuttavia, che i fautori del divorzio non intendano
+Suppongo, tuttavia, che i fautori del [[divorce|divorzio]] non intendano
 che il [[motifs/marriage|matrimonio]] debba rimanere ideale soltanto nel senso
 di essere quasi impossibile.  Non intendono che un marito fedele debba
 essere ammirato soltanto come un fanatico.  Gli uomini ragionevoli tra loro
@@ -4168,7 +4168,7 @@ viene presa nello spirito della licenza, come se l'eccezione dovesse essere
 la regola, o, piuttosto, forse l'assenza di regola.  Ciò si renderà manifesto
 soprattutto se consideriamo che l'effetto del processo è cumulativo come
 una palla di neve, e ritorna su sé stesso come una palla di neve.
-L'ovvio effetto del divorzio frivolo sarà il [[motifs/marriage|matrimonio]]
+L'ovvio effetto del [[divorce|divorzio]] frivolo sarà il [[motifs/marriage|matrimonio]]
 frivolo.  Se le persone possono essere separate senza alcuna ragione,
 tanto più facile parrà loro essere unite senza alcuna ragione.  Un uomo
 potrebbe assai chiaramente prevedere che un'infatuazione sensuale sarebbe
@@ -4176,7 +4176,7 @@ fugace, e consolarsi con la consapevolezza che il legame potrebbe essere
 ugualmente fugace.  Non pare esservi alcuna ragione particolare per cui egli
 non dovrebbe calcolare minuziosamente di poter sopportare il carattere
 di una certa dama per dieci mesi; o stimare che avrebbe goduto ed esaurito
-il suo repertorio di canzoni da salotto in due anni.  La vecchia
+il suo repertorio di [[songs|canzoni]] da salotto in due anni.  La vecchia
 facezia sullo scegliere la moglie che s'intoni ai mobili o alle mode
 potrebbe assai logicamente ritornare, non come una vecchia facezia
 ma come una nuova solennità; anzi, si scoprirà che una nuova religione
@@ -4184,8 +4184,8 @@ ma come una nuova solennità; anzi, si scoprirà che una nuova religione
 coerentemente vedere una donna come adatta all'epoca della gonna a fascia,
 e meno adatta al minacciato ritorno della crinolina.  Queste fantasticherie
 sono già abbastanza fantastiche, ma non sono di un'ombra più fantastiche
-dei fatti di molte controversie di divorzio così come vengono
-perorate nei tribunali del divorzio.  E ciò senza contare affatto
+dei fatti di molte controversie di [[divorce|divorzio]] così come vengono
+perorate nei tribunali del [[divorce|divorzio]].  E ciò senza contare affatto
 il fatto più fantastico di tutti: il chiudere un occhio su una collusione
 diffusa e cospicua.  La collusione è divenuta non tanto un'evasione illegale
 quanto una finzione legale, e persino un'istituzione legale, come è
@@ -4202,21 +4202,21 @@ del foro.  E senza dubbio egli mostrò un terzo tipo di [[concepts/courage|corag
 sociale, nel confessare l'assurdo espediente che tanti altri si accontentano
 semplicemente di accettare e adoperare.  È indubbiamente una cosa forsennata
 e farsesca che un uomo dabbene trovi o creda necessario fingere di commettere
-un peccato.  Alcuni dei moralisti del divorzio paiono dedurne
+un peccato.  Alcuni dei moralisti del [[divorce|divorzio]] paiono dedurne
 che egli dovrebbe davvero commettere il peccato.  Può darsi, tuttavia,
 che siano consapevoli che vi sono alcuni che non concordano con loro.
 
 Poiché quest'ultimo fatto è il passo successivo nel progresso speculativo
-della nuova moralità.  I fautori del divorzio devono
+della nuova [[morality|moralità]].  I fautori del [[divorce|divorzio]] devono
 essere ben consapevoli che la civiltà moderna contiene ancora elementi forti,
 non i meno intelligenti e certamente non i meno vigorosi, che non accetteranno
 la nuova rispettabilità come surrogato del vecchio voto religioso.
 La [[historical-references/catholic-church|Chiesa cattolica]] romana, la scuola anglo-cattolica,
 i contadinati conservatori, e un'ampia parte della vita popolare ovunque,
-considereranno la sregolatezza del divorzio e del nuovo
+considereranno la sregolatezza del [[divorce|divorzio]] e del nuovo
 [[motifs/marriage|matrimonio]] come considererebbero qualsiasi altra sregolatezza
 di irresponsabilità.  La conseguenza parrebbe essere che due diversi criteri
-appariranno nella moralità ordinaria, e persino nella società
+appariranno nella [[morality|moralità]] ordinaria, e persino nella società
 ordinaria.  Invece della vecchia distinzione sociale tra coloro che sono
 sposati e coloro che non lo sono, vi sarà una distinzione tra coloro che
 sono sposati e coloro che sono davvero sposati.  La società potrebbe persino
@@ -4229,18 +4229,18 @@ del nostro stesso paese.
 
 L'anarchia non può durare, ma nemmeno le comunità anarchiche possono durare.
 La mera illegalità non può vivere, ma può distruggere la vita.  Le nazioni
-della terra ritornano sempre al senno e alla solidarietà;
+della terra ritornano sempre al [[Sanity|senno]] e alla solidarietà;
 ma le nazioni che vi ritornano per prime sono le nazioni che sopravvivono.
 Noi in Inghilterra non possiamo permetterci di lasciare che le nostre
 istituzioni sociali vadano in pezzi, come se questo antico e nobile paese
-fosse una colonia effimera.  Non possiamo permettercelo
+fosse una colonia [[ephemeral|effimera]].  Non possiamo permettercelo
 relativamente, anche se potessimo permettercelo assolutamente.  Siamo
 circondati da nazioni vigorose radicate principalmente negli ideali contadini
 o permanenti; segnatamente nel caso della Francia e dell'Irlanda.  So che
 la detestata e detestabilmente antidemocratica cricca parlamentare,
 che corrompe la Francia come corrompe l'Inghilterra, fu persuasa o corrotta
 da un ebreo di nome Naquet a far passare una rozza e recente legge
-sul divorzio, che era colma dell'odio verso il [[historical-references/christianity|Cristianesimo]].
+sul [[divorce|divorzio]], che era colma dell'odio verso il [[historical-references/christianity|Cristianesimo]].
 Ma solo un critico assai superficiale della Francia può ignorare che
 il parlamentarismo francese è superficiale.  La nazione francese nel suo
 insieme, la nazione più rigidamente rispettabile del mondo, continuerà
@@ -4279,7 +4279,7 @@ the preference to Roscommon because the women are still mammals.
 To a mind of the more traditional type it might seem sufficient to say
 they are still mothers.  To a [[motifs/memory|memory]] that lingers over the legends
 and lyrical movements of mankind, it might seem no great improvement
-to imagine a song that ran "My mammal bids me bind my hair,"
+to imagine a [[Song|song]] that ran "My mammal bids me bind my hair,"
 or "I'm to be [[characters/queen|Queen]] of the May, mammal, I'm to be [[characters/queen|Queen]] of the May."
 But indeed the [[concepts/truth|truth]] to which he testified is all the more arresting,
 because for him it was materialistic and not mystical.
@@ -4308,10 +4308,10 @@ which is busy in the great cities, dissolving what it cannot analyse.
 The primary laws of man are to be found in the permanent life of man;
 in those things that have been common to it in every [[motifs/time|time]]
 and land, though in the highest civilisation they have reached
-an enrichment like that of the divine romance of Cana in Galilee.
+an enrichment like that of the divine [[Romance|romance]] of Cana in Galilee.
 We know that many critics of such a story say that its elements are
 not permanent; but indeed it is the critics who are not permanent.
-A hundred mad dogs of heresy have worried man from the beginning;
+A hundred mad [[dogs]] of heresy have worried man from the beginning;
 but it was always the dog that died.  We know there is a school of prigs
 who disapprove of the wine; and there may now be a school of prigs
 who disapprove of the wedding.  For in such a case as the story
@@ -4324,7 +4324,7 @@ abuses and almost accidents, will understand why men have sought
 for something divine if they wished to preserve anything human.
 They will know why common sense, cast out from some academy of fads
 and fashions conducted on the lines of a luxurious madhouse,
-has age after age sought refuge in the high sanity of a sacrament.
+has age after age sought refuge in the high [[Sanity|sanity]] of a sacrament.
 
 --/--
 
@@ -4352,7 +4352,7 @@ di dare la preferenza a Roscommon perché le donne vi sono ancora mammifere.
 A una mente del tipo più tradizionale potrebbe parere sufficiente dire
 che esse sono ancora madri.  A una [[motifs/memory|memoria]] che indugia sulle
 leggende e sui moti lirici del genere umano, potrebbe non parere un gran
-miglioramento immaginare una canzone che facesse «La mia mammifera
+miglioramento immaginare una [[Song|canzone]] che facesse «La mia mammifera
 mi chiede di raccogliere i capelli», oppure «Sarò la [[characters/queen|Regina]] di Maggio,
 mammifera, sarò la [[characters/queen|Regina]] di Maggio».  Ma invero la [[concepts/truth|verità]]
 cui egli rese testimonianza è tanto più impressionante, poiché per lui era
@@ -4385,7 +4385,7 @@ comuni in ogni [[motifs/time|tempo]] e terra, benché nella più alta civiltà a
 raggiunto un arricchimento come quello del divino idillio di Cana di Galilea.
 Sappiamo che molti critici di una simile storia dicono che i suoi elementi
 non sono permanenti; ma invero sono i critici a non essere permanenti.
-Cento cani rabbiosi dell'eresia hanno azzannato l'uomo fin dal
+Cento [[dogs|cani]] rabbiosi dell'eresia hanno azzannato l'uomo fin dal
 principio; ma è sempre stato il cane a morire.  Sappiamo che vi è una scuola
 di saccenti che disapprovano il vino; e vi potrebbe ora essere una scuola
 di saccenti che disapprovano le nozze.  Poiché in un caso come la storia
@@ -4398,7 +4398,7 @@ anomali e quasi accidenti, comprenderanno perché gli uomini abbiano cercato
 qualcosa di divino se desideravano preservare qualcosa di umano.  Sapranno
 perché il buon senso, scacciato da qualche accademia di mode e capricci
 condotta sulla falsariga di un lussuoso manicomio, abbia epoca dopo epoca
-cercato rifugio nell'alto senno di un sacramento.
+cercato rifugio nell'alto [[Sanity|senno]] di un sacramento.
 
 --/--
 
@@ -4423,8 +4423,8 @@ recurrent necessities of the race; but especially the necessity
 for some spontaneous social formation freer than that of the state.
 If it were more in the [[concepts/nature|nature]] of a work of literature, with anything
 like an [[concepts/ambition|ambition]] of [[concepts/endurance|endurance]], I might go deeper into the matter,
-and give some suggestions about the philosophy or religion of [[motifs/marriage|marriage]],
-and the philosophy or religion of all these rather random departures
+and give some suggestions about the [[philosophy]] or religion of [[motifs/marriage|marriage]],
+and the [[philosophy]] or religion of all these rather random departures
 from it.  Some day perhaps I may try to write something about
 the spiritual or psychological quarrel between [[concepts/faith|faith]] and fads.
 Here I will only say, in conclusion, that I believe the universal
@@ -4440,21 +4440,21 @@ visions of art and poetry, to attempt it in the art of life is not only
 anarchy but inaction.  Even in the arts it can only be the first hint
 and not the final fulfillment; a man cannot work at once in bronze
 and marble, or play the organ and the violin at the same [[motifs/time|time]].
-The universal vision of being such a Briareus is a nightmare of nonsense
+The universal vision of being such a Briareus is a [[nightmare]] of nonsense
 even in the merely imaginative world; and ends in mere nihilism
 in the social world.  If a man had a hundred houses, there would
 still be more houses than he had days in which to dream of them;
 if a man had a hundred wives, there would still be more women
 than he could ever know.  He would be an insane sultan jealous
-of the whole human race, and even of the dead and the unborn.
-I believe that behind the art and philosophy of our [[motifs/time|time]] there
+of the whole human race, and even of the dead and the [[unborn]].
+I believe that behind the art and [[philosophy]] of our [[motifs/time|time]] there
 is a considerable element of this bottomless [[concepts/ambition|ambition]] and this
 unnatural hunger; and since in these last words I am touching
 only lightly on things that would need much larger treatment,
 I will admit that the rending of the ancient roof of man is
 probably only a part of such an endless and empty expansion.
 I asked in the last chapter what those most wildly engaged in the mere
-[[motifs/dance|dance]] of divorce, as fantastic as the [[topoi/dance-of-death|dance of death]], really expected
+[[motifs/dance|dance]] of [[divorce]], as fantastic as the [[topoi/dance-of-death|dance of death]], really expected
 for themselves or for their children.  And in the deepest sense I
 think this is the answer; that they expect the impossible, that is
 the universal.  They are not crying for the [[motifs/moon|moon]], which is a definite
@@ -4488,8 +4488,8 @@ ricorrenti necessità della stirpe; ma specialmente la necessità
 di qualche spontanea formazione sociale più libera di quella dello stato.
 Se fosse più nella [[concepts/nature|natura]] di un'opera letteraria, con qualcosa
 come un'[[concepts/ambition|ambizione]] di [[concepts/endurance|durata]], potrei andare più a fondo nella questione,
-e dare qualche suggerimento sulla filosofia o religione del [[motifs/marriage|matrimonio]],
-e sulla filosofia o religione di tutte queste piuttosto casuali deviazioni
+e dare qualche suggerimento sulla [[philosophy|filosofia]] o religione del [[motifs/marriage|matrimonio]],
+e sulla [[philosophy|filosofia]] o religione di tutte queste piuttosto casuali deviazioni
 da esso.  Un giorno forse tenterò di scrivere qualcosa sulla
 querela spirituale o psicologica tra la [[concepts/faith|fede]] e le mode.
 Qui dirò soltanto, in conclusione, che credo che la fallacia universale
@@ -4505,21 +4505,21 @@ visioni dell'arte e della poesia; tentarlo nell'arte della vita non è soltanto
 anarchia ma inazione.  Anche nelle arti può essere solo il primo accenno
 e non l'adempimento finale; un uomo non può lavorare a un tempo nel bronzo
 e nel marmo, o suonare l'organo e il violino allo stesso [[motifs/time|tempo]].
-La visione universale di essere un tale Briareo è un incubo di insensatezza
+La visione universale di essere un tale Briareo è un [[nightmare|incubo]] di insensatezza
 perfino nel mondo meramente immaginativo; e finisce in mero nichilismo
 nel mondo sociale.  Se un uomo avesse cento case, vi sarebbero
 ancora più case dei giorni che avrebbe per sognarle;
 se un uomo avesse cento mogli, vi sarebbero ancora più donne
 di quante potrebbe mai conoscerne.  Sarebbe un folle sultano geloso
-dell'intera razza umana, e perfino dei morti e dei non nati.
-Credo che dietro l'arte e la filosofia del nostro [[motifs/time|tempo]] vi sia
+dell'intera razza umana, e perfino dei morti e dei [[unborn|non nati]].
+Credo che dietro l'arte e la [[philosophy|filosofia]] del nostro [[motifs/time|tempo]] vi sia
 un considerevole elemento di questa sconfinata [[concepts/ambition|ambizione]] e di questa
 fame innaturale; e poiché in queste ultime parole tocco
 soltanto lievemente cose che richiederebbero un ben più ampio trattamento,
 ammetterò che lo squarcio dell'antico tetto dell'uomo è
 probabilmente solo una parte di una tale espansione senza fine e vuota.
 Chiesi nell'ultimo capitolo che cosa coloro che sono più selvaggiamente impegnati nella mera
-[[motifs/dance|danza]] del divorzio, fantastica quanto la [[topoi/dance-of-death|danza della morte]], davvero si aspettassero
+[[motifs/dance|danza]] del [[divorce|divorzio]], fantastica quanto la [[topoi/dance-of-death|danza della morte]], davvero si aspettassero
 per sé o per i loro figli.  E nel senso più profondo io
 credo che questa sia la risposta: che si aspettano l'impossibile, cioè
 l'universale.  Non piangono per la [[motifs/moon|luna]], che è un [[motifs/desire|desiderio]] definito

@@ -49,7 +49,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/eternal-return|Eternal Return]], [[topoi/double|Double]]
-**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/avenger|Avenger]]
+**Archetypes:** Satanic Figure, Double Doppelganger, Avenger
 **Motifs:** [[motifs/horse|Horse]], [[motifs/fire|Fire]], [[motifs/death|Death]], [[motifs/supernatural|Supernatural]], [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/uncanny|Uncanny]], [[concepts/pride|Pride]], [[concepts/power-and-corruption|Power and Corruption]]
 **Forms & Genres:** [[forms/gothic-novel|Gothic Novel]], [[forms/short-story|Short Story]]

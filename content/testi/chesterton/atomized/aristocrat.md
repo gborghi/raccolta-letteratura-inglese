@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-L’aristocratico  
+L’[[aristocrat|aristocratico]]  
 
 (Raccolta del 1915)  
 
@@ -52,7 +52,7 @@ Perché il Diavolo è un gentiluomo. E non mantiene mai le sue promesse.
 <span class="atom-split" data-atom="part--part_01" data-title="aristocrat (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/fool,motif/crown,motif/love,motif/pain,motif/stars"></span>
 
 
-The Aristocrat  
+The [[aristocrat|Aristocrat]]  
 
 (Collected 1915)  
 
@@ -72,7 +72,7 @@ But the Devil is a gentleman, and doesn't brag himself.
 O blind your eyes and break your heart and hack your hand away,  
 And lose your [[motifs/love|love]] and shave your head; but do not go to stay  
 At the little place in What'sitsname where folks are rich and clever;  
-The golden and the goodly house, where things grow worse for ever;  
+The golden and the goodly [[house]], where things grow worse for ever;  
 There are things you need not know of, though you live and die in vain,  
 There are souls more sick of pleasure than you are sick of [[motifs/pain|pain]];  
 There is a game of April [[archetypes/fool|Fool]] that's played behind its door,  
@@ -85,7 +85,7 @@ For the Devil is a gentleman, and doesn't keep his word.
 
 <span class="qlang-split" data-lang="it"></span>
 
-L’aristocratico  
+L’[[aristocrat|aristocratico]]  
 
 (Raccolta del 1915)  
 

@@ -63,7 +63,7 @@ tags:
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]
 
-**Characters:** [[characters/sherlock-holmes-homage|Sherlock Holmes Homage]], [[characters/henry-ford|Henry Ford]]
+**Characters:** Sherlock Holmes Homage, Henry Ford
 
 **Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/common-man|Common Man]], [[concepts/reform|Reform]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/slavery|Slavery]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/satire-of-society|Satire of Society]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/fable|Fable]], [[forms/parable|Parable]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]

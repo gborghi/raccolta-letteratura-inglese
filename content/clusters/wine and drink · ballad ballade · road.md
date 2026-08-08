@@ -16,28 +16,28 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1226_the_popular_heart_is_a_cannon_first|1226. The Popular Heart is a Cannon first — (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0166_i_met_a_king_this_afternoon|166. I met a King this afternoon! (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0910_experience_is_the_angled_road|910. Experience is the Angled Road (Dickinson)]]
+- 1226. The Popular Heart is a Cannon first — (Dickinson)
+- 166. I met a King this afternoon! (Dickinson)
+- 910. Experience is the Angled Road (Dickinson)
 - [[works/anti-puritan-(chesterton)|anti-puritan (Chesterton)]]
 - [[works/ascetic-(chesterton)|ascetic (Chesterton)]]
 - [[works/ballad-of-abbreviations-(chesterton)|Ballad Of Abbreviations (Chesterton)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#028_devonshire_roads|DEVONSHIRE ROADS (Coleridge)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#366_drinking_versus_thinking|DRINKING VERSUS THINKING (Coleridge)]]
+- [[works/devonshire-roads-(coleridge)|DEVONSHIRE ROADS (Coleridge)]]
+- [[works/drinking-versus-thinking-(coleridge)|DRINKING VERSUS THINKING (Coleridge)]]
 - [[works/grocer-(chesterton)|grocer (Chesterton)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#037_lines_on_the_mermaid_tavern|LINES ON THE MERMAID TAVERN (Keats)]]
+- [[works/lines-on-the-mermaid-tavern-(keats)|LINES ON THE MERMAID TAVERN (Keats)]]
 - [[works/manalive-(chesterton)|manalive (Chesterton)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#160_recantation|RECANTATION (Coleridge)]]
+- [[works/recantation-(coleridge)|RECANTATION (Coleridge)]]
 - [[works/right-and-wrong-(chesterton)|right-and-wrong (Chesterton)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#038_robin_hood|ROBIN HOOD (Keats)]]
+- [[works/robin-hood-(keats)|ROBIN HOOD (Keats)]]
 - [[works/rolling-(chesterton)|rolling (Chesterton)]]
-- [[testi/whitman/atomized/journey-ship#083_song_of_the_open_road|Song of the Open Road (Whitman)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#267_the_delinquent_travellers|THE DELINQUENT TRAVELLERS (Coleridge)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#179_the_devils_thoughts|THE DEVIL’S THOUGHTS (Coleridge)]]
+- [[works/song-of-the-open-road-(whitman)|Song of the Open Road (Whitman)]]
+- [[works/the-delinquent-travellers-(coleridge)|THE DELINQUENT TRAVELLERS (Coleridge)]]
+- [[works/the-devil’s-thoughts-(coleridge)|THE DEVIL’S THOUGHTS (Coleridge)]]
 - [[works/the-flying-inn-(chesterton)|The Flying Inn (Chesterton)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
 - [[works/the-tenant-of-wildfell-hall-(bronte)|The Tenant of Wildfell Hall (Bronte)]]
-- [[testi/whitman/atomized/journey-ship#124_to_rich_givers|To Rich Givers (Whitman)]]
+- [[works/to-rich-givers-(whitman)|To Rich Givers (Whitman)]]
 - [[works/vegetarian-(chesterton)|vegetarian (Chesterton)]]
 
 </div>

@@ -65,7 +65,7 @@ tags:
 **Forms & Genres:** [[forms/history-play|History Play]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]]
 **Settings:** [[settings/battlefield|Battlefield]]
-**Characters:** [[characters/edward-iii|Edward III]], [[characters/edward-the-black-prince|Edward the Black Prince]], [[characters/countess-of-salisbury|Countess of Salisbury]], [[characters/queen-philippa|Queen Philippa]], [[characters/king-john-of-france|King John of France]], [[characters/earl-of-salisbury|Earl of Salisbury]]
+**Characters:** Edward III, Edward the Black Prince, Countess of Salisbury, Queen Philippa, King John of France, Earl of Salisbury
 
 ## Testo integrale / Full text
 

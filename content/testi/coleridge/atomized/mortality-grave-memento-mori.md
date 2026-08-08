@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/mortality-grave-memento-mori" data-author="Coleridge" data-workhref="works/mortality-·-grave-·-memento-mori-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="010_life" data-title="LIFE" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/river,motif/the_journey,motif/death,concept/immortality,form/sonnet,setting/rural_england,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="010_life" data-title="LIFE" data-chapter="" data-kind="intro"></span>
 
 
 As late I [[motifs/journey|journey]]’d o’er the extensive plain  
@@ -33,7 +33,7 @@ And thought suspended lie in Rapture’s blissful trance.
 
 
 
-<span class="atom-split" data-atom="060_moriens_superstiti" data-title="MORIENS SUPERSTITI" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/bells,concept/mortality,concept/grief_and_loss,concept/faith,form/lyric,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="060_moriens_superstiti" data-title="MORIENS SUPERSTITI" data-chapter="" data-kind="intro"></span>
 
 
 The hour-bell sounds, and I must go;  
@@ -56,7 +56,7 @@ Alas! I quit a life of pleasure.
 
 
 
-<span class="atom-split" data-atom="133_translation_of_a_latin_inscription_by_the_rev_w_l_bowles_in_nether-stowey_church" data-title="TRANSLATION OF A LATIN INSCRIPTION BY THE REV. W. L. BOWLES IN NETHER-STOWEY CHURCH" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,concept/mortality,concept/grief_and_loss,concept/faith,form/elegy,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="133_translation_of_a_latin_inscription_by_the_rev_w_l_bowles_in_nether-stowey_church" data-title="TRANSLATION OF A LATIN INSCRIPTION BY THE REV. W. L. BOWLES IN NETHER-STOWEY CHURCH" data-chapter="" data-kind="intro"></span>
 
 
 Depart in joy from this world’s noise and strife  
@@ -78,7 +78,7 @@ Naturæ et tremulâ dicere Voce, Vale!’]
 
 
 
-<span class="atom-split" data-atom="172_on_an_infant_which_died_before_baptism" data-title="ON AN INFANT WHICH DIED BEFORE BAPTISM" data-chapter="" data-kind="intro" data-tags="archetype/innocent,motif/death,concept/mortality,concept/grace_and_redemption,concept/faith,form/epigram,form/elegy,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="172_on_an_infant_which_died_before_baptism" data-title="ON AN INFANT WHICH DIED BEFORE BAPTISM" data-chapter="" data-kind="intro"></span>
 
 
 ‘Be, rather than be called, a [[archetypes/child|child]] of God,’  
@@ -92,7 +92,7 @@ April 8, 1799.
 
 
 
-<span class="atom-split" data-atom="194_inscription_for_a_seat_by_the_road_side_half-way_up_a_steep_hill_facing_south" data-title="INSCRIPTION FOR A SEAT BY THE ROAD SIDE HALF-WAY UP A STEEP HILL FACING SOUTH" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_road,motif/sleep,concept/mortality,concept/poverty,concept/the_common_man,concept/grace_and_redemption,form/inscription,form/blank_verse,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="194_inscription_for_a_seat_by_the_road_side_half-way_up_a_steep_hill_facing_south" data-title="INSCRIPTION FOR A SEAT BY THE ROAD SIDE HALF-WAY UP A STEEP HILL FACING SOUTH" data-chapter="" data-kind="intro"></span>
 
 
 Thou who in youthful vigour rich, and light  
@@ -141,7 +141,7 @@ Then wake in Heaven, and find the dream all true.
 
 
 
-<span class="atom-split" data-atom="225_what_is_life" data-title="WHAT IS LIFE?" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/mortality,concept/self_and_soul,concept/transience,concept/doubt,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="225_what_is_life" data-title="WHAT IS LIFE?" data-chapter="" data-kind="intro"></span>
 
 
 Resembles life what once was deem’d of light,  
@@ -157,7 +157,7 @@ A war-embrace of wrestling life and [[motifs/death|death]]?
 
 
 
-<span class="atom-split" data-atom="241_epitaph_on_an_infant_1" data-title="EPITAPH ON AN INFANT" data-chapter="" data-kind="intro" data-tags="motif/death,motif/childhood,motif/sleep,concept/mortality,concept/innocence_and_experience,concept/grief_and_loss,form/elegy,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="241_epitaph_on_an_infant_1" data-title="EPITAPH ON AN INFANT" data-chapter="" data-kind="intro"></span>
 
 
 Its balmy lips the infant blest  
@@ -173,7 +173,7 @@ That here the pretty babe doth lie,
 
 
 
-<span class="atom-split" data-atom="278_epitaphium_testamentarium" data-title="EPITAPHIUM TESTAMENTARIUM" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,concept/mortality,concept/grace_and_redemption,concept/love_romantic,form/epigram,character/christ,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="278_epitaphium_testamentarium" data-title="EPITAPHIUM TESTAMENTARIUM" data-chapter="" data-kind="intro"></span>
 
 
 ¤x Ä¿æ £¤—£• Ä¿æ À¹¸±½¿æÂ Epitaphium testamentarium ±PÄy³Á±Æ¿½.  
@@ -190,7 +190,7 @@ The absence of the [[motifs/love|love]], which yet it fain would shew.
 
 
 
-<span class="atom-split" data-atom="304_epitaph" data-title="EPITAPH" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_grave,concept/grace_and_redemption,concept/mortality,concept/faith,form/epigram,character/christ,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="304_epitaph" data-title="EPITAPH" data-chapter="" data-kind="intro"></span>
 
 
 Stop, Christian passer-by! — Stop, [[archetypes/child|child]] of God,  
@@ -206,7 +206,7 @@ He ask’d, and hoped, through [[characters/christ|Christ]]. Do thou the same!
 
 
 
-<span class="atom-split" data-atom="310_on_an_insignificant" data-title="ON AN INSIGNIFICANT" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/dust,motif/the_grave,concept/economics,concept/the_grotesque,concept/money_and_avarice,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="310_on_an_insignificant" data-title="ON AN INSIGNIFICANT" data-chapter="" data-kind="intro"></span>
 
 
 No doleful faces here, no sighing —  
@@ -228,7 +228,7 @@ Grab. ‘Welch tötender Gestank hier, wo Lukrin begraben.’
 
 
 
-<span class="atom-split" data-atom="329_epitaph_on_major_dieman" data-title="EPITAPH ON MAJOR DIEMAN" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_grave,concept/mortality,concept/satire_of_society,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="329_epitaph_on_major_dieman" data-title="EPITAPH ON MAJOR DIEMAN" data-chapter="" data-kind="intro"></span>
 
 
 Know thou who walks’t by, Man! that wrapp’d up in lead, man,  
@@ -240,7 +240,7 @@ The [[motifs/soul|soul]] having gone, he is now merely Corporal.
 
 
 
-<span class="atom-split" data-atom="331_epitaph_on_a_bad_man" data-title="EPITAPH ON A BAD MAN" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_grave,concept/mortality,concept/doubt,concept/conscience,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="331_epitaph_on_a_bad_man" data-title="EPITAPH ON A BAD MAN" data-chapter="" data-kind="intro"></span>
 
 
 Of him that in this gorgeous tomb doth lie,  
@@ -265,7 +265,7 @@ He died like one who dared not [[concepts/hope|hope]] to live.
 
 
 
-<span class="atom-split" data-atom="339_a_hint_to_premiers_and_first_consuls" data-title="A HINT TO PREMIERS AND FIRST CONSULS" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,concept/mortality,concept/power_and_corruption,concept/justice,concept/transience,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="339_a_hint_to_premiers_and_first_consuls" data-title="A HINT TO PREMIERS AND FIRST CONSULS" data-chapter="" data-kind="intro"></span>
 
 
 FROM AN OLD [[forms/tragedy|TRAGEDY]], VIZ. [[characters/agatha|AGATHA]] TO [[archetypes/king|KING]] ARCHELAUS  
@@ -284,7 +284,7 @@ First published in Morning Post, Oct. 2, 1802.
 
 
 
-<span class="atom-split" data-atom="399_another_version" data-title="ANOTHER VERSION." data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/the_grave,concept/mortality,concept/grief_and_loss,form/fragment,form/elegy,histref/ancient_greece,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="399_another_version" data-title="ANOTHER VERSION." data-chapter="" data-kind="intro"></span>
 
 
 O’er her piled [[motifs/grave|grave]] the gale of evening sighs,  
@@ -298,7 +298,7 @@ minute descriptions of natural objects and scenic effects. The
 concluding lines are illegible.  
 Poole, ‘Reply of Coleridge on my urging him to exert himself.’ First  
 collected in 1893.  
-following quotation from The Select Discourses by John Smith, 1660: —  
+following quotation from The Select Discourses by John [[smith|Smith]], 1660: —  
 ‘So the Sibyl was noted by Heraclitus as ¼±¹½¿¼s½ó ÃÄy¼±Ä¹ ³µ»±ÃÄp º±v  
 º±»»}À¹ÃÄ± Æ¸µ³³¿¼s½·, as one speaking ridiculous and unseemly speeches  
 with her furious mouth.’ The [[forms/fragment|fragment]] is misquoted and misunderstood:  
@@ -321,7 +321,7 @@ S. T. C. with books from a lending library.
 
 
 
-<span class="atom-split" data-atom="424_underwoods" data-title="UNDERWOODS" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/memento_mori,motif/the_clock,motif/dust,motif/fire,concept/mortality,concept/love_romantic,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="424_underwoods" data-title="UNDERWOODS" data-chapter="" data-kind="intro"></span>
 
 
 No. VI. THE HOUR-GLASS.  
@@ -333,12 +333,12 @@ And in his mistress’ flame playing like a fly,   5
 Was turned to cinders by her eye:  
 Yes; and in [[motifs/death|death]], as life unblest,  
 To have ‘t exprest,  
-Even ashes of lovers find no rest.  
+Even ashes of [[lovers]] find no rest.  
 
 
 
 
-<span class="atom-split" data-atom="425_the_hour-glass" data-title="THE HOUR-GLASS" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/memento_mori,motif/the_clock,motif/dust,concept/mortality,concept/unrequited_love,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="425_the_hour-glass" data-title="THE HOUR-GLASS" data-chapter="" data-kind="intro"></span>
 
 
 O think, fair maid! these sands that pass  
@@ -346,8 +346,8 @@ In slender threads adown this glass,
 Were once the [[concepts/body|body]] of some swain,  
 Who lov’d too [[motifs/well|well]] and lov’d in vain,  
 And let one soft sigh heave thy breast,   5  
-That not in life alone unblest  
-E’en lovers’ ashes find no rest.  
+That not in life [[Alone|alone]] unblest  
+E’en [[lovers]]’ ashes find no rest.  
 First published in The Courier, August 30, 1811; included in Essays  
 on His Own Times, iii. 994. Now collected for the first [[motifs/time|time]].  
 The original is a [[forms/translation|translation]] of a Latin [[forms/epigram|Epigram]], ‘Horologium Pulvereum,  

@@ -1,0 +1,38 @@
+---
+title: 'Long, Long Hence'
+author: Whitman
+type: work
+cluster: Self-Knowledge · Immortality · Self-Reliance
+source: Authors/Whitman/_raw/362_Long_Long_Hence.md
+tags:
+  - graph/work
+  - author/Whitman
+  - topos/immortality_through_verse
+  - concept/immortality_of_art
+  - concept/memory_and_time
+  - motif/the_book
+  - form/free_verse
+---
+
+*by Whitman*  ·  **Cluster:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]
+
+> [!abstract] 
+> A prophecy of poetic immortality: only after ages of accumulation and myriad readers will the poet's songs reach their fruition.
+
+## Connections
+
+**Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]]
+**Motifs:** [[motifs/book-reading|Book Reading]]
+**Themes & Concepts:** [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/memory-and-time|Memory and Time]]
+**Forms & Genres:** [[forms/free-verse|Free Verse]]
+
+## Testo integrale / Full text
+
+_Cluster: GOOD-BYE MY FANCY_  
+
+
+  After a long, long course, hundreds of years, denials,  
+  Accumulations, rous’d love and joy and thought,  
+  Hopes, wishes, aspirations, ponderings, victories, myriads of readers,  
+  Coating, compassing, covering--after ages’ and ages’ encrustations,  
+  Then only may these songs reach fruition.  

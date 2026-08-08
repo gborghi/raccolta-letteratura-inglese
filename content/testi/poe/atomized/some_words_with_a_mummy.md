@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="some_words_with_a_mummy" data-title="Some Words with a Mummy" data-chapter="" data-kind="intro"></span>
 
-# [[works/some-words-with-a-mummy-(poe)|Some Words with a Mummy]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -26,7 +26,7 @@ Dopo aver concluso così un pasto frugale e indossato il mio berretto da notte, 
 Ma quando sono state realizzate le speranze dell’umanità? Non avevo ancora finito il mio terzo russare che si udì un suono furioso alla porta di casa; poi dei colpi impazienti sul campanello, che mi svegliarono all’istante. Un minuto dopo, mentre ancora mi strofinavo gli occhi, mia moglie mi mise davanti una lettera del mio vecchio amico, il dottor Ponnonner. Diceva così:
 
 
-“Vieni da me, per favore, mio caro e buon amico, non appena riceverai questa lettera. Vieni ad aiutarci a festeggiare: finalmente, grazie a una lunga e perseverante diplomazia, sono riuscito a ottenere il consenso dei direttori del [[motifs/city|Museo della Città]] per esaminare la Mummia, quella di cui parlo. Ho il permesso di scoprirla e aprirla, se lo si desidera. Saranno presenti solo pochi amici, tu, naturalmente. La Mummia è ora nella mia casa, e inizieremo ad aprirla alle undici di questa sera.”
+“Vieni da me, per favore, mio caro e buon amico, non appena riceverai questa lettera. Vieni ad aiutarci a festeggiare: finalmente, grazie a una lunga e perseverante diplomazia, sono riuscito a ottenere il consenso dei direttori del [[motifs/city|Museo della Città]] per esaminare la Mummia, quella di cui parlo. Ho il permesso di scoprirla e aprirla, se lo si desidera. Saranno presenti solo pochi amici, tu, naturalmente. La Mummia è ora nella mia [[house|casa]], e inizieremo ad aprirla alle undici di questa sera.”
 
 “Tuo per sempre,
 PONNONNER.”
@@ -73,7 +73,7 @@ Non posso dire di essere stato allarmato da quel fenomeno, perché “allarmato�
 
 Dopo il primo momento di stupore, decidemmo naturalmente di proseguire immediatamente con ulteriori esperimenti. Questa volta le nostre operazioni furono dirette verso il dito grande del piede destro: effettuammo un’incisione sul lato esterno dell’os sesamoideum pollicis pedis, raggiungendo così la radice del muscolo abduttore. Riaggiustando l’apparecchio, applicammo il liquido sui nervi sezionati; in quel momento, con un movimento straordinariamente realistico, la Mummia sollevò prima il ginocchio destro portandolo quasi a contatto con l’addome, per poi raddrizzare la gamba con una forza inimmaginabile e sferrare un calcio al dottor Ponnonner, che venne scagliato fuori dalla finestra e atterrò in strada.
 
-Uscimmo tutti insieme per portare dentro i resti mutilati della vittima, ma ebbero la fortuna di incontrarlo sulle scale: saliva a tutta velocità, pieno di una fervente filosofia e più che mai convinto della necessità di proseguire il nostro esperimento con vigore e impegno.
+Uscimmo tutti insieme per portare dentro i resti mutilati della vittima, ma ebbero la fortuna di incontrarlo sulle scale: saliva a tutta velocità, pieno di una fervente [[philosophy|filosofia]] e più che mai convinto della necessità di proseguire il nostro esperimento con vigore e impegno.
 
 Fu quindi su suo consiglio che facemmo, sul posto, un’incisione profonda sulla punta del naso del soggetto; il Dottore stesso, afferrandolo con forza, lo spinse violentemente a contatto con il filo elettrico.
 
@@ -301,7 +301,7 @@ this. Come and help us to rejoice. At last, by long persevering diplomacy, I
 have gained the assent of the Directors of the [[motifs/city|City]] Museum, to my examination
 of the Mummy—you know the one I mean. I have permission to unswathe it
 and open it, if desirable. A few friends only will be present—you, of
-course. The Mummy is now at my house, and we shall begin to unroll it at eleven
+course. The Mummy is now at my [[house]], and we shall begin to unroll it at eleven
 to-[[motifs/night|night]].
 
 “Yours, ever,
@@ -386,7 +386,7 @@ Dopo aver concluso così un pasto frugale e indossato il mio berretto da notte, 
 Ma quando sono state realizzate le speranze dell’umanità? Non avevo ancora finito il mio terzo russare che si udì un suono furioso alla porta di casa; poi dei colpi impazienti sul campanello, che mi svegliarono all’istante. Un minuto dopo, mentre ancora mi strofinavo gli occhi, mia moglie mi mise davanti una lettera del mio vecchio amico, il dottor Ponnonner. Diceva così:
 
 
-“Vieni da me, per favore, mio caro e buon amico, non appena riceverai questa lettera. Vieni ad aiutarci a festeggiare: finalmente, grazie a una lunga e perseverante diplomazia, sono riuscito a ottenere il consenso dei direttori del [[motifs/city|Museo della Città]] per esaminare la Mummia, quella di cui parlo. Ho il permesso di scoprirla e aprirla, se lo si desidera. Saranno presenti solo pochi amici, tu, naturalmente. La Mummia è ora nella mia casa, e inizieremo ad aprirla alle undici di questa sera.”
+“Vieni da me, per favore, mio caro e buon amico, non appena riceverai questa lettera. Vieni ad aiutarci a festeggiare: finalmente, grazie a una lunga e perseverante diplomazia, sono riuscito a ottenere il consenso dei direttori del [[motifs/city|Museo della Città]] per esaminare la Mummia, quella di cui parlo. Ho il permesso di scoprirla e aprirla, se lo si desidera. Saranno presenti solo pochi amici, tu, naturalmente. La Mummia è ora nella mia [[house|casa]], e inizieremo ad aprirla alle undici di questa sera.”
 
 “Tuo per sempre,
 PONNONNER.”
@@ -490,7 +490,7 @@ catapult, through a [[motifs/window|window]] into the street below.
 
 We rushed out _en masse_ to bring in the mangled remains of the
 victim, but had the happiness to meet him upon the staircase, coming up in
-an unaccountable hurry, brimful of the most ardent philosophy, and more
+an unaccountable hurry, brimful of the most ardent [[philosophy]], and more
 than ever impressed with the necessity of prosecuting our experiment with
 vigor and with zeal.
 
@@ -550,7 +550,7 @@ Non posso dire di essere stato allarmato da quel fenomeno, perché “allarmato�
 
 Dopo il primo momento di stupore, decidemmo naturalmente di proseguire immediatamente con ulteriori esperimenti. Questa volta le nostre operazioni furono dirette verso il dito grande del piede destro: effettuammo un’incisione sul lato esterno dell’os sesamoideum pollicis pedis, raggiungendo così la radice del muscolo abduttore. Riaggiustando l’apparecchio, applicammo il liquido sui nervi sezionati; in quel momento, con un movimento straordinariamente realistico, la Mummia sollevò prima il ginocchio destro portandolo quasi a contatto con l’addome, per poi raddrizzare la gamba con una forza inimmaginabile e sferrare un calcio al dottor Ponnonner, che venne scagliato fuori dalla finestra e atterrò in strada.
 
-Uscimmo tutti insieme per portare dentro i resti mutilati della vittima, ma ebbero la fortuna di incontrarlo sulle scale: saliva a tutta velocità, pieno di una fervente filosofia e più che mai convinto della necessità di proseguire il nostro esperimento con vigore e impegno.
+Uscimmo tutti insieme per portare dentro i resti mutilati della vittima, ma ebbero la fortuna di incontrarlo sulle scale: saliva a tutta velocità, pieno di una fervente [[philosophy|filosofia]] e più che mai convinto della necessità di proseguire il nostro esperimento con vigore e impegno.
 
 Fu quindi su suo consiglio che facemmo, sul posto, un’incisione profonda sulla punta del naso del soggetto; il Dottore stesso, afferrandolo con forza, lo spinse violentemente a contatto con il filo elettrico.
 
@@ -769,7 +769,7 @@ the insignium. I speak figuratively.”
 
 
 “Why, it is the general custom in [[settings/egypt|Egypt]] to deprive a corpse, before
-embalmment, of its bowels and brains; the race of the Scarabaei alone did
+embalmment, of its bowels and brains; the race of the Scarabaei [[Alone|alone]] did
 not coincide with the custom. Had I not been a Scarabeus, therefore, I
 should have been without bowels and brains; and without either it is
 inconvenient to live.”
@@ -1034,7 +1034,7 @@ both the travellers, who pinched him black and blue to no purpose.
 York! or if this be too vast a contemplation, regard for a moment the
 Capitol at Washington, D. C.!”—and the good little medical man went
 on to detail very minutely, the proportions of the fabric to which he
-referred. He explained that the portico alone was adorned with no less
+referred. He explained that the portico [[Alone|alone]] was adorned with no less
 than four and twenty columns, five feet in diameter, and ten feet apart.
 
 The Count said that he regretted not being able to remember, just at that

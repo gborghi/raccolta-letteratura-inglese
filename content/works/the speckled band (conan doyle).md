@@ -38,5 +38,5 @@ tags:
 **Themes & Concepts:** [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/greed-and-money|Greed and Money]], [[concepts/fear|Fear]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/serpent-snake|Serpent Snake]], [[motifs/great-house|Great House]], [[motifs/night|Night]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]], [[characters/dr.-rylott|Dr. Rylott]], [[characters/enid-stonor|Enid Stonor]]
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]], [[archetypes/damsel|Damsel]]
+**Characters:** Sherlock Holmes, Doctor Watson, Dr. Rylott, Enid Stonor
+**Archetypes:** Detective, Villain, Damsel

@@ -40,7 +40,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
+**Archetypes:** Common Man (2)
 
 **Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/sublime-in-nature|Sublime in Nature]]
 

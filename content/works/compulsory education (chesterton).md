@@ -50,7 +50,7 @@ tags:
 
 **Settings:** [[settings/american-south|American South]]
 
-**Characters:** [[characters/queen-elizabeth|Queen Elizabeth]], [[characters/queen-victoria|Queen Victoria]], [[characters/william-jennings-bryan|William Jennings Bryan]], [[characters/charles-darwin|Charles Darwin]]
+**Characters:** Queen Elizabeth, Queen Victoria, William Jennings Bryan, Charles Darwin
 
 **Themes & Concepts:** [[concepts/education|Education]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/faith|Faith]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

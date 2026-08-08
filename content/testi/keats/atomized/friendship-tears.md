@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/friendship-tears" data-author="Keats" data-workhref="works/friendship-·-tears-(keats)"></div>
 
 
-<span class="atom-split" data-atom="003_to_some_ladies" data-title="TO SOME LADIES" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/the_sea,motif/nightingale,motif/moon,concept/friendship,form/lyric,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="003_to_some_ladies" data-title="TO SOME LADIES" data-chapter="" data-kind="intro"></span>
 
 
 What though while the wonders of [[concepts/nature|nature]] exploring,  
@@ -52,7 +52,7 @@ To possess but a span of the hour of leisure,
 
 
 
-<span class="atom-split" data-atom="007_imitation_of_spenser" data-title="IMITATION OF SPENSER" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/nature,concept/beauty,concept/love_romantic,form/spenserian_stanza,histref/the_renaissance,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="007_imitation_of_spenser" data-title="IMITATION OF SPENSER" data-chapter="" data-kind="intro"></span>
 
 
 Now Morning from her [[settings/orient|orient]] chamber came,  
@@ -131,7 +131,7 @@ Ah! who can e’er forget so fair a being?
 For man’s protection. Surely the All-seeing,  
 Who joys to see us with his gifts agreeing,  
   Will never give him pinions, who intreats  
-  Such innocence to ruin, — who vilely cheats  
+  Such [[innocence]] to ruin, — who vilely cheats  
 A dove-like bosom. In [[concepts/truth|truth]] there is no freeing  
 One’s thoughts from such a [[concepts/beauty|beauty]]; when I hear  
   A lay that once I saw her hand awake,  
@@ -143,11 +143,11 @@ A dewy flower, oft would that hand appear,
 
 
 
-<span class="atom-split" data-atom="009_to_george_felton_mathew" data-title="TO GEORGE FELTON MATHEW" data-chapter="" data-kind="intro" data-tags="motif/the_city,concept/friendship,concept/the_artist_and_society,concept/nature_vs_civilization,form/heroic_couplet,histref/greek_mythology,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="009_to_george_felton_mathew" data-title="TO GEORGE FELTON MATHEW" data-chapter="" data-kind="intro"></span>
 
 
 Sweet are the pleasures that to verse belong,  
-And doubly sweet a brotherhood in song;  
+And doubly sweet a brotherhood in [[Song|song]];  
 Nor can remembrance, Mathew! bring to view  
 A fate more pleasing, a delight more true  
 Than that in which the brother Poets joy’d,  
@@ -227,7 +227,7 @@ For thee, she will thy every dwelling grace,
 And make “a sun-shine in a shady place:”  
 For thou wast once a flowret blooming wild,  
 Close to the source, bright, pure, and undefil’d,  
-Whence gush the streams of song: in happy hour  
+Whence gush the streams of [[Song|song]]: in happy hour  
 Came chaste [[characters/diana|Diana]] from her shady bower,  
 Just as the sun was from the east uprising;  
 And, as for him some gift she was devising,  
@@ -249,7 +249,7 @@ November, 1815.
 
 
 
-<span class="atom-split" data-atom="011_to_charles_cowden_clarke" data-title="TO CHARLES COWDEN CLARKE" data-chapter="" data-kind="intro" data-tags="motif/time,motif/the_book,motif/the_sea,concept/friendship,form/heroic_couplet,histref/the_renaissance,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="011_to_charles_cowden_clarke" data-title="TO CHARLES COWDEN CLARKE" data-chapter="" data-kind="intro"></span>
 
 
 Oft have you seen a swan superbly frowning,  
@@ -305,7 +305,7 @@ Thus have I thought; and days on days have flown
 Slowly, or rapidly — unwilling still  
 For you to try my dull, unlearned quill.  
 Nor should I now, but that I’ve known you long;  
-That you first taught me all the sweets of song:  
+That you first taught me all the sweets of [[Song|song]]:  
 The grand, the sweet, the terse, the free, the fine;  
 What swell’d with pathos, and what right divine:  
 Spenserian vowels that elope with ease,  
@@ -364,7 +364,7 @@ Verses from which the [[motifs/soul|soul]] would never wean:
 But many days have past since last my heart  
 Was warm’d luxuriously by divine Mozart;  
 By Arne delighted, or by Handel madden’d;  
-Or by the song of Erin pierc’d and sadden’d:  
+Or by the [[Song|song]] of Erin pierc’d and sadden’d:  
 What [[motifs/time|time]] you were before the music sitting,  
 And the rich notes to each sensation fitting.  
 Since I have walk’d with you through shady lanes  
@@ -391,7 +391,7 @@ September, 1816.
 
 
 
-<span class="atom-split" data-atom="019_to_my_brothers" data-title="TO MY BROTHERS" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/silence,concept/friendship,concept/mortality,form/sonnet,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="019_to_my_brothers" data-title="TO MY BROTHERS" data-chapter="" data-kind="intro"></span>
 
 
 Small, busy flames play through the fresh laid coals,  
@@ -414,7 +414,7 @@ November 18, 1816.
 
 
 
-<span class="atom-split" data-atom="020_keen_fitful_gusts_are_whispring_here_and_there" data-title="KEEN, FITFUL GUSTS ARE WHISP’RING HERE AND THERE" data-chapter="" data-kind="intro" data-tags="motif/winter,motif/the_book,motif/wind,concept/friendship,form/sonnet,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="020_keen_fitful_gusts_are_whispring_here_and_there" data-title="KEEN, FITFUL GUSTS ARE WHISP’RING HERE AND THERE" data-chapter="" data-kind="intro"></span>
 
 
 Keen, fitful gusts are whisp’ring here and there  
@@ -435,7 +435,7 @@ Of lovely Laura in her light green dress,
 
 
 
-<span class="atom-split" data-atom="097_acrostic" data-title="Acrostic" data-chapter="" data-kind="intro" data-tags="concept/imagination,concept/friendship,concept/immortality_of_art,concept/love_romantic,form/sonnet,histref/greek_mythology,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="097_acrostic" data-title="Acrostic" data-chapter="" data-kind="intro"></span>
 
 
 Georgiana Augusta Keats  
@@ -468,7 +468,7 @@ Sons, daughters and a [[motifs/home|home]] like honied hive.
 
 
 
-<span class="atom-split" data-atom="113_spenserian_stanza" data-title="Spenserian Stanza" data-chapter="" data-kind="intro" data-tags="motif/the_book,concept/education,form/spenserian_stanza,form/allegory,histref/the_renaissance,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="113_spenserian_stanza" data-title="Spenserian Stanza" data-chapter="" data-kind="intro"></span>
 
 
 Written at the close of Canto II, Book V, of’The Faerie Queene’.  
@@ -486,7 +486,7 @@ The one he struck stone-blind, the other’s eyes wox dim.
 
 
 
-<span class="atom-split" data-atom="123_spenserian_stanzas_on_charles_armitage_brown" data-title="Spenserian Stanzas on Charles Armitage Brown" data-chapter="" data-kind="intro" data-tags="archetype/pilgrim,motif/wine_and_drink,concept/satire_of_society,form/spenserian_stanza,form/satire,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="123_spenserian_stanzas_on_charles_armitage_brown" data-title="Spenserian Stanzas on Charles Armitage Brown" data-chapter="" data-kind="intro"></span>
 
 
 I  

@@ -47,7 +47,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/prophet|Prophet]], [[archetypes/dust-personified|Dust Personified]]
+**Archetypes:** Tyrant, Prophet, Dust Personified
 
 **Topoi:** [[topoi/memento-mori|Memento Mori]], [[topoi/world-upside-down|World Upside Down]], [[topoi/vanitas|Vanitas]]
 **Motifs:** [[motifs/dust|Dust]], [[motifs/flowers|Flowers]], [[motifs/white-and-red|White and Red]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/sun|Sun]], [[motifs/fire|Fire]]

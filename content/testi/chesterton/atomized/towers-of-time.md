@@ -28,14 +28,14 @@ Appoggiammo le spalle come a un muro
 E benedicemmo come forte e biasimammo come stolido--  
 Possono esser questi a vacillare e cadere?  
 E cos'è questo come uno [[archetypes/ghost|Spettro]] che ritorna,  
-Un sogno fatto forte nella forte luce del giorno?  
+[[A Dream|Un sogno]] fatto forte nella forte luce del giorno?  
 L'abbandonato da tutti, il non dimenticato,  
 Il sempre-alle-spalle e fuori dalla vista.  
 Volgemmo le spalle e la nostra cieca carne lo sentì  
 Crescere e crescere, una torre in altezza.  
 
-Ah, non soltanto lo splendore malvagio  
-E non le armi insolenti soltanto  
+Ah, non [[Alone|soltanto]] lo splendore malvagio  
+E non le armi insolenti [[Alone|soltanto]]  
 Spezzano con lo scovolo, rigido e fragile,  
 Lo scettro del trono nordico;  
 Ma cose di più virile rinomanza  
@@ -44,7 +44,7 @@ Con tirannica tirannia, tirannica lealtà,
 Tirannica libertà, tutto crollato.  
 
 (Non c'è mai una crepa nella torre d'avorio  
-Né un cardine che gema nella casa d'oro  
+Né un cardine che gema nella [[house|casa]] d'oro  
 Né una foglia della [[motifs/rose|rosa]] al [[motifs/wind|vento]] ad appassire  
 Ed ella ringiovanisce mentre il mondo invecchia.  
 Una Donna vestita di sole che ritorna  
@@ -56,7 +56,7 @@ la Repubblica delle battaglie dei giovani
 Si facesse stantia e puzzasse delle tangenti dei vecchi;  
 E là dove la vedemmo sorridere nel potere  
 Una statua come una torre stellata  
-il volto di pietra sogghigna come in un incubo  
+il volto di pietra sogghigna come in un [[nightmare|incubo]]  
 Giù su un mondo che i vermi divorano.  
 (Arcaiche incredibili morte albe che rompono  
 Fonde nei deserti e nelle lande e nei boschi,  
@@ -70,7 +70,7 @@ Come lieve e improvvisa sulla fama
 Delle mie nobilissime navi inglesi  
 Giunse la luce di tramonto di Cartagine  
 E la cosa che mai avevo sognato potesse essere  
-Nella casa dei miei padri venne a me  
+Nella [[house|casa]] dei miei padri venne a me  
 Attraverso la muraglia marina fenduta, la nuvola e il buio,  
 Una voce divisa, un mare incerto.  
 (La luce è chiara sulla Torre di Davide,  
@@ -143,14 +143,14 @@ We leaned our backs on like a wall
 And blessed as stron as strong and blamed as stolid--  
 Can it be these that waver and fall?  
 And what is this like a [[archetypes/ghost|ghost]] returning,  
-A dream grown strong in the strong daylight?  
+[[A Dream|A dream]] grown strong in the strong daylight?  
 The all-forsaken, the unforgotten,  
 The ever-behind and out of sight.  
 We turned our backs and our blind flesh felt it  
 Growing and growing, a tower in height.  
 
-Ah, not alone the evil splendour  
-And not the insolent arms alone  
+Ah, not [[Alone|alone]] the evil splendour  
+And not the insolent arms [[Alone|alone]]  
 Break with the ramrod, stiff and brittle,  
 The sceptre of the nordic throne;  
 But things of manlier renown  
@@ -159,7 +159,7 @@ With tyrannous tyranny, tyrannous loyalty
 Tyrannous liberty, all gone down.  
 
 (There is never a crack in the ivory tower  
-Or a hinge to groan in the house of gold  
+Or a hinge to groan in the [[house]] of gold  
 Or a leaf of the [[motifs/rose|rose]] in the [[motifs/wind|wind]] to wither  
 And she grows young as the world grows old.  
 A Woman clothed with the sun returning  
@@ -171,7 +171,7 @@ the Republic of the young men's battles
 Grew stale and stank of old men's bribes;  
 And where we watched her smile in power  
 A statue like a starry tower  
-the stone face sneers as in a nightmare  
+the stone face sneers as in a [[nightmare]]  
 Down on a world that worms devour.  
 (Archaic incredible dead dawns breaking  
 Deep in the deserts and waste and wealds,  
@@ -185,7 +185,7 @@ How soft and sudden on the fame
 Of my most noble English ships  
 The sunset light of Carthage came  
 And the thing I never had dreamed could be  
-In the house of my fathers came to me  
+In the [[house]] of my fathers came to me  
 Through the sea-wall cloven, the cloud and dark,  
 A voice divided, a doubtful sea.  
 (The light is bright on the Tower of David,  
@@ -256,14 +256,14 @@ Appoggiammo le spalle come a un muro
 E benedicemmo come forte e biasimammo come stolido--  
 Possono esser questi a vacillare e cadere?  
 E cos'è questo come uno [[archetypes/ghost|Spettro]] che ritorna,  
-Un sogno fatto forte nella forte luce del giorno?  
+[[A Dream|Un sogno]] fatto forte nella forte luce del giorno?  
 L'abbandonato da tutti, il non dimenticato,  
 Il sempre-alle-spalle e fuori dalla vista.  
 Volgemmo le spalle e la nostra cieca carne lo sentì  
 Crescere e crescere, una torre in altezza.  
 
-Ah, non soltanto lo splendore malvagio  
-E non le armi insolenti soltanto  
+Ah, non [[Alone|soltanto]] lo splendore malvagio  
+E non le armi insolenti [[Alone|soltanto]]  
 Spezzano con lo scovolo, rigido e fragile,  
 Lo scettro del trono nordico;  
 Ma cose di più virile rinomanza  
@@ -272,7 +272,7 @@ Con tirannica tirannia, tirannica lealtà,
 Tirannica libertà, tutto crollato.  
 
 (Non c'è mai una crepa nella torre d'avorio  
-Né un cardine che gema nella casa d'oro  
+Né un cardine che gema nella [[house|casa]] d'oro  
 Né una foglia della [[motifs/rose|rosa]] al [[motifs/wind|vento]] ad appassire  
 Ed ella ringiovanisce mentre il mondo invecchia.  
 Una Donna vestita di sole che ritorna  
@@ -284,7 +284,7 @@ la Repubblica delle battaglie dei giovani
 Si facesse stantia e puzzasse delle tangenti dei vecchi;  
 E là dove la vedemmo sorridere nel potere  
 Una statua come una torre stellata  
-il volto di pietra sogghigna come in un incubo  
+il volto di pietra sogghigna come in un [[nightmare|incubo]]  
 Giù su un mondo che i vermi divorano.  
 (Arcaiche incredibili morte albe che rompono  
 Fonde nei deserti e nelle lande e nei boschi,  
@@ -298,7 +298,7 @@ Come lieve e improvvisa sulla fama
 Delle mie nobilissime navi inglesi  
 Giunse la luce di tramonto di Cartagine  
 E la cosa che mai avevo sognato potesse essere  
-Nella casa dei miei padri venne a me  
+Nella [[house|casa]] dei miei padri venne a me  
 Attraverso la muraglia marina fenduta, la nuvola e il buio,  
 Una voce divisa, un mare incerto.  
 (La luce è chiara sulla Torre di Davide,  

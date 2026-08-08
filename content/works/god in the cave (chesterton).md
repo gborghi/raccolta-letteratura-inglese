@@ -67,7 +67,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
+**Archetypes:** Tyrant, Wise Old Man Sage
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/quest|Quest]], [[topoi/golden-age|Golden Age]]
 **Motifs:** [[motifs/grave|Grave]], [[motifs/stars|Stars]], [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[motifs/light-and-dark|Light and Dark]]
@@ -75,7 +75,7 @@ tags:
 **Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/bible|Bible]], [[historical-references/ancient-greece|Ancient Greece]], [[settings/ancient-rome|Ancient Rome]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]
 **Settings:** [[settings/underworld-cave|Underworld Cave]], [[settings/orient|Orient]], [[settings/ancient-rome|Ancient Rome]], [[settings/ancient-greece-(2)|Ancient Greece (2)]]
-**Characters:** [[characters/christ|Christ]], [[characters/herod|Herod]], [[characters/magi|Magi]], [[characters/shepherds|Shepherds]]
+**Characters:** Christ, Herod, Magi, Shepherds
 
 ## Testo integrale / Full text
 

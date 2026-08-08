@@ -45,4 +45,4 @@ tags:
 **Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/uncanny|Uncanny]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/fear|Fear]], [[concepts/mesmerism|Mesmerism]]
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[motifs/night|Night]], [[motifs/secrets|Secrets]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
-**Archetypes:** [[archetypes/ghost|Ghost]], [[archetypes/villain|Villain]], [[archetypes/detective|Detective]]
+**Archetypes:** Ghost, Villain, Detective

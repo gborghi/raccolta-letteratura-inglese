@@ -44,7 +44,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/christ-figure|Christ Figure]]
+**Archetypes:** Christ Figure
 
 **Settings:** [[settings/inn|Inn]], [[settings/stable|Stable]]
 
@@ -53,7 +53,7 @@ tags:
 **Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/paradox|Paradox]], [[concepts/exile|Exile]], [[concepts/nostalgia|Nostalgia]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/providence|Providence]], [[concepts/wonder|Wonder]]
 **Forms & Genres:** [[forms/lyric|Lyric]], [[forms/hymn|Hymn]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
-**Characters:** [[characters/christ|Christ]], [[characters/virgin-mary|Virgin Mary]]
+**Characters:** Christ, Virgin Mary
 
 ## Testo integrale / Full text
 

@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-IL CANTO DI [[characters/quoodle|QUOODLE]]  
+IL [[Song|CANTO]] DI [[characters/quoodle|QUOODLE]]  
 
 G.K.Chesterton  
 
@@ -40,7 +40,7 @@ il valoroso odore d'una pietra,
 l'odore di rugiada e tuono,  
 le vecchie ossa sepolte sotto,  
 son cose in cui inciampano  
-ed errano, se lasciati soli.  
+ed errano, se lasciati [[Alone|soli]].  
 
 Il [[motifs/wind|vento]] dai boschi d'[[motifs/winter|inverno]],  
 il profumo di [[motifs/flowers|fiori]] senza profumo,  
@@ -63,7 +63,7 @@ la Senzanasità dell'Uomo.
 <span class="atom-split" data-atom="part--part_01" data-title="quoodle (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/flowers,motif/water,motif/wind,motif/winter,character/quoodle,character/sunday"></span>
 
 
-THE SONG OF [[characters/quoodle|QUOODLE]]  
+THE [[Song|SONG]] OF [[characters/quoodle|QUOODLE]]  
 
 G.K.Chesterton  
 
@@ -86,7 +86,7 @@ The brave smell of a stone,
 The smell of dew and thunder,  
 The old bones buried under,  
 Are things in which they blunder  
-And err, if left alone.  
+And err, if left [[Alone|alone]].  
 
 The [[motifs/wind|wind]] from [[motifs/winter|winter]] forests,  
 The scent of scentless [[motifs/flowers|flowers]],  
@@ -107,7 +107,7 @@ The Noselessness of Man.
 
 <span class="qlang-split" data-lang="it"></span>
 
-IL CANTO DI [[characters/quoodle|QUOODLE]]  
+IL [[Song|CANTO]] DI [[characters/quoodle|QUOODLE]]  
 
 G.K.Chesterton  
 
@@ -130,7 +130,7 @@ il valoroso odore d'una pietra,
 l'odore di rugiada e tuono,  
 le vecchie ossa sepolte sotto,  
 son cose in cui inciampano  
-ed errano, se lasciati soli.  
+ed errano, se lasciati [[Alone|soli]].  
 
 Il [[motifs/wind|vento]] dai boschi d'[[motifs/winter|inverno]],  
 il profumo di [[motifs/flowers|fiori]] senza profumo,  

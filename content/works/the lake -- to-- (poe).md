@@ -31,7 +31,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/locus-amoenus|Locus Amoenus]]
-**Archetypes:** [[archetypes/outsider|Outsider]]
+**Archetypes:** Outsider
 **Motifs:** [[motifs/water|Water]], [[motifs/death|Death]], [[motifs/grave|Grave]], [[motifs/night|Night]], [[concepts/nature|Nature]], [[motifs/wind|Wind]]
 **Themes & Concepts:** [[concepts/melancholy|Melancholy]], [[concepts/imagination|Imagination]], [[concepts/alienation|Alienation]], [[concepts/sublime|Sublime]], [[concepts/mortality|Mortality]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

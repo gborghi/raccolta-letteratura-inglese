@@ -48,6 +48,6 @@ tags:
 **Themes & Concepts:** [[concepts/apocalypse|Apocalypse]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/mortality|Mortality]], [[concepts/reason-and-rationalism|Reason and Rationalism]], [[concepts/order-vs-chaos|Order vs Chaos]]
 **Motifs:** [[motifs/death|Death]], [[motifs/light-and-dark|Light and Dark]], [[motifs/sleep|Sleep]], [[motifs/time|Time]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
-**Characters:** [[characters/professor-challenger|Professor Challenger]], [[characters/professor-summerlee|Professor Summerlee]], [[characters/lord-john-roxton|Lord John Roxton]], [[characters/edward-malone|Edward Malone]]
-**Archetypes:** [[archetypes/prophet|Prophet]], [[archetypes/hero|Hero]]
+**Characters:** Professor Challenger, Professor Summerlee, Lord John Roxton, Edward Malone
+**Archetypes:** Prophet, Hero
 **Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]]

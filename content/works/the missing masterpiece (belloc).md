@@ -48,7 +48,7 @@ tags:
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/artist-and-society|Artist and Society]], [[concepts/deception|Deception]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/fame-and-publicity|Fame and Publicity]], [[concepts/antisemitism|Antisemitism]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/book-reading|Book Reading]]
 **Settings:** [[settings/paris|Paris]], [[settings/france|France]], [[settings/rural-england|Rural England]], [[settings/europe|Europe]]
-**Archetypes:** [[archetypes/artist|Artist]], [[archetypes/trickster|Trickster]]
+**Archetypes:** Artist, Trickster
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
 **Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

@@ -35,7 +35,7 @@ tags:
 **Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/death|Death]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/clock|Clock]], [[motifs/night|Night]]
 **Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/terror-and-horror|Terror and Horror]]
 **Forms & Genres:** [[forms/short-story|Short Story]]
-**Characters:** [[characters/death-personified|Death Personified]]
+**Characters:** Death Personified
 
 ## Testo integrale / Full text
 

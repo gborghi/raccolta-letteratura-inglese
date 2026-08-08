@@ -69,5 +69,5 @@ tags:
 **Motifs:** [[motifs/ship|Ship]], [[motifs/sea|Sea]], [[motifs/fire|Fire]], [[motifs/blood|Blood]], [[motifs/time|Time]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/roman-history|Roman History]], [[historical-references/carthage|Carthage]], [[historical-references/christianity|Christianity]]
 **Settings:** [[settings/ancient-rome|Ancient Rome]], [[settings/africa|Africa]]
-**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/avenger|Avenger]]
+**Archetypes:** Tyrant, Martyr Saint, Avenger
 **Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/fortune's-wheel|Fortune's Wheel]]

@@ -148,7 +148,7 @@ prove of such a [[concepts/nature|nature]] as to carry with them sufficient evid
 
 of their own authenticity, and that I had consequently little to
 
-[[concepts/fear|fear]] on the score of popular incredulity.
+[[concepts/fear|fear]] on the score of popular [[Incredulity|incredulity]].
 
 
 
@@ -169,6 +169,15 @@ style will be readily perceived.
 
 
 A. G. PYM.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -659,7 +668,7 @@ the mainsail let it go by the run. As might have been expected,
 
 it flew over the bows, and, getting drenched with [[motifs/water|water]], carried
 
-away the mast short off by the board. This latter accident alone
+away the mast short off by the board. This latter accident [[Alone|alone]]
 
 saved me from instant destruction. Under the jib only, I now
 
@@ -836,7 +845,7 @@ La vela maestra si lasciò portare dal vento… Come ci si poteva aspettare.
 
 Volò sopra le vele e, bagnandosi completamente nell’[[motifs/water|acqua]], continuò il suo percorso.
 
-Lontano dal palo, tagliato proprio vicino alla tavola. Quest’ultimo incidente, solo.
+Lontano dal palo, tagliato proprio vicino alla tavola. Quest’ultimo incidente, [[Alone|solo]].
 
 Mi ha salvato dalla distruzione immediata… Ora, soltanto sotto la gabbia di poppa…
 
@@ -1679,7 +1688,7 @@ partial interchange of character.
 
 About eighteen months after the period of the [[characters/ariel|Ariel]]’s disaster,
 
-the firm of Lloyd and Vredenburgh (a house connected in some
+the firm of Lloyd and Vredenburgh (a [[house]] connected in some
 
 manner with the Messieurs Enderby, I believe, of Liverpool) were
 
@@ -1757,7 +1766,7 @@ our hitting upon any plan we thought likely to succeed, he told
 
 me at last that he had determined upon everything necessary. I
 
-had a relation living in New Bedford, a Mr. Ross, at whose house
+had a relation living in New Bedford, a Mr. Ross, at whose [[house]]
 
 I was in the habit of spending occasionally two or three weeks at
 
@@ -1862,7 +1871,7 @@ Scambio parziale dei caratteri.
 
 Circa diciotto mesi dopo il periodo del disastro di [[characters/ariel|Ariel]],
 
-La società Lloyd and Vredenburgh, un’azienda collegata in qualche modo.
+La società Lloyd and Vredenburgh, un’[[house|azienda]] collegata in qualche modo.
 
 Credo che il modo in cui i signori Enderby di Liverpool si comportassero…
 
@@ -1941,7 +1950,7 @@ Non appena trovavamo un piano che ritenevamo potesse avere successo, lui lo prop
 
 Finalmente, aveva deciso di fare tutto ciò che era necessario. Io…
 
-Aveva una relazione con un signore che viveva a New Bedford, il signor Ross; era nella sua casa.
+Aveva una relazione con un signore che viveva a New Bedford, il signor Ross; era nella sua [[house|casa]].
 
 Trascorrevo spesso due o tre settimane…
 
@@ -1988,7 +1997,7 @@ The middle of June at length arrived, and every thing had been
 
 matured. The note was written and delivered, and on a Monday
 
-morning I left the house for the New Bedford packet, as supposed.
+morning I left the [[house]] for the New Bedford packet, as supposed.
 
 I went, however, straight to Augustus, who was waiting for me at
 
@@ -2169,7 +2178,7 @@ Finalmente arrivò la metà di giugno, e tutto era pronto…
 
 “Maturato… La nota fu scritta e consegnata… E in un lunedì…”
 
-La mattina lasciai la casa per prendere il traghetto per New Bedford, come previsto.
+La mattina lasciai la [[house|casa]] per prendere il traghetto per New Bedford, come previsto.
 
 Titolo:  
 Mi sono diretto subito da Augusto, che mi aspettava lì.
@@ -2845,11 +2854,11 @@ intensely black, still, and altogether terrible, beneath. And the
 
 strange trees seemed endowed with a human vitality, and waving to
 
-and fro their skeleton arms, were crying to the silent waters for
+and fro their [[skeleton]] arms, were crying to the silent waters for
 
 [[concepts/mercy|mercy]], in the shrill and piercing accents of the most acute agony
 
-and [[concepts/despair|despair]]. The scene changed; and I stood, naked and alone,
+and [[concepts/despair|despair]]. The scene changed; and I stood, naked and [[Alone|alone]],
 
 amidst the burning sand-plains of Sahara. At my feet lay crouched
 
@@ -2865,7 +2874,7 @@ fell impetuously to the earth. Stifling in a paroxysm of terror,
 
 I at last found myself partially awake. My dream, then, was not
 
-all a dream. Now, at least, I was in possession of my senses. The
+all [[A Dream|a dream]]. Now, at least, I was in possession of my senses. The
 
 paws of some huge and real [[archetypes/monster|monster]] were pressing heavily upon my
 
@@ -3023,7 +3032,7 @@ Avanti e indietro sulle loro braccia scheletriche, piangevano verso le acque sil
 
 [[concepts/mercy|misericordia]], nei toni acuti e penetranti dell’agonia più intensa.
 
-e [[concepts/despair|disperazione]]. La scena cambiò; ed io rimasi lì, nudo e solamente.
+e [[concepts/despair|disperazione]]. La scena cambiò; ed io rimasi lì, nudo e [[Alone|solamente]].
 
 Nelle aride pianure sabbiose del Sahara… Ai miei piedi, accovacciato…
 
@@ -3039,7 +3048,7 @@ Cadde violentemente a terra, soffocata da un attacco di terrore.
 
 Finalmente mi ritrovai parzialmente sveglio… Quindi il mio sogno, in realtà, non era reale.
 
-in un sogno. Ora, almeno, avevo tutti i sensi intatti.
+in un [[A Dream|sogno]]. Ora, almeno, avevo tutti i sensi intatti.
 
 Le zampe di qualche enorme e vero [[archetypes/monster|mostro]] premevano con forza su di me.
 
@@ -3122,7 +3131,7 @@ respecting him, was forced to content myself with rejoicing that
 
 he was with me to share my dreary [[concepts/solitude|solitude]], and render me comfort
 
-by his caresses. Most people [[motifs/love|love]] their dogs—but for Tiger I had
+by his caresses. Most people [[motifs/love|love]] their [[dogs]]—but for Tiger I had
 
 an affection far more ardent than common; and never, certainly,
 
@@ -3176,7 +3185,7 @@ I shook all over, as with an ague, at the slightest movement or
 
 exertion. To add to my troubles, the brig was pitching and
 
-rolling with great violence, and the oil-casks which lay upon my
+[[rolling]] with great violence, and the oil-casks which lay upon my
 
 box were in momentary danger of falling down, so as to block up
 
@@ -3300,7 +3309,7 @@ Riguardo a lui, fui costretto a accontentarmi di gioire per questo.
 
 Era con me per condividere la mia triste [[concepts/solitude|solitudine]] e darmi conforto.
 
-Per i suoi carezzi. La maggior parte delle persone [[motifs/love|ama]] i propri cani; ma per Tiger era diverso.
+Per i suoi carezzi. La maggior parte delle persone [[motifs/love|ama]] i propri [[dogs|cani]]; ma per Tiger era diverso.
 
 Un affetto molto più appassionato del solito… e certamente mai…
 
@@ -3977,7 +3986,7 @@ period prior to this, had been in a condition nearly bordering on
 
 idiocy. There were, to be sure, momentary intervals of perfect
 
-sanity, and, now and then, even of energy; but these were few. It
+[[Sanity|sanity]], and, now and then, even of energy; but these were few. It
 
 must be remembered that I had been, for many days certainly,
 
@@ -4169,7 +4178,7 @@ Il periodo precedente a questo era stato in una condizione quasi al limite…
 
 Idiotia… Certo, ci furono momenti di perfetta…
 
-sanità mentale, e a volte anche energia, ma queste erano rare.
+[[Sanity|sanità mentale]], e a volte anche energia, ma queste erano rare.
 
 Deve essere ricordato che per molti giorni, di certo, ero…
 
@@ -5663,7 +5672,7 @@ men of Nantucket. These anecdotes went to prove his prodigious
 
 strength when under excitement, and some of them had given rise
 
-to a [[concepts/doubt|doubt]] of his sanity. But on board the Grampus, it seems, he
+to a [[concepts/doubt|doubt]] of his [[Sanity|sanity]]. But on board the Grampus, it seems, he
 
 was regarded, at the [[motifs/time|time]] of the mutiny, with feelings more of
 
@@ -5846,7 +5855,7 @@ Uomini di Nantucket… Queste aneddoti dimostravano la sua straordinaria…
 
 Forza quando si è eccitati… e alcuni di loro hanno scatenato reazioni particolari
 
-verso un [[concepts/doubt|dubbio]] sulla sua sanità. Ma a bordo del Grampus, sembra che.
+verso un [[concepts/doubt|dubbio]] sulla sua [[Sanity|sanità]]. Ma a bordo del Grampus, sembra che.
 
 Al momento della rivolta, veniva considerato con sentimenti più di.
 
@@ -6295,7 +6304,7 @@ brought on board by Augustus, who knew my attachment to the
 
 animal, and thought it would give me pleasure to have him with me
 
-during the voyage. He went up to our house for him immediately
+during the voyage. He went up to our [[house]] for him immediately
 
 after first taking me into the hold, but did not think of
 
@@ -6480,7 +6489,7 @@ Introdotto da Augusto, che conosceva la mia affezione per…
 
 Animale… e pensai che sarebbe stato piacevole averlo con me.
 
-Durante il viaggio, andò immediatamente nella nostra casa per lui.
+Durante il viaggio, andò immediatamente nella nostra [[house|casa]] per lui.
 
 Dopo avermi portato per la prima volta nella stiva, non ci pensò più…
 
@@ -6640,7 +6649,7 @@ another, thrusting the first, by good fortune, into his
 
 coat-pocket, where it was now most opportunely discovered. Ink
 
-alone was thus wanting, and a substitute was immediately found
+[[Alone|alone]] was thus wanting, and a substitute was immediately found
 
 for this by means of a slight incision with the pen-knife on the
 
@@ -6682,7 +6691,7 @@ replaced, and also the rope around his ankles.
 
 These arrangements were scarcely completed when Dirk Peters came
 
-below, very drunk, but in excellent humour, and bringing with him
+below, very drunk, but in excellent [[Humour|humour]], and bringing with him
 
 my friend’s allowance of provision for the day. This consisted of
 
@@ -6866,7 +6875,7 @@ Fu sostituito, così come la corda intorno ai suoi polsi.
 
 Queste disposizioni erano appena state completate quando arrivò Dirk Peters
 
-Sotto, molto ubriaco, ma di ottimo umore, e portando con sé.
+Sotto, molto ubriaco, ma di ottimo [[Humour|umore]], e portando con sé.
 
 Il permesso di spesa giornaliero del mio amico… Consisteva in questo.
 
@@ -7002,7 +7011,7 @@ oppressive an air. He called my name repeatedly, but I made him
 
 no reply, and his apprehensions seemed thus to be confirmed. The
 
-brig was rolling violently, and there was so much noise in
+brig was [[rolling]] violently, and there was so much noise in
 
 consequence, that it was useless to listen for any weak sound,
 
@@ -7523,7 +7532,7 @@ always taken to guard against such misfortune. Only those who
 
 have encountered a violent gale of [[motifs/wind|wind]], or rather who have
 
-experienced the rolling of a vessel in a sudden calm after the
+experienced the [[rolling]] of a vessel in a sudden calm after the
 
 gale, can form an idea of the tremendous force of the plunges,
 
@@ -7838,7 +7847,7 @@ sail of Madeira there came on a strong gale from the N. N. E.
 
 which forced him to lie-to. He brought the schooner to the [[motifs/wind|wind]]
 
-under a [[topoi/double|double]]-reefed foresail alone, when she rode as [[motifs/well|well]] as
+under a [[topoi/double|double]]-reefed foresail [[Alone|alone]], when she rode as [[motifs/well|well]] as
 
 any vessel could be expected to do, and shipped not a drop of
 
@@ -8152,7 +8161,7 @@ necessity of the greatest caution in making the attempt, as the
 
 conduct of the hybrid appeared to be instigated by the most
 
-arbitrary caprice alone; and, indeed, it was difficult to say if
+arbitrary caprice [[Alone|alone]]; and, indeed, it was difficult to say if
 
 he was at any moment of sound mind. Peters went upon deck in
 
@@ -8160,7 +8169,7 @@ about an hour, and did not return again until [[motifs/noon|noon]], when he
 
 brought Augustus a plentiful supply of junk beef and pudding. Of
 
-this, when we were left alone, I partook heartily, without
+this, when we were left [[Alone|alone]], I partook heartily, without
 
 returning through the hole. No one else came down into the
 
@@ -8337,7 +8346,7 @@ Necessità di estrema cautela nell’affrontare tale tentativo
 
 La condotta di questo ibrido sembrava essere guidata da…
 
-Un capriccio arbitrario, solo. E, in effetti, era difficile dire se.
+Un capriccio arbitrario, [[Alone|solo]]. E, in effetti, era difficile dire se.
 
 Era sempre in possesso delle sue facoltà mentali. Peters salì sul ponte…
 
@@ -8345,7 +8354,7 @@ Circa un’ora dopo, non tornò più fino a [[motifs/noon|mattina]], quando.
 
 Portò ad Augusto una grande quantità di carne scadente e budino.
 
-Quando siamo rimasti soli, ho partecipato con entusiasmo, senza esitazioni.
+Quando siamo rimasti [[Alone|soli]], ho partecipato con entusiasmo, senza esitazioni.
 
 Tornando attraverso il buco… Nessun altro scese laggiù.
 
@@ -8794,7 +8803,7 @@ was agreed that we should attempt to retake the vessel upon the
 
 first good opportunity, leaving [[characters/jones|Jones]] altogether out of our
 
-councils. In the event of success, we were to run the brig into
+councils. In the event of [[success]], we were to run the brig into
 
 the first port that offered, and deliver her up. The desertion of
 
@@ -8981,7 +8990,7 @@ Fu concordato che avremmo dovuto tentare di riprendere il velivolo.
 
 La prima buona opportunità, lasciando completamente [[characters/jones|Jones]] fuori dalla nostra considerazione.
 
-Consigli. In caso di successo, avremmo dovuto dirigere la brigata verso.
+Consigli. In caso di [[success|successo]], avremmo dovuto dirigere la brigata verso.
 
 Il primo porto che si offrì di accoglierla… La sua abbandono.
 
@@ -9605,7 +9614,7 @@ deceased wore over his other clothing. It was a blue stockinett,
 
 with large white stripes running across. Having put this on, I
 
-proceeded to equip myself with a false stomach, in imitation of
+proceeded to equip myself with a false stomach, in [[Imitation|imitation]] of
 
 the horrible deformity of the swollen corpse. This was soon
 
@@ -9764,7 +9773,7 @@ Il defunto lo indossava sopra gli altri vestiti: si trattava di un calzino blu.
 Titolo:  
 Con grandi strisce bianche che lo attraversano… Una volta indossato, io…
 
-Procedetti ad equipaggiarmi con un “stomaco finto”, in imitazione di.
+Procedetti ad equipaggiarmi con un “stomaco finto”, in [[Imitation|imitazione]] di.
 
 La terribile deformità del cadavere gonfio. Questo fu presto evidente…
 
@@ -10288,7 +10297,7 @@ which the loathsomeness of the actual corpse had made in the
 
 morning upon the imaginations of the men; the excellence of the
 
-imitation in my person, and the uncertain and wavering light in
+[[Imitation|imitation]] in my person, and the uncertain and wavering light in
 
 which they beheld me, as the glare of the cabin lantern, swinging
 
@@ -10463,7 +10472,7 @@ La ripugnanza del cadavere reale aveva reso…
 
 “Alba nelle immaginazioni degli uomini: l’eccellenza…”
 
-Un’imitazione di me stesso, e quella luce incerta e vacillante.
+Un’[[Imitation|imitazione]] di me stesso, e quella luce incerta e vacillante.
 
 Che mi vedessero, alla luce tremolante della lanterna nella cabina…
 
@@ -11087,7 +11096,7 @@ Luckily, just before [[motifs/night|night]], all four of us had lashed ourselves
 
 firmly to the fragments of the windlass, lying in this manner as
 
-flat upon the deck as possible. This precaution alone saved us
+flat upon the deck as possible. This precaution [[Alone|alone]] saved us
 
 from destruction. As it was, we were all more or less stunned by
 
@@ -11097,7 +11106,7 @@ not roll from above us until we were nearly exhausted. As soon as
 
 I could recover breath, I called aloud to my companions. Augustus
 
-alone replied, saying: “It is all over with us, and may God have
+[[Alone|alone]] replied, saying: “It is all over with us, and may God have
 
 [[concepts/mercy|mercy]] upon our souls!” By-and-by both the others were enabled to
 
@@ -11199,7 +11208,7 @@ In this frightful situation we lay until the day broke so as to
 
 show us more fully the horrors which surrounded us. The brig was
 
-a mere log, rolling about at the [[concepts/mercy|mercy]] of every wave; the gale
+a mere log, [[rolling]] about at the [[concepts/mercy|mercy]] of every wave; the gale
 
 was upon the increase, if any thing, blowing indeed a complete
 
@@ -11274,7 +11283,7 @@ Non smetteva di colpirci da sopra fino a quando non eravamo quasi esauriti… No
 
 “Riuscii finalmente a riprendere fiato e chiamai ad alta voce i miei compagni… Augustus.”
 
-Solo rispose, dicendo: “Tutto è finito per noi; possa Dio, ”.
+[[Alone|Solo]] rispose, dicendo: “Tutto è finito per noi; possa Dio, ”.
 
 “[[concepts/mercy|miseria]] sulle nostre anime, ” Col tempo, anche gli altri riuscirono a.
 
@@ -11476,7 +11485,7 @@ phantasies. I now remember that, in all which passed before my
 
 mind’s eye, motion was a predominant idea. Thus, I never fancied
 
-any stationary object, such as a house, a mountain, or any thing
+any stationary object, such as a [[house]], a mountain, or any thing
 
 of that kind; but windmills, ships, large [[motifs/birds|birds]], balloons, people
 
@@ -11655,7 +11664,7 @@ Fantasie… Ora ricordo che, in tutto ciò che è accaduto prima…
 
 “La mente che vede con gli occhi della fantasia: il movimento era un’idea predominante. Per questo motivo, non ho mai immaginato…”
 
-Qualsiasi oggetto fermo, come una casa, una montagna o qualsiasi altra cosa del genere.
+Qualsiasi oggetto fermo, come una [[house|casa]], una montagna o qualsiasi altra cosa del genere.
 
 Di quel tipo, ma mulini a vento, navi, grandi [[motifs/birds|uccelli]], palloncini, persone.
 
@@ -11893,7 +11902,7 @@ than a few bedclothes, which were readily caught by the nails.
 
 Indeed, our contrivance was so very clumsy that any greater
 
-success was hardly to be anticipated.
+[[success]] was hardly to be anticipated.
 
 
 
@@ -11961,7 +11970,7 @@ could again venture to descend.
 
 
 
-The second attempt met with even worse success; for he remained
+The second attempt met with even worse [[success]]; for he remained
 
 so long under [[motifs/water|water]] without giving the signal, that, becoming
 
@@ -12135,7 +12144,7 @@ Più che qualche coperta, che vennero facilmente catturate dai chiodi.
 
 Infatti, il nostro sistema era così goffo che qualsiasi tentativo di migliorarlo…
 
-Il successo era quasi impossibile da prevedere.
+Il [[success|successo]] era quasi impossibile da prevedere.
 
 
 
@@ -13157,7 +13166,7 @@ faint [[concepts/hope|hope]] that it might contain something to eat or drink. We
 
 found nothing, however, except a box of razors and two linen
 
-shirts. I now went down again, and returned without any success.
+shirts. I now went down again, and returned without any [[success]].
 
 As my head came above [[motifs/water|water]] I heard a crash on deck, and, upon
 
@@ -13189,7 +13198,7 @@ accompanied with loud stertorous breathing.
 
 
 
-I now found myself, as it were, alone in the brig, and my
+I now found myself, as it were, [[Alone|alone]] in the brig, and my
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -13350,7 +13359,7 @@ Una debole [[concepts/hope|speranza]] che potesse contenere qualcosa da mangiare
 
 Non ha trovato nulla, se non una scatola di rasoi e due pezzi di stoffa bianca.
 
-Camicie. Ora sono sceso di nuovo, ma sono tornato senza alcun successo.
+Camicie. Ora sono sceso di nuovo, ma sono tornato senza alcun [[success|successo]].
 
 Non appena la mia testa emerse dall’[[motifs/water|acqua]], sentii un rumore forte sul ponte, e, subito dopo.
 
@@ -13383,7 +13392,7 @@ Acompaniato da respiri rumorosi e affannosi.
 
 
 
-Ora mi trovavo, per così dire, da solo nella cabina, e i miei.
+Ora mi trovavo, per così dire, [[Alone|da solo]] nella cabina, e i miei.
 
 
 
@@ -13849,7 +13858,7 @@ prospect of deliverance, that I could not refrain from joining in
 
 with their [[concepts/madness|madness]], and gave way to the impulses of my gratitude
 
-and ecstasy by lying and rolling on the deck, clapping my hands,
+and ecstasy by lying and [[rolling]] on the deck, clapping my hands,
 
 shouting, and other similar acts, until I was suddenly called to
 
@@ -14181,7 +14190,7 @@ sea. Upon this he immediately seized me by the throat, and
 
 drawing a knife, made several ineffectual efforts to stab me in
 
-the stomach; an atrocity which his excessive debility alone
+the stomach; an atrocity which his excessive debility [[Alone|alone]]
 
 prevented him from accomplishing. In the meantime, being roused
 
@@ -14973,7 +14982,7 @@ By [[motifs/noon|noon]], feeling somewhat strengthened and refreshed, we again
 
 renewed our attempt at getting up provisions, Peters and myself
 
-going down alternately, and always with more or less success,
+going down alternately, and always with more or less [[success]],
 
 until sundown. During this interval we had the good fortune to
 
@@ -15161,7 +15170,7 @@ Entro [[motifs/noon|mattina]], sentendoci un po' più forti e rinfrescati, ripre
 
 Rinnovammo il nostro tentativo di procurarci provviste, io e Peters.
 
-Avvenendo a turno alternato, e sempre con più o meno successo,
+Avvenendo a turno alternato, e sempre con più o meno [[success|successo]],
 
 Fino al tramonto… Durante questo lasso di tempo abbiamo avuto la fortuna di…
 
@@ -16247,7 +16256,7 @@ deck at all. Busied ourselves in securing our wine and
 
 tortoise-meat, so that we might not lose them in the event of our
 
-rolling over. Got out two stout spikes from the forechains, and,
+[[rolling]] over. Got out two stout spikes from the forechains, and,
 
 by means of the axe, drove them into the hull to windward within
 
@@ -16303,7 +16312,7 @@ But here again I was deceived, not having taken into
 
 consideration the natural rebound of the hull to windward. The
 
-whirl of the [[motifs/water|water]] upward, which the vessel occasioned in rolling
+whirl of the [[motifs/water|water]] upward, which the vessel occasioned in [[rolling]]
 
 partially back, brought me to the surface still more violently
 
@@ -16335,7 +16344,7 @@ foam. I have no [[concepts/doubt|doubt]] that to this expedient, simple as it wa
 
 was indebted for my preservation; for the sea all round the brig,
 
-just before her rolling over, was so crowded with these monsters,
+just before her [[rolling]] over, was so crowded with these monsters,
 
 that I must have been, and really was, in actual contact with
 
@@ -16579,7 +16588,7 @@ greater, I bore up with fortitude against all the evils of my
 
 situation, and Peters, it will be seen, evinced a stoical
 
-philosophy nearly as incredible as his present childlike
+[[philosophy]] nearly as incredible as his present childlike
 
 supineness and imbecility—the mental condition made the
 
@@ -16752,7 +16761,7 @@ Con più forza, ho sopportato con coraggio tutti i mali della mia vita…
 
 Situazione e atteggiamento di Peters
 
-La sua filosofia era quasi altrettanto incredibile quanto la sua attuale natura infantile.
+La sua [[philosophy|filosofia]] era quasi altrettanto incredibile quanto la sua attuale natura infantile.
 
 Supinenza e stupidità: lo stato mentale che le genera
 
@@ -17342,7 +17351,7 @@ listlessly against the mast. In two minutes more, in spite of
 
 every preparation, we were hurled on our beam-ends, as if by
 
-magic, and a perfect wilderness of foam made a clear breach over
+[[Magic|magic]], and a perfect wilderness of foam made a clear breach over
 
 us as we lay. The blow from the southwest, however, luckily
 
@@ -17390,7 +17399,7 @@ form a portion of an extensive southern continent carried [[motifs/home|home]]
 
 information to that effect, which produced much excitement at the
 
-[[motifs/time|time]]. The government, taking the matter up, sent the baron back
+[[motifs/time|time]]. The [[government]], taking the matter up, sent the baron back
 
 in the following year for the purpose of giving his new discovery
 
@@ -17527,7 +17536,7 @@ Appoggiato senza vita al palo… Tra altri due minuti, nonostante tutto…
 
 "In un attimo, tutte le nostre preparazioni furono vanificate, come se..."
 
-Magia, e un perfetto mare di schiuma creò una chiara apertura attraverso cui.
+[[Magic|Magia]], e un perfetto mare di schiuma creò una chiara apertura attraverso cui.
 
 Come siamo… Tuttavia, il colpo proveniente dal sud-ovest… fortunatamente
 
@@ -17577,7 +17586,7 @@ Fa parte di un vasto continente meridionale che ospita molte civiltà.
 
 Titolo: Informazioni in tal senso, che suscitarono grande eccitazione tra il pubblico.
 
-[[motifs/time|Tempo]]. Il governo, occupandosi della questione, rimandò indietro il barone.
+[[motifs/time|Tempo]]. Il [[government|governo]], occupandosi della questione, rimandò indietro il barone.
 
 Nell’anno successivo, allo scopo di presentare la sua nuova scoperta…
 
@@ -17823,7 +17832,7 @@ number of penguins. The penguin’s nest consists of a hole in the
 
 earth, very shallow, being only just of sufficient depth to keep
 
-her single egg from rolling. The albatross is somewhat less
+her single egg from [[rolling]]. The albatross is somewhat less
 
 simple in her arrangements, erecting a hillock about a foot high
 
@@ -18132,7 +18141,7 @@ nook and corner, not only of Kerguelen’s Land, but of the several
 
 small islands in the vicinity. Our labours, however, were not
 
-crowned with any important success. We saw a great many fur seal,
+crowned with any important [[success]]. We saw a great many fur seal,
 
 but they were exceedingly shy, and with the greatest exertions,
 
@@ -18219,7 +18228,7 @@ Angolo nascosto, non solo della terra di Kerguelen, ma anche di molti altri luog
 
 Piccole isole nelle vicinanze… Tuttavia, i nostri sforzi non ebbero successo.
 
-Coronati da qualsiasi importante successo, abbiamo visto moltissimi foche dal pelo folto.
+Coronati da qualsiasi importante [[success|successo]], abbiamo visto moltissimi foche dal pelo folto.
 
 Ma erano estremamente timidi, e nonostante i loro maggiori sforzi…
 
@@ -18409,7 +18418,7 @@ Janeiro. This settlement, however, was finally abandoned, and in
 
 1817 the islands were taken possession of by the British
 
-Government, who sent a detachment for that purpose from the Cape
+[[government|Government]], who sent a detachment for that purpose from the Cape
 
 of Good [[concepts/hope|Hope]]. They did not, however, retain them long; but, upon
 
@@ -18417,7 +18426,7 @@ the evacuation of the country as a British possession, two or
 
 three English families took up their residence there
 
-independently of the Government. On the twenty-fifth of March,
+independently of the [[government|Government]]. On the twenty-fifth of March,
 
 1824, the Berwick, Captain Jeffrey, from [[settings/london|London]] to Van Diemen’s
 
@@ -18761,7 +18770,7 @@ Gennaio. Tuttavia, questa colonia fu infine abbandonata, e…
 
 1817: Le isole furono prese in possesso dai britannici
 
-Il Governo, che inviò una squadra appositamente dal Capo per tale scopo.
+Il [[government|Governo]], che inviò una squadra appositamente dal Capo per tale scopo.
 
 della Buona [[concepts/hope|Speranza]]. Tuttavia, non le conservarono a lungo; ma, dopo.
 
@@ -18769,7 +18778,7 @@ L'evacuazione del paese in quanto possedimento britannico, due o…
 
 Tre famiglie inglesi si stabilirono lì.
 
-Indipendentemente dal Governo, il ventiquattresimo marzo.
+Indipendentemente dal [[government|Governo]], il ventiquattresimo marzo.
 
 Nel 1824, il capitano Jeffrey del Berwick, proveniente da [[settings/london|Londra]], si diresse verso le isole di Van Diemen.
 
@@ -20260,7 +20269,7 @@ huge beast, he plunged the blade of a knife behind the neck,
 
 reaching the spinal marrow at a blow. The brute tumbled into the
 
-sea lifeless, and without a struggle, rolling over Peters as he
+sea lifeless, and without a struggle, [[rolling]] over Peters as he
 
 fell. The latter soon recovered himself, and a rope being thrown
 
@@ -20362,7 +20371,7 @@ now and then a slight appearance of thin vapour in the southern
 
 horizon—this, however, was invariably of brief duration. Two
 
-difficulties alone presented themselves to our view; we were
+difficulties [[Alone|alone]] presented themselves to our view; we were
 
 getting short of fuel, and symptoms of scurvy had occurred among
 
@@ -21084,7 +21093,7 @@ to make a retreat, and beholding himself a second [[motifs/time|time]] in the
 
 opposite direction, I was afraid he would expire upon the spot.
 
-No persuasion could prevail upon him to take another look;
+No [[Persuasion|persuasion]] could prevail upon him to take another look;
 
 throwing himself upon the floor, with his face buried in his
 
@@ -21263,7 +21272,7 @@ Per fare ritirata, si rese conto di trovarsi per la seconda volta in quella situ
 
 In direzione opposta, temevo che potesse morire sul colpo.
 
-Nessuna persuasione riuscì a convincerlo a dare un'altra occhiata.
+Nessuna [[Persuasion|persuasione]] riuscì a convincerlo a dare un'altra occhiata.
 
 Gettandosi a terra, con il viso sepolto nel…
 
@@ -23766,7 +23775,7 @@ the [[motifs/hill|hill]], upon a given signal, into the bosom of the abyss below
 
 The fate of our poor companions was no longer a matter of
 
-uncertainty. We alone had escaped from the tempest of that
+uncertainty. We [[Alone|alone]] had escaped from the tempest of that
 
 overwhelming destruction. We were the only living white men upon
 
@@ -24089,7 +24098,7 @@ potenza di leva, capace di scagliare l’intera parete della
 
 La sorte dei nostri poveri compagni non era più materia di
 
-incertezza. Soltanto noi eravamo scampati alla tempesta di quella
+incertezza. [[Alone|Soltanto]] noi eravamo scampati alla tempesta di quella
 
 travolgente distruzione. Eravamo i soli uomini bianchi vivi sull’
 
@@ -24226,7 +24235,7 @@ up from the bushes at the head of the bay, and put off swiftly to
 
 join the other parties. Thus, in less [[motifs/time|time]] than I have taken to
 
-tell it, and as if by magic, the Jane saw herself surrounded by
+tell it, and as if by [[Magic|magic]], the Jane saw herself surrounded by
 
 an immense multitude of desperadoes evidently bent upon capturing
 
@@ -24504,7 +24513,7 @@ a precipitate retreat, not even waiting to pick up their maimed
 
 companions, who were swimming about in every direction, screaming
 
-and yelling for aid. This great success, however, came too late
+and yelling for aid. This great [[success]], however, came too late
 
 for the salvation of our devoted people. The canoe party were
 
@@ -24532,7 +24541,7 @@ Jane was a pitiable scene indeed of havoc and tumultuous outrage.
 
 The decks were split open and ripped up; the cordage, sails, and
 
-everything movable on deck demolished as if by magic, while, by
+everything movable on deck demolished as if by [[Magic|magic]], while, by
 
 dint of pushing at the stern, towing with the canoes, and hauling
 
@@ -24687,7 +24696,7 @@ Una fuga precipitata, senza nemmeno il tempo di raccogliere i propri feriti…
 
 Compagni che nuotavano in tutte le direzioni, urlando…
 
-e gridando chiedendo aiuto. Tuttavia, questo grande successo arrivò troppo tardi.
+e gridando chiedendo aiuto. Tuttavia, questo grande [[success|successo]] arrivò troppo tardi.
 
 Per la salvezza del nostro devoto popolo… La spedizione in canoa
 
@@ -24717,7 +24726,7 @@ Jane rappresentava davvero una scena patetica di distruzione e furia tumultuosa.
 
 Le tavole del ponte erano state divise e strappate via; le corde, le vele…
 
-Tutto ciò che era mobile sul ponte fu distrutto come se fosse stato colpito da magia, mentre.
+Tutto ciò che era mobile sul ponte fu distrutto come se fosse stato colpito da [[Magic|magia]], mentre.
 
 Spingere dalla poppa, trascinare con le canoe e tirare con forza
 
@@ -27406,7 +27415,7 @@ had arisen prodigiously in the horizon, and began to assume more
 
 distinctness of form. I can liken it to nothing but a limitless
 
-cataract, rolling silently into the sea from some immense and
+cataract, [[rolling]] silently into the sea from some immense and
 
 far-distant rampart in the heaven. The gigantic curtain ranged
 
@@ -27607,7 +27616,7 @@ Era apparsa improvvisamente all’orizzonte e iniziava a prendere forma…
 
 Distinzione nella forma. Non posso paragonarla ad altro se non a qualcosa di infinitamente…
 
-La cascata, scorrente silenziosamente verso il mare, proveniva da qualche immenso e.
+La cascata, [[rolling|scorrente]] silenziosamente verso il mare, proveniva da qualche immenso e.
 
 "Barriera lontana nel cielo: la gigantesca tenda si estendeva..."
 
@@ -28513,7 +28522,7 @@ Dubitava. Ligeia! Ligeia! Immerso nello studio di una [[concepts/nature|natura]]
 
 all else adapted to deaden impressions of the outward world, it
 
-is by that sweet word alone—by Ligeia—that I bring before mine
+is by that sweet word [[Alone|alone]]—by Ligeia—that I bring before mine
 
 eyes in fancy the image of her who is no more. And now, while I
 
@@ -28595,7 +28604,7 @@ to a majesty so divine!—the skin rivalling the purest ivory, the
 
 commanding extent and repose, the gentle prominence of the
 
-regions above the temples; and then the raven-black, the glossy,
+regions above the temples; and then [[The Raven|the raven]]-black, the glossy,
 
 the luxuriant and naturally-curling tresses, setting forth the
 
@@ -28629,7 +28638,7 @@ found the gentleness of breadth, the softness and the majesty,
 
 the fullness and the spirituality, of the Greek—the contour which
 
-the god [[characters/apollo|Apollo]] revealed but in a dream, to Cleomenes, the son of
+the god [[characters/apollo|Apollo]] revealed but in [[A Dream|a dream]], to Cleomenes, the son of
 
 the Athenian. And then I peered into the large eyes of Ligeia.
 
@@ -28803,7 +28812,7 @@ La dolcezza dell’ampietà, la morbidezza e la maestosità
 
 La pienezza e la spiritualità del greco: i tratti distintivi della sua cultura
 
-Il dio [[characters/apollo|Apollone]] rivelò tutto, ma solo in un sogno, a Cleomene, figlio di.
+Il dio [[characters/apollo|Apollone]] rivelò tutto, ma solo in [[A Dream|un sogno]], a Cleomene, figlio di.
 
 L’ateniese. E poi fissai i grandi occhi di Ligeia.
 
@@ -29028,7 +29037,7 @@ some years, I beheld my [[motifs/well|well]]-grounded expectations take wings to
 
 themselves and fly away! Without Ligeia I was but as a [[archetypes/child|child]]
 
-groping benighted. Her presence, her readings alone, rendered
+groping benighted. Her presence, her readings [[Alone|alone]], rendered
 
 vividly luminous the many mysteries of the transcendentalism in
 
@@ -29212,7 +29221,7 @@ Alcuni anni fa, vidi le mie aspettative, ben fondate e realistiche, prendere il 
 
 Se solo potessero liberarsi da se stessi e volare via. Senza Ligeia, io non ero nient’altro che un [[archetypes/child|bambino]].
 
-Tastando nel buio della notte. La sua presenza, le sue letture solitarie, rendevano tutto diverso.
+Tastando nel buio della notte. La sua presenza, le sue letture [[Alone|solitarie]], rendevano tutto diverso.
 
 Vividamente luminoso: i molti misteri del trascendentalismo
 
@@ -29403,7 +29412,7 @@ Uprising, unveiling, affirm
 
 That the play is the [[forms/tragedy|tragedy]], “Man,”
 
-And its [[archetypes/hero|hero]] the Conqueror Worm.
+And its [[archetypes/hero|hero]] [[The Conqueror Worm|the Conqueror Worm]].
 
 
 
@@ -29638,7 +29647,7 @@ Risveglio, rivelazione, conferma
 
 Che il dramma sia la [[forms/tragedy|tragedia]], “Uomo”.
 
-E il suo [[archetypes/hero|eroe]] è il Verme Conquistatore.
+E il suo [[archetypes/hero|eroe]] è [[The Conqueror Worm|il Verme Conquistatore]].
 
 
 
@@ -30229,7 +30238,7 @@ worse took place in the disorder of my wife; so that, on the
 
 third subsequent [[motifs/night|night]], the hands of her menials prepared her for
 
-the tomb, and on the fourth, I sat alone, with her shrouded [[concepts/body|body]],
+the tomb, and on the fourth, I sat [[Alone|alone]], with her shrouded [[concepts/body|body]],
 
 in that fantastic chamber which had received her as my bride.
 
@@ -30412,7 +30421,7 @@ Nella confusione causata dalla malattia di mia moglie, accadde qualcosa di ancor
 
 Nella terza notte successiva, le mani dei suoi servitori la prepararono per.
 
-La tomba. E al quarto giorno, mi sedetti da solo, con il suo corpo avvolto nel lenzuolo funebre.
+La tomba. E al quarto giorno, mi sedetti [[Alone|da solo]], con il suo corpo avvolto nel lenzuolo funebre.
 
 In quella fantastica stanza dove lei era stata accolta come mia sposa.
 
@@ -30501,7 +30510,7 @@ had no means of summoning them to my aid without leaving the room
 
 for many minutes—and this I could not venture to do. I therefore
 
-struggled alone in my endeavors to call back the spirit ill
+struggled [[Alone|alone]] in my endeavors to call back the spirit ill
 
 hovering. In a short period it was certain, however, that a
 
@@ -30539,7 +30548,7 @@ bright line of the pearly teeth. Amazement now struggled in my
 
 bosom with the profound awe which had hitherto reigned there
 
-alone. I felt that my vision grew dim, that my reason wandered;
+[[Alone|alone]]. I felt that my vision grew dim, that my reason wandered;
 
 and it was only by a violent effort that I at length succeeded in
 
@@ -30681,7 +30690,7 @@ Non avevo alcun modo per chiamarli in mio aiuto senza lasciare la stanza.
 
 Per molti minuti… e questo non osavo farlo. Pertanto…
 
-Lottavo da solo nei miei tentativi di richiamare indietro lo spirito malvagio.
+Lottavo [[Alone|da solo]] nei miei tentativi di richiamare indietro lo spirito malvagio.
 
 In attesa… Nel giro di poco tempo divenne certo che…
 
@@ -30719,7 +30728,7 @@ Un sospiro… Correndo verso il cadavere, vidi chiaramente un tremito.
 
 Con quell’immensa reverenza che fino ad allora regnava nel suo cuore…
 
-Da solo. Sentivo che la mia vista si offuscava, che il mio ragionamento diventava confuso.
+[[Alone|Da solo]]. Sentivo che la mia vista si offuscava, che il mio ragionamento diventava confuso.
 
 E fu solo con un grande sforzo che alla fine riuscii
 
@@ -30812,7 +30821,7 @@ altogether adopted, I could at least [[concepts/doubt|doubt]] no longer, when,
 
 arising from the bed, tottering, with feeble steps, with closed
 
-eyes, and with the manner of one bewildered in a dream, the thing
+eyes, and with the manner of one bewildered in [[A Dream|a dream]], the thing
 
 that was enshrouded advanced boldly and palpably into the middle
 
@@ -30858,7 +30867,7 @@ there streamed forth, into the rushing atmosphere of the chamber,
 
 huge masses of long and dishevelled hair; _it was blacker than
 
-the raven wings of the midnight!_ And now slowly opened the eyes
+[[The Raven|the raven]] wings of the midnight!_ And now slowly opened the eyes
 
 of the figure which stood before me. “Here then, at least,” I
 
@@ -30904,7 +30913,7 @@ vague intensity. Yet we met; and fate bound us together at the
 
 altar; and I never spoke of passion nor thought of [[motifs/love|love]]. She,
 
-however, shunned society, and, attaching herself to me alone
+however, shunned society, and, attaching herself to me [[Alone|alone]]
 
 rendered me happy. It is a happiness to [[concepts/wonder|wonder]]; it is a happiness
 
@@ -30952,7 +30961,7 @@ then—then, when, poring over forbidden pages, I felt a forbidden
 
 spirit enkindling within me—would Morella place her cold hand
 
-upon my own, and rake up from the ashes of a dead philosophy some
+upon my own, and rake up from the ashes of a dead [[philosophy]] some
 
 low, singular words, whose strange meaning burned themselves in
 
@@ -30980,7 +30989,7 @@ formed, for so long a [[motifs/time|time]], almost the sole conversation of
 
 Morella and myself. By the learned in what might be termed
 
-theological morality they will be readily conceived, and by the
+theological [[morality]] they will be readily conceived, and by the
 
 unlearned they would, at all events, be little understood. The
 
@@ -31013,7 +31022,7 @@ Essendo stato completamente adottato, almeno non potevo più [[concepts/doubt|du
 
 Alzandosi dal letto, barcollando, con passi deboli, con gli occhi chiusi…
 
-Gli occhi, e con l’atteggiamento di chi fosse perso in un sogno, quella cosa.
+Gli occhi, e con l’atteggiamento di chi fosse perso in un [[A Dream|sogno]], quella cosa.
 
 Che era avvolto in modo audace e tangibile nel mezzo
 
@@ -31106,7 +31115,7 @@ Intensità vaga… Eppure ci incontrammo; il destino ci legò insieme.
 
 Un altare. E io non parlai mai di passione, né pensai a [[motifs/love|amore]]. Lei.
 
-Tuttavia, evitava la società e si attaccava a me, sola.
+Tuttavia, evitava la società e si attaccava a me, [[Alone|sola]].
 
 Mi ha reso felice. È una felicità [[concepts/wonder|meravigliarsi]]; è davvero una felicità.
 
@@ -31155,7 +31164,7 @@ Allora… allora, mentre studiavo quelle pagine proibite, provai un sentimento p
 
 Lo spirito che si accende in me… Avrebbe Morella posato la sua mano fredda su di esso?
 
-Da solo, ho raccolto dalle ceneri di una morta filosofia alcune cose.
+Da solo, ho raccolto dalle ceneri di una morta [[philosophy|filosofia]] alcune cose.
 
 Titolo:  
 Parole semplici e comuni, il cui significato strano si è impresso nella memoria…
@@ -32051,19 +32060,19 @@ the invalid.
 
 Doctor Templeton had been a traveller in his younger days, and at
 
-[[settings/paris|Paris]] had become a convert, in great measure, to the doctrines of
+[[settings/paris|Paris]] had become a [[convert]], in great measure, to the doctrines of
 
 Mesmer. It was altogether by means of magnetic remedies that he
 
 had succeeded in alleviating the acute pains of his patient; and
 
-this success had very naturally inspired the latter with a
+this [[success]] had very naturally inspired the latter with a
 
 certain degree of confidence in the opinions from which the
 
 remedies had been educed. The Doctor, however, like all
 
-enthusiasts, had struggled hard to make a thorough convert of his
+enthusiasts, had struggled hard to make a thorough [[convert]] of his
 
 pupil, and finally so far gained his point as to induce the
 
@@ -32125,7 +32134,7 @@ after breakfast each morning—or, rather, immediately after a cup
 
 of strong coffee, for he ate nothing in the forenoon—and then set
 
-forth alone, or attended only by a dog, upon a long ramble among
+forth [[Alone|alone]], or attended only by a dog, upon a long ramble among
 
 the chain of wild and dreary hills that lie westward and
 
@@ -32246,7 +32255,7 @@ Mesmer. Fu interamente attraverso metodi magnetici che egli…
 
 Era riuscito ad alleviare i dolori acuti del suo paziente; e
 
-Questo successo aveva naturalmente ispirato il secondo con un.
+Questo [[success|successo]] aveva naturalmente ispirato il secondo con un.
 
 Un certo grado di fiducia nelle opinioni da cui si parte
 
@@ -32811,13 +32820,13 @@ really was. Now, when one [[motifs/dreams|dreams]], and, in the dream, suspects
 
 that he [[motifs/dreams|dreams]], the suspicion never fails to confirm itself, and
 
-the sleeper is almost immediately aroused. Thus Novalis errs not
+[[The Sleeper|the sleeper]] is almost immediately aroused. Thus Novalis errs not
 
 in saying that ‘we are near waking when we dream that we dream.’
 
 Had the vision occurred to me as I describe it, without my
 
-suspecting it as a dream, then a dream it might absolutely have
+suspecting it as [[A Dream|a dream]], then [[A Dream|a dream]] it might absolutely have
 
 been, but, occurring as it did, and suspected and tested as it
 
@@ -32923,7 +32932,7 @@ gasped—I died.”
 
 “You will hardly persist _now_,” said I smiling, “that the whole
 
-of your adventure was not a dream. You are not prepared to
+of your adventure was not [[A Dream|a dream]]. You are not prepared to
 
 maintain that you are dead?”
 
@@ -32996,13 +33005,13 @@ Era davvero così. Ora, quando qualcuno sogna, e nel sogno sospetta.
 
 Il fatto che lui sogni, quella sospetta non manca mai di confermarsi.
 
-Il dormiente viene quasi immediatamente eccitato. Pertanto, Novalis non sbaglia.
+[[The Sleeper|Il dormiente]] viene quasi immediatamente eccitato. Pertanto, Novalis non sbaglia.
 
 “Quando sogniamo di sognare, in realtà stiamo per svegliarci.”
 
 Se quella visione mi fosse apparsa proprio come la descrivo, senza che io…
 
-Sospettandolo come un sogno, allora poteva assolutamente essere solo un sogno.
+Sospettandolo come un [[A Dream|sogno]], allora poteva assolutamente essere solo un sogno.
 
 Mai scritto una frase al riguardo…
 
@@ -33109,7 +33118,7 @@ Una malattia improvvisa e terribile mi colpì. Lottai…
 
 “Ora difficilmente continuerai,” dissi sorridendo, “dopo tutto…”
 
-La tua avventura non era un sogno. Non sei pronto per.
+La tua avventura non era un [[A Dream|sogno]]. Non sei pronto per.
 
 “Sostenere di essere morti…”
 
@@ -33174,7 +33183,7 @@ weight, of volition, of substance, returned. I became my original
 
 lost the vividness of the real—and not now, even for an instant,
 
-can I compel my understanding to regard it as a dream.”
+can I compel my understanding to regard it as [[A Dream|a dream]].”
 
 
 
@@ -33369,7 +33378,7 @@ Il peso della volontà, della sostanza… Tornai ad essere me stesso.
 
 Persa la vividezza della realtà… e non nemmeno per un istante, ora.
 
-Posso costringere la mia mente a considerarlo un sogno?
+Posso costringere la mia mente a considerarlo un [[A Dream|sogno]]?
 
 
 
@@ -33713,7 +33722,7 @@ One [[motifs/night|night]] last [[motifs/winter|winter]] I entered a box at the 
 
 company with a friend, Mr. Talbot. It was an opera [[motifs/night|night]], and the
 
-bills presented a very rare attraction, so that the house was
+bills presented a very rare attraction, so that the [[house]] was
 
 excessively crowded. We were in [[motifs/time|time]], however, to obtain the
 
@@ -33934,7 +33943,7 @@ Una [[motifs/night|notte]], l’ultima [[motifs/winter|inverno]], entrai in una 
 
 In compagnia di un amico, il signor Talbot. Era una serata d’opera.
 
-Le fatture presentavano un'attrattiva molto rara, tanto che la casa.
+Le fatture presentavano un'attrattiva molto rara, tanto che la [[house|casa]].
 
 Eccessivamente affollato. Tuttavia, eravamo ancora in tempo per ottenere.
 
@@ -33981,7 +33990,7 @@ sufficiently express its magnificent proportion—and even the term
 
 
 
-The magic of a lovely form in woman—the necromancy of female
+The [[Magic|magic]] of a lovely form in woman—the necromancy of female
 
 gracefulness—was always a power which I had found it impossible
 
@@ -34101,7 +34110,7 @@ was just in that condition of mind which prepares a young and
 
 susceptible man for any act of extravagance. Had the lady been
 
-alone, I should undoubtedly have entered her box and accosted her
+[[Alone|alone]], I should undoubtedly have entered her box and accosted her
 
 at all hazards; but, fortunately, she was attended by two
 
@@ -34174,7 +34183,7 @@ Ottenere una visione di esso… ma la forma era divina; non esiste altra parola 
 
 
 
-La magia di una forma femminile incantevole, la “necromanzia” della donna.
+La [[Magic|magia]] di una forma femminile incantevole, la “necromanzia” della donna.
 
 Eleganza… era sempre una qualità che ritenevo impossibile da possedere.
 
@@ -34296,7 +34305,7 @@ Era proprio in quella condizione mentale che prepara un giovane…
 
 Uomo suscettibile a qualsiasi atto di stravaganza… Se solo quella signora fosse stata…
 
-Da solo, senza dubbio avrei dovuto entrare nella sua cabina e avvicinarmi a lei.
+[[Alone|Da solo]], senza dubbio avrei dovuto entrare nella sua cabina e avvicinarmi a lei.
 
 A tutti i rischi… ma fortunatamente era accompagnata da due persone.
 
@@ -35014,7 +35023,7 @@ think so, Froissart?—Simpson, I mean.”
 
 “_Still!_” said I, “and why shouldn’t she be? But compared with
 
-her friend she is as a rush-light to the evening star—a glow-worm
+her friend she is as a rush-light to the [[Evening Star|evening star]]—a glow-worm
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -35233,7 +35242,7 @@ Lo fece a [[settings/paris|Parigi]] cinque anni fa. È ancora una donna bellissi
 
 “_Silenzio!_”, dissi io, “e perché non dovrebbe esserlo? Ma rispetto a…”
 
-La sua amica è come un faro che illumina la _stella della sera, una lucciola.
+La sua amica è come un faro che illumina la [[Evening Star|_stella della sera]], una lucciola.
 
 
 
@@ -35412,7 +35421,7 @@ impatient—to moderate my transports—to read soothing books—to
 
 drink nothing stronger than Hock—and to bring the consolations of
 
-philosophy to my aid. The [[archetypes/fool|fool]]! if he could not come himself,
+[[philosophy]] to my aid. The [[archetypes/fool|fool]]! if he could not come himself,
 
 why, in the name of every thing rational, could he not have
 
@@ -35635,7 +35644,7 @@ Affari… ma sarebbe tornato presto. Mi pregò di non farlo.
 
 Non bere nulla di più forte dell’Hock… e cercare conforto in questo.
 
-La filosofia venne in mio aiuto. Quel [[archetypes/fool|idiota]]! Se non poteva venire lui stesso.
+La [[philosophy|filosofia]] venne in mio aiuto. Quel [[archetypes/fool|idiota]]! Se non poteva venire lui stesso.
 
 Perché, in nome di tutto ciò che è razionale, non avrebbe potuto farlo?
 
@@ -35690,7 +35699,7 @@ within bounds, that ought to be regarded as indecorous by Madame
 
 Lalande? Since the affair of the letter, I had been in the habit
 
-of watching her house, and thus discovered that, about twilight,
+of watching her [[house]], and thus discovered that, about twilight,
 
 it was her custom to promenade, attended only by a negro in
 
@@ -35883,7 +35892,7 @@ represents. Besides, upon the back of the trinket you may
 
 Lalande… Da quando è successo quell’episodio con quella lettera, ho preso l’abitudine di…
 
-Mentre osservava la sua casa, scoprì che, verso il tramonto.
+Mentre osservava la sua [[house|casa]], scoprì che, verso il tramonto.
 
 Era sua abitudine passeggiare, accompagnata soltanto da un nero…
 
@@ -36147,7 +36156,7 @@ and her female friend of the opera, repaired to the piano in the
 
 main drawing-room. I would have escorted her myself, but felt
 
-that, under the circumstances of my introduction to the house, I
+that, under the circumstances of my introduction to the [[house]], I
 
 had better remain unobserved where I was. I was thus deprived of
 
@@ -36169,7 +36178,7 @@ singer. It is beyond the reach of art to endow either air or
 
 recitative with more impassioned expression than was hers. Her
 
-utterance of the romance in Otello—the tone with which she gave
+utterance of the [[Romance|romance]] in Otello—the tone with which she gave
 
 the words “Sul mio sasso,” in the Capuletti—is ringing in my
 
@@ -36195,7 +36204,7 @@ Al contento ond ’io son piena.
 
 
 
-Here, in imitation of Malibran, she modified the original phrase
+Here, in [[Imitation|imitation]] of Malibran, she modified the original phrase
 
 of Bellini, so as to let her voice descend to the tenor G, when,
 
@@ -36341,7 +36350,7 @@ E la sua amica appassionata di opera, ripararono il pianoforte nella…
 
 Salone principale… Avrei voluto accompagnarla personalmente, ma ho pensato…
 
-Che, nelle circostanze della mia presentazione in questa casa, io.
+Che, nelle circostanze della mia presentazione in questa [[house|casa]], io.
 
 “Meglio che rimanga inosservato dove sono… Così mi sono visto privato di…”
 
@@ -36364,7 +36373,7 @@ Cantante… È al di là delle possibilità dell’arte donare voce o significat
 
 Recitativo con un’espressione più appassionata di quella che lei aveva.
 
-L’intonazione con cui pronunciò il romanzo in “Otello”.
+L’intonazione con cui pronunciò il [[Romance|romanzo]] in “Otello”.
 
 “Le parole ‘Sul mio sasso’, nei Capuletti… continuano a risuonare nella mia mente.”
 
@@ -36392,7 +36401,7 @@ Sono piena di felicità.
 
 
 
-Qui, in imitazione di Malibran, modificò la frase originale.
+Qui, in [[Imitation|imitazione]] di Malibran, modificò la frase originale.
 
 Di Bellini, affinché la sua voce potesse scendere fino al tenore G…
 
@@ -36522,7 +36531,7 @@ you a very—a very little boon in return?”
 
 us the observation of the company, and restrained by their
 
-presence alone from throwing myself impetuously at her feet.
+presence [[Alone|alone]] from throwing myself impetuously at her feet.
 
 “Name it, my beloved, my Eugénie, my own!—name it!—but, alas! it
 
@@ -36614,7 +36623,7 @@ confusion occasioned by the departure of the company, Madame L.
 
 could easily enter it unobserved. We were then to call at the
 
-house of a clergyman who would be in waiting; there be married,
+[[house]] of a clergyman who would be in waiting; there be married,
 
 drop Talbot, and proceed on a short tour to the East; leaving the
 
@@ -36730,7 +36739,7 @@ Le ragioni del mio cuore… Non avrei forse il diritto di chiederle?
 
 In base all'osservazione della compagnia, e vincolati dalle loro…
 
-La sua presenza, sola, mi impedì di gettarmi impulsivamente ai suoi piedi.
+La sua presenza, [[Alone|sola]], mi impedì di gettarmi impulsivamente ai suoi piedi.
 
 “Chiamalo pure come vuoi, mia adorata, la mia Eugénie… chiamalo pure! Ma ahimè…”
 
@@ -36824,7 +36833,7 @@ La confusione causata dalla partenza della compagnia, Madame L.
 
 Potrebbe entrarci facilmente senza essere notato… Poi avremmo dovuto recarci…
 
-La casa di un prete che avrebbe dovuto servire come attendente; lì si sarebbe sposato.
+La [[house|casa]] di un prete che avrebbe dovuto servire come attendente; lì si sarebbe sposato.
 
 Abbandona Talbot e prosegui in un breve viaggio verso est; lasciando…
 
@@ -37758,7 +37767,7 @@ been her design to suggest the propriety of my remaining where I
 
 was; but my own prudential views rendered this unnecessary. The
 
-songs which I so much admired, and which so confirmed my
+[[songs]] which I so much admired, and which so confirmed my
 
 impression of the youth of my mistress, were executed by Madame
 
@@ -37850,9 +37859,9 @@ plying between Sluys and the Thames, and then at anchor in that
 
 [[motifs/river|river]], were much astonished to find themselves seated in the
 
-tap-room of an ale-house in the parish of St. Andrews,
+tap-room of an ale-[[house]] in the parish of St. Andrews,
 
-[[settings/london|London]]—which ale-house bore for sign the portraiture of a “Jolly
+[[settings/london|London]]—which ale-[[house]] bore for sign the portraiture of a “Jolly
 
 Tar.”
 
@@ -37908,7 +37917,7 @@ species of dogged indifference to matters and things in general,
 
 was not the less utterly solemn and serious beyond all attempts
 
-at imitation or description.
+at [[Imitation|imitation]] or description.
 
 
 
@@ -37969,7 +37978,7 @@ Il suo intento era suggerire che fosse opportuno che rimanessi lì dove mi trova
 
 Erano; ma le mie stesse considerazioni di prudenza resero questo inutile.
 
-CANZONI che ammiravo tanto e che confermarono ancora di più le mie convinzioni.
+[[songs|CANZONI]] che ammiravo tanto e che confermarono ancora di più le mie convinzioni.
 
 L’immagine della giovinezza della mia padrona fu realizzata da Madame…
 
@@ -38123,7 +38132,7 @@ Una sorta di ostinata indifferenza verso le cose e le questioni in generale…
 
 Non per questo era meno assolutamente solenne e serio, al di là di ogni tentativo di descriverlo.
 
-attraverso l’imitazione o la descrizione.
+attraverso l’[[Imitation|imitazione]] o la descrizione.
 
 
 
@@ -38241,7 +38250,7 @@ in the vicinity of the Thames, where amid the dark, narrow, and
 
 filthy lanes and alleys, the Demon of Disease was supposed to
 
-have had his nativity, Awe, Terror, and Superstition were alone
+have had his nativity, Awe, Terror, and Superstition were [[Alone|alone]]
 
 to be found stalking abroad.
 
@@ -38596,7 +38605,7 @@ became necessary to force a passage through frequent heaps of
 
 rubbish, it was by no means seldom that the hand fell upon a
 
-skeleton or rested upon a more fleshly corpse.
+[[skeleton]] or rested upon a more fleshly corpse.
 
 
 
@@ -38654,7 +38663,7 @@ confounded to behold in him a figure more emaciated than himself.
 
 His face was as yellow as saffron—but no feature excepting one
 
-alone, was sufficiently marked to merit a particular description.
+[[Alone|alone]], was sufficiently marked to merit a particular description.
 
 This one consisted in a forehead so unusually and hideously
 
@@ -38678,7 +38687,7 @@ to and fro with a jaunty and knowing air; and, in his right hand,
 
 he held a huge human thigh-bone, with which he appeared to have
 
-been just knocking down some member of the company for a song.
+been just knocking down some member of the company for a [[Song|song]].
 
 
 
@@ -38783,7 +38792,7 @@ Divenne necessario forzare un passaggio attraverso frequenti cumuli di…
 
 Roba da buttare… Non era affatto raro che quelle mani finissero su…
 
-Un scheletro oppure riposava su un cadavere più carnoso.
+Un [[skeleton|scheletro]] oppure riposava su un cadavere più carnoso.
 
 
 
@@ -38842,7 +38851,7 @@ Sconcertato nel vedere in lui una figura ancora più magra della sua.
 
 Il suo viso era giallo come lo zafferano… ma tranne un particolare, tutte le altre caratteristiche del suo volto erano uguali alle normali.
 
-Solo presentava caratteristiche sufficientemente evidenti da meritare una descrizione specifica.
+[[Alone|Solo]] presentava caratteristiche sufficientemente evidenti da meritare una descrizione specifica.
 
 Questo caso riguardava una fronte così insolita e orribile…
 
@@ -38867,7 +38876,7 @@ Avanti e indietro con un’aria spensierata e complice; e nella sua mano destra�
 
 Reggeva un enorme osso della coscia umana, con il quale sembrava essere in grado di...
 
-Ho appena picchiato un membro della compagnia per una canzone.
+Ho appena picchiato un membro della compagnia per una [[Song|canzone]].
 
 
 
@@ -39042,7 +39051,7 @@ at their own enormity.
 
 Before each of the party lay a portion of a skull, which was used
 
-as a drinking cup. Overhead was suspended a human skeleton, by
+as a drinking cup. Overhead was suspended a human [[skeleton]], by
 
 means of a rope tied round one of the legs and fastened to a ring
 
@@ -39235,7 +39244,7 @@ per la propria enormità.
 
 Davanti a ciascuno dei convitati giaceva una porzione di teschio, che serviva
 
-da coppa. In alto era sospeso uno scheletro umano, per
+da coppa. In alto era sospeso uno [[skeleton|scheletro]] umano, per
 
 mezzo di una fune legata attorno a una delle gambe e fissata a un anello
 
@@ -39390,7 +39399,7 @@ Grace the Duke Pest-Ilential’—‘His Grace the Duke Tem-Pest’—and
 
 which we sit here in council, we might be pardoned for replying
 
-that it concerns, and concerns alone, our own private and regal
+that it concerns, and concerns [[Alone|alone]], our own private and regal
 
 interest, and is in no manner important to any other than
 
@@ -39591,7 +39600,7 @@ La grazia del duca pestilenziale… e la sua “maledizione”
 
 “Considerando che ci troviamo qui riuniti in consiglio, potremmo essere perdonati se rispondessimo…”
 
-Che riguarda, e riguarda soltanto solo noi stessi, i nostri affari privati e reali.
+Che riguarda, e riguarda soltanto [[Alone|solo]] noi stessi, i nostri affari privati e reali.
 
 Titolo:  
 Interesse… e in nessun modo importante per chiunque altro se non…
@@ -39824,7 +39833,7 @@ valiant Legs slammed the door down upon him with an oath, and
 
 strode towards the centre of the room. Here tearing down the
 
-skeleton which swung over the table, he laid it about him with so
+[[skeleton]] which swung over the table, he laid it about him with so
 
 much energy and good will, that, as the last glimpses of light
 
@@ -39836,7 +39845,7 @@ all his force against the fatal hogshead full of October ale and
 
 Hugh Tarpaulin, he rolled it over and over in an instant. Out
 
-burst a deluge of liquor so fierce—so impetuous—so
+burst a [[deluge]] of liquor so fierce—so impetuous—so
 
 overwhelming—that the room was flooded from wall to wall—the
 
@@ -40068,7 +40077,7 @@ del suo compagno. Spingendo il [[archetypes/king|Re]] Peste attraverso la trappo
 
 Si avviò verso il centro della stanza… Qui iniziò a distruggere tutto.
 
-Quel scheletro che dondolava sopra il tavolo, lui lo dispose intorno a sé in quel modo.
+Quel [[skeleton|scheletro]] che dondolava sopra il tavolo, lui lo dispose intorno a sé in quel modo.
 
 “Molta energia e buona volontà… ma, come gli ultimi barlumi di luce…”
 
@@ -40080,7 +40089,7 @@ Con tutta la sua forza contro quel barile fatale pieno di birra d’ottobre…
 
 Hugh Tarpaulin… lo arrotolò più e più volte in un istante. Fuori.
 
-Scaturì un inondazione di alcol così intensa, così impetuosa.
+Scaturì un [[deluge|inondazione]] di alcol così intensa, così impetuosa.
 
 Inondante… che la stanza fosse piena fino al soffitto…
 
@@ -40275,7 +40284,7 @@ swallowed his bumper of port, while I rushed from the room in
 
 A very “fine old English gentleman,” was my grand-uncle
 
-Rumgudgeon, but unlike him of the song, he had his weak points.
+Rumgudgeon, but unlike him of the [[Song|song]], he had his weak points.
 
 He was a little, pursy, pompous, passionate semicircular
 
@@ -40365,7 +40374,7 @@ after all. From my first year until my fifth, he obliged me with
 
 very regular floggings. From five to fifteen, he threatened me,
 
-hourly, with the House of Correction. From fifteen to twenty, not
+hourly, with the [[house|House]] of Correction. From fifteen to twenty, not
 
 a day passed in which he did not promise to cut me off with a
 
@@ -40474,7 +40483,7 @@ Ha ingoiato tutto il suo vino di Porto, mentre io uscivo di corsa dalla stanza�
 
 “Un vero e proprio ‘nobile signore inglese d’antica data’, era mio prozio”
 
-Rumgudgeon, ma a differenza di lui nella -canzone, aveva anche i suoi punti deboli.
+Rumgudgeon, ma a differenza di lui nella [[Song|-canzone]], aveva anche i suoi punti deboli.
 
 Un ometto piccolo, paffuto, presuntuoso e appassionato… di forma semicircolare
 
@@ -40567,7 +40576,7 @@ Dopo tutto… Dal mio primo anno fino al quinto, mi ha sempre accontentato in qu
 
 Regolari punizioni corporali. Da cinque a quindici anni… mi minacciava così.
 
-Ogni ora, presso la Casa di Correzione. Dalle quindici alle venti, no.
+Ogni ora, presso la [[house|Casa di Correzione]]. Dalle quindici alle venti, no.
 
 Un giorno in cui non mi promise di tagliarmi fuori…
 
@@ -40799,7 +40808,7 @@ that yesterday was [[characters/sunday|Sunday]] as I am that I sit upon this cha
 
 KATE. (Jumping up eagerly.) “I see it—I see it all. Papa, this is
 
-a judgment upon you, about—about you know what. Let me alone, and
+a judgment upon you, about—about you know what. Let me [[Alone|alone]], and
 
 I’ll explain it all in a minute. It’s a very simple thing,
 
@@ -41085,7 +41094,7 @@ PRATT: “Oh no! È la [[characters/sunday|domenica]] di domani.”
 
 “Kate… (Si alza eccitata.) ‘Lo vedo… Lo vedo tutto. Papà, questo è…”
 
-Un giudizio su di te, riguardo a, beh, sai di cosa parlo. Lasciami stare da solo, per favore.
+Un giudizio su di te, riguardo a, beh, sai di cosa parlo. Lasciami stare [[Alone|da solo]], per favore.
 
 Lo spiegherò tutto tra un attimo… È una cosa molto semplice.
 

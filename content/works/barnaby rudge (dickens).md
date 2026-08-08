@@ -77,13 +77,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/fool|Fool]], [[archetypes/rebel|Rebel]], [[archetypes/ghost|Ghost]]
+**Archetypes:** Innocent, Fool, Rebel, Ghost
 **Motifs:** [[motifs/fire|Fire]], [[motifs/blood|Blood]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/animals|Animals]], [[motifs/city|City]], [[motifs/madness-(2)|Madness (2)]]
 **Themes & Concepts:** [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/social-injustice|Social Injustice]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/madness|Madness]], [[concepts/guilt|Guilt]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/fanaticism|Fanaticism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/historical-novel|Historical Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]]
 **Settings:** [[settings/london|London]], [[settings/inn|Inn]]
-**Characters:** [[characters/barnaby-rudge|Barnaby Rudge]], [[characters/grip-the-raven|Grip the Raven]], [[characters/gabriel-varden|Gabriel Varden]], [[characters/dolly-varden|Dolly Varden]], [[characters/simon-tappertit|Simon Tappertit]], [[characters/edward-chester|Edward Chester]], [[characters/sir-john-chester|Sir John Chester]], [[characters/geoffrey-haredale|Geoffrey Haredale]], [[characters/emma-haredale|Emma Haredale]], [[characters/lord-george-gordon|Lord George Gordon]], [[characters/hugh-of-the-maypole|Hugh of the Maypole]]
+**Characters:** Barnaby Rudge, Grip the Raven, Gabriel Varden, Dolly Varden, Simon Tappertit, Edward Chester, Sir John Chester, Geoffrey Haredale, Emma Haredale, Lord George Gordon, Hugh of the Maypole
 
 ## Testo integrale / Full text
 

@@ -48,7 +48,7 @@ tags:
 **Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/elizabethan-england|Elizabethan England]], [[historical-references/renaissance|Renaissance]], [[historical-references/classical-antiquity|Classical Antiquity]]
 **Settings:** [[settings/court|Court]]
-**Characters:** [[characters/hamlet|Hamlet]], [[characters/falstaff|Falstaff]]
+**Characters:** Hamlet, Falstaff
 
 ## Testo integrale / Full text
 

@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="berenice" data-title="Berenice" data-chapter="" data-kind="intro"></span>
 
-# [[works/berenice-(poe)|Berenice]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -41,7 +41,7 @@ Così appare che, scosso soltanto da cose banali dal proprio equilibrio, il mio 
 
 Nei giorni più splendidi della sua incomparabile [[concepts/beauty|bellezza]], di certo non l’avevo mai amata. Nell’anomalia strana della mia esistenza, i miei sentimenti _non erano mai stati_ legati al cuore, e le mie passioni _erano sempre state_ frutto della mente. Nel grigio dell’alba, tra le ombre intrecciate della foresta a mezzogiorno, e nel [[motifs/silence|silenzio]] della mia biblioteca di notte, lei era apparsa davanti ai miei occhi, ma non come la vivida e reale [[works/berenice-(poe)|Berenice]], bensì come la [[works/berenice-(poe)|Berenice]] di un sogno; non come una creatura terrena, concreta, ma come l’astrazione di tale essere; non da ammirare, ma da analizzare; non come oggetto d’amore, ma come tema di speculazioni complesse e disordinate. E ora, ora tremavo al suo cospetto, impallidivo al suo avvicinarsi; tuttavia, lamentando amaramente la sua condizione decaduta e desolata, ricordavo che lei mi aveva amato a lungo. E, in un momento di follia, le parlai di [[motifs/marriage|matrimonio]].
 
-E finalmente si avvicinò il momento delle nostre nozze; un pomeriggio d’[[motifs/winter|,inverno]], uno di quei giorni insolitamente caldi, tranquilli e nebbiosi che sono i “nutrimenti” della bella Halcyon (*1*), mi trovavo seduta, (e pensavo di essere) sola nell’ala interna della biblioteca. Ma alzando lo sguardo, vidi che [[works/berenice-(poe)|Berenice]] stava davanti a me.
+E finalmente si avvicinò il momento delle nostre nozze; un pomeriggio d’[[motifs/winter|,inverno]], uno di quei giorni insolitamente caldi, tranquilli e nebbiosi che sono i “nutrimenti” della bella Halcyon (*1*), mi trovavo seduta, (e pensavo di essere) [[Alone|sola]] nell’ala interna della biblioteca. Ma alzando lo sguardo, vidi che [[works/berenice-(poe)|Berenice]] stava davanti a me.
 
 Era forse la mia stessa eccitata [[concepts/imagination|immaginazione]] – o l’atmosfera nebbiosa che circondava la stanza – o il crepuscolo incerto che avvolgeva ogni cosa – o le tende grigie che si drappeggiavano intorno a lei – a far sì che la sua figura apparisse così sfocata e indistinta? Non riuscivo a capirlo. Lei non pronunciò una parola; e io, nemmeno per tutto l’oro del mondo avrei potuto emettere un suono. Un freddo gelido mi attraversò il corpo; una sensazione di ansia insopportabile mi oppresse; una curiosità divorante invase la mia [[motifs/soul|'anima]]. Mi appoggiai nuovamente alla sedia, rimanendo per qualche momento senza fiato e immobile, con lo sguardo fisso su di lei. Ahimè, la sua magrezza era estrema; non c’era più traccia della bellezza di un tempo in nessuna linea del suo viso. Alla fine, i miei sguardi ardenti si posarono sul suo volto.
 
@@ -51,7 +51,7 @@ Il chiudersi di una porta mi disturbò; alzando lo sguardo, scoprii che mia cugi
 
 La sera calò su di me. Poi arrivò l’oscurità, rimase per un po’, poi se ne andò; il giorno spuntò di nuovo. Le nebbie di una seconda notte iniziavano a radunarsi intorno a me. E io continuavo a sedere immobile in quella stanza solitaria, immerso nella meditazione. Il “fantasma” di quei denti manteneva ancora il suo terribile dominio: apparivano con estrema chiarezza, fluttuando tra le luci e le ombre mutevoli della stanza. Alla fine, nei miei sogni risuonò un grido di orrore e disperazione; dopo una pausa, seguirono voci agitate, mescolate a molti gemiti sommessi di dolore o sofferenza. Mi alzai dal mio posto, aprii una delle porte della biblioteca. E vidi, nell’anticamera, una serva in lacrime che mi disse che [[works/berenice-(poe)|Berenice]] non c’era più. Aveva avuto un attacco di epilessia all’alba. Ora, con l’avvicinarsi della notte, la tomba era pronta per accoglierla. Tutti i preparativi per il funerale erano stati completati.
 
-Mi ritrovai seduto in biblioteca, ancora una volta lì da solo. Sembrava che fossi appena risvegliato da un sogno confuso ed eccitante. Sapevo che era mezzanotte e ero ben consapevole del fatto che, da quando il sole era tramontato, [[works/berenice-(poe)|Berenice]] era stata sepolta. Ma di quel periodo cupo che era seguito non avevo alcuna comprensione chiara, almeno nessuna definitiva. Eppure i ricordi legati a quel periodo erano pieni di orrore: un orrore ancora più terribile per la sua vaghezza, un terrore ancora più spaventoso per l’ambiguità delle sue immagini. Era una pagina angosciante nella storia della mia esistenza, scritta interamente di ricordi oscuri, orribili e incomprensibili. Cercai di decifrarli, ma invano; e di tanto in tanto, come l’eco di un suono lontano, il grido stridulo e penetrante di una voce femminile sembrava risuonare nelle mie orecchie. Avevo compiuto qualcosa. Ma cosa? Mi posi questa domanda ad alta voce, e gli echi sommessi della stanza mi risposero: “_Cosa era?_”
+Mi ritrovai seduto in biblioteca, ancora una volta lì da [[Alone|solo]]. Sembrava che fossi appena risvegliato da un sogno confuso ed eccitante. Sapevo che era mezzanotte e ero ben consapevole del fatto che, da quando il sole era tramontato, [[works/berenice-(poe)|Berenice]] era stata sepolta. Ma di quel periodo cupo che era seguito non avevo alcuna comprensione chiara, almeno nessuna definitiva. Eppure i ricordi legati a quel periodo erano pieni di orrore: un orrore ancora più terribile per la sua vaghezza, un terrore ancora più spaventoso per l’ambiguità delle sue immagini. Era una pagina angosciante nella storia della mia esistenza, scritta interamente di ricordi oscuri, orribili e incomprensibili. Cercai di decifrarli, ma invano; e di tanto in tanto, come l’eco di un suono lontano, il grido stridulo e penetrante di una voce femminile sembrava risuonare nelle mie orecchie. Avevo compiuto qualcosa. Ma cosa? Mi posi questa domanda ad alta voce, e gli echi sommessi della stanza mi risposero: “_Cosa era?_”
 
 Sul tavolo accanto a me ardeva una lampada, e vicino ad essa c'era una piccola scatola. Non aveva nulla di particolare; l’avevo vista spesso in passato, poiché apparteneva al medico di famiglia. Ma come mai si trovava lì, sul mio tavolo? E perché provavo un brivido ogni volta che la guardavo? Questi fenomeni non avevano alcuna spiegazione logica. Alla fine i miei occhi si posarono sulle pagine aperte di un libro, su una frase sottolineata. Le parole erano semplici e familiari: quelle del poeta Ebn Zaiat: “Mi dissero che avremmo visitato la tomba della mia amica, per alleviare un po’ le mie preoccupazioni, ” Ma perché, mentre le leggevo, i capelli mi si rizzarono in piedi e il sangue nelle mie vene sembrò congelarsi?
 
@@ -125,7 +125,7 @@ energy; hers, the ramble on the [[motifs/hill|hill]]-side—mine the studies of 
 cloister; I, living within my own heart, and addicted, [[concepts/body|body]] and
 [[motifs/soul|soul]], to the most intense and painful meditation—she, roaming
 carelessly through life, with no thought of the shadows in her
-path, or the silent flight of the raven-winged hours. [[works/berenice-(poe)|Berenice]]!—I
+path, or the silent flight of [[The Raven|the raven]]-winged hours. [[works/berenice-(poe)|Berenice]]!—I
 call upon her name—[[works/berenice-(poe)|Berenice]]!—and from the gray ruins of [[motifs/memory|memory]] a
 thousand tumultuous recollections are startled at the sound! Ah,
 vividly is her image before me now, as in the early days of her
@@ -267,7 +267,7 @@ _always were_ of the mind. Through the gray of the early
 morning—among the trellised shadows of the forest at noonday—and
 in the [[motifs/silence|silence]] of my library at [[motifs/night|night]]—she had flitted by my eyes,
 and I had seen her—not as the living and breathing [[works/berenice-(poe)|Berenice]], but
-as the [[works/berenice-(poe)|Berenice]] of a dream; not as a being of the earth, earthy,
+as the [[works/berenice-(poe)|Berenice]] of [[A Dream|a dream]]; not as a being of the earth, earthy,
 but as the abstraction of such a being; not as a thing to admire,
 but to analyze; not as an object of [[motifs/love|love]], but as the theme of the
 most abstruse although desultory speculation. And _now_—now I
@@ -298,7 +298,7 @@ And at length the period of our nuptials was approaching, when,
 upon an afternoon in the [[motifs/winter|winter]] of the year—one of those
 unseasonably warm, calm, and misty days which are the [[characters/nurse|nurse]] of
 the beautiful Halcyon (*1),—I sat, (and sat, as I thought,
-alone,) in the inner apartment of the library. But, uplifting my
+[[Alone|alone]],) in the inner apartment of the library. But, uplifting my
 eyes, I saw that [[works/berenice-(poe)|Berenice]] stood before me.
 
 Was it my own excited [[concepts/imagination|imagination]]—or the misty influence of the
@@ -343,7 +343,7 @@ strange and irresistible influence. In the multiplied objects of
 the external world I had no thoughts but for the teeth. For these
 I longed with a phrenzied [[motifs/desire|desire]]. All other matters and all
 different interests became absorbed in their single
-contemplation. They—they alone were present to the mental eye,
+contemplation. They—they [[Alone|alone]] were present to the mental eye,
 and they, in their sole individuality, became the essence of my
 mental life. I held them in every light. I turned them in every
 attitude. I surveyed their characteristics. I dwelt upon their
@@ -356,7 +356,7 @@ etaient des sentiments_,” and of [[works/berenice-(poe)|Berenice]] I more seri
 believed _que toutes ses dents etaient des idées_. _Des
 idées!_—ah here was the idiotic thought that destroyed me! _Des
 idées!_—ah, _therefore_ it was that I coveted them so madly! I
-felt that their possession could alone ever restore me to peace,
+felt that their possession could [[Alone|alone]] ever restore me to peace,
 in giving me back to reason.
 
 And the evening closed in upon me thus—and then the darkness
@@ -378,7 +378,7 @@ the early morning, and now, at the closing in of the [[motifs/night|night]], the
 burial were completed.
 
 I found myself sitting in the library, and again sitting there
-alone. It seemed that I had newly awakened from a confused and
+[[Alone|alone]]. It seemed that I had newly awakened from a confused and
 exciting dream. I knew that it was now midnight, and I was [[motifs/well|well]]
 aware, that since the setting of the sun, [[works/berenice-(poe)|Berenice]] had been
 interred. But of that dreary period which intervened I had no
@@ -431,7 +431,7 @@ and fro about the floor.
 
 <span class="qlang-split" data-lang="it"></span>
 
-E finalmente si avvicinò il momento delle nostre nozze; un pomeriggio d’[[motifs/winter|,inverno]], uno di quei giorni insolitamente caldi, tranquilli e nebbiosi che sono i “nutrimenti” della bella Halcyon (*1*), mi trovavo seduta, (e pensavo di essere) sola nell’ala interna della biblioteca. Ma alzando lo sguardo, vidi che [[works/berenice-(poe)|Berenice]] stava davanti a me.
+E finalmente si avvicinò il momento delle nostre nozze; un pomeriggio d’[[motifs/winter|,inverno]], uno di quei giorni insolitamente caldi, tranquilli e nebbiosi che sono i “nutrimenti” della bella Halcyon (*1*), mi trovavo seduta, (e pensavo di essere) [[Alone|sola]] nell’ala interna della biblioteca. Ma alzando lo sguardo, vidi che [[works/berenice-(poe)|Berenice]] stava davanti a me.
 
 Era forse la mia stessa eccitata [[concepts/imagination|immaginazione]] – o l’atmosfera nebbiosa che circondava la stanza – o il crepuscolo incerto che avvolgeva ogni cosa – o le tende grigie che si drappeggiavano intorno a lei – a far sì che la sua figura apparisse così sfocata e indistinta? Non riuscivo a capirlo. Lei non pronunciò una parola; e io, nemmeno per tutto l’oro del mondo avrei potuto emettere un suono. Un freddo gelido mi attraversò il corpo; una sensazione di ansia insopportabile mi oppresse; una curiosità divorante invase la mia [[motifs/soul|'anima]]. Mi appoggiai nuovamente alla sedia, rimanendo per qualche momento senza fiato e immobile, con lo sguardo fisso su di lei. Ahimè, la sua magrezza era estrema; non c’era più traccia della bellezza di un tempo in nessuna linea del suo viso. Alla fine, i miei sguardi ardenti si posarono sul suo volto.
 
@@ -441,7 +441,7 @@ Il chiudersi di una porta mi disturbò; alzando lo sguardo, scoprii che mia cugi
 
 La sera calò su di me. Poi arrivò l’oscurità, rimase per un po’, poi se ne andò; il giorno spuntò di nuovo. Le nebbie di una seconda notte iniziavano a radunarsi intorno a me. E io continuavo a sedere immobile in quella stanza solitaria, immerso nella meditazione. Il “fantasma” di quei denti manteneva ancora il suo terribile dominio: apparivano con estrema chiarezza, fluttuando tra le luci e le ombre mutevoli della stanza. Alla fine, nei miei sogni risuonò un grido di orrore e disperazione; dopo una pausa, seguirono voci agitate, mescolate a molti gemiti sommessi di dolore o sofferenza. Mi alzai dal mio posto, aprii una delle porte della biblioteca. E vidi, nell’anticamera, una serva in lacrime che mi disse che [[works/berenice-(poe)|Berenice]] non c’era più. Aveva avuto un attacco di epilessia all’alba. Ora, con l’avvicinarsi della notte, la tomba era pronta per accoglierla. Tutti i preparativi per il funerale erano stati completati.
 
-Mi ritrovai seduto in biblioteca, ancora una volta lì da solo. Sembrava che fossi appena risvegliato da un sogno confuso ed eccitante. Sapevo che era mezzanotte e ero ben consapevole del fatto che, da quando il sole era tramontato, [[works/berenice-(poe)|Berenice]] era stata sepolta. Ma di quel periodo cupo che era seguito non avevo alcuna comprensione chiara, almeno nessuna definitiva. Eppure i ricordi legati a quel periodo erano pieni di orrore: un orrore ancora più terribile per la sua vaghezza, un terrore ancora più spaventoso per l’ambiguità delle sue immagini. Era una pagina angosciante nella storia della mia esistenza, scritta interamente di ricordi oscuri, orribili e incomprensibili. Cercai di decifrarli, ma invano; e di tanto in tanto, come l’eco di un suono lontano, il grido stridulo e penetrante di una voce femminile sembrava risuonare nelle mie orecchie. Avevo compiuto qualcosa. Ma cosa? Mi posi questa domanda ad alta voce, e gli echi sommessi della stanza mi risposero: “_Cosa era?_”
+Mi ritrovai seduto in biblioteca, ancora una volta lì da [[Alone|solo]]. Sembrava che fossi appena risvegliato da un sogno confuso ed eccitante. Sapevo che era mezzanotte e ero ben consapevole del fatto che, da quando il sole era tramontato, [[works/berenice-(poe)|Berenice]] era stata sepolta. Ma di quel periodo cupo che era seguito non avevo alcuna comprensione chiara, almeno nessuna definitiva. Eppure i ricordi legati a quel periodo erano pieni di orrore: un orrore ancora più terribile per la sua vaghezza, un terrore ancora più spaventoso per l’ambiguità delle sue immagini. Era una pagina angosciante nella storia della mia esistenza, scritta interamente di ricordi oscuri, orribili e incomprensibili. Cercai di decifrarli, ma invano; e di tanto in tanto, come l’eco di un suono lontano, il grido stridulo e penetrante di una voce femminile sembrava risuonare nelle mie orecchie. Avevo compiuto qualcosa. Ma cosa? Mi posi questa domanda ad alta voce, e gli echi sommessi della stanza mi risposero: “_Cosa era?_”
 
 Sul tavolo accanto a me ardeva una lampada, e vicino ad essa c'era una piccola scatola. Non aveva nulla di particolare; l’avevo vista spesso in passato, poiché apparteneva al medico di famiglia. Ma come mai si trovava lì, sul mio tavolo? E perché provavo un brivido ogni volta che la guardavo? Questi fenomeni non avevano alcuna spiegazione logica. Alla fine i miei occhi si posarono sulle pagine aperte di un libro, su una frase sottolineata. Le parole erano semplici e familiari: quelle del poeta Ebn Zaiat: “Mi dissero che avremmo visitato la tomba della mia amica, per alleviare un po’ le mie preoccupazioni, ” Ma perché, mentre le leggevo, i capelli mi si rizzarono in piedi e il sangue nelle mie vene sembrò congelarsi?
 

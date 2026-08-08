@@ -15,10 +15,10 @@ tags:
 
 
 [[characters/venus|VENUS]] AND [[characters/adonis|ADONIS]]  
-WITH [[characters/venus|Venus]] and [[characters/adonis|Adonis]], Shakespeare made his debut in print: his signature appears at the end of the formal dedication to the Earl of Southampton in which the poem is described as ‘the first heir of my invention’—though Shakespeare had already begun to make his mark as a playwright. A terrible outbreak of plague, which was to last for almost two years, began in the [[motifs/summer|summer]] of 1592, and [[settings/london|London]]’s theatres were closed as a precaution against infection. Probably Shakespeare wrote his poem at this [[motifs/time|time]], perhaps seeing a need for an alternative career. It is an early example of the Ovidian erotic narrative poems that were fashionable for about thirty years from 1589; the best known outside Shakespeare is Christopher Marlowe’s [[archetypes/hero|Hero]] and Leander, written at about the same [[motifs/time|time]].  
-Ovid, in Book 10 of the Metamorphoses, tells the story of [[characters/venus|Venus]] and [[characters/adonis|Adonis]] in about seventy-five lines of verse; Shakespeare’s poem—drawing, probably, on both the original Latin and [[characters/arthur|Arthur]] Golding’s English version (1565-7)—is 1,194 lines long. He modified Ovid’s tale as [[motifs/well|well]] as expanding it. In Ovid, the handsome young mortal [[characters/adonis|Adonis]] returns the [[motifs/love|love]] urged on him by [[characters/venus|Venus]], the goddess of [[motifs/love|love]]. Shakespeare turns [[characters/adonis|Adonis]] into a bashful teenager, unripe for [[motifs/love|love]], who shies away from her advances. In Ovid, the lovers go hunting together (though [[characters/venus|Venus]] chases only relatively harmless beasts, and advises [[characters/adonis|Adonis]] to do the same); in Shakespeare, [[characters/adonis|Adonis]] takes to the hunt rather as a respite from [[characters/venus|Venus]]’ remorseless attentions. Whereas Ovid’s [[characters/venus|Venus]] flies off to Cyprus in her dove-drawn chariot and returns only after [[characters/adonis|Adonis]] has been mortally wounded, Shakespeare’s anxiously awaits the outcome of the chase. She hears the yelping of [[characters/adonis|Adonis]]’ hounds, sees a bloodstained boar, comes upon [[characters/adonis|Adonis]]’ defeated dogs, and at last finds his [[concepts/body|body]]. In Ovid, she metamorphoses him into an anemone; in Shakespeare, [[characters/adonis|Adonis]]’ [[concepts/body|body]] melts away, and [[characters/venus|Venus]] plucks the purple and white flower that springs up in its place.  
+WITH [[characters/venus|Venus]] and [[characters/adonis|Adonis]], Shakespeare made his debut in print: his signature appears at the end of the formal dedication to the Earl of Southampton in which the poem is described as ‘the first heir of my invention’—though Shakespeare had already begun to make his mark as a playwright. A terrible outbreak of plague, which was to last for almost two years, began in the [[motifs/summer|summer]] of 1592, and [[settings/london|London]]’s theatres were closed as a precaution against infection. Probably Shakespeare wrote his poem at this [[motifs/time|time]], perhaps seeing a need for an alternative career. It is an early example of the Ovidian erotic narrative [[Poems|poems]] that were fashionable for about thirty years from 1589; the best known outside Shakespeare is Christopher Marlowe’s [[archetypes/hero|Hero]] and Leander, written at about the same [[motifs/time|time]].  
+Ovid, in Book 10 of the Metamorphoses, tells the story of [[characters/venus|Venus]] and [[characters/adonis|Adonis]] in about seventy-five lines of verse; Shakespeare’s poem—drawing, probably, on both the original Latin and [[characters/arthur|Arthur]] Golding’s English version (1565-7)—is 1,194 lines long. He modified Ovid’s tale as [[motifs/well|well]] as expanding it. In Ovid, the handsome young mortal [[characters/adonis|Adonis]] returns the [[motifs/love|love]] urged on him by [[characters/venus|Venus]], the goddess of [[motifs/love|love]]. Shakespeare turns [[characters/adonis|Adonis]] into a bashful teenager, unripe for [[motifs/love|love]], who shies away from her advances. In Ovid, the [[lovers]] go hunting together (though [[characters/venus|Venus]] chases only relatively harmless beasts, and advises [[characters/adonis|Adonis]] to do the same); in Shakespeare, [[characters/adonis|Adonis]] takes to the hunt rather as a respite from [[characters/venus|Venus]]’ remorseless attentions. Whereas Ovid’s [[characters/venus|Venus]] flies off to Cyprus in her dove-drawn chariot and returns only after [[characters/adonis|Adonis]] has been mortally wounded, Shakespeare’s anxiously awaits the outcome of the chase. She hears the yelping of [[characters/adonis|Adonis]]’ hounds, sees a bloodstained boar, comes upon [[characters/adonis|Adonis]]’ defeated [[dogs]], and at last finds his [[concepts/body|body]]. In Ovid, she metamorphoses him into an anemone; in Shakespeare, [[characters/adonis|Adonis]]’ [[concepts/body|body]] melts away, and [[characters/venus|Venus]] plucks the purple and white flower that springs up in its place.  
 Shakespeare’s only addition to Ovid’s narrative is the episode (259-324) in which [[characters/adonis|Adonis]]’ stallion lusts after a mare, so frustrating [[characters/adonis|Adonis]]’ attempt to escape [[characters/venus|Venus]]’ embraces. But there are many rhetorical elaborations, such as [[characters/venus|Venus]]’ speech of attempted seduction (95-1174), her disquisition on the dangers of boar-hunting (613-714), her metaphysical explanation of why the [[motifs/night|night]] is dark (72I-68), [[characters/adonis|Adonis]]’ reply (769-810), culminating in his eloquent contrast between lust and [[motifs/love|love]], and [[characters/venus|Venus]]’ lament over his [[concepts/body|body]] (1069-1164).  
-[[characters/venus|Venus]] and [[characters/adonis|Adonis]] is a mythological poem whose landscape is inhabited by none but the lovers and those members of the animal kingdom—the lustful stallion, the timorous hare (679-708), the sensitive snail (1033-6), and the savage boar—which reflect their passions. The boar’s disruption of the harmony that existed between [[characters/adonis|Adonis]] and the [[motifs/animals|animals]] will, says [[characters/venus|Venus]], result in eternal discord: ‘Sorrow on [[motifs/love|love]] hereafter shall attend’ (1136).  
+[[characters/venus|Venus]] and [[characters/adonis|Adonis]] is a mythological poem whose landscape is inhabited by none but the [[lovers]] and those members of the animal kingdom—the lustful stallion, the timorous hare (679-708), the sensitive snail (1033-6), and the savage boar—which reflect their passions. The boar’s disruption of the harmony that existed between [[characters/adonis|Adonis]] and the [[motifs/animals|animals]] will, says [[characters/venus|Venus]], result in eternal discord: ‘Sorrow on [[motifs/love|love]] hereafter shall attend’ (1136).  
 In Shakespeare’s own [[motifs/time|time]], [[characters/venus|Venus]] and [[characters/adonis|Adonis]] was his most frequently reprinted work, with at least ten editions during his life, and another half-dozen by 1636. Like his other non-dramatic works, it was not included in the Folio of 1623. It fell out of fashion until Coleridge wrote enthusiastically about it in Biographia Literaria (1817). Though its conscious artifice may limit its appeal, it is a brilliantly sophisticated erotic [[forms/comedy|comedy]], a counterpart in verbal ingenuity to [[motifs/love|Love]]’s Labour’s Lost; the [[forms/comedy|comedy]] of the poem, like that of the play, is darkened and deepened in its later stages by the [[archetypes/shadow|shadow]] of sudden [[motifs/death|death]].  
 Vilia miretur vulgus; mihi flavus [[characters/apollo|Apollo]] Pocula Castalia plena ministret aqua.  
 TO THE RIGHT HONOURABLE HENRY WRIOTHESLEY, EARL OF SOUTHAMPTON, AND BARON OF TITCHFIELD  
@@ -241,7 +241,7 @@ Give me one kiss, I’ll give it thee again,
 And one for int’rest, if thou wilt have twain.  
 ‘Fie, lifeless picture, cold and senseless stone,  
 [[motifs/well|Well]] painted idol, image dull and dead,  
-Statue contenting but the eye alone,  
+Statue contenting but the eye [[Alone|alone]],  
 Thing like a man, but of no woman bred:  
 Thou art no man, though of a man’s complexion,  
 For men will kiss even by their own direction.’  
@@ -358,7 +358,7 @@ All swoll’n with chafing, down [[characters/adonis|Adonis]] sits,
 Banning his boist’rous and unruly beast;  
 And now the happy season once more fits  
 That lovesick [[motifs/love|love]] by pleading may be blessed;  
-For lovers say the heart hath treble wrong  
+For [[lovers]] say the heart hath treble wrong  
 When it is barred the aidance of the tongue.  
 An oven that is stopped, or [[motifs/river|river]] stayed,  
 Burneth more hotly, swelleth with more rage.  
@@ -412,7 +412,7 @@ Because [[characters/adonis|Adonis]]’ heart hath made mine hard.’
 ‘For shame,’ he cries, ‘let go, and let me go!  
 My day’s delight is past; my [[motifs/horse|horse]] is gone,  
 And ‘tis your fault I am bereft him so.  
-I pray you hence, and leave me here alone;  
+I pray you hence, and leave me here [[Alone|alone]];  
 For all my mind, my thought, my busy care  
 Is how to get my palfrey from the mare.’  
 Thus she replies: ‘Thy palfrey, as he should,  
@@ -813,7 +813,7 @@ For, by this black-faced [[motifs/night|night]], [[motifs/desire|desire]]’s fo
 Your treatise makes me like you worse and worse.  
 ‘If [[motifs/love|love]] have lent you twenty thousand tongues,  
 And every tongue more moving than your own,  
-Bewitching like the wanton [[characters/mermaid|mermaid]]’s songs,  
+Bewitching like the wanton [[characters/mermaid|mermaid]]’s [[songs]],  
 Yet from mine ear the tempting tune is blown;  
 For know, my heart stands armed in mine ear,  
 And will not let a false sound enter there,  
@@ -822,7 +822,7 @@ Into the quiet closure of my breast,
 And then my little heart were quite undone,  
 In his bedchamber to be barred of rest.  
 No, lady, no. My heart longs not to groan,  
-But soundly sleeps, while now it sleeps alone.  
+But soundly sleeps, while now it sleeps [[Alone|alone]].  
 ‘What have you urged that I cannot reprove?  
 The path is smooth that leadeth on to danger.  
 I hate not [[motifs/love|love]], but your device in [[motifs/love|love]],  
@@ -877,8 +877,8 @@ How [[motifs/love|love]] makes young men thrall, and old men dote,
 How [[motifs/love|love]] is wise in folly, foolish-witty.  
 Her heavy anthem still concludes in woe,  
 And still the choir of echoes answer so.  
-Her song was tedious, and outwore the [[motifs/night|night]];  
-For lovers’ hours are long, though seeming short.  
+Her [[Song|song]] was tedious, and outwore the [[motifs/night|night]];  
+For [[lovers]]’ hours are long, though seeming short.  
 If pleased themselves, others, they think, delight  
 In such-like circumstance, with such-like sport.  
 Their copious stories oftentimes begun  
@@ -886,7 +886,7 @@ End without audience, and are never done.
 For who hath she to spend the [[motifs/night|night]] withal  
 But idle sounds resembling parasites,  
 Like shrill-tongued tapsters answering every call,  
-Soothing the humour of fantastic wits?  
+Soothing the [[Humour|humour]] of fantastic wits?  
 She says ‘’Tis so’; they answer all ‘’Tis so’,  
 And would say after her, if she said ‘No’.  
 Lo, here the gentle lark, weary of rest,  
@@ -922,7 +922,7 @@ Appals her senses, and her spirit confounds.
 For now she knows it is no gentle chase,  
 But the blunt boar, rough bear, or [[motifs/lion|lion]] proud,  
 Because the cry remaineth in one place,  
-Where fearfully the dogs exclaim aloud.  
+Where fearfully the [[dogs]] exclaim aloud.  
 Finding their enemy to be so curst,  
 They all strain [[settings/court|court]]’sy who shall cope him first.  
 This dismal cry rings sadly in her ear,  
@@ -968,7 +968,7 @@ Infusing them with dreadful prophecies:
 So she at these sad signs draws up her breath,  
 And, sighing it again, exclaims on [[motifs/death|death]].  
 ‘Hard-favoured [[archetypes/tyrant|tyrant]], ugly, meagre, lean,  
-Hateful divorce of [[motifs/love|love]]’—thus chides she [[motifs/death|death]];  
+Hateful [[divorce]] of [[motifs/love|love]]’—thus chides she [[motifs/death|death]];  
 ‘Grim-grinning [[archetypes/ghost|ghost]], earth’s worm: what dost thou mean  
 To stifle [[concepts/beauty|beauty]], and to steal his breath  
 Who, when he lived, his breath and [[concepts/beauty|beauty]] set  
@@ -1010,7 +1010,7 @@ That every present sorrow seemeth chief,
 But none is best. Then join they all together,  
 Like many clouds consulting for foul weather.  
 By this, far off she hears some huntsman hollo;  
-A [[characters/nurse|nurse]]’s song ne’er pleased her babe so [[motifs/well|well]].  
+A [[characters/nurse|nurse]]’s [[Song|song]] ne’er pleased her babe so [[motifs/well|well]].  
 The dire [[concepts/imagination|imagination]] she did follow  
 This sound of [[concepts/hope|hope]] doth labour to expel;  
 For now reviving joy bids her rejoice  
@@ -1236,10 +1236,10 @@ Means to immure herself, and not be seen.
 <span class="qlang-split" data-lang="it"></span>
 
 [[characters/venus|VENERE]] E [[characters/adonis|ADONE]]  
-CON [[characters/venus|Venere]] e [[characters/adonis|Adone]] Shakespeare fece il suo esordio a stampa: la sua firma compare in calce alla formale dedica al conte di Southampton, nella quale il poema è descritto come ‘il primo erede della mia invenzione’—benché Shakespeare avesse già cominciato a farsi un nome come drammaturgo. Un terribile scoppio di peste, destinato a durare quasi due anni, cominciò nell’[[motifs/summer|estate]] del 1592, e i teatri di [[settings/london|Londra]] furono chiusi per precauzione contro il contagio. Probabilmente Shakespeare scrisse il suo poema in quel [[motifs/time|tempo]], forse intravedendo il bisogno di una carriera alternativa. È un esempio precoce di quei poemi narrativi erotici d’imitazione ovidiana che furono di moda per circa trent’anni a partire dal 1589; il più noto fuori di Shakespeare è [[archetypes/hero|Ero]] e Leandro di Christopher Marlowe, scritto press’a poco nello stesso [[motifs/time|tempo]].  
-Ovidio, nel libro X delle Metamorfosi, narra la storia di [[characters/venus|Venere]] e [[characters/adonis|Adone]] in circa settantacinque versi; il poema di Shakespeare—che attinge, probabilmente, sia all’originale latino sia alla versione inglese di [[characters/arthur|Arthur]] Golding (1565-7)—è lungo 1.194 versi. Egli modificò il racconto di Ovidio [[motifs/well|così]] come lo ampliò. In Ovidio, il bel giovane mortale [[characters/adonis|Adone]] ricambia l’[[motifs/love|amore]] che gli offre [[characters/venus|Venere]], dea dell’[[motifs/love|amore]]. Shakespeare fa di [[characters/adonis|Adone]] un adolescente ritroso, acerbo per l’[[motifs/love|amore]], che si sottrae alle sue avances. In Ovidio, gli amanti vanno a caccia insieme (benché [[characters/venus|Venere]] insegua soltanto bestie relativamente innocue, e consigli ad [[characters/adonis|Adone]] di fare altrettanto); in Shakespeare, [[characters/adonis|Adone]] si dà alla caccia piuttosto come tregua dalle spietate attenzioni di [[characters/venus|Venere]]. Mentre la [[characters/venus|Venere]] d’Ovidio vola via a Cipro sul suo carro tirato da colombe e torna solo dopo che [[characters/adonis|Adone]] è stato mortalmente ferito, quella di Shakespeare ne attende ansiosa l’esito della caccia. Ode il latrare dei cani di [[characters/adonis|Adone]], vede un cinghiale insanguinato, s’imbatte nella muta di [[characters/adonis|Adone]], nei suoi cani sconfitti, e trova infine il suo [[concepts/body|corpo]]. In Ovidio, ella lo trasforma in un anemone; in Shakespeare, di [[characters/adonis|Adone]] il [[concepts/body|corpo]] si dissolve, e [[characters/venus|Venere]] coglie il fiore purpureo e bianco che ne sboccia al posto.  
+CON [[characters/venus|Venere]] e [[characters/adonis|Adone]] Shakespeare fece il suo esordio a stampa: la sua firma compare in calce alla formale dedica al conte di Southampton, nella quale il poema è descritto come ‘il primo erede della mia invenzione’—benché Shakespeare avesse già cominciato a farsi un nome come drammaturgo. Un terribile scoppio di peste, destinato a durare quasi due anni, cominciò nell’[[motifs/summer|estate]] del 1592, e i teatri di [[settings/london|Londra]] furono chiusi per precauzione contro il contagio. Probabilmente Shakespeare scrisse il suo poema in quel [[motifs/time|tempo]], forse intravedendo il bisogno di una carriera alternativa. È un esempio precoce di quei [[Poems|poemi]] narrativi erotici d’imitazione ovidiana che furono di moda per circa trent’anni a partire dal 1589; il più noto fuori di Shakespeare è [[archetypes/hero|Ero]] e Leandro di Christopher Marlowe, scritto press’a poco nello stesso [[motifs/time|tempo]].  
+Ovidio, nel libro X delle Metamorfosi, narra la storia di [[characters/venus|Venere]] e [[characters/adonis|Adone]] in circa settantacinque versi; il poema di Shakespeare—che attinge, probabilmente, sia all’originale latino sia alla versione inglese di [[characters/arthur|Arthur]] Golding (1565-7)—è lungo 1.194 versi. Egli modificò il racconto di Ovidio [[motifs/well|così]] come lo ampliò. In Ovidio, il bel giovane mortale [[characters/adonis|Adone]] ricambia l’[[motifs/love|amore]] che gli offre [[characters/venus|Venere]], dea dell’[[motifs/love|amore]]. Shakespeare fa di [[characters/adonis|Adone]] un adolescente ritroso, acerbo per l’[[motifs/love|amore]], che si sottrae alle sue avances. In Ovidio, gli [[lovers|amanti]] vanno a caccia insieme (benché [[characters/venus|Venere]] insegua soltanto bestie relativamente innocue, e consigli ad [[characters/adonis|Adone]] di fare altrettanto); in Shakespeare, [[characters/adonis|Adone]] si dà alla caccia piuttosto come tregua dalle spietate attenzioni di [[characters/venus|Venere]]. Mentre la [[characters/venus|Venere]] d’Ovidio vola via a Cipro sul suo carro tirato da colombe e torna solo dopo che [[characters/adonis|Adone]] è stato mortalmente ferito, quella di Shakespeare ne attende ansiosa l’esito della caccia. Ode il latrare dei cani di [[characters/adonis|Adone]], vede un cinghiale insanguinato, s’imbatte nella muta di [[characters/adonis|Adone]], nei suoi [[dogs|cani]] sconfitti, e trova infine il suo [[concepts/body|corpo]]. In Ovidio, ella lo trasforma in un anemone; in Shakespeare, di [[characters/adonis|Adone]] il [[concepts/body|corpo]] si dissolve, e [[characters/venus|Venere]] coglie il fiore purpureo e bianco che ne sboccia al posto.  
 La sola aggiunta di Shakespeare al racconto ovidiano è l’episodio (259-324) in cui lo stallone di [[characters/adonis|Adone]] s’infiamma per una giumenta, frustrando così il tentativo di [[characters/adonis|Adone]] di sfuggire agli abbracci di [[characters/venus|Venere]]. Ma vi sono molte elaborazioni retoriche, quali il discorso di seduzione tentata di [[characters/venus|Venere]] (95-1174), la sua dissertazione sui pericoli della caccia al cinghiale (613-714), la sua spiegazione metafisica del perché la [[motifs/night|notte]] sia buia (721-68), la risposta di [[characters/adonis|Adone]] (769-810), che culmina nella sua eloquente contrapposizione fra lussuria e [[motifs/love|amore]], e il lamento di [[characters/venus|Venere]] sul suo [[concepts/body|corpo]] (1069-1164).  
-[[characters/venus|Venere]] e [[characters/adonis|Adone]] è un poema mitologico il cui paesaggio non è abitato che dagli amanti e da quei membri del regno animale—lo stallone lussurioso, la lepre timorosa (679-708), la lumaca sensitiva (1033-6) e il cinghiale selvaggio—che ne riflettono le passioni. Il turbamento, per opera del cinghiale, dell’armonia che esisteva fra [[characters/adonis|Adone]] e gli [[motifs/animals|animali]] avrà per conseguenza, dice [[characters/venus|Venere]], una discordia eterna: ‘D’ora innanzi il dolore accompagnerà l’[[motifs/love|amore]]’ (1136).  
+[[characters/venus|Venere]] e [[characters/adonis|Adone]] è un poema mitologico il cui paesaggio non è abitato che dagli [[lovers|amanti]] e da quei membri del regno animale—lo stallone lussurioso, la lepre timorosa (679-708), la lumaca sensitiva (1033-6) e il cinghiale selvaggio—che ne riflettono le passioni. Il turbamento, per opera del cinghiale, dell’armonia che esisteva fra [[characters/adonis|Adone]] e gli [[motifs/animals|animali]] avrà per conseguenza, dice [[characters/venus|Venere]], una discordia eterna: ‘D’ora innanzi il dolore accompagnerà l’[[motifs/love|amore]]’ (1136).  
 Al [[motifs/time|tempo]] di Shakespeare, [[characters/venus|Venere]] e [[characters/adonis|Adone]] fu l’opera sua più spesso ristampata, con almeno dieci edizioni durante la sua vita, e un’altra mezza dozzina entro il 1636. Come le altre sue opere non drammatiche, non fu inclusa nel Folio del 1623. Cadde di moda finché Coleridge non ne scrisse con entusiasmo nella Biographia Literaria (1817). Benché il suo consapevole artificio possa limitarne l’attrattiva, è una [[forms/comedy|commedia]] erotica brillantemente raffinata, controparte per ingegnosità verbale di [[motifs/love|Pene]] d’amore perdute; la [[forms/comedy|comicità]] del poema, come quella del dramma, è oscurata e approfondita nelle sue fasi ultime dall’[[archetypes/shadow|ombra]] d’una [[motifs/death|morte]] improvvisa.  
 Vilia miretur vulgus; mihi flavus [[characters/apollo|Apollo]] Pocula Castalia plena ministret aqua.  
 ALL’ONOREVOLISSIMO HENRY WRIOTHESLEY, CONTE DI SOUTHAMPTON E BARONE DI TITCHFIELD  
@@ -1462,7 +1462,7 @@ Dammi un bacio, e io te lo renderò,
 e un altro d’interesse, se ne vorrai due.  
 ‘Vergogna, pittura senza vita, pietra fredda e insensata,  
 idolo [[motifs/well|ben]] dipinto, immagine spenta e morta,  
-statua che appaga il solo occhio,  
+statua che appaga il [[Alone|solo]] occhio,  
 cosa simile a un uomo, ma da nessuna donna generata:  
 tu non sei uomo, benché d’aspetto d’uomo,  
 ché gli uomini baciano di loro propria volontà.’  
@@ -1579,7 +1579,7 @@ Tutto gonfio di stizza, [[characters/adonis|Adone]] si siede,
 maledicendo la sua bestia turbolenta e indocile;  
 e ora la stagione propizia torna a farsi acconcia  
 perché l’[[motifs/love|amore]] malato d’amore sia benedetto col supplicare;  
-ché gli amanti dicono che il cuore ha triplo torto  
+ché gli [[lovers|amanti]] dicono che il cuore ha triplo torto  
 quando gli è vietato il soccorso della lingua.  
 Un forno tappato, o un [[motifs/river|fiume]] arrestato,  
 brucia più caldo, si gonfia con più rabbia.  
@@ -1633,7 +1633,7 @@ perché il cuore d’[[characters/adonis|Adone]] ha reso duro il mio.’
 ‘Vergogna,’ ei grida, ‘lascia la presa, e lasciami andare!  
 Il diletto del mio giorno è passato; il mio [[motifs/horse|cavallo]] è fuggito,  
 ed è per colpa vostra ch’io ne son privato così.  
-Vi prego, andatevene, e lasciatemi qui solo;  
+Vi prego, andatevene, e lasciatemi qui [[Alone|solo]];  
 ché tutta la mia mente, il mio pensiero, la mia cura affannosa  
 è come togliere il mio palafreno alla giumenta.’  
 Così ella replica: ‘Il tuo palafreno, come deve,  
@@ -2034,7 +2034,7 @@ ché, per questa [[motifs/night|notte]] dal volto nero, del [[motifs/desire|desi
 il vostro trattato mi fa gradirvi sempre meno.  
 ‘Se l’[[motifs/love|amore]] v’ha prestato ventimila lingue,  
 e ogni lingua più commovente della vostra,  
-ammaliante come della lasciva [[characters/mermaid|sirena]] i canti,  
+ammaliante come della lasciva [[characters/mermaid|sirena]] i [[songs|canti]],  
 pure dal mio orecchio l’aria tentatrice è spazzata via;  
 ché sappiate, il mio cuore sta armato nel mio orecchio,  
 e non lascerà entrare là un suono falso,  
@@ -2043,7 +2043,7 @@ nel quieto recinto del mio petto,
 e allora il mio piccolo cuore sarebbe del tutto perduto,  
 sbarrato dal riposo nella sua stessa camera.  
 No, signora, no. Il mio cuore non brama gemere,  
-ma dorme profondo, mentre ora dorme solo.  
+ma dorme profondo, mentre ora dorme [[Alone|solo]].  
 ‘Che avete addotto ch’io non possa confutare?  
 Liscio è il sentiero che conduce al pericolo.  
 Non odio l’[[motifs/love|amore]], ma il vostro artificio in [[motifs/love|amore]],  
@@ -2098,8 +2098,8 @@ come l’[[motifs/love|amore]] faccia schiavi i giovani, e rimbambiti i vecchi,
 come l’[[motifs/love|amore]] sia saggio nella follia, e follemente arguto.  
 Il suo grave inno sempre si chiude in guai,  
 e sempre il coro degli echi così risponde.  
-Il suo canto fu tedioso, e logorò la [[motifs/night|notte]];  
-ché degli amanti le ore son lunghe, benché paian brevi.  
+Il suo [[Song|canto]] fu tedioso, e logorò la [[motifs/night|notte]];  
+ché degli [[lovers|amanti]] le ore son lunghe, benché paian brevi.  
 Se essi si compiacciono, credono che altri si dilettino  
 di simili circostanze, con simile trastullo.  
 Le loro copiose storie, spesso incominciate,  
@@ -2107,7 +2107,7 @@ finiscono senza uditorio, e non son mai finite.
 Ché chi ha ella per passare la [[motifs/night|notte]]  
 se non oziosi suoni simili a parassiti,  
 come garzoni di taverna dalla lingua stridula che rispondono a ogni chiamata,  
-lusingando l’umore di cervelli fantastici?  
+lusingando l’[[Humour|umore]] di cervelli fantastici?  
 Ella dice ‘È così’; tutti rispondono ‘È così’,  
 e direbbero dopo di lei, s’ella dicesse ‘No’.  
 Ecco, qui la gentile allodola, stanca del riposo,  
@@ -2143,7 +2143,7 @@ atterrisce i suoi sensi, e le sconvolge lo spirito.
 Ché ora sa che non è caccia gentile,  
 ma il cinghiale ottuso, l’orso ispido, o il [[motifs/lion|leone]] superbo,  
 perché il grido resta in un sol luogo,  
-dove paurosi i cani forte latrano.  
+dove paurosi i [[dogs|cani]] forte latrano.  
 Trovando il nemico loro così maligno,  
 tutti fanno a gara di [[settings/court|cortesia]] su chi debba affrontarlo per primo.  
 Questo tetro grido risuona tristemente nel suo orecchio,  
@@ -2189,7 +2189,7 @@ infondendo in essi terribili profezie:
 così ella a questi tristi segni trattiene il fiato,  
 e, risospirandolo, inveisce contro la [[motifs/death|morte]].  
 ‘[[archetypes/tyrant|Tiranno]] dai tratti duri, brutto, macilento, magro,  
-odioso divorzio d’[[motifs/love|amore]]’—così ella sgrida la [[motifs/death|morte]];  
+odioso [[divorce|divorzio]] d’[[motifs/love|amore]]’—così ella sgrida la [[motifs/death|morte]];  
 ‘torvo ghignante [[archetypes/ghost|spettro]], verme della terra: che intendi,  
 soffocando la [[concepts/beauty|bellezza]], e rubando il fiato a colui  
 che, quando viveva, col fiato e con la [[concepts/beauty|bellezza]] dava  
@@ -2231,7 +2231,7 @@ che ogni presente dolore par principale,
 ma nessuno è il maggiore. Allora tutte s’uniscono,  
 come molte nubi che si consultano per il maltempo.  
 A questo punto, lontano, ode un cacciatore chiamare;  
-mai d’una [[characters/nurse|nutrice]] il canto piacque così [[motifs/well|bene]] al suo bimbo.  
+mai d’una [[characters/nurse|nutrice]] il [[Song|canto]] piacque così [[motifs/well|bene]] al suo bimbo.  
 La truce [[concepts/imagination|immaginazione]] ch’ella seguiva  
 questo suono di [[concepts/hope|speranza]] s’affanna a scacciare;  
 ché ora la gioia rinascente le comanda di rallegrarsi  

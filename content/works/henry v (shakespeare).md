@@ -75,13 +75,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/war-as-glory|War as Glory]], [[topoi/last-stand|Last Stand]], [[topoi/theatrum-mundi|Theatrum Mundi]]
-**Archetypes:** [[archetypes/king|King]], [[archetypes/hero|Hero]]
+**Archetypes:** King, Hero
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/crown|Crown]], [[motifs/dawn|Dawn]]
 **Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/heroism|Heroism]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/honour|Honour]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/history-play|History Play]], [[forms/blank-verse|Blank Verse]], [[forms/verse-drama|Verse Drama]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]]
 **Settings:** [[settings/battlefield|Battlefield]], [[settings/court|Court]]
-**Characters:** [[characters/henry-v|Henry V]], [[characters/princess-catherine|Princess Catherine]], [[characters/dauphin|Dauphin]], [[characters/fluellen|Fluellen]], [[characters/pistol|Pistol]], [[characters/mistress-quickly|Mistress Quickly]], [[characters/duke-of-exeter|Duke of Exeter]], [[characters/chorus|Chorus]]
+**Characters:** Henry V, Princess Catherine, Dauphin, Fluellen, Pistol, Mistress Quickly, Duke of Exeter, Chorus
 
 ## Testo integrale / Full text
 

@@ -61,13 +61,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]], [[topoi/love-as-religion|Love as Religion]], [[topoi/theatrum-mundi|Theatrum Mundi]]
-**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/trickster|Trickster]]
+**Archetypes:** Martyr Saint, Trickster
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/book-reading|Book Reading]], [[motifs/blood|Blood]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/death|Death]], [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/friendship|Friendship]], [[concepts/artist-and-society|Artist and Society]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/deception|Deception]], [[concepts/faith|Faith]], [[concepts/martyrdom|Martyrdom]], [[concepts/truth|Truth]], [[concepts/beauty|Beauty]]
 **Forms & Genres:** [[forms/short-story|Short Story]], [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/elizabethan-england|Elizabethan England]], [[historical-references/renaissance|Renaissance]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/hamlet|Hamlet]], [[characters/faust|Faust]], [[characters/cyril-graham|Cyril Graham]], [[characters/erskine|Erskine]], [[characters/willie-hughes|Willie Hughes]]
+**Characters:** Hamlet, Faust, Cyril Graham, Erskine, Willie Hughes
 
 ## Testo integrale / Full text
 

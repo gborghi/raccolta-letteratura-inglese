@@ -332,9 +332,9 @@ To walk on seas requires cedar Feet
 <span class="atom-split" data-atom="1198_a_soft_sea_washed_around_the_house" data-title="1198. A soft Sea washed around the House" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/nature,motif/seasons,concept/joy,concept/imagination,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
 
 
-A soft [[motifs/sea|Sea]] washed around the House  
+A soft [[motifs/sea|Sea]] washed around the [[house|House]]  
 A [[motifs/sea|Sea]] of [[motifs/summer|Summer]] Air  
-And [[motifs/rose|rose]] and fell the magic Planks  
+And [[motifs/rose|rose]] and fell the [[Magic|magic]] Planks  
 That sailed without a care —  
 For Captain was the Butterfly  
 For Helmsman was the Bee  

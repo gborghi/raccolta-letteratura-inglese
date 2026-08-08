@@ -34,18 +34,18 @@ tags:
 - [[works/intro-pilgrims-progress-(chesterton)|intro-pilgrims-progress (Chesterton)]]
 - [[works/tolstoy-(chesterton)|tolstoy (Chesterton)]]
 - [[works/a-christmas-carol-(dickens)|A Christmas Carol (Dickens)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1274_the_bone_that_has_no_marrow|1274. The Bone that has no Marrow, (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0387_the_sweetest_heresy_received|387. The sweetest Heresy received (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0508_im_ceded_ive_stopped_being_theirs|508. I'm ceded — I've stopped being Theirs — (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0593_i_think_i_was_enchanted|593. I think I was enchanted (Dickinson)]]
+- 1274. The Bone that has no Marrow, (Dickinson)
+- 387. The sweetest Heresy received (Dickinson)
+- 508. I'm ceded — I've stopped being Theirs — (Dickinson)
+- 593. I think I was enchanted (Dickinson)
 - [[works/ash-wednesday-1930-(eliot)|ASH-WEDNESDAY 1930 (Eliot)]]
 - [[works/i-because-i-do-not-hope-to-turn-again-(eliot)|I Because I do not hope to turn again (Eliot)]]
-- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#043_journey_of_the_magi|Journey of the Magi (Eliot)]]
+- [[works/journey-of-the-magi-(eliot)|Journey of the Magi (Eliot)]]
 - [[works/little-gidding-(eliot)|Little Gidding (Eliot)]]
 - [[works/the-cocktail-party-(eliot)|THE COCKTAIL PARTY (Eliot)]]
 - [[works/vi-although-i-do-not-hope-to-turn-again-(eliot)|VI Although I do not hope to turn again (Eliot)]]
 - [[works/cardenio---a-brief-account-(shakespeare)|CARDENIO - A BRIEF ACCOUNT (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_110|Sonnet 110 (Shakespeare)]]
+- Sonnet 110 (Shakespeare)
 - [[works/the-winter’s-tale-(shakespeare)|THE WINTER’S TALE (Shakespeare)]]
 - [[works/de-profundis-(wilde)|De Profundis (Wilde)]]
 - [[works/la-sainte-courtisane-(wilde)|La Sainte Courtisane (Wilde)]]

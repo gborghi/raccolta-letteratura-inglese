@@ -29,7 +29,7 @@ tags:
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/paradox|Paradox]]
 **Forms & Genres:** [[forms/dramatic-monologue|Dramatic Monologue]]
 **Historical References:** [[historical-references/bible|Bible]]
-**Characters:** [[characters/christ|Christ]]
+**Characters:** Christ
 
 ## Testo integrale / Full text
 

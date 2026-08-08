@@ -47,11 +47,11 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/double|Double]]
-**Archetypes:** [[archetypes/double-doppelganger|Double Doppelganger]]
+**Archetypes:** Double Doppelganger
 **Motifs:** [[motifs/mirror|Mirror]], [[motifs/ghosts|Ghosts]]
 **Themes & Concepts:** [[concepts/conscience|Conscience]], [[concepts/guilt|Guilt]], [[concepts/identity|Identity]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/uncanny|Uncanny]]
 **Forms & Genres:** [[forms/short-story|Short Story]]
-**Characters:** [[characters/william-wilson|William Wilson]]
+**Characters:** William Wilson
 
 ## Testo integrale / Full text
 

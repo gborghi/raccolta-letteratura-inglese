@@ -33,13 +33,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/quest|Quest]], [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/katabasis-descent|Katabasis Descent]]
-**Archetypes:** [[archetypes/quest-hero|Quest Hero]]
+**Archetypes:** Quest Hero
 **Motifs:** [[motifs/dreams|Dreams]], [[motifs/moon|Moon]], [[concepts/nature|Nature]]
 **Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/heroic-couplet|Heroic Couplet]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
 **Settings:** [[settings/ancient-greece-(2)|Ancient Greece (2)]]
-**Characters:** [[characters/endymion|Endymion]], [[characters/cynthia|Cynthia]]
+**Characters:** Endymion, Cynthia
 
 ## Testo integrale / Full text
 

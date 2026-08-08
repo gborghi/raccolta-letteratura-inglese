@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/self-knowledge-immortality-self-reliance" data-author="Coleridge" data-workhref="works/self-knowledge-·-immortality-·-self-reliance-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="036_a_fragment_found_in_a_lecture-room" data-title="A FRAGMENT FOUND IN A LECTURE-ROOM" data-chapter="" data-kind="intro" data-tags="motif/river,concept/education,concept/imagination,form/fragment,form/satire,histref/greek_mythology,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="036_a_fragment_found_in_a_lecture-room" data-title="A FRAGMENT FOUND IN A LECTURE-ROOM" data-chapter="" data-kind="intro"></span>
 
 
 Where deep in mud Cam rolls his slumbrous stream,  
@@ -25,7 +25,7 @@ And Wit congeal’d stands fix’d in wintry trance.
 But to the sounds with duteous haste repair  
 Cold Industry, and wary-footed Care;   10  
 And Dulness, dosing on a couch of lead,  
-Pleas’d with the song uplifts her heavy head,  
+Pleas’d with the [[Song|song]] uplifts her heavy head,  
 The sympathetic numbers lists awhile,  
 Then yawns propitiously a frosty smile. . . .  
 [Caetera desunt.]  
@@ -34,7 +34,7 @@ Then yawns propitiously a frosty smile. . . .
 
 
 
-<span class="atom-split" data-atom="105_to_the_author_of_poems" data-title="TO THE AUTHOR OF POEMS" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/nature,concept/the_artist_and_society,concept/immortality_of_art,form/lyric,form/allegory,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="105_to_the_author_of_poems" data-title="TO THE AUTHOR OF POEMS" data-chapter="" data-kind="intro"></span>
 
 
 JOSEPH COTTLE PUBLISHED ANONYMOUSLY AT BRISTOL IN SEPTEMBER 1795  
@@ -76,7 +76,7 @@ So [[concepts/nature|Nature]] mourn’d when sunk the First Day’s light,   35
 With [[motifs/stars|stars]], unseen before, spangling her robe of [[motifs/night|night]]!  
 Still soar, my Friend, those richer views among,  
 Strong, rapid, fervent, flashing Fancy’s beam!  
-Virtue and [[concepts/truth|Truth]] shall [[motifs/love|love]] your gentler song;  
+Virtue and [[concepts/truth|Truth]] shall [[motifs/love|love]] your gentler [[Song|song]];  
 But Poesy demands th’ impassion’d theme:   40  
 Waked by Heaven’s silent dews at Eve’s mild gleam  
 What balmy sweets Pomona breathes around!  
@@ -88,7 +88,7 @@ With fruits and [[motifs/flowers|flowers]] she loads the tempest-honor’d groun
 
 
 
-<span class="atom-split" data-atom="198_the_snow-drop" data-title="THE SNOW-DROP" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/flowers,motif/winter,motif/the_supernatural,motif/music_and_song,concept/immortality_of_art,concept/transience,form/lyric,histref/greek_mythology,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="198_the_snow-drop" data-title="THE SNOW-DROP" data-chapter="" data-kind="intro"></span>
 
 
 1  
@@ -97,7 +97,7 @@ With fruits and [[motifs/flowers|flowers]] she loads the tempest-honor’d groun
 The whelming thaw, the ponderous shower,  
 The [[motifs/silence|silence]] of the freezing [[motifs/night|night]]!  
 Since Laura murmur’d o’er thy [[motifs/leaves|leaves]]    5  
-The potent sorceries of song,  
+The potent sorceries of [[Song|song]],  
 To thee, meek Flowret! gentler gales  
 And cloudless skies belong.  
 2  
@@ -151,7 +151,7 @@ Where Zephyr-trembling Lilies grow,    50
 And bend to kiss their softer selves  
 That tremble in the stream below: —  
 There nightly borne does Laura lie  
-A magic Slumber heaves her breast:  
+A [[Magic|magic]] Slumber heaves her breast:  
 Her arm, white wanderer of the Harp,   55  
 Beneath her cheek is prest.  
 8*  
@@ -168,7 +168,7 @@ With Youth’s returning gleams.
 
 
 
-<span class="atom-split" data-atom="199_snow_drop" data-title="SNOW DROP." data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/flowers,motif/winter,concept/immortality_of_art,concept/transience,form/lyric,form/fragment,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="199_snow_drop" data-title="SNOW DROP." data-chapter="" data-kind="intro"></span>
 
 
 To the Editor of the Morning Post.  
@@ -181,12 +181,12 @@ The ‘Lines’ were never sent or never appeared in the Morning Post.
 To the [[motifs/snow|Snow]] Drop.  
 1  
 [[concepts/fear|Fear]] thou no more the wintry [[motifs/storm|storm]],  
-Sweet Flowret, blest by LAURA’S song:  
+Sweet Flowret, blest by LAURA’S [[Song|song]]:  
 She gaz’d upon thy slender form,  
 The mild Enchantress gaz’d so long;  
 That trembling as she saw thee droop,  
 Poor Trembler! o’er thy snowy bed,  
-With imitation’s sympathy  
+With [[Imitation|imitation]]’s sympathy  
 She too inclin’d her head.  
 2  
 She droop’d her head, she stretch’d her arm,  
@@ -227,7 +227,7 @@ MS. erased.
 
 
 
-<span class="atom-split" data-atom="218_the_pains_of_sleep" data-title="THE PAINS OF SLEEP" data-chapter="" data-kind="intro" data-tags="motif/sleep,motif/dreams,motif/prayer,concept/guilt,concept/conscience,concept/terror_and_horror,concept/faith,concept/sin_and_the_fall,concept/grace_and_redemption,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="218_the_pains_of_sleep" data-title="THE PAINS OF SLEEP" data-chapter="" data-kind="intro"></span>
 
 
 Ere on my bed my limbs I lay,  
@@ -287,7 +287,7 @@ And whom I [[motifs/love|love]], I [[motifs/love|love]] indeed.
 
 
 
-<span class="atom-split" data-atom="236_psyche" data-title="PSYCHE" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/self_and_soul,concept/mortality,concept/immortality,form/epigram,histref/greek_mythology,histref/classical_antiquity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="236_psyche" data-title="PSYCHE" data-chapter="" data-kind="intro"></span>
 
 
 The butterfly the ancient Grecians made  
@@ -302,12 +302,12 @@ And to deform and kill the things whereon we feed.
 
 
 
-<span class="atom-split" data-atom="247_natures_answer" data-title="NATURE’S ANSWER" data-chapter="" data-kind="intro" data-tags="concept/conscience,concept/guilt,concept/innocence_and_experience,concept/sin_and_the_fall,concept/mortality,concept/disillusionment,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="247_natures_answer" data-title="NATURE’S ANSWER" data-chapter="" data-kind="intro"></span>
 
 
 Is’t returned, as ‘twas sent? Is’t no worse for the wear?   5  
 Think first, what you are! Call to mind what you were!  
-I gave you innocence, I gave you [[concepts/hope|hope]],  
+I gave you [[innocence]], I gave you [[concepts/hope|hope]],  
 Gave health, and genius, and an ample scope.  
 Return you me [[concepts/guilt|guilt]], lethargy, [[concepts/despair|despair]]?  
 Make out the invent’ry; inspect, compare!   10  
@@ -317,14 +317,14 @@ Then die — if die you dare!
 
 
 
-<span class="atom-split" data-atom="253_human_life" data-title="HUMAN LIFE" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/ghosts,concept/mortality,concept/immortality,concept/self_and_soul,concept/doubt,form/sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="253_human_life" data-title="HUMAN LIFE" data-chapter="" data-kind="intro"></span>
 
 
 -ON THE DENIAL OF [[concepts/immortality|IMMORTALITY]]  
 If dead, we cease to be; if total gloom  
 [[motifs/swallow|Swallow]] up life’s brief flash for aye, we fare  
 As [[motifs/summer|summer]]-gusts, of sudden birth and doom,  
-Whose sound and motion not alone declare,  
+Whose sound and motion not [[Alone|alone]] declare,  
 But are their whole of being! If the breath   5  
 Be Life itself, and not its task and tent,  
 If even a [[motifs/soul|soul]] like [[historical-references/milton|Milton]]’s can know [[motifs/death|death]];  
@@ -355,7 +355,7 @@ Thy being’s being is contradiction.
 
 
 
-<span class="atom-split" data-atom="298_self-knowledge" data-title="SELF-KNOWLEDGE" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/identity,concept/humility,concept/mortality,concept/faith,histref/classical_antiquity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="298_self-knowledge" data-title="SELF-KNOWLEDGE" data-chapter="" data-kind="intro"></span>
 
 
 E coelo descendit ³½ö¸¹ Ãµ±ÅÄy½. — JUVENAL, xi. 27.  
@@ -374,7 +374,7 @@ Ignore thyself, and strive to know thy God!   10
 
 
 
-<span class="atom-split" data-atom="369_on_donnes_poem_to_a_flea" data-title="ON DONNE’S POEM ‘TO A FLEA" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/animals,concept/satire_of_society,concept/immortality_of_art,concept/identity,form/parody,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="369_on_donnes_poem_to_a_flea" data-title="ON DONNE’S POEM ‘TO A FLEA" data-chapter="" data-kind="intro"></span>
 
 
 Be proud as Spaniards! Leap for [[concepts/pride|pride]] ye Fleas!  
@@ -430,7 +430,7 @@ Thus cried the God with high imperial tone:
 In robe of stiffest state, that scoff’d at [[concepts/beauty|beauty]],  
 A pronoun-verb imperative he shone —  
 Then substantive and plural-singular grown,  
-He thus spake on:—’Behold in I alone  
+He thus spake on:—’Behold in I [[Alone|alone]]  
 (For Ethics boast a syntax of their own)  
 Or if in ye, yet as I doth depute ye,  
 In O! I, you, the vocative of duty!  
@@ -451,7 +451,7 @@ collected P. and D. W., 1877, ii. 370.
 
 
 
-<span class="atom-split" data-atom="419_of_humane_learning" data-title="OF HUMANE LEARNING" data-chapter="" data-kind="intro" data-tags="concept/education,concept/faith,concept/truth,concept/justice,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="419_of_humane_learning" data-title="OF HUMANE LEARNING" data-chapter="" data-kind="intro"></span>
 
 
 STANZA CLX  
@@ -471,7 +471,7 @@ The [[concepts/faith|Faith]] lives only where the [[concepts/faith|faith]] doth 
 
 
 
-<span class="atom-split" data-atom="420_sir_john_davies_on_the_immortality_of_the_soul" data-title="SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL" data-chapter="" data-kind="intro" data-tags="motif/fire,concept/self_and_soul,concept/immortality,concept/imagination,concept/faith,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="420_sir_john_davies_on_the_immortality_of_the_soul" data-title="SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL" data-chapter="" data-kind="intro"></span>
 
 
 (Sect. iv. Stanzas 12-14.)  
@@ -502,7 +502,7 @@ alteration was first noted in 1847.
 
 
 
-<span class="atom-split" data-atom="421_donne_eclogue_on_unworthy_wisdom" data-title="DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,topos/contemptus_mundi,motif/the_book,concept/faith,form/fragment,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="421_donne_eclogue_on_unworthy_wisdom" data-title="DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM" data-chapter="" data-kind="intro"></span>
 
 
 So reclused Hermits oftentimes do know  
@@ -520,7 +520,7 @@ issued by H. N. Coleridge in 1837.
 
 
 
-<span class="atom-split" data-atom="428_musophilus" data-title="MUSOPHILUS" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/letters_writing,motif/the_book,concept/immortality_of_art,concept/education,concept/order_vs_chaos,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="428_musophilus" data-title="MUSOPHILUS" data-chapter="" data-kind="intro"></span>
 
 
 STANZA CXLVII.  
@@ -550,7 +550,7 @@ O blessed letters! that combine in one
 All ages past, and make one live with all:  
 By you we do confer with who are gone,  
 And the dead-living unto council call:  
-By you the unborn shall have communion  
+By you the [[unborn]] shall have communion  
 Of what we feel, and what does us befall.  
 *       *       *       *       *
 O blessed letters, &c.  

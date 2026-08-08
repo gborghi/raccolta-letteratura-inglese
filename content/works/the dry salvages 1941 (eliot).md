@@ -35,7 +35,7 @@ tags:
 **Themes & Concepts:** [[concepts/memory-and-time|Memory and Time]], [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/providence|Providence]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]
 **Settings:** [[settings/sea-(2)|Sea (2)]], [[settings/new-england-america|New England America]]
-**Characters:** [[characters/virgin-mary|Virgin Mary]]
+**Characters:** Virgin Mary
 
 ## Testo integrale / Full text
 

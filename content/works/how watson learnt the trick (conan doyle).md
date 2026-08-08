@@ -26,5 +26,5 @@ tags:
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/wit|Wit]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]]
-**Archetypes:** [[archetypes/detective|Detective]]
+**Characters:** Sherlock Holmes, Doctor Watson
+**Archetypes:** Detective

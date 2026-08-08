@@ -30,11 +30,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/avenger|Avenger]]
+**Archetypes:** Avenger
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/grave|Grave]]
 **Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/deception|Deception]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/guilt|Guilt]]
 **Forms & Genres:** [[forms/short-story|Short Story]]
-**Characters:** [[characters/montresor|Montresor]], [[characters/fortunato|Fortunato]]
+**Characters:** Montresor, Fortunato
 
 ## Testo integrale / Full text
 

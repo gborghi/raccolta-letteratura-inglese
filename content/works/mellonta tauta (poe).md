@@ -49,7 +49,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/eternal-return|Eternal Return]]
-**Archetypes:** [[archetypes/tyrant|Tyrant]]
+**Archetypes:** Tyrant
 **Motifs:** [[motifs/time|Time]], [[motifs/journey|Journey]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/stars|Stars]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/transience|Transience]], [[concepts/imagination|Imagination]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]

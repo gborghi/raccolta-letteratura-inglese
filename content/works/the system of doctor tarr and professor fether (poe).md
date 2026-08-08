@@ -42,7 +42,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** [[archetypes/trickster|Trickster]]
+**Archetypes:** Trickster
 **Motifs:** [[motifs/madness-(2)|Madness (2)]]
 **Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/satire-of-society|Satire of Society]]
 **Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]]

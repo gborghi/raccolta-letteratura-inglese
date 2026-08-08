@@ -38,79 +38,79 @@ tags:
 - [[works/prayer-(chesterton)|prayer (Chesterton)]]
 - [[works/the-defendant-(chesterton)|The Defendant (Chesterton)]]
 - [[works/diabolist-(chesterton)|diabolist (Chesterton)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#383_a_beck_in_winter|A BECK IN WINTER (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#205_dejection_an_ode|DEJECTION AN ODE (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#266_first_advent_of_love|FIRST ADVENT OF LOVE (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#019_genevieve|GENEVIEVE (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#209_hymn_before_sun-rise_in_the_vale_of_chamouni|HYMN BEFORE SUN-RISE, IN THE VALE OF CHAMOUNI (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#183_hymn_to_the_earth|HYMN TO THE EARTH (Coleridge)]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#400_metrical_experiment_an_experiment_for_a_metre|METRICAL EXPERIMENT AN EXPERIMENT FOR A METRE (Coleridge)]]
+- [[works/a-beck-in-winter-(coleridge)|A BECK IN WINTER (Coleridge)]]
+- [[works/dejection-an-ode-(coleridge)|DEJECTION AN ODE (Coleridge)]]
+- [[works/first-advent-of-love-(coleridge)|FIRST ADVENT OF LOVE (Coleridge)]]
+- [[works/genevieve-(coleridge)|GENEVIEVE (Coleridge)]]
+- [[works/hymn-before-sun-rise,-in-the-vale-of-chamouni-(coleridge)|HYMN BEFORE SUN-RISE, IN THE VALE OF CHAMOUNI (Coleridge)]]
+- [[works/hymn-to-the-earth-(coleridge)|HYMN TO THE EARTH (Coleridge)]]
+- [[works/metrical-experiment-an-experiment-for-a-metre-(coleridge)|METRICAL EXPERIMENT AN EXPERIMENT FOR A METRE (Coleridge)]]
 - [[works/the-death-of-wallenstein-(coleridge)|THE DEATH OF WALLENSTEIN (Coleridge)]]
-- [[testi/coleridge/atomized/dreams-moon#250_the_night-scene|THE NIGHT-SCENE (Coleridge)]]
-- [[testi/coleridge/atomized/dreams-moon#015_to_the_evening_star|TO THE EVENING STAR (Coleridge)]]
+- [[works/the-night-scene-(coleridge)|THE NIGHT-SCENE (Coleridge)]]
+- [[works/to-the-evening-star-(coleridge)|TO THE EVENING STAR (Coleridge)]]
 - [[works/to-william-wordsworth-composed-on-the-night-after-his-recitation-of-a-poem-on-the-growth-of-an-individual-mind|TO WILLIAM WORDSWORTH COMPOSED ON THE NIGHT AFTER HIS RECITATION OF A POEM ON THE GROWTH OF AN INDIVIDUAL MIND]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1077_these_are_the_signs_to_natures_inns|1077. These are the Signs to Nature's Inns — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0113_our_share_of_night_to_bear|113. Our share of night to bear — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1241_the_lilac_is_an_ancient_shrub|1241. The Lilac is an ancient shrub (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1249_the_stars_are_old_that_stood_for_me|1249. The Stars are old, that stood for me — (Dickinson)]]
-- [[testi/dickinson/atomized/friendship-tears#0014_one_sister_have_i_in_our_house|14. One Sister have I in our house, (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0145_this_heart_that_broke_so_long|145. This heart that broke so long — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#1450_the_road_was_lit_with_moon_and_star|1450. The Road was lit with Moon and star — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0149_she_went_as_quiet_as_the_dew|149. She went as quiet as the Dew (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1511_my_country_need_not_change_her_gown|1511. My country need not change her gown, (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1525_he_lived_the_life_of_ambush|1525. He lived the Life of Ambush (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1528_the_moon_upon_her_fluent_route|1528. The Moon upon her fluent Route (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0168_if_the_foolish_call_them_flowers|168. If the foolish, call them flowers — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0181_i_lost_a_world_the_other_day|181. I lost a World — the other day! (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0219_she_sweeps_with_many-colored_brooms|219. She sweeps with many-colored Brooms — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0223_i_came_to_buy_a_smile_today|223. I Came to buy a smile — today — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0224_ive_nothing_else_to_bring_you_know|224. I've nothing else — to bring, You know — (Dickinson)]]
-- [[testi/dickinson/atomized/friendship-tears#0023_i_had_a_guinea_golden|23. I had a guinea golden — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0236_if_he_dissolve_then_there_is_nothing_more|236. If He dissolve — then — there is nothing — more — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0024_there_is_a_morn_by_men_unseen|24. There is a morn by men unseen — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0282_how_noteless_men_and_pleiads_stand|282. How noteless Men, and Pleiads, stand, (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0289_i_know_some_lonely_houses_off_the_road|289. I know some lonely Houses off the Road (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0308_i_send_two_sunsets|308. I send Two Sunsets — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0327_before_i_got_my_eye_put_out|327. Before I got my eye put out (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0352_perhaps_i_asked_too_large|352. Perhaps I asked too large — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0359_i_gained_it_so|359. I gained it so — (Dickinson)]]
-- [[testi/dickinson/atomized/alienation-outsider-exile#0378_i_saw_no_way_the_heavens_were_stitched|378. I saw no Way — The Heavens were stitched — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0409_they_dropped_like_flakes|409. They dropped like Flakes — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0416_a_murmur_in_the_trees_to_note|416. A Murmur in the Trees — to note — (Dickinson)]]
-- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0427_ill_clutch_and_clutch|427. I'll clutch — and clutch — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0451_the_outer_from_the_inner|451. The Outer — from the Inner (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#0541_some_such_butterfly_be_seen|541. Some such Butterfly be seen (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0560_it_knew_no_lapse_nor_diminuation|560. It knew no lapse, nor Diminuation — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0680_each_life_converges_to_some_centre|680. Each Life Converges to some Centre — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0694_the_heaven_vests_for_each|694. The Heaven vests for Each (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0070_arcturus_is_his_other_name|70. Arcturus is his other name — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0710_the_sunrise_runs_for_both|710. The Sunrise runs for Both — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0716_the_day_undressed_herself|716. The Day undressed — Herself — (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0737_the_moon_was_but_a_chin_of_gold|737. The Moon was but a Chin of Gold (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0790_nature_the_gentlest_mother_is|790. Nature — the Gentlest Mother is, (Dickinson)]]
-- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0792_through_the_strait_pass_of_suffering|792. Through the strait pass of suffering — (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#0082_whose_cheek_is_this|82. Whose cheek is this (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0835_nature_and_god_i_neither_knew|835. Nature and God — I neither knew (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0851_when_the_astronomer_stops_seeking|851. When the Astronomer stops seeking (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0865_he_outstripped_time_with_but_a_bout|865. He outstripped Time with but a Bout, (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0871_the_sun_and_moon_must_make_their_haste|871. The Sun and Moon must make their haste — (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#0875_i_stepped_from_plank_to_plank|875. I stepped from Plank to Plank (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0993_we_miss_her_not_because_we_see|993. We miss Her, not because We see — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0999_superfluous_were_the_sun|999. Superfluous were the Sun (Dickinson)]]
-- [[testi/eliot/atomized/alienation-outsider-exile#026_sweeney_among_the_nightingales|Sweeney Among the Nightingales (Eliot)]]
+- 1077. These are the Signs to Nature's Inns — (Dickinson)
+- 113. Our share of night to bear — (Dickinson)
+- 1241. The Lilac is an ancient shrub (Dickinson)
+- 1249. The Stars are old, that stood for me — (Dickinson)
+- 14. One Sister have I in our house, (Dickinson)
+- 145. This heart that broke so long — (Dickinson)
+- 1450. The Road was lit with Moon and star — (Dickinson)
+- 149. She went as quiet as the Dew (Dickinson)
+- 1511. My country need not change her gown, (Dickinson)
+- 1525. He lived the Life of Ambush (Dickinson)
+- 1528. The Moon upon her fluent Route (Dickinson)
+- 168. If the foolish, call them flowers — (Dickinson)
+- 181. I lost a World — the other day! (Dickinson)
+- 219. She sweeps with many-colored Brooms — (Dickinson)
+- 223. I Came to buy a smile — today — (Dickinson)
+- 224. I've nothing else — to bring, You know — (Dickinson)
+- 23. I had a guinea golden — (Dickinson)
+- 236. If He dissolve — then — there is nothing — more — (Dickinson)
+- 24. There is a morn by men unseen — (Dickinson)
+- 282. How noteless Men, and Pleiads, stand, (Dickinson)
+- 289. I know some lonely Houses off the Road (Dickinson)
+- 308. I send Two Sunsets — (Dickinson)
+- 327. Before I got my eye put out (Dickinson)
+- 352. Perhaps I asked too large — (Dickinson)
+- 359. I gained it so — (Dickinson)
+- 378. I saw no Way — The Heavens were stitched — (Dickinson)
+- 409. They dropped like Flakes — (Dickinson)
+- 416. A Murmur in the Trees — to note — (Dickinson)
+- 427. I'll clutch — and clutch — (Dickinson)
+- 451. The Outer — from the Inner (Dickinson)
+- 541. Some such Butterfly be seen (Dickinson)
+- 560. It knew no lapse, nor Diminuation — (Dickinson)
+- 680. Each Life Converges to some Centre — (Dickinson)
+- 694. The Heaven vests for Each (Dickinson)
+- 70. Arcturus is his other name — (Dickinson)
+- 710. The Sunrise runs for Both — (Dickinson)
+- 716. The Day undressed — Herself — (Dickinson)
+- 737. The Moon was but a Chin of Gold (Dickinson)
+- 790. Nature — the Gentlest Mother is, (Dickinson)
+- 792. Through the strait pass of suffering — (Dickinson)
+- 82. Whose cheek is this (Dickinson)
+- 835. Nature and God — I neither knew (Dickinson)
+- 851. When the Astronomer stops seeking (Dickinson)
+- 865. He outstripped Time with but a Bout, (Dickinson)
+- 871. The Sun and Moon must make their haste — (Dickinson)
+- 875. I stepped from Plank to Plank (Dickinson)
+- 993. We miss Her, not because We see — (Dickinson)
+- 999. Superfluous were the Sun (Dickinson)
+- [[works/sweeney-among-the-nightingales-(eliot)|Sweeney Among the Nightingales (Eliot)]]
 - [[works/the-hollow-men-1925-(eliot)|THE HOLLOW MEN 1925 (Eliot)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#111_a_prophecy_to_george_keats_in_america|A Prophecy to George Keats in America (Keats)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#139_bright_star_would_i_were_steadfast_as_thou_art|Bright star! would I were steadfast as thou art (Keats)]]
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#052_hymn_to_apollo|Hymn to Apollo (Keats)]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#073_lines_on_seeing_a_lock_of_miltons_hair|Lines On Seeing a Lock of Milton’s Hair (Keats)]]
-- [[testi/keats/atomized/sea-water#022_on_first_looking_into_chapmans_homer|ON FIRST LOOKING INTO CHAPMAN’S HOMER (Keats)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#023_on_leaving_some_friends_at_an_early_hour|ON LEAVING SOME FRIENDS AT AN EARLY HOUR (Keats)]]
-- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#066_sonnet_on_leigh_hunts_poem_the_story_of_rimini|Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’ (Keats)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#046_sonnet_to_chatterton|Sonnet to Chatterton (Keats)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#075_sonnet_when_i_have_fears_that_i_may_cease_to_be|Sonnet When I have fears that I may cease to be (Keats)]]
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#049_to_a_young_lady_who_sent_me_a_laurel_crown|To a Young Lady who Sent Me a Laurel Crown (Keats)]]
-- [[testi/keats/atomized/sea-water#060_to_haydon|To Haydon (Keats)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#006_to_hope|TO HOPE (Keats)]]
+- [[works/a-prophecy-to-george-keats-in-america-(keats)|A Prophecy to George Keats in America (Keats)]]
+- [[works/bright-star!-would-i-were-steadfast-as-thou-art-(keats)|Bright star! would I were steadfast as thou art (Keats)]]
+- [[works/hymn-to-apollo-(keats)|Hymn to Apollo (Keats)]]
+- [[works/lines-on-seeing-a-lock-of-milton’s-hair-(keats)|Lines On Seeing a Lock of Milton’s Hair (Keats)]]
+- [[works/on-first-looking-into-chapman’s-homer-(keats)|ON FIRST LOOKING INTO CHAPMAN’S HOMER (Keats)]]
+- [[works/on-leaving-some-friends-at-an-early-hour-(keats)|ON LEAVING SOME FRIENDS AT AN EARLY HOUR (Keats)]]
+- [[works/sonnet-on-leigh-hunt’s-poem-‘the-story-of-rimini’-(keats)|Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’ (Keats)]]
+- [[works/sonnet-to-chatterton-(keats)|Sonnet to Chatterton (Keats)]]
+- [[works/sonnet-when-i-have-fears-that-i-may-cease-to-be-(keats)|Sonnet When I have fears that I may cease to be (Keats)]]
+- [[works/to-a-young-lady-who-sent-me-a-laurel-crown-(keats)|To a Young Lady who Sent Me a Laurel Crown (Keats)]]
+- [[works/to-haydon-(keats)|To Haydon (Keats)]]
+- [[works/to-hope-(keats)|TO HOPE (Keats)]]
 - [[works/al-aaraaf-(poe)|Al Aaraaf (Poe)]]
 - [[works/annabel-lee-(poe)|Annabel Lee (Poe)]]
 - [[works/dreams-(poe)|Dreams (Poe)]]
@@ -129,38 +129,38 @@ tags:
 - [[works/to-helen-(poe)-(2)|To Helen (Poe) (2)]]
 - [[works/ulalume-(poe)|Ulalume (Poe)]]
 - [[works/romeo-and-juliet-(shakespeare)|ROMEO AND JULIET (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_116|Sonnet 116 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_014|Sonnet 14 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_015|Sonnet 15 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_021|Sonnet 21 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_025|Sonnet 25 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_026|Sonnet 26 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_028|Sonnet 28 (Shakespeare)]]
-- [[testi/whitman/atomized/stars-night-military-camp#276_a_clear_midnight|A Clear Midnight (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#309_after_the_dazzle_of_day|After the Dazzle of Day (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#152_bivouac_on_a_mountain_side|Bivouac on a Mountain Side (Whitman)]]
-- [[testi/whitman/atomized/sea-water#313_fancies_at_navesink|FANCIES AT NAVESINK (Whitman)]]
-- [[testi/whitman/atomized/nature-book-of-nature-natural-order#117_germs|Germs (Whitman)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#116_gods|Gods (Whitman)]]
-- [[testi/whitman/atomized/nature-book-of-nature-natural-order#378_grand_is_the_seen|Grand Is the Seen (Whitman)]]
-- [[testi/whitman/atomized/heroism-hero-last-stand#167_i_saw_old_general_at_bay|I Saw Old General at Bay (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#216_kosmos|Kosmos (Whitman)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#211_miracles|Miracles (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#248_night_on_the_prairies|Night on the Prairies (Whitman)]]
-- [[testi/whitman/atomized/heroism-hero-last-stand#221_o_star_of_france_1870_71|O Star of France 1870-71 (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#107_on_the_beach_at_night|On the Beach at Night (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#109_on_the_beach_at_night_alone|On the Beach at Night Alone (Whitman)]]
-- [[testi/whitman/atomized/nature-book-of-nature-natural-order#361_shakspere_bacon_s_cipher|Shakspere-Bacon’s Cipher (Whitman)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#377_the_unexpress_d|The Unexpress’d (Whitman)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#329_the_united_states_to_old_world_critics|The United States to Old World Critics (Whitman)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#272_thick_sprinkled_bunting|Thick-Sprinkled Bunting (Whitman)]]
-- [[testi/whitman/atomized/nature-book-of-nature-natural-order#379_unseen_buds|Unseen Buds (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#119_when_i_heard_the_learn_d_astronomer|When I Heard the Learn’d Astronomer (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#185_when_lilacs_last_in_the_dooryard_bloom_d|When Lilacs Last in the Dooryard Bloom’d (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#236_whispers_of_heavenly_death|Whispers of Heavenly Death (Whitman)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#218_who_learns_my_lesson_complete|Who Learns My Lesson Complete (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#172_world_take_good_notice|World Take Good Notice (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#099_year_of_meteors_1859_60|Year of Meteors 1859-60 (Whitman)]]
+- Sonnet 116 (Shakespeare)
+- Sonnet 14 (Shakespeare)
+- Sonnet 15 (Shakespeare)
+- Sonnet 21 (Shakespeare)
+- Sonnet 25 (Shakespeare)
+- Sonnet 26 (Shakespeare)
+- Sonnet 28 (Shakespeare)
+- [[works/a-clear-midnight-(whitman)|A Clear Midnight (Whitman)]]
+- [[works/after-the-dazzle-of-day-(whitman)|After the Dazzle of Day (Whitman)]]
+- [[works/bivouac-on-a-mountain-side-(whitman)|Bivouac on a Mountain Side (Whitman)]]
+- [[works/fancies-at-navesink-(whitman)|FANCIES AT NAVESINK (Whitman)]]
+- [[works/germs-(whitman)|Germs (Whitman)]]
+- [[works/gods-(whitman)|Gods (Whitman)]]
+- [[works/grand-is-the-seen-(whitman)|Grand Is the Seen (Whitman)]]
+- [[works/i-saw-old-general-at-bay-(whitman)|I Saw Old General at Bay (Whitman)]]
+- [[works/kosmos-(whitman)|Kosmos (Whitman)]]
+- [[works/miracles-(whitman)|Miracles (Whitman)]]
+- [[works/night-on-the-prairies-(whitman)|Night on the Prairies (Whitman)]]
+- [[works/o-star-of-france-1870-71-(whitman)|O Star of France 1870-71 (Whitman)]]
+- [[works/on-the-beach-at-night-(whitman)|On the Beach at Night (Whitman)]]
+- [[works/on-the-beach-at-night-alone-(whitman)|On the Beach at Night Alone (Whitman)]]
+- [[works/shakspere-bacon’s-cipher-(whitman)|Shakspere-Bacon’s Cipher (Whitman)]]
+- [[works/the-unexpress’d-(whitman)|The Unexpress’d (Whitman)]]
+- [[works/the-united-states-to-old-world-critics-(whitman)|The United States to Old World Critics (Whitman)]]
+- [[works/thick-sprinkled-bunting-(whitman)|Thick-Sprinkled Bunting (Whitman)]]
+- [[works/unseen-buds-(whitman)|Unseen Buds (Whitman)]]
+- [[works/when-i-heard-the-learn’d-astronomer-(whitman)|When I Heard the Learn’d Astronomer (Whitman)]]
+- [[works/when-lilacs-last-in-the-dooryard-bloom’d-(whitman)|When Lilacs Last in the Dooryard Bloom’d (Whitman)]]
+- [[works/whispers-of-heavenly-death-(whitman)|Whispers of Heavenly Death (Whitman)]]
+- [[works/who-learns-my-lesson-complete-(whitman)|Who Learns My Lesson Complete (Whitman)]]
+- [[works/world-take-good-notice-(whitman)|World Take Good Notice (Whitman)]]
+- [[works/year-of-meteors-1859-60-(whitman)|Year of Meteors 1859-60 (Whitman)]]
 - [[works/the-star-child-(wilde)|The Star-Child (Wilde)]]
 - [[works/verses-and-sonnets-(belloc)|Verses and Sonnets (Belloc)]]
 

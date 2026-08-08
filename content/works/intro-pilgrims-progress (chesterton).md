@@ -64,10 +64,10 @@ tags:
 
 ## Connections
 
-**Characters:** [[characters/achilles|Achilles]], [[historical-references/john-bunyan|John Bunyan]], [[characters/apollyon|Apollyon]], [[characters/giant-despair|Giant Despair]], [[characters/mr.-worldly-wiseman|Mr. Worldly-wiseman]], [[characters/moses|Moses]], [[characters/cromwell|Cromwell]]
+**Characters:** Achilles, [[historical-references/john-bunyan|John Bunyan]], Apollyon, Giant Despair, Mr. Worldly-wiseman, Moses, Cromwell
 
 **Topoi:** [[topoi/quest|Quest]], [[topoi/paradise-lost|Paradise Lost]], [[topoi/life-as-a-battle|Life as a Battle]]
-**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/satanic-figure|Satanic Figure]]
+**Archetypes:** Pilgrim, Satanic Figure
 **Motifs:** [[motifs/journey|Journey]], [[motifs/city|City]], [[motifs/imprisonment-(2)|Imprisonment (2)]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/fear|Fear]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/conversion|Conversion]], [[concepts/despair|Despair]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/allegory|Allegory]], [[forms/biography|Biography]], [[forms/epic|Epic]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

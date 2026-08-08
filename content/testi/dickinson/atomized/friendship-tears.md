@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="0014_one_sister_have_i_in_our_house" data-title="14. One Sister have I in our house," data-chapter="" data-kind="intro" data-tags="motif/birds,motif/stars,concept/friendship,concept/love_romantic,concept/memory_and_time,concept/childhood_and_growth,form/lyric,cluster/friendship,cluster/tears"></span>
 
 
-One Sister have I in our house -  
+One Sister have I in our [[house]] -  
 And one, a hedge away.  
 There's only one recorded,  
 But both belong to me.  
@@ -71,7 +71,7 @@ He - too - did fly away -
 [[motifs/time|Time]] brought me other Robins -  
 Their ballads were the same -  
 Still, for my missing Troubadour  
-I kept the "house at hame".  
+I kept the "[[house]] at hame".  
 
 I had a star in heaven -  
 One "Pleiad" was it's name -  

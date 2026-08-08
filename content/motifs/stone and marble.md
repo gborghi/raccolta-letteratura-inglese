@@ -24,7 +24,7 @@ tags:
 - [[works/the-man-who-knew-too-much-(chesterton)|The Man Who Knew Too Much (Chesterton)]]
 - [[works/wild-ducks-(chesterton)|Wild Ducks (Chesterton)]]
 - [[works/gargoyles-(chesterton)|gargoyles (Chesterton)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1046_ive_dropped_my_brain_my_soul_is_numb|1046. I've dropped my Brain — My Soul is numb — (Dickinson)]]
+- 1046. I've dropped my Brain — My Soul is numb — (Dickinson)
 
 </div>
 

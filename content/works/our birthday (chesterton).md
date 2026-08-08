@@ -41,7 +41,7 @@ tags:
 
 ## Connections
 
-**Characters:** [[historical-references/bernard-shaw|Bernard Shaw]], [[characters/job|Job]]
+**Characters:** [[historical-references/bernard-shaw|Bernard Shaw]], Job
 
 **Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/humility|Humility]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/joy|Joy]], [[concepts/providence|Providence]], [[concepts/self-and-cosmos|Self and Cosmos]], [[concepts/pride|Pride]], [[concepts/self-sufficiency|Self-Sufficiency]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

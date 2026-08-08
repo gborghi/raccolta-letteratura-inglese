@@ -14,11 +14,200 @@ tags:
 <span class="atom-split" data-atom="the_ballad_of_the_white_horse" data-title="The Ballad of the White Horse" data-chapter="" data-kind="intro"></span>
 
 
+Preface  
+This reissue of the illustrated tenth edition of The Ballad of the White [[motifs/horse|Horse]] provides an elegant copy of Chesterton’s [[forms/epic|epic]] of Alfred. Robert Austin’s illustrations place the reader in [[historical-references/king-alfred|King Alfred]]’s embattled world; the introduction and endnotes supply the historical and legendary underpinnings of the “aboriginal struggle of the Pagans and the Christians.” The uniqueness of the notes lies in excerpts from Asser’s Deeds of Alfred, in the inclusion of annals from the Anglo-Saxon Chronicle, and in criticisms and appreciations by modern scholars. Now on its eighty-second anniversary through the generosity of Kathleen Bohn, Thelma A. Haley, Janet Happy Jackson, Jean Scanlan, and Anna Marie Summerlin, a new generation of readers may ponder and savor Chesterton’s way of looking at life.  
+My warmest gratitude goes to Anna Mary Waickman whose [[motifs/love|love]] and encouragement have promoted the publication of this literary classic.  
+Donald F. Finlay, Louise H. Girard, and Connie Lewin of St. [[characters/michael|Michael]] University College Library in Toronto receive special mention for providing ideal facilities for users of the Chesterton Archives.  
+The editor is deeply indebted to A. P. Watt Ltd. on behalf of the Royal Literary Fund for permission to use quotations from G. K. Chesterton’s Cobbett, A Short [[concepts/history|History]] of England, and for excerpts from the Chesterton Archives: the first stanza of an early unpublished poem about Moses and two lines from a rejected stanza of the BWH.  
+The editor gratefully acknowledges the permission to quote from the following publications: James Campkell’s The Anglo-Saxons, Cornell University Press; Alice S. Green’s [[concepts/history|History]] of the Irish to 1014, Macmillan; P. J. Chandlery’s Mary’s Praise on Every Tongue, Manresa Press; Christopher Hollis’s The Mind of Chesterton, University of Miami Press; [[characters/richard|Richard]] Muir’s [[concepts/history|History]] from the Air, Mickael Joseph Ltd.; [[characters/duncan|Duncan]] Norton-Taylor’s The Emergence of Man: The Celts. [[motifs/time|Time]]-Life Books; Maisie Ward’s The English Way, Gilbert Keith Chesterton, and The Splendor of the Rosary, Sheed & Ward; Gilbert Keith Chesterton’s Autobiography, and The [[characters/queen|Queen]] of Seven Swords, Sheed & Ward; Garry Wills’s Chesterton, Man and Mask, Sheed & Ward.  
+The following periodicals allow quotations from their pages: Archaeological Journal (G. B. Grundy’s “Ancient Highways and Tracks”), Christian Century (Garry Wills’s “A Chesterton for the Right”), [[settings/new-york|New York]] Times Book Review (“The Ballad of the White [[motifs/horse|Horse]]”), (“The Making of England”), and (“The Ebullient Genius of G.K. Chesterton”), Times Literary Supplement (“Mr. Chesterton in Verse”), and (“G.K. Chesterton: [[archetypes/child|Child]] and Man”).  
+Sincere appreciation goes to Linnea Dudley and LaTayna Hurt for their valuable technical assistance. Revisions, clarifications, and new interpretations resulted from the critical reading of the manuscript by Garry Wills, Patricia Glaab, David Adam Ezel, Hilda Bonham, Ruth McGuire, Mary Laubacher, and Anne Marie Murphy.  
+The editor also expresses thanks to Andrea Lee, John R. Novak, Candace Webster, Catherine Mulroy, [[characters/helena|Helena]] Connelly, and [[motifs/rose|Rose]] C. Burgess who in important ways contributed to the publication of this edition of The Ballad of the White [[motifs/horse|Horse]].  
+Bernadette Sheridan, IHM  
+
+Introduction  
+“The Ballad of the White [[motifs/horse|Horse]]” is the record of a noble vision flung on to the canvas with told strong colours. It is what Matthew Arnold said poetry should always be: “A criticism of life.” Chesterton tells the story of Alfred, following and rightly following the popular legend. The story of how he played the harp and sang in the Danish camp, of how he burnt the cakes in the herdsman’s hut, and how his ultimate victory came about in the Valley of the White [[motifs/horse|Horse]]. That is the bones of the story, and this is treated in the true ballad form by a masterly hand, and with driving inspiration. Besides this, there is the philosophic import and significance of the poem, “The Criticism of Life” which is so large that it almost swamps the ballad element. The point of this is the contrast between Pagan and Christian ideals. Alfred, in the poem, is the incarnation of the Christian tradition. The Danes Chesterton represents as the types of paganism. (Excerpted from Baring 1911,378-79).  
+The introduction is limited to five topics: an overview of The Ballad of the White [[motifs/horse|Horse]], the White [[motifs/horse|Horse]] in reality and symbol, the BWH on the stocks (1901-1911), the locale of Ethandune, and sidelights on the Ballad.  
+i  
+The Ballad of the White [[motifs/horse|Horse]] presents the struggle between [[historical-references/christianity|Christianity]] and heathenism in the heroic days of [[historical-references/king-alfred|King Alfred]], and at the same [[motifs/time|time]] touches contemporary issues of the twentieth century. In form it employs the rhymed romantic poetry so suited to the stirring events unfolded, while in substance it depicts the valorous Wessex [[archetypes/king|king]] as “a conqueror, with no [[concepts/ambition|ambition]]; an author only too glad to be a translator; a concentrated, wary man, watching the fortunes of one thing, which he piloted both boldly and cautiously, and which he saved at last” (Chesterton 1917,52). The use of [[historical-references/king-alfred|King Alfred]]’s addition to Boethius for the epigraph emphasizes that people and events are under the influence of “a divine purpose that rules.” The scope of this narrative includes the story of the Anglo-Saxon people during the late ninth century when the Danes seriously threatened their autonomy. Its subject-matter deals with [[concepts/history|history]], legend, mythology, and religion. Since the [[motifs/supernatural|supernatural]] element is quite pronounced and some of the events are under its control, it has the atmosphere appropriate for an [[forms/epic|epic]]. Action is on a huge scale. Not only do events center around an ultimate battle, but true to [[forms/epic|epic]] requirements, the characters are also heroes or [[motifs/supernatural|supernatural]] beings. Alfred is a national [[archetypes/hero|hero]], Guthrum is a historical national leader, and Mary a celestial being. These characters interest us by the part they play in furthering or hindering the efforts to dominate England.  
+Symmetry characterizes the development of the plot. Stanzas fourteen to thirty of book I refer to previous Danish incursions. The succeeding three boohs show Alfred recruiting, reconnoitering, and planning for the all-out battle with the entire Danish army. Boohs V and VI tell of the battle at Ethandune, while booh VII relates how the routed West Saxons rallied and with heavenly help win the day. To balance the brief account of Alfred’s encounters with the heathen in the first booh, the last part of the eighth records how the [[archetypes/king|king]] checked the invaders in 892-96. Chesterton could have focused only on Ethandune. Instead he depicts Alfred continuously at work preparing for the return of the Danes who, in fact, assaulted his kingdom during the last decade of his rule. In this allotment of material, Chesterton puts a bloody stress on Ethandune and gives his poem proper balance and proportion.  
+While integrating the events and legends related by the chroniclers, Chesterton embellishes the Ballad by the inclusion of preternatural and magical charms. Since it is common knowledge that the Gaels and the Northmen of the ninth century held strange beliefs, Colan’s superstition and Elf’s [[Magic|magic]] [[Sword|sword]] abet the genuineness of the narrative even while introducing elements from a fairy world. [[motifs/supernatural|Supernatural]] intervention accounts for the victory of the Christians, as [[motifs/well|well]] as for the subsequent [[concepts/conversion|conversion]] of Guthrum.  
+The characters are an intriguing assemblage. They stand out before us alive—deftly drawn by a few strokes of the poet’s pen. In presenting the Saxon Eldred, the Roman Mark, and the Gaelic-Welsh Colan, he suggests the characteristics of their races and sustains these features each [[motifs/time|time]] the chieftains appear. Mary’s presence and effectiveness in books I and VII are ineffable. The irascible woman in the forest serves as a foil to Alfred’s humble forbearance (IV:161-279). Among the Danish leaders, [[archetypes/king|King]] Guthrum, educated in the Latin tongue, possesses a more discerning [[concepts/nature|nature]] than the three earls: Harold, Ogier, and Elf. While looking at things as they are, he is not impelled by hatred. He is thoughtful, seeks [[concepts/truth|truth]], yet is despairing. Chesterton describes Guthrum quite thoroughly, not only because he is the war-chief, but also to prepare us for his embracing [[historical-references/christianity|Christianity]] (ASC).  
+Chesterton achieved [[unity]] in this [[forms/epic|epic]] by binding together its episodes by a common relationship to Alfred who is responding to a message from Mary.  
+“But out of the mouth of the Mother of God  
+I have seen the [[concepts/truth|truth]] like [[motifs/fire|fire]],  
+This—that the sky grows darker yet  
+And the sea rises higher.”  
+(II:153-56)  
+The [[archetypes/king|king]] excels in martial pursuits as [[motifs/well|well]] as in peacetime achievements. From Alfred’s skirmishes with the enemy in the first booh to his triumphant ride into [[settings/london|London]] in the eighth, readers follow his deeds with interest.  
+Considered under the Coleridgian concept of organic [[unity]], the poem has atmosphere, continuous moral concern, chronological continuity of the main events and characters, references hack and forward to people and occurrences, and links between tales and legends. In commenting on “the satisfactory character of a poem” Coleridge suggests it should “produce the pleasurable interest which it is the peculiar business of poetry to impart” ([1817]1907,2:6). “It must be one, the parts of which mutually support and explain each other; all in their proportion harmonizing with, and supporting the purpose and known influences of metrical arrangement—The reader should be carried forward. . . by the pleasurable activity of mind excited by the attractions of the [[motifs/journey|journey]] itself. . . . Like the motion of a serpent,. . . at every step he pauses and half recedes, and from the retrogressive movement collects the force which again carries him onward” ([1817] 1907,2:10-11). Chesterton uses this serpentine movement frequently. Observe how it emphasizes and clarifies meaning and feeling. Note how the second stanza looks back at the previous one while moving forward:  
+But halted in the woodways  
+[[characters/christ|Christ]]’s few were grim and grey,  
+And each with a small, far, bird-like sight  
+Saw the high folly of the fight;  
+And though strange joys had grown in the [[motifs/night|night]],  
+[[concepts/despair|Despair]] grew with the day.  
+And when white [[motifs/dawn|dawn]] crawled through the wood,  
+Like cold foam of a flood,  
+Th en weakened every warrior’s mood,  
+In [[concepts/hope|hope]], though not in hardihood;  
+And each man sorrowed as he stood  
+In the fashion of his [[motifs/blood|blood]].  
+(V:46-57)  
+“Finally, good sense is the [[concepts/body|body]] of poetic genius, fancy its drapery, motion its life, and [[concepts/imagination|imagination]] the [[motifs/soul|soul]] that is everywhere, and in each; and forms all into one graceful and intelligent whole” ([1817] 1907,2:13).  
+Chesterton displays all the marks of poetic genius mentioned by Coleridge. Good sense is shown in his choice of Alfred “boldly and cautiously defending his kingdom.” Wisdom is apparent in his use of the ballad stanza to relate his romantic tale. Fancy is evident in surprising ways. Particularly noteworthy is the appearance of the Mother of God in book VII. [[concepts/imagination|Imagination]] is truly everywhere. Here it has a humorous turn:  
+A mighty man was Eldred,  
+A bulk for casks to fill,  
+His face a dreaming furnace,  
+His [[concepts/body|body]] a walking [[motifs/hill|hill]].  
+(II:42-45)  
+GK splashes his pages with color (III:108-11), makes his stanzas reverberate with sound (VII:225-234), and hurries his readers on into the heart of the battle (VII:179-94); re-creating at the same [[motifs/time|time]] the atmosphere and setting of ninth century England. His use of alliteration, kennings, and words of Anglo-Saxon and Middle English origin effectively flavor and enliven this story of West Saxon times. Critics, commenting on the BWH, “cannot believe that verse in which the living spirit of balladry exults more simply in its strength than ever since Scott will wholly disappear” (Times Literary Supplement, 7 November 1936). John Raymond asserts, “Alfred will be making his [[topoi/last-stand|last stand]] at Ethandune long after the sun has gone down on Notting [[motifs/hill|Hill]] and the Flying Inn” (Conlon 1987,161).  
+ii  
+Aerial View of the White [[motifs/horse|Horse]], Uffington, Berkshire Courtesy of the British Information Services  
+But he only pointed: bade them heed  
+Those peasants of the Berkshire breed,  
+Who plucked the old [[motifs/horse|Horse]] of the weed  
+As they pluck it to this hour.  
+(VIII:180-83)  
+“Towards the west, above Uffington, the hills reach a culminating point of 856 feet in White [[motifs/horse|Horse]] [[motifs/hill|Hill]]. In its northern flank, a gigantic figure of a [[motifs/horse|horse]] is cut, the turf being removed to show the white chalky sub-soil beneath. . . . It is 374 feet long and of the rudest outline, the neck, [[concepts/body|body]] and tail varying little in width. Its origin is unknown” (Encyclopaedia Britannica 11 ed. s.v. “White [[motifs/horse|Horse]]”). In the Prefatory Note to the Ballad, Chesterton asserts that “a tradition connects the ultimate victory of Alfred with the valley in Berkshire called the Vale of the White [[motifs/horse|Horse]].” Thomas Hughes (1822-1896), a native of the locality, recorded this tradition associated with the Vale: “Here [there are] legends connecting [the White [[motifs/horse|Horse]]] with the name of our greatest [[archetypes/king|king]], and with his great victory over the Pagans, and a festival which has been held at very short intervals ever since the ninth century” (1859, viii-ix). This written evidence confirms the Berkshire White [[motifs/horse|Horse]] as the one Chesterton selected for his [[forms/epic|epic]] of Alfred. It also corrects statements made by distinguished English writers. Patrick Braybrooke recognizes the Wiltshire [[motifs/horse|horse]]: “There have been many white horses, but there is The White [[motifs/horse|Horse]], and he lies [[Alone|alone]] on the side of a [[motifs/hill|hill]] down Wiltshire way” (1922,68). Christopher Hollis also missed Chesterton’s many references to the location of the battle. “There are a number of White Horses scattered about. . . but there are two of immemorial antiquity—the Wiltshire White [[motifs/horse|Horse]] above Westbury and the Berkshire White [[motifs/horse|Horse]] above Wantage. It is characteristic of Chesterton’s carelessness about detail that he never in his Ballad makes up his mind which of these horses was the scene of the battle and talks indifferently of ‘Berkshire hinds’ and of finding the [[motifs/horse|horse]] ‘along the [[motifs/road|road]] to Frome’ ” (1970,149). Dudley Barker (1973) as [[motifs/well|well]] as [[characters/michael|Michael]] Coren (1989) also mistakenly refer to the [[motifs/horse|horse]] in Wilts. On the contrary, Chesterton in the poem invariably pinpointed White [[motifs/horse|Horse]] [[motifs/hill|Hill]] and the Vale of the White [[motifs/horse|Horse]] in Berkshire as the location of Ethandune. In his final proof reading of VIII: 181 he changed Wessexto Berkshire (Chesterton Archives). The Westbury White [[motifs/horse|Horse]], Wiltshire, has no place in Chesterton’s [[forms/epic|epic]].  
+In his Autobiography Chesterton mentions seeing the White [[motifs/horse|Horse]] while he was electioneering in its vicinity (1936, 127-28). Elsewhere he says that the White [[motifs/horse|Horse]] may have been picked out of the grass in a previous “geological age before the sea burst through the narrow Straits of Dover. . . . That rude but evident white outline that I saw across the valley may have been begun when Britain was not an island” (1911,256). On another occasion GKC points out that it is local patriotism that keeps alive “the [[motifs/memory|memory]] of Alfred in that noble Berkshire valley where the White [[motifs/horse|Horse]] has been picked clean of grass continuously for a thousand years” (Illustrated [[settings/london|London]] News, 8 August 1908).  
+Chesterton personifies the [[motifs/horse|Horse]] in the opening stanzas of The Ballad of the White [[motifs/horse|Horse]]. The White [[motifs/horse|Horse]] “looked on,” he “knew England,” he “saw the first oar break or bend.” Two verses from a rejected stanza, originally placed after 111:372, portray the White [[motifs/horse|Horse]] as figuratively alive.  
+The White [[motifs/horse|Horse]] struggles in the grass  
+The White [[motifs/horse|Horse]] whinnyeth  
+(Chesterton Archives)  
+From his vantage point on the brow of White [[motifs/horse|Horse]] [[motifs/hill|Hill]], the [[motifs/horse|Horse]] looks down upon Berkshire’s valley of decision. When Alfred’s men are winning, “the White [[motifs/horse|Horse]] stamps in the White [[motifs/horse|Horse]] Vale.” In the eighth book  
+The still-eyed [[archetypes/king|King]] sat pondering,  
+As one that watches a live thing,  
+The scoured [[motifs/chalk|chalk]];  
+(VIII:233-35)  
+Here Alfred speaks directly to the [[motifs/horse|Horse]] about a vision of the return of the heathen.  
+[[historical-references/king-alfred|King Alfred]] the Great very probably knew the White [[motifs/horse|Horse]]. Born at Wantage, a few miles east of the [[motifs/hill|Hill]], he must have seen it often while hunting or traveling in the vicinity. One should look up before ascending the [[motifs/hill|Hill]], because the White [[motifs/horse|Horse]] is too large to be seen in its entirety at close range. [This [[motifs/hill|hill]]-top site is a country park with ample parking within a few hundred yards of the [[motifs/horse|Horse]]. Admission is free.]  
+The White [[motifs/horse|Horse]] may serve as a readers’ scoreboard which reveals whether the Christians or the pagans are in command. If the [[motifs/horse|Horse]] lies unkempt, the Danes are lording it over Wessex.  
+The great White [[motifs/horse|Horse]] was grey,  
+For it was ill scoured of the weed;  
+And lichen and thorn could crawl and feed,  
+Since the foes of settled [[house]] and creed  
+Had swept old works away.  
+(III:33-37)  
+But if the White [[motifs/horse|Horse]] is as white “as the first plume of the snows” (VIII:138), the countryside is at peace. Repeated scourings remind people that they can no more stop evil from cropping up in the nation, in politics, and in themselves, than they can prevent weeds from growing on the [[motifs/horse|Horse]] by uprooting them but once (VIII:184-87). No, this cannot be, for weeds shall grow in England “faster than men can hum.” So, ’  
+If we would have the [[motifs/horse|horse]] of old,  
+Scour ye the [[motifs/horse|horse]] anew.  
+(VIII:206-7)  
+Just how do readers feel about the White [[motifs/horse|Horse]]? A random sampling shows a diversity of opinions. To one the galloping [[motifs/horse|Horse]] is a symbol of the aliveness and forward movement of the English nation. Thomas Hughes regarded it as a presence which is worthy of respectful attention. Celeste Desmond states, “Chesterton uses the White [[motifs/horse|Horse]] as a symbol as [[motifs/well|well]] as a landmark—a symbol of the conserving power of [[historical-references/christianity|Christianity]] in opposition to the destructive forces of a many-headed Paganism” (1958,2). Douglas Woodruff sees the old White [[motifs/horse|Horse]] of Uffington as “a symbol of all the human inheritance of the past.” Christopher Hollis thinks [Chesterton] “took the white [[motifs/horse|horse]] as the symbol of continuing English life” (1970,149). Patrick Braybrooke believes, “The White [[motifs/horse|Horse]] stands for something that year by year we are forgetting, those quaint old English feasts that have done so much to make England merry, and have made [[concepts/history|history]] into a beautiful legend that bears the name of Alfred” (1922,68). Garry Wills shares these insights: “The figure of the White [[motifs/horse|Horse]] on the [[motifs/hill|hill]] is a sacrament meant to reveal Alfred’s [[motifs/love|love]] of his native earth in all its autonomy” (1961,141). To Professor Wills the White [[motifs/horse|Horse]] is unfathomable: “An honest mind will soon disappear into the depths of that richest of Chesterton’s symbols” (1961,132).  
+Every biographer refers to the number of white horses which have played a part in Chesterton’s existence. Writing of Irirnself in 1926, GK said, “To this day I can never see a big white [[motifs/horse|horse]] in the street without a sudden sense of indescribable things” (1929,165). In an analytical mood he comments: “There are, as we say, certain real advantages in pictorial symbols, and one of them is that everything that is pictorial suggests without naming or defining. There is a [[motifs/road|road]] from the eye to the heart that does not go through the intellect” (1906,77-78).  
+iii  
+Chesterton was thirty-seven when The Ballad of the White [[motifs/horse|Horse]] came off the press in 1911. He labored in between times from 1901 until 1911 in planning, researching, and writing the Ballad. In addition to his contributions to newspapers and periodicals, he published twenty-two books. His sustained attention to the [[forms/epic|epic]] of Alfred the Great [2683 lines] is unassailable proof that he could and did take trouble with his writing. Ronald Knox called it a “polished performance.”  
+Although Chesterton may have begun research even earlier on the poem, it is probable the Millenary of [[historical-references/king-alfred|King Alfred]]’s [[motifs/death|death]] inspired and motivated him to write The Ballad of the White [[motifs/horse|Horse]] in honor of “England’s darling.” [26 October 1899 was the actual date of the anniversary.]  
+
+NATIONAL COMMEMORATION 1901  
+17 September Tuesday Exhibition at the British Museum  
+Program at Winchester  
+18 Visit to the ancient Westgate, Winchester [[settings/castle|Castle]], etc.  
+19 Visit to Wolvesey, site of the palace of the Saxon kings  
+20 Procession Unveiling of Statue Address by the Earl of Rosebery  
+21 Visit to St. [[motifs/cross|Cross]] [[motifs/garden|Garden]] party at Stratton  
+Two of Chesterton’s essays about Alfred the Great show his awareness of the Commemoration. His earlier article quotes Lord Rosebery as saying that the personality of Alfred was peculiarly English: “The great magnificence of the English character is expressed in the word ‘service’ ” (1905,203). In the later account (Ward 1933,56-64), he recalls the 1901 celebrations in both the United States and Great Britain. See E VII:54-55.  
+Chesterton had a special interest in epics during the opening years of the century. His précis of famous epics are brilliant: “Every great literature has always been allegorical—allegorical of some view of the whole universe. The ‘Iliad’ is only great because all life is a battle, the ‘Odyssey’ because all life is a [[motifs/journey|journey]], the Book of Job because all life is a [[forms/riddle|riddle]]” (1906,47).  
+In [[characters/father-brown|Father Brown]] on Chesterton John O’Connor informs us that in March 1904, after he and Mr. Chesterton had walked across the moors to the Steinthals, Mrs. Chesterton told him about “the [[forms/epic|Epic]] in contemplation.” Since he was writing about 35 years after the fact, it is not surprising that he has rearranged events and misdated them also. Fortunately, Father O’Connor’s 6 December 1903 letter in the Chesterton Archives sets the record straight. Chesterton’s Keighley lecture was on [[thursday|Thursday]], 3 December 1903. Their walk together across the moors to Steinthals’s residence on the following day was on 4 December 1903, not in March 1904. Father O’Connor’s remark in the 6 December 1903 letter to Mrs. Chesterton, “I [[concepts/hope|hope]] he got [[motifs/home|home]] to you undamaged and with his cold better,” proved that Mrs. Chesterton was in Battersea not in Ilkley when the two men arrived that December day. It follows that Father O’Connor’s remarks about the Ballad belong to a later occasion when the three were present. The 14 February 1904 letter from Fr. O’Connor to Mrs. Chesterton says: “I [[concepts/hope|hope]] to see you both at Easter [3 April] in Ilkley.” Was it during this visit to the Steinthals that Frances, between lunch and tea, delighted Father O’Connor with samples from the ballad [[forms/epic|epic]] of Alfred? Frances also told Father O’Connor on that occasion that “a deal [of the [[forms/epic|epic]]] was already composed” (O’Connor 1938,30). “All through the ensuing year Gilbert kept planning and adding to the [[forms/epic|Epic]] of Alfred, now extant as The Ballad of the White [[motifs/horse|Horse]]” (O’Connor 1938,31).  
+In Alarms and Discursions there are essays about Ethandune, Athelney, White Horses, and Glastonbury which give evidence of his trips [[Alone|alone]] or with his wife to “the battle-places and hiding places” of Alfred the Great. He was killing two [[motifs/birds|birds]] with one stone: writing for the newspapers and doing research on The Ballad of the White [[motifs/horse|Horse]].  
+Chesterton’s veiled reference to the Ballad in his Autobiography reveals his inner thoughts and feelings about the “primitive things” revolving in his mind.  
+For all this funny little fuss of politics was in this case spread out like a sprawling sham fight. . . . For I remember the faint and hazy inspiration that troubled me one evening on the [[motifs/road|road]], as I looked beyond the little [[characters/hamlet|hamlet]], patched so incongruously with a few election posters, and saw hung upon the hills, as if it were hung upon the heavens, remote as a pale cloud and archaic as a gigantic hieroglyph; the White [[motifs/horse|Horse]] (1936,127-28).  
+In the Chesterton Archives an early title of the poem is given as The [[forms/epic|Epic]] of the White [[motifs/horse|Horse]]. Six microfiche (F22-F27) contain holograph copies of passages of the Ballad, stanzas copied by his wife, and a typescript of the poem. The evidence is there of sufficient minute corrections: insertions and deletions of stanzas, phrases, and words to convince everyone that Chesterton took infinite pains in composing and revising his [[forms/epic|epic]] of Alfred. Christopher Hollis’s statement that Chesterton wrote it in a fortnight may be true of the final version in 1911 (1970,151). Father O Connor mentions how the completed copy was given to him for appraisal in July 1911. Methuen published 1500 copies on 31 August 1911. [A second and third edition were called for in October and November 1911, with a fourth reprinted in 1912. John Lane brought out the first of many American editions in 1911.]  
+There is a facetious reference to the Tryggvhessa Saga in a letter Chesterton wrote to Frances on 11 July 1899. Could this suggest that he was doing background research on the Vikings in preparation for writing his [[forms/epic|epic]]? (Ward 1943,109-10)  
+From the foregoing it seems credible that Chesterton worked off and on for at least ten years researching and composing his tribute to the great Alfred who “rules England to the doom.”  
+iv  
+But who shall look from Alfred’s hood  
+Or breathe his breath alive?  
+His century like a small dark cloud  
+Drifts far; it is an eyeless crowd,  
+Where the tortured trumpets scream aloud  
+And the dense arrows drive.  
+(D:41-46)  
+Determining the true site of Alfred’s victory in 878 is still vexing Wessex antiquarians in the twentieth century. Chesterton’s choice of the Vale of the White [[motifs/horse|Horse]] in Berkshire exposed him to the wrath of the archaeologists of Wilts and Somerset. To forestall unpleasantness, he declared in his preface, “This ballad needs no historical notes.” A careful reading of the Prefatory Note reveals that GK is emphasizing tradition not denying [[concepts/history|history]]. In fact in his Autobiography he says the [[forms/epic|epic]] concerns “the genesis of all our [[concepts/history|history]]” (1936, 127-28). [Maurice Baring affirms this, “It is historical in the true sense of the word, in that it aims at and achieves seizing the spirit if not the letter of [[concepts/history|history]]” (Eye Witness, 7 September 1911,378).]  
+To discern why Chesterton penned that alibi, one must be aware of the wrangling among the antiquarians from Somerset, Wiltshire, and Berkshire regarding the location of Alfred’s great victory at Ethandune. Chesterton knew his selection of Berkshire would provoke an outcry. Yet his decision to place Ethandune in the Berkshire Vale of the White [[motifs/horse|Horse]] preceded every other consideration. He side-stepped the issue by the following explanation: “I write as one ignorant of everything, except that I have found the legend of a [[archetypes/king|King]] of Wessex still alive in the land. . . . A tradition connects the ultimate victory of Alfred with the valley in Berkshire called the Vale of the White [[motifs/horse|Horse]]” (Prefatory Note). Was there belated appeasement for the Wiltshire faction in his 1933 [[forms/essay|essay]] on “Alfred the Great?” “He [Alfred] gradually gathered round him the remnants of the Christian population, and in the [[motifs/spring|spring]] of 878 appeared suddenly with an army before the Danish camp at Ethandune, possibly Edington [Wiltshire]; smashed in their palisades, captured their royal leader and bis raven banner, and imposed on him the famous treaty of Wedmore, by which he and his people were baptized and withdrew their forces from Wessex, retaining only lands further to the north and east” (Ward 1933,57).  
+Not long before the publication of The Ballad of the White [[motifs/horse|Horse]], Chesterton wrote in the Illustrated [[settings/london|London]] News about these opposing claims for the site of Ethandune:  
+Mr. Greswell argues from the place of surrender, if, he says, the fight occurred in Wiltshire, why was the treaty at Wedmore and not at Chippenham? If I remember aright, Mr. Oman, in bis book on England before the Conquest, maintains that the surrender and treaty were made at the Wiltshire town, and not at Wedmore at all. He even calls the Treaty of Wedmore the Pact of Chippenham, which is a very desperate and ruthless thing to do. Whether or no he is right to maintain this, I am, of course, quite unfitted to discuss. But if he is right, it would get over this one objection of Mr. Greswell, the Somerset champion. I use the last phrase for the sake of brevity; I [[concepts/fear|fear]] it sounds rather pugilistic. But if people will start quarrels. . . about battles long ago the pugilistic atmosphere is difficult to avoid. I only say that nothing will induce me to interpose my person between Greswell, the Somerset Bruiser, and Oman, the Wiltshire Pet. (19 November 1910,633)  
+Evidence that Chesterton knew before the publication of the poem that the decisive battle of Ethandune was probably fought near Chippenham in Wutshire is found in the concluding paragraph of his [[forms/essay|essay]] on Ethandune: “It gave me a queer emotion to think that, [[Sword|sword]] in hand, as the Danes poured with the torrents of their [[motifs/blood|blood]] down to Chippenham, the great [[archetypes/king|king]] may have lifted up his head and looked at that oppressive shape” (1911,230).  
+Appreciating Chesterton’s [[motifs/desire|desire]] to feature the Berkshire White [[motifs/horse|Horse]] in his [[forms/epic|epic]] and his aversion to hurt the feelings of his countrymen in Somerset and Wilts who were quite certain that the battle of Ethandune occurred within their confines, points up the predicament which occasioned his declaration “this ballad needs no historical notes.” But this misleading statement led some reviewers and critics to misinterpret the poem.  
+The learned English archaeologists and antiquarians feel very strongly about historical accuracy. Consider the exchanges between various claimants: John Thurman, “On the Barrow at Lanhill near Chippenham, with Remarks on the Site of, and on the Events Connected with the Battles of Cynuit and Ethandune, A.D. 878,” Wiltshire Archaeological and Natural [[concepts/history|History]] Magazine 3(1857):67-86. [Yatton favored as the site of the Battle of Ethandune.] George Matcham, “The [[historical-references/battle-of-ethandun|Battle of Ethandun]],” Wiltshire Archaeological and Natural [[concepts/history|History]] Magazine 3(1857): 175-88. [Favors Ethandune (Edington). He was correct.] G. Poulett Scrope, “The [[historical-references/battle-of-ethandun|Battle of Ethandun]],” Wiltshire Archaeological and Natural [[concepts/history|History]] Magazine 3(1857):298-308. [Acrimoniously disagrees with Mr. Matcham.] In 1875 we find Bishop William [[characters/clifford|Clifford]], inquiring again into the real “Site of the Battle of Aethandune.” His opening sentences cogently express why this battle deserves [[forms/epic|epic]] treatment: “The battle of Aethandune, which took place in the year 878 between the English under [[archetypes/king|King]] Aelfred and the Danish army under Gothrum, may justly be regarded as one of the most important events in our national [[concepts/history|history]]. The existence of the English as a nation was decided on that day” Proceedings of the Somersetshire Archaeological and Natural [[concepts/history|History]] Society 21:1. Thirty years later, W. L. Radford writing in the same Somersetshire Proceedings probes again into the location of Ethandune. Athelney in Somerset is where [[historical-references/king-alfred|King Alfred]] hid out while rallying his supporters. Aller and Wedmore, also in Somerset, have historic interest, too. Guthrum was baptized at Aller, and the chrism-loosing occurred at Wedmore eight days later. Mr. Radford believed that the decisive battle was also fought nearby 51(1905):169-80. Dr. B. G. Grundy in “Ancient Highways and Tracks of Wilts, Berks, and Hants, and the Saxon Battlefields of Wilts” placed the battle of Ethandune on the down at Bratton [[settings/castle|Castle]] in Wiltshire. He includes sketches of the preliminary movements of the Wessex army. Archaeological Journal 75(1918):178-81 [The eminent historians Hodgkin and Stenton approved of Dr. Grundy’s reconstruction.] Lieutenant Colonel Alfred Burne in “Ancient Wiltshire Battlefields: Ellandun—Ethandun” applies the test of inherent military probability to alternative sites for the battle of Ethandune. He accepts Dr. Grundy’s equating Ethandune with Edington. Wutshire Archaeological and Natural [[concepts/history|History]] Magazine 53(1950):397-412.  
+Timothy Wilson [[smith|Smith]] calls our attention once again to the battle of Ethandune in “[[historical-references/king-alfred|King Alfred]]: An Eleventh Centenary,” [[concepts/history|History]] Today 28(1978): 423-28. The commemorations continue of Alfred’s birth, [[motifs/death|death]], and of his victory at Ethandune. It is to Chesterton’s credit that he reared the marvel of The Ballad of the White [[motifs/horse|Horse]] over Alfred such as the  
+great Vergilius  
+Wrought for the Roman [[archetypes/king|king]].  
+(VIII:271-72)  
+v  
+In a letter written to his fiancé in 1901, Chesterton solemnly dedicated his pen to the spreading of [[concepts/truth|truth]]. “All the same, my dear, this is a great and serious hour [the burial of [[characters/queen|Queen]] Victoria] felt so completely by all England that I cannot deny the enduring wish I have,. . . to renew. . . private vows of a very real character to do my Lest for this country of mine which I [[motifs/love|love]] with a [[motifs/love|love]] passing the [[motifs/love|love]] of Jingoes. It is sometimes easy to give one’s country [[motifs/blood|blood]] and easier to give her money. Sometimes the hardest thing of all is to give her [[concepts/truth|truth]]” (Ward 1943,144). Chesterton fulfilled his private vows to do his best for his native land by composing the ballad [[forms/epic|epic]] of Alfred the Great.  
+■   ■   ■  
+In [[characters/father-brown|Father Brown]] on Chesterton Father John O’Connor describes a memorable moment in his life. “I was confused, and then transfused with sober delight, when one July evening [1911] at Overroads, Beaconsfield, he [GKC] put the whole MS. of the Ballad into my hands, and Mrs. Chesterton explained that I was to censor it, as so much of mine was in it” (1938,67).  
+How Father John O’Connor of Yorhs became acquainted with the Chestertons in Battersea is revealed through letters found in the G. K. Chesterton Archived.  
+xi II 03  
+St. Ann’s Keighley,  
+Yorks  
+Dear Mr. Chesterton,  
+In the language of the responsive and discerning person who arranged Buck Fanshaw’s funeral, I like you, and advised by the Autocrat of the Breakfast-table I make bold to tell you so.  
+I am a Catholic priest, and though I may not find you quite orthodox in details, I first wish to thank you heartily, or shall I say, to thank God for having gifted you with the spirituality which [[Alone|alone]] makes literature immortal, as I think. I have not been so edified by prose work since I read Coventry Patmore’s Essays a few years since. My appreciation is based on ‘The Defendant’ and ‘Twelve Types’. When in the former book I met the phrase ‘the foolish and valiant heart of man’, I said to myself: ‘Blessed be God’, for that is often the only word that relieves my feelings. I can say no more except that even yet it gives me new pleasure to think it over. But I find many a kernel of brain renewing or heart renewing sweetness in your books. Francis, Savonarola, Walter Scott, your ‘types’ do appeal to me especially, but all through the latter book I find a keynote running ‘Oh! folly of [[motifs/love|Love]], the intense last culmination of intelligence’.  
+But as you think immortal thoughts I [[concepts/hope|hope]] you will distill them into verse some day. I feel very much impelled to send you a faulty [[forms/sonnet|sonnet]] I made last year containing the same keynote as so many of your essays. But I forbear, as I don’t know whether this will reach you, or if you care for such things, and I dread above all things to knock up against what D’Annunzio calls ‘inconsapevolezza’.  
+Very truly yours,  
+J. O’Connor  
+Father O’Connor was probably 33 and Gilbert 29 when this letter was sent. How affirmed Chesterton must have felt when he read: “I first wish to thank you heartily, or shall I say, to thank God for having gifted you with the spirituality which [[Alone|alone]] makes literature immortal, as I think. I have not keen so edified by prose work since I read Coventry Patmore’s Essays a few years since.” Here is a person acquainted with American, British, and Italian writers recognizing GK’s inner giftedness and extolling his essays. Is it any [[concepts/wonder|wonder]] that Chesterton wanted to meet him?  
+Eight months later:  
+iv X 03  
+St. Ann’s Keighley  
+Dear Mr. Chesterton,  
+It was a most pleasant surprise to me to read your letter with the good news it contains. I see by our Literary etc. Soc. Prospectus that you are lecturing to us in December. Prosit Amen.  
+Certainly you may come and see me. You are hereby cordially invited. Are you the guest of any member of the K. L. S.? If you are, so; if not, though I am hut a salaried minion of this establishment, I may get you put up for the [[motifs/night|night]] here. The rector is the uncle to Walter Crawley, who spoke as though he had met you more than once. [Four paragraphs omitted]  
+Yours very sincerely,  
+J. O’Connor  
+This is the beginning of a lifelong [[concepts/friendship|friendship]]. In [[characters/father-brown|Father Brown]] on Chesterton, Father O’Connor writes about their many conversations, including his influence on the composition of the Ballad and of his slight connection with the [[characters/father-brown|Father Brown]] [[archetypes/detective|detective]] stories.  
+■   ■   ■  
+Celeste Desmond contributed to the analysis of the prosody of The Ballad of the White [[motifs/horse|Horse]] when she completed a master’s thesis on the Ballad. Chapter III, “Structures of Sound,” details the quantitative and qualitative elements of the 280 lines of Book II. Interested persons may examine this thesis in the Mullen Library, Catholic University of [[settings/america|America]], Washington, D.C.  
+■   ■   ■  
+Julius West pleads with readers to respect the living wholeness of GK’s [[Poems|poems]]. “There is a [[concepts/temptation|temptation]] to treat. . . most of Chesterton’s [[Poems|poems]], with special reference to their technique, but we must resist this [[concepts/temptation|temptation]]. . . . To give way to it would be to commit a form of vivisection. GKC is not a text, praise be, and whether he lives or dies, long may he be spared the hands of an editor or interpreter who is also an irrepressible authority on anapests and suchlike things” (1915,106).  
+Although Celeste Desmond practiced “vivisection” in me third chapter of her thesis, her final paragraph acclaims: “Structures of meaning and structures of sound have been explored and discoveries given. Yet, the most striking single feature of the ballad remains its ‘organic’ form, that is. . . such perfect fitting together of structural elements and meanings as will produce for a mind that contemplates the completed structure a sense of perfect harmony and consistency” (1958, 45-46).  
+■   ■   ■  
+As one ponders the commentaries on Chesterton’s [[forms/epic|epic]] of Alfred, the appraisals reveal its riches and the discernment of its critics. Two quotations, both from the Times Literary Supplement of [[settings/london|London]] are poles apart in their evaluations. The 31 August 1911 review praises the poetry but objects to Chesterton’s method:  
+We are aware all trie while that Mr. Chesterton is trying to explain his ideas to us, and we see him behind all his Danes and Saxons. . . . At the end Alfred prophesies now ‘in some far century, sad and slow’, the heathen will come hack in a new guise to threaten [[concepts/faith|faith]] and civilization again. When he does this the voice of Mr. Chesterton is clearer than ever and we know that he is telling us of our present sins.  
+A contrary viewpoint appeared shortly after GK’s [[motifs/death|death]]:  
+Criticism is in daring mood when it undertakes to deliver certificates of [[concepts/immortality|immortality]]. . . . But perhaps among the passages that will he remembered is that in which the disguised Alfred answers the heathen minstrels with the essence of the poet’s own [[concepts/faith|faith]]:  
+“That though you hunt the Christian man  
+Like a hare on the [[motifs/hill|hill]]-side,  
+That hare has still more heart to run  
+Than you have heart to ride.  
+“That though all lances split on you,  
+All swords he heaved in vain,  
+We have more lust again to lose  
+Than you to win again.  
+(III:335-42)  
+He could always find those [[motifs/grave|grave]] and simple words for prose as for verse when his heart was most deeply stirred. And words of that stamp are seldom written in [[motifs/water|water]]. (7 November 1936)  
+An annotated edition of the BWH would have enabled two critics in the [[settings/new-york|New York]] Times Book Review to recognize the [[forms/epic|epic]]’s historical background. The linguistic observation of the first reviewer is striking:  
+It is being debated in [[settings/london|London]] literary clubs whether ‘The Ballad of the White [[motifs/horse|Horse]]’ will live longer than the author’s essays and biographies. It is more than an [[forms/epic|epic]] poem related in simple narrative form. It is an attempt to do what Balzac did when he told his friends that he had discovered a rare MS of stories written in fifteenth century French, deceived everybody, and then confessed himself to be the author. Although the orthography of Mr. Chesterton’s ballad would prevent it from taking in a philologist, the style and coloring are as good as any of Chatterton’s imitations. But, as the author says in his preface, it needs no historical notes. The career of [[historical-references/king-alfred|King Alfred]], which is the theme, unlike that of [[characters/king-arthur|King Arthur]], is not a legend, although legends are the most important things about him. Mr. Chesterton has now augmented the list. (3 December 1911)  
+Chesterton is partly to blame for this estimate. He misled the American reviewers by saying “This ballad needs no historical notes.” The second review on 4 February 1912 begins:  
+And poetry is still being written. If any [[concepts/doubt|doubt]], let him read Gilbert K. Chesterton’s ‘Ballad of the White [[motifs/horse|Horse]]’. It is based upon legends told of Alfred the Great, and is (with the exception of some talky-talky monologues on the part of [[historical-references/king-alfred|King Alfred]]) a rattling good poem of religion and war—two excellent things that in their purity usually go together. Here and there stanzas stand out in fairly startling relief. . . . ‘The Ballad of the White [[motifs/horse|Horse]]’ is too long. There is good stuff even in its redundancies, but that is beside the point. If Mr. Chesterton had had the resolution to lop it discriminately, he might have produced one of the most robustly picturesque [[Poems|poems]] of the century.  
+■   ■   ■  
+The Anglo-American Pulitzer prize poet, W. H. Auden, approves of the length: “In the case of his longest and perhaps, greatest serious poem, ‘The Ballad of the White [[motifs/horse|Horse]]’, I do not, however, I am happy to say, find the length excessive. When, for example, Elf the Minstrel, Earl Ogier, and Guthrum express in turns their conceptions of the Human Condition, what they sing could not be further condensed without loss” (Cordon 1987,319).  
+■   ■   ■  
+Professor Garry Wills, an eminent Chestertonian, perceives Alfred’s openness to God’s plans (1961,142):  
+Alfred’s vision at Athelney is only the beginning of the revelation, in and through him, of this Christian mysticism. The poem builds to a higher vision at its climax, the center of calm light in which a [[archetypes/child|child]] plays—an odd, idyllic interlude placed dramatically in a setting of war and slaughter. It is this white light which fires the motley colors of battle and [[concepts/heroism|heroism]] and victory. Every line of the poem leads to that vision or follows from it. Alfred expresses a new facet of it in each episode.  
+Thirty years later Garry Wills laments: The Ballad of the White [[motifs/horse|Horse]] is a “neglected masterpiece in narrative verse” 107 (1990):532.  
+■   ■   ■  
+Space permits only brief selections from the [[characters/chorus|chorus]] of admirers: C. S. Lewis asserts the poem is “permanent and dateless”: “Does not the central theme of the Ballad—the highly paradoxical message which Alfred receives from the Virgin—embody the feeling, and the only possible feeling, with which in any age almost defeated men take up such arms as are left them and win?” (Cordon 1987,71). James Dollard, while extolling the “masculine vigor and purity of tone,” predicts “The Ballad of the White [[motifs/horse|Horse]] will continue to perpetuate the name of the author down through future years, and be treasured as a classic of English literature” Catholic World 95 (April 1912):41-55.  
+Reflect, too, on Christopher Hollis’s insightful summation:  
+The Ballad of the White [[motifs/horse|Horse]] tells the story of the battle of Alfred and his Christian army against the heathen Danish invaders and their defeat of them at the battle of Ethandune in the [[archetypes/shadow|shadow]] of the White [[motifs/horse|Horse]], but it is far more than a mere account of battle and victory. It is the story of the eternal warfare against evil to which the Christian man is by the [[concepts/nature|nature]] of his profession unendingly committed. But of course it is totally to misinterpret the poem to see in it some promise of security finally achieved as a result of a victory. The whole lesson of the poem is that security can never be finally achieved. It is always of its [[concepts/nature|nature]] under challenge and [[motifs/death|death]] is always the end (1970,150).  
+[[characters/michael|Michael]] Ffinch agrees in substance with many readers: “The theme is the cause Chesterton himself had championed, the cause of Christendom against the forces of pagan darkness that constantly assail it” (1986,197). In the opinion of George N. Shuster: “ ‘The Ballad of the White [[motifs/horse|Horse]]’ is a poem to [[motifs/love|love]] and even to sing, which are more important matters than putting it on a shelf and calling it great” (1922,234).  
+
+Unities of [[motifs/time|Time]] and Place  
+Chesterton embodies prehistory, [[concepts/history|history]], tradition, legend, mythology, the [[motifs/supernatural|supernatural]], and [[Romance|romance]] in The Ballad of the White [[motifs/horse|Horse]]. While remaining faithful to [[concepts/history|history]], GKC takes liberties with the geography of Wessex. He follows a popular tradition and locates the battle of Ethandune in the White [[motifs/horse|Horse]] Vale within sight of the White [[motifs/horse|Horse]] on White [[motifs/horse|Horse]] [[motifs/hill|Hill]] in Berkshire. In Book IV Chesterton places the woman in the forest near Egbert’s Stone, several miles from her legendary [[motifs/home|home]] on the marshy island of Athelney.  
+In early 878 the Mother of God appears to Alfred on the [[motifs/river|river]] island of Athelney in Somersetshire. In the Gathering of the Chiefs Alfred first goes north toward Eldred, the Franklin by the Severn estuary, then north and east to Mark, probably in the vicinity of Bath, and lastly into southeastern Wales to Colan at Caerleon on the Usk. In the Harp of Alfred we find the disguised [[archetypes/king|king]] in Berkshire scouting the environs of the Danish camp in White [[motifs/horse|Horse]] Vale. Some carousing Danes bring him into the camp where Guthrum invites him to play and sing. Wiser after his exploratory visit, Alfred awaits the arrival of his troops. See E IV:59-60.  
+The events in Books V, VI, and VII occur 6-20 May 878 in the Valeof the White [[motifs/horse|Horse]]. Book VIII spans the interval between the baptism of Guthrum (878) and the conclusion of Alfred’s last war in 896. Action in the 892-896 conflict takes place in various sectors of Britain and along the coastal waters (VIII: 214-30,315-71, and Endnotes).  
+
 PREFATORY NOTE  
-HIS ballad needs no historical notes, for the simple reason that it does not profess to be historical. All of it that is not frankly fictitious, as in any prose romance about the past, is meant to emphasize tradition rather than [[concepts/history|history]]. [[historical-references/king-alfred|King Alfred]] is not a legend in the sense that [[characters/king-arthur|King Arthur]] may be a legend; that is, in the sense that he may possibly be a lie. But [[archetypes/king|King]] [10] Alfred is a legend in this broader and more human sense, that the legends are the most important things about him.  
-The cult of Alfred was a popular cult, from the darkness of the ninth century to the deepening twilight of the twentieth. It is wholly as a popular legend that I deal with him here. I write as one ignorant of everything, except that I have found the legend of a [[archetypes/king|King]] of Wessex [20] still alive in the land. I will give three curt cases of what I mean. A tradition connects the ultimate victory of Alfred with the valley in Berkshire called the Vale of the White [[motifs/horse|Horse]]. I have seen doubts of the tradition, which may be valid doubts. I do not know when or where the story started; it is enough that it started somewhere and ended with me; for I only seek to write upon a hearsay, [30] as the old balladists did. For the second case, there is a popular tale that Alfred played the harp and sang in the Danish camp; I select it because it is a popular tale, at whatever [[motifs/time|time]] it arose. For the third case, there is a popular tale that Alfred came in contact with a woman and cakes: I select it because it is a popular tale, because it is a vulgar one. It has been disputed by [[motifs/grave|grave]] historians, [40] who were, I think, a little too [[motifs/grave|grave]] to be good judges of it. The two chief charges against the story are, that it was first recorded long after Alfred’s [[motifs/death|death]], and that (as Mr. Oman urges) Alfred never really wandered all alone without any thanes or soldiers. Both these objections might possibly be met. It has taken us nearly as long to learn the whole [[concepts/truth|truth]] about Byron, and perhaps longer to learn [50] the whole [[concepts/truth|truth]] about Pepys, than elapsed between Alfred and the first writing of such tales. And as for the other objection, do the historians really think that Alfred after Wilton, or Napoleon after Leipsic, never walked about in a wood by himself for the matter of an hour or two? Ten minutes might be made sufficient for the essence of the story. But I am not concerned to prove the [[concepts/truth|truth]] of these [60] popular traditions. It is enough for me to maintain two things: that they are popular traditions; and that without these popular traditions we should have bothered about Alfred about as much as we bother about Eadwig.  
+HIS ballad needs no historical notes, for the simple reason that it does not profess to be historical. All of it that is not frankly fictitious, as in any prose [[Romance|romance]] about the past, is meant to emphasize tradition rather than [[concepts/history|history]]. [[historical-references/king-alfred|King Alfred]] is not a legend in the sense that [[characters/king-arthur|King Arthur]] may be a legend; that is, in the sense that he may possibly be a lie. But [[archetypes/king|King]] [10] Alfred is a legend in this broader and more human sense, that the legends are the most important things about him.  
+The cult of Alfred was a popular cult, from the darkness of the ninth century to the deepening twilight of the twentieth. It is wholly as a popular legend that I deal with him here. I write as one ignorant of everything, except that I have found the legend of a [[archetypes/king|King]] of Wessex [20] still alive in the land. I will give three curt cases of what I mean. A tradition connects the ultimate victory of Alfred with the valley in Berkshire called the Vale of the White [[motifs/horse|Horse]]. I have seen doubts of the tradition, which may be valid doubts. I do not know when or where the story started; it is enough that it started somewhere and ended with me; for I only seek to write upon a hearsay, [30] as the old balladists did. For the second case, there is a popular tale that Alfred played the harp and sang in the Danish camp; I select it because it is a popular tale, at whatever [[motifs/time|time]] it arose. For the third case, there is a popular tale that Alfred came in contact with a woman and cakes: I select it because it is a popular tale, because it is a vulgar one. It has been disputed by [[motifs/grave|grave]] historians, [40] who were, I think, a little too [[motifs/grave|grave]] to be good judges of it. The two chief charges against the story are, that it was first recorded long after Alfred’s [[motifs/death|death]], and that (as Mr. Oman urges) Alfred never really wandered all [[Alone|alone]] without any thanes or soldiers. Both these objections might possibly be met. It has taken us nearly as long to learn the whole [[concepts/truth|truth]] about Byron, and perhaps longer to learn [50] the whole [[concepts/truth|truth]] about Pepys, than elapsed between Alfred and the first writing of such tales. And as for the other objection, do the historians really think that Alfred after Wilton, or Napoleon after Leipsic, never walked about in a wood by himself for the matter of an hour or two? Ten minutes might be made sufficient for the essence of the story. But I am not concerned to prove the [[concepts/truth|truth]] of these [60] popular traditions. It is enough for me to maintain two things: that they are popular traditions; and that without these popular traditions we should have bothered about Alfred about as much as we bother about Eadwig.  
 One other consideration needs a note. Alfred has come down to us in the best way (that is by national legends) solely for the same reason as [[characters/arthur|Arthur]] and Roland [70] and the other giants of that darkness, because he fought for the Christian civilization against the heathen nihilism. But since this work was really done by generation after generation, by the Romans before they withdrew, and by the Britons while they remained, I have summarised this first crusade in a triple symbol, and given to a fictitious Roman, Celt, and Saxon, a part in the glory of Ethandune. [80] I fancy that in fact Alfred’s Wessex was of very mixed bloods: but in any case, it is the chief value of legend to mix up the centuries while preserving the sentiment; to see all ages in a sort of splendid foreshortening. That is the use of tradition: it telescopes [[concepts/history|history]].  
 G. K. C.  
+
+TO  
+MY WIFE  
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -105,7 +294,7 @@ attraverso questi giorni come deserti, quando
 l'[[concepts/pride|orgoglio]] e una piccola penna che gratta [80]  
 hanno seccato e spaccato i cuori degli uomini:  
 cuore degli eroi, cavalca.  
-Su per una vuota casa di [[motifs/stars|stelle]],  
+Su per una vuota [[house|casa]] di [[motifs/stars|stelle]],  
 essendo il cuore che sei,  
 su per le inumane erte dello spazio [85]  
 come su una scala sali in grazia,  
@@ -120,8 +309,8 @@ lungo la [[motifs/road|strada]] per Frome.
 G. K. C.  
 
 NOTA PRELIMINARE  
-QUESTA ballata non ha bisogno di note storiche, per la semplice ragione che non pretende di essere storica. Tutto quanto in essa non è francamente inventato, come in ogni romanzo in prosa sul passato, vuole dare risalto alla tradizione più che alla [[concepts/history|storia]]. [[historical-references/king-alfred|Re Alfredo]] non è una leggenda nel senso in cui può esserlo [[characters/king-arthur|Re Artù]]; nel senso, cioè, che potrebbe essere una menzogna. Ma [[archetypes/king|Re]] [10] Alfredo è una leggenda in questo senso più ampio e più umano, che le leggende sono la cosa più importante che lo riguardi.  
-Il culto di Alfredo fu un culto popolare, dalle tenebre del nono secolo al crepuscolo sempre più fitto del ventesimo. È interamente come leggenda popolare che qui mi occupo di lui. Scrivo da uomo ignorante di tutto, salvo che ho trovato la leggenda di un [[archetypes/king|Re]] del Wessex [20] ancora viva nel paese. Darò tre brevi esempi di ciò che intendo. Una tradizione collega la vittoria ultima di Alfredo con la valle del Berkshire chiamata Valle del [[motifs/horse|Cavallo]] Bianco. Ho visto sollevare dubbi su quella tradizione, e possono essere dubbi fondati. Non so quando né dove la storia sia nata; basta che sia nata da qualche parte e sia finita da me; giacché io cerco soltanto di scrivere sopra una diceria, [30] come facevano gli antichi balladisti. Quanto al secondo esempio, corre un racconto popolare secondo cui Alfredo suonò l'arpa e cantò nel campo danese; lo scelgo perché è un racconto popolare, in qualunque [[motifs/time|tempo]] sia sorto. Quanto al terzo esempio, corre un racconto popolare secondo cui Alfredo ebbe a che fare con una donna e con delle focacce: lo scelgo perché è un racconto popolare, perché è un racconto volgare. È stato contestato da storici [[motifs/grave|gravi]], [40] che erano, credo, un po' troppo [[motifs/grave|gravi]] per esserne buoni giudici. Le due accuse principali contro quella storia sono che fu messa per iscritto molto dopo la [[motifs/death|morte]] di Alfredo, e che (come sostiene il signor Oman) Alfredo non andò mai davvero errando tutto solo senza thane né soldati. A entrambe le obiezioni si potrebbe forse rispondere. Ci è voluto quasi altrettanto tempo per apprendere tutta la [[concepts/truth|verità]] su Byron, e forse più per apprendere [50] tutta la [[concepts/truth|verità]] su Pepys, di quanto ne trascorse fra Alfredo e la prima stesura di simili racconti. E quanto all'altra obiezione, gli storici credono davvero che Alfredo dopo Wilton, o Napoleone dopo Lipsia, non abbia mai passeggiato da solo in un bosco per il tempo di un'ora o due? Dieci minuti potrebbero bastare all'essenza della storia. Ma non mi preme dimostrare la [[concepts/truth|verità]] di queste [60] tradizioni popolari. Mi basta sostenere due cose: che sono tradizioni popolari; e che senza queste tradizioni popolari ci saremmo occupati di Alfredo press'a poco quanto ci occupiamo di Eadwig.  
+QUESTA ballata non ha bisogno di note storiche, per la semplice ragione che non pretende di essere storica. Tutto quanto in essa non è francamente inventato, come in ogni [[Romance|romanzo]] in prosa sul passato, vuole dare risalto alla tradizione più che alla [[concepts/history|storia]]. [[historical-references/king-alfred|Re Alfredo]] non è una leggenda nel senso in cui può esserlo [[characters/king-arthur|Re Artù]]; nel senso, cioè, che potrebbe essere una menzogna. Ma [[archetypes/king|Re]] [10] Alfredo è una leggenda in questo senso più ampio e più umano, che le leggende sono la cosa più importante che lo riguardi.  
+Il culto di Alfredo fu un culto popolare, dalle tenebre del nono secolo al crepuscolo sempre più fitto del ventesimo. È interamente come leggenda popolare che qui mi occupo di lui. Scrivo da uomo ignorante di tutto, salvo che ho trovato la leggenda di un [[archetypes/king|Re]] del Wessex [20] ancora viva nel paese. Darò tre brevi esempi di ciò che intendo. Una tradizione collega la vittoria ultima di Alfredo con la valle del Berkshire chiamata Valle del [[motifs/horse|Cavallo]] Bianco. Ho visto sollevare dubbi su quella tradizione, e possono essere dubbi fondati. Non so quando né dove la storia sia nata; basta che sia nata da qualche parte e sia finita da me; giacché io cerco soltanto di scrivere sopra una diceria, [30] come facevano gli antichi balladisti. Quanto al secondo esempio, corre un racconto popolare secondo cui Alfredo suonò l'arpa e cantò nel campo danese; lo scelgo perché è un racconto popolare, in qualunque [[motifs/time|tempo]] sia sorto. Quanto al terzo esempio, corre un racconto popolare secondo cui Alfredo ebbe a che fare con una donna e con delle focacce: lo scelgo perché è un racconto popolare, perché è un racconto volgare. È stato contestato da storici [[motifs/grave|gravi]], [40] che erano, credo, un po' troppo [[motifs/grave|gravi]] per esserne buoni giudici. Le due accuse principali contro quella storia sono che fu messa per iscritto molto dopo la [[motifs/death|morte]] di Alfredo, e che (come sostiene il signor Oman) Alfredo non andò mai davvero errando tutto [[Alone|solo]] senza thane né soldati. A entrambe le obiezioni si potrebbe forse rispondere. Ci è voluto quasi altrettanto tempo per apprendere tutta la [[concepts/truth|verità]] su Byron, e forse più per apprendere [50] tutta la [[concepts/truth|verità]] su Pepys, di quanto ne trascorse fra Alfredo e la prima stesura di simili racconti. E quanto all'altra obiezione, gli storici credono davvero che Alfredo dopo Wilton, o Napoleone dopo Lipsia, non abbia mai passeggiato da solo in un bosco per il tempo di un'ora o due? Dieci minuti potrebbero bastare all'essenza della storia. Ma non mi preme dimostrare la [[concepts/truth|verità]] di queste [60] tradizioni popolari. Mi basta sostenere due cose: che sono tradizioni popolari; e che senza queste tradizioni popolari ci saremmo occupati di Alfredo press'a poco quanto ci occupiamo di Eadwig.  
 Un'altra considerazione richiede una nota. Alfredo è giunto fino a noi nel modo migliore (cioè per mezzo delle leggende nazionali) unicamente per la stessa ragione di [[characters/arthur|Artù]] e di Orlando [70] e degli altri giganti di quella oscurità: perché combatté per la civiltà cristiana contro il nichilismo pagano. Ma poiché quest'opera fu compiuta in realtà di generazione in generazione, dai Romani prima che si ritirassero e dai Britanni finché rimasero, ho riassunto questa prima crociata in un triplice simbolo, e ho dato a un Romano, a un Celta e a un Sassone immaginari una parte nella gloria di Ethandune. [80] Immagino che di fatto il Wessex di Alfredo fosse di sangui assai mescolati: ma in ogni caso il pregio principale della leggenda è mescolare i secoli conservando il sentimento; vedere tutte le età in una sorta di splendido scorcio. Questa è l'utilità della tradizione: essa telescopa la [[concepts/history|storia]].  
 G. K. C.  
 
@@ -164,7 +353,7 @@ Quando i confini della terra vennero marciando
 Al bagliore di torcia e di lanterna,  
 E le strade del mondo che portano a Roma  
 Si colmarono di volti mossi come schiuma,  
-Come volti in un sogno. [35]  
+Come volti in [[A Dream|un sogno]]. [35]  
 E uomini cavalcarono dalle terre d'oriente,  
 Largo [[motifs/river|fiume]] e pianura ardente;  
 Alberi che a vederli sono [[motifs/flowers|fiori]] di Titani,  
@@ -176,7 +365,7 @@ Dove antiche aquile sul suo orlo,
 Vaste come arcangeli, si adunano e bevono  
 Il sacramento del sole. [45]  
 E uomini irruppero dalle terre del nord,  
-Terre enormi e solitarie,  
+Terre enormi e [[Alone|solitarie]],  
 Dove un incanto grava sulla vita e sulla brama  
 E la pioggia è mutata in [[motifs/dust|polvere]] d'argento  
 E il mare in una grande pietra verde. [50]  
@@ -204,7 +393,7 @@ Con argine e muro disperati,
 Coi nemici addossati al suo scudo  
 A ruggirgli addosso quando vacillava  
 E nessun aiuto giungeva.  
-Li spezzò con una spada spezzata [75]  
+Li spezzò con una [[Sword|spada]] spezzata [75]  
 Un poco verso il mare,  
 E per un'ora di pace ansimante,  
 Cinto da un ruggito che non cessava,  
@@ -260,7 +449,7 @@ E il [[archetypes/king|re]] che non torna più.
 E il Dio del Drago d'Oro  
 Era muto sul suo trono,  
 E il signore del Drago d'Oro  
-Correva nei boschi solo. [130]  
+Correva nei boschi [[Alone|solo]]. [130]  
 E se mai saliva la cresta della fortuna  
 E piantava innanzi il [[motifs/flag|vessillo]],  
 Tornando come torna una [[motifs/wheel|ruota]],  
@@ -338,7 +527,7 @@ Come una casupola arrampicata fra
 Le nuvole; o un servo di capanna e campo [205]  
 Che siede come sempre al [[motifs/fire|fuoco]] del suo tugurio,  
 Ma ode sul suo vecchio nudo tetto, lassù,  
-Un campanile prorompere in canto.  
+Un campanile prorompere in [[Song|canto]].  
 «Le porte del cielo son chiuse appena,  
 Non custodiamo il nostro guadagno, [210]  
 Il più tardo dei villani può facilmente  
@@ -458,7 +647,7 @@ Una mole da colmare di botti,
 Il volto una fornace sognante,  
 Il [[concepts/body|corpo]] una [[motifs/hill|collina]] che cammina. [45]  
 Nelle antiche guerre del Wessex  
-La sua spada era affondata a fondo,  
+La sua [[Sword|spada]] era affondata a fondo,  
 Ma tutti i suoi amici, sospirava e diceva,  
 Erano stati spezzati intorno a Ethelred;  
 E fra il bere profondo e i morti [50]  
@@ -501,9 +690,9 @@ Si levò il signore delle terre di mare,
 Come una vasta bestia di mistero,  
 Riempì la stanza e il portico e il cielo,  
 E da un alto chiodo coperto di ragnatele  
-Staccò la sua pesante spada. [90]  
+Staccò la sua pesante [[Sword|spada]]. [90]  
 Su per le stridule dune marine e su  
-Andò Alfredo tutto solo,  
+Andò Alfredo tutto [[Alone|solo]],  
 Voltandosi una sola volta prima che la porta si chiudesse,  
 Gridando a Eldred sopra la sua botte,  
 Che portasse ogni lancia alla capanna del boscaiolo [95]  
@@ -517,7 +706,7 @@ E dalle grigie tribù dell'Usk.
 Vide orme gigantesche di [[motifs/death|morte]]  
 E molte forme di sventura,  
 Buone fattorie ridotte in grigia cenere [105]  
-E la casa d'un monaco bianca come uno scheletro  
+E la [[house|casa]] d'un monaco bianca come uno [[skeleton|scheletro]]  
 Nella verde cripta della valle.  
 E in molte ville romane  
 Che la terra e le sue edere divorano,  
@@ -534,7 +723,7 @@ Dove Marco, l'uomo venuto d'[[settings/italy|Italia]],
 Ancora faceva il segno cristiano. [120]  
 La lunga fattoria giaceva sul largo fianco della [[motifs/hill|collina]],  
 Piatta come una pianta dipinta,  
-E accanto la bassa casa bianca,  
+E accanto la bassa [[house|casa]] bianca,  
 Dove abitava l'uomo del meridione.  
 Un uomo abbronzato, con l'occhio vivo d'uccello, [125]  
 E becco e fronte di forte uccello,  
@@ -587,7 +776,7 @@ Verso l'interno, e ricacciarlo giù a oriente;
 Finché non avrete preso la città di [[settings/london|Londra]].  
 Quanto a me, io ho le viti.»  
 «Se ogni uomo nel Giorno del Giudizio [175]  
-Incontrerà Dio su una piana, solo»,  
+Incontrerà Dio su una piana, [[Alone|solo]]»,  
 Disse Alfredo, «io parlerò per te  
 Come per me stesso e dirò per vero  
 Che portasti tutta la gente d'armi che conoscevi  
@@ -628,13 +817,13 @@ Come la fa l'artigiano celtico,
 Tutta incisa di forme attorte  
 Come tanti serpenti senza testa. [215]  
 La sua arpa era intagliata e ingegnosa,  
-La sua spada pronta e affilata,  
-Ed era lieto quando impugnava la spada,  
+La sua [[Sword|spada]] pronta e affilata,  
+Ed era lieto quando impugnava la [[Sword|spada]],  
 Triste quando teneva l'arpa.  
 Ché i grandi Gaeli d'Irlanda [220]  
 Sono gli uomini che Dio fece folli,  
 Ché tutte le loro guerre sono allegre,  
-E tutti i loro canti sono tristi.  
+E tutti i loro [[songs|canti]] sono tristi.  
 Osservava l'ordine romano,  
 Faceva il segno cristiano; [225]  
 Ma i suoi occhi si facevano spesso ciechi e lucenti,  
@@ -702,7 +891,7 @@ Un messale ammuffito, riga per riga,
 E armi e un otre di vino,  
 E una vecchia arpa scordata. [5]  
 Presso l'albero sbadigliante, nel crepuscolo,  
-Il [[archetypes/king|Re]] slacciò la sua spada,  
+Il [[archetypes/king|Re]] slacciò la sua [[Sword|spada]],  
 Divise l'arpa da ogni altro suo bene,  
 E là, nei boschi freschi e senza suono,  
 Fece risuonare un solo accordo. [10]  
@@ -731,7 +920,7 @@ E quando giunse al Poggio del Bianco [[motifs/horse|Cavallo]]
 Il gran Bianco [[motifs/horse|Cavallo]] era grigio,  
 Ché mal ripulito era dall'erbaccia,  
 E lichene e spina potevano strisciare e pascersi, [35]  
-Da che i nemici di casa e fede stabili  
+Da che i nemici di [[house|casa]] e fede stabili  
 Avevano spazzato via le opere antiche.  
 [[historical-references/king-alfred|King Alfred]] guardava tutto dolente  
 Cardi e muschi grigi,  
@@ -821,7 +1010,7 @@ Il tuo capo era un donatore di anelli;
 Ma il rosso [[motifs/river|fiume]] ininterrotto  
 D'una stirpe non scorre in eterno,  
 D'un tratto viene meno. [125]  
-“Certo i tuoi padri roteavano la spada  
+“Certo i tuoi padri roteavano la [[Sword|spada]]  
 Quando guadavano freschi di schiuma,  
 Prima d'esser mutati in femmine  
 Dal dio dei chiodi venuto da Roma;  
@@ -834,20 +1023,20 @@ E disse: “Basta così, [135]
 Nipote, che Elf riaccordi la corda;  
 A un ragazzo piace per forza il muggito,  
 Ma le vecchie orecchie di un [[archetypes/king|re]] accorto  
-Godono di canti meno rudi.”  
+Godono di [[songs|canti]] meno rudi.”  
 Occhi azzurri aveva Elf il menestrello, [140]  
 Con chioma e anello da donna,  
-Ma greve era la sua mano sulla spada,  
+Ma greve era la sua mano sulla [[Sword|spada]],  
 Benché lieve sulla corda.  
 E come mosse le corde dell'arpa  
 Su note quattro o cinque appena, [145]  
 Il cuore d'ogni uomo si mosse in lui  
 Come un bimbo sepolto vivo.  
-E sentirono la terra dei canti del popolo  
+E sentirono la terra dei [[songs|canti]] del popolo  
 Stendersi a sud del Danese,  
 E udirono scorrere il buon Reno [150]  
 Nel cuore di tutta l'Alemagna.  
-Sentirono la terra dei canti del popolo,  
+Sentirono la terra dei [[songs|canti]] del popolo,  
 Dove i doni pendono dall'albero,  
 Dove le fanciulle versano birra al mattino  
 E le [[motifs/tears|lacrime]] vengono facili. [155]  
@@ -868,7 +1057,7 @@ Cadde la freccia dell'angoscia.
 “La cosa sul lato cieco del cuore, [170]  
 Sul lato sbagliato della porta,  
 La verde pianta cresce, minacciando  
-Gli onnipotenti amanti in [[motifs/spring|primavera]];  
+Gli onnipotenti [[lovers|amanti]] in [[motifs/spring|primavera]];  
 C'è sempre una cosa dimenticata,  
 E l'[[motifs/love|amore]] non è al sicuro.” [175]  
 E tutti quelli seduti al [[motifs/fire|fuoco]] erano tristi,  
@@ -925,7 +1114,7 @@ Schiuma nelle corti del cielo. [225]
 “E voi che sedete al [[motifs/fire|fuoco]] siete giovani,  
 E veri amori vi attendono;  
 Ma il [[archetypes/king|Re]] e io invecchiamo, invecchiamo,  
-E l'odio soltanto è vero.” [230]  
+E l'odio [[Alone|soltanto]] è vero.” [230]  
 E Guthrum scosse il capo ma sorrise,  
 Ché era un chierico possente,  
 E aveva letto righe nei libri latini,  
@@ -999,7 +1188,7 @@ E spazzò l'intelaiatura di sbarre, [300]
 E il suo colpo ebbe tutto lo strepito e la scintilla  
 Di cavalli in fuga sfrenata.  
 “Quando Dio pose l'uomo in un [[motifs/garden|giardino]]  
-Lo cinse di una spada,  
+Lo cinse di una [[Sword|spada]],  
 E lo mandò innanzi, cavaliere libero [305]  
 Che poteva tradire il suo signore;  
 “Lo infranse e Lo tradì,  
@@ -1043,7 +1232,7 @@ Un [[archetypes/king|re]] dal cuore infranto,
 Ma il nostro [[historical-references/king-alfred|King Alfred]], perduto alla fama, [345]  
 Caduto fra nemici o ceppi di vergogna,  
 In non so quale umile mestiere o nome,  
-Ha ancora qualche canto da cantare;  
+Ha ancora qualche [[Song|canto]] da cantare;  
 “I nostri [[characters/monks|monaci]] vanno vestiti di pioggia e [[motifs/snow|neve]],  
 Ma dentro hanno il cuore di fiamma, [350]  
 Voi invece andate vestiti di feste e fiamme,  
@@ -1075,7 +1264,7 @@ Ha benedetto con la sua mano la distruzione;
 Ma per la [[motifs/death|morte]] di Dio le [[motifs/stars|stelle]] staranno salde  
 E le piccole mele cresceranno.”  
 E il [[archetypes/king|Re]], con l'arpa in spalla,  
-Si levò e cessò il suo canto; [380]  
+Si levò e cessò il suo [[Song|canto]]; [380]  
 E i gufi gemettero dai grandi alberi,  
 E i Danesi risero forte e a lungo.  
 
@@ -1119,7 +1308,7 @@ E asce su asce menando colpi
 Lo scagliarono, lo cacciarono in fuga [35]  
 Come un pirata verso la riva.  
 Saggio era stato prima della sconfitta,  
-E saggio prima del successo;  
+E saggio prima del [[success|successo]];  
 Saggio in entrambe le ore, e ignaro,  
 Non sapendo né più né meno. [40]  
 Scendendo verso la capanna sul [[motifs/river|fiume]]  
@@ -1330,7 +1519,7 @@ E l'[[motifs/clock|orologio]] guastato e il mondo raddrizzato, [245]
 Che i mimi cantano nella [[motifs/night|notte]] di Natale  
 E il giorno di Natale al mattino.  
 «Ecco una buona garanzia»,  
-Gridò Alfredo, «per la mia spada;  
+Gridò Alfredo, «per la mia [[Sword|spada]];  
 Ché chi è battuto da cattivo servo [250]  
 Dev'essere un signore benigno.  
 «Chi è stato servo  
@@ -1374,7 +1563,7 @@ E la torre dipinta delle orde pagane
 Pende verso i nostri martelli, fuochi e corde, [290]  
 Pende un poco, e cade.  
 «Seguite la stella che vive e balza,  
-Seguite la spada che canta,  
+Seguite la [[Sword|spada]] che canta,  
 Ché andiamo a mietere uomini pagani,  
 Un raccolto terribile, dieci a dieci, [295]  
 Come l'ira dell'ultimo rosso [[motifs/autumn|autunno]]—allora  
@@ -1479,7 +1668,7 @@ in quella terra perduta che credevo mia,
 ad attendere che suoni il corno santo, [80]  
 e tutti i poveri siano liberi.»  
 Allora Eldred della fattoria oziosa  
-si appoggiò alla sua antica spada,  
+si appoggiò alla sua antica [[Sword|spada]],  
 mentre cadevano le sue parole gravi e poche;  
 e i suoi occhi erano d'un azzurro così straniero [85]  
 quale brilla dove l'uomo del Nord veleggia nuovo  
@@ -1557,7 +1746,7 @@ E sotto il Drago d'Oro
 andò il Wessex tutto intero,  
 oltre la punta acuta delle vie biforcate,  
 fuori dal bosco nero dentro la vampa [160]  
-di sole e acciaio e canto.  
+di sole e acciaio e [[Song|canto]].  
 E quando giunsero al campo aperto  
 ruotarono, si schierarono, e stettero;  
 nel mezzo erano Marco e il [[archetypes/king|Re]],  
@@ -1578,7 +1767,7 @@ ma Ogier andò a piedi a morire,
 alla vecchia maniera dei Danesi.  
 Lontano alla destra del [[archetypes/king|Re]] Elf il bardo [180]  
 guidava l'ala d'occidente  
-con canti e incanti che mutano il [[motifs/blood|sangue]];  
+con [[songs|canti]] e incanti che mutano il [[motifs/blood|sangue]];  
 e alla sinistra del [[archetypes/king|Re]] stava Harold,  
 il congiunto del [[archetypes/king|Re]].  
 Il giovane Harold, rozzo, dai colori gai, [185]  
@@ -1592,14 +1781,14 @@ per un piccolo tratto,
 il viso imberbe gli si aprì al riso,  
 e gridò: «Che rotti pezzi di terra  
 son questi? Per quel che valgono i panni [195]  
-li venderei per una canzone.»  
+li venderei per una [[Song|canzone]].»  
 Ché Colan era vestito di panni  
 laceri come [[motifs/leaves|foglie]] d'[[motifs/autumn|autunno]],  
 e i suoi uomini eran tutti magri come santi,  
 e tutti poveri come ladri. [200]  
 Non portavano archi né fionde né quadrelli,  
 ma roncole e picche mal fatte;  
-e nessuno fuorché Colan portava una spada,  
+e nessuno fuorché Colan portava una [[Sword|spada]],  
 e arrugginita era la sua lama.  
 E gli occhi di Colan di mistero [205]  
 e di ferreo riso fremettero,  
@@ -1616,7 +1805,7 @@ e il Galles terra di ladri,
 «io dico che ancora vi stancherete  
 dell'opera della vostra parola,  
 ché spiriti percossi non percuotono mai,  
-né magre mani reggono una spada. [220]  
+né magre mani reggono una [[Sword|spada]]. [220]  
 «E se mai cavalcherete in Irlanda,  
 il motto si potrà ancora dire:  
 quella è la terra dei cuori spezzati,  
@@ -1636,14 +1825,14 @@ Colan, il cui destino s'oscurò; e brillarono
 [[motifs/stars|stelle]] maligne sopra Caerleon,  
 nel luogo dove era nato.  
 Ché Colan non aveva arco né fionda,  
-su una spada solitaria si appoggiava, [240]  
+su una [[Sword|spada]] solitaria si appoggiava, [240]  
 come [[characters/arthur|Artù]] su Excalibur  
 nella battaglia in riva al mare.  
 Fino al suo grande orecchino d'oro Harold  
 trasse indietro la coda impennata,  
 e rapida sarebbe scattata la freccia, [245]  
 ma più rapido scattò il Gaelico.  
-Roteando l'unica spada sopra il capo,  
+Roteando l'unica [[Sword|spada]] sopra il capo,  
 grande [[motifs/wheel|ruota]] nel sole,  
 la mandò splendida per il cielo,  
 in volo prima che il dardo potesse volare— [250]  
@@ -1655,18 +1844,18 @@ tentò un sorriso, portò la mano al capo, [255]
 vacillò e d'improvviso cadde morto;  
 e le piccole margherite bianche si fecero tutte rosse  
 del [[motifs/blood|sangue]] uscito dal suo cervello.  
-E tutti, a quel prodigio della spada,  
+E tutti, a quel prodigio della [[Sword|spada]],  
 scagliata come pietra per uccidere, [260]  
 gridarono. Disse Alfredo: «Chi vuol vedere  
 segni, deve dare ogni cosa. In verità  
 l'uomo non gusterà vittoria  
-finché non getti via la sua spada.»  
+finché non getti via la sua [[Sword|spada]].»  
 Allora Alfredo, principe d'Inghilterra, [265]  
 e tutti i conti cristiani,  
 sganciarono le spade e le levarono in alto,  
 ciascuna offerta a Colan, come una coppa  
 di crisolito e di perle.  
-E il [[archetypes/king|Re]] disse: «Prendi tu la mia spada [270]  
+E il [[archetypes/king|Re]] disse: «Prendi tu la mia [[Sword|spada]] [270]  
 tu che hai compiuto quest'atto di [[motifs/fire|fuoco]],  
 ché questo è il costume degli uomini cristiani,  
 siano essi d'acciaio o di penna sacerdotale:  
@@ -1679,15 +1868,15 @@ il loro giuramento regge fino alla fine.
 «Ché l'[[motifs/love|Amore]], nostro Signore, alla fine del mondo, [280]  
 siede un rosso [[motifs/horse|cavallo]] come un trono,  
 con elmo di bronzo e arco di ferro,  
-ma una freccia soltanto.  
+ma una freccia [[Alone|soltanto]].  
 «L'[[motifs/love|Amore]] con lo scudo del Cuore Spezzato  
 sempre tende il suo arco, [285]  
 con un solo dardo per un solo premio,  
 e l'ultimo strale che parte e vola  
 viene con un tuono di cieli squarciati,  
 e un suono d'anime che si lacerano.  
-«Così guadagnerai la spada d'un [[archetypes/king|re]], [290]  
-tu che la tua spada hai gettato via.»  
+«Così guadagnerai la [[Sword|spada]] d'un [[archetypes/king|re]], [290]  
+tu che la tua [[Sword|spada]] hai gettato via.»  
 E il [[archetypes/king|Re]] prese, con occhio distratto,  
 una rozza ascia da un contadino lì presso  
 e si volse alla mischia.  
@@ -1696,7 +1885,7 @@ fiammeggiarono intorno al signore caduto.
 Il primo [[motifs/blood|sangue]] destò il canto delle trombe,  
 come in rima di monaco o runa di mago  
 comincia la Battaglia di Ethandune  
-col lancio della spada. [300]  
+col lancio della [[Sword|spada]]. [300]  
 
 LIBRO VI  
 ETHANDUNE: L'UCCISIONE  
@@ -1707,17 +1896,17 @@ volò l'orda nata dal mare,
 i due eserciti cozzarono con [[motifs/dust|polvere]] e fragore,  
 a sinistra del paladino laziale,  
 rimbombò tutta l'ululante stirpe del principe Harold [5]  
-su Colan e sulla spada.  
+su Colan e sulla [[Sword|spada]].  
 Nel mezzo si abbatté su Marcus,  
 Ogier con Guthrum accanto,  
 e a ovest di quel tumulto centrale,  
 lontano a destra e più fioca, [10]  
-la casa di Elf l'arpista  
+la [[house|casa]] di Elf l'arpista  
 investì con un grido quella di Eldred.  
 Il centro sudava di stanchezza,  
 arginando l'orda urlante,  
 e stanche andavano le mani di Colan [15]  
-che roteavano la spada di [[historical-references/king-alfred|re Alfredo]].  
+che roteavano la [[Sword|spada]] di [[historical-references/king-alfred|re Alfredo]].  
 Ma come una nube della sera  
 verso ponente, senza sforzo,  
 l'alto Eldred rompeva il mare di lance  
@@ -1752,7 +1941,7 @@ e del grano e dei tempi quieti—
 finché sull'elmo di un alto capo  
 cadde fracassando la sua lama,  
 e l'elmo si ruppe e l'osso si ruppe [50]  
-e la spada gli si ruppe in mano.  
+e la [[Sword|spada]] gli si ruppe in mano.  
 Allora dai Normanni urlanti  
 corsero scheggiando su di lui, sospinte,  
 ben sette lance, e la settima [55]  
@@ -1840,18 +2029,18 @@ dove nessun'altra [[concepts/faith|fede]] poteva crescere. [135]
 La credenza cresciuta da tutte le credenze  
 un attimo prima fu spazzata via  
 e la credenza che stava sull'incredulità  
-si levò, di ferro e sola.  
+si levò, di ferro e [[Alone|sola]].  
 La mezzaluna del Wessex all'indietro [140]  
 fu schiacciata, mentre con lancia insanguinata  
 Elf andava ruggendo e sbaragliando,  
 e Mark contro Elf, ancora gridando,  
 cozzò, in piena corsa.  
-Dritta sullo scudo romano e sulla spada [145]  
+Dritta sullo scudo romano e sulla [[Sword|spada]] [145]  
 corse la lancia delle fanciulle del Reno;  
 ma lo scudo non vacillò mai,  
-la spada calò a recidere,  
+la [[Sword|spada]] calò a recidere,  
 il gran Reno cantò per sempre,  
-e i canti di Elf furono finiti. [150]  
+e i [[songs|canti]] di Elf furono finiti. [150]  
 E un gran tuono di uomini cristiani  
 salì contro il cielo,  
 dicendo: «Dio ha spezzato la lancia malvagia  
@@ -1869,7 +2058,7 @@ di ogni ruota o tela che valga,
 il Dio che fa il tetto, Gurth, [165]  
 il Dio che fa la [[motifs/road|strada]].  
 Il Dio che intaglia re nella quercia  
-scrive canti su pergamena,  
+scrive [[songs|canti]] su pergamena,  
 Dio dell'oro e del vetro fiammante,  
 Confregit potentias, [170]  
 Arcuum, scutum, Gorlias,  
@@ -1880,7 +2069,7 @@ tutti i re del mare ondeggiarono fra [175]
 selve di braccia del Wessex levate in alto,  
 la tromba della lingua romana,  
 il tuono del salmo.  
-E nel mezzo di quel campo ondeggiante  
+E nel mezzo di quel campo [[rolling|ondeggiante]]  
 corse Ogier furibondo, [180]  
 sferzando Mark, che ne deviò il colpo,  
 e gli spezzò l'elmo sulla fronte,  
@@ -1961,17 +2150,17 @@ non questa pallida fila di villani cristiani,
 questa sola bianca corda di uomini,  
 a tenerci lontani dalla fine del mondo,  
 e dalle cose che accadono allora.  
-Non è la spada nana di Alfredo, [260]  
+Non è la [[Sword|spada]] nana di Alfredo, [260]  
 né la [[motifs/crown|corona]] pigmea di Egbert,  
 che ci fermerà, ora che scendiamo nel tuono,  
 squarciando i regni e i regni sottostanti,  
 giù attraverso il mondo e giù».  
 C'era qualcosa nei selvaggi alle sue spalle, [265]  
-c'era qualcosa nel suo stesso selvaggio canto,  
+c'era qualcosa nel suo stesso selvaggio [[Song|canto]],  
 un pulsare vertiginoso, un fumo da ubriachi,  
 che stordiva a [[motifs/death|morte]] tutta la gente del Wessex,  
 e ne travolgeva le lance.  
-Invano la spada di Colan [270]  
+Invano la [[Sword|spada]] di Colan [270]  
 e la scure di Alfredo si adoprarono—  
 i Danesi dilagavano come peste senza cervello,  
 e non sapevano quando morivano.  
@@ -2006,13 +2195,13 @@ LIBRO VII
 ETHANDUNE: L'ULTIMA CARICA  
 
 LUNGI nella landa del Colle del [[motifs/horse|Cavallo]] Bianco  
-un [[archetypes/child|bimbo]] ozioso, solo,  
+un [[archetypes/child|bimbo]] ozioso, [[Alone|solo]],  
 giocava un piccolo gioco per ore che passano,  
 e paziente strappava l'erba,  
 paziente spingeva la pietra. [5]  
 Sull'orlo magro e verde, per sempre,  
 dove il [[motifs/chalk|gesso]] nudo toccava la zolla,  
-il [[archetypes/child|bimbo]] giocava, solo, divino,  
+il [[archetypes/child|bimbo]] giocava, [[Alone|solo]], divino,  
 come gioca un [[archetypes/child|bimbo]] sull'ultima linea  
 che divide sabbia e risacca. [10]  
 Poiché egli dimora in alte divisioni  
@@ -2062,7 +2251,7 @@ e Alfredo nato a Wantage
 regge l'Inghilterra fino al giudizio. [55]  
 Perché nella foresta d'ogni paura,  
 come strana fresca raffica dal mare,  
-lo colpì quell'antica innocenza  
+lo colpì quell'antica [[innocence|innocenza]]  
 che è più della maestria.  
 E come un [[archetypes/child|bimbo]] cui crollano i mattoni [60]  
 li riammucchia ancora e ancora,  
@@ -2099,7 +2288,7 @@ uno seduto sulla pietra,
 uno a metà dell'alta siepe di spini,  
 uno con una gamba oltre un muro,  
 e uno guardava indietro, piccolissimo,  
-lassù per la [[motifs/road|strada]], solo. [95]  
+lassù per la [[motifs/road|strada]], [[Alone|solo]]. [95]  
 Grigio crepuscolo e una stella gialla  
 pendevano su spini e [[motifs/hill|colle]];  
 due lance e uno scudo di guerra spaccato giacevano  
@@ -2117,8 +2306,8 @@ e braccati come una [[characters/witch|strega]] urlante,
 o affumicati a [[motifs/death|morte]] nelle tane? [110]  
 «O che prima che canti il gallo rosso  
 noi tutti, mille in forze,  
-scendiamo la scura [[motifs/road|strada]] verso la casa di Dio,  
-cantando una canzone del Wessex?  
+scendiamo la scura [[motifs/road|strada]] verso la [[house|casa]] di Dio,  
+cantando una [[Song|canzone]] del Wessex?  
 «Sudare da schiavo per una razza di schiavi, [115]  
 tracannare l'infamia?  
 No, fratelli, con vostra licenza, io penso  
@@ -2236,7 +2425,7 @@ i carri vacillano e crollano e uccidono
 i carrettieri di sotto. [230]  
 Le barriere arretrano, le bandiere si lacerano,  
 i grandi scudi gemono come un gong,  
-cavalli come corni d'incubo  
+cavalli come corni d'[[nightmare|incubo]]  
 nitriscono orribilmente e a lungo.  
 I cavalli s'impennano alti e ondeggiano e ribollono [235]  
 e spezzano le redini dorate,  
@@ -2307,7 +2496,7 @@ E nudo e insanguinato e in alto [300]
 portavano davanti alla loro schiera  
 il [[concepts/body|corpo]] del loro possente signore,  
 Colan di Caerleon e della sua orda,  
-che recava la spada di battaglia di [[historical-references/king-alfred|re Alfredo]]  
+che recava la [[Sword|spada]] di battaglia di [[historical-references/king-alfred|re Alfredo]]  
 spezzata nella mano sinistra. [305]  
 E una strana musica andava con lui,  
 forte eppure stranamente lontana;  
@@ -2327,7 +2516,7 @@ e Halmer ne stese altri tre, [320]
 e i grandi conti ondeggiavano qua e là  
 per i vivi e per i morti.  
 E Gorlias afferrò la grande [[motifs/flag|bandiera]],  
-il Corvo di Odino, lacerato;  
+[[The Raven|il Corvo]] di Odino, lacerato;  
 e gli occhi di Guthrum mutarono, [325]  
 per la prima [[motifs/time|volta]] dal mattino.  
 Come un giro della [[motifs/wheel|ruota]] della tempesta  
@@ -2410,7 +2599,7 @@ il [[archetypes/king|Re]] sedeva nel suo frutteto,
 fra mele verdi e rosse, [30]
 col piccolo libro in seno
 e il sole sopra il capo.
-E raccolse i canti degli uomini semplici
+E raccolse i [[songs|canti]] degli uomini semplici
 che ritmano col timone e la secchia,
 e l'elemosina che diede da cristiano [35]
 corse come un [[motifs/river|fiume]] vivo di pesci;
@@ -2472,7 +2661,7 @@ fra mele verdi e rosse,
 col piccolo libro in seno,
 guardò le verdi [[motifs/leaves|foglie]] e disse:
 «Quando ogni filosofia cadrà,
-questa parola sola starà; [95]
+questa parola [[Alone|sola]] starà; [95]
 che un saggio si sente troppo piccolo per la vita,
 e un [[archetypes/fool|folle]] troppo grande per essa.
 «L'Asia e tutte le piane imperiali
@@ -2629,7 +2818,7 @@ che il pagano tornerà.
 non devasteranno con tizzoni,
 ma i libri saranno tutto il loro cibo, [250]
 e inchiostro sulle loro mani.
-«Non con l'umore dei cacciatori
+«Non con l'[[Humour|umore]] dei cacciatori
 o selvaggia perizia in guerra,
 ma ordinando ogni cosa con parole morte,
 faranno stringhe di bestie e [[motifs/birds|uccelli]], [255]
@@ -2651,7 +2840,7 @@ benché innalzino meraviglie su di noi, [270]
 più grandi di quante il gran Virgilio
 ne operò per il [[archetypes/king|re]] romano,
 «da questo segno li conoscerete:
-lo spezzarsi della spada,
+lo spezzarsi della [[Sword|spada]],
 e l'Uomo non più libero cavaliere, [275]
 che ama oppure odia il suo signore.
 «Sì, questo sarà il loro segno,
@@ -2838,7 +3027,7 @@ Across these days like deserts, when
 [[concepts/pride|Pride]] and a little scratching pen [80]  
 Have dried and split the hearts of men,  
 Heart of the heroes, ride.  
-Up through an empty house of [[motifs/stars|stars]],  
+Up through an empty [[house]] of [[motifs/stars|stars]],  
 Being what heart you are,  
 Up the inhuman steeps of space [85]  
 As on a staircase go in grace,  
@@ -2938,7 +3127,7 @@ attraverso questi giorni come deserti, quando
 l'[[concepts/pride|orgoglio]] e una piccola penna che gratta [80]  
 hanno seccato e spaccato i cuori degli uomini:  
 cuore degli eroi, cavalca.  
-Su per una vuota casa di [[motifs/stars|stelle]],  
+Su per una vuota [[house|casa]] di [[motifs/stars|stelle]],  
 essendo il cuore che sei,  
 su per le inumane erte dello spazio [85]  
 come su una scala sali in grazia,  
@@ -2958,8 +3147,8 @@ G. K. C.
 
 
 PREFATORY NOTE  
-HIS ballad needs no historical notes, for the simple reason that it does not profess to be historical. All of it that is not frankly fictitious, as in any prose romance about the past, is meant to emphasize tradition rather than [[concepts/history|history]]. [[historical-references/king-alfred|King Alfred]] is not a legend in the sense that [[characters/king-arthur|King Arthur]] may be a legend; that is, in the sense that he may possibly be a lie. But [[archetypes/king|King]] [10] Alfred is a legend in this broader and more human sense, that the legends are the most important things about him.  
-The cult of Alfred was a popular cult, from the darkness of the ninth century to the deepening twilight of the twentieth. It is wholly as a popular legend that I deal with him here. I write as one ignorant of everything, except that I have found the legend of a [[archetypes/king|King]] of Wessex [20] still alive in the land. I will give three curt cases of what I mean. A tradition connects the ultimate victory of Alfred with the valley in Berkshire called the Vale of the White [[motifs/horse|Horse]]. I have seen doubts of the tradition, which may be valid doubts. I do not know when or where the story started; it is enough that it started somewhere and ended with me; for I only seek to write upon a hearsay, [30] as the old balladists did. For the second case, there is a popular tale that Alfred played the harp and sang in the Danish camp; I select it because it is a popular tale, at whatever [[motifs/time|time]] it arose. For the third case, there is a popular tale that Alfred came in contact with a woman and cakes: I select it because it is a popular tale, because it is a vulgar one. It has been disputed by [[motifs/grave|grave]] historians, [40] who were, I think, a little too [[motifs/grave|grave]] to be good judges of it. The two chief charges against the story are, that it was first recorded long after Alfred’s [[motifs/death|death]], and that (as Mr. Oman urges) Alfred never really wandered all alone without any thanes or soldiers. Both these objections might possibly be met. It has taken us nearly as long to learn the whole [[concepts/truth|truth]] about Byron, and perhaps longer to learn [50] the whole [[concepts/truth|truth]] about Pepys, than elapsed between Alfred and the first writing of such tales. And as for the other objection, do the historians really think that Alfred after Wilton, or Napoleon after Leipsic, never walked about in a wood by himself for the matter of an hour or two? Ten minutes might be made sufficient for the essence of the story. But I am not concerned to prove the [[concepts/truth|truth]] of these [60] popular traditions. It is enough for me to maintain two things: that they are popular traditions; and that without these popular traditions we should have bothered about Alfred about as much as we bother about Eadwig.  
+HIS ballad needs no historical notes, for the simple reason that it does not profess to be historical. All of it that is not frankly fictitious, as in any prose [[Romance|romance]] about the past, is meant to emphasize tradition rather than [[concepts/history|history]]. [[historical-references/king-alfred|King Alfred]] is not a legend in the sense that [[characters/king-arthur|King Arthur]] may be a legend; that is, in the sense that he may possibly be a lie. But [[archetypes/king|King]] [10] Alfred is a legend in this broader and more human sense, that the legends are the most important things about him.  
+The cult of Alfred was a popular cult, from the darkness of the ninth century to the deepening twilight of the twentieth. It is wholly as a popular legend that I deal with him here. I write as one ignorant of everything, except that I have found the legend of a [[archetypes/king|King]] of Wessex [20] still alive in the land. I will give three curt cases of what I mean. A tradition connects the ultimate victory of Alfred with the valley in Berkshire called the Vale of the White [[motifs/horse|Horse]]. I have seen doubts of the tradition, which may be valid doubts. I do not know when or where the story started; it is enough that it started somewhere and ended with me; for I only seek to write upon a hearsay, [30] as the old balladists did. For the second case, there is a popular tale that Alfred played the harp and sang in the Danish camp; I select it because it is a popular tale, at whatever [[motifs/time|time]] it arose. For the third case, there is a popular tale that Alfred came in contact with a woman and cakes: I select it because it is a popular tale, because it is a vulgar one. It has been disputed by [[motifs/grave|grave]] historians, [40] who were, I think, a little too [[motifs/grave|grave]] to be good judges of it. The two chief charges against the story are, that it was first recorded long after Alfred’s [[motifs/death|death]], and that (as Mr. Oman urges) Alfred never really wandered all [[Alone|alone]] without any thanes or soldiers. Both these objections might possibly be met. It has taken us nearly as long to learn the whole [[concepts/truth|truth]] about Byron, and perhaps longer to learn [50] the whole [[concepts/truth|truth]] about Pepys, than elapsed between Alfred and the first writing of such tales. And as for the other objection, do the historians really think that Alfred after Wilton, or Napoleon after Leipsic, never walked about in a wood by himself for the matter of an hour or two? Ten minutes might be made sufficient for the essence of the story. But I am not concerned to prove the [[concepts/truth|truth]] of these [60] popular traditions. It is enough for me to maintain two things: that they are popular traditions; and that without these popular traditions we should have bothered about Alfred about as much as we bother about Eadwig.  
 One other consideration needs a note. Alfred has come down to us in the best way (that is by national legends) solely for the same reason as [[characters/arthur|Arthur]] and Roland [70] and the other giants of that darkness, because he fought for the Christian civilization against the heathen nihilism. But since this work was really done by generation after generation, by the Romans before they withdrew, and by the Britons while they remained, I have summarised this first crusade in a triple symbol, and given to a fictitious Roman, Celt, and Saxon, a part in the glory of Ethandune. [80] I fancy that in fact Alfred’s Wessex was of very mixed bloods: but in any case, it is the chief value of legend to mix up the centuries while preserving the sentiment; to see all ages in a sort of splendid foreshortening. That is the use of tradition: it telescopes [[concepts/history|history]].  
 G. K. C.  
 
@@ -2967,8 +3156,8 @@ G. K. C.
 <span class="qlang-split" data-lang="it"></span>
 
 NOTA PRELIMINARE  
-QUESTA ballata non ha bisogno di note storiche, per la semplice ragione che non pretende di essere storica. Tutto quanto in essa non è francamente inventato, come in ogni romanzo in prosa sul passato, vuole dare risalto alla tradizione più che alla [[concepts/history|storia]]. [[historical-references/king-alfred|Re Alfredo]] non è una leggenda nel senso in cui può esserlo [[characters/king-arthur|Re Artù]]; nel senso, cioè, che potrebbe essere una menzogna. Ma [[archetypes/king|Re]] [10] Alfredo è una leggenda in questo senso più ampio e più umano, che le leggende sono la cosa più importante che lo riguardi.  
-Il culto di Alfredo fu un culto popolare, dalle tenebre del nono secolo al crepuscolo sempre più fitto del ventesimo. È interamente come leggenda popolare che qui mi occupo di lui. Scrivo da uomo ignorante di tutto, salvo che ho trovato la leggenda di un [[archetypes/king|Re]] del Wessex [20] ancora viva nel paese. Darò tre brevi esempi di ciò che intendo. Una tradizione collega la vittoria ultima di Alfredo con la valle del Berkshire chiamata Valle del [[motifs/horse|Cavallo]] Bianco. Ho visto sollevare dubbi su quella tradizione, e possono essere dubbi fondati. Non so quando né dove la storia sia nata; basta che sia nata da qualche parte e sia finita da me; giacché io cerco soltanto di scrivere sopra una diceria, [30] come facevano gli antichi balladisti. Quanto al secondo esempio, corre un racconto popolare secondo cui Alfredo suonò l'arpa e cantò nel campo danese; lo scelgo perché è un racconto popolare, in qualunque [[motifs/time|tempo]] sia sorto. Quanto al terzo esempio, corre un racconto popolare secondo cui Alfredo ebbe a che fare con una donna e con delle focacce: lo scelgo perché è un racconto popolare, perché è un racconto volgare. È stato contestato da storici [[motifs/grave|gravi]], [40] che erano, credo, un po' troppo [[motifs/grave|gravi]] per esserne buoni giudici. Le due accuse principali contro quella storia sono che fu messa per iscritto molto dopo la [[motifs/death|morte]] di Alfredo, e che (come sostiene il signor Oman) Alfredo non andò mai davvero errando tutto solo senza thane né soldati. A entrambe le obiezioni si potrebbe forse rispondere. Ci è voluto quasi altrettanto tempo per apprendere tutta la [[concepts/truth|verità]] su Byron, e forse più per apprendere [50] tutta la [[concepts/truth|verità]] su Pepys, di quanto ne trascorse fra Alfredo e la prima stesura di simili racconti. E quanto all'altra obiezione, gli storici credono davvero che Alfredo dopo Wilton, o Napoleone dopo Lipsia, non abbia mai passeggiato da solo in un bosco per il tempo di un'ora o due? Dieci minuti potrebbero bastare all'essenza della storia. Ma non mi preme dimostrare la [[concepts/truth|verità]] di queste [60] tradizioni popolari. Mi basta sostenere due cose: che sono tradizioni popolari; e che senza queste tradizioni popolari ci saremmo occupati di Alfredo press'a poco quanto ci occupiamo di Eadwig.  
+QUESTA ballata non ha bisogno di note storiche, per la semplice ragione che non pretende di essere storica. Tutto quanto in essa non è francamente inventato, come in ogni [[Romance|romanzo]] in prosa sul passato, vuole dare risalto alla tradizione più che alla [[concepts/history|storia]]. [[historical-references/king-alfred|Re Alfredo]] non è una leggenda nel senso in cui può esserlo [[characters/king-arthur|Re Artù]]; nel senso, cioè, che potrebbe essere una menzogna. Ma [[archetypes/king|Re]] [10] Alfredo è una leggenda in questo senso più ampio e più umano, che le leggende sono la cosa più importante che lo riguardi.  
+Il culto di Alfredo fu un culto popolare, dalle tenebre del nono secolo al crepuscolo sempre più fitto del ventesimo. È interamente come leggenda popolare che qui mi occupo di lui. Scrivo da uomo ignorante di tutto, salvo che ho trovato la leggenda di un [[archetypes/king|Re]] del Wessex [20] ancora viva nel paese. Darò tre brevi esempi di ciò che intendo. Una tradizione collega la vittoria ultima di Alfredo con la valle del Berkshire chiamata Valle del [[motifs/horse|Cavallo]] Bianco. Ho visto sollevare dubbi su quella tradizione, e possono essere dubbi fondati. Non so quando né dove la storia sia nata; basta che sia nata da qualche parte e sia finita da me; giacché io cerco soltanto di scrivere sopra una diceria, [30] come facevano gli antichi balladisti. Quanto al secondo esempio, corre un racconto popolare secondo cui Alfredo suonò l'arpa e cantò nel campo danese; lo scelgo perché è un racconto popolare, in qualunque [[motifs/time|tempo]] sia sorto. Quanto al terzo esempio, corre un racconto popolare secondo cui Alfredo ebbe a che fare con una donna e con delle focacce: lo scelgo perché è un racconto popolare, perché è un racconto volgare. È stato contestato da storici [[motifs/grave|gravi]], [40] che erano, credo, un po' troppo [[motifs/grave|gravi]] per esserne buoni giudici. Le due accuse principali contro quella storia sono che fu messa per iscritto molto dopo la [[motifs/death|morte]] di Alfredo, e che (come sostiene il signor Oman) Alfredo non andò mai davvero errando tutto [[Alone|solo]] senza thane né soldati. A entrambe le obiezioni si potrebbe forse rispondere. Ci è voluto quasi altrettanto tempo per apprendere tutta la [[concepts/truth|verità]] su Byron, e forse più per apprendere [50] tutta la [[concepts/truth|verità]] su Pepys, di quanto ne trascorse fra Alfredo e la prima stesura di simili racconti. E quanto all'altra obiezione, gli storici credono davvero che Alfredo dopo Wilton, o Napoleone dopo Lipsia, non abbia mai passeggiato da solo in un bosco per il tempo di un'ora o due? Dieci minuti potrebbero bastare all'essenza della storia. Ma non mi preme dimostrare la [[concepts/truth|verità]] di queste [60] tradizioni popolari. Mi basta sostenere due cose: che sono tradizioni popolari; e che senza queste tradizioni popolari ci saremmo occupati di Alfredo press'a poco quanto ci occupiamo di Eadwig.  
 Un'altra considerazione richiede una nota. Alfredo è giunto fino a noi nel modo migliore (cioè per mezzo delle leggende nazionali) unicamente per la stessa ragione di [[characters/arthur|Artù]] e di Orlando [70] e degli altri giganti di quella oscurità: perché combatté per la civiltà cristiana contro il nichilismo pagano. Ma poiché quest'opera fu compiuta in realtà di generazione in generazione, dai Romani prima che si ritirassero e dai Britanni finché rimasero, ho riassunto questa prima crociata in un triplice simbolo, e ho dato a un Romano, a un Celta e a un Sassone immaginari una parte nella gloria di Ethandune. [80] Immagino che di fatto il Wessex di Alfredo fosse di sangui assai mescolati: ma in ogni caso il pregio principale della leggenda è mescolare i secoli conservando il sentimento; vedere tutte le età in una sorta di splendido scorcio. Questa è l'utilità della tradizione: essa telescopa la [[concepts/history|storia]].  
 G. K. C.
 
@@ -3016,7 +3205,7 @@ When the ends of the earth came marching in
 To torch and cresset gleam,  
 And the roads of the world that lead to Rome  
 Were filled with faces that moved like foam,  
-Like faces in a dream. [35]  
+Like faces in [[A Dream|a dream]]. [35]  
 And men rode out of the eastern lands,  
 Broad [[motifs/river|river]] and burning plain;  
 Trees that are Titan [[motifs/flowers|flowers]] to see,  
@@ -3028,7 +3217,7 @@ Where ancient eagles on its brink,
 Vast as archangels, gather and drink  
 The sacrament of the sun. [45]  
 And men brake out of the northern lands,  
-Enormous lands alone,  
+Enormous lands [[Alone|alone]],  
 Where a spell is laid upon life and lust  
 And the rain is changed to a silver [[motifs/dust|dust]]  
 And the sea to a great green stone. [50]  
@@ -3056,7 +3245,7 @@ With desperate dyke and wall,
 With foemen leaning on his shield  
 And roaring on him when he reeled  
 And no help came at all.  
-He broke them with a broken sword [75]  
+He broke them with a broken [[Sword|sword]] [75]  
 A little towards the sea,  
 And for one hour of panting peace,  
 Ringed with a roar that would not cease,  
@@ -3112,7 +3301,7 @@ And the [[archetypes/king|king]] that comes no more.
 And the God of the Golden Dragon  
 Was dumb upon his throne,  
 And the lord of the Golden Dragon  
-Ran in the woods alone. [130]  
+Ran in the woods [[Alone|alone]]. [130]  
 And if ever he climbed the crest of luck  
 And set the [[motifs/flag|flag]] before,  
 Returning as a [[motifs/wheel|wheel]] returns,  
@@ -3190,7 +3379,7 @@ Like a cottage climbed among
 The clouds; or a serf of hut and croft [205]  
 That sits by his hovel [[motifs/fire|fire]] as oft,  
 But hears on his old bare roof aloft  
-A belfry burst in song.  
+A belfry burst in [[Song|song]].  
 “The gates of heaven are lightly locked,  
 We do not guard our gain, [210]  
 The heaviest hind may easily  
@@ -3303,7 +3492,7 @@ Quando i confini della terra vennero marciando
 Al bagliore di torcia e di lanterna,  
 E le strade del mondo che portano a Roma  
 Si colmarono di volti mossi come schiuma,  
-Come volti in un sogno. [35]  
+Come volti in [[A Dream|un sogno]]. [35]  
 E uomini cavalcarono dalle terre d'oriente,  
 Largo [[motifs/river|fiume]] e pianura ardente;  
 Alberi che a vederli sono [[motifs/flowers|fiori]] di Titani,  
@@ -3315,7 +3504,7 @@ Dove antiche aquile sul suo orlo,
 Vaste come arcangeli, si adunano e bevono  
 Il sacramento del sole. [45]  
 E uomini irruppero dalle terre del nord,  
-Terre enormi e solitarie,  
+Terre enormi e [[Alone|solitarie]],  
 Dove un incanto grava sulla vita e sulla brama  
 E la pioggia è mutata in [[motifs/dust|polvere]] d'argento  
 E il mare in una grande pietra verde. [50]  
@@ -3343,7 +3532,7 @@ Con argine e muro disperati,
 Coi nemici addossati al suo scudo  
 A ruggirgli addosso quando vacillava  
 E nessun aiuto giungeva.  
-Li spezzò con una spada spezzata [75]  
+Li spezzò con una [[Sword|spada]] spezzata [75]  
 Un poco verso il mare,  
 E per un'ora di pace ansimante,  
 Cinto da un ruggito che non cessava,  
@@ -3399,7 +3588,7 @@ E il [[archetypes/king|re]] che non torna più.
 E il Dio del Drago d'Oro  
 Era muto sul suo trono,  
 E il signore del Drago d'Oro  
-Correva nei boschi solo. [130]  
+Correva nei boschi [[Alone|solo]]. [130]  
 E se mai saliva la cresta della fortuna  
 E piantava innanzi il [[motifs/flag|vessillo]],  
 Tornando come torna una [[motifs/wheel|ruota]],  
@@ -3477,7 +3666,7 @@ Come una casupola arrampicata fra
 Le nuvole; o un servo di capanna e campo [205]  
 Che siede come sempre al [[motifs/fire|fuoco]] del suo tugurio,  
 Ma ode sul suo vecchio nudo tetto, lassù,  
-Un campanile prorompere in canto.  
+Un campanile prorompere in [[Song|canto]].  
 «Le porte del cielo son chiuse appena,  
 Non custodiamo il nostro guadagno, [210]  
 Il più tardo dei villani può facilmente  
@@ -3602,7 +3791,7 @@ A bulk for casks to fill,
 His face a dreaming furnace,  
 His [[concepts/body|body]] a walking [[motifs/hill|hill]]. [45]  
 In the old wars of Wessex  
-His sword had sunken deep,  
+His [[Sword|sword]] had sunken deep,  
 But all his friends, he sighed and said,  
 Were broken about Ethelred;  
 And between the deep drink and the dead [50]  
@@ -3645,9 +3834,9 @@ Arose the sea-land lord,
 Like some vast beast for mystery,  
 He filled the room and porch and sky,  
 And from a cobwebbed nail on high  
-Unhooked his heavy sword. [90]  
+Unhooked his heavy [[Sword|sword]]. [90]  
 Up on the shrill sea-downs and up  
-Went Alfred all alone,  
+Went Alfred all [[Alone|alone]],  
 Turning but once e’er the door was shut,  
 Shouting to Eldred over his butt,  
 That he bring all spears to the woodman’s hut [95]  
@@ -3661,7 +3850,7 @@ And the grey tribes on Usk.
 He saw gigantic tracks of [[motifs/death|death]]  
 And many a shape of doom,  
 Good steadings to grey ashes gone [105]  
-And a monk’s house white like a skeleton  
+And a monk’s [[house]] white like a [[skeleton]]  
 In the green crypt of the combe.  
 And in many a Roman villa  
 Earth and her ivies eat,  
@@ -3678,7 +3867,7 @@ Where Mark, the man from [[settings/italy|Italy]],
 Still made the Christian sign. [120]  
 The long farm lay on the large [[motifs/hill|hill]]-side,  
 Flat like a painted plan,  
-And by the side the low white house,  
+And by the side the low white [[house]],  
 Where dwelt the southland man.  
 A bronzed man, with a bird’s bright eye, [125]  
 And a strong bird’s beak and brow,  
@@ -3731,7 +3920,7 @@ I [[concepts/doubt|doubt]] if you shall take the [[motifs/crown|crown]]
 Till you have taken [[settings/london|London]] town.  
 For me, I have the vines.”  
 “If each man on the Judgment Day [175]  
-Meet God on a plain alone,”  
+Meet God on a plain [[Alone|alone]],”  
 Said Alfred, “I will speak for you  
 As for myself and call it true  
 That you brought all fighting folk you knew  
@@ -3772,13 +3961,13 @@ As the Celtic craftsman makes,
 Graven all over with twisting shapes  
 Like many headless snakes. [215]  
 His harp was carved and cunning,  
-His sword prompt and sharp,  
-And he was gay when he held the sword,  
+His [[Sword|sword]] prompt and sharp,  
+And he was gay when he held the [[Sword|sword]],  
 Sad when he held the harp.  
 For the great Gaels of Ireland [220]  
 Are the men that God made mad,  
 For all their wars are merry,  
-And all their songs are sad.  
+And all their [[songs]] are sad.  
 He kept the Roman order,  
 He made the Christian sign; [225]  
 But his eyes grew often blind and bright,  
@@ -3889,7 +4078,7 @@ Una mole da colmare di botti,
 Il volto una fornace sognante,  
 Il [[concepts/body|corpo]] una [[motifs/hill|collina]] che cammina. [45]  
 Nelle antiche guerre del Wessex  
-La sua spada era affondata a fondo,  
+La sua [[Sword|spada]] era affondata a fondo,  
 Ma tutti i suoi amici, sospirava e diceva,  
 Erano stati spezzati intorno a Ethelred;  
 E fra il bere profondo e i morti [50]  
@@ -3932,9 +4121,9 @@ Si levò il signore delle terre di mare,
 Come una vasta bestia di mistero,  
 Riempì la stanza e il portico e il cielo,  
 E da un alto chiodo coperto di ragnatele  
-Staccò la sua pesante spada. [90]  
+Staccò la sua pesante [[Sword|spada]]. [90]  
 Su per le stridule dune marine e su  
-Andò Alfredo tutto solo,  
+Andò Alfredo tutto [[Alone|solo]],  
 Voltandosi una sola volta prima che la porta si chiudesse,  
 Gridando a Eldred sopra la sua botte,  
 Che portasse ogni lancia alla capanna del boscaiolo [95]  
@@ -3948,7 +4137,7 @@ E dalle grigie tribù dell'Usk.
 Vide orme gigantesche di [[motifs/death|morte]]  
 E molte forme di sventura,  
 Buone fattorie ridotte in grigia cenere [105]  
-E la casa d'un monaco bianca come uno scheletro  
+E la [[house|casa]] d'un monaco bianca come uno [[skeleton|scheletro]]  
 Nella verde cripta della valle.  
 E in molte ville romane  
 Che la terra e le sue edere divorano,  
@@ -3965,7 +4154,7 @@ Dove Marco, l'uomo venuto d'[[settings/italy|Italia]],
 Ancora faceva il segno cristiano. [120]  
 La lunga fattoria giaceva sul largo fianco della [[motifs/hill|collina]],  
 Piatta come una pianta dipinta,  
-E accanto la bassa casa bianca,  
+E accanto la bassa [[house|casa]] bianca,  
 Dove abitava l'uomo del meridione.  
 Un uomo abbronzato, con l'occhio vivo d'uccello, [125]  
 E becco e fronte di forte uccello,  
@@ -4018,7 +4207,7 @@ Verso l'interno, e ricacciarlo giù a oriente;
 Finché non avrete preso la città di [[settings/london|Londra]].  
 Quanto a me, io ho le viti.»  
 «Se ogni uomo nel Giorno del Giudizio [175]  
-Incontrerà Dio su una piana, solo»,  
+Incontrerà Dio su una piana, [[Alone|solo]]»,  
 Disse Alfredo, «io parlerò per te  
 Come per me stesso e dirò per vero  
 Che portasti tutta la gente d'armi che conoscevi  
@@ -4059,13 +4248,13 @@ Come la fa l'artigiano celtico,
 Tutta incisa di forme attorte  
 Come tanti serpenti senza testa. [215]  
 La sua arpa era intagliata e ingegnosa,  
-La sua spada pronta e affilata,  
-Ed era lieto quando impugnava la spada,  
+La sua [[Sword|spada]] pronta e affilata,  
+Ed era lieto quando impugnava la [[Sword|spada]],  
 Triste quando teneva l'arpa.  
 Ché i grandi Gaeli d'Irlanda [220]  
 Sono gli uomini che Dio fece folli,  
 Ché tutte le loro guerre sono allegre,  
-E tutti i loro canti sono tristi.  
+E tutti i loro [[songs|canti]] sono tristi.  
 Osservava l'ordine romano,  
 Faceva il segno cristiano; [225]  
 Ma i suoi occhi si facevano spesso ciechi e lucenti,  
@@ -4138,7 +4327,7 @@ A mass-book mildewed, line by line,
 And weapons and a skin of wine,  
 And an old harp unstrung. [5]  
 By the yawning tree in the twilight  
-The [[archetypes/king|King]] unbound his sword,  
+The [[archetypes/king|King]] unbound his [[Sword|sword]],  
 Severed the harp of all his goods,  
 And there in the cool and soundless woods  
 Sounded a single chord. [10]  
@@ -4167,7 +4356,7 @@ And when he came to White [[motifs/horse|Horse]] Down
 The great White [[motifs/horse|Horse]] was grey,  
 For it was ill scoured of the weed,  
 And lichen and thorn could crawl and feed, [35]  
-Since the foes of settled house and creed  
+Since the foes of settled [[house]] and creed  
 Had swept old works away.  
 [[historical-references/king-alfred|King Alfred]] gazed all sorrowful  
 At thistle and mosses grey,  
@@ -4257,7 +4446,7 @@ Your chief was a bracelet-giver;
 But the red unbroken [[motifs/river|river]]  
 Of a race runs not for ever,  
 But suddenly it fails. [125]  
-“Doubtless your sires were sword-swingers  
+“Doubtless your sires were [[Sword|sword]]-swingers  
 When they waded fresh from foam,  
 Before they were turned to women  
 By the god of the nails from Rome;  
@@ -4270,20 +4459,20 @@ And said, “It is enough, [135]
 Nephew, let Elf retune the string;  
 A boy must needs like bellowing,  
 But the old ears of a careful [[archetypes/king|king]]  
-Are glad of songs less rough.”  
+Are glad of [[songs]] less rough.”  
 Blue-eyed was Elf the minstrel, [140]  
 With womanish hair and ring,  
-Yet heavy was his hand on sword,  
+Yet heavy was his hand on [[Sword|sword]],  
 Though light upon the string.  
 And as he stirred the strings of the harp  
 To notes but four or five, [145]  
 The heart of each man moved in him  
 Like a babe buried alive.  
-And they felt the land of the folk-songs  
+And they felt the land of the folk-[[songs]]  
 Spread southward of the Dane,  
 And they heard the good Rhine flowing [150]  
 In the heart of all Allemagne.  
-They felt the land of the folk-songs,  
+They felt the land of the folk-[[songs]],  
 Where the gifts hang on the tree,  
 Where the girls give ale at morning  
 And the [[motifs/tears|tears]] come easily. [155]  
@@ -4304,7 +4493,7 @@ The arrow of anguish fell.
 “The thing on the blind side of the heart, [170]  
 On the wrong side of the door,  
 The green plant groweth, menacing  
-Almighty lovers in the [[motifs/spring|spring]];  
+Almighty [[lovers]] in the [[motifs/spring|spring]];  
 There is always a forgotten thing,  
 And [[motifs/love|love]] is not secure.” [175]  
 And all that sat by the [[motifs/fire|fire]] were sad,  
@@ -4361,7 +4550,7 @@ Foam in the courts of heaven. [225]
 “And you that sit by the [[motifs/fire|fire]] are young,  
 And true loves wait for you;  
 But the [[archetypes/king|King]] and I grow old, grow old,  
-And hate alone is true.” [230]  
+And hate [[Alone|alone]] is true.” [230]  
 And Guthrum shook his head but smiled,  
 For he was a mighty clerk,  
 And had read lines in the Latin books,  
@@ -4435,7 +4624,7 @@ And swept the framework barred, [300]
 And his stroke had all the rattle and spark  
 Of horses flying hard.  
 “When God put man in a [[motifs/garden|garden]]  
-He girt him with a sword,  
+He girt him with a [[Sword|sword]],  
 And sent him forth a free knight [305]  
 That might betray his lord;  
 “He brake Him and betrayed Him,  
@@ -4479,7 +4668,7 @@ A broken-hearted [[archetypes/king|king]],
 But our [[historical-references/king-alfred|King Alfred]], lost from fame, [345]  
 Fallen among foes or bonds of shame,  
 In I know not what mean trade or name,  
-Has still some song to sing;  
+Has still some [[Song|song]] to sing;  
 “Our [[characters/monks|monks]] go robed in rain and [[motifs/snow|snow]],  
 But the heart of flame therein, [350]  
 But you go clothed in feasts and flames,  
@@ -4511,7 +4700,7 @@ Hath blessed destruction with his hand;
 Yet by God’s [[motifs/death|death]] the [[motifs/stars|stars]] shall stand  
 And the small apples grow.”  
 And the [[archetypes/king|King]], with harp on shoulder,  
-Stood up and ceased his song; [380]  
+Stood up and ceased his [[Song|song]]; [380]  
 And the owls moaned from the mighty trees,  
 And the Danes laughed loud and long.  
 
@@ -4527,7 +4716,7 @@ Un messale ammuffito, riga per riga,
 E armi e un otre di vino,  
 E una vecchia arpa scordata. [5]  
 Presso l'albero sbadigliante, nel crepuscolo,  
-Il [[archetypes/king|Re]] slacciò la sua spada,  
+Il [[archetypes/king|Re]] slacciò la sua [[Sword|spada]],  
 Divise l'arpa da ogni altro suo bene,  
 E là, nei boschi freschi e senza suono,  
 Fece risuonare un solo accordo. [10]  
@@ -4556,7 +4745,7 @@ E quando giunse al Poggio del Bianco [[motifs/horse|Cavallo]]
 Il gran Bianco [[motifs/horse|Cavallo]] era grigio,  
 Ché mal ripulito era dall'erbaccia,  
 E lichene e spina potevano strisciare e pascersi, [35]  
-Da che i nemici di casa e fede stabili  
+Da che i nemici di [[house|casa]] e fede stabili  
 Avevano spazzato via le opere antiche.  
 [[historical-references/king-alfred|King Alfred]] guardava tutto dolente  
 Cardi e muschi grigi,  
@@ -4646,7 +4835,7 @@ Il tuo capo era un donatore di anelli;
 Ma il rosso [[motifs/river|fiume]] ininterrotto  
 D'una stirpe non scorre in eterno,  
 D'un tratto viene meno. [125]  
-“Certo i tuoi padri roteavano la spada  
+“Certo i tuoi padri roteavano la [[Sword|spada]]  
 Quando guadavano freschi di schiuma,  
 Prima d'esser mutati in femmine  
 Dal dio dei chiodi venuto da Roma;  
@@ -4659,20 +4848,20 @@ E disse: “Basta così, [135]
 Nipote, che Elf riaccordi la corda;  
 A un ragazzo piace per forza il muggito,  
 Ma le vecchie orecchie di un [[archetypes/king|re]] accorto  
-Godono di canti meno rudi.”  
+Godono di [[songs|canti]] meno rudi.”  
 Occhi azzurri aveva Elf il menestrello, [140]  
 Con chioma e anello da donna,  
-Ma greve era la sua mano sulla spada,  
+Ma greve era la sua mano sulla [[Sword|spada]],  
 Benché lieve sulla corda.  
 E come mosse le corde dell'arpa  
 Su note quattro o cinque appena, [145]  
 Il cuore d'ogni uomo si mosse in lui  
 Come un bimbo sepolto vivo.  
-E sentirono la terra dei canti del popolo  
+E sentirono la terra dei [[songs|canti]] del popolo  
 Stendersi a sud del Danese,  
 E udirono scorrere il buon Reno [150]  
 Nel cuore di tutta l'Alemagna.  
-Sentirono la terra dei canti del popolo,  
+Sentirono la terra dei [[songs|canti]] del popolo,  
 Dove i doni pendono dall'albero,  
 Dove le fanciulle versano birra al mattino  
 E le [[motifs/tears|lacrime]] vengono facili. [155]  
@@ -4693,7 +4882,7 @@ Cadde la freccia dell'angoscia.
 “La cosa sul lato cieco del cuore, [170]  
 Sul lato sbagliato della porta,  
 La verde pianta cresce, minacciando  
-Gli onnipotenti amanti in [[motifs/spring|primavera]];  
+Gli onnipotenti [[lovers|amanti]] in [[motifs/spring|primavera]];  
 C'è sempre una cosa dimenticata,  
 E l'[[motifs/love|amore]] non è al sicuro.” [175]  
 E tutti quelli seduti al [[motifs/fire|fuoco]] erano tristi,  
@@ -4750,7 +4939,7 @@ Schiuma nelle corti del cielo. [225]
 “E voi che sedete al [[motifs/fire|fuoco]] siete giovani,  
 E veri amori vi attendono;  
 Ma il [[archetypes/king|Re]] e io invecchiamo, invecchiamo,  
-E l'odio soltanto è vero.” [230]  
+E l'odio [[Alone|soltanto]] è vero.” [230]  
 E Guthrum scosse il capo ma sorrise,  
 Ché era un chierico possente,  
 E aveva letto righe nei libri latini,  
@@ -4824,7 +5013,7 @@ E spazzò l'intelaiatura di sbarre, [300]
 E il suo colpo ebbe tutto lo strepito e la scintilla  
 Di cavalli in fuga sfrenata.  
 “Quando Dio pose l'uomo in un [[motifs/garden|giardino]]  
-Lo cinse di una spada,  
+Lo cinse di una [[Sword|spada]],  
 E lo mandò innanzi, cavaliere libero [305]  
 Che poteva tradire il suo signore;  
 “Lo infranse e Lo tradì,  
@@ -4868,7 +5057,7 @@ Un [[archetypes/king|re]] dal cuore infranto,
 Ma il nostro [[historical-references/king-alfred|King Alfred]], perduto alla fama, [345]  
 Caduto fra nemici o ceppi di vergogna,  
 In non so quale umile mestiere o nome,  
-Ha ancora qualche canto da cantare;  
+Ha ancora qualche [[Song|canto]] da cantare;  
 “I nostri [[characters/monks|monaci]] vanno vestiti di pioggia e [[motifs/snow|neve]],  
 Ma dentro hanno il cuore di fiamma, [350]  
 Voi invece andate vestiti di feste e fiamme,  
@@ -4900,7 +5089,7 @@ Ha benedetto con la sua mano la distruzione;
 Ma per la [[motifs/death|morte]] di Dio le [[motifs/stars|stelle]] staranno salde  
 E le piccole mele cresceranno.”  
 E il [[archetypes/king|Re]], con l'arpa in spalla,  
-Si levò e cessò il suo canto; [380]  
+Si levò e cessò il suo [[Song|canto]]; [380]  
 E i gufi gemettero dai grandi alberi,  
 E i Danesi risero forte e a lungo.
 
@@ -4949,7 +5138,7 @@ And axes on axes plying,
 Flung him, and drove him flying [35]  
 Like a pirate to the shore.  
 Wise he had been before defeat,  
-And wise before success;  
+And wise before [[success]];  
 Wise in both hours, and ignorant,  
 Knowing neither more nor less. [40]  
 As he went down to the [[motifs/river|river]]-hut  
@@ -5160,7 +5349,7 @@ And the [[motifs/clock|clock]] gone wrong and the world gone right, [245]
 That the mummers sing upon Christmas [[motifs/night|night]]  
 And Christmas Day in the morning.  
 “Now here is a good warrant,”  
-Cried Alfred, “by my sword;  
+Cried Alfred, “by my [[Sword|sword]];  
 For he that is struck for an ill servant [250]  
 Should be a kind lord.  
 “He that has been a servant  
@@ -5204,7 +5393,7 @@ And the painted tower of the heathen hordes
 Leans to our hammers, fires and cords, [290]  
 Leans a little and falls.  
 “Follow the star that lives and leaps,  
-Follow the sword that sings,  
+Follow the [[Sword|sword]] that sings,  
 For we go gathering heathen men,  
 A terrible harvest, ten by ten, [295]  
 As the wrath of the last red [[motifs/autumn|autumn]]—then  
@@ -5266,7 +5455,7 @@ E asce su asce menando colpi
 Lo scagliarono, lo cacciarono in fuga [35]  
 Come un pirata verso la riva.  
 Saggio era stato prima della sconfitta,  
-E saggio prima del successo;  
+E saggio prima del [[success|successo]];  
 Saggio in entrambe le ore, e ignaro,  
 Non sapendo né più né meno. [40]  
 Scendendo verso la capanna sul [[motifs/river|fiume]]  
@@ -5477,7 +5666,7 @@ E l'[[motifs/clock|orologio]] guastato e il mondo raddrizzato, [245]
 Che i mimi cantano nella [[motifs/night|notte]] di Natale  
 E il giorno di Natale al mattino.  
 «Ecco una buona garanzia»,  
-Gridò Alfredo, «per la mia spada;  
+Gridò Alfredo, «per la mia [[Sword|spada]];  
 Ché chi è battuto da cattivo servo [250]  
 Dev'essere un signore benigno.  
 «Chi è stato servo  
@@ -5521,7 +5710,7 @@ E la torre dipinta delle orde pagane
 Pende verso i nostri martelli, fuochi e corde, [290]  
 Pende un poco, e cade.  
 «Seguite la stella che vive e balza,  
-Seguite la spada che canta,  
+Seguite la [[Sword|spada]] che canta,  
 Ché andiamo a mietere uomini pagani,  
 Un raccolto terribile, dieci a dieci, [295]  
 Come l'ira dell'ultimo rosso [[motifs/autumn|autunno]]—allora  
@@ -5631,7 +5820,7 @@ In that lost land I thought my own,
 To wait till the holy horn is blown, [80]  
 And all poor men are free.”  
 Then Eldred of the idle farm  
-Leaned on his ancient sword,  
+Leaned on his ancient [[Sword|sword]],  
 As fell his heavy words and few;  
 And his eyes were of such alien blue [85]  
 As gleams where the Northman saileth new  
@@ -5709,7 +5898,7 @@ And under the Golden Dragon
 Went Wessex all along,  
 Past the sharp point of the cloven ways,  
 Out from the black wood into the blaze [160]  
-Of sun and steel and song.  
+Of sun and steel and [[Song|song]].  
 And when they came to the open land  
 They wheeled, deployed, and stood;  
 Midmost were Marcus and the [[archetypes/king|King]],  
@@ -5730,7 +5919,7 @@ But Ogier went on foot to die,
 In the old way of the Danes.  
 Far to the [[archetypes/king|King]]’s right Elf the bard [180]  
 Led on the western wing  
-With songs and spells that change the [[motifs/blood|blood]];  
+With [[songs]] and spells that change the [[motifs/blood|blood]];  
 And on the [[archetypes/king|King]]’s left Harold stood,  
 The kinsman of the [[archetypes/king|King]].  
 Young Harold, coarse, with colours gay, [185]  
@@ -5744,14 +5933,14 @@ A little space along,
 His beardless face broke into mirth,  
 And he cried: “What broken bits of earth  
 Are here? For what their clothes are worth [195]  
-I would sell them for a song.”  
+I would sell them for a [[Song|song]].”  
 For Colan was hung with raiment  
 Tattered like [[motifs/autumn|autumn]] [[motifs/leaves|leaves]],  
 And his men were all as thin as saints,  
 And all as poor as thieves. [200]  
 No bows nor slings nor bolts they bore,  
 But bills and pikes ill-made;  
-And none but Colan bore a sword,  
+And none but Colan bore a [[Sword|sword]],  
 And rusty was its blade.  
 And Colan’s eyes with mystery [205]  
 And iron laughter stirred,  
@@ -5768,7 +5957,7 @@ And Wales a land of thieves,
 “I say you yet shall weary  
 Of the working of your word,  
 That stricken spirits never strike,  
-Nor lean hands hold a sword. [220]  
+Nor lean hands hold a [[Sword|sword]]. [220]  
 “And if ever ye ride in Ireland,  
 The jest may yet be said,  
 There is the land of broken hearts,  
@@ -5788,14 +5977,14 @@ Colan, whose doom grew dark; and shone
 [[motifs/stars|Stars]] evil over Caerleon,  
 In the place where he was born.  
 For Colan had not bow nor sling,  
-On a lonely sword leaned he, [240]  
+On a lonely [[Sword|sword]] leaned he, [240]  
 Like [[characters/arthur|Arthur]] on Excalibur  
 In the battle by the sea.  
 To his great gold ear-ring Harold  
 Tugged back the feathered tail,  
 And swift had sprung the arrow, [245]  
 But swifter sprang the Gael.  
-Whirling the one sword round his head,  
+Whirling the one [[Sword|sword]] round his head,  
 A great [[motifs/wheel|wheel]] in the sun,  
 He sent it splendid through the sky,  
 Flying before the shaft could fly— [250]  
@@ -5807,18 +5996,18 @@ Strove for a smile, put hand to head, [255]
 Stumbled and suddenly fell dead;  
 And the small white daisies all waxed red  
 With [[motifs/blood|blood]] out of his brain.  
-And all at that marvel of the sword,  
+And all at that marvel of the [[Sword|sword]],  
 Cast like a stone to slay, [260]  
 Cried out. Said Alfred: “Who would see  
 Signs, must give all things. Verily  
 Man shall not taste of victory  
-Till he throws his sword away.”  
+Till he throws his [[Sword|sword]] away.”  
 Then Alfred, prince of England, [265]  
 And all the Christian earls,  
 Unhooked their swords and held them up,  
 Each offered to Colan, like a cup  
 Of chrysolite and pearls.  
-And the [[archetypes/king|King]] said, “Do thou take my sword [270]  
+And the [[archetypes/king|King]] said, “Do thou take my [[Sword|sword]] [270]  
 Who have done this deed of [[motifs/fire|fire]],  
 For this is the manner of Christian men,  
 Whether of steel or priestly pen,  
@@ -5831,15 +6020,15 @@ That their oath endures the end.
 “For [[motifs/love|Love]], our Lord, at the end of the world, [280]  
 Sits a red [[motifs/horse|horse]] like a throne,  
 With a brazen helm and an iron bow,  
-But one arrow alone.  
+But one arrow [[Alone|alone]].  
 “[[motifs/love|Love]] with the shield of the Broken Heart  
 Ever his bow doth bend, [285]  
 With a single shaft for a single prize,  
 And the ultimate bolt that parts and flies  
 Comes with a thunder of split skies,  
 And a sound of souls that rend.  
-“So shall you earn a [[archetypes/king|king]]’s sword, [290]  
-Who cast your sword away.”  
+“So shall you earn a [[archetypes/king|king]]’s [[Sword|sword]], [290]  
+Who cast your [[Sword|sword]] away.”  
 And the [[archetypes/king|King]] took, with a random eye,  
 A rude axe from a hind hard by  
 And turned him to the fray.  
@@ -5848,7 +6037,7 @@ Flamed round the fallen lord.
 The first [[motifs/blood|blood]] woke the trumpet-tune,  
 As in monk’s rhyme or wizard’s rune  
 Beginneth the Battle of Ethandune  
-With the throwing of the sword. [300]  
+With the throwing of the [[Sword|sword]]. [300]  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5939,7 +6128,7 @@ in quella terra perduta che credevo mia,
 ad attendere che suoni il corno santo, [80]  
 e tutti i poveri siano liberi.»  
 Allora Eldred della fattoria oziosa  
-si appoggiò alla sua antica spada,  
+si appoggiò alla sua antica [[Sword|spada]],  
 mentre cadevano le sue parole gravi e poche;  
 e i suoi occhi erano d'un azzurro così straniero [85]  
 quale brilla dove l'uomo del Nord veleggia nuovo  
@@ -6017,7 +6206,7 @@ E sotto il Drago d'Oro
 andò il Wessex tutto intero,  
 oltre la punta acuta delle vie biforcate,  
 fuori dal bosco nero dentro la vampa [160]  
-di sole e acciaio e canto.  
+di sole e acciaio e [[Song|canto]].  
 E quando giunsero al campo aperto  
 ruotarono, si schierarono, e stettero;  
 nel mezzo erano Marco e il [[archetypes/king|Re]],  
@@ -6038,7 +6227,7 @@ ma Ogier andò a piedi a morire,
 alla vecchia maniera dei Danesi.  
 Lontano alla destra del [[archetypes/king|Re]] Elf il bardo [180]  
 guidava l'ala d'occidente  
-con canti e incanti che mutano il [[motifs/blood|sangue]];  
+con [[songs|canti]] e incanti che mutano il [[motifs/blood|sangue]];  
 e alla sinistra del [[archetypes/king|Re]] stava Harold,  
 il congiunto del [[archetypes/king|Re]].  
 Il giovane Harold, rozzo, dai colori gai, [185]  
@@ -6052,14 +6241,14 @@ per un piccolo tratto,
 il viso imberbe gli si aprì al riso,  
 e gridò: «Che rotti pezzi di terra  
 son questi? Per quel che valgono i panni [195]  
-li venderei per una canzone.»  
+li venderei per una [[Song|canzone]].»  
 Ché Colan era vestito di panni  
 laceri come [[motifs/leaves|foglie]] d'[[motifs/autumn|autunno]],  
 e i suoi uomini eran tutti magri come santi,  
 e tutti poveri come ladri. [200]  
 Non portavano archi né fionde né quadrelli,  
 ma roncole e picche mal fatte;  
-e nessuno fuorché Colan portava una spada,  
+e nessuno fuorché Colan portava una [[Sword|spada]],  
 e arrugginita era la sua lama.  
 E gli occhi di Colan di mistero [205]  
 e di ferreo riso fremettero,  
@@ -6076,7 +6265,7 @@ e il Galles terra di ladri,
 «io dico che ancora vi stancherete  
 dell'opera della vostra parola,  
 ché spiriti percossi non percuotono mai,  
-né magre mani reggono una spada. [220]  
+né magre mani reggono una [[Sword|spada]]. [220]  
 «E se mai cavalcherete in Irlanda,  
 il motto si potrà ancora dire:  
 quella è la terra dei cuori spezzati,  
@@ -6096,14 +6285,14 @@ Colan, il cui destino s'oscurò; e brillarono
 [[motifs/stars|stelle]] maligne sopra Caerleon,  
 nel luogo dove era nato.  
 Ché Colan non aveva arco né fionda,  
-su una spada solitaria si appoggiava, [240]  
+su una [[Sword|spada]] solitaria si appoggiava, [240]  
 come [[characters/arthur|Artù]] su Excalibur  
 nella battaglia in riva al mare.  
 Fino al suo grande orecchino d'oro Harold  
 trasse indietro la coda impennata,  
 e rapida sarebbe scattata la freccia, [245]  
 ma più rapido scattò il Gaelico.  
-Roteando l'unica spada sopra il capo,  
+Roteando l'unica [[Sword|spada]] sopra il capo,  
 grande [[motifs/wheel|ruota]] nel sole,  
 la mandò splendida per il cielo,  
 in volo prima che il dardo potesse volare— [250]  
@@ -6115,18 +6304,18 @@ tentò un sorriso, portò la mano al capo, [255]
 vacillò e d'improvviso cadde morto;  
 e le piccole margherite bianche si fecero tutte rosse  
 del [[motifs/blood|sangue]] uscito dal suo cervello.  
-E tutti, a quel prodigio della spada,  
+E tutti, a quel prodigio della [[Sword|spada]],  
 scagliata come pietra per uccidere, [260]  
 gridarono. Disse Alfredo: «Chi vuol vedere  
 segni, deve dare ogni cosa. In verità  
 l'uomo non gusterà vittoria  
-finché non getti via la sua spada.»  
+finché non getti via la sua [[Sword|spada]].»  
 Allora Alfredo, principe d'Inghilterra, [265]  
 e tutti i conti cristiani,  
 sganciarono le spade e le levarono in alto,  
 ciascuna offerta a Colan, come una coppa  
 di crisolito e di perle.  
-E il [[archetypes/king|Re]] disse: «Prendi tu la mia spada [270]  
+E il [[archetypes/king|Re]] disse: «Prendi tu la mia [[Sword|spada]] [270]  
 tu che hai compiuto quest'atto di [[motifs/fire|fuoco]],  
 ché questo è il costume degli uomini cristiani,  
 siano essi d'acciaio o di penna sacerdotale:  
@@ -6139,15 +6328,15 @@ il loro giuramento regge fino alla fine.
 «Ché l'[[motifs/love|Amore]], nostro Signore, alla fine del mondo, [280]  
 siede un rosso [[motifs/horse|cavallo]] come un trono,  
 con elmo di bronzo e arco di ferro,  
-ma una freccia soltanto.  
+ma una freccia [[Alone|soltanto]].  
 «L'[[motifs/love|Amore]] con lo scudo del Cuore Spezzato  
 sempre tende il suo arco, [285]  
 con un solo dardo per un solo premio,  
 e l'ultimo strale che parte e vola  
 viene con un tuono di cieli squarciati,  
 e un suono d'anime che si lacerano.  
-«Così guadagnerai la spada d'un [[archetypes/king|re]], [290]  
-tu che la tua spada hai gettato via.»  
+«Così guadagnerai la [[Sword|spada]] d'un [[archetypes/king|re]], [290]  
+tu che la tua [[Sword|spada]] hai gettato via.»  
 E il [[archetypes/king|Re]] prese, con occhio distratto,  
 una rozza ascia da un contadino lì presso  
 e si volse alla mischia.  
@@ -6156,7 +6345,7 @@ fiammeggiarono intorno al signore caduto.
 Il primo [[motifs/blood|sangue]] destò il canto delle trombe,  
 come in rima di monaco o runa di mago  
 comincia la Battaglia di Ethandune  
-col lancio della spada. [300]
+col lancio della [[Sword|spada]]. [300]
 
 
 
@@ -6172,17 +6361,17 @@ Flew on the sea-born horde,
 The two hosts shocked with [[motifs/dust|dust]] and din,  
 Left of the Latian paladin,  
 Clanged all Prince Harold’s howling kin [5]  
-On Colan and the sword.  
+On Colan and the [[Sword|sword]].  
 Crashed in the midst on Marcus,  
 Ogier with Guthrum by,  
 And westward of such central stir,  
 Far to the right and faintlier, [10]  
-The house of Elf the harp-player,  
+The [[house]] of Elf the harp-player,  
 Struck Eldred’s with a cry.  
 The centre swat for weariness,  
 Stemming the screaming horde,  
 And wearily went Colan’s hands [15]  
-That swung [[historical-references/king-alfred|King Alfred]]’s sword.  
+That swung [[historical-references/king-alfred|King Alfred]]’s [[Sword|sword]].  
 But like a cloud of evening  
 To westward easily,  
 Tall Eldred broke the sea of spears  
@@ -6217,7 +6406,7 @@ And corn and quiet times—
 Till on the helm of a high chief  
 Fell shatteringly his brand,  
 And the helm broke and the bone broke [50]  
-And the sword broke in his hand.  
+And the [[Sword|sword]] broke in his hand.  
 Then from the yelling Northmen  
 Driven splintering on him ran  
 Full seven spears, and the seventh [55]  
@@ -6305,18 +6494,18 @@ Where no [[concepts/faith|faith]] else could grow. [135]
 Belief that grew of all beliefs  
 One moment back was blown  
 And belief that stood on unbelief  
-Stood up iron and alone.  
+Stood up iron and [[Alone|alone]].  
 The Wessex crescent backwards [140]  
 Crushed, as with bloody spear  
 Went Elf roaring and routing,  
 And Mark against Elf yet shouting,  
 Shocked, in his mid-career.  
-Right on the Roman shield and sword [145]  
+Right on the Roman shield and [[Sword|sword]] [145]  
 Did spear of the Rhine maids run;  
 But the shield shifted never,  
-The sword rang down to sever,  
+The [[Sword|sword]] rang down to sever,  
 The great Rhine sang for ever,  
-And the songs of Elf were done. [150]  
+And the [[songs]] of Elf were done. [150]  
 And a great thunder of Christian men  
 Went up against the sky,  
 Saying, “God hath broken the evil spear  
@@ -6334,7 +6523,7 @@ All wheels or webs of any worth,
 The God that makes the roof, Gurth, [165]  
 The God that makes the [[motifs/road|road]].  
 “The God that heweth kings in oak  
-Writeth songs on vellum,  
+Writeth [[songs]] on vellum,  
 God of gold and flaming glass,  
 Confregit potentias, [170]  
 Arcuum, scutum, Gorlias,  
@@ -6345,7 +6534,7 @@ All the sea-kings swayed among [175]
 Woods of the Wessex arms upflung,  
 The trumpet of the Roman tongue,  
 The thunder of the psalm.  
-And midmost of that rolling field  
+And midmost of that [[rolling]] field  
 Ran Ogier ragingly, [180]  
 Lashing at Mark, who turned his blow,  
 And brake the helm about his brow,  
@@ -6426,17 +6615,17 @@ These humbled Wessex hounds— [255]
 This one white string of men,  
 Shall keep us back from the end of the world,  
 And the things that happen then.  
-“It is not Alfred’s dwarfish sword, [260]  
+“It is not Alfred’s dwarfish [[Sword|sword]], [260]  
 Nor Egbert’s pigmy [[motifs/crown|crown]],  
 Shall stay us now that descend in thunder,  
 Rending the realms and the realms thereunder,  
 Down through the world and down.”  
 There was that in the wild men back of him, [265]  
-There was that in his own wild song,  
+There was that in his own wild [[Song|song]],  
 A dizzy throbbing, a drunkard smoke,  
 That dazed to [[motifs/death|death]] all Wessex folk,  
 And swept their spears along.  
-Vainly the sword of Colan [270]  
+Vainly the [[Sword|sword]] of Colan [270]  
 And the axe of Alfred plied—  
 The Danes poured in like a brainless plague,  
 And knew not when they died.  
@@ -6479,17 +6668,17 @@ volò l'orda nata dal mare,
 i due eserciti cozzarono con [[motifs/dust|polvere]] e fragore,  
 a sinistra del paladino laziale,  
 rimbombò tutta l'ululante stirpe del principe Harold [5]  
-su Colan e sulla spada.  
+su Colan e sulla [[Sword|spada]].  
 Nel mezzo si abbatté su Marcus,  
 Ogier con Guthrum accanto,  
 e a ovest di quel tumulto centrale,  
 lontano a destra e più fioca, [10]  
-la casa di Elf l'arpista  
+la [[house|casa]] di Elf l'arpista  
 investì con un grido quella di Eldred.  
 Il centro sudava di stanchezza,  
 arginando l'orda urlante,  
 e stanche andavano le mani di Colan [15]  
-che roteavano la spada di [[historical-references/king-alfred|re Alfredo]].  
+che roteavano la [[Sword|spada]] di [[historical-references/king-alfred|re Alfredo]].  
 Ma come una nube della sera  
 verso ponente, senza sforzo,  
 l'alto Eldred rompeva il mare di lance  
@@ -6524,7 +6713,7 @@ e del grano e dei tempi quieti—
 finché sull'elmo di un alto capo  
 cadde fracassando la sua lama,  
 e l'elmo si ruppe e l'osso si ruppe [50]  
-e la spada gli si ruppe in mano.  
+e la [[Sword|spada]] gli si ruppe in mano.  
 Allora dai Normanni urlanti  
 corsero scheggiando su di lui, sospinte,  
 ben sette lance, e la settima [55]  
@@ -6612,18 +6801,18 @@ dove nessun'altra [[concepts/faith|fede]] poteva crescere. [135]
 La credenza cresciuta da tutte le credenze  
 un attimo prima fu spazzata via  
 e la credenza che stava sull'incredulità  
-si levò, di ferro e sola.  
+si levò, di ferro e [[Alone|sola]].  
 La mezzaluna del Wessex all'indietro [140]  
 fu schiacciata, mentre con lancia insanguinata  
 Elf andava ruggendo e sbaragliando,  
 e Mark contro Elf, ancora gridando,  
 cozzò, in piena corsa.  
-Dritta sullo scudo romano e sulla spada [145]  
+Dritta sullo scudo romano e sulla [[Sword|spada]] [145]  
 corse la lancia delle fanciulle del Reno;  
 ma lo scudo non vacillò mai,  
-la spada calò a recidere,  
+la [[Sword|spada]] calò a recidere,  
 il gran Reno cantò per sempre,  
-e i canti di Elf furono finiti. [150]  
+e i [[songs|canti]] di Elf furono finiti. [150]  
 E un gran tuono di uomini cristiani  
 salì contro il cielo,  
 dicendo: «Dio ha spezzato la lancia malvagia  
@@ -6641,7 +6830,7 @@ di ogni ruota o tela che valga,
 il Dio che fa il tetto, Gurth, [165]  
 il Dio che fa la [[motifs/road|strada]].  
 Il Dio che intaglia re nella quercia  
-scrive canti su pergamena,  
+scrive [[songs|canti]] su pergamena,  
 Dio dell'oro e del vetro fiammante,  
 Confregit potentias, [170]  
 Arcuum, scutum, Gorlias,  
@@ -6652,7 +6841,7 @@ tutti i re del mare ondeggiarono fra [175]
 selve di braccia del Wessex levate in alto,  
 la tromba della lingua romana,  
 il tuono del salmo.  
-E nel mezzo di quel campo ondeggiante  
+E nel mezzo di quel campo [[rolling|ondeggiante]]  
 corse Ogier furibondo, [180]  
 sferzando Mark, che ne deviò il colpo,  
 e gli spezzò l'elmo sulla fronte,  
@@ -6733,17 +6922,17 @@ non questa pallida fila di villani cristiani,
 questa sola bianca corda di uomini,  
 a tenerci lontani dalla fine del mondo,  
 e dalle cose che accadono allora.  
-Non è la spada nana di Alfredo, [260]  
+Non è la [[Sword|spada]] nana di Alfredo, [260]  
 né la [[motifs/crown|corona]] pigmea di Egbert,  
 che ci fermerà, ora che scendiamo nel tuono,  
 squarciando i regni e i regni sottostanti,  
 giù attraverso il mondo e giù».  
 C'era qualcosa nei selvaggi alle sue spalle, [265]  
-c'era qualcosa nel suo stesso selvaggio canto,  
+c'era qualcosa nel suo stesso selvaggio [[Song|canto]],  
 un pulsare vertiginoso, un fumo da ubriachi,  
 che stordiva a [[motifs/death|morte]] tutta la gente del Wessex,  
 e ne travolgeva le lance.  
-Invano la spada di Colan [270]  
+Invano la [[Sword|spada]] di Colan [270]  
 e la scure di Alfredo si adoprarono—  
 i Danesi dilagavano come peste senza cervello,  
 e non sapevano quando morivano.  
@@ -6783,13 +6972,13 @@ BOOK VII
 ETHANDUNE: THE LAST CHARGE  
 
 WAY in the waste of White [[motifs/horse|Horse]] Down  
-An idle [[archetypes/child|child]] alone  
+An idle [[archetypes/child|child]] [[Alone|alone]]  
 Played some small game through hours that pass,  
 And patiently would pluck the grass,  
 Patiently push the stone. [5]  
 On the lean, green edge for ever,  
 Where the blank [[motifs/chalk|chalk]] touched the turf,  
-The [[archetypes/child|child]] played on, alone, divine,  
+The [[archetypes/child|child]] played on, [[Alone|alone]], divine,  
 As a [[archetypes/child|child]] plays on the last line  
 That sunders sand and surf. [10]  
 For he dwelleth in high divisions  
@@ -6839,7 +7028,7 @@ And Alfred born in Wantage
 Rules England till the doom. [55]  
 Because in the forest of all fears  
 Like a strange fresh gust from sea,  
-Struck him that ancient innocence  
+Struck him that ancient [[innocence]]  
 That is more than mastery.  
 And as a [[archetypes/child|child]] whose bricks fall down [60]  
 Re-piles them o’er and o’er,  
@@ -6876,7 +7065,7 @@ One sitting on the stone,
 One half-way through the thorn hedge tall,  
 One with a leg across a wall,  
 And one looked backwards, very small,  
-Far up the [[motifs/road|road]], alone. [95]  
+Far up the [[motifs/road|road]], [[Alone|alone]]. [95]  
 Grey twilight and a yellow star  
 Hung over thorn and [[motifs/hill|hill]];  
 Two spears and a cloven war-shield lay  
@@ -6894,8 +7083,8 @@ And hounded like a howling [[characters/witch|witch]],
 Or smoked to [[motifs/death|death]] in holes? [110]  
 “Or that before the red cock crow  
 All we, a thousand strong,  
-Go down the dark [[motifs/road|road]] to God’s house,  
-Singing a Wessex song?  
+Go down the dark [[motifs/road|road]] to God’s [[house]],  
+Singing a Wessex [[Song|song]]?  
 “To sweat a slave to a race of slaves, [115]  
 To drink up infamy?  
 No, brothers, by your leave, I think  
@@ -7013,7 +7202,7 @@ The waggons waver and crash and kill
 The waggoners beneath. [230]  
 Barriers go backwards, banners rend,  
 Great shields groan like a gong  
-Horses like horns of nightmare  
+Horses like horns of [[nightmare]]  
 Neigh horribly and long.  
 Horses ramp high and rock and boil [235]  
 And break their golden reins,  
@@ -7084,7 +7273,7 @@ And bare and bloody and aloft [300]
 They bore before their band  
 The [[concepts/body|body]] of their mighty lord,  
 Colan of Caerleon and its horde,  
-That bore [[historical-references/king-alfred|King Alfred]]’s battle-sword  
+That bore [[historical-references/king-alfred|King Alfred]]’s battle-[[Sword|sword]]  
 Broken in his left hand. [305]  
 And a strange music went with him,  
 Loud and yet strangely far;  
@@ -7104,7 +7293,7 @@ And Halmer laid three others low, [320]
 And the great earls wavered to and fro  
 For the living and the dead.  
 And Gorlias grasped the great [[motifs/flag|flag]],  
-[[works/the-raven-(poe)|The Raven]] of Odin, torn;  
+[[works/the-raven-(coleridge)|The Raven]] of Odin, torn;  
 And the eyes of Guthrum altered, [325]  
 For the first [[motifs/time|time]] since morn.  
 As a turn of the [[motifs/wheel|wheel]] of tempest  
@@ -7159,13 +7348,13 @@ LIBRO VII
 ETHANDUNE: L'ULTIMA CARICA  
 
 LUNGI nella landa del Colle del [[motifs/horse|Cavallo]] Bianco  
-un [[archetypes/child|bimbo]] ozioso, solo,  
+un [[archetypes/child|bimbo]] ozioso, [[Alone|solo]],  
 giocava un piccolo gioco per ore che passano,  
 e paziente strappava l'erba,  
 paziente spingeva la pietra. [5]  
 Sull'orlo magro e verde, per sempre,  
 dove il [[motifs/chalk|gesso]] nudo toccava la zolla,  
-il [[archetypes/child|bimbo]] giocava, solo, divino,  
+il [[archetypes/child|bimbo]] giocava, [[Alone|solo]], divino,  
 come gioca un [[archetypes/child|bimbo]] sull'ultima linea  
 che divide sabbia e risacca. [10]  
 Poiché egli dimora in alte divisioni  
@@ -7215,7 +7404,7 @@ e Alfredo nato a Wantage
 regge l'Inghilterra fino al giudizio. [55]  
 Perché nella foresta d'ogni paura,  
 come strana fresca raffica dal mare,  
-lo colpì quell'antica innocenza  
+lo colpì quell'antica [[innocence|innocenza]]  
 che è più della maestria.  
 E come un [[archetypes/child|bimbo]] cui crollano i mattoni [60]  
 li riammucchia ancora e ancora,  
@@ -7252,7 +7441,7 @@ uno seduto sulla pietra,
 uno a metà dell'alta siepe di spini,  
 uno con una gamba oltre un muro,  
 e uno guardava indietro, piccolissimo,  
-lassù per la [[motifs/road|strada]], solo. [95]  
+lassù per la [[motifs/road|strada]], [[Alone|solo]]. [95]  
 Grigio crepuscolo e una stella gialla  
 pendevano su spini e [[motifs/hill|colle]];  
 due lance e uno scudo di guerra spaccato giacevano  
@@ -7270,8 +7459,8 @@ e braccati come una [[characters/witch|strega]] urlante,
 o affumicati a [[motifs/death|morte]] nelle tane? [110]  
 «O che prima che canti il gallo rosso  
 noi tutti, mille in forze,  
-scendiamo la scura [[motifs/road|strada]] verso la casa di Dio,  
-cantando una canzone del Wessex?  
+scendiamo la scura [[motifs/road|strada]] verso la [[house|casa]] di Dio,  
+cantando una [[Song|canzone]] del Wessex?  
 «Sudare da schiavo per una razza di schiavi, [115]  
 tracannare l'infamia?  
 No, fratelli, con vostra licenza, io penso  
@@ -7389,7 +7578,7 @@ i carri vacillano e crollano e uccidono
 i carrettieri di sotto. [230]  
 Le barriere arretrano, le bandiere si lacerano,  
 i grandi scudi gemono come un gong,  
-cavalli come corni d'incubo  
+cavalli come corni d'[[nightmare|incubo]]  
 nitriscono orribilmente e a lungo.  
 I cavalli s'impennano alti e ondeggiano e ribollono [235]  
 e spezzano le redini dorate,  
@@ -7460,7 +7649,7 @@ E nudo e insanguinato e in alto [300]
 portavano davanti alla loro schiera  
 il [[concepts/body|corpo]] del loro possente signore,  
 Colan di Caerleon e della sua orda,  
-che recava la spada di battaglia di [[historical-references/king-alfred|re Alfredo]]  
+che recava la [[Sword|spada]] di battaglia di [[historical-references/king-alfred|re Alfredo]]  
 spezzata nella mano sinistra. [305]  
 E una strana musica andava con lui,  
 forte eppure stranamente lontana;  
@@ -7480,7 +7669,7 @@ e Halmer ne stese altri tre, [320]
 e i grandi conti ondeggiavano qua e là  
 per i vivi e per i morti.  
 E Gorlias afferrò la grande [[motifs/flag|bandiera]],  
-il Corvo di Odino, lacerato;  
+[[The Raven|il Corvo]] di Odino, lacerato;  
 e gli occhi di Guthrum mutarono, [325]  
 per la prima [[motifs/time|volta]] dal mattino.  
 Come un giro della [[motifs/wheel|ruota]] della tempesta  
@@ -7568,7 +7757,7 @@ The [[archetypes/king|King]] sat in his orchard,
 Among apples green and red, [30]
 With the little book in his bosom
 And the sunshine on his head.
-And he gathered the songs of simple men
+And he gathered the [[songs]] of simple men
 That swing with helm and hod,
 And the alms he gave as a Christian [35]
 Like a [[motifs/river|river]] alive with fishes ran;
@@ -7630,7 +7819,7 @@ Among apples green and red,
 With the little book in his bosom,
 Looked at green [[motifs/leaves|leaves]] and said:
 “When all philosophies shall fail,
-This word alone shall fit; [95]
+This word [[Alone|alone]] shall fit; [95]
 That a sage feels too small for life,
 And a [[archetypes/fool|fool]] too large for it.
 “Asia and all imperial plains
@@ -7787,7 +7976,7 @@ The heathen shall return.
 They shall not waste with brands,
 But books be all their eating, [250]
 And ink be on their hands.
-“Not with the humour of hunters
+“Not with the [[Humour|humour]] of hunters
 Or savage skill in war,
 But ordering all things with dead words,
 Strings shall they make of beasts and [[motifs/birds|birds]], [255]
@@ -7809,7 +7998,7 @@ Though they rear marvels over us, [270]
 Greater than great Vergilius
 Wrought for the Roman [[archetypes/king|king]],
 “By this sign you shall know them,
-The breaking of the sword,
+The breaking of the [[Sword|sword]],
 And Man no more a free knight, [275]
 That loves or hates his lord.
 “Yea, this shall be the sign of them,
@@ -7908,6 +8097,662 @@ One turret of smoke like ivory;
 And the smoke changed and the [[motifs/wind|wind]] went by, [370]
 And the [[archetypes/king|King]] took [[settings/london|London]] Town.
 
+The Ballad of the White [[motifs/horse|Horse]]
+Documentation and Abbreviations
+The notes use the author-date system. Authors names and the publication dates of their books appear in the text, usually in parentheses. For more complete documentation consult the references on pages 225-231.
+Abbreviations
+GK, GKC, Chesterton      Gilbert Keith Chesterton
+BWH      The Ballad of the White [[motifs/horse|Horse]]
+ASC      Anglo-Saxon Chronicle
+P      Prefatory Note
+D      Dedication
+E III: 109      Endnote Book III: line 109
+IV:11      Book IV: line 11
+Chesterton at Battersea in 1905
+
+Notes: Prefatory Note
+P:1. This ballad needs historical notes, for the simple reason that it is steeped in [[concepts/history|history]]. Chesterton’s emphatic disavowal is linked to his need as a poet to place the important battle of Ethandune in Berkshire near White [[motifs/horse|Horse]] [[motifs/hill|Hill]]. He knew better. Yet he dared not say, “Although I believe that the battle of Ethandune was probably fought at Edington in the vicinity of Bratton [[settings/castle|Castle]] in Wiltshire, I intend, for my own reasons, to locate it in Berkshire. The ancient White [[motifs/horse|Horse]] is a significant presence in the Ballad.” See Introduction iv.
+P:22-25. ultimate victory of Alfred: The battle of Ethandune.
+P:25-31. tradition: Chesterton avoids the controversy by claiming to write from hearsay. Wherever it occurred, [[historical-references/king-alfred|King Alfred]] decisively defeated the Danes in 878. This victory made possible “the gradual re-conquest of the Danelaw in the tenth century” and preserved England from losing its language, culture, and religion.
+P:31-35. Alfred played the harp and sang in the Danish camp: William of Malmesbury, writing in the early twelfth century, is the first historian to mention this legend (Keynes and Lapidge 1983,22,212).
+P:36-59. Alfred came in contact with a woman and cakes: The earliest extant version of this legend occurs in an anonymous account of The Life of St. Neot. This manuscript was probably written in the late tenth century after the removal of the relics of St. Neot from Cornwall to a priory at Eyenesbury in Huntingdonshire (Keynes and Lapidge 1983,197-202).
+P:66. Eadwig: A youthful [[archetypes/king|king]] of England whose short reign accomplished little of significance (ASC 955-59).
+P:72-86. He fought for the Christian civilization against the heathen nihilism: Here is the theme of the Ballad: Life is an ongoing struggle between good and evil forces. Down to the last verse Chesterton spells out this theme on multiple levels of life.
+
+Notes: Dedication
+Synopsis: Chesterton speaks to the reader (1-46): These rhymes are about the warfare waged between [[historical-references/king-alfred|King Alfred]] and the Danes in the latter part of the ninth century. Chesterton speaks to his wife (47-94): I am dedicating this poem to you out of [[motifs/love|love]] and appreciation for your joyful companionship, and the spiritual inspiration you are and have been in my life.
+Therefore I bring these rhymes to you,
+Who brought the [[motifs/cross|cross]] to me,
+Since on you flaming without flaw
+I saw the sign that Guthrum saw
+When he let break his ships of awe,
+And laid peace on the sea.
+(D:53-58)
+D: 1-16. Chesterton opens his [[forms/epic|epic]] of [[historical-references/king-alfred|King Alfred]] the Great by emphasizing that this is an account of the aboriginal struggle of the Christians and the heathens for the control of England. Alfred is the great face turned toward the darkness enveloping his kingdom after the Danish surprise invasion of Wessex in January 878.
+Garry Wills (1961,136) pointed out that the first two lines are from Chesterton’s early unpublished poem on Moses. The first stanza is included here through the courtesy of Wills and of A. P. Watt Ltd. on behalf of the Royal Literary Fund.
+Of great limbs gone to chaos
+Of a great face turned to [[motifs/night|night]]
+From the grey old earth’s first twilight
+The [[motifs/soul|soul]] of a man of might
+The man of the shattered tables
+The man of the living rod
+The man who gave to the nations
+The Ten Great Words of God.
+D:3-16. Why does a poet look back a thousand years at the England of Alfred’s day? He wants to remind readers that it was Alfred the Great who saved England.
+D:6-16. Chesterton refers to previous eras as “sunken Englands.” In “telescoping [[concepts/history|history]]” he declares: “The prime function of [[concepts/imagination|imagination]] is to see our whole orderly system of life as a pile of stratified revolutions” (1906,60).
+D:9. thanes: Men who held lands of the [[archetypes/king|king]] or other superior in Anglo-Saxon times. They gave military service and usually had hereditary rank.
+D:17. gonfalon: A pennon or [[motifs/flag|flag]] affixed to the end of a lance. The gonfalon under which the Normans fought at [[characters/hastings|Hastings]] in 1066 was a white banner sent by the Pope to William of Normandy.
+D:17-18. The Normans conquered the Anglo-Saxons.
+D:18. The Anglo-Saxon [[motifs/flag|flag]] was a golden dragon mounted on a [[motifs/blood|blood]]-red held.
+D:19-28. We will not touch on the deeds of [[characters/king-arthur|King Arthur]] nor on events after the Norman Conquest. Our chief concern is with the last third of the ninth century when a great Christian [[archetypes/king|King]] withstood the Pagan Danes.
+D:21-22. holy kings: [[characters/king-arthur|King Arthur]]’s allies against the Saxons.
+D:23-24. Bayeux: The town in France which displays the embroidery known as the Bayeux Tapestry. Of Saxon workmanship, it pictorially depicts events connected with the Norman Conquest.
+D:25. [[motifs/dawn|dawn]]: The early sixth century when [[characters/arthur|Arthur]] supposedly fought twelve battles against the heathen invaders.
+D:26-28. Alfred’s achievements are so remarkable and varied that moderns find them almost incredible.
+D:41-44. The recent outpouring of Anglo-Saxon studies enables readers to enter into the life and times of Alfred. James Campbell gives a brief, illustrated, interpretative account of Anglo-Saxon [[concepts/history|history]] with notes and a bibliography. Simon Keynes and [[characters/michael|Michael]] Lapidge have extensive references listed in Alfred the Great (1983,345-59). Their new [[forms/translation|translation]] of Asser’s Life of [[historical-references/king-alfred|King Alfred]] provides excellent background reading for The Ballad of the White [[motifs/horse|Horse]]. Dorothy Whitelock’s writings about the Anglo-Saxon era are both authoritative and illuminating.
+D:47-52. Alfred realized that it was only by relying on help from God that he could defeat the pagans.
+D:53-56. Gilbert Chesterton dedicates The Ballad of the White [[motifs/horse|Horse]] to his wife, Frances.
+D:56-58. Guthrum: See E VII:325.
+D:59-64. Gilbert and Frances toured the area around Chippenham where the Danes surrendered. Compare his poetic and his prose descriptions of the battleground. [Here is proof that GKC knew before 1911 that Wiltshire had a better claim than Berkshire as the site of Ethandune.] “But the other day under a wild sunset and moonrise I passed the place which is best reputed as Ethandune, a high, grim upland, partly bare and partly shaggy; like that savage and sacred spot in those great imaginative lines about the demon [[archetypes/lover|lover]] and the waning [[motifs/moon|moon]]. The darkness, the red wreck of sunset, the yellow and lurid [[motifs/moon|moon]], the long fantastic shadows, actually created that sense of monstrous incident which is the dramatic side of landscape. The bare grey slopes seemed to rush downhill like routed hosts; the dark clouds drove across like riven banners; and the [[motifs/moon|moon]] was like a golden dragon, like the Golden Dragon of Wessex” (1911,228-29).
+D:65-94. Chesterton here expresses his appreciation for Frances’s loving companionship, giftedness, and her sterling qualities.
+Father John O’Connor, a close personal friend of the Chestertons, confirms how [[motifs/well|well]]-founded was Chesterton’s [[motifs/love|love]] and esteem for Frances. “It is to her that we owe the most and some of the best of Gilbert Chesterton. In all things she was his angel, a small Cockney, a connection of the first editor of Punch. She even converted him from what he calls the Higher Unitarianism to the more loyal and rational kind of Anglicanism—Tractarian more than Ritualistic” (1938,28).
+D:77-82. A reference to certain contemporary writers and editors. See VIII: 248-302 and Endnotes.
+D:94. Frome. An urban district in Somersetshire, England.
+
+Notes: The Vision of the [[archetypes/king|King]]
+Synopsis: Chesterton introduces the White [[motifs/horse|Horse]], and then presents an overview of the chaotic migration of nations after the Fall of Rome (1-80). The heathen Northmen, a sea-folk, caused widespread havoc, and by 878 had subjugated all of Britain except Wessex. After the Danish surprise raid at Chippenham in January 878, Alfred at his wit’s end hid out on the marshy island of Athelney (81-161). At this impasse Mary appears to Alfred (162-277).
+[[motifs/night|Night]] shall he thrice [[motifs/night|night]] over you,
+And heaven an iron cope.
+Do you have joy without a cause,
+Yea, [[concepts/faith|faith]] without a [[concepts/hope|hope]]?
+(I:258-61)
+I:17. The White [[motifs/horse|Horse]] of the White [[motifs/horse|Horse]] Vale: Meet the White [[motifs/horse|Horse]] which Chesterton recognizes as a prehistoric presence (1911,257). Thomas Hughes quotes the description of this gigantic White [[motifs/horse|Horse]] given by the author of A Tour through England: “Looking south from the Vale, we see a trench cut on the side of a high green [[motifs/hill|hill]], in the shape of a [[motifs/horse|horse]], and not ill-shaped neither; the trench is about a yard deep, and filled almost up with [[motifs/chalk|chalk]], so that at a distance you see the exact shape of a White [[motifs/horse|Horse]], but so large, as to take up near an acre of ground. . . . From this figure the [[motifs/hill|hill]] is called in our maps White [[motifs/horse|Horse]] [[motifs/hill|Hill]], and the low or flat country under it the Vale of the White [[motifs/horse|Horse]]” (1859,216).
+I:18-60. End of the world: The downfall of Rome. Darkness settled over the civilized world. Hordes of barbarians poured from the east and the north into the Roman Empire. “That outer world of universal anarchy which lay beyond Christendom” (Chesterton 1917,50).
+I:32. cresset: An iron vessel for holding burning oil or pitch. It may be mounted as a torch, or hung as a lantern.
+I:38. Titan [[motifs/flowers|flowers]]: Gigantic [[motifs/flowers|flowers]].
+I:41. Ind’s: India’s.
+I:42. inmost one: Mt. Everest.
+I:61-80. The [[motifs/death|death]] of the Emperor Charlemagne in 814 weakened the defenses which Christendom had in Europe. During the latter part of the ninth century, Alfred with God’s help stayed the pagan tide of invasion.
+I:62. The ninth century was a dark period for the Papacy. Lay investiture multiplied evils in the disintegrating Carolingian Empire. The Saracens pillaged southern [[settings/italy|Italy]] and threatened the Papal States. Within the [[motifs/city|city]] of Rome itself, the Italian nobles frequently fought to secure position and wealth. As unscrupulous politicians, they endeavored to put someone who belonged to their party on the papal throne. By this means they hoped to gain control of the temporal [[government]] of the [[motifs/city|city]], and to enrich themselves by graft. Weak and unworthy men were in some cases appointed Popes. In 1059, the revision of the system of electing the Pope freed these elections from irregularities and imperial control (Mann 1925, vols.2,3,4).
+I:63-76. Alfred’s kingdom was in the hands of the Danes after their surprise attack at Chippenham in January, 878. While mustering his army for the counter-attack in the [[motifs/spring|spring]], Alfred hid on the island of Athelney (ASC). After Easter [23 March] that year, Alfred with the help of the inhabitants of Somerset, Wiltshire, and Hampshire fought against the entire Danish army at Ethandune and was victorious (ASC 878).
+I:77-80. During the ensuing years [[historical-references/king-alfred|King Alfred]] strengthened the fortifications in his kingdom. This enabled him in 886 to quickly defeat the army which was attacking [[settings/london|London]] and to overcome renewed attacks from 892-96. Meanwhile he initiated programs for the revival of religion and learning. His composite law code showed his judicious concern for maintaining social and political order among his subjects (Keynes and Lapidge 1983,16370).
+I:81-111. Chesterton refers to the Northmen as “a horde of heathen raiders out of the northern seas and forests” (1930,114).
+These pirates were at first satisfied with booty, devastation, and tribute. Their encroachments brought ruination and the depressing impoverishment of civilization. After 865 they aspired to conquer and settle. By 878 much of Britain was under their sway, and they were making concerted efforts to take over Wessex.
+I:89. horned heads: The Northmen are often erroneously pictured with horned helmets. See E V:171.
+I:102. The barbarous religious ceremony of shedding the [[motifs/blood|blood]] of [[motifs/animals|animals]] as [[motifs/well|well]] as that of men was not entirely abolished in Scandinavia until [[motifs/well|well]] into the ninth century when they received the light of the Gospel (Mallet 1882,111).
+I:108. A great heathen army came to East Anglia in the [[motifs/autumn|autumn]] of 866 and took [[motifs/winter|winter]] quarters there (ASC). From this [[motifs/time|time]] onwards we read of the heathen army being somewhere in Britain.
+I:116-22. Alfred’s sires courageously opposed the recurring onslaughts of the Danish warriors.
+Egbert (802-39), the paternal grandfather of Alfred, brought about a short-lived, fragile [[concepts/union|union]] of the Anglo-Saxon monarchies about the year 829. Ethelwulf, Alfred’s father, reigned from 839 to 858. Alfred’s brothers, who ruled in turn were Ethelbald, 85860; Ethelbert, 860-66; and Ethelred, 866-71. Alfred governed the kingdom from 871-99.
+I:125. Lyonesse: In [[historical-references/arthurian-legend|Arthurian legend]], a country fabled to have been formerly contiguous to Cornwall but to have long since sunk beneath the sea.
+I:125-26. [[characters/arthur|Arthur]] is “the [[archetypes/king|king]] that comes no more.” Chesterton compares the vanishing [[motifs/memory|memory]] of Alfred’s family with the folk tales still afloat about [[characters/king-arthur|King Arthur]] and his “lords” who fought against the invading Saxons.
+I:127. The Golden Drag on: The [[motifs/flag|flag]] of the West Saxons.
+I:129. [[historical-references/king-alfred|King Alfred]].
+I:138. In 878 Athelney was an island in Somersetshire at the junction of the Parrett and Tone rivers. Today it is a [[motifs/hill|hill]] on farm land that can be viewed from the layby on the A361 about half a mile northeast of Lyng.
+I:141. broken to his knee: After the surprise attack in January 878 Alfred is stunned but not defeated.
+I:146-55. Alfred recalls the incident in his [[motifs/childhood|childhood]] when he obtained an illuminated manuscript from his mother (Keynes and Lapidge 1983,75).
+I:148. Alfred’s mother was Osburh, “a religious woman, noble both by birth and by [[concepts/nature|nature]]” (Giles 1891,44).
+I:162-76. There are no recorded traditions about the appearance of Our Lady to Alfred. The pivotal part Chesterton has Mary take in assembling the soldiers (Book II), winning the battle (Book VII), and watching over England as Protectress (Book VIII), is evidence of the sincere [[motifs/love|love]] he had for the Mother of God. See E VII:189-204.
+I:177-82. The Alfred [[motifs/jewel|Jewel]]: This [[motifs/jewel|jewel]] of Anglo-S axon workmanship is a gold plaque having the portrait of a man in cloisonné enamel. Round the edge in Anglo-Saxon workmanship are the words “Alfred had me worked” (Keynes and Lapidge 1983, 203-6). The [[motifs/jewel|Jewel]], found in 1693 at Newton Park some four miles north of Athelney, is the most treasured possession of the Ashmolean Museum at [[settings/oxford|Oxford]] University.
+I:183-202. Chesterton was vividly conscious of Mary’s nearness to people everywhere. Maisie Ward tells us that he often spoke of “Our Lady returning to his own land, to all lands, and saving the world” (Ward 1945,4). Rather than attribute Alfred’s victory to the legendary miraculous help given either by St. Neot or by St. Cuthbert, Chesterton chose to have Alfred ask Our Lady whether or not he and his Christian warriors would eventually become victorious.
+I:205. croft: A small enclosed field adjacent to a [[house]].
+I:211. hind: A peasant; a farm laborer.
+I:216. the Three Kings: The three Persons of the Holy Trinity.
+I:209-61. At the age of thirty, a thoroughly humbled Alfred realizes that Mary’s visit to him meant that victory would come after a tremendous struggle. “Do you have. . . [[concepts/faith|faith]] without a [[concepts/hope|hope]]?” From now on he goes “gaily in the dark.”
+
+Notes: The Gathering of the Chiefs
+Synopsis: “Alfred of the lonely spear” gathers his Christian [[concepts/freedom|freedom]] fighters from western Wessex and Wales for an all-out battle with the pagan Danes. Mary’s message convinces the Roman, Gael, and Saxon to assemble at Egbert’s Stone.
+Out of the mouth of the Mother of God
+Like a little word come I;
+For I go gathering Christian men
+From sunken paving and ford and fen,
+To die in a battle, God knows when,
+By God, but I know why.
+And this is the word of Mary,
+The word of the world’s [[motifs/desire|desire]]:
+“No more of comfort shall ye get,
+Save that the sky grows darker yet
+And the sea rises higher.”
+(II:74-84)
+II:2. [[Shaw|shaw]]: A strip of woodland forming the border of a held; a small wood or grove; a thicket [Dial.].
+Chesterton creates the atmosphere of ninth century England by using words taken from the vocabulary of the people of that day.
+II:1-8. In “A [[works/romance-(poe)|Romance]] of the Marshes” Chesterton describes the terrain around Athelney: “Everything in that strange countryside seemed to be lying low, as if to avoid the incessant and rattling rain of the Danish arrows. There were indeed hills of no inconsiderable height quite within call; but those pools and flats of the old Parrett seemed to separate themselves like a central and secret sea; and in the midst of them stood up the rock of Athelney as isolate as it was to Alfred. . . . One stooped to stroke the grass, as if the earth were all one kind beast that could feel” (1911,299-300).
+II:9-24. Alfred, buoyed up after meeting Mary, sings as he travels north toward the estuary of the Severn [[motifs/river|river]] in search of Eldred the Saxon. Alfred needs the help of all the Christians to drive out the pagan Danes.
+II:21. Franklin: A substantial landholder but not a nobleman.
+II:23. Sacred Tree: An oak tree. To the druids the oak was an “emblem of the Divinity” (Lingard [1849] 1912,1:16-17).
+II:24. Usk: A [[motifs/river|river]] in Wales that flows through southwest England into the Severn estuary.
+II:25-62. Compare Chesterton’s description of Eldred with the “English virtues” he cites in Cobbett. “The [[motifs/love|love]] of loafing and of lonely adventure; the spirit of the genial eccentric; the capacity to be a hermit without being a misanthrope; the [[motifs/love|love]] of landscape and of roads astray; and above all, that [[motifs/love|love]] of the [[concepts/grotesque|grotesque]] that is as brave as a broad grin. Nor. . . was he without that softer side, only that with him it was generally the inside. I mean that it was in his private and domestic character that we see the English aversion to what is painful and severe. He was a very gentle father” (1926,203-4).
+II:46-57. Eldred has lost interest in fighting the Danes because of the unending defeats. Out of nine battles in 871, only Englefield and Ashdown were clearly Saxon victories. Alfred then saved lives and bought [[motifs/time|time]] by paying the heathens to leave Wessex. Five years later Guthrum and his entire army returned with the intention of taking possession of Wessex.
+II:58. scalds: Bards who sang or recited heroic [[Poems|poems]] and eulogies.
+II:94. butt: Probably a cask of ale near Eldred.
+II:96. Egbert’s Stone: This meeting place cannot be identified with certainty. It was in Wiltshire east of Selwood Forest, and within a day’s march of the next camping place, Iley Oak. According to the ASC, men from Somersetshire, Wiltshire, and Hampshire assembled there.
+II:103-12. The marauding Danes ravaged the homesteads of the natives and the dwellings of the hermits. Alfred sees destruction on all sides.
+II:105. steading: A farmstead [Dial.].
+II:107. combe: A narrow valley or deep hollow, especially one enclosed on all but one side.
+II:117-41. After walking all [[motifs/night|night]] Alfred arrives at Mark’s farm at daybreak. The organization evident everywhere reflects the character of the owner.
+II:147-52. Alfred humbly introduces himself to the Roman as one who is still struggling to defeat the heathen Danes. He acknowledges that he bought peace by paying them to withdraw from his kingdom.
+II:151. wold: An upland plain; a region without woods.
+II:166. Wiltshire: A county in southern England. White [[motifs/horse|Horse]] wold: This upland plain takes its name from the prehistoric White [[motifs/horse|Horse]] located atop White [[motifs/horse|Horse]] [[motifs/hill|Hill]].
+II:165-68. Mark shows his military competence by forming a judgment of the situation in Wessex.
+II:167. Owsenfold: An unidentified place.
+II:191. Or: Before, ere [Archaic].
+II:192. Caerleon: Atown on the Usk [[motifs/river|river]] in southern Wales.
+II:194. broken men: Colan’s ancestors fled into the crags of Wales to evade the Saxons. His forefathers preferred [[concepts/freedom|freedom]] in a mountainous terrain to [[concepts/slavery|slavery]] elsewhere under the Saxons.
+II:199. Druid trees: The Druids venerated the oak.
+II:201. the fallen kings: [[characters/arthur|Arthur]] and the legendary allied kings of sixth century Britain. They were the Christian Celtic champions against the pagan Saxon invaders.
+II:203. Last of a race in ruin: Colan is a proud Celt whose ancestors retreated into the rocky fastnesses of Wales to preserve their lives and their [[concepts/freedom|freedom]]. They were the Christian resistance forces in the sixth century opposing the onslaught of the pagan Saxons. Now three centuries later a Christianized Saxon is seeking help to conquer invading heathens. Alfred’s meekness and his message from Mary win Colan’s assistance.
+II:204-6. The Irish overran Britain both during the Roman occupation and after the legions were withdrawn (Collingwood [1936] 1937,282). They colonized Wales to such an extent that Gaelic became the language of the people (Oman [1904] 1925,158-59). When the Irish settlements lost their independence to the Welsh, Gaelic gradually became extinct in Wales.
+II:208-9. Ireland is “the rain-wrapped isle.” Brandan [Brendan] in reality is the sixth century founder of the monastery of Clonfert.
+In story books Brendan has fantastic adventures as a navigator sailing westward from Ireland.
+II:231-41. Colan’s deeply rooted pagan past influences him.
+Catherine Mulroy, an older woman from northwestern Ireland, wrote this account of early Celtic religious beliefs.
+Before [[historical-references/christianity|Christianity]] came to Ireland the people there worshipped pagan gods, e.g., sun, [[motifs/moon|moon]], [[motifs/stars|stars]], seas, rivers, trees, [[motifs/fire|fire]], stone, iron, etcetera. The Irish have always been a deeply religious people—constantly searching for a greater being to pay homage to.
+This worship was inspired more out of [[concepts/fear|fear]] than [[motifs/love|love]]. They believed that their gods governed people according to a pattern of dark, unreasoned fate. This left them an easy prey to chance, luck, sadness and [[concepts/despair|despair]]. They did their best to appease their gods by their worship, but they lived in [[concepts/fear|fear]] and dread of how fate would turn for them.
+Here and there throughout the land there were mounds, forts, and stone altars set up for worship, and at festivals fires were lighted on high [[settings/mountains|mountains]] as an outward sign of worship. The great tall boulders along the Atlantic coast, for example, the high cliffs of Moher in Co. Clare are places where the gods were worshipped. These tall cliffs today can be termed “the gods of unbearable [[concepts/beauty|beauty]]” as one walks along the high cliffs on that rugged western coast.
+These were the types of gods our ancestors worshipped and when [[historical-references/christianity|Christianity]] came with St. Patrick, the country was steeped in pagan worship. The [[concepts/conversion|conversion]] was long and arduous but very real as the Gaels were searching for the One and true Living God which Patrick brought. The sod was ready for [[concepts/conversion|conversion]] and the seed took root and began to grow, spreading through the length and breadth of that land. The worship of pagan gods bed to be abandoned, hut as this was a deep-down thing, it was not easy for the New Christians to relinquish all their old deep-rooted [[concepts/nature|nature]] worship.
+They feared to let go of everything and held on to what they thought was important in the line of small manners and customs—just in case there was anything important in them. These superstitions have been passed down from generation to generation and there are still some slight traces in evidence in certain areas in the West [of Ireland], even in the twentieth century.
+Catherine Mulroy, R.S.M. 1988. Manuscript to editor. ([[settings/london|London]]: Bellord [[house|House]], 7 Gun St.)
+II:235-36. The gods could break the hearts of men because the pagan Cert believed that [[motifs/death|death]] could come suddenly upon a person who broke his word to the Sun, [[motifs/moon|Moon]], etcetera. The people lived in rear of the avenging action of the elements.
+Professor Eoin MacNeill made an insightful summation: “The Celt was plying an age-long warfare against the crude primeval forces of the physical world, and was everywhere face to face, not with measure, but with immensity—with vast forest regions, the rigors of the northern. . . [[motifs/winter|winter]], the mystery of the boundless ocean. This experience has shaped and coloured all his thought and all his literature; most ofJ his legends of antiquity” (1910,4-5).
+II:268-75. Early Irish literature relates the legendary deeds of Cuchulainn, Deirdre and Naoise, Oisin and Fionn, and many others.
+II:277. See E V:201-2 where hills and pikes are described.
+
+Notes: The Harp of Alfred
+Synopsis: While Alfred awaits his allies he visits the Danish camp disguised as a harper. This interlude provides a fine opportunity for comparing Pagan and Christian ideals and gives the motive for the whole campaign.
+The Harp of Alfred is a “tournament of [[Song|song]], in which the sensual Pagan [Harold], the poetic Pagan [Elf], the savage Pagan [Ogier], and the cultured Pagan [Guthrum] say their say with music, before Alfred says the say of Christian Fact” (O’Connor 1938,65).
+For our God hath blessed creation,
+Calling it good. I know
+What spirit with whom you blindly band
+Hath blessed destruction with his hand;
+Yet by God’s [[motifs/death|death]] the [[motifs/stars|stars]] shall stand
+And the small apples grow.
+(III:373-78)
+III:3. mass-book: A book containing the prayers and rites used by persons assisting at the celebration of the Eucharist [Mass]. Asser, Alfred’s biographer, mentions that [[historical-references/king-alfred|King Alfred]] assisted at daily Mass (Keynes and Lapidge 1983,91).
+III:20-25. Dr. John Lingard describes the destruction of the monasteries in A.D. 870: “From the ashes of Medeshamstede they proceeded to Huntingdon, and from the destruction of that place to the Isle of Ely. The nuns of this monastery, who were descended from the noblest of the Saxon families, were sacrificed to their lust and cruelty; the treasures of the country, which had been deposited in the island, were divided among the barbarians, and the edifice, with every other building. . . was devoured by the flames” ([1849] 1912,1:184-85).
+III:24. Fires over Glastonbury Thorn: The Danes during their raids in Somerset ravaged and despoiled the monastery established at Glastonbury.
+III:24. Glastonbury Thorn: A variety of hawthorn which has the peculiarity of flowering twice in the year, first about Christmas and again in May. According to an ancient legend, the original tree grew from the staff of St. Joseph of Arimathea (E VIII:223-24), (Chesterton 1911,112-18).
+III:2-39. From the foot of White [[motifs/horse|Horse]] [[motifs/hill|Hill]] one sees the shape of the White [[motifs/horse|Horse]]. The whiteness of the gigantic White [[motifs/horse|Horse]] is indicative of whether the pagans or the Christians are in control. While the heathens are harrying the countryside, the [[motifs/horse|Horse]] is overrun with weeds, but when the country is at peace, the Christians keep the [[motifs/horse|Horse]] [[motifs/well|well]] cleaned. Today the National Trust for Places of Historic Interest keeps the [[motifs/horse|Horse]] white.
+III:52-74. Guthrum is a Danish [[archetypes/king|king]] who occupies a notable place in Anglo-Saxon [[concepts/history|history]].
+III:79-80. He sang of some old British raid: Asser relates that Alfred listened carefully to Saxon [[Poems|poems]] which he often heard recited, “and he [Alfred] readily retained them in his [[motifs/memory|memory]]” (Keynes and Lapidge 1983,75).
+III:80. wild west march: The borderland between Mercia and Wales.
+III:86-90. Offa, the [[archetypes/king|King]] of Mercia (757-96), constructed this dyke to prevent Welsh penetration of Mercia. Offa’s Dyke consisted “of a ditch to the west about 6 feet deep and a rampart rising up to 25 feet above it to the east; the whole structure being 60 feet across” (Campbell 1982,120). Asser writing in the 890s mentions its extent. “Offa . . . had a great rampart built from sea to sea between Britain [Wales] and Mercia” (Giles 1891,47). Eighty of the one hundred fifty miles of this phenomenal structure are extant.
+III:99. The marauding Northmen terrified the peoples between Cyprus in the Mediterranean and the island of Skye in the Heb rides off the northwest coast of Scotland.
+III:109. Tyre, famous for its purple dyes, was a maritime [[motifs/city|city]] in ancient Phoenicia.
+III:116. In Norse mythology Loki is the contriver of fraud.
+III:122,126. Chesterton introduces kennings, those metaphorical compound words such as “bracelet-giver” ([[archetypes/king|king]]) and “[[Sword|sword]]-swinger” (warrior). These give “a slight feeling of antiquity” and place the reader into the ninth century ambience.
+III:130. shaven men: Clerics. Before becoming clerics, laymen received the sacred rite of tonsure.
+III:151. Allemagne: [[settings/germany|Germany]] [Fr.].
+III:153. For the May Day festivities in the Rhineland, the people decorate a tree with ribbons, wreaths, cookies, etcetera.
+III:158-75. Balder beautiful: Balder, the son of Odin and Frigga, dies because his mother neglected to ask the mistletoe not to hurt her son.
+III:164-75. The sentimental Elf is sad because there is no security. His gods are superior beings, yet like himself mortal and subject to mishaps. Even Balder, the noblest and gentlest of the gods, was killed through a sneaky scheme of Loki.
+III:180. Stone and Sling: Although “the bow and arrows, the battle-axe, and the [[Sword|sword]]” were commonly used by the Northmen, some armed themselves with “javelins, slings, clubs stuck round with points, lances and a sort of daggers” (Mallet 1882,165-66).
+III:188. yew: The yew tree is symbolic of grief and [[motifs/death|death]].
+III:188-230. The pessimistic Ogier, soured by hatred, delighting only in his power to destroy, awaits the final cataclysm. Stern and ruthless, he shares in the wrath of the gods who wait for the final break up of the universe.
+III:216-26. the last eclipse: Ragnarok, or the Twilight of the Gods, is the destruction of the gods and all things in a final battle with evil powers (Mallet 1882,451-58).
+III:221. the high ones in the happy town: All who died in a violent manner were received into Valhalla in the happy town of Asgard.
+III:231-34. [[archetypes/king|King]] Guthrum was an educated Dane who knew how to read and write.
+III:235-95. Guthrum, recognizing the certainty of [[motifs/death|death]] and the uncertainty of a life to come, is happiest in battle where he can become oblivious of [[motifs/death|death]].
+III:258-65. The [[motifs/soul|soul]] is like a lost bird: This may be a reference to the speech [A.D. 627] of one of [[archetypes/king|King]] Edwin’s counselors who compared the life of a man to that of a sparrow that flies in one door and disappears out another. “So this life of man appears for a short space, but of what went before or what is to follow we are utterly ignorant” (Beda 1910,91).
+III:303-318. Alfred declares his view of life. He begins with the Fall of Adam in the [[motifs/garden|garden]]. Man misused his free will. The evil in the world is the result of “the wrong use of the will, and. . . it can eventually be righted by the right use of the will” (Chesterton 1930,226).
+III:329-42. Alfred’s [[concepts/faith|faith]] in God is his basis for [[concepts/hope|hope]]. Though “the sky grows darker,” he has an inner conviction that persistent efforts aided by God will somehow bring [[success]].
+III:357-66. Alfred tells the Danes their way of life eventually ends in failure. Creators and preservers in the long run will be the survivors.
+For our God hath blest creation,
+Calling it good. . . .
+(III:373-74), (Gen. 1:12)
+
+Notes: The Woman in the Forest
+Synopsis: Alfred scouts the environs of the Danish camp at Ethandune before going to the [[motifs/river|river]]-hut at Egbert Stone. There a woman asks him to watch the [[motifs/fire|fire]]. While he pities her [[concepts/poverty|poverty]] he lets the cakes burn. The woman deals Alfred such a blow in the face that it [[motifs/leaves|leaves]] a scarlet scar. At this juncture Eldred, Colan, and Mark arrive. Note how Chesterton uses this incident to move his [[forms/epic|epic]] closer to the decisive battle of Ethandune.
+This blow that I return not
+Ten times will I return
+On kings and earls of all degree,
+And armies wide as empires be
+Shall slide like landslips to the sea
+If the red star burn.
+(IV:274-79)
+IV:10. paling of the pine: Apalisade made of pointed pine logs.
+IV:11. altar-lamp: The sanctuary lamp of a church.
+IV:16. The old stones of a Roman way: The Romans paved some of the important roadways in Britain with stones.
+IV:22. Doom: Future, outcome.
+IV:23-24. The ASC explains how ruin alternated with victory in 871. “And this year there fought against the Host, in the land from Thames southward, nine stricken fields. Yea, and beside these, Alfred the [[archetypes/king|King]]’s brother and many an Alderman, and many a [[archetypes/king|King]]’s Thane, ofttimes made, each for himself, raids upon them, which are not counted. And within the year nine Earls were slain, and one [[archetypes/king|King]] thereto” (Conybeare 1900,123).
+IV:25-30. Chesterton knows and uses authentic sources. Asser supplies him with each detail about the battle of Ashdown, even to the hawthorn tree.
+But Alfred, with his men, as we have heard from truthful eyewitnesses came the quicker to the field and more readily. Nor [[concepts/wonder|wonder]] was it; for his brother [[archetypes/king|King]] Ethelred was still in his tent, fixed in [[motifs/prayer|prayer]], hearing Mass. Needs must he either draw him back from the battle, or charge the enemy ere yet his brother came into the fray. And, at the last, in manly wise, charged he, with the rush of a wild boar, leading his Christian forces against the iceman’s hosts. But here those who know not the place must be told it was no fair field of battle, for the Heathen had seized the higher ground, and the Christian battle-line was charging uphill. There was also in that same place a lone thorn-tree and a low, which we ourselves have beheld. Around this, then, came the lines together, with a mighty shouting, in warrior wise, the one side bent upon all mischief, the other to fight for life and land and dear ones. Most part of their force [Danes] were slain, and with all shame they betook them to flight (Conybeare 1900,93-94).
+IV:41-52. under-skies: Chesterton takes us on an imaginary trip to Hades. While descending to the [[motifs/river|river]]-hut Alfred notes the foul smelling [[motifs/night|night]]-shade plant, the murky atmosphere in which “evil cherubs” [owls] flit about.
+IV:59-60. The tilted roof implies that this peasant’s [[motifs/home|home]] had been damaged by the Danes. It was probably a thatched timber-built structure shared by the household and the livestock.
+[Alfred’s legendary encounter with the Woman and the Cakes took place while he was hiding on the island of Athelney in Somerset; Chesterton moves it to Egbert Stone in Wiltshire.]
+IV:70-74. J. A. Giles included a version of the legend of Alfred and the Cakes in his Asser’s Life of Alfred:
+But it happened on a certain Jay, that the country woman, wife of the cowherd, was preparing some loaves to bake, and the [[archetypes/king|king]], sitting at the hearth, made ready his bow and arrows and other warlike instruments. The unlucky woman espying the cakes burning at the [[motifs/fire|fire]], ran up to remove them, and rebuking the brave [[archetypes/king|king]], exclaimed:
+Ca’sn thee mind the ke-aks, man, an’ doossen zee ’em burn?
+I’m boun thee’s eat ’em vast enough, az zoon az ’tis the turn.
+The blundering woman little thought that it was [[historical-references/king-alfred|King Alfred]] who had fought so many battl es against the pagans, and gained so many victories over them (1891,60). See E P:36-59.
+IV:84. And all the last are first: “Many who are first will be last, and the last first” (Mark 10:31).
+IV:85. “Here am I among you as one who serves” (Luke 22:27).
+IV:85-155. Alfred explains the ways God serves him every day.
+IV:89-91. God is Alfred’s gardener who planted oak trees on the plateaus and placed dense growths of shrubbery in the graveyards.
+IV:124-25. Golgotha: “So Jesus went out, carrying his own [[motifs/cross|cross]] to the place named after a skull; its Hebrew name is Golgotha” (John 19:17).
+IV:130-40. Perhaps the best interpretation of the significance of the star that “spins and swirls” is that it refers to the tiny spark of [[concepts/hope|hope]] in Alfred’s breast that the Christian cause will ultimately triumph after tremendous trials.
+Chesterton uses the “wandering star,” the “dancing star,” the “light that leaps and flies” as one of the means of [[unity]] in the poem. Watch his references to it throughout the several hooks.
+IV:142. A [[motifs/time|time]] discrowned of doom and birth: One’s value will not depend upon such accidents as personal status or family origin. Chesterton champions the dignity of the individual and hints that better days are coming after the defeat of the “evil earls.”
+IV:143-44. “How happy are the poor in spirit for theirs is the kingdom of heaven” (Matt. 5:3).
+IV:156-60. Alfred’s thoughts are far away. It was rash of him to promise to watch the cakes.
+IV:173. Marcus with all his slaves in arms: Dorothy Whitelock explains that the slave class in Wessex consisted of persons of different origins. Some were descendants of the Britons, others were persons captured in wars. The greater number “were the penal slaves, persons enslaved as a punishment for certain specific crimes, or because of their inability to pay the fines and compensations which they had incurred” ([1952] 1968,112).
+IV:174-75. Colan and his followers had a mingling of pagan and Christian beliefs. Their “strange spears hung with ancient charms” indicate a superstitious reliance on [[Magic|magic]].
+IV:179. jars of mead: Mead is a fermented drink made of [[motifs/water|water]] and honey with malt, yeast, and sometimes other ingredients.
+IV:190-202. The impoverished followers of Colan, clothed in the remnants of former finery, were a far cry from their kin who went to war “in graceful shirts and many-colored enfolding tunics over comfortable long vests” (Green 1925,408).
+IV:194. With Druid beards and Druid spears: Chesterton goes along with the popular imagining of the appearance of the Druids.
+IV:206. Mark’s disciplined army marching in step together sounded like “great thunder.”
+IV:207-8. living walls: The interlocking shields carried hy the soldiers in battle formation formed living walls. Rome hedged mankind by her military outposts throughout the civilized world.
+IV:217. From red Arabia to the Tyne: Arabia in Asia marked the southeastern extent of the Roman Empire, and the Tyne [[motifs/river|river]] in Britain was the northwestern boundary.
+IV:219. Since the cry on the [[motifs/hill|hill]] Capitoline: The cry on the Capitoline [[motifs/hill|hill]] occurred about 753 B.C. when Romulus was trying to obtain wives from the Sabines for the Roman youths.
+A legend describes how the early Romans resorted to cunning in order to secure wives from the neighboring tribes. During a special entertainment to which the nearby tribes were invited, it had been agreed upon that at a certain outcry the Roman men would seize and carry off the young maiden visitors (Livy 1913,14-15).
+IV:220. And the fall of the golden shield: Titus Livius relates the legend how Tatius, a Sabine, bribes Tarpeia, the daughter of the commander of the Roman citadel, to give them access to the [[motifs/city|city]] in exchange for the golden rings and bracelets they wore on their left arms. Instead of these ornaments, they threw their shields (which they also carried on their left arms) upon her and crushed her to [[motifs/death|death]] (1913,17-18).
+IV:227. lintel beams: The horizontal crosspieces over doors or windows which support the weight above the openings.
+IV:236-41. The laughter of Christians rings through popular tales in which people poke fun at the foibles of one another.
+IV:246-47. The mummers in England are groups of persons, grotesquely dressed, who go round from [[house]] to [[house]] on the morning of Christmas Day and act a sort of drama founded on the legend of St. George. The verses repeated by the mummers of the different localities have the same origin, but as they are not committed to writing, they vary in a trifling degree, and have in some instances considerable interpolations.
+The following version of the drama is given in The Wiltshire Archaeological and Natural [[concepts/history|History]] Magazine 1(1854): 80-81.
+The characters are:
+1. OLD FATHER CHRISTMAS
+2. MINCE PIE
+3. A TURKISH (evidently a Saracen) KNIGHT
+4. ST. GEORGE
+5. AN ITALIAN DOCTOR
+6. A character called LITTLE JACK
+And the verses they repeat, divested of modern extraneous matter, are as follows:
+[Enter OLD FATHER CHRISTMAS, with a long beard.]
+Oh! here come I old Father Christmas, welcome, or welcome not,
+I [[concepts/hope|hope]] old Father Christmas will never be forgot.
+Make room! room! I say!
+That I may lead Mince Pie this way.
+Walk in Mince Pie, and act thy part,
+And show the gentles thy valiant heart.
+[Enter MINCE PIE.]
+Room! room! you gallant souls give me room to rhyme,
+I’ll show you some festivity this Christmas [[motifs/time|time]].
+[Enter a TURKISH KNIGHT, with a wooden [[Sword|sword]].]
+I am a valiant Turkish Knight,
+And dare with any man to fight;
+Bring me the man that bids me stand,
+Who says he’ll cut me down with audacious hand,
+I’ll cut him and hew him as small as a fly,
+And send him to [[characters/satan|Satan]] to make mince pie.
+[Enter ST. GEORGE with a wooden [[Sword|sword]].]
+Oh! in come I, St. George, the man of [[concepts/courage|courage]] bold,
+With my [[Sword|sword]] and buckler I’ve won three crowns of gold;
+I fought the fiery dragon and brought him to the slaughter;
+I won a beauteous [[characters/queen|Queen]]—a [[archetypes/king|King]] of [[settings/egypt|Egypt]]’s daughter;
+If thy mind is high, my mind is bold,
+If thy [[motifs/blood|blood]] is hot, I will make it cold.
+[ST. GEORGE and the TURKISH KNIGHT fight—the latter falls.]
+Turkish Knight. Oh! St. George spare my life!
+Father Christmas. Is no Doctor to be found
+To cure this man who’s bleeding on
+the ground?
+[Enter the DOCTOR.]
+Yes! an Italian Doctor’s to be found
+To cure the Knight who’s bleeding on the ground:
+I cure the sick of ev’ry [[motifs/pain|pain]],
+And raise the dead to life again.
+Father Christmas. Doctor, what is thy fee?
+The Doctor. Ten pounds is my fee,
+But fifteen I must take of thee
+Before I set this gallant free.
+Father Christmas. Work thy will, doctor.
+The Doctor. I have a little bottle by my side
+The fame of which spreads far and wide,
+I drop a drop on this poor man’s nose.
+[The DOCTOR touches the TURKISH KNIGHT’S nose, and he instantly springs on his feet quite recovered.]
+[Enter LITTLE JACK, a [[characters/dwarf|Dwarf]], with several dolls strapped at his back.]
+Oh! in come I, little saucy Jack,
+With all my family at my back.
+Christmas comes but once a year,
+And when it comes it brings good cheer;
+Roast beef, plum pudding, and mince pie,
+Who likes that any better than I?
+Christmas ale makes us [[motifs/dance|dance]] and sing;
+Money in purse is a very fine thing.
+Ladies and gentlemen give us what you please.
+IV:256. [[concepts/pride|Pride]] flings frail palaces at the sky: This is the opening verse of Alfred’s [[forms/hymn|hymn]] to [[concepts/humility|humility]]. [[historical-references/king-alfred|King Alfred]], mindful of his sins, knows he is unworthy to receive help from heaven. He believes that the [[success]] of the Danes in overrunning his kingdom is a punishment for his transgressions.
+IV:274-79. Alfred is going against the powers of evil by using the spiritual strength he receives from a humiliation rightly borne.
+IV:286. Alfred leads his men as brothers to the first attack.
+IV:287. Roman roads came in many forms. The more important routeways ran on raised, ditch-flanked banks which resembled walls.
+
+Notes: Ethandune: the First Stroke
+Synopsis: With practically all of England under Danish control, Alfred’s war-men sum up their situation. Each one has a sinking feeling that his [[motifs/death|death]] is imminent. After repenting of their sins, they put on a bold front. Colan slays the over confident Harold and receives [[historical-references/king-alfred|King Alfred]]’s [[Sword|sword]].
+To his great gold ear-ring Harold
+Tugged back the feathered tail,
+And swift had sprung the arrow,
+But swifter sprang the Gael.
+(V:243-46)
+V:1-6. [[archetypes/king|King]] Guthrum was a dread [[archetypes/king|king]]: Guthrum collaborated with Healfdene in pillaging, devastating, depopulating, and subjugating much of Northumbria, East Anglia, and the eastern part of Mercia. Healfdene went north to divide the Northumbrians’ lands among his followers, and three Danish kings (Guthrum, Oscetel, and Anwend) went south to Cambridge where they began to concentrate on the conquest of Wessex (Chesterton 1917,51).
+V:5. Chester: A [[motifs/city|city]] on the Dee [[motifs/river|river]] in northwestern England.
+V:5. Humber: The confluence of the Trent and Ouse rivers form the Humber estuary in eastern Englsnd.
+V:5-6. From the “Chester to the Humber” implies that before the battle of Ethandune the Danes dominated much of the territory between western Mercia and the eastern seaboard.
+V:7. Roman villas: A Roman villa in Roman Britain was usually the center of a large farm. Not a single villa has survived (Collingwood 1937,209-21).
+V:16. He saw the southern sea: The Southampton [[motifs/water|Water]].
+V:17-19. With the exception of the territories south of the Thames and north of the Tyne, all the petty kingdoms were under Danish control in 877. Guthrum’s surprise raid in January 878 was an indication that he meant to make [[historical-references/king-alfred|King Alfred]] and the West Saxons submissive to him. See E I:63-76.
+V:20-28. Guthrum’s scouts had most likely informed him that Alfred’s troops were assembling at Egbert’s Stone. Guthrum likewise collected all his warriors and carefully positioned them on the higher land overlooking the left fork of the [[motifs/road|road]].
+V:35. Chesterton here relies on Asser for the [[motifs/time|time]] when Alfred engaged his foe: “Very early in the morning, he advanced his banners, and came to a place called Ethandune. And there against the whole Heathen host formed he firm his shield-wall, and fought a deadly fight” (Conybeare [1900] 1914,111-12).
+V:46. While still out of sight of the enemy, Alfred’s troops halt. They are losing their [[concepts/courage|courage]].
+V:58-151. This section is typical of [[forms/epic|epic]] poetry. Chesterton gives his characters voices. Note how each chieftain reveals himself “in the fashion of his [[motifs/blood|blood]].”
+V:62-63. Col an was sad because he did not have the amenities of ordinary living conditions.
+V:68-81. Chesterton is following John Lingard’s estimate of [[historical-references/king-alfred|King Alfred]]’s early conduct.
+It has been said that the character of Alfred was without a blemish. Such unqualified praise is the language of rhetorical declamation, rather than historical [[concepts/truth|truth]]. In his early years, indeed, his opening virtues endeared him to the nation; and in a more advanced age he was the guardian and the benefactor of his country. But at the commencement of his reign there was much in his conduct to reprehend. The young monarch seems to have considered his high dignity an emancipation from restraint; and to have found leisure, even amidst his struggles with the Danes to indulge the impetuosity of his passions. The scandal of Wallingford* may be dismissed with the contempt which it perhaps deserves; and we learn from more ancient authorities that his immorality and despotism provoked the censure of his virtuous kinsman St. Neot; and Asser, his friend and panegyrist, acknowledges, that he was haughty to his subjects, neglected the administration of justice, and treated with contempt the complaints of the indigent and oppressed. It was to this ‘indiscretion’ (to borrow the term under which the partiality of the biographer was willing to veil the misconduct of his patron), that Alfred himself attributed the severe and unexpected calamity, which overwhelmed him in the eighth year of his reign ([1849] 1912,19798).
+* John of Wallingford’s Chronicle, written about mid-thirteenth century, mentions on p. 535 that “in the beginning of his reign Alfred was given to ‘serve the old man,’ and lived a slave to luxury” Cf. Conybeare (1914,222).
+V:79. lost land: Wessex.
+V:80. holy horn is blown: A reference to the Last Judgment (Matt. 24:31).
+V:118-20. Alice Stopford Green verifies that during prehistoric times Neolithic Stone Age people displayed extraordinary skill in budding cairns, stone circles, megalithic tombs, and fortresses (1925,5-9).
+Newgrange, County Meath, Ireland, is an outstanding neolithic passage [[motifs/grave|grave]] built about 5000 years ago.
+[[characters/richard|Richard]] Muir’s [[concepts/history|History]] from the Air enables us to view some of these ancient tombs, temples, and stoneworks located in Ireland, England, and Wales. He comments that these relics provide many insights into prehistoric life: “They shatter the myth of the inept aboriginal savage, for the greater monuments could only be the handiwork of people who were sufficiently numerous and adept. . . as to be able to set the need for food-raising aside and dispatch sizable labour forces for work on building tombs or temples” (1983,33). [Reproduced by permission of [[characters/michael|Michael]] Joseph Ltd.]
+V:120. sun-god: Lug is the sun-god whose festival was formerly celebrated in Ireland on August 1.
+V:122-27. Lingard attributes to the druidical priests the ryn or mysterious language so often mentioned by the bards: “To every tree and shrub, to their [[motifs/leaves|leaves]], [[motifs/flowers|flowers]], and branches, they seem to have affixed a fanciful and symbolical meaning: and these allegorical substitutes for the real names of beings and their properties must have formed, in their numerous combinations, a species of jargon perfectly unintelligible to any but the adepts. . . . Taliessin boasts with complacency, that he is acquainted with every sprig in the [[motifs/cave|cave]] of the diviner: that he knows the intent of the trees in the memorial of compact: that he knows both good an devil” ([1849] 1912,1:19-20n).
+V:130-33. Lingard relates that the Druids dwelt in huts or caves at a distance from the common people. “There, at the hours of [[motifs/noon|noon]] or midnight, when the Deity was supposed to [[concepts/honour|honour]] the sacred spot with his presence, the trembling votary was admitted within a circle of lofty oaks, to prefer his [[motifs/prayer|prayer]], and listen to the responses of the minister” ([1849] 1912,1:17).
+V:146. fell: A rocky or barren [[motifs/hill|hill]], a down. (British)
+V:147. Wantage: In 848 [[historical-references/king-alfred|King Alfred]] was born in Berkshire at the royal estate called Wantage.
+V:164-90. The Saxon kings actually fought on foot in the forefront of the battle.
+V:170. ten poles: Apole is a unit of length equal to 16 1/2 feet.
+V:171. wide-winged helms: The ninth century Danes wore conical helmets made of iron or leather. Although a helmet with curved horns dating from the Bronze Age has been unearthed in [[settings/denmark|Denmark]], it is a misconception to believe that the Danes who fought at Ethandune in the ninth century also wore horned helmets.
+V:171. runic blades: Paul Mallet describes the swords of the Scandinavian chieftains: “Their champions or heroes took particular care to procure very keen swords, which they inscribed with mysterious characters, and called by such names as might inspire terror” (1882,165-66).
+V:182. With [[songs]] and spells that change the [[motifs/blood|blood]]: When they [Danes] went to meet their enemies, each warrior raised his shield up to a level with his upper lip, so that the round of the shield “formed a sort of sounding-board for their [[Song|song]].” They predicted the outcome of the battle by the impression the [[Song|song]] made upon themselves. The runes of victory were supposed to stop weapons from wounding those whom Odin loved (Rydberg 1907,1:160-65).
+V:197-204. poor: lingard explains why the Britons became impoverished: “To escape from the exterminating [[Sword|sword]] of their enemies, the natives, as soon as opposition appeared fruitless, fled with their most valuable effects to the hills and forests. Multitudes found a secure asylum among the [[settings/mountains|mountains]] which cover the west of the island: where, struggling with [[concepts/poverty|poverty]], and engaged in constant warfare, they rapidly lost the faint polish of provincial civilization. . . . The captives were divided, together with the land, among the conquerors: they became the property, the chattels, of the lord” ([1849] 1912,1:84-85).
+V:201-4. sling: A leathern sling was used to propel stones, bolts, burning darts, and hot clay pellets. A bill was a shafted weapon having at its head a hooklike cutting blade with a beak at the back. A pike was a shafted weapon having a spiked tip.
+Chesterton shows his great [[motifs/love|love]] of arms in Book V: “This [[motifs/love|love]] of weapons, his revolver, his favorite [[Sword|sword]]-stick, remained with him all his life. . . . But they stood also in his mind for [[concepts/freedom|freedom]], adventure, personal responsibility and much else” (Ward 1943,151-52).
+V:211-12. broke Himself for bread: This is a reference to the institution of the Holy Eucharist by Jesus [[characters/christ|Christ]] on Holy [[thursday|Thursday]] [[motifs/night|night]] (Matt. 26: 26-28).
+V:241. Excalibur: [[characters/king-arthur|King Arthur]]’s [[Magic|magic]] [[Sword|sword]].
+V:242. In the battle by the sea: Probably [[characters/king-arthur|King Arthur]]’s battle at Carrdan where he uses Excalibur for the last [[motifs/time|time]].
+V:243. great gold ear-ring: The Northmen with the help of foreign master craftsmen learned the [[motifs/secrets|secrets]] of metalworking and became expert in making bronze and gold jewelry. The women wore ear rings, and since Chesterton has Harold wearing one, it is possible that some men did too.
+V:247. The huge [[topoi/double|double]]-bladed swords of the Gaels were lifted above the head to strike.
+V:257. The small white daisy that grows amid the grass in England is known as the “turfing daisy.” It is a low perennial herb of Asia Minor having white daisylike [[motifs/flowers|flowers]].
+V:265-69. The instant response of each of the Christian earls is to give Colan their most treasured and necessary possession.
+V:269. like a cup of chrysolite and pearls: Chrysolite is a transparent olive-green gem.
+V:274-75. The only way to get one’s heart’s [[motifs/desire|desire]] is to put this [[motifs/desire|desire]] out of one’s thoughts. This is a mystical insight. In order to save his life Colan gave up—let go—the one thing that could save his life (John 12:25).
+V:280-89. The “Broken Heart” has a personal [[motifs/love|love]] for each [[motifs/soul|soul]]. Each individual is the target of His [[motifs/love|love]]. [In a prepublication holograph of the BWH these verses are a handwritten insertion. G. K. Chesterton Archives.]
+
+Notes: Ethandune: the Slaying
+of the Chiefs
+Synopsis: The warriors fan out left and right on either side of their leaders. Noting the battle positions given below is a preparation for following the action that ensues. [In the text Alfred’s left wing faces Guthrum’s left wing. Even though this was pointed out to him, GKC kept the original wording (O’Connor 1938,67).]
+Guthrum on horseback
+Harold   Ogier   Elf
+Colan   Mark   Eldred
+Alfred
+After Elf slays Eldred, Mark overcomes Elf. Ogier kills Mark. The Danes push Alfred’s men back to the fork in the [[motifs/road|road]]. The [[archetypes/king|King]]’s men retreat down the [[motifs/road|road]] to the right. Colan dies while opposing the enemy down the left branch.
+And when they came to the parting ways
+Doom’s heaviest hammer fell,
+For the [[archetypes/king|King]] was beaten, blind, at bay,
+Down the right lane with his array.
+But Colan swept the other way,
+Where he smote great strokes and fell.
+(VI:282-87)
+VI:4. Latian paladin: Mark. A paladin is a military kero. Latian is the adjective form of Latium, the name of a country southeast of Rome in ancient [[settings/italy|Italy]].
+VI:5-6. On Alfred’s left: Harold’s kin vs. Colan.
+VI:7-8. In the midst: Guthrum watching—Ogier vs. Marcus.
+VI:10-12. On Alfred’s right: Elf vs. Eldred.
+VI:13. swat: To sweat over a task; to grind [Dial.].
+VI:17-51. Eldred overwhelms everyone until his [[Sword|sword]] breaks.
+VI:49. brand: A [[Sword|sword]] [Archaic & Poetical].
+VI:56-62. faerie blades: In accounting for Elf’s wizard’s lance Chesterton takes us underwater into the never-never courses of the Rhine where the mermaids bestowed this magical spear on the thrice drowned Dane.
+VI:61-63. Lost waters of the Rhine: The Rhine [[motifs/river|river]] rises in the eastern part of Switzerland close to the Italian border, moves along the edges of Austria and of the miniature state of Liechtenstein, winds westward and then northward between France and [[settings/germany|Germany]] before passing through the Netherlands on its way to the North Sea. Geologists and oceanographers teach that the Thames [[motifs/river|river]] was a tributary of the Rhine before England was separated from the Eurasian landmass.
+VI:63-68. buried kingdoms: These lost waters have an unearthly fiery glow. While creeping down to the buried kingdoms, they “murmur and [[archetypes/rebel|rebel]],” “roar and weep / O’er the red heavens of hell.”
+[[characters/duncan|Duncan]] Norton-Taylor and the Editors of [[motifs/time|Time]]-Life Books in The Emergence of Man: The Celts have identified part of western Europe as the “Celtic heartland, where the earliest identifiable Celtic culture developed during the Seventh and Sixth centuries B.C.” Parts of present day France, Belgium, the Netherlands, [[settings/germany|Germany]], Switzerland, Austria, the Czech Republic, and Slovakia approximate the area covered (1974,13).
+VI:95-99. Chesterton’s descriptions open up a fairylike world where Elf obtains a magical spear from the [[motifs/water|water]]-maids of the Rhine [[motifs/river|river]]. The “[[motifs/death|death]]-light on the wizard lance— / The star of the evil spear” heighten the eerie and sinister feelings which unnerve the Wessex troops. They believe Elf’s spear is lethal because of its faerie blade.
+VI:100-118. Mark encourages his own and Eldred’s men to stiffen their resolve to fight for their farms and homes.
+VI:108. ash: Bow. The tough, elastic wood of the ash tree was used to make bows for the archers.
+VI:119-29. Superstitious fears weaken their trust in God.
+VI:124-54. The soldiers’ latent belief in the magical powers of all objects, animate and inanimate, almost paralyzes them until Mark defeats Elf and breaks the evil spear.
+VI:127. glamoury: [[works/magic-(chesterton)|Magic]].
+VI:127-29. The wizard’s tower and glass: These lines emphasize the superstition which is destroying the soldiers’ morale. In my [[topoi/quest|quest]] for an explanation of this passage I have read many otherworldly accounts of [[Magic|magic]]. Merlin is known as the wizard of British folklore. “Glass” is associated with Glastonbury since people of Celtic stock used to call Glastonbury Ineswitrin, the Island of Glass. But what the exact references are to “the gods of the burning tree” and the “wizard’s tower and glass” elude me.
+VI:133. [[concepts/faith|faith]]: “Whatever may be the meaning of [[concepts/faith|faith]], it must always mean a certainty about something we cannot prove” (Chesterton 1905,162).
+VI:138. Mark’s [[concepts/faith|faith]] was above reason but not contrary to it.
+VI:140-50. In the sight of his fearful men, Mark’s [[Sword|sword]] ends any further action from Elf.
+VI:155-72. Mark encourages the men by reminding them that God is working through those who build, cultivate, weave, copy, compose, and create works of art.
+VI:170-72. “Gorlias, He [God] has broken the might of the bows, the shield, the [[Sword|sword]], and the battle” (Pss. 76:3,46:9).
+VI:173-78. Battle-bays and palm branches are symbols of victory. The Wessex men seem to have seized the offensive after Mark has silenced Elf.
+VI:198. shield of brass and hide: Paul Mallet describes the shield used by the Scandinavians: “This most commonly was of wood, bark, or leather. The shields belonging to warriors of distinction were of iron or brass. . . ornamented with painting and sculpture. . . . Their shape and size varied. . .: the Scandinavians generally had them of a long oval form, just the height of the bearer, to protect him from arrows, darts, and stones” (1882,166).
+VI:216. weald: A wooded or wild open country.
+VI:216-64. Ogier rants and brags much as he did in Book III. To find similar contempt and boasting expressed by a Viking, read “The Dying Ode of Regner Lodbrog” (Alfred the Great [1858] 1969,1:376-78).
+VI:261. Egbert: See E I:116-22.
+VI:290. furze: Alow, spiny, much-branched shrub with yellow [[motifs/flowers|flowers]], common on wastelands in Europe.
+VI:296. Haut [[archetypes/king|King]]: Charlemagne (768-814). Legend has made him the uncle of Roland.
+VI:297. Roland: Roknd, the [[archetypes/hero|hero]] of the French [[forms/epic|epic]] poem, The [[works/song-(poe)|Song]] of Roland, died at Roncesvalles in A.D. 778 defending the Christian cause against the Moors.
+VI:296-99. The final [[motifs/time|time]] Roland blew his horn the sound could scarcely be heard by Charlemagne. Chesterton here compares the last cry Alfred heard from the retreating Gael with the feeble note Charlemagne recognized as coming from Roland.
+
+Notes: Ethandune: the Last Charge
+Synopsis: Book VII tells how the childlike Alfred, with Mary’s aid, changes a rout into a decisive victory. The opening stanzas refer to Alfred’s way of handling reverses. His appeal to the fleeing soldiers restored their derring-do. In the renewed fighting Alfred strikes down Ogier. As Mary, [[Sword|sword]] in hand, aids the Wessex warriors, Colan’s followers rejoin the battle. In his defeat Guthrum experiences an inner [[concepts/conversion|conversion]] and becomes a Christian.
+The Mother of God goes over them,
+Walking on [[motifs/wind|wind]] and flame,
+And the [[motifs/storm|storm]]-cloud drifts from [[motifs/city|city]] and dale,
+And the White [[motifs/horse|Horse]] stamps in the White [[motifs/horse|Horse]] Vale,
+And ye all shall yet drink Christian ale
+In the village of our name.
+(VII:247-52)
+For dire was Alfred in his hour
+The pale scribe witnesseth,
+More mighty in defeat was he
+Than all men else in victory;
+And behind, his men came murderously,
+Dry-throated, drinking [[motifs/death|death]].
+(VII:265-70)
+VII:1-65. Chesterton returns the reader to the White [[motifs/horse|Horse]] on the crest of the [[motifs/hill|hill]] above the White [[motifs/horse|Horse]] Vale. This prehistoric White [[motifs/horse|Horse]] has an unobstructed view. He “looks on” while the battle of Ethandune is in progress.
+VII:14-15. Chesterton adds the sound effects “roarings.” The image “rent the sea / With roarings from the land” helps one to envision the cosmic upheaval taking place while the waters come “together into a single mass” (Gen. l:9-10).
+VII:16-20. The description of a [[archetypes/child|child]] playing on the edge of White [[motifs/horse|Horse]] [[motifs/hill|Hill]] provides a quiet reflective interlude which reveals [[historical-references/king-alfred|King Alfred]]’s character and his subsequent mode of action. Note the singleness of purpose and the unhurried calm and patience in tirelessly piling and repiling the stones. Alfred knew what he had to accomplish and he never accepted a reverse as final. He regrouped and started again. He “began to conquer because he did not mind defeat” (Chesterton 1911,9-10).
+VII:25-55. Patriots like Eldred, Colan, and Mark “rush,” “strain,” and “aspire” but lack Alfred’s patience, his staying power, his clogged determination to oust the pagan pirates from his kingdom.
+VII:54-55. Wantage, Alfred’s birthplace, was a royal estate in Berkshire near the traditional battleground of Ethandune. To celebrate the millennium of Alfred’s birth in 1849, the townspeople erected a statue to his [[motifs/memory|memory]]. [There has been much discussion about the dates of Alfred’s birth and [[motifs/death|death]].] Charles Plummer’s notes ([1899] 1965,2:79) fixed Alfred’s birth as 848; Dorothy Whitelock verified that his [[motifs/death|death]] occurred on 26 October 899 (Plummer [1899] 1965,2:cxlii).
+Chesterton has his finger on the pulse of the nation when he claims that Alfred “rules England to the doom.” The following excerpt records GK’s memories of the millennial celebrations of [[historical-references/king-alfred|King Alfred]]’s [[motifs/death|death]] in September 1901: “A thousand years of thanks and praise have rightly concentrated upon Alfred a light of unique and universal admiration. From the first words of the Anglo-Saxon Chronicle to the last wireless messages to the Anglor Saxon clubs and dinners in Boston or Philadelphia, there has been a chiming unanimity, a chain of polite or popular compliment, in which there is actually no break at all. . . . He is one of two or three men who have been nearly obliterated by praise” (Ward 1933,5758).
+VII:56-69. He began his life once more: Things are as bad as before, but Alfred doesn’t mind. Even though he and his warriors are separated from Colan and his followers, Alfred appeals to his men to consider the alternatives. Then he urges them to spare nothing in striving for victory.
+VII:70. [[topoi/double|double]] way: Guthrum’s choice of a [[settings/battlefield|battlefield]] facing a single branching [[motifs/road|road]] has strategic importance. V:29-33, 159, VII:279-87,291, VII:70,83,175.
+VII:70-87. After scattering Alfred’s men, the Danes are relaxing jubilantly.
+VII:84-87. sudden stay: “Stay” means a change of direction. “Alfred’s routed few” dispersed in all directions (VII:78-86). Some of the Danes, thinking it’s all over because they have defeated Alfred’s men, have “slipped up the [[motifs/road|road]] to fly.” When Alfred blows the horn he gets the attention of several of the foe as [[motifs/well|well]] as that of his soldiers.
+VII:102-26. Brothers. . . . Are [[concepts/slavery|slavery]] and starvation [[motifs/flowers|flowers]]: Haakon Shetelig confirms what Alfred has told his troops: “To a large extent, of course, the Vikings reduced the original inhabitants to the state of dependent serfs, appropriating all land to themselves” (1940,1:91). See also ASC 876.
+VII:127-55. Alfred’s respect for each individual transforms the men: “Stood firm that feeble line.” Together they “went roaring down to die.”
+VII:137. bondsmen: Serfs or slaves.
+VII:158. empery: The territory ruled over by [[archetypes/king|King]] Egbert (802-839).
+VII:160. venery: The activity of hunting.
+VII:184-258.
+And when the last arrow
+Was fitted and was flown,
+takes us back to The Vision of the [[archetypes/king|King]] when Alfred asks Our Lady:
+“When our last bow is broken, [[characters/queen|Queen]],
+And our last javelin cast,
+. . . . . . . . . . . . . . . . . . . . . . .
+Shall we come [[motifs/home|home]] at last?”
+(I:197-98,202)
+In reply, Our Lady intimated Alfred would endure difficulties before victory, but hints at [[success]] by asking him,
+“Do you have joy without a cause,
+Yea, [[concepts/faith|faith]] without a [[concepts/hope|hope]]?”
+(I:260-61)
+Now “the [[characters/queen|queen]] of men,” [[Sword|sword]] in hand, shows kindness to Alfred by reversing the tide of war.
+VII:189-91. Instead of referring to the legendary apparition of St. Neot to [[historical-references/king-alfred|King Alfred]] on the [[motifs/night|night]] before the battle, Chesterton gives Our Lady the role of obtaining Divine help for [[historical-references/king-alfred|King Alfred]].
+The following account from The Chronicle of St. Neots was in print in 1900 and was probably [[motifs/well|well]] known to Chesterton:
+On the [[motifs/night|night]] before the Battle of Ethandune, while Alfred slumbered, ‘there showed unto him an apparition in the likeness of St. Neot, erst his own dear friend and kinsman, and bade him “Cast away all [[concepts/fear|fear]] and dreed of the Barbarians, neither be of faint heart because of their multitude. For tomorrow will the Lord visit thee and thy people, seeing that for the arrogance of thy youth hast thou suffered all this trouble.” “Yea, tomorrow,” added he, “will I go on all day long before thy banners, that the more surely thou mayest fight against thy foes, fearing nought; and mayest know that the Lord Almighty fighteth for thee and for thy people.” Thereupon up woke the [[archetypes/king|King]], gladdened indeed by the heavenly vision’ (Conybeare 1900,226).
+According to another legend St. Cuthbert appeared to Alfred at Athelney and foretold his eventual triumph (Conybeare [1900] 1914,179).
+VII:189-204. Chesterton’s use of this fiction about Our Lady’s appearance bears out his [[motifs/love|love]] for Mary. Speaking of himself in Chaucer: “I do not quite understand why Chaucer must have ‘passed through’ this fit of devotion; as if he had Mariolatry like the measles. Even an amateur who has encountered the malady may be allowed to testify that it does not usually visit its victim for a brief ‘period’; it is generally chronic and (in some sad cases I have known) quite incurable” (1932,118).
+VII:200-202. The Anglo-Saxon Chronicle for 994 tells about Mary’s compassion on her birthday (8 September) for the citizens of [[settings/london|London]]. She prevented Anlaf, Sweyn, and their host from sacking and setting [[motifs/fire|fire]] to the [[motifs/city|city]]. With Mary’s help the garrison inflicted great harm and loss on the attackers. Stymied, they withdrew from [[settings/london|London]] and continued to plunder elsewhere. Later in the same year, Anlaf received the sacrament of Confirmation, and he made and kept a promise never to attack England again (ASC 994).
+Was Chesterton’s choice of Mary as a heavenly helper in 878 inspired by Mary’s action in 994? The ASC chronicler records Mary’s repulse of the assault on [[settings/london|London]] in 994; Chesterton ascribes to Mary’s assistance the decisive victory of Ethandune in 878. [[archetypes/king|King]] Guthrum becomes [[archetypes/king|King]] Athelstan of East Anglia; Anlaf becomes [[archetypes/king|King]] Olaf Tryggvason of Norway. The spiritual conversions in both cases were lasting: “We set a sign on Guthrum / To blaze a thousand years;” [[archetypes/king|King]] Olsf Tryggvason strove vigorously to establish [[historical-references/christianity|Christianity]] in Norway. See the “Saga of Olsf Tryggvason” by Sturluson Snorri.
+VII:202. withouten: without [Archaic & Dial.].
+VII:203-4. The seven swords symbolize the seven sorrows of Our Lady. “And a [[Sword|sword]] will pierce your own [[motifs/soul|soul]] too—so that the secret thoughts of many may be laid bare” (Luke 2:35).
+VII:241-42. The [[settings/london|London]] Times used these lines during World War I when Winston Churchill spoke of “the end of the beginning.”
+VII:250. The White [[motifs/horse|Horse]] responds to the upswing in events by stamping his hooves.
+VII:252. village: Wantage. [Alfred’s birthplace]
+VII:255. The psalm is roaring above the rune: The Christians have conquered the heathens.
+Runes came into use among the Germans by the third century, A.D., chiefly for [[Magic|magic]] (Campbell 1982,26). Johannes Brondsted in The Vikings devotes chapter eleven to runic inscriptions (1965). He points out that the inscriptions are the most important direct sources through which the Vikings speak to us with their own voices and in their own language. Charles Mills Gayley explains why the Latin alphabet replaced the runic letters: “The association of the runic letters with heathen mysteries and superstition caused the first Christian teachers to discourage, and, indeed, as far as possible, suppress their use. They were therefore superseded by the Latin alphabet, which in First English was supplemented by the retention of two of the runes named ‘thorn’ and ‘wen’ to represent sounds of the ‘th’ and V for which the Latin alphabet had no letters provided” ([1893] 1911,539).
+VII:265-66. Asser tells how “dire was Alfred” at Ethandune:
+And there against the whole Heathen host formed he firm his shield-wall, and fought a deadly fight. Stoutly and long kept they at it; and, by God’s help, in the end he got the victory, and laid low the Heathen with a very great slaughter, and followed hard upon their flight, with blow on blow, even unto their stronghold [Chippenham]. And everything without the stronghold, men to wit, and horses, and herds, caught he and took, and the men he slew at once; and before the gates of the Heathen stronghold did he and all his host take camp, like men. And when he had there tarried 14 days, the Heathen, anhungered, and a-cold, and a-dread, and at last, hopeless, became sore afraid, and begged for peace, on this troth that the [[archetypes/king|King]] should name and take from them such sureties as he would, giving none in return. Never before had they made peace with anyone after this sort (Conybeare 1900,100).
+VII:276. Guelderland: Gelderland, a province of the eastern Netherlands.
+VII:281-82. An unsuccessful siege of [[settings/paris|Paris]] by the Northmen occurred in 885-86 (Hodgkin [1935] 1952,2:654).
+VII:285. Durham: A [[motifs/city|city]] located in northeastern England on the Wear [[motifs/river|river]].
+VII:285. melted Durham bell: Here is another reference to Danish destruction.
+VII:299. woad: A blue dye-stuff prepared from the [[motifs/leaves|leaves]] of the Isatis plant.
+VII:299. bright with [[motifs/blood|blood]] for woad: “Woad” is here used in a figurative sense. The red [[motifs/blood|blood]] stained the naked bodies of the Celts as the blue juice of woad had previously colored the skins of their British kin.
+VII:324. [[works/the-raven-(coleridge)|The Raven]] of Odin,
+torn: The Danish [[motifs/flag|flag]] was “a black raven on a [[motifs/blood|blood]] red held” (Gordon 1924,3). “They say that the three daughters of Lodbrok [the lather of Hubba] wove it, and that in one day. They say, moreover, that in every fight, whensoever that [[motifs/flag|flag]] went before them, [[The Raven|the Raven]] in the midst thereof, if they were fated to win that day, would seem to flutter as if alive; but were their doom to be worsted, then would it droop, still and lifeless. And oft was this [[motifs/well|well]] proven” (Conybeare 1914,37).
+VII:324. Odin: The chief god of the Northmen.
+VII:325. And the eyes of Guthrum altered: Walter Besant accounts for the remarkable change in the Danish leader: “He perceived—this logical pagan—that [[historical-references/king-alfred|King Alfred]]’s Gods had shown their superiority over his own in a manner so unexpected, so amazing, and so decisive, that he hesitated no longer. He acknowledged that superiority; he was baptized, and he never afterwards relapsed” (Bowker 1899,17).
+VII:359-60. In speaking of the baptism of Guthrum and the Treaty of Wedmore, Chesterton emphasizes the importance of the [[concepts/conversion|conversion]] of the Danish [[archetypes/king|King]]: “In all the tacts that followed, the baptism of Guthrum is really much more important than the Treaty of Wedmore. The treaty itself was a compromise, and even as such did not endure; a century afterwards a Danish [[archetypes/king|king]] like Canute was really ruling in England. But though the Dane got the [[motifs/crown|crown]], he aid not get rid of the [[motifs/cross|cross]]” (1917,53).
+VII:366. Asser and the ASC state that Guthrum was baptized three weeks after the battle of Ethandune: “Then did the Host give him sureties, with many an oath, that they would leave his kingdom. And they plighted unto him their troth that their [[archetypes/king|King]] should undergo Baptism, and this they fulfilled even so. And, some three weeks after, came unto him [[archetypes/king|King]] Guthrum, with some thirty more, the worthiest men in the Host, at Aller, near Athelney. And in Baptism the [[archetypes/king|King]] was his Godfather. And his chrism-loosing was at Wedmore. And twelve nights abode he with the [[archetypes/king|King]]; and many a worthy gift gave he [Alfred] to him and his” (Conybeare 1900,124-25).
+VII:367. Far out to the winding [[motifs/river|river]]: The Ock [[motifs/river|river]] flows through the Vale of the White [[motifs/horse|Horse]] and joins the Thames, the winding [[motifs/river|river]], at Abingdon.
+
+Notes: The Scouring of the [[motifs/horse|Horse]]
+Synopsis: While Wessex lies in “a patch of peace” (879-892), Alfred not only strengthens English life and culture on all levels, but he also maintains and expands military preparedness. Alfred’s hospitality and generosity encourage foreign visitors, and his ambassadors represent Wessex’s interests around the world. Informed that the Danish armies were raiding southeastern England again, Alfred discloses his vision which foresees in some far century the arrival of a different type of invader. They will be writers and teachers who [[motifs/poison|poison]] minds by spreading falsehoods. After four hard years of fighting, the enemy withdraws to the continent. Alfred has not definitively defeated the Danes, hut he has prevented them from occupying his kingdom.
+And though shies alter and empires melt,
+This word shall still he true:
+If we would have the [[motifs/horse|horse]] of old,
+Scour ye the [[motifs/horse|horse]] anew.
+(VII:204-7)
+VIII:1. The years between the victory of Ethandune in 878 and the return of the Danes in 892 are the “years of the peace of Wessex.” Alfred had many skirmishes with the Danes on sea and land during this interval, but no serious threat to the kingdom. In 892, Haesten, with a fleet of eighty ships, and the Great Army in 250 vessels established themselves in the southeastern section of England. Book VIII relates Alfred’s successful meeting of this crisis.
+VIII:3. bloody boon: Mary’s help during the battle of Ethandune (VII:189-258).
+VIII:4. An allusion to Mary (Rev. 12:1).
+VIII:12. Guthrum withdrew to East Anglia where he distributed land among his followers.
+VIII:19-20. The chronicler Aethelweard mentions the presence of ealdorman Aethelnoth of Somerset at the “chrism-loosing” of Guthrum (Conybeare 1900,139). Lingard describes the baptism and the chrism-loosing: “After a few weeks, Guthrum with thirty of his officers was baptized at Aller, near Athelney. He took the surname Athelstan, and Alfred was his sponsor. After the ceremony both princes removed to Wedmore, where on the eighth day Guthrum put off the white robe and the chrysmal fillet, and on the twelfth hade adieu to his adopted father, whose generosity he had learned to admire as much as he had before respected his valour” ([1849] 1912,1:204). In his [[concepts/history|History]] and Antiquities of the Anglo-Saxon Church John Lingard gives greater detail: “The priest depressed his head three times below the surface, saying, I baptize thee in the name of the Father, and of the Son, and of the Holy [[archetypes/ghost|Ghost]]. He was now anointed on the [[motifs/crown|crown]] with chrism in the form of the [[motifs/cross|cross]], and a white linen cap called a chrismal was fastened over his head. . . . Still it was expected that he should return to the church on each of the next seven days, to attend to daily instruction and to receive daily the communion. On the last the chrysmal was removed, and the ceremony was concluded” (1845,1:318-319).
+VIII:21-24. After withdrawing from Wessex, the Danes retained lands north and east of the following boundaries: “Along the Thames, then up on the Lea unto its source; then on right to Bedford; then up on the Ouse unto Watling Street” (Alfred the Great [1858] 1969,2:139). [This territory became known as the Danelaw.] The text of the two treaties containing the terms of peace between Alfred and Guthrum is still in existence. Dorothy Whitelock’s [[forms/translation|translation]] of the longer version is in English Historical Documents ([1955] 1979,416-17). J. A. Giles included both treaties in the second volume of The Whole Works of [[historical-references/king-alfred|King Alfred]] the Great ([1858] 1969). See R. H. Hodgkin for an explanation of the clauses of the treaty ([1935] 1952,2:578-81).
+VIII:33-34. John Earle stresses the fact that [[historical-references/king-alfred|King Alfred]]’s educational revival installed the mother tongue as the medium of elementary teaching (Bowker 1899,205). In the same collection of essays, Sir Walter Besant explains how [[historical-references/king-alfred|King Alfred]] laid the foundations of English poetry and prose: “He collected and preserved the poetry based on the traditions and legends brought from the German Forests. He himself delighted to hear and to repeat these legends and traditions: the deeds of the mighty warriors who fought with monsters, dragons, wild boars, and huge serpents. He made his children learn their [[songs]]; he had them sung in his [[settings/court|Court]]. The tradition goes that he could himself sing them to the music of his own harp” (Bowker 1899,29). Asser speaks of the application of Alfred’s children to learning: “For they have learnt the psalms, and Saxon hooks, and Saxon [[songs]] above all, and are for ever reading” (Conybeare 1900,104).
+VIII:35. the alms he gave as a Christian: The ASC 883 notes: “Sigehelm and Athelstan bare to Rome the alms that the [[archetypes/king|King]] had vowed to send thither, and eke to India, to St. Thomas and St. Bartholomew, when they sat down against [opposed] the Host that was in [[settings/london|London]]” (Conybeare 1900,125). This addition belongs to the Anglo-Saxon Chronicle for 886. It was in 886 that Alfred vowed to send alms if he defeated the Danish army that was occupying [[settings/london|London]]. The ASC also states that Alfred sent alms to Rome in 887, 888, and 890. Simeon of Durham describes Alfred’s generosity to those of his own kingdom: “At the holy solemnities of the Festivals, what boons he bestowed on his bishops and chieftains and knights, none may declare. Then did the poor leap for gladness, then were widows and orphans full of joy; and heartfelt praises they gave him. Full [[motifs/well|well]] he knew that saying of the Teacher—‘Then is money of true worth, when it has been handed over to others. Almsgiving is the end of ownership’ ” (Conybeare 1900,158).
+VIII:37-38. An examination of the account given by Asser, Alfred’s biographer, shows that the [[archetypes/king|King]] considered himself only a steward of the wealth entrusted to him:
+He bade his officers divide his annual income always into two equal shares, to begin with. When this was done he assigned the first share to secular affairs; and bade it be divided again into three shares. . . .[This went to his warriors, craftsmen, and foreigners from many lands.] But the second half of all the wealth which yearly came in to him, from whatever source, he vowed freely and fully to God. And he bade his officers heedfully to part the same into four shares, in such wise, that the first of these shares should be paid over to the poor of every race that came unto him. And the second part he gave to the two Abbeys of his own foundation. And the third to the School, wherein he had so carefully gathered many of the high-born of his own race. And the fourth to the Abbeys round about (Conybeare 1900,115-16).
+VIII:39. Keynes and Lapidge cite [[historical-references/king-alfred|King Alfred]]’s own testimony that he used the earlier laws of Kings Ine, Offa, and Ethelberht as his sources (1983,164).
+VIII:45-46. Asser, as a companion and confidant living at the [[settings/court|court]], can be relied upon when he says that Alfred set aside one-third of the income which he had designated for secular use to be assigned to foreigners: “And the third share gave he to the strangers of every race who flocked unto him from far and near and asked of him money. Nay, even though they asked not, yet gave he to each according to his several worthiness, full gladly, and with a wondrously open hand, beyond all praise” (Conybeare 1900,116). Asser specifies “the ends of the earth” from which visitors came: “For the [[motifs/time|time]] would fail me to tell. . . how day by day had he embassies from the folk that dwell by the Tyrrhenian [Mediterranean] Sea, and unto the uttermost parts of Ireland” (Conybeare 1900,112).
+Among the famous visitors to the [[settings/court|court]] were Ohthere and Wulfstan, who gave detailed reports of their voyages of discovery and exploration to [[historical-references/king-alfred|King Alfred]]. The [[archetypes/king|King]] inserted an account of these expeditions in his Anglo-Saxon [[forms/translation|translation]] of Orosius. From this source one learns that Ohthere doubled the North Cape and entered the White Sea on the first trip northward. Wulfstan reported his findings in the Baltic lands. Judging from the space devoted to Wulfstan’s exposition of the curious customs of the Esti, [[historical-references/king-alfred|King Alfred]] must have been captivated by the strange reports he heard (Alfred the Great [1858] 1969,2:39-56).
+Through his generosity in paying for their services, [[historical-references/king-alfred|King Alfred]] attracted numerous craftsmen to his kingdom. Tradesmen came “together from many a race, and in almost countless numbers, [[motifs/well|well]] skilled in every kind of building known on earth.” Their expert work promoted Alfred’s plans for the upbuilding of Wessex.
+VIII:45-48. Asser in writing of Alfred’s munificence, states that he gave alms to abbeys outside of his own kingdom: “And in some years, too, he gave, as he might, by turn to the churches in Wales and Cornwall, in Gaul, Brittany, Northumbria, and even, now and then, in Ireland, and to the servants of God who dwelt therein” (Conybeare 1900,116).
+VIII:47-48. See E VIII:35.
+VIII:52. crakens: Mythical sea-monsters or enormous size, said to have been seen at times off the coast of Norway.
+VIII:55-60. Chesterton seems to be referring to Ohthere, the navigator. Dr. Joseph Bosworth says in an explanatory note appended to bis [[forms/translation|translation]] of [[historical-references/king-alfred|King Alfred]]’s “Orosius”:
+Ohthere was a Norwegian nobleman of great wealth and influence, anxious to state nothing, but that to which he could bear personal testimony. It appears impossible for any one to read this simple narrative, without being convinced, that this daring Northman is giving a detail of his voyage, on the north coast of Norway into the White Sea. . . . Ohthere had made discoveries, which he communicated to the [[archetypes/king|king]], and Alfred thought them of such importance, that he wrote and inserted this detail of them in his Geographical and Historical view of Europe (Alfred the Great [1858] 1969, 2:39).
+VIII:61-66. Chesterton may be alluding to Sigehelm and Athelstan as the “great gift-bearing lords” who in 883 [886] went even as far as India. William of Malmesbury mentions that Sigehelm, Bishop of Sherborne, brought back “many a strange and brilliant [[motifs/jewel|jewel]]” (Conybeare 1900,165).
+VIII:70. Prester John: This mythical priest-[[archetypes/king|king]] supposedly ruled a mysterious kingdom in India. Before his palace stood a crystal [[motifs/mirror|mirror]] in which he could watch his entire kingdom. Chesterton treats this myth in “The Modern [[works/magic-(chesterton)|Magic]]” (1944,19).
+VIII:72. Terre Majeure: The Carolingian Empire. Before 814, Charlemagne had much of western Europe under his control.
+VIII:72-77. Alfred recognized the civilizing influence of the empire established by Charlemagne.
+VIII:87. Chesterton identifies the Picts as the people “who lay beyond Agricola’s boundary in what is now the Scotch Lowlands” (1917,27).
+VIII:88-89. In the ninth century, Strathclyde was the name given to the territory governed by the Northern Welsh. It included the valley of the Clyde [[motifs/river|river]].
+VIII:94-114. Alfred replies with a proveth to his advisers who are pressing him to drive out the Danes and to conquer the country above Hadrian’s wall. “A seer feels too small for life, / And a [[archetypes/fool|fool]] too large for it.”
+(VIII:96-97). This passage is a rebuke to the ambitious empire-builders of Chesterton’s day. In What’s Wrong with the World he writes: “I have thus explained. . . why I do not believe in Imperialism as commonly understood. I think it not merely an occasional wrong to other peoples, but a continual feebleness, a running sore, in my own” (1910,106). [[historical-references/king-alfred|King Alfred]], unlike his grandfather Egbert, had engaged only in defensive warfare.
+VIII:96-97. [[historical-references/king-alfred|King Alfred]]’s actions and writings affirm his [[concepts/humility|humility]] and wisdom.
+VIII:129-30. From Wantage Town to Plymouth Bluff: At strategic locations Alfred “made his fences tough” by ordering the construction of burhs [forts]. Hodgkin explains Alfred’s [[motifs/well|well]] planned system of defense ([1935] 1967,2:585-90).
+VIII:135-42. Thomas Hughes wrote a lively account of the 1857 festival that followed the scouring of the White [[motifs/horse|Horse]]. Thousands of spectators assembled on 17 and 18 September to enjoy the merrymaking, as [[motifs/well|well]] as to admire the [[motifs/horse|Horse]]. Money prizes were awarded winners in backsword play, wrestling, a jingling match, climbing a greased pole; and in foot, hurdle, cart-[[motifs/horse|horse]], and [[donkey]] races. Whoever captured the pig that was released could claim it as a prize (1859,92-93).
+VIII:149-53. At the opening of his last war, Alfred was forty-four years old. He had aged prematurely because of his strenuous labors as [[archetypes/king|king]].
+VIII:160-63. The Danes from Boulogne invaded [[characters/kent|Kent]] in two large companies in 892. Numerous skirmishes occurred during the early months of the war. At the outset Alfred tried diplomacy, but eventually detachments of his army fought successfully in various engagements with the Danes. It appears that Alfred acted as a commander in chief while his son Edward, son-in-law Ethelred, and others led the troops. For greater detail of the 892-96 war see: ASC 892-96; Hodgkin ([1935] 1952,2:655-69); “Aethelweard’s Chronicle, AD. 893-95,” Keynes and Lapidge (1983,114-19; 189-91).
+VIII:170. dykes: These simulate running earthworks in certain districts. Some dykes provided protection; others established boundaries.
+VIII:184-213. In Orthodoxy, Chesterton enlarges on the fact that things naturally tend to grow worse. The chapter, “The Eternal Revolution,” explains: “if you leave a white post [[Alone|alone]] it will soon be a black post, if you particularly want it to be white you must be always painting it again; that is, you must be always having a revolution. Briefly, if you want the old white post you must have a new white post” (1908,212).
+VIII:211. wot: First and third person singular present of wit, to know. (Archaic except Scotch and Dialectal English.)
+VIII:214-30. Aethelweard’s Chronicle (Keynes and Lapidge 1983,189-91) and the ASC are primary sources for Alfred’s last war. By 893 fighting men from all over England outside the Danelaw were hastening to the aid of Alfred. The “distant tribes” included those from Wales, Cornwall, and English Mercia. Alfred’s allies realized that their [[concepts/survival|survival]] was bound up with that of Wessex. Hodgkin ([1935] 1952,2:653-69) has an excellent chapter on Alfred’s last war. Alfred’s previous attention to shipbuilding, to the improvement of the fortifications, and to the military reorganization of manpower contributed to his [[success]].
+VIII:216-18. Leg ions of drafted men marched by “in haste and bitterness / For [[characters/christ|Christ]]’s sake and the [[motifs/crown|crown]]’s.”
+VIII:223-24. According to the “Legend of Glastonbury, A.D. 62,” the [[archetypes/pilgrim|pilgrim]] staff of Joseph of Arimathea “came from a thornbrake that had furnished thorns for a [[motifs/crown|crown]] [[[characters/christ|Christ]]’s]” Catholic World 7 (July 1868):522. This [[archetypes/pilgrim|pilgrim]] staff is supposed to have miraculously taken root in the soil of Glastonbury.
+Chesterton refers to St. Joseph of Arimathea as a wealthy missionary who took the [[concepts/body|body]] of our Lord down from the [[motifs/cross|Cross]] and laid it in his own tomb. . . (Matt. 26: 26-28). Here Chesterton links up the part St. Joseph of Arimathea had in the burial of Jesus with a legendary role attributed to him of introducing [[historical-references/christianity|Christianity]] into Britain (1917,35-36).
+VIII:233-35,245-47. While the soldiers are thronging past him on their way to drive out the pagan Danes, Alfred has a vision, an inner certitude, that in some far century “the heathen shall return.” For Maurice Evans, Alfred’s vision is the most significant part of the Ballad (1939,114-15).
+VIII:236-37. [[historical-references/king-alfred|King Alfred]] gives his kingdom to Our Lady. The [[archetypes/king|king]]’s reverence for Mary may be assumed from the fact that her name is mentioned after God in one of his charters: “I Alfred [[archetypes/king|king]], in [[concepts/honour|honour]] of God and of the blessed [[characters/virgin-mary|virgin Mary]] and of all the saints, give and grant, being alive and still thriving, to the church of Scepton a hundred hides of land” (Alfred the Great [1858] 1969,1:388). For details about the ancient devotions, shrines, and pilgrimages in England, consult H. W. R. Lillie, S.J., England, the Dowry of Mary.
+VIII:248-56. The modern barbarians will not be warriors but writers and orators who will use “dead words” to eliminate God as the Creator and Designer of the universe. In Orthodoxy Chesterton denounces the evil influence of Herbert Spencer on H. G. Wells (1908,111). Mr. Wells set down the theory of Natural Selection as a fact of modern science. Adherence to this teaching was an attempt to get rid of God. Elsewhere in Orthodoxy Chesterton gives the Christian viewpoint: “And the root phrase for all Christian theism was this, that God was a creator. . . . It was the prime philosophic principle of [[historical-references/christianity|Christianity]] that this [[divorce]] in the divine act of making (such as severs the poet from the poem or the mother from the new-born [[archetypes/child|child]]) was the true description of the act whereby the absolute energy made the world. According to most philosophers, God in making the world enslaved it. According to [[historical-references/christianity|Christianity]], in making it, He set it free. God had written, not so much a poem, but rather a play; a play he had planned as perfect, but which had necessarily been left to human actors and stage-managers, who had since made a great mess of it” (1908,142-43).
+VIII:249. brands: Probably in this context: torches.
+VIII:262-65. Herbert Spencer “popularized this contemptible notion that the size of the solar system ought to over-awe the spiritual dogma of man. Why should a man surrender his dignity to the solar system any more than to a whale?” (Chesterton 1908,110)
+VIII:268-69. These are references to the accomplishment of impossible feats.
+VIII:270-72. Vergil composed the Aeneid, it is said, at the request of Augustus. In form it followed closely the great Homeric [[Poems|poems]], while in substance it magnified Rome and the ruler of Rome.
+VIII:273-306. Chesterton fights for “Christian civilization against heathen nihilism.” The modern barbarians come as scholars who know too much to believe in God, and by their teachings they undermine and destroy the [[concepts/faith|faith]] of others. VIII:293-94 Chesterton points out the reality of sin:
+Modern masters of science are much impressed with the need of beginning all inquiry with a fact. The ancient masters of religion were quite equally impressed with that necessity. They began with the fact of sin—a fact as practical as potatoes. Whether or no man could be washed in miraculous waters, there was no [[concepts/doubt|doubt]] at any rate that he wanted washing. But certain religious leaders in [[settings/london|London]], not mere materialists, have begun in our day not to deny the highly disputable [[motifs/water|water]], but to deny the indisputable dirt. Certain new theologians dispute [[concepts/original-sin|original sin]], which is the only part of Christian theology which can be really proved. Some followers of the Reverend R. J. Campbell, in their almost too fastidious spirituality, admit divine sinlessness, which they cannot see even in their [[motifs/dreams|dreams]]. But they essentially deny human sin, which they can see in the street (1908,24).
+VIII:295-96. Ibsen and Nietzsche are two writers whom Chesterton singles out for attack. “My meaning is that Ibsen has throughout,. . . a certain vagueness and a changing attitude as [[motifs/well|well]] as a doubting attitude towards what is really wisdom and virtue in this life. . . . All previous ages have sweated and been crucified in an attempt to realize what is really the right life, what was really the good man. A definite part of the modern world has come beyond question to the conclusion that there is no answer to these questions” (1905a,31-32). Some of the philosophers who are by “thought a crawling ruin” come in for attack in Orthodoxy:
+Nietzsche will stand very [[motifs/well|well]] as the type of the whole of this failure of abstract violence. The softening of the brain which ultimately overtook him was not a physical accident. If Nietzsche had not ended in imbecility, Nietzscheism would end in imbecility. Thinking in isolation and with [[concepts/pride|pride]] ends in being an idiot. . . . By the accident of my present detachment, I can see the inevitable smash of the philosophies of Schopenhauer and [[characters/tolstoy|Tolstoy]], Nietzsche and [[works/shaw-(chesterton)|Shaw]], as clearly as an inevitable railway smash could be seen from a balloon (1908,75-77).
+VIII:296. By life a leaping mire: Since Oscar Wilde was a notorious decadent, this phrase could refer to him. Chesterton comments: “Oscar Wilde said that sunsets were not valued because we could not pay for sunsets. But Oscar Wilde was wrong; we can pay for sunsets. We can pay for them by not being Oscar Wilde” (1908,104).
+VIII:324. St. [[characters/edmund|Edmund]], [[archetypes/king|king]] of East Anglia, obtained his martyr’s [[motifs/crown|crown]] when he opposed the Danish invaders in 870.
+VIII:332-50. After the East Anglian violation of peace with Alfred, the [[archetypes/king|king]] used force to recover [[settings/london|London]] in 886 (ASC 886).
+VIII:351-71. The thriving “clover and silent thistle” have “unwound the toils of men.” The contest continues. Unchecked [[concepts/nature|nature]] defaces the White [[motifs/horse|Horse]].
+VIII:366-71. “Abrupt and absolute as an [[forms/epic|epic]] ends, . . .” (Chesterton 1926a,29). Against the backdrop of a “pale purple sky” and ivory battle smoke, the great Alfred continues the unending defense of his realm.
+
+REFERENCES
+Alfred the Great, [[archetypes/king|King]] of England. [1858] 1969. The Whole Works of [[historical-references/king-alfred|King Alfred]] the Great. J. A. Giles, general editor. Reprint (3 vols, in 2). [[settings/new-york|New York]]: AMS Press.
+Anglo-Saxon Chronicle. [1953] 1986. Edited and translated by G. N. Garmonsway. Reprint. [[settings/london|London]]: J. M. Dent.
+1892-99. Two of the Saxon Chronicles Parallel. Edited by Charles Plummer. 2 vols. [[settings/oxford|Oxford]]: Clarendon Press.
+1961. A Revised [[forms/translation|Translation]]. Edited by Dorothy Whitelock, David C. Douglas, and Susie I. Tucker. [[settings/london|London]]: Eyre and Spottiswoode.
+Baring, Maurice. 1911. Review of “The Ballad of the White [[motifs/horse|Horse]],” by G. K. Chesterton. Eye-Witness 1 (7 September):378-80.
+Barker, Dudley. 1973. G. K. Chesterton. [[settings/new-york|New York]]: Stein and Day.
+Beda Venerabilis. 1910. The Ecclesiastical [[concepts/history|History]] of the English Nation. [[settings/new-york|New York]]: E. P. Dutton.
+Bowker, Alfred, ed. 1899. Alfred the Great. [[settings/london|London]]: A. & C. Black.
+ed. 1902. The [[historical-references/king-alfred|King Alfred]] Millenary. [[settings/london|London]]: Macmillan.
+Braybrooke, Patrick. 1922. Gilbert Keith Chesterton. Philadelphia: J. B. Lippincott.
+Brondsted, Johannes. 1965. The Vikings. Baltimore, Md.: Penguin Books.
+Bume, Alfred. 1950. “Ancient Wiltshire Battlefields: Ellandun—Ethandun.” Wiltshire Archaeological and Natural [[concepts/history|History]] Magazine 53:397-412.
+Campbell, James, Eric John, and Patrick Wormald. 1982. The Anglo-Saxons. Ithaca, N.Y.: Cornell University Press.
+Chandlery, P. J. 1924. Mary’s Praise on Every Tongue. [[settings/london|London]]: Manresa Press.
+Chesterton, Cecil. 1909. Gilbert K. Chesterton. [[settings/new-york|New York]]: John Lane.
+Chesterton, Gilbert K. 1911. Alarms and Discursions. [[settings/new-york|New York]]: Dodd, Mead.
+1933. “Alfred the Great.” In The English Way. See Ward 1933.
+1936. The Autobiography of G. K. Chesterton. [[settings/new-york|New York]]: Sheed & Ward.
+1911a. The Ballad of the White [[motifs/horse|Horse]]. Edited by Bernadette Sheridan and John Totten. Kirkwood, Mo.: Catholic Authors, 1950.
+1932. Chaucer. [[settings/new-york|New York]]: Devin-Adair.
+1926. Cobbett. [[settings/new-york|New York]]: Dodd, Mead.
+1944. The Collected [[works/poems-(chesterton)|Poems]] of G. K. Chesterton. [[settings/new-york|New York]]: Dodd, Mead.
+1950. The [[concepts/common-man|Common Man]]. [[settings/new-york|New York]]: Sheed & Ward.
+[1901] 1906. The Defendant. 2d ed. [[settings/new-york|New York]]: Dodd, Mead.
+1923. Fancies versus Fads. [[settings/new-york|New York]]: Dodd, Mead.
+1929. G. K. C. as M-C. [[settings/london|London]]: Methuen.
+1905a. Heretics. [[settings/new-york|New York]]: Dodd, Mead.
+1908. Orthodoxy. [[settings/new-york|New York]]: John Lane.
+1926a. The [[characters/queen|Queen]] of Seven Swords. [[settings/london|London]]: Sheed & Ward.
+1903. Robert Browning. [[settings/london|London]]: Macmillan.
+1917. A Short [[concepts/history|History]] of England. [[settings/new-york|New York]]: John Lane.
+1930. The Thing. [[settings/new-york|New York]]: Dodd, Mead.
+1905. Varied Types. [[settings/new-york|New York]]: Dodd, Mead.
+1910. What’s Wrong with the World. [[settings/new-york|New York]]: Dodd, Mead.
+[[characters/clifford|Clifford]], Bishop William. 1875. “Site of the Battle of Aethandune.” Proceedings of the Somersetshire Archaeological and Natural [[concepts/history|History]] Society 21:1-27.
+Coleridge, S. T. [1817] 1907. Biographia Literaria. 2 vols. Edited by J. Shawcross. [[settings/london|London]]: [[settings/oxford|Oxford]] University Press.
+Collingwood, R. G., and J. N. L. Myres. [1936] 1937. Roman Britain and the English Settlements. 2ded. [[settings/oxford|Oxford]]: Clarendon Press.
+Conlon, D. J., ed. 1976. G. K. Chesterton: The Critical Judgements (1900-1937). Antwerp: Universitaire Faculteiten Sint-Ignatius.
+ed. 1987. G. K. Chesterton: A Half Century of Views. [[settings/oxford|Oxford]]: [[settings/oxford|Oxford]] University Press.
+Conybeare, Edward, ed. 1900. Alfred in the Chroniclers. [[settings/london|London]]: Elliot Stock.
+ed. 1914. Alfred in the Chroniclers. 2d ed. Cambridge: W. Heffer.
+Coren, [[characters/michael|Michael]]. 1989. Gilbert, The Man Who Was Chesterton. [[settings/london|London]]: Jonathan Cape.
+Desmond, Sister Celeste. “The Ballad of the White [[motifs/horse|Horse]].” Master’s thesis, Catholic University of [[settings/america|America]], 1958.
+Dollard, James B. 1912. “The Ballad of the White [[motifs/horse|Horse]].” Catholic World 95:41-55.
+Evans, Maurice. 1939. G. K. Chesterton. Cambridge: University Press.
+Ffinch, [[characters/michael|Michael]]. 1986. G. K. Chesterton. San Francisco: Harper & Row.
+Gayley, Charles Mills. [1893] 1911. The Classic Myths in English Literature and in Art. New Edition. Boston: Ginn.
+Giles, J. A., ed. 1891. Six Old English Chronicles. [[settings/london|London]]: George Bell.
+G. K. Chesterton Archives, University of St. [[characters/michael|Michael]]’s College Library, Toronto.
+Gordon, W. J. 1924. Flags of the World. [[settings/london|London]]: Frederick Warne.
+Green, Alice Stopford. 1925. [[concepts/history|History]] of the Irish State to 1014. [[settings/london|London]]: Macmillan.
+Grundy, G. B. 1918. “Ancient Highways and Tracks of Wilts, Berks and Hants, and the Saxon Battlefields of Wilts.” Archaeological Journal 75:178-181.
+Hodgkin, R. H. [1935] 1952. A [[concepts/history|History]] of the Anglo-Saxons. 3d ed. 2 vols. [[settings/london|London]]: [[settings/oxford|Oxford]] University Press.
+Hollis, Christopher. 1970. The Mind of Chesterton. Baltimore, Md.: University of Miami Press.
+Hughes, Thomas. 1859. The Scouring of the White [[motifs/horse|Horse]]. Cambridge: Macmillan.
+Keynes, Simon, and [[characters/michael|Michael]] Lapidge, eds. and trans. 1983. Alfred the Great. [[settings/new-york|New York]]: Penguin Books.
+Knox, Ronald. 1936. “Chesterton in His Early Romances.” Dublin Review 199:351-65.
+“Legend of Glastonbury—A.D. 62.” 1868. Catholic World 7: 517-24.
+Lewis, C. S. 1946. “On Stephens on Chesterton.” In G. K. Chesterton: A Half Century of Views. See Cordon 1987.
+Lillie, H. W. R. 1952. England the Dowry of Mary. [[settings/london|London]]: Catholic [[concepts/truth|Truth]] Society.
+Lingard, John. [1849] 1912. The [[concepts/history|History]] of England. Vol. 1. [[settings/new-york|New York]]: Catholic Publications Society of [[settings/america|America]].
+1845. The [[concepts/history|History]] and Antiquities of the Anglo-Saxon Church. Vol. 1. [[settings/london|London]]: C. Dolman.
+Livius, Titus. 1913. The [[concepts/history|History]] of Rome. Translated by Dorothy Spillan. [[settings/london|London]]: George Bell.
+MacNeill, Eoin. 1910. Celtic Religion. [[settings/london|London]]: Catholic [[concepts/truth|Truth]] Society.
+1919. Phases of Irish [[concepts/history|History]]. St. Louis, Mo.: B. Herder.
+Mallet, Paul. 1882. Northern Antiquities. Translated by Bishop Percy. [[settings/london|London]]: George Bell.
+Mann, Horace K. 1902-25. The Lives of the Popes in the Early Middle Ages. Vols. 2, 3, and 4. St. Louis, Mo.: B. Herder.
+Matcham, George. 1857. “The [[historical-references/battle-of-ethandun|Battle of Ethandun]].” Wiltshire Archaeological and Natural [[concepts/history|History]] Magazine 3:175-88.
+McNabb, Vincent. 1936. “Gilbert Keith Chesterton.” Blackfriars 17:576.
+Muir, [[characters/richard|Richard]]. 1983. [[concepts/history|History]] from the Air. [[settings/london|London]]: [[characters/michael|Michael]] Joseph.
+Mulroy, Sister Catherine. 1988. “Early Celtic Religious Beliefs.” Manuscript to editor, 25 February 1988. [[settings/london|London]].
+“Mummers.” 1854. Wiltshire Archaeological and Natural [[concepts/history|History]] Magazine 1:79-85.
+Norton-Taylor, [[characters/duncan|Duncan]] and the Editors of [[motifs/time|Time]]-Life Books. 1976. The Emergence of Man: The Celts. Alexandria, Va.: [[motifs/time|Time]]-Life Books.
+O’Connor, John. [1937] 1938. [[characters/father-brown|Father Brown]] on Chesterton. 2d ed. [[settings/london|London]]: Burns, Oates & Washbourne.
+Oman, Charles. [1904] 1925. England before the Norman Conquest. 6th ed. [[settings/london|London]]: Methuen.
+Radford, W. L. 1905. “Aethandune.” Somersetshire Archaeological Society Proceedings 51:169-80.
+Rydberg, Victor. 1907. Teutonic Mythology. 3 vols. Translated by Rasmus B. Anderson. [[settings/new-york|New York]]: Norroena Society.
+Scrope, G. Poulett. 1858. “The Battle of Ethandune.” Wiltshire Arckaeological and Natural [[concepts/history|History]] Magazine 4:298-306.
+Sheridan, Sister Bernadette. “The Ballad of the White [[motifs/horse|Horse]].” Master’s thesis, Wayne State University, 1947.
+Shetelig, Haakon, ed. 1940. Viking Antiquities in Great Britain and Ireland, Part 1. Oslo: H. Asckekoug.
+Schuster, George N. 1922. The Catholic Spirit in Modern English Literature. [[settings/new-york|New York]]: Macmillan.
+[[smith|Smith]], Timothy W. 1978. “[[historical-references/king-alfred|King Alfred]]: An Eleventh Centenary.” [[concepts/history|History]] Today 28:423-28.
+Snorri, Sturluson. 1967. Heimskringla. Translated by Lee M. Hollander. Austin: University of Texas Press.
+Stenton, Frank M. [1943] 1971. Anglo-Saxon England. 3d ed. [[settings/oxford|Oxford]]: Clarendon Press.
+Thurman, John. 1857. “On the Barrow at Lanhill near Chippenham; and on the Battles of Cynuit and Ethandun, A.D. 878.” Wutshire Archaeological and Natural [[concepts/history|History]] Magazine 3:67-86.
+Ward, Maisie, ed. 1933. The English Way. [[settings/new-york|New York]]: Skeed & Ward.
+1943. Gilbert Keith Chesterton. [[settings/new-york|New York]]: Skeed & Ward.
+1952. Return to Chesterton. [[settings/new-york|New York]]: Sheed & Ward.
+1945. The Splendor of the Rosary. [[settings/new-york|New York]]: Sheed & Ward.
+West, Julius. 1915. G. K. Chesterton. [[settings/london|London]]: Martin Seeker.
+Whitelock, Dorotky. [1952] 1968. The Beginnings of English Society. 2d ed. Baltimore, Md.: Penguin Books.
+[1955] 1979. English Historical Documents. Vol. 1. 2d ed. [[settings/london|London]]: Eyre Methuen.
+1980. “The Importance of the Battle of Edington.” From Bede to Alfred. [[settings/london|London]]: Variorum Reprint XIII, 1-15.
+Wills, Garry. 1961. Chesterton. Man and Mask. [[settings/new-york|New York]]: Skeed & Ward.
+1990. “A Chesterton for the Right.” Christian Century 107: 532-33.
+Wilson, David M. [1960] 1981. The Anglo-Saxons. 3d ed. Reprint. Harmondsworth, Middlesex, England: Pengui Books, 1986.
+
+Typeset at Marygrove College
+Publications Department
+Typeface: Bernhard
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -7946,7 +8791,7 @@ il [[archetypes/king|Re]] sedeva nel suo frutteto,
 fra mele verdi e rosse, [30]
 col piccolo libro in seno
 e il sole sopra il capo.
-E raccolse i canti degli uomini semplici
+E raccolse i [[songs|canti]] degli uomini semplici
 che ritmano col timone e la secchia,
 e l'elemosina che diede da cristiano [35]
 corse come un [[motifs/river|fiume]] vivo di pesci;
@@ -8008,7 +8853,7 @@ fra mele verdi e rosse,
 col piccolo libro in seno,
 guardò le verdi [[motifs/leaves|foglie]] e disse:
 «Quando ogni filosofia cadrà,
-questa parola sola starà; [95]
+questa parola [[Alone|sola]] starà; [95]
 che un saggio si sente troppo piccolo per la vita,
 e un [[archetypes/fool|folle]] troppo grande per essa.
 «L'Asia e tutte le piane imperiali
@@ -8165,7 +9010,7 @@ che il pagano tornerà.
 non devasteranno con tizzoni,
 ma i libri saranno tutto il loro cibo, [250]
 e inchiostro sulle loro mani.
-«Non con l'umore dei cacciatori
+«Non con l'[[Humour|umore]] dei cacciatori
 o selvaggia perizia in guerra,
 ma ordinando ogni cosa con parole morte,
 faranno stringhe di bestie e [[motifs/birds|uccelli]], [255]
@@ -8187,7 +9032,7 @@ benché innalzino meraviglie su di noi, [270]
 più grandi di quante il gran Virgilio
 ne operò per il [[archetypes/king|re]] romano,
 «da questo segno li conoscerete:
-lo spezzarsi della spada,
+lo spezzarsi della [[Sword|spada]],
 e l'Uomo non più libero cavaliere, [275]
 che ama oppure odia il suo signore.
 «Sì, questo sarà il loro segno,

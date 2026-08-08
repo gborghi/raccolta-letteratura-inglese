@@ -77,14 +77,14 @@ Wealth is never properly defined, for the purposes of economic study,
 by any one of the answers a person would naturally give off-hand. For
 instance, most people would say that a man’s wealth was the money he
 was worth. But that, of course, is [[concepts/nonsense|nonsense]]; for even if there were no
-money used his possessions would still be there, and if he had a house
+money used his possessions would still be there, and if he had a [[house]]
 and cattle and horses the mere fact that money was not being used where
 he lived would not make him any worse off.
 
 Another and better, but still a wrong, answer is: “Wealth is what a man
 possesses.”
 
-For instance, in the case of this farmer, his house and his stock and
+For instance, in the case of this farmer, his [[house]] and his stock and
 his furniture and implements are what we call his “wealth.” In ordinary
 talk that answer will do [[motifs/well|well]] enough. But it will not do for the
 strict science of [[concepts/economics|Economics]], for it is not accurate.
@@ -205,7 +205,7 @@ La ricchezza non viene mai definita in modo corretto, ai fini dello studio econo
 
 Un’altra risposta, migliore ma comunque sbagliata, è: “La ricchezza è ciò che un uomo possiede”.
 
-Ad esempio, nel caso di questo agricoltore, la sua casa, il suo bestiame, i suoi mobili e gli attrezzi sono ciò che chiamiamo il suo “benessere”. Nel linguaggio comune, questa definizione è più che sufficiente. Tuttavia, non basta per la rigorosa scienza dell’[[concepts/economics|Economia]], perché non è accurata.
+Ad esempio, nel caso di questo agricoltore, la sua [[house|casa]], il suo bestiame, i suoi mobili e gli attrezzi sono ciò che chiamiamo il suo “benessere”. Nel linguaggio comune, questa definizione è più che sufficiente. Tuttavia, non basta per la rigorosa scienza dell’[[concepts/economics|Economia]], perché non è accurata.
 
 Per prendere in considerazione un caso particolare: una parte della ricchezza di quest’uomo è, diciamo, un certo cavallo grigio. Ma se si esamina attentamente la propria definizione e la si rende rigorosamente precisa, si scopre che non è il cavallo stesso a costituire la sua ricchezza, ma qualcosa che è legato al cavallo: una qualche qualità o circostanza che influisce sul cavallo e gli conferisce ciò che viene chiamato valore. È questo valore, infatti, che rappresenta la ricchezza, non il cavallo stesso. Per capire quanto sia vero ciò, basta considerare come il valore cambi mentre il cavallo rimane invariato.
 
@@ -358,7 +358,7 @@ caused in the world by people jumping to this conclusion without
 further examination.
 
 But if we look closely into the matter we shall see that Land and
-Labour alone are not sufficient to the production of wealth in any
+Labour [[Alone|alone]] are not sufficient to the production of wealth in any
 appreciable amount. The moment man begins to produce wealth in any
 special fashion and to any appreciable extent, a third element comes
 in which is as rigorously necessary as the two others; and that third
@@ -425,7 +425,7 @@ Se l’agricoltore rimanesse fermo, soddisfatto delle sue conoscenze sulla ferti
 
 A prima vista sembrerebbe che questi due elementi, la Terra e il Lavoro, fossero tutto ciò di cui si aveva bisogno; e molte difficoltà sono sorte nel mondo a causa delle persone che hanno tratto questa conclusione senza ulteriori indagini.
 
-Ma se esaminiamo la questione più da vicino, vedremo che la terra e il lavoro, solo loro, non sono sufficienti per produrre ricchezza in quantità apprezzabili. Non appena l’uomo inizia a produrre ricchezza in un modo particolare e su una scala significativa, entra in gioco un terzo elemento, altrettanto necessario degli altri due; e questo terzo elemento si chiama CAPITALE.
+Ma se esaminiamo la questione più da vicino, vedremo che la terra e il lavoro, [[Alone|solo]] loro, non sono sufficienti per produrre ricchezza in quantità apprezzabili. Non appena l’uomo inizia a produrre ricchezza in un modo particolare e su una scala significativa, entra in gioco un terzo elemento, altrettanto necessario degli altri due; e questo terzo elemento si chiama CAPITALE.
 
 Vediamo cosa significa questa parola “CAPITALE”.
 
@@ -437,7 +437,7 @@ Ecco il vostro contadino, dotato di tutte le conoscenze necessarie e delle forze
 
 
 But that is not all. He must be sheltered from the weather; he must be
-clothed and he must have a house, otherwise he would die before the
+clothed and he must have a [[house]], otherwise he would die before the
 harvest was gathered. Again, though he might grow a very little wheat
 by putting in what seed he could with his hands into a few suitable
 places in the soil, he could not get anything like the harvest he was
@@ -508,7 +508,7 @@ capital.
 
 And this [[concepts/truth|truth]] works the other way about. At first sight you would say,
 for instance, that a diamond ring could not be capital: it is only a
-luxurious ornament. But if you use it to cut glass for mending a [[motifs/window|window]]
+luxurious ornament. But if you use it to cut glass for [[mending]] a [[motifs/window|window]]
 it is capital for that purpose.
 
 2. The second important thing to remember about Capital is that, being
@@ -523,7 +523,7 @@ but if he is going on producing wheat year after year he must replace
 the wastage in his capital year after year. His stock of wheat for food
 and for seed will have disappeared in the year; so will his stock of
 hay and oats for keeping his horses. His plough will be somewhat worn
-and will need mending; and his horses, after a certain [[motifs/time|time]], will grow
+and will need [[mending]]; and his horses, after a certain [[motifs/time|time]], will grow
 old and will have to be replaced. Therefore, if production is to be
 continuous, that is, if there are to be harvests year after year, each
 harvest must be at least enough to replace all the wastage of capital
@@ -548,7 +548,7 @@ in a Steamship Company.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ma non è tutto. Deve essere protetto dal maltempo; deve essere vestito e deve disporre di una casa, altrimenti morirebbe prima che possa raccogliere il raccolto. Inoltre, anche se potesse coltivare un po’ di grano mettendo dentro quante sementi riesce a raccogliere con le mani in alcuni posti adatti del terreno, non riuscirebbe comunque a ottenere un raccolto paragonabile a quello per cui lavora, se non disponesse di attrezzi speciali. Deve preparare il terreno con un aratro; quindi deve avere un aratro, e deve anche avere cavalli per tirarlo; inoltre, quei cavalli devono essere mantenuti in vita mentre lavorano, fino al prossimo raccolto; quindi deve disporre di una scorta di avena per nutrirli.
+Ma non è tutto. Deve essere protetto dal maltempo; deve essere vestito e deve disporre di una [[house|casa]], altrimenti morirebbe prima che possa raccogliere il raccolto. Inoltre, anche se potesse coltivare un po’ di grano mettendo dentro quante sementi riesce a raccogliere con le mani in alcuni posti adatti del terreno, non riuscirebbe comunque a ottenere un raccolto paragonabile a quello per cui lavora, se non disponesse di attrezzi speciali. Deve preparare il terreno con un aratro; quindi deve avere un aratro, e deve anche avere cavalli per tirarlo; inoltre, quei cavalli devono essere mantenuti in vita mentre lavorano, fino al prossimo raccolto; quindi deve disporre di una scorta di avena per nutrirli.
 
 Tutto ciò significa un'accumulazione di ricchezza piuttosto considerevole prima che si possa aspettarsi un buon raccolto: la ricchezza legata a vestiti, case, cibo, aratri, cavalli, per un intero anno.
 
@@ -566,7 +566,7 @@ Ci sono tre cose importanti da ricordare riguardo a “Capital”.
 
 Ma queste cose di per sé non sono capitale; infatti, se non le utilizziamo per la produzione di ricchezza futura, cessano di essere considerate capitale. Ad esempio, se mettessimo un motore in un museo, o tenessimo un martello come ricordo di qualcuno senza usarlo, allora non sarebbero più considerati elementi di capitale.
 
-E questa [[concepts/truth|verità]] funziona anche al contrario. A prima vista si potrebbe pensare, ad esempio, che un anello di diamanti non possa essere considerato “essenziale”: è soltanto un ornamento lussuoso. Ma se lo si utilizza per tagliare il vetro al fine di riparare una [[motifs/window|finestra]], allora diventa essenziale per quel scopo.
+E questa [[concepts/truth|verità]] funziona anche al contrario. A prima vista si potrebbe pensare, ad esempio, che un anello di diamanti non possa essere considerato “essenziale”: è soltanto un ornamento lussuoso. Ma se lo si utilizza per tagliare il vetro al fine di [[mending|riparare]] una [[motifs/window|finestra]], allora diventa essenziale per quel scopo.
 
 2. La seconda cosa importante da ricordare riguardo al Capitale è che, essendo una forma di Ricchezza, anch’esso viene infine consumato, proprio come tutte le altre forme di Ricchezza. Il Capitale viene consumato nel processo stesso di utilizzo per produrre ulteriore Ricchezza; e poiché viene consumato, deve essere rimpiazzato, altrimenti il processo di produzione si interromperebbe. Prendiamo ad esempio l’agricoltore di cui abbiamo parlato poco fa: doveva iniziare con un certo quantitativo di Capitale – cavalli, aratro, riserve di grano e avena, ecc. – e solo utilizzando questo Capitale poteva raccogliere 100 sacchi di grano alla fine dell’anno; ma se continua a produrre grano anno dopo anno, deve rimpiazzare annualmente quella parte di Capitale che viene consumata nel processo stesso di produzione. Le sue riserve di cibo e semi scompariranno nel corso dell’anno, così come le riserve di fieno e avena necessarie per mantenere i cavalli. Il suo aratro si consumerà gradualmente e avrà bisogno di riparazioni; i suoi cavalli, dopo un certo periodo, invecchieranno e dovranno essere sostituiti. Pertanto, affinché la produzione possa proseguire senza interruzioni, cioè affinché ci siano raccolti anno dopo anno, ogni raccolto deve essere sufficiente a rimpiazzare almeno tutta quella parte di Capitale che viene consumata durante il processo produttivo.
 
@@ -684,13 +684,13 @@ values are attached to the ton of coal. These we express by saying that
 the ton of coal at the [[characters/bottom|bottom]] of the mine, just hewed out, is worth so
 much--say 15/-; and later at the pit head is worth so much more--say
 £1. But the process of production of wealth is not yet completed. The
-coal is needed to warm you in your house, and your house is a long way
-from the pit head. It must be taken from the pit head to your house,
+coal is needed to warm you in your [[house]], and your [[house]] is a long way
+from the pit head. It must be taken from the pit head to your [[house]],
 and for this transport further labour, natural forces and capital must
 be used, and these add yet another economic value to the coal.
 
 We express this by saying that the ton of coal delivered (that is, at
-your house) is worth not £1, which it was at the pit head, but £1 10s.;
+your [[house]]) is worth not £1, which it was at the pit head, but £1 10s.;
 and in this example we see that transport is as much a part of the
 production of wealth as other work. We also see a further example of
 the [[concepts/truth|truth]] originally stated that wealth does not consist in the object
@@ -741,7 +741,7 @@ of the wheat and its culture and its harvesting and grinding, and the
 working of the flour into dough, and the baking, and created by every
 piece of transport in the process, the carting of the sheaf into the
 rick, the carting thrashed wheat to the mill, the taking of the flour
-to the baker, the taking of the baked loaf to your house, and even the
+to the baker, the taking of the baked loaf to your [[house]], and even the
 bringing of the loaf from the larder to your table. Every one of these
 actions is part of the production of wealth.
 
@@ -768,7 +768,7 @@ forces, and by the use of capital, has caused ice to be present under
 conditions where [[concepts/nature|nature]] meant there to be no ice--a hot [[motifs/summer|summer]]’s day.
 
 He has brought it from a high, cold place far away; or he has kept it
-from the [[motifs/winter|winter]] onwards stored in an ice house which he had to make and
+from the [[motifs/winter|winter]] onwards stored in an ice [[house]] which he had to make and
 to which he had to transport it; or he has made it with engine power.
 But the force of [[concepts/nature|nature]] is always ready to melt the ice when man’s
 effort ceases.
@@ -779,7 +779,7 @@ applies at the other end of the scale. You may make a building of
 granite, but it will not last for ever. The consumption is exceedingly
 slow, but it is there all the same. And whether the consumption takes
 place in the service of man (as when fuel is burnt on a hearth) or
-by neglect (as when a derelict house decays) it is always _economic
+by neglect (as when a derelict [[house]] decays) it is always _economic
 consumption_.
 
 We may sum up in the following Formulæ:--
@@ -807,7 +807,7 @@ Prendiamo, ad esempio, una tonnellata di carbone sepolta a mille piedi sotto ter
 
 Per estrarre quel carbone viene scavato un pozzo; una volta raggiunto il carbone, inizia ad attribuirsi a esso un primo valore economico. Successivamente, vengono impiegati ulteriori lavoratori, capitale e forze naturali per estrarre il carbone e portarlo in superficie. Ciò significa che al tonno di carbone vengono aggiunti altri valori economici. Per esempio, il tonno di carbone presente nella parte più profonda della miniera, appena estratto, vale tanto – diciamo 15 penny – mentre in superficie ne vale molto di più, magari 1 sterlina. Tuttavia, il processo di produzione della ricchezza non è ancora completo: il carbone serve per riscaldarsi nella propria casa, ma questa si trova lontano dalla miniera. È necessario trasportarlo fino a casa, e per questo vengono utilizzati ulteriori lavoratori, forze naturali e capitale; tutto ciò aggiunge ancora altri valori economici al carbone stesso.
 
-Lo esprimiamo dicendo che la tonnellata di carbone consegnata (cioè nella vostra >casa) ha un valore non di 1 sterlina, come avveniva alla miniera, ma di 1 sterlina e 10 scellini; in questo esempio vediamo che il trasporto rappresenta, quanto e altro lavoro, una parte fondamentale della produzione di ricchezza. Vediamo anche un ulteriore esempio della [[concepts/truth|.verità]] enunciata inizialmente: la ricchezza non consiste nell’oggetto stesso, ma nei valori che ad esso sono attribuiti. La tonnellata di carbone nella vostra cantina è esattamente la stessa (tranne che ora è stata spezzettata) di quando si trovava a mille piedi sotto terra, senza alcun modo per essere recuperata. Nella vostra cantina rappresenta ricchezza; possederla significa disporre di un valore equivalente a 30 scellini, che potreste scambiare con altre cose, come il grano. Ma la ricchezza che in questo modo possedete non è il carbone stesso, bensì i valori associati ad esso. Questi valori economici vengono accumulati fin dall’inizio del processo di produzione, fino al momento in cui ha inizio il processo di consumo.
+Lo esprimiamo dicendo che la tonnellata di carbone consegnata (cioè nella vostra [[house|>casa]]) ha un valore non di 1 sterlina, come avveniva alla miniera, ma di 1 sterlina e 10 scellini; in questo esempio vediamo che il trasporto rappresenta, quanto e altro lavoro, una parte fondamentale della produzione di ricchezza. Vediamo anche un ulteriore esempio della [[concepts/truth|.verità]] enunciata inizialmente: la ricchezza non consiste nell’oggetto stesso, ma nei valori che ad esso sono attribuiti. La tonnellata di carbone nella vostra cantina è esattamente la stessa (tranne che ora è stata spezzettata) di quando si trovava a mille piedi sotto terra, senza alcun modo per essere recuperata. Nella vostra cantina rappresenta ricchezza; possederla significa disporre di un valore equivalente a 30 scellini, che potreste scambiare con altre cose, come il grano. Ma la ricchezza che in questo modo possedete non è il carbone stesso, bensì i valori associati ad esso. Questi valori economici vengono accumulati fin dall’inizio del processo di produzione, fino al momento in cui ha inizio il processo di consumo.
 
 Ecco un altro esempio che mostra come il processo di produzione possa aggiungere valore a qualcosa senza necessariamente modificare quella cosa stessa.
 
@@ -852,7 +852,7 @@ distribution and use of wealth.
 
 Some people are so shocked by the fact that economic law is different
 from moral law that they try to deny economic law. Others are so
-annoyed by this lack of logic that they fall into the other error of
+annoyed by this lack of [[logic]] that they fall into the other error of
 thinking that economic law can override moral law.
 
 You have to be warned against both these errors before you begin to
@@ -946,7 +946,7 @@ poor rate, or something of that kind; but the standard is not abandoned.
 in the Wealth produced. The prosperous man, tilling his own land and
 possessed of his own capital, consumes, of course, much more than the
 bare standard of subsistence would allow. He eats more food and better
-food, and has more and better clothes and house room and fuel and the
+food, and has more and better clothes and [[house]] room and fuel and the
 rest than the mere standard of subsistence of his civilisation demands.
 Nevertheless, even in his case the standard of subsistence is there. It
 is a minimum below which, if things went wrong, he would not fall. Ask
@@ -961,7 +961,7 @@ Le tre parti della ricchezza prodotta
 
 Ora passiamo a quella parte dell’[[concepts/economics|Economia]] che ha l’effetto più significativo sulla società umana, e la cui comprensione è essenziale per una politica saggia. Non si tratta di un concetto difficile da comprendere; l’unica difficoltà consiste nel mantenere chiara nella propria mente la distinzione tra ciò che viene definito “legge economica”, ovvero i risultati inevitabili della produzione di ricchezza, e la “legge morale”, cioè le questioni legate al giusto e allo sbagliato nella distribuzione e nell’uso della ricchezza.
 
-Alcune persone sono così scioccate dal fatto che il diritto economico sia diverso dal diritto morale che cercano di negare l’esistenza del diritto economico stesso. Altre, invece, sono così infastidite da questa mancanza di logica che commettono l’errore opposto, ritenendo che il diritto economico possa sovrascrivere il diritto morale.
+Alcune persone sono così scioccate dal fatto che il diritto economico sia diverso dal diritto morale che cercano di negare l’esistenza del diritto economico stesso. Altre, invece, sono così infastidite da questa mancanza di [[logic|logica]] che commettono l’errore opposto, ritenendo che il diritto economico possa sovrascrivere il diritto morale.
 
 È necessario essere avvertiti riguardo a entrambi questi errori prima di iniziare ad affrontare il tema del reddito, del profitto e della sussistenza. Solo quando avremo chiarito i principi fondamentali di queste tre cose potremo tornare a discutere del presunto conflitto tra legge economica e legge morale, la comprensione dei quali è estremamente importante oggi in [[settings/england|Inghilterra]].
 
@@ -1223,7 +1223,7 @@ down.
 (Of course, we must be careful to distinguish between the case of
 a private man increasing his investments and the general increase
 of capital as applied to an unchanging area of natural forces. John
-Smith having £1,000 invested at 5 per cent. can save another £1,000
+[[smith|Smith]] having £1,000 invested at 5 per cent. can save another £1,000
 and another and many more, and still get 5 per cent. But that is
 because he is saving and makes up for others wasting, or because
 his saving is so small a proportion of the total Capital of Society
@@ -1271,7 +1271,7 @@ Se il Despota dicesse: “Quest’anno dovete rinunciare a metà del vostro soli
 
 Quindi, in sostanza: nel processo di produzione sono sempre presenti due agenti, il Capitale e il Lavoro, e ciascuno di questi deve, in un modo o nell’altro, avere il proprio “valore intrinseco”; altrimenti il processo non potrà proseguire. È necessario garantire sia il “valore intrinseco” del Lavoro che quello del Capitale. Se ciò non avviene, il lavoro cesserà e il capitale smetterà di accumularsi, con la conseguente interruzione dell’intero processo produttivo.
 
-(Certamente, dobbiamo fare attenzione a distinguere il caso di un privato che aumenta i propri investimenti da quello di un aumento generale del capitale applicato a un ambito naturale invariabile. Se John Smith possiede 1.000 sterline investite con un tasso dello 5%, può risparmiare altre 1.000 sterline, e ancora di più, senza che questo influisca significativamente sul rendimento. Questo perché i suoi risparmi compensano le spese altrui, o perché la sua quota di capitale totale della società è così piccola da non avere effetti rilevanti. Tuttavia, se il capitale totale della società dovesse aumentare in questo modo, alla fine entrerebbe in gioco la legge dei rendimenti decrescenti.)
+(Certamente, dobbiamo fare attenzione a distinguere il caso di un privato che aumenta i propri investimenti da quello di un aumento generale del capitale applicato a un ambito naturale invariabile. Se John [[smith|Smith]] possiede 1.000 sterline investite con un tasso dello 5%, può risparmiare altre 1.000 sterline, e ancora di più, senza che questo influisca significativamente sul rendimento. Questo perché i suoi risparmi compensano le spese altrui, o perché la sua quota di capitale totale della società è così piccola da non avere effetti rilevanti. Tuttavia, se il capitale totale della società dovesse aumentare in questo modo, alla fine entrerebbe in gioco la legge dei rendimenti decrescenti.)
 
 3. Affitto.
 
@@ -1299,7 +1299,7 @@ division in Wealth, which is called RENT.
 _Rent is the surplus over and above the minimum required by labour and
 capital out of the total produce._ (We must be careful, as we saw in
 the case of “Interest” not to confuse true economic Rent with “Rent”
-in the conversational sense. Thus what is called “the rent” of a house
+in the conversational sense. Thus what is called “the rent” of a [[house]]
 is part of it true economic rent, but part of it interest on the
 accumulated or saved wealth, the Capital of its bricks and mortar and
 building.)
@@ -1407,7 +1407,7 @@ economic science can tell us is how to distinguish between the three
 divisions, and to remember that they are inevitable and necessary.
 But we must wait until a little later on to discuss social rights and
 wrongs under Applied [[concepts/economics|Economics]] and continue here for the present to
-confine ourselves to the Elements of economic law alone.
+confine ourselves to the Elements of economic law [[Alone|alone]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1416,7 +1416,7 @@ Quando le condizioni sono tali che il capitale e il lavoro impiegati in esse ott
 
 Ora, l’esistenza di questo “Margine di Produzione” determina la terza divisione della ricchezza, che viene chiamata “Affitto”.
 
-_L’affitto rappresenta il surplus che si ottiene al di sopra del minimo necessario per il lavoro e il capitale, rispetto alla produzione totale._ (Dobbiamo fare attenzione, come abbiamo visto nel caso dell’“interesse”, a non confondere l’affitto economico vero e proprio con il significato colloquiale di “affitto”. Quindi ciò che viene chiamato “l’affitto” di una casa è in parte un affitto economico vero, ma in parte anche un interesse sul patrimonio accumulato o risparmiato, cioè sul capitale costituito dai mattoni, dal cemento e dall’edificio stesso.)
+_L’affitto rappresenta il surplus che si ottiene al di sopra del minimo necessario per il lavoro e il capitale, rispetto alla produzione totale._ (Dobbiamo fare attenzione, come abbiamo visto nel caso dell’“interesse”, a non confondere l’affitto economico vero e proprio con il significato colloquiale di “affitto”. Quindi ciò che viene chiamato “l’affitto” di una [[house|casa]] è in parte un affitto economico vero, ma in parte anche un interesse sul patrimonio accumulato o risparmiato, cioè sul capitale costituito dai mattoni, dal cemento e dall’edificio stesso.)
 
 Prendiamo il caso di una vena di carbone: all’estremità della sua estensione emerge in superficie; dopo alcune [[characters/miles|miglia]] si trova soltanto a 1.000 piedi sotto la superficie, ma poi scende gradualmente fino a raggiungere, entro venti [[characters/miles|miglia]], una profondità di 10.000 piedi.
 
@@ -1559,7 +1559,7 @@ two different communities.=
 It is not very easy to understand the meaning of this until one is
 given an example. Supposing a ton of coal from [[settings/england|England]] to be worth £2
 by the [[motifs/time|time]] it is delivered in Cadiz, and supposing that making a dozen
-bottles of wine in [[settings/england|England]], with all the apparatus of hot-house grapes
+bottles of wine in [[settings/england|England]], with all the apparatus of hot-[[house]] grapes
 and the rest of it, came to £5 of expense. Supposing that in Cadiz,
 from the small coal mines near by, they can produce coal at only £1 a
 ton, but on account of their climate they can produce a dozen of wine
@@ -2033,7 +2033,7 @@ When gold and silver become the money of mankind it is important to
 be able to tell at once the exact amounts you are dealing with. This,
 under simple conditions, is done by weighing; but it is more convenient
 to stamp on separate bits of metal what weight there is in each, and
-that is called “coining the metal.” All that a Government does when it
+that is called “coining the metal.” All that a [[government|Government]] does when it
 makes a sovereign is to guarantee that there is so much weight of gold
 in the round disc of metal which it stamps.
 
@@ -2057,8 +2057,8 @@ but it is easy to remember the exchange values against one standard
 commodity, such as gold. And whatever the exchange value is in gold we
 call the price of the article.
 
-For instance, when you say that a house is worth £500, that that is the
-“price” of the house, you mean that the amount of gold you would
+For instance, when you say that a [[house]] is worth £500, that that is the
+“price” of the [[house]], you mean that the amount of gold you would
 have to exchange to get it is about Ten Pounds weight of the metal.
 And when you say that the price of a ticket to [[settings/edinburgh|Edinburgh]] is £4, you
 mean that the service of taking you to [[settings/edinburgh|Edinburgh]] in the train will be
@@ -2149,13 +2149,13 @@ money might warrant.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Quando l’oro e l’argento diventano la moneta dell’umanità, è importante essere in grado di determinare immediatamente le quantità esatte con cui si sta operando. In condizioni semplici, ciò avviene pesando; tuttavia è più pratico incidere sulla superficie dei singoli pezzi di metallo il loro peso esatto, e questo processo viene definito “coniazione del metallo”. Quello che un Governo fa quando emette una moneta sovrana è semplicemente garantire che nel disco di metallo stampato vi sia esattamente quella quantità d’oro.
+Quando l’oro e l’argento diventano la moneta dell’umanità, è importante essere in grado di determinare immediatamente le quantità esatte con cui si sta operando. In condizioni semplici, ciò avviene pesando; tuttavia è più pratico incidere sulla superficie dei singoli pezzi di metallo il loro peso esatto, e questo processo viene definito “coniazione del metallo”. Quello che un [[government|Governo]] fa quando emette una moneta sovrana è semplicemente garantire che nel disco di metallo stampato vi sia esattamente quella quantità d’oro.
 
 Il denaro non svolge soltanto questa funzione principale di mezzo di scambio, ovvero quella di rendere possibili un gran numero di transazioni complesse; possiede anche un grande valore sociale in quanto unità di misura o standard. Appena il denaro viene introdotto nell’uso quotidiano, le persone iniziano a considerare i valori economici delle cose in termini di denaro: in altre parole, attraverso ciò che chiamiamo “prezzi”.
 
 Tutte le cose che gli uomini producono presentano continui fluttuamenti di valore nel corso del tempo: a volte c’è un’eccedenza di un certo prodotto, altre volte una sua carenza. In un determinato momento, un sacco di orzo può essere scambiato esattamente con un sacco di grano; poche settimane dopo, però, lo stesso sacco di orzo potrebbe valere meno di un sacco di grano. Allo stesso modo, ciò che in passato poteva essere scambiato con un agnello, alcuni mesi dopo potrebbe richiedere addirittura due sacchi di orzo. Lo stesso vale per centinaia e migliaia di altri oggetti. Quando disponiamo di denaro, l’intera complessità delle transazioni viene regolata da questo mezzo di scambio attuale, il quale possiede un enorme valore sociale: nessuno potrebbe ricordare tutti i continui cambiamenti nei valori di scambio tra i vari prodotti, ma è molto più facile memorizzare tali valori in relazione a una merce di riferimento, come l’oro. Il valore di scambio espresso in oro viene definito il prezzo del prodotto stesso.
 
-Ad esempio, quando dici che una >casa vale 500 sterline, intendi che quella è la “prezzo” di quella casa; cioè che l’importo in oro necessario per acquistarla equivale a circa dieci libbre di questo metallo. E quando dici che il prezzo del biglietto per [[settings/edinburgh|Edimburgo]] è di 4 sterline, intendi che il servizio offerto dal treno per portarti a [[settings/edinburgh|Edimburgo]] può essere considerato equivalente a circa un’oncia d’oro.
+Ad esempio, quando dici che una [[house|>casa]] vale 500 sterline, intendi che quella è la “prezzo” di quella casa; cioè che l’importo in oro necessario per acquistarla equivale a circa dieci libbre di questo metallo. E quando dici che il prezzo del biglietto per [[settings/edinburgh|Edimburgo]] è di 4 sterline, intendi che il servizio offerto dal treno per portarti a [[settings/edinburgh|Edimburgo]] può essere considerato equivalente a circa un’oncia d’oro.
 
 *       *       *       *       *
 
@@ -2209,8 +2209,8 @@ money was a method of immensely increasing Efficiency in Circulation.
 
 This is how it worked.
 
-A Bank or a Government (but especially the Bank of [[settings/england|England]], with the
-guarantee of the Government) would print pieces of paper with the
+A Bank or a [[government|Government]] (but especially the Bank of [[settings/england|England]], with the
+guarantee of the [[government|Government]]) would print pieces of paper with the
 words: “I promise to pay to the bearer of this Five Pounds.” Anyone
 who took one of these pieces of paper to the Bank of [[settings/england|England]] could get
 Five Golden Sovereigns. But since this was publicly known, people were
@@ -2246,16 +2246,16 @@ went [[motifs/well|well]]._
 
 Unfortunately, Governments are under a great [[concepts/temptation|temptation]], when they
 have exceptionally heavy expenses, to falsify the Currency. People get
-so much in the habit of trusting the Government stamp on paper or metal
-that they take it as part of [[concepts/nature|nature]]. What the Government is really
+so much in the habit of trusting the [[government|Government]] stamp on paper or metal
+that they take it as part of [[concepts/nature|nature]]. What the [[government|Government]] is really
 doing when it coins a sovereign is giving a guarantee that this little
 disc of yellow metal contains 123 grains of gold with a certain known
-(and small) amount of alloy to make the gold hard. When the Government
+(and small) amount of alloy to make the gold hard. When the [[government|Government]]
 has to pay a large amount in wages, or for its Army and Navy, or what
 not, it is tempted to put in less gold and more alloy and keep the old
 stamp unchanged, and that is called “Debasing the Currency.”
 
-For instance, the Government wants a hundred tons of wheat to feed
+For instance, the [[government|Government]] wants a hundred tons of wheat to feed
 soldiers with, and the price of wheat in gold at that moment is Ten
 Sovereigns a ton. It says to a merchant, “If you will give me a
 hundred tons of wheat, I will give you a thousand sovereigns.” But
@@ -2268,7 +2268,7 @@ Only when these bad sovereigns get into circulation they naturally
 find their level in gold; for people begin to test them, and find
 that they have not got as much gold in them as they pretend to have.
 Then, of course, prices as measured in this new base coin rise. If the
-Government wants to buy another hundred tons of wheat it must offer
+[[government|Government]] wants to buy another hundred tons of wheat it must offer
 more than a thousand of the base coins; it must offer, say, thirteen
 hundred of them. But again it is tempted to put even less gold into
 the coins with which it pays for the second lot of wheat, and so the
@@ -2285,21 +2285,21 @@ money.
 Before the war, if you got a Five Pound note saying “I promise to pay
 Five Pounds” the promise was kept and the five golden sovereigns were
 there for you whenever you went with your note to the bank and asked
-for them; but when the Government had these very heavy expenses to
+for them; but when the [[government|Government]] had these very heavy expenses to
 meet on account of the war, they first began making difficulties about
 paying when people brought their paper to the bank, and at last stopped
 paying altogether. At the same [[motifs/time|time]], they did everything they could to
 get the gold out of private people’s hands and to make them use paper
 money instead. The consequence was that, people being so accustomed
-to think of a paper guarantee of the Government exactly as though it
+to think of a paper guarantee of the [[government|Government]] exactly as though it
 were real money, readily took to the new notes and used them as money,
 thinking of these wretched bits of paper exactly as though they were
-so many golden sovereigns. The Government could go on printing as many
+so many golden sovereigns. The [[government|Government]] could go on printing as many
 bits of paper as it liked, and they would still be used as though they
 were real money. So long as the amount of paper printed was not more
 than would have been printed when the notes were redeemable, and when
 the currency was on a true “Gold Basis,” no harm was done; but of
-course it paid the Government to go on printing a great many more notes
+course it paid the [[government|Government]] to go on printing a great many more notes
 than that, because, when it could make money thus cheaply, it could pay
 for anything, however great the expense; but at the cost, of course, of
 debasing the currency more and more.
@@ -2315,7 +2315,7 @@ Ora, con l'inizio dell'industria moderna, circa centocinquanta anni fa, un numer
 
 Ecco come funzionava.
 
-Una banca o un Governo (ma soprattutto la Banca di [[settings/england|Inghilterra]], con la garanzia del Governo) stampava fogli di carta su cui era scritto: “Prometto di pagare a chiunque presenti questo biglietto da cinque sterline”. Chiunque portasse uno di questi biglietti alla Banca di [[settings/england|Inghilterra]] poteva ottenere cinque sovrani d’oro. Ma poiché questa informazione era di dominio pubblico, le persone preferivano tenersi i biglietti piuttosto che i sovrani in oro.
+Una banca o un [[government|Governo]] (ma soprattutto la Banca di [[settings/england|Inghilterra]], con la garanzia del [[government|Governo]]) stampava fogli di carta su cui era scritto: “Prometto di pagare a chiunque presenti questo biglietto da cinque sterline”. Chiunque portasse uno di questi biglietti alla Banca di [[settings/england|Inghilterra]] poteva ottenere cinque sovrani d’oro. Ma poiché questa informazione era di dominio pubblico, le persone preferivano tenersi i biglietti piuttosto che i sovrani in oro.
 
 Se vendevi a qualcuno un [[motifs/horse|cavallo]] per cinquanta sterline, eri altrettanto disposto ad accettare dieci banconote da cinque sterline al posto di cinquanta sovrani. Queste ultime erano più pratiche da portare con sé, e sapevi che, se mai avessi voluto il oro effettivo, avresti potuto semplicemente andare in banca a ritirarlo.
 
@@ -2327,11 +2327,11 @@ Finché ogni nota veniva riscossa in oro ogni volta che veniva portata in banca,
 
 Purtroppo, i governi sono esposti a una grande [[concepts/temptation|tentazione]] quando hanno spese eccezionalmente elevate: falsificare la moneta. Le persone ormai si sono abituate a fidarsi della marca del governo su carta o metallo, al punto di considerarla parte della [[concepts/nature|>natura]] stessa delle cose. Quando un governo conia una moneta, in realtà sta dando garanzie sul fatto che quel piccolo disco di metallo giallo contenga 123 grani d’oro, oltre a una quantità determinata (e ridotta) di leghe metalliche per rendere l’oro più resistente. Tuttavia, quando un governo deve pagare somme ingenti in salari, per il proprio esercito o la propria marina, ecc., è tentato di utilizzare meno oro e più leghe, mantenendo intatta la vecchia marca della moneta; questo fenomeno viene definito “svalutazione della valuta”.
 
-Ad esempio, il Governo desidera acquistare cento tonnellate di grano per nutrire i soldati; al momento, il prezzo del grano in termini d’oro è di Dieci Sovrani a tonnellata. Il Governo dice quindi a un mercante: “Se mi fornisci cento tonnellate di grano, ti darò mille Sovrani”. Tuttavia, quando arriva il momento di pagare, invece di utilizzare monete da mille Sovrani ciascuna contenenti 123 grani d’oro, si utilizzano monete di qualità inferiore, contenenti soltanto cento o meno grani d’oro ciascuna. Si tratta di una forma semplice e sempre efficace di truffa: il mercante infatti pensa che le monete siano autentiche. Solo quando queste monete di scarsa qualità entrano in circolazione, la loro reale valore in oro viene rivelato; le persone iniziano a verificarle e scoprono che non contengono quanto oro dichiarato. Di conseguenza, i prezzi, calcolati in base a queste nuove monete, aumentano. Se il Governo desidera acquistare altre cento tonnellate di grano, deve offrire più di mille di queste monete di scarsa qualità; forse addirittura tredicimila. Ma di nuovo viene tentato di inserire ancora meno oro nelle monete utilizzate per il pagamento, rendendole sempre di peggiore qualità. Fino a quando, alla fine, una moneta da un Sovrano potrebbe non valere nemmeno la metà di quanto pretende di valere. I governi del passato hanno ripetuto questo comportamento più e più volte; ma è stato soltanto nel nostro [[motifs/time|tempo]] che si è verificata la forma più grave di svalutazione della moneta.
+Ad esempio, il [[government|Governo]] desidera acquistare cento tonnellate di grano per nutrire i soldati; al momento, il prezzo del grano in termini d’oro è di Dieci Sovrani a tonnellata. Il Governo dice quindi a un mercante: “Se mi fornisci cento tonnellate di grano, ti darò mille Sovrani”. Tuttavia, quando arriva il momento di pagare, invece di utilizzare monete da mille Sovrani ciascuna contenenti 123 grani d’oro, si utilizzano monete di qualità inferiore, contenenti soltanto cento o meno grani d’oro ciascuna. Si tratta di una forma semplice e sempre efficace di truffa: il mercante infatti pensa che le monete siano autentiche. Solo quando queste monete di scarsa qualità entrano in circolazione, la loro reale valore in oro viene rivelato; le persone iniziano a verificarle e scoprono che non contengono quanto oro dichiarato. Di conseguenza, i prezzi, calcolati in base a queste nuove monete, aumentano. Se il [[government|Governo]] desidera acquistare altre cento tonnellate di grano, deve offrire più di mille di queste monete di scarsa qualità; forse addirittura tredicimila. Ma di nuovo viene tentato di inserire ancora meno oro nelle monete utilizzate per il pagamento, rendendole sempre di peggiore qualità. Fino a quando, alla fine, una moneta da un Sovrano potrebbe non valere nemmeno la metà di quanto pretende di valere. I governi del passato hanno ripetuto questo comportamento più e più volte; ma è stato soltanto nel nostro [[motifs/time|tempo]] che si è verificata la forma più grave di svalutazione della moneta.
 
 Nacque come conseguenza della Grande Guerra, e oggi tutti ne stiamo [[concepts/suffering|soffrendo]]. Questa ultima e peggiore forma di svalutazione delle monete funzionava non attraverso truffe legate al metallo, ma attraverso un inganno che riguardava il denaro cartaceo.
 
-Prima della guerra, se si aveva una banconota da cinque sterline su cui era scritto “Prometto di pagare cinque sterline”, quella promessa veniva mantenuta e le cinque monete d’oro erano effettivamente disponibili ogni volta che si presentava in banca con la banconota per richiederle; ma quando il Governo dovette affrontare spese enormi a causa della guerra, iniziò prima ad creare difficoltà nel pagamento e, alla fine, smise del tutto di rimborsare. Nello stesso tempo, fece di tutto per sottrarre l’oro dalle mani dei privati e convincerli ad utilizzare invece denaro cartaceo. Di conseguenza, poiché le persone erano abituate a considerare la garanzia scritta sulle banconote del Governo come se fosse effettivamente denaro reale, accettarono facilmente le nuove banconote e le usarono come moneta normale, pensando che quei miseri pezzi di carta avessero lo stesso valore delle monete d’oro. Il Governo poteva quindi stampare quante banconote voleva, e queste venivano comunque accettate come se fossero denaro reale. Finché la quantità di carta stampata non superava quella che sarebbe stata necessaria se le banconote fossero state rimborsabili e finché la valuta si basava su un vero “sistema aureo”, non ci furono danni; ma ovviamente, per il Governo era vantaggioso stampare molte più banconote del necessario, perché in questo modo poteva spendere qualsiasi somma senza problemi, a scapito, naturalmente, della degradazione continua della valuta.
+Prima della guerra, se si aveva una banconota da cinque sterline su cui era scritto “Prometto di pagare cinque sterline”, quella promessa veniva mantenuta e le cinque monete d’oro erano effettivamente disponibili ogni volta che si presentava in banca con la banconota per richiederle; ma quando il [[government|Governo]] dovette affrontare spese enormi a causa della guerra, iniziò prima ad creare difficoltà nel pagamento e, alla fine, smise del tutto di rimborsare. Nello stesso tempo, fece di tutto per sottrarre l’oro dalle mani dei privati e convincerli ad utilizzare invece denaro cartaceo. Di conseguenza, poiché le persone erano abituate a considerare la garanzia scritta sulle banconote del [[government|Governo]] come se fosse effettivamente denaro reale, accettarono facilmente le nuove banconote e le usarono come moneta normale, pensando che quei miseri pezzi di carta avessero lo stesso valore delle monete d’oro. Il [[government|Governo]] poteva quindi stampare quante banconote voleva, e queste venivano comunque accettate come se fossero denaro reale. Finché la quantità di carta stampata non superava quella che sarebbe stata necessaria se le banconote fossero state rimborsabili e finché la valuta si basava su un vero “sistema aureo”, non ci furono danni; ma ovviamente, per il [[government|Governo]] era vantaggioso stampare molte più banconote del necessario, perché in questo modo poteva spendere qualsiasi somma senza problemi, a scapito, naturalmente, della degradazione continua della valuta.
 
 
 
@@ -2371,7 +2371,7 @@ years, is the first point we have touched on so far where a problem in
 [[concepts/economics|Economics]] and the study of economic law brings one up against questions
 of right and wrong.
 
-It is morally wrong for the Government to swindle people out of their
+It is morally wrong for the [[government|Government]] to swindle people out of their
 property by making false money. What is the way out, allowing for
 Economic Law? It is morally wrong that some men should starve while
 other men have too much: allowing for Economic Law, what is the way out
@@ -2412,7 +2412,7 @@ Questo è uno dei peggiori effetti derivanti dalla guerra: poiché i soldi attua
 
 Questo tipo di truffe, che è stato caratteristico degli ultimi cinque anni, rappresenta il primo aspetto su cui abbiamo discusso finora: in questo caso, un problema legato all’[[concepts/economics|Economia]] e allo studio del diritto economico porta inevitabilmente a riflettere su questioni di giusto e sbagliato.
 
-È moralmente sbagliato che il Governo inganni le persone privandole delle loro proprietà attraverso la creazione di denaro falso. Qual è la soluzione, anche tenendo conto del Diritto Economico? È moralmente sbagliato che alcune persone muoiano di fame mentre altre ne hanno in eccesso: considerando il Diritto Economico, qual è il modo per eliminare tali ingiustizie?
+È moralmente sbagliato che il [[government|Governo]] inganni le persone privandole delle loro proprietà attraverso la creazione di denaro falso. Qual è la soluzione, anche tenendo conto del Diritto Economico? È moralmente sbagliato che alcune persone muoiano di fame mentre altre ne hanno in eccesso: considerando il Diritto Economico, qual è il modo per eliminare tali ingiustizie?
 
 Man mano che si approfondisce lo studio dell’[[concepts/economics|Economia]], ci si imbatte in molte situazioni in cui bisogna decidere se le leggi economiche rendano possibili azioni politiche che si desidererebbe molto intraprendere e che sembrano giuste e appropriate. Tuttavia, molte di queste azioni non possono essere realizzate, perché lo studio dell’[[concepts/economics|Economia]] ci ha mostrato che le conseguenze sarebbero molto diverse da quelle che speravamo.
 
@@ -2966,7 +2966,7 @@ he would have the right by law to punish them if they did not.
 If you were in a Capitalist State (as we are in [[settings/england|England]]) the men you
 would see working would, as a rule, be earning what are called “wages,”
 that is, an allowance (actually of money but immediately translated
-into food and clothes and house-room and the rest), which allowance
+into food and clothes and [[house]]-room and the rest), which allowance
 would be paid to them at fairly short intervals, and without which
 they could not live. The ploughs and horses with which they would be
 working, the seed they would be sowing, the houses they lived in would
@@ -2989,7 +2989,7 @@ it. He would be a free man working for his own advantage and for nobody
 else’s. He would also have a share in the factories of the country
 and be a part owner in the local dairies, sharing the profit of those
 dairies where the milk of many farms is gathered together, turned into
-butter and cheese, and sold.
+butter and [[cheese]], and sold.
 
 This is what we mean by the three types of State. In each you would
 find many exceptions, but each has its determining number--of slaves
@@ -3147,7 +3147,7 @@ in the leisure of the owning classes, with all the good fruits of
 leisure in taste, literary and artistic. It was a society based on
 [[concepts/slavery|slavery]] which produced what is perhaps the best fruit of leisure, and
 that is the profound and fruitful thinking out of the great human
-problems. All the great philosophy and art of the ancients was worked
+problems. All the great [[philosophy]] and art of the ancients was worked
 out by the free owners in the slave-owning states, and so was the best
 literature ever made.
 
@@ -3197,8 +3197,8 @@ owners.
 
 The Capitalist State is a recent phenomenon compared with the great
 length of known recorded [[concepts/history|history]]. It is a modern phenomenon produced by
-our white race alone, by no means covering the whole of that race, nor
-the most of it, but of great interest to us in [[settings/england|England]] because we alone
+our white race [[Alone|alone]], by no means covering the whole of that race, nor
+the most of it, but of great interest to us in [[settings/england|England]] because we [[Alone|alone]]
 are, of all nations, an almost purely capitalist society.
 
 Here again we can tabulate the advantages and disadvantages.
@@ -3717,7 +3717,7 @@ hundred years ago and the scheme which he and those around him started
 was this:--
 
 The Officers of the State were to own all the Means of
-Production--machinery and land and stores of food, etc.--and they alone
+Production--machinery and land and stores of food, etc.--and they [[Alone|alone]]
 should be allowed to own it. Individuals and families and corporations
 might consume that portion of produced wealth allotted them by the
 State after it had been produced, _but they might not use it for making
@@ -3861,7 +3861,7 @@ It is no reply to this to say that the State always has owned, and
 actually can and does own, some part of the means of Production (such
 as the Post Office and certain forests and lands here in [[settings/england|England]], and,
 abroad, most mountain land, all mines and much else) and direct them
-with success. The point of [[concepts/socialism|Socialism]]--the one condition necessary
+with [[success]]. The point of [[concepts/socialism|Socialism]]--the one condition necessary
 to its existence--is that the State should own all the means of
 Production that really count. Between the normal exercise of a partial
 function and the abnormal exercise of a universal function is all
@@ -3920,7 +3920,7 @@ La seconda forza che si oppone all’instaurazione del [[concepts/socialism|Soci
 
 Ecco perché, penso, il [[concepts/socialism|socialismo]] non è mai stato messo in pratica e non potrà mai esserlo. Ci sono stati tentativi in questo senso, ma anche quando questi erano sinceri e non semplicemente il prodotto di un dispotismo estraneo, fallivano comunque. Come oggi in [[settings/russia|Russia]], dove, che gli avventurieri ebrei che presero il potere fossero sinceri o semplici tiranni, sono stati costretti, nonostante i loro tentativi di impossessarsi di tutta la terra e mantenere i contadini in condizioni di dipendenza da loro, a permettere alla quasi totalità della popolazione di vivere come proprietari che coltivano la propria terra.
 
-Non è una risposta adeguata affermare che lo Stato abbia sempre posseduto, e in effetti possa e possiede, una parte dei mezzi di produzione (come la Posta, alcune foreste e terreni in [[settings/england|Inghilterra]], e all’estero la maggior parte delle terre montane, tutte le miniere e molto altro ancora), e che li gestisca con successo. Il punto fondamentale del [[concepts/socialism|Socialismo]] – l’unica condizione necessaria alla sua esistenza – è che lo Stato debba possedere tutti i mezzi di produzione che hanno davvero rilevanza. La differenza tra un’esercitazione normale di una funzione parziale e un’esercitazione anomala di una funzione universale è proprio quella tra “plus” e “minus”. Una forma di proprietà statale parziale, in una società la cui caratteristica principale sia la proprietà privata, rappresenta qualcosa di completamente diverso, persino l’opposto di una proprietà statale generale che determini il carattere della società e permetta soltanto una proprietà privata eccezionale. Il [[concepts/socialism|Socialismo]] può essere soltanto (a) positivo e (b) realizzabile quando gli uomini desiderano vivere in questo secondo tipo di società, e vi si sentono a loro agio; cioè quando desiderano e si sentono a loro agio nell’oblio totale di sé stessi, unito alla giustizia come principio guida nella gestione della società, e nel completo abbandono dell’onore personale, della libertà individuale e dei propri desideri egoistici.
+Non è una risposta adeguata affermare che lo Stato abbia sempre posseduto, e in effetti possa e possiede, una parte dei mezzi di produzione (come la Posta, alcune foreste e terreni in [[settings/england|Inghilterra]], e all’estero la maggior parte delle terre montane, tutte le miniere e molto altro ancora), e che li gestisca con [[success|successo]]. Il punto fondamentale del [[concepts/socialism|Socialismo]] – l’unica condizione necessaria alla sua esistenza – è che lo Stato debba possedere tutti i mezzi di produzione che hanno davvero rilevanza. La differenza tra un’esercitazione normale di una funzione parziale e un’esercitazione anomala di una funzione universale è proprio quella tra “plus” e “minus”. Una forma di proprietà statale parziale, in una società la cui caratteristica principale sia la proprietà privata, rappresenta qualcosa di completamente diverso, persino l’opposto di una proprietà statale generale che determini il carattere della società e permetta soltanto una proprietà privata eccezionale. Il [[concepts/socialism|Socialismo]] può essere soltanto (a) positivo e (b) realizzabile quando gli uomini desiderano vivere in questo secondo tipo di società, e vi si sentono a loro agio; cioè quando desiderano e si sentono a loro agio nell’oblio totale di sé stessi, unito alla giustizia come principio guida nella gestione della società, e nel completo abbandono dell’onore personale, della libertà individuale e dei propri desideri egoistici.
 
 
 
@@ -4598,7 +4598,7 @@ the total combined wealth of B and C, even if they pay foreign ships
 to bring the ore, is now greater than it used to be under the old
 Free Trade._ No. B has £15,000,000; No. C has £10,000,000--the total
 is £25,000,000. If they pay their own sailors to bring the ore it is
-£30,000,000. Under the old conditions the total of B and C alone was
+£30,000,000. Under the old conditions the total of B and C [[Alone|alone]] was
 only £19,000,000. [[settings/island|Island]] A is ruined and the total wealth of the whole
 system is less, but the Protectionists of the realm, which now only
 includes B and C, are quite indifferent to that. They are thinking of
@@ -4729,7 +4729,7 @@ moral basis upon which banking reposes.
 
 A man has £1,000 in gold. He has to travel or to go abroad on a war,
 or is not certain of the safety of so large a sum if it is kept in his
-house. He therefore gives it into the custody of a man whom he can
+[[house]]. He therefore gives it into the custody of a man whom he can
 trust, and who, on account of special circumstances, can keep it more
 securely than he himself can. What the owner of the £1,000 wants in
 the transaction is to be certain of getting a part or the whole of his
@@ -4823,7 +4823,7 @@ L’essenza della banca risiede in queste due idee combinate: (1) che una person
 
 La combinazione di queste due idee – che naturalmente sorgono nella mente di tutti – costituisce l’origine di tutta la attività bancaria, nonché la base morale su cui essa si fonda.
 
-Un uomo possiede 1.000 sterline in oro. Deve viaggiare o recarsi all’estero per motivi legati a una guerra, oppure non è certo della sicurezza di una somma così ingente se la lasciasse nella sua >casa. Pertanto, la affida a una persona di cui si fida, e che, a causa di circostanze particolari, sia in grado di custodirla in modo più sicuro di quanto possa farlo lui stesso. Quello che desidera il proprietario delle 1.000 sterline è essere certo di poter recuperare una parte o l’intera somma ogni volta che ne abbia bisogno; non gli interessano le singole monete. Finché può ottenere il valore della somma, o di una sua parte, in qualsiasi momento dalla persona a cui ha affidato i suoi soldi, è soddisfatto.
+Un uomo possiede 1.000 sterline in oro. Deve viaggiare o recarsi all’estero per motivi legati a una guerra, oppure non è certo della sicurezza di una somma così ingente se la lasciasse nella sua [[house|>casa]]. Pertanto, la affida a una persona di cui si fida, e che, a causa di circostanze particolari, sia in grado di custodirla in modo più sicuro di quanto possa farlo lui stesso. Quello che desidera il proprietario delle 1.000 sterline è essere certo di poter recuperare una parte o l’intera somma ogni volta che ne abbia bisogno; non gli interessano le singole monete. Finché può ottenere il valore della somma, o di una sua parte, in qualsiasi momento dalla persona a cui ha affidato i suoi soldi, è soddisfatto.
 
 Molte altre persone provano la stessa necessità. L’uomo che dispone di opportunità particolari per gestire tutti quei soldi li raccoglie insieme e li tiene al sicuro nella sua cassaforte. Coloro che agiscono in questo modo si arrabbierebbero molto se scoprissero che i loro soldi sono andati persi, o che, quando cercano di ritirare 20 o 100 sterline dai mille che hanno depositato – necessarie per un certo scopo immediato – la persona a cui hanno affidato il denaro non sia in grado di fornirgli quella somma. Tuttavia, finché il depositante si rende conto che, nella pratica, può sempre ritirare l’intero importo o parte di esso su richiesta, è soddisfatto, e non si infastidirà certo se scopre che la persona a cui ha affidato i soldi li ha utilizzati nel frattempo.
 
@@ -4895,7 +4895,7 @@ book of accounts with the bank showing exactly how much had been put
 in and therefore how much they could “draw” upon. At first the clients,
 or depositors, would “draw” some portion of their money which they
 might immediately need by way of a letter. Thus, if their banker’s name
-was Mr. Smith, they would write this note: “To Mr. Smith. Please pay my
+was Mr. [[smith|Smith]], they would write this note: “To Mr. [[smith|Smith]]. Please pay my
 servant who brings this letter £20 out of the £1,000 which I left with
 you the other day.” They would sign this letter and send the servant
 with it; the banker would give the £20 to the servant and the servant
@@ -4923,13 +4923,13 @@ other person whom I [[motifs/desire|desire]] to receive the money and whose name
 mentioned above, who will sign to show that his order for payment has
 been met.”
 
-For instance: I have £1,000 deposited with my banker, Mr. Smith. I
+For instance: I have £1,000 deposited with my banker, Mr. [[smith|Smith]]. I
 write a letter: “Pay £20 to John [[characters/jones|Jones]] or order.” This means: “Do
-not, dear Mr. Smith, send the money back to me, but give it to Mr.
+not, dear Mr. [[smith|Smith]], send the money back to me, but give it to Mr.
 [[characters/jones|Jones]] who will bring this letter with him, or, if he cannot come
 himself, will send a signed letter order that it should be paid
 to him.” At the beginning of the system, Mr. [[characters/jones|Jones]], to whom I gave
-the cheque, would write a little letter saying: “Dear Mr. Smith, Mr.
+the cheque, would write a little letter saying: “Dear Mr. [[smith|Smith]], Mr.
 So-and-So, who banks with you, has given me the accompanying letter by
 which I can get £20 of his by my order. I therefore send you this
 letter to tell you that whoever brings this cheque bears my order to
@@ -4962,13 +4962,13 @@ In [[settings/england|Inghilterra]] possiamo rintracciare le origini di molte ba
 
 Un altro esempio di cui conosco la [[concepts/history|storia]] e che è molto interessante riguarda un gentiluomo dell’Ovest dell’[[settings/england|>Inghilterra]] che visse meno di duecento anni fa e il cui nome è ancora oggi associato a una delle nostre grandi banche esistenti. Questo gentiluomo era un uomo ricco, che aveva molti amici che venivano a mangiare da lui. Era conosciuto per la sua buona capacità di giudizio e i suoi amici gli dicevano: “Lascio questa somma di denaro sotto la tua custodia”, perché sapevano che sarebbe stato in grado di utilizzarla al meglio e di restituir loro una parte dei profitti. Così, prendendosi cura del denaro dei propri vicini, finì per gestire il denaro di molte altre persone raccomandate dai suoi vicini stessi; alla fine ebbe centinaia di “clienti”, ovvero persone che gli affidavano i loro soldi, convinte che avrebbe ottenuto profitti sia per sé che per loro; inoltre, il denaro veniva custodito in modo sicuro e le persone potevano richiederne una parte ogni volta che ne avevano bisogno.
 
-Dai suoi primi origini, il sistema bancario si è gradualmente diffuso fino a quando, circa cento anni fa – o forse anche di più – ogni famiglia ricca di questo paese aveva un notevole importo di denaro depositato in banca; inoltre, versavano ulteriori somme nelle casse dei banchieri grazie ai guadagni ottenuti. Ogni cliente possedeva un libretto conto presso la banca, che indicava con precisione quanto denaro fosse stato depositato e quindi quanto potesse essere ritirato. All’inizio, i clienti inviavano una lettera al proprio banchiere per richiedere di prelevare una determinata somma di denaro che potessero aver bisogno immediatamente. Ad esempio, se il loro banchiere si chiamava il signor Smith, scrivevano questa lettera: “Al signor Smith. Per favore, paghi al mio servitore che porta questa lettera 20 sterline delle 1.000 che ho depositato presso di voi l’altro giorno.” Firmavano la lettera e la inviavano al banchiere; quest’ultimo consegnava le 20 sterline al servitore, il quale emetteva una ricevuta a titolo di conferma.
+Dai suoi primi origini, il sistema bancario si è gradualmente diffuso fino a quando, circa cento anni fa – o forse anche di più – ogni famiglia ricca di questo paese aveva un notevole importo di denaro depositato in banca; inoltre, versavano ulteriori somme nelle casse dei banchieri grazie ai guadagni ottenuti. Ogni cliente possedeva un libretto conto presso la banca, che indicava con precisione quanto denaro fosse stato depositato e quindi quanto potesse essere ritirato. All’inizio, i clienti inviavano una lettera al proprio banchiere per richiedere di prelevare una determinata somma di denaro che potessero aver bisogno immediatamente. Ad esempio, se il loro banchiere si chiamava il signor [[smith|Smith]], scrivevano questa lettera: “Al signor [[smith|Smith]]. Per favore, paghi al mio servitore che porta questa lettera 20 sterline delle 1.000 che ho depositato presso di voi l’altro giorno.” Firmavano la lettera e la inviavano al banchiere; quest’ultimo consegnava le 20 sterline al servitore, il quale emetteva una ricevuta a titolo di conferma.
 
 Quella fu l’origine di ciò che oggi viene chiamato “assegno”. La lettera che conferiva all’inviato l’autorità di ritirare il denaro divenne sempre più formale e veniva redatta sempre con gli stessi termini, al fine di evitare complicazioni. In seguito, i banchieri fecero stampare questi moduli, in modo che il cliente che volesse effettuare un prelievo incontrasse il minor numero possibile di difficoltà. Se osservate un assegno oggi, noterete che non è altro che quella vecchia lettera redatta nei termini più semplici possibili. In alto sull’assegno figura il nome della banca; poi c’è la dicitura “Pagare”, e dopo di questa il cliente indica l’importo da ritirare e firma per dimostrare che è effettivamente lui a essere titolare del denaro e a richiederlo. A volte, dopo la dicitura “Pagare” viene stampata anche la frase “o a portatore”, in modo che chiunque presenti l’assegno possa ritirare il denaro per conto del cliente.
 
 Ma per impedire alle persone di utilizzare questi fogli di carta per ottenere denaro senza averne il diritto, la parola “ordine” veniva spesso sostituita con la parola “portatore”; e questa parola “ordine” significa che il proprietario, che sta ritirando i suoi soldi, dice: “Non pagateli a me; pagateli a quest’altra persona che desidero ricevere i soldi e il cui nome ho menzionato sopra, la quale firmerà per dimostrare che il suo ordine di pagamento è stato eseguito.”
 
-Ad esempio: Ho depositato 1.000 sterline presso il mio banchiere, il signor Smith. Scrivo una lettera che dice: “Pagate 20 sterline a John [[characters/jones|Jones]] o inviate un ordine di pagamento.” Ciò significa: “Caro signor Smith, non rimandatemi i soldi, ma consegnateli al signor [[characters/jones|Jones]], che porterà con sé questa lettera; oppure, se lui stesso non può venire, invierà un ordine firmato affinché il denaro venga pagato a suo nome.” All’inizio di questo sistema, il signor [[characters/jones|Jones]], a cui ho consegnato il assegno, avrebbe scritto una breve lettera che diceva: “Caro signor Smith, il signor Tale, che ha un conto presso di voi, mi ha fornito questa lettera con la quale posso ritirare 20 sterline a suo nome. Pertanto vi invio questa lettera per informarvi che chiunque presenti questo assegno porterà con sé il mio ordine di pagamento.” Firmava poi la lettera come “John [[characters/jones|Jones]]” e il banchiere consegnava i soldi a chiunque presentasse tale lettera per conto di John [[characters/jones|Jones]].
+Ad esempio: Ho depositato 1.000 sterline presso il mio banchiere, il signor [[smith|Smith]]. Scrivo una lettera che dice: “Pagate 20 sterline a John [[characters/jones|Jones]] o inviate un ordine di pagamento.” Ciò significa: “Caro signor [[smith|Smith]], non rimandatemi i soldi, ma consegnateli al signor [[characters/jones|Jones]], che porterà con sé questa lettera; oppure, se lui stesso non può venire, invierà un ordine firmato affinché il denaro venga pagato a suo nome.” All’inizio di questo sistema, il signor [[characters/jones|Jones]], a cui ho consegnato il assegno, avrebbe scritto una breve lettera che diceva: “Caro signor [[smith|Smith]], il signor Tale, che ha un conto presso di voi, mi ha fornito questa lettera con la quale posso ritirare 20 sterline a suo nome. Pertanto vi invio questa lettera per informarvi che chiunque presenti questo assegno porterà con sé il mio ordine di pagamento.” Firmava poi la lettera come “John [[characters/jones|Jones]]” e il banchiere consegnava i soldi a chiunque presentasse tale lettera per conto di John [[characters/jones|Jones]].
 
 Nel corso del tempo, la procedura si è semplificata: al posto della lettera è stata utilizzata la forma abbreviata, il assegno; si scriveva semplicemente: “Pagare 20 sterline a John Jones o ordinare”. John Jones, invece di inviare una lettera firmata da lui stesso, si limitava ad apporre la sua firma sul retro dell’assegno. Questo atto veniva chiamato “endosso”, termine derivante dal latino e che in inglese significa “apporre il proprio nome sul retro di qualcosa”. Un assegno “endorso” con il nome di John Jones veniva pagato dalla banca a chiunque John Jones avesse indicato per ricevere il pagamento. Il mio assegno, che richiedeva il pagamento di 20 sterline a John Jones, una volta che aveva adempiuto al suo scopo – cioè dopo che le 20 sterline erano state pagate a chiunque John Jones avesse designato – veniva considerato “onorato” dalla banca. Il termine “onorato” indicava che la banca riconosceva che io avevo effettivamente depositato quel denaro presso di loro e che era obbligata a consegnarlo non appena vedeva la mia firma che ne richiedeva il pagamento.
 
@@ -4985,13 +4985,13 @@ endorse it and get the money.
 
 Now as banking grew and came to deal with more and more people, it was
 probable that this man, [[characters/jones|Jones]], would have a banking account too with
-somebody. If Mr. Smith was not his banker, then Mr. Brown would be.
+somebody. If Mr. [[smith|Smith]] was not his banker, then Mr. Brown would be.
 As we have seen, people not only drew out money from the original sum
 they had deposited at the bank, they also paid in money as they got
 it, on account of the convenience of having it looked after safely. So
 when John [[characters/jones|Jones]] got my cheque for £20, he often did not get the actual
-cash from my banker, Mr. Smith, but simply gave in the cheque, endorsed
-by him, to Mr. Brown, his banker, and said: “Get this from Mr. Smith,
+cash from my banker, Mr. [[smith|Smith]], but simply gave in the cheque, endorsed
+by him, to Mr. Brown, his banker, and said: “Get this from Mr. [[smith|Smith]],
 the other banker, and add it to the sum which I have banked with you,
 Mr. Brown.” The banker Brown did this, and the cheque which I had
 originally signed in favour of John [[characters/jones|Jones]], having gone the rounds, was
@@ -5006,29 +5006,29 @@ the bankers among themselves.
 After many years of this system it became apparent that the enormous
 transactions, thousands of cheques all crossing each other daily in
 hundreds of ways, could be simplified by the establishment of what came
-to be called the “Clearing House.”
+to be called the “Clearing [[house|House]].”
 
-Thus, suppose three bankers--Mr. Smith, Mr. Brown and [[characters/mr.-robinson|Mr. Robinson]].
-I bank with Mr. Smith, and sign a cheque in favour of Mr. [[characters/jones|Jones]] who
+Thus, suppose three bankers--Mr. [[smith|Smith]], Mr. Brown and [[characters/mr.-robinson|Mr. Robinson]].
+I bank with Mr. [[smith|Smith]], and sign a cheque in favour of Mr. [[characters/jones|Jones]] who
 banks with Mr. Brown, because I owe [[characters/jones|Jones]] a bill which I can thus pay.
 I also sign a cheque in favour of Mr. Harding (that is, to the order
 of Mr. Harding), to whom I also owe money. He banks with [[characters/mr.-robinson|Mr. Robinson]].
 Meanwhile Harding perhaps owes money to [[characters/jones|Jones]] and pays him a cheque
 ordering [[characters/mr.-robinson|Mr. Robinson]] (Harding’s banker) to pay [[characters/jones|Jones]] a sum of money.
 [[characters/jones|Jones]] hands this over to his banker, Mr. Brown. At the end of a certain
-[[motifs/time|time]]--say, a month--the three bankers, Smith, Brown and Robinson, get
+[[motifs/time|time]]--say, a month--the three bankers, [[smith|Smith]], Brown and Robinson, get
 together and compare the various cheques they have received. It is
 obvious that a great many will cancel out.
 
-For instance: I have given [[characters/jones|Jones]] a cheque for £20 which Mr. Smith, my
+For instance: I have given [[characters/jones|Jones]] a cheque for £20 which Mr. [[smith|Smith]], my
 banker, has to pay to Mr. Brown, [[characters/jones|Jones]]’s banker. But Mr. Brown has a
 cheque of Mr. Harding’s asking [[characters/mr.-robinson|Mr. Robinson]] to pay £20 to [[characters/jones|Jones]], and
 [[characters/jones|Jones]] has given that to Brown too. Meanwhile [[characters/jones|Jones]] has given me a
 cheque later on, for something which he owed me, of £10. The bankers
-compare notes and see that Smith need not pay £20 to Brown, and then
-ask Brown for £10. It is simpler to pay the difference only. Mr. Smith
+compare notes and see that [[smith|Smith]] need not pay £20 to Brown, and then
+ask Brown for £10. It is simpler to pay the difference only. Mr. [[smith|Smith]]
 hands to Mr. Brown what is called the “balance.” The difference between
-£10 and £20 is £10, and Brown hands over £10 to Smith. At the end of
+£10 and £20 is £10, and Brown hands over £10 to [[smith|Smith]]. At the end of
 another month perhaps it is Robinson, Harding’s banker, who finds that
 on comparing notes he has a balance against him of £10 to Brown: and so
 on.
@@ -5037,11 +5037,11 @@ When dozens of bankers came to be established with thousands of
 clients, or “depositors,” the convenience of this system was
 overwhelming. There would perhaps be in a week as many as 10,000
 cheques out, and instead of having to make 10,000 separate transactions
-of paying from Brown to Smith, Smith to Robinson, Robinson back to
+of paying from Brown to [[smith|Smith]], [[smith|Smith]] to Robinson, Robinson back to
 Brown, and so on, through dozens of bankers, the cheques were compared
 and only the balances were paid over--or, as the phrase goes, “cleared.”
 
-The Clearing House was the place where all the cheques of different
+The Clearing [[house|House]] was the place where all the cheques of different
 banks were put in at regular intervals and compared one with another,
 so as to see what balances remained over, owing by particular bankers
 to others.
@@ -5088,17 +5088,17 @@ and available for use in investment.
 
 La comodità degli assegni utilizzati in questo modo per gli affari era evidente. Se dovevo 20 sterline a qualcuno e avevo 1.000 sterline sul mio conto bancario, invece di dover ritirare personalmente venti sovrani e portarglieli, bastava semplicemente compilare un assegno a nome di quella persona, che lo avrebbe accettato e incassato il denaro.
 
-Man mano che il settore bancario si sviluppava e iniziava a servire un numero sempre maggiore di persone, era probabile che anche quest’uomo, [[characters/jones|Jones]], avesse un conto bancario presso qualcuno. Se il signor Smith non era il suo banchiere, allora lo sarebbe stato il signor Brown. Come abbiamo visto, le persone non solo ritiravano denaro dal importo iniziale depositato in banca, ma vi versavano anche altro denaro man mano che lo guadagnavano, grazie alla comodità di avere i propri fondi custoditi in modo sicuro. Quindi, quando John [[characters/jones|Jones]] riceveva il mio assegno da 20 sterline, spesso non ritirava il denaro contante dal mio banchiere, il signor Smith, ma semplicemente consegnava l’assegno, già endossato da lui, al signor Brown, il suo banchiere, dicendo: “Prendi questo dal signor Smith, l’altro banchiere, e aggiungilo all’importo che ho depositato presso di te, signor Brown”. Il banchiere Brown eseguiva questa richiesta, e l’assegno che avevo originariamente firmato a favore di John [[characters/jones|Jones]], dopo essere passato per varie mani, veniva restituito a me per dimostrare che la transazione era stata completata.
+Man mano che il settore bancario si sviluppava e iniziava a servire un numero sempre maggiore di persone, era probabile che anche quest’uomo, [[characters/jones|Jones]], avesse un conto bancario presso qualcuno. Se il signor [[smith|Smith]] non era il suo banchiere, allora lo sarebbe stato il signor Brown. Come abbiamo visto, le persone non solo ritiravano denaro dal importo iniziale depositato in banca, ma vi versavano anche altro denaro man mano che lo guadagnavano, grazie alla comodità di avere i propri fondi custoditi in modo sicuro. Quindi, quando John [[characters/jones|Jones]] riceveva il mio assegno da 20 sterline, spesso non ritirava il denaro contante dal mio banchiere, il signor [[smith|Smith]], ma semplicemente consegnava l’assegno, già endossato da lui, al signor Brown, il suo banchiere, dicendo: “Prendi questo dal signor [[smith|Smith]], l’altro banchiere, e aggiungilo all’importo che ho depositato presso di te, signor Brown”. Il banchiere Brown eseguiva questa richiesta, e l’assegno che avevo originariamente firmato a favore di John [[characters/jones|Jones]], dopo essere passato per varie mani, veniva restituito a me per dimostrare che la transazione era stata completata.
 
 Man mano che il settore bancario continuava a crescere, questo sistema si estendeva sempre di più. Migliaia e migliaia di persone pagavano e ricevevano denaro tramite assegni; solo una piccola parte di questi veniva convertita in contanti, mentre la maggior parte veniva depositata negli uffici bancari per essere poi regolata tra i banchieri stessi.
 
 Dopo molti anni di utilizzo di questo sistema, divenne evidente che le enormi quantità di transazioni, migliaia di assegni che ogni giorno si incrociavano in centinaia di modi diversi, potevano essere semplificate attraverso l’istituzione di ciò che venne poi chiamato “Casa di Clearing”.
 
-Supponiamo quindi tre banchieri: il signor Smith, il signor Brown e il signor [[characters/mr.-robinson|Robinson]]. Io faccio affari con il signor Smith e emetto un assegno a favore del signor [[characters/jones|Jones]], che a sua volta fa affari con il signor Brown; in questo modo posso saldare il debito che ho con il signor [[characters/jones|Jones]]. Emetto anche un altro assegno a favore del signor Harding, poiché gli devo dei soldi anch’io; lui fa affari con il signor [[characters/mr.-robinson|Robinson]]. Forse, nel frattempo, il signor Harding deve dei soldi al signor [[characters/jones|Jones]] e gli paga con un assegno che ordina al signor [[characters/mr.-robinson|Robinson]] (il banchiere di Harding) di versare quella somma al signor [[characters/jones|Jones]]. Il signor [[characters/jones|Jones]] consegna poi questo assegno al suo banchiere, il signor Brown. Dopo un certo periodo di tempo – diciamo un mese – i tre banchieri, il signor Smith, il signor Brown e il signor Robinson, si riuniscono per confrontare tutti gli assegni che hanno ricevuto; è evidente che molti di essi si annulleranno a vicenda.
+Supponiamo quindi tre banchieri: il signor [[smith|Smith]], il signor Brown e il signor [[characters/mr.-robinson|Robinson]]. Io faccio affari con il signor [[smith|Smith]] e emetto un assegno a favore del signor [[characters/jones|Jones]], che a sua volta fa affari con il signor Brown; in questo modo posso saldare il debito che ho con il signor [[characters/jones|Jones]]. Emetto anche un altro assegno a favore del signor Harding, poiché gli devo dei soldi anch’io; lui fa affari con il signor [[characters/mr.-robinson|Robinson]]. Forse, nel frattempo, il signor Harding deve dei soldi al signor [[characters/jones|Jones]] e gli paga con un assegno che ordina al signor [[characters/mr.-robinson|Robinson]] (il banchiere di Harding) di versare quella somma al signor [[characters/jones|Jones]]. Il signor [[characters/jones|Jones]] consegna poi questo assegno al suo banchiere, il signor Brown. Dopo un certo periodo di tempo – diciamo un mese – i tre banchieri, il signor [[smith|Smith]], il signor Brown e il signor Robinson, si riuniscono per confrontare tutti gli assegni che hanno ricevuto; è evidente che molti di essi si annulleranno a vicenda.
 
-Ad esempio: Ho dato a [[characters/jones|Jones]] un assegno da 20 sterline che il signor Smith, il mio banchiere, deve pagare al signor Brown, il banchiere di [[characters/jones|Jones]]. Ma il signor Brown possiede un assegno del signor Harding che chiede a [[characters/mr.-robinson|Mr. Robinson]] di pagare 20 sterline a [[characters/jones|Jones]], e anche [[characters/jones|Jones]] ha dato quell’assegno a Brown. Nel frattempo, [[characters/jones|Jones]] mi ha dato un assegno per 10 sterline, relativo a una somma che mi doveva. I banchieri confrontano le informazioni e si rendono conto che il signor Smith non deve pagare 20 sterline a Brown; quindi chiedono a Brown di restituire le 10 sterline in eccesso. È più semplice pagare soltanto la differenza. Il signor Smith consegna a Brown quella che viene definita la “differenza”. La differenza tra 20 e 10 sterline è infatti di 10 sterline, quindi Brown restituisce 10 sterline a Smith. Forse, dopo un altro mese, sarà il banchiere di Harding, Robinson, ad accorgersi che ha una differenza negativa di 10 sterline nei confronti di Brown. E così via.
+Ad esempio: Ho dato a [[characters/jones|Jones]] un assegno da 20 sterline che il signor [[smith|Smith]], il mio banchiere, deve pagare al signor Brown, il banchiere di [[characters/jones|Jones]]. Ma il signor Brown possiede un assegno del signor Harding che chiede a [[characters/mr.-robinson|Mr. Robinson]] di pagare 20 sterline a [[characters/jones|Jones]], e anche [[characters/jones|Jones]] ha dato quell’assegno a Brown. Nel frattempo, [[characters/jones|Jones]] mi ha dato un assegno per 10 sterline, relativo a una somma che mi doveva. I banchieri confrontano le informazioni e si rendono conto che il signor [[smith|Smith]] non deve pagare 20 sterline a Brown; quindi chiedono a Brown di restituire le 10 sterline in eccesso. È più semplice pagare soltanto la differenza. Il signor [[smith|Smith]] consegna a Brown quella che viene definita la “differenza”. La differenza tra 20 e 10 sterline è infatti di 10 sterline, quindi Brown restituisce 10 sterline a [[smith|Smith]]. Forse, dopo un altro mese, sarà il banchiere di Harding, Robinson, ad accorgersi che ha una differenza negativa di 10 sterline nei confronti di Brown. E così via.
 
-Quando decine di banchieri iniziarono a gestire migliaia di clienti, o “depositori”, la comodità di questo sistema risultò davvero straordinaria. Forse entro una settimana venivano emessi fino a 10.000 assegni; invece di effettuare 10.000 transazioni separate, pagando da Brown a Smith, da Smith a Robinson, e così via, attraverso decine di banchieri, gli assegni venivano semplicemente confrontati e soltanto i saldi venivano effettivamente pagati. In altre parole, il sistema permetteva di “regolare” rapidamente tutte le transazioni.
+Quando decine di banchieri iniziarono a gestire migliaia di clienti, o “depositori”, la comodità di questo sistema risultò davvero straordinaria. Forse entro una settimana venivano emessi fino a 10.000 assegni; invece di effettuare 10.000 transazioni separate, pagando da Brown a [[smith|Smith]], da [[smith|Smith]] a Robinson, e così via, attraverso decine di banchieri, gli assegni venivano semplicemente confrontati e soltanto i saldi venivano effettivamente pagati. In altre parole, il sistema permetteva di “regolare” rapidamente tutte le transazioni.
 
 La “Clearing House” era il luogo dove, a intervalli regolari, venivano depositati tutti i assegni provenienti da diverse banche e confrontati tra loro, al fine di verificare quali saldi rimanessero in attivo o in debito tra i diversi istituti bancari.
 
@@ -5247,7 +5247,7 @@ Perché accadeva questo? Perché, con lo sviluppo del sistema bancario, ormai qu
 
 There was a check on this system of creating new artificial paper money
 by the banks (for this is what it came to), and the check consisted in
-the control of the Government over the National Bank--in [[settings/england|England]] the
+the control of the [[government|Government]] over the National Bank--in [[settings/england|England]] the
 Bank of [[settings/england|England]]. There was a law preventing the Bank of [[settings/england|England]] from
 issuing more than a certain number of notes in proportion to the gold
 lying behind them, and the private banks could not issue over-drafts,
@@ -5289,9 +5289,9 @@ to be abused.
 2. The banks, especially in [[settings/england|England]], are all in one combination and
 keep detailed information upon all of us. Not only have they control
 over industry through their power to make or withhold the money which
-they alone can now create and hand out to those they favour, but they
+they [[Alone|alone]] can now create and hand out to those they favour, but they
 also keep indexes of detailed information as thorough and widespread
-as those of any Government office. They have a secret service more
+as those of any [[government|Government]] office. They have a secret service more
 widespread and powerful than that of the State, and this hidden power
 of theirs, though private and concealed knowledge, irritates plain men
 more and more. People feel that they are not free, and that the banking
@@ -5324,7 +5324,7 @@ the banks, or financiers. In peasant countries against them.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Esisteva un controllo su questo sistema di creazione di nuova carta moneta artificiale da parte delle banche (poiché è a questo che era ridotto), e tale controllo consisteva nel fatto che il Governo esercitasse la propria influenza sulla Banca Nazionale – in [[settings/england|Inghilterra]] si trattava della Banca d’[[settings/england|Inghilterra]]. Esisteva infatti una legge che impediva alla Banca d’[[settings/england|Inghilterra]] di emettere più di un certo numero di banconote, in proporzione all’oro su cui queste erano garantite; inoltre, le banche private non potevano concedere prestiti o sovratasseggi senza limiti, poiché non erano in grado di ottenere dalla Banca d’[[settings/england|Inghilterra]] una quantità maggiore di carta moneta per coprire i pagamenti che dovevano effettuare. La stessa Banca, a sua volta, non poteva emettere più di una certa percentuale di carta moneta rispetto alle riserve d’oro di cui disponeva.
+Esisteva un controllo su questo sistema di creazione di nuova carta moneta artificiale da parte delle banche (poiché è a questo che era ridotto), e tale controllo consisteva nel fatto che il [[government|Governo]] esercitasse la propria influenza sulla Banca Nazionale – in [[settings/england|Inghilterra]] si trattava della Banca d’[[settings/england|Inghilterra]]. Esisteva infatti una legge che impediva alla Banca d’[[settings/england|Inghilterra]] di emettere più di un certo numero di banconote, in proporzione all’oro su cui queste erano garantite; inoltre, le banche private non potevano concedere prestiti o sovratasseggi senza limiti, poiché non erano in grado di ottenere dalla Banca d’[[settings/england|Inghilterra]] una quantità maggiore di carta moneta per coprire i pagamenti che dovevano effettuare. La stessa Banca, a sua volta, non poteva emettere più di una certa percentuale di carta moneta rispetto alle riserve d’oro di cui disponeva.
 
 In definitiva, la quantità di denaro reale, cioè l’oro, nelle mani delle banche, sia nazionali che private, fungeva da freno a questa creazione di denaro falso da parte delle stesse banche. Ma quando i pagamenti in oro cessarono con la Grande Guerra, quel freno venne meno; e anche se i pagamenti in oro non fossero mai cessati, il potere delle banche di “creare” denaro, per così dire – in altre parole, il loro potere di decidere se accettare o meno i assegni di un’impresa qualsiasi, se permetterle di proseguire le sue attività o no – avrebbe conferito loro un potere immenso e in continuo aumento sulla società.
 
@@ -5388,9 +5388,9 @@ about one-tenth of their produce. Suddenly it finds itself involved in
 a much higher expenditure, amounting to, say, half the produce of the
 country. If it asked for half the produce right away as a tax people
 might refuse to pay it, or it might make the policy of the State--the
-war, for instance, which the Government wanted to wage--so unpopular
+war, for instance, which the [[government|Government]] wanted to wage--so unpopular
 that the State could not pursue that policy or wage that war. So the
-Government had recourse to borrowing from the citizens, promising to
+[[government|Government]] had recourse to borrowing from the citizens, promising to
 pay, to those who lent, interest in proportion to what they borrowed,
 as [[motifs/well|well]] as the capital itself. Thus they would take in taxation for
 a war money from a farmer equivalent to ten loads of wheat; but they
@@ -5415,13 +5415,13 @@ burdens of national debt have become overwhelming, and at the present
 moment about a twelfth of everything that English people produce is
 taken from them and handed over as interest to the comparatively few
 wealthy residents in [[settings/england|England]] and abroad who lent great sums to the
-Government during the war.
+[[government|Government]] during the war.
 
-It is true that whenever a loan is raised the Government provides not
+It is true that whenever a loan is raised the [[government|Government]] provides not
 only interest but what is called a “sinking fund”--that is, an extra
 amount of taxation every year which is dedicated to paying back the
 whole of the loan slowly. But long before a loan is paid off some new
-occasion arises compelling the Government to borrow again on a large
+occasion arises compelling the [[government|Government]] to borrow again on a large
 scale, and the total debt perpetually increases.
 
 The result is that all the great modern European nations are now
@@ -5435,7 +5435,7 @@ a sum still called £1,000 will only buy 20 tons of wheat, and in this
 way they can pretend to pay the lender back, although they are really
 cheating him of four-fifths of what he lent. Two countries, [[settings/germany|Germany]]
 and [[settings/russia|Russia]], have pushed this so far that the lenders are now not
-really paid anything at all. A man who lent the German Government, for
+really paid anything at all. A man who lent the German [[government|Government]], for
 carrying on the war, money which during the war would have bought a
 million tons of wheat, is now (October, 1923) paid back in money called
 by the same name but able only to purchase a tenth of a ton--which is
@@ -5453,7 +5453,7 @@ people. It involves taxing and impoverishing one set of citizens in
 order to pay interest to and enrich another set. But the country as a
 whole is no poorer. An external loan is borrowed from foreigners, and
 the interest on it is dead loss to the country. Also, it cannot be paid
-in debased currency. A government can cheat its own nationals by paying
+in debased currency. A [[government]] can cheat its own nationals by paying
 them in false money. But it has to pay foreign lenders in real money. A
 foreign loan is real. It must be (as a rule) paid in gold. [[settings/england|England]] thus
 pays millions a year to [[settings/america|America]].
@@ -5473,19 +5473,19 @@ Un prestito dello Stato, o debito pubblico, sorge in questo modo. Lo Stato ha bi
 
 Ma circa duecento anni fa iniziò (e da allora è aumentata notevolmente) la seconda metodologia, ovvero quella dei _prestiti nazionali_.
 
-Lo Stato, per esempio, raccoglie dalle sue cittadine un’imposta ordinaria che corrisponde a circa un decimo della loro produzione. Improvvisamente si trova ad avere spese molto più elevate, pari, diciamo, alla metà della produzione totale del paese. Se chiedesse subito quella metà come imposta, la gente potrebbe rifiutarsi di pagarla; inoltre, tale politica fiscale potrebbe rendere così impopolare l’azione dello Stato – ad esempio, la guerra che il Governo desidera intraprendere – da impedire allo Stato stesso di perseguirla. Pertanto, il Governo ricorre al prestito dai cittadini, promettendo a coloro che prestano un interesse proporzionale alla somma presa in prestito, oltre al capitale stesso. In questo modo, lo Stato raccoglie fondi per finanziare una guerra da un contadino equivalenti a dieci carichi di grano; ma allo stesso tempo gli presta cento carichi di grano, promettendo di restituirgli ogni anno cinque carichi di grano come interesse, per qualsiasi numero di anni, fino al completo rimborso dei cento carichi presi in prestito.
+Lo Stato, per esempio, raccoglie dalle sue cittadine un’imposta ordinaria che corrisponde a circa un decimo della loro produzione. Improvvisamente si trova ad avere spese molto più elevate, pari, diciamo, alla metà della produzione totale del paese. Se chiedesse subito quella metà come imposta, la gente potrebbe rifiutarsi di pagarla; inoltre, tale politica fiscale potrebbe rendere così impopolare l’azione dello Stato – ad esempio, la guerra che il [[government|Governo]] desidera intraprendere – da impedire allo Stato stesso di perseguirla. Pertanto, il [[government|Governo]] ricorre al prestito dai cittadini, promettendo a coloro che prestano un interesse proporzionale alla somma presa in prestito, oltre al capitale stesso. In questo modo, lo Stato raccoglie fondi per finanziare una guerra da un contadino equivalenti a dieci carichi di grano; ma allo stesso tempo gli presta cento carichi di grano, promettendo di restituirgli ogni anno cinque carichi di grano come interesse, per qualsiasi numero di anni, fino al completo rimborso dei cento carichi presi in prestito.
 
 Quando questi prestiti statali iniziarono, i governi avevano sinceramente l’intenzione di ripagare ciò che avevano preso in prestito. Ma il metodo utilizzato era così estremamente semplice da far sì che, con il passare del [[motifs/time|tempo]], il debito continuasse ad accumularsi fino a quando non divenne più possibile ripagarlo: tutto ciò che lo Stato poteva fare era pagare gli interessi attraverso le tasse. Rimaneva quindi indebitato nei confronti dei ricchi privati per l’importo principale, cioè la somma iniziale presa in prestito; nel frattempo, a causa di ulteriori guerre, il controllo esercitato dai ricchi su tutta la comunità continuava ad aumentare.
 
-Il “Debito Pubblico” – così come venne chiamato in seguito – rimase un’istituzione permanente; a causa sua tutti i cittadini dovevano essere tassati al fine di pagare gli interessi ai ricchi prestatori. In tempi successivi, questi oneri derivanti dal debito pubblico sono diventati insopportabili: attualmente circa un dodicesimo di tutto ciò che la gente inglese produce viene sottratto loro e consegnato come interesse a quei pochi residenti ricchi, in [[settings/england|Inghilterra]] e all’estero, che avevano prestato ingenti somme al Governo durante la guerra.
+Il “Debito Pubblico” – così come venne chiamato in seguito – rimase un’istituzione permanente; a causa sua tutti i cittadini dovevano essere tassati al fine di pagare gli interessi ai ricchi prestatori. In tempi successivi, questi oneri derivanti dal debito pubblico sono diventati insopportabili: attualmente circa un dodicesimo di tutto ciò che la gente inglese produce viene sottratto loro e consegnato come interesse a quei pochi residenti ricchi, in [[settings/england|Inghilterra]] e all’estero, che avevano prestato ingenti somme al [[government|Governo]] durante la guerra.
 
-È vero che ogni volta che viene contratto un prestito, il Governo fornisce non solo gli interessi, ma anche ciò che viene chiamato “fondo di ammortamento”: cioè un importo aggiuntivo di tasse versato ogni anno e destinato al pagamento graduale dell’intero debito. Tuttavia, molto prima che il prestito venga ripagato, sorge qualche nuova necessità che costringe il Governo a contrarre nuovi prestiti su larga scala, e così il debito totale continua ad aumentare costantemente.
+È vero che ogni volta che viene contratto un prestito, il [[government|Governo]] fornisce non solo gli interessi, ma anche ciò che viene chiamato “fondo di ammortamento”: cioè un importo aggiuntivo di tasse versato ogni anno e destinato al pagamento graduale dell’intero debito. Tuttavia, molto prima che il prestito venga ripagato, sorge qualche nuova necessità che costringe il [[government|Governo]] a contrarre nuovi prestiti su larga scala, e così il debito totale continua ad aumentare costantemente.
 
 Il risultato è che tutte le grandi nazioni europee moderne sono ora sommerse da un debito davvero troppo elevato per poterlo sostenere, e per questo hanno adottato vari metodi poco trasparenti al fine di alleggerire quel fardello. Alcune di esse ripagano con denaro che apparentemente è lo stesso di quello preso in prestito, ma che in realtà ha un valore molto diverso. Ad esempio, possono prendere in prestito 1.000 sterline, equivalenti a 100 tonnellate di grano, per finanziare una guerra; successivamente degradano la valuta, in modo che quella stessa somma possa acquistare soltanto 20 tonnellate di grano. In questo modo possono fingere di aver ripagato il prestatore, quando in realtà gli stanno sottraendo quattro quinti del denaro prestato. Due paesi, la [[settings/germany|Germania]] e la [[settings/russia|Russia]], hanno portato questa pratica fino al punto che i prestatori, di fatto, non ricevono nulla in cambio dei loro investimenti. Un uomo che ha prestato denaro al governo tedesco per finanziare la guerra – denaro che durante il conflitto avrebbe potuto acquistare un milione di tonnellate di grano – viene ora ripagato con moneta che porta lo stesso nome, ma che in realtà permette di comprare soltanto un decimo di quella quantità. Il che equivale a dire che non viene affatto ripagato.
 
 Di tutti i paesi europei che hanno combattuto in quella guerra, il nostro è stato senz'altro il più onesto in questa questione; tuttavia, anche in [[settings/england|Inghilterra]], un uomo che abbia prestato, per esempio, l'equivalente di 1.000 pecore e a cui sia stata promessa un interesse del 50% all'anno riceve in realtà solo 25 pecore all'anno a causa dell'inflazione.
 
-In questa questione dei prestiti dobbiamo fare distinzione tra prestiti interni e prestiti esterni. Un prestito interno viene contratto con i propri cittadini; comporta quindi la tassazione e l’indebolimento di un gruppo di persone al fine di pagare gli interessi e arricchire un altro gruppo. Tuttavia, il paese nel suo complesso non diventa più povero a causa di questo. Un prestito esterno, invece, viene contratto con stranieri; gli interessi ad esso relativi rappresentano una perdita netta per il paese stesso. Inoltre, non può essere pagato in valuta deprezzata. Un governo può ingannare i propri cittadini pagandoli con denaro falso, ma deve comunque pagare i creditori stranieri con denaro reale. Un prestito esterno è quindi qualcosa di concreto e tangibile; di solito deve essere pagato in oro. [[settings/england|Inghilterra]], ad esempio, paga ogni anno milioni a [[settings/america|America]] per i prestiti contratti.
+In questa questione dei prestiti dobbiamo fare distinzione tra prestiti interni e prestiti esterni. Un prestito interno viene contratto con i propri cittadini; comporta quindi la tassazione e l’indebolimento di un gruppo di persone al fine di pagare gli interessi e arricchire un altro gruppo. Tuttavia, il paese nel suo complesso non diventa più povero a causa di questo. Un prestito esterno, invece, viene contratto con stranieri; gli interessi ad esso relativi rappresentano una perdita netta per il paese stesso. Inoltre, non può essere pagato in valuta deprezzata. Un [[government|governo]] può ingannare i propri cittadini pagandoli con denaro falso, ma deve comunque pagare i creditori stranieri con denaro reale. Un prestito esterno è quindi qualcosa di concreto e tangibile; di solito deve essere pagato in oro. [[settings/england|Inghilterra]], ad esempio, paga ogni anno milioni a [[settings/america|America]] per i prestiti contratti.
 
 
 
@@ -5515,12 +5515,12 @@ paying indirect taxation. The price which you paid for the tea is so
 much for the real value of the tea and so much more (though you do not
 feel or know it at the [[motifs/time|time]]) which has been paid on the tea as it came
 into [[settings/england|England]] at the ports. The brewers who make beer have got to pay
-the Government so much for every gallon they make, and this is passed
+the [[government|Government]] so much for every gallon they make, and this is passed
 on to the people who buy the beer by an extra amount put on to the
 price.
 
 The wisest men who have discussed how taxes should be levied laid
-down four rules which, unfortunately, no Government has kept to as it
+down four rules which, unfortunately, no [[government|Government]] has kept to as it
 should. It is worth while knowing those rules, because they are a guide
 to what good taxation should be.
 
@@ -5542,11 +5542,11 @@ see that these bridgemen do their duty and do not cheat. If I tried to
 levy a tax of this kind on a great many bridges that are not much used
 the cost of collecting would be very high compared with the revenue
 produced. But if I put a tax on every cheque issued by a bank, that
-tax is collected with hardly any expense. All the Government has to do
+tax is collected with hardly any expense. All the [[government|Government]] has to do
 is to say that no cheque will be valid unless it carries a stamp. The
 banks stamp all their cheques with this stamp, and when they sell a
 cheque book to a customer they take the value of the stamps from him.
-All the Government has to do is to find out the number of cheque books
+All the [[government|Government]] has to do is to find out the number of cheque books
 issued, and ask for the money from the banks.
 
 3. Taxes are better in proportion as they fall on unnecessary things
@@ -5597,7 +5597,7 @@ know what they mean to spend, and can, if they choose, ascertain how
 much of this goes in taxation. But the same tax on tobacco in [[settings/france|France]]
 is not a certain tax, because the French grow a lot of their own
 tobacco--in fact, most of it. The people who grow tobacco naturally try
-to hide the total amount of their crop from the Government inspectors,
+to hide the total amount of their crop from the [[government|Government]] inspectors,
 and a great number of these inspectors have to be going about the whole
 [[motifs/time|time]] actually counting each leaf on each plant and rummaging in the
 bins to see that none is gone.
@@ -5608,7 +5608,7 @@ unfixed people from hiding their profits or from concealing from the
 tax collectors amounts which they have earned. Also the honest citizen
 with an established and known position can be bled to the full, while
 the rogue and adventurer, the speculator and dealer escapes. But it
-is a certain tax from the point of view of the Government, because
+is a certain tax from the point of view of the [[government|Government]], because
 they know on the average what a penny on the Income Tax will produce
 one year with another, and are not concerned with justice but with a
 calculable revenue.
@@ -5628,7 +5628,7 @@ Ad esempio: se guadagni 1.000 sterline all’anno e lo Stato ti obbliga a dichia
 
 L'imposta indiretta si manifesta sotto forma di tasse riscosse sul produttore di un articolo o sull'importatore dello stesso; queste tasse vengono poi trasferite a chi lo consuma, attraverso l'aumento del suo prezzo. Quindi, quando acquisti una libbra di tè o una bottiglia di vino, stai pagando un'imposta indiretta. Il prezzo che hai pagato per il tè corrisponde in parte al suo valore reale e in parte ad altre somme (che tu però non percepisci né conosci al momento dell’acquisto) che sono state versate quando il tè è arrivato in Inghilterra attraverso i porti. Anche i produttori di birra devono pagare una certa somma al governo per ogni gallone di birra prodotta; questa tassa viene poi riflessa nel prezzo finale della birra, che aumenta di conseguenza.
 
-Gli uomini più saggi che hanno discusso su come dovrebbero essere riscossi i tributi hanno stabilito quattro regole che, purtroppo, nessun governo ha rispettato come avrebbe dovuto. Vale la pena conoscerle, perché costituiscono una guida per capire quale dovrebbe essere l’efficacia di un sistema fiscale equo e funzionale.
+Gli uomini più saggi che hanno discusso su come dovrebbero essere riscossi i tributi hanno stabilito quattro regole che, purtroppo, nessun [[government|governo]] ha rispettato come avrebbe dovuto. Vale la pena conoscerle, perché costituiscono una guida per capire quale dovrebbe essere l’efficacia di un sistema fiscale equo e funzionale.
 
 Queste sono le regole:--
 
@@ -5638,7 +5638,7 @@ Ad esempio: è molto più facile pagare 100 sterline all’anno in piccole somme
 
 2. L’imposta dovrebbe essere calcolata in modo che i costi necessari per riscuoterla siano il più bassi possibile.
 
-Ad esempio: se imponessi una tassa su tutte le persone che attraversano un determinato ponte, dovrei assumere e pagare qualcuno per riscuotere la tassa sul ponte stesso, e probabilmente dovrei anche pagare ispettori per controllare che questi incaricati svolgano il loro compito senza truffare. Se provassi ad applicare una tassa del genere su molti ponti poco utilizzati, i costi di riscossione sarebbero molto elevati rispetto al reddito generato. Ma se imponessi una tassa su ogni assegno emesso da una banca, tale tassa verrebbe riscossa con quasi nessun costo. Tutto ciò che il Governo deve fare è stabilire che nessun assegno sia valido se non presenta un timbro; le banche appongono questo timbro su tutti gli assegni, e quando vendono un libretto degli assegni a un cliente, addebitano il valore dei timbri. Il Governo deve semplicemente verificare il numero di libretti degli assegni emessi e richiedere i fondi alle banche.
+Ad esempio: se imponessi una tassa su tutte le persone che attraversano un determinato ponte, dovrei assumere e pagare qualcuno per riscuotere la tassa sul ponte stesso, e probabilmente dovrei anche pagare ispettori per controllare che questi incaricati svolgano il loro compito senza truffare. Se provassi ad applicare una tassa del genere su molti ponti poco utilizzati, i costi di riscossione sarebbero molto elevati rispetto al reddito generato. Ma se imponessi una tassa su ogni assegno emesso da una banca, tale tassa verrebbe riscossa con quasi nessun costo. Tutto ciò che il [[government|Governo]] deve fare è stabilire che nessun assegno sia valido se non presenta un timbro; le banche appongono questo timbro su tutti gli assegni, e quando vendono un libretto degli assegni a un cliente, addebitano il valore dei timbri. Il [[government|Governo]] deve semplicemente verificare il numero di libretti degli assegni emessi e richiedere i fondi alle banche.
 
 3. Le tasse sono più equilibrate quando riguardano cose non necessarie, piuttosto che cose essenziali.
 
@@ -5652,7 +5652,7 @@ Purtroppo, è molto difficile rispettare questa regola in qualsiasi paese modern
 
 Ad esempio: l’imposta sul tabacco in questo paese è una tassa fissa. Viene applicata su un numero relativamente ridotto di carichi di navi che entrano nel paese con tabacco, perché in [[settings/england|Inghilterra]] non coltiviamo tabacco; l’importo pagato dagli importatori viene automaticamente trasferito ai compratori. Lo Stato, grazie all’esperienza, sa quanti chili di tabacco la gente acquisterà nel corso dell’anno, e le persone che comprano tabacco sanno esattamente quanto spenderanno e, se lo desiderano, possono verificare quale parte di questa spesa va a finire nelle tasse. Ma la stessa imposta sul tabacco in [[settings/france|Francia]] non è una tassa fissa, perché i francesi coltivano da soli gran parte del loro tabacco; di conseguenza, coloro che lo producono cercano naturalmente di nascondere la quantità totale della loro raccolta agli ispettori governativi, e molti di questi ispettori devono passare tutto il tempo a contare ogni singola foglia su ogni pianta e a verificare che nessuna parte venga sottratta.
 
-Un esempio di tassa estremamente incerta e ingiusta per il contribuente nel nostro paese è l’Imposta sul reddito, poiché è difficile impedire alle persone senza fissa dimora di nascondere i propri profitti o di eludere le autorità fiscali con gli importi guadagnati. Inoltre, anche un cittadino onesto e con una posizione sociale stabile può essere sfruttato al massimo, mentre individui disonesti, speculatori e truffatori riescono a sfuggire alle responsabilità fiscali. Tuttavia, dal punto di vista del Governo, si tratta comunque di una tassa “sicura”, poiché esso sa con precisione quale sarà il reddito che l’Imposta sul reddito genererà in un determinato anno, e non si preoccupa della giustizia, ma soltanto di ottenere entrate calcolabili.
+Un esempio di tassa estremamente incerta e ingiusta per il contribuente nel nostro paese è l’Imposta sul reddito, poiché è difficile impedire alle persone senza fissa dimora di nascondere i propri profitti o di eludere le autorità fiscali con gli importi guadagnati. Inoltre, anche un cittadino onesto e con una posizione sociale stabile può essere sfruttato al massimo, mentre individui disonesti, speculatori e truffatori riescono a sfuggire alle responsabilità fiscali. Tuttavia, dal punto di vista del [[government|Governo]], si tratta comunque di una tassa “sicura”, poiché esso sa con precisione quale sarà il reddito che l’Imposta sul reddito genererà in un determinato anno, e non si preoccupa della giustizia, ma soltanto di ottenere entrate calcolabili.
 
 
 
@@ -5987,7 +5987,7 @@ points which I mentioned.
 Suppose you put a man into a little primitive place like Andorra (which
 is a tiny independent state shut off from the world in a valley of the
 Pyrenees), and he is paid there £1,000 a year. He cannot live in a
-house with more than a small rental, because there are no big houses
+[[house]] with more than a small rental, because there are no big houses
 to be had. Everybody lives in simple, little houses. He cannot spend
 his money on many things. There are no roads, no use for a motor car;
 no railways, so he cannot spend money on railway fares; no theatres
@@ -5999,10 +5999,10 @@ means--“sets of things”) on which he can spend money is a great deal
 less than what it would be in [[settings/london|London]]. A man with £1,000 a year in
 [[settings/london|London]] and a [[concepts/family|family]] to keep is, of course, very much better off than a
 labouring man, but still he is not rich, as rich people use the term.
-He will live in a house for which he must pay perhaps £200 a year,
+He will live in a [[house]] for which he must pay perhaps £200 a year,
 counting rent and taxes. Then he will--he usually must--travel, and
 that will cost him perhaps £50 a year. Then his friends will expect
-to meet him and he must have them at his house, and he will have to
+to meet him and he must have them at his [[house]], and he will have to
 spend a good deal in postage and telegraphing--and so on. The man in
 Andorra with £1,000 a year simply would not know what to do with it. He
 would be so “[[motifs/well|well]] off” that he would have a very large surplus--more
@@ -6103,7 +6103,7 @@ miserable and starving people in [[settings/australia|Australia]] than there are
 but the average wealth of a [[concepts/family|family]] in [[settings/australia|Australia]] is much higher than
 that in Iceland.
 
-Now suppose that the Government of Iceland were to want to build a
+Now suppose that the [[government|Government]] of Iceland were to want to build a
 new harbour for the capital, which is on the sea, and in order to get
 the money were either to confiscate the wealth of certain rich people
 or to tax all the people--supposing it wanted, for instance, £400,000
@@ -6154,7 +6154,7 @@ but, on the other hand, there was nothing like the same number of
 very rich people, and therefore the average [[concepts/family|family]] income was much
 smaller. Put all that together, and it is clear what a tremendous
 business the confiscation of this one Abbey meant. It was somewhat as
-though the Government to-day were to confiscate one of the smaller
+though the [[government|Government]] to-day were to confiscate one of the smaller
 railway companies, or to take away the rentals now paid by a northern
 manufacturing town to the great landlords owning the soil, and put the
 money into its own pocket.
@@ -6184,11 +6184,11 @@ Il terzo fattore che contribuisce alla formazione del valore sociale del denaro 
 
 Supponiamo, ad esempio, che, alle attuali tariffe di mercato, si considerino due comunità: (1) la popolazione dell’Islanda e (2) la popolazione dell’[[settings/australia|Australia]]. In entrambi i paesi è possibile ottenere più o meno lo stesso quantitativo di beni in cambio di un’oncia d’oro; sebbene in Islanda ci siano meno categorie di prodotti disponibili rispetto all’[[settings/australia|Australia]], la maggior parte delle cose di cui ha bisogno una persona civile può essere reperita in Islanda – almeno nella capitale, oppure può essere importata dagli abitanti se ne hanno bisogno o se possono permettersela. Entrambe le comunità appartengono alla nostra stessa razza, presentano un livello culturale simile e condividono la stessa concezione di come si dovrebbe vivere. Tuttavia, in Islanda ci sono soltanto quattro migliaia di famiglie, e la maggior parte di queste è povera; in [[settings/australia|Australia]], invece, ci sono un milione di famiglie, cioè 250 volte di più, e in media queste famiglie sono molto più ricche di quelle islandesi. In [[settings/australia|Australia]] esistono differenze ben maggiori tra ricchi e poveri rispetto all’Islanda; ci sono molte più persone che vivono nella miseria o che muoiono di fame in [[settings/australia|Australia]] rispetto all’Islanda, ma il patrimonio medio di una famiglia in [[concepts/family|Australia]] è decisamente superiore a quello islandese.
 
-Ora supponiamo che il Governo dell’Islanda voglia costruire un nuovo porto per la capitale, che si trova sul mare, e che, per reperire i fondi necessari, debba confiscare le ricchezze di alcuni individui benestanti o imporre tasse a tutta la popolazione. Supponiamo, ad esempio, che servano 400.000 sterline per completare i lavori. E supponiamo che anche il popolo dell’[[settings/australia|Australia]] voglia costruire un porto e che necessiti anch’esso di 400.000 sterline, reperite nello stesso modo. Il numero indicatore è lo stesso in entrambi i casi: un’oncia d’oro acquista più o meno la stessa quantità di beni in entrambe le regioni, poiché il numero indicatore è sostanzialmente uguale in tutto il “mondo bianco”, misurato in termini di oro; inoltre, possiamo presumere che le categorie di beni acquistabili siano simili nelle due zone. Tuttavia, il valore sociale di quelle 400.000 sterline è molto diverso in Islanda rispetto all’Australia: in Islanda significherebbe confiscare in media 100 sterline a ciascuna delle famiglie povere, oppure tutte le ricchezze dei pochi individui benestanti del paese; in Australia, invece, significherebbe soltanto riscuotere circa 8 penny da ciascuna famiglia, e questo da un reddito medio molto più alto rispetto a quello delle famiglie islandesi. Pertanto, il valore sociale di quelle 400.000 sterline è enorme in Islanda e molto inferiore in Australia. Se l’Islanda tentasse di realizzare tale progetto, probabilmente non riuscirebbe; lo sforzo economico richiesto sarebbe enorme, e nel caso di successo, tale impresa occuperebbe un posto importante nella [[concepts/history|storia]] dell’isola. Nella storia australiana, invece, passerebbe quasi inosservata.
+Ora supponiamo che il [[government|Governo]] dell’Islanda voglia costruire un nuovo porto per la capitale, che si trova sul mare, e che, per reperire i fondi necessari, debba confiscare le ricchezze di alcuni individui benestanti o imporre tasse a tutta la popolazione. Supponiamo, ad esempio, che servano 400.000 sterline per completare i lavori. E supponiamo che anche il popolo dell’[[settings/australia|Australia]] voglia costruire un porto e che necessiti anch’esso di 400.000 sterline, reperite nello stesso modo. Il numero indicatore è lo stesso in entrambi i casi: un’oncia d’oro acquista più o meno la stessa quantità di beni in entrambe le regioni, poiché il numero indicatore è sostanzialmente uguale in tutto il “mondo bianco”, misurato in termini di oro; inoltre, possiamo presumere che le categorie di beni acquistabili siano simili nelle due zone. Tuttavia, il valore sociale di quelle 400.000 sterline è molto diverso in Islanda rispetto all’Australia: in Islanda significherebbe confiscare in media 100 sterline a ciascuna delle famiglie povere, oppure tutte le ricchezze dei pochi individui benestanti del paese; in Australia, invece, significherebbe soltanto riscuotere circa 8 penny da ciascuna famiglia, e questo da un reddito medio molto più alto rispetto a quello delle famiglie islandesi. Pertanto, il valore sociale di quelle 400.000 sterline è enorme in Islanda e molto inferiore in Australia. Se l’Islanda tentasse di realizzare tale progetto, probabilmente non riuscirebbe; lo sforzo economico richiesto sarebbe enorme, e nel caso di successo, tale impresa occuperebbe un posto importante nella [[concepts/history|storia]] dell’isola. Nella storia australiana, invece, passerebbe quasi inosservata.
 
 Ora aggiungiamo insieme l’influenza di tutti e questi tre fattori, e vedremo che esiste una vasta differenza nel valore sociale del denaro all’epoca di [[characters/henry-viii|Enrico VIII]], quando i monasteri furono dissolti, rispetto al valore sociale della stessa somma di denaro oggi. Vedremo, ad esempio, perché il [[archetypes/king|-Re]] che si appropriò dei redditi annuali del Monastero di Westminster e li tenne per sé suscitò un tale scalpore, sebbene l’importo effettivo in sterline, o in peso d’oro, con cui allora si poteva misurare il reddito dell’Abbazia di Westminster fosse soltanto di 4.000 sterline all’anno. In primo luogo, bisogna moltiplicare questa cifra per 24, in modo da calcolare il valore reale, ovvero il potere d’acquisto annuo in grano, manzo, orzo, maiale, birra, che venne confiscato; tale valore ammontava quasi a 100.000 sterline nel nostro sistema monetario attuale. Inoltre, bisogna ricordare che tutto ciò avvenne in una società in cui esisteva un numero molto più ridotto di beni acquistabili; in altre parole, le persone disponevano di un numero molto limitato di “categorie di prodotti” su cui spendere i propri soldi.
 
-E, infine, bisogna ricordare che tutto ciò avvenne in un’[[settings/england|Inghilterra]] la cui popolazione era appena un sesto – alcuni direbbero addirittura un decimo – di quella odierna, e che tale popolazione, in media, era molto più povera rispetto a quella attuale. È vero che all’epoca non esisteva quella vasta moltitudine di persone affamate o semiaffamate che abbiamo oggi in [[settings/england|Inghilterra]], e che i lavoratori vivevano in condizioni molto migliori rispetto ad ora; ma, d’altra parte, non esistevano nemmeno un numero paragonabile di persone estremamente ricche, quindi il reddito medio delle famiglie era molto più basso. Tenendo tutto ciò presente, diventa evidente quanto fosse enorme l’importanza della confisca di quell’abbazia: era quasi come se oggi il Governo confiscasse una delle piccole compagnie ferroviarie, o togliesse ai grandi proprietari terrieri i canoni che attualmente pagano le città industriali del nord, mettendo quei soldi nelle proprie tasche.
+E, infine, bisogna ricordare che tutto ciò avvenne in un’[[settings/england|Inghilterra]] la cui popolazione era appena un sesto – alcuni direbbero addirittura un decimo – di quella odierna, e che tale popolazione, in media, era molto più povera rispetto a quella attuale. È vero che all’epoca non esisteva quella vasta moltitudine di persone affamate o semiaffamate che abbiamo oggi in [[settings/england|Inghilterra]], e che i lavoratori vivevano in condizioni molto migliori rispetto ad ora; ma, d’altra parte, non esistevano nemmeno un numero paragonabile di persone estremamente ricche, quindi il reddito medio delle famiglie era molto più basso. Tenendo tutto ciò presente, diventa evidente quanto fosse enorme l’importanza della confisca di quell’abbazia: era quasi come se oggi il [[government|Governo]] confiscasse una delle piccole compagnie ferroviarie, o togliesse ai grandi proprietari terrieri i canoni che attualmente pagano le città industriali del nord, mettendo quei soldi nelle proprie tasche.
 
 Da questo esempio della confisca dell’Abbazia di Westminster si può dedurre, riguardo a tutte le altre spese del [[motifs/time|tempo]] – spese per eserciti e flotte, e così via – come, perché e in quale misura il valore sociale del denaro cambi da un periodo all’altro.
 
@@ -6541,8 +6541,8 @@ of the money is changed, so that a man who has been set down to pay,
 say, a hundred sheep a year, is really only paying 50 or 30 sheep
 a year. A more drastic method is the method of “writing off” loans
 altogether--simply saying: “I simply cannot get my interest, and so I
-must stop asking for it.” That is what happens when a Government goes
-bankrupt, as the Government of [[settings/germany|Germany]] has done.
+must stop asking for it.” That is what happens when a [[government|Government]] goes
+bankrupt, as the [[government|Government]] of [[settings/germany|Germany]] has done.
 
 If you look at the Usury created by the Great War, you will see this
 kind of thing going on on all sides. The Governments that were fighting
@@ -6552,14 +6552,14 @@ and metal, and machinery and the rest, but the wheat was not used
 to feed workmen who were producing more wealth. It was used to feed
 soldiers who were producing no wealth, and so were the ships and the
 metal and the machinery, etc. Therefore when the individuals who had
-lent the money began collecting from the Government interest upon what
+lent the money began collecting from the [[government|Government]] interest upon what
 they had lent they were asking every year for wealth which simply was
 not there, and the Governments have got out of their promise to pay a
 usurious interest in all sorts of ways--some by repudiating, that is
 saying that they would not pay (the Russians have done that), others
-by debasing currency in various degrees. The English Government has cut
+by debasing currency in various degrees. The English [[government|Government]] has cut
 down what it promised to pay to about half, and by taxing this it has
-further reduced it to rather less than a third. The French Government,
+further reduced it to rather less than a third. The French [[government|Government]],
 by inflation and by taxation, have reduced it much more--to less than a
 fourth, or perhaps more like a sixth or an eighth.
 
@@ -6608,7 +6608,7 @@ La grande quantità di pagamenti usurari che avvengono attualmente, a causa del 
 
 Se continui ad accumulare ricchezza come se provenisse da un aumento reale, quando invece non esiste alcun aumento da cui essa possa derivare, questo processo prima o poi dovrà terminare. È come se pretendessi cento bushel di mele ogni anno da un orto che ormai non produce più nulla, o come se chiedessi quotidianamente acqua da una sorgente prosciugata. La persona che dovrebbe pagare per quelle mele dovrà procurarsele nel modo migliore possibile; ma quando questa richiesta si estenderà a tutti gli orti del mondo, quando l’usura inizierà a chiedere un milione di bushel di mele all’anno, mentre ne vengono prodotte soltanto mezzo milione, si verificherà un caos. Gli interessi non verranno più pagati e il sistema per raccoglierli smetterà di funzionare. Molto prima che ciò accada davvero, le persone inizieranno ad avere sempre maggiori difficoltà nel ricevere gli interessi dovuti, e tutto il mondo commerciale ne subirà le conseguenze negative.
 
-Ecco esattamente ciò che sta iniziando ad accadere oggi, dopo circa due secoli di usura e un secolo di usura senza limiti. Finora siamo riusciti a far fronte a questa situazione con ogni sorta di soluzioni provvisorie. Coloro che hanno preso in prestito denaro e hanno promesso di pagare, ad esempio, il 5%, vengono poi autorizzati a cambiare le condizioni del pagamento e a versare soltanto il 2½%. Oppure, attraverso il processo di svalutazione della moneta, descritto in precedenza in questo libro, il valore del denaro viene modificato, in modo che una persona che doveva pagare, ad esempio, cento pecore all’anno, in realtà ne paga soltanto 50 o 30. Un metodo ancora più drastico consiste nel “ cancellare” completamente i prestiti: si dice semplicemente: “Non riesco proprio a riscuotere gli interessi, quindi devo smettere di chiederli”. Ed è esattamente ciò che accade quando un Governo fallisce, come è successo al Governo della [[settings/germany|Germania]].
+Ecco esattamente ciò che sta iniziando ad accadere oggi, dopo circa due secoli di usura e un secolo di usura senza limiti. Finora siamo riusciti a far fronte a questa situazione con ogni sorta di soluzioni provvisorie. Coloro che hanno preso in prestito denaro e hanno promesso di pagare, ad esempio, il 5%, vengono poi autorizzati a cambiare le condizioni del pagamento e a versare soltanto il 2½%. Oppure, attraverso il processo di svalutazione della moneta, descritto in precedenza in questo libro, il valore del denaro viene modificato, in modo che una persona che doveva pagare, ad esempio, cento pecore all’anno, in realtà ne paga soltanto 50 o 30. Un metodo ancora più drastico consiste nel “ cancellare” completamente i prestiti: si dice semplicemente: “Non riesco proprio a riscuotere gli interessi, quindi devo smettere di chiederli”. Ed è esattamente ciò che accade quando un [[government|Governo]] fallisce, come è successo al [[government|Governo]] della [[settings/germany|Germania]].
 
 Se si osserva l’usura generata dalla Grande Guerra, si nota che questo tipo di fenomeno si verificava su tutti i fronti. I governi che combattevano prendevano in prestito denaro da privati e promettevano interessi su di esso. La maggior parte di quel denaro non veniva utilizzata in modo produttivo: veniva impiegato per acquistare grano, metalli, macchinari e altro ancora, ma il grano non veniva usato per nutrire i lavoratori che producevano ricchezza; veniva invece utilizzato per mantenere i soldati, i quali non generavano alcun valore. Allo stesso modo, navi, metalli e macchinari venivano impiegati allo stesso scopo. Pertanto, quando coloro che avevano prestato il denaro iniziarono a chiedere agli stati interessi su quanto avevano prestato, ogni anno richiedevano una ricchezza che semplicemente non esisteva. Gli stati, per evitare di mantenere tali promesse, adottarono vari metodi: alcuni rifiutarono semplicemente di pagare (come fecero i russi), altri deprezarono la valuta. Il governo inglese ridusse drasticamente l’importo degli interessi che aveva promesso di pagare, portandolo a circa la metà; inoltre, imponendo ulteriori tasse, lo ridusse ancora di più, a meno di un terzo. Il governo francese, attraverso inflazione e tassazioni, lo ridusse ancora di più: a meno di un quarto, o forse addirittura a meno di un sesto o un ottavo.
 
@@ -6667,7 +6667,7 @@ a year. But when the people in [[settings/france|France]] make a similar assessm
 to find out what the incomes are of all the people living in [[settings/france|France]],
 the rich man’s son in [[settings/paris|Paris]] appears as having £1,000 a year. So when
 the assessments of [[settings/england|England]] and [[settings/france|France]] are added together and some
-Government economist is calculating what the total income of the
+[[government|Government]] economist is calculating what the total income of the
 citizens of both countries may be, that £1,000 a year appears twice.
 One of these appearances is an economic imaginary. In other words, by
 the method of calculation used, £1,000 every year appears on the total
@@ -6738,11 +6738,11 @@ pay from a pound to thirty shillings for a bottle of champagne they
 are paying from eight to twelve times the real economic values which
 are destroyed in consumption. There is an extra margin of anything
 from seventeen shillings and sixpence to twenty-seven shillings and
-sixpence, which is an economic imaginary in that one case alone.
+sixpence, which is an economic imaginary in that one case [[Alone|alone]].
 And remember that this economic imaginary goes the rounds. It appears
 in the profits of the hotel-keeper, which are assessed in the total
 national income for taxation. It appears in the rent for his hotel,
-since a man will pay much more rent for a house in which he can get
+since a man will pay much more rent for a [[house]] in which he can get
 people to pay these sums than for a humbler hotel of the same size and
 of the same true economic value in bricks and mortar. It appears in the
 rates which the hotel pays to the local authorities, and which in their
@@ -6763,7 +6763,7 @@ Un “immaginario” è un termine tratto dalla matematica e indica un valore ch
 
 Il primo esempio che vi darò riguarda un uomo che, avendo un reddito elevato, fornisce un sostegno finanziario a suo figlio che vive all’estero. Supponiamo che un uomo in [[settings/england|Inghilterra]] guadagni 10.000 sterline all’anno e abbia mandato suo figlio a fare affari a [[settings/paris|Parigi]]; tuttavia, poiché il giovane non ha ancora imparato bene il mestiere e continua ad essere aiutato dalla famiglia, il padre gli concede 1.000 sterline all’anno da spendere.
 
-Quando le autorità fiscali vanno in giro per verificare quali siano i redditi di tutti, nell’[[settings/england|Inghilterra]] indicano correttamente che quel ricco guadagna 10.000 sterline all’anno; quando viene effettuata una valutazione complessiva dei redditi in tutto l’[[settings/england|Inghilterra]], cioè quando si redige un elenco che mostra il reddito totale di tutti gli inglesi, quel ricco appare ancora una volta con lo stesso importo. Ma quando nel [[settings/france|Francia]] si effettua una valutazione simile per conoscere i redditi di tutte le persone che vivono in quel paese, il figlio di quel ricco a [[settings/paris|Parigi]] viene indicato come uno che guadagna soltanto 1.000 sterline all’anno. Quindi, quando si sommano le valutazioni dell’[[settings/england|Inghilterra]] e dell’[[settings/france|Francia]] e qualche economista del Governo calcola il reddito totale dei cittadini di entrambi i paesi, quelle 1.000 sterline compaiono due volte. Uno di questi risultati è puramente “immaginario” dal punto di vista economico: con il metodo di calcolo utilizzato, quelle 1.000 sterline vengono conteggiate sia nell’elenco totale dell’[[settings/england|Inghilterra]] che in quello dell’[[settings/france|Francia]], facendo sì che la somma totale raggiunga le 2.000 sterline. Le ulteriori 1.000 sterline, pur essendo indicate nei documenti ufficiali, in realtà non esistono affatto: sono semplicemente un “immaginario economico”.
+Quando le autorità fiscali vanno in giro per verificare quali siano i redditi di tutti, nell’[[settings/england|Inghilterra]] indicano correttamente che quel ricco guadagna 10.000 sterline all’anno; quando viene effettuata una valutazione complessiva dei redditi in tutto l’[[settings/england|Inghilterra]], cioè quando si redige un elenco che mostra il reddito totale di tutti gli inglesi, quel ricco appare ancora una volta con lo stesso importo. Ma quando nel [[settings/france|Francia]] si effettua una valutazione simile per conoscere i redditi di tutte le persone che vivono in quel paese, il figlio di quel ricco a [[settings/paris|Parigi]] viene indicato come uno che guadagna soltanto 1.000 sterline all’anno. Quindi, quando si sommano le valutazioni dell’[[settings/england|Inghilterra]] e dell’[[settings/france|Francia]] e qualche economista del [[government|Governo]] calcola il reddito totale dei cittadini di entrambi i paesi, quelle 1.000 sterline compaiono due volte. Uno di questi risultati è puramente “immaginario” dal punto di vista economico: con il metodo di calcolo utilizzato, quelle 1.000 sterline vengono conteggiate sia nell’elenco totale dell’[[settings/england|Inghilterra]] che in quello dell’[[settings/france|Francia]], facendo sì che la somma totale raggiunga le 2.000 sterline. Le ulteriori 1.000 sterline, pur essendo indicate nei documenti ufficiali, in realtà non esistono affatto: sono semplicemente un “immaginario economico”.
 
 Questo è il caso più semplice di “immaginario economico”. Si tratta del fenomeno dell’sovrapposizione, ovvero del conteggio dello stesso denaro due volte. Possiamo descrivere questo caso in termini generali dicendo: “Ogni sovrapposizione non verificata genera un ‘immaginario economico’, nella misura stessa di tale sovrapposizione non controllata.”
 
@@ -6810,7 +6810,7 @@ have an enormous margin of wealth with which to do what they like, and
 the Van Dyck between them may be rushed up to £50,000.
 
 There is not a penny more of real wealth in the community than there
-was before. Yet your Government assessor would come down and assess the
+was before. Yet your [[government|Government]] assessor would come down and assess the
 community in a very different fashion from the way in which he would
 have assessed the first community. He will put down the total income at
 £1,000,000, and the houses, furniture, etc., at so much, and he will
@@ -6844,8 +6844,8 @@ to find what (in their judgment) the total yearly income of a nation
 is, they count not only the economic values attached to things consumed
 by the nation, but also services.
 
-For instance: if [[characters/jones|Jones]] is a good card player, the rich man Smith may
-pay him £500 a year to live in his house and amuse his [[concepts/loneliness|loneliness]] by
+For instance: if [[characters/jones|Jones]] is a good card player, the rich man [[smith|Smith]] may
+pay him £500 a year to live in his [[house]] and amuse his [[concepts/loneliness|loneliness]] by
 perpetually playing cards with him. I knew a case of a man in South
 Wales who did exactly that. It is an extreme case, but we all of us,
 all day long, are paying money for services which do not add economic
@@ -6856,21 +6856,21 @@ these services creates an enormous [[concepts/body|body]] of economic imaginarie
 show you how they may do so I will give you an extreme and ludicrous
 case.
 
-Supposing two men, one of whom, Smith, has a loaf of bread, and the
-other of whom, Brown, has nothing. Smith says to Brown: “If you will
-sing me a song I will give you my loaf of bread.” Brown sings his song
-and Smith hands over the bread. A little later Brown wants to hear
-Smith sing and he says to him: “If you will sing me a song I will give
-you this loaf of bread.” A little later Smith again wants to have a
-song from Brown. Brown sings his song (let us [[concepts/hope|hope]] a new one!) and the
+Supposing two men, one of whom, [[smith|Smith]], has a loaf of bread, and the
+other of whom, Brown, has nothing. [[smith|Smith]] says to Brown: “If you will
+sing me a [[Song|song]] I will give you my loaf of bread.” Brown sings his [[Song|song]]
+and [[smith|Smith]] hands over the bread. A little later Brown wants to hear
+[[smith|Smith]] sing and he says to him: “If you will sing me a [[Song|song]] I will give
+you this loaf of bread.” A little later [[smith|Smith]] again wants to have a
+[[Song|song]] from Brown. Brown sings his [[Song|song]] (let us [[concepts/hope|hope]] a new one!) and the
 loaf of bread again changes hands and so on all day.
 
 Supposing each of these transactions to be recorded in a book of
-accounts. There will appear in Smith’s book: “Paid to Brown for singing
-songs two hundred loaves of bread,” and in Brown’s book: “Paid to Smith
-for singing songs two hundred loaves of bread.” The official who has to
+accounts. There will appear in [[smith|Smith]]’s book: “Paid to Brown for singing
+[[songs]] two hundred loaves of bread,” and in Brown’s book: “Paid to [[smith|Smith]]
+for singing [[songs]] two hundred loaves of bread.” The official who has to
 assess the national income will laboriously copy these figures into his
-book and will put down: “Daily income of Smith, 200 loaves of bread.
+book and will put down: “Daily income of [[smith|Smith]], 200 loaves of bread.
 Daily income of Brown, 200 loaves of bread. Total 400 loaves of bread.”
 Yet there is only one real loaf of bread there all the [[motifs/time|time]]! The
 other 399 are imaginary.
@@ -6940,7 +6940,7 @@ Supponiamo di avere mille famiglie, ognuna con 1.000 sterline all’anno; in tot
 
 Ora, supponiamo che tutte queste mille famiglie, tranne due, diventino povere a causa dei pagamenti di affitto e interessi a questi due uomini. Supponiamo che il loro reddito annuo scenda a poco meno di 500 sterline, mentre le restanti 500.000 sterline vengano pagate a quei due individui. In questo caso, ciascuno di loro avrebbe un reddito annuo di 250.000 sterline. Il dipinto di Van Dyck viene messo all’asta in questa comunità. Le famiglie povere, ovviamente, non hanno alcuna possibilità di partecipare all’asta: nessuno di loro può permettersi di spendere più di 50 sterline, per quanto desideri quel dipinto. Ma quei due uomini ricchi possono competere tra loro senza alcun rispetto. Hanno un enorme patrimonio a disposizione e il prezzo del dipinto potrebbe arrivare fino a 50.000 sterline.
 
-Non c’è nemmeno un penny di ricchezza reale in più nella comunità rispetto a prima. Eppure il vostro assessore del Governo verrà a valutare la comunità in modo molto diverso rispetto a come avrebbe fatto con la prima comunità. Stimerà il reddito totale in 1.000.000 sterline, le case, i mobili, ecc., in una certa somma, e aggiungerà: “Inoltre, un dipinto di Van Dyck valutato 50.000 sterline.” Ovviamente, nella vita reale, dove esistono grandi differenze di reddito, questo tipo di valutazioni viene moltiplicato per migliaia. È un altro esempio di come, man mano che le comunità diventano più complesse in una civiltà avanzata, emergano concetti economici immaginari.
+Non c’è nemmeno un penny di ricchezza reale in più nella comunità rispetto a prima. Eppure il vostro assessore del [[government|Governo]] verrà a valutare la comunità in modo molto diverso rispetto a come avrebbe fatto con la prima comunità. Stimerà il reddito totale in 1.000.000 sterline, le case, i mobili, ecc., in una certa somma, e aggiungerà: “Inoltre, un dipinto di Van Dyck valutato 50.000 sterline.” Ovviamente, nella vita reale, dove esistono grandi differenze di reddito, questo tipo di valutazioni viene moltiplicato per migliaia. È un altro esempio di come, man mano che le comunità diventano più complesse in una civiltà avanzata, emergano concetti economici immaginari.
 
 Introduco questo argomento soltanto come un semplice supplemento a questo piccolo libro; non ne fornirò troppi esempi, anche se si potrebbero continuare ad addurnerne all’infinito.
 
@@ -6950,13 +6950,13 @@ All’inizio di questo libro abbiamo visto che la ricchezza non consiste in cose
 
 Ma quando le persone valutano la ricchezza allo scopo di determinare l'imposta, e per capire quale sia, secondo loro, il reddito annuo totale di un paese, non contano soltanto i valori economici legati alle cose consumate da quel paese, ma anche i servizi.
 
-Ad esempio: se [[characters/jones|Jones]] è un bravo giocatore di carte, il ricco Smith potrebbe pagargli 500 sterline all’anno affinché viva nella sua casa e gli tenga compagnia giocando a carte. Conoscevo un caso in Galles del Sud in cui una persona faceva esattamente questo. È un caso estremo, ma tutti noi, ogni giorno, paghiamo denaro per servizi che non aggiungono alcun valore economico alle cose, eppure devono comunque essere considerati nel calcolo dei costi.
+Ad esempio: se [[characters/jones|Jones]] è un bravo giocatore di carte, il ricco [[smith|Smith]] potrebbe pagargli 500 sterline all’anno affinché viva nella sua [[house|casa]] e gli tenga compagnia giocando a carte. Conoscevo un caso in Galles del Sud in cui una persona faceva esattamente questo. È un caso estremo, ma tutti noi, ogni giorno, paghiamo denaro per servizi che non aggiungono alcun valore economico alle cose, eppure devono comunque essere considerati nel calcolo dei costi.
 
 Tutto il denaro che guadagno scrivendo appartiene a questo tipo. Ora, la valutazione di questi servizi genera un’enorme quantità di immaginari economici; per mostrarvi come possano funzionare, vi racconterò un caso estremo e assurdo.
 
-Supponiamo ci siano due uomini: uno, chiamato Smith, possiede un pane, mentre l’altro, chiamato Brown, non possiede nulla. Smith dice a Brown: “Se mi canti una canzone, ti darò il mio pane.” Brown canta la sua canzone e Smith gli consegna il pane. Poco dopo, Brown vuole che Smith canti anche lui e gli dice: “Se mi canti un’altra canzone, ti darò di nuovo questo pane.” Ancora più tardi, Smith chiede a Brown di cantare ancora. Brown canta la sua canzone, (speriamo sia una nuova!) e il pane passa di mano di nuovo, e così via per tutto il giorno.
+Supponiamo ci siano due uomini: uno, chiamato [[smith|Smith]], possiede un pane, mentre l’altro, chiamato Brown, non possiede nulla. [[smith|Smith]] dice a Brown: “Se mi canti una canzone, ti darò il mio pane.” Brown canta la sua canzone e [[smith|Smith]] gli consegna il pane. Poco dopo, Brown vuole che [[smith|Smith]] canti anche lui e gli dice: “Se mi canti un’altra canzone, ti darò di nuovo questo pane.” Ancora più tardi, [[smith|Smith]] chiede a Brown di cantare ancora. Brown canta la sua canzone, (speriamo sia una nuova!) e il pane passa di mano di nuovo, e così via per tutto il giorno.
 
-Supponendo che ciascuna di queste transazioni venga registrata in un libro contabile, nel libro di Smith apparirà la seguente annotazione: “Pagato a Brown per aver cantato >canti, duecento pani”; mentre nel libro di Brown sarà scritto: “Pagato a Smith per aver cantato >canti, duecento pani”. L’ufficiale incaricato di calcolare il reddito nazionale dovrà trascrivere con cura queste informazioni nel proprio libro, annotando: “Reddito giornaliero di Smith, 200 pani; reddito giornaliero di Brown, 200 pani; totale 400 pani”. Eppure, in realtà, esiste soltanto un pane reale; gli altri 399 sono puramente immaginari.
+Supponendo che ciascuna di queste transazioni venga registrata in un libro contabile, nel libro di [[smith|Smith]] apparirà la seguente annotazione: “Pagato a Brown per aver cantato [[songs|>canti]], duecento pani”; mentre nel libro di Brown sarà scritto: “Pagato a [[smith|Smith]] per aver cantato [[songs|>canti]], duecento pani”. L’ufficiale incaricato di calcolare il reddito nazionale dovrà trascrivere con cura queste informazioni nel proprio libro, annotando: “Reddito giornaliero di [[smith|Smith]], 200 pani; reddito giornaliero di Brown, 200 pani; totale 400 pani”. Eppure, in realtà, esiste soltanto un pane reale; gli altri 399 sono puramente immaginari.
 
 Ora, con un esempio assurdo ed estremo di questo tipo, si potrebbe dire: “Tutto ciò è molto divertente come scherzo, ma non ha alcuna rilevanza nella vita reale.” Invece ne ha molta. È proprio questo che accade costantemente in una società economica altamente sviluppata. Vado a un spettacolo pomeridiano e pago pochi soldi perché qualcuno mi diverta; la sera stesso vado a un concerto e pago altri pochi soldi per ascoltare qualcuno cantare. Il giorno dopo, quell’uomo (spero sinceramente che sia così) compra uno dei miei libri, e una grande parte del prezzo non viene pagata per i valori economici legati al materiale con cui è scritto il libro, ma per il lavoro di scrivere stesso, che in realtà non rappresenta affatto una creazione di ricchezza. L’editore mi paga le royalties, e io ne spendo una parte per assistere a uno spettacolo di acrobati in un teatro; gli acrobati pagano pochi soldi per mantenere la loro attività; e il pastore della chiesa, in un momento di entusiasmo, paga una quota di pochi soldi a un partito politico.
 

@@ -1,0 +1,158 @@
+---
+title: A Broadway Pageant
+author: Whitman
+type: work
+cluster: Identity · Free Verse · Eternal Return
+source: Authors/Whitman/_raw/101_A_Broadway_Pageant.md
+tags:
+  - graph/work
+  - author/Whitman
+  - form/free_verse
+  - motif/the_city
+  - histref/eastern_religion
+  - concept/nationalism_and_patriotism
+  - concept/memory_and_time
+  - topos/poet_as_prophet
+---
+
+*by Whitman*  ·  **Cluster:** [[clusters/identity-·-free-verse-·-eternal-return|Identity · Free Verse · Eternal Return]]
+
+> [!abstract] 
+> The Japanese envoys' procession down Broadway becomes a vision of the ancient Orient meeting young America; free-verse on the city, history, and global democratic union.
+
+## Connections
+
+**Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
+**Motifs:** [[motifs/city|City]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/memory-and-time|Memory and Time]]
+**Forms & Genres:** [[forms/free-verse|Free Verse]]
+**Historical References:** [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]
+
+## Testo integrale / Full text
+
+1  
+  Over the Western sea hither from Niphon come,  
+  Courteous, the swart-cheek’d two-sworded envoys,  
+  Leaning back in their open barouches, bare-headed, impassive,  
+  Ride to-day through Manhattan.  
+
+  Libertad! I do not know whether others behold what I behold,  
+  In the procession along with the nobles of Niphon, the errand-bearers,  
+  Bringing up the rear, hovering above, around, or in the ranks marching,  
+  But I will sing you a song of what I behold Libertad.  
+
+  When million-footed Manhattan unpent descends to her pavements,  
+  When the thunder-cracking guns arouse me with the proud roar love,  
+  When the round-mouth’d guns out of the smoke and smell I love  
+      spit their salutes,  
+  When the fire-flashing guns have fully alerted me, and  
+      heaven-clouds canopy my city with a delicate thin haze,  
+  When gorgeous the countless straight stems, the forests at the  
+      wharves, thicken with colors,  
+  When every ship richly drest carries her flag at the peak,  
+  When pennants trail and street-festoons hang from the windows,  
+  When Broadway is entirely given up to foot-passengers and  
+      foot-standers, when the mass is densest,  
+  When the facades of the houses are alive with people, when eyes  
+      gaze riveted tens of thousands at a time,  
+  When the guests from the islands advance, when the pageant moves  
+      forward visible,  
+  When the summons is made, when the answer that waited thousands  
+      of years answers,  
+  I too arising, answering, descend to the pavements, merge with the  
+      crowd, and gaze with them.  
+
+       2  
+  Superb-faced Manhattan!  
+  Comrade Americanos! to us, then at last the Orient comes.  
+  To us, my city,  
+  Where our tall-topt marble and iron beauties range on opposite  
+      sides, to walk in the space between,  
+  To-day our Antipodes comes.  
+
+  The Originatress comes,  
+  The nest of languages, the bequeather of poems, the race of eld,  
+  Florid with blood, pensive, rapt with musings, hot with passion,  
+  Sultry with perfume, with ample and flowing garments,  
+  With sunburnt visage, with intense soul and glittering eyes,  
+  The race of Brahma comes.  
+
+  See my cantabile! these and more are flashing to us from the procession,  
+  As it moves changing, a kaleidoscope divine it moves changing before us.  
+
+
+  For not the envoys nor the tann’d Japanee from his island only,  
+  Lithe and silent the Hindoo appears, the Asiatic continent itself  
+      appears, the past, the dead,  
+  The murky night-morning of wonder and fable inscrutable,  
+  The envelop’d mysteries, the old and unknown hive-bees,  
+  The north, the sweltering south, eastern Assyria, the Hebrews, the  
+      ancient of ancients,  
+  Vast desolated cities, the gliding present, all of these and more  
+      are in the pageant-procession.  
+
+  Geography, the world, is in it,  
+  The Great Sea, the brood of islands, Polynesia, the coast beyond,  
+  The coast you henceforth are facing--you Libertad! from your Western  
+      golden shores,  
+  The countries there with their populations, the millions en-masse  
+      are curiously here,  
+  The swarming market-places, the temples with idols ranged along the  
+      sides or at the end, bonze, brahmin, and llama,  
+  Mandarin, farmer, merchant, mechanic, and fisherman,  
+  The singing-girl and the dancing-girl, the ecstatic persons, the  
+      secluded emperors,  
+  Confucius himself, the great poets and heroes, the warriors, the castes,  
+      all,  
+  Trooping up, crowding from all directions, from the Altay mountains,  
+  From Thibet, from the four winding and far-flowing rivers of China,  
+  From the southern peninsulas and the demi-continental islands, from  
+      Malaysia,  
+  These and whatever belongs to them palpable show forth to me, and  
+      are seiz’d by me,  
+  And I am seiz’d by them, and friendlily held by them,  
+  Till as here them all I chant, Libertad! for themselves and for you.  
+
+  For I too raising my voice join the ranks of this pageant,  
+  I am the chanter, I chant aloud over the pageant,  
+  I chant the world on my Western sea,  
+  I chant copious the islands beyond, thick as stars in the sky,  
+  I chant the new empire grander than any before, as in a vision it  
+      comes to me,  
+  I chant America the mistress, I chant a greater supremacy,  
+  I chant projected a thousand blooming cities yet in time on those  
+      groups of sea-islands,  
+  My sail-ships and steam-ships threading the archipelagoes,  
+  My stars and stripes fluttering in the wind,  
+  Commerce opening, the sleep of ages having done its work, races  
+      reborn, refresh’d,  
+  Lives, works resumed--the object I know not--but the old, the Asiatic  
+      renew’d as it must be,  
+  Commencing from this day surrounded by the world.  
+
+       3  
+  And you Libertad of the world!  
+  You shall sit in the middle well-pois’d thousands and thousands of years,  
+  As to-day from one side the nobles of Asia come to you,  
+  As to-morrow from the other side the queen of England sends her  
+      eldest son to you.  
+
+  The sign is reversing, the orb is enclosed,  
+  The ring is circled, the journey is done,  
+  The box-lid is but perceptibly open’d, nevertheless the perfume  
+      pours copiously out of the whole box.  
+
+  Young Libertad! with the venerable Asia, the all-mother,  
+  Be considerate with her now and ever hot Libertad, for you are all,  
+  Bend your proud neck to the long-off mother now sending messages  
+      over the archipelagoes to you,  
+  Bend your proud neck low for once, young Libertad.  
+
+  Here the children straying westward so long? so wide the tramping?  
+  Were the precedent dim ages debouching westward from Paradise so long?  
+  Were the centuries steadily footing it that way, all the while  
+      unknown, for you, for reasons?  
+
+  They are justified, they are accomplish’d, they shall now be turn’d  
+      the other way also, to travel toward you thence,  
+  They shall now also march obediently eastward for your sake Libertad.  

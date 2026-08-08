@@ -47,7 +47,7 @@ tags:
 **Forms & Genres:** [[forms/epistolary-diary-novel|Epistolary Diary Novel]], [[forms/gothic-novel|Gothic Novel]]
 **Themes & Concepts:** [[concepts/mesmerism|Mesmerism]], [[concepts/madness|Madness]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/self-deception|Self-Deception]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/reason-and-rationalism|Reason and Rationalism]]
 **Motifs:** [[motifs/eyes-and-sight|Eyes and Sight]], [[concepts/uncanny|Uncanny]], [[motifs/chains|Chains]]
-**Characters:** [[characters/austin-gilroy|Austin Gilroy]], [[characters/miss-penclosa|Miss Penclosa]], [[characters/agatha-marden|Agatha Marden]]
-**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/antihero|Antihero]]
+**Characters:** Austin Gilroy, Miss Penclosa, Agatha Marden
+**Archetypes:** Femme Fatale, Antihero
 
 **Also relevant to:** [[clusters/greek-mythology-·-lust-sexual-desire-·-desire|Greek Mythology · Lust Sexual Desire · Desire]]

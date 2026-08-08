@@ -49,12 +49,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/villain|Villain]], [[archetypes/innocent|Innocent]], [[archetypes/scapegoat|Scapegoat]]
+**Archetypes:** Trickster, Villain, Innocent, Scapegoat
 **Motifs:** [[motifs/garden|Garden]], [[motifs/flowers|Flowers]], [[motifs/animals|Animals]], [[motifs/storm|Storm]], [[motifs/water|Water]], [[motifs/death|Death]], [[motifs/seasons|Seasons]]
 **Themes & Concepts:** [[concepts/friendship|Friendship]], [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/class-conflict|Class Conflict]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/fable|Fable]], [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/satire|Satire]]
 **Settings:** [[settings/pastoral-countryside|Pastoral Countryside]]
-**Characters:** [[characters/little-hans|Little Hans]], [[characters/hugh-the-miller|Hugh the Miller]]
+**Characters:** Little Hans, Hugh the Miller
 
 ## Testo integrale / Full text
 

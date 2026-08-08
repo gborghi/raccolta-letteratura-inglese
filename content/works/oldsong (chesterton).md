@@ -49,11 +49,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/avenger|Avenger]], [[archetypes/poet-as-prophet-(2)|Poet as Prophet (2)]]
+**Archetypes:** Avenger, Poet as Prophet (2)
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]], [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[characters/robin-hood|Robin Hood]], [[characters/cobbett|Cobbett]]
+**Characters:** Robin Hood, Cobbett
 
 **Motifs:** [[motifs/city|City]], [[motifs/money-and-gold|Money and Gold]], [[motifs/horse|Horse]], [[motifs/storm|Storm]], [[motifs/lightning|Lightning]], [[motifs/machine|Machine]]
 **Themes & Concepts:** [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/common-man|Common Man]], [[concepts/apocalypse|Apocalypse]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/economics|Economics]], [[concepts/history|History]]

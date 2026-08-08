@@ -14,7 +14,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#104_the_eolian_harp|THE EOLIAN HARP (Coleridge)]]
+- [[works/the-eolian-harp-(coleridge)|THE EOLIAN HARP (Coleridge)]]
 
 </div>
 

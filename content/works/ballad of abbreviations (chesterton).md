@@ -36,7 +36,7 @@ tags:
 
 **Historical References:** [[historical-references/theodore-dreiser|Theodore Dreiser]], [[historical-references/prohibition-(us)|Prohibition (US)]]
 
-**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
+**Archetypes:** Self-Made Man
 
 **Settings:** [[settings/america|America]], [[settings/modern-metropolis|Modern Metropolis]]
 

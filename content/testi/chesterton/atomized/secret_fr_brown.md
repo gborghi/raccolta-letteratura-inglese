@@ -80,7 +80,7 @@ cuffs and cuff-links had something overpowering in their polish. But
 his long face had nothing of that languor which is associated with long
 cuffs and manicuring in the caricatures of our own country. It was
 rather arrestingly alert and keen; and the eyes had an [[archetypes/innocent|innocent]]
-intensity of inquiry that does not go often with grey hairs. That alone
+intensity of inquiry that does not go often with grey hairs. That [[Alone|alone]]
 might have marked the man's nationality, as [[motifs/well|well]] the nasal note in his
 refined voice and his rather too ready assumption of the vast antiquity
 of all the European things around him. This was, indeed, no less a
@@ -97,7 +97,7 @@ society. He was fond of his wife and family; he never went farther
 afield than was needed for a little shooting; and he seemed, to the
 American globe-trotter, the embodiment of that cult of a sunny
 respectability and a temperate luxury, which the American was wise
-enough to see and admire in the Mediterranean peoples. The rolling stone
+enough to see and admire in the Mediterranean peoples. The [[rolling]] stone
 from the West was glad to rest for a moment on this rock in the South
 that had gathered so very much moss. But Mr. Chace had heard of Father
 Brown, and his tone faintly changed, as towards a celebrity. The
@@ -105,7 +105,7 @@ interviewing instinct awoke, tactful but tense. If he did try to draw
 [[characters/father-brown|Father Brown]], as if he were a tooth, it was done with the most dexterous
 and painless American dentistry.
 
-They were sitting in a sort of partly unroofed outer [[settings/court|court]] of the house,
+They were sitting in a sort of partly unroofed outer [[settings/court|court]] of the [[house]],
 such as often forms the entrance to Spanish houses. It was dusk turning
 to dark; and as all that mountain air sharpens suddenly after sunset, a
 small stove stood on the flagstones, glowing with red eyes like a
@@ -142,7 +142,7 @@ Absence of method. . . . Absence of mind, too, I'm afraid."
 "I should say of strictly tabulated scientific method," went on the
 inquirer. "[[characters/edgar|Edgar]] Poe throws off several little essays in a
 conversational form, explaining Dupin's method, with its fine links of
-logic. Dr. Watson had to listen to some pretty exact expositions of
+[[logic]]. Dr. Watson had to listen to some pretty exact expositions of
 Holmes's method with its observation of material details. But nobody
 seems to have got on to any full account of your method. [[characters/father-brown|Father Brown]],
 and I was informed you declined the offer to give a series of lectures
@@ -281,7 +281,7 @@ up the short and sharp perspective of a straight [[motifs/road|road]] to a pool 
 After an instant's [[motifs/silence|silence]] he resumed: "It's so real a religious
 exercise that I'd rather not have said anything about it. But I simply
 couldn't have you going off and telling all your countrymen that I had a
-secret magic connected with Thought-Forms, could I? I've put it badly,
+secret [[Magic|magic]] connected with Thought-Forms, could I? I've put it badly,
 but it's true. No man's really any good till he knows how bad he is, or
 might be; till he's realized exactly how much right he has to all this
 snobbery, and sneering, and talking about 'criminals,' as if they were
@@ -346,14 +346,14 @@ dark, good-humoured man with a strip of black moustache, was a
 professional police [[archetypes/detective|detective]]; the latter, a sharp-faced, sensitive-
 looking gentleman with light hair, was an amateur interested in
 detection. It will come as a shock to the readers of the best scientific
-romance to learn that it was the policeman who was talking and the
+[[Romance|romance]] to learn that it was the policeman who was talking and the
 amateur who was listening, even with a certain respect.
 
 "Ours is the only trade," said Bagshaw, "in which the professional is
 always supposed to be wrong. After all, people don't write stories in
 which hairdressers can't cut hair and have to be helped by a customer;
-or in which a cabman can't drive a cab until his fare explains to him
-the philosophy of cab-driving. For all that, I'd never deny that we
+or in which a [[cabman]] can't drive a cab until his fare explains to him
+the [[philosophy]] of cab-driving. For all that, I'd never deny that we
 often tend to get into a rut: or, in other words, have the disadvantages
 of going by a rule. Where the romancers are wrong is, that they don't
 allow us even the advantages of going by a rule."
@@ -382,10 +382,10 @@ whether they don't know too much."
 
 "You don't seriously mean to say," cried Underhill incredulously, "that
 you know anything about strange people in a strange street. That if a
-man walked out of that house over there, you would know anything about
+man walked out of that [[house]] over there, you would know anything about
 him?"
 
-"I should if he was the householder," answered Bagshaw. "That house is
+"I should if he was the householder," answered Bagshaw. "That [[house]] is
 rented by a literary man of Anglo-Roumanian extraction, who generally
 lives in [[settings/paris|Paris]], but is over here in connexion with some poetical play of
 his. His name's Osric Orm, one of the new poets, and pretty steep to
@@ -399,9 +399,9 @@ all of them."
 "I know a few," answered Bagshaw. "This [[motifs/garden|garden]] wall we're walking under
 is at the end of the grounds of Sir Humphrey Gwynne, better known as Mr.
 Justice Gwynne, the old judge who made such a row about spying during
-the war. The house next door to it belongs to a wealthy cigar merchant.
+the war. The [[house]] next door to it belongs to a wealthy cigar merchant.
 He comes from Spanish-[[settings/america|America]] and looks very swarthy and Spanish
-himself; but he bears the very English name of Buller. The house beyond
+himself; but he bears the very English name of Buller. The [[house]] beyond
 that--did you hear that noise?"
 
 "I heard something," said Underhill, "but I really don't know what it
@@ -431,8 +431,8 @@ plants of a [[motifs/garden|garden]] border.
 
 The [[motifs/garden|garden]] of Mr. Justice Gwynne by [[motifs/night|night]] was rather a singular
 spectacle. It was large and lay on the empty edge of the suburb, in the
-[[archetypes/shadow|shadow]] of a tall, dark house that was the last in its line of houses.
-The house was literally dark, being shuttered and unlighted, at least on
+[[archetypes/shadow|shadow]] of a tall, dark [[house]] that was the last in its line of houses.
+The [[house]] was literally dark, being shuttered and unlighted, at least on
 the side overlooking the [[motifs/garden|garden]]. But the [[motifs/garden|garden]] itself, which lay in its
 [[archetypes/shadow|shadow]]: and should have been a tract of absolute darkness, showed a
 random glitter, like that of fading fireworks; as if a giant rocket had
@@ -446,7 +446,7 @@ were kindled under it.
 illuminated."
 
 "No," answered Bagshaw. "It's a hobby of his, and I believe he prefers
-to do it when he's alone. He likes playing with a little plant of
+to do it when he's [[Alone|alone]]. He likes playing with a little plant of
 electricity that he works from that bungalow or hut over there, where he
 does his work and keeps his papers. Buller, who knows him very [[motifs/well|well]],
 says the coloured lamps are rather more often a sign he's not to be
@@ -465,15 +465,15 @@ uomo grande, bruno, di indole gioviale, con una striscia di baffi neri,
 era un [[archetypes/detective|detective]] di professione, al servizio della polizia; il secondo,
 un signore dal volto affilato e dall'aria sensibile, coi capelli chiari,
 era un dilettante appassionato di investigazione. Riuscirà uno shock,
-per i lettori del miglior romanzo scientifico, apprendere che era il
+per i lettori del miglior [[Romance|romanzo]] scientifico, apprendere che era il
 poliziotto a parlare ed era il dilettante ad ascoltare, e per giunta con
 una certa deferenza.
 
 «Il nostro è l'unico mestiere», disse Bagshaw, «in cui si dà sempre per
 scontato che il professionista abbia torto. In fondo, nessuno scrive
 storie in cui i parrucchieri non sanno tagliare i capelli e devono
-farsi aiutare da un cliente; o in cui un cabman non sa guidare la
-carrozza finché il passeggero non gli spiega la filosofia del
+farsi aiutare da un cliente; o in cui un [[cabman]] non sa guidare la
+carrozza finché il passeggero non gli spiega la [[philosophy|filosofia]] del
 condurre carrozze. Ciò nondimeno, non negherei mai che spesso tendiamo a
 incanalarci in un solco: o, in altre parole, che scontiamo gli svantaggi
 del procedere secondo una regola. Il torto dei romanzieri è che non ci
@@ -506,11 +506,11 @@ cittadino, talvolta mi [[concepts/wonder|domando]] se non ne sappiano troppe.»
 
 «Non vorrà mica seriamente sostenere», esclamò Underhill incredulo,
 «che lei sappia qualcosa sulla gente estranea in una strada estranea.
-Che se un uomo uscisse da quella casa laggiù, lei saprebbe qualcosa
+Che se un uomo uscisse da quella [[house|casa]] laggiù, lei saprebbe qualcosa
 su di lui?»
 
 «Lo saprei, se fosse il padrone di casa», rispose Bagshaw. «Quella
-casa è affittata da un letterato di origine anglo-rumena, che di solito
+[[house|casa]] è affittata da un letterato di origine anglo-rumena, che di solito
 vive a [[settings/paris|Parigi]], ma è qui da noi in relazione con un suo dramma poetico.
 Si chiama Osric Orm, uno dei nuovi poeti, e piuttosto arduo da leggere,
 a quanto pare.»
@@ -523,10 +523,10 @@ conoscerli tutti.»
 «Ne conosco alcuni», rispose Bagshaw. «Questo muro di [[motifs/garden|giardino]] sotto cui
 stiamo camminando è in fondo alla tenuta di Sir Humphrey Gwynne, più
 noto come il giudice Gwynne, il vecchio magistrato che fece tanto
-chiasso a proposito dello spionaggio durante la guerra. La casa
+chiasso a proposito dello spionaggio durante la guerra. La [[house|casa]]
 attigua appartiene a un ricco mercante di sigari. Viene
 dall'[[settings/america|America]] spagnola e ha un aspetto assai fosco e spagnolo lui
-stesso; eppure porta il nome quanto mai inglese di Buller. La casa al
+stesso; eppure porta il nome quanto mai inglese di Buller. La [[house|casa]] al
 di là di quella... ha sentito quel rumore?»
 
 «Ho sentito qualcosa», disse Underhill, «ma davvero non so cosa fosse.»
@@ -555,8 +555,8 @@ ginocchio tra le piante scricchiolanti di un'aiuola di [[motifs/garden|giardino]
 
 Il [[motifs/garden|giardino]] del giudice Gwynne, di [[motifs/night|notte]], era uno spettacolo alquanto
 singolare. Era vasto e giaceva sull'orlo deserto del sobborgo,
-nell'[[archetypes/shadow|ombra]] di un'alta e scura casa che era l'ultima della sua fila
-di case. La casa era letteralmente buia, con le imposte serrate e
+nell'[[archetypes/shadow|ombra]] di un'alta e scura [[house|casa]] che era l'ultima della sua fila
+di case. La [[house|casa]] era letteralmente buia, con le imposte serrate e
 senza luci, almeno sul lato che dava sul [[motifs/garden|giardino]]. Ma il [[motifs/garden|giardino]] stesso,
 che giaceva nella sua [[archetypes/shadow|ombra]] e avrebbe dovuto essere una distesa di
 tenebra assoluta, mostrava uno scintillio disordinato, come quello di
@@ -570,7 +570,7 @@ tinte pallide come se una lampada fosse accesa sotto di esso.
 «Sta dando una festa?» chiese Underhill. «Il [[motifs/garden|giardino]] pare illuminato.»
 
 «No», rispose Bagshaw. «È un suo passatempo, e credo che preferisca
-dedicarvisi quando è solo. Gli piace trastullarsi con un piccolo
+dedicarvisi quando è [[Alone|solo]]. Gli piace trastullarsi con un piccolo
 impianto elettrico che aziona da quel bungalow o capanno laggiù, dove
 svolge il suo lavoro e custodisce le sue carte. Buller, che lo conosce
 molto [[motifs/well|bene]], dice che le lampade colorate sono, il più delle volte, un
@@ -600,10 +600,10 @@ the pool and the fallen figure. Underhill was trotting steadily in that
 straight track, when something happened that startled him for the
 moment. Bagshaw, who was travelling as steadily as a bullet towards the
 black figure by the luminous pool, suddenly turned at a sharp angle and
-began to run even more rapidly towards the [[archetypes/shadow|shadow]] of the house.
+began to run even more rapidly towards the [[archetypes/shadow|shadow]] of the [[house]].
 Underhill could not imagine what he meant by the altered direction. The
 next moment, when the [[archetypes/detective|detective]] had vanished into the [[archetypes/shadow|shadow]] of the
-house, there came out of that obscurity the sound of a scuffle and a
+[[house]], there came out of that obscurity the sound of a scuffle and a
 curse; and Bagshaw returned lugging with him a little struggling man
 with red hair. The captive had evidently been escaping under the shelter
 of the building, when the quicker ears of the [[archetypes/detective|detective]] had heard him
@@ -641,14 +641,14 @@ by the [[motifs/garden|garden]] door."
 "Then why didn't he use the [[motifs/garden|garden]] door?" demanded the [[motifs/cross|cross]]-examiner.
 
 "How should I know?" retorted Flood. "Because it was shut, I suppose.
-But you'd better ask him, not me; he's coming towards the house at this
+But you'd better ask him, not me; he's coming towards the [[house]] at this
 minute."
 
 There was, indeed, another shadowy figure beginning to be visible
 through the [[motifs/fire|fire]]-shot gloaming, a squat, square-headed figure,
 wearing a red waistcoat as the most conspicuous part of a rather shabby
 livery. He appeared to be making with unobtrusive haste towards a side-
-door in the house, until Bagshaw halloed to him to halt. He drew nearer
+door in the [[house]], until Bagshaw halloed to him to halt. He drew nearer
 to them very reluctantly, revealing a heavy, yellow face, with a touch
 of something Asiatic which was consonant with his flat, blue-black
 hair.
@@ -661,7 +661,7 @@ from Ireland; the only man I know round here is the priest at St.
 Dominic's Church--[[characters/father-brown|Father Brown]]."
 
 "Neither of you must leave this place," said Bagshaw, and then added to
-the servant: "But you can go into the house and ring up St. Dominic's
+the servant: "But you can go into the [[house]] and ring up St. Dominic's
 Presbytery and ask [[characters/father-brown|Father Brown]] if he would mind coming round here at
 once. No tricks, mind."
 
@@ -703,7 +703,7 @@ Un istante dopo Underhill vide ciò che l'altro aveva visto. L'anello opalescent
 
 «Andiamo», gridò il [[archetypes/detective|detective]] con voce tagliente, «quello a me sembra proprio...»
 
-La sua voce si perse, mentre correva attraverso l'ampio prato, debolmente luminoso nella luce artificiale, tagliando in linea retta il grande [[motifs/garden|giardino]] verso lo specchio d'acqua e la figura riversa. Underhill trotterellava con costanza lungo quella traiettoria diritta, quando accadde qualcosa che per un momento lo colse di sorpresa. Bagshaw, che avanzava impassibile come una pallottola verso la figura nera presso lo stagno luminoso, deviò improvvisamente con un angolo netto e prese a correre ancora più rapidamente verso l'[[archetypes/shadow|ombra]] della casa. Underhill non riusciva a immaginare che cosa significasse quel cambio di direzione. L'attimo dopo, quando il [[archetypes/detective|detective]] fu scomparso nell'[[archetypes/shadow|ombra]] della casa, da quell'oscurità venne il rumore di una colluttazione e un'imprecazione; e Bagshaw tornò trascinandosi dietro un ometto dai capelli rossi che si dibatteva. Il prigioniero stava evidentemente fuggendo al riparo dell'edificio, quando l'orecchio più fine del [[archetypes/detective|detective]] lo aveva udito frusciare come un uccello tra i cespugli.
+La sua voce si perse, mentre correva attraverso l'ampio prato, debolmente luminoso nella luce artificiale, tagliando in linea retta il grande [[motifs/garden|giardino]] verso lo specchio d'acqua e la figura riversa. Underhill trotterellava con costanza lungo quella traiettoria diritta, quando accadde qualcosa che per un momento lo colse di sorpresa. Bagshaw, che avanzava impassibile come una pallottola verso la figura nera presso lo stagno luminoso, deviò improvvisamente con un angolo netto e prese a correre ancora più rapidamente verso l'[[archetypes/shadow|ombra]] della [[house|casa]]. Underhill non riusciva a immaginare che cosa significasse quel cambio di direzione. L'attimo dopo, quando il [[archetypes/detective|detective]] fu scomparso nell'[[archetypes/shadow|ombra]] della [[house|casa]], da quell'oscurità venne il rumore di una colluttazione e un'imprecazione; e Bagshaw tornò trascinandosi dietro un ometto dai capelli rossi che si dibatteva. Il prigioniero stava evidentemente fuggendo al riparo dell'edificio, quando l'orecchio più fine del [[archetypes/detective|detective]] lo aveva udito frusciare come un uccello tra i cespugli.
 
 «Underhill», disse il [[archetypes/detective|detective]], «vorrei che corresse a vedere che cosa è successo laggiù, presso lo stagno. E ora, chi siete voi?» chiese, fermandosi di colpo. «Come vi chiamate?»
 
@@ -723,15 +723,15 @@ L'uomo che si faceva chiamare Flood assunse un'espressione altrettanto torva.
 
 «E allora perché non ha usato la porta del [[motifs/garden|giardino]]?» incalzò l'inquisitore [[motifs/cross|serrato]].
 
-«E come faccio a saperlo?» ribatté Flood. «Perché era chiusa, immagino. Ma è meglio che lo chiediate a lui, non a me; sta venendo verso la casa proprio in questo momento.»
+«E come faccio a saperlo?» ribatté Flood. «Perché era chiusa, immagino. Ma è meglio che lo chiediate a lui, non a me; sta venendo verso la [[house|casa]] proprio in questo momento.»
 
-C'era, in effetti, un'altra figura d'ombra che cominciava a rendersi visibile attraverso la penombra trapunta di [[motifs/fire|fuoco]], una figura tozza e dalla testa quadra, che indossava un panciotto rosso come l'elemento più vistoso di una livrea piuttosto malandata. Sembrava dirigersi con discreta premura verso una porta laterale della casa, finché Bagshaw non lo apostrofò gridandogli di fermarsi. Si avvicinò a loro con grande riluttanza, rivelando un volto pesante e giallastro, con un che di asiatico che ben si accordava con i suoi capelli piatti, di un nero bluastro.
+C'era, in effetti, un'altra figura d'ombra che cominciava a rendersi visibile attraverso la penombra trapunta di [[motifs/fire|fuoco]], una figura tozza e dalla testa quadra, che indossava un panciotto rosso come l'elemento più vistoso di una livrea piuttosto malandata. Sembrava dirigersi con discreta premura verso una porta laterale della [[house|casa]], finché Bagshaw non lo apostrofò gridandogli di fermarsi. Si avvicinò a loro con grande riluttanza, rivelando un volto pesante e giallastro, con un che di asiatico che ben si accordava con i suoi capelli piatti, di un nero bluastro.
 
 Bagshaw si voltò bruscamente verso l'uomo chiamato Flood. «C'è qualcuno, qui», disse, «che possa testimoniare la vostra [[concepts/identity|identità]]?»
 
 «Non molti, nemmeno in questo Paese», brontolò Flood. «Sono appena arrivato dall'Irlanda; l'unico uomo che conosco da queste parti è il prete della chiesa di San Domenico: [[characters/father-brown|padre Brown]].»
 
-«Nessuno dei due deve lasciare questo luogo», disse Bagshaw, e poi aggiunse rivolto al domestico: «Ma tu puoi entrare in casa e telefonare alla canonica di San Domenico e chiedere a [[characters/father-brown|padre Brown]] se gli dispiacerebbe venire qui subito. Niente scherzi, mi raccomando.»
+«Nessuno dei due deve lasciare questo luogo», disse Bagshaw, e poi aggiunse rivolto al domestico: «Ma tu puoi entrare in [[house|casa]] e telefonare alla canonica di San Domenico e chiedere a [[characters/father-brown|padre Brown]] se gli dispiacerebbe venire qui subito. Niente scherzi, mi raccomando.»
 
 Mentre l'energico [[archetypes/detective|detective]] metteva in sicurezza i potenziali fuggitivi, il suo compagno, per sua indicazione, si era affrettato verso la scena vera e propria della [[forms/tragedy|tragedia]]. Era una scena abbastanza strana; e, in verità, se la [[forms/tragedy|tragedia]] non fosse stata tragica sarebbe stata altamente fantastica. Il morto (poiché il più breve esame lo dimostrò morto) giaceva con la testa nello stagno, dove il bagliore dell'illuminazione artificiale cingeva il capo con qualcosa che aveva l'aspetto di un alone empio. Il volto era scarno e piuttosto sinistro, la fronte calva, e i radi riccioli grigio scuro, come anelli di ferro; e, nonostante il danno prodotto dalla ferita di pallottola alla tempia, Underhill non ebbe difficoltà a riconoscere i lineamenti che aveva visto nei molti ritratti di Sir Humphrey Gwynne. Il morto era in abito da sera, e le sue lunghe gambe nere, tanto esili da parere quasi ragnesche, erano scomposte in angoli diversi su per la ripida sponda dalla quale era caduto. Come per un bizzarro capriccio di arabesco diabolico, il [[motifs/blood|sangue]] usciva vorticando, molto lentamente, nell'[[motifs/water|acqua]] luminosa in anelli serpentini, simili al cremisi trasparente delle nubi al tramonto.
 
@@ -785,9 +785,9 @@ certainly looks as if it had something to do with it."
 looks as if there was one person who had nothing to do with it; and that
 is Mr. [[characters/michael|Michael]] Flood, who entered the [[motifs/garden|garden]] over the wall in an
 irregular fashion, and then tried to leave it in the same irregular
-fashion. It is his irregularity that makes me believe in his innocence."
+fashion. It is his irregularity that makes me believe in his [[innocence]]."
 
-"Let us go into the house," said Bagshaw abruptly.
+"Let us go into the [[house]]," said Bagshaw abruptly.
 
 As they passed in at the side-door, the servant leading the way,
 Bagshaw fell back a pace or two and spoke to his friend.
@@ -807,7 +807,7 @@ slipping in?"
 make him out. He seems to be scared of something."
 
 Entering by the side-door, they found themselves at the inner end of
-the entrance hall, which ran along the side of the house and ended with
+the entrance hall, which ran along the side of the [[house]] and ended with
 the front door, surmounted by a dreary fanlight of the old-fashioned
 pattern. A faint, grey light was beginning to outline its radiation upon
 the darkness, like some dismal and discoloured sunrise; but what light
@@ -820,7 +820,7 @@ along with pale and gleaming fragments of a broken [[motifs/mirror|mirror]], of 
 almost empty frame hung behind them on the wall at the end of the
 vestibule. At right angles to this entrance, and directly opposite the
 side-door as they entered, was another and similar passage leading
-into the rest of the house. At the other end of it could be seen the
+into the rest of the [[house]]. At the other end of it could be seen the
 telephone which the servant had used to summon the priest; and a half-
 open door, showing, even through the crack, the serried ranks of great
 leather-bound books, marked the entrance to the judge's study.
@@ -858,7 +858,7 @@ bronze of the lamp, the dull gold that glimmered in the frame of the
 broken [[motifs/mirror|mirror]].
 
 "They say it's bad luck to break a looking-glass," he said. "This
-looks like the very house of ill-luck. There's something about the
+looks like the very [[house]] of ill-luck. There's something about the
 very furniture â "
 
 "That's rather odd," said Bagshaw sharply. "I thought the front door
@@ -891,9 +891,9 @@ Poi udì Bagshaw che diceva al prete:
 
 «Avete ragione», disse Bagshaw dopo una pausa. «Se avete visto ciò, sembra davvero che abbia a che fare con la faccenda.»
 
-«E se ha a che fare con essa», disse il prete con grande dolcezza, «pare che vi sia una persona che non c'entra affatto; e cioè il signor [[characters/michael|Michael]] Flood, il quale è entrato nel [[motifs/garden|giardino]] scavalcando il muro in modo irregolare, e poi ha cercato di uscirne nello stesso modo irregolare. È proprio la sua irregolarità che mi fa credere alla sua innocenza.»
+«E se ha a che fare con essa», disse il prete con grande dolcezza, «pare che vi sia una persona che non c'entra affatto; e cioè il signor [[characters/michael|Michael]] Flood, il quale è entrato nel [[motifs/garden|giardino]] scavalcando il muro in modo irregolare, e poi ha cercato di uscirne nello stesso modo irregolare. È proprio la sua irregolarità che mi fa credere alla sua [[innocence|innocenza]].»
 
-«Entriamo nella casa», disse Bagshaw bruscamente.
+«Entriamo nella [[house|casa]]», disse Bagshaw bruscamente.
 
 Mentre passavano dalla porta laterale, con il domestico che apriva la strada, Bagshaw rimase un passo o due indietro e parlò al suo amico.
 
@@ -903,7 +903,7 @@ Mentre passavano dalla porta laterale, con il domestico che apriva la strada, Ba
 
 «No, nessuna a cui io riesca a dar senso», rispose il [[archetypes/detective|detective]]. «Non riesco a capirlo. Sembra che abbia paura di qualcosa.»
 
-Entrando dalla porta laterale, si trovarono all'estremità interna dell'atrio d'ingresso, che correva lungo il fianco della casa e terminava con la porta principale, sormontata da una tetra lunetta a ventaglio del vecchio stile. Una debole luce grigia cominciava a disegnare la sua raggiera sull'oscurità, come una qualche squallida e scolorita aurora; ma quel poco di luce che v'era nell'atrio proveniva da un'unica lampada schermata, anch'essa d'un genere antiquato, posata su una mensola in un angolo. Alla sua luce Bagshaw poté distinguere i rottami di cui Brown aveva parlato. Un'alta palma, dalle lunghe [[motifs/leaves|foglie]] pendenti, era caduta lunga distesa, e il suo vaso rosso scuro era andato in cocci. Giacevano sparsi sul tappeto, insieme ai pallidi e luccicanti frammenti di uno [[motifs/mirror|specchio]] infranto, la cui cornice quasi vuota pendeva dietro di essi alla parete in fondo al vestibolo. Ad angolo retto rispetto a questo ingresso, e proprio di fronte alla porta laterale da cui erano entrati, si apriva un altro corridoio simile che conduceva al resto della casa. All'altra estremità di esso si scorgeva il telefono che il domestico aveva usato per chiamare il prete; e una porta socchiusa, che lasciava intravedere, persino attraverso la fessura, le fitte schiere di grandi volumi rilegati in cuoio, segnava l'ingresso dello studio del giudice.
+Entrando dalla porta laterale, si trovarono all'estremità interna dell'atrio d'ingresso, che correva lungo il fianco della [[house|casa]] e terminava con la porta principale, sormontata da una tetra lunetta a ventaglio del vecchio stile. Una debole luce grigia cominciava a disegnare la sua raggiera sull'oscurità, come una qualche squallida e scolorita aurora; ma quel poco di luce che v'era nell'atrio proveniva da un'unica lampada schermata, anch'essa d'un genere antiquato, posata su una mensola in un angolo. Alla sua luce Bagshaw poté distinguere i rottami di cui Brown aveva parlato. Un'alta palma, dalle lunghe [[motifs/leaves|foglie]] pendenti, era caduta lunga distesa, e il suo vaso rosso scuro era andato in cocci. Giacevano sparsi sul tappeto, insieme ai pallidi e luccicanti frammenti di uno [[motifs/mirror|specchio]] infranto, la cui cornice quasi vuota pendeva dietro di essi alla parete in fondo al vestibolo. Ad angolo retto rispetto a questo ingresso, e proprio di fronte alla porta laterale da cui erano entrati, si apriva un altro corridoio simile che conduceva al resto della [[house|casa]]. All'altra estremità di esso si scorgeva il telefono che il domestico aveva usato per chiamare il prete; e una porta socchiusa, che lasciava intravedere, persino attraverso la fessura, le fitte schiere di grandi volumi rilegati in cuoio, segnava l'ingresso dello studio del giudice.
 
 Bagshaw stava con lo sguardo abbassato sul vaso caduto e sui frammenti mescolati ai suoi piedi.
 
@@ -919,7 +919,7 @@ Le altre stanze, tuttavia, rivelarono ben poco, benché Bagshaw indicasse con si
 
 Alla fine tornarono nell'atrio, dirigendosi verso la porta principale, con [[characters/father-brown|Father Brown]] che lasciava vagare lo sguardo tutt'intorno in modo piuttosto distratto. I due corridoi, monotonamente tappezzati con lo stesso motivo grigio e sbiadito, parevano mettere in risalto la [[motifs/dust|polvere]] e la squallida ricercatezza dei pochi ornamenti primo-vittoriani, la verde ruggine che divorava il bronzo della lampada, l'oro smorto che luccicava nella cornice dello [[motifs/mirror|specchio]] infranto.
 
-«Dicono che porti sfortuna rompere uno specchio», disse. «Questa sembra proprio la casa della malasorte. C'è qualcosa nel mobilio stesso —»
+«Dicono che porti sfortuna rompere uno specchio», disse. «Questa sembra proprio la [[house|casa]] della malasorte. C'è qualcosa nel mobilio stesso —»
 
 «Ecco una cosa piuttosto strana», disse Bagshaw di scatto. «Credevo che la porta principale fosse chiusa, e invece è solo accostata.»
 
@@ -939,7 +939,7 @@ voice in conversation above their heads, as if he were talking to
 somebody at the top of a tree. The [[archetypes/detective|detective]] followed, and found that
 the curious covered stairway led to what looked like a broken bridge,
 over-hanging the darker and emptier spaces of the [[motifs/garden|garden]]. It just
-curled round the corner of the house, bringing in sight the field of
+curled round the corner of the [[house]], bringing in sight the field of
 coloured lights beyond and beneath. Probably it was the relic of some
 abandoned architectural fancy of building a sort of terrace on arches
 across the lawn. Bagshaw thought it a curious cul-de-sac in which to
@@ -1004,7 +1004,7 @@ with quite a new voice.
 going in at this gate to see Sir Humphrey."
 
 "He says he hasn't seen him yet," observed Bagshaw, "or even been into
-the house."
+the [[house]]."
 
 "It's a long [[motifs/time|time]] to stand on the door-step," observed Buller.
 
@@ -1062,7 +1062,7 @@ conversare al di sopra delle loro teste, come se parlasse con qualcuno in
 cima a un albero. Il [[archetypes/detective|detective]] lo seguì, e scoprì che quella curiosa
 scala coperta conduceva a quel che pareva un ponte spezzato, sospeso sugli
 spazi più bui e più vuoti del [[motifs/garden|giardino]]. Girava appena intorno all'angolo
-della casa, portando in vista il campo di luci colorate al di là e più in
+della [[house|casa]], portando in vista il campo di luci colorate al di là e più in
 basso. Probabilmente era il residuo di qualche abbandonata fantasia
 architettonica: costruire una sorta di terrazza su archi attraverso il
 prato. Bagshaw lo giudicò un curioso vicolo cieco in cui trovare qualcuno
@@ -1127,7 +1127,7 @@ parlò fu con una voce affatto nuova.
 Orm stava entrando da questo cancello per vedere Sir Humphrey».
 
 «Egli dice di non averlo ancora visto», osservò Bagshaw, «né di essere
-neppure entrato nella casa».
+neppure entrato nella [[house|casa]]».
 
 «È un bel po' di [[motifs/time|tempo]] per restarsene sullo scalino della porta», osservò
 Buller.
@@ -1188,7 +1188,7 @@ leaned forward, prodding the poet with questions, his long nose might
 have been a long beak.
 
 "Do you mean to tell the jury," he asked, in tones of grating
-incredulity, "that you never went in to see the deceased gentleman at
+[[Incredulity|incredulity]], "that you never went in to see the deceased gentleman at
 all?"
 
 "No!" replied Orm shortly.
@@ -1305,7 +1305,7 @@ never occurred to him to ask Orm the obvious question."
 
 Il prigioniero salì sul banco dei testimoni, soprattutto perché il suo astuto avvocato calcolò che non farlo avrebbe creato una cattiva impressione. Tuttavia, fu quasi altrettanto reticente sia con il proprio avvocato che con l’avvocato della parte pubblica. Sir [[characters/arthur|Arthur]] Travers cercò in tutti i modi di sfruttare al massimo il suo ostinato [[motifs/silence|silenzio]], ma non riuscì a farlo rompere. Sir [[characters/arthur|Arthur]] era un uomo alto e magro, con un viso lungo e cadaverico, in netto contrasto con la figura robusta e gli occhi luminosi di Sir Matthew Blake. Ma se Sir Matthew poteva essere paragonato a un pettirosso pieno di fiducia in sé stesso, Sir [[characters/arthur|Arthur]] sarebbe stato molto più appropriatamente paragonato a una gru o a una cicogna: quando si chinava in avanti per porre domande al poeta, il suo lungo naso sembrava davvero un becco.
 
-“Volete dire davvero alla giuria,” chiese lui, con toni di incredulità stridula, “che non siete mai entrato a vedere il signore deceduto?”
+“Volete dire davvero alla giuria,” chiese lui, con toni di [[Incredulity|incredulità]] stridula, “che non siete mai entrato a vedere il signore deceduto?”
 
 “No!” rispose brevemente Orm.
 
@@ -1434,23 +1434,23 @@ murderer came in at the front door, met the Judge in the front hall,
 struggling with him and breaking the [[motifs/mirror|mirror]]; that the judge then
 retreated into the [[motifs/garden|garden]], where he was finally shot. Somehow, it
 doesn't sound natural to me. Granted he retreated down the hall, there
-are two exits at the end, one into the [[motifs/garden|garden]] and one into the house.
-Surely, he would be more likely to retreat into the house? His gun was
+are two exits at the end, one into the [[motifs/garden|garden]] and one into the [[house]].
+Surely, he would be more likely to retreat into the [[house]]? His gun was
 there; his telephone was there; his servant, so far as he knew, was
 there. Even the nearest neighbours were in that direction. Why should he
-stop to open the [[motifs/garden|garden]] door and go out alone on the deserted side of
-the house?"
+stop to open the [[motifs/garden|garden]] door and go out [[Alone|alone]] on the deserted side of
+the [[house]]?"
 
-"But we know he did go out of the house," replied his companion,
-puzzled. "We know he went out of the house, because he was found in the
+"But we know he did go out of the [[house]]," replied his companion,
+puzzled. "We know he went out of the [[house]], because he was found in the
 [[motifs/garden|garden]]."
 
-"He never went out of the house, because he never was in the house,"
+"He never went out of the [[house]], because he never was in the [[house]],"
 said [[characters/father-brown|Father Brown]]. "Not that evening, I mean. He was sitting in that
 bungalow. I read that lesson in the dark, at the beginning, in red and
 golden [[motifs/stars|stars]] across the [[motifs/garden|garden]]. They were worked from the hut; they
 wouldn't have been burning at all if he hadn't been in the hut. He was
-trying to run across to the house and the telephone, when the murderer
+trying to run across to the [[house]] and the telephone, when the murderer
 shot him beside the pond."
 
 "But what about the pot and the palm and the broken [[motifs/mirror|mirror]]?" cried
@@ -1505,11 +1505,11 @@ Rimase un istante a sbattere le palpebre, poi disse in tono di scusa: «Chiedo s
 
 «Oh, sì» disse [[characters/father-brown|padre Brown]].
 
-Dopo un momento riprese: «Torniamo a quella vostra teoria, che era ottima, benché io non la condivida del tutto. Voi supponete che l'assassino entrasse dalla porta d'ingresso, incontrasse il giudice nell'atrio, lottasse con lui e mandasse in frantumi lo [[motifs/mirror|specchio]]; che il giudice si ritirasse poi nel [[motifs/garden|giardino]], dove alla fine fu colpito. In qualche modo, non mi suona naturale. Ammesso che si ritirasse lungo l'atrio, ci sono due uscite in fondo, una sul [[motifs/garden|giardino]] e una sulla casa. Non si sarebbe forse ritirato più probabilmente verso la casa? Là c'era la sua pistola; là il suo telefono; là, per quanto ne sapeva, il suo domestico. Anche i vicini più prossimi erano da quella parte. Perché mai avrebbe dovuto fermarsi ad aprire la porta del [[motifs/garden|giardino]] e uscire solo sul lato deserto della casa?»
+Dopo un momento riprese: «Torniamo a quella vostra teoria, che era ottima, benché io non la condivida del tutto. Voi supponete che l'assassino entrasse dalla porta d'ingresso, incontrasse il giudice nell'atrio, lottasse con lui e mandasse in frantumi lo [[motifs/mirror|specchio]]; che il giudice si ritirasse poi nel [[motifs/garden|giardino]], dove alla fine fu colpito. In qualche modo, non mi suona naturale. Ammesso che si ritirasse lungo l'atrio, ci sono due uscite in fondo, una sul [[motifs/garden|giardino]] e una sulla [[house|casa]]. Non si sarebbe forse ritirato più probabilmente verso la [[house|casa]]? Là c'era la sua pistola; là il suo telefono; là, per quanto ne sapeva, il suo domestico. Anche i vicini più prossimi erano da quella parte. Perché mai avrebbe dovuto fermarsi ad aprire la porta del [[motifs/garden|giardino]] e uscire [[Alone|solo]] sul lato deserto della [[house|casa]]?»
 
-«Ma sappiamo che uscì di casa» ribatté il suo interlocutore, perplesso. «Sappiamo che uscì di casa, perché fu trovato nel [[motifs/garden|giardino]].»
+«Ma sappiamo che uscì di [[house|casa]]» ribatté il suo interlocutore, perplesso. «Sappiamo che uscì di [[house|casa]], perché fu trovato nel [[motifs/garden|giardino]].»
 
-«Non uscì mai di casa, perché non fu mai in casa» disse [[characters/father-brown|padre Brown]]. «Quella sera, intendo. Era seduto in quel villino. Ne lessi la lezione nel buio, all'inizio, in [[motifs/stars|stelle]] rosse e dorate attraverso il [[motifs/garden|giardino]]. Erano alimentate dalla capanna; non sarebbero affatto arse se egli non fosse stato nella capanna. Stava cercando di correre verso la casa e il telefono, quando l'assassino lo colpì accanto allo stagno.»
+«Non uscì mai di [[house|casa]], perché non fu mai in [[house|casa]]» disse [[characters/father-brown|padre Brown]]. «Quella sera, intendo. Era seduto in quel villino. Ne lessi la lezione nel buio, all'inizio, in [[motifs/stars|stelle]] rosse e dorate attraverso il [[motifs/garden|giardino]]. Erano alimentate dalla capanna; non sarebbero affatto arse se egli non fosse stato nella capanna. Stava cercando di correre verso la [[house|casa]] e il telefono, quando l'assassino lo colpì accanto allo stagno.»
 
 «Ma il vaso e la palma e lo [[motifs/mirror|specchio]] rotto?» esclamò Bagshaw. «Ma se foste voi a trovarli! Foste voi stesso a dire che ci doveva essere stata una colluttazione nell'atrio.»
 
@@ -1529,14 +1529,14 @@ Il prete sbatté le palpebre con un che di sofferto. «Davvero?» mormorò. «Ma
 
 "It's rather a fine metaphysical point," answered his clerical companion
 almost dreamily. "In one sense, of course, he was firing at Gwynne. But
-Gwynne wasn't there to be fired at. The criminal was alone in the hall."
+Gwynne wasn't there to be fired at. The criminal was [[Alone|alone]] in the hall."
 
 He was silent for a moment, and then went on quietly. "Imagine the
 looking-glass at the end of the passage, before it was broken, and the
 tall palm arching over it. In the half-light, reflecting these
 monochrome walls, it would, look like the end of the passage. A man
-reflected in it would look like a man coming from inside the house. It
-would look like the master of the house--if only the reflection were a
+reflected in it would look like a man coming from inside the [[house]]. It
+would look like the master of the [[house]]--if only the reflection were a
 little like him."
 
 "Stop a minute," cried Bagshaw. "I believe I begin----"
@@ -1591,10 +1591,10 @@ He seemed to be gazing into vacancy for a moment, and then added:
 "A queer thing is a [[motifs/mirror|mirror]]; a picture frame that holds hundreds of
 different pictures, all vivid and all vanished for ever. Yet, there was
 something specially strange about the glass that hung at the end of that
-grey corridor under that green palm. It is as if it was a magic glass
+grey corridor under that green palm. It is as if it was a [[Magic|magic]] glass
 and had a different fate from others, as if its picture could somehow
-survive it, hanging in the air of that twilight house like a spectre; or
-at least like an abstract diagram, the skeleton of an argument. We
+survive it, hanging in the air of that twilight [[house]] like a spectre; or
+at least like an abstract diagram, the [[skeleton]] of an argument. We
 could, at least, conjure out of the void the thing that Sir [[characters/arthur|Arthur]]
 Travers saw. And by the way, there was one very true thing that you said
 about him."
@@ -1627,14 +1627,14 @@ he--"
 
 «È un punto metafisico piuttosto sottile» rispose il suo compagno in abito
 talare, quasi trasognato. «In un certo senso, naturalmente, sparava a Gwynne. Ma
-Gwynne non era là per essere colpito. Il criminale era solo nell'atrio.»
+Gwynne non era là per essere colpito. Il criminale era [[Alone|solo]] nell'atrio.»
 
 Rimase in silenzio un istante, poi proseguì con calma. «Immagini lo
 specchio in fondo al corridoio, prima che andasse in frantumi, e la
 palma alta che vi si inarcava sopra. Nella penombra, riflettendo quelle
 pareti monocrome, sarebbe sembrato la fine del corridoio. Un uomo
-riflesso in esso sarebbe sembrato un uomo che veniva dall'interno della casa.
-Sarebbe sembrato il padrone di casa... purché il riflesso gli
+riflesso in esso sarebbe sembrato un uomo che veniva dall'interno della [[house|casa]].
+Sarebbe sembrato il padrone di [[house|casa]]... purché il riflesso gli
 somigliasse anche solo un poco.»
 
 «Un momento» esclamò Bagshaw. «Credo di cominciare a...»
@@ -1689,10 +1689,10 @@ Parve fissare il vuoto per un istante, poi aggiunse:
 «Strana cosa è uno [[motifs/mirror|specchio]]; una cornice che racchiude centinaia di
 immagini diverse, tutte vivide e tutte svanite per sempre. Eppure c'era
 qualcosa di particolarmente strano nel vetro appeso in fondo a quel
-grigio corridoio, sotto quella verde palma. È come se fosse un magico vetro
+grigio corridoio, sotto quella verde palma. È come se fosse un [[Magic|magico]] vetro
 e avesse un destino diverso dagli altri, come se la sua immagine potesse in qualche modo
-sopravvivergli, sospesa nell'aria di quella casa al crepuscolo come uno spettro; o
-almeno come un diagramma astratto, lo scheletro di un ragionamento. Potremmo,
+sopravvivergli, sospesa nell'aria di quella [[house|casa]] al crepuscolo come uno spettro; o
+almeno come un diagramma astratto, lo [[skeleton|scheletro]] di un ragionamento. Potremmo,
 almeno, evocare dal nulla ciò che vide Sir [[characters/arthur|Arthur]]
 Travers. E, a proposito, c'era una cosa verissima che lei ha detto
 sul suo conto.»
@@ -1729,10 +1729,10 @@ criminologist, after dinner at a club, where the two were introduced to
 each other as sharing a harmless hobby of murder and robbery. But, as
 [[characters/father-brown|Father Brown]]'s version rather minimized his own part in the matter, it
 is here re-told in a more impartial style. It arose out of a playful
-passage of arms, in which the professor was very scientific and the
+passage of arms, in which [[The Professor|the professor]] was very scientific and the
 priest rather sceptical.
 
-"My good sir," said the professor in remonstrance, "don't you believe
+"My good sir," said [[The Professor|the professor]] in remonstrance, "don't you believe
 that criminology is a science?"
 
 "I'm not sure," replied [[characters/father-brown|Father Brown]]. "Do you believe that hagiology is
@@ -1828,9 +1828,9 @@ felt that he would have been more human if he had.
 
 II. L'UOMO DAI DUE BARBE
 
-Questo racconto fu narrato da [[characters/father-brown|padre Brown]] al professor Crake, il celebre criminologo, dopo cena in un circolo, dove i due erano stati presentati l'uno all'altro come persone che condividevano l'innocuo passatempo dell'omicidio e della rapina. Ma, poiché la versione di [[characters/father-brown|padre Brown]] tendeva piuttosto a sminuire la propria parte nella vicenda, la si ripropone qui in uno stile più imparziale. Nacque da un giocoso incrocio di fioretti, in cui il professore si mostrava assai scientifico e il prete piuttosto scettico.
+Questo racconto fu narrato da [[characters/father-brown|padre Brown]] al professor Crake, il celebre criminologo, dopo cena in un circolo, dove i due erano stati presentati l'uno all'altro come persone che condividevano l'innocuo passatempo dell'omicidio e della rapina. Ma, poiché la versione di [[characters/father-brown|padre Brown]] tendeva piuttosto a sminuire la propria parte nella vicenda, la si ripropone qui in uno stile più imparziale. Nacque da un giocoso incrocio di fioretti, in cui [[The Professor|il professore]] si mostrava assai scientifico e il prete piuttosto scettico.
 
-«Mio caro signore», disse il professore in tono di rimprovero, «non crede che la criminologia sia una scienza?»
+«Mio caro signore», disse [[The Professor|il professore]] in tono di rimprovero, «non crede che la criminologia sia una scienza?»
 
 «Non ne sono sicuro», rispose [[characters/father-brown|padre Brown]]. «Lei crede che l'agiologia sia una scienza?»
 
@@ -1893,7 +1893,7 @@ soon put both controversialists out of [[settings/court|court]].
 who can he possibly be?"
 
 "I don't know any particularly new-comers," said her husband, "except
-Sir Leopold Pulman, at Beechwood House."
+Sir Leopold Pulman, at Beechwood [[house|House]]."
 
 "My dear," said the lady, "how absurd you are--Sir Leopold!" Then, after
 a pause, she added: "If anybody suggested his secretary now-- that man
@@ -1904,7 +1904,7 @@ ought to have had----"
 the conversation. "Not good enough."
 
 "The only one I know," observed Devine, "is that man called Carver, who
-is stopping at Smith's Farm. He lives a very quiet life, but he's quite
+is stopping at [[smith|Smith]]'s Farm. He lives a very quiet life, but he's quite
 interesting to talk to. I think John has had some business with him."
 
 "Knows a bit about cars," conceded the monomaniac John. "He'll know a
@@ -1915,24 +1915,24 @@ hospitality of John's new car. Then he added reflectively:
 
 "That's a little what I feel about him. He knows a lot about motoring
 and travelling, and the active ways of the world, and yet he always
-stays at [[motifs/home|home]] pottering about round old Smith's beehives. Says he's only
-interested in bee culture, and that's why he's staying with Smith. It
+stays at [[motifs/home|home]] pottering about round old [[smith|Smith]]'s beehives. Says he's only
+interested in bee culture, and that's why he's staying with [[smith|Smith]]. It
 seems a very quiet hobby for a man of his sort. However, I've no [[concepts/doubt|doubt]]
 John's car will shake him up a bit."
 
-As Devine walked away from the house that evening his dark face wore an
+As Devine walked away from the [[house]] that evening his dark face wore an
 expression of concentrated thought. His thoughts would, perhaps, have
 been worthy of our attention, even at this stage; but it is enough to
 say that their practical upshot was a resolution to pay an immediate
-visit to Mr. Carver at the house of Mr. Smith. As he was making his way
-thither he encountered Barnard, the secretary at Beechwood House,
+visit to Mr. Carver at the [[house]] of Mr. [[smith|Smith]]. As he was making his way
+thither he encountered Barnard, the secretary at Beechwood [[house|House]],
 conspicuous by his lanky figure and the large side whiskers which Mrs.
 Bankes counted among her private wrongs. Their acquaintance was slight,
 and their conversation brief and casual; but Devine seemed to find in it
 food for further cogitation.
 
 "Look here," he said abruptly, "excuse my asking, but is it true that
-Lady Pulman has some very famous jewellery up at the House? I'm not a
+Lady Pulman has some very famous jewellery up at the [[house|House]]? I'm not a
 professional thief, but I've just heard there's one hanging about."
 
 "I'll get her to give an eye to them," answered the secretary. "To tell
@@ -1950,13 +1950,13 @@ mostly in the matter of its adaptability to weather.
 opening your mouth."
 
 Devine's mouth, at the moment, did not seem so easy to open, and they
-arrived at Smith's farm to the sound of a soliloquy. Passing the outer
+arrived at [[smith|Smith]]'s farm to the sound of a soliloquy. Passing the outer
 gate, Devine found the man he was looking for without going into the
-house. The man was walking about in the [[motifs/garden|garden]], with his hands in his
+[[house]]. The man was walking about in the [[motifs/garden|garden]], with his hands in his
 pockets, wearing a large, limp straw hat; a man with a long face and a
 large chin. The wide brim cut off the upper part of his face with a
 [[archetypes/shadow|shadow]] that looked a little like a mask. In the background was a row of
-sunny beehives, along which an elderly man, presumably Mr. Smith, was
+sunny beehives, along which an elderly man, presumably Mr. [[smith|Smith]], was
 moving accompanied by a short, commonplace-looking companion in black
 clerical costume.
 
@@ -2007,7 +2007,7 @@ presto entrambi i contendenti fuori [[settings/court|causa]].
 ma chi mai può essere?»
 
 «Non conosco nessun nuovo arrivato in particolare», disse suo marito,
-«tranne Sir Leopold Pulman, a Beechwood House.»
+«tranne Sir Leopold Pulman, a Beechwood [[house|House]].»
 
 «Mio caro», disse la signora, «come sei assurdo… Sir Leopold!» Poi, dopo
 una pausa, aggiunse: «Se qualcuno alludesse invece al suo segretario…
@@ -2018,7 +2018,7 @@ posto che sarebbe spettato a Philip…»
 contributo alla conversazione. «Non ne vale la pena.»
 
 «L'unico che conosco io», osservò Devine, «è quel tale di nome Carver, che
-alloggia alla fattoria di Smith. Conduce una vita molto ritirata, ma è
+alloggia alla fattoria di [[smith|Smith]]. Conduce una vita molto ritirata, ma è
 assai interessante conversarci. Credo che John abbia avuto qualche affare
 con lui.»
 
@@ -2030,24 +2030,24 @@ della macchina nuova di John. Poi aggiunse, meditabondo:
 
 «È un po' questo che provo nei suoi riguardi. Ne sa moltissimo di
 automobilismo e di viaggi, e delle vie attive del mondo, eppure se ne resta
-sempre a [[motifs/home|casa]] a gingillarsi intorno ai vecchi alveari di Smith. Dice di
-interessarsi soltanto all'apicoltura, ed è per questo che sta da Smith.
+sempre a [[motifs/home|casa]] a gingillarsi intorno ai vecchi alveari di [[smith|Smith]]. Dice di
+interessarsi soltanto all'apicoltura, ed è per questo che sta da [[smith|Smith]].
 Pare un passatempo assai tranquillo per un uomo del suo stampo. Comunque,
 non ho [[concepts/doubt|dubbio]] che la macchina di John lo scuoterà un po'.»
 
-Mentre quella sera Devine si allontanava dalla casa, il suo volto bruno
+Mentre quella sera Devine si allontanava dalla [[house|casa]], il suo volto bruno
 recava un'espressione di pensiero concentrato. I suoi pensieri sarebbero
 forse stati degni della nostra attenzione, già a questo stadio; ma basti
 dire che il loro esito pratico fu la risoluzione di rendere un'immediata
-visita al signor Carver, alla casa del signor Smith. Mentre s'incamminava
-in quella direzione, s'imbatté in Barnard, il segretario di Beechwood House,
+visita al signor Carver, alla [[house|casa]] del signor [[smith|Smith]]. Mentre s'incamminava
+in quella direzione, s'imbatté in Barnard, il segretario di Beechwood [[house|House]],
 cospicuo per la sua figura allampanata e per i grandi favoriti che la
 signora Bankes annoverava tra i suoi torti privati. La loro conoscenza era
 superficiale, e la loro conversazione breve e casuale; ma Devine parve
 trovarvi materia di ulteriore ponderazione.
 
 «Sentite un po'», disse bruscamente, «scusate la domanda, ma è vero che
-Lady Pulman ha dei gioielli molto famosi, lassù alla House? Non sono un
+Lady Pulman ha dei gioielli molto famosi, lassù alla [[house|House]]? Non sono un
 ladro di professione, ma ho appena sentito che ce n'è uno che si aggira
 qui intorno.»
 
@@ -2067,14 +2067,14 @@ tempo.
 facilità con cui si apre la bocca.»
 
 La bocca di Devine, in quel momento, non pareva così facile da aprire, e
-giunsero alla fattoria di Smith al suono di un soliloquio. Superato il
+giunsero alla fattoria di [[smith|Smith]] al suono di un soliloquio. Superato il
 cancello esterno, Devine trovò l'uomo che cercava senza entrare nella
-casa. L'uomo passeggiava per il [[motifs/garden|giardino]], con le mani in tasca, portando
+[[house|casa]]. L'uomo passeggiava per il [[motifs/garden|giardino]], con le mani in tasca, portando
 un ampio e floscio cappello di paglia; un uomo dal volto lungo e dal mento
 grosso. La larga tesa tagliava via la parte superiore del suo viso con
 un'[[archetypes/shadow|ombra]] che somigliava un poco a una maschera. Sullo sfondo c'era una
 fila di alveari assolati, lungo i quali un uomo anziano, presumibilmente il
-signor Smith, si muoveva accompagnato da un compagno basso e dall'aria
+signor [[smith|Smith]], si muoveva accompagnato da un compagno basso e dall'aria
 comune, in nero abito clericale.
 
 
@@ -2112,17 +2112,17 @@ polite refusal.
 
 "I can't possibly go," he said. "Got a lot of writing to do. Perhaps
 you'd be kind enough to give some-of my friends a run, if you want a
-companion. This is my friend, Mr. Smith, [[characters/father-brown|Father Brown]]-"
+companion. This is my friend, Mr. [[smith|Smith]], [[characters/father-brown|Father Brown]]-"
 
 "Of course," cried Bankes; "let 'em all come."
 
 "Thank you very much," said [[characters/father-brown|Father Brown]]. "I'm afraid I shall have to
 decline; I've got to go on to Benediction in a few minutes."
 
-"Mr. Smith is your man, then," said Carver, with something almost like
-impatience. "I'm sure Smith is [[concepts/longing|longing]] for a motor ride."
+"Mr. [[smith|Smith]] is your man, then," said Carver, with something almost like
+impatience. "I'm sure [[smith|Smith]] is [[concepts/longing|longing]] for a motor ride."
 
-Smith, who wore a broad grin, bore no appearance of [[concepts/longing|longing]] for
+[[smith|Smith]], who wore a broad grin, bore no appearance of [[concepts/longing|longing]] for
 anything. He was an active little old man with a very honest wig; one of
 those wigs that look no more natural than a hat. Its tinge of yellow was
 out of keeping with his colourless complexion. He shook his head and
@@ -2138,13 +2138,13 @@ in an ox wagon. Do you think cars haven't changed in ten years --and
 roads, too, for that matter? In my little bus you don't know the wheels
 are going round. You think you're just flying."
 
-"I'm sure Smith wants to go flying," urged Carver. "It's the dream of
-his life. Come, Smith, go over to Holmgate and see your sister. You know
+"I'm sure [[smith|Smith]] wants to go flying," urged Carver. "It's the dream of
+his life. Come, [[smith|Smith]], go over to Holmgate and see your sister. You know
 you ought to go and see your sister. Go over and stay the [[motifs/night|night]] if you
 like."
 
 "[[motifs/well|Well]], I generally walk over, so I generally do stay the [[motifs/night|night]]," said
-old Smith. "No need to trouble the gentleman to-day, particularly."
+old [[smith|Smith]]. "No need to trouble the gentleman to-day, particularly."
 
 "But think what fun it will be for your sister to see you arrive in a
 car!" cried Carver. "You really ought to go. Don't be so selfish."
@@ -2152,7 +2152,7 @@ car!" cried Carver. "You really ought to go. Don't be so selfish."
 "That's it," assented Bankes, with buoyant benevolence. "Don't you be
 selfish. It won't hurt you. You aren't afraid of it, are you?"
 
-"[[motifs/well|Well]]," said Mr. Smith, blinking thoughtfully, "I don't want to be
+"[[motifs/well|Well]]," said Mr. [[smith|Smith]], blinking thoughtfully, "I don't want to be
 selfish, and I don't think I'm afraid-I'll come with you if you put it
 that way."
 
@@ -2182,7 +2182,7 @@ to his companion: "Rather an odd scene that, don't you think?"
 Devine looked at the little man in black, and something in the gaze of
 his great, grey eyes seemed to renew his impulse.
 
-"I think," he said, "that Carver was very anxious to have the house to
+"I think," he said, "that Carver was very anxious to have the [[house]] to
 himself tonight. I don't know whether you had any such suspicions?"
 
 "I may have my suspicions," replied the priest, "but I'm not sure
@@ -2192,7 +2192,7 @@ That evening, when the last dusk was turning into dark in the gardens
 round the family mansion, Opal Bankes was moving through some of the dim
 and empty rooms with even more than her usual abstraction; and anyone
 who had looked at her closely would have noted that her pale face had
-more than its usual pallor. Despite its bourgeois luxury, the house as a
+more than its usual pallor. Despite its bourgeois luxury, the [[house]] as a
 whole had a rather unique shade of [[concepts/melancholy|melancholy]]. It was the sort of
 immediate sadness that belongs to things that are old rather than
 ancient. It was full of faded fashions, rather than historic customs; of
@@ -2206,7 +2206,7 @@ little, as if some invisible hand had struck her on the face.
 
 An instant after there was the noise or knocking on the front door,
 dulled by the closed doors between. She knew that the rest of the
-household were in the upper parts of the house, but she could not have
+household were in the upper parts of the [[house]], but she could not have
 analysed the motive that made her go to the front door herself. On the
 doorstep stood a dumpy and dingy figure in black, which she recognized
 as the Roman Catholic priest, whose name was Brown. She knew him only
@@ -2236,29 +2236,29 @@ Un lampo balenò dall'[[archetypes/shadow|ombra]] del cappello a larghe tese, me
 
 «Venite in macchina con noi?», insistette John, con lo sguardo fisso. Ma Carver, benché si fosse scrollato di dosso quell'aria momentanea di sinistra allusione con cui aveva risposto a Devine, restava fermo nel suo cortese rifiuto.
 
-«Mi è proprio impossibile venire», disse. «Ho un mucchio di cose da scrivere. Forse avreste la cortesia di portare a spasso qualcuno dei miei amici, se cercate un compagno. Questo è il mio amico, il signor Smith, e questi è [[characters/father-brown|Father Brown]]——»
+«Mi è proprio impossibile venire», disse. «Ho un mucchio di cose da scrivere. Forse avreste la cortesia di portare a spasso qualcuno dei miei amici, se cercate un compagno. Questo è il mio amico, il signor [[smith|Smith]], e questi è [[characters/father-brown|Father Brown]]——»
 
 «Ma certo», esclamò Bankes; «vengano tutti quanti.»
 
 «Grazie infinite», disse [[characters/father-brown|Father Brown]]. «Temo di dover declinare; fra pochi minuti devo andare alla Benedizione.»
 
-«Allora il vostro uomo è il signor Smith», disse Carver, con qualcosa che somigliava quasi all'impazienza. «Sono sicuro che Smith non [[concepts/longing|desidera]] altro che una gita in automobile.»
+«Allora il vostro uomo è il signor [[smith|Smith]]», disse Carver, con qualcosa che somigliava quasi all'impazienza. «Sono sicuro che [[smith|Smith]] non [[concepts/longing|desidera]] altro che una gita in automobile.»
 
-Smith, che sfoggiava un ampio sogghigno, non aveva affatto l'aria di [[concepts/longing|desiderare]] alcunché. Era un vecchietto arzillo e minuto, con una parrucca oltremodo onesta; una di quelle parrucche che non sembrano più naturali di un cappello. La sua sfumatura giallastra stonava con l'incarnato scialbo del volto. Scosse il capo e rispose con amabile ostinazione:
+[[smith|Smith]], che sfoggiava un ampio sogghigno, non aveva affatto l'aria di [[concepts/longing|desiderare]] alcunché. Era un vecchietto arzillo e minuto, con una parrucca oltremodo onesta; una di quelle parrucche che non sembrano più naturali di un cappello. La sua sfumatura giallastra stonava con l'incarnato scialbo del volto. Scosse il capo e rispose con amabile ostinazione:
 
 «Mi ricordo che dieci anni fa percorsi questa [[motifs/road|strada]]—su uno di quegli aggeggi. Venni fin qui dalla casa di mia sorella, a Holmgate, e da allora non ho mai più fatto quella [[motifs/road|strada]] in automobile. Era un andare a sobbalzi, ve lo dico io.»
 
 «Dieci anni fa!», sbuffò John Bankes. «Duemila anni fa viaggiavate su un carro tirato dai buoi. Credete che le macchine non siano cambiate in dieci anni——e nemmeno le strade, se è per questo? Nel mio piccolo baroccino non ci si accorge neppure che le ruote girano. Vi pare di volare, semplicemente.»
 
-«Sono sicuro che Smith non vede l'ora di volare», incalzò Carver. «È il sogno della sua vita. Su, Smith, andate fino a Holmgate a trovare vostra sorella. Lo sapete che dovreste andare a trovare vostra sorella. Andate, e fermatevi pure per la [[motifs/night|notte]], se vi va.»
+«Sono sicuro che [[smith|Smith]] non vede l'ora di volare», incalzò Carver. «È il sogno della sua vita. Su, [[smith|Smith]], andate fino a Holmgate a trovare vostra sorella. Lo sapete che dovreste andare a trovare vostra sorella. Andate, e fermatevi pure per la [[motifs/night|notte]], se vi va.»
 
-«[[motifs/well|Beh]], di solito ci vado a piedi, e così di solito mi fermo per la [[motifs/night|notte]]», disse il vecchio Smith. «Oggi non c'è bisogno di disturbare il signore, in particolare.»
+«[[motifs/well|Beh]], di solito ci vado a piedi, e così di solito mi fermo per la [[motifs/night|notte]]», disse il vecchio [[smith|Smith]]. «Oggi non c'è bisogno di disturbare il signore, in particolare.»
 
 «Ma pensate che spasso sarà per vostra sorella vedervi arrivare in automobile!», esclamò Carver. «Dovete proprio andare. Non siate così egoista.»
 
 «Proprio così», approvò Bankes, con esuberante benevolenza. «Non fate l'egoista. Non vi farà mica male. Non ne avete paura, vero?»
 
-«[[motifs/well|Beh]]», disse il signor Smith, socchiudendo gli occhi pensoso, «non voglio essere egoista, e non credo di aver paura—verrò con voi, se la mettete in questo modo.»
+«[[motifs/well|Beh]]», disse il signor [[smith|Smith]], socchiudendo gli occhi pensoso, «non voglio essere egoista, e non credo di aver paura—verrò con voi, se la mettete in questo modo.»
 
 I due partirono, fra cenni di saluto sventolanti che parevano in qualche modo conferire a quel gruppetto l'aspetto di una folla plaudente. Eppure Devine e il prete vi si univano solo per cortesia, e a entrambi parve che fosse il gesto dominante del loro ospite a dare all'insieme quella definitiva aria di congedo. Il particolare li lasciò con una curiosa impressione della forza pervasiva della sua personalità.
 
@@ -2274,13 +2274,13 @@ Lo disse con quella singolare cordialità che è il rovescio dell'ospitalità. Q
 
 Devine guardò l'ometto vestito di nero, e qualcosa nello sguardo di quei suoi grandi occhi grigi parve ridestare il suo impulso.
 
-«Penso», disse, «che Carver desiderasse ardentemente avere la casa tutta per sé stasera. Non so se anche voi abbiate nutrito qualche sospetto del genere.»
+«Penso», disse, «che Carver desiderasse ardentemente avere la [[house|casa]] tutta per sé stasera. Non so se anche voi abbiate nutrito qualche sospetto del genere.»
 
 «Può darsi che io abbia i miei sospetti», rispose il prete, «ma non sono sicuro che siano gli stessi vostri.»
 
-Quella sera, mentre l'ultimo crepuscolo si mutava in tenebra nei giardini attorno alla dimora di famiglia, Opal Bankes si aggirava per alcune delle stanze buie e deserte con un'astrazione ancora maggiore del solito; e chiunque l'avesse guardata da vicino avrebbe notato che il suo viso pallido aveva più del consueto pallore. Nonostante il suo lusso borghese, la casa nel suo insieme aveva una sfumatura di [[concepts/melancholy|malinconia]] alquanto singolare. Era quella specie di tristezza immediata che appartiene alle cose vecchie più che a quelle antiche. Era piena di mode sbiadite, più che di consuetudini storiche; di quell'ordine e di quegli ornamenti che sono appena abbastanza recenti da essere riconosciuti come morti. Qua e là vetri colorati d'epoca primo-vittoriana tingevano il crepuscolo; gli alti soffitti facevano sembrare strette le lunghe sale; e in fondo alla lunga sala per la quale ella camminava si apriva una di quelle finestre rotonde che si trovano negli edifici di quel periodo. Giunta all'incirca a metà della stanza, si fermò, poi d'improvviso vacillò appena, come se una mano invisibile l'avesse colpita in viso.
+Quella sera, mentre l'ultimo crepuscolo si mutava in tenebra nei giardini attorno alla dimora di famiglia, Opal Bankes si aggirava per alcune delle stanze buie e deserte con un'astrazione ancora maggiore del solito; e chiunque l'avesse guardata da vicino avrebbe notato che il suo viso pallido aveva più del consueto pallore. Nonostante il suo lusso borghese, la [[house|casa]] nel suo insieme aveva una sfumatura di [[concepts/melancholy|malinconia]] alquanto singolare. Era quella specie di tristezza immediata che appartiene alle cose vecchie più che a quelle antiche. Era piena di mode sbiadite, più che di consuetudini storiche; di quell'ordine e di quegli ornamenti che sono appena abbastanza recenti da essere riconosciuti come morti. Qua e là vetri colorati d'epoca primo-vittoriana tingevano il crepuscolo; gli alti soffitti facevano sembrare strette le lunghe sale; e in fondo alla lunga sala per la quale ella camminava si apriva una di quelle finestre rotonde che si trovano negli edifici di quel periodo. Giunta all'incirca a metà della stanza, si fermò, poi d'improvviso vacillò appena, come se una mano invisibile l'avesse colpita in viso.
 
-Un istante dopo si udì il rumore di un bussare alla porta d'ingresso, attutito dalle porte chiuse che si frapponevano. Sapeva che il resto della famiglia era nei piani superiori della casa, ma non avrebbe saputo analizzare il motivo che la spinse ad andare lei stessa alla porta d'ingresso. Sulla soglia stava una figura tozza e dimessa vestita di nero, nella quale riconobbe il prete cattolico romano, che si chiamava Brown. Lo conosceva solo di sfuggita; ma le era simpatico. Egli non incoraggiava le sue vedute spiritiche; tutt'altro; ma le scoraggiava come se avessero importanza, non come se non ne avessero. Non era tanto che egli non simpatizzasse con le sue opinioni, quanto che simpatizzava senza però concordare. Tutto ciò le si agitava in una sorta di caos nella mente, mentre si sorprese a dire, senza salutare né attendere di udire il motivo della sua visita:
+Un istante dopo si udì il rumore di un bussare alla porta d'ingresso, attutito dalle porte chiuse che si frapponevano. Sapeva che il resto della famiglia era nei piani superiori della [[house|casa]], ma non avrebbe saputo analizzare il motivo che la spinse ad andare lei stessa alla porta d'ingresso. Sulla soglia stava una figura tozza e dimessa vestita di nero, nella quale riconobbe il prete cattolico romano, che si chiamava Brown. Lo conosceva solo di sfuggita; ma le era simpatico. Egli non incoraggiava le sue vedute spiritiche; tutt'altro; ma le scoraggiava come se avessero importanza, non come se non ne avessero. Non era tanto che egli non simpatizzasse con le sue opinioni, quanto che simpatizzava senza però concordare. Tutto ciò le si agitava in una sorta di caos nella mente, mentre si sorprese a dire, senza salutare né attendere di udire il motivo della sua visita:
 
 
 
@@ -2308,7 +2308,7 @@ thought it convenient to light the lamps. In the presence of Mrs.
 Bankes, [[characters/father-brown|Father Brown]] assumed a more conventional civility, and
 apologized for his intrusion.
 
-"I'm afraid it is taking a liberty with your house, Mrs. Bankes," he
+"I'm afraid it is taking a liberty with your [[house]], Mrs. Bankes," he
 said. "But I think I can explain how the business happens to concern
 you. I was up at the Pulmans' place just now, when I was rung up and
 asked to come round here to meet a man who is coming to communicate
@@ -2319,12 +2319,12 @@ to give the alarm."
 
 "What has happened?" repeated the lady.
 
-"There has been a robbery up, at Beechwood House," said [[characters/father-brown|Father Brown]],
+"There has been a robbery up, at Beechwood [[house|House]]," said [[characters/father-brown|Father Brown]],
 gravely; "a robbery, and what I [[concepts/fear|fear]] is worse, Lady Pulman's jewels have
 gone; and her unfortunate secretary, Mr. Barnard, was picked up in the
 [[motifs/garden|garden]], having evidently been shot by the escaping burglar."
 
-"That man," ejaculated the lady of the house. "I believe he was----"
+"That man," ejaculated the lady of the [[house]]. "I believe he was----"
 
 She encountered the [[motifs/grave|grave]] gaze of the priest, and her words suddenly
 went from her; she never knew why.
@@ -2336,7 +2336,7 @@ indications of a [[motifs/well|well]]-known criminal."
 
 At this point, the conference was for a moment disturbed, by the return
 of John Bankes, from what appeared to be an abortive expedition in the
-car. Old Smith seemed to have been a disappointing passenger, after all.
+car. Old [[smith|Smith]] seemed to have been a disappointing passenger, after all.
 
 "Funked it, after all, at the last minute," he announced with noisy
 disgust. "Bolted off while I was looking at what I thought was a
@@ -2349,7 +2349,7 @@ that gathered round [[characters/father-brown|Father Brown]] and his news.
 air of weighty reserve, "who will relieve me of this responsibility.
 When I have confronted, you with him I shall have done my duty as a
 witness in a serious business. It only remains for me to say that a
-servant up at Beechwood House told me that she had seen a face at one of
+servant up at Beechwood [[house|House]] told me that she had seen a face at one of
 the windows----"
 
 "I saw a face," said Opal, "at one of our windows."
@@ -2359,7 +2359,7 @@ the windows----"
 "It is as [[motifs/well|well]] to see facts even if they are faces," said [[characters/father-brown|Father Brown]]
 equably, "and I think the face you saw----"
 
-Another knock at the front door sounded through the house, and a minute
+Another knock at the front door sounded through the [[house]], and a minute
 afterwards the door of the room opened and another figure appeared.
 Devine half-[[motifs/rose|rose]] from his chair at the sight of it.
 
@@ -2386,7 +2386,7 @@ After a pause, he continued: "I can claim to be one of the more useful,
 though equally annoying, [[motifs/insects|insects]]. I am a [[archetypes/detective|detective]], and I have come down
 to investigate an alleged renewal of the activities of the criminal
 calling himself [[characters/michael|Michael]] Moonshine. [[motifs/jewel|Jewel]] robberies were his speciality;
-and there has just been one of them at Beechwood House, which, by all
+and there has just been one of them at Beechwood [[house|House]], which, by all
 the technical tests, is obviously his work. Not only do the prints
 correspond, but you may possibly know that when he was last arrested,
 and it is believed on other occasions also, he wore a simple but
@@ -2405,7 +2405,7 @@ dryly.
 He laid some papers and packages on the table, and began carefully to
 unfold them. "As I say," he continued, "I was sent down here to make
 inquiries about the criminal plans of this man, Moonshine. That is why I
-interested myself in bee-keeping and went to stay with Mr. Smith."
+interested myself in bee-keeping and went to stay with Mr. [[smith|Smith]]."
 
 There was a [[motifs/silence|silence]], and then Devine started and spoke: "You don't
 seriously mean to say that nice old man----"
@@ -2427,25 +2427,25 @@ for him?"
 
 Quando però ella tornò nella stanza col visitatore, altri membri della famiglia si erano radunati, e quelli di natura meno incline al soprannaturale avevano ritenuto opportuno accendere le lampade. Alla presenza della signora Bankes, [[characters/father-brown|Father Brown]] assunse una cortesia più convenzionale, e si scusò per l'intrusione.
 
-«Temo di prendermi una libertà con la vostra casa, signora Bankes», disse. «Ma credo di poter spiegare come mai la faccenda vi riguarda. Ero poco fa su, dai Pulman, quando mi hanno telefonato e pregato di venire qui a incontrare un uomo che sta per comunicarvi qualcosa che potrebbe avere una certa importanza per voi. Non mi sarei aggiunto alla compagnia, se non fosse che, a quanto pare, sono richiesto in quanto testimone di ciò che è accaduto lassù a Beechwood. Anzi, sono stato io a dover dare l'allarme.»
+«Temo di prendermi una libertà con la vostra [[house|casa]], signora Bankes», disse. «Ma credo di poter spiegare come mai la faccenda vi riguarda. Ero poco fa su, dai Pulman, quando mi hanno telefonato e pregato di venire qui a incontrare un uomo che sta per comunicarvi qualcosa che potrebbe avere una certa importanza per voi. Non mi sarei aggiunto alla compagnia, se non fosse che, a quanto pare, sono richiesto in quanto testimone di ciò che è accaduto lassù a Beechwood. Anzi, sono stato io a dover dare l'allarme.»
 
 «Che cosa è accaduto?» ripeté la signora.
 
-«C'è stata una rapina, su, a Villa Beechwood», disse [[characters/father-brown|Father Brown]] gravemente; «una rapina, e ciò che [[concepts/fear|temo]] è ancora peggio: i gioielli di Lady Pulman sono spariti; e il suo sventurato segretario, il signor Barnard, è stato trovato nel [[motifs/garden|giardino]], evidentemente colpito da un'arma da fuoco dallo scassinatore in fuga.»
+«C'è stata una rapina, su, a [[house|Villa]] Beechwood», disse [[characters/father-brown|Father Brown]] gravemente; «una rapina, e ciò che [[concepts/fear|temo]] è ancora peggio: i gioielli di Lady Pulman sono spariti; e il suo sventurato segretario, il signor Barnard, è stato trovato nel [[motifs/garden|giardino]], evidentemente colpito da un'arma da fuoco dallo scassinatore in fuga.»
 
-«Quell'uomo», esclamò la padrona di casa. «Sono certa che egli era...»
+«Quell'uomo», esclamò la padrona di [[house|casa]]. «Sono certa che egli era...»
 
 Incontrò lo sguardo [[motifs/grave|grave]] del prete, e le parole le vennero improvvisamente meno; non seppe mai perché.
 
 «Ho avvertito la polizia», proseguì egli, «e un'altra autorità interessata al caso; e dicono che perfino un esame superficiale ha rivelato impronte di piedi e impronte digitali e altri indizi di un criminale [[motifs/well|ben]] noto.»
 
-A questo punto la riunione fu per un attimo turbata dal ritorno di John Bankes, da quella che sembrava essere una spedizione fallita in automobile. Il vecchio Smith pareva essere stato, dopotutto, un passeggero deludente.
+A questo punto la riunione fu per un attimo turbata dal ritorno di John Bankes, da quella che sembrava essere una spedizione fallita in automobile. Il vecchio [[smith|Smith]] pareva essere stato, dopotutto, un passeggero deludente.
 
 «Se l'è squagliata, dopotutto, all'ultimo minuto», annunciò con rumoroso disgusto. «Filato via mentre esaminavo quella che credevo fosse una foratura. È l'ultima [[motifs/time|volta]] che mi carico uno di questi villani...»
 
 Ma le sue lagnanze ricevettero scarsa attenzione nell'eccitazione generale che si era addensata attorno a [[characters/father-brown|Father Brown]] e alle sue notizie.
 
-«Fra un momento arriverà qualcuno», riprese il prete, con lo stesso contegno di grave riserbo, «che mi solleverà da questa responsabilità. Quando vi avrò messo di fronte a lui, avrò compiuto il mio dovere di testimone in una faccenda seria. Non mi resta che dire che una domestica, su a Villa Beechwood, mi ha raccontato di aver visto un volto a una delle finestre...»
+«Fra un momento arriverà qualcuno», riprese il prete, con lo stesso contegno di grave riserbo, «che mi solleverà da questa responsabilità. Quando vi avrò messo di fronte a lui, avrò compiuto il mio dovere di testimone in una faccenda seria. Non mi resta che dire che una domestica, su a [[house|Villa]] Beechwood, mi ha raccontato di aver visto un volto a una delle finestre...»
 
 «Io ho visto un volto», disse Opal, «a una delle nostre finestre.»
 
@@ -2453,7 +2453,7 @@ Ma le sue lagnanze ricevettero scarsa attenzione nell'eccitazione generale che s
 
 «È [[motifs/well|bene]] vedere i fatti anche se sono volti», disse [[characters/father-brown|Father Brown]] con calma, «e credo che il volto che avete visto...»
 
-Un altro colpo alla porta d'ingresso risuonò per la casa, e un minuto dopo la porta della stanza si aprì e apparve un'altra figura. Devine si [[motifs/rose|sollevò]] a metà dalla sedia alla sua vista.
+Un altro colpo alla porta d'ingresso risuonò per la [[house|casa]], e un minuto dopo la porta della stanza si aprì e apparve un'altra figura. Devine si [[motifs/rose|sollevò]] a metà dalla sedia alla sua vista.
 
 Era una figura alta ed eretta, dal volto lungo e piuttosto cadaverico, che terminava in un mento formidabile. La fronte era piuttosto calva, e gli occhi vividi e azzurri, che Devine aveva visto l'ultima volta nascosti sotto un ampio cappello di paglia.
 
@@ -2465,7 +2465,7 @@ Era una figura alta ed eretta, dal volto lungo e piuttosto cadaverico, che termi
 
 «Come avete osservato voi stesso», disse Carver, «non è sempre facile distinguere una vespa da un'ape.»
 
-Dopo una pausa, continuò: «Posso vantarmi di essere uno degli [[motifs/insects|insetti]] più utili, benché altrettanto fastidiosi. Sono un [[archetypes/detective|investigatore]], e sono venuto quaggiù a indagare su una presunta ripresa delle attività del criminale che si fa chiamare [[characters/michael|Michael]] Moonshine. I furti di [[motifs/jewel|gioielli]] erano la sua specialità; e ce n'è appena stato uno a Villa Beechwood che, a giudicare da tutte le prove tecniche, è manifestamente opera sua. Non solo le impronte corrispondono, ma forse saprete che quando fu arrestato l'ultima volta, e si crede anche in altre occasioni, indossava un travestimento semplice ma efficace: una barba rossa e un paio di grandi occhiali con la montatura di corno.»
+Dopo una pausa, continuò: «Posso vantarmi di essere uno degli [[motifs/insects|insetti]] più utili, benché altrettanto fastidiosi. Sono un [[archetypes/detective|investigatore]], e sono venuto quaggiù a indagare su una presunta ripresa delle attività del criminale che si fa chiamare [[characters/michael|Michael]] Moonshine. I furti di [[motifs/jewel|gioielli]] erano la sua specialità; e ce n'è appena stato uno a [[house|Villa]] Beechwood che, a giudicare da tutte le prove tecniche, è manifestamente opera sua. Non solo le impronte corrispondono, ma forse saprete che quando fu arrestato l'ultima volta, e si crede anche in altre occasioni, indossava un travestimento semplice ma efficace: una barba rossa e un paio di grandi occhiali con la montatura di corno.»
 
 Opal Bankes si sporse in avanti con ardore.
 
@@ -2473,7 +2473,7 @@ Opal Bankes si sporse in avanti con ardore.
 
 «Era anche il [[archetypes/ghost|fantasma]] che ha visto la domestica di Beechwood», disse Carver seccamente.
 
-Posò alcune carte e alcuni involti sul tavolo, e cominciò con cura a dispiegarli. «Come dicevo», proseguì, «sono stato mandato quaggiù a fare indagini sui piani criminali di quest'uomo, Moonshine. Ecco perché mi sono interessato all'apicoltura e sono andato ad alloggiare dal signor Smith.»
+Posò alcune carte e alcuni involti sul tavolo, e cominciò con cura a dispiegarli. «Come dicevo», proseguì, «sono stato mandato quaggiù a fare indagini sui piani criminali di quest'uomo, Moonshine. Ecco perché mi sono interessato all'apicoltura e sono andato ad alloggiare dal signor [[smith|Smith]].»
 
 Ci fu un [[motifs/silence|silenzio]], e poi Devine trasalì e parlò: «Non vorrete mica dire sul serio che quel simpatico vecchietto...»
 
@@ -2485,9 +2485,9 @@ Ci fu un [[motifs/silence|silenzio]], e poi Devine trasalì e parlò: «Non vorr
 
 
 Devine nodded gloomily, and the [[archetypes/detective|detective]] turned back to his papers.
-"Suspecting Smith, I wanted to get him out of the way and go through his
+"Suspecting [[smith|Smith]], I wanted to get him out of the way and go through his
 belongings; so I took advantage of Mr. Bankes's kindness in giving him a
-joy ride. Searching his house, I found some curious things to be owned
+joy ride. Searching his [[house]], I found some curious things to be owned
 by an [[archetypes/innocent|innocent]] old rustic interested only in [[motifs/bees|bees]]. This is one of them."
 
 From the unfolded paper he lifted a long, hairy object almost scarlet in
@@ -2496,13 +2496,13 @@ colour--the sort of sham beard that is worn in theatricals.
 Beside it lay an old pair of heavy horn-rimmed spectacles.
 
 "But I also found something," continued Carver, "that more directly
-concerns this house, and must be my excuse for intruding to-[[motifs/night|night]]. I
+concerns this [[house]], and must be my excuse for intruding to-[[motifs/night|night]]. I
 found a memorandum, with notes of the names and conjectural value of
 various pieces of jewellery in the neighbourhood. Immediately after the
 note of Lady Pulman's tiara was the mention of an emerald necklace
 belonging to Mrs. Bankes."
 
-Mrs. Bankes, who had hitherto regarded the invasion of her house with an
+Mrs. Bankes, who had hitherto regarded the invasion of her [[house]] with an
 air of supercilious bewilderment, suddenly grew attentive. Her face
 suddenly looked ten years older and much more intelligent. But before
 she could speak the impetuous John had risen to his full height like a
@@ -2514,7 +2514,7 @@ to see about that necklace!"
 "Not a bad idea," said Carver, as the young man rushed from the room;
 "though, of course, we've been keeping our eyes open since we've been
 here. [[motifs/well|Well]], it took me a little [[motifs/time|time]] to make out the memorandum, which
-was in cipher, and [[characters/father-brown|Father Brown]]'s telephone message from the House came
+was in cipher, and [[characters/father-brown|Father Brown]]'s telephone message from the [[house|House]] came
 as I was near the end. I asked him to run round here first with the
 news, and I would follow; and so----"
 
@@ -2534,7 +2534,7 @@ fierce red whiskers and the upper part of a red beard. The next moment
 it had vanished.
 
 Devine had taken a single stride towards the [[motifs/window|window]] when a shout
-resounded through the house, a shout that seemed to shake it. It seemed
+resounded through the [[house]], a shout that seemed to shake it. It seemed
 almost too deafening to be distinguishable as words; yet it was enough
 to stop Devine in his stride, and he knew what had happened.
 
@@ -2617,19 +2617,19 @@ get shot getting away with them. Where are the jewels?"
 <span class="qlang-split" data-lang="it"></span>
 
 Devine annuì con aria cupa, e il [[archetypes/detective|detective]] tornò a chinarsi sulle sue carte.
-«Sospettando di Smith, volevo toglierlo di mezzo e passare al setaccio le sue cose; perciò approfittai della cortesia del signor Bankes, che gli offrì una gita in automobile. Frugando nella sua casa, trovai certi oggetti curiosi, per un [[archetypes/innocent|innocente]] vecchio campagnolo che si interessa soltanto di [[motifs/bees|api]]. Ecco uno di essi.»
+«Sospettando di [[smith|Smith]], volevo toglierlo di mezzo e passare al setaccio le sue cose; perciò approfittai della cortesia del signor Bankes, che gli offrì una gita in automobile. Frugando nella sua [[house|casa]], trovai certi oggetti curiosi, per un [[archetypes/innocent|innocente]] vecchio campagnolo che si interessa soltanto di [[motifs/bees|api]]. Ecco uno di essi.»
 
 Dalla carta spiegata sollevò un oggetto lungo e peloso, di un colore quasi scarlatto: quella specie di barba finta che si usa nelle recite.
 
 Accanto giaceva un vecchio paio di pesanti occhiali dalla montatura di corno.
 
-«Ma ho trovato anche qualcosa» proseguì Carver «che riguarda più da vicino questa casa, e che deve valermi da scusa per essermi intromesso di [[motifs/night|notte]]. Ho trovato un memorandum, con annotati i nomi e il valore presunto di vari gioielli del vicinato. Subito dopo la nota sul diadema di Lady Pulman veniva menzionata una collana di smeraldi appartenente alla signora Bankes.»
+«Ma ho trovato anche qualcosa» proseguì Carver «che riguarda più da vicino questa [[house|casa]], e che deve valermi da scusa per essermi intromesso di [[motifs/night|notte]]. Ho trovato un memorandum, con annotati i nomi e il valore presunto di vari gioielli del vicinato. Subito dopo la nota sul diadema di Lady Pulman veniva menzionata una collana di smeraldi appartenente alla signora Bankes.»
 
-La signora Bankes, che fino a quel momento aveva osservato l'invasione della propria casa con un'aria di sprezzante sconcerto, si fece d'un tratto attenta. Il suo volto parve improvvisamente invecchiato di dieci anni e molto più intelligente. Ma prima che potesse parlare, l'impetuoso John si era levato in tutta la sua statura come un elefante che barrisce.
+La signora Bankes, che fino a quel momento aveva osservato l'invasione della propria [[house|casa]] con un'aria di sprezzante sconcerto, si fece d'un tratto attenta. Il suo volto parve improvvisamente invecchiato di dieci anni e molto più intelligente. Ma prima che potesse parlare, l'impetuoso John si era levato in tutta la sua statura come un elefante che barrisce.
 
 «E il diadema è già sparito!» ruggì; «e la collana... vado subito a vedere che ne è di quella collana!»
 
-«Non è una cattiva idea» disse Carver, mentre il giovanotto si precipitava fuori dalla stanza; «anche se, naturalmente, da quando siamo qui teniamo gli occhi bene aperti. [[motifs/well|Ebbene]], mi ci volle un po' di [[motifs/time|tempo]] per decifrare il memorandum, che era in codice, e il messaggio telefonico di [[characters/father-brown|Father Brown]] dalla Villa arrivò quando ero ormai quasi alla fine. Gli chiesi di venire prima qui di corsa con la notizia, e che io lo avrei seguito; e così...»
+«Non è una cattiva idea» disse Carver, mentre il giovanotto si precipitava fuori dalla stanza; «anche se, naturalmente, da quando siamo qui teniamo gli occhi bene aperti. [[motifs/well|Ebbene]], mi ci volle un po' di [[motifs/time|tempo]] per decifrare il memorandum, che era in codice, e il messaggio telefonico di [[characters/father-brown|Father Brown]] dalla [[house|Villa]] arrivò quando ero ormai quasi alla fine. Gli chiesi di venire prima qui di corsa con la notizia, e che io lo avrei seguito; e così...»
 
 Il suo discorso fu spezzato da un grido. Opal era in piedi e indicava, con gesto rigido, la [[motifs/window|finestra]] rotonda.
 
@@ -2637,7 +2637,7 @@ Il suo discorso fu spezzato da un grido. Opal era in piedi e indicava, con gesto
 
 Per un attimo tutti videro qualcosa... qualcosa che scagionava la signora dalle accuse di menzogna e di isterismo che le venivano non di rado rivolte. Sporto dal buio ardesia là fuori, il volto era pallido, o forse sbiancato dalla pressione contro il vetro; e i grandi occhi sbarrati, cerchiati come da anelli, gli davano piuttosto l'aspetto di un grosso pesce che, uscito dal mare azzurro cupo, viene a curiosare all'oblò di una [[motifs/ship|nave]]. Ma le branchie o le pinne del pesce erano di un rosso ramato; erano, in [[concepts/truth|verità]], feroci basette rosse e la parte superiore di una barba rossa. Un istante dopo era svanito.
 
-Devine aveva fatto un solo passo verso la [[motifs/window|finestra]] quando un urlo risuonò per tutta la casa, un urlo che parve scuoterla. Sembrava quasi troppo assordante perché lo si potesse distinguere in parole; eppure bastò a fermare Devine a mezzo passo, ed egli seppe che cosa era accaduto.
+Devine aveva fatto un solo passo verso la [[motifs/window|finestra]] quando un urlo risuonò per tutta la [[house|casa]], un urlo che parve scuoterla. Sembrava quasi troppo assordante perché lo si potesse distinguere in parole; eppure bastò a fermare Devine a mezzo passo, ed egli seppe che cosa era accaduto.
 
 «La collana è sparita!» gridò John Bankes, apparendo enorme e ansante sulla soglia, e svanendo quasi all'istante di nuovo con lo slancio di un segugio all'inseguimento.
 
@@ -2739,7 +2739,7 @@ Devine said, abruptly, at last:
 
 The priest shook his head. "I can't explain it at all, just yet," he
 said, simply. "I can see one or two odd things, but I don't understand
-them. As yet I've nothing to go on to prove the man's innocence, except
+them. As yet I've nothing to go on to prove the man's [[innocence]], except
 the man. But I'm quite sure I'm right."
 
 He sighed, and put out his hand for his big, black hat. As he removed it
@@ -2793,7 +2793,7 @@ know how you knew, or even what there was to be known."
 
 "One sort of stumbles on things, and there was one stumbling-block at
 the start. I was puzzled by poor Barnard being shot up at Beechwood
-House. Now, even when [[characters/michael|Michael]] was a master criminal, he made it a point
+[[house|House]]. Now, even when [[characters/michael|Michael]] was a master criminal, he made it a point
 of [[concepts/honour|honour]], even a point of [[concepts/vanity|vanity]], to succeed without any killing. It
 seemed extraordinary that when he had become a sort of saint he should
 go out of his way to commit the sin he had despised when he was a
@@ -2841,7 +2841,7 @@ Nessuno pareva sapere che farsene del [[motifs/silence|silenzio]] che seguì, fi
 
 «E allora come diavolo spieghereste tutta la faccenda?»
 
-Il prete scosse il capo. «Non riesco affatto a spiegarla, non ancora», disse, con semplicità. «Vedo una o due cose curiose, ma non le capisco. Per ora non ho nulla su cui appoggiarmi per provare l'innocenza di quell'uomo, tranne l'uomo stesso. Ma sono più che certo di aver ragione.»
+Il prete scosse il capo. «Non riesco affatto a spiegarla, non ancora», disse, con semplicità. «Vedo una o due cose curiose, ma non le capisco. Per ora non ho nulla su cui appoggiarmi per provare l'[[innocence|innocenza]] di quell'uomo, tranne l'uomo stesso. Ma sono più che certo di aver ragione.»
 
 Sospirò, e tese la mano verso il suo grande cappello nero. Nel toglierlo dal tavolo rimase a fissarlo con un'espressione piuttosto nuova, la testa tonda dai capelli lisci inclinata a un angolo insolito. Era quasi come se dal suo cappello fosse uscito qualche curioso animale, come dal cappello di un prestigiatore. Ma gli altri, guardando il tavolo, non vi scorgevano nulla se non i documenti del [[archetypes/detective|poliziotto]] e la vecchia barba di scena da quattro soldi con gli occhiali.
 
@@ -2871,7 +2871,7 @@ Il giorno seguente Devine trovò [[characters/father-brown|Father Brown]] che an
 
 [[characters/father-brown|Father Brown]] sbatté le palpebre benevolo verso le arnie e disse:
 
-«Uno per così dire inciampa nelle cose, e all'inizio c'era un intoppo. Ero perplesso per via del povero Barnard, ucciso a colpi d'arma da fuoco a Beechwood House. Ora, persino quando [[characters/michael|Michael]] era un criminale di gran classe, si faceva un punto d'[[concepts/honour|onore]], anzi un punto di [[concepts/vanity|vanità]], di riuscire senza alcun assassinio. Sembrava straordinario che, una volta diventato una sorta di santo, andasse a cercarsi il peccato che aveva disprezzato quand'era un peccatore. Il resto della faccenda mi ha lasciato perplesso fino all'ultimo; non riuscivo a cavarne nulla, se non che non era vera. Poi ho avuto un tardivo lampo di buonsenso quando ho visto la barba e gli occhialoni e ho ricordato che il ladro era entrato con un'altra barba e altri occhialoni. Ora, certo, era del tutto possibile che ne avesse dei duplicati; ma era per lo meno una coincidenza che non usasse né i vecchi occhiali né la vecchia barba, entrambi in buono stato. Di nuovo, era del tutto possibile che fosse uscito senza di essi e avesse dovuto procurarsene di nuovi; ma era improbabile. Non c'era nulla che lo spingesse ad andarsene in automobile con Bankes; se davvero fosse andato a rubare, avrebbe potuto portarsi comodamente in tasca l'attrezzatura. Del resto, le barbe non crescono sui cespugli. Gli sarebbe stato difficile procurarsi simili cose in qualunque luogo nel [[motifs/time|tempo]] disponibile.
+«Uno per così dire inciampa nelle cose, e all'inizio c'era un intoppo. Ero perplesso per via del povero Barnard, ucciso a colpi d'arma da fuoco a Beechwood [[house|House]]. Ora, persino quando [[characters/michael|Michael]] era un criminale di gran classe, si faceva un punto d'[[concepts/honour|onore]], anzi un punto di [[concepts/vanity|vanità]], di riuscire senza alcun assassinio. Sembrava straordinario che, una volta diventato una sorta di santo, andasse a cercarsi il peccato che aveva disprezzato quand'era un peccatore. Il resto della faccenda mi ha lasciato perplesso fino all'ultimo; non riuscivo a cavarne nulla, se non che non era vera. Poi ho avuto un tardivo lampo di buonsenso quando ho visto la barba e gli occhialoni e ho ricordato che il ladro era entrato con un'altra barba e altri occhialoni. Ora, certo, era del tutto possibile che ne avesse dei duplicati; ma era per lo meno una coincidenza che non usasse né i vecchi occhiali né la vecchia barba, entrambi in buono stato. Di nuovo, era del tutto possibile che fosse uscito senza di essi e avesse dovuto procurarsene di nuovi; ma era improbabile. Non c'era nulla che lo spingesse ad andarsene in automobile con Bankes; se davvero fosse andato a rubare, avrebbe potuto portarsi comodamente in tasca l'attrezzatura. Del resto, le barbe non crescono sui cespugli. Gli sarebbe stato difficile procurarsi simili cose in qualunque luogo nel [[motifs/time|tempo]] disponibile.
 
 
 
@@ -2902,7 +2902,7 @@ horrible halo of deathly things."
 "You mean----" began Devine.
 
 "I mean it was a dead man who looked in at the [[motifs/window|window]]," said Father
-Brown. "It was a dead man who crawled round more than one house, looking
+Brown. "It was a dead man who crawled round more than one [[house]], looking
 in at more than one [[motifs/window|window]]. Creepy, wasn't it? But in one way it was the
 reverse of a [[archetypes/ghost|ghost]]; for it was not the antic of the [[motifs/soul|soul]] freed from the
 [[concepts/body|body]]. It was the antic of the [[concepts/body|body]] freed from the [[motifs/soul|soul]]."
@@ -2919,7 +2919,7 @@ social types or trades. Any man can be a murderer like poor John; any
 man, even the same man, can be a saint like poor [[characters/michael|Michael]]. But if there
 is one type that tends at times to be more utterly godless than another,
 it is that rather brutal sort of business man. He has no social ideal,
-let alone religion; he has neither the gentleman's traditions nor the
+let [[Alone|alone]] religion; he has neither the gentleman's traditions nor the
 trade unionist's class loyalty. All his boasts about getting good
 bargains were practically boasts of having cheated people. His snubbing
 of his sister's poor little attempts at mysticism was detestable. Her
@@ -2978,7 +2978,7 @@ this world, doesn't it?"
 
 «Vuol dire...» cominciò Devine.
 
-«Voglio dire che era un morto a guardare dentro dalla [[motifs/window|finestra]],» disse padre Brown. «Era un morto a strisciare intorno a più di una casa, sbirciando dentro da più di una [[motifs/window|finestra]]. Da far venire i brividi, non è vero? Ma in un certo senso era il rovescio di un [[archetypes/ghost|fantasma]]; perché non era la buffonata dell'[[motifs/soul|anima]] liberata dal [[concepts/body|corpo]]. Era la buffonata del [[concepts/body|corpo]] liberato dall'[[motifs/soul|anima]].»
+«Voglio dire che era un morto a guardare dentro dalla [[motifs/window|finestra]],» disse padre Brown. «Era un morto a strisciare intorno a più di una [[house|casa]], sbirciando dentro da più di una [[motifs/window|finestra]]. Da far venire i brividi, non è vero? Ma in un certo senso era il rovescio di un [[archetypes/ghost|fantasma]]; perché non era la buffonata dell'[[motifs/soul|anima]] liberata dal [[concepts/body|corpo]]. Era la buffonata del [[concepts/body|corpo]] liberato dall'[[motifs/soul|anima]].»
 
 Sbatté di nuovo le palpebre verso l'alveare e proseguì: «Ma, suppongo, la spiegazione più breve sia prenderla dal punto di vista dell'uomo che lo fece. Voi conoscete l'uomo che lo fece. John Bankes.»
 
@@ -2999,7 +2999,7 @@ Vi fu una breve pausa, poi Devine si strinse nelle spalle e disse: «Alla fine t
 <span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_01" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 1)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt" data-tags="archetype/fool,motif/grave,motif/leaves,motif/moon,motif/nature,motif/soul,motif/time,motif/well,concept/grotesque,concept/history,concept/nature,concept/providence,concept/self,concept/wonder,form/history,setting/london,character/father_brown,character/hamlet"></span>
 
 
-III THE SONG OF THE FLYING FISH
+III THE [[Song|SONG]] OF THE FLYING FISH
 
 THE [[motifs/soul|soul]] of Mr. Peregrine Smart hovered like a fly round one possession
 and one joke. It might be considered a mild joke, for it consisted
@@ -3017,7 +3017,7 @@ was not close, as he was a specialist who had concentrated entirely upon
 the primitive ancestry of the giraffe. To [[characters/father-brown|Father Brown]], from a church in
 the neighbouring provincial town, he traced a rapid train of thought
 which touched on the topics of "Rome--St. Peter--fisherman--fish--goldfish."
-In talking to Mr. Imlack Smith, the bank manager, a slim and sallow
+In talking to Mr. Imlack [[smith|Smith]], the bank manager, a slim and sallow
 gentleman of dressy appearance but quiet demeanour, he violently
 wrenched the conversation to the subject of the gold standard, from
 which it was merely a step to goldfish. In talking to that brilliant
@@ -3037,7 +3037,7 @@ The peculiar thing about the goldfish was that they were made of gold.
 They were part of an eccentric but expensive toy, said to have been made
 by the freak of some rich Eastern prince, and Mr. Smart had picked it up
 at some sale or in some curiosity shop, such as he frequented for the
-purpose of lumbering up his house with unique and useless things. From
+purpose of lumbering up his [[house]] with unique and useless things. From
 the other end of the room it looked like a rather unusually large bowl
 containing rather unusually large living fish; a closer inspection
 showed it to be a huge bubble of beautifully blown Venetian glass, very
@@ -3051,7 +3051,7 @@ was mildly surprised at his talking so freely of the gems of his
 collection to the group of comparative strangers who happened to have
 alighted in a rather nomadic fashion in the neighbourhood; for
 collectors are commonly vigilant and sometimes secretive. In the course
-of settling down to his new duties, Mr. Boyle found he was not alone in
+of settling down to his new duties, Mr. Boyle found he was not [[Alone|alone]] in
 this sentiment, and that in others, it passed from a mild [[concepts/wonder|wonder]] to a
 [[motifs/grave|grave]] disapproval.
 
@@ -3106,12 +3106,12 @@ served the simpler needs of the [[characters/hamlet|hamlet]], and at the corner 
 Blue Dragon, at which Mr. Hartopp, the stranger from [[settings/london|London]], was
 staying. On the opposite side were three houses, one rented by the Count
 de Lara, one by Dr. Burdock, and the third still standing empty. On the
-fourth side was the bank, with an adjoining house for the bank manager,
+fourth side was the bank, with an adjoining [[house]] for the bank manager,
 and a line offence enclosing some land that was let for building. It was
 thus a very [[concepts/self|self]]-contained group, and the comparative emptiness of the
 open ground for miles round it threw the members more and more on each
 other's society. That afternoon, one stranger had indeed broken into the
-magic circle: a hatchet-faced fellow with fierce tufts of eyebrows and
+[[Magic|magic]] circle: a hatchet-faced fellow with fierce tufts of eyebrows and
 moustache, and so shabbily dressed that he must have been a millionaire
 or a duke if he had really (as was alleged) come down to do business
 with the old collector. But he was known, at the Blue Dragon at least,
@@ -3120,13 +3120,13 @@ as Mr. Harmer.
 
 <span class="qlang-split" data-lang="it"></span>
 
-III IL CANTO DEL PESCE VOLANTE
+III IL [[Song|CANTO]] DEL PESCE VOLANTE
 
-L'[[motifs/soul|anima]] del signor Peregrine Smart ronzava come una mosca intorno a un unico possesso e a un unico scherzo. Poteva passare per uno scherzo innocuo, giacché consisteva semplicemente nel domandare alla gente se avessero visto i suoi pesci d'oro. Poteva anche passare per uno scherzo costoso; ma è dubbio se egli non fosse in segreto più affezionato allo scherzo che alla prova della spesa. Discorrendo con i vicini di quel piccolo agglomerato di case nuove che era cresciuto attorno all'antico prato del villaggio, non perdeva [[motifs/time|tempo]] a volgere la conversazione in direzione del suo passatempo. Con il dottor Burdock, biologo emergente dal mento risoluto e dai capelli tirati all'indietro alla tedesca, il signor Smart operava la transizione più agevole. «Lei si interessa di storia [[concepts/history|naturale]]; ha visto i miei pesci d'oro?». Per un evoluzionista così ortodosso come il dottor Burdock senza dubbio tutta la [[concepts/nature|natura]] era una cosa sola; ma a prima vista il legame non era stretto, dacché egli era uno specialista che si era concentrato interamente sulla primitiva ascendenza della giraffa. Con [[characters/father-brown|Father Brown]], venuto da una chiesa della vicina cittadina di provincia, egli seguiva un rapido concatenarsi di pensieri che toccava i temi di «Roma — san Pietro — pescatore — pesce — pesci d'oro». Discorrendo con il signor Imlack Smith, il direttore della banca, un gentiluomo esile e giallastro, di aspetto ricercato ma di modi tranquilli, torceva con violenza la conversazione verso l'argomento del regime aureo, dal quale non c'era che un passo per giungere ai pesci d'oro. Discorrendo con quel brillante viaggiatore e studioso d'Oriente, il conte Yvon de Lara (il cui titolo era francese e il volto piuttosto russo, per non dire tartaro), il versatile conversatore mostrava un interesse intenso e intelligente per il Gange e per l'Oceano Indiano, che conduceva naturalmente alla possibile presenza di pesci d'oro in quelle acque.
+L'[[motifs/soul|anima]] del signor Peregrine Smart ronzava come una mosca intorno a un unico possesso e a un unico scherzo. Poteva passare per uno scherzo innocuo, giacché consisteva semplicemente nel domandare alla gente se avessero visto i suoi pesci d'oro. Poteva anche passare per uno scherzo costoso; ma è dubbio se egli non fosse in segreto più affezionato allo scherzo che alla prova della spesa. Discorrendo con i vicini di quel piccolo agglomerato di case nuove che era cresciuto attorno all'antico prato del villaggio, non perdeva [[motifs/time|tempo]] a volgere la conversazione in direzione del suo passatempo. Con il dottor Burdock, biologo emergente dal mento risoluto e dai capelli tirati all'indietro alla tedesca, il signor Smart operava la transizione più agevole. «Lei si interessa di storia [[concepts/history|naturale]]; ha visto i miei pesci d'oro?». Per un evoluzionista così ortodosso come il dottor Burdock senza dubbio tutta la [[concepts/nature|natura]] era una cosa sola; ma a prima vista il legame non era stretto, dacché egli era uno specialista che si era concentrato interamente sulla primitiva ascendenza della giraffa. Con [[characters/father-brown|Father Brown]], venuto da una chiesa della vicina cittadina di provincia, egli seguiva un rapido concatenarsi di pensieri che toccava i temi di «Roma — san Pietro — pescatore — pesce — pesci d'oro». Discorrendo con il signor Imlack [[smith|Smith]], il direttore della banca, un gentiluomo esile e giallastro, di aspetto ricercato ma di modi tranquilli, torceva con violenza la conversazione verso l'argomento del regime aureo, dal quale non c'era che un passo per giungere ai pesci d'oro. Discorrendo con quel brillante viaggiatore e studioso d'Oriente, il conte Yvon de Lara (il cui titolo era francese e il volto piuttosto russo, per non dire tartaro), il versatile conversatore mostrava un interesse intenso e intelligente per il Gange e per l'Oceano Indiano, che conduceva naturalmente alla possibile presenza di pesci d'oro in quelle acque.
 
 Dal signor Harry Hartopp, il giovane gentiluomo ricchissimo ma timidissimo e taciturno che di recente era sceso da [[settings/london|Londra]], aveva alla fine estorto l'informazione che l'imbarazzato giovanotto in questione non si interessava di pesca, e aveva poi soggiunto: «A proposito di pesca, ha visto i miei pesci d'oro?».
 
-La particolarità di quei pesci d'oro era che erano fatti d'oro. Facevano parte di un giocattolo eccentrico ma dispendioso, che si diceva fabbricato per il capriccio di qualche ricco principe orientale, e il signor Smart lo aveva rilevato a qualche vendita o in qualche bottega di curiosità, di quelle che frequentava allo scopo di ingombrare la sua casa di oggetti unici e inutili. Dall'altro capo della stanza esso pareva una boccia insolitamente grande contenente pesci vivi insolitamente grandi; a un'ispezione più ravvicinata si rivelava una enorme bolla di vetro di Venezia soffiato con squisita arte, sottilissimo e delicatamente velato di un colore lievemente iridescente, nel cui crepuscolo dai toni tenui pendevano [[concepts/grotesque|grotteschi]] pesci d'oro dagli occhi di grossi rubini. Nel suo insieme la cosa valeva senza dubbio parecchio per la sola materia; quanto di più sarebbe dipeso dalle ondate di follia che passano sul mondo dei collezionisti. Il nuovo segretario del signor Smart, un giovane di nome Francis Boyle, benché irlandese e non famoso per la prudenza, era lievemente sorpreso di sentirlo parlare così apertamente delle gemme della sua collezione a quel gruppo di quasi sconosciuti che si erano posati, in modo piuttosto nomade, nel vicinato; giacché i collezionisti sono di solito vigili e talvolta segreti. Nel prendere confidenza con le sue nuove mansioni, il signor Boyle scoprì di non essere solo in questo sentimento, e che in altri esso passava da una lieve [[concepts/wonder|meraviglia]] a una [[motifs/grave|grave]] disapprovazione.
+La particolarità di quei pesci d'oro era che erano fatti d'oro. Facevano parte di un giocattolo eccentrico ma dispendioso, che si diceva fabbricato per il capriccio di qualche ricco principe orientale, e il signor Smart lo aveva rilevato a qualche vendita o in qualche bottega di curiosità, di quelle che frequentava allo scopo di ingombrare la sua [[house|casa]] di oggetti unici e inutili. Dall'altro capo della stanza esso pareva una boccia insolitamente grande contenente pesci vivi insolitamente grandi; a un'ispezione più ravvicinata si rivelava una enorme bolla di vetro di Venezia soffiato con squisita arte, sottilissimo e delicatamente velato di un colore lievemente iridescente, nel cui crepuscolo dai toni tenui pendevano [[concepts/grotesque|grotteschi]] pesci d'oro dagli occhi di grossi rubini. Nel suo insieme la cosa valeva senza dubbio parecchio per la sola materia; quanto di più sarebbe dipeso dalle ondate di follia che passano sul mondo dei collezionisti. Il nuovo segretario del signor Smart, un giovane di nome Francis Boyle, benché irlandese e non famoso per la prudenza, era lievemente sorpreso di sentirlo parlare così apertamente delle gemme della sua collezione a quel gruppo di quasi sconosciuti che si erano posati, in modo piuttosto nomade, nel vicinato; giacché i collezionisti sono di solito vigili e talvolta segreti. Nel prendere confidenza con le sue nuove mansioni, il signor Boyle scoprì di non essere [[Alone|solo]] in questo sentimento, e che in altri esso passava da una lieve [[concepts/wonder|meraviglia]] a una [[motifs/grave|grave]] disapprovazione.
 
 «C'è da meravigliarsi [[concepts/wonder|che]] non gli abbiano ancora tagliato la gola», disse Harris, il cameriere del signor Smart, non senza un compiacimento ipotetico, quasi avesse detto, in senso puramente artistico: «È un peccato».
 
@@ -3140,7 +3140,7 @@ La particolarità di quei pesci d'oro era che erano fatti d'oro. Facevano parte 
 
 La sua disapprovazione si sarebbe probabilmente aggravata se avesse udito la conversazione svoltasi quel pomeriggio nel salotto del suo padrone, una conversazione di cui i pesci d'oro erano il pretesto, benché l'offensivo straniero tendesse sempre più a esserne la figura centrale. Non che parlasse tanto; ma persino i suoi silenzi avevano qualcosa di positivo. Appariva ancora più massiccio a starsene raggomitolato in una specie di mucchio sopra un mucchio di cuscini, e nel crepuscolo che si faceva più fitto il suo ampio volto mongolico pareva debolmente luminoso, come una [[motifs/moon|luna]]. Forse lo sfondo faceva risaltare qualcosa di atmosfericamente asiatico nel suo viso e nella sua figura, poiché la stanza era un caos di curiosità più o meno costose, in mezzo alle quali si scorgevano le curve tortuose e i colori ardenti di innumerevoli armi orientali, pipe e vasi orientali, strumenti musicali orientali e manoscritti miniati. Comunque fosse, mentre la conversazione procedeva, Boyle sentiva sempre più che la figura seduta sui cuscini e scura contro il crepuscolo aveva l'esatto profilo di una enorme immagine di Buddha.
 
-La conversazione fu abbastanza generale, giacché era presente tutto il piccolo gruppo locale. Essi avevano, in verità, l'abitudine di lasciarsi cadere spesso nelle rispettive case, e a quel [[motifs/time|punto]] costituivano una sorta di circolo, composto delle persone provenienti dalle quattro o cinque case che sorgevano intorno al prato. Di queste case, quella di Peregrine Smart era la più antica, la più grande e la più pittoresca; si allungava disordinatamente lungo quasi tutto un lato della piazza, lasciando posto soltanto a una piccola villa, abitata da un colonnello a riposo di nome Varney, che si diceva fosse un invalido, e che di certo non lo si vedeva mai uscire. Ad angolo retto rispetto a queste stavano due o tre botteghe che servivano ai bisogni più semplici del [[characters/hamlet|borgo]], e all'angolo la locanda del Drago Azzurro, presso la quale alloggiava il signor Hartopp, il forestiero venuto da [[settings/london|Londra]]. Sul lato opposto si trovavano tre case, una affittata dal conte de Lara, una dal dottor Burdock, e la terza ancora vuota. Sul quarto lato c'era la banca, con un'attigua casa per il direttore, e uno steccato che recingeva del terreno concesso in affitto per edificarvi. Era dunque un gruppo molto [[concepts/self|autosufficiente]], e la relativa desolazione della campagna aperta per miglia tutt'intorno gettava i suoi membri sempre più l'uno nella compagnia dell'altro. Quel pomeriggio, un forestiero aveva davvero fatto irruzione nel cerchio magico: un tale dal volto affilato, con feroci ciuffi di sopracciglia e di baffi, e vestito così malamente che doveva per forza essere un milionario o un duca, se davvero (come si sosteneva) era sceso a trattare affari con il vecchio collezionista. Ma era conosciuto, almeno al Drago Azzurro, come il signor Harmer.
+La conversazione fu abbastanza generale, giacché era presente tutto il piccolo gruppo locale. Essi avevano, in verità, l'abitudine di lasciarsi cadere spesso nelle rispettive case, e a quel [[motifs/time|punto]] costituivano una sorta di circolo, composto delle persone provenienti dalle quattro o cinque case che sorgevano intorno al prato. Di queste case, quella di Peregrine Smart era la più antica, la più grande e la più pittoresca; si allungava disordinatamente lungo quasi tutto un lato della piazza, lasciando posto soltanto a una piccola villa, abitata da un colonnello a riposo di nome Varney, che si diceva fosse un invalido, e che di certo non lo si vedeva mai uscire. Ad angolo retto rispetto a queste stavano due o tre botteghe che servivano ai bisogni più semplici del [[characters/hamlet|borgo]], e all'angolo la locanda del Drago Azzurro, presso la quale alloggiava il signor Hartopp, il forestiero venuto da [[settings/london|Londra]]. Sul lato opposto si trovavano tre case, una affittata dal conte de Lara, una dal dottor Burdock, e la terza ancora vuota. Sul quarto lato c'era la banca, con un'attigua [[house|casa]] per il direttore, e uno steccato che recingeva del terreno concesso in affitto per edificarvi. Era dunque un gruppo molto [[concepts/self|autosufficiente]], e la relativa desolazione della campagna aperta per miglia tutt'intorno gettava i suoi membri sempre più l'uno nella compagnia dell'altro. Quel pomeriggio, un forestiero aveva davvero fatto irruzione nel cerchio [[Magic|magico]]: un tale dal volto affilato, con feroci ciuffi di sopracciglia e di baffi, e vestito così malamente che doveva per forza essere un milionario o un duca, se davvero (come si sosteneva) era sceso a trattare affari con il vecchio collezionista. Ma era conosciuto, almeno al Drago Azzurro, come il signor Harmer.
 
 
 
@@ -3168,7 +3168,7 @@ the great how small are the laws of space and [[motifs/time|time]]."
 
 "When we really study the small laws of space and [[motifs/time|time]]," said Dr.
 Burdock dryly, "we generally find out how those tricks are done. Western
-science has let in daylight on a good deal of Eastern magic. Doubtless a
+science has let in daylight on a good deal of Eastern [[Magic|magic]]. Doubtless a
 great deal can be done with hypnotism and suggestion, to say nothing of
 sleight-of-hand."
 
@@ -3222,7 +3222,7 @@ glaring through the same bars, saw that they were once more between him
 and the street, where the beggar stood free and smiling with a paper in
 his hand."
 
-Mr. Imlack Smith, the bank manager, was looking at the carpet with his
+Mr. Imlack [[smith|Smith]], the bank manager, was looking at the carpet with his
 dark sleek head bowed, and he spoke for the first [[motifs/time|time]].
 
 "Did anything happen about the paper?" he asked.
@@ -3248,7 +3248,7 @@ all the [[motifs/supernatural|supernatural]] acts we have yet heard of seem to b
 stealing by spiritual methods seem to me much the same as stealing by
 material ones."
 
-"[[characters/father-brown|Father Brown]] is a Philistine," said the smiling Smith.
+"[[characters/father-brown|Father Brown]] is a Philistine," said the smiling [[smith|Smith]].
 
 "I have a sympathy with the tribe," said [[characters/father-brown|Father Brown]]. "A Philistine is
 only a man who is right without knowing why."
@@ -3290,7 +3290,7 @@ e del [[motifs/time|tempo]].»
 «Quando studiamo davvero le piccole leggi dello spazio e del
 [[motifs/time|tempo]]», disse il dottor Burdock in tono asciutto, «scopriamo di
 solito come questi trucchi vengano eseguiti. La scienza occidentale ha
-fatto entrare la luce del giorno su buona parte della magia
+fatto entrare la luce del giorno su buona parte della [[Magic|magia]]
 orientale. Senza dubbio molto si può ottenere con l'ipnotismo e la
 suggestione, per non parlare dei giochi di prestigio.»
 
@@ -3347,7 +3347,7 @@ sempre fissando attraverso le medesime sbarre, vide che esse erano di
 nuovo fra lui e la strada, dove il mendicante se ne stava libero e
 sorridente con un foglio in mano.»
 
-Il signor Imlack Smith, il direttore della banca, guardava il
+Il signor Imlack [[smith|Smith]], il direttore della banca, guardava il
 tappeto con il capo bruno e liscio chino, e parlò per la prima
 [[motifs/time|volta]].
 
@@ -3375,7 +3375,7 @@ gli atti [[motifs/supernatural|soprannaturali]] di cui abbiamo sinora sentito
 parlare paiono essere furti. E rubare con metodi spirituali mi sembra
 press'a poco lo stesso che rubare con metodi materiali.»
 
-«[[characters/father-brown|Father Brown]] è un filisteo», disse Smith con un sorriso.
+«[[characters/father-brown|Father Brown]] è un filisteo», disse [[smith|Smith]] con un sorriso.
 
 «Provo simpatia per quella tribù», disse [[characters/father-brown|Father Brown]]. «Un filisteo
 non è che un uomo il quale ha ragione senza sapere perché.»
@@ -3407,16 +3407,16 @@ secretarial duties, and reminded his employer that the head clerk was
 still standing patiently with the papers in his hand.
 
 "Oh, never mind about those just now, Jameson," said Smart rather
-hurriedly. "Only something about my account; I'll see Mr. Smith about it
-later. You were saying that the 'cello, Mr. Smith----"
+hurriedly. "Only something about my account; I'll see Mr. [[smith|Smith]] about it
+later. You were saying that the 'cello, Mr. [[smith|Smith]]----"
 
 But the cold breath of business had sufficed to disperse the fumes of
 transcendental talk, and the guests began one after another to say
-farewell. Only Mr. Imlack Smith, bank manager and musician, remained to
+farewell. Only Mr. Imlack [[smith|Smith]], bank manager and musician, remained to
 the last; and when the rest were gone he and his host went into the
 inner room, where the goldfish were kept, and closed the door.
 
-The house was long and narrow, with a covered balcony running along the
+The [[house]] was long and narrow, with a covered balcony running along the
 first floor, which consisted mostly of a sort of suite of rooms used by
 the householder himself, his bedroom and dressing-room, and an inner
 room in which his very valuable treasures were sometimes stored for the
@@ -3425,7 +3425,7 @@ insufficiently barred door below it, was a matter of concern to the
 housekeeper and the head clerk and the others who lamented the
 carelessness of the collector; but, in [[concepts/truth|truth]], that cunning old gentleman
 was more careful than he seemed. He professed no great belief in the
-antiquated fastenings of the old house, which the housekeeper lamented
+antiquated fastenings of the old [[house]], which the housekeeper lamented
 to see rusting in idleness, but he had an eye to the more important
 point of strategy. He always put his favourite goldfish in the room at
 the back of his bedroom for the [[motifs/night|night]], and slept in front of it, as it
@@ -3440,20 +3440,20 @@ mingling of the two lights the coloured globe glowed like some monstrous
 [[motifs/jewel|jewel]], and the fantastic outlines of the fiery fishes seemed to give it,
 indeed, something of the mystery of a talisman, like strange shapes seen
 by a seer in the crystal of doom. Over the old man's shoulder the olive
-face of Imlack Smith stared like a sphinx.
+face of Imlack [[smith|Smith]] stared like a sphinx.
 
 "I am going up to [[settings/london|London]] to-[[motifs/night|night]], Mr. Boyle," said old Smart, with
-more gravity than he commonly showed. "Mr. Smith and I are catching the
+more gravity than he commonly showed. "Mr. [[smith|Smith]] and I are catching the
 six-forty-five. I should prefer you, Jameson, to [[motifs/sleep|sleep]] upstairs in
 my room to-[[motifs/night|night]]; if you put the bowl in the back room as usual, it
 will be quite safe then. Not that I suppose anything could possibly
 happen."
 
-"Anything may happen anywhere," said the smiling Mr. Smith. "I think you
+"Anything may happen anywhere," said the smiling Mr. [[smith|Smith]]. "I think you
 generally take a gun to bed with you. Perhaps you had better leave it
 behind in this case."
 
-Peregrine Smart did not reply, and they passed out of the house on to
+Peregrine Smart did not reply, and they passed out of the [[house]] on to
 the [[motifs/road|road]] round the village green.
 
 The secretary and the head clerk slept that [[motifs/night|night]] as directed in their
@@ -3503,19 +3503,19 @@ be exiled beyond the sea.
 
 Boyle aveva seguito la conversazione con curiosa attenzione, poiché nel contegno di più d'uno dei presenti c'era qualcosa che gli pareva significativo, o addirittura singolare. Quando il discorso scivolò sulla musica, con un appello all'azzimato direttore di banca (che era un dilettante di musica di un certo merito), il giovane segretario si riscosse di soprassalto ai suoi doveri di segreteria, e rammentò al suo datore di lavoro che il capo contabile se ne stava ancora lì paziente, con le carte in mano.
 
-«Oh, di quelle non c'è bisogno di occuparsi adesso, Jameson», disse Smart con una certa fretta. «È solo una faccenda del mio conto; ne parlerò più tardi con il signor Smith. Diceva dunque del violoncello, signor Smith...»
+«Oh, di quelle non c'è bisogno di occuparsi adesso, Jameson», disse Smart con una certa fretta. «È solo una faccenda del mio conto; ne parlerò più tardi con il signor [[smith|Smith]]. Diceva dunque del violoncello, signor [[smith|Smith]]...»
 
-Ma il gelido soffio degli affari era bastato a disperdere i fumi del discorso trascendentale, e gli ospiti cominciarono a congedarsi l'uno dopo l'altro. Solo il signor Imlack Smith, direttore di banca e musicista, rimase per ultimo; e quando gli altri se ne furono andati, lui e il padrone di casa passarono nella stanza interna, dove si custodivano i pesci d'oro, e ne chiusero la porta.
+Ma il gelido soffio degli affari era bastato a disperdere i fumi del discorso trascendentale, e gli ospiti cominciarono a congedarsi l'uno dopo l'altro. Solo il signor Imlack [[smith|Smith]], direttore di banca e musicista, rimase per ultimo; e quando gli altri se ne furono andati, lui e il padrone di casa passarono nella stanza interna, dove si custodivano i pesci d'oro, e ne chiusero la porta.
 
-La casa era lunga e stretta, con un balcone coperto che correva lungo il primo piano, il quale consisteva per lo più in una sorta di appartamento riservato al padrone stesso: la sua camera da letto, lo spogliatoio, e una stanza interna in cui i suoi tesori di grandissimo valore venivano talora riposti per la [[motifs/night|notte]], anziché lasciati nelle stanze del piano di sotto. Questo balcone, come la porta insufficientemente sbarrata al di sotto, era motivo di preoccupazione per la governante, per il capo contabile e per gli altri che deploravano la sbadataggine del collezionista; ma, in [[concepts/truth|verità]], quel vecchio e astuto gentiluomo era più prudente di quanto sembrasse. Non professava gran fiducia nelle antiquate serrature della vecchia casa, che la governante si doleva di veder arrugginire nell'ozio, ma teneva d'occhio il punto più importante, quello strategico. Metteva sempre i suoi pesci d'oro prediletti nella stanza dietro la sua camera da letto per la [[motifs/night|notte]], e vi dormiva davanti, per così dire, con una [[characters/pistol|pistola]] sotto il cuscino. E quando Boyle e Jameson, in attesa che tornasse dal tête-à-tête, videro alfine la porta aprirsi e ricomparire il loro datore di lavoro, questi recava la grande boccia di vetro con la stessa riverenza con cui si porterebbe la reliquia di un santo.
+La [[house|casa]] era lunga e stretta, con un balcone coperto che correva lungo il primo piano, il quale consisteva per lo più in una sorta di appartamento riservato al padrone stesso: la sua camera da letto, lo spogliatoio, e una stanza interna in cui i suoi tesori di grandissimo valore venivano talora riposti per la [[motifs/night|notte]], anziché lasciati nelle stanze del piano di sotto. Questo balcone, come la porta insufficientemente sbarrata al di sotto, era motivo di preoccupazione per la governante, per il capo contabile e per gli altri che deploravano la sbadataggine del collezionista; ma, in [[concepts/truth|verità]], quel vecchio e astuto gentiluomo era più prudente di quanto sembrasse. Non professava gran fiducia nelle antiquate serrature della vecchia [[house|casa]], che la governante si doleva di veder arrugginire nell'ozio, ma teneva d'occhio il punto più importante, quello strategico. Metteva sempre i suoi pesci d'oro prediletti nella stanza dietro la sua camera da letto per la [[motifs/night|notte]], e vi dormiva davanti, per così dire, con una [[characters/pistol|pistola]] sotto il cuscino. E quando Boyle e Jameson, in attesa che tornasse dal tête-à-tête, videro alfine la porta aprirsi e ricomparire il loro datore di lavoro, questi recava la grande boccia di vetro con la stessa riverenza con cui si porterebbe la reliquia di un santo.
 
-Fuori, gli ultimi lembi del tramonto ancora indugiavano agli angoli della verde piazza; ma dentro era già stata accesa una lampada; e nel mescolarsi delle due luci il globo colorato splendeva come un mostruoso [[motifs/jewel|gioiello]], e i profili fantastici dei pesci di fuoco parevano davvero conferirgli qualcosa del mistero di un talismano, come strane forme intraviste da un veggente nel cristallo del destino. Sopra la spalla del vecchio, il volto olivastro di Imlack Smith fissava come una sfinge.
+Fuori, gli ultimi lembi del tramonto ancora indugiavano agli angoli della verde piazza; ma dentro era già stata accesa una lampada; e nel mescolarsi delle due luci il globo colorato splendeva come un mostruoso [[motifs/jewel|gioiello]], e i profili fantastici dei pesci di fuoco parevano davvero conferirgli qualcosa del mistero di un talismano, come strane forme intraviste da un veggente nel cristallo del destino. Sopra la spalla del vecchio, il volto olivastro di Imlack [[smith|Smith]] fissava come una sfinge.
 
-«Questa [[motifs/night|notte]] parto per [[settings/london|Londra]], signor Boyle», disse il vecchio Smart, con più gravità di quanta ne mostrasse di solito. «Il signor Smith ed io prendiamo il treno delle sei e quarantacinque. Preferirei, Jameson, che questa [[motifs/night|notte]] lei [[motifs/sleep|dormisse]] di sopra, nella mia camera; se mette la boccia nella stanza sul retro come al solito, sarà del tutto al sicuro. Non che io creda possa succedere alcunché.»
+«Questa [[motifs/night|notte]] parto per [[settings/london|Londra]], signor Boyle», disse il vecchio Smart, con più gravità di quanta ne mostrasse di solito. «Il signor [[smith|Smith]] ed io prendiamo il treno delle sei e quarantacinque. Preferirei, Jameson, che questa [[motifs/night|notte]] lei [[motifs/sleep|dormisse]] di sopra, nella mia camera; se mette la boccia nella stanza sul retro come al solito, sarà del tutto al sicuro. Non che io creda possa succedere alcunché.»
 
-«Dovunque può succedere di tutto», disse il signor Smith con un sorriso. «Lei di solito si porta a letto un'arma, mi pare. Forse, in questo caso, farebbe meglio a lasciarla a casa.»
+«Dovunque può succedere di tutto», disse il signor [[smith|Smith]] con un sorriso. «Lei di solito si porta a letto un'arma, mi pare. Forse, in questo caso, farebbe meglio a lasciarla a casa.»
 
-Peregrine Smart non rispose, e uscirono dalla casa sulla [[motifs/road|strada]] che girava attorno al verde della piazza.
+Peregrine Smart non rispose, e uscirono dalla [[house|casa]] sulla [[motifs/road|strada]] che girava attorno al verde della piazza.
 
 Quella [[motifs/night|notte]] il segretario e il capo contabile dormirono, secondo le istruzioni, nella camera del loro datore di lavoro. A voler essere più precisi, Jameson, il capo contabile, dormì in un letto nello spogliatoio, ma la porta di comunicazione restava aperta, e le due stanze che si allungavano sulla facciata erano praticamente una sola. Solo la camera da letto aveva una lunga [[motifs/window|portafinestra]] che dava sul balcone, e un ingresso sul retro verso l'appartamento interno dove per sicurezza era stata posta la boccia dei pesci d'oro. Boyle trascinò il proprio letto di traverso, così da sbarrare quell'ingresso, mise la rivoltella sotto il cuscino, poi si svestì e si coricò, con la sensazione di aver preso ogni precauzione possibile contro un evento impossibile o improbabile. Non vedeva perché dovesse esserci un particolare pericolo di un normale furto con scasso; e quanto al furto spirituale che figurava nei racconti da viaggiatore del conte de Lara, se i suoi pensieri vi correvano ora, così vicino al [[motifs/sleep|sonno]], era perché erano fatti della stessa materia di cui son fatti i [[motifs/dreams|sogni]]. Presto si mutarono davvero in [[motifs/dreams|sogni]], con intervalli di sopore senza sogni. Il vecchio contabile fu un po' più irrequieto del solito; ma dopo essersi agitato ancora un poco e aver ripetuto qualcuno dei suoi rimpianti e ammonimenti prediletti, anch'egli si ritirò nel suo letto allo stesso modo e prese sonno. La [[motifs/moon|luna]] si fece più chiara e poi di nuovo si offuscò sopra la verde piazza e i grigi blocchi delle case, in una [[concepts/solitude|solitudine]] e in un [[motifs/silence|silenzio]] che parevano privi di ogni testimone umano; e fu quando le bianche fenditure dell'alba erano già apparse agli angoli del cielo grigio che la cosa accadde.
 
@@ -3526,7 +3526,7 @@ Boyle, essendo giovane, era naturalmente il più sano e il più pesante dormitor
 <span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_04" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 4)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/birds,motif/dawn,motif/desert,motif/road,motif/rose,motif/sleep,motif/time,motif/well,motif/window,setting/desert,character/hamlet"></span>
 
 
-The first complete impressions he had were the words of a song, with a
+The first complete impressions he had were the words of a [[Song|song]], with a
 rather thin metallic accompaniment; they were sung in a foreign accent
 and a voice that was still strange and yet faintly familiar. And yet he
 could hardly feel sure that he was not making up poetry in his [[motifs/sleep|sleep]].
@@ -3551,7 +3551,7 @@ front door, whatever they say."
 
 He ran downstairs in a flutter and Boyle could hear the clattering of
 the bars upon the front door; but Boyle himself stepped out upon the
-balcony and looked out on the long grey [[motifs/road|road]] that led up to the house,
+balcony and looked out on the long grey [[motifs/road|road]] that led up to the [[house]],
 and he thought he was still dreaming.
 
 Upon that grey [[motifs/road|road]] leading across that empty moor and through that
@@ -3641,7 +3641,7 @@ houses on the other side of the green-Something, perhaps irrational,
 told him that it had been burning through all the hours of the darkness
 and was only fading with the [[motifs/dawn|dawn]]. He counted the houses, and his
 calculation brought out a result which seemed to fit in with something,
-he knew not what. Anyhow, it was apparently the house of the Count Yvon
+he knew not what. Anyhow, it was apparently the [[house]] of the Count Yvon
 de Lara.
 
 Inspector Pinner had arrived with several policemen, and done several
@@ -3651,7 +3651,7 @@ prominence in the newspapers. He had examined everything, measured,
 everything, taken down everybody's deposition, taken everybody's finger
 -prints, put everybody's back up, and found himself at the end left
 facing a fact which he could not believe. An Arab from the [[motifs/desert|desert]] had
-walked up the public [[motifs/road|road]] and stopped in front of the house of Mr.
+walked up the public [[motifs/road|road]] and stopped in front of the [[house]] of Mr.
 Peregrine Smart, where a bowl of artificial goldfish was kept in an
 inner room; he had then sung or recited a little poem, and the bowl had
 exploded like a bomb and the fishes vanished into thin air. Nor did it
@@ -3661,7 +3661,7 @@ voice--that the bounds of experience were being enlarged.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Le prime impressioni compiute che ricevette furono le parole di un canto, con un accompagnamento piuttosto tenue e metallico; erano cantate con accento straniero e da una voce che gli suonava ancora estranea e tuttavia vagamente familiare. Eppure non riusciva a persuadersi del tutto di non stare inventando versi nel [[motifs/sleep|sonno]].
+Le prime impressioni compiute che ricevette furono le parole di un [[Song|canto]], con un accompagnamento piuttosto tenue e metallico; erano cantate con accento straniero e da una voce che gli suonava ancora estranea e tuttavia vagamente familiare. Eppure non riusciva a persuadersi del tutto di non stare inventando versi nel [[motifs/sleep|sonno]].
 
 Sopra la terra e sopra il mare
 
@@ -3677,7 +3677,7 @@ Si tirò in piedi a fatica e vide che il suo compagno di guardia era già fuori 
 
 Si volse verso Boyle in agitazione, dicendo: «C'è qualcuno che si aggira qui fuori. Lo sapevo che non era prudente. Scendo a sbarrare quel portone d'ingresso, comunque la mettano.»
 
-Corse giù per le scale tutto trafelato e Boyle poté udire lo sferragliare delle spranghe contro il portone; ma Boyle stesso uscì sul balcone e volse lo sguardo sulla lunga [[motifs/road|strada]] grigia che saliva verso la casa, e credette di sognare ancora.
+Corse giù per le scale tutto trafelato e Boyle poté udire lo sferragliare delle spranghe contro il portone; ma Boyle stesso uscì sul balcone e volse lo sguardo sulla lunga [[motifs/road|strada]] grigia che saliva verso la [[house|casa]], e credette di sognare ancora.
 
 Su quella [[motifs/road|strada]] grigia che attraversava quella brughiera deserta e passava per quel piccolo [[characters/hamlet|villaggio]] inglese, era apparsa una figura che avrebbe potuto uscire dritta dalla giungla o dal bazar: una figura tratta da uno dei fantastici racconti del Conte; una figura tratta dalle «Mille e una notte». Il crepuscolo grigio e alquanto spettrale, che comincia a definire e insieme a scolorire ogni cosa quando la luce a oriente ha cessato di essere localizzata, si sollevò lentamente come un velo di garza grigia e gli mostrò una figura avvolta in una veste stravagante. Una sciarpa d'uno strano azzurro marino, vasta e voluminosa, girava intorno al capo a mo' di turbante, e poi di nuovo sotto il mento, dandole in complesso l'aspetto d'un cappuccio; per quanto concerneva il volto, l'effetto era quello di una maschera. Poiché la stoffa attorno al capo era tirata stretta come un velo; e il capo stesso era chino su un bizzarro strumento musicale d'argento o d'acciaio, foggiato come un violino deforme o storto. Lo si suonava con qualcosa di simile a un pettine d'argento, e le note erano stranamente sottili e acute. Prima che Boyle potesse aprir bocca, lo stesso accento straniero e ossessivo si levò da sotto l'[[archetypes/shadow|ombra]] del burnus, cantando parole della medesima specie:
 
@@ -3713,9 +3713,9 @@ Jameson lo seguì in quell'appartamento e lo trovò che fissava il pavimento, co
 
 «Molto meglio telefonare subito alla polizia», rispose Boyle. «Con le automobili e i telefoni loro lo sopravanzeranno in un lampo, arrivando ben più lontano di quanto potremmo mai fare noi, correndo per il villaggio in camicia da notte. Ma può darsi che vi siano cose che nemmeno le auto e i fili della polizia riusciranno a sopravanzare.»
 
-Mentre Jameson parlava con la stazione di polizia al telefono con voce agitata, Boyle uscì di nuovo sul balcone e scrutò in fretta quel grigio paesaggio dell'alba. Non c'era traccia dell'uomo col turbante, né altro segno di vita, salvo qualche fioco movimento che un occhio esperto avrebbe potuto riconoscere nell'albergo del Drago Azzurro. Solo Boyle, per la prima [[motifs/time|volta]], notò coscientemente qualcosa che per tutto il tempo aveva notato senza avvedersene. Era come un fatto che si dibatteva nella mente sommersa reclamando il proprio significato. Era semplicemente il fatto che il grigio paesaggio non era mai stato interamente grigio; vi era una macchia dorata in mezzo alle sue strisce di colore scolorito, una lampada accesa in una delle case dall'altra parte del prato... Qualcosa, forse irrazionale, gli disse che ardeva da tutte le ore della notte e solo ora impallidiva con l'[[motifs/dawn|alba]]. Contò le case, e il suo calcolo diede un risultato che pareva combaciare con qualcosa, non sapeva bene cosa. A ogni modo, era a quanto pareva la casa del Conte Yvon de Lara.
+Mentre Jameson parlava con la stazione di polizia al telefono con voce agitata, Boyle uscì di nuovo sul balcone e scrutò in fretta quel grigio paesaggio dell'alba. Non c'era traccia dell'uomo col turbante, né altro segno di vita, salvo qualche fioco movimento che un occhio esperto avrebbe potuto riconoscere nell'albergo del Drago Azzurro. Solo Boyle, per la prima [[motifs/time|volta]], notò coscientemente qualcosa che per tutto il tempo aveva notato senza avvedersene. Era come un fatto che si dibatteva nella mente sommersa reclamando il proprio significato. Era semplicemente il fatto che il grigio paesaggio non era mai stato interamente grigio; vi era una macchia dorata in mezzo alle sue strisce di colore scolorito, una lampada accesa in una delle case dall'altra parte del prato... Qualcosa, forse irrazionale, gli disse che ardeva da tutte le ore della notte e solo ora impallidiva con l'[[motifs/dawn|alba]]. Contò le case, e il suo calcolo diede un risultato che pareva combaciare con qualcosa, non sapeva bene cosa. A ogni modo, era a quanto pareva la [[house|casa]] del Conte Yvon de Lara.
 
-L'ispettore Pinner era giunto con parecchi poliziotti, e aveva compiuto parecchie cose con piglio rapido e risoluto, ben consapevole che la stessa assurdità di quei costosi ninnoli poteva dare al caso notevole risalto sui giornali. Aveva esaminato ogni cosa, misurato ogni cosa, raccolto la deposizione di tutti, preso le impronte digitali a tutti, indispettito tutti, e alla fine si era ritrovato di fronte a un fatto che non poteva credere. Un arabo venuto dal [[motifs/desert|deserto]] aveva risalito la pubblica [[motifs/road|strada]] e si era fermato davanti alla casa del signor Peregrine Smart, dove una boccia di pesci d'oro artificiali era custodita in una stanza interna; aveva quindi cantato o recitato una piccola poesia, e la boccia era esplosa come una bomba e i pesci erano svaniti nel nulla. Né valse a rasserenare l'ispettore l'udirsi dire da un Conte straniero, con voce morbida e vellutata, che i confini dell'esperienza si andavano dilatando.
+L'ispettore Pinner era giunto con parecchi poliziotti, e aveva compiuto parecchie cose con piglio rapido e risoluto, ben consapevole che la stessa assurdità di quei costosi ninnoli poteva dare al caso notevole risalto sui giornali. Aveva esaminato ogni cosa, misurato ogni cosa, raccolto la deposizione di tutti, preso le impronte digitali a tutti, indispettito tutti, e alla fine si era ritrovato di fronte a un fatto che non poteva credere. Un arabo venuto dal [[motifs/desert|deserto]] aveva risalito la pubblica [[motifs/road|strada]] e si era fermato davanti alla [[house|casa]] del signor Peregrine Smart, dove una boccia di pesci d'oro artificiali era custodita in una stanza interna; aveva quindi cantato o recitato una piccola poesia, e la boccia era esplosa come una bomba e i pesci erano svaniti nel nulla. Né valse a rasserenare l'ispettore l'udirsi dire da un Conte straniero, con voce morbida e vellutata, che i confini dell'esperienza si andavano dilatando.
 
 
 
@@ -3750,7 +3750,7 @@ irritating by being ingratiating.
 you thought so improbable look a little more realistic to-day than
 they did yesterday. When a man as ragged as those I described is able,
 by speaking a word, to dissolve a solid vessel inside the four walls of
-the house he stands outside, it might perhaps be called an example of
+the [[house]] he stands outside, it might perhaps be called an example of
 what I said about spiritual powers and material barriers."
 
 "And it might be called an example of what I said," said the doctor
@@ -3787,16 +3787,16 @@ who was frowning thoughtfully at the ground as he listened, suddenly
 stopped.
 
 "Do you see that?" he asked. "Somebody's been washing the pavement
-here--just this little strip of pavement outside Colonel Varney's house.
+here--just this little strip of pavement outside Colonel Varney's [[house]].
 I [[concepts/wonder|wonder]] whether that was done yesterday."
 
-[[characters/father-brown|Father Brown]] looked rather earnestly at the house, which was high and
+[[characters/father-brown|Father Brown]] looked rather earnestly at the [[house]], which was high and
 narrow, and carried rows of striped sun-blinds of gay but already
 faded colours. The chinks or crannies that gave glimpses of the interior
 looked all the darker; indeed, they looked almost black in contrast with
 the facade thus golden in the morning light.
 
-"That is Colonel Varney's house, isn't it?" he asked. "He comes from the
+"That is Colonel Varney's [[house]], isn't it?" he asked. "He comes from the
 East, too, I fancy. What sort of man is he?"
 
 "I've never even seen him," answered Boyle. "I don't think anybody's
@@ -3820,14 +3820,14 @@ green with a vague expression.
 if they had any pigs or geese; as it is, it seems to feed nothing but
 nettles and thistles. What a pity that what was supposed to be a sort of
 large meadow has been turned into a small and petty wilderness. That's
-Dr. Burdock's house opposite, isn't it?"
+Dr. Burdock's [[house]] opposite, isn't it?"
 
 "Yes," answered Boyle, almost jumping at this abrupt postscript.
 
 "Very [[motifs/well|well]]," answered [[characters/father-brown|Father Brown]], "then I think we'll go indoors
 again."
 
-As they opened the front door of Smart's house and mounted the stairs,
+As they opened the front door of Smart's [[house]] and mounted the stairs,
 Boyle repeated to his companion many details of the drama enacted there
 at daybreak.
 
@@ -3847,7 +3847,7 @@ In verità, l'atteggiamento di ciascun membro del piccolo gruppo era abbastanza 
 
 Ma il Conte non era uomo da lasciar passare nulla che desse un apparente vantaggio alle sue tesi. Sorrise al suo rivale razionalista, il dottore, nel modo di chi sa quanto sia possibile riuscire irritanti mostrandosi accattivanti.
 
-«Ammetterà, dottore», disse, «che almeno alcune delle storie che lei giudicava tanto inverosimili appaiono oggi un poco più realistiche di quanto non apparissero ieri. Quando un uomo cencioso come quelli che ho descritto è capace, con una sola parola, di dissolvere un solido recipiente entro le quattro pareti della casa davanti alla quale sta, all'esterno, forse lo si potrebbe chiamare un esempio di ciò che dicevo a proposito dei poteri spirituali e delle barriere materiali.»
+«Ammetterà, dottore», disse, «che almeno alcune delle storie che lei giudicava tanto inverosimili appaiono oggi un poco più realistiche di quanto non apparissero ieri. Quando un uomo cencioso come quelli che ho descritto è capace, con una sola parola, di dissolvere un solido recipiente entro le quattro pareti della [[house|casa]] davanti alla quale sta, all'esterno, forse lo si potrebbe chiamare un esempio di ciò che dicevo a proposito dei poteri spirituali e delle barriere materiali.»
 
 «E lo si potrebbe chiamare un esempio di ciò che dicevo io», ribatté il dottore secco, «e cioè che basta un po' di cognizione scientifica per mostrare come si facciano i trucchi.»
 
@@ -3863,11 +3863,11 @@ Ma il Conte non era uomo da lasciar passare nulla che desse un apparente vantagg
 
 Fu proprio la presenza di questo sospetto nel suo caso a indurre Boyle a chiedere il consiglio personale di [[characters/father-brown|Padre Brown]]. Passeggiavano insieme intorno al prato del villaggio, qualche ora più tardi nel corso della giornata, quando il prete, che ascoltava aggrottando pensoso la fronte verso il suolo, si fermò all'improvviso.
 
-«Vede questo?» chiese. «Qualcuno ha lavato il selciato qui, proprio questa piccola striscia di selciato davanti alla casa del colonnello Varney. Mi [[concepts/wonder|domando]] se sia stato fatto ieri.»
+«Vede questo?» chiese. «Qualcuno ha lavato il selciato qui, proprio questa piccola striscia di selciato davanti alla [[house|casa]] del colonnello Varney. Mi [[concepts/wonder|domando]] se sia stato fatto ieri.»
 
-[[characters/father-brown|Padre Brown]] guardò con una certa intensità la casa, che era alta e stretta, e portava file di tende parasole a righe di colori vivaci ma già sbiaditi. Le fessure e gli interstizi che lasciavano intravedere l'interno apparivano tanto più bui; anzi, sembravano quasi neri per contrasto con la facciata così dorata nella luce del mattino.
+[[characters/father-brown|Padre Brown]] guardò con una certa intensità la [[house|casa]], che era alta e stretta, e portava file di tende parasole a righe di colori vivaci ma già sbiaditi. Le fessure e gli interstizi che lasciavano intravedere l'interno apparivano tanto più bui; anzi, sembravano quasi neri per contrasto con la facciata così dorata nella luce del mattino.
 
-«Quella è la casa del colonnello Varney, non è vero?» chiese. «Anche lui viene dall'Oriente, mi pare. Che sorta d'uomo è?»
+«Quella è la [[house|casa]] del colonnello Varney, non è vero?» chiese. «Anche lui viene dall'Oriente, mi pare. Che sorta d'uomo è?»
 
 «Non l'ho mai nemmeno visto», rispose Boyle. «Non credo che l'abbia visto nessuno, tranne il dottor Burdock, e ho la netta impressione che il dottore non lo veda più di quanto sia costretto.»
 
@@ -3875,13 +3875,13 @@ Fu proprio la presenza di questo sospetto nel suo caso a indurre Boyle a chieder
 
 Il grande portone si aprì e inghiottì il piccolo prete, e il suo amico rimase a fissarlo in modo attonito e irragionevole, come chiedendosi se si sarebbe mai riaperto. Si aprì dopo pochi minuti, e Padre Brown ne uscì, ancora sorridente, e riprese il suo lento e gingillante giro intorno al quadrato delle strade. A tratti pareva aver dimenticato del tutto la faccenda che aveva per le mani, poiché faceva osservazioni di sfuggita su questioni storiche e sociali, o sulle prospettive di sviluppo del distretto. Osservò il terreno usato per l'inizio di una nuova [[motifs/road|strada]] presso la banca; guardò al di là del vecchio prato del villaggio con un'espressione vaga.
 
-«Terra comune. Suppongo che la gente dovrebbe pascolarvi maiali e oche, se avessero maiali od oche; per come stanno le cose, sembra non nutrire altro che ortiche e cardi. Che peccato che ciò che doveva essere una sorta di ampio prato sia stato ridotto a una piccola e meschina landa selvaggia. Quella di fronte è la casa del dottor Burdock, non è vero?»
+«Terra comune. Suppongo che la gente dovrebbe pascolarvi maiali e oche, se avessero maiali od oche; per come stanno le cose, sembra non nutrire altro che ortiche e cardi. Che peccato che ciò che doveva essere una sorta di ampio prato sia stato ridotto a una piccola e meschina landa selvaggia. Quella di fronte è la [[house|casa]] del dottor Burdock, non è vero?»
 
 «Sì», rispose Boyle, quasi sobbalzando a questo brusco poscritto.
 
 «Benissimo», rispose [[characters/father-brown|Padre Brown]], «allora credo che rientreremo.»
 
-Mentre aprivano il portone della casa di Smart e salivano le scale, Boyle ripeté al suo compagno molti particolari del dramma che vi si era svolto allo spuntar del giorno.
+Mentre aprivano il portone della [[house|casa]] di Smart e salivano le scale, Boyle ripeté al suo compagno molti particolari del dramma che vi si era svolto allo spuntar del giorno.
 
 «Suppongo che lei non si sia riassopito?» chiese [[characters/father-brown|Padre Brown]], «dando [[motifs/time|tempo]] a qualcuno di scalare il balcone mentre Jameson correva giù a sprangare la porta.»
 
@@ -3915,7 +3915,7 @@ is--preternatural?"
 
 "I will grant you this," said the priest gravely, "if the Count, or the
 colonel, or any of your neighbours did dress up in Arab masquerade and
-creep up to this house in the dark--then it was preternatural."
+creep up to this [[house]] in the dark--then it was preternatural."
 
 "What do you mean? Why?"
 
@@ -3947,7 +3947,7 @@ exact reproduction of his own voice it sounds like the voice of a
 stranger. In the same way, if anything is right in the foreground of our
 life we hardly see it, and if we did we might think it quite odd. If the
 thing in the foreground got into the middle distance, we should probably
-think it had come from the remote distance. Just come outside the house
+think it had come from the remote distance. Just come outside the [[house]]
 again for a moment. I want to show you how it looks from another
 standpoint."
 
@@ -3959,7 +3959,7 @@ like this, everything depends on the preparation of the mind. A man can
 reach a condition in which a brick, falling on his head, will seem to be
 a Babylonian brick carved with cuneiform, and dropped from the Hanging
 Gardens of Babylon, so that he will never even look at the brick and see
-it is of one pattern with the bricks or his own house. So in your
+it is of one pattern with the bricks or his own [[house]]. So in your
 case----"
 
 "What does this mean?" interrupted Boyle, staring and pointing at the
@@ -4039,7 +4039,7 @@ he is a very fine [[archetypes/artist|artist]] in crime."
 
 «Credete», chiese Boyle, «che il Conte o il colonnello, o qualcuno di questi viaggiatori d'Oriente, abbiano a che fare con la cosa? Credete che sia... soprannaturale?»
 
-«Vi concederò questo», disse il prete con gravità: «se il Conte, o il colonnello, o qualcuno dei vostri vicini si è davvero travestito da arabo e si è avvicinato furtivamente a questa casa nel buio... allora è stato soprannaturale.»
+«Vi concederò questo», disse il prete con gravità: «se il Conte, o il colonnello, o qualcuno dei vostri vicini si è davvero travestito da arabo e si è avvicinato furtivamente a questa [[house|casa]] nel buio... allora è stato soprannaturale.»
 
 «Che cosa intendete? Perché?»
 
@@ -4049,11 +4049,11 @@ Boyle fissò con insistenza il [[motifs/grave|grave]] e indecifrabile volto del 
 
 «Volete dire che lo era?» domandò infine.
 
-«C'è una [[concepts/truth|verità]] generale da tenere a mente», disse [[characters/father-brown|Father Brown]], dopo una pausa. «Una cosa può talvolta essere troppo vicina per essere vista, come, ad esempio, un uomo non riesce a vedere sé stesso. C'era un uomo che aveva una mosca nell'occhio mentre guardava attraverso il telescopio, e scoprì che sulla [[motifs/moon|luna]] c'era un drago quanto mai incredibile. E mi si dice che, se un uomo ode la riproduzione esatta della propria voce, essa suona come la voce di uno sconosciuto. Allo stesso modo, se qualcosa sta proprio in primo piano nella nostra vita, a stento la vediamo, e se pure la vedessimo, potremmo giudicarla assai strana. Se la cosa in primo piano passasse in secondo piano, probabilmente crederemmo che sia giunta da una lontananza remota. Uscite di nuovo davanti alla casa per un momento. Voglio mostrarvi come appare da un altro punto di vista.»
+«C'è una [[concepts/truth|verità]] generale da tenere a mente», disse [[characters/father-brown|Father Brown]], dopo una pausa. «Una cosa può talvolta essere troppo vicina per essere vista, come, ad esempio, un uomo non riesce a vedere sé stesso. C'era un uomo che aveva una mosca nell'occhio mentre guardava attraverso il telescopio, e scoprì che sulla [[motifs/moon|luna]] c'era un drago quanto mai incredibile. E mi si dice che, se un uomo ode la riproduzione esatta della propria voce, essa suona come la voce di uno sconosciuto. Allo stesso modo, se qualcosa sta proprio in primo piano nella nostra vita, a stento la vediamo, e se pure la vedessimo, potremmo giudicarla assai strana. Se la cosa in primo piano passasse in secondo piano, probabilmente crederemmo che sia giunta da una lontananza remota. Uscite di nuovo davanti alla [[house|casa]] per un momento. Voglio mostrarvi come appare da un altro punto di vista.»
 
 Si era già alzato, e mentre scendevano le scale proseguì le sue osservazioni in modo un po' brancolante, come se pensasse ad alta voce.
 
-«Il Conte e tutta l'atmosfera asiatica entrano in gioco, perché, in un caso come questo, tutto dipende dalla preparazione della mente. Un uomo può giungere a una condizione in cui un mattone, cadendogli sulla testa, gli sembrerà un mattone babilonese scolpito in caratteri cuneiformi, precipitato dai Giardini Pensili di Babilonia, sicché non guarderà mai il mattone per accorgersi che è del medesimo stampo dei mattoni della sua stessa casa. Così nel vostro caso...»
+«Il Conte e tutta l'atmosfera asiatica entrano in gioco, perché, in un caso come questo, tutto dipende dalla preparazione della mente. Un uomo può giungere a una condizione in cui un mattone, cadendogli sulla testa, gli sembrerà un mattone babilonese scolpito in caratteri cuneiformi, precipitato dai Giardini Pensili di Babilonia, sicché non guarderà mai il mattone per accorgersi che è del medesimo stampo dei mattoni della sua stessa [[house|casa]]. Così nel vostro caso...»
 
 «Che cosa significa questo?» interruppe Boyle, fissando e indicando l'ingresso. «Che cosa mai, in nome della [[concepts/wonder|meraviglia]], significa? La porta è di nuovo sbarrata.»
 
@@ -4142,7 +4142,7 @@ housekeeper?"
 actor, and therefore he was a good psychologist. A man like the Count
 never hears any voice but his own; but this man could listen, when you
 had all forgotten he was there, and gather exactly the right materials
-for his romance and know exactly the right note to strike to lead you
+for his [[Romance|romance]] and know exactly the right note to strike to lead you
 all astray. But he made one bad mistake in the psychology of Mrs.
 Robinson, the housekeeper."
 
@@ -4180,7 +4180,7 @@ suddenly do it."
 
 «La signora Robinson?» domandò il segretario meravigliato. «Non vorrete dire la governante?»
 
-«Guardatevi dalla donna che dimenticate, e ancora di più» rispose l'altro. «Costui era un criminale di altissima classe; era stato un ottimo attore, e perciò era un buon psicologo. Un uomo come il Conte non ode mai altra voce che la propria; ma quest'uomo sapeva ascoltare, quando tutti avevate dimenticato che fosse là, e raccogliere esattamente i materiali giusti per il suo romanzo, e conoscere esattamente la nota giusta da toccare per traviarvi tutti. Ma commise un grave errore nella psicologia della signora Robinson, la governante.»
+«Guardatevi dalla donna che dimenticate, e ancora di più» rispose l'altro. «Costui era un criminale di altissima classe; era stato un ottimo attore, e perciò era un buon psicologo. Un uomo come il Conte non ode mai altra voce che la propria; ma quest'uomo sapeva ascoltare, quando tutti avevate dimenticato che fosse là, e raccogliere esattamente i materiali giusti per il suo [[Romance|romanzo]], e conoscere esattamente la nota giusta da toccare per traviarvi tutti. Ma commise un grave errore nella psicologia della signora Robinson, la governante.»
 
 «Non capisco» rispose Boyle, «che cosa possa averci a che fare lei.»
 
@@ -4374,7 +4374,7 @@ be [[motifs/well|well]] to take ordinary precautions if she comes out with a lea
 
 "Not if you want her to act in your play," replied [[characters/father-brown|Father Brown]]. "If you
 do that, she'll raise the roof and refuse to stay in the place; if you
-leave her alone-she'll probably come out from mere curiosity. If I
+leave her [[Alone|alone]]-she'll probably come out from mere curiosity. If I
 were you, I should just leave somebody to guard the door, more or less,
 and trust to [[motifs/time|time]] for an hour or two."
 
@@ -4402,7 +4402,7 @@ seconds in the direction of the manager's wife, and saw that her wan
 face wore a faint smile; not altogether a cheerful smile.
 
 [[characters/father-brown|Father Brown]] moved off in company with the man who had brought him in,
-who happened, indeed, to be a friend and person of a similar persuasion,
+who happened, indeed, to be a friend and person of a similar [[Persuasion|persuasion]],
 which is not uncommon among actors. As he moved off, however, he heard
 Mrs. Mandeville give quiet directions to Mrs. Sands that she should take
 up the post of watcher beside the closed door.
@@ -4494,7 +4494,7 @@ fuori con un balzo.»
 
 «Non se volete che reciti nel vostro spettacolo», rispose [[characters/father-brown|padre Brown]]. «Se lo
 fate, farà un putiferio e si rifiuterà di restare qui dentro; se la lasciate
-sola, probabilmente uscirà per pura curiosità. Se fossi in voi, mi limiterei
+[[Alone|sola]], probabilmente uscirà per pura curiosità. Se fossi in voi, mi limiterei
 a lasciare qualcuno più o meno di guardia alla porta, confidando nel [[motifs/time|tempo]] per
 un'ora o due.»
 
@@ -4523,7 +4523,7 @@ recava un debole sorriso: non del tutto un sorriso lieto.
 
 [[characters/father-brown|Padre Brown]] si allontanò in compagnia dell'uomo che ce l'aveva condotto, il
 quale, per l'appunto, era un amico e una persona della sua stessa
-fede, cosa non insolita tra gli attori. Mentre si allontanava, tuttavia,
+[[Persuasion|fede]], cosa non insolita tra gli attori. Mentre si allontanava, tuttavia,
 udì la signora Mandeville dare sommesse istruzioni alla signora Sands perché
 assumesse la funzione di sentinella accanto alla porta chiusa.
 
@@ -4592,7 +4592,7 @@ eye. As a matter of fact, I happen to know rather more about it than
 anyone else does, merely by accident. But even I can't make anything of
 what I know, except a mystery."
 
-He looked around him in the vestibule to see that they were alone and
+He looked around him in the vestibule to see that they were [[Alone|alone]] and
 then added, lowering his voice:
 
 "I don't mind telling you, because I know you are a tower of [[motifs/silence|silence]]
@@ -4600,7 +4600,7 @@ where [[motifs/secrets|secrets]] are concerned. But I had a curious shock the ot
 and it has been repeated several times since. You know that Mandeville
 always works in that little room at the end of the passage, just under
 the stage. [[motifs/well|Well]], twice over I happened to pass by there when everyone
-thought he was alone; and what's more, when I myself happened to be able
+thought he was [[Alone|alone]]; and what's more, when I myself happened to be able
 to account for all the women in the company, and all the women likely to
 have to do with him, being absent or at their usual posts."
 
@@ -4704,9 +4704,9 @@ Jarvis lo fissò per un istante prima di rispondere.
 
 «Mandeville è un mistero», disse gravemente. «Oh, sì, lo so che ha tutta l'aria del più banale mascalzone che abbia mai percorso Piccadilly. Ma ciò nondimeno è davvero un mistero. C'è qualcosa sulla sua [[concepts/conscience|coscienza]]. C'è un'[[archetypes/shadow|ombra]] nella sua vita. E [[concepts/doubt|dubito]] che essa abbia a che fare con qualche flirt alla moda più di quanto abbia a che fare con la sua povera moglie trascurata. Se così fosse, in quei flirt ci sarebbe più di quanto non appaia a prima vista. A dire il vero, mi capita di saperne più di chiunque altro, per puro caso. Ma persino io non riesco a cavarne nulla, tranne un mistero.»
 
-Si guardò intorno nel vestibolo per accertarsi che fossero soli, poi aggiunse, abbassando la voce:
+Si guardò intorno nel vestibolo per accertarsi che fossero [[Alone|soli]], poi aggiunse, abbassando la voce:
 
-«Non mi dispiace dirglielo, perché so che lei è una torre di [[motifs/silence|silenzio]] quando si tratta di [[motifs/secrets|segreti]]. Ma l'altro giorno ebbi una curiosa scossa; e da allora si è ripetuta più volte. Sa che Mandeville lavora sempre in quella stanzetta in fondo al passaggio, proprio sotto il palcoscenico. [[motifs/well|Ebbene]], per due volte mi capitò di passare di lì quando tutti lo credevano solo; e, ciò che più conta, quando io stesso ero in grado di rendere conto di tutte le donne della compagnia, e di tutte le donne che potessero avere qualcosa a che fare con lui, in quanto assenti o ai loro consueti posti.»
+«Non mi dispiace dirglielo, perché so che lei è una torre di [[motifs/silence|silenzio]] quando si tratta di [[motifs/secrets|segreti]]. Ma l'altro giorno ebbi una curiosa scossa; e da allora si è ripetuta più volte. Sa che Mandeville lavora sempre in quella stanzetta in fondo al passaggio, proprio sotto il palcoscenico. [[motifs/well|Ebbene]], per due volte mi capitò di passare di lì quando tutti lo credevano [[Alone|solo]]; e, ciò che più conta, quando io stesso ero in grado di rendere conto di tutte le donne della compagnia, e di tutte le donne che potessero avere qualcosa a che fare con lui, in quanto assenti o ai loro consueti posti.»
 
 «Tutte le donne?» osservò [[characters/father-brown|Father Brown]] in tono interrogativo.
 
@@ -4756,7 +4756,7 @@ Proseguirono lungo il passaggio fino all'altro capo, dove la rigida guardiana se
 
 
 They both remained for an instant in a listening attitude, so that the
-booming voice of the actor on the stage could indeed be heard rolling
+booming voice of the actor on the stage could indeed be heard [[rolling]]
 faintly down the stairs and along the passage. Before they had spoken
 again or resumed their normal poise, their ears were filled with another
 sound. It was a dull but heavy crash and it came from behind the closed
@@ -4855,7 +4855,7 @@ God, can you hear those actors still shouting and ranting upstairs? The
 play is still going on. I suppose that's what they mean by tragic
 irony."
 
-When it was fated that the theatre should be turned into a house of
+When it was fated that the theatre should be turned into a [[house]] of
 mourning, an opportunity was given to the actors to show many of the
 real virtues of their type and trade. They did, as the phrase goes,
 behave like gentlemen; and not only like first walking gentlemen. They
@@ -4882,7 +4882,7 @@ don't you think it probably was the strange woman?"
 
 Rimasero entrambi per un istante in atteggiamento d'ascolto, sicché la
 voce tonante dell'attore sul palcoscenico poteva davvero udirsi
-rimbombare fioca giù per le scale e lungo il corridoio. Prima
+[[rolling|rimbombare]] fioca giù per le scale e lungo il corridoio. Prima
 che avessero ripreso a parlare o riconquistato la loro compostezza
 abituale, gli orecchi si riempirono di un altro suono. Fu uno schianto
 sordo ma pesante, e proveniva da dietro la porta chiusa dello studio
@@ -4988,7 +4988,7 @@ commedia va ancora avanti. Suppongo sia questo che chiamano ironia
 tragica.»
 
 Quando fu deciso dal fato che il teatro dovesse mutarsi in una
-casa di lutto, agli attori fu offerta l'occasione di mostrare
+[[house|casa]] di lutto, agli attori fu offerta l'occasione di mostrare
 molte delle virtù autentiche del loro tipo e del loro mestiere. Si
 comportarono, come suol dirsi, da gentiluomini; e non soltanto da
 primi gentiluomini di scena. Non tutti avevano amato o stimato
@@ -5458,11 +5458,11 @@ wife of a brilliant and rapidly-rising actor. But she didn't want in
 that sense to act in The School for Scandal. She wouldn't have run away
 with a man except in the last resort. It wasn't a human passion with
 her, but a sort of hellish respectability. She was always dogging her
-husband in secret and badgering him to divorce himself or otherwise get
+husband in secret and badgering him to [[divorce]] himself or otherwise get
 out of the way; and as he refused he paid at last for his refusal.
 There's another thing you've got to remember. You talk about these
 highbrows having a higher art and a more philosophical drama. But
-remember what a lot of the philosophy is! Remember what sort of conduct
+remember what a lot of the [[philosophy]] is! Remember what sort of conduct
 those highbrows often present to the highest! All about the Will to
 Power and the Right to Live and the Right to Experience-damned
 nonsense and more than damned nonsense--nonsense that can damn."
@@ -5485,7 +5485,7 @@ Vi fu un [[motifs/silence|silenzio]], poi l'attore disse: «Lei pensa che sia sg
 
 «Quello che io non riesco a superare è la grande difficoltà», disse Jarvis, appoggiando la testa sulla mano con una specie di gemito. «Semplicemente non riesco a convincermi che una creatura radiosa e serena come lei potesse perdere a tal punto, per così dire, l'equilibrio del corpo, per non parlare dell'equilibrio morale. Vi era un movente abbastanza forte? Era davvero tanto [[motifs/love|innamorata]] di Knight?».
 
-«Lo [[concepts/hope|spero]]», rispose il suo compagno; «perché sarebbe davvero la scusa più umana. Ma mi spiace dire che ho i miei dubbi. Voleva sbarazzarsi del marito, che era un mestierante all'antica, provinciale, e per giunta nemmeno con molto denaro. Voleva farsi una carriera come brillante moglie di un attore brillante e in rapida ascesa. Ma in quel senso non aveva alcuna voglia di recitare in The School for Scandal. Non sarebbe fuggita con un uomo se non come ultima risorsa. Non era in lei una passione umana, ma una specie di rispettabilità infernale. Perseguitava di continuo il marito in segreto e lo tormentava perché divorziasse o comunque si togliesse di mezzo; e poiché lui rifiutava, alla fine pagò per il suo rifiuto. C'è un'altra cosa che deve ricordare. Lei parla di questi intellettuali che avrebbero un'arte più alta e un teatro più filosofico. Ma si ricordi che razza di roba è tanta di quella filosofia! Si ricordi che sorta di condotta quegli intellettuali spesso presentano come la più elevata! Tutto un discorso sulla Volontà di Potenza e sul Diritto di Vivere e sul Diritto all'Esperienza: sciocchezze maledette, e più che maledette sciocchezze; sciocchezze che possono dannare».
+«Lo [[concepts/hope|spero]]», rispose il suo compagno; «perché sarebbe davvero la scusa più umana. Ma mi spiace dire che ho i miei dubbi. Voleva sbarazzarsi del marito, che era un mestierante all'antica, provinciale, e per giunta nemmeno con molto denaro. Voleva farsi una carriera come brillante moglie di un attore brillante e in rapida ascesa. Ma in quel senso non aveva alcuna voglia di recitare in The School for Scandal. Non sarebbe fuggita con un uomo se non come ultima risorsa. Non era in lei una passione umana, ma una specie di rispettabilità infernale. Perseguitava di continuo il marito in segreto e lo tormentava perché [[divorce|divorziasse]] o comunque si togliesse di mezzo; e poiché lui rifiutava, alla fine pagò per il suo rifiuto. C'è un'altra cosa che deve ricordare. Lei parla di questi intellettuali che avrebbero un'arte più alta e un teatro più filosofico. Ma si ricordi che razza di roba è tanta di quella [[philosophy|filosofia]]! Si ricordi che sorta di condotta quegli intellettuali spesso presentano come la più elevata! Tutto un discorso sulla Volontà di Potenza e sul Diritto di Vivere e sul Diritto all'Esperienza: sciocchezze maledette, e più che maledette sciocchezze; sciocchezze che possono dannare».
 
 [[characters/father-brown|Padre Brown]] aggrottò la fronte, cosa che gli capitava molto di rado; e vi era ancora una nube sul suo volto mentre si metteva il cappello e usciva nella [[motifs/night|notte]].
 
@@ -5498,7 +5498,7 @@ V THE VANISHING OF VAUDREY
 
 SIR [[characters/arthur|ARTHUR]] VAUDREY, in his light-grey [[motifs/summer|summer]] suit, and wearing on his
 grey head the white hat which he so boldly affected, went walking
-briskly up the [[motifs/road|road]] by the [[motifs/river|river]] from his own house to the little group
+briskly up the [[motifs/road|road]] by the [[motifs/river|river]] from his own [[house]] to the little group
 of houses that were almost like outhouses to his own, entered that
 little [[characters/hamlet|hamlet]], and then vanished completely as if he had been carried
 away by the fairies.
@@ -5511,7 +5511,7 @@ the middle of wide and open fields and plains, a mere string of the four
 or five shops absolutely needed by the neighbours; that is, by a few
 farmers and the family at the [[motifs/great-house|great house]]. There was a butcher's at the
 corner, at which, it appeared, Sir [[characters/arthur|Arthur]] had last been seen. He was
-seen by two young men staying at his house--Evan Smith, who was acting as
+seen by two young men staying at his [[house]]--Evan [[smith|Smith]], who was acting as
 his secretary, and John Dalmon, who was generally supposed to be engaged
 to his ward. There was next to the butcher's a small shop combining a
 large number of functions, such as is found in villages, in which a
@@ -5544,11 +5544,11 @@ squire of all that country and the owner of the little [[characters/hamlet|hamle
 sort of place everybody not only knows everybody else, but generally
 knows where anybody is at any given moment. The normal course would have
 been for Sir [[characters/arthur|Arthur]] to walk to the village, to say whatever he wanted to
-say to the butcher or anybody else, and then walk back to his house
+say to the butcher or anybody else, and then walk back to his [[house]]
 again, all in the course of about half an hour: as the two young men did
 when they had bought their cigarettes. But they saw nobody on the [[motifs/road|road]]
 returning; indeed, there was nobody in sight except the one other guest
-at the house, a certain Dr. Abbott, who was sitting with his broad back
+at the [[house]], a certain Dr. Abbott, who was sitting with his broad back
 to them on the [[motifs/river|river]] bank, very patiently fishing.
 
 When all the three guests returned to breakfast, they seemed to think
@@ -5557,10 +5557,10 @@ day wore on and he missed one meal after another, they naturally began
 to be puzzled, and Sybil Rye, the lady of the household, began to be
 seriously alarmed. Expeditions of discovery were dispatched to the
 village again and again without finding any trace; and eventually, when
-darkness fell, the house was full of a definite [[concepts/fear|fear]]. Sybil had sent for
+darkness fell, the [[house]] was full of a definite [[concepts/fear|fear]]. Sybil had sent for
 [[characters/father-brown|Father Brown]], who was a friend of hers and had helped her out of a
 difficulty in the past; and under the pressure of the apparent peril he
-had consented to remain at the house and see it through.
+had consented to remain at the [[house]] and see it through.
 
 Thus it happened that when the new day's [[motifs/dawn|dawn]] broke without news, Father
 Brown was early afoot and on the look-out for anything; his black,
@@ -5569,16 +5569,16 @@ embanked along the [[motifs/river|river]], as he scanned the landscape up and do
 his short-sighted and rather misty gaze.
 
 He realized that another figure was moving even more restlessly along
-the embankment, and saluted Evan Smith, the secretary, by name.
+the embankment, and saluted Evan [[smith|Smith]], the secretary, by name.
 
-Evan Smith was a tall, fair-haired young man, looking rather harassed,
+Evan [[smith|Smith]] was a tall, fair-haired young man, looking rather harassed,
 as was perhaps natural in that hour of distraction. But something of the
 sort hung about him at all times. Perhaps it was more marked because he
 had the sort of athletic reach and poise and the sort of leonine yellow
 hair and moustache which accompany (always in fiction and sometimes in
 fact) a frank and cheerful demeanour of "English youth." As in his case
 they accompanied deep and cavernous eyes and a rather haggard look, the
-contrast with the conventional tall figure and fair hair of romance may
+contrast with the conventional tall figure and fair hair of [[Romance|romance]] may
 have had a touch of something sinister. But [[characters/father-brown|Father Brown]] smiled at him
 amiably enough and then said more seriously:
 
@@ -5596,19 +5596,19 @@ rather expressionless; he merely said, mildly:
 
 V LA SCOMPARSA DI VAUDREY
 
-SIR [[characters/arthur|ARTHUR]] VAUDREY, nel suo abito grigio chiaro d'[[motifs/summer|estate]], e portando sulla testa canuta il cappello bianco che sfoggiava con tanta baldanza, s'incamminò a passo svelto lungo la [[motifs/road|strada]] che costeggia il [[motifs/river|fiume]], dalla propria casa verso quel piccolo gruppo di abitazioni che parevano quasi le pertinenze della sua; entrò in quel piccolo [[characters/hamlet|borgo]], e poi svanì del tutto, come se le fate lo avessero portato via.
+SIR [[characters/arthur|ARTHUR]] VAUDREY, nel suo abito grigio chiaro d'[[motifs/summer|estate]], e portando sulla testa canuta il cappello bianco che sfoggiava con tanta baldanza, s'incamminò a passo svelto lungo la [[motifs/road|strada]] che costeggia il [[motifs/river|fiume]], dalla propria [[house|casa]] verso quel piccolo gruppo di abitazioni che parevano quasi le pertinenze della sua; entrò in quel piccolo [[characters/hamlet|borgo]], e poi svanì del tutto, come se le fate lo avessero portato via.
 
-La sparizione sembrava tanto più assoluta e improvvisa quanto più familiare era la scena e più estrema la semplicità delle condizioni del problema. Il [[characters/hamlet|borgo]] non si poteva chiamare paese; anzi, era poco più di una piccola e stranamente isolata strada. Sorgeva in mezzo a campi e pianure vasti e aperti, una semplice fila delle quattro o cinque botteghe assolutamente necessarie ai vicini; cioè a pochi contadini e alla famiglia della [[motifs/great-house|grande casa]]. All'angolo c'era la macelleria, davanti alla quale, a quanto pareva, Sir [[characters/arthur|Arthur]] era stato visto per l'ultima volta. Lo videro due giovani che alloggiavano nella sua casa: Evan Smith, che gli faceva da segretario, e John Dalmon, che si dava generalmente per fidanzato alla sua pupilla. Accanto alla macelleria c'era una botteguccia che accorpava un gran numero di funzioni, come se ne trovano nei villaggi, in cui una vecchietta vendeva dolci, bastoni da passeggio, palline da golf, gomma, gomitoli di spago e una carta da lettere di specie assai stinta. Oltre questa c'era il tabaccaio, verso il quale i due giovani si stavano dirigendo quando scorsero per l'ultima volta il loro ospite, ritto davanti alla macelleria; e più in là c'era una piccola e squallida sartoria, tenuta da due signore. Una bottega pallida e lucida, che offriva al passante grandi coppe di limonata verdognola e smorta, completava l'isolato di edifici; poiché l'unica locanda vera e cristiana dei dintorni sorgeva da sola, un po' discosta, lungo la [[motifs/road|strada]] maestra. Tra la locanda e il [[characters/hamlet|borgo]] c'era un [[motifs/cross|crocevia]], presso il quale stavano un poliziotto e un funzionario in divisa di un club automobilistico; ed entrambi concordavano che Sir [[characters/arthur|Arthur]] non era mai passato per quel punto della [[motifs/road|strada]].
+La sparizione sembrava tanto più assoluta e improvvisa quanto più familiare era la scena e più estrema la semplicità delle condizioni del problema. Il [[characters/hamlet|borgo]] non si poteva chiamare paese; anzi, era poco più di una piccola e stranamente isolata strada. Sorgeva in mezzo a campi e pianure vasti e aperti, una semplice fila delle quattro o cinque botteghe assolutamente necessarie ai vicini; cioè a pochi contadini e alla famiglia della [[motifs/great-house|grande casa]]. All'angolo c'era la macelleria, davanti alla quale, a quanto pareva, Sir [[characters/arthur|Arthur]] era stato visto per l'ultima volta. Lo videro due giovani che alloggiavano nella sua [[house|casa]]: Evan [[smith|Smith]], che gli faceva da segretario, e John Dalmon, che si dava generalmente per fidanzato alla sua pupilla. Accanto alla macelleria c'era una botteguccia che accorpava un gran numero di funzioni, come se ne trovano nei villaggi, in cui una vecchietta vendeva dolci, bastoni da passeggio, palline da golf, gomma, gomitoli di spago e una carta da lettere di specie assai stinta. Oltre questa c'era il tabaccaio, verso il quale i due giovani si stavano dirigendo quando scorsero per l'ultima volta il loro ospite, ritto davanti alla macelleria; e più in là c'era una piccola e squallida sartoria, tenuta da due signore. Una bottega pallida e lucida, che offriva al passante grandi coppe di limonata verdognola e smorta, completava l'isolato di edifici; poiché l'unica locanda vera e cristiana dei dintorni sorgeva da sola, un po' discosta, lungo la [[motifs/road|strada]] maestra. Tra la locanda e il [[characters/hamlet|borgo]] c'era un [[motifs/cross|crocevia]], presso il quale stavano un poliziotto e un funzionario in divisa di un club automobilistico; ed entrambi concordavano che Sir [[characters/arthur|Arthur]] non era mai passato per quel punto della [[motifs/road|strada]].
 
-Era stato in un'ora mattutina di una giornata d'[[motifs/summer|estate]] splendidissima che il vecchio gentiluomo si era avviato allegramente su per la [[motifs/road|strada]], facendo dondolare il bastone e sventolando i guanti gialli. Era un bel dandy, ma di sorta vigorosa e virile, specie per la sua età. La sua forza fisica e la sua agilità erano ancora assai notevoli, e i suoi capelli ricci potevano essere di un giallo tanto pallido da sembrare bianco, piuttosto che di un bianco che fosse un giallo stinto. Il volto rasato era bello, con un naso dall'alto profilo come quello del Duca di Wellington; ma i tratti più spiccati erano gli occhi. Non erano spiccati soltanto in senso metaforico: qualcosa di prominente e quasi sporgente in essi era forse la sola sproporzione dei suoi lineamenti; ma le sue labbra erano sensibili e serrate un poco strettamente, come per un atto di volontà. Era lo squire di tutta quella contrada e il padrone del piccolo [[characters/hamlet|borgo]]. In un posto di quel genere ognuno non solo conosce tutti gli altri, ma di solito sa dove si trovi chiunque in ogni dato momento. Il corso normale sarebbe stato che Sir [[characters/arthur|Arthur]] andasse a piedi fino al villaggio, dicesse quel che aveva da dire al macellaio o a chiunque altro, e poi tornasse a piedi alla sua casa, il tutto nel giro di circa mezz'ora: come fecero i due giovani quando ebbero comprato le loro sigarette. Ma non videro nessuno tornare lungo la [[motifs/road|strada]]; anzi, non c'era anima viva in vista tranne l'unico altro ospite della casa, un certo dottor Abbott, che sedeva con l'ampia schiena voltata verso di loro sulla riva del [[motifs/river|fiume]], pescando con molta pazienza.
+Era stato in un'ora mattutina di una giornata d'[[motifs/summer|estate]] splendidissima che il vecchio gentiluomo si era avviato allegramente su per la [[motifs/road|strada]], facendo dondolare il bastone e sventolando i guanti gialli. Era un bel dandy, ma di sorta vigorosa e virile, specie per la sua età. La sua forza fisica e la sua agilità erano ancora assai notevoli, e i suoi capelli ricci potevano essere di un giallo tanto pallido da sembrare bianco, piuttosto che di un bianco che fosse un giallo stinto. Il volto rasato era bello, con un naso dall'alto profilo come quello del Duca di Wellington; ma i tratti più spiccati erano gli occhi. Non erano spiccati soltanto in senso metaforico: qualcosa di prominente e quasi sporgente in essi era forse la sola sproporzione dei suoi lineamenti; ma le sue labbra erano sensibili e serrate un poco strettamente, come per un atto di volontà. Era lo squire di tutta quella contrada e il padrone del piccolo [[characters/hamlet|borgo]]. In un posto di quel genere ognuno non solo conosce tutti gli altri, ma di solito sa dove si trovi chiunque in ogni dato momento. Il corso normale sarebbe stato che Sir [[characters/arthur|Arthur]] andasse a piedi fino al villaggio, dicesse quel che aveva da dire al macellaio o a chiunque altro, e poi tornasse a piedi alla sua [[house|casa]], il tutto nel giro di circa mezz'ora: come fecero i due giovani quando ebbero comprato le loro sigarette. Ma non videro nessuno tornare lungo la [[motifs/road|strada]]; anzi, non c'era anima viva in vista tranne l'unico altro ospite della [[house|casa]], un certo dottor Abbott, che sedeva con l'ampia schiena voltata verso di loro sulla riva del [[motifs/river|fiume]], pescando con molta pazienza.
 
-Quando tutti e tre gli ospiti tornarono per la colazione, parvero non dare quasi alcun peso alla prolungata assenza dello squire; ma quando la giornata avanzò ed egli mancò a un pasto dopo l'altro, cominciarono naturalmente a restare perplessi, e Sybil Rye, la signora della casa, cominciò a essere seriamente allarmata. Spedizioni di ricognizione furono inviate al villaggio più e più volte senza trovare traccia alcuna; e infine, quando calò l'oscurità, la casa si riempì di una precisa [[concepts/fear|paura]]. Sybil aveva mandato a chiamare [[characters/father-brown|padre Brown]], che le era amico e in passato l'aveva tirata fuori da una difficoltà; e sotto la pressione dell'apparente pericolo egli aveva acconsentito a rimanere nella casa e a seguire la faccenda fino in fondo.
+Quando tutti e tre gli ospiti tornarono per la colazione, parvero non dare quasi alcun peso alla prolungata assenza dello squire; ma quando la giornata avanzò ed egli mancò a un pasto dopo l'altro, cominciarono naturalmente a restare perplessi, e Sybil Rye, la signora della casa, cominciò a essere seriamente allarmata. Spedizioni di ricognizione furono inviate al villaggio più e più volte senza trovare traccia alcuna; e infine, quando calò l'oscurità, la [[house|casa]] si riempì di una precisa [[concepts/fear|paura]]. Sybil aveva mandato a chiamare [[characters/father-brown|padre Brown]], che le era amico e in passato l'aveva tirata fuori da una difficoltà; e sotto la pressione dell'apparente pericolo egli aveva acconsentito a rimanere nella [[house|casa]] e a seguire la faccenda fino in fondo.
 
 Così accadde che, quando l'[[motifs/dawn|alba]] del nuovo giorno spuntò senza notizie, padre Brown era già in piedi di buon'ora e all'erta per ogni cosa; la sua figura nera e tozza si poteva scorgere andare su e giù per il vialetto del [[motifs/garden|giardino]], là dove il [[motifs/garden|giardino]] era arginato lungo il [[motifs/river|fiume]], mentre scrutava il paesaggio in lungo e in largo col suo sguardo miope e alquanto velato.
 
-Si accorse che un'altra figura si muoveva ancora più inquieta lungo l'argine, e salutò per nome Evan Smith, il segretario.
+Si accorse che un'altra figura si muoveva ancora più inquieta lungo l'argine, e salutò per nome Evan [[smith|Smith]], il segretario.
 
-Evan Smith era un giovane alto, dai capelli biondi, dall'aria piuttosto affannata, come forse era naturale in quell'ora di sgomento. Ma qualcosa del genere gli aleggiava attorno in ogni momento. Forse era più marcato perché aveva quella sorta di prestanza e portamento atletici e quella sorta di capelli e baffi biondi e leonini che accompagnano (sempre nella narrativa e talvolta nella realtà) un contegno franco e allegro da «gioventù inglese». Poiché nel suo caso essi accompagnavano occhi profondi e cavernosi e un aspetto piuttosto smunto, il contrasto con la convenzionale figura alta e i capelli biondi del romanzo poteva avere una punta di qualcosa di sinistro. Ma [[characters/father-brown|padre Brown]] gli sorrise con abbastanza cordialità e poi disse, più serio:
+Evan [[smith|Smith]] era un giovane alto, dai capelli biondi, dall'aria piuttosto affannata, come forse era naturale in quell'ora di sgomento. Ma qualcosa del genere gli aleggiava attorno in ogni momento. Forse era più marcato perché aveva quella sorta di prestanza e portamento atletici e quella sorta di capelli e baffi biondi e leonini che accompagnano (sempre nella narrativa e talvolta nella realtà) un contegno franco e allegro da «gioventù inglese». Poiché nel suo caso essi accompagnavano occhi profondi e cavernosi e un aspetto piuttosto smunto, il contrasto con la convenzionale figura alta e i capelli biondi del [[Romance|romanzo]] poteva avere una punta di qualcosa di sinistro. Ma [[characters/father-brown|padre Brown]] gli sorrise con abbastanza cordialità e poi disse, più serio:
 
 «È una faccenda penosa.»
 
@@ -5624,7 +5624,7 @@ Evan Smith era un giovane alto, dai capelli biondi, dall'aria piuttosto affannat
 "Naturally, we all sympathize with her anxiety. I suppose you haven't
 any news or views in the matter?"
 
-"I haven't any news exactly." answered Smith; "no news from outside at
+"I haven't any news exactly." answered [[smith|Smith]]; "no news from outside at
 least. As for views. ..." And he relapsed into moody [[motifs/silence|silence]].
 
 "I should be very glad to hear your views," said the little priest
@@ -5662,7 +5662,7 @@ slits of eyes were rather sleepy and, indeed, he was an elderly
 gentleman to be up so early; but he had a look at once robust and
 weatherbeaten, as of an old farmer or sea captain who had once been out
 in all weathers. He was the only old comrade and contemporary of the
-squire in the company that met at the house.
+squire in the company that met at the [[house]].
 
 "It seems truly extraordinary," he said, shaking his head. "Those little
 houses are like dolls' houses, always open front and back, and there's
@@ -5673,13 +5673,13 @@ nearly all away harvesting, except the butcher; and [[characters/arthur|Arthur]]
 coining out of the butcher's. And nothing could have happened along that
 stretch by the [[motifs/river|river]], for I was fishing there all day."
 
-Then he looked at Smith and the look in his long eyes seemed for the
+Then he looked at [[smith|Smith]] and the look in his long eyes seemed for the
 moment not only sleepy, but a little sly.
 
 "I think you and Dalmon can testify," he said, "that you saw me sitting
 there through your whole [[motifs/journey|journey]] there and back."
 
-"Yes," said Evan Smith shortly, and seemed rather impatient at the long
+"Yes," said Evan [[smith|Smith]] shortly, and seemed rather impatient at the long
 interruption.
 
 "The only thing I can think of," went on Dr. Abbott slowly; and then the
@@ -5700,7 +5700,7 @@ that sort of thing."
 you will come with me, I think I can give you his address and --and tell
 you something rather special about him."
 
-Dr. Abbott and Dalmon moved away in the direction of the house and, when
+Dr. Abbott and Dalmon moved away in the direction of the [[house]] and, when
 they had gone a certain distance, [[characters/father-brown|Father Brown]] said simply, as if there
 had been no interruption:
 
@@ -5734,7 +5734,7 @@ Dalmon is the explanation."
 "You mean," said the priest, with composure, "that Dalmon has killed Sir
 [[characters/arthur|Arthur]]?"
 
-"No!" exploded Smith, with startling violence. "No, a hundred times! He
+"No!" exploded [[smith|Smith]], with startling violence. "No, a hundred times! He
 hasn't done that, whatever else he's done. He isn't a murderer, whatever
 else he is. He has the best of all alibis; the evidence of a man who
 hates him. I'm not likely to perjure myself for [[motifs/love|love]] of Dalmon; and I
@@ -5751,7 +5751,7 @@ he did not kill Vaudrey."
 «Naturalmente comprendiamo tutti la sua ansia. Immagino che lei non abbia
 notizie né idee in proposito?»
 
-«Notizie vere e proprie non ne ho», rispose Smith; «almeno, nessuna
+«Notizie vere e proprie non ne ho», rispose [[smith|Smith]]; «almeno, nessuna
 notizia dal di fuori. Quanto alle idee...». E ricadde in un cupo [[motifs/silence|silenzio]].
 
 «Sarei ben lieto di ascoltare le sue idee», disse il piccolo prete
@@ -5789,7 +5789,7 @@ fessure degli occhi erano piuttosto assonnate e, in effetti, era un anziano
 signore per essere in piedi a un'ora così mattutina; ma aveva un aspetto insieme
 robusto e temprato dalle intemperie, come un vecchio contadino o un capitano di mare che
 un tempo avesse affrontato ogni sorta di tempo. Era l'unico vecchio compagno e coetaneo
-dello squire fra i convenuti che si erano riuniti nella casa.
+dello squire fra i convenuti che si erano riuniti nella [[house|casa]].
 
 «Sembra davvero straordinario», disse, scuotendo il capo. «Quelle piccole
 case sono come casette per bambole, sempre aperte davanti e dietro, e non c'è
@@ -5800,13 +5800,13 @@ quasi tutti via a mietere, tranne il macellaio; e [[characters/arthur|Arthur]] �
 dalla bottega del macellaio. E nulla può essere accaduto lungo quel
 tratto presso il [[motifs/river|fiume]], perché io ho pescato là tutto il giorno.»
 
-Poi guardò Smith e per un momento lo sguardo dei suoi occhi lunghi parve
+Poi guardò [[smith|Smith]] e per un momento lo sguardo dei suoi occhi lunghi parve
 non solo assonnato, ma anche un poco furbo.
 
 «Credo che lei e Dalmon possiate testimoniare», disse, «di avermi visto seduto
 là per tutto il vostro [[motifs/journey|tragitto]] di andata e ritorno.»
 
-«Sì», disse Evan Smith brevemente, e sembrò piuttosto spazientito da quella lunga
+«Sì», disse Evan [[smith|Smith]] brevemente, e sembrò piuttosto spazientito da quella lunga
 interruzione.
 
 «L'unica cosa che mi viene in mente», proseguì il dottor Abbott lentamente; e allora
@@ -5827,7 +5827,7 @@ cose del genere.»
 vorrà venire con me, credo di poterle dare il suo indirizzo e... e dirle
 qualcosa di piuttosto particolare sul suo conto.»
 
-Il dottor Abbott e Dalmon si allontanarono in direzione della casa e, quando
+Il dottor Abbott e Dalmon si allontanarono in direzione della [[house|casa]] e, quando
 si furono allontanati di un certo tratto, [[characters/father-brown|Father Brown]] disse con semplicità, come se non
 ci fosse stata alcuna interruzione:
 
@@ -5861,7 +5861,7 @@ la spiegazione sia Dalmon.»
 «Vuol dire», disse il prete, con compostezza, «che Dalmon ha ucciso Sir
 [[characters/arthur|Arthur]]?»
 
-«No!» esplose Smith, con violenza sconcertante. «No, cento volte no! Non
+«No!» esplose [[smith|Smith]], con violenza sconcertante. «No, cento volte no! Non
 ha fatto questo, qualunque altra cosa abbia fatto. Non è un assassino, qualunque altra
 cosa sia. Ha il migliore di tutti gli alibi: la testimonianza di un uomo che
 lo odia. Non è probabile che io spergiuri per [[motifs/love|amore]] di Dalmon; e
@@ -5891,7 +5891,7 @@ people who are terribly conscientious, without any of that armour of
 habit and hard common sense that many conscientious people get. She is
 almost insanely sensitive and at the same [[motifs/time|time]] quite unselfish. Her
 [[concepts/history|history]] is curious: she was left literally penniless like a foundling
-and Sir [[characters/arthur|Arthur]] took her into his house and treated her with
+and Sir [[characters/arthur|Arthur]] took her into his [[house]] and treated her with
 consideration, which puzzled many; for, without being hard on the old
 man, it was not much in his line. But, when she was about seventeen, the
 explanation came to her with a shock; for her guardian asked her to
@@ -5900,7 +5900,7 @@ other, Sybil had heard from somebody (I rather suspect from old Abbott)
 that Sir [[characters/arthur|Arthur]] Vaudrey, in his wilder youth, had committed some crime
 or, at least, done some great wrong to somebody, which had got him into
 serious trouble. I don't know what it was. But it was a sort of
-nightmare to the girl at her crude sentimental age, and made him seem
+[[nightmare]] to the girl at her crude sentimental age, and made him seem
 like a [[archetypes/monster|monster]], at least too much so for the close relation of [[motifs/marriage|marriage]].
 What she did was incredibly typical of her. With helpless terror and
 with heroic [[concepts/courage|courage]] she told him the [[concepts/truth|truth]] with her own trembling lips.
@@ -5912,7 +5912,7 @@ There came into her lonely life the influence of an equally lonely man.
 He was camping-out like a sort of hermit on one of the islands in the
 [[motifs/river|river]]; and I suppose the mystery made him attractive, though I admit he
 is attractive enough; a gentleman, and quite witty, though very
-[[concepts/melancholy|melancholy]]--which, I suppose, increased the romance. It was this man,
+[[concepts/melancholy|melancholy]]--which, I suppose, increased the [[Romance|romance]]. It was this man,
 Dalmon, of course; and to this day I'm not sure how far she really
 accepted him; but it got as far as his getting permission to see her
 guardian. I can fancy her awaiting that interview in an agony of terror
@@ -5937,15 +5937,15 @@ he wants out of him. In plain words, you think Dalmon is a blackmailer."
 "I do," said the other; "and a rotten thing to think, too."
 
 [[characters/father-brown|Father Brown]] reflected for a moment and then said: "I think I should
-like to go up to the house now and have a talk to Dr. Abbott."
+like to go up to the [[house]] now and have a talk to Dr. Abbott."
 
-When he came out of the house again an hour or two afterwards, he may
+When he came out of the [[house]] again an hour or two afterwards, he may
 have been talking to Dr. Abbott, but he emerged in company with Sybil
 Rye, a pale girl with reddish hair and a profile delicate and almost
 tremulous; at the sight other, one could instantly understand all the
 secretary's story of her shuddering candour. It recalled Godiva and
 certain tales of virgin martyrs; only the shy can be so shameless for
-[[concepts/conscience|conscience]]'s sake. Smith came forward to meet them, and for a moment
+[[concepts/conscience|conscience]]'s sake. [[smith|Smith]] came forward to meet them, and for a moment
 they stood talking on the lawn. The day which had been brilliant from
 daybreak was now glowing and even glaring; but [[characters/father-brown|Father Brown]] carried his
 black bundle of an umbrella as [[motifs/well|well]] as wearing his black umbrella of a
@@ -5959,7 +5959,7 @@ Evan can answer for each other, I suppose; but Dr. Abbott has had an
 awful scene with the butcher, who thinks he is accused and is throwing
 accusations about in consequence."
 
-Evan Smith looked very uncomfortable; then blurted out: "Look here,
+Evan [[smith|Smith]] looked very uncomfortable; then blurted out: "Look here,
 Sybil, I can't say much, but we don't believe there's any need for all
 that. It's all very beastly, but we don't think there's been-- any
 violence."
@@ -5970,13 +5970,13 @@ priest.
 "I have heard a theory," he replied, "which seems to me very
 convincing."
 
-He stood looking rather dreamily towards the [[motifs/river|river]]; and Smith and Sybil
+He stood looking rather dreamily towards the [[motifs/river|river]]; and [[smith|Smith]] and Sybil
 began to talk to each other swiftly, in lowered tones. The priest
 drifted along the [[motifs/river|river]] bank, ruminating, and plunged into a plantation
 of thin trees on an almost overhanging bank. The strong sun beat on the
 thin veil of little dancing [[motifs/leaves|leaves]] like small green flames, and all the
 [[motifs/birds|birds]] were singing as if the tree had a hundred tongues. A minute or two
-later, Evan Smith heard his own name called cautiously and yet clearly
+later, Evan [[smith|Smith]] heard his own name called cautiously and yet clearly
 from the green depths of the thicket. He stepped rapidly in that
 direction and met [[characters/father-brown|Father Brown]] returning. The priest said to him, in a
 very low voice:
@@ -5990,25 +5990,25 @@ very low voice:
 
 «Ah, capisco», disse [[characters/father-brown|Padre Brown]].
 
-«Conosco Sybil Rye piuttosto [[motifs/well|bene]], e il suo carattere è parte assai importante di questa vicenda. È un carattere finissimo, in entrambi i sensi: cioè di qualità nobile e, insieme, di una tessitura fin troppo delicata. È una di quelle persone tremendamente scrupolose, prive però di quella corazza d'abitudine e di solido buon senso che tanti scrupolosi finiscono per acquisire. È sensibile fino quasi alla follia e al tempo [[motifs/time|stesso]] del tutto disinteressata. La sua [[concepts/history|storia]] è curiosa: rimase letteralmente senza un soldo, come una trovatella, e Sir [[characters/arthur|Arthur]] la accolse in casa sua e la trattò con un riguardo che stupì molti; perché, senza voler essere duri col vecchio, non era certo cosa nel suo stile. Ma, quando lei aveva circa diciassette anni, la spiegazione le giunse come un colpo: il suo tutore le chiese di sposarlo. Ed è qui che vengo alla parte curiosa della storia. In un modo o nell'altro, Sybil aveva sentito dire da qualcuno (sospetto piuttosto dal vecchio Abbott) che Sir [[characters/arthur|Arthur]] Vaudrey, nella sua giovinezza più sfrenata, aveva commesso un qualche delitto o, quantomeno, fatto un grave torto a qualcuno, cosa che gli aveva procurato seri guai. Non so di che si trattasse. Ma per la ragazza, alla sua età acerba e sentimentale, fu una specie di incubo, e glielo fece apparire come un [[archetypes/monster|mostro]], almeno troppo perché potesse pensare all'intimo legame del [[motifs/marriage|matrimonio]]. Ciò che fece fu incredibilmente tipico di lei. Con terrore impotente e con eroico [[concepts/courage|coraggio]] gli disse la [[concepts/truth|verità]] con le proprie labbra tremanti. Ammise che la sua ripugnanza potesse essere morbosa; la confessò come una segreta [[concepts/madness|follia]]. Con suo sollievo e sua sorpresa, egli prese la cosa con calma e cortesia, e apparentemente non aggiunse altro sull'argomento; e il senso della sua generosità crebbe grandemente per opera della fase successiva della storia. Nella sua vita solitaria entrò l'influsso di un uomo altrettanto solitario. Costui si era accampato all'aperto, come una specie d'eremita, su una delle isole del [[motifs/river|fiume]]; e suppongo che il mistero lo rendesse attraente, sebbene ammetta che è attraente abbastanza di suo; un gentiluomo, e assai spiritoso, benché molto [[concepts/melancholy|malinconico]]— il che, immagino, accresceva la poesia della cosa. Era proprio quest'uomo, Dalmon, s'intende; e ancora oggi non saprei dire fino a che punto lei l'avesse davvero accettato; ma si giunse al punto che egli ottenne il permesso di vedere il suo tutore. Posso immaginarla mentre aspetta quel colloquio in un'agonia di terrore, chiedendosi come il vecchio damerino avrebbe preso la comparsa di un rivale. Ma anche qui scoprì di avergli, a quanto pare, fatto un torto. Egli accolse il più giovane con cordiale ospitalità e parve deliziato dalle prospettive della giovane coppia. Lui e Dalmon andavano insieme a caccia e a pesca ed erano i migliori amici del mondo, quando un giorno lei ebbe un altro colpo. Nel corso di una conversazione, a Dalmon sfuggì per caso una frase, che il vecchio 'non era cambiato molto in trent'anni', e la [[concepts/truth|verità]] su quella strana intimità le esplose davanti. Tutta quella presentazione e quell'ospitalità erano state una mascherata; i due uomini evidentemente si conoscevano già da prima. Ecco perché il più giovane era venuto piuttosto di nascosto in quella contrada. Ecco perché il più anziano si prestava tanto prontamente a favorire il matrimonio. Mi [[concepts/wonder|domando]] che cosa stiate pensando.»
+«Conosco Sybil Rye piuttosto [[motifs/well|bene]], e il suo carattere è parte assai importante di questa vicenda. È un carattere finissimo, in entrambi i sensi: cioè di qualità nobile e, insieme, di una tessitura fin troppo delicata. È una di quelle persone tremendamente scrupolose, prive però di quella corazza d'abitudine e di solido buon senso che tanti scrupolosi finiscono per acquisire. È sensibile fino quasi alla follia e al tempo [[motifs/time|stesso]] del tutto disinteressata. La sua [[concepts/history|storia]] è curiosa: rimase letteralmente senza un soldo, come una trovatella, e Sir [[characters/arthur|Arthur]] la accolse in [[house|casa]] sua e la trattò con un riguardo che stupì molti; perché, senza voler essere duri col vecchio, non era certo cosa nel suo stile. Ma, quando lei aveva circa diciassette anni, la spiegazione le giunse come un colpo: il suo tutore le chiese di sposarlo. Ed è qui che vengo alla parte curiosa della storia. In un modo o nell'altro, Sybil aveva sentito dire da qualcuno (sospetto piuttosto dal vecchio Abbott) che Sir [[characters/arthur|Arthur]] Vaudrey, nella sua giovinezza più sfrenata, aveva commesso un qualche delitto o, quantomeno, fatto un grave torto a qualcuno, cosa che gli aveva procurato seri guai. Non so di che si trattasse. Ma per la ragazza, alla sua età acerba e sentimentale, fu una specie di [[nightmare|incubo]], e glielo fece apparire come un [[archetypes/monster|mostro]], almeno troppo perché potesse pensare all'intimo legame del [[motifs/marriage|matrimonio]]. Ciò che fece fu incredibilmente tipico di lei. Con terrore impotente e con eroico [[concepts/courage|coraggio]] gli disse la [[concepts/truth|verità]] con le proprie labbra tremanti. Ammise che la sua ripugnanza potesse essere morbosa; la confessò come una segreta [[concepts/madness|follia]]. Con suo sollievo e sua sorpresa, egli prese la cosa con calma e cortesia, e apparentemente non aggiunse altro sull'argomento; e il senso della sua generosità crebbe grandemente per opera della fase successiva della storia. Nella sua vita solitaria entrò l'influsso di un uomo altrettanto solitario. Costui si era accampato all'aperto, come una specie d'eremita, su una delle isole del [[motifs/river|fiume]]; e suppongo che il mistero lo rendesse attraente, sebbene ammetta che è attraente abbastanza di suo; un gentiluomo, e assai spiritoso, benché molto [[concepts/melancholy|malinconico]]— il che, immagino, accresceva la [[Romance|poesia]] della cosa. Era proprio quest'uomo, Dalmon, s'intende; e ancora oggi non saprei dire fino a che punto lei l'avesse davvero accettato; ma si giunse al punto che egli ottenne il permesso di vedere il suo tutore. Posso immaginarla mentre aspetta quel colloquio in un'agonia di terrore, chiedendosi come il vecchio damerino avrebbe preso la comparsa di un rivale. Ma anche qui scoprì di avergli, a quanto pare, fatto un torto. Egli accolse il più giovane con cordiale ospitalità e parve deliziato dalle prospettive della giovane coppia. Lui e Dalmon andavano insieme a caccia e a pesca ed erano i migliori amici del mondo, quando un giorno lei ebbe un altro colpo. Nel corso di una conversazione, a Dalmon sfuggì per caso una frase, che il vecchio 'non era cambiato molto in trent'anni', e la [[concepts/truth|verità]] su quella strana intimità le esplose davanti. Tutta quella presentazione e quell'ospitalità erano state una mascherata; i due uomini evidentemente si conoscevano già da prima. Ecco perché il più giovane era venuto piuttosto di nascosto in quella contrada. Ecco perché il più anziano si prestava tanto prontamente a favorire il matrimonio. Mi [[concepts/wonder|domando]] che cosa stiate pensando.»
 
 «So che cosa state pensando», disse [[characters/father-brown|Padre Brown]] con un sorriso, «e mi sembra del tutto logico. Ecco Vaudrey, con qualche brutta storia nel suo passato— uno sconosciuto misterioso venuto a perseguitarlo, che gli cava di dosso tutto ciò che vuole. In parole povere, voi pensate che Dalmon sia un ricattatore.»
 
 «Sì», disse l'altro; «ed è una cosa spregevole, anche solo a pensarla.»
 
-[[characters/father-brown|Padre Brown]] rifletté un momento, poi disse: «Credo che mi piacerebbe salire ora fino alla casa per fare due chiacchiere col dottor Abbott.»
+[[characters/father-brown|Padre Brown]] rifletté un momento, poi disse: «Credo che mi piacerebbe salire ora fino alla [[house|casa]] per fare due chiacchiere col dottor Abbott.»
 
-Quando riemerse dalla casa, un'ora o due più tardi, poteva ben aver parlato col dottor Abbott, ma ne uscì in compagnia di Sybil Rye, una ragazza pallida dai capelli rossicci e dal profilo delicato e quasi tremulo; a vederla, si comprendeva all'istante tutto il racconto del segretario sul suo pudore trepidante. Richiamava Godiva e certe leggende di vergini martiri; solo i timidi sanno essere tanto impudichi per amor di [[concepts/conscience|coscienza]]. Smith si fece avanti per incontrarli, e per un momento restarono a parlare sul prato. La giornata, che era stata splendida fin dall'alba, ora ardeva e persino abbagliava; ma [[characters/father-brown|Padre Brown]] portava con sé il suo nero fagotto di ombrello, [[motifs/well|oltre]] a indossare il suo nero ombrello di cappello; e sembrava, in generale, tutto abbottonato per affrontare la [[motifs/storm|tempesta]]. Ma forse era solo un effetto inconsapevole del suo atteggiamento; e forse la [[motifs/storm|tempesta]] non era una [[motifs/storm|tempesta]] materiale.
+Quando riemerse dalla [[house|casa]], un'ora o due più tardi, poteva ben aver parlato col dottor Abbott, ma ne uscì in compagnia di Sybil Rye, una ragazza pallida dai capelli rossicci e dal profilo delicato e quasi tremulo; a vederla, si comprendeva all'istante tutto il racconto del segretario sul suo pudore trepidante. Richiamava Godiva e certe leggende di vergini martiri; solo i timidi sanno essere tanto impudichi per amor di [[concepts/conscience|coscienza]]. [[smith|Smith]] si fece avanti per incontrarli, e per un momento restarono a parlare sul prato. La giornata, che era stata splendida fin dall'alba, ora ardeva e persino abbagliava; ma [[characters/father-brown|Padre Brown]] portava con sé il suo nero fagotto di ombrello, [[motifs/well|oltre]] a indossare il suo nero ombrello di cappello; e sembrava, in generale, tutto abbottonato per affrontare la [[motifs/storm|tempesta]]. Ma forse era solo un effetto inconsapevole del suo atteggiamento; e forse la [[motifs/storm|tempesta]] non era una [[motifs/storm|tempesta]] materiale.
 
 «Ciò che detesto di tutta questa faccenda», stava dicendo Sybil a bassa voce, «sono le chiacchiere che già cominciano; sospetti contro tutti. John ed Evan possono garantire l'uno per l'altro, suppongo; ma il dottor Abbott ha avuto una scena terribile col macellaio, che si crede accusato e per conseguenza va spargendo accuse a destra e a manca.»
 
-Evan Smith parve assai a disagio; poi sbottò: «Senti, Sybil, non posso dire molto, ma non crediamo che ci sia bisogno di tutto questo. È una cosa disgustosa, ma non pensiamo che ci sia stata— alcuna violenza.»
+Evan [[smith|Smith]] parve assai a disagio; poi sbottò: «Senti, Sybil, non posso dire molto, ma non crediamo che ci sia bisogno di tutto questo. È una cosa disgustosa, ma non pensiamo che ci sia stata— alcuna violenza.»
 
 «Avete una teoria, allora?» disse la ragazza, guardando all'istante il sacerdote.
 
 «Ho udito una teoria», rispose lui, «che mi sembra assai convincente.»
 
-Se ne stava a guardare piuttosto trasognato verso il [[motifs/river|fiume]]; e Smith e Sybil presero a parlarsi rapidamente, a voce bassa. Il sacerdote si mise a vagare lungo la riva del [[motifs/river|fiume]], rimuginando, e s'inoltrò in una piantagione di alberi sottili su una sponda quasi a strapiombo. Il sole forte batteva sul tenue velo di piccole [[motifs/leaves|foglie]] danzanti come minute fiamme verdi, e tutti gli [[motifs/birds|uccelli]] cantavano come se l'albero avesse cento lingue. Un minuto o due più tardi, Evan Smith udì chiamare il proprio nome, con cautela eppure con chiarezza, dalle verdi profondità del boschetto. Si diresse rapidamente da quella parte e incontrò [[characters/father-brown|Padre Brown]] che tornava indietro. Il sacerdote gli disse, a voce bassissima:
+Se ne stava a guardare piuttosto trasognato verso il [[motifs/river|fiume]]; e [[smith|Smith]] e Sybil presero a parlarsi rapidamente, a voce bassa. Il sacerdote si mise a vagare lungo la riva del [[motifs/river|fiume]], rimuginando, e s'inoltrò in una piantagione di alberi sottili su una sponda quasi a strapiombo. Il sole forte batteva sul tenue velo di piccole [[motifs/leaves|foglie]] danzanti come minute fiamme verdi, e tutti gli [[motifs/birds|uccelli]] cantavano come se l'albero avesse cento lingue. Un minuto o due più tardi, Evan [[smith|Smith]] udì chiamare il proprio nome, con cautela eppure con chiarezza, dalle verdi profondità del boschetto. Si diresse rapidamente da quella parte e incontrò [[characters/father-brown|Padre Brown]] che tornava indietro. Il sacerdote gli disse, a voce bassissima:
 
 
 
@@ -6018,10 +6018,10 @@ Se ne stava a guardare piuttosto trasognato verso il [[motifs/river|fiume]]; e S
 "Don't let the lady come down here. Can't you get rid of her? Ask her to
 telephone or something; and then come back here again."
 
-Evan Smith turned with a rather desperate appearance of carelessness and
+Evan [[smith|Smith]] turned with a rather desperate appearance of carelessness and
 approached the girl; but she was not the sort of person whom it is hard
 to make busy with small jobs for others. In a very short [[motifs/time|time]] she had
-vanished into the house and Smith turned to find that [[characters/father-brown|Father Brown]] had
+vanished into the [[house]] and [[smith|Smith]] turned to find that [[characters/father-brown|Father Brown]] had
 once more vanished into the thicket. Just beyond the clump of trees was
 a sort of small chasm where the turf had subsided to the level of the
 sand by the [[motifs/river|river]]. [[characters/father-brown|Father Brown]] was standing on the brink of this cleft,
@@ -6036,26 +6036,26 @@ evidence. But I warn you to be prepared."
 "Only for the most horrible thing I ever saw in my life," said Father
 Brown.
 
-Even Smith stepped to the brink of the bank of turf and with difficulty
+Even [[smith|Smith]] stepped to the brink of the bank of turf and with difficulty
 repressed a cry rather like a scream.
 
 Sir [[characters/arthur|Arthur]] Vaudrey was glaring and grinning up at him; the face was
 turned up so that he could have put his foot on it; the head was thrown
 back, with its wig of whitish yellow hair towards him, so that he saw
 the face upside down. This made it seem all the more like a part of a
-nightmare; as if a man were walking about with his head stuck on the
+[[nightmare]]; as if a man were walking about with his head stuck on the
 wrong way. What was he doing? Was it possible that Vaudrey was really
 creeping about, hiding in the cracks of field and bank, and peering out
 at them in this unnatural posture? The rest of the figure seemed hunched
 and almost crooked, as if it had been crippled or deformed but on
 looking more closely, this seemed only the foreshortening of limbs
-fallen in a heap. Was he mad? Was he? The more Smith looked at him the
+fallen in a heap. Was he mad? Was he? The more [[smith|Smith]] looked at him the
 stiffer the posture seemed.
 
 "You can't see it from here properly," said [[characters/father-brown|Father Brown]], "but his
 throat is cut."
 
-Smith shuddered suddenly. "I can [[motifs/well|well]] believe it's the most horrible
+[[smith|Smith]] shuddered suddenly. "I can [[motifs/well|well]] believe it's the most horrible
 thing you've seen," he said. "I think it's seeing the face upside down.
 I've seen that face at breakfast, or dinner, every day for ten years;
 and it always looked quite pleasant and polite. You turn it upside down
@@ -6083,7 +6083,7 @@ else."
 and he began clambering down the bank on to the little strip of sand by
 the [[motifs/river|river]].
 
-"Perhaps he did it himself," said Smith abruptly. "After all, that's the
+"Perhaps he did it himself," said [[smith|Smith]] abruptly. "After all, that's the
 most obvious sort of escape, and fits in with our theory very [[motifs/well|well]]. He
 wanted a quiet place and he came here and cut his throat."
 
@@ -6134,10 +6134,10 @@ tobacconist?"
 «Non lasci scendere quaggiù la signorina. Non riesce a sbarazzarsene? Le chieda di
 telefonare o qualcosa del genere; e poi torni di nuovo qui.»
 
-Evan Smith si voltò con una piuttosto disperata aria di noncuranza e
+Evan [[smith|Smith]] si voltò con una piuttosto disperata aria di noncuranza e
 si avvicinò alla ragazza; ma costei non era il genere di persona che sia facile
 tenere occupata in piccole faccende per conto altrui. In pochissimo [[motifs/time|tempo]] era
-svanita dentro casa, e Smith si voltò per scoprire che [[characters/father-brown|Father Brown]] era
+svanita dentro [[house|casa]], e [[smith|Smith]] si voltò per scoprire che [[characters/father-brown|Father Brown]] era
 di nuovo sparito nel folto. Poco oltre il gruppo d'alberi c'era
 una specie di piccolo baratro, dove la zolla erbosa era sprofondata fino al livello della
 sabbia in riva al [[motifs/river|fiume]]. [[characters/father-brown|Father Brown]] stava ritto sull'orlo di quella fenditura,
@@ -6152,26 +6152,26 @@ prova. Ma la avverto di prepararsi.»
 «Soltanto alla cosa più orribile che io abbia mai visto in vita mia», disse Padre
 Brown.
 
-Anche Smith si accostò all'orlo del ciglio erboso e a stento
+Anche [[smith|Smith]] si accostò all'orlo del ciglio erboso e a stento
 represse un grido che somigliava piuttosto a un urlo.
 
 Sir [[characters/arthur|Arthur]] Vaudrey lo fissava e gli sogghignava dal basso; il volto era
 rivolto all'insù, così che egli avrebbe potuto posarvi sopra il piede; la testa era gettata
 all'indietro, con la sua parrucca di capelli d'un giallo biancastro verso di lui, sicché egli vedeva
 il volto capovolto. Questo lo faceva sembrare ancora di più una parte di un
-incubo; come se un uomo andasse in giro con la testa infilata al
+[[nightmare|incubo]]; come se un uomo andasse in giro con la testa infilata al
 contrario. Che cosa stava facendo? Era possibile che Vaudrey stesse davvero
 strisciando qua e là, nascondendosi nelle crepe del campo e dell'argine, e sbirciandoli
 di fuori in quella posa innaturale? Il resto della figura pareva raggomitolato
 e quasi contorto, come se fosse stata storpiata o deforme; ma
 guardando più da vicino, questo pareva soltanto lo scorcio di membra
-crollate alla rinfusa. Era pazzo? Lo era davvero? Più Smith lo guardava,
+crollate alla rinfusa. Era pazzo? Lo era davvero? Più [[smith|Smith]] lo guardava,
 più rigida gli appariva la posa.
 
 «Da qui non riesce a vederlo bene», disse [[characters/father-brown|Father Brown]], «ma ha la
 gola tagliata.»
 
-Smith rabbrividì all'improvviso. «Posso [[motifs/well|ben]] credere che sia la cosa più orribile
+[[smith|Smith]] rabbrividì all'improvviso. «Posso [[motifs/well|ben]] credere che sia la cosa più orribile
 che lei abbia mai visto», disse. «Credo sia il vedere il volto capovolto.
 Ho visto quel volto a colazione, o a cena, ogni giorno per dieci anni;
 e appariva sempre del tutto piacevole e cortese. Lo si capovolge
@@ -6199,7 +6199,7 @@ cosa.»
 e cominciò a calarsi giù per l'argine sulla piccola striscia di sabbia in riva al
 [[motifs/river|fiume]].
 
-«Forse l'ha fatto da sé», disse Smith bruscamente. «Dopotutto, è
+«Forse l'ha fatto da sé», disse [[smith|Smith]] bruscamente. «Dopotutto, è
 la forma di scampo più ovvia, e si accorda [[motifs/well|benissimo]] con la nostra teoria. Voleva
 un luogo tranquillo, è venuto qui e si è tagliato la gola.»
 
@@ -6249,8 +6249,8 @@ tabaccaio?»
 <span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_05" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 5)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/ghosts,motif/grave,motif/river,motif/silence,motif/time,motif/well,concept/body,concept/doubt,concept/fear,character/arthur,character/father_brown,character/hamlet"></span>
 
 
-"What is the matter with you?" demanded Smith in some exasperation; for
-[[characters/father-brown|Father Brown]] was rolling his eyes and muttering, and he had uttered the
+"What is the matter with you?" demanded [[smith|Smith]] in some exasperation; for
+[[characters/father-brown|Father Brown]] was [[rolling]] his eyes and muttering, and he had uttered the
 word "tobacconist" as if it were a terrible word of doom.
 
 "Did you notice," said the priest, after a pause, "something rather
@@ -6271,13 +6271,13 @@ bottle while we were working together."
 There was a long [[motifs/silence|silence]], and the priest walked moodily along the sand,
 trailing his umbrella and sometimes muttering the word "tobacconist,"
 till the very word chilled his friend with [[concepts/fear|fear]]. Then he suddenly lifted
-the umbrella and pointed to a boat-house among the rushes.
+the umbrella and pointed to a boat-[[house]] among the rushes.
 
 "Is that the family boat?" he asked. "I wish you'd just scull me up the
 [[motifs/river|river]]; I want to look at those houses from the back. There's no [[motifs/time|time]] to
 lose. They may find the [[concepts/body|body]]; but we must risk that."
 
-Smith was already pulling the little boat upstream towards the [[characters/hamlet|hamlet]]
+[[smith|Smith]] was already pulling the little boat upstream towards the [[characters/hamlet|hamlet]]
 before [[characters/father-brown|Father Brown]] spoke again. Then he said:
 
 "By the way, I found out from old Abbott what was the real story about
@@ -6287,7 +6287,7 @@ would avoid swine and Englishmen, but preferred swine; or some such
 tactful remark. Whatever happened at the [[motifs/time|time]], the quarrel was
 apparently renewed some years after, when the official visited England;
 and Vaudrey, in his violent passion, dragged the man to a pig-sty on
-the farm attached to the country house and threw him in, breaking his
+the farm attached to the country [[house]] and threw him in, breaking his
 arm and leg and leaving him there till next morning. There was rather a
 row about it, of course, but many people thought Vaudrey had acted in a
 pardonable passion of patriotism. Anyhow, it seems not quite the thing
@@ -6329,7 +6329,7 @@ shop the tobacconist's, but it is also the barber's. He'd cut his hand
 and couldn't shave himself; so he came up here. Does that suggest
 anything else to you?"
 
-"It suggests a good deal," replied Smith; "but I expect it will suggest
+"It suggests a good deal," replied [[smith|Smith]]; "but I expect it will suggest
 a good deal more to you."
 
 "Docs it suggest, for instance," observed [[characters/father-brown|Father Brown]], "the only
@@ -6337,7 +6337,7 @@ conditions in which a vigorous and rather violent gentleman might be
 smiling pleasantly when his throat was cut?"
 
 The next moment they had passed through a dark passage or two at the
-back of the house, and came into the back room of the shop, dimly lit by
+back of the [[house]], and came into the back room of the shop, dimly lit by
 filtered light from beyond and a dingy and cracked looking-glass. It
 seemed, somehow, like the green twilight of a tank; but there was light
 enough to see the rough apparatus of a barber's shop and the pale and
@@ -6366,14 +6366,14 @@ about him seemed to dwindle, except his great goblin spectacles.
 "Tell me one thing," continued the priest, quietly. "You had a reason
 for hating the squire?"
 
-The man in the corner babbled something that Smith could not hear; but
+The man in the corner babbled something that [[smith|Smith]] could not hear; but
 the priest nodded.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Che cosa vi prende?» domandò Smith con una certa esasperazione; poiché
-[[characters/father-brown|Father Brown]] stava roteando gli occhi e borbottando, e aveva pronunciato la
+«Che cosa vi prende?» domandò [[smith|Smith]] con una certa esasperazione; poiché
+[[characters/father-brown|Father Brown]] stava [[rolling|roteando]] gli occhi e borbottando, e aveva pronunciato la
 parola «tabaccaio» come se fosse una terribile parola di condanna.
 
 «Avete notato,» disse il prete, dopo una pausa, «qualcosa di piuttosto
@@ -6394,13 +6394,13 @@ d'inchiostro rotta mentre lavoravamo insieme.»
 Vi fu un lungo [[motifs/silence|silenzio]], e il prete camminò cupamente lungo la sabbia,
 trascinando l'ombrello e ogni tanto mormorando la parola «tabaccaio»,
 finché quella stessa parola gelò il suo amico di [[concepts/fear|paura]]. Poi d'un tratto sollevò
-l'ombrello e indicò una rimessa per barche tra i giunchi.
+l'ombrello e indicò una [[house|rimessa per barche]] tra i giunchi.
 
 «È quella la barca di famiglia?» chiese. «Vorrei che mi remaste su per il
 [[motifs/river|fiume]]; voglio guardare quelle case dal retro. Non c'è [[motifs/time|tempo]] da
 perdere. Potrebbero trovare il [[concepts/body|corpo]]; ma dobbiamo correre il rischio.»
 
-Smith stava già spingendo la piccola barca controcorrente verso il [[characters/hamlet|borgo]]
+[[smith|Smith]] stava già spingendo la piccola barca controcorrente verso il [[characters/hamlet|borgo]]
 prima che [[characters/father-brown|Father Brown]] parlasse di nuovo. Poi disse:
 
 «A proposito, dal vecchio Abbott ho scoperto quale fosse la vera storia della
@@ -6410,7 +6410,7 @@ avrebbe evitato i porci e gli inglesi, ma preferiva i porci; o qualche altra
 osservazione altrettanto delicata. Qualunque cosa fosse accaduta al [[motifs/time|momento]], la lite fu
 apparentemente ripresa alcuni anni dopo, quando il funzionario visitò l'Inghilterra;
 e Vaudrey, nel suo violento accesso di collera, trascinò l'uomo a un porcile della
-fattoria annessa alla casa di campagna e lo scaraventò dentro, spezzandogli
+fattoria annessa alla [[house|casa]] di campagna e lo scaraventò dentro, spezzandogli
 un braccio e una gamba e lasciandovelo fino al mattino seguente. Ne nacque un certo
 scandalo, naturalmente, ma molti pensarono che Vaudrey avesse agito in un
 perdonabile accesso di patriottismo. In ogni caso, non pare proprio il genere di cosa
@@ -6452,7 +6452,7 @@ la bottega la tabaccheria, ma è anche la barbieria. Si era tagliato la mano
 e non poteva radersi da sé; così è venuto quassù. Questo vi suggerisce
 qualcos'altro?»
 
-«Suggerisce parecchio,» replicò Smith; «ma m'aspetto che a voi suggerirà
+«Suggerisce parecchio,» replicò [[smith|Smith]]; «ma m'aspetto che a voi suggerirà
 parecchio di più.»
 
 «Suggerisce, per esempio,» osservò [[characters/father-brown|Father Brown]], «le sole
@@ -6460,7 +6460,7 @@ condizioni nelle quali un gentiluomo vigoroso e piuttosto violento potrebbe
 sorridere piacevolmente mentre gli veniva tagliata la gola?»
 
 Un momento dopo avevano attraversato uno o due bui corridoi sul
-retro della casa, ed erano entrati nel retrobottega della bottega, fiocamente illuminato da
+retro della [[house|casa]], ed erano entrati nel retrobottega della bottega, fiocamente illuminato da
 una luce filtrata che veniva dal fondo e da uno specchio sporco e incrinato. Aveva
 l'aria, in qualche modo, del verde crepuscolo di una vasca; ma c'era luce
 a sufficienza per vedere il rozzo armamentario di una barbieria e il volto pallido e
@@ -6489,7 +6489,7 @@ in lui pareva rimpicciolirsi, tranne i suoi grandi occhiali da folletto.
 «Ditemi una cosa,» proseguì il prete, con calma. «Avevate un motivo
 per odiare lo squire?»
 
-L'uomo nell'angolo balbettò qualcosa che Smith non riuscì a udire; ma
+L'uomo nell'angolo balbettò qualcosa che [[smith|Smith]] non riuscì a udire; ma
 il prete annuì.
 
 
@@ -6513,7 +6513,7 @@ little [[motifs/window|window]] beyond. It took but an instant for him to pick u
 razor and cut the throat and come back to the counter. The victim would
 not even be alarmed at the razor and the hand. He died smiling at his
 own thoughts. And what thoughts! Nor, I think, was Dalmon alarmed. He
-had done it so quickly and quietly that Mr. Smith here could have sworn
+had done it so quickly and quietly that Mr. [[smith|Smith]] here could have sworn
 in [[settings/court|court]] that the two were together all the [[motifs/time|time]]. But there was somebody
 who was alarmed, very legitimately, and that was you. You had quarrelled
 with your landlord about arrears of rent and so on; you came back into
@@ -6527,7 +6527,7 @@ seem to have remembered everything but the hat. . . . Oh, don't be
 frightened; I shall forget everything, including the hat."
 
 And he passed placidly through the outer shop into the street beyond,
-followed by the wondering Smith, and leaving behind the barber stunned
+followed by the wondering [[smith|Smith]], and leaving behind the barber stunned
 and staring.
 
 "You see," said [[characters/father-brown|Father Brown]] to his companion, "it was one of those
@@ -6539,7 +6539,7 @@ it. ... Ah, there was a thundering difference in the motive of the man
 who did do it." And he relapsed into reflection, staring and almost
 glaring at vacancy.
 
-"It is simply awful," groaned Evan Smith. "I was abusing Dalmon as a
+"It is simply awful," groaned Evan [[smith|Smith]]. "I was abusing Dalmon as a
 blackmailer and a blackguard an hour or two ago, and yet it breaks me
 all up to hear he really did this, after all."
 
@@ -6555,7 +6555,7 @@ human heart, where such abominable imaginations can abide? God save us
 all from [[concepts/pride|pride]]; but I cannot yet make any picture in my mind of hate and
 vengeance like that."
 
-"Yes," said Smith; "and I can't quite picture why he should kill Vaudrey
+"Yes," said [[smith|Smith]]; "and I can't quite picture why he should kill Vaudrey
 at all. If Dalmon was a blackmailer, it would seem more natural for
 Vaudrey to kill him. As you say, the throat-cutting was a horrid
 business, but----"
@@ -6601,7 +6601,7 @@ that is in question here. Sir [[characters/arthur|Arthur]] Vaudrey was acting no
 but for vengeance. And he planned the most hideous vengeance I ever
 heard of."
 
-"But why should he plan vengeance on John Dalmon?" inquired Smith.
+"But why should he plan vengeance on John Dalmon?" inquired [[smith|Smith]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6610,13 +6610,13 @@ heard of."
 
 Ci fu un [[motifs/silence|silenzio]] riempito dal debole ticchettio di un [[motifs/clock|orologio]] nel retrocucina; e poi [[characters/father-brown|Father Brown]] riprese.
 
-«Ecco che cosa è accaduto. Quando il signor Dalmon mise piede nella vostra bottega esterna, chiese certe sigarette che stavano in [[motifs/window|vetrina]]. Voi usciste un istante, come fanno spesso i bottegai, per accertarvi di quali intendesse; e in quell'attimo di [[motifs/time|tempo]] egli scorse nella stanza interna il rasoio che avevate appena posato, e la testa bianco-gialla di Sir [[characters/arthur|Arthur]] nella poltrona del barbiere; entrambi, probabilmente, luccicanti nella luce di quella piccola [[motifs/window|finestra]] in fondo. Gli bastò un istante per afferrare il rasoio, recidere la gola e tornare al banco. La vittima non si sarebbe nemmeno allarmata alla vista del rasoio e della mano. Morì sorridendo dei propri pensieri. E che pensieri! Né, credo, si allarmò Dalmon. Aveva agito con tale rapidità e silenzio che il signor Smith, qui presente, avrebbe potuto giurare in [[settings/court|tribunale]] che i due erano stati insieme per tutto il [[motifs/time|tempo]]. Ma qualcuno che si allarmò, e assai legittimamente, c'era: eravate voi. Avevate litigato con il vostro padrone di casa per gli arretrati dell'affitto e via dicendo; rientraste nella vostra bottega e trovaste il vostro nemico assassinato nella vostra poltrona, con il vostro rasoio. Non fu del tutto innaturale che disperaste di scagionarvi, e preferiste ripulire il pasticcio; lavare il pavimento e gettare il cadavere nel [[motifs/river|fiume]] di [[motifs/night|notte]], dentro un sacco da patate legato piuttosto malamente. Fu una fortuna che vi fossero ore fisse dopo le quali la vostra bottega da barbiere restava chiusa; così aveste tutto il [[motifs/time|tempo]] che vi serviva. Pare che ricordaste ogni cosa, tranne il cappello... Oh, non spaventatevi; io dimenticherò ogni cosa, cappello compreso.»
+«Ecco che cosa è accaduto. Quando il signor Dalmon mise piede nella vostra bottega esterna, chiese certe sigarette che stavano in [[motifs/window|vetrina]]. Voi usciste un istante, come fanno spesso i bottegai, per accertarvi di quali intendesse; e in quell'attimo di [[motifs/time|tempo]] egli scorse nella stanza interna il rasoio che avevate appena posato, e la testa bianco-gialla di Sir [[characters/arthur|Arthur]] nella poltrona del barbiere; entrambi, probabilmente, luccicanti nella luce di quella piccola [[motifs/window|finestra]] in fondo. Gli bastò un istante per afferrare il rasoio, recidere la gola e tornare al banco. La vittima non si sarebbe nemmeno allarmata alla vista del rasoio e della mano. Morì sorridendo dei propri pensieri. E che pensieri! Né, credo, si allarmò Dalmon. Aveva agito con tale rapidità e silenzio che il signor [[smith|Smith]], qui presente, avrebbe potuto giurare in [[settings/court|tribunale]] che i due erano stati insieme per tutto il [[motifs/time|tempo]]. Ma qualcuno che si allarmò, e assai legittimamente, c'era: eravate voi. Avevate litigato con il vostro padrone di casa per gli arretrati dell'affitto e via dicendo; rientraste nella vostra bottega e trovaste il vostro nemico assassinato nella vostra poltrona, con il vostro rasoio. Non fu del tutto innaturale che disperaste di scagionarvi, e preferiste ripulire il pasticcio; lavare il pavimento e gettare il cadavere nel [[motifs/river|fiume]] di [[motifs/night|notte]], dentro un sacco da patate legato piuttosto malamente. Fu una fortuna che vi fossero ore fisse dopo le quali la vostra bottega da barbiere restava chiusa; così aveste tutto il [[motifs/time|tempo]] che vi serviva. Pare che ricordaste ogni cosa, tranne il cappello... Oh, non spaventatevi; io dimenticherò ogni cosa, cappello compreso.»
 
-E attraversò placidamente la bottega esterna fino alla strada al di là, seguito da uno Smith pieno di stupore, e lasciandosi alle spalle il barbiere sbalordito, con lo sguardo fisso.
+E attraversò placidamente la bottega esterna fino alla strada al di là, seguito da uno [[smith|Smith]] pieno di stupore, e lasciandosi alle spalle il barbiere sbalordito, con lo sguardo fisso.
 
 «Vedete,» disse [[characters/father-brown|Father Brown]] al suo compagno, «era uno di quei casi in cui un movente è davvero troppo debole per condannare un uomo, eppure abbastanza forte per assolverlo. Un ometto nervoso come quello sarebbe l'ultima persona a uccidere davvero un uomo grande e robusto per un battibecco sul denaro. Ma sarebbe la prima a [[concepts/fear|temere]] di essere accusato d'averlo fatto. ... Ah, c'era una differenza abissale nel movente dell'uomo che l'ha fatto davvero.» E ricadde nella riflessione, fissando, quasi trafiggendo con lo sguardo, il vuoto.
 
-«È semplicemente atroce,» gemette Evan Smith. «Un'ora o due fa insultavo Dalmon dandogli del ricattatore e della canaglia, eppure mi sconvolge del tutto sentire che, dopotutto, l'ha fatto davvero.»
+«È semplicemente atroce,» gemette Evan [[smith|Smith]]. «Un'ora o due fa insultavo Dalmon dandogli del ricattatore e della canaglia, eppure mi sconvolge del tutto sentire che, dopotutto, l'ha fatto davvero.»
 
 Il prete sembrava ancora in una sorta di trance, come un uomo che scruti giù in un abisso. Alla fine le sue labbra si mossero ed egli mormorò, più come se fosse una [[motifs/prayer|preghiera]] che un'imprecazione: «Dio misericordioso, che orribile [[concepts/revenge|vendetta]]!»
 
@@ -6624,7 +6624,7 @@ Il suo amico lo interrogò, ma egli proseguì come parlando a se stesso.
 
 «Che orribile storia di odio! Che vendetta, per un verme mortale, prendersi su un altro! Arriveremo mai in [[characters/bottom|fondo]] a questo cuore umano senza fondo, dove possono albergare simili abominevoli fantasie? Dio ci scampi tutti dalla [[concepts/pride|superbia]]; ma non riesco ancora a farmi in mente alcuna immagine di odio e di vendetta come quella.»
 
-«Sì,» disse Smith; «e non riesco affatto a immaginare perché mai avrebbe dovuto uccidere Vaudrey. Se Dalmon era un ricattatore, parrebbe più naturale che fosse Vaudrey a uccidere lui. Come dite voi, quel taglio alla gola fu un affare orrendo, ma...»
+«Sì,» disse [[smith|Smith]]; «e non riesco affatto a immaginare perché mai avrebbe dovuto uccidere Vaudrey. Se Dalmon era un ricattatore, parrebbe più naturale che fosse Vaudrey a uccidere lui. Come dite voi, quel taglio alla gola fu un affare orrendo, ma...»
 
 [[characters/father-brown|Father Brown]] sussultò, e batté le palpebre come un uomo destato dal [[motifs/sleep|sonno]].
 
@@ -6640,7 +6640,7 @@ Il suo amico lo interrogò, ma egli proseguì come parlando a se stesso.
 
 «È molto peggio di un'assurdità; ma non è affatto raro,» replicò l'altro. «Metà della politica moderna consiste in uomini ricchi che ricattano la gente. La vostra idea che sia un'assurdità poggia su due illusioni entrambe assurde. Una è che i ricchi non vogliano mai diventare più ricchi; l'altra, che un uomo possa essere ricattato solo per denaro. È quest'ultima a essere in causa qui. Sir [[characters/arthur|Arthur]] Vaudrey agiva non per avarizia, ma per vendetta. E aveva ordito la più orribile vendetta di cui io abbia mai sentito parlare.»
 
-«Ma perché mai avrebbe dovuto ordire una vendetta contro John Dalmon?» domandò Smith.
+«Ma perché mai avrebbe dovuto ordire una vendetta contro John Dalmon?» domandò [[smith|Smith]].
 
 
 
@@ -6664,7 +6664,7 @@ told you that artists turn a picture the wrong way up when they want to
 see it the right way up. Perhaps, over all those breakfasts and tea-
 tables, you had got used to the face of a fiend."
 
-"What on earth are you driving at?" demanded Smith, impatiently.
+"What on earth are you driving at?" demanded [[smith|Smith]], impatiently.
 
 "I speak in parables," replied the other in a rather sombre tone "Of
 course. Sir [[characters/arthur|Arthur]] was not actually a fiend; he was a man with a
@@ -6688,7 +6688,7 @@ and then he took, what he considered the only appropriate and artistic
 [[concepts/revenge|revenge]]. . . . Oh, my God! he liked his revenges to be appropriate and
 artistic."
 
-Smith looked at him curiously. "You are not thinking of the pig-sty
+[[smith|Smith]] looked at him curiously. "You are not thinking of the pig-sty
 story," he said.
 
 "No," said [[characters/father-brown|Father Brown]]; "of the other story." He controlled the shudder
@@ -6731,7 +6731,7 @@ had been in [[motifs/prison|prison]], should have no husband except a husband on
 gallows. That is what Sir [[characters/arthur|Arthur]] Vaudrey considered an artistic rounding
 off of the story."
 
-Evan Smith, deadly pale, was silent; and, far away, down the perspective
+Evan [[smith|Smith]], deadly pale, was silent; and, far away, down the perspective
 of the [[motifs/road|road]], they saw the large figure and wide hat of Dr. Abbott
 advancing towards them; even in the outline there was a certain
 agitation. But they were still shaken with their own private [[concepts/apocalypse|apocalypse]].
@@ -6775,7 +6775,7 @@ ho detto che gli artisti rovesciano un quadro quando vogliono
 vederlo per il suo verso giusto. Forse, in tutte quelle colazioni e a tutti quei
 tavoli da tè, vi eravate assuefatto alla faccia d'un demonio.»
 
-«Ma dove diavolo volete arrivare?» domandò Smith, spazientito.
+«Ma dove diavolo volete arrivare?» domandò [[smith|Smith]], spazientito.
 
 «Parlo per parabole», replicò l'altro in tono piuttosto cupo. «Certo.
 Sir [[characters/arthur|Arthur]] non era propriamente un demonio; era un uomo con un
@@ -6799,7 +6799,7 @@ e allora si prese quella che considerava l'unica appropriata e artistica
 [[concepts/revenge|vendetta]]. . . . Oh, Dio mio! gli piaceva che le sue vendette fossero appropriate e
 artistiche.»
 
-Smith lo guardò con curiosità. «Voi non state pensando alla storia del
+[[smith|Smith]] lo guardò con curiosità. «Voi non state pensando alla storia del
 porcile», disse.
 
 «No», disse [[characters/father-brown|padre Brown]]; «all'altra storia.» Dominò il tremito
@@ -6842,7 +6842,7 @@ era stato in [[motifs/prison|prigione]], non avrebbe avuto altro marito che un m
 forca. Ecco ciò che Sir [[characters/arthur|Arthur]] Vaudrey considerava un'artistica conclusione
 tonda della storia.»
 
-Evan Smith, pallido come la morte, taceva; e, lontano, in fondo alla prospettiva
+Evan [[smith|Smith]], pallido come la morte, taceva; e, lontano, in fondo alla prospettiva
 della [[motifs/road|strada]], scorsero la grossa figura e il largo cappello del dottor Abbott
 che avanzava verso di loro; anche solo nel profilo v'era una certa
 agitazione. Ma essi erano ancora scossi dalla loro personale [[concepts/apocalypse|apocalisse]].
@@ -6976,7 +6976,7 @@ and he's been a journalist."
 "[[motifs/well|Well]]," said [[characters/father-brown|Father Brown]], "that's not a crime. At least not always."
 
 "Nonsense!" said Granby curtly. "You know what I mean--he's rather a
-rolling stone, who's been a journalist and a lecturer and an actor, and
+[[rolling]] stone, who's been a journalist and a lecturer and an actor, and
 all sorts of things. I've got to know where I stand. . . . Why, there he
 is."
 
@@ -7013,7 +7013,7 @@ Era il viso acuto ma non ostile di un avvocato di nome Granby, le cui chiazze di
 
 «[[motifs/well|Beh]]», disse [[characters/father-brown|Father Brown]], «questo non è un delitto. O almeno non sempre».
 
-«Sciocchezze!» tagliò corto Granby. «Sa bene che cosa intendo: è piuttosto un sasso che rotola, uno che è stato giornalista e conferenziere e attore, e ogni sorta di cose. Ho bisogno di sapere a che punto mi trovo... Ma guarda, eccolo là».
+«Sciocchezze!» tagliò corto Granby. «Sa bene che cosa intendo: è piuttosto un [[rolling|sasso che rotola]], uno che è stato giornalista e conferenziere e attore, e ogni sorta di cose. Ho bisogno di sapere a che punto mi trovo... Ma guarda, eccolo là».
 
 
 
@@ -7066,9 +7066,9 @@ rather a shock."
 was just the point of it--that it wasn't social."
 
 She paused a moment, and then went on firmly: "I came here quite early,
-and saw him sitting quite alone in the middle of that gallery with the
+and saw him sitting quite [[Alone|alone]] in the middle of that gallery with the
 new pictures, that was quite empty then. He had no idea I or anybody was
-near; he was sitting quite alone, and he laughed."
+near; he was sitting quite [[Alone|alone]], and he laughed."
 
 "[[motifs/well|Well]], no [[concepts/wonder|wonder]],' said [[characters/father-brown|Father Brown]]. "I'm not an art critic myself, but
 as a general view of the pictures taken as a whole----"
@@ -7115,7 +7115,7 @@ her.
 Musgrave advanced into the centre of the room towards her, almost like a
 beautifully dressed wax-work wound up to walk. He said a few words to
 her that could not be heard. She did not answer; but they turned away
-together, walking down the long gallery as if in debate, the short, bull
+together, walking down the long gallery as if in [[debate]], the short, bull
 -necked man with the beard bringing up the rear like some [[concepts/grotesque|grotesque]]
 goblin page.
 
@@ -7199,10 +7199,10 @@ un certo turbamento.»
 proprio questo il punto: che non era mondano.»
 
 Si fermò un momento, poi proseguì con fermezza: «Sono arrivata qui
-piuttosto presto, e l'ho visto seduto tutto solo in mezzo a
+piuttosto presto, e l'ho visto seduto tutto [[Alone|solo]] in mezzo a
 quella galleria dei quadri nuovi, che allora era del tutto vuota. Non
 aveva idea che io o chiunque altro fossimo vicini; se ne stava seduto
-tutto solo, e rideva.»
+tutto [[Alone|solo]], e rideva.»
 
 «[[motifs/well|Be']], non c'è da [[concepts/wonder|meravigliarsi]]», disse [[characters/father-brown|Father Brown]].
 «Non sono un critico d'arte, io, ma come giudizio complessivo dei quadri
@@ -7255,7 +7255,7 @@ Musgrave avanzò verso il centro della stanza in direzione di lei, quasi
 come una figura di cera splendidamente vestita e caricata a molla per
 camminare. Le disse poche parole che non poterono essere udite. Ella non
 rispose; ma si allontanarono insieme, percorrendo la lunga galleria come
-in discussione, mentre l'uomo tozzo dal collo taurino e dalla
+in [[debate|discussione]], mentre l'uomo tozzo dal collo taurino e dalla
 barba chiudeva la fila come un [[concepts/grotesque|grottesco]] paggio da
 folletto.
 
@@ -7350,7 +7350,7 @@ suit of fourteenth-century armour stood like a sentinel beside the
 large fireplace. In another long room beyond could be seen, through the
 half-open door, the dark colours of the rows of family portraits.
 
-"I feel as if I'd got into a [[forms/novel|novel]] instead of a house," said the lawyer.
+"I feel as if I'd got into a [[forms/novel|novel]] instead of a [[house]]," said the lawyer.
 "I'd no idea anybody did really keep up the 'Mysteries of Udolpho' in
 this fashion."
 
@@ -7368,13 +7368,13 @@ Granby. "He's keeping us waiting the devil of a [[motifs/time|time]]."
 [[characters/father-brown|Father Brown]]. "I think it's very decent of him to see us at all: two
 total strangers come to ask him highly personal questions."
 
-And, indeed, when the master of the house appeared they had no reason to
+And, indeed, when the master of the [[house]] appeared they had no reason to
 complain of their reception; but rather became conscious of something
 genuine in the traditions of breeding and behaviour that could retain
 their native dignity without difficulty in that barbarous [[concepts/solitude|solitude]], and
 after those long years of rustication and moping. The baronet did not
 seem either surprised or embarrassed at the rare visitation; though they
-suspected that he had not had a stranger in his house for a quarter of a
+suspected that he had not had a stranger in his [[house]] for a quarter of a
 life-[[motifs/time|time]], he behaved as if he had been bowing out duchesses a moment
 before. He showed neither shyness nor impatience when they touched on
 the very private matter of their errand; after a little leisurely
@@ -7410,7 +7410,7 @@ rascally [[motifs/time|time]] of William of Orange, a traitor to two kings and s
 like the murderer of two wives. That is his father, Sir Robert, a
 perfectly honest old cavalier. That is his son, Sir James, one of the
 noblest of the Jacobite martyrs and one of the first men to attempt some
-reparation to the Church and the poor. Does it matter that the House of
+reparation to the Church and the poor. Does it matter that the [[house|House]] of
 Musgrave, the power, the [[concepts/honour|honour]], the authority, descended from one good
 man to another good man through the interval of a bad one? Edward I
 governed England [[motifs/well|well]]. [[characters/edward-iii|Edward III]] covered England with glory. And yet
@@ -7441,7 +7441,7 @@ E con la sua caratteristica impetuosità saltò davvero, atterrando con un legge
 
 Quando furono penetrati nel [[settings/castle|castello]], furono accolti con abbastanza cortesia da un vecchio domestico, l'unico in vista, e dopo aver esposto il motivo della loro visita furono introdotti in una lunga sala rivestita di pannelli di quercia, con finestre a graticcio di foggia antiquata. Armi di molti secoli diversi pendevano in composizioni equilibrate sulle pareti scure, e una completa armatura del Trecento se ne stava come una sentinella accanto al grande camino. In un'altra lunga sala più oltre si scorgevano, attraverso la porta socchiusa, i colori scuri delle file di ritratti di famiglia.
 
-«Mi sento come se fossi finito dentro un [[forms/novel|romanzo]] invece che in una casa» disse l'avvocato. «Non avevo idea che qualcuno tenesse davvero in vita a questo modo i "Misteri di Udolpho".»
+«Mi sento come se fossi finito dentro un [[forms/novel|romanzo]] invece che in una [[house|casa]]» disse l'avvocato. «Non avevo idea che qualcuno tenesse davvero in vita a questo modo i "Misteri di Udolpho".»
 
 «Già; il vecchio gentiluomo porta avanti la sua mania storica con coerenza, non c'è che dire» rispose il prete; «e queste cose non sono nemmeno dei falsi. Non è opera di qualcuno che crede che tutti gli uomini del Medioevo siano vissuti nello stesso [[motifs/time|tempo]]. Talvolta compongono armature con pezzi di provenienza diversa; ma quell'armatura copriva tutta un solo uomo, e lo copriva assai completamente. Vedete, è del tipo tardo, da giostra.»
 
@@ -7449,7 +7449,7 @@ Quando furono penetrati nel [[settings/castle|castello]], furono accolti con abb
 
 «Dovete aspettarvi che tutto vada a rilento in un luogo simile» disse [[characters/father-brown|Father Brown]]. «Trovo molto garbato da parte sua ricevirci comunque: due perfetti sconosciuti venuti a porgli domande estremamente personali.»
 
-E, in effetti, quando il padrone di casa comparve, non ebbero motivo di lamentarsi dell'accoglienza; anzi, presero coscienza di qualcosa di genuino in quelle tradizioni di educazione e di contegno che sapevano conservare senza sforzo la loro nativa dignità in quella barbara [[concepts/solitude|solitudine]], e dopo quei lunghi anni di isolamento campagnolo e di malinconia. Il baronetto non parve né sorpreso né imbarazzato dalla rara visita; e sebbene sospettassero che non aveva avuto un estraneo in casa per un quarto di [[motifs/time|vita]], si comportò come se un attimo prima stesse congedandosi con un inchino da certe duchesse. Non mostrò né timidezza né impazienza quando toccarono la faccenda assai privata della loro missione; dopo un poco di riflessione senza fretta, parve riconoscere che, date le circostanze, la loro curiosità era giustificata. Era un vecchio gentiluomo magro, dall'aria acuta, con sopracciglia nere e un lungo mento, e sebbene i capelli accuratamente arricciati che portava fossero senza dubbio una parrucca, ebbe la saggezza di indossare la parrucca grigia di un uomo anziano.
+E, in effetti, quando il padrone di [[house|casa]] comparve, non ebbero motivo di lamentarsi dell'accoglienza; anzi, presero coscienza di qualcosa di genuino in quelle tradizioni di educazione e di contegno che sapevano conservare senza sforzo la loro nativa dignità in quella barbara [[concepts/solitude|solitudine]], e dopo quei lunghi anni di isolamento campagnolo e di malinconia. Il baronetto non parve né sorpreso né imbarazzato dalla rara visita; e sebbene sospettassero che non aveva avuto un estraneo in [[house|casa]] per un quarto di [[motifs/time|vita]], si comportò come se un attimo prima stesse congedandosi con un inchino da certe duchesse. Non mostrò né timidezza né impazienza quando toccarono la faccenda assai privata della loro missione; dopo un poco di riflessione senza fretta, parve riconoscere che, date le circostanze, la loro curiosità era giustificata. Era un vecchio gentiluomo magro, dall'aria acuta, con sopracciglia nere e un lungo mento, e sebbene i capelli accuratamente arricciati che portava fossero senza dubbio una parrucca, ebbe la saggezza di indossare la parrucca grigia di un uomo anziano.
 
 «Quanto alla questione che vi riguarda direttamente» disse, «la risposta è davvero semplicissima. Mi propongo di certo di trasmettere l'intera mia proprietà a mio figlio, come mio padre la trasmise a me; e nulla — dico con piena consapevolezza, nulla — mi indurrebbe a seguire un'altra via.»
 
@@ -7459,7 +7459,7 @@ E, in effetti, quando il padrone di casa comparve, non ebbero motivo di lamentar
 
 Li condusse nella galleria più interna, di cui avevano già colto un'occhiata, e si fermò gravemente davanti a una fila di ritratti anneriti e accigliati.
 
-«Questo è Sir Roger Musgrave» disse, indicando un personaggio dal volto allungato con una nera parrucca. «Fu uno dei più bassi bugiardi e furfanti dei furfanteschi [[motifs/time|tempi]] di Guglielmo d'Orange, traditore di due re e press'a poco assassino di due mogli. Quello è suo padre, Sir Robert, un vecchio cavaliere perfettamente onesto. Quello è suo figlio, Sir James, uno dei più nobili martiri giacobiti e uno dei primi a tentare qualche riparazione verso la Chiesa e i poveri. Ha forse importanza che la Casa dei Musgrave, la potenza, l'[[concepts/honour|onore]], l'autorità, siano discesi da un uomo buono a un altro uomo buono attraverso l'intervallo di uno cattivo? Edoardo I governò [[motifs/well|bene]] l'Inghilterra. [[characters/edward-iii|Edoardo III]] coprì l'Inghilterra di gloria. Eppure la seconda gloria discese dalla prima gloria attraverso l'infamia e l'imbecillità di Edoardo II, che vezzeggiava Gaveston e fuggì davanti a Bruce. Credetemi, signor Granby, la [[concepts/greatness|grandezza]] di una [[motifs/great-house|grande casata]] e della [[concepts/history|storia]] è qualcosa di più di questi individui accidentali che la portano avanti, per quanto non le rechino lustro. Di padre in figlio è discesa la nostra eredità, e di padre in figlio continuerà. Potete star certi, signori, e potete assicurare a mio figlio, che non lascerò il mio denaro a un [[motifs/home|ricovero]] per gatti smarriti. Un Musgrave lo lascerà a un Musgrave finché non crollino i cieli.»
+«Questo è Sir Roger Musgrave» disse, indicando un personaggio dal volto allungato con una nera parrucca. «Fu uno dei più bassi bugiardi e furfanti dei furfanteschi [[motifs/time|tempi]] di Guglielmo d'Orange, traditore di due re e press'a poco assassino di due mogli. Quello è suo padre, Sir Robert, un vecchio cavaliere perfettamente onesto. Quello è suo figlio, Sir James, uno dei più nobili martiri giacobiti e uno dei primi a tentare qualche riparazione verso la Chiesa e i poveri. Ha forse importanza che la [[house|Casa]] dei Musgrave, la potenza, l'[[concepts/honour|onore]], l'autorità, siano discesi da un uomo buono a un altro uomo buono attraverso l'intervallo di uno cattivo? Edoardo I governò [[motifs/well|bene]] l'Inghilterra. [[characters/edward-iii|Edoardo III]] coprì l'Inghilterra di gloria. Eppure la seconda gloria discese dalla prima gloria attraverso l'infamia e l'imbecillità di Edoardo II, che vezzeggiava Gaveston e fuggì davanti a Bruce. Credetemi, signor Granby, la [[concepts/greatness|grandezza]] di una [[motifs/great-house|grande casata]] e della [[concepts/history|storia]] è qualcosa di più di questi individui accidentali che la portano avanti, per quanto non le rechino lustro. Di padre in figlio è discesa la nostra eredità, e di padre in figlio continuerà. Potete star certi, signori, e potete assicurare a mio figlio, che non lascerò il mio denaro a un [[motifs/home|ricovero]] per gatti smarriti. Un Musgrave lo lascerà a un Musgrave finché non crollino i cieli.»
 
 
 
@@ -7490,7 +7490,7 @@ Marmion, his guest, offered to shake hands with him?"
 
 "Yes," said [[characters/father-brown|Father Brown]].
 
-"'My castles are my [[archetypes/king|king]]'s alone, from turret to foundation stone,'"
+"'My castles are my [[archetypes/king|king]]'s [[Alone|alone]], from turret to foundation stone,'"
 said Musgrave. "'The hand of Douglas is his own.'"
 
 He turned towards the other room and showed his rather dazed visitors
@@ -7584,7 +7584,7 @@ The next day [[characters/father-brown|Father Brown]] came in rather wearily, an
 black bundle of an umbrella with the air of a [[archetypes/pilgrim|pilgrim]] laying down his
 staff. He had an air of some depression. But it was as it was so often
 in his criminal investigations. It was not the depression of failure,
-but the depression of success.
+but the depression of [[success]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7603,7 +7603,7 @@ L'avvocato mantenne il medesimo atteggiamento rispettoso, ma ora fissava rispett
 
 «Sì», disse [[characters/father-brown|Father Brown]].
 
-«"I miei castelli sono del mio [[archetypes/king|re]] soltanto, dalla torretta alla pietra di fondazione"», disse Musgrave. «"La mano di Douglas appartiene a lui solo"».
+«"I miei castelli sono del mio [[archetypes/king|re]] [[Alone|soltanto]], dalla torretta alla pietra di fondazione"», disse Musgrave. «"La mano di Douglas appartiene a lui solo"».
 
 Si volse verso l'altra stanza e ricondusse là dentro i suoi visitatori piuttosto sconcertati.
 
@@ -7637,7 +7637,7 @@ Quando il prete riferì all'avvocato il suo breve colloquio con il vecchio Musgr
 
 «Per la prima cosa, non lo so», rispose [[characters/father-brown|Father Brown]]. «Può darsi che il suo misterioso peccato sia venuto alla luce. Sarei piuttosto propenso a supporre che l'altra gente lo ricatti a tal proposito. Per la terza cosa, credo di saperlo. Quell'orribile donna grassa dai capelli gialli si chiama Madame Grunov, e quel piccolo uomo passa per suo marito».
 
-Il giorno dopo [[characters/father-brown|Father Brown]] rientrò piuttosto spossato, e gettò a terra il nero fardello del suo ombrello con l'aria di un [[archetypes/pilgrim|pellegrino]] che depone il bordone. Aveva un'aria alquanto avvilita. Ma era come tante volte accadeva nelle sue indagini criminali. Non era l'avvilimento del fallimento, bensì l'avvilimento del successo.
+Il giorno dopo [[characters/father-brown|Father Brown]] rientrò piuttosto spossato, e gettò a terra il nero fardello del suo ombrello con l'aria di un [[archetypes/pilgrim|pellegrino]] che depone il bordone. Aveva un'aria alquanto avvilita. Ma era come tante volte accadeva nelle sue indagini criminali. Non era l'avvilimento del fallimento, bensì l'avvilimento del [[success|successo]].
 
 
 
@@ -7655,7 +7655,7 @@ There was a [[motifs/silence|silence]] during which the lawyer only stared at hi
 and then the friend resumed.
 
 "Only the other day I was just going to tell my niece that there are two
-types of men who can laugh when they are alone. One might almost say the
+types of men who can laugh when they are [[Alone|alone]]. One might almost say the
 man who does it is either very good or very bad. You see, he is either
 confiding the joke to God or confiding it to the Devil. But anyhow he
 has an [[concepts/inner-life|inner life]]. [[motifs/well|Well]], there really is a kind of man who confides the
@@ -7737,7 +7737,7 @@ while servants came and went, until the murderer could simply drag it
 out in the dead of [[motifs/night|night]] and lower it into the moat, without even
 crossing the bridge. And then what a good chance he ran! As soon as the
 [[concepts/body|body]] was at all decayed in the stagnant [[motifs/water|water]] there would sooner or
-later be nothing but a skeleton in fourteenth-century armour, a thing
+later be nothing but a [[skeleton]] in fourteenth-century armour, a thing
 very likely to be found in the moat of an old Border [[settings/castle|castle]]. It was
 unlikely that anybody would look for anything there, but if they did,
 that would soon be all they would find. And I got some confirmation of
@@ -7749,7 +7749,7 @@ way, there's another moral from that little incident when I made my
 celebrated graceful and cat-like leap."
 
 "My brain is rather reeling," said Granby, "but I begin to have some
-notion of what all this nightmare is about. What about you and your cat
+notion of what all this [[nightmare]] is about. What about you and your cat
 -like leap?"
 
 "At the post office to-day," said [[characters/father-brown|Father Brown]], "I casually confirmed
@@ -7771,7 +7771,7 @@ when I saw that, I suddenly saw a picture that told the whole story.'
 
 «Quando vidi che c'era una sola armatura» rispose [[characters/father-brown|Padre Brown]]. Seguì un [[motifs/silence|silenzio]] durante il quale l'avvocato si limitò a fissare l'amico, e poi l'amico riprese.
 
-«Proprio l'altro giorno stavo per dire a mia nipote che ci sono due tipi di uomini capaci di ridere quando sono soli. Si potrebbe quasi dire che chi lo fa è o molto buono o molto cattivo. Vedete, o sta confidando la barzelletta a Dio, o la sta confidando al Diavolo. Ma in ogni caso ha una [[concepts/inner-life|vita interiore]]. [[motifs/well|Ebbene]], esiste davvero una specie d'uomo che confida la barzelletta al Diavolo. A costui non importa se nessuno coglie la battuta; se a nessuno si può nemmeno concedere, senza pericolo, di conoscerla. La battuta basta a se stessa, purché sia abbastanza sinistra e maligna.»
+«Proprio l'altro giorno stavo per dire a mia nipote che ci sono due tipi di uomini capaci di ridere quando sono [[Alone|soli]]. Si potrebbe quasi dire che chi lo fa è o molto buono o molto cattivo. Vedete, o sta confidando la barzelletta a Dio, o la sta confidando al Diavolo. Ma in ogni caso ha una [[concepts/inner-life|vita interiore]]. [[motifs/well|Ebbene]], esiste davvero una specie d'uomo che confida la barzelletta al Diavolo. A costui non importa se nessuno coglie la battuta; se a nessuno si può nemmeno concedere, senza pericolo, di conoscerla. La battuta basta a se stessa, purché sia abbastanza sinistra e maligna.»
 
 «Ma di che cosa state parlando?» incalzò Granby. «Di chi state parlando? Di quale di loro, voglio dire? Chi è questa persona che si sta scambiando una barzelletta sinistra con Sua Maestà Satanica?»
 
@@ -7807,9 +7807,9 @@ L'avvocato a sua volta si [[motifs/rose|alzò]] dal seggio e guardò dall'altra 
 
 «Suo padre è nel fossato» disse il prete, «e sono stato uno [[archetypes/fool|sciocco]] a non capirlo fin dal principio, quando qualcosa in quell'armatura mi diede da pensare. Non ricordate l'aspetto di quella stanza? Con quanta cura era stata disposta e adornata? C'erano due asce da battaglia incrociate appese a un lato del [[motifs/fire|caminetto]], due asce da battaglia incrociate all'altro. C'era uno scudo tondo scozzese su una parete, uno scudo tondo scozzese sull'altra. E c'era un'armatura ritta a guardia di un lato del focolare, e uno spazio vuoto sull'altro. Nulla mi persuaderà che un uomo, il quale aveva disposto tutto il resto di quella stanza con una simmetria tanto esagerata, abbia lasciato zoppa proprio quell'unica particolarità. C'era quasi certamente un altro uomo in armatura. E che ne è stato di lui?»
 
-Si fermò un istante, poi proseguì con tono più prosaico: «A pensarci bene, è un ottimo piano per un delitto, e risolve l'eterno problema di come disfarsi del [[concepts/body|corpo]]. Il [[concepts/body|corpo]] poteva starsene ritto dentro quell'armatura completa da torneo per ore, o perfino per giorni, mentre i servitori andavano e venivano, finché l'assassino non lo trascinava fuori nel cuore della [[motifs/night|notte]] e lo calava nel fossato, senza nemmeno attraversare il ponte. E allora, che bella probabilità aveva dalla sua parte! Non appena il [[concepts/body|corpo]] si fosse anche solo un poco decomposto in quell'[[motifs/water|acqua]] stagnante, prima o poi non sarebbe rimasto altro che uno scheletro in armatura trecentesca, cosa assai probabile a trovarsi nel fossato di un vecchio [[settings/castle|castello]] di confine. Era improbabile che qualcuno andasse a cercare qualcosa là, ma se anche l'avesse fatto, ben presto sarebbe stato tutto ciò che avrebbe trovato. E ne ho avuto qualche conferma. Fu quando diceste che stavo cercando una pianta rara; era una pianta in parecchi sensi, se mi perdonate lo scherzo. Vidi le impronte di due piedi affondate tanto profonde nell'argine compatto da esser certo che l'uomo o era molto pesante, o portava qualcosa di molto pesante. E inoltre, tra parentesi, c'è un'altra morale da trarre da quel piccolo incidente, quando eseguii il mio celebre balzo aggraziato e felino.»
+Si fermò un istante, poi proseguì con tono più prosaico: «A pensarci bene, è un ottimo piano per un delitto, e risolve l'eterno problema di come disfarsi del [[concepts/body|corpo]]. Il [[concepts/body|corpo]] poteva starsene ritto dentro quell'armatura completa da torneo per ore, o perfino per giorni, mentre i servitori andavano e venivano, finché l'assassino non lo trascinava fuori nel cuore della [[motifs/night|notte]] e lo calava nel fossato, senza nemmeno attraversare il ponte. E allora, che bella probabilità aveva dalla sua parte! Non appena il [[concepts/body|corpo]] si fosse anche solo un poco decomposto in quell'[[motifs/water|acqua]] stagnante, prima o poi non sarebbe rimasto altro che uno [[skeleton|scheletro]] in armatura trecentesca, cosa assai probabile a trovarsi nel fossato di un vecchio [[settings/castle|castello]] di confine. Era improbabile che qualcuno andasse a cercare qualcosa là, ma se anche l'avesse fatto, ben presto sarebbe stato tutto ciò che avrebbe trovato. E ne ho avuto qualche conferma. Fu quando diceste che stavo cercando una pianta rara; era una pianta in parecchi sensi, se mi perdonate lo scherzo. Vidi le impronte di due piedi affondate tanto profonde nell'argine compatto da esser certo che l'uomo o era molto pesante, o portava qualcosa di molto pesante. E inoltre, tra parentesi, c'è un'altra morale da trarre da quel piccolo incidente, quando eseguii il mio celebre balzo aggraziato e felino.»
 
-«Ho la testa che gira un po'» disse Granby, «ma comincio a farmi un'idea di che cosa parli tutto questo incubo. Che c'entrate voi e il vostro balzo felino?»
+«Ho la testa che gira un po'» disse Granby, «ma comincio a farmi un'idea di che cosa parli tutto questo [[nightmare|incubo]]. Che c'entrate voi e il vostro balzo felino?»
 
 «All'ufficio postale, oggi» disse [[characters/father-brown|Padre Brown]], «ho casualmente confermato l'affermazione che il baronetto mi fece ieri, cioè che vi era stato subito dopo l'ora di [[motifs/time|chiusura]] il giorno precedente: vale a dire non solo il giorno stesso del nostro arrivo, ma all'[[motifs/time|ora]] precisa in cui arrivammo. Non vedete che cosa significa? Significa che in realtà era fuori quando ci presentammo, e rientrò mentre aspettavamo; ed ecco perché dovemmo aspettare tanto a lungo. E quando lo compresi, vidi d'un tratto un quadro che raccontava l'intera storia.»
 
@@ -7885,7 +7885,7 @@ what they call a [[concepts/paradox|paradox]]? Sometimes it is a joy in the very
 hell to tell the [[concepts/truth|truth]]. And above all, to tell it so that everybody
 misunderstands it. That is why he liked that antic of pretending to be
 somebody else, and then painting himself as black--as he was. And that
-was why my niece heard him laughing to himself all alone in the picture
+was why my niece heard him laughing to himself all [[Alone|alone]] in the picture
 gallery."
 
 Granby gave a slight start, like a person brought back to common things
@@ -7968,7 +7968,7 @@ volte è una gioia, nel cuore stesso dell'inferno, dire la [[concepts/truth|veri
 soprattutto, dirla in modo che tutti la fraintendano. Ecco perché gli
 piaceva quella buffonata di fingersi qualcun altro, e poi dipingersi nero
 — com'era. Ed ecco perché mia nipote lo sentì ridere tra sé, tutto
-solo, nella galleria dei ritratti.»
+[[Alone|solo]], nella galleria dei ritratti.»
 
 Granby ebbe un lieve sussulto, come chi viene ricondotto di soprassalto
 alle cose comuni.
@@ -7987,7 +7987,7 @@ un prudente [[motifs/marriage|matrimonio]].»
 VII THE RED [[motifs/moon|MOON]] OF MERU
 
 EVERYONE agreed that the bazaar at Mallowood Abbey (by kind permission
-of Lady Mounteagle) was a great success; there were roundabouts and
+of Lady Mounteagle) was a great [[success]]; there were roundabouts and
 swings and side-shows, which the people greatly enjoyed; I would also
 mention the [[concepts/charity|Charity]], which was the excellent object of the proceedings,
 if any of them could tell me what it was. However, it is only with a few
@@ -8043,12 +8043,12 @@ in.
 
 "For my part," he said, screwing in the monocle that was the only gleam
 in his hard, legal face, "I think we must exhaust the possibilities of
-[[concepts/mesmerism|mesmerism]] before we talk about magic. Remarkable psychological powers
+[[concepts/mesmerism|mesmerism]] before we talk about [[Magic|magic]]. Remarkable psychological powers
 undoubtedly exist, even in apparently backward peoples. Marvellous
 things have been done by fakirs."
 
 "Did you say done by fakers?" asked the other young man, with doubtful
-innocence.
+[[innocence]].
 
 "Tommy, you are simply silly," said the lady. "Why will you keep barging
 in on things you don't understand? You're like a schoolboy screaming out
@@ -8098,15 +8098,15 @@ like that----"
 
 VII LA [[motifs/moon|LUNA]] ROSSA DI MERU
 
-TUTTI convennero che il bazar all'Abbazia di Mallowood (per gentile concessione di Lady Mounteagle) fosse un grande successo; c'erano giostre, altalene e baracconi, di cui la gente si dilettava assai; menzionerei volentieri anche la [[concepts/charity|Beneficenza]], che era l'eccellente scopo di tutta la faccenda, se soltanto qualcuno avesse saputo dirmi in che cosa consistesse. Ma qui a noi interessano soltanto alcuni di loro; e in particolare tre, una signora e due gentiluomini, che passavano fra due delle principali tende o padiglioni, le voci alte in una disputa. Alla loro destra sorgeva la tenda del Maestro della Montagna, quel chiromante e cristallomante di fama mondiale; una ricca tenda purpurea, tutta percorsa, in nero e oro, dai contorni sgangherati di divinità asiatiche che agitavano un'infinità di braccia come polipi. Forse simboleggiavano la prontezza dell'aiuto divino che vi si poteva ottenere; o forse lasciavano soltanto intendere che l'essere ideale di un pio chiromante avrebbe avuto quante più mani possibile. Dall'altro lato si ergeva la più modesta tenda di Phroso il Frenologo; addobbata con maggiore austerità con i diagrammi delle teste di Socrate e di Shakespeare, le quali risultavano a quanto pareva alquanto bitorzolute. Ma esse erano presentate soltanto in bianco e nero, con numeri e annotazioni, come si conveniva alla rigida dignità di una scienza puramente razionalistica. La tenda purpurea aveva un'apertura simile a una nera caverna, e dentro tutto taceva, come si addiceva. Ma Phroso il Frenologo, un individuo magro, malandato, abbronzato dal sole, con baffi e favoriti neri di una ferocia quasi inverosimile, stava ritto fuori dal proprio tempio, e discorreva, a squarciagola, con nessuno in particolare, spiegando che la testa di un qualunque passante si sarebbe senza dubbio rivelata, all'esame, bitorzoluta esattamente quanto quella di Shakespeare. Anzi, nel momento stesso in cui la signora apparve tra le tende, il vigile Phroso le si avventò addosso e le offrì, con una pantomima di cortesia d'antico stampo, di tastarle le bozze craniche.
+TUTTI convennero che il bazar all'Abbazia di Mallowood (per gentile concessione di Lady Mounteagle) fosse un grande [[success|successo]]; c'erano giostre, altalene e baracconi, di cui la gente si dilettava assai; menzionerei volentieri anche la [[concepts/charity|Beneficenza]], che era l'eccellente scopo di tutta la faccenda, se soltanto qualcuno avesse saputo dirmi in che cosa consistesse. Ma qui a noi interessano soltanto alcuni di loro; e in particolare tre, una signora e due gentiluomini, che passavano fra due delle principali tende o padiglioni, le voci alte in una disputa. Alla loro destra sorgeva la tenda del Maestro della Montagna, quel chiromante e cristallomante di fama mondiale; una ricca tenda purpurea, tutta percorsa, in nero e oro, dai contorni sgangherati di divinità asiatiche che agitavano un'infinità di braccia come polipi. Forse simboleggiavano la prontezza dell'aiuto divino che vi si poteva ottenere; o forse lasciavano soltanto intendere che l'essere ideale di un pio chiromante avrebbe avuto quante più mani possibile. Dall'altro lato si ergeva la più modesta tenda di Phroso il Frenologo; addobbata con maggiore austerità con i diagrammi delle teste di Socrate e di Shakespeare, le quali risultavano a quanto pareva alquanto bitorzolute. Ma esse erano presentate soltanto in bianco e nero, con numeri e annotazioni, come si conveniva alla rigida dignità di una scienza puramente razionalistica. La tenda purpurea aveva un'apertura simile a una nera caverna, e dentro tutto taceva, come si addiceva. Ma Phroso il Frenologo, un individuo magro, malandato, abbronzato dal sole, con baffi e favoriti neri di una ferocia quasi inverosimile, stava ritto fuori dal proprio tempio, e discorreva, a squarciagola, con nessuno in particolare, spiegando che la testa di un qualunque passante si sarebbe senza dubbio rivelata, all'esame, bitorzoluta esattamente quanto quella di Shakespeare. Anzi, nel momento stesso in cui la signora apparve tra le tende, il vigile Phroso le si avventò addosso e le offrì, con una pantomima di cortesia d'antico stampo, di tastarle le bozze craniche.
 
 Ella rifiutò con una cortesia che somigliava piuttosto a una scortesia; ma bisogna scusarla, poiché era nel bel mezzo di una discussione. E bisognava scusarla anche, o quanto meno era scusata, perché era Lady Mounteagle. Non era però una nullità, in nessun senso; era al tempo stesso bella e sparuta, con uno sguardo affamato negli occhi profondi e scuri e qualcosa di avido e quasi feroce nel sorriso. La sua veste era bizzarra per l'epoca; giacché ciò accadeva prima che la Grande Guerra ci lasciasse nell'attuale nostro stato d'animo di gravità e raccoglimento. Anzi, la veste somigliava piuttosto alla tenda purpurea; essendo di foggia semi-orientale, coperta di emblemi esotici ed esoterici. Ma tutti sapevano che i Mounteagle erano matti; il che era il modo popolare di dire che lei e suo marito si interessavano ai credi e alla cultura dell'Oriente.
 
 L'eccentricità della signora faceva gran contrasto con la convenzionalità dei due gentiluomini, impettiti e abbottonati in tutta la più rigida foggia di quel giorno lontano, dalla punta dei guanti fino ai lucidi cilindri. Eppure anche qui c'era una differenza; poiché James Hardcastle riusciva insieme a sembrare corretto e distinto, mentre Tommy Hunter sembrava soltanto corretto e ordinario. Hardcastle era un politico promettente; che in società pareva interessarsi a tutto tranne che alla politica. Si potrebbe cupamente rispondere che ogni politico è, con enfasi, un politico promettente. Ma, per rendergli giustizia, egli aveva spesso dato prova di sé come politico d'azione. Nessuna tenda purpurea del bazar, tuttavia, gli era stata predisposta perché vi desse spettacolo.
 
-«Da parte mia», disse, avvitandosi il monocolo che era l'unico bagliore sul suo volto duro e forense, «ritengo che si debbano esaurire le possibilità del [[concepts/mesmerism|mesmerismo]] prima di parlare di magia. Straordinari poteri psicologici esistono senza dubbio, anche presso popoli in apparenza arretrati. Meraviglie sono state compiute dai fachiri.»
+«Da parte mia», disse, avvitandosi il monocolo che era l'unico bagliore sul suo volto duro e forense, «ritengo che si debbano esaurire le possibilità del [[concepts/mesmerism|mesmerismo]] prima di parlare di [[Magic|magia]]. Straordinari poteri psicologici esistono senza dubbio, anche presso popoli in apparenza arretrati. Meraviglie sono state compiute dai fachiri.»
 
-«Ha detto compiute dai fanfaroni?» domandò l'altro giovane, con dubbia innocenza.
+«Ha detto compiute dai fanfaroni?» domandò l'altro giovane, con dubbia [[innocence|innocenza]].
 
 «Tommy, sei semplicemente sciocco», disse la signora. «Perché ti ostini a intrometterti in cose che non capisci? Sei come uno scolaretto che strilla di sapere come si fa un gioco di prestigio. È tutto così Prima Età Vittoriana... quello scetticismo da scolaretto. Quanto al [[concepts/mesmerism|mesmerismo]], [[concepts/doubt|dubito]] che tu possa estenderlo fino a...»
 
@@ -8182,7 +8182,7 @@ to be operated on? I confess I am full of curiosity."
 
 "Oh, I've no patience with such nonsense," spluttered the sceptic, whose
 round face had become rather a red face with the heat of his contempt
-and incredulity. "I'll let you waste your [[motifs/time|time]] on your mahogany
+and [[Incredulity|incredulity]]. "I'll let you waste your [[motifs/time|time]] on your mahogany
 mountebank; I'd rather go and throw at coco-nuts."
 
 The Phrenologist, still hovering near, darted at the opening.
@@ -8211,9 +8211,9 @@ a crowd; he's gone back to his [[concepts/solitude|solitude]]."
 injustice. Do you know where he has gone?"
 
 "I think so," said his hostess equally gravely. "When he wants to be
-alone, he always goes to the cloisters, just at the end of the left
+[[Alone|alone]], he always goes to the cloisters, just at the end of the left
 wing, beyond my husband's study and private museum, you know. Perhaps
-you know this house was once an abbey."
+you know this [[house]] was once an abbey."
 
 "I have heard something about it," answered the priest, with a faint
 smile.
@@ -8225,7 +8225,7 @@ ever heard of the Red [[motifs/moon|Moon]] of Meru? Yes, it's a ruby."
 "I should be delighted to see the collection," said Hardcastle quietly,
 ""including the Master of the Mountain, if that [[archetypes/prophet|prophet]] is one exhibit
 in the museum." And they all turned towards the path leading to the
-house.
+[[house]].
 
 "All the same," muttered the sceptical Thomas, as he brought up the
 rear, "I should very much like to know what the brown beast did come
@@ -8252,14 +8252,14 @@ pale green turban, but a very pink and white English complexion and the
 smooth white moustaches of some amiable Anglo-Indian colonel. This was
 Lord Mounteagle, who had taken his Oriental pleasures more sadly, or at
 least more seriously than his wife. He could talk of nothing whatever,
-except Oriental religion and philosophy; and had thought it necessary
+except Oriental religion and [[philosophy]]; and had thought it necessary
 even to dress in the manner of an Oriental hermit. While he was
 delighted to show his treasures, he seemed to treasure them much more
 for the truths supposed to be symbolized in them than for their value in
-collections, let alone cash. Even when he brought out the great ruby,
+collections, let [[Alone|alone]] cash. Even when he brought out the great ruby,
 perhaps the only thing of great value in the museum, in a merely
 monetary sense, he seemed to be much more interested in its name than in
-its size, let alone its price.
+its size, let [[Alone|alone]] its price.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8315,7 +8315,7 @@ farvi esaminare anche voi? Confesso di essere pieno di curiosità».
 
 «Oh, non ho pazienza per simili sciocchezze», sbottò lo scettico, il cui
 volto tondo era divenuto piuttosto un volto rosso per il calore del suo
-disprezzo e della sua incredulità. «Vi lascio sprecare il vostro
+disprezzo e della sua [[Incredulity|incredulità]]. «Vi lascio sprecare il vostro
 [[motifs/time|tempo]] con il vostro ciarlatano color mogano; io preferisco andare a
 tirare alle noci di cocco».
 
@@ -8347,9 +8347,9 @@ Detesta trovarsi qui in mezzo alla folla; è tornato alla sua
 abbia fatto un torto. Sapete dove è andato?»
 
 «Credo di sì», rispose la padrona di casa con pari gravità. «Quando
-vuole restare solo, va sempre al chiostro, proprio in fondo all'ala
+vuole restare [[Alone|solo]], va sempre al chiostro, proprio in fondo all'ala
 sinistra, oltre lo studio e il museo privato di mio marito, sapete.
-Forse sapete che questa casa un tempo era un'abbazia».
+Forse sapete che questa [[house|casa]] un tempo era un'abbazia».
 
 «Ne ho sentito parlare», rispose il prete, con un debole sorriso.
 
@@ -8360,7 +8360,7 @@ sentito parlare della [[motifs/moon|Luna]] Rossa di Meru? Sì, è un rubino».
 «Sarei lietissimo di vedere la collezione», disse Hardcastle con calma,
 «compreso il Maestro della Montagna, se quel [[archetypes/prophet|profeta]] è uno dei pezzi
 esposti nel museo». E tutti si volsero verso il sentiero che conduceva
-alla casa.
+alla [[house|casa]].
 
 «Comunque sia», borbottò lo scettico Thomas, chiudendo la fila, «mi
 piacerebbe proprio sapere per che cosa sia venuto qui il bruno bestione,
@@ -8389,13 +8389,13 @@ un turbante verde pallido, ma con una carnagione inglese molto rosea e
 bianca e i lisci baffi bianchi di qualche amabile colonnello
 anglo-indiano. Era Lord Mounteagle, che aveva preso i suoi piaceri
 orientali con maggiore malinconia, o quantomeno con maggiore serietà,
-della moglie. Non sapeva parlare d'altro che di religione e filosofia
+della moglie. Non sapeva parlare d'altro che di religione e [[philosophy|filosofia]]
 orientale; e aveva persino ritenuto necessario vestirsi alla maniera di
 un eremita orientale. Pur essendo felicissimo di mostrare i suoi tesori,
 sembrava tenerli in pregio molto più per le verità che si supponeva vi
-fossero simboleggiate che per il loro valore da collezione, tanto meno in denaro. Persino quando tirò fuori il grande rubino, forse l'unica
+fossero simboleggiate che per il loro valore da collezione, [[Alone|tanto meno]] in denaro. Persino quando tirò fuori il grande rubino, forse l'unica
 cosa di grande valore nel museo, in senso puramente monetario, sembrava
-assai più interessato al suo nome che alla sua dimensione, tanto meno al suo prezzo.
+assai più interessato al suo nome che alla sua dimensione, [[Alone|tanto meno]] al suo prezzo.
 
 
 
@@ -8436,7 +8436,7 @@ very varying feelings, became aware.
 
 In the open space surrounded by the cloisters, there ran, like a circle
 in a square, a circular path paved with pale stones and edged with some
-sort of green enamel like an imitation lawn. Inside that, in the very
+sort of green enamel like an [[Imitation|imitation]] lawn. Inside that, in the very
 centre, [[motifs/rose|rose]] the basin of a dark-green fountain, or raised pond, in
 which [[motifs/water|water]]-lilies floated and goldfish flashed to and fro; and high
 above these, its outline dark against the dying light, was a great green
@@ -8476,7 +8476,7 @@ there are of this stone," began Hardcastle; and becoming interested in
 the new topic, laid the great ruby down on the stone sill or ledge under
 the Gothic arch. "But it does not follow that we can mix the aspects in
 one artistic style. You may mix [[historical-references/christianity|Christianity]] and [[historical-references/islam|Islam]], but you can't
-mix Gothic and Saracenic, let alone real Indian."
+mix Gothic and Saracenic, let [[Alone|alone]] real Indian."
 
 As he spoke, the Master of the Mountain seemed to come to life like a
 cataleptic, and moved gravely round another quarter segment of the
@@ -8518,7 +8518,7 @@ Verso la fine della conferenza sul Demiurgo degli gnostici (senza dimenticare la
 
 Il chiostro seguiva la pianta consueta, quanto alla sua struttura originaria; ma la fila di pilastri gotici e di archi acuti che formava il quadrato interno era collegata per tutta la sua lunghezza da un muretto basso, alto all'incirca fino alla cintola, che mutava le porte gotiche in finestre gotiche e conferiva a ciascuna una sorta di piatto [[motifs/window|davanzale]] di pietra. Questa modifica risaliva probabilmente a un'epoca antica; ma ve n'erano altre di foggia più bizzarra, che attestavano le idee individuali alquanto insolite di Lord e Lady Mounteagle. Tra i pilastri pendevano tende sottili, o meglio veli, fatti di perline o di leggere canne, alla maniera continentale o meridionale; e su di essi, ancora, si potevano scorgere le linee e i colori di draghi o idoli asiatici, che contrastavano con la grigia intelaiatura gotica in cui erano sospesi. Ma tutto ciò, per quanto turbasse ulteriormente la luce morente del luogo, era la minore delle incongruenze di cui la compagnia, con sentimenti assai diversi, si andava avvedendo.
 
-Nello spazio aperto racchiuso dai chiostri correva, come un cerchio dentro un quadrato, un sentiero circolare lastricato di pietre chiare e bordato da una sorta di smalto verde simile a un imitazione di prato. All'interno, proprio nel centro, si [[motifs/rose|levava]] la vasca di una fontana verde cupo, o stagno rialzato, in cui galleggiavano [[motifs/water|ninfee]] e guizzavano avanti e indietro pesci rossi; e alta sopra di essi, il profilo scuro contro la luce morente, sorgeva una grande immagine verde. Volgeva loro le spalle e aveva il volto tanto interamente invisibile, nella posa rannicchiata, che la statua avrebbe potuto quasi sembrare priva di capo. Ma in quel solo scuro profilo, nel fioco crepuscolo, alcuni di loro poterono all'istante vedere che era la forma di nulla di cristiano.
+Nello spazio aperto racchiuso dai chiostri correva, come un cerchio dentro un quadrato, un sentiero circolare lastricato di pietre chiare e bordato da una sorta di smalto verde simile a un [[Imitation|imitazione]] di prato. All'interno, proprio nel centro, si [[motifs/rose|levava]] la vasca di una fontana verde cupo, o stagno rialzato, in cui galleggiavano [[motifs/water|ninfee]] e guizzavano avanti e indietro pesci rossi; e alta sopra di essi, il profilo scuro contro la luce morente, sorgeva una grande immagine verde. Volgeva loro le spalle e aveva il volto tanto interamente invisibile, nella posa rannicchiata, che la statua avrebbe potuto quasi sembrare priva di capo. Ma in quel solo scuro profilo, nel fioco crepuscolo, alcuni di loro poterono all'istante vedere che era la forma di nulla di cristiano.
 
 A pochi metri di distanza, sul sentiero circolare, e con lo sguardo rivolto verso il grande dio verde, stava l'uomo chiamato il Maestro della Montagna. I suoi lineamenti affilati e finemente rifiniti parevano modellati da qualche abile artefice come una maschera di rame. In contrasto con essa, la sua barba grigio scuro appariva quasi azzurra come l'indaco; cominciava in un ciuffo stretto sul mento, per poi allargarsi come un grande ventaglio o la coda di un uccello. Era ammantato di verde pavone e portava sul capo calvo un alto copricapo dal profilo insolito: un'acconciatura che nessuno di loro aveva mai veduto prima; ma pareva egizia più che indiana. L'uomo se ne stava con gli occhi fissi; occhi spalancati, a forma di pesce, così immobili da parere gli occhi dipinti su un sarcofago di mummia. Ma per quanto la figura del Maestro della Montagna fosse abbastanza singolare, alcuni della compagnia, compreso [[characters/father-brown|Father Brown]], non guardavano lui; guardavano ancora l'idolo verde cupo che egli stesso stava guardando.
 
@@ -8528,7 +8528,7 @@ A pochi metri di distanza, sul sentiero circolare, e con lo sguardo rivolto vers
 
 «Se così è», disse [[characters/father-brown|Father Brown]] con dolcezza, «pare piuttosto superfluo spingersi fin nel cuore dell'Asia per procurarsene una.»
 
-«Lady Mounteagle intende che sono aspetti o faccette diverse, come ve ne sono di questa pietra», prese a dire Hardcastle; e, cominciando a interessarsi al nuovo argomento, posò il grande rubino sul davanzale o cornice di pietra sotto l'arco gotico. «Ma non ne consegue che si possano mescolare gli aspetti in un solo stile artistico. Si può mescolare il [[historical-references/christianity|Cristianesimo]] e l'[[historical-references/islam|Islam]], ma non si può mescolare il gotico e il saraceno, e tanto meno il vero indiano.»
+«Lady Mounteagle intende che sono aspetti o faccette diverse, come ve ne sono di questa pietra», prese a dire Hardcastle; e, cominciando a interessarsi al nuovo argomento, posò il grande rubino sul davanzale o cornice di pietra sotto l'arco gotico. «Ma non ne consegue che si possano mescolare gli aspetti in un solo stile artistico. Si può mescolare il [[historical-references/christianity|Cristianesimo]] e l'[[historical-references/islam|Islam]], ma non si può mescolare il gotico e il saraceno, e tanto [[Alone|meno]] il vero indiano.»
 
 Mentre parlava, il Maestro della Montagna parve tornare in vita come un catalettico, e si spostò gravemente lungo un altro segmento di quarto del cerchio, e prese posizione all'esterno della loro stessa fila di archi, stando con le spalle a loro e guardando ora verso il dorso dell'idolo. Era evidente che si muoveva a tappe intorno all'intero cerchio, come una lancetta attorno a un [[motifs/clock|orologio]]; ma sostando per la [[motifs/prayer|preghiera]] o la contemplazione.
 
@@ -8618,7 +8618,7 @@ comes our host."
 
 "This is a most distressing matter," said Lord Mounteagle, twisting his
 white moustache with a nervous and even tremulous hand. "Horrible thing
-to have a theft in one's house, let alone connecting it with a man like
+to have a theft in one's [[house]], let [[Alone|alone]] connecting it with a man like
 the Master. But, I confess, I can't quite make head or tail of the way
 in which he is talking about it. I wish you'd come inside and see what
 you think."
@@ -8659,7 +8659,7 @@ There was an irritated [[motifs/silence|silence]], and he went on sleepily.
 
 "If you were to be utterly, unfathomably, silent, do you think you might
 hear a cry from the other end of the world? The cry of a worshipper
-alone in those [[settings/mountains|mountains]], where the original image sits, itself like a
+[[Alone|alone]] in those [[settings/mountains|mountains]], where the original image sits, itself like a
 mountain. Some say that even Jews and Moslems might worship that image;
 because it was never made by man. Hark! Do you hear the cry with which
 he lifts his head and sees in that socket of stone, that has been hollow
@@ -8709,7 +8709,7 @@ A quanto pare l'esame, attraverso il monocolo, del volto tondo che gli stava dav
 
 «Dobbiamo sezionare anche il [[archetypes/prophet|Profeta]]?» chiese l'altro sorridendo. «Ma ecco che arriva il nostro ospite.»
 
-«È una faccenda oltremodo penosa» disse Lord Mounteagle, torcendosi i bianchi baffi con mano nervosa e persino tremula. «Cosa orribile avere un furto in casa propria, per non dire del collegarlo a un uomo come il Maestro. Ma, lo confesso, non riesco proprio a raccapezzarmi nel modo in cui ne parla. Vorrei che veniste dentro a vedere cosa ne pensate.»
+«È una faccenda oltremodo penosa» disse Lord Mounteagle, torcendosi i bianchi baffi con mano nervosa e persino tremula. «Cosa orribile avere un furto in [[house|casa]] propria, per non [[Alone|dire]] del collegarlo a un uomo come il Maestro. Ma, lo confesso, non riesco proprio a raccapezzarmi nel modo in cui ne parla. Vorrei che veniste dentro a vedere cosa ne pensate.»
 
 Entrarono insieme, con Hunter che restava indietro e si metteva a conversare con [[characters/father-brown|Father Brown]], il quale batteva i tacchi girellando per il chiostro.
 
@@ -8727,7 +8727,7 @@ Era vero, come aveva detto Lord Mounteagle, che il suo contegno e il suo tono no
 
 Ci fu un [[motifs/silence|silenzio]] irritato, ed egli proseguì con voce assonnata.
 
-«Se voi foste totalmente, insondabilmente silenziosi, credete che potreste udire un grido dall'altro capo del mondo? Il grido di un fedele solo su quelle [[settings/mountains|montagne]], dove siede l'immagine originaria, essa stessa simile a una montagna. Alcuni dicono che persino Ebrei e Musulmani potrebbero adorare quell'immagine; poiché non fu mai fatta da mano d'uomo. Udite! Sentite il grido con cui egli leva il capo e scorge, in quell'incavo di pietra rimasto vuoto per età intere, l'unica [[motifs/moon|luna]] rossa e adirata che è l'occhio della montagna?»
+«Se voi foste totalmente, insondabilmente silenziosi, credete che potreste udire un grido dall'altro capo del mondo? Il grido di un fedele [[Alone|solo]] su quelle [[settings/mountains|montagne]], dove siede l'immagine originaria, essa stessa simile a una montagna. Alcuni dicono che persino Ebrei e Musulmani potrebbero adorare quell'immagine; poiché non fu mai fatta da mano d'uomo. Udite! Sentite il grido con cui egli leva il capo e scorge, in quell'incavo di pietra rimasto vuoto per età intere, l'unica [[motifs/moon|luna]] rossa e adirata che è l'occhio della montagna?»
 
 «Volete davvero dire» esclamò Lord Mounteagle, un poco turbato, «che potreste farla passare da qui al Monte Meru? Un tempo credevo che aveste grandi poteri spirituali, ma...»
 
@@ -8774,7 +8774,7 @@ boy who climbs a rope thrown into the air. It does not really happen;
 but the spectators are mesmerized into imagining that it happened. So we
 were all mesmerized into imagining this theft had happened. That brown
 hand coming in at the [[motifs/window|window]], and whisking away the gem, was a momentary
-delusion; a hand in a dream. Only, having seen the stone vanish, we
+delusion; a hand in [[A Dream|a dream]]. Only, having seen the stone vanish, we
 never looked for it where it was before. We plunged into the pond and
 turned every leaf of the [[motifs/water|water]] lilies; we were almost giving emetics to
 the goldfish. But the ruby has bee n here all the [[motifs/time|time]]."
@@ -8858,7 +8858,7 @@ was a ruby."
 
 After a pause he went on thoughtfully. "Right away back in that argument
 of theirs, by the tents, I knew things were going wrong. People will
-tell you that theories don't matter and that logic and philosophy aren't
+tell you that theories don't matter and that [[logic]] and [[philosophy]] aren't
 practical. Don't you believe them. Reason is from God, and when things
 are unreasonable there is something the matter. Now, that quite abstract
 argument ended with something funny. Consider what the theories were.
@@ -8888,7 +8888,7 @@ La [[motifs/moon|Luna]] Rossa di Meru giaceva sul davanzale di pietra della [[mo
 
 Questa [[motifs/time|volta]] Hardcastle non tentò di riprenderla; ma il suo contegno era alquanto notevole. Si voltò lentamente e riprese a passeggiare a grandi passi per la stanza; senonché nei suoi movimenti v'era qualcosa di autorevole, dove prima non v'era stato che inquietudine. Alla fine si arrestò dinanzi al Maestro, seduto, e s'inchinò con un sorriso alquanto sardonico.
 
-«Maestro», disse, «vi dobbiamo tutti delle scuse e, quel che più conta, ci avete impartito a tutti una lezione. Credetemi, servirà da lezione [[motifs/well|così come]] da scherzo. Ricorderò sempre i poteri davvero singolari che possedete, e con quanta innocuità li usiate. Lady Mounteagle», proseguì, volgendosi verso di lei, «mi perdonerete d'essermi rivolto prima al Maestro; ma è a voi che ebbi l'[[concepts/honour|onore]] di offrire questa spiegazione qualche [[motifs/time|tempo]] fa. Posso dire d'averla spiegata prima ancora che accadesse. Vi dissi che la maggior parte di queste cose può essere interpretata attraverso una qualche forma d'ipnotismo. Molti ritengono che sia questa la spiegazione di tutte quelle storie indiane sulla pianta di mango e sul ragazzo che s'arrampica su una corda gettata in aria. Non accade davvero; ma gli spettatori sono ipnotizzati fino a immaginare che accada. Così noi tutti fummo ipnotizzati fino a immaginare che questo furto fosse accaduto. Quella mano bruna che entrava dalla [[motifs/window|finestra]] e trafugava la gemma era un'illusione momentanea; una mano in sogno. Solo che, avendo visto sparire la pietra, non la cercammo più là dov'era prima. Ci tuffammo nello stagno e rivoltammo ogni foglia dei gigli d'[[motifs/water|acqua]]; poco mancava che propinassimo emetici ai pesci rossi. Ma il rubino era stato qui tutto il [[motifs/time|tempo]].»
+«Maestro», disse, «vi dobbiamo tutti delle scuse e, quel che più conta, ci avete impartito a tutti una lezione. Credetemi, servirà da lezione [[motifs/well|così come]] da scherzo. Ricorderò sempre i poteri davvero singolari che possedete, e con quanta innocuità li usiate. Lady Mounteagle», proseguì, volgendosi verso di lei, «mi perdonerete d'essermi rivolto prima al Maestro; ma è a voi che ebbi l'[[concepts/honour|onore]] di offrire questa spiegazione qualche [[motifs/time|tempo]] fa. Posso dire d'averla spiegata prima ancora che accadesse. Vi dissi che la maggior parte di queste cose può essere interpretata attraverso una qualche forma d'ipnotismo. Molti ritengono che sia questa la spiegazione di tutte quelle storie indiane sulla pianta di mango e sul ragazzo che s'arrampica su una corda gettata in aria. Non accade davvero; ma gli spettatori sono ipnotizzati fino a immaginare che accada. Così noi tutti fummo ipnotizzati fino a immaginare che questo furto fosse accaduto. Quella mano bruna che entrava dalla [[motifs/window|finestra]] e trafugava la gemma era un'illusione momentanea; una mano [[A Dream|in sogno]]. Solo che, avendo visto sparire la pietra, non la cercammo più là dov'era prima. Ci tuffammo nello stagno e rivoltammo ogni foglia dei gigli d'[[motifs/water|acqua]]; poco mancava che propinassimo emetici ai pesci rossi. Ma il rubino era stato qui tutto il [[motifs/time|tempo]].»
 
 E lanciò uno sguardo agli occhi opalescenti e alla bocca sorridente e barbuta del Maestro, e vide che il sorriso s'era fatto d'un'ombra più largo. V'era in esso qualcosa che fece balzare in piedi gli altri con un'aria di subito rilassamento e di generale, affannoso sollievo.
 
@@ -8936,7 +8936,7 @@ L'altro rimase inchiodato al suolo, come uno cui i capelli si rizzino sul capo. 
 
 «Sapevo che tutto era fuori posto», disse [[characters/father-brown|Father Brown]], «prima ancora di sapere che ci fosse un rubino.»
 
-Dopo una pausa proseguì pensieroso. «Fin da quel loro battibecco, laggiù presso le tende, capii che le cose andavano storte. La gente vi dirà che le teorie non contano e che la logica e la filosofia non sono pratiche. Non credetele. La ragione viene da Dio, e quando le cose sono irragionevoli c'è qualcosa che non va. Ora, quella discussione del tutto astratta finì con qualcosa di buffo. Considerate quali erano le teorie. Hardcastle assumeva un'aria un tantino superiore e sosteneva che tutte le cose fossero perfettamente possibili; ma per lo più si compivano semplicemente per [[concepts/mesmerism|mesmerismo]], o per chiaroveggenza; nomi scientifici per rompicapi filosofici, secondo il solito stile. Ma Hunter riteneva che fosse tutta pura frode e voleva smascherarla. Per testimonianza di Lady Mounteagle, egli non solo andava in giro a smascherare indovini e simili, ma era anzi sceso apposta per affrontare costui. Non veniva spesso; non andava d'accordo con Mounteagle, dal quale, da scialacquatore qual era, cercava sempre di farsi prestare denaro; ma quando seppe che il Maestro stava per venire, accorse in tutta fretta. Molto [[motifs/well|bene]]. Nonostante ciò, fu Hardcastle ad andare a consultare lo stregone e Hunter a rifiutarsi. Disse che non avrebbe sprecato [[motifs/time|tempo]] in simili sciocchezze; avendo, a quanto pare, sprecato gran parte della sua vita a dimostrare che erano sciocchezze. La cosa pare incoerente. Egli pensava che in questo caso si trattasse di lettura nella sfera di cristallo; ma scoprì che era chiromanzia.»
+Dopo una pausa proseguì pensieroso. «Fin da quel loro battibecco, laggiù presso le tende, capii che le cose andavano storte. La gente vi dirà che le teorie non contano e che la [[logic|logica]] e la [[philosophy|filosofia]] non sono pratiche. Non credetele. La ragione viene da Dio, e quando le cose sono irragionevoli c'è qualcosa che non va. Ora, quella discussione del tutto astratta finì con qualcosa di buffo. Considerate quali erano le teorie. Hardcastle assumeva un'aria un tantino superiore e sosteneva che tutte le cose fossero perfettamente possibili; ma per lo più si compivano semplicemente per [[concepts/mesmerism|mesmerismo]], o per chiaroveggenza; nomi scientifici per rompicapi filosofici, secondo il solito stile. Ma Hunter riteneva che fosse tutta pura frode e voleva smascherarla. Per testimonianza di Lady Mounteagle, egli non solo andava in giro a smascherare indovini e simili, ma era anzi sceso apposta per affrontare costui. Non veniva spesso; non andava d'accordo con Mounteagle, dal quale, da scialacquatore qual era, cercava sempre di farsi prestare denaro; ma quando seppe che il Maestro stava per venire, accorse in tutta fretta. Molto [[motifs/well|bene]]. Nonostante ciò, fu Hardcastle ad andare a consultare lo stregone e Hunter a rifiutarsi. Disse che non avrebbe sprecato [[motifs/time|tempo]] in simili sciocchezze; avendo, a quanto pare, sprecato gran parte della sua vita a dimostrare che erano sciocchezze. La cosa pare incoerente. Egli pensava che in questo caso si trattasse di lettura nella sfera di cristallo; ma scoprì che era chiromanzia.»
 
 
 
@@ -9013,7 +9013,7 @@ him like a snake-charmer. But snakes are not pets in this country!
 Here the traditions of Christendom tell at once under a test like this.
 Look at old Mounteagle himself, for instance! Ah, you may be as Eastern
 and esoteric as you like, and weal a turban and a long robe and live on
-messages from Mahatmas; but if a bit of stone is stolen in your house,
+messages from Mahatmas; but if a bit of stone is stolen in your [[house]],
 and your friends are suspected, you will jolly soon find out that you're
 an ordinary English gentleman in a fuss. The man who really did it would
 never want us to think he did it, for he also was an English gentleman.
@@ -9055,7 +9055,7 @@ said, "and that was also stolen."
 
 Vi fu una lunga pausa, poi l'ex frenologo disse lentamente: «[[motifs/well|Ebbene]], è un bel colpo. Ma la cosa continua a confondermi. Tanto per cominciare, non spiega lo strano comportamento del vecchio mago in persona. Se era del tutto [[archetypes/innocent|innocente]], perché diavolo non lo disse? Perché non si indignò all'essere accusato e perquisito? Perché se ne stette soltanto a sorridere, alludendo in modo sornione alle cose selvagge e meravigliose che avrebbe potuto fare?»
 
-«Ah!» esclamò [[characters/father-brown|Father Brown]], con una nota acuta nella voce: «qui tocchi il punto! Tutto ciò che questa gente non capisce e non vuole capire. Tutte le religioni sono uguali, dice Lady Mounteagle. Ah sì, perbacco! Ti dico che alcune di esse sono così diverse che l'uomo migliore di un credo sarà insensibile là dove l'uomo peggiore di un altro sarà sensibile. Ti ho detto che non mi piaceva il potere spirituale, perché l'accento cade sulla parola: potere. Non dico che il Maestro ruberebbe un rubino, molto probabilmente no; molto probabilmente non lo riterrebbe degno d'essere rubato. Non sarebbe propriamente la sua [[concepts/temptation|tentazione]] prendere gioielli; ma sarebbe la sua [[concepts/temptation|tentazione]] prendersi il merito di miracoli che non gli appartenevano più dei gioielli. Fu a quella specie di [[concepts/temptation|tentazione]], a quella specie di furto, che cedette oggi. Gli piaceva che noi credessimo ch'egli possedesse meravigliosi poteri mentali capaci di far volare un oggetto materiale attraverso lo spazio; e persino quando non l'aveva fatto, ci lasciava credere di averlo fatto. Il concetto di proprietà privata non gli si sarebbe affacciato affatto, in primo luogo. La questione non gli si sarebbe presentata nella forma: "Devo rubare questo ciottolo?", ma soltanto nella forma: "Potrei far sparire un ciottolo e farlo ricomparire su una montagna lontana?". La questione di chi fosse il ciottolo gli sarebbe parsa irrilevante. È questo che intendo quando dico che l'essere religiosi è diverso. Egli è molto orgoglioso di avere ciò che chiama poteri spirituali. Ma ciò che chiama spirituale non significa ciò che noi chiamiamo morale. Significa piuttosto mentale; il potere della mente sulla materia; il mago che comanda gli elementi. Ora, noi non siamo così, nemmeno quando non siamo migliori; nemmeno quando siamo peggiori. Noi, i cui padri almeno furono cristiani, che siamo cresciuti sotto quelle arcate medievali anche se le agghindiamo con tutti i demoni dell'Asia, noi abbiamo l'[[concepts/ambition|ambizione]] esattamente opposta e la vergogna esattamente opposta. Noi saremmo tutti ansiosi che nessuno pensasse che l'avevamo fatto. Egli era realmente ansioso che tutti pensassero che l'aveva fatto lui, persino quando non l'aveva fatto. Rubò addirittura il merito di aver rubato. Mentre noi tutti scacciavamo il delitto da noi come una serpe, egli in realtà lo adescava a sé come un incantatore di serpenti. Ma le serpi non sono animali domestici in questo paese! Qui le tradizioni della Cristianità si fanno subito sentire, sotto una prova come questa. Guarda per esempio il vecchio Mounteagle in persona! Ah, puoi essere orientale ed esoterico quanto ti pare, portare il turbante e la lunga veste e vivere di messaggi dai Mahatma; ma se un pezzetto di pietra viene rubato in casa tua, e i tuoi amici sono sospettati, scoprirai assai presto di essere un comune gentiluomo inglese in preda all'agitazione. L'uomo che davvero lo fece non vorrebbe mai che noi pensassimo che l'aveva fatto lui, perché anche lui era un gentiluomo inglese. Ed era anche qualcosa di ben migliore; era un ladro cristiano. [[concepts/hope|Spero]] e credo che fosse un ladro penitente.»
+«Ah!» esclamò [[characters/father-brown|Father Brown]], con una nota acuta nella voce: «qui tocchi il punto! Tutto ciò che questa gente non capisce e non vuole capire. Tutte le religioni sono uguali, dice Lady Mounteagle. Ah sì, perbacco! Ti dico che alcune di esse sono così diverse che l'uomo migliore di un credo sarà insensibile là dove l'uomo peggiore di un altro sarà sensibile. Ti ho detto che non mi piaceva il potere spirituale, perché l'accento cade sulla parola: potere. Non dico che il Maestro ruberebbe un rubino, molto probabilmente no; molto probabilmente non lo riterrebbe degno d'essere rubato. Non sarebbe propriamente la sua [[concepts/temptation|tentazione]] prendere gioielli; ma sarebbe la sua [[concepts/temptation|tentazione]] prendersi il merito di miracoli che non gli appartenevano più dei gioielli. Fu a quella specie di [[concepts/temptation|tentazione]], a quella specie di furto, che cedette oggi. Gli piaceva che noi credessimo ch'egli possedesse meravigliosi poteri mentali capaci di far volare un oggetto materiale attraverso lo spazio; e persino quando non l'aveva fatto, ci lasciava credere di averlo fatto. Il concetto di proprietà privata non gli si sarebbe affacciato affatto, in primo luogo. La questione non gli si sarebbe presentata nella forma: "Devo rubare questo ciottolo?", ma soltanto nella forma: "Potrei far sparire un ciottolo e farlo ricomparire su una montagna lontana?". La questione di chi fosse il ciottolo gli sarebbe parsa irrilevante. È questo che intendo quando dico che l'essere religiosi è diverso. Egli è molto orgoglioso di avere ciò che chiama poteri spirituali. Ma ciò che chiama spirituale non significa ciò che noi chiamiamo morale. Significa piuttosto mentale; il potere della mente sulla materia; il mago che comanda gli elementi. Ora, noi non siamo così, nemmeno quando non siamo migliori; nemmeno quando siamo peggiori. Noi, i cui padri almeno furono cristiani, che siamo cresciuti sotto quelle arcate medievali anche se le agghindiamo con tutti i demoni dell'Asia, noi abbiamo l'[[concepts/ambition|ambizione]] esattamente opposta e la vergogna esattamente opposta. Noi saremmo tutti ansiosi che nessuno pensasse che l'avevamo fatto. Egli era realmente ansioso che tutti pensassero che l'aveva fatto lui, persino quando non l'aveva fatto. Rubò addirittura il merito di aver rubato. Mentre noi tutti scacciavamo il delitto da noi come una serpe, egli in realtà lo adescava a sé come un incantatore di serpenti. Ma le serpi non sono animali domestici in questo paese! Qui le tradizioni della Cristianità si fanno subito sentire, sotto una prova come questa. Guarda per esempio il vecchio Mounteagle in persona! Ah, puoi essere orientale ed esoterico quanto ti pare, portare il turbante e la lunga veste e vivere di messaggi dai Mahatma; ma se un pezzetto di pietra viene rubato in [[house|casa]] tua, e i tuoi amici sono sospettati, scoprirai assai presto di essere un comune gentiluomo inglese in preda all'agitazione. L'uomo che davvero lo fece non vorrebbe mai che noi pensassimo che l'aveva fatto lui, perché anche lui era un gentiluomo inglese. Ed era anche qualcosa di ben migliore; era un ladro cristiano. [[concepts/hope|Spero]] e credo che fosse un ladro penitente.»
 
 «Secondo il tuo racconto» disse il suo compagno ridendo, «il ladro cristiano e l'impostore pagano andavano per opposti. Uno era spiacente d'averlo fatto, l'altro era spiacente di non averlo fatto.»
 
@@ -9128,16 +9128,16 @@ said casually;
 "About a minute and half between the flash and the bang, but I think the
 [[motifs/storm|storm]]'s coming nearer. A tree is not supposed to be a good umbrella for
 the [[motifs/lightning|lightning]], but we shall want it soon for the rain. I think it will
-be a deluge.'
+be a [[deluge]].'
 
 The young man glanced at the lady a little anxiously and said: "Can't we
-get shelter anywhere? There seems to be a house over there."
+get shelter anywhere? There seems to be a [[house]] over there."
 
-"There is a house over there," remarked the general, rather grimly; "but
+"There is a [[house]] over there," remarked the general, rather grimly; "but
 not quite what you'd call a hospitable hotel."
 
 "It's curious," said his wife sadly, "that we should be caught in a
-[[motifs/storm|storm]] with no house near but that one, of all others."
+[[motifs/storm|storm]] with no [[house]] near but that one, of all others."
 
 Something in her tone seemed to check the younger man, who was both
 sensitive and comprehending; but nothing of that sort daunted the man
@@ -9159,7 +9159,7 @@ born with some frightful deformity that's kept in a dark room."
 
 "The Marquis of Marne has three heads," remarked Romaine quite gravely.
 "Once in every three hundred years a three-headed nobleman adorns the
-family tree. No human being dares approach the accursed house except a
+family tree. No human being dares approach the accursed [[house]] except a
 silent procession of hatters, sent to provide an abnormal number of
 hats. But," --and his voice took one of those deep and terrible turns,
 that could cause such a thrill in the theatre--"my friends, those hats
@@ -9187,13 +9187,13 @@ Ma c'era qualcosa nella sua immobilità, simile a quella di una statua, che la d
 
 Un momento dopo, l'oscura volta si spaccò con un tuono, e la statua parve prendere vita. Girò il capo al di sopra della spalla e disse con noncuranza:
 
-«Circa un minuto e mezzo tra il lampo e il fragore, ma credo che la [[motifs/storm|tempesta]] si stia avvicinando. Un albero non dovrebbe essere un buon ombrello contro il [[motifs/lightning|fulmine]], ma presto ci servirà per la pioggia. Credo che sarà un diluvio.»
+«Circa un minuto e mezzo tra il lampo e il fragore, ma credo che la [[motifs/storm|tempesta]] si stia avvicinando. Un albero non dovrebbe essere un buon ombrello contro il [[motifs/lightning|fulmine]], ma presto ci servirà per la pioggia. Credo che sarà un [[deluge|diluvio]].»
 
-Il giovane lanciò un'occhiata un po' ansiosa alla signora e disse: «Non possiamo trovare riparo da qualche parte? Laggiù pare esserci una casa.»
+Il giovane lanciò un'occhiata un po' ansiosa alla signora e disse: «Non possiamo trovare riparo da qualche parte? Laggiù pare esserci una [[house|casa]].»
 
-«C'è una casa laggiù», osservò il generale, piuttosto tetro; «ma non proprio ciò che chiamereste un albergo ospitale.»
+«C'è una [[house|casa]] laggiù», osservò il generale, piuttosto tetro; «ma non proprio ciò che chiamereste un albergo ospitale.»
 
-«È curioso», disse la moglie con tristezza, «che dobbiamo essere sorpresi da una [[motifs/storm|tempesta]] senza nessuna casa vicina se non quella, proprio fra tutte.»
+«È curioso», disse la moglie con tristezza, «che dobbiamo essere sorpresi da una [[motifs/storm|tempesta]] senza nessuna [[house|casa]] vicina se non quella, proprio fra tutte.»
 
 Qualcosa nel suo tono parve trattenere il più giovane, che era insieme sensibile e comprensivo; ma nulla del genere intimidiva l'uomo di Toronto.
 
@@ -9205,7 +9205,7 @@ Qualcosa nel suo tono parve trattenere il più giovane, che era insieme sensibil
 
 «Sì, anch'io ho sentito parlare di lui», disse il giovane Mallow a voce bassa. «Pare che circolino ogni sorta di storie bizzarre sul perché si nasconda in quel modo. Ho sentito dire che porta una maschera perché è lebbroso. Ma qualcun altro mi ha detto con tutta serietà che c'è una maledizione sulla famiglia: un [[archetypes/child|bambino]] nato con qualche spaventosa deformità, che viene tenuto in una stanza buia.»
 
-«Il Marchese di Marne ha tre teste», osservò Romaine con tutta gravità. «Una volta ogni trecento anni un nobile a tre teste adorna l'albero genealogico. Nessun essere umano osa avvicinarsi alla casa maledetta, salvo una silenziosa processione di cappellai, mandati a fornire un numero abnorme di cappelli. Ma», e la sua voce prese una di quelle inflessioni profonde e terribili, capaci di suscitare un tale brivido a teatro, «amici miei, quei cappelli non hanno forma umana.»
+«Il Marchese di Marne ha tre teste», osservò Romaine con tutta gravità. «Una volta ogni trecento anni un nobile a tre teste adorna l'albero genealogico. Nessun essere umano osa avvicinarsi alla [[house|casa]] maledetta, salvo una silenziosa processione di cappellai, mandati a fornire un numero abnorme di cappelli. Ma», e la sua voce prese una di quelle inflessioni profonde e terribili, capaci di suscitare un tale brivido a teatro, «amici miei, quei cappelli non hanno forma umana.»
 
 La signora americana lo guardò accigliata e con una lieve aria di diffidenza, come se quel gioco di voce l'avesse turbata suo malgrado.
 
@@ -9287,7 +9287,7 @@ Grayson, daughter of the old admiral. She's never married either."
 
 "It's infamous! It's infernal!" cried Sir John, bounding up. "It's not
 only a [[forms/tragedy|tragedy]], but a crime. I've got a duty to the public, and I mean
-to see all this nonsensical nightmare . In the twentieth century----"
+to see all this nonsensical [[nightmare]] . In the twentieth century----"
 
 He was almost choked with his own protest, and then, after a [[motifs/silence|silence]],
 the old soldier said:
@@ -9301,7 +9301,7 @@ with a sigh. "It's just like some creepy story of a dead man burying
 another dead man, over and over again for ever."
 
 "The [[motifs/storm|storm]] has passed over us," said Romaine, with a rather inscrutable
-smile. "You will not have to visit the inhospitable house after all."
+smile. "You will not have to visit the inhospitable [[house]] after all."
 
 She suddenly shuddered.
 
@@ -9321,7 +9321,7 @@ rear; and the latter said abruptly, lowering his voice:
 "I don't want that little cad Cockspur to hear but as you've asked you'd
 better know. It's the one thing I can't forgive Marne; but I suppose
 these [[characters/monks|monks]] have drilled him that way. My wife, who had been the best
-friend he ever had in [[settings/america|America]], actually came to that house when he was
+friend he ever had in [[settings/america|America]], actually came to that [[house]] when he was
 walking in the [[motifs/garden|garden]]. He was looking at the ground like a monk, and
 hidden in a black hood that was really as ridiculous as any mask. She
 had sent her card in, and stood there in his very path. And lie walked
@@ -9348,7 +9348,7 @@ a dead man."
 
 «No, non si è mai sposato», disse la signora. «Era fidanzato quando lo conoscevo, per la verità, ma non credo che quel legame venisse mai al primo posto per lui, e credo che se ne andasse insieme a tutto il resto quando ogni cosa se ne andò. Come [[characters/hamlet|Amleto]] e [[characters/ophelia|Ofelia]]: perse la presa sull'[[motifs/love|amore]] perché perse la presa sulla vita. Ma io conoscevo la fanciulla; anzi, la conosco ancora. Detto tra noi, era [[characters/viola|Viola]] Grayson, figlia del vecchio ammiraglio. Neppure lei si è mai sposata».
 
-«È infame! È infernale!» gridò Sir John, balzando in piedi. «Non è soltanto una [[forms/tragedy|tragedia]], ma un delitto. Ho un dovere verso il pubblico, e intendo far luce su tutto questo insensato incubo. Nel ventesimo secolo...»
+«È infame! È infernale!» gridò Sir John, balzando in piedi. «Non è soltanto una [[forms/tragedy|tragedia]], ma un delitto. Ho un dovere verso il pubblico, e intendo far luce su tutto questo insensato [[nightmare|incubo]]. Nel ventesimo secolo...»
 
 Restò quasi soffocato dalla propria protesta, e poi, dopo un [[motifs/silence|silenzio]], il vecchio soldato disse:
 
@@ -9356,7 +9356,7 @@ Restò quasi soffocato dalla propria protesta, e poi, dopo un [[motifs/silence|s
 
 «Solo che, purtroppo, è proprio a questo che somiglia», disse sua moglie con un sospiro. «È proprio come una di quelle storie da brivido d'un morto che seppellisce un altro morto, ancora e ancora, per sempre».
 
-«La [[motifs/storm|tempesta]] è passata sopra di noi», disse Romaine, con un sorriso piuttosto imperscrutabile. «Dopotutto non dovrete far visita a quella casa inospitale».
+«La [[motifs/storm|tempesta]] è passata sopra di noi», disse Romaine, con un sorriso piuttosto imperscrutabile. «Dopotutto non dovrete far visita a quella [[house|casa]] inospitale».
 
 Ella d'un tratto rabbrividì.
 
@@ -9370,7 +9370,7 @@ Mallow la fissava.
 
 Mentre si allontanavano in processione, Mallow e il generale chiudevano la fila; e quest'ultimo disse d'un tratto, abbassando la voce:
 
-«Non voglio che quel piccolo villano di Cockspur senta, ma poiché avete domandato è meglio che sappiate. È l'unica cosa che non posso perdonare a Marne; ma suppongo che questi [[characters/monks|monaci]] lo abbiano addestrato a quel modo. Mia moglie, che era stata la miglior amica ch'egli avesse mai avuto in [[settings/america|America]], si recò davvero a quella casa mentre lui passeggiava nel [[motifs/garden|giardino]]. Egli guardava a terra come un monaco, nascosto in un cappuccio nero ridicolo quanto qualunque maschera. Ella aveva fatto passare il proprio biglietto da visita, e stava ritta là, proprio sul suo cammino. E lui le passò accanto senza una parola né uno sguardo, come se fosse stata una pietra. Non era umano; era come un orribile automa. Ben può ella chiamarlo [[motifs/well|davvero]] un uomo morto».
+«Non voglio che quel piccolo villano di Cockspur senta, ma poiché avete domandato è meglio che sappiate. È l'unica cosa che non posso perdonare a Marne; ma suppongo che questi [[characters/monks|monaci]] lo abbiano addestrato a quel modo. Mia moglie, che era stata la miglior amica ch'egli avesse mai avuto in [[settings/america|America]], si recò davvero a quella [[house|casa]] mentre lui passeggiava nel [[motifs/garden|giardino]]. Egli guardava a terra come un monaco, nascosto in un cappuccio nero ridicolo quanto qualunque maschera. Ella aveva fatto passare il proprio biglietto da visita, e stava ritta là, proprio sul suo cammino. E lui le passò accanto senza una parola né uno sguardo, come se fosse stata una pietra. Non era umano; era come un orribile automa. Ben può ella chiamarlo [[motifs/well|davvero]] un uomo morto».
 
 
 
@@ -9385,11 +9385,11 @@ thoughtfully in search of a friend. He did not know any [[characters/monks|monks
 knew one priest, whom he was very much concerned to confront with the
 curious revelations he had heard that afternoon. He felt he would very
 much like to know the [[concepts/truth|truth]] about the cruel superstition that hung over
-the house of Marne, like the black thundercloud he had seen hovering
+the [[house]] of Marne, like the black thundercloud he had seen hovering
 over it.
 
 After being referred from one place to another, he finally ran his
-friend [[characters/father-brown|Father Brown]] to earth in the house of another friend, a Roman
+friend [[characters/father-brown|Father Brown]] to earth in the [[house]] of another friend, a Roman
 Catholic friend, with a large family. He entered somewhat abruptly to
 find [[characters/father-brown|Father Brown]] sitting on the floor with a serious expression, and
 attempting to pin the somewhat florid hat belonging to a wax doll on to
@@ -9399,7 +9399,7 @@ Mallow felt a faint sense of incongruity; but he was far too full of his
 problem to put off the conversation if he could, help it. He was
 staggering from a sort of set-back in a subconscious process that had
 been going on for some [[motifs/time|time]]. He poured out the whole [[forms/tragedy|tragedy]] of the
-house of Marne as he had heard it from the general's wife, along with
+[[house]] of Marne as he had heard it from the general's wife, along with
 most of the comments of the general and the newspaper proprietor. A new
 atmosphere of attention seemed to be created with the mention of the
 newspaper proprietor.
@@ -9457,7 +9457,7 @@ expression. The next moment he had turned, and picking up his equally
 shapeless umbrella and large shabby hat, went stumping down the street.
 
 He plodded through a variety of wide streets and squares till he came to
-a handsome old-fashioned house in the West End, where he asked the
+a handsome old-fashioned [[house]] in the West End, where he asked the
 servant if he could see General Outram. After some little palaver he was
 shown into a study, fitted out less with books than with maps and
 globes, where the bald-headed, black-whiskered Anglo-Indian sat
@@ -9502,11 +9502,11 @@ pensieroso in cerca di un amico. Non conosceva alcun [[characters/monks|monaco]]
 conosceva un prete, che desiderava ardentemente mettere di fronte alle
 curiose rivelazioni udite quel pomeriggio. Sentiva che gli sarebbe
 piaciuto moltissimo conoscere la [[concepts/truth|verità]] intorno alla crudele
-superstizione che gravava sulla casa di Marne, come la nera nube
+superstizione che gravava sulla [[house|casa]] di Marne, come la nera nube
 temporalesca che l'aveva vista incombere sopra di essa.
 
 Dopo essere stato rimandato da un luogo all'altro, riuscì infine a
-stanare l'amico [[characters/father-brown|Father Brown]] nella casa di un altro amico, un
+stanare l'amico [[characters/father-brown|Father Brown]] nella [[house|casa]] di un altro amico, un
 amico cattolico romano, dalla numerosa famiglia. Entrò con una certa
 bruschezza e trovò [[characters/father-brown|Father Brown]] seduto sul pavimento, con espressione
 grave, intento ad appuntare sulla testa di un orsacchiotto il cappellino
@@ -9516,7 +9516,7 @@ Mallow avvertì una lieve sensazione di incongruità; ma era troppo preso
 dal proprio problema per rimandare la conversazione, se avesse potuto
 evitarlo. Barcollava per una sorta di contraccolpo in un processo
 subconscio che andava avanti da qualche [[motifs/time|tempo]]. Riversò tutta la
-[[forms/tragedy|tragedia]] della casa di Marne così come l'aveva udita
+[[forms/tragedy|tragedia]] della [[house|casa]] di Marne così come l'aveva udita
 dalla moglie del generale, insieme alla maggior parte dei commenti del
 generale e del proprietario del giornale. Con la menzione del
 proprietario del giornale parve crearsi una nuova atmosfera di
@@ -9579,7 +9579,7 @@ l'ombrello altrettanto informe e il grande cappello sciupato, se ne andò
 arrancando giù per la strada.
 
 Arrancò attraverso una varietà di ampie vie e piazze finché non giunse a
-una bella casa all'antica nel West End, dove chiese al domestico se
+una bella [[house|casa]] all'antica nel West End, dove chiese al domestico se
 potesse vedere il generale Outram. Dopo un breve parlamentare fu
 introdotto in uno studio, arredato meno di libri che di carte geografiche
 e mappamondi, dove l'anglo-indiano calvo e dalle basette nere sedeva
@@ -9659,7 +9659,7 @@ went on:
 why it is obvious that there is more behind. I am quite sure the marquis
 has better cause for his brooding and secretiveness than merely having
 lost an old friend. I [[concepts/doubt|doubt]] whether priests have anything to do with it;
-I don't even know if he's a convert or merely a man comforting his
+I don't even know if he's a [[convert]] or merely a man comforting his
 [[concepts/conscience|conscience]] with charities; but I'm sure he's something more than a chief
 mourner. Since you insist, I will tell you one or two of the things that
 made me think so.
@@ -9725,7 +9725,7 @@ James Mair was the sort of simple character in whom even hate is in a
 sense unselfish. I mean that even when his tenderness turns to rage it
 is still objective, directed outwards to its object; he isn't conscious
 of himself. Now poor Maurice Mair was just the opposite. He was far more
-friendly and popular; but his success had made him live in a house of
+friendly and popular; but his [[success]] had made him live in a [[house]] of
 mirrors. He was first in every sort of sport and art and accomplishment;
 he nearly always won and took his winning amiably. But if ever, by any
 chance, he lost, there was just a glimpse of something not so amiable;
@@ -9764,7 +9764,7 @@ Il soldato rise burbero, poi ringhiò con ostilità assai maggiore.
 
 Gli occhi castani lo fissarono; ma ora non vi era in essi alcun luccichio. Egli continuò:
 
-«Mi costringete a esporre, forse con minor delicatezza di quanta ne mettereste voi, perché è evidente che c'è dell'altro dietro. Sono più che certo che il marchese abbia motivi migliori per il suo rimuginare e i suoi segreti, che non il semplice aver perduto un vecchio amico. [[concepts/doubt|Dubito]] che i preti c'entrino qualcosa; non so nemmeno se sia un convertito o solo un uomo che acquieta la propria [[concepts/conscience|coscienza]] con le opere di carità; ma sono sicuro che è qualcosa di più di un semplice principale in lutto. Poiché insistete, vi dirò una o due delle cose che me lo hanno fatto pensare.
+«Mi costringete a esporre, forse con minor delicatezza di quanta ne mettereste voi, perché è evidente che c'è dell'altro dietro. Sono più che certo che il marchese abbia motivi migliori per il suo rimuginare e i suoi segreti, che non il semplice aver perduto un vecchio amico. [[concepts/doubt|Dubito]] che i preti c'entrino qualcosa; non so nemmeno se sia un [[convert|convertito]] o solo un uomo che acquieta la propria [[concepts/conscience|coscienza]] con le opere di carità; ma sono sicuro che è qualcosa di più di un semplice principale in lutto. Poiché insistete, vi dirò una o due delle cose che me lo hanno fatto pensare.
 
 «Primo: si è detto che James Mair fosse promesso sposo, ma che in qualche modo tornò libero dopo la [[motifs/death|morte]] di Maurice Mair. Perché mai un uomo d'onore dovrebbe rompere il fidanzamento solo perché è avvilito dalla [[motifs/death|morte]] di un terzo? È molto più probabile che si sarebbe volto a esso in cerca di conforto; ma, in ogni caso, la decenza lo obbligava a portarlo a compimento.»
 
@@ -9792,7 +9792,7 @@ Il generale si alzò in piedi e cominciò a camminare, anzi a battere i piedi, p
 
 «Questo va meglio», disse [[characters/father-brown|Father Brown]]. «Grazie a Dio; va molto meglio.»
 
-«Meglio delle cose brutte che pensavate, immagino?», disse il generale burbero. «[[motifs/well|Ebbene]], è facile per voi sogghignare sull'affetto puro e perfetto; ma per quanto ciò [[motifs/well|valga]], era vero. James Mair era davvero devoto al cugino, cresciutogli accanto come un fratello minore. I fratelli e le sorelle maggiori si dedicano talvolta a un [[archetypes/child|bambino]] così, specie quando è una sorta di fenomeno precoce. Ma James Mair era quel genere di carattere semplice in cui perfino l'odio è, in un certo senso, disinteressato. Voglio dire che anche quando la sua tenerezza si muta in ira, essa resta oggettiva, rivolta verso il di fuori, verso il suo oggetto; egli non è consapevole di sé. Ora, il povero Maurice Mair era proprio l'opposto. Era molto più cordiale e amato; ma il suo successo lo aveva fatto vivere in una casa di specchi. Era il primo in ogni sorta di sport, arte e virtù; vinceva quasi sempre, e prendeva le sue vittorie con garbo. Ma se mai, per qualche caso, perdeva, si intravedeva appena qualcosa di non altrettanto garbato; era un po' geloso. Non c'è bisogno che vi racconti tutta la miserabile storia di come fu un po' geloso del fidanzamento del cugino; di come non seppe trattenere la sua irrequieta [[concepts/vanity|vanità]] dall'intromettersi. Basti dire che una delle poche cose in cui James Mair, per ammissione comune, lo superava era la mira con la [[characters/pistol|pistola]]; e con quella la [[forms/tragedy|tragedia]] finì.»
+«Meglio delle cose brutte che pensavate, immagino?», disse il generale burbero. «[[motifs/well|Ebbene]], è facile per voi sogghignare sull'affetto puro e perfetto; ma per quanto ciò [[motifs/well|valga]], era vero. James Mair era davvero devoto al cugino, cresciutogli accanto come un fratello minore. I fratelli e le sorelle maggiori si dedicano talvolta a un [[archetypes/child|bambino]] così, specie quando è una sorta di fenomeno precoce. Ma James Mair era quel genere di carattere semplice in cui perfino l'odio è, in un certo senso, disinteressato. Voglio dire che anche quando la sua tenerezza si muta in ira, essa resta oggettiva, rivolta verso il di fuori, verso il suo oggetto; egli non è consapevole di sé. Ora, il povero Maurice Mair era proprio l'opposto. Era molto più cordiale e amato; ma il suo [[success|successo]] lo aveva fatto vivere in una [[house|casa]] di specchi. Era il primo in ogni sorta di sport, arte e virtù; vinceva quasi sempre, e prendeva le sue vittorie con garbo. Ma se mai, per qualche caso, perdeva, si intravedeva appena qualcosa di non altrettanto garbato; era un po' geloso. Non c'è bisogno che vi racconti tutta la miserabile storia di come fu un po' geloso del fidanzamento del cugino; di come non seppe trattenere la sua irrequieta [[concepts/vanity|vanità]] dall'intromettersi. Basti dire che una delle poche cose in cui James Mair, per ammissione comune, lo superava era la mira con la [[characters/pistol|pistola]]; e con quella la [[forms/tragedy|tragedia]] finì.»
 
 «Volete dire che la [[forms/tragedy|tragedia]] ebbe inizio», replicò il prete. «La [[forms/tragedy|tragedia]] del sopravvissuto. Pensavo che non avesse bisogno di vampiri in tonaca per rendersi infelice.»
 
@@ -9818,7 +9818,7 @@ acting and had taken up Romaine (who was then a rising but still a
 struggling man), and financed the fellow and his ventures in return for
 taking lessons from the professional in his own hobby of amateur acting.
 But Romaine was then, I suppose, practically dependent on his rich
-friend; though he's richer now than any aristocrat. So his serving as
+friend; though he's richer now than any [[aristocrat]]. So his serving as
 second proves very little about what he thought of the quarrel. They
 fought in the English fashion, with only one second apiece; I wanted at
 least to have a surgeon, but Maurice boisterously refused it, saying the
@@ -9898,7 +9898,7 @@ thought quite normal; and really it was manslaughter rather than murder.
 My wife is a great friend of the unfortunate lady who was the occasion
 of the quarrel and she has an idea that if Jim would consent to see
 [[characters/viola|Viola]] Grayson once again, and receive her assurance that old quarrels
-are buried, it might restore his sanity. My wife is calling a sort of
+are buried, it might restore his [[Sanity|sanity]]. My wife is calling a sort of
 council of old friends to-morrow, I believe. She is very energetic."
 
 
@@ -9910,7 +9910,7 @@ council of old friends to-morrow, I believe. She is very energetic."
 
 «Vorrei che me ne diceste di più» disse [[characters/father-brown|padre Brown]] pensieroso. «Chi era il secondo di Maurice Mair?»
 
-«Lui aveva un padrino più illustre» replicò il generale con tono cupo. «Il suo secondo era Hugo Romaine, il grande attore, sapete. Maurice andava pazzo per il teatro e aveva preso sotto la sua ala Romaine (che allora era un astro nascente, ma ancora un uomo alle prese con le difficoltà); ne finanziava le imprese in cambio di lezioni che il professionista gli impartiva nel suo passatempo di attore dilettante. Ma Romaine, immagino, dipendeva allora quasi interamente dal suo ricco amico, sebbene oggi sia più ricco di qualunque aristocratico. Perciò l'aver fatto da secondo dice ben poco su ciò che egli pensasse della contesa. Si batterono alla maniera inglese, con un solo secondo per parte; io avrei voluto almeno un chirurgo, ma Maurice rifiutò con veemenza, dicendo che meno gente ne sapeva, meglio era; e che, alla peggio, avremmo potuto subito procurarci aiuto. "C'è un medico nel villaggio, a meno di mezzo miglio" disse; "lo conosco, e possiede il [[motifs/horse|cavallo]] più veloce della contea. Lo si potrebbe portare qui in un [[motifs/time|attimo]]; ma non c'è bisogno di chiamarlo prima di sapere come vanno le cose." [[motifs/well|Ebbene]], sapevamo tutti che era Maurice a correre il rischio maggiore, giacché la [[characters/pistol|pistola]] non era la sua arma; e così, quando egli rifiutò ogni assistenza, nessuno se la sentì di chiederla. Il duello fu combattuto su un tratto pianeggiante di sabbia, sulla costa orientale della Scozia; e tanto la vista quanto il rumore ne erano celati ai casolari dell'interno da un lungo bastione di dune chiazzate d'erba rada; probabilmente parte dei links, benché a quei tempi nessun inglese avesse mai sentito parlare di golf. Nelle dune si apriva una fenditura profonda e tortuosa, attraverso la quale sbucammo sulla spiaggia. La rivedo ancora adesso: prima una larga striscia di un giallo spento, e più oltre una striscia più stretta di un rosso cupo; un rosso cupo che già pareva la lunga [[archetypes/shadow|ombra]] di un atto di [[motifs/blood|sangue]].
+«Lui aveva un padrino più illustre» replicò il generale con tono cupo. «Il suo secondo era Hugo Romaine, il grande attore, sapete. Maurice andava pazzo per il teatro e aveva preso sotto la sua ala Romaine (che allora era un astro nascente, ma ancora un uomo alle prese con le difficoltà); ne finanziava le imprese in cambio di lezioni che il professionista gli impartiva nel suo passatempo di attore dilettante. Ma Romaine, immagino, dipendeva allora quasi interamente dal suo ricco amico, sebbene oggi sia più ricco di qualunque [[aristocrat|aristocratico]]. Perciò l'aver fatto da secondo dice ben poco su ciò che egli pensasse della contesa. Si batterono alla maniera inglese, con un solo secondo per parte; io avrei voluto almeno un chirurgo, ma Maurice rifiutò con veemenza, dicendo che meno gente ne sapeva, meglio era; e che, alla peggio, avremmo potuto subito procurarci aiuto. "C'è un medico nel villaggio, a meno di mezzo miglio" disse; "lo conosco, e possiede il [[motifs/horse|cavallo]] più veloce della contea. Lo si potrebbe portare qui in un [[motifs/time|attimo]]; ma non c'è bisogno di chiamarlo prima di sapere come vanno le cose." [[motifs/well|Ebbene]], sapevamo tutti che era Maurice a correre il rischio maggiore, giacché la [[characters/pistol|pistola]] non era la sua arma; e così, quando egli rifiutò ogni assistenza, nessuno se la sentì di chiederla. Il duello fu combattuto su un tratto pianeggiante di sabbia, sulla costa orientale della Scozia; e tanto la vista quanto il rumore ne erano celati ai casolari dell'interno da un lungo bastione di dune chiazzate d'erba rada; probabilmente parte dei links, benché a quei tempi nessun inglese avesse mai sentito parlare di golf. Nelle dune si apriva una fenditura profonda e tortuosa, attraverso la quale sbucammo sulla spiaggia. La rivedo ancora adesso: prima una larga striscia di un giallo spento, e più oltre una striscia più stretta di un rosso cupo; un rosso cupo che già pareva la lunga [[archetypes/shadow|ombra]] di un atto di [[motifs/blood|sangue]].
 
 «La cosa in sé parve accadere con orribile [[characters/speed|rapidità]]; come se un turbine si fosse abbattuto sulla sabbia. Al crepitìo stesso dello sparo Maurice Mair parve girare su se stesso come una trottola e piombare bocconi come un birillo. E, per quanto strano, mentre fino a quell'istante mi ero angustiato per lui, nel momento in cui morì tutta la mia pietà andò all'uomo che l'aveva ucciso; e così è tuttora, a quest'ora e in questo giorno. Sapevo che con quel colpo l'intero, immane, terribile pendolo dell'[[motifs/love|amore]] che aveva riempito la vita del mio amico sarebbe tornato indietro; e che, per quante ragioni gli altri potessero trovare di perdonarlo, egli non avrebbe mai perdonato se stesso, in eterno. E così, chissà come, l'immagine davvero viva, quella che mi arde nella [[motifs/memory|memoria]] al punto che non riesco a scacciarla, non è quella della catastrofe, del fumo, del lampo e della figura che cade. Quella parve subito conclusa, come il rumore che desta un uomo dal sonno. Ciò che vidi, ciò che vedrò sempre, è il povero Jim che accorre verso l'amico e avversario caduto; la barba castana che appariva nera contro il pallore spettrale del volto, con i lineamenti marcati che si stagliavano contro il mare; e i gesti frenetici con cui mi faceva segno di correre a cercare il chirurgo nel [[characters/hamlet|villaggio]] dietro le dune. Aveva lasciato cadere la [[characters/pistol|pistola]] mentre correva; teneva un guanto in una mano, e le dita molli e svolazzanti di esso parevano allungarsi e sottolineare la sua selvaggia pantomima, ora indicando, ora invocando aiuto. Ecco l'immagine che davvero mi rimane; e in quell'immagine non c'è nient'altro, se non lo sfondo a strisce di sabbia e di mare, e il [[concepts/body|corpo]] scuro e morto disteso immobile come una pietra, e la figura scura del secondo del morto, ritta, arcigna e immota contro l'orizzonte.»
 
@@ -9920,7 +9920,7 @@ council of old friends to-morrow, I believe. She is very energetic."
 
 «Ho capito» disse [[characters/father-brown|padre Brown]] «che alcuni di voi hanno tentato di vederlo?»
 
-«Mia moglie non ha mai desistito dai suoi tentativi» disse il generale. «Si rifiuta di ammettere che un simile delitto debba escludere un uomo dal consorzio umano per sempre; e confesso che sono incline a darle ragione. Ottant'anni prima lo si sarebbe ritenuto del tutto normale; e in verità fu più omicidio colposo che assassinio. Mia moglie è grande amica della sfortunata signora che fu l'occasione della contesa, e ha in mente che, se Jim acconsentisse a rivedere una volta ancora [[characters/viola|Viola]] Grayson, e a ricevere da lei la certezza che le vecchie liti sono sepolte, ciò potrebbe restituirgli la ragione. Mia moglie sta convocando per domani una sorta di consiglio di vecchi amici, mi pare. È una donna di grande energia.»
+«Mia moglie non ha mai desistito dai suoi tentativi» disse il generale. «Si rifiuta di ammettere che un simile delitto debba escludere un uomo dal consorzio umano per sempre; e confesso che sono incline a darle ragione. Ottant'anni prima lo si sarebbe ritenuto del tutto normale; e in verità fu più omicidio colposo che assassinio. Mia moglie è grande amica della sfortunata signora che fu l'occasione della contesa, e ha in mente che, se Jim acconsentisse a rivedere una volta ancora [[characters/viola|Viola]] Grayson, e a ricevere da lei la certezza che le vecchie liti sono sepolte, ciò potrebbe restituirgli la [[Sanity|ragione]]. Mia moglie sta convocando per domani una sorta di consiglio di vecchi amici, mi pare. È una donna di grande energia.»
 
 
 
@@ -9942,7 +9942,7 @@ some a detail; but for him it was that stiff figure that stood up like a
 standing note of interrogation.
 
 Why had not Romaine moved instantly? It was the natural thing for a
-second to do, in common humanity, let alone [[concepts/friendship|friendship]]. Even if there
+second to do, in common humanity, let [[Alone|alone]] [[concepts/friendship|friendship]]. Even if there
 were some [[topoi/double|double]]-dealing or darker motive not yet understood, one
 would think it would be done for the sake of appearances. Anyhow, when
 the thing was all over, it would be natural for the second to stir long
@@ -9981,10 +9981,10 @@ Outram, he gazed up into his face with a rather helpless expression, as
 of a dying fish, and made a motion as if to hold him by the waistcoat.
 
 "General," he almost whispered, "for God's sake don't let your wife and
-that other woman insist on seeing Marne again. Let sleeping dogs lie, or
+that other woman insist on seeing Marne again. Let sleeping [[dogs]] lie, or
 you'll unleash all the hounds of hell."
 
-The general was left alone with a look of bewilderment in his brown
+The general was left [[Alone|alone]] with a look of bewilderment in his brown
 eyes, as he sat down again to play with his pins.
 
 Even greater, however, was the bewilderment which attended the
@@ -10006,7 +10006,7 @@ the cavernous [[settings/castle|castle]] doorway was the short and shabby figure
 Brown.
 
 "Look here," he said, in his simple, bothered fashion. "I told you you'd
-much better leave him alone. He knows what he's doing and it'll only
+much better leave him [[Alone|alone]]. He knows what he's doing and it'll only
 make everybody unhappy."
 
 Lady Outram, who was accompanied by a tall and quietly-dressed lady,
@@ -10029,7 +10029,7 @@ at all like a rat in a wainscot.
 anxiety. "I've talked it over with the marquis and the only priest he's
 ever had anything to do with; his clerical tastes have been much
 exaggerated. I tell you he knows what he's about; and I do implore you
-all to leave him alone."
+all to leave him [[Alone|alone]]."
 
 "You mean to leave him to this living [[motifs/death|death]] of moping and going mad in a
 ruin!" cried Lady Outram, in a voice that shook a little. "And all
@@ -10058,7 +10058,7 @@ ergersi come un ritto punto interrogativo.
 
 Perché Romaine non si era mosso all'istante? Era la cosa naturale che
 facesse un secondo, per semplice umanità, per non dire per [[concepts/friendship|amicizia]], lasciando
-stare tutto il resto. Anche se ci fosse stato qualche [[topoi/double|doppio]] gioco o qualche
+[[Alone|stare]] tutto il resto. Anche se ci fosse stato qualche [[topoi/double|doppio]] gioco o qualche
 movente più oscuro non ancora compreso, si sarebbe pensato che lo si
 facesse almeno per salvare le apparenze. In ogni caso, quando tutto era
 finito, sarebbe stato naturale che il secondo si muovesse molto prima che
@@ -10097,10 +10097,10 @@ Outram, gli scrutò il volto con un'espressione piuttosto smarrita, da pesce
 moribondo, e fece il gesto di volerlo trattenere per il panciotto.
 
 «Generale» sussurrò quasi, «per amor di Dio, non lasci che sua moglie e
-quell'altra donna si ostinino a rivedere Marne. Non svegli i cani che dormono,
+quell'altra donna si ostinino a rivedere Marne. Non svegli i [[dogs|cani]] che dormono,
 o scatenerà tutti i mastini dell'inferno.»
 
-Il generale rimase solo con un'aria di sconcerto nei suoi occhi bruni,
+Il generale rimase [[Alone|solo]] con un'aria di sconcerto nei suoi occhi bruni,
 mentre tornava a sedersi per giocherellare con i suoi spilli.
 
 Ancor più grande, tuttavia, fu lo sconcerto che accompagnò le successive
@@ -10121,7 +10121,7 @@ alto e decorativo. L'unica figura che uscì dal cavernoso portone del
 [[settings/castle|castello]] fu la figura bassa e trasandata di Padre Brown.
 
 «Sentite» disse, nel suo modo semplice e imbarazzato. «Ve l'avevo detto che
-avreste fatto molto meglio a lasciarlo in pace. Sa quel che fa, e non
+avreste fatto molto meglio a lasciarlo [[Alone|in pace]]. Sa quel che fa, e non
 farete altro che rendere tutti infelici.»
 
 Lady Outram, accompagnata da una signora alta e vestita con sobrietà, ancora
@@ -10143,7 +10143,7 @@ di domandarsi se non somigliasse anche lui a un topo dietro un rivestimento.
 «Oh, va tutto bene» disse [[characters/father-brown|Father Brown]], con l'impazienza dell'ansia. «Ne
 ho parlato con il marchese e con l'unico prete con cui abbia mai avuto a che
 fare; le sue inclinazioni clericali sono state molto esagerate. Vi dico che
-sa quel che fa; e vi imploro tutti di lasciarlo in pace.»
+sa quel che fa; e vi imploro tutti di lasciarlo [[Alone|in pace]].»
 
 «Vorreste lasciarlo a questa [[motifs/death|morte]] vivente, a intristire e impazzire in
 una rovina!» esclamò Lady Outram, con voce che tremava un poco. «E tutto
@@ -10180,7 +10180,7 @@ his offence."
 "God soften your hard heart," said the strange lady speaking for the
 first [[motifs/time|time]]. "I am going to speak to my old friend."
 
-Almost as if her voice had raised a [[archetypes/ghost|ghost]] in that great grey house,
+Almost as if her voice had raised a [[archetypes/ghost|ghost]] in that great grey [[house]],
 something stirred within and a figure stood in the dark doorway at the
 top of the great stone flight of steps. It was clad in dead black, but
 there was something wild about the blanched hair and something in the
@@ -10223,7 +10223,7 @@ your friend."
 
 As they turned, a voice fell on them like a stone from the top of the
 stone stair, a voice that might have come out of an open [[motifs/grave|grave]]. It was
-hoarse and unnatural, like the voices of men who are left alone with
+hoarse and unnatural, like the voices of men who are left [[Alone|alone]] with
 wild [[motifs/birds|birds]] on [[motifs/desert|desert]] islands. It was the voice of the Marquis of Marne,
 and it said: "Stop!"
 
@@ -10269,7 +10269,7 @@ waiting for?"
 "Are you mad?" demanded the other. "Or why should you think I am blind?"
 
 "Because you were blinded--that you might not see," said the priest.
-"Because you are a good man and God had [[concepts/mercy|mercy]] on your innocence, and he
+"Because you are a good man and God had [[concepts/mercy|mercy]] on your [[innocence]], and he
 turned your face away from that unnatural strife. He set a wall of sand
 and [[motifs/silence|silence]] between you and what really happened on that horrible red
 shore, abandoned to the raging spirits of Judas and of [[characters/cain|Cain]]."
@@ -10313,7 +10313,7 @@ più grave della sua offesa.»
 parlando per la prima [[motifs/time|volta]]. «Andrò a parlare con il mio vecchio amico.»
 
 Quasi che la sua voce avesse ridestato un [[archetypes/ghost|fantasma]] in quella grande
-casa grigia, qualcosa si mosse là dentro e una figura comparve sulla
+[[house|casa]] grigia, qualcosa si mosse là dentro e una figura comparve sulla
 soglia buia in cima alla grande gradinata di pietra. Era vestita di nero
 funebre, ma c'era qualcosa di selvaggio nei capelli scoloriti e qualcosa,
 nei lineamenti pallidi, che pareva il relitto di una statua di marmo.
@@ -10354,7 +10354,7 @@ andare con la vostra amica.»
 
 Come si voltarono, una voce piombò su di loro come una pietra dalla cima
 della scala di pietra, una voce che avrebbe potuto uscire da una [[motifs/grave|fossa]]
-aperta. Era roca e innaturale, come le voci degli uomini rimasti soli con
+aperta. Era roca e innaturale, come le voci degli uomini rimasti [[Alone|soli]] con
 [[motifs/birds|uccelli]] selvatici su isole [[motifs/desert|deserte]]. Era la voce del marchese di Marne,
 e disse: «Fermatevi!»
 
@@ -10398,7 +10398,7 @@ Anche in quell'antica occasione, Hugo Romaine stava aspettando qualcosa.»
 «Siete pazzo?» incalzò l'altro. «O perché dovreste credermi cieco?»
 
 «Perché foste accecato... affinché non vedeste», disse il prete. «Perché siete
-un uomo buono e Dio ebbe [[concepts/mercy|misericordia]] della vostra innocenza, e distolse il
+un uomo buono e Dio ebbe [[concepts/mercy|misericordia]] della vostra [[innocence|innocenza]], e distolse il
 vostro volto da quella lotta contro natura. Egli innalzò un muro di sabbia e
 di [[motifs/silence|silenzio]] fra voi e ciò che davvero accadde su quella orribile riva rossa,
 abbandonata agli spiriti furenti di Giuda e di [[characters/cain|Caino]].»
@@ -10467,7 +10467,7 @@ day; or by the lectures you read me about pardon for every sinner. For
 it seems to me that you only pardon the sins that you don't really think
 sinful. You only forgive criminals when they commit what you don't
 regard as crimes, but rather as conventions. So you tolerate a
-conventional duel, just as you tolerate a conventional divorce. You
+conventional duel, just as you tolerate a conventional [[divorce]]. You
 forgive because there isn't anything to be forgiven."
 
 "But, hang it all," cried Mallow, "you don't expect us to be able to
@@ -10479,7 +10479,7 @@ He stood up abruptly and looked round at them.
 
 '"We have to touch such men, not with a bargepole, but with a
 benediction," he said. "We have to say the word that will save them from
-hell. We alone are left to deliver them from [[concepts/despair|despair]] when your human
+hell. We [[Alone|alone]] are left to deliver them from [[concepts/despair|despair]] when your human
 [[concepts/charity|charity]] deserts them. Go on your own primrose path pardoning all your
 favourite vices and being generous to your fashionable crimes; and leave
 us in the darkness, vampires of the [[motifs/night|night]], to console those who really
@@ -10525,7 +10525,7 @@ if you think what it would really be like to be a revolutionary poet.
 Now I set myself conscientiously down to be a revolutionary poet. I mean
 that particular sort of pessimistic anarchial [[archetypes/lover|lover]] of revolt, not as
 [[concepts/reform|reform]], but rather as destruction. I tried to clear my mind of such
-elements of sanity and constructive common sense as I have had the luck
+elements of [[Sanity|sanity]] and constructive common sense as I have had the luck
 to learn or inherit. I shut down and darkened all the skylights through
 which comes the good daylight out of heaven; I imagined a mind lit only
 by a red light from below; a [[motifs/fire|fire]] rending rocks and cleaving abysses
@@ -10533,15 +10533,15 @@ upwards. And even with the vision at its wildest and worst, I could not
 see why such a visionary should cut short his own career by colliding
 with a common policeman, for killing one out of a million conventional
 old fools, as he would have called them. He wouldn't do it; however much
-he wrote songs of violence. He wouldn't do it, because he wrote songs of
-violence. A man who can express himself in song need not express himself
+he wrote [[songs]] of violence. He wouldn't do it, because he wrote [[songs]] of
+violence. A man who can express himself in [[Song|song]] need not express himself
 in [[concepts/suicide|suicide]]. A poem was an event to him; and he would want to have more
 of them. Then I thought of another sort of heathen; the sort that is not
 destroying the world but entirely depending on the world. I thought
 that, save for the grace of God, I might have been a man for whom the
 world was a blaze of electric lights, with nothing but utter darkness
 beyond and around it. The worldly man, who really lives only for this
-world and believes in no other, whose worldly success and pleasure are
+world and believes in no other, whose worldly [[success]] and pleasure are
 all he can ever snatch out of nothingness--that is the man who will
 really do anything, when he is in danger of losing the whole world and
 saving nothing. It is not the revolutionary man but the respectable man
@@ -10549,7 +10549,7 @@ who would commit any crime--to save his respectability. Think what
 exposure would mean to a man like that fashionable barrister; and
 exposure of the one crime still really hated by his fashionable world--
 treason against patriotism. If I had been in his position, and had
-nothing better than his philosophy, heaven alone knows what I might have
+nothing better than his [[philosophy]], heaven [[Alone|alone]] knows what I might have
 done. That is just where this little religious exercise is so
 wholesome."
 
@@ -10574,7 +10574,7 @@ Il resto della compagnia si era alzato e fissava il narratore con volti pallidi.
 
 «C'è un limite alla [[concepts/charity|carità]] umana» disse Lady Outram, tremando in ogni fibra.
 
-«C'è» disse [[characters/father-brown|padre Brown]] seccamente; «ed è proprio questa la vera differenza fra la [[concepts/charity|carità]] umana e la [[concepts/charity|carità]] cristiana. Dovrete perdonarmi se non sono rimasto del tutto schiacciato dal vostro disprezzo per la mia scarsa carità di oggi; o dalle prediche che mi avete fatto sul perdono dovuto a ogni peccatore. Perché mi pare che voi perdoniate soltanto i peccati che in fondo non ritenete peccaminosi. Perdonate i criminali soltanto quando commettono ciò che non considerate delitti, ma piuttosto convenzioni. Così tollerate un duello convenzionale, esattamente come tollerate un divorzio convenzionale. Perdonate perché non c'è nulla da perdonare.»
+«C'è» disse [[characters/father-brown|padre Brown]] seccamente; «ed è proprio questa la vera differenza fra la [[concepts/charity|carità]] umana e la [[concepts/charity|carità]] cristiana. Dovrete perdonarmi se non sono rimasto del tutto schiacciato dal vostro disprezzo per la mia scarsa carità di oggi; o dalle prediche che mi avete fatto sul perdono dovuto a ogni peccatore. Perché mi pare che voi perdoniate soltanto i peccati che in fondo non ritenete peccaminosi. Perdonate i criminali soltanto quando commettono ciò che non considerate delitti, ma piuttosto convenzioni. Così tollerate un duello convenzionale, esattamente come tollerate un [[divorce|divorzio]] convenzionale. Perdonate perché non c'è nulla da perdonare.»
 
 «Ma, al diavolo» gridò Mallow «non pretenderete mica che noi si sia in grado di perdonare una cosa tanto vile?»
 
@@ -10582,7 +10582,7 @@ Il resto della compagnia si era alzato e fissava il narratore con volti pallidi.
 
 Si alzò di scatto e volse lo sguardo sui presenti.
 
-«Uomini simili dobbiamo toccarli non con la punta di un remo, ma con una benedizione» disse. «Dobbiamo pronunciare la parola che li salverà dall'inferno. Noi soli restiamo a liberarli dalla [[concepts/despair|disperazione]] quando la vostra [[concepts/charity|carità]] umana li abbandona. Andate pure per il vostro sentiero fiorito, perdonando tutti i vostri vizi prediletti e mostrandovi generosi con i vostri delitti alla moda; e lasciateci nelle tenebre, vampiri della [[motifs/night|notte]], a consolare coloro che davvero hanno bisogno di consolazione; coloro che compiono cose davvero indifendibili, cose che né il mondo né essi stessi possono difendere; e che nessuno, tranne un prete, perdonerà. Lasciateci con gli uomini che commettono i delitti meschini, ripugnanti e reali; meschini come san Pietro quando il gallo cantò, eppure venne l'[[motifs/dawn|alba]].»
+«Uomini simili dobbiamo toccarli non con la punta di un remo, ma con una benedizione» disse. «Dobbiamo pronunciare la parola che li salverà dall'inferno. Noi [[Alone|soli]] restiamo a liberarli dalla [[concepts/despair|disperazione]] quando la vostra [[concepts/charity|carità]] umana li abbandona. Andate pure per il vostro sentiero fiorito, perdonando tutti i vostri vizi prediletti e mostrandovi generosi con i vostri delitti alla moda; e lasciateci nelle tenebre, vampiri della [[motifs/night|notte]], a consolare coloro che davvero hanno bisogno di consolazione; coloro che compiono cose davvero indifendibili, cose che né il mondo né essi stessi possono difendere; e che nessuno, tranne un prete, perdonerà. Lasciateci con gli uomini che commettono i delitti meschini, ripugnanti e reali; meschini come san Pietro quando il gallo cantò, eppure venne l'[[motifs/dawn|alba]].»
 
 «L'[[motifs/dawn|alba]]» ripeté Mallow dubbioso. «Volete dire la [[concepts/hope|speranza]]... per lui?»
 
@@ -10594,7 +10594,7 @@ IL SEGRETO DI [[characters/flambeau|FLAMBEAU]]
 
 «È vero» riprese, dopo una breve pausa «che qualcun altro aveva recitato la parte dell'assassino prima di me, defraudandomi dell'esperienza vera e propria. Ero una sorta di sostituto; sempre pronto a interpretare l'assassino. Almeno, mi facevo un dovere di conoscere la parte a fondo. Voglio dire che, quando cercavo di immaginare lo stato d'animo in cui una cosa simile sarebbe stata compiuta, mi accorgevo sempre che avrei potuto compierla io stesso a certe condizioni mentali, ma non ad altre; e in genere non a quelle più ovvie. E allora, naturalmente, sapevo chi l'avesse davvero commessa; e in genere non era la persona più ovvia.
 
-«Per esempio, sembrava ovvio dire che il poeta rivoluzionario avesse ucciso il vecchio giudice che vedeva rosso davanti ai rivoluzionari rossi. Ma questa non è affatto una ragione perché il poeta rivoluzionario lo uccidesse. Non lo è, se si pensa a che cosa significherebbe davvero essere un poeta rivoluzionario. Ora, mi misi coscienziosamente a essere un poeta rivoluzionario. Intendo quel particolare tipo di [[archetypes/lover|amante]] pessimista e anarchico della rivolta, non come [[concepts/reform|riforma]], ma piuttosto come distruzione. Cercai di sgombrare la mia mente da quegli elementi di equilibrio e di buon senso costruttivo che ho avuto la fortuna di apprendere o di ereditare. Chiusi e oscurai tutti i lucernari attraverso cui scende la buona luce del giorno dal cielo; immaginai una mente illuminata soltanto da una luce rossa che sale dal basso; un [[motifs/fire|fuoco]] che squarcia le rocce e apre abissi verso l'alto. E persino con la visione al suo culmine più selvaggio e più tetro, non riuscivo a capire perché un simile visionario dovesse troncare la propria carriera scontrandosi con un comune poliziotto, per aver ucciso uno su un milione di vecchi sciocchi convenzionali, come li avrebbe chiamati. Non lo farebbe; per quante canzoni di violenza scrivesse. Non lo farebbe, proprio perché scriverebbe canzoni di violenza. Un uomo che sa esprimersi in un canto non ha bisogno di esprimersi nel [[concepts/suicide|suicidio]]. Una poesia era per lui un avvenimento; e ne avrebbe volute avere altre. Poi pensai a un altro genere di pagano; quello che non distrugge il mondo, ma dipende interamente dal mondo. Pensai che, se non fosse stato per la grazia di Dio, avrei potuto essere un uomo per il quale il mondo era un incendio di luci elettriche, con nient'altro che tenebra assoluta al di là e tutt'intorno. L'uomo mondano, che vive davvero soltanto per questo mondo e non crede in nessun altro, il cui successo e i cui piaceri mondani sono tutto ciò che potrà mai strappare al nulla... ecco l'uomo che sarà davvero capace di qualunque cosa, quando è in pericolo di perdere il mondo intero senza salvare nulla. Non è l'uomo rivoluzionario, ma l'uomo rispettabile, colui che commetterebbe qualsiasi delitto... per salvare la propria rispettabilità. Pensate a che cosa significherebbe la rovina per un uomo come quel brillante avvocato di grido; e la rovina per l'unico delitto ancora davvero odiato dal suo mondo alla moda... il tradimento della patria. Se io fossi stato nella sua posizione, e non avessi avuto nulla di meglio della sua filosofia, il cielo solo sa che cosa avrei potuto fare. È proprio qui che questo piccolo esercizio religioso torna tanto salutare.»
+«Per esempio, sembrava ovvio dire che il poeta rivoluzionario avesse ucciso il vecchio giudice che vedeva rosso davanti ai rivoluzionari rossi. Ma questa non è affatto una ragione perché il poeta rivoluzionario lo uccidesse. Non lo è, se si pensa a che cosa significherebbe davvero essere un poeta rivoluzionario. Ora, mi misi coscienziosamente a essere un poeta rivoluzionario. Intendo quel particolare tipo di [[archetypes/lover|amante]] pessimista e anarchico della rivolta, non come [[concepts/reform|riforma]], ma piuttosto come distruzione. Cercai di sgombrare la mia mente da quegli elementi di [[Sanity|equilibrio]] e di buon senso costruttivo che ho avuto la fortuna di apprendere o di ereditare. Chiusi e oscurai tutti i lucernari attraverso cui scende la buona luce del giorno dal cielo; immaginai una mente illuminata soltanto da una luce rossa che sale dal basso; un [[motifs/fire|fuoco]] che squarcia le rocce e apre abissi verso l'alto. E persino con la visione al suo culmine più selvaggio e più tetro, non riuscivo a capire perché un simile visionario dovesse troncare la propria carriera scontrandosi con un comune poliziotto, per aver ucciso uno su un milione di vecchi sciocchi convenzionali, come li avrebbe chiamati. Non lo farebbe; per quante [[songs|canzoni]] di violenza scrivesse. Non lo farebbe, proprio perché scriverebbe [[songs|canzoni]] di violenza. Un uomo che sa esprimersi in un [[Song|canto]] non ha bisogno di esprimersi nel [[concepts/suicide|suicidio]]. Una poesia era per lui un avvenimento; e ne avrebbe volute avere altre. Poi pensai a un altro genere di pagano; quello che non distrugge il mondo, ma dipende interamente dal mondo. Pensai che, se non fosse stato per la grazia di Dio, avrei potuto essere un uomo per il quale il mondo era un incendio di luci elettriche, con nient'altro che tenebra assoluta al di là e tutt'intorno. L'uomo mondano, che vive davvero soltanto per questo mondo e non crede in nessun altro, il cui [[success|successo]] e i cui piaceri mondani sono tutto ciò che potrà mai strappare al nulla... ecco l'uomo che sarà davvero capace di qualunque cosa, quando è in pericolo di perdere il mondo intero senza salvare nulla. Non è l'uomo rivoluzionario, ma l'uomo rispettabile, colui che commetterebbe qualsiasi delitto... per salvare la propria rispettabilità. Pensate a che cosa significherebbe la rovina per un uomo come quel brillante avvocato di grido; e la rovina per l'unico delitto ancora davvero odiato dal suo mondo alla moda... il tradimento della patria. Se io fossi stato nella sua posizione, e non avessi avuto nulla di meglio della sua [[philosophy|filosofia]], il cielo [[Alone|solo]] sa che cosa avrei potuto fare. È proprio qui che questo piccolo esercizio religioso torna tanto salutare.»
 
 
 
@@ -10611,7 +10611,7 @@ about how I generally go to work. Some of your countrymen have
 apparently done me the [[concepts/honour|honour]] to ask how I managed to frustrate a few
 miscarriages of justice. [[motifs/well|Well]], you can go back and tell them that I do
 it by morbidity. But I most certainly don't want them to think I do it
-by magic."
+by [[Magic|magic]]."
 
 Chace continued to look at him with a reflective frown; he was too
 intelligent not to understand the idea; he would also have said that he
@@ -10621,11 +10621,11 @@ about that very small figure, perched like a goblin beside the goblin
 stove; and the sense that its round head had held such a universe of
 wild unreason and imaginative injustice. It was as if the vast void of
 dark behind it were a throng of dark gigantic figures, the [[motifs/ghosts|ghosts]] of
-great criminals held at bay by the magic circle of the red stove, but
+great criminals held at bay by the [[Magic|magic]] circle of the red stove, but
 ready to tear their master in pieces.
 
 "[[motifs/well|Well]], I'm afraid I do think it's morbid," he said frankly. "And I'm not
-sure it isn't almost as morbid as magic. But morbidity or no, there's
+sure it isn't almost as morbid as [[Magic|magic]]. But morbidity or no, there's
 one thing to be said; it must be an interesting experience." Then he
 added, after reflection: "I don't know whether you would make a really
 good criminal. But you ought to make a rattling good novelist."
@@ -10678,7 +10678,7 @@ your mind like the camera focus â¦ the thing shapes and then sharpens ...
 and then, suddenly, it comes!"
 
 He spoke like a man who had once captured a divine vision. Grandison
-Chace was still looking at him with a frown of mingled mystification and
+Chace was still looking at him with a frown of mingled [[Mystification|mystification]] and
 interest. It must be confessed that there did flash once beneath his
 heavy frown a look of something almost like alarm. It was as if the
 shock of the first strange confession of the priest still thrilled
@@ -10723,7 +10723,7 @@ su come proceda di solito. Alcuni dei vostri compatrioti mi hanno
 a quanto pare fatto l'[[concepts/honour|onore]] di chiedermi come sia riuscito a sventare qualche
 errore giudiziario. [[motifs/well|Ebbene]], potrete tornare a riferir loro che lo faccio
 per morbosità. Ma non voglio proprio che pensino che lo faccia
-per magia».
+per [[Magic|magia]]».
 
 Chace continuava a guardarlo con un cipiglio meditabondo; era troppo
 intelligente per non afferrare l'idea; e insieme avrebbe detto di
@@ -10733,11 +10733,11 @@ in quella figura minuscola, appollaiata come un folletto accanto alla stufa che 
 e nel pensiero che quella testa rotonda avesse racchiuso tutto un universo di
 sragionamenti selvaggi e di ingiustizie immaginate. Era come se il vasto vuoto di
 tenebra dietro di lui fosse una calca di oscure figure gigantesche, i [[motifs/ghosts|fantasmi]] di
-grandi criminali tenuti a bada dal cerchio magico della stufa rossa, ma
+grandi criminali tenuti a bada dal cerchio [[Magic|magico]] della stufa rossa, ma
 pronti a fare a pezzi il loro padrone.
 
 «[[motifs/well|Ebbene]], temo di trovarlo davvero morboso», disse con franchezza. «E non sono
-sicuro che non sia quasi altrettanto morboso della magia. Ma morbosità o no, una
+sicuro che non sia quasi altrettanto morboso della [[Magic|magia]]. Ma morbosità o no, una
 cosa va detta: dev'essere un'esperienza interessante». Poi
 aggiunse, dopo aver riflettuto: «Non so se sareste un vero
 buon criminale. Ma dovreste riuscire un romanziere coi fiocchi».
@@ -10790,7 +10790,7 @@ la vostra mente come la messa a fuoco della macchina fotografica… la cosa pren
 e poi, d'un tratto, ecco che viene!»
 
 Parlava come un uomo che avesse un tempo colto una visione divina. Grandison
-Chace lo guardava ancora con un cipiglio in cui si mescolavano smarrimento e
+Chace lo guardava ancora con un cipiglio in cui si mescolavano [[Mystification|smarrimento]] e
 interesse. Bisogna confessare che sotto quel pesante cipiglio balenò una
 volta uno sguardo di qualcosa di quasi simile all'allarme. Era come se lo
 scoltimento della prima strana confessione del prete lo attraversasse ancora
@@ -10833,7 +10833,7 @@ dropping words like molten lead.
 "You may think a crime horrible because you could never commit it. I
 think it horrible because I could commit it. You think of it as
 something like an eruption of Vesuvius; but that would not really be so
-terrible as this house catching [[motifs/fire|fire]]. If a criminal suddenly appeared in
+terrible as this [[house]] catching [[motifs/fire|fire]]. If a criminal suddenly appeared in
 this room----"
 
 "If a criminal appeared in this room," said Chace, smiling, "I think you
@@ -10844,11 +10844,11 @@ or cut his mother's throat. Frankly, I don't think it's practical. I
 think that the practical effect would be that no criminal would ever
 [[concepts/reform|reform]]. It's easy enough to theorize and take hypothetical cases; but we
 all know we're only talking in the air. Sitting here in M. Duroc's nice,
-comfortable house, conscious of our respectability and all the rest of
+comfortable [[house]], conscious of our respectability and all the rest of
 it, it just gives us a theatrical thrill to talk about thieves and
 murderers and the mysteries of their souls. But the people who really
 have to deal with thieves and murderers have to deal with them
-differently. We are safe by the fireside; and we know the house is not
+differently. We are safe by the fireside; and we know the [[house]] is not
 on [[motifs/fire|fire]]. We know there is not a criminal in the room."
 
 The M. Duroc to whom allusion had been made [[motifs/rose|rose]] slowly from what had
@@ -10882,7 +10882,7 @@ to hand me over to the police."
 
 There was an instant of profound stillness, in which could be faintly
 heard the belated laughter of [[characters/flambeau|Flambeau]]'s children in the high, dark
-house above them, and the crunching and snorting of the great, grey pigs
+[[house]] above them, and the crunching and snorting of the great, grey pigs
 in the twilight. And then it was cloven by a high voice, vibrant and
 with a touch of offence, almost surprising for those who do not
 understand the sensitive American spirit, and how near, in spite of
@@ -10912,7 +10912,7 @@ cadere le parole al pari di piombo fuso.
 «Voi forse giudicate orribile un delitto perché non potreste mai commetterlo.
 Io lo giudico orribile perché potrei commetterlo. Voi lo immaginate come una
 sorta di eruzione del Vesuvio; ma questo non sarebbe davvero così terribile come
-questa casa che prende [[motifs/fire|fuoco]]. Se un criminale comparisse
+questa [[house|casa]] che prende [[motifs/fire|fuoco]]. Se un criminale comparisse
 d'improvviso in questa stanza...»
 
 «Se un criminale comparisse in questa stanza», disse Chace sorridendo, «credo
@@ -10922,11 +10922,11 @@ naturale che avesse frugato nelle tasche del padre o tagliato la gola alla
 madre. Francamente, non lo trovo pratico. Penso che l'effetto pratico sarebbe
 che nessun criminale si [[concepts/reform|correggerebbe]] mai. È facile teorizzare e
 prendere casi ipotetici; ma tutti sappiamo che stiamo soltanto parlando in aria.
-Seduti qui, nella bella e comoda casa di monsieur Duroc, consapevoli
+Seduti qui, nella bella e comoda [[house|casa]] di monsieur Duroc, consapevoli
 della nostra rispettabilità e di tutto il resto, ci dà solo un brivido teatrale
 discorrere di ladri e assassini e dei misteri delle loro anime. Ma chi ha
 davvero a che fare con ladri e assassini deve trattarli in tutt'altro modo. Noi
-siamo al sicuro accanto al focolare; e sappiamo che la casa non è in
+siamo al sicuro accanto al focolare; e sappiamo che la [[house|casa]] non è in
 [[motifs/fire|fiamme]]. Sappiamo che non c'è alcun criminale nella stanza.»
 
 Il monsieur Duroc cui si era alluso si [[motifs/rose|alzò]] lentamente da quello che era
@@ -10960,7 +10960,7 @@ lasciò finalmente sfuggire un lungo respiro simile a un fischio.
 consegnarmi alla polizia.»
 
 Ci fu un istante di profondo silenzio, in cui si udì fioca la risata attardata
-dei figli di [[characters/flambeau|Flambeau]] nell'alta e oscura casa sopra di loro, e il
+dei figli di [[characters/flambeau|Flambeau]] nell'alta e oscura [[house|casa]] sopra di loro, e il
 grufolare e sbuffare dei grandi maiali grigi nella penombra. E poi fu squarciato
 da una voce acuta, vibrante e con una punta di risentimento, quasi sorprendente
 per chi non comprende il sensibile spirito americano, e quanto esso possa a

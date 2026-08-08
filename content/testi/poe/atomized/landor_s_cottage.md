@@ -13,11 +13,11 @@ tags:
 
 <span class="atom-split" data-atom="landor_s_cottage" data-title="Landor's Cottage" data-chapter="" data-kind="intro"></span>
 
-# [[works/landor's-cottage-(poe)|Landor's Cottage]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 
-Un complemento a “Il dominio di Arnheim”
+Un complemento a “[[The Domain of Arnheim|Il dominio di Arnheim]]”
 
 Durante un viaggio a piedi lo scorso [[motifs/summer|estate]], attraverso una o due delle contee lungo il [[motifs/river|fiume]] nello [[settings/new-york|New York]], verso sera mi trovai in una situazione piuttosto imbarazzante riguardo al percorso che stavo seguendo. Il terreno presentava notevoli ondulazioni; nel corso dell’ultima ora il mio cammino si era snodato in modo così confuso, cercando sempre di rimanere nelle valli, che non riuscivo più a capire in quale direzione si trovasse il delizioso villaggio di B—, dove avevo deciso di fermarmi per la [[motifs/night|notte]]. Il sole, per così dire, quasi non era sorto durante la giornata, che tuttavia era stata piuttosto calda. Una nebbia fumosa, simile a quella tipica dell’estate indiana, avvolgeva tutto intorno, aumentando ulteriormente la mia incertezza. Ma in realtà non mi importava molto. Se non fossi riuscito a raggiungere il villaggio prima del tramonto, o addirittura prima che facesse buio, era più che probabile che apparisse qualche piccola fattoria o qualcosa del genere; anche se, in realtà, quella zona (forse perché più pittoresca che fertile) era molto scarsamente popolata. Comunque fosse, con il mio zaino come cuscino e il mio cane come “sentinella”, un bivacco all’aperto sarebbe stato proprio ciò che mi avrebbe divertito. Proseguii quindi tranquillamente, con Ponto che si occupava della mia pistola, finché, proprio quando iniziai a chiedermi se quei numerosi sentieri che si snodavano in ogni direzione fossero davvero percorsi utilizzabili, uno di essi mi condusse su una vera e propria strada carrozzabile. Non c’era alcun dubbio: le tracce lasciate dalle ruote erano evidenti; anche se gli alberi alti e la vegetazione rigogliosa coprivano il cielo, a livello del terreno non c’erano ostacoli di sorta, nemmeno per il passaggio di un carro da montagna virginiano. Il percorso, però, a parte il fatto che era aperto tra gli alberi – se si può definire “foresta” un insieme di alberi così leggeri e radi – e a parte le evidenti tracce lasciate dalle ruote, non assomigliava affatto a nessun altro percorso che avessi mai visto prima. Le orme erano appena visibili; sembravano essere state lasciate su una superficie morbida e umida. Erba, chiaramente, ma una erba come quella che raramente vediamo al di fuori dell’Inghilterra: così corta, così fitta, così uniforme e di un colore così vivido. Non c’era alcun ostacolo lungo il percorso. Nemmeno un rametto o un sassolino. I sassi che un tempo ostruivano la strada erano stati attentamente disposti lungo i bordi del sentiero, in modo da delimitarne i confini in modo piuttosto preciso, ma al contempo disinvolto e decisamente pittoresco. Dappertutto crescevano gruppi di fiori selvatici.
 In modo rigoglioso, negli spazi intermedi.
@@ -53,19 +53,19 @@ Ho descritto questo ruscello come serpeggiare in modo molto irregolare lungo tut
 
 In realtà, nulla poteva essere più semplice – più assolutamente senza pretese – di questa casetta. Il suo effetto meraviglioso derivava interamente dall’organizzazione artistica con cui era stata disposta, come se fosse un dipinto. Guardandola, avrei potuto immaginare che qualche famoso pittore di paesaggi l’avesse costruita con il suo pennello.
 
-Il punto di vista da cui vidi per la prima volta la valle non era esattamente, anche se quasi, il migliore per ammirare la casa. Pertanto la descriverò come la vidi in seguito: da una posizione sul muro di pietra all’estremità meridionale dell’anfiteatro.
+Il punto di vista da cui vidi per la prima volta la valle non era esattamente, anche se quasi, il migliore per ammirare la [[house|casa]]. Pertanto la descriverò come la vidi in seguito: da una posizione sul muro di pietra all’estremità meridionale dell’anfiteatro.
 
 L’edificio principale aveva una lunghezza di circa ventiquattro piedi e una larghezza di sedici piedi; di certo non superava questi limiti. L’altezza totale, dal suolo fino alla sommità del tetto, non poteva superare gli diciotto piedi. All’estremità ovest di questa struttura si trovava un edificio circa un terzo più piccolo in tutte le sue proporzioni: il suo fronte era distanziato di circa due metri da quello dell’edificio principale, e il tetto, naturalmente, era molto più basso rispetto a quello adiacente. A angolo retto rispetto a questi edifici, e partendo dalla parte posteriore del principale – ma non esattamente al centro – si estendeva un terzo annesso, molto piccolo; in generale, le sue dimensioni erano un terzo inferiori a quelle dell’ala ovest. I tetti dei due edifici principali erano molto ripidi, con una curva concava che si estendeva per almeno quattro piedi oltre i muri anteriori, formando così i tetti di due piccole piazze. Questi ultimi tetti, naturalmente, non avevano bisogno di alcun sostegno; tuttavia, poiché sembravano richiederlo, ai angoli erano stati inseriti pilastri sottili e completamente semplici. Il tetto dell’ala nord era semplicemente un’estensione di una parte del tetto principale. Tra l’edificio principale e l’ala ovest si ergeva un camino quadrato, molto alto e piuttosto snello, costruito con mattoni olandesi neri e rossi; in cima c’era una lieve cornice di mattoni sporgenti. Anche i tetti delle ali laterali si estendevano notevolmente: nell’edificio principale circa quattro piedi a est e due a ovest. La porta principale non si trovava esattamente nel centro dell’edificio, ma un po’ più a est; le due finestre, invece, erano situate a ovest. Queste ultime non arrivavano fino al pavimento, ma erano molto più lunghe e strette del solito; avevano persiane singole come porte, i vetri erano di forma romboidale e piuttosto grandi. La parte superiore della porta era fatta interamente di vetro, anch’esso in lastre romboidali; una persiana mobile la chiudeva di notte. La porta dell’ala ovest si trovava nella parte superiore del tetto, ed era molto semplice; una sola finestra si affacciava a sud. L’ala nord non aveva alcuna porta esterna e aveva soltanto una finestra a est.
 
 Il muro vuoto del gable orientale era interrotto da delle scale (con una ringhiera) che lo attraversavano diagonalmente; l’accesso avveniva dal lato sud. Nascoste sotto il tetto sporgente, queste scale conducevano a una porta che portava al solaio, o meglio, a un locale seminterrato: era illuminato soltanto da una singola [[motifs/window|finestra]] situata a nord, e sembrava essere stato progettato come ripostiglio.
 
-Le piazze del corpo principale e dell’ala ovest non avevano pavimenti, come è consueto; ma alle porte e davanti a ogni [[motifs/window|finestra]], grandi lastre piatte e irregolari di granito erano incastonate nel soffice tappeto erboso, offrendo un terreno confortevole in qualsiasi condizione meteorologica. Ottimi sentieri dello stesso materiale – non particolarmente ben realizzati, ma con il tappeto erboso che riempiva gli spazi tra le pietre – conducevano da una parte all’altra della casa, fino a una sorgente cristallina situata a circa cinque passi di distanza, fino alla [[motifs/road|strada]], o verso una o due dépendances situate a nord, al di là del ruscello, e completamente nascoste da alcuni alberi di locusta e catalpa.
+Le piazze del corpo principale e dell’ala ovest non avevano pavimenti, come è consueto; ma alle porte e davanti a ogni [[motifs/window|finestra]], grandi lastre piatte e irregolari di granito erano incastonate nel soffice tappeto erboso, offrendo un terreno confortevole in qualsiasi condizione meteorologica. Ottimi sentieri dello stesso materiale – non particolarmente ben realizzati, ma con il tappeto erboso che riempiva gli spazi tra le pietre – conducevano da una parte all’altra della [[house|casa]], fino a una sorgente cristallina situata a circa cinque passi di distanza, fino alla [[motifs/road|strada]], o verso una o due dépendances situate a nord, al di là del ruscello, e completamente nascoste da alcuni alberi di locusta e catalpa.
 
 A non più di sei passi dalla porta principale della capanna si trovava il tronco morto di un fantastico pero, completamente ricoperto di splendidi fiori di bignonia; bastava un’occhiata attenta per capire che tipo di “cosa dolce” potesse trattarsi. Dalle varie braccia di questo albero pendevano gabbie di diverso tipo: in una, un grande cilindro di vimini con un anello in cima ospitava un uccellino beffardo; in un’altra, un’allodola; in una terza, il sfrontato pettirosso. Mentre altre tre o quattro gabbie più delicate erano piene di canarini che cantavano a squarciagola.
 
 I pilastri della piazza erano avvolti di gelsomino e dolce glicine; mentre dall’angolo formato dalla struttura principale e dal suo aliato occidentale cresceva un vitigno di una rigogliosità senza pari. Disprezzando ogni restrizione, aveva prima inerpicato sul tetto inferiore, poi su quello superiore; lungo il bordo di quest’ultimo continuava a serpeggiare, protendendo i suoi viticci a destra e a sinistra, fino a raggiungere finalmente l’angolo orientale del tetto, dove si estendeva giù per le scale.
 
-L'intera casa, con le sue ali, era costruita con quelle vecchie tegole olandesi: larghe e senza angoli arrotondati. Una caratteristica di questo materiale è che rende le case costruite con esso più larghe alla base che in cima, proprio come nella architettura egizia; in questo caso, quest’effetto estremamente pittoresco veniva ulteriormente accentuato da numerose piante di bellissime [[motifs/flowers|fioriture]] che quasi circondavano tutta la base degli edifici.
+L'intera [[house|casa]], con le sue ali, era costruita con quelle vecchie tegole olandesi: larghe e senza angoli arrotondati. Una caratteristica di questo materiale è che rende le case costruite con esso più larghe alla base che in cima, proprio come nella architettura egizia; in questo caso, quest’effetto estremamente pittoresco veniva ulteriormente accentuato da numerose piante di bellissime [[motifs/flowers|fioriture]] che quasi circondavano tutta la base degli edifici.
 
 Le tegole erano dipinte di un grigio opaco; e la felicità con cui questo colore neutro si fondeva con il verde vivido delle foglie dell'albero di tulipani che in parte ombreggiavano la capanna, può essere facilmente immaginata da un [[archetypes/artist|artista]].
 
@@ -77,9 +77,9 @@ La [[motifs/road|strada]], dopo aver superato il cancello, sembrava estendersi s
 
 Mentre svoltavo l'angolo del tetto a spiovente, il mastino si precipitò verso di me in un silenzio assoluto, ma con lo sguardo e l’atteggiamento tipici di un tigre. Tuttavia, gli tesi la mano in segno di amicizia. E fino ad allora non avevo mai incontrato un cane che fosse insensibile a un simile appello alla sua cortesia. Non solo chiuse la bocca e scodinzolò, ma mi offrì addirittura la zampa; in seguito estese le sue “cortesie” anche a Ponto.
 
-Non essendo possibile distinguere alcun campanello, bussai alla porta, che era semiaperta. All’istante, una figura si avvicinò alla soglia: si trattava di una giovane donna di circa ventotto anni, snella, piuttosto esile e di statura leggermente superiore alla media. Mentre si avvicinava, il modo in cui camminava era estremamente dignitoso e riservato. Indisscrivibile. Pensai tra me: “Senza dubbio ho trovato qui la perfezione della grazia naturale, a differenza di quella artificiale.” L’impressione che mi fece fu, tuttavia, molto più vivida. Si trattava di un’emozione intensa, di un entusiasmo palpabile. Quell’espressione così profonda e sincera nel suo sguardo non aveva mai toccato il mio cuore in quel modo prima d’allora. Non so come sia possibile, ma quell’atteggiamento particolare negli occhi, quando a volte si riflette anche sulle labbra, è davvero l’unico elemento capace di catturare completamente la mia attenzione verso una donna. “Romantismo”, intendo dire, se i miei lettori comprendono appieno ciò che intendo con questa parola, “romantismo” e “donna” mi sembrano termini intercambiabili: dopotutto, ciò che un uomo ama davvero in una donna è semplicemente la sua essenza femminile. Gli occhi di Annie, (qualcuno all’interno l’aveva chiamata “Annie, cara!”) erano di un grigio “spirituale”; i suoi capelli erano di un castano chiaro. Questo è tutto ciò che ebbi il tempo di osservare di lei.
+Non essendo possibile distinguere alcun campanello, bussai alla porta, che era semiaperta. All’istante, una figura si avvicinò alla soglia: si trattava di una giovane donna di circa ventotto anni, snella, piuttosto esile e di statura leggermente superiore alla media. Mentre si avvicinava, il modo in cui camminava era estremamente dignitoso e riservato. Indisscrivibile. Pensai tra me: “Senza dubbio ho trovato qui la perfezione della grazia naturale, a differenza di quella artificiale.” L’impressione che mi fece fu, tuttavia, molto più vivida. Si trattava di un’emozione intensa, di un entusiasmo palpabile. Quell’espressione così profonda e sincera nel suo sguardo non aveva mai toccato il mio cuore in quel modo prima d’allora. Non so come sia possibile, ma quell’atteggiamento particolare negli occhi, quando a volte si riflette anche sulle labbra, è davvero l’unico elemento capace di catturare completamente la mia attenzione verso una donna. “[[Romance|Romantismo]]”, intendo dire, se i miei lettori comprendono appieno ciò che intendo con questa parola, “[[Romance|romantismo]]” e “donna” mi sembrano termini intercambiabili: dopotutto, ciò che un uomo ama davvero in una donna è semplicemente la sua essenza femminile. Gli occhi di Annie, (qualcuno all’interno l’aveva chiamata “Annie, cara!”) erano di un grigio “spirituale”; i suoi capelli erano di un castano chiaro. Questo è tutto ciò che ebbi il tempo di osservare di lei.
 
-Con la massima cortesia che si possa dimostrare in un invito del genere, entrai, passando prima in un vestibolo abbastanza ampio. Essendo venuto principalmente per osservare, notai che a destra, non appena entrai, c'era una [[motifs/window|finestra]], simile a quelle presenti davanti alla casa; a sinistra, una porta che conduceva nella stanza principale; mentre di fronte a me, una porta aperta mi permise di vedere un piccolo appartamento, delle stesse dimensioni del vestibolo, arredato come uno studio e dotato di una grande [[motifs/window|finestra]] che si affacciava a nord.
+Con la massima cortesia che si possa dimostrare in un invito del genere, entrai, passando prima in un vestibolo abbastanza ampio. Essendo venuto principalmente per osservare, notai che a destra, non appena entrai, c'era una [[motifs/window|finestra]], simile a quelle presenti davanti alla [[house|casa]]; a sinistra, una porta che conduceva nella stanza principale; mentre di fronte a me, una porta aperta mi permise di vedere un piccolo appartamento, delle stesse dimensioni del vestibolo, arredato come uno studio e dotato di una grande [[motifs/window|finestra]] che si affacciava a nord.
 
 Entrando nel salotto, mi trovai di fronte al signor Landor – che, come scoprii in seguito, era il suo nome. Era cortese, persino cordiale nel suo comportamento, ma in quel momento ero più interessata ad osservare l’arredamento della casa che mi aveva così colpito, piuttosto che all’aspetto personale del proprietario.
 
@@ -193,13 +193,13 @@ the sun had made its way down behind the gentle hills, and
 thence, as if with a slight chassez to the south, had come again
 fully into sight, glaring with a purplish lustre through a chasm
 that entered the valley from the west. Suddenly, therefore—and as
-if by the hand of magic—this whole valley and every thing in it
+if by the hand of [[Magic|magic]]—this whole valley and every thing in it
 became brilliantly visible.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Un complemento a “Il dominio di Arnheim”
+Un complemento a “[[The Domain of Arnheim|Il dominio di Arnheim]]”
 
 Durante un viaggio a piedi lo scorso [[motifs/summer|estate]], attraverso una o due delle contee lungo il [[motifs/river|fiume]] nello [[settings/new-york|New York]], verso sera mi trovai in una situazione piuttosto imbarazzante riguardo al percorso che stavo seguendo. Il terreno presentava notevoli ondulazioni; nel corso dell’ultima ora il mio cammino si era snodato in modo così confuso, cercando sempre di rimanere nelle valli, che non riuscivo più a capire in quale direzione si trovasse il delizioso villaggio di B—, dove avevo deciso di fermarmi per la [[motifs/night|notte]]. Il sole, per così dire, quasi non era sorto durante la giornata, che tuttavia era stata piuttosto calda. Una nebbia fumosa, simile a quella tipica dell’estate indiana, avvolgeva tutto intorno, aumentando ulteriormente la mia incertezza. Ma in realtà non mi importava molto. Se non fossi riuscito a raggiungere il villaggio prima del tramonto, o addirittura prima che facesse buio, era più che probabile che apparisse qualche piccola fattoria o qualcosa del genere; anche se, in realtà, quella zona (forse perché più pittoresca che fertile) era molto scarsamente popolata. Comunque fosse, con il mio zaino come cuscino e il mio cane come “sentinella”, un bivacco all’aperto sarebbe stato proprio ciò che mi avrebbe divertito. Proseguii quindi tranquillamente, con Ponto che si occupava della mia pistola, finché, proprio quando iniziai a chiedermi se quei numerosi sentieri che si snodavano in ogni direzione fossero davvero percorsi utilizzabili, uno di essi mi condusse su una vera e propria strada carrozzabile. Non c’era alcun dubbio: le tracce lasciate dalle ruote erano evidenti; anche se gli alberi alti e la vegetazione rigogliosa coprivano il cielo, a livello del terreno non c’erano ostacoli di sorta, nemmeno per il passaggio di un carro da montagna virginiano. Il percorso, però, a parte il fatto che era aperto tra gli alberi – se si può definire “foresta” un insieme di alberi così leggeri e radi – e a parte le evidenti tracce lasciate dalle ruote, non assomigliava affatto a nessun altro percorso che avessi mai visto prima. Le orme erano appena visibili; sembravano essere state lasciate su una superficie morbida e umida. Erba, chiaramente, ma una erba come quella che raramente vediamo al di fuori dell’Inghilterra: così corta, così fitta, così uniforme e di un colore così vivido. Non c’era alcun ostacolo lungo il percorso. Nemmeno un rametto o un sassolino. I sassi che un tempo ostruivano la strada erano stati attentamente disposti lungo i bordi del sentiero, in modo da delimitarne i confini in modo piuttosto preciso, ma al contempo disinvolto e decisamente pittoresco. Dappertutto crescevano gruppi di fiori selvatici.
 In modo rigoglioso, negli spazi intermedi.
@@ -268,7 +268,7 @@ less lofty and Salvatorish in character; then he saw the gentler
 elm, succeeded by the sassafras and locust—these again by the
 softer linden, red-bud, catalpa, and maple—these yet again by
 still more graceful and more modest varieties. The whole face of
-the southern declivity was covered with wild shrubbery alone—an
+the southern declivity was covered with wild shrubbery [[Alone|alone]]—an
 occasional silver willow or white poplar excepted. In the [[characters/bottom|bottom]]
 of the valley itself—(for it must be borne in mind that the
 vegetation hitherto mentioned grew only on the cliffs or
@@ -353,7 +353,7 @@ minutest fibres with a fidelity unsurpassed by the most
 exquisitely polished [[motifs/mirror|mirror]]. A small island, fairly laughing with
 [[motifs/flowers|flowers]] in full bloom, and affording little more space than just
 enough for a picturesque little building, seemingly a
-fowl-house—arose from the lake not far from its northern shore—to
+fowl-[[house]]—arose from the lake not far from its northern shore—to
 which it was connected by means of an inconceivably light-looking
 and yet very primitive bridge. It was formed of a single, broad
 and thick plank of the tulip wood. This was forty feet long, and
@@ -411,8 +411,8 @@ said, were first from west to east, and then from north to south.
 At the turn, the stream, sweeping backward, made an almost
 circular loop, so as to form a peninsula which was very nearly an
 island, and which included about the sixteenth of an acre. On
-this peninsula stood a dwelling-house—and when I say that this
-house, like the infernal terrace seen by Vathek, “etait d’une
+this peninsula stood a dwelling-[[house]]—and when I say that this
+[[house]], like the infernal terrace seen by Vathek, “etait d’une
 architecture inconnue dans les annales de la terre,” I mean,
 merely, that its tout ensemble struck me with the keenest sense
 of combined novelty and propriety—in a word, of poetry—(for, than
@@ -448,7 +448,7 @@ landscape-painter had built it with his brush.
 
 The point of view from which I first saw the valley, was not
 altogether, although it was nearly, the best point from which to
-survey the house. I will therefore describe it as I afterwards
+survey the [[house]]. I will therefore describe it as I afterwards
 saw it—from a position on the stone wall at the southern extreme
 of the amphitheatre.
 
@@ -457,7 +457,7 @@ broad—certainly not more. Its total height, from the ground to
 the apex of the roof, could not have exceeded eighteen feet. To
 the west end of this structure was attached one about a third
 smaller in all its proportions:—the line of its front standing
-back about two yards from that of the larger house, and the line
+back about two yards from that of the larger [[house]], and the line
 of its roof, of course, being considerably depressed below that
 of the roof adjoining. At right angles to these buildings, and
 from the rear of the main one—not exactly in the middle—extended
@@ -468,7 +468,7 @@ curve, and extending at least four feet beyond the walls in
 front, so as to form the roofs of two piazzas. These latter
 roofs, of course, needed no support; but as they had the air of
 needing it, slight and perfectly plain pillars were inserted at
-the corners alone. The roof of the northern wing was merely an
+the corners [[Alone|alone]]. The roof of the northern wing was merely an
 extension of a portion of the main roof. Between the chief
 building and western wing arose a very tall and rather slender
 square chimney of hard Dutch bricks, alternately black and red:—a
@@ -499,7 +499,7 @@ irregular slabs of granite lay imbedded in the delicious turf,
 affording comfortable footing in all weather. Excellent paths of
 the same material—not nicely adapted, but with the velvety sod
 filling frequent intervals between the stones, led hither and
-thither from the house, to a crystal [[motifs/spring|spring]] about five paces off,
+thither from the [[house]], to a crystal [[motifs/spring|spring]] about five paces off,
 to the [[motifs/road|road]], or to one or two out-houses that lay to the north,
 beyond the brook, and were thoroughly concealed by a few locusts
 and catalpas.
@@ -523,7 +523,7 @@ it continued to writhe on, throwing out tendrils to the right and
 left, until at length it fairly attained the east gable, and fell
 trailing over the stairs.
 
-The whole house, with its wings, was constructed of the
+The whole [[house]], with its wings, was constructed of the
 old-fashioned Dutch shingles—broad, and with unrounded corners.
 It is a peculiarity of this material to give houses built of it
 the appearance of being wider at [[characters/bottom|bottom]] than at top—after the
@@ -542,7 +542,7 @@ buildings were seen at great advantage—for the southeastern angle
 was thrown forward—so that the eye took in at once the whole of
 the two fronts, with the picturesque eastern gable, and at the
 same [[motifs/time|time]] obtained just a sufficient glimpse of the northern
-wing, with parts of a pretty roof to the [[motifs/spring|spring]]-house, and nearly
+wing, with parts of a pretty roof to the [[motifs/spring|spring]]-[[house]], and nearly
 half of a light bridge that spanned the brook in the near
 vicinity of the main buildings.
 
@@ -551,19 +551,19 @@ vicinity of the main buildings.
 
 In realtà, nulla poteva essere più semplice – più assolutamente senza pretese – di questa casetta. Il suo effetto meraviglioso derivava interamente dall’organizzazione artistica con cui era stata disposta, come se fosse un dipinto. Guardandola, avrei potuto immaginare che qualche famoso pittore di paesaggi l’avesse costruita con il suo pennello.
 
-Il punto di vista da cui vidi per la prima volta la valle non era esattamente, anche se quasi, il migliore per ammirare la casa. Pertanto la descriverò come la vidi in seguito: da una posizione sul muro di pietra all’estremità meridionale dell’anfiteatro.
+Il punto di vista da cui vidi per la prima volta la valle non era esattamente, anche se quasi, il migliore per ammirare la [[house|casa]]. Pertanto la descriverò come la vidi in seguito: da una posizione sul muro di pietra all’estremità meridionale dell’anfiteatro.
 
 L’edificio principale aveva una lunghezza di circa ventiquattro piedi e una larghezza di sedici piedi; di certo non superava questi limiti. L’altezza totale, dal suolo fino alla sommità del tetto, non poteva superare gli diciotto piedi. All’estremità ovest di questa struttura si trovava un edificio circa un terzo più piccolo in tutte le sue proporzioni: il suo fronte era distanziato di circa due metri da quello dell’edificio principale, e il tetto, naturalmente, era molto più basso rispetto a quello adiacente. A angolo retto rispetto a questi edifici, e partendo dalla parte posteriore del principale – ma non esattamente al centro – si estendeva un terzo annesso, molto piccolo; in generale, le sue dimensioni erano un terzo inferiori a quelle dell’ala ovest. I tetti dei due edifici principali erano molto ripidi, con una curva concava che si estendeva per almeno quattro piedi oltre i muri anteriori, formando così i tetti di due piccole piazze. Questi ultimi tetti, naturalmente, non avevano bisogno di alcun sostegno; tuttavia, poiché sembravano richiederlo, ai angoli erano stati inseriti pilastri sottili e completamente semplici. Il tetto dell’ala nord era semplicemente un’estensione di una parte del tetto principale. Tra l’edificio principale e l’ala ovest si ergeva un camino quadrato, molto alto e piuttosto snello, costruito con mattoni olandesi neri e rossi; in cima c’era una lieve cornice di mattoni sporgenti. Anche i tetti delle ali laterali si estendevano notevolmente: nell’edificio principale circa quattro piedi a est e due a ovest. La porta principale non si trovava esattamente nel centro dell’edificio, ma un po’ più a est; le due finestre, invece, erano situate a ovest. Queste ultime non arrivavano fino al pavimento, ma erano molto più lunghe e strette del solito; avevano persiane singole come porte, i vetri erano di forma romboidale e piuttosto grandi. La parte superiore della porta era fatta interamente di vetro, anch’esso in lastre romboidali; una persiana mobile la chiudeva di notte. La porta dell’ala ovest si trovava nella parte superiore del tetto, ed era molto semplice; una sola finestra si affacciava a sud. L’ala nord non aveva alcuna porta esterna e aveva soltanto una finestra a est.
 
 Il muro vuoto del gable orientale era interrotto da delle scale (con una ringhiera) che lo attraversavano diagonalmente; l’accesso avveniva dal lato sud. Nascoste sotto il tetto sporgente, queste scale conducevano a una porta che portava al solaio, o meglio, a un locale seminterrato: era illuminato soltanto da una singola [[motifs/window|finestra]] situata a nord, e sembrava essere stato progettato come ripostiglio.
 
-Le piazze del corpo principale e dell’ala ovest non avevano pavimenti, come è consueto; ma alle porte e davanti a ogni [[motifs/window|finestra]], grandi lastre piatte e irregolari di granito erano incastonate nel soffice tappeto erboso, offrendo un terreno confortevole in qualsiasi condizione meteorologica. Ottimi sentieri dello stesso materiale – non particolarmente ben realizzati, ma con il tappeto erboso che riempiva gli spazi tra le pietre – conducevano da una parte all’altra della casa, fino a una sorgente cristallina situata a circa cinque passi di distanza, fino alla [[motifs/road|strada]], o verso una o due dépendances situate a nord, al di là del ruscello, e completamente nascoste da alcuni alberi di locusta e catalpa.
+Le piazze del corpo principale e dell’ala ovest non avevano pavimenti, come è consueto; ma alle porte e davanti a ogni [[motifs/window|finestra]], grandi lastre piatte e irregolari di granito erano incastonate nel soffice tappeto erboso, offrendo un terreno confortevole in qualsiasi condizione meteorologica. Ottimi sentieri dello stesso materiale – non particolarmente ben realizzati, ma con il tappeto erboso che riempiva gli spazi tra le pietre – conducevano da una parte all’altra della [[house|casa]], fino a una sorgente cristallina situata a circa cinque passi di distanza, fino alla [[motifs/road|strada]], o verso una o due dépendances situate a nord, al di là del ruscello, e completamente nascoste da alcuni alberi di locusta e catalpa.
 
 A non più di sei passi dalla porta principale della capanna si trovava il tronco morto di un fantastico pero, completamente ricoperto di splendidi fiori di bignonia; bastava un’occhiata attenta per capire che tipo di “cosa dolce” potesse trattarsi. Dalle varie braccia di questo albero pendevano gabbie di diverso tipo: in una, un grande cilindro di vimini con un anello in cima ospitava un uccellino beffardo; in un’altra, un’allodola; in una terza, il sfrontato pettirosso. Mentre altre tre o quattro gabbie più delicate erano piene di canarini che cantavano a squarciagola.
 
 I pilastri della piazza erano avvolti di gelsomino e dolce glicine; mentre dall’angolo formato dalla struttura principale e dal suo aliato occidentale cresceva un vitigno di una rigogliosità senza pari. Disprezzando ogni restrizione, aveva prima inerpicato sul tetto inferiore, poi su quello superiore; lungo il bordo di quest’ultimo continuava a serpeggiare, protendendo i suoi viticci a destra e a sinistra, fino a raggiungere finalmente l’angolo orientale del tetto, dove si estendeva giù per le scale.
 
-L'intera casa, con le sue ali, era costruita con quelle vecchie tegole olandesi: larghe e senza angoli arrotondati. Una caratteristica di questo materiale è che rende le case costruite con esso più larghe alla base che in cima, proprio come nella architettura egizia; in questo caso, quest’effetto estremamente pittoresco veniva ulteriormente accentuato da numerose piante di bellissime [[motifs/flowers|fioriture]] che quasi circondavano tutta la base degli edifici.
+L'intera [[house|casa]], con le sue ali, era costruita con quelle vecchie tegole olandesi: larghe e senza angoli arrotondati. Una caratteristica di questo materiale è che rende le case costruite con esso più larghe alla base che in cima, proprio come nella architettura egizia; in questo caso, quest’effetto estremamente pittoresco veniva ulteriormente accentuato da numerose piante di bellissime [[motifs/flowers|fioriture]] che quasi circondavano tutta la base degli edifici.
 
 Le tegole erano dipinte di un grigio opaco; e la felicità con cui questo colore neutro si fondeva con il verde vivido delle foglie dell'albero di tulipani che in parte ombreggiavano la capanna, può essere facilmente immaginata da un [[archetypes/artist|artista]].
 
@@ -604,14 +604,14 @@ altogether indescribable. I said to myself, “Surely here I have
 found the perfection of natural, in contradistinction from
 artificial grace.” The second impression which she made on me,
 but by far the more vivid of the two, was that of enthusiasm. So
-intense an expression of romance, perhaps I should call it, or of
+intense an expression of [[Romance|romance]], perhaps I should call it, or of
 unworldliness, as that which gleamed from her deep-set eyes, had
 never so sunk into my heart of hearts before. I know not how it
 is, but this peculiar expression of the eye, wreathing itself
 occasionally into the lips, is the most powerful, if not
 absolutely the sole spell, which rivets my interest in woman.
 “[[works/romance-(poe)|Romance]],” provided my readers fully comprehended what I would
-here imply by the word—“romance” and “womanliness” seem to me
+here imply by the word—“[[Romance|romance]]” and “womanliness” seem to me
 convertible terms: and, after all, what man truly loves in woman,
 is simply her womanhood. The eyes of Annie (I heard some one from
 the interior call her “Annie, darling!”) were “spiritual grey;”
@@ -621,7 +621,7 @@ her.
 At her most courteous of invitations, I entered—passing first
 into a tolerably wide vestibule. Having come mainly to observe, I
 took notice that to my right as I stepped in, was a [[motifs/window|window]], such
-as those in front of the house; to the left, a door leading into
+as those in front of the [[house]]; to the left, a door leading into
 the principal room; while, opposite me, an open door enabled me
 to see a small apartment, just the size of the vestibule,
 arranged as a study, and having a large bow [[motifs/window|window]] looking out to
@@ -689,9 +689,9 @@ La [[motifs/road|strada]], dopo aver superato il cancello, sembrava estendersi s
 
 Mentre svoltavo l'angolo del tetto a spiovente, il mastino si precipitò verso di me in un silenzio assoluto, ma con lo sguardo e l’atteggiamento tipici di un tigre. Tuttavia, gli tesi la mano in segno di amicizia. E fino ad allora non avevo mai incontrato un cane che fosse insensibile a un simile appello alla sua cortesia. Non solo chiuse la bocca e scodinzolò, ma mi offrì addirittura la zampa; in seguito estese le sue “cortesie” anche a Ponto.
 
-Non essendo possibile distinguere alcun campanello, bussai alla porta, che era semiaperta. All’istante, una figura si avvicinò alla soglia: si trattava di una giovane donna di circa ventotto anni, snella, piuttosto esile e di statura leggermente superiore alla media. Mentre si avvicinava, il modo in cui camminava era estremamente dignitoso e riservato. Indisscrivibile. Pensai tra me: “Senza dubbio ho trovato qui la perfezione della grazia naturale, a differenza di quella artificiale.” L’impressione che mi fece fu, tuttavia, molto più vivida. Si trattava di un’emozione intensa, di un entusiasmo palpabile. Quell’espressione così profonda e sincera nel suo sguardo non aveva mai toccato il mio cuore in quel modo prima d’allora. Non so come sia possibile, ma quell’atteggiamento particolare negli occhi, quando a volte si riflette anche sulle labbra, è davvero l’unico elemento capace di catturare completamente la mia attenzione verso una donna. “Romantismo”, intendo dire, se i miei lettori comprendono appieno ciò che intendo con questa parola, “romantismo” e “donna” mi sembrano termini intercambiabili: dopotutto, ciò che un uomo ama davvero in una donna è semplicemente la sua essenza femminile. Gli occhi di Annie, (qualcuno all’interno l’aveva chiamata “Annie, cara!”) erano di un grigio “spirituale”; i suoi capelli erano di un castano chiaro. Questo è tutto ciò che ebbi il tempo di osservare di lei.
+Non essendo possibile distinguere alcun campanello, bussai alla porta, che era semiaperta. All’istante, una figura si avvicinò alla soglia: si trattava di una giovane donna di circa ventotto anni, snella, piuttosto esile e di statura leggermente superiore alla media. Mentre si avvicinava, il modo in cui camminava era estremamente dignitoso e riservato. Indisscrivibile. Pensai tra me: “Senza dubbio ho trovato qui la perfezione della grazia naturale, a differenza di quella artificiale.” L’impressione che mi fece fu, tuttavia, molto più vivida. Si trattava di un’emozione intensa, di un entusiasmo palpabile. Quell’espressione così profonda e sincera nel suo sguardo non aveva mai toccato il mio cuore in quel modo prima d’allora. Non so come sia possibile, ma quell’atteggiamento particolare negli occhi, quando a volte si riflette anche sulle labbra, è davvero l’unico elemento capace di catturare completamente la mia attenzione verso una donna. “[[Romance|Romantismo]]”, intendo dire, se i miei lettori comprendono appieno ciò che intendo con questa parola, “[[Romance|romantismo]]” e “donna” mi sembrano termini intercambiabili: dopotutto, ciò che un uomo ama davvero in una donna è semplicemente la sua essenza femminile. Gli occhi di Annie, (qualcuno all’interno l’aveva chiamata “Annie, cara!”) erano di un grigio “spirituale”; i suoi capelli erano di un castano chiaro. Questo è tutto ciò che ebbi il tempo di osservare di lei.
 
-Con la massima cortesia che si possa dimostrare in un invito del genere, entrai, passando prima in un vestibolo abbastanza ampio. Essendo venuto principalmente per osservare, notai che a destra, non appena entrai, c'era una [[motifs/window|finestra]], simile a quelle presenti davanti alla casa; a sinistra, una porta che conduceva nella stanza principale; mentre di fronte a me, una porta aperta mi permise di vedere un piccolo appartamento, delle stesse dimensioni del vestibolo, arredato come uno studio e dotato di una grande [[motifs/window|finestra]] che si affacciava a nord.
+Con la massima cortesia che si possa dimostrare in un invito del genere, entrai, passando prima in un vestibolo abbastanza ampio. Essendo venuto principalmente per osservare, notai che a destra, non appena entrai, c'era una [[motifs/window|finestra]], simile a quelle presenti davanti alla [[house|casa]]; a sinistra, una porta che conduceva nella stanza principale; mentre di fronte a me, una porta aperta mi permise di vedere un piccolo appartamento, delle stesse dimensioni del vestibolo, arredato come uno studio e dotato di una grande [[motifs/window|finestra]] che si affacciava a nord.
 
 Entrando nel salotto, mi trovai di fronte al signor Landor – che, come scoprii in seguito, era il suo nome. Era cortese, persino cordiale nel suo comportamento, ma in quel momento ero più interessata ad osservare l’arredamento della casa che mi aveva così colpito, piuttosto che all’aspetto personale del proprietario.
 

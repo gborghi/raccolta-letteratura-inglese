@@ -24,12 +24,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/child|Child]]
+**Archetypes:** Outsider, Child
 **Motifs:** [[motifs/night|Night]]
 **Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/sin-and-the-fall|Sin and the Fall]]
 **Forms & Genres:** [[forms/fragment|Fragment]]
 **Historical References:** [[historical-references/bible|Bible]]
-**Characters:** [[characters/cain|Cain]]
+**Characters:** Cain
 
 ## Testo integrale / Full text
 

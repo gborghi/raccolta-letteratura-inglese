@@ -35,7 +35,7 @@ For they've never gone —
 <span class="atom-split" data-atom="0399_a_house_upon_the_height" data-title="399. A House upon the Height —" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,motif/death,motif/the_window,concept/the_uncanny,concept/terror_and_horror,cluster/terror_and_horror,cluster/madness"></span>
 
 
-A House upon the Height —  
+A [[house|House]] upon the Height —  
 That Wagon never reached —  
 No Dead, were ever carried down —  
 No Peddler's Cart — approached —  
@@ -213,7 +213,7 @@ When once it has begun —
 Did you ever stand in a Cavern's Mouth —  
 Widths out of the [[motifs/sun|Sun]] —  
 And look — and shudder, and block your breath —  
-And deem to be alone  
+And deem to be [[Alone|alone]]  
 
 In such a place, what horror,  
 How Goblin it would be —  
@@ -264,7 +264,7 @@ And leave me in the Floor —
 Then moved my Fingers off  
 As cautiously as Glass  
 And held my ears, and like a Thief  
-Fled gasping from the House —
+Fled gasping from the [[house|House]] —
 
 
 
@@ -275,7 +275,7 @@ Fled gasping from the House —
 —  
 
 One need not be a Chamber — to be Haunted —  
-One need not be a House —  
+One need not be a [[house|House]] —  
 The Brain has Corridors — surpassing  
 Material Place —  
 
@@ -423,7 +423,7 @@ And does no timidity betray
 
 But [[concepts/nature|nature]] is a stranger yet;  
 The ones that cite her most  
-Have never passed her haunted house,  
+Have never passed her haunted [[house]],  
 Nor simplified her [[archetypes/ghost|ghost]].  
 
 To pity those that know her not  

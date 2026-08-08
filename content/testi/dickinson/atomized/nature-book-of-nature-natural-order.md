@@ -95,7 +95,7 @@ Over the stile of "Pearl."
 The rainbow never tells me  
 That gust and [[motifs/storm|storm]] are by,  
 Yet is she more convincing  
-Than Philosophy.  
+Than [[philosophy|Philosophy]].  
 
 My [[motifs/flowers|flowers]] turn from Forums —  
 Yet eloquent declare  
@@ -384,7 +384,7 @@ Blown tremulous in Glass —
 He visited — still flitting —  
 Then like a timid Man  
 Again, He tapped — 'twas flurriedly —  
-And I became alone —
+And I became [[Alone|alone]] —
 
 
 
@@ -741,7 +741,7 @@ For resembling Me —
 Growth of Man — like Growth of [[concepts/nature|Nature]] —  
 Gravitates within —  
 Atmosphere, and [[motifs/sun|Sun]] endorse it —  
-Bit it stir — alone —  
+Bit it stir — [[Alone|alone]] —  
 
 Each — its difficult Ideal  
 Must achieve — Itself —  
@@ -922,7 +922,7 @@ Her invitation broad
 To Whosoever famishing  
 To taste her mystic Bread —  
 
-These are the rites of [[concepts/nature|Nature]]'s House —  
+These are the rites of [[concepts/nature|Nature]]'s [[house|House]] —  
 The Hospitality  
 That opens with an equal width  
 To Beggar and to Bee  

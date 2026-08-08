@@ -37,17 +37,17 @@ tags:
 
 Raccolta tematica di 11 componimenti di Samuel Taylor Coleridge.
 
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#196_alcaeus_to_sappho|ALCAEUS TO SAPPHO]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#406_an_experiment_for_a_metre|AN EXPERIMENT FOR A METRE]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#083_burke|BURKE]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#290_grove_highgate_song_on_hearing_a_song_in_praise_of_a_ladys_beauty|GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#345_spots_in_the_sun|SPOTS IN THE SUN]]
+- [[works/alcaeus-to-sappho-(coleridge)|ALCAEUS TO SAPPHO]]
+- [[works/an-experiment-for-a-metre-(coleridge)|AN EXPERIMENT FOR A METRE]]
+- [[works/burke-(coleridge)|BURKE]]
+- [[works/grove,-highgate-song,-on-hearing-a-song-in-praise-of-a-lady’s-beauty-(coleridge)|GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY]]
+- [[works/spots-in-the-sun-(coleridge)|SPOTS IN THE SUN]]
 - THE BALLAD OF THE DARK LADIÉ
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#271_the_two_founts|THE TWO FOUNTS]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#129_to_an_unfortunate_woman_at_the_theatre|TO AN UNFORTUNATE WOMAN AT THE THEATRE]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#130_to_an_unfortunate_woman_whom_the_author_had_known_in_the_days_of_her_innocence|TO AN UNFORTUNATE WOMAN WHOM THE AUTHOR HAD KNOWN IN THE DAYS OF HER INNOCENCE]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#337_to_one_who_published_in_print|TO ONE WHO PUBLISHED IN PRINT]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#065_translation_of_wranghams_hendecasyllabi_ad_bruntonam_e_granta_exituram_kal_octmd|TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ (KAL. OCT.MDCCXC)]]
+- [[works/the-two-founts-(coleridge)|THE TWO FOUNTS]]
+- [[works/to-an-unfortunate-woman-at-the-theatre-(coleridge)|TO AN UNFORTUNATE WOMAN AT THE THEATRE]]
+- [[works/to-an-unfortunate-woman-whom-the-author-had-known-in-the-days-of-her-innocence-(coleridge)|TO AN UNFORTUNATE WOMAN WHOM THE AUTHOR HAD KNOWN IN THE DAYS OF HER INNOCENCE]]
+- [[works/to-one-who-published-in-print-(coleridge)|TO ONE WHO PUBLISHED IN PRINT]]
+- [[works/translation-of-wrangham’s-‘hendecasyllabi-ad-bruntonam-e-granta-exituram’-kal.-oct.mdccxc-(coleridge)|TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ (KAL. OCT.MDCCXC)]]
 
 ## Testo / Text
 

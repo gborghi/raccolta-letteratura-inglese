@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume" data-author="Whitman" data-workhref="works/grief-and-loss-·-elegy-·-clothing-and-costume-(whitman)"></div>
 
 
-<span class="atom-split" data-atom="039_once_i_pass_d_through_a_populous_city" data-title="Once I Pass’d Through a Populous City" data-chapter="" data-kind="intro" data-tags="motif/the_city,motif/memory,concept/love_romantic,concept/memory_and_time,concept/grief_and_loss,form/free_verse,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="039_once_i_pass_d_through_a_populous_city" data-title="Once I Pass’d Through a Populous City" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CHILDREN OF ADAM_  
@@ -35,7 +35,7 @@ I see her close beside me with silent lips sad and tremulous.
 
 
 
-<span class="atom-split" data-atom="044_scented_herbage_of_my_breast" data-title="Scented Herbage of My Breast" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/death,motif/flowers,concept/comradeship,concept/mortality,concept/melancholy,concept/appearance_vs_reality,form/free_verse,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="044_scented_herbage_of_my_breast" data-title="Scented Herbage of My Breast" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CALAMUS_  
@@ -59,11 +59,11 @@ Yet you are beautiful to me you faint tinged roots, you make me
 think of [[motifs/death|death]],  
 [[motifs/death|Death]] is beautiful from you, (what indeed is finally beautiful  
 except [[concepts/death-and-love|death and love]]?)  
-O I think it is not for life I am chanting here my chant of lovers,  
+O I think it is not for life I am chanting here my chant of [[lovers]],  
 I think it must be for [[motifs/death|death]],  
-For how calm, how solemn it grows to ascend to the atmosphere of lovers,  
+For how calm, how solemn it grows to ascend to the atmosphere of [[lovers]],  
 [[motifs/death|Death]] or life I am then indifferent, my [[motifs/soul|soul]] declines to prefer,  
-(I am not sure but the high [[motifs/soul|soul]] of lovers welcomes [[motifs/death|death]] most,)  
+(I am not sure but the high [[motifs/soul|soul]] of [[lovers]] welcomes [[motifs/death|death]] most,)  
 Indeed O [[motifs/death|death]], I think now these [[motifs/leaves|leaves]] mean precisely the same as  
 you mean,  
 Grow up taller sweet [[motifs/leaves|leaves]] that I may see! grow up out of my breast!  
@@ -77,7 +77,7 @@ I will say what I have to say by itself,
 I will sound myself and comrades only, I will never again utter a  
 call only their call,  
 I will raise with it immortal reverberations through the States,  
-I will give an example to lovers to take permanent shape and will  
+I will give an example to [[lovers]] to take permanent shape and will  
 through the States,  
 Through me shall the words be said to make [[motifs/death|death]] exhilarating,  
 Give me your tone therefore O [[motifs/death|death]], that I may accord with it,  
@@ -101,7 +101,7 @@ But you will last very long.
 
 
 
-<span class="atom-split" data-atom="084_crossing_brooklyn_ferry" data-title="Crossing Brooklyn Ferry" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/the_city,motif/river,concept/memory_and_time,concept/comradeship,concept/self_and_soul,form/free_verse,setting/the_modern_metropolis,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="084_crossing_brooklyn_ferry" data-title="Crossing Brooklyn Ferry" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -210,11 +210,11 @@ That I was I knew was of my [[concepts/body|body]], and what I should be I knew 
 should be of my [[concepts/body|body]].  
 
 6  
-It is not upon you alone the dark patches fall,  
+It is not upon you [[Alone|alone]] the dark patches fall,  
 The dark threw its patches down upon me also,  
 The best I had done seem’d to me blank and suspicious,  
 My great thoughts as I supposed them, were they not in reality meagre?  
-Nor is it you alone who know what it is to be evil,  
+Nor is it you [[Alone|alone]] who know what it is to be evil,  
 I am he who knew what it was to be evil,  
 I too knitted the old knot of contrariety,  
 Blabb’d, blush’d, resented, lied, stole, grudg’d,  
@@ -273,7 +273,7 @@ men and women generations after me!
 Stand up, tall masts of Mannahatta! stand up, beautiful hills of Brooklyn!  
 Throb, baffled and curious brain! throw out questions and answers!  
 Suspend here and everywhere, eternal float of solution!  
-Gaze, loving and thirsting eyes, in the house or street or public assembly!  
+Gaze, loving and thirsting eyes, in the [[house]] or street or public assembly!  
 Sound out, voices of young men! loudly and musically call me by my  
 nighest name!  
 Live, old life! play the part that looks back on the actor or actress!  
@@ -316,7 +316,7 @@ Great or small, you furnish your parts toward the [[motifs/soul|soul]].
 
 
 
-<span class="atom-split" data-atom="151_cavalry_crossing_a_ford" data-title="Cavalry Crossing a Ford" data-chapter="" data-kind="intro" data-tags="motif/horse,motif/river,motif/flags_banners,motif/swords_weapons,form/free_verse,setting/the_battlefield,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="151_cavalry_crossing_a_ford" data-title="Cavalry Crossing a Ford" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -340,7 +340,7 @@ The guidon flags flutter gayly in the [[motifs/wind|wind]].
 
 
 
-<span class="atom-split" data-atom="155_come_up_from_the_fields_father" data-title="Come Up from the Fields Father" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/death,motif/autumn,motif/letters_writing,concept/grief_and_loss,concept/war_and_its_cost,form/elegy,setting/pastoral_countryside,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="155_come_up_from_the_fields_father" data-title="Come Up from the Fields Father" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -406,7 +406,7 @@ To follow, to seek, to be with her dear dead son.
 
 
 
-<span class="atom-split" data-atom="161_year_that_trembled_and_reel_d_beneath_me" data-title="Year That Trembled and Reel’d Beneath Me" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/grief_and_loss,concept/disillusionment,concept/war_and_its_cost,form/dirge,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="161_year_that_trembled_and_reel_d_beneath_me" data-title="Year That Trembled and Reel’d Beneath Me" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -415,7 +415,7 @@ _Cluster: DRUM-TAPS_
 Year that trembled and reel’d beneath me!
 Your [[motifs/summer|summer]] [[motifs/wind|wind]] was warm enough, yet the air I breathed froze me,
 A thick gloom fell through the sunshine and darken’d me,
-Must I change my triumphant songs? said I to myself,
+Must I change my triumphant [[songs]]? said I to myself,
 Must I indeed learn to chant the cold dirges of the baffled?
 And sullen hymns of defeat?
 
@@ -426,7 +426,7 @@ And sullen hymns of defeat?
 
 
 
-<span class="atom-split" data-atom="165_dirge_for_two_veterans" data-title="Dirge for Two Veterans" data-chapter="" data-kind="intro" data-tags="motif/moon,motif/the_grave,motif/drums_and_bugles,motif/death,motif/night,concept/grief_and_loss,concept/war_and_its_cost,form/dirge,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="165_dirge_for_two_veterans" data-title="Dirge for Two Veterans" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -439,7 +439,7 @@ Down a new-made [[topoi/double|double]] [[motifs/grave|grave]].
 
 Lo, the [[motifs/moon|moon]] ascending,  
 Up from the east the silvery round [[motifs/moon|moon]],  
-Beautiful over the house-tops, ghastly, [[characters/phantom|phantom]] [[motifs/moon|moon]],  
+Beautiful over the [[house]]-tops, ghastly, [[characters/phantom|phantom]] [[motifs/moon|moon]],  
 Immense and silent [[motifs/moon|moon]].  
 
 I see a sad procession,  
@@ -484,7 +484,7 @@ My heart gives you [[motifs/love|love]].
 
 
 
-<span class="atom-split" data-atom="185_when_lilacs_last_in_the_dooryard_bloom_d" data-title="When Lilacs Last in the Dooryard Bloom’d" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/flowers,motif/stars,motif/birds,motif/death,motif/the_grave,motif/spring,motif/rose,concept/grief_and_loss,concept/mortality,concept/war_and_its_cost,form/elegy,histref/american_civil_war,character/abraham_lincoln,character/death_personified,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="185_when_lilacs_last_in_the_dooryard_bloom_d" data-title="When Lilacs Last in the Dooryard Bloom’d" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: MEMORIES OF PRESIDENT LINCOLN_  
@@ -508,7 +508,7 @@ O harsh surrounding cloud that will not free my [[motifs/soul|soul]].
 
 
 3  
-In the dooryard fronting an old farm-house near the white-wash’d palings,  
+In the dooryard fronting an old farm-[[house]] near the white-wash’d palings,  
 Stands the lilac-bush tall-growing with heart-shaped [[motifs/leaves|leaves]] of rich green,  
 With many a pointed blossom rising delicate, with the perfume strong I [[motifs/love|love]],  
 With every leaf a miracle--and from this bush in the dooryard,  
@@ -517,14 +517,14 @@ A sprig with its flower I break.
 
 4  
 In the swamp in secluded recesses,  
-A shy and hidden bird is warbling a song.  
+A shy and hidden bird is warbling a [[Song|song]].  
 
 Solitary the thrush,  
 The hermit withdrawn to himself, avoiding the settlements,  
-Sings by himself a song.  
+Sings by himself a [[Song|song]].  
 
 [[works/song-(poe)|Song]] of the bleeding throat,  
-[[motifs/death|Death]]’s outlet song of life, (for [[motifs/well|well]] dear brother I know,  
+[[motifs/death|Death]]’s outlet [[Song|song]] of life, (for [[motifs/well|well]] dear brother I know,  
 If thou wast not granted to sing thou wouldst surely die.)  
 
 5  
@@ -558,9 +558,9 @@ Here, coffin that slowly passes,
 I give you my sprig of lilac.  
 
 7  
-(Nor for you, for one alone,  
+(Nor for you, for one [[Alone|alone]],  
 Blossoms and branches green to coffins all I bring,  
-For fresh as the morning, thus would I chant a song for you O sane  
+For fresh as the morning, thus would I chant a [[Song|song]] for you O sane  
 and sacred [[motifs/death|death]].  
 
 All over bouquets of roses,  
@@ -596,7 +596,7 @@ The star my departing comrade holds and detains me.
 
 10  
 O how shall I warble myself for the dead one there I loved?  
-And how shall I deck my song for the large sweet [[motifs/soul|soul]] that has gone?  
+And how shall I deck my [[Song|song]] for the large sweet [[motifs/soul|soul]] that has gone?  
 And what shall my perfume be for the [[motifs/grave|grave]] of him I [[motifs/love|love]]?  
 
 Sea-winds blown from east and west,  
@@ -608,7 +608,7 @@ I’ll perfume the [[motifs/grave|grave]] of him I [[motifs/love|love]].
 11  
 O what shall I hang on the chamber walls?  
 And what shall the pictures be that I hang on the walls,  
-To adorn the burial-house of him I [[motifs/love|love]]?  
+To adorn the burial-[[house]] of him I [[motifs/love|love]]?  
 Pictures of growing [[motifs/spring|spring]] and farms and homes,  
 With the Fourth-month eve at sundown, and the gray smoke lucid and bright,  
 With floods of the yellow gold of the gorgeous, indolent, sinking  
@@ -643,8 +643,8 @@ Sing on, sing on you gray-brown bird,
 Sing from the swamps, the recesses, pour your chant from the bushes,  
 Limitless out of the dusk, out of the cedars and pines.  
 
-Sing on dearest brother, warble your reedy song,  
-Loud human song, with voice of uttermost woe.  
+Sing on dearest brother, warble your reedy [[Song|song]],  
+Loud human [[Song|song]], with voice of uttermost woe.  
 
 O liquid and free and tender!  
 O wild and loose to my [[motifs/soul|soul]]--O wondrous singer!  
@@ -680,15 +680,15 @@ To the solemn shadowy cedars and ghostly pines so still.
 
 And the singer so shy to the rest receiv’d me,  
 The gray-brown bird I know receiv’d us comrades three,  
-And he sang the carol of [[motifs/death|death]], and a verse for him I [[motifs/love|love]].  
+And he sang the [[carol]] of [[motifs/death|death]], and a verse for him I [[motifs/love|love]].  
 
 From deep secluded recesses,  
 From the fragrant cedars and the ghostly pines so still,  
-Came the carol of the bird.  
+Came the [[carol]] of the bird.  
 
-And the charm of the carol rapt me,  
+And the charm of the [[carol]] rapt me,  
 As I held as if by their hands my comrades in the [[motifs/night|night]],  
-And the voice of my spirit tallied the song of the bird.  
+And the voice of my spirit tallied the [[Song|song]] of the bird.  
 
 Come lovely and soothing [[motifs/death|death]],  
 Undulate round the world, serenely arriving, arriving,  
@@ -703,7 +703,7 @@ For the sure-enwinding arms of cool-enfolding [[motifs/death|death]].
 Dark mother always gliding near with soft feet,  
 Have none chanted for thee a chant of fullest welcome?  
 Then I chant it for thee, I glorify thee above all,  
-I bring thee a song that when thou must indeed come, come unfalteringly.  
+I bring thee a [[Song|song]] that when thou must indeed come, come unfalteringly.  
 
 Approach strong deliveress,  
 When it is so, when thou hast taken them I joyously sing the dead,  
@@ -720,11 +720,11 @@ The ocean shore and the husky whispering wave whose voice I know,
 And the [[motifs/soul|soul]] turning to thee O vast and [[motifs/well|well]]-veil’d [[motifs/death|death]],  
 And the [[concepts/body|body]] gratefully nestling close to thee.  
 
-Over the tree-tops I float thee a song,  
+Over the tree-tops I float thee a [[Song|song]],  
 Over the rising and sinking waves, over the myriad fields and the  
 prairies wide,  
 Over the dense-pack’d cities all and the teeming wharves and ways,  
-I float this carol with joy, with joy to thee O [[motifs/death|death]].  
+I float this [[carol]] with joy, with joy to thee O [[motifs/death|death]].  
 
 15  
 To the tally of my [[motifs/soul|soul]],  
@@ -757,8 +757,8 @@ And the armies that remain’d suffer’d.
 16  
 Passing the visions, passing the [[motifs/night|night]],  
 Passing, unloosing the hold of my comrades’ hands,  
-Passing the song of the hermit bird and the tallying song of my [[motifs/soul|soul]],  
-Victorious song, [[motifs/death|death]]’s outlet song, yet varying ever-altering song,  
+Passing the [[Song|song]] of the hermit bird and the tallying [[Song|song]] of my [[motifs/soul|soul]],  
+Victorious [[Song|song]], [[motifs/death|death]]’s outlet [[Song|song]], yet varying ever-altering [[Song|song]],  
 As low and wailing, yet clear the notes, rising and falling,  
 flooding the [[motifs/night|night]],  
 Sadly sinking and fainting, as warning and warning, and yet again  
@@ -768,12 +768,12 @@ As that powerful psalm in the [[motifs/night|night]] I heard from recesses,
 Passing, I leave thee lilac with heart-shaped [[motifs/leaves|leaves]],  
 I leave thee there in the door-yard, blooming, returning with [[motifs/spring|spring]].  
 
-I cease from my song for thee,  
+I cease from my [[Song|song]] for thee,  
 From my gaze on thee in the west, fronting the west, communing with thee,  
 O comrade lustrous with silver face in the [[motifs/night|night]].  
 
 Yet each to keep and all, retrievements out of the [[motifs/night|night]],  
-The song, the wondrous chant of the gray-brown bird,  
+The [[Song|song]], the wondrous chant of the gray-brown bird,  
 And the tallying chant, the echo arous’d in my [[motifs/soul|soul]],  
 With the lustrous and drooping star with the countenance full of woe,  
 With the holders holding my hand nearing the call of the bird,  
@@ -791,7 +791,7 @@ There in the fragrant pines and the cedars dusk and dim.
 
 
 
-<span class="atom-split" data-atom="186_o_captain_my_captain" data-title="O Captain! My Captain!" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/a_ship,motif/blood,motif/bells,concept/grief_and_loss,concept/mortality,form/elegy,form/ballad,character/abraham_lincoln,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="186_o_captain_my_captain" data-title="O Captain! My Captain!" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: MEMORIES OF PRESIDENT LINCOLN_  
@@ -799,14 +799,14 @@ _Cluster: MEMORIES OF PRESIDENT LINCOLN_
 
 O Captain! my Captain! our fearful trip is done,  
 The [[motifs/ship|ship]] has weather’d every rack, the prize we sought is won,  
-The port is near, the bells I hear, the people all exulting,  
+The port is near, [[The Bells|the bells]] I hear, the people all exulting,  
 While follow eyes the steady keel, the vessel grim and daring;  
 But O heart! heart! heart!  
 O the bleeding drops of red,  
 Where on the deck my Captain lies,  
 Fallen cold and dead.  
 
-O Captain! my Captain! rise up and hear the bells;  
+O Captain! my Captain! rise up and hear [[The Bells|the bells]];  
 Rise up--for you the [[motifs/flag|flag]] is flung--for you the bugle trills,  
 For you bouquets and ribbon’d wreaths--for you the shores a-crowding,  
 For you they call, the swaying mass, their eager faces turning;  
@@ -831,7 +831,7 @@ Fallen cold and dead.
 
 
 
-<span class="atom-split" data-atom="187_hush_d_be_the_camps_to_day_may_4_1865" data-title="Hush’d Be the Camps To-Day [May 4, 1865" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/grief_and_loss,concept/war_and_its_cost,concept/comradeship,form/elegy,character/abraham_lincoln,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="187_hush_d_be_the_camps_to_day_may_4_1865" data-title="Hush’d Be the Camps To-Day [May 4, 1865" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: MEMORIES OF PRESIDENT LINCOLN_  
@@ -860,7 +860,7 @@ For the heavy hearts of soldiers.
 
 
 
-<span class="atom-split" data-atom="194_old_ireland" data-title="Old Ireland" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/the_grave,concept/grief_and_loss,concept/exile,concept/grace_and_redemption,concept/regeneration,form/allegory,histref/irish_question,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="194_old_ireland" data-title="Old Ireland" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -894,7 +894,7 @@ Moves to-day in a new country.
 
 
 
-<span class="atom-split" data-atom="202_outlines_for_a_tomb_g_p_buried_1870" data-title="Outlines for a Tomb [G. P., Buried 1870]" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/the_common_man,concept/reform,concept/mortality,concept/social_injustice,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="202_outlines_for_a_tomb_g_p_buried_1870" data-title="Outlines for a Tomb [G. P., Buried 1870]" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_  
@@ -944,7 +944,7 @@ Reading, conversing.
 All, all the shows of laboring life,  
 [[motifs/city|City]] and country, women’s, men’s and children’s,  
 Their wants provided for, hued in the sun and tinged for once with joy,  
-[[motifs/marriage|Marriage]], the street, the factory, farm, the house-room, lodging-room,  
+[[motifs/marriage|Marriage]], the street, the factory, farm, the [[house]]-room, lodging-room,  
 Labor and toll, the bath, gymnasium, playground, library, college,  
 The student, boy or girl, led forward to be taught,  
 The sick cared for, the shoeless shod, the [[archetypes/orphan|orphan]] father’d and mother’d,  
@@ -958,11 +958,11 @@ From thee such scenes, thou stintless, lavish giver,
 Tallying the gifts of earth, large as the earth,  
 Thy name an earth, with [[settings/mountains|mountains]], fields and tides.  
 
-Nor by your streams alone, you rivers,  
+Nor by your streams [[Alone|alone]], you rivers,  
 By you, your banks Connecticut,  
 By you and all your teeming life old Thames,  
 By you Potomac laving the ground Washington trod, by you Patapsco,  
-You Hudson, you endless Mississippi--nor you alone,  
+You Hudson, you endless Mississippi--nor you [[Alone|alone]],  
 But to the high seas launch, my thought, his [[motifs/memory|memory]].  
 
 
@@ -972,13 +972,13 @@ But to the high seas launch, my thought, his [[motifs/memory|memory]].
 
 
 
-<span class="atom-split" data-atom="227_my_picture_gallery" data-title="My Picture-Gallery" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/death,concept/memory_and_time,concept/imagination,concept/identity,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="227_my_picture_gallery" data-title="My Picture-Gallery" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
 
 
-In a little house keep I pictures suspended, it is not a fix’d house,
+In a little [[house]] keep I pictures suspended, it is not a fix’d [[house]],
 It is round, it is only a few inches from one side to the other;
 Yet behold, it has room for all the shows of the world, all memories!
 Here the tableaus of life, and here the groupings of [[motifs/death|death]];
@@ -992,7 +992,7 @@ With finger rais’d he points to the prodigal pictures.
 
 
 
-<span class="atom-split" data-atom="259_o_magnet_south" data-title="O Magnet-South" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/animals,motif/river,concept/nostalgia,form/free_verse,setting/the_american_south,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="259_o_magnet_south" data-title="O Magnet-South" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_  
@@ -1050,10 +1050,10 @@ never wander more.
 
 
 
-<span class="atom-split" data-atom="282_as_at_thy_portals_also_death" data-title="As at Thy Portals Also Death" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,motif/memory,concept/grief_and_loss,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="282_as_at_thy_portals_also_death" data-title="As at Thy Portals Also Death" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: SONGS OF PARTING_  
+_Cluster: [[songs|SONGS]] OF PARTING_  
 
 
 As at thy portals also [[motifs/death|death]],  
@@ -1066,7 +1066,7 @@ I kiss and kiss convulsively again the sweet old lips, the cheeks,
 the closed eyes in the coffin;)  
 To her, the ideal woman, practical, spiritual, of all of earth,  
 life, [[motifs/love|love]], to me the best,  
-I [[motifs/grave|grave]] a monumental line, before I go, amid these songs,  
+I [[motifs/grave|grave]] a monumental line, before I go, amid these [[songs]],  
 And set a tombstone here.  
 
 
@@ -1076,7 +1076,7 @@ And set a tombstone here.
 
 
 
-<span class="atom-split" data-atom="301_as_i_sit_writing_here" data-title="As I Sit Writing Here" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/melancholy,concept/mortality,concept/memory_and_time,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="301_as_i_sit_writing_here" data-title="As I Sit Writing Here" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1085,7 +1085,7 @@ _Cluster: SANDS AT SEVENTY_
 As I sit writing here, sick and grown old,  
 Not my least burden is that dulness of the years, querilities,  
 Ungracious glooms, aches, lethargy, constipation, whimpering ennui,  
-May filter in my dally songs.  
+May filter in my dally [[songs]].  
 
 
 
@@ -1111,7 +1111,7 @@ The wanderings as in [[motifs/dreams|dreams]]--the meditation of old times resum
 
 
 
-<span class="atom-split" data-atom="323_the_dead_tenor" data-title="The Dead Tenor" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/autumn,motif/leaves,motif/the_grave,motif/memory,concept/grief_and_loss,concept/mortality,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="323_the_dead_tenor" data-title="The Dead Tenor" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1141,7 +1141,7 @@ To [[motifs/memory|memory]] of thee.
 
 
 
-<span class="atom-split" data-atom="331_thanks_in_old_age" data-title="Thanks in Old Age" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/food_feasting,motif/the_journey,concept/wonder_and_gratitude,concept/war_and_its_cost,concept/friendship,concept/joy,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="331_thanks_in_old_age" data-title="Thanks in Old Age" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1151,7 +1151,7 @@ Thanks in old age--thanks ere I go,
 For health, the midday sun, the impalpable air--for life, mere life,  
 For precious ever-lingering memories, (of you my mother dear--you,  
 father--you, brothers, sisters, friends,)  
-For all my days--not those of peace alone--the days of war the same,  
+For all my days--not those of peace [[Alone|alone]]--the days of war the same,  
 For gentle words, caresses, gifts from foreign lands,  
 For shelter, wine and meat--for sweet appreciation,  
 (You distant, dim unknown--or young or old--countless, unspecified,  
@@ -1163,7 +1163,7 @@ For all the brave strong men--devoted, hardy men--who’ve forward
 sprung in [[concepts/freedom|freedom]]’s help, all years, all lands  
 For braver, stronger, more devoted men--(a special laurel ere I go,  
 to life’s war’s chosen ones,  
-The cannoneers of song and thought--the great artillerists--the  
+The cannoneers of [[Song|song]] and thought--the great artillerists--the  
 foremost leaders, captains of the [[motifs/soul|soul]]:)  
 As soldier from an ended war return’d--As traveler out of myriads,  
 to the long procession retrospective,  
@@ -1176,7 +1176,7 @@ Thanks--joyful thanks!--a soldier’s, traveler’s thanks.
 
 
 
-<span class="atom-split" data-atom="344_the_dead_emperor" data-title="The Dead Emperor" data-chapter="" data-kind="intro" data-tags="topos/sic_transit_gloria_mundi,archetype/king,motif/crown,motif/the_sea,concept/grief_and_loss,concept/mortality,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="344_the_dead_emperor" data-title="The Dead Emperor" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1194,7 +1194,7 @@ Mourning a good old man--a faithful shepherd, patriot.
 
 
 
-<span class="atom-split" data-atom="357_the_pallid_wreath" data-title="The Pallid Wreath" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/rose,motif/flowers,motif/death,concept/grief_and_loss,concept/memory_and_time,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="357_the_pallid_wreath" data-title="The Pallid Wreath" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -1219,13 +1219,13 @@ It is not yet dead to me, nor even pallid.
 
 
 
-<span class="atom-split" data-atom="369_a_twilight_song" data-title="A Twilight Song" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/death,motif/fire,concept/war_and_its_cost,concept/grief_and_loss,form/elegy,histref/american_civil_war,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="369_a_twilight_song" data-title="A Twilight Song" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
 
 
-As I sit in twilight late alone by the flickering oak-flame,  
+As I sit in twilight late [[Alone|alone]] by the flickering oak-flame,  
 Musing on long-pass’d war-scenes--of the countless buried unknown  
 soldiers,  
 Of the vacant names, as unindented air’s and sea’s--the unreturn’d,  
@@ -1247,7 +1247,7 @@ Each name recall’d by me from out the darkness and [[motifs/death|death]]’s 
 Henceforth to be, deep, deep within my heart recording, for many  
 future year,  
 Your mystic roll entire of unknown names, or North or South,  
-Embalm’d with [[motifs/love|love]] in this twilight song.  
+Embalm’d with [[motifs/love|love]] in this twilight [[Song|song]].  
 
 
 

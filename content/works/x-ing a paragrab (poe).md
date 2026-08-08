@@ -25,7 +25,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/fool|Fool]]
+**Archetypes:** Fool
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]

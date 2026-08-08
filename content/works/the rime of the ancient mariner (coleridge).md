@@ -41,12 +41,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/quest|Quest]]
-**Archetypes:** [[archetypes/outsider|Outsider]]
+**Archetypes:** Outsider
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/sea|Sea]], [[motifs/birds|Birds]]
 **Themes & Concepts:** [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/guilt|Guilt]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/providence|Providence]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]
 **Settings:** [[motifs/ship|Ship]]
-**Characters:** [[characters/death-personified|Death Personified]], [[characters/ancient-mariner|Ancient Mariner]]
+**Characters:** Death Personified, Ancient Mariner
 
 ## Testo integrale / Full text
 

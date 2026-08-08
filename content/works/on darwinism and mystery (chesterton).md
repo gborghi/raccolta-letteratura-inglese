@@ -49,7 +49,7 @@ tags:
 
 **Motifs:** [[motifs/light-and-dark|Light and Dark]], [[motifs/eyes-and-sight|Eyes and Sight]]
 
-**Characters:** [[characters/charles-darwin|Charles Darwin]], [[characters/thomas-henry-huxley|Thomas Henry Huxley]], [[characters/edward-clodd|Edward Clodd]]
+**Characters:** Charles Darwin, Thomas Henry Huxley, Edward Clodd
 
 **Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/doubt|Doubt]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/sublime|Sublime]], [[concepts/providence|Providence]], [[concepts/unseen-the-hidden|Unseen The Hidden]], [[concepts/agnosticism|Agnosticism]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]

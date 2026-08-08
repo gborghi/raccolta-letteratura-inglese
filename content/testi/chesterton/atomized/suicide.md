@@ -29,7 +29,7 @@ il più strano capriccio m'ha colto. . . . Dopotutto
 credo che oggi non m'impiccherò.  
 
 Domani è il [[motifs/time|momento]] in cui riscuoto la paga--  
-la spada di mio zio pende nell'atrio--  
+la [[Sword|spada]] di mio zio pende nell'atrio--  
 vedo una nuvoletta tutta rosa e grigia--  
 forse la madre del Rettore NON verrà in visita--  
 mi pare d'aver sentito dal signor Gall  
@@ -71,7 +71,7 @@ The strangest whim has seized me. . . . After all
 I think I will not hang myself to-day.  
 
 To-morrow is the [[motifs/time|time]] I get my pay--  
-My uncle's sword is hanging in the hall--  
+My uncle's [[Sword|sword]] is hanging in the hall--  
 I see a little cloud all pink and grey--  
 Perhaps the Rector's mother will NOT call--  
 I fancy that I heard from Mr. Gall  
@@ -111,7 +111,7 @@ il più strano capriccio m'ha colto. . . . Dopotutto
 credo che oggi non m'impiccherò.  
 
 Domani è il [[motifs/time|momento]] in cui riscuoto la paga--  
-la spada di mio zio pende nell'atrio--  
+la [[Sword|spada]] di mio zio pende nell'atrio--  
 vedo una nuvoletta tutta rosa e grigia--  
 forse la madre del Rettore NON verrà in visita--  
 mi pare d'aver sentito dal signor Gall  

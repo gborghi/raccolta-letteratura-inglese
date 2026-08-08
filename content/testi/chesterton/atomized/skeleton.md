@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-Lo Scheletro  
+Lo [[skeleton|Scheletro]]  
 
 Fringuello ciarliero e mosca d'[[motifs/water|acqua]]  
 Non son più lieti di me;  
@@ -35,7 +35,7 @@ G.K. CHESTERTON
 <span class="atom-split" data-atom="part--part_01" data-title="skeleton (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/flowers,motif/water"></span>
 
 
-The Skeleton  
+The [[skeleton|Skeleton]]  
 
 Chattering finch and [[motifs/water|water]]-fly  
 Are not merrier than I;  
@@ -51,7 +51,7 @@ G.K. CHESTERTON
 
 <span class="qlang-split" data-lang="it"></span>
 
-Lo Scheletro  
+Lo [[skeleton|Scheletro]]  
 
 Fringuello ciarliero e mosca d'[[motifs/water|acqua]]  
 Non son più lieti di me;  

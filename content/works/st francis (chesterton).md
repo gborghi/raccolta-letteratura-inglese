@@ -84,10 +84,10 @@ tags:
 
 **Settings:** [[settings/italy|Italy]], [[settings/mountains|Mountains]], [[settings/europe|Europe]]
 
-**Characters:** [[characters/christ|Christ]], [[characters/virgin-mary|Virgin Mary]], [[characters/st.-francis-of-assisi|St. Francis of Assisi]], [[characters/pietro-bernadone|Pietro Bernadone]], [[characters/st.-clare-of-assisi|St. Clare of Assisi]], [[characters/st.-dominic|St. Dominic]], [[characters/bernard-of-quintaville|Bernard of Quintaville]]
+**Characters:** Christ, Virgin Mary, St. Francis of Assisi, Pietro Bernadone, St. Clare of Assisi, St. Dominic, Bernard of Quintaville
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/contemptus-mundi|Contemptus Mundi]], [[topoi/poet-as-prophet|Poet as Prophet]]
-**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/christ-figure|Christ Figure]], [[archetypes/fool|Fool]], [[archetypes/pilgrim|Pilgrim]]
+**Archetypes:** Martyr Saint, Christ Figure, Fool, Pilgrim
 **Motifs:** [[concepts/nature|Nature]], [[motifs/animals|Animals]], [[motifs/birds|Birds]], [[motifs/fire|Fire]], [[motifs/water|Water]], [[motifs/sun|Sun]], [[motifs/cave|Cave]], [[motifs/cross|Cross]], [[motifs/nakedness|Nakedness]], [[motifs/dreams|Dreams]], [[motifs/light-and-dark|Light and Dark]], [[motifs/clothing-and-costume|Clothing and Costume]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/humility|Humility]], [[concepts/poverty|Poverty]], [[concepts/conversion|Conversion]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/divine-love|Divine Love]], [[concepts/paradox|Paradox]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/martyrdom|Martyrdom]], [[concepts/self-denial-and-renunciation|Self-Denial and Renunciation]], [[concepts/joy|Joy]], [[concepts/democracy|Democracy]], [[concepts/original-sin|Original Sin]], [[concepts/providence|Providence]], [[concepts/romantic-love|Romantic Love]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/biography|Biography]], [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

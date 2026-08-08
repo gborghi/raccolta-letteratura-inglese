@@ -41,6 +41,6 @@ tags:
 **Themes & Concepts:** [[concepts/nature|Nature]], [[concepts/wonder|Wonder]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/faith|Faith]], [[concepts/the-spirit-of-romance|The Spirit of Romance]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/road|Road]], [[motifs/journey|Journey]], [[motifs/inn-tavern|Inn Tavern]], [[concepts/nature|Nature]], [[motifs/home|Home]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/inn|Inn]]
-**Characters:** [[characters/hilaire-belloc|Hilaire Belloc]]
-**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Characters:** Hilaire Belloc
+**Archetypes:** Pilgrim
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]]

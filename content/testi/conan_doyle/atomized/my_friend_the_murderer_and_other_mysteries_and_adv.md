@@ -27,6 +27,7 @@ SELECTING A GHOST. THE GHOSTS OF GORESTHORPE GRANGE
 
 
 
+
 <span class="atom-split" data-atom="story_01_elias_b_hopkins_the_parson_of_jackmans_g" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — ELIAS B. HOPKINS, THE PARSON OF JACKMAN’S GULCH." data-chapter="ELIAS B HOPKINS THE PARSON OF JACKMANS G" data-kind="story" data-tags="motif/money_and_gold,concept/reform,concept/temperance_and_teetotalism,form/short_story,setting/australia"></span>
 
 

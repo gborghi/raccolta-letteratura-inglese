@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]], [[topoi/golden-age|Golden Age]]
-**Archetypes:** [[archetypes/prophet|Prophet]]
+**Archetypes:** Prophet
 **Motifs:** [[motifs/sea|Sea]], [[motifs/music-and-song|Music and Song]]
 **Themes & Concepts:** [[concepts/immortality-of-art-fame|Immortality of Art Fame]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]]

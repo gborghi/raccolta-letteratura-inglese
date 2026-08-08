@@ -45,7 +45,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/fool|Fool]]
+**Archetypes:** Trickster, Fool
 **Motifs:** [[motifs/mirror|Mirror]], [[motifs/book-reading|Book Reading]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/satire-of-society|Satire of Society]], [[concepts/honour|Honour]], [[concepts/grotesque|Grotesque]], [[concepts/pride|Pride]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]

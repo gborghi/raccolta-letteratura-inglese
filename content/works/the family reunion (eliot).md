@@ -47,13 +47,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/katabasis-descent|Katabasis Descent]]
-**Archetypes:** [[archetypes/avenger|Avenger]], [[archetypes/outsider|Outsider]], [[archetypes/ghost|Ghost]]
+**Archetypes:** Avenger, Outsider, Ghost
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[motifs/seasons|Seasons]]
 **Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/conscience|Conscience]], [[concepts/alienation|Alienation]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/tragedy|Tragedy]]
 **Historical References:** [[historical-references/greek-tragedy|Greek Tragedy]], [[historical-references/greek-mythology|Greek Mythology]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** [[characters/harry,-lord-monchensey|Harry, Lord Monchensey]], [[characters/amy,-lady-monchensey|Amy, Lady Monchensey]], [[characters/agatha|Agatha]]
+**Characters:** Harry, Lord Monchensey, Amy, Lady Monchensey, Agatha
 
 ## Testo integrale / Full text
 

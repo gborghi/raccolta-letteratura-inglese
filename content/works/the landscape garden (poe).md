@@ -49,7 +49,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/locus-amoenus|Locus Amoenus]], [[topoi/book-of-nature|Book of Nature]]
-**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
+**Archetypes:** Self-Made Man
 **Motifs:** [[motifs/garden|Garden]], [[concepts/nature|Nature]], [[motifs/flowers|Flowers]], [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/imagination|Imagination]], [[concepts/artist-and-society|Artist and Society]], [[concepts/natural-order|Natural Order]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/sublime|Sublime]], [[concepts/providence|Providence]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/short-story|Short Story]], [[forms/nonfiction|Nonfiction]]

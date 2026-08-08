@@ -23,11 +23,11 @@ Di G.K. Chesterton
 
 La recente controversia sulla posizione professionale delle donne sposate era parte di una controversia assai più ampia, che non si limita alle donne che esercitano una professione né tantomeno alle donne. Essa comporta una distinzione che i polemisti di entrambe le parti solitamente dimenticano. Per come viene condotta, ruota in gran parte sul quesito se la vita familiare sia ciò che si chiama un «lavoro a [[motifs/time|tempo]] pieno» o un «lavoro a mezzo [[motifs/time|tempo]]». Ma vi è anche un'altra distinzione tra un lavoro intero e mezzo lavoro, o la centesima parte di un lavoro. Essa non ha nulla a che fare con il [[motifs/time|tempo]] che viene occupato, ma soltanto con il terreno che viene coperto. Un esperto d'industria una volta si vantò addirittura che ci volevano venti uomini per fare uno spillo; e [[concepts/hope|spero]] che si sia seduto sullo spillo. Ma l'uomo che faceva la ventesima parte dello spillo non lavorava soltanto per la ventesima parte di un'ora. Poteva perfettamente [[motifs/well|bene]] lavorare per dodici ore... anzi, avrebbe potuto lavorare per ventiquattro ore, per quanto in genere se ne curasse il felice esperto d'industria. Poteva lavorare per l'intera durata di una vita, ma non fece mai uno spillo intero.
 
-Ora, indugiano ancora nel mondo un certo numero di lunatici, tra i quali ho l'[[concepts/honour|onore]] di annoverare me stesso, i quali ritengono cosa buona preservare quanti più lavori interi è possibile. Ci felicitiamo, alla nostra folle maniera, ogni volta che troviamo qualcuno che faccia qualcosa personalmente e per intero. Ci rallegriamo quando troviamo ancora nel mondo casi in cui l'individuo può vedere l'inizio e la fine del proprio lavoro. Siamo [[motifs/well|bene]] consapevoli che ciò è spesso incompatibile con la moderna civiltà scientifica, e questo fatto ci ha talvolta spinti a dire ciò che pensiamo della moderna civiltà scientifica. Ma in ogni caso, che abbiamo ragione o torto, quella è una distinzione importante non sempre ricordata; ed è la distinzione importante che dovrebbe essere ricordata di più, e che meno si ricorda, in questo moderno dibattito sull'occupazione delle donne.
+Ora, indugiano ancora nel mondo un certo numero di lunatici, tra i quali ho l'[[concepts/honour|onore]] di annoverare me stesso, i quali ritengono cosa buona preservare quanti più lavori interi è possibile. Ci felicitiamo, alla nostra folle maniera, ogni volta che troviamo qualcuno che faccia qualcosa personalmente e per intero. Ci rallegriamo quando troviamo ancora nel mondo casi in cui l'individuo può vedere l'inizio e la fine del proprio lavoro. Siamo [[motifs/well|bene]] consapevoli che ciò è spesso incompatibile con la moderna civiltà scientifica, e questo fatto ci ha talvolta spinti a dire ciò che pensiamo della moderna civiltà scientifica. Ma in ogni caso, che abbiamo ragione o torto, quella è una distinzione importante non sempre ricordata; ed è la distinzione importante che dovrebbe essere ricordata di più, e che meno si ricorda, in questo moderno [[debate|dibattito]] sull'occupazione delle donne.
 
 Probabilmente ci deve essere un certo numero di persone che svolgono un lavoro che non portano a termine. Forse ci devono essere alcune persone che svolgono un lavoro che non comprendono. Ma non vogliamo moltiplicare quelle persone all'infinito, per poi coprire il tutto gridando all'emancipazione e all'uguaglianza. Può essere emancipazione permettere a una donna di fare parte di uno spillo, se davvero desidera fare parte di uno spillo. Può essere uguaglianza se è davvero colma di una furiosa [[concepts/jealousy|gelosia]] verso suo marito, che ha il privilegio di fare parte di uno spillo. Ma dubitiamo che sia davvero una conquista più umana fare parte di uno spillo piuttosto che fare per intero un grembiule. E ci spingiamo persino oltre, dubitando che sia più umano fare per intero un grembiule piuttosto che prendersi cura per intero di un [[archetypes/child|bambino]]. Il punto riguardo al «lavoro a mezzo [[motifs/time|tempo]]» della maternità è che esso è almeno uno dei lavori che possono essere considerati come un tutto, e quasi come un fine in sé. Un essere umano è, in un certo senso, un fine in se stesso. Qualunque cosa lo renda felice o nobile d'animo è, sotto Dio, una cosa diretta a un fine ultimo. Non è, come quasi tutti i mestieri e le professioni, un mero meccanismo e un mezzo per un fine. Ed è una cosa che può, per la costituzione della [[concepts/nature|natura]] umana, essere perseguita con un entusiasmo genuino e non comprato. Che sia o no un lavoro a mezzo [[motifs/time|tempo]], non è detto che debba essere un lavoro fatto a metà cuore.
 
-Ora, di fatto, non sono poi molti i lavori che le persone normali e ordinarie possono perseguire con entusiasmo per se stessi. La questione viene generalmente falsata citando i casi eccezionali di specialisti che conseguono il successo. Può esserci una donna talmente appassionata di attraversare la Manica a nuoto da continuare a farlo finché non batte un record. Può esserci, se è per questo, una donna talmente appassionata di scoprire il Polo Nord da continuare a farlo molto dopo che è stato scoperto. Simili successi sensazionali occupano naturalmente grande spazio sui giornali, perché sono casi sensazionali. Ma non sono la questione se le donne siano più libere nella vita professionale o in quella domestica. Per rispondere a quella domanda, dobbiamo supporre che tutti i marinai delle navi della Manica siano donne, che tutti i pescatori della flotta di aringhe siano donne, che tutti i balenieri del Mare del Nord siano donne, e poi considerare se i peggio pagati e più affaticati tra tutti quei lavoratori avessero davvero una vita più felice o più dura. Sarà subito evidente che la grande maggioranza di loro dev'essere sottoposta ad ordini; e che forse una considerevole minoranza di loro sarebbe sottoposta a ordini che non comprende del tutto. Non potrebbe esistere una comunità in cui la donna media fosse al comando di una [[motifs/ship|nave]]. Ma può esistere una comunità in cui la donna media è al comando di una casa.
+Ora, di fatto, non sono poi molti i lavori che le persone normali e ordinarie possono perseguire con entusiasmo per se stessi. La questione viene generalmente falsata citando i casi eccezionali di specialisti che conseguono il [[success|successo]]. Può esserci una donna talmente appassionata di attraversare la Manica a nuoto da continuare a farlo finché non batte un record. Può esserci, se è per questo, una donna talmente appassionata di scoprire il Polo Nord da continuare a farlo molto dopo che è stato scoperto. Simili successi sensazionali occupano naturalmente grande spazio sui giornali, perché sono casi sensazionali. Ma non sono la questione se le donne siano più libere nella vita professionale o in quella domestica. Per rispondere a quella domanda, dobbiamo supporre che tutti i marinai delle navi della Manica siano donne, che tutti i pescatori della flotta di aringhe siano donne, che tutti i balenieri del Mare del Nord siano donne, e poi considerare se i peggio pagati e più affaticati tra tutti quei lavoratori avessero davvero una vita più felice o più dura. Sarà subito evidente che la grande maggioranza di loro dev'essere sottoposta ad ordini; e che forse una considerevole minoranza di loro sarebbe sottoposta a ordini che non comprende del tutto. Non potrebbe esistere una comunità in cui la donna media fosse al comando di una [[motifs/ship|nave]]. Ma può esistere una comunità in cui la donna media è al comando di una [[house|casa]].
 
 Togliere cento donne da cento case e dar loro
 cento navi sarebbe evidentemente impossibile, a meno che tutte le navi
@@ -78,7 +78,7 @@ dèi di fabbrica o santi di fabbrica o folletti di fabbrica.  Potrei sbagliarmi,
 ché non sono un esperto commerciale, ma di essi non ho ancora sentito parlare.
 E pensiamo che la ragione stia nella distinzione che
 feci all'inizio di queste osservazioni.  L'[[concepts/imagination|immaginazione]] e
-l'istinto religioso e il senso umano dell'umorismo hanno libero
+l'istinto religioso e il senso umano dell'[[Humour|umorismo]] hanno libero
 gioco quando la gente ha a che fare con qualcosa che, per quanto piccolo,
 è tondo e completo come un cosmo.
 
@@ -87,7 +87,7 @@ della vita mortale è recitato, non è un ufficio o una bottega o un ministero.
 È qualcosa di assai più piccolo per dimensione e assai più grande per portata.
 E mentre nessuno sarebbe tanto [[archetypes/fool|sciocco]] da pretendere che sia
 l'unico luogo dove la gente dovrebbe lavorare, o persino l'unico luogo
-dove le donne dovrebbero lavorare, esso ha un carattere di unità e universalità
+dove le donne dovrebbero lavorare, esso ha un carattere di [[unity|unità]] e universalità
 che non si trova in nessuna delle esperienze frammentarie della
 divisione del lavoro.
 
@@ -134,7 +134,7 @@ to say what we think about modern scientific civilization.
 But anyhow, whether we are right or wrong, that is an important
 distinction not always remembered; and that is the important
 distinction that ought to be most remembered, and is least remembered,
-in this modern debate about the occupation of women.
+in this modern [[debate]] about the occupation of women.
 
 Probably there must be a certain number of people doing work
 which they do not complete.  Perhaps there must be some people doing
@@ -161,7 +161,7 @@ it is a half-[[motifs/time|time]] job, it need not be a half-hearted job.
 Now, as a matter of fact, there are not so many jobs which normal
 and ordinary people can pursue with enthusiasm for their own sakes.
 The position is generally falsified by quoting the exceptional
-cases of specialists who achieve success.  There may be
+cases of specialists who achieve [[success]].  There may be
 a woman who is so very fond of swimming the Channel that she
 can go on doing it until she breaks a record.  There may be,
 for that matter, a woman who is so fond of discovering the North Pole
@@ -179,7 +179,7 @@ be under orders; and that perhaps a considerable minority of them
 would be under orders which they did not entirely understand.
 There could not be a community in which the average woman was in
 command of a [[motifs/ship|ship]].  But there can be a community in which the average
-woman is in command of a house.
+woman is in command of a [[house]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -191,11 +191,11 @@ Di G.K. Chesterton
 
 La recente controversia sulla posizione professionale delle donne sposate era parte di una controversia assai più ampia, che non si limita alle donne che esercitano una professione né tantomeno alle donne. Essa comporta una distinzione che i polemisti di entrambe le parti solitamente dimenticano. Per come viene condotta, ruota in gran parte sul quesito se la vita familiare sia ciò che si chiama un «lavoro a [[motifs/time|tempo]] pieno» o un «lavoro a mezzo [[motifs/time|tempo]]». Ma vi è anche un'altra distinzione tra un lavoro intero e mezzo lavoro, o la centesima parte di un lavoro. Essa non ha nulla a che fare con il [[motifs/time|tempo]] che viene occupato, ma soltanto con il terreno che viene coperto. Un esperto d'industria una volta si vantò addirittura che ci volevano venti uomini per fare uno spillo; e [[concepts/hope|spero]] che si sia seduto sullo spillo. Ma l'uomo che faceva la ventesima parte dello spillo non lavorava soltanto per la ventesima parte di un'ora. Poteva perfettamente [[motifs/well|bene]] lavorare per dodici ore... anzi, avrebbe potuto lavorare per ventiquattro ore, per quanto in genere se ne curasse il felice esperto d'industria. Poteva lavorare per l'intera durata di una vita, ma non fece mai uno spillo intero.
 
-Ora, indugiano ancora nel mondo un certo numero di lunatici, tra i quali ho l'[[concepts/honour|onore]] di annoverare me stesso, i quali ritengono cosa buona preservare quanti più lavori interi è possibile. Ci felicitiamo, alla nostra folle maniera, ogni volta che troviamo qualcuno che faccia qualcosa personalmente e per intero. Ci rallegriamo quando troviamo ancora nel mondo casi in cui l'individuo può vedere l'inizio e la fine del proprio lavoro. Siamo [[motifs/well|bene]] consapevoli che ciò è spesso incompatibile con la moderna civiltà scientifica, e questo fatto ci ha talvolta spinti a dire ciò che pensiamo della moderna civiltà scientifica. Ma in ogni caso, che abbiamo ragione o torto, quella è una distinzione importante non sempre ricordata; ed è la distinzione importante che dovrebbe essere ricordata di più, e che meno si ricorda, in questo moderno dibattito sull'occupazione delle donne.
+Ora, indugiano ancora nel mondo un certo numero di lunatici, tra i quali ho l'[[concepts/honour|onore]] di annoverare me stesso, i quali ritengono cosa buona preservare quanti più lavori interi è possibile. Ci felicitiamo, alla nostra folle maniera, ogni volta che troviamo qualcuno che faccia qualcosa personalmente e per intero. Ci rallegriamo quando troviamo ancora nel mondo casi in cui l'individuo può vedere l'inizio e la fine del proprio lavoro. Siamo [[motifs/well|bene]] consapevoli che ciò è spesso incompatibile con la moderna civiltà scientifica, e questo fatto ci ha talvolta spinti a dire ciò che pensiamo della moderna civiltà scientifica. Ma in ogni caso, che abbiamo ragione o torto, quella è una distinzione importante non sempre ricordata; ed è la distinzione importante che dovrebbe essere ricordata di più, e che meno si ricorda, in questo moderno [[debate|dibattito]] sull'occupazione delle donne.
 
 Probabilmente ci deve essere un certo numero di persone che svolgono un lavoro che non portano a termine. Forse ci devono essere alcune persone che svolgono un lavoro che non comprendono. Ma non vogliamo moltiplicare quelle persone all'infinito, per poi coprire il tutto gridando all'emancipazione e all'uguaglianza. Può essere emancipazione permettere a una donna di fare parte di uno spillo, se davvero desidera fare parte di uno spillo. Può essere uguaglianza se è davvero colma di una furiosa [[concepts/jealousy|gelosia]] verso suo marito, che ha il privilegio di fare parte di uno spillo. Ma dubitiamo che sia davvero una conquista più umana fare parte di uno spillo piuttosto che fare per intero un grembiule. E ci spingiamo persino oltre, dubitando che sia più umano fare per intero un grembiule piuttosto che prendersi cura per intero di un [[archetypes/child|bambino]]. Il punto riguardo al «lavoro a mezzo [[motifs/time|tempo]]» della maternità è che esso è almeno uno dei lavori che possono essere considerati come un tutto, e quasi come un fine in sé. Un essere umano è, in un certo senso, un fine in se stesso. Qualunque cosa lo renda felice o nobile d'animo è, sotto Dio, una cosa diretta a un fine ultimo. Non è, come quasi tutti i mestieri e le professioni, un mero meccanismo e un mezzo per un fine. Ed è una cosa che può, per la costituzione della [[concepts/nature|natura]] umana, essere perseguita con un entusiasmo genuino e non comprato. Che sia o no un lavoro a mezzo [[motifs/time|tempo]], non è detto che debba essere un lavoro fatto a metà cuore.
 
-Ora, di fatto, non sono poi molti i lavori che le persone normali e ordinarie possono perseguire con entusiasmo per se stessi. La questione viene generalmente falsata citando i casi eccezionali di specialisti che conseguono il successo. Può esserci una donna talmente appassionata di attraversare la Manica a nuoto da continuare a farlo finché non batte un record. Può esserci, se è per questo, una donna talmente appassionata di scoprire il Polo Nord da continuare a farlo molto dopo che è stato scoperto. Simili successi sensazionali occupano naturalmente grande spazio sui giornali, perché sono casi sensazionali. Ma non sono la questione se le donne siano più libere nella vita professionale o in quella domestica. Per rispondere a quella domanda, dobbiamo supporre che tutti i marinai delle navi della Manica siano donne, che tutti i pescatori della flotta di aringhe siano donne, che tutti i balenieri del Mare del Nord siano donne, e poi considerare se i peggio pagati e più affaticati tra tutti quei lavoratori avessero davvero una vita più felice o più dura. Sarà subito evidente che la grande maggioranza di loro dev'essere sottoposta ad ordini; e che forse una considerevole minoranza di loro sarebbe sottoposta a ordini che non comprende del tutto. Non potrebbe esistere una comunità in cui la donna media fosse al comando di una [[motifs/ship|nave]]. Ma può esistere una comunità in cui la donna media è al comando di una casa.
+Ora, di fatto, non sono poi molti i lavori che le persone normali e ordinarie possono perseguire con entusiasmo per se stessi. La questione viene generalmente falsata citando i casi eccezionali di specialisti che conseguono il [[success|successo]]. Può esserci una donna talmente appassionata di attraversare la Manica a nuoto da continuare a farlo finché non batte un record. Può esserci, se è per questo, una donna talmente appassionata di scoprire il Polo Nord da continuare a farlo molto dopo che è stato scoperto. Simili successi sensazionali occupano naturalmente grande spazio sui giornali, perché sono casi sensazionali. Ma non sono la questione se le donne siano più libere nella vita professionale o in quella domestica. Per rispondere a quella domanda, dobbiamo supporre che tutti i marinai delle navi della Manica siano donne, che tutti i pescatori della flotta di aringhe siano donne, che tutti i balenieri del Mare del Nord siano donne, e poi considerare se i peggio pagati e più affaticati tra tutti quei lavoratori avessero davvero una vita più felice o più dura. Sarà subito evidente che la grande maggioranza di loro dev'essere sottoposta ad ordini; e che forse una considerevole minoranza di loro sarebbe sottoposta a ordini che non comprende del tutto. Non potrebbe esistere una comunità in cui la donna media fosse al comando di una [[motifs/ship|nave]]. Ma può esistere una comunità in cui la donna media è al comando di una [[house|casa]].
 
 
 
@@ -251,7 +251,7 @@ factory gods or factory saints or factory fairies.  I may be wrong,
 as I am no commercial expert, but I have not heard of them as yet.
 And we think that the reason lies in the distinction which I
 made at the beginning of these remarks.  The [[concepts/imagination|imagination]] and
-the religious instinct and the human sense of humour have free
+the religious instinct and the human sense of [[Humour|humour]] have free
 play when people are dealing with something which, however small,
 is rounded and complete like a cosmos.
 
@@ -260,7 +260,7 @@ of mortal life is acted, is not an office or a shop or a bureau.
 It is something much smaller in size and much larger in scope.
 And while nobody would be such a [[archetypes/fool|fool]] as to pretend that it is
 the only place where people should work, or even the only place
-where women should work, it has a character of unity and universality
+where women should work, it has a character of [[unity]] and universality
 that is not found in any of the fragmentary experiences of the
 division of labour.
 
@@ -318,7 +318,7 @@ dèi di fabbrica o santi di fabbrica o folletti di fabbrica.  Potrei sbagliarmi,
 ché non sono un esperto commerciale, ma di essi non ho ancora sentito parlare.
 E pensiamo che la ragione stia nella distinzione che
 feci all'inizio di queste osservazioni.  L'[[concepts/imagination|immaginazione]] e
-l'istinto religioso e il senso umano dell'umorismo hanno libero
+l'istinto religioso e il senso umano dell'[[Humour|umorismo]] hanno libero
 gioco quando la gente ha a che fare con qualcosa che, per quanto piccolo,
 è tondo e completo come un cosmo.
 
@@ -327,7 +327,7 @@ della vita mortale è recitato, non è un ufficio o una bottega o un ministero.
 È qualcosa di assai più piccolo per dimensione e assai più grande per portata.
 E mentre nessuno sarebbe tanto [[archetypes/fool|sciocco]] da pretendere che sia
 l'unico luogo dove la gente dovrebbe lavorare, o persino l'unico luogo
-dove le donne dovrebbero lavorare, esso ha un carattere di unità e universalità
+dove le donne dovrebbero lavorare, esso ha un carattere di [[unity|unità]] e universalità
 che non si trova in nessuna delle esperienze frammentarie della
 divisione del lavoro.
 

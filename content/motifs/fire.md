@@ -41,68 +41,68 @@ tags:
 - [[works/thursday-(chesterton)|thursday (Chesterton)]]
 - [[works/to-frances-(chesterton)|to-frances (Chesterton)]]
 - [[works/wifrb11-(chesterton)|wifrb11 (Chesterton)]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#144_179_8_fire_famine_and_slaughter|179 8 FIRE, FAMINE, AND SLAUGHTER (Coleridge)]]
-- [[testi/coleridge/atomized/dreams-moon#214_a_day-dream|A DAY-DREAM (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#410_a_metrical_accident|A METRICAL ACCIDENT (Coleridge)]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#446_alla_sua_amica|ALLA SUA AMICA (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#190_apologia_pro_vita_sua|APOLOGIA PRO VITA SUA (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#360_epitaph_of_the_present_year_on_the_monument_of_thomas_fuller|EPITAPH OF THE PRESENT YEAR ON THE MONUMENT OF THOMAS FULLER (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#299_forbearance|FORBEARANCE (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#403_iambics|IAMBICS (Coleridge)]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#054_imitated_from_the_welsh|IMITATED FROM THE WELSH (Coleridge)]]
-- [[testi/coleridge/atomized/friendship-tears#362_lines_to_thomas_poole|LINES TO THOMAS POOLE (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#018_monody_on_a_tea-kettle|MONODY ON A TEA-KETTLE (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#407_nonsense_verses|NONSENSE VERSES (Coleridge)]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#420_sir_john_davies_on_the_immortality_of_the_soul|SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL (Coleridge)]]
+- [[works/179-8-fire,-famine,-and-slaughter-(coleridge)|179 8 FIRE, FAMINE, AND SLAUGHTER (Coleridge)]]
+- [[works/a-day-dream-(coleridge)|A DAY-DREAM (Coleridge)]]
+- [[works/a-metrical-accident-(coleridge)|A METRICAL ACCIDENT (Coleridge)]]
+- [[works/alla-sua-amica-(coleridge)|ALLA SUA AMICA (Coleridge)]]
+- [[works/apologia-pro-vita-sua-(coleridge)|APOLOGIA PRO VITA SUA (Coleridge)]]
+- [[works/epitaph-of-the-present-year-on-the-monument-of-thomas-fuller-(coleridge)|EPITAPH OF THE PRESENT YEAR ON THE MONUMENT OF THOMAS FULLER (Coleridge)]]
+- [[works/forbearance-(coleridge)|FORBEARANCE (Coleridge)]]
+- [[works/iambics-(coleridge)|IAMBICS (Coleridge)]]
+- [[works/imitated-from-the-welsh-(coleridge)|IMITATED FROM THE WELSH (Coleridge)]]
+- [[works/lines-to-thomas-poole-(coleridge)|LINES TO THOMAS POOLE (Coleridge)]]
+- [[works/monody-on-a-tea-kettle-(coleridge)|MONODY ON A TEA-KETTLE (Coleridge)]]
+- [[works/nonsense-verses-(coleridge)|NONSENSE VERSES (Coleridge)]]
+- [[works/sir-john-davies-on-the-immortality-of-the-soul-(coleridge)|SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL (Coleridge)]]
 - [[works/sonnet-(coleridge)-(2)|SONNET (Coleridge) (2)]]
-- [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#007_the_nose|THE NOSE (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#228_the_rash_conjurer|THE RASH CONJURER (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#346_to_my_candle|TO MY CANDLE (Coleridge)]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#424_underwoods|UNDERWOODS (Coleridge)]]
+- [[works/the-nose-(coleridge)|THE NOSE (Coleridge)]]
+- [[works/the-rash-conjurer-(coleridge)|THE RASH CONJURER (Coleridge)]]
+- [[works/to-my-candle-(coleridge)|TO MY CANDLE (Coleridge)]]
+- [[works/underwoods-(coleridge)|UNDERWOODS (Coleridge)]]
 - [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
 - [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
 - [[works/great-expectations-(dickens)|Great Expectations (Dickens)]]
 - [[works/hard-times-(dickens)|Hard Times (Dickens)]]
 - [[works/the-cricket-on-the-hearth-(dickens)|The Cricket on the Hearth (Dickens)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1063_ashes_denote_that_fire_was|1063. Ashes denote that Fire was — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0109_by_a_flower_by_a_letter|109. By a flower — By a letter — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1114_the_largest_fire_ever_known|1114. The largest Fire ever known (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1132_the_smouldering_embers_blush|1132. The smouldering embers blush — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1172_the_clouds_their_backs_together_laid|1172. The Clouds their Backs together laid (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1173_the_lightning_is_a_yellow_fork|1173. The Lightning is a yellow Fork (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1286_i_thought_that_nature_was_enough|1286. I thought that nature was enough (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1581_the_farthest_thunder_that_i_heard|1581. The farthest Thunder that I heard (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1748_the_reticent_volcano_keeps|1748. The reticent volcano keeps (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0175_i_have_never_seen_volcanoes|175. I have never seen Volcanoes — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0207_tho_i_get_home_how_late_how_late|207. Tho' I get home how late — how late — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0233_the_lamp_burns_sure_within|233. The Lamp burns sure — within — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0291_how_the_old_mountains_drip_with_sunset|291. How the old Mountains drip with Sunset (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0362_it_struck_me_every_day|362. It struck me — every Day — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0365_dare_you_see_a_soul_at_the_white_heat|365. Dare you see a Soul at the White Heat (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0422_more_life_went_out_when_he_went|422. More Life — went out — when He went (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0469_the_red_blaze_is_the_morning|469. The Red — Blaze — is the Morning — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0530_you_cannot_put_a_fire_out|530. You cannot put a Fire out — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0638_to_my_small_hearth_his_fire_came|638. To my small Hearth His fire came — (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0689_the_zeroes_taught_us_phosphorous|689. The Zeroes — taught us — Phosphorous — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0753_my_soul_accused_me_and_i_quailed|753. My Soul — accused me — And I quailed — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0754_my_life_had_stood_a_loaded_gun|754. My Life had stood — a Loaded Gun — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0854_banish_air_from_air|854. Banish Air from Air — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0871_the_sun_and_moon_must_make_their_haste|871. The Sun and Moon must make their haste — (Dickinson)]]
+- 1063. Ashes denote that Fire was — (Dickinson)
+- 109. By a flower — By a letter — (Dickinson)
+- 1114. The largest Fire ever known (Dickinson)
+- 1132. The smouldering embers blush — (Dickinson)
+- 1172. The Clouds their Backs together laid (Dickinson)
+- 1173. The Lightning is a yellow Fork (Dickinson)
+- 1286. I thought that nature was enough (Dickinson)
+- 1581. The farthest Thunder that I heard (Dickinson)
+- 1748. The reticent volcano keeps (Dickinson)
+- 175. I have never seen Volcanoes — (Dickinson)
+- 207. Tho' I get home how late — how late — (Dickinson)
+- 233. The Lamp burns sure — within — (Dickinson)
+- 291. How the old Mountains drip with Sunset (Dickinson)
+- 362. It struck me — every Day — (Dickinson)
+- 365. Dare you see a Soul at the White Heat (Dickinson)
+- 422. More Life — went out — when He went (Dickinson)
+- 469. The Red — Blaze — is the Morning — (Dickinson)
+- 530. You cannot put a Fire out — (Dickinson)
+- 638. To my small Hearth His fire came — (Dickinson)
+- 689. The Zeroes — taught us — Phosphorous — (Dickinson)
+- 753. My Soul — accused me — And I quailed — (Dickinson)
+- 754. My Life had stood — a Loaded Gun — (Dickinson)
+- 854. Banish Air from Air — (Dickinson)
+- 871. The Sun and Moon must make their haste — (Dickinson)
 - [[works/four-quartets-(eliot)|FOUR QUARTETS (Eliot)]]
 - [[works/ii.-a-game-of-chess-(eliot)|II. A Game of Chess (Eliot)]]
 - [[works/iii.-the-fire-sermon-(eliot)|III. The Fire Sermon (Eliot)]]
-- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#061_iv_there_are_those_who_would_build_the_temple|IV There are those who would build the Temple (Eliot)]]
+- [[works/iv-there-are-those-who-would-build-the-temple-(eliot)|IV There are those who would build the Temple (Eliot)]]
 - [[works/little-gidding-(eliot)|Little Gidding (Eliot)]]
-- [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#047_the_cultivation_of_christmas_trees|The Cultivation of Christmas Trees (Eliot)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#111_a_prophecy_to_george_keats_in_america|A Prophecy to George Keats in America (Keats)]]
+- [[works/the-cultivation-of-christmas-trees-(eliot)|The Cultivation of Christmas Trees (Eliot)]]
+- [[works/a-prophecy-to-george-keats-in-america-(keats)|A Prophecy to George Keats in America (Keats)]]
 - [[works/hyperion-(keats)|Hyperion (Keats)]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#048_ode_to_apollo|Ode to Apollo (Keats)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#126_song_of_four_faeries_-_fire_air_earth_and_water_-|Song of Four Faeries - Fire, Air, Earth, and Water - (Keats)]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#074_sonnet_on_sitting_down_to_read_king_lear_once_again|Sonnet on Sitting Down to Read King Lear Once Again (Keats)]]
-- [[testi/keats/atomized/friendship-tears#019_to_my_brothers|TO MY BROTHERS (Keats)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#110_translation_from_a_sonnet_of_ronsard|Translation from a Sonnet of Ronsard (Keats)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#131_you_say_you_love|You Say You Love (Keats)]]
+- [[works/ode-to-apollo-(keats)|Ode to Apollo (Keats)]]
+- [[works/song-of-four-faeries---fire,-air,-earth,-and-water---(keats)|Song of Four Faeries - Fire, Air, Earth, and Water - (Keats)]]
+- [[works/sonnet-on-sitting-down-to-read-king-lear-once-again-(keats)|Sonnet on Sitting Down to Read King Lear Once Again (Keats)]]
+- [[works/to-my-brothers-(keats)|TO MY BROTHERS (Keats)]]
+- [[works/translation-from-a-sonnet-of-ronsard-(keats)|Translation from a Sonnet of Ronsard (Keats)]]
+- [[works/you-say-you-love-(keats)|You Say You Love (Keats)]]
 - [[works/hop-frog-(poe)|Hop-Frog (Poe)]]
 - [[works/metzengerstein-(poe)|Metzengerstein (Poe)]]
 - [[works/song-(poe)|Song (Poe)]]
@@ -111,21 +111,21 @@ tags:
 - [[works/the-bells-(poe)|The Bells (Poe)]]
 - [[works/the-black-cat-(poe)|The Black Cat (Poe)]]
 - [[works/the-conversation-of-eiros-and-charmion-(poe)|The Conversation of Eiros and Charmion (Poe)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_144|Sonnet 144 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_153|Sonnet 153 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_154|Sonnet 154 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_045|Sonnet 45 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_073|Sonnet 73 (Shakespeare)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#157_a_march_in_the_ranks_hard_prest_and_the_road_unknown|A March in the Ranks Hard-Prest, and the Road Unknown (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#369_a_twilight_song|A Twilight Song (Whitman)]]
-- [[testi/whitman/atomized/heroism-hero-last-stand#345_as_the_greek_s_signal_flame|As the Greek’s Signal Flame (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#152_bivouac_on_a_mountain_side|Bivouac on a Mountain Side (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#154_by_the_bivouac_s_fitful_flame|By the Bivouac’s Fitful Flame (Whitman)]]
-- [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#055_not_heat_flames_up_and_consumes|Not Heat Flames Up and Consumes (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#349_old_age_s_lambent_peaks|Old Age’s Lambent Peaks (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#336_the_dying_veteran|The Dying Veteran (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#220_the_torch|The Torch (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#297_to_those_who_ve_fail_d|To Those Who’ve Fail’d (Whitman)]]
+- Sonnet 144 (Shakespeare)
+- Sonnet 153 (Shakespeare)
+- Sonnet 154 (Shakespeare)
+- Sonnet 45 (Shakespeare)
+- Sonnet 73 (Shakespeare)
+- [[works/a-march-in-the-ranks-hard-prest,-and-the-road-unknown-(whitman)|A March in the Ranks Hard-Prest, and the Road Unknown (Whitman)]]
+- [[works/a-twilight-song-(whitman)|A Twilight Song (Whitman)]]
+- [[works/as-the-greek’s-signal-flame-(whitman)|As the Greek’s Signal Flame (Whitman)]]
+- [[works/bivouac-on-a-mountain-side-(whitman)|Bivouac on a Mountain Side (Whitman)]]
+- [[works/by-the-bivouac’s-fitful-flame-(whitman)|By the Bivouac’s Fitful Flame (Whitman)]]
+- [[works/not-heat-flames-up-and-consumes-(whitman)|Not Heat Flames Up and Consumes (Whitman)]]
+- [[works/old-age’s-lambent-peaks-(whitman)|Old Age’s Lambent Peaks (Whitman)]]
+- [[works/the-dying-veteran-(whitman)|The Dying Veteran (Whitman)]]
+- [[works/the-torch-(whitman)|The Torch (Whitman)]]
+- [[works/to-those-who’ve-fail’d-(whitman)|To Those Who’ve Fail’d (Whitman)]]
 - [[works/the-remarkable-rocket-(wilde)|The Remarkable Rocket (Wilde)]]
 - [[works/the-mind-of-the-maker-(sayers)|The Mind of the Maker (Sayers)]]
 - [[works/a-glimpse-of-the-army-(conan-doyle)|A Glimpse of the Army (Conan Doyle)]]

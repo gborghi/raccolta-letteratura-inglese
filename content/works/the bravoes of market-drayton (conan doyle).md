@@ -45,4 +45,4 @@ tags:
 **Motifs:** [[motifs/blood|Blood]], [[motifs/money-and-gold|Money and Gold]], [[motifs/secrets|Secrets]]
 **Historical References:** [[historical-references/victorian-england|Victorian England]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/london|London]]
-**Archetypes:** [[archetypes/villain|Villain]]
+**Archetypes:** Villain

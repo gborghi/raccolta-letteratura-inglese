@@ -403,7 +403,7 @@ Whose vista is a [[motifs/hill|hill]],
 Behind the [[motifs/hill|hill]] is sorcery  
 And everything unknown,  
 But will the secret compensate  
-For climbing it alone?
+For climbing it [[Alone|alone]]?
 
 
 

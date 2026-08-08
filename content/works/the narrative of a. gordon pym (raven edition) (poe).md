@@ -44,7 +44,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/quest|Quest]], [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/katabasis-descent|Katabasis Descent]]
-**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/quest-hero|Quest Hero]]
+**Archetypes:** Outsider, Quest Hero
 **Motifs:** [[motifs/sea|Sea]], [[motifs/storm|Storm]], [[motifs/journey|Journey]], [[motifs/white-and-red|White and Red]], [[motifs/light-and-dark|Light and Dark]], [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/sublime|Sublime]], [[concepts/uncanny|Uncanny]], [[concepts/survival|Survival]], [[concepts/deception|Deception]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/narrative-poem|Narrative Poem]]

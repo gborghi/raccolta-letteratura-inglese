@@ -16,17 +16,17 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1216_a_deed_knocks_first_at_thought|1216. A Deed knocks first at Thought (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1412_shame_is_the_shawl_of_pink|1412. Shame is the shawl of Pink (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1598_who_is_it_seeks_my_pillow_nights|1598. Who is it seeks my Pillow Nights — (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0041_i_robbed_the_woods|41. I robbed the Woods — (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0672_the_future_never_spoke|672. The Future — never spoke — (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0894_of_consciousness_her_awful_mate|894. Of Consciousness, her awful Mate (Dickinson)]]
+- 1216. A Deed knocks first at Thought (Dickinson)
+- 1412. Shame is the shawl of Pink (Dickinson)
+- 1598. Who is it seeks my Pillow Nights — (Dickinson)
+- 41. I robbed the Woods — (Dickinson)
+- 672. The Future — never spoke — (Dickinson)
+- 894. Of Consciousness, her awful Mate (Dickinson)
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#247_natures_answer|NATURE’S ANSWER (Coleridge)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#116_sonnet_to_sleep|Sonnet to Sleep (Keats)]]
+- [[works/nature’s-answer-(coleridge)|NATURE’S ANSWER (Coleridge)]]
+- [[works/sonnet-to-sleep-(keats)|Sonnet to Sleep (Keats)]]
 - [[works/the-elder-statesman-(eliot)|THE ELDER STATESMAN (Eliot)]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#218_the_pains_of_sleep|THE PAINS OF SLEEP (Coleridge)]]
+- [[works/the-pains-of-sleep-(coleridge)|THE PAINS OF SLEEP (Coleridge)]]
 
 </div>

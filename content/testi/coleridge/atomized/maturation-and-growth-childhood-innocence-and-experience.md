@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience" data-author="Coleridge" data-workhref="works/maturation-and-growth-·-childhood-·-innocence-and-experience-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="030_sonnet_on_quitting_school_for_college" data-title="SONNET: ON QUITTING SCHOOL FOR COLLEGE" data-chapter="" data-kind="intro" data-tags="concept/nostalgia,concept/childhood_and_growth,concept/innocence_and_experience,concept/grief_and_loss,concept/education,form/sonnet,cluster/maturation_and_growth,cluster/childhood,cluster/innocence_and_experience"></span>
+<span class="atom-split" data-atom="030_sonnet_on_quitting_school_for_college" data-title="SONNET: ON QUITTING SCHOOL FOR COLLEGE" data-chapter="" data-kind="intro"></span>
 
 
 Farewell parental scenes! a sad farewell!  
@@ -33,7 +33,7 @@ Mingled its [[motifs/tears|tears]] with hers — my widow’d Parent lorn.
 
 
 
-<span class="atom-split" data-atom="096_to_an_infant" data-title="TO AN INFANT" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/childhood,concept/innocence_and_experience,concept/childhood_and_growth,concept/faith,form/lyric,cluster/maturation_and_growth,cluster/childhood,cluster/innocence_and_experience"></span>
+<span class="atom-split" data-atom="096_to_an_infant" data-title="TO AN INFANT" data-chapter="" data-kind="intro"></span>
 
 
 Ah! cease thy [[motifs/tears|tears]] and sobs, my little Life!  
@@ -67,7 +67,7 @@ Meek [[characters/nurse|nurse]] of souls through their long Infancy!
 
 
 
-<span class="atom-split" data-atom="120_sonnet_to_a_friend_who_asked_how_i_felt_when_the_nurse_first_presented_my_infant" data-title="SONNET: TO A FRIEND WHO ASKED, HOW I FELT WHEN THE NURSE FIRST PRESENTED MY INFANT TO ME" data-chapter="" data-kind="intro" data-tags="archetype/child,archetype/great_mother,motif/childhood,concept/love_romantic,concept/childhood_and_growth,form/sonnet,cluster/maturation_and_growth,cluster/childhood,cluster/innocence_and_experience"></span>
+<span class="atom-split" data-atom="120_sonnet_to_a_friend_who_asked_how_i_felt_when_the_nurse_first_presented_my_infant" data-title="SONNET: TO A FRIEND WHO ASKED, HOW I FELT WHEN THE NURSE FIRST PRESENTED MY INFANT TO ME" data-chapter="" data-kind="intro"></span>
 
 
 Charles! my slow heart was only sad, when first  
@@ -89,7 +89,7 @@ And dearer was the mother for the [[archetypes/child|child]].
 
 
 
-<span class="atom-split" data-atom="132_on_the_christening_of_a_friends_child" data-title="ON THE CHRISTENING OF A FRIEND’S CHILD" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/rose,concept/childhood_and_growth,concept/faith,concept/mortality,form/lyric,cluster/maturation_and_growth,cluster/childhood,cluster/innocence_and_experience"></span>
+<span class="atom-split" data-atom="132_on_the_christening_of_a_friends_child" data-title="ON THE CHRISTENING OF A FRIEND’S CHILD" data-chapter="" data-kind="intro"></span>
 
 
 This day among the faithful plac’d  
@@ -106,7 +106,7 @@ From mystic grove and living cell,
 Confess’d to Fancy’s eye;  
 Meek Quietness without offence;  
 Content in homespun kirtle;  
-True [[motifs/love|Love]]; and True [[motifs/love|Love]]’s Innocence,   15  
+True [[motifs/love|Love]]; and True [[motifs/love|Love]]’s [[innocence|Innocence]],   15  
 White Blossom of the Myrtle!  
 Associates of thy name, sweet [[archetypes/child|Child]]!  
 These Virtues may’st thou win;  
@@ -137,7 +137,7 @@ Another and the same!   40
 
 
 
-<span class="atom-split" data-atom="146_frost_at_midnight" data-title="FROST AT MIDNIGHT" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,archetype/child,motif/nature,motif/memory,motif/winter,concept/childhood_and_growth,concept/faith,form/blank_verse,cluster/maturation_and_growth,cluster/childhood,cluster/innocence_and_experience"></span>
+<span class="atom-split" data-atom="146_frost_at_midnight" data-title="FROST AT MIDNIGHT" data-chapter="" data-kind="intro"></span>
 
 
 The [[motifs/frost|Frost]] performs its secret ministry,  
@@ -220,7 +220,7 @@ February, 1798.
 
 
 
-<span class="atom-split" data-atom="229_a_childs_evening_prayer" data-title="A CHILD’S EVENING PRAYER" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/prayer,motif/childhood,motif/sleep,concept/faith,concept/innocence_and_experience,concept/childhood_and_growth,form/hymn,histref/christianity,cluster/maturation_and_growth,cluster/childhood,cluster/innocence_and_experience"></span>
+<span class="atom-split" data-atom="229_a_childs_evening_prayer" data-title="A CHILD’S EVENING PRAYER" data-chapter="" data-kind="intro"></span>
 
 
 Ere on my bed my limbs I lay,  
@@ -244,7 +244,7 @@ Awake to thy eternal day! Amen.
 
 
 
-<span class="atom-split" data-atom="230_metrical_feet" data-title="METRICAL FEET" data-chapter="" data-kind="intro" data-tags="archetype/child,concept/education,concept/the_artist_and_society,concept/childhood_and_growth,concept/love_divine,form/epigram,cluster/maturation_and_growth,cluster/childhood,cluster/innocence_and_experience"></span>
+<span class="atom-split" data-atom="230_metrical_feet" data-title="METRICAL FEET" data-chapter="" data-kind="intro"></span>
 
 
 LESSON FOR A BOY  
@@ -272,7 +272,7 @@ See a man who so loves you as your fond S. T. COLERIDGE.
 
 
 
-<span class="atom-split" data-atom="376_to_baby_bates" data-title="TO BABY BATES" data-chapter="" data-kind="intro" data-tags="motif/childhood,concept/childhood_and_growth,concept/love_divine,concept/poverty,form/lyric,form/song,histref/the_bible,cluster/maturation_and_growth,cluster/childhood,cluster/innocence_and_experience"></span>
+<span class="atom-split" data-atom="376_to_baby_bates" data-title="TO BABY BATES" data-chapter="" data-kind="intro"></span>
 
 
 You come from o’er the waters,  
@@ -293,14 +293,14 @@ Close your little peeping eye,
 Bonny Baby B —— s.  
 First collected 1893. ‘Baby Bates’ was the daughter of Joshua Bates, one  
 of the donors of the Boston Library. Her father and mother passed a year  
-(1828-1829) at Highgate, ‘close to the house of Dr. and Mrs. Gillman.’  
+(1828-1829) at Highgate, ‘close to the [[house]] of Dr. and Mrs. Gillman.’  
 See a letter to Mrs. Bates from S. T. C. dated Jan. 23, 1829. N. and  
 Q. 4th Series, i. 469.  
 
 
 
 
-<span class="atom-split" data-atom="377_to_a_child" data-title="TO A CHILD" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/childhood,concept/childhood_and_growth,concept/joy,concept/innocence_and_experience,form/lyric,form/epigram,cluster/maturation_and_growth,cluster/childhood,cluster/innocence_and_experience"></span>
+<span class="atom-split" data-atom="377_to_a_child" data-title="TO A CHILD" data-chapter="" data-kind="intro"></span>
 
 
 Little Miss Fanny,  

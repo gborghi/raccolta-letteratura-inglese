@@ -39,11 +39,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/king|King]]
+**Archetypes:** King
 
 **Topoi:** [[topoi/golden-age|Golden Age]], [[topoi/immortality-through-verse|Immortality Through Verse]]
 
-**Characters:** [[characters/old-king-cole|Old King Cole]]
+**Characters:** Old King Cole
 
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/music-and-song|Music and Song]], [[motifs/crown|Crown]], [[motifs/sea|Sea]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Themes & Concepts:** [[concepts/joy|Joy]], [[concepts/imagination|Imagination]], [[concepts/mortality|Mortality]], [[concepts/literary-criticism-(2)|Literary Criticism (2)]]

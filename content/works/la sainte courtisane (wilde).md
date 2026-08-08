@@ -61,13 +61,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/contemptus-mundi|Contemptus Mundi]], [[topoi/love-as-religion|Love as Religion]], [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/temptress|Temptress]], [[archetypes/pilgrim|Pilgrim]]
+**Archetypes:** Femme Fatale, (Reputed) Fallen Woman, Temptress, Pilgrim
 **Motifs:** [[motifs/cross|Cross]], [[motifs/desire|Desire]], [[motifs/death|Death]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/money-and-gold|Money and Gold]], [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/conversion|Conversion]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/temptation|Temptation]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/martyrdom|Martyrdom]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/fragment|Fragment]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/classical-antiquity|Classical Antiquity]]
 **Settings:** [[settings/egypt|Egypt]]
-**Characters:** [[characters/christ|Christ]], [[characters/myrrhina|Myrrhina]], [[characters/honorius|Honorius]]
+**Characters:** Christ, Myrrhina, Honorius
 
 ## Testo integrale / Full text
 

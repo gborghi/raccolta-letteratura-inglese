@@ -45,9 +45,9 @@ tags:
 
 **Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 
-**Characters:** [[characters/francis-xavier|Francis Xavier]]
+**Characters:** Francis Xavier
 
-**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/pilgrim|Pilgrim]]
+**Archetypes:** Martyr Saint, Pilgrim
 **Motifs:** [[motifs/stars|Stars]], [[motifs/dust|Dust]], [[motifs/cross|Cross]], [[motifs/light-and-dark|Light and Dark]], [[motifs/time|Time]]
 **Themes & Concepts:** [[concepts/martyrdom|Martyrdom]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/providence|Providence]], [[concepts/divine-love|Divine Love]], [[concepts/heroism|Heroism]], [[concepts/vanity-of-worldly-things|Vanity of Worldly Things]], [[concepts/unseen-the-hidden|Unseen The Hidden]], [[concepts/self-sacrifice|Self-Sacrifice]]
 **Forms & Genres:** [[forms/spenserian-stanza|Spenserian Stanza]], [[forms/lyric|Lyric]], [[forms/elegy|Elegy]]

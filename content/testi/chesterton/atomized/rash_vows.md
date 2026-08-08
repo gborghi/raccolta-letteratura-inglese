@@ -30,7 +30,7 @@ Versione abbreviata di un capitolo del libro di Chesterton The Defendant.
 Se un prospero uomo moderno, con cilindro e finanziera,
 si impegnasse solennemente dinanzi a tutti i suoi impiegati e amici
 a contare le [[motifs/leaves|foglie]] di ogni terzo albero di Holland Walk, a saltellare
-fino alla [[motifs/city|City]] su una gamba sola ogni giovedì, a ripetere l'intera
+fino alla [[motifs/city|City]] su una gamba sola ogni [[thursday|giovedì]], a ripetere l'intera
 ‘Libertà' di Mill settantasei volte, a raccogliere 300 denti di leone
 in campi appartenenti a chiunque porti il nome di Brown, a rimanere
 per trentun ore tenendo l'orecchio sinistro nella mano destra, a cantare
@@ -130,7 +130,7 @@ fino a una rivolta contro il voto tipico, quello del [[motifs/marriage|matrimoni
 È quanto mai divertente ascoltare gli avversari del [[motifs/marriage|matrimonio]] su questo tema.
 Sembrano immaginare che l'ideale della costanza sia un giogo
 misteriosamente imposto all'umanità dal diavolo, invece di essere,
-com'è, un giogo che tutti gli amanti impongono coerentemente a se stessi.
+com'è, un giogo che tutti gli [[lovers|amanti]] impongono coerentemente a se stessi.
 Hanno inventato una frase, una frase che è una netta
 contraddizione in due parole — 'libero amore' — come se un amante
 fosse mai stato, o potesse mai essere, libero.  È nella natura dell'amore
@@ -191,7 +191,7 @@ An abridged version of a chapter in Chesterton's book The Defendant.
 If a prosperous modern man, with a high hat and a frock-coat,
 were to solemnly pledge himself before all his clerks and friends
 to count the [[motifs/leaves|leaves]] on every third tree in Holland Walk, to hop
-up to the [[motifs/city|City]] on one leg every Thursday, to repeat the whole
+up to the [[motifs/city|City]] on one leg every [[thursday|Thursday]], to repeat the whole
 of Mill's ‘Liberty' seventy-six times, to collect 300 dandelions
 in fields belonging to anyone of the name of Brown, to remain
 for thirty-one hours holding his left ear in his right hand, to sing
@@ -286,7 +286,7 @@ Versione abbreviata di un capitolo del libro di Chesterton The Defendant.
 Se un prospero uomo moderno, con cilindro e finanziera,
 si impegnasse solennemente dinanzi a tutti i suoi impiegati e amici
 a contare le [[motifs/leaves|foglie]] di ogni terzo albero di Holland Walk, a saltellare
-fino alla [[motifs/city|City]] su una gamba sola ogni giovedì, a ripetere l'intera
+fino alla [[motifs/city|City]] su una gamba sola ogni [[thursday|giovedì]], a ripetere l'intera
 ‘Libertà' di Mill settantasei volte, a raccogliere 300 denti di leone
 in campi appartenenti a chiunque porti il nome di Brown, a rimanere
 per trentun ore tenendo l'orecchio sinistro nella mano destra, a cantare
@@ -391,7 +391,7 @@ the extent of a revolt against the typical vow of [[motifs/marriage|marriage]].
 It is most amusing to listen to the opponents of [[motifs/marriage|marriage]] on this subject.
 They appear to imagine that the ideal of constancy was a yoke
 mysteriously imposed on mankind by the devil, instead of being,
-as it is, a yoke consistently imposed by all lovers on themselves.
+as it is, a yoke consistently imposed by all [[lovers]] on themselves.
 They have invented a phrase, a phrase that is a black and white
 contradiction in two words--‘free-love'--as if a lover ever
 had been, or ever could be, free.  It is the nature of love
@@ -458,7 +458,7 @@ fino a una rivolta contro il voto tipico, quello del [[motifs/marriage|matrimoni
 È quanto mai divertente ascoltare gli avversari del [[motifs/marriage|matrimonio]] su questo tema.
 Sembrano immaginare che l'ideale della costanza sia un giogo
 misteriosamente imposto all'umanità dal diavolo, invece di essere,
-com'è, un giogo che tutti gli amanti impongono coerentemente a se stessi.
+com'è, un giogo che tutti gli [[lovers|amanti]] impongono coerentemente a se stessi.
 Hanno inventato una frase, una frase che è una netta
 contraddizione in due parole — 'libero amore' — come se un amante
 fosse mai stato, o potesse mai essere, libero.  È nella natura dell'amore

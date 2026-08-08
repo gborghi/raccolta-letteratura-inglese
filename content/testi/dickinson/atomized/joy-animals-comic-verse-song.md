@@ -103,7 +103,7 @@ This — the signal woe!
 These are the patient "Laureates"  
 Whose voices — trained — below —  
 
-Ascend in ceaseless Carol —  
+Ascend in ceaseless [[carol|Carol]] —  
 Inaudible, indeed,  
 To us — the duller scholars  
 Of the Mysterious Bard!
@@ -712,7 +712,7 @@ If he is caught at all —
 
 The Bat is dun, with wrinkled Wings —  
 Like fallow Article —  
-And not a song pervade his Lips —  
+And not a [[Song|song]] pervade his Lips —  
 Or none perceptible.  
 
 His small Umbrella quaintly halved  

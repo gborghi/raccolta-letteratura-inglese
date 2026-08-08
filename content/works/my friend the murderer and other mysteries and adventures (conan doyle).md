@@ -39,5 +39,5 @@ tags:
 **Themes & Concepts:** [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/revenge|Revenge]], [[concepts/deception|Deception]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/terror-and-horror|Terror and Horror]]
 **Motifs:** [[motifs/journey|Journey]], [[motifs/ship|Ship]], [[motifs/money-and-gold|Money and Gold]], [[motifs/secrets|Secrets]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Settings:** [[settings/australia|Australia]], [[settings/american-frontier|American Frontier]]
-**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/outsider|Outsider]], [[archetypes/trickster|Trickster]]
+**Archetypes:** Villain, Outsider, Trickster
 **Topoi:** [[topoi/journey-of-life|Journey of Life]]

@@ -38,4 +38,4 @@ tags:
 **Motifs:** [[motifs/ship|Ship]], [[motifs/sea|Sea]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/first-world-war|First World War]]
 **Settings:** [[settings/london|London]], [[motifs/ship|Ship]]
-**Archetypes:** [[archetypes/villain|Villain]]
+**Archetypes:** Villain

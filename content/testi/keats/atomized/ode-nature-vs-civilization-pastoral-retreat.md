@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat" data-author="Keats" data-workhref="works/ode-·-nature-vs-civilization-·-pastoral-retreat-(keats)"></div>
 
 
-<span class="atom-split" data-atom="018_o_solitude_if_i_must_with_thee_dwell" data-title="O SOLITUDE! IF I MUST WITH THEE DWELL" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/the_city,motif/nature,concept/nature_vs_civilization,concept/friendship,form/sonnet,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="018_o_solitude_if_i_must_with_thee_dwell" data-title="O SOLITUDE! IF I MUST WITH THEE DWELL" data-chapter="" data-kind="intro"></span>
 
 
 O [[concepts/solitude|Solitude]]! if I must with thee dwell,  
@@ -32,7 +32,7 @@ Almost the highest bliss of human-kind,
 
 
 
-<span class="atom-split" data-atom="021_to_one_who_has_been_long_in_city_pent" data-title="TO ONE WHO HAS BEEN LONG IN CITY PENT" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/the_city,concept/nature_vs_civilization,concept/transience,form/sonnet,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="021_to_one_who_has_been_long_in_city_pent" data-title="TO ONE WHO HAS BEEN LONG IN CITY PENT" data-chapter="" data-kind="intro"></span>
 
 
 To one who has been long in [[motifs/city|city]] pent,  
@@ -53,7 +53,7 @@ E’en like the passage of an angel’s tear
 
 
 
-<span class="atom-split" data-atom="026_on_the_grasshopper_and_cricket" data-title="ON THE GRASSHOPPER AND CRICKET" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/seasons,motif/music_and_song,form/sonnet,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="026_on_the_grasshopper_and_cricket" data-title="ON THE GRASSHOPPER AND CRICKET" data-chapter="" data-kind="intro"></span>
 
 
 The poetry of earth is never dead:  
@@ -67,7 +67,7 @@ He rests at ease beneath some pleasant weed.
 The poetry of earth is ceasing never:  
   On a lone [[motifs/winter|winter]] evening, when the [[motifs/frost|frost]]  
     Has wrought a [[motifs/silence|silence]], from the stove there shrills  
-The Cricket’s song, in warmth increasing ever,  
+The Cricket’s [[Song|song]], in warmth increasing ever,  
   And seems to one in drowsiness half lost,  
     The Grasshopper’s among some grassy hills.  
 
@@ -76,7 +76,7 @@ December 30, 1816.
 
 
 
-<span class="atom-split" data-atom="034_ode_to_psyche" data-title="ODE TO PSYCHE" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/imagination,concept/love_romantic,concept/paganism_and_classical_revival,form/ode,histref/greek_mythology,setting/an_enchanted_wood,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="034_ode_to_psyche" data-title="ODE TO PSYCHE" data-chapter="" data-kind="intro"></span>
 
 
 O Goddess! hear these tuneless numbers, wrung  
@@ -153,7 +153,7 @@ To let the warm [[motifs/love|Love]] in!
 
 
 
-<span class="atom-split" data-atom="040_ode_on_melancholy" data-title="ODE ON MELANCHOLY" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/melancholy,concept/joy,concept/transience,concept/mortality,concept/beauty,concept/paradox,form/ode,histref/greek_mythology,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="040_ode_on_melancholy" data-title="ODE ON MELANCHOLY" data-chapter="" data-kind="intro"></span>
 
 
 No, no, go not to Lethe, neither twist  
@@ -192,7 +192,7 @@ And be among her cloudy trophies hung.  30
 
 
 
-<span class="atom-split" data-atom="054_stanzas_to_miss_wylie" data-title="Stanzas to Miss Wylie" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,topos/pastoral_retreat,archetype/lover,motif/nature,motif/flowers,motif/garden,concept/love_romantic,form/lyric,setting/pastoral_countryside,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="054_stanzas_to_miss_wylie" data-title="Stanzas to Miss Wylie" data-chapter="" data-kind="intro"></span>
 
 
 O come Georgiana!’ the [[motifs/rose|rose]] is full blown,  
@@ -220,7 +220,7 @@ With [[motifs/love|love]] looking eyes, and with voice sweetly bland. 20
 
 
 
-<span class="atom-split" data-atom="055_sonnet_oh_how_i_love_on_a_fair_summers_eve" data-title="Sonnet: Oh! how I love, on a fair summer’s eve" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,topos/poet_as_prophet,motif/nature,motif/light_and_dark,concept/imagination,concept/nationalism_and_patriotism,form/sonnet,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="055_sonnet_oh_how_i_love_on_a_fair_summers_eve" data-title="Sonnet: Oh! how I love, on a fair summer’s eve" data-chapter="" data-kind="intro"></span>
 
 
 Oh! how I [[motifs/love|love]], on a fair [[motifs/summer|summer]]’s eve,  
@@ -242,7 +242,7 @@ When some melodious sorrow spells mine eyes.
 
 
 
-<span class="atom-split" data-atom="066_sonnet_on_leigh_hunts_poem_the_story_of_rimini" data-title="Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,topos/book_of_nature,motif/nature,motif/stars,motif/birds,motif/moon,concept/imagination,form/sonnet,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="066_sonnet_on_leigh_hunts_poem_the_story_of_rimini" data-title="Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’" data-chapter="" data-kind="intro"></span>
 
 
 Who loves to peer up at the morning sun,  
@@ -264,7 +264,7 @@ Where robins hop, and fallen [[motifs/leaves|leaves]] are sear.
 
 
 
-<span class="atom-split" data-atom="092_teignmouth" data-title="Teignmouth" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,topos/beatus_ille,motif/nature,motif/flowers,concept/nature_vs_civilization,form/song,setting/rural_england,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="092_teignmouth" data-title="Teignmouth" data-chapter="" data-kind="intro"></span>
 
 
 ‘Some doggerel’ sent in a letter to B. R. Haydon  

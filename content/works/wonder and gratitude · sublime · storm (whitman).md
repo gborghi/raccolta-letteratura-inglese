@@ -37,24 +37,24 @@ tags:
 
 Raccolta tematica di 18 componimenti di Walt Whitman.
 
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#128_a_child_s_amaze|A Child’s Amaze]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#262_a_riddle_song|A Riddle Song]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#358_an_ended_day|An Ended Day]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#241_assurances|Assurances]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#010_beginning_my_studies|Beginning My Studies]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#071_earth_my_likeness|Earth, My Likeness]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#116_gods|Gods]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#211_miracles|Miracles]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#131_mother_and_babe|Mother and Babe]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#366_old_chants|Old Chants]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#111_patroling_barnegat|Patroling Barnegat]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#147_rise_o_days_from_your_fathomless_deeps|Rise O Days from Your Fathomless Deeps]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#281_song_at_sunset|Song at Sunset]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#200_the_singer_in_the_prison|The Singer in the Prison]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#377_the_unexpress_d|The Unexpress’d]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#258_to_a_locomotive_in_winter|To a Locomotive in Winter]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#218_who_learns_my_lesson_complete|Who Learns My Lesson Complete?]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#239_yet_yet_ye_downcast_hours|Yet, Yet, Ye Downcast Hours]]
+- A Child’s Amaze
+- [[works/a-riddle-song-(whitman)|A Riddle Song]]
+- An Ended Day
+- [[works/assurances-(whitman)|Assurances]]
+- [[works/beginning-my-studies-(whitman)|Beginning My Studies]]
+- [[works/earth,-my-likeness-(whitman)|Earth, My Likeness]]
+- [[works/gods-(whitman)|Gods]]
+- [[works/miracles-(whitman)|Miracles]]
+- Mother and Babe
+- [[works/old-chants-(whitman)|Old Chants]]
+- [[works/patroling-barnegat-(whitman)|Patroling Barnegat]]
+- [[works/rise-o-days-from-your-fathomless-deeps-(whitman)|Rise O Days from Your Fathomless Deeps]]
+- [[works/song-at-sunset-(whitman)|Song at Sunset]]
+- [[works/the-singer-in-the-prison-(whitman)|The Singer in the Prison]]
+- [[works/the-unexpress’d-(whitman)|The Unexpress’d]]
+- [[works/to-a-locomotive-in-winter-(whitman)|To a Locomotive in Winter]]
+- [[works/who-learns-my-lesson-complete-(whitman)|Who Learns My Lesson Complete?]]
+- [[works/yet,-yet,-ye-downcast-hours-(whitman)|Yet, Yet, Ye Downcast Hours]]
 
 ## Testo / Text
 

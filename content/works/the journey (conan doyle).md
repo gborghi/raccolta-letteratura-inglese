@@ -38,5 +38,5 @@ tags:
 **Motifs:** [[motifs/journey|Journey]], [[motifs/road|Road]], [[motifs/well|Well]]
 **Historical References:** [[historical-references/christianity|Christianity]]
 **Settings:** [[settings/mountains|Mountains]]
-**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]], [[archetypes/mentor|Mentor]]
+**Archetypes:** Pilgrim, Wise Old Man Sage, Mentor
 **Topoi:** [[topoi/journey-of-life|Journey of Life]], [[topoi/open-road-homecoming|Open Road Homecoming]]

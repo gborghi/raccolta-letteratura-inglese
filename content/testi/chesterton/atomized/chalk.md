@@ -26,9 +26,9 @@ Trascritto da John Ainsworth ainsje00@wfu.edu
 (Pubblicato in «Tremendous Trifles», Methuen and Co Ltd, [[settings/london|Londra]], 1909.
 Apparso originariamente sul DAILY NEWS, 4 novembre 1905.)
 
-Ricordo uno splendido mattino, tutto azzurro e argento, durante le vacanze [[motifs/summer|estive]], in cui a malincuore mi strappai dal compito di non far nulla in particolare, mi misi un cappello di qualche foggia, presi un bastone da passeggio e infilai in tasca sei gessetti dai colori assai vivaci. Entrai poi nella cucina (che, insieme al resto della casa, apparteneva a una donna assai quadrata e assennata di un villaggio del Sussex), e chiesi alla proprietaria e occupante della cucina se avesse della carta da pacchi. Ne aveva in gran quantità; anzi, ne aveva troppa; e fraintese lo scopo e la ragion d'essere della carta da pacchi. Pareva avere l'idea che, se una persona voleva della carta da pacchi, doveva volerne per legare pacchi; il che era l'ultima cosa che desiderassi fare; è anzi una cosa che ho scoperto essere al di là delle mie capacità mentali. Perciò ella si soffermò a lungo sulle diverse qualità di robustezza e [[concepts/endurance|resistenza]] del materiale. Le spiegai che volevo soltanto disegnarci sopra, e che non desideravo affatto che durasse; e che dal mio punto di vista, dunque, non era questione di tenace consistenza, ma di superficie recettiva, cosa relativamente irrilevante in un pacco. Quando comprese che volevo disegnare, si offrì di sommergermi di carta da lettere, supponendo evidentemente che facessi i miei appunti e la mia corrispondenza su vecchi involucri di carta da pacchi per motivi di economia.
+Ricordo uno splendido mattino, tutto azzurro e argento, durante le vacanze [[motifs/summer|estive]], in cui a malincuore mi strappai dal compito di non far nulla in particolare, mi misi un cappello di qualche foggia, presi un bastone da passeggio e infilai in tasca sei gessetti dai colori assai vivaci. Entrai poi nella cucina (che, insieme al resto della [[house|casa]], apparteneva a una donna assai quadrata e assennata di un villaggio del Sussex), e chiesi alla proprietaria e occupante della cucina se avesse della carta da pacchi. Ne aveva in gran quantità; anzi, ne aveva troppa; e fraintese lo scopo e la ragion d'essere della carta da pacchi. Pareva avere l'idea che, se una persona voleva della carta da pacchi, doveva volerne per legare pacchi; il che era l'ultima cosa che desiderassi fare; è anzi una cosa che ho scoperto essere al di là delle mie capacità mentali. Perciò ella si soffermò a lungo sulle diverse qualità di robustezza e [[concepts/endurance|resistenza]] del materiale. Le spiegai che volevo soltanto disegnarci sopra, e che non desideravo affatto che durasse; e che dal mio punto di vista, dunque, non era questione di tenace consistenza, ma di superficie recettiva, cosa relativamente irrilevante in un pacco. Quando comprese che volevo disegnare, si offrì di sommergermi di carta da lettere, supponendo evidentemente che facessi i miei appunti e la mia corrispondenza su vecchi involucri di carta da pacchi per motivi di economia.
 
-Cercai allora di spiegare la sfumatura logica piuttosto delicata: che non solo mi piace la carta da pacchi, ma mi piaceva la qualità della bruneità nella carta, proprio come mi piaceva la qualità della bruneità nei boschi d'ottobre, o nella birra, o nei ruscelli torbosi del Nord. La carta da pacchi rappresenta il crepuscolo primordiale della prima fatica della creazione, e con uno o due [[motifs/chalk|gessetti]] dai colori vivaci vi si possono far spiccare punti di [[motifs/fire|fuoco]], scintille d'oro, e rosso [[motifs/blood|sangue]], e verde marino, come le prime feroci [[motifs/stars|stelle]] che balzarono fuori dalla divina oscurità. Tutto questo dissi (con noncuranza) alla vecchia; e riposi in tasca la carta da pacchi insieme ai gessetti, e forse ad altre cose. Suppongo che ognuno debba aver riflettuto su quanto siano primordiali e poetiche le cose che si portano in tasca; il temperino, per esempio, il prototipo di tutti gli utensili umani, l'infante della spada. Un tempo progettai di scrivere un libro di poesie interamente sulle cose che avevo in tasca. Ma scoprii che era troppo lungo e che l'età dei grandi poemi epici è tramontata.
+Cercai allora di spiegare la sfumatura logica piuttosto delicata: che non solo mi piace la carta da pacchi, ma mi piaceva la qualità della bruneità nella carta, proprio come mi piaceva la qualità della bruneità nei boschi d'ottobre, o nella birra, o nei ruscelli torbosi del Nord. La carta da pacchi rappresenta il crepuscolo primordiale della prima fatica della creazione, e con uno o due [[motifs/chalk|gessetti]] dai colori vivaci vi si possono far spiccare punti di [[motifs/fire|fuoco]], scintille d'oro, e rosso [[motifs/blood|sangue]], e verde marino, come le prime feroci [[motifs/stars|stelle]] che balzarono fuori dalla divina oscurità. Tutto questo dissi (con noncuranza) alla vecchia; e riposi in tasca la carta da pacchi insieme ai gessetti, e forse ad altre cose. Suppongo che ognuno debba aver riflettuto su quanto siano primordiali e poetiche le cose che si portano in tasca; il temperino, per esempio, il prototipo di tutti gli utensili umani, l'infante della [[Sword|spada]]. Un tempo progettai di scrivere un libro di [[Poems|poesie]] interamente sulle cose che avevo in tasca. Ma scoprii che era troppo lungo e che l'età dei grandi poemi epici è tramontata.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -44,7 +44,7 @@ Ma mentre sedevo scarabocchiando quelle sciocche figure sulla carta marrone,
 cominciò ad [[motifs/dawn|albeggiarmi]] in mente, con mio gran disgusto, che mi ero lasciato
 dietro un [[motifs/chalk|gesso]], e per giunta un [[motifs/chalk|gesso]] dei più squisiti ed essenziali.
 Frugai in tutte le mie tasche, ma non riuscii a trovare alcun
-[[motifs/chalk|gesso]] bianco. Ora, chi ha dimestichezza con la filosofia
+[[motifs/chalk|gesso]] bianco. Ora, chi ha dimestichezza con la [[philosophy|filosofia]]
 (anzi, con la religione) che si simboleggia nell'arte del disegnare
 sulla carta marrone, sa che il bianco è positivo ed essenziale.
 Non posso trattenermi dall'osservare qui un significato morale.
@@ -54,8 +54,8 @@ Una delle sagge e terribili verità che quest'arte della carta marrone rivela
 definita come il nero. Quando, per così dire, la vostra matita si fa
 rovente al rosso, disegna rose; quando si fa rovente al bianco, disegna [[motifs/stars|stelle]].
 E una delle due o tre sfidanti verità della migliore
-moralità religiosa, del vero [[historical-references/christianity|Cristianesimo]], per esempio,
-è esattamente questa stessa cosa; l'asserzione capitale della moralità
+[[morality|moralità]] religiosa, del vero [[historical-references/christianity|Cristianesimo]], per esempio,
+è esattamente questa stessa cosa; l'asserzione capitale della [[morality|moralità]]
 religiosa è che il bianco è un colore. La virtù non è l'assenza
 dei vizi o il tenersi lontani dai pericoli morali; la virtù è una cosa viva
 e a sé stante, come il [[motifs/pain|dolore]] o un particolare odore.
@@ -117,7 +117,7 @@ I remember one splendid morning, all blue and silver, in the [[motifs/summer|sum
 holidays when I reluctantly tore myself away from the task of doing
 nothing in particular, and put on a hat of some sort and picked up
 a walking-stick, and put six very bright-colored chalks in my pocket.
-I then went into the kitchen (which along with the rest of the house,
+I then went into the kitchen (which along with the rest of the [[house]],
 belonged to a very square and sensible woman in a Sussex village), and
 asked the owner and occupant of the kitchen if she had any brown paper.
 She had a great deal; in fact she had too much; and she mistook
@@ -147,8 +147,8 @@ fierce [[motifs/stars|stars]] that sprang out of divine darkness.  All this I sa
 in my pocket along with the chalks, and possibly other things.
 I suppose every one must have reflected how primeval and how poetical
 are the things that one carries in one's pocket; the pocket-knife,
-for instance, the type of all human tools, the infant of the sword.
-Once I planned to write a book of poems entirely about the things
+for instance, the type of all human tools, the infant of the [[Sword|sword]].
+Once I planned to write a book of [[Poems|poems]] entirely about the things
 in my pockets.  But I found it was too long and the age of great
 epics is past.
 
@@ -211,9 +211,9 @@ Trascritto da John Ainsworth ainsje00@wfu.edu
 (Pubblicato in «Tremendous Trifles», Methuen and Co Ltd, [[settings/london|Londra]], 1909.
 Apparso originariamente sul DAILY NEWS, 4 novembre 1905.)
 
-Ricordo uno splendido mattino, tutto azzurro e argento, durante le vacanze [[motifs/summer|estive]], in cui a malincuore mi strappai dal compito di non far nulla in particolare, mi misi un cappello di qualche foggia, presi un bastone da passeggio e infilai in tasca sei gessetti dai colori assai vivaci. Entrai poi nella cucina (che, insieme al resto della casa, apparteneva a una donna assai quadrata e assennata di un villaggio del Sussex), e chiesi alla proprietaria e occupante della cucina se avesse della carta da pacchi. Ne aveva in gran quantità; anzi, ne aveva troppa; e fraintese lo scopo e la ragion d'essere della carta da pacchi. Pareva avere l'idea che, se una persona voleva della carta da pacchi, doveva volerne per legare pacchi; il che era l'ultima cosa che desiderassi fare; è anzi una cosa che ho scoperto essere al di là delle mie capacità mentali. Perciò ella si soffermò a lungo sulle diverse qualità di robustezza e [[concepts/endurance|resistenza]] del materiale. Le spiegai che volevo soltanto disegnarci sopra, e che non desideravo affatto che durasse; e che dal mio punto di vista, dunque, non era questione di tenace consistenza, ma di superficie recettiva, cosa relativamente irrilevante in un pacco. Quando comprese che volevo disegnare, si offrì di sommergermi di carta da lettere, supponendo evidentemente che facessi i miei appunti e la mia corrispondenza su vecchi involucri di carta da pacchi per motivi di economia.
+Ricordo uno splendido mattino, tutto azzurro e argento, durante le vacanze [[motifs/summer|estive]], in cui a malincuore mi strappai dal compito di non far nulla in particolare, mi misi un cappello di qualche foggia, presi un bastone da passeggio e infilai in tasca sei gessetti dai colori assai vivaci. Entrai poi nella cucina (che, insieme al resto della [[house|casa]], apparteneva a una donna assai quadrata e assennata di un villaggio del Sussex), e chiesi alla proprietaria e occupante della cucina se avesse della carta da pacchi. Ne aveva in gran quantità; anzi, ne aveva troppa; e fraintese lo scopo e la ragion d'essere della carta da pacchi. Pareva avere l'idea che, se una persona voleva della carta da pacchi, doveva volerne per legare pacchi; il che era l'ultima cosa che desiderassi fare; è anzi una cosa che ho scoperto essere al di là delle mie capacità mentali. Perciò ella si soffermò a lungo sulle diverse qualità di robustezza e [[concepts/endurance|resistenza]] del materiale. Le spiegai che volevo soltanto disegnarci sopra, e che non desideravo affatto che durasse; e che dal mio punto di vista, dunque, non era questione di tenace consistenza, ma di superficie recettiva, cosa relativamente irrilevante in un pacco. Quando comprese che volevo disegnare, si offrì di sommergermi di carta da lettere, supponendo evidentemente che facessi i miei appunti e la mia corrispondenza su vecchi involucri di carta da pacchi per motivi di economia.
 
-Cercai allora di spiegare la sfumatura logica piuttosto delicata: che non solo mi piace la carta da pacchi, ma mi piaceva la qualità della bruneità nella carta, proprio come mi piaceva la qualità della bruneità nei boschi d'ottobre, o nella birra, o nei ruscelli torbosi del Nord. La carta da pacchi rappresenta il crepuscolo primordiale della prima fatica della creazione, e con uno o due [[motifs/chalk|gessetti]] dai colori vivaci vi si possono far spiccare punti di [[motifs/fire|fuoco]], scintille d'oro, e rosso [[motifs/blood|sangue]], e verde marino, come le prime feroci [[motifs/stars|stelle]] che balzarono fuori dalla divina oscurità. Tutto questo dissi (con noncuranza) alla vecchia; e riposi in tasca la carta da pacchi insieme ai gessetti, e forse ad altre cose. Suppongo che ognuno debba aver riflettuto su quanto siano primordiali e poetiche le cose che si portano in tasca; il temperino, per esempio, il prototipo di tutti gli utensili umani, l'infante della spada. Un tempo progettai di scrivere un libro di poesie interamente sulle cose che avevo in tasca. Ma scoprii che era troppo lungo e che l'età dei grandi poemi epici è tramontata.
+Cercai allora di spiegare la sfumatura logica piuttosto delicata: che non solo mi piace la carta da pacchi, ma mi piaceva la qualità della bruneità nella carta, proprio come mi piaceva la qualità della bruneità nei boschi d'ottobre, o nella birra, o nei ruscelli torbosi del Nord. La carta da pacchi rappresenta il crepuscolo primordiale della prima fatica della creazione, e con uno o due [[motifs/chalk|gessetti]] dai colori vivaci vi si possono far spiccare punti di [[motifs/fire|fuoco]], scintille d'oro, e rosso [[motifs/blood|sangue]], e verde marino, come le prime feroci [[motifs/stars|stelle]] che balzarono fuori dalla divina oscurità. Tutto questo dissi (con noncuranza) alla vecchia; e riposi in tasca la carta da pacchi insieme ai gessetti, e forse ad altre cose. Suppongo che ognuno debba aver riflettuto su quanto siano primordiali e poetiche le cose che si portano in tasca; il temperino, per esempio, il prototipo di tutti gli utensili umani, l'infante della [[Sword|spada]]. Un tempo progettai di scrivere un libro di [[Poems|poesie]] interamente sulle cose che avevo in tasca. Ma scoprii che era troppo lungo e che l'età dei grandi poemi epici è tramontata.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -234,7 +234,7 @@ But as I sat scrawling these silly figures on the brown paper,
 it began to [[motifs/dawn|dawn]] on me, to my great disgust, that I had left
 one [[motifs/chalk|chalk]], and that a most exquisite and essential [[motifs/chalk|chalk]], behind.
 I searched all of my pockets, but I could not find any
-white [[motifs/chalk|chalk]].  Now, those who are acquainted with philosophy
+white [[motifs/chalk|chalk]].  Now, those who are acquainted with [[philosophy]]
 (nay, religion) which is typified in the art of drawing
 on brown paper, know that white is positive and essential.
 I cannot avoid remarking here on a moral significance.
@@ -244,9 +244,9 @@ it is a shining and affirmative thing, as fierce as red,
 as definite as black.  When, so to speak, your pencil grows
 red-hot, it draws roses; when it grows white-hot, it draws [[motifs/stars|stars]].
 And one of the two or three defiant verities of the best
-religious morality, of real [[historical-references/christianity|Christianity]], for example,
+religious [[morality]], of real [[historical-references/christianity|Christianity]], for example,
 is exactly this same thing; the chief assertion of religious
-morality is that white is a color.  Virtue is not the absence
+[[morality]] is that white is a color.  Virtue is not the absence
 of vices or the avoidance of moral dangers; virtue is a vivid
 and separate thing, like [[motifs/pain|pain]] or a particular smell.
 [[concepts/mercy|Mercy]] does not mean not being cruel or sparing people [[concepts/revenge|revenge]]
@@ -296,7 +296,7 @@ Ma mentre sedevo scarabocchiando quelle sciocche figure sulla carta marrone,
 cominciò ad [[motifs/dawn|albeggiarmi]] in mente, con mio gran disgusto, che mi ero lasciato
 dietro un [[motifs/chalk|gesso]], e per giunta un [[motifs/chalk|gesso]] dei più squisiti ed essenziali.
 Frugai in tutte le mie tasche, ma non riuscii a trovare alcun
-[[motifs/chalk|gesso]] bianco. Ora, chi ha dimestichezza con la filosofia
+[[motifs/chalk|gesso]] bianco. Ora, chi ha dimestichezza con la [[philosophy|filosofia]]
 (anzi, con la religione) che si simboleggia nell'arte del disegnare
 sulla carta marrone, sa che il bianco è positivo ed essenziale.
 Non posso trattenermi dall'osservare qui un significato morale.
@@ -306,8 +306,8 @@ Una delle sagge e terribili verità che quest'arte della carta marrone rivela
 definita come il nero. Quando, per così dire, la vostra matita si fa
 rovente al rosso, disegna rose; quando si fa rovente al bianco, disegna [[motifs/stars|stelle]].
 E una delle due o tre sfidanti verità della migliore
-moralità religiosa, del vero [[historical-references/christianity|Cristianesimo]], per esempio,
-è esattamente questa stessa cosa; l'asserzione capitale della moralità
+[[morality|moralità]] religiosa, del vero [[historical-references/christianity|Cristianesimo]], per esempio,
+è esattamente questa stessa cosa; l'asserzione capitale della [[morality|moralità]]
 religiosa è che il bianco è un colore. La virtù non è l'assenza
 dei vizi o il tenersi lontani dai pericoli morali; la virtù è una cosa viva
 e a sé stante, come il [[motifs/pain|dolore]] o un particolare odore.

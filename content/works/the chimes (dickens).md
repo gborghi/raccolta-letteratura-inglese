@@ -46,13 +46,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/ghost|Ghost]]
+**Archetypes:** Ghost
 **Motifs:** [[motifs/bells|Bells]], [[motifs/time|Time]], [[motifs/supernatural|Supernatural]], [[motifs/dreams|Dreams]], [[motifs/wind|Wind]]
 **Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]], [[concepts/common-man|Common Man]], [[concepts/satire-of-society|Satire of Society]], [[concepts/disillusionment|Disillusionment]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/memory-and-time|Memory and Time]]
 **Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/allegory|Allegory]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/trotty-veck|Trotty Veck]], [[characters/meg-veck|Meg Veck]], [[characters/richard|Richard]], [[characters/alderman-cute|Alderman Cute]], [[characters/will-fern|Will Fern]], [[characters/lilian-fern|Lilian Fern]]
+**Characters:** Trotty Veck, Meg Veck, Richard, Alderman Cute, Will Fern, Lilian Fern
 
 ## Testo integrale / Full text
 

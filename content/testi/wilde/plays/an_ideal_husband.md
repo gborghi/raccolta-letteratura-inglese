@@ -14,9 +14,9 @@ tags:
 <span class="atom-split" data-atom="an_ideal_husband" data-title="An Ideal Husband" data-chapter="" data-kind="intro"></span>
 
 
-In 1893 Wilde began writing this [[forms/comedy|comedy]] at Goring-on-Thames, after which he named the character [[characters/lord-goring|Lord Goring]], and finished writing the drama at St. James Place. He initially sent the completed play to the Garrick Theatre, where the manager rejected it, but it was soon accepted by the Haymarket, where Lewis Waller had temporarily taken control. Waller was an excellent actor and cast himself as [[characters/sir-robert-chiltern|Sir Robert Chiltern]], with An Ideal Husband giving the Haymarket the success it desperately needed.
+In 1893 Wilde began writing this [[forms/comedy|comedy]] at Goring-on-Thames, after which he named the character [[characters/lord-goring|Lord Goring]], and finished writing the drama at St. James Place. He initially sent the completed play to the Garrick Theatre, where the manager rejected it, but it was soon accepted by the Haymarket, where Lewis Waller had temporarily taken control. Waller was an excellent actor and cast himself as [[characters/sir-robert-chiltern|Sir Robert Chiltern]], with An Ideal Husband giving the Haymarket the [[success]] it desperately needed.
 After opening on 3 January 1895, it continued for 124 performances. In April of that year, Wilde was arrested for ‘gross indecency’ and his name was publicly taken off the play. On 6 April, soon after Wilde’s arrest, the play moved to the Criterion Theatre where it ran from 13 to 27 April. When the play was published in 1899, Wilde was not listed as the author.
-The drama opens at a dinner party in the [[motifs/home|home]] of [[characters/sir-robert-chiltern|Sir Robert Chiltern]] in [[settings/london|London]]’s fashionable Grosvenor Square. Sir Robert, a prestigious member of the House of Commons, and his wife, [[characters/lady-chiltern|Lady Chiltern]], are hosting a gathering that includes his friend [[characters/lord-goring|Lord Goring]], a dandified bachelor and close friend to the Chilterns, his sister [[characters/mabel-chiltern|Mabel Chiltern]], and other genteel guests. During the party, Mrs. Cheveley, an enemy of [[characters/lady-chiltern|Lady Chiltern]]’s from their school days, attempts to blackmail Sir Robert into supporting a fraudulent scheme to build a canal in Argentina.
+The drama opens at a dinner party in the [[motifs/home|home]] of [[characters/sir-robert-chiltern|Sir Robert Chiltern]] in [[settings/london|London]]’s fashionable Grosvenor Square. Sir Robert, a prestigious member of the [[house|House]] of Commons, and his wife, [[characters/lady-chiltern|Lady Chiltern]], are hosting a gathering that includes his friend [[characters/lord-goring|Lord Goring]], a dandified bachelor and close friend to the Chilterns, his sister [[characters/mabel-chiltern|Mabel Chiltern]], and other genteel guests. During the party, Mrs. Cheveley, an enemy of [[characters/lady-chiltern|Lady Chiltern]]’s from their school days, attempts to blackmail Sir Robert into supporting a fraudulent scheme to build a canal in Argentina.
 
 Lewis Waller (1860-1915), the actor and theatre manager who first played the part of [[characters/sir-robert-chiltern|Sir Robert Chiltern]]
 
@@ -61,7 +61,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | The octagon room at [[characters/sir-robert-chiltern\|Sir Robert Chiltern]]’s house in Grosvenor Square. |
+| *(didascalia)* | The octagon room at [[characters/sir-robert-chiltern\|Sir Robert Chiltern]]’s [[house]] in Grosvenor Square. |
 
 
 
@@ -102,7 +102,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Good evening, [[characters/lady-chiltern\|Lady Chiltern]]! Has my good-for-nothing young son been here? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Smiling.] I don’t think [[characters/lord-goring\|Lord Goring]] has arrived yet. |
 | [[characters/mabel-chiltern\|MABEL CHILTERN]] | [Coming up to [[characters/lord-caversham\|LORD CAVERSHAM]].] Why do you call [[characters/lord-goring\|Lord Goring]] good-for-nothing? |
-| *(didascalia)* | [[[characters/mabel-chiltern\|MABEL CHILTERN]] is a perfect example of the English type of prettiness, the apple-blossom type. She has all the fragrance and [[concepts/freedom\|freedom]] of a flower. There is ripple after ripple of sunlight in her hair, and the little mouth, with its parted lips, is expectant, like the mouth of a [[archetypes/child\|child]]. She has the fascinating tyranny of youth, and the astonishing [[concepts/courage\|courage]] of innocence. To sane people she is not reminiscent of any work of art. But she is really like a Tanagra statuette, and would be rather annoyed if she were told so.] |
+| *(didascalia)* | [[[characters/mabel-chiltern\|MABEL CHILTERN]] is a perfect example of the English type of prettiness, the apple-blossom type. She has all the fragrance and [[concepts/freedom\|freedom]] of a flower. There is ripple after ripple of sunlight in her hair, and the little mouth, with its parted lips, is expectant, like the mouth of a [[archetypes/child\|child]]. She has the fascinating tyranny of youth, and the astonishing [[concepts/courage\|courage]] of [[innocence]]. To sane people she is not reminiscent of any work of art. But she is really like a Tanagra statuette, and would be rather annoyed if she were told so.] |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Because he leads such an idle life. |
 | [[characters/mabel-chiltern\|MABEL CHILTERN]] | How can you say such a thing? Why, he rides in the Row at ten o’[[motifs/clock\|clock]] in the morning, goes to the Opera three times a week, changes his clothes at least five times a day, and dines out every [[motifs/night\|night]] of the season. You don’t call that leading an idle life, do you? |
 
@@ -158,7 +158,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] enters. A man of forty, but looking somewhat younger. Clean-shaven, with finely-cut features, dark-haired and dark-eyed. A personality of mark. Not popular — few personalities are. But intensely admired by the few, and deeply respected by the many. The note of his manner is that of perfect distinction, with a slight touch of [[concepts/pride\|pride]]. One feels that he is conscious of the success he has made in life. A nervous temperament, with a tired look. The firmly-chiselled mouth and chin contrast strikingly with the romantic expression in the deep-set eyes. The variance is suggestive of an almost complete separation of passion and intellect, as though thought and emotion were each isolated in its own sphere through some violence of will-power. There is nervousness in the nostrils, and in the pale, thin, pointed hands. It would be inaccurate to call him picturesque. Picturesqueness cannot survive the House of Commons. But Vandyck would have liked to have painted his head.] |
+| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] enters. A man of forty, but looking somewhat younger. Clean-shaven, with finely-cut features, dark-haired and dark-eyed. A personality of mark. Not popular — few personalities are. But intensely admired by the few, and deeply respected by the many. The note of his manner is that of perfect distinction, with a slight touch of [[concepts/pride\|pride]]. One feels that he is conscious of the [[success]] he has made in life. A nervous temperament, with a tired look. The firmly-chiselled mouth and chin contrast strikingly with the romantic expression in the deep-set eyes. The variance is suggestive of an almost complete separation of passion and intellect, as though thought and emotion were each isolated in its own sphere through some violence of will-power. There is nervousness in the nostrils, and in the pale, thin, pointed hands. It would be inaccurate to call him picturesque. Picturesqueness cannot survive the [[house\|House]] of Commons. But Vandyck would have liked to have painted his head.] |
 
 
 
@@ -169,7 +169,7 @@ The action of the play is completed within twenty-four hours.
 | Speaker | Line |
 |---|---|
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Good evening, Lady Markby! I [[concepts/hope\|hope]] you have brought Sir John with you? |
-| LADY MARKBY | Oh! I have brought a much more charming person than Sir John. Sir John’s temper since he has taken seriously to politics has become quite unbearable. Really, now that the House of Commons is trying to become useful, it does a great deal of harm. |
+| LADY MARKBY | Oh! I have brought a much more charming person than Sir John. Sir John’s temper since he has taken seriously to politics has become quite unbearable. Really, now that the [[house\|House]] of Commons is trying to become useful, it does a great deal of harm. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I [[concepts/hope\|hope]] not, Lady Markby. At any rate we do our best to waste the public [[motifs/time\|time]], don’t we? But who is this charming person you have been kind enough to bring to us? |
 | LADY MARKBY | Her name is Mrs. Cheveley! One of the Dorsetshire Cheveleys, I suppose. But I really don’t know. Families are so mixed nowadays. Indeed, as a rule, everybody turns out to be somebody else. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Mrs. Cheveley? I seem to know the name. |
@@ -195,7 +195,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | What an appalling philosophy that sounds! To attempt to classify you, Mrs. Cheveley, would be an impertinence. But may I ask, at heart, are you an optimist or a pessimist? Those seem to be the only two fashionable religions left to us nowadays. |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | What an appalling [[philosophy]] that sounds! To attempt to classify you, Mrs. Cheveley, would be an impertinence. But may I ask, at heart, are you an optimist or a pessimist? Those seem to be the only two fashionable religions left to us nowadays. |
 | MRS | CHEVELEY. Oh, I’m neither. Optimism begins in a broad grin, and Pessimism ends with blue spectacles. Besides, they are both of them merely poses. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | You prefer to be natural? |
 | MRS | CHEVELEY. Sometimes. But it is such a very difficult pose to keep up. |
@@ -229,7 +229,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I [[concepts/hope\|hope]] it is not a little thing, Mrs. Cheveley. I find that little things are so very difficult to do. |
 | MRS | CHEVELEY. [After a moment’s reflection.] No, I don’t think it is quite a little thing. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I am so glad. Do tell me what it is. |
-| MRS | CHEVELEY. Later on. [Rises.] And now may I walk through your beautiful house? I hear your pictures are charming. Poor Baron Arnheim — you remember the Baron? — used to tell me you had some wonderful Corots. |
+| MRS | CHEVELEY. Later on. [Rises.] And now may I walk through your beautiful [[house]]? I hear your pictures are charming. Poor Baron Arnheim — you remember the Baron? — used to tell me you had some wonderful Corots. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [With an almost imperceptible start.] Did you know Baron Arnheim [[motifs/well\|well]]? |
 | MRS | CHEVELEY. [Smiling.] Intimately. Did you? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | At one [[motifs/time\|time]]. |
@@ -246,7 +246,7 @@ The action of the play is completed within twenty-four hours.
 | MRS | CHEVELEY. My [[motifs/memory\|memory]] is under admirable control. And are you still a bachelor? |
 | [[characters/lord-goring\|LORD GORING]] | I . . . believe so. |
 | MRS | CHEVELEY. How very romantic! |
-| [[characters/lord-goring\|LORD GORING]] | Oh! I am not at all romantic. I am not old enough. I leave romance to my seniors. |
+| [[characters/lord-goring\|LORD GORING]] | Oh! I am not at all romantic. I am not old enough. I leave [[Romance\|romance]] to my seniors. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [[characters/lord-goring\|Lord Goring]] is the result of Boodle’s Club, Mrs. Cheveley. |
 | MRS | CHEVELEY. He reflects every credit on the institution. |
 | [[characters/lord-goring\|LORD GORING]] | May I ask are you staying in [[settings/london\|London]] long? |
@@ -303,7 +303,7 @@ The action of the play is completed within twenty-four hours.
 | *(didascalia)* | [Goes out with the VICOMTE DE NANJAC. [[characters/lord-caversham\|LORD CAVERSHAM]] comes up to his son.] |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | [[motifs/well\|Well]], sir! what are you doing here? Wasting your life as usual! You should be in bed, sir. You keep too late hours! I heard of you the other [[motifs/night\|night]] at Lady Rufford’s dancing till four o’[[motifs/clock\|clock]] in the morning! |
 | [[characters/lord-goring\|LORD GORING]] | Only a quarter to four, father. |
-| [[characters/lord-caversham\|LORD CAVERSHAM]] | Can’t make out how you stand [[settings/london\|London]] Society. The thing has gone to the dogs, a lot of damned nobodies talking about nothing. |
+| [[characters/lord-caversham\|LORD CAVERSHAM]] | Can’t make out how you stand [[settings/london\|London]] Society. The thing has gone to the [[dogs]], a lot of damned nobodies talking about nothing. |
 | [[characters/lord-goring\|LORD GORING]] | I [[motifs/love\|love]] talking about nothing, father. It is the only thing I know anything about. |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | You seem to me to be living entirely for pleasure. |
 | [[characters/lord-goring\|LORD GORING]] | What else is there to live for, father? Nothing ages like happiness. |
@@ -311,7 +311,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | I [[concepts/hope\|hope]] not, father. Good evening, Lady Basildon! |
 | LADY BASILDON | [Arching two pretty eyebrows.] Are you here? I had no idea you ever came to political parties! |
 | [[characters/lord-goring\|LORD GORING]] | I adore political parties. They are the only place left to us where people don’t talk politics. |
-| LADY BASILDON | I delight in talking politics. I talk them all day long. But I can’t bear listening to them. I don’t know how the unfortunate men in the House stand these long debates. |
+| LADY BASILDON | I delight in talking politics. I talk them all day long. But I can’t bear listening to them. I don’t know how the unfortunate men in the [[house\|House]] stand these long debates. |
 | [[characters/lord-goring\|LORD GORING]] | By never listening. |
 | LADY BASILDON | Really? |
 | [[characters/lord-goring\|LORD GORING]] | [In his most serious manner.] Of course. You see, it is a very dangerous thing to listen. If one listens one may be convinced; and a man who allows himself to be convinced by an argument is a thoroughly unreasonable person. |
@@ -387,7 +387,7 @@ The action of the play is completed within twenty-four hours.
 | MRS | MARCHMONT. [Severely.] Pray, Mr. Montford, do not make these painful scenes of [[concepts/jealousy\|jealousy]] in public! |
 | *(didascalia)* | [They go downstairs with the other guests, passing [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] and MRS. CHEVELEY, who now enter.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | And are you going to any of our country houses before you leave England, Mrs. Cheveley? |
-| MRS | CHEVELEY. Oh, no! I can’t stand your English house-parties. In England people actually try to be brilliant at breakfast. That is so dreadful of them! Only dull people are brilliant at breakfast. And then the family skeleton is always reading family prayers. My stay in England really depends on you, Sir Robert. [Sits down on the sofa.] |
+| MRS | CHEVELEY. Oh, no! I can’t stand your English [[house]]-parties. In England people actually try to be brilliant at breakfast. That is so dreadful of them! Only dull people are brilliant at breakfast. And then the family [[skeleton]] is always reading family prayers. My stay in England really depends on you, Sir Robert. [Sits down on the sofa.] |
 
 
 
@@ -400,20 +400,20 @@ The action of the play is completed within twenty-four hours.
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Taking a seat beside her.] Seriously? |
 | MRS | CHEVELEY. Quite seriously. I want to talk to you about a great political and financial scheme, about this Argentine Canal Company, in fact. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | What a tedious, practical subject for you to talk about, Mrs. Cheveley! |
-| MRS | CHEVELEY. Oh, I like tedious, practical subjects. What I don’t like are tedious, practical people. There is a wide difference. Besides, you are interested, I know, in International Canal schemes. You were Lord Radley’s secretary, weren’t you, when the Government bought the Suez Canal shares? |
+| MRS | CHEVELEY. Oh, I like tedious, practical subjects. What I don’t like are tedious, practical people. There is a wide difference. Besides, you are interested, I know, in International Canal schemes. You were Lord Radley’s secretary, weren’t you, when the [[government\|Government]] bought the Suez Canal shares? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Yes. But the Suez Canal was a very great and splendid undertaking. It gave us our direct route to India. It had imperial value. It was necessary that we should have control. This Argentine scheme is a commonplace Stock Exchange swindle. |
 | MRS | CHEVELEY. A speculation, Sir Robert! A brilliant, daring speculation. |
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Believe me, Mrs. Cheveley, it is a swindle. Let us call things by their proper names. It makes matters simpler. We have all the information about it at the Foreign Office. In fact, I sent out a special Commission to inquire into the matter privately, and they report that the works are hardly begun, and as for the money already subscribed, no one seems to know what has become of it. The whole thing is a second Panama, and with not a quarter of the chance of success that miserable affair ever had. I [[concepts/hope\|hope]] you have not invested in it. I am sure you are far too clever to have done that. |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Believe me, Mrs. Cheveley, it is a swindle. Let us call things by their proper names. It makes matters simpler. We have all the information about it at the Foreign Office. In fact, I sent out a special Commission to inquire into the matter privately, and they report that the works are hardly begun, and as for the money already subscribed, no one seems to know what has become of it. The whole thing is a second Panama, and with not a quarter of the chance of [[success]] that miserable affair ever had. I [[concepts/hope\|hope]] you have not invested in it. I am sure you are far too clever to have done that. |
 | MRS | CHEVELEY. I have invested very largely in it. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Who could have advised you to do such a foolish thing? |
 | MRS | CHEVELEY. Your old friend — and mine. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Who? |
 | MRS | CHEVELEY. Baron Arnheim. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Frowning.] Ah! yes. I remember hearing, at the [[motifs/time\|time]] of his [[motifs/death\|death]], that he had been mixed up in the whole affair. |
-| MRS | CHEVELEY. It was his last romance. His last but one, to do him justice. |
+| MRS | CHEVELEY. It was his last [[Romance\|romance]]. His last but one, to do him justice. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Rising.] But you have not seen my Corots yet. They are in the music-room. Corots seem to go with music, don’t they? May I show them to you? |
 | MRS | CHEVELEY. [Shaking her head.] I am not in a mood to-[[motifs/night\|night]] for silver twilights, or [[motifs/rose\|rose]]-pink dawns. I want to talk business. [Motions to him with her fan to sit down again beside her.] |
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I [[concepts/fear\|fear]] I have no advice to give you, Mrs. Cheveley, except to interest yourself in something less dangerous. The success of the Canal depends, of course, on the attitude of England, and I am going to lay the report of the Commissioners before the House to-morrow [[motifs/night\|night]]. |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I [[concepts/fear\|fear]] I have no advice to give you, Mrs. Cheveley, except to interest yourself in something less dangerous. The [[success]] of the Canal depends, of course, on the attitude of England, and I am going to lay the report of the Commissioners before the [[house\|House]] to-morrow [[motifs/night\|night]]. |
 
 
 
@@ -425,7 +425,7 @@ The action of the play is completed within twenty-four hours.
 |---|---|
 | MRS | CHEVELEY. That you must not do. In your own interests, Sir Robert, to say nothing of mine, you must not do that. |
 | *(didascalia)* | [Looking at her in [[concepts/wonder\|wonder]].] In my own interests? My dear Mrs. Cheveley, what do you mean? [Sits down beside her.] |
-| MRS | CHEVELEY. Sir Robert, I will be quite frank with you. I want you to withdraw the report that you had intended to lay before the House, on the ground that you have reasons to believe that the Commissioners have been prejudiced or misinformed, or something. Then I want you to say a few words to the effect that the Government is going to reconsider the question, and that you have reason to believe that the Canal, if completed, will be of great international value. You know the sort of things ministers say in cases of this kind. A few ordinary platitudes will do. In modern life nothing produces such an effect as a good platitude. It makes the whole world kin. Will you do that for me? |
+| MRS | CHEVELEY. Sir Robert, I will be quite frank with you. I want you to withdraw the report that you had intended to lay before the [[house\|House]], on the ground that you have reasons to believe that the Commissioners have been prejudiced or misinformed, or something. Then I want you to say a few words to the effect that the [[government\|Government]] is going to reconsider the question, and that you have reason to believe that the Canal, if completed, will be of great international value. You know the sort of things ministers say in cases of this kind. A few ordinary platitudes will do. In modern life nothing produces such an effect as a good platitude. It makes the whole world kin. Will you do that for me? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Mrs. Cheveley, you cannot be serious in making me such a proposition! |
 | MRS | CHEVELEY. I am quite serious. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Coldly.] Pray allow me to believe that you are not. |
@@ -450,10 +450,10 @@ The action of the play is completed within twenty-four hours.
 | Speaker | Line |
 |---|---|
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | What letter? |
-| MRS | CHEVELEY. [Contemptuously.] The letter you wrote to Baron Arnheim, when you were Lord Radley’s secretary, telling the Baron to buy Suez Canal shares — a letter written three days before the Government announced its own purchase. |
+| MRS | CHEVELEY. [Contemptuously.] The letter you wrote to Baron Arnheim, when you were Lord Radley’s secretary, telling the Baron to buy Suez Canal shares — a letter written three days before the [[government\|Government]] announced its own purchase. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Hoarsely.] It is not true. |
 | MRS | CHEVELEY. You thought that letter had been destroyed. How foolish of you! It is in my possession. |
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | The affair to which you allude was no more than a speculation. The House of Commons had not yet passed the bill; it might have been rejected. |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | The affair to which you allude was no more than a speculation. The [[house\|House]] of Commons had not yet passed the bill; it might have been rejected. |
 | MRS | CHEVELEY. It was a swindle, Sir Robert. Let us call things by their proper names. It makes everything simpler. And now I am going to sell you that letter, and the price I ask for it is your public support of the Argentine scheme. You made your own fortune out of one canal. You must help me and my friends to make our fortunes out of another! |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | It is infamous, what you propose — infamous! |
 | MRS | CHEVELEY. Oh, no! This is the game of life as we all have to play it, Sir Robert, sooner or later! |
@@ -469,7 +469,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| MRS | CHEVELEY. My dear Sir Robert, what then? You are ruined, that is all! Remember to what a point your [[historical-references/puritanism\|Puritanism]] in England has brought you. In old days nobody pretended to be a bit better than his neighbours. In fact, to be a bit better than one’s neighbour was considered excessively vulgar and middle-class. Nowadays, with our modern mania for morality, every one has to pose as a paragon of purity, incorruptibility, and all the other seven deadly virtues — and what is the result? You all go over like ninepins — one after the other. Not a year passes in England without somebody disappearing. Scandals used to lend charm, or at least interest, to a man — now they crush him. And yours is a very nasty scandal. You couldn’t survive it. If it were known that as a young man, secretary to a great and important minister, you sold a Cabinet secret for a large sum of money, and that that was the origin of your wealth and career, you would be hounded out of public life, you would disappear completely. And after all, Sir Robert, why should you sacrifice your entire future rather than deal diplomatically with your enemy? For the moment I am your enemy. I admit it! And I am much stronger than you are. The big battalions are on my side. You have a splendid position, but it is your splendid position that makes you so vulnerable. You can’t defend it! And I am in attack. Of course I have not talked morality to you. You must admit in fairness that I have spared you that. Years ago you did a clever, unscrupulous thing; it turned out a great success. You owe to it your fortune and position. And now you have got to pay for it. Sooner or later we have all to pay for what we do. You have to pay now. Before I leave you to-[[motifs/night\|night]], you have got to promise me to suppress your report, and to speak in the House in favour of this scheme. |
+| MRS | CHEVELEY. My dear Sir Robert, what then? You are ruined, that is all! Remember to what a point your [[historical-references/puritanism\|Puritanism]] in England has brought you. In old days nobody pretended to be a bit better than his neighbours. In fact, to be a bit better than one’s neighbour was considered excessively vulgar and middle-class. Nowadays, with our modern mania for [[morality]], every one has to pose as a paragon of purity, incorruptibility, and all the other seven deadly virtues — and what is the result? You all go over like ninepins — one after the other. Not a year passes in England without somebody disappearing. Scandals used to lend charm, or at least interest, to a man — now they crush him. And yours is a very nasty scandal. You couldn’t survive it. If it were known that as a young man, secretary to a great and important minister, you sold a Cabinet secret for a large sum of money, and that that was the origin of your wealth and career, you would be hounded out of public life, you would disappear completely. And after all, Sir Robert, why should you sacrifice your entire future rather than deal diplomatically with your enemy? For the moment I am your enemy. I admit it! And I am much stronger than you are. The big battalions are on my side. You have a splendid position, but it is your splendid position that makes you so vulnerable. You can’t defend it! And I am in attack. Of course I have not talked [[morality]] to you. You must admit in fairness that I have spared you that. Years ago you did a clever, unscrupulous thing; it turned out a great [[success]]. You owe to it your fortune and position. And now you have got to pay for it. Sooner or later we have all to pay for what we do. You have to pay now. Before I leave you to-[[motifs/night\|night]], you have got to promise me to suppress your report, and to speak in the [[house\|House]] in favour of this scheme. |
 
 
 
@@ -480,7 +480,7 @@ The action of the play is completed within twenty-four hours.
 | Speaker | Line |
 |---|---|
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | What you ask is impossible. |
-| MRS | CHEVELEY. You must make it possible. You are going to make it possible. Sir Robert, you know what your English newspapers are like. Suppose that when I leave this house I drive down to some newspaper office, and give them this scandal and the proofs of it! Think of their loathsome joy, of the delight they would have in dragging you down, of the mud and mire they would plunge you in. Think of the hypocrite with his greasy smile penning his leading article, and arranging the foulness of the public placard. |
+| MRS | CHEVELEY. You must make it possible. You are going to make it possible. Sir Robert, you know what your English newspapers are like. Suppose that when I leave this [[house]] I drive down to some newspaper office, and give them this scandal and the proofs of it! Think of their loathsome joy, of the delight they would have in dragging you down, of the mud and mire they would plunge you in. Think of the hypocrite with his greasy smile penning his leading article, and arranging the foulness of the public placard. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Stop! You want me to withdraw the report and to make a short speech stating that I believe there are possibilities in the scheme? |
 | MRS | CHEVELEY. [Sitting down on the sofa.] Those are my terms. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [In a low voice.] I will give you any sum of money you want. |
@@ -488,7 +488,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I will not do what you ask me. I will not. |
 | MRS | CHEVELEY. You have to. If you don’t . . . [Rises from the sofa.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Bewildered and unnerved.] Wait a moment! What did you propose? You said that you would give me back my letter, didn’t you? |
-| MRS | CHEVELEY. Yes. That is agreed. I will be in the Ladies’ Gallery to-morrow [[motifs/night\|night]] at half-past eleven. If by that [[motifs/time\|time]] — and you will have had heaps of opportunity — you have made an announcement to the House in the terms I wish, I shall hand you back your letter with the prettiest thanks, and the best, or at any rate the most suitable, compliment I can think of. I intend to play quite fairly with you. One should always play fairly . . . when one has the winning cards. The Baron taught me that . . . amongst other things. |
+| MRS | CHEVELEY. Yes. That is agreed. I will be in the Ladies’ Gallery to-morrow [[motifs/night\|night]] at half-past eleven. If by that [[motifs/time\|time]] — and you will have had heaps of opportunity — you have made an announcement to the [[house\|House]] in the terms I wish, I shall hand you back your letter with the prettiest thanks, and the best, or at any rate the most suitable, compliment I can think of. I intend to play quite fairly with you. One should always play fairly . . . when one has the winning cards. The Baron taught me that . . . amongst other things. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | You must let me have [[motifs/time\|time]] to consider your proposal. |
 | MRS | CHEVELEY. No; you must settle now! |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Give me a week — three days! |
@@ -514,11 +514,11 @@ The action of the play is completed within twenty-four hours.
 | LADY MARKBY | We might drive in the Park at five. Everything looks so fresh in the Park now! |
 | MRS | CHEVELEY. Except the people! |
 | LADY MARKBY | Perhaps the people are a little jaded. I have often observed that the Season as it goes on produces a kind of softening of the brain. However, I think anything is better than high intellectual pressure. That is the most unbecoming thing there is. It makes the noses of the young girls so particularly large. And there is nothing so difficult to marry as a large nose; men don’t like them. Good-[[motifs/night\|night]], dear! [To [[characters/lady-chiltern\|LADY CHILTERN]].] Good-[[motifs/night\|night]], [[characters/gertrude\|Gertrude]]! [Goes out on [[characters/lord-caversham\|LORD CAVERSHAM]]’S arm.] |
-| MRS | CHEVELEY. What a charming house you have, [[characters/lady-chiltern\|Lady Chiltern]]! I have spent a delightful evening. It has been so interesting getting to know your husband. |
+| MRS | CHEVELEY. What a charming [[house]] you have, [[characters/lady-chiltern\|Lady Chiltern]]! I have spent a delightful evening. It has been so interesting getting to know your husband. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Why did you wish to meet my husband, Mrs. Cheveley? |
-| MRS | CHEVELEY. Oh, I will tell you. I wanted to interest him in this Argentine Canal scheme, of which I dare say you have heard. And I found him most susceptible, — susceptible to reason, I mean. A rare thing in a man. I converted him in ten minutes. He is going to make a speech in the House to-morrow [[motifs/night\|night]] in favour of the idea. We must go to the Ladies’ Gallery and hear him! It will be a great occasion! |
+| MRS | CHEVELEY. Oh, I will tell you. I wanted to interest him in this Argentine Canal scheme, of which I dare say you have heard. And I found him most susceptible, — susceptible to reason, I mean. A rare thing in a man. I converted him in ten minutes. He is going to make a speech in the [[house\|House]] to-morrow [[motifs/night\|night]] in favour of the idea. We must go to the Ladies’ Gallery and hear him! It will be a great occasion! |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | There must be some mistake. That scheme could never have my husband’s support. |
-| MRS | CHEVELEY. Oh, I assure you it’s all settled. I don’t regret my tedious [[motifs/journey\|journey]] from Vienna now. It has been a great success. But, of course, for the next twenty-four hours the whole thing is a dead secret. |
+| MRS | CHEVELEY. Oh, I assure you it’s all settled. I don’t regret my tedious [[motifs/journey\|journey]] from Vienna now. It has been a great [[success]]. But, of course, for the next twenty-four hours the whole thing is a dead secret. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Gently.] A secret? Between whom? |
 | MRS | CHEVELEY. [With a flash of amusement in her eyes.] Between your husband and myself. |
 
@@ -562,7 +562,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | [[motifs/well\|Well]], you see I gave this brooch to somebody once, years ago. |
 | [[characters/mabel-chiltern\|MABEL CHILTERN]] | You did? |
 | [[characters/lord-goring\|LORD GORING]] | Yes. |
-| *(didascalia)* | [[[characters/lady-chiltern\|LADY CHILTERN]] enters alone. The other guests have gone.] |
+| *(didascalia)* | [[[characters/lady-chiltern\|LADY CHILTERN]] enters [[Alone\|alone]]. The other guests have gone.] |
 | [[characters/mabel-chiltern\|MABEL CHILTERN]] | Then I shall certainly bid you good-[[motifs/night\|night]]. Good-[[motifs/night\|night]], [[characters/gertrude\|Gertrude]]! [Exit.] |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Good-[[motifs/night\|night]], dear! [To [[characters/lord-goring\|LORD GORING]].] You saw whom Lady Markby brought here to-[[motifs/night\|night]]? |
 | [[characters/lord-goring\|LORD GORING]] | Yes. It was an unpleasant surprise. What did she come here for? |
@@ -680,7 +680,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | ACT DROP<br><br>SECOND ACT<br>Morning-room at [[characters/sir-robert-chiltern\|Sir Robert Chiltern]]’s house. |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | ACT DROP<br><br>SECOND ACT<br>Morning-room at [[characters/sir-robert-chiltern\|Sir Robert Chiltern]]’s [[house]]. |
 | *(didascalia)* | [[[characters/lord-goring\|LORD GORING]], dressed in the height of fashion, is lounging in an armchair. [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] is standing in front of the fireplace. He is evidently in a state of great mental excitement and distress. As the scene progresses he paces nervously up and down the room.] |
 | [[characters/lord-goring\|LORD GORING]] | My dear Robert, it’s a very awkward business, very awkward indeed. You should have told your wife the whole thing. [[motifs/secrets\|Secrets]] from other people’s wives are a necessary luxury in modern life. So, at least, I am always told at the club by people who are bald enough to know better. But no man should have a secret from his own wife. She invariably finds it out. Women have a wonderful instinct about things. They can discover everything except the obvious. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [[characters/arthur\|Arthur]], I couldn’t tell my wife. When could I have told her? Not last [[motifs/night\|night]]. It would have made a life-long separation between us, and I would have lost the [[motifs/love\|love]] of the one woman in the world I worship, of the only woman who has ever stirred [[motifs/love\|love]] within me. Last [[motifs/night\|night]] it would have been quite impossible. She would have turned from me in horror . . . in horror and in contempt. |
@@ -708,14 +708,14 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | That is the reason they are so pleased to find out other people’s [[motifs/secrets\|secrets]]. It distracts public attention from their own. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | And, after all, whom did I wrong by what I did? No one. |
 | [[characters/lord-goring\|LORD GORING]] | [Looking at him steadily.] Except yourself, Robert. |
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [After a pause.] Of course I had private information about a certain transaction contemplated by the Government of the day, and I acted on it. Private information is practically the source of every large modern fortune. |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [After a pause.] Of course I had private information about a certain transaction contemplated by the [[government\|Government]] of the day, and I acted on it. Private information is practically the source of every large modern fortune. |
 | [[characters/lord-goring\|LORD GORING]] | [Tapping his boot with his cane.] And public scandal invariably the result. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Pacing up and down the room.] [[characters/arthur\|Arthur]], do you think that what I did nearly eighteen years ago should be brought up against me now? Do you think it fair that a man’s whole career should be ruined for a fault done in one’s boyhood almost? I was twenty-two at the [[motifs/time\|time]], and I had the [[topoi/double\|double]] misfortune of being [[motifs/well\|well]]-born and poor, two unforgiveable things nowadays. Is it fair that the folly, the sin of one’s youth, if men choose to call it a sin, should wreck a life like mine, should place me in the pillory, should shatter all that I have worked for, all that I have built up. Is it fair, [[characters/arthur\|Arthur]]? |
 | [[characters/lord-goring\|LORD GORING]] | Life is never fair, Robert. And perhaps it is a good thing for most of us that it is not. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Every man of [[concepts/ambition\|ambition]] has to fight his century with its own weapons. What this century worships is wealth. The God of this century is wealth. To succeed one must have wealth. At all costs one must have wealth. |
 | [[characters/lord-goring\|LORD GORING]] | You underrate yourself, Robert. Believe me, without wealth you could have succeeded just as [[motifs/well\|well]]. |
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | When I was old, perhaps. When I had lost my passion for power, or could not use it. When I was tired, worn out, disappointed. I wanted my success when I was young. Youth is the [[motifs/time\|time]] for success. I couldn’t wait. |
-| [[characters/lord-goring\|LORD GORING]] | [[motifs/well\|Well]], you certainly have had your success while you are still young. No one in our day has had such a brilliant success. Under-Secretary for Foreign Affairs at the age of forty — that’s good enough for any one, I should think. |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | When I was old, perhaps. When I had lost my passion for power, or could not use it. When I was tired, worn out, disappointed. I wanted my [[success]] when I was young. Youth is the [[motifs/time\|time]] for [[success]]. I couldn’t wait. |
+| [[characters/lord-goring\|LORD GORING]] | [[motifs/well\|Well]], you certainly have had your [[success]] while you are still young. No one in our day has had such a brilliant [[success]]. Under-Secretary for Foreign Affairs at the age of forty — that’s good enough for any one, I should think. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | And if it is all taken away from me now? If I lose everything over a horrible scandal? If I am hounded from public life? |
 
 
@@ -727,7 +727,7 @@ The action of the play is completed within twenty-four hours.
 | Speaker | Line |
 |---|---|
 | [[characters/lord-goring\|LORD GORING]] | Robert, how could you have sold yourself for money? |
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Excitedly.] I did not sell myself for money. I bought success at a great price. That is all. |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Excitedly.] I did not sell myself for money. I bought [[success]] at a great price. That is all. |
 | [[characters/lord-goring\|LORD GORING]] | [Gravely.] Yes; you certainly paid a great price for it. But what first made you think of doing such a thing? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Baron Arnheim. |
 | [[characters/lord-goring\|LORD GORING]] | Damned scoundrel! |
@@ -742,7 +742,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Throws himself into an armchair by the writing-table.] One [[motifs/night\|night]] after dinner at Lord Radley’s the Baron began talking about success in modern life as something that one could reduce to an absolutely definite science. With that wonderfully fascinating quiet voice of his he expounded to us the most terrible of all philosophies, the philosophy of power, preached to us the most marvellous of all gospels, the gospel of gold. I think he saw the effect he had produced on me, for some days afterwards he wrote and asked me to come and see him. He was living then in Park Lane, in the house Lord Woolcomb has now. I remember so [[motifs/well\|well]] how, with a strange smile on his pale, curved lips, he led me through his wonderful picture gallery, showed me his tapestries, his enamels, his jewels, his carved ivories, made me [[concepts/wonder\|wonder]] at the strange loveliness of the luxury in which he lived; and then told me that luxury was nothing but a background, a painted scene in a play, and that power, power over other men, power over the world, was the one thing worth having, the one supreme pleasure worth knowing, the one joy one never tired of, and that in our century only the rich possessed it. |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Throws himself into an armchair by the writing-table.] One [[motifs/night\|night]] after dinner at Lord Radley’s the Baron began talking about [[success]] in modern life as something that one could reduce to an absolutely definite science. With that wonderfully fascinating quiet voice of his he expounded to us the most terrible of all philosophies, the [[philosophy]] of power, preached to us the most marvellous of all gospels, the gospel of gold. I think he saw the effect he had produced on me, for some days afterwards he wrote and asked me to come and see him. He was living then in Park Lane, in the [[house]] Lord Woolcomb has now. I remember so [[motifs/well\|well]] how, with a strange smile on his pale, curved lips, he led me through his wonderful picture gallery, showed me his tapestries, his enamels, his jewels, his carved ivories, made me [[concepts/wonder\|wonder]] at the strange loveliness of the luxury in which he lived; and then told me that luxury was nothing but a background, a painted scene in a play, and that power, power over other men, power over the world, was the one thing worth having, the one supreme pleasure worth knowing, the one joy one never tired of, and that in our century only the rich possessed it. |
 
 
 
@@ -763,7 +763,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | And you? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I received from the Baron £110,000. |
 | [[characters/lord-goring\|LORD GORING]] | You were worth more, Robert. |
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | No; that money gave me exactly what I wanted, power over others. I went into the House immediately. The Baron advised me in finance from [[motifs/time\|time]] to [[motifs/time\|time]]. Before five years I had almost trebled my fortune. Since then everything that I have touched has turned out a success. In all things connected with money I have had a luck so extraordinary that sometimes it has made me almost afraid. I remember having read somewhere, in some strange book, that when the gods wish to punish us they answer our prayers. |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | No; that money gave me exactly what I wanted, power over others. I went into the [[house\|House]] immediately. The Baron advised me in finance from [[motifs/time\|time]] to [[motifs/time\|time]]. Before five years I had almost trebled my fortune. Since then everything that I have touched has turned out a [[success]]. In all things connected with money I have had a luck so extraordinary that sometimes it has made me almost afraid. I remember having read somewhere, in some strange book, that when the gods wish to punish us they answer our prayers. |
 
 
 
@@ -783,7 +783,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Oh, don’t say that, [[characters/arthur\|Arthur]]; don’t talk like that! |
 | [[characters/lord-goring\|LORD GORING]] | Never mind what I say, Robert! I am always saying what I shouldn’t say. In fact, I usually say what I really think. A great mistake nowadays. It makes one so liable to be misunderstood. As regards this dreadful business, I will help you in whatever way I can. Of course you know that. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Thank you, [[characters/arthur\|Arthur]], thank you. But what is to be done? What can be done? |
-| [[characters/lord-goring\|LORD GORING]] | [Leaning back with his hands in his pockets.] [[motifs/well\|Well]], the English can’t stand a man who is always saying he is in the right, but they are very fond of a man who admits that he has been in the wrong. It is one of the best things in them. However, in your case, Robert, a confession would not do. The money, if you will allow me to say so, is . . . awkward. Besides, if you did make a clean breast of the whole affair, you would never be able to talk morality again. And in England a man who can’t talk morality twice a week to a large, popular, immoral audience is quite over as a serious politician. There would be nothing left for him as a profession except Botany or the Church. A confession would be of no use. It would ruin you. |
+| [[characters/lord-goring\|LORD GORING]] | [Leaning back with his hands in his pockets.] [[motifs/well\|Well]], the English can’t stand a man who is always saying he is in the right, but they are very fond of a man who admits that he has been in the wrong. It is one of the best things in them. However, in your case, Robert, a confession would not do. The money, if you will allow me to say so, is . . . awkward. Besides, if you did make a clean breast of the whole affair, you would never be able to talk [[morality]] again. And in England a man who can’t talk [[morality]] twice a week to a large, popular, immoral audience is quite over as a serious politician. There would be nothing left for him as a profession except Botany or the Church. A confession would be of no use. It would ruin you. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | It would ruin me. [[characters/arthur\|Arthur]], the only thing for me to do now is to fight the thing out. |
 | [[characters/lord-goring\|LORD GORING]] | [Rising from his chair.] I was waiting for you to say that, Robert. It is the only thing to do now. And you must begin by telling your wife the whole story. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | That I will not do. |
@@ -895,7 +895,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Surely. You have nothing to conceal, have you? |
 | [[characters/lord-goring\|LORD GORING]] | Nothing. But, my dear [[characters/lady-chiltern\|Lady Chiltern]], I think, if you will allow me to say so, that in practical life — |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Smiling.] Of which you know so little, [[characters/lord-goring\|Lord Goring]] — |
-| [[characters/lord-goring\|LORD GORING]] | Of which I know nothing by experience, though I know something by observation. I think that in practical life there is something about success, actual success, that is a little unscrupulous, something about [[concepts/ambition\|ambition]] that is unscrupulous always. Once a man has set his heart and [[motifs/soul\|soul]] on getting to a certain point, if he has to climb the crag, he climbs the crag; if he has to walk in the mire — |
+| [[characters/lord-goring\|LORD GORING]] | Of which I know nothing by experience, though I know something by observation. I think that in practical life there is something about [[success]], actual [[success]], that is a little unscrupulous, something about [[concepts/ambition\|ambition]] that is unscrupulous always. Once a man has set his heart and [[motifs/soul\|soul]] on getting to a certain point, if he has to climb the crag, he climbs the crag; if he has to walk in the mire — |
 
 
 
@@ -914,7 +914,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Robert is as incapable of doing a foolish thing as he is of doing a wrong thing. |
 | [[characters/lord-goring\|LORD GORING]] | [After a long pause.] Nobody is incapable of doing a foolish thing. Nobody is incapable of doing a wrong thing. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Are you a Pessimist? What will the other dandies say? They will all have to go into mourning. |
-| [[characters/lord-goring\|LORD GORING]] | [Rising.] No, [[characters/lady-chiltern\|Lady Chiltern]], I am not a Pessimist. Indeed I am not sure that I quite know what Pessimism really means. All I do know is that life cannot be understood without much [[concepts/charity\|charity]], cannot be lived without much [[concepts/charity\|charity]]. It is [[motifs/love\|love]], and not German philosophy, that is the true explanation of this world, whatever may be the explanation of the next. And if you are ever in trouble, [[characters/lady-chiltern\|Lady Chiltern]], trust me absolutely, and I will help you in every way I can. If you ever want me, come to me for my assistance, and you shall have it. Come at once to me. |
+| [[characters/lord-goring\|LORD GORING]] | [Rising.] No, [[characters/lady-chiltern\|Lady Chiltern]], I am not a Pessimist. Indeed I am not sure that I quite know what Pessimism really means. All I do know is that life cannot be understood without much [[concepts/charity\|charity]], cannot be lived without much [[concepts/charity\|charity]]. It is [[motifs/love\|love]], and not German [[philosophy]], that is the true explanation of this world, whatever may be the explanation of the next. And if you are ever in trouble, [[characters/lady-chiltern\|Lady Chiltern]], trust me absolutely, and I will help you in every way I can. If you ever want me, come to me for my assistance, and you shall have it. Come at once to me. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Looking at him in surprise.] [[characters/lord-goring\|Lord Goring]], you are talking quite seriously. I don’t think I ever heard you talk seriously before. |
 | [[characters/lord-goring\|LORD GORING]] | [Laughing.] You must excuse me, [[characters/lady-chiltern\|Lady Chiltern]]. It won’t occur again, if I can help it. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | But I like you to be serious. |
@@ -1036,7 +1036,7 @@ The action of the play is completed within twenty-four hours.
 | MRS | CHEVELEY. Oh, pray don’t trouble, [[characters/lady-chiltern\|Lady Chiltern]]. I dare say I lost it at the Opera, before we came on here. |
 | LADY MARKBY | Ah yes, I suppose it must have been at the Opera. The fact is, we all scramble and jostle so much nowadays that I [[concepts/wonder\|wonder]] we have anything at all left on us at the end of an evening. I know myself that, when I am coming back from the Drawing Room, I always feel as if I hadn’t a shred on me, except a small shred of decent reputation, just enough to prevent the lower classes making painful observations through the windows of the carriage. The fact is that our Society is terribly over-populated. Really, some one should arrange a proper scheme of assisted emigration. It would do a great deal of good. |
 | MRS | CHEVELEY. I quite agree with you, Lady Markby. It is nearly six years since I have been in [[settings/london\|London]] for the Season, and I must say Society has become dreadfully mixed. One sees the oddest people everywhere. |
-| LADY MARKBY | That is quite true, dear. But one needn’t know them. I’m sure I don’t know half the people who come to my house. Indeed, from all I hear, I shouldn’t like to. |
+| LADY MARKBY | That is quite true, dear. But one needn’t know them. I’m sure I don’t know half the people who come to my [[house]]. Indeed, from all I hear, I shouldn’t like to. |
 | *(didascalia)* | [Enter MASON.] |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | What sort of a brooch was it that you lost, Mrs. Cheveley? |
 | MRS | CHEVELEY. A diamond snake-brooch with a ruby, a rather large ruby. |
@@ -1048,7 +1048,7 @@ The action of the play is completed within twenty-four hours.
 | MRS | CHEVELEY. It really is of no consequence, [[characters/lady-chiltern\|Lady Chiltern]]. I am so sorry to have put you to any inconvenience. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Coldly.] Oh, it has been no inconvenience. That will do, Mason. You can bring tea. |
 | *(didascalia)* | [Exit MASON.] |
-| LADY MARKBY | [[motifs/well\|Well]], I must say it is most annoying to lose anything. I remember once at Bath, years ago, losing in the Pump Room an exceedingly handsome cameo bracelet that Sir John had given me. I don’t think he has ever given me anything since, I am sorry to say. He has sadly degenerated. Really, this horrid House of Commons quite ruins our husbands for us. I think the Lower House by far the greatest blow to a happy married life that there has been since that terrible thing called the Higher [[concepts/education\|Education]] of Women was invented. |
+| LADY MARKBY | [[motifs/well\|Well]], I must say it is most annoying to lose anything. I remember once at Bath, years ago, losing in the Pump Room an exceedingly handsome cameo bracelet that Sir John had given me. I don’t think he has ever given me anything since, I am sorry to say. He has sadly degenerated. Really, this horrid [[house\|House]] of Commons quite ruins our husbands for us. I think the Lower [[house\|House]] by far the greatest blow to a happy married life that there has been since that terrible thing called the Higher [[concepts/education\|Education]] of Women was invented. |
 
 
 
@@ -1058,7 +1058,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| [[characters/lady-chiltern\|LADY CHILTERN]] | Ah! it is heresy to say that in this house, Lady Markby. Robert is a great champion of the Higher [[concepts/education\|Education]] of Women, and so, I am afraid, am I. |
+| [[characters/lady-chiltern\|LADY CHILTERN]] | Ah! it is heresy to say that in this [[house]], Lady Markby. Robert is a great champion of the Higher [[concepts/education\|Education]] of Women, and so, I am afraid, am I. |
 | MRS | CHEVELEY. The higher [[concepts/education\|education]] of men is what I should like to see. Men need it so sadly. |
 | LADY MARKBY | They do, dear. But I am afraid such a scheme would be quite unpractical. I don’t think man has much capacity for development. He has got as far as he can, and that is not far, is it? With regard to women, [[motifs/well\|well]], dear [[characters/gertrude\|Gertrude]], you belong to the younger generation, and I am sure it is all right if you approve of it. In my [[motifs/time\|time]], of course, we were taught not to understand anything. That was the old system, and wonderfully interesting it was. I assure you that the amount of things I and my poor dear sister were taught not to understand was quite extraordinary. But modern women understand everything, I am told. |
 | MRS | CHEVELEY. Except their husbands. That is the one thing the modern woman never understands. |
@@ -1071,7 +1071,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| LADY MARKBY | And a very good thing too, dear, I dare say. It might break up many a happy [[motifs/home\|home]] if they did. Not yours, I need hardly say, [[characters/gertrude\|Gertrude]]. You have married a pattern husband. I wish I could say as much for myself. But since Sir John has taken to attending the debates regularly, which he never used to do in the good old days, his language has become quite impossible. He always seems to think that he is addressing the House, and consequently whenever he discusses the state of the agricultural labourer, or the Welsh Church, or something quite improper of that kind, I am obliged to send all the servants out of the room. It is not pleasant to see one’s own butler, who has been with one for twenty-three years, actually blushing at the side-board, and the footmen making contortions in corners like persons in circuses. I assure you my life will be quite ruined unless they send John at once to the Upper House. He won’t take any interest in politics then, will he? The House of Lords is so sensible. An assembly of gentlemen. But in his present state, Sir John is really a great trial. Why, this morning before breakfast was half over, he stood up on the hearthrug, put his hands in his pockets, and appealed to the country at the top of his voice. I left the table as soon as I had my second cup of tea, I need hardly say. But his violent language could be heard all over the house! I trust, [[characters/gertrude\|Gertrude]], that Sir Robert is not like that? |
+| LADY MARKBY | And a very good thing too, dear, I dare say. It might break up many a happy [[motifs/home\|home]] if they did. Not yours, I need hardly say, [[characters/gertrude\|Gertrude]]. You have married a pattern husband. I wish I could say as much for myself. But since Sir John has taken to attending the debates regularly, which he never used to do in the good old days, his language has become quite impossible. He always seems to think that he is addressing the [[house\|House]], and consequently whenever he discusses the state of the agricultural labourer, or the Welsh Church, or something quite improper of that kind, I am obliged to send all the servants out of the room. It is not pleasant to see one’s own butler, who has been with one for twenty-three years, actually blushing at the side-board, and the footmen making contortions in corners like persons in circuses. I assure you my life will be quite ruined unless they send John at once to the Upper [[house\|House]]. He won’t take any interest in politics then, will he? The [[house\|House]] of Lords is so sensible. An assembly of gentlemen. But in his present state, Sir John is really a great trial. Why, this morning before breakfast was half over, he stood up on the hearthrug, put his hands in his pockets, and appealed to the country at the top of his voice. I left the table as soon as I had my second cup of tea, I need hardly say. But his violent language could be heard all over the [[house]]! I trust, [[characters/gertrude\|Gertrude]], that Sir Robert is not like that? |
 
 
 
@@ -1117,11 +1117,11 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Just slightly. She was staying at Langton last [[motifs/autumn\|autumn]], when we were there. |
 | LADY MARKBY | [[motifs/well\|Well]], like all stout women, she looks the very picture of happiness, as no [[concepts/doubt\|doubt]] you noticed. But there are many tragedies in her family, besides this affair of the curate. Her own sister, Mrs. Jekyll, had a most unhappy life; through no fault of her own, I am sorry to say. She ultimately was so broken-hearted that she went into a convent, or on to the operatic stage, I forget which. No; I think it was decorative art-needlework she took up. I know she had lost all sense of pleasure in life. [Rising.] And now, [[characters/gertrude\|Gertrude]], if you will allow me, I shall leave Mrs. Cheveley in your charge and call back for her in a quarter of an hour. Or perhaps, dear Mrs. Cheveley, you wouldn’t mind waiting in the carriage while I am with Lady Brancaster. As I intend it to be a visit of condolence, I shan’t stay long. |
 | MRS | CHEVELEY [Rising.] I don’t mind waiting in the carriage at all, provided there is somebody to look at one. |
-| LADY MARKBY | [[motifs/well\|Well]], I hear the curate is always prowling about the house. |
+| LADY MARKBY | [[motifs/well\|Well]], I hear the curate is always prowling about the [[house]]. |
 | MRS | CHEVELEY. I am afraid I am not fond of girl friends.<br>[[characters/lady-chiltern\|LADY CHILTERN]] [Rising.] Oh, I [[concepts/hope\|hope]] Mrs. Cheveley will stay here a little. I should like to have a few minutes’ conversation with her. |
 | MRS | CHEVELEY. How very kind of you, [[characters/lady-chiltern\|Lady Chiltern]]! Believe me, nothing would give me greater pleasure. |
 | LADY MARKBY | Ah! no [[concepts/doubt\|doubt]] you both have many pleasant reminiscences of your schooldays to talk over together. Good-bye, dear [[characters/gertrude\|Gertrude]]! Shall I see you at Lady Bonar’s to-[[motifs/night\|night]]? She has discovered a wonderful new genius. He does . . . nothing at all, I believe. That is a great comfort, is it not? |
-| [[characters/lady-chiltern\|LADY CHILTERN]] | Robert and I are dining at [[motifs/home\|home]] by ourselves to-[[motifs/night\|night]], and I don’t think I shall go anywhere afterwards. Robert, of course, will have to be in the House. But there is nothing interesting on. |
+| [[characters/lady-chiltern\|LADY CHILTERN]] | Robert and I are dining at [[motifs/home\|home]] by ourselves to-[[motifs/night\|night]], and I don’t think I shall go anywhere afterwards. Robert, of course, will have to be in the [[house\|House]]. But there is nothing interesting on. |
 | LADY MARKBY | Dining at [[motifs/home\|home]] by yourselves? Is that quite prudent? Ah, I forgot, your husband is an exception. Mine is the general rule, and nothing ages a woman so rapidly as having married the general rule. [Exit LADY MARKBY.] |
 | MRS | CHEVELEY. Wonderful woman, Lady Markby, isn’t she? Talks more and says less than anybody I ever met. She is made to be a public speaker. Much more so than her husband, though he is a typical Englishman, always dull and usually violent. |
 
@@ -1133,7 +1133,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| [[characters/lady-chiltern\|LADY CHILTERN]] | [Makes no answer, but remains standing. There is a pause. Then the eyes of the two women meet. [[characters/lady-chiltern\|LADY CHILTERN]] looks stern and pale. MRS. CHEVELEY seem rather amused.] Mrs. Cheveley, I think it is right to tell you quite frankly that, had I known who you really were, I should not have invited you to my house last [[motifs/night\|night]]. |
+| [[characters/lady-chiltern\|LADY CHILTERN]] | [Makes no answer, but remains standing. There is a pause. Then the eyes of the two women meet. [[characters/lady-chiltern\|LADY CHILTERN]] looks stern and pale. MRS. CHEVELEY seem rather amused.] Mrs. Cheveley, I think it is right to tell you quite frankly that, had I known who you really were, I should not have invited you to my [[house]] last [[motifs/night\|night]]. |
 | MRS | CHEVELEY [With an impertinent smile.] Really? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | I could not have done so. |
 | MRS | CHEVELEY. I see that after all these years you have not changed a bit, [[characters/gertrude\|Gertrude]]. |
@@ -1144,7 +1144,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Yes, to every one, without exception. |
 | MRS | CHEVELEY. Then I am sorry for you, [[characters/gertrude\|Gertrude]], very sorry for you. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | You see now, I was sure, that for many reasons any further acquaintance between us during your stay in [[settings/london\|London]] is quite impossible? |
-| MRS | CHEVELEY [Leaning back in her chair.] Do you know, [[characters/gertrude\|Gertrude]], I don’t mind your talking morality a bit. Morality is simply the attitude we adopt towards people whom we personally dislike. You dislike me. I am quite aware of that. And I have always detested you. And yet I have come here to do you a service. |
+| MRS | CHEVELEY [Leaning back in her chair.] Do you know, [[characters/gertrude\|Gertrude]], I don’t mind your talking [[morality]] a bit. [[morality\|Morality]] is simply the attitude we adopt towards people whom we personally dislike. You dislike me. I am quite aware of that. And I have always detested you. And yet I have come here to do you a service. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Contemptuously.] Like the service you wished to render my husband last [[motifs/night\|night]], I suppose. Thank heaven, I saved him from that. |
 | MRS | CHEVELEY. [Starting to her feet.] It was you who made him write that insolent letter to me? It was you who made him break his promise? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Yes. |
@@ -1162,16 +1162,16 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| [[characters/lady-chiltern\|LADY CHILTERN]] | How dare you class my husband with yourself? How dare you threaten him or me? Leave my house. You are unfit to enter it. |
+| [[characters/lady-chiltern\|LADY CHILTERN]] | How dare you class my husband with yourself? How dare you threaten him or me? Leave my [[house]]. You are unfit to enter it. |
 | *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] enters from behind. He hears his wife’s last words, and sees to whom they are addressed. He grows deadly pale.] |
-| MRS | CHEVELEY. Your house! A house bought with the price of dishonour. A house, everything in which has been paid for by fraud. [Turns round and sees [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]].] Ask him what the origin of his fortune is! Get him to tell you how he sold to a stockbroker a Cabinet secret. Learn from him to what you owe your position. |
+| MRS | CHEVELEY. Your [[house]]! A [[house]] bought with the price of dishonour. A [[house]], everything in which has been paid for by fraud. [Turns round and sees [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]].] Ask him what the origin of his fortune is! Get him to tell you how he sold to a stockbroker a Cabinet secret. Learn from him to what you owe your position. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | It is not true! Robert! It is not true! |
 | MRS | CHEVELEY. [Pointing at him with outstretched finger.] Look at him! Can he deny it? Does he dare to? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Go! Go at once. You have done your worst now. |
 | MRS | CHEVELEY. My worst? I have not yet finished with you, with either of you. I give you both till to-morrow at [[motifs/noon\|noon]]. If by then you don’t do what I bid you to do, the whole world shall know the origin of Robert Chiltern. |
 | *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] strikes the bell. Enter MASON.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Show Mrs. Cheveley out. |
-| *(didascalia)* | [MRS. CHEVELEY starts; then bows with somewhat exaggerated politeness to [[characters/lady-chiltern\|LADY CHILTERN]], who makes no sign of response. As she passes by [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]], who is standing close to the door, she pauses for a moment and looks him straight in the face. She then goes out, followed by the servant, who closes the door after him. The husband and wife are left alone. [[characters/lady-chiltern\|LADY CHILTERN]] stands like some one in a dreadful dream. Then she turns round and looks at her husband. She looks at him with strange eyes, as though she were seeing him for the first [[motifs/time\|time]].] |
+| *(didascalia)* | [MRS. CHEVELEY starts; then bows with somewhat exaggerated politeness to [[characters/lady-chiltern\|LADY CHILTERN]], who makes no sign of response. As she passes by [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]], who is standing close to the door, she pauses for a moment and looks him straight in the face. She then goes out, followed by the servant, who closes the door after him. The husband and wife are left [[Alone\|alone]]. [[characters/lady-chiltern\|LADY CHILTERN]] stands like some one in a dreadful dream. Then she turns round and looks at her husband. She looks at him with strange eyes, as though she were seeing him for the first [[motifs/time\|time]].] |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | You sold a Cabinet secret for money! You began your life with fraud! You built up your career on dishonour! Oh, tell me it is not true! Lie to me! Lie to me! Tell me it is not true! |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | What this woman said is quite true. But, [[characters/gertrude\|Gertrude]], listen to me. You don’t realise how I was tempted. Let me tell you the whole thing. [Goes towards her.] |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Don’t come near me. Don’t touch me. I feel as if you had soiled me for ever. Oh! what a mask you have been wearing all these years! A horrible painted mask! You sold yourself for money. Oh! a common thief were better. You put yourself up to sale to the highest bidder! You were bought in the market. You lied to the whole world. And yet you will not lie to me. |
@@ -1215,7 +1215,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | ACT DROP<br><br>THIRD ACT<br>The Library in [[characters/lord-goring\|Lord Goring]]’s house. An Adam room. On the right is the door leading into the hall. On the left, the door of the smoking-room. A pair of folding doors at the back open into the drawing-room. The [[motifs/fire\|fire]] is lit. Phipps, the butler, is arranging some newspapers on the writing-table. The distinction of Phipps is his impassivity. He has been termed by enthusiasts the Ideal Butler. [[works/the-sphinx-(wilde)\|The Sphinx]] is not so incommunicable. He is a mask with a manner. Of his intellectual or emotional life, [[concepts/history\|history]] knows nothing. He represents the dominance of form. |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | ACT DROP<br><br>THIRD ACT<br>The Library in [[characters/lord-goring\|Lord Goring]]’s [[house]]. An Adam room. On the right is the door leading into the hall. On the left, the door of the smoking-room. A pair of folding doors at the back open into the drawing-room. The [[motifs/fire\|fire]] is lit. Phipps, the butler, is arranging some newspapers on the writing-table. The distinction of Phipps is his impassivity. He has been termed by enthusiasts the Ideal Butler. [[works/the-sphinx-(wilde)\|The Sphinx]] is not so incommunicable. He is a mask with a manner. Of his intellectual or emotional life, [[concepts/history\|history]] knows nothing. He represents the dominance of form. |
 | *(didascalia)* | [Enter [[characters/lord-goring\|LORD GORING]] in evening dress with a buttonhole. He is wearing a silk hat and Inverness cape. White-gloved, he carries a Louis Seize cane. His are all the delicate fopperies of Fashion. One sees that he stands in immediate relation to modern life, makes it indeed, and so masters it. He is the first [[motifs/well\|well]]-dressed philosopher in the [[concepts/history\|history]] of thought.] |
 | [[characters/lord-goring\|LORD GORING]] | Got my second buttonhole for me, Phipps? |
 | PHIPPS | Yes, my lord. [Takes his hat, cane, and cape, and presents new buttonhole on salver.] |
@@ -1229,13 +1229,13 @@ The action of the play is completed within twenty-four hours.
 | PHIPPS | Yes, my lord. |
 | [[characters/lord-goring\|LORD GORING]] | Other people are quite dreadful. The only possible society is oneself. |
 | PHIPPS | Yes, my lord. |
-| [[characters/lord-goring\|LORD GORING]] | To [[motifs/love\|love]] oneself is the beginning of a lifelong romance, Phipps. |
+| [[characters/lord-goring\|LORD GORING]] | To [[motifs/love\|love]] oneself is the beginning of a lifelong [[Romance\|romance]], Phipps. |
 | PHIPPS | Yes, my lord. |
 | [[characters/lord-goring\|LORD GORING]] | [Looking at himself in the glass.] Don’t think I quite like this buttonhole, Phipps. Makes me look a little too old. Makes me almost in the prime of life, eh, Phipps? |
 | PHIPPS | I don’t observe any alteration in your lordship’s appearance. |
 | [[characters/lord-goring\|LORD GORING]] | You don’t, Phipps? |
 | PHIPPS | No, my lord. |
-| [[characters/lord-goring\|LORD GORING]] | I am not quite sure. For the future a more trivial buttonhole, Phipps, on Thursday evenings. |
+| [[characters/lord-goring\|LORD GORING]] | I am not quite sure. For the future a more trivial buttonhole, Phipps, on [[thursday\|Thursday]] evenings. |
 | PHIPPS | I will speak to the florist, my lord. She has had a loss in her family lately, which perhaps accounts for the lack of triviality your lordship complains of in the buttonhole. |
 
 
@@ -1370,7 +1370,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| MRS | CHEVELEY. [To herself.] I [[concepts/wonder\|wonder]] what woman he is waiting for to-[[motifs/night\|night]]. It will be delightful to catch him. Men always look so silly when they are caught. And they are always being caught. [Looks about room and approaches the writing-table.] What a very interesting room! What a very interesting picture! [[concepts/wonder\|Wonder]] what his correspondence is like. [Takes up letters.] Oh, what a very uninteresting correspondence! Bills and cards, debts and dowagers! Who on earth writes to him on pink paper? How silly to write on pink paper! It looks like the beginning of a middle-class romance. [[works/romance-(poe)\|Romance]] should never begin with sentiment. It should begin with science and end with a settlement. [Puts letter down, then takes it up again.] I know that handwriting. That is [[characters/gertrude\|Gertrude]] Chiltern’s. I remember it perfectly. The ten commandments in every stroke of the pen, and the moral law all over the page. [[concepts/wonder\|Wonder]] what [[characters/gertrude\|Gertrude]] is writing to him about? Something horrid about me, I suppose. How I detest that woman! [Reads it.] ‘I trust you. I want you. I am coming to you. [[characters/gertrude\|Gertrude]].’ ‘I trust you. I want you. I am coming to you.’ |
+| MRS | CHEVELEY. [To herself.] I [[concepts/wonder\|wonder]] what woman he is waiting for to-[[motifs/night\|night]]. It will be delightful to catch him. Men always look so silly when they are caught. And they are always being caught. [Looks about room and approaches the writing-table.] What a very interesting room! What a very interesting picture! [[concepts/wonder\|Wonder]] what his correspondence is like. [Takes up letters.] Oh, what a very uninteresting correspondence! Bills and cards, debts and dowagers! Who on earth writes to him on pink paper? How silly to write on pink paper! It looks like the beginning of a middle-class [[Romance\|romance]]. [[works/romance-(poe)\|Romance]] should never begin with sentiment. It should begin with science and end with a settlement. [Puts letter down, then takes it up again.] I know that handwriting. That is [[characters/gertrude\|Gertrude]] Chiltern’s. I remember it perfectly. The ten commandments in every stroke of the pen, and the moral law all over the page. [[concepts/wonder\|Wonder]] what [[characters/gertrude\|Gertrude]] is writing to him about? Something horrid about me, I suppose. How I detest that woman! [Reads it.] ‘I trust you. I want you. I am coming to you. [[characters/gertrude\|Gertrude]].’ ‘I trust you. I want you. I am coming to you.’ |
 
 
 
@@ -1449,7 +1449,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | Robert, you [[motifs/love\|love]] your wife, don’t you? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I [[motifs/love\|love]] her more than anything in the world. I used to think [[concepts/ambition\|ambition]] the great thing. It is not. [[motifs/love\|Love]] is the great thing in the world. There is nothing but [[motifs/love\|love]], and I [[motifs/love\|love]] her. But I am defamed in her eyes. I am ignoble in her eyes. There is a wide gulf between us now. She has found me out, [[characters/arthur\|Arthur]], she has found me out. |
 | [[characters/lord-goring\|LORD GORING]] | Has she never in her life done some folly — some indiscretion — that she should not forgive your sin? |
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | My wife! Never! She does not know what weakness or [[concepts/temptation\|temptation]] is. I am of clay like other men. She stands apart as good women do — pitiless in her perfection — cold and stern and without [[concepts/mercy\|mercy]]. But I [[motifs/love\|love]] her, [[characters/arthur\|Arthur]]. We are childless, and I have no one else to [[motifs/love\|love]], no one else to [[motifs/love\|love]] me. Perhaps if God had sent us children she might have been kinder to me. But God has given us a lonely house. And she has cut my heart in two. Don’t let us talk of it. I was brutal to her this evening. But I suppose when sinners talk to saints they are brutal always. I said to her things that were hideously true, on my side, from my stand-point, from the standpoint of men. But don’t let us talk of that. |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | My wife! Never! She does not know what weakness or [[concepts/temptation\|temptation]] is. I am of clay like other men. She stands apart as good women do — pitiless in her perfection — cold and stern and without [[concepts/mercy\|mercy]]. But I [[motifs/love\|love]] her, [[characters/arthur\|Arthur]]. We are childless, and I have no one else to [[motifs/love\|love]], no one else to [[motifs/love\|love]] me. Perhaps if God had sent us children she might have been kinder to me. But God has given us a lonely [[house]]. And she has cut my heart in two. Don’t let us talk of it. I was brutal to her this evening. But I suppose when sinners talk to saints they are brutal always. I said to her things that were hideously true, on my side, from my stand-point, from the standpoint of men. But don’t let us talk of that. |
 | [[characters/lord-goring\|LORD GORING]] | Your wife will forgive you. Perhaps at this moment she is forgiving you. She loves you, Robert. Why should she not forgive? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | God grant it! God grant it! [Buries his face in his hands.] But there is something more I have to tell you, [[characters/arthur\|Arthur]]. |
 
@@ -1469,7 +1469,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | Sir Robert will take my cab, Phipps. |
 | PHIPPS | Yes, my lord. [Exit.] |
 | [[characters/lord-goring\|LORD GORING]] | Robert, you don’t mind my sending you away? |
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [[characters/arthur\|Arthur]], you must let me stay for five minutes. I have made up my mind what I am going to do to-[[motifs/night\|night]] in the House. The debate on the Argentine Canal is to begin at eleven. [A chair falls in the drawing-room.] What is that? |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [[characters/arthur\|Arthur]], you must let me stay for five minutes. I have made up my mind what I am going to do to-[[motifs/night\|night]] in the [[house\|House]]. The [[debate]] on the Argentine Canal is to begin at eleven. [A chair falls in the drawing-room.] What is that? |
 | [[characters/lord-goring\|LORD GORING]] | Nothing. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I heard a chair fall in the next room. Some one has been listening. |
 | [[characters/lord-goring\|LORD GORING]] | No, no; there is no one there. |
@@ -1546,7 +1546,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | I am under the impression that my lawyer settled that matter with you on certain terms . . . dictated by yourself. |
 | MRS | CHEVELEY. At that [[motifs/time\|time]] I was poor; you were rich. |
 | [[characters/lord-goring\|LORD GORING]] | Quite so. That is why you pretended to [[motifs/love\|love]] me. |
-| MRS | CHEVELEY. [Shrugging her shoulders.] Poor old Lord Mortlake, who had only two topics of conversation, his gout and his wife! I never could quite make out which of the two he was talking about. He used the most horrible language about them both. [[motifs/well\|Well]], you were silly, [[characters/arthur\|Arthur]]. Why, Lord Mortlake was never anything more to me than an amusement. One of those utterly tedious amusements one only finds at an English country house on an English country [[characters/sunday\|Sunday]]. I don’t think any one at all morally responsible for what he or she does at an English country house. |
+| MRS | CHEVELEY. [Shrugging her shoulders.] Poor old Lord Mortlake, who had only two topics of conversation, his gout and his wife! I never could quite make out which of the two he was talking about. He used the most horrible language about them both. [[motifs/well\|Well]], you were silly, [[characters/arthur\|Arthur]]. Why, Lord Mortlake was never anything more to me than an amusement. One of those utterly tedious amusements one only finds at an English country [[house]] on an English country [[characters/sunday\|Sunday]]. I don’t think any one at all morally responsible for what he or she does at an English country [[house]]. |
 | [[characters/lord-goring\|LORD GORING]] | Yes. I know lots of people think that. |
 | MRS | CHEVELEY. I loved you, [[characters/arthur\|Arthur]]. |
 | [[characters/lord-goring\|LORD GORING]] | My dear Mrs. Cheveley, you have always been far too clever to know anything about [[motifs/love\|love]]. |
@@ -1561,7 +1561,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| MRS | CHEVELEY. [After a pause.] I am tired of living abroad. I want to come back to [[settings/london\|London]]. I want to have a charming house here. I want to have a salon. If one could only teach the English how to talk, and the Irish how to listen, society here would be quite civilised. Besides, I have arrived at the romantic stage. When I saw you last [[motifs/night\|night]] at the Chilterns’, I knew you were the only person I had ever cared for, if I ever have cared for anybody, [[characters/arthur\|Arthur]]. And so, on the morning of the day you marry me, I will give you Robert Chiltern’s letter. That is my offer. I will give it to you now, if you promise to marry me. |
+| MRS | CHEVELEY. [After a pause.] I am tired of living abroad. I want to come back to [[settings/london\|London]]. I want to have a charming [[house]] here. I want to have a salon. If one could only teach the English how to talk, and the Irish how to listen, society here would be quite civilised. Besides, I have arrived at the romantic stage. When I saw you last [[motifs/night\|night]] at the Chilterns’, I knew you were the only person I had ever cared for, if I ever have cared for anybody, [[characters/arthur\|Arthur]]. And so, on the morning of the day you marry me, I will give you Robert Chiltern’s letter. That is my offer. I will give it to you now, if you promise to marry me. |
 | [[characters/lord-goring\|LORD GORING]] | Now? |
 | MRS | CHEVELEY. [Smiling.] To-morrow. |
 | [[characters/lord-goring\|LORD GORING]] | Are you really serious? |
@@ -1573,7 +1573,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | Nothing: but I can read it like a book. |
 | MRS | CHEVELEY. What book? |
 | [[characters/lord-goring\|LORD GORING]] | [Rising.] The Book of Numbers. |
-| MRS | CHEVELEY. Do you think it is quite charming of you to be so rude to a woman in your own house? |
+| MRS | CHEVELEY. Do you think it is quite charming of you to be so rude to a woman in your own [[house]]? |
 | [[characters/lord-goring\|LORD GORING]] | In the case of very fascinating women, sex is a challenge, not a defence. |
 | MRS | CHEVELEY. I suppose that is meant for a compliment. My dear [[characters/arthur\|Arthur]], women are never disarmed by compliments. Men always are. That is the difference between the two sexes. |
 | [[characters/lord-goring\|LORD GORING]] | Women are never disarmed by anything, as far as I know them. |
@@ -1599,7 +1599,7 @@ The action of the play is completed within twenty-four hours.
 | MRS | CHEVELEY. A woman whose size in gloves is seven and three-quarters never knows much about anything. You know [[characters/gertrude\|Gertrude]] has always worn seven and three-quarters? That is one of the reasons why there was never any moral sympathy between us. . . . [[motifs/well\|Well]], [[characters/arthur\|Arthur]], I suppose this romantic interview may be regarded as at an end. You admit it was romantic, don’t you? For the privilege of being your wife I was ready to surrender a great prize, the climax of my diplomatic career. You decline. Very [[motifs/well\|well]]. If Sir Robert doesn’t uphold my Argentine scheme, I expose him. Voilà tout. |
 | [[characters/lord-goring\|LORD GORING]] | You mustn’t do that. It would be vile, horrible, infamous. |
 | MRS | CHEVELEY. [Shrugging her shoulders.] Oh! don’t use big words. They mean so little. It is a commercial transaction. That is all. There is no good mixing up sentimentality in it. I offered to sell Robert Chiltern a certain thing. If he won’t pay me my price, he will have to pay the world a greater price. There is no more to be said. I must go. Good-bye. Won’t you shake hands? |
-| [[characters/lord-goring\|LORD GORING]] | With you? No. Your transaction with Robert Chiltern may pass as a loathsome commercial transaction of a loathsome commercial age; but you seem to have forgotten that you came here to-[[motifs/night\|night]] to talk of [[motifs/love\|love]], you whose lips desecrated the word [[motifs/love\|love]], you to whom the thing is a book closely sealed, went this afternoon to the house of one of the most noble and gentle women in the world to degrade her husband in her eyes, to try and kill her [[motifs/love\|love]] for him, to put [[motifs/poison\|poison]] in her heart, and bitterness in her life, to break her idol, and, it may be, spoil her [[motifs/soul\|soul]]. That I cannot forgive you. That was horrible. For that there can be no [[concepts/forgiveness\|forgiveness]]. |
+| [[characters/lord-goring\|LORD GORING]] | With you? No. Your transaction with Robert Chiltern may pass as a loathsome commercial transaction of a loathsome commercial age; but you seem to have forgotten that you came here to-[[motifs/night\|night]] to talk of [[motifs/love\|love]], you whose lips desecrated the word [[motifs/love\|love]], you to whom the thing is a book closely sealed, went this afternoon to the [[house]] of one of the most noble and gentle women in the world to degrade her husband in her eyes, to try and kill her [[motifs/love\|love]] for him, to put [[motifs/poison\|poison]] in her heart, and bitterness in her life, to break her idol, and, it may be, spoil her [[motifs/soul\|soul]]. That I cannot forgive you. That was horrible. For that there can be no [[concepts/forgiveness\|forgiveness]]. |
 | MRS | CHEVELEY. [[characters/arthur\|Arthur]], you are unjust to me. Believe me, you are quite unjust to me. I didn’t go to taunt [[characters/gertrude\|Gertrude]] at all. I had no idea of doing anything of the kind when I entered. I called with Lady Markby simply to ask whether an ornament, a [[motifs/jewel\|jewel]], that I lost somewhere last [[motifs/night\|night]], had been found at the Chilterns’. If you don’t believe me, you can ask Lady Markby. She will tell you it is true. The scene that occurred happened after Lady Markby had left, and was really forced on me by [[characters/gertrude\|Gertrude]]’s rudeness and sneers. I called, oh! — a little out of malice if you like — but really to ask if a diamond brooch of mine had been found. That was the origin of the whole thing. |
 
 
@@ -1691,7 +1691,7 @@ The action of the play is completed within twenty-four hours.
 |---|---|
 | MRS | ACT DROPS<br><br>FOURTH ACT<br>Same as Act II. |
 | *(didascalia)* | [[[characters/lord-goring\|LORD GORING]] is standing by the fireplace with his hands in his pockets. He is looking rather bored.] |
-| [[characters/lord-goring\|LORD GORING]] | [Pulls out his watch, inspects it, and rings the bell.] It is a great nuisance. I can’t find any one in this house to talk to. And I am full of interesting information. I feel like the latest edition of something or other. |
+| [[characters/lord-goring\|LORD GORING]] | [Pulls out his watch, inspects it, and rings the bell.] It is a great nuisance. I can’t find any one in this [[house]] to talk to. And I am full of interesting information. I feel like the latest edition of something or other. |
 | *(didascalia)* | [Enter servant.] |
 | JAMES | Sir Robert is still at the Foreign Office, my lord. |
 | [[characters/lord-goring\|LORD GORING]] | [[characters/lady-chiltern\|Lady Chiltern]] not down yet? |
@@ -1727,14 +1727,14 @@ The action of the play is completed within twenty-four hours.
 |---|---|
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Do you mean to say you have not read The Times leading article on Robert Chiltern’s career? |
 | [[characters/lord-goring\|LORD GORING]] | Good heavens! No. What does it say? |
-| [[characters/lord-caversham\|LORD CAVERSHAM]] | What should it say, sir? Everything complimentary, of course. Chiltern’s speech last [[motifs/night\|night]] on this Argentine Canal scheme was one of the finest pieces of oratory ever delivered in the House since Canning. |
+| [[characters/lord-caversham\|LORD CAVERSHAM]] | What should it say, sir? Everything complimentary, of course. Chiltern’s speech last [[motifs/night\|night]] on this Argentine Canal scheme was one of the finest pieces of oratory ever delivered in the [[house\|House]] since Canning. |
 | [[characters/lord-goring\|LORD GORING]] | Ah! Never heard of Canning. Never wanted to. And did . . . did Chiltern uphold the scheme? |
-| [[characters/lord-caversham\|LORD CAVERSHAM]] | Uphold it, sir? How little you know him! Why, he denounced it roundly, and the whole system of modern political finance. This speech is the turning-point in his career, as The Times points out. You should read this article, sir. [Opens The Times.] ‘[[characters/sir-robert-chiltern\|Sir Robert Chiltern]] . . . most rising of our young statesmen . . . Brilliant Orator . . . Unblemished career . . . [[motifs/well\|Well]]-known integrity of character . . . Represents what is best in English public life . . . Noble contrast to the lax morality so common among foreign politicians.’ They will never say that of you, sir. |
+| [[characters/lord-caversham\|LORD CAVERSHAM]] | Uphold it, sir? How little you know him! Why, he denounced it roundly, and the whole system of modern political finance. This speech is the turning-point in his career, as The Times points out. You should read this article, sir. [Opens The Times.] ‘[[characters/sir-robert-chiltern\|Sir Robert Chiltern]] . . . most rising of our young statesmen . . . Brilliant Orator . . . Unblemished career . . . [[motifs/well\|Well]]-known integrity of character . . . Represents what is best in English public life . . . Noble contrast to the lax [[morality]] so common among foreign politicians.’ They will never say that of you, sir. |
 | [[characters/lord-goring\|LORD GORING]] | I sincerely [[concepts/hope\|hope]] not, father. However, I am delighted at what you tell me about Robert, thoroughly delighted. It shows he has got pluck. |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | He has got more than pluck, sir, he has got genius. |
 | [[characters/lord-goring\|LORD GORING]] | Ah! I prefer pluck. It is not so common, nowadays, as genius is. |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | I wish you would go into Parliament. |
-| [[characters/lord-goring\|LORD GORING]] | My dear father, only people who look dull ever get into the House of Commons, and only people who are dull ever succeed there. |
+| [[characters/lord-goring\|LORD GORING]] | My dear father, only people who look dull ever get into the [[house\|House]] of Commons, and only people who are dull ever succeed there. |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Why don’t you try to do something useful in life? |
 | [[characters/lord-goring\|LORD GORING]] | I am far too young. |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | [Testily.] I hate this affectation of youth, sir. It is a great deal too prevalent nowadays. |
@@ -1787,7 +1787,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| [[characters/mabel-chiltern\|MABEL CHILTERN]] | Oh! I [[concepts/hope\|hope]] you are not going to leave me all alone with [[characters/lord-goring\|Lord Goring]]? Especially at such an early hour in the day. |
+| [[characters/mabel-chiltern\|MABEL CHILTERN]] | Oh! I [[concepts/hope\|hope]] you are not going to leave me all [[Alone\|alone]] with [[characters/lord-goring\|Lord Goring]]? Especially at such an early hour in the day. |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | I am afraid I can’t take him with me to Downing Street. It is not the Prime Minster’s day for seeing the unemployed. |
 | *(didascalia)* | [Shakes hands with [[characters/mabel-chiltern\|MABEL CHILTERN]], takes up his hat and stick, and goes out, with a parting glare of indignation at [[characters/lord-goring\|LORD GORING]].] |
 | [[characters/mabel-chiltern\|MABEL CHILTERN]] | [Takes up roses and begins to arrange them in a bowl on the table.] People who don’t keep their appointments in the Park are horrid. |
@@ -1877,7 +1877,7 @@ The action of the play is completed within twenty-four hours.
 | Speaker | Line |
 |---|---|
 | [[characters/lord-goring\|LORD GORING]] | At half-past ten. And now I propose that we tell Robert the whole thing at once. |
-| [[characters/lady-chiltern\|LADY CHILTERN]] | [Looking at him with amazement that is almost terror.] You want me to tell Robert that the woman you expected was not Mrs. Cheveley, but myself? That it was I whom you thought was concealed in a room in your house, at half-past ten o’[[motifs/clock\|clock]] at [[motifs/night\|night]]? You want me to tell him that? |
+| [[characters/lady-chiltern\|LADY CHILTERN]] | [Looking at him with amazement that is almost terror.] You want me to tell Robert that the woman you expected was not Mrs. Cheveley, but myself? That it was I whom you thought was concealed in a room in your [[house]], at half-past ten o’[[motifs/clock\|clock]] at [[motifs/night\|night]]? You want me to tell him that? |
 | [[characters/lord-goring\|LORD GORING]] | I think it is better that he should know the exact [[concepts/truth\|truth]]. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Rising.] Oh, I couldn’t, I couldn’t! |
 | [[characters/lord-goring\|LORD GORING]] | May I do it? |
@@ -1894,7 +1894,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | I think so. |
 | [[characters/lord-goring\|LORD GORING]] | Your letter was on pink paper. He could recognise it without reading it, couldn’t he? By the colour? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | I suppose so. |
-| [[characters/lord-goring\|LORD GORING]] | Is he in the house now? |
+| [[characters/lord-goring\|LORD GORING]] | Is he in the [[house]] now? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Yes. |
 | [[characters/lord-goring\|LORD GORING]] | Then I will go and see him myself, and tell him that a certain letter, written on pink paper, is to be forwarded to Robert to-day, and that at all costs it must not reach him. [Goes to the door, and opens it.] Oh! Robert is coming upstairs with the letter in his hand. It has reached him already. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [With a cry of [[motifs/pain\|pain]].] Oh! you have saved his life; what have you done with mine? |
@@ -1924,7 +1924,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | He burned it. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I wish I had seen that one sin of my youth burning to ashes. How many men there are in modern life who would like to see their past burning to white ashes before them! Is [[characters/arthur\|Arthur]] still here? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Yes; he is in the conservatory. |
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I am so glad now I made that speech last [[motifs/night\|night]] in the House, so glad. I made it thinking that public disgrace might be the result. But it has not been so. |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I am so glad now I made that speech last [[motifs/night\|night]] in the [[house\|House]], so glad. I made it thinking that public disgrace might be the result. But it has not been so. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Public [[concepts/honour\|honour]] has been the result. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I think so. I [[concepts/fear\|fear]] so, almost. For although I am safe from detection, although every proof against me is destroyed, I suppose, [[characters/gertrude\|Gertrude]] . . . I suppose I should retire from public life? [He looks anxiously at his wife.] |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Eagerly.] Oh yes, Robert, you should do that. It is your duty to do that. |
@@ -1940,7 +1940,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | And you would be happy living somewhere alone with me, abroad perhaps, or in the country away from [[settings/london\|London]], away from public life? You would have no regrets? |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | And you would be happy living somewhere [[Alone\|alone]] with me, abroad perhaps, or in the country away from [[settings/london\|London]], away from public life? You would have no regrets? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Oh! none, Robert. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Sadly.] And your [[concepts/ambition\|ambition]] for me? You used to be ambitious for me. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Oh, my [[concepts/ambition\|ambition]]! I have none now, but that we two may [[motifs/love\|love]] each other. It was your [[concepts/ambition\|ambition]] that led you astray. Let us not talk about [[concepts/ambition\|ambition]]. |
@@ -1984,7 +1984,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | It is not idiocy, father, I assure you. |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | What is it then, sir? |
 | [[characters/lord-goring\|LORD GORING]] | [After some hesitation.] [[motifs/well\|Well]], it is what is called nowadays a high moral tone, father. That is all. |
-| [[characters/lord-caversham\|LORD CAVERSHAM]] | Hate these new-fangled names. Same thing as we used to call idiocy fifty years ago. Shan’t stay in this house any longer. |
+| [[characters/lord-caversham\|LORD CAVERSHAM]] | Hate these new-fangled names. Same thing as we used to call idiocy fifty years ago. Shan’t stay in this [[house]] any longer. |
 | [[characters/lord-goring\|LORD GORING]] | [Taking his arm.] Oh! just go in here for a moment, father. Third palm tree to the left, the usual palm tree. |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | What, sir? |
 | [[characters/lord-goring\|LORD GORING]] | I beg your pardon, father, I forgot. The conservatory, father, the conservatory — there is some one there I want you to talk to. |
@@ -2015,7 +2015,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| [[characters/lord-goring\|LORD GORING]] | [Pulling himself together for a great effort, and showing the philosopher that underlies the dandy.] [[characters/lady-chiltern\|Lady Chiltern]], allow me. You wrote me a letter last [[motifs/night\|night]] in which you said you trusted me and wanted my help. Now is the moment when you really want my help, now is the [[motifs/time\|time]] when you have got to trust me, to trust in my counsel and judgment. You [[motifs/love\|love]] Robert. Do you want to kill his [[motifs/love\|love]] for you? What sort of existence will he have if you rob him of the fruits of his [[concepts/ambition\|ambition]], if you take him from the splendour of a great political career, if you close the doors of public life against him, if you condemn him to sterile failure, he who was made for triumph and success? Women are not meant to judge us, but to forgive us when we need [[concepts/forgiveness\|forgiveness]]. Pardon, not punishment, is their mission. Why should you scourge him with rods for a sin done in his youth, before he knew you, before he knew himself? A man’s life is of more value than a woman’s. It has larger issues, wider scope, greater ambitions. A woman’s life revolves in curves of emotions. It is upon lines of intellect that a man’s life progresses. Don’t make any terrible mistake, [[characters/lady-chiltern\|Lady Chiltern]]. A woman who can keep a man’s [[motifs/love\|love]], and [[motifs/love\|love]] him in return, has done all the world wants of women, or should want of them. |
+| [[characters/lord-goring\|LORD GORING]] | [Pulling himself together for a great effort, and showing the philosopher that underlies the dandy.] [[characters/lady-chiltern\|Lady Chiltern]], allow me. You wrote me a letter last [[motifs/night\|night]] in which you said you trusted me and wanted my help. Now is the moment when you really want my help, now is the [[motifs/time\|time]] when you have got to trust me, to trust in my counsel and judgment. You [[motifs/love\|love]] Robert. Do you want to kill his [[motifs/love\|love]] for you? What sort of existence will he have if you rob him of the fruits of his [[concepts/ambition\|ambition]], if you take him from the splendour of a great political career, if you close the doors of public life against him, if you condemn him to sterile failure, he who was made for triumph and [[success]]? Women are not meant to judge us, but to forgive us when we need [[concepts/forgiveness\|forgiveness]]. Pardon, not punishment, is their mission. Why should you scourge him with rods for a sin done in his youth, before he knew you, before he knew himself? A man’s life is of more value than a woman’s. It has larger issues, wider scope, greater ambitions. A woman’s life revolves in curves of emotions. It is upon lines of intellect that a man’s life progresses. Don’t make any terrible mistake, [[characters/lady-chiltern\|Lady Chiltern]]. A woman who can keep a man’s [[motifs/love\|love]], and [[motifs/love\|love]] him in return, has done all the world wants of women, or should want of them. |
 
 
 
@@ -2068,7 +2068,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Robert, it was not Mrs. Cheveley whom [[characters/lord-goring\|Lord Goring]] expected last [[motifs/night\|night]]. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Not Mrs. Cheveley! Who was it then? |
 | [[characters/lord-goring\|LORD GORING]] | [[characters/lady-chiltern\|Lady Chiltern]]! |
-| [[characters/lady-chiltern\|LADY CHILTERN]] | It was your own wife. Robert, yesterday afternoon [[characters/lord-goring\|Lord Goring]] told me that if ever I was in trouble I could come to him for help, as he was our oldest and best friend. Later on, after that terrible scene in this room, I wrote to him telling him that I trusted him, that I had need of him, that I was coming to him for help and advice. [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] takes the letter out of his pocket.] Yes, that letter. I didn’t go to [[characters/lord-goring\|Lord Goring]]’s, after all. I felt that it is from ourselves alone that help can come. [[concepts/pride\|Pride]] made me think that. Mrs. Cheveley went. She stole my letter and sent it anonymously to you this morning, that you should think . . . Oh! Robert, I cannot tell you what she wished you to think. . . . |
+| [[characters/lady-chiltern\|LADY CHILTERN]] | It was your own wife. Robert, yesterday afternoon [[characters/lord-goring\|Lord Goring]] told me that if ever I was in trouble I could come to him for help, as he was our oldest and best friend. Later on, after that terrible scene in this room, I wrote to him telling him that I trusted him, that I had need of him, that I was coming to him for help and advice. [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] takes the letter out of his pocket.] Yes, that letter. I didn’t go to [[characters/lord-goring\|Lord Goring]]’s, after all. I felt that it is from ourselves [[Alone\|alone]] that help can come. [[concepts/pride\|Pride]] made me think that. Mrs. Cheveley went. She stole my letter and sent it anonymously to you this morning, that you should think . . . Oh! Robert, I cannot tell you what she wished you to think. . . . |
 
 
 
@@ -2088,7 +2088,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | Darling! [Kisses her.] |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | [Considerably taken aback.] What does this mean, sir? You don’t mean to say that this charming, clever young lady has been so foolish as to accept you? |
 | [[characters/lord-goring\|LORD GORING]] | Certainly, father! And Chiltern’s been wise enough to accept the seat in the Cabinet. |
-| [[characters/lord-caversham\|LORD CAVERSHAM]] | I am very glad to hear that, Chiltern . . . I congratulate you, sir. If the country doesn’t go to the dogs or the Radicals, we shall have you Prime Minister, some day. |
+| [[characters/lord-caversham\|LORD CAVERSHAM]] | I am very glad to hear that, Chiltern . . . I congratulate you, sir. If the country doesn’t go to the [[dogs]] or the Radicals, we shall have you Prime Minister, some day. |
 | *(didascalia)* | [Enter MASON.] |
 | MASON | Luncheon is on the table, my Lady! |
 | *(didascalia)* | [MASON goes out.] |

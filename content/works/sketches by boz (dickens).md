@@ -74,7 +74,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/fool|Fool]]
+**Archetypes:** Self-Made Man, Fool
 **Motifs:** [[motifs/city|City]], [[motifs/road|Road]], [[motifs/money-and-gold|Money and Gold]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/inn-tavern|Inn Tavern]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/common-man|Common Man]], [[concepts/poverty|Poverty]], [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/artist-and-society|Artist and Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/short-story|Short Story]], [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/sketch|Sketch]], [[forms/nonfiction|Nonfiction]]

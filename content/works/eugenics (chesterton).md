@@ -51,7 +51,7 @@ tags:
 
 **Historical References:** [[historical-references/puritanism|Puritanism]]
 
-**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/common-man-(2)|Common Man (2)]]
+**Archetypes:** Tyrant, Corrupt Official, Common Man (2)
 
 **Motifs:** [[motifs/home|Home]], [[motifs/prison|Prison]]
 

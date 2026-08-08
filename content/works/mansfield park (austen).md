@@ -49,12 +49,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/lover|Lover]]
+**Archetypes:** Innocent, Lover
 **Motifs:** [[motifs/marriage|Marriage]]
 **Themes & Concepts:** [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/class-conflict|Class Conflict]], [[concepts/conscience|Conscience]], [[concepts/temptation|Temptation]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/humility|Humility]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/romantic-love|Romantic Love]], [[concepts/satire-of-society|Satire of Society]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/bildungsroman|Bildungsroman]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** [[characters/fanny-price|Fanny Price]], [[characters/edmund-bertram|Edmund Bertram]], [[characters/sir-thomas-bertram|Sir Thomas Bertram]], [[characters/henry-crawford|Henry Crawford]], [[characters/mary-crawford|Mary Crawford]], [[characters/mrs-norris|Mrs Norris]], [[characters/maria-bertram|Maria Bertram]]
+**Characters:** Fanny Price, Edmund Bertram, Sir Thomas Bertram, Henry Crawford, Mary Crawford, Mrs Norris, Maria Bertram
 
 ## Testo integrale / Full text
 

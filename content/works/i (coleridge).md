@@ -27,7 +27,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/avenger|Avenger]], [[archetypes/lover|Lover]]
+**Archetypes:** Avenger, Lover
 **Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/romantic-love|Romantic Love]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/providence|Providence]], [[concepts/guilt|Guilt]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/tragedy|Tragedy]]
 **Settings:** [[settings/court|Court]]

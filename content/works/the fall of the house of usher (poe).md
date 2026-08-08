@@ -47,12 +47,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/double|Double]]
-**Archetypes:** [[archetypes/double-doppelganger|Double Doppelganger]]
+**Archetypes:** Double Doppelganger
 **Motifs:** [[motifs/decay|Decay]], [[motifs/grave|Grave]], [[motifs/supernatural|Supernatural]], [[motifs/book-reading|Book Reading]]
 **Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/madness|Madness]], [[concepts/uncanny|Uncanny]]
 **Forms & Genres:** [[forms/gothic-novel|Gothic Novel]]
 **Settings:** [[settings/castle|Castle]]
-**Characters:** [[characters/roderick-usher|Roderick Usher]], [[characters/madeline-usher|Madeline Usher]]
+**Characters:** Roderick Usher, Madeline Usher
 
 ## Testo integrale / Full text
 

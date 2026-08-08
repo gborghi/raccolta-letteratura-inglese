@@ -92,13 +92,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/combat-strife|Combat Strife]], [[topoi/fortune's-wheel|Fortune's Wheel]]
-**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/temptress|Temptress]], [[archetypes/tragic-hero|Tragic Hero]]
+**Archetypes:** Lover, Femme Fatale, Temptress, Tragic Hero
 **Motifs:** [[motifs/death|Death]], [[motifs/desire|Desire]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/ambition|Ambition]], [[concepts/honour|Honour]], [[concepts/mortality|Mortality]]
 **Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/roman-history|Roman History]]
 **Settings:** [[settings/ancient-rome|Ancient Rome]], [[settings/egypt|Egypt]]
-**Characters:** [[characters/mark-antony|Mark Antony]], [[characters/cleopatra|Cleopatra]], [[characters/octavius-caesar|Octavius Caesar]], [[characters/enobarbus|Enobarbus]], [[characters/lepidus|Lepidus]], [[characters/octavia|Octavia]], [[characters/charmian|Charmian]]
+**Characters:** Mark Antony, Cleopatra, Octavius Caesar, Enobarbus, Lepidus, Octavia, Charmian
 
 ## Testo integrale / Full text
 

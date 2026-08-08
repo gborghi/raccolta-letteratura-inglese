@@ -23,311 +23,311 @@ tags:
 - [[works/childsnow-(chesterton)|childsnow (Chesterton)]]
 - [[works/the-defendant-(chesterton)|The Defendant (Chesterton)]]
 - [[works/tolstoy-(chesterton)|tolstoy (Chesterton)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#033_a_wish|A WISH (Coleridge)]]
+- [[works/a-wish-(coleridge)|A WISH (Coleridge)]]
 - [[works/an-invocation-(coleridge)-(2)|AN INVOCATION (Coleridge) (2)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#350_comparative_brevity_of_greek_and_english|COMPARATIVE BREVITY OF GREEK AND ENGLISH (Coleridge)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#385_de_profundis_clamavi|DE PROFUNDIS CLAMAVI (Coleridge)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#070_elegy_imitated_from_one_of_akensides_blank-verse_inscriptions|ELEGY IMITATED FROM ONE OF AKENSIDE’S BLANK-VERSE INSCRIPTIONS (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#341_epitaph_on_a_mercenary_miser|EPITAPH ON A MERCENARY MISER (Coleridge)]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#241_epitaph_on_an_infant_1|EPITAPH ON AN INFANT (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#378_fragments_from_a_notebook|FRAGMENTS FROM A NOTEBOOK (Coleridge)]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#086_koskiusko|KOSKIUSKO (Coleridge)]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#010_life|LIFE (Coleridge)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#078_lines_on_a_friend_who_died_of_a_frenzy_fever_induced_by_calumnious_reports|LINES ON A FRIEND WHO DIED OF A FRENZY FEVER INDUCED BY CALUMNIOUS REPORTS (Coleridge)]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#112_literal_translation|LITERAL TRANSLATION. (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#018_monody_on_a_tea-kettle|MONODY ON A TEA-KETTLE (Coleridge)]]
+- [[works/comparative-brevity-of-greek-and-english-(coleridge)|COMPARATIVE BREVITY OF GREEK AND ENGLISH (Coleridge)]]
+- [[works/de-profundis-clamavi-(coleridge)|DE PROFUNDIS CLAMAVI (Coleridge)]]
+- [[works/elegy-imitated-from-one-of-akenside’s-blank-verse-inscriptions-(coleridge)|ELEGY IMITATED FROM ONE OF AKENSIDE’S BLANK-VERSE INSCRIPTIONS (Coleridge)]]
+- [[works/epitaph-on-a-mercenary-miser-(coleridge)|EPITAPH ON A MERCENARY MISER (Coleridge)]]
+- [[works/epitaph-on-an-infant-(coleridge)|EPITAPH ON AN INFANT (Coleridge)]]
+- [[works/fragments-from-a-notebook-(coleridge)|FRAGMENTS FROM A NOTEBOOK (Coleridge)]]
+- [[works/koskiusko-(coleridge)|KOSKIUSKO (Coleridge)]]
+- [[works/life-(coleridge)|LIFE (Coleridge)]]
+- [[works/lines-on-a-friend-who-died-of-a-frenzy-fever-induced-by-calumnious-reports-(coleridge)|LINES ON A FRIEND WHO DIED OF A FRENZY FEVER INDUCED BY CALUMNIOUS REPORTS (Coleridge)]]
+- [[works/literal-translation.-(coleridge)|LITERAL TRANSLATION. (Coleridge)]]
+- [[works/monody-on-a-tea-kettle-(coleridge)|MONODY ON A TEA-KETTLE (Coleridge)]]
 - [[works/monody-on-the-death-of-chatterton-(coleridge)-(2)|MONODY ON THE DEATH OF CHATTERTON (Coleridge) (2)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#012_monody_on_the_death_of_chatterton|MONODY ON THE DEATH OF CHATTERTON (Coleridge)]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#060_moriens_superstiti|MORIENS SUPERSTITI (Coleridge)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#303_my_baptismal_birth-day|MY BAPTISMAL BIRTH-DAY (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#002_nil_pejus_est_caelibe_vitæ|NIL PEJUS EST CAELIBE VITÆ (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#404_nonsense|NONSENSE (Coleridge)]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#172_on_an_infant_which_died_before_baptism|ON AN INFANT WHICH DIED BEFORE BAPTISM (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#349_on_pitt_and_fox|ON PITT AND FOX (Coleridge)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#020_on_receiving_an_account_that_his_only_sisters_death_was_inevitable|ON RECEIVING AN ACCOUNT THAT HIS ONLY SISTER’S DEATH WAS INEVITABLE (Coleridge)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#021_on_seeing_a_youth_affectionately_welcomed_by_a_sister|ON SEEING A YOUTH AFFECTIONATELY WELCOMED BY A SISTER (Coleridge)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#121_sonnet|SONNET (Coleridge)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#059_the_death_of_the_starling|THE DEATH OF THE STARLING (Coleridge)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#426_the_poetaster|THE POETASTER (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#128_the_raven|THE RAVEN (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#181_westphalian_song|WESTPHALIAN SONG (Coleridge)]]
+- [[works/monody-on-the-death-of-chatterton-(coleridge)|MONODY ON THE DEATH OF CHATTERTON (Coleridge)]]
+- [[works/moriens-superstiti-(coleridge)|MORIENS SUPERSTITI (Coleridge)]]
+- [[works/my-baptismal-birth-day-(coleridge)|MY BAPTISMAL BIRTH-DAY (Coleridge)]]
+- [[works/nil-pejus-est-caelibe-vitæ-(coleridge)|NIL PEJUS EST CAELIBE VITÆ (Coleridge)]]
+- [[works/nonsense-(coleridge)|NONSENSE (Coleridge)]]
+- [[works/on-an-infant-which-died-before-baptism-(coleridge)|ON AN INFANT WHICH DIED BEFORE BAPTISM (Coleridge)]]
+- [[works/on-pitt-and-fox-(coleridge)|ON PITT AND FOX (Coleridge)]]
+- [[works/on-receiving-an-account-that-his-only-sister’s-death-was-inevitable-(coleridge)|ON RECEIVING AN ACCOUNT THAT HIS ONLY SISTER’S DEATH WAS INEVITABLE (Coleridge)]]
+- [[works/on-seeing-a-youth-affectionately-welcomed-by-a-sister-(coleridge)|ON SEEING A YOUTH AFFECTIONATELY WELCOMED BY A SISTER (Coleridge)]]
+- [[works/sonnet-(coleridge)|SONNET (Coleridge)]]
+- [[works/the-death-of-the-starling-(coleridge)|THE DEATH OF THE STARLING (Coleridge)]]
+- [[works/the-poetaster-(coleridge)|THE POETASTER (Coleridge)]]
+- [[works/the-raven-(coleridge)|THE RAVEN (Coleridge)]]
+- [[works/westphalian-song-(coleridge)|WESTPHALIAN SONG (Coleridge)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
-- [[testi/dickinson/atomized/death-silence-bells#1026_the_dying_need_but_little_dear|1026. The Dying need but little, Dear, (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1033_said_death_to_passion|1033. Said Death to Passion (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1049_pain_has_but_one_acquaintance|1049. Pain has but one Acquaintance (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1059_sang_from_the_heart_sire|1059. Sang from the Heart, Sire, (Dickinson)]]
-- [[testi/dickinson/atomized/terror-and-horror-madness#1062_he_scanned_it_staggered|1062. He scanned it — staggered — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1065_let_down_the_bars_oh_death|1065. Let down the Bars, Oh Death — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1100_the_last_night_that_she_lived|1100. The last Night that She lived (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1102_his_bill_is_clasped_his_eye_forsook|1102. His Bill is clasped — his Eye forsook — (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1110_none_who_saw_it_ever_told_it|1110. None who saw it ever told it (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1112_that_this_should_feel_the_need_of_death|1112. That this should feel the need of Death (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#1125_oh_sumptuous_moment|1125. Oh Sumptuous moment (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1135_too_cold_is_this|1135. Too cold is this (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1147_after_a_hundred_years|1147. After a hundred years (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1153_through_what_transports_of_patience|1153. Through what transports of Patience (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1159_great_streets_of_silence_led_away|1159. Great Streets of silence led away (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1183_step_lightly_on_this_narrow_spot|1183. Step lightly on this narrow spot — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1188_twas_fighting_for_his_life_he_was|1188. 'Twas fighting for his Life he was — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1194_somehow_myself_survived_the_night|1194. Somehow myself survived the Night (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0120_if_this_is_fading|120. If this is fading (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1202_the_frost_was_never_seen|1202. The Frost was never seen — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1205_immortal_is_an_ample_word|1205. Immortal is an ample word (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1209_to_disappear_enhances|1209. To disappear enhances — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1217_fortitude_incarnate|1217. Fortitude incarnate (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1221_some_we_see_no_more_tenements_of_wonder|1221. Some we see no more, Tenements of Wonder (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1227_my_triumph_lasted_till_the_drums|1227. My Triumph lasted till the Drums (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1230_it_came_at_last_but_prompter_death|1230. It came at last but prompter Death (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1238_power_is_a_familiar_growth|1238. Power is a familiar growth — (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1243_safe_despair_it_is_that_raves|1243. Safe Despair it is that raves — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1256_not_any_higher_stands_the_grave|1256. Not any higher stands the Grave (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1260_because_that_you_are_going|1260. Because that you are going (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1261_a_word_dropped_careless_on_a_page|1261. A Word dropped careless on a Page (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1272_so_proud_she_was_to_die|1272. So proud she was to die (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1274_the_bone_that_has_no_marrow|1274. The Bone that has no Marrow, (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1277_while_we_were_fearing_it_it_came|1277. While we were fearing it, it came — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1288_lain_in_nature_so_suffice_us|1288. Lain in Nature — so suffice us (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1294_two_lengths_has_every_day|1294. Two Lengths has every Day — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1296_deaths_waylaying_not_the_sharpest|1296. Death's Waylaying not the sharpest (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1297_go_slow_my_soul_to_feed_thyself|1297. Go slow, my soul, to feed thyself (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0013_sleep_is_supposed_to_be|13. Sleep is supposed to be (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1305_recollect_the_face_of_me|1305. Recollect the Face of me (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1307_that_short_potential_stir|1307. That short — potential stir (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1310_the_notice_that_is_called_the_spring|1310. The Notice that is called the Spring (Dickinson)]]
-- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0132_i_bring_an_unaccustomed_wine|132. I bring an unaccustomed wine (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1384_praise_it_tis_dead|1384. Praise it — 'tis dead — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1385_secrets_is_a_daily_word|1385. Secrets is a daily word (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1396_she_laid_her_docile_crescent_down|1396. She laid her docile Crescent down (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1398_i_have_no_life_but_this|1398. I have no Life but this — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1399_perhaps_they_do_not_go_so_far|1399. Perhaps they do not go so far (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0141_some_too_fragile_for_winter_winds|141. Some, too fragile for winter winds (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1410_i_shall_not_murmur_if_at_last|1410. I shall not murmur if at last (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1419_it_was_a_quiet_seeming_day|1419. It was a quiet seeming Day — (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1420_one_joy_of_so_much_anguish|1420. One Joy of so much anguish (Dickinson)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#1422_summer_has_two_beginnings|1422. Summer has two Beginnings — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1428_water_makes_many_beds|1428. Water makes many Beds (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1431_with_pinions_of_disdain|1431. With Pinions of Disdain (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1436_than_heaven_more_remote|1436. Than Heaven more remote, (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#1437_a_dew_sufficed_itself|1437. A Dew sufficed itself — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0144_she_bore_it_till_the_simple_veins|144. She bore it till the simple veins (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1443_a_chilly_peace_infests_the_grass|1443. A chilly Peace infests the Grass (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1445_death_is_the_supple_suitor|1445. Death is the supple Suitor (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0145_this_heart_that_broke_so_long|145. This heart that broke so long — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1454_those_not_live_yet|1454. Those not live yet (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0146_on_such_a_night_or_such_a_night|146. On such a night, or such a night, (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0149_she_went_as_quiet_as_the_dew|149. She went as quiet as the Dew (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0150_she_died_this_was_the_way_she_died|150. She died — this was the way she died. (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1524_a_faded_boy_in_sallow_clothes|1524. A faded Boy — in sallow Clothes (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1525_he_lived_the_life_of_ambush|1525. He lived the Life of Ambush (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#1526_his_oriental_heresies|1526. His oriental heresies (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1527_oh_give_it_motion_deck_it_sweet|1527. Oh give it Motion — deck it sweet (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0153_dust_is_the_only_secret|153. Dust is the only Secret — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1551_those_dying_then|1551. Those — dying then, (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1554_go_tell_it_what_a_message|1554. Go tell it — What a Message — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1558_of_death_i_try_to_think_like_this|1558. Of Death I try to think like this — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1573_to_the_bright_east_she_flies|1573. To the bright east she flies, (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0158_dying_dying_in_the_night|158. Dying! Dying in the night! (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1584_expanse_cannot_be_lost|1584. Expanse cannot be lost — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1588_this_me_that_walks_and_works_must_die|1588. This Me — that walks and works — must die, (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1597_tis_not_the_swaying_frame_we_miss|1597. 'Tis not the swaying frame we miss, (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#1603_the_going_from_a_world_we_know|1603. The going from a world we know (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1612_the_auctioneer_of_parting|1612. The Auctioneer of Parting (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1624_apparently_with_no_surprise|1624. Apparently with no surprise (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1626_no_life_can_pompless_pass_away|1626. No Life can pompless pass away — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1632_so_give_me_back_to_death|1632. So give me back to Death — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1633_still_own_thee_still_thou_art|1633. Still own thee — still thou art (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1665_i_know_of_people_in_the_grave|1665. I know of people in the Grave (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0171_wait_till_the_majesty_of_death|171. Wait till the Majesty of Death (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1731_love_can_do_all_but_raise_the_dead|1731. Love can do all but raise the Dead (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1732_my_life_closed_twice_before_its_close|1732. My life closed twice before its close — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1742_the_distance_that_the_dead_have_gone|1742. The distance that the dead have gone (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1743_the_grave_my_little_cottage_is|1743. The grave my little cottage is, (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#1749_the_waters_chased_him_as_he_fled|1749. The waters chased him as he fled, (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1752_this_docile_one_inter|1752. This docile one inter (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1757_upon_the_gallows_hung_a_wretch|1757. Upon the gallows hung a wretch, (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1759_which_misses_most|1759. Which misses most, (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1761_a_train_went_through_a_burial_gate|1761. A train went through a burial gate, (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0187_how_many_times_these_low_feet_staggered|187. How many times these low feet staggered — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0190_he_was_weak_and_i_was_strong_then|190. He was weak, and I was strong — then — (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0194_on_this_long_storm_the_rainbow_rose|194. On this long storm the Rainbow rose — (Dickinson)]]
-- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0195_for_this_accepted_breath|195. For this — accepted Breath — (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#0196_we_dont_cry_tim_and_i|196. We don't cry — Tim and I, (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#0201_two_swimmers_wrestled_on_the_spar|201. Two swimmers wrestled on the spar — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0205_i_should_not_dare_to_leave_my_friend|205. I should not dare to leave my friend, (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0215_what_is_paradise|215. What is — Paradise — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0216_safe_in_their_alabaster_chambers|216. Safe in their alabaster chambers (Dickinson)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#0221_it_cant_be_summer|221. It can't be Summer ! (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0230_we_bee_and_i_live_by_the_quaffing|230. We — Bee and I — live by the quaffing — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0236_if_he_dissolve_then_there_is_nothing_more|236. If He dissolve — then — there is nothing — more — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0027_morns_like_these_we_parted|27. Morns like these — we parted — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0281_tis_so_appalling_it_exhilarates|281. 'Tis so appalling — it exhilarates — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0282_how_noteless_men_and_pleiads_stand|282. How noteless Men, and Pleiads, stand, (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0286_that_after_horror_that_twas_us|286. That after Horror — that 'twas us — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0287_a_clock_stopped|287. A Clock stopped — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0292_if_your_nerve_deny_you|292. If your Nerve, deny you — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0310_give_little_anguish|310. Give little Anguish — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0333_the_grass_so_little_has_to_do|333. The Grass so little has to do — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0335_tis_not_that_dying_hurts_us_so|335. 'Tis not that Dying hurts us so — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0336_the_face_i_carry_with_me_last|336. The face I carry with me — last — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0338_i_know_that_he_exists|338. I know that He exists. (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0341_after_great_pain_a_formal_feeling_comes|341. After great pain, a formal feeling comes — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0344_twas_the_old_road_through_pain|344. 'Twas the old — road — through pain — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0346_not_probable_the_barest_chance|346. Not probable — The barest Chance — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0358_if_any_sink_assure_that_this_now_standing|358. If any sink, assure that this, now standing — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0360_death_sets_a_thing_significant|360. Death sets a Thing significant (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0363_i_went_to_thank_her|363. I went to thank Her — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0366_although_i_put_away_his_life|366. Although I put away his life — (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0369_she_lay_as_if_at_play|369. She lay as if at play (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0382_for_death_or_rather|382. For Death — or rather (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0388_take_your_heaven_further_on|388. Take your Heaven further on — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0389_theres_been_a_death_in_the_opposite_house|389. There's been a Death, in the Opposite House, (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0390_its_coming_the_postponeless_creature|390. It's coming — the postponeless Creature — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0391_a_visitor_in_marl|391. A Visitor in Marl — (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0396_there_is_a_languor_of_the_life|396. There is a Languor of the Life (Dickinson)]]
-- [[testi/dickinson/atomized/terror-and-horror-madness#0399_a_house_upon_the_height|399. A House upon the Height — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0408_unit_like_death_for_whom|408. Unit, like Death, for Whom (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0409_they_dropped_like_flakes|409. They dropped like Flakes — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0411_the_color_of_the_grave_is_green|411. The Color of the Grave is Green — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0412_i_read_my_sentence_steadily|412. I read my sentence — steadily — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0414_twas_like_a_maelstrom_with_a_notch|414. 'Twas like a Maelstrom, with a notch, (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0417_is_it_dead_find_it|417. Is it dead — Find it — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0422_more_life_went_out_when_he_went|422. More Life — went out — when He went (Dickinson)]]
-- [[testi/dickinson/atomized/time-tempus-fugit-clock#0423_the_months_have_ends_the_years_a_knot|423. The Months have ends — the Years — a knot — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0426_it_dont_sound_so_terrible_quite_as_it_did|426. It don't sound so terrible — quite — as it did — (Dickinson)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#0445_twas_just_this_time_last_year_i_died|445. 'Twas just this time, last year, I died. (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0449_i_died_for_beauty_but_was_scarce|449. I died for Beauty — but was scarce (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0045_theres_something_quieter_than_sleep|45. There's something quieter than sleep (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0457_sweet_safe_houses|457. Sweet — safe — Houses — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0461_a_wife_at_daybreak_i_shall_be|461. A Wife — at daybreak I shall be — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0463_i_live_with_him_i_see_his_face|463. I live with Him — I see His face — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0465_i_heard_a_fly_buzz_when_i_died|465. I heard a Fly buzz — when I died — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0468_the_manner_of_its_death|468. The Manner of its Death (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0470_i_am_alive_i_guess|470. I am alive — I guess — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0475_doom_is_the_house_without_the_door|475. Doom is the House without the Door — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0479_she_dealt_her_pretty_words_like_blades|479. She dealt her pretty words like Blades — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0482_we_cover_thee_sweet_face|482. We Cover Thee — Sweet Face — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0485_to_make_ones_toilette_after_death|485. To make One's Toilette — after Death (Dickinson)]]
-- [[testi/dickinson/atomized/alienation-outsider-exile#0486_i_was_the_slightest_in_the_house|486. I was the slightest in the House — (Dickinson)]]
-- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0489_we_pray_to_heaven|489. We pray — to Heaven — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0049_i_never_lost_as_much_but_twice|49. I never lost as much but twice, (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0491_while_it_is_alive|491. While it is alive (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0496_as_far_from_pity_as_complaint|496. As far from pity, as complaint — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0499_those_fair_fictitious_people|499. Those fair — fictitious People — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0509_if_anybodys_friend_be_dead|509. If anybody's friend be dead (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0510_it_was_not_death_for_i_stood_up|510. It was not Death, for I stood up, (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0519_twas_warm_at_first_like_us|519. 'Twas warm — at first — like Us — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0521_endow_the_living_with_the_tears|521. Endow the Living — with the Tears — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0524_departed_to_the_judgment|524. Departed — to the Judgment — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0529_im_sorry_for_the_dead_today|529. I'm sorry for the Dead — Today — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0053_taken_from_men_this_morning|53. Taken from men — this morning — (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0531_we_dream_it_is_good_we_are_dreaming|531. We dream — it is good we are dreaming — (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0536_the_heart_asks_pleasure_first|536. The Heart asks Pleasure — first — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0537_me_prove_it_now_whoever_doubt|537. Me prove it now — Whoever doubt (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0542_i_had_no_cause_to_be_awake|542. I had no Cause to be awake — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0547_ive_seen_a_dying_eye|547. I've seen a Dying Eye (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0548_death_is_potential_to_that_man|548. Death is potential to that Man (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0559_it_knew_no_medicine|559. It knew no Medicine — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0560_it_knew_no_lapse_nor_diminuation|560. It knew no lapse, nor Diminuation — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0566_a_dying_tiger_moaned_for_drink|566. A Dying Tiger — moaned for Drink — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0567_he_gave_away_his_life|567. He gave away his Life — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0058_delayed_till_she_had_ceased_to_know|58. Delayed till she had ceased to know — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0060_like_her_the_saints_retire|60. Like her the Saints retire, (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0616_i_rose_because_he_sank|616. I rose — because He sank — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0619_glee_the_great_storm_is_over|619. Glee — The great storm is over — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0622_to_know_just_how_he_suffered_would_be_dear|622. To know just how He suffered — would be dear — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0625_twas_a_long_parting_but_the_time|625. 'Twas a long Parting — but the time (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0631_ourselves_were_wed_one_summer_dear|631. Ourselves were wed one summer — dear — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0639_my_portion_is_defeat_today|639. My Portion is Defeat — today — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0640_i_cannot_live_with_you|640. I cannot live with You — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0645_bereavement_in_their_death_to_feel|645. Bereavement in their death to feel (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0648_promise_this_when_you_be_dying|648. Promise This — When You be Dying — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0649_her_sweet_turn_to_leave_the_homestead|649. Her Sweet turn to leave the Homestead (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0654_a_long_long_sleep_a_famous_sleep|654. A long — long Sleep — A famous — Sleep — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0665_dropped_into_the_ether_acre|665. Dropped into the Ether Acre — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0671_she_dwelleth_in_the_ground|671. She dwelleth in the Ground — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0678_wolfe_demanded_during_dying|678. Wolfe demanded during dying (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0692_the_sun_kept_setting_setting_still|692. The Sun kept setting — setting — still (Dickinson)]]
-- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0700_youve_seen_balloons_set_havent_you|700. You've seen Balloons set — Haven't You (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0705_suspense_is_hostiler_than_death|705. Suspense — is Hostiler than Death — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0706_life_and_death_and_giants|706. Life, and Death, and Giants — (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0708_i_sometimes_drop_it_for_a_quick|708. I sometimes drop it, for a Quick — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0071_a_throe_upon_the_features|71. A throe upon the features — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0712_because_i_could_not_stop_for_death|712. Because I could not stop for Death — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0715_the_world_feels_dusty|715. The World — feels Dusty (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#0717_the_beggar_lad_dies_early|717. The Beggar Lad — dies early — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0718_i_meant_to_find_her_when_i_came|718. I meant to find Her when I came — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0072_glowing_is_her_bonnet|72. Glowing is her Bonnet, (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0721_behind_me_dips_eternity|721. Behind Me — dips Eternity — (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#0723_it_tossed_and_tossed|723. It tossed — and tossed — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0726_we_thirst_at_first_tis_natures_act|726. We thirst at first — 'tis Nature's Act — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0731_i_want_it_pleaded_all_its_life|731. I want — it pleaded — All its life — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0734_if_he_were_living_dare_i_ask|734. If He were living — dare I ask — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0735_upon_concluded_lives|735. Upon Concluded Lives (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0740_you_taught_me_waiting_with_myself|740. You taught me Waiting with Myself — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0749_all_but_death_can_be_adjusted|749. All but Death, can be Adjusted — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0075_she_died_at_play|75. She died at play, (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0754_my_life_had_stood_a_loaded_gun|754. My Life had stood — a Loaded Gun — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0758_these_saw_visions|758. These — saw Visions — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0759_he_fought_like_those_whove_nought_to_lose|759. He fought like those Who've nought to lose — (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0762_the_whole_of_it_came_not_at_once|762. The Whole of it came not at once — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0769_one_and_one_are_one|769. One and One — are One — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0778_this_that_would_greet_an_hour_ago|778. This that would greet — an hour ago — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0078_a_poor_torn_heart_a_tattered_heart|78. A poor — torn heart — a tattered heart — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0784_bereaved_of_all_i_went_abroad|784. Bereaved of all, I went abroad — (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0786_severer_service_of_myself|786. Severer Service of myself (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0795_her_final_summer_was_it|795. Her final Summer was it — (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0008_there_is_a_word|8. There is a word (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0804_no_notice_gave_she_but_a_change|804. No Notice gave She, but a Change — (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#0082_whose_cheek_is_this|82. Whose cheek is this (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0822_this_consciousness_that_is_aware|822. This Consciousness that is aware (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0829_ample_make_this_bed|829. Ample make this Bed — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0831_dying_to_be_afraid_of_thee|831. Dying! To be afraid of thee (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0878_the_sun_is_gay_or_stark|878. The Sun is gay or stark (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0879_each_second_is_the_last|879. Each Second is the last (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0088_as_by_the_dead_we_love_to_sit|88. As by the dead we love to sit, (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0889_crisis_is_a_hair|889. Crisis is a Hair (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0900_what_did_they_do_since_i_saw_them|900. What did They do since I saw Them (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0901_sweet_to_have_had_them_lost|901. Sweet, to have had them lost (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0911_too_little_way_the_house_must_lie|911. Too little way the House must lie (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0093_went_up_a_year_this_evening|93. Went up a year this evening! (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0960_as_plan_for_noon_and_plan_for_night|960. As plan for Noon and plan for Night (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0962_midsummer_was_it_when_they_died|962. Midsummer, was it, when They died — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0970_color_caste_denomination|970. Color — Caste — Denomination — (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0971_robbed_by_death_but_that_was_easy|971. Robbed by Death — but that was easy — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0973_twas_awkward_but_it_fitted_me|973. 'Twas awkward, but it fitted me — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0976_death_is_a_dialogue_between|976. Death is a Dialogue between (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0098_one_dignity_delays_for_all|98. One dignity delays for all — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0990_not_all_die_early_dying_young|990. Not all die early, dying young — (Dickinson)]]
-- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#044_a_song_for_simeon|A Song for Simeon (Eliot)]]
-- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#008_aunt_helen|Aunt Helen (Eliot)]]
-- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#023_dans_le_restaurant|Dans le Restaurant (Eliot)]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#074_defence_of_the_islands|Defence of the Islands (Eliot)]]
+- 1026. The Dying need but little, Dear, (Dickinson)
+- 1033. Said Death to Passion (Dickinson)
+- 1049. Pain has but one Acquaintance (Dickinson)
+- 1059. Sang from the Heart, Sire, (Dickinson)
+- 1062. He scanned it — staggered — (Dickinson)
+- 1065. Let down the Bars, Oh Death — (Dickinson)
+- 1100. The last Night that She lived (Dickinson)
+- 1102. His Bill is clasped — his Eye forsook — (Dickinson)
+- 1110. None who saw it ever told it (Dickinson)
+- 1112. That this should feel the need of Death (Dickinson)
+- 1125. Oh Sumptuous moment (Dickinson)
+- 1135. Too cold is this (Dickinson)
+- 1147. After a hundred years (Dickinson)
+- 1153. Through what transports of Patience (Dickinson)
+- 1159. Great Streets of silence led away (Dickinson)
+- 1183. Step lightly on this narrow spot — (Dickinson)
+- 1188. 'Twas fighting for his Life he was — (Dickinson)
+- 1194. Somehow myself survived the Night (Dickinson)
+- 120. If this is fading (Dickinson)
+- 1202. The Frost was never seen — (Dickinson)
+- 1205. Immortal is an ample word (Dickinson)
+- 1209. To disappear enhances — (Dickinson)
+- 1217. Fortitude incarnate (Dickinson)
+- 1221. Some we see no more, Tenements of Wonder (Dickinson)
+- 1227. My Triumph lasted till the Drums (Dickinson)
+- 1230. It came at last but prompter Death (Dickinson)
+- 1238. Power is a familiar growth — (Dickinson)
+- 1243. Safe Despair it is that raves — (Dickinson)
+- 1256. Not any higher stands the Grave (Dickinson)
+- 1260. Because that you are going (Dickinson)
+- 1261. A Word dropped careless on a Page (Dickinson)
+- 1272. So proud she was to die (Dickinson)
+- 1274. The Bone that has no Marrow, (Dickinson)
+- 1277. While we were fearing it, it came — (Dickinson)
+- 1288. Lain in Nature — so suffice us (Dickinson)
+- 1294. Two Lengths has every Day — (Dickinson)
+- 1296. Death's Waylaying not the sharpest (Dickinson)
+- 1297. Go slow, my soul, to feed thyself (Dickinson)
+- 13. Sleep is supposed to be (Dickinson)
+- 1305. Recollect the Face of me (Dickinson)
+- 1307. That short — potential stir (Dickinson)
+- 1310. The Notice that is called the Spring (Dickinson)
+- 132. I bring an unaccustomed wine (Dickinson)
+- 1384. Praise it — 'tis dead — (Dickinson)
+- 1385. Secrets is a daily word (Dickinson)
+- 1396. She laid her docile Crescent down (Dickinson)
+- 1398. I have no Life but this — (Dickinson)
+- 1399. Perhaps they do not go so far (Dickinson)
+- 141. Some, too fragile for winter winds (Dickinson)
+- 1410. I shall not murmur if at last (Dickinson)
+- 1419. It was a quiet seeming Day — (Dickinson)
+- 1420. One Joy of so much anguish (Dickinson)
+- 1422. Summer has two Beginnings — (Dickinson)
+- 1428. Water makes many Beds (Dickinson)
+- 1431. With Pinions of Disdain (Dickinson)
+- 1436. Than Heaven more remote, (Dickinson)
+- 1437. A Dew sufficed itself — (Dickinson)
+- 144. She bore it till the simple veins (Dickinson)
+- 1443. A chilly Peace infests the Grass (Dickinson)
+- 1445. Death is the supple Suitor (Dickinson)
+- 145. This heart that broke so long — (Dickinson)
+- 1454. Those not live yet (Dickinson)
+- 146. On such a night, or such a night, (Dickinson)
+- 149. She went as quiet as the Dew (Dickinson)
+- 150. She died — this was the way she died. (Dickinson)
+- 1524. A faded Boy — in sallow Clothes (Dickinson)
+- 1525. He lived the Life of Ambush (Dickinson)
+- 1526. His oriental heresies (Dickinson)
+- 1527. Oh give it Motion — deck it sweet (Dickinson)
+- 153. Dust is the only Secret — (Dickinson)
+- 1551. Those — dying then, (Dickinson)
+- 1554. Go tell it — What a Message — (Dickinson)
+- 1558. Of Death I try to think like this — (Dickinson)
+- 1573. To the bright east she flies, (Dickinson)
+- 158. Dying! Dying in the night! (Dickinson)
+- 1584. Expanse cannot be lost — (Dickinson)
+- 1588. This Me — that walks and works — must die, (Dickinson)
+- 1597. 'Tis not the swaying frame we miss, (Dickinson)
+- 1603. The going from a world we know (Dickinson)
+- 1612. The Auctioneer of Parting (Dickinson)
+- 1624. Apparently with no surprise (Dickinson)
+- 1626. No Life can pompless pass away — (Dickinson)
+- 1632. So give me back to Death — (Dickinson)
+- 1633. Still own thee — still thou art (Dickinson)
+- 1665. I know of people in the Grave (Dickinson)
+- 171. Wait till the Majesty of Death (Dickinson)
+- 1731. Love can do all but raise the Dead (Dickinson)
+- 1732. My life closed twice before its close — (Dickinson)
+- 1742. The distance that the dead have gone (Dickinson)
+- 1743. The grave my little cottage is, (Dickinson)
+- 1749. The waters chased him as he fled, (Dickinson)
+- 1752. This docile one inter (Dickinson)
+- 1757. Upon the gallows hung a wretch, (Dickinson)
+- 1759. Which misses most, (Dickinson)
+- 1761. A train went through a burial gate, (Dickinson)
+- 187. How many times these low feet staggered — (Dickinson)
+- 190. He was weak, and I was strong — then — (Dickinson)
+- 194. On this long storm the Rainbow rose — (Dickinson)
+- 195. For this — accepted Breath — (Dickinson)
+- 196. We don't cry — Tim and I, (Dickinson)
+- 201. Two swimmers wrestled on the spar — (Dickinson)
+- 205. I should not dare to leave my friend, (Dickinson)
+- 215. What is — Paradise — (Dickinson)
+- 216. Safe in their alabaster chambers (Dickinson)
+- 221. It can't be Summer ! (Dickinson)
+- 230. We — Bee and I — live by the quaffing — (Dickinson)
+- 236. If He dissolve — then — there is nothing — more — (Dickinson)
+- 27. Morns like these — we parted — (Dickinson)
+- 281. 'Tis so appalling — it exhilarates — (Dickinson)
+- 282. How noteless Men, and Pleiads, stand, (Dickinson)
+- 286. That after Horror — that 'twas us — (Dickinson)
+- 287. A Clock stopped — (Dickinson)
+- 292. If your Nerve, deny you — (Dickinson)
+- 310. Give little Anguish — (Dickinson)
+- 333. The Grass so little has to do — (Dickinson)
+- 335. 'Tis not that Dying hurts us so — (Dickinson)
+- 336. The face I carry with me — last — (Dickinson)
+- 338. I know that He exists. (Dickinson)
+- 341. After great pain, a formal feeling comes — (Dickinson)
+- 344. 'Twas the old — road — through pain — (Dickinson)
+- 346. Not probable — The barest Chance — (Dickinson)
+- 358. If any sink, assure that this, now standing — (Dickinson)
+- 360. Death sets a Thing significant (Dickinson)
+- 363. I went to thank Her — (Dickinson)
+- 366. Although I put away his life — (Dickinson)
+- 369. She lay as if at play (Dickinson)
+- 382. For Death — or rather (Dickinson)
+- 388. Take your Heaven further on — (Dickinson)
+- 389. There's been a Death, in the Opposite House, (Dickinson)
+- 390. It's coming — the postponeless Creature — (Dickinson)
+- 391. A Visitor in Marl — (Dickinson)
+- 396. There is a Languor of the Life (Dickinson)
+- 399. A House upon the Height — (Dickinson)
+- 408. Unit, like Death, for Whom (Dickinson)
+- 409. They dropped like Flakes — (Dickinson)
+- 411. The Color of the Grave is Green — (Dickinson)
+- 412. I read my sentence — steadily — (Dickinson)
+- 414. 'Twas like a Maelstrom, with a notch, (Dickinson)
+- 417. Is it dead — Find it — (Dickinson)
+- 422. More Life — went out — when He went (Dickinson)
+- 423. The Months have ends — the Years — a knot — (Dickinson)
+- 426. It don't sound so terrible — quite — as it did — (Dickinson)
+- 445. 'Twas just this time, last year, I died. (Dickinson)
+- 449. I died for Beauty — but was scarce (Dickinson)
+- 45. There's something quieter than sleep (Dickinson)
+- 457. Sweet — safe — Houses — (Dickinson)
+- 461. A Wife — at daybreak I shall be — (Dickinson)
+- 463. I live with Him — I see His face — (Dickinson)
+- 465. I heard a Fly buzz — when I died — (Dickinson)
+- 468. The Manner of its Death (Dickinson)
+- 470. I am alive — I guess — (Dickinson)
+- 475. Doom is the House without the Door — (Dickinson)
+- 479. She dealt her pretty words like Blades — (Dickinson)
+- 482. We Cover Thee — Sweet Face — (Dickinson)
+- 485. To make One's Toilette — after Death (Dickinson)
+- 486. I was the slightest in the House — (Dickinson)
+- 489. We pray — to Heaven — (Dickinson)
+- 49. I never lost as much but twice, (Dickinson)
+- 491. While it is alive (Dickinson)
+- 496. As far from pity, as complaint — (Dickinson)
+- 499. Those fair — fictitious People — (Dickinson)
+- 509. If anybody's friend be dead (Dickinson)
+- 510. It was not Death, for I stood up, (Dickinson)
+- 519. 'Twas warm — at first — like Us — (Dickinson)
+- 521. Endow the Living — with the Tears — (Dickinson)
+- 524. Departed — to the Judgment — (Dickinson)
+- 529. I'm sorry for the Dead — Today — (Dickinson)
+- 53. Taken from men — this morning — (Dickinson)
+- 531. We dream — it is good we are dreaming — (Dickinson)
+- 536. The Heart asks Pleasure — first — (Dickinson)
+- 537. Me prove it now — Whoever doubt (Dickinson)
+- 542. I had no Cause to be awake — (Dickinson)
+- 547. I've seen a Dying Eye (Dickinson)
+- 548. Death is potential to that Man (Dickinson)
+- 559. It knew no Medicine — (Dickinson)
+- 560. It knew no lapse, nor Diminuation — (Dickinson)
+- 566. A Dying Tiger — moaned for Drink — (Dickinson)
+- 567. He gave away his Life — (Dickinson)
+- 58. Delayed till she had ceased to know — (Dickinson)
+- 60. Like her the Saints retire, (Dickinson)
+- 616. I rose — because He sank — (Dickinson)
+- 619. Glee — The great storm is over — (Dickinson)
+- 622. To know just how He suffered — would be dear — (Dickinson)
+- 625. 'Twas a long Parting — but the time (Dickinson)
+- 631. Ourselves were wed one summer — dear — (Dickinson)
+- 639. My Portion is Defeat — today — (Dickinson)
+- 640. I cannot live with You — (Dickinson)
+- 645. Bereavement in their death to feel (Dickinson)
+- 648. Promise This — When You be Dying — (Dickinson)
+- 649. Her Sweet turn to leave the Homestead (Dickinson)
+- 654. A long — long Sleep — A famous — Sleep — (Dickinson)
+- 665. Dropped into the Ether Acre — (Dickinson)
+- 671. She dwelleth in the Ground — (Dickinson)
+- 678. Wolfe demanded during dying (Dickinson)
+- 692. The Sun kept setting — setting — still (Dickinson)
+- 700. You've seen Balloons set — Haven't You (Dickinson)
+- 705. Suspense — is Hostiler than Death — (Dickinson)
+- 706. Life, and Death, and Giants — (Dickinson)
+- 708. I sometimes drop it, for a Quick — (Dickinson)
+- 71. A throe upon the features — (Dickinson)
+- 712. Because I could not stop for Death — (Dickinson)
+- 715. The World — feels Dusty (Dickinson)
+- 717. The Beggar Lad — dies early — (Dickinson)
+- 718. I meant to find Her when I came — (Dickinson)
+- 72. Glowing is her Bonnet, (Dickinson)
+- 721. Behind Me — dips Eternity — (Dickinson)
+- 723. It tossed — and tossed — (Dickinson)
+- 726. We thirst at first — 'tis Nature's Act — (Dickinson)
+- 731. I want — it pleaded — All its life — (Dickinson)
+- 734. If He were living — dare I ask — (Dickinson)
+- 735. Upon Concluded Lives (Dickinson)
+- 740. You taught me Waiting with Myself — (Dickinson)
+- 749. All but Death, can be Adjusted — (Dickinson)
+- 75. She died at play, (Dickinson)
+- 754. My Life had stood — a Loaded Gun — (Dickinson)
+- 758. These — saw Visions — (Dickinson)
+- 759. He fought like those Who've nought to lose — (Dickinson)
+- 762. The Whole of it came not at once — (Dickinson)
+- 769. One and One — are One — (Dickinson)
+- 778. This that would greet — an hour ago — (Dickinson)
+- 78. A poor — torn heart — a tattered heart — (Dickinson)
+- 784. Bereaved of all, I went abroad — (Dickinson)
+- 786. Severer Service of myself (Dickinson)
+- 795. Her final Summer was it — (Dickinson)
+- 8. There is a word (Dickinson)
+- 804. No Notice gave She, but a Change — (Dickinson)
+- 82. Whose cheek is this (Dickinson)
+- 822. This Consciousness that is aware (Dickinson)
+- 829. Ample make this Bed — (Dickinson)
+- 831. Dying! To be afraid of thee (Dickinson)
+- 878. The Sun is gay or stark (Dickinson)
+- 879. Each Second is the last (Dickinson)
+- 88. As by the dead we love to sit, (Dickinson)
+- 889. Crisis is a Hair (Dickinson)
+- 900. What did They do since I saw Them (Dickinson)
+- 901. Sweet, to have had them lost (Dickinson)
+- 911. Too little way the House must lie (Dickinson)
+- 93. Went up a year this evening! (Dickinson)
+- 960. As plan for Noon and plan for Night (Dickinson)
+- 962. Midsummer, was it, when They died — (Dickinson)
+- 970. Color — Caste — Denomination — (Dickinson)
+- 971. Robbed by Death — but that was easy — (Dickinson)
+- 973. 'Twas awkward, but it fitted me — (Dickinson)
+- 976. Death is a Dialogue between (Dickinson)
+- 98. One dignity delays for all — (Dickinson)
+- 990. Not all die early, dying young — (Dickinson)
+- [[works/a-song-for-simeon-(eliot)|A Song for Simeon (Eliot)]]
+- [[works/aunt-helen-(eliot)|Aunt Helen (Eliot)]]
+- [[works/dans-le-restaurant-(eliot)|Dans le Restaurant (Eliot)]]
+- [[works/defence-of-the-islands-(eliot)|Defence of the Islands (Eliot)]]
 - [[works/east-coker-1940-(eliot)|East Coker 1940 (Eliot)]]
-- [[testi/eliot/atomized/alienation-outsider-exile#052_eyes_that_last_i_saw_in_tears|Eyes that last I saw in tears (Eliot)]]
-- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#043_journey_of_the_magi|Journey of the Magi (Eliot)]]
-- [[testi/eliot/atomized/alienation-outsider-exile#046_marina|Marina (Eliot)]]
+- [[works/eyes-that-last-i-saw-in-tears-(eliot)|Eyes that last I saw in tears (Eliot)]]
+- [[works/journey-of-the-magi-(eliot)|Journey of the Magi (Eliot)]]
+- [[works/marina-(eliot)|Marina (Eliot)]]
 - [[works/minor-poems-(eliot)|MINOR POEMS (Eliot)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
 - [[works/occasional-verses-(eliot)|OCCASIONAL VERSES (Eliot)]]
-- [[testi/eliot/atomized/alienation-outsider-exile#003_portrait_of_a_lady|Portrait of a Lady (Eliot)]]
+- [[works/portrait-of-a-lady-(eliot)|Portrait of a Lady (Eliot)]]
 - [[works/sweeney-agonistes-(eliot)|Sweeney Agonistes (Eliot)]]
-- [[testi/eliot/atomized/alienation-outsider-exile#026_sweeney_among_the_nightingales|Sweeney Among the Nightingales (Eliot)]]
-- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#053_the_wind_sprang_up_at_four_oclock|The wind sprang up at four o’clock (Eliot)]]
-- [[testi/eliot/atomized/alienation-outsider-exile#076_to_the_indians_who_died_in_africa|To the Indians who Died in Africa (Eliot)]]
+- [[works/sweeney-among-the-nightingales-(eliot)|Sweeney Among the Nightingales (Eliot)]]
+- [[works/the-wind-sprang-up-at-four-o’clock-(eliot)|The wind sprang up at four o’clock (Eliot)]]
+- [[works/to-the-indians-who-died-in-africa-(eliot)|To the Indians who Died in Africa (Eliot)]]
 - [[works/unfinished-poems-(eliot)|UNFINISHED POEMS (Eliot)]]
-- [[testi/eliot/atomized/alienation-outsider-exile#123_v_w_x|V, W, X (Eliot)]]
-- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#024_whispers_of_immortality|Whispers of Immortality (Eliot)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#071_a_song_of_opposites|A Song of Opposites (Keats)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#089_faery_songs|Faery Songs (Keats)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#030_isabella|ISABELLA (Keats)]]
-- [[testi/keats/atomized/sea-water#032_ode_to_a_nightingale|ODE TO A NIGHTINGALE (Keats)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#041_on_death|On Death (Keats)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#118_song_i_had_a_dove_and_the_sweet_dove_died|Song I had a dove and the sweet dove died (Keats)]]
-- [[testi/keats/atomized/sea-water#062_sonnet_on_a_picture_of_leander|Sonnet on a Picture of Leander (Keats)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#046_sonnet_to_chatterton|Sonnet to Chatterton (Keats)]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#053_sonnet_as_from_the_darkening_gloom_a_silver_dove|Sonnet As from the darkening gloom a silver dove (Keats)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#120_sonnet_why_did_i_laugh_tonight_no_voice_will_tell|Sonnet Why did I laugh tonight No voice will tell (Keats)]]
+- [[works/v,-w,-x-(eliot)|V, W, X (Eliot)]]
+- [[works/whispers-of-immortality-(eliot)|Whispers of Immortality (Eliot)]]
+- [[works/a-song-of-opposites-(keats)|A Song of Opposites (Keats)]]
+- [[works/faery-songs-(keats)|Faery Songs (Keats)]]
+- [[works/isabella-(keats)|ISABELLA (Keats)]]
+- [[works/ode-to-a-nightingale-(keats)|ODE TO A NIGHTINGALE (Keats)]]
+- [[works/on-death-(keats)|On Death (Keats)]]
+- [[works/song-i-had-a-dove-and-the-sweet-dove-died-(keats)|Song I had a dove and the sweet dove died (Keats)]]
+- [[works/sonnet-on-a-picture-of-leander-(keats)|Sonnet on a Picture of Leander (Keats)]]
+- [[works/sonnet-to-chatterton-(keats)|Sonnet to Chatterton (Keats)]]
+- [[works/sonnet-as-from-the-darkening-gloom-a-silver-dove-(keats)|Sonnet As from the darkening gloom a silver dove (Keats)]]
+- [[works/sonnet-why-did-i-laugh-tonight-no-voice-will-tell-(keats)|Sonnet Why did I laugh tonight No voice will tell (Keats)]]
 - [[works/a-descent-into-the-maelstrom-(poe)|A Descent Into the Maelstrom (Poe)]]
 - [[works/a-predicament-(poe)|A Predicament (Poe)]]
 - [[works/al-aaraaf-(poe)|Al Aaraaf (Poe)]]
@@ -375,93 +375,93 @@ tags:
 - [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
 - [[works/richard-duke-of-york---(3-henry-vi)-(shakespeare)|RICHARD DUKE OF YORK - (3 HENRY VI) (Shakespeare)]]
 - [[works/romeo-and-juliet-(shakespeare)|ROMEO AND JULIET (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_107|Sonnet 107 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_012|Sonnet 12 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_126|Sonnet 126 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_013|Sonnet 13 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_146|Sonnet 146 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_147|Sonnet 147 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_018|Sonnet 18 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_030|Sonnet 30 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_031|Sonnet 31 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_032|Sonnet 32 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_006|Sonnet 6 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_066|Sonnet 66 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_071|Sonnet 71 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_072|Sonnet 72 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_073|Sonnet 73 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_074|Sonnet 74 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_081|Sonnet 81 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_009|Sonnet 9 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_092|Sonnet 92 (Shakespeare)]]
-- [[testi/whitman/atomized/stars-night-military-camp#276_a_clear_midnight|A Clear Midnight (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#157_a_march_in_the_ranks_hard_prest_and_the_road_unknown|A March in the Ranks Hard-Prest, and the Road Unknown (Whitman)]]
-- [[testi/whitman/atomized/heroism-hero-last-stand#158_a_sight_in_camp_in_the_daybreak_gray_and_dim|A Sight in Camp in the Daybreak Gray and Dim (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#087_a_song_of_joys|A Song of Joys (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#369_a_twilight_song|A Twilight Song (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#372_a_voice_from_death|A Voice from Death (Whitman)]]
-- [[testi/whitman/atomized/journey-ship#350_after_the_supper_and_talk|After the Supper and Talk (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#282_as_at_thy_portals_also_death|As at Thy Portals Also Death (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#251_as_i_watch_the_ploughman_ploughing|As I Watch the Ploughman Ploughing (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#277_as_the_time_draws_nigh|As the Time Draws Nigh (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#287_as_they_draw_to_a_close|As They Draw to a Close (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#279_ashes_of_soldiers|Ashes of Soldiers (Whitman)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#241_assurances|Assurances (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#144_beat_beat_drums|Beat! Beat! Drums! (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#285_camps_of_green|Camps of Green (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#155_come_up_from_the_fields_father|Come Up from the Fields Father (Whitman)]]
+- Sonnet 107 (Shakespeare)
+- Sonnet 12 (Shakespeare)
+- Sonnet 126 (Shakespeare)
+- Sonnet 13 (Shakespeare)
+- Sonnet 146 (Shakespeare)
+- Sonnet 147 (Shakespeare)
+- Sonnet 18 (Shakespeare)
+- Sonnet 30 (Shakespeare)
+- Sonnet 31 (Shakespeare)
+- Sonnet 32 (Shakespeare)
+- Sonnet 6 (Shakespeare)
+- Sonnet 66 (Shakespeare)
+- Sonnet 71 (Shakespeare)
+- Sonnet 72 (Shakespeare)
+- Sonnet 73 (Shakespeare)
+- Sonnet 74 (Shakespeare)
+- Sonnet 81 (Shakespeare)
+- Sonnet 9 (Shakespeare)
+- Sonnet 92 (Shakespeare)
+- [[works/a-clear-midnight-(whitman)|A Clear Midnight (Whitman)]]
+- [[works/a-march-in-the-ranks-hard-prest,-and-the-road-unknown-(whitman)|A March in the Ranks Hard-Prest, and the Road Unknown (Whitman)]]
+- [[works/a-sight-in-camp-in-the-daybreak-gray-and-dim-(whitman)|A Sight in Camp in the Daybreak Gray and Dim (Whitman)]]
+- [[works/a-song-of-joys-(whitman)|A Song of Joys (Whitman)]]
+- [[works/a-twilight-song-(whitman)|A Twilight Song (Whitman)]]
+- [[works/a-voice-from-death-(whitman)|A Voice from Death (Whitman)]]
+- [[works/after-the-supper-and-talk-(whitman)|After the Supper and Talk (Whitman)]]
+- [[works/as-at-thy-portals-also-death-(whitman)|As at Thy Portals Also Death (Whitman)]]
+- [[works/as-i-watch-the-ploughman-ploughing-(whitman)|As I Watch the Ploughman Ploughing (Whitman)]]
+- [[works/as-the-time-draws-nigh-(whitman)|As the Time Draws Nigh (Whitman)]]
+- [[works/as-they-draw-to-a-close-(whitman)|As They Draw to a Close (Whitman)]]
+- [[works/ashes-of-soldiers-(whitman)|Ashes of Soldiers (Whitman)]]
+- [[works/assurances-(whitman)|Assurances (Whitman)]]
+- [[works/beat!-beat!-drums!-(whitman)|Beat! Beat! Drums! (Whitman)]]
+- [[works/camps-of-green-(whitman)|Camps of Green (Whitman)]]
+- [[works/come-up-from-the-fields-father-(whitman)|Come Up from the Fields Father (Whitman)]]
 - [[works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)|Complete Prose Works Specimen Days and Collect, November Boughs and Goodbye My Fancy (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#235_darest_thou_now_o_soul|Darest Thou Now O Soul (Whitman)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#178_delicate_cluster|Delicate Cluster (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#165_dirge_for_two_veterans|Dirge for Two Veterans (Whitman)]]
+- [[works/darest-thou-now-o-soul-(whitman)|Darest Thou Now O Soul (Whitman)]]
+- [[works/delicate-cluster-(whitman)|Delicate Cluster (Whitman)]]
+- [[works/dirge-for-two-veterans-(whitman)|Dirge for Two Veterans (Whitman)]]
 - [[works/drum-taps-(whitman)|Drum-Taps (Whitman)]]
-- [[testi/whitman/atomized/sea-water#313_fancies_at_navesink|FANCIES AT NAVESINK (Whitman)]]
-- [[testi/whitman/atomized/heroism-hero-last-stand#270_from_far_dakota_s_canyons_june_25_1876|From Far Dakota’s Canyons June 25, 1876 (Whitman)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#116_gods|Gods (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#380_good_bye_my_fancy|Good-Bye My Fancy! (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#364_interpolation_sounds|Interpolation Sounds (Whitman)]]
-- [[testi/whitman/atomized/journey-ship#288_joy_shipmate_joy|Joy, Shipmate, Joy! (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#376_l_of_g_s_purport|L. of G.’s Purport (Whitman)]]
+- [[works/fancies-at-navesink-(whitman)|FANCIES AT NAVESINK (Whitman)]]
+- [[works/from-far-dakota’s-canyons-june-25,-1876-(whitman)|From Far Dakota’s Canyons June 25, 1876 (Whitman)]]
+- [[works/gods-(whitman)|Gods (Whitman)]]
+- [[works/good-bye-my-fancy!-(whitman)|Good-Bye My Fancy! (Whitman)]]
+- [[works/interpolation-sounds-(whitman)|Interpolation Sounds (Whitman)]]
+- [[works/joy,-shipmate,-joy!-(whitman)|Joy, Shipmate, Joy! (Whitman)]]
+- [[works/l.-of-g.’s-purport-(whitman)|L. of G.’s Purport (Whitman)]]
 - [[works/leaves-of-grass-(whitman)|Leaves of Grass (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#180_lo_victress_on_the_peaks|Lo, Victress on the Peaks (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#174_look_down_fair_moon|Look Down Fair Moon (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#266_mediums|Mediums (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#375_mirages|Mirages (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#227_my_picture_gallery|My Picture-Gallery (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#248_night_on_the_prairies|Night on the Prairies (Whitman)]]
-- [[testi/whitman/atomized/journey-ship#292_now_finale_to_the_shore|Now Finale to the Shore (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#246_o_living_always_always_dying|O Living Always, Always Dying (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#238_of_him_i_love_day_and_night|Of Him I Love Day and Night (Whitman)]]
-- [[testi/whitman/atomized/sea-water#322_old_salt_kossabone|Old Salt Kossabone (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#271_old_war_dreams|Old War-Dreams (Whitman)]]
-- [[testi/whitman/atomized/heroism-hero-last-stand#371_osceola|Osceola (Whitman)]]
-- [[testi/whitman/atomized/sea-water#102_out_of_the_cradle_endlessly_rocking|Out of the Cradle Endlessly Rocking (Whitman)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#111_patroling_barnegat|Patroling Barnegat (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#284_pensive_on_her_dead_gazing|Pensive on Her Dead Gazing (Whitman)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#095_pioneers_o_pioneers|Pioneers! O Pioneers! (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#303_queries_to_my_seventieth_year|Queries to My Seventieth Year (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#175_reconciliation|Reconciliation (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#044_scented_herbage_of_my_breast|Scented Herbage of My Breast (Whitman)]]
+- [[works/lo,-victress-on-the-peaks-(whitman)|Lo, Victress on the Peaks (Whitman)]]
+- [[works/look-down-fair-moon-(whitman)|Look Down Fair Moon (Whitman)]]
+- [[works/mediums-(whitman)|Mediums (Whitman)]]
+- [[works/mirages-(whitman)|Mirages (Whitman)]]
+- [[works/my-picture-gallery-(whitman)|My Picture-Gallery (Whitman)]]
+- [[works/night-on-the-prairies-(whitman)|Night on the Prairies (Whitman)]]
+- [[works/now-finale-to-the-shore-(whitman)|Now Finale to the Shore (Whitman)]]
+- [[works/o-living-always,-always-dying-(whitman)|O Living Always, Always Dying (Whitman)]]
+- [[works/of-him-i-love-day-and-night-(whitman)|Of Him I Love Day and Night (Whitman)]]
+- [[works/old-salt-kossabone-(whitman)|Old Salt Kossabone (Whitman)]]
+- [[works/old-war-dreams-(whitman)|Old War-Dreams (Whitman)]]
+- [[works/osceola-(whitman)|Osceola (Whitman)]]
+- [[works/out-of-the-cradle-endlessly-rocking-(whitman)|Out of the Cradle Endlessly Rocking (Whitman)]]
+- [[works/patroling-barnegat-(whitman)|Patroling Barnegat (Whitman)]]
+- [[works/pensive-on-her-dead-gazing-(whitman)|Pensive on Her Dead Gazing (Whitman)]]
+- [[works/pioneers!-o-pioneers!-(whitman)|Pioneers! O Pioneers! (Whitman)]]
+- [[works/queries-to-my-seventieth-year-(whitman)|Queries to My Seventieth Year (Whitman)]]
+- [[works/reconciliation-(whitman)|Reconciliation (Whitman)]]
+- [[works/scented-herbage-of-my-breast-(whitman)|Scented Herbage of My Breast (Whitman)]]
 - [[works/song-of-myself-(whitman)|Song of Myself (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#090_song_of_the_redwood_tree|Song of the Redwood-Tree (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#195_the_city_dead_house|The City Dead-House (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#250_the_last_invocation|The Last Invocation (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#357_the_pallid_wreath|The Pallid Wreath (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#232_the_sleepers|The Sleepers (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#286_the_sobbing_of_the_bells_midnight_sept_19_20_1881|The Sobbing of the Bells Midnight, Sept. 19-20, 1881 (Whitman)]]
+- [[works/song-of-the-redwood-tree-(whitman)|Song of the Redwood-Tree (Whitman)]]
+- [[works/the-city-dead-house-(whitman)|The City Dead-House (Whitman)]]
+- [[works/the-last-invocation-(whitman)|The Last Invocation (Whitman)]]
+- [[works/the-pallid-wreath-(whitman)|The Pallid Wreath (Whitman)]]
+- [[works/the-sleepers-(whitman)|The Sleepers (Whitman)]]
+- [[works/the-sobbing-of-the-bells-midnight,-sept.-19-20,-1881-(whitman)|The Sobbing of the Bells Midnight, Sept. 19-20, 1881 (Whitman)]]
 - [[works/the-wound-dresser-a-series-of-letters-written-from-the-hospitals-in-washington-during-the-war-of-the-rebellion|The Wound Dresser A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#162_the_wound_dresser|The Wound-Dresser (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#196_this_compost|This Compost (Whitman)]]
+- [[works/the-wound-dresser-(whitman)|The Wound-Dresser (Whitman)]]
+- [[works/this-compost-(whitman)|This Compost (Whitman)]]
 - [[works/thought-(whitman)-(2)|Thought (Whitman) (2)]]
 - [[works/thoughts-(whitman)-(3)|Thoughts (Whitman) (3)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#179_to_a_certain_civilian|To a Certain Civilian (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#247_to_one_shortly_to_die|To One Shortly to Die (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#234_to_think_of_time|To Think of Time (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#297_to_those_who_ve_fail_d|To Those Who’ve Fail’d (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#156_vigil_strange_i_kept_on_the_field_one_night|Vigil Strange I Kept on the Field One Night (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#267_weave_in_my_hardy_life|Weave in, My Hardy Life (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#185_when_lilacs_last_in_the_dooryard_bloom_d|When Lilacs Last in the Dooryard Bloom’d (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#236_whispers_of_heavenly_death|Whispers of Heavenly Death (Whitman)]]
+- [[works/to-a-certain-civilian-(whitman)|To a Certain Civilian (Whitman)]]
+- [[works/to-one-shortly-to-die-(whitman)|To One Shortly to Die (Whitman)]]
+- [[works/to-think-of-time-(whitman)|To Think of Time (Whitman)]]
+- [[works/to-those-who’ve-fail’d-(whitman)|To Those Who’ve Fail’d (Whitman)]]
+- [[works/vigil-strange-i-kept-on-the-field-one-night-(whitman)|Vigil Strange I Kept on the Field One Night (Whitman)]]
+- [[works/weave-in,-my-hardy-life-(whitman)|Weave in, My Hardy Life (Whitman)]]
+- [[works/when-lilacs-last-in-the-dooryard-bloom’d-(whitman)|When Lilacs Last in the Dooryard Bloom’d (Whitman)]]
+- [[works/whispers-of-heavenly-death-(whitman)|Whispers of Heavenly Death (Whitman)]]
 - [[works/a-florentine-tragedy-(wilde)|A Florentine Tragedy (Wilde)]]
 - [[works/la-sainte-courtisane-(wilde)|La Sainte Courtisane (Wilde)]]
 - [[works/lord-arthur-savile's-crime-(wilde)|Lord Arthur Savile's Crime (Wilde)]]

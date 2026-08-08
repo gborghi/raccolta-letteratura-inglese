@@ -14,8 +14,8 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0498_i_envy_seas_whereon_he_rides|498. I envy Seas, whereon He rides — (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0533_two_butterflies_went_out_at_noon|533. Two butterflies went out at Noon — (Dickinson)]]
+- 498. I envy Seas, whereon He rides — (Dickinson)
+- 533. Two butterflies went out at Noon — (Dickinson)
 
 </div>
 

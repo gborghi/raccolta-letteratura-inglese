@@ -43,12 +43,12 @@ tags:
 
 **Topoi:** [[topoi/ubi-sunt|Ubi Sunt]], [[topoi/immortality-through-verse|Immortality Through Verse]]
 
-**Archetypes:** [[archetypes/king|King]]
+**Archetypes:** King
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/crown|Crown]], [[motifs/flags-and-banners|Flags and Banners]]
 **Themes & Concepts:** [[concepts/truth|Truth]], [[concepts/imagination|Imagination]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nostalgia|Nostalgia]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/ratiocination-detection|Ratiocination Detection]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 **Historical References:** [[historical-references/arthurian-legend|Arthurian Legend]]
-**Characters:** [[characters/king-arthur|King Arthur]]
+**Characters:** King Arthur
 
 ## Testo integrale / Full text
 

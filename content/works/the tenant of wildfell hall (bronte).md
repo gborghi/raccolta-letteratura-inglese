@@ -64,13 +64,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/rebel|Rebel]], [[archetypes/lover|Lover]]
+**Archetypes:** (Reputed) Fallen Woman, Rebel, Lover
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/romantic-love|Romantic Love]], [[concepts/identity|Identity]], [[concepts/temptation|Temptation]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/faith|Faith]], [[concepts/conscience|Conscience]], [[concepts/social-injustice|Social Injustice]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/maturation-and-growth|Maturation and Growth]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/epistolary-diary-novel|Epistolary Diary Novel]]
 **Historical References:** [[historical-references/christianity|Christianity]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** [[characters/helen-huntingdon|Helen Huntingdon]], [[characters/gilbert-markham|Gilbert Markham]], [[characters/arthur-huntingdon|Arthur Huntingdon]], [[characters/walter-hargrave|Walter Hargrave]], [[characters/annabella-lowborough|Annabella Lowborough]], [[characters/lord-lowborough|Lord Lowborough]]
+**Characters:** Helen Huntingdon, Gilbert Markham, Arthur Huntingdon, Walter Hargrave, Annabella Lowborough, Lord Lowborough
 
 ## Testo integrale / Full text
 

@@ -38,7 +38,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/lover|Lover]]
+**Archetypes:** Lover
 
 **Settings:** [[settings/island|Island]]
 

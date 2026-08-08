@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/seasons-winter-autumn" data-author="Keats" data-workhref="works/seasons-·-winter-·-autumn-(keats)"></div>
 
 
-<span class="atom-split" data-atom="035_fancy" data-title="FANCY" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/nature,concept/imagination,concept/transience,concept/joy,histref/greek_mythology,cluster/seasons,cluster/winter,cluster/autumn"></span>
+<span class="atom-split" data-atom="035_fancy" data-title="FANCY" data-chapter="" data-kind="intro"></span>
 
 
 Ever let the Fancy roam,  
@@ -113,7 +113,7 @@ Pleasure never is at [[motifs/home|home]].
 
 
 
-<span class="atom-split" data-atom="039_to_autumn" data-title="TO AUTUMN" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/autumn,motif/seasons,motif/nature,motif/food_feasting,motif/music_and_song,concept/transience,concept/mortality,form/ode,setting/pastoral_countryside,cluster/seasons,cluster/winter,cluster/autumn"></span>
+<span class="atom-split" data-atom="039_to_autumn" data-title="TO AUTUMN" data-chapter="" data-kind="intro"></span>
 
 
 Season of mists and mellow fruitfulness,  
@@ -140,7 +140,7 @@ Steady thy laden head across a brook;  20
 Or by a cyder-press, with patient look,  
 Thou watchest the last oozings hours by hours.  
 
-Where are the songs of [[motifs/spring|Spring]]? Ay, where are they?  
+Where are the [[songs]] of [[motifs/spring|Spring]]? Ay, where are they?  
 Think not of them, thou hast thy music too,--  
 While barred clouds bloom the soft-dying day,  
 And touch the stubble-plains with rosy hue;  
@@ -155,7 +155,7 @@ And gathering swallows twitter in the skies.
 
 
 
-<span class="atom-split" data-atom="058_sonnet_after_dark_vapours_have_oppressd_our_plains" data-title="Sonnet: After dark vapours have oppress’d our plains" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/spring,motif/autumn,motif/nature,motif/the_clock,concept/transience,concept/mortality,form/sonnet,cluster/seasons,cluster/winter,cluster/autumn"></span>
+<span class="atom-split" data-atom="058_sonnet_after_dark_vapours_have_oppressd_our_plains" data-title="Sonnet: After dark vapours have oppress’d our plains" data-chapter="" data-kind="intro"></span>
 
 
 After dark vapours have oppress’d our plains  
@@ -176,7 +176,7 @@ A woodland rivulet - a Poet’s [[motifs/death|death]].
 
 
 
-<span class="atom-split" data-atom="061_on_seeing_the_elgin_marbles" data-title="On Seeing the Elgin Marbles" data-chapter="" data-kind="intro" data-tags="topos/sic_transit_gloria_mundi,motif/ruins,motif/time,motif/birds,concept/mortality,concept/the_sublime,concept/transience,form/sonnet,histref/ancient_greece,cluster/seasons,cluster/winter,cluster/autumn"></span>
+<span class="atom-split" data-atom="061_on_seeing_the_elgin_marbles" data-title="On Seeing the Elgin Marbles" data-chapter="" data-kind="intro"></span>
 
 
 My spirit is too weak - [[concepts/mortality|mortality]]  
@@ -198,7 +198,7 @@ A sun - a [[archetypes/shadow|shadow]] of a magnitude.
 
 
 
-<span class="atom-split" data-atom="063_to" data-title="To —" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/mutability,motif/eyes_sight,concept/transience,concept/grief_and_loss,concept/love_romantic,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
+<span class="atom-split" data-atom="063_to" data-title="To —" data-chapter="" data-kind="intro"></span>
 
 
 Think not of it, sweet one, so; -  
@@ -230,7 +230,7 @@ A [[forms/dirge|dirge]] of kisses.
 
 
 
-<span class="atom-split" data-atom="079_sonnet_to_a_lady_seen_for_a_few_moments_at_vauxhall" data-title="Sonnet to a Lady Seen for a Few Moments at Vauxhall" data-chapter="" data-kind="intro" data-tags="motif/time,motif/memory,motif/rose,motif/the_sea,concept/unrequited_love,concept/nostalgia,concept/memory_and_time,form/sonnet,cluster/seasons,cluster/winter,cluster/autumn"></span>
+<span class="atom-split" data-atom="079_sonnet_to_a_lady_seen_for_a_few_moments_at_vauxhall" data-title="Sonnet to a Lady Seen for a Few Moments at Vauxhall" data-chapter="" data-kind="intro"></span>
 
 
 [[motifs/time|Time]]’s sea hath been five years at its slow ebb,  
@@ -251,7 +251,7 @@ And grief unto my darling joys dost bring.
 
 
 
-<span class="atom-split" data-atom="081_sonnet_to_john_hamilton_reynolds" data-title="Sonnet to John Hamilton Reynolds" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,topos/tempus_fugit,motif/time,motif/the_journey,concept/friendship,concept/joy,form/sonnet,cluster/seasons,cluster/winter,cluster/autumn"></span>
+<span class="atom-split" data-atom="081_sonnet_to_john_hamilton_reynolds" data-title="Sonnet to John Hamilton Reynolds" data-chapter="" data-kind="intro"></span>
 
 
 O that a week could be an age, and we  
@@ -273,7 +273,7 @@ Me how to harbour such a happy thought.
 
 
 
-<span class="atom-split" data-atom="082_what_the_thrush_said" data-title="What the Thrush Said" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/seasons,motif/winter,motif/spring,concept/negative_capability,concept/wonder_and_gratitude,form/sonnet,cluster/seasons,cluster/winter,cluster/autumn"></span>
+<span class="atom-split" data-atom="082_what_the_thrush_said" data-title="What the Thrush Said" data-chapter="" data-kind="intro"></span>
 
 
 Lines From a Letter to John Hamilton Reynolds  
@@ -286,7 +286,7 @@ Of supreme darkness which thou feddest on
 [[motifs/night|Night]] after [[motifs/night|night]] when Phoebus was away.  
 To thee the [[motifs/spring|Spring]] shall be a triple morn.  
 O fret not after knowledge - I have none,  
-And yet my song comes native with the warmth.  
+And yet my [[Song|song]] comes native with the warmth.  
 10  
 O fret not after knowledge - I have none,  
 And yet the Evening listens. He who saddens  
@@ -296,7 +296,7 @@ And he’s awake who thinks himself asleep.
 
 
 
-<span class="atom-split" data-atom="083_sonnet_-_the_human_seasons" data-title="Sonnet - The Human Seasons" data-chapter="" data-kind="intro" data-tags="topos/seven_ages_of_man,motif/seasons,motif/mutability,motif/winter,concept/transience,concept/mortality,concept/self_and_soul,form/sonnet,cluster/seasons,cluster/winter,cluster/autumn"></span>
+<span class="atom-split" data-atom="083_sonnet_-_the_human_seasons" data-title="Sonnet - The Human Seasons" data-chapter="" data-kind="intro"></span>
 
 
 Four [[motifs/seasons|seasons]] fill the measure of the year;  
@@ -317,7 +317,7 @@ Or else he would forego his mortal [[concepts/nature|nature]].
 
 
 
-<span class="atom-split" data-atom="104_lines_written_in_the_highlands_after_a_visit_to_burnss_country" data-title="Lines Written in the Highlands after a Visit to Burns’s Country" data-chapter="" data-kind="intro" data-tags="archetype/pilgrim,motif/memory,concept/memory_and_time,concept/mortality,concept/the_sublime,concept/madness,setting/scotland,cluster/seasons,cluster/winter,cluster/autumn"></span>
+<span class="atom-split" data-atom="104_lines_written_in_the_highlands_after_a_visit_to_burnss_country" data-title="Lines Written in the Highlands after a Visit to Burns’s Country" data-chapter="" data-kind="intro"></span>
 
 
 There is a charm in footing slow across a silent plain,
@@ -343,7 +343,7 @@ Ring-doves may fly convuls’d across to some high-cedar’d lair; 20
 But the forgotten eye is still fast lidded to the ground,
 As Palmer’s, that with weariness, mid-[[motifs/desert|desert]] shrine hath found.
 At such a [[motifs/time|time]] the [[motifs/soul|soul]]’s a [[archetypes/child|child]], in [[motifs/childhood|childhood]] is the brain;
-Forgotten is the worldly heart - alone, it beats in vain. -
+Forgotten is the worldly heart - [[Alone|alone]], it beats in vain. -
 Aye, if a madman could have leave to pass a healthful day
 To tell his forehead’s swoon and faint when first began [[motifs/decay|decay]],
 He might make tremble many a one whose spirit had gone forth
@@ -375,7 +375,7 @@ And keep his vision clear from speck, his inward sight unblind.
 
 
 
-<span class="atom-split" data-atom="112_stanzas" data-title="Stanzas" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/winter,concept/memory_and_time,concept/transience,concept/grief_and_loss,concept/nostalgia,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
+<span class="atom-split" data-atom="112_stanzas" data-title="Stanzas" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -411,7 +411,7 @@ Was never said in rhyme.
 
 
 
-<span class="atom-split" data-atom="133_the_day_is_gone_and_all_its_sweets_are_gone" data-title="The day is gone, and all its sweets are gone!" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/love_as_religion,motif/night,motif/flowers,concept/transience,concept/love_romantic,form/sonnet,cluster/seasons,cluster/winter,cluster/autumn"></span>
+<span class="atom-split" data-atom="133_the_day_is_gone_and_all_its_sweets_are_gone" data-title="The day is gone, and all its sweets are gone!" data-chapter="" data-kind="intro"></span>
 
 
 The day is gone, and all its sweets are gone!  

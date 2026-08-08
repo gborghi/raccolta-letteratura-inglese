@@ -39,7 +39,7 @@ alla locanda in capo al mondo.
 Gli dèi giacciono morti dove le [[motifs/leaves|foglie]] giacciono rosse,  
 poiché la fiamma del sole è volata via,  
 gli dèi giacciono freddi dove le [[motifs/leaves|foglie]] giacciono d'oro,  
-e un [[archetypes/child|Bambino]] viene avanti solo.  
+e un [[archetypes/child|Bambino]] viene avanti [[Alone|solo]].  
 - G.K. Chesterton
 
 -------------------------------------------------------------
@@ -71,7 +71,7 @@ At the inn at the end of the world.
 The gods lie dead where the [[motifs/leaves|leaves]] lie red,  
 For the flame of the sun is flown,  
 The gods lie cold where the [[motifs/leaves|leaves]] lie gold,  
-And a [[archetypes/child|Child]] comes forth alone.  
+And a [[archetypes/child|Child]] comes forth [[Alone|alone]].  
 - G.K. Chesterton
 
 -------------------------------------------------------------
@@ -101,7 +101,7 @@ alla locanda in capo al mondo.
 Gli dèi giacciono morti dove le [[motifs/leaves|foglie]] giacciono rosse,  
 poiché la fiamma del sole è volata via,  
 gli dèi giacciono freddi dove le [[motifs/leaves|foglie]] giacciono d'oro,  
-e un [[archetypes/child|Bambino]] viene avanti solo.  
+e un [[archetypes/child|Bambino]] viene avanti [[Alone|solo]].  
 - G.K. Chesterton
 
 -------------------------------------------------------------

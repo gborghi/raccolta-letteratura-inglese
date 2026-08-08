@@ -24,11 +24,11 @@ tags:
 - [[works/conversion-(chesterton)|conversion (Chesterton)]]
 - [[works/intro-love-and-freindship-(chesterton)|intro-love-and-freindship (Chesterton)]]
 - [[works/penny-dreadfuls-(chesterton)|penny-dreadfuls (Chesterton)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#205_dejection_an_ode|DEJECTION AN ODE (Coleridge)]]
-- [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#411_notes_by_professor_saintsbury|NOTES BY PROFESSOR SAINTSBURY (Coleridge)]]
+- [[works/dejection-an-ode-(coleridge)|DEJECTION AN ODE (Coleridge)]]
+- [[works/notes-by-professor-saintsbury-(coleridge)|NOTES BY PROFESSOR SAINTSBURY (Coleridge)]]
 - [[works/to-william-wordsworth-composed-on-the-night-after-his-recitation-of-a-poem-on-the-growth-of-an-individual-mind|TO WILLIAM WORDSWORTH COMPOSED ON THE NIGHT AFTER HIS RECITATION OF A POEM ON THE GROWTH OF AN INDIVIDUAL MIND]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#025_addressed_to_the_same|ADDRESSED TO THE SAME (Keats)]]
-- [[testi/keats/atomized/sea-water#045_sonnet_to_byron|Sonnet to Byron (Keats)]]
+- [[works/addressed-to-the-same-(keats)|ADDRESSED TO THE SAME (Keats)]]
+- [[works/sonnet-to-byron-(keats)|Sonnet to Byron (Keats)]]
 - [[works/pen,-pencil-and-poison-(wilde)|Pen, Pencil and Poison (Wilde)]]
 
 </div>

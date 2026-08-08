@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="the_pickwick_papers" data-title="The Pickwick Papers" data-chapter="" data-kind="intro"></span>
 
 
-THE PICKWICK PAPERS
+THE [[Pickwick|PICKWICK]] PAPERS
 
 
 By Charles Dickens
@@ -24,7 +24,7 @@ By Charles Dickens
 CONTENTS
 
 
-THE POSTHUMOUS PAPERS OF THE PICKWICK CLUB
+THE POSTHUMOUS PAPERS OF THE [[Pickwick|PICKWICK]] CLUB
 
 
 CHAPTER I.   THE PICKWICKIANS
@@ -71,7 +71,7 @@ CHAPTER XX.   SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS
 
 CHAPTER XXI.   IN WHICH THE OLD MAN LAUNCHES FORTH
 
-CHAPTER XXII.   MR. PICKWICK JOURNEYS TO IPSWICH AND MEETS WITH A
+CHAPTER XXII.   MR. [[Pickwick|PICKWICK]] JOURNEYS TO IPSWICH AND MEETS WITH A
 ROMANTIC
 
 CHAPTER XXIII.   IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS
@@ -100,7 +100,7 @@ CHAPTER XXXIII.   MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS
 
 CHAPTER XXXIV.   IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT
 
-CHAPTER XXXV.   IN WHICH MR. PICKWICK THINKS HE HAD BETTER GO TO BATH
+CHAPTER XXXV.   IN WHICH MR. [[Pickwick|PICKWICK]] THINKS HE HAD BETTER GO TO BATH
 
 CHAPTER XXXVI.   THE CHIEF FEATURES OF WHICH WILL BE FOUND
 
@@ -111,10 +111,10 @@ PAN
 
 CHAPTER XXXIX.   MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION
 
-CHAPTER XL.   INTRODUCES MR. PICKWICK TO A NEW AND NOT UNINTERESTING
+CHAPTER XL.   INTRODUCES MR. [[Pickwick|PICKWICK]] TO A NEW AND NOT UNINTERESTING
 SCENE
 
-CHAPTER XLI.   WHAT BEFELL MR. PICKWICK WHEN HE GOT INTO THE FLEET
+CHAPTER XLI.   WHAT BEFELL MR. [[Pickwick|PICKWICK]] WHEN HE GOT INTO THE FLEET
 
 CHAPTER XLII.   ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB
 
@@ -128,14 +128,14 @@ CHAPTER XLVI.   RECORDS A TOUCHING ACT OF DELICATE FEELING
 
 CHAPTER XLVII.   IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS
 
-CHAPTER XLVIII.   RELATES HOW MR. PICKWICK, WITH THE ASSISTANCE OF
+CHAPTER XLVIII.   RELATES HOW MR. [[Pickwick|PICKWICK]], WITH THE ASSISTANCE OF
 SAMUEL
 
 CHAPTER XLIX.   CONTAINING THE STORY OF THE BAGMAN’S UNCLE
 
-CHAPTER L.   HOW MR. PICKWICK SPED UPON HIS MISSION
+CHAPTER L.   HOW MR. [[Pickwick|PICKWICK]] SPED UPON HIS MISSION
 
-CHAPTER LI.   IN WHICH MR. PICKWICK ENCOUNTERS AN OLD ACQUAINTANCE
+CHAPTER LI.   IN WHICH MR. [[Pickwick|PICKWICK]] ENCOUNTERS AN OLD ACQUAINTANCE
 
 CHAPTER LII.   INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY
 
@@ -147,12 +147,13 @@ CHAPTER LV.   MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE
 
 
 
+
 <span class="atom-split" data-atom="chapter_01_an_important_conference_takes" data-title="The Pickwick Papers — Chapter 56: AN IMPORTANT CONFERENCE TAKES PLACE" data-chapter="AN IMPORTANT CONFERENCE TAKES" data-kind="chapter" data-tags="topos/double,motif/fire,motif/journey,motif/love,motif/marriage,motif/night,concept/history,form/history,setting/court"></span>
 
 
 CHAPTER LVI.   AN IMPORTANT CONFERENCE TAKES PLACE
 
-CHAPTER LVII.   IN WHICH THE PICKWICK CLUB IS FINALLY DISSOLVED
+CHAPTER LVII.   IN WHICH THE [[Pickwick|PICKWICK]] CLUB IS FINALLY DISSOLVED
 
 
 
@@ -182,7 +183,7 @@ Member to serve in Parliament for that ancient, loyal, and patriotic
 Borough 14. Comprising a brief Description of the Company at the Peacock
 assembled; and a Tale told by a Bagman 15. In which is given a faithful
 Portraiture of two distinguished Persons; and an accurate Description of
-a public Breakfast in their House and Grounds: which public Breakfast
+a public Breakfast in their [[house|House]] and Grounds: which public Breakfast
 leads to the Recognition of an old Acquaintance, and the Commencement of
 anothe r Chapter 16. Too full of Adventure to be briefly described 17.
 Showing that an Attack of Rheumatism, in some Cases, acts as a Quickener
@@ -229,7 +230,7 @@ and went; also relates how he was intrusted by Mr. [[works/pickwick-(chesterton)
 Private Mission of Delicacy and Importance 38. How Mr. Winkle, when he
 stepped out of the Frying-pan, walked gently and comfortably into the
 [[motifs/fire|Fire]] 39. Mr. Samuel Weller, being intrusted with a Mission of [[motifs/love|Love]],
-proceeds to execute it; with what Success will hereinafter appear 40.
+proceeds to execute it; with what [[success|Success]] will hereinafter appear 40.
 Introduces Mr. [[works/pickwick-(chesterton)|Pickwick]] to a new and not uninteresting Scene in the
 great Drama of Life 41. What befell Mr. [[works/pickwick-(chesterton)|Pickwick]] when he got into the
 Fleet; what Prisoners he saw there; and how he passed the [[motifs/night|Night]] 42.
@@ -271,7 +272,7 @@ concluded to the Satisfaction of Everybody
 
 
 
-THE POSTHUMOUS PAPERS OF THE PICKWICK CLUB
+THE POSTHUMOUS PAPERS OF THE [[Pickwick|PICKWICK]] CLUB
 
 
 
@@ -391,7 +392,7 @@ fitted drabs.
 <span class="atom-split" data-atom="chapter_02_the_pickwickians--part_02" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 2)" data-chapter="THE PICKWICKIANS" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/journey,motif/rose,motif/water,motif/well,motif/window,concept/doubt,concept/honour,concept/pride,concept/self,character/samuel_pickwick"></span>
 
 
-Mr. [[works/pickwick-(chesterton)|Pickwick]]’s oration upon this occasion, together with the debate
+Mr. [[works/pickwick-(chesterton)|Pickwick]]’s oration upon this occasion, together with the [[debate]]
 thereon, is entered on the Transactions of the Club. Both bear a strong
 affinity to the discussions of other celebrated bodies; and, as it is
 always interesting to trace a resemblance between the proceedings of
@@ -437,7 +438,7 @@ rivalry, now took this vile and calumnious mode of--
 allude to him? (Cries of “Order,” “Chair,” “Yes,” “No,” “Go on,” “Leave
 off,” etc.)
 
-‘MR. PICKWICK would not put up to be put down by clamour. He had alluded
+‘MR. [[Pickwick|PICKWICK]] would not put up to be put down by clamour. He had alluded
 to the honourable gentleman. (Great excitement.)
 
 ‘MR. BLOTTON would only say then, that he repelled the hon. gent.’s
@@ -465,12 +466,12 @@ acknowledge that, personally, he entertained the highest regard and
 esteem for the honourable gentleman; he had merely considered him a
 humbug in a Pickwickian point of view. (Hear, hear.)
 
-‘MR. PICKWICK felt much gratified by the fair, candid, and full
+‘MR. [[Pickwick|PICKWICK]] felt much gratified by the fair, candid, and full
 explanation of his honourable friend. He begged it to be at once
 understood, that his own observations had been merely intended to bear a
 Pickwickian construction. (Cheers.)’
 
-Here the entry terminates, as we have no [[concepts/doubt|doubt]] the debate did also,
+Here the entry terminates, as we have no [[concepts/doubt|doubt]] the [[debate]] did also,
 after arriving at such a highly satisfactory and intelligible point. We
 have no official statement of the facts which the reader will find
 recorded in the next chapter, but they have been carefully collated from
@@ -517,7 +518,7 @@ sackcloth coat, and apron of the same, who, with a brass label and
 number round his neck, looked as if he were catalogued in some
 collection of rarities. This was the waterman. ‘Here you are, sir. Now,
 then, fust cab!’ And the first cab having been fetched from the public-
-house, where he had been smoking his first pipe, Mr. [[works/pickwick-(chesterton)|Pickwick]] and his
+[[house]], where he had been smoking his first pipe, Mr. [[works/pickwick-(chesterton)|Pickwick]] and his
 portmanteau were thrown into the vehicle.
 
 ‘Golden [[motifs/cross|Cross]],’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
@@ -584,11 +585,11 @@ Sam!--and they crowded with great glee round the party.
 
 ‘What’s the row, Sam?’ inquired one gentleman in black calico sleeves.
 
-‘Row!’ replied the cabman, ‘what did he want my number for?’
+‘Row!’ replied the [[cabman]], ‘what did he want my number for?’
 
 ‘I didn’t want your number,’ said the astonished Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
-‘What did you take it for, then?’ inquired the cabman.
+‘What did you take it for, then?’ inquired the [[cabman]].
 
 ‘I didn’t take it,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]] indignantly.
 
@@ -597,11 +598,11 @@ crowd, ‘would anybody believe as an informer’ud go about in a man’s cab,
 not only takin’ down his number, but ev’ry word he says into the
 bargain’ (a light flashed upon Mr. [[works/pickwick-(chesterton)|Pickwick]]--it was the note-book).
 
-‘Did he though?’ inquired another cabman.
+‘Did he though?’ inquired another [[cabman]].
 
 ‘Yes, did he,’ replied the first; ‘and then arter aggerawatin’ me to
 assault him, gets three witnesses here to prove it. But I’ll give it
-him, if I’ve six months for it. Come on!’ and the cabman dashed his hat
+him, if I’ve six months for it. Come on!’ and the [[cabman]] dashed his hat
 upon the ground, with a reckless disregard of his own private property,
 and knocked Mr. [[works/pickwick-(chesterton)|Pickwick]]’s spectacles off, and followed up the attack
 with a blow on Mr. [[works/pickwick-(chesterton)|Pickwick]]’s nose, and another on Mr. [[works/pickwick-(chesterton)|Pickwick]]’s chest,
@@ -618,7 +619,7 @@ breath out of Mr. Winkle’s [[concepts/body|body]]; and all in half a dozen sec
 
 ‘Informers!’ shouted the crowd.
 
-‘Come on,’ cried the cabman, who had been sparring without cessation the
+‘Come on,’ cried the [[cabman]], who had been sparring without cessation the
 whole [[motifs/time|time]].
 
 The mob hitherto had been passive spectators of the scene, but as the
@@ -698,7 +699,7 @@ proceeded, when his friends had exhausted themselves, to return in
 chosen terms his warmest thanks for his recent assistance.
 
 ‘Never mind,’ said the stranger, cutting the address very short, ‘said
-enough--no more; smart chap that cabman--handled his fives [[motifs/well|well]]; but if
+enough--no more; smart chap that [[cabman]]--handled his fives [[motifs/well|well]]; but if
 I’d been your friend in the green jemmy--damn me--punch his head,--‘cod
 I would,--pig’s whisper--pieman too,--no gammon.’
 
@@ -769,16 +770,16 @@ Revolution in 1830.
 
 ‘A little, Sir,’ replied that gentleman.
 
-‘Fine pursuit, sir--fine pursuit.--Dogs, Sir?’
+‘Fine pursuit, sir--fine pursuit.--[[dogs|Dogs]], Sir?’
 
 ‘Not just now,’ said Mr. Winkle.
 
-‘Ah! you should keep dogs--fine [[motifs/animals|animals]]--sagacious creatures--dog of my
+‘Ah! you should keep [[dogs]]--fine [[motifs/animals|animals]]--sagacious creatures--dog of my
 own once--pointer--surprising instinct--out shooting one day--entering
 inclosure--whistled--dog stopped--whistled again--Ponto--no go; stock
 still--called him--Ponto, Ponto--wouldn’t move--dog transfixed--staring
 at a board--looked up, saw an [[forms/inscription|inscription]]--“Gamekeeper has orders to
-shoot all dogs found in this inclosure”--wouldn’t pass it--wonderful
+shoot all [[dogs]] found in this inclosure”--wouldn’t pass it--wonderful
 dog--valuable dog that--very.’
 
 
@@ -823,14 +824,14 @@ stomach pump--undermined constitution--fell a victim.’
 ‘And her father?’ inquired the poetic Snodgrass.
 
 ‘Remorse and misery,’ replied the stranger. ‘Sudden disappearance--talk
-of the whole [[motifs/city|city]]--search made everywhere without success--public
+of the whole [[motifs/city|city]]--search made everywhere without [[success]]--public
 fountain in the great square suddenly ceased playing--weeks elapsed--
 still a stoppage--workmen employed to clean it--[[motifs/water|water]] drawn off--father-
 in-law discovered sticking head first in the main pipe, with a full
 confession in his right boot--took him out, and the fountain played away
 again, as [[motifs/well|well]] as ever.’
 
-‘Will you allow me to note that little romance down, Sir?’ said Mr.
+‘Will you allow me to note that little [[Romance|romance]] down, Sir?’ said Mr.
 Snodgrass, deeply affected.
 
 ‘Certainly, Sir, certainly--fifty more if you like to hear ‘em--strange
@@ -862,8 +863,8 @@ stopped.
 
 ‘Do you remain here, Sir?’ inquired Mr. [[characters/nathaniel-winkle|Nathaniel Winkle]].
 
-‘Here--not I--but you’d better--good house--nice beds--Wright’s next
-house, dear--very dear--half-a-[[motifs/crown|crown]] in the bill if you look at the
+‘Here--not I--but you’d better--good [[house]]--nice beds--Wright’s next
+[[house]], dear--very dear--half-a-[[motifs/crown|crown]] in the bill if you look at the
 waiter--charge you more if you dine at a friend’s than they would if you
 dined in the coffee-room--rum fellows--very.’
 
@@ -918,12 +919,12 @@ mind to see these gallant men staggering along under the influence of an
 overflow both of animal and ardent spirits; more especially when we
 remember that the following them about, and jesting with them, affords a
 cheap and [[archetypes/innocent|innocent]] amusement for the boy population. Nothing,’ adds Mr.
-[[works/pickwick-(chesterton)|Pickwick]], ‘can exceed their good-humour. It was but the day before my
-arrival that one of them had been most grossly insulted in the house of
+[[works/pickwick-(chesterton)|Pickwick]], ‘can exceed their good-[[Humour|humour]]. It was but the day before my
+arrival that one of them had been most grossly insulted in the [[house]] of
 a publican. The barmaid had positively refused to draw him any more
 liquor; in return for which he had (merely in playfulness) drawn his
 bayonet, and wounded the girl in the shoulder. And yet this fine fellow
-was the very first to go down to the house next morning and express his
+was the very first to go down to the [[house]] next morning and express his
 readiness to overlook the matter, and forget what had occurred!
 
 
@@ -1289,7 +1290,7 @@ liberal landlord--very foolish--very--lemonade much better--hot rooms--
 elderly gentlemen--suffer for it in the morning--cruel--cruel;’ and he
 moved on a step or two.
 
-‘You are stopping in this house, Sir,’ said the indignant little man;
+‘You are stopping in this [[house]], Sir,’ said the indignant little man;
 ‘you are intoxicated now, Sir; you shall hear from me in the morning,
 sir. I shall find you out, sir; I shall find you out.’
 
@@ -1620,7 +1621,7 @@ the two friends followed him at a little distance, as he walked away.
 
 The evening grew more dull every moment, and a [[concepts/melancholy|melancholy]] [[motifs/wind|wind]] sounded
 through the deserted fields, like a distant giant whistling for his
-house-dog. The sadness of the scene imparted a sombre tinge to the
+[[house]]-dog. The sadness of the scene imparted a sombre tinge to the
 feelings of Mr. Winkle. He started as they passed the angle of the
 trench--it looked like a colossal [[motifs/grave|grave]].
 
@@ -1853,7 +1854,7 @@ advancing to Mr. Winkle and speaking in a low and confidential tone.
 ‘Rum fellow--does the heavy business--no actor--strange man--all sorts
 of miseries--Dismal Jemmy, we call him on the circuit.’ Mr. Winkle and
 Mr. Snodgrass politely welcomed the gentleman, elegantly designated as
-‘Dismal Jemmy’; and calling for brandy-and-[[motifs/water|water]], in imitation of the
+‘Dismal Jemmy’; and calling for brandy-and-[[motifs/water|water]], in [[Imitation|imitation]] of the
 remainder of the company, seated themselves at the table.
 
 ‘Now sir,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], ‘will you oblige us by proceeding with
@@ -1911,11 +1912,11 @@ had become enfeebled by dissipation and emaciated by disease, he had
 been in the receipt of a good salary, which, if he had been careful and
 prudent, he might have continued to receive for some years--not many;
 because these men either die early, or by unnaturally taxing their
-bodily energies, lose, prematurely, those physical powers on which alone
+bodily energies, lose, prematurely, those physical powers on which [[Alone|alone]]
 they can depend for subsistence. His besetting sin gained so fast upon
 him, however, that it was found impossible to employ him in the
 situations in which he really was useful to the theatre. The public-
-house had a fascination for him which he could not resist. Neglected
+[[house]] had a fascination for him which he could not resist. Neglected
 disease and hopeless [[concepts/poverty|poverty]] were as certain to be his portion as [[motifs/death|death]]
 itself, if he persevered in the same course; yet he did persevere, and
 the result may be guessed. He could obtain no engagement, and he wanted
@@ -1928,7 +1929,7 @@ procession men, tumblers, and so forth, who are taken on during the run
 of a pantomime, or an Easter piece, and are then discharged, until the
 production of some heavy spectacle occasions a new demand for their
 services. To this mode of life the man was compelled to resort; and
-taking the chair every [[motifs/night|night]], at some low theatrical house, at once put
+taking the chair every [[motifs/night|night]], at some low theatrical [[house]], at once put
 him in possession of a few more shillings weekly, and enabled him to
 gratify his old propensity. Even this resource shortly failed him; his
 irregularities were too great to admit of his earning the wretched
@@ -1949,7 +1950,7 @@ one knew how, I had a short engagement at one of the theatres on the
 Surrey side of the [[motifs/water|water]], and here I saw this man, whom I had lost sight
 of for some [[motifs/time|time]]; for I had been travelling in the provinces, and he had
 been skulking in the lanes and alleys of [[settings/london|London]]. I was dressed to leave
-the house, and was crossing the stage on my way out, when he tapped me
+the [[house]], and was crossing the stage on my way out, when he tapped me
 on the shoulder. Never shall I forget the repulsive sight that met my
 eye when I turned round. He was dressed for the pantomimes in all the
 absurdity of a clown’s costume. The spectral figures in the [[motifs/dance|Dance]] of
@@ -1978,12 +1979,12 @@ away; and after the curtain fell, sallied forth on my [[concepts/melancholy|mela
 ‘It was late, for I had been playing in the last piece; and, as it was a
 benefit [[motifs/night|night]], the performances had been protracted to an unusual
 length. It was a dark, cold [[motifs/night|night]], with a chill, damp [[motifs/wind|wind]], which blew
-the rain heavily against the windows and house-fronts. Pools of [[motifs/water|water]]
+the rain heavily against the windows and [[house]]-fronts. Pools of [[motifs/water|water]]
 had collected in the narrow and little-frequented streets, and as many
 of the thinly-scattered oil-lamps had been blown out by the violence of
 the [[motifs/wind|wind]], the walk was not only a comfortless, but most uncertain one. I
 had fortunately taken the right course, however, and succeeded, after a
-little difficulty, in finding the house to which I had been directed--a
+little difficulty, in finding the [[house]] to which I had been directed--a
 coal-shed, with one storey above it, in the back room of which lay the
 object of my search.
 
@@ -2104,7 +2105,7 @@ occupations and pursuits of health, when the [[concepts/body|body]] lies before 
 and helpless; but when those occupations are of a character the most
 strongly opposed to anything we associate with [[motifs/grave|grave]] and solemn ideas,
 the impression produced is infinitely more powerful. The theatre and the
-public-house were the chief themes of the wretched man’s wanderings. It
+public-[[house]] were the chief themes of the wretched man’s wanderings. It
 was evening, he fancied; he had a part to play that [[motifs/night|night]]; it was late,
 and he must leave [[motifs/home|home]] instantly. Why did they hold him, and prevent his
 going?--he should lose the money--he must go. No! they would not let
@@ -2113,8 +2114,8 @@ weakness, and the cruelty of his persecutors. A short pause, and he
 shouted out a few doggerel rhymes--the last he had ever learned. He [[motifs/rose|rose]]
 in bed, drew up his withered limbs, and rolled about in uncouth
 positions; he was acting--he was at the theatre. A minute’s [[motifs/silence|silence]], and
-he murmured the burden of some roaring song. He had reached the old
-house at last--how hot the room was. He had been ill, very ill, but he
+he murmured the burden of some roaring [[Song|song]]. He had reached the old
+[[house]] at last--how hot the room was. He had been ill, very ill, but he
 was [[motifs/well|well]] now, and happy. Fill up his glass. Who was that, that dashed it
 from his lips? It was the same persecutor that had followed him before.
 He fell back upon his pillow and moaned aloud. A short period of
@@ -2300,7 +2301,7 @@ his distinguished life in such a cause as this.’
 ‘Hold him tight,’ shouted Mr. Snodgrass; and by the united efforts of
 the whole company, Mr. [[works/pickwick-(chesterton)|Pickwick]] was forced into an arm-chair.
 
-‘Leave him alone,’ said the green-coated stranger; ‘brandy-and-[[motifs/water|water]]--
+‘Leave him [[Alone|alone]],’ said the green-coated stranger; ‘brandy-and-[[motifs/water|water]]--
 jolly old gentleman--lots of pluck--[[motifs/swallow|swallow]] this--ah!--capital stuff.’
 Having previously tested the virtues of a bumper, which had been mixed
 by the dismal man, the stranger applied the glass to Mr. [[works/pickwick-(chesterton)|Pickwick]]’s
@@ -2322,7 +2323,7 @@ appeared to find a resting-place in Mr. Winkle’s bosom, occasioned
 possibly by the temporary abstraction of his coat--though it is scarcely
 reasonable to suppose that so slight a circumstance can have excited
 even a passing feeling of anger in a Pickwickian’s breast. With this
-exception, their good-humour was completely restored; and the evening
+exception, their good-[[Humour|humour]] was completely restored; and the evening
 concluded with the conviviality with which it had begun.
 
 
@@ -2419,7 +2420,7 @@ the line; there was a general clash of muskets as arms were presented;
 and the commander-in-chief, attended by Colonel Bulder and numerous
 officers, cantered to the front. The military bands struck up
 altogether; the horses stood upon two legs each, cantered backwards, and
-whisked their tails about in all directions; the dogs barked, the mob
+whisked their tails about in all directions; the [[dogs]] barked, the mob
 screamed, the troops recovered, and nothing was to be seen on either
 side, as far as the eye could reach, but a long perspective of red coats
 and white trousers, fixed and motionless.
@@ -2459,7 +2460,7 @@ wholly divested of any expression whatever.
 
 ‘We are in a capital situation now,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], looking round
 him. The crowd had gradually dispersed in their immediate vicinity, and
-they were nearly alone.
+they were nearly [[Alone|alone]].
 
 ‘Capital!’ echoed both Mr. Snodgrass and Mr. Winkle.
 
@@ -2897,7 +2898,7 @@ again.
 
 
 
-CHAPTER V. A SHORT ONE--SHOWING, AMONG OTHER MATTERS, HOW Mr. PICKWICK
+CHAPTER V. A SHORT ONE--SHOWING, AMONG OTHER MATTERS, HOW Mr. [[Pickwick|PICKWICK]]
 UNDERTOOK TO DRIVE, AND MR. WINKLE TO RIDE, AND HOW THEY BOTH DID IT
 
 Bright and pleasant was the sky, balmy the air, and beautiful the
@@ -2985,7 +2986,7 @@ attentively while I did so.’
 ‘I asked for no opinion,’ said the dismal man, interrupting him, ‘and I
 want none. You are travelling for amusement and instruction. Suppose I
 forward you a curious manuscript--observe, not curious because wild or
-improbable, but curious as a leaf from the romance of real life--would
+improbable, but curious as a leaf from the [[Romance|romance]] of real life--would
 you communicate it to the club, of which you have spoken so frequently?’
 
 ‘Certainly,’ replied Mr. [[works/pickwick-(chesterton)|Pickwick]], ‘if you wished it; and it would be
@@ -3230,7 +3231,7 @@ abandoning the chaise to its fate.
 
 
 An hour’s walk brought the travellers to a little [[motifs/road|road]]-side public-
-house, with two elm-trees, a [[motifs/horse|horse]] trough, and a signpost, in front; one
+[[house]], with two elm-trees, a [[motifs/horse|horse]] trough, and a signpost, in front; one
 or two deformed hay-ricks behind, a kitchen [[motifs/garden|garden]] at the side, and
 rotten sheds and mouldering outhouses jumbled in strange confusion all
 about it. A red-headed man was working in the [[motifs/garden|garden]]; and to him Mr.
@@ -3278,7 +3279,7 @@ it.’
 ‘Afraid!’ exclaimed Mr. [[works/pickwick-(chesterton)|Pickwick]], ‘what’s the woman afraid of?’
 
 ‘It got us in trouble last [[motifs/time|time]],’ said the woman, turning into the
-house; ‘I woan’t have nothin’ to say to ‘un.’
+[[house]]; ‘I woan’t have nothin’ to say to ‘un.’
 
 ‘Most extraordinary thing I have ever met with in my life,’ said the
 astonished Mr. [[works/pickwick-(chesterton)|Pickwick]].
@@ -3295,9 +3296,9 @@ the [[motifs/horse|horse]]?’
 
 ‘I’m sure ye did,’ replied the red-headed man, with a grin which
 agitated his countenance from one auricular organ to the other. Saying
-which he turned into the house and banged the door after him.
+which he turned into the [[house]] and banged the door after him.
 
-‘It’s like a dream,’ ejaculated Mr. [[works/pickwick-(chesterton)|Pickwick]], ‘a hideous dream. The idea
+‘It’s like [[A Dream|a dream]],’ ejaculated Mr. [[works/pickwick-(chesterton)|Pickwick]], ‘a hideous dream. The idea
 of a man’s walking about all day with a dreadful [[motifs/horse|horse]] that he can’t get
 rid of!’ The depressed Pickwickians turned moodily away, with the tall
 quadruped, for which they all felt the most unmitigated disgust,
@@ -3438,7 +3439,7 @@ dare say; but I can’t hear him.’
 ‘Grandma’s rather put out now,’ said Miss [[characters/isabella|Isabella]] Wardle, in a low
 tone; ‘but she’ll talk to you presently.’
 
-Mr. [[works/pickwick-(chesterton)|Pickwick]] nodded his readiness to humour the infirmities of age, and
+Mr. [[works/pickwick-(chesterton)|Pickwick]] nodded his readiness to [[Humour|humour]] the infirmities of age, and
 entered into a general conversation with the other members of the
 circle.
 
@@ -3518,7 +3519,7 @@ table, on the other hand, was so boisterously merry as materially to
 interrupt the contemplations of Mr. Miller, who, not being quite so much
 absorbed as he ought to have been, contrived to commit various high
 crimes and misdemeanours, which excited the wrath of the fat gentleman
-to a very great extent, and called forth the good-humour of the old lady
+to a very great extent, and called forth the good-[[Humour|humour]] of the old lady
 in a proportionate degree.
 
 
@@ -3630,12 +3631,12 @@ down the old lady’s face as she shook her head with a [[concepts/melancholy|me
 the host, after a short pause, ‘for I [[motifs/love|love]] it dearly, and know no other-
 -the old houses and fields seem like living friends to me; and so does
 our little church with the ivy, about which, by the bye, our excellent
-friend there made a song when he first came amongst us. Mr. Snodgrass,
+friend there made a [[Song|song]] when he first came amongst us. Mr. Snodgrass,
 have you anything in your glass?’
 
 ‘Plenty, thank you,’ replied that gentleman, whose poetic curiosity had
 been greatly excited by the last observation of his entertainer. ‘I beg
-your pardon, but you were talking about the song of the Ivy.’
+your pardon, but you were talking about the [[Song|song]] of the Ivy.’
 
 ‘You must ask our friend opposite about that,’ said the host knowingly,
 indicating the clergyman by a nod of his head.
@@ -3733,7 +3734,7 @@ my parishioners was a man of the name of Edmunds, who leased a small
 farm near this spot. He was a morose, savage-hearted, bad man; idle and
 dissolute in his habits; cruel and ferocious in his disposition. Beyond
 the few lazy and reckless vagabonds with whom he sauntered away his [[motifs/time|time]]
-in the fields, or sotted in the ale-house, he had not a single friend or
+in the fields, or sotted in the ale-[[house]], he had not a single friend or
 acquaintance; no one cared to speak to the man whom many feared, and
 every one detested--and Edmunds was shunned by all.
 
@@ -3757,7 +3758,7 @@ exertions were but ill repaid. People who passed the spot in the
 evening--sometimes at a late hour of the [[motifs/night|night]]--reported that they had
 heard the moans and sobs of a woman in distress, and the sound of blows;
 and more than once, when it was past midnight, the boy knocked softly at
-the door of a neighbour’s house, whither he had been sent, to escape the
+the door of a neighbour’s [[house]], whither he had been sent, to escape the
 drunken fury of his unnatural father.
 
 ‘During the whole of this [[motifs/time|time]], and when the poor creature often bore
@@ -3924,7 +3925,7 @@ recollection till his heart failed him, and he could bear it no longer.
 ‘He entered the church. The evening service was concluded and the
 congregation had dispersed, but it was not yet closed. His steps echoed
 through the low building with a hollow sound, and he almost feared to be
-alone, it was so still and quiet. He looked round him. Nothing was
+[[Alone|alone]], it was so still and quiet. He looked round him. Nothing was
 changed. The place seemed smaller than it used to be; but there were the
 old monuments on which he had gazed with childish awe a thousand times;
 the little pulpit with its faded cushion; the Communion table before
@@ -3932,7 +3933,7 @@ which he had so often repeated the Commandments he had reverenced as a
 [[archetypes/child|child]], and forgotten as a man. He approached the old seat; it looked
 cold and desolate. The cushion had been removed, and the [[historical-references/bible|Bible]] was not
 there. Perhaps his mother now occupied a poorer seat, or possibly she
-had grown infirm and could not reach the church alone. He dared not
+had grown infirm and could not reach the church [[Alone|alone]]. He dared not
 think of what he feared. A cold feeling crept over him, and he trembled
 violently as he turned away. ‘An old man entered the porch just as he
 reached it. Edmunds started back, for he knew him [[motifs/well|well]]; many a [[motifs/time|time]] he
@@ -3947,7 +3948,7 @@ and the people were sitting at their doors, or strolling in their little
 gardens as he passed, enjoying the serenity of the evening, and their
 rest from labour. Many a look was turned towards him, and many a
 doubtful glance he cast on either side to see whether any knew and
-shunned him. There were strange faces in almost every house; in some he
+shunned him. There were strange faces in almost every [[house]]; in some he
 recognised the burly form of some old schoolfellow--a boy when he last
 saw him--surrounded by a troop of merry children; in others he saw,
 seated in an easy-chair at a cottage door, a feeble and infirm old man,
@@ -3956,7 +3957,7 @@ forgotten him, and he passed on unknown.
 
 ‘The last soft light of the setting sun had fallen on the earth, casting
 a rich glow on the yellow corn sheaves, and lengthening the shadows of
-the orchard trees, as he stood before the old house--the [[motifs/home|home]] of his
+the orchard trees, as he stood before the old [[house]]--the [[motifs/home|home]] of his
 infancy--to which his heart had yearned with an intensity of affection
 not to be described, through long and weary years of captivity and
 sorrow. The paling was low, though he [[motifs/well|well]] remembered the [[motifs/time|time]] that it
@@ -3965,7 +3966,7 @@ There were more seeds and gayer [[motifs/flowers|flowers]] than there used to be
 were the old trees still--the very tree under which he had lain a
 thousand times when tired of playing in the sun, and felt the soft, mild
 [[motifs/sleep|sleep]] of happy boyhood steal gently upon him. There were voices within
-the house. He listened, but they fell strangely upon his ear; he knew
+the [[house]]. He listened, but they fell strangely upon his ear; he knew
 them not. They were merry too; and he [[motifs/well|well]] knew that his poor old mother
 could not be cheerful, and he away. The door opened, and a group of
 little children bounded out, shouting and romping. The father, with a
@@ -3986,7 +3987,7 @@ clenched, and his teeth were set, in a fierce and deadly passion.
 
 ‘And such was the return to which he had looked through the weary
 perspective of many years, and for which he had undergone so much
-[[concepts/suffering|suffering]]! No face of welcome, no look of [[concepts/forgiveness|forgiveness]], no house to
+[[concepts/suffering|suffering]]! No face of welcome, no look of [[concepts/forgiveness|forgiveness]], no [[house]] to
 receive, no hand to help him--and this too in the old village. What was
 his [[concepts/loneliness|loneliness]] in the wild, thick woods, where man was never seen, to
 this!
@@ -4111,7 +4112,7 @@ never saw him aim at anything.’
 
 The fat boy, who under the exciting influence of the morning did not
 appear to be more than three parts and a fraction asleep, emerged from
-the house.
+the [[house]].
 
 ‘Go up, and call the gentleman, and tell him he’ll find me and Mr.
 [[works/pickwick-(chesterton)|Pickwick]] in the rookery. Show the gentleman the way there; d’ye hear?’
@@ -4227,7 +4228,7 @@ recovering of the unfortunate individual, the binding up of his arm with
 pocket-handkerchiefs, and the conveying him back by slow degrees
 supported by the arms of his anxious friends.
 
-They drew near the house. The ladies were at the [[motifs/garden|garden]] gate, waiting
+They drew near the [[house]]. The ladies were at the [[motifs/garden|garden]] gate, waiting
 for their arrival and their breakfast. The spinster aunt appeared; she
 smiled, and beckoned them to walk quicker. ‘Twas evident she knew not of
 the disaster. Poor thing! there are times when ignorance is bliss
@@ -4304,7 +4305,7 @@ position; and Mr. Wardle, accompanied by a surgeon, entered the room.
 The arm was examined, the wound dressed, and pronounced to be a very
 slight one; and the minds of the company having been thus satisfied,
 they proceeded to satisfy their appetites with countenances to which an
-expression of cheerfulness was again restored. Mr. [[works/pickwick-(chesterton)|Pickwick]] alone was
+expression of cheerfulness was again restored. Mr. [[works/pickwick-(chesterton)|Pickwick]] [[Alone|alone]] was
 silent and reserved. [[concepts/doubt|Doubt]] and distrust were exhibited in his
 countenance. His confidence in Mr. Winkle had been shaken--greatly
 shaken--by the proceedings of the morning.
@@ -4376,12 +4377,12 @@ an object very common in art, but rarely met with in [[concepts/nature|nature]]-
 blue [[motifs/lion|lion]], with three bow legs in the air, balancing himself on the
 extreme point of the centre claw of his fourth foot. There were, within
 sight, an auctioneer’s and [[motifs/fire|fire]]-agency office, a corn-factor’s, a linen-
-draper’s, a saddler’s, a distiller’s, a grocer’s, and a shoe-shop--the
+draper’s, a saddler’s, a distiller’s, a [[grocer]]’s, and a shoe-shop--the
 last-mentioned warehouse being also appropriated to the diffusion of
 hats, bonnets, wearing apparel, cotton umbrellas, and useful knowledge.
-There was a red brick house with a small paved courtyard in front, which
+There was a red brick [[house]] with a small paved courtyard in front, which
 anybody might have known belonged to the attorney; and there was,
-moreover, another red brick house with Venetian blinds, and a large
+moreover, another red brick [[house]] with Venetian blinds, and a large
 brass door-plate with a very legible announcement that it belonged to
 the surgeon. A few boys were making their way to the cricket-field; and
 two or three shopkeepers who were standing at their doors looked as if
@@ -4661,7 +4662,7 @@ speech--“hung out” in a tub, to the emperor Alexander:--“if I were not
 Diogenes,” said he, “I would be Alexander.” I can [[motifs/well|well]] imagine these
 gentlemen to say, “If I were not Dumkins I would be Luffey; if I were
 not Podder I would be Struggles.” (Enthusiasm.) But, gentlemen of
-Muggleton, is it in cricket alone that your fellow-townsmen stand pre-
+Muggleton, is it in cricket [[Alone|alone]] that your fellow-townsmen stand pre-
 eminent? Have you never heard of Dumkins and determination? Have you
 never been taught to associate Podder with property? (Great applause.)
 Have you never, when struggling for your rights, your liberties, and
@@ -4692,7 +4693,7 @@ gentleman’s hand so extremely unsteady, as to render his writing nearly
 unintelligible, and his style wholly so. By dint of patient
 investigation, we have been enabled to trace some characters bearing a
 faint resemblance to the names of the speakers; and we can only discern
-an entry of a song (supposed to have been sung by Mr. Jingle), in which
+an entry of a [[Song|song]] (supposed to have been sung by Mr. Jingle), in which
 the words ‘bowl’ ‘sparkling’ ‘ruby’ ‘bright’ and ‘wine’ are frequently
 repeated at short intervals. We fancy, too, that we can discern at the
 very end of the notes, some indistinct reference to ‘broiled bones’; and
@@ -4733,11 +4734,11 @@ That there was something kindred in their [[concepts/nature|nature]], something 
 their souls, something mysteriously sympathetic in their bosoms, was
 evident. Her name was the first that [[motifs/rose|rose]] to Mr. Tupman’s lips as he lay
 wounded on the grass; and her hysteric laughter was the first sound that
-fell upon his ear when he was supported to the house. But had her
+fell upon his ear when he was supported to the [[house]]. But had her
 agitation arisen from an amiable and feminine sensibility which would
 have been equally irrepressible in any case; or had it been called forth
 by a more ardent and passionate feeling, which he, of all men living,
-could alone awaken? These were the doubts which racked his brain as he
+could [[Alone|alone]] awaken? These were the doubts which racked his brain as he
 lay extended on the sofa; these were the doubts which he determined
 should be at once and for ever resolved.
 
@@ -4753,7 +4754,7 @@ carefully-folded kid gloves--bound up in each other.
 
 ‘I have forgotten my [[motifs/flowers|flowers]],’ said the spinster aunt.
 
-‘[[motifs/water|Water]] them now,’ said Mr. Tupman, in accents of persuasion.
+‘[[motifs/water|Water]] them now,’ said Mr. Tupman, in accents of [[Persuasion|persuasion]].
 
 ‘You will take cold in the evening air,’ urged the spinster aunt
 affectionately.
@@ -4857,7 +4858,7 @@ Mr. Tupman looked at him very hard again; but there was not a wink in
 his eye, or a curve in his face.
 
 Mr. Tupman took the arm of the spinster aunt, and walked towards the
-house; the fat boy followed behind.
+[[house]]; the fat boy followed behind.
 
 ‘He knows nothing of what has happened,’ he whispered.
 
@@ -4918,7 +4919,7 @@ visit.’
 great anxiety.
 
 ‘Nothing the matter, ma’am,’ replied the stranger. ‘Cricket dinner--
-glorious party--capital songs--old port--claret--good--very good--wine,
+glorious party--capital [[songs]]--old port--claret--good--very good--wine,
 ma’am--wine.’
 
 
@@ -5003,7 +5004,7 @@ on the bonnet and shawl at her leisure, would lean one hand on the stick
 and the other on the fat boy’s shoulder, and walk leisurely to the
 arbour, where the fat boy would leave her to enjoy the fresh air for the
 space of half an hour; at the expiration of which [[motifs/time|time]] he would return
-and reconduct her to the house.
+and reconduct her to the [[house]].
 
 The old lady was very precise and very particular; and as this ceremony
 had been observed for three successive summers without the slightest
@@ -5093,12 +5094,12 @@ fat boy’s features as he said--
 If Mr. Jingle, from his place of concealment, could have beheld the
 expression which the old lady’s face assumed at this communication, the
 probability is that a sudden burst of laughter would have betrayed his
-close vicinity to the [[motifs/summer|summer]]-house. He listened attentively. Fragments
+close vicinity to the [[motifs/summer|summer]]-[[house]]. He listened attentively. Fragments
 of angry sentences such as, ‘Without my permission!’--‘At her [[motifs/time|time]] of
 life’--‘Miserable old ‘ooman like me’--‘Might have waited till I was
 dead,’ and so forth, reached his ears; and then he heard the heels of
 the fat boy’s boots crunching the gravel, as he retired and left the old
-lady alone.
+lady [[Alone|alone]].
 
 It was a remarkable coincidence perhaps, but it was nevertheless a fact,
 that Mr. Jingle within five minutes of his arrival at Manor Farm on the
@@ -5117,10 +5118,10 @@ explosion without loss of [[motifs/time|time]].
 
 Full of reflections upon this important decision, he crept from his
 place of concealment, and, under cover of the shrubs before mentioned,
-approached the house. Fortune seemed determined to favour his design.
+approached the [[house]]. Fortune seemed determined to favour his design.
 Mr. Tupman and the rest of the gentlemen left the [[motifs/garden|garden]] by the side
 gate just as he obtained a view of it; and the young ladies, he knew,
-had walked out alone, soon after breakfast. The coast was clear.
+had walked out [[Alone|alone]], soon after breakfast. The coast was clear.
 
 The breakfast-parlour door was partially open. He peeped in. The
 spinster aunt was knitting. He coughed; she looked up and smiled.
@@ -5137,7 +5138,7 @@ finger on his lips mysteriously, walked in, and closed the door.
 intrusion--short acquaintance--no [[motifs/time|time]] for ceremony--all discovered.’
 
 ‘Sir!’ said the spinster aunt, rather astonished by the unexpected
-apparition and somewhat doubtful of Mr. Jingle’s sanity.
+apparition and somewhat doubtful of Mr. Jingle’s [[Sanity|sanity]].
 
 ‘Hush!’ said Mr. Jingle, in a stage-whisper--‘Large boy--dumpling face--
 round eyes--rascal!’ Here he shook his head expressively, and the
@@ -5356,7 +5357,7 @@ can you?--very particular purpose--pay you in three days.’
 
 ‘Only three days--all over then--no more difficulties.’ Mr. Tupman
 counted the money into his companion’s hand, and he dropped it piece by
-piece into his pocket, as they walked towards the house.
+piece into his pocket, as they walked towards the [[house]].
 
 ‘Be careful,’ said Mr. Jingle--‘not a look.’
 
@@ -5372,7 +5373,7 @@ aunt--only way of deceiving the old ones.’
 ‘I’ll take care,’ said Mr. Tupman aloud.
 
 ‘And _I’ll_ take care,’ said Mr. Jingle internally; and they entered the
-house.
+[[house]].
 
 The scene of that afternoon was repeated that evening, and on the three
 afternoons and evenings next ensuing. On the fourth, the host was in
@@ -5444,7 +5445,7 @@ domestics.
 
 ‘Lor, grandma! No,’ screamed both the young ladies.
 
-‘What’s the matter?’ roared the master of the house.
+‘What’s the matter?’ roared the master of the [[house]].
 
 The man gasped for breath, and faintly ejaculated--
 
@@ -5497,7 +5498,7 @@ scratched, and pulled, and pushed from the room by all the females
 congregated therein. He had no sooner released his hold, than the man
 entered to announce that the gig was ready.
 
-‘Don’t let him go alone!’ screamed the females. ‘He’ll kill somebody!’
+‘Don’t let him go [[Alone|alone]]!’ screamed the females. ‘He’ll kill somebody!’
 
 ‘I’ll go with him,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
@@ -5528,7 +5529,7 @@ alive there!’
 
 Away ran the hostlers and the boys. The lanterns glimmered, as the men
 ran to and fro; the horses’ hoofs clattered on the uneven paving of the
-yard; the chaise rumbled as it was drawn out of the coach-house; and all
+yard; the chaise rumbled as it was drawn out of the coach-[[house]]; and all
 was noise and bustle.
 
 ‘Now then!--is that chaise coming out to-[[motifs/night|night]]?’ cried Wardle.
@@ -5603,7 +5604,7 @@ the fugitives.’
 
 After a lapse of five minutes, consumed in incessant knocking and
 shouting, an old man in his shirt and trousers emerged from the
-turnpike-house, and opened the gate.
+turnpike-[[house]], and opened the gate.
 
 ‘How long is it since a post-chaise went through here?’ inquired Mr.
 Wardle.
@@ -5637,7 +5638,7 @@ you’ve lost ten minutes here, and gone away as wise as you came, arter
 all. If every man on the line as has a guinea give him, earns it half as
 [[motifs/well|well]], you won’t catch t’other chay this side Mich’lmas, old short-and-
 fat.’ And with another prolonged grin, the old man closed the gate, re-
-entered his house, and bolted the door after him.
+entered his [[house]], and bolted the door after him.
 
 Meanwhile the chaise proceeded, without any slackening of pace, towards
 the conclusion of the stage. The [[motifs/moon|moon]], as Wardle had foretold, was
@@ -5658,7 +5659,7 @@ mysterious soundness, that it took five minutes a-piece to wake them.
 The hostler had somehow or other mislaid the key of the stable, and even
 when that was found, two sleepy helpers put the wrong harness on the
 wrong horses, and the whole process of harnessing had to be gone through
-afresh. Had Mr. [[works/pickwick-(chesterton)|Pickwick]] been alone, these multiplied obstacles would
+afresh. Had Mr. [[works/pickwick-(chesterton)|Pickwick]] been [[Alone|alone]], these multiplied obstacles would
 have completely put an end to the pursuit at once, but old Wardle was
 not to be so easily daunted; and he laid about him with such hearty
 good-will, cuffing this man, and pushing that; strapping a buckle here,
@@ -5846,7 +5847,7 @@ So sending forward one of the boys on horseback, to procure a fresh
 chaise and horses, and leaving the other behind to take care of the
 broken one, Mr. [[works/pickwick-(chesterton)|Pickwick]] and Mr. Wardle set manfully forward on the
 walk, first tying their shawls round their necks, and slouching down
-their hats to escape as much as possible from the deluge of rain, which
+their hats to escape as much as possible from the [[deluge]] of rain, which
 after a slight cessation had again begun to pour heavily down.
 
 
@@ -5896,7 +5897,7 @@ evident satisfaction.
 The yard presented none of that bustle and activity which are the usual
 characteristics of a large coach inn. Three or four lumbering wagons,
 each with a pile of goods beneath its ample canopy, about the height of
-the second-floor [[motifs/window|window]] of an ordinary house, were stowed away beneath a
+the second-floor [[motifs/window|window]] of an ordinary [[house]], were stowed away beneath a
 lofty roof which extended over one end of the yard; and another, which
 was probably to commence its [[motifs/journey|journey]] that morning, was drawn out into
 the open space. A [[topoi/double|double]] tier of bedroom galleries, with old clumsy
@@ -5913,7 +5914,7 @@ about on heaps of straw, we have described as fully as need be the
 general appearance of the yard of the White Hart Inn, High Street,
 Borough, on the particular morning in question.
 
-A loud ringing of one of the bells was followed by the appearance of a
+A loud ringing of one of [[The Bells|the bells]] was followed by the appearance of a
 smart chambermaid in the upper sleeping gallery, who, after tapping at
 one of the doors, and receiving a request from within, called over the
 balustrades--
@@ -5970,7 +5971,7 @@ about it.’
 singling out the boots in question from the heap before him. ‘For all I
 know’d he was one o’ the regular threepennies. Private room! and a lady
 too! If he’s anything of a gen’l’m’n, he’s vurth a shillin’ a day, let
-alone the arrands.’
+[[Alone|alone]] the arrands.’
 
 
 
@@ -6155,7 +6156,7 @@ don’t care for [[motifs/horse|horse]]-radish ven ve can get beef.’
 ‘My eldest brother was troubled with that complaint,’ said Sam; ‘it may
 be catching--I used to [[motifs/sleep|sleep]] with him.’
 
-‘This is a curious old house of yours,’ said the little man, looking
+‘This is a curious old [[house]] of yours,’ said the little man, looking
 round him.
 
 ‘If you’d sent word you was a-coming, we’d ha’ had it repaired;’ replied
@@ -6222,9 +6223,9 @@ Mr. Wardle shrugged his shoulders, and was silent.
 
 ‘We want to know,’ said the little man solemnly; ‘and we ask the
 question of you, in order that we may not awaken apprehensions inside--
-we want to know who you’ve got in this house at present?’
+we want to know who you’ve got in this [[house]] at present?’
 
-‘Who there is in the house!’ said Sam, in whose mind the inmates were
+‘Who there is in the [[house]]!’ said Sam, in whose mind the inmates were
 always represented by that particular article of their costume, which
 came under his immediate superintendence. ‘There’s a vooden leg in
 number six; there’s a pair of Hessians in thirteen; there’s two pair of
@@ -6307,7 +6308,7 @@ with passion.
 table, ‘pray, consider--pray. Defamation of character: action for
 damages. Calm yourself, my dear sir, pray--’
 
-‘How dare you drag my sister from my house?’ said the old man.
+‘How dare you drag my sister from my [[house]]?’ said the old man.
 
 Ay--ay--very good,’ said the little gentleman, ‘you may ask that. How
 dare you, sir?--eh, sir?’
@@ -6404,7 +6405,7 @@ Mr. Jingle assented, and the quartette walked into an empty apartment.
 
 ‘Now, sir,’ said the little man, as he carefully closed the door, ‘is
 there no way of accommodating this matter--step this way, sir, for a
-moment--into this [[motifs/window|window]], Sir, where we can be alone--there, sir, there,
+moment--into this [[motifs/window|window]], Sir, where we can be [[Alone|alone]]--there, sir, there,
 pray sit down, sir. Now, my dear Sir, between you and I, we know very
 [[motifs/well|well]], my dear Sir, that you have run off with this lady for the sake of
 her money. Don’t frown, Sir, don’t frown; I say, between you and I, _we_
@@ -6500,7 +6501,7 @@ meanwhile.’ Mr. Wardle sullenly nodded assent.
 The cheque was written by the little gentleman, and pocketed by Mr.
 Jingle.
 
-‘Now, leave this house instantly!’ said Wardle, starting up.
+‘Now, leave this [[house]] instantly!’ said Wardle, starting up.
 
 ‘My dear Sir,’ urged the little man.
 
@@ -6566,7 +6567,7 @@ reached Dingley Dell, and stood within the entrance to Manor Farm.
 
 
 CHAPTER XI. INVOLVING ANOTHER [[motifs/journey|JOURNEY]], AND AN ANTIQUARIAN DISCOVERY;
-RECORDING MR. PICKWICK’S DETERMINATION TO BE PRESENT AT AN ELECTION; AND
+RECORDING MR. [[Pickwick|PICKWICK]]’S DETERMINATION TO BE PRESENT AT AN ELECTION; AND
 CONTAINING A MANUSCRIPT OF THE OLD CLERGYMAN’S
 
 A [[motifs/night|night]] of quiet and repose in the profound [[motifs/silence|silence]] of Dingley Dell, and
@@ -6627,7 +6628,7 @@ until [[motifs/night|night]].’
 Mr. [[works/pickwick-(chesterton)|Pickwick]] opened the epistle. It was in his friend’s hand-writing,
 and these were its contents:--
 
-‘MY DEAR PICKWICK,--_You_, my dear friend, are placed far beyond the
+‘MY DEAR [[Pickwick|PICKWICK]],--_You_, my dear friend, are placed far beyond the
 reach of many mortal frailties and weaknesses which ordinary people
 cannot overcome. You do not know what it is, at one blow, to be deserted
 by a lovely and fascinating creature, and to fall a victim to the
@@ -6650,7 +6651,7 @@ beneath it. You may tell Rachael--Ah, that name!--
 the note. ‘It would not have been decent for us to remain here, under
 any circumstances, after what has happened; and now we are bound to
 follow in search of our friend.’ And so saying, he led the way to the
-house.
+[[house]].
 
 His intention was rapidly communicated. The entreaties to remain were
 pressing, but Mr. [[works/pickwick-(chesterton)|Pickwick]] was inflexible. Business, he said, required
@@ -6692,7 +6693,7 @@ from their friendly entertainers. Many a backward look they gave at the
 farm, as they walked slowly away; and many a kiss did Mr. Snodgrass waft
 in the air, in acknowledgment of something very like a lady’s
 handkerchief, which was waved from one of the upper windows, until a
-turn of the lane hid the old house from their sight.
+turn of the lane hid the old [[house]] from their sight.
 
 
 
@@ -6709,7 +6710,7 @@ Cobham.
 
 A delightful walk it was; for it was a pleasant afternoon in June, and
 their way lay through a deep and shady wood, cooled by the light [[motifs/wind|wind]]
-which gently rustled the thick foliage, and enlivened by the songs of
+which gently rustled the thick foliage, and enlivened by the [[songs]] of
 the [[motifs/birds|birds]] that perched upon the boughs. The ivy and the moss crept in
 thick clusters over the old trees, and the soft green turf overspread
 the ground like a silken mat. They emerged upon an open park, with an
@@ -6733,7 +6734,7 @@ met with.’
 
 In this opinion also, both Mr. Winkle and Mr. Snodgrass expressed their
 concurrence; and having been directed to the Leather Bottle, a clean and
-commodious village ale-house, the three travellers entered, and at once
+commodious village ale-[[house]], the three travellers entered, and at once
 inquired for a gentleman of the name of Tupman.
 
 ‘Show the gentlemen into the parlour, Tom,’ said the landlady.
@@ -6755,7 +6756,7 @@ fork, and with a mournful air advanced to meet them.
 
 ‘Ah!’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], sitting down, and wiping from his forehead the
 perspiration which the walk had engendered. ‘Finish your dinner, and
-walk out with me. I wish to speak to you alone.’
+walk out with me. I wish to speak to you [[Alone|alone]].’
 
 Mr. Tupman did as he was desired; and Mr. [[works/pickwick-(chesterton)|Pickwick]] having refreshed
 himself with a copious draught of ale, waited his friend’s leisure. The
@@ -6839,7 +6840,7 @@ and after having carefully washed it, deposited it on the table.
 
 The exultation and joy of the Pickwickians knew no bounds, when their
 patience and assiduity, their washing and scraping, were crowned with
-success. The stone was uneven and broken, and the letters were
+[[success]]. The stone was uneven and broken, and the letters were
 straggling and irregular, but the following [[forms/fragment|fragment]] of an [[forms/inscription|inscription]]
 was clearly to be deciphered:--
 
@@ -6961,7 +6962,7 @@ long sometimes--very long; but they are nothing to the restless nights,
 and dreadful [[motifs/dreams|dreams]] I had at that [[motifs/time|time]]. It makes me cold to remember
 them. Large dusky forms with sly and jeering faces crouched in the
 corners of the room, and bent over my bed at [[motifs/night|night]], tempting me to
-[[concepts/madness|madness]]. They told me in low whispers, that the floor of the old house
+[[concepts/madness|madness]]. They told me in low whispers, that the floor of the old [[house]]
 in which my father died, was stained with his own [[motifs/blood|blood]], shed by his own
 hand in raging [[concepts/madness|madness]]. I drove my fingers into my ears, but they
 screamed into my head till the room rang with it, that in one generation
@@ -6977,9 +6978,9 @@ among them. I knew I was mad, but they did not even suspect it. How I
 used to hug myself with delight, when I thought of the fine trick I was
 playing them after their old pointing and leering, when I was not mad,
 but only dreading that I might one day become so! And how I used to
-laugh for joy, when I was alone, and thought how [[motifs/well|well]] I kept my secret,
+laugh for joy, when I was [[Alone|alone]], and thought how [[motifs/well|well]] I kept my secret,
 and how quickly my kind friends would have fallen from me, if they had
-known the [[concepts/truth|truth]]. I could have screamed with ecstasy when I dined alone
+known the [[concepts/truth|truth]]. I could have screamed with ecstasy when I dined [[Alone|alone]]
 with some fine roaring fellow, to think how pale he would have turned,
 and how fast he would have run, if he had known that the dear friend who
 sat close to him, sharpening a bright, glittering knife, was a madman
@@ -7013,7 +7014,7 @@ the air, against the gay chain that ornaments my [[concepts/body|body]]!
 -for though we madmen are sharp-witted enough, we get bewildered
 sometimes--I should have known that the girl would rather have been
 placed, stiff and cold in a dull leaden coffin, than borne an envied
-bride to my rich, glittering house. I should have known that her heart
+bride to my rich, glittering [[house]]. I should have known that her heart
 was with the dark-eyed boy whose name I once heard her breathe in her
 troubled [[motifs/sleep|sleep]]; and that she had been sacrificed to me, to relieve the
 [[concepts/poverty|poverty]] of the old, white-headed man and the haughty brothers.
@@ -7046,7 +7047,7 @@ some ill-fated being, destined to hand down [[concepts/madness|madness]] to its 
 determined me. I resolved to kill her.
 
 ‘For many weeks I thought of [[motifs/poison|poison]], and then of drowning, and then of
-[[motifs/fire|fire]]. A fine sight, the grand house in flames, and the madman’s wife
+[[motifs/fire|fire]]. A fine sight, the grand [[house]] in flames, and the madman’s wife
 smouldering away to cinders. Think of the jest of a large reward, too,
 and of some sane man swinging in the [[motifs/wind|wind]] for a deed he never did, and
 all through a madman’s cunning! I thought often of this, but I gave it
@@ -7080,7 +7081,7 @@ made towards the door. As she neared it, she turned, and withdrew her
 eyes from my face. The spell was broken. I bounded forward, and clutched
 her by the arm. Uttering shriek upon shriek, she sank upon the ground.
 
-‘Now I could have killed her without a struggle; but the house was
+‘Now I could have killed her without a struggle; but the [[house]] was
 alarmed. I heard the tread of footsteps on the stairs. I replaced the
 razor in its usual drawer, unfastened the door, and called loudly for
 assistance.
@@ -7113,7 +7114,7 @@ came into my eyes.
 ‘But though I had carried my object and killed her, I was restless and
 disturbed, and I felt that before long my secret must be known. I could
 not hide the wild mirth and joy which boiled within me, and made me when
-I was alone, at [[motifs/home|home]], jump up and beat my hands together, and [[motifs/dance|dance]]
+I was [[Alone|alone]], at [[motifs/home|home]], jump up and beat my hands together, and [[motifs/dance|dance]]
 round and round, and roar aloud. When I went out, and saw the busy
 crowds hurrying about the streets; or to the theatre, and heard the
 sound of music, and beheld the people dancing, I felt such glee, that I
@@ -7142,7 +7143,7 @@ to have me here, to show.
 me--urgent business he said: I recollect it [[motifs/well|well]]. I hated that man with
 all a madman’s hate. Many and many a [[motifs/time|time]] had my fingers longed to tear
 him. They told me he was there. I ran swiftly upstairs. He had a word to
-say to me. I dismissed the servants. It was late, and we were alone
+say to me. I dismissed the servants. It was late, and we were [[Alone|alone]]
 together--for the first [[motifs/time|time]].
 
 ‘I kept my eyes carefully from him at first, for I knew what he little
@@ -7357,7 +7358,7 @@ the littleness of his enemies.
 
 
 CHAPTER XII. DESCRIPTIVE OF A VERY IMPORTANT PROCEEDING ON THE PART OF
-MR. PICKWICK; NO LESS AN EPOCH IN HIS LIFE, THAN IN THIS [[concepts/history|HISTORY]]
+MR. [[Pickwick|PICKWICK]]; NO LESS AN EPOCH IN HIS LIFE, THAN IN THIS [[concepts/history|HISTORY]]
 
 Mr. [[works/pickwick-(chesterton)|Pickwick]]’s apartments in Goswell Street, although on a limited
 scale, were not only of a very neat and comfortable description, but
@@ -7368,17 +7369,17 @@ parlour, or standing before the dressing-glass in his dormitory, he had
 an equal opportunity of contemplating human [[concepts/nature|nature]] in all the numerous
 phases it exhibits, in that not more populous than popular thoroughfare.
 His landlady, Mrs. Bardell--the relict and sole executrix of a deceased
-custom-house officer--was a comely woman of bustling manners and
+custom-[[house]] officer--was a comely woman of bustling manners and
 agreeable appearance, with a natural genius for cooking, improved by
 study and long practice, into an exquisite talent. There were no
-children, no servants, no fowls. The only other inmates of the house
+children, no servants, no fowls. The only other inmates of the [[house]]
 were a large man and a small boy; the first a lodger, the second a
 production of Mrs. Bardell’s. The large man was always [[motifs/home|home]] precisely at
 ten o’[[motifs/clock|clock]] at [[motifs/night|night]], at which hour he regularly condensed himself into
 the limits of a dwarfish French bedstead in the back parlour; and the
 infantine sports and gymnastic exercises of Master Bardell were
 exclusively confined to the neighbouring pavements and gutters.
-Cleanliness and quiet reigned throughout the house; and in it Mr.
+Cleanliness and quiet reigned throughout the [[house]]; and in it Mr.
 [[works/pickwick-(chesterton)|Pickwick]]’s will was law.
 
 To any one acquainted with these points of the domestic economy of the
@@ -7559,7 +7560,7 @@ extraordinary thing.’
 looked dubiously at each other.
 
 This behaviour was not lost upon Mr. [[works/pickwick-(chesterton)|Pickwick]]. He remarked their
-incredulity. They evidently suspected him.
+[[Incredulity|incredulity]]. They evidently suspected him.
 
 ‘There is a man in the passage now,’ said Mr. Tupman.
 
@@ -7799,7 +7800,7 @@ do.’
 
 Volumes could not have said more.
 
-They entered the house, the crowd opening right and left to let them
+They entered the [[house]], the crowd opening right and left to let them
 pass, and cheering vociferously. The first object of consideration was
 to secure quarters for the [[motifs/night|night]].
 
@@ -7825,7 +7826,7 @@ friend, Mr. Perker.
 ‘Then _we_ are Blue,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]]; but observing that the man
 looked rather doubtful at this accommodating announcement, he gave him
 his card, and desired him to present it to Mr. Perker forthwith, if he
-should happen to be in the house. The waiter retired; and reappearing
+should happen to be in the [[house]]. The waiter retired; and reappearing
 almost immediately with a request that Mr. [[works/pickwick-(chesterton)|Pickwick]] would follow him,
 led the way to a large room on the first floor, where, seated at a long
 table covered with books and papers, was Mr. Perker.
@@ -7853,9 +7854,9 @@ inquired Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
 ‘Why, doubtful, my dear Sir; rather doubtful as yet,’ replied the little
 man. ‘Fizkin’s people have got three-and-thirty voters in the lock-up
-coach-house at the White Hart.’
+coach-[[house]] at the White Hart.’
 
-‘In the coach-house!’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], considerably astonished by this
+‘In the coach-[[house]]!’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], considerably astonished by this
 second stroke of policy.
 
 ‘They keep ‘em locked up there till they want ‘em,’ resumed the little
@@ -7961,9 +7962,9 @@ due form to the editor of the Eatanswill _Gazette_.
 ‘Now, my dear Pott,’ said little Mr. Perker, ‘the question is, what are
 we to do with our friends here?’
 
-‘We can stop in this house, I suppose,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
+‘We can stop in this [[house]], I suppose,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
-‘Not a spare bed in the house, my dear sir--not a single bed.’
+‘Not a spare bed in the [[house]], my dear sir--not a single bed.’
 
 ‘Extremely awkward,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
@@ -8086,7 +8087,7 @@ pleasure, during the whole [[motifs/time|time]] of their perusal.
 
 The announcement of supper put a stop both to the game of ecarte, and
 the recapitulation of the beauties of the Eatanswill _Gazette_. Mrs.
-Pott was in the highest spirits and the most agreeable humour. Mr.
+Pott was in the highest spirits and the most agreeable [[Humour|humour]]. Mr.
 Winkle had already made considerable progress in her good opinion, and
 she did not hesitate to inform him, confidentially, that Mr. [[works/pickwick-(chesterton)|Pickwick]]
 was ‘a delightful old dear.’ These terms convey a familiarity of
@@ -8157,7 +8158,7 @@ baptised?--that’s nothin’, that ain’t.’
 ‘Nothin’ at all, Sir,’ replied his attendant. ‘The [[motifs/night|night]] afore the last
 day o’ the last election here, the opposite party bribed the barmaid at
 the Town Arms, to hocus the brandy-and-[[motifs/water|water]] of fourteen unpolled
-electors as was a-stoppin’ in the house.’
+electors as was a-stoppin’ in the [[house]].’
 
 ‘What do you mean by “hocussing” brandy-and-[[motifs/water|water]]?’ inquired Mr.
 [[works/pickwick-(chesterton)|Pickwick]].
@@ -8193,7 +8194,7 @@ says my father.--“That’s wery odd,” says the gen’l’m’n.”--“Wery,
 my father.--“You must have a bad mem’ry, Mr. Weller,” says the
 gen’l’m’n.--“[[motifs/well|Well]], it is a wery bad ‘un,” says my father.--“I thought
 so,” says the gen’l’m’n. So then they pours him out a glass of wine, and
-gammons him about his driving, and gets him into a reg’lar good humour,
+gammons him about his driving, and gets him into a reg’lar good [[Humour|humour]],
 and at last shoves a twenty-pound note into his hand. “It’s a wery bad
 [[motifs/road|road]] between this and [[settings/london|London]],” says the gen’l’m’n.--“Here and there it
 is a heavy [[motifs/road|road]],” says my father.--” ‘Specially near the canal, I
@@ -8232,9 +8233,9 @@ With these words Mr. [[works/pickwick-(chesterton)|Pickwick]] descended to the p
 breakfast laid, and the family already assembled. The meal was hastily
 despatched; each of the gentlemen’s hats was decorated with an enormous
 blue favour, made up by the fair hands of Mrs. Pott herself; and as Mr.
-Winkle had undertaken to escort that lady to a house-top, in the
+Winkle had undertaken to escort that lady to a [[house]]-top, in the
 immediate vicinity of the hustings, Mr. [[works/pickwick-(chesterton)|Pickwick]] and Mr. Pott repaired
-alone to the Town Arms, from the back [[motifs/window|window]] of which, one of Mr.
+[[Alone|alone]] to the Town Arms, from the back [[motifs/window|window]] of which, one of Mr.
 Slumkey’s committee was addressing six small boys and one girl, whom he
 dignified, at every second sentence, with the imposing title of ‘Men of
 Eatanswill,’ whereat the six small boys aforesaid cheered prodigiously.
@@ -8256,7 +8257,7 @@ and the mob were shouting, and the horses were backing, and the post-
 boys perspiring; and everybody, and everything, then and there
 assembled, was for the special use, behoof, [[concepts/honour|honour]], and renown, of the
 Honourable Samuel Slumkey, of Slumkey Hall, one of the candidates for
-the representation of the borough of Eatanswill, in the Commons House of
+the representation of the borough of Eatanswill, in the Commons [[house|House]] of
 Parliament of the United Kingdom.
 
 Loud and long were the cheers, and mighty was the rustling of one of the
@@ -8368,7 +8369,7 @@ done [[concepts/honour|honour]] to an earthquake.
 ‘Where!’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], putting on his spectacles, which he had
 fortunately kept in his pocket hitherto.
 
-‘There,’ said Mr. Tupman, ‘on the top of that house.’ And there, sure
+‘There,’ said Mr. Tupman, ‘on the top of that [[house]].’ And there, sure
 enough, in the leaden gutter of a tiled roof, were Mr. Winkle and Mrs.
 Pott, comfortably seated in a couple of chairs, waving their
 handkerchiefs in token of recognition--a compliment which Mr. [[works/pickwick-(chesterton)|Pickwick]]
@@ -8429,7 +8430,7 @@ whether he hadn’t left his voice under the pillow,’ begged to nominate a
 fit and proper person to represent them in Parliament. And when he said
 it was [[characters/horatio|Horatio]] Fizkin, Esquire, of Fizkin Lodge, near Eatanswill, the
 Fizkinites applauded, and the Slumkeyites groaned, so long, and so
-loudly, that both he and the seconder might have sung comic songs in
+loudly, that both he and the seconder might have sung comic [[songs]] in
 lieu of speaking, without anybody’s being a bit the wiser.
 
 The friends of [[characters/horatio|Horatio]] Fizkin, Esquire, having had their innings, a
@@ -8547,7 +8548,7 @@ Winkle idle, his whole [[motifs/time|time]] being devoted to pleasant walks and 
 country excursions with Mrs. Pott, who never failed, when such an
 opportunity presented itself, to seek some relief from the tedious
 monotony she so constantly complained of. The two gentlemen being thus
-completely domesticated in the editor’s house, Mr. Tupman and Mr.
+completely domesticated in the editor’s [[house]], Mr. Tupman and Mr.
 Snodgrass were in a great measure cast upon their own resources. Taking
 but little interest in public affairs, they beguiled their [[motifs/time|time]] chiefly
 with such amusements as the Peacock afforded, which were limited to a
@@ -8591,11 +8592,11 @@ mustard.
 
 Here it was that Mr. Tupman and Mr. Snodgrass were seated on the evening
 after the conclusion of the election, with several other temporary
-inmates of the house, smoking and drinking.
+inmates of the [[house]], smoking and drinking.
 
 ‘[[motifs/well|Well]], gents,’ said a stout, hale personage of about forty, with only
 one eye--a very bright black eye, which twinkled with a roguish
-expression of fun and good-humour, ‘our noble selves, gents. I always
+expression of fun and good-[[Humour|humour]], ‘our noble selves, gents. I always
 propose that toast to the company, and drink Mary to myself. Eh, Mary!’
 
 ‘Get along with you, you wretch,’ said the hand-maiden, obviously not
@@ -8603,7 +8604,7 @@ ill-pleased with the compliment, however.
 
 ‘Don’t go away, Mary,’ said the black-eyed man.
 
-‘Let me alone, imperence,’ said the young lady.
+‘Let me [[Alone|alone]], imperence,’ said the young lady.
 
 ‘Never mind,’ said the one-eyed man, calling after the girl as she left
 the room. ‘I’ll step out by and by, Mary. Keep your spirits up, dear.’
@@ -8615,7 +8616,7 @@ personage with a dirty face and a clay pipe.
 
 ‘Ah! no mistake about that,’ said a very red-faced man, behind a cigar.
 
-After this little bit of philosophy there was another pause.
+After this little bit of [[philosophy]] there was another pause.
 
 ‘There’s rummer things than women in this world though, mind you,’ said
 the man with the black eye, slowly filling a large Dutch pipe, with a
@@ -8634,7 +8635,7 @@ the great props and comforts of our existence.’
 
 ‘So they are,’ said the placid gentleman.
 
-‘When they’re in a good humour,’ interposed the dirty-faced man.
+‘When they’re in a good [[Humour|humour]],’ interposed the dirty-faced man.
 
 ‘And that’s very true,’ said the placid one.
 
@@ -8684,10 +8685,10 @@ more roguish than ever. ‘If you say it’s true, of course I shall,’ said
 Mr. Tupman.
 
 ‘[[motifs/well|Well]], upon that understanding I’ll tell you,’ replied the traveller.
-‘Did you ever hear of the great commercial house of Bilson & Slum? But
+‘Did you ever hear of the great commercial [[house]] of Bilson & Slum? But
 it doesn’t matter though, whether you did or not, because they retired
 from business long since. It’s eighty years ago, since the circumstance
-happened to a traveller for that house, but he was a particular friend
+happened to a traveller for that [[house]], but he was a particular friend
 of my uncle’s; and my uncle told the story to me. It’s a queer name; but
 he used to call it
 
@@ -8744,7 +8745,7 @@ firmly against the ground, to prevent her being blown over. It’s a
 special [[concepts/mercy|mercy]] that she did this, for if she _had _been blown over, the
 vixenish mare was so light, and the gig was so light, and Tom Smart such
 a light weight into the bargain, that they must infallibly have all gone
-rolling over and over together, until they reached the confines of
+[[rolling]] over and over together, until they reached the confines of
 earth, or until the [[motifs/wind|wind]] fell; and in either case the probability is,
 that neither the vixenish mare, nor the clay-coloured gig with the red
 wheels, nor Tom Smart, would ever have been fit for service again.
@@ -8763,7 +8764,7 @@ precisely of the same opinion.
 
 “‘Cheer up, old girl,” said Tom, patting the bay mare on the neck with
 the end of his whip. “It won’t do pushing on, such a [[motifs/night|night]] as this; the
-first house we come to we’ll put up at, so the faster you go the sooner
+first [[house]] we come to we’ll put up at, so the faster you go the sooner
 it’s over. Soho, old girl--gently--gently.”
 
 
@@ -8783,12 +8784,12 @@ he was, couldn’t stop or check her pace, until she drew up of her own
 accord, before a roadside inn on the right-hand side of the way, about
 half a quarter of a mile from the end of the Downs.
 
-‘Tom cast a hasty glance at the upper part of the house as he threw the
+‘Tom cast a hasty glance at the upper part of the [[house]] as he threw the
 reins to the hostler, and stuck the whip in the box. It was a strange
 old place, built of a kind of shingle, inlaid, as it were, with [[motifs/cross|cross]]-
 beams, with gabled-topped windows projecting completely over the
 pathway, and a low door with a dark porch, and a couple of steep steps
-leading down into the house, instead of the modern fashion of half a
+leading down into the [[house]], instead of the modern fashion of half a
 dozen shallow ones leading up to it. It was a comfortable-looking place
 though, for there was a strong, cheerful light in the bar [[motifs/window|window]], which
 shed a bright ray across the [[motifs/road|road]], and even lighted up the hedge on the
@@ -8797,7 +8798,7 @@ one moment but faintly discernible, and the next gleaming strongly
 through the drawn curtains, which intimated that a rousing [[motifs/fire|fire]] was
 blazing within. Marking these little evidences with the eye of an
 experienced traveller, Tom dismounted with as much agility as his half-
-frozen limbs would permit, and entered the house.
+frozen limbs would permit, and entered the [[house]].
 
 ‘In less than five minutes’ [[motifs/time|time]], Tom was ensconced in the room opposite
 the bar--the very room where he had imagined the [[motifs/fire|fire]] blazing--before a
@@ -8817,7 +8818,7 @@ was comfortable too; but even this was not all--for in the bar, seated
 at tea at the nicest possible little table, drawn close up before the
 brightest possible little [[motifs/fire|fire]], was a buxom widow of somewhere about
 eight-and-forty or thereabouts, with a face as comfortable as the bar,
-who was evidently the landlady of the house, and the supreme ruler over
+who was evidently the landlady of the [[house]], and the supreme ruler over
 all these agreeable possessions. There was only one drawback to the
 [[concepts/beauty|beauty]] of the whole picture, and that was a tall man--a very tall man--
 in a brown coat and bright basket buttons, and black whiskers and wavy
@@ -8845,7 +8846,7 @@ first tumbler was adapted to Tom Smart’s taste with such peculiar
 nicety, that he ordered a second with the least possible delay. Hot
 punch is a pleasant thing, gentlemen--an extremely pleasant thing under
 any circumstances--but in that snug old parlour, before the roaring
-[[motifs/fire|fire]], with the [[motifs/wind|wind]] blowing outside till every timber in the old house
+[[motifs/fire|fire]], with the [[motifs/wind|wind]] blowing outside till every timber in the old [[house]]
 creaked again, Tom Smart found it perfectly delightful. He ordered
 another tumbler, and then another--I am not quite certain whether he
 didn’t order another after that--but the more he drank of the hot punch,
@@ -8867,7 +8868,7 @@ example he could set to his customers in the drinking department. All
 these things passed rapidly through Tom’s mind as he sat drinking the
 hot punch by the roaring [[motifs/fire|fire]], and he felt very justly and properly
 indignant that the tall man should be in a fair way of keeping such an
-excellent house, while he, Tom Smart, was as far off from it as ever.
+excellent [[house]], while he, Tom Smart, was as far off from it as ever.
 So, after deliberating over the two last tumblers, whether he hadn’t a
 perfect right to pick a quarrel with the tall man for having contrived
 to get into the good graces of the buxom widow, Tom Smart at last
@@ -8890,7 +8891,7 @@ and that while he pretended to be blowing it alight again, he was in
 fact kissing the girl. Be this as it may, another light was obtained,
 and Tom was conducted through a maze of rooms, and a labyrinth of
 passages, to the apartment which had been prepared for his reception,
-where the girl bade him good-[[motifs/night|night]] and left him alone.
+where the girl bade him good-[[motifs/night|night]] and left him [[Alone|alone]].
 
 ‘It was a good large room with big closets, and a bed which might have
 served for a whole boarding-school, to say nothing of a couple of oaken
@@ -9098,7 +9099,7 @@ cold in some broker’s shop.”
 
 ‘“Don’t interrupt me,” said the old gentleman. “Of you, Tom, I entertain
 a very different opinion; for I [[motifs/well|well]] know that if you once settled
-yourself in a public-house, you would never leave it, as long as there
+yourself in a public-[[house]], you would never leave it, as long as there
 was anything to drink within its walls.”
 
 ‘“I am very much obliged to you for your good opinion, Sir,” said Tom
@@ -9318,7 +9319,7 @@ an hour later, and married the widow a month after. And he used to drive
 about the country, with the clay-coloured gig with the red wheels, and
 the vixenish mare with the fast pace, till he gave up business many
 years afterwards, and went to France with his wife; and then the old
-house was pulled down.’
+[[house]] was pulled down.’
 
 ‘Will you allow me to ask you,’ said the inquisitive old gentleman,
 ‘what became of the chair?’
@@ -9357,7 +9358,7 @@ man.
 
 CHAPTER XV. IN WHICH IS GIVEN A FAITHFUL PORTRAITURE OF TWO
 DISTINGUISHED PERSONS; AND AN ACCURATE DESCRIPTION OF A PUBLIC BREAKFAST
-IN THEIR HOUSE AND GROUNDS: WHICH PUBLIC BREAKFAST LEADS TO THE
+IN THEIR [[house|HOUSE]] AND GROUNDS: WHICH PUBLIC BREAKFAST LEADS TO THE
 RECOGNITION OF AN OLD ACQUAINTANCE, AND THE COMMENCEMENT OF ANOTHER
 
 
@@ -9386,7 +9387,7 @@ secretary said ven he fetched avay Doctor Faustus,’ replied Mr. Weller.
 
 ‘_He_. Is it a gentleman?’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
-‘A wery good imitation o’ one, if it ain’t,’ replied Mr. Weller.
+‘A wery good [[Imitation|imitation]] o’ one, if it ain’t,’ replied Mr. Weller.
 
 ‘But this is a lady’s card,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
@@ -9445,7 +9446,7 @@ acquaintance.’
 
 ‘When I inform Mrs. Leo Hunter, that that remark fell from your lips,
 sir, she will indeed be proud,’ said the [[motifs/grave|grave]] man. ‘You have a
-gentleman in your train, who has produced some beautiful little poems, I
+gentleman in your train, who has produced some beautiful little [[Poems|poems]], I
 think, sir.’
 
 ‘My friend Mr. Snodgrass has a great taste for poetry,’ replied Mr.
@@ -9729,7 +9730,7 @@ they beheld the walking [[forms/allegory|allegory]].
 smiling with that kind of bland dignity which sufficiently testified
 that he felt his power, and knew how to exert it, got into the chariot.
 
-Then there emerged from the house, Mrs. Pott, who would have looked very
+Then there emerged from the [[house]], Mrs. Pott, who would have looked very
 like [[characters/apollo|Apollo]] if she hadn’t had a gown on, conducted by Mr. Winkle, who,
 in his light-red coat could not possibly have been mistaken for anything
 but a sportsman, if he had not borne an equal resemblance to a general
@@ -9916,7 +9917,7 @@ As the enthusiasm in Count Smorltork’s favour ran very high, his praises
 might have been sung until the end of the festivities, if the four
 something-ean singers had not ranged themselves in front of a small
 apple-tree, to look picturesque, and commenced singing their national
-songs, which appeared by no means difficult of execution, inasmuch as
+[[songs]], which appeared by no means difficult of execution, inasmuch as
 the grand secret seemed to be, that three of the something-ean singers
 should grunt, while the fourth howled. This interesting performance
 having concluded amidst the loud plaudits of the whole company, a boy
@@ -9927,7 +9928,7 @@ tie them round his neck, and then to illustrate the ease with which a
 human being can be made to look like a magnified toad--all which feats
 yielded high delight and satisfaction to the assembled spectators. After
 which, the voice of Mrs. Pott was heard to chirp faintly forth,
-something which courtesy interpreted into a song, which was all very
+something which courtesy interpreted into a [[Song|song]], which was all very
 classical, and strictly in character, because [[characters/apollo|Apollo]] was himself a
 composer, and composers can very seldom sing their own music or anybody
 else’s, either. This was succeeded by Mrs. Leo Hunter’s recitation of
@@ -10136,7 +10137,7 @@ head. ‘I wos a vaginer’s boy, once.’
 frog with its troubles,’ replied Sam. ‘I wos a carrier’s boy at
 startin’; then a vaginer’s, then a helper, then a boots. Now I’m a
 gen’l’m’n’s servant. I shall be a gen’l’m’n myself one of these days,
-perhaps, with a pipe in my mouth, and a [[motifs/summer|summer]]-house in the back-[[motifs/garden|garden]].
+perhaps, with a pipe in my mouth, and a [[motifs/summer|summer]]-[[house]] in the back-[[motifs/garden|garden]].
 Who knows? I shouldn’t be surprised for one.’
 
 ‘You are quite a philosopher, Sam,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
@@ -10146,7 +10147,7 @@ father’s wery much in that line now. If my mother-in-law blows him up,
 he whistles. She flies in a passion, and breaks his pipe; he steps out,
 and gets another. Then she screams wery loud, and falls into ‘sterics;
 and he smokes wery comfortably till she comes to agin. That’s
-philosophy, Sir, ain’t it?’
+[[philosophy]], Sir, ain’t it?’
 
 ‘A very good substitute for it, at all events,’ replied Mr. [[works/pickwick-(chesterton)|Pickwick]],
 laughing. ‘It must have been of great service to you, in the course of
@@ -10177,11 +10178,11 @@ them lonesome places--poor creeturs as ain’t up to the twopenny rope.’
 ‘And pray, Sam, what is the twopenny rope?’ inquired Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
 ‘The twopenny rope, sir,’ replied Mr. Weller, ‘is just a cheap lodgin’
-house, where the beds is twopence a [[motifs/night|night]].’
+[[house]], where the beds is twopence a [[motifs/night|night]].’
 
 ‘What do they call a bed a rope for?’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
-‘Bless your innocence, sir, that ain’t it,’ replied Sam. ‘Ven the lady
+‘Bless your [[innocence]], sir, that ain’t it,’ replied Sam. ‘Ven the lady
 and gen’l’m’n as keeps the hot-el first begun business, they used to
 make the beds on the floor; but this wouldn’t do at no price, ‘cos
 instead o’ taking a moderate twopenn’orth o’ [[motifs/sleep|sleep]], the lodgers used to
@@ -10235,7 +10236,7 @@ Sam.’
 the servant girl said afore she drank the egg-cupful of laudanum.’
 
 ‘I think you are right, Sam,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]]. ‘But I must first
-ascertain that he is in the house, and not likely to go away.’
+ascertain that he is in the [[house]], and not likely to go away.’
 
 ‘Leave that to me, Sir,’ said Sam. ‘Let me order you a snug little
 dinner, and make my inquiries below while it’s a-getting ready; I could
@@ -10247,7 +10248,7 @@ In half an hour, Mr. [[works/pickwick-(chesterton)|Pickwick]] was seated at a ve
 and in three-quarters Mr. Weller returned with the intelligence that Mr.
 Charles Fitz-Marshall had ordered his private room to be retained for
 him, until further notice. He was going to spend the evening at some
-private house in the neighbourhood, had ordered the boots to sit up
+private [[house]] in the neighbourhood, had ordered the boots to sit up
 until his return, and had taken his servant with him.
 
 ‘Now, sir,’ argued Mr. Weller, when he had concluded his report, ‘if I
@@ -10301,7 +10302,7 @@ great deliberation, and closing the book. ‘I [[concepts/hope|hope]] you are th
 Sir?’
 
 ‘Why, if I felt less like a walking brandy-bottle I shouldn’t be quite
-so staggery this mornin’,’ replied Sam. ‘Are you stoppin’ in this house,
+so staggery this mornin’,’ replied Sam. ‘Are you stoppin’ in this [[house]],
 old ‘un?’
 
 The mulberry man replied in the affirmative.
@@ -10415,7 +10416,7 @@ that’s what it is that preys upon my mind. But what am I to do?’
 ‘Do!’ said Sam; ‘di-wulge to the missis, and give up your master.’
 
 ‘Who’d believe me?’ replied Job Trotter. ‘The young lady’s considered
-the very picture of innocence and discretion. She’d deny it, and so
+the very picture of [[innocence]] and discretion. She’d deny it, and so
 would my master. Who’d believe me? I should lose my place, and get
 indicted for a conspiracy, or some such thing; that’s all I should take
 by my motion.’
@@ -10481,7 +10482,7 @@ longer.’
 
 Very [[motifs/well|well]],’ said Mr. [[works/pickwick-(chesterton)|Pickwick]]. ‘Now, where is this boarding-school?’
 
-‘It is a large, old, red brick house, just outside the town, Sir,’
+‘It is a large, old, red brick [[house]], just outside the town, Sir,’
 replied Job Trotter.
 
 ‘And when,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]]--‘when is this villainous design to be
@@ -10538,9 +10539,9 @@ away we go.’
 ‘[[motifs/well|Well]]?’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
 ‘[[motifs/well|Well]], sir, I have been thinking that if you were in waiting in the
-[[motifs/garden|garden]] behind, alone--’
+[[motifs/garden|garden]] behind, [[Alone|alone]]--’
 
-‘[[works/alone-(poe)|Alone]],’ said Mr. [[works/pickwick-(chesterton)|Pickwick]]. ‘Why alone?’
+‘[[works/alone-(poe)|Alone]],’ said Mr. [[works/pickwick-(chesterton)|Pickwick]]. ‘Why [[Alone|alone]]?’
 
 ‘I thought it very natural,’ replied Job, ‘that the old lady wouldn’t
 like such an unpleasant discovery to be made before more persons than
@@ -10551,7 +10552,7 @@ feelings.’
 delicacy of feeling. Go on; you are very right.’
 
 ‘[[motifs/well|Well]], sir, I have been thinking that if you were waiting in the back
-[[motifs/garden|garden]] alone, and I was to let you in, at the door which opens into it,
+[[motifs/garden|garden]] [[Alone|alone]], and I was to let you in, at the door which opens into it,
 from the end of the passage, at exactly half-past eleven o’[[motifs/clock|clock]], you
 would be just in the very moment of [[motifs/time|time]] to assist me in frustrating the
 designs of this bad man, by whom I have been unfortunately ensnared.’
@@ -10598,9 +10599,9 @@ Thus, for the second [[motifs/time|time]], did Mr. [[works/pickwick-(chesterton)
 involve him in an enterprise from which he would most willingly have
 stood aloof.
 
-‘What is the name of the house?’ inquired Mr. [[works/pickwick-(chesterton)|Pickwick]].
+‘What is the name of the [[house]]?’ inquired Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
-‘Westgate House, Sir. You turn a little to the right when you get to the
+‘Westgate [[house|House]], Sir. You turn a little to the right when you get to the
 end of the town; it stands by itself, some little distance off the high
 [[motifs/road|road]], with the name on a brass plate on the gate.’
 
@@ -10651,9 +10652,9 @@ and trees, were enveloped in one deep shade. The atmosphere was hot and
 sultry, the [[motifs/summer|summer]] [[motifs/lightning|lightning]] quivered faintly on the verge of the
 horizon, and was the only sight that varied the dull gloom in which
 everything was wrapped--sound there was none, except the distant barking
-of some restless house-dog.
+of some restless [[house]]-dog.
 
-They found the house, read the brass plate, walked round the wall, and
+They found the [[house]], read the brass plate, walked round the wall, and
 stopped at that portion of it which divided them from the [[characters/bottom|bottom]] of the
 [[motifs/garden|garden]].
 
@@ -10696,10 +10697,10 @@ scratches. Go away, or we shall be overheard.’
 
 ‘Good-bye.’
 
-With stealthy steps [[characters/sam-weller|Sam Weller]] departed, leaving Mr. [[works/pickwick-(chesterton)|Pickwick]] alone in
+With stealthy steps [[characters/sam-weller|Sam Weller]] departed, leaving Mr. [[works/pickwick-(chesterton)|Pickwick]] [[Alone|alone]] in
 the [[motifs/garden|garden]].
 
-Lights occasionally appeared in the different windows of the house, or
+Lights occasionally appeared in the different windows of the [[house]], or
 glanced from the staircases, as if the inmates were retiring to rest.
 Not caring to go too near the door, until the appointed [[motifs/time|time]], Mr.
 [[works/pickwick-(chesterton)|Pickwick]] crouched into an angle of the wall, and awaited its arrival.
@@ -10714,7 +10715,7 @@ the chimes of the neighbouring church ringing out the hour--half-past
 eleven.
 
 ‘That’s the [[motifs/time|time]],’ thought Mr. [[works/pickwick-(chesterton)|Pickwick]], getting cautiously on his feet.
-He looked up at the house. The lights had disappeared, and the shutters
+He looked up at the [[house]]. The lights had disappeared, and the shutters
 were closed--all in bed, no [[concepts/doubt|doubt]]. He walked on tiptoe to the door, and
 gave a gentle tap. Two or three minutes passing without any reply, he
 gave another tap rather louder, and then another rather louder than
@@ -10733,7 +10734,7 @@ displayed by that admirable melodramatic performer, Punch, when he lies
 in wait for the flat-headed comedian with the tin box of music.
 
 ‘It must have been the cat, Sarah,’ said the girl, addressing herself to
-some one in the house. ‘Puss, puss, puss,--tit, tit, tit.’
+some one in the [[house]]. ‘Puss, puss, puss,--tit, tit, tit.’
 
 But no animal being decoyed by these blandishments, the girl slowly
 closed the door, and re-fastened it; leaving Mr. [[works/pickwick-(chesterton)|Pickwick]] drawn up
@@ -10771,7 +10772,7 @@ perspiration.
 
 
 ‘What a dreadful situation,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], pausing to wipe his brow
-after this exercise. He looked up at the house--all was dark. They must
+after this exercise. He looked up at the [[house]]--all was dark. They must
 be gone to bed now. He would try the signal again.
 
 He walked on tiptoe across the moist gravel, and tapped at the door. He
@@ -10861,7 +10862,7 @@ them.
 wretch!’
 
 ‘Ladies,’ roared Mr. [[works/pickwick-(chesterton)|Pickwick]], rendered desperate by the danger of his
-situation. ‘Hear me. I am no robber. I want the lady of the house.’
+situation. ‘Hear me. I am no robber. I want the lady of the [[house]].’
 
 ‘Oh, what a ferocious [[archetypes/monster|monster]]!’ screamed another teacher. ‘He wants Miss
 Tomkins.’
@@ -10876,7 +10877,7 @@ closet, if you like. Only hear what I have got to say--only hear me.’
 
 ‘How did you come in our [[motifs/garden|garden]]?’ faltered the housemaid.
 
-‘Call the lady of the house, and I’ll tell her everything,’ said Mr.
+‘Call the lady of the [[house]], and I’ll tell her everything,’ said Mr.
 [[works/pickwick-(chesterton)|Pickwick]], exerting his lungs to the utmost pitch. ‘Call her--only be
 quiet, and call her, and you shall hear everything.’
 
@@ -10936,7 +10937,7 @@ So two of the servants were despatched to the Angel in search of Mr.
 Samuel Weller; and the remaining three stopped behind to protect Miss
 Tomkins, and the three teachers, and the thirty boarders. And Mr.
 [[works/pickwick-(chesterton)|Pickwick]] sat down in the closet, beneath a grove of sandwich-bags, and
-awaited the return of the messengers, with all the philosophy and
+awaited the return of the messengers, with all the [[philosophy]] and
 fortitude he could summon to his aid.
 
 An hour and a half elapsed before they came back, and when they did
@@ -10946,7 +10947,7 @@ ear; but whose they were, he could not for the life of him call to mind.
 
 A very brief conversation ensued. The door was unlocked. Mr. [[works/pickwick-(chesterton)|Pickwick]]
 stepped out of the closet, and found himself in the presence of the
-whole establishment of Westgate House, Mr Samuel Weller, and--old
+whole establishment of Westgate [[house|House]], Mr Samuel Weller, and--old
 Wardle, and his destined son-in-law, Mr. Trundle!
 
 ‘My dear friend,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], running forward and grasping
@@ -10969,7 +10970,7 @@ order ‘em up, one at a [[motifs/time|time]].’ Having delivered this defiance
 volubility, Mr. Weller struck his open palm emphatically with his
 clenched fist, and winked pleasantly on Miss Tomkins, the intensity of
 whose horror at his supposing it within the bounds of possibility that
-there could be any men on the premises of Westgate House Establishment
+there could be any men on the premises of Westgate [[house|House]] Establishment
 for Young Ladies, it is impossible to describe.
 
 Mr. [[works/pickwick-(chesterton)|Pickwick]]’s explanation having already been partially made, was soon
@@ -11058,7 +11059,7 @@ air, and rough-dried in a closet, is as dangerous as it is peculiar. Mr.
 
 But although the bodily powers of the great man were thus impaired, his
 mental energies retained their pristine vigour. His spirits were
-elastic; his good-humour was restored. Even the vexation consequent upon
+elastic; his good-[[Humour|humour]] was restored. Even the vexation consequent upon
 his recent adventure had vanished from his mind; and he could join in
 the hearty laughter, which any allusion to it excited in Mr. Wardle,
 without anger and without embarrassment. Nay, more. During the two days
@@ -11079,7 +11080,7 @@ THE PARISH CLERK A TALE OF TRUE [[motifs/love|LOVE]]
 
 ‘Once upon a [[motifs/time|time]], in a very small country town, at a considerable
 distance from [[settings/london|London]], there lived a little man named Nathaniel Pipkin,
-who was the parish clerk of the little town, and lived in a little house
+who was the parish clerk of the little town, and lived in a little [[house]]
 in the little High Street, within ten minutes’ walk from the little
 church; and who was to be found every day, from nine till four, teaching
 a little learning to the little boys. Nathaniel Pipkin was a harmless,
@@ -11141,7 +11142,7 @@ razed the school-room to the ground, or exterminated its master from the
 surface of the earth, or committed some other outrage and atrocity of an
 equally ferocious and violent description; for he was a terrible old
 fellow, was Lobbs, when his [[concepts/pride|pride]] was injured, or his [[motifs/blood|blood]] was up.
-Swear! Such trains of oaths would come rolling and pealing over the way,
+Swear! Such trains of oaths would come [[rolling]] and pealing over the way,
 sometimes, when he was denouncing the idleness of the bony apprentice
 with the thin legs, that Nathaniel Pipkin would shake in his shoes with
 horror, and the hair of the pupils’ heads would stand on end with
@@ -11348,7 +11349,7 @@ Nathaniel Pipkin.
 
 ‘“I did.”
 
-‘“And I forbade you this house, long ago.”
+‘“And I forbade you this [[house]], long ago.”
 
 ‘“You did, or I should not have been here, clandestinely, to-[[motifs/night|night]].”
 
@@ -11406,7 +11407,7 @@ remained at Eatanswill, anxiously awaiting the arrival of some
 intelligence from their revered leader. Mr. Tupman and Mr. Snodgrass
 were once again left to their own means of amusement; for Mr. Winkle, in
 compliance with a most pressing invitation, continued to reside at Mr.
-Pott’s house, and to devote his [[motifs/time|time]] to the companionship of his amiable
+Pott’s [[house]], and to devote his [[motifs/time|time]] to the companionship of his amiable
 lady. Nor was the occasional society of Mr. Pott himself wanting to
 complete their felicity. Deeply immersed in the intensity of his
 speculations for the public weal and the destruction of the
@@ -11421,7 +11422,7 @@ spirit, to be one of them.
 Such having been the demeanour of this celebrated public character
 towards Mr. Winkle, it will be readily imagined that considerable
 surprise was depicted on the countenance of the latter gentleman, when,
-as he was sitting alone in the breakfast-room, the door was hastily
+as he was sitting [[Alone|alone]] in the breakfast-room, the door was hastily
 thrown open, and as hastily closed, on the entrance of Mr. Pott, who,
 stalking majestically towards him, and thrusting aside his proffered
 hand, ground his teeth, as if to put a sharper edge on what he was about
@@ -11552,7 +11553,7 @@ frequent than ever.
 
 ‘My dear,’ said Mr. Pott, ‘I’m very sorry. If you won’t consider your
 own health, consider me, my dear. We shall have a crowd round the
-house.’ But the more strenuously Mr. Pott entreated, the more vehemently
+[[house]].’ But the more strenuously Mr. Pott entreated, the more vehemently
 the screams poured forth.
 
 Very fortunately, however, attached to Mrs. Pott’s person was a
@@ -11758,7 +11759,7 @@ I am, without any ride at all; so let us fall to.’
 Ample justice was done to the meal; and when they were seated round the
 table, after it had been disposed of, Mr. [[works/pickwick-(chesterton)|Pickwick]], to the intense
 horror and indignation of his followers, related the adventure he had
-undergone, and the success which had attended the base artifices of the
+undergone, and the [[success]] which had attended the base artifices of the
 diabolical Jingle.
 
 ‘And the attack of rheumatism which I caught in that [[motifs/garden|garden]],’ said Mr.
@@ -11775,7 +11776,7 @@ Mr. [[works/pickwick-(chesterton)|Pickwick]] struck the table emphatically with 
 spoke as follows:--
 
 ‘Is it not a wonderful circumstance,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], ‘that we seem
-destined to enter no man’s house without involving him in some degree of
+destined to enter no man’s [[house]] without involving him in some degree of
 trouble? Does it not, I ask, bespeak the indiscretion, or, worse than
 that, the blackness of heart--that I should say so!--of my followers,
 that, beneath whatever roof they locate, they disturb the peace of mind
@@ -11905,11 +11906,11 @@ and hammering the table. ‘I’ll see this Dodson and Fogg! I’ll go to
 us, as far as Sir Geoffrey Manning’s grounds at all events, and to meet
 us at lunch, if you don’t take the field.’
 
-‘[[motifs/well|Well]], then, the day after,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]]; ‘Thursday.--Sam!’
+‘[[motifs/well|Well]], then, the day after,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]]; ‘[[thursday|Thursday]].--Sam!’
 
 ‘Sir,’ replied Mr. Weller.
 
-‘Take two places outside to [[settings/london|London]], on Thursday morning, for yourself
+‘Take two places outside to [[settings/london|London]], on [[thursday|Thursday]] morning, for yourself
 and me.’
 
 ‘Wery [[motifs/well|well]], Sir.’
@@ -11950,7 +11951,7 @@ English [[motifs/summer|summer]] had yet flown by. Hedges, fields, and trees, [[
 moorland, presented to the eye their ever-varying shades of deep rich
 green; scarce a leaf had fallen, scarce a sprinkle of yellow mingled
 with the hues of [[motifs/summer|summer]], warned you that [[motifs/autumn|autumn]] had begun. The sky was
-cloudless; the sun shone out bright and warm; the songs of [[motifs/birds|birds]], the
+cloudless; the sun shone out bright and warm; the [[songs]] of [[motifs/birds|birds]], the
 hum of myriads of [[motifs/summer|summer]] [[motifs/insects|insects]], filled the air; and the cottage
 gardens, crowded with [[motifs/flowers|flowers]] of every rich and beautiful tint,
 sparkled, in the heavy dew, like beds of glittering jewels. Everything
@@ -11978,7 +11979,7 @@ in the open air, till he had filled one of the bags, they stood a
 considerable chance of catching colds in their heads.
 
 ‘Hi, Juno, lass-hi, old girl; down, Daph, down,’ said Wardle, caressing
-the dogs. ‘Sir Geoffrey still in Scotland, of course, Martin?’
+the [[dogs]]. ‘Sir Geoffrey still in Scotland, of course, Martin?’
 
 The tall gamekeeper replied in the affirmative, and looked with some
 surprise from Mr. Winkle, who was holding his gun as if he wished his
@@ -12114,10 +12115,10 @@ position required, and the party moved on again; the two amateurs
 marching with reversed arms, like a couple of privates at a royal
 funeral.
 
-The dogs suddenly came to a dead stop, and the party advancing
+The [[dogs]] suddenly came to a dead stop, and the party advancing
 stealthily a single pace, stopped too.
 
-‘What’s the matter with the dogs’ legs?’ whispered Mr. Winkle. ‘How
+‘What’s the matter with the [[dogs]]’ legs?’ whispered Mr. Winkle. ‘How
 queer they’re standing.’
 
 ‘Hush, can’t you?’ replied Wardle softly. ‘Don’t you see, they’re making
@@ -12139,7 +12140,7 @@ swept quickly away over the field, and curled into the air.
 turning round and round in all directions. ‘Where are they? Tell me when
 to [[motifs/fire|fire]]. Where are they--where are they?’
 
-‘Where are they!’ said Wardle, taking up a brace of [[motifs/birds|birds]] which the dogs
+‘Where are they!’ said Wardle, taking up a brace of [[motifs/birds|birds]] which the [[dogs]]
 had deposited at his feet. ‘Why, here they are.’
 
 ‘No, no; I mean the others,’ said the bewildered Winkle.
@@ -12263,7 +12264,7 @@ eyes firmly, and [[motifs/fire|fire]] into the air.
 On one occasion, after performing this feat, Mr. Tupman, on opening his
 eyes, beheld a plump partridge in the act of falling, wounded, to the
 ground. He was on the point of congratulating Mr. Wardle on his
-invariable success, when that gentleman advanced towards him, and
+invariable [[success]], when that gentleman advanced towards him, and
 grasped him warmly by the hand.
 
 ‘Tupman,’ said the old gentleman, ‘you singled out that particular
@@ -12286,7 +12287,7 @@ circumstances confined to partridge-shooting.
 Meanwhile, Mr. Winkle flashed, and blazed, and smoked away, without
 producing any material results worthy of being noted down; sometimes
 expending his charge in mid-air, and at others sending it skimming along
-so near the surface of the ground as to place the lives of the two dogs
+so near the surface of the ground as to place the lives of the two [[dogs]]
 on a rather uncertain and precarious tenure. As a display of fancy-
 shooting, it was extremely varied and curious; as an exhibition of
 firing with any precise object, it was, upon the whole, perhaps a
@@ -12330,7 +12331,7 @@ themselves don’t know the difference?’
 ‘Don’t they, Sam?’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
 ‘Not they, sir,’ replied Mr. Weller, touching his hat. ‘I lodged in the
-same house vith a pieman once, sir, and a wery nice man he was--reg’lar
+same [[house]] vith a pieman once, sir, and a wery nice man he was--reg’lar
 clever chap, too--make pies out o’ anything, he could. “What a number o’
 cats you keep, Mr. Brooks,” says I, when I’d got intimate with him.
 “Ah,” says he, “I do--a good many,” says he, “You must be wery fond o’
@@ -12438,10 +12439,10 @@ Mr. [[works/pickwick-(chesterton)|Pickwick]]; his countenance beamed with the mo
 laughter played around his lips, and good-humoured merriment twinkled in
 his eye. Yielding by degrees to the influence of the exciting liquid,
 rendered more so by the heat, Mr. [[works/pickwick-(chesterton)|Pickwick]] expressed a strong [[motifs/desire|desire]] to
-recollect a song which he had heard in his infancy, and the attempt
+recollect a [[Song|song]] which he had heard in his infancy, and the attempt
 proving abortive, sought to stimulate his [[motifs/memory|memory]] with more glasses of
 punch, which appeared to have quite a contrary effect; for, from
-forgetting the words of the song, he began to forget how to articulate
+forgetting the words of the [[Song|song]], he began to forget how to articulate
 any words at all; and finally, after rising to his legs to address the
 company in an eloquent speech, he fell into the barrow, and fast asleep,
 simultaneously.
@@ -12470,7 +12471,7 @@ did it in company with a thick rattan stick with a brass ferrule, and a
 gardener and sub-gardener with meek faces, to whom (the gardeners, not
 the stick) Captain Boldwig gave his orders with all due grandeur and
 ferocity; for Captain Boldwig’s wife’s sister had married a marquis, and
-the captain’s house was a villa, and his land ‘grounds,’ and it was all
+the captain’s [[house]] was a villa, and his land ‘grounds,’ and it was all
 very high, and mighty, and great.
 
 Mr. [[works/pickwick-(chesterton)|Pickwick]] had not been asleep half an hour when little Captain
@@ -12643,7 +12644,7 @@ might turn on some of us, and say we had taken too much cold punch.’
 
 Do what he would, a smile would come into Mr. [[works/pickwick-(chesterton)|Pickwick]]’s face; the smile
 extended into a laugh; the laugh into a roar; the roar became general.
-So, to keep up their good-humour, they stopped at the first roadside
+So, to keep up their good-[[Humour|humour]], they stopped at the first roadside
 tavern they came to, and ordered a glass of brandy-and-[[motifs/water|water]] all round,
 with a magnum of extra strength for Mr. Samuel Weller.
 
@@ -12659,7 +12660,7 @@ BETWEEN MR. WELLER AND HIS LONG-LOST PARENT; SHOWING ALSO WHAT CHOICE
 SPIRITS ASSEMBLED AT THE MAGPIE AND STUMP, AND WHAT A CAPITAL CHAPTER
 THE NEXT ONE WILL BE
 
-In the ground-floor front of a dingy house, at the very farthest end of
+In the ground-floor front of a dingy [[house]], at the very farthest end of
 Freeman’s [[settings/court|Court]], Cornhill, sat the four clerks of Messrs. Dodson & Fogg,
 two of his Majesty’s attorneys of the courts of [[archetypes/king|King]]’s Bench and Common
 Pleas at Westminster, and solicitors of the High [[settings/court|Court]] of Chancery--the
@@ -12906,7 +12907,7 @@ unfortunate than I had believed any man could possibly be. What do you
 say, Mr. Fogg?’
 
 ‘I say precisely what you say,’ replied Fogg, with a smile of
-incredulity.
+[[Incredulity|incredulity]].
 
 ‘The writ, Sir, which commences the action,’ continued Dodson, ‘was
 issued regularly. Mr. Fogg, where is the _Praecipe _book?’
@@ -13011,7 +13012,7 @@ And without the slightest ceremony, Mr. Weller hauled his master down
 the stairs, and down the [[settings/court|court]], and having safely deposited him in
 Cornhill, fell behind, prepared to follow whithersoever he should lead.
 
-Mr. [[works/pickwick-(chesterton)|Pickwick]] walked on abstractedly, crossed opposite the Mansion House,
+Mr. [[works/pickwick-(chesterton)|Pickwick]] walked on abstractedly, crossed opposite the Mansion [[house|House]],
 and bent his steps up Cheapside. Sam began to [[concepts/wonder|wonder]] where they were
 going, when his master turned round, and said--
 
@@ -13031,7 +13032,7 @@ and-[[motifs/water|water]] warm, Sam. Where can I have it, Sam?’
 Mr. Weller’s knowledge of [[settings/london|London]] was extensive and peculiar. He replied,
 without the slightest consideration--
 
-‘Second [[settings/court|court]] on the right hand side--last house but vun on the same
+‘Second [[settings/court|court]] on the right hand side--last [[house]] but vun on the same
 side the vay--take the box as stands in the first fireplace, ‘cos there
 ain’t no leg in the middle o’ the table, which all the others has, and
 it’s wery inconvenient.’
@@ -13105,7 +13106,7 @@ Don’t she, though?’ inquired Mr. Weller, junior.
 The elder Mr. Weller shook his head, as he replied with a sigh, ‘I’ve
 done it once too often, Sammy; I’ve done it once too often. Take example
 by your father, my boy, and be wery careful o’ widders all your life,
-‘specially if they’ve kept a public-house, Sammy.’ Having delivered this
+‘specially if they’ve kept a public-[[house]], Sammy.’ Having delivered this
 parental advice with great pathos, Mr. Weller, senior, refilled his pipe
 from a tin box he carried in his pocket; and, lighting his fresh pipe
 from the ashes of the old One, commenced smoking at a great rate.
@@ -13201,7 +13202,7 @@ tell them to meet me at Ipswich. We will go with you. But don’t hurry
 away, Mr. Weller; won’t you take anything?’
 
 ‘You’re wery good, Sir,’ replied Mr. W., stopping short;--‘perhaps a
-small glass of brandy to drink your health, and success to Sammy, Sir,
+small glass of brandy to drink your health, and [[success]] to Sammy, Sir,
 wouldn’t be amiss.’
 
 ‘Certainly not,’ replied Mr. [[works/pickwick-(chesterton)|Pickwick]].
@@ -13311,7 +13312,7 @@ rickety staircase in safety, and issued forth in [[topoi/quest|quest]] of the Ma
 Stump.
 
 This favoured tavern, sacred to the evening orgies of Mr. Lowten and his
-companions, was what ordinary people would designate a public-house.
+companions, was what ordinary people would designate a public-[[house]].
 That the landlord was a man of money-making turn was sufficiently
 testified by the fact of a small bulkhead beneath the tap-room [[motifs/window|window]],
 in size and shape not unlike a sedan-chair, being underlet to a mender
@@ -13347,12 +13348,12 @@ him.
 gentleman in to Mr. Lowten.’
 
 ‘The gen’l’m’n can’t go in just now,’ said a shambling pot-boy, with a
-red head, ‘cos’ Mr. Lowten’s a-singin’ a comic song, and he’ll put him
+red head, ‘cos’ Mr. Lowten’s a-singin’ a comic [[Song|song]], and he’ll put him
 out. He’ll be done directly, Sir.’
 
 The red-headed pot-boy had scarcely finished speaking, when a most
 unanimous hammering of tables, and jingling of glasses, announced that
-the song had that instant terminated; and Mr. [[works/pickwick-(chesterton)|Pickwick]], after desiring
+the [[Song|song]] had that instant terminated; and Mr. [[works/pickwick-(chesterton)|Pickwick]], after desiring
 Sam to solace himself in the tap, suffered himself to be conducted into
 the presence of Mr. Lowten.
 
@@ -13390,7 +13391,7 @@ post-office, Ipswich.’
 you join us, for half an hour or so? We are capital company here to-
 [[motifs/night|night]]. There’s Samkin and Green’s managing-clerk, and Smithers and
 Price’s chancery, and Pimkin and Thomas’s out o’ doors--sings a capital
-song, he does--and Jack Bamber, and ever so many more. You’re come out
+[[Song|song]], he does--and Jack Bamber, and ever so many more. You’re come out
 of the country, I suppose. Would you like to join us?’
 
 Mr. [[works/pickwick-(chesterton)|Pickwick]] could not resist so tempting an opportunity of studying
@@ -13419,7 +13420,7 @@ too, it would be all the better.
 Here there was another pause. Mr. [[works/pickwick-(chesterton)|Pickwick]] was a stranger, and his
 coming had evidently cast a damp upon the party.
 
-‘Mr. Grundy’s going to oblige the company with a song,’ said the
+‘Mr. Grundy’s going to oblige the company with a [[Song|song]],’ said the
 chairman.
 
 ‘No, he ain’t,’ said Mr. Grundy.
@@ -13441,8 +13442,8 @@ of the table.
 
 ‘Hear! hear!’ said the smoking gentleman, in the Mosaic jewellery.
 
-‘Because I only know one song, and I have sung it already, and it’s a
-fine of “glasses round” to sing the same song twice in a [[motifs/night|night]],’ replied
+‘Because I only know one [[Song|song]], and I have sung it already, and it’s a
+fine of “glasses round” to sing the same [[Song|song]] twice in a [[motifs/night|night]],’ replied
 the chairman.
 
 This was an unanswerable reply, and [[motifs/silence|silence]] prevailed again.
@@ -13457,7 +13458,7 @@ Gray’s Inn, gentlemen. Curious little nooks in a great place, like
 ‘By Jove!’ said the chairman, whispering across the table to Mr.
 [[works/pickwick-(chesterton)|Pickwick]], ‘you have hit upon something that one of us, at least, would
 talk upon for ever. You’ll draw old Jack Bamber out; he was never heard
-to talk about anything else but the inns, and he has lived alone in them
+to talk about anything else but the inns, and he has lived [[Alone|alone]] in them
 till he’s half crazy.’
 
 The individual to whom Lowten alluded, was a little, yellow, high-
@@ -13509,7 +13510,7 @@ the lawyer’s office, to find a resting-place in the Thames, or a refuge
 in the jail? They are no ordinary houses, those. There is not a panel in
 the old wainscotting, but what, if it were endowed with the powers of
 speech and [[motifs/memory|memory]], could start from the wall, and tell its tale of
-horror--the romance of life, Sir, the romance of life! Common-place as
+horror--the [[Romance|romance]] of life, Sir, the [[Romance|romance]] of life! Common-place as
 they may seem now, I tell you they are strange old places, and I would
 rather hear many a legend with a terrific-sounding name, than the true
 [[concepts/history|history]] of one old set of chambers.’
@@ -13534,10 +13535,10 @@ Mr. [[works/pickwick-(chesterton)|Pickwick]] eyed the old man with great curiosi
 the company smiled, and looked on in [[motifs/silence|silence]].
 
 ‘Talk of your German universities,’ said the little old man. ‘Pooh,
-pooh! there’s romance enough at [[motifs/home|home]] without going half a mile for it;
+pooh! there’s [[Romance|romance]] enough at [[motifs/home|home]] without going half a mile for it;
 only people never think of it.’
 
-‘I never thought of the romance of this particular subject before,
+‘I never thought of the [[Romance|romance]] of this particular subject before,
 certainly,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], laughing.
 
 ‘To be sure you didn’t,’ said the little old man; ‘of course not. As a
@@ -13552,7 +13553,7 @@ thought he’d gone out of town.’
 
 ‘The benchers determined to have his door broken open, as he hadn’t paid
 any rent for two years. So they did. Forced the lock; and a very dusty
-skeleton in a blue coat, black knee-shorts, and silks, fell forward in
+[[skeleton]] in a blue coat, black knee-shorts, and silks, fell forward in
 the arms of the porter who opened the door. Queer, that. Rather,
 perhaps; rather, eh?’ The little old man put his head more on one side,
 and rubbed his hands with unspeakable glee.
@@ -13787,7 +13788,7 @@ had removed to a wretched apartment close to the spot of her husband’s
 increasing [[concepts/poverty|poverty]], she was happier now, for she was nearer him. For two
 months, she and her little companion watched the opening of the gate as
 usual. One day she failed to come, for the first [[motifs/time|time]]. Another morning
-arrived, and she came alone. The [[archetypes/child|child]] was dead.
+arrived, and she came [[Alone|alone]]. The [[archetypes/child|child]] was dead.
 
 
 
@@ -13813,7 +13814,7 @@ loss sank deep into their souls.
 ‘It was plain to those who looked upon the mother’s altered face, that
 [[motifs/death|death]] must soon close the scene of her adversity and trial. Her
 husband’s fellow-prisoners shrank from obtruding on his grief and
-misery, and left to himself alone, the small room he had previously
+misery, and left to himself [[Alone|alone]], the small room he had previously
 occupied in common with two companions. She shared it with him; and
 lingering on without [[motifs/pain|pain]], but without [[concepts/hope|hope]], her life ebbed slowly away.
 
@@ -13848,7 +13849,7 @@ before her. “Speak to me, Mary, another word; one look--but one!”
 ‘He ceased to speak: for the arm that clasped his neck grew stiff and
 heavy. A deep sigh escaped from the wasted form before him; the lips
 moved, and a smile played upon the face; but the lips were pallid, and
-the smile faded into a rigid and ghastly stare. He was alone in the
+the smile faded into a rigid and ghastly stare. He was [[Alone|alone]] in the
 world.
 
 ‘That [[motifs/night|night]], in the [[motifs/silence|silence]] and desolation of his miserable room, the
@@ -13876,7 +13877,7 @@ fever which was burning within.
 calmness, and acquiesced in its propriety. Nearly all the inmates of the
 [[motifs/prison|prison]] had assembled to witness its removal; they fell back on either
 side when the widower appeared; he walked hurriedly forward, and
-stationed himself, alone, in a little railed area close to the lodge
+stationed himself, [[Alone|alone]], in a little railed area close to the lodge
 gate, from whence the crowd, with an instinctive feeling of delicacy,
 had retired. The rude coffin was borne slowly forward on men’s
 shoulders. A dead [[motifs/silence|silence]] pervaded the throng, broken only by the
@@ -13924,7 +13925,7 @@ had kept his oath.
 
 
 ‘He was traversing the scorching sands of a mighty [[motifs/desert|desert]], barefoot and
-alone. The sand choked and blinded him; its fine thin grains entered the
+[[Alone|alone]]. The sand choked and blinded him; its fine thin grains entered the
 very pores of his skin, and irritated him almost to [[concepts/madness|madness]]. Gigantic
 masses of the same material, carried forward by the [[motifs/wind|wind]], and shone
 through by the burning sun, stalked in the distance like pillars of
@@ -14086,7 +14087,7 @@ the law in force, every trick that ingenuity can devise and rascality
 execute; fair means and foul; the open oppression of the law, aided by
 all the craft of its most ingenious practitioners. I would have him die
 a harassing and lingering [[motifs/death|death]]. Ruin him, seize and sell his lands and
-goods, drive him from house and [[motifs/home|home]], and drag him forth a beggar in his
+goods, drive him from [[house]] and [[motifs/home|home]], and drag him forth a beggar in his
 old age, to die in a common jail.”
 
 ‘“But the costs, my dear Sir, the costs of all this,” reasoned the
@@ -14113,13 +14114,13 @@ remonstrance, the prayers for a little delay, the representations of the
 certain ruin in which the opposite party must be involved, which poured
 in, as suit after suit, and process after process, was commenced. To all
 applications for a brief indulgence, there was but one reply--the money
-must be paid. Land, house, furniture, each in its turn, was taken under
+must be paid. Land, [[house]], furniture, each in its turn, was taken under
 some one of the numerous executions which were issued; and the old man
 himself would have been immured in [[motifs/prison|prison]] had he not escaped the
 vigilance of the officers, and fled.
 
 ‘The implacable animosity of Heyling, so far from being satiated by the
-success of his persecution, increased a hundredfold with the ruin he
+[[success]] of his persecution, increased a hundredfold with the ruin he
 inflicted. On being informed of the old man’s flight, his fury was
 unbounded. He gnashed his teeth with rage, tore the hair from his head,
 and assailed with horrid imprecations the men who had been intrusted
@@ -14144,7 +14145,7 @@ being overheard, he sank into a chair, and said, in a low voice--
 
 ‘“He lies concealed in a wretched lodging in Camden Town,” said Heyling.
 “Perhaps it is as [[motifs/well|well]] we _did _lose sight of him, for he has been
-living alone there, in the most abject misery, all the [[motifs/time|time]], and he is
+living [[Alone|alone]] there, in the most abject misery, all the [[motifs/time|time]], and he is
 poor--very poor.”
 
 
@@ -14178,7 +14179,7 @@ fields and ditches.
 
 ‘Having drawn the travelling-cap he had on half over his face, and
 muffled himself in his cloak, Heyling stopped before the meanest-looking
-house in the street, and knocked gently at the door. It was at once
+[[house]] in the street, and knocked gently at the door. It was at once
 opened by a woman, who dropped a curtsey of recognition, and Heyling,
 whispering the officer to remain below, crept gently upstairs, and,
 opening the door of the front room, entered at once.
@@ -14243,7 +14244,7 @@ the Magpie and Stump.
 
 
 
-CHAPTER XXII. MR. PICKWICK JOURNEYS TO IPSWICH AND MEETS WITH A ROMANTIC
+CHAPTER XXII. MR. [[Pickwick|PICKWICK]] JOURNEYS TO IPSWICH AND MEETS WITH A ROMANTIC
 ADVENTURE WITH A MIDDLE-AGED LADY IN YELLOW CURL-PAPERS
 
 That ‘ere your governor’s luggage, Sammy?’ inquired Mr. Weller of his
@@ -14473,7 +14474,7 @@ humouredly, as he took his seat on the box beside him.
 
 ‘Jump up in front, Sammy,’ said Mr. Weller. ‘Now Villam, run ‘em out.
 Take care o’ the archvay, gen’l’m’n. “Heads,” as the pieman says.
-That’ll do, Villam. Let ‘em alone.’ And away went the coach up
+That’ll do, Villam. Let ‘em [[Alone|alone]].’ And away went the coach up
 Whitechapel, to the admiration of the whole population of that pretty
 densely populated quarter.
 
@@ -14600,7 +14601,7 @@ his hat to the lowest button of his gaiters, replied emphatically--
 ‘No!’
 
 ‘My friends have not arrived to-day, Sir,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]]. ‘We will
-dine alone, then. Show us a private room, waiter.’
+dine [[Alone|alone]], then. Show us a private room, waiter.’
 
 On this request being preferred, the corpulent man condescended to order
 the boots to bring in the gentlemen’s luggage; and preceding them down a
@@ -14611,7 +14612,7 @@ dispiriting influence of the place. After the lapse of an hour, a bit of
 fish and a steak was served up to the travellers, and when the dinner
 was cleared away, Mr. [[works/pickwick-(chesterton)|Pickwick]] and Mr. Peter Magnus drew their chairs up
 to the [[motifs/fire|fire]], and having ordered a bottle of the worst possible port
-wine, at the highest possible price, for the good of the house, drank
+wine, at the highest possible price, for the good of the [[house]], drank
 brandy-and-[[motifs/water|water]] for their own.
 
 Mr. Peter Magnus was naturally of a very communicative disposition, and
@@ -14654,7 +14655,7 @@ you, though?’
 
 ‘Why, then,’ said Mr. Magnus, ‘to let you into a little secret, I think
 so too. I don’t mind telling you, Mr. [[works/pickwick-(chesterton)|Pickwick]], although I’m dreadful
-jealous by [[concepts/nature|nature]]--horrid--that the lady is in this house.’ Here Mr.
+jealous by [[concepts/nature|nature]]--horrid--that the lady is in this [[house]].’ Here Mr.
 Magnus took off his spectacles, on purpose to wink, and then put them on
 again.
 
@@ -14731,7 +14732,7 @@ At the bare notion of such a calamity, Mr. Peter Magnus rang the bell
 for the chambermaid; and the striped bag, the red bag, the leathern hat-
 box, and the brown-paper parcel, having been conveyed to his bedroom, he
 retired in company with a japanned candlestick, to one side of the
-house, while Mr. [[works/pickwick-(chesterton)|Pickwick]], and another japanned candlestick, were
+[[house]], while Mr. [[works/pickwick-(chesterton)|Pickwick]], and another japanned candlestick, were
 conducted through a multitude of tortuous windings, to another.
 
 ‘This is your room, sir,’ said the chambermaid.
@@ -14749,13 +14750,13 @@ the accommodations of the Great White [[motifs/horse|Horse]] had led him to expe
 eight in the morning, and that I shall not want him any more to-[[motifs/night|night]].’
 
 ‘Yes, Sir,’ and bidding Mr. [[works/pickwick-(chesterton)|Pickwick]] good-[[motifs/night|night]], the chambermaid
-retired, and left him alone.
+retired, and left him [[Alone|alone]].
 
 Mr. [[works/pickwick-(chesterton)|Pickwick]] sat himself down in a chair before the [[motifs/fire|fire]], and fell into
 a train of rambling meditations. First he thought of his friends, and
 wondered when they would join him; then his mind reverted to Mrs. Martha
 Bardell; and from that lady it wandered, by a natural process, to the
-dingy counting-house of Dodson & Fogg. From Dodson & Fogg’s it flew off
+dingy counting-[[house]] of Dodson & Fogg. From Dodson & Fogg’s it flew off
 at a tangent, to the very centre of the [[concepts/history|history]] of the queer client; and
 then it came back to the Great White [[motifs/horse|Horse]] at Ipswich, with sufficient
 clearness to convince Mr. [[works/pickwick-(chesterton)|Pickwick]] that he was falling asleep. So he
@@ -14777,7 +14778,7 @@ be to descend, and again and again, when Mr. [[works/pickwick-(chesterton)|Pickw
 narrow passage, and began to congratulate himself on having gained the
 ground-floor, did another flight of stairs appear before his astonished
 eyes. At last he reached a stone hall, which he remembered to have seen
-when he entered the house. Passage after passage did he explore; room
+when he entered the [[house]]. Passage after passage did he explore; room
 after room did he peep into; at length, as he was on the point of giving
 up the search in [[concepts/despair|despair]], he opened the door of the identical room in
 which he had spent the evening, and beheld his missing property on the
@@ -14826,7 +14827,7 @@ almost cracked the nightcap strings--‘it is the best idea, my losing
 myself in this place, and wandering about these staircases, that I ever
 heard of. Droll, droll, very droll.’ Here Mr. [[works/pickwick-(chesterton)|Pickwick]] smiled again, a
 broader smile than before, and was about to continue the process of
-undressing, in the best possible humour, when he was suddenly stopped by
+undressing, in the best possible [[Humour|humour]], when he was suddenly stopped by
 a most unexpected interruption: to wit, the entrance into the room of
 some person with a candle, who, after locking the door, advanced to the
 dressing-table, and set down the light upon it.
@@ -14876,7 +14877,7 @@ border; and was gazing pensively on the [[motifs/fire|fire]].
 ‘This matter is growing alarming,’ reasoned Mr. [[works/pickwick-(chesterton)|Pickwick]] with himself.
 ‘I can’t allow things to go on in this way. By the [[concepts/self|self]]-possession of
 that lady, it is clear to me that I must have come into the wrong room.
-If I call out she’ll alarm the house; but if I remain here the
+If I call out she’ll alarm the [[house]]; but if I remain here the
 consequences will be still more frightful.’
 
 Mr. [[works/pickwick-(chesterton)|Pickwick]], it is quite unnecessary to say, was one of the most modest
@@ -14912,7 +14913,7 @@ the curtains.
 
 ‘It’s all over!’ thought Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
-‘A strange man!’ shrieked the lady. Another instant and the house would
+‘A strange man!’ shrieked the lady. Another instant and the [[house]] would
 be alarmed. Her garments rustled as she rushed towards the door.
 
 ‘Ma’am,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], thrusting out his head in the extremity of
@@ -14984,8 +14985,8 @@ bolted the door behind him.
 
 Whatever grounds of [[concepts/self|self]]-congratulation Mr. [[works/pickwick-(chesterton)|Pickwick]] might have for
 having escaped so quietly from his late awkward situation, his present
-position was by no means enviable. He was alone, in an open passage, in
-a strange house in the middle of the [[motifs/night|night]], half dressed; it was not to
+position was by no means enviable. He was [[Alone|alone]], in an open passage, in
+a strange [[house]] in the middle of the [[motifs/night|night]], half dressed; it was not to
 be supposed that he could find his way in perfect darkness to a room
 which he had been wholly unable to discover with a light, and if he made
 the slightest noise in his fruitless attempts to do so, he stood every
@@ -15017,8 +15018,8 @@ most extraordinary mistakes to-[[motifs/night|night]], that ever were heard of.�
 ‘Wery likely, Sir,’ replied Mr. Weller drily.
 
 ‘But of this I am determined, Sam,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]]; ‘that if I were
-to stop in this house for six months, I would never trust myself about
-it, alone, again.’
+to stop in this [[house]] for six months, I would never trust myself about
+it, [[Alone|alone]], again.’
 
 ‘That’s the wery prudentest resolution as you could come to, Sir,’
 replied Mr. Weller. ‘You rayther want somebody to look arter you, Sir,
@@ -15333,7 +15334,7 @@ worse than ever.’
 ‘No, not at a boarding-school,’ replied Job Trotter, with the same sly
 look which Sam had noticed before; ‘not at a boarding-school.’
 
-‘At the house with the green gate?’ said Sam, eyeing his companion
+‘At the [[house]] with the green gate?’ said Sam, eyeing his companion
 closely.
 
 ‘No, no--oh, not there,’ replied Job, with a quickness very unusual to
@@ -15349,7 +15350,7 @@ first met. You recollect how pleasant we were that morning?’
 ‘Oh, yes,’ said Sam, impatiently. ‘I remember. [[motifs/well|Well]]?’
 
 ‘[[motifs/well|Well]],’ replied Job, speaking with great precision, and in the low tone
-of a man who communicates an important secret; ‘in that house with the
+of a man who communicates an important secret; ‘in that [[house]] with the
 green gate, Mr. Weller, they keep a good many servants.’
 
 ‘So I should think, from the look on it,’ interposed Sam.
@@ -15678,9 +15679,9 @@ with tolerable coolness--tolerable coolness, ma’am.’
 copiously indeed.
 
 ‘Address your observations to me, sir,’ interposed Mr. [[works/pickwick-(chesterton)|Pickwick]]; ‘I
-alone am to blame, if anybody be.’
+[[Alone|alone]] am to blame, if anybody be.’
 
-‘Oh! you alone are to blame, are you, sir?’ said Mr. Magnus; ‘I--I--see
+‘Oh! you [[Alone|alone]] are to blame, are you, sir?’ said Mr. Magnus; ‘I--I--see
 through this, sir. You repent of your determination now, do you?’
 
 ‘My determination!’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
@@ -15752,7 +15753,7 @@ amusements which he would vary occasionally, by shaking his fist in Mr.
 <span class="atom-split" data-atom="chapter_22_wherein_mr_peter_magnus_grows--part_03" data-title="The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 3)" data-chapter="WHEREIN MR PETER MAGNUS GROWS" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/soul,motif/well,concept/body,concept/fear,concept/imagination,concept/jealousy,concept/nature"></span>
 
 
-Mr. [[works/pickwick-(chesterton)|Pickwick]], in his turn, conscious of his own innocence and rectitude,
+Mr. [[works/pickwick-(chesterton)|Pickwick]], in his turn, conscious of his own [[innocence]] and rectitude,
 and irritated by having unfortunately involved the middle-aged lady in
 such an unpleasant affair, was not so quietly disposed as was his wont.
 The consequence was, that words ran high, and voices higher; and at
@@ -15775,7 +15776,7 @@ pictures of slaughter and destruction presented themselves to her
 borne [[motifs/home|home]] by four men, with the embellishment of a whole barrelful of
 bullets in his left side, was among the very least. The more the middle-
 aged lady meditated, the more terrified she became; and at length she
-determined to repair to the house of the principal magistrate of the
+determined to repair to the [[house]] of the principal magistrate of the
 town, and request him to secure the persons of Mr. [[works/pickwick-(chesterton)|Pickwick]] and Mr.
 Tupman without delay.
 
@@ -15785,7 +15786,7 @@ afford of her devotion to Mr. Peter Magnus, and her anxiety for his
 safety. She was too [[motifs/well|well]] acquainted with his jealous temperament to
 venture the slightest allusion to the real cause of her agitation on
 beholding Mr. [[works/pickwick-(chesterton)|Pickwick]]; and she trusted to her own influence and power
-of persuasion with the little man, to quell his boisterous [[concepts/jealousy|jealousy]],
+of [[Persuasion|persuasion]] with the little man, to quell his boisterous [[concepts/jealousy|jealousy]],
 supposing that Mr. [[works/pickwick-(chesterton)|Pickwick]] were removed, and no fresh quarrel could
 arise. Filled with these reflections, the middle-aged lady arrayed
 herself in her bonnet and shawl, and repaired to the mayor’s dwelling
@@ -16019,7 +16020,7 @@ steadily at Mr. Grummer for a brief space, and then said emphatically,
 
 Mr. Grummer shook his head, and replied, ‘No room’s private to his
 Majesty when the street door’s once passed. That’s law. Some people
-maintains that an Englishman’s house is his [[settings/castle|castle]]. That’s gammon.’
+maintains that an Englishman’s [[house]] is his [[settings/castle|castle]]. That’s gammon.’
 
 The Pickwickians gazed on each other with wondering eyes.
 
@@ -16142,7 +16143,7 @@ and majestically along.
 
 Mr. Weller, habited in his morning jacket, with the black calico
 sleeves, was returning in a rather desponding state from an unsuccessful
-survey of the mysterious house with the green gate, when, raising his
+survey of the mysterious [[house]] with the green gate, when, raising his
 eyes, he beheld a crowd pouring down the street, surrounding an object
 which had very much the appearance of a sedan-chair. Willing to divert
 his thoughts from the failure of his enterprise, he stepped aside to see
@@ -16174,7 +16175,7 @@ tumult.
 
 Once more was a joint reply returned; and, though the words were
 inaudible, Sam saw by the motion of the two pairs of lips that they had
-uttered the magic word ‘[[works/pickwick-(chesterton)|Pickwick]].’
+uttered the [[Magic|magic]] word ‘[[works/pickwick-(chesterton)|Pickwick]].’
 
 This was enough. In another minute Mr. Weller had made his way through
 the crowd, stopped the chairmen, and confronted the portly Grummer.
@@ -16235,7 +16236,7 @@ placing his hand on that gentleman’s shoulder, Mr. [[works/pickwick-(chesterto
 address the multitude; to dwell upon the unjustifiable manner in which
 he had been treated; and to call upon them to take notice that his
 servant had been first assaulted. In this order they reached the
-magistrate’s house; the chairmen trotting, the prisoners following, Mr.
+magistrate’s [[house]]; the chairmen trotting, the prisoners following, Mr.
 [[works/pickwick-(chesterton)|Pickwick]] oratorising, and the crowd shouting.
 
 
@@ -16279,7 +16280,7 @@ which people will flatten their noses against the front windows of a
 chemist’s shop, when a drunken man, who has been run over by a dog-cart
 in the street, is undergoing a surgical inspection in the back-parlour.
 
-At the foot of a flight of steps, leading to the house door, which was
+At the foot of a flight of steps, leading to the [[house]] door, which was
 guarded on either side by an American aloe in a green tub, the sedan-
 chair stopped. Mr. [[works/pickwick-(chesterton)|Pickwick]] and his friends were conducted into the
 hall, whence, having been previously announced by Muzzle, and ordered in
@@ -16604,7 +16605,7 @@ readiness to hear the communication, whatever it might be.
 
 ‘I will come to the point at once, sir,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]]; ‘it affects
 yourself and your credit materially. I have every reason to believe,
-Sir, that you are harbouring in your house a gross impostor!’
+Sir, that you are harbouring in your [[house]] a gross impostor!’
 
 ‘Two,’ interrupted Sam. ‘Mulberry agin all natur, for [[motifs/tears|tears]] and
 willainny!’
@@ -16781,7 +16782,7 @@ she had gained a little [[motifs/time|time]] to think the matter over; when she 
 in her own mind, that the best thing to do would be to ask Mr. [[works/pickwick-(chesterton)|Pickwick]]
 and his friends to remain until the captain’s arrival, and then to give
 Mr. [[works/pickwick-(chesterton)|Pickwick]] the opportunity he sought. If it appeared that he had
-spoken truly, the captain could be turned out of the house without
+spoken truly, the captain could be turned out of the [[house]] without
 noising the matter abroad, and they could easily account to the
 Porkenhams for his disappearance, by saying that he had been appointed,
 through the [[settings/court|Court]] influence of his family, to the governor-generalship
@@ -16820,7 +16821,7 @@ is of you, Mr. Weller, to be sure!’
 
 ‘Ain’t he?’ replied Mr. Muzzle.
 
-‘So much humour,’ said Sam.
+‘So much [[Humour|humour]],’ said Sam.
 
 ‘And such a man to speak,’ said Mr. Muzzle. ‘How his ideas flow, don’t
 they?’
@@ -16864,7 +16865,7 @@ possible.’
 
 ‘And your master’s a knowin’ hand, and has just sent me to the right
 place,’ said Mr. Weller, with a glance of admiration at Mary. ‘If I wos
-master o’ this here house, I should alvays find the materials for
+master o’ this here [[house]], I should alvays find the materials for
 comfort vere Mary wos.’
 
 Lor, Mr. Weller!’ said Mary blushing.
@@ -16924,8 +16925,8 @@ attentions, most delicately administered by Mr. Samuel Weller.
 
 In the midst of all this jollity and conviviality, a loud ring was heard
 at the [[motifs/garden|garden]] gate, to which the young gentleman who took his meals in
-the wash-house, immediately responded. Mr. Weller was in the height of
-his attentions to the pretty house-maid; Mr. Muzzle was busy doing the
+the wash-[[house]], immediately responded. Mr. Weller was in the height of
+his attentions to the pretty [[house]]-maid; Mr. Muzzle was busy doing the
 honours of the table; and the cook had just paused to laugh, in the very
 act of raising a huge morsel to her lips; when the kitchen door opened,
 and in walked Mr. Job Trotter.
@@ -17062,7 +17063,7 @@ anywhere--all the girls--raving mad--eh, Job, eh?’
 
 Here Mr. Jingle laughed very heartily; and Job, rubbing his hands with
 delight, uttered the first sound he had given vent to since he entered
-the house--a low, noiseless chuckle, which seemed to intimate that he
+the [[house]]--a low, noiseless chuckle, which seemed to intimate that he
 enjoyed his laugh too much, to let any of it escape in sound.
 
 ‘Mr. Nupkins,’ said the elder lady,’ this is not a fit conversation for
@@ -17076,7 +17077,7 @@ the servants to overhear. Let these wretches be removed.’
 
 ‘Yes, your Worship.’
 
-‘Leave the house!’ said Mr. Nupkins, waving his hand emphatically.
+‘Leave the [[house]]!’ said Mr. Nupkins, waving his hand emphatically.
 
 Jingle smiled, and moved towards the door.
 
@@ -17177,7 +17178,7 @@ The pretty housemaid had stood the candle on the floor; and, as it gave
 a very dim light, Sam was obliged to go down on _his _knees before he
 could see whether it really was his own hat or not. It was a remarkably
 small corner, and so--it was nobody’s fault but the man’s who built the
-house--Sam and the pretty housemaid were necessarily very close
+[[house]]--Sam and the pretty housemaid were necessarily very close
 together.
 
 ‘Yes, this is it,’ said Sam. ‘Good-bye!’
@@ -17222,7 +17223,7 @@ And this was the first passage of Mr. Weller’s first [[motifs/love|love]].
 
 
 CHAPTER XXVI. WHICH CONTAINS A BRIEF ACCOUNT OF THE PROGRESS OF THE
-ACTION OF BARDELL AGAINST PICKWICK
+ACTION OF BARDELL AGAINST [[Pickwick|PICKWICK]]
 
 Having accomplished the main end and object of his [[motifs/journey|journey]], by the
 exposure of Jingle, Mr. [[works/pickwick-(chesterton)|Pickwick]] resolved on immediately returning to
@@ -17316,8 +17317,8 @@ Master Bardell, thus adjured, placed the refractory flat candle on the
 The two caps, reflected on the [[motifs/window|window]]-blind, were the respective head-
 dresses of a couple of Mrs. Bardell’s most particular acquaintance, who
 had just stepped in, to have a quiet cup of tea, and a little warm
-supper of a couple of sets of pettitoes and some toasted cheese. The
-cheese was simmering and browning away, most delightfully, in a little
+supper of a couple of sets of pettitoes and some toasted [[cheese]]. The
+[[cheese]] was simmering and browning away, most delightfully, in a little
 Dutch oven before the [[motifs/fire|fire]]; the pettitoes were getting on deliciously in
 a little tin saucepan on the hob; and Mrs. Bardell and her two friends
 were getting on very [[motifs/well|well]], also, in a little quiet conversation about
@@ -17406,7 +17407,7 @@ went out of the room to get the receipt.
 
 Sam [[motifs/well|well]] knew that he had only to remain quiet, and the women were sure
 to talk; so he looked alternately at the tin saucepan, the toasted
-cheese, the wall, and the ceiling, in profound [[motifs/silence|silence]].
+[[cheese]], the wall, and the ceiling, in profound [[motifs/silence|silence]].
 
 ‘Poor dear!’ said Mrs. Cluppins.
 
@@ -17465,10 +17466,10 @@ done!’
 
 Sam understood all this, of course, so he said at once, that he never
 could drink before supper, unless a lady drank with him. A great deal of
-laughter ensued, and Mrs. Sanders volunteered to humour him, so she took
+laughter ensued, and Mrs. Sanders volunteered to [[Humour|humour]] him, so she took
 a slight sip out of her glass. Then Sam said it must go all round, so
 they all took a slight sip. Then little Mrs. Cluppins proposed as a
-toast, ‘Success to Bardell agin [[works/pickwick-(chesterton)|Pickwick]]’; and then the ladies emptied
+toast, ‘[[success|Success]] to Bardell agin [[works/pickwick-(chesterton)|Pickwick]]’; and then the ladies emptied
 their glasses in [[concepts/honour|honour]] of the sentiment, and got very talkative
 directly.
 
@@ -17529,7 +17530,7 @@ of it! Wish you good-[[motifs/night|night]], ladies.’
 
 To the great relief of Mrs. Sanders, Sam was allowed to depart without
 any reference, on the part of the hostess, to the pettitoes and toasted
-cheese; to which the ladies, with such juvenile assistance as Master
+[[cheese]]; to which the ladies, with such juvenile assistance as Master
 Bardell could afford, soon afterwards rendered the amplest justice--
 indeed they wholly vanished before their strenuous exertions.
 
@@ -17601,7 +17602,7 @@ put on his best clothes, Sam planted himself on the top of the Arundel
 coach, and journeyed on to Dorking.
 
 The Marquis of Granby, in Mrs. Weller’s [[motifs/time|time]], was quite a model of a
-roadside public-house of the better class--just large enough to be
+roadside public-[[house]] of the better class--just large enough to be
 convenient, and small enough to be snug. On the opposite side of the
 [[motifs/road|road]] was a large sign-board on a high post, representing the head and
 shoulders of a gentleman with an apoplectic countenance, in a red coat
@@ -17626,7 +17627,7 @@ in at the door, ‘what do you want, young man?’
 Sam looked round in the direction whence the voice proceeded. It came
 from a rather stout lady of comfortable appearance, who was seated
 beside the fireplace in the bar, blowing the [[motifs/fire|fire]] to make the kettle
-boil for tea. She was not alone; for on the other side of the fireplace,
+boil for tea. She was not [[Alone|alone]]; for on the other side of the fireplace,
 sitting bolt upright in a high-backed chair, was a man in threadbare
 black clothes, with a back almost as long and stiff as that of the chair
 itself, who caught Sam’s most particular and especial attention at once.
@@ -17982,7 +17983,7 @@ appeared to relinquish that intention, and abruptly bade him good-[[motifs/night
 
 Sam was up betimes next day, and having partaken of a hasty breakfast,
 prepared to return to [[settings/london|London]]. He had scarcely set foot without the
-house, when his father stood before him.
+[[house]], when his father stood before him.
 
 ‘Goin’, Sammy?’ inquired Mr. Weller.
 
@@ -18029,7 +18030,7 @@ Sam looked after him, until he turned a corner of the [[motifs/road|road]]; and 
 forward on his walk to [[settings/london|London]]. He meditated at first, on the probable
 consequences of his own advice, and the likelihood of his father’s
 adopting it. He dismissed the subject from his mind, however, with the
-consolatory reflection that [[motifs/time|time]] alone would show; and this is the
+consolatory reflection that [[motifs/time|time]] [[Alone|alone]] would show; and this is the
 reflection we would impress upon the reader.
 
 
@@ -18071,7 +18072,7 @@ year after year, we met on that day, a merry and joyous circle. Many of
 the hearts that throbbed so gaily then, have ceased to beat; many of the
 looks that shone so brightly then, have ceased to glow; the hands we
 grasped, have grown cold; the eyes we sought, have hid their lustre in
-the [[motifs/grave|grave]]; and yet the old house, the room, the merry voices and smiling
+the [[motifs/grave|grave]]; and yet the old [[house]], the room, the merry voices and smiling
 faces, the jest, the laugh, the most minute and trivial circumstances
 connected with those happy meetings, crowd upon our mind at each
 recurrence of the season, as if the last assemblage had been but
@@ -18102,7 +18103,7 @@ the head and shoulders of the guard himself, who, not calculating upon
 so sudden a cessation of the passive resistance of the cod-fish,
 experiences a very unexpected shock, to the unsmotherable delight of all
 the porters and bystanders. Upon this, Mr. [[works/pickwick-(chesterton)|Pickwick]] smiles with great
-good-humour, and drawing a shilling from his waistcoat pocket, begs the
+good-[[Humour|humour]], and drawing a shilling from his waistcoat pocket, begs the
 guard, as he picks himself out of the boot, to drink his health in a
 glass of hot brandy-and-[[motifs/water|water]]; at which the guard smiles too, and
 Messrs. Snodgrass, Winkle, and Tupman, all smile in company. The guard
@@ -18148,7 +18149,7 @@ pulling it up again, informs the other inside that they’re going to
 change directly; on which the other inside wakes himself up, and
 determines to postpone his next nap until after the stoppage. Again the
 bugle sounds lustily forth, and rouses the cottager’s wife and children,
-who peep out at the house door, and watch the coach till it turns the
+who peep out at the [[house]] door, and watch the coach till it turns the
 corner, when they once more crouch round the blazing [[motifs/fire|fire]], and throw on
 another log of wood against father comes [[motifs/home|home]]; while father himself, a
 full mile off, has just exchanged a friendly nod with the coachman, and
@@ -18229,7 +18230,7 @@ chuckled joyously. He was fatter than ever.
 ‘I’ve been asleep, right in front of the taproom [[motifs/fire|fire]],’ replied the fat
 boy, who had heated himself to the colour of a new chimney-pot, in the
 course of an hour’s nap. ‘Master sent me over with the chay-cart, to
-carry your luggage up to the house. He’d ha’ sent some saddle-horses,
+carry your luggage up to the [[house]]. He’d ha’ sent some saddle-horses,
 but he thought you’d rather walk, being a cold day.’
 
 ‘Yes, yes,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]] hastily, for he remembered how they had
@@ -18358,7 +18359,7 @@ help her over.
 All this was very snug and pleasant. And when the difficulties of the
 stile were at last surmounted, and they once more entered on the open
 field, old Wardle informed Mr. [[works/pickwick-(chesterton)|Pickwick]] how they had all been down in a
-[[concepts/body|body]] to inspect the furniture and fittings-up of the house, which the
+[[concepts/body|body]] to inspect the furniture and fittings-up of the [[house]], which the
 young couple were to tenant, after the Christmas holidays; at which
 communication Bella and Trundle both coloured up, as red as the fat boy
 after the taproom [[motifs/fire|fire]]; and the young lady with the black eyes and the
@@ -18377,7 +18378,7 @@ all comfortably deposited in the adjacent county.
 <span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_04" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 4)" data-chapter="A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/dance,motif/dreams,motif/home,motif/nature,motif/night,motif/sleep,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/doubt,concept/nature"></span>
 
 
-But if they were social and happy outside the house, what was the warmth
+But if they were social and happy outside the [[house]], what was the warmth
 and cordiality of their reception when they reached the farm! The very
 servants grinned with pleasure at sight of Mr. [[works/pickwick-(chesterton)|Pickwick]]; and [[works/emma-(austen)|Emma]]
 bestowed a half-demure, half-impudent, and all-pretty look of
@@ -18426,7 +18427,7 @@ grandmother’s feet. Whether the expression of her countenance, as it was
 raised towards the old lady’s face, called up a thought of old times, or
 whether the old lady was touched by Mr. [[works/pickwick-(chesterton)|Pickwick]]’s affectionate good-
 [[concepts/nature|nature]], or whatever was the cause, she was fairly melted; so she threw
-herself on her granddaughter’s neck, and all the little ill-humour
+herself on her granddaughter’s neck, and all the little ill-[[Humour|humour]]
 evaporated in a gush of silent [[motifs/tears|tears]].
 
 A happy party they were, that [[motifs/night|night]]. Sedate and solemn were the score of
@@ -18446,14 +18447,14 @@ slumbers. He sat up in bed and listened. The female servants and female
 visitors were running constantly to and fro; and there were such
 multitudinous demands for hot [[motifs/water|water]], such repeated outcries for needles
 and thread, and so many half-suppressed entreaties of ‘Oh, do come and
-tie me, there’s a dear!’ that Mr. [[works/pickwick-(chesterton)|Pickwick]] in his innocence began to
+tie me, there’s a dear!’ that Mr. [[works/pickwick-(chesterton)|Pickwick]] in his [[innocence]] began to
 imagine that something dreadful must have occurred--when he grew more
 awake, and remembered the wedding. The occasion being an important one,
 he dressed himself with peculiar care, and descended to the breakfast-
 room.
 
 There were all the female servants in a bran new uniform of pink muslin
-gowns with white bows in their caps, running about the house in a state
+gowns with white bows in their caps, running about the [[house]] in a state
 of excitement and agitation which it would be impossible to describe.
 The old lady was dressed out in a brocaded gown, which had not seen the
 light for twenty years, saving and excepting such truant rays as had
@@ -18464,7 +18465,7 @@ cheerful and unconcerned, but failing signally in the attempt. All the
 girls were in [[motifs/tears|tears]] and white muslin, except a select two or three, who
 were being honoured with a private view of the bride and bridesmaids,
 upstairs. All the Pickwickians were in most blooming array; and there
-was a terrific roaring on the grass in front of the house, occasioned by
+was a terrific roaring on the grass in front of the [[house]], occasioned by
 all the men, boys, and hobbledehoys attached to the farm, each of whom
 had got a white bow in his button-hole, and all of whom were cheering
 with might and main; being incited thereto, and stimulated therein by
@@ -18613,7 +18614,7 @@ health of the bride and bridegroom--God bless ‘em (cheers and [[motifs/tears|t
 young friend, Trundle, I believe to be a very excellent and manly
 fellow; and his wife I know to be a very amiable and lovely girl, [[motifs/well|well]]
 qualified to transfer to another sphere of action the happiness which
-for twenty years she has diffused around her, in her father’s house.
+for twenty years she has diffused around her, in her father’s [[house]].
 (Here, the fat boy burst forth into stentorian blubberings, and was led
 forth by the coat collar, by Mr. Weller.) I wish,’ added Mr. [[works/pickwick-(chesterton)|Pickwick]]--
 ‘I wish I was young enough to be her sister’s husband (cheers), but,
@@ -18712,7 +18713,7 @@ of ‘Stop, stop!’
 
 ‘What’s the matter?’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], who was only brought to, by the
 fiddles and harp desisting, and could have been stopped by no other
-earthly power, if the house had been on [[motifs/fire|fire]].
+earthly power, if the [[house]] had been on [[motifs/fire|fire]].
 
 ‘Where’s Arabella Allen?’ cried a dozen voices.
 
@@ -18896,7 +18897,7 @@ they all tired of blind-man’s buff, there was a great game at snap-
 dragon, and when fingers enough were burned with that, and all the
 raisins were gone, they sat down by the huge [[motifs/fire|fire]] of blazing logs to a
 substantial supper, and a mighty bowl of wassail, something smaller than
-an ordinary wash-house copper, in which the hot apples were hissing and
+an ordinary wash-[[house]] copper, in which the hot apples were hissing and
 bubbling with a rich look, and a jolly sound, that were perfectly
 irresistible.
 
@@ -18911,20 +18912,20 @@ Up flew the bright sparks in myriads as the logs were stirred. The deep
 red blaze sent forth a rich glow, that penetrated into the farthest
 corner of the room, and cast its cheerful tint on every face.
 
-‘Come,’ said Wardle, ‘a song--a Christmas song! I’ll give you one, in
+‘Come,’ said Wardle, ‘a [[Song|song]]--a Christmas [[Song|song]]! I’ll give you one, in
 default of a better.’
 
 ‘Bravo!’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
 ‘Fill up,’ cried Wardle. ‘It will be two hours, good, before you see the
 [[characters/bottom|bottom]] of the bowl through the deep rich colour of the wassail; fill up
-all round, and now for the song.’
+all round, and now for the [[Song|song]].’
 
 Thus saying, the merry old gentleman, in a good, round, sturdy voice,
 commenced without more ado--
 
 
-A CHRISTMAS CAROL
+A CHRISTMAS [[carol|CAROL]]
 
 ‘I care not for [[motifs/spring|Spring]]; on his fickle wing Let the blossoms and buds be
 borne; He woos them amain with his treacherous rain, And he scatters
@@ -18944,7 +18945,7 @@ unblushing [[motifs/noon|noon]]. But every leaf awakens my grief, As it lieth be
 the tree; So let [[motifs/autumn|Autumn]] air be never so fair, It by no means agrees with
 me.
 
-‘But my song I troll out, for _Christmas _Stout, The hearty, the true,
+‘But my [[Song|song]] I troll out, for _Christmas _Stout, The hearty, the true,
 and the bold; A bumper I drain, and with might and main Give three
 cheers for this Christmas old! We’ll usher him in with a merry din That
 shall gladden his joyous heart, And we’ll keep him up, while there’s
@@ -18955,7 +18956,7 @@ tars. Then again I sing till the roof doth ring And it echoes from wall
 to wall--To the stout old wight, fair welcome to-[[motifs/night|night]], As the [[archetypes/king|King]] of
 the [[motifs/seasons|Seasons]] all!’
 
-This song was tumultuously applauded--for friends and dependents make a
+This [[Song|song]] was tumultuously applauded--for friends and dependents make a
 capital audience--and the poor relations, especially, were in perfect
 ecstasies of rapture. Again was the [[motifs/fire|fire]] replenished, and again went the
 wassail round.
@@ -19023,14 +19024,14 @@ emblems of [[concepts/mortality|mortality]], therefore he should be a morose and
 man; your undertakers are the merriest fellows in the world; and I once
 had the [[concepts/honour|honour]] of being on intimate terms with a mute, who in private
 life, and off duty, was as comical and jocose a little fellow as ever
-chirped out a devil-may-care song, without a hitch in his [[motifs/memory|memory]], or
+chirped out a devil-may-care [[Song|song]], without a hitch in his [[motifs/memory|memory]], or
 drained off a good stiff glass without stopping for breath. But
 notwithstanding these precedents to the contrary, Gabriel Grub was an
 ill-conditioned, [[motifs/cross|cross]]-grained, surly fellow--a morose and lonely man,
 who consorted with nobody but himself, and an old wicker bottle which
 fitted into his large deep waistcoat pocket--and who eyed each merry
 face, as it passed him by, with such a deep scowl of malice and ill-
-humour, as it was difficult to meet without feeling something the worse
+[[Humour|humour]], as it was difficult to meet without feeling something the worse
 for.
 
 ‘A little before twilight, one Christmas Eve, Gabriel shouldered his
@@ -19059,14 +19060,14 @@ the churchyard. Now, Gabriel had been looking forward to reaching the
 dark lane, because it was, generally speaking, a nice, gloomy, mournful
 place, into which the townspeople did not much care to go, except in
 broad daylight, and when the sun was shining; consequently, he was not a
-little indignant to hear a young urchin roaring out some jolly song
+little indignant to hear a young urchin roaring out some jolly [[Song|song]]
 about a merry Christmas, in this very sanctuary which had been called
 Coffin Lane ever since the days of the old abbey, and the [[motifs/time|time]] of the
 shaven-headed [[characters/monks|monks]]. As Gabriel walked on, and the voice drew nearer, he
 found it proceeded from a small boy, who was hurrying along, to join one
 of the little parties in the old street, and who, partly to keep himself
 company, and partly to prepare himself for the occasion, was shouting
-out the song at the highest pitch of his lungs. So Gabriel waited until
+out the [[Song|song]] at the highest pitch of his lungs. So Gabriel waited until
 the boy came up, and then dodged him into a corner, and rapped him over
 the head with his lantern five or six times, just to teach him to
 modulate his voice. And as the boy hurried away with his hand to his
@@ -19160,7 +19161,7 @@ was to be seen.
 had bought it of the smugglers, and he thought that perhaps his
 questioner might be in the excise department of the goblins.
 
-‘“Who drinks Hollands alone, and in a churchyard, on such a [[motifs/night|night]] as
+‘“Who drinks Hollands [[Alone|alone]], and in a churchyard, on such a [[motifs/night|night]] as
 this?” said the goblin.
 
 ‘“Gabriel Grub! Gabriel Grub!” exclaimed the wild voices again.
@@ -19245,7 +19246,7 @@ had been so many street-posts.
 
 ‘At last the game reached to a most exciting pitch; the organ played
 quicker and quicker, and the goblins leaped faster and faster, coiling
-themselves up, rolling head over heels upon the ground, and bounding
+themselves up, [[rolling]] head over heels upon the ground, and bounding
 over the tombstones like footballs. The sexton’s brain whirled round
 with the rapidity of the motion he beheld, and his legs reeled beneath
 him, as the spirits flew before his eyes; when the goblin [[archetypes/king|king]], suddenly
@@ -19647,7 +19648,7 @@ The arrival of the two new visitors, and the consequent check upon Mr.
 Winkle and the young lady with the fur round her boots, would in all
 probability have proved a very unpleasant interruption to the hilarity
 of the party, had not the cheerfulness of Mr. [[works/pickwick-(chesterton)|Pickwick]], and the good
-humour of the host, been exerted to the very utmost for the common weal.
+[[Humour|humour]] of the host, been exerted to the very utmost for the common weal.
 Mr. Winkle gradually insinuated himself into the good graces of Mr.
 Benjamin Allen, and even joined in a friendly conversation with Mr. Bob
 Sawyer; who, enlivened with the brandy, and the breakfast, and the
@@ -20016,7 +20017,7 @@ Street on the right hand side the way.’
 
 ‘I shall find it,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
-‘Come on Thursday fortnight, and bring the other chaps with you,’ said
+‘Come on [[thursday|Thursday]] fortnight, and bring the other chaps with you,’ said
 Mr. Bob Sawyer; ‘I’m going to have a few medical fellows that [[motifs/night|night]].’
 
 Mr. [[works/pickwick-(chesterton)|Pickwick]] expressed the pleasure it would afford him to meet the
@@ -20053,7 +20054,7 @@ the articled clerk, who has paid a premium, and is an attorney in
 perspective, who runs a tailor’s bill, receives invitations to parties,
 knows a family in [[characters/gower|Gower]] Street, and another in Tavistock Square; who
 goes out of town every long vacation to see his father, who keeps live
-horses innumerable; and who is, in short, the very aristocrat of clerks.
+horses innumerable; and who is, in short, the very [[aristocrat]] of clerks.
 There is the salaried clerk--out of door, or in door, as the case may
 be--who devotes the major part of his thirty shillings a week to his
 Personal pleasure and adornments, repairs half-price to the Adelphi
@@ -20093,7 +20094,7 @@ parchment with blanks for a name; and having filled up the blanks, put
 all the five documents in his pocket, and hurried away.
 
 The man in the brown coat, with the cabalistic documents in his pocket,
-was no other than our old acquaintance Mr. Jackson, of the house of
+was no other than our old acquaintance Mr. Jackson, of the [[house]] of
 Dodson & Fogg, Freeman’s [[settings/court|Court]], Cornhill. Instead of returning to the
 office whence he came, however, he bent his steps direct to Sun [[settings/court|Court]],
 and walking straight into the George and Vulture, demanded to know
@@ -20192,7 +20193,7 @@ seek to criminate me upon the testimony of my own friends?’
 
 Mr. Jackson struck his forefinger several times against the left side of
 his nose, to intimate that he was not there to disclose the [[motifs/secrets|secrets]] of
-the [[motifs/prison|prison]] house, and playfully rejoined--
+the [[motifs/prison|prison]] [[house]], and playfully rejoined--
 
 ‘Not knowin’, can’t say.’
 
@@ -20292,7 +20293,7 @@ in profound meditation, and Sam following behind, with a countenance
 expressive of the most enviable and easy defiance of everything and
 everybody, when the latter, who was always especially anxious to impart
 to his master any exclusive information he possessed, quickened his pace
-until he was close at Mr. [[works/pickwick-(chesterton)|Pickwick]]’s heels; and, pointing up at a house
+until he was close at Mr. [[works/pickwick-(chesterton)|Pickwick]]’s heels; and, pointing up at a [[house]]
 they were passing, said--
 
 ‘Wery nice pork-shop that ‘ere, sir.’
@@ -20396,7 +20397,7 @@ of town, he’s never in a hurry to come back again.’
 ‘Don’t go away, Mr. [[works/pickwick-(chesterton)|Pickwick]],’ said Lowten, ‘I’ve got a letter for you.’
 The stranger, seeming to hesitate, once more looked towards the ground,
 and the clerk winked slyly at Mr. [[works/pickwick-(chesterton)|Pickwick]], as if to intimate that some
-exquisite piece of humour was going forward, though what it was Mr.
+exquisite piece of [[Humour|humour]] was going forward, though what it was Mr.
 [[works/pickwick-(chesterton)|Pickwick]] could not for the life of him divine.
 
 ‘Step in, Mr. [[works/pickwick-(chesterton)|Pickwick]],’ said Lowten. ‘[[motifs/well|Well]], will you leave a message,
@@ -20802,7 +20803,7 @@ BOROUGH
 There is a repose about Lant Street, in the Borough, which sheds a
 gentle [[concepts/melancholy|melancholy]] upon the [[motifs/soul|soul]]. There are always a good many houses to
 let in the street: it is a by-street too, and its dulness is soothing. A
-house in Lant Street would not come within the denomination of a first-
+[[house]] in Lant Street would not come within the denomination of a first-
 rate residence, in the strict acceptation of the term; but it is a most
 desirable spot nevertheless. If a man wished to abstract himself from
 the world--to remove himself from within the reach of [[concepts/temptation|temptation]]--to
@@ -20835,11 +20836,11 @@ and a kitchen candle, with a very long snuff, burned cheerfully on the
 ledge of the staircase [[motifs/window|window]]. Mr. Bob Sawyer had himself purchased the
 spirits at a wine vaults in High Street, and had returned [[motifs/home|home]] preceding
 the bearer thereof, to preclude the possibility of their delivery at the
-wrong house. The punch was ready-made in a red pan in the bedroom; a
+wrong [[house]]. The punch was ready-made in a red pan in the bedroom; a
 little table, covered with a green baize cloth, had been borrowed from
 the parlour, to play at cards on; and the glasses of the establishment,
 together with those which had been borrowed for the occasion from the
-public-house, were all drawn up in a tray, which was deposited on the
+public-[[house]], were all drawn up in a tray, which was deposited on the
 landing outside the door.
 
 Notwithstanding the highly satisfactory [[concepts/nature|nature]] of all these
@@ -20945,7 +20946,7 @@ his rent, nor even the very money laid out for the fresh butter and lump
 sugar that’s bought for his breakfast, and the very milk that’s took in,
 at the street door? Do you suppose a hard-working and industrious woman
 as has lived in this street for twenty year (ten year over the way, and
-nine year and three-quarters in this very house) has nothing else to do
+nine year and three-quarters in this very [[house]]) has nothing else to do
 but to work herself to [[motifs/death|death]] after a parcel of lazy idle fellars, that
 are always smoking and drinking, and lounging, when they ought to be
 glad to turn their hands to anything that would help ‘em to pay their
@@ -21178,7 +21179,7 @@ limp knife and a two-pronged fork; and very little was done in this way.
 Very little of the beef was done either; and the ham (which was also
 from the German-sausage shop round the corner) was in a similar
 predicament. However, there was plenty of porter in a tin can; and the
-cheese went a great way, for it was very strong. So upon the whole,
+[[cheese]] went a great way, for it was very strong. So upon the whole,
 perhaps, the supper was quite as good as such matters usually are.
 
 After supper, another jug of punch was put upon the table, together with
@@ -21189,9 +21190,9 @@ notwithstanding.
 
 The fact is, the girl was washing the glasses. The establishment boasted
 four: we do not record the circumstance as at all derogatory to Mrs.
-Raddle, for there never was a lodging-house yet, that was not short of
+Raddle, for there never was a lodging-[[house]] yet, that was not short of
 glasses. The landlady’s glasses were little, thin, blown-glass tumblers,
-and those which had been borrowed from the public-house were great,
+and those which had been borrowed from the public-[[house]] were great,
 dropsical, bloated articles, each supported on a huge gouty leg. This
 would have been in itself sufficient to have possessed the company with
 the real state of affairs; but the young woman of all work had prevented
@@ -21349,10 +21350,10 @@ dispute had been conducted in a manner which was highly honourable to
 both parties concerned.
 
 ‘Now,’ said Jack Hopkins, ‘just to set us going again, Bob, I don’t mind
-singing a song.’ And Hopkins, incited thereto by tumultuous applause,
+singing a [[Song|song]].’ And Hopkins, incited thereto by tumultuous applause,
 plunged himself at once into ‘The [[archetypes/king|King]], God bless him,’ which he sang as
 loud as he could, to a [[forms/novel|novel]] air, compounded of the ‘Bay of Biscay,’ and
-‘A Frog he would.’ The [[characters/chorus|chorus]] was the essence of the song; and, as each
+‘A Frog he would.’ The [[characters/chorus|chorus]] was the essence of the [[Song|song]]; and, as each
 gentleman sang it to the tune he knew best, the effect was very striking
 indeed.
 
@@ -21380,7 +21381,7 @@ dismay. ‘Yes, Mrs. Raddle.’
 shrillness and rapidity of utterance. ‘Ain’t it enough to be swindled
 out of one’s rent, and money lent out of pocket besides, and abused and
 insulted by your friends that dares to call themselves men, without
-having the house turned out of the [[motifs/window|window]], and noise enough made to
+having the [[house]] turned out of the [[motifs/window|window]], and noise enough made to
 bring the [[motifs/fire|fire]]-engines here, at two o’[[motifs/clock|clock]] in the morning?--Turn them
 wretches away.’
 
@@ -21410,9 +21411,9 @@ be borne, is it?’
 ‘Not to be endured,’ replied Jack Hopkins; ‘let’s have the other verse,
 Bob. Come, here goes!’
 
-‘No, no, Jack, don’t,’ interposed Bob Sawyer; ‘it’s a capital song, but
+‘No, no, Jack, don’t,’ interposed Bob Sawyer; ‘it’s a capital [[Song|song]], but
 I am afraid we had better not have the other verse. They are very
-violent people, the people of the house.’
+violent people, the people of the [[house]].’
 
 ‘Shall I step upstairs, and pitch into the landlord?’ inquired Hopkins,
 ‘or keep on ringing the bell, or go and groan on the staircase? You may
@@ -21438,7 +21439,7 @@ room. ‘Going! what did they ever come for?’
 withdrawing the nightcap. ‘Old enough to be his grandfather, you willin!
 You’re worse than any of ‘em.’
 
-Mr. [[works/pickwick-(chesterton)|Pickwick]] found it in vain to protest his innocence, so hurried
+Mr. [[works/pickwick-(chesterton)|Pickwick]] found it in vain to protest his [[innocence]], so hurried
 downstairs into the street, whither he was closely followed by Mr.
 Tupman, Mr. Winkle, and Mr. Snodgrass. Mr. Ben Allen, who was dismally
 depressed with spirits and agitation, accompanied them as far as [[settings/london|London]]
@@ -21454,7 +21455,7 @@ until daybreak, under the firm impression that he lived there, and had
 forgotten the key.
 
 The visitors having all departed, in compliance with the rather pressing
-request of Mrs. Raddle, the luckless Mr. Bob Sawyer was left alone, to
+request of Mrs. Raddle, the luckless Mr. Bob Sawyer was left [[Alone|alone]], to
 meditate on the probable events of to-morrow, and the pleasures of the
 evening.
 
@@ -21490,7 +21491,7 @@ But people who go voluntarily to law, or are taken forcibly there, for
 the first [[motifs/time|time]], may be allowed to labour under some temporary irritation
 and anxiety; and Sam, with a due allowance for the frailties of human
 [[concepts/nature|nature]], obeyed all his master’s behests with that imperturbable good-
-humour and unruffable composure which formed one of his most striking
+[[Humour|humour]] and unruffable composure which formed one of his most striking
 and amiable characteristics.
 
 Sam had solaced himself with a most agreeable little dinner, and was
@@ -21544,10 +21545,10 @@ richness and volume.
 
 Mr. Weller having obtained leave of absence from Mr. [[works/pickwick-(chesterton)|Pickwick]], who, in
 his then state of excitement and worry, was by no means displeased at
-being left alone, set forth, long before the appointed hour, and having
+being left [[Alone|alone]], set forth, long before the appointed hour, and having
 plenty of [[motifs/time|time]] at his disposal, sauntered down as far as the Mansion
-House, where he paused and contemplated, with a face of great calmness
-and philosophy, the numerous cads and drivers of short stages who
+[[house|House]], where he paused and contemplated, with a face of great calmness
+and [[philosophy]], the numerous cads and drivers of short stages who
 assemble near that famous place of resort, to the great terror and
 confusion of the old-lady population of these realms. Having loitered
 here, for half an hour or so, Mr. Weller turned, and began wending his
@@ -21592,7 +21593,7 @@ Market at a good round pace, very different from his recent lingering
 one. Looking round him, he there beheld a signboard on which the
 painter’s art had delineated something remotely resembling a cerulean
 elephant with an aquiline nose in lieu of trunk. Rightly conjecturing
-that this was the Blue Boar himself, he stepped into the house, and
+that this was the Blue Boar himself, he stepped into the [[house]], and
 inquired concerning his parent.
 
 ‘He won’t be here this three-quarters of an hour or more,’ said the
@@ -21677,7 +21678,7 @@ afeerd he should be obliged to kill him for the [[settings/london|London]] marke
 ‘Wot’ll be a trial?’ inquired Sam.
 
 ‘To see you married, Sammy--to see you a dilluded wictim, and thinkin’
-in your innocence that it’s all wery capital,’ replied Mr. Weller. ‘It’s
+in your [[innocence]] that it’s all wery capital,’ replied Mr. Weller. ‘It’s
 a dreadful trial to a father’s feelin’s, that ‘ere, Sammy--’
 
 ‘Nonsense,’ said Sam. ‘I ain’t a-goin’ to get married, don’t you fret
@@ -22090,14 +22091,14 @@ Buys new wooden legs now, and drinks nothing but [[motifs/water|water]] and weak
 new legs last twice as long as the others used to do, and he attributes
 this solely to his temperate habits (triumphant cheers).’
 
-Anthony Humm now moved that the assembly do regale itself with a song.
+Anthony Humm now moved that the assembly do regale itself with a [[Song|song]].
 With a view to their rational and moral enjoyment, Brother Mordlin had
 adapted the beautiful words of ‘Who hasn’t heard of a Jolly Young
 Waterman?’ to the tune of the Old Hundredth, which he would request them
 to join him in singing (great applause). He might take that opportunity
-of expressing his firm persuasion that the late Mr. Dibdin, seeing the
-errors of his former life, had written that song to show the advantages
-of abstinence. It was a temperance song (whirlwinds of cheers). The
+of expressing his firm [[Persuasion|persuasion]] that the late Mr. Dibdin, seeing the
+errors of his former life, had written that [[Song|song]] to show the advantages
+of abstinence. It was a temperance [[Song|song]] (whirlwinds of cheers). The
 neatness of the young man’s attire, the dexterity of his feathering, the
 enviable state of mind which enabled him in the beautiful words of the
 poet, to
@@ -22142,7 +22143,7 @@ soft sex--a wery soft sex, indeed--if they let themselves be gammoned by
 such fellers as him.’
 
 Any further observations from the indignant old gentleman were cut short
-by the announcement of the song, which Mr. Anthony Humm gave out two
+by the announcement of the [[Song|song]], which Mr. Anthony Humm gave out two
 lines at a [[motifs/time|time]], for the information of such of his hearers as were
 unacquainted with the legend. While it was being sung, the little man
 with the drab shorts disappeared; he returned immediately on its
@@ -22263,7 +22264,7 @@ of the United Grand Junction Ebenezer Temperance Association.
 
 
 CHAPTER XXXIV. IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE
-MEMORABLE TRIAL OF BARDELL AGAINST PICKWICK
+MEMORABLE TRIAL OF BARDELL AGAINST [[Pickwick|PICKWICK]]
 
 I [[concepts/wonder|wonder]] what the foreman of the jury, whoever he’ll be, has got for
 breakfast,’ said Mr. Snodgrass, by way of keeping up a conversation on
@@ -22568,10 +22569,10 @@ defendant.
 The late Mr. Bardell, after enjoying, for many years, the esteem and
 confidence of his sovereign, as one of the guardians of his royal
 revenues, glided almost imperceptibly from the world, to seek elsewhere
-for that repose and peace which a custom-house can never afford.’
+for that repose and peace which a custom-[[house]] can never afford.’
 
 At this pathetic description of the decease of Mr. Bardell, who had been
-knocked on the head with a quart-pot in a public-house cellar, the
+knocked on the head with a quart-pot in a public-[[house]] cellar, the
 learned serjeant’s voice faltered, and he proceeded, with emotion--
 
 ‘Some [[motifs/time|time]] before his [[motifs/death|death]], he had stamped his likeness upon a little
@@ -22606,7 +22607,7 @@ there long? No. The serpent was on the watch, the train was laid, the
 mine was preparing, the sapper and miner was at work. Before the bill
 had been in the parlour [[motifs/window|window]] three days--three days, gentlemen--a
 being, erect upon two legs, and bearing all the outward semblance of a
-man, and not of a [[archetypes/monster|monster]], knocked at the door of Mrs. Bardell’s house.
+man, and not of a [[archetypes/monster|monster]], knocked at the door of Mrs. Bardell’s [[house]].
 He inquired within--he took the lodgings; and on the very next day he
 entered into possession of them. This man was [[works/pickwick-(chesterton)|Pickwick]]--[[works/pickwick-(chesterton)|Pickwick]], the
 defendant.’
@@ -22660,7 +22661,7 @@ he had lashed himself, resumed--
 
 ‘I shall show you, gentlemen, that for two years, [[works/pickwick-(chesterton)|Pickwick]] continued to
 reside constantly, and without interruption or intermission, at Mrs.
-Bardell’s house. I shall show you that Mrs. Bardell, during the whole of
+Bardell’s [[house]]. I shall show you that Mrs. Bardell, during the whole of
 that [[motifs/time|time]], waited on him, attended to his comforts, cooked his meals,
 looked out his linen for the washerwoman when it went abroad, darned,
 aired, and prepared it for wear, when it came [[motifs/home|home]], and, in short,
@@ -22746,10 +22747,10 @@ deepest sympathies are awakened. My client’s hopes and prospects are
 ruined, and it is no figure of speech to say that her occupation is gone
 indeed. The bill is down--but there is no tenant. Eligible single
 gentlemen pass and repass--but there is no invitation for to inquire
-within or without. All is gloom and [[motifs/silence|silence]] in the house; even the voice
+within or without. All is gloom and [[motifs/silence|silence]] in the [[house]]; even the voice
 of the [[archetypes/child|child]] is hushed; his infant sports are disregarded when his
 mother weeps; his “alley tors” and his “commoneys” are alike neglected;
-he forgets the long familiar cry of “knuckle down,” and at tip-cheese,
+he forgets the long familiar cry of “knuckle down,” and at tip-[[cheese]],
 or odd and even, his hand is out. But [[works/pickwick-(chesterton)|Pickwick]], gentlemen, [[works/pickwick-(chesterton)|Pickwick]], the
 ruthless destroyer of this domestic oasis in the [[motifs/desert|desert]] of Goswell
 Street--[[works/pickwick-(chesterton)|Pickwick]] who has choked up the [[motifs/well|well]], and thrown ashes on the
@@ -22977,7 +22978,7 @@ about. The witness having been by these means reduced to the requisite
 ebb of nervous perplexity, the examination was continued as follows--
 
 ‘Pray, Mr. Winkle, do you remember calling on the defendant [[works/pickwick-(chesterton)|Pickwick]] at
-these apartments in the plaintiff’s house in Goswell Street, on one
+these apartments in the plaintiff’s [[house]] in Goswell Street, on one
 particular morning, in the month of July last?’
 
 ‘Yes, I do.’
@@ -23278,9 +23279,9 @@ Dodson & Fogg, the learned Serjeant again turned towards Sam, and said,
 with a painful effort to conceal his vexation, ‘Now, Mr. Weller, I’ll
 ask you a question on another point, if you please.’
 
-‘If you please, Sir,’ rejoined Sam, with the utmost good-humour.
+‘If you please, Sir,’ rejoined Sam, with the utmost good-[[Humour|humour]].
 
-‘Do you remember going up to Mrs. Bardell’s house, one [[motifs/night|night]] in November
+‘Do you remember going up to Mrs. Bardell’s [[house]], one [[motifs/night|night]] in November
 last?’
 
 Oh, yes, wery [[motifs/well|well]].’
@@ -23449,7 +23450,7 @@ Sammy, vy worn’t there a alleybi!’
 
 
 
-CHAPTER XXXV. IN WHICH MR. PICKWICK THINKS HE HAD BETTER GO TO BATH; AND
+CHAPTER XXXV. IN WHICH MR. [[Pickwick|PICKWICK]] THINKS HE HAD BETTER GO TO BATH; AND
 GOES ACCORDINGLY
 
 But surely, my dear sir,’ said little Perker, as he stood in Mr.
@@ -23579,7 +23580,7 @@ mildly addressing Mr. Winkle.
 ‘Hum--eh--what’s that?’ said the strange man.
 
 ‘I made an observation to my friend, sir,’ replied Mr. [[works/pickwick-(chesterton)|Pickwick]], always
-ready to enter into conversation. ‘I wondered at what house the Bath
+ready to enter into conversation. ‘I wondered at what [[house]] the Bath
 coach put up. Perhaps you can inform me.’
 
 Are you going to Bath?’ said the strange man.
@@ -23684,7 +23685,7 @@ way-bill?’
 they’ve painted vun on ‘em up, on the door o’ the coach.’ As Sam spoke,
 he pointed to that part of the coach door on which the proprietor’s name
 usually appears; and there, sure enough, in gilt letters of a goodly
-size, was the magic name of _Pickwick_!
+size, was the [[Magic|magic]] name of _Pickwick_!
 
 ‘Dear me,’ exclaimed Mr. [[works/pickwick-(chesterton)|Pickwick]], quite staggered by the coincidence;
 ‘what a very extraordinary thing!’
@@ -23739,7 +23740,7 @@ wonderful fellow than he made himself out to be. Mr. [[works/pickwick-(chesterto
 Winkle listened with great admiration, and at intervals conversed with
 Mrs. Dowler, who was a very agreeable and fascinating person. So, what
 between Mr. Dowler’s stories, and Mrs. Dowler’s charms, and Mr.
-[[works/pickwick-(chesterton)|Pickwick]]’s good-humour, and Mr. Winkle’s good listening, the insides
+[[works/pickwick-(chesterton)|Pickwick]]’s good-[[Humour|humour]], and Mr. Winkle’s good listening, the insides
 contrived to be very companionable all the way.
 
 The outsides did as outsides always do. They were very cheerful and
@@ -23859,7 +23860,7 @@ overpowered than before. Tickets of admission to that evening’s assembly
 were to have been prepared for the whole party, but as they were not
 ready, Mr. [[works/pickwick-(chesterton)|Pickwick]] undertook, despite all the protestations to the
 contrary of [[characters/angelo|Angelo]] Bantam, to send Sam for them at four o’[[motifs/clock|clock]] in the
-afternoon, to the M.C.’s house in [[characters/queen|Queen]] Square. Having taken a short
+afternoon, to the M.C.’s [[house]] in [[characters/queen|Queen]] Square. Having taken a short
 walk through the [[motifs/city|city]], and arrived at the unanimous conclusion that Park
 Street was very much like the perpendicular streets a man sees in a
 dream, which he cannot get up for the life of him, they returned to the
@@ -24203,7 +24204,7 @@ EXTRAORDINARY CALAMITY THAT BEFELL MR. WINKLE
 As Mr. [[works/pickwick-(chesterton)|Pickwick]] contemplated a stay of at least two months in Bath, he
 deemed it advisable to take private lodgings for himself and friends for
 that period; and as a favourable opportunity offered for their securing,
-on moderate terms, the upper portion of a house in the Royal Crescent,
+on moderate terms, the upper portion of a [[house]] in the Royal Crescent,
 which was larger than they required, Mr. and Mrs. Dowler offered to
 relieve them of a bedroom and sitting-room. This proposition was at once
 accepted, and in three days’ [[motifs/time|time]] they were all located in their new
@@ -24515,7 +24516,7 @@ There are few things more worrying than sitting up for somebody,
 especially if that somebody be at a party. You cannot help thinking how
 quickly the [[motifs/time|time]] passes with them, which drags so heavily with you; and
 the more you think of this, the more your hopes of their speedy arrival
-decline. Clocks tick so loud, too, when you are sitting up alone, and
+decline. Clocks tick so loud, too, when you are sitting up [[Alone|alone]], and
 you seem as if you had an under-garment of cobwebs on. First, something
 tickles your right knee, and then the same sensation irritates your
 left. You have no sooner changed your position, than it comes again in
@@ -24535,7 +24536,7 @@ after everybody else has gone to bed, anything but a cheerful amusement.
 
 This was just Mr. Dowler’s opinion, as he sat before the [[motifs/fire|fire]], and felt
 honestly indignant with all the inhuman people at the party who were
-keeping him up. He was not put into better humour either, by the
+keeping him up. He was not put into better [[Humour|humour]] either, by the
 reflection that he had taken it into his head, early in the evening, to
 think he had got an ache there, and so stopped at [[motifs/home|home]]. At length, after
 several droppings asleep, and fallings forward towards the bars, and
@@ -24628,7 +24629,7 @@ footman; ‘but open the door.’
 Mr. Winkle, being half asleep, obeyed the command mechanically, opened
 the door a little, and peeped out. The first thing he saw, was the red
 glare of the link-boy’s torch. Startled by the sudden [[concepts/fear|fear]] that the
-house might be on [[motifs/fire|fire]], he hastily threw the door wide open, and holding
+[[house]] might be on [[motifs/fire|fire]], he hastily threw the door wide open, and holding
 the candle above his head, stared eagerly before him, not quite certain
 whether what he saw was a sedan-chair or a [[motifs/fire|fire]]-engine. At this instant
 there came a violent gust of [[motifs/wind|wind]]; the light was blown out; Mr. Winkle
@@ -24643,7 +24644,7 @@ called frantically upon the chairman to take the chair away again.
 
 
 ‘Take it away, take it away,’ cried Mr. Winkle. ‘Here’s somebody coming
-out of another house; put me into the chair. Hide me! Do something with
+out of another [[house]]; put me into the chair. Hide me! Do something with
 me!’
 
 All this [[motifs/time|time]] he was shivering with cold; and every [[motifs/time|time]] he raised his
@@ -24708,7 +24709,7 @@ all this [[motifs/time|time]]? We will state where he was, in the next chapter.
 
 CHAPTER XXXVII. HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY
 DESCRIBING A SOIREE TO WHICH HE WAS INVITED AND WENT; ALSO RELATES HOW
-HE WAS ENTRUSTED BY MR. PICKWICK WITH A PRIVATE MISSION OF DELICACY AND
+HE WAS ENTRUSTED BY MR. [[Pickwick|PICKWICK]] WITH A PRIVATE MISSION OF DELICACY AND
 IMPORTANCE
 
 Mr. Weller,’ said Mrs. Craddock, upon the morning of this very eventful
@@ -24747,7 +24748,7 @@ punctually.’
 This was inclosed in another note, which ran thus--
 
 ‘Mr. John Smauker, the gentleman who had the pleasure of meeting Mr.
-Weller at the house of their mutual acquaintance, Mr. Bantam, a few days
+Weller at the [[house]] of their mutual acquaintance, Mr. Bantam, a few days
 since, begs to inclose Mr. Weller the herewith invitation. If Mr. Weller
 will call on Mr. John Smauker at nine o’[[motifs/clock|clock]], Mr. John Smauker will
 have the pleasure of introducing Mr. Weller.
@@ -24763,7 +24764,7 @@ as an instruction to the bearer.
 heerd a biled leg o’ mutton called a swarry afore. I [[concepts/wonder|wonder]] wot they’d
 call a roast one.’
 
-However, without waiting to debate the point, Sam at once betook himself
+However, without waiting to [[debate]] the point, Sam at once betook himself
 into the presence of Mr. [[works/pickwick-(chesterton)|Pickwick]], and requested leave of absence for
 that evening, which was readily granted. With this permission and the
 street-door key, [[characters/sam-weller|Sam Weller]] issued forth a little before the appointed
@@ -24881,7 +24882,7 @@ hard upon you at first.’
 ‘They won’t be wery cruel, though, will they?’ inquired Sam.
 
 ‘No, no,’ replied Mr. John Smauker, pulling forth the fox’s head, and
-taking a gentlemanly pinch. ‘There are some funny dogs among us, and
+taking a gentlemanly pinch. ‘There are some funny [[dogs]] among us, and
 they will have their joke, you know; but you mustn’t mind ‘em, you
 mustn’t mind ‘em.’
 
@@ -25107,7 +25108,7 @@ the service worth entering into.’
 
 When this confidential dialogue had gone thus far, glasses were placed
 round, and every gentleman ordered what he liked best, before the
-public-house shut up. The gentleman in blue, and the man in orange, who
+public-[[house]] shut up. The gentleman in blue, and the man in orange, who
 were the chief exquisites of the party, ordered ‘cold shrub and [[motifs/water|water]],’
 but with the others, gin-and-[[motifs/water|water]], sweet, appeared to be the favourite
 beverage. Sam called the greengrocer a ‘desp’rate willin,’ and ordered a
@@ -25168,7 +25169,7 @@ coachman.
 ‘You may [[motifs/well|well]] be sapparised, gentlemen,’ said the coachman. ‘I will not
 wenchure to state the reasons of this irrepairabel loss to the service,
 but I will beg Mr. Whiffers to state them himself, for the improvement
-and imitation of his admiring friends.’
+and [[Imitation|imitation]] of his admiring friends.’
 
 The suggestion being loudly approved of, Mr. Whiffers explained. He said
 he certainly could have wished to have continued to hold the appointment
@@ -25190,7 +25191,7 @@ and hisses, prevailed for a quarter of an hour.
 Mr. Whiffers then added that he feared a portion of this outrage might
 be traced to his own forbearing and accommodating disposition. He had a
 distinct recollection of having once consented to eat salt butter, and
-he had, moreover, on an occasion of sudden sickness in the house, so far
+he had, moreover, on an occasion of sudden sickness in the [[house]], so far
 forgotten himself as to carry a coal-scuttle up to the second floor. He
 trusted he had not lowered himself in the good opinion of his friends by
 this frank confession of his faults; and he hoped the promptness with
@@ -25249,7 +25250,7 @@ one glass, for good fellowship’s sake.
 
 As the gentleman in blue went [[motifs/home|home]] the same way as Mr. Tuckle, he was
 prevailed upon to stop too. When the punch was about half gone, Sam
-ordered in some oysters from the green-grocer’s shop; and the effect of
+ordered in some oysters from the green-[[grocer]]’s shop; and the effect of
 both was so extremely exhilarating, that Mr. Tuckle, dressed out with
 the cocked hat and stick, danced the frog hornpipe among the shells on
 the table, while the gentleman in blue played an accompaniment upon an
@@ -25289,7 +25290,7 @@ gone away.’
 
 ‘Gone avay!’ said Sam.
 
-‘Left the house early this morning, without the slightest previous
+‘Left the [[house]] early this morning, without the slightest previous
 communication with me,’ replied Mr. [[works/pickwick-(chesterton)|Pickwick]]. ‘And is gone, I know not
 where.’
 
@@ -25335,7 +25336,7 @@ has thought proper to pursue.’
 ‘I will, Sir,’ replied Sam.
 
 ‘You’ll tell him,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], ‘that if he does not come back to
-this very house, with you, he will come back with me, for I will come
+this very [[house]], with you, he will come back with me, for I will come
 and fetch him.’
 
 ‘I’ll mention that ‘ere, Sir,’ rejoined Sam.
@@ -25421,7 +25422,7 @@ looked about him for a decent shop in which he could apply afresh for
 counsel and instruction.
 
 His eye fell upon a newly-painted tenement which had been recently
-converted into something between a shop and a private house, and which a
+converted into something between a shop and a private [[house]], and which a
 red lamp, projecting over the fanlight of the street door, would have
 sufficiently announced as the residence of a medical practitioner, even
 if the word ‘Surgery’ had not been inscribed in golden characters on a
@@ -25572,7 +25573,7 @@ you leave all the medicine?’
 
 Yes, Sir.’
 
-‘The powders for the [[archetypes/child|child]], at the large house with the new family, and
+‘The powders for the [[archetypes/child|child]], at the large [[house]] with the new family, and
 the pills to be taken four times a day at the ill-tempered old
 gentleman’s with the gouty leg?’
 
@@ -25591,7 +25592,7 @@ hearing, and leaning forward to Mr. Winkle, said, in a low tone--
 
 Mr. Winkle looked perplexed, and Bob Sawyer and his friend laughed.
 
-‘Don’t you see?’ said Bob. ‘He goes up to a house, rings the area bell,
+‘Don’t you see?’ said Bob. ‘He goes up to a [[house]], rings the area bell,
 pokes a packet of medicine without a direction into the servant’s hand,
 and walks off. Servant takes it into the dining-parlour; master opens
 it, and reads the label: “Draught to be taken at bedtime--pills as
@@ -25737,7 +25738,7 @@ After dinner, Mr. Bob Sawyer ordered in the largest mortar in the shop,
 and proceeded to brew a reeking jorum of rum-punch therein, stirring up
 and amalgamating the materials with a pestle in a very creditable and
 apothecary-like manner. Mr. Sawyer, being a bachelor, had only one
-tumbler in the house, which was assigned to Mr. Winkle as a compliment
+tumbler in the [[house]], which was assigned to Mr. Winkle as a compliment
 to the visitor, Mr. Ben Allen being accommodated with a funnel with a
 cork in the narrow end, and Bob Sawyer contented himself with one of
 those wide-lipped crystal vessels inscribed with a variety of cabalistic
@@ -25812,7 +25813,7 @@ pale indeed, and stopped short.
 
 ‘I did,’ said Dowler, with a countenance almost as white as Mr.
 Winkle’s. ‘Circumstances were suspicious. They have been explained. I
-respect your bravery. Your feeling is upright. Conscious innocence.
+respect your bravery. Your feeling is upright. Conscious [[innocence]].
 There’s my hand. Grasp it.’
 
 ‘Really, Sir,’ said Mr. Winkle, hesitating whether to give his hand or
@@ -26011,7 +26012,7 @@ morrow, anyvays.’
 Apparently much consoled by this reflection, Mr. Weller once more
 deposited the key in his pocket, and descending the remainder of the
 stairs without any fresh visitations of [[concepts/conscience|conscience]], was soon, in common
-with the other inmates of the house, buried in profound repose.
+with the other inmates of the [[house]], buried in profound repose.
 
 
 
@@ -26020,7 +26021,7 @@ with the other inmates of the house, buried in profound repose.
 
 
 CHAPTER XXXIX. MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF
-[[motifs/love|LOVE]], PROCEEDS TO EXECUTE IT; WITH WHAT SUCCESS WILL HEREINAFTER APPEAR
+[[motifs/love|LOVE]], PROCEEDS TO EXECUTE IT; WITH WHAT [[success|SUCCESS]] WILL HEREINAFTER APPEAR
 
 During the whole of next day, Sam kept Mr. Winkle steadily in sight,
 fully determined not to take his eyes off him for one instant, until he
@@ -26278,9 +26279,9 @@ this here Miss Arabella Allen.’
 ‘Miss Arabella Allen,’ said Sam.
 
 ‘Goodness gracious!’ said Mary, pointing to the [[motifs/garden|garden]] door which the
-sulky groom had locked after him. ‘Why, it’s that very house; she’s been
-living there these six weeks. Their upper house-maid, which is lady’s-
-maid too, told me all about it over the wash-house palin’s before the
+sulky groom had locked after him. ‘Why, it’s that very [[house]]; she’s been
+living there these six weeks. Their upper [[house]]-maid, which is lady’s-
+maid too, told me all about it over the wash-[[house]] palin’s before the
 family was out of bed, one mornin’.’
 
 ‘Wot, the wery next door to you?’ said Sam.
@@ -26294,7 +26295,7 @@ he was sufficiently collected to return to the subject.
 
 ‘Vell,’ said Sam at length, ‘if this don’t beat cock-fightin’ nothin’
 never vill, as the [[characters/lord-mayor|lord mayor]] said, ven the chief secretary o’ state
-proposed his missis’s health arter dinner. That wery next house! Wy,
+proposed his missis’s health arter dinner. That wery next [[house]]! Wy,
 I’ve got a message to her as I’ve been a-trying all day to deliver.’
 
 ‘Ah,’ said Mary, ‘but you can’t deliver it now, because she only walks
@@ -26304,7 +26305,7 @@ never goes out, without the old lady.’
 Sam ruminated for a few moments, and finally hit upon the following plan
 of operations; that he should return just at dusk--the [[motifs/time|time]] at which
 Arabella invariably took her walk--and, being admitted by Mary into the
-[[motifs/garden|garden]] of the house to which she belonged, would contrive to scramble up
+[[motifs/garden|garden]] of the [[house]] to which she belonged, would contrive to scramble up
 the wall, beneath the overhanging boughs of a large pear-tree, which
 would effectually screen him from observation; would there deliver his
 message, and arrange, if possible, an interview on behalf of Mr. Winkle
@@ -26345,7 +26346,7 @@ his earliest infancy.
 Upon this, the young lady cast a hurried glance towards the spot whence
 the dreadful sounds proceeded; and her previous alarm being not at all
 diminished when she saw a man among the branches, she would most
-certainly have decamped, and alarmed the house, had not [[concepts/fear|fear]] fortunately
+certainly have decamped, and alarmed the [[house]], had not [[concepts/fear|fear]] fortunately
 deprived her of the power of moving, and caused her to sink down on a
 [[motifs/garden|garden]] seat, which happened by good luck to be near at hand.
 
@@ -26354,7 +26355,7 @@ it is, as these here young creeturs will go a-faintin’ avay just ven
 they oughtn’t to. Here, young ‘ooman, Miss Sawbones, Mrs. Vinkle,
 don’t!’
 
-Whether it was the magic of Mr. Winkle’s name, or the coolness of the
+Whether it was the [[Magic|magic]] of Mr. Winkle’s name, or the coolness of the
 open air, or some recollection of Mr. Weller’s voice, that revived
 Arabella, matters not. She raised her head and languidly inquired,
 ‘Who’s that, and what do you want?’
@@ -26407,7 +26408,7 @@ Arabella.
 ‘It’s the suspicion of a priory ‘tachment as is the cause of it all,’
 replied Sam. ‘You’d better see him, miss.’
 
-‘But how?--where?’ cried Arabella. ‘I dare not leave the house alone. My
+‘But how?--where?’ cried Arabella. ‘I dare not leave the [[house]] [[Alone|alone]]. My
 brother is so unkind, so unreasonable! I know how strange my talking
 thus to you may appear, Mr. Weller, but I am very, very unhappy--’ and
 here poor Arabella wept so bitterly that Sam grew chivalrous.
@@ -26538,7 +26539,7 @@ blaze o’ light, right into the back parlour winder.’
 ‘Dear me!’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], turning hastily aside, ‘I didn’t mean to
 do that.’
 
-‘Now, it’s in the next house, sir,’ remonstrated Sam.
+‘Now, it’s in the next [[house]], sir,’ remonstrated Sam.
 
 ‘Bless my heart!’ exclaimed Mr. [[works/pickwick-(chesterton)|Pickwick]], turning round again.
 
@@ -26644,7 +26645,7 @@ They were not meteors; they were too low. They were not glow-worms; they
 were too high. They were not will-o’-the-wisps; they were not fireflies;
 they were not fireworks. What could they be? Some extraordinary and
 wonderful phenomenon of [[concepts/nature|nature]], which no philosopher had ever seen
-before; something which it had been reserved for him alone to discover,
+before; something which it had been reserved for him [[Alone|alone]] to discover,
 and which he should immortalise his name by chronicling for the benefit
 of posterity. Full of this idea, the scientific gentleman seized his pen
 again, and committed to paper sundry notes of these unparalleled
@@ -26703,7 +26704,7 @@ Mr. [[works/pickwick-(chesterton)|Pickwick]] had run down the lane as fast as he
 false alarm that somebody was coming that way; occasionally drawing back
 the slide of the dark lantern to keep himself from the ditch. The alarm
 was no sooner given, than Mr. Winkle scrambled back over the wall, and
-Arabella ran into the house; the [[motifs/garden|garden]] gate was shut, and the three
+Arabella ran into the [[house]]; the [[motifs/garden|garden]] gate was shut, and the three
 adventurers were making the best of their way down the lane, when they
 were startled by the scientific gentleman unlocking his [[motifs/garden|garden]] gate.
 
@@ -26757,7 +26758,7 @@ to be considered a light of science ever afterwards.
 
 
 
-CHAPTER XL. INTRODUCES MR. PICKWICK TO A NEW AND NOT UNINTERESTING SCENE
+CHAPTER XL. INTRODUCES MR. [[Pickwick|PICKWICK]] TO A NEW AND NOT UNINTERESTING SCENE
 IN THE GREAT DRAMA OF LIFE
 
 The remainder of the period which Mr. [[works/pickwick-(chesterton)|Pickwick]] had assigned as the
@@ -26855,7 +26856,7 @@ Sam, entered the room. The noise they made, in so doing, awoke him.
 ‘Shave you directly, Mr. [[works/pickwick-(chesterton)|Pickwick]],’ said the visitor, drawing one of
 them back from the bed’s head. ‘I’ve got an execution against you, at
 the suit of Bardell.--Here’s the warrant.--Common Pleas.--Here’s my
-card. I suppose you’ll come over to my house.’ Giving Mr. [[works/pickwick-(chesterton)|Pickwick]] a
+card. I suppose you’ll come over to my [[house]].’ Giving Mr. [[works/pickwick-(chesterton)|Pickwick]] a
 friendly tap on the shoulder, the sheriff’s officer (for such he was)
 threw his card on the counterpane, and pulled a gold toothpick from his
 waistcoat pocket.
@@ -26923,7 +26924,7 @@ which we have elsewhere adverted.
 
 
 The coach having turned into a very narrow and dark street, stopped
-before a house with iron bars to all the windows; the door-posts of
+before a [[house]] with iron bars to all the windows; the door-posts of
 which were graced by the name and title of ‘Namby, Officer to the
 Sheriffs of [[settings/london|London]]’; the inner gate having been opened by a gentleman
 who might have passed for a neglected twin-brother of Mr. Smouch, and
@@ -26943,7 +26944,7 @@ devoted himself pretty constantly for the last year or two of his life.
 Opposite him, engaged in stirring the [[motifs/fire|fire]] with the toe of his right
 boot, was a coarse, vulgar young man of about thirty, with a sallow face
 and harsh voice; evidently possessed of that knowledge of the world, and
-captivating [[concepts/freedom|freedom]] of manner, which is to be acquired in public-house
+captivating [[concepts/freedom|freedom]] of manner, which is to be acquired in public-[[house]]
 parlours, and at low billiard tables. The third tenant of the apartment
 was a middle-aged man in a very old suit of black, who looked pale and
 haggard, and paced up and down the room incessantly; stopping, now and
@@ -27357,7 +27358,7 @@ for the first [[motifs/time|time]] in his life, within the walls of a debtors’
 
 
 
-CHAPTER XLI. WHAT BEFELL MR. PICKWICK WHEN HE GOT INTO THE FLEET; WHAT
+CHAPTER XLI. WHAT BEFELL MR. [[Pickwick|PICKWICK]] WHEN HE GOT INTO THE FLEET; WHAT
 PRISONERS HE SAW THERE, AND HOW HE PASSED THE [[motifs/night|NIGHT]]
 
 Mr. Tom Roker, the gentleman who had accompanied Mr. [[works/pickwick-(chesterton)|Pickwick]] into the
@@ -27613,7 +27614,7 @@ the lodge gate.’
 ‘At the expiration of that [[motifs/time|time]] he died, I suppose,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
 ‘No, he didn’t, Sir,’ replied Sam. ‘He got a curiosity to go and taste
-the beer at a new public-house over the way, and it wos such a wery nice
+the beer at a new public-[[house]] over the way, and it wos such a wery nice
 parlour, that he took it into his head to go there every [[motifs/night|night]], which he
 did for a long [[motifs/time|time]], always comin’ back reg’lar about a quarter of an
 hour afore the gate shut, which was all wery snug and comfortable. At
@@ -27636,7 +27637,7 @@ As Sam concluded, Mr. [[works/pickwick-(chesterton)|Pickwick]] slowly retraced h
 After a few thoughtful turns in the Painted Ground, which, as it was now
 dark, was nearly deserted, he intimated to Mr. Weller that he thought it
 high [[motifs/time|time]] for him to withdraw for the [[motifs/night|night]]; requesting him to seek a
-bed in some adjacent public-house, and return early in the morning, to
+bed in some adjacent public-[[house]], and return early in the morning, to
 make arrangements for the removal of his master’s wardrobe from the
 George and Vulture. This request Mr. Samuel Weller prepared to obey,
 with as good a grace as he could assume, but with a very considerable
@@ -27649,7 +27650,7 @@ There is no disguising the fact that Mr. [[works/pickwick-(chesterton)|Pickwick]
 and uncomfortable--not for lack of society, for the [[motifs/prison|prison]] was very
 full, and a bottle of wine would at once have purchased the utmost good-
 fellowship of a few choice spirits, without any more formal ceremony of
-introduction; but he was alone in the coarse, vulgar crowd, and felt the
+introduction; but he was [[Alone|alone]] in the coarse, vulgar crowd, and felt the
 depression of spirits and sinking of heart, naturally consequent on the
 reflection that he was cooped and caged up, without a prospect of
 liberation. As to the idea of releasing himself by ministering to the
@@ -27697,11 +27698,11 @@ morning, and, leisurely undressing himself, got into bed and fell
 asleep.
 
 ‘Bravo! Heel over toe--cut and shuffle--pay away at it, Zephyr! I’m
-smothered if the opera house isn’t your proper hemisphere. Keep it up!
+smothered if the opera [[house]] isn’t your proper hemisphere. Keep it up!
 Hooray!’ These expressions, delivered in a most boisterous tone, and
 accompanied with loud peals of laughter, roused Mr. [[works/pickwick-(chesterton)|Pickwick]] from one of
 those sound slumbers which, lasting in reality some half-hour, seem to
-the sleeper to have been protracted for three weeks or a month.
+[[The Sleeper|the sleeper]] to have been protracted for three weeks or a month.
 
 The voice had no sooner ceased than the room was shaken with such
 violence that the windows rattled in their frames, and the bedsteads
@@ -27716,7 +27717,7 @@ grace and lightness, which, combined with the very appropriate character
 of his costume, was inexpressibly absurd. Another man, evidently very
 drunk, who had probably been tumbled into bed by his companions, was
 sitting up between the sheets, warbling as much as he could recollect of
-a comic song, with the most intensely sentimental feeling and
+a comic [[Song|song]], with the most intensely sentimental feeling and
 expression; while a third, seated on one of the bedsteads, was
 applauding both performers with the air of a profound connoisseur, and
 encouraging them by such ebullitions of feeling as had already roused
@@ -27774,7 +27775,7 @@ have the felicity of hanging up your nightcap, Sir.’
 With this, the speaker snatched that article of dress from Mr.
 [[works/pickwick-(chesterton)|Pickwick]]’s head, and fixed it in a twinkling on that of the drunken man,
 who, firmly impressed with the belief that he was delighting a numerous
-assembly, continued to hammer away at the comic song in the most
+assembly, continued to hammer away at the comic [[Song|song]] in the most
 [[concepts/melancholy|melancholy]] strains imaginable.
 
 Taking a man’s nightcap from his brow by violent means, and adjusting it
@@ -27937,7 +27938,7 @@ the full benefit of Mr. Smangle’s experiences.
 Nor were the two last-named gentlemen as much edified as they might have
 been by the moving passages narrated. Mr. [[works/pickwick-(chesterton)|Pickwick]] had been in a state
 of slumber for some [[motifs/time|time]], when he had a faint perception of the drunken
-man bursting out afresh with the comic song, and receiving from Mr.
+man bursting out afresh with the comic [[Song|song]], and receiving from Mr.
 Smangle a gentle intimation, through the medium of the [[motifs/water|water]]-jug, that
 his audience was not musically disposed. Mr. [[works/pickwick-(chesterton)|Pickwick]] then once again
 dropped off to [[motifs/sleep|sleep]], with a confused consciousness that Mr. Smangle was
@@ -27953,7 +27954,7 @@ he had ‘done’ a bill and a gentleman at the same [[motifs/time|time]].
 
 CHAPTER XLII. ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB,
 THAT ADVERSITY BRINGS A MAN ACQUAINTED WITH STRANGE BEDFELLOWS--
-LIKEWISE CONTAINING MR. PICKWICK’S EXTRAORDINARY AND STARTLING
+LIKEWISE CONTAINING MR. [[Pickwick|PICKWICK]]’S EXTRAORDINARY AND STARTLING
 ANNOUNCEMENT TO MR. SAMUEL WELLER
 
 When Mr. [[works/pickwick-(chesterton)|Pickwick]] opened his eyes next morning, the first object upon
@@ -28206,7 +28207,7 @@ aloud, several times. What the word was, Mr. [[works/pickwick-(chesterton)|Pickw
 distinguish; but he rather inferred that it must be some nickname which
 distinguished Mr. Martin, from the fact of a great number of gentlemen
 on the ground below, immediately proceeding to cry ‘Butcher!’ in
-imitation of the tone in which that useful class of society are wont,
+[[Imitation|imitation]] of the tone in which that useful class of society are wont,
 diurnally, to make their presence known at area railings.
 
 Subsequent occurrences confirmed the accuracy of Mr. [[works/pickwick-(chesterton)|Pickwick]]’s
@@ -28247,7 +28248,7 @@ was filthily dirty, and smelt intolerably close. There was no vestige of
 either carpet, curtain, or blind. There was not even a closet in it.
 Unquestionably there were but few things to put away, if there had been
 one; but, however few in number, or small in individual amount, still,
-remnants of loaves and pieces of cheese, and damp towels, and scrags of
+remnants of loaves and pieces of [[cheese]], and damp towels, and scrags of
 meat, and articles of wearing apparel, and mutilated crockery, and
 bellows without nozzles, and toasting-forks without prongs, do present
 somewhat of an uncomfortable appearance when they are scattered about
@@ -28454,7 +28455,7 @@ whole appearance denoting misery and dejection!
 Near him, leaning listlessly against the wall, stood a strong-built
 countryman, flicking with a worn-out hunting-whip the top-boot that
 adorned his right foot; his left being thrust into an old slipper.
-Horses, dogs, and drink had brought him there, pell-mell. There was a
+Horses, [[dogs]], and drink had brought him there, pell-mell. There was a
 rusty spur on the solitary boot, which he occasionally jerked into the
 empty air, at the same [[motifs/time|time]] giving the boot a smart blow, and muttering
 some of the sounds by which a sportsman encourages his [[motifs/horse|horse]]. He was
@@ -28538,7 +28539,7 @@ here--small sums--mere nothing--all rascals.’
 understand you. You have pawned your wardrobe.’
 
 ‘Everything--Job’s too--all shirts gone--never mind--saves washing.
-Nothing soon--lie in bed--starve--die--inquest--little bone-house--poor
+Nothing soon--lie in bed--starve--die--inquest--little bone-[[house]]--poor
 prisoner--common necessaries--hush it up--gentlemen of the jury--
 warden’s tradesmen--keep it snug--natural [[motifs/death|death]]--coroner’s order--
 workhouse funeral--serve him right--all over--drop the curtain.’
@@ -28724,7 +28725,7 @@ But the attorneys, who sit at a large bare table below the
 commissioners, are, after all, the greatest curiosities. The
 professional establishment of the more opulent of these gentlemen,
 consists of a blue bag and a boy; generally a youth of the Jewish
-persuasion. They have no fixed offices, their legal business being
+[[Persuasion|persuasion]]. They have no fixed offices, their legal business being
 transacted in the parlours of public-houses, or the yards of prisons,
 whither they repair in crowds, and canvass for customers after the
 manner of omnibus cads. They are of a greasy and mildewed appearance;
@@ -28755,7 +28756,7 @@ practitioner, mind you, I wouldn’t have answered for the consequences.’
 ‘No, that I wouldn’t,’ said Mr. Pell; and he pursed up his lips,
 frowned, and shook his head mysteriously.
 
-Now, the place where this discourse occurred was the public-house just
+Now, the place where this discourse occurred was the public-[[house]] just
 opposite to the Insolvent [[settings/court|Court]]; and the person with whom it was held
 was no other than the elder Mr. Weller, who had come there, to comfort
 and console a friend, whose petition to be discharged under the act, was
@@ -28833,7 +28834,7 @@ rum, my dear.’
 The officiating [[archetypes/damsel|damsel]], who had anticipated the order before it was
 given, set the glass of spirits before Pell, and retired.
 
-‘Gentlemen,’ said Mr. Pell, looking round upon the company, ‘success to
+‘Gentlemen,’ said Mr. Pell, looking round upon the company, ‘[[success]] to
 your friend! I don’t like to boast, gentlemen; it’s not my way; but I
 can’t help saying, that, if your friend hadn’t been fortunate enough to
 fall into hands that--But I won’t say what I was going to say.
@@ -28872,7 +28873,7 @@ A murmur of assent ran through the company.
 occasion; there was only us two, but everything as splendid as if twenty
 people had been expected--the great seal on a dumb-waiter at his right
 hand, and a man in a bag-wig and suit of armour guarding the mace with a
-drawn sword and silk stockings--which is perpetually done, gentlemen,
+drawn [[Sword|sword]] and silk stockings--which is perpetually done, gentlemen,
 [[motifs/night|night]] and day; when he said, “Pell,” he said, “no false delicacy, Pell.
 You’re a man of talent; you can get anybody through the Insolvent [[settings/court|Court]],
 Pell; and your country should be proud of you.” Those were his very
@@ -28923,7 +28924,7 @@ minutes to thirty.
 
 Mr. Weller, being stout, cast himself at once into the crowd, with the
 desperate [[concepts/hope|hope]] of ultimately turning up in some place which would suit
-him. His success was not quite equal to his expectations; for having
+him. His [[success]] was not quite equal to his expectations; for having
 neglected to take his hat off, it was knocked over his eyes by some
 unseen person, upon whose toes he had alighted with considerable force.
 Apparently this individual regretted his impetuosity immediately
@@ -29048,7 +29049,7 @@ nobody, there’s an end on it. Go on, Sammy,’ said Mr. Weller, with a
 sigh.
 
 ‘[[motifs/well|Well]],’ said Sam, ‘you’ve been a-prophecyin’ avay about wot’ll happen to
-the gov’ner if he’s left alone. Don’t you see any way o’ takin’ care on
+the gov’ner if he’s left [[Alone|alone]]. Don’t you see any way o’ takin’ care on
 him?’
 
 ‘No, I don’t, Sammy,’ said Mr. Weller, with a reflective visage.
@@ -29154,8 +29155,8 @@ usually; but the present instance was one of peculiar festivity, and
 they relaxed in proportion. After some rather tumultuous toasting of the
 Chief Commissioner and Mr. Solomon Pell, who had that day displayed such
 transcendent abilities, a mottled-faced gentleman in a blue shawl
-proposed that somebody should sing a song. The obvious suggestion was,
-that the mottled-faced gentleman, being anxious for a song, should sing
+proposed that somebody should sing a [[Song|song]]. The obvious suggestion was,
+that the mottled-faced gentleman, being anxious for a [[Song|song]], should sing
 it himself; but this the mottled-faced gentleman sturdily, and somewhat
 offensively, declined to do. Upon which, as is not unusual in such
 cases, a rather angry colloquy ensued.
@@ -29176,7 +29177,7 @@ fourth lines, which not only enables the singer to take breath at those
 points, but greatly assists the metre.
 
 
-ROMANCE
+[[Romance|ROMANCE]]
 
 I
 
@@ -29201,14 +29202,14 @@ Dick put a couple of balls in his nob, And perwailed on him to stop.
 
 But Dick put a couple of balls in his nob, And perwailed on him to stop.
 
-‘I maintain that that ‘ere song’s personal to the cloth,’ said the
+‘I maintain that that ‘ere [[Song|song]]’s personal to the cloth,’ said the
 mottled-faced gentleman, interrupting it at this point. ‘I demand the
 name o’ that coachman.’
 
 ‘Nobody know’d,’ replied Sam. ‘He hadn’t got his card in his pocket.’
 
 ‘I object to the introduction o’ politics,’ said the mottled-faced
-gentleman. ‘I submit that, in the present company, that ‘ere song’s
+gentleman. ‘I submit that, in the present company, that ‘ere [[Song|song]]’s
 political; and, wot’s much the same, that it ain’t true. I say that that
 coachman did not run away; but that he died game--game as pheasants; and
 I won’t hear nothin’ said to the contrairey.’
@@ -29266,7 +29267,7 @@ By the [[motifs/time|time]] the officer arrived, Sam had made himself so extreme
 popular, that the congregated gentlemen determined to see him to [[motifs/prison|prison]]
 in a [[concepts/body|body]]. So off they set; the plaintiff and defendant walking arm in
 arm, the officer in front, and eight stout coachmen bringing up the
-rear. At Serjeant’s Inn Coffee-house the whole party halted to refresh,
+rear. At Serjeant’s Inn Coffee-[[house]] the whole party halted to refresh,
 and, the legal arrangements being completed, the procession moved on
 again.
 
@@ -29426,7 +29427,7 @@ the economic principle--three suits a year, and send back the old uns.
 Being a wery reg’lar gen’l’m’n, he din’d ev’ry day at the same place,
 where it was one-and-nine to cut off the joint, and a wery good one-and-
 nine’s worth he used to cut, as the landlord often said, with the [[motifs/tears|tears]]
-a-tricklin’ down his face, let alone the way he used to poke the [[motifs/fire|fire]] in
+a-tricklin’ down his face, let [[Alone|alone]] the way he used to poke the [[motifs/fire|fire]] in
 the vinter [[motifs/time|time]], which wos a dead loss o’ four-pence ha’penny a day, to
 say nothin’ at all o’ the aggrawation o’ seein’ him do it. So uncommon
 grand with it too! “_Post _arter the next gen’l’m’n,” he sings out ev’ry
@@ -29442,7 +29443,7 @@ always obliged to keep a sharp eye on, at sich times, [[concepts/fear|fear]] he 
 tempted to commit some rash act with the carving-knife. Vell, Sir, here
 he’d stop, occupyin’ the best place for three hours, and never takin’
 nothin’ arter his dinner, but [[motifs/sleep|sleep]], and then he’d go away to a coffee-
-house a few streets off, and have a small pot o’ coffee and four
+[[house]] a few streets off, and have a small pot o’ coffee and four
 crumpets, arter wich he’d walk [[motifs/home|home]] to Kensington and go to bed. One
 [[motifs/night|night]] he wos took very ill; sends for a doctor; doctor comes in a green
 fly, with a kind o’ Robinson Crusoe set o’ steps, as he could let down
@@ -29657,7 +29658,7 @@ decision of the old gentleman below. After that, we went into Chancery,
 where we are still, and where I shall always be. My lawyers have had all
 my thousand pound long ago; and what between the estate, as they call
 it, and the costs, I’m here for ten thousand, and shall stop here, till
-I die, mending shoes. Some gentlemen have talked of bringing it before
+I die, [[mending]] shoes. Some gentlemen have talked of bringing it before
 Parliament, and I dare say would have done it, only they hadn’t [[motifs/time|time]] to
 come to me, and I hadn’t power to go to them, and they got tired of my
 long letters, and dropped the business. And this is God’s [[concepts/truth|truth]], without
@@ -29669,7 +29670,7 @@ Sam; but finding that he had dropped asleep, knocked the ashes out of
 his pipe, sighed, put it down, drew the bed-clothes over his head, and
 went to [[motifs/sleep|sleep]], too.
 
-Mr. [[works/pickwick-(chesterton)|Pickwick]] was sitting at breakfast, alone, next morning (Sam being
+Mr. [[works/pickwick-(chesterton)|Pickwick]] was sitting at breakfast, [[Alone|alone]], next morning (Sam being
 busily engaged in the cobbler’s room, polishing his master’s shoes and
 brushing the black gaiters) when there came a knock at the door, which,
 before Mr. [[works/pickwick-(chesterton)|Pickwick]] could cry ‘Come in!’ was followed by the appearance
@@ -29802,7 +29803,7 @@ Mr. [[works/pickwick-(chesterton)|Pickwick]] looked more astonished than before.
 
 ‘I think,’ faltered Mr. Winkle, ‘that Sam would have had no objection to
 do so; but, of course, his being a prisoner here, renders it impossible.
-So I must go alone.’
+So I must go [[Alone|alone]].’
 
 As Mr. Winkle said these words, Mr. [[works/pickwick-(chesterton)|Pickwick]] felt, with some
 astonishment, that Sam’s fingers were trembling at the gaiters, as if he
@@ -29839,7 +29840,7 @@ notwithstanding that the meat had been purchased, and dressed, and the
 pie made, and baked, at the [[motifs/prison|prison]] cookery hard by.
 
 To these succeeded a bottle or two of very good wine, for which a
-messenger was despatched by Mr. [[works/pickwick-(chesterton)|Pickwick]] to the Horn Coffee-house, in
+messenger was despatched by Mr. [[works/pickwick-(chesterton)|Pickwick]] to the Horn Coffee-[[house]], in
 Doctors’ Commons. The bottle or two, indeed, might be more properly
 described as a bottle or six, for by the [[motifs/time|time]] it was drunk, and tea
 over, the bell began to ring for strangers to withdraw.
@@ -29949,7 +29950,7 @@ murdered by the law for six months?’
 in both hands. ‘I suppose he’d have been took the same, wherever he was.
 He went into the infirmary, this morning; the doctor says his strength
 is to be kept up as much as possible; and the warden’s sent him wine and
-broth and that, from his own house. It’s not the warden’s fault, you
+broth and that, from his own [[house]]. It’s not the warden’s fault, you
 know, sir.’
 
 ‘Of course not,’ replied Mr. [[works/pickwick-(chesterton)|Pickwick]] hastily.
@@ -29983,7 +29984,7 @@ He did so. The noise of carriages and carts, the rattle of wheels, the
 cries of men and boys, all the busy sounds of a mighty multitude
 instinct with life and occupation, blended into one deep murmur, floated
 into the room. Above the hoarse loud hum, arose, from [[motifs/time|time]] to [[motifs/time|time]], a
-boisterous laugh; or a scrap of some jingling song, shouted forth, by
+boisterous laugh; or a scrap of some jingling [[Song|song]], shouted forth, by
 one of the giddy crowd, would strike upon the ear, for an instant, and
 then be lost amidst the roar of voices and the tramp of footsteps; the
 breaking of the billows of the restless sea of life, that rolled heavily
@@ -30028,7 +30029,7 @@ he died.
 
 
 CHAPTER XLV. DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL
-WELLER AND A FAMILY PARTY. MR. PICKWICK MAKES A TOUR OF THE DIMINUTIVE
+WELLER AND A FAMILY PARTY. MR. [[Pickwick|PICKWICK]] MAKES A TOUR OF THE DIMINUTIVE
 WORLD HE INHABITS, AND RESOLVES TO MIX WITH IT, IN FUTURE, AS LITTLE AS
 POSSIBLE
 
@@ -30070,7 +30071,7 @@ passage. Nor was he mistaken, for it quickly passed from mouth to mouth,
 and in a few seconds the air teemed with shouts of ‘Weller!’
 
 Here!’ roared Sam, in a stentorian voice. ‘Wot’s the matter? Who wants
-him? Has an express come to say that his country house is afire?’
+him? Has an express come to say that his country [[house]] is afire?’
 
 ‘Somebody wants you in the hall,’ said a man who was standing by.
 
@@ -30222,7 +30223,7 @@ obliged to you for this here wisit.--Shepherd, how air you?’
 ‘Not a bit on it, mum,’ replied Sam.--‘Is it, shepherd?’
 
 Mr. Stiggins raised his hands, and turned up his eyes, until the whites-
--or rather the yellows--were alone visible; but made no reply in words.
+-or rather the yellows--were [[Alone|alone]] visible; but made no reply in words.
 
 ‘Is this here gen’l’m’n troubled with any painful complaint?’ said Sam,
 looking to his mother-in-law for explanation.
@@ -30394,7 +30395,7 @@ manifestations of disgust, and when, after a second jug of the same, Mr.
 Stiggins began to sigh in a dismal manner, he plainly evinced his
 disapprobation of the whole proceedings, by sundry incoherent ramblings
 of speech, among which frequent angry repetitions of the word ‘gammon’
-were alone distinguishable to the ear.
+were [[Alone|alone]] distinguishable to the ear.
 
 ‘I’ll tell you wot it is, Samivel, my boy,’ whispered the old gentleman
 into his son’s ear, after a long and steadfast contemplation of his lady
@@ -30768,7 +30769,7 @@ number of persons, some in noisy conversation with their acquaintance
 below, others playing at ball with some adventurous throwers outside,
 others looking on at the racket-players, or watching the boys as they
 cried the game. Dirty, slipshod women passed and repassed, on their way
-to the cooking-house in one corner of the yard; children screamed, and
+to the cooking-[[house]] in one corner of the yard; children screamed, and
 fought, and played together, in another; the tumbling of the skittles,
 and the shouts of the players, mingled perpetually with these and a
 hundred other sounds; and all was noise and tumult--save in a little
@@ -30880,12 +30881,12 @@ tending to the one point, that he should stop at Mrs. Bardell’s door;
 which the heavy gentleman, in direct opposition to, and defiance of, the
 vixenish ladies, contended was a green door and not a yellow one.
 
-‘Stop at the house with a green door, driver,’ said the heavy gentleman.
+‘Stop at the [[house]] with a green door, driver,’ said the heavy gentleman.
 
 ‘Oh! You perwerse creetur!’ exclaimed one of the vixenish ladies. ‘Drive
 to the ‘ouse with the yellow door, cabmin.’
 
-Upon this the cabman, who in a sudden effort to pull up at the house
+Upon this the [[cabman]], who in a sudden effort to pull up at the [[house]]
 with the green door, had pulled the [[motifs/horse|horse]] up so high that he nearly
 pulled him backward into the cabriolet, let the animal’s fore-legs down
 to the ground again, and paused.
@@ -30894,19 +30895,19 @@ to the ground again, and paused.
 yourselves. All I ask is, vere?’
 
 Here the contest was renewed with increased violence; and the [[motifs/horse|horse]]
-being troubled with a fly on his nose, the cabman humanely employed his
+being troubled with a fly on his nose, the [[cabman]] humanely employed his
 leisure in lashing him about on the head, on the counter-irritation
 principle.
 
 ‘Most wotes carries the day!’ said one of the vixenish ladies at length.
-‘The ‘ouse with the yellow door, cabman.’
+‘The ‘ouse with the yellow door, [[cabman]].’
 
-But after the cabriolet had dashed up, in splendid style, to the house
+But after the cabriolet had dashed up, in splendid style, to the [[house]]
 with the yellow door, ‘making,’ as one of the vixenish ladies
 triumphantly said, ‘acterrally more noise than if one had come in one’s
 own carriage,’ and after the driver had dismounted to assist the ladies
 in getting out, the small round head of Master Thomas Bardell was thrust
-out of the one-pair [[motifs/window|window]] of a house with a red door, a few numbers
+out of the one-pair [[motifs/window|window]] of a [[house]] with a red door, a few numbers
 off.
 
 ‘Aggrawatin’ thing!’ said the vixenish lady last-mentioned, darting a
@@ -30914,7 +30915,7 @@ withering glance at the heavy gentleman.
 
 ‘My dear, it’s not my fault,’ said the gentleman.
 
-‘Don’t talk to me, you creetur, don’t,’ retorted the lady. ‘The house
+‘Don’t talk to me, you creetur, don’t,’ retorted the lady. ‘The [[house]]
 with the red door, cabmin. Oh! If ever a woman was troubled with a
 ruffinly creetur, that takes a [[concepts/pride|pride]] and a pleasure in disgracing his
 wife on every possible occasion afore strangers, I am that woman!’
@@ -30928,9 +30929,9 @@ woman, who was no other than Mrs. Cluppins.
 forgit my sect and strike you!’ said Mrs. Raddle.
 
 While this dialogue was going on, the driver was most ignominiously
-leading the [[motifs/horse|horse]], by the bridle, up to the house with the red door,
+leading the [[motifs/horse|horse]], by the bridle, up to the [[house]] with the red door,
 which Master Bardell had already opened. Here was a mean and low way of
-arriving at a friend’s house! No dashing up, with all the [[motifs/fire|fire]] and fury
+arriving at a friend’s [[house]]! No dashing up, with all the [[motifs/fire|fire]] and fury
 of the animal; no jumping down of the driver; no loud knocking at the
 door; no opening of the apron with a crash at the very last moment, for
 [[concepts/fear|fear]] of the ladies sitting in a draught; and then the man handing the
@@ -30985,7 +30986,7 @@ himself to his infantile treadmill, with increased vigour.
 
 The above examination of a [[archetypes/child|child]] of tender years took place while Mr.
 and Mrs. Raddle and the cab-driver were having an altercation concerning
-the fare, which, terminating at this point in favour of the cabman, Mrs.
+the fare, which, terminating at this point in favour of the [[cabman]], Mrs.
 Raddle came up tottering.
 
 ‘Lauk, Mary Ann! what’s the matter?’ said Mrs. Cluppins.
@@ -30999,7 +31000,7 @@ peremptorily commanded to hold his tongue. He had no opportunity of
 defending himself, however, for Mrs. Raddle gave unequivocal signs of
 fainting; which, being perceived from the parlour [[motifs/window|window]], Mrs. Bardell,
 Mrs. Sanders, the lodger, and the lodger’s servant, darted precipitately
-out, and conveyed her into the house, all talking at the same [[motifs/time|time]], and
+out, and conveyed her into the [[house]], all talking at the same [[motifs/time|time]], and
 giving utterance to various expressions of pity and condolence, as if
 she were one of the most [[concepts/suffering|suffering]] mortals on earth. Being conveyed into
 the front parlour, she was there deposited on a sofa; and the lady from
@@ -31107,7 +31108,7 @@ However, there was no help for it, and the tea-tray came, with seven
 cups and saucers, and bread-and-butter on the same scale. Mrs. Bardell
 was unanimously voted into the chair, and Mrs. Rogers being stationed on
 her right hand, and Mrs. Raddle on her left, the meal proceeded with
-great merriment and success.
+great merriment and [[success]].
 
 ‘How sweet the country is, to be sure!’ sighed Mrs. Rogers; ‘I almost
 wish I lived in it always.’
@@ -31361,7 +31362,7 @@ fainted in real downright earnest.
 
 CHAPTER XLVII. IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE
 TEMPORAL ADVANTAGE OF DODSON AND FOGG--MR. WINKLE REAPPEARS UNDER
-EXTRAORDINARY CIRCUMSTANCES--MR. PICKWICK’S BENEVOLENCE PROVES STRONGER
+EXTRAORDINARY CIRCUMSTANCES--MR. [[Pickwick|PICKWICK]]’S BENEVOLENCE PROVES STRONGER
 THAN HIS OBSTINACY
 
 Job Trotter, abating nothing of his [[characters/speed|speed]], ran up Holborn, sometimes in
@@ -31389,7 +31390,7 @@ thing in the morning?’
 
 ‘Why,’ responded Lowten, after a little consideration, ‘if it was in
 anybody else’s case, Perker wouldn’t be best pleased at my going up to
-his house; but as it’s Mr. [[works/pickwick-(chesterton)|Pickwick]]’s, I think I may venture to take a
+his [[house]]; but as it’s Mr. [[works/pickwick-(chesterton)|Pickwick]]’s, I think I may venture to take a
 cab and charge it to the office.’ Deciding on this line of conduct, Mr.
 Lowten took up his hat, and begging the assembled company to appoint a
 deputy-chairman during his temporary absence, led the way to the nearest
@@ -31574,7 +31575,7 @@ you.’
 
 ‘I say, my dear Sir,’ resumed the little man, who seemed to gather
 confidence from the snuff--‘I say, that her speedy liberation or
-perpetual [[concepts/imprisonment|imprisonment]] rests with you, and with you alone. Hear me out,
+perpetual [[concepts/imprisonment|imprisonment]] rests with you, and with you [[Alone|alone]]. Hear me out,
 my dear Sir, if you please, and do not be so very energetic, for it will
 only put you into a perspiration and do no good whatever. I say,’
 continued Perker, checking off each position on a different finger, as
@@ -31774,7 +31775,7 @@ warmheartedness and kindly feeling can communicate to the human face--
 proceedings. And is your brother acquainted with all this, my dear?’
 
 ‘Oh, no, no,’ replied Arabella, changing colour. ‘Dear Mr. [[works/pickwick-(chesterton)|Pickwick]], he
-must only know it from you--from your lips alone. He is so violent, so
+must only know it from you--from your lips [[Alone|alone]]. He is so violent, so
 prejudiced, and has been so--so anxious in behalf of his friend, Mr.
 Sawyer,’ added Arabella, looking down, ‘that I [[concepts/fear|fear]] the consequences
 dreadfully.’
@@ -31913,7 +31914,7 @@ if they had been!’
 
 
 
-CHAPTER XLVIII. RELATES HOW MR. PICKWICK, WITH THE ASSISTANCE OF SAMUEL
+CHAPTER XLVIII. RELATES HOW MR. [[Pickwick|PICKWICK]], WITH THE ASSISTANCE OF SAMUEL
 WELLER, ESSAYED TO SOFTEN THE HEART OF MR. BENJAMIN ALLEN, AND TO
 MOLLIFY THE WRATH OF MR. ROBERT SAWYER
 
@@ -32069,7 +32070,7 @@ Robert Sawyer, late Nockemorf.
 the roof of the fly.
 
 ‘I can’t permit it, on any account,’ said the old lady; ‘your testimony
-will be very important, and I must take you into the house with me. You
+will be very important, and I must take you into the [[house]] with me. You
 must not stir from my side during the whole interview. Do you hear?’
 
 ‘I hear,’ replied Martin.
@@ -32104,7 +32105,7 @@ were so disposed.
 
 ‘My dear Benjamin,’ said the old lady, struggling with a great shortness
 of breath, and trembling from head to foot, ‘don’t be alarmed, my dear,
-but I think I had better speak to Mr. Sawyer, alone, for a moment. Only
+but I think I had better speak to Mr. Sawyer, [[Alone|alone]], for a moment. Only
 for one moment.’
 
 ‘Bob,’ said Mr. Allen, ‘will you take my aunt into the surgery?’
@@ -32206,7 +32207,7 @@ with a promptitude often the effect of desperation, he at once commenced
 carrying into execution, with much vigour and surgical skill.
 
 Mr. Martin, who was a man of few words and possessed but little power of
-eloquence or persuasion, submitted to this operation with a very calm
+eloquence or [[Persuasion|persuasion]], submitted to this operation with a very calm
 and agreeable expression of countenance, for some seconds; finding,
 however, that it threatened speedily to lead to a result which would
 place it beyond his power to claim any wages, board or otherwise, in all
@@ -32232,7 +32233,7 @@ upon the bystanders to interpose.
 
 This roused Mr. Bob Sawyer, who had been hitherto quite paralysed by the
 frenzy of his companion. With that gentleman’s assistance, Mr. [[works/pickwick-(chesterton)|Pickwick]]
-raised Ben Allen to his feet. Mr. Martin finding himself alone on the
+raised Ben Allen to his feet. Mr. Martin finding himself [[Alone|alone]] on the
 floor, got up, and looked about him.
 
 ‘Mr. Allen,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], ‘what is the matter, Sir?’
@@ -32319,7 +32320,7 @@ threatening manner at the bland features of Mr. [[works/pickwick-(chesterton)|Pi
 match?’ inquired Mr. Benjamin Allen at length.
 
 ‘And it’s this gentleman’s servant, I suppose,’ interrupted the old
-lady, ‘who has been skulking about my house, and endeavouring to entrap
+lady, ‘who has been skulking about my [[house]], and endeavouring to entrap
 my servants to conspire against their mistress.--Martin!’
 
 ‘[[motifs/well|Well]]?’ said the surly man, coming forward.
@@ -32558,7 +32559,7 @@ moment. Gentlemen, I wish your fathers and mothers had known my uncle.
 They would have been amazingly fond of him, especially your respectable
 mothers; I know they would. If any two of his numerous virtues
 predominated over the many that adorned his character, I should say they
-were his mixed punch and his after-supper song. Excuse my dwelling on
+were his mixed punch and his after-supper [[Song|song]]. Excuse my dwelling on
 these [[concepts/melancholy|melancholy]] recollections of departed worth; you won’t see a man
 like my uncle every day in the week.
 
@@ -32579,7 +32580,7 @@ destiny in these things, gentlemen; we can’t help it.
 size; he was a thought stouter too, than the ordinary run of people, and
 perhaps his face might be a shade redder. He had the jolliest face you
 ever saw, gentleman: something like Punch, with a handsome nose and
-chin; his eyes were always twinkling and sparkling with good-humour; and
+chin; his eyes were always twinkling and sparkling with good-[[Humour|humour]]; and
 a smile--not one of your unmeaning wooden grins, but a real, merry,
 hearty, good-tempered smile--was perpetually on his countenance. He was
 pitched out of his gig once, and knocked, head first, against a
@@ -32626,7 +32627,7 @@ moment, but with this trifling exception, gentlemen, they were not a bit
 the worse for it.
 
 ‘One [[motifs/night|night]], within four-and-twenty hours of the [[motifs/time|time]] when he had settled
-to take shipping for [[settings/london|London]], my uncle supped at the house of a very old
+to take shipping for [[settings/london|London]], my uncle supped at the [[house]] of a very old
 friend of his, a Bailie Mac something and four syllables after it, who
 lived in the old town of Edinburgh. There were the bailie’s wife, and
 the bailie’s three daughters, and the bailie’s grown-up son, and three
@@ -32678,7 +32679,7 @@ impressively. Having repeated this, several times, he recovered his
 balance with some difficulty--for he was rather giddy with looking up
 into the sky so long--and walked merrily on.
 
-‘The bailie’s house was in the Canongate, and my uncle was going to the
+‘The bailie’s [[house]] was in the Canongate, and my uncle was going to the
 other end of Leith Walk, rather better than a mile’s [[motifs/journey|journey]]. On either
 side of him, there shot up against the dark sky, tall, gaunt, straggling
 houses, with [[motifs/time|time]]-stained fronts, and windows that seemed to have shared
@@ -32692,7 +32693,7 @@ communicated, by steep and intricate windings, with the various flats
 above. Glancing at all these things with the air of a man who had seen
 them too often before, to think them worthy of much notice now, my uncle
 walked up the middle of the street, with a thumb in each waistcoat
-pocket, indulging from [[motifs/time|time]] to [[motifs/time|time]] in various snatches of song, chanted
+pocket, indulging from [[motifs/time|time]] to [[motifs/time|time]] in various snatches of [[Song|song]], chanted
 forth with such good-will and spirit, that the quiet honest folk started
 from their first [[motifs/sleep|sleep]] and lay trembling in bed till the sound died away
 in the distance; when, satisfying themselves that it was only some
@@ -32708,7 +32709,7 @@ turn.
 
 ‘Gentlemen, my uncle walked on with his thumbs in his waistcoat pockets,
 taking the middle of the street to himself, and singing, now a verse of
-a [[motifs/love|love]] song, and then a verse of a drinking one, and when he was tired
+a [[motifs/love|love]] [[Song|song]], and then a verse of a drinking one, and when he was tired
 of both, whistling melodiously, until he reached the North Bridge,
 which, at this point, connects the old and new towns of Edinburgh. Here
 he stopped for a minute, to look at the strange, irregular clusters of
@@ -32859,7 +32860,7 @@ with buckram. Tiggin and Welps were in the printed calico and waistcoat
 piece line, gentlemen, so my uncle knew all the materials at once. He
 wore knee breeches, and a kind of leggings rolled up over his silk
 stockings, and shoes with buckles; he had ruffles at his wrists, a
-three-cornered hat on his head, and a long taper sword by his side. The
+three-cornered hat on his head, and a long taper [[Sword|sword]] by his side. The
 flaps of his waist-coat came half-way down his thighs, and the ends of
 his cravat reached to his waist. He stalked gravely to the coach door,
 pulled off his hat, and held it above his head at arm’s length, cocking
@@ -32892,7 +32893,7 @@ powdered wig, notwithstanding his show of gallantry, which was all very
 fine and grand, clasped her tight by the wrist when she got in, and
 followed himself immediately afterwards. An uncommonly ill-looking
 fellow, in a close brown wig, and a plum-coloured suit, wearing a very
-large sword, and boots up to his hips, belonged to the party; and when
+large [[Sword|sword]], and boots up to his hips, belonged to the party; and when
 he sat himself down next to the young lady, who shrank into a corner at
 his approach, my uncle was confirmed in his original impression that
 something dark and mysterious was going forward, or, as he always said
@@ -32901,25 +32902,25 @@ how quickly he made up his mind to help the lady at any peril, if she
 needed any help.
 
 ‘“[[motifs/death|Death]] and [[motifs/lightning|lightning]]!” exclaimed the young gentleman, laying his hand
-upon his sword as my uncle entered the coach.
+upon his [[Sword|sword]] as my uncle entered the coach.
 
 ‘“[[motifs/blood|Blood]] and thunder!” roared the other gentleman. With this, he whipped
-his sword out, and made a lunge at my uncle without further ceremony. My
+his [[Sword|sword]] out, and made a lunge at my uncle without further ceremony. My
 uncle had no weapon about him, but with great dexterity he snatched the
 ill-looking gentleman’s three-cornered hat from his head, and, receiving
-the point of his sword right through the [[motifs/crown|crown]], squeezed the sides
+the point of his [[Sword|sword]] right through the [[motifs/crown|crown]], squeezed the sides
 together, and held it tight.
 
 ‘“Pink him behind!” cried the ill-looking gentleman to his companion, as
-he struggled to regain his sword.
+he struggled to regain his [[Sword|sword]].
 
 ‘“He had better not,” cried my uncle, displaying the heel of one of his
 shoes, in a threatening manner. “I’ll kick his brains out, if he has
 any--, or fracture his skull if he hasn’t.” Exerting all his strength,
-at this moment, my uncle wrenched the ill-looking man’s sword from his
+at this moment, my uncle wrenched the ill-looking man’s [[Sword|sword]] from his
 grasp, and flung it clean out of the coach [[motifs/window|window]], upon which the
 younger gentleman vociferated, “[[motifs/death|Death]] and [[motifs/lightning|lightning]]!” again, and laid
-his hand upon the hilt of his sword, in a very fierce manner, but didn’t
+his hand upon the hilt of his [[Sword|sword]], in a very fierce manner, but didn’t
 draw it. Perhaps, gentlemen, as my uncle used to say with a smile,
 perhaps he was afraid of alarming the lady.
 
@@ -32930,7 +32931,7 @@ if you please, we’ll sit in our places like quiet insides. Here, guard,
 pick up that gentleman’s carving-knife.”
 
 ‘As quickly as my uncle said the words, the guard appeared at the coach
-[[motifs/window|window]], with the gentleman’s sword in his hand. He held up his lantern,
+[[motifs/window|window]], with the gentleman’s [[Sword|sword]] in his hand. He held up his lantern,
 and looked earnestly in my uncle’s face, as he handed it in, when, by
 its light, my uncle saw, to his great surprise, that an immense crowd of
 mail-coach guards swarmed round the [[motifs/window|window]], every one of whom had his
@@ -32961,7 +32962,7 @@ sat in the farthest corner of the coach, with her face muffled closely
 in her hood; the gentleman with the sky-blue coat sitting opposite to
 her; the other man in the plum-coloured suit, by her side; and both
 watching her intently. If she so much as rustled the folds of her hood,
-he could hear the ill-looking man clap his hand upon his sword, and
+he could hear the ill-looking man clap his hand upon his [[Sword|sword]], and
 could tell by the other’s breathing (it was so dark he couldn’t see his
 face) that he was looking as big as if he were going to devour her at a
 mouthful. This roused my uncle more and more, and he resolved, come what
@@ -33020,16 +33021,16 @@ saw my uncle standing on the ground.
 
 ‘My uncle looked at the guard for a few seconds, in some [[concepts/doubt|doubt]] whether
 it wouldn’t be better to wrench his blunderbuss from him, [[motifs/fire|fire]] it in the
-face of the man with the big sword, knock the rest of the company over
+face of the man with the big [[Sword|sword]], knock the rest of the company over
 the head with the stock, snatch up the young lady, and go off in the
 smoke. On second thoughts, however, he abandoned this plan, as being a
 shade too melodramatic in the execution, and followed the two mysterious
-men, who, keeping the lady between them, were now entering an old house
+men, who, keeping the lady between them, were now entering an old [[house]]
 in front of which the coach had stopped. They turned into the passage,
 and my uncle followed.
 
 ‘Of all the ruinous and desolate places my uncle had ever beheld, this
-was the most so. It looked as if it had once been a large house of
+was the most so. It looked as if it had once been a large [[house]] of
 entertainment; but the roof had fallen in, in many places, and the
 stairs were steep, rugged, and broken. There was a huge fireplace in the
 room into which they walked, and the chimney was blackened with smoke;
@@ -33061,17 +33062,17 @@ must be a _very _comfortable one;” with this, my uncle sat himself down
 in a high-backed chair, and took such an accurate measure of the
 gentleman, with his eyes, that Tiggin and Welps could have supplied him
 with printed calico for a suit, and not an inch too much or too little,
-from that estimate alone.
+from that estimate [[Alone|alone]].
 
 ‘“Quit this room,” said both men together, grasping their swords.
 
 ‘“Eh?” said my uncle, not at all appearing to comprehend their meaning.
 
 ‘“Quit the room, or you are a dead man,” said the ill-looking fellow
-with the large sword, drawing it at the same [[motifs/time|time]] and flourishing it in
+with the large [[Sword|sword]], drawing it at the same [[motifs/time|time]] and flourishing it in
 the air.
 
-‘“Down with him!” cried the gentleman in sky-blue, drawing his sword
+‘“Down with him!” cried the gentleman in sky-blue, drawing his [[Sword|sword]]
 also, and falling back two or three yards. “Down with him!” The lady
 gave a loud scream.
 
@@ -33090,7 +33091,7 @@ confusion, fell upon them both, pell-mell.
 regarding a fine young Irish gentleman, who being asked if he could play
 the fiddle, replied he had no [[concepts/doubt|doubt]] he could, but he couldn’t exactly
 say, for certain, because he had never tried. This is not inapplicable
-to my uncle and his fencing. He had never had a sword in his hand
+to my uncle and his fencing. He had never had a [[Sword|sword]] in his hand
 before, except once when he played [[characters/richard|Richard]] the Third at a private
 theatre, upon which occasion it was arranged with Richmond that he was
 to be run through, from behind, without showing fight at all. But here
@@ -33121,7 +33122,7 @@ seeing the young lady with her face uncovered, vented an exclamation of
 rage and [[concepts/jealousy|jealousy]], and, turning his weapon against her beautiful bosom,
 pointed a thrust at her heart, which caused my uncle to utter a cry of
 apprehension that made the building ring. The lady stepped lightly
-aside, and snatching the young man’s sword from his hand, before he had
+aside, and snatching the young man’s [[Sword|sword]] from his hand, before he had
 recovered his balance, drove him to the wall, and running it through
 him, and the panelling, up to the very hilt, pinned him there, hard and
 fast. It was a splendid example. My uncle, with a loud shout of triumph,
@@ -33133,7 +33134,7 @@ about in agony, like the toy-shop figures that are moved by a piece of
 pack-thread. My uncle always said, afterwards, that this was one of the
 surest means he knew of, for disposing of an enemy; but it was liable to
 one objection on the ground of expense, inasmuch as it involved the loss
-of a sword for every man disabled.
+of a [[Sword|sword]] for every man disabled.
 
 ‘“The mail, the mail!” cried the lady, running up to my uncle and
 throwing her beautiful arms round his neck; “we may yet escape.”
@@ -33165,7 +33166,7 @@ assistance. If their accomplices find us here, we are lost. Two minutes
 hence may be too late. The mail!” With these words, overpowered by her
 feelings, and the exertion of sticking the young Marquess of
 Filletoville, she sank into my uncle’s arms. My uncle caught her up, and
-bore her to the house door. There stood the mail, with four long-tailed,
+bore her to the [[house]] door. There stood the mail, with four long-tailed,
 flowing-maned, black horses, ready harnessed; but no coachman, no guard,
 no hostler even, at the horses’ heads.
 
@@ -33260,7 +33261,7 @@ English miles an hour, with the old mail-coach behind them. Whew! How
 they tore along!
 
 ‘The noise behind grew louder. The faster the old mail went, the faster
-came the pursuers--men, horses, dogs, were leagued in the pursuit. The
+came the pursuers--men, horses, [[dogs]], were leagued in the pursuit. The
 noise was frightful, but, above all, [[motifs/rose|rose]] the voice of the young lady,
 urging my uncle on, and shrieking, “Faster! Faster!”
 
@@ -33303,13 +33304,13 @@ attention.
 
 
 
-CHAPTER L. HOW MR. PICKWICK SPED UPON HIS MISSION, AND HOW HE WAS
+CHAPTER L. HOW MR. [[Pickwick|PICKWICK]] SPED UPON HIS MISSION, AND HOW HE WAS
 REINFORCED IN THE OUTSET BY A MOST UNEXPECTED AUXILIARY
 
 The horses were put to, punctually at a quarter before nine next
 morning, and Mr. [[works/pickwick-(chesterton)|Pickwick]] and [[characters/sam-weller|Sam Weller]] having each taken his seat, the
 one inside and the other out, the postillion was duly directed to repair
-in the first instance to Mr. Bob Sawyer’s house, for the purpose of
+in the first instance to Mr. Bob Sawyer’s [[house]], for the purpose of
 taking up Mr. Benjamin Allen.
 
 It was with feelings of no small astonishment, when the carriage drew up
@@ -33376,7 +33377,7 @@ drugs, and not able to increase my account just now, I should have been
 obliged to give them calomel all round, and it would have been certain
 to have disagreed with some of them. So it’s all for the best.’
 
-There was a philosophy and a strength of reasoning about this reply,
+There was a [[philosophy]] and a strength of reasoning about this reply,
 which Mr. [[works/pickwick-(chesterton)|Pickwick]] was not prepared for. He paused a few moments, and
 added, less firmly than before--
 
@@ -33400,7 +33401,7 @@ wafered the bill on the street door, locked it, put the key in his
 pocket, jumped into the dickey, gave the word for starting, and did the
 whole with such extraordinary precipitation, that before Mr. [[works/pickwick-(chesterton)|Pickwick]]
 had [[motifs/well|well]] begun to consider whether Mr. Bob Sawyer ought to go or not,
-they were rolling away, with Mr. Bob Sawyer thoroughly established as
+they were [[rolling]] away, with Mr. Bob Sawyer thoroughly established as
 part and parcel of the equipage.
 
 So long as their progress was confined to the streets of Bristol, the
@@ -33412,7 +33413,7 @@ entertainment of Mr. Samuel Weller. But when they emerged on the open
 performed a great variety of practical jokes, which were calculated to
 attract the attention of the passersby, and to render the carriage and
 those it contained objects of more than ordinary curiosity; the least
-conspicuous among these feats being a most vociferous imitation of a
+conspicuous among these feats being a most vociferous [[Imitation|imitation]] of a
 key-bugle, and the ostentatious display of a crimson silk pocket-
 handkerchief attached to a walking-stick, which was occasionally waved
 in the air with various gestures indicative of supremacy and defiance.
@@ -33443,7 +33444,7 @@ absurdities in that dickey behind.’
 ‘Oh dear, no,’ replied Ben Allen. ‘Except when he’s elevated, Bob’s the
 quietest creature breathing.’
 
-Here a prolonged imitation of a key-bugle broke upon the ear, succeeded
+Here a prolonged [[Imitation|imitation]] of a key-bugle broke upon the ear, succeeded
 by cheers and screams, all of which evidently proceeded from the throat
 and lungs of the quietest creature breathing, or in plainer designation,
 of Mr. Bob Sawyer himself.
@@ -33629,7 +33630,7 @@ Lunch for three, directly; and keep the horses back for a quarter of an
 hour. Tell them to put everything they have cold, on the table, and some
 bottled ale, and let us taste your very best Madeira.’ Issuing these
 orders with monstrous importance and bustle, Mr. Bob Sawyer at once
-hurried into the house to superintend the arrangements; in less than
+hurried into the [[house]] to superintend the arrangements; in less than
 five minutes he returned and declared them to be excellent.
 
 
@@ -33667,7 +33668,7 @@ their rapid approach to the great working town of Birmingham.
 As they rattled through the narrow thoroughfares leading to the heart of
 the turmoil, the sights and sounds of earnest occupation struck more
 forcibly on the senses. The streets were thronged with working people.
-The hum of labour resounded from every house; lights gleamed from the
+The hum of labour resounded from every [[house]]; lights gleamed from the
 long casement windows in the attic storeys, and the whirl of wheels and
 noise of machinery shook the trembling walls. The fires, whose lurid,
 sullen light had been visible for miles, blazed fiercely up, in the
@@ -33760,10 +33761,10 @@ along.
 
 
 About a quarter of a mile off, in a quiet, substantial-looking street,
-stood an old red brick house with three steps before the door, and a
+stood an old red brick [[house]] with three steps before the door, and a
 brass plate upon it, bearing, in fat Roman capitals, the words, ‘Mr.
 Winkle.’ The steps were very white, and the bricks were very red, and
-the house was very clean; and here stood Mr. [[works/pickwick-(chesterton)|Pickwick]], Mr. Benjamin
+the [[house]] was very clean; and here stood Mr. [[works/pickwick-(chesterton)|Pickwick]], Mr. Benjamin
 Allen, and Mr. Bob Sawyer, as the [[motifs/clock|clock]] struck ten.
 
 A smart servant-girl answered the knock, and started on beholding the
@@ -33867,7 +33868,7 @@ presenting it to Mr. Winkle, senior, said--
 on your favourable and fatherly consideration of it, depend his future
 happiness and welfare. Will you oblige me by giving it the calmest and
 coolest perusal, and by discussing the subject afterwards with me, in
-the tone and spirit in which alone it ought to be discussed? You may
+the tone and spirit in which [[Alone|alone]] it ought to be discussed? You may
 judge of the importance of your decision to your son, and his intense
 anxiety upon the subject, by my waiting upon you, without any previous
 warning, at so late an hour; and,’ added Mr. [[works/pickwick-(chesterton)|Pickwick]], glancing slightly
@@ -33934,7 +33935,7 @@ He read the letter to the last word, folded it again with all the
 carefulness and precision of a man of business, and, just when Mr.
 [[works/pickwick-(chesterton)|Pickwick]] expected some great outbreak of feeling, dipped a pen in the
 ink-stand, and said, as quietly as if he were speaking on the most
-ordinary counting-house topic--
+ordinary counting-[[house]] topic--
 
 ‘What is Nathaniel’s address, Mr. [[works/pickwick-(chesterton)|Pickwick]]?’
 
@@ -34022,7 +34023,7 @@ never have waited upon him, on such an errand.
 
 
 
-CHAPTER LI. IN WHICH MR. PICKWICK ENCOUNTERS AN OLD ACQUAINTANCE--TO
+CHAPTER LI. IN WHICH MR. [[Pickwick|PICKWICK]] ENCOUNTERS AN OLD ACQUAINTANCE--TO
 WHICH FORTUNATE CIRCUMSTANCE THE READER IS MAINLY INDEBTED FOR MATTER OF
 THRILLING INTEREST HEREIN SET DOWN, CONCERNING TWO GREAT PUBLIC MEN OF
 MIGHT AND POWER
@@ -34035,7 +34036,7 @@ and sloppy. The smoke hung sluggishly above the chimney-tops as if it
 lacked the [[concepts/courage|courage]] to rise, and the rain came slowly and doggedly down,
 as if it had not even the spirit to pour. A game-cock in the stableyard,
 deprived of every spark of his accustomed animation, balanced himself
-dismally on one leg in a corner; a donkey, moping with drooping head
+dismally on one leg in a corner; a [[donkey]], moping with drooping head
 under the narrow roof of an outhouse, appeared from his meditative and
 miserable countenance to be contemplating [[concepts/suicide|suicide]]. In the street,
 umbrellas were the only things to be seen, and the clicking of pattens
@@ -34115,9 +34116,9 @@ a dead postboy, did you?’ inquired Sam, pursuing his catechism.
 ‘No,’ rejoined Bob, ‘I never did.’
 
 ‘No!’ rejoined Sam triumphantly. ‘Nor never vill; and there’s another
-thing that no man never see, and that’s a dead donkey. No man never see
-a dead donkey ‘cept the gen’l’m’n in the black silk smalls as know’d the
-young ‘ooman as kep’ a goat; and that wos a French donkey, so wery
+thing that no man never see, and that’s a dead [[donkey]]. No man never see
+a dead [[donkey]] ‘cept the gen’l’m’n in the black silk smalls as know’d the
+young ‘ooman as kep’ a goat; and that wos a French [[donkey]], so wery
 likely he warn’t wun o’ the reg’lar breed.’
 
 ‘[[motifs/well|Well]], what has that got to do with the postboys?’ asked Bob Sawyer.
@@ -34128,7 +34129,7 @@ I say is this: that wenever they feels theirselves gettin’ stiff and
 past their work, they just rides off together, wun postboy to a pair in
 the usual way; wot becomes on ‘em nobody knows, but it’s wery probable
 as they starts avay to take their pleasure in some other vorld, for
-there ain’t a man alive as ever see either a donkey or a postboy a-
+there ain’t a man alive as ever see either a [[donkey]] or a postboy a-
 takin’ his pleasure in this!’
 
 
@@ -34548,7 +34549,7 @@ anywhere?’
 Slurk. ‘Is there anybody in the kitchen?’
 
 Not a [[motifs/soul|soul]]. There was a beautiful [[motifs/fire|fire]]. Everybody had gone, and the
-house door was closed for the [[motifs/night|night]].
+[[house]] door was closed for the [[motifs/night|night]].
 
 ‘I will drink my rum-and-[[motifs/water|water]],’ said Mr. Slurk, ‘by the kitchen [[motifs/fire|fire]].’
 So, gathering up his hat and newspaper, he stalked solemnly behind the
@@ -34882,7 +34883,7 @@ once more, and, appearing to form a clear notion of its contents for the
 first [[motifs/time|time]], ejaculated thoughtfully, as he folded it up--
 
 ‘And so the poor creetur’s dead! I’m sorry for it. She warn’t a bad-
-disposed ‘ooman, if them shepherds had let her alone. I’m wery sorry for
+disposed ‘ooman, if them shepherds had let her [[Alone|alone]]. I’m wery sorry for
 it.’
 
 Mr. Weller uttered these words in so serious a manner, that the pretty
@@ -35103,7 +35104,7 @@ This hint was not lost upon the buxom female; for she at once left the
 room, and slammed the door behind her, upon which Mr. Weller, senior,
 falling back in his chair in a violent perspiration, said--
 
-‘Sammy, if I wos to stop here alone vun week--only vun week, my boy--
+‘Sammy, if I wos to stop here [[Alone|alone]] vun week--only vun week, my boy--
 that ‘ere ‘ooman ‘ud marry me by force and wiolence afore it was over.’
 
 ‘Wot! is she so wery fond on you?’ inquired Sam.
@@ -35116,7 +35117,7 @@ to get at me, Sammy.’
 
 ‘I don’t take no [[concepts/pride|pride]] out on it, Sammy,’ replied Mr. Weller, poking the
 [[motifs/fire|fire]] vehemently, ‘it’s a horrid sitiwation. I’m actiwally drove out o’
-house and [[motifs/home|home]] by it. The breath was scarcely out o’ your poor mother-
+[[house]] and [[motifs/home|home]] by it. The breath was scarcely out o’ your poor mother-
 in-law’s [[concepts/body|body]], ven vun old ‘ooman sends me a pot o’ jam, and another a
 pot o’ jelly, and another brews a blessed large jug o’ camomile-tea,
 vich she brings in vith her own hands.’ Mr. Weller paused with an aspect
@@ -35280,7 +35281,7 @@ closer to Sam, ‘whether she has left Emanuel anything?’
 ‘The chapel,’ replied Mr. Stiggins; ‘our chapel; our fold, Mr. Samuel.’
 
 ‘She hasn’t left the fold nothin’, nor the shepherd nothin’, nor the
-[[motifs/animals|animals]] nothin’,’ said Sam decisively; ‘nor the dogs neither.’
+[[motifs/animals|animals]] nothin’,’ said Sam decisively; ‘nor the [[dogs]] neither.’
 
 Mr. Stiggins looked slily at Sam; glanced at the old gentleman, who was
 sitting with his eyes closed, as if asleep; and drawing his chair still
@@ -35434,9 +35435,9 @@ o’[[motifs/clock|clock]] gentlemen falling into a pace of most aristocratic sl
 [[motifs/clock|clock]] struck ten, and clerks poured in faster than ever, each one in a
 greater perspiration than his predecessor. The noise of unlocking and
 opening doors echoed and re-echoed on every side; heads appeared as if
-by magic in every [[motifs/window|window]]; the porters took up their stations for the
-day; the slipshod laundresses hurried off; the postman ran from house to
-house; and the whole legal hive was in a bustle.
+by [[Magic|magic]] in every [[motifs/window|window]]; the porters took up their stations for the
+day; the slipshod laundresses hurried off; the postman ran from [[house]] to
+[[house]]; and the whole legal hive was in a bustle.
 
 ‘You’re early, Mr. [[works/pickwick-(chesterton)|Pickwick]],’ said a voice behind him.
 
@@ -35495,7 +35496,7 @@ about getting him to Demerara.’
 
 ‘Oh, Mr. Jingle,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]] hastily. ‘Yes. [[motifs/well|Well]]?’
 
-‘[[motifs/well|Well]], it’s all arranged,’ said Lowten, mending his pen. ‘The agent at
+‘[[motifs/well|Well]], it’s all arranged,’ said Lowten, [[mending]] his pen. ‘The agent at
 Liverpool said he had been obliged to you many times when you were in
 business, and he would be glad to take him on your recommendation.’
 
@@ -35647,7 +35648,7 @@ of a serious [[concepts/nature|nature]], and he never was. He emigrated to [[set
 consequence of being too much sought after here, to be comfortable; and
 has never been heard of since.’
 
-‘That accounts for my not having received the “page from the romance of
+‘That accounts for my not having received the “page from the [[Romance|romance]] of
 real life,” which he promised me one morning when he appeared to be
 contemplating [[concepts/suicide|suicide]] on Rochester Bridge, I suppose,’ said Mr.
 [[works/pickwick-(chesterton)|Pickwick]], smiling. ‘I need not inquire whether his dismal behaviour was
@@ -35668,7 +35669,7 @@ it. Deliver this letter to the agent when you reach Liverpool, and let
 me advise you, gentlemen, not to be too knowing in the West Indies. If
 you throw away this chance, you will both richly deserve to be hanged,
 as I sincerely trust you will be. And now you had better leave Mr.
-[[works/pickwick-(chesterton)|Pickwick]] and me alone, for we have other matters to talk over, and [[motifs/time|time]]
+[[works/pickwick-(chesterton)|Pickwick]] and me [[Alone|alone]], for we have other matters to talk over, and [[motifs/time|time]]
 is precious.’ As Perker said this, he looked towards the door, with an
 evident [[motifs/desire|desire]] to render the leave-taking as brief as possible.
 
@@ -35710,7 +35711,7 @@ obstinacy.
 ‘Do you think he will come round?’ inquired Mr. [[works/pickwick-(chesterton)|Pickwick]].
 
 ‘I think he will,’ rejoined Perker. ‘If not, we must try the young
-lady’s persuasion; and that is what anybody but you would have done at
+lady’s [[Persuasion|persuasion]]; and that is what anybody but you would have done at
 first.’
 
 Mr. Perker was taking a pinch of snuff with various [[concepts/grotesque|grotesque]]
@@ -35786,7 +35787,7 @@ laughed together--pleasantly and cheerfully, as men who are going to
 receive money often do.
 
 ‘We shall make Mr. [[works/pickwick-(chesterton)|Pickwick]] pay for peeping,’ said Fogg, with
-considerable native humour, as he unfolded his papers. ‘The amount of
+considerable native [[Humour|humour]], as he unfolded his papers. ‘The amount of
 the taxed costs is one hundred and thirty-three, six, four, Mr. Perker.’
 
 There was a great comparing of papers, and turning over of [[motifs/leaves|leaves]], by
@@ -36207,7 +36208,7 @@ comes at once. The long and the short of it is, then, that Bella at last
 mustered up [[concepts/courage|courage]] to tell me that Emily was very unhappy; that she and
 your young friend Snodgrass had been in constant correspondence and
 communication ever since last Christmas; that she had very dutifully
-made up her mind to run away with him, in laudable imitation of her old
+made up her mind to run away with him, in laudable [[Imitation|imitation]] of her old
 friend and school-fellow; but that having some compunctions of
 [[concepts/conscience|conscience]] on the subject, inasmuch as I had always been rather kindly
 disposed to both of them, they had thought it better in the first
@@ -36525,7 +36526,7 @@ Mr. Snodgrass took his final adieu. The ladies ran to Emily’s bedroom to
 dress, and the [[archetypes/lover|lover]], taking up his hat, walked out of the room. He had
 scarcely got outside the door, when he heard Wardle’s voice talking
 loudly, and looking over the banisters beheld him, followed by some
-other gentlemen, coming straight upstairs. Knowing nothing of the house,
+other gentlemen, coming straight upstairs. Knowing nothing of the [[house]],
 Mr. Snodgrass in his confusion stepped hastily back into the room he had
 just quitted, and passing thence into an inner apartment (Mr. Wardle’s
 bedchamber), closed the door softly, just as the persons he had caught a
@@ -36590,7 +36591,7 @@ hearty caress and congratulation. ‘You are a hard-hearted, unfeeling,
 cruel [[archetypes/monster|monster]].’
 
 ‘You are a little [[archetypes/rebel|rebel]],’ replied Wardle, in the same tone, ‘and I am
-afraid I shall be obliged to forbid you the house. People like you, who
+afraid I shall be obliged to forbid you the [[house]]. People like you, who
 get married in spite of everybody, ought not to be let loose on society.
 But come!’ added the old gentleman aloud, ‘here’s the dinner; you shall
 sit by me. Joe; why, damn the boy, he’s awake!’
@@ -36671,7 +36672,7 @@ Wardle and Mr. Ben Allen exchanged glances.
 The fat boy looked hopelessly in the face of everybody at table, and
 stammered out that he didn’t know.
 
-‘Oh,’ said Wardle, ‘you don’t know, eh? Take this cheese to Mr.
+‘Oh,’ said Wardle, ‘you don’t know, eh? Take this [[cheese]] to Mr.
 [[works/pickwick-(chesterton)|Pickwick]].’
 
 Now, Mr. [[works/pickwick-(chesterton)|Pickwick]] being in the very best health and spirits, had been
@@ -36679,7 +36680,7 @@ making himself perfectly delightful all dinner-[[motifs/time|time]], and was at 
 moment engaged in an energetic conversation with Emily and Mr. Winkle;
 bowing his head, courteously, in the emphasis of his discourse, gently
 waving his left hand to lend force to his observations, and all glowing
-with placid smiles. He took a piece of cheese from the plate, and was on
+with placid smiles. He took a piece of [[cheese]] from the plate, and was on
 the point of turning round to renew the conversation, when the fat boy,
 stooping so as to bring his head on a level with that of Mr. [[works/pickwick-(chesterton)|Pickwick]],
 pointed with his thumb over his shoulder, and made the most horrible and
@@ -36756,7 +36757,7 @@ sake, explain it!’
 
 Mr. Snodgrass, who had only waited for a hearing, at once recounted how
 he had been placed in his then distressing predicament; how the [[concepts/fear|fear]] of
-giving rise to domestic dissensions had alone prompted him to avoid Mr.
+giving rise to domestic dissensions had [[Alone|alone]] prompted him to avoid Mr.
 Wardle on his entrance; how he merely meant to depart by another door,
 but, finding it locked, had been compelled to stay against his will. It
 was a painful situation to be placed in; but he now regretted it the
@@ -36801,9 +36802,9 @@ drew his chair next Emily, without the smallest opposition on the old
 gentleman’s part.
 
 The evening was excellent. Little Mr. Perker came out wonderfully, told
-various comic stories, and sang a serious song which was almost as funny
+various comic stories, and sang a serious [[Song|song]] which was almost as funny
 as the anecdotes. Arabella was very charming, Mr. Wardle very jovial,
-Mr. [[works/pickwick-(chesterton)|Pickwick]] very harmonious, Mr. Ben Allen very uproarious, the lovers
+Mr. [[works/pickwick-(chesterton)|Pickwick]] very harmonious, Mr. Ben Allen very uproarious, the [[lovers]]
 very silent, Mr. Winkle very talkative, and all of them very happy.
 
 
@@ -36845,7 +36846,7 @@ confusion.
 little black tea-pot, on the top shelf o’ the bar closet. She used to
 keep bank-notes there, ‘fore she vos married, Samivel. I’ve seen her
 take the lid off, to pay a bill, many and many a [[motifs/time|time]]. Poor creetur, she
-might ha’ filled all the tea-pots in the house vith vills, and not have
+might ha’ filled all the tea-pots in the [[house]] vith vills, and not have
 inconwenienced herself neither, for she took wery little of anythin’ in
 that vay lately, ‘cept on the temperance nights, ven they just laid a
 foundation o’ tea to put the spirits atop on!’
@@ -36864,7 +36865,7 @@ satisfactory to you and me as is the only parties interested, ve may as
 vell put this bit o’ paper into the [[motifs/fire|fire]].’
 
 ‘Wot are you a-doin’ on, you lunatic?’ said Sam, snatching the paper
-away, as his parent, in all innocence, stirred the [[motifs/fire|fire]] preparatory to
+away, as his parent, in all [[innocence]], stirred the [[motifs/fire|fire]] preparatory to
 suiting the action to the word. ‘You’re a nice eggzekiter, you are.’
 
 ‘Vy not?’ inquired Mr. Weller, looking sternly round, with the poker in
@@ -36933,7 +36934,7 @@ In pursuance of this notable resolution, the services of the mottled-
 faced gentleman and of two other very fat coachmen--selected by Mr.
 Weller, probably, with a view to their width and consequent wisdom--were
 put into requisition; and this assistance having been secured, the party
-proceeded to the public-house in Portugal Street, whence a messenger was
+proceeded to the public-[[house]] in Portugal Street, whence a messenger was
 despatched to the Insolvent [[settings/court|Court]] over the way, requiring Mr. Solomon
 Pell’s immediate attendance.
 
@@ -36959,7 +36960,7 @@ in the world, that I’d have come out of that [[settings/court|court]] for, to-
 
 ‘Busy!’ replied Pell; ‘I’m completely sewn up, as my friend the late
 Lord Chancellor many a [[motifs/time|time]] used to say to me, gentlemen, when he came
-out from hearing appeals in the House of Lords. Poor fellow; he was very
+out from hearing appeals in the [[house|House]] of Lords. Poor fellow; he was very
 susceptible to fatigue; he used to feel those appeals uncommonly. I
 actually thought more than once that he’d have sunk under ‘em; I did,
 indeed.’
@@ -37156,7 +37157,7 @@ Here Mr. Samuel Weller, who had silently eaten his oysters with tranquil
 smiles, cried, ‘Hear!’ in a very loud voice.
 
 ‘--Has vispered to me,’ resumed his father, ‘that it vould be better to
-dewote the liquor to vishin’ you success and prosperity, and thankin’
+dewote the liquor to vishin’ you [[success]] and prosperity, and thankin’
 you for the manner in which you’ve brought this here business through.
 Here’s your health, sir.’
 
@@ -37203,13 +37204,13 @@ settled the bill, and, issuing forth, the executor, legatee, attorney,
 and umpires, directed their steps towards the [[motifs/city|city]].
 
 The office of Wilkins Flasher, Esquire, of the Stock Exchange, was in a
-first floor up a [[settings/court|court]] behind the Bank of England; the house of Wilkins
+first floor up a [[settings/court|court]] behind the Bank of England; the [[house]] of Wilkins
 Flasher, Esquire, was at Brixton, Surrey; the [[motifs/horse|horse]] and stanhope of
 Wilkins Flasher, Esquire, were at an adjacent livery stable; the groom
 of Wilkins Flasher, Esquire, was on his way to the West End to deliver
 some game; the clerk of Wilkins Flasher, Esquire, had gone to his
 dinner; and so Wilkins Flasher, Esquire, himself, cried, ‘Come in,’ when
-Mr. Pell and his companions knocked at the counting-house door.
+Mr. Pell and his companions knocked at the counting-[[house]] door.
 
 ‘Good-morning, Sir,’ said Pell, bowing obsequiously. ‘We want to make a
 little transfer, if you please.’
@@ -37235,7 +37236,7 @@ ruler. Wilkins Flasher, Esquire, was balancing himself on two legs of an
 office stool, spearing a wafer-box with a penknife, which he dropped
 every now and then with great dexterity into the very centre of a small
 red wafer that was stuck outside. Both gentlemen had very open
-waistcoats and very rolling collars, and very small boots, and very big
+waistcoats and very [[rolling]] collars, and very small boots, and very big
 rings, and very little watches, and very large guard-[[motifs/chains|chains]], and
 symmetrical inexpressibles, and scented pocket-handkerchiefs.
 
@@ -37252,7 +37253,7 @@ gentleman entered it also, in another little book with another gold
 pencil-case.
 
 ‘I see there’s a notice up this morning about Boffer,’ observed Mr.
-Simmery. ‘Poor devil, he’s expelled the house!’
+Simmery. ‘Poor devil, he’s expelled the [[house]]!’
 
 ‘I’ll bet you ten guineas to five, he cuts his throat,’ said Wilkins
 Flasher, Esquire.
@@ -37373,7 +37374,7 @@ ate three Ribstone pippins while it was performing.
 As the elder Mr. Weller insisted on selling out his portion forthwith,
 they proceeded from the bank to the gate of the Stock Exchange, to which
 Wilkins Flasher, Esquire, after a short absence, returned with a cheque
-on Smith, Payne, & Smith, for five hundred and thirty pounds; that being
+on [[smith|Smith]], Payne, & [[smith|Smith]], for five hundred and thirty pounds; that being
 the money to which Mr. Weller, at the market price of the day, was
 entitled, in consideration of the balance of the second Mrs. Weller’s
 funded savings. Sam’s two hundred pounds stood transferred to his name,
@@ -37386,7 +37387,7 @@ nothing but sovereigns; but it being represented by the umpires that by
 so doing he must incur the expense of a small sack to carry them [[motifs/home|home]]
 in, he consented to receive the amount in five-pound notes.
 
-‘My son,’ said Mr. Weller, as they came out of the banking-house--‘my
+‘My son,’ said Mr. Weller, as they came out of the banking-[[house]]--‘my
 son and me has a wery partickler engagement this arternoon, and I should
 like to have this here bis’ness settled out of hand, so let’s jest go
 straight avay someveres, vere ve can hordit the accounts.’
@@ -37402,7 +37403,7 @@ afterwards.
 The umpires having partaken of a dram, shook hands and departed, as they
 had to drive out of town that [[motifs/night|night]]. Mr. Solomon Pell, finding that
 nothing more was going forward, either in the eating or drinking way,
-took a friendly leave, and Sam and his father were left alone.
+took a friendly leave, and Sam and his father were left [[Alone|alone]].
 
 ‘There!’ said Mr. Weller, thrusting his pocket-book in his side pocket.
 ‘Vith the bills for the lease, and that, there’s eleven hundred and
@@ -37411,11 +37412,11 @@ George and Wulter!’
 
 
 
-CHAPTER LVI. AN IMPORTANT CONFERENCE TAKES PLACE BETWEEN MR. PICKWICK
+CHAPTER LVI. AN IMPORTANT CONFERENCE TAKES PLACE BETWEEN MR. [[Pickwick|PICKWICK]]
 AND SAMUEL WELLER, AT WHICH HIS PARENT ASSISTS--AN OLD GENTLEMAN IN A
 SNUFF-COLOURED SUIT ARRIVES UNEXPECTEDLY
 
-Mr. [[works/pickwick-(chesterton)|Pickwick]] was sitting alone, musing over many things, and thinking
+Mr. [[works/pickwick-(chesterton)|Pickwick]] was sitting [[Alone|alone]], musing over many things, and thinking
 among other considerations how he could best provide for the young
 couple whose present unsettled condition was matter of constant regret
 and anxiety to him, when Mary stepped lightly into the room, and,
@@ -37543,7 +37544,7 @@ Sam; ‘five hundred and thirty pounds is the sum, ain’t it?’
 
 ‘All right, Samivel,’ replied Mr. Weller.
 
-‘To vich sum, he has added for the house and bisness--’
+‘To vich sum, he has added for the [[house]] and bisness--’
 
 ‘Lease, good-vill, stock, and fixters,’ interposed Mr. Weller.
 
@@ -37645,7 +37646,7 @@ course you can, sir.’
 his desk; ‘I am heartily obliged to you, my good friend. Now sit down
 again. I want to ask your advice.’
 
-The internal laughter occasioned by the triumphant success of his visit,
+The internal laughter occasioned by the triumphant [[success]] of his visit,
 which had convulsed not only Mr. Weller’s face, but his arms, legs, and
 [[concepts/body|body]] also, during the locking up of the pocket-book, suddenly gave place
 to the most dignified gravity as he heard these words.
@@ -37846,7 +37847,7 @@ securing a bed for the [[motifs/night|night]], inquired of the waiter whether on
 Winkle was staying there, to which question the waiter of course
 responded in the affirmative.
 
-‘Is she alone?’ inquired the old gentleman.
+‘Is she [[Alone|alone]]?’ inquired the old gentleman.
 
 ‘I believe she is, Sir,’ replied the waiter; ‘I can call her own maid,
 Sir, if you--’
@@ -37955,7 +37956,7 @@ call disinterested affection, till they have boys and girls of their
 own, and then they see it in a rougher and very different light!’
 
 Arabella’s [[motifs/tears|tears]] flowed fast, as she pleaded in extenuation that she was
-young and inexperienced; that her attachment had alone induced her to
+young and inexperienced; that her attachment had [[Alone|alone]] induced her to
 take the step to which she had resorted; and that she had been deprived
 of the counsel and guidance of her parents almost from infancy.
 
@@ -38056,7 +38057,7 @@ After which, he walked [[motifs/home|home]], whistling.
 
 
 
-CHAPTER LVII. IN WHICH THE PICKWICK CLUB IS FINALLY DISSOLVED, AND
+CHAPTER LVII. IN WHICH THE [[Pickwick|PICKWICK]] CLUB IS FINALLY DISSOLVED, AND
 EVERYTHING CONCLUDED TO THE SATISFACTION OF EVERYBODY
 
 For a whole week after the happy arrival of Mr. Winkle from Birmingham,
@@ -38104,7 +38105,7 @@ mean the [[motifs/marriage|marriage]] that _has _taken place, and the [[motifs/m
 take place, with the changes they involve, rendered it necessary for me
 to think, soberly and at once, upon my future plans. I determined on
 retiring to some quiet, pretty neighbourhood in the vicinity of [[settings/london|London]];
-I saw a house which exactly suited my fancy; I have taken it and
+I saw a [[house]] which exactly suited my fancy; I have taken it and
 furnished it. It is fully prepared for my reception, and I intend
 entering upon it at once, trusting that I may yet live to spend many
 quiet years in peaceful retirement, cheered through life by the society
@@ -38112,7 +38113,7 @@ of my friends, and followed in [[motifs/death|death]] by their affectionate reme
 
 Here Mr. [[works/pickwick-(chesterton)|Pickwick]] paused, and a low murmur ran round the table.
 
-‘The house I have taken,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], ‘is at Dulwich. It has a
+‘The [[house]] I have taken,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], ‘is at Dulwich. It has a
 large [[motifs/garden|garden]], and is situated in one of the most pleasant spots near
 [[settings/london|London]]. It has been fitted up with every attention to substantial
 comfort; perhaps to a little elegance besides; but of that you shall
@@ -38121,7 +38122,7 @@ Perker’s representation, a housekeeper--a very old one--and such other
 servants as she thinks I shall require. I propose to consecrate this
 little retreat, by having a ceremony in which I take a great interest,
 performed there. I wish, if my friend Wardle entertains no objection,
-that his daughter should be married from my new house, on the day I take
+that his daughter should be married from my new [[house]], on the day I take
 possession of it. The happiness of young people,’ said Mr. [[works/pickwick-(chesterton)|Pickwick]], a
 little moved, ‘has ever been the chief pleasure of my life. It will warm
 my heart to witness the happiness of those friends who are dearest to
@@ -38208,7 +38209,7 @@ themselves to the admiration of all beholders.
 How the two poor relations ever reached [[settings/london|London]]--whether they walked, or
 got behind coaches, or procured lifts in wagons, or carried each other
 by turns--is uncertain; but there they were, before Wardle; and the very
-first people that knocked at the door of Mr. [[works/pickwick-(chesterton)|Pickwick]]’s house, on the
+first people that knocked at the door of Mr. [[works/pickwick-(chesterton)|Pickwick]]’s [[house]], on the
 bridal morning, were the two poor relations, all smiles and shirt
 collar.
 
@@ -38217,7 +38218,7 @@ influence on Mr. [[works/pickwick-(chesterton)|Pickwick]]; the new servants were
 readiness; Sam was in a most unrivalled state of high spirits and
 excitement; Mary was glowing with [[concepts/beauty|beauty]] and smart ribands.
 
-The bridegroom, who had been staying at the house for two or three days
+The bridegroom, who had been staying at the [[house]] for two or three days
 previous, sallied forth gallantly to Dulwich Church to meet the bride,
 attended by Mr. [[works/pickwick-(chesterton)|Pickwick]], Ben Allen, Bob Sawyer, and Mr. Tupman; with
 [[characters/sam-weller|Sam Weller]] outside, having at his button-hole a white favour, the gift
@@ -38278,7 +38279,7 @@ few biographical words, in relation to the party at Mr. [[works/pickwick-(cheste
 assembled.
 
 Mr. and Mrs. Winkle, being fully received into favour by the old
-gentleman, were shortly afterwards installed in a newly-built house, not
+gentleman, were shortly afterwards installed in a newly-built [[house]], not
 half a mile from Mr. [[works/pickwick-(chesterton)|Pickwick]]’s. Mr. Winkle, being engaged in the [[motifs/city|city]]
 as agent or town correspondent of his father, exchanged his old costume
 for the ordinary dress of Englishmen, and presented all the external
@@ -38327,11 +38328,11 @@ The elder Mr. Weller drove a coach for twelve months, but being
 afflicted with the gout, was compelled to retire. The contents of the
 pocket-book had been so [[motifs/well|well]] invested for him, however, by Mr. [[works/pickwick-(chesterton)|Pickwick]],
 that he had a handsome independence to retire on, upon which he still
-lives at an excellent public-house near Shooter’s [[motifs/hill|Hill]], where he is
+lives at an excellent public-[[house]] near Shooter’s [[motifs/hill|Hill]], where he is
 quite reverenced as an oracle, boasting very much of his intimacy with
 Mr. [[works/pickwick-(chesterton)|Pickwick]], and retaining a most unconquerable aversion to widows.
 
-Mr. [[works/pickwick-(chesterton)|Pickwick]] himself continued to reside in his new house, employing his
+Mr. [[works/pickwick-(chesterton)|Pickwick]] himself continued to reside in his new [[house]], employing his
 leisure hours in arranging the memoranda which he afterwards presented
 to the secretary of the once famous club, or in hearing [[characters/sam-weller|Sam Weller]] read
 aloud, with such remarks as suggested themselves to his mind, which

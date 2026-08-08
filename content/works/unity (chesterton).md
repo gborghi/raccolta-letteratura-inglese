@@ -42,7 +42,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
+**Archetypes:** Martyr Saint
 
 **Settings:** [[settings/solomon-islands|Solomon Islands]]
 
@@ -50,7 +50,7 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[characters/isaiah-bunter|Isaiah Bunter]]
+**Characters:** Isaiah Bunter
 
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/faith|Faith]], [[concepts/martyrdom|Martyrdom]], [[concepts/union|Union]], [[concepts/fanaticism|Fanaticism]], [[concepts/paradox|Paradox]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/ballad-ballade|Ballad Ballade]], [[forms/epigram|Epigram]], [[forms/comic-verse-song|Comic Verse Song]]

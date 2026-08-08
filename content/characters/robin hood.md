@@ -20,8 +20,8 @@ tags:
 - [[works/wild-ducks-(chesterton)|Wild Ducks (Chesterton)]]
 - [[works/penny-dreadfuls-(chesterton)|penny-dreadfuls (Chesterton)]]
 - [[works/shop-of-ghosts-(chesterton)|shop-of-ghosts (Chesterton)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#037_lines_on_the_mermaid_tavern|LINES ON THE MERMAID TAVERN (Keats)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#038_robin_hood|ROBIN HOOD (Keats)]]
+- [[works/lines-on-the-mermaid-tavern-(keats)|LINES ON THE MERMAID TAVERN (Keats)]]
+- [[works/robin-hood-(keats)|ROBIN HOOD (Keats)]]
 
 </div>
 

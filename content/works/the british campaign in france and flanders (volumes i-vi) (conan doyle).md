@@ -41,5 +41,5 @@ tags:
 **Motifs:** [[motifs/blood|Blood]], [[motifs/flags-and-banners|Flags and Banners]]
 **Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/british-empire|British Empire]], [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]]
 **Settings:** [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]], [[settings/battlefield|Battlefield]], [[settings/france|France]], [[settings/europe|Europe]]
-**Archetypes:** [[archetypes/hero|Hero]]
+**Archetypes:** Hero
 **Topoi:** [[topoi/war-as-glory|War as Glory]], [[topoi/last-stand|Last Stand]]

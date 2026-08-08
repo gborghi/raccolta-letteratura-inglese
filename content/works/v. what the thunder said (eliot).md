@@ -29,7 +29,7 @@ tags:
 **Motifs:** [[motifs/water|Water]], [[motifs/road|Road]], [[motifs/storm|Storm]]
 **Themes & Concepts:** [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/grace-and-redemption|Grace and Redemption]]
 **Historical References:** [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/grail-legend|Grail Legend]]
-**Characters:** [[characters/christ|Christ]]
+**Characters:** Christ
 
 ## Testo integrale / Full text
 

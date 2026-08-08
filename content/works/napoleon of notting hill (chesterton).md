@@ -70,12 +70,12 @@ tags:
 **Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/poet-as-prophet|Poet as Prophet]], [[topoi/last-stand|Last Stand]]
-**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/king|King]], [[archetypes/hero|Hero]], [[archetypes/rebel|Rebel]], [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/double-doppelganger|Double Doppelganger]]
+**Archetypes:** Fool, King, Hero, Rebel, Common Man (2), Double Doppelganger
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/blood|Blood]], [[motifs/city|City]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/flags-and-banners|Flags and Banners]], [[motifs/crown|Crown]], [[motifs/lamp-post|Lamp-post]]
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/heroism|Heroism]], [[concepts/honour|Honour]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/satire-of-society|Satire of Society]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/democracy|Democracy]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/common-man|Common Man]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]], [[forms/allegory|Allegory]], [[forms/mock-epic|Mock Epic]]
 **Settings:** [[settings/london|London]], [[settings/modern-metropolis|Modern Metropolis]]
-**Characters:** [[characters/auberon-quin|Auberon Quin]], [[characters/adam-wayne|Adam Wayne]], [[characters/james-barker|James Barker]], [[characters/mr-buck|Mr Buck]], [[characters/james-turnbull|James Turnbull]], [[characters/mr-wilson|Mr Wilson]], [[characters/provost-swindon|Provost Swindon]], [[characters/wilfrid-lambert|Wilfrid Lambert]], [[characters/mr-bowles|Mr Bowles]]
+**Characters:** Auberon Quin, Adam Wayne, James Barker, Mr Buck, James Turnbull, Mr Wilson, Provost Swindon, Wilfrid Lambert, Mr Bowles
 
 ## Testo integrale / Full text
 

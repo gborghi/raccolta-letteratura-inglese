@@ -1,5 +1,5 @@
 ---
-title: "A Woman of No Importance"
+title: "A Woman of No Importance — Act 1 [1]"
 author: "Wilde"
 unitType: work
 parentWork: "works/a-woman-of-no-importance-(wilde)"
@@ -14,8 +14,8 @@ tags:
 <span class="atom-split" data-atom="a_woman_of_no_importance" data-title="A Woman of No Importance" data-chapter="" data-kind="intro"></span>
 
 
-Following the success of [[characters/lady-windermere|Lady Windermere]]’s Fan at the St. James Theatre, Herbert Beerbohm Tree, the actor-manager of [[settings/london|London]]’s Haymarket Theatre, asked Wilde to write him another [[forms/comedy|comedy]]. Wilde was initially reluctant since the character Tree wanted to take was not the sort of part Wilde associated with the actor: In fact, Wilde went so far as to describe [[characters/lord-illingworth|Lord Illingworth]] as himself. Nevertheless, Wilde accepted and wrote the play while living at a farmhouse near Felbrigg in Norfolk, staying with his [[archetypes/lover|lover]] Lord Alfred Douglas, while his wife and sons stayed at Babbacombe Cliff, near Torquay.
-The play opened on 19 April 1893 and the first performance was a great success, though Wilde, while taking his bow as the author, was booed, apparently due to a line that stated, “England lies like a leper in purple” which was later removed. The Prince of Wales attended the second performance and told Wilde not to alter a single line. The play was also performed in [[settings/new-york|New York]] and was due to go on tour when Wilde was arrested and charged with indecency and sodomy following his feud with the Marquess of Queensberry over his son, Lord Alfred Douglas. At that unfortunate [[motifs/time|time]] the tour was cancelled.
+Following the [[success]] of [[characters/lady-windermere|Lady Windermere]]’s Fan at the St. James Theatre, Herbert Beerbohm Tree, the actor-manager of [[settings/london|London]]’s Haymarket Theatre, asked Wilde to write him another [[forms/comedy|comedy]]. Wilde was initially reluctant since the character Tree wanted to take was not the sort of part Wilde associated with the actor: In fact, Wilde went so far as to describe [[characters/lord-illingworth|Lord Illingworth]] as himself. Nevertheless, Wilde accepted and wrote the play while living at a farmhouse near Felbrigg in Norfolk, staying with his [[archetypes/lover|lover]] Lord Alfred Douglas, while his wife and sons stayed at Babbacombe Cliff, near Torquay.
+The play opened on 19 April 1893 and the first performance was a great [[success]], though Wilde, while taking his bow as the author, was booed, apparently due to a line that stated, “England lies like a leper in purple” which was later removed. The Prince of Wales attended the second performance and told Wilde not to alter a single line. The play was also performed in [[settings/new-york|New York]] and was due to go on tour when Wilde was arrested and charged with indecency and sodomy following his feud with the Marquess of Queensberry over his son, Lord Alfred Douglas. At that unfortunate [[motifs/time|time]] the tour was cancelled.
 At the centre of the play is [[characters/lord-illingworth|Lord Illingworth]], the typical Wilde-esque man-about-town bachelor of middle years, who is witty, clever and a practised flirt. He is Mrs. Arbuthnot’s former [[archetypes/lover|lover]] and seducer and the father of [[characters/gerald-arbuthnot|Gerald Arbuthnot]]. Also, he has a promising diplomatic career and is shortly to become Ambassador to Vienna. He enjoys the company of Mrs. Allonby, who has a similar witty and amoral outlook to his own, and who also engages in flirting. His accidental acquaintance with Gerald, to whom he offers the post of private secretary, sets in motion the chain of events that form the main plot of the play.
 
 The Haymarket Theatre, [[settings/london|London]], c. 1900
@@ -54,14 +54,14 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1--part_01" data-title="A Woman of No Importance — Act 1 [1]" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/well,concept/doubt,concept/nature,histref/america,setting/america,character/lady_hunstanton,character/lord_illingworth"></span>
+<span class="atom-split" data-atom="act_1--scene_1--part_01(cf-2)" data-title="A Woman of No Importance — Act 1 [1]" data-chapter="" data-kind="intro"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | SCENE<br>Lawn in front of the terrace at Hunstanton. |
 | *(didascalia)* | [SIR JOHN and LADY CAROLINE PONTEFRACT, MISS WORSLEY, on chairs under large yew tree.] |
-| LADY CAROLINE | I believe this is the first English country house you have stayed at, Miss Worsley? |
+| LADY CAROLINE | I believe this is the first English country [[house]] you have stayed at, Miss Worsley? |
 | HESTER | Yes, Lady Caroline. |
 | LADY CAROLINE | You have no country houses, I am told, in [[settings/america\|America]]? |
 | HESTER | We have not many. |
@@ -69,7 +69,36 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | HESTER | [Smiling.] We have the largest country in the world, Lady Caroline. They used to tell us at school that some of our states are as big as France and England put together. |
 | LADY CAROLINE | Ah! you must find it very draughty, I should fancy. [To SIR JOHN.] John, you should have your muffler. What is the use of my always knitting mufflers for you if you won’t wear them? |
 | SIR JOHN | I am quite warm, Caroline, I assure you. |
-| LADY CAROLINE | I think not, John. [[motifs/well\|Well]], you couldn’t come to a more charming place than this, Miss Worsley, though the house is excessively damp, quite unpardonably damp, and dear [[characters/lady-hunstanton\|Lady Hunstanton]] is sometimes a little lax about the people she asks down here. [To SIR JOHN.] Jane mixes too much. [[characters/lord-illingworth\|Lord Illingworth]], of course, is a man of high distinction. It is a privilege to meet him. And that member of Parliament, Mr. Kettle - |
+| LADY CAROLINE | I think not, John. [[motifs/well\|Well]], you couldn’t come to a more charming place than this, Miss Worsley, though the [[house]] is excessively damp, quite unpardonably damp, and dear [[characters/lady-hunstanton\|Lady Hunstanton]] is sometimes a little lax about the people she asks down here. [To SIR JOHN.] Jane mixes too much. [[characters/lord-illingworth\|Lord Illingworth]], of course, is a man of high distinction. It is a privilege to meet him. And that member of Parliament, Mr. Kettle - |
+| SIR JOHN | Kelvil, my [[motifs/love\|love]], Kelvil. |
+| LADY CAROLINE | He must be quite respectable. One has never heard his name before in the whole course of one’s life, which speaks volumes for a man, nowadays. But Mrs. Allonby is hardly a very suitable person. |
+| HESTER | I dislike Mrs. Allonby. I dislike her more than I can say. |
+| LADY CAROLINE | I am not sure, Miss Worsley, that foreigners like yourself should cultivate likes or dislikes about the people they are invited to meet. Mrs. Allonby is very [[motifs/well\|well]] born. She is a niece of Lord Brancaster’s. It is said, of course, that she ran away twice before she was married. But you know how unfair people often are. I myself don’t believe she ran away more than once. |
+| HESTER | Mr. Arbuthnot is very charming. |
+| LADY CAROLINE | Ah, yes! the young man who has a post in a bank. [[characters/lady-hunstanton\|Lady Hunstanton]] is most kind in asking him here, and [[characters/lord-illingworth\|Lord Illingworth]] seems to have taken quite a fancy to him. I am not sure, however, that Jane is right in taking him out of his position. In my young days, Miss Worsley, one never met any one in society who worked for their living. It was not considered the thing. |
+| HESTER | In [[settings/america\|America]] those are the people we respect most. |
+| LADY CAROLINE | I have no [[concepts/doubt\|doubt]] of it. |
+| HESTER | Mr. Arbuthnot has a beautiful [[concepts/nature\|nature]]! He is so simple, so sincere. He has one of the most beautiful natures I have ever come across. It is a privilege to meet HIM. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--part_01" data-title="A Woman of No Importance — Act 1 [1]" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/well,concept/doubt,concept/nature,histref/america,setting/america,character/lady_hunstanton,character/lord_illingworth"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | SCENE<br>Lawn in front of the terrace at Hunstanton. |
+| *(didascalia)* | [SIR JOHN and LADY CAROLINE PONTEFRACT, MISS WORSLEY, on chairs under large yew tree.] |
+| LADY CAROLINE | I believe this is the first English country [[house]] you have stayed at, Miss Worsley? |
+| HESTER | Yes, Lady Caroline. |
+| LADY CAROLINE | You have no country houses, I am told, in [[settings/america\|America]]? |
+| HESTER | We have not many. |
+| LADY CAROLINE | Have you any country? What we should call country? |
+| HESTER | [Smiling.] We have the largest country in the world, Lady Caroline. They used to tell us at school that some of our states are as big as France and England put together. |
+| LADY CAROLINE | Ah! you must find it very draughty, I should fancy. [To SIR JOHN.] John, you should have your muffler. What is the use of my always knitting mufflers for you if you won’t wear them? |
+| SIR JOHN | I am quite warm, Caroline, I assure you. |
+| LADY CAROLINE | I think not, John. [[motifs/well\|Well]], you couldn’t come to a more charming place than this, Miss Worsley, though the [[house]] is excessively damp, quite unpardonably damp, and dear [[characters/lady-hunstanton\|Lady Hunstanton]] is sometimes a little lax about the people she asks down here. [To SIR JOHN.] Jane mixes too much. [[characters/lord-illingworth\|Lord Illingworth]], of course, is a man of high distinction. It is a privilege to meet him. And that member of Parliament, Mr. Kettle - |
 | SIR JOHN | Kelvil, my [[motifs/love\|love]], Kelvil. |
 | LADY CAROLINE | He must be quite respectable. One has never heard his name before in the whole course of one’s life, which speaks volumes for a man, nowadays. But Mrs. Allonby is hardly a very suitable person. |
 | HESTER | I dislike Mrs. Allonby. I dislike her more than I can say. |
@@ -170,7 +199,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | LADY STUTFIELD | How quite, quite nice of them. |
 | LADY CAROLINE | Are you in favour of women taking part in politics,<br>Mr. Kettle? |
 | SIR JOHN | Kelvil, my [[motifs/love\|love]], Kelvil. |
-| KELVIL | The growing influence of women is the one reassuring thing in our political life, Lady Caroline. Women are always on the side of morality, public and private. |
+| KELVIL | The growing influence of women is the one reassuring thing in our political life, Lady Caroline. Women are always on the side of [[morality]], public and private. |
 | LADY STUTFIELD | It is so very, very gratifying to hear you say that. |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, yes! - the moral qualities in women - that is the important thing. I am afraid, Caroline, that dear [[characters/lord-illingworth\|Lord Illingworth]] doesn’t value the moral qualities in women as much as he should. |
 | *(didascalia)* | [Enter [[characters/lord-illingworth\|LORD ILLINGWORTH]].] |
@@ -218,12 +247,12 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Politics are in a sad way everywhere, I am told. They certainly are in England. Dear Mr. Cardew is ruining the country. I [[concepts/wonder\|wonder]] Mrs. Cardew allows him. I am sure, [[characters/lord-illingworth\|Lord Illingworth]], you don’t think that uneducated people should be allowed to have votes? |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | I think they are the only people who should. |
 | KELVIL | Do you take no side then in modern politics, Lord<br>Illingworth? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | One should never take sides in anything, Mr. Kelvil. Taking sides is the beginning of sincerity, and earnestness follows shortly afterwards, and the human being becomes a bore. However, the House of Commons really does very little harm. You can’t make people good by Act of Parliament, - that is something. |
-| KELVIL | You cannot deny that the House of Commons has always shown great sympathy with the sufferings of the poor. |
+| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | One should never take sides in anything, Mr. Kelvil. Taking sides is the beginning of sincerity, and earnestness follows shortly afterwards, and the human being becomes a bore. However, the [[house\|House]] of Commons really does very little harm. You can’t make people good by Act of Parliament, - that is something. |
+| KELVIL | You cannot deny that the [[house\|House]] of Commons has always shown great sympathy with the sufferings of the poor. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | That is its special vice. That is the special vice of the age. One should sympathise with the joy, the [[concepts/beauty\|beauty]], the colour of life. The less said about life’s sores the better, Mr. Kelvil. |
 | KELVIL | Still our East End is a very important problem. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Quite so. It is the problem of [[concepts/slavery\|slavery]]. And we are trying to solve it by amusing the slaves. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Certainly, a great deal may be done by means of cheap entertainments, as you say, [[characters/lord-illingworth\|Lord Illingworth]]. Dear Dr. Daubeny, our rector here, provides, with the assistance of his curates, really admirable recreations for the poor during the [[motifs/winter\|winter]]. And much good may be done by means of a magic lantern, or a missionary, or some popular amusement of that kind. |
+| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Certainly, a great deal may be done by means of cheap entertainments, as you say, [[characters/lord-illingworth\|Lord Illingworth]]. Dear Dr. Daubeny, our rector here, provides, with the assistance of his curates, really admirable recreations for the poor during the [[motifs/winter\|winter]]. And much good may be done by means of a [[Magic\|magic]] lantern, or a missionary, or some popular amusement of that kind. |
 | LADY CAROLINE | I am not at all in favour of amusements for the poor, Jane. Blankets and coals are sufficient. There is too much [[motifs/love\|love]] of pleasure amongst the upper classes as it is. Health is what we want in modern life. The tone is not healthy, not healthy at all. |
 | KELVIL | You are quite right, Lady Caroline. |
 
@@ -238,8 +267,8 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | LADY CAROLINE | I believe I am usually right. |
 | MRS | ALLONBY. Horrid word ‘health.’ |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Silliest word in our language, and one knows so [[motifs/well\|well]] the popular idea of health. The English country gentleman galloping after a fox - the unspeakable in full pursuit of the uneatable. |
-| KELVIL | May I ask, [[characters/lord-illingworth\|Lord Illingworth]], if you regard the House of<br>Lords as a better institution than the House of Commons? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | A much better institution, of course. We in the House of Lords are never in touch with public opinion. That makes us a civilised [[concepts/body\|body]]. |
+| KELVIL | May I ask, [[characters/lord-illingworth\|Lord Illingworth]], if you regard the [[house\|House]] of<br>Lords as a better institution than the [[house\|House]] of Commons? |
+| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | A much better institution, of course. We in the [[house\|House]] of Lords are never in touch with public opinion. That makes us a civilised [[concepts/body\|body]]. |
 | KELVIL | Are you serious in putting forward such a view? |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Quite serious, Mr. Kelvil. [To MRS. ALLONBY.] Vulgar habit that is people have nowadays of asking one, after one has given them an idea, whether one is serious or not. Nothing is serious except passion. The intellect is not a serious thing, and never has been. It is an instrument on which one plays, that is all. The only serious form of intellect I know is the British intellect. And on the British intellect the illiterates play the drum. |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | What are you saying, [[characters/lord-illingworth\|Lord Illingworth]], about the drum? |
@@ -319,9 +348,9 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ALLONBY. Curious thing, plain women are always jealous of their husbands, beautiful women never are! |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Beautiful women never have [[motifs/time\|time]]. They are always so occupied in being jealous of other people’s husbands. |
 | MRS | ALLONBY. I should have thought Lady Caroline would have grown tired of conjugal anxiety by this [[motifs/time\|time]]! Sir John is her fourth! |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | So much [[motifs/marriage\|marriage]] is certainly not becoming. Twenty years of romance make a woman look like a ruin; but twenty years of [[motifs/marriage\|marriage]] make her something like a public building. |
-| MRS | ALLONBY. Twenty years of romance! Is there such a thing? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Not in our day. Women have become too brilliant. Nothing spoils a romance so much as a sense of humour in the woman. |
+| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | So much [[motifs/marriage\|marriage]] is certainly not becoming. Twenty years of [[Romance\|romance]] make a woman look like a ruin; but twenty years of [[motifs/marriage\|marriage]] make her something like a public building. |
+| MRS | ALLONBY. Twenty years of [[Romance\|romance]]! Is there such a thing? |
+| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Not in our day. Women have become too brilliant. Nothing spoils a [[Romance\|romance]] so much as a sense of [[Humour\|humour]] in the woman. |
 | MRS | ALLONBY. Or the want of it in the man. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | You are quite right. In a Temple every one should be serious, except the thing that is worshipped. |
 | MRS | ALLONBY. And that should be man? |
@@ -363,7 +392,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ah, that is inexcusable. I don’t mind plain women being Puritans. It is the only excuse they have for being plain. But she is decidedly pretty. I admire her immensely. [Looks steadfastly at MRS. ALLONBY.] |
 | MRS | ALLONBY. What a thoroughly bad man you must be! |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | What do you call a bad man? |
-| MRS | ALLONBY. The sort of man who admires innocence. |
+| MRS | ALLONBY. The sort of man who admires [[innocence]]. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | And a bad woman? |
 | MRS | ALLONBY. Oh! the sort of woman a man never gets tired of. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | You are severe - on yourself. |
@@ -455,7 +484,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | LADY STUTFIELD | Yes; men persecute us dreadfully, don’t they? |
 | MRS | ALLONBY. Persecute us? I wish they did. |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | My dear! |
-| MRS | ALLONBY. The annoying thing is that the wretches can be perfectly happy without us. That is why I think it is every woman’s duty never to leave them alone for a single moment, except during this short breathing space after dinner; without which I believe we poor women would be absolutely worn to shadows. |
+| MRS | ALLONBY. The annoying thing is that the wretches can be perfectly happy without us. That is why I think it is every woman’s duty never to leave them [[Alone\|alone]] for a single moment, except during this short breathing space after dinner; without which I believe we poor women would be absolutely worn to shadows. |
 | *(didascalia)* | [Enter Servants with coffee.] |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Worn to shadows, dear? |
 | MRS | ALLONBY. Yes, [[characters/lady-hunstanton\|Lady Hunstanton]]. It is such a strain keeping men up to the mark. They are always trying to escape from us. |
@@ -515,7 +544,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | LADY STUTFIELD | Thank you, thank you. I will make a point of repeating it. |
 | MRS | ALLONBY. When Ernest and I were engaged, he swore to me positively on his knees that he had never loved any one before in the whole course of his life. I was very young at the [[motifs/time\|time]], so I didn’t believe him, I needn’t tell you. Unfortunately, however, I made no enquiries of any kind till after I had been actually married four or five months. I found out then that what he had told me was perfectly true. And that sort of thing makes a man so absolutely uninteresting. |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | My dear! |
-| MRS | ALLONBY. Men always want to be a woman’s first [[motifs/love\|love]]. That is their clumsy [[concepts/vanity\|vanity]]. We women have a more subtle instinct about things. What we like is to be a man’s last romance. |
+| MRS | ALLONBY. Men always want to be a woman’s first [[motifs/love\|love]]. That is their clumsy [[concepts/vanity\|vanity]]. We women have a more subtle instinct about things. What we like is to be a man’s last [[Romance\|romance]]. |
 | LADY STUTFIELD | I see what you mean. It’s very, very beautiful. |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | My dear [[archetypes/child\|child]], you don’t mean to tell me that you won’t forgive your husband because he never loved any one else? Did you ever hear such a thing, Caroline? I am quite surprised. |
 | LADY CAROLINE | Oh, women have become so highly educated, Jane, that nothing should surprise us nowadays, except happy marriages. They apparently are getting remarkably rare. |
@@ -555,7 +584,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 
 | Speaker | Line |
 |---|---|
-| MRS | ALLONBY. He should persistently compromise us in public, and treat us with absolute respect when we are alone. And yet he should be always ready to have a perfectly terrible scene, whenever we want one, and to become miserable, absolutely miserable, at a moment’s notice, and to overwhelm us with just reproaches in less than twenty minutes, and to be positively violent at the end of half an hour, and to leave us for ever at a quarter to eight, when we have to go and dress for dinner. And when, after that, one has seen him for really the last [[motifs/time\|time]], and he has refused to take back the little things he has given one, and promised never to communicate with one again, or to write one any foolish letters, he should be perfectly broken-hearted, and telegraph to one all day long, and send one little notes every half-hour by a private hansom, and dine quite alone at the club, so that every one should know how unhappy he was. And after a whole dreadful week, during which one has gone about everywhere with one’s husband, just to show how absolutely lonely one was, he may be given a third last parting, in the evening, and then, if his conduct has been quite irreproachable, and one has behaved really badly to him, he should be allowed to admit that he has been entirely in the wrong, and when he has admitted that, it becomes a woman’s duty to forgive, and one can do it all over again from the beginning, with variations. |
+| MRS | ALLONBY. He should persistently compromise us in public, and treat us with absolute respect when we are [[Alone\|alone]]. And yet he should be always ready to have a perfectly terrible scene, whenever we want one, and to become miserable, absolutely miserable, at a moment’s notice, and to overwhelm us with just reproaches in less than twenty minutes, and to be positively violent at the end of half an hour, and to leave us for ever at a quarter to eight, when we have to go and dress for dinner. And when, after that, one has seen him for really the last [[motifs/time\|time]], and he has refused to take back the little things he has given one, and promised never to communicate with one again, or to write one any foolish letters, he should be perfectly broken-hearted, and telegraph to one all day long, and send one little notes every half-hour by a private hansom, and dine quite [[Alone\|alone]] at the club, so that every one should know how unhappy he was. And after a whole dreadful week, during which one has gone about everywhere with one’s husband, just to show how absolutely lonely one was, he may be given a third last parting, in the evening, and then, if his conduct has been quite irreproachable, and one has behaved really badly to him, he should be allowed to admit that he has been entirely in the wrong, and when he has admitted that, it becomes a woman’s duty to forgive, and one can do it all over again from the beginning, with variations. |
 
 
 
@@ -624,7 +653,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | Speaker | Line |
 |---|---|
 | LADY STUTFIELD | I don’t think one should know of these things. It is not very, very nice, is it? |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | My dear Miss Worsley, I thought you liked English society so much. You were such a success in it. And you were so much admired by the best people. I quite forget what Lord Henry Weston said of you - but it was most complimentary, and you know what an authority he is on [[concepts/beauty\|beauty]]. |
+| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | My dear Miss Worsley, I thought you liked English society so much. You were such a [[success]] in it. And you were so much admired by the best people. I quite forget what Lord Henry Weston said of you - but it was most complimentary, and you know what an authority he is on [[concepts/beauty\|beauty]]. |
 | HESTER | Lord Henry Weston! I remember him, [[characters/lady-hunstanton\|Lady Hunstanton]]. A man with a hideous smile and a hideous past. He is asked everywhere. No dinner-party is complete without him. What of those whose ruin is due to him? They are outcasts. They are nameless. If you met them in the street you would turn your head away. I don’t complain of their punishment. Let all women who have sinned be punished. |
 | *(didascalia)* | [MRS. ARBUTHNOT enters from terrace behind in a cloak with a lace veil over her head. She hears the last words and starts.] |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | My dear young lady! |
@@ -632,7 +661,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | LADY CAROLINE | Might I, dear Miss Worsley, as you are standing up, ask you for my cotton that is just behind you? Thank you. |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | My dear Mrs. Arbuthnot! I am so pleased you have come up. But I didn’t hear you announced. |
 | MRS | ALLONBY. Oh, I came straight in from the terrace, Lady<br>Hunstanton, just as I was. You didn’t tell me you had a party. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Not a party. Only a few guests who are staying in the house, and whom you must know. Allow me. [Tries to help her. Rings bell.] Caroline, this is Mrs. Arbuthnot, one of my sweetest friends. Lady Caroline Pontefract, Lady Stutfield, Mrs. Allonby, and my young American friend, Miss Worsley, who has just been telling us all how wicked we are. |
+| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Not a party. Only a few guests who are staying in the [[house]], and whom you must know. Allow me. [Tries to help her. Rings bell.] Caroline, this is Mrs. Arbuthnot, one of my sweetest friends. Lady Caroline Pontefract, Lady Stutfield, Mrs. Allonby, and my young American friend, Miss Worsley, who has just been telling us all how wicked we are. |
 | HESTER | I am afraid you think I spoke too strongly, Lady<br>Hunstanton. But there are some things in England - |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | My dear young lady, there was a great deal of [[concepts/truth\|truth]], I dare say, in what you said, and you looked very pretty while you said it, which is much more important, [[characters/lord-illingworth\|Lord Illingworth]] would tell us. The only point where I thought you were a little hard was about Lady Caroline’s brother, about poor Lord Henry. He is really such good company. |
 
@@ -692,7 +721,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | Speaker | Line |
 |---|---|
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [To DOCTOR DAUBENY.] You see I have got Mrs.<br>Arbuthnot to come to me at last.<br>THE ARCHDEACON. That is a great [[concepts/honour\|honour]], [[characters/lady-hunstanton\|Lady Hunstanton]]. Mrs.<br>Daubeny will be quite jealous of you. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, I am so sorry Mrs. Daubeny could not come with you to-[[motifs/night\|night]]. Headache as usual, I suppose.<br>THE ARCHDEACON. Yes, [[characters/lady-hunstanton\|Lady Hunstanton]]; a perfect martyr. But she is happiest alone. She is happiest alone. |
+| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, I am so sorry Mrs. Daubeny could not come with you to-[[motifs/night\|night]]. Headache as usual, I suppose.<br>THE ARCHDEACON. Yes, [[characters/lady-hunstanton\|Lady Hunstanton]]; a perfect martyr. But she is happiest [[Alone\|alone]]. She is happiest [[Alone\|alone]]. |
 | *(didascalia)* | [To her husband.] John! [SIR JOHN goes over to his wife. DOCTOR DAUBENY talks to [[characters/lady-hunstanton\|LADY HUNSTANTON]] and MRS. ARBUTHNOT.] |
 | *(didascalia)* | [MRS. ARBUTHNOT watches [[characters/lord-illingworth\|LORD ILLINGWORTH]] the whole [[motifs/time\|time]]. He has passed across the room without noticing her, and approaches MRS. ALLONBY, who with LADY STUTFIELD is standing by the door looking on to the terrace.] |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | How is the most charming woman in the world? |
@@ -701,7 +730,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ALLONBY. You should have. The American girl has been giving us a lecture. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Really? All Americans lecture, I believe. I suppose it is something in their climate. What did she lecture about? |
 | MRS | ALLONBY. Oh, [[historical-references/puritanism\|Puritanism]], of course. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | I am going to convert her, am I not? How long do you give me? |
+| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | I am going to [[convert]] her, am I not? How long do you give me? |
 | MRS | ALLONBY. A week. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | A week is more than enough. |
 | *(didascalia)* | [Enter GERALD and LORD ALFRED.] |
@@ -802,7 +831,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | How can you prevent it? What excuse can you give to him for making him decline such an offer as mine? I won’t tell him in what relations I stand to him, I need hardly say. But you daren’t tell him. You know that. Look how you have brought him up. |
 | MRS | ARBUTHNOT. I have brought him up to be a good man. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Quite so. And what is the result? You have educated him to be your judge if he ever finds you out. And a bitter, an unjust judge he will be to you. Don’t be deceived, Rachel. Children begin by loving their parents. After a [[motifs/time\|time]] they judge them. Rarely, if ever, do they forgive them. |
-| MRS | ARBUTHNOT. George, don’t take my son away from me. I have had twenty years of sorrow, and I have only had one thing to [[motifs/love\|love]] me, only one thing to [[motifs/love\|love]]. You have had a life of joy, and pleasure, and success. You have been quite happy, you have never thought of us. There was no reason, according to your views of life, why you should have remembered us at all. Your meeting us was a mere accident, a horrible accident. Forget it. Don’t come now, and rob me of . . . of all I have in the whole world. You are so rich in other things. Leave me the little vineyard of my life; leave me the walled-in [[motifs/garden\|garden]] and the [[motifs/well\|well]] of [[motifs/water\|water]]; the ewe-[[motifs/lamb\|lamb]] God sent me, in pity or in wrath, oh! leave me that. George, don’t take Gerald from me. |
+| MRS | ARBUTHNOT. George, don’t take my son away from me. I have had twenty years of sorrow, and I have only had one thing to [[motifs/love\|love]] me, only one thing to [[motifs/love\|love]]. You have had a life of joy, and pleasure, and [[success]]. You have been quite happy, you have never thought of us. There was no reason, according to your views of life, why you should have remembered us at all. Your meeting us was a mere accident, a horrible accident. Forget it. Don’t come now, and rob me of . . . of all I have in the whole world. You are so rich in other things. Leave me the little vineyard of my life; leave me the walled-in [[motifs/garden\|garden]] and the [[motifs/well\|well]] of [[motifs/water\|water]]; the ewe-[[motifs/lamb\|lamb]] God sent me, in pity or in wrath, oh! leave me that. George, don’t take Gerald from me. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Rachel, at the present moment you are not necessary to Gerald’s career; I am. There is nothing more to be said on the subject. |
 | MRS | ARBUTHNOT. I will not let him go. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Here is Gerald. He has a right to decide for himself. |
@@ -827,10 +856,10 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | GERALD | Have you, mother? Do answer. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | If you have, Mrs. Arbuthnot, pray, pray say it. We are quite by ourselves here. Whatever it is, I need not say I will not repeat it. |
 | GERALD | Mother? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | If you would like to be alone with your son, I will leave you. You may have some other reason you don’t wish me to hear. |
+| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | If you would like to be [[Alone\|alone]] with your son, I will leave you. You may have some other reason you don’t wish me to hear. |
 | MRS | ARBUTHNOT. I have no other reason. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Then, my dear boy, we may look on the thing as settled. Come, you and I will smoke a cigarette on the terrace together. And Mrs. Arbuthnot, pray let me tell you, that I think you have acted very, very wisely. |
-| *(didascalia)* | [Exit with GERALD. MRS. ARBUTHNOT is left alone. She stands immobile with a look of unutterable sorrow on her face.] |
+| *(didascalia)* | [Exit with GERALD. MRS. ARBUTHNOT is left [[Alone\|alone]]. She stands immobile with a look of unutterable sorrow on her face.] |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | ACT DROP |
 
 
@@ -874,13 +903,13 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | GERALD | Oh, yes, she’s always going to church. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ah! she is not modern, and to be modern is the only thing worth being nowadays. You want to be modern, don’t you, Gerald? You want to know life as it really is. Not to be put of with any old-fashioned theories about life. [[motifs/well\|Well]], what you have to do at present is simply to fit yourself for the best society. A man who can dominate a [[settings/london\|London]] dinner-table can dominate the world. The future belongs to the dandy. It is the exquisites who are going to rule. |
 | GERALD | I should like to wear nice things awfully, but I have always been told that a man should not think too much about his clothes. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | People nowadays are so absolutely superficial that they don’t understand the philosophy of the superficial. By the way, Gerald, you should learn how to tie your tie better. Sentiment is all very [[motifs/well\|well]] for the button-hole. But the essential thing for a necktie is style. A [[motifs/well\|well]]-tied tie is the first serious step in life. |
+| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | People nowadays are so absolutely superficial that they don’t understand the [[philosophy]] of the superficial. By the way, Gerald, you should learn how to tie your tie better. Sentiment is all very [[motifs/well\|well]] for the button-hole. But the essential thing for a necktie is style. A [[motifs/well\|well]]-tied tie is the first serious step in life. |
 | GERALD | [Laughing.] I might be able to learn how to tie a tie, [[characters/lord-illingworth\|Lord Illingworth]], but I should never be able to talk as you do. I don’t know how to talk. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Oh! talk to every woman as if you loved her, and to every man as if he bored you, and at the end of your first season you will have the reputation of possessing the most perfect social tact. |
 | GERALD | But it is very difficult to get into society isn’t it? |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | To get into the best society, nowadays, one has either to feed people, amuse people, or shock people - that is all! |
 | GERALD | I suppose society is wonderfully delightful! |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | To be in it is merely a bore. But to be out of it simply a [[forms/tragedy\|tragedy]]. Society is a necessary thing. No man has any real success in this world unless he has got women to back him, and women rule society. If you have not got women on your side you are quite over. You might just as [[motifs/well\|well]] be a barrister, or a stockbroker, or a journalist at once. |
+| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | To be in it is merely a bore. But to be out of it simply a [[forms/tragedy\|tragedy]]. Society is a necessary thing. No man has any real [[success]] in this world unless he has got women to back him, and women rule society. If you have not got women on your side you are quite over. You might just as [[motifs/well\|well]] be a barrister, or a stockbroker, or a journalist at once. |
 | GERALD | It is very difficult to understand women, is it not? |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | You should never try to understand them. Women are pictures. Men are problems. If you want to know what a woman really means - which, by the way, is always a dangerous thing to do - look at her, don’t listen to her. |
 
@@ -911,7 +940,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | GERALD | But if one is in [[motifs/love\|love]]? |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | One should always be in [[motifs/love\|love]]. That is the reason one should never marry. |
 | GERALD | [[motifs/love\|Love]] is a very wonderful thing, isn’t it? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | When one is in [[motifs/love\|love]] one begins by deceiving oneself. And one ends by deceiving others. That is what the world calls a romance. But a really GRANDE PASSION is comparatively rare nowadays. It is the privilege of people who have nothing to do. That is the one use of the idle classes in a country, and the only possible explanation of us Harfords. |
+| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | When one is in [[motifs/love\|love]] one begins by deceiving oneself. And one ends by deceiving others. That is what the world calls a [[Romance\|romance]]. But a really GRANDE PASSION is comparatively rare nowadays. It is the privilege of people who have nothing to do. That is the one use of the idle classes in a country, and the only possible explanation of us Harfords. |
 | GERALD | Harfords, [[characters/lord-illingworth\|Lord Illingworth]]? |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | That is my family name. You should study the Peerage, Gerald. It is the one book a young man about town should know thoroughly, and it is the best thing in fiction the English have ever done. And now, Gerald, you are going into a perfectly new life with me, and I want you to know how to live. [MRS. ARBUTHNOT appears on terrace behind.] For the world has been made by fools that wise men should live in it! |
 
@@ -1106,7 +1135,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | Speaker | Line |
 |---|---|
 | MRS | ARBUTHNOT. I [[concepts/fear\|fear]] you need have no hopes of Miss Worsley. I know her views on life. She has just told them to me. [A pause.] |
-| GERALD | Then I have my [[concepts/ambition\|ambition]] left, at any rate. That is something - I am glad I have that! You have always tried to crush my [[concepts/ambition\|ambition]], mother - haven’t you? You have told me that the world is a wicked place, that success is not worth having, that society is shallow, and all that sort of thing - [[motifs/well\|well]], I don’t believe it, mother. I think the world must be delightful. I think society must be exquisite. I think success is a thing worth having. You have been wrong in all that you taught me, mother, quite wrong. [[characters/lord-illingworth\|Lord Illingworth]] is a successful man. He is a fashionable man. He is a man who lives in the world and for it. [[motifs/well\|Well]], I would give anything to be just like [[characters/lord-illingworth\|Lord Illingworth]]. |
+| GERALD | Then I have my [[concepts/ambition\|ambition]] left, at any rate. That is something - I am glad I have that! You have always tried to crush my [[concepts/ambition\|ambition]], mother - haven’t you? You have told me that the world is a wicked place, that [[success]] is not worth having, that society is shallow, and all that sort of thing - [[motifs/well\|well]], I don’t believe it, mother. I think the world must be delightful. I think society must be exquisite. I think [[success]] is a thing worth having. You have been wrong in all that you taught me, mother, quite wrong. [[characters/lord-illingworth\|Lord Illingworth]] is a successful man. He is a fashionable man. He is a man who lives in the world and for it. [[motifs/well\|Well]], I would give anything to be just like [[characters/lord-illingworth\|Lord Illingworth]]. |
 | MRS | ARBUTHNOT. I would sooner see you dead. |
 | GERALD | Mother, what is your objection to [[characters/lord-illingworth\|Lord Illingworth]]? Tell me - tell me right out. What is it? |
 | MRS | ARBUTHNOT. He is a bad man. |
@@ -1132,7 +1161,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 
 | Speaker | Line |
 |---|---|
-| MRS | ARBUTHNOT. Gerald, come near to me. Quite close to me, as you used to do when you were a little boy, when you were mother’s own boy. [GERALD sits down betide his mother. She runs her fingers through his hair, and strokes his hands.] Gerald, there was a girl once, she was very young, she was little over eighteen at the [[motifs/time\|time]]. George Harford - that was [[characters/lord-illingworth\|Lord Illingworth]]’s name then - George Harford met her. She knew nothing about life. He - knew everything. He made this girl [[motifs/love\|love]] him. He made her [[motifs/love\|love]] him so much that she left her father’s house with him one morning. She loved him so much, and he had promised to marry her! He had solemnly promised to marry her, and she had believed him. She was very young, and - and ignorant of what life really is. But he put the [[motifs/marriage\|marriage]] off from week to week, and month to month. - She trusted in him all the while. She loved him. - Before her [[archetypes/child\|child]] was born - for she had a [[archetypes/child\|child]] - she implored him for the [[archetypes/child\|child]]’s sake to marry her, that the [[archetypes/child\|child]] might have a name, that her sin might not be visited on the [[archetypes/child\|child]], who was [[archetypes/innocent\|innocent]]. He refused. After the [[archetypes/child\|child]] was born she left him, taking the [[archetypes/child\|child]] away, and her life was ruined, and her [[motifs/soul\|soul]] ruined, and all that was sweet, and good, and pure in her ruined also. She suffered terribly - she suffers now. She will always suffer. For her there is no joy, no peace, no atonement. She is a woman who drags a chain like a guilty thing. She is a woman who wears a mask, like a thing that is a leper. The [[motifs/fire\|fire]] cannot purify her. The waters cannot quench her anguish. Nothing can heal her! no anodyne can give her [[motifs/sleep\|sleep]]! no poppies forgetfulness! She is lost! She is a lost [[motifs/soul\|soul]]! - That is why I call [[characters/lord-illingworth\|Lord Illingworth]] a bad man. That is why I don’t want my boy to be with him. |
+| MRS | ARBUTHNOT. Gerald, come near to me. Quite close to me, as you used to do when you were a little boy, when you were mother’s own boy. [GERALD sits down betide his mother. She runs her fingers through his hair, and strokes his hands.] Gerald, there was a girl once, she was very young, she was little over eighteen at the [[motifs/time\|time]]. George Harford - that was [[characters/lord-illingworth\|Lord Illingworth]]’s name then - George Harford met her. She knew nothing about life. He - knew everything. He made this girl [[motifs/love\|love]] him. He made her [[motifs/love\|love]] him so much that she left her father’s [[house]] with him one morning. She loved him so much, and he had promised to marry her! He had solemnly promised to marry her, and she had believed him. She was very young, and - and ignorant of what life really is. But he put the [[motifs/marriage\|marriage]] off from week to week, and month to month. - She trusted in him all the while. She loved him. - Before her [[archetypes/child\|child]] was born - for she had a [[archetypes/child\|child]] - she implored him for the [[archetypes/child\|child]]’s sake to marry her, that the [[archetypes/child\|child]] might have a name, that her sin might not be visited on the [[archetypes/child\|child]], who was [[archetypes/innocent\|innocent]]. He refused. After the [[archetypes/child\|child]] was born she left him, taking the [[archetypes/child\|child]] away, and her life was ruined, and her [[motifs/soul\|soul]] ruined, and all that was sweet, and good, and pure in her ruined also. She suffered terribly - she suffers now. She will always suffer. For her there is no joy, no peace, no atonement. She is a woman who drags a chain like a guilty thing. She is a woman who wears a mask, like a thing that is a leper. The [[motifs/fire\|fire]] cannot purify her. The waters cannot quench her anguish. Nothing can heal her! no anodyne can give her [[motifs/sleep\|sleep]]! no poppies forgetfulness! She is lost! She is a lost [[motifs/soul\|soul]]! - That is why I call [[characters/lord-illingworth\|Lord Illingworth]] a bad man. That is why I don’t want my boy to be with him. |
 
 
 
@@ -1185,7 +1214,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ALLONBY. I should like to see [[characters/lord-illingworth\|Lord Illingworth]] in a happy<br>English [[motifs/home\|home]]. |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | It would do him a great deal of good, dear. Most women in [[settings/london\|London]], nowadays, seem to furnish their rooms with nothing but orchids, foreigners, and French novels. But here we have the room of a sweet saint. Fresh natural [[motifs/flowers\|flowers]], books that don’t shock one, pictures that one can look at without blushing. |
 | MRS | ALLONBY. But I like blushing. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [[motifs/well\|Well]], there IS a good deal to be said for blushing, if one can do it at the proper moment. Poor dear Hunstanton used to tell me I didn’t blush nearly often enough. But then he was so very particular. He wouldn’t let me know any of his men friends, except those who were over seventy, like poor Lord Ashton: who afterwards, by the way, was brought into the Divorce [[settings/court\|Court]]. A most unfortunate case. |
+| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [[motifs/well\|Well]], there IS a good deal to be said for blushing, if one can do it at the proper moment. Poor dear Hunstanton used to tell me I didn’t blush nearly often enough. But then he was so very particular. He wouldn’t let me know any of his men friends, except those who were over seventy, like poor Lord Ashton: who afterwards, by the way, was brought into the [[divorce\|Divorce]] [[settings/court\|Court]]. A most unfortunate case. |
 
 
 
@@ -1201,7 +1230,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Surely not, Gerald! It would be most unwise of you. What reason can you have? |
 | GERALD | I don’t think I should be suitable for the post. |
 | MRS | ALLONBY. I wish [[characters/lord-illingworth\|Lord Illingworth]] would ask me to be his secretary. But he says I am not serious enough. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | My dear, you really mustn’t talk like that in this house. Mrs. Arbuthnot doesn’t know anything about the wicked society in which we all live. She won’t go into it. She is far too good. I consider it was a great [[concepts/honour\|honour]] her coming to me last [[motifs/night\|night]]. It gave quite an atmosphere of respectability to the party. |
+| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | My dear, you really mustn’t talk like that in this [[house]]. Mrs. Arbuthnot doesn’t know anything about the wicked society in which we all live. She won’t go into it. She is far too good. I consider it was a great [[concepts/honour\|honour]] her coming to me last [[motifs/night\|night]]. It gave quite an atmosphere of respectability to the party. |
 | MRS | ALLONBY. Ah, that must have been what you thought was thunder in the air. |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | My dear, how can you say that? There is no resemblance between the two things at all. But really, Gerald, what do you mean by not being suitable? |
 | GERALD | [[characters/lord-illingworth\|Lord Illingworth]]’s views of life and mine are too different. |
@@ -1234,7 +1263,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | GERALD | Mother, I have just written to him. |
 | MRS | ARBUTHNOT. To whom? |
 | GERALD | To my father. I have written to tell him to come here at four o’[[motifs/clock\|clock]] this afternoon. |
-| MRS | ARBUTHNOT. He shall not come here. He shall not [[motifs/cross\|cross]] the threshold of my house. |
+| MRS | ARBUTHNOT. He shall not come here. He shall not [[motifs/cross\|cross]] the threshold of my [[house]]. |
 | GERALD | He must come. |
 | MRS | ARBUTHNOT. Gerald, if you are going away with [[characters/lord-illingworth\|Lord Illingworth]], go at once. Go before it kills me: but don’t ask me to meet him. |
 | GERALD | Mother, you don’t understand. Nothing in the world would induce me to go away with [[characters/lord-illingworth\|Lord Illingworth]], or to leave you. Surely you know me [[motifs/well\|well]] enough for that. No: I have written to him to say - |
@@ -1269,7 +1298,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | GERALD | If he came to you himself and asked you to be his wife you would give him a different answer. Remember, he is my father. |
 | MRS | ARBUTHNOT. If he came himself, which he will not do, my answer would be the same. Remember I am your mother. |
 | GERALD | Mother, you make it terribly difficult for me by talking like that; and I can’t understand why you won’t look at this matter from the right, from the only proper standpoint. It is to take away the bitterness out of your life, to take away the [[archetypes/shadow\|shadow]] that lies on your name, that this [[motifs/marriage\|marriage]] must take place. There is no alternative: and after the [[motifs/marriage\|marriage]] you and I can go away together. But the [[motifs/marriage\|marriage]] must take place first. It is a duty that you owe, not merely to yourself, but to all other women - yes: to all the other women in the world, lest he betray more. |
-| MRS | ARBUTHNOT. I owe nothing to other women. There is not one of them to help me. There is not one woman in the world to whom I could go for pity, if I would take it, or for sympathy, if I could win it. Women are hard on each other. That girl, last [[motifs/night\|night]], good though she is, fled from the room as though I were a tainted thing. She was right. I am a tainted thing. But my wrongs are my own, and I will bear them alone. I must bear them alone. What have women who have not sinned to do with me, or I with them? We do not understand each other. |
+| MRS | ARBUTHNOT. I owe nothing to other women. There is not one of them to help me. There is not one woman in the world to whom I could go for pity, if I would take it, or for sympathy, if I could win it. Women are hard on each other. That girl, last [[motifs/night\|night]], good though she is, fled from the room as though I were a tainted thing. She was right. I am a tainted thing. But my wrongs are my own, and I will bear them [[Alone\|alone]]. I must bear them [[Alone\|alone]]. What have women who have not sinned to do with me, or I with them? We do not understand each other. |
 | *(didascalia)* | [Enter HESTER behind.] |
 | GERALD | I implore you to do what I ask you. |
 | MRS | ARBUTHNOT. What son has ever asked of his mother to make so hideous a sacrifice? None. |
@@ -1305,7 +1334,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 
 | Speaker | Line |
 |---|---|
-| MRS | ARBUTHNOT. Men don’t understand what mothers are. I am no different from other women except in the wrong done me and the wrong I did, and my very heavy punishments and great disgrace. And yet, to bear you I had to look on [[motifs/death\|death]]. To nurture you I had to wrestle with it. [[motifs/death\|Death]] fought with me for you. All women have to fight with [[motifs/death\|death]] to keep their children. [[motifs/death\|Death]], being childless, wants our children from us. Gerald, when you were naked I clothed you, when you were hungry I gave you food. [[motifs/night\|Night]] and day all that long [[motifs/winter\|winter]] I tended you. No office is too mean, no care too lowly for the thing we women [[motifs/love\|love]] - and oh! how I loved YOU. Not Hannah, Samuel more. And you needed [[motifs/love\|love]], for you were weakly, and only [[motifs/love\|love]] could have kept you alive. Only [[motifs/love\|love]] can keep any one alive. And boys are careless often and without thinking give [[motifs/pain\|pain]], and we always fancy that when they come to man’s estate and know us better they will repay us. But it is not so. The world draws them from our side, and they make friends with whom they are happier than they are with us, and have amusements from which we are barred, and interests that are not ours: and they are unjust to us often, for when they find life bitter they blame us for it, and when they find it sweet we do not taste its sweetness with them . . . You made many friends and went into their houses and were glad with them, and I, knowing my secret, did not dare to follow, but stayed at [[motifs/home\|home]] and closed the door, shut out the sun and sat in darkness. What should I have done in honest households? My past was ever with me. . . . And you thought I didn’t care for the pleasant things of life. I tell you I longed for them, but did not dare to touch them, feeling I had no right. You thought I was happier working amongst the poor. That was my mission, you imagined. It was not, but where else was I to go? The sick do not ask if the hand that smooths their pillow is pure, nor the dying care if the lips that touch their brow have known the kiss of sin. It was you I thought of all the [[motifs/time\|time]]; I gave to them the [[motifs/love\|love]] you did not need: lavished on them a [[motifs/love\|love]] that was not theirs . . . And you thought I spent too much of my [[motifs/time\|time]] in going to Church, and in Church duties. But where else could I turn? God’s house is the only house where sinners are made welcome, and you were always in my heart, Gerald, too much in my heart. For, though day after day, at morn or evensong, I have knelt in God’s house, I have never repented of my sin. How could I repent of my sin when you, my [[motifs/love\|love]], were its fruit! Even now that you are bitter to me I cannot repent. I do not. You are more to me than innocence. I would rather be your mother - oh! much rather! - than have been always pure . . . Oh, don’t you see? don’t you understand? It is my dishonour that has made you so dear to me. It is my disgrace that has bound you so closely to me. It is the price I paid for you - the price of [[motifs/soul\|soul]] and [[concepts/body\|body]] - that makes me [[motifs/love\|love]] you as I do. Oh, don’t ask me to do this horrible thing. [[archetypes/child\|Child]] of my shame, be still the [[archetypes/child\|child]] of my shame! |
+| MRS | ARBUTHNOT. Men don’t understand what mothers are. I am no different from other women except in the wrong done me and the wrong I did, and my very heavy punishments and great disgrace. And yet, to bear you I had to look on [[motifs/death\|death]]. To nurture you I had to wrestle with it. [[motifs/death\|Death]] fought with me for you. All women have to fight with [[motifs/death\|death]] to keep their children. [[motifs/death\|Death]], being childless, wants our children from us. Gerald, when you were naked I clothed you, when you were hungry I gave you food. [[motifs/night\|Night]] and day all that long [[motifs/winter\|winter]] I tended you. No office is too mean, no care too lowly for the thing we women [[motifs/love\|love]] - and oh! how I loved YOU. Not Hannah, Samuel more. And you needed [[motifs/love\|love]], for you were weakly, and only [[motifs/love\|love]] could have kept you alive. Only [[motifs/love\|love]] can keep any one alive. And boys are careless often and without thinking give [[motifs/pain\|pain]], and we always fancy that when they come to man’s estate and know us better they will repay us. But it is not so. The world draws them from our side, and they make friends with whom they are happier than they are with us, and have amusements from which we are barred, and interests that are not ours: and they are unjust to us often, for when they find life bitter they blame us for it, and when they find it sweet we do not taste its sweetness with them . . . You made many friends and went into their houses and were glad with them, and I, knowing my secret, did not dare to follow, but stayed at [[motifs/home\|home]] and closed the door, shut out the sun and sat in darkness. What should I have done in honest households? My past was ever with me. . . . And you thought I didn’t care for the pleasant things of life. I tell you I longed for them, but did not dare to touch them, feeling I had no right. You thought I was happier working amongst the poor. That was my mission, you imagined. It was not, but where else was I to go? The sick do not ask if the hand that smooths their pillow is pure, nor the dying care if the lips that touch their brow have known the kiss of sin. It was you I thought of all the [[motifs/time\|time]]; I gave to them the [[motifs/love\|love]] you did not need: lavished on them a [[motifs/love\|love]] that was not theirs . . . And you thought I spent too much of my [[motifs/time\|time]] in going to Church, and in Church duties. But where else could I turn? God’s [[house]] is the only [[house]] where sinners are made welcome, and you were always in my heart, Gerald, too much in my heart. For, though day after day, at morn or evensong, I have knelt in God’s [[house]], I have never repented of my sin. How could I repent of my sin when you, my [[motifs/love\|love]], were its fruit! Even now that you are bitter to me I cannot repent. I do not. You are more to me than [[innocence]]. I would rather be your mother - oh! much rather! - than have been always pure . . . Oh, don’t you see? don’t you understand? It is my dishonour that has made you so dear to me. It is my disgrace that has bound you so closely to me. It is the price I paid for you - the price of [[motifs/soul\|soul]] and [[concepts/body\|body]] - that makes me [[motifs/love\|love]] you as I do. Oh, don’t ask me to do this horrible thing. [[archetypes/child\|Child]] of my shame, be still the [[archetypes/child\|child]] of my shame! |
 
 
 
@@ -1320,7 +1349,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ARBUTHNOT. No, not for me. For me the world is shrivelled to a palm’s breadth, and where I walk there are thorns. |
 | HESTER | It shall not be so. We shall somewhere find green valleys and fresh waters, and if we weep, [[motifs/well\|well]], we shall weep together. Have we not both loved him? |
 | GERALD | Hester! |
-| HESTER | [Waving him back.] Don’t, don’t! You cannot [[motifs/love\|love]] me at all, unless you [[motifs/love\|love]] her also. You cannot [[concepts/honour\|honour]] me, unless she’s holier to you. In her all womanhood is martyred. Not she alone, but all of us are stricken in her house. |
+| HESTER | [Waving him back.] Don’t, don’t! You cannot [[motifs/love\|love]] me at all, unless you [[motifs/love\|love]] her also. You cannot [[concepts/honour\|honour]] me, unless she’s holier to you. In her all womanhood is martyred. Not she [[Alone\|alone]], but all of us are stricken in her [[house]]. |
 | GERALD | Hester, Hester, what shall I do? |
 | HESTER | Do you respect the man who is your father? |
 | GERALD | Respect him? I despise him! He is infamous. |
@@ -1332,7 +1361,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ARBUTHNOT. He is hard - he is hard. Let me go away. |
 | GERALD | [Rushes over and kneels down bedside his mother.] Mother, forgive me: I have been to blame. |
 | MRS | ARBUTHNOT. Don’t kiss my hands: they are cold. My heart is cold: something has broken it.<br>HESTER, Ah, don’t say that. Hearts live by being wounded. Pleasure may turn a heart to stone, riches may make it callous, but sorrow - oh, sorrow cannot break it. Besides, what sorrows have you now? Why, at this moment you are more dear to him than ever, DEAR though you have BEEN, and oh! how dear you HAVE been always. Ah! be kind to him. |
-| GERALD | You are my mother and my father all in one. I need no second parent. It was for you I spoke, for you alone. Oh, say something, mother. Have I but found one [[motifs/love\|love]] to lose another? Don’t tell me that. O mother, you are cruel. [Gets up and flings himself sobbing on a sofa.] |
+| GERALD | You are my mother and my father all in one. I need no second parent. It was for you I spoke, for you [[Alone\|alone]]. Oh, say something, mother. Have I but found one [[motifs/love\|love]] to lose another? Don’t tell me that. O mother, you are cruel. [Gets up and flings himself sobbing on a sofa.] |
 | MRS | ARBUTHNOT. [To HESTER.] But has he found indeed another [[motifs/love\|love]]? |
 | HESTER | You know I have loved him always. |
 | MRS | ARBUTHNOT. But we are very poor. |
@@ -1359,7 +1388,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | HESTER | [To MRS. ARBUTHNOT.] Come out with us to the [[motifs/garden\|garden]]. |
 | MRS | ARBUTHNOT. Later on, later on. [Exeunt HESTER and GERALD. MRS. ARBUTHNOT goes towards door L.C. Stops at looking-glass over mantelpiece and looks into it. Enter ALICE R.C.] |
 | ALICE | A gentleman to see you, ma’am. |
-| MRS | ARBUTHNOT. Say I am not at [[motifs/home\|home]]. Show me the card. [Takes card from salver and looks at it.] Say I will not see him.<br>[[[characters/lord-illingworth\|LORD ILLINGWORTH]] enters. MRS. ARBUTHNOT sees him in the glass and starts, but does not turn round. Exit ALICE.] What can you have to say to me to-day, George Harford? You can have nothing to say to me. You must leave this house. |
+| MRS | ARBUTHNOT. Say I am not at [[motifs/home\|home]]. Show me the card. [Takes card from salver and looks at it.] Say I will not see him.<br>[[[characters/lord-illingworth\|LORD ILLINGWORTH]] enters. MRS. ARBUTHNOT sees him in the glass and starts, but does not turn round. Exit ALICE.] What can you have to say to me to-day, George Harford? You can have nothing to say to me. You must leave this [[house]]. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Rachel, Gerald knows everything about you and me now, so some arrangement must be come to that will suit us all three. I assure you, he will find in me the most charming and generous of fathers. |
 | MRS | ARBUTHNOT. My son may come in at any moment. I saved you last [[motifs/night\|night]]. I may not be able to save you again. My son feels my dishonour strongly, terribly strongly. I beg you to go. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | [Sitting down.] Last [[motifs/night\|night]] was excessively unfortunate. That silly Puritan girl making a scene merely because I wanted to kiss her. What harm is there in a kiss? |
@@ -1375,7 +1404,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | Speaker | Line |
 |---|---|
 | MRS | ARBUTHNOT. [[characters/lord-illingworth\|Lord Illingworth]], no proposition of yours interests me. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | According to our ridiculous English laws, I can’t legitimise Gerald. But I can leave him my property. Illingworth is entailed, of course, but it is a tedious barrack of a place. He can have Ashby, which is much prettier, Harborough, which has the best shooting in the north of England, and the house in St. James Square. What more can a gentleman require in this world? |
+| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | According to our ridiculous English laws, I can’t legitimise Gerald. But I can leave him my property. Illingworth is entailed, of course, but it is a tedious barrack of a place. He can have Ashby, which is much prettier, Harborough, which has the best shooting in the north of England, and the [[house]] in St. James Square. What more can a gentleman require in this world? |
 | MRS | ARBUTHNOT. Nothing more, I am quite sure. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | As for a title, a title is really rather a nuisance in these democratic days. As George Harford I had everything I wanted. Now I have merely everything that other people want, which isn’t nearly so pleasant. [[motifs/well\|Well]], my proposal is this. |
 | MRS | ARBUTHNOT. I told you I was not interested, and I beg you to go. |
@@ -1422,7 +1451,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ARBUTHNOT. Yes. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Do tell me your reasons. They would interest me enormously. |
 | MRS | ARBUTHNOT. I have already explained them to my son. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | I suppose they were intensely sentimental, weren’t they? You women live by your emotions and for them. You have no philosophy of life. |
+| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | I suppose they were intensely sentimental, weren’t they? You women live by your emotions and for them. You have no [[philosophy]] of life. |
 | MRS | ARBUTHNOT. You are right. We women live by our emotions and for them. By our passions, and for them, if you will. I have two passions, [[characters/lord-illingworth\|Lord Illingworth]]: my [[motifs/love\|love]] of him, my hate of you. You cannot kill those. They feed each other. |
 
 

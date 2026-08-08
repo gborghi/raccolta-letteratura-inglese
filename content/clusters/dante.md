@@ -17,6 +17,6 @@ tags:
 <div class="concept-works-fallback">
 
 - [[works/four-quartets-(eliot)|FOUR QUARTETS (Eliot)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#297_reason|REASON (Coleridge)]]
+- [[works/reason-(coleridge)|REASON (Coleridge)]]
 
 </div>

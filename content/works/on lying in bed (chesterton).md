@@ -46,7 +46,7 @@ tags:
 
 **Historical References:** [[historical-references/bible|Bible]], [[historical-references/michelangelo|Michelangelo]], [[historical-references/henrik-ibsen|Henrik Ibsen]]
 
-**Characters:** [[characters/cyrano-de-bergerac|Cyrano de Bergerac]]
+**Characters:** Cyrano de Bergerac
 
 **Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/heroism|Heroism]], [[concepts/imagination|Imagination]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/indolence|Indolence]], [[concepts/common-man|Common Man]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/freedom|Freedom]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

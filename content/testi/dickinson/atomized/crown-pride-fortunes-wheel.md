@@ -18,7 +18,7 @@ I have a [[archetypes/king|King]], who does not speak —
 So — wondering — thro' the hours meek  
 I trudge the day away —  
 Half glad when it is [[motifs/night|night]], and [[motifs/sleep|sleep]],  
-If, haply, thro' a dream, to peep  
+If, haply, thro' [[A Dream|a dream]], to peep  
 In parlors, shut by day.  
 
 And if I do — when morning comes —  

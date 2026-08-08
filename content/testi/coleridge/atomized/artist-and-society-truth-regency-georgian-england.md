@@ -11,13 +11,13 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england" data-author="Coleridge" data-workhref="works/artist-and-society-·-truth-·-regency-georgian-england-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="008_to_the_muse" data-title="TO THE MUSE" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,concept/imagination,concept/the_artist_and_society,concept/satire_of_society,concept/joy,form/lyric,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+<span class="atom-split" data-atom="008_to_the_muse" data-title="TO THE MUSE" data-chapter="" data-kind="intro"></span>
 
 
 Tho’ no bold flights to thee belong;  
 And tho’ thy lays with conscious [[concepts/fear|fear]],  
 Shrink from Judgement’s eye severe,  
-Yet much I thank thee, Spirit of my song!  
+Yet much I thank thee, Spirit of my [[Song|song]]!  
 For, lovely Muse! thy sweet employ   5  
 Exalts my [[motifs/soul|soul]], refines my breast,  
 Gives each pure pleasure keener zest,  
@@ -33,7 +33,7 @@ Whose hues gay-varying wanton in the sun.
 
 
 
-<span class="atom-split" data-atom="208_to_matilda_betham_from_a_stranger" data-title="TO MATILDA BETHAM FROM A STRANGER" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/nightingale,concept/the_artist_and_society,concept/truth,concept/imagination,form/epistle,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+<span class="atom-split" data-atom="208_to_matilda_betham_from_a_stranger" data-title="TO MATILDA BETHAM FROM A STRANGER" data-chapter="" data-kind="intro"></span>
 
 
 [‘One of our most celebrated poets, who had, I was told, picked out and  
@@ -71,7 +71,7 @@ Nor do I know a sweeter [[concepts/hope|Hope]] than this,
 That this sweet [[concepts/hope|Hope]], by judgment unreproved,  
 That our own Britain, our dear mother Isle,   25  
 May boast one Maid, a poetess indeed,  
-Great as th’ impassioned Lesbian, in sweet song,  
+Great as th’ impassioned Lesbian, in sweet [[Song|song]],  
 And O! of holier mind, and happier fate.  
 Matilda! I dare twine thy vernal wreath  
 Around the brows of patriot [[concepts/hope|Hope]]! But thou   30  
@@ -99,7 +99,7 @@ And exultation even in strangers’ hearts?
 
 
 
-<span class="atom-split" data-atom="237_a_tombless_epitaph" data-title="A TOMBLESS EPITAPH" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,concept/truth,concept/the_artist_and_society,concept/satire_of_society,concept/nostalgia,form/elegy,histref/greek_mythology,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+<span class="atom-split" data-atom="237_a_tombless_epitaph" data-title="A TOMBLESS EPITAPH" data-chapter="" data-kind="intro"></span>
 
 
 ‘Tis true, Idoloclastes Satyrane!  
@@ -129,9 +129,9 @@ There issues from the fount of Hippocrene,
 But he had traced it upward to its source,   25  
 Through open glade, dark glen, and secret dell,  
 Knew the gay wild [[motifs/flowers|flowers]] on its banks, and culled  
-Its med’cinable herbs. Yea, oft alone,  
+Its med’cinable herbs. Yea, oft [[Alone|alone]],  
 Piercing the long-neglected holy [[motifs/cave|cave]],  
-The haunt obscure of old Philosophy,   30  
+The haunt obscure of old [[philosophy|Philosophy]],   30  
 He bade with lifted torch its starry walls  
 Sparkle, as erst they sparkled to the flame  
 Of odorous lamps tended by Saint and Sage.  
@@ -147,7 +147,7 @@ Thoughtful, with quiet [[motifs/tears|tears]] upon his cheek.   40
 
 
 
-<span class="atom-split" data-atom="283_lines_to_a_comic_author_on_an_abusive_review" data-title="LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW" data-chapter="" data-kind="intro" data-tags="archetype/fool,concept/the_artist_and_society,concept/satire_of_society,form/satire,histref/classical_antiquity,histref/greek_mythology,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+<span class="atom-split" data-atom="283_lines_to_a_comic_author_on_an_abusive_review" data-title="LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW" data-chapter="" data-kind="intro"></span>
 
 
 What though the chilly wide-mouth’d quacking [[characters/chorus|chorus]]  
@@ -172,7 +172,7 @@ No! laugh, and say aloud, in tones of glee,
 
 
 
-<span class="atom-split" data-atom="384_not_a_critic_but_a_judge" data-title="NOT A CRITIC — BUT A JUDGE" data-chapter="" data-kind="intro" data-tags="concept/the_artist_and_society,concept/revenge,concept/justice,form/nonfiction,form/epigram,form/literary_criticism,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+<span class="atom-split" data-atom="384_not_a_critic_but_a_judge" data-title="NOT A CRITIC — BUT A JUDGE" data-chapter="" data-kind="intro"></span>
 
 
 Whom should I choose for my Judge? the earnest, impersonal reader,
@@ -187,7 +187,7 @@ March 1806. First published from an MS. in 1893.
 
 
 
-<span class="atom-split" data-atom="411_notes_by_professor_saintsbury" data-title="NOTES BY PROFESSOR SAINTSBURY" data-chapter="" data-kind="intro" data-tags="concept/the_artist_and_society,form/nonfiction,form/literary_criticism,form/essay,form/pindaric_ode,histref/the_romantic_movement,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+<span class="atom-split" data-atom="411_notes_by_professor_saintsbury" data-title="NOTES BY PROFESSOR SAINTSBURY" data-chapter="" data-kind="intro"></span>
 
 
 1. I think most ears would take these as anapaestic throughout. But the
@@ -223,7 +223,7 @@ quarrel is ÃÀ¿½´¿Â.
 
 
 
-<span class="atom-split" data-atom="417_adaptations" data-title="ADAPTATIONS" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,concept/the_artist_and_society,concept/love_romantic,form/nonfiction,form/literary_criticism,form/essay,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+<span class="atom-split" data-atom="417_adaptations" data-title="ADAPTATIONS" data-chapter="" data-kind="intro"></span>
 
 
 For a critical study of Coleridge’s alterations in the text of the
@@ -235,7 +235,7 @@ published in the Athenæum, August 20, 1892, and ‘Adaptations’, P.
 W., 1893, pp. 471-4. Most of these textual alterations or garblings
 were noted by H. N. Coleridge in an edition of The Friend published in
 1837; Mr. Campbell was the first to collect and include the mottoes and
-quotations in a sub-section of Coleridge’s Poetical Works. Three poems,
+quotations in a sub-section of Coleridge’s Poetical Works. Three [[Poems|poems]],
 (1) ‘An [[forms/elegy|Elegy]] Imitated from Akenside’, (2) ‘Farewell to [[motifs/love|Love]] ‘, (3)
 ‘Mutual Passion altered and modernized from an Old Poet’, may be
 reckoned as ‘Adaptations’. The first and third of these composite

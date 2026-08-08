@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/joy-animals-comic-verse-song" data-author="Eliot" data-workhref="works/joy-·-animals-·-comic-verse-song-(eliot)"></div>
 
 
-<span class="atom-split" data-atom="080_the_naming_of_cats" data-title="The Naming of Cats" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/animals,concept/identity,concept/joy,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="080_the_naming_of_cats" data-title="The Naming of Cats" data-chapter="" data-kind="intro"></span>
 
 
 The Naming of Cats  
@@ -93,7 +93,7 @@ profondo e imperscrutabile singolare Nome.
 
 
 
-<span class="atom-split" data-atom="081_the_old_gumbie_cat" data-title="The Old Gumbie Cat" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/music_and_song,motif/food_feasting,concept/joy,form/narrative_poem,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="081_the_old_gumbie_cat" data-title="The Old Gumbie Cat" data-chapter="" data-kind="intro"></span>
 
 
 The Old Gumbie Cat  
@@ -122,7 +122,7 @@ She sits and sits and sits and sits — and that’s what makes a Gumbie
            And believing that nothing is done without trying,  
            She sets to work with her baking and frying.  
            She makes them a mouse-cake of bread and dried peas,  
-           And a beautiful fry of lean bacon and cheese.  
+           And a beautiful fry of lean bacon and [[cheese]].  
 
 
 I have a Gumbie Cat in mind, her name is Jennyanydots;  
@@ -170,7 +170,7 @@ siede e siede e siede e siede — ed è questo che fa un Gatto
            e credendo che nulla si faccia senza provare,  
            si mette all’opera a cuocere e a friggere.  
            Fa loro una torta-di-topi di pane e piselli secchi,  
-           e una bella frittura di pancetta magra e formaggio.  
+           e una bella frittura di pancetta magra e [[cheese|formaggio]].  
 
 
 Ho in mente un Gatto Gumbie, il suo nome è Jennyanydots;  
@@ -191,7 +191,7 @@ da cui dipendono, a quanto pare, le case [[motifs/well|ben]] ordinate.
 
 
 
-<span class="atom-split" data-atom="082_growltigers_last_stand" data-title="Growltiger’s Last Stand" data-chapter="" data-kind="intro" data-tags="topos/the_last_stand,archetype/villain,motif/animals,motif/the_sea,motif/swords_weapons,form/mock_epic,form/narrative_poem,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="082_growltigers_last_stand" data-title="Growltiger’s Last Stand" data-chapter="" data-kind="intro"></span>
 
 
 Growltiger’s [[topoi/last-stand|Last Stand]]  
@@ -207,7 +207,7 @@ One ear was somewhat missing, no need to tell you why,
 And he scowled upon a hostile world from one forbidding eye.  
 The cottagers of Rotherhithe knew something of his fame;  
 At Hammersmith and Putney people shuddered at his name.  
-They would fortify the hen-house, lock up the silly goose,  
+They would fortify the hen-[[house]], lock up the silly goose,  
 When the rumour ran along the shore: GROWLTIGER’S ON THE LOOSE!  
 
 
@@ -231,7 +231,7 @@ And his bosun, TUMBLEBRUTUS, he too had stol’n away —
 
 
 In the yard behind the [[motifs/lion|Lion]] he was prowling for his prey.  
-In the forepeak of the vessel Growltiger sate alone,  
+In the forepeak of the vessel Growltiger sate [[Alone|alone]],  
 Concentrating his attention on the Lady GRIDDLEBONE.  
 
 
@@ -243,7 +243,7 @@ Disposed to relaxation, and awaiting no surprise —
 But the moonlight shone reflected from a hundred bright blue eyes.  
 And closer still and closer the sampans circled round,  
 And yet from all the enemy there was not heard a sound.  
-The lovers sang their last duet‚ in danger of their lives —  
+The [[lovers]] sang their last duet‚ in danger of their lives —  
 For the foe was armed with toasting forks and cruel carving knives.  
 Then GILBERT gave the signal to his fierce Mongolian horde;  
 
@@ -280,7 +280,7 @@ un orecchio gli mancava un poco, inutile dirvi perché,
 e guardava torvo un mondo ostile con un occhio solo e minaccioso.  
 I casigliani di Rotherhithe sapevano qualcosa della sua fama;  
 a Hammersmith e a Putney la gente rabbrividiva al suo nome.  
-Fortificavano la casa delle galline, chiudevano a chiave l’oca sciocca,  
+Fortificavano la [[house|casa]] delle galline, chiudevano a chiave l’oca sciocca,  
 quando la voce correva lungo la riva: GROWLTIGER È A PIEDE LIBERO!  
 
 
@@ -304,7 +304,7 @@ e il suo nostromo, TUMBLEBRUTUS, anche lui se n’era svignato —
 
 
 nel cortile dietro il [[motifs/lion|Leone]] andava aggirandosi in cerca di preda.  
-Nel gavone di prua del vascello Growltiger sedeva solo,  
+Nel gavone di prua del vascello Growltiger sedeva [[Alone|solo]],  
 concentrando la sua attenzione sulla Lady GRIDDLEBONE.  
 
 
@@ -316,7 +316,7 @@ disposta al riposo, e senza aspettarsi sorprese —
 ma il chiaro di luna splendeva riflesso da cento occhi azzurri e lucenti.  
 E sempre più vicini e più vicini i sampan giravano intorno,  
 eppure da tutto il nemico non s’udiva un suono.  
-Gli amanti cantavano il loro ultimo duetto, in pericolo di vita —  
+Gli [[lovers|amanti]] cantavano il loro ultimo duetto, in pericolo di vita —  
 ché il nemico era armato di forchettoni da tostare e di crudeli trincianti.  
 Poi GILBERT diede il segnale alla sua feroce orda mongola;  
 
@@ -339,14 +339,14 @@ e un giorno di festa fu ordinato a Bangkok.
 
 
 
-<span class="atom-split" data-atom="083_the_rum_turn_tugger" data-title="The Rum Turn Tugger" data-chapter="" data-kind="intro" data-tags="archetype/trickster,motif/animals,concept/joy,concept/identity,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="083_the_rum_turn_tugger" data-title="The Rum Turn Tugger" data-chapter="" data-kind="intro"></span>
 
 
 The Rum Turn Tugger  
 The Rum Tum Tugger is a Curious Cat:  
 If you offer him pheasant he would rather have grouse.  
-If you put him in a house he would much prefer a flat,  
-If you put him in a flat then he’d rather have a house.  
+If you put him in a [[house]] he would much prefer a flat,  
+If you put him in a flat then he’d rather have a [[house]].  
 If you set him on a mouse then he only wants a rat,  
 If you set him on a rat then he’d rather chase a mouse.  
 Yes the Rum Tum Tugger is a Curious Cat —  
@@ -389,8 +389,8 @@ Yes the Rum Tum Tugger is a Curious Cat —
 Il Rum Tum Tugger  
 Il Rum Tum Tugger è un Gatto Curioso:  
 se gli offrite fagiano preferirebbe il gallo cedrone.  
-Se lo mettete in una casa preferirebbe di gran lunga un appartamento,  
-se lo mettete in un appartamento allora preferirebbe una casa.  
+Se lo mettete in una [[house|casa]] preferirebbe di gran lunga un appartamento,  
+se lo mettete in un appartamento allora preferirebbe una [[house|casa]].  
 Se lo aizzate contro un topo allora vuole soltanto un ratto,  
 se lo aizzate contro un ratto allora preferirebbe inseguire un topo.  
 Sì, il Rum Tum Tugger è un Gatto Curioso —  
@@ -429,7 +429,7 @@ Sì, il Rum Tum Tugger è un Gatto Curioso —
 
 
 
-<span class="atom-split" data-atom="084_the_song_of_the_jellicles" data-title="The Song of the Jellicles" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/moon,motif/night,motif/dance_of_death,concept/joy,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="084_the_song_of_the_jellicles" data-title="The Song of the Jellicles" data-chapter="" data-kind="intro"></span>
 
 
 The [[works/song-(poe)|Song]] of the Jellicles  
@@ -479,7 +479,7 @@ For the Jellicle [[motifs/moon|Moon]] and the Jellicle Ball.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il Canto dei Jellicle  
+Il [[Song|Canto]] dei Jellicle  
 I Gatti Jellicle escono questa [[motifs/night|notte]],  
 
 
@@ -525,7 +525,7 @@ per la [[motifs/moon|Luna]] Jellicle e il Ballo Jellicle.
 
 
 
-<span class="atom-split" data-atom="085_mungojerrie_and_rumpelteazer" data-title="Mungojerrie and Rumpelteazer" data-chapter="" data-kind="intro" data-tags="archetype/trickster,motif/animals,motif/the_city,concept/joy,form/narrative_poem,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="085_mungojerrie_and_rumpelteazer" data-title="Mungojerrie and Rumpelteazer" data-chapter="" data-kind="intro"></span>
 
 
 Mungojerrie and Rumpelteazer  
@@ -574,7 +574,7 @@ Mungojerrie and Rumpelteazer had a wonderful way of working
         together.  
 And some of the [[motifs/time|time]] you would say it was luck, and some of the [[motifs/time|time]]  
         you would say it was weather.  
-They would go through the house like a hurricane, and no sober person  
+They would go through the [[house]] like a hurricane, and no sober person  
         could take his oath  
 Was it Mungojerrie — or Rumpelteazer? or could you have sworn that  
         it mightn’t be both?  
@@ -637,7 +637,7 @@ Mungojerrie e Rumpelteazer avevano un modo meraviglioso di lavorare
         insieme.  
 E qualche [[motifs/time|volta]] avreste detto che era fortuna, e qualche [[motifs/time|volta]]  
         avreste detto che era il tempo.  
-Attraversavano la casa come un uragano, e nessuna persona sobria  
+Attraversavano la [[house|casa]] come un uragano, e nessuna persona sobria  
         avrebbe potuto giurare  
 se fosse Mungojerrie — o Rumpelteazer? o avreste potuto giurare che  
         non fossero tutti e due?  
@@ -653,7 +653,7 @@ Era Mungojerrie! E Rumpelteazer!’ — E non c’è proprio nulla
 
 
 
-<span class="atom-split" data-atom="086_old_deuteronomy" data-title="Old Deuteronomy" data-chapter="" data-kind="intro" data-tags="archetype/wise_old_man,motif/animals,concept/joy,form/narrative_poem,histref/victorian_england,setting/rural_england,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="086_old_deuteronomy" data-title="Old Deuteronomy" data-chapter="" data-kind="intro"></span>
 
 
 Old Deuteronomy  
@@ -678,7 +678,7 @@ I believe it is Old Deuteronomy!’
 Old Deuteronomy sits in the street,  
     He sits in the High Street on market day;  
 The bullocks may bellow, the sheep they may bleat,  
-    But the dogs and the herdsmen will turn them away.  
+    But the [[dogs]] and the herdsmen will turn them away.  
 The cars and the lorries run over the kerb,  
     And the villagers put up a notice: [[motifs/road|ROAD]] CLOSED —  
 
@@ -734,7 +734,7 @@ che credo sia il Vecchio Deuteronomio!’
 Il Vecchio Deuteronomio siede in mezzo alla strada,  
     siede nella Via Maestra il giorno di mercato;  
 i giovenchi possono muggire, le pecore possono belare,  
-    ma i cani e i mandriani li faranno girare al largo.  
+    ma i [[dogs|cani]] e i mandriani li faranno girare al largo.  
 Le auto e i camion salgono sul marciapiede,  
     e i paesani mettono un cartello: [[motifs/road|STRADA]] CHIUSA —  
 
@@ -767,7 +767,7 @@ e stare attento al Vecchio Deuteronomio!’
 
 
 
-<span class="atom-split" data-atom="087_of_the_awefull_battle_of_the_pekes_and_the_pollicles" data-title="Of the Awefull Battle of the Pekes and the Pollicles" data-chapter="" data-kind="intro" data-tags="topos/world_upside_down,motif/animals,motif/the_city,concept/joy,form/mock_epic,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="087_of_the_awefull_battle_of_the_pekes_and_the_pollicles" data-title="Of the Awefull Battle of the Pekes and the Pollicles" data-chapter="" data-kind="intro"></span>
 
 
 Of the Awefull Battle of the Pekes and the Pollicles  
@@ -915,7 +915,7 @@ non ne era rimasto uno solo per la strada.
 
 
 
-<span class="atom-split" data-atom="088_mr_mistoffelees" data-title="Mr. Mistoffelees" data-chapter="" data-kind="intro" data-tags="archetype/trickster,motif/animals,motif/the_supernatural,concept/joy,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="088_mr_mistoffelees" data-title="Mr. Mistoffelees" data-chapter="" data-kind="intro"></span>
 
 
 Mr. Mistoffelees  
@@ -1071,7 +1071,7 @@ tirò fuori sette gattini proprio da un cappello!
 
 
 
-<span class="atom-split" data-atom="089_macavity_the_mystery_cat" data-title="Macavity: the Mystery Cat" data-chapter="" data-kind="intro" data-tags="archetype/villain,archetype/detective,motif/animals,concept/rationcination_detection,concept/satire_of_society,form/narrative_poem,character/macavity,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="089_macavity_the_mystery_cat" data-title="Macavity: the Mystery Cat" data-chapter="" data-kind="intro"></span>
 
 
 [[characters/macavity|Macavity]]: the Mystery Cat  
@@ -1199,13 +1199,13 @@ si limita a dirigere le loro operazioni: il Napoleone del Delitto!
 
 
 
-<span class="atom-split" data-atom="090_gus_the_theatre_cat" data-title="Gus: the Theatre Cat" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,motif/animals,motif/masks_disguise,concept/nostalgia,form/dramatic_monologue,histref/victorian_england,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="090_gus_the_theatre_cat" data-title="Gus: the Theatre Cat" data-chapter="" data-kind="intro"></span>
 
 
 Gus: the Theatre Cat  
 Gus is the Cat at the Theatre Door.  
 His name, as I ought to have told you before,  
-Is really Asparagus. That’s such a fuss  
+Is really [[asparagus|Asparagus]]. That’s such a fuss  
 To pronounce, that we usually call him just Gus.  
 His coat’s very shabby, he’s thin as a rake,  
 And he suffers from palsy that makes his paw shake.  
@@ -1219,7 +1219,7 @@ He loves to regale them, if someone else pays,
 With anecdotes drawn from his palmiest days.  
 For he once was a Star of the highest degree —  
 He has acted with Irving, he’s acted with Tree.  
-And he likes to relate his success on the Halls,  
+And he likes to relate his [[success]] on the Halls,  
 Where the Gallery once gave him seven cat-calls.  
 But his grandest creation, as he loves to tell,  
 Was Firefrorefiddle, the Fiend of the Fell.  
@@ -1246,7 +1246,7 @@ Which an Indian Colonel pursued down a drain.
 And he thinks that he still can, much better than most,  
 Produce [[motifs/blood|blood]]-curdling noises to bring on the [[archetypes/ghost|Ghost]].  
 And he once crossed the stage on a telegraph wire,  
-To rescue a [[archetypes/child|child]] when a house was on [[motifs/fire|fire]].  
+To rescue a [[archetypes/child|child]] when a [[house]] was on [[motifs/fire|fire]].  
 And he says: ‘Now, these kittens, they do not get trained  
 As we did in the days when Victoria reigned.  
 They never get drilled in a regular troupe,  
@@ -1265,7 +1265,7 @@ As Firefrorefiddle, the Fiend of the Fell.’
 Gus: il Gatto del Teatro  
 Gus è il Gatto alla Porta del Teatro.  
 Il suo nome, come avrei dovuto dirvi prima,  
-è veramente Asparagus. Che è un tale impiccio  
+è veramente [[asparagus|Asparagus]]. Che è un tale impiccio  
 da pronunciare, che di solito lo chiamiamo Gus soltanto.  
 Il suo manto è assai malandato, è magro come un chiodo,  
 e soffre di tremito che gli fa tremare la zampa.  
@@ -1279,7 +1279,7 @@ ama intrattenerli, se qualcun altro paga,
 con aneddoti tratti dai suoi giorni più fulgidi.  
 Perché una volta fu una Stella di grado altissimo —  
 ha recitato con Irving, ha recitato con Tree.  
-E gli piace raccontare il suo successo nei Music-Hall,  
+E gli piace raccontare il suo [[success|successo]] nei Music-Hall,  
 dove il Loggione una volta gli diede sette miagolii.  
 Ma la sua creazione più grandiosa, come ama raccontare,  
 fu Firefrorefiddle, il Demonio della Brughiera.  
@@ -1306,7 +1306,7 @@ che un Colonnello indiano inseguì giù per una fogna.
 E pensa di poter ancora, molto meglio dei più,  
 produrre rumori da agghiacciare il [[motifs/blood|sangue]] per far entrare lo [[archetypes/ghost|Spettro]].  
 E una volta attraversò il palco su un filo del telegrafo,  
-per salvare un [[archetypes/child|bambino]] mentre una casa andava a [[motifs/fire|fuoco]].  
+per salvare un [[archetypes/child|bambino]] mentre una [[house|casa]] andava a [[motifs/fire|fuoco]].  
 E dice: ‘Ora, questi gattini, non vengono addestrati  
 come lo eravamo noi ai giorni in cui regnava Vittoria.  
 Non fanno mai esercizio in una compagnia regolare,  
@@ -1321,7 +1321,7 @@ come Firefrorefiddle, il Demonio della Brughiera.’
 
 
 
-<span class="atom-split" data-atom="091_bustopher_jones_the_cat_about_town" data-title="Bustopher Jones: the Cat About Town" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/food_feasting,motif/the_inn_tavern,concept/satire_of_society,concept/joy,form/song,setting/london,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="091_bustopher_jones_the_cat_about_town" data-title="Bustopher Jones: the Cat About Town" data-chapter="" data-kind="intro"></span>
 
 
 Bustopher [[characters/jones|Jones]]: the Cat About Town  
@@ -1433,7 +1433,7 @@ finché Bustopher [[characters/jones|Jones]] porta le ghette bianche!
 
 
 
-<span class="atom-split" data-atom="092_skimbleshanks_the_railway_cat" data-title="Skimbleshanks: the Railway Cat" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/the_journey,motif/night,concept/joy,form/narrative_poem,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="092_skimbleshanks_the_railway_cat" data-title="Skimbleshanks: the Railway Cat" data-chapter="" data-kind="intro"></span>
 
 
 Skimbleshanks: the Railway Cat  
@@ -1577,7 +1577,7 @@ ché Skimbleshanks vi aiuterà a scendere!
 
 
 
-<span class="atom-split" data-atom="093_the_ad-dressing_of_cats" data-title="The Ad-dressing of Cats" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/joy,concept/satire_of_society,concept/identity,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="093_the_ad-dressing_of_cats" data-title="The Ad-dressing of Cats" data-chapter="" data-kind="intro"></span>
 
 
 The Ad-dressing of Cats  
@@ -1602,7 +1602,7 @@ So first, your [[motifs/memory|memory]] I’ll jog,
 And say: A CAT IS NOT A DOG.  
 
 
-Now Dogs pretend they like to fight;  
+Now [[dogs|Dogs]] pretend they like to fight;  
 They often bark, more seldom bite;  
 But yet a Dog is, on the whole,  
 What you would call a simple [[motifs/soul|soul]].  
@@ -1686,7 +1686,7 @@ Dunque prima vi rinfrescherò la [[motifs/memory|memoria]],
 e dirò: UN GATTO NON È UN CANE.  
 
 
-Ora i Cani fingono che gli piaccia azzuffarsi;  
+Ora i [[dogs|Cani]] fingono che gli piaccia azzuffarsi;  
 spesso abbaiano, più di rado mordono;  
 ma pure un Cane è, tutto sommato,  
 quel che chiamereste un’[[motifs/soul|anima]] semplice.  
@@ -1747,7 +1747,7 @@ ed ecco come ci si RI-VOLGE A UN GATTO.
 
 
 
-<span class="atom-split" data-atom="094_cat_morgan_introduces_himself" data-title="Cat Morgan Introduces Himself" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/animals,motif/the_sea,concept/joy,form/dramatic_monologue,setting/london,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="094_cat_morgan_introduces_himself" data-title="Cat Morgan Introduces Himself" data-chapter="" data-kind="intro"></span>
 
 
 Cat Morgan Introduces Himself  
@@ -1801,7 +1801,7 @@ Ve risparmiate [[motifs/time|tempo]], e ve risparmiate fatica
 
 
 
-<span class="atom-split" data-atom="102_a_fable_for_feasters" data-title="A Fable for Feasters" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/wine_and_drink,motif/ghosts,motif/the_supernatural,motif/ruins,concept/satire_of_society,form/mock_epic,form/ottava_rima,form/narrative_poem,form/satire,histref/medieval_england,histref/christianity,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="102_a_fable_for_feasters" data-title="A Fable for Feasters" data-chapter="" data-kind="intro"></span>
 
 
 A [[forms/fable|Fable]] for Feasters  
@@ -1858,7 +1858,7 @@ A mighty peacock standing on both legs
 Next came a viand made of turtle eggs,  
    And after that a great pie made of plover,  
 And flagons which perhaps held several kegs  
-   Of ale, and cheese which they kept under cover.  
+   Of ale, and [[cheese]] which they kept under cover.  
        Last, a boar’s head, which to bring in took four pages,  
        His mouth an apple held, his skull held sausages.  
 Over their Christmas wassail the [[characters/monks|monks]] dozed,  
@@ -1878,7 +1878,7 @@ Who knows the [[motifs/well|well]] known fact, as you do surely —
 It is a thing to be lamented sorely  
    Such slippery folk should be allowed about.  
        For often they drop in at awkward moments,  
-       As everybody’ll know who reads this romance.  
+       As everybody’ll know who reads this [[Romance|romance]].  
 The Abbot sat as pasted to his chair,  
    His eye became the size of any dollar,  
 The [[archetypes/ghost|ghost]] then took him roughly by the hair  
@@ -1961,7 +1961,7 @@ Un possente pavone ritto sulle due zampe
 Poi venne una pietanza d’uova di tartaruga,  
    E dopo quella un gran pasticcio di pivieri,  
 E boccali che forse contenevano parecchi barili  
-   Di birra, e formaggio che tenevano al coperto.  
+   Di birra, e [[cheese|formaggio]] che tenevano al coperto.  
        Infine una testa di cinghiale, che a portarla dentro ci vollero quattro paggi,  
        La bocca teneva una mela, il cranio teneva salsicce.  
 Sul loro brindisi di Natale i [[characters/monks|monaci]] sonnecchiavano,  
@@ -1981,7 +1981,7 @@ Chi conosce il fatto [[motifs/well|ben]] noto, come certo lo conoscete voi —
 È cosa da deplorare amaramente  
    Che a gente così sfuggente sia permesso andare in giro.  
        Ché spesso capitano nei momenti più scomodi,  
-       Come saprà chiunque legga questo romanzo.  
+       Come saprà chiunque legga questo [[Romance|romanzo]].  
 L’Abate se ne stava come incollato alla sedia,  
    L’occhio gli si fece grande come un tallero,  
 Il [[archetypes/ghost|fantasma]] allora lo prese rudemente per i capelli  
@@ -2009,7 +2009,7 @@ Di spiriti da quel [[motifs/time|tempo]] in poi fecero a meno,
 
 
 
-<span class="atom-split" data-atom="110_song_the_moonflower_opens_to_the_moth" data-title="Song: ‘The moonflower opens to the moth’" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/white_and_red,motif/the_sea,motif/night,concept/love_romantic,concept/lust,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="110_song_the_moonflower_opens_to_the_moth" data-title="Song: ‘The moonflower opens to the moth’" data-chapter="" data-kind="intro"></span>
 
 
 [[works/song-(poe)|Song]]: ‘The moonflower opens to the moth’  
@@ -2025,7 +2025,7 @@ Have you no brighter tropic [[motifs/flowers|flowers]]
 
 <span class="qlang-split" data-lang="it"></span>
 
-Canto: ‘Il fiore di luna s’apre alla falena’  
+[[Song|Canto]]: ‘Il fiore di luna s’apre alla falena’  
 Il fiore di luna s’apre alla falena,  
    La nebbia striscia dentro dal mare;  
 Un grande uccello bianco, una civetta delle nevi,  

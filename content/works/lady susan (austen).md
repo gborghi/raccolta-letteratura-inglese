@@ -75,13 +75,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/temptress|Temptress]]
+**Archetypes:** Femme Fatale, Temptress
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/marriage|Marriage]]
 **Themes & Concepts:** [[concepts/deception|Deception]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/satire-of-society|Satire of Society]], [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/satire|Satire]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** [[characters/lady-susan-vernon|Lady Susan Vernon]], [[characters/reginald-de-courcy|Reginald De Courcy]], [[characters/catherine-vernon|Catherine Vernon]], [[characters/frederica-vernon|Frederica Vernon]], [[characters/mrs-johnson|Mrs Johnson]]
+**Characters:** Lady Susan Vernon, Reginald De Courcy, Catherine Vernon, Frederica Vernon, Mrs Johnson
 
 ## Testo integrale / Full text
 

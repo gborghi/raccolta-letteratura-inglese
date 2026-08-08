@@ -85,10 +85,10 @@ tags:
 
 ## Connections
 
-**Characters:** [[characters/christ|Christ]], [[characters/satan|Satan]], [[characters/saladin|Saladin]], [[characters/godfrey-de-bouillon|Godfrey de Bouillon]], [[characters/richard-the-lionheart|Richard the Lionheart]], [[characters/st.-george|St. George]], [[characters/judas-iscariot|Judas Iscariot]], [[characters/dr.-weizmann|Dr. Weizmann]]
+**Characters:** Christ, Satan, Saladin, Godfrey de Bouillon, Richard the Lionheart, St. George, Judas Iscariot, Dr. Weizmann
 
 **Topoi:** [[topoi/quest|Quest]], [[topoi/world-upside-down|World Upside Down]], [[topoi/combat-strife|Combat Strife]], [[topoi/last-stand|Last Stand]], [[topoi/open-road-homecoming|Open Road Homecoming]]
-**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/prophet|Prophet]], [[archetypes/tyrant|Tyrant]], [[archetypes/martyr-saint|Martyr Saint]]
+**Archetypes:** Pilgrim, Prophet, Tyrant, Martyr Saint
 **Motifs:** [[motifs/cross|Cross]], [[motifs/snow|Snow]], [[motifs/lion|Lion]], [[motifs/crown|Crown]], [[motifs/journey|Journey]], [[motifs/dragon|Dragon]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/exile|Exile]], [[concepts/paradox|Paradox]], [[concepts/slavery|Slavery]], [[concepts/democracy|Democracy]], [[concepts/fanaticism|Fanaticism]], [[concepts/class-conflict|Class Conflict]], [[concepts/supernatural-(2)|Supernatural (2)]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/distributism|Distributism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/zionism|Zionism]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]

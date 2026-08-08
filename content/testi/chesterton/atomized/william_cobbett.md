@@ -185,7 +185,7 @@ seriously expect, to hear again the old Billingsgate of the hustings
 and the election fight.  And yet, since those criticisms were written,
 only a very little [[motifs/time|time]] ago, that sort of very Early English has
 suddenly been heard, if not in journalism, at least in politics.
-By a strange [[concepts/paradox|paradox]], even the House of Commons has heard the sound
+By a strange [[concepts/paradox|paradox]], even the [[house|House]] of Commons has heard the sound
 of common speech, not wholly unconnected with common sense.
 Labour members and young Tories have both been heard talking
 like men in the street.  Mr. Jack [[characters/jones|Jones]], by his interruptions,
@@ -342,7 +342,7 @@ seriamente aspettarsi, di udire di nuovo l'antico Billingsgate dei comizi
 e della lotta elettorale. Eppure, da quando quelle critiche furono scritte,
 appena pochissimo [[motifs/time|tempo]] fa, quella sorta di antichissimo inglese si è
 d'un tratto udita, se non nel giornalismo, almeno in politica.
-Per uno strano [[concepts/paradox|paradosso]], perfino la Camera dei Comuni ha udito il suono
+Per uno strano [[concepts/paradox|paradosso]], perfino la [[house|Camera]] dei Comuni ha udito il suono
 del linguaggio comune, non del tutto slegato dal buon senso.
 Deputati laburisti e giovani Tory si sono entrambi uditi parlare
 come uomini della strada. Il signor Jack [[characters/jones|Jones]], con le sue interruzioni,
@@ -1014,7 +1014,7 @@ And if ever in this land of ours the poor are truly lifted up,
 if ever the really needy find a tongue for their own needs,
 if ever progressives and reactionaries alike realise upon what ruins
 were built both their order and their [[concepts/reform|reform]], how many failures
-went to make their success, and what crimes have set their house
+went to make their [[success]], and what crimes have set their [[house]]
 in order, if they see the underside of their own [[concepts/history|history]] with its
 [[motifs/secrets|secrets]] of sealed-up wrath and irrevocable injustice--in a word,
 if a great people can ever repent, then posterity may see achieved
@@ -1158,7 +1158,7 @@ E se mai in questa nostra terra i poveri saranno davvero sollevati,
 se mai i veri bisognosi troveranno una lingua per i propri bisogni,
 se mai progressisti e reazionari egualmente si renderanno conto su quali rovine
 furono edificati e il loro ordine e la loro [[concepts/reform|riforma]], quanti fallimenti
-occorsero a fare il loro successo, e quali crimini abbiano messo in ordine la loro casa,
+occorsero a fare il loro [[success|successo]], e quali crimini abbiano messo in ordine la loro [[house|casa]],
 se vedranno il rovescio della propria [[concepts/history|storia]] coi suoi
 [[motifs/secrets|segreti]] d'ira sigillata e irrevocabile ingiustizia—in una parola,
 se un grande popolo può mai pentirsi, allora i posteri potranno veder compiuta
@@ -1233,7 +1233,7 @@ regimental accounts.  He soon discovered that a number of officers
 were simply pocketing money meant for the regimental food.
 Then it was that there appeared the deplorable difference
 between Cobbett and a really respectable and successful man.
-All his life long he never could leave things alone.
+All his life long he never could leave things [[Alone|alone]].
 He was a business man:  but he could not mind his own business.
 He kept an eye on things; but he had never learnt to wink the
 other eye.  He was the early bird; but he fell into the [[concepts/melancholy|melancholy]]
@@ -1258,7 +1258,7 @@ He was not by any means clear or consistent about it.
 The [[concepts/truth|truth]] is he was quite out of his depth; yet he was perfectly
 right in feeling that there were depths of degradation.
 While he was in the Army his protest was easily crushed;
-when he had left it the Government granted some sort of enquiry;
+when he had left it the [[government|Government]] granted some sort of enquiry;
 but as Cobbett could not get what he demanded as the conditions
 of that enquiry, he refused even to attend it himself,
 and the whole protest went by default.  In a society like ours,
@@ -1337,14 +1337,14 @@ there was a hard [[concepts/pride|pride]] in work and a fine shade of delicacy;
 there was dignity, there was justice, above all there was triumph.
 Not here at least had the almighty meanness of the modern
 world prevailed, that lopped all lofty simplicities
-and lamed all lovers' quests; here was a romance rounded
+and lamed all [[lovers]]' quests; here was a [[Romance|romance]] rounded
 and complete and solid as the sealed packet in his hand;
 here in this unhappy world was a story with a happy ending.
 In all the long [[forms/comedy|comedy]] of the contrast between the heart
 of man and its surroundings, never has there been a stranger
 disproportion than between the outside and the inside of that
 one small incident; of a young man finding his first [[motifs/love|love]]
-left alone with her [[concepts/honour|honour]] and her [[concepts/pride|pride]].  To any one passing
+left [[Alone|alone]] with her [[concepts/honour|honour]] and her [[concepts/pride|pride]].  To any one passing
 in the street there could have been nothing visible but a tall
 and shabby soldier staring at a servant-girl on a door-step;
 but in his own narration it becomes easy to understand that she
@@ -1358,7 +1358,7 @@ conti del reggimento. Presto scoprì che un certo numero d'ufficiali
 si stava semplicemente intascando il denaro destinato al vitto del reggimento.
 Fu allora che apparve la deplorevole differenza
 tra Cobbett e un uomo davvero rispettabile e di successo.
-Per tutta la vita non riuscì mai a lasciare le cose in pace.
+Per tutta la vita non riuscì mai a lasciare le cose [[Alone|in pace]].
 Era un uomo d'affari: ma non sapeva badare ai fatti propri.
 Teneva l'occhio sulle cose; ma non aveva mai imparato a chiudere
 l'altro occhio. Era l'uccello mattiniero; ma cadde nel [[concepts/melancholy|malinconico]]
@@ -1383,7 +1383,7 @@ Non ne era affatto chiaro né coerente.
 La [[concepts/truth|verità]] è che era del tutto fuori dalla sua portata; eppure aveva perfettamente
 ragione nel sentire che vi erano abissi di degradazione.
 Mentre era nell'Esercito la sua protesta fu facilmente schiacciata;
-quando l'ebbe lasciato il Governo concesse una sorta d'inchiesta;
+quando l'ebbe lasciato il [[government|Governo]] concesse una sorta d'inchiesta;
 ma poiché Cobbett non poté ottenere ciò che chiedeva come condizioni
 di quell'inchiesta, rifiutò perfino di presentarvisi lui stesso,
 e l'intera protesta cadde per contumacia. In una società come la nostra,
@@ -1462,14 +1462,14 @@ c'era un duro [[concepts/pride|orgoglio]] nel lavoro e una fine sfumatura di del
 c'era dignità, c'era giustizia, e soprattutto c'era trionfo.
 Non qui almeno aveva prevalso l'onnipotente meschinità del mondo
 moderno, che ha reciso tutte le alte semplicità
-e azzoppato tutte le ricerche degli amanti; qui c'era un romanzo compiuto
+e azzoppato tutte le ricerche degli [[lovers|amanti]]; qui c'era un [[Romance|romanzo]] compiuto
 e completo e solido come il pacchetto sigillato nella sua mano;
 qui, in questo mondo infelice, c'era una storia con un lieto fine.
 In tutta la lunga [[forms/comedy|commedia]] del contrasto tra il cuore
 dell'uomo e ciò che lo circonda, mai vi fu una più strana
 sproporzione che tra l'esterno e l'interno di quel
 solo piccolo episodio; di un giovane che ritrova il suo primo [[motifs/love|amore]]
-lasciata sola col suo [[concepts/honour|onore]] e il suo [[concepts/pride|orgoglio]]. A chiunque passasse
+lasciata [[Alone|sola]] col suo [[concepts/honour|onore]] e il suo [[concepts/pride|orgoglio]]. A chiunque passasse
 per la strada nulla poteva essere visibile se non un alto
 e malandato soldato che fissava una serva su una soglia;
 ma nella sua narrazione diviene facile comprendere che ella
@@ -1510,7 +1510,7 @@ everywhere being broken down by a cruel and ignoble industrialism.
 His whole life was a resistance to the degradation of the poor;
 to their degradation in the literal sense of the loss of a step,
 of a standing, of a status.  There lay on his mind, like a
-nightmare of machinery crushing and crunching millions of bones,
+[[nightmare]] of machinery crushing and crunching millions of bones,
 all the detailed destruction of the private property and domestic
 traditions of destitute families; all the selling up and breaking
 up of furniture, all the pawning of heirlooms and keepsakes;
@@ -1540,7 +1540,7 @@ was not until he was more finally established that a living [[archetypes/child|c
 rejoiced the most enthusiastic of fathers.  But through all these
 early days we have the same vigilant activity in private things;
 as in the touching story of his striding up and down all [[motifs/night|night]]
-and driving away the howling dogs that his wife might [[motifs/sleep|sleep]].
+and driving away the howling [[dogs]] that his wife might [[motifs/sleep|sleep]].
 
 But there is another moral affecting the man and his work and arising
 in this connection out of an incident like that of his courtship
@@ -1617,7 +1617,7 @@ ovunque abbattuto da un crudele e ignobile industrialismo.
 Tutta la sua vita fu una resistenza alla degradazione dei poveri;
 alla loro degradazione nel senso letterale della perdita d'un gradino,
 d'un rango, d'uno status. Gravava sulla sua mente, come un
-incubo di macchinario che schiaccia e stritola milioni d'ossa,
+[[nightmare|incubo]] di macchinario che schiaccia e stritola milioni d'ossa,
 tutta la minuta distruzione della proprietà privata e delle tradizioni
 domestiche delle famiglie indigenti; tutto lo sfratto e la disgregazione
 delle masserizie, tutto l'impegno al monte di cimeli e ricordi;
@@ -1647,7 +1647,7 @@ non fu che quando si fu più stabilmente sistemato che un [[archetypes/child|fig
 rallegrò il più entusiasta dei padri. Ma per tutti questi
 primi giorni abbiamo la medesima vigile attività nelle cose private;
 come nella toccante storia del suo andare su e giù a grandi passi tutta la [[motifs/night|notte]]
-per scacciare i cani ululanti affinché sua moglie potesse [[motifs/sleep|dormire]].
+per scacciare i [[dogs|cani]] ululanti affinché sua moglie potesse [[motifs/sleep|dormire]].
 
 Ma c'è un'altra morale che riguarda l'uomo e la sua opera e che sorge
 in questo contesto da un episodio come quello del suo corteggiamento
@@ -1722,7 +1722,7 @@ trying to make something better than himself.
 
 Finally, he was by [[concepts/nature|nature]] a traditionalist and he was by tradition
 a Tory.  He appeared first as a solid and loyal supporter
-of Church and [[archetypes/king|King]]; and he appeared with complete success.
+of Church and [[archetypes/king|King]]; and he appeared with complete [[success]].
 As we shall see, his place was prepared for him as a good party man;
 his path was straight before him to the position of a great party leader.
 It seemed to most honest people, it seemed to him quite honestly,
@@ -1770,7 +1770,7 @@ sforzandosi di fare qualcosa di migliore di se stesso.
 
 Infine, era per [[concepts/nature|natura]] un tradizionalista, ed era per tradizione
 un Tory.  Apparve dapprima come solido e leale sostenitore
-della Chiesa e del [[archetypes/king|Re]]; e apparve con pieno successo.
+della Chiesa e del [[archetypes/king|Re]]; e apparve con pieno [[success|successo]].
 Come vedremo, il suo posto gli era già preparato come buon uomo di partito;
 la sua strada era diritta davanti a lui verso la posizione di grande capo di partito.
 Sembrava alla maggior parte delle persone oneste, sembrava a lui in tutta onestà,
@@ -1846,7 +1846,7 @@ of Cobbett was the passionate patriotism of the [[concepts/exile|exile]].
 He went to [[settings/america|America]] while he was still quite young; so that even
 his memories of England were almost memories of [[motifs/childhood|childhood]].
 They had not only the glamour of distance, but the glamour of
-which Wordsworth wrote, the glory and the freshness of a dream.
+which Wordsworth wrote, the glory and the freshness of [[A Dream|a dream]].
 The islands of the blest were supposed to lie to the west
 like Atlantis; but every man who has really sailed to Atlantis
 knows that the islands of the blest are left behind.
@@ -1855,7 +1855,7 @@ islands to the modern Atlantis are at one in having that homing
 [[concepts/imagination|imagination]] that wings its way backward into the sunrise.
 Greatly as they have disagreed among themselves, they all agree
 in that.  Perhaps the one rallying point for all Britons
-is that their songs in [[settings/america|America]] have been songs of [[concepts/exile|exile]].
+is that their [[songs]] in [[settings/america|America]] have been [[songs]] of [[concepts/exile|exile]].
 The most familiar of them represents the Irishman with his bundle
 bound for Philadelphia, or the Englishman whistling ‘Falmouth
 is a fine town' as he walks down the street of Baltimore,
@@ -1976,7 +1976,7 @@ di Cobbett era l'appassionato patriottismo dell'[[concepts/exile|esule]].
 Egli andò in [[settings/america|America]] mentre era ancora assai giovane; sicché perfino
 i suoi ricordi dell'Inghilterra erano quasi ricordi d'[[motifs/childhood|infanzia]].
 Avevano non solo l'incanto della distanza, ma l'incanto di
-cui scrisse Wordsworth, la gloria e la freschezza di un sogno.
+cui scrisse Wordsworth, la gloria e la freschezza di [[A Dream|un sogno]].
 Si supponeva che le isole dei beati giacessero a occidente
 come Atlantide; ma ogni uomo che abbia davvero navigato fino ad Atlantide
 sa che le isole dei beati restano indietro.
@@ -1985,7 +1985,7 @@ isole verso la moderna Atlantide concordano nell'avere quell'[[concepts/imaginat
 che torna al nido volando all'indietro verso il sorgere del sole.
 Per quanto abbiano dissentito tra loro, concordano tutti
 in questo. Forse l'unico punto di raduno per tutti i Britanni
-è che i loro canti in [[settings/america|America]] sono stati canti d'[[concepts/exile|esilio]].
+è che i loro [[songs|canti]] in [[settings/america|America]] sono stati [[songs|canti]] d'[[concepts/exile|esilio]].
 Il più familiare di essi rappresenta l'irlandese col suo fagotto
 diretto a Filadelfia, o l'inglese che fischietta «Falmouth
 è una bella città» mentre percorre la strada di Baltimora,
@@ -3102,12 +3102,12 @@ incalculable and inconsequent; but the question of proportion
 and even of quantity does not touch the question of quality.
 One moment of Cobbett's [[concepts/courage|courage]] is of a different quality
 from a lifetime of Macaulay's common sense.  Macaulay, in his
-life as in his logic, was nothing worse than superficial.
+life as in his [[logic]], was nothing worse than superficial.
 It was the [[forms/tragedy|tragedy]] of Cobbett that he was fundamental.
 Of all our social critics lie was by far the most fundamental.
 He could not help seeing a fight of first principles deadly
 enough to daunt any fighter.  He could not help realising
-an evil too large for most men to realise, let alone resist.
+an evil too large for most men to realise, let [[Alone|alone]] resist.
 It was as if he had been given an appalling vision, in which the whole
 land he looked at, dotted with peaceful houses and indifferent men,
 had the lines and slopes of a slow earthquake.
@@ -3205,13 +3205,13 @@ i ricchi.  È vero che persino il suo [[concepts/heroism|eroismo]] era incalcola
 inconseguente; ma la questione della proporzione e persino della quantità
 non tocca la questione della qualità.  Un solo momento del [[concepts/courage|coraggio]]
 di Cobbett è di una qualità diversa da un'intera vita di buon senso di
-Macaulay.  Macaulay, nella sua vita come nella sua logica, non fu
+Macaulay.  Macaulay, nella sua vita come nella sua [[logic|logica]], non fu
 nulla di peggio che superficiale.  Fu la [[forms/tragedy|tragedia]] di Cobbett
 l'essere fondamentale.  Di tutti i nostri critici sociali egli fu di gran
 lunga il più fondamentale.  Non poteva fare a meno di vedere una lotta di
 princìpi primi abbastanza mortale da sgomentare qualsiasi combattente.  Non
 poteva fare a meno di cogliere un male troppo grande perché la maggior parte
-degli uomini lo cogliesse, figuriamoci resistervi.  Era come se
+degli uomini lo cogliesse, [[Alone|figuriamoci]] resistervi.  Era come se
 gli fosse stata data una spaventosa visione, in cui l'intera terra che
 guardava, punteggiata di case tranquille e uomini indifferenti, avesse le
 linee e i declivi di un lento terremoto.
@@ -3662,7 +3662,7 @@ The denial of [[historical-references/christianity|Christianity]] is as old as [
 we might [[motifs/well|well]] say older.  The anti-clerical will probably last
 as long as the Church, which will last as long as the world.
 But it is doubtful when we shall see again the positive side of
-Paine's philosophy; the part that was at once credulous and creative.
+Paine's [[philosophy]]; the part that was at once credulous and creative.
 It is impossible, alas, for us to believe that a Republic will put
 everything right, that elections everywhere will ensure equality for all.
 For him the Church was at best a beautiful dream and the Republic
@@ -3672,7 +3672,7 @@ aristocrats who invented it; and much of the sheltered seclusion also.
 The [[motifs/garden|garden]] which Voltaire told a man to cultivate was really almost
 as [[archetypes/innocent|innocent]] as the [[motifs/garden|garden]] of Eden.  But the young men who saw such
 visions were none the less seeing visions of paradise, though it
-was an earthly paradise.  Rationalism is a romance of youth.
+was an earthly paradise.  Rationalism is a [[Romance|romance]] of youth.
 There is nothing very much the matter with the age of reason;
 except, alas, that it comes before the age of discretion.
 
@@ -3776,7 +3776,7 @@ La negazione del [[historical-references/christianity|Cristianesimo]] è antica 
 potremmo [[motifs/well|ben]] dire più antica. L'anticlericale durerà probabilmente
 quanto la Chiesa, che durerà quanto il mondo.
 Ma è dubbio quando rivedremo il lato positivo della
-filosofia di Paine; la parte che era a un tempo credula e creatrice.
+[[philosophy|filosofia]] di Paine; la parte che era a un tempo credula e creatrice.
 Ci è impossibile, ahimè, credere che una Repubblica metterà
 a posto ogni cosa, che le elezioni dovunque garantiranno l'uguaglianza per tutti.
 Per lui la Chiesa era nel migliore dei casi un bel sogno e la Repubblica
@@ -3786,7 +3786,7 @@ che lo inventarono; e molto anche del loro appartato isolamento.
 Il [[motifs/garden|giardino]] che Voltaire diceva all'uomo di coltivare era in realtà quasi
 altrettanto [[archetypes/innocent|innocente]] quanto il [[motifs/garden|giardino]] dell'Eden. Ma i giovani che vedevano simili
 visioni non per questo vedevano meno visioni di paradiso, per quanto
-fosse un paradiso terrestre. Il razionalismo è un romanzo della giovinezza.
+fosse un paradiso terrestre. Il razionalismo è un [[Romance|romanzo]] della giovinezza.
 Non c'è gran che di male nell'età della ragione;
 se non, ahimè, che essa viene prima dell'età della discrezione.
 
@@ -4279,7 +4279,7 @@ and in the depths of his mind, I fancy, no difference at all.
 It is difficult to talk of his inner consciousness,
 for nobody ever went there, least of all himself.
 But if it were penetrated, I fancy it would be found to be filled
-with a vast void of innocence that wondered and questioned,
+with a vast void of [[innocence]] that wondered and questioned,
 and was a little puzzled by the answers to its questions;
 as is a [[archetypes/child|child]] by the inconsistencies or quarrels of its parents.
 Enormous queries, as elementary as nursery riddles,
@@ -4290,7 +4290,7 @@ Why must not a patriot object to their being flogged by foreigners?
 Why ought not a Tory to dislike squires being driven
 out by stockbrokers?  Why ought not a Radical to dislike
 peasants being oppressed by Jews?  Why did a man find
-himself in the House of Lords if he cheated the nation,
+himself in the [[house|House]] of Lords if he cheated the nation,
 and in Newgate if he tried to point out that it was cheated?
 As he gazed at the great expanses of that empty and shining sea,
 it may be that there was an interlude in his incessant
@@ -4298,7 +4298,7 @@ mental activity of mere recrimination and retort,
 that the clouds of too much controversy cleared a little,
 and he became half conscious of why he was so incurably himself.
 But even so there would only have been found, like some
-strange sunrise under the sea, under his all too salt humour
+strange sunrise under the sea, under his all too salt [[Humour|humour]]
 and all the waters of bitterness that had gone over him,
 a lucid and enduring surprise.
 
@@ -4369,7 +4369,7 @@ e nelle profondità della sua mente, immagino, nessuna differenza affatto.
 È difficile parlare della sua coscienza interiore,
 poiché nessuno mai vi penetrò, lui meno di tutti.
 Ma se vi si penetrasse, immagino che la si troverebbe colma
-di un vasto vuoto d'innocenza che si stupiva e si interrogava,
+di un vasto vuoto d'[[innocence|innocenza]] che si stupiva e si interrogava,
 ed era un po' sconcertato dalle risposte alle proprie domande;
 come lo è un [[archetypes/child|bambino]] dalle incoerenze o dai litigi dei suoi genitori.
 Enormi quesiti, elementari come indovinelli da bambini,
@@ -4380,7 +4380,7 @@ Perché un patriota non dovrebbe opporsi al fatto che siano frustati dagli stran
 Perché un tory non dovrebbe dispiacersi che i possidenti siano scacciati
 dagli agenti di borsa? Perché un radicale non dovrebbe dispiacersi che
 i contadini siano oppressi dagli ebrei? Perché un uomo si ritrovava
-nella Camera dei Lord se frodava la nazione,
+nella [[house|Camera]] dei Lord se frodava la nazione,
 e a Newgate se cercava di far notare che essa era frodata?
 Mentre contemplava le grandi distese di quel mare vuoto e splendente,
 può darsi che vi fosse un intervallo nella sua incessante
@@ -4388,7 +4388,7 @@ attività mentale di mera recriminazione e replica,
 che le nubi di troppa polemica si diradassero un poco,
 ed egli divenisse per metà consapevole del perché fosse così inguaribilmente se stesso.
 Ma anche allora vi si sarebbe trovata soltanto, come una
-strana alba sotto il mare, sotto il suo fin troppo salato umore
+strana alba sotto il mare, sotto il suo fin troppo salato [[Humour|umore]]
 e tutte le acque di amarezza che l'avevano sommerso,
 una lucida e duratura sorpresa.
 
@@ -4507,13 +4507,13 @@ wheat or a cow.  Many of them have read about ships or churches,
 or the marching of soldiers or the crowd cheering a [[archetypes/king|king]],
 or any other normal sight, which they have never seen.
 By a weird [[concepts/mesmerism|mesmerism]] which it is not here necessary to analyse,
-what people read has a sort of magic power over their sight.
+what people read has a sort of [[Magic|magic]] power over their sight.
 It lays a spell on their eyes, so that they see what they
 expect to see.  They do not see the most solid and
 striking things that contradict what they expect to see.
 They believe their schoolmasters too [[motifs/well|well]] to believe
 their eyes.  They trust the map against the mountain.
-Cobbett was a man without these magic spectacles.
+Cobbett was a man without these [[Magic|magic]] spectacles.
 He did not see what he expected to see, but what he saw.
 He liked books; but he could not only read between the lines
 but through the book.
@@ -4631,13 +4631,13 @@ frumento o una mucca. Molti di loro hanno letto di navi o di chiese,
 o della marcia dei soldati o della folla che acclama un [[archetypes/king|re]],
 o di qualsiasi altra scena normale, che non hanno mai visto.
 Per uno strano [[concepts/mesmerism|mesmerismo]] che qui non è necessario analizzare,
-ciò che la gente legge ha una sorta di potere magico sulla sua vista.
+ciò che la gente legge ha una sorta di potere [[Magic|magico]] sulla sua vista.
 Getta un incantesimo sui loro occhi, così che vedono ciò che
 si aspettano di vedere. Non vedono le cose più solide e
 sorprendenti che contraddicono ciò che si aspettano di vedere.
 Credono ai loro maestri troppo [[motifs/well|bene]] per credere
 ai propri occhi. Si fidano della carta contro la montagna.
-Cobbett era un uomo privo di questi occhiali magici.
+Cobbett era un uomo privo di questi occhiali [[Magic|magici]].
 Non vedeva ciò che si aspettava di vedere, ma ciò che vedeva.
 Amava i libri; ma sapeva leggere non solo tra le righe
 ma attraverso il libro.
@@ -5447,11 +5447,11 @@ were carefully discovered and tabulated by Cardinal Gasquet.
 I [[concepts/doubt|doubt]] if there are so many of them as could be found by so good
 a scholar in all the more cautious and constitutional historians.
 Cobbett did not begin with whole masses of obvious myth
-and romance, like those which Macaulay criticised in Hume.
+and [[Romance|romance]], like those which Macaulay criticised in Hume.
 He did not depend on the expurgated extravagances of manifestly
 mad sectarians, like those which Aytoun criticised in Macaulay.
 The [[concepts/truth|truth]] is that the general impression that Cobbett wrote a wild
-romance is really only a general impression.  It does not rest,
+[[Romance|romance]] is really only a general impression.  It does not rest,
 and it never did rest, on the discovery of the particular points
 in which he was wrong.  The impression was one of [[concepts/paradox|paradox]];
 the mere fact that he seemed to be calling black white,
@@ -5556,11 +5556,11 @@ fossero finché non furono accuratamente scoperti e catalogati dal
 Cardinale Gasquet. [[concepts/doubt|Dubito]] che ve ne siano tanti quanti se ne
 potrebbero trovare, da parte di uno studioso altrettanto valente, in
 tutti gli storici più cauti e costituzionali. Cobbett non partì da
-intere masse di mito palese e romanzo, come quelle che
+intere masse di mito palese e [[Romance|romanzo]], come quelle che
 Macaulay criticava in Hume. Non dipese dalle stravaganze espurgate di
 settari manifestamente folli, come quelle che Aytoun criticava in
 Macaulay. La [[concepts/truth|verità]] è che l'impressione generale che Cobbett
-abbia scritto uno sfrenato romanzo è in realtà soltanto
+abbia scritto uno sfrenato [[Romance|romanzo]] è in realtà soltanto
 un'impressione generale. Non poggia, e non ha mai poggiato, sulla
 scoperta dei punti particolari in cui egli sbagliava. L'impressione era
 di [[concepts/paradox|paradosso]]; il semplice fatto che egli sembrasse chiamare
@@ -5911,8 +5911,8 @@ directed towards peace; a peace that he never fully gained.
 I have said that he swept across the country like a whirlwind;
 but in the heart of the whirlwind there is a calm.
 The picture in his own mind was a quiet picture; only, he was
-never left alone to enjoy it quietly.  Perhaps it would be truer
-to say that he never left himself alone to enjoy it quietly.
+never left [[Alone|alone]] to enjoy it quietly.  Perhaps it would be truer
+to say that he never left himself [[Alone|alone]] to enjoy it quietly.
 Anyhow, it was only occasionally in his wanderings through the world
 that he encountered the romantic adventure of staying at [[motifs/home|home]].
 In the midst of his mind there was a secret landscape of field
@@ -5921,7 +5921,7 @@ out of the field of vision like a picture in a jolting camera.
 It is very difficult in practice to present the whole of his mind
 except as a fragmentary, mind; but perhaps the most continuous
 scroll of all that he liked and thought about can be found
-in the long, rolling panorama of the Rural Rides.
+in the long, [[rolling]] panorama of the Rural Rides.
 
 A little while before the affair of his [[concepts/imprisonment|imprisonment]] he had taken a farm
 at Botley in Hampshire; where he lived for a [[motifs/time|time]] the sort of life
@@ -5951,11 +5951,11 @@ had radiated from there, and it makes a sort of starting-point
 for considering him in his capacity of a Rural Rider.
 
 The Rural Rides are a landscape; but they are also a portrait.
-Sometimes we seem to be watching under rolling clouds
-the rolling country of the shires, valleys coloured like maps,
+Sometimes we seem to be watching under [[rolling]] clouds
+the [[rolling]] country of the shires, valleys coloured like maps,
 or downs that seem to shoulder away the sky; and then again
 we are only looking at the changes on one stubborn face
-as it relapses into good humour or hardens into hate.
+as it relapses into good [[Humour|humour]] or hardens into hate.
 That combination of the object and the subject is what makes
 writing into literature; and the Rural Rides are pure literature.
 Perhaps they are all the more literature because they
@@ -6040,8 +6040,8 @@ che egli fece era diretto verso la pace; una pace che non conseguì mai
 pienamente. Ho detto che egli spazzò per il paese come un turbine; ma
 nel cuore del turbine c'è una calma. Il quadro nella sua stessa mente
 era un quadro quieto; solo che non gli fu mai lasciato di goderlo in
-pace da solo. Forse sarebbe più esatto dire che egli non
-lasciò mai a se stesso di goderlo in pace da solo. Comunque
+pace da [[Alone|solo]]. Forse sarebbe più esatto dire che egli non
+lasciò mai a se stesso di goderlo in pace da [[Alone|solo]]. Comunque
 sia, fu soltanto occasionalmente, nei suoi vagabondaggi per il mondo,
 che egli incontrò la romantica avventura di restarsene a [[motifs/home|casa]].
 Nel bel mezzo della sua mente v'era un segreto paesaggio di campi e
@@ -6050,7 +6050,7 @@ dal campo visivo come un'immagine in una macchina fotografica scossa. È
 molto difficile in pratica presentare l'intera sua mente se non come una
 mente frammentaria; ma forse il più continuo rotolo di tutto ciò che gli
 piaceva e su cui rifletteva si può trovare nel lungo panorama
-ondeggiante delle Cavalcate Rurali.
+[[rolling|ondeggiante]] delle Cavalcate Rurali.
 
 Poco prima della faccenda della sua [[concepts/imprisonment|prigionia]] egli
 aveva preso un podere a Botley, nell'Hampshire; dove visse per un
@@ -6081,11 +6081,11 @@ prima vita si era irradiata di là, ed essa costituisce una sorta di
 punto di partenza per considerarlo nella sua veste di Cavaliere Rurale.
 
 Le Cavalcate Rurali sono un paesaggio; ma sono anche un ritratto. Talora
-ci pare di osservare sotto nubi ondeggianti la
-ondeggiante campagna delle contee, valli colorate come
+ci pare di osservare sotto nubi [[rolling|ondeggianti]] la
+[[rolling|ondeggiante]] campagna delle contee, valli colorate come
 carte geografiche, o dossi che paiono spingersi via il cielo con le
 spalle; e poi di nuovo stiamo soltanto guardando i mutamenti su un
-volto ostinato mentre ricade nel buon umore o si indurisce
+volto ostinato mentre ricade nel buon [[Humour|umore]] o si indurisce
 nell'odio. Quella combinazione dell'oggetto e del soggetto è ciò che fa
 della scrittura letteratura; e le Cavalcate Rurali sono pura
 letteratura. Forse sono tanto più letteratura in quanto potrebbero
@@ -6468,7 +6468,7 @@ enquiring everywhere about Cobbett's Corn (the name he modestly
 gave to the maize he brought from [[settings/america|America]]), and sternly admonishing
 those who were unconscious of their good luck in possessing it.
 We can behold him as he curses [[settings/london|London]] from the hills;
-he always called it the Wen.  But here again his humour is
+he always called it the Wen.  But here again his [[Humour|humour]] is
 more subtle than it seems.  We have noticed the same offhand
 offensiveness in his quotations in the English Grammar.
 With his artless artistry, he gives more weight to this
@@ -6631,7 +6631,7 @@ modestamente diede al granoturco che portò dall'[[settings/america|America]]), 
 ammonendo severamente coloro che erano inconsapevoli della loro fortuna
 nel possederlo. Possiamo vederlo mentre maledice [[settings/london|Londra]] dalle
 colline; egli la chiamava sempre il Bubbone. Ma qui di nuovo il suo
-umorismo è più sottile di quanto sembri. Abbiamo notato la
+[[Humour|umorismo]] è più sottile di quanto sembri. Abbiamo notato la
 medesima disinvolta offensività nelle sue citazioni della Grammatica
 Inglese. Con la sua ingenua maestria, egli dà maggior peso a questo
 termine ingiurioso usandolo non tanto ingiuriosamente quanto
@@ -7221,11 +7221,11 @@ But when all this element in the great Englishman has been
 allowed for, it is still true that there was one quality
 in him that was not English.  He was extremely provocative.
 He was as provocative as an.  Irishman.  He refused to leave
-people alone.  He refused emphatically to let sleeping dogs lie.
+people [[Alone|alone]].  He refused emphatically to let sleeping [[dogs]] lie.
 It is not surprising that at the end he had the whole pack
 in full cry after him; and that it only gave him a further
 opportunity for turning on them and telling them they were all curs
-and mongrels, not to mention mad dogs.  He always trailed his coat,
+and mongrels, not to mention mad [[dogs]].  He always trailed his coat,
 especially so as to make men say that he had turned his coat.
 He rejoiced and exulted in a scene.  There is nothing more vivid than
 that scene on which Mr. Edward Thomas touched with great felicity,
@@ -7549,11 +7549,11 @@ the Trades Unions of the Midlands and the North.  He was given
 a great public banquet and toasted with tremendous enthusiasm.
 He was invited, in many times and places daring these later years,
 to stand for Parliament.  He was eventually elected to Parliament.
-If the [[concepts/reform|Reform]] Government had really been a [[concepts/reform|Reform]] Government,
+If the [[concepts/reform|Reform]] [[government|Government]] had really been a [[concepts/reform|Reform]] [[government|Government]],
 he might have been a Minister in it or received any [[concepts/honour|honour]]
-that popular government could bestow.  In any case he received,
+that popular [[government]] could bestow.  In any case he received,
 in this his [[motifs/time|time]] of [[concepts/honour|honour]], the highest of all these honours.
-He was prosecuted by the Government for sedition.
+He was prosecuted by the [[government|Government]] for sedition.
 
 But the man in the dock was a very different person from the dazed
 and disillusioned Tory farmer who had once stood distracted between
@@ -7610,7 +7610,7 @@ of his youth.  And indeed he had been doing the same thing;
 he had been enjoying himself.
 
 That hour in the dock was the supreme moment of his life; and though
-in one sense it was followed by more success and popularity than
+in one sense it was followed by more [[success]] and popularity than
 he had hitherto, he was never again so near to his own vision of triumph.
 He became more and more identified with the great movement against
 the rotten boroughs, which culminated (or collapsed) with the great Act
@@ -7643,11 +7643,11 @@ il [[motifs/time|tempo]] del suo trionfo; nonostante, o piuttosto a causa dell'o
 non solo dai suoi naturali seguaci tra i braccianti delle contee meridionali, ma anche dal cupo e crescente potere dei sindacati del Midlands e del Nord. Gli fu dato un grande banchetto pubblico e brindato con enorme entusiasmo.
 Fu invitato, in molti tempi e luoghi durante questi ultimi anni,
 a candidarsi al Parlamento. Fu infine eletto al Parlamento.
-Se il [[concepts/reform|Governo]] delle riforme fosse stato davvero un [[concepts/reform|governo]] di riforma,
+Se il [[concepts/reform|Governo]] delle [[government|riforme]] fosse stato davvero un [[concepts/reform|governo]] di [[government|riforma]],
 avrebbe potuto essere ministro o ricevere qualsiasi [[concepts/honour|onore]]
-che il governo popolare avrebbe potuto concedere. In ogni caso, ricevette,
+che il [[government|governo]] popolare avrebbe potuto concedere. In ogni caso, ricevette,
 in questo suo [[motifs/time|tempo]] di [[concepts/honour|gloria]], l'ultimo di tutti questi onori.
-Fu perseguitato dal governo per sedizione.
+Fu perseguitato dal [[government|governo]] per sedizione.
 
 Ma l'uomo al banco degli imputati era una persona molto diversa dal contadino conservatore smarrito e deluso che un tempo si era trovato distratto tra la condanna che incombeva sulla sua fattoria e quella che gravava sul suo paese.
 Stava in piedi come uno risorto dai morti.
@@ -7698,7 +7698,7 @@ una passeggiata festiva lungo le colline, davanti ad una onesta locanda
 della sua giovinezza.  E infatti aveva fatto la stessa cosa;
 si era divertito.
 
-Quell'ora sul banco degli imputati fu il momento supremo della sua vita; e sebbene in un certo senso fosse seguita da più successo e popolarità di quanta ne avesse avuto fino ad allora, non si avvicinò mai più alla propria visione del trionfo. Si identificò sempre più con il grande movimento contro i collegi elettorali corrotti, che culminò (o collassò) con la grande Legge del 1830. Il movimento per la [[concepts/reform|riforma]] lo unì a molti che erano stati una volta suoi amici e a molti che sarebbero sempre stati i suoi nemici. Ma il movimento per la [[concepts/reform|riforma]] era molto diverso dal disegno di legge sulla [[concepts/reform|riforma]]. Cobbett visse abbastanza da vedere la [[concepts/reform|riforma]], ma non la [[concepts/reform|riforma]] che aveva desiderato di vedere. Sedette al Parlamento, ma non in quel Parlamento dove avrebbe voluto sedere. L'atmosfera che odiava più di tutte, più di qualsiasi fumo della distruzione o qualsiasi odore di [[motifs/decay|decadimento]], l'atmosfera dei Whig, era quella che prevaleva nel nuovo Parlamento e nel nuovo Ministero. Se osservò con un ghigno troppo aspro il suo primo atto di emancipare i negri con una enorme tangente ai negrieri, possiamo immaginare (o non riuscire a immaginare) come considerasse il suo secondo atto, che fu quello di completare ed estendere la più crudele politica dei Tudor contro i poveri vagabondi, approvando la Nuova Legge sui Poveri e rinchiudendoli in prigioni chiamate case di lavoro. Per una mente più distaccata ci potrebbe sembrare che vi fosse qualcosa di simmetrico ed equilibrato nel lasciare liberi contemporaneamente i neri e chiudere a chiave i bianchi.
+Quell'ora sul banco degli imputati fu il momento supremo della sua vita; e sebbene in un certo senso fosse seguita da più [[success|successo]] e popolarità di quanta ne avesse avuto fino ad allora, non si avvicinò mai più alla propria visione del trionfo. Si identificò sempre più con il grande movimento contro i collegi elettorali corrotti, che culminò (o collassò) con la grande Legge del 1830. Il movimento per la [[concepts/reform|riforma]] lo unì a molti che erano stati una volta suoi amici e a molti che sarebbero sempre stati i suoi nemici. Ma il movimento per la [[concepts/reform|riforma]] era molto diverso dal disegno di legge sulla [[concepts/reform|riforma]]. Cobbett visse abbastanza da vedere la [[concepts/reform|riforma]], ma non la [[concepts/reform|riforma]] che aveva desiderato di vedere. Sedette al Parlamento, ma non in quel Parlamento dove avrebbe voluto sedere. L'atmosfera che odiava più di tutte, più di qualsiasi fumo della distruzione o qualsiasi odore di [[motifs/decay|decadimento]], l'atmosfera dei Whig, era quella che prevaleva nel nuovo Parlamento e nel nuovo Ministero. Se osservò con un ghigno troppo aspro il suo primo atto di emancipare i negri con una enorme tangente ai negrieri, possiamo immaginare (o non riuscire a immaginare) come considerasse il suo secondo atto, che fu quello di completare ed estendere la più crudele politica dei Tudor contro i poveri vagabondi, approvando la Nuova Legge sui Poveri e rinchiudendoli in prigioni chiamate case di lavoro. Per una mente più distaccata ci potrebbe sembrare che vi fosse qualcosa di simmetrico ed equilibrato nel lasciare liberi contemporaneamente i neri e chiudere a chiave i bianchi.
 
 
 
@@ -7717,10 +7717,10 @@ public character; from some points of view a great comic character.
 It is possible that some people tried to take a rise out of him.
 Sometimes the laugh was on his side; sometimes on the other.
 But this could always be said of him, that he stood in the same
-swaggering attitude whether he stood alone or backed by a whole nation.
+swaggering attitude whether he stood [[Alone|alone]] or backed by a whole nation.
 Two examples will serve:  of the former, the joke about the gridiron;
 of the latter, an affair that had happened earlier-that of
-the Royal Divorce.
+the Royal [[divorce|Divorce]].
 
 Certainly Cobbett had a way of brazening things out, whether we
 think him right or wrong; indeed, we cannot but feel a sort
@@ -7729,12 +7729,12 @@ The story of the gridiron which he came to carry like a coat-of-arms
 is an excellent illustration of his invincible impudence.
 It arose out of a trifle, or at anyrate out of a detail;
 a detail which was very doubtful and not at all decisive.
-The Government had declared, in connection with the crisis
+The [[government|Government]] had declared, in connection with the crisis
 which necessitated paper money, that things would improve,
 and that certain payments would be made in coin.
 Cobbett, contradicting flatly and flying into a passion,
 as was his habit about a hundred things large and small,
-had said he would be broiled on a gridiron if the Government
+had said he would be broiled on a gridiron if the [[government|Government]]
 could do any such thing.  It was of course only one of his
 characteristic idioms; which were at once homely and extravagant.
 He meant no more by this singular fireside fantasy than he would
@@ -7821,9 +7821,9 @@ personaggio pubblico; da certi punti di vista un grande personaggio
 comico. È possibile che qualcuno abbia cercato di prenderlo in giro. A
 volte la risata era dalla sua parte; a volte dall'altra. Ma questo si
 poteva sempre dire di lui, che stava nella stessa attitudine spavalda sia
-che stesse solo sia che avesse alle spalle un'intera nazione.
+che stesse [[Alone|solo]] sia che avesse alle spalle un'intera nazione.
 Serviranno due esempi: del primo caso, la battuta della graticola; del
-secondo, un affare accaduto in precedenza: quello del Divorzio
+secondo, un affare accaduto in precedenza: quello del [[divorce|Divorzio]]
 Reale.
 
 Certamente Cobbett aveva un modo di far la faccia tosta, che lo si giudichi
@@ -7832,13 +7832,13 @@ ammirazione senza fiato specialmente quando lo giudichiamo nel torto. La
 storia della graticola, che egli finì per portare come uno stemma
 araldico, è un'eccellente illustrazione della sua invincibile
 sfrontatezza. Sorse da un'inezia, o comunque da un particolare; un
-particolare assai dubbio e per nulla decisivo. Il Governo
+particolare assai dubbio e per nulla decisivo. Il [[government|Governo]]
 aveva dichiarato, in connessione con la crisi che rendeva necessaria la
 carta moneta, che le cose sarebbero migliorate, e che certi pagamenti
 sarebbero stati fatti in moneta sonante. Cobbett, contraddicendo di netto
 e montando su tutte le furie, come era sua abitudine riguardo a un
 centinaio di cose grandi e piccole, aveva detto che si sarebbe fatto
-arrostire su una graticola se il Governo fosse stato
+arrostire su una graticola se il [[government|Governo]] fosse stato
 capace di fare una cosa simile. Era naturalmente solo uno dei suoi
 idiomi caratteristici; che erano insieme casalinghi e stravaganti. Con
 questa singolare fantasticheria da focolare non intendeva più di quanto
@@ -8470,7 +8470,7 @@ man was too [[motifs/well|well]] educated for all his contemporaries.
 He stood in a world which believed that it was broadening;
 and the whole mind of that world was narrower than his own.
 It believed itself to be growing modern and many-sided;
-and he alone saw that it was growing monomaniac and mean.
+and he [[Alone|alone]] saw that it was growing monomaniac and mean.
 And that larger vision died with him:  and vanished for
 a hundred years.
 
@@ -8572,7 +8572,7 @@ parlava Cobbett quando lodava le guglie delle chiese gotiche o i santi dei
 Secoli Bui? Quest'uomo senza istruzione era troppo [[motifs/well|ben]] istruito
 per tutti i suoi contemporanei. Stava in un mondo che credeva di
 allargarsi; e l'intera mente di quel mondo era più angusta della sua.
-Credeva di farsi moderno e poliedrico; ed egli solo vedeva che
+Credeva di farsi moderno e poliedrico; ed egli [[Alone|solo]] vedeva che
 si faceva monomaniaco e meschino. E quella più ampia visione morì con lui:
 e svanì per cent'anni.
 
@@ -8685,7 +8685,7 @@ Therefore it was that when he lay dying in his farmhouse on the hills,
 those he had loved best in his simple fashion were near to his heart;
 but of all the millions of the outer world there was none near
 to his mind, and all that he meant escaped and went its way,
-like a great [[motifs/wind|wind]] that roars over the rolling downs.
+like a great [[motifs/wind|wind]] that roars over the [[rolling]] downs.
 
 This book began with an indefensible piece of personal recollection,
 and I [[concepts/fear|fear]] it will have to end with another.  Perhaps I might plead
@@ -8703,7 +8703,7 @@ in the sunlight:  the Gridiron.
 
 All that he hated has triumphed on that spot.
 The ordinary shop that he thought a nuisance has swelled
-into the big emporium he would have thought a nightmare;
+into the big emporium he would have thought a [[nightmare]];
 the suburb has sunk deep into the new [[settings/london|London]]; but the [[motifs/road|road]] still
 runs westward down which he went riding so often, heading for
 the open country, and leaving the Wen as far as possible behind.
@@ -8791,7 +8791,7 @@ morente nella sua fattoria sulle colline, coloro ch'egli aveva amato di
 più alla sua semplice maniera erano vicini al suo cuore; ma di tutti i
 milioni del mondo esterno non ve n'era nessuno vicino alla sua mente, e
 tutto ciò ch'egli intendeva sfuggì e se ne andò per la sua via, come un
-gran [[motifs/wind|vento]] che rugge sopra le ondulate brughiere.
+gran [[motifs/wind|vento]] che rugge sopra le [[rolling|ondulate]] brughiere.
 
 Questo libro cominciò con un'indifendibile scheggia di ricordo personale,
 e [[concepts/fear|temo]] che dovrà finire con un'altra. Forse potrei addurre
@@ -8810,7 +8810,7 @@ brutta e più sgraziata di una forca alla luce del sole: la Graticola.
 
 Tutto ciò ch'egli odiava ha trionfato in quel luogo. La comune bottega
 ch'egli riteneva una molestia si è gonfiata nel grande emporio ch'egli
-avrebbe ritenuto un incubo; il sobborgo è sprofondato nella
+avrebbe ritenuto un [[nightmare|incubo]]; il sobborgo è sprofondato nella
 nuova [[settings/london|Londra]]; ma la [[motifs/road|strada]] corre ancora verso ovest,
 quella lungo cui egli andava a cavallo tanto spesso, dirigendosi verso la
 campagna aperta, e lasciandosi la Wen quanto più possibile alle spalle. La

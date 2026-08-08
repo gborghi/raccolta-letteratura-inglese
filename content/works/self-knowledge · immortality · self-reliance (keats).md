@@ -37,16 +37,16 @@ tags:
 
 Raccolta tematica di 10 componimenti di John Keats.
 
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#100_a_song_about_myself|A Song About Myself]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#073_lines_on_seeing_a_lock_of_miltons_hair|Lines On Seeing a Lock of Milton’s Hair]]
-- ODE
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#033_ode_on_a_grecian_urn|ODE ON A GRECIAN URN]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#048_ode_to_apollo|Ode to Apollo]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#053_sonnet_as_from_the_darkening_gloom_a_silver_dove|Sonnet: As from the darkening gloom a silver dove]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#057_sonnet_written_in_disgust_of_vulgar_superstition|Sonnet Written in Disgust of Vulgar Superstition]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#108_sonnet_written_upon_the_top_of_ben_nevis|Sonnet Written upon the Top of Ben Nevis]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#074_sonnet_on_sitting_down_to_read_king_lear_once_again|Sonnet on Sitting Down to Read King Lear Once Again]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#114_the_eve_of_saint_mark|The Eve of Saint Mark]]
+- [[works/a-song-about-myself-(keats)|A Song About Myself]]
+- [[works/lines-on-seeing-a-lock-of-milton’s-hair-(keats)|Lines On Seeing a Lock of Milton’s Hair]]
+- [[works/ode-(keats)|ODE]]
+- [[works/ode-on-a-grecian-urn-(keats)|ODE ON A GRECIAN URN]]
+- [[works/ode-to-apollo-(keats)|Ode to Apollo]]
+- [[works/sonnet-as-from-the-darkening-gloom-a-silver-dove-(keats)|Sonnet: As from the darkening gloom a silver dove]]
+- [[works/sonnet-written-in-disgust-of-vulgar-superstition-(keats)|Sonnet Written in Disgust of Vulgar Superstition]]
+- [[works/sonnet-written-upon-the-top-of-ben-nevis-(keats)|Sonnet Written upon the Top of Ben Nevis]]
+- [[works/sonnet-on-sitting-down-to-read-king-lear-once-again-(keats)|Sonnet on Sitting Down to Read King Lear Once Again]]
+- [[works/the-eve-of-saint-mark-(keats)|The Eve of Saint Mark]]
 
 ## Testo / Text
 

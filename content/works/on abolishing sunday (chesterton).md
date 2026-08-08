@@ -53,7 +53,7 @@ tags:
 
 **Motifs:** [[motifs/sleep|Sleep]], [[motifs/machine|Machine]], [[motifs/time|Time]], [[motifs/dreams|Dreams]]
 
-**Characters:** [[characters/henry-ford|Henry Ford]]
+**Characters:** Henry Ford
 
 **Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/natural-order|Natural Order]], [[concepts/satire-of-society|Satire of Society]], [[concepts/individualism|Individualism]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/labor-and-work|Labor and Work]], [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]

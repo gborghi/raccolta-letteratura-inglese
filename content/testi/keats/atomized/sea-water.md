@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/sea-water" data-author="Keats" data-workhref="works/sea-·-water-(keats)"></div>
 
 
-<span class="atom-split" data-atom="022_on_first_looking_into_chapmans_homer" data-title="ON FIRST LOOKING INTO CHAPMAN’S HOMER" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/stars,concept/the_sublime,concept/wonder_and_gratitude,form/petrarchan_sonnet,histref/classical_antiquity,cluster/sea,cluster/water"></span>
+<span class="atom-split" data-atom="022_on_first_looking_into_chapmans_homer" data-title="ON FIRST LOOKING INTO CHAPMAN’S HOMER" data-chapter="" data-kind="intro"></span>
 
 
 Much have I traveled in the realms of gold,  
@@ -32,7 +32,7 @@ Look’d at each other with a wild surmise —
 
 
 
-<span class="atom-split" data-atom="032_ode_to_a_nightingale" data-title="ODE TO A NIGHTINGALE" data-chapter="" data-kind="intro" data-tags="motif/nightingale,motif/wine_and_drink,motif/death,motif/music_and_song,motif/dreams,concept/mortality,concept/transience,concept/immortality_of_art,concept/imagination,concept/melancholy,form/ode,histref/the_bible,cluster/sea,cluster/water"></span>
+<span class="atom-split" data-atom="032_ode_to_a_nightingale" data-title="ODE TO A NIGHTINGALE" data-chapter="" data-kind="intro"></span>
 
 
 My heart aches, and a drowsy numbness pains  
@@ -49,7 +49,7 @@ Singest of [[motifs/summer|summer]] in full-throated ease.  10
 O, for a draught of vintage! that hath been  
 Cool’d a long age in the deep-delved earth,  
 Tasting of Flora and the country green,  
-[[motifs/dance|Dance]], and Provençal song, and sunburnt mirth!  
+[[motifs/dance|Dance]], and Provençal [[Song|song]], and sunburnt mirth!  
 O for a beaker full of the warm South,  
 Full of the true, the blushful Hippocrene,  
 With beaded bubbles winking at the brim,  
@@ -84,7 +84,7 @@ Nor what soft incense hangs upon the boughs,
 But, in embalmed darkness, guess each sweet  
 Wherewith the seasonable month endows  
 The grass, the thicket, and the fruit-tree wild;  
-White hawthorn, and the pastoral eglantine;  
+White hawthorn, and the [[Pastoral|pastoral]] eglantine;  
 Fast fading violets cover’d up in [[motifs/leaves|leaves]];  
 And mid-May’s eldest [[archetypes/child|child]],  
 The coming musk-[[motifs/rose|rose]], full of dewy wine,  
@@ -105,11 +105,11 @@ Thou wast not born for [[motifs/death|death]], immortal Bird!
 No hungry generations tread thee down;  
 The voice I hear this passing [[motifs/night|night]] was heard  
 In ancient days by emperor and clown:  
-Perhaps the [[concepts/self|self]]-same song that found a path  
+Perhaps the [[concepts/self|self]]-same [[Song|song]] that found a path  
 Through the sad heart of Ruth, when, sick for [[motifs/home|home]],  
 She stood in [[motifs/tears|tears]] amid the alien corn;  
 The same that oft-times hath  
-Charm’d magic casements, opening on the foam  
+Charm’d [[Magic|magic]] casements, opening on the foam  
 Of perilous seas, in faery lands forlorn.  70  
 
 Forlorn! the very word is like a bell  
@@ -128,7 +128,7 @@ The original manuscript
 
 
 
-<span class="atom-split" data-atom="045_sonnet_to_byron" data-title="Sonnet to Byron" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/moon,motif/birds,concept/melancholy,concept/the_artist_and_society,concept/grief_and_loss,form/sonnet,histref/the_romantic_movement,cluster/sea,cluster/water"></span>
+<span class="atom-split" data-atom="045_sonnet_to_byron" data-title="Sonnet to Byron" data-chapter="" data-kind="intro"></span>
 
 
 Byron! how sweetly sad thy melody!  
@@ -149,7 +149,7 @@ The enchanting tale, the tale of pleasing woe.
 
 
 
-<span class="atom-split" data-atom="047_sonnet_to_spenser" data-title="Sonnet to Spenser" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,topos/book_of_nature,motif/flowers,motif/sun,concept/imagination,concept/the_artist_and_society,form/sonnet,histref/the_renaissance,cluster/sea,cluster/water"></span>
+<span class="atom-split" data-atom="047_sonnet_to_spenser" data-title="Sonnet to Spenser" data-chapter="" data-kind="intro"></span>
 
 
 Spenser! a jealous honourer of thine,  
@@ -170,7 +170,7 @@ Will for thine [[concepts/honour|honour]] and his pleasure try.
 
 
 
-<span class="atom-split" data-atom="060_to_haydon" data-title="To Haydon" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/birds,motif/stars,concept/the_artist_and_society,concept/ambition,concept/friendship,form/sonnet,cluster/sea,cluster/water"></span>
+<span class="atom-split" data-atom="060_to_haydon" data-title="To Haydon" data-chapter="" data-kind="intro"></span>
 
 
 Haydon! forgive me that I cannot speak  
@@ -178,7 +178,7 @@ Definitively on these mighty things;
 Forgive me that I have not Eagle’s wings -  
 That what I want I know not where to seek:  
 And think that I would not be over meek  
-In rolling out upfollow’d thunderings,  
+In [[rolling]] out upfollow’d thunderings,  
 Even to the steep of Heliconian springs,  
 Were I of ample strength for such a freak -  
 Think too, that all those numbers should be thine;  
@@ -191,7 +191,7 @@ Of their star in the east, and gone to worship them.
 
 
 
-<span class="atom-split" data-atom="062_sonnet_on_a_picture_of_leander" data-title="Sonnet on a Picture of Leander" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/death,motif/the_sea,motif/night,concept/love_romantic,concept/mortality,form/sonnet,histref/greek_mythology,setting/the_sea,cluster/sea,cluster/water"></span>
+<span class="atom-split" data-atom="062_sonnet_on_a_picture_of_leander" data-title="Sonnet on a Picture of Leander" data-chapter="" data-kind="intro"></span>
 
 
 Come hither all sweet maidens soberly,  
@@ -212,7 +212,7 @@ He’s gone: up bubbles all his amorous breath!
 
 
 
-<span class="atom-split" data-atom="065_sonnet_on_the_sea" data-title="Sonnet on the Sea" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/water,motif/nature,concept/the_sublime,concept/wonder_and_gratitude,form/sonnet,histref/greek_mythology,setting/the_sea,cluster/sea,cluster/water"></span>
+<span class="atom-split" data-atom="065_sonnet_on_the_sea" data-title="Sonnet on the Sea" data-chapter="" data-kind="intro"></span>
 
 
 It keeps eternal whisperings around  
@@ -234,7 +234,7 @@ Until ye start, as if the sea-nymphs quir’d!
 
 
 
-<span class="atom-split" data-atom="102_sonnet_to_ailsa_rock" data-title="Sonnet to Ailsa Rock" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/sleep,motif/nature,concept/the_sublime,form/sonnet,setting/scotland,cluster/sea,cluster/water"></span>
+<span class="atom-split" data-atom="102_sonnet_to_ailsa_rock" data-title="Sonnet to Ailsa Rock" data-chapter="" data-kind="intro"></span>
 
 
 Hearken, thou craggy ocean pyramid!  
@@ -246,7 +246,7 @@ Thee heave to airy [[motifs/sleep|sleep]] from fathom [[motifs/dreams|dreams]]?
 [[motifs/sleep|Sleep]] in the lap of thunder or sunbeams,  
 Or when grey clouds are thy cold coverlid.  
 Thou answer’st not; for thou art dead asleep;  
-Thy life is but two dead eternities -  
+Thy life is but two dead [[eternities]] -  
 10  
 The last in air, the former in the deep;  
 First with the whales, last with the eagle-skies -  

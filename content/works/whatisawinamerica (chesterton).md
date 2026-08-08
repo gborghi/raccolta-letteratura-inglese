@@ -82,7 +82,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/pilgrim|Pilgrim]], [[archetypes/outsider|Outsider]]
+**Archetypes:** Common Man (2), Pilgrim, Outsider
 
 **Settings:** [[settings/america|America]], [[settings/new-york|New York]], [[settings/washington-dc|Washington DC]], [[settings/american-south|American South]], [[settings/american-west|American West]], [[settings/new-england-america|New England America]], [[settings/american-frontier|American Frontier]]
 
@@ -90,7 +90,7 @@ tags:
 
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]]
 
-**Characters:** [[characters/abraham-lincoln|Abraham Lincoln]], [[characters/thomas-jefferson|Thomas Jefferson]], [[characters/h.-g.-wells|H. G. Wells]], [[characters/henry-ford|Henry Ford]], [[characters/andrew-jackson|Andrew Jackson]], [[historical-references/walt-whitman|Walt Whitman]], [[historical-references/charles-dickens|Charles Dickens]]
+**Characters:** Abraham Lincoln, Thomas Jefferson, H. G. Wells, Henry Ford, Andrew Jackson, [[historical-references/walt-whitman|Walt Whitman]], [[historical-references/charles-dickens|Charles Dickens]]
 
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/satire-of-society|Satire of Society]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/identity|Identity]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/democracy|Democracy]], [[concepts/slavery|Slavery]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/distributism|Distributism]], [[concepts/common-man|Common Man]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/prohibition|Prohibition]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]

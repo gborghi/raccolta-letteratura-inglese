@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_system_of_doctor_tarr_and_professor_fether" data-title="The System of Doctor Tarr and Professor Fether" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-system-of-doctor-tarr-and-professor-fether-(poe)|The System of Doctor Tarr and Professor Fether]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -66,7 +66,7 @@ Conoscenza di Maillard… e questo mi aiuterebbe a proseguire il mio viaggio.
 
 Fino alla porta e presentami… anche se i suoi sentimenti al riguardo…
 
-Una persona considerata pazzo non avrebbe potuto essere ammessa nella casa.
+Una persona considerata pazzo non avrebbe potuto essere ammessa nella [[house|casa]].
 
 
 
@@ -127,7 +127,7 @@ Strumenti musicali. Un allegro [[motifs/fire|fuoco]] ardeva nel camino; accanto 
 
 Cantando un’aria di Bellini, sedeva una giovane e molto bella…
 
-Una donna che, al mio arrivo, si fermò nel suo canto e mi accolse.
+Una donna che, al mio arrivo, si fermò nel suo [[Song|canto]] e mi accolse.
 
 Con grazia e cortesia. La sua voce era bassa, e tutto il suo comportamento denotava eleganza.
 
@@ -153,7 +153,7 @@ Si ricorreva raramente a tale metodo: i pazienti, infatti, venivano osservati di
 
 Vi era lasciata una grande libertà di azione, e la maggior parte di loro ne approfittava.
 
-Gli era permesso girovagare per la casa e i terreni circostanti, in modo normale.
+Gli era permesso girovagare per la [[house|casa]] e i terreni circostanti, in modo normale.
 
 Abbigliamento tipico di persone con mente sana.
 
@@ -177,7 +177,7 @@ Anche le sue osservazioni iniziali erano caratterizzate dalla massima accuratezz
 
 Una lunga familiarità con la metafisica della mania…
 
-Mi insegnò a non fidarmi affatto di prove del genere che dimostrassero la sanità di una persona, e io.
+Mi insegnò a non fidarmi affatto di prove del genere che dimostrassero la [[Sanity|sanità]] di una persona, e io.
 
 Continuò ad essere cauto per tutta la durata dell’intervista.
 
@@ -227,7 +227,7 @@ Libertà di muoversi liberamente avanti e indietro… spesso li eccitava molto.
 
 Verso una follia pericolosa da parte di persone incaute che hanno invocato…
 
-Ispezionare la casa. Per questo motivo sono stato costretto ad attuare un sistema rigoroso.
+Ispezionare la [[house|casa]]. Per questo motivo sono stato costretto ad attuare un sistema rigoroso.
 
 Titolo:  
 Di esclusione; e nessuno ottenne l’accesso alle strutture su cui…
@@ -260,7 +260,7 @@ Le sue parole: “Allora, devo capire che state dicendo che…”
 
 Il titolo originale è piuttosto lungo e complesso, ma possiamo cercare di tradurlo in modo che mantenga lo stesso significato e la stessa struttura. Ecco una possibile traduzione
 
-Sopravalutato. Credo, signore, che in questa casa sia stato dato un valore eccessivo.
+Sopravalutato. Credo, signore, che in questa [[house|casa]] sia stato dato un valore eccessivo.
 
 “Un processo equo… se mai ne esiste uno davvero. Abbiamo fatto tutto ciò che era ragionevole.”
 
@@ -393,7 +393,7 @@ Ti ha ingannato… Dopo cena, però, quando avrai riposato a sufficienza…
 
 "Riposato dallo sforzo del viaggio, sarò felice di accettare..."
 
-Tu sei nella casa e ti vengo a presentare un sistema che, secondo me.
+Tu sei nella [[house|casa]] e ti vengo a presentare un sistema che, secondo me.
 
 Opinione… e quella di chiunque ne abbia testimoniato l’atto.
 
@@ -612,7 +612,7 @@ Il nostro gentiluomo era una teiera in porcellana Britannia, e si prendeva grand
 
 Un uomo che si era convinto di essere…
 
-Asino, che, in senso allegorico, si potrebbe dire fosse davvero così.
+[[donkey|Asino]], che, in senso allegorico, si potrebbe dire fosse davvero così.
 
 Un paziente difficile…
 
@@ -636,7 +636,7 @@ Non mangiava altro… Poi continuava a calciare incessantemente tutto intorno a 
 
 Il nostro amico qui sicuramente sarà in grado di capirvi senza tutto questo. Dovete solo…
 
-Mio Dio, sei quasi un altrettanto grande asino quanto quel povero sfortunato.
+Mio Dio, sei quasi un altrettanto grande [[donkey|asino]] quanto quel povero sfortunato.
 
 “Mi sono immaginato di essere te… La tua recitazione è davvero naturale, proprio come la mia vita.”
 
@@ -765,7 +765,7 @@ Nel suo guancio sinistro… lo estrasse con un suono simile a…
 
 “La lingua contro i denti produceva un sibilo e uno sciabordio acuti…”
 
-Durò diversi minuti, in imitazione del rumore prodotto dalla schiuma.
+Durò diversi minuti, in [[Imitation|imitazione]] del rumore prodotto dalla schiuma.
 
 Champagne… Un comportamento che, chiaramente, non risultava molto gradito.
 
@@ -1021,7 +1021,7 @@ Queste cose… e non ci importa davvero nulla di esse.
 
 Di tanto in tanto, i pazzi scatenano urla all’unisono… uno di loro.
 
-Iniziando un altro, come talvolta succede con un branco di cani.
+Iniziando un altro, come talvolta succede con un branco di [[dogs|cani]].
 
 [[motifs/night|di notte]]. Tuttavia, a volte succede che il _concerto_.
 
@@ -1305,7 +1305,7 @@ Senza sorveglianza… Un pazzo può essere “calmato”, per così dire…
 
 "#Con astuzia meravigliosa, nasconde i propri piani..."
 
-L’abilità con cui falsifica la sanità, presenta, davanti agli altri.
+L’abilità con cui falsifica la [[Sanity|sanità]], presenta, davanti agli altri.
 
 Metafisico: uno dei problemi più complessi nello studio della…
 
@@ -1317,7 +1317,7 @@ Mente… Quando un pazzo sembra del tutto sano di mente, in effetti, è davvero 
 
 “Ma il pericolo, mio caro signore, di cui stavate parlando…”
 
-Sulla base della tua esperienza personale, durante il periodo in cui hai controllato questa casa, hai mai avuto.
+Sulla base della tua esperienza personale, durante il periodo in cui hai controllato questa [[house|casa]], hai mai avuto.
 
 Una ragione pratica per ritenere la libertà pericolosa nel caso di…
 
@@ -1329,7 +1329,7 @@ Una ragione pratica per ritenere la libertà pericolosa nel caso di…
 
 Molto tempo fa, in questo luogo accadde un evento particolare…
 
-In tutta la casa. Il “sistema di rilassamento”, sai, era già attivo all’epoca.
+In tutta la [[house|casa]]. Il “sistema di rilassamento”, sai, era già attivo all’epoca.
 
 Operazione… e i pazienti erano liberi. Si sono comportati bene.
 
@@ -1359,9 +1359,9 @@ Erano i pazzi stessi, a definire i propri simili come pazzi…
 
 Il pazzo che, per qualche motivo, aveva deciso di…
 
-Aveva inventato un sistema di governo migliore di qualsiasi altro mai esistito.
+Aveva inventato un sistema di [[government|governo]] migliore di qualsiasi altro mai esistito.
 
-Prima, dell’assurda governanza di quei pazzi, intendo. Voleva donare il proprio.
+Prima, dell’assurda [[government|governanza]] di quei pazzi, intendo. Voleva donare il proprio.
 
 “Un’invenzione… una sorta di prova, suppongo… E così riuscì a convincere gli altri.”
 
@@ -1532,7 +1532,7 @@ Morì rantando, come se la salvezza della sua [[motifs/soul|'anima]] dipendesse 
 
 “Note che egli pronunciò… E, nel mezzo di tutto ciò…”
 
-Il continuo raglio di un asino risuonava ovunque. Per quanto riguarda il mio vecchio.
+Il continuo raglio di un [[donkey|asino]] risuonava ovunque. Per quanto riguarda il mio vecchio.
 
 Amico mio, Madame Joyeuse… Avrei davvero potuto piangere per quella povera persona.
 
@@ -1635,7 +1635,7 @@ During the [[motifs/autumn|autumn]] of 18—, while on a tour through the extrem
 
 southern provinces of France, my route led me within a few miles
 
-of a certain _Maison de Santé_ or private mad-house, about which
+of a certain _Maison de Santé_ or private mad-[[house]], about which
 
 I had heard much, in [[settings/paris|Paris]], from my medical friends. As I had
 
@@ -1679,7 +1679,7 @@ acquaintance of Maillard, and would so far assist me as to ride
 
 up to the door and introduce me; although his feelings on the
 
-subject of lunacy would not permit of his entering the house.
+subject of lunacy would not permit of his entering the [[house]].
 
 
 
@@ -1739,7 +1739,7 @@ instruments. A cheerful [[motifs/fire|fire]] blazed upon the hearth. At a piano,
 
 singing an aria from Bellini, sat a young and very beautiful
 
-woman, who, at my entrance, paused in her song, and received me
+woman, who, at my entrance, paused in her [[Song|song]], and received me
 
 with graceful courtesy. Her voice was low, and her whole manner
 
@@ -1765,7 +1765,7 @@ was seldom resorted to—that the patients, while secretly watched,
 
 were left much apparent liberty, and that most of them were
 
-permitted to roam about the house and grounds in the ordinary
+permitted to roam about the [[house]] and grounds in the ordinary
 
 apparel of persons in right mind.
 
@@ -1789,7 +1789,7 @@ even her original observations were marked with the soundest good
 
 sense, but a long acquaintance with the metaphysics of mania, had
 
-taught me to put no [[concepts/faith|faith]] in such evidence of sanity, and I
+taught me to put no [[concepts/faith|faith]] in such evidence of [[Sanity|sanity]], and I
 
 continued to practise, throughout the interview, the caution with
 
@@ -1879,7 +1879,7 @@ Conoscenza di Maillard… e questo mi aiuterebbe a proseguire il mio viaggio.
 
 Fino alla porta e presentami… anche se i suoi sentimenti al riguardo…
 
-Una persona considerata pazzo non avrebbe potuto essere ammessa nella casa.
+Una persona considerata pazzo non avrebbe potuto essere ammessa nella [[house|casa]].
 
 
 
@@ -1940,7 +1940,7 @@ Strumenti musicali. Un allegro [[motifs/fire|fuoco]] ardeva nel camino; accanto 
 
 Cantando un’aria di Bellini, sedeva una giovane e molto bella…
 
-Una donna che, al mio arrivo, si fermò nel suo canto e mi accolse.
+Una donna che, al mio arrivo, si fermò nel suo [[Song|canto]] e mi accolse.
 
 Con grazia e cortesia. La sua voce era bassa, e tutto il suo comportamento denotava eleganza.
 
@@ -1966,7 +1966,7 @@ Si ricorreva raramente a tale metodo: i pazienti, infatti, venivano osservati di
 
 Vi era lasciata una grande libertà di azione, e la maggior parte di loro ne approfittava.
 
-Gli era permesso girovagare per la casa e i terreni circostanti, in modo normale.
+Gli era permesso girovagare per la [[house|casa]] e i terreni circostanti, in modo normale.
 
 Abbigliamento tipico di persone con mente sana.
 
@@ -1990,7 +1990,7 @@ Anche le sue osservazioni iniziali erano caratterizzate dalla massima accuratezz
 
 Una lunga familiarità con la metafisica della mania…
 
-Mi insegnò a non fidarmi affatto di prove del genere che dimostrassero la sanità di una persona, e io.
+Mi insegnò a non fidarmi affatto di prove del genere che dimostrassero la [[Sanity|sanità]] di una persona, e io.
 
 Continuò ad essere cauto per tutta la durata dell’intervista.
 
@@ -2045,7 +2045,7 @@ privilege of roaming to and fro at will, they were often aroused
 
 to a dangerous frenzy by injudicious persons who called to
 
-inspect the house. Hence I was obliged to enforce a rigid system
+inspect the [[house]]. Hence I was obliged to enforce a rigid system
 
 of exclusion; and none obtained access to the premises upon whose
 
@@ -2077,7 +2077,7 @@ to return to the old usages. The danger of the soothing system
 
 was, at all times, appalling; and its advantages have been much
 
-overrated. I believe, sir, that in this house it has been given a
+overrated. I believe, sir, that in this [[house]] it has been given a
 
 fair trial, if ever in any. We did every thing that rational
 
@@ -2207,7 +2207,7 @@ misled you. After dinner, however, when you have sufficiently
 
 recovered from the fatigue of your ride, I will be happy to take
 
-you over the house, and introduce to you a system which, in my
+you over the [[house]], and introduce to you a system which, in my
 
 opinion, and in that of every one who has witnessed its
 
@@ -2276,7 +2276,7 @@ Libertà di muoversi liberamente avanti e indietro… spesso li eccitava molto.
 
 Verso una follia pericolosa da parte di persone incaute che hanno invocato…
 
-Ispezionare la casa. Per questo motivo sono stato costretto ad attuare un sistema rigoroso.
+Ispezionare la [[house|casa]]. Per questo motivo sono stato costretto ad attuare un sistema rigoroso.
 
 Titolo:  
 Di esclusione; e nessuno ottenne l’accesso alle strutture su cui…
@@ -2309,7 +2309,7 @@ Le sue parole: “Allora, devo capire che state dicendo che…”
 
 Il titolo originale è piuttosto lungo e complesso, ma possiamo cercare di tradurlo in modo che mantenga lo stesso significato e la stessa struttura. Ecco una possibile traduzione
 
-Sopravalutato. Credo, signore, che in questa casa sia stato dato un valore eccessivo.
+Sopravalutato. Credo, signore, che in questa [[house|casa]] sia stato dato un valore eccessivo.
 
 “Un processo equo… se mai ne esiste uno davvero. Abbiamo fatto tutto ciò che era ragionevole.”
 
@@ -2442,7 +2442,7 @@ Ti ha ingannato… Dopo cena, però, quando avrai riposato a sufficienza…
 
 "Riposato dallo sforzo del viaggio, sarò felice di accettare..."
 
-Tu sei nella casa e ti vengo a presentare un sistema che, secondo me.
+Tu sei nella [[house|casa]] e ti vengo a presentare un sistema che, secondo me.
 
 Opinione… e quella di chiunque ne abbia testimoniato l’atto.
 
@@ -2663,7 +2663,7 @@ polish himself every morning with buckskin and whiting.”
 
 ago, a person who had taken it into his head that he was a
 
-donkey—which allegorically speaking, you will say, was quite
+[[donkey]]—which allegorically speaking, you will say, was quite
 
 true. He was a troublesome patient; and we had much ado to keep
 
@@ -2687,7 +2687,7 @@ necessary, pray, to illustrate a remark in so practical a style?
 
 Our friend here can surely comprehend you without all this. Upon
 
-my word, you are nearly as great a donkey as the poor unfortunate
+my word, you are nearly as great a [[donkey]] as the poor unfortunate
 
 imagined himself. Your acting is very natural, as I live.”
 
@@ -2857,7 +2857,7 @@ Il nostro gentiluomo era una teiera in porcellana Britannia, e si prendeva grand
 
 Un uomo che si era convinto di essere…
 
-Asino, che, in senso allegorico, si potrebbe dire fosse davvero così.
+[[donkey|Asino]], che, in senso allegorico, si potrebbe dire fosse davvero così.
 
 Un paziente difficile…
 
@@ -2881,7 +2881,7 @@ Non mangiava altro… Poi continuava a calciare incessantemente tutto intorno a 
 
 Il nostro amico qui sicuramente sarà in grado di capirvi senza tutto questo. Dovete solo…
 
-Mio Dio, sei quasi un altrettanto grande asino quanto quel povero sfortunato.
+Mio Dio, sei quasi un altrettanto grande [[donkey|asino]] quanto quel povero sfortunato.
 
 “Mi sono immaginato di essere te… La tua recitazione è davvero naturale, proprio come la mia vita.”
 
@@ -2986,7 +2986,7 @@ been broken off,—“and then, among other oddities, we had a
 
 patient, once upon a [[motifs/time|time]], who very pertinaciously maintained
 
-himself to be a Cordova cheese, and went about, with a knife in
+himself to be a Cordova [[cheese]], and went about, with a knife in
 
 his hand, soliciting his friends to try a small slice from the
 
@@ -3014,7 +3014,7 @@ popping of a cork, and then, by a dexterous movement of the
 
 tongue upon the teeth, created a sharp hissing and fizzing, which
 
-lasted for several minutes, in imitation of the frothing of
+lasted for several minutes, in [[Imitation|imitation]] of the frothing of
 
 champagne. This behavior, I saw plainly, was not very pleasing to
 
@@ -3248,7 +3248,7 @@ Nel suo guancio sinistro… lo estrasse con un suono simile a…
 
 “La lingua contro i denti produceva un sibilo e uno sciabordio acuti…”
 
-Durò diversi minuti, in imitazione del rumore prodotto dalla schiuma.
+Durò diversi minuti, in [[Imitation|imitazione]] del rumore prodotto dalla schiuma.
 
 Champagne… Un comportamento che, chiaramente, non risultava molto gradito.
 
@@ -3508,7 +3508,7 @@ these things, and care really very little about them. The
 
 lunatics, every now and then, get up a howl in concert; one
 
-starting another, as is sometimes the case with a bevy of dogs at
+starting another, as is sometimes the case with a bevy of [[dogs]] at
 
 [[motifs/night|night]]. It occasionally happens, however, that the _concerto_
 
@@ -3740,7 +3740,7 @@ Queste cose… e non ci importa davvero nulla di esse.
 
 Di tanto in tanto, i pazzi scatenano urla all’unisono… uno di loro.
 
-Iniziando un altro, come talvolta succede con un branco di cani.
+Iniziando un altro, come talvolta succede con un branco di [[dogs|cani]].
 
 [[motifs/night|di notte]]. Tuttavia, a volte succede che il _concerto_.
 
@@ -4027,7 +4027,7 @@ cunning, too, is proverbial and great. If he has a project in
 
 view, he conceals his design with a marvellous wisdom; and the
 
-dexterity with which he counterfeits sanity, presents, to the
+dexterity with which he counterfeits [[Sanity|sanity]], presents, to the
 
 metaphysician, one of the most singular problems in the study of
 
@@ -4039,7 +4039,7 @@ mind. When a madman appears thoroughly sane, indeed, it is high
 
 “But the danger, my dear sir, of which you were speaking, in your
 
-own experience—during your control of this house—have you had
+own experience—during your control of this [[house]]—have you had
 
 practical reason to think liberty hazardous in the case of a
 
@@ -4051,7 +4051,7 @@ lunatic?”
 
 very long while ago, a singular circumstance occurred in this
 
-very house. The ‘soothing system,’ you know, was then in
+very [[house]]. The ‘soothing system,’ you know, was then in
 
 operation, and the patients were at large. They behaved
 
@@ -4268,7 +4268,7 @@ Senza sorveglianza… Un pazzo può essere “calmato”, per così dire…
 
 "#Con astuzia meravigliosa, nasconde i propri piani..."
 
-L’abilità con cui falsifica la sanità, presenta, davanti agli altri.
+L’abilità con cui falsifica la [[Sanity|sanità]], presenta, davanti agli altri.
 
 Metafisico: uno dei problemi più complessi nello studio della…
 
@@ -4280,7 +4280,7 @@ Mente… Quando un pazzo sembra del tutto sano di mente, in effetti, è davvero 
 
 “Ma il pericolo, mio caro signore, di cui stavate parlando…”
 
-Sulla base della tua esperienza personale, durante il periodo in cui hai controllato questa casa, hai mai avuto.
+Sulla base della tua esperienza personale, durante il periodo in cui hai controllato questa [[house|casa]], hai mai avuto.
 
 Una ragione pratica per ritenere la libertà pericolosa nel caso di…
 
@@ -4292,7 +4292,7 @@ Una ragione pratica per ritenere la libertà pericolosa nel caso di…
 
 Molto tempo fa, in questo luogo accadde un evento particolare…
 
-In tutta la casa. Il “sistema di rilassamento”, sai, era già attivo all’epoca.
+In tutta la [[house|casa]]. Il “sistema di rilassamento”, sai, era già attivo all’epoca.
 
 Operazione… e i pazienti erano liberi. Si sono comportati bene.
 
@@ -4327,9 +4327,9 @@ life!”
 
 lunatic—who, by some means, had taken it into his head that he
 
-had invented a better system of government than any ever heard of
+had invented a better system of [[government]] than any ever heard of
 
-before—of lunatic government, I mean. He wished to give his
+before—of lunatic [[government]], I mean. He wished to give his
 
 invention a trial, I suppose, and so he persuaded the rest of the
 
@@ -4499,7 +4499,7 @@ croaked away as if the salvation of his [[motifs/soul|soul]] depended upon every
 
 note that he uttered. And, in the midst of all this, the
 
-continuous braying of a donkey arose over all. As for my old
+continuous braying of a [[donkey]] arose over all. As for my old
 
 friend, Madame Joyeuse, I really could have wept for the poor
 
@@ -4612,9 +4612,9 @@ Erano i pazzi stessi, a definire i propri simili come pazzi…
 
 Il pazzo che, per qualche motivo, aveva deciso di…
 
-Aveva inventato un sistema di governo migliore di qualsiasi altro mai esistito.
+Aveva inventato un sistema di [[government|governo]] migliore di qualsiasi altro mai esistito.
 
-Prima, dell’assurda governanza di quei pazzi, intendo. Voleva donare il proprio.
+Prima, dell’assurda [[government|governanza]] di quei pazzi, intendo. Voleva donare il proprio.
 
 “Un’invenzione… una sorta di prova, suppongo… E così riuscì a convincere gli altri.”
 
@@ -4785,7 +4785,7 @@ Morì rantando, come se la salvezza della sua [[motifs/soul|'anima]] dipendesse 
 
 “Note che egli pronunciò… E, nel mezzo di tutto ciò…”
 
-Il continuo raglio di un asino risuonava ovunque. Per quanto riguarda il mio vecchio.
+Il continuo raglio di un [[donkey|asino]] risuonava ovunque. Per quanto riguarda il mio vecchio.
 
 Amico mio, Madame Joyeuse… Avrei davvero potuto piangere per quella povera persona.
 

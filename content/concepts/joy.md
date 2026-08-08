@@ -49,184 +49,184 @@ tags:
 - [[works/christianity-and-rationalism-(chesterton)|Christianity and Rationalism (Chesterton)]]
 - [[works/st-francis-(chesterton)|St Francis (Chesterton)]]
 - [[works/the-defendant-(chesterton)|The Defendant (Chesterton)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#233_an_angel_visitant|AN ANGEL VISITANT (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#013_an_invocation|AN INVOCATION (Coleridge)]]
-- [[testi/coleridge/atomized/friendship-tears#213_an_ode_to_the_rain|AN ODE TO THE RAIN (Coleridge)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#215_answer_to_a_childs_question|ANSWER TO A CHILD’S QUESTION (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#205_dejection_an_ode|DEJECTION AN ODE (Coleridge)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#073_domestic_peace|DOMESTIC PEACE (Coleridge)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#366_drinking_versus_thinking|DRINKING VERSUS THINKING (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#000_easter_holidays|EASTER HOLIDAYS (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#032_happiness|HAPPINESS (Coleridge)]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#044_kisses|KISSES (Coleridge)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#206_letter_july_19_1802|LETTER, JULY 19, 1802. (Coleridge)]]
-- [[testi/coleridge/atomized/friendship-tears#362_lines_to_thomas_poole|LINES TO THOMAS POOLE (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#154_nether_stowey|NETHER STOWEY (Coleridge)]]
+- [[works/an-angel-visitant-(coleridge)|AN ANGEL VISITANT (Coleridge)]]
+- [[works/an-invocation-(coleridge)|AN INVOCATION (Coleridge)]]
+- [[works/an-ode-to-the-rain-(coleridge)|AN ODE TO THE RAIN (Coleridge)]]
+- [[works/answer-to-a-child’s-question-(coleridge)|ANSWER TO A CHILD’S QUESTION (Coleridge)]]
+- [[works/dejection-an-ode-(coleridge)|DEJECTION AN ODE (Coleridge)]]
+- [[works/domestic-peace-(coleridge)|DOMESTIC PEACE (Coleridge)]]
+- [[works/drinking-versus-thinking-(coleridge)|DRINKING VERSUS THINKING (Coleridge)]]
+- [[works/easter-holidays-(coleridge)|EASTER HOLIDAYS (Coleridge)]]
+- [[works/happiness-(coleridge)|HAPPINESS (Coleridge)]]
+- [[works/kisses-(coleridge)|KISSES (Coleridge)]]
+- [[works/letter,-july-19,-1802.-(coleridge)|LETTER, JULY 19, 1802. (Coleridge)]]
+- [[works/lines-to-thomas-poole-(coleridge)|LINES TO THOMAS POOLE (Coleridge)]]
+- [[works/nether-stowey-(coleridge)|NETHER STOWEY (Coleridge)]]
 - [[works/nonsense-(coleridge)-(2)|NONSENSE (Coleridge) (2)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#407_nonsense_verses|NONSENSE VERSES (Coleridge)]]
-- [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#200_on_revisiting_the_sea-shore_after_long_absence_under_strong_medical_recommendati|ON REVISITING THE SEA-SHORE AFTER LONG ABSENCE, UNDER STRONG MEDICAL RECOMMENDATION NOT TO BATHE (Coleridge)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#438_schiller|SCHILLER (Coleridge)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#365_song_to_be_sung_by_the_lovers_of_all_the_noble_liquors_comprised_under_the_name|SONG TO BE SUNG BY THE LOVERS OF ALL THE NOBLE LIQUORS COMPRISED UNDER THE NAME OF ALE (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#219_the_exchange|THE EXCHANGE (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#217_the_happy_husband|THE HAPPY HUSBAND (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#203_the_second_birth|THE SECOND BIRTH (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#169_the_visit_of_the_gods_imitated_from_schiller|THE VISIT OF THE GODS IMITATED FROM SCHILLER (Coleridge)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#134_this_lime-tree_bower_my_prison|THIS LIME-TREE BOWER MY PRISON (Coleridge)]]
-- [[testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience#377_to_a_child|TO A CHILD (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#122_to_a_young_friend|TO A YOUNG FRIEND (Coleridge)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#151_to_a_young_lady|TO A YOUNG LADY (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#202_to_asra|TO ASRA (Coleridge)]]
-- [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#368_to_captain_findlay|TO CAPTAIN FINDLAY (Coleridge)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#035_to_disappointment|TO DISAPPOINTMENT (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#280_to_mary_pridham|TO MARY PRIDHAM (Coleridge)]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#066_to_miss_brunton|TO MISS BRUNTON (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#372_to_susan_steele_on_receiving_the_purse|TO SUSAN STEELE ON RECEIVING THE PURSE (Coleridge)]]
-- [[testi/coleridge/atomized/joy-animals-comic-verse-song#364_to_t_poole_an_invitation|TO T. POOLE AN INVITATION (Coleridge)]]
-- [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#008_to_the_muse|TO THE MUSE (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#374_verses_trivocular|VERSES TRIVOCULAR (Coleridge)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#1035_bee_im_expecting_you|1035. Bee! I'm expecting you! (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1053_it_was_a_quiet_way|1053. It was a quiet way — (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1057_i_had_a_daily_bliss|1057. I had a daily Bliss (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1101_between_the_form_of_life_and_life|1101. Between the form of Life and Life (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1107_the_bird_did_prance_the_bee_did_play|1107. The Bird did prance — the Bee did play — (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0111_the_bee_is_not_afraid_of_me|111. The Bee is not afraid of me. (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1118_exhilaration_is_the_breeze|1118. Exhilaration is the Breeze (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#1125_oh_sumptuous_moment|1125. Oh Sumptuous moment (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1148_after_the_sun_comes_out|1148. After the Sun comes out (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1160_he_is_alive_this_morning|1160. He is alive, this morning — (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1168_as_old_as_woe|1168. As old as Woe — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1175_we_like_a_hairbreadth_scape|1175. We like a Hairbreadth 'scape (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#1185_a_little_dog_that_wags_his_tail|1185. A little Dog that wags his tail (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#1198_a_soft_sea_washed_around_the_house|1198. A soft Sea washed around the House (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#1213_we_like_march|1213. We like March. (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0122_a_something_in_a_summers_day|122. A something in a summer's Day (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0125_for_each_ecstatic_instant|125. For each ecstatic instant (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#1263_there_is_no_frigate_like_a_book|1263. There is no Frigate like a Book (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1265_the_most_triumphant_bird_i_ever_knew_or_met|1265. The most triumphant Bird I ever knew or met (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1279_the_way_to_know_the_bobolink|1279. The Way to know the Bobolink (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#1281_a_stagnant_pleasure_like_a_pool|1281. A stagnant pleasure like a Pool (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1299_delights_despair_at_setting|1299. Delight's Despair at setting (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#0137_flowers_well_if_anybody|137. Flowers — Well — if anybody (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0138_pigmy_seraphs_gone_astray|138. Pigmy seraphs — gone astray — (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1392_hope_is_a_strange_invention|1392. Hope is a strange invention — (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#1404_march_is_the_month_of_expectation|1404. March is the Month of Expectation. (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1420_one_joy_of_so_much_anguish|1420. One Joy of so much anguish (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0143_for_every_bird_a_nest|143. For every Bird a Nest — (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1430_who_never_wanted_maddest_joy|1430. Who never wanted — maddest Joy (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1434_go_not_too_near_a_house_of_rose|1434. Go not too near a House of Rose — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1449_i_thought_the_train_would_never_come|1449. I thought the Train would never come — (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#1465_before_you_thought_of_spring|1465. Before you thought of Spring (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1468_a_winged_spark_doth_soar_about|1468. A winged spark doth soar about — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1476_his_voice_decrepit_was_with_joy|1476. His voice decrepit was with Joy — (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1480_the_fascinating_chill_that_music_leaves|1480. The fascinating chill that music leaves (Dickinson)]]
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1492_and_with_what_body_do_they_come|1492. And with what body do they come — (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1495_the_thrill_came_slowly_like_a_boom_for|1495. The Thrill came slowly like a Boom for (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#1526_his_oriental_heresies|1526. His oriental heresies (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#1532_from_all_the_jails_the_boys_and_girls|1532. From all the Jails the Boys and Girls (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1587_he_ate_and_drank_the_precious_words|1587. He ate and drank the precious Words — (Dickinson)]]
-- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1628_a_drunkard_cannot_meet_a_cork|1628. A Drunkard cannot meet a Cork (Dickinson)]]
-- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#1640_take_all_away_from_me_but_leave_me_ecstasy|1640. Take all away from me, but leave me Ecstasy, (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0167_to_learn_the_transport_by_the_pain|167. To learn the Transport by the Pain (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0172_tis_so_much_joy_tis_so_much_joy|172. 'Tis so much joy! 'Tis so much joy! (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1744_the_joy_that_has_no_stem_no_core|1744. The joy that has no stem no core, (Dickinson)]]
-- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0176_im_the_little_hearts_ease|176. I'm the little Heart's Ease ! (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1771_how_fleet_how_indiscreet_an_one|1771. How fleet — how indiscreet an one — (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0179_if_i_could_bribe_them_by_a_rose|179. If I could bribe them by a Rose (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0184_a_transport_one_cannot_contain|184. A transport one cannot contain (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0188_make_me_a_picture_of_the_sun|188. Make me a picture of the sun — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0207_tho_i_get_home_how_late_how_late|207. Tho' I get home how late — how late — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0208_the_rose_did_caper_on_her_cheek|208. The Rose did caper on her cheek — (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0214_i_taste_a_liquor_never_brewed|214. I taste a liquor never brewed (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#0218_is_it_true_dear_sue|218. Is it true, dear Sue (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#0022_all_these_my_banners_be|22. All these my banners be. (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0230_we_bee_and_i_live_by_the_quaffing|230. We — Bee and I — live by the quaffing — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0297_its_like_the_light|297. It's like the Light — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0321_of_all_the_sounds_despatched_abroad|321. Of all the Sounds despatched abroad, (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0329_so_glad_we_are_a_strangerd_deem|329. So glad we are — a Stranger'd deem (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0340_is_bliss_then_such_abyss|340. Is Bliss then, such Abyss, (Dickinson)]]
-- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0343_my_reward_for_being_was_this|343. My Reward for Being, was This. (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0347_when_night_is_almost_done|347. When Night is almost done — (Dickinson)]]
-- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0349_i_had_the_glory_that_will_do|349. I had the Glory — that will do — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0353_a_happy_lip_breaks_sudden|353. A happy lip — breaks sudden — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0359_i_gained_it_so|359. I gained it so — (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0036_snow_flakes|36. Snow flakes. (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0383_exhilaration_is_within|383. Exhilaration — is within — (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0393_did_our_best_moment_last|393. Did Our Best Moment last — (Dickinson)]]
-- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0395_reverse_cannot_befall|395. Reverse cannot befall (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0430_it_would_never_be_common_more_i_said|430. It would never be Common — more — I said — (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#0466_tis_little_i_could_care_for_pearls|466. 'Tis little I — could care for Pearls — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0470_i_am_alive_i_guess|470. I am alive — I guess — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0495_its_thoughts_and_just_one_heart|495. It's thoughts — and just One Heart — (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0505_i_would_not_paint_a_picture|505. I would not paint — a picture — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0535_shes_happy_with_a_new_content|535. She's happy, with a new Content — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0635_i_think_the_longest_hour_of_all|635. I think the longest Hour of all (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0636_the_way_i_read_a_letters_this|636. The Way I read a Letter's — this — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0638_to_my_small_hearth_his_fire_came|638. To my small Hearth His fire came — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0646_i_think_to_live_may_be_a_bliss|646. I think to Live — may be a Bliss (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0651_so_much_summer|651. So much Summer (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0653_of_being_is_a_bird|653. Of Being is a Bird (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0655_without_this_there_is_nought|655. Without this — there is nought — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0659_that_first_day_when_you_praised_me_sweet|659. That first Day, when you praised Me, Sweet, (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0661_could_i_but_ride_indefinite|661. Could I but ride indefinite (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0663_again_his_voice_is_at_the_door|663. Again — his voice is at the door — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0677_to_be_alive_is_power|677. To be alive — is Power — (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0689_the_zeroes_taught_us_phosphorous|689. The Zeroes — taught us — Phosphorous — (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0691_would_you_like_summer_taste_of_ours|691. Would you like summer Taste of ours. (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0756_one_blessing_had_i_than_the_rest|756. One Blessing had I than the rest (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#0076_exultation_is_the_going|76. Exultation is the going (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0774_it_is_a_lonesome_glee|774. It is a lonesome Glee — (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0782_there_is_an_arid_pleasure|782. There is an arid Pleasure — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0783_the_birds_begun_at_four_oclock|783. The Birds begun at Four o'clock — (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0787_such_is_the_force_of_happiness|787. Such is the Force of Happiness — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0788_joy_to_have_merited_the_pain|788. Joy to have merited the Pain — (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0791_god_gave_a_loaf_to_every_bird|791. God gave a Loaf to every Bird — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0794_a_drop_fell_on_the_apple_tree|794. A Drop Fell on the Apple Tree — (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0807_expectation_is_contentment|807. Expectation — is Contentment — (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0083_heart_not_so_heavy_as_mine|83. Heart, not so heavy as mine (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0839_always_mine|839. Always Mine! (Dickinson)]]
-- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#078_a_dedication_to_my_wife|A Dedication to my Wife (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#091_bustopher_jones_the_cat_about_town|Bustopher Jones the Cat About Town (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#094_cat_morgan_introduces_himself|Cat Morgan Introduces Himself (Eliot)]]
-- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#066_ix_son_of_man_behold_with_thine_eyes_and_hear_with_thine_ears|IX Son of Man, behold with thine eyes, and hear with thine ears (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#088_mr_mistoffelees|Mr. Mistoffelees (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#085_mungojerrie_and_rumpelteazer|Mungojerrie and Rumpelteazer (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#087_of_the_awefull_battle_of_the_pekes_and_the_pollicles|Of the Awefull Battle of the Pekes and the Pollicles (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#086_old_deuteronomy|Old Deuteronomy (Eliot)]]
+- [[works/nonsense-verses-(coleridge)|NONSENSE VERSES (Coleridge)]]
+- [[works/on-revisiting-the-sea-shore-after-long-absence,-under-strong-medical-recommendation-not-to-bathe-(coleridge)|ON REVISITING THE SEA-SHORE AFTER LONG ABSENCE, UNDER STRONG MEDICAL RECOMMENDATION NOT TO BATHE (Coleridge)]]
+- [[works/schiller-(coleridge)|SCHILLER (Coleridge)]]
+- [[works/song-to-be-sung-by-the-lovers-of-all-the-noble-liquors-comprised-under-the-name-of-ale-(coleridge)|SONG TO BE SUNG BY THE LOVERS OF ALL THE NOBLE LIQUORS COMPRISED UNDER THE NAME OF ALE (Coleridge)]]
+- [[works/the-exchange-(coleridge)|THE EXCHANGE (Coleridge)]]
+- [[works/the-happy-husband-(coleridge)|THE HAPPY HUSBAND (Coleridge)]]
+- [[works/the-second-birth-(coleridge)|THE SECOND BIRTH (Coleridge)]]
+- [[works/the-visit-of-the-gods-imitated-from-schiller-(coleridge)|THE VISIT OF THE GODS IMITATED FROM SCHILLER (Coleridge)]]
+- [[works/this-lime-tree-bower-my-prison-(coleridge)|THIS LIME-TREE BOWER MY PRISON (Coleridge)]]
+- [[works/to-a-child-(coleridge)|TO A CHILD (Coleridge)]]
+- [[works/to-a-young-friend-(coleridge)|TO A YOUNG FRIEND (Coleridge)]]
+- [[works/to-a-young-lady-(coleridge)|TO A YOUNG LADY (Coleridge)]]
+- [[works/to-asra-(coleridge)|TO ASRA (Coleridge)]]
+- [[works/to-captain-findlay-(coleridge)|TO CAPTAIN FINDLAY (Coleridge)]]
+- [[works/to-disappointment-(coleridge)|TO DISAPPOINTMENT (Coleridge)]]
+- [[works/to-mary-pridham-(coleridge)|TO MARY PRIDHAM (Coleridge)]]
+- [[works/to-miss-brunton-(coleridge)|TO MISS BRUNTON (Coleridge)]]
+- [[works/to-susan-steele-on-receiving-the-purse-(coleridge)|TO SUSAN STEELE ON RECEIVING THE PURSE (Coleridge)]]
+- [[works/to-t.-poole-an-invitation-(coleridge)|TO T. POOLE AN INVITATION (Coleridge)]]
+- [[works/to-the-muse-(coleridge)|TO THE MUSE (Coleridge)]]
+- [[works/verses-trivocular-(coleridge)|VERSES TRIVOCULAR (Coleridge)]]
+- 1035. Bee! I'm expecting you! (Dickinson)
+- 1053. It was a quiet way — (Dickinson)
+- 1057. I had a daily Bliss (Dickinson)
+- 1101. Between the form of Life and Life (Dickinson)
+- 1107. The Bird did prance — the Bee did play — (Dickinson)
+- 111. The Bee is not afraid of me. (Dickinson)
+- 1118. Exhilaration is the Breeze (Dickinson)
+- 1125. Oh Sumptuous moment (Dickinson)
+- 1148. After the Sun comes out (Dickinson)
+- 1160. He is alive, this morning — (Dickinson)
+- 1168. As old as Woe — (Dickinson)
+- 1175. We like a Hairbreadth 'scape (Dickinson)
+- 1185. A little Dog that wags his tail (Dickinson)
+- 1198. A soft Sea washed around the House (Dickinson)
+- 1213. We like March. (Dickinson)
+- 122. A something in a summer's Day (Dickinson)
+- 125. For each ecstatic instant (Dickinson)
+- 1263. There is no Frigate like a Book (Dickinson)
+- 1265. The most triumphant Bird I ever knew or met (Dickinson)
+- 1279. The Way to know the Bobolink (Dickinson)
+- 1281. A stagnant pleasure like a Pool (Dickinson)
+- 1299. Delight's Despair at setting (Dickinson)
+- 137. Flowers — Well — if anybody (Dickinson)
+- 138. Pigmy seraphs — gone astray — (Dickinson)
+- 1392. Hope is a strange invention — (Dickinson)
+- 1404. March is the Month of Expectation. (Dickinson)
+- 1420. One Joy of so much anguish (Dickinson)
+- 143. For every Bird a Nest — (Dickinson)
+- 1430. Who never wanted — maddest Joy (Dickinson)
+- 1434. Go not too near a House of Rose — (Dickinson)
+- 1449. I thought the Train would never come — (Dickinson)
+- 1465. Before you thought of Spring (Dickinson)
+- 1468. A winged spark doth soar about — (Dickinson)
+- 1476. His voice decrepit was with Joy — (Dickinson)
+- 1480. The fascinating chill that music leaves (Dickinson)
+- 1492. And with what body do they come — (Dickinson)
+- 1495. The Thrill came slowly like a Boom for (Dickinson)
+- 1526. His oriental heresies (Dickinson)
+- 1532. From all the Jails the Boys and Girls (Dickinson)
+- 1587. He ate and drank the precious Words — (Dickinson)
+- 1628. A Drunkard cannot meet a Cork (Dickinson)
+- 1640. Take all away from me, but leave me Ecstasy, (Dickinson)
+- 167. To learn the Transport by the Pain (Dickinson)
+- 172. 'Tis so much joy! 'Tis so much joy! (Dickinson)
+- 1744. The joy that has no stem no core, (Dickinson)
+- 176. I'm the little Heart's Ease ! (Dickinson)
+- 1771. How fleet — how indiscreet an one — (Dickinson)
+- 179. If I could bribe them by a Rose (Dickinson)
+- 184. A transport one cannot contain (Dickinson)
+- 188. Make me a picture of the sun — (Dickinson)
+- 207. Tho' I get home how late — how late — (Dickinson)
+- 208. The Rose did caper on her cheek — (Dickinson)
+- 214. I taste a liquor never brewed (Dickinson)
+- 218. Is it true, dear Sue (Dickinson)
+- 22. All these my banners be. (Dickinson)
+- 230. We — Bee and I — live by the quaffing — (Dickinson)
+- 297. It's like the Light — (Dickinson)
+- 321. Of all the Sounds despatched abroad, (Dickinson)
+- 329. So glad we are — a Stranger'd deem (Dickinson)
+- 340. Is Bliss then, such Abyss, (Dickinson)
+- 343. My Reward for Being, was This. (Dickinson)
+- 347. When Night is almost done — (Dickinson)
+- 349. I had the Glory — that will do — (Dickinson)
+- 353. A happy lip — breaks sudden — (Dickinson)
+- 359. I gained it so — (Dickinson)
+- 36. Snow flakes. (Dickinson)
+- 383. Exhilaration — is within — (Dickinson)
+- 393. Did Our Best Moment last — (Dickinson)
+- 395. Reverse cannot befall (Dickinson)
+- 430. It would never be Common — more — I said — (Dickinson)
+- 466. 'Tis little I — could care for Pearls — (Dickinson)
+- 470. I am alive — I guess — (Dickinson)
+- 495. It's thoughts — and just One Heart — (Dickinson)
+- 505. I would not paint — a picture — (Dickinson)
+- 535. She's happy, with a new Content — (Dickinson)
+- 635. I think the longest Hour of all (Dickinson)
+- 636. The Way I read a Letter's — this — (Dickinson)
+- 638. To my small Hearth His fire came — (Dickinson)
+- 646. I think to Live — may be a Bliss (Dickinson)
+- 651. So much Summer (Dickinson)
+- 653. Of Being is a Bird (Dickinson)
+- 655. Without this — there is nought — (Dickinson)
+- 659. That first Day, when you praised Me, Sweet, (Dickinson)
+- 661. Could I but ride indefinite (Dickinson)
+- 663. Again — his voice is at the door — (Dickinson)
+- 677. To be alive — is Power — (Dickinson)
+- 689. The Zeroes — taught us — Phosphorous — (Dickinson)
+- 691. Would you like summer Taste of ours. (Dickinson)
+- 756. One Blessing had I than the rest (Dickinson)
+- 76. Exultation is the going (Dickinson)
+- 774. It is a lonesome Glee — (Dickinson)
+- 782. There is an arid Pleasure — (Dickinson)
+- 783. The Birds begun at Four o'clock — (Dickinson)
+- 787. Such is the Force of Happiness — (Dickinson)
+- 788. Joy to have merited the Pain — (Dickinson)
+- 791. God gave a Loaf to every Bird — (Dickinson)
+- 794. A Drop Fell on the Apple Tree — (Dickinson)
+- 807. Expectation — is Contentment — (Dickinson)
+- 83. Heart, not so heavy as mine (Dickinson)
+- 839. Always Mine! (Dickinson)
+- [[works/a-dedication-to-my-wife-(eliot)|A Dedication to my Wife (Eliot)]]
+- [[works/bustopher-jones-the-cat-about-town-(eliot)|Bustopher Jones the Cat About Town (Eliot)]]
+- [[works/cat-morgan-introduces-himself-(eliot)|Cat Morgan Introduces Himself (Eliot)]]
+- [[works/ix-son-of-man,-behold-with-thine-eyes,-and-hear-with-thine-ears-(eliot)|IX Son of Man, behold with thine eyes, and hear with thine ears (Eliot)]]
+- [[works/mr.-mistoffelees-(eliot)|Mr. Mistoffelees (Eliot)]]
+- [[works/mungojerrie-and-rumpelteazer-(eliot)|Mungojerrie and Rumpelteazer (Eliot)]]
+- [[works/of-the-awefull-battle-of-the-pekes-and-the-pollicles-(eliot)|Of the Awefull Battle of the Pekes and the Pollicles (Eliot)]]
+- [[works/old-deuteronomy-(eliot)|Old Deuteronomy (Eliot)]]
 - [[works/old-possum’s-book-of-practical-cats-(eliot)|OLD POSSUM’S BOOK OF PRACTICAL CATS (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#092_skimbleshanks_the_railway_cat|Skimbleshanks the Railway Cat (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#093_the_ad-dressing_of_cats|The Ad-dressing of Cats (Eliot)]]
-- [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#047_the_cultivation_of_christmas_trees|The Cultivation of Christmas Trees (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#080_the_naming_of_cats|The Naming of Cats (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#081_the_old_gumbie_cat|The Old Gumbie Cat (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#083_the_rum_turn_tugger|The Rum Turn Tugger (Eliot)]]
-- [[testi/eliot/atomized/joy-animals-comic-verse-song#084_the_song_of_the_jellicles|The Song of the Jellicles (Eliot)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#071_a_song_of_opposites|A Song of Opposites (Keats)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#130_apollo_and_the_graces|Apollo and the Graces (Keats)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#085_daisys_song|Daisy’s Song (Keats)]]
-- [[testi/keats/atomized/seasons-winter-autumn#035_fancy|FANCY (Keats)]]
-- [[testi/keats/atomized/satire-of-society-epigram-satire#086_follys_song|Folly’s Song (Keats)]]
-- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#040_ode_on_melancholy|ODE ON MELANCHOLY (Keats)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#091_song_spirit_here_that_reignest|Song Spirit here that reignest! (Keats)]]
-- [[testi/keats/atomized/seasons-winter-autumn#081_sonnet_to_john_hamilton_reynolds|Sonnet to John Hamilton Reynolds (Keats)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#006_to_hope|TO HOPE (Keats)]]
+- [[works/skimbleshanks-the-railway-cat-(eliot)|Skimbleshanks the Railway Cat (Eliot)]]
+- [[works/the-ad-dressing-of-cats-(eliot)|The Ad-dressing of Cats (Eliot)]]
+- [[works/the-cultivation-of-christmas-trees-(eliot)|The Cultivation of Christmas Trees (Eliot)]]
+- [[works/the-naming-of-cats-(eliot)|The Naming of Cats (Eliot)]]
+- [[works/the-old-gumbie-cat-(eliot)|The Old Gumbie Cat (Eliot)]]
+- [[works/the-rum-turn-tugger-(eliot)|The Rum Turn Tugger (Eliot)]]
+- [[works/the-song-of-the-jellicles-(eliot)|The Song of the Jellicles (Eliot)]]
+- [[works/a-song-of-opposites-(keats)|A Song of Opposites (Keats)]]
+- [[works/apollo-and-the-graces-(keats)|Apollo and the Graces (Keats)]]
+- [[works/daisy’s-song-(keats)|Daisy’s Song (Keats)]]
+- [[works/fancy-(keats)|FANCY (Keats)]]
+- [[works/folly’s-song-(keats)|Folly’s Song (Keats)]]
+- [[works/ode-on-melancholy-(keats)|ODE ON MELANCHOLY (Keats)]]
+- [[works/song-spirit-here-that-reignest!-(keats)|Song Spirit here that reignest! (Keats)]]
+- [[works/sonnet-to-john-hamilton-reynolds-(keats)|Sonnet to John Hamilton Reynolds (Keats)]]
+- [[works/to-hope-(keats)|TO HOPE (Keats)]]
 - [[works/evening-star-(poe)|Evening Star (Poe)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#087_a_song_of_joys|A Song of Joys (Whitman)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#010_beginning_my_studies|Beginning My Studies (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#263_excelsior|Excelsior (Whitman)]]
-- [[testi/whitman/atomized/nature-book-of-nature-natural-order#312_halcyon_days|Halcyon Days (Whitman)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#018_i_hear_america_singing|I Hear America Singing (Whitman)]]
-- [[testi/whitman/atomized/journey-ship#288_joy_shipmate_joy|Joy, Shipmate, Joy! (Whitman)]]
+- [[works/a-song-of-joys-(whitman)|A Song of Joys (Whitman)]]
+- [[works/beginning-my-studies-(whitman)|Beginning My Studies (Whitman)]]
+- [[works/excelsior-(whitman)|Excelsior (Whitman)]]
+- [[works/halcyon-days-(whitman)|Halcyon Days (Whitman)]]
+- [[works/i-hear-america-singing-(whitman)|I Hear America Singing (Whitman)]]
+- [[works/joy,-shipmate,-joy!-(whitman)|Joy, Shipmate, Joy! (Whitman)]]
 - [[works/leaves-of-grass-(whitman)|Leaves of Grass (Whitman)]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#302_my_canary_bird|My Canary Bird (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#038_native_moments|Native Moments (Whitman)]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#319_of_that_blithe_throat_of_thine|Of That Blithe Throat of Thine (Whitman)]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#032_one_hour_to_madness_and_joy|One Hour to Madness and Joy (Whitman)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#281_song_at_sunset|Song at Sunset (Whitman)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#331_thanks_in_old_age|Thanks in Old Age (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#257_the_mystic_trumpeter|The Mystic Trumpeter (Whitman)]]
-- [[testi/whitman/atomized/nature-book-of-nature-natural-order#201_warble_for_lilac_time|Warble for Lilac-Time (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#035_we_two_how_long_we_were_fool_d|We Two, How Long We Were Fool’d (Whitman)]]
-- [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#052_when_i_heard_at_the_close_of_the_day|When I Heard at the Close of the Day (Whitman)]]
+- [[works/my-canary-bird-(whitman)|My Canary Bird (Whitman)]]
+- [[works/native-moments-(whitman)|Native Moments (Whitman)]]
+- [[works/of-that-blithe-throat-of-thine-(whitman)|Of That Blithe Throat of Thine (Whitman)]]
+- [[works/one-hour-to-madness-and-joy-(whitman)|One Hour to Madness and Joy (Whitman)]]
+- [[works/song-at-sunset-(whitman)|Song at Sunset (Whitman)]]
+- [[works/thanks-in-old-age-(whitman)|Thanks in Old Age (Whitman)]]
+- [[works/the-mystic-trumpeter-(whitman)|The Mystic Trumpeter (Whitman)]]
+- [[works/warble-for-lilac-time-(whitman)|Warble for Lilac-Time (Whitman)]]
+- [[works/we-two,-how-long-we-were-fool’d-(whitman)|We Two, How Long We Were Fool’d (Whitman)]]
+- [[works/when-i-heard-at-the-close-of-the-day-(whitman)|When I Heard at the Close of the Day (Whitman)]]
 
 </div>
 

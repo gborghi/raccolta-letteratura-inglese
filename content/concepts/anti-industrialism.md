@@ -53,7 +53,7 @@ tags:
 - [[works/a-child's-history-of-england-(dickens)|A Child's History of England (Dickens)]]
 - [[works/hard-times-(dickens)|Hard Times (Dickens)]]
 - [[works/choruses-from-‘the-rock’-1934-(eliot)|CHORUSES FROM ‘THE ROCK’ 1934 (Eliot)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#038_robin_hood|ROBIN HOOD (Keats)]]
+- [[works/robin-hood-(keats)|ROBIN HOOD (Keats)]]
 - [[works/some-words-with-a-mummy-(poe)|Some Words with a Mummy (Poe)]]
 - [[works/the-business-man-(poe)|The Business Man (Poe)]]
 - [[works/the-man-that-was-used-up-(poe)|The Man That Was Used Up (Poe)]]

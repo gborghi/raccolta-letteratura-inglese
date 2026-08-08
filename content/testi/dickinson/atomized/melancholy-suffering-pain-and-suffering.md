@@ -251,7 +251,7 @@ It would not be — to die —
 
 I note that Some — gone patient long —  
 At length, renew their smile —  
-An imitation of a Light  
+An [[Imitation|imitation]] of a Light  
 That has so little Oil —  
 
 I [[concepts/wonder|wonder]] if when Years have piled —  

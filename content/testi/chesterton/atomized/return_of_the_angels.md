@@ -55,7 +55,7 @@ che questo è il metodo su cui basiamo tutte le nostre credenze reali
 e che su questo, soprattutto, basiamo la nostra credenza nell'evoluzione.
 Delle migliaia di persone brillanti ed eleganti come noi
 che credono grosso modo nella dottrina darwiniana, quanti sono
-coloro che sanno quale fossile o quale scheletro, quale coda di pappagallo o quale
+coloro che sanno quale fossile o quale [[skeleton|scheletro]], quale coda di pappagallo o quale
 stomaco di seppia sia realmente ritenuto l'esempio conclusivo
 e il dato assoluto della selezione naturale? Non sappiamo quasi nulla
 dei fatti darwiniani che conducono alla [[concepts/conversion|conversione]]. Ciò che sappiamo è molto
@@ -95,8 +95,8 @@ tremenda su qualche disperato cavillo; nella misura in cui immaginano,
 come fanno, che ci aggrappiamo alla religione con fuscelli e pagliuzze...
 Il ritorno alla teoria spirituale non poggia su nessuna di queste cose.
 Poggia, come il movimento verso l'evoluzione, sul fatto
-che la cosa torna. Ci mettiamo la teoria come un cappello magico
-e la [[concepts/history|storia]] diventa translucida come una casa di vetro.
+che la cosa torna. Ci mettiamo la teoria come un cappello [[Magic|magico]]
+e la [[concepts/history|storia]] diventa translucida come una [[house|casa]] di vetro.
 
 Cominciamo dal principio.  Un evento sorprendente e sensazionale
 è accaduto di recente; alludo alla comparsa della creatura
@@ -120,7 +120,7 @@ padri hanno avuto a che fare con un essere più oscuro o più meraviglioso.
 Se la testimonianza umana significa qualcosa, questa è forse l'unica
 cosa sulla quale abbiamo una prova schiacciante.
 
-Abbiamo una testimonianza umana quasi schiacciante della necessità della moralità;
+Abbiamo una testimonianza umana quasi schiacciante della necessità della [[morality|moralità]];
 abbiamo una testimonianza umana del tutto schiacciante della realtà della
 vita spirituale.  Siamo abbastanza pronti a citare la testimonianza di tutta
 l'umanità a sostegno dei regolamenti di polizia o dei dati dell'etica;
@@ -185,7 +185,7 @@ that this is the method on which we base all our real beliefs
 and that on this, above all, we base our belief in evolution.
 Of the thousands of brilliant and elegant persons like ourselves
 who believe roughly in the Darwinian doctrine, how many are there
-who know which fossil or skeleton, which parrot's tail or which
+who know which fossil or [[skeleton]], which parrot's tail or which
 cuttle-fish's stomach, is really believed to be the conclusive example
 and absolute datum of natural selection?  We know scarcely anything
 of the Darwinian facts that lead to [[concepts/conversion|conversion]].  What we know is much
@@ -225,8 +225,8 @@ doctrine on a few desperate quibbles; in so far as they fancy,
 as they do, that we are hanging on to religion by sticks and straws....
 The return to the spiritual theory rests on none of these things.
 It rests, like the movement towards evolution, on the fact
-that the thing works out.  We put on the theory like a magic hat
-and [[concepts/history|history]] becomes translucent like a house of glass.
+that the thing works out.  We put on the theory like a [[Magic|magic]] hat
+and [[concepts/history|history]] becomes translucent like a [[house]] of glass.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -269,7 +269,7 @@ che questo è il metodo su cui basiamo tutte le nostre credenze reali
 e che su questo, soprattutto, basiamo la nostra credenza nell'evoluzione.
 Delle migliaia di persone brillanti ed eleganti come noi
 che credono grosso modo nella dottrina darwiniana, quanti sono
-coloro che sanno quale fossile o quale scheletro, quale coda di pappagallo o quale
+coloro che sanno quale fossile o quale [[skeleton|scheletro]], quale coda di pappagallo o quale
 stomaco di seppia sia realmente ritenuto l'esempio conclusivo
 e il dato assoluto della selezione naturale? Non sappiamo quasi nulla
 dei fatti darwiniani che conducono alla [[concepts/conversion|conversione]]. Ciò che sappiamo è molto
@@ -309,8 +309,8 @@ tremenda su qualche disperato cavillo; nella misura in cui immaginano,
 come fanno, che ci aggrappiamo alla religione con fuscelli e pagliuzze...
 Il ritorno alla teoria spirituale non poggia su nessuna di queste cose.
 Poggia, come il movimento verso l'evoluzione, sul fatto
-che la cosa torna. Ci mettiamo la teoria come un cappello magico
-e la [[concepts/history|storia]] diventa translucida come una casa di vetro.
+che la cosa torna. Ci mettiamo la teoria come un cappello [[Magic|magico]]
+e la [[concepts/history|storia]] diventa translucida come una [[house|casa]] di vetro.
 
 
 
@@ -339,7 +339,7 @@ fathers have had dealings with a darker or more wonderful being.
 If human evidence means anything at all, this is perhaps the only
 thing on which we have overwhelming evidence.
 
-We have nearly overwhelming human witness to the necessity of morality;
+We have nearly overwhelming human witness to the necessity of [[morality]];
 we have quite overwhelming human witness to the reality of the
 spiritual life.  We are ready enough to quote the evidence of all
 mankind in support of police regulations or the data of ethics;
@@ -386,7 +386,7 @@ padri hanno avuto a che fare con un essere più oscuro o più meraviglioso.
 Se la testimonianza umana significa qualcosa, questa è forse l'unica
 cosa sulla quale abbiamo una prova schiacciante.
 
-Abbiamo una testimonianza umana quasi schiacciante della necessità della moralità;
+Abbiamo una testimonianza umana quasi schiacciante della necessità della [[morality|moralità]];
 abbiamo una testimonianza umana del tutto schiacciante della realtà della
 vita spirituale.  Siamo abbastanza pronti a citare la testimonianza di tutta
 l'umanità a sostegno dei regolamenti di polizia o dei dati dell'etica;

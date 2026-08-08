@@ -51,7 +51,7 @@ tags:
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/ghosts|Ghosts]], [[motifs/fog-and-smoke|Fog and Smoke]], [[concepts/uncanny|Uncanny]], [[motifs/death|Death]]
 **Historical References:** [[historical-references/first-world-war|First World War]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/professor-challenger|Professor Challenger]]
-**Archetypes:** [[archetypes/mentor|Mentor]], [[archetypes/prophetess-seer|Prophetess Seer]], [[archetypes/outsider|Outsider]]
+**Characters:** Professor Challenger
+**Archetypes:** Mentor, Prophetess Seer, Outsider
 
 **Also relevant to:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]], [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

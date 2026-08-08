@@ -41,7 +41,7 @@ tags:
 
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
 
-**Archetypes:** [[archetypes/hero|Hero]]
+**Archetypes:** Hero
 
 **Topoi:** [[topoi/ubi-sunt|Ubi Sunt]]
 **Motifs:** [[motifs/autumn|Autumn]], [[motifs/seasons|Seasons]], [[motifs/gold-and-grey|Gold and Grey]], [[motifs/flowers|Flowers]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/stars|Stars]]

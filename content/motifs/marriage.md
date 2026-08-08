@@ -32,36 +32,36 @@ tags:
 - [[works/robert-browning-(chesterton)|Robert Browning (Chesterton)]]
 - [[works/manalive-(chesterton)|manalive (Chesterton)]]
 - [[works/the-cricket-on-the-hearth-(dickens)|The Cricket on the Hearth (Dickens)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1257_dominion_lasts_until_obtained|1257. Dominion lasts until obtained — (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#1445_death_is_the_supple_suitor|1445. Death is the supple Suitor (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1496_all_that_i_do|1496. All that I do (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1542_come_show_thy_durham_breast|1542. Come show thy Durham Breast (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0199_im_wife_ive_finished_that|199. I'm wife — I've finished that — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0322_there_came_a_day_at_summers_full|322. There came a Day at Summer's full, (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0461_a_wife_at_daybreak_i_shall_be|461. A Wife — at daybreak I shall be — (Dickinson)]]
-- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0473_i_am_ashamed_i_hide|473. I am ashamed — I hide — (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0518_her_sweet_weight_on_my_heart_a_night|518. Her sweet Weight on my Heart a Night (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0535_shes_happy_with_a_new_content|535. She's happy, with a new Content — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0625_twas_a_long_parting_but_the_time|625. 'Twas a long Parting — but the time (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0631_ourselves_were_wed_one_summer_dear|631. Ourselves were wed one summer — dear — (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0649_her_sweet_turn_to_leave_the_homestead|649. Her Sweet turn to leave the Homestead (Dickinson)]]
-- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0665_dropped_into_the_ether_acre|665. Dropped into the Ether Acre — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0817_given_in_marriage_unto_thee|817. Given in Marriage unto Thee (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0830_to_this_world_she_returned|830. To this World she returned. (Dickinson)]]
-- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0896_of_silken_speech_and_specious_shoe|896. Of Silken Speech and Specious Shoe (Dickinson)]]
+- 1257. Dominion lasts until obtained — (Dickinson)
+- 1445. Death is the supple Suitor (Dickinson)
+- 1496. All that I do (Dickinson)
+- 1542. Come show thy Durham Breast (Dickinson)
+- 199. I'm wife — I've finished that — (Dickinson)
+- 322. There came a Day at Summer's full, (Dickinson)
+- 461. A Wife — at daybreak I shall be — (Dickinson)
+- 473. I am ashamed — I hide — (Dickinson)
+- 518. Her sweet Weight on my Heart a Night (Dickinson)
+- 535. She's happy, with a new Content — (Dickinson)
+- 625. 'Twas a long Parting — but the time (Dickinson)
+- 631. Ourselves were wed one summer — dear — (Dickinson)
+- 649. Her Sweet turn to leave the Homestead (Dickinson)
+- 665. Dropped into the Ether Acre — (Dickinson)
+- 817. Given in Marriage unto Thee (Dickinson)
+- 830. To this World she returned. (Dickinson)
+- 896. Of Silken Speech and Specious Shoe (Dickinson)
 - [[works/east-coker-1940-(eliot)|East Coker 1940 (Eliot)]]
 - [[works/ii.-a-game-of-chess-(eliot)|II. A Game of Chess (Eliot)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#101_a_galloway_song|A Galloway Song (Keats)]]
+- [[works/a-galloway-song-(keats)|A Galloway Song (Keats)]]
 - [[works/loss-of-breath-(poe)|Loss of Breath (Poe)]]
 - [[works/song-(poe)|Song (Poe)]]
 - [[works/the-bells-(poe)|The Bells (Poe)]]
 - [[works/all’s-well-that-ends-well-(shakespeare)|ALL’S WELL THAT ENDS WELL (Shakespeare)]]
 - [[works/cardenio---a-brief-account-(shakespeare)|CARDENIO - A BRIEF ACCOUNT (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_008|Sonnet 8 (Shakespeare)]]
+- Sonnet 8 (Shakespeare)
 - [[works/the-taming-of-the-shrew-(shakespeare)|THE TAMING OF THE SHREW (Shakespeare)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#030_a_woman_waits_for_me|A Woman Waits for Me (Whitman)]]
-- [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#036_o_hymen_o_hymenee|O Hymen! O Hymenee! (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#214_unfolded_out_of_the_folds|Unfolded out of the Folds (Whitman)]]
+- [[works/a-woman-waits-for-me-(whitman)|A Woman Waits for Me (Whitman)]]
+- [[works/o-hymen!-o-hymenee!-(whitman)|O Hymen! O Hymenee! (Whitman)]]
+- [[works/unfolded-out-of-the-folds-(whitman)|Unfolded out of the Folds (Whitman)]]
 - [[works/a-woman-of-no-importance-(wilde)|A Woman of No Importance (Wilde)]]
 - [[works/an-ideal-husband-(wilde)|An Ideal Husband (Wilde)]]
 - [[works/lady-windermere's-fan-(wilde)|Lady Windermere's Fan (Wilde)]]

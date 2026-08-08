@@ -49,5 +49,5 @@ tags:
 **Themes & Concepts:** [[concepts/childhood-and-growth|Childhood And Growth]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/nonsense|Nonsense]], [[concepts/exaggeration|Exaggeration]], [[concepts/satire-of-society|Satire of Society]], [[concepts/vanity|Vanity]]
 **Motifs:** [[motifs/death|Death]], [[motifs/animals|Animals]], [[motifs/childhood|Childhood]], [[motifs/gallows|Gallows]], [[motifs/fire|Fire]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Archetypes:** [[archetypes/child|Child]]
+**Archetypes:** Child
 **Topoi:** [[topoi/memento-mori|Memento Mori]]

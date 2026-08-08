@@ -14,7 +14,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1119_paradise_is_that_old_mansion|1119. Paradise is that old mansion (Dickinson)]]
+- 1119. Paradise is that old mansion (Dickinson)
 - [[works/micah-clarke-(conan-doyle)|Micah Clarke (Conan Doyle)]]
 - [[works/rodney-stone-(conan-doyle)|Rodney Stone (Conan Doyle)]]
 - [[works/the-doings-of-raffles-haw-(conan-doyle)|The Doings of Raffles Haw (Conan Doyle)]]

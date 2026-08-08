@@ -61,5 +61,5 @@ tags:
 **Motifs:** [[motifs/sea|Sea]], [[motifs/ship|Ship]], [[motifs/journey|Journey]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/british-empire|British Empire]], [[historical-references/first-world-war|First World War]], [[historical-references/bolshevism-and-the-russian-revolution|Bolshevism and the Russian Revolution]]
 **Settings:** [[settings/africa|Africa]], [[settings/egypt|Egypt]], [[settings/orient|Orient]], [[settings/south-africa|South Africa]]
-**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Archetypes:** Pilgrim
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/journey-of-life|Journey of Life]]

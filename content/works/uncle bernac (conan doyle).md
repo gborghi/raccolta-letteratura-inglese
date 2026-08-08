@@ -65,7 +65,7 @@ tags:
 **Motifs:** [[motifs/journey|Journey]], [[motifs/sea|Sea]], [[motifs/storm|Storm]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/napoleon|Napoleon]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/french-revolution|French Revolution]]
 **Settings:** [[settings/france|France]], [[motifs/ship|Ship]], [[settings/europe|Europe]]
-**Characters:** [[characters/napoleon-bonaparte|Napoleon Bonaparte]]
-**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/villain|Villain]]
+**Characters:** Napoleon Bonaparte
+**Archetypes:** Hero, Villain
 
 **Also relevant to:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]]

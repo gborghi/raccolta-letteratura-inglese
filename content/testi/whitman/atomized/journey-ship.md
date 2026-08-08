@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/journey-ship" data-author="Whitman" data-workhref="works/journey-·-ship-(whitman)"></div>
 
 
-<span class="atom-split" data-atom="003_in_cabin_d_ships_at_sea" data-title="In Cabin’d Ships at Sea" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_sea,motif/the_journey,motif/the_book,form/free_verse,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="003_in_cabin_d_ships_at_sea" data-title="In Cabin’d Ships at Sea" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -28,7 +28,7 @@ By sailors young and old haply will I, a reminiscence of the land, be read,
 In full rapport at last.  
 
 Here are our thoughts, voyagers’ thoughts,  
-Here not the land, firm land, alone appears, may then by them be said,  
+Here not the land, firm land, [[Alone|alone]] appears, may then by them be said,  
 The sky o’erarches here, we feel the undulating deck beneath our feet,  
 We feel the long pulsation, ebb and flow of endless motion,  
 The tones of unseen mystery, the vague and vast suggestions of the  
@@ -38,7 +38,7 @@ The boundless vista and the horizon far and dim are all here,
 And this is ocean’s poem.  
 
 Then falter not O book, fulfil your destiny,  
-You not a reminiscence of the land alone,  
+You not a reminiscence of the land [[Alone|alone]],  
 You too as a lone bark cleaving the ether, purpos’d I know not  
 whither, yet ever full of [[concepts/faith|faith]],  
 Consort to every [[motifs/ship|ship]] that sails, sail you!  
@@ -47,7 +47,7 @@ here in every leaf;)
 [[characters/speed|Speed]] on my book! spread your white sails my little bark athwart the  
 imperious waves,  
 Chant on, sail on, bear o’er the boundless blue from me to every sea,  
-This song for mariners and all their ships.  
+This [[Song|song]] for mariners and all their ships.  
 
 
 
@@ -56,7 +56,7 @@ This song for mariners and all their ships.
 
 
 
-<span class="atom-split" data-atom="017_the_ship_starting" data-title="The Ship Starting" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_sea,motif/the_journey,form/free_verse,form/lyric,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="017_the_ship_starting" data-title="The Ship Starting" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -76,7 +76,7 @@ They surround the [[motifs/ship|ship]] with shining curving motions and foam.
 
 
 
-<span class="atom-split" data-atom="083_song_of_the_open_road" data-title="Song of the Open Road" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,archetype/outcast_wanderer,motif/the_road,motif/the_journey,concept/self_and_soul,concept/comradeship,concept/democracy,form/free_verse,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="083_song_of_the_open_road" data-title="Song of the Open Road" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -153,7 +153,7 @@ You express me better than I can express myself,
 You shall be more to me than my poem.  
 
 I think heroic deeds were all conceiv’d in the open air, and all  
-free poems also,  
+free [[Poems|poems]] also,  
 I think I could stop here myself and do miracles,  
 I think whatever I shall meet on the [[motifs/road|road]] I shall like, and whoever  
 beholds me shall like me,  
@@ -359,7 +359,7 @@ To take to your use out of the compact cities as you pass through,
 To carry buildings and streets with you afterward wherever you go,  
 To gather the minds of men out of their brains as you encounter  
 them, to gather the [[motifs/love|love]] out of their hearts,  
-To take your lovers on the [[motifs/road|road]] with you, for all that you leave  
+To take your [[lovers]] on the [[motifs/road|road]] with you, for all that you leave  
 them behind you,  
 To know the universe itself as a [[motifs/road|road]], as many roads, as roads for  
 traveling souls.  
@@ -380,7 +380,7 @@ They go! they go! I know that they go, but I know not where they go,
 But I know that they go toward the best--toward something great.  
 
 Whoever you are, come forth! or man or woman come forth!  
-You must not stay sleeping and dallying there in the house, though  
+You must not stay sleeping and dallying there in the [[house]], though  
 you built it, or though it has been built for you.  
 
 Out of the dark confinement! out from behind the screen!  
@@ -411,7 +411,7 @@ The goal that was named cannot be countermanded.
 Have the past struggles succeeded?  
 What has succeeded? yourself? your nation? [[concepts/nature|Nature]]?  
 Now understand me [[motifs/well|well]]--it is provided in the essence of things that  
-from any fruition of success, no matter what, shall come forth  
+from any fruition of [[success]], no matter what, shall come forth  
 something to make a greater struggle necessary.  
 
 My call is the call of battle, I nourish active rebellion,  
@@ -443,7 +443,7 @@ Shall we stick by each other as long as we live?
 
 
 
-<span class="atom-split" data-atom="106_aboard_at_a_ship_s_helm" data-title="Aboard at a Ship’s Helm" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/the_journey,motif/bells,concept/self_and_soul,form/free_verse,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="106_aboard_at_a_ship_s_helm" data-title="Aboard at a Ship’s Helm" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SEA-DRIFT_  
@@ -473,7 +473,7 @@ But O the [[motifs/ship|ship]], the immortal [[motifs/ship|ship]]! O [[motifs/sh
 
 
 
-<span class="atom-split" data-atom="110_song_for_all_seas_all_ships" data-title="Song for All Seas, All Ships" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/heroism,concept/comradeship,concept/immortality,form/free_verse,form/song,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="110_song_for_all_seas_all_ships" data-title="Song for All Seas, All Ships" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SEA-DRIFT_  
@@ -519,7 +519,7 @@ All seas, all ships.
 
 
 
-<span class="atom-split" data-atom="124_to_rich_givers" data-title="To Rich Givers" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,topos/poet_as_prophet,motif/money_gold,concept/the_artist_and_society,concept/the_self,form/free_verse,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="124_to_rich_givers" data-title="To Rich Givers" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -527,7 +527,7 @@ _Cluster: BY THE ROADSIDE_
 
 What you give me I cheerfully accept,  
 A little sustenance, a hut and [[motifs/garden|garden]], a little money, as I  
-rendezvous with my poems,  
+rendezvous with my [[Poems|poems]],  
 A traveler’s lodging and breakfast as [[motifs/journey|journey]] through the States,--  
 why should I be ashamed to own such gifts? why to advertise for them?  
 For I myself am not one who bestows nothing upon man and woman,  
@@ -550,7 +550,7 @@ _Cluster: BY THE ROADSIDE_
 Gliding o’er all, through all,
 Through [[concepts/nature|Nature]], [[motifs/time|Time]], and Space,
 As a [[motifs/ship|ship]] on the waters advancing,
-The voyage of the [[motifs/soul|soul]]--not life alone,
+The voyage of the [[motifs/soul|soul]]--not life [[Alone|alone]],
 [[motifs/death|Death]], many deaths I’ll sing.
 
 
@@ -560,7 +560,7 @@ The voyage of the [[motifs/soul|soul]]--not life alone,
 
 
 
-<span class="atom-split" data-atom="149_city_of_ships" data-title="City of Ships" data-chapter="" data-kind="intro" data-tags="motif/the_city,motif/a_ship,motif/the_sea,concept/war_and_its_cost,concept/nationalism_and_patriotism,setting/manhattan,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="149_city_of_ships" data-title="City of Ships" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -576,14 +576,14 @@ All the lands of the earth make contributions here;)
 out with eddies and foam!
 [[motifs/city|City]] of wharves and stores--[[motifs/city|city]] of tall facades of marble and iron!
 Proud and passionate [[motifs/city|city]]--mettlesome, mad, extravagant [[motifs/city|city]]!
-[[motifs/spring|Spring]] up O [[motifs/city|city]]--not for peace alone, but be indeed yourself, warlike!
+[[motifs/spring|Spring]] up O [[motifs/city|city]]--not for peace [[Alone|alone]], but be indeed yourself, warlike!
 [[concepts/fear|Fear]] not--submit to no models but your own O [[motifs/city|city]]!
 Behold me--incarnate me as I have incarnated you!
 I have rejected nothing you offer’d me--whom you adopted I have adopted,
 Good or bad I never question you--I [[motifs/love|love]] all--I do not condemn any thing,
 I chant and celebrate all that is yours--yet peace no more,
 In peace I chanted peace, but now the drum of war is mine,
-War, red war is my song through your streets, O [[motifs/city|city]]!
+War, red war is my [[Song|song]] through your streets, O [[motifs/city|city]]!
 
 
 
@@ -592,7 +592,7 @@ War, red war is my song through your streets, O [[motifs/city|city]]!
 
 
 
-<span class="atom-split" data-atom="160_not_the_pilot" data-title="Not the Pilot" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,topos/immortality_through_verse,motif/a_ship,motif/the_journey,concept/nationalism_and_patriotism,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="160_not_the_pilot" data-title="Not the Pilot" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -614,7 +614,7 @@ For a battle-call, rousing to arms if need be, years, centuries hence.
 
 
 
-<span class="atom-split" data-atom="223_an_old_man_s_thought_of_school" data-title="An Old Man’s Thought of School" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/dawn,concept/education,concept/childhood_and_growth,concept/self_and_soul,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="223_an_old_man_s_thought_of_school" data-title="An Old Man’s Thought of School" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -655,7 +655,7 @@ To girlhood, boyhood look, the teacher and the school.
 
 
 
-<span class="atom-split" data-atom="230_passage_to_india" data-title="Passage to India" data-chapter="" data-kind="intro" data-tags="topos/the_quest,topos/poet_as_prophet,motif/the_journey,motif/the_sea,concept/the_soul_journey,concept/faith,concept/critique_of_progress,form/ode,histref/eastern_religion,histref/the_industrial_revolution,setting/the_orient,character/columbus,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="230_passage_to_india" data-title="Passage to India" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -681,8 +681,8 @@ So the present, utterly form’d, impell’d by the past.)
 Passage O [[motifs/soul|soul]] to India!  
 Eclaircise the myths Asiatic, the primitive fables.  
 
-Not you alone proud truths of the world,  
-Nor you alone ye facts of modern science,  
+Not you [[Alone|alone]] proud truths of the world,  
+Nor you [[Alone|alone]] ye facts of modern science,  
 But myths and fables of eld, Asia’s, Africa’s fables,  
 The far-darting beams of the spirit, the unloos’d [[motifs/dreams|dreams]],  
 The deep diving bibles and legends,  
@@ -796,7 +796,7 @@ After the great captains and engineers have accomplish’d their work,
 After the noble inventors, after the scientists, the chemist, the  
 geologist, ethnologist,  
 Finally shall come the poet worthy that name,  
-The true son of God shall come singing his songs.  
+The true son of God shall come singing his [[songs]].  
 
 Then not your deeds only O voyagers, O scientists and inventors,  
 shall be justified,  
@@ -874,7 +874,7 @@ And fills the earth with use and [[concepts/beauty|beauty]].)
 
 7  
 Passage indeed O [[motifs/soul|soul]] to primal thought,  
-Not lands and seas alone, thy own clear freshness,  
+Not lands and seas [[Alone|alone]], thy own clear freshness,  
 The young maturity of brood and bloom,  
 To realms of budding bibles.  
 
@@ -891,7 +891,7 @@ We too take [[motifs/ship|ship]] O [[motifs/soul|soul]],
 Joyous we too launch out on trackless seas,  
 Fearless for unknown shores on waves of ecstasy to sail,  
 Amid the wafting winds, (thou pressing me to thee, I thee to me, O [[motifs/soul|soul]],)  
-Caroling free, singing our song of God,  
+Caroling free, singing our [[Song|song]] of God,  
 Chanting our chant of pleasant exploration.  
 
 With laugh and many a kiss,  
@@ -993,7 +993,7 @@ O farther, farther, farther sail!
 
 
 
-<span class="atom-split" data-atom="231_prayer_of_columbus" data-title="Prayer of Columbus" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,concept/faith,concept/faith_and_doubt,concept/mortality,concept/providence,form/dramatic_monologue,setting/the_sea,character/columbus,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="231_prayer_of_columbus" data-title="Prayer of Columbus" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -1083,7 +1083,7 @@ And anthems in new tongues I hear saluting me.
 
 
 
-<span class="atom-split" data-atom="244_what_ship_puzzled_at_sea" data-title="What Ship Puzzled at Sea" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/the_journey,concept/self_and_soul,form/epigram,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="244_what_ship_puzzled_at_sea" data-title="What Ship Puzzled at Sea" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_  
@@ -1102,10 +1102,10 @@ Whom, in a little boat, putting off and rowing, I hailing you offer.
 
 
 
-<span class="atom-split" data-atom="288_joy_shipmate_joy" data-title="Joy, Shipmate, Joy!" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_sea,motif/a_ship,motif/the_journey,concept/joy,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="288_joy_shipmate_joy" data-title="Joy, Shipmate, Joy!" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: SONGS OF PARTING_  
+_Cluster: [[songs|SONGS]] OF PARTING_  
 
 
 Joy, shipmate, Joy!  
@@ -1126,7 +1126,7 @@ Joy, shipmate, joy.
 <span class="atom-split" data-atom="289_the_untold_want" data-title="The Untold Want" data-chapter="" data-kind="intro" data-tags="cluster/journey,cluster/ship"></span>
 
 
-_Cluster: SONGS OF PARTING_
+_Cluster: [[songs|SONGS]] OF PARTING_
 
 
 The untold want by life and land ne’er granted,
@@ -1139,10 +1139,10 @@ Now voyager sail thou forth to seek and find.
 
 
 
-<span class="atom-split" data-atom="292_now_finale_to_the_shore" data-title="Now Finale to the Shore" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_sea,motif/a_ship,motif/the_journey,concept/mortality,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="292_now_finale_to_the_shore" data-title="Now Finale to the Shore" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: SONGS OF PARTING_  
+_Cluster: [[songs|SONGS]] OF PARTING_  
 
 
 Now finale to the shore,  
@@ -1163,7 +1163,7 @@ Depart upon thy endless cruise old Sailor.
 
 
 
-<span class="atom-split" data-atom="339_twenty_years" data-title="Twenty Years" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/the_sea,motif/the_journey,motif/mutability,concept/memory_and_time,concept/nostalgia,form/narrative_poem,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="339_twenty_years" data-title="Twenty Years" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1191,7 +1191,7 @@ Dress’d in its russet suit of good Scotch cloth:
 
 
 
-<span class="atom-split" data-atom="346_the_dismantled_ship" data-title="The Dismantled Ship" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/decay,motif/the_sea,concept/mortality,concept/transience,form/lyric,setting/a_ship,setting/the_sea,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="346_the_dismantled_ship" data-title="The Dismantled Ship" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1211,7 +1211,7 @@ Lies rusting, mouldering.
 
 
 
-<span class="atom-split" data-atom="350_after_the_supper_and_talk" data-title="After the Supper and Talk" data-chapter="" data-kind="intro" data-tags="topos/night_journey,motif/death,motif/the_journey,motif/night,concept/mortality,concept/friendship,form/free_verse,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="350_after_the_supper_and_talk" data-title="After the Supper and Talk" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1239,7 +1239,7 @@ Garrulous to the very last.
 
 
 
-<span class="atom-split" data-atom="351_sail_out_for_good_eidolon_yacht" data-title="Sail out for Good, Eidolon Yacht!" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/the_journey,motif/a_ship,concept/mortality,concept/self_and_soul,concept/immortality,form/free_verse,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="351_sail_out_for_good_eidolon_yacht" data-title="Sail out for Good, Eidolon Yacht!" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -1262,7 +1262,7 @@ Sail out for good, eidolon yacht of me!
 
 
 
-<span class="atom-split" data-atom="359_old_age_s_ship_crafty_death_s" data-title="Old Age’s Ship &amp; Crafty Death’s" data-chapter="" data-kind="intro" data-tags="topos/the_last_stand,motif/the_sea,motif/a_ship,concept/mortality,concept/heroism,form/free_verse,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="359_old_age_s_ship_crafty_death_s" data-title="Old Age’s Ship &amp; Crafty Death’s" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -1285,7 +1285,7 @@ As we take to the open--take to the deepest, freest waters.
 
 
 
-<span class="atom-split" data-atom="373_a_persian_lesson" data-title="A Persian Lesson" data-chapter="" data-kind="intro" data-tags="motif/garden,motif/rose,concept/self_and_cosmos,concept/love_divine,concept/faith,form/dramatic_monologue,histref/eastern_religion,setting/a_garden,setting/the_orient,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="373_a_persian_lesson" data-title="A Persian Lesson" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  

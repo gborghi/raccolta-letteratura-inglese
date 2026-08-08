@@ -64,13 +64,13 @@ tags:
 
 **Topoi:** [[topoi/double|Double]]
 
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/christ-figure|Christ Figure]], [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/trickster|Trickster]]
+**Archetypes:** Detective, Christ Figure, Double Doppelganger, Trickster
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/light-and-dark|Light and Dark]], [[motifs/blood|Blood]], [[motifs/mirror|Mirror]], [[motifs/fire|Fire]], [[motifs/secrets|Secrets]]
 **Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/guilt|Guilt]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/deception|Deception]], [[concepts/conscience|Conscience]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/identity|Identity]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/elizabethan-england|Elizabethan England]], [[settings/ancient-rome|Ancient Rome]]
 **Settings:** [[settings/london|London]], [[settings/italy|Italy]], [[settings/paris|Paris]], [[settings/germany|Germany]], [[settings/america|America]], [[settings/europe|Europe]]
-**Characters:** [[characters/father-brown|Father Brown]], [[characters/flambeau|Flambeau]]
+**Characters:** Father Brown, Flambeau
 
 ## Testo integrale / Full text
 

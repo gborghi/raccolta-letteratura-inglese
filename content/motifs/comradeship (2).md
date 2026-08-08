@@ -14,12 +14,12 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#279_ashes_of_soldiers|Ashes of Soldiers (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#285_camps_of_green|Camps of Green (Whitman)]]
+- [[works/ashes-of-soldiers-(whitman)|Ashes of Soldiers (Whitman)]]
+- [[works/camps-of-green-(whitman)|Camps of Green (Whitman)]]
 - [[works/drum-taps-(whitman)|Drum-Taps (Whitman)]]
 - [[works/leaves-of-grass-(whitman)|Leaves of Grass (Whitman)]]
-- [[testi/whitman/atomized/identity-free-verse-eternal-return#327_small_the_theme_of_my_chant|Small the Theme of My Chant (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#293_so_long|So Long! (Whitman)]]
+- [[works/small-the-theme-of-my-chant-(whitman)|Small the Theme of My Chant (Whitman)]]
+- [[works/so-long!-(whitman)|So Long! (Whitman)]]
 - [[works/the-wound-dresser-a-series-of-letters-written-from-the-hospitals-in-washington-during-the-war-of-the-rebellion|The Wound Dresser A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion]]
 
 </div>

@@ -48,5 +48,5 @@ tags:
 **Motifs:** [[motifs/secrets|Secrets]], [[motifs/blood|Blood]]
 **Historical References:** [[historical-references/first-world-war|First World War]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
-**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]]
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
+**Characters:** Sherlock Holmes, Doctor Watson
+**Archetypes:** Detective, Villain

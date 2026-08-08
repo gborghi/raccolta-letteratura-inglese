@@ -55,7 +55,7 @@ tags:
 
 **Historical References:** [[historical-references/bible|Bible]], [[historical-references/greek-mythology|Greek Mythology]], [[settings/ancient-rome|Ancient Rome]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]
 
-**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Archetypes:** Pilgrim
 
 **Topoi:** [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]], [[topoi/paradise-lost|Paradise Lost]]
 **Motifs:** [[motifs/food-and-feasting|Food and Feasting]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/bread-and-wine-eucharist|Bread and Wine Eucharist]], [[motifs/journey|Journey]]

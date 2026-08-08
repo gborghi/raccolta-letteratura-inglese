@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-IL CONVERTITO  
+IL [[convert|CONVERTITO]]  
 
 Dopo un istante in cui chinai il capo  
 e il mondo intero si rovesciò e tornò diritto,  
@@ -42,7 +42,7 @@ perché il mio nome è Lazzaro e io vivo.
 <span class="atom-split" data-atom="part--part_01" data-title="convert (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/autumn,motif/dust,motif/leaves,motif/road"></span>
 
 
-THE CONVERT  
+THE [[convert|CONVERT]]  
 
 After one moment when I bowed my head  
 And the whole world turned over and came upright,  
@@ -65,7 +65,7 @@ Because my name is Lazarus and I live.
 
 <span class="qlang-split" data-lang="it"></span>
 
-IL CONVERTITO  
+IL [[convert|CONVERTITO]]  
 
 Dopo un istante in cui chinai il capo  
 e il mondo intero si rovesciò e tornò diritto,  

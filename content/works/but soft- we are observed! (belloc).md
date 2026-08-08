@@ -44,6 +44,6 @@ tags:
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/capitalism|Capitalism]], [[concepts/deception|Deception]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/journey|Journey]], [[motifs/ship|Ship]], [[motifs/money-and-gold|Money and Gold]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Settings:** [[settings/new-york|New York]], [[settings/america|America]], [[motifs/ship|Ship]]
-**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/detective|Detective]]
+**Archetypes:** Trickster, Detective
 
 **Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

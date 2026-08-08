@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight" data-author="Keats" data-workhref="works/appearance-vs-reality-·-beauty-·-eyes-and-sight-(keats)"></div>
 
 
-<span class="atom-split" data-atom="005_to" data-title="TO * * * *" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/eyes_sight,concept/love_romantic,concept/beauty,form/romance_medieval,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="005_to" data-title="TO * * * *" data-chapter="" data-kind="intro"></span>
 
 
 Hadst thou liv’d in days of old,  
@@ -75,7 +75,7 @@ Comes thine alabaster steed;
 Servant of heroic deed!  
 O’er his loins, his trappings glow  
 Like the northern lights on [[motifs/snow|snow]].  
-Mount his back! thy sword unsheath!  
+Mount his back! thy [[Sword|sword]] unsheath!  
 Sign of the enchanter’s [[motifs/death|death]];  
 Bane of every wicked spell;  
 Silencer of dragon’s yell.  
@@ -87,7 +87,7 @@ And wilt surely never spill
 
 
 
-<span class="atom-split" data-atom="017_to_g_a_w" data-title="To G. A. W" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/eyes_sight,concept/beauty,concept/love_romantic,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="017_to_g_a_w" data-title="To G. A. W" data-chapter="" data-kind="intro"></span>
 
 
 Nymph of the downward smile, and sidelong glance,  
@@ -108,7 +108,7 @@ I shall as soon pronounce which grace more neatly
 
 
 
-<span class="atom-split" data-atom="051_to_the_ladies_who_saw_me_crownd" data-title="To the Ladies who Saw Me Crown’d" data-chapter="" data-kind="intro" data-tags="motif/crown,motif/rose,motif/moon,motif/seasons,concept/beauty,concept/love_romantic,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="051_to_the_ladies_who_saw_me_crownd" data-title="To the Ladies who Saw Me Crown’d" data-chapter="" data-kind="intro"></span>
 
 
 What is there in the universal Earth  
@@ -129,7 +129,7 @@ Due reverence to your most sovereign eyes.
 
 
 
-<span class="atom-split" data-atom="076_sharing_eves_apple" data-title="Sharing Eve’s Apple" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,topos/fall_from_innocence,concept/lust,concept/temptation,concept/innocence_and_experience,concept/sin_and_the_fall,form/song,histref/the_bible,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="076_sharing_eves_apple" data-title="Sharing Eve’s Apple" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -165,7 +165,7 @@ O cut the sweet apple and share it!
 
 
 
-<span class="atom-split" data-atom="080_sonnet_written_in_answer_to_a_sonnet_ending_thus" data-title="Sonnet Written in Answer to a Sonnet Ending thus:" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/flowers,motif/the_sea,motif/eyes_sight,motif/sun,concept/beauty,concept/imagination,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="080_sonnet_written_in_answer_to_a_sonnet_ending_thus" data-title="Sonnet Written in Answer to a Sonnet Ending thus:" data-chapter="" data-kind="intro"></span>
 
 
 Dark eyes are dearer far  
@@ -191,7 +191,7 @@ When in an Eye thou art, alive with fate!
 
 
 
-<span class="atom-split" data-atom="087_oh_i_am_frightend_with_most_hateful_thoughts" data-title="Oh, I am frighten’d with most hateful thoughts!" data-chapter="" data-kind="intro" data-tags="concept/doubt,concept/appearance_vs_reality,concept/love_romantic,concept/beauty,form/fragment,histref/greek_mythology,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="087_oh_i_am_frightend_with_most_hateful_thoughts" data-title="Oh, I am frighten’d with most hateful thoughts!" data-chapter="" data-kind="intro"></span>
 
 
 Oh, I am frighten’d with most hateful thoughts!  
@@ -208,7 +208,7 @@ And warpt the ivory of a Juno’s neck.
 
 
 
-<span class="atom-split" data-atom="116_sonnet_to_sleep" data-title="Sonnet to Sleep" data-chapter="" data-kind="intro" data-tags="motif/sleep,motif/night,concept/conscience,concept/self_and_soul,concept/guilt,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="116_sonnet_to_sleep" data-title="Sonnet to Sleep" data-chapter="" data-kind="intro"></span>
 
 
 O soft embalmer of the still midnight,  

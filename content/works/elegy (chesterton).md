@@ -42,7 +42,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/corrupt-official|Corrupt Official]]
+**Archetypes:** Common Man (2), Corrupt Official
 
 **Motifs:** [[motifs/grave|Grave]], [[motifs/birds|Birds]], [[motifs/bees|Bees]], [[motifs/cross|Cross]], [[motifs/stars|Stars]]
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/satire-of-society|Satire of Society]], [[concepts/mortality|Mortality]], [[concepts/class-conflict|Class Conflict]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/social-injustice|Social Injustice]], [[concepts/economics|Economics]]

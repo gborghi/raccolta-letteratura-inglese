@@ -32,7 +32,7 @@ tags:
 **Motifs:** [[motifs/death|Death]], [[motifs/birds|Birds]], [[motifs/night|Night]], [[motifs/memory|Memory]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/melancholy|Melancholy]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]]
-**Characters:** [[characters/lenore|Lenore]]
+**Characters:** Lenore
 
 ## Testo integrale / Full text
 

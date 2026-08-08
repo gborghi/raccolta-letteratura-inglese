@@ -61,7 +61,7 @@ tags:
 
 **Historical References:** [[historical-references/dante|Dante]], [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]], [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/robert-louis-stevenson|Robert Louis Stevenson]]
 
-**Archetypes:** [[archetypes/child|Child]]
+**Archetypes:** Child
 
 **Settings:** [[settings/egypt|Egypt]], [[settings/garden-(2)|Garden (2)]], [[motifs/desert|Desert]]
 

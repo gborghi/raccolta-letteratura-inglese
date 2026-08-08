@@ -41,7 +41,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/villain|Villain]]
+**Archetypes:** Villain
 
 **Topoi:** [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]], [[topoi/memento-mori|Memento Mori]]
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/money-and-gold|Money and Gold]], [[motifs/poison|Poison]]

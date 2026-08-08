@@ -306,7 +306,7 @@ And further in the Day.
 
 An Ample [[forms/letter|Letter]] — How you miss —  
 And would delight to see —  
-But then His House — is but a Step —  
+But then His [[house|House]] — is but a Step —  
 And Mine's — in Heaven — You see.
 
 
@@ -535,13 +535,13 @@ Curve by Curve — Sweep by Sweep —
 Round the Steep Air —  
 Danger! What is that to Her?  
 Better 'tis to fail — there —  
-Than debate — here —  
+Than [[debate]] — here —  
 
 Blue is Blue — the World through —  
 Amber — Amber — [[motifs/dew|Dew]] — [[motifs/dew|Dew]] —  
 Seek — Friend — and see —  
 Heaven is shy of Earth — that's all —  
-Bashful Heaven — thy Lovers small —  
+Bashful Heaven — thy [[lovers|Lovers]] small —  
 Hide — too — from thee —
 
 
@@ -665,7 +665,7 @@ His absent character.
 The [[motifs/sun|Sun]] and [[motifs/moon|Moon]] must make their haste —  
 The [[motifs/stars|Stars]] express around  
 For in the Zones of Paradise  
-The Lord alone is burned —  
+The Lord [[Alone|alone]] is burned —  
 
 His Eye, it is the East and West —  
 The North and South when He  
@@ -834,7 +834,7 @@ When a subject is finished —
 Words are handed away —  
 
 Only lest she be lonely  
-In thy beautiful House  
+In thy beautiful [[house|House]]  
 Give her for her Transgression  
 License to think of us —
 
@@ -845,7 +845,7 @@ License to think of us —
 
 
 I cannot see my [[motifs/soul|soul]] but know 'tis there  
-Nor ever saw his house nor furniture,  
+Nor ever saw his [[house]] nor furniture,  
 Who has invited me with him to dwell;  
 But a confiding guest consult as [[motifs/well|well]],  
 What raiment honor him the most,  
@@ -897,7 +897,7 @@ The [[motifs/road|Road]] was lit with [[motifs/moon|Moon]] and star —
 The Trees were bright and still —  
 Descried I — by the distant Light  
 A Traveller on a [[motifs/hill|Hill]] —  
-To magic Perpendiculars  
+To [[Magic|magic]] Perpendiculars  
 Ascending, though Terrene —  
 Unknown his shimmering ultimate —  
 But he indorsed the sheen —

@@ -16,9 +16,9 @@ tags:
 
 A Trivial [[forms/comedy|Comedy]] for Serious People
 This play is generally considered to be Wilde’s masterpiece in drama. First performed on 14 February 1895 at St. James’s Theatre in [[settings/london|London]], it is a farcical [[forms/comedy|comedy]] in which the protagonists maintain fictitious characters in order to escape burdensome obligations. Working within the social conventions of late Victorian [[settings/london|London]], the play’s major themes are the triviality with which it treats institutions as serious as [[motifs/marriage|marriage]], and the resulting [[forms/satire|satire]] of Victorian ways.
-After the success of [[characters/lady-windermere|Lady Windermere]]’s Fan and A Woman of No Importance, Wilde’s producers urged him to write more comedies. In July 1894 he proposed his idea for The Importance of Being Earnest to Sir George Alexander, the actor-manager of St. James’s Theatre, who was keen with the premise. Wilde summered with his family at Worthing, where he wrote the play quickly in August. His fame now at its peak, he used the working title Lady Lancing to avoid any speculation of its content. Wilde hesitated about submitting the script to Alexander, concerned that it might be unsuitable for the St. James’s Theatre, whose typical repertoire was relatively serious, and explaining that it had been written in response to a request for a play “with no real serious interest”.
+After the [[success]] of [[characters/lady-windermere|Lady Windermere]]’s Fan and A Woman of No Importance, Wilde’s producers urged him to write more comedies. In July 1894 he proposed his idea for The Importance of Being Earnest to Sir George Alexander, the actor-manager of St. James’s Theatre, who was keen with the premise. Wilde summered with his family at Worthing, where he wrote the play quickly in August. His fame now at its peak, he used the working title Lady Lancing to avoid any speculation of its content. Wilde hesitated about submitting the script to Alexander, concerned that it might be unsuitable for the St. James’s Theatre, whose typical repertoire was relatively serious, and explaining that it had been written in response to a request for a play “with no real serious interest”.
 When Henry James’ play Guy Domville dismally failed, Alexander turned to Wilde and agreed to put on his play. Alexander began his usual meticulous preparations, interrogating the author on each line and planning stage movements with a toy theatre. In the course of these rehearsals Alexander asked Wilde to shorten the play from four acts to three. Wilde agreed and combined elements of the second and third acts. The largest cut was the removal of the character of Mr. Gribsby, a solicitor who comes from [[settings/london|London]] to arrest the profligate “Ernest” (i.e., Jack) for his unpaid dining bills.
-Contemporary reviews all praised the play’s humour, though some were cautious about its explicit lack of social messages, while others foresaw the modern consensus that it was the culmination of Wilde’s artistic career so far. Its high farce and witty dialogue have helped make The Importance of Being Earnest Wilde’s most enduringly popular play. The successful opening [[motifs/night|night]] marked the climax of Wilde’s career, but also heralded his downfall. The Marquess of Queensberry, father of Lord Alfred Douglas, Wilde’s [[archetypes/lover|lover]], planned to present Wilde a bouquet of spoiling vegetables and disrupt the show. Wilde was tipped off and Queensberry was refused admission. Soon afterwards the feud came to a climax in [[settings/court|court]] and Wilde’s new notoriety caused the play, despite its success, to be closed after just 86 performances. Following his [[concepts/imprisonment|imprisonment]], he published the play from [[settings/paris|Paris]], but chose to write no further comic or dramatic work.
+Contemporary reviews all praised the play’s [[Humour|humour]], though some were cautious about its explicit lack of social messages, while others foresaw the modern consensus that it was the culmination of Wilde’s artistic career so far. Its high farce and witty dialogue have helped make The Importance of Being Earnest Wilde’s most enduringly popular play. The successful opening [[motifs/night|night]] marked the climax of Wilde’s career, but also heralded his downfall. The Marquess of Queensberry, father of Lord Alfred Douglas, Wilde’s [[archetypes/lover|lover]], planned to present Wilde a bouquet of spoiling vegetables and disrupt the show. Wilde was tipped off and Queensberry was refused admission. Soon afterwards the feud came to a climax in [[settings/court|court]] and Wilde’s new notoriety caused the play, despite its [[success]], to be closed after just 86 performances. Following his [[concepts/imprisonment|imprisonment]], he published the play from [[settings/paris|Paris]], but chose to write no further comic or dramatic work.
 
 A scene from the 1895 production with Allan Aynesworth as Algernon (left) and Alexander as Jack
 
@@ -64,7 +64,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Lane | Yes, sir. |
 | Algernon | And, speaking of the science of Life, have you got the cucumber sandwiches cut for [[characters/lady-bracknell\|Lady Bracknell]]? |
 | Lane | Yes, sir. [Hands them on a salver.] |
-| Algernon | [Inspects them, takes two, and sits down on the sofa.] Oh! . . . by the way, Lane, I see from your book that on Thursday [[motifs/night\|night]], when Lord Shoreman and Mr. Worthing were dining with me, eight bottles of champagne are entered as having been consumed. |
+| Algernon | [Inspects them, takes two, and sits down on the sofa.] Oh! . . . by the way, Lane, I see from your book that on [[thursday\|Thursday]] [[motifs/night\|night]], when Lord Shoreman and Mr. Worthing were dining with me, eight bottles of champagne are entered as having been consumed. |
 | Lane | Yes, sir; eight bottles and a pint. |
 | Algernon | Why is it that at a bachelor’s establishment the servants invariably drink the champagne? I ask merely for information. |
 | Lane | I attribute it to the superior quality of the wine, sir. I have often observed that in married households the champagne is rarely of a first-rate brand. |
@@ -81,7 +81,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | *(didascalia)* | [Lane goes out.] |
 | Algernon | How are you, my dear Ernest? What brings you up to town? |
 | Jack | Oh, pleasure, pleasure! What else should bring one anywhere? Eating as usual, I see, Algy! |
-| Algernon | [Stiffly.] I believe it is customary in good society to take some slight refreshment at five o’[[motifs/clock\|clock]]. Where have you been since last Thursday? |
+| Algernon | [Stiffly.] I believe it is customary in good society to take some slight refreshment at five o’[[motifs/clock\|clock]]. Where have you been since last [[thursday\|Thursday]]? |
 | Jack | [Sitting down on the sofa.] In the country. |
 
 
@@ -108,8 +108,8 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Jack | I am in [[motifs/love\|love]] with Gwendolen. I have come up to town expressly to propose to her. |
 | Algernon | I thought you had come up for pleasure? . . . I call that business. |
 | Jack | How utterly unromantic you are! |
-| Algernon | I really don’t see anything romantic in proposing. It is very romantic to be in [[motifs/love\|love]]. But there is nothing romantic about a definite proposal. Why, one may be accepted. One usually is, I believe. Then the excitement is all over. The very essence of romance is uncertainty. If ever I get married, I’ll certainly try to forget the fact. |
-| Jack | I have no [[concepts/doubt\|doubt]] about that, dear Algy. The Divorce [[settings/court\|Court]] was specially invented for people whose memories are so curiously constituted. |
+| Algernon | I really don’t see anything romantic in proposing. It is very romantic to be in [[motifs/love\|love]]. But there is nothing romantic about a definite proposal. Why, one may be accepted. One usually is, I believe. Then the excitement is all over. The very essence of [[Romance\|romance]] is uncertainty. If ever I get married, I’ll certainly try to forget the fact. |
+| Jack | I have no [[concepts/doubt\|doubt]] about that, dear Algy. The [[divorce\|Divorce]] [[settings/court\|Court]] was specially invented for people whose memories are so curiously constituted. |
 | Algernon | Oh! there is no use speculating on that subject. Divorces are made in Heaven — [Jack puts out his hand to take a sandwich. Algernon at once interferes.] Please don’t touch the cucumber sandwiches. They are ordered specially for Aunt Augusta. [Takes one and eats it.] |
 | Jack | [[motifs/well\|Well]], you have been eating them all the [[motifs/time\|time]]. |
 | Algernon | That is quite a different matter. She is my aunt. [Takes plate from below.] Have some bread and butter. The bread and butter is for Gwendolen. Gwendolen is devoted to bread and butter. |
@@ -277,7 +277,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Speaker | Line |
 |---|---|
 | Algernon | I’ll speak to Bunbury, Aunt Augusta, if he is still conscious, and I think I can promise you he’ll be all right by Saturday. Of course the music is a great difficulty. You see, if one plays good music, people don’t listen, and if one plays bad music people don’t talk. But I’ll run over the programme I’ve drawn out, if you will kindly come into the next room for a moment. |
-| [[characters/lady-bracknell\|Lady Bracknell]] | Thank you, Algernon. It is very thoughtful of you. [Rising, and following Algernon.] I’m sure the programme will be delightful, after a few expurgations. French songs I cannot possibly allow. People always seem to think that they are improper, and either look shocked, which is vulgar, or laugh, which is worse. But German sounds a thoroughly respectable language, and indeed, I believe is so. Gwendolen, you will accompany me. |
+| [[characters/lady-bracknell\|Lady Bracknell]] | Thank you, Algernon. It is very thoughtful of you. [Rising, and following Algernon.] I’m sure the programme will be delightful, after a few expurgations. French [[songs]] I cannot possibly allow. People always seem to think that they are improper, and either look shocked, which is vulgar, or laugh, which is worse. But German sounds a thoroughly respectable language, and indeed, I believe is so. Gwendolen, you will accompany me. |
 | Gwendolen | Certainly, mamma. |
 | *(didascalia)* | [[[characters/lady-bracknell\|Lady Bracknell]] and Algernon go into the music-room, Gwendolen remains behind.] |
 | Jack | Charming day it has been, Miss Fairfax. |
@@ -363,9 +363,9 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 
 | Speaker | Line |
 |---|---|
-| Jack | I have a country house with some land, of course, attached to it, about fifteen hundred acres, I believe; but I don’t depend on that for my real income. In fact, as far as I can make out, the poachers are the only people who make anything out of it. |
-| [[characters/lady-bracknell\|Lady Bracknell]] | A country house! How many bedrooms? [[motifs/well\|Well]], that point can be cleared up afterwards. You have a town house, I [[concepts/hope\|hope]]? A girl with a simple, unspoiled [[concepts/nature\|nature]], like Gwendolen, could hardly be expected to reside in the country. |
-| Jack | [[motifs/well\|Well]], I own a house in Belgrave Square, but it is let by the year to Lady Bloxham. Of course, I can get it back whenever I like, at six months’ notice. |
+| Jack | I have a country [[house]] with some land, of course, attached to it, about fifteen hundred acres, I believe; but I don’t depend on that for my real income. In fact, as far as I can make out, the poachers are the only people who make anything out of it. |
+| [[characters/lady-bracknell\|Lady Bracknell]] | A country [[house]]! How many bedrooms? [[motifs/well\|Well]], that point can be cleared up afterwards. You have a town [[house]], I [[concepts/hope\|hope]]? A girl with a simple, unspoiled [[concepts/nature\|nature]], like Gwendolen, could hardly be expected to reside in the country. |
+| Jack | [[motifs/well\|Well]], I own a [[house]] in Belgrave Square, but it is let by the year to Lady Bloxham. Of course, I can get it back whenever I like, at six months’ notice. |
 | [[characters/lady-bracknell\|Lady Bracknell]] | Lady Bloxham? I don’t know her. |
 | Jack | Oh, she goes about very little. She is a lady considerably advanced in years. |
 | [[characters/lady-bracknell\|Lady Bracknell]] | Ah, nowadays that is no guarantee of respectability of character. What number in Belgrave Square? |
@@ -479,7 +479,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Gwendolen | Ernest, we may never be married. From the expression on mamma’s face I [[concepts/fear\|fear]] we never shall. Few parents nowadays pay any regard to what their children say to them. The old-fashioned respect for the young is fast dying out. Whatever influence I ever had over mamma, I lost at the age of three. But although she may prevent us from becoming man and wife, and I may marry some one else, and marry often, nothing that she can possibly do can alter my eternal devotion to you. |
 | Jack | Dear Gwendolen! |
 | Gwendolen | The story of your romantic origin, as related to me by mamma, with unpleasing comments, has naturally stirred the deeper fibres of my [[concepts/nature\|nature]]. Your Christian name has an irresistible fascination. The simplicity of your character makes you exquisitely incomprehensible to me. Your town address at the Albany I have. What is your address in the country? |
-| Jack | The Manor House, Woolton, Hertfordshire. |
+| Jack | The Manor [[house\|House]], Woolton, Hertfordshire. |
 
 
 
@@ -530,7 +530,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | SCENE<br>[[motifs/garden\|Garden]] at the Manor House. A flight of grey stone steps leads up to the house. The [[motifs/garden\|garden]], an old-fashioned one, full of roses. [[motifs/time\|Time]] of year, July. Basket chairs, and a table covered with books, are set under a large yew-tree. |
+| *(didascalia)* | SCENE<br>[[motifs/garden\|Garden]] at the Manor [[house\|House]]. A flight of grey stone steps leads up to the [[house]]. The [[motifs/garden\|garden]], an old-fashioned one, full of roses. [[motifs/time\|Time]] of year, July. Basket chairs, and a table covered with books, are set under a large yew-tree. |
 | *(didascalia)* | [[[characters/miss-prism\|Miss Prism]] discovered seated at the table. Cecily is at the back watering [[motifs/flowers\|flowers]].] |
 | [[characters/miss-prism\|Miss Prism]] | [Calling.] Cecily, Cecily! Surely such a utilitarian occupation as the watering of [[motifs/flowers\|flowers]] is rather Moulton’s duty than yours? Especially at a moment when intellectual pleasures await you. Your German grammar is on the table. Pray open it at page fifteen. We will repeat yesterday’s lesson. |
 | Cecily | [Coming over very slowly.] But I don’t like German. It isn’t at all a becoming language. I know perfectly [[motifs/well\|well]] that I look quite plain after my German lesson. |
@@ -643,8 +643,8 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Cecily | [[characters/miss-prism\|Miss Prism]] says that all good looks are a snare. |
 | Algernon | They are a snare that every sensible man would like to be caught in. |
 | Cecily | Oh, I don’t think I would care to catch a sensible man. I shouldn’t know what to talk to him about. |
-| *(didascalia)* | [They pass into the house. [[characters/miss-prism\|Miss Prism]] and Dr. Chasuble return.] |
-| [[characters/miss-prism\|Miss Prism]] | You are too much alone, dear Dr. Chasuble. You should get married. A misanthrope I can understand — a womanthrope, never! |
+| *(didascalia)* | [They pass into the [[house]]. [[characters/miss-prism\|Miss Prism]] and Dr. Chasuble return.] |
+| [[characters/miss-prism\|Miss Prism]] | You are too much [[Alone\|alone]], dear Dr. Chasuble. You should get married. A misanthrope I can understand — a womanthrope, never! |
 | Chasuble | [With a scholar’s shudder.] Believe me, I do not deserve so neologistic a phrase. The precept as [[motifs/well\|well]] as the practice of the Primitive Church was distinctly against matrimony. |
 
 
@@ -709,9 +709,9 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Jack | Oh, I might trot round about five if that would suit you. |
 | Chasuble | Perfectly, perfectly! In fact I have two similar ceremonies to perform at that [[motifs/time\|time]]. A case of twins that occurred recently in one of the outlying cottages on your own estate. Poor Jenkins the carter, a most hard-working man. |
 | Jack | Oh! I don’t see much fun in being christened along with other babies. It would be childish. Would half-past five do? |
-| Chasuble | Admirably! Admirably! [Takes out watch.] And now, dear Mr. Worthing, I will not intrude any longer into a house of sorrow. I would merely beg you not to be too much bowed down by grief. What seem to us bitter trials are often blessings in disguise. |
+| Chasuble | Admirably! Admirably! [Takes out watch.] And now, dear Mr. Worthing, I will not intrude any longer into a [[house]] of sorrow. I would merely beg you not to be too much bowed down by grief. What seem to us bitter trials are often blessings in disguise. |
 | [[characters/miss-prism\|Miss Prism]] | This seems to me a blessing of an extremely obvious kind. |
-| *(didascalia)* | [Enter Cecily from the house.] |
+| *(didascalia)* | [Enter Cecily from the [[house]].] |
 | Cecily | Uncle Jack! Oh, I am pleased to see you back. But what horrid clothes you have got on! Do go and change them. |
 | [[characters/miss-prism\|Miss Prism]] | Cecily! |
 | Chasuble | My [[archetypes/child\|child]]! my [[archetypes/child\|child]]! [Cecily goes towards Jack; he kisses her brow in a [[concepts/melancholy\|melancholy]] manner.] |
@@ -728,7 +728,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Jack | Who? |
 | Cecily | Your brother Ernest. He arrived about half an hour ago. |
 | Jack | What nonsense! I haven’t got a brother. |
-| Cecily | Oh, don’t say that. However badly he may have behaved to you in the past he is still your brother. You couldn’t be so heartless as to disown him. I’ll tell him to come out. And you will shake hands with him, won’t you, Uncle Jack? [Runs back into the house.] |
+| Cecily | Oh, don’t say that. However badly he may have behaved to you in the past he is still your brother. You couldn’t be so heartless as to disown him. I’ll tell him to come out. And you will shake hands with him, won’t you, Uncle Jack? [Runs back into the [[house]].] |
 | Chasuble | These are very joyful tidings. |
 | [[characters/miss-prism\|Miss Prism]] | After we had all been resigned to his loss, his sudden return seems to me peculiarly distressing. |
 | Jack | My brother is in the dining-room? I don’t know what it all means. I think it is perfectly absurd. |
@@ -770,7 +770,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Merriman | Yes, sir. Three portmanteaus, a dressing-case, two hat-boxes, and a large luncheon-basket. |
 | Algernon | I am afraid I can’t stay more than a week this [[motifs/time\|time]]. |
 | Jack | Merriman, order the dog-cart at once. Mr. Ernest has been suddenly called back to town. |
-| Merriman | Yes, sir. [Goes back into the house.] |
+| Merriman | Yes, sir. [Goes back into the [[house]].] |
 | Algernon | What a fearful liar you are, Jack. I have not been called back to town at all. |
 | Jack | Yes, you have. |
 | Algernon | I haven’t heard any one call me. |
@@ -779,16 +779,16 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Jack | I can quite understand that. |
 | Algernon | [[motifs/well\|Well]], Cecily is a darling. |
 | Jack | You are not to talk of Miss Cardew like that. I don’t like it. |
-| Algernon | [[motifs/well\|Well]], I don’t like your clothes. You look perfectly ridiculous in them. Why on earth don’t you go up and change? It is perfectly childish to be in deep mourning for a man who is actually staying for a whole week with you in your house as a guest. I call it [[concepts/grotesque\|grotesque]]. |
+| Algernon | [[motifs/well\|Well]], I don’t like your clothes. You look perfectly ridiculous in them. Why on earth don’t you go up and change? It is perfectly childish to be in deep mourning for a man who is actually staying for a whole week with you in your [[house]] as a guest. I call it [[concepts/grotesque\|grotesque]]. |
 | Jack | You are certainly not staying with me for a whole week as a guest or anything else. You have got to leave . . . by the four-five train. |
 | Algernon | I certainly won’t leave you so long as you are in mourning. It would be most unfriendly. If I were in mourning you would stay with me, I suppose. I should think it very unkind if you didn’t. |
 | Jack | [[motifs/well\|Well]], will you go if I change my clothes? |
 | Algernon | Yes, if you are not too long. I never saw anybody take so long to dress, and with such little result. |
 | Jack | [[motifs/well\|Well]], at any rate, that is better than being always over-dressed as you are. |
 | Algernon | If I am occasionally a little over-dressed, I make up for it by being always immensely over-educated. |
-| Jack | Your [[concepts/vanity\|vanity]] is ridiculous, your conduct an outrage, and your presence in my [[motifs/garden\|garden]] utterly absurd. However, you have got to catch the four-five, and I [[concepts/hope\|hope]] you will have a pleasant [[motifs/journey\|journey]] back to town. This Bunburying, as you call it, has not been a great success for you. |
-| *(didascalia)* | [Goes into the house.] |
-| Algernon | I think it has been a great success. I’m in [[motifs/love\|love]] with Cecily, and that is everything.<br>[Enter Cecily at the back of the [[motifs/garden\|garden]]. She picks up the can and begins to [[motifs/water\|water]] the [[motifs/flowers\|flowers]].] But I must see her before I go, and make arrangements for another Bunbury. Ah, there she is. |
+| Jack | Your [[concepts/vanity\|vanity]] is ridiculous, your conduct an outrage, and your presence in my [[motifs/garden\|garden]] utterly absurd. However, you have got to catch the four-five, and I [[concepts/hope\|hope]] you will have a pleasant [[motifs/journey\|journey]] back to town. This Bunburying, as you call it, has not been a great [[success]] for you. |
+| *(didascalia)* | [Goes into the [[house]].] |
+| Algernon | I think it has been a great [[success]]. I’m in [[motifs/love\|love]] with Cecily, and that is everything.<br>[Enter Cecily at the back of the [[motifs/garden\|garden]]. She picks up the can and begins to [[motifs/water\|water]] the [[motifs/flowers\|flowers]].] But I must see her before I go, and make arrangements for another Bunbury. Ah, there she is. |
 
 
 
@@ -837,7 +837,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 |---|---|
 | Cecily | You silly boy! Of course. Why, we have been engaged for the last three months. |
 | Algernon | For the last three months? |
-| Cecily | Yes, it will be exactly three months on Thursday. |
+| Cecily | Yes, it will be exactly three months on [[thursday\|Thursday]]. |
 | Algernon | But how did we become engaged? |
 | Cecily | [[motifs/well\|Well]], ever since dear Uncle Jack first confessed to us that he had a younger brother who was very wicked and bad, you of course have formed the chief topic of conversation between myself and [[characters/miss-prism\|Miss Prism]]. And of course a man who is much talked about is always very attractive. One feels there must be something in him, after all. I daresay it was foolish of me, but I fell in [[motifs/love\|love]] with you, Ernest. |
 | Algernon | Darling! And when was the engagement actually settled? |
@@ -1044,9 +1044,9 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Jack | [Pleasantly.] Never. Not even of an kind. |
 | Gwendolen | I am afraid it is quite clear, Cecily, that neither of us is engaged to be married to any one. |
 | Cecily | It is not a very pleasant position for a young girl suddenly to find herself in. Is it? |
-| Gwendolen | Let us go into the house. They will hardly venture to come after us there. |
+| Gwendolen | Let us go into the [[house]]. They will hardly venture to come after us there. |
 | Cecily | No, men are so cowardly, aren’t they? |
-| *(didascalia)* | [They retire into the house with scornful looks.] |
+| *(didascalia)* | [They retire into the [[house]] with scornful looks.] |
 | Jack | This ghastly state of things is what you call Bunburying, I suppose? |
 | Algernon | Yes, and a perfectly wonderful Bunbury it is. The most wonderful Bunbury I have ever had in my life. |
 | Jack | [[motifs/well\|Well]], you’ve no right whatsoever to Bunbury here. |
@@ -1114,9 +1114,9 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | SCENE<br>Morning-room at the Manor House. |
+| *(didascalia)* | SCENE<br>Morning-room at the Manor [[house\|House]]. |
 | *(didascalia)* | [Gwendolen and Cecily are at the [[motifs/window\|window]], looking out into the [[motifs/garden\|garden]].] |
-| Gwendolen | The fact that they did not follow us at once into the house, as any one else would have done, seems to me to show that they have some sense of shame left. |
+| Gwendolen | The fact that they did not follow us at once into the [[house]], as any one else would have done, seems to me to show that they have some sense of shame left. |
 | Cecily | They have been eating muffins. That looks like repentance. |
 | Gwendolen | [After a pause.] They don’t seem to notice us at all. Couldn’t you cough? |
 | Cecily | But I haven’t got a cough. |
@@ -1137,7 +1137,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Gwendolen | True. In matters of [[motifs/grave\|grave]] importance, style, not sincerity is the vital thing. Mr. Worthing, what explanation can you offer to me for pretending to have a brother? Was it in order that you might have an opportunity of coming up to town to see me as often as possible? |
 | Jack | Can you [[concepts/doubt\|doubt]] it, Miss Fairfax? |
 | Gwendolen | I have the gravest doubts upon the subject. But I intend to crush them. This is not the moment for German scepticism. [Moving to Cecily.] Their explanations appear to be quite satisfactory, especially Mr. Worthing’s. That seems to me to have the stamp of [[concepts/truth\|truth]] upon it. |
-| Cecily | I am more than content with what Mr. Moncrieff said. His voice alone inspires one with absolute credulity. |
+| Cecily | I am more than content with what Mr. Moncrieff said. His voice [[Alone\|alone]] inspires one with absolute credulity. |
 | Gwendolen | Then you think we should forgive them? |
 | Cecily | Yes. I mean no. |
 | Gwendolen | True! I had forgotten. There are principles at stake that one cannot surrender. Which of us should tell them? The task is not a pleasant one. |
@@ -1172,7 +1172,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Jack | I am engaged to be married to Gwendolen [[characters/lady-bracknell\|Lady Bracknell]]! |
 | [[characters/lady-bracknell\|Lady Bracknell]] | You are nothing of the kind, sir. And now, as regards Algernon! . . . Algernon! |
 | Algernon | Yes, Aunt Augusta. |
-| [[characters/lady-bracknell\|Lady Bracknell]] | May I ask if it is in this house that your invalid friend Mr. Bunbury resides? |
+| [[characters/lady-bracknell\|Lady Bracknell]] | May I ask if it is in this [[house]] that your invalid friend Mr. Bunbury resides? |
 | Algernon | [Stammering.] Oh! No! Bunbury doesn’t live here. Bunbury is somewhere else at present. In fact, Bunbury is dead. |
 | [[characters/lady-bracknell\|Lady Bracknell]] | Dead! When did Mr. Bunbury die? His [[motifs/death\|death]] must have been extremely sudden. |
 | Algernon | [Airily.] Oh! I killed Bunbury this afternoon. I mean poor Bunbury died this afternoon. |
@@ -1251,7 +1251,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 
 | Speaker | Line |
 |---|---|
-| Jack | I [[concepts/fear\|fear]] there can be no possible [[concepts/doubt\|doubt]] about the matter. This afternoon during my temporary absence in [[settings/london\|London]] on an important question of romance, he obtained admission to my house by means of the false pretence of being my brother. Under an assumed name he drank, I’ve just been informed by my butler, an entire pint bottle of my Perrier-Jouet, Brut, ‘89; wine I was specially reserving for myself. Continuing his disgraceful [[concepts/deception\|deception]], he succeeded in the course of the afternoon in alienating the affections of my only ward. He subsequently stayed to tea, and devoured every single muffin. And what makes his conduct all the more heartless is, that he was perfectly [[motifs/well\|well]] aware from the first that I have no brother, that I never had a brother, and that I don’t intend to have a brother, not even of any kind. I distinctly told him so myself yesterday afternoon. |
+| Jack | I [[concepts/fear\|fear]] there can be no possible [[concepts/doubt\|doubt]] about the matter. This afternoon during my temporary absence in [[settings/london\|London]] on an important question of [[Romance\|romance]], he obtained admission to my [[house]] by means of the false pretence of being my brother. Under an assumed name he drank, I’ve just been informed by my butler, an entire pint bottle of my Perrier-Jouet, Brut, ‘89; wine I was specially reserving for myself. Continuing his disgraceful [[concepts/deception\|deception]], he succeeded in the course of the afternoon in alienating the affections of my only ward. He subsequently stayed to tea, and devoured every single muffin. And what makes his conduct all the more heartless is, that he was perfectly [[motifs/well\|well]] aware from the first that I have no brother, that I never had a brother, and that I don’t intend to have a brother, not even of any kind. I distinctly told him so myself yesterday afternoon. |
 
 
 
@@ -1315,7 +1315,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | [In a severe, judicial voice.] Prism! [[[characters/miss-prism\|Miss Prism]] bows her head in shame.] Come here, Prism! [[[characters/miss-prism\|Miss Prism]] approaches in a humble manner.] Prism! Where is that baby? [General consternation. The Canon starts back in horror. Algernon and Jack pretend to be anxious to shield Cecily and Gwendolen from hearing the details of a terrible public scandal.] Twenty-eight years ago, Prism, you left Lord Bracknell’s house, Number 104, Upper Grosvenor Street, in charge of a perambulator that contained a baby of the male sex. You never returned. A few weeks later, through the elaborate investigations of the Metropolitan police, the perambulator was discovered at midnight, standing by itself in a remote corner of Bayswater. It contained the manuscript of a three-volume [[forms/novel\|novel]] of more than usually revolting sentimentality. [[[characters/miss-prism\|Miss Prism]] starts in involuntary indignation.] But the baby was not there! [Every one looks at [[characters/miss-prism\|Miss Prism]].] Prism! Where is that baby? [A pause.] |
+| *(didascalia)* | [In a severe, judicial voice.] Prism! [[[characters/miss-prism\|Miss Prism]] bows her head in shame.] Come here, Prism! [[[characters/miss-prism\|Miss Prism]] approaches in a humble manner.] Prism! Where is that baby? [General consternation. The Canon starts back in horror. Algernon and Jack pretend to be anxious to shield Cecily and Gwendolen from hearing the details of a terrible public scandal.] Twenty-eight years ago, Prism, you left Lord Bracknell’s [[house]], Number 104, Upper Grosvenor Street, in charge of a perambulator that contained a baby of the male sex. You never returned. A few weeks later, through the elaborate investigations of the Metropolitan police, the perambulator was discovered at midnight, standing by itself in a remote corner of Bayswater. It contained the manuscript of a three-volume [[forms/novel\|novel]] of more than usually revolting sentimentality. [[[characters/miss-prism\|Miss Prism]] starts in involuntary indignation.] But the baby was not there! [Every one looks at [[characters/miss-prism\|Miss Prism]].] Prism! Where is that baby? [A pause.] |
 
 
 

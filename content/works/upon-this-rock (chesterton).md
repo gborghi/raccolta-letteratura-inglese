@@ -58,7 +58,7 @@ tags:
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/democracy|Democracy]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/self-denial-and-renunciation|Self-Denial and Renunciation]], [[concepts/forgiveness|Forgiveness]], [[concepts/development-of-doctrine|Development of Doctrine]], [[concepts/heresy-and-schism|Heresy and Schism]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/reformation|Reformation]], [[historical-references/puritanism|Puritanism]]
-**Characters:** [[characters/virgin-mary|Virgin Mary]], [[characters/christ|Christ]], [[characters/st.-peter|St. Peter]]
+**Characters:** Virgin Mary, Christ, St. Peter
 
 ## Testo integrale / Full text
 

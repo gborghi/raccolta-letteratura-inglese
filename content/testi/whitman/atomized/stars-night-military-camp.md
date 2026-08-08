@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/stars-night-military-camp" data-author="Whitman" data-workhref="works/stars-·-night-·-military-camp-(whitman)"></div>
 
 
-<span class="atom-split" data-atom="107_on_the_beach_at_night" data-title="On the Beach at Night" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,motif/childhood,motif/the_sea,concept/immortality,concept/mortality,form/free_verse,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="107_on_the_beach_at_night" data-title="On the Beach at Night" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SEA-DRIFT_  
@@ -48,7 +48,7 @@ The vast immortal suns and the long-enduring pensive moons shall
 again shine.  
 
 Then dearest [[archetypes/child|child]] mournest thou only for jupiter?  
-Considerest thou alone the burial of the [[motifs/stars|stars]]?  
+Considerest thou [[Alone|alone]] the burial of the [[motifs/stars|stars]]?  
 
 Something there is,  
 (With my lips soothing thee, adding I whisper,  
@@ -66,14 +66,14 @@ Or the radiant sisters the Pleiades.
 
 
 
-<span class="atom-split" data-atom="109_on_the_beach_at_night_alone" data-title="On the Beach at Night Alone" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/stars,motif/night,concept/self_and_soul,concept/the_sublime,concept/immortality,form/free_verse,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="109_on_the_beach_at_night_alone" data-title="On the Beach at Night Alone" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SEA-DRIFT_  
 
 
-On the beach at [[motifs/night|night]] alone,  
-As the old mother sways her to and fro singing her husky song,  
+On the beach at [[motifs/night|night]] [[Alone|alone]],  
+As the old mother sways her to and fro singing her husky [[Song|song]],  
 As I watch the bright [[motifs/stars|stars]] shining, I think a thought of the clef  
 of the universes and of the future.  
 
@@ -97,7 +97,7 @@ And shall forever span them and compactly hold and enclose them.
 
 
 
-<span class="atom-split" data-atom="119_when_i_heard_the_learn_d_astronomer" data-title="When I Heard the Learn’d Astronomer" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,motif/silence,concept/wonder_and_gratitude,concept/nature_vs_civilization,form/free_verse,form/lyric,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="119_when_i_heard_the_learn_d_astronomer" data-title="When I Heard the Learn’d Astronomer" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -120,7 +120,7 @@ Look’d up in perfect [[motifs/silence|silence]] at the [[motifs/stars|stars]].
 
 
 
-<span class="atom-split" data-atom="152_bivouac_on_a_mountain_side" data-title="Bivouac on a Mountain Side" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,motif/fire,motif/nature,concept/war_and_its_cost,setting/the_military_camp,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="152_bivouac_on_a_mountain_side" data-title="Bivouac on a Mountain Side" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -143,7 +143,7 @@ breaking out, the eternal [[motifs/stars|stars]].
 
 
 
-<span class="atom-split" data-atom="154_by_the_bivouac_s_fitful_flame" data-title="By the Bivouac’s Fitful Flame" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/night,motif/silence,motif/memory,concept/mortality,setting/the_military_camp,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="154_by_the_bivouac_s_fitful_flame" data-title="By the Bivouac’s Fitful Flame" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -170,7 +170,7 @@ By the bivouac’s fitful flame.
 
 
 
-<span class="atom-split" data-atom="156_vigil_strange_i_kept_on_the_field_one_night" data-title="Vigil Strange I Kept on the Field One Night" data-chapter="" data-kind="intro" data-tags="motif/death,motif/night,motif/the_grave,motif/dawn,concept/comradeship,concept/grief_and_loss,concept/immortality,form/elegy,setting/the_battlefield,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="156_vigil_strange_i_kept_on_the_field_one_night" data-title="Vigil Strange I Kept on the Field One Night" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -220,7 +220,7 @@ And buried him where he fell.
 
 
 
-<span class="atom-split" data-atom="174_look_down_fair_moon" data-title="Look Down Fair Moon" data-chapter="" data-kind="intro" data-tags="motif/moon,motif/death,motif/night,concept/grief_and_loss,concept/war_and_its_cost,setting/the_battlefield,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="174_look_down_fair_moon" data-title="Look Down Fair Moon" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -238,7 +238,7 @@ Pour down your unstinted nimbus sacred [[motifs/moon|moon]].
 
 
 
-<span class="atom-split" data-atom="175_reconciliation" data-title="Reconciliation" data-chapter="" data-kind="intro" data-tags="motif/death,motif/night,concept/reconciliation,concept/grief_and_loss,concept/mercy,concept/war_and_its_cost,concept/love_divine,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="175_reconciliation" data-title="Reconciliation" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -260,7 +260,7 @@ Bend down and touch lightly with my lips the white face in the coffin.
 
 
 
-<span class="atom-split" data-atom="220_the_torch" data-title="The Torch" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/night,motif/water,motif/light_and_dark,form/fragment,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="220_the_torch" data-title="The Torch" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_  
@@ -279,7 +279,7 @@ Bearing a torch ablaze at the prow.
 
 
 
-<span class="atom-split" data-atom="232_the_sleepers" data-title="The Sleepers" data-chapter="" data-kind="intro" data-tags="topos/night_journey,archetype/great_mother,motif/sleep,motif/dreams,motif/night,motif/death,motif/the_sea,concept/self_and_soul,concept/mortality,concept/identity,form/free_verse,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="232_the_sleepers" data-title="The Sleepers" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -489,7 +489,7 @@ Elements merge in the [[motifs/night|night]], ships make tacks in the [[motifs/d
 The sailor sails, the [[concepts/exile|exile]] returns [[motifs/home|home]],  
 The fugitive returns unharm’d, the immigrant is back beyond months  
 and years,  
-The poor Irishman lives in the simple house of his [[motifs/childhood|childhood]] with  
+The poor Irishman lives in the simple [[house]] of his [[motifs/childhood|childhood]] with  
 the [[motifs/well|well]] known neighbors and faces,  
 They warmly welcome him, he is barefoot again, he forgets he is [[motifs/well|well]] off,  
 The Dutchman voyages [[motifs/home|home]], and the Scotchman and Welshman voyage  
@@ -596,7 +596,7 @@ I will duly pass the day O my mother, and duly return to you.
 
 
 
-<span class="atom-split" data-atom="236_whispers_of_heavenly_death" data-title="Whispers of Heavenly Death" data-chapter="" data-kind="intro" data-tags="motif/death,motif/night,motif/stars,motif/river,concept/immortality,concept/self_and_soul,form/lyric,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="236_whispers_of_heavenly_death" data-title="Whispers of Heavenly Death" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_  
@@ -624,7 +624,7 @@ Some [[motifs/soul|soul]] is passing over.)
 
 
 
-<span class="atom-split" data-atom="248_night_on_the_prairies" data-title="Night on the Prairies" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,motif/death,concept/immortality,concept/the_sublime,concept/self_and_soul,setting/the_american_frontier,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="248_night_on_the_prairies" data-title="Night on the Prairies" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_
@@ -664,7 +664,7 @@ I see that I am to wait for what will be exhibited by [[motifs/death|death]].
 
 
 
-<span class="atom-split" data-atom="255_thou_orb_aloft_full_dazzling" data-title="Thou Orb Aloft Full-Dazzling" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/nature,motif/seasons,concept/wonder_and_gratitude,form/ode,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="255_thou_orb_aloft_full_dazzling" data-title="Thou Orb Aloft Full-Dazzling" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_  
@@ -678,7 +678,7 @@ O sun of [[motifs/noon|noon]] refulgent! my special word to thee.
 
 Hear me illustrious!  
 Thy [[archetypes/lover|lover]] me, for always I have loved thee,  
-Even as basking babe, then happy boy alone by some wood edge, thy  
+Even as basking babe, then happy boy [[Alone|alone]] by some wood edge, thy  
 touching-distant beams enough,  
 Or man matured, or young or old, as now to thee I launch my invocation.  
 
@@ -712,7 +712,7 @@ Prepare my starry nights.
 
 
 
-<span class="atom-split" data-atom="276_a_clear_midnight" data-title="A Clear Midnight" data-chapter="" data-kind="intro" data-tags="motif/night,motif/death,motif/stars,motif/sleep,concept/self_and_soul,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="276_a_clear_midnight" data-title="A Clear Midnight" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_
@@ -731,7 +731,7 @@ lovest best,
 
 
 
-<span class="atom-split" data-atom="309_after_the_dazzle_of_day" data-title="After the Dazzle of Day" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,motif/light_and_dark,motif/silence,motif/music_and_song,concept/self_and_soul,form/lyric,form/fragment,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="309_after_the_dazzle_of_day" data-title="After the Dazzle of Day" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -749,7 +749,7 @@ Silent, athwart my [[motifs/soul|soul]], moves the symphony true.
 
 
 
-<span class="atom-split" data-atom="338_a_prairie_sunset" data-title="A Prairie Sunset" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/nature,motif/light_and_dark,concept/beauty,concept/the_sublime,form/lyric,setting/the_american_west,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="338_a_prairie_sunset" data-title="A Prairie Sunset" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -759,7 +759,7 @@ Shot gold, maroon and violet, dazzling silver, emerald, fawn,
 The earth’s whole amplitude and [[concepts/nature|Nature]]’s multiform power consign’d  
 for once to colors;  
 The light, the general air possess’d by them--colors till now unknown,  
-No limit, confine--not the Western sky alone--the high meridian--  
+No limit, confine--not the Western sky [[Alone|alone]]--the high meridian--  
 North, South, all,  
 Pure luminous color fighting the silent shadows to the last.  
 
@@ -806,7 +806,7 @@ Three hours of peace and soothing rest of brain.
 
 
 
-<span class="atom-split" data-atom="349_old_age_s_lambent_peaks" data-title="Old Age’s Lambent Peaks" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/light_and_dark,motif/fire,concept/mortality,concept/wonder_and_gratitude,form/free_verse,form/lyric,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="349_old_age_s_lambent_peaks" data-title="Old Age’s Lambent Peaks" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -819,7 +819,7 @@ Objects and groups, bearings, faces, reminiscences;
 The calmer sight--the golden setting, clear and broad:  
 So much i’ the atmosphere, the points of view, the situations whence  
 we scan,  
-Bro’t out by them alone--so much (perhaps the best) unreck’d before;  
+Bro’t out by them [[Alone|alone]]--so much (perhaps the best) unreck’d before;  
 The lights indeed from them--old age’s lambent peaks.  
 
 
@@ -829,7 +829,7 @@ The lights indeed from them--old age’s lambent peaks.
 
 
 
-<span class="atom-split" data-atom="355_my_71st_year" data-title="MY 71st Year" data-chapter="" data-kind="intro" data-tags="motif/night,concept/mortality,concept/memory_and_time,concept/grief_and_loss,concept/faith,form/free_verse,histref/american_civil_war,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="355_my_71st_year" data-title="MY 71st Year" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  

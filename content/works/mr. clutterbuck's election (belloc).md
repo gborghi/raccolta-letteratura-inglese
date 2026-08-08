@@ -48,6 +48,6 @@ tags:
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/city|City]], [[motifs/wine-and-drink|Wine and Drink]]
 **Historical References:** [[historical-references/boer-war-(second-south-african-war)|Boer War (Second South African War)]], [[historical-references/marconi-scandal|Marconi Scandal]], [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
-**Characters:** [[characters/g.-k.-chesterton|G. K. Chesterton]]
-**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/corrupt-official|Corrupt Official]]
+**Characters:** G. K. Chesterton
+**Archetypes:** Self-Made Man, Corrupt Official
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]

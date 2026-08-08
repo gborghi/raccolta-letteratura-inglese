@@ -47,11 +47,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/satanic-figure|Satanic Figure]]
+**Archetypes:** Common Man (2), Satanic Figure
 
 **Motifs:** [[motifs/light-and-dark|Light and Dark]]
 
-**Characters:** [[characters/the-extraordinary-cabman|The Extraordinary Cabman]], [[historical-references/h.g.-wells|H.G. Wells]]
+**Characters:** The Extraordinary Cabman, [[historical-references/h.g.-wells|H.G. Wells]]
 
 **Themes & Concepts:** [[concepts/doubt|Doubt]], [[concepts/truth|Truth]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/common-man|Common Man]], [[concepts/temptation|Temptation]], [[concepts/democracy|Democracy]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/paradox|Paradox]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/parable|Parable]], [[forms/nonfiction|Nonfiction]]

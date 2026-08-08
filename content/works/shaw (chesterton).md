@@ -77,7 +77,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/orphan|Orphan]], [[archetypes/prophet|Prophet]], [[archetypes/rebel|Rebel]]
+**Archetypes:** Orphan, Prophet, Rebel
 
 **Settings:** [[settings/london|London]], [[settings/ancient-rome|Ancient Rome]], [[settings/egypt|Egypt]], [[settings/germany|Germany]], [[settings/ireland|Ireland]], [[settings/europe|Europe]]
 
@@ -85,7 +85,7 @@ tags:
 
 **Topoi:** [[topoi/all-the-world's-a-stage|All the World's a Stage]], [[topoi/world-upside-down|World Upside Down]], [[topoi/vanitas|Vanitas]], [[topoi/poet-as-prophet|Poet as Prophet]]
 
-**Characters:** [[characters/julius-caesar|Julius Caesar]], [[characters/cleopatra|Cleopatra]], [[characters/hamlet|Hamlet]], [[historical-references/george-bernard-shaw|George Bernard Shaw]], [[characters/william-shakespeare|William Shakespeare]], [[historical-references/henrik-ibsen|Henrik Ibsen]], [[historical-references/friedrich-nietzsche|Friedrich Nietzsche]], [[historical-references/oscar-wilde|Oscar Wilde]], [[historical-references/jonathan-swift|Jonathan Swift]], [[characters/napoleon-bonaparte|Napoleon Bonaparte]], [[characters/charles-stewart-parnell|Charles Stewart Parnell]], [[characters/candida|Candida]], [[characters/mrs.-warren|Mrs. Warren]]
+**Characters:** Julius Caesar, Cleopatra, Hamlet, [[historical-references/george-bernard-shaw|George Bernard Shaw]], William Shakespeare, [[historical-references/henrik-ibsen|Henrik Ibsen]], [[historical-references/friedrich-nietzsche|Friedrich Nietzsche]], [[historical-references/oscar-wilde|Oscar Wilde]], [[historical-references/jonathan-swift|Jonathan Swift]], Napoleon Bonaparte, Charles Stewart Parnell, Candida, Mrs. Warren
 
 **Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/paradox|Paradox]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/doubt|Doubt]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/democracy|Democracy]], [[concepts/poverty|Poverty]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/resurrection|Resurrection]], [[concepts/fanaticism|Fanaticism]], [[concepts/vanity|Vanity]], [[concepts/creative-evolution-and-the-superman|Creative Evolution and the Superman]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/biography|Biography]], [[forms/literary-criticism|Literary Criticism]], [[forms/verse-drama|Verse Drama]], [[forms/epigram|Epigram]], [[forms/satire|Satire]], [[forms/problem-play|Problem Play]], [[forms/nonfiction|Nonfiction]]

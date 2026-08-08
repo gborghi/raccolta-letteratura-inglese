@@ -42,7 +42,1441 @@ Senators, tribunes, Romans, Goths, soldiers, and attendants
 
 The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andronicus|Titus Andronicus]]
 
-### Atto 1, Scena 1
+1.1 ⌈Flourish.⌉ Enter the Tribunes and Senators aloft, and then enter below [[characters/saturninus|Saturninus]] and his followers at one door and [[characters/bassianus|Bassianus]] and his followers ⌈at the other, with drummer and colours⌉
+[[characters/saturninus|SATURNINUS]]
+Noble patricians, patrons of my right,
+Defend the justice of my cause with arms.
+And countrymen, my loving followers,
+Plead my successive title with your swords.
+I am his first-born son that was the last
+That ware the imperial diadem of Rome.
+Then let my father’s honours live in me,
+Nor wrong mine age with this indignity.
+[[characters/bassianus|BASSIANUS]]
+Romans, friends, followers, favourers of my right,
+If ever [[characters/bassianus|Bassianus]], Caesar’s son,
+Were gracious in the eyes of royal Rome,
+Keep then this passage to the Capitol,
+And suffer not dishonour to approach
+The imperial seat, to virtue consecrate,
+To justice, continence, and nobility;
+But let [[motifs/desert|desert]] in pure election shine,
+And, Romans, fight for [[concepts/freedom|freedom]] in your choice.
+⌈Enter⌉ [[characters/marcus-andronicus|Marcus Andronicus]] ⌈aloft⌉ with the [[motifs/crown|crown]]
+MARCUS
+Princes that strive by factions and by friends
+Ambitiously for rule and empery,
+Know that the people of Rome, for whom we stand
+A special party, have by common voice
+In election for the Roman empery
+Chosen Andronicus, surnamed Pius
+For many good and great deserts to Rome.
+A nobler man, a braver warrior,
+Lives not this day within the [[motifs/city|city]] walls.
+He by the Senate is accited [[motifs/home|home]]
+From weary wars against the barbarous Goths,
+That with his sons, a terror to our foes,
+Hath yoked a nation strong, trained up in arms.
+Ten years are spent since first he undertook
+This cause of Rome, and chastised with arms
+Our enemies’ [[concepts/pride|pride]]. Five times he hath returned
+Bleeding to Rome, bearing his valiant sons
+In coffins from the field.
+And now at last, laden with [[concepts/honour|honour]]’s spoils,
+Returns the good Andronicus to Rome,
+Renowned Titus, flourishing in arms.
+Let us entreat by [[concepts/honour|honour]] of his name
+Whom worthily you would have now succeeded,
+And in the Capitol and Senate’s right,
+Whom you pretend to [[concepts/honour|honour]] and adore,
+That you withdraw you and abate your strength,
+Dismiss your followers, and, as suitors should,
+Plead your deserts in peace and humbleness.
+[[characters/saturninus|SATURNINUS]]
+How fair the Tribune speaks to calm my thoughts.
+[[characters/bassianus|BASSIANUS]]
+[[characters/marcus-andronicus|Marcus Andronicus]], so I do affy
+In thy uprightness and integrity,
+And so I [[motifs/love|love]] and [[concepts/honour|honour]] thee and thine,
+Thy noble brother Titus and his sons,
+And her to whom my thoughts are humbled all,
+Gracious [[characters/lavinia|Lavinia]], Rome’s rich ornament,
+That I will here dismiss my loving friends
+And to my fortunes and the people’s favour
+Commit my cause in balance to be weighed.
+⌈Exeunt his soldiers and followers⌉
+[[characters/saturninus|SATURNINUS]]
+Friends that have been thus forward in my right,
+I thank you all, and here dismiss you all,
+And to the [[motifs/love|love]] and favour of my country
+Commit myself, my person, and the cause.
+⌈Exeunt his soldiers and followers⌉
+(To the Tribunes and Senators)
+Rome, be as just and gracious unto me
+As I am confident and kind to thee.
+Open the gates and let me in.
+[[characters/bassianus|BASSIANUS]]
+Tribunes, and me, a poor competitor.
+⌈Flourish.⌉ They go up into the Senate [[house|House]]. Enter a Captain
+CAPTAIN
+Romans, make way. The good Andronicus,
+Patron of virtue, Rome’s best champion,
+Successful in the battles that he fights,
+With [[concepts/honour|honour]] and with fortune is returned
+From where he circumscribed with his [[Sword|sword]]
+And brought to yoke the enemies of Rome.
+Sound drums and trumpets, and then enter Martius
+
+and Mutius, two of Titus’ sons, and then ⌈men
+
+bearing coffins⌉ covered with black, then [[characters/lucius|Lucius]] and
+
+Quintus, two other sons; then [[characters/titus-andronicus|Titus Andronicus]] ⌈in
+
+his chariot⌉ and then [[characters/tamora|Tamora]] the [[characters/queen|Queen]] of Goths
+
+and her sons Alarbus, Chiron, and [[characters/demetrius|Demetrius]], with
+
+[[characters/aaron|Aaron]] the Moor and others as many as can be.
+
+Then set down the ⌈coffins⌉, and Titus speaks
+TITUS
+Hail, Rome, victorious in thy mourning weeds!
+Lo, as the bark that hath discharged his freight
+Returns with precious lading to the bay
+From whence at first she weighed her anchorage,
+Cometh Andronicus, bound with laurel bows,
+To re-salute his country with his [[motifs/tears|tears]],
+[[motifs/tears|Tears]] of true joy for his return to Rome.
+Thou great defender of this Capitol,
+Stand gracious to the rites that we intend.
+Romans, of five-and-twenty valiant sons,
+Half of the number that [[archetypes/king|King]] Priam had,
+Behold the poor remains, alive and dead.
+These that survive let Rome reward with [[motifs/love|love]];
+These that I bring unto their latest [[motifs/home|home]],
+With burial amongst their ancestors.
+Here Goths have given me leave to sheathe my [[Sword|sword]].
+Titus unkind, and careless of thine own,
+Why suffer’st thou thy sons unburied yet
+To hover on the dreadful shore of Styx?
+Make way to lay them by their brethren.
+They open the tomb
+There greet in [[motifs/silence|silence]] as the dead are wont,
+And [[motifs/sleep|sleep]] in peace, slain in your country’s wars.
+O sacred receptacle of my joys,
+Sweet cell of virtue and nobility,
+How many sons hast thou of mine in store
+That thou wilt never render to me more!
+[[characters/lucius|LUCIUS]]
+Give us the proudest prisoner of the Goths,
+That we may hew his limbs and on a pile
+Ad manes fratrum sacrifice his flesh
+Before this earthy [[motifs/prison|prison]] of their bones,
+That so the shadows be not unappeased,
+Nor we disturbed with prodigies on earth.
+TITUS
+I give him you, the noblest that survives,
+The eldest son of this distressed [[characters/queen|Queen]].
+[[characters/tamora|TAMORA]] ⌈kneeling⌉
+Stay, Roman brethren! Gracious conqueror,
+Victorious Titus, rue the [[motifs/tears|tears]] I shed—
+A mother’s [[motifs/tears|tears]] in passion for her son—
+And if thy sons were ever dear to thee,
+O, think my son to be as dear to me!
+Sufficeth not that we are brought to Rome
+To beautify thy triumphs, and return
+Captive to thee and to thy Roman yoke;
+But must my sons be slaughtered in the streets
+For valiant doings in their country’s cause?
+O, if to fight for [[archetypes/king|king]] and commonweal
+Were piety in thine, it is in these.
+Andronicus, stain not thy tomb with [[motifs/blood|blood]].
+Wilt thou draw near the [[concepts/nature|nature]] of the gods?
+Draw near them then in being merciful.
+Sweet [[concepts/mercy|mercy]] is nobility’s true badge.
+Thrice-noble Titus, spare my first-born son.
+TITUS
+Patient yourself, madam, and pardon me.
+These are their brethren whom your Goths beheld
+Alive and dead, and for their brethren slain
+Religiously they ask a sacrifice.
+To this your son is marked, and die he must
+T’appease their groaning shadows that are gone.
+[[characters/lucius|LUCIUS]]
+Away with him, and make a [[motifs/fire|fire]] straight,
+And with our swords upon a pile of wood
+Let’s hew his limbs till they be clean consumed.
+Exeunt Titus’ sons with Alarbus
+[[characters/tamora|TAMORA]] ⌈rising⌉
+O cruel irreligious piety!
+CHIRON
+Was never Scythia half so barbarous.
+[[characters/demetrius|DEMETRIUS]]
+Oppose not Scythia to ambitious Rome.
+Alarbus goes to rest, and we survive
+To tremble under Titus’ threat’ning took.
+Then, madam, stand resolved; but [[concepts/hope|hope]] withal
+The selfsame gods that armed the [[characters/queen|Queen]] of Troy
+With opportunity of sharp [[concepts/revenge|revenge]]
+Upon the Thracian [[archetypes/tyrant|tyrant]] in his tent
+May favour [[characters/tamora|Tamora]], the [[characters/queen|Queen]] of Goths—
+When Goths were Goths and [[characters/tamora|Tamora]] was [[characters/queen|queen]]—
+To quit her bloody wrongs upon her foes.
+Enter Quintus, Marcus, Mutius, and [[characters/lucius|Lucius]], the sons of Andronicus, again, with bloody swords
+[[characters/lucius|LUCIUS]]
+See, lord and father, how we have performed
+Our Roman rites. Alarbus’ limbs are lopped
+And entrails feed the sacrificing [[motifs/fire|fire]],
+Whose smoke like incense doth perfume the sky.
+Remaineth naught but to inter our brethren
+And with loud ’larums welcome them to Rome.
+TITUS
+Let it be so, and let Andronicus
+Make this his latest farewell to their souls.
+⌈Flourish.⌉ Then sound trumpets and lay the ⌈coffins⌉ in the tomb
+In peace and [[concepts/honour|honour]] rest you here, my sons;
+Rome’s readiest champions, repose you here in rest,
+Secure from worldly chances and mishaps.
+Here lurks no treason, here no envy swells,
+Here grow no damned drugs, here are no storms,
+No noise, but [[motifs/silence|silence]] and eternal [[motifs/sleep|sleep]].
+In peace and [[concepts/honour|honour]] rest you here, my sons.
+Enter [[characters/lavinia|Lavinia]]
+[[characters/lavinia|LAVINIA]]
+In peace and [[concepts/honour|honour]] live Lord Titus long,
+My noble lord and father, live in fame.
+Lo, at this tomb my tributary [[motifs/tears|tears]]
+I render for my brethren’s obsequies,
+(Kneeling) And at thy feet I kneel with [[motifs/tears|tears]] of joy
+Shed on this earth for thy return to Rome.
+O, bless me here with thy victorious hand,
+Whose fortunes Rome’s best citizens applaud.
+TITUS
+Kind Rome, that hast thus lovingly reserved
+The cordial of mine age to glad my heart!
+[[characters/lavinia|Lavinia]], live; outlive thy father’s days
+And fame’s eternal date, for virtue’s praise.
+⌈[[characters/lavinia|Lavinia]] rises⌉
+MARCUS ⌈aloft⌉
+Long live Lord Titus, my beloved brother,
+Gracious triumpher in the eyes of Rome!
+TITUS
+Thanks, gentle Tribune, noble brother Marcus.
+MARCUS
+And welcome, nephews, from successful wars,
+You that survive and you that [[motifs/sleep|sleep]] in fame.
+Fair lords, your fortunes are alike in all,
+That in your country’s service drew your swords,
+But safer triumph is this funeral pomp
+That hath aspired to Solon’s happiness
+And triumphs over chance in [[concepts/honour|honour]]’s bed.
+[[characters/titus-andronicus|Titus Andronicus]], the people of Rome,
+Whose friend in justice thou hast ever been,
+Send thee by me, their tribune and their trust,
+This palliament of white and spotless hue,
+And name thee in election for the empire
+With these our late-deceased emperor’s sons.
+Be candidatus then, and put it on,
+And help to set a head on headless Rome.
+TITUS
+A better head her glorious [[concepts/body|body]] fits
+Than his that shakes for age and feebleness.
+What should I don this robe and trouble you?—
+Be chosen with proclamations today,
+Tomorrow yield up rule, resign my life,
+And set abroad new business for you all.
+Rome, I have been thy soldier forty years,
+And led my country’s strength successfully,
+And buried one-and-twenty valiant sons
+Knighted in field, slain manfully in arms
+In right and service of their noble country.
+Give me a staff of [[concepts/honour|honour]] for mine age,
+But not a sceptre to control the world.
+Upright he held it, lords, that held it last.
+MARCUS
+Titus, thou shalt obtain and ask the empery.
+[[characters/saturninus|SATURNINUS]]
+Proud and ambitious Tribune, canst thou tell?
+TITUS
+Patience, Prince [[characters/saturninus|Saturninus]].
+[[characters/saturninus|SATURNINUS]]
+Romans, do me right.
+Patricians, draw your swords, and sheathe them not
+Till [[characters/saturninus|Saturninus]] be Rome’s emperor.
+Andronicus, would thou were shipped to hell
+Rather than rob me of the people’s hearts!
+[[characters/lucius|LUCIUS]]
+Proud Saturnine, interrupter of the good
+That noble-minded Titus means to thee.
+TITUS
+Content thee, Prince. I will restore to thee
+The people’s hearts, and wean them from themselves.
+[[characters/bassianus|BASSIANUS]]
+Andronicus, I do not flatter thee
+But [[concepts/honour|honour]] thee, and will do till I die.
+My faction if thou strengthen with thy friends
+I will most thankful be; and thanks to men
+Of noble minds is honourable meed.
+TITUS
+People of Rome, and people’s tribunes here,
+I ask your voices and your suffrages.
+Will ye bestow them friendly on Andronicus?
+TRIBUNES
+To gratify the good Andronicus
+And gratulate his safe return to Rome
+The people will accept whom he admits.
+TITUS
+Tribunes, I thank you, and this suit I make:
+That you create our emperor’s eldest son
+Lord Saturnine, whose virtues will, I [[concepts/hope|hope]],
+Reflect on Rome as Titan’s rays on earth,
+And ripen justice in this commonweal.
+Then if you will elect by my advice,
+[[motifs/crown|Crown]] him and say, ‘Long live our Emperor!’
+MARCUS
+With voices and applause of every sort,
+Patricians and plebeians, we create
+Lord [[characters/saturninus|Saturninus]] Rome’s great emperor,
+And say, ‘Long live our Emperor Saturnine!’
+⌈A long flourish while Marcus and the other
+
+Tribunes, with [[characters/saturninus|Saturninus]] and [[characters/bassianus|Bassianus]],
+
+come down.
+
+Marcus invests [[characters/saturninus|Saturninus]] in the white
+
+palliament and hands him a sceptre⌉
+[[characters/saturninus|SATURNINUS]]
+[[characters/titus-andronicus|Titus Andronicus]], for thy favours done
+To us in our election this day
+I give thee thanks in part of thy deserts,
+And will with deeds requite thy gentleness.
+And for an onset, Titus, to advance
+Thy name and honourable family,
+[[characters/lavinia|Lavinia]] will I make my empress,
+Rome’s royal mistress, mistress of my heart,
+And in the sacred Pantheon her espouse.
+Tell me, Andronicus, doth this motion please thee?
+TITUS
+It doth, my worthy lord, and in this match
+I hold me highly honoured of your grace,
+And here in sight of Rome to Saturnine,
+[[archetypes/king|King]] and commander of our commonweal,
+The wide world’s emperor, do I consecrate
+My [[Sword|sword]], my chariot, and my prisoners—
+Presents [[motifs/well|well]] worthy Rome’s imperious lord.
+Receive them, then, the tribute that I owe,
+Mine [[concepts/honour|honour]]’s ensigns humbled at thy feet.
+[[characters/saturninus|SATURNINUS]]
+Thanks, noble Titus, father of my life.
+How proud I am of thee and of thy gifts
+Rome shall record; and when I do forget
+The least of these unspeakable deserts,
+Romans, forget your fealty to me.
+TITUS (to [[characters/tamora|Tamora]])
+Now, madam, are you prisoner to an emperor,
+To him that for your [[concepts/honour|honour]] and your state
+Will use you nobly, and your followers.
+[[characters/saturninus|SATURNINUS]]
+A goodly lady, trust me, of the hue
+That I would choose were I to choose anew.
+Clear up, fair [[characters/queen|queen]], that cloudy countenance.
+Though chance of war hath wrought this change of
+cheer,
+Thou com’st not to be made a scorn in Rome.
+Princely shall be thy usage every way.
+Rest on my word, and let not discontent
+Daunt all your hopes. Madam, he comforts you
+Can make you greater than the [[characters/queen|Queen]] of Goths.
+[[characters/lavinia|Lavinia]], you are not displeased with this?
+[[characters/lavinia|LAVINIA]]
+Not I, my lord, sith true nobility
+Warrants these words in princely courtesy.
+[[characters/saturninus|SATURNINUS]]
+Thanks, sweet [[characters/lavinia|Lavinia]]. Romans, let us go.
+Ransomless here we set our prisoners free.
+Proclaim our honours, lords, with trump and drum.
+⌈Flourish. Exeunt [[characters/saturninus|Saturninus]], [[characters/tamora|Tamora]], [[characters/demetrius|Demetrius]], Chiron, and [[characters/aaron|Aaron]] the Moor⌉
+[[characters/bassianus|BASSIANUS]]
+Lord Titus,.by your leave, this maid is mine.
+TITUS
+How, sir, are you in earnest then, my lord?
+[[characters/bassianus|BASSIANUS]]
+Ay, noble Titus, and resolved withal
+To do myself this reason and this right.
+MARCUS
+Suum cuique is our Roman justice.
+This prince in justice seizeth but his own.
+[[characters/lucius|LUCIUS]]
+And that he will and shall, if [[characters/lucius|Lucius]] live.
+TITUS
+Traitors, avaunt! Where is the Emperor’s guard?
+MUTIUS
+Brothers, help to convey her hence away,
+And with my [[Sword|sword]] I’ll keep this door safe.
+Exeunt [[characters/bassianus|Bassianus]], Marcus, Quintus, and Martius, with [[characters/lavinia|Lavinia]]
+(To Titus) My lord, you pass not here.
+TITUS
+What, [[archetypes/villain|villain]] boy,
+Barr’st me my way in Rome?
+He attacks Mutius
+MUTIUS
+Help, [[characters/lucius|Lucius]], help!
+Titus kills him
+[[characters/lucius|LUCIUS]] (to Titus)
+My lord, you are unjust; and more than so,
+In wrongful quarrel you have slain your son.
+TITUS
+Nor thou nor he are any sons of mine.
+My sons would never so dishonour me.
+Traitor, restore [[characters/lavinia|Lavinia]] to the Emperor.
+[[characters/lucius|LUCIUS]]
+Dead, if you will, but not to be his wife
+That is another’s lawful promised [[motifs/love|love]].
+Exit with Mutius’ [[concepts/body|body]]
+Enter aloft [[characters/saturninus|Saturninus]] the Emperor with [[characters/tamora|Tamora]]
+
+and Chiron and [[characters/demetrius|Demetrius]], her two sons, and
+
+[[characters/aaron|Aaron]] the Moor
+TITUS
+Follow, my lord, and I’ll soon bring her back.
+[[characters/saturninus|SATURNINUS]]
+No, Titus, no. The Emperor needs her not,
+Nor her, nor thee, nor any of thy stock.
+I’ll trust by leisure him that mocks me once,
+Thee never, nor thy traitorous haughty sons,
+Confederates all thus to dishonour me.
+Was none in Rome to make a stale
+But Saturnine? Full [[motifs/well|well]], Andronicus,
+Agree these deeds with that proud brag of thine
+That saidst I begged the empire at thy hands.
+TITUS
+O monstrous, what reproachful words are these?
+[[characters/saturninus|SATURNINUS]]
+But go thy ways, go give that changing piece
+To him that flourished for her with his [[Sword|sword]].
+A valiant son-in-law thou shalt enjoy,
+One fit to bandy with thy lawless sons,
+To ruffle in the commonwealth of Rome.
+TITUS
+These words are razors to my wounded heart.
+[[characters/saturninus|SATURNINUS]]
+And therefore, lovely [[characters/tamora|Tamora]], [[characters/queen|Queen]] of Goths,
+That like the stately [[characters/phoebe|Phoebe]] ‘mongst her nymphs
+Dost overshine the gallant’st dames of Rome,
+If thou be pleased with this my sudden choice,
+Behold, I choose thee, [[characters/tamora|Tamora]], for my bride,
+And will create thee Empress of Rome.
+Speak, [[characters/queen|Queen]] of Goths, dost thou applaud my choice?
+And here I swear by all the Roman gods,
+Sith priest and holy [[motifs/water|water]] are so near,
+And tapers burn so bright, and everything
+In readiness for Hymenaeus stand,
+I will not re-salute the streets of Rome,
+Or climb my palace, till from forth this place
+I lead espoused my bride along with me.
+[[characters/tamora|TAMORA]]
+And here, in sight of heaven, to Rome I swear
+If Saturnine advance the [[characters/queen|Queen]] of Goths
+She will a handmaid be to his desires,
+A loving [[characters/nurse|nurse]], a mother to his youth.
+[[characters/saturninus|SATURNINUS]]
+Ascend, fair [[characters/queen|Queen]], Pantheon. Lords, accompany
+Your noble emperor and his lovely bride,
+Sent by the heavens for Prince Saturnine,
+Whose wisdom hath her fortune conquered.
+There shall we consummate our spousal rites.
+Exeunt all but Titus
+TITUS
+I am not bid to wait upon this bride.
+Titus, when wert thou wont to walk [[Alone|alone]],
+Dishonoured thus and challenged of wrongs?
+Enter Marcus and Titus’ sons [[characters/lucius|Lucius]], Quintus, and
+
+Martius, ⌈carrying Mutius’ [[concepts/body|body]]⌉
+MARCUS
+O Titus, see, O see what thou hast done—
+In a bad quarrel slain a virtuous son.
+TITUS
+No, foolish Tribune, no; no son of mine,
+Nor thou, nor these, confederates in the deed
+That hath dishonoured all our family;
+Unworthy brother and unworthy sons!
+[[characters/lucius|LUCIUS]]
+But let us give him burial as becomes,
+Give Mutius burial with our brethren.
+TITUS
+Traitors, away, he rests not in this tomb.
+This monument five hundred years hath stood,
+Which I have sumptuously re-edified.
+Here none but soldiers and Rome’s servitors
+Repose in fame, none basely slain in brawls.
+Bury him where you can; he comes not here.
+MARCUS
+My lord, this is impiety in you.
+My nephew Mutius’ deeds do plead for him.
+He must be buried with his brethren.
+⌈QUINTUS and MARTIUS⌉
+And shall, or him we will accompany.
+TITUS
+‘And shall’? What [[archetypes/villain|villain]] was it spake that word?
+⌈QUINTUS⌉
+He that would vouch it in any place but here.
+TITUS
+What, would you bury him in my despite?
+MARCUS
+No, noble Titus, but entreat of thee
+To pardon Mutius and to bury him.
+TITUS
+Marcus, even thou hast struck upon my crest,
+And with these boys mine [[concepts/honour|honour]] thou hast
+wounded.
+My foes I do repute you every one,
+So trouble me no more, but get you gone.
+⌈MARTIUS⌉
+He is not with himself, let us withdraw.
+⌈QUINTUS⌉
+Not I, till Mutius’ bones be buried.
+Marcus, [[characters/lucius|Lucius]], Quintus, and Martius kneel
+MARCUS
+Brother, for in that name doth [[concepts/nature|nature]] plead—
+⌈QUINTUS⌉
+Father, and in that name doth [[concepts/nature|nature]] speak—
+TITUS
+Speak thou no more, if all the rest will [[characters/speed|speed]].
+MARCUS
+Renowned Titus, more than half my [[motifs/soul|soul]]—
+[[characters/lucius|LUCIUS]]
+Dear father, [[motifs/soul|soul]] and substance of us all—
+MARCUS
+Suffer thy brother Marcus to inter
+His noble nephew here in virtue’s nest,
+That died in [[concepts/honour|honour]] and [[characters/lavinia|Lavinia]]’s cause.
+Thou art a Roman; be not barbarous.
+The Greeks upon advice did bury [[characters/ajax|Ajax]],
+That slew himself; and wise [[characters/laertes|Laertes]]’ son
+Did graciously plead for his funerals.
+Let not young Mutius then, that was thy joy,
+Be barred his entrance here.
+TITUS
+Rise, Marcus, rise.
+The dismall‘st day is this that e’er I saw,
+To be dishonoured by my sons in Rome.
+[[motifs/well|Well]], bury him, and bury me the next.
+They put Mutius in the tomb
+[[characters/lucius|LUCIUS]]
+There lie thy bones, sweet Mutius, with thy friends’,
+Till we with trophies do adorn thy tomb. 385
+ALL ⌈BUT TITUS⌉ (kneeling)
+No man shed [[motifs/tears|tears]] for noble Mutius;
+He lives in fame, that died in virtue’s cause.
+Exeunt ⌈all but Marcus and Titus⌉
+MARCUS
+My lord—to step out of these dreary dumps—
+How comes it that the subtle [[characters/queen|Queen]] of Goths
+Is of a sudden thus advanced in Rome?
+TITUS
+I know not, Marcus, but I know it is—
+Whether by device or no, the heavens can tell.
+Is she not then beholden to the man
+That brought her for this high good turn so far?
+⌈MARCUS⌉
+Yes, and will nobly him remunerate.
+⌈Flourish.⌉ Enter the Emperor [[characters/saturninus|Saturninus]], [[characters/tamora|Tamora]],
+
+and her two sons (Chiron and [[characters/demetrius|Demetrius]]), with
+
+[[characters/aaron|Aaron]] the Moor at one door.
+
+Enter at the other door [[characters/bassianus|Bassianus]] and [[characters/lavinia|Lavinia]] with
+
+⌈[[characters/lucius|Lucius]], Quintus,
+and Martius⌉
+[[characters/saturninus|SATURNINUS]]
+So, [[characters/bassianus|Bassianus]], you have played your prize.
+God give you joy, sir, of your gallant bride.
+[[characters/bassianus|BASSIANUS]]
+And you of yours, my lord. I say no more,
+Nor wish no less; and so I take my leave.
+[[characters/saturninus|SATURNINUS]]
+Traitor, if Rome have law or we have power,
+Thou and thy faction shall repent this rape.
+[[characters/bassianus|BASSIANUS]]
+‘Rape’ call you it, my lord, to seize my own—
+My true betrothed [[motifs/love|love]], and now my wife?
+But let the laws of Rome determine all;
+Meanwhile am I possessed of that is mine.
+[[characters/saturninus|SATURNINUS]]
+‘Tis good, sir; you are very short with us.
+But if we live we’ll be as sharp with you.
+[[characters/bassianus|BASSIANUS]]
+My lord, what I have done, as best I may
+Answer I must, and shall do with my life.
+Only thus much I give your grace to know:
+By all the duties that I owe to Rome,
+This noble gentleman, Lord Titus here,
+Is in opinion and in [[concepts/honour|honour]] wronged,
+That, in the rescue of [[characters/lavinia|Lavinia]],
+With his own hand did slay his youngest son
+In zeal to you, and highly moved to wrath
+To be controlled in that he frankly gave.
+Receive him then to favour, Saturnine,
+That hath expressed himself in all his deeds
+A father and a friend to thee and Rome.
+TITUS
+Prince [[characters/bassianus|Bassianus]], leave to plead my deeds.
+‘Tis thou and those that have dishonoured me.
+⌈He kneels⌉
+Rome and the righteous heavens be my judge
+How I have loved and honoured Saturnine!
+[[characters/tamora|TAMORA]] (to [[characters/saturninus|Saturninus]])
+My worthy lord, if ever [[characters/tamora|Tamora]]
+Were gracious in those princely eyes of thine,
+Then hear me speak indifferently for all;
+And at my suit, sweet, pardon what is past.
+[[characters/saturninus|SATURNINUS]]
+What, madam—be dishonoured openly
+And basely put it up without [[concepts/revenge|revenge]]?
+[[characters/tamora|TAMORA]]
+Not so, my lord. The gods of Rome forfend
+I should be author to dishonour you.
+But on mine [[concepts/honour|honour]] dare I undertake
+For good lord Titus’ [[innocence]] in all,
+Whose fury not dissembled speaks his griefs.
+Then at my suit look graciously on him.
+Lose not so noble a friend on vain suppose,
+Nor with sour looks afflict his gentle heart.
+(Aside to [[characters/saturninus|Saturninus]])
+My lord, be ruled by me, be won at last,
+Dissemble all your griefs and discontents.
+You are but newly planted in your throne;
+Lest then the people, and patricians too,
+Upon a just survey take Titus’ part,
+And so supplant you for ingratitude,
+Which Rome reputes to be a heinous sin,
+Yield at entreats; and then let me [[Alone|alone]]:
+I’ll find a day to massacre them all,
+And raze their faction and their family,
+The cruel father and his traitorous sons
+To whom I sued for my dear son’s life,
+And make them know what ’tis to let a [[characters/queen|queen]]
+Kneel in the streets and beg for grace in vain.
+(Aloud) Come, come, sweet Emperor; come,
+Andronicus,
+Take up this good old man, and cheer the heart
+That dies in tempest of thy angry frown.
+[[characters/saturninus|SATURNINUS]]
+Rise, Titus, rise; my empress hath prevailed.
+TITUS (rising)
+I thank your majesty and her, my lord,
+These words, these looks, infuse new life in me.
+[[characters/tamora|TAMORA]]
+Titus, I am incorporate in Rome,
+A Roman now adopted happily,
+And must advise the Emperor for his good.
+This day all quarrels die, Andronicus;
+And let it be mine [[concepts/honour|honour]], good my lord,
+That I have reconciled your friends and you.
+For you, Prince [[characters/bassianus|Bassianus]], I have passed
+My word and promise to the Emperor
+That you will be more mild and tractable.
+And [[concepts/fear|fear]] not, lords, and you, [[characters/lavinia|Lavinia]];
+By my advice, all humbled on your knees,
+You shall ask pardon of his majesty.
+⌈[[characters/bassianus|Bassianus]]⌉, [[characters/lavinia|Lavinia]], [[characters/lucius|Lucius]], Quintus, and
+Martius kneel
+⌈LOCIUS⌉
+We do, and vow to heaven and to his highness
+That what we did was mildly as we might,
+Tend’ring our sister’s [[concepts/honour|honour]] and our own.
+MARCUS ⌈kneeling⌉
+That on mine [[concepts/honour|honour]] here do I protest.
+[[characters/saturninus|SATURNINUS]]
+Away, and talk not, trouble us no more.
+[[characters/tamora|TAMORA]]
+Nay, nay, sweet Emperor, we must all be friends.
+The Tribune and his nephews kneel for grace.
+I will not be denied; sweetheart, look back.
+[[characters/saturninus|SATURNINUS]]
+Marcus, for thy sake and thy brother’s here,
+And at my lovely [[characters/tamora|Tamora]]’s entreats,
+I do remit these young men’s heinous faults.
+Stand up!
+Marcus, [[characters/bassianus|Bassianus]], [[characters/lavinia|Lavinia]], and Titus’ sons stand
+[[characters/lavinia|Lavinia]], though you left me like a churl,
+I found a friend, and sure as [[motifs/death|death]] I swore
+I would not part a bachelor from the priest.
+Come, if the Emperor’s [[settings/court|court]] can feast two brides
+You are my guest, [[characters/lavinia|Lavinia]], and your friends.
+This day shall be a [[motifs/love|love]]-day, [[characters/tamora|Tamora]].
+TITUS
+Tomorrow an it please your majesty
+To hunt the panther and the hart with me,
+With horn and hound we’ll give your grace bonjour.
+[[characters/saturninus|SATURNINUS]]
+Be it so, Titus, and gramercy, too. ⌈Flourish. Exeunt⌉
+
+2.1 ⌈Enter [[characters/aaron|Aaron]] [[Alone|alone]].⌉
+[[characters/aaron|AARON]]
+Now climbeth [[characters/tamora|Tamora]] Olympus’ top,
+Safe out of fortune’s shot, and sits aloft,
+Secure of thunder’s crack or [[motifs/lightning|lightning]] flash,
+Advanced above pale envy’s threat’ning reach.
+As when the golden sun salutes the morn
+And, having gilt the ocean with his beams,
+Gallops the zodiac in his glistering coach
+And overlooks the highest-peering hills,
+So [[characters/tamora|Tamora]].
+Upon her wit doth earthly [[concepts/honour|honour]] wait,
+And virtue stoops and trembles at her frown.
+Then, [[characters/aaron|Aaron]], arm thy heart and fit thy thoughts
+To mount aloft with thy imperial mistress,
+And mount her pitch whom thou in triumph long
+Hast prisoner held fettered in amorous [[motifs/chains|chains]],
+And faster bound to [[characters/aaron|Aaron]]’s charming eyes
+Than is [[characters/prometheus|Prometheus]] tied to Caucasus.
+Away with slavish weeds and servile thoughts!
+I will be bright, and shine in pearl and gold
+To wait upon this new-made empress.
+To wait, said I?—to wanton with this [[characters/queen|queen]],
+This goddess, this Semiramis, this nymph,
+This siren that will charm Rome’s Saturnine
+And see his shipwreck and his commonweal’s.
+Hollo, what [[motifs/storm|storm]] is this?
+Enter Chiron and [[characters/demetrius|Demetrius]], braving
+[[characters/demetrius|DEMETRIUS]]
+Chiron, thy years wants wit, thy wits wants edge
+And manners to intrude where I am graced
+And may, for aught thou knowest, affected be.
+CHIRON
+[[characters/demetrius|Demetrius]], thou dost overween in all,
+And so in this, to bear me down with braves.
+‘Tis not the difference of a year or two
+Makes me less gracious, or thee more fortunate.
+I am as able and as fit as thou
+To serve, and to deserve my mistress’ grace,
+And that my [[Sword|sword]] upon thee shall approve,
+And plead my passions for [[characters/lavinia|Lavinia]]’s [[motifs/love|love]].
+[[characters/aaron|AARON]] (aside)
+Clubs, clubs! These [[lovers]] will not keep the peace.
+[[characters/demetrius|DEMETRIUS]]
+Why, boy, although our mother, unadvised,
+Gave you a dancing-rapier by your side,
+Are you so desperate grown to threat your friends?
+Go to, have your lath glued within your sheath
+Till you know better how to handle it.
+CHIRON
+Meanwhile, sir, with the little skill I have
+Full [[motifs/well|well]] shalt thou perceive how much I dare.
+[[characters/demetrius|DEMETRIUS]]
+Ay, boy, grow ye so brave?
+They draw
+[[characters/aaron|AARON]]
+Why, how now, lords?
+So near the Emperor’s palace dare ye draw
+And maintain such a quarrel openly?
+Full [[motifs/well|well]] I wot the ground of all this grudge.
+I would not for a million of gold
+The cause were known to them it most concerns,
+Nor would your noble mother for much more
+Be so dishonoured in the [[settings/court|court]] of Rome.
+For shame, put up.
+[[characters/demetrius|DEMETRIUS]]
+Not I, till I have sheathed
+My rapier in his bosom, and withal
+Thrust those reproachful speeches down his throat
+That he hath breathed in my dishonour here.
+CHIRON
+For that I am prepared and full resolved,
+Foul-spoken coward, that thund‘rest with thy tongue,
+And with thy weapon nothing dar’st perform.
+[[characters/aaron|AARON]] Away, I say.
+Now, by the gods that warlike Goths adore,
+This petty brabble will undo us all.
+Why, lords, and think you not how dangerous
+It is to jet upon a prince’s right?
+What, is [[characters/lavinia|Lavinia]] then become so loose,
+Or [[characters/bassianus|Bassianus]] so degenerate,
+That for her [[motifs/love|love]] such quarrels may be broached
+Without controlment, justice, or [[concepts/revenge|revenge]]?
+Young lords, beware; and should the Empress know
+This discord’s ground, the music would not please.
+CHIRON
+I care not, I, knew she and all the world,
+I [[motifs/love|love]] [[characters/lavinia|Lavinia]] more than all the world.
+[[characters/demetrius|DEMETRIUS]]
+Youngling, learn thou to make some meaner choice.
+[[characters/lavinia|Lavinia]] is thine elder brother’s [[concepts/hope|hope]].
+[[characters/aaron|AARON]]
+Why, are ye mad? Or know ye not in Rome
+How furious and impatient they be,
+And cannot brook competitors in [[motifs/love|love]]?
+I tell you, lords, you do but plot your deaths
+By this device.
+CHIRON
+[[characters/aaron|Aaron]], a thousand deaths
+Would I propose to achieve her whom I [[motifs/love|love]].
+[[characters/aaron|AARON]]
+To achieve her how?
+[[characters/demetrius|DEMETRIUS]]
+Why makes thou it so strange?
+She is a woman, therefore may be wooed;
+She is a woman, therefore may be won;
+She is [[characters/lavinia|Lavinia]], therefore must be loved.
+What, man, more [[motifs/water|water]] glideth by the mill
+Than wots the miller of, and easy it is
+Of a cut loaf to steal a shive, we know.
+Though [[characters/bassianus|Bassianus]] be the Emperor’s brother,
+Better than he have worn Vulcan’s badge.
+[[characters/aaron|AARON]] (aside)
+Ay, and as good as [[characters/saturninus|Saturninus]] may.
+[[characters/demetrius|DEMETRIUS]]
+Then why should he [[concepts/despair|despair]] that knows to [[settings/court|court]] it
+With words, fair looks, and liberality?
+What, hast not thou full often struck a doe
+And borne her cleanly by the keeper’s nose?
+[[characters/aaron|AARON]]
+Why then, it seems some certain snatch or so
+Would serve your turns.
+CHIRON
+Ay, so the turn were served.
+[[characters/demetrius|DEMETRIUS]]
+[[characters/aaron|Aaron]], thou hast hit it.
+[[characters/aaron|AARON]]
+Would you had hit it too,
+Then should not we be tired with this ado.
+Why, hark ye, hark ye, and are you such fools
+To square for this? Would it offend you then
+That both should [[characters/speed|speed]]?
+CHIRON
+[[concepts/faith|Faith]], not me.
+[[characters/demetrius|DEMETRIUS]]
+Nor me, so I were one.
+[[characters/aaron|AARON]]
+For shame, be friends, and join for that you jar.
+‘Tis policy and stratagem must do
+That you affect, and so must you resolve
+That what you cannot as you would achieve,
+You must perforce accomplish as you may.
+Take this of me: [[characters/lucrece|Lucrece]] was not more chaste
+Than this [[characters/lavinia|Lavinia]], [[characters/bassianus|Bassianus]]’ [[motifs/love|love]].
+A speedier course than ling’ring languishment
+Must we pursue, and I have found the path.
+My lords, a solemn hunting is in hand;
+There will the lovely Roman ladies troop.
+The forest walks are wide and spacious,
+And many unfrequented plots there are,
+Fitted by kind for rape and villainy.
+Single you thither then this dainty doe,
+And strike her [[motifs/home|home]] by force, if not by words,
+This way or not at all stand you in [[concepts/hope|hope]].
+Come, come; our Empress, with her sacred wit
+To villainy and vengeance consecrate,
+Will we acquaint with all what we intend,
+And she shall file our engines with advice
+That will not suffer you to square yourselves,
+But to your wishes’ height advance you both.
+The Emperor’s [[settings/court|court]] is like the [[house]] of Fame,
+The palace full of tongues, of eyes and ears,
+The woods are ruthless, dreadful, deaf, and dull.
+There speak and strike, brave boys, and take your turns.
+There serve your lust, shadowed from heaven’s eye,
+And revel in [[characters/lavinia|Lavinia]]’s treasury.
+CHIRON
+Thy counsel, lad, smells of no cowardice.
+[[characters/demetrius|DEMETRIUS]]
+Sit fas aut nefas, till I find the stream
+To cool this heat, a charm to calm these fits,
+Per Styga, per manes vehor. Exeunt
+
+### Atto 2, Scena 2
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[characters/titus-andronicus\|Titus Andronicus]] and his three sons (Quintus, [[characters/lucius\|Lucius]], and Martius), and Marcus, making a noise with hounds and horns |
+| TITUS | The hunt is up, the morn is bright and grey,<br>The fields are fragrant and the woods are green.<br>Uncouple here, and let us make a bay<br>And wake the Emperor and his lovely bride,<br>And rouse the Prince, and ring a hunter’s peal,<br>That all the [[settings/court\|court]] may echo with the noise.<br>Sons, let it be your charge, as it is ours,<br>To attend the Emperor’s person carefully.<br>I have been troubled in my [[motifs/sleep\|sleep]] this [[motifs/night\|night]],<br>But dawning day new comfort hath inspired.<br>Here a cry of hounds, and [[motifs/wind\|wind]] horns in a peal;<br><br>then enter [[characters/saturninus\|Saturninus]], [[characters/tamora\|Tamora]], [[characters/bassianus\|Bassianus]], [[characters/lavinia\|Lavinia]],<br><br>Chiron, [[characters/demetrius\|Demetrius]], and their attendants<br>Many good-morrows to your majesty.<br>Madam, to you as many, and as good.<br>I promised your grace a hunter’s peal. |
+| [[characters/saturninus\|SATURNINUS]] | And you have rung it lustily, my lords,<br>Somewhat too early for new-married ladies. |
+| [[characters/bassianus\|BASSIANUS]] | [[characters/lavinia\|Lavinia]], how say you? |
+| [[characters/lavinia\|LAVINIA]] | I say no.<br>I have been broad awake two hours and more. |
+| [[characters/saturninus\|SATURNINUS]] | Come on then, [[motifs/horse\|horse]] and chariots let us have,<br>And to our sport. (To [[characters/tamora\|Tamora]]) Madam, now shall ye see<br>Our Roman hunting. |
+| MARCUS | I have [[dogs]], my lord,<br>Will rouse the proudest panther in the chase,<br>And climb the highest promontory top. |
+| TITUS | And I have [[motifs/horse\|horse]] will follow where the game<br>Makes way, and run like swallows o’er the plain. |
+| [[characters/demetrius\|DEMETRIUS]] | (aside)<br>Chiron, we hunt not, we, with [[motifs/horse\|horse]] nor hound,<br>But [[concepts/hope\|hope]] to pluck a dainty doe to ground. Exeunt |
+
+### Atto 2, Scena 3
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[characters/aaron\|Aaron]] [[Alone\|alone]], with gold |
+| [[characters/aaron\|AARON]] | He that had wit would think that I had none,<br>To bury so much gold under a tree<br>And never after to inherit it.<br>Let him that thinks of me so abjectly<br>Know that this gold must coin a stratagem<br>Which, cunningly effected, will beget<br>A very excellent piece of villainy.<br>And so repose, sweet gold, for their unrest<br>That have their alms out of the Empress’ chest.<br>He hides the gold. |
+| *(didascalia)* | Enter [[characters/tamora\|Tamora]] [[Alone\|alone]] to the Moor |
+| [[characters/tamora\|TAMORA]] | My lovely [[characters/aaron\|Aaron]], wherefore look‘st thou sad<br>When everything doth make a gleeful boast?<br>The [[motifs/birds\|birds]] chant melody on every bush,<br>The snakes lies rolled in the cheerful sun,<br>The green [[motifs/leaves\|leaves]] quiver with the cooling [[motifs/wind\|wind]]<br>And make a chequered [[archetypes/shadow\|shadow]] on the ground.<br>Under their sweet shade, [[characters/aaron\|Aaron]], let us sit,<br>And whilst the babbling echo mocks the hounds,<br>Replying shrilly to the [[motifs/well\|well]]-tuned horns,<br>As if a [[topoi/double\|double]] hunt were heard at once,<br>Let us sit down and mark their yellowing noise,<br>And after conflict such as was supposed<br>The wand’ring prince and Dido once enjoyed<br>When with a happy [[motifs/storm\|storm]] they were surprised,<br>And curtained with a counsel-keeping [[motifs/cave\|cave]],<br>We may, each wreathed in the other’s arms,<br>Our pastimes done, possess a golden slumber<br>Whiles hounds and horns and sweet melodious [[motifs/birds\|birds]]<br>Be unto us as is a [[characters/nurse\|nurse]]’s [[Song\|song]]<br>Of lullaby to bring her babe asleep. |
+| [[characters/aaron\|AARON]] | Madam, though [[characters/venus\|Venus]] govern your desires,<br>[[characters/saturn\|Saturn]] is dominator over mine.<br>What signifies my deadly-standing eye,<br>My [[motifs/silence\|silence]], and my cloudy [[concepts/melancholy\|melancholy]],<br>My fleece of woolly hair that now uncurls<br>Even as an adder when she doth unroll<br>To do some fatal execution?<br>No, madam, these are no venereal signs.<br>Vengeance is in my heart, [[motifs/death\|death]] in my hand,<br>[[motifs/blood\|Blood]] and [[concepts/revenge\|revenge]] are hammering in my head.<br>Hark, [[characters/tamora\|Tamora]], the empress of my [[motifs/soul\|soul]],<br>Which never hopes more heaven than rests in thee,<br>This is the day of doom for [[characters/bassianus\|Bassianus]].<br>His Philomel must lose her tongue today,<br>Thy sons make pillage of her chastity<br>And wash their hands in [[characters/bassianus\|Bassianus]]’ [[motifs/blood\|blood]].<br>Seest thou this letter? (Giving a letter) Take it up, I pray thee,<br>And give the [[archetypes/king\|King]] this fatal-plotted scroll.<br>Now question me no more. We are espied.<br>Here comes a parcel of our hopeful booty,<br>Which dreads not yet their lives’ destruction. |
+| *(didascalia)* | Enter [[characters/bassianus\|Bassianus]] and [[characters/lavinia\|Lavinia]] |
+| [[characters/tamora\|TAMORA]] | (aside to [[characters/aaron\|Aaron]])<br>Ah, my sweet Moor, sweeter to me than life! |
+| [[characters/aaron\|AARON]] | (aside to [[characters/tamora\|Tamora]])<br>No more, great Empress; [[characters/bassianus\|Bassianus]] comes.<br>Be [[motifs/cross\|cross]] with him, and I’ll go fetch thy sons<br>To back thy quarrels, whatsoe’er they be. Exit |
+| [[characters/bassianus\|BASSIANUS]] | Who have we here? Rome’s royal empress<br>Unfurnished of her [[motifs/well\|well]]-beseeming troop?<br>Or is it Dian, habited like her<br>Who hath abandoned her holy groves<br>To see the general hunting in this forest? |
+| [[characters/tamora\|TAMORA]] | Saucy controller of my private steps,<br>Had I the power that some say Dian had,<br>Thy temples should be planted presently<br>With horns, as was Actaeon’s, and the hounds<br>Should drive upon thy new-transformed limbs,<br>Unmannerly intruder as thou art! |
+| [[characters/lavinia\|LAVINIA]] | Under your patience, gentle Empress,<br>‘Tis thought you have a goodly gift in horning,<br>And to be doubted that your Moor and you<br>Are singled forth to try experiments.<br>Jove shield your husband from his hounds today—<br>‘Tis pity they should take him for a stag. |
+| [[characters/bassianus\|BASSIANUS]] | Believe me, [[characters/queen\|Queen]], your swart Cimmerian<br>Doth make your [[concepts/honour\|honour]] of his [[concepts/body\|body]]’s hue,<br>Spotted, detested, and abominable.<br>Why are you sequestered from all your train,<br>Dismounted from your [[motifs/snow\|snow]]-white goodly steed,<br>And wandered hither to an obscure plot,<br>Accompanied but with a barbarous Moor,<br>If foul [[motifs/desire\|desire]] had not conducted you? |
+| [[characters/lavinia\|LAVINIA]] | And being intercepted in your sport,<br>Great reason that my noble lord be rated<br>For sauciness. (To [[characters/bassianus\|Bassianus]]) I pray you, let us hence,<br>And let her joy her raven-coloured [[motifs/love\|love]].<br>This valley fits the purpose passing [[motifs/well\|well]]. |
+| [[characters/bassianus\|BASSIANUS]] | The [[archetypes/king\|King]] my brother shall have note of this. |
+| [[characters/lavinia\|LAVINIA]] | Ay, for these slips have made him noted long.<br>Good [[archetypes/king\|King]], to be so mightily abused! |
+| [[characters/tamora\|TAMORA]] | Why have I patience to endure all this? |
+| *(didascalia)* | Enter Chiron and [[characters/demetrius\|Demetrius]] |
+| [[characters/demetrius\|DEMETRIUS]] | How now, dear sovereign and our gracious mother,<br>Why doth your highness look so pale and wan? |
+| [[characters/tamora\|TAMORA]] | Have I not reason, think you, to look pale?<br>These two have ‘ticed me hither to this place.<br>A barren detested vale you see it is;<br>The trees, though [[motifs/summer\|summer]], yet forlorn and lean,<br>Overcome with moss and baleful mistletoe.<br>Here never shines the sun, here nothing breeds<br>Unless the nightly owl or fatal raven,<br>And when they showed me this abhorred pit<br>They told me here at dead [[motifs/time\|time]] of the [[motifs/night\|night]]<br>A thousand fiends, a thousand hissing snakes,<br>Ten thousand swelling toads, as many urchins<br>Would make such fearful and confused cries<br>As any mortal [[concepts/body\|body]] hearing it<br>Should straight fall mad or else die suddenly.<br>No sooner had they told this hellish tale<br>But straight they told me they would bind me here<br>Unto the [[concepts/body\|body]] of a dismal yew<br>And leave me to this miserable [[motifs/death\|death]].<br>And then they called me foul adulteress,<br>Lascivious Goth, and all the bitterest terms<br>That ever ear did hear to such effect.<br>And had you not by wondrous fortune come,<br>This vengeance on me had they executed.<br>[[concepts/revenge\|Revenge]] it as you [[motifs/love\|love]] your mother’s life,<br>Or be ye not henceforward called my children. |
+| [[characters/demetrius\|DEMETRIUS]] | This is a witness that I am thy son.<br>He stabs [[characters/bassianus\|Bassianus]] |
+| CHIRON | And this for me, struck [[motifs/home\|home]] to show my strength.<br>He stabs [[characters/bassianus\|Bassianus]], who dies. |
+| *(didascalia)* | [[characters/tamora\|Tamora]] turns to [[characters/lavinia\|Lavinia]] |
+| [[characters/lavinia\|LAVINIA]] | Ay, come, Semiramis—nay, barbarous [[characters/tamora\|Tamora]],<br>For no name fits thy [[concepts/nature\|nature]] but thy own. |
+| [[characters/tamora\|TAMORA]] | (to Chiron)<br>Give me the poniard. You shall know, my boys,<br>Your mother’s hand shall right your mother’s wrong. |
+| [[characters/demetrius\|DEMETRIUS]] | Stay, madam, here is more belongs to her.<br>First thresh the corn, then after burn the straw.<br>This minion stood upon her chastity,<br>Upon her nuptial vow, her loyalty,<br>And with that quaint [[concepts/hope\|hope]] braves your mightiness.<br>And shall she carry this unto her [[motifs/grave\|grave]]? |
+| CHIRON | An if she do I would I were an eunuch.<br>Drag hence her husband to some secret hole,<br>And make his dead trunk pillow to our lust. |
+| [[characters/tamora\|TAMORA]] | But when ye have the honey ye [[motifs/desire\|desire]]<br>Let not this wasp outlive, us both to sting. |
+| CHIRON | I warrant you, madam, we will make that sure.<br>Come, mistress, now perforce we will enjoy<br>That nice-preserved honesty of yours. |
+| [[characters/lavinia\|LAVINIA]] | O [[characters/tamora\|Tamora]], thou bearest a woman’s face— |
+| [[characters/tamora\|TAMORA]] | I will not hear her speak. Away with her! |
+| [[characters/lavinia\|LAVINIA]] | Sweet lords, entreat her hear me but a word. |
+| [[characters/demetrius\|DEMETRIUS]] | (to [[characters/tamora\|Tamora]])<br>Listen, fair madam, let it be your glory<br>To see her [[motifs/tears\|tears]], but be your heart to them<br>As unrelenting flint to drops of rain. |
+| [[characters/lavinia\|LAVINIA]] | When did the tiger’s young ones teach the dam?<br>O, do not learn her wrath! She taught it thee.<br>The milk thou sucked’st from her did turn to marble,<br>Even at thy teat thou hadst thy tyranny.<br>Yet every mother breeds not sons alike.<br>(To Chiron) Do thou entreat her show a woman’s pity. |
+| CHIRON | What, wouldst thou have me prove myself a bastard? |
+| [[characters/lavinia\|LAVINIA]] | ’Tis true, [[The Raven\|the raven]] doth not hatch a lark.<br>Yet have I heard—O, could I find it now!—<br>The [[motifs/lion\|lion]], moved with pity, did endure<br>To have his princely paws pared all away.<br>Some say that ravens foster forlorn children<br>The whilst their own [[motifs/birds\|birds]] famish in their nests.<br>O, be to me, though thy hard heart say no,<br>Nothing so kind, but something pitiful. |
+| [[characters/tamora\|TAMORA]] | I know not what it means. Away with her! |
+| [[characters/lavinia\|LAVINIA]] | O, let me teach thee for my father’s sake,<br>That gave thee life when [[motifs/well\|well]] he might have slain thee.<br>Be not obdurate, open thy deaf ears. |
+| [[characters/tamora\|TAMORA]] | Hadst thou in person ne’er offended me<br>Even for his sake am I pitiless.<br>Remember, boys, I poured forth [[motifs/tears\|tears]] in vain<br>To save your brother from the sacrifice,<br>But fierce Andronicus would not relent.<br>Therefore away with her, and use her as you will—<br>The worse to her, the better loved of me. |
+| [[characters/lavinia\|LAVINIA]] | O [[characters/tamora\|Tamora]], be called a gentle [[characters/queen\|queen]],<br>And with thine own hands kill me in this place;<br>For ’tis not life that I have begged so long;<br>Poor I was slain when [[characters/bassianus\|Bassianus]] died. |
+| [[characters/tamora\|TAMORA]] | What begg’st thou then, fond woman? Let me go. |
+| [[characters/lavinia\|LAVINIA]] | ’Tis present [[motifs/death\|death]] I beg, and one thing more<br>That womanhood denies my tongue to tell.<br>O, keep me from their worse-than-killing lust,<br>And tumble me into some loathsome pit<br>Where never man’s eye may behold my [[concepts/body\|body]].<br>Do this, and be a charitable murderer. |
+| [[characters/tamora\|TAMORA]] | So should I rob my sweet sons of their fee.<br>No, let them satisfy their lust on thee. |
+| [[characters/demetrius\|DEMETRIUS]] | (to [[characters/lavinia\|Lavinia]])<br>Away, for thou hast stayed us here too long. |
+| [[characters/lavinia\|LAVINIA]] | No grace, no womanhood—ah, beastly creature,<br>The blot and enemy to our general name,<br>Confusion fall— |
+| CHIRON | Nay then, I’ll stop your mouth. (To [[characters/demetrius\|Demetrius]]) Bring thou her husband.<br>This is the hole where [[characters/aaron\|Aaron]] bid us hide him.<br>[[characters/demetrius\|Demetrius]] and Chiron cast [[characters/bassianus\|Bassianus]]’ [[concepts/body\|body]] into the |
+| *(didascalia)* | pit and cover the mouth of it with branches, then |
+| CHIRON | exeunt dragging [[characters/lavinia\|Lavinia]] |
+| [[characters/tamora\|TAMORA]] | Farewell, my sons. See that you make her sure.<br>Ne’er let my heart know merry cheer indeed<br>Till all the Andronici be made away.<br>Now will I hence to seek my lovely Moor,<br>And let my spleenful sons this trull deflower. Exit |
+| *(didascalia)* | Enter [[characters/aaron\|Aaron]] with Quintus |
+| [[characters/tamora\|TAMORA]] | and Martius, two of<br><br>Titus’ sons |
+| [[characters/aaron\|AARON]] | Come on, my lords, the better foot before.<br>Straight will I bring you to the loathsome pit<br>Where I espied the panther fast asleep. |
+| QUINTUS | My sight is very dull, whate’er it bodes. |
+| MARTIUS | And mine, I promise you. Were it not for shame,<br>[[motifs/well\|Well]] could I leave our sport to [[motifs/sleep\|sleep]] awhile.<br>He falls into the pit |
+| QUINTUS | What, art thou fallen? What subtle hole is this,<br>Whose mouth is covered with rude-growing briers<br>Upon whose [[motifs/leaves\|leaves]] are drops of new-shed [[motifs/blood\|blood]]<br>As fresh as morning dew distilled on [[motifs/flowers\|flowers]]?<br>A very fatal place it seems to me.<br>Speak, brother. Hast thou hurt thee with the fall? |
+| MARTIUS | O brother, with the dismall’st object hurt<br>That ever eye with sight made heart lament. |
+| [[characters/aaron\|AARON]] | (aside)<br>Now will I fetch the [[archetypes/king\|King]] to find them here,<br>That he thereby may have a likely guess<br>How these were they that made away his brother. |
+| *(didascalia)* | Exit |
+| MARTIUS | Why dost not comfort me and help me out<br>From this unhallowed and bloodstained hole? |
+| QUINTUS | I am surprised with an uncouth [[concepts/fear\|fear]].<br>A chilling sweat o’erruns my trembling joints;<br>My heart suspects more than mine eye can see. |
+| MARTIUS | To prove thou hast a true-divining heart,<br>[[characters/aaron\|Aaron]] and thou look down into this den,<br>And see a fearful sight of [[motifs/blood\|blood]] and [[motifs/death\|death]]. |
+| QUINTUS | [[characters/aaron\|Aaron]] is gone, and my compassionate heart<br>Will not permit mine eyes once to behold<br>The thing whereat it trembles by surmise.<br>O, tell me who it is, for ne’er till now<br>Was I a [[archetypes/child\|child]] to [[concepts/fear\|fear]] I know not what. |
+| MARTIUS | Lord [[characters/bassianus\|Bassianus]] lies berayed in [[motifs/blood\|blood]]<br>All on a heap, like to a slaughtered [[motifs/lamb\|lamb]],<br>In this detested, dark, [[motifs/blood\|blood]]-drinking pit. |
+| QUINTUS | If it be dark how dost thou know ’tis he? |
+| MARTIUS | Upon his bloody finger he doth wear<br>A precious ring that lightens all this hole,<br>Which like a taper in some monument<br>Doth shine upon the dead man’s earthy cheeks<br>And shows the ragged entrails of this pit.<br>So pale did shine the [[motifs/moon\|moon]] on Pyramus<br>When he by [[motifs/night\|night]] lay bathed in maiden [[motifs/blood\|blood]].<br>O brother, help me with thy fainting hand—<br>If [[concepts/fear\|fear]] hath made thee faint, as me it hath—<br>Out of this fell devouring receptacle,<br>As hateful as Cocytus’ misty mouth. |
+| QUINTUS | Reach me thy hand, that I may help thee out,<br>Or, wanting strength to do thee so much good,<br>I may be plucked into the swallowing womb<br>Of this deep pit, poor [[characters/bassianus\|Bassianus]]’ [[motifs/grave\|grave]].<br>I have no strength to pluck thee to the brink, |
+| MARTIUS | Nor I no strength to climb without thy help. |
+| QUINTUS | Thy hand once more, I will not loose again<br>Till thou art here aloft or I below.<br>Thou canst not come to me; I come to thee.<br>He falls into the pit. |
+| *(didascalia)* | Enter [[characters/saturninus\|Saturninus]] the Emperor with attendants, |
+| QUINTUS | and [[characters/aaron\|Aaron]] the Moor |
+| [[characters/saturninus\|SATURNINUS]] | Along with me! I’ll see what hole is here,<br>And what he is that now is leapt into it.<br>He speaks into the pit<br>Say, who art thou that lately didst descend<br>Into this gaping hollow of the earth? |
+| MARTIUS | The unhappy sons of old Andronicus,<br>Brought hither in a most unlucky hour<br>To find thy brother [[characters/bassianus\|Bassianus]] dead. |
+| [[characters/saturninus\|SATURNINUS]] | My brother dead! I know thou dost but jest.<br>He and his lady both are at the lodge<br>Upon the north side of this pleasant chase.<br>‘Tis not an hour since I left them there. |
+| MARTIUS | We know not where you left them all alive,<br>But, out alas, here have we found him dead! |
+| *(didascalia)* | Enter [[characters/tamora\|Tamora]], [[characters/titus-andronicus\|Titus Andronicus]], and [[characters/lucius\|Lucius]] |
+| [[characters/tamora\|TAMORA]] | Where is my lord the [[archetypes/king\|King]]? |
+| [[characters/saturninus\|SATURNINUS]] | Here, [[characters/tamora\|Tamora]], though gripped with killing grief. |
+| [[characters/tamora\|TAMORA]] | Where is thy brother [[characters/bassianus\|Bassianus]]? |
+| [[characters/saturninus\|SATURNINUS]] | Now to the [[characters/bottom\|bottom]] dost thou search my wound.<br>Poor [[characters/bassianus\|Bassianus]] here lies murdered. |
+| [[characters/tamora\|TAMORA]] | Then all too late I bring this fatal writ,<br>The complot of this timeless [[forms/tragedy\|tragedy]],<br>And [[concepts/wonder\|wonder]] greatly that man’s face can fold<br>In pleasing smiles such murderous tyranny.<br>She giveth Saturnine a letter |
+| [[characters/saturninus\|SATURNINUS]] | (reads)<br>‘An if we miss to meet him handsomely,<br>Sweet huntsman—[[characters/bassianus\|Bassianus]] ’tis we mean—<br>Do thou so much as dig the [[motifs/grave\|grave]] for him.<br>Thou know‘st our meaning. Look for thy reward<br>Among the nettles at the elder tree<br>Which overshades the mouth of that same pit<br>Where we decreed to bury [[characters/bassianus\|Bassianus]].<br>Do this, and purchase us thy lasting friends.’<br>O [[characters/tamora\|Tamora]], was ever heard the like!<br>This is the pit, and this the elder tree.<br>Look, sirs, if you can find the huntsman out<br>That should have murdered [[characters/bassianus\|Bassianus]] here. |
+| [[characters/aaron\|AARON]] | My gracious lord, here is the bag of gold. |
+| [[characters/saturninus\|SATURNINUS]] | (to Titus)<br>Two of thy whelps, fell curs of bloody kind,<br>Have here bereft my brother of his life.<br>Sirs, drag them from the pit unto the [[motifs/prison\|prison]].<br>There let them bide until we have devised<br>Some never-heard-of torturing [[motifs/pain\|pain]] for them. |
+| [[characters/tamora\|TAMORA]] | What, are they in this pit? O wondrous thing!<br>How easily murder is discovered!<br>Attendants drag Quintus, Martius, and [[characters/bassianus\|Bassianus]]’<br><br>[[concepts/body\|body]] from the pit |
+| TITUS | (kneeling)<br>High Emperor, upon my feeble knee<br>I beg this boon with [[motifs/tears\|tears]] not lightly shed:<br>That this fell fault of my accursed sons—<br>Accursed if the fault be proved in them— |
+| [[characters/saturninus\|SATURNINUS]] | If it be proved? You see it is apparent.<br>Who found this letter? [[characters/tamora\|Tamora]], was it you? |
+| [[characters/tamora\|TAMORA]] | Andronicus himself did take it up. |
+| TITUS | I did, my lord, yet let me be their bail,<br>For by my father’s reverend tomb I vow<br>They shall be ready at your highness’ will<br>To answer their suspicion with their lives. |
+| [[characters/saturninus\|SATURNINUS]] | Thou shalt not bail them. See thou follow me.<br>Some bring the murdered [[concepts/body\|body]], some the murderers.<br>Let them not speak a word—the [[concepts/guilt\|guilt]] is plain;<br>For by my [[motifs/soul\|soul]], were there worse end than [[motifs/death\|death]] |
+| *(didascalia)* | That end upon them should be executed. Exit |
+| [[characters/tamora\|TAMORA]] | Andronicus, I will entreat the [[archetypes/king\|King]].<br>[[concepts/fear\|Fear]] not thy sons, they shall do [[motifs/well\|well]] enough. |
+| *(didascalia)* | TITUS rising |
+| [[characters/tamora\|TAMORA]] | Come, [[characters/lucius\|Lucius]], come, stay not to talk with them. |
+| *(didascalia)* | Exeunt |
+
+### Atto 2, Scena 4
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter the Empress’ sons, Chiron and [[characters/demetrius\|Demetrius]], with [[characters/lavinia\|Lavinia]], her hands cut off and her tongue cut out, and ravished |
+| [[characters/demetrius\|DEMETRIUS]] | So, now go tell, an if thy tongue can speak,<br>Who ‘twas that cut thy tongue and ravished thee. |
+| CHIRON | Write down thy mind, bewray thy meaning so,<br>An if thy stumps will let thee play the scribe. |
+| [[characters/demetrius\|DEMETRIUS]] | See how with signs and tokens she can scrawl. |
+| CHIRON | (to [[characters/lavinia\|Lavinia]])<br>Go [[motifs/home\|home]], call for sweet [[motifs/water\|water]], wash thy hands. |
+| [[characters/demetrius\|DEMETRIUS]] | She hath no tongue to call nor hands to wash,<br>And so let’s leave her to her silent walks. |
+| CHIRON | An ‘twere my cause I should go hang myself. |
+| [[characters/demetrius\|DEMETRIUS]] | If thou hadst hands to help thee knit the cord. |
+| *(didascalia)* | Exeunt Chiron and [[characters/demetrius\|Demetrius]] |
+| *(didascalia)* | [[motifs/wind\|Wind]] horns. Enter Marcus from hunting to [[characters/lavinia\|Lavinia]] |
+| MARCUS | Who is this—my niece that flies away so fast?<br>Cousin, a word. Where is your husband?<br>If I do dream, would all my wealth would wake me.<br>If I do wake, some planet strike me down<br>That I may slumber an eternal [[motifs/sleep\|sleep]].<br>Speak, gentle niece, what stern ungentle hands<br>Hath lopped and hewed and made thy [[concepts/body\|body]] bare<br>Of her two branches, those sweet ornaments<br>Whose circling shadows kings have sought to [[motifs/sleep\|sleep]] in,<br>And might not gain so great a happiness<br>As half thy [[motifs/love\|love]]. Why dost not speak to me?<br>Alas, a crimson [[motifs/river\|river]] of warm [[motifs/blood\|blood]],<br>Like to a bubbling fountain stirred with [[motifs/wind\|wind]],<br>Doth rise and fall between thy rosed lips,<br>Coming and going with thy honey breath.<br>But sure some Tereus hath deflowered thee<br>And, lest thou shouldst detect him, cut thy tongue.<br>Ah, now thou turn‘st away thy face for shame,<br>And notwithstanding all this loss of [[motifs/blood\|blood]],<br>As from a conduit with three issuing spouts,<br>Yet do thy cheeks look red as Titan’s face<br>Blushing to be encountered with a cloud.<br>Shall I speak for thee? Shall I say ’tis so?<br>O that I knew thy heart, and knew the beast,<br>That I might rail at him to ease my mind!<br>Sorrow concealed, like an oven stopped,<br>Doth burn the heart to cinders where it is.<br>Fair Philomel, why she but lost her tongue<br>And in a tedious sampler sewed her mind.<br>But, lovely niece, that mean is cut from thee.<br>A craftier Tereus, cousin, hast thou met,<br>And he hath cut those pretty fingers off<br>That could have better sewed than Philomel.<br>O, had the [[archetypes/monster\|monster]] seen those lily hands<br>Tremble like aspen [[motifs/leaves\|leaves]] upon a lute<br>And make the silken strings delight to kiss them,<br>He would not then have touched them for his life.<br>Or had he heard the heavenly harmony<br>Which that sweet tongue hath made,<br>He would have dropped his knife and fell asleep,<br>As Cerberus at the Thracian poet’s feet.<br>Come, let us go and make thy father blind,<br>For such a sight will blind a father’s eye.<br>One hour’s [[motifs/storm\|storm]] will drown the fragrant meads:<br>What will whole months of [[motifs/tears\|tears]] thy father’s eyes?<br>Do not draw back, for we will mourn with thee.<br>O, could our mourning ease thy misery! Exeunt |
+
+### Atto 3, Scena 1
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter the Judges, Tribunes, and Senators with Titus’ two sons, Martius and Quintus, bound, passing over the stage to the place of execution, and Titus going before, pleading |
+| TITUS | Hear me, [[motifs/grave\|grave]] fathers; noble Tribunes, stay.<br>For pity of mine age, whose youth was spent<br>In dangerous wars whilst you securely slept;<br>For all my [[motifs/blood\|blood]] in Rome’s great quarrel shed;<br>For all the frosty nights that I have watched,<br>And for these bitter [[motifs/tears\|tears]] which now you see<br>Filling the agèd wrinkles in my cheeks,<br>Be pitiful to my condemned sons,<br>Whose souls is not corrupted as ’tis thought.<br>For two-and-twenty sons I never wept,<br>Because they died in [[concepts/honour\|honour]]’s lofty bed.<br>Andronicus lieth down, and the Judges pass by him<br>For these two, Tribunes, in the [[motifs/dust\|dust]] I write<br>My heart’s deep languor and my [[motifs/soul\|soul]]’s sad [[motifs/tears\|tears]].<br>Let my [[motifs/tears\|tears]] stanch the earth’s dry appetite;<br>My sons’ sweet [[motifs/blood\|blood]] will make it shame and blush. |
+| *(didascalia)* | Exeunt all but Titus |
+| TITUS | O earth, I will befriend thee more with rain<br>That shall distil from these two ancient ruins<br>Than youthful April shall with all his showers.<br>In [[motifs/summer\|summer]]’s drought I’ll drop upon thee still.<br>In [[motifs/winter\|winter]] with warm [[motifs/tears\|tears]] I’ll melt the [[motifs/snow\|snow]]<br>And keep eternal springtime on thy face,<br>So thou refuse to drink my dear sons’ [[motifs/blood\|blood]]. |
+| *(didascalia)* | Enter [[characters/lucius\|Lucius]] with his weapon drawn |
+| TITUS | Oreverend Tribunes, O gentle, aged men,<br>Unbind my sons, reverse the doom of [[motifs/death\|death]],<br>And let me say, that never wept before,<br>My [[motifs/tears\|tears]] are now prevailing orators! |
+| [[characters/lucius\|LUCIUS]] | O noble father, you lament in vain.<br>The Tribunes hear you not. No man is by,<br>And you recount your sorrows to a stone. |
+| TITUS | Ah [[characters/lucius\|Lucius]], for thy brothers let me plead.<br>[[motifs/grave\|Grave]] Tribunes, once more I entreat of you— |
+| [[characters/lucius\|LUCIUS]] | My gracious lord, no tribune hears you speak. |
+| TITUS | Why, ‘tis no matter, man. If they did hear,<br>They would not mark me; if they did mark,<br>They would not pity me; yet plead I must.<br>Therefore I tell my sorrows to the stones,<br>Who, though they cannot answer my distress,<br>Yet in some sort they are better than the Tribunes<br>For that they will not intercept my tale.<br>When I do weep they humbly at my feet<br>Receive my [[motifs/tears\|tears]] and seem to weep with me,<br>And were they but attired in [[motifs/grave\|grave]] weeds<br>Rome could afford no tribunes like to these.<br>A stone is soft as wax, tribunes more hard than stones.<br>A stone is silent and offendeth not,<br>And tribunes with their tongues doom men to [[motifs/death\|death]].<br>But wherefore stand’st thou with thy weapon drawn? |
+| [[characters/lucius\|LUCIUS]] | To rescue my two brothers from their [[motifs/death\|death]],<br>For which attempt the Judges have pronounced<br>My everlasting doom of banishment. |
+| *(didascalia)* | TITUS rising |
+| [[characters/lucius\|LUCIUS]] | O happy man, they have befriended thee!<br>Why, foolish [[characters/lucius\|Lucius]], dost thou not perceive<br>That Rome is but a wilderness of tigers?<br>Tigers must prey, and Rome affords no prey<br>But me and mine. How happy art thou then<br>From these devourers to be banished!<br>But who comes with our brother Marcus here? |
+| *(didascalia)* | Enter Marcus with [[characters/lavinia\|Lavinia]] |
+| MARCUS | Titus, prepare thy aged eyes to weep,<br>Or if not so, thy noble heart to break.<br>I bring consuming sorrow to thine age. |
+| TITUS | Will it consume me? Let me see it then. |
+| MARCUS | This was thy daughter. |
+| TITUS | Why, Marcus, so she is. |
+| [[characters/lucius\|LUCIUS]] | (falling on his knees)<br>Ay me, this object kills me. |
+| TITUS | Faint-hearted boy, arise and look upon her. |
+| *(didascalia)* | [[characters/lucius\|Lucius]] rises |
+| TITUS | Speak, [[characters/lavinia\|Lavinia]], what accursed hand<br>Hath made thee handless in thy father’s sight?<br>What [[archetypes/fool\|fool]] hath added [[motifs/water\|water]] to the sea,<br>Or brought a faggot to bright-burning Troy?<br>My grief was at the height before thou cam‘st,<br>And now like Nilus it disdaineth bounds.<br>Give me a [[Sword\|sword]], I’ll chop off my hands too,<br>For they have fought for Rome, and all in vain;<br>And they have nursed this woe in feeding life;<br>In bootless [[motifs/prayer\|prayer]] have they been held up,<br>And they have served me to effectless use.<br>Now all the service I require of them<br>Is that the one will help to cut the other.<br>’Tis [[motifs/well\|well]], [[characters/lavinia\|Lavinia]], that thou hast no hands,<br>For hands to do Rome service is but vain. |
+| [[characters/lucius\|LUCIUS]] | Speak, gentle sister, who hath martyred thee. |
+| MARCUS | O, that delightful engine of her thoughts,<br>That blabbed them with such pleasing eloquence,<br>Is torn from forth that pretty hollow cage<br>Where, like a sweet melodious bird, it sung<br>Sweet varied notes, enchanting every ear. |
+| [[characters/lucius\|LUCIUS]] | O, say thou for her, who hath done this deed? |
+| MARCUS | O, thus I found her, straying in the park,<br>Seeking to hide herself, as doth the deer<br>That hath received some unrecuring wound. |
+| TITUS | It was my dear, and he that wounded her<br>Hath hurt me more than had he killed me dead;<br>For now I stand as one upon a rock<br>Environed with a wilderness of sea,<br>Who marks the waxing tide grow wave by wave,<br>Expecting ever when some envious surge<br>Will in his brinish bowels [[motifs/swallow\|swallow]] him.<br>This way to [[motifs/death\|death]] my wretched sons are gone.<br>Here stands my other son, a banished man,<br>And here my brother, weeping at my woes.<br>But that which gives my [[motifs/soul\|soul]] the greatest spurn<br>Is dear [[characters/lavinia\|Lavinia]], dearer than my [[motifs/soul\|soul]].<br>Had I but seen thy picture in this plight<br>It would have madded me. What shall I do<br>Now I behold thy lively [[concepts/body\|body]] so?<br>Thou hast no hands to wipe away thy [[motifs/tears\|tears]],<br>Nor tongue to tell me who hath martyred thee.<br>Thy husband he is dead, and for his [[motifs/death\|death]]<br>Thy brothers are condemned and dead by this.<br>Look, Marcus, ah, son [[characters/lucius\|Lucius]], look on her!<br>When I did name her brothers, then fresh [[motifs/tears\|tears]]<br>Stood on her cheeks, as doth the honey-dew<br>Upon a gathered lily almost withered. |
+| MARCUS | Perchance she weeps because they killed her<br>husband;<br>Perchance because she knows them [[archetypes/innocent\|innocent]]. |
+| TITUS | If they did kill thy husband, then be joyful,<br>Because the law hath ta’en [[concepts/revenge\|revenge]] on them.<br>No, no, they would not do so foul a deed;<br>Witness the sorrow that their sister makes.<br>Gentle [[characters/lavinia\|Lavinia]], let me kiss thy lips;<br>Or make some sign how I may do thee ease.<br><br>Shall thy good uncle, and thy brother [[characters/lucius\|Lucius]],<br>And thou, and I, sit round about some fountain,<br>Looking all downwards to behold our cheeks<br>How they are stained, like meadows yet not dry<br>With miry slime left on them by a flood?<br>And in the fountain shall we gaze so long<br>Till the fresh taste be taken from that clearness,<br>And made a brine pit with our bitter [[motifs/tears\|tears]]?<br>Or shall we cut away our hands like thine?<br>Or shall we bite our tongues, and in dumb shows<br>Pass the remainder of our hateful days?<br>What shall we do? Let us that have our tongues<br>Plot some device of further misery,<br>To make us wondered at in [[motifs/time\|time]] to come. |
+| [[characters/lucius\|LUCIUS]] | Sweet father, cease your [[motifs/tears\|tears]], for at your grief<br>See how my wretched sister sobs and weeps. |
+| MARCUS | Patience, dear niece. Good Titus, dry thine eyes. |
+| TITUS | Ah, Marcus, Marcus, brother, [[motifs/well\|well]] I wot<br>Thy napkin cannot drink a tear of mine,<br>For thou, poor man, hast drowned it with thine own. |
+| [[characters/lucius\|LUCIUS]] | Ah, my [[characters/lavinia\|Lavinia]], I will wipe thy cheeks. |
+| TITUS | Mark, Marcus, mark. I understand her signs.<br>Had she a tongue to speak, now would she say<br>That to her brother which I said to thee.<br>His napkin with his true [[motifs/tears\|tears]] all bewet<br>Can do no service on her sorrowful cheeks.<br>O, what a sympathy of woe is this—<br>As far from help as limbo is from bliss. |
+| *(didascalia)* | Enter [[characters/aaron\|Aaron]] the Moor, [[Alone\|alone]] |
+| [[characters/aaron\|AARON]] | [[characters/titus-andronicus\|Titus Andronicus]], my lord the Emperor<br>Sends thee this word: that, if thou [[motifs/love\|love]] thy sons,<br>Let Marcus, [[characters/lucius\|Lucius]] or thyself, old Titus,<br>Or any one of you, chop off your hand<br>And send it to the [[archetypes/king\|King]]. He for the same<br>Will send thee hither both thy sons alive,<br>And that shall be the ransom for their fault. |
+| TITUS | O gracious Emperor! O gentle [[characters/aaron\|Aaron]],<br>Did ever raven sing so like a lark<br>That gives sweet tidings of the sun’s uprise?<br>With all my heart I’ll send the Emperor my hand.<br>Good [[characters/aaron\|Aaron]], wilt thou help to chop it off? |
+| [[characters/lucius\|LUCIUS]] | Stay, father, for that noble hand of thine,<br>That hath thrown down so many enemies,<br>Shall not be sent. My hand will serve the turn.<br>My youth can better spare my [[motifs/blood\|blood]] than you,<br>And therefore mine shall save my brothers’ lives. |
+| MARCUS | Which of your hands hath not defended Rome<br>And reared aloft the bloody battleaxe,<br>Writing destruction on the enemy’s [[settings/castle\|castle]]?<br>O, none of both but are of high [[motifs/desert\|desert]].<br>My hand hath been but idle; let it serve<br>To ransom my two nephews from their [[motifs/death\|death]],<br>Then have I kept it to a worthy end. |
+| [[characters/aaron\|AARON]] | Nay, come, agree whose hand shall go along,<br>For [[concepts/fear\|fear]] they die before their pardon come. |
+| MARCUS | My hand shall go. |
+| [[characters/lucius\|LUCIUS]] | By heaven it shall not go. |
+| TITUS | Sirs, strive no more. Such withered herbs as these<br>Are meet for plucking up, and therefore mine. |
+| [[characters/lucius\|LUCIUS]] | Sweet father, if I shall be thought thy son,<br>Let me redeem my brothers both from [[motifs/death\|death]]. |
+| MARCUS | And for our father’s sake and mother’s care,<br>Now let me show a brother’s [[motifs/love\|love]] to thee. |
+| TITUS | Agree between you. I will spare my hand. |
+| [[characters/lucius\|LUCIUS]] | Then I’ll go fetch an axe. |
+| MARCUS | But I will use the axe. |
+| *(didascalia)* | Exeunt [[characters/lucius\|Lucius]] and Marcus |
+| TITUS | Come hither, [[characters/aaron\|Aaron]]. I’ll deceive them both.<br>Lend me thy hand, and I will give thee mine. |
+| [[characters/aaron\|AARON]] | (aside)<br>If that be called deceit, I will be honest<br>And never whilst I live deceive men so.<br>But I’ll deceive you in another sort,<br>And that you’ll say ere half an hour pass.<br>He cuts off Titus’ hand. |
+| *(didascalia)* | Enter [[characters/lucius\|Lucius]] and Marcus again |
+| TITUS | Now stay your strife. What shall be is dispatched.<br>Good [[characters/aaron\|Aaron]], give his majesty my hand.<br>Tell him it was a hand that warded him<br>From thousand dangers; bid him bury it.<br>More hath it merited; that let it have.<br>As for my sons, say I account of them<br>As jewels purchased at an easy price,<br>And yet dear too, because I bought mine own. |
+| [[characters/aaron\|AARON]] | I go, Andronicus; and for thy hand<br>Look by and by to have thy sons with thee.<br>(Aside) Their heads, I mean. O, how this villainy<br>Doth fat me with the very thoughts of it!<br>Let fools do good, and fair men call for grace:<br>[[characters/aaron\|Aaron]] will have his [[motifs/soul\|soul]] black like his face. Exit |
+| TITUS | O, here I lift this one hand up to heaven<br>And bow this feeble ruin to the earth.<br>He kneels<br>If any power pities wretched [[motifs/tears\|tears]],<br>To that I call. (To [[characters/lavinia\|Lavinia]], who kneels) What, wouldst<br>thou kneel with me?<br>Do then, dear heart; for heaven shall hear our prayers,<br>Or with our sighs we’ll breathe the welkin dim<br>And stain the sun with fog, as sometime clouds<br>When they do hug him in their melting bosoms. |
+| MARCUS | O brother, speak with possibility,<br>And do not break into these deep extremes. |
+| TITUS | Is not my sorrows deep, having no [[characters/bottom\|bottom]]?<br>Then be my passions bottomless with them. |
+| MARCUS | But yet let reason govern thy lament. |
+| TITUS | If there were reason for these miseries,<br>Then into limits could I bind my woes.<br>When heaven doth weep, doth not the earth<br>o‘erflow?<br>If the winds rage, doth not the sea wax mad,<br>Threat’ning the welkin with his big-swoll’n face?<br>And wilt thou have a reason for this coil?<br>I am the sea. Hark how her sighs doth blow.<br>She is the weeping welkin, I the earth.<br>Then must my sea be moved with her sighs,<br>Then must my earth with her continual [[motifs/tears\|tears]]<br>Become a [[deluge]] overflowed and drowned,<br>Forwhy my bowels cannot hide her woes,<br>But like a drunkard must I vomit them.<br>Then give me leave, for losers will have leave<br>To ease their stomachs with their bitter tongues. |
+| *(didascalia)* | Enter a Messenger with two heads and a hand |
+| MESSENGER | Worthy Andronicus, ill art thou repaid<br>For that good hand thou sent’st the Emperor.<br>Here are the heads of thy two noble sons,<br>And here’s thy hand in scorn to thee sent back—<br>Thy grief their sports, thy resolution mocked,<br>That woe is me to think upon thy woes<br>More than remembrance of my father’s [[motifs/death\|death]]. |
+| *(didascalia)* | He sets down the heads and hand. Exit |
+| MARCUS | Now let hot Etna cool in Sicily,<br>And be my heart an ever-burning hell.<br>These miseries are more than may be borne.<br>To weep with them that weep doth ease some deal,<br>But sorrow flouted at is [[topoi/double\|double]] [[motifs/death\|death]]. |
+| [[characters/lucius\|LUCIUS]] | Ah, that this sight should make so deep a wound<br>And yet detested life not shrink thereat—<br>That ever [[motifs/death\|death]] should let life bear his name<br>Where life hath no more interest but to breathe!<br>[[characters/lavinia\|Lavinia]] kisses Titus |
+| MARCUS | Alas, poor heart, that kiss is comfortless<br>As frozen [[motifs/water\|water]] to a starved snake. |
+| TITUS | When will this fearful slumber have an end? |
+| MARCUS | Now farewell, flatt’ry; die, Andronicus.<br>Thou dost not slumber. See thy two sons’ heads,<br>Thy warlike hand, thy mangled daughter here,<br>Thy other banished son with this dear sight<br>Struck pale and bloodless, and thy brother, I,<br>Even like a stony image, cold and numb.<br>Ah, now no more will I control thy griefs.<br>Rend off thy silver hair, thy other hand<br>Gnawing with thy teeth, and be this dismal sight<br>The closing up of our most wretched eyes.<br>Now is a [[motifs/time\|time]] to [[motifs/storm\|storm]]. Why art thou still? |
+| TITUS | Ha, ha, ha! |
+| MARCUS | Why dost thou laugh? It fits not with this hour. |
+| TITUS | Why, I have not another tear to shed.<br>Besides, this sorrow is an enemy,<br>And would usurp upon my wat’ry eyes<br>And make them blind with tributary [[motifs/tears\|tears]].<br>Then which way shall I find [[concepts/revenge\|Revenge]]’s [[motifs/cave\|cave]]?—<br>For these two heads do seem to speak to me<br>And threat me I shall never come to bliss<br>Till all these mischiefs be returned again<br>Even in their throats that hath committed them.<br>Come, let me see what task I have to do. |
+| *(didascalia)* | He and [[characters/lavinia\|Lavinia]] rise |
+| TITUS | You heavy people, circle me about,<br>That I may turn me to each one of you<br>And swear unto my [[motifs/soul\|soul]] to right your wrongs.<br>Marcus, [[characters/lucius\|Lucius]], and [[characters/lavinia\|Lavinia]] circle Titus. He<br><br>pledges them<br>The vow is made. Come, brother, take a head,<br>And in this hand the other will I bear.<br>And [[characters/lavinia\|Lavinia]], thou shalt be employed.<br>Bear thou my hand, sweet wench, between thine arms.<br>As for thee, boy, go get thee from my sight.<br>Thou art an [[concepts/exile\|exile]] and thou must not stay.<br>Hie to the Goths, and raise an army there,<br>And if ye [[motifs/love\|love]] me, as I think you do,<br>Let’s kiss and part, for we have much to do.<br>They kiss. Exeunt all but [[characters/lucius\|Lucius]] |
+| [[characters/lucius\|LUCIUS]] | Farewell, Andronicus, my noble father,<br>The woefull‘st man that ever lived in Rome.<br>Farewell, proud Rome, till [[characters/lucius\|Lucius]] come again;<br>He loves his pledges dearer than his life.<br>Farewell, [[characters/lavinia\|Lavinia]], my noble sister:<br>O, would thou wert as thou tofore hast been!<br>But now nor [[characters/lucius\|Lucius]] nor [[characters/lavinia\|Lavinia]] lives<br>But in oblivion and hateful griefs.<br>If [[characters/lucius\|Lucius]] live he will requite your wrongs<br>And make proud Saturnine and his empress<br>Beg at the gates like [[characters/tarquin\|Tarquin]] and his [[characters/queen\|queen]].<br>Now will I to the Goths and raise a power,<br>To be revenged on Rome and Saturnine. Exit |
+
+### Atto 3, Scena 2
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | A banquet. Enter [[characters/titus-andronicus\|Titus Andronicus]], Marcus, [[characters/lavinia\|Lavinia]], and the boy (young [[characters/lucius\|Lucius]]) |
+| TITUS | So, so, now sit, and look you eat no more<br>Than will preserve just so much strength in us<br>As will [[concepts/revenge\|revenge]] these bitter woes of ours. |
+| *(didascalia)* | They sit |
+| TITUS | Marcus, unknit that sorrow-wreathen knot.<br>Thy niece and I, poor creatures, want our hands,<br>And cannot passionate our tenfold grief<br>With folded arms. This poor right hand of mine<br>Is left to tyrannize upon my breast,<br>Who, when my heart, all mad with misery,<br>Beats in this hollow [[motifs/prison\|prison]] of my flesh,<br>Then thus I thump it down.<br>He beats his breast<br>(To [[characters/lavinia\|Lavinia]]) Thou map of woe, that thus dost talk in<br>signs,<br>When thy poor heart beats with outrageous beating<br>Thou canst not strike it thus to make it still!<br>Wound it with sighing, girl; kill it with groans,<br>Or get some little knife between thy teeth<br>And just against thy heart make thou a hole,<br>That all the [[motifs/tears\|tears]] that thy poor eyes let fall<br>May run into that sink and, soaking in,<br>Drown the lamenting [[archetypes/fool\|fool]] in sea-salt [[motifs/tears\|tears]]. |
+| MARCUS | Fie, brother, fie! Teach her not thus to lay<br>Such violent hands upon her tender life. |
+| TITUS | How now! Has sorrow made thee dote already?<br>Why, Marcus, no man should be mad but I.<br>What violent hands can she lay on her life?<br>Ah, wherefore dost thou urge the name of hands<br>To bid Aeneas tell the tale twice o’er<br>How Troy was burnt and he made miserable?<br>O, handle not the theme, to talk of hands,<br>Lest we remember still that we have none.<br>Fie, fie, how franticly I square my talk,<br>As if we should forget we had no hands<br>If Marcus did not name the word of hands!<br>Come, let’s fall to; and, gentle girl, eat this.<br>Here is no drink! Hark, Marcus, what she says.<br>I can interpret all her martyred signs.<br>She says she drinks no other drink but [[motifs/tears\|tears]],<br>Brewed with her sorrow, mashed upon her cheeks.<br>Speechless complainer, I will learn thy thought.<br>In thy dumb action will I be as perfect<br>As begging hermits in their holy prayers.<br>Thou shalt not sigh, nor hold thy stumps to heaven,<br>Nor wink, nor nod, nor kneel, nor make a sign,<br>But I of these will wrest an alphabet,<br>And by still practice learn to know thy meaning. |
+| YOUNG [[characters/lucius\|LUCIUS]] | Good grandsire, leave these bitter deep laments.<br>Make my aunt merry with some pleasing tale. |
+| MARCUS | Alas, the tender boy in passion moved<br>Doth weep to see his grandsire’s heaviness. |
+| TITUS | Peace, tender sapling, thou art made of [[motifs/tears\|tears]],<br>And [[motifs/tears\|tears]] will quickly melt thy life away.<br>Marcus strikes the dish with a knife<br>What dost thou strike at, Marcus, with thy knife? |
+| MARCUS | At that that I have killed, my lord—a fly. |
+| TITUS | Out on thee, murderer! Thou kill’st my heart.<br>Mine eyes are cloyed with view of tyranny.<br>A deed of [[motifs/death\|death]] done on the [[archetypes/innocent\|innocent]]<br>Becomes not Titus’ brother. Get thee gone.<br>I see thou art not for my company. |
+| MARCUS | Alas, my lord, I have but killed a fly. |
+| TITUS | ‘But’? How if that fly had a father, brother?<br>How would he hang his slender gilded wings<br>And buzz lamenting dirges in the air!<br>Poor harmless fly,<br>That with his pretty buzzing melody<br>Came here to make us merry—and thou hast killed him! |
+| MARCUS | Pardon me, sir, it was a black ill-favoured fly,<br>Like to the Empress’ Moor. Therefore I killed him. |
+| TITUS | O, O, O!<br>Then pardon me for reprehending thee,<br>For thou hast done a charitable deed.<br>Give me thy knife. I will insult on him,<br>Flattering myself as if it were the Moor<br>Come hither purposely to [[motifs/poison\|poison]] me.<br>He takes a knife and strikes<br>There’s for thyself, and that’s for [[characters/tamora\|Tamora]]. Ah, sirrah!<br>Yet I think we are not brought so low<br>But that between us we can kill a fly<br>That comes in likeness of a coal-black Moor. |
+| MARCUS | Alas, poor man! Grief has so wrought on him<br>He takes false shadows for true substances. |
+| TITUS | Come, take away. [[characters/lavinia\|Lavinia]], go with me.<br>I’ll to thy closet and go read with thee<br>Sad stories chanced in the times of old.<br>Come, boy, and go with me. Thy sight is young,<br>And thou shalt read when mine begin to dazzle. |
+| *(didascalia)* | Exeunt |
+
+### Atto 4, Scena 1
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[characters/lucius\|Lucius]]’ son and [[characters/lavinia\|Lavinia]] running after him, and the boy flies from her with his books under his arm. Enter Titus and Marcus |
+| YOUNG [[characters/lucius\|LUCIUS]] | Help, grandsire, help! My aunt [[characters/lavinia\|Lavinia]]<br>Follows me everywhere, I know not why.<br>Good uncle Marcus, see how swift she comes.<br>Alas, sweet aunt, I know not what you mean. |
+| *(didascalia)* | He drops his books |
+| MARCUS | Stand by me, [[characters/lucius\|Lucius]]. Do not [[concepts/fear\|fear]] thine aunt. |
+| TITUS | She loves thee, boy, too [[motifs/well\|well]] to do thee harm. |
+| YOUNG [[characters/lucius\|LUCIUS]] | Ay, when my father was in Rome she did. |
+| MARCUS | What means my niece [[characters/lavinia\|Lavinia]] by these signs? |
+| *(didascalia)* | [[concepts/fear\|Fear]] her not, [[characters/lucius\|Lucius]]; somewhat doth she mean. MARCUS |
+| TITUS | See, [[characters/lucius\|Lucius]], see how much she makes of thee.<br>Somewhither would she have thee go with her.<br>Ah, boy, Cornelia never with more care<br>Read to her sons than she hath read to thee<br>Sweet poetry and Tully’s Orator.<br>Canst thou not guess wherefore she plies thee thus? |
+| YOUNG [[characters/lucius\|LUCIUS]] | My lord, I know not, I, nor can I guess,<br>Unless some fit or frenzy do possess her;<br>For I have heard my grandsire say full oft<br>Extremity of griefs would make men mad,<br>And I have read that Hecuba of Troy<br>Ran mad for sorrow. That made me to [[concepts/fear\|fear]],<br>Although, my lord, I know my noble aunt<br>Loves me as dear as e’er my mother did,<br>And would not but in fury fright my youth,<br>Which made me down to throw my books and fly,<br>Causeless, perhaps. But pardon me, sweet aunt;<br>And, madam, if my uncle Marcus go<br>I will most willingly attend your ladyship. |
+| MARCUS | [[characters/lucius\|Lucius]], I will.<br>[[characters/lavinia\|Lavinia]] turns the books over with her stumps |
+| TITUS | How now, [[characters/lavinia\|Lavinia]]? Marcus, what means this?<br>Some book there is that she desires to see.<br>Which is it, girl, of these?-Open them, boy.<br>(To [[characters/lavinia\|Lavinia]]) But thou art deeper read and better skilled.<br>Come and take choice of all my library,<br>And so beguile thy sorrow till the heavens<br>Reveal the damned contriver of this deed.—<br>Why lifts she up her arms in sequence thus? |
+| MARCUS | I think she means that there were more than one<br>Confederate in the fact. Ay, more there was,<br>Or else to heaven she heaves them for [[concepts/revenge\|revenge]]. |
+| TITUS | [[characters/lucius\|Lucius]], what book is that she tosseth so? |
+| YOUNG [[characters/lucius\|LUCIUS]] | Grandsire, ’tis Ovid’s Metamorphoses.<br><br>My mother gave it me. |
+| MARCUS | For [[motifs/love\|love]] of her that’s gone,<br>Perhaps, she culled it from among the rest. |
+| TITUS | Soft, so busily she turns the [[motifs/leaves\|leaves]].<br>Help her. What would she find? [[characters/lavinia\|Lavinia]], shall I read?<br>This is the tragic tale of Philomel,<br>And treats of Tereus’ treason and his rape,<br>And rape, I [[concepts/fear\|fear]], was root of thy annoy. |
+| MARCUS | See, brother, see. Note how she quotes the [[motifs/leaves\|leaves]]. |
+| TITUS | [[characters/lavinia\|Lavinia]], wert thou thus surprised, sweet girl,<br>Ravished and wronged as Philomela was,<br>Forced in the ruthless, vast, and gloomy woods?<br>See, see. Ay, such a place there is where we did<br>hunt—<br>O, had we never, never hunted there!—<br>Patterned by that the poet here describes,<br>By [[concepts/nature\|nature]] made for murders and for rapes. |
+| MARCUS | O, why should [[concepts/nature\|nature]] build so foul a den,<br>Unless the gods delight in tragedies? |
+| TITUS | Give signs, sweet girl, for here are none but friends,<br>What Roman lord it was durst do the deed.<br>Or slunk not Saturnine, as [[characters/tarquin\|Tarquin]] erst,<br>That left the camp to sin in [[characters/lucrece\|Lucrece]]’ bed? |
+| MARCUS | Sit down, sweet niece. Brother, sit down by me.<br>They sit<br>[[characters/apollo\|Apollo]], Pallas, Jove, or Mercury<br>Inspire me, that I may this treason find.<br>My lord, look here. Look here, [[characters/lavinia\|Lavinia]].<br>This sandy plot is plain. Guide if thou canst<br>This after me.<br>He writes his name with his staff, and guides it<br><br>with feet and mouth<br>I here have writ my name<br>Without the help of any hand at all.<br>Cursed be that heart that forced us to this shift!<br>Write thou, good niece, and here display at last<br>What God will have discovered for [[concepts/revenge\|revenge]].<br>Heaven guide thy pen to print thy sorrows plain,<br>That we may know the traitors and the [[concepts/truth\|truth]].<br>She takes the staff in her mouth, and guides it with<br><br>her stumps, and writes<br>O, do ye read, my lord, what she hath writ? |
+| *(didascalia)* | TITUS ‘Stuprum—Chiron—[[characters/demetrius\|Demetrius]].’ |
+| MARCUS | What, what!—The lustful sons of [[characters/tamora\|Tamora]]<br>Performers of this heinous bloody deed? |
+| TITUS | Magni dominator poli,<br><br>Tam lentus audis scelera, tam lentus vides? |
+| MARCUS | O, calm thee, gentle lord, although I know<br>There is enough written upon this earth<br>To stir a mutiny in the mildest thoughts,<br>And arm the minds of infants to exclaims.<br>My lord, kneel down with me; [[characters/lavinia\|Lavinia]], kneel;<br>And kneel, sweet boy, the Roman [[characters/hector\|Hector]]’s [[concepts/hope\|hope]],<br>All kneel<br>And swear with me—as, with the woeful fere<br>And father of that chaste dishonoured dame<br>Lord Junius [[characters/brutus\|Brutus]] sware for [[characters/lucrece\|Lucrece]]’ rape—<br>That we will prosecute by good advice<br>Mortal [[concepts/revenge\|revenge]] upon these traitorous Goths,<br>And see their [[motifs/blood\|blood]], or die with this reproach.<br>They rise |
+| TITUS | ’Tis sure enough an you knew how,<br>But if you hunt these bear-whelps, then beware.<br>The dam will wake, and if she [[motifs/wind\|wind]] ye once<br>She’s with the [[motifs/lion\|lion]] deeply still in league,<br>And lulls him whilst she playeth on her back,<br>And when he sleeps will she do what she list.<br>You are a young huntsman, Marcus. Let [[Alone\|alone]],<br>And come, I will go get a leaf of brass<br>And with a gad of steel will write these words,<br>And lay it by. The angry northern [[motifs/wind\|wind]]<br>Will blow these sands like Sibyl’s [[motifs/leaves\|leaves]] abroad,<br>And where’s our lesson then? Boy, what say you? |
+| YOUNG [[characters/lucius\|LUCIUS]] | I say, my lord, that if I were a man<br>Their mother’s bedchamber should not be safe<br>For these base bondmen to the yoke of Rome. |
+| MARCUS | Ay, that’s my boy! Thy father hath full oft<br>For his ungrateful country done the like. |
+| YOUNG [[characters/lucius\|LUCIUS]] | And, uncle, so will I, an if I live. |
+| TITUS | Come go with me into mine armoury.<br>[[characters/lucius\|Lucius]], I’ll fit thee; and withal, my boy,<br>Shall carry from me to the Empress’ sons<br>Presents that I intend to send them both.<br>Come, come, thou’lt do my message, wilt thou not? |
+| YOUNG [[characters/lucius\|LUCIUS]] | Ay, with my dagger in their bosoms, grandsire. |
+| TITUS | No, boy, not so. I’ll teach thee another course.<br>[[characters/lavinia\|Lavinia]], come. Marcus, look to my [[house]].<br>[[characters/lucius\|Lucius]] and I’ll go brave it at the [[settings/court\|court]].<br>Ay, marry, will we, sir, and we’ll be waited on. |
+| *(didascalia)* | Exeunt all but Marcus |
+| MARCUS | O heavens, can you hear a good man groan<br>And not relent, or not compassion him?<br>Marcus, attend him in his ecstasy,<br>That hath more scars of sorrow in his heart<br>Than foemen’s marks upon his battered shield,<br>But yet so just that he will not [[concepts/revenge\|revenge]].<br>[[concepts/revenge\|Revenge]] the heavens for old Andronicus! Exit |
+
+### Atto 4, Scena 2
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[characters/aaron\|Aaron]], Chiron, and [[characters/demetrius\|Demetrius]] at one door, and at the other door young [[characters/lucius\|Lucius]] and another with a bundle of weapons, and verses writ upon them |
+| CHIRON | [[characters/demetrius\|Demetrius]], here’s the son of [[characters/lucius\|Lucius]].<br>He hath some message to deliver us. |
+| [[characters/aaron\|AARON]] | Ay, some mad message from his mad grandfather. |
+| YOUNG [[characters/lucius\|LUCIUS]] | My lords, with all the humbleness I may<br>I greet your honours from Andronicus<br>(Aside) And pray the Roman gods confound you both. |
+| [[characters/demetrius\|DEMETRIUS]] | Gramercy, lovely [[characters/lucius\|Lucius]]. What’s the news? |
+| YOUNG [[characters/lucius\|LUCIUS]] | (aside)<br>That you are both deciphered, that’s the news,<br>For villains marked with rape. (Aloud) May it please<br>you,<br>My grandsire, [[motifs/well\|well]] advised, hath sent by me<br>The goodliest weapons of his armoury<br>To gratify your honourable youth,<br>The [[concepts/hope\|hope]] of Rome, for so he bid me say;<br>His attendant gives the weapons<br>And so I do, and with his gifts present<br>Your lordships that, whenever you have need,<br>You may be armed and appointed [[motifs/well\|well]];<br>And so I leave you both (aside) like bloody villains. |
+| *(didascalia)* | Exit with attendant |
+| [[characters/demetrius\|DEMETRIUS]] | What’s here—a scroll, and written round about?<br>Let’s see.<br>‘Integer vitae, scelerisque purus,<br><br>Non eget Mauri iaculis, nec arcu.’ |
+| CHIRON | O, ’tis a verse in Horace, I know it [[motifs/well\|well]].<br>I read it in the grammar long ago. |
+| [[characters/aaron\|AARON]] | Ay, just, a verse in Horace; right, you have it.<br>(Aside) Now what a thing it is to be an ass!<br>Here’s no sound jest. The old man hath found their<br>[[concepts/guilt\|guilt]],<br>And sends them weapons wrapped about with lines<br>That wound beyond their feeling to the quick.<br>But were our witty Empress [[motifs/well\|well]] afoot<br>She would applaud Andronicus’ conceit.<br>But let her rest in her unrest a while.<br>(To Chiron and [[characters/demetrius\|Demetrius]])<br><br>And now, young lords, was’t not a happy star<br>Led us to Rome, strangers and, more than so,<br>Captives, to be advanced to this height?<br>It did me good before the palace gate<br>To brave the Tribune in his brother’s hearing. |
+| [[characters/demetrius\|DEMETRIUS]] | But me more good to see so great a lord<br>Basely insinuate and send us gifts. |
+| [[characters/aaron\|AARON]] | Had he not reason, Lord [[characters/demetrius\|Demetrius]]?<br>Did you not use his daughter very friendly? |
+| [[characters/demetrius\|DEMETRIUS]] | I would we had a thousand Roman dames<br>At such a bay, by turn to serve our lust. |
+| CHIRON | A charitable wish, and full of [[motifs/love\|love]]. |
+| [[characters/aaron\|AARON]] | Here lacks but your mother for to say amen. |
+| CHIRON | And that would she, for twenty thousand more. |
+| [[characters/demetrius\|DEMETRIUS]] | Come, let us go and pray to all the gods<br>For our beloved mother in her pains. |
+| [[characters/aaron\|AARON]] | Pray to the devils; the gods have given us over. |
+| *(didascalia)* | Trumpets sound |
+| [[characters/demetrius\|DEMETRIUS]] | Why do the Emperor’s trumpets flourish thus? |
+| CHIRON | Belike for joy the Emperor hath a son. |
+| [[characters/demetrius\|DEMETRIUS]] | Soft, who comes here? |
+| *(didascalia)* | Enter [[characters/nurse\|Nurse]] with a blackamoor [[archetypes/child\|child]] |
+| [[characters/nurse\|NURSE]] | Good morrow, lords.<br>O tell me, did you see [[characters/aaron\|Aaron]] the Moor? |
+| [[characters/aaron\|AARON]] | [[motifs/well\|Well]], more or less, or ne’er a whit at all,<br>Here [[characters/aaron\|Aaron]] is; and what with [[characters/aaron\|Aaron]] now? |
+| [[characters/nurse\|NURSE]] | O gentle [[characters/aaron\|Aaron]], we are all undone.<br>Now help, or woe betide thee evermore! |
+| [[characters/aaron\|AARON]] | Why, what a caterwauling dost thou keep!<br>What dost thou wrap and fumble in thy arms? |
+| [[characters/nurse\|NURSE]] | O, that which I would hide from heaven’s eye,<br>Our Empress’ shame and stately Rome’s disgrace.<br>She is delivered, lords, she is delivered. |
+| [[characters/aaron\|AARON]] | To whom? |
+| [[characters/nurse\|NURSE]] | I mean she is brought abed. |
+| [[characters/aaron\|AARON]] | [[motifs/well\|Well]], God give her good rest. What hath he sent her? |
+| [[characters/nurse\|NURSE]] | A devil. |
+| [[characters/aaron\|AARON]] | Why then, she is the devil’s dam.<br>A joyful issue! |
+| [[characters/nurse\|NURSE]] | A joyless, dismal, black, and sorrowful issue.<br>Here is the babe, as loathsome as a toad<br>Amongst the fair-faced breeders of our clime.<br>The Empress sends it thee, thy stamp, thy seal,<br>And bids thee christen it with thy dagger’s point. |
+| [[characters/aaron\|AARON]] | Zounds, ye whore, is black so base a hue?<br>Sweet blowze, you are a beauteous blossom, sure. |
+| [[characters/demetrius\|DEMETRIUS]] | [[archetypes/villain\|Villain]], what hast thou done? |
+| [[characters/aaron\|AARON]] | That which thou canst not undo. |
+| CHIRON | Thou hast undone our mother. [[characters/aaron\|AARON]]<br>[[archetypes/villain\|Villain]], I have done thy mother. |
+| [[characters/demetrius\|DEMETRIUS]] | And therein, hellish dog, thou hast undone her.<br>Woe to her chance, and damned her loathed choice,<br>Accursed the offspring of so foul a fiend. |
+| CHIRON | It shall not live. |
+| [[characters/aaron\|AARON]] | It shall not die. |
+| [[characters/nurse\|NURSE]] | [[characters/aaron\|Aaron]], it must; the mother wills it so. |
+| [[characters/aaron\|AARON]] | What, must it, [[characters/nurse\|nurse]]? Then let no man but I<br>Do execution on my flesh and [[motifs/blood\|blood]]. |
+| [[characters/demetrius\|DEMETRIUS]] | I’ll broach the tadpole on my rapier’s point.<br>[[characters/nurse\|Nurse]], give it me. My [[Sword\|sword]] shall soon dispatch it. |
+| [[characters/aaron\|AARON]] | Sooner this [[Sword\|sword]] shall plough thy bowels up.<br>He takes the [[archetypes/child\|child]] and draws his [[Sword\|sword]]<br>Stay, murderous villains, will you kill your brother?<br>Now, by the burning tapers of the sky<br>That shone so brightly when this boy was got,<br>He dies upon my scimitar’s sharp point<br>That touches this, my first-born son and heir.<br>I tell you, younglings, not Enceladus<br>With all his threat’ning band of Typhon’s brood,<br>Nor great Alcides, nor the god of war<br>Shall seize this prey out of his father’s hands.<br>What, what, ye sanguine, shallow-hearted boys,<br>Ye whitelimed walls, ye alehouse painted signs,<br>Coal-black is better than another hue<br>In that it scorns to bear another hue;<br>For all the [[motifs/water\|water]] in the ocean<br>Can never turn the swan’s black legs to white,<br>Although she lave them hourly in the flood.<br>Tell the Empress from me I am of age<br>To keep mine own, excuse it how she can. |
+| [[characters/demetrius\|DEMETRIUS]] | Wilt thou betray thy noble mistress thus? |
+| [[characters/aaron\|AARON]] | My mistress is my mistress, this myself,<br>The figure and the picture of my youth.<br>This before all the world do I prefer;<br>This maugre all the world will I keep safe,<br>Or some of you shall smoke for it in Rome. no |
+| [[characters/demetrius\|DEMETRIUS]] | By this our mother is for ever shamed. |
+| CHIRON | Rome will despise her for this foul escape. |
+| [[characters/nurse\|NURSE]] | The Emperor in his rage will doom her [[motifs/death\|death]]. |
+| CHIRON | I blush to think upon this ignomy. |
+| [[characters/aaron\|AARON]] | Why, there’s the privilege your [[concepts/beauty\|beauty]] bears.<br>Fie, treacherous hue, that will betray with blushing<br>The close enacts and counsels of thy heart.<br>Here’s a young lad framed of another leer.<br>Look how the black slave smiles upon the father,<br>As who should say ‘Old lad, I am thine own.’<br>He is your brother, lords, sensibly fed<br>Of that [[concepts/self\|self]] [[motifs/blood\|blood]] that first gave life to you,<br>And from that womb where you imprisoned were<br>He is enfranchised and come to light.<br>Nay, he is your brother by the surer side,<br>Although my seal be stamped in his face. |
+| [[characters/nurse\|NURSE]] | [[characters/aaron\|Aaron]], what shall I say unto the Empress? |
+| [[characters/demetrius\|DEMETRIUS]] | Advise thee, [[characters/aaron\|Aaron]], what is to be done,<br>And we will all subscribe to thy advice.<br>Save thou the [[archetypes/child\|child]], so we may all be safe. |
+| [[characters/aaron\|AARON]] | Then sit we down, and let us all consult.<br>My son and I will have the [[motifs/wind\|wind]] of you.<br>Keep there; now talk at pleasure of your safety.<br>They sit |
+| [[characters/demetrius\|DEMETRIUS]] | (to the [[characters/nurse\|Nurse]])<br>How many women saw this [[archetypes/child\|child]] of his? |
+| [[characters/aaron\|AARON]] | Why, so, brave lords, when we do join in league<br>I am a [[motifs/lamb\|lamb]]; but if you brave the Moor,<br>The chafed boar, the mountain lioness,<br>The ocean swells not so as [[characters/aaron\|Aaron]] storms.<br>(To the [[characters/nurse\|Nurse]]) But say again, how many saw the<br>[[archetypes/child\|child]]? |
+| [[characters/nurse\|NURSE]] | Cornelia the midwife, and myself,<br>And no one else but the delivered Empress. |
+| [[characters/aaron\|AARON]] | The Empress, the midwife, and yourself.<br>Two may keep counsel when the third’s away.<br>Go to the Empress, tell her this I said.<br>He kills her<br>‘Wheak, wheak’—so cries a pig prepared to the spit. |
+| [[characters/demetrius\|DEMETRIUS]] | What mean’st thou, [[characters/aaron\|Aaron]]? Wherefore didst thou this? |
+| [[characters/aaron\|AARON]] | OLord, sir, ’tis a deed of policy.<br>Shall she live to betray this [[concepts/guilt\|guilt]] of ours—<br>A long-tongued, babbling gossip? No, lords, no.<br>And now be it known to you my full intent.<br>Not far, one Muliteus my countryman<br>His wife but yesternight was brought to bed.<br>His [[archetypes/child\|child]] is like to her, fair as you are.<br>Go pack with him, and give the mother gold,<br>And tell them both the circumstance of all,<br>And how by this their [[archetypes/child\|child]] shall be advanced<br>And be received for the Emperor’s heir,<br>And substituted in the place of mine,<br>To calm this tempest whirling in the [[settings/court\|court]];<br>And let the Emperor dandle him for his own.<br>Hark ye, lords, you see I have given her physic,<br>And you must needs bestow her funeral.<br>The fields are near, and you are gallant grooms.<br>This done, see that you take no longer days,<br>But send the midwife presently to me.<br>The midwife and the [[characters/nurse\|nurse]] [[motifs/well\|well]] made away,<br>Then let the ladies tattle what they please. |
+| CHIRON | [[characters/aaron\|Aaron]], I see thou wilt not trust the air<br>With [[motifs/secrets\|secrets]]. |
+| [[characters/demetrius\|DEMETRIUS]] | For this care of [[characters/tamora\|Tamora]],<br>Herself and hers are highly bound to thee. |
+| *(didascalia)* | Exeunt Chiron and [[characters/demetrius\|Demetrius]] with the [[characters/nurse\|Nurse]]’s [[concepts/body\|body]] |
+| [[characters/aaron\|AARON]] | Now to the Goths, as swift as [[motifs/swallow\|swallow]] flies,<br>There to dispose this treasure in mine arms<br>And secretly to greet the Empress’ friends.<br>Come on, you thick-lipped slave, I’ll bear you hence,<br>For it is you that puts us to our shifts.<br>I’ll make you feed on berries and on roots,<br>And fat on curds and whey, and suck the goat,<br>And cabin in a [[motifs/cave\|cave]], and bring you up<br>To be a warrior and command a camp. |
+| *(didascalia)* | Exit with the [[archetypes/child\|child]] |
+
+### Atto 4, Scena 3
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter Titus, old Marcus, his son Publius, young [[characters/lucius\|Lucius]], and other gentlemen ([[characters/sempronius\|Sempronius]], Caius) with bows; and Titus bears the arrows with letters on the ends of them |
+| TITUS | Come, Marcus, come; kinsmen, this is the way.<br>Sir boy, let me see your archery.<br>Look ye draw [[motifs/home\|home]] enough, and ‘tis there straight.<br>Terras Astraea reliquit.<br><br>Be you remembered, Marcus: she’s gone, she’s fled.<br>Sirs, take you to your tools. You, cousins, shall<br>Go sound the ocean and cast your nets.<br>Happily you may catch her in the sea;<br>Yet there’s as little justice as at land.<br>No, Publius and [[characters/sempronius\|Sempronius]], you must do it.<br>’Tis you must dig with mattock and with spade<br>And pierce the inmost centre of the earth.<br>Then, when you come to Pluto’s region,<br>I pray you deliver him this petition.<br>Tell him it is for justice and for aid,<br>And that it comes from old Andronicus,<br>Shaken with sorrows in ungrateful Rome.<br>Ah, Rome! [[motifs/well\|Well]], [[motifs/well\|well]], I made thee miserable<br>What [[motifs/time\|time]] I threw the people’s suffrages<br>On him that thus doth tyrannize o’er me.<br>Go, get you gone, and pray be careful all,<br>And leave you not a man-of-war unsearched.<br>This wicked Emperor may have shipped her hence,<br>And, kinsmen, then we may go pipe for justice. |
+| MARCUS | O, Publius, is not this a heavy case,<br>To see thy noble uncle thus distraught? |
+| PUBLIUS | Therefore, my lords, it highly us concerns<br>By day and [[motifs/night\|night]] t’attend him carefully<br>And feed his [[Humour\|humour]] kindly as we may,<br>Till [[motifs/time\|time]] beget some careful remedy. |
+| MARCUS | Kinsmen, his sorrows are past remedy, |
+| *(didascalia)* | But |
+| MARCUS | Join with the Goths, and with revengeful war<br>Take wreak on Rome for this ingratitude,<br>And vengeance on the traitor Saturnine. |
+| TITUS | Publius, how now? How now, my masters?<br>What, have you met with her? |
+| PUBLIUS | No, my good lord, but Pluto sends you word<br>If you will have [[concepts/revenge\|Revenge]] from hell, you shall.<br>Marry, for Justice, she is now employed,<br>He thinks, with Jove, in heaven or somewhere else,<br>So that perforce you must needs stay a [[motifs/time\|time]]. |
+| TITUS | He doth me wrong to feed me with delays.<br>I’ll dive into the burning lake below<br>And pull her out of Acheron by the heels.<br>Marcus, we are but shrubs, no cedars we,<br>No big-boned men framed of the Cyclops’ size,<br>But metal, Marcus, steel to the very back,<br>Yet wrung with wrongs more than our backs can<br>bear;<br>And sith there’s no justice in earth nor hell,<br>We will solicit heaven and move the gods<br>To send down Justice for to wreak our wrongs.<br>Come, to this gear. You are a good archer, Marcus.<br>He gives them the arrows<br>‘Ad Iovem’, that’s for you. Here, ’ad Apollinem’.<br><br>‘Ad Martem’, that’s for myself. 55<br>Here, boy, ‘to Pallas’. Here ‘to Mercury’.<br>‘To [[characters/saturn\|Saturn]]’, Caius—not ‘to Saturnine’)<br>You were as good to shoot against the [[motifs/wind\|wind]].<br>To it, boy! Marcus, loose when I bid.<br>Of my word, I have written to effect.<br>There’s not a god left unsolicited. |
+| MARCUS | Kinsmen, shoot all your shafts into the [[settings/court\|court]].<br>We will afflict the Emperor in his [[concepts/pride\|pride]]. |
+| TITUS | Now, masters, draw.<br>They shoot<br>O, [[motifs/well\|well]] said, [[characters/lucius\|Lucius]]!<br>Good boy, in Virgo’s lap ! Give it Pallas. |
+| MARCUS | My lord, I aim a mile beyond the [[motifs/moon\|moon]].<br>Your letter is with Jupiter by this. |
+| TITUS | Ha, ha! Publius, Publius, what hast thou done?<br>See, see, thou hast shot off one of Taurus’ horns. |
+| MARCUS | This was the sport, my lord. When Publius shot,<br>The Bull, being galled, gave Aries such a knock<br>That down fell both the Ram’s horns in the [[settings/court\|court]],<br>And who should find them but the Empress’ [[archetypes/villain\|villain]]!<br>She laughed, and told the Moor he should not choose<br>But give them to his master for a present. |
+| TITUS | Why, there it goes. God give his lordship joy. |
+| *(didascalia)* | Enter the Clown with a basket and two pigeons in it |
+| TITUS | News, news from heaven; Marcus, the post is come.<br>Sirrah, what tidings? Have you any letters?<br>Shall I have justice? What says Jupiter? |
+| CLOWN | Ho, the gibbet-maker? He says that he hath taken them down again, for the man must not be hanged till the next week. |
+| TITUS | But what says Jupiter, I ask thee? |
+| CLOWN | Alas, sir, I know not ‘Jupiter’. I never drank with him in all my life. |
+| TITUS | Why, [[archetypes/villain\|villain]], art not thou the carrier? |
+| CLOWN | Ay, of my pigeons, sir; nothing else. |
+| TITUS | Why, didst thou not come from heaven? |
+| CLOWN | From heaven? Alas, sir, I never came there. God forbid I should be so bold to press to heaven in my young days. Why, I am going with my pigeons to the tribunal plebs to take up a matter of brawl betwixt my uncle and one of the Emperal’s men. |
+| TITUS | Sirrah, come hither. Make no more ado,<br>But give your pigeons to the Emperor.<br>By me thou shalt have justice at his hands.<br>Hold, hold—(giving money) meanwhile, here’s money<br>for thy charges.<br>Give me pen and ink. Sirrah, can you with a grace<br>Deliver up a supplication? |
+| CLOWN | Ay, sir. |
+| TITUS | (writing and giving the Clown a paper) Then here is a supplication for you, and when you come to him, at the first approach you must kneel, then kiss his foot, then deliver up your pigeons, and then look for your reward. I’ll be at hand, sir; see you do it bravely. CLOWN I warrant you, sir. Let me [[Alone\|alone]]. |
+| TITUS | Sirrah, hast thou a knife? Come, let me see it.<br>Here, Marcus, fold it in the oration,<br>For thou hast made it like an humble suppliant.<br>And when thou hast given it to the Emperor,<br>Knock at my door and tell me what he says. |
+| CLOWN | God be with you, sir. I will. Exit |
+| TITUS | Come, Marcus, let us go. Publius, follow me. Exeunt |
+
+### Atto 4, Scena 4
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[characters/saturninus\|Saturninus]], the Emperor, and [[characters/tamora\|Tamora]], the Empress, and Chiron and [[characters/demetrius\|Demetrius]], her two sons, and others. The Emperor brings the arrows in his hand that Titus shot at him |
+| [[characters/saturninus\|SATURNINUS]] | Why, lords, what wrongs are these! Was ever seen<br>An emperor in Rome thus overborne,<br>Troubled, confronted thus, and for the extent<br>Of egall justice used in such contempt?<br>My lords, you know, as know the mightful gods,<br>However these disturbers of our peace<br>Buzz in the people’s ears, there naught hath passed<br>But even with law against the wilful sons<br>Of old Andronicus. And what an if<br>His sorrows have so overwhelmed his wits?<br>Shall we be thus afflicted in his wreaks,<br>His fits, his frenzy, and his bitterness?<br>And now he writes to heaven for his redress.<br>See, here’s ‘to Jove’ and this ‘to Mercury’,<br>This ‘to [[characters/apollo\|Apollo]]’, this ‘to the god of war’—<br>Sweet scrolls to fly about the streets of Rome!<br>What’s this but libelling against the Senate<br>And blazoning our unjustice everywhere?<br>A goodly [[Humour\|humour]], is it not, my lords?—<br>As who would say, in Rome no justice were.<br>But, if I live, his feigned ecstasies<br>Shall be no shelter to these outrages,<br>But he and his shall know that justice lives<br>In [[characters/saturninus\|Saturninus]]’ health, whom if he [[motifs/sleep\|sleep]]<br>He’ll so awake as he in fury shall<br>Cut off the proud’st conspirator that lives. |
+| [[characters/tamora\|TAMORA]] | My gracious lord, my lovely Saturnine,<br>Lord of my life, commander of my thoughts,<br>Calm thee, and bear the faults of Titus’ age,<br>Th’effects of sorrow for his valiant sons<br>Whose loss hath pierced him deep and scarred his<br>heart;<br>And rather comfort his distressed plight<br>Than prosecute the meanest or the best<br>For these contempts. (Aside) Why, thus it shall become<br>High-witted [[characters/tamora\|Tamora]] to gloze with all.<br>But, Titus, I have touched thee to the quick.<br>Thy life [[motifs/blood\|blood]] out if [[characters/aaron\|Aaron]] now be wise,<br>Then is all safe, the anchor in the port. |
+| *(didascalia)* | Enter Clown |
+| [[characters/tamora\|TAMORA]] | How now, good fellow, wouldst thou speak with us? |
+| CLOWN | Yea, forsooth, an your mistress-[[motifs/ship\|ship]] be Emperial. |
+| [[characters/tamora\|TAMORA]] | Empress I am, but yonder sits the Emperor. |
+| CLOWN | ’Tis he. God and Saint Stephen give you good-e’ en. I have brought you a letter and a couple of pigeons here.<br>[[characters/saturninus\|Saturninus]] reads the letter |
+| [[characters/saturninus\|SATURNINUS]] | (to an attendant)<br>Go, take him away, and hang him presently. |
+| CLOWN | How much money must I have? |
+| [[characters/tamora\|TAMORA]] | Come, sirrah, you must be hanged. |
+| *(didascalia)* | CLOWN Hanged, by’ Lady? Then I have brought up a neck to a fair end. Exit with attendant |
+| [[characters/saturninus\|SATURNINUS]] | Despiteful and intolerable wrongs!<br>Shall I endure this monstrous villainy?<br>I know from whence this same device proceeds.<br>May this be borne?-As if his traitorous sons,<br>That died by law for murder of our brother,<br>Have by my means been butchered wrongfully!<br>Go, drag the [[archetypes/villain\|villain]] hither by the hair.<br>Nor age nor [[concepts/honour\|honour]] shall shape privilege.<br>For this proud mock I’ll be thy slaughterman,<br>Sly frantic wretch, that holp’st to make me great<br>In [[concepts/hope\|hope]] thyself should govern Rome and me. |
+| *(didascalia)* | Enter Aemilius, a messenger |
+| [[characters/saturninus\|SATURNINUS]] | What news with thee, Aemilius? |
+| AEMILIUS | Arm, my lords! Rome never had more cause.<br>The Goths have gathered head, and with a power<br>Of high-resolvèd men bent to the spoil<br>They hither march amain under conduct<br>Of [[characters/lucius\|Lucius]], son to old Andronicus,<br>Who threats in course of this [[concepts/revenge\|revenge]] to do<br>As much as ever [[characters/coriolanus\|Coriolanus]] did. |
+| [[characters/saturninus\|SATURNINUS]] | Is warlike [[characters/lucius\|Lucius]] general of the Goths?<br>These tidings nip me, and I hang the head,<br>As [[motifs/flowers\|flowers]] with [[motifs/frost\|frost]], or grass beat down with storms.<br>Ay, now begins our sorrows to approach.<br>’Tis he the common people [[motifs/love\|love]] so much.<br>Myself hath often heard them say,<br>When I have walked like a private man,<br>That [[characters/lucius\|Lucius]]’ banishment was wrongfully,<br>And they have wished that [[characters/lucius\|Lucius]] were their emperor. |
+| [[characters/tamora\|TAMORA]] | Why should you [[concepts/fear\|fear]]? Is not your [[motifs/city\|city]] strong? |
+| [[characters/saturninus\|SATURNINUS]] | Ay, but the citizens favour [[characters/lucius\|Lucius]],<br>And will revolt from me to succour him. |
+| [[characters/tamora\|TAMORA]] | [[archetypes/king\|King]], be thy thoughts imperious like thy name.<br>Is the sun dimmed, that gnats do fly in it?<br>The eagle suffers little [[motifs/birds\|birds]] to sing,<br>And is not careful what they mean thereby,<br>Knowing that with the [[archetypes/shadow\|shadow]] of his wings<br>He can at pleasure stint their melody.<br>Even so mayst thou the giddy men of Rome.<br>Then cheer thy spirit; for know thou, Emperor,<br>I will enchant the old Andronicus<br>With words more sweet and yet more dangerous<br>Than baits to fish or honey-stalks to sheep<br>Whenas the one is wounded with the bait,<br>The other rotted with delicious feed. |
+| [[characters/saturninus\|SATURNINUS]] | But he will not entreat his son for us. |
+| [[characters/tamora\|TAMORA]] | If [[characters/tamora\|Tamora]] entreat him, then he will,<br>For I can smooth and fill his aged ears<br>With golden promises that, were his heart<br>Almost impregnable, his old ears deaf,<br>Yet should both ear and heart obey my tongue.<br>(To Aemilius) Go thou before to be our ambassador.<br>Say that the Emperor requests a parley<br>Of warlike [[characters/lucius\|Lucius]], and appoint the meeting<br>Even at his father’s [[house]], the old Andronicus. |
+| [[characters/saturninus\|SATURNINUS]] | Aemilius, do this message honourably,<br>And if he stand on hostage for his safety,<br>Bid him demand what pledge will please him best. |
+| AEMILIUS | Your bidding shall I do effectually. Exit |
+| [[characters/tamora\|TAMORA]] | Now will I to that old Andronicus,<br>And temper him with all the art I have<br>To pluck proud [[characters/lucius\|Lucius]] from the warlike Goths.<br>And now, sweet Emperor, be blithe again,<br>And bury all thy [[concepts/fear\|fear]] in my devices. |
+| [[characters/saturninus\|SATURNINUS]] | Then go incessantly, and plead to him. |
+| *(didascalia)* | Exeunt severally |
+
+### Atto 5, Scena 1
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Flourish. |
+| *(didascalia)* | Enter [[characters/lucius\|Lucius]] with an army of Goths, with drummers and soldiers |
+| [[characters/lucius\|LUCIUS]] | Approved warriors and my faithful friends,<br>I have received letters from great Rome<br>Which signifies what hate they bear their emperor<br>And how desirous of our sight they are.<br>Therefore, great lords, be as your titles witness,<br>Imperious, and impatient of your wrongs,<br>And wherein Rome hath done you any scath<br>Let him make treble satisfaction.<br>A GOTH<br>Brave slip sprung from the great Andronicus,<br>Whose name was once our terror, now our comfort,<br>Whose high exploits and honourable deeds<br>Ingrateful Rome requites with foul contempt,<br>Be bold in us. We’ll follow where thou lead’st,<br>Like stinging [[motifs/bees\|bees]] in hottest [[motifs/summer\|summer]]’s day<br>Led by their master to the flowered fields,<br>And be avenged on cursed [[characters/tamora\|Tamora]]. |
+| GOTHS | And as he saith, so say we all with him. |
+| [[characters/lucius\|LUCIUS]] | I humbly thank him, and I thank you all.<br>But who comes here, led by a lusty Goth? |
+| *(didascalia)* | Enter a Goth, leading of [[characters/aaron\|Aaron]] with his [[archetypes/child\|child]] in his |
+| [[characters/lucius\|LUCIUS]] | arms |
+| GOTH | Renowned [[characters/lucius\|Lucius]], from our troops I strayed<br>To gaze upon a ruinous monastery,<br>And as I earnestly did fix mine eye<br>Upon the wasted building, suddenly<br>I heard a [[archetypes/child\|child]] cry underneath a wall.<br>I made unto the noise, when soon I heard<br>The crying babe controlled with this discourse:<br>‘Peace, tawny slave, half me and half thy dam!<br>Did not thy hue bewray whose brat thou art,<br>Had [[concepts/nature\|nature]] lent thee but thy mother’s look,<br>[[archetypes/villain\|Villain]], thou mightst have been an emperor.<br>But where the bull and cow are both milk-white<br>They never do beget a coal-black calf.<br>Peace, [[archetypes/villain\|villain]], peace!’—even thus he rates the babe—<br>‘For I must bear thee to a trusty Goth<br>Who, when he knows thou art the Empress’ babe,<br>Will hold thee dearly for thy mother’s sake.’<br>With this, my weapon drawn, I rushed upon him,<br>Surprised him suddenly, and brought him hither<br>To use as you think needful of the man. |
+| [[characters/lucius\|LUCIUS]] | O worthy Goth, this is the incarnate devil<br>That robbed Andronicus of his good hand.<br>This is the pearl that pleased your Empress’ eye,<br>And here’s the base fruit of her burning lust.<br>(To [[characters/aaron\|Aaron]]) Say, wall-eyed slave, whither wouldst thou<br>convey<br>This growing image of thy fiendlike face?<br>Why dost not speak? What, deaf? What, not a word?<br>A halter, soldiers! Hang him on this tree,<br>And by his side his fruit of bastardy. |
+| [[characters/aaron\|AARON]] | Touch not the boy; he is of royal [[motifs/blood\|blood]]. |
+| [[characters/lucius\|LUCIUS]] | Too like the sire for ever being good.<br>First hang the [[archetypes/child\|child]], that he may see it sprawl—<br>A sight to vex the father’s [[motifs/soul\|soul]] withal.<br>Get me a ladder. |
+| *(didascalia)* | A Goth brings a ladder which [[characters/aaron\|Aaron]] climbs |
+| [[characters/aaron\|AARON]] | [[characters/lucius\|Lucius]], save the [[archetypes/child\|child]],<br>And bear it from me to the Empress.<br>If thou do this, I’ll show thee wondrous things<br>That highly may advantage thee to hear.<br>If thou wilt not, befall what may befall,<br>I’ll speak no more but ‘Vengeance rot you all!’ |
+| [[characters/lucius\|LUCIUS]] | Say on, and if it please me which thou speak’st<br>Thy [[archetypes/child\|child]] shall live, and I will see it nourished. |
+| [[characters/aaron\|AARON]] | And if it please thee? Why, assure thee, [[characters/lucius\|Lucius]],<br>’Twill vex thy [[motifs/soul\|soul]] to hear what I shall speak;<br>For I must talk of murders, rapes, and massacres,<br>Acts of black [[motifs/night\|night]], abominable deeds,<br>Complots of mischief, treason, villainies<br>Ruthful to hear yet piteously performed,<br>And this shall all be buried in my [[motifs/death\|death]]<br>Unless thou swear to me my [[archetypes/child\|child]] shall live. |
+| [[characters/lucius\|LUCIUS]] | Tell on thy mind. I say thy [[archetypes/child\|child]] shall live. |
+| [[characters/aaron\|AARON]] | Swear that he shall, and then I will begin. |
+| [[characters/lucius\|LUCIUS]] | Who should I swear by? Thou believest no god.<br>That granted, how canst thou believe an oath? |
+| [[characters/aaron\|AARON]] | What if I do not?—as indeed I do not—<br>Yet for I know thou art religious<br>And hast a thing within thee called [[concepts/conscience\|conscience]],<br>With twenty popish tricks and ceremonies<br>Which I have seen thee careful to observe,<br>Therefore I urge thy oath; for that I know<br>An idiot holds his bauble for a god,<br>And keeps the oath which by that god he swears,<br>To that I’ll urge him, therefore thou shalt vow<br>By that same god, what god soe’er it be,<br>That thou adorest and hast in reverence,<br>To save my boy, to [[characters/nurse\|nurse]] and bring him up,<br>Or else I will discover naught to thee. |
+| [[characters/lucius\|LUCIUS]] | Even by my god I swear to thee I will. |
+| [[characters/aaron\|AARON]] | First know thou I begot him on the Empress. |
+| LUCIIJS | O most insatiate and luxurious woman! |
+| [[characters/aaron\|AARON]] | Tut, [[characters/lucius\|Lucius]], this was but a deed of [[concepts/charity\|charity]]<br>To that which thou shalt hear of me anon.<br>’Twas her two sons that murdered [[characters/bassianus\|Bassianus]].<br>They cut thy sister’s tongue, and ravished her,<br>And cut her hands, and trimmed her as thou sawest. |
+| [[characters/lucius\|LUCIUS]] | O detestable [[archetypes/villain\|villain]]! Call’st thou that trimming? |
+| [[characters/aaron\|AARON]] | Why, she was washed and cut and trimmed, and ’twas<br>Trim sport for them which had the doing of it. |
+| [[characters/lucius\|LUCIUS]] | O barbarous beastly villains, like thyself! |
+| [[characters/aaron\|AARON]] | Indeed, I was their tutor to instruct them.<br>That codding spirit had they from their mother,<br>As sure a card as ever won the set.<br>That bloody mind I think they learned of me,<br>As true a dog as ever fought at head.<br>[[motifs/well\|Well]], let my deeds be witness of my worth.<br>I trained thy brethren to that guileful hole<br>Where the dead corpse of [[characters/bassianus\|Bassianus]] lay.<br>I wrote the letter that thy father found,<br>And hid the gold within that letter mentioned,<br>Confederate with the [[characters/queen\|Queen]] and her two sons;<br>And what not done that thou hast cause to rue<br>Wherein I had no stroke of mischief in it?<br>I played the cheater for thy father’s hand,<br>And when I had it drew myself apart,<br>And almost broke my heart with extreme laughter.<br>I pried me through the crevice of a wall<br>When for his hand he had his two sons’ heads,<br>Beheld his [[motifs/tears\|tears]], and laughed so heartily<br>That both mine eyes were rainy like to his;<br>And when I told the Empress of this sport<br>She swoonèd almost at my pleasing tale,<br>And for my tidings gave me twenty kisses.<br>A GOTH<br>What, canst thou say all this and never blush? |
+| [[characters/aaron\|AARON]] | Ay, like a black dog, as the saying is. |
+| [[characters/lucius\|LUCIUS]] | Art thou not sorry for these heinous deeds? |
+| [[characters/aaron\|AARON]] | Ay, that I had not done a thousand more.<br>Even now I curse the day—and yet I think<br>Few come within the compass of my curse—<br>Wherein I did not some notorious ill,<br>As kill a man, or else devise his [[motifs/death\|death]];<br>Ravish a maid, or plot the way to do it;<br>Accuse some [[archetypes/innocent\|innocent]] and forswear myself;<br>Set deadly enmity between two friends;<br>Make poor men’s cattle break their necks;<br>Set [[motifs/fire\|fire]] on barns and haystacks in the [[motifs/night\|night]],<br>And bid the owners quench them with their [[motifs/tears\|tears]].<br>Oft have I digged up dead men from their graves<br>And set them upright at their dear friends’ door,<br>Even when their sorrows almost was forgot,<br>And on their skins, as on the bark of trees,<br>Have with my knife carved in Roman letters<br>‘Let not your sorrow die though I am dead.’<br>But I have done a thousand dreadful things<br>As willingly as one would kill a fly,<br>And nothing grieves me heartily indeed<br>But that I cannot do ten thousand more. |
+| [[characters/lucius\|LUCIUS]] | Bring down the devil, for he must not die<br>So sweet a [[motifs/death\|death]] as hanging presently.<br>Goths bring [[characters/aaron\|Aaron]] down the ladder |
+| [[characters/aaron\|AARON]] | If there be devils, would I were a devil,<br>To live and burn in everlasting [[motifs/fire\|fire]],<br>So I might have your company in hell<br>But to torment you with my bitter tongue. |
+| [[characters/lucius\|LUCIUS]] | Sirs, stop his mouth, and let him speak no more.<br>Goths gag [[characters/aaron\|Aaron]]. |
+| *(didascalia)* | Enter Aemilius |
+| [[characters/lucius\|LUCIUS]] | A GOTH<br>My lord, there is a messenger from Rome<br>Desires to be admitted to your presence. |
+| [[characters/lucius\|LUCIUS]] | Let him come near.<br>Welcome, Aemilius. What’s the news from Rome? |
+| AEMILIUS | Lord [[characters/lucius\|Lucius]], and you princes of the Goths,<br>The Roman Emperor greets you all by me,<br>And for he understands you are in arms,<br>He craves a parley at your father’s [[house]],<br>Willing you to demand your hostages,<br>And they shall be immediately delivered.<br>A GOTH What says our general? |
+| [[characters/lucius\|LUCIUS]] | Aemilius, let the Emperor give his pledges<br>Unto my father and my uncle Marcus,<br>And we will come. Away! |
+| *(didascalia)* | Flourish. Exeunt marching |
+
+### Atto 5, Scena 2
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[characters/tamora\|Tamora]] and Chiron and [[characters/demetrius\|Demetrius]], her two sons, disguised |
+| [[characters/tamora\|TAMORA]] | Thus, in this strange and sad habiliment,<br>I will encounter with Andronicus<br>And say I am [[concepts/revenge\|Revenge]], sent from below<br>To join with him and right his heinous wrongs.<br>Knock at his study, where they say he keeps<br>To ruminate strange plots of dire [[concepts/revenge\|revenge]].<br>Tell him [[concepts/revenge\|Revenge]] is come to join with him<br>And work confusion on his enemies. |
+| *(didascalia)* | They knock, and Titus aloft opens his study door |
+| TITUS | Who doth molest my contemplation?<br>Is it your trick to make me ope the door,<br>That so my sad decrees may fly away<br>And all my study be to no effect?<br>You are deceived; for what I mean to do,<br>See here, in bloody lines I have set down,<br>And what is written shall be executed. |
+| [[characters/tamora\|TAMORA]] | Titus, I am come to talk with thee. |
+| TITUS | No, not a word. How can I grace my talk,<br>Wanting a hand to give it action?<br>Thou hast the odds of me, therefore no more. |
+| [[characters/tamora\|TAMORA]] | If thou didst know me thou wouldst talk with me. |
+| TITUS | I am not mad, I know thee [[motifs/well\|well]] enough;<br>Witness this wretched stump, witness these crimson<br>lines,<br>Witness these trenches made by grief and care,<br>Witness the tiring day and heavy [[motifs/night\|night]],<br>Witness all sorrow that I know thee [[motifs/well\|well]]<br>For our proud empress, mighty [[characters/tamora\|Tamora]].<br>Is not thy coming for my other hand? |
+| [[characters/tamora\|TAMORA]] | Know, thou sad man, I am not [[characters/tamora\|Tamora]].<br>She is thy enemy, and I thy friend.<br>I am [[concepts/revenge\|Revenge]], sent from th’nfernal kingdom<br>To ease the gnawing vulture of thy mind<br>By working wreakful vengeance on thy foes.<br>Come down, and welcome me to this world’s light.<br>Confer with me of murder and of [[motifs/death\|death]].<br>There’s not a hollow [[motifs/cave\|cave]] or lurking-place,<br>No vast obscurity or misty vale<br>Where bloody murder or detested rape<br>Can couch for [[concepts/fear\|fear]], but I will find them out,<br>And in their ears tell them my dreadful name,<br>[[concepts/revenge\|Revenge]], which makes the foul offender quake. |
+| TITUS | Art thou [[concepts/revenge\|Revenge]], and art thou sent to me<br>To be a torment to mine enemies? |
+| [[characters/tamora\|TAMORA]] | I am; therefore come down, and welcome me. |
+| TITUS | Do me some service ere I come to thee.<br>Lo by thy side where Rape and Murder stands.<br>Now give some surance that thou art [[concepts/revenge\|Revenge]],<br>Stab them, or tear them on thy chariot wheels,<br>And then I’ll come and be thy wagoner,<br>And whirl along with thee about the globe,<br>Provide two proper palfreys, black as jet,<br>To hale thy vengeful wagon swift away<br>And find out murderers in their guilty caves.<br>And when thy car is loaden with their heads<br>I will dismount, and by thy wagon [[motifs/wheel\|wheel]]<br>Trot like a servile footman all day long,<br>Even from [[characters/hyperion\|Hyperion]]’s rising in the east<br>Until his very downfall in the sea;<br>And day by day I’ll do this heavy task,<br>So thou destroy Rapine and Murder there. |
+| [[characters/tamora\|TAMORA]] | These are my ministers, and come with me. |
+| TITUS | Are they thy ministers? What are they called? |
+| [[characters/tamora\|TAMORA]] | Rape and Murder, therefore called so<br>‘Cause they take vengeance of such kind of men. |
+| TITUS | Good Lord, how like the Empress’ sons they are,<br>And you the Empress! But we worldly men<br>Have miserable, mad, mistaking eyes.<br>O sweet [[concepts/revenge\|Revenge]], now do I come to thee,<br>And if one arm’s embracement will content thee, |
+| *(didascalia)* | I will embrace thee in it by and by. Exit aloft |
+| [[characters/tamora\|TAMORA]] | This closing with him fits his lunacy.<br>Whate’er I forge to feed his brainsick humours<br>Do you uphold and maintain in your speeches,<br>For now he firmly takes me for [[concepts/revenge\|Revenge]],<br>And being credulous in this mad thought<br>I’ll make him send for [[characters/lucius\|Lucius]] his son,<br>And whilst I at a banquet hold him sure<br>I’ll find some cunning practice out of hand<br>To scatter and disperse the giddy Goths,<br>Or at the least make them his enemies.<br>See, here he comes, and I must ply my theme. |
+| *(didascalia)* | Enter Titus, below |
+| TITUS | Long have I been forlorn, and all for thee.<br>Welcome, dread Fury, to my woeful [[house]].<br>Rapine and Murder, you are welcome, too.<br>How like the Empress and her sons you are!<br>[[motifs/well\|Well]] are you fitted, had you but a Moor.<br>Could not all hell afford you such a devil?—<br>For [[motifs/well\|well]] I wot the Empress never wags<br>But in her company there is a Moor,<br>And would you represent our [[characters/queen\|Queen]] aright<br>It were convenient you had such a devil.<br>But welcome as you are. What shall we do? |
+| [[characters/tamora\|TAMORA]] | What wouldst thou have us do, Andronicus? |
+| [[characters/demetrius\|DEMETRIUS]] | Show me a murderer, I’ll deal with him. |
+| CHIRON | Show me a [[archetypes/villain\|villain]] that hath done a rape,<br>And I am sent to be revenged on him. |
+| [[characters/tamora\|TAMORA]] | Show me a thousand that hath done thee wrong,<br>And I will be revenged on them all. |
+| TITUS | (to [[characters/demetrius\|Demetrius]])<br>Look round about the wicked streets of Rome,<br>And when thou find’st a man that’s like thyself,<br>Good Murder, stab him; he’s a murderer.<br>(To Chiron) Go thou with him, and when it is thy hap<br>To find another that is like to thee,<br>Good Rapine, stab him; he is a ravisher.<br>(To [[characters/tamora\|Tamora]]) Go thou with them, and in the Emperor’s<br>[[settings/court\|court]]<br>There is a [[characters/queen\|queen]] attended by a Moor.<br>[[motifs/well\|Well]] shalt thou know her by thine own proportion,<br>For up and down she doth resemble thee.<br>I pray thee, do on them some violent [[motifs/death\|death]];<br>They have been violent to me and mine. |
+| [[characters/tamora\|TAMORA]] | [[motifs/well\|Well]] hast thou lessoned us. This shall we do;<br>But would it please thee, good Andronicus,<br>To send for [[characters/lucius\|Lucius]], thy thrice-valiant son,<br>Who leads towards Rome a band of warlike Goths,<br>And bid him come and banquet at thy [[house]]—<br>When he is here, even at thy solemn feast,<br>I will bring in the Empress and her sons,<br>The Emperor himself, and all thy foes,<br>And at thy [[concepts/mercy\|mercy]] shall they stoop and kneel,<br>And on them shalt thou ease thy angry heart.<br>What says Andronicus to this device? |
+| TITUS | Marcus, my brother! ’Tis sad Titus calls. |
+| *(didascalia)* | Enter Marcus |
+| TITUS | Go, gentle Marcus, to thy nephew [[characters/lucius\|Lucius]].<br>Thou shalt enquire him out among the Goths.<br>Bid him repair to me, and bring with him<br>Some of the chiefest princes of the Goths.<br>Bid him encamp his soldiers where they are.<br>Tell him the Emperor and the Empress too<br>Feast at my [[house]], and he shall feast with them.<br>This do thou for my [[motifs/love\|love]], and so let him,<br>As he regards his aged father’s life. |
+| MARCUS | This will I do, and soon return again. Exit |
+| [[characters/tamora\|TAMORA]] | Now will I hence about thy business,<br>And take my ministers along with me. |
+| TITUS | Nay, nay, let Rape and Murder stay with me,<br>Or else I’ll call my brother back again,<br>And cleave to no [[concepts/revenge\|revenge]] but [[characters/lucius\|Lucius]]. |
+| [[characters/tamora\|TAMORA]] | (aside to her sons)<br>What say you, boys, will you abide with him<br>Whiles I go tell my lord the Emperor<br>How I have governed our determined jest?<br>Yield to his [[Humour\|humour]], smooth and speak him fair,<br>And tarry with him till I turn again. |
+| TITUS | (aside)<br>I knew them all, though they supposed me mad,<br>And will o’erreach them in their own devices—<br>A pair of cursed hell-hounds and their dam. |
+| [[characters/demetrius\|DEMETRIUS]] | Madam, depart at pleasure. Leave us here. |
+| [[characters/tamora\|TAMORA]] | Farewell, Andronicus. [[concepts/revenge\|Revenge]] now goes<br>To lay a complot to betray thy foes. |
+| TITUS | I know thou dost, and sweet [[concepts/revenge\|Revenge]], farewell. |
+| *(didascalia)* | Exit [[characters/tamora\|Tamora]] |
+| CHIRON | Tell us, old man, how shall we be employed? |
+| TITUS | Tut, I have work enough for you to do.<br>Publius, come hither; Caius and [[characters/valentine\|Valentine]]. |
+| *(didascalia)* | Enter Publius, Caius, and [[characters/valentine\|Valentine]] |
+| PUBLIUS | What is your will? |
+| TITUS | Know you these two? |
+| PUBLIUS | The Empress’ sons I take them—Chiron, [[characters/demetrius\|Demetrius]]. |
+| TITUS | Fie, Publius, fie! Thou art too much deceived.<br>The one is Murder, and Rape is the other’s name.<br>And therefore bind them, gentle Publius;<br>Caius and [[characters/valentine\|Valentine]], lay hands on them.<br>Oft have you heard me wish for such an hour,<br>And now I find it. Therefore bind them sure,<br>And stop their mouths if they begin to cry. Exit |
+| CHIRON | Villains, forbear! We are the Empress’ sons. |
+| PUBLIUS | And therefore do we what we are commanded.<br>Publius, Caius, and [[characters/valentine\|Valentine]] bind and gag Chiron<br><br>and [[characters/demetrius\|Demetrius]]<br>Stop close their mouths. Let them not speak a word.<br>Is he sure bound? Look that you bind them fast. |
+| *(didascalia)* | Enter [[characters/titus-andronicus\|Titus Andronicus]] with a knife, and [[characters/lavinia\|Lavinia]] |
+| PUBLIUS | with a basin |
+| TITUS | Come, come, [[characters/lavinia\|Lavinia]]. Look, thy foes are bound.<br>Sirs, stop their mouths. Let them not speak to me,<br>But let them hear what fearful words I utter.<br>O villains, Chiron and [[characters/demetrius\|Demetrius]]!<br>Here stands the [[motifs/spring\|spring]] whom you have stained with<br>mud,<br>This goodly [[motifs/summer\|summer]] with your [[motifs/winter\|winter]] mixed.<br>You killed her husband, and for that vile fault<br>Two of her brothers were condemned to [[motifs/death\|death]],<br>My hand cut off and made a merry jest,<br>Both her sweet hands, her tongue, and that more<br>dear<br>Than hands or tongue, her spotless chastity,<br>Inhuman traitors, you constrained and forced.<br>What would you say if I should let you speak?<br>Villains, for shame. You could not beg for grace.<br>Hark, wretches, how I mean to martyr you.<br>This one hand yet is left to cut your throats,<br>Whiles that [[characters/lavinia\|Lavinia]] ’tween her stumps doth hold<br>The basin that receives your guilty [[motifs/blood\|blood]].<br>You know your mother means to feast with me,<br>And calls herself [[concepts/revenge\|Revenge]], and thinks me mad.<br>Hark, villains, I will grind your bones to [[motifs/dust\|dust]],<br>And with your [[motifs/blood\|blood]] and it I’ll make a paste,<br>And of the paste a coffin I will rear,<br>And make two pasties of your shameful heads,<br>And bid that strumpet, your unhallowed dam,<br>Like to the earth [[motifs/swallow\|swallow]] her own increase.<br>This is the feast that I have bid her to,<br>And this the banquet she shall surfeit on;<br>For worse than Philomel you used my daughter,<br>And worse than Progne I will be revenged.<br>And now, prepare your throats. [[characters/lavinia\|Lavinia]], come.<br>Receive the [[motifs/blood\|blood]], and when that they are dead<br>Let me go grind their bones to powder small,<br>And with this hateful liquor temper it,<br>And in that paste let their vile heads be baked.<br>Come, come, be everyone officious<br>To make this banquet, which I wish may prove<br>More stern and bloody than the Centaurs’ feast.<br>He cuts their throats<br>So, now bring them in, for I’ll play the cook<br>And see them ready against their mother comes. |
+| *(didascalia)* | Exeunt carrying the bodies |
+
+### Atto 5, Scena 3
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[characters/lucius\|Lucius]], Marcus, and the Goths, with [[characters/aaron\|Aaron]], prisoner, and an attendant with his [[archetypes/child\|child]] |
+| [[characters/lucius\|LUCIUS]] | Uncle Marcus, since ’tis my father’s mind<br>That I repair to Rome, I am content.<br>A GOTH<br>And ours with thine, befall what fortune will. |
+| [[characters/lucius\|LUCIUS]] | Good uncle, take you in this barbarous Moor,<br>This ravenous tiger, this accursed devil.<br>Let him receive no sust’nance, fetter him<br>Till he be brought unto the Empress’ face<br>For testimony of her foul proceedings,<br>And see the ambush of our friends be strong.<br>I [[concepts/fear\|fear]] the Emperor means no good to us. |
+| [[characters/aaron\|AARON]] | Some devil whisper curses in my ear<br>And prompt me, that my tongue may utter forth<br>The venomous malice of my swelling heart. |
+| [[characters/lucius\|LUCIUS]] | Away, inhuman dog, unhallowed slave!<br>Sirs, help our uncle to convey him in. |
+| *(didascalia)* | Exeunt Goths with [[characters/aaron\|Aaron]] and his [[archetypes/child\|child]] |
+| *(didascalia)* | Flourish |
+| [[characters/lucius\|LUCIUS]] | The trumpets show the Emperor is at hand. |
+| *(didascalia)* | Enter [[characters/saturninus\|Saturninus]] the Emperor, and [[characters/tamora\|Tamora]] the |
+| [[characters/lucius\|LUCIUS]] | Empress, with Aemilius, Tribunes, Senators, and<br><br>others |
+| [[characters/saturninus\|SATURNINUS]] | What, hath the firmament more suns than one? |
+| [[characters/lucius\|LUCIUS]] | What boots it thee to call thyself a sun? |
+| MARCUS | Rome’s emperor and nephew, break the parle.<br>These quarrels must be quietly debated.<br>The feast is ready which the careful Titus<br>Hath ordained to an honourable end,<br>For peace, for [[motifs/love\|love]], for league, and good to Rome.<br>Please you therefore draw nigh, and take your places. |
+| [[characters/saturninus\|SATURNINUS]] | Marchs, we will. |
+| *(didascalia)* | Hautboys. A table brought in. They sit. |
+| *(didascalia)* | Enter Titus like a cook, placing the dishes, and |
+| *(didascalia)* | [[characters/lavinia\|Lavinia]] with a veil over her face; young [[characters/lucius\|Lucius]], |
+| *(didascalia)* | and others |
+| TITUS | Welcome, my gracious lord; welcome, dread [[characters/queen\|Queen]];<br>Welcome, ye warlike Goths; welcome, [[characters/lucius\|Lucius]];<br>And welcome, all. Although the cheer be poor,<br>‘Twill fill your stomachs. Please you, eat of it. |
+| [[characters/saturninus\|SATURNINUS]] | Why art thou thus attired, Andronicus? |
+| TITUS | Because I would be sure to have all [[motifs/well\|well]]<br>To entertain your highness and your Empress. |
+| [[characters/tamora\|TAMORA]] | We are beholden to you, good Andronicus. |
+| TITUS | An if your highness knew my heart, you were.<br>My lord the Emperor, resolve me this:<br>Was it [[motifs/well\|well]] done of rash Virginius<br>To slay his daughter with his own right hand<br>Because she was enforced, stained, and deflowered? |
+| [[characters/saturninus\|SATURNINUS]] | It was, Andronicus. |
+| TITUS | Your reason, mighty lord? |
+| [[characters/saturninus\|SATURNINUS]] | Because the girl should not survive her shame,<br>And by her presence still renew his sorrows. |
+| TITUS | A reason mighty, strong, effectual;<br>A pattern, precedent, and lively warrant<br>For me, most wretched, to perform the like.<br>Die, die, [[characters/lavinia\|Lavinia]], and thy shame with thee,<br>And with thy shame thy father’s sorrow die. |
+| *(didascalia)* | He kills her |
+| [[characters/saturninus\|SATURNINUS]] | What hast thou done, unnatural and unkind? |
+| TITUS | Killed her for whom my [[motifs/tears\|tears]] have made me blind.<br>I am as woeful as Virginius was,<br>And have a thousand times more cause than he<br>To do this outrage, and it now is done. |
+| [[characters/saturninus\|SATURNINUS]] | What, was she ravished? Tell who did the deed. |
+| TITUS | Will’t please you eat? Will’t please your highness feed? |
+| [[characters/tamora\|TAMORA]] | Why hast thou slain thine only daughter thus? |
+| TITUS | Not I, ‘twas Chiron and [[characters/demetrius\|Demetrius]].<br>They ravished her, and cut away her tongue,<br>And they, ’twas they, that did her all this wrong. |
+| [[characters/saturninus\|SATURNINUS]] | Go, fetch them hither to us presently. |
+| *(didascalia)* | TITUS revealing the heads |
+| [[characters/saturninus\|SATURNINUS]] | Why, there they are, both baked in this pie,<br>Whereof their mother daintily hath fed,<br>Eating the flesh that she herself hath bred.<br>‘Tis true, ’tis true, witness my knife’s sharp point.<br>He stabs the Empress |
+| [[characters/saturninus\|SATURNINUS]] | Die, frantic wretch, for this accursed deed.<br>He kills Titus |
+| [[characters/lucius\|LUCIUS]] | Can the son’s eye behold his father bleed?<br>There’s meed for meed, [[motifs/death\|death]] for a deadly deed.<br>He kills [[characters/saturninus\|Saturninus]]. Confusion follows. |
+| *(didascalia)* | Enter Goths. [[characters/lucius\|Lucius]], Marcus and others go aloft |
+| MARCUS | You sad-faced men, people and sons of Rome,<br>By uproars severed, as a flight of fowl<br>Scattered by winds and high tempestuous gusts,<br>O, let me teach you how to knit again<br>This scattered corn into one mutual sheaf,<br>These broken limbs again into one [[concepts/body\|body]].<br>A ROMAN LORD<br>Let Rome herself be bane unto herself,<br>And she whom mighty kingdoms curtsy to,<br>Like a forlorn and desperate castaway,<br>Do shameful execution on herself<br>But if my frosty signs and chaps of age,<br>[[motifs/grave\|Grave]] witnesses of true experience,<br>Cannot induce you to attend my words.<br>(To [[characters/lucius\|Lucius]]) Speak, Rome’s dear friend, as erst our<br>ancestor<br>When with his solemn tongue he did discourse<br>To lovesick Dido’s sad-attending ear<br>The story of that baleful-burning [[motifs/night\|night]]<br>When subtle Greeks surprised [[archetypes/king\|King]] Priam’s Troy.<br>Tell us what Sinon hath bewitched our ears,<br>Or who hath brought the fatal engine in<br>That gives our Troy, our Rome, the civil wound.<br>My heart is not compact of flint nor steel,<br>Nor can I utter all our bitter grief,<br>But floods of [[motifs/tears\|tears]] will drown my oratory<br>And break my utt’rance even in the [[motifs/time\|time]]<br>When it should move ye to attend me most,<br>And force you to commiseration.<br>Here’s Rome’s young captain. Let him tell the tale,<br>While I stand by and weep to hear him speak. |
+| [[characters/lucius\|LUCIUS]] | Then, gracious auditory, be it known to you<br>That Chiron and the damned [[characters/demetrius\|Demetrius]]<br>Were they that murdered our Emperor’s brother,<br>And they it were that ravished our sister.<br>For their fell faults our brothers were beheaded,<br>Our father’s [[motifs/tears\|tears]] despised, and basely cozened<br>Of that true hand that fought Rome’s quarrel out<br>And sent her enemies unto the [[motifs/grave\|grave]].<br>Lastly myself, unkindly banished,<br>The gates shut on me, and turned weeping out<br>To beg relief among Rome’s enemies,<br>Who drowned their enmity in my true [[motifs/tears\|tears]]<br>And oped their arms to embrace me as a friend.<br>I am the turned-forth, be it known to you,<br>That have preserved her welfare in my [[motifs/blood\|blood]],<br>And from her bosom took the enemy’s point,<br>Sheathing the steel in my advent’rous [[concepts/body\|body]].<br>Alas, you know I am no vaunter, I.<br>My scars can witness, dumb although they are,<br>That my report is just and full of [[concepts/truth\|truth]].<br>But soft, methinks I do digress too much,<br>Citing my worthless praise. O, pardon me,<br>For when no friends are by, men praise themselves. |
+| MARCUS | Now is my turn to speak. Behold the [[archetypes/child\|child]].<br>Of this was [[characters/tamora\|Tamora]] delivered,<br>The issue of an irreligious Moor,<br>Chief architect and plotter of these woes.<br>The [[archetypes/villain\|villain]] is alive in Titus’ [[house]],<br>And as he is to witness, this is true.<br>Now judge what cause had Titus to [[concepts/revenge\|revenge]]<br>These wrongs unspeakable, past patience,<br>Or more than any living man could bear.<br>Now have you heard the [[concepts/truth\|truth]]. What say you,<br>Romans?<br>Have we done aught amiss, show us wherein,<br>And from the place where you behold us pleading<br>The poor remainder of Andronici<br>Will hand in hand all headlong hurl ourselves<br>And on the ragged stones beat forth our souls<br>And make a mutual closure of our [[house]].<br>Speak, Romans, speak, and if you say we shall;<br>Lo, hand in hand [[characters/lucius\|Lucius]] and I will fall. |
+| AEMILIUS | Come, come, thou reverend man of Rome,<br>And bring our emperor gently in thy hand,<br>[[characters/lucius\|Lucius]], our emperor—for [[motifs/well\|well]] I know<br>The common voice do cry it shall be so. |
+| ROMANS | [[characters/lucius\|Lucius]], all hail, Rome’s royal emperor! |
+| MARCUS | (to attendants)<br>Go, go into old Titus’ sorrowful [[house]]<br>And hither hale that misbelieving Moor<br>To be adjudged some direful slaught’ring [[motifs/death\|death]]<br>As punishment for his most wicked life. Exeunt some |
+| *(didascalia)* | [[characters/lucius\|Lucius]], Marcus, and the others come down |
+| *(didascalia)* | ROMANS |
+| MARCUS | [[characters/lucius\|Lucius]], all hail, Rome’s gracious governor! |
+| [[characters/lucius\|LUCIUS]] | Thanks, gentle Romans. May I govern so<br>To heal Rome’s harms and wipe away her woe.<br>But, gentle people, give me aim awhile,<br>For [[concepts/nature\|nature]] puts me to a heavy task.<br>Stand all aloof, but, uncle, draw you near<br>To shed obsequious [[motifs/tears\|tears]] upon this trunk.<br>(Kissing Titus) O, take this warm kiss on thy pale cold<br>lips,<br>These sorrowful drops upon thy bloodstained face,<br>The last true duties of thy noble son. |
+| MARCUS | (kissing Titus)<br>Tear for tear, and loving kiss for kiss,<br>Thy brother Marcus tenders on thy lips.<br>O, were the sum of these that I should pay<br>Countless and infinite, yet would I pay them. |
+| [[characters/lucius\|LUCIUS]] | (to young [[characters/lucius\|Lucius]])<br>Come hither, boy, come, come, and learn of us<br>To melt in showers. Thy grandsire loved thee [[motifs/well\|well]].<br>Many a [[motifs/time\|time]] he danced thee on his knee,<br>Sung thee asleep, his loving breast thy pillow.<br>Many a story hath he told to thee,<br>And bid thee bear his pretty tales in mind,<br>And talk of them when he was dead and gone. |
+| MARCUS | How many thousand times hath these poor lips,<br>When they were living, warmed themselves on thine!<br>O now, sweet boy, give them their latest kiss.<br>Bid him farewell. Commit him to the [[motifs/grave\|grave]].<br>Do them that kindness, and take leave of them. |
+| YOUNG [[characters/lucius\|LUCIUS]] | (kissing Titus)<br>O grandsire, grandsire, ev’n with all my heart<br>Would I were dead, so you did live again.<br>O Lord, I cannot speak to him for weeping.<br>My [[motifs/tears\|tears]] will choke me if I ope my mouth. |
+| *(didascalia)* | Enter some with [[characters/aaron\|Aaron]] |
+| YOUNG [[characters/lucius\|LUCIUS]] | A ROMAN<br>You sad Andronici, have done with woes.<br>Give sentence on this execrable wretch<br>That hath been breeder of these dire events. |
+| [[characters/lucius\|LUCIUS]] | Set him breast-deep in earth and famish him.<br>There let him stand, and rave, and cry for food.<br>If anyone relieves or pities him,<br>For the offence he dies. This is our doom.<br>Some stay to see him fastened in the earth. |
+| [[characters/aaron\|AARON]] | Ah, why should wrath be mute and fury dumb?<br>I am no baby, I, that with base prayers<br>I should repent the evils I have done.<br>Ten thousand worse than ever yet I did<br>Would I perform if I might have my will.<br>If one good deed in all my life I did<br>I do repent it from my very [[motifs/soul\|soul]]. |
+| [[characters/lucius\|LUCIUS]] | Some loving friends convey the Emperor hence,<br>And give him burial in his father’s [[motifs/grave\|grave]].<br>My father and [[characters/lavinia\|Lavinia]] shall forthwith<br>Be closed in our household’s monument.<br>As for that ravenous tiger, [[characters/tamora\|Tamora]],<br>No funeral rite nor man in mourning weed,<br>No mournful bell shall ring her burial;<br>But throw her forth to beasts and [[motifs/birds\|birds]] to prey.<br>Her life was beastly and devoid of pity,<br>And being dead, let [[motifs/birds\|birds]] on her take pity. |
+| *(didascalia)* | Exeunt with the bodies |
+| A. AFTER | 1.1.35<br>The following passage, found in the First Quarto following a comma after ‘field’ but not included in the Second or Third Quartos or the Folio, conflicts with the subsequent action and presumably should have been deleted. (In the second line, Q1 reads ’of that’ for ‘of the’.)<br>and at this day<br>To the monument of the Andronici<br>Done sacrifice of expiation,<br>And slain the noblest prisoner of the Goths. |
+| B. AFTER | 1.1.283<br>The following passage found in the quartos and the Folio is difficult to reconcile with the apparent need for [[characters/saturninus\|Saturninus]] and his party to leave the stage at 275.1-2 before entering ‘above’ at 294.2-4. It is omitted from our text in the belief that Shakespeare intended it to be deleted after adding the episode of Mutius’ killing to his original draft, and that the printers of Q1 included it by accident. |
+| *(didascalia)* | TITUS |
+| B. AFTER | Treason, my lord! [[characters/lavinia\|Lavinia]] is surprised. |
+| [[characters/saturninus\|SATURNINUS]] | Surprised, by whom? |
+| [[characters/bassianus\|BASSIANUS]] | By him that justly may<br>Bear his betrothed from all the world away. |
+| C. AFTER | 4.3.93<br>The following lines, found in the early texts, appear to be a draft of the subsequent six lines. |
+| MARCUS | (to Titus) Why, sir, that is as fit as can be to serve for your oration, and let him deliver the pigeons to the Emperor from you. |
+| TITUS | (to the Clown) Tell me, can you deliver an oration to the Emperor with a grace? |
+| CLOWN | Nay, truly, sir, I could never say grace in all my life. |
+| IN | narrative sequence, [[characters/richard-iii\|Richard III]] follows directly after [[characters/richard\|Richard]] [[characters/duke-of-york\|Duke of York]], and that play’s closing scenes, in which [[characters/richard\|Richard]] of [[characters/gloucester\|Gloucester]] expresses his ambitions for the [[motifs/crown\|crown]], suggest that Shakespeare had a sequel in mind. But he seems to have gone back to tell the beginning of the story of [[characters/henry-vi\|Henry VI]]’s reign before covering the events from [[characters/henry-vi\|Henry VI]]’s [[motifs/death\|death]] (in 1471) to the Battle of Bosworth (1485). We have no record of the first performance of [[characters/richard-iii\|Richard III]] (probably in late 1592 or early 1593, outside [[settings/london\|London]]); it was printed in 1597, with five reprints before its inclusion in the 1623 Folio.<br>The principal source of information about [[characters/richard-iii\|Richard III]] available to Shakespeare was [[characters/sir-thomas-more\|Sir Thomas More]]’s [[concepts/history\|History]] of [[archetypes/king\|King]] [[characters/richard-iii\|Richard III]] as incorporated in chronicle histories by Edward Hall (1542) and Raphael Holinshed (1577, revised in 1587), both of which Shakespeare seems to have used. His artistic influences include the tragedies of the Roman dramatist Seneca (who was born about 4 BC and died in AD 65), with their [[motifs/ghosts\|ghosts]], their rhetorical style, their prominent choruses, and their indirect, highly formal presentation of violent events. (Except for the stabbing of [[characters/clarence\|Clarence]] (1.4) there is no on-stage violence in [[characters/richard-iii\|Richard III]] until the final battle scenes.)<br>In this play, Shakespeare demonstrates a more complete artistic control of his historical material than in its predecessors: [[characters/richard\|Richard]] himself is a more dominating central figure than is to be found in any of the earlier plays, historical events are freely manipulated in the interests of an overriding design, and the play’s language is more highly patterned and rhetorically unified. That part of the play which shows [[characters/richard\|Richard]]’s bloody progress to the throne is based on the events of some twelve years; the remainder covers the two years of his reign. Shakespeare omits some important events, but invents [[characters/richard\|Richard]]’s wooing of [[characters/lady-anne\|Lady Anne]] over her father-in-law’s coffin, and causes [[characters/queen-margaret\|Queen Margaret]], who had returned to France in 1476 and who died before [[characters/richard\|Richard]] became [[archetypes/king\|king]], to remain in England as a choric figure of grief and retribution. The characterization of [[characters/richard\|Richard]] as a [[concepts/self\|self]]-delighting ironist builds upon More. The episodes in which the older women of the play—the Duchess of York, [[characters/queen-elizabeth\|Queen Elizabeth]], and [[characters/queen-margaret\|Queen Margaret]]—bemoan their losses, and the climactic procession of [[motifs/ghosts\|ghosts]] before the final confrontation of [[characters/richard\|Richard]] with the idealized figure of Richmond, the future Henry VII, help to make [[characters/richard-iii\|Richard III]] the culmination of a tetralogy as [[motifs/well\|well]] as a masterly poetic drama in its own right. The final speech, in which Richmond, heir to the [[house]] of Lancaster and grandfather of [[characters/queen-elizabeth\|Queen Elizabeth]] I, proclaims the [[concepts/union\|union]] of ‘the white [[motifs/rose\|rose]] and the red’ in his [[motifs/marriage\|marriage]] to Elizabeth of York, provides a patriotic climax which must have been immensely stirring to the play’s early audiences.<br>Colley Cibber’s adaptation (1700) of [[characters/richard-iii\|Richard III]], incorporating the [[motifs/death\|death]] of [[characters/henry-vi\|Henry VI]], shortening and adapting the play, and making the central role (played by Cibber) even more dominant than it had originally been, held the stage with great [[success]] until the late nineteenth century. Since then, Shakespeare’s text has been restored (though usually abbreviated—next to [[characters/hamlet\|Hamlet]], this is Shakespeare’s longest play), and the role of [[characters/richard\|Richard]] has continued to present a rewarding challenge to leading actors. |
+| THE PERSONS OF THE | PLAY |
+
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -90,8 +1524,8 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | Escono i suoi soldati e seguaci |
 | [[characters/saturninus\|SATURNINUS]] | (Ai Tribuni e ai Senatori)<br>Roma, sii verso di me tanto giusta e benigna<br>Quanto io son fiducioso e benevolo verso di te.<br>Aprite le porte e fatemi entrare. |
 | [[characters/bassianus\|BASSIANUS]] | Tribuni, e me, povero competitore. |
-| *(didascalia)* | Squilli di trombe. Salgono nella Casa del Senato. Entra un Capitano |
-| CAPITANO | Romani, fate largo. Il buon Andronico,<br>Patrono della virtù, miglior campione di Roma,<br>Vittorioso nelle battaglie che combatte,<br>Con [[concepts/honour\|onore]] e con fortuna è tornato<br>Da dove con la sua spada ha circoscritto<br>E posto sotto il giogo i nemici di Roma. |
+| *(didascalia)* | Squilli di trombe. Salgono nella [[house\|Casa]] del Senato. Entra un Capitano |
+| CAPITANO | Romani, fate largo. Il buon Andronico,<br>Patrono della virtù, miglior campione di Roma,<br>Vittorioso nelle battaglie che combatte,<br>Con [[concepts/honour\|onore]] e con fortuna è tornato<br>Da dove con la sua [[Sword\|spada]] ha circoscritto<br>E posto sotto il giogo i nemici di Roma. |
 | *(didascalia)* | Suonano tamburi e trombe, e poi entra Marzio |
 | *(didascalia)* | e Muzio, due dei figli di Tito, e poi uomini |
 | *(didascalia)* | che portano bare coperte di nero, poi [[characters/lucius\|Lucio]] e |
@@ -99,7 +1533,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | suo carro e poi [[characters/tamora\|Tamora]] la [[characters/queen\|Regina]] dei Goti |
 | CAPITANO | e i suoi figli Alarbo, Chirone e [[characters/demetrius\|Demetrio]], con<br><br>[[characters/aaron\|Aronne]] il Moro e altri quanti più possibile. |
 | *(didascalia)* | Poi depongono le bare, e Tito parla |
-| TITUS | Salve, Roma, vittoriosa nelle tue vesti di lutto!<br>Ecco, come la barca che ha scaricato il suo carico<br>Torna con preziosa merce alla baia<br>Da cui in principio levò l’ancora,<br>Viene Andronico, cinto di rami di lauro,<br>A risalutare la sua patria con le sue [[motifs/tears\|lacrime]],<br>[[motifs/tears\|Lacrime]] di vera gioia per il suo ritorno a Roma.<br>Tu grande difensore di questo Campidoglio,<br>Sii propizio ai riti che intendiamo compiere.<br>Romani, di venticinque valorosi figli,<br>La metà del numero che aveva il [[archetypes/king\|Re]] Priamo,<br>Ecco i poveri resti, vivi e morti.<br>Quelli che sopravvivono Roma li premi con [[motifs/love\|amore]];<br>Questi che io conduco alla loro ultima [[motifs/home\|dimora]],<br>Con sepoltura fra i loro avi.<br>Qui i Goti m’han dato licenza di rinfoderare la mia spada.<br>Tito snaturato, e trascurato dei tuoi,<br>Perché soffri che i tuoi figli, ancora insepolti,<br>Vaghino sulla terribile riva dello Stige?<br>Fate largo per deporli presso i loro fratelli.<br>Aprono la tomba<br>Là salutatevi in [[motifs/silence\|silenzio]] come usano i morti,<br>E [[motifs/sleep\|dormite]] in pace, uccisi nelle guerre della patria.<br>Oh sacro ricettacolo delle mie gioie,<br>Dolce cella di virtù e nobiltà,<br>Quanti figli miei tieni in serbo<br>Che non mi renderai mai più! |
+| TITUS | Salve, Roma, vittoriosa nelle tue vesti di lutto!<br>Ecco, come la barca che ha scaricato il suo carico<br>Torna con preziosa merce alla baia<br>Da cui in principio levò l’ancora,<br>Viene Andronico, cinto di rami di lauro,<br>A risalutare la sua patria con le sue [[motifs/tears\|lacrime]],<br>[[motifs/tears\|Lacrime]] di vera gioia per il suo ritorno a Roma.<br>Tu grande difensore di questo Campidoglio,<br>Sii propizio ai riti che intendiamo compiere.<br>Romani, di venticinque valorosi figli,<br>La metà del numero che aveva il [[archetypes/king\|Re]] Priamo,<br>Ecco i poveri resti, vivi e morti.<br>Quelli che sopravvivono Roma li premi con [[motifs/love\|amore]];<br>Questi che io conduco alla loro ultima [[motifs/home\|dimora]],<br>Con sepoltura fra i loro avi.<br>Qui i Goti m’han dato licenza di rinfoderare la mia [[Sword\|spada]].<br>Tito snaturato, e trascurato dei tuoi,<br>Perché soffri che i tuoi figli, ancora insepolti,<br>Vaghino sulla terribile riva dello Stige?<br>Fate largo per deporli presso i loro fratelli.<br>Aprono la tomba<br>Là salutatevi in [[motifs/silence\|silenzio]] come usano i morti,<br>E [[motifs/sleep\|dormite]] in pace, uccisi nelle guerre della patria.<br>Oh sacro ricettacolo delle mie gioie,<br>Dolce cella di virtù e nobiltà,<br>Quanti figli miei tieni in serbo<br>Che non mi renderai mai più! |
 | [[characters/lucius\|LUCIUS]] | Dateci il più superbo prigioniero dei Goti,<br>Perché ne recidiamo le membra e su una pira<br>Ad manes fratrum sacrifichiamo la sua carne<br>Dinanzi a questa terrena [[motifs/prison\|prigione]] delle loro ossa,<br>Sì che le ombre non restino inappagate,<br>Né noi turbati da prodigi sulla terra. |
 | TITUS | Io vi do lui, il più nobile che sopravviva,<br>Il figlio maggiore di questa afflitta [[characters/queen\|Regina]]. |
 | *(didascalia)* | [[characters/tamora\|TAMORA]] inginocchiandosi |
@@ -140,7 +1574,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | MARCUS | Tribuni, con [[characters/saturninus\|Saturnino]] e [[characters/bassianus\|Bassiano]],<br><br>scendono.<br><br>Marco riveste [[characters/saturninus\|Saturnino]] del bianco |
 | *(didascalia)* | palio e gli porge uno scettro |
 | [[characters/saturninus\|SATURNINUS]] | [[characters/titus-andronicus\|Tito Andronico]], per i favori resi<br>A noi nella nostra elezione in questo giorno<br>Ti rendo grazie in parte dei tuoi meriti,<br>E con opere ricambierò la tua cortesia.<br>E per cominciare, Tito, a innalzare<br>Il tuo nome e l’onorevole tua famiglia,<br>[[characters/lavinia\|Lavinia]] farò mia imperatrice,<br>Regale signora di Roma, signora del mio cuore,<br>E nel sacro Panteon la sposerò.<br>Dimmi, Andronico, ti piace questa proposta? |
-| TITUS | Mi piace, mio degno signore, e in queste nozze<br>Mi tengo altamente onorato da vostra grazia,<br>E qui alla vista di Roma a Saturnino,<br>[[archetypes/king\|Re]] e comandante del nostro Stato,<br>Imperatore del vasto mondo, io consacro<br>La mia spada, il mio carro e i miei prigionieri—<br>Doni [[motifs/well\|ben]] degni dell’imperioso signore di Roma.<br>Ricevili, dunque, il tributo che devo,<br>Le insegne del mio [[concepts/honour\|onore]] umiliate ai tuoi piedi. |
+| TITUS | Mi piace, mio degno signore, e in queste nozze<br>Mi tengo altamente onorato da vostra grazia,<br>E qui alla vista di Roma a Saturnino,<br>[[archetypes/king\|Re]] e comandante del nostro Stato,<br>Imperatore del vasto mondo, io consacro<br>La mia [[Sword\|spada]], il mio carro e i miei prigionieri—<br>Doni [[motifs/well\|ben]] degni dell’imperioso signore di Roma.<br>Ricevili, dunque, il tributo che devo,<br>Le insegne del mio [[concepts/honour\|onore]] umiliate ai tuoi piedi. |
 | [[characters/saturninus\|SATURNINUS]] | Grazie, nobile Tito, padre della mia vita.<br>Quanto io sia fiero di te e dei tuoi doni<br>Roma lo registrerà; e quando io dimenticassi<br>Il minimo di questi ineffabili meriti,<br>Romani, dimenticate la vostra fedeltà a me. |
 | TITUS | (a [[characters/tamora\|Tamora]])<br>Ora, signora, siete prigioniera d’un imperatore,<br>Di colui che per il vostro [[concepts/honour\|onore]] e il vostro stato<br>Tratterà nobilmente voi e i vostri seguaci. |
 | [[characters/saturninus\|SATURNINUS]] | Una bella dama, credetemi, del colore<br>Che sceglierei se dovessi scegliere di nuovo.<br>Rischiarate, bella [[characters/queen\|regina]], quel volto nuvoloso.<br>Se pur la sorte della guerra ha operato questo mutamento d’<br>umore,<br>Non venite per esser fatta scherno in Roma.<br>Principesco sarà in ogni modo il trattamento vostro.<br>Fidatevi della mia parola, e non lasciate che il malcontento<br>Abbatta ogni vostra speranza. Signora, colui che vi consola<br>Può farvi più grande della [[characters/queen\|Regina]] dei Goti.<br>[[characters/lavinia\|Lavinia]], non vi dispiace questo? |
@@ -153,7 +1587,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | MARCUS | Suum cuique è la nostra giustizia romana.<br>Questo principe per giustizia non prende che il suo. |
 | [[characters/lucius\|LUCIUS]] | E ciò egli vuole e farà, se [[characters/lucius\|Lucio]] vive. |
 | TITUS | Traditori, via! Dov’è la guardia dell’Imperatore? |
-| MUTIUS | Fratelli, aiutate a portarla via di qui,<br>E con la mia spada terrò sicura questa porta. |
+| MUTIUS | Fratelli, aiutate a portarla via di qui,<br>E con la mia [[Sword\|spada]] terrò sicura questa porta. |
 | *(didascalia)* | Escono [[characters/bassianus\|Bassiano]], Marco, Quinto e Marzio, con [[characters/lavinia\|Lavinia]] |
 | MUTIUS | (A Tito) Mio signore, di qui non passate. |
 | TITUS | Che, [[archetypes/villain\|scellerato]] ragazzo,<br>Mi sbarri la via in Roma?<br>Assale Muzio |
@@ -167,13 +1601,13 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | TITUS | Seguitemi, mio signore, e presto la ricondurrò. |
 | [[characters/saturninus\|SATURNINUS]] | No, Tito, no. L’Imperatore non ha bisogno di lei,<br>Né di lei, né di te, né d’alcuno della tua stirpe.<br>Mi fiderò con calma di chi mi beffa una volta,<br>Di te mai, né dei tuoi traditori superbi figli,<br>Tutti confederati a disonorarmi così.<br>Non v’era altri in Roma da far ludibrio<br>Che Saturnino? Assai [[motifs/well\|bene]], Andronico,<br>S’accordano queste opere con quel tuo superbo vanto<br>Con cui dicesti che io mendicai l’impero dalle tue mani. |
 | TITUS | Oh mostruoso, che parole d’oltraggio son queste? |
-| [[characters/saturninus\|SATURNINUS]] | Ma va’ per la tua via, va’ a dare quella volubile creatura<br>A colui che per lei brandì la sua spada.<br>Un valoroso genero godrai,<br>Uno adatto a scambiar colpi coi tuoi figli senza legge,<br>A far rissa nello Stato di Roma. |
+| [[characters/saturninus\|SATURNINUS]] | Ma va’ per la tua via, va’ a dare quella volubile creatura<br>A colui che per lei brandì la sua [[Sword\|spada]].<br>Un valoroso genero godrai,<br>Uno adatto a scambiar colpi coi tuoi figli senza legge,<br>A far rissa nello Stato di Roma. |
 | TITUS | Queste parole sono rasoi al mio cuore ferito. |
 | [[characters/saturninus\|SATURNINUS]] | E perciò, leggiadra [[characters/tamora\|Tamora]], [[characters/queen\|Regina]] dei Goti,<br>Che come la maestosa [[characters/phoebe\|Febe]] fra le sue ninfe<br>Oscuri le più splendide dame di Roma,<br>Se ti piace questa mia subitanea scelta,<br>Ecco, io scelgo te, [[characters/tamora\|Tamora]], per mia sposa,<br>E ti creerò Imperatrice di Roma.<br>Parla, [[characters/queen\|Regina]] dei Goti, approvi la mia scelta?<br>E qui giuro per tutti gli dèi romani,<br>Poiché il sacerdote e l’[[motifs/water\|acqua]] santa son sì vicini,<br>E i ceri ardono sì chiari, e ogni cosa<br>Sta in pronto per Imeneo,<br>Che non risaluterò le vie di Roma,<br>Né salirò al mio palazzo, finché da questo luogo<br>Non conduca sposa la mia sposa con me. |
 | [[characters/tamora\|TAMORA]] | E qui, alla vista del cielo, a Roma io giuro<br>Che se Saturnino innalza la [[characters/queen\|Regina]] dei Goti<br>Ella sarà ancella ai suoi desideri,<br>Amorevole [[characters/nurse\|nutrice]], madre alla sua giovinezza. |
 | [[characters/saturninus\|SATURNINUS]] | Ascendi, bella [[characters/queen\|Regina]], al Panteon. Signori, accompagnate<br>Il vostro nobile imperatore e la sua leggiadra sposa,<br>Mandata dai cieli per il Principe Saturnino,<br>La cui saggezza ha vinto la fortuna di lei.<br>Là consumeremo i nostri riti nuziali. |
 | *(didascalia)* | Escono tutti tranne Tito |
-| TITUS | Non son invitato a far corteggio a questa sposa.<br>Tito, quando fosti tu usato a camminare solo,<br>Così disonorato e accusato di torti? |
+| TITUS | Non son invitato a far corteggio a questa sposa.<br>Tito, quando fosti tu usato a camminare [[Alone\|solo]],<br>Così disonorato e accusato di torti? |
 | *(didascalia)* | Entrano Marco e i figli di Tito [[characters/lucius\|Lucio]], Quinto e |
 | *(didascalia)* | Marzio, portando il [[concepts/body\|corpo]] di Muzio |
 | MARCUS | Oh Tito, vedi, oh vedi che hai fatto—<br>In mala contesa ucciso un virtuoso figlio. |
@@ -225,7 +1659,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | TITUS | Roma e i giusti cieli mi sian giudici<br>Di come ho amato e onorato Saturnino! |
 | [[characters/tamora\|TAMORA]] | (a [[characters/saturninus\|Saturnino]])<br>Mio degno signore, se mai [[characters/tamora\|Tamora]]<br>Fu grata a quei tuoi principeschi occhi,<br>Ascoltami dunque parlare imparzialmente per tutti;<br>E alla mia richiesta, dolce mio, perdona il passato. |
 | [[characters/saturninus\|SATURNINUS]] | Che, signora—esser disonorato apertamente<br>E vilmente inghiottirlo senza [[concepts/revenge\|vendetta]]? |
-| [[characters/tamora\|TAMORA]] | Non così, mio signore. Gli dèi di Roma non permettano<br>Ch’io sia causa di disonore per voi.<br>Ma sul mio [[concepts/honour\|onore]] oso farmi garante<br>Dell’innocenza del buon signor Tito in tutto,<br>La cui furia non dissimulata dice i suoi dolori.<br>Dunque alla mia richiesta guardatelo con grazia.<br>Non perdete un amico sì nobile per vana supposizione,<br>Né con sguardi acri affliggete il suo gentile cuore.<br>(A parte, a [[characters/saturninus\|Saturnino]])<br>Mio signore, lasciatevi guidare da me, cedete infine,<br>Dissimulate tutti i vostri dolori e malcontenti.<br>Voi siete appena piantato nel vostro trono;<br>Ché altrimenti il popolo, e anche i patrizi,<br>A un giusto esame prendano la parte di Tito,<br>E così vi soppiantino per ingratitudine,<br>Che Roma reputa peccato nefando,<br>Cedete alle preghiere; e poi lasciate fare a me sola:<br>Troverò un giorno per massacrarli tutti,<br>E radere al suolo la loro fazione e la loro famiglia,<br>Il crudele padre e i suoi traditori figli<br>Cui supplicai per la vita del mio caro figlio,<br>E far loro sapere che cosa sia lasciare una [[characters/queen\|regina]]<br>Inginocchiarsi per le strade e chiedere grazia in vano.<br>(Ad alta voce) Venite, venite, dolce Imperatore; venite,<br>Andronico,<br>Rialzate questo buon vecchio, e rallegrate il cuore<br>Che muore nella tempesta del tuo irato cipiglio. |
+| [[characters/tamora\|TAMORA]] | Non così, mio signore. Gli dèi di Roma non permettano<br>Ch’io sia causa di disonore per voi.<br>Ma sul mio [[concepts/honour\|onore]] oso farmi garante<br>Dell’[[innocence\|innocenza]] del buon signor Tito in tutto,<br>La cui furia non dissimulata dice i suoi dolori.<br>Dunque alla mia richiesta guardatelo con grazia.<br>Non perdete un amico sì nobile per vana supposizione,<br>Né con sguardi acri affliggete il suo gentile cuore.<br>(A parte, a [[characters/saturninus\|Saturnino]])<br>Mio signore, lasciatevi guidare da me, cedete infine,<br>Dissimulate tutti i vostri dolori e malcontenti.<br>Voi siete appena piantato nel vostro trono;<br>Ché altrimenti il popolo, e anche i patrizi,<br>A un giusto esame prendano la parte di Tito,<br>E così vi soppiantino per ingratitudine,<br>Che Roma reputa peccato nefando,<br>Cedete alle preghiere; e poi lasciate fare a me [[Alone\|sola]]:<br>Troverò un giorno per massacrarli tutti,<br>E radere al suolo la loro fazione e la loro famiglia,<br>Il crudele padre e i suoi traditori figli<br>Cui supplicai per la vita del mio caro figlio,<br>E far loro sapere che cosa sia lasciare una [[characters/queen\|regina]]<br>Inginocchiarsi per le strade e chiedere grazia in vano.<br>(Ad alta voce) Venite, venite, dolce Imperatore; venite,<br>Andronico,<br>Rialzate questo buon vecchio, e rallegrate il cuore<br>Che muore nella tempesta del tuo irato cipiglio. |
 | [[characters/saturninus\|SATURNINUS]] | Alzati, Tito, alzati; la mia imperatrice ha prevalso. |
 | TITUS | (alzandosi)<br>Ringrazio vostra maestà e lei, mio signore,<br>Queste parole, questi sguardi, infondono in me nuova vita. |
 | [[characters/tamora\|TAMORA]] | Tito, io sono incorporata in Roma,<br>Romana ora felicemente adottata,<br>E devo consigliare l’Imperatore per il suo bene.<br>Oggi ogni contesa muore, Andronico;<br>E sia mio [[concepts/honour\|onore]], mio buon signore,<br>D’aver riconciliato voi e i vostri amici.<br>Per voi, Principe [[characters/bassianus\|Bassiano]], ho dato<br>La mia parola e promessa all’Imperatore<br>Che sarete più mite e trattabile.<br>E non [[concepts/fear\|temete]], signori, e voi, [[characters/lavinia\|Lavinia]];<br>Per mio consiglio, tutti umiliati in ginocchio,<br>Chiederete perdono a sua maestà. |
@@ -245,12 +1679,12 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[characters/aaron\|Aronne]] solo. |
+| *(didascalia)* | Entra [[characters/aaron\|Aronne]] [[Alone\|solo]]. |
 | [[characters/aaron\|AARON]] | Or [[characters/tamora\|Tamora]] scala la cima d’Olimpo,<br>Fuor del tiro della fortuna, e siede in alto,<br>Sicura dallo schianto del tuono e dal guizzo del [[motifs/lightning\|fulmine]],<br>Innalzata oltre la minacciosa presa della pallida invidia.<br>Come quando il sole d’oro saluta il mattino<br>E, indorato l’oceano co’ suoi raggi,<br>Galoppa lo zodiaco nel suo carro splendente<br>E sovrasta i colli che più alti si ergono,<br>Così [[characters/tamora\|Tamora]].<br>Al suo ingegno l’[[concepts/honour\|onore]] terreno fa scorta,<br>E la virtù s’inchina e trema al suo cipiglio.<br>Dunque, [[characters/aaron\|Aronne]], arma il tuo cuore e volgi i pensieri<br>A salire in alto con la tua imperiale signora,<br>E a raggiungere la vetta di colei che a lungo in trionfo<br>Tenesti prigioniera, avvinta in amorose [[motifs/chains\|catene]],<br>E più strettamente legata agli occhi incantatori d’[[characters/aaron\|Aronne]]<br>Che non sia [[characters/prometheus\|Prometeo]] al Caucaso.<br>Via i panni servili e i pensieri da schiavo!<br>Sarò splendente, e brillerò di perle e d’oro<br>Per servire questa imperatrice appena fatta.<br>Servire, ho detto?—no, folleggiare con questa [[characters/queen\|regina]],<br>Questa dea, questa Semiramide, questa ninfa,<br>Questa sirena che incanterà il Saturnino di Roma<br>E vedrà il naufragio suo e dello Stato.<br>Olà, che [[motifs/storm\|tempesta]] è questa? |
 | *(didascalia)* | Entrano Chirone e [[characters/demetrius\|Demetrio]], in atteggiamento di sfida |
 | [[characters/demetrius\|DEMETRIUS]] | Chirone, ai tuoi anni manca senno, al tuo senno manca il filo<br>E il garbo, per intrudersi là dove io son favorito<br>E posso, per quel che ne sai, essere amato. |
-| CHIRON | [[characters/demetrius\|Demetrio]], tu presumi troppo in tutto,<br>E così in questo, di sopraffarmi con le bravate.<br>Non è la differenza d’un anno o due<br>Che mi rende men grato, o te più fortunato.<br>Io son valente e adatto quanto te<br>A servire, e a meritare il favore della mia signora,<br>E ciò la mia spada su di te proverà,<br>E perorerà la mia passione per l’[[motifs/love\|amore]] di [[characters/lavinia\|Lavinia]]. |
-| [[characters/aaron\|AARON]] | (a parte)<br>Randelli, randelli! Questi innamorati non terranno la pace. |
+| CHIRON | [[characters/demetrius\|Demetrio]], tu presumi troppo in tutto,<br>E così in questo, di sopraffarmi con le bravate.<br>Non è la differenza d’un anno o due<br>Che mi rende men grato, o te più fortunato.<br>Io son valente e adatto quanto te<br>A servire, e a meritare il favore della mia signora,<br>E ciò la mia [[Sword\|spada]] su di te proverà,<br>E perorerà la mia passione per l’[[motifs/love\|amore]] di [[characters/lavinia\|Lavinia]]. |
+| [[characters/aaron\|AARON]] | (a parte)<br>Randelli, randelli! Questi [[lovers\|innamorati]] non terranno la pace. |
 | [[characters/demetrius\|DEMETRIUS]] | Ehi, ragazzo, se pure nostra madre, incauta,<br>Ti diede al fianco uno spadino da ballo,<br>Sei divenuto sì temerario da minacciare gli amici?<br>Va’ via, fatti incollare quel legnetto nel fodero<br>Finché non sappia meglio maneggiarlo. |
 | CHIRON | Intanto, signore, con la poca perizia che ho<br>Assai [[motifs/well\|bene]] vedrai quanto io osi. |
 | [[characters/demetrius\|DEMETRIUS]] | Ah, ragazzo, ti fai così ardito?<br>Sguainano |
@@ -272,7 +1706,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/aaron\|AARON]] | Volesse il cielo l’avessi colto anche tu,<br>Che allora non saremmo stanchi di questo baccano.<br>Ebbene, udite, udite, e siete tali sciocchi<br>Da azzuffarvi per questo? Vi offenderebbe dunque<br>Che ambedue avessero [[characters/speed\|fortuna]]? |
 | CHIRON | In [[concepts/faith\|fede]], non me. |
 | [[characters/demetrius\|DEMETRIUS]] | Né me, purché io fossi uno dei due. |
-| [[characters/aaron\|AARON]] | Vergogna, siate amici, e unitevi per ciò di cui contendete.<br>Sono accortezza e stratagemma che devono ottenere<br>Ciò che bramate, e così dovete risolvere<br>Che quel che non potete ottenere come vorreste,<br>Dovete per forza compierlo come potete.<br>Prendete da me questo: [[characters/lucrece\|Lucrezia]] non fu più casta<br>Di questa [[characters/lavinia\|Lavinia]], [[motifs/love\|amore]] di [[characters/bassianus\|Bassiano]].<br>Un corso più rapido che un languire prolungato<br>Dobbiamo seguire, e io ho trovato la via.<br>Signori miei, s’apparecchia una caccia solenne;<br>Là s’affolleranno le leggiadre dame romane.<br>I sentieri della foresta son larghi e spaziosi,<br>E molti luoghi appartati vi sono,<br>Fatti per natura allo stupro e alla scelleratezza.<br>Isolate colà dunque questa delicata cerva,<br>E colpitela a [[motifs/home\|fondo]] con la forza, se non con le parole,<br>Per questa via o in nessun modo state in [[concepts/hope\|speranza]].<br>Venite, venite; la nostra Imperatrice, col suo sacro ingegno<br>Consacrato alla scelleratezza e alla vendetta,<br>La informeremo di tutto ciò che intendiamo,<br>Ed ella affilerà i nostri ordigni col consiglio<br>Che non permetterà che voi vi azzuffiate tra voi,<br>Ma innalzerà entrambi al culmine dei vostri desideri.<br>La [[settings/court\|corte]] dell’Imperatore è come la casa della Fama,<br>Il palazzo pieno di lingue, d’occhi e d’orecchi,<br>I boschi sono implacabili, terribili, sordi e ottusi.<br>Là parlate e colpite, bravi ragazzi, e prendete il vostro turno.<br>Là saziate la vostra libidine, celati all’occhio del cielo,<br>E gozzovigliate nel tesoro di [[characters/lavinia\|Lavinia]]. |
+| [[characters/aaron\|AARON]] | Vergogna, siate amici, e unitevi per ciò di cui contendete.<br>Sono accortezza e stratagemma che devono ottenere<br>Ciò che bramate, e così dovete risolvere<br>Che quel che non potete ottenere come vorreste,<br>Dovete per forza compierlo come potete.<br>Prendete da me questo: [[characters/lucrece\|Lucrezia]] non fu più casta<br>Di questa [[characters/lavinia\|Lavinia]], [[motifs/love\|amore]] di [[characters/bassianus\|Bassiano]].<br>Un corso più rapido che un languire prolungato<br>Dobbiamo seguire, e io ho trovato la via.<br>Signori miei, s’apparecchia una caccia solenne;<br>Là s’affolleranno le leggiadre dame romane.<br>I sentieri della foresta son larghi e spaziosi,<br>E molti luoghi appartati vi sono,<br>Fatti per natura allo stupro e alla scelleratezza.<br>Isolate colà dunque questa delicata cerva,<br>E colpitela a [[motifs/home\|fondo]] con la forza, se non con le parole,<br>Per questa via o in nessun modo state in [[concepts/hope\|speranza]].<br>Venite, venite; la nostra Imperatrice, col suo sacro ingegno<br>Consacrato alla scelleratezza e alla vendetta,<br>La informeremo di tutto ciò che intendiamo,<br>Ed ella affilerà i nostri ordigni col consiglio<br>Che non permetterà che voi vi azzuffiate tra voi,<br>Ma innalzerà entrambi al culmine dei vostri desideri.<br>La [[settings/court\|corte]] dell’Imperatore è come la [[house\|casa]] della Fama,<br>Il palazzo pieno di lingue, d’occhi e d’orecchi,<br>I boschi sono implacabili, terribili, sordi e ottusi.<br>Là parlate e colpite, bravi ragazzi, e prendete il vostro turno.<br>Là saziate la vostra libidine, celati all’occhio del cielo,<br>E gozzovigliate nel tesoro di [[characters/lavinia\|Lavinia]]. |
 | CHIRON | Il tuo consiglio, ragazzo, non sa di codardia. |
 | [[characters/demetrius\|DEMETRIUS]] | Sit fas aut nefas, finché non trovi il rivo<br>Per raffreddare quest’arsura, un incanto per calmare questi accessi,<br>Per Styga, per manes vehor. Escono |
 
@@ -286,7 +1720,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/bassianus\|BASSIANUS]] | [[characters/lavinia\|Lavinia]], che ne dite voi? |
 | [[characters/lavinia\|LAVINIA]] | Dico di no.<br>Son ben desta da due ore e più. |
 | [[characters/saturninus\|SATURNINUS]] | Su dunque, si abbiano [[motifs/horse\|cavalli]] e carri,<br>E al nostro diporto. (A [[characters/tamora\|Tamora]]) Signora, or vedrete<br>La nostra caccia romana. |
-| MARCUS | Ho cani, mio signore,<br>Che leveranno la più superba pantera nella caccia,<br>E scaleranno la vetta del più alto promontorio. |
+| MARCUS | Ho [[dogs\|cani]], mio signore,<br>Che leveranno la più superba pantera nella caccia,<br>E scaleranno la vetta del più alto promontorio. |
 | TITUS | E io ho [[motifs/horse\|cavalli]] che seguiranno ovunque la preda<br>Si apra il varco, e corron come rondini per la piana. |
 | [[characters/demetrius\|DEMETRIUS]] | (a parte)<br>Chirone, noi non cacciamo, noi, con [[motifs/horse\|cavallo]] né con segugio,<br>Ma [[concepts/hope\|speriamo]] d’abbattere al suolo una delicata cerva. Escono |
 
@@ -294,10 +1728,10 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[characters/aaron\|Aronne]] solo, con dell’oro |
+| *(didascalia)* | Entra [[characters/aaron\|Aronne]] [[Alone\|solo]], con dell’oro |
 | [[characters/aaron\|AARON]] | Chi avesse senno penserebbe ch’io non n’abbia,<br>A seppellire tanto oro sotto un albero<br>E a non ereditarlo mai più dipoi.<br>Chi di me pensa così abiettamente<br>Sappia che quest’oro deve coniare uno stratagemma<br>Che, condotto con astuzia, genererà<br>Un’eccellentissima opera di scelleratezza.<br>E dunque riposa, dolce oro, per l’inquietudine di quelli<br>Che hanno la loro elemosina dallo scrigno dell’Imperatrice.<br>Nasconde l’oro. |
-| *(didascalia)* | Entra [[characters/tamora\|Tamora]] sola, verso il Moro |
-| [[characters/tamora\|TAMORA]] | Mio leggiadro [[characters/aaron\|Aronne]], perché hai l’aria mesta<br>Quando ogni cosa fa lieto vanto?<br>Gli [[motifs/birds\|uccelli]] cantano melodie su ogni cespuglio,<br>Le serpi giacciono ravvolte nel sole giocondo,<br>Le verdi [[motifs/leaves\|foglie]] fremono al [[motifs/wind\|vento]] rinfrescante<br>E fanno un’[[archetypes/shadow\|ombra]] screziata sul terreno.<br>Sotto la loro dolce ombra, [[characters/aaron\|Aronne]], sediamoci,<br>E mentre l’eco cianciera schernisce i segugi,<br>Rispondendo stridula ai corni [[motifs/well\|bene]] intonati,<br>Come se una [[topoi/double\|doppia]] caccia s’udisse a un tempo,<br>Sediamoci e ascoltiamo il loro clamore latrante,<br>E dopo un amplesso quale si suppone<br>Godessero un tempo il principe errante e Didone<br>Quando da una propizia [[motifs/storm\|tempesta]] furon sorpresi<br>E velati da una [[motifs/cave\|caverna]] custode di segreti,<br>Potremo, avvinti l’uno nelle braccia dell’altro,<br>Finiti i nostri diletti, godere un aureo sopore<br>Mentre segugi e corni e dolci melodiosi [[motifs/birds\|uccelli]]<br>Ci saranno come il canto d’una [[characters/nurse\|nutrice]]<br>Di ninnananna per addormentare il suo bimbo. |
+| *(didascalia)* | Entra [[characters/tamora\|Tamora]] [[Alone\|sola]], verso il Moro |
+| [[characters/tamora\|TAMORA]] | Mio leggiadro [[characters/aaron\|Aronne]], perché hai l’aria mesta<br>Quando ogni cosa fa lieto vanto?<br>Gli [[motifs/birds\|uccelli]] cantano melodie su ogni cespuglio,<br>Le serpi giacciono ravvolte nel sole giocondo,<br>Le verdi [[motifs/leaves\|foglie]] fremono al [[motifs/wind\|vento]] rinfrescante<br>E fanno un’[[archetypes/shadow\|ombra]] screziata sul terreno.<br>Sotto la loro dolce ombra, [[characters/aaron\|Aronne]], sediamoci,<br>E mentre l’eco cianciera schernisce i segugi,<br>Rispondendo stridula ai corni [[motifs/well\|bene]] intonati,<br>Come se una [[topoi/double\|doppia]] caccia s’udisse a un tempo,<br>Sediamoci e ascoltiamo il loro clamore latrante,<br>E dopo un amplesso quale si suppone<br>Godessero un tempo il principe errante e Didone<br>Quando da una propizia [[motifs/storm\|tempesta]] furon sorpresi<br>E velati da una [[motifs/cave\|caverna]] custode di segreti,<br>Potremo, avvinti l’uno nelle braccia dell’altro,<br>Finiti i nostri diletti, godere un aureo sopore<br>Mentre segugi e corni e dolci melodiosi [[motifs/birds\|uccelli]]<br>Ci saranno come il [[Song\|canto]] d’una [[characters/nurse\|nutrice]]<br>Di ninnananna per addormentare il suo bimbo. |
 | [[characters/aaron\|AARON]] | Signora, benché [[characters/venus\|Venere]] governi i vostri desideri,<br>[[characters/saturn\|Saturno]] è dominatore sui miei.<br>Che significa il mio occhio fisso e mortale,<br>Il mio [[motifs/silence\|silenzio]], e la mia fosca [[concepts/melancholy\|malinconia]],<br>Il mio vello di capelli lanosi che ora si distende<br>Proprio come una vipera quando si svolge<br>Per compiere qualche fatale esecuzione?<br>No, signora, questi non sono segni venerei.<br>La vendetta è nel mio cuore, la [[motifs/death\|morte]] nella mia mano,<br>[[motifs/blood\|Sangue]] e [[concepts/revenge\|vendetta]] martellano nel mio capo.<br>Odi, [[characters/tamora\|Tamora]], imperatrice dell’[[motifs/soul\|anima]] mia,<br>Che non spera altro cielo di quello che in te riposa,<br>Questo è il giorno del giudizio per [[characters/bassianus\|Bassiano]].<br>La sua Filomela deve perdere oggi la lingua,<br>I tuoi figli faran preda della sua castità<br>E si laveran le mani nel [[motifs/blood\|sangue]] di [[characters/bassianus\|Bassiano]].<br>Vedi tu questa lettera? (Le dà una lettera) Raccoglila, ti prego,<br>E dà al [[archetypes/king\|Re]] questo rotolo di fatale trama.<br>Or non chiedermi altro. Siamo spiati.<br>Ecco venire una parte della nostra promettente preda,<br>Che ancor non teme la distruzione delle proprie vite. |
 | *(didascalia)* | Entrano [[characters/bassianus\|Bassiano]] e [[characters/lavinia\|Lavinia]] |
 | [[characters/tamora\|TAMORA]] | (a parte, a [[characters/aaron\|Aronne]])<br>Ah, mio dolce Moro, più dolce per me della vita! |
@@ -328,7 +1762,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/demetrius\|DEMETRIUS]] | (a [[characters/tamora\|Tamora]])<br>Udite, bella signora, sia vostra gloria<br>Vedere le sue [[motifs/tears\|lacrime]], ma sia il vostro cuore ad esse<br>Come selce inflessibile alle gocce di pioggia. |
 | [[characters/lavinia\|LAVINIA]] | Quando mai i piccoli della tigre ammaestrarono la madre?<br>Oh, non insegnarle l’ira! Fu lei a insegnartela.<br>Il latte che da lei succhiasti si mutò in marmo,<br>Già alla sua poppa avesti la tua tirannia.<br>Pur non ogni madre genera figli uguali.<br>(A Chirone) Pregala tu di mostrare pietà di donna. |
 | CHIRON | Che, vorresti farmi provare ch’io sono un bastardo? |
-| [[characters/lavinia\|LAVINIA]] | È vero, il corvo non cova un’allodola.<br>Pure ho udito—oh, potessi trovarlo adesso!—<br>Che il [[motifs/lion\|leone]], mosso a pietà, sopportò<br>Che gli fossero recise del tutto le regali unghie.<br>Alcuni dicono che i corvi nutrono i bimbi abbandonati<br>Mentre i loro [[motifs/birds\|nati]] patiscono la fame nei nidi.<br>Oh, sii per me, benché il tuo duro cuore dica di no,<br>Non tanto benigna, ma alquanto pietosa. |
+| [[characters/lavinia\|LAVINIA]] | È vero, [[The Raven\|il corvo]] non cova un’allodola.<br>Pure ho udito—oh, potessi trovarlo adesso!—<br>Che il [[motifs/lion\|leone]], mosso a pietà, sopportò<br>Che gli fossero recise del tutto le regali unghie.<br>Alcuni dicono che i corvi nutrono i bimbi abbandonati<br>Mentre i loro [[motifs/birds\|nati]] patiscono la fame nei nidi.<br>Oh, sii per me, benché il tuo duro cuore dica di no,<br>Non tanto benigna, ma alquanto pietosa. |
 | [[characters/tamora\|TAMORA]] | Non so che voglia dire. Via con lei! |
 | [[characters/lavinia\|LAVINIA]] | Oh, lascia ch’io t’insegni per amore di mio padre,<br>Che ti diede la vita quando [[motifs/well\|bene]] avrebbe potuto ucciderti.<br>Non essere ostinata, apri le tue orecchie sorde. |
 | [[characters/tamora\|TAMORA]] | Anche se tu in persona non m’avessi mai offesa,<br>Proprio per amor suo io sono spietata.<br>Ricordate, ragazzi, ch’io versai [[motifs/tears\|lacrime]] invano<br>Per salvare vostro fratello dal sacrificio,<br>Ma il feroce Andronico non volle piegarsi.<br>Perciò via con lei, e usatela come vorrete—<br>Peggio per lei, più amati da me. |
@@ -429,7 +1863,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/lucius\|LUCIUS]] | (cadendo in ginocchio)<br>Ahimè, questo spettacolo m’uccide. |
 | TITUS | Ragazzo dal cuore fiacco, àlzati e guardala. |
 | *(didascalia)* | [[characters/lucius\|Lucio]] si alza |
-| TITUS | Parla, [[characters/lavinia\|Lavinia]], quale mano maledetta<br>T’ha resa senza mani sotto gli occhi di tuo padre?<br>Quale [[archetypes/fool\|folle]] ha aggiunto [[motifs/water\|acqua]] al mare,<br>O ha portato una fascina a Troia ardente?<br>Il mio dolore era al colmo prima che tu venissi,<br>E ora, come il Nilo, disdegna ogni argine.<br>Datemi una spada, mozzerò anche le mie mani,<br>Ché han combattuto per Roma, e tutto invano;<br>E hanno nutrito questa sventura nel nutrire la vita;<br>In vana [[motifs/prayer\|preghiera]] sono state levate,<br>E m’hanno servito a inutile uso.<br>Ora tutto il servigio ch’io chiedo loro<br>È che l’una aiuti a mozzare l’altra.<br>È [[motifs/well\|bene]], [[characters/lavinia\|Lavinia]], che tu non abbia mani,<br>Ché aver mani per servire Roma è cosa vana. |
+| TITUS | Parla, [[characters/lavinia\|Lavinia]], quale mano maledetta<br>T’ha resa senza mani sotto gli occhi di tuo padre?<br>Quale [[archetypes/fool\|folle]] ha aggiunto [[motifs/water\|acqua]] al mare,<br>O ha portato una fascina a Troia ardente?<br>Il mio dolore era al colmo prima che tu venissi,<br>E ora, come il Nilo, disdegna ogni argine.<br>Datemi una [[Sword\|spada]], mozzerò anche le mie mani,<br>Ché han combattuto per Roma, e tutto invano;<br>E hanno nutrito questa sventura nel nutrire la vita;<br>In vana [[motifs/prayer\|preghiera]] sono state levate,<br>E m’hanno servito a inutile uso.<br>Ora tutto il servigio ch’io chiedo loro<br>È che l’una aiuti a mozzare l’altra.<br>È [[motifs/well\|bene]], [[characters/lavinia\|Lavinia]], che tu non abbia mani,<br>Ché aver mani per servire Roma è cosa vana. |
 | [[characters/lucius\|LUCIUS]] | Parla, gentile sorella, chi t’ha martirizzata. |
 | MARCUS | Oh, quel delizioso ordigno dei suoi pensieri,<br>Che li svelava con sì piacevole eloquenza,<br>È strappato via da quella bella gabbia incavata<br>Dove, come dolce melodioso uccello, cantava<br>Dolci note variate, incantando ogni orecchio. |
 | [[characters/lucius\|LUCIUS]] | Oh, di’ tu per lei, chi ha compiuto quest’atto? |
@@ -442,7 +1876,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | TITUS | Ah, Marco, Marco, fratello, [[motifs/well\|bene]] so io<br>Che il tuo fazzoletto non può bere una mia lacrima,<br>Ché tu, pover’uomo, l’hai annegato con le tue. |
 | [[characters/lucius\|LUCIUS]] | Ah, mia [[characters/lavinia\|Lavinia]], io t’asciugherò le guance. |
 | TITUS | Guarda, Marco, guarda. Io intendo i suoi segni.<br>Avesse lingua per parlare, ora direbbe<br>A suo fratello ciò ch’io ho detto a te.<br>Il suo fazzoletto tutto intriso delle sue vere [[motifs/tears\|lacrime]]<br>Non può render servigio alle guance dolenti di lei.<br>Oh, che consonanza di sventura è questa—<br>Lontana dal soccorso quanto il limbo dalla beatitudine. |
-| *(didascalia)* | Entra [[characters/aaron\|Aronne]] il Moro, solo |
+| *(didascalia)* | Entra [[characters/aaron\|Aronne]] il Moro, [[Alone\|solo]] |
 | [[characters/aaron\|AARON]] | [[characters/titus-andronicus\|Tito Andronico]], il mio signore l’Imperatore<br>Ti manda questo messaggio: che, se [[motifs/love\|ami]] i tuoi figli,<br>Marco, [[characters/lucius\|Lucio]] o tu stesso, vecchio Tito,<br>O uno qualunque di voi, si mozzi la mano<br>E la mandi al [[archetypes/king\|Re]]. Egli per la medesima<br>Ti manderà qui entrambi i tuoi figli vivi,<br>E quello sarà il riscatto della loro colpa. |
 | TITUS | O grazioso Imperatore! O gentile [[characters/aaron\|Aronne]],<br>Cantò mai corvo così somigliante all’allodola<br>Che dà dolce annuncio del levarsi del sole?<br>Con tutto il cuore manderò all’Imperatore la mia mano.<br>Buon [[characters/aaron\|Aronne]], vuoi tu aiutarmi a mozzarla? |
 | [[characters/lucius\|LUCIUS]] | Fermatevi, padre, ché quella vostra nobile mano,<br>Che ha atterrato tanti nemici,<br>Non sarà mandata. La mia mano servirà allo scopo.<br>La mia giovinezza può privarsi del mio [[motifs/blood\|sangue]] meglio di voi,<br>E perciò la mia salverà la vita dei miei fratelli. |
@@ -466,7 +1900,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | MARCUS | O fratello, parla entro il possibile,<br>E non prorompere in questi profondi eccessi. |
 | TITUS | Non sono profondi i miei dolori, non avendo [[characters/bottom\|fondo]]?<br>Siano dunque senza fondo con essi anche le mie passioni. |
 | MARCUS | Pure lascia che la ragione governi il tuo lamento. |
-| TITUS | Se ci fosse ragione per queste miserie,<br>Allora potrei stringere entro limiti le mie sventure.<br>Quando il cielo piange, non trabocca forse la<br>terra?<br>Se infuriano i venti, non impazza forse il mare,<br>Minacciando il firmamento col suo volto gonfio?<br>E tu vorresti una ragione per questo scompiglio?<br>Io sono il mare. Odi come soffiano i suoi sospiri.<br>Ella è il firmamento piangente, io la terra.<br>Il mio mare dev’essere dunque agitato dai suoi sospiri,<br>E la mia terra, per le sue continue [[motifs/tears\|lacrime]],<br>Deve divenire un diluvio, straripata e sommersa,<br>Perché le mie viscere non possono celare le sue sventure,<br>Ma come un ubriaco devo vomitarle.<br>Datemi dunque licenza, ché chi perde avrà licenza<br>Di sfogare lo stomaco con le sue lingue amare. |
+| TITUS | Se ci fosse ragione per queste miserie,<br>Allora potrei stringere entro limiti le mie sventure.<br>Quando il cielo piange, non trabocca forse la<br>terra?<br>Se infuriano i venti, non impazza forse il mare,<br>Minacciando il firmamento col suo volto gonfio?<br>E tu vorresti una ragione per questo scompiglio?<br>Io sono il mare. Odi come soffiano i suoi sospiri.<br>Ella è il firmamento piangente, io la terra.<br>Il mio mare dev’essere dunque agitato dai suoi sospiri,<br>E la mia terra, per le sue continue [[motifs/tears\|lacrime]],<br>Deve divenire un [[deluge\|diluvio]], straripata e sommersa,<br>Perché le mie viscere non possono celare le sue sventure,<br>Ma come un ubriaco devo vomitarle.<br>Datemi dunque licenza, ché chi perde avrà licenza<br>Di sfogare lo stomaco con le sue lingue amare. |
 | *(didascalia)* | Entra un Messaggero con due teste e una mano |
 | MESSAGGERO | Degno Andronico, mal sei ripagato<br>Per quella buona mano che mandasti all’Imperatore.<br>Ecco le teste dei tuoi due nobili figli,<br>Ed ecco la tua mano rimandatati per scherno—<br>Il tuo dolore è il loro sollazzo, la tua risolutezza derisa,<br>Sì che m’accora pensare alle tue sventure<br>Più che il ricordo della [[motifs/death\|morte]] di mio padre. |
 | *(didascalia)* | Depone le teste e la mano. Esce |
@@ -535,13 +1969,13 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | MARCUS | Come, come!—I libidinosi figli di [[characters/tamora\|Tamora]]<br>Esecutori di questo atroce sanguinoso atto? |
 | TITUS | Magni dominator poli,<br><br>Tam lentus audis scelera, tam lentus vides? |
 | MARCUS | Oh, calmati, gentile signore, benché io sappia<br>Che v’è abbastanza scritto su questa terra<br>Da suscitare un ammutinamento nei più miti pensieri,<br>E armare a grida le menti dei bambini.<br>Mio signore, inginocchiatevi con me; [[characters/lavinia\|Lavinia]], inginocchiati;<br>E inginocchiati, dolce fanciullo, [[concepts/hope\|speranza]] dell’[[characters/hector\|Ettore]] romano,<br>Tutti s’inginocchiano<br>E giurate con me—come, col dolente sposo<br>E padre di quella casta dama disonorata,<br>Il signor Giunio [[characters/brutus\|Bruto]] giurò per lo stupro di [[characters/lucrece\|Lucrezia]]—<br>Che noi perseguiremo con buon consiglio<br>Mortale [[concepts/revenge\|vendetta]] su questi traditori Goti,<br>E vedremo il loro [[motifs/blood\|sangue]], o morremo con questa onta.<br>Si alzano |
-| TITUS | È abbastanza certo, se sapeste come,<br>Ma se cacciate questi orsacchiotti, allora badate.<br>La madre si desterà, e se una volta vi [[motifs/wind\|fiuta]]<br>Ella è tuttora in stretta lega col [[motifs/lion\|leone]],<br>E lo culla mentre si trastulla supina,<br>E quando egli dorme farà ciò che le piace.<br>Tu sei un giovane cacciatore, Marco. Lascia stare,<br>E vieni, andrò a prendere una lastra di bronzo<br>E con una punta d’acciaio scriverò queste parole,<br>E la riporrò. L’irato [[motifs/wind\|vento]] di tramontana<br>Disperderà queste sabbie come le [[motifs/leaves\|foglie]] della Sibilla,<br>E dov’è allora la nostra lezione? Fanciullo, che dici? |
+| TITUS | È abbastanza certo, se sapeste come,<br>Ma se cacciate questi orsacchiotti, allora badate.<br>La madre si desterà, e se una volta vi [[motifs/wind\|fiuta]]<br>Ella è tuttora in stretta lega col [[motifs/lion\|leone]],<br>E lo culla mentre si trastulla supina,<br>E quando egli dorme farà ciò che le piace.<br>Tu sei un giovane cacciatore, Marco. Lascia [[Alone\|stare]],<br>E vieni, andrò a prendere una lastra di bronzo<br>E con una punta d’acciaio scriverò queste parole,<br>E la riporrò. L’irato [[motifs/wind\|vento]] di tramontana<br>Disperderà queste sabbie come le [[motifs/leaves\|foglie]] della Sibilla,<br>E dov’è allora la nostra lezione? Fanciullo, che dici? |
 | GIOVANE [[characters/lucius\|LUCIUS]] | Dico, mio signore, che se fossi un uomo<br>Neppure la camera da letto della loro madre sarebbe sicura<br>Per questi vili schiavi al giogo di Roma. |
 | MARCUS | Sì, questo è il mio ragazzo! Tuo padre ha ben spesso<br>Fatto altrettanto per la sua ingrata patria. |
 | GIOVANE [[characters/lucius\|LUCIUS]] | E, zio, così farò io, se vivrò. |
 | TITUS | Su, vieni con me nella mia armeria.<br>[[characters/lucius\|Lucio]], t’equipaggerò; e insieme, ragazzo mio,<br>Porterai da parte mia ai figli dell’Imperatrice<br>Doni ch’io intendo mandare a entrambi.<br>Su, su, farai la mia ambasciata, non è vero? |
 | GIOVANE [[characters/lucius\|LUCIUS]] | Sì, col mio pugnale nei loro petti, nonno. |
-| TITUS | No, ragazzo, non così. T’insegnerò un’altra via.<br>[[characters/lavinia\|Lavinia]], vieni. Marco, bada alla mia casa.<br>[[characters/lucius\|Lucio]] e io andremo a far bella figura a [[settings/court\|corte]].<br>Sì, per certo, lo faremo, signore, e saremo serviti. |
+| TITUS | No, ragazzo, non così. T’insegnerò un’altra via.<br>[[characters/lavinia\|Lavinia]], vieni. Marco, bada alla mia [[house\|casa]].<br>[[characters/lucius\|Lucio]] e io andremo a far bella figura a [[settings/court\|corte]].<br>Sì, per certo, lo faremo, signore, e saremo serviti. |
 | *(didascalia)* | Escono tutti tranne Marco |
 | MARCUS | O cieli, potete udire un uomo dabbene gemere<br>E non intenerirvi, o non compatirlo?<br>Marco, assistilo nel suo delirio,<br>Egli che ha più cicatrici di dolore nel cuore<br>Che segni di nemici sul suo scudo malconcio,<br>Ma pure sì giusto che non vuole [[concepts/revenge\|vendicarsi]].<br>[[concepts/revenge\|Vendichino]] i cieli il vecchio Andronico! Esce |
 
@@ -592,8 +2026,8 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/aaron\|AARON]] | Non morirà. |
 | [[characters/nurse\|NURSE]] | [[characters/aaron\|Aronne]], deve; la madre così vuole. |
 | [[characters/aaron\|AARON]] | Come, deve, [[characters/nurse\|nutrice]]? Allora nessun altro fuorché io<br>Faccia giustizia della mia carne e del mio [[motifs/blood\|sangue]]. |
-| [[characters/demetrius\|DEMETRIUS]] | Infilzerò il girino sulla punta del mio stocco.<br>[[characters/nurse\|Nutrice]], dammelo. La mia spada presto lo spaccerà. |
-| [[characters/aaron\|AARON]] | Prima questa spada t’arerà le viscere.<br>Prende il [[archetypes/child\|bambino]] e sguaina la spada<br>Fermi, scellerati assassini, volete uccidere vostro fratello?<br>Ora, per le ardenti fiaccole del cielo<br>Che splendettero sì luminose quando questo fanciullo fu generato,<br>Muore sull’aguzza punta della mia scimitarra<br>Chiunque tocchi costui, mio primogenito ed erede.<br>Ve lo dico, giovincelli, né Encelado<br>Con tutta la sua minacciosa schiera della stirpe di Tifone,<br>Né il grande Alcide, né il dio della guerra<br>Strapperà questa preda dalle mani di suo padre.<br>Come, come, voi ragazzi sanguigni, dal cuore leggero,<br>Voi muri imbiancati a calce, voi insegne dipinte di taverna,<br>Il nero di carbone è migliore d’ogni altro colore<br>In quanto disdegna di portarne un altro;<br>Ché tutta l’[[motifs/water\|acqua]] dell’oceano<br>Non potrà mai far bianche le nere zampe del cigno,<br>Benché egli le lavi ogni ora nell’onda.<br>Dite all’Imperatrice da parte mia che ho l’età<br>Di tenere il mio, se la scusi come può. |
+| [[characters/demetrius\|DEMETRIUS]] | Infilzerò il girino sulla punta del mio stocco.<br>[[characters/nurse\|Nutrice]], dammelo. La mia [[Sword\|spada]] presto lo spaccerà. |
+| [[characters/aaron\|AARON]] | Prima questa [[Sword\|spada]] t’arerà le viscere.<br>Prende il [[archetypes/child\|bambino]] e sguaina la [[Sword\|spada]]<br>Fermi, scellerati assassini, volete uccidere vostro fratello?<br>Ora, per le ardenti fiaccole del cielo<br>Che splendettero sì luminose quando questo fanciullo fu generato,<br>Muore sull’aguzza punta della mia scimitarra<br>Chiunque tocchi costui, mio primogenito ed erede.<br>Ve lo dico, giovincelli, né Encelado<br>Con tutta la sua minacciosa schiera della stirpe di Tifone,<br>Né il grande Alcide, né il dio della guerra<br>Strapperà questa preda dalle mani di suo padre.<br>Come, come, voi ragazzi sanguigni, dal cuore leggero,<br>Voi muri imbiancati a calce, voi insegne dipinte di taverna,<br>Il nero di carbone è migliore d’ogni altro colore<br>In quanto disdegna di portarne un altro;<br>Ché tutta l’[[motifs/water\|acqua]] dell’oceano<br>Non potrà mai far bianche le nere zampe del cigno,<br>Benché egli le lavi ogni ora nell’onda.<br>Dite all’Imperatrice da parte mia che ho l’età<br>Di tenere il mio, se la scusi come può. |
 | [[characters/demetrius\|DEMETRIUS]] | Vuoi tradire così la tua nobile signora? |
 | [[characters/aaron\|AARON]] | La mia signora è la mia signora, questo è me stesso,<br>La figura e il ritratto della mia giovinezza.<br>Questo io preferisco a tutto il mondo;<br>Questo a dispetto di tutto il mondo terrò al sicuro,<br>O qualcuno di voi ne pagherà il fumo in Roma. no |
 | [[characters/demetrius\|DEMETRIUS]] | Per questo nostra madre è svergognata per sempre. |
@@ -623,7 +2057,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | Entrano Tito, il vecchio Marco, suo figlio Publio, il giovane [[characters/lucius\|Lucio]], e altri gentiluomini ([[characters/sempronius\|Sempronio]], Caio) con archi; e Tito porta le frecce con lettere infilate in punta |
 | TITUS | Vieni, Marco, vieni; congiunti, ecco la via.<br>Signor ragazzo, fammi vedere la tua arte dell’arco.<br>Bada di tendere fino in [[motifs/home\|fondo]], e va’ dritto al segno.<br>Terras Astraea reliquit.<br><br>Ricòrdatene, Marco: se n’è andata, è fuggita.<br>Signori, prendete i vostri arnesi. Voi, cugini,<br>Andrete a scandagliare l’oceano e a gettar le reti.<br>Forse la prenderete nel mare;<br>Pure là c’è poca giustizia quanto in terra.<br>No, Publio e [[characters/sempronius\|Sempronio]], tocca a voi farlo.<br>Siete voi che dovete scavare con zappa e con vanga<br>E trafiggere l’intimo centro della terra.<br>Poi, quando giungerete al regno di Plutone,<br>Vi prego, consegnategli questa supplica.<br>Ditegli ch’è per giustizia e per soccorso,<br>E che viene dal vecchio Andronico,<br>Scosso dai dolori nell’ingrata Roma.<br>Ah, Roma! [[motifs/well\|Bene]], [[motifs/well\|bene]], io ti resi misera<br>Nel [[motifs/time\|tempo]] in cui gettai i suffragi del popolo<br>Su colui che così mi tiranneggia.<br>Andate, partite, e vi prego siate tutti attenti,<br>E non lasciate nave da guerra non perquisita.<br>Questo malvagio Imperatore può averla imbarcata via di qui,<br>E allora, congiunti, potremo suonare il piffero per la giustizia. |
 | MARCUS | Oh, Publio, non è questo un caso grave,<br>Veder così stravolto il tuo nobile zio? |
-| PUBLIUS | Perciò, signori miei, ci preme grandemente<br>Di giorno e di [[motifs/night\|notte]] assisterlo con cura<br>E assecondare benignamente il suo umore come possiamo,<br>Finché il [[motifs/time\|tempo]] non generi qualche sollecito rimedio. |
+| PUBLIUS | Perciò, signori miei, ci preme grandemente<br>Di giorno e di [[motifs/night\|notte]] assisterlo con cura<br>E assecondare benignamente il suo [[Humour\|umore]] come possiamo,<br>Finché il [[motifs/time\|tempo]] non generi qualche sollecito rimedio. |
 | MARCUS | Congiunti, i suoi dolori sono senza rimedio, |
 | *(didascalia)* | Ma |
 | MARCUS | Unitevi ai Goti, e con guerra vendicatrice<br>Prendete vendetta su Roma per quest’ingratitudine,<br>E castigo sul traditore Saturnino. |
@@ -647,7 +2081,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | BUFFONE | Dal cielo? Ahimè, signore, non ci sono mai stato. Dio mi guardi dall’essere così ardito da spingermi in cielo nei miei giovani anni. Ecco, vado coi miei piccioni al tribunale plebe per accomodare una questione di rissa fra mio zio e uno degli uomini dell’Imperiale. |
 | TITUS | Ehi tu, vieni qua. Non far più storie,<br>Ma dà i tuoi piccioni all’Imperatore.<br>Per mio mezzo avrai giustizia dalle sue mani.<br>Tieni, tieni—(dandogli denaro) intanto, ecco denaro<br>per le tue spese.<br>Datemi penna e inchiostro. Ehi tu, sapresti con garbo<br>Presentare una supplica? |
 | BUFFONE | Sì, signore. |
-| TITUS | (scrivendo e dando al Buffone un foglio) Ecco dunque una supplica per te, e quando giungerai da lui, al primo accostarti devi inginocchiarti, poi baciargli il piede, poi consegnare i tuoi piccioni, e poi aspettarti la tua ricompensa. Sarò lì presso, signore; bada di farlo bravamente. BUFFONE Ve lo garantisco, signore. Lasciate fare a me. |
+| TITUS | (scrivendo e dando al Buffone un foglio) Ecco dunque una supplica per te, e quando giungerai da lui, al primo accostarti devi inginocchiarti, poi baciargli il piede, poi consegnare i tuoi piccioni, e poi aspettarti la tua ricompensa. Sarò lì presso, signore; bada di farlo bravamente. BUFFONE Ve lo garantisco, signore. Lasciate fare a [[Alone\|me]]. |
 | TITUS | Ehi tu, hai un coltello? Su, fammelo vedere.<br>Ecco, Marco, piegalo dentro l’orazione,<br>Ché tu l’hai composta come un umile supplice.<br>E quando l’avrai data all’Imperatore,<br>Bussa alla mia porta e dimmi che cosa dice. |
 | BUFFONE | Dio sia con voi, signore. Lo farò. Esce |
 | TITUS | Vieni, Marco, andiamo. Publio, seguimi. Escono |
@@ -657,7 +2091,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[characters/saturninus\|Saturnino]], l’Imperatore, e [[characters/tamora\|Tamora]], l’Imperatrice, e Chirone e [[characters/demetrius\|Demetrio]], i suoi due figli, e altri. L’Imperatore reca in mano le frecce che Tito gli ha scoccato contro |
-| [[characters/saturninus\|SATURNINUS]] | Ebbene, signori, che torti son questi! S’è mai visto<br>Un imperatore in Roma così sopraffatto,<br>Turbato, sfidato a tal segno, e per l’esercizio<br>D’equa giustizia trattato con tanto disprezzo?<br>Signori miei, voi sapete, come sanno i possenti dèi,<br>Per quanto questi turbatori della nostra pace<br>Ronzino agli orecchi del popolo, nulla è avvenuto<br>Se non secondo legge contro i figli ostinati<br>Del vecchio Andronico. E che importa se<br>I suoi dolori gli hanno così sopraffatto il senno?<br>Dovremo essere così tormentati dai suoi rancori,<br>Dai suoi accessi, dalla sua frenesia e dalla sua amarezza?<br>E ora scrive al cielo per il suo risarcimento.<br>Guardate, ecco ‘a Giove’ e questa ‘a Mercurio’,<br>Questa ‘ad [[characters/apollo\|Apollo]]’, questa ‘al dio della guerra’—<br>Dolci cartigli da volare per le strade di Roma!<br>Che è questo se non un libello contro il Senato<br>E un blasonare dovunque la nostra ingiustizia?<br>Un bell’umore, non è vero, signori miei?—<br>Come a dire che in Roma non v’è giustizia.<br>Ma, s’io vivo, le sue finte estasi<br>Non saranno riparo a questi oltraggi,<br>Ma egli e i suoi sapranno che la giustizia vive<br>Nella salute di [[characters/saturninus\|Saturnino]], il quale, se [[motifs/sleep\|dorme]],<br>Si desterà tale che nel furore<br>Reciderà il più superbo cospiratore che viva. |
+| [[characters/saturninus\|SATURNINUS]] | Ebbene, signori, che torti son questi! S’è mai visto<br>Un imperatore in Roma così sopraffatto,<br>Turbato, sfidato a tal segno, e per l’esercizio<br>D’equa giustizia trattato con tanto disprezzo?<br>Signori miei, voi sapete, come sanno i possenti dèi,<br>Per quanto questi turbatori della nostra pace<br>Ronzino agli orecchi del popolo, nulla è avvenuto<br>Se non secondo legge contro i figli ostinati<br>Del vecchio Andronico. E che importa se<br>I suoi dolori gli hanno così sopraffatto il senno?<br>Dovremo essere così tormentati dai suoi rancori,<br>Dai suoi accessi, dalla sua frenesia e dalla sua amarezza?<br>E ora scrive al cielo per il suo risarcimento.<br>Guardate, ecco ‘a Giove’ e questa ‘a Mercurio’,<br>Questa ‘ad [[characters/apollo\|Apollo]]’, questa ‘al dio della guerra’—<br>Dolci cartigli da volare per le strade di Roma!<br>Che è questo se non un libello contro il Senato<br>E un blasonare dovunque la nostra ingiustizia?<br>Un bell’[[Humour\|umore]], non è vero, signori miei?—<br>Come a dire che in Roma non v’è giustizia.<br>Ma, s’io vivo, le sue finte estasi<br>Non saranno riparo a questi oltraggi,<br>Ma egli e i suoi sapranno che la giustizia vive<br>Nella salute di [[characters/saturninus\|Saturnino]], il quale, se [[motifs/sleep\|dorme]],<br>Si desterà tale che nel furore<br>Reciderà il più superbo cospiratore che viva. |
 | [[characters/tamora\|TAMORA]] | Mio grazioso signore, mio amabile Saturnino,<br>Signore della mia vita, comandante dei miei pensieri,<br>Calmati, e sopporta le colpe dell’età di Tito,<br>Gli effetti del dolore per i suoi valorosi figli<br>La cui perdita l’ha trafitto a fondo e sfregiato il suo<br>cuore;<br>E piuttosto conforta il suo stato afflitto<br>Che perseguire il più umile o il migliore<br>Per questi disprezzi. (A parte) Ecco, così si converrà<br>All’astuta [[characters/tamora\|Tamora]] blandire tutti.<br>Ma, Tito, io t’ho toccato nel vivo.<br>Fuori il [[motifs/blood\|sangue]] della tua vita: se [[characters/aaron\|Aronne]] ora è savio,<br>Allora tutto è salvo, l’àncora è in porto. |
 | *(didascalia)* | Entra il Buffone |
 | [[characters/tamora\|TAMORA]] | Ebbene, buon uomo, vorresti parlare con noi? |
@@ -677,7 +2111,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/saturninus\|SATURNINUS]] | Sì, ma i cittadini favoriscono [[characters/lucius\|Lucio]],<br>E si ribelleranno a me per soccorrerlo. |
 | [[characters/tamora\|TAMORA]] | [[archetypes/king\|Re]], siano i tuoi pensieri imperiosi come il tuo nome.<br>È forse offuscato il sole perché vi volano dentro i moscerini?<br>L’aquila lascia cantare i piccoli [[motifs/birds\|uccelli]],<br>E non si cura di ciò che con questo intendano,<br>Sapendo che con l’[[archetypes/shadow\|ombra]] delle sue ali<br>Può a piacere troncare la loro melodia.<br>Così puoi tu con gli sventati uomini di Roma.<br>Rallegra dunque il tuo spirito; ché sappi, Imperatore,<br>Io incanterò il vecchio Andronico<br>Con parole più dolci e pur più pericolose<br>Che l’esca per i pesci o gli steli di miele per le pecore<br>Poiché l’uno è ferito dall’esca,<br>L’altra guastata dal delizioso pascolo. |
 | [[characters/saturninus\|SATURNINUS]] | Ma egli non pregherà suo figlio per noi. |
-| [[characters/tamora\|TAMORA]] | Se [[characters/tamora\|Tamora]] lo prega, allora lo farà,<br>Ché io so lisciare e colmare i suoi vecchi orecchi<br>Di promesse d’oro, sì che, fosse il suo cuore<br>Quasi inespugnabile, sordi i suoi vecchi orecchi,<br>Pure orecchio e cuore obbedirebbero alla mia lingua.<br>(A Emilio) Va’ tu innanzi a farci da ambasciatore.<br>Di’ che l’Imperatore chiede un abboccamento<br>Col bellicoso [[characters/lucius\|Lucio]], e fissa l’incontro<br>Proprio nella casa di suo padre, il vecchio Andronico. |
+| [[characters/tamora\|TAMORA]] | Se [[characters/tamora\|Tamora]] lo prega, allora lo farà,<br>Ché io so lisciare e colmare i suoi vecchi orecchi<br>Di promesse d’oro, sì che, fosse il suo cuore<br>Quasi inespugnabile, sordi i suoi vecchi orecchi,<br>Pure orecchio e cuore obbedirebbero alla mia lingua.<br>(A Emilio) Va’ tu innanzi a farci da ambasciatore.<br>Di’ che l’Imperatore chiede un abboccamento<br>Col bellicoso [[characters/lucius\|Lucio]], e fissa l’incontro<br>Proprio nella [[house\|casa]] di suo padre, il vecchio Andronico. |
 | [[characters/saturninus\|SATURNINUS]] | Emilio, compi onorevolmente quest’ambasciata,<br>E se egli insiste per ostaggi a sua sicurezza,<br>Digli di chiedere il pegno che più gli piaccia. |
 | AEMILIUS | Eseguirò efficacemente il vostro comando. Esce |
 | [[characters/tamora\|TAMORA]] | Ora andrò da quel vecchio Andronico,<br>E lo piegherò con tutta l’arte ch’io possiedo<br>A strappare il superbo [[characters/lucius\|Lucio]] ai bellicosi Goti.<br>E ora, dolce Imperatore, torna lieto,<br>E seppellisci ogni tuo [[concepts/fear\|timore]] nei miei artifici. |
@@ -724,7 +2158,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | Entra Emilio |
 | [[characters/lucius\|LUCIUS]] | UN GOTO<br>Mio signore, c’è un messaggero da Roma<br>Che desidera essere ammesso alla vostra presenza. |
 | [[characters/lucius\|LUCIUS]] | Fatelo avvicinare.<br>Benvenuto, Emilio. Quali novelle da Roma? |
-| AEMILIUS | Signor [[characters/lucius\|Lucio]], e voi principi dei Goti,<br>L’Imperatore romano vi saluta tutti per mio mezzo,<br>E poiché intende che siete in armi,<br>Chiede un abboccamento nella casa di vostro padre,<br>Invitandovi a chiedere i vostri ostaggi,<br>E vi saranno immediatamente consegnati.<br>UN GOTO Che dice il nostro generale? |
+| AEMILIUS | Signor [[characters/lucius\|Lucio]], e voi principi dei Goti,<br>L’Imperatore romano vi saluta tutti per mio mezzo,<br>E poiché intende che siete in armi,<br>Chiede un abboccamento nella [[house\|casa]] di vostro padre,<br>Invitandovi a chiedere i vostri ostaggi,<br>E vi saranno immediatamente consegnati.<br>UN GOTO Che dice il nostro generale? |
 | [[characters/lucius\|LUCIUS]] | Emilio, dia l’Imperatore i suoi pegni<br>A mio padre e a mio zio Marco,<br>E noi verremo. Via! |
 | *(didascalia)* | Squilli di tromba. Escono marciando |
 
@@ -751,20 +2185,20 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | T’abbraccerò con esso fra poco. Esce dall’alto |
 | [[characters/tamora\|TAMORA]] | Quest’accordarmi con lui s’adatta alla sua follia.<br>Qualunque cosa io foggi per pascere i suoi umori malati<br>Voi sostenetela e mantenetela nei vostri discorsi,<br>Ché ora egli fermamente mi prende per la [[concepts/revenge\|Vendetta]],<br>E, credulo in questo folle pensiero,<br>Gli farò mandare a chiamare [[characters/lucius\|Lucio]], suo figlio,<br>E mentre a un banchetto lo terrò sicuro<br>Troverò lì per lì qualche astuto espediente<br>Per sbandare e disperdere gli sventati Goti,<br>O per lo meno renderli suoi nemici.<br>Ecco, egli viene, e devo attenermi al mio tema. |
 | *(didascalia)* | Entra Tito, in basso |
-| TITUS | A lungo sono stato derelitto, e tutto per te.<br>Benvenuta, tremenda Furia, nella mia dolente casa.<br>Rapina e Omicidio, benvenuti anche voi.<br>Come somigliate all’Imperatrice e ai suoi figli!<br>[[motifs/well\|Bene]] sareste al completo, aveste solo un Moro.<br>Non poteva tutto l’inferno fornirvi un tal diavolo?—<br>Ché [[motifs/well\|ben]] so che l’Imperatrice non si muove mai<br>Senza che in sua compagnia vi sia un Moro,<br>E se voleste rappresentare a dovere la nostra [[characters/queen\|Regina]]<br>Sarebbe conveniente che aveste un tal diavolo.<br>Ma siate i benvenuti come siete. Che faremo? |
+| TITUS | A lungo sono stato derelitto, e tutto per te.<br>Benvenuta, tremenda Furia, nella mia dolente [[house\|casa]].<br>Rapina e Omicidio, benvenuti anche voi.<br>Come somigliate all’Imperatrice e ai suoi figli!<br>[[motifs/well\|Bene]] sareste al completo, aveste solo un Moro.<br>Non poteva tutto l’inferno fornirvi un tal diavolo?—<br>Ché [[motifs/well\|ben]] so che l’Imperatrice non si muove mai<br>Senza che in sua compagnia vi sia un Moro,<br>E se voleste rappresentare a dovere la nostra [[characters/queen\|Regina]]<br>Sarebbe conveniente che aveste un tal diavolo.<br>Ma siate i benvenuti come siete. Che faremo? |
 | [[characters/tamora\|TAMORA]] | Che vorresti che facessimo, Andronico? |
 | [[characters/demetrius\|DEMETRIUS]] | Mostrami un assassino, me ne occuperò io. |
 | CHIRON | Mostrami uno [[archetypes/villain\|scellerato]] che abbia commesso uno stupro,<br>E son mandato a vendicarmi di lui. |
 | [[characters/tamora\|TAMORA]] | Mostrami un migliaio che t’abbiano fatto torto,<br>E io mi vendicherò di tutti loro. |
 | TITUS | (a [[characters/demetrius\|Demetrio]])<br>Guàrdati intorno per le malvagie strade di Roma,<br>E quando troverai un uomo simile a te stesso,<br>Buon Omicidio, pugnalalo; è un assassino.<br>(A Chirone) Va’ tu con lui, e quando ti capiterà<br>Di trovarne un altro simile a te,<br>Buona Rapina, pugnalalo; è un violentatore.<br>(A [[characters/tamora\|Tamora]]) Va’ tu con loro, e nella [[settings/court\|corte]]<br>dell’Imperatore<br>V’è una [[characters/queen\|regina]] servita da un Moro.<br>[[motifs/well\|Bene]] la riconoscerai dalla tua stessa figura,<br>Ché in tutto e per tutto ti somiglia.<br>Ti prego, dà loro qualche violenta [[motifs/death\|morte]];<br>Sono stati violenti con me e coi miei. |
-| [[characters/tamora\|TAMORA]] | [[motifs/well\|Bene]] ci hai istruiti. Così faremo;<br>Ma ti piacerebbe, buon Andronico,<br>Mandare a chiamare [[characters/lucius\|Lucio]], il tuo tre volte valoroso figlio,<br>Che guida verso Roma una schiera di bellicosi Goti,<br>E invitarlo a venire a banchettare nella tua casa—<br>Quando sarà qui, proprio al tuo solenne convito,<br>Io condurrò dentro l’Imperatrice e i suoi figli,<br>L’Imperatore stesso, e tutti i tuoi nemici,<br>E alla tua [[concepts/mercy\|mercé]] si piegheranno e s’inginocchieranno,<br>E su di loro sfogherai il tuo cuore adirato.<br>Che dice Andronico a questo disegno? |
+| [[characters/tamora\|TAMORA]] | [[motifs/well\|Bene]] ci hai istruiti. Così faremo;<br>Ma ti piacerebbe, buon Andronico,<br>Mandare a chiamare [[characters/lucius\|Lucio]], il tuo tre volte valoroso figlio,<br>Che guida verso Roma una schiera di bellicosi Goti,<br>E invitarlo a venire a banchettare nella tua [[house\|casa]]—<br>Quando sarà qui, proprio al tuo solenne convito,<br>Io condurrò dentro l’Imperatrice e i suoi figli,<br>L’Imperatore stesso, e tutti i tuoi nemici,<br>E alla tua [[concepts/mercy\|mercé]] si piegheranno e s’inginocchieranno,<br>E su di loro sfogherai il tuo cuore adirato.<br>Che dice Andronico a questo disegno? |
 | TITUS | Marco, fratello mio! È il dolente Tito che chiama. |
 | *(didascalia)* | Entra Marco |
-| TITUS | Va’, gentile Marco, da tuo nipote [[characters/lucius\|Lucio]].<br>Lo cercherai fra i Goti.<br>Digli di venire da me, e di condurre con sé<br>Alcuni dei principali principi dei Goti.<br>Digli d’accampare i suoi soldati dove sono.<br>Digli che l’Imperatore e anche l’Imperatrice<br>Banchettano nella mia casa, ed egli banchetterà con loro.<br>Fa’ questo per il mio [[motifs/love\|amore]], e così faccia lui,<br>Se ha a cuore la vita del suo vecchio padre. |
+| TITUS | Va’, gentile Marco, da tuo nipote [[characters/lucius\|Lucio]].<br>Lo cercherai fra i Goti.<br>Digli di venire da me, e di condurre con sé<br>Alcuni dei principali principi dei Goti.<br>Digli d’accampare i suoi soldati dove sono.<br>Digli che l’Imperatore e anche l’Imperatrice<br>Banchettano nella mia [[house\|casa]], ed egli banchetterà con loro.<br>Fa’ questo per il mio [[motifs/love\|amore]], e così faccia lui,<br>Se ha a cuore la vita del suo vecchio padre. |
 | MARCUS | Questo farò, e presto tornerò. Esce |
 | [[characters/tamora\|TAMORA]] | Ora me n’andrò per la tua faccenda,<br>E porterò con me i miei ministri. |
 | TITUS | No, no, restino con me lo Stupro e l’Omicidio,<br>O altrimenti richiamerò indietro mio fratello,<br>E non m’atterrò ad altra [[concepts/revenge\|vendetta]] che [[characters/lucius\|Lucio]]. |
-| [[characters/tamora\|TAMORA]] | (a parte ai suoi figli)<br>Che dite, ragazzi, resterete con lui<br>Mentre io vado a dire al mio signore l’Imperatore<br>Come ho condotto la burla che avevamo stabilita?<br>Cedete al suo umore, lusingatelo e parlategli bene,<br>E trattenetevi con lui finché io non ritorni. |
+| [[characters/tamora\|TAMORA]] | (a parte ai suoi figli)<br>Che dite, ragazzi, resterete con lui<br>Mentre io vado a dire al mio signore l’Imperatore<br>Come ho condotto la burla che avevamo stabilita?<br>Cedete al suo [[Humour\|umore]], lusingatelo e parlategli bene,<br>E trattenetevi con lui finché io non ritorni. |
 | TITUS | (a parte)<br>Li ho riconosciuti tutti, benché mi credessero pazzo,<br>E li supererò nei loro stessi artifici—<br>Una coppia di maledetti mastini infernali e la loro madre. |
 | [[characters/demetrius\|DEMETRIUS]] | Signora, partite a piacere. Lasciateci qui. |
 | [[characters/tamora\|TAMORA]] | Addio, Andronico. La [[concepts/revenge\|Vendetta]] ora va<br>A ordire un complotto per tradire i tuoi nemici. |
@@ -830,10 +2264,10 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | Entrano i Goti. [[characters/lucius\|Lucio]], Marco e altri salgono in alto |
 | MARCUS | Voi uomini dal volto mesto, popolo e figli di Roma,<br>Divisi dai tumulti, come uno stormo d’uccelli<br>Disperso da venti e da alte raffiche tempestose,<br>Oh, lasciate ch’io v’insegni a riunire di nuovo<br>Questo grano sparso in un unico covone comune,<br>Queste membra spezzate di nuovo in un solo [[concepts/body\|corpo]].<br>UN SIGNORE ROMANO<br>Sia Roma stessa veleno a se stessa,<br>Ed ella, a cui potenti regni fanno riverenza,<br>Come un derelitto e disperato naufrago,<br>Compia vergognosa esecuzione su se stessa<br>Se i miei gelidi segni e le crepe dell’età,<br>[[motifs/grave\|Gravi]] testimoni di vera esperienza,<br>Non possono indurvi ad ascoltare le mie parole.<br>(A [[characters/lucius\|Lucio]]) Parla, caro amico di Roma, come già il nostro<br>antenato<br>Quando con la sua solenne lingua narrò<br>All’orecchio mestamente attento di Didone innamorata<br>La storia di quella [[motifs/night\|notte]] di funesto incendio<br>Quando i sottili Greci sorpresero la Troia del [[archetypes/king\|Re]] Priamo.<br>Dicci qual Sinone ha stregato i nostri orecchi,<br>O chi ha introdotto la fatale macchina<br>Che dà alla nostra Troia, alla nostra Roma, la ferita civile.<br>Il mio cuore non è composto di selce né d’acciaio,<br>Né posso esprimere tutto il nostro amaro dolore,<br>Ché fiumi di [[motifs/tears\|lacrime]] annegheranno la mia oratoria<br>E spezzeranno la mia parola proprio nel [[motifs/time\|momento]]<br>In cui dovrebbe muovervi ad ascoltarmi di più,<br>E costringervi a commiserazione.<br>Ecco il giovane capitano di Roma. Racconti egli la storia,<br>Mentre io sto in disparte e piango a udirlo parlare. |
 | [[characters/lucius\|LUCIUS]] | Allora, grazioso uditorio, vi sia noto<br>Che Chirone e il dannato [[characters/demetrius\|Demetrio]]<br>Furono coloro che assassinarono il fratello del nostro Imperatore,<br>E furono essi a violare nostra sorella.<br>Per le loro crudeli colpe i nostri fratelli furono decapitati,<br>Le [[motifs/tears\|lacrime]] di nostro padre disprezzate, ed egli vilmente truffato<br>Di quella fedele mano che combatté fino in fondo la causa di Roma<br>E mandò i suoi nemici alla [[motifs/grave\|tomba]].<br>Infine io stesso, crudelmente bandito,<br>Le porte chiuse su di me, e cacciato via piangente<br>A mendicare soccorso fra i nemici di Roma,<br>I quali annegarono la loro inimicizia nelle mie sincere [[motifs/tears\|lacrime]]<br>E apersero le braccia ad abbracciarmi come amico.<br>Io sono il cacciato via, vi sia noto,<br>Che ho preservato il suo bene col mio [[motifs/blood\|sangue]],<br>E dal suo seno ho ricevuto la punta del nemico,<br>Inguainando l’acciaio nel mio avventuroso [[concepts/body\|corpo]].<br>Ahimè, sapete ch’io non sono un millantatore.<br>Le mie cicatrici possono testimoniare, mute benché siano,<br>Che il mio racconto è giusto e pieno di [[concepts/truth\|verità]].<br>Ma piano, mi pare di divagare troppo,<br>Adducendo la mia vana lode. Oh, perdonatemi,<br>Ché quando non v’è amico accanto, gli uomini lodano se stessi. |
-| MARCUS | Ora tocca a me parlare. Ecco il [[archetypes/child\|bambino]].<br>Di questo fu sgravata [[characters/tamora\|Tamora]],<br>La prole d’un Moro irreligioso,<br>Principale architetto e ordinatore di queste sciagure.<br>Lo [[archetypes/villain\|scellerato]] è vivo nella casa di Tito,<br>Ed egli è là a testimoniare che questo è vero.<br>Ora giudicate qual motivo ebbe Tito di [[concepts/revenge\|vendicare]]<br>Questi torti indicibili, oltre ogni pazienza,<br>O più di quanto uomo vivente potrebbe sopportare.<br>Ora avete udito la [[concepts/truth\|verità]]. Che dite,<br>Romani?<br>Se abbiamo fatto alcunché di male, mostrateci in che,<br>E dal luogo dove ci vedete perorare<br>Il povero avanzo degli Andronici<br>Mano nella mano ci getteremo tutti a capofitto<br>E sulle pietre scabre spanderemo le nostre anime<br>E faremo comune chiusura della nostra casa.<br>Parlate, Romani, parlate, e se dite che lo faremo;<br>Ecco, mano nella mano [[characters/lucius\|Lucio]] e io cadremo. |
+| MARCUS | Ora tocca a me parlare. Ecco il [[archetypes/child\|bambino]].<br>Di questo fu sgravata [[characters/tamora\|Tamora]],<br>La prole d’un Moro irreligioso,<br>Principale architetto e ordinatore di queste sciagure.<br>Lo [[archetypes/villain\|scellerato]] è vivo nella [[house\|casa]] di Tito,<br>Ed egli è là a testimoniare che questo è vero.<br>Ora giudicate qual motivo ebbe Tito di [[concepts/revenge\|vendicare]]<br>Questi torti indicibili, oltre ogni pazienza,<br>O più di quanto uomo vivente potrebbe sopportare.<br>Ora avete udito la [[concepts/truth\|verità]]. Che dite,<br>Romani?<br>Se abbiamo fatto alcunché di male, mostrateci in che,<br>E dal luogo dove ci vedete perorare<br>Il povero avanzo degli Andronici<br>Mano nella mano ci getteremo tutti a capofitto<br>E sulle pietre scabre spanderemo le nostre anime<br>E faremo comune chiusura della nostra [[house\|casa]].<br>Parlate, Romani, parlate, e se dite che lo faremo;<br>Ecco, mano nella mano [[characters/lucius\|Lucio]] e io cadremo. |
 | AEMILIUS | Venite, venite, o venerando uomo di Roma,<br>E conducete gentilmente per mano il nostro imperatore,<br>[[characters/lucius\|Lucio]], il nostro imperatore—ché [[motifs/well\|ben]] so<br>Che la voce comune grida che così sarà. |
 | ROMANI | [[characters/lucius\|Lucio]], salve, regale imperatore di Roma! |
-| MARCUS | (ai servi)<br>Andate, andate nella dolente casa del vecchio Tito<br>E trascinate qua quel miscredente Moro<br>Perché gli sia aggiudicata qualche atroce [[motifs/death\|morte]] carnefice<br>A punizione della sua vita scelleratissima. Escono alcuni |
+| MARCUS | (ai servi)<br>Andate, andate nella dolente [[house\|casa]] del vecchio Tito<br>E trascinate qua quel miscredente Moro<br>Perché gli sia aggiudicata qualche atroce [[motifs/death\|morte]] carnefice<br>A punizione della sua vita scelleratissima. Escono alcuni |
 | *(didascalia)* | [[characters/lucius\|Lucio]], Marco e gli altri scendono |
 | *(didascalia)* | ROMANI |
 | MARCUS | [[characters/lucius\|Lucio]], salve, grazioso governatore di Roma! |
@@ -878,8 +2312,8 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | Exeunt his soldiers and followers |
 | [[characters/saturninus\|SATURNINUS]] | (To the Tribunes and Senators)<br>Rome, be as just and gracious unto me<br>As I am confident and kind to thee.<br>Open the gates and let me in. |
 | [[characters/bassianus\|BASSIANUS]] | Tribunes, and me, a poor competitor. |
-| *(didascalia)* | Flourish. They go up into the Senate House. Enter a Captain |
-| CAPTAIN | Romans, make way. The good Andronicus,<br>Patron of virtue, Rome’s best champion,<br>Successful in the battles that he fights,<br>With [[concepts/honour\|honour]] and with fortune is returned<br>From where he circumscribed with his sword<br>And brought to yoke the enemies of Rome. |
+| *(didascalia)* | Flourish. They go up into the Senate [[house\|House]]. Enter a Captain |
+| CAPTAIN | Romans, make way. The good Andronicus,<br>Patron of virtue, Rome’s best champion,<br>Successful in the battles that he fights,<br>With [[concepts/honour\|honour]] and with fortune is returned<br>From where he circumscribed with his [[Sword\|sword]]<br>And brought to yoke the enemies of Rome. |
 | *(didascalia)* | Sound drums and trumpets, and then enter Martius |
 | *(didascalia)* | and Mutius, two of Titus’ sons, and then men |
 | *(didascalia)* | bearing coffins covered with black, then [[characters/lucius\|Lucius]] and |
@@ -887,7 +2321,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | his chariot and then [[characters/tamora\|Tamora]] the [[characters/queen\|Queen]] of Goths |
 | CAPTAIN | and her sons Alarbus, Chiron, and [[characters/demetrius\|Demetrius]], with<br><br>[[characters/aaron\|Aaron]] the Moor and others as many as can be. |
 | *(didascalia)* | Then set down the coffins, and Titus speaks |
-| TITUS | Hail, Rome, victorious in thy mourning weeds!<br>Lo, as the bark that hath discharged his freight<br>Returns with precious lading to the bay<br>From whence at first she weighed her anchorage,<br>Cometh Andronicus, bound with laurel bows,<br>To re-salute his country with his [[motifs/tears\|tears]],<br>[[motifs/tears\|Tears]] of true joy for his return to Rome.<br>Thou great defender of this Capitol,<br>Stand gracious to the rites that we intend.<br>Romans, of five-and-twenty valiant sons,<br>Half of the number that [[archetypes/king\|King]] Priam had,<br>Behold the poor remains, alive and dead.<br>These that survive let Rome reward with [[motifs/love\|love]];<br>These that I bring unto their latest [[motifs/home\|home]],<br>With burial amongst their ancestors.<br>Here Goths have given me leave to sheathe my sword.<br>Titus unkind, and careless of thine own,<br>Why suffer’st thou thy sons unburied yet<br>To hover on the dreadful shore of Styx?<br>Make way to lay them by their brethren.<br>They open the tomb<br>There greet in [[motifs/silence\|silence]] as the dead are wont,<br>And [[motifs/sleep\|sleep]] in peace, slain in your country’s wars.<br>O sacred receptacle of my joys,<br>Sweet cell of virtue and nobility,<br>How many sons hast thou of mine in store<br>That thou wilt never render to me more! |
+| TITUS | Hail, Rome, victorious in thy mourning weeds!<br>Lo, as the bark that hath discharged his freight<br>Returns with precious lading to the bay<br>From whence at first she weighed her anchorage,<br>Cometh Andronicus, bound with laurel bows,<br>To re-salute his country with his [[motifs/tears\|tears]],<br>[[motifs/tears\|Tears]] of true joy for his return to Rome.<br>Thou great defender of this Capitol,<br>Stand gracious to the rites that we intend.<br>Romans, of five-and-twenty valiant sons,<br>Half of the number that [[archetypes/king\|King]] Priam had,<br>Behold the poor remains, alive and dead.<br>These that survive let Rome reward with [[motifs/love\|love]];<br>These that I bring unto their latest [[motifs/home\|home]],<br>With burial amongst their ancestors.<br>Here Goths have given me leave to sheathe my [[Sword\|sword]].<br>Titus unkind, and careless of thine own,<br>Why suffer’st thou thy sons unburied yet<br>To hover on the dreadful shore of Styx?<br>Make way to lay them by their brethren.<br>They open the tomb<br>There greet in [[motifs/silence\|silence]] as the dead are wont,<br>And [[motifs/sleep\|sleep]] in peace, slain in your country’s wars.<br>O sacred receptacle of my joys,<br>Sweet cell of virtue and nobility,<br>How many sons hast thou of mine in store<br>That thou wilt never render to me more! |
 | [[characters/lucius\|LUCIUS]] | Give us the proudest prisoner of the Goths,<br>That we may hew his limbs and on a pile<br>Ad manes fratrum sacrifice his flesh<br>Before this earthy [[motifs/prison\|prison]] of their bones,<br>That so the shadows be not unappeased,<br>Nor we disturbed with prodigies on earth. |
 | TITUS | I give him you, the noblest that survives,<br>The eldest son of this distressed [[characters/queen\|Queen]]. |
 | *(didascalia)* | [[characters/tamora\|TAMORA]] kneeling |
@@ -928,7 +2362,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | MARCUS | Tribunes, with [[characters/saturninus\|Saturninus]] and [[characters/bassianus\|Bassianus]],<br><br>come down.<br><br>Marcus invests [[characters/saturninus\|Saturninus]] in the white |
 | *(didascalia)* | palliament and hands him a sceptre |
 | [[characters/saturninus\|SATURNINUS]] | [[characters/titus-andronicus\|Titus Andronicus]], for thy favours done<br>To us in our election this day<br>I give thee thanks in part of thy deserts,<br>And will with deeds requite thy gentleness.<br>And for an onset, Titus, to advance<br>Thy name and honourable family,<br>[[characters/lavinia\|Lavinia]] will I make my empress,<br>Rome’s royal mistress, mistress of my heart,<br>And in the sacred Pantheon her espouse.<br>Tell me, Andronicus, doth this motion please thee? |
-| TITUS | It doth, my worthy lord, and in this match<br>I hold me highly honoured of your grace,<br>And here in sight of Rome to Saturnine,<br>[[archetypes/king\|King]] and commander of our commonweal,<br>The wide world’s emperor, do I consecrate<br>My sword, my chariot, and my prisoners—<br>Presents [[motifs/well\|well]] worthy Rome’s imperious lord.<br>Receive them, then, the tribute that I owe,<br>Mine [[concepts/honour\|honour]]’s ensigns humbled at thy feet. |
+| TITUS | It doth, my worthy lord, and in this match<br>I hold me highly honoured of your grace,<br>And here in sight of Rome to Saturnine,<br>[[archetypes/king\|King]] and commander of our commonweal,<br>The wide world’s emperor, do I consecrate<br>My [[Sword\|sword]], my chariot, and my prisoners—<br>Presents [[motifs/well\|well]] worthy Rome’s imperious lord.<br>Receive them, then, the tribute that I owe,<br>Mine [[concepts/honour\|honour]]’s ensigns humbled at thy feet. |
 | [[characters/saturninus\|SATURNINUS]] | Thanks, noble Titus, father of my life.<br>How proud I am of thee and of thy gifts<br>Rome shall record; and when I do forget<br>The least of these unspeakable deserts,<br>Romans, forget your fealty to me. |
 | TITUS | (to [[characters/tamora\|Tamora]])<br>Now, madam, are you prisoner to an emperor,<br>To him that for your [[concepts/honour\|honour]] and your state<br>Will use you nobly, and your followers. |
 | [[characters/saturninus\|SATURNINUS]] | A goodly lady, trust me, of the hue<br>That I would choose were I to choose anew.<br>Clear up, fair [[characters/queen\|queen]], that cloudy countenance.<br>Though chance of war hath wrought this change of<br>cheer,<br>Thou com’st not to be made a scorn in Rome.<br>Princely shall be thy usage every way.<br>Rest on my word, and let not discontent<br>Daunt all your hopes. Madam, he comforts you<br>Can make you greater than the [[characters/queen\|Queen]] of Goths.<br>[[characters/lavinia\|Lavinia]], you are not displeased with this? |
@@ -941,7 +2375,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | MARCUS | Suum cuique is our Roman justice.<br>This prince in justice seizeth but his own. |
 | [[characters/lucius\|LUCIUS]] | And that he will and shall, if [[characters/lucius\|Lucius]] live. |
 | TITUS | Traitors, avaunt! Where is the Emperor’s guard? |
-| MUTIUS | Brothers, help to convey her hence away,<br>And with my sword I’ll keep this door safe. |
+| MUTIUS | Brothers, help to convey her hence away,<br>And with my [[Sword\|sword]] I’ll keep this door safe. |
 | *(didascalia)* | Exeunt [[characters/bassianus\|Bassianus]], Marcus, Quintus, and Martius, with [[characters/lavinia\|Lavinia]] |
 | MUTIUS | (To Titus) My lord, you pass not here. |
 | TITUS | What, [[archetypes/villain\|villain]] boy,<br>Barr’st me my way in Rome?<br>He attacks Mutius |
@@ -955,13 +2389,13 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | TITUS | Follow, my lord, and I’ll soon bring her back. |
 | [[characters/saturninus\|SATURNINUS]] | No, Titus, no. The Emperor needs her not,<br>Nor her, nor thee, nor any of thy stock.<br>I’ll trust by leisure him that mocks me once,<br>Thee never, nor thy traitorous haughty sons,<br>Confederates all thus to dishonour me.<br>Was none in Rome to make a stale<br>But Saturnine? Full [[motifs/well\|well]], Andronicus,<br>Agree these deeds with that proud brag of thine<br>That saidst I begged the empire at thy hands. |
 | TITUS | O monstrous, what reproachful words are these? |
-| [[characters/saturninus\|SATURNINUS]] | But go thy ways, go give that changing piece<br>To him that flourished for her with his sword.<br>A valiant son-in-law thou shalt enjoy,<br>One fit to bandy with thy lawless sons,<br>To ruffle in the commonwealth of Rome. |
+| [[characters/saturninus\|SATURNINUS]] | But go thy ways, go give that changing piece<br>To him that flourished for her with his [[Sword\|sword]].<br>A valiant son-in-law thou shalt enjoy,<br>One fit to bandy with thy lawless sons,<br>To ruffle in the commonwealth of Rome. |
 | TITUS | These words are razors to my wounded heart. |
 | [[characters/saturninus\|SATURNINUS]] | And therefore, lovely [[characters/tamora\|Tamora]], [[characters/queen\|Queen]] of Goths,<br>That like the stately [[characters/phoebe\|Phoebe]] ‘mongst her nymphs<br>Dost overshine the gallant’st dames of Rome,<br>If thou be pleased with this my sudden choice,<br>Behold, I choose thee, [[characters/tamora\|Tamora]], for my bride,<br>And will create thee Empress of Rome.<br>Speak, [[characters/queen\|Queen]] of Goths, dost thou applaud my choice?<br>And here I swear by all the Roman gods,<br>Sith priest and holy [[motifs/water\|water]] are so near,<br>And tapers burn so bright, and everything<br>In readiness for Hymenaeus stand,<br>I will not re-salute the streets of Rome,<br>Or climb my palace, till from forth this place<br>I lead espoused my bride along with me. |
 | [[characters/tamora\|TAMORA]] | And here, in sight of heaven, to Rome I swear<br>If Saturnine advance the [[characters/queen\|Queen]] of Goths<br>She will a handmaid be to his desires,<br>A loving [[characters/nurse\|nurse]], a mother to his youth. |
 | [[characters/saturninus\|SATURNINUS]] | Ascend, fair [[characters/queen\|Queen]], Pantheon. Lords, accompany<br>Your noble emperor and his lovely bride,<br>Sent by the heavens for Prince Saturnine,<br>Whose wisdom hath her fortune conquered.<br>There shall we consummate our spousal rites. |
 | *(didascalia)* | Exeunt all but Titus |
-| TITUS | I am not bid to wait upon this bride.<br>Titus, when wert thou wont to walk alone,<br>Dishonoured thus and challenged of wrongs? |
+| TITUS | I am not bid to wait upon this bride.<br>Titus, when wert thou wont to walk [[Alone\|alone]],<br>Dishonoured thus and challenged of wrongs? |
 | *(didascalia)* | Enter Marcus and Titus’ sons [[characters/lucius\|Lucius]], Quintus, and |
 | *(didascalia)* | Martius, carrying Mutius’ [[concepts/body\|body]] |
 | MARCUS | O Titus, see, O see what thou hast done—<br>In a bad quarrel slain a virtuous son. |
@@ -1013,7 +2447,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | TITUS | Rome and the righteous heavens be my judge<br>How I have loved and honoured Saturnine! |
 | [[characters/tamora\|TAMORA]] | (to [[characters/saturninus\|Saturninus]])<br>My worthy lord, if ever [[characters/tamora\|Tamora]]<br>Were gracious in those princely eyes of thine,<br>Then hear me speak indifferently for all;<br>And at my suit, sweet, pardon what is past. |
 | [[characters/saturninus\|SATURNINUS]] | What, madam—be dishonoured openly<br>And basely put it up without [[concepts/revenge\|revenge]]? |
-| [[characters/tamora\|TAMORA]] | Not so, my lord. The gods of Rome forfend<br>I should be author to dishonour you.<br>But on mine [[concepts/honour\|honour]] dare I undertake<br>For good lord Titus’ innocence in all,<br>Whose fury not dissembled speaks his griefs.<br>Then at my suit look graciously on him.<br>Lose not so noble a friend on vain suppose,<br>Nor with sour looks afflict his gentle heart.<br>(Aside to [[characters/saturninus\|Saturninus]])<br>My lord, be ruled by me, be won at last,<br>Dissemble all your griefs and discontents.<br>You are but newly planted in your throne;<br>Lest then the people, and patricians too,<br>Upon a just survey take Titus’ part,<br>And so supplant you for ingratitude,<br>Which Rome reputes to be a heinous sin,<br>Yield at entreats; and then let me alone:<br>I’ll find a day to massacre them all,<br>And raze their faction and their family,<br>The cruel father and his traitorous sons<br>To whom I sued for my dear son’s life,<br>And make them know what ’tis to let a [[characters/queen\|queen]]<br>Kneel in the streets and beg for grace in vain.<br>(Aloud) Come, come, sweet Emperor; come,<br>Andronicus,<br>Take up this good old man, and cheer the heart<br>That dies in tempest of thy angry frown. |
+| [[characters/tamora\|TAMORA]] | Not so, my lord. The gods of Rome forfend<br>I should be author to dishonour you.<br>But on mine [[concepts/honour\|honour]] dare I undertake<br>For good lord Titus’ [[innocence]] in all,<br>Whose fury not dissembled speaks his griefs.<br>Then at my suit look graciously on him.<br>Lose not so noble a friend on vain suppose,<br>Nor with sour looks afflict his gentle heart.<br>(Aside to [[characters/saturninus\|Saturninus]])<br>My lord, be ruled by me, be won at last,<br>Dissemble all your griefs and discontents.<br>You are but newly planted in your throne;<br>Lest then the people, and patricians too,<br>Upon a just survey take Titus’ part,<br>And so supplant you for ingratitude,<br>Which Rome reputes to be a heinous sin,<br>Yield at entreats; and then let me [[Alone\|alone]]:<br>I’ll find a day to massacre them all,<br>And raze their faction and their family,<br>The cruel father and his traitorous sons<br>To whom I sued for my dear son’s life,<br>And make them know what ’tis to let a [[characters/queen\|queen]]<br>Kneel in the streets and beg for grace in vain.<br>(Aloud) Come, come, sweet Emperor; come,<br>Andronicus,<br>Take up this good old man, and cheer the heart<br>That dies in tempest of thy angry frown. |
 | [[characters/saturninus\|SATURNINUS]] | Rise, Titus, rise; my empress hath prevailed. |
 | TITUS | (rising)<br>I thank your majesty and her, my lord,<br>These words, these looks, infuse new life in me. |
 | [[characters/tamora\|TAMORA]] | Titus, I am incorporate in Rome,<br>A Roman now adopted happily,<br>And must advise the Emperor for his good.<br>This day all quarrels die, Andronicus;<br>And let it be mine [[concepts/honour\|honour]], good my lord,<br>That I have reconciled your friends and you.<br>For you, Prince [[characters/bassianus\|Bassianus]], I have passed<br>My word and promise to the Emperor<br>That you will be more mild and tractable.<br>And [[concepts/fear\|fear]] not, lords, and you, [[characters/lavinia\|Lavinia]];<br>By my advice, all humbled on your knees,<br>You shall ask pardon of his majesty. |
@@ -1046,8 +2480,8 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | Escono i suoi soldati e seguaci |
 | [[characters/saturninus\|SATURNINUS]] | (Ai Tribuni e ai Senatori)<br>Roma, sii verso di me tanto giusta e benigna<br>Quanto io son fiducioso e benevolo verso di te.<br>Aprite le porte e fatemi entrare. |
 | [[characters/bassianus\|BASSIANUS]] | Tribuni, e me, povero competitore. |
-| *(didascalia)* | Squilli di trombe. Salgono nella Casa del Senato. Entra un Capitano |
-| CAPITANO | Romani, fate largo. Il buon Andronico,<br>Patrono della virtù, miglior campione di Roma,<br>Vittorioso nelle battaglie che combatte,<br>Con [[concepts/honour\|onore]] e con fortuna è tornato<br>Da dove con la sua spada ha circoscritto<br>E posto sotto il giogo i nemici di Roma. |
+| *(didascalia)* | Squilli di trombe. Salgono nella [[house\|Casa]] del Senato. Entra un Capitano |
+| CAPITANO | Romani, fate largo. Il buon Andronico,<br>Patrono della virtù, miglior campione di Roma,<br>Vittorioso nelle battaglie che combatte,<br>Con [[concepts/honour\|onore]] e con fortuna è tornato<br>Da dove con la sua [[Sword\|spada]] ha circoscritto<br>E posto sotto il giogo i nemici di Roma. |
 | *(didascalia)* | Suonano tamburi e trombe, e poi entra Marzio |
 | *(didascalia)* | e Muzio, due dei figli di Tito, e poi uomini |
 | *(didascalia)* | che portano bare coperte di nero, poi [[characters/lucius\|Lucio]] e |
@@ -1055,7 +2489,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | suo carro e poi [[characters/tamora\|Tamora]] la [[characters/queen\|Regina]] dei Goti |
 | CAPITANO | e i suoi figli Alarbo, Chirone e [[characters/demetrius\|Demetrio]], con<br><br>[[characters/aaron\|Aronne]] il Moro e altri quanti più possibile. |
 | *(didascalia)* | Poi depongono le bare, e Tito parla |
-| TITUS | Salve, Roma, vittoriosa nelle tue vesti di lutto!<br>Ecco, come la barca che ha scaricato il suo carico<br>Torna con preziosa merce alla baia<br>Da cui in principio levò l’ancora,<br>Viene Andronico, cinto di rami di lauro,<br>A risalutare la sua patria con le sue [[motifs/tears\|lacrime]],<br>[[motifs/tears\|Lacrime]] di vera gioia per il suo ritorno a Roma.<br>Tu grande difensore di questo Campidoglio,<br>Sii propizio ai riti che intendiamo compiere.<br>Romani, di venticinque valorosi figli,<br>La metà del numero che aveva il [[archetypes/king\|Re]] Priamo,<br>Ecco i poveri resti, vivi e morti.<br>Quelli che sopravvivono Roma li premi con [[motifs/love\|amore]];<br>Questi che io conduco alla loro ultima [[motifs/home\|dimora]],<br>Con sepoltura fra i loro avi.<br>Qui i Goti m’han dato licenza di rinfoderare la mia spada.<br>Tito snaturato, e trascurato dei tuoi,<br>Perché soffri che i tuoi figli, ancora insepolti,<br>Vaghino sulla terribile riva dello Stige?<br>Fate largo per deporli presso i loro fratelli.<br>Aprono la tomba<br>Là salutatevi in [[motifs/silence\|silenzio]] come usano i morti,<br>E [[motifs/sleep\|dormite]] in pace, uccisi nelle guerre della patria.<br>Oh sacro ricettacolo delle mie gioie,<br>Dolce cella di virtù e nobiltà,<br>Quanti figli miei tieni in serbo<br>Che non mi renderai mai più! |
+| TITUS | Salve, Roma, vittoriosa nelle tue vesti di lutto!<br>Ecco, come la barca che ha scaricato il suo carico<br>Torna con preziosa merce alla baia<br>Da cui in principio levò l’ancora,<br>Viene Andronico, cinto di rami di lauro,<br>A risalutare la sua patria con le sue [[motifs/tears\|lacrime]],<br>[[motifs/tears\|Lacrime]] di vera gioia per il suo ritorno a Roma.<br>Tu grande difensore di questo Campidoglio,<br>Sii propizio ai riti che intendiamo compiere.<br>Romani, di venticinque valorosi figli,<br>La metà del numero che aveva il [[archetypes/king\|Re]] Priamo,<br>Ecco i poveri resti, vivi e morti.<br>Quelli che sopravvivono Roma li premi con [[motifs/love\|amore]];<br>Questi che io conduco alla loro ultima [[motifs/home\|dimora]],<br>Con sepoltura fra i loro avi.<br>Qui i Goti m’han dato licenza di rinfoderare la mia [[Sword\|spada]].<br>Tito snaturato, e trascurato dei tuoi,<br>Perché soffri che i tuoi figli, ancora insepolti,<br>Vaghino sulla terribile riva dello Stige?<br>Fate largo per deporli presso i loro fratelli.<br>Aprono la tomba<br>Là salutatevi in [[motifs/silence\|silenzio]] come usano i morti,<br>E [[motifs/sleep\|dormite]] in pace, uccisi nelle guerre della patria.<br>Oh sacro ricettacolo delle mie gioie,<br>Dolce cella di virtù e nobiltà,<br>Quanti figli miei tieni in serbo<br>Che non mi renderai mai più! |
 | [[characters/lucius\|LUCIUS]] | Dateci il più superbo prigioniero dei Goti,<br>Perché ne recidiamo le membra e su una pira<br>Ad manes fratrum sacrifichiamo la sua carne<br>Dinanzi a questa terrena [[motifs/prison\|prigione]] delle loro ossa,<br>Sì che le ombre non restino inappagate,<br>Né noi turbati da prodigi sulla terra. |
 | TITUS | Io vi do lui, il più nobile che sopravviva,<br>Il figlio maggiore di questa afflitta [[characters/queen\|Regina]]. |
 | *(didascalia)* | [[characters/tamora\|TAMORA]] inginocchiandosi |
@@ -1096,7 +2530,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | MARCUS | Tribuni, con [[characters/saturninus\|Saturnino]] e [[characters/bassianus\|Bassiano]],<br><br>scendono.<br><br>Marco riveste [[characters/saturninus\|Saturnino]] del bianco |
 | *(didascalia)* | palio e gli porge uno scettro |
 | [[characters/saturninus\|SATURNINUS]] | [[characters/titus-andronicus\|Tito Andronico]], per i favori resi<br>A noi nella nostra elezione in questo giorno<br>Ti rendo grazie in parte dei tuoi meriti,<br>E con opere ricambierò la tua cortesia.<br>E per cominciare, Tito, a innalzare<br>Il tuo nome e l’onorevole tua famiglia,<br>[[characters/lavinia\|Lavinia]] farò mia imperatrice,<br>Regale signora di Roma, signora del mio cuore,<br>E nel sacro Panteon la sposerò.<br>Dimmi, Andronico, ti piace questa proposta? |
-| TITUS | Mi piace, mio degno signore, e in queste nozze<br>Mi tengo altamente onorato da vostra grazia,<br>E qui alla vista di Roma a Saturnino,<br>[[archetypes/king\|Re]] e comandante del nostro Stato,<br>Imperatore del vasto mondo, io consacro<br>La mia spada, il mio carro e i miei prigionieri—<br>Doni [[motifs/well\|ben]] degni dell’imperioso signore di Roma.<br>Ricevili, dunque, il tributo che devo,<br>Le insegne del mio [[concepts/honour\|onore]] umiliate ai tuoi piedi. |
+| TITUS | Mi piace, mio degno signore, e in queste nozze<br>Mi tengo altamente onorato da vostra grazia,<br>E qui alla vista di Roma a Saturnino,<br>[[archetypes/king\|Re]] e comandante del nostro Stato,<br>Imperatore del vasto mondo, io consacro<br>La mia [[Sword\|spada]], il mio carro e i miei prigionieri—<br>Doni [[motifs/well\|ben]] degni dell’imperioso signore di Roma.<br>Ricevili, dunque, il tributo che devo,<br>Le insegne del mio [[concepts/honour\|onore]] umiliate ai tuoi piedi. |
 | [[characters/saturninus\|SATURNINUS]] | Grazie, nobile Tito, padre della mia vita.<br>Quanto io sia fiero di te e dei tuoi doni<br>Roma lo registrerà; e quando io dimenticassi<br>Il minimo di questi ineffabili meriti,<br>Romani, dimenticate la vostra fedeltà a me. |
 | TITUS | (a [[characters/tamora\|Tamora]])<br>Ora, signora, siete prigioniera d’un imperatore,<br>Di colui che per il vostro [[concepts/honour\|onore]] e il vostro stato<br>Tratterà nobilmente voi e i vostri seguaci. |
 | [[characters/saturninus\|SATURNINUS]] | Una bella dama, credetemi, del colore<br>Che sceglierei se dovessi scegliere di nuovo.<br>Rischiarate, bella [[characters/queen\|regina]], quel volto nuvoloso.<br>Se pur la sorte della guerra ha operato questo mutamento d’<br>umore,<br>Non venite per esser fatta scherno in Roma.<br>Principesco sarà in ogni modo il trattamento vostro.<br>Fidatevi della mia parola, e non lasciate che il malcontento<br>Abbatta ogni vostra speranza. Signora, colui che vi consola<br>Può farvi più grande della [[characters/queen\|Regina]] dei Goti.<br>[[characters/lavinia\|Lavinia]], non vi dispiace questo? |
@@ -1109,7 +2543,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | MARCUS | Suum cuique è la nostra giustizia romana.<br>Questo principe per giustizia non prende che il suo. |
 | [[characters/lucius\|LUCIUS]] | E ciò egli vuole e farà, se [[characters/lucius\|Lucio]] vive. |
 | TITUS | Traditori, via! Dov’è la guardia dell’Imperatore? |
-| MUTIUS | Fratelli, aiutate a portarla via di qui,<br>E con la mia spada terrò sicura questa porta. |
+| MUTIUS | Fratelli, aiutate a portarla via di qui,<br>E con la mia [[Sword\|spada]] terrò sicura questa porta. |
 | *(didascalia)* | Escono [[characters/bassianus\|Bassiano]], Marco, Quinto e Marzio, con [[characters/lavinia\|Lavinia]] |
 | MUTIUS | (A Tito) Mio signore, di qui non passate. |
 | TITUS | Che, [[archetypes/villain\|scellerato]] ragazzo,<br>Mi sbarri la via in Roma?<br>Assale Muzio |
@@ -1123,13 +2557,13 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | TITUS | Seguitemi, mio signore, e presto la ricondurrò. |
 | [[characters/saturninus\|SATURNINUS]] | No, Tito, no. L’Imperatore non ha bisogno di lei,<br>Né di lei, né di te, né d’alcuno della tua stirpe.<br>Mi fiderò con calma di chi mi beffa una volta,<br>Di te mai, né dei tuoi traditori superbi figli,<br>Tutti confederati a disonorarmi così.<br>Non v’era altri in Roma da far ludibrio<br>Che Saturnino? Assai [[motifs/well\|bene]], Andronico,<br>S’accordano queste opere con quel tuo superbo vanto<br>Con cui dicesti che io mendicai l’impero dalle tue mani. |
 | TITUS | Oh mostruoso, che parole d’oltraggio son queste? |
-| [[characters/saturninus\|SATURNINUS]] | Ma va’ per la tua via, va’ a dare quella volubile creatura<br>A colui che per lei brandì la sua spada.<br>Un valoroso genero godrai,<br>Uno adatto a scambiar colpi coi tuoi figli senza legge,<br>A far rissa nello Stato di Roma. |
+| [[characters/saturninus\|SATURNINUS]] | Ma va’ per la tua via, va’ a dare quella volubile creatura<br>A colui che per lei brandì la sua [[Sword\|spada]].<br>Un valoroso genero godrai,<br>Uno adatto a scambiar colpi coi tuoi figli senza legge,<br>A far rissa nello Stato di Roma. |
 | TITUS | Queste parole sono rasoi al mio cuore ferito. |
 | [[characters/saturninus\|SATURNINUS]] | E perciò, leggiadra [[characters/tamora\|Tamora]], [[characters/queen\|Regina]] dei Goti,<br>Che come la maestosa [[characters/phoebe\|Febe]] fra le sue ninfe<br>Oscuri le più splendide dame di Roma,<br>Se ti piace questa mia subitanea scelta,<br>Ecco, io scelgo te, [[characters/tamora\|Tamora]], per mia sposa,<br>E ti creerò Imperatrice di Roma.<br>Parla, [[characters/queen\|Regina]] dei Goti, approvi la mia scelta?<br>E qui giuro per tutti gli dèi romani,<br>Poiché il sacerdote e l’[[motifs/water\|acqua]] santa son sì vicini,<br>E i ceri ardono sì chiari, e ogni cosa<br>Sta in pronto per Imeneo,<br>Che non risaluterò le vie di Roma,<br>Né salirò al mio palazzo, finché da questo luogo<br>Non conduca sposa la mia sposa con me. |
 | [[characters/tamora\|TAMORA]] | E qui, alla vista del cielo, a Roma io giuro<br>Che se Saturnino innalza la [[characters/queen\|Regina]] dei Goti<br>Ella sarà ancella ai suoi desideri,<br>Amorevole [[characters/nurse\|nutrice]], madre alla sua giovinezza. |
 | [[characters/saturninus\|SATURNINUS]] | Ascendi, bella [[characters/queen\|Regina]], al Panteon. Signori, accompagnate<br>Il vostro nobile imperatore e la sua leggiadra sposa,<br>Mandata dai cieli per il Principe Saturnino,<br>La cui saggezza ha vinto la fortuna di lei.<br>Là consumeremo i nostri riti nuziali. |
 | *(didascalia)* | Escono tutti tranne Tito |
-| TITUS | Non son invitato a far corteggio a questa sposa.<br>Tito, quando fosti tu usato a camminare solo,<br>Così disonorato e accusato di torti? |
+| TITUS | Non son invitato a far corteggio a questa sposa.<br>Tito, quando fosti tu usato a camminare [[Alone\|solo]],<br>Così disonorato e accusato di torti? |
 | *(didascalia)* | Entrano Marco e i figli di Tito [[characters/lucius\|Lucio]], Quinto e |
 | *(didascalia)* | Marzio, portando il [[concepts/body\|corpo]] di Muzio |
 | MARCUS | Oh Tito, vedi, oh vedi che hai fatto—<br>In mala contesa ucciso un virtuoso figlio. |
@@ -1181,7 +2615,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | TITUS | Roma e i giusti cieli mi sian giudici<br>Di come ho amato e onorato Saturnino! |
 | [[characters/tamora\|TAMORA]] | (a [[characters/saturninus\|Saturnino]])<br>Mio degno signore, se mai [[characters/tamora\|Tamora]]<br>Fu grata a quei tuoi principeschi occhi,<br>Ascoltami dunque parlare imparzialmente per tutti;<br>E alla mia richiesta, dolce mio, perdona il passato. |
 | [[characters/saturninus\|SATURNINUS]] | Che, signora—esser disonorato apertamente<br>E vilmente inghiottirlo senza [[concepts/revenge\|vendetta]]? |
-| [[characters/tamora\|TAMORA]] | Non così, mio signore. Gli dèi di Roma non permettano<br>Ch’io sia causa di disonore per voi.<br>Ma sul mio [[concepts/honour\|onore]] oso farmi garante<br>Dell’innocenza del buon signor Tito in tutto,<br>La cui furia non dissimulata dice i suoi dolori.<br>Dunque alla mia richiesta guardatelo con grazia.<br>Non perdete un amico sì nobile per vana supposizione,<br>Né con sguardi acri affliggete il suo gentile cuore.<br>(A parte, a [[characters/saturninus\|Saturnino]])<br>Mio signore, lasciatevi guidare da me, cedete infine,<br>Dissimulate tutti i vostri dolori e malcontenti.<br>Voi siete appena piantato nel vostro trono;<br>Ché altrimenti il popolo, e anche i patrizi,<br>A un giusto esame prendano la parte di Tito,<br>E così vi soppiantino per ingratitudine,<br>Che Roma reputa peccato nefando,<br>Cedete alle preghiere; e poi lasciate fare a me sola:<br>Troverò un giorno per massacrarli tutti,<br>E radere al suolo la loro fazione e la loro famiglia,<br>Il crudele padre e i suoi traditori figli<br>Cui supplicai per la vita del mio caro figlio,<br>E far loro sapere che cosa sia lasciare una [[characters/queen\|regina]]<br>Inginocchiarsi per le strade e chiedere grazia in vano.<br>(Ad alta voce) Venite, venite, dolce Imperatore; venite,<br>Andronico,<br>Rialzate questo buon vecchio, e rallegrate il cuore<br>Che muore nella tempesta del tuo irato cipiglio. |
+| [[characters/tamora\|TAMORA]] | Non così, mio signore. Gli dèi di Roma non permettano<br>Ch’io sia causa di disonore per voi.<br>Ma sul mio [[concepts/honour\|onore]] oso farmi garante<br>Dell’[[innocence\|innocenza]] del buon signor Tito in tutto,<br>La cui furia non dissimulata dice i suoi dolori.<br>Dunque alla mia richiesta guardatelo con grazia.<br>Non perdete un amico sì nobile per vana supposizione,<br>Né con sguardi acri affliggete il suo gentile cuore.<br>(A parte, a [[characters/saturninus\|Saturnino]])<br>Mio signore, lasciatevi guidare da me, cedete infine,<br>Dissimulate tutti i vostri dolori e malcontenti.<br>Voi siete appena piantato nel vostro trono;<br>Ché altrimenti il popolo, e anche i patrizi,<br>A un giusto esame prendano la parte di Tito,<br>E così vi soppiantino per ingratitudine,<br>Che Roma reputa peccato nefando,<br>Cedete alle preghiere; e poi lasciate fare a me [[Alone\|sola]]:<br>Troverò un giorno per massacrarli tutti,<br>E radere al suolo la loro fazione e la loro famiglia,<br>Il crudele padre e i suoi traditori figli<br>Cui supplicai per la vita del mio caro figlio,<br>E far loro sapere che cosa sia lasciare una [[characters/queen\|regina]]<br>Inginocchiarsi per le strade e chiedere grazia in vano.<br>(Ad alta voce) Venite, venite, dolce Imperatore; venite,<br>Andronico,<br>Rialzate questo buon vecchio, e rallegrate il cuore<br>Che muore nella tempesta del tuo irato cipiglio. |
 | [[characters/saturninus\|SATURNINUS]] | Alzati, Tito, alzati; la mia imperatrice ha prevalso. |
 | TITUS | (alzandosi)<br>Ringrazio vostra maestà e lei, mio signore,<br>Queste parole, questi sguardi, infondono in me nuova vita. |
 | [[characters/tamora\|TAMORA]] | Tito, io sono incorporata in Roma,<br>Romana ora felicemente adottata,<br>E devo consigliare l’Imperatore per il suo bene.<br>Oggi ogni contesa muore, Andronico;<br>E sia mio [[concepts/honour\|onore]], mio buon signore,<br>D’aver riconciliato voi e i vostri amici.<br>Per voi, Principe [[characters/bassianus\|Bassiano]], ho dato<br>La mia parola e promessa all’Imperatore<br>Che sarete più mite e trattabile.<br>E non [[concepts/fear\|temete]], signori, e voi, [[characters/lavinia\|Lavinia]];<br>Per mio consiglio, tutti umiliati in ginocchio,<br>Chiederete perdono a sua maestà. |
@@ -1204,12 +2638,12 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | Enter [[characters/aaron\|Aaron]] alone. |
+| *(didascalia)* | Enter [[characters/aaron\|Aaron]] [[Alone\|alone]]. |
 | [[characters/aaron\|AARON]] | Now climbeth [[characters/tamora\|Tamora]] Olympus’ top,<br>Safe out of fortune’s shot, and sits aloft,<br>Secure of thunder’s crack or [[motifs/lightning\|lightning]] flash,<br>Advanced above pale envy’s threat’ning reach.<br>As when the golden sun salutes the morn<br>And, having gilt the ocean with his beams,<br>Gallops the zodiac in his glistering coach<br>And overlooks the highest-peering hills,<br>So [[characters/tamora\|Tamora]].<br>Upon her wit doth earthly [[concepts/honour\|honour]] wait,<br>And virtue stoops and trembles at her frown.<br>Then, [[characters/aaron\|Aaron]], arm thy heart and fit thy thoughts<br>To mount aloft with thy imperial mistress,<br>And mount her pitch whom thou in triumph long<br>Hast prisoner held fettered in amorous [[motifs/chains\|chains]],<br>And faster bound to [[characters/aaron\|Aaron]]’s charming eyes<br>Than is [[characters/prometheus\|Prometheus]] tied to Caucasus.<br>Away with slavish weeds and servile thoughts!<br>I will be bright, and shine in pearl and gold<br>To wait upon this new-made empress.<br>To wait, said I?—to wanton with this [[characters/queen\|queen]],<br>This goddess, this Semiramis, this nymph,<br>This siren that will charm Rome’s Saturnine<br>And see his shipwreck and his commonweal’s.<br>Hollo, what [[motifs/storm\|storm]] is this? |
 | *(didascalia)* | Enter Chiron and [[characters/demetrius\|Demetrius]], braving |
 | [[characters/demetrius\|DEMETRIUS]] | Chiron, thy years wants wit, thy wits wants edge<br>And manners to intrude where I am graced<br>And may, for aught thou knowest, affected be. |
-| CHIRON | [[characters/demetrius\|Demetrius]], thou dost overween in all,<br>And so in this, to bear me down with braves.<br>‘Tis not the difference of a year or two<br>Makes me less gracious, or thee more fortunate.<br>I am as able and as fit as thou<br>To serve, and to deserve my mistress’ grace,<br>And that my sword upon thee shall approve,<br>And plead my passions for [[characters/lavinia\|Lavinia]]’s [[motifs/love\|love]]. |
-| [[characters/aaron\|AARON]] | (aside)<br>Clubs, clubs! These lovers will not keep the peace. |
+| CHIRON | [[characters/demetrius\|Demetrius]], thou dost overween in all,<br>And so in this, to bear me down with braves.<br>‘Tis not the difference of a year or two<br>Makes me less gracious, or thee more fortunate.<br>I am as able and as fit as thou<br>To serve, and to deserve my mistress’ grace,<br>And that my [[Sword\|sword]] upon thee shall approve,<br>And plead my passions for [[characters/lavinia\|Lavinia]]’s [[motifs/love\|love]]. |
+| [[characters/aaron\|AARON]] | (aside)<br>Clubs, clubs! These [[lovers]] will not keep the peace. |
 | [[characters/demetrius\|DEMETRIUS]] | Why, boy, although our mother, unadvised,<br>Gave you a dancing-rapier by your side,<br>Are you so desperate grown to threat your friends?<br>Go to, have your lath glued within your sheath<br>Till you know better how to handle it. |
 | CHIRON | Meanwhile, sir, with the little skill I have<br>Full [[motifs/well\|well]] shalt thou perceive how much I dare. |
 | [[characters/demetrius\|DEMETRIUS]] | Ay, boy, grow ye so brave?<br>They draw |
@@ -1231,7 +2665,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/aaron\|AARON]] | Would you had hit it too,<br>Then should not we be tired with this ado.<br>Why, hark ye, hark ye, and are you such fools<br>To square for this? Would it offend you then<br>That both should [[characters/speed\|speed]]? |
 | CHIRON | [[concepts/faith\|Faith]], not me. |
 | [[characters/demetrius\|DEMETRIUS]] | Nor me, so I were one. |
-| [[characters/aaron\|AARON]] | For shame, be friends, and join for that you jar.<br>‘Tis policy and stratagem must do<br>That you affect, and so must you resolve<br>That what you cannot as you would achieve,<br>You must perforce accomplish as you may.<br>Take this of me: [[characters/lucrece\|Lucrece]] was not more chaste<br>Than this [[characters/lavinia\|Lavinia]], [[characters/bassianus\|Bassianus]]’ [[motifs/love\|love]].<br>A speedier course than ling’ring languishment<br>Must we pursue, and I have found the path.<br>My lords, a solemn hunting is in hand;<br>There will the lovely Roman ladies troop.<br>The forest walks are wide and spacious,<br>And many unfrequented plots there are,<br>Fitted by kind for rape and villainy.<br>Single you thither then this dainty doe,<br>And strike her [[motifs/home\|home]] by force, if not by words,<br>This way or not at all stand you in [[concepts/hope\|hope]].<br>Come, come; our Empress, with her sacred wit<br>To villainy and vengeance consecrate,<br>Will we acquaint with all what we intend,<br>And she shall file our engines with advice<br>That will not suffer you to square yourselves,<br>But to your wishes’ height advance you both.<br>The Emperor’s [[settings/court\|court]] is like the house of Fame,<br>The palace full of tongues, of eyes and ears,<br>The woods are ruthless, dreadful, deaf, and dull.<br>There speak and strike, brave boys, and take your turns.<br>There serve your lust, shadowed from heaven’s eye,<br>And revel in [[characters/lavinia\|Lavinia]]’s treasury. |
+| [[characters/aaron\|AARON]] | For shame, be friends, and join for that you jar.<br>‘Tis policy and stratagem must do<br>That you affect, and so must you resolve<br>That what you cannot as you would achieve,<br>You must perforce accomplish as you may.<br>Take this of me: [[characters/lucrece\|Lucrece]] was not more chaste<br>Than this [[characters/lavinia\|Lavinia]], [[characters/bassianus\|Bassianus]]’ [[motifs/love\|love]].<br>A speedier course than ling’ring languishment<br>Must we pursue, and I have found the path.<br>My lords, a solemn hunting is in hand;<br>There will the lovely Roman ladies troop.<br>The forest walks are wide and spacious,<br>And many unfrequented plots there are,<br>Fitted by kind for rape and villainy.<br>Single you thither then this dainty doe,<br>And strike her [[motifs/home\|home]] by force, if not by words,<br>This way or not at all stand you in [[concepts/hope\|hope]].<br>Come, come; our Empress, with her sacred wit<br>To villainy and vengeance consecrate,<br>Will we acquaint with all what we intend,<br>And she shall file our engines with advice<br>That will not suffer you to square yourselves,<br>But to your wishes’ height advance you both.<br>The Emperor’s [[settings/court\|court]] is like the [[house]] of Fame,<br>The palace full of tongues, of eyes and ears,<br>The woods are ruthless, dreadful, deaf, and dull.<br>There speak and strike, brave boys, and take your turns.<br>There serve your lust, shadowed from heaven’s eye,<br>And revel in [[characters/lavinia\|Lavinia]]’s treasury. |
 | CHIRON | Thy counsel, lad, smells of no cowardice. |
 | [[characters/demetrius\|DEMETRIUS]] | Sit fas aut nefas, till I find the stream<br>To cool this heat, a charm to calm these fits,<br>Per Styga, per manes vehor. Exeunt |
 
@@ -1240,12 +2674,12 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[characters/aaron\|Aronne]] solo. |
+| *(didascalia)* | Entra [[characters/aaron\|Aronne]] [[Alone\|solo]]. |
 | [[characters/aaron\|AARON]] | Or [[characters/tamora\|Tamora]] scala la cima d’Olimpo,<br>Fuor del tiro della fortuna, e siede in alto,<br>Sicura dallo schianto del tuono e dal guizzo del [[motifs/lightning\|fulmine]],<br>Innalzata oltre la minacciosa presa della pallida invidia.<br>Come quando il sole d’oro saluta il mattino<br>E, indorato l’oceano co’ suoi raggi,<br>Galoppa lo zodiaco nel suo carro splendente<br>E sovrasta i colli che più alti si ergono,<br>Così [[characters/tamora\|Tamora]].<br>Al suo ingegno l’[[concepts/honour\|onore]] terreno fa scorta,<br>E la virtù s’inchina e trema al suo cipiglio.<br>Dunque, [[characters/aaron\|Aronne]], arma il tuo cuore e volgi i pensieri<br>A salire in alto con la tua imperiale signora,<br>E a raggiungere la vetta di colei che a lungo in trionfo<br>Tenesti prigioniera, avvinta in amorose [[motifs/chains\|catene]],<br>E più strettamente legata agli occhi incantatori d’[[characters/aaron\|Aronne]]<br>Che non sia [[characters/prometheus\|Prometeo]] al Caucaso.<br>Via i panni servili e i pensieri da schiavo!<br>Sarò splendente, e brillerò di perle e d’oro<br>Per servire questa imperatrice appena fatta.<br>Servire, ho detto?—no, folleggiare con questa [[characters/queen\|regina]],<br>Questa dea, questa Semiramide, questa ninfa,<br>Questa sirena che incanterà il Saturnino di Roma<br>E vedrà il naufragio suo e dello Stato.<br>Olà, che [[motifs/storm\|tempesta]] è questa? |
 | *(didascalia)* | Entrano Chirone e [[characters/demetrius\|Demetrio]], in atteggiamento di sfida |
 | [[characters/demetrius\|DEMETRIUS]] | Chirone, ai tuoi anni manca senno, al tuo senno manca il filo<br>E il garbo, per intrudersi là dove io son favorito<br>E posso, per quel che ne sai, essere amato. |
-| CHIRON | [[characters/demetrius\|Demetrio]], tu presumi troppo in tutto,<br>E così in questo, di sopraffarmi con le bravate.<br>Non è la differenza d’un anno o due<br>Che mi rende men grato, o te più fortunato.<br>Io son valente e adatto quanto te<br>A servire, e a meritare il favore della mia signora,<br>E ciò la mia spada su di te proverà,<br>E perorerà la mia passione per l’[[motifs/love\|amore]] di [[characters/lavinia\|Lavinia]]. |
-| [[characters/aaron\|AARON]] | (a parte)<br>Randelli, randelli! Questi innamorati non terranno la pace. |
+| CHIRON | [[characters/demetrius\|Demetrio]], tu presumi troppo in tutto,<br>E così in questo, di sopraffarmi con le bravate.<br>Non è la differenza d’un anno o due<br>Che mi rende men grato, o te più fortunato.<br>Io son valente e adatto quanto te<br>A servire, e a meritare il favore della mia signora,<br>E ciò la mia [[Sword\|spada]] su di te proverà,<br>E perorerà la mia passione per l’[[motifs/love\|amore]] di [[characters/lavinia\|Lavinia]]. |
+| [[characters/aaron\|AARON]] | (a parte)<br>Randelli, randelli! Questi [[lovers\|innamorati]] non terranno la pace. |
 | [[characters/demetrius\|DEMETRIUS]] | Ehi, ragazzo, se pure nostra madre, incauta,<br>Ti diede al fianco uno spadino da ballo,<br>Sei divenuto sì temerario da minacciare gli amici?<br>Va’ via, fatti incollare quel legnetto nel fodero<br>Finché non sappia meglio maneggiarlo. |
 | CHIRON | Intanto, signore, con la poca perizia che ho<br>Assai [[motifs/well\|bene]] vedrai quanto io osi. |
 | [[characters/demetrius\|DEMETRIUS]] | Ah, ragazzo, ti fai così ardito?<br>Sguainano |
@@ -1267,7 +2701,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/aaron\|AARON]] | Volesse il cielo l’avessi colto anche tu,<br>Che allora non saremmo stanchi di questo baccano.<br>Ebbene, udite, udite, e siete tali sciocchi<br>Da azzuffarvi per questo? Vi offenderebbe dunque<br>Che ambedue avessero [[characters/speed\|fortuna]]? |
 | CHIRON | In [[concepts/faith\|fede]], non me. |
 | [[characters/demetrius\|DEMETRIUS]] | Né me, purché io fossi uno dei due. |
-| [[characters/aaron\|AARON]] | Vergogna, siate amici, e unitevi per ciò di cui contendete.<br>Sono accortezza e stratagemma che devono ottenere<br>Ciò che bramate, e così dovete risolvere<br>Che quel che non potete ottenere come vorreste,<br>Dovete per forza compierlo come potete.<br>Prendete da me questo: [[characters/lucrece\|Lucrezia]] non fu più casta<br>Di questa [[characters/lavinia\|Lavinia]], [[motifs/love\|amore]] di [[characters/bassianus\|Bassiano]].<br>Un corso più rapido che un languire prolungato<br>Dobbiamo seguire, e io ho trovato la via.<br>Signori miei, s’apparecchia una caccia solenne;<br>Là s’affolleranno le leggiadre dame romane.<br>I sentieri della foresta son larghi e spaziosi,<br>E molti luoghi appartati vi sono,<br>Fatti per natura allo stupro e alla scelleratezza.<br>Isolate colà dunque questa delicata cerva,<br>E colpitela a [[motifs/home\|fondo]] con la forza, se non con le parole,<br>Per questa via o in nessun modo state in [[concepts/hope\|speranza]].<br>Venite, venite; la nostra Imperatrice, col suo sacro ingegno<br>Consacrato alla scelleratezza e alla vendetta,<br>La informeremo di tutto ciò che intendiamo,<br>Ed ella affilerà i nostri ordigni col consiglio<br>Che non permetterà che voi vi azzuffiate tra voi,<br>Ma innalzerà entrambi al culmine dei vostri desideri.<br>La [[settings/court\|corte]] dell’Imperatore è come la casa della Fama,<br>Il palazzo pieno di lingue, d’occhi e d’orecchi,<br>I boschi sono implacabili, terribili, sordi e ottusi.<br>Là parlate e colpite, bravi ragazzi, e prendete il vostro turno.<br>Là saziate la vostra libidine, celati all’occhio del cielo,<br>E gozzovigliate nel tesoro di [[characters/lavinia\|Lavinia]]. |
+| [[characters/aaron\|AARON]] | Vergogna, siate amici, e unitevi per ciò di cui contendete.<br>Sono accortezza e stratagemma che devono ottenere<br>Ciò che bramate, e così dovete risolvere<br>Che quel che non potete ottenere come vorreste,<br>Dovete per forza compierlo come potete.<br>Prendete da me questo: [[characters/lucrece\|Lucrezia]] non fu più casta<br>Di questa [[characters/lavinia\|Lavinia]], [[motifs/love\|amore]] di [[characters/bassianus\|Bassiano]].<br>Un corso più rapido che un languire prolungato<br>Dobbiamo seguire, e io ho trovato la via.<br>Signori miei, s’apparecchia una caccia solenne;<br>Là s’affolleranno le leggiadre dame romane.<br>I sentieri della foresta son larghi e spaziosi,<br>E molti luoghi appartati vi sono,<br>Fatti per natura allo stupro e alla scelleratezza.<br>Isolate colà dunque questa delicata cerva,<br>E colpitela a [[motifs/home\|fondo]] con la forza, se non con le parole,<br>Per questa via o in nessun modo state in [[concepts/hope\|speranza]].<br>Venite, venite; la nostra Imperatrice, col suo sacro ingegno<br>Consacrato alla scelleratezza e alla vendetta,<br>La informeremo di tutto ciò che intendiamo,<br>Ed ella affilerà i nostri ordigni col consiglio<br>Che non permetterà che voi vi azzuffiate tra voi,<br>Ma innalzerà entrambi al culmine dei vostri desideri.<br>La [[settings/court\|corte]] dell’Imperatore è come la [[house\|casa]] della Fama,<br>Il palazzo pieno di lingue, d’occhi e d’orecchi,<br>I boschi sono implacabili, terribili, sordi e ottusi.<br>Là parlate e colpite, bravi ragazzi, e prendete il vostro turno.<br>Là saziate la vostra libidine, celati all’occhio del cielo,<br>E gozzovigliate nel tesoro di [[characters/lavinia\|Lavinia]]. |
 | CHIRON | Il tuo consiglio, ragazzo, non sa di codardia. |
 | [[characters/demetrius\|DEMETRIUS]] | Sit fas aut nefas, finché non trovi il rivo<br>Per raffreddare quest’arsura, un incanto per calmare questi accessi,<br>Per Styga, per manes vehor. Escono |
 
@@ -1284,7 +2718,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/bassianus\|BASSIANUS]] | [[characters/lavinia\|Lavinia]], how say you? |
 | [[characters/lavinia\|LAVINIA]] | I say no.<br>I have been broad awake two hours and more. |
 | [[characters/saturninus\|SATURNINUS]] | Come on then, [[motifs/horse\|horse]] and chariots let us have,<br>And to our sport. (To [[characters/tamora\|Tamora]]) Madam, now shall ye see<br>Our Roman hunting. |
-| MARCUS | I have dogs, my lord,<br>Will rouse the proudest panther in the chase,<br>And climb the highest promontory top. |
+| MARCUS | I have [[dogs]], my lord,<br>Will rouse the proudest panther in the chase,<br>And climb the highest promontory top. |
 | TITUS | And I have [[motifs/horse\|horse]] will follow where the game<br>Makes way, and run like swallows o’er the plain. |
 | [[characters/demetrius\|DEMETRIUS]] | (aside)<br>Chiron, we hunt not, we, with [[motifs/horse\|horse]] nor hound,<br>But [[concepts/hope\|hope]] to pluck a dainty doe to ground. Exeunt |
 
@@ -1299,7 +2733,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/bassianus\|BASSIANUS]] | [[characters/lavinia\|Lavinia]], che ne dite voi? |
 | [[characters/lavinia\|LAVINIA]] | Dico di no.<br>Son ben desta da due ore e più. |
 | [[characters/saturninus\|SATURNINUS]] | Su dunque, si abbiano [[motifs/horse\|cavalli]] e carri,<br>E al nostro diporto. (A [[characters/tamora\|Tamora]]) Signora, or vedrete<br>La nostra caccia romana. |
-| MARCUS | Ho cani, mio signore,<br>Che leveranno la più superba pantera nella caccia,<br>E scaleranno la vetta del più alto promontorio. |
+| MARCUS | Ho [[dogs\|cani]], mio signore,<br>Che leveranno la più superba pantera nella caccia,<br>E scaleranno la vetta del più alto promontorio. |
 | TITUS | E io ho [[motifs/horse\|cavalli]] che seguiranno ovunque la preda<br>Si apra il varco, e corron come rondini per la piana. |
 | [[characters/demetrius\|DEMETRIUS]] | (a parte)<br>Chirone, noi non cacciamo, noi, con [[motifs/horse\|cavallo]] né con segugio,<br>Ma [[concepts/hope\|speriamo]] d’abbattere al suolo una delicata cerva. Escono |
 
@@ -1310,10 +2744,10 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | Enter [[characters/aaron\|Aaron]] alone, with gold |
+| *(didascalia)* | Enter [[characters/aaron\|Aaron]] [[Alone\|alone]], with gold |
 | [[characters/aaron\|AARON]] | He that had wit would think that I had none,<br>To bury so much gold under a tree<br>And never after to inherit it.<br>Let him that thinks of me so abjectly<br>Know that this gold must coin a stratagem<br>Which, cunningly effected, will beget<br>A very excellent piece of villainy.<br>And so repose, sweet gold, for their unrest<br>That have their alms out of the Empress’ chest.<br>He hides the gold. |
-| *(didascalia)* | Enter [[characters/tamora\|Tamora]] alone to the Moor |
-| [[characters/tamora\|TAMORA]] | My lovely [[characters/aaron\|Aaron]], wherefore look‘st thou sad<br>When everything doth make a gleeful boast?<br>The [[motifs/birds\|birds]] chant melody on every bush,<br>The snakes lies rolled in the cheerful sun,<br>The green [[motifs/leaves\|leaves]] quiver with the cooling [[motifs/wind\|wind]]<br>And make a chequered [[archetypes/shadow\|shadow]] on the ground.<br>Under their sweet shade, [[characters/aaron\|Aaron]], let us sit,<br>And whilst the babbling echo mocks the hounds,<br>Replying shrilly to the [[motifs/well\|well]]-tuned horns,<br>As if a [[topoi/double\|double]] hunt were heard at once,<br>Let us sit down and mark their yellowing noise,<br>And after conflict such as was supposed<br>The wand’ring prince and Dido once enjoyed<br>When with a happy [[motifs/storm\|storm]] they were surprised,<br>And curtained with a counsel-keeping [[motifs/cave\|cave]],<br>We may, each wreathed in the other’s arms,<br>Our pastimes done, possess a golden slumber<br>Whiles hounds and horns and sweet melodious [[motifs/birds\|birds]]<br>Be unto us as is a [[characters/nurse\|nurse]]’s song<br>Of lullaby to bring her babe asleep. |
+| *(didascalia)* | Enter [[characters/tamora\|Tamora]] [[Alone\|alone]] to the Moor |
+| [[characters/tamora\|TAMORA]] | My lovely [[characters/aaron\|Aaron]], wherefore look‘st thou sad<br>When everything doth make a gleeful boast?<br>The [[motifs/birds\|birds]] chant melody on every bush,<br>The snakes lies rolled in the cheerful sun,<br>The green [[motifs/leaves\|leaves]] quiver with the cooling [[motifs/wind\|wind]]<br>And make a chequered [[archetypes/shadow\|shadow]] on the ground.<br>Under their sweet shade, [[characters/aaron\|Aaron]], let us sit,<br>And whilst the babbling echo mocks the hounds,<br>Replying shrilly to the [[motifs/well\|well]]-tuned horns,<br>As if a [[topoi/double\|double]] hunt were heard at once,<br>Let us sit down and mark their yellowing noise,<br>And after conflict such as was supposed<br>The wand’ring prince and Dido once enjoyed<br>When with a happy [[motifs/storm\|storm]] they were surprised,<br>And curtained with a counsel-keeping [[motifs/cave\|cave]],<br>We may, each wreathed in the other’s arms,<br>Our pastimes done, possess a golden slumber<br>Whiles hounds and horns and sweet melodious [[motifs/birds\|birds]]<br>Be unto us as is a [[characters/nurse\|nurse]]’s [[Song\|song]]<br>Of lullaby to bring her babe asleep. |
 | [[characters/aaron\|AARON]] | Madam, though [[characters/venus\|Venus]] govern your desires,<br>[[characters/saturn\|Saturn]] is dominator over mine.<br>What signifies my deadly-standing eye,<br>My [[motifs/silence\|silence]], and my cloudy [[concepts/melancholy\|melancholy]],<br>My fleece of woolly hair that now uncurls<br>Even as an adder when she doth unroll<br>To do some fatal execution?<br>No, madam, these are no venereal signs.<br>Vengeance is in my heart, [[motifs/death\|death]] in my hand,<br>[[motifs/blood\|Blood]] and [[concepts/revenge\|revenge]] are hammering in my head.<br>Hark, [[characters/tamora\|Tamora]], the empress of my [[motifs/soul\|soul]],<br>Which never hopes more heaven than rests in thee,<br>This is the day of doom for [[characters/bassianus\|Bassianus]].<br>His Philomel must lose her tongue today,<br>Thy sons make pillage of her chastity<br>And wash their hands in [[characters/bassianus\|Bassianus]]’ [[motifs/blood\|blood]].<br>Seest thou this letter? (Giving a letter) Take it up, I pray thee,<br>And give the [[archetypes/king\|King]] this fatal-plotted scroll.<br>Now question me no more. We are espied.<br>Here comes a parcel of our hopeful booty,<br>Which dreads not yet their lives’ destruction. |
 | *(didascalia)* | Enter [[characters/bassianus\|Bassianus]] and [[characters/lavinia\|Lavinia]] |
 | [[characters/tamora\|TAMORA]] | (aside to [[characters/aaron\|Aaron]])<br>Ah, my sweet Moor, sweeter to me than life! |
@@ -1344,7 +2778,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/demetrius\|DEMETRIUS]] | (to [[characters/tamora\|Tamora]])<br>Listen, fair madam, let it be your glory<br>To see her [[motifs/tears\|tears]], but be your heart to them<br>As unrelenting flint to drops of rain. |
 | [[characters/lavinia\|LAVINIA]] | When did the tiger’s young ones teach the dam?<br>O, do not learn her wrath! She taught it thee.<br>The milk thou sucked’st from her did turn to marble,<br>Even at thy teat thou hadst thy tyranny.<br>Yet every mother breeds not sons alike.<br>(To Chiron) Do thou entreat her show a woman’s pity. |
 | CHIRON | What, wouldst thou have me prove myself a bastard? |
-| [[characters/lavinia\|LAVINIA]] | ’Tis true, the raven doth not hatch a lark.<br>Yet have I heard—O, could I find it now!—<br>The [[motifs/lion\|lion]], moved with pity, did endure<br>To have his princely paws pared all away.<br>Some say that ravens foster forlorn children<br>The whilst their own [[motifs/birds\|birds]] famish in their nests.<br>O, be to me, though thy hard heart say no,<br>Nothing so kind, but something pitiful. |
+| [[characters/lavinia\|LAVINIA]] | ’Tis true, [[The Raven\|the raven]] doth not hatch a lark.<br>Yet have I heard—O, could I find it now!—<br>The [[motifs/lion\|lion]], moved with pity, did endure<br>To have his princely paws pared all away.<br>Some say that ravens foster forlorn children<br>The whilst their own [[motifs/birds\|birds]] famish in their nests.<br>O, be to me, though thy hard heart say no,<br>Nothing so kind, but something pitiful. |
 | [[characters/tamora\|TAMORA]] | I know not what it means. Away with her! |
 | [[characters/lavinia\|LAVINIA]] | O, let me teach thee for my father’s sake,<br>That gave thee life when [[motifs/well\|well]] he might have slain thee.<br>Be not obdurate, open thy deaf ears. |
 | [[characters/tamora\|TAMORA]] | Hadst thou in person ne’er offended me<br>Even for his sake am I pitiless.<br>Remember, boys, I poured forth [[motifs/tears\|tears]] in vain<br>To save your brother from the sacrifice,<br>But fierce Andronicus would not relent.<br>Therefore away with her, and use her as you will—<br>The worse to her, the better loved of me. |
@@ -1409,10 +2843,10 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[characters/aaron\|Aronne]] solo, con dell’oro |
+| *(didascalia)* | Entra [[characters/aaron\|Aronne]] [[Alone\|solo]], con dell’oro |
 | [[characters/aaron\|AARON]] | Chi avesse senno penserebbe ch’io non n’abbia,<br>A seppellire tanto oro sotto un albero<br>E a non ereditarlo mai più dipoi.<br>Chi di me pensa così abiettamente<br>Sappia che quest’oro deve coniare uno stratagemma<br>Che, condotto con astuzia, genererà<br>Un’eccellentissima opera di scelleratezza.<br>E dunque riposa, dolce oro, per l’inquietudine di quelli<br>Che hanno la loro elemosina dallo scrigno dell’Imperatrice.<br>Nasconde l’oro. |
-| *(didascalia)* | Entra [[characters/tamora\|Tamora]] sola, verso il Moro |
-| [[characters/tamora\|TAMORA]] | Mio leggiadro [[characters/aaron\|Aronne]], perché hai l’aria mesta<br>Quando ogni cosa fa lieto vanto?<br>Gli [[motifs/birds\|uccelli]] cantano melodie su ogni cespuglio,<br>Le serpi giacciono ravvolte nel sole giocondo,<br>Le verdi [[motifs/leaves\|foglie]] fremono al [[motifs/wind\|vento]] rinfrescante<br>E fanno un’[[archetypes/shadow\|ombra]] screziata sul terreno.<br>Sotto la loro dolce ombra, [[characters/aaron\|Aronne]], sediamoci,<br>E mentre l’eco cianciera schernisce i segugi,<br>Rispondendo stridula ai corni [[motifs/well\|bene]] intonati,<br>Come se una [[topoi/double\|doppia]] caccia s’udisse a un tempo,<br>Sediamoci e ascoltiamo il loro clamore latrante,<br>E dopo un amplesso quale si suppone<br>Godessero un tempo il principe errante e Didone<br>Quando da una propizia [[motifs/storm\|tempesta]] furon sorpresi<br>E velati da una [[motifs/cave\|caverna]] custode di segreti,<br>Potremo, avvinti l’uno nelle braccia dell’altro,<br>Finiti i nostri diletti, godere un aureo sopore<br>Mentre segugi e corni e dolci melodiosi [[motifs/birds\|uccelli]]<br>Ci saranno come il canto d’una [[characters/nurse\|nutrice]]<br>Di ninnananna per addormentare il suo bimbo. |
+| *(didascalia)* | Entra [[characters/tamora\|Tamora]] [[Alone\|sola]], verso il Moro |
+| [[characters/tamora\|TAMORA]] | Mio leggiadro [[characters/aaron\|Aronne]], perché hai l’aria mesta<br>Quando ogni cosa fa lieto vanto?<br>Gli [[motifs/birds\|uccelli]] cantano melodie su ogni cespuglio,<br>Le serpi giacciono ravvolte nel sole giocondo,<br>Le verdi [[motifs/leaves\|foglie]] fremono al [[motifs/wind\|vento]] rinfrescante<br>E fanno un’[[archetypes/shadow\|ombra]] screziata sul terreno.<br>Sotto la loro dolce ombra, [[characters/aaron\|Aronne]], sediamoci,<br>E mentre l’eco cianciera schernisce i segugi,<br>Rispondendo stridula ai corni [[motifs/well\|bene]] intonati,<br>Come se una [[topoi/double\|doppia]] caccia s’udisse a un tempo,<br>Sediamoci e ascoltiamo il loro clamore latrante,<br>E dopo un amplesso quale si suppone<br>Godessero un tempo il principe errante e Didone<br>Quando da una propizia [[motifs/storm\|tempesta]] furon sorpresi<br>E velati da una [[motifs/cave\|caverna]] custode di segreti,<br>Potremo, avvinti l’uno nelle braccia dell’altro,<br>Finiti i nostri diletti, godere un aureo sopore<br>Mentre segugi e corni e dolci melodiosi [[motifs/birds\|uccelli]]<br>Ci saranno come il [[Song\|canto]] d’una [[characters/nurse\|nutrice]]<br>Di ninnananna per addormentare il suo bimbo. |
 | [[characters/aaron\|AARON]] | Signora, benché [[characters/venus\|Venere]] governi i vostri desideri,<br>[[characters/saturn\|Saturno]] è dominatore sui miei.<br>Che significa il mio occhio fisso e mortale,<br>Il mio [[motifs/silence\|silenzio]], e la mia fosca [[concepts/melancholy\|malinconia]],<br>Il mio vello di capelli lanosi che ora si distende<br>Proprio come una vipera quando si svolge<br>Per compiere qualche fatale esecuzione?<br>No, signora, questi non sono segni venerei.<br>La vendetta è nel mio cuore, la [[motifs/death\|morte]] nella mia mano,<br>[[motifs/blood\|Sangue]] e [[concepts/revenge\|vendetta]] martellano nel mio capo.<br>Odi, [[characters/tamora\|Tamora]], imperatrice dell’[[motifs/soul\|anima]] mia,<br>Che non spera altro cielo di quello che in te riposa,<br>Questo è il giorno del giudizio per [[characters/bassianus\|Bassiano]].<br>La sua Filomela deve perdere oggi la lingua,<br>I tuoi figli faran preda della sua castità<br>E si laveran le mani nel [[motifs/blood\|sangue]] di [[characters/bassianus\|Bassiano]].<br>Vedi tu questa lettera? (Le dà una lettera) Raccoglila, ti prego,<br>E dà al [[archetypes/king\|Re]] questo rotolo di fatale trama.<br>Or non chiedermi altro. Siamo spiati.<br>Ecco venire una parte della nostra promettente preda,<br>Che ancor non teme la distruzione delle proprie vite. |
 | *(didascalia)* | Entrano [[characters/bassianus\|Bassiano]] e [[characters/lavinia\|Lavinia]] |
 | [[characters/tamora\|TAMORA]] | (a parte, a [[characters/aaron\|Aronne]])<br>Ah, mio dolce Moro, più dolce per me della vita! |
@@ -1443,7 +2877,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/demetrius\|DEMETRIUS]] | (a [[characters/tamora\|Tamora]])<br>Udite, bella signora, sia vostra gloria<br>Vedere le sue [[motifs/tears\|lacrime]], ma sia il vostro cuore ad esse<br>Come selce inflessibile alle gocce di pioggia. |
 | [[characters/lavinia\|LAVINIA]] | Quando mai i piccoli della tigre ammaestrarono la madre?<br>Oh, non insegnarle l’ira! Fu lei a insegnartela.<br>Il latte che da lei succhiasti si mutò in marmo,<br>Già alla sua poppa avesti la tua tirannia.<br>Pur non ogni madre genera figli uguali.<br>(A Chirone) Pregala tu di mostrare pietà di donna. |
 | CHIRON | Che, vorresti farmi provare ch’io sono un bastardo? |
-| [[characters/lavinia\|LAVINIA]] | È vero, il corvo non cova un’allodola.<br>Pure ho udito—oh, potessi trovarlo adesso!—<br>Che il [[motifs/lion\|leone]], mosso a pietà, sopportò<br>Che gli fossero recise del tutto le regali unghie.<br>Alcuni dicono che i corvi nutrono i bimbi abbandonati<br>Mentre i loro [[motifs/birds\|nati]] patiscono la fame nei nidi.<br>Oh, sii per me, benché il tuo duro cuore dica di no,<br>Non tanto benigna, ma alquanto pietosa. |
+| [[characters/lavinia\|LAVINIA]] | È vero, [[The Raven\|il corvo]] non cova un’allodola.<br>Pure ho udito—oh, potessi trovarlo adesso!—<br>Che il [[motifs/lion\|leone]], mosso a pietà, sopportò<br>Che gli fossero recise del tutto le regali unghie.<br>Alcuni dicono che i corvi nutrono i bimbi abbandonati<br>Mentre i loro [[motifs/birds\|nati]] patiscono la fame nei nidi.<br>Oh, sii per me, benché il tuo duro cuore dica di no,<br>Non tanto benigna, ma alquanto pietosa. |
 | [[characters/tamora\|TAMORA]] | Non so che voglia dire. Via con lei! |
 | [[characters/lavinia\|LAVINIA]] | Oh, lascia ch’io t’insegni per amore di mio padre,<br>Che ti diede la vita quando [[motifs/well\|bene]] avrebbe potuto ucciderti.<br>Non essere ostinata, apri le tue orecchie sorde. |
 | [[characters/tamora\|TAMORA]] | Anche se tu in persona non m’avessi mai offesa,<br>Proprio per amor suo io sono spietata.<br>Ricordate, ragazzi, ch’io versai [[motifs/tears\|lacrime]] invano<br>Per salvare vostro fratello dal sacrificio,<br>Ma il feroce Andronico non volle piegarsi.<br>Perciò via con lei, e usatela come vorrete—<br>Peggio per lei, più amati da me. |
@@ -1567,7 +3001,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/lucius\|LUCIUS]] | (falling on his knees)<br>Ay me, this object kills me. |
 | TITUS | Faint-hearted boy, arise and look upon her. |
 | *(didascalia)* | [[characters/lucius\|Lucius]] rises |
-| TITUS | Speak, [[characters/lavinia\|Lavinia]], what accursed hand<br>Hath made thee handless in thy father’s sight?<br>What [[archetypes/fool\|fool]] hath added [[motifs/water\|water]] to the sea,<br>Or brought a faggot to bright-burning Troy?<br>My grief was at the height before thou cam‘st,<br>And now like Nilus it disdaineth bounds.<br>Give me a sword, I’ll chop off my hands too,<br>For they have fought for Rome, and all in vain;<br>And they have nursed this woe in feeding life;<br>In bootless [[motifs/prayer\|prayer]] have they been held up,<br>And they have served me to effectless use.<br>Now all the service I require of them<br>Is that the one will help to cut the other.<br>’Tis [[motifs/well\|well]], [[characters/lavinia\|Lavinia]], that thou hast no hands,<br>For hands to do Rome service is but vain. |
+| TITUS | Speak, [[characters/lavinia\|Lavinia]], what accursed hand<br>Hath made thee handless in thy father’s sight?<br>What [[archetypes/fool\|fool]] hath added [[motifs/water\|water]] to the sea,<br>Or brought a faggot to bright-burning Troy?<br>My grief was at the height before thou cam‘st,<br>And now like Nilus it disdaineth bounds.<br>Give me a [[Sword\|sword]], I’ll chop off my hands too,<br>For they have fought for Rome, and all in vain;<br>And they have nursed this woe in feeding life;<br>In bootless [[motifs/prayer\|prayer]] have they been held up,<br>And they have served me to effectless use.<br>Now all the service I require of them<br>Is that the one will help to cut the other.<br>’Tis [[motifs/well\|well]], [[characters/lavinia\|Lavinia]], that thou hast no hands,<br>For hands to do Rome service is but vain. |
 | [[characters/lucius\|LUCIUS]] | Speak, gentle sister, who hath martyred thee. |
 | MARCUS | O, that delightful engine of her thoughts,<br>That blabbed them with such pleasing eloquence,<br>Is torn from forth that pretty hollow cage<br>Where, like a sweet melodious bird, it sung<br>Sweet varied notes, enchanting every ear. |
 | [[characters/lucius\|LUCIUS]] | O, say thou for her, who hath done this deed? |
@@ -1580,7 +3014,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | TITUS | Ah, Marcus, Marcus, brother, [[motifs/well\|well]] I wot<br>Thy napkin cannot drink a tear of mine,<br>For thou, poor man, hast drowned it with thine own. |
 | [[characters/lucius\|LUCIUS]] | Ah, my [[characters/lavinia\|Lavinia]], I will wipe thy cheeks. |
 | TITUS | Mark, Marcus, mark. I understand her signs.<br>Had she a tongue to speak, now would she say<br>That to her brother which I said to thee.<br>His napkin with his true [[motifs/tears\|tears]] all bewet<br>Can do no service on her sorrowful cheeks.<br>O, what a sympathy of woe is this—<br>As far from help as limbo is from bliss. |
-| *(didascalia)* | Enter [[characters/aaron\|Aaron]] the Moor, alone |
+| *(didascalia)* | Enter [[characters/aaron\|Aaron]] the Moor, [[Alone\|alone]] |
 | [[characters/aaron\|AARON]] | [[characters/titus-andronicus\|Titus Andronicus]], my lord the Emperor<br>Sends thee this word: that, if thou [[motifs/love\|love]] thy sons,<br>Let Marcus, [[characters/lucius\|Lucius]] or thyself, old Titus,<br>Or any one of you, chop off your hand<br>And send it to the [[archetypes/king\|King]]. He for the same<br>Will send thee hither both thy sons alive,<br>And that shall be the ransom for their fault. |
 | TITUS | O gracious Emperor! O gentle [[characters/aaron\|Aaron]],<br>Did ever raven sing so like a lark<br>That gives sweet tidings of the sun’s uprise?<br>With all my heart I’ll send the Emperor my hand.<br>Good [[characters/aaron\|Aaron]], wilt thou help to chop it off? |
 | [[characters/lucius\|LUCIUS]] | Stay, father, for that noble hand of thine,<br>That hath thrown down so many enemies,<br>Shall not be sent. My hand will serve the turn.<br>My youth can better spare my [[motifs/blood\|blood]] than you,<br>And therefore mine shall save my brothers’ lives. |
@@ -1604,7 +3038,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | MARCUS | O brother, speak with possibility,<br>And do not break into these deep extremes. |
 | TITUS | Is not my sorrows deep, having no [[characters/bottom\|bottom]]?<br>Then be my passions bottomless with them. |
 | MARCUS | But yet let reason govern thy lament. |
-| TITUS | If there were reason for these miseries,<br>Then into limits could I bind my woes.<br>When heaven doth weep, doth not the earth<br>o‘erflow?<br>If the winds rage, doth not the sea wax mad,<br>Threat’ning the welkin with his big-swoll’n face?<br>And wilt thou have a reason for this coil?<br>I am the sea. Hark how her sighs doth blow.<br>She is the weeping welkin, I the earth.<br>Then must my sea be moved with her sighs,<br>Then must my earth with her continual [[motifs/tears\|tears]]<br>Become a deluge overflowed and drowned,<br>Forwhy my bowels cannot hide her woes,<br>But like a drunkard must I vomit them.<br>Then give me leave, for losers will have leave<br>To ease their stomachs with their bitter tongues. |
+| TITUS | If there were reason for these miseries,<br>Then into limits could I bind my woes.<br>When heaven doth weep, doth not the earth<br>o‘erflow?<br>If the winds rage, doth not the sea wax mad,<br>Threat’ning the welkin with his big-swoll’n face?<br>And wilt thou have a reason for this coil?<br>I am the sea. Hark how her sighs doth blow.<br>She is the weeping welkin, I the earth.<br>Then must my sea be moved with her sighs,<br>Then must my earth with her continual [[motifs/tears\|tears]]<br>Become a [[deluge]] overflowed and drowned,<br>Forwhy my bowels cannot hide her woes,<br>But like a drunkard must I vomit them.<br>Then give me leave, for losers will have leave<br>To ease their stomachs with their bitter tongues. |
 | *(didascalia)* | Enter a Messenger with two heads and a hand |
 | MESSENGER | Worthy Andronicus, ill art thou repaid<br>For that good hand thou sent’st the Emperor.<br>Here are the heads of thy two noble sons,<br>And here’s thy hand in scorn to thee sent back—<br>Thy grief their sports, thy resolution mocked,<br>That woe is me to think upon thy woes<br>More than remembrance of my father’s [[motifs/death\|death]]. |
 | *(didascalia)* | He sets down the heads and hand. Exit |
@@ -1646,7 +3080,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/lucius\|LUCIUS]] | (cadendo in ginocchio)<br>Ahimè, questo spettacolo m’uccide. |
 | TITUS | Ragazzo dal cuore fiacco, àlzati e guardala. |
 | *(didascalia)* | [[characters/lucius\|Lucio]] si alza |
-| TITUS | Parla, [[characters/lavinia\|Lavinia]], quale mano maledetta<br>T’ha resa senza mani sotto gli occhi di tuo padre?<br>Quale [[archetypes/fool\|folle]] ha aggiunto [[motifs/water\|acqua]] al mare,<br>O ha portato una fascina a Troia ardente?<br>Il mio dolore era al colmo prima che tu venissi,<br>E ora, come il Nilo, disdegna ogni argine.<br>Datemi una spada, mozzerò anche le mie mani,<br>Ché han combattuto per Roma, e tutto invano;<br>E hanno nutrito questa sventura nel nutrire la vita;<br>In vana [[motifs/prayer\|preghiera]] sono state levate,<br>E m’hanno servito a inutile uso.<br>Ora tutto il servigio ch’io chiedo loro<br>È che l’una aiuti a mozzare l’altra.<br>È [[motifs/well\|bene]], [[characters/lavinia\|Lavinia]], che tu non abbia mani,<br>Ché aver mani per servire Roma è cosa vana. |
+| TITUS | Parla, [[characters/lavinia\|Lavinia]], quale mano maledetta<br>T’ha resa senza mani sotto gli occhi di tuo padre?<br>Quale [[archetypes/fool\|folle]] ha aggiunto [[motifs/water\|acqua]] al mare,<br>O ha portato una fascina a Troia ardente?<br>Il mio dolore era al colmo prima che tu venissi,<br>E ora, come il Nilo, disdegna ogni argine.<br>Datemi una [[Sword\|spada]], mozzerò anche le mie mani,<br>Ché han combattuto per Roma, e tutto invano;<br>E hanno nutrito questa sventura nel nutrire la vita;<br>In vana [[motifs/prayer\|preghiera]] sono state levate,<br>E m’hanno servito a inutile uso.<br>Ora tutto il servigio ch’io chiedo loro<br>È che l’una aiuti a mozzare l’altra.<br>È [[motifs/well\|bene]], [[characters/lavinia\|Lavinia]], che tu non abbia mani,<br>Ché aver mani per servire Roma è cosa vana. |
 | [[characters/lucius\|LUCIUS]] | Parla, gentile sorella, chi t’ha martirizzata. |
 | MARCUS | Oh, quel delizioso ordigno dei suoi pensieri,<br>Che li svelava con sì piacevole eloquenza,<br>È strappato via da quella bella gabbia incavata<br>Dove, come dolce melodioso uccello, cantava<br>Dolci note variate, incantando ogni orecchio. |
 | [[characters/lucius\|LUCIUS]] | Oh, di’ tu per lei, chi ha compiuto quest’atto? |
@@ -1659,7 +3093,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | TITUS | Ah, Marco, Marco, fratello, [[motifs/well\|bene]] so io<br>Che il tuo fazzoletto non può bere una mia lacrima,<br>Ché tu, pover’uomo, l’hai annegato con le tue. |
 | [[characters/lucius\|LUCIUS]] | Ah, mia [[characters/lavinia\|Lavinia]], io t’asciugherò le guance. |
 | TITUS | Guarda, Marco, guarda. Io intendo i suoi segni.<br>Avesse lingua per parlare, ora direbbe<br>A suo fratello ciò ch’io ho detto a te.<br>Il suo fazzoletto tutto intriso delle sue vere [[motifs/tears\|lacrime]]<br>Non può render servigio alle guance dolenti di lei.<br>Oh, che consonanza di sventura è questa—<br>Lontana dal soccorso quanto il limbo dalla beatitudine. |
-| *(didascalia)* | Entra [[characters/aaron\|Aronne]] il Moro, solo |
+| *(didascalia)* | Entra [[characters/aaron\|Aronne]] il Moro, [[Alone\|solo]] |
 | [[characters/aaron\|AARON]] | [[characters/titus-andronicus\|Tito Andronico]], il mio signore l’Imperatore<br>Ti manda questo messaggio: che, se [[motifs/love\|ami]] i tuoi figli,<br>Marco, [[characters/lucius\|Lucio]] o tu stesso, vecchio Tito,<br>O uno qualunque di voi, si mozzi la mano<br>E la mandi al [[archetypes/king\|Re]]. Egli per la medesima<br>Ti manderà qui entrambi i tuoi figli vivi,<br>E quello sarà il riscatto della loro colpa. |
 | TITUS | O grazioso Imperatore! O gentile [[characters/aaron\|Aronne]],<br>Cantò mai corvo così somigliante all’allodola<br>Che dà dolce annuncio del levarsi del sole?<br>Con tutto il cuore manderò all’Imperatore la mia mano.<br>Buon [[characters/aaron\|Aronne]], vuoi tu aiutarmi a mozzarla? |
 | [[characters/lucius\|LUCIUS]] | Fermatevi, padre, ché quella vostra nobile mano,<br>Che ha atterrato tanti nemici,<br>Non sarà mandata. La mia mano servirà allo scopo.<br>La mia giovinezza può privarsi del mio [[motifs/blood\|sangue]] meglio di voi,<br>E perciò la mia salverà la vita dei miei fratelli. |
@@ -1683,7 +3117,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | MARCUS | O fratello, parla entro il possibile,<br>E non prorompere in questi profondi eccessi. |
 | TITUS | Non sono profondi i miei dolori, non avendo [[characters/bottom\|fondo]]?<br>Siano dunque senza fondo con essi anche le mie passioni. |
 | MARCUS | Pure lascia che la ragione governi il tuo lamento. |
-| TITUS | Se ci fosse ragione per queste miserie,<br>Allora potrei stringere entro limiti le mie sventure.<br>Quando il cielo piange, non trabocca forse la<br>terra?<br>Se infuriano i venti, non impazza forse il mare,<br>Minacciando il firmamento col suo volto gonfio?<br>E tu vorresti una ragione per questo scompiglio?<br>Io sono il mare. Odi come soffiano i suoi sospiri.<br>Ella è il firmamento piangente, io la terra.<br>Il mio mare dev’essere dunque agitato dai suoi sospiri,<br>E la mia terra, per le sue continue [[motifs/tears\|lacrime]],<br>Deve divenire un diluvio, straripata e sommersa,<br>Perché le mie viscere non possono celare le sue sventure,<br>Ma come un ubriaco devo vomitarle.<br>Datemi dunque licenza, ché chi perde avrà licenza<br>Di sfogare lo stomaco con le sue lingue amare. |
+| TITUS | Se ci fosse ragione per queste miserie,<br>Allora potrei stringere entro limiti le mie sventure.<br>Quando il cielo piange, non trabocca forse la<br>terra?<br>Se infuriano i venti, non impazza forse il mare,<br>Minacciando il firmamento col suo volto gonfio?<br>E tu vorresti una ragione per questo scompiglio?<br>Io sono il mare. Odi come soffiano i suoi sospiri.<br>Ella è il firmamento piangente, io la terra.<br>Il mio mare dev’essere dunque agitato dai suoi sospiri,<br>E la mia terra, per le sue continue [[motifs/tears\|lacrime]],<br>Deve divenire un [[deluge\|diluvio]], straripata e sommersa,<br>Perché le mie viscere non possono celare le sue sventure,<br>Ma come un ubriaco devo vomitarle.<br>Datemi dunque licenza, ché chi perde avrà licenza<br>Di sfogare lo stomaco con le sue lingue amare. |
 | *(didascalia)* | Entra un Messaggero con due teste e una mano |
 | MESSAGGERO | Degno Andronico, mal sei ripagato<br>Per quella buona mano che mandasti all’Imperatore.<br>Ecco le teste dei tuoi due nobili figli,<br>Ed ecco la tua mano rimandatati per scherno—<br>Il tuo dolore è il loro sollazzo, la tua risolutezza derisa,<br>Sì che m’accora pensare alle tue sventure<br>Più che il ricordo della [[motifs/death\|morte]] di mio padre. |
 | *(didascalia)* | Depone le teste e la mano. Esce |
@@ -1782,13 +3216,13 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | MARCUS | What, what!—The lustful sons of [[characters/tamora\|Tamora]]<br>Performers of this heinous bloody deed? |
 | TITUS | Magni dominator poli,<br><br>Tam lentus audis scelera, tam lentus vides? |
 | MARCUS | O, calm thee, gentle lord, although I know<br>There is enough written upon this earth<br>To stir a mutiny in the mildest thoughts,<br>And arm the minds of infants to exclaims.<br>My lord, kneel down with me; [[characters/lavinia\|Lavinia]], kneel;<br>And kneel, sweet boy, the Roman [[characters/hector\|Hector]]’s [[concepts/hope\|hope]],<br>All kneel<br>And swear with me—as, with the woeful fere<br>And father of that chaste dishonoured dame<br>Lord Junius [[characters/brutus\|Brutus]] sware for [[characters/lucrece\|Lucrece]]’ rape—<br>That we will prosecute by good advice<br>Mortal [[concepts/revenge\|revenge]] upon these traitorous Goths,<br>And see their [[motifs/blood\|blood]], or die with this reproach.<br>They rise |
-| TITUS | ’Tis sure enough an you knew how,<br>But if you hunt these bear-whelps, then beware.<br>The dam will wake, and if she [[motifs/wind\|wind]] ye once<br>She’s with the [[motifs/lion\|lion]] deeply still in league,<br>And lulls him whilst she playeth on her back,<br>And when he sleeps will she do what she list.<br>You are a young huntsman, Marcus. Let alone,<br>And come, I will go get a leaf of brass<br>And with a gad of steel will write these words,<br>And lay it by. The angry northern [[motifs/wind\|wind]]<br>Will blow these sands like Sibyl’s [[motifs/leaves\|leaves]] abroad,<br>And where’s our lesson then? Boy, what say you? |
+| TITUS | ’Tis sure enough an you knew how,<br>But if you hunt these bear-whelps, then beware.<br>The dam will wake, and if she [[motifs/wind\|wind]] ye once<br>She’s with the [[motifs/lion\|lion]] deeply still in league,<br>And lulls him whilst she playeth on her back,<br>And when he sleeps will she do what she list.<br>You are a young huntsman, Marcus. Let [[Alone\|alone]],<br>And come, I will go get a leaf of brass<br>And with a gad of steel will write these words,<br>And lay it by. The angry northern [[motifs/wind\|wind]]<br>Will blow these sands like Sibyl’s [[motifs/leaves\|leaves]] abroad,<br>And where’s our lesson then? Boy, what say you? |
 | YOUNG [[characters/lucius\|LUCIUS]] | I say, my lord, that if I were a man<br>Their mother’s bedchamber should not be safe<br>For these base bondmen to the yoke of Rome. |
 | MARCUS | Ay, that’s my boy! Thy father hath full oft<br>For his ungrateful country done the like. |
 | YOUNG [[characters/lucius\|LUCIUS]] | And, uncle, so will I, an if I live. |
 | TITUS | Come go with me into mine armoury.<br>[[characters/lucius\|Lucius]], I’ll fit thee; and withal, my boy,<br>Shall carry from me to the Empress’ sons<br>Presents that I intend to send them both.<br>Come, come, thou’lt do my message, wilt thou not? |
 | YOUNG [[characters/lucius\|LUCIUS]] | Ay, with my dagger in their bosoms, grandsire. |
-| TITUS | No, boy, not so. I’ll teach thee another course.<br>[[characters/lavinia\|Lavinia]], come. Marcus, look to my house.<br>[[characters/lucius\|Lucius]] and I’ll go brave it at the [[settings/court\|court]].<br>Ay, marry, will we, sir, and we’ll be waited on. |
+| TITUS | No, boy, not so. I’ll teach thee another course.<br>[[characters/lavinia\|Lavinia]], come. Marcus, look to my [[house]].<br>[[characters/lucius\|Lucius]] and I’ll go brave it at the [[settings/court\|court]].<br>Ay, marry, will we, sir, and we’ll be waited on. |
 | *(didascalia)* | Exeunt all but Marcus |
 | MARCUS | O heavens, can you hear a good man groan<br>And not relent, or not compassion him?<br>Marcus, attend him in his ecstasy,<br>That hath more scars of sorrow in his heart<br>Than foemen’s marks upon his battered shield,<br>But yet so just that he will not [[concepts/revenge\|revenge]].<br>[[concepts/revenge\|Revenge]] the heavens for old Andronicus! Exit |
 
@@ -1823,13 +3257,13 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | MARCUS | Come, come!—I libidinosi figli di [[characters/tamora\|Tamora]]<br>Esecutori di questo atroce sanguinoso atto? |
 | TITUS | Magni dominator poli,<br><br>Tam lentus audis scelera, tam lentus vides? |
 | MARCUS | Oh, calmati, gentile signore, benché io sappia<br>Che v’è abbastanza scritto su questa terra<br>Da suscitare un ammutinamento nei più miti pensieri,<br>E armare a grida le menti dei bambini.<br>Mio signore, inginocchiatevi con me; [[characters/lavinia\|Lavinia]], inginocchiati;<br>E inginocchiati, dolce fanciullo, [[concepts/hope\|speranza]] dell’[[characters/hector\|Ettore]] romano,<br>Tutti s’inginocchiano<br>E giurate con me—come, col dolente sposo<br>E padre di quella casta dama disonorata,<br>Il signor Giunio [[characters/brutus\|Bruto]] giurò per lo stupro di [[characters/lucrece\|Lucrezia]]—<br>Che noi perseguiremo con buon consiglio<br>Mortale [[concepts/revenge\|vendetta]] su questi traditori Goti,<br>E vedremo il loro [[motifs/blood\|sangue]], o morremo con questa onta.<br>Si alzano |
-| TITUS | È abbastanza certo, se sapeste come,<br>Ma se cacciate questi orsacchiotti, allora badate.<br>La madre si desterà, e se una volta vi [[motifs/wind\|fiuta]]<br>Ella è tuttora in stretta lega col [[motifs/lion\|leone]],<br>E lo culla mentre si trastulla supina,<br>E quando egli dorme farà ciò che le piace.<br>Tu sei un giovane cacciatore, Marco. Lascia stare,<br>E vieni, andrò a prendere una lastra di bronzo<br>E con una punta d’acciaio scriverò queste parole,<br>E la riporrò. L’irato [[motifs/wind\|vento]] di tramontana<br>Disperderà queste sabbie come le [[motifs/leaves\|foglie]] della Sibilla,<br>E dov’è allora la nostra lezione? Fanciullo, che dici? |
+| TITUS | È abbastanza certo, se sapeste come,<br>Ma se cacciate questi orsacchiotti, allora badate.<br>La madre si desterà, e se una volta vi [[motifs/wind\|fiuta]]<br>Ella è tuttora in stretta lega col [[motifs/lion\|leone]],<br>E lo culla mentre si trastulla supina,<br>E quando egli dorme farà ciò che le piace.<br>Tu sei un giovane cacciatore, Marco. Lascia [[Alone\|stare]],<br>E vieni, andrò a prendere una lastra di bronzo<br>E con una punta d’acciaio scriverò queste parole,<br>E la riporrò. L’irato [[motifs/wind\|vento]] di tramontana<br>Disperderà queste sabbie come le [[motifs/leaves\|foglie]] della Sibilla,<br>E dov’è allora la nostra lezione? Fanciullo, che dici? |
 | GIOVANE [[characters/lucius\|LUCIUS]] | Dico, mio signore, che se fossi un uomo<br>Neppure la camera da letto della loro madre sarebbe sicura<br>Per questi vili schiavi al giogo di Roma. |
 | MARCUS | Sì, questo è il mio ragazzo! Tuo padre ha ben spesso<br>Fatto altrettanto per la sua ingrata patria. |
 | GIOVANE [[characters/lucius\|LUCIUS]] | E, zio, così farò io, se vivrò. |
 | TITUS | Su, vieni con me nella mia armeria.<br>[[characters/lucius\|Lucio]], t’equipaggerò; e insieme, ragazzo mio,<br>Porterai da parte mia ai figli dell’Imperatrice<br>Doni ch’io intendo mandare a entrambi.<br>Su, su, farai la mia ambasciata, non è vero? |
 | GIOVANE [[characters/lucius\|LUCIUS]] | Sì, col mio pugnale nei loro petti, nonno. |
-| TITUS | No, ragazzo, non così. T’insegnerò un’altra via.<br>[[characters/lavinia\|Lavinia]], vieni. Marco, bada alla mia casa.<br>[[characters/lucius\|Lucio]] e io andremo a far bella figura a [[settings/court\|corte]].<br>Sì, per certo, lo faremo, signore, e saremo serviti. |
+| TITUS | No, ragazzo, non così. T’insegnerò un’altra via.<br>[[characters/lavinia\|Lavinia]], vieni. Marco, bada alla mia [[house\|casa]].<br>[[characters/lucius\|Lucio]] e io andremo a far bella figura a [[settings/court\|corte]].<br>Sì, per certo, lo faremo, signore, e saremo serviti. |
 | *(didascalia)* | Escono tutti tranne Marco |
 | MARCUS | O cieli, potete udire un uomo dabbene gemere<br>E non intenerirvi, o non compatirlo?<br>Marco, assistilo nel suo delirio,<br>Egli che ha più cicatrici di dolore nel cuore<br>Che segni di nemici sul suo scudo malconcio,<br>Ma pure sì giusto che non vuole [[concepts/revenge\|vendicarsi]].<br>[[concepts/revenge\|Vendichino]] i cieli il vecchio Andronico! Esce |
 
@@ -1883,8 +3317,8 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/aaron\|AARON]] | It shall not die. |
 | [[characters/nurse\|NURSE]] | [[characters/aaron\|Aaron]], it must; the mother wills it so. |
 | [[characters/aaron\|AARON]] | What, must it, [[characters/nurse\|nurse]]? Then let no man but I<br>Do execution on my flesh and [[motifs/blood\|blood]]. |
-| [[characters/demetrius\|DEMETRIUS]] | I’ll broach the tadpole on my rapier’s point.<br>[[characters/nurse\|Nurse]], give it me. My sword shall soon dispatch it. |
-| [[characters/aaron\|AARON]] | Sooner this sword shall plough thy bowels up.<br>He takes the [[archetypes/child\|child]] and draws his sword<br>Stay, murderous villains, will you kill your brother?<br>Now, by the burning tapers of the sky<br>That shone so brightly when this boy was got,<br>He dies upon my scimitar’s sharp point<br>That touches this, my first-born son and heir.<br>I tell you, younglings, not Enceladus<br>With all his threat’ning band of Typhon’s brood,<br>Nor great Alcides, nor the god of war<br>Shall seize this prey out of his father’s hands.<br>What, what, ye sanguine, shallow-hearted boys,<br>Ye whitelimed walls, ye alehouse painted signs,<br>Coal-black is better than another hue<br>In that it scorns to bear another hue;<br>For all the [[motifs/water\|water]] in the ocean<br>Can never turn the swan’s black legs to white,<br>Although she lave them hourly in the flood.<br>Tell the Empress from me I am of age<br>To keep mine own, excuse it how she can. |
+| [[characters/demetrius\|DEMETRIUS]] | I’ll broach the tadpole on my rapier’s point.<br>[[characters/nurse\|Nurse]], give it me. My [[Sword\|sword]] shall soon dispatch it. |
+| [[characters/aaron\|AARON]] | Sooner this [[Sword\|sword]] shall plough thy bowels up.<br>He takes the [[archetypes/child\|child]] and draws his [[Sword\|sword]]<br>Stay, murderous villains, will you kill your brother?<br>Now, by the burning tapers of the sky<br>That shone so brightly when this boy was got,<br>He dies upon my scimitar’s sharp point<br>That touches this, my first-born son and heir.<br>I tell you, younglings, not Enceladus<br>With all his threat’ning band of Typhon’s brood,<br>Nor great Alcides, nor the god of war<br>Shall seize this prey out of his father’s hands.<br>What, what, ye sanguine, shallow-hearted boys,<br>Ye whitelimed walls, ye alehouse painted signs,<br>Coal-black is better than another hue<br>In that it scorns to bear another hue;<br>For all the [[motifs/water\|water]] in the ocean<br>Can never turn the swan’s black legs to white,<br>Although she lave them hourly in the flood.<br>Tell the Empress from me I am of age<br>To keep mine own, excuse it how she can. |
 | [[characters/demetrius\|DEMETRIUS]] | Wilt thou betray thy noble mistress thus? |
 | [[characters/aaron\|AARON]] | My mistress is my mistress, this myself,<br>The figure and the picture of my youth.<br>This before all the world do I prefer;<br>This maugre all the world will I keep safe,<br>Or some of you shall smoke for it in Rome. no |
 | [[characters/demetrius\|DEMETRIUS]] | By this our mother is for ever shamed. |
@@ -1955,8 +3389,8 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/aaron\|AARON]] | Non morirà. |
 | [[characters/nurse\|NURSE]] | [[characters/aaron\|Aronne]], deve; la madre così vuole. |
 | [[characters/aaron\|AARON]] | Come, deve, [[characters/nurse\|nutrice]]? Allora nessun altro fuorché io<br>Faccia giustizia della mia carne e del mio [[motifs/blood\|sangue]]. |
-| [[characters/demetrius\|DEMETRIUS]] | Infilzerò il girino sulla punta del mio stocco.<br>[[characters/nurse\|Nutrice]], dammelo. La mia spada presto lo spaccerà. |
-| [[characters/aaron\|AARON]] | Prima questa spada t’arerà le viscere.<br>Prende il [[archetypes/child\|bambino]] e sguaina la spada<br>Fermi, scellerati assassini, volete uccidere vostro fratello?<br>Ora, per le ardenti fiaccole del cielo<br>Che splendettero sì luminose quando questo fanciullo fu generato,<br>Muore sull’aguzza punta della mia scimitarra<br>Chiunque tocchi costui, mio primogenito ed erede.<br>Ve lo dico, giovincelli, né Encelado<br>Con tutta la sua minacciosa schiera della stirpe di Tifone,<br>Né il grande Alcide, né il dio della guerra<br>Strapperà questa preda dalle mani di suo padre.<br>Come, come, voi ragazzi sanguigni, dal cuore leggero,<br>Voi muri imbiancati a calce, voi insegne dipinte di taverna,<br>Il nero di carbone è migliore d’ogni altro colore<br>In quanto disdegna di portarne un altro;<br>Ché tutta l’[[motifs/water\|acqua]] dell’oceano<br>Non potrà mai far bianche le nere zampe del cigno,<br>Benché egli le lavi ogni ora nell’onda.<br>Dite all’Imperatrice da parte mia che ho l’età<br>Di tenere il mio, se la scusi come può. |
+| [[characters/demetrius\|DEMETRIUS]] | Infilzerò il girino sulla punta del mio stocco.<br>[[characters/nurse\|Nutrice]], dammelo. La mia [[Sword\|spada]] presto lo spaccerà. |
+| [[characters/aaron\|AARON]] | Prima questa [[Sword\|spada]] t’arerà le viscere.<br>Prende il [[archetypes/child\|bambino]] e sguaina la [[Sword\|spada]]<br>Fermi, scellerati assassini, volete uccidere vostro fratello?<br>Ora, per le ardenti fiaccole del cielo<br>Che splendettero sì luminose quando questo fanciullo fu generato,<br>Muore sull’aguzza punta della mia scimitarra<br>Chiunque tocchi costui, mio primogenito ed erede.<br>Ve lo dico, giovincelli, né Encelado<br>Con tutta la sua minacciosa schiera della stirpe di Tifone,<br>Né il grande Alcide, né il dio della guerra<br>Strapperà questa preda dalle mani di suo padre.<br>Come, come, voi ragazzi sanguigni, dal cuore leggero,<br>Voi muri imbiancati a calce, voi insegne dipinte di taverna,<br>Il nero di carbone è migliore d’ogni altro colore<br>In quanto disdegna di portarne un altro;<br>Ché tutta l’[[motifs/water\|acqua]] dell’oceano<br>Non potrà mai far bianche le nere zampe del cigno,<br>Benché egli le lavi ogni ora nell’onda.<br>Dite all’Imperatrice da parte mia che ho l’età<br>Di tenere il mio, se la scusi come può. |
 | [[characters/demetrius\|DEMETRIUS]] | Vuoi tradire così la tua nobile signora? |
 | [[characters/aaron\|AARON]] | La mia signora è la mia signora, questo è me stesso,<br>La figura e il ritratto della mia giovinezza.<br>Questo io preferisco a tutto il mondo;<br>Questo a dispetto di tutto il mondo terrò al sicuro,<br>O qualcuno di voi ne pagherà il fumo in Roma. no |
 | [[characters/demetrius\|DEMETRIUS]] | Per questo nostra madre è svergognata per sempre. |
@@ -1989,7 +3423,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | Enter Titus, old Marcus, his son Publius, young [[characters/lucius\|Lucius]], and other gentlemen ([[characters/sempronius\|Sempronius]], Caius) with bows; and Titus bears the arrows with letters on the ends of them |
 | TITUS | Come, Marcus, come; kinsmen, this is the way.<br>Sir boy, let me see your archery.<br>Look ye draw [[motifs/home\|home]] enough, and ‘tis there straight.<br>Terras Astraea reliquit.<br><br>Be you remembered, Marcus: she’s gone, she’s fled.<br>Sirs, take you to your tools. You, cousins, shall<br>Go sound the ocean and cast your nets.<br>Happily you may catch her in the sea;<br>Yet there’s as little justice as at land.<br>No, Publius and [[characters/sempronius\|Sempronius]], you must do it.<br>’Tis you must dig with mattock and with spade<br>And pierce the inmost centre of the earth.<br>Then, when you come to Pluto’s region,<br>I pray you deliver him this petition.<br>Tell him it is for justice and for aid,<br>And that it comes from old Andronicus,<br>Shaken with sorrows in ungrateful Rome.<br>Ah, Rome! [[motifs/well\|Well]], [[motifs/well\|well]], I made thee miserable<br>What [[motifs/time\|time]] I threw the people’s suffrages<br>On him that thus doth tyrannize o’er me.<br>Go, get you gone, and pray be careful all,<br>And leave you not a man-of-war unsearched.<br>This wicked Emperor may have shipped her hence,<br>And, kinsmen, then we may go pipe for justice. |
 | MARCUS | O, Publius, is not this a heavy case,<br>To see thy noble uncle thus distraught? |
-| PUBLIUS | Therefore, my lords, it highly us concerns<br>By day and [[motifs/night\|night]] t’attend him carefully<br>And feed his humour kindly as we may,<br>Till [[motifs/time\|time]] beget some careful remedy. |
+| PUBLIUS | Therefore, my lords, it highly us concerns<br>By day and [[motifs/night\|night]] t’attend him carefully<br>And feed his [[Humour\|humour]] kindly as we may,<br>Till [[motifs/time\|time]] beget some careful remedy. |
 | MARCUS | Kinsmen, his sorrows are past remedy, |
 | *(didascalia)* | But |
 | MARCUS | Join with the Goths, and with revengeful war<br>Take wreak on Rome for this ingratitude,<br>And vengeance on the traitor Saturnine. |
@@ -2013,7 +3447,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | CLOWN | From heaven? Alas, sir, I never came there. God forbid I should be so bold to press to heaven in my young days. Why, I am going with my pigeons to the tribunal plebs to take up a matter of brawl betwixt my uncle and one of the Emperal’s men. |
 | TITUS | Sirrah, come hither. Make no more ado,<br>But give your pigeons to the Emperor.<br>By me thou shalt have justice at his hands.<br>Hold, hold—(giving money) meanwhile, here’s money<br>for thy charges.<br>Give me pen and ink. Sirrah, can you with a grace<br>Deliver up a supplication? |
 | CLOWN | Ay, sir. |
-| TITUS | (writing and giving the Clown a paper) Then here is a supplication for you, and when you come to him, at the first approach you must kneel, then kiss his foot, then deliver up your pigeons, and then look for your reward. I’ll be at hand, sir; see you do it bravely. CLOWN I warrant you, sir. Let me alone. |
+| TITUS | (writing and giving the Clown a paper) Then here is a supplication for you, and when you come to him, at the first approach you must kneel, then kiss his foot, then deliver up your pigeons, and then look for your reward. I’ll be at hand, sir; see you do it bravely. CLOWN I warrant you, sir. Let me [[Alone\|alone]]. |
 | TITUS | Sirrah, hast thou a knife? Come, let me see it.<br>Here, Marcus, fold it in the oration,<br>For thou hast made it like an humble suppliant.<br>And when thou hast given it to the Emperor,<br>Knock at my door and tell me what he says. |
 | CLOWN | God be with you, sir. I will. Exit |
 | TITUS | Come, Marcus, let us go. Publius, follow me. Exeunt |
@@ -2026,7 +3460,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | Entrano Tito, il vecchio Marco, suo figlio Publio, il giovane [[characters/lucius\|Lucio]], e altri gentiluomini ([[characters/sempronius\|Sempronio]], Caio) con archi; e Tito porta le frecce con lettere infilate in punta |
 | TITUS | Vieni, Marco, vieni; congiunti, ecco la via.<br>Signor ragazzo, fammi vedere la tua arte dell’arco.<br>Bada di tendere fino in [[motifs/home\|fondo]], e va’ dritto al segno.<br>Terras Astraea reliquit.<br><br>Ricòrdatene, Marco: se n’è andata, è fuggita.<br>Signori, prendete i vostri arnesi. Voi, cugini,<br>Andrete a scandagliare l’oceano e a gettar le reti.<br>Forse la prenderete nel mare;<br>Pure là c’è poca giustizia quanto in terra.<br>No, Publio e [[characters/sempronius\|Sempronio]], tocca a voi farlo.<br>Siete voi che dovete scavare con zappa e con vanga<br>E trafiggere l’intimo centro della terra.<br>Poi, quando giungerete al regno di Plutone,<br>Vi prego, consegnategli questa supplica.<br>Ditegli ch’è per giustizia e per soccorso,<br>E che viene dal vecchio Andronico,<br>Scosso dai dolori nell’ingrata Roma.<br>Ah, Roma! [[motifs/well\|Bene]], [[motifs/well\|bene]], io ti resi misera<br>Nel [[motifs/time\|tempo]] in cui gettai i suffragi del popolo<br>Su colui che così mi tiranneggia.<br>Andate, partite, e vi prego siate tutti attenti,<br>E non lasciate nave da guerra non perquisita.<br>Questo malvagio Imperatore può averla imbarcata via di qui,<br>E allora, congiunti, potremo suonare il piffero per la giustizia. |
 | MARCUS | Oh, Publio, non è questo un caso grave,<br>Veder così stravolto il tuo nobile zio? |
-| PUBLIUS | Perciò, signori miei, ci preme grandemente<br>Di giorno e di [[motifs/night\|notte]] assisterlo con cura<br>E assecondare benignamente il suo umore come possiamo,<br>Finché il [[motifs/time\|tempo]] non generi qualche sollecito rimedio. |
+| PUBLIUS | Perciò, signori miei, ci preme grandemente<br>Di giorno e di [[motifs/night\|notte]] assisterlo con cura<br>E assecondare benignamente il suo [[Humour\|umore]] come possiamo,<br>Finché il [[motifs/time\|tempo]] non generi qualche sollecito rimedio. |
 | MARCUS | Congiunti, i suoi dolori sono senza rimedio, |
 | *(didascalia)* | Ma |
 | MARCUS | Unitevi ai Goti, e con guerra vendicatrice<br>Prendete vendetta su Roma per quest’ingratitudine,<br>E castigo sul traditore Saturnino. |
@@ -2050,7 +3484,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | BUFFONE | Dal cielo? Ahimè, signore, non ci sono mai stato. Dio mi guardi dall’essere così ardito da spingermi in cielo nei miei giovani anni. Ecco, vado coi miei piccioni al tribunale plebe per accomodare una questione di rissa fra mio zio e uno degli uomini dell’Imperiale. |
 | TITUS | Ehi tu, vieni qua. Non far più storie,<br>Ma dà i tuoi piccioni all’Imperatore.<br>Per mio mezzo avrai giustizia dalle sue mani.<br>Tieni, tieni—(dandogli denaro) intanto, ecco denaro<br>per le tue spese.<br>Datemi penna e inchiostro. Ehi tu, sapresti con garbo<br>Presentare una supplica? |
 | BUFFONE | Sì, signore. |
-| TITUS | (scrivendo e dando al Buffone un foglio) Ecco dunque una supplica per te, e quando giungerai da lui, al primo accostarti devi inginocchiarti, poi baciargli il piede, poi consegnare i tuoi piccioni, e poi aspettarti la tua ricompensa. Sarò lì presso, signore; bada di farlo bravamente. BUFFONE Ve lo garantisco, signore. Lasciate fare a me. |
+| TITUS | (scrivendo e dando al Buffone un foglio) Ecco dunque una supplica per te, e quando giungerai da lui, al primo accostarti devi inginocchiarti, poi baciargli il piede, poi consegnare i tuoi piccioni, e poi aspettarti la tua ricompensa. Sarò lì presso, signore; bada di farlo bravamente. BUFFONE Ve lo garantisco, signore. Lasciate fare a [[Alone\|me]]. |
 | TITUS | Ehi tu, hai un coltello? Su, fammelo vedere.<br>Ecco, Marco, piegalo dentro l’orazione,<br>Ché tu l’hai composta come un umile supplice.<br>E quando l’avrai data all’Imperatore,<br>Bussa alla mia porta e dimmi che cosa dice. |
 | BUFFONE | Dio sia con voi, signore. Lo farò. Esce |
 | TITUS | Vieni, Marco, andiamo. Publio, seguimi. Escono |
@@ -2063,7 +3497,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[characters/saturninus\|Saturninus]], the Emperor, and [[characters/tamora\|Tamora]], the Empress, and Chiron and [[characters/demetrius\|Demetrius]], her two sons, and others. The Emperor brings the arrows in his hand that Titus shot at him |
-| [[characters/saturninus\|SATURNINUS]] | Why, lords, what wrongs are these! Was ever seen<br>An emperor in Rome thus overborne,<br>Troubled, confronted thus, and for the extent<br>Of egall justice used in such contempt?<br>My lords, you know, as know the mightful gods,<br>However these disturbers of our peace<br>Buzz in the people’s ears, there naught hath passed<br>But even with law against the wilful sons<br>Of old Andronicus. And what an if<br>His sorrows have so overwhelmed his wits?<br>Shall we be thus afflicted in his wreaks,<br>His fits, his frenzy, and his bitterness?<br>And now he writes to heaven for his redress.<br>See, here’s ‘to Jove’ and this ‘to Mercury’,<br>This ‘to [[characters/apollo\|Apollo]]’, this ‘to the god of war’—<br>Sweet scrolls to fly about the streets of Rome!<br>What’s this but libelling against the Senate<br>And blazoning our unjustice everywhere?<br>A goodly humour, is it not, my lords?—<br>As who would say, in Rome no justice were.<br>But, if I live, his feigned ecstasies<br>Shall be no shelter to these outrages,<br>But he and his shall know that justice lives<br>In [[characters/saturninus\|Saturninus]]’ health, whom if he [[motifs/sleep\|sleep]]<br>He’ll so awake as he in fury shall<br>Cut off the proud’st conspirator that lives. |
+| [[characters/saturninus\|SATURNINUS]] | Why, lords, what wrongs are these! Was ever seen<br>An emperor in Rome thus overborne,<br>Troubled, confronted thus, and for the extent<br>Of egall justice used in such contempt?<br>My lords, you know, as know the mightful gods,<br>However these disturbers of our peace<br>Buzz in the people’s ears, there naught hath passed<br>But even with law against the wilful sons<br>Of old Andronicus. And what an if<br>His sorrows have so overwhelmed his wits?<br>Shall we be thus afflicted in his wreaks,<br>His fits, his frenzy, and his bitterness?<br>And now he writes to heaven for his redress.<br>See, here’s ‘to Jove’ and this ‘to Mercury’,<br>This ‘to [[characters/apollo\|Apollo]]’, this ‘to the god of war’—<br>Sweet scrolls to fly about the streets of Rome!<br>What’s this but libelling against the Senate<br>And blazoning our unjustice everywhere?<br>A goodly [[Humour\|humour]], is it not, my lords?—<br>As who would say, in Rome no justice were.<br>But, if I live, his feigned ecstasies<br>Shall be no shelter to these outrages,<br>But he and his shall know that justice lives<br>In [[characters/saturninus\|Saturninus]]’ health, whom if he [[motifs/sleep\|sleep]]<br>He’ll so awake as he in fury shall<br>Cut off the proud’st conspirator that lives. |
 | [[characters/tamora\|TAMORA]] | My gracious lord, my lovely Saturnine,<br>Lord of my life, commander of my thoughts,<br>Calm thee, and bear the faults of Titus’ age,<br>Th’effects of sorrow for his valiant sons<br>Whose loss hath pierced him deep and scarred his<br>heart;<br>And rather comfort his distressed plight<br>Than prosecute the meanest or the best<br>For these contempts. (Aside) Why, thus it shall become<br>High-witted [[characters/tamora\|Tamora]] to gloze with all.<br>But, Titus, I have touched thee to the quick.<br>Thy life [[motifs/blood\|blood]] out if [[characters/aaron\|Aaron]] now be wise,<br>Then is all safe, the anchor in the port. |
 | *(didascalia)* | Enter Clown |
 | [[characters/tamora\|TAMORA]] | How now, good fellow, wouldst thou speak with us? |
@@ -2083,7 +3517,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/saturninus\|SATURNINUS]] | Ay, but the citizens favour [[characters/lucius\|Lucius]],<br>And will revolt from me to succour him. |
 | [[characters/tamora\|TAMORA]] | [[archetypes/king\|King]], be thy thoughts imperious like thy name.<br>Is the sun dimmed, that gnats do fly in it?<br>The eagle suffers little [[motifs/birds\|birds]] to sing,<br>And is not careful what they mean thereby,<br>Knowing that with the [[archetypes/shadow\|shadow]] of his wings<br>He can at pleasure stint their melody.<br>Even so mayst thou the giddy men of Rome.<br>Then cheer thy spirit; for know thou, Emperor,<br>I will enchant the old Andronicus<br>With words more sweet and yet more dangerous<br>Than baits to fish or honey-stalks to sheep<br>Whenas the one is wounded with the bait,<br>The other rotted with delicious feed. |
 | [[characters/saturninus\|SATURNINUS]] | But he will not entreat his son for us. |
-| [[characters/tamora\|TAMORA]] | If [[characters/tamora\|Tamora]] entreat him, then he will,<br>For I can smooth and fill his aged ears<br>With golden promises that, were his heart<br>Almost impregnable, his old ears deaf,<br>Yet should both ear and heart obey my tongue.<br>(To Aemilius) Go thou before to be our ambassador.<br>Say that the Emperor requests a parley<br>Of warlike [[characters/lucius\|Lucius]], and appoint the meeting<br>Even at his father’s house, the old Andronicus. |
+| [[characters/tamora\|TAMORA]] | If [[characters/tamora\|Tamora]] entreat him, then he will,<br>For I can smooth and fill his aged ears<br>With golden promises that, were his heart<br>Almost impregnable, his old ears deaf,<br>Yet should both ear and heart obey my tongue.<br>(To Aemilius) Go thou before to be our ambassador.<br>Say that the Emperor requests a parley<br>Of warlike [[characters/lucius\|Lucius]], and appoint the meeting<br>Even at his father’s [[house]], the old Andronicus. |
 | [[characters/saturninus\|SATURNINUS]] | Aemilius, do this message honourably,<br>And if he stand on hostage for his safety,<br>Bid him demand what pledge will please him best. |
 | AEMILIUS | Your bidding shall I do effectually. Exit |
 | [[characters/tamora\|TAMORA]] | Now will I to that old Andronicus,<br>And temper him with all the art I have<br>To pluck proud [[characters/lucius\|Lucius]] from the warlike Goths.<br>And now, sweet Emperor, be blithe again,<br>And bury all thy [[concepts/fear\|fear]] in my devices. |
@@ -2096,7 +3530,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[characters/saturninus\|Saturnino]], l’Imperatore, e [[characters/tamora\|Tamora]], l’Imperatrice, e Chirone e [[characters/demetrius\|Demetrio]], i suoi due figli, e altri. L’Imperatore reca in mano le frecce che Tito gli ha scoccato contro |
-| [[characters/saturninus\|SATURNINUS]] | Ebbene, signori, che torti son questi! S’è mai visto<br>Un imperatore in Roma così sopraffatto,<br>Turbato, sfidato a tal segno, e per l’esercizio<br>D’equa giustizia trattato con tanto disprezzo?<br>Signori miei, voi sapete, come sanno i possenti dèi,<br>Per quanto questi turbatori della nostra pace<br>Ronzino agli orecchi del popolo, nulla è avvenuto<br>Se non secondo legge contro i figli ostinati<br>Del vecchio Andronico. E che importa se<br>I suoi dolori gli hanno così sopraffatto il senno?<br>Dovremo essere così tormentati dai suoi rancori,<br>Dai suoi accessi, dalla sua frenesia e dalla sua amarezza?<br>E ora scrive al cielo per il suo risarcimento.<br>Guardate, ecco ‘a Giove’ e questa ‘a Mercurio’,<br>Questa ‘ad [[characters/apollo\|Apollo]]’, questa ‘al dio della guerra’—<br>Dolci cartigli da volare per le strade di Roma!<br>Che è questo se non un libello contro il Senato<br>E un blasonare dovunque la nostra ingiustizia?<br>Un bell’umore, non è vero, signori miei?—<br>Come a dire che in Roma non v’è giustizia.<br>Ma, s’io vivo, le sue finte estasi<br>Non saranno riparo a questi oltraggi,<br>Ma egli e i suoi sapranno che la giustizia vive<br>Nella salute di [[characters/saturninus\|Saturnino]], il quale, se [[motifs/sleep\|dorme]],<br>Si desterà tale che nel furore<br>Reciderà il più superbo cospiratore che viva. |
+| [[characters/saturninus\|SATURNINUS]] | Ebbene, signori, che torti son questi! S’è mai visto<br>Un imperatore in Roma così sopraffatto,<br>Turbato, sfidato a tal segno, e per l’esercizio<br>D’equa giustizia trattato con tanto disprezzo?<br>Signori miei, voi sapete, come sanno i possenti dèi,<br>Per quanto questi turbatori della nostra pace<br>Ronzino agli orecchi del popolo, nulla è avvenuto<br>Se non secondo legge contro i figli ostinati<br>Del vecchio Andronico. E che importa se<br>I suoi dolori gli hanno così sopraffatto il senno?<br>Dovremo essere così tormentati dai suoi rancori,<br>Dai suoi accessi, dalla sua frenesia e dalla sua amarezza?<br>E ora scrive al cielo per il suo risarcimento.<br>Guardate, ecco ‘a Giove’ e questa ‘a Mercurio’,<br>Questa ‘ad [[characters/apollo\|Apollo]]’, questa ‘al dio della guerra’—<br>Dolci cartigli da volare per le strade di Roma!<br>Che è questo se non un libello contro il Senato<br>E un blasonare dovunque la nostra ingiustizia?<br>Un bell’[[Humour\|umore]], non è vero, signori miei?—<br>Come a dire che in Roma non v’è giustizia.<br>Ma, s’io vivo, le sue finte estasi<br>Non saranno riparo a questi oltraggi,<br>Ma egli e i suoi sapranno che la giustizia vive<br>Nella salute di [[characters/saturninus\|Saturnino]], il quale, se [[motifs/sleep\|dorme]],<br>Si desterà tale che nel furore<br>Reciderà il più superbo cospiratore che viva. |
 | [[characters/tamora\|TAMORA]] | Mio grazioso signore, mio amabile Saturnino,<br>Signore della mia vita, comandante dei miei pensieri,<br>Calmati, e sopporta le colpe dell’età di Tito,<br>Gli effetti del dolore per i suoi valorosi figli<br>La cui perdita l’ha trafitto a fondo e sfregiato il suo<br>cuore;<br>E piuttosto conforta il suo stato afflitto<br>Che perseguire il più umile o il migliore<br>Per questi disprezzi. (A parte) Ecco, così si converrà<br>All’astuta [[characters/tamora\|Tamora]] blandire tutti.<br>Ma, Tito, io t’ho toccato nel vivo.<br>Fuori il [[motifs/blood\|sangue]] della tua vita: se [[characters/aaron\|Aronne]] ora è savio,<br>Allora tutto è salvo, l’àncora è in porto. |
 | *(didascalia)* | Entra il Buffone |
 | [[characters/tamora\|TAMORA]] | Ebbene, buon uomo, vorresti parlare con noi? |
@@ -2116,7 +3550,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | [[characters/saturninus\|SATURNINUS]] | Sì, ma i cittadini favoriscono [[characters/lucius\|Lucio]],<br>E si ribelleranno a me per soccorrerlo. |
 | [[characters/tamora\|TAMORA]] | [[archetypes/king\|Re]], siano i tuoi pensieri imperiosi come il tuo nome.<br>È forse offuscato il sole perché vi volano dentro i moscerini?<br>L’aquila lascia cantare i piccoli [[motifs/birds\|uccelli]],<br>E non si cura di ciò che con questo intendano,<br>Sapendo che con l’[[archetypes/shadow\|ombra]] delle sue ali<br>Può a piacere troncare la loro melodia.<br>Così puoi tu con gli sventati uomini di Roma.<br>Rallegra dunque il tuo spirito; ché sappi, Imperatore,<br>Io incanterò il vecchio Andronico<br>Con parole più dolci e pur più pericolose<br>Che l’esca per i pesci o gli steli di miele per le pecore<br>Poiché l’uno è ferito dall’esca,<br>L’altra guastata dal delizioso pascolo. |
 | [[characters/saturninus\|SATURNINUS]] | Ma egli non pregherà suo figlio per noi. |
-| [[characters/tamora\|TAMORA]] | Se [[characters/tamora\|Tamora]] lo prega, allora lo farà,<br>Ché io so lisciare e colmare i suoi vecchi orecchi<br>Di promesse d’oro, sì che, fosse il suo cuore<br>Quasi inespugnabile, sordi i suoi vecchi orecchi,<br>Pure orecchio e cuore obbedirebbero alla mia lingua.<br>(A Emilio) Va’ tu innanzi a farci da ambasciatore.<br>Di’ che l’Imperatore chiede un abboccamento<br>Col bellicoso [[characters/lucius\|Lucio]], e fissa l’incontro<br>Proprio nella casa di suo padre, il vecchio Andronico. |
+| [[characters/tamora\|TAMORA]] | Se [[characters/tamora\|Tamora]] lo prega, allora lo farà,<br>Ché io so lisciare e colmare i suoi vecchi orecchi<br>Di promesse d’oro, sì che, fosse il suo cuore<br>Quasi inespugnabile, sordi i suoi vecchi orecchi,<br>Pure orecchio e cuore obbedirebbero alla mia lingua.<br>(A Emilio) Va’ tu innanzi a farci da ambasciatore.<br>Di’ che l’Imperatore chiede un abboccamento<br>Col bellicoso [[characters/lucius\|Lucio]], e fissa l’incontro<br>Proprio nella [[house\|casa]] di suo padre, il vecchio Andronico. |
 | [[characters/saturninus\|SATURNINUS]] | Emilio, compi onorevolmente quest’ambasciata,<br>E se egli insiste per ostaggi a sua sicurezza,<br>Digli di chiedere il pegno che più gli piaccia. |
 | AEMILIUS | Eseguirò efficacemente il vostro comando. Esce |
 | [[characters/tamora\|TAMORA]] | Ora andrò da quel vecchio Andronico,<br>E lo piegherò con tutta l’arte ch’io possiedo<br>A strappare il superbo [[characters/lucius\|Lucio]] ai bellicosi Goti.<br>E ora, dolce Imperatore, torna lieto,<br>E seppellisci ogni tuo [[concepts/fear\|timore]] nei miei artifici. |
@@ -2166,7 +3600,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | Enter Aemilius |
 | [[characters/lucius\|LUCIUS]] | A GOTH<br>My lord, there is a messenger from Rome<br>Desires to be admitted to your presence. |
 | [[characters/lucius\|LUCIUS]] | Let him come near.<br>Welcome, Aemilius. What’s the news from Rome? |
-| AEMILIUS | Lord [[characters/lucius\|Lucius]], and you princes of the Goths,<br>The Roman Emperor greets you all by me,<br>And for he understands you are in arms,<br>He craves a parley at your father’s house,<br>Willing you to demand your hostages,<br>And they shall be immediately delivered.<br>A GOTH What says our general? |
+| AEMILIUS | Lord [[characters/lucius\|Lucius]], and you princes of the Goths,<br>The Roman Emperor greets you all by me,<br>And for he understands you are in arms,<br>He craves a parley at your father’s [[house]],<br>Willing you to demand your hostages,<br>And they shall be immediately delivered.<br>A GOTH What says our general? |
 | [[characters/lucius\|LUCIUS]] | Aemilius, let the Emperor give his pledges<br>Unto my father and my uncle Marcus,<br>And we will come. Away! |
 | *(didascalia)* | Flourish. Exeunt marching |
 
@@ -2211,7 +3645,7 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | Entra Emilio |
 | [[characters/lucius\|LUCIUS]] | UN GOTO<br>Mio signore, c’è un messaggero da Roma<br>Che desidera essere ammesso alla vostra presenza. |
 | [[characters/lucius\|LUCIUS]] | Fatelo avvicinare.<br>Benvenuto, Emilio. Quali novelle da Roma? |
-| AEMILIUS | Signor [[characters/lucius\|Lucio]], e voi principi dei Goti,<br>L’Imperatore romano vi saluta tutti per mio mezzo,<br>E poiché intende che siete in armi,<br>Chiede un abboccamento nella casa di vostro padre,<br>Invitandovi a chiedere i vostri ostaggi,<br>E vi saranno immediatamente consegnati.<br>UN GOTO Che dice il nostro generale? |
+| AEMILIUS | Signor [[characters/lucius\|Lucio]], e voi principi dei Goti,<br>L’Imperatore romano vi saluta tutti per mio mezzo,<br>E poiché intende che siete in armi,<br>Chiede un abboccamento nella [[house\|casa]] di vostro padre,<br>Invitandovi a chiedere i vostri ostaggi,<br>E vi saranno immediatamente consegnati.<br>UN GOTO Che dice il nostro generale? |
 | [[characters/lucius\|LUCIUS]] | Emilio, dia l’Imperatore i suoi pegni<br>A mio padre e a mio zio Marco,<br>E noi verremo. Via! |
 | *(didascalia)* | Squilli di tromba. Escono marciando |
 
@@ -2241,20 +3675,20 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | I will embrace thee in it by and by. Exit aloft |
 | [[characters/tamora\|TAMORA]] | This closing with him fits his lunacy.<br>Whate’er I forge to feed his brainsick humours<br>Do you uphold and maintain in your speeches,<br>For now he firmly takes me for [[concepts/revenge\|Revenge]],<br>And being credulous in this mad thought<br>I’ll make him send for [[characters/lucius\|Lucius]] his son,<br>And whilst I at a banquet hold him sure<br>I’ll find some cunning practice out of hand<br>To scatter and disperse the giddy Goths,<br>Or at the least make them his enemies.<br>See, here he comes, and I must ply my theme. |
 | *(didascalia)* | Enter Titus, below |
-| TITUS | Long have I been forlorn, and all for thee.<br>Welcome, dread Fury, to my woeful house.<br>Rapine and Murder, you are welcome, too.<br>How like the Empress and her sons you are!<br>[[motifs/well\|Well]] are you fitted, had you but a Moor.<br>Could not all hell afford you such a devil?—<br>For [[motifs/well\|well]] I wot the Empress never wags<br>But in her company there is a Moor,<br>And would you represent our [[characters/queen\|Queen]] aright<br>It were convenient you had such a devil.<br>But welcome as you are. What shall we do? |
+| TITUS | Long have I been forlorn, and all for thee.<br>Welcome, dread Fury, to my woeful [[house]].<br>Rapine and Murder, you are welcome, too.<br>How like the Empress and her sons you are!<br>[[motifs/well\|Well]] are you fitted, had you but a Moor.<br>Could not all hell afford you such a devil?—<br>For [[motifs/well\|well]] I wot the Empress never wags<br>But in her company there is a Moor,<br>And would you represent our [[characters/queen\|Queen]] aright<br>It were convenient you had such a devil.<br>But welcome as you are. What shall we do? |
 | [[characters/tamora\|TAMORA]] | What wouldst thou have us do, Andronicus? |
 | [[characters/demetrius\|DEMETRIUS]] | Show me a murderer, I’ll deal with him. |
 | CHIRON | Show me a [[archetypes/villain\|villain]] that hath done a rape,<br>And I am sent to be revenged on him. |
 | [[characters/tamora\|TAMORA]] | Show me a thousand that hath done thee wrong,<br>And I will be revenged on them all. |
 | TITUS | (to [[characters/demetrius\|Demetrius]])<br>Look round about the wicked streets of Rome,<br>And when thou find’st a man that’s like thyself,<br>Good Murder, stab him; he’s a murderer.<br>(To Chiron) Go thou with him, and when it is thy hap<br>To find another that is like to thee,<br>Good Rapine, stab him; he is a ravisher.<br>(To [[characters/tamora\|Tamora]]) Go thou with them, and in the Emperor’s<br>[[settings/court\|court]]<br>There is a [[characters/queen\|queen]] attended by a Moor.<br>[[motifs/well\|Well]] shalt thou know her by thine own proportion,<br>For up and down she doth resemble thee.<br>I pray thee, do on them some violent [[motifs/death\|death]];<br>They have been violent to me and mine. |
-| [[characters/tamora\|TAMORA]] | [[motifs/well\|Well]] hast thou lessoned us. This shall we do;<br>But would it please thee, good Andronicus,<br>To send for [[characters/lucius\|Lucius]], thy thrice-valiant son,<br>Who leads towards Rome a band of warlike Goths,<br>And bid him come and banquet at thy house—<br>When he is here, even at thy solemn feast,<br>I will bring in the Empress and her sons,<br>The Emperor himself, and all thy foes,<br>And at thy [[concepts/mercy\|mercy]] shall they stoop and kneel,<br>And on them shalt thou ease thy angry heart.<br>What says Andronicus to this device? |
+| [[characters/tamora\|TAMORA]] | [[motifs/well\|Well]] hast thou lessoned us. This shall we do;<br>But would it please thee, good Andronicus,<br>To send for [[characters/lucius\|Lucius]], thy thrice-valiant son,<br>Who leads towards Rome a band of warlike Goths,<br>And bid him come and banquet at thy [[house]]—<br>When he is here, even at thy solemn feast,<br>I will bring in the Empress and her sons,<br>The Emperor himself, and all thy foes,<br>And at thy [[concepts/mercy\|mercy]] shall they stoop and kneel,<br>And on them shalt thou ease thy angry heart.<br>What says Andronicus to this device? |
 | TITUS | Marcus, my brother! ’Tis sad Titus calls. |
 | *(didascalia)* | Enter Marcus |
-| TITUS | Go, gentle Marcus, to thy nephew [[characters/lucius\|Lucius]].<br>Thou shalt enquire him out among the Goths.<br>Bid him repair to me, and bring with him<br>Some of the chiefest princes of the Goths.<br>Bid him encamp his soldiers where they are.<br>Tell him the Emperor and the Empress too<br>Feast at my house, and he shall feast with them.<br>This do thou for my [[motifs/love\|love]], and so let him,<br>As he regards his aged father’s life. |
+| TITUS | Go, gentle Marcus, to thy nephew [[characters/lucius\|Lucius]].<br>Thou shalt enquire him out among the Goths.<br>Bid him repair to me, and bring with him<br>Some of the chiefest princes of the Goths.<br>Bid him encamp his soldiers where they are.<br>Tell him the Emperor and the Empress too<br>Feast at my [[house]], and he shall feast with them.<br>This do thou for my [[motifs/love\|love]], and so let him,<br>As he regards his aged father’s life. |
 | MARCUS | This will I do, and soon return again. Exit |
 | [[characters/tamora\|TAMORA]] | Now will I hence about thy business,<br>And take my ministers along with me. |
 | TITUS | Nay, nay, let Rape and Murder stay with me,<br>Or else I’ll call my brother back again,<br>And cleave to no [[concepts/revenge\|revenge]] but [[characters/lucius\|Lucius]]. |
-| [[characters/tamora\|TAMORA]] | (aside to her sons)<br>What say you, boys, will you abide with him<br>Whiles I go tell my lord the Emperor<br>How I have governed our determined jest?<br>Yield to his humour, smooth and speak him fair,<br>And tarry with him till I turn again. |
+| [[characters/tamora\|TAMORA]] | (aside to her sons)<br>What say you, boys, will you abide with him<br>Whiles I go tell my lord the Emperor<br>How I have governed our determined jest?<br>Yield to his [[Humour\|humour]], smooth and speak him fair,<br>And tarry with him till I turn again. |
 | TITUS | (aside)<br>I knew them all, though they supposed me mad,<br>And will o’erreach them in their own devices—<br>A pair of cursed hell-hounds and their dam. |
 | [[characters/demetrius\|DEMETRIUS]] | Madam, depart at pleasure. Leave us here. |
 | [[characters/tamora\|TAMORA]] | Farewell, Andronicus. [[concepts/revenge\|Revenge]] now goes<br>To lay a complot to betray thy foes. |
@@ -2298,20 +3732,20 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | T’abbraccerò con esso fra poco. Esce dall’alto |
 | [[characters/tamora\|TAMORA]] | Quest’accordarmi con lui s’adatta alla sua follia.<br>Qualunque cosa io foggi per pascere i suoi umori malati<br>Voi sostenetela e mantenetela nei vostri discorsi,<br>Ché ora egli fermamente mi prende per la [[concepts/revenge\|Vendetta]],<br>E, credulo in questo folle pensiero,<br>Gli farò mandare a chiamare [[characters/lucius\|Lucio]], suo figlio,<br>E mentre a un banchetto lo terrò sicuro<br>Troverò lì per lì qualche astuto espediente<br>Per sbandare e disperdere gli sventati Goti,<br>O per lo meno renderli suoi nemici.<br>Ecco, egli viene, e devo attenermi al mio tema. |
 | *(didascalia)* | Entra Tito, in basso |
-| TITUS | A lungo sono stato derelitto, e tutto per te.<br>Benvenuta, tremenda Furia, nella mia dolente casa.<br>Rapina e Omicidio, benvenuti anche voi.<br>Come somigliate all’Imperatrice e ai suoi figli!<br>[[motifs/well\|Bene]] sareste al completo, aveste solo un Moro.<br>Non poteva tutto l’inferno fornirvi un tal diavolo?—<br>Ché [[motifs/well\|ben]] so che l’Imperatrice non si muove mai<br>Senza che in sua compagnia vi sia un Moro,<br>E se voleste rappresentare a dovere la nostra [[characters/queen\|Regina]]<br>Sarebbe conveniente che aveste un tal diavolo.<br>Ma siate i benvenuti come siete. Che faremo? |
+| TITUS | A lungo sono stato derelitto, e tutto per te.<br>Benvenuta, tremenda Furia, nella mia dolente [[house\|casa]].<br>Rapina e Omicidio, benvenuti anche voi.<br>Come somigliate all’Imperatrice e ai suoi figli!<br>[[motifs/well\|Bene]] sareste al completo, aveste solo un Moro.<br>Non poteva tutto l’inferno fornirvi un tal diavolo?—<br>Ché [[motifs/well\|ben]] so che l’Imperatrice non si muove mai<br>Senza che in sua compagnia vi sia un Moro,<br>E se voleste rappresentare a dovere la nostra [[characters/queen\|Regina]]<br>Sarebbe conveniente che aveste un tal diavolo.<br>Ma siate i benvenuti come siete. Che faremo? |
 | [[characters/tamora\|TAMORA]] | Che vorresti che facessimo, Andronico? |
 | [[characters/demetrius\|DEMETRIUS]] | Mostrami un assassino, me ne occuperò io. |
 | CHIRON | Mostrami uno [[archetypes/villain\|scellerato]] che abbia commesso uno stupro,<br>E son mandato a vendicarmi di lui. |
 | [[characters/tamora\|TAMORA]] | Mostrami un migliaio che t’abbiano fatto torto,<br>E io mi vendicherò di tutti loro. |
 | TITUS | (a [[characters/demetrius\|Demetrio]])<br>Guàrdati intorno per le malvagie strade di Roma,<br>E quando troverai un uomo simile a te stesso,<br>Buon Omicidio, pugnalalo; è un assassino.<br>(A Chirone) Va’ tu con lui, e quando ti capiterà<br>Di trovarne un altro simile a te,<br>Buona Rapina, pugnalalo; è un violentatore.<br>(A [[characters/tamora\|Tamora]]) Va’ tu con loro, e nella [[settings/court\|corte]]<br>dell’Imperatore<br>V’è una [[characters/queen\|regina]] servita da un Moro.<br>[[motifs/well\|Bene]] la riconoscerai dalla tua stessa figura,<br>Ché in tutto e per tutto ti somiglia.<br>Ti prego, dà loro qualche violenta [[motifs/death\|morte]];<br>Sono stati violenti con me e coi miei. |
-| [[characters/tamora\|TAMORA]] | [[motifs/well\|Bene]] ci hai istruiti. Così faremo;<br>Ma ti piacerebbe, buon Andronico,<br>Mandare a chiamare [[characters/lucius\|Lucio]], il tuo tre volte valoroso figlio,<br>Che guida verso Roma una schiera di bellicosi Goti,<br>E invitarlo a venire a banchettare nella tua casa—<br>Quando sarà qui, proprio al tuo solenne convito,<br>Io condurrò dentro l’Imperatrice e i suoi figli,<br>L’Imperatore stesso, e tutti i tuoi nemici,<br>E alla tua [[concepts/mercy\|mercé]] si piegheranno e s’inginocchieranno,<br>E su di loro sfogherai il tuo cuore adirato.<br>Che dice Andronico a questo disegno? |
+| [[characters/tamora\|TAMORA]] | [[motifs/well\|Bene]] ci hai istruiti. Così faremo;<br>Ma ti piacerebbe, buon Andronico,<br>Mandare a chiamare [[characters/lucius\|Lucio]], il tuo tre volte valoroso figlio,<br>Che guida verso Roma una schiera di bellicosi Goti,<br>E invitarlo a venire a banchettare nella tua [[house\|casa]]—<br>Quando sarà qui, proprio al tuo solenne convito,<br>Io condurrò dentro l’Imperatrice e i suoi figli,<br>L’Imperatore stesso, e tutti i tuoi nemici,<br>E alla tua [[concepts/mercy\|mercé]] si piegheranno e s’inginocchieranno,<br>E su di loro sfogherai il tuo cuore adirato.<br>Che dice Andronico a questo disegno? |
 | TITUS | Marco, fratello mio! È il dolente Tito che chiama. |
 | *(didascalia)* | Entra Marco |
-| TITUS | Va’, gentile Marco, da tuo nipote [[characters/lucius\|Lucio]].<br>Lo cercherai fra i Goti.<br>Digli di venire da me, e di condurre con sé<br>Alcuni dei principali principi dei Goti.<br>Digli d’accampare i suoi soldati dove sono.<br>Digli che l’Imperatore e anche l’Imperatrice<br>Banchettano nella mia casa, ed egli banchetterà con loro.<br>Fa’ questo per il mio [[motifs/love\|amore]], e così faccia lui,<br>Se ha a cuore la vita del suo vecchio padre. |
+| TITUS | Va’, gentile Marco, da tuo nipote [[characters/lucius\|Lucio]].<br>Lo cercherai fra i Goti.<br>Digli di venire da me, e di condurre con sé<br>Alcuni dei principali principi dei Goti.<br>Digli d’accampare i suoi soldati dove sono.<br>Digli che l’Imperatore e anche l’Imperatrice<br>Banchettano nella mia [[house\|casa]], ed egli banchetterà con loro.<br>Fa’ questo per il mio [[motifs/love\|amore]], e così faccia lui,<br>Se ha a cuore la vita del suo vecchio padre. |
 | MARCUS | Questo farò, e presto tornerò. Esce |
 | [[characters/tamora\|TAMORA]] | Ora me n’andrò per la tua faccenda,<br>E porterò con me i miei ministri. |
 | TITUS | No, no, restino con me lo Stupro e l’Omicidio,<br>O altrimenti richiamerò indietro mio fratello,<br>E non m’atterrò ad altra [[concepts/revenge\|vendetta]] che [[characters/lucius\|Lucio]]. |
-| [[characters/tamora\|TAMORA]] | (a parte ai suoi figli)<br>Che dite, ragazzi, resterete con lui<br>Mentre io vado a dire al mio signore l’Imperatore<br>Come ho condotto la burla che avevamo stabilita?<br>Cedete al suo umore, lusingatelo e parlategli bene,<br>E trattenetevi con lui finché io non ritorni. |
+| [[characters/tamora\|TAMORA]] | (a parte ai suoi figli)<br>Che dite, ragazzi, resterete con lui<br>Mentre io vado a dire al mio signore l’Imperatore<br>Come ho condotto la burla che avevamo stabilita?<br>Cedete al suo [[Humour\|umore]], lusingatelo e parlategli bene,<br>E trattenetevi con lui finché io non ritorni. |
 | TITUS | (a parte)<br>Li ho riconosciuti tutti, benché mi credessero pazzo,<br>E li supererò nei loro stessi artifici—<br>Una coppia di maledetti mastini infernali e la loro madre. |
 | [[characters/demetrius\|DEMETRIUS]] | Signora, partite a piacere. Lasciateci qui. |
 | [[characters/tamora\|TAMORA]] | Addio, Andronico. La [[concepts/revenge\|Vendetta]] ora va<br>A ordire un complotto per tradire i tuoi nemici. |
@@ -2380,10 +3814,10 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | Enter Goths. [[characters/lucius\|Lucius]], Marcus and others go aloft |
 | MARCUS | You sad-faced men, people and sons of Rome,<br>By uproars severed, as a flight of fowl<br>Scattered by winds and high tempestuous gusts,<br>O, let me teach you how to knit again<br>This scattered corn into one mutual sheaf,<br>These broken limbs again into one [[concepts/body\|body]].<br>A ROMAN LORD<br>Let Rome herself be bane unto herself,<br>And she whom mighty kingdoms curtsy to,<br>Like a forlorn and desperate castaway,<br>Do shameful execution on herself<br>But if my frosty signs and chaps of age,<br>[[motifs/grave\|Grave]] witnesses of true experience,<br>Cannot induce you to attend my words.<br>(To [[characters/lucius\|Lucius]]) Speak, Rome’s dear friend, as erst our<br>ancestor<br>When with his solemn tongue he did discourse<br>To lovesick Dido’s sad-attending ear<br>The story of that baleful-burning [[motifs/night\|night]]<br>When subtle Greeks surprised [[archetypes/king\|King]] Priam’s Troy.<br>Tell us what Sinon hath bewitched our ears,<br>Or who hath brought the fatal engine in<br>That gives our Troy, our Rome, the civil wound.<br>My heart is not compact of flint nor steel,<br>Nor can I utter all our bitter grief,<br>But floods of [[motifs/tears\|tears]] will drown my oratory<br>And break my utt’rance even in the [[motifs/time\|time]]<br>When it should move ye to attend me most,<br>And force you to commiseration.<br>Here’s Rome’s young captain. Let him tell the tale,<br>While I stand by and weep to hear him speak. |
 | [[characters/lucius\|LUCIUS]] | Then, gracious auditory, be it known to you<br>That Chiron and the damned [[characters/demetrius\|Demetrius]]<br>Were they that murdered our Emperor’s brother,<br>And they it were that ravished our sister.<br>For their fell faults our brothers were beheaded,<br>Our father’s [[motifs/tears\|tears]] despised, and basely cozened<br>Of that true hand that fought Rome’s quarrel out<br>And sent her enemies unto the [[motifs/grave\|grave]].<br>Lastly myself, unkindly banished,<br>The gates shut on me, and turned weeping out<br>To beg relief among Rome’s enemies,<br>Who drowned their enmity in my true [[motifs/tears\|tears]]<br>And oped their arms to embrace me as a friend.<br>I am the turned-forth, be it known to you,<br>That have preserved her welfare in my [[motifs/blood\|blood]],<br>And from her bosom took the enemy’s point,<br>Sheathing the steel in my advent’rous [[concepts/body\|body]].<br>Alas, you know I am no vaunter, I.<br>My scars can witness, dumb although they are,<br>That my report is just and full of [[concepts/truth\|truth]].<br>But soft, methinks I do digress too much,<br>Citing my worthless praise. O, pardon me,<br>For when no friends are by, men praise themselves. |
-| MARCUS | Now is my turn to speak. Behold the [[archetypes/child\|child]].<br>Of this was [[characters/tamora\|Tamora]] delivered,<br>The issue of an irreligious Moor,<br>Chief architect and plotter of these woes.<br>The [[archetypes/villain\|villain]] is alive in Titus’ house,<br>And as he is to witness, this is true.<br>Now judge what cause had Titus to [[concepts/revenge\|revenge]]<br>These wrongs unspeakable, past patience,<br>Or more than any living man could bear.<br>Now have you heard the [[concepts/truth\|truth]]. What say you,<br>Romans?<br>Have we done aught amiss, show us wherein,<br>And from the place where you behold us pleading<br>The poor remainder of Andronici<br>Will hand in hand all headlong hurl ourselves<br>And on the ragged stones beat forth our souls<br>And make a mutual closure of our house.<br>Speak, Romans, speak, and if you say we shall;<br>Lo, hand in hand [[characters/lucius\|Lucius]] and I will fall. |
+| MARCUS | Now is my turn to speak. Behold the [[archetypes/child\|child]].<br>Of this was [[characters/tamora\|Tamora]] delivered,<br>The issue of an irreligious Moor,<br>Chief architect and plotter of these woes.<br>The [[archetypes/villain\|villain]] is alive in Titus’ [[house]],<br>And as he is to witness, this is true.<br>Now judge what cause had Titus to [[concepts/revenge\|revenge]]<br>These wrongs unspeakable, past patience,<br>Or more than any living man could bear.<br>Now have you heard the [[concepts/truth\|truth]]. What say you,<br>Romans?<br>Have we done aught amiss, show us wherein,<br>And from the place where you behold us pleading<br>The poor remainder of Andronici<br>Will hand in hand all headlong hurl ourselves<br>And on the ragged stones beat forth our souls<br>And make a mutual closure of our [[house]].<br>Speak, Romans, speak, and if you say we shall;<br>Lo, hand in hand [[characters/lucius\|Lucius]] and I will fall. |
 | AEMILIUS | Come, come, thou reverend man of Rome,<br>And bring our emperor gently in thy hand,<br>[[characters/lucius\|Lucius]], our emperor—for [[motifs/well\|well]] I know<br>The common voice do cry it shall be so. |
 | ROMANS | [[characters/lucius\|Lucius]], all hail, Rome’s royal emperor! |
-| MARCUS | (to attendants)<br>Go, go into old Titus’ sorrowful house<br>And hither hale that misbelieving Moor<br>To be adjudged some direful slaught’ring [[motifs/death\|death]]<br>As punishment for his most wicked life. Exeunt some |
+| MARCUS | (to attendants)<br>Go, go into old Titus’ sorrowful [[house]]<br>And hither hale that misbelieving Moor<br>To be adjudged some direful slaught’ring [[motifs/death\|death]]<br>As punishment for his most wicked life. Exeunt some |
 | *(didascalia)* | [[characters/lucius\|Lucius]], Marcus, and the others come down |
 | *(didascalia)* | ROMANS |
 | MARCUS | [[characters/lucius\|Lucius]], all hail, Rome’s gracious governor! |
@@ -2408,6 +3842,8 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | MARCUS | (to Titus) Why, sir, that is as fit as can be to serve for your oration, and let him deliver the pigeons to the Emperor from you. |
 | TITUS | (to the Clown) Tell me, can you deliver an oration to the Emperor with a grace? |
 | CLOWN | Nay, truly, sir, I could never say grace in all my life. |
+| IN | narrative sequence, [[characters/richard-iii\|Richard III]] follows directly after [[characters/richard\|Richard]] [[characters/duke-of-york\|Duke of York]], and that play’s closing scenes, in which [[characters/richard\|Richard]] of [[characters/gloucester\|Gloucester]] expresses his ambitions for the [[motifs/crown\|crown]], suggest that Shakespeare had a sequel in mind. But he seems to have gone back to tell the beginning of the story of [[characters/henry-vi\|Henry VI]]’s reign before covering the events from [[characters/henry-vi\|Henry VI]]’s [[motifs/death\|death]] (in 1471) to the Battle of Bosworth (1485). We have no record of the first performance of [[characters/richard-iii\|Richard III]] (probably in late 1592 or early 1593, outside [[settings/london\|London]]); it was printed in 1597, with five reprints before its inclusion in the 1623 Folio.<br>The principal source of information about [[characters/richard-iii\|Richard III]] available to Shakespeare was [[characters/sir-thomas-more\|Sir Thomas More]]’s [[concepts/history\|History]] of [[archetypes/king\|King]] [[characters/richard-iii\|Richard III]] as incorporated in chronicle histories by Edward Hall (1542) and Raphael Holinshed (1577, revised in 1587), both of which Shakespeare seems to have used. His artistic influences include the tragedies of the Roman dramatist Seneca (who was born about 4 BC and died in AD 65), with their [[motifs/ghosts\|ghosts]], their rhetorical style, their prominent choruses, and their indirect, highly formal presentation of violent events. (Except for the stabbing of [[characters/clarence\|Clarence]] (1.4) there is no on-stage violence in [[characters/richard-iii\|Richard III]] until the final battle scenes.)<br>In this play, Shakespeare demonstrates a more complete artistic control of his historical material than in its predecessors: [[characters/richard\|Richard]] himself is a more dominating central figure than is to be found in any of the earlier plays, historical events are freely manipulated in the interests of an overriding design, and the play’s language is more highly patterned and rhetorically unified. That part of the play which shows [[characters/richard\|Richard]]’s bloody progress to the throne is based on the events of some twelve years; the remainder covers the two years of his reign. Shakespeare omits some important events, but invents [[characters/richard\|Richard]]’s wooing of [[characters/lady-anne\|Lady Anne]] over her father-in-law’s coffin, and causes [[characters/queen-margaret\|Queen Margaret]], who had returned to France in 1476 and who died before [[characters/richard\|Richard]] became [[archetypes/king\|king]], to remain in England as a choric figure of grief and retribution. The characterization of [[characters/richard\|Richard]] as a [[concepts/self\|self]]-delighting ironist builds upon More. The episodes in which the older women of the play—the Duchess of York, [[characters/queen-elizabeth\|Queen Elizabeth]], and [[characters/queen-margaret\|Queen Margaret]]—bemoan their losses, and the climactic procession of [[motifs/ghosts\|ghosts]] before the final confrontation of [[characters/richard\|Richard]] with the idealized figure of Richmond, the future Henry VII, help to make [[characters/richard-iii\|Richard III]] the culmination of a tetralogy as [[motifs/well\|well]] as a masterly poetic drama in its own right. The final speech, in which Richmond, heir to the [[house]] of Lancaster and grandfather of [[characters/queen-elizabeth\|Queen Elizabeth]] I, proclaims the [[concepts/union\|union]] of ‘the white [[motifs/rose\|rose]] and the red’ in his [[motifs/marriage\|marriage]] to Elizabeth of York, provides a patriotic climax which must have been immensely stirring to the play’s early audiences.<br>Colley Cibber’s adaptation (1700) of [[characters/richard-iii\|Richard III]], incorporating the [[motifs/death\|death]] of [[characters/henry-vi\|Henry VI]], shortening and adapting the play, and making the central role (played by Cibber) even more dominant than it had originally been, held the stage with great [[success]] until the late nineteenth century. Since then, Shakespeare’s text has been restored (though usually abbreviated—next to [[characters/hamlet\|Hamlet]], this is Shakespeare’s longest play), and the role of [[characters/richard\|Richard]] has continued to present a rewarding challenge to leading actors. |
+| THE PERSONS OF THE | PLAY |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2456,10 +3892,10 @@ The Most Lamentable Roman [[forms/tragedy|Tragedy]] of [[characters/titus-andron
 | *(didascalia)* | Entrano i Goti. [[characters/lucius\|Lucio]], Marco e altri salgono in alto |
 | MARCUS | Voi uomini dal volto mesto, popolo e figli di Roma,<br>Divisi dai tumulti, come uno stormo d’uccelli<br>Disperso da venti e da alte raffiche tempestose,<br>Oh, lasciate ch’io v’insegni a riunire di nuovo<br>Questo grano sparso in un unico covone comune,<br>Queste membra spezzate di nuovo in un solo [[concepts/body\|corpo]].<br>UN SIGNORE ROMANO<br>Sia Roma stessa veleno a se stessa,<br>Ed ella, a cui potenti regni fanno riverenza,<br>Come un derelitto e disperato naufrago,<br>Compia vergognosa esecuzione su se stessa<br>Se i miei gelidi segni e le crepe dell’età,<br>[[motifs/grave\|Gravi]] testimoni di vera esperienza,<br>Non possono indurvi ad ascoltare le mie parole.<br>(A [[characters/lucius\|Lucio]]) Parla, caro amico di Roma, come già il nostro<br>antenato<br>Quando con la sua solenne lingua narrò<br>All’orecchio mestamente attento di Didone innamorata<br>La storia di quella [[motifs/night\|notte]] di funesto incendio<br>Quando i sottili Greci sorpresero la Troia del [[archetypes/king\|Re]] Priamo.<br>Dicci qual Sinone ha stregato i nostri orecchi,<br>O chi ha introdotto la fatale macchina<br>Che dà alla nostra Troia, alla nostra Roma, la ferita civile.<br>Il mio cuore non è composto di selce né d’acciaio,<br>Né posso esprimere tutto il nostro amaro dolore,<br>Ché fiumi di [[motifs/tears\|lacrime]] annegheranno la mia oratoria<br>E spezzeranno la mia parola proprio nel [[motifs/time\|momento]]<br>In cui dovrebbe muovervi ad ascoltarmi di più,<br>E costringervi a commiserazione.<br>Ecco il giovane capitano di Roma. Racconti egli la storia,<br>Mentre io sto in disparte e piango a udirlo parlare. |
 | [[characters/lucius\|LUCIUS]] | Allora, grazioso uditorio, vi sia noto<br>Che Chirone e il dannato [[characters/demetrius\|Demetrio]]<br>Furono coloro che assassinarono il fratello del nostro Imperatore,<br>E furono essi a violare nostra sorella.<br>Per le loro crudeli colpe i nostri fratelli furono decapitati,<br>Le [[motifs/tears\|lacrime]] di nostro padre disprezzate, ed egli vilmente truffato<br>Di quella fedele mano che combatté fino in fondo la causa di Roma<br>E mandò i suoi nemici alla [[motifs/grave\|tomba]].<br>Infine io stesso, crudelmente bandito,<br>Le porte chiuse su di me, e cacciato via piangente<br>A mendicare soccorso fra i nemici di Roma,<br>I quali annegarono la loro inimicizia nelle mie sincere [[motifs/tears\|lacrime]]<br>E apersero le braccia ad abbracciarmi come amico.<br>Io sono il cacciato via, vi sia noto,<br>Che ho preservato il suo bene col mio [[motifs/blood\|sangue]],<br>E dal suo seno ho ricevuto la punta del nemico,<br>Inguainando l’acciaio nel mio avventuroso [[concepts/body\|corpo]].<br>Ahimè, sapete ch’io non sono un millantatore.<br>Le mie cicatrici possono testimoniare, mute benché siano,<br>Che il mio racconto è giusto e pieno di [[concepts/truth\|verità]].<br>Ma piano, mi pare di divagare troppo,<br>Adducendo la mia vana lode. Oh, perdonatemi,<br>Ché quando non v’è amico accanto, gli uomini lodano se stessi. |
-| MARCUS | Ora tocca a me parlare. Ecco il [[archetypes/child\|bambino]].<br>Di questo fu sgravata [[characters/tamora\|Tamora]],<br>La prole d’un Moro irreligioso,<br>Principale architetto e ordinatore di queste sciagure.<br>Lo [[archetypes/villain\|scellerato]] è vivo nella casa di Tito,<br>Ed egli è là a testimoniare che questo è vero.<br>Ora giudicate qual motivo ebbe Tito di [[concepts/revenge\|vendicare]]<br>Questi torti indicibili, oltre ogni pazienza,<br>O più di quanto uomo vivente potrebbe sopportare.<br>Ora avete udito la [[concepts/truth\|verità]]. Che dite,<br>Romani?<br>Se abbiamo fatto alcunché di male, mostrateci in che,<br>E dal luogo dove ci vedete perorare<br>Il povero avanzo degli Andronici<br>Mano nella mano ci getteremo tutti a capofitto<br>E sulle pietre scabre spanderemo le nostre anime<br>E faremo comune chiusura della nostra casa.<br>Parlate, Romani, parlate, e se dite che lo faremo;<br>Ecco, mano nella mano [[characters/lucius\|Lucio]] e io cadremo. |
+| MARCUS | Ora tocca a me parlare. Ecco il [[archetypes/child\|bambino]].<br>Di questo fu sgravata [[characters/tamora\|Tamora]],<br>La prole d’un Moro irreligioso,<br>Principale architetto e ordinatore di queste sciagure.<br>Lo [[archetypes/villain\|scellerato]] è vivo nella [[house\|casa]] di Tito,<br>Ed egli è là a testimoniare che questo è vero.<br>Ora giudicate qual motivo ebbe Tito di [[concepts/revenge\|vendicare]]<br>Questi torti indicibili, oltre ogni pazienza,<br>O più di quanto uomo vivente potrebbe sopportare.<br>Ora avete udito la [[concepts/truth\|verità]]. Che dite,<br>Romani?<br>Se abbiamo fatto alcunché di male, mostrateci in che,<br>E dal luogo dove ci vedete perorare<br>Il povero avanzo degli Andronici<br>Mano nella mano ci getteremo tutti a capofitto<br>E sulle pietre scabre spanderemo le nostre anime<br>E faremo comune chiusura della nostra [[house\|casa]].<br>Parlate, Romani, parlate, e se dite che lo faremo;<br>Ecco, mano nella mano [[characters/lucius\|Lucio]] e io cadremo. |
 | AEMILIUS | Venite, venite, o venerando uomo di Roma,<br>E conducete gentilmente per mano il nostro imperatore,<br>[[characters/lucius\|Lucio]], il nostro imperatore—ché [[motifs/well\|ben]] so<br>Che la voce comune grida che così sarà. |
 | ROMANI | [[characters/lucius\|Lucio]], salve, regale imperatore di Roma! |
-| MARCUS | (ai servi)<br>Andate, andate nella dolente casa del vecchio Tito<br>E trascinate qua quel miscredente Moro<br>Perché gli sia aggiudicata qualche atroce [[motifs/death\|morte]] carnefice<br>A punizione della sua vita scelleratissima. Escono alcuni |
+| MARCUS | (ai servi)<br>Andate, andate nella dolente [[house\|casa]] del vecchio Tito<br>E trascinate qua quel miscredente Moro<br>Perché gli sia aggiudicata qualche atroce [[motifs/death\|morte]] carnefice<br>A punizione della sua vita scelleratissima. Escono alcuni |
 | *(didascalia)* | [[characters/lucius\|Lucio]], Marco e gli altri scendono |
 | *(didascalia)* | ROMANI |
 | MARCUS | [[characters/lucius\|Lucio]], salve, grazioso governatore di Roma! |

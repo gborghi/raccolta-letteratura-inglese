@@ -97,7 +97,7 @@ Or Little John — of [[characters/lincoln|Lincoln]] Green —
 Or Blue Beard's Galleries —  
 
 Her [[motifs/bees|Bees]] have a fictitious Hum —  
-Her Blossoms, like a Dream —  
+Her Blossoms, like [[A Dream|a Dream]] —  
 Elate us — till we almost weep —  
 So plausible — they seem —  
 
@@ -370,7 +370,7 @@ As near as [[motifs/memory|memory]] —
 
 
 Remembrance has a Rear and Front —  
-'Tis something like a House —  
+'Tis something like a [[house|House]] —  
 It has a Garret also  
 For Refuse and the Mouse.  
 
@@ -491,7 +491,7 @@ Consults the Bumble Bee —
 
 
 Through those old Grounds of [[motifs/memory|memory]],  
-The sauntering alone  
+The sauntering [[Alone|alone]]  
 Is a divine intemperance  
 A prudent man would shun.  
 Of liquors that are vended  

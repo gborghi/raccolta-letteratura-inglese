@@ -51,11 +51,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/child|Child]], [[archetypes/christ-figure|Christ Figure]]
+**Archetypes:** Child, Christ Figure
 
 **Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/childhood|Childhood]]
 
-**Characters:** [[historical-references/bernard-shaw|Bernard Shaw]], [[characters/nietzsche|Nietzsche]], [[characters/darwin|Darwin]], [[characters/aristotle|Aristotle]]
+**Characters:** [[historical-references/bernard-shaw|Bernard Shaw]], Nietzsche, Darwin, Aristotle
 
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/madness|Madness]], [[concepts/reform|Reform]], [[concepts/providence|Providence]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/satire|Satire]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]

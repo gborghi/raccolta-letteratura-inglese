@@ -59,13 +59,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/world-upside-down|World Upside Down]], [[topoi/theatrum-mundi|Theatrum Mundi]]
-**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]], [[archetypes/pilgrim|Pilgrim]], [[archetypes/corrupt-official|Corrupt Official]]
+**Archetypes:** Fool, Trickster, Pilgrim, Corrupt Official
 **Motifs:** [[motifs/journey|Journey]], [[motifs/road|Road]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/money-and-gold|Money and Gold]], [[motifs/supernatural|Supernatural]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/social-injustice|Social Injustice]], [[concepts/friendship|Friendship]], [[concepts/deception|Deception]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/poverty|Poverty]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/satire|Satire]], [[forms/comedy|Comedy]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/inn|Inn]], [[settings/london|London]]
-**Characters:** [[characters/samuel-pickwick|Samuel Pickwick]], [[characters/sam-weller|Sam Weller]], [[characters/tony-weller|Tony Weller]], [[characters/alfred-jingle|Alfred Jingle]], [[characters/nathaniel-winkle|Nathaniel Winkle]], [[characters/augustus-snodgrass|Augustus Snodgrass]], [[characters/tracy-tupman|Tracy Tupman]], [[characters/mrs-bardell|Mrs Bardell]]
+**Characters:** Samuel Pickwick, Sam Weller, Tony Weller, Alfred Jingle, Nathaniel Winkle, Augustus Snodgrass, Tracy Tupman, Mrs Bardell
 
 ## Testo integrale / Full text
 

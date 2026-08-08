@@ -56,7 +56,7 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Preface](/testi/wilde/atomized/009_the_picture_of_dorian_gray#chapter_01)
+- [Chapter 20](/testi/wilde/atomized/009_the_picture_of_dorian_gray#chapter_01)
 - [Chapter 1](/testi/wilde/atomized/009_the_picture_of_dorian_gray#chapter_02)
 - [Chapter 2](/testi/wilde/atomized/009_the_picture_of_dorian_gray#chapter_03)
 - [Chapter 3](/testi/wilde/atomized/009_the_picture_of_dorian_gray#chapter_04)
@@ -81,13 +81,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/double|Double]], [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/carpe-diem|Carpe Diem]], [[topoi/vanitas|Vanitas]], [[topoi/paradise-lost|Paradise Lost]]
-**Archetypes:** [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/shadow|Shadow]], [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/innocent|Innocent]]
+**Archetypes:** Double Doppelganger, Shadow, Satanic Figure, Innocent
 **Motifs:** [[motifs/mirror|Mirror]], [[motifs/supernatural|Supernatural]], [[motifs/book-reading|Book Reading]], [[motifs/blood|Blood]], [[motifs/decay|Decay]], [[motifs/time|Time]], [[motifs/flowers|Flowers]], [[motifs/city|City]]
 **Themes & Concepts:** [[concepts/self-knowledge|Self-Knowledge]], [[concepts/beauty|Beauty]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/conscience|Conscience]], [[concepts/guilt|Guilt]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/temptation|Temptation]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/artist-and-society|Artist and Society]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/transience|Transience]]
 **Forms & Genres:** [[forms/gothic-novel|Gothic Novel]], [[forms/novel|Novel]], [[forms/epigram|Epigram]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]], [[settings/garden-(2)|Garden (2)]]
-**Characters:** [[characters/faust|Faust]], [[characters/dorian-gray|Dorian Gray]], [[characters/lord-henry-wotton|Lord Henry Wotton]], [[characters/basil-hallward|Basil Hallward]], [[characters/sibyl-vane|Sibyl Vane]], [[characters/james-vane|James Vane]]
+**Characters:** Faust, Dorian Gray, Lord Henry Wotton, Basil Hallward, Sibyl Vane, James Vane
 
 ## Testo integrale / Full text
 

@@ -29,7 +29,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/night-journey-vision|Night Journey Vision]]
-**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/prophet|Prophet]]
+**Archetypes:** Hero, Prophet
 **Motifs:** [[motifs/supernatural|Supernatural]]
 **Themes & Concepts:** [[concepts/liberty-political-freedom|Liberty Political Freedom]], [[concepts/providence|Providence]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/imagination|Imagination]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/blank-verse|Blank Verse]]

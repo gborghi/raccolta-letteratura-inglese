@@ -39,11 +39,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/prophet|Prophet]]
+**Archetypes:** Prophet
 
 **Settings:** [[motifs/desert|Desert]]
 
-**Characters:** [[characters/omar-khayyam|Omar Khayyam]]
+**Characters:** Omar Khayyam
 
 **Topoi:** [[topoi/carpe-diem|Carpe Diem]], [[topoi/world-upside-down|World Upside Down]]
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/bread-and-wine-eucharist|Bread and Wine Eucharist]]

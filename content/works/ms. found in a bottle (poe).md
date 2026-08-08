@@ -53,7 +53,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/katabasis-descent|Katabasis Descent]], [[topoi/quest|Quest]]
-**Archetypes:** [[archetypes/ghost|Ghost]], [[archetypes/outsider|Outsider]]
+**Archetypes:** Ghost, Outsider
 **Motifs:** [[motifs/sea|Sea]], [[motifs/storm|Storm]], [[motifs/water|Water]], [[motifs/night|Night]], [[motifs/ghosts|Ghosts]], [[motifs/decay|Decay]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/sublime|Sublime]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/mortality|Mortality]], [[concepts/uncanny|Uncanny]]
 **Forms & Genres:** [[forms/short-story|Short Story]], [[forms/gothic-novel|Gothic Novel]]

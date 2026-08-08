@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]]
+**Archetypes:** Fool, Trickster
 **Motifs:** [[motifs/love|Love]]
 **Themes & Concepts:** [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]

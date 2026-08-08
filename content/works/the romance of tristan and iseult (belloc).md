@@ -48,7 +48,7 @@ tags:
 **Motifs:** [[motifs/sea|Sea]], [[motifs/ship|Ship]], [[motifs/love|Love]], [[motifs/poison|Poison]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/enchanted-wood|Enchanted Wood]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/arthurian-legend|Arthurian Legend]]
 **Settings:** [[settings/ireland|Ireland]], [[settings/sea-(2)|Sea (2)]], [[settings/castle|Castle]]
-**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/tragic-hero|Tragic Hero]]
+**Archetypes:** Lover, Tragic Hero
 **Topoi:** [[topoi/love-death-(liebestod)|Love-Death (Liebestod)]], [[topoi/unattainable-beloved|Unattainable Beloved]]
 
 **Also relevant to:** [[clusters/greek-mythology-·-lust-sexual-desire-·-desire|Greek Mythology · Lust Sexual Desire · Desire]]

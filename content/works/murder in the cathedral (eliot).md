@@ -55,13 +55,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]
-**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/christ-figure|Christ Figure]]
+**Archetypes:** Martyr Saint, Christ Figure
 **Motifs:** [[motifs/wheel|Wheel]], [[motifs/blood|Blood]], [[motifs/cross|Cross]], [[motifs/bread-and-wine-eucharist|Bread and Wine Eucharist]], [[motifs/seasons|Seasons]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/martyrdom|Martyrdom]], [[concepts/temptation|Temptation]], [[concepts/faith|Faith]], [[concepts/conscience|Conscience]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/pride|Pride]], [[concepts/humility|Humility]], [[concepts/providence|Providence]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/common-man|Common Man]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/tragedy|Tragedy]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
 **Settings:** [[settings/cathedral|Cathedral]], [[settings/medieval-england-(2)|Medieval England (2)]]
-**Characters:** [[characters/christ|Christ]], [[characters/thomas-becket|Thomas Becket]]
+**Characters:** Christ, Thomas Becket
 
 ## Testo integrale / Full text
 

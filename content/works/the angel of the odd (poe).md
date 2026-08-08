@@ -43,7 +43,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/fool|Fool]]
+**Archetypes:** Trickster, Fool
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/supernatural|Supernatural]], [[motifs/fire|Fire]], [[motifs/dreams|Dreams]], [[motifs/clock|Clock]]
 **Themes & Concepts:** [[concepts/grotesque|Grotesque]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
 **Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]]

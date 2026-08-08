@@ -57,7 +57,7 @@ mai stato un pessimista; né, in materia spirituale, un disfattista.
 È perlomeno dalla parte della Vita, e in tal senso della Nascita.
 Quando i Figli di Dio esultano di gioia, semplicemente perché la creazione
 è in essere, lo splendido grido o muggito wagneriano del signor [[works/shaw-(chesterton)|Shaw]] si
-mescolerà al mio meno musicale ma ugualmente mistico canto di lode.
+mescolerà al mio meno musicale ma ugualmente mistico [[Song|canto]] di lode.
 So bene che nello stesso poema il patriarca Giobbe, sotto la stretta
 di irritazioni contingenti, maledice davvero il giorno in cui nacque;
 prega che le [[motifs/stars|stelle]] del suo crepuscolo siano oscure e che esso non sia
@@ -70,7 +70,7 @@ c'è davvero un fondamento d'accordo; e il signor [[works/shaw-(chesterton)|Shaw
 dando la nostra esibizione come [[motifs/stars|stelle]] del mattino che cantano insieme,
 canteremo in perfetta armonia, seppure con tecnica non proprio pari.
 
-Ma c'è un secondo fatto riguardo ai Compleanni, e al canto natale
+Ma c'è un secondo fatto riguardo ai Compleanni, e al [[Song|canto]] natale
 di tutto il creato, un fatto che in realtà discende da questo; ma che,
 a quanto mi pare, l'altra scuola di pensiero si rifiuta quasi
 di riconoscere. Il nòcciolo di quel fatto è semplicemente che è un fatto.
@@ -85,12 +85,12 @@ Mi propongo di nascere a Market Harborough; ho scelto per padre
 un dentista assai capace e umano, mentre mia madre sarà istruita
 come direttrice didattica di prim'ordine, per il tremendo onore e la responsabilità
 della sua posizione; prima di ciò, credo che la manderò a Girton.
-La casa che ho scelto per nascervi guarda su un elegante
+La [[house|casa]] che ho scelto per nascervi guarda su un elegante
 parco ornamentale, ecc., ecc.» In altre parole, mi pare che i pensatori
-moderni di questa specie non abbiano semplicemente alcuna filosofia o poesia o possibile
+moderni di questa specie non abbiano semplicemente alcuna [[philosophy|filosofia]] o poesia o possibile
 atteggiamento, verso le cose che ricevono dal reale
 mondo che già esiste; dal passato; dal genitore;
-dalla tradizione patria o dalla filosofia morale dell'umanità.
+dalla tradizione patria o dalla [[philosophy|filosofia]] morale dell'umanità.
 Parlano soltanto di fare cose; come se potessero fare se stessi
 non meno di [[motifs/well|quanto facciano]] ogni altra cosa. Parlano sempre di fare
 una religione; e non riescono a ficcarsi in testa la nozione stessa
@@ -111,10 +111,10 @@ delle cose che essa non ha fatto; delle cose
 che non poté fare; compresa se stessa. E dico che così è per
 qualunque visione della vita che [[motifs/leaves|tralasci]] tutto quell'aspetto della vita;
 ogni ricettività, ogni gratitudine, ogni eredità, ogni adorazione.
-A meno che un filosofo non abbia una filosofia capace di rendere tollerabile
+A meno che un filosofo non abbia una [[philosophy|filosofia]] capace di rendere tollerabile
 e sostenibile il suo atteggiamento verso tutte le realtà che sono
 attorno a lui e davanti a lui e dietro di lui... allora egli ha solo mezza
-filosofia; cieco, per quanto sia l'uomo più arguto del mondo,
+[[philosophy|filosofia]]; cieco, per quanto sia l'uomo più arguto del mondo,
 in quel senso è un mezzo scemo.
 
 Il signor Bernard [[works/shaw-(chesterton)|Shaw]] è certamente uno degli uomini più arguti del mondo,
@@ -173,7 +173,7 @@ never been a pessimist; or in spiritual matters a defeatist.
 He is at least on the side of Life, and in that sense of Birth.
 When the Sons of God shout for joy, merely because the creation
 is in being, Mr. [[works/shaw-(chesterton)|Shaw]]'s splendid Wagnerian shout or bellow will be
-mingled with my less musical but equally mystical song of praise.
+mingled with my less musical but equally mystical [[Song|song]] of praise.
 I am aware that in the same poem the patriarch Job, under the stress
 of incidental irritations, actually curses the day he was born;
 prays that the [[motifs/stars|stars]] of its twilight be dark and that it be not
@@ -229,7 +229,7 @@ mai stato un pessimista; né, in materia spirituale, un disfattista.
 È perlomeno dalla parte della Vita, e in tal senso della Nascita.
 Quando i Figli di Dio esultano di gioia, semplicemente perché la creazione
 è in essere, lo splendido grido o muggito wagneriano del signor [[works/shaw-(chesterton)|Shaw]] si
-mescolerà al mio meno musicale ma ugualmente mistico canto di lode.
+mescolerà al mio meno musicale ma ugualmente mistico [[Song|canto]] di lode.
 So bene che nello stesso poema il patriarca Giobbe, sotto la stretta
 di irritazioni contingenti, maledice davvero il giorno in cui nacque;
 prega che le [[motifs/stars|stelle]] del suo crepuscolo siano oscure e che esso non sia
@@ -247,7 +247,7 @@ canteremo in perfetta armonia, seppure con tecnica non proprio pari.
 <span class="atom-split" data-atom="part--part_02" data-title="Our_Birthday (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/leaves,motif/time,motif/well,concept/humility,concept/pride"></span>
 
 
-But there is a second fact about Birthdays, and the birth-song
+But there is a second fact about Birthdays, and the birth-[[Song|song]]
 of all creation, a fact which really follows on this; but which,
 as it seems to me, the other school of thought almost refuses
 to recognize.  The point of that fact is simply that it is a fact.
@@ -262,12 +262,12 @@ I propose to be born at Market Harborough; I have selected for my father
 a very capable and humane dentist, while my mother will be trained
 as a high-class headmistress for the tremendous honor and responsibility
 of her position; before that, I think I shall send her to Girton.
-The house I have selected to be born in faces a handsome ornamental
+The [[house]] I have selected to be born in faces a handsome ornamental
 park, etc., etc."  In other words, it seems to me that modern
-thinkers of this kind have simply no philosophy or poetry or possible
+thinkers of this kind have simply no [[philosophy]] or poetry or possible
 attitude at all, towards the things which they receive from the real,
 world that exists already; from the past; from the parent;
-from the patriotic tradition or the moral philosophy of mankind.
+from the patriotic tradition or the moral [[philosophy]] of mankind.
 They only talk about making things; as if they could make themselves
 as [[motifs/well|well]] as everything else.  They are always talking about making
 a religion; and cannot get into their heads the very notion
@@ -288,10 +288,10 @@ concerned with the things that it did not make; with the things
 that it could not make; including itself.  And I say it is so with
 any view of life, which [[motifs/leaves|leaves]] out the whole of that aspect of life;
 all receptivity, all gratitude, all inheritance, all worship.
-Unless a philosopher has a philosophy, which can make tolerable
+Unless a philosopher has a [[philosophy]], which can make tolerable
 and tenable his attitude towards all the actualities that are
 around him and before him and behind him--then he has only half
-a philosophy; blind, though he is the wittiest man in the world,
+a [[philosophy]]; blind, though he is the wittiest man in the world,
 he is in that sense half-witted.
 
 Mr. Bernard [[works/shaw-(chesterton)|Shaw]] is certainly one of the wittiest men in the world,
@@ -308,7 +308,7 @@ the [[concepts/humility|humility]] of birth also.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ma c'è un secondo fatto riguardo ai Compleanni, e al canto natale
+Ma c'è un secondo fatto riguardo ai Compleanni, e al [[Song|canto]] natale
 di tutto il creato, un fatto che in realtà discende da questo; ma che,
 a quanto mi pare, l'altra scuola di pensiero si rifiuta quasi
 di riconoscere. Il nòcciolo di quel fatto è semplicemente che è un fatto.
@@ -323,12 +323,12 @@ Mi propongo di nascere a Market Harborough; ho scelto per padre
 un dentista assai capace e umano, mentre mia madre sarà istruita
 come direttrice didattica di prim'ordine, per il tremendo onore e la responsabilità
 della sua posizione; prima di ciò, credo che la manderò a Girton.
-La casa che ho scelto per nascervi guarda su un elegante
+La [[house|casa]] che ho scelto per nascervi guarda su un elegante
 parco ornamentale, ecc., ecc.» In altre parole, mi pare che i pensatori
-moderni di questa specie non abbiano semplicemente alcuna filosofia o poesia o possibile
+moderni di questa specie non abbiano semplicemente alcuna [[philosophy|filosofia]] o poesia o possibile
 atteggiamento, verso le cose che ricevono dal reale
 mondo che già esiste; dal passato; dal genitore;
-dalla tradizione patria o dalla filosofia morale dell'umanità.
+dalla tradizione patria o dalla [[philosophy|filosofia]] morale dell'umanità.
 Parlano soltanto di fare cose; come se potessero fare se stessi
 non meno di [[motifs/well|quanto facciano]] ogni altra cosa. Parlano sempre di fare
 una religione; e non riescono a ficcarsi in testa la nozione stessa
@@ -349,10 +349,10 @@ delle cose che essa non ha fatto; delle cose
 che non poté fare; compresa se stessa. E dico che così è per
 qualunque visione della vita che [[motifs/leaves|tralasci]] tutto quell'aspetto della vita;
 ogni ricettività, ogni gratitudine, ogni eredità, ogni adorazione.
-A meno che un filosofo non abbia una filosofia capace di rendere tollerabile
+A meno che un filosofo non abbia una [[philosophy|filosofia]] capace di rendere tollerabile
 e sostenibile il suo atteggiamento verso tutte le realtà che sono
 attorno a lui e davanti a lui e dietro di lui... allora egli ha solo mezza
-filosofia; cieco, per quanto sia l'uomo più arguto del mondo,
+[[philosophy|filosofia]]; cieco, per quanto sia l'uomo più arguto del mondo,
 in quel senso è un mezzo scemo.
 
 Il signor Bernard [[works/shaw-(chesterton)|Shaw]] è certamente uno degli uomini più arguti del mondo,

@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/satire-of-society-epigram-satire" data-author="Coleridge" data-workhref="works/satire-of-society-·-epigram-·-satire-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="018_monody_on_a_tea-kettle" data-title="MONODY ON A TEA-KETTLE" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,motif/wine_and_drink,motif/fire,motif/death,form/parody,form/elegy,form/mock_epic,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="018_monody_on_a_tea-kettle" data-title="MONODY ON A TEA-KETTLE" data-chapter="" data-kind="intro"></span>
 
 
 O Muse who sangest late another’s [[motifs/pain|pain]],  
@@ -20,10 +20,10 @@ With slowest steps thy funeral steed must go,
 Nodding his head in all the pomp of woe:  
 Wide scatter round each dark and deadly weed,   5  
 And let the [[concepts/melancholy|melancholy]] [[forms/dirge|dirge]] complain,  
-(Whilst Bats shall shriek and Dogs shall howling run)  
+(Whilst Bats shall shriek and [[dogs|Dogs]] shall howling run)  
 The tea-kettle is spoilt and Coleridge is undone!  
-Your cheerful songs, ye unseen crickets, cease!  
-Let songs of grief your alter’d minds engage!   10  
+Your cheerful [[songs]], ye unseen crickets, cease!  
+Let [[songs]] of grief your alter’d minds engage!   10  
 For he who sang responsive to your lay,  
 What [[motifs/time|time]] the joyous bubbles ‘gan to play,  
 The sooty swain has felt the [[motifs/fire|fire]]’s fierce rage; —  
@@ -59,7 +59,7 @@ On empty Trivets she bids fancied Kettles boil!   40
 
 
 
-<span class="atom-split" data-atom="024_christs_hospital" data-title="CHRIST’S HOSPITAL" data-chapter="" data-kind="intro" data-tags="concept/education,concept/satire_of_society,concept/power_and_corruption,concept/truth,form/parody,form/ode,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="024_christs_hospital" data-title="CHRIST’S HOSPITAL" data-chapter="" data-kind="intro"></span>
 
 
 March 31, 1791.  
@@ -147,7 +147,7 @@ And now our weary steed to rest in fine,
 
 
 
-<span class="atom-split" data-atom="025_honour" data-title="HONOUR" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/money_gold,motif/wine_and_drink,concept/honour,concept/temptation,concept/satire_of_society,form/satire,form/heroic_couplet,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="025_honour" data-title="HONOUR" data-chapter="" data-kind="intro"></span>
 
 
 O, curas hominum! O, quantum est in rebus inane!  
@@ -160,7 +160,7 @@ Clamorous his duns, his gaming debts unpaid,
 The youth indignant seiz’d his tailor’s bill,  
 And on its back thus wrote with moral quill:  
 ‘Various as colours in the rainbow shown,  
-Or similar in emptiness alone,   10  
+Or similar in emptiness [[Alone|alone]],   10  
 How false, how vain are Man’s pursuits below!  
 Wealth, [[concepts/honour|Honour]], Pleasure — what can ye bestow?  
 Yet see, how high and low, and young and old  
@@ -226,7 +226,7 @@ Forth leap’d Philedon of new life possest: — 69
 
 
 
-<span class="atom-split" data-atom="026_on_imitation" data-title="ON IMITATION" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,concept/satire_of_society,concept/temptation,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="026_on_imitation" data-title="ON IMITATION" data-chapter="" data-kind="intro"></span>
 
 
 All are not born to soar — and ah! how few  
@@ -242,7 +242,7 @@ Yet all like Fox can game — like Pitt can drink.
 
 
 
-<span class="atom-split" data-atom="027_inside_the_coach" data-title="INSIDE THE COACH" data-chapter="" data-kind="intro" data-tags="motif/sleep,motif/dreams,motif/the_journey,motif/the_road,motif/night,form/parody,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="027_inside_the_coach" data-title="INSIDE THE COACH" data-chapter="" data-kind="intro"></span>
 
 
 ‘Tis hard on Bagshot Heath to try  
@@ -263,7 +263,7 @@ In drizzly rains poppean dews   15
 O’er the tired inmates of the Coach diffuse;  
 And when thou’st charm’d our eyes to rest,  
 Pillowing the chin upon the breast,  
-Bid many a dream from thy dominions  
+Bid many [[A Dream|a dream]] from thy dominions  
 Wave its various-painted pinions,   20  
 Till ere the splendid visions close  
 We snore quartettes in ecstasy of nose.  
@@ -277,7 +277,7 @@ To dreary Bagshot Heath again!
 
 
 
-<span class="atom-split" data-atom="029_music" data-title="MUSIC" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/animals,concept/satire_of_society,form/parody,form/ode,histref/the_bible,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="029_music" data-title="MUSIC" data-chapter="" data-kind="intro"></span>
 
 
 Hence, [[motifs/soul|soul]]-dissolving Harmony  
@@ -315,7 +315,7 @@ Clappest hoarse thy raven wings!   30
 
 
 
-<span class="atom-split" data-atom="039_written_after_a_walk_before_supper" data-title="WRITTEN AFTER A WALK BEFORE SUPPER" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/food_feasting,motif/the_city,concept/satire_of_society,concept/the_grotesque,form/parody,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="039_written_after_a_walk_before_supper" data-title="WRITTEN AFTER A WALK BEFORE SUPPER" data-chapter="" data-kind="intro"></span>
 
 
 Tho’ much averse, dear Jack, to flicker,  
@@ -355,7 +355,7 @@ But stop, my Muse! for here comes supper.
 
 
 
-<span class="atom-split" data-atom="049_to_fortune" data-title="TO FORTUNE" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,concept/satire_of_society,form/nonfiction,form/essay,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="049_to_fortune" data-title="TO FORTUNE" data-chapter="" data-kind="intro"></span>
 
 
 TO THE EDITOR OF THE ‘MORNING CHRONICLE’
@@ -368,7 +368,7 @@ CANTAB. — S. T. C.
 
 
 
-<span class="atom-split" data-atom="051_perspiration_a_travelling_eclogue" data-title="PERSPIRATION. A TRAVELLING ECLOGUE" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/dust,motif/animals,concept/economics,concept/class_conflict,concept/satire_of_society,form/fragment,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="051_perspiration_a_travelling_eclogue" data-title="PERSPIRATION. A TRAVELLING ECLOGUE" data-chapter="" data-kind="intro"></span>
 
 
 The [[motifs/dust|dust]] flies smothering, as on clatt’ring [[motifs/wheel|wheel]]  
@@ -386,7 +386,7 @@ The fleecy files faint-ruminating lie.   10
 
 
 
-<span class="atom-split" data-atom="090_to_william_godwin" data-title="TO WILLIAM GODWIN" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/dawn,concept/justice,concept/liberty,concept/reform,form/sonnet,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="090_to_william_godwin" data-title="TO WILLIAM GODWIN" data-chapter="" data-kind="intro"></span>
 
 
 AUTHOR OF ‘POLITICAL JUSTICE’  
@@ -409,7 +409,7 @@ January 10, 1795.
 
 
 
-<span class="atom-split" data-atom="123_addressed_to_a_young_man_of_fortune" data-title="ADDRESSED TO A YOUNG MAN OF FORTUNE" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/melancholy,concept/social_injustice,concept/poverty,concept/war_and_its_cost,form/sonnet,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="123_addressed_to_a_young_man_of_fortune" data-title="ADDRESSED TO A YOUNG MAN OF FORTUNE" data-chapter="" data-kind="intro"></span>
 
 
 C. LLOYD WHO ABANDONED HIMSELF TO AN INDOLENT AND CAUSELESS [[concepts/melancholy|MELANCHOLY]]  
@@ -434,7 +434,7 @@ A prey to Tyrants, Murderers of Mankind.
 
 
 
-<span class="atom-split" data-atom="138_sonnets_attempted_in_the_manner_of_contemporary_writers" data-title="SONNETS ATTEMPTED IN THE MANNER OF CONTEMPORARY WRITERS" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/the_artist_and_society,concept/melancholy,form/sonnet,form/parody,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="138_sonnets_attempted_in_the_manner_of_contemporary_writers" data-title="SONNETS ATTEMPTED IN THE MANNER OF CONTEMPORARY WRITERS" data-chapter="" data-kind="intro"></span>
 
 
 SIGNED ‘NEHEMIAH HIGGINBOTTOM’  
@@ -458,7 +458,7 @@ II
 
 
 
-<span class="atom-split" data-atom="139_to_simplicity" data-title="TO SIMPLICITY" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/the_artist_and_society,concept/melancholy,form/sonnet,form/parody,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="139_to_simplicity" data-title="TO SIMPLICITY" data-chapter="" data-kind="intro"></span>
 
 
 O! I do  
@@ -483,10 +483,10 @@ III
 
 
 
-<span class="atom-split" data-atom="140_on_a_ruined_house_in_a_romantic_country" data-title="ON A RUINED HOUSE IN A ROMANTIC COUNTRY" data-chapter="" data-kind="intro" data-tags="motif/ruins,motif/moon,concept/satire_of_society,form/sonnet,form/parody,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="140_on_a_ruined_house_in_a_romantic_country" data-title="ON A RUINED HOUSE IN A ROMANTIC COUNTRY" data-chapter="" data-kind="intro"></span>
 
 
-And this reft house is that the which he built,  
+And this reft [[house]] is that the which he built,  
 Lamented Jack! And here his malt he pil’d,  
 Cautious in vain! These rats that squeak so wild,  
 Squeak, not unconscious of their father’s [[concepts/guilt|guilt]].  
@@ -505,7 +505,7 @@ Peeps in fair fragments forth the full-orb’d harvest-[[motifs/moon|moon]]!
 
 
 
-<span class="atom-split" data-atom="141_parliamentary_oscillators" data-title="PARLIAMENTARY OSCILLATORS" data-chapter="" data-kind="intro" data-tags="motif/birds,concept/satire_of_society,concept/power_and_corruption,concept/reform,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="141_parliamentary_oscillators" data-title="PARLIAMENTARY OSCILLATORS" data-chapter="" data-kind="intro"></span>
 
 
 Almost awake? Why, what is this, and whence,  
@@ -560,7 +560,7 @@ And once more seeks the [[characters/bottom|bottom]]’s blackest mud!
 
 
 
-<span class="atom-split" data-atom="188_talleyrand_to_lord_grenville" data-title="TALLEYRAND TO LORD GRENVILLE" data-chapter="" data-kind="intro" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/power_and_corruption,concept/deception,form/satire,histref/napoleonic_wars,histref/the_french_revolution,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="188_talleyrand_to_lord_grenville" data-title="TALLEYRAND TO LORD GRENVILLE" data-chapter="" data-kind="intro"></span>
 
 
 A METRICAL EPISTLE
@@ -577,7 +577,7 @@ rather when we recollect that this phrase of ‘golden verses’
 is applied emphatically to the works of that philosopher who
 imposed [[motifs/silence|silence]] on all with whom he had to deal. Besides is
 it not somewhat improbable that Talleyrand should have
-preferred prose to rhyme, when the latter alone has got the
+preferred prose to rhyme, when the latter [[Alone|alone]] has got the
 chink? Is it not likewise curious that in our official answer
 no notice whatever is taken of the Chief Consul, Bonaparte, as
 if there had been no such person [man Essays, &c., 1850]
@@ -610,7 +610,7 @@ Mollit dulciloquâ canorus arte!’
 
 
 
-<span class="atom-split" data-atom="197_the_two_round_spaces_on_the_tombstone" data-title="THE TWO ROUND SPACES ON THE TOMBSTONE" data-chapter="" data-kind="intro" data-tags="archetype/satanic_figure,motif/the_grave,motif/winter,motif/the_supernatural,concept/the_grotesque,concept/satire_of_society,form/ballad,form/satire,character/satan,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="197_the_two_round_spaces_on_the_tombstone" data-title="THE TWO ROUND SPACES ON THE TOMBSTONE" data-chapter="" data-kind="intro"></span>
 
 
 The Devil believes that the Lord will come,  
@@ -621,7 +621,7 @@ Till he bids the trump sound neither [[concepts/body|body]] nor [[motifs/soul|so
 For the dead men’s heads have slipt under their bolsters.  
 Oh! ho! brother Bard, in our churchyard,  
 Both beds and bolsters are soft and green;  
-Save one alone, and that’s of stone,  
+Save one [[Alone|alone]], and that’s of stone,  
 And under it lies a Counsellor keen.   10  
 ‘Twould be a square tomb, if it were not too long;  
 And ‘tis fenced round with irons sharp, spear-like, and strong.  
@@ -641,7 +641,7 @@ On that stone tomb to you I’ll show   25
 Two round spaces void of [[motifs/snow|snow]].  
 I swear by our Knight, and his forefathers’ souls,  
 That in size and shape they are just like the holes  
-In the house of privity  
+In the [[house]] of privity  
 Of that ancient family.   30  
 On those two places void of [[motifs/snow|snow]],  
 There have sat in the [[motifs/night|night]] for an hour or so,  
@@ -657,7 +657,7 @@ For they are cock-sure of the fellow below!
 
 
 
-<span class="atom-split" data-atom="203_the_second_birth" data-title="THE SECOND BIRTH" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/love_romantic,concept/grace_and_redemption,concept/joy,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="203_the_second_birth" data-title="THE SECOND BIRTH" data-chapter="" data-kind="intro"></span>
 
 
 There are two births, the one when Light  
@@ -671,7 +671,7 @@ Then both of us were born anew.
 
 
 
-<span class="atom-split" data-atom="210_the_good_great_man" data-title="THE GOOD, GREAT MAN" data-chapter="" data-kind="intro" data-tags="concept/the_common_man,concept/satire_of_society,concept/humility,concept/truth,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="210_the_good_great_man" data-title="THE GOOD, GREAT MAN" data-chapter="" data-kind="intro"></span>
 
 
 ‘How seldom, friend! a good great man inherits  
@@ -683,7 +683,7 @@ Or any merit that which he obtains.’   5
 
 
 
-<span class="atom-split" data-atom="270_a_character" data-title="A CHARACTER" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/birds,motif/money_gold,concept/the_artist_and_society,concept/alienation,concept/poverty,form/allegory,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="270_a_character" data-title="A CHARACTER" data-chapter="" data-kind="intro"></span>
 
 
 A bird, who for his other sins  
@@ -736,7 +736,7 @@ Besides, whate’er he wrote or said
 Came from his heart as [[motifs/well|well]] as head;  
 And though he never left in lurch  
 His [[archetypes/king|king]], his country, or his church,   50  
-‘Twas but to humour his own cynical  
+‘Twas but to [[Humour|humour]] his own cynical  
 Contempt of doctrines Jacobinical;  
 To his own [[concepts/conscience|conscience]] only hearty,  
 ‘Twas but by chance he serv’d the party; —  
@@ -780,7 +780,7 @@ With scarce a pocket for his penny!
 
 
 
-<span class="atom-split" data-atom="284_cologne" data-title="COLOGNE" data-chapter="" data-kind="intro" data-tags="motif/the_city,motif/river,concept/the_grotesque,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="284_cologne" data-title="COLOGNE" data-chapter="" data-kind="intro"></span>
 
 
 In Köhln, a town of [[characters/monks|monks]] and bones,  
@@ -798,14 +798,14 @@ Shall henceforth wash the [[motifs/river|river]] Rhine?   10
 
 
 
-<span class="atom-split" data-atom="285_on_my_joyful_departure_from_the_same_city" data-title="ON MY JOYFUL DEPARTURE FROM THE SAME CITY" data-chapter="" data-kind="intro" data-tags="motif/the_city,motif/wine_and_drink,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="285_on_my_joyful_departure_from_the_same_city" data-title="ON MY JOYFUL DEPARTURE FROM THE SAME CITY" data-chapter="" data-kind="intro"></span>
 
 
 As I am a Rhymer,  
 And now at least a merry one,  
 Mr. Mum’s Rudesheimer  
 And the church of St. Geryon  
-Are the two things alone   5  
+Are the two things [[Alone|alone]]   5  
 That deserve to be known  
 In the [[concepts/body|body]]-and-[[motifs/soul|soul]]-stinking town of Cologne.  
 1828.  
@@ -813,7 +813,7 @@ In the [[concepts/body|body]]-and-[[motifs/soul|soul]]-stinking town of Cologne.
 
 
 
-<span class="atom-split" data-atom="305_an_apology_for_spencers" data-title="AN APOLOGY FOR SPENCERS" data-chapter="" data-kind="intro" data-tags="motif/clothing,concept/poverty,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="305_an_apology_for_spencers" data-title="AN APOLOGY FOR SPENCERS" data-chapter="" data-kind="intro"></span>
 
 
 Said William to [[characters/edmund|Edmund]] I can’t guess the reason  
@@ -827,7 +827,7 @@ March 21, 1796. First published in The Watchman, No. IV. March 25,
 
 
 
-<span class="atom-split" data-atom="306_on_a_late_marriage_between_an_old_maid_and_french_petit_maître" data-title="ON A LATE MARRIAGE BETWEEN AN OLD MAID AND FRENCH PETIT MAÎTRE" data-chapter="" data-kind="intro" data-tags="concept/marriage_and_fidelity,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="306_on_a_late_marriage_between_an_old_maid_and_french_petit_maître" data-title="ON A LATE MARRIAGE BETWEEN AN OLD MAID AND FRENCH PETIT MAÎTRE" data-chapter="" data-kind="intro"></span>
 
 
 Tho’ Miss — —’s match is a subject of mirth,  
@@ -841,7 +841,7 @@ ii. 368.
 
 
 
-<span class="atom-split" data-atom="307_on_an_amorous_doctor" data-title="ON AN AMOROUS DOCTOR" data-chapter="" data-kind="intro" data-tags="concept/lust,concept/satire_of_society,concept/doubt,form/epigram,form/satire,histref/greek_mythology,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="307_on_an_amorous_doctor" data-title="ON AN AMOROUS DOCTOR" data-chapter="" data-kind="intro"></span>
 
 
 From Rufa’s eye sly Cupid shot his dart  
@@ -865,7 +865,7 @@ Times, 1850, i. 164. First collected P. and D. W., 1877, ii. 368.
 
 
 
-<span class="atom-split" data-atom="308_on_deputy" data-title="ON DEPUTY ——" data-chapter="" data-kind="intro" data-tags="archetype/fool,concept/satire_of_society,concept/power_and_corruption,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="308_on_deputy" data-title="ON DEPUTY ——" data-chapter="" data-kind="intro"></span>
 
 
 By many a booby’s vengeance bit  
@@ -886,7 +886,7 @@ Yet in [[concepts/truth|truth]] a direct-tory governs them both.
 
 
 
-<span class="atom-split" data-atom="309_on_mr_ross_usually_cognominated_nosy" data-title="ON MR. ROSS, USUALLY COGNOMINATED NOSY" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/deception,concept/paradox,concept/marriage_and_fidelity,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="309_on_mr_ross_usually_cognominated_nosy" data-title="ON MR. ROSS, USUALLY COGNOMINATED NOSY" data-chapter="" data-kind="intro"></span>
 
 
 I fancy whenever I spy Nosy  
@@ -918,7 +918,7 @@ and D. W., 1877, ii. 163.
 
 
 
-<span class="atom-split" data-atom="311_on_a_slanderer" data-title="ON A SLANDERER" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/decay,concept/the_grotesque,concept/satire_of_society,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="311_on_a_slanderer" data-title="ON A SLANDERER" data-chapter="" data-kind="intro"></span>
 
 
 From yonder tomb of recent date,  
@@ -935,7 +935,7 @@ Before the man had breathed his last.
 
 
 
-<span class="atom-split" data-atom="312_lines_in_a_german_students_album" data-title="LINES IN A GERMAN STUDENT’S ALBUM" data-chapter="" data-kind="intro" data-tags="concept/friendship,concept/education,concept/satire_of_society,concept/lust,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="312_lines_in_a_german_students_album" data-title="LINES IN A GERMAN STUDENT’S ALBUM" data-chapter="" data-kind="intro"></span>
 
 
 We both attended the same College,  
@@ -959,7 +959,7 @@ Lucinden. ‘Sie hat viel Welt, die muntere Lucinde.’
 
 
 
-<span class="atom-split" data-atom="313_on_a_reader_of_his_own_verses" data-title="ON A READER OF HIS OWN VERSES" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/literary_criticism,concept/vanity,concept/satire_of_society,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="313_on_a_reader_of_his_own_verses" data-title="ON A READER OF HIS OWN VERSES" data-chapter="" data-kind="intro"></span>
 
 
 Hoarse Mævius reads his hobbling verse  
@@ -979,7 +979,7 @@ dass jedermann, dieweil du manches Blatt.’
 
 
 
-<span class="atom-split" data-atom="314_on_a_report_of_a_ministers_death" data-title="ON A REPORT OF A MINISTER’S DEATH" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/power_and_corruption,concept/deception,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="314_on_a_report_of_a_ministers_death" data-title="ON A REPORT OF A MINISTER’S DEATH" data-chapter="" data-kind="intro"></span>
 
 
 WRITTEN IN [[settings/germany|GERMANY]]  
@@ -1004,7 +1004,7 @@ ganze Stadt Nigrinen tot.’
 
 
 
-<span class="atom-split" data-atom="315_dear_brother_jem" data-title="DEAR BROTHER JEM" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/literary_criticism,concept/satire_of_society,concept/vanity,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="315_dear_brother_jem" data-title="DEAR BROTHER JEM" data-chapter="" data-kind="intro"></span>
 
 
 Jem writes his verses with more [[characters/speed|speed]]  
@@ -1018,7 +1018,7 @@ W., 1877, ii. 164.
 
 
 
-<span class="atom-split" data-atom="317_on_the_sickness_of_a_great_minister" data-title="ON THE SICKNESS OF A GREAT MINISTER" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/power_and_corruption,form/epigram,form/satire,setting/the_underworld,character/death_personified,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="317_on_the_sickness_of_a_great_minister" data-title="ON THE SICKNESS OF A GREAT MINISTER" data-chapter="" data-kind="intro"></span>
 
 
 Pluto commanded [[motifs/death|death]] to take away  
@@ -1038,7 +1038,7 @@ Genesung einer Buhlerin. ‘Dem Tode wurde jüngst von Pluto anbefohlen.’
 
 
 
-<span class="atom-split" data-atom="318_to_a_virtuous_oeconomist_wernicke" data-title="TO A VIRTUOUS OECONOMIST: WERNICKE" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/economics,concept/poverty,concept/humility,concept/money_and_avarice,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="318_to_a_virtuous_oeconomist_wernicke" data-title="TO A VIRTUOUS OECONOMIST: WERNICKE" data-chapter="" data-kind="intro"></span>
 
 
 You’re careful o’er your wealth ‘tis true:  
@@ -1054,7 +1054,7 @@ Der Arme fühlt.’
 
 
 
-<span class="atom-split" data-atom="319_lenfant_prodigue" data-title="L’ENFANT PRODIGUE" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/economics,concept/money_and_avarice,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="319_lenfant_prodigue" data-title="L’ENFANT PRODIGUE" data-chapter="" data-kind="intro"></span>
 
 
 Jack drinks fine wines, wears modish clothing,  
@@ -1067,7 +1067,7 @@ First published in Morning Post, Nov. 16, 1799. Included in An. Anth.,
 
 
 
-<span class="atom-split" data-atom="320_on_sir_rubicund_naso" data-title="ON SIR RUBICUND NASO" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,concept/satire_of_society,concept/power_and_corruption,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="320_on_sir_rubicund_naso" data-title="ON SIR RUBICUND NASO" data-chapter="" data-kind="intro"></span>
 
 
 A [[settings/court|COURT]] ALDERMAN AND WHISPERER OF [[motifs/secrets|SECRETS]]  
@@ -1080,7 +1080,7 @@ Sinngedicht No. 35. Auf eine lange Nase.
 
 
 
-<span class="atom-split" data-atom="321_to_mr_pye" data-title="TO MR. PYE" data-chapter="" data-kind="intro" data-tags="concept/literary_criticism,concept/satire_of_society,concept/vanity,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="321_to_mr_pye" data-title="TO MR. PYE" data-chapter="" data-kind="intro"></span>
 
 
 On his Carmen Seculare (a title which has by various persons who have  
@@ -1095,7 +1095,7 @@ Keepsake, 1829, p. 277. First collected P. and D. W., ii. 161.
 
 
 
-<span class="atom-split" data-atom="322_ninety-eight" data-title="NINETY-EIGHT" data-chapter="" data-kind="intro" data-tags="motif/serpent_snake,concept/satire_of_society,form/epigram,form/satire,histref/irish_question,histref/the_bible,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="322_ninety-eight" data-title="NINETY-EIGHT" data-chapter="" data-kind="intro"></span>
 
 
 O would the Baptist come again  
@@ -1115,7 +1115,7 @@ Wie viel er Köpf’ in Vorrat brächte.’
 
 
 
-<span class="atom-split" data-atom="323_occasioned_by_the_former" data-title="OCCASIONED BY THE FORMER" data-chapter="" data-kind="intro" data-tags="motif/serpent_snake,concept/satire_of_society,form/epigram,form/satire,histref/irish_question,histref/the_bible,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="323_occasioned_by_the_former" data-title="OCCASIONED BY THE FORMER" data-chapter="" data-kind="intro"></span>
 
 
 I hold of all our viperous race  
@@ -1137,7 +1137,7 @@ First published in An. Anth., 1800. First collected P. and D. W.,
 
 
 
-<span class="atom-split" data-atom="324_a_liar_by_profession" data-title="A LIAR BY PROFESSION" data-chapter="" data-kind="intro" data-tags="concept/deception,concept/satire_of_society,concept/truth,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="324_a_liar_by_profession" data-title="A LIAR BY PROFESSION" data-chapter="" data-kind="intro"></span>
 
 
 As Dick and I at Charing [[motifs/cross|Cross]] were walking,  
@@ -1154,7 +1154,7 @@ ii. 163. Adapted from Lessing’s Sinngedicht No. 142. Auf den Ley.
 
 
 
-<span class="atom-split" data-atom="325_to_a_proud_parent" data-title="TO A PROUD PARENT" data-chapter="" data-kind="intro" data-tags="concept/marriage_and_fidelity,concept/deception,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="325_to_a_proud_parent" data-title="TO A PROUD PARENT" data-chapter="" data-kind="intro"></span>
 
 
 Thy babes ne’er greet thee with the father’s name;  
@@ -1169,7 +1169,7 @@ lässt dich nie den Namen Vater hören.’
 
 
 
-<span class="atom-split" data-atom="326_rufa" data-title="RUFA" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/satire_of_society,concept/the_grotesque,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="326_rufa" data-title="RUFA" data-chapter="" data-kind="intro"></span>
 
 
 Thy lap-dog, Rufa, is a dainty beast,  
@@ -1184,7 +1184,7 @@ Dorilis. ‘Dein Hündchen, Dorilis, ist zärtlich, tändelnd, rein.’
 
 
 
-<span class="atom-split" data-atom="328_occasioned_by_the_last" data-title="OCCASIONED BY THE LAST" data-chapter="" data-kind="intro" data-tags="concept/doubt,concept/sin_and_the_fall,concept/mortality,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="328_occasioned_by_the_last" data-title="OCCASIONED BY THE LAST" data-chapter="" data-kind="intro"></span>
 
 
 A JOKE (cries Jack) without  
@@ -1201,7 +1201,7 @@ First published in An. Anth., 1800. Included in Essays, &c., iii.
 
 
 
-<span class="atom-split" data-atom="333_to_a_critic" data-title="TO A CRITIC" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,concept/literary_criticism,concept/satire_of_society,concept/the_grotesque,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="333_to_a_critic" data-title="TO A CRITIC" data-chapter="" data-kind="intro"></span>
 
 
 WHO EXTRACTED A PASSAGE FROM A POEM WITHOUT ADDING A WORD RESPECTING THE CONTEXT, AND THEN DERIDED IT AS UNINTELLIGIBLE.  
@@ -1218,7 +1218,7 @@ First published in Morning Post, Dec. 16, 1801: included in Keepsake, 1829, and 
 
 
 
-<span class="atom-split" data-atom="334_always_audible" data-title="ALWAYS AUDIBLE" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,motif/sleep,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="334_always_audible" data-title="ALWAYS AUDIBLE" data-chapter="" data-kind="intro"></span>
 
 
 Pass under Jack’s [[motifs/window|window]] at twelve at [[motifs/night|night]]  
@@ -1230,7 +1230,7 @@ First published in Morning Post, Dec. 19, 1801. First collected 1893.
 
 
 
-<span class="atom-split" data-atom="336_the_compliment_qualified" data-title="THE COMPLIMENT QUALIFIED" data-chapter="" data-kind="intro" data-tags="concept/economics,concept/satire_of_society,concept/marriage_and_fidelity,concept/literary_criticism,concept/deception,concept/money_and_avarice,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="336_the_compliment_qualified" data-title="THE COMPLIMENT QUALIFIED" data-chapter="" data-kind="intro"></span>
 
 
 To wed a [[archetypes/fool|fool]], I really cannot see  
@@ -1275,7 +1275,7 @@ First published in Morning Post, Sept. 23, 1802. Included in P. R.
 
 
 
-<span class="atom-split" data-atom="338_to_a_vain_young_lady" data-title="TO A VAIN YOUNG LADY" data-chapter="" data-kind="intro" data-tags="concept/pride,concept/beauty,concept/satire_of_society,concept/paradox,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="338_to_a_vain_young_lady" data-title="TO A VAIN YOUNG LADY" data-chapter="" data-kind="intro"></span>
 
 
 Didst thou think less of thy dear [[concepts/self|self]]  
@@ -1294,13 +1294,13 @@ Friend, No. 12, Nov. 9, 1809.
 
 
 
-<span class="atom-split" data-atom="340_for_a_house-dogs_collar" data-title="FOR A HOUSE-DOG’S COLLAR" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/satire_of_society,concept/marriage_and_fidelity,concept/the_artist_and_society,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="340_for_a_house-dogs_collar" data-title="FOR A HOUSE-DOG’S COLLAR" data-chapter="" data-kind="intro"></span>
 
 
 When thieves come, I bark: when gallants, I am still —  
 So perform both my Master’s and Mistress’s will.  
 First published in Morning Post, Oct. 2, 1802. Included in The  
-Friend (title, ‘For a French House-Dog’s Collar’), No. 12, Nov. 9,  
+Friend (title, ‘For a French [[house|House]]-Dog’s Collar’), No. 12, Nov. 9,  
 1809.  
 In vain I praise thee, Zoilus!  
 In vain thou rail’st at me!  
@@ -1316,7 +1316,7 @@ Zoile, nemo, tibi.’
 
 
 
-<span class="atom-split" data-atom="341_epitaph_on_a_mercenary_miser" data-title="EPITAPH ON A MERCENARY MISER" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/the_grave,motif/death,motif/dreams,concept/satire_of_society,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="341_epitaph_on_a_mercenary_miser" data-title="EPITAPH ON A MERCENARY MISER" data-chapter="" data-kind="intro"></span>
 
 
 A poor benighted Pedlar knock’d  
@@ -1338,7 +1338,7 @@ First published in Morning Post, Oct. 9, 1802.
 
 
 
-<span class="atom-split" data-atom="342_a_dialogue_between_an_author_and_his_friend" data-title="A DIALOGUE BETWEEN AN AUTHOR AND HIS FRIEND" data-chapter="" data-kind="intro" data-tags="archetype/fool,motif/clothing,concept/satire_of_society,concept/the_artist_and_society,concept/pride,concept/appearance_vs_reality,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="342_a_dialogue_between_an_author_and_his_friend" data-title="A DIALOGUE BETWEEN AN AUTHOR AND HIS FRIEND" data-chapter="" data-kind="intro"></span>
 
 
 Author. Come; your opinion of my manuscript!  
@@ -1358,14 +1358,14 @@ And thus enjoys at once what half the world are wooing.
 First published in Morning Post, Oct. 11, 1802.  
 Each Bond-street buck conceits, unhappy elf!  
 He shews his clothes! Alas! he shews himself.  
-O that they knew, these overdrest [[concepts/self|self]]-lovers,  
+O that they knew, these overdrest [[concepts/self|self]]-[[lovers]],  
 What hides the [[concepts/body|body]] oft the mind discovers.  
 First published in Morning Post, Oct. 11, 1802.  
 
 
 
 
-<span class="atom-split" data-atom="343_from_an_old_german_poet" data-title="FROM AN OLD GERMAN POET" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/nationalism_and_patriotism,concept/war_and_its_cost,concept/lust,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="343_from_an_old_german_poet" data-title="FROM AN OLD GERMAN POET" data-chapter="" data-kind="intro"></span>
 
 
 That France has put us oft to rout  
@@ -1388,7 +1388,7 @@ Durch Pulver, welches wir erfunden.’
 
 
 
-<span class="atom-split" data-atom="346_to_my_candle" data-title="TO MY CANDLE" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/light_and_dark,concept/friendship,concept/the_artist_and_society,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="346_to_my_candle" data-title="TO MY CANDLE" data-chapter="" data-kind="intro"></span>
 
 
 THE FAREWELL [[forms/epigram|EPIGRAM]]  
@@ -1406,7 +1406,7 @@ First published in Morning Post, Oct. 11, 1802.
 
 
 
-<span class="atom-split" data-atom="348_the_taste_of_the_times" data-title="THE TASTE OF THE TIMES" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/the_artist_and_society,concept/childhood_and_growth,concept/disillusionment,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="348_the_taste_of_the_times" data-title="THE TASTE OF THE TIMES" data-chapter="" data-kind="intro"></span>
 
 
 Some whim or fancy pleases every eye;  
@@ -1424,7 +1424,7 @@ Athenæum, Jan. 9, 1904. Now collected for the first [[motifs/time|time]].
 
 
 
-<span class="atom-split" data-atom="349_on_pitt_and_fox" data-title="ON PITT AND FOX" data-chapter="" data-kind="intro" data-tags="motif/death,concept/satire_of_society,concept/power_and_corruption,concept/mortality,concept/nationalism_and_patriotism,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="349_on_pitt_and_fox" data-title="ON PITT AND FOX" data-chapter="" data-kind="intro"></span>
 
 
 Britannia’s boast, her glory and her [[concepts/pride|pride]],  
@@ -1447,7 +1447,7 @@ T. C., who had just returned from [[settings/italy|Italy]] and was once more wri
 the press. It is possible that he veiled his initials in the line, ‘Let  
 Sense and [[concepts/truth|Truth]] unClue.’  
 An excellent adage commands that we should  
-Relate of the dead that alone which is good;  
+Relate of the dead that [[Alone|alone]] which is good;  
 But of the great Lord who here lies in lead  
 We know nothing good but that he is dead.  
 First published in The Friend, No. 12, Nov. 9, 1809. Included in  
@@ -1457,7 +1457,7 @@ Essays, &c., iii. 986. First collected in P. and D. W., 1877, ii.
 
 
 
-<span class="atom-split" data-atom="350_comparative_brevity_of_greek_and_english" data-title="COMPARATIVE BREVITY OF GREEK AND ENGLISH" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/death,form/epigram,histref/classical_antiquity,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="350_comparative_brevity_of_greek_and_english" data-title="COMPARATIVE BREVITY OF GREEK AND ENGLISH" data-chapter="" data-kind="intro"></span>
 
 
 ÇÁÅÃx½ ½tÁ µQÁ|½ »¹Àµ ²ÁyÇ¿½, ±PÄpÁ A ÇÁÅÃx½  
@@ -1470,7 +1470,7 @@ D. W. 1877, ii. 374.
 
 
 
-<span class="atom-split" data-atom="351_epigram_on_the_secrecy_of_a_certain_lady" data-title="EPIGRAM ON THE SECRECY OF A CERTAIN LADY" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/satire_of_society,concept/appearance_vs_reality,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="351_epigram_on_the_secrecy_of_a_certain_lady" data-title="EPIGRAM ON THE SECRECY OF A CERTAIN LADY" data-chapter="" data-kind="intro"></span>
 
 
 ‘She’s secret as the [[motifs/grave|grave]], allow!’  
@@ -1483,7 +1483,7 @@ First published in The Courier, Jan. 3, 1814. Included in Essays,
 
 
 
-<span class="atom-split" data-atom="353_modern_critics" data-title="MODERN CRITICS" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/the_artist_and_society,concept/deception,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="353_modern_critics" data-title="MODERN CRITICS" data-chapter="" data-kind="intro"></span>
 
 
 No private grudge they need, no personal spite,  
@@ -1497,7 +1497,7 @@ W., 1885, ii. 363.
 
 
 
-<span class="atom-split" data-atom="354_written_in_an_album" data-title="WRITTEN IN AN ALBUM" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/satire_of_society,concept/the_artist_and_society,concept/identity,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="354_written_in_an_album" data-title="WRITTEN IN AN ALBUM" data-chapter="" data-kind="intro"></span>
 
 
 Parry seeks the Polar ridge,  
@@ -1510,7 +1510,7 @@ TO A LADY WHO REQUESTED ME TO WRITE A
 
 
 
-<span class="atom-split" data-atom="357_authors_and_publishers" data-title="AUTHORS AND PUBLISHERS" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/satire_of_society,concept/the_artist_and_society,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="357_authors_and_publishers" data-title="AUTHORS AND PUBLISHERS" data-chapter="" data-kind="intro"></span>
 
 
 ‘A heavy wit shall hang at every lord,’  
@@ -1527,7 +1527,7 @@ collected in 1893.
 
 
 
-<span class="atom-split" data-atom="363_to_a_well-known_musical_critic_remarkable_for_his_ears_sticking_through_his_hair" data-title="TO A WELL-KNOWN MUSICAL CRITIC, REMARKABLE FOR HIS EARS STICKING THROUGH HIS HAIR" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/satire_of_society,concept/the_artist_and_society,form/epigram,histref/greek_mythology,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="363_to_a_well-known_musical_critic_remarkable_for_his_ears_sticking_through_his_hair" data-title="TO A WELL-KNOWN MUSICAL CRITIC, REMARKABLE FOR HIS EARS STICKING THROUGH HIS HAIR" data-chapter="" data-kind="intro"></span>
 
 
 O —— ! O —— ! of you we complain  
@@ -1537,7 +1537,7 @@ Ill agrees with those ears so raw and so red.
 A Musical Critic of old fell a-pouting  
 When he saw how his asinine honours were sprouting;  
 But he hid ‘em quite snug, in a full friz of hair,  
-And the Barber alone smoked his donkeys [so] rare.  
+And the Barber [[Alone|alone]] smoked his donkeys [so] rare.  
 Thy judgment much worse, and thy perkers as ample,  
 O give heed to [[archetypes/king|King]] Midas, and take his example.  
 Thus to publish your fate is as useless as wrong —  
@@ -1549,7 +1549,7 @@ P. and D. W., 1877-80, ii. 370.
 
 
 
-<span class="atom-split" data-atom="371_nonsense_sapphics" data-title="NONSENSE SAPPHICS" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,concept/satire_of_society,concept/the_artist_and_society,form/parody,histref/ancient_rome,histref/classical_antiquity,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="371_nonsense_sapphics" data-title="NONSENSE SAPPHICS" data-chapter="" data-kind="intro"></span>
 
 
 Here’s Jem’s first copy of nonsense verses,  
@@ -1573,7 +1573,7 @@ First published in Essays, &c., 1850, iii. 987. First collected 1893.
 
 
 
-<span class="atom-split" data-atom="372_to_susan_steele_on_receiving_the_purse" data-title="TO SUSAN STEELE ON RECEIVING THE PURSE" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/poverty,concept/friendship,concept/joy,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="372_to_susan_steele_on_receiving_the_purse" data-title="TO SUSAN STEELE ON RECEIVING THE PURSE" data-chapter="" data-kind="intro"></span>
 
 
 EXTRUMPERY LINES  
@@ -1596,7 +1596,7 @@ S. T. COLERIDGE.
 
 
 
-<span class="atom-split" data-atom="374_verses_trivocular" data-title="VERSES TRIVOCULAR" data-chapter="" data-kind="intro" data-tags="motif/winter,motif/clothing,concept/paradox,concept/joy,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="374_verses_trivocular" data-title="VERSES TRIVOCULAR" data-chapter="" data-kind="intro"></span>
 
 
 Of one scrap of science I’ve evidence ocular.  
@@ -1611,7 +1611,7 @@ Now first published from an MS.
 
 
 
-<span class="atom-split" data-atom="375_cholera_cured_before-hand" data-title="CHOLERA CURED BEFORE-HAND" data-chapter="" data-kind="intro" data-tags="archetype/satanic_figure,motif/wine_and_drink,concept/satire_of_society,concept/the_grotesque,concept/poverty,concept/reform,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="375_cholera_cured_before-hand" data-title="CHOLERA CURED BEFORE-HAND" data-chapter="" data-kind="intro"></span>
 
 
 Or a premonition promulgated gratis for the use of the Useful Classes,  
@@ -1679,7 +1679,7 @@ Letter, 1832.
 
 
 
-<span class="atom-split" data-atom="390_imitated_from_aristophanes" data-title="IMITATED FROM ARISTOPHANES" data-chapter="" data-kind="intro" data-tags="motif/fog_and_smoke,concept/satire_of_society,concept/appearance_vs_reality,form/satire,histref/ancient_greece,histref/greek_mythology,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="390_imitated_from_aristophanes" data-title="IMITATED FROM ARISTOPHANES" data-chapter="" data-kind="intro"></span>
 
 
 (Nubes 315, 317.)  
@@ -1705,7 +1705,7 @@ Can therefore never be again ——
 
 
 
-<span class="atom-split" data-atom="393_elisa" data-title="ELISA" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/friendship,concept/love_romantic,form/epigram,histref/ancient_rome,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="393_elisa" data-title="ELISA" data-chapter="" data-kind="intro"></span>
 
 
 TRANSLATED FROM CLAUDIAN  
@@ -1730,7 +1730,7 @@ For still I find it redolent of thee.
 
 
 
-<span class="atom-split" data-atom="443_lessing" data-title="LESSING" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/love_romantic,concept/identity,form/epigram,form/song,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="443_lessing" data-title="LESSING" data-chapter="" data-kind="intro"></span>
 
 
 Sämmtliche Schriften, vol. i, p. 50, ed. Lachmann-Maltzahn, Leipzig,  

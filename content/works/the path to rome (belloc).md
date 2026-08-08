@@ -323,8 +323,8 @@ tags:
 **Motifs:** [[motifs/journey|Journey]], [[motifs/road|Road]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/prayer|Prayer]], [[motifs/dawn|Dawn]]
 **Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/christianity|Christianity]]
 **Settings:** [[settings/france|France]], [[settings/italy|Italy]], [[settings/mountains|Mountains]], [[settings/europe|Europe]]
-**Characters:** [[characters/hilaire-belloc|Hilaire Belloc]]
-**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Characters:** Hilaire Belloc
+**Archetypes:** Pilgrim
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/quest|Quest]]
 
 **Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

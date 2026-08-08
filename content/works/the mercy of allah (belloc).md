@@ -45,5 +45,5 @@ tags:
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/ship|Ship]], [[motifs/journey|Journey]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/islam-and-the-east|Islam and the East]]
 **Settings:** [[settings/orient|Orient]], [[motifs/desert|Desert]]
-**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/self-made-man|Self-Made Man]]
+**Archetypes:** Trickster, Self-Made Man
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]

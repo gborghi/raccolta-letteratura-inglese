@@ -37,22 +37,22 @@ tags:
 
 Raccolta tematica di 16 componimenti di Samuel Taylor Coleridge.
 
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#339_a_hint_to_premiers_and_first_consuls|A HINT TO PREMIERS AND FIRST CONSULS]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#399_another_version|ANOTHER VERSION.]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#304_epitaph|EPITAPH]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#331_epitaph_on_a_bad_man|EPITAPH ON A BAD MAN]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#241_epitaph_on_an_infant_1|EPITAPH ON AN INFANT]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#329_epitaph_on_major_dieman|EPITAPH ON MAJOR DIEMAN]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#278_epitaphium_testamentarium|EPITAPHIUM TESTAMENTARIUM]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#194_inscription_for_a_seat_by_the_road_side_half-way_up_a_steep_hill_facing_south|INSCRIPTION FOR A SEAT BY THE ROAD SIDE HALF-WAY UP A STEEP HILL FACING SOUTH]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#010_life|LIFE]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#060_moriens_superstiti|MORIENS SUPERSTITI]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#172_on_an_infant_which_died_before_baptism|ON AN INFANT WHICH DIED BEFORE BAPTISM]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#310_on_an_insignificant|ON AN INSIGNIFICANT]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#425_the_hour-glass|THE HOUR-GLASS]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#133_translation_of_a_latin_inscription_by_the_rev_w_l_bowles_in_nether-stowey_church|TRANSLATION OF A LATIN INSCRIPTION BY THE REV. W. L. BOWLES IN NETHER-STOWEY CHURCH]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#424_underwoods|UNDERWOODS]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#225_what_is_life|WHAT IS LIFE?]]
+- [[works/a-hint-to-premiers-and-first-consuls-(coleridge)|A HINT TO PREMIERS AND FIRST CONSULS]]
+- [[works/another-version.-(coleridge)|ANOTHER VERSION.]]
+- [[works/epitaph-(coleridge)|EPITAPH]]
+- [[works/epitaph-on-a-bad-man-(coleridge)|EPITAPH ON A BAD MAN]]
+- [[works/epitaph-on-an-infant-(coleridge)|EPITAPH ON AN INFANT]]
+- [[works/epitaph-on-major-dieman-(coleridge)|EPITAPH ON MAJOR DIEMAN]]
+- [[works/epitaphium-testamentarium-(coleridge)|EPITAPHIUM TESTAMENTARIUM]]
+- [[works/inscription-for-a-seat-by-the-road-side-half-way-up-a-steep-hill-facing-south-(coleridge)|INSCRIPTION FOR A SEAT BY THE ROAD SIDE HALF-WAY UP A STEEP HILL FACING SOUTH]]
+- [[works/life-(coleridge)|LIFE]]
+- [[works/moriens-superstiti-(coleridge)|MORIENS SUPERSTITI]]
+- [[works/on-an-infant-which-died-before-baptism-(coleridge)|ON AN INFANT WHICH DIED BEFORE BAPTISM]]
+- [[works/on-an-insignificant-(coleridge)|ON AN INSIGNIFICANT]]
+- [[works/the-hour-glass-(coleridge)|THE HOUR-GLASS]]
+- [[works/translation-of-a-latin-inscription-by-the-rev.-w.-l.-bowles-in-nether-stowey-church-(coleridge)|TRANSLATION OF A LATIN INSCRIPTION BY THE REV. W. L. BOWLES IN NETHER-STOWEY CHURCH]]
+- [[works/underwoods-(coleridge)|UNDERWOODS]]
+- [[works/what-is-life-(coleridge)|WHAT IS LIFE?]]
 
 ## Testo / Text
 

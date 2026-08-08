@@ -19,7 +19,7 @@ tags:
 
 Seconda [[motifs/spring|Primavera]]  
 
-La Casa del Natale  
+La [[house|Casa]] del Natale  
 
 Di G.K. Chesterton  
 
@@ -60,7 +60,7 @@ e la nostra pace è riposta in cose impossibili
 dove cozzarono e tuonarono ali impensabili  
 attorno a una stella incredibile.  
 
-A una casa aperta nella sera  
+A una [[house|casa]] aperta nella sera  
 verranno tutti gli uomini a [[motifs/home|casa]],  
 a un luogo più antico dell'Eden  
 e a una città più alta di Roma.  
@@ -76,7 +76,7 @@ e tutti gli uomini sono a [[motifs/home|casa]].
 
 Second [[motifs/spring|Spring]]  
 
-The House of Christmas  
+The [[house|House]] of Christmas  
 
 By G.K. Chesterton  
 
@@ -117,7 +117,7 @@ And our peace is put in impossible things
 Where clashed and thundered unthinkable wings  
 Round an incredible star.  
 
-To an open house in the evening  
+To an open [[house]] in the evening  
 [[motifs/home|Home]] shall all men come,  
 To an older place than Eden  
 And a taller town than Rome.  
@@ -131,7 +131,7 @@ And all men are at [[motifs/home|home]].
 
 Seconda [[motifs/spring|Primavera]]  
 
-La Casa del Natale  
+La [[house|Casa]] del Natale  
 
 Di G.K. Chesterton  
 
@@ -172,7 +172,7 @@ e la nostra pace è riposta in cose impossibili
 dove cozzarono e tuonarono ali impensabili  
 attorno a una stella incredibile.  
 
-A una casa aperta nella sera  
+A una [[house|casa]] aperta nella sera  
 verranno tutti gli uomini a [[motifs/home|casa]],  
 a un luogo più antico dell'Eden  
 e a una città più alta di Roma.  

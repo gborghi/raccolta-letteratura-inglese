@@ -119,9 +119,9 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[characters/king-john|King John]]
+**Characters:** King John
 
-**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/tyrant|Tyrant]], [[archetypes/villain|Villain]], [[archetypes/self-made-man|Self-Made Man]], [[archetypes/fool|Fool]], [[archetypes/detective|Detective]]
+**Archetypes:** Corrupt Official, Tyrant, Villain, Self-Made Man, Fool, Detective
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/common-man|Common Man]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paradox|Paradox]], [[concepts/distributism|Distributism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/democracy|Democracy]], [[concepts/class-conflict|Class Conflict]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/sketch|Sketch]], [[forms/nonfiction|Nonfiction]]
 

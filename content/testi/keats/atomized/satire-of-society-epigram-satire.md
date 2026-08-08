@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/satire-of-society-epigram-satire" data-author="Keats" data-workhref="works/satire-of-society-·-epigram-·-satire-(keats)"></div>
 
 
-<span class="atom-split" data-atom="024_addressed_to_haydon" data-title="ADDRESSED TO HAYDON" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/the_artist_and_society,concept/friendship,concept/heroism,form/sonnet,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="024_addressed_to_haydon" data-title="ADDRESSED TO HAYDON" data-chapter="" data-kind="intro"></span>
 
 
 Highmindedness, a [[concepts/jealousy|jealousy]] for good,  
@@ -32,7 +32,7 @@ Unnumber’d souls breathe out a still applause,
 
 
 
-<span class="atom-split" data-atom="056_sonnet_before_he_went_to_feed_with_owls_and_bats" data-title="Sonnet: Before he went to feed with owls and bats" data-chapter="" data-kind="intro" data-tags="archetype/king,archetype/prophet,motif/dreams,motif/animals,concept/satire_of_society,concept/madness,form/sonnet,form/satire,histref/the_bible,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="056_sonnet_before_he_went_to_feed_with_owls_and_bats" data-title="Sonnet: Before he went to feed with owls and bats" data-chapter="" data-kind="intro"></span>
 
 
 Before he went to feed with owls and bats  
@@ -43,7 +43,7 @@ So scared, he sent for that ‘Good [[archetypes/king|King]] of Cats’
 Young Daniel, who soon did pluck away the beam  
 From out his eye, and said he did not deem  
 The sceptre worth a straw - his cushions old door-mats.  
-A horrid nightmare similar somewhat  
+A horrid [[nightmare]] similar somewhat  
 Of late has haunted a most motley crew,  
 10  
 Most loggerheads and chapmen - we are told  
@@ -54,7 +54,7 @@ By belching out ‘ye are that head of gold.’
 
 
 
-<span class="atom-split" data-atom="067_on_oxford_a_parody" data-title="On Oxford A Parody" data-chapter="" data-kind="intro" data-tags="motif/ruins,motif/bells,motif/food_feasting,concept/satire_of_society,form/parody,form/satire,setting/oxford,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="067_on_oxford_a_parody" data-title="On Oxford A Parody" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -84,7 +84,7 @@ Then each on a leg or thigh fastens.
 
 
 
-<span class="atom-split" data-atom="069_modern_love" data-title="Modern Love" data-chapter="" data-kind="intro" data-tags="archetype/femme_fatale,motif/money_gold,concept/satire_of_society,concept/love_romantic,concept/appearance_vs_reality,form/satire,histref/ancient_rome,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="069_modern_love" data-title="Modern Love" data-chapter="" data-kind="intro"></span>
 
 
 And what is [[motifs/love|love]]? It is a doll dress’d up  
@@ -108,7 +108,7 @@ That ye may [[motifs/love|love]] in spite of beaver hats.
 
 
 
-<span class="atom-split" data-atom="086_follys_song" data-title="Folly’s Song" data-chapter="" data-kind="intro" data-tags="archetype/fool,motif/food_feasting,concept/satire_of_society,concept/joy,form/song,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="086_follys_song" data-title="Folly’s Song" data-chapter="" data-kind="intro"></span>
 
 
 When wedding fiddles are a-playing,  
@@ -126,7 +126,7 @@ When Kate Eyebrow keeps a coach,
 Huzza for folly O!  
 When the pig is over-roasted,  
 Huzza for folly O!  
-And the cheese is over-toasted,  
+And the [[cheese]] is over-toasted,  
 Huzza for folly O!  
 When Sir Snap is with his lawyer,  
 Huzza for folly O!  
@@ -137,7 +137,7 @@ Huzza for folly O!
 
 
 
-<span class="atom-split" data-atom="105_the_gadfly" data-title="The Gadfly" data-chapter="" data-kind="intro" data-tags="archetype/fool,motif/animals,concept/satire_of_society,form/satire,form/song,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="105_the_gadfly" data-title="The Gadfly" data-chapter="" data-kind="intro"></span>
 
 
 From a Letter to Tom Keats  
@@ -229,7 +229,7 @@ The Gadfly’s little sting.
 
 
 
-<span class="atom-split" data-atom="106_sonnet_on_hearing_the_bagpipe_and" data-title="Sonnet on Hearing the Bagpipe and" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/satire_of_society,form/sonnet,form/satire,setting/scotland,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="106_sonnet_on_hearing_the_bagpipe_and" data-title="Sonnet on Hearing the Bagpipe and" data-chapter="" data-kind="intro"></span>
 
 
 Seeing ‘The Stranger’ Played at Inverary  
@@ -251,7 +251,7 @@ Mum chance art thou with both oblig’d to part.
 
 
 
-<span class="atom-split" data-atom="109_ben_nevis_-_a_dialogue" data-title="Ben Nevis - a Dialogue" data-chapter="" data-kind="intro" data-tags="topos/the_sleeper_awakes,motif/the_supernatural,concept/the_grotesque,concept/lust,concept/satire_of_society,setting/scotland,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="109_ben_nevis_-_a_dialogue" data-title="Ben Nevis - a Dialogue" data-chapter="" data-kind="intro"></span>
 
 
 [Persons: MRS CAMERON and BEN NEVIS]  
@@ -291,7 +291,7 @@ Even so long my [[motifs/sleep|sleep]] has been secure -
 And to be so awaked I’ll not endure.  
 Oh [[motifs/pain|pain]] - for since the eagle’s earliest scream  
 I’ve had a damn’d confounded ugly dream,  
-A nightmare sure. What, Madam, was it you?  
+A [[nightmare]] sure. What, Madam, was it you?  
 It cannot be! My old eyes are not true!  
 Red-Crag, my spectacles! Now let me see!  
 Good Heavens, Lady, how the gemini  
@@ -350,7 +350,7 @@ That fainting fit was not delayed too late.
 
 
 
-<span class="atom-split" data-atom="119_ode_on_indolence" data-title="Ode on Indolence" data-chapter="" data-kind="intro" data-tags="motif/masks_disguise,concept/indolence,concept/the_artist_and_society,concept/ambition,concept/love_romantic,form/ode,histref/greek_mythology,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="119_ode_on_indolence" data-title="Ode on Indolence" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -429,7 +429,7 @@ Into the clouds, and never more return!
 
 
 
-<span class="atom-split" data-atom="132_a_party_of_lovers" data-title="A Party of Lovers" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/satire_of_society,concept/love_romantic,form/satire,form/narrative_poem,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="132_a_party_of_lovers" data-title="A Party of Lovers" data-chapter="" data-kind="intro"></span>
 
 
 ‘A few Nonsense Verses’ sent in a Letter to George Keats  

@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/satire-of-society-epigram-satire" data-author="Eliot" data-workhref="works/satire-of-society-·-epigram-·-satire-(eliot)"></div>
 
 
-<span class="atom-split" data-atom="007_the_boston_evening_transcript" data-title="The Boston Evening Transcript" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/time,concept/satire_of_society,form/epigram,histref/new_england,setting/new_england,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="007_the_boston_evening_transcript" data-title="The Boston Evening Transcript" data-chapter="" data-kind="intro"></span>
 
 
 The Boston Evening Transcript  
@@ -41,7 +41,7 @@ e dico: ‘Cugina Harriet, ecco il Boston Evening Transcript.’
 
 
 
-<span class="atom-split" data-atom="009_cousin_nancy" data-title="Cousin Nancy" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/critique_of_progress,concept/faith_and_doubt,form/epigram,histref/new_england,setting/new_england,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="009_cousin_nancy" data-title="Cousin Nancy" data-chapter="" data-kind="intro"></span>
 
 
 Cousin [[characters/nancy|Nancy]]  
@@ -79,7 +79,7 @@ l’esercito dell’inalterabile legge.
 
 
 
-<span class="atom-split" data-atom="010_mr_apollinax" data-title="Mr. Apollinax" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/desire,concept/satire_of_society,concept/the_grotesque,histref/greek_mythology,histref/new_england,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="010_mr_apollinax" data-title="Mr. Apollinax" data-chapter="" data-kind="intro"></span>
 
 
 Mr. Apollinax
@@ -96,7 +96,7 @@ Like the old man of the sea’s
 Hidden under coral islands
 Where worried bodies of drowned men drift down in the green [[motifs/silence|silence]],
 Dropping from fingers of surf.
-I looked for the head of Mr. Apollinax rolling under a chair
+I looked for the head of Mr. Apollinax [[rolling]] under a chair
 Or grinning over a screen
 With seaweed in its hair.
 I heard the beat of centaur’s hoofs over the hard turf
@@ -124,7 +124,7 @@ come quella del vecchio del mare
 nascosto sotto isole di corallo
 dove i corpi angosciati degli annegati vanno alla deriva giù nel verde [[motifs/silence|silenzio]],
 cadendo dalle dita della risacca.
-Cercai la testa di Mr. Apollinax che rotolava sotto una sedia
+Cercai la testa di Mr. Apollinax che [[rolling|rotolava]] sotto una sedia
 o ghignava sopra un paravento
 con le alghe fra i capelli.
 Udii il battito degli zoccoli del centauro sul duro tappeto erboso
@@ -137,7 +137,7 @@ ricordo una fetta di limone, e un amaretto morsicato.
 
 
 
-<span class="atom-split" data-atom="018_a_cooking_egg" data-title="A Cooking Egg" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/food_feasting,concept/disillusionment,concept/nostalgia,concept/satire_of_society,concept/innocence_and_experience,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="018_a_cooking_egg" data-title="A Cooking Egg" data-chapter="" data-kind="intro"></span>
 
 
 A Cooking Egg  
@@ -231,7 +231,7 @@ si accasciano in cento A.B.C.
 
 
 
-<span class="atom-split" data-atom="019_le_directeur" data-title="Le Directeur" data-chapter="" data-kind="intro" data-tags="motif/river,concept/satire_of_society,concept/poverty,concept/social_injustice,form/satire,setting/london,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="019_le_directeur" data-title="Le Directeur" data-chapter="" data-kind="intro"></span>
 
 
 Le Directeur  
@@ -287,7 +287,7 @@ e crepa d’amore.
 
 
 
-<span class="atom-split" data-atom="020_mélange_adultère_de_tout" data-title="Mélange Adultère de Tout" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,archetype/outcast_wanderer,motif/masks_disguise,concept/identity,concept/the_artist_and_society,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="020_mélange_adultère_de_tout" data-title="Mélange Adultère de Tout" data-chapter="" data-kind="intro"></span>
 
 
 Mélange Adultère de Tout  
@@ -379,7 +379,7 @@ nelle sue pietre frananti la forma precisa di Bisanzio.
 
 
 
-<span class="atom-split" data-atom="022_the_hippopotamus" data-title="The Hippopotamus" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/lamb,concept/satire_of_society,concept/faith_and_doubt,form/satire,histref/christianity,histref/the_bible,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="022_the_hippopotamus" data-title="The Hippopotamus" data-chapter="" data-kind="intro"></span>
 
 
 The Hippopotamus  
@@ -467,7 +467,7 @@ avvolta nell’antica nebbia miasmatica.
 
 
 
-<span class="atom-split" data-atom="050_coriolan" data-title="Coriolan" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,topos/sic_transit_gloria_mundi,archetype/tyrant,motif/dust,motif/swords_weapons,motif/crown,motif/horse,concept/power_and_corruption,concept/spiritual_emptiness,concept/satire_of_society,concept/war_and_its_cost,form/verse_drama,form/fragment,histref/ancient_rome,setting/ancient_rome,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="050_coriolan" data-title="Coriolan" data-chapter="" data-kind="intro"></span>
 
 
 Coriolan
@@ -739,7 +739,7 @@ DIMETTITI DIMETTITI DIMETTITI
 
 
 
-<span class="atom-split" data-atom="055_landscapes" data-title="Landscapes" data-chapter="" data-kind="intro" data-tags="archetype/pilgrim,motif/nature,motif/birds,motif/seasons,motif/river,motif/decay,concept/memory_and_time,concept/faith,form/lyric,histref/new_england,setting/new_england,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="055_landscapes" data-title="Landscapes" data-chapter="" data-kind="intro"></span>
 
 
 Landscapes  
@@ -797,7 +797,7 @@ Beyond the bone. [[concepts/pride|Pride]] snapped,
 [[archetypes/shadow|Shadow]] of [[concepts/pride|pride]] is long, in the long pass  
 No concurrence of bone.  
 V. Cape Ann  
-O quick quick quick, quick hear the song-sparrow,  
+O quick quick quick, quick hear the [[Song|song]]-sparrow,  
 Swamp-sparrow, fox-sparrow, vesper-sparrow  
 At [[motifs/dawn|dawn]] and dusk. Follow the [[motifs/dance|dance]]  
 Of the goldfinch at [[motifs/noon|noon]]. Leave to chance  
@@ -869,7 +869,7 @@ oltre l’osso. Spezzato l’[[concepts/pride|orgoglio]],
 l’[[archetypes/shadow|ombra]] dell’[[concepts/pride|orgoglio]] è lunga, nel lungo valico  
 nessuna concordia d’ossa.  
 V. Cape Ann  
-O presto presto presto, presto ascolta il passero cantore,  
+O presto presto presto, presto ascolta il passero [[Song|cantore]],  
 il passero di palude, il passero volpino, il passero vespertino  
 all’[[motifs/dawn|alba]] e all’imbrunire. Segui la [[motifs/dance|danza]]  
 del cardellino a [[motifs/noon|mezzogiorno]]. Lascia al caso  
@@ -885,7 +885,7 @@ La chiacchierata è finita.
 
 
 
-<span class="atom-split" data-atom="074_defence_of_the_islands" data-title="Defence of the Islands" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/death,motif/the_sea,concept/war_and_its_cost,concept/nationalism_and_patriotism,concept/heroism,form/free_verse,histref/the_first_world_war,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="074_defence_of_the_islands" data-title="Defence of the Islands" data-chapter="" data-kind="intro"></span>
 
 
 Defence of the Islands  
@@ -947,14 +947,14 @@ le nostre posizioni, in obbedienza agli ordini.
 
 
 
-<span class="atom-split" data-atom="124_y_z" data-title="Y, Z" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/animals,concept/the_artist_and_society,form/nonfiction,form/biography,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="124_y_z" data-title="Y, Z" data-chapter="" data-kind="intro"></span>
 
 
 You ought to know Mr. Mistoffelees! 1
 You’ve read of several kinds of Cat 1
 
 About the Author
-Thomas Stearns Eliot was born in St Louis, Missouri, in 1888. He came to England in 1914 and published his first book of poems in 1917. He received the Nobel Prize in Literature in 1948. Eliot died in 1965.
+Thomas Stearns Eliot was born in St Louis, Missouri, in 1888. He came to England in 1914 and published his first book of [[Poems|poems]] in 1917. He received the Nobel Prize in Literature in 1948. Eliot died in 1965.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -963,4 +963,4 @@ Dovreste conoscere Mr. Mistoffelees! 1
 Avete letto di parecchie specie di Gatto 1
 
 L’autore
-Thomas Stearns Eliot nacque a St Louis, Missouri, nel 1888. Venne in Inghilterra nel 1914 e pubblicò il suo primo libro di poesie nel 1917. Ricevette il Premio Nobel per la Letteratura nel 1948. Eliot morì nel 1965.
+Thomas Stearns Eliot nacque a St Louis, Missouri, nel 1888. Venne in Inghilterra nel 1914 e pubblicò il suo primo libro di [[Poems|poesie]] nel 1917. Ricevette il Premio Nobel per la Letteratura nel 1948. Eliot morì nel 1965.

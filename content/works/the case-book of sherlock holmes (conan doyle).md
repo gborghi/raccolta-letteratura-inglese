@@ -55,7 +55,7 @@ tags:
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]]
 **Historical References:** [[historical-references/victorian-england|Victorian England]]
 **Settings:** [[settings/london|London]]
-**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]]
-**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
+**Characters:** Sherlock Holmes, Doctor Watson
+**Archetypes:** Detective, Villain
 
 **Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

@@ -170,7 +170,7 @@ at a distance, from his buoyant gestures and rapid walk. All that was
 
 quite in character, but the tone of the group was different. One figure
 
-alone out of the four seemed in some sense of Marillac's world, having
+[[Alone|alone]] out of the four seemed in some sense of Marillac's world, having
 
 something of the carriage of a military officer, with that fine shade
 
@@ -348,7 +348,7 @@ da lontano, dai suoi gesti esuberanti e dal passo rapido. Tutto ciò era
 
 del tutto conforme al personaggio, ma il tono del gruppo era diverso. Una sola figura
 
-sola fra le quattro sembrava in qualche senso appartenere al mondo di Marillac, avendo
+[[Alone|sola]] fra le quattro sembrava in qualche senso appartenere al mondo di Marillac, avendo
 
 qualcosa del portamento di un ufficiale, con quella sottile sfumatura
 
@@ -817,7 +817,7 @@ I can say it. I had a touch of it myself once, only in one special
 
 direction, and I found it almost impossible to explain to anybody. Only
 
-there is one mark of the real mystic and ascetic of this sort; that he
+there is one mark of the real mystic and [[ascetic]] of this sort; that he
 
 only wants to do it to himself. He wants everybody else to have what wine
 
@@ -1006,7 +1006,7 @@ di poterlo dire. Io stesso ne ebbi un tocco una volta, solo in una direzione
 
 particolare, e trovai quasi impossibile spiegarlo a chiunque. Solo
 
-c'è un segno del vero mistico e asceta di questa sorta: che egli
+c'è un segno del vero mistico e [[ascetic|asceta]] di questa sorta: che egli
 
 vuole farlo soltanto a se stesso. Vuole che tutti gli altri abbiano quel vino
 
@@ -1159,7 +1159,7 @@ for concealed virtues. Sometimes, as in Marillac's case, they are very
 
 artfully concealed. As you will doubtless be justified in retorting, we
 
-conceal our own virtues with brilliant success."
+conceal our own virtues with brilliant [[success]]."
 
 The journalist's head began to go round a little, though he thought
 
@@ -1215,7 +1215,7 @@ and he answered his own question in the same hollow tone: "Treason. I
 
 betrayed the four companions of my party, and gave them up to the
 
-Government for a bribe."
+[[government|Government]] for a bribe."
 
 Something turned cold inside the sensitive stranger, and for the first
 
@@ -1264,7 +1264,7 @@ alle virtù nascoste. A volte, come nel caso di Marillac, sono nascoste con
 
 grandissima arte. Come avrete senza dubbio ragione di ribattere, noi
 
-nascondiamo le nostre virtù con brillante successo.»
+nascondiamo le nostre virtù con brillante [[success|successo]].»
 
 La testa del giornalista cominciò a girare un poco, benché egli si credesse
 
@@ -1320,7 +1320,7 @@ ed egli rispose alla propria domanda con lo stesso tono cavo: «Il tradimento. H
 
 tradito i quattro compagni del mio partito e li ho consegnati al
 
-Governo per una tangente.»
+[[government|Governo]] per una tangente.»
 
 Qualcosa si fece di ghiaccio dentro il sensibile forestiero, e per la prima
 
@@ -1394,7 +1394,7 @@ rich in colouring with a very beautiful but rather sullen profile, as she
 
 crossed the sandy spaces and came under the cover of one long low wall
 
-which alone threw a strip of [[archetypes/shadow|shadow]] from the sun, which was sloping
+which [[Alone|alone]] threw a strip of [[archetypes/shadow|shadow]] from the sun, which was sloping
 
 towards the [[motifs/desert|desert]] horizon. The wall itself was a quaint example of the
 
@@ -1444,7 +1444,7 @@ would be truer to say that she had rather too much. But she was quite
 
 certain she had not imagined the voice, though she certainly could not
 
-imagine where it came from. She appeared to be absolutely alone on the
+imagine where it came from. She appeared to be absolutely [[Alone|alone]] on the
 
 little path which ran along the wall and led to the gardens round the
 
@@ -1530,13 +1530,13 @@ than a few sentences before she realized that she was talking to a
 
 remarkable man.
 
-We hear much in these days about the dangers of innocence, much that is
+We hear much in these days about the dangers of [[innocence]], much that is
 
 false and a little that is true. But the argument is almost exclusively
 
-applied to sexual innocence. There is a great deal that ought to be said
+applied to sexual [[innocence]]. There is a great deal that ought to be said
 
-about the dangers of political innocence. That most necessary and most
+about the dangers of political [[innocence]]. That most necessary and most
 
 noble virtue of patriotism is very often brought to [[concepts/despair|despair]] and
 
@@ -1574,7 +1574,7 @@ repartee, as perhaps he was, to anybody who knew what he meant. But
 
 Barbara had never heard of the Waba. The newspapers had seen to that.
 
-"The British Government," he was saying, "definitely pledged itself two
+"The British [[government|Government]]," he was saying, "definitely pledged itself two
 
 years ago to a complete scheme of local autonomy. If it is a complete
 
@@ -1650,7 +1650,7 @@ something alien and terrible, something fierce and utterly foreign, as if
 
 she had stroked some strange wild beast of the [[motifs/desert|desert]]. But the gardens
 
-about her and the house beyond had already taken on a tone or tint
+about her and the [[house]] beyond had already taken on a tone or tint
 
 indescribably English, in spite of the recent settlement and the African
 
@@ -1726,7 +1726,7 @@ ricca di colore, dal profilo bellissimo ma un po' imbronciato, mentre
 
 attraversava gli spazi sabbiosi e giungeva al riparo di un lungo muro basso
 
-che solo gettava una striscia d'[[archetypes/shadow|ombra]] contro il sole, il quale scendeva
+che [[Alone|solo]] gettava una striscia d'[[archetypes/shadow|ombra]] contro il sole, il quale scendeva
 
 verso l'orizzonte del [[motifs/desert|deserto]]. Il muro stesso era un curioso esempio del
 
@@ -1776,7 +1776,7 @@ sarebbe più esatto dire che ne aveva anzi troppa. Ma era del tutto
 
 certa di non aver immaginato la voce, benché non riuscisse davvero a
 
-immaginare da dove venisse. Sembrava assolutamente sola sul
+immaginare da dove venisse. Sembrava assolutamente [[Alone|sola]] sul
 
 sentierino che correva lungo il muro e portava ai giardini attorno al
 
@@ -1862,13 +1862,13 @@ di qualche frase prima di rendersi conto che stava parlando con un
 
 uomo notevole.
 
-Molto si sente dire di questi tempi sui pericoli dell'innocenza, molto di
+Molto si sente dire di questi tempi sui pericoli dell'[[innocence|innocenza]], molto di
 
 falso e un poco di vero. Ma l'argomento è quasi esclusivamente
 
-applicato all'innocenza sessuale. C'è moltissimo che andrebbe detto
+applicato all'[[innocence|innocenza]] sessuale. C'è moltissimo che andrebbe detto
 
-sui pericoli dell'innocenza politica. Quella necessarissima e
+sui pericoli dell'[[innocence|innocenza]] politica. Quella necessarissima e
 
 nobilissima virtù del patriottismo è molto spesso condotta alla [[concepts/despair|disperazione]] e
 
@@ -1906,7 +1906,7 @@ battuta, e forse lo era, per chiunque sapesse ciò che intendeva. Ma
 
 Barbara non aveva mai sentito parlare dei Waba. Ci avevano pensato i giornali.
 
-«Il Governo britannico», stava dicendo, «si è impegnato in modo esplicito due
+«Il [[government|Governo]] britannico», stava dicendo, «si è impegnato in modo esplicito due
 
 anni fa a un piano completo di autonomia locale. Se è un piano
 
@@ -1982,7 +1982,7 @@ qualcosa di alieno e terribile, qualcosa di feroce e del tutto estraneo, come se
 
 avesse accarezzato una strana bestia selvaggia del [[motifs/desert|deserto]]. Ma i giardini
 
-attorno a lei e la casa più in là avevano già assunto un tono o una sfumatura
+attorno a lei e la [[house|casa]] più in là avevano già assunto un tono o una sfumatura
 
 indescrivibilmente inglese, nonostante il recente insediamento e il cielo
 
@@ -2079,7 +2079,7 @@ brother was still a boy; it might more truly be said that he was still a
 
 differed about the [[concepts/nature|nature]] of the deficiency, she was prone in her black
 
-moods to take the darkest view and let it darken the whole house of
+moods to take the darkest view and let it darken the whole [[house]] of
 
 Tallboys. Thus it happened that she said quickly, at the sight of her
 
@@ -2101,7 +2101,7 @@ matter with you."
 
 us?"
 
-With that she turned abruptly and went back towards the house, dropping
+With that she turned abruptly and went back towards the [[house]], dropping
 
 the [[motifs/flowers|flowers]] she had been making a pretence of gathering, and her sister
 
@@ -2143,7 +2143,7 @@ he had a military point of view, which is sufficiently common and even
 
 commonplace.
 
-"In short," the Governor was saying, "I believe the Government scheme is
+"In short," the Governor was saying, "I believe the [[government|Government]] scheme is
 
 admirably adapted to meet a somewhat difficult situation. Extremists of
 
@@ -2256,7 +2256,7 @@ Un fratello ancora ragazzo…
 
 C'erano opinioni divergenti sulla [[concepts/nature|>natura]] di questa carenza; lei, nel suo aspetto scuro, era particolarmente predisposta.
 
-Umori che portano a vedere le cose dal lato più cupo, facendole oscurare l’intera >casa.
+Umori che portano a vedere le cose dal lato più cupo, facendole oscurare l’intera [[house|>casa]].
 
 Titolo:  
 Tallboys. Fu così che lei disse rapidamente, non appena lo vide…
@@ -2279,7 +2279,7 @@ Discutere la questione con lui in modo approfondito.
 
 us?"
 
-Con quelle parole si girò bruscamente e tornò verso la >casa, lasciandole cadere.
+Con quelle parole si girò bruscamente e tornò verso la [[house|>casa]], lasciandole cadere.
 
 I [[motifs/flowers|>fiori]] che lei fingeva di raccogliere, e sua sorella.
 
@@ -2322,7 +2322,7 @@ Aveva una prospettiva militare, cosa abbastanza comune…
 
 Comune e banale.
 
-“In breve,” stava dicendo il Governatore, “credo che il piano del Governo sia, ”
+“In breve,” stava dicendo il Governatore, “credo che il piano del [[government|Governo]] sia, ”
 
 Adattato in modo ammirevole per affrontare una situazione piuttosto difficile… Gli estremisti di
 
@@ -2455,7 +2455,7 @@ breaking up a conference in some irritation; then he made a diversion by
 
 lifting a finger and signalling to his secretary Mr. Meade, who slid up
 
-to him and after a brief colloquy slid into the house. Released from the
+to him and after a brief colloquy slid into the [[house]]. Released from the
 
 strain of State affairs, Barbara fell once more under the spell of the
 
@@ -2475,7 +2475,7 @@ wilderness has been the playground of so many cranks. She softened a
 
 little towards the clerical crank and even accepted an invitation to his
 
-house on the day after the following, to see the documents and the
+[[house]] on the day after the following, to see the documents and the
 
 definite proof about the Shunamites. But she was still very vague about
 
@@ -2603,7 +2603,7 @@ political news on the next. On the following morning proclamations were
 
 posted everywhere announcing the just, reasonable and even generous
 
-compromise which His Majesty's Government was now offering as a fair and
+compromise which His Majesty's [[government|Government]] was now offering as a fair and
 
 final settlement of the serious social problems of Polybia and eastern
 
@@ -2701,7 +2701,7 @@ Interrompendo una conferenza con evidente irritazione, poi cambiò argomento…
 
 Faccendo un gesto con la mano, chiamò il suo segretario, il signor Meade, che subito si avvicinò
 
-Glielo diede e, dopo un breve colloquio, entrò nella >casa. Liberato dal.
+Glielo diede e, dopo un breve colloquio, entrò nella [[house|>casa]]. Liberato dal.
 
 Una questione di Stato… Barbara cadde nuovamente sotto il suo incantesimo
 
@@ -2721,7 +2721,7 @@ Piramidi. In un modo vago, capì perché tutto quel materiale roccioso e scintil
 
 Un po’ incline verso le tendenze clericali… e addirittura accettò un invito da parte sua
 
-La casa il giorno dopo, per esaminare i documenti e.
+La [[house|casa]] il giorno dopo, per esaminare i documenti e.
 
 “Prova definitiva riguardo alle donne di Shunamit… Ma rimaneva comunque molto vaga al riguardo.”
 
@@ -3007,7 +3007,7 @@ It seems for one instant as if, in rising through the mist, the tune had
 
 taken outline and colour and burst into his room with the bodily presence
 
-of a song, for the blues and greens of her patterned dress were like
+of a [[Song|song]], for the blues and greens of her patterned dress were like
 
 notes of music and her amazing face came to him like a cry, a cry out of
 
@@ -3019,7 +3019,7 @@ ballroom, though he knew her [[motifs/well|well]] enough as the younger sister o
 
 charge, and the ball was a few hundred yards away. Her face was like a
 
-pale face burning through a dream and itself as unconscious as a
+pale face burning through [[A Dream|a dream]] and itself as unconscious as a
 
 dreamer's, for Barbara Traill was curiously unconscious of that mask of
 
@@ -3180,7 +3180,7 @@ Per un istante sembra che, salendo attraverso la foschia, la melodia avesse
 
 preso contorno e colore e fosse irrotta nella sua stanza con la presenza corporea
 
-di un canto, perché gli azzurri e i verdi del suo abito fantasia erano come
+di un [[Song|canto]], perché gli azzurri e i verdi del suo abito fantasia erano come
 
 note di musica e il suo volto stupefacente gli giunse come un grido, un grido dalla
 
@@ -3192,7 +3192,7 @@ sala da ballo, benché la conoscesse [[motifs/well|bene]] come sorella minore de
 
 allievo, e il ballo fosse a poche centinaia di metri. Il suo volto era come un
 
-volto pallido che ardeva attraverso un sogno ed esso stesso inconsapevole come quello di un
+volto pallido che ardeva attraverso [[A Dream|un sogno]] ed esso stesso inconsapevole come quello di un
 
 sognatore, perché Barbara Traill era curiosamente inconsapevole di quella maschera di
 
@@ -3265,7 +3265,7 @@ though he often passes for English. He is a stormy petrel, anyhow; and
 
 wherever he goes there's a row. Some say we ought to have used him
 
-ourselves; I believe he once offered his talents to our Government. He's
+ourselves; I believe he once offered his talents to our [[government|Government]]. He's
 
 a very clever fellow and knows a frightful lot of the facts about these
 
@@ -3289,7 +3289,7 @@ have gone to [[motifs/prison|prison]] twice but for suborning perjury. I only sa
 
 you may come to believe, don't believe in him."
 
-"He dared to say that our Government broke its word," said Barbara
+"He dared to say that our [[government|Government]] broke its word," said Barbara
 
 indignantly.
 
@@ -3317,11 +3317,11 @@ dangerous condition of the Press and the public, when only the liars tell
 
 the [[concepts/truth|truth]]."
 
-Something of a massive gravity in his grim humour for the moment
+Something of a massive gravity in his grim [[Humour|humour]] for the moment
 
 overpowered her breathless resentment, and she said in a quieter tone:
 
-"Do you believe in this demand for [[concepts/self|self]]-government?"
+"Do you believe in this demand for [[concepts/self|self]]-[[government]]?"
 
 "I'm not very good at believing," he said. "I find it very hard to
 
@@ -3341,7 +3341,7 @@ didn't you make one for yourself?'"
 
 "You don't seem to care much for the Nationalists either," she said.
 
-"Their politicians are often frauds, but they're not alone in that.
+"Their politicians are often frauds, but they're not [[Alone|alone]] in that.
 
 That's why I find myself forced into an intermediate position, a sort of
 
@@ -3457,7 +3457,7 @@ Un uccello tempestoso
 
 Ovunque vada, succedono sempre problemi. Alcuni dicono che avremmo dovuto utilizzarlo…
 
-Noi stessi; credo che una volta abbia offerto i suoi talenti al nostro Governo. Lui è.
+Noi stessi; credo che una volta abbia offerto i suoi talenti al nostro [[government|Governo]]. Lui è.
 
 Un individuo davvero intelligente, che conosce un’infinità di fatti su queste cose
 
@@ -3481,7 +3481,7 @@ Una reputazione piuttosto pessima riguardo alle donne… Non entrerò nei dettag
 
 Potresti finire per crederci, ma non credere davvero in lui.
 
-“Osò dire che il nostro Governo ha mancato alla sua parola,” disse Barbara.
+“Osò dire che il nostro [[government|Governo]] ha mancato alla sua parola,” disse Barbara.
 
 Con indignazione.
 
@@ -3509,11 +3509,11 @@ Condizione pericolosa della stampa e del pubblico, quando solo i bugiardi parlan
 
 la [[concepts/truth|verità]].
 
-C’è qualcosa di estremamente potente nel suo cupo umore in questo momento.
+C’è qualcosa di estremamente potente nel suo cupo [[Humour|umore]] in questo momento.
 
 La sua rabbia soffocata prevalse, e lei disse con voce più calma:
 
-“Credi davvero in questa richiesta di [[concepts/self|autosogestione]] e -governamento autonomo?”
+“Credi davvero in questa richiesta di [[concepts/self|autosogestione]] e [[government|-governamento autonomo]]?”
 
 “Non sono molto bravo a credere,” disse. “Mi sembra davvero difficile farlo.”
 
@@ -3691,7 +3691,7 @@ instantaneous impression of crushing and startling strength, like a
 
 chimpanzee, surprised her into a cry. Then she stumbled and ran, but not
 
-in the direction of the house of her own people.
+in the direction of the [[house]] of her own people.
 
 Mr. John Hume got out of his chair more quickly than was his wont and
 
@@ -3727,7 +3727,7 @@ when the figure in white had risen tottering and turned to plunge down
 
 the [[motifs/hill|hill]], the white face and the furious gesture of malediction were
 
-turned, not towards the assailant, but towards the house of the Governor.
+turned, not towards the assailant, but towards the [[house]] of the Governor.
 
 The tutor was frowning ponderously as he came again up the veranda steps,
 
@@ -3862,7 +3862,7 @@ istantanea di una forza schiacciante e sconvolgente, come quella di uno
 
 scimpanzé, la sorprese fino a strapparle un grido. Poi inciampò e corse, ma non
 
-in direzione della casa della sua gente.
+in direzione della [[house|casa]] della sua gente.
 
 Il signor John Hume si alzò dalla sedia più in fretta del suo solito e
 
@@ -3898,7 +3898,7 @@ quando la figura in bianco si fu rialzata barcollando e si voltò per precipitar
 
 la [[motifs/hill|collina]], il volto bianco e il gesto furioso di maledizione erano
 
-rivolti non verso l'aggressore, ma verso la casa del Governatore.
+rivolti non verso l'aggressore, ma verso la [[house|casa]] del Governatore.
 
 Il precettore aggrottava pesantemente la fronte mentre risaliva i gradini della veranda,
 
@@ -4411,7 +4411,7 @@ shock, so that she almost cried aloud when she thought of it. Meanwhile
 
 the rest of her mind went round and round in the iron circle of all such
 
-logic from hell. She told herself again and again that she was being
+[[logic]] from hell. She told herself again and again that she was being
 
 morbid, and then told herself again and again that she was only morbid
 
@@ -4419,7 +4419,7 @@ because she was mad. But she was not in the least mad, she was only
 
 young, and thousands of young people go through such a phase of
 
-nightmare, and nobody knows or helps.
+[[nightmare]], and nobody knows or helps.
 
 But she was moved with a curious impulse in the search for help, and it
 
@@ -4590,7 +4590,7 @@ Shock, tanto che quasi gridò quando ci pensò. Nel frattempo…
 
 Il resto della sua mente continuava a girare in tondo, intrappolato in quel circolo vizioso di pensieri simili…
 
-logica infernale. Si ripeteva continuamente che stava agendo in modo razionale.
+[[logic|logica]] infernale. Si ripeteva continuamente che stava agendo in modo razionale.
 
 “Morbida… e poi si ripeteva ancora e ancora che era soltanto morbida.”
 
@@ -4598,7 +4598,7 @@ Perché era pazza… Ma in realtà non lo era affatto; era solo…
 
 giovani… e migliaia di giovani attraversano questa fase della loro vita.
 
-Un incubo, e nessuno lo sa né può aiutare.
+Un [[nightmare|incubo]], e nessuno lo sa né può aiutare.
 
 Ma fu spinta da un curioso impulso alla ricerca di aiuto… e così fece.
 
@@ -4764,7 +4764,7 @@ himself in any [[settings/london|London]] suburb, so regular were the ornamental
 
 so identical the porticos and the small front-[[motifs/garden|garden]] plots. Nothing but a
 
-number distinguished the house of the clergyman, and the entrance to it
+number distinguished the [[house]] of the clergyman, and the entrance to it
 
 was so prim and narrow that the group of guests from the Governorate had
 
@@ -4941,7 +4941,7 @@ di trovarsi in un qualsiasi sobborgo di [[settings/london|Londra]], tanto erano 
 
 tanto identici i portici e i piccoli [[motifs/garden|giardini]] antistanti. Nulla se non un
 
-numero distingueva la casa del pastore, e l'ingresso era
+numero distingueva la [[house|casa]] del pastore, e l'ingresso era
 
 così compassato e stretto che il gruppo di ospiti del Governatorato ebbe
 
@@ -5424,7 +5424,7 @@ of it the tutor dropped serenely from the wall.
 
 "If anybody cares to go and look," he said, "I think he will find the
 
-demonstration of my innocence-not indeed of shooting the Governor, but of
+demonstration of my [[innocence]]-not indeed of shooting the Governor, but of
 
 wanting to shoot him anywhere else but where I did shoot him."
 
@@ -5472,7 +5472,7 @@ In fact, I am a Moderate Murderer."
 
 "And what the blazes may that be?"
 
-"The philosophy of moderation in murder," continued the tutor blandly,
+"The [[philosophy]] of moderation in murder," continued the tutor blandly,
 
 "is one to which I have given some little attention. I was saying only
 
@@ -5633,7 +5633,7 @@ di essa il precettore scese serenamente dal muro.
 
 "Se qualcuno ha voglia di andare a guardare," disse, "credo che troverà la
 
-dimostrazione della mia innocenza: non certo di aver sparato al Governatore, ma di
+dimostrazione della mia [[innocence|innocenza]]: non certo di aver sparato al Governatore, ma di
 
 aver voluto colpirlo in un punto diverso da quello in cui l'ho colpito."
 
@@ -5681,7 +5681,7 @@ Anzi, sono un Assassino Moderato."
 
 "E che diamine sarebbe mai?"
 
-"La filosofia della moderazione nell'omicidio," proseguì blandamente il precettore,
+"La [[philosophy|filosofia]] della moderazione nell'omicidio," proseguì blandamente il precettore,
 
 "è una a cui ho dedicato una certa attenzione. Dicevo proprio
 
@@ -5878,7 +5878,7 @@ there were some [[concepts/truth|truth]] in the theory of the Moderate Murderer.
 
 On the other hand, Sir Harry Smythe, usually so much more good-humoured
 
-with his family, seemed to be in an increasingly bad humour. The dark red
+with his family, seemed to be in an increasingly bad [[Humour|humour]]. The dark red
 
 of his complexion deepened, until by contrast there was something almost
 
@@ -5950,7 +5950,7 @@ country with coercion acts and punitive expeditions, until his impulsive
 
 militarism had been a little moderated by the arrival of Tallboys with a
 
-compromise from the [[motifs/home|home]] Government. Tallboys was still alive and even,
+compromise from the [[motifs/home|home]] [[government|Government]]. Tallboys was still alive and even,
 
 in a modified manner, kicking. But he was probably still under doctor's
 
@@ -6053,7 +6053,7 @@ ci fosse un po' di [[concepts/truth|verità]] nella teoria dell'Assassino Modera
 
 D'altra parte Sir Harry Smythe, di solito tanto più affabile
 
-con la famiglia, sembrava di umore sempre peggiore. Il rosso scuro
+con la famiglia, sembrava di [[Humour|umore]] sempre peggiore. Il rosso scuro
 
 della sua carnagione si fece più intenso, finché per contrasto ci fu qualcosa di quasi
 
@@ -6125,7 +6125,7 @@ paese con leggi coercitive e spedizioni punitive, finché il suo impulsivo
 
 militarismo non era stato un poco moderato dall'arrivo di Tallboys con un
 
-compromesso del Governo della [[motifs/home|madrepatria]]. Tallboys era ancora vivo e perfino,
+compromesso del [[government|Governo]] della [[motifs/home|madrepatria]]. Tallboys era ancora vivo e perfino,
 
 in maniera attenuata, scalpitante. Ma probabilmente era ancora agli ordini del
 
@@ -6178,7 +6178,7 @@ with a cry like the [[motifs/wind|wind]] and there was a fight and I found out t
 
 could hate and that I could [[motifs/love|love]]. Two miracles on one [[motifs/night|night]]. Don't you
 
-think that must have been a dream-that is supposing you weren't a dream
+think that must have been [[A Dream|a dream]]-that is supposing you weren't [[A Dream|a dream]]
 
 and could think anything? But I did rather [[concepts/hope|hope]] you were real then."
 
@@ -6224,7 +6224,7 @@ before. I don't want to talk to anybody else now."
 
 He sprang to his feet; something like an earthquake had shaken him at
 
-last out of his long petrified incredulity about happiness. He caught her
+last out of his long petrified [[Incredulity|incredulity]] about happiness. He caught her
 
 by both hands and words came out of him he had never dreamed were within.
 
@@ -6353,7 +6353,7 @@ con un grido simile al [[motifs/wind|vento]] e ci fu una lotta e scoprii che
 
 potevo odiare e che potevo [[motifs/love|amare]]. Due miracoli in una sola [[motifs/night|notte]]. Non
 
-pensi che debba essere stato un sogno—sempre che tu non fossi un sogno
+pensi che debba essere stato [[A Dream|un sogno]]—sempre che tu non fossi [[A Dream|un sogno]]
 
 e potessi pensare qualcosa? Ma allora [[concepts/hope|speravo]] davvero che tu fossi reale."
 
@@ -6399,7 +6399,7 @@ prima d'ora. E adesso non voglio parlare con nessun altro."
 
 Balzò in piedi; qualcosa di simile a un terremoto lo aveva scosso
 
-finalmente fuori dalla sua lunga, pietrificata incredulità sulla felicità. Le prese
+finalmente fuori dalla sua lunga, pietrificata [[Incredulity|incredulità]] sulla felicità. Le prese
 
 entrambe le mani e da lui uscirono parole che non aveva mai sognato di avere dentro.
 
@@ -6544,7 +6544,7 @@ corner. I waited a moment and saw that people were coming out of the last
 
 houses to pick him up. I did the only thing I really regret. I had a
 
-vague idea the house by the sycamore was empty, so I threw the gun over
+vague idea the [[house]] by the sycamore was empty, so I threw the gun over
 
 the wall into the [[motifs/garden|garden]], and nearly got that poor old ass of a parson
 
@@ -6600,7 +6600,7 @@ see their plans frustrated.
 
 "The other point is more personal, especially to you. You once told me
 
-you feared for the family sanity, merely because you had bad [[motifs/dreams|dreams]] and
+you feared for the family [[Sanity|sanity]], merely because you had bad [[motifs/dreams|dreams]] and
 
 brooded over things of your own [[concepts/imagination|imagination]]. Believe me, it's not the
 
@@ -6671,7 +6671,7 @@ angolo. Attesi un momento e vidi che la gente usciva dalle ultime
 
 case per raccoglierlo. Feci l'unica cosa di cui mi pento davvero. Avevo la
 
-vaga idea che la casa presso il sicomoro fosse vuota, così gettai la pistola oltre
+vaga idea che la [[house|casa]] presso il sicomoro fosse vuota, così gettai la pistola oltre
 
 il muro nel [[motifs/garden|giardino]], e per poco non misi nei guai quel povero vecchio somaro di un
 
@@ -6727,7 +6727,7 @@ vedere frustrati i propri piani.
 
 «L'altro punto è più personale, soprattutto per te. Una volta mi dicesti
 
-che temevi per la sanità mentale della famiglia, solo perché facevi brutti [[motifs/dreams|sogni]] e
+che temevi per la [[Sanity|sanità]] mentale della famiglia, solo perché facevi brutti [[motifs/dreams|sogni]] e
 
 rimuginavi su cose della tua stessa [[concepts/imagination|immaginazione]]. Credimi, non sono le
 
@@ -6779,7 +6779,7 @@ I THE PROLOGUE OF THE TREE
 
 MR. WALTER WINDRUSH, the eminent and eccentric painter and poet, lived in
 
-[[settings/london|London]] and had a curious tree in his back [[motifs/garden|garden]]. This alone would not
+[[settings/london|London]] and had a curious tree in his back [[motifs/garden|garden]]. This [[Alone|alone]] would not
 
 have provoked the preposterous events narrated here. Many persons,
 
@@ -6833,7 +6833,7 @@ nothing to prove it was not older than Stonehenge. It had never been
 
 planted in anybody's [[motifs/garden|garden]]. Everything else had been planted round it.
 
-The [[motifs/garden|garden]] and the [[motifs/garden|garden]] wall and the house had been planted round it.
+The [[motifs/garden|garden]] and the [[motifs/garden|garden]] wall and the [[house]] had been planted round it.
 
 The street had been planted round it; the suburb had been planted round
 
@@ -6847,7 +6847,7 @@ district where the urban expansion had been relatively recent and rapid,
 
 and it was not really so very long ago that the strange tree had stood
 
-alone on a windy and pathless heath.
+[[Alone|alone]] on a windy and pathless heath.
 
 The circumstances of its ultimate preservation or captivity were as
 
@@ -6959,7 +6959,7 @@ I IL PROLOGO DELL'ALBERO
 
 IL SIGNOR WALTER WINDRUSH, l'eminente ed eccentrico pittore e poeta, viveva a
 
-[[settings/london|Londra]] e aveva un curioso albero nel [[motifs/garden|giardino]] sul retro. Questo da solo non
+[[settings/london|Londra]] e aveva un curioso albero nel [[motifs/garden|giardino]] sul retro. Questo da [[Alone|solo]] non
 
 avrebbe provocato gli eventi assurdi qui narrati. Molte persone,
 
@@ -7013,7 +7013,7 @@ nulla che provasse che non fosse più antico di Stonehenge. Non era mai stato
 
 piantato nel [[motifs/garden|giardino]] di nessuno. Ogni altra cosa era stata piantata attorno a esso.
 
-Il [[motifs/garden|giardino]] e il muro del [[motifs/garden|giardino]] e la casa erano stati piantati attorno a esso.
+Il [[motifs/garden|giardino]] e il muro del [[motifs/garden|giardino]] e la [[house|casa]] erano stati piantati attorno a esso.
 
 La strada era stata piantata attorno a esso; il sobborgo era stato piantato attorno a
 
@@ -7027,7 +7027,7 @@ distretto dove l'espansione urbana era stata relativamente recente e rapida,
 
 e non era davvero passato poi così tanto tempo da quando lo strano albero si ergeva
 
-solitario su una brughiera ventosa e senza sentieri.
+[[Alone|solitario]] su una brughiera ventosa e senza sentieri.
 
 Le circostanze della sua ultima conservazione o prigionia furono le
 
@@ -7264,7 +7264,7 @@ claim in a [[motifs/desert|desert]]. The rest of his extraordinary enterprise wa
 
 more extraordinary for being comparatively ordinary. He built a small
 
-house on the land; he betook himself to habits of literary industry and
+[[house]] on the land; he betook himself to habits of literary industry and
 
 respectability which soon enabled him to turn it into a very presentable
 
@@ -7288,7 +7288,7 @@ rest of his [[concepts/history|history]], or of that part of his [[concepts/hist
 
 concerned with his moods of defiance and measures of defence in the face
 
-of so incongruous a deluge. He swore by all the Muses that if this
+of so incongruous a [[deluge]]. He swore by all the Muses that if this
 
 loathsome labyrinth of ugliness and vulgarity must indeed surround his
 
@@ -7451,7 +7451,7 @@ concessione in un [[motifs/desert|deserto]]. Il resto della sua straordinaria im
 
 più straordinario in quanto relativamente ordinario. Costruì una piccola
 
-casa sul terreno; si diede ad abitudini di operosità letteraria e di
+[[house|casa]] sul terreno; si diede ad abitudini di operosità letteraria e di
 
 rispettabilità che presto gli consentirono di trasformarla in una dimora di campagna
 
@@ -7475,7 +7475,7 @@ resto della sua [[concepts/history|storia]], o di quella parte della sua [[conce
 
 i suoi umori di sfida e le sue misure di difesa di fronte a
 
-un così incongruo diluvio. Giurò per tutte le Muse che se quell'
+un così incongruo [[deluge|diluvio]]. Giurò per tutte le Muse che se quell'
 
 odioso labirinto di bruttezza e volgarità doveva davvero circondare il suo
 
@@ -7670,7 +7670,7 @@ of Hanwell Asylum now. He must have escaped from there, I should think,
 
 to go stravaging up the middle of a modern [[motifs/road|road]] like that, and turning
 
-his back to admire the landscape, as if he were alone in the Sahara. Why,
+his back to admire the landscape, as if he were [[Alone|alone]] in the Sahara. Why,
 
 every reasonably modern village idiot knows that the motorists can't see
 
@@ -7849,7 +7849,7 @@ al Manicomio di Hanwell adesso. Dev'essere scappato di là, immagino,
 
 per andarsene a zonzo su per il mezzo di una [[motifs/road|strada]] moderna in quel modo, voltando
 
-la schiena per ammirare il paesaggio, come se fosse solo nel Sahara. Ma
+la schiena per ammirare il paesaggio, come se fosse [[Alone|solo]] nel Sahara. Ma
 
 ogni idiota di villaggio ragionevolmente moderno sa che gli automobilisti non possono vedere
 
@@ -7952,7 +7952,7 @@ became rather common. To all appearance, they met only to argue, and yet
 
 they were always meeting. For some reason or other, Dr. Judson was
 
-continually coming round to the poet's house on one pretext or another,
+continually coming round to the poet's [[house]] on one pretext or another,
 
 and the poet never failed in hospitality, though it had so strange a ring
 
@@ -8038,7 +8038,7 @@ not follow that they have no value."
 
 "But look here," the doctor would start in again, scowling painfully. "I
 
-don't see the value of it as art and poetry-let alone reason or sense.
+don't see the value of it as art and poetry-let [[Alone|alone]] reason or sense.
 
 What's the [[concepts/beauty|beauty]] of one dingy old tree stuck in the middle of bricks and
 
@@ -8125,7 +8125,7 @@ divennero piuttosto frequenti. A quanto pareva, si incontravano solo per litigar
 
 si incontravano di continuo. Per una ragione o per l'altra, il dottor Judson
 
-veniva continuamente alla casa del poeta con un pretesto o con un altro,
+veniva continuamente alla [[house|casa]] del poeta con un pretesto o con un altro,
 
 e il poeta non mancava mai di ospitalità, benché essa avesse un così strano suono
 
@@ -8211,7 +8211,7 @@ ne consegue che non abbiano valore.»
 
 «Ma senti un po'» ricominciava il medico, aggrottando dolorosamente le ciglia. «Non
 
-ne vedo il valore in quanto arte e poesia, e men che meno in quanto ragione o buon senso.
+ne vedo il valore in quanto arte e poesia, e [[Alone|men che meno]] in quanto ragione o buon senso.
 
 Che [[concepts/beauty|bellezza]] c'è in un solo squallido vecchio albero piantato in mezzo a mattoni e
 
@@ -8268,7 +8268,7 @@ old-fashioned. But she, he would assert, with more earnest appeal, ought
 
 to have more sympathy with the future and the new hopes of the world.
 
-Then he would leave the house boiling with protests and arguing with
+Then he would leave the [[house]] boiling with protests and arguing with
 
 invisible persons all the way [[motifs/home|home]]. For he really was a man profoundly
 
@@ -8370,7 +8370,7 @@ of Doone had cropped up in a disputed point. To explain how it had
 
 cropped up, and how it had come to seem so important, it is necessary to
 
-return once more (after the habit of Dr. Judson) to the house of the poet
+return once more (after the habit of Dr. Judson) to the [[house]] of the poet
 
 Windrush.
 
@@ -8443,7 +8443,7 @@ all'antica. Ma lei, asseriva, con più fervido appello, avrebbe
 
 dovuto avere più simpatia per il futuro e le nuove speranze del mondo.
 
-Poi lasciava la casa ribollendo di proteste e discutendo con
+Poi lasciava la [[house|casa]] ribollendo di proteste e discutendo con
 
 persone invisibili per tutta la strada verso [[motifs/home|casa]]. Poiché era davvero un uomo profondamente
 
@@ -8545,7 +8545,7 @@ di Doone era spuntato in un punto controverso. Per spiegare come fosse
 
 spuntato, e come fosse giunto a sembrare così importante, è necessario
 
-tornare ancora una volta (secondo l'abitudine del dottor Judson) alla casa del poeta
+tornare ancora una volta (secondo l'abitudine del dottor Judson) alla [[house|casa]] del poeta
 
 Windrush.
 
@@ -8634,7 +8634,7 @@ the books, but Wilmot had read the newspapers. This naturally gave Wilmot
 
 a great advantage in discussion before any modern cultivated audience.
 
-The debate had arisen out of a chance boast of the poet touching his
+The [[debate]] had arisen out of a chance boast of the poet touching his
 
 early experiments as a painter. He showed them some old rhythmic designs
 
@@ -8811,7 +8811,7 @@ i libri, ma Wilmot aveva letto i giornali. Questo naturalmente dava a Wilmot
 
 un gran vantaggio nella discussione davanti a qualunque moderno pubblico coltivato.
 
-Il dibattito era sorto da un casuale vanto del poeta a proposito dei suoi
+Il [[debate|dibattito]] era sorto da un casuale vanto del poeta a proposito dei suoi
 
 primi esperimenti come pittore. Egli mostrò loro certi vecchi disegni ritmici
 
@@ -8948,7 +8948,7 @@ met him years ago, but he would hardly remember me. An able man; but
 
 eccentric, very eccentric."
 
-Dr. John Judson came away from the house with a very thoughtful
+Dr. John Judson came away from the [[house]] with a very thoughtful
 
 expression and seemed to be revolving rather more than might have
 
@@ -8960,17 +8960,17 @@ thunderbolts of Doone, but he had a general and half-conscious tendency
 
 to drift in that direction in any case. And before his own intentions
 
-were clear, he found himself in front of the house and saw something
+were clear, he found himself in front of the [[house]] and saw something
 
 which brought him to a standstill, staring up at it with a sort of stolid
 
 suspicion. For some instants he stood quite motionless, then crossed the
 
-[[motifs/road|road]] with catlike swiftness and peered round the corner of the house.
+[[motifs/road|road]] with catlike swiftness and peered round the corner of the [[house]].
 
 [[motifs/night|Night]] had fallen and a large [[motifs/moon|moon]] painted everything with pale colours.
 
-The house or bungalow that the landscape-painter had originally built in
+The [[house]] or bungalow that the landscape-painter had originally built in
 
 an open landscape was now wedged in a row of villas, though it retained
 
@@ -8984,7 +8984,7 @@ it could be seen the high spiked walls of the [[motifs/garden|garden]] like the 
 
 walls of some pantomime [[motifs/prison|prison]]. Only one crack gave a green glimpse of
 
-the enclosed shrubbery, where, on one side of the house, was a high
+the enclosed shrubbery, where, on one side of the [[house]], was a high
 
 narrow gate of a lattice pattern, which was always kept locked; but
 
@@ -9064,11 +9064,11 @@ authority, for being in Windrush's [[motifs/garden|garden]]."
 
 And with that the mystic neighbour appeared to melt into the shadows,
 
-presumably eventually vanishing into his own house next door, and Dr.
+presumably eventually vanishing into his own [[house]] next door, and Dr.
 
 Judson turned abruptly and, walking up to the front door of the Windrush
 
-house, furiously rang the bell.
+[[house]], furiously rang the bell.
 
 Mr. Windrush was not at [[motifs/home|home]]. He had gone out to some grand banquet of
 
@@ -9123,7 +9123,7 @@ incontrato anni fa, ma difficilmente si ricorderà di me. Un uomo capace; ma
 
 eccentrico, molto eccentrico.»
 
-Il dottor John Judson si allontanò dalla casa con un'espressione molto
+Il dottor John Judson si allontanò dalla [[house|casa]] con un'espressione molto
 
 pensierosa e pareva rimuginare assai più di quanto
 
@@ -9135,17 +9135,17 @@ fulmini di Doone, ma aveva una tendenza generale e semiconsapevole
 
 a lasciarsi comunque andare in quella direzione. E prima che le proprie intenzioni
 
-gli fossero chiare, si ritrovò davanti alla casa e vide qualcosa
+gli fossero chiare, si ritrovò davanti alla [[house|casa]] e vide qualcosa
 
 che lo inchiodò sul posto, a fissarla con una sorta di ottusa
 
 sospettosità. Per qualche istante restò del tutto immobile, poi attraversò la
 
-[[motifs/road|strada]] con agilità felina e sbirciò dietro l'angolo della casa.
+[[motifs/road|strada]] con agilità felina e sbirciò dietro l'angolo della [[house|casa]].
 
 Era calata la [[motifs/night|notte]] e una grande [[motifs/moon|luna]] tingeva ogni cosa di colori pallidi.
 
-La casa o bungalow che il paesaggista aveva originariamente costruito in
+La [[house|casa]] o bungalow che il paesaggista aveva originariamente costruito in
 
 un paesaggio aperto era ora incastrata in una fila di villette, benché conservasse
 
@@ -9159,7 +9159,7 @@ di essa si scorgevano gli alti muri irti di punte del [[motifs/garden|giardino]]
 
 di una [[motifs/prison|prigione]] da pantomima. Una sola fenditura offriva uno scorcio verde
 
-dell'arbusteto racchiuso, dove, su un lato della casa, c'era un alto
+dell'arbusteto racchiuso, dove, su un lato della [[house|casa]], c'era un alto
 
 e stretto cancello a graticcio, tenuto sempre chiuso a chiave; ma
 
@@ -9239,11 +9239,11 @@ autorità possibile, per trovarmi nel [[motifs/garden|giardino]] di Windrush.»
 
 E con ciò il mistico vicino parve dissolversi nell'ombra,
 
-per svanire presumibilmente, alla fine, nella propria casa accanto, e il dottor
+per svanire presumibilmente, alla fine, nella propria [[house|casa]] accanto, e il dottor
 
 Judson si voltò di scatto e, avvicinandosi alla porta d'ingresso della
 
-casa dei Windrush, suonò furiosamente il campanello.
+[[house|casa]] dei Windrush, suonò furiosamente il campanello.
 
 Il signor Windrush non era in [[motifs/home|casa]]. Era uscito per qualche gran banchetto di
 
@@ -9300,7 +9300,7 @@ just jumped over a wall, or somehow went into his [[motifs/garden|garden]]?"
 
 "I'm awfully sorry," she said in a wavering voice, "but if you came into
 
-his [[motifs/garden|garden]], you wouldn't ever come again into his house."
+his [[motifs/garden|garden]], you wouldn't ever come again into his [[house]]."
 
 Judson sprang to his feet and she felt somehow that the last click had
 
@@ -9322,15 +9322,15 @@ naturally thought of your authority or your father's authority. But, of
 
 course, it's just possible . . . Here, wait a minute. . . . I'll let you
 
-know later.. . . Your father will forbid me the house! Will he?"
+know later.. . . Your father will forbid me the [[house]]! Will he?"
 
 And with that, this far from soothing medical practitioner bolted from
 
-the house as abruptly as he had come into it. It struck her that he must
+the [[house]] as abruptly as he had come into it. It struck her that he must
 
 have a remarkable bedside manner.
 
-Enid dined alone, very thoughtfully revolving very complex and even
+Enid dined [[Alone|alone]], very thoughtfully revolving very complex and even
 
 contradictory criticisms of this extraordinary young man. Then her
 
@@ -9338,7 +9338,7 @@ thoughts went off to her father and his very different sort of
 
 unconventionality, and something led her to make her way to his study and
 
-studio at the back of the house, jutting out into the [[motifs/garden|garden]]. Here were
+studio at the back of the [[house]], jutting out into the [[motifs/garden|garden]]. Here were
 
 the large scrawled canvases with the unfinished sketches about which the
 
@@ -9352,7 +9352,7 @@ intelligence, and could no more see anything to quarrel about in such
 
 things than she could see metaphysics in a wallpaper or morals in a
 
-Turkey carpet. But the atmosphere of debate disturbed her, partly because
+Turkey carpet. But the atmosphere of [[debate]] disturbed her, partly because
 
 it disturbed her father, and she looked rather moodily out of the trench
 
@@ -9388,7 +9388,7 @@ the faces of friends change in a bad dream. John Judson came close up to
 
 the closed [[motifs/window|window]] and spoke, but she could not hear what he said. All
 
-nightmare was in that soundless moving mouth against that invisible film.
+[[nightmare]] was in that soundless moving mouth against that invisible film.
 
 It was as if he were dumb like a fish, floating up to a porthole, and his
 
@@ -9441,7 +9441,7 @@ saltassi semplicemente un muro, o in qualche modo entrassi nel suo [[motifs/gard
 
 «Mi dispiace terribilmente», disse lei con voce tremula, «ma se entrasse nel
 
-suo [[motifs/garden|giardino]], non tornerebbe mai più nella sua casa.»
+suo [[motifs/garden|giardino]], non tornerebbe mai più nella sua [[house|casa]].»
 
 Judson balzò in piedi e lei sentì in qualche modo che l'ultimo scatto era
 
@@ -9463,15 +9463,15 @@ naturalmente pensai alla sua autorità o a quella di suo padre. Ma, certo,
 
 è anche possibile... Ecco, aspetti un momento... Le farò
 
-sapere più tardi... Suo padre mi vieterà la casa! Non è vero?»
+sapere più tardi... Suo padre mi vieterà la [[house|casa]]! Non è vero?»
 
 E con ciò questo tutt'altro che rassicurante professionista della medicina schizzò via dalla
 
-casa con la stessa bruschezza con cui vi era entrato. Le venne da pensare che dovesse
+[[house|casa]] con la stessa bruschezza con cui vi era entrato. Le venne da pensare che dovesse
 
 avere modi mirabili al capezzale.
 
-Enid cenò sola, rimuginando assai pensierosa critiche molto complesse e persino
+Enid cenò [[Alone|sola]], rimuginando assai pensierosa critiche molto complesse e persino
 
 contraddittorie su quello straordinario giovane. Poi i suoi
 
@@ -9479,7 +9479,7 @@ pensieri corsero al padre e al suo genere del tutto diverso di
 
 anticonformismo, e qualcosa la spinse a incamminarsi verso lo studio e
 
-atelier sul retro della casa, che sporgeva nel [[motifs/garden|giardino]]. Qui c'erano
+atelier sul retro della [[house|casa]], che sporgeva nel [[motifs/garden|giardino]]. Qui c'erano
 
 le grandi tele scarabocchiate con gli schizzi incompiuti su cui
 
@@ -9493,7 +9493,7 @@ sana, e non riusciva a vedere qualcosa su cui litigare in tali
 
 cose più di quanto potesse vedere metafisica in una carta da parati o morale in un
 
-tappeto turco. Ma l'atmosfera di discussione la turbava, in parte perché
+tappeto turco. Ma l'atmosfera di [[debate|discussione]] la turbava, in parte perché
 
 turbava suo padre, e guardò piuttosto imbronciata fuori dalle
 
@@ -9529,7 +9529,7 @@ i volti degli amici mutano in un brutto sogno. John Judson si accostò
 
 alla [[motifs/window|finestra]] chiusa e parlò, ma lei non poté udire ciò che disse. Tutto
 
-l'incubo era in quella bocca che si muoveva senza suono contro quella pellicola invisibile.
+l'[[nightmare|incubo]] era in quella bocca che si muoveva senza suono contro quella pellicola invisibile.
 
 Era come se fosse muto come un pesce, che risale a un oblò, e il suo
 
@@ -9624,7 +9624,7 @@ wanted to live in a tree like a monkey?"
 
 painful business; but the hypothesis clearly covers the facts. Why should
 
-he wish always to be alone with the tree, unless his dealings with it
+he wish always to be [[Alone|alone]] with the tree, unless his dealings with it
 
 were more [[concepts/grotesque|grotesque]] than seemed suitable to his social dignity?--you know
 
@@ -9740,7 +9740,7 @@ with the lecture.
 
 "The attempt to render the variation of branches by simultaneous
 
-ambidextrous action leads to a dissociation of cerebral unity and
+ambidextrous action leads to a dissociation of cerebral [[unity]] and
 
 continuity, a breach of responsible moral control and co-ordinated
 
@@ -9807,7 +9807,7 @@ voluto vivere su un albero come una scimmia?»
 
 penosa; ma l'ipotesi copre chiaramente i fatti. Perché mai dovrebbe
 
-voler stare sempre solo con l'albero, se non perché i suoi rapporti con esso
+voler stare sempre [[Alone|solo]] con l'albero, se non perché i suoi rapporti con esso
 
 erano più [[concepts/grotesque|grotteschi]] di quanto si convenisse alla sua dignità sociale?... lei sa
 
@@ -9923,7 +9923,7 @@ la conferenza.
 
 «Il tentativo di rendere la variazione dei rami mediante un'azione
 
-ambidestra simultanea porta a una dissociazione dell'unità cerebrale e della
+ambidestra simultanea porta a una dissociazione dell'[[unity|unità]] cerebrale e della
 
 continuità, a una rottura del controllo morale responsabile e di una coordinata
 
@@ -9948,7 +9948,7 @@ mountebank?" she cried in a tempest of indescribable fury. "Do you think
 
 I don't know why you're trying to make out my father isn't responsible?
 
-Because I told you he could turn you out of the house . . because ..."
+Because I told you he could turn you out of the [[house]] . . because ..."
 
 The pale lips seemed to move as if with a grin of agony: "And why should
 
@@ -9962,7 +9962,7 @@ stiff as a corpse and then suddenly the corpse came to life.
 
 "Yes!" he cried, leaping up. "You are right! It is you. It is you all the
 
-[[motifs/time|time]]! How can I leave you alone with him? You must believe me! I tell you
+[[motifs/time|time]]! How can I leave you [[Alone|alone]] with him? You must believe me! I tell you
 
 the man is mad." He cried out suddenly in a new and ringing voice: "I
 
@@ -9976,7 +9976,7 @@ that for the first [[motifs/time|time]] something broke or wavered in her hard v
 
 she could only say: "If it is me you are thinking about, you must leave
 
-him alone."
+him [[Alone|alone]]."
 
 And with that a sort of stony detachment suddenly settled back upon him
 
@@ -9990,11 +9990,11 @@ have a duty to the public."
 
 And then, in the [[motifs/silence|silence]] that followed, they both heard the sounds which
 
-could alone, perhaps, have aroused them from their dumb mutual defiance.
+could [[Alone|alone]], perhaps, have aroused them from their dumb mutual defiance.
 
 A long, light and swinging step was heard down the corridors, and the
 
-light humming of some post-prandial song, told Enid with sufficient
+light humming of some post-prandial [[Song|song]], told Enid with sufficient
 
 clearness who had returned, and the next moment Walter Windrush stood in
 
@@ -10012,7 +10012,7 @@ festivity faded from his face.
 
 voice.
 
-"Then you will kindly walk out of my house," said the [[archetypes/artist|artist]].
+"Then you will kindly walk out of my [[house]]," said the [[archetypes/artist|artist]].
 
 He had turned pale with anger or some other passion, but he spoke clearly
 
@@ -10026,9 +10026,9 @@ checked as he made it. But his voice broke out of him like something
 
 beyond his control.
 
-"You say I am to go out of this house. I say it is you who shall go out
+"You say I am to go out of this [[house]]. I say it is you who shall go out
 
-of this house!"
+of this [[house]]!"
 
 Then, as if grinding his teeth, he added with what seemed inconceivable
 
@@ -10052,7 +10052,7 @@ a part of a sleepless [[motifs/night|night]], when she stood on the doorstep and
 
 wildly up and down the street, as if expecting her neighbours to rescue
 
-her from a house on [[motifs/fire|fire]]. And there crept upon her the cold certainty,
+her from a [[house]] on [[motifs/fire|fire]]. And there crept upon her the cold certainty,
 
 more cruel than any [[motifs/fire|fire]], that in this sort of calamity there was no [[concepts/hope|hope]]
 
@@ -10060,7 +10060,7 @@ from neighbours, nor any appeal against the [[motifs/machine|machine]] of modern
 
 She saw a policeman standing near the next lamp-post, outside the next
 
-house. She thought of calling to the policeman, as if to save her from a
+[[house]]. She thought of calling to the policeman, as if to save her from a
 
 burglar, and then she realized that she might as [[motifs/well|well]] call to the
 
@@ -10131,7 +10131,7 @@ saltimbanco?» gridò lei in una tempesta d'indescrivibile furore. «Crede
 
 che io non sappia perché sta cercando di far passare mio padre per irresponsabile?
 
-Perché le ho detto che poteva cacciarla dalla casa... perché...»
+Perché le ho detto che poteva cacciarla dalla [[house|casa]]... perché...»
 
 Le labbra pallide parvero muoversi come in un ghigno d'agonia: «E perché mai
 
@@ -10145,7 +10145,7 @@ rigido come un cadavere e poi d'un tratto il cadavere prese vita.
 
 «Sì!» gridò, balzando in piedi. «Ha ragione! È lei. È lei per tutto il
 
-[[motifs/time|tempo]]! Come posso lasciarla sola con lui? Deve credermi! Le dico
+[[motifs/time|tempo]]! Come posso lasciarla [[Alone|sola]] con lui? Deve credermi! Le dico
 
 che quell'uomo è pazzo.» Gridò all'improvviso con una voce nuova e squillante: «Giuro
 
@@ -10159,7 +10159,7 @@ che per la prima [[motifs/time|volta]] qualcosa si spezzò o vacillò nella sua 
 
 ella poté solo dire: «Se è a me che sta pensando, deve lasciarlo
 
-in pace.»
+[[Alone|in pace]].»
 
 E con ciò una sorta di distacco pietroso si ricalò d'un tratto su di lui
 
@@ -10173,11 +10173,11 @@ un dovere verso il pubblico.»
 
 E poi, nel [[motifs/silence|silenzio]] che seguì, entrambi udirono i suoni che
 
-soli, forse, potevano destarli dalla loro muta reciproca sfida.
+[[Alone|soli]], forse, potevano destarli dalla loro muta reciproca sfida.
 
 Un passo lungo, leggero e ondeggiante si udì lungo i corridoi, e il
 
-lieve canticchiare di qualche canzone postprandiale disse a Enid con sufficiente
+lieve canticchiare di qualche [[Song|canzone]] postprandiale disse a Enid con sufficiente
 
 chiarezza chi era tornato, e un istante dopo Walter Windrush comparve nella
 
@@ -10195,7 +10195,7 @@ festosità svanì dal suo volto.
 
 sommessa.
 
-«Allora avrà la cortesia di uscire dalla mia casa», disse l'[[archetypes/artist|artista]].
+«Allora avrà la cortesia di uscire dalla mia [[house|casa]]», disse l'[[archetypes/artist|artista]].
 
 Era impallidito per la collera o qualche altra passione, ma parlò con chiarezza
 
@@ -10209,9 +10209,9 @@ trattenne mentre lo faceva. Ma la voce gli proruppe come qualcosa
 
 fuori dal suo controllo.
 
-«Lei dice che io devo uscire da questa casa. Io dico che è lei che uscirà
+«Lei dice che io devo uscire da questa [[house|casa]]. Io dico che è lei che uscirà
 
-da questa casa!»
+da questa [[house|casa]]!»
 
 Poi, come digrignando i denti, aggiunse con quella che parve inconcepibile
 
@@ -10235,7 +10235,7 @@ una parte di una [[motifs/night|notte]] insonne, quando stette sulla soglia e gu
 
 sperduta su e giù per la strada, come aspettandosi che i vicini la salvassero
 
-da una casa in [[motifs/fire|fiamme]]. E le strisciò addosso la fredda certezza,
+da una [[house|casa]] in [[motifs/fire|fiamme]]. E le strisciò addosso la fredda certezza,
 
 più crudele di qualsiasi [[motifs/fire|fuoco]], che in questo genere di calamità non c'era [[concepts/hope|speranza]]
 
@@ -10243,7 +10243,7 @@ nei vicini, né alcun appello contro la [[motifs/machine|Macchina]] dell'oppress
 
 Vide un poliziotto in piedi presso il lampione accanto, davanti alla
 
-casa accanto. Pensò di chiamare il poliziotto, come per salvarsi da un
+[[house|casa]] accanto. Pensò di chiamare il poliziotto, come per salvarsi da un
 
 ladro, e poi si rese conto che poteva [[motifs/well|benissimo]] chiamare il
 
@@ -10330,15 +10330,15 @@ policeman, as he went off: "There's one thing more I must make sure of.
 
 Unless I wire, things can go forward here as arranged."
 
-When she came back to her own house, she knew it was something worse than
+When she came back to her own [[house]], she knew it was something worse than
 
-a house of [[motifs/death|death]]. There was a black taxicab waiting outside it, which
+a [[house]] of [[motifs/death|death]]. There was a black taxicab waiting outside it, which
 
 made her think of a funeral, almost with envy. If she had known who was
 
 already in the taxicab, she might have stopped and made a scene in the
 
-street. As it was, she burst into the house and found two [[motifs/grave|grave]],
+street. As it was, she burst into the [[house]] and found two [[motifs/grave|grave]],
 
 dark-clad doctors sitting in the light of the bow-[[motifs/window|window]] in front, with a
 
@@ -10420,7 +10420,7 @@ impatience. But, even as they had turned away from him, Doone had signed
 
 the paper and Judson snatched it up with furious haste and ran out of the
 
-house.
+[[house]].
 
 And then she saw something that finally put him beyond pardon. For as he
 
@@ -10479,15 +10479,15 @@ poliziotto, allontanandosi: «C'è ancora una cosa di cui devo accertarmi.
 
 Se non telegrafo, qui le cose possono procedere come stabilito.»
 
-Quando tornò alla propria casa, seppe che era qualcosa di peggio di
+Quando tornò alla propria [[house|casa]], seppe che era qualcosa di peggio di
 
-una casa di [[motifs/death|morte]]. C'era un taxi nero in attesa davanti a essa, che
+una [[house|casa]] di [[motifs/death|morte]]. C'era un taxi nero in attesa davanti a essa, che
 
 le fece pensare a un funerale, quasi con invidia. Se avesse saputo chi era
 
 già dentro il taxi, forse si sarebbe fermata e avrebbe fatto una scenata nella
 
-strada. Così com'era, irruppe nella casa e trovò due [[motifs/grave|gravi]]
+strada. Così com'era, irruppe nella [[house|casa]] e trovò due [[motifs/grave|gravi]]
 
 medici vestiti di scuro seduti nella luce del [[motifs/window|bovindo]] sul davanti, con un
 
@@ -10569,7 +10569,7 @@ impazienza. Ma, proprio mentre si erano allontanati da lui, Doone aveva firmato
 
 il foglio e Judson lo afferrò con furiosa fretta e corse fuori dalla
 
-casa.
+[[house|casa]].
 
 E allora ella vide qualcosa che lo pose infine oltre ogni perdono. Poiché mentre
 
@@ -10616,7 +10616,7 @@ And her first feeling, under her last shock, was a primitive human
 
 feeling that for her isolation had come to an end. She had found
 
-something more crushing and complicated than she could carry alone, and
+something more crushing and complicated than she could carry [[Alone|alone]], and
 
 she must have a friend.
 
@@ -10626,7 +10626,7 @@ find a friend. She went to find a charlatan, a schemer, a [[concepts/grotesque|g
 
 mystagogue, a man who had done her and hers the most abominable wrong,
 
-and she found him just going into his own house, with the brass plate
+and she found him just going into his own [[house]], with the brass plate
 
 outside it. Something not to be formulated in words told her that, in
 
@@ -10680,7 +10680,7 @@ shoved him from under the car."
 
 "But on both occasions," she said, "you only jumped just in [[motifs/time|time]]."
 
-Then she went into the house alone; her mind was still stratified with
+Then she went into the [[house]] [[Alone|alone]]; her mind was still stratified with
 
 terror; the notion of her father as a monkey, as a lunatic, as something
 
@@ -10785,7 +10785,7 @@ E il suo primo sentimento, sotto quell'ultimo colpo, fu un primitivo sentimento
 
 umano: che per lei l'isolamento era giunto al termine. Aveva trovato
 
-qualcosa di più schiacciante e complicato di quanto potesse portare da sola, e
+qualcosa di più schiacciante e complicato di quanto potesse portare [[Alone|da sola]], e
 
 doveva avere un amico.
 
@@ -10795,7 +10795,7 @@ cercare un amico. Andò a cercare un ciarlatano, un intrigante, un [[concepts/gr
 
 mistagogo, un uomo che aveva fatto a lei e ai suoi il torto più abominevole,
 
-e lo trovò proprio mentre entrava nella propria casa, con la targa d'ottone
+e lo trovò proprio mentre entrava nella propria [[house|casa]], con la targa d'ottone
 
 sul davanti. Qualcosa d'impossibile a formularsi in parole le diceva che, in
 
@@ -10849,7 +10849,7 @@ spinse via da sotto l'automobile.»
 
 «Ma in entrambe le occasioni», disse lei, «lei ha saltato giusto in [[motifs/time|tempo]].»
 
-Poi entrò nella casa da sola; la sua mente era ancora stratificata di
+Poi entrò nella [[house|casa]] [[Alone|da sola]]; la sua mente era ancora stratificata di
 
 terrore; l'idea del padre come una scimmia, come un pazzo, come qualcosa di
 
@@ -10970,7 +10970,7 @@ he was certainly justified by what he found, though nobody would ever
 
 have guessed it."
 
-"What he found," said the doctor, "was the skeleton of a man, stuffed
+"What he found," said the doctor, "was the [[skeleton]] of a man, stuffed
 
 into the hollow of the tree, evidently having been there for a long [[motifs/time|time]],
 
@@ -11151,7 +11151,7 @@ l'autorità della legge.»
 
 immaginato.»
 
-«Ciò che ha trovato», disse il dottore, «era lo scheletro di un uomo, cacciato
+«Ciò che ha trovato», disse il dottore, «era lo [[skeleton|scheletro]] di un uomo, cacciato
 
 nella cavità dell'albero, evidentemente lì da molto [[motifs/time|tempo]],
 
@@ -11768,9 +11768,9 @@ round and get him to sign it, too."
 
 In the track of the headlong Judson, they trailed round with tolerable
 
-rapidity to that stately and pillared house in the West End, the house
+rapidity to that stately and pillared [[house]] in the West End, the [[house]]
 
-with the sombre blinds, which the doctor had once visited alone. The
+with the sombre blinds, which the doctor had once visited [[Alone|alone]]. The
 
 scene between him and the stately Dr. Doone was rather curious. Now that
 
@@ -11834,7 +11834,7 @@ completely comprehend the [[archetypes/monster|monster]] called a Man of Genius.
 
 Indeed, he was much less affected by the morbid memories than the man of
 
-common sense. When he had strolled about alone for a few moments, he was
+common sense. When he had strolled about [[Alone|alone]] for a few moments, he was
 
 joined by his young friend the doctor, but the doctor looked
 
@@ -11955,7 +11955,7 @@ Alla ricerca del precipitoso Judson, lo seguirono con relativa calma…
 
 La rapidità con cui si raggiunse quella maestosa casa con le colonne nel West End, quella casa.
 
-Con quelle tende scure, che il dottore aveva visitato una volta da solo. Le.
+Con quelle tende scure, che il dottore aveva visitato una volta [[Alone|da solo]]. Le.
 
 La scena tra lui e il maestoso Dottor Doone fu piuttosto curiosa… Ora che…
 
@@ -12109,7 +12109,7 @@ of St. Francis."
 
 There was a [[motifs/silence|silence]] and then the brooding Judson said: "After all, sir,
 
-it is damned extraordinary that you lived alone with this tree for twenty
+it is damned extraordinary that you lived [[Alone|alone]] with this tree for twenty
 
 years and never found what was inside it. I know it rotted to bones
 
@@ -12177,19 +12177,19 @@ way, of course; but what did even Wilmot and Brandon get out of it, but
 
 the dreadful duty of dragging a fellow-creature to the gallows? It was
 
-useful to you, when you wanted a nonsensical nightmare of some sort, with
+useful to you, when you wanted a nonsensical [[nightmare]] of some sort, with
 
 which to lock me up for life and terrify my family. But it was a
 
-nightmare, and you yourself still seem to be a little haunted by the
+[[nightmare]], and you yourself still seem to be a little haunted by the
 
-nightmare. But I repeat that it was useless to me, and I am still in the
+[[nightmare]]. But I repeat that it was useless to me, and I am still in the
 
 broad daylight."
 
 As he spoke, Judson looked up across the lawn and saw Enid Windrush come
 
-out of the [[archetypes/shadow|shadow]] of the house into the sun. Something in the golden
+out of the [[archetypes/shadow|shadow]] of the [[house]] into the sun. Something in the golden
 
 balance of her figure, with the flushed face and flame-like radiation of
 
@@ -12277,13 +12277,13 @@ of musing, that was almost mystical, "but I thought you were the Angel of
 
 the Flaming [[works/sword-(chesterton)|Sword]]."
 
-"I have thrown away the sword," said Enid Windrush.
+"I have thrown away the [[Sword|sword]]," said Enid Windrush.
 
 "And left only the angel," he answered, and she rejoined: "Left only the
 
 woman."
 
-On the top of the once accursed tree a small bird burst into song, and at
+On the top of the once accursed tree a small bird burst into [[Song|song]], and at
 
 the same moment a great morning [[motifs/wind|wind]] from the south rushed upon the
 
@@ -12344,7 +12344,7 @@ di san Francesco."
 
 Ci fu un [[motifs/silence|silenzio]] e poi Judson, meditabondo, disse: "Dopo tutto, signore,
 
-è maledettamente straordinario che lei sia vissuto solo con quest'albero per vent'
+è maledettamente straordinario che lei sia vissuto [[Alone|solo]] con quest'albero per vent'
 
 anni senza mai scoprire che cosa ci fosse dentro. So che si ridusse a ossa
 
@@ -12412,19 +12412,19 @@ senso, naturalmente; ma che cosa ne ricavarono perfino Wilmot e Brandon, se non
 
 il terribile dovere di trascinare un proprio simile alla forca? Fu
 
-utile a lei, quando le occorreva un incubo insensato di qualche specie, con
+utile a lei, quando le occorreva un [[nightmare|incubo]] insensato di qualche specie, con
 
 cui rinchiudermi a vita e terrorizzare la mia famiglia. Ma era un
 
-incubo, e lei stesso sembra ancora un poco perseguitato da quel
+[[nightmare|incubo]], e lei stesso sembra ancora un poco perseguitato da quel
 
-incubo. Ma ripeto che a me fu inutile, e io sono ancora nella
+[[nightmare|incubo]]. Ma ripeto che a me fu inutile, e io sono ancora nella
 
 piena luce del giorno."
 
 Mentre parlava, Judson alzò lo sguardo oltre il prato e vide Enid Windrush uscire
 
-dall'[[archetypes/shadow|ombra]] della casa nel sole. Qualcosa nell'aureo
+dall'[[archetypes/shadow|ombra]] della [[house|casa]] nel sole. Qualcosa nell'aureo
 
 equilibrio della sua figura, col volto acceso e l'irradiazione fiammeggiante
 
@@ -12510,15 +12510,15 @@ che egli fosse il Serpente."
 
 di fantasticheria, quasi mistico, "ma pensavo che lei fosse l'Angelo della
 
-Spada Fiammeggiante."
+[[Sword|Spada]] Fiammeggiante."
 
-"Ho gettato via la spada", disse Enid Windrush.
+"Ho gettato via la [[Sword|spada]]", disse Enid Windrush.
 
 "E ha lasciato soltanto l'angelo", rispose lui, e lei ribatté: "Lasciato soltanto la
 
 donna."
 
-In cima all'albero un tempo maledetto un piccolo uccello proruppe in canto, e nello
+In cima all'albero un tempo maledetto un piccolo uccello proruppe in [[Song|canto]], e nello
 
 stesso istante un grande [[motifs/wind|vento]] mattutino da sud si riversò sul
 
@@ -12610,7 +12610,7 @@ simply himself, but he could afford every luxury. He could afford the
 
 luxury of having the Honourable Millicent [[historical-references/milton|Milton]] as private secretary.
 
-She was the daughter of a decayed aristocratic house, with which he had
+She was the daughter of a decayed aristocratic [[house]], with which he had
 
 been on superficially friendly terms, as they lived in the same
 
@@ -12702,7 +12702,7 @@ worked hard at mathematics, and when he was at Cambridge at economics.
 
 From this it was but one wild leap to the study of politics and social
 
-[[concepts/reform|reform]]; and from this came the grand bust-up in the House of Nubs and
+[[concepts/reform|reform]]; and from this came the grand bust-up in the [[house|House]] of Nubs and
 
 Jacob's wrath, to Nadoway's the direful [[motifs/spring|spring]]. Norman had begun by
 
@@ -12782,7 +12782,7 @@ semplicemente, ma poteva permettersi ogni lusso. Poteva permettersi il
 
 lusso di avere l'onorevole Millicent [[historical-references/milton|Milton]] come segretaria privata.
 
-Era figlia di una decaduta casata aristocratica, con la quale egli era
+Era figlia di una decaduta [[house|casata]] aristocratica, con la quale egli era
 
 in rapporti superficialmente cordiali, poiché abitavano nello stesso
 
@@ -12874,7 +12874,7 @@ lavorò sodo di matematica, e quando fu a Cambridge di economia.
 
 Di lì fu un solo balzo temerario allo studio della politica e della
 
-[[concepts/reform|riforma]] sociale; e di qui venne il gran finimondo nella Casa dei Nub e
+[[concepts/reform|riforma]] sociale; e di qui venne il gran finimondo nella [[house|Casa]] dei Nub e
 
 l'ira di Giacobbe, per i Nadoway funesta [[motifs/spring|primavera]]. Norman aveva cominciato
 
@@ -12921,9 +12921,9 @@ had intended. Indeed, it was a rather puzzling interview.
 
 It took place in old Jacob's study, which looked out through round
 
-bow-windows at 'The Lawns', after which the house was still named. It was
+bow-windows at 'The Lawns', after which the [[house]] was still named. It was
 
-a very Victorian house, of the sort that would have been described at the
+a very Victorian [[house]], of the sort that would have been described at the
 
 [[motifs/time|time]] as built by Philistines for Philistines. There was a great deal of
 
@@ -12941,7 +12941,7 @@ In short, it was the sort of comfortable Victorian [[motifs/home|home]] that was
 
 as very vulgar by the aesthetes of that period. Mr. Matthew Arnold would
 
-have passed the house with a gentle sigh. Mr. John Ruskin would have
+have passed the [[house]] with a gentle sigh. Mr. John Ruskin would have
 
 recoiled in horror and called down curses from heaven on it, from a
 
@@ -12951,7 +12951,7 @@ passed, about the sort of architecture that was only upholstery. But I am
 
 not so sure about Mr. Sacheverall Sitwell. We have reached a [[motifs/time|time]] when
 
-the curved windows and canopied porticoes of that house have begun to
+the curved windows and canopied porticoes of that [[house]] have begun to
 
 take on something of a dreamy glamour of distance. And I am not sure that
 
@@ -13085,7 +13085,7 @@ striping the grey-green lawns with dark shadows. She had always been
 
 puzzled by the fact that there seemed to be something romantic about the
 
-[[motifs/garden|garden]] and even the [[concepts/grotesque|grotesque]] house, which was inhabited by such highly
+[[motifs/garden|garden]] and even the [[concepts/grotesque|grotesque]] [[house]], which was inhabited by such highly
 
 prosaic people. She was already outside the glass doors and in the
 
@@ -13111,9 +13111,9 @@ would be every bit as wicked as going on in the old way."
 
 now. I shall not go on much longer."
 
-But Millicent [[historical-references/milton|Milton]] was staring at the dark house in a new fit of
+But Millicent [[historical-references/milton|Milton]] was staring at the dark [[house]] in a new fit of
 
-mystification. The two brothers had ignored and slurred over, with
+[[Mystification|mystification]]. The two brothers had ignored and slurred over, with
 
 something resembling skill, a certain phrase used by their father. But
 
@@ -13172,7 +13172,7 @@ Aveva intenzione di farlo. In effetti, è stata un'intervista piuttosto enigmati
 
 Si svolse nello studio di vecchio Jacob, da cui si poteva ammirare il panorama attraverso una finestra rotonda
 
-Le finestre ad arco di “The Lawns”; è così che ancora oggi il casa viene chiamata. Era.
+Le finestre ad arco di “The Lawns”; è così che ancora oggi il [[house|casa]] viene chiamata. Era.
 
 In una casa molto vittoriana, di quel tipo che si sarebbe potuto descrivere all’epoca.
 
@@ -13192,7 +13192,7 @@ In breve, si trattava di quel tipo di confortevole casa vittoriana che veniva co
 
 “Ritenuto estremamente volgare dagli esteti di quel periodo… Il signor Matthew Arnold lo definiva…”
 
-È passata davanti alla casa con un sospiro dolce. Il signor John Ruskin l’avrebbe apprezzato molto.
+È passata davanti alla [[house|casa]] con un sospiro dolce. Il signor John Ruskin l’avrebbe apprezzato molto.
 
 Ritrassesi inorridito e maledisse quell’oggetto con tutte le forze del cielo.
 
@@ -13203,7 +13203,7 @@ Architettura che consisteva soltanto in imbottiture… Ma io…
 
 Non sono molto sicuro riguardo al signor Sacheverall Sitwell. Abbiamo raggiunto un [[motifs/time|momento]] in cui.
 
-Le finestre curve e i portici coperti di quel casa hanno iniziato a.
+Le finestre curve e i portici coperti di quel [[house|casa]] hanno iniziato a.
 
 “Assume una sorta di fascino sognante, legato alla distanza… E non sono sicuro che…”
 
@@ -13337,7 +13337,7 @@ Per il contrasto tra la grande luce della [[motifs/moon|luna]] che sorgeva dietr
 
 “Perplesso dal fatto che sembrasse esserci qualcosa di romantico in tutto ciò…”
 
-Il [[motifs/garden|giardino]] e persino la [[concepts/grotesque|grottesca]] casa, abitata da persone così strane.
+Il [[motifs/garden|giardino]] e persino la [[concepts/grotesque|grottesca]] [[house|casa]], abitata da persone così strane.
 
 Persone prosaiche… Lei era già fuori dalle porte di vetro, nel…
 
@@ -13365,7 +13365,7 @@ Ora, non continuerò molto a lungo.
 
 Ma Millicent [[historical-references/milton|Milton]] stava fissando quella casa buia, colta da un nuovo attacco di.
 
-mistero. I due fratelli avevano ignorato e tralasciato completamente quel dettaglio.
+[[Mystification|mistero]]. I due fratelli avevano ignorato e tralasciato completamente quel dettaglio.
 
 Qualcosa che assomiglia alla abilità… una certa frase utilizzata da loro padre. Ma…
 
@@ -13484,7 +13484,7 @@ that brooch thing there is yours, because it isn't. I didn't even get it
 
 out of this safe; let's say I lifted it off another family earlier in the
 
-evening. It's a pretty thing-sort of imitation fourteenth century, with
+evening. It's a pretty thing-sort of [[Imitation|imitation]] fourteenth century, with
 
 Amor Vincit Omnia on it. It's all very [[motifs/well|well]] to say that [[motifs/love|love]] conquers
 
@@ -13514,7 +13514,7 @@ extraordinary creature called the English Lady. You can pick her out in
 
 foreign hotels and pensions. The Prioress was nicer than most of those,
 
-but she's got all the marks; fussing about her little dogs; being
+but she's got all the marks; fussing about her little [[dogs]]; being
 
 particular about table-manners; not liking mice killed; the whole darned
 
@@ -13542,7 +13542,7 @@ begun to talk about English literature in the tones of her own class, her
 
 whole judgement was turned upside down, and she had a chaotic idea that
 
-he could not really be a criminal at all. In abstract logic, she would
+he could not really be a criminal at all. In abstract [[logic]], she would
 
 have been obliged to admit that it ought not to make any difference. In
 
@@ -13661,7 +13661,7 @@ che quella spilla lì è sua, perché non lo è. Non l'ho nemmeno tirata fuori
 
 da questa cassaforte; diciamo che l'ho sfilata a un'altra famiglia più presto, in
 
-serata. È una cosa graziosa, una specie di imitazione del Trecento, con
+serata. È una cosa graziosa, una specie di [[Imitation|imitazione]] del Trecento, con
 
 sopra Amor Vincit Omnia. Sta molto [[motifs/well|bene]] dire che l'[[motifs/love|amore]] vince
 
@@ -13691,7 +13691,7 @@ creatura quanto mai straordinaria chiamata la Signora Inglese. La si riconosce
 
 negli alberghi e nelle pensioni all'estero. La Priora era più simpatica di gran parte di quelle,
 
-ma ne ha tutti i segni: si affanna intorno ai suoi cagnolini; è
+ma ne ha tutti i segni: si affanna intorno ai suoi [[dogs|cagnolini]]; è
 
 pignola sulle maniere a tavola; non le piace che si uccidano i topi; tutta la benedetta
 
@@ -13719,7 +13719,7 @@ cominciato a parlare di letteratura inglese col tono della sua stessa classe, il
 
 suo giudizio si era capovolto per intero, e le era venuta l'idea caotica che
 
-quello non potesse essere affatto un criminale. In astratta logica, sarebbe
+quello non potesse essere affatto un criminale. In astratta [[logic|logica]], sarebbe
 
 stata costretta ad ammettere che ciò non avrebbe dovuto fare alcuna differenza. In
 
@@ -13796,7 +13796,7 @@ trait. The English Lady is brave; Edith Cavell was a type of the tribe.
 
 But there are other tribes now, and that sort of brooch generally belongs
 
-to the last sort of person for whom it was made. That alone would be a
+to the last sort of person for whom it was made. That [[Alone|alone]] would be a
 
 justification for the trade of burglary, which keeps things briskly in
 
@@ -13812,7 +13812,7 @@ straight away, at the expense of my professional profits. But why should
 
 some vulgar cockatoo of a sham Countess own a thing like that? We want
 
-more theft, house-breaking and highway robbery to shift and rearrange the
+more theft, [[house]]-breaking and highway robbery to shift and rearrange the
 
 furniture of society; to regroup-if you follow me-its goods and chattels,
 
@@ -14212,7 +14212,7 @@ adventure-an acceptance she could not fully explain even to herself. But
 
 somebody at least had shrieked, in a respectable manner, on hearing a
 
-house-breaker.
+[[house]]-breaker.
 
 The five people looked at each other and realized that, after that
 
@@ -14228,7 +14228,7 @@ left, which happened to be the apartments of Miss [[historical-references/milton
 
 glass from a remote [[motifs/window|window]] told the rest that the intruder had managed to
 
-burst out of the house and disappear in the darkness of the [[motifs/garden|garden]], and
+burst out of the [[house]] and disappear in the darkness of the [[motifs/garden|garden]], and
 
 they all, for varied and rather complex reasons, heaved their separate
 
@@ -14272,7 +14272,7 @@ asked questions of the other two brothers, but could get very little
 
 light on the situation. The acquisitive Alan had mockingly advised them
 
-to examine the house for the traces of his depredations. But he must have
+to examine the [[house]] for the traces of his depredations. But he must have
 
 conducted them with great secrecy and selection, for nobody seemed sure
 
@@ -14290,7 +14290,7 @@ turned them over as he was turning the [[motifs/leaves|leaves]] of the tree near
 
 perch.
 
-"Another way to burgle a house," he said, in a clear distant voice like a
+"Another way to burgle a [[house]]," he said, in a clear distant voice like a
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -14393,7 +14393,7 @@ dell'avventura... un'accettazione che neppure a se stessa sapeva del tutto spieg
 
 qualcuno almeno aveva strillato, in modo rispettabile, all'udire uno
 
-scassinatore.
+[[house|scassinatore]].
 
 Le cinque persone si guardarono e capirono che, dopo quello
 
@@ -14409,7 +14409,7 @@ sinistra, che per caso erano gli appartamenti della signorina [[historical-refer
 
 vetri da una [[motifs/window|finestra]] remota disse agli altri che l'intruso era riuscito a
 
-sfondare una via d'uscita dalla casa e a sparire nel buio del [[motifs/garden|giardino]], e
+sfondare una via d'uscita dalla [[house|casa]] e a sparire nel buio del [[motifs/garden|giardino]], e
 
 tutti, per motivi svariati e alquanto complessi, tirarono i loro distinti
 
@@ -14453,7 +14453,7 @@ a fare qualche domanda agli altri due fratelli, ma non riuscì a cavare molta
 
 luce sulla situazione. L'avido Alan aveva ironicamente consigliato loro
 
-di esaminare la casa alla ricerca delle tracce delle sue depredazioni. Ma doveva averle
+di esaminare la [[house|casa]] alla ricerca delle tracce delle sue depredazioni. Ma doveva averle
 
 condotte con grande segretezza e selezione, perché nessuno pareva sicuro
 
@@ -14471,7 +14471,7 @@ li rivoltava come lui rivoltava le [[motifs/leaves|foglie]] dell'albero più vic
 
 trespolo.
 
-«Un altro modo per svaligiare una casa,» disse, con voce chiara e lontana come quella di un
+«Un altro modo per svaligiare una [[house|casa]],» disse, con voce chiara e lontana come quella di un
 
 
 
@@ -14870,7 +14870,7 @@ official, but they did it as a regular matter of duty. And all this [[motifs/tim
 
 and especially on that last stretch of homeward voyage, I was singing to
 
-myself a song as old as the world: Coelum non animam-"By the waters of
+myself a [[Song|song]] as old as the world: Coelum non animam-"By the waters of
 
 Babylon"-or, in other words, of all things the worst is [[concepts/exile|exile]], and it
 
@@ -14878,7 +14878,7 @@ will be [[motifs/well|well]] with a man in his own [[motifs/home|home]]. After a
 
 escapes I stepped on to the dock in Liverpool, as a schoolboy enters his
 
-father's house on the first day of the Christmas holidays. I had
+father's [[house]] on the first day of the Christmas holidays. I had
 
 forgotten that I had practically no money, and I asked a man to give or
 
@@ -14970,7 +14970,7 @@ of it, is a rather curious word. And what is the other?"
 
 her friend, Lady Crayle. She was naturally disturbed about what had
 
-happened in our own house, and it seems that something happened about an
+happened in our own [[house]], and it seems that something happened about an
 
 hour earlier at the Crayles."
 
@@ -15047,7 +15047,7 @@ burocratici, ma lo fecero come un regolare dovere. E per tutto questo [[motifs/t
 
 e specialmente in quell'ultimo tratto del viaggio verso casa, cantavo tra
 
-me e me una canzone antica quanto il mondo: Coelum non animam... "Sui fiumi di
+me e me una [[Song|canzone]] antica quanto il mondo: Coelum non animam... "Sui fiumi di
 
 Babilonia"... ossia, in altre parole, di tutte le cose la peggiore è l'[[concepts/exile|esilio]], e sarà
 
@@ -15055,7 +15055,7 @@ Babilonia"... ossia, in altre parole, di tutte le cose la peggiore è l'[[concep
 
 pelo, misi piede sul molo di Liverpool come uno scolaretto varca la
 
-casa di suo padre il primo giorno delle vacanze di Natale. Avevo
+[[house|casa]] di suo padre il primo giorno delle vacanze di Natale. Avevo
 
 dimenticato di non avere praticamente denaro, e chiesi a un uomo di darmene o
 
@@ -15147,7 +15147,7 @@ bene, è una parola piuttosto curiosa. E qual è l'altro?»
 
 sua amica, Lady Crayle. Era naturalmente turbata per quel che era
 
-accaduto nella nostra stessa casa, e pare che qualcosa sia accaduto circa un'
+accaduto nella nostra stessa [[house|casa]], e pare che qualcosa sia accaduto circa un'
 
 ora prima dai Crayle.»
 
@@ -15230,7 +15230,7 @@ job, or a fellow out of the street whom we have simply to hand over to
 
 the police? But, by God, you can't be both."
 
-Alan's eyes roamed round the family house and [[motifs/garden|garden]] and rested for a
+Alan's eyes roamed round the family [[house]] and [[motifs/garden|garden]] and rested for a
 
 moment on Millicent, with a certain expression of pathos. Then he sat
 
@@ -15270,7 +15270,7 @@ which a man need not hide."
 
 attempt at joviality and general [[concepts/reconciliation|reconciliation]]. "Must be a perfect
 
-nightmare always getting into the wrong house at the wrong end, something
+[[nightmare]] always getting into the wrong [[house]] at the wrong end, something
 
 like putting on your trousers upside down. It'll pay you better really,
 
@@ -15310,7 +15310,7 @@ There was a startled [[motifs/silence|silence]] and then Norman said in a contro
 
 "It would be of some importance to me to know that this is a joke. I will
 
-risk my reputation for humour."
+risk my reputation for [[Humour|humour]]."
 
 "Joke," said Alan, with an absent-minded air. "Joke.... Oh, no, it isn't
 
@@ -15326,7 +15326,7 @@ in three minutes and I will not call the policeman down the [[motifs/road|road]]
 
 And with that he turned his back and strode away followed by his other
 
-sons, and Alan remained standing alone by the [[motifs/garden|garden]] seat, and he might
+sons, and Alan remained standing [[Alone|alone]] by the [[motifs/garden|garden]] seat, and he might
 
 have been a statue in the [[motifs/garden|garden]].
 
@@ -15415,7 +15415,7 @@ lavoro, oppure un tale della strada che dobbiamo semplicemente consegnare alla
 
 polizia? Ma, perbacco, non puoi essere entrambi.»
 
-Gli occhi di Alan vagarono per la casa e per il [[motifs/garden|giardino]] di famiglia e si posarono per un
+Gli occhi di Alan vagarono per la [[house|casa]] e per il [[motifs/garden|giardino]] di famiglia e si posarono per un
 
 istante su Millicent, con una certa espressione di pathos. Poi si
 
@@ -15455,7 +15455,7 @@ in cui un uomo non ha bisogno di nascondersi.»
 
 tentativo di giovialità e di generale [[concepts/reconciliation|riconciliazione]]. «Dev'essere un vero e proprio
 
-incubo entrare sempre nella casa sbagliata dalla parte sbagliata, un po'
+[[nightmare|incubo]] entrare sempre nella [[house|casa]] sbagliata dalla parte sbagliata, un po'
 
 come infilarsi i pantaloni al contrario. Ti renderà di più davvero,
 
@@ -15495,7 +15495,7 @@ Ci fu un [[motifs/silence|silenzio]] sbigottito e poi Norman disse con voce cont
 
 «Sarebbe per me di una certa importanza sapere che questo è uno scherzo. Rischierò
 
-la mia reputazione di uomo di spirito.»
+la mia reputazione di uomo di [[Humour|spirito]].»
 
 «Scherzo,» disse Alan, con aria distratta. «Scherzo... Oh, no, non è
 
@@ -15511,7 +15511,7 @@ in tre minuti e non chiamerò il poliziotto giù per la [[motifs/road|strada]].�
 
 E con ciò voltò le spalle e si allontanò a grandi passi seguito dagli altri
 
-figli, e Alan rimase in piedi solo accanto alla panchina del [[motifs/garden|giardino]], e avrebbe
+figli, e Alan rimase in piedi [[Alone|solo]] accanto alla panchina del [[motifs/garden|giardino]], e avrebbe
 
 potuto essere una statua nel [[motifs/garden|giardino]].
 
@@ -15618,17 +15618,17 @@ him anything of which he could make any sort of sense.
 
 So far as he could piece it out from his notes, it was something like
 
-this. She was sure there had been a burglary in Mr. Nadoway's house,
+this. She was sure there had been a burglary in Mr. Nadoway's [[house]],
 
 where she and her niece were staying, and that they were keeping it from
 
 her, so that she might not find out she had been robbed. She was sure the
 
-burglary was at the Nadoways' house, because property belonging to young
+burglary was at the Nadoways' [[house]], because property belonging to young
 
-Mr. Nadoway had been found after a burglary at another house. The other
+Mr. Nadoway had been found after a burglary at another [[house]]. The other
 
-house was Lady Crayle's house, and the burglar must have gone there from
+[[house]] was Lady Crayle's [[house]], and the burglar must have gone there from
 
 the Nadoways, taking the Nadoway things with him and then dropping them
 
@@ -15650,7 +15650,7 @@ First he steals something from somebody and [[motifs/leaves|leaves]] it at Mr. N
 
 Then he steals something from Mr. Nadoway and [[motifs/leaves|leaves]] it at Lady Crayle's.
 
-Did he actually steal anything from Lady Crayle? And at whose house did
+Did he actually steal anything from Lady Crayle? And at whose [[house]] did
 
 he leave that?"
 
@@ -15728,11 +15728,11 @@ the Victorian lady scornfully. "Talk about her League Against Tobacco or
 
 her controversy about defining drugs, and she's all there. But she never
 
-notices anything that's lying about in her own house."
+notices anything that's lying about in her own [[house]]."
 
 "Does she notice her husband, for instance?" inquired Mr. Price. "Is he
 
-left lying about in the house much? I always understood he was a very
+left lying about in the [[house]] much? I always understood he was a very
 
 distinguished man in his day, and, of course, it's an awfully old family.
 
@@ -15801,17 +15801,17 @@ nulla di cui riuscisse a cavare un qualche senso.
 
 Per quanto egli riuscisse a ricostruire dai suoi appunti, era press'a poco
 
-questo. Era sicura che ci fosse stato un furto con scasso nella casa del signor Nadoway,
+questo. Era sicura che ci fosse stato un furto con scasso nella [[house|casa]] del signor Nadoway,
 
 dove lei e sua nipote alloggiavano, e che glielo tenessero nascosto,
 
 affinché non scoprisse di essere stata derubata. Era sicura che il
 
-furto fosse avvenuto alla casa dei Nadoway, perché una proprietà appartenente al giovane
+furto fosse avvenuto alla [[house|casa]] dei Nadoway, perché una proprietà appartenente al giovane
 
-signor Nadoway era stata trovata dopo un furto in un'altra casa. L'altra
+signor Nadoway era stata trovata dopo un furto in un'altra [[house|casa]]. L'altra
 
-casa era la casa di Lady Crayle, e il ladro doveva esserci andato dai
+[[house|casa]] era la [[house|casa]] di Lady Crayle, e il ladro doveva esserci andato dai
 
 Nadoway, portando con sé la roba dei Nadoway e poi lasciandola cadere
 
@@ -15833,7 +15833,7 @@ Prima ruba qualcosa a qualcuno e la [[motifs/leaves|lascia]] dal signor Nadoway.
 
 Poi ruba qualcosa al signor Nadoway e la [[motifs/leaves|lascia]] da Lady Crayle.
 
-Ha davvero rubato qualcosa a Lady Crayle? E in quale casa l'ha
+Ha davvero rubato qualcosa a Lady Crayle? E in quale [[house|casa]] l'ha
 
 lasciata?»
 
@@ -15911,11 +15911,11 @@ la dama vittoriana con disprezzo. «Parli della sua Lega contro il Tabacco o
 
 della sua polemica sulla definizione delle droghe, e c'è tutta. Ma non nota
 
-mai nulla di quel che giace in giro per la sua stessa casa.»
+mai nulla di quel che giace in giro per la sua stessa [[house|casa]].»
 
 «Nota suo marito, per esempio?» s'informò il signor Price. «Lo si
 
-lascia giacere molto in giro per la casa? Ho sempre inteso che fosse un uomo assai
+lascia giacere molto in giro per la [[house|casa]]? Ho sempre inteso che fosse un uomo assai
 
 illustre ai suoi tempi e, naturalmente, è una famiglia terribilmente antica.
 
@@ -15942,11 +15942,11 @@ bolted?"
 
 whole big case stuffed with them. But as it had a card of one of the
 
-Nadoways, we presume the burglar had stolen it from their house."
+Nadoways, we presume the burglar had stolen it from their [[house]]."
 
 "Quite so," he answered. "And now about the other things he had stolen
 
-from their house. I am sure you understand that, if I am to help you, I
+from their [[house]]. I am sure you understand that, if I am to help you, I
 
 must be excused for assuming a more or less confidential position. I
 
@@ -16115,11 +16115,11 @@ se la svignò?»
 
 grosso portasigari zeppo. Ma poiché conteneva il biglietto di uno dei
 
-Nadoway, presumiamo che il ladro l'avesse rubato dalla loro casa.»
+Nadoway, presumiamo che il ladro l'avesse rubato dalla loro [[house|casa]].»
 
 «Proprio così,» rispose lui. «E ora, riguardo alle altre cose che aveva rubato
 
-dalla loro casa. Sono certo che lei comprende che, se devo aiutarla, devo
+dalla loro [[house|casa]]. Sono certo che lei comprende che, se devo aiutarla, devo
 
 essere autorizzato ad assumere una posizione più o meno confidenziale.
 
@@ -16320,7 +16320,7 @@ John Nadoway left the offices of the [[archetypes/detective|detective]] with a s
 
 puzzled expression, which he continued to wear all the way down to his
 
-country house, which he reached that evening, driving his own car with
+country [[house]], which he reached that evening, driving his own car with
 
 his usual competence, but without any shedding of his unusual perplexity
 
@@ -16338,7 +16338,7 @@ stopping anywhere to think. But everything, down to the demeanour of that
 
 practical little private [[archetypes/detective|detective]], was so damned mysterious. Even the
 
-dark trees before his father's house seemed to stand up in serpentine
+dark trees before his father's [[house]] seemed to stand up in serpentine
 
 shapes like enormous notes of interrogation. The [[motifs/stars|stars]] looked like those
 
@@ -16346,9 +16346,9 @@ other [[motifs/stars|stars]] called asterisks, which stand in the suppressed pas
 
 puzzle or a cipher. And the single [[motifs/window|window]] lighted in the dark bulk of the
 
-house was like a leering eye. He knew only too [[motifs/well|well]] that a cloud of shame
+[[house]] was like a leering eye. He knew only too [[motifs/well|well]] that a cloud of shame
 
-and doom was on that house, like a thunder-cloud about to burst. It was
+and doom was on that [[house]], like a thunder-cloud about to burst. It was
 
 the sort of doom he had tried to avert all his life, and now it had come
 
@@ -16358,7 +16358,7 @@ In the [[archetypes/shadow|shadow]] of the veranda, with a sort of silent shock,
 
 Millicent, sitting in a [[motifs/garden|garden]] chair and gazing out into the dark. And in
 
-all that black and tragic house of riddles, perhaps her face was the
+all that black and tragic [[house]] of riddles, perhaps her face was the
 
 darkest and most inscrutable [[forms/riddle|riddle]], for it was happy.
 
@@ -16446,7 +16446,7 @@ too good to live."
 
 The Junior Partner resumed his plodding march with the new addition to
 
-his list of worries; that among the inmates of the house, was a lady who
+his list of worries; that among the inmates of the [[house]], was a lady who
 
 was a lunatic.
 
@@ -16495,7 +16495,7 @@ John Nadoway lasciò gli uffici dell'[[archetypes/detective|investigatore]] con 
 
 espressione perplessa, che continuò a portare per tutta la strada fino alla sua
 
-casa di campagna, dove giunse quella sera, guidando la propria automobile con
+[[house|casa]] di campagna, dove giunse quella sera, guidando la propria automobile con
 
 la sua consueta competenza, ma senza dismettere affatto la sua insolita perplessità
 
@@ -16513,7 +16513,7 @@ fermarsi da nessuna parte a pensare. Ma tutto, fin dal contegno di quel
 
 piccolo pratico [[archetypes/detective|investigatore]] privato, era così maledettamente misterioso. Persino gli
 
-alberi scuri davanti alla casa di suo padre parevano ergersi in forme
+alberi scuri davanti alla [[house|casa]] di suo padre parevano ergersi in forme
 
 serpentine come enormi punti interrogativi. Le [[motifs/stars|stelle]] somigliavano a quelle
 
@@ -16521,9 +16521,9 @@ altre [[motifs/stars|stelle]] chiamate asterischi, che stanno nei passi soppress
 
 rompicapo o di un cifrario. E l'unica [[motifs/window|finestra]] illuminata nella massa buia della
 
-casa era come un occhio sogghignante. Sapeva fin troppo [[motifs/well|bene]] che una nube di vergogna
+[[house|casa]] era come un occhio sogghignante. Sapeva fin troppo [[motifs/well|bene]] che una nube di vergogna
 
-e di rovina gravava su quella casa, come un nembo di tempesta sul punto di scoppiare. Era
+e di rovina gravava su quella [[house|casa]], come un nembo di tempesta sul punto di scoppiare. Era
 
 il genere di rovina che aveva cercato di scongiurare per tutta la vita, e ora che era
 
@@ -16533,7 +16533,7 @@ Nell'[[archetypes/shadow|ombra]] della veranda, con una sorta di silenzioso suss
 
 Millicent, seduta su una sedia da [[motifs/garden|giardino]] e con lo sguardo perso nel buio. E in
 
-tutta quella nera e tragica casa di enigmi, forse il suo viso era l'
+tutta quella nera e tragica [[house|casa]] di enigmi, forse il suo viso era l'
 
 [[forms/riddle|enigma]] più oscuro e più imperscrutabile, perché era felice.
 
@@ -16621,7 +16621,7 @@ troppo buono per vivere.»
 
 Il Socio Minore riprese la sua marcia arrancante con la nuova aggiunta al
 
-suo elenco di preoccupazioni: che tra i residenti della casa c'era una signora che
+suo elenco di preoccupazioni: che tra i residenti della [[house|casa]] c'era una signora che
 
 era una lunatica.
 
@@ -16666,7 +16666,7 @@ opened it in tones of stern regret. The prisoner was unfortunately the
 
 son of a great and distinguished family, the blot on the escutcheon of a
 
-noble, a generous and a philanthropic house. All were acquainted with the
+noble, a generous and a philanthropic [[house]]. All were acquainted with the
 
 great reforms in the conditions of employment which would always be
 
@@ -16716,7 +16716,7 @@ rippling monotone, without any apparent punctuation, as if it were not
 
 only all one sentence but all one word.
 
-"Acting on information received I followed the prisoner from the house of
+"Acting on information received I followed the prisoner from the [[house]] of
 
 the Rev. Norman Nadoway towards the Yperion Cinema Theatre at about a
 
@@ -16849,7 +16849,7 @@ la aprì in tono di severo rammarico. L'imputato era purtroppo il
 
 figlio di una grande e illustre famiglia, la macchia sullo stemma di una
 
-nobile, generosa e filantropica casata. Tutti conoscevano le
+nobile, generosa e filantropica [[house|casata]]. Tutti conoscevano le
 
 grandi riforme nelle condizioni dell'impiego che sarebbero sempre state
 
@@ -16899,7 +16899,7 @@ monotono gorgogliante, senza alcuna apparente punteggiatura, come se non fosse
 
 soltanto tutta una frase ma tutta una sola parola.
 
-«Agendo su informazione ricevuta seguii l'imputato dalla casa del
+«Agendo su informazione ricevuta seguii l'imputato dalla [[house|casa]] del
 
 reverendo Norman Nadoway verso il cinema-teatro Yperion a circa
 
@@ -17176,7 +17176,7 @@ for nothink, I daresay. But 'e didn't pay for nobody else's."
 
 "'Cos he brought back his usual wages and a bit more," said Mrs. Hamble,
 
-as if this alone were a sufficient grievance.
+as if this [[Alone|alone]] were a sufficient grievance.
 
 "This is all very puzzling," said the judge and leaned back in his chair.
 
@@ -17369,7 +17369,7 @@ gratis, immagino. Ma da bere agli altri non ha pagato di certo.»
 
 «Perché ha riportato a casa la paga solita e anche un po' di più,» disse la signora Hamble,
 
-come se questo solo fosse motivo sufficiente di lamentela.
+come se questo [[Alone|solo]] fosse motivo sufficiente di lamentela.
 
 «Tutto ciò è molto sconcertante,» disse il giudice, e si appoggiò allo schienale della poltrona.
 
@@ -17978,7 +17978,7 @@ to deliver him from that hell.
 
 congratulations, praise and publicity and popularity of the old firm, the
 
-old sound business traditions, and the sun of success high in heaven and
+old sound business traditions, and the sun of [[success]] high in heaven and
 
 glittering everywhere on one great ghastly whited sepulchre of human
 
@@ -17996,7 +17996,7 @@ loved my father.
 
 "He had been good to me when I was little, and when he was poorer and
 
-simpler, and as a boy I began by making [[archetypes/hero|hero]]-worship of his success. The
+simpler, and as a boy I began by making [[archetypes/hero|hero]]-worship of his [[success]]. The
 
 first great coloured advertisements were to me what coloured toy-books
 
@@ -18225,7 +18225,7 @@ a liberarlo da quell'inferno.
 
 congratulazioni, lodi e pubblicità e popolarità della vecchia ditta, le
 
-vecchie sane tradizioni commerciali, e il sole del successo alto in cielo e
+vecchie sane tradizioni commerciali, e il sole del [[success|successo]] alto in cielo e
 
 scintillante ovunque su un grande spaventoso sepolcro imbiancato dell'ipocrisia
 
@@ -18243,7 +18243,7 @@ amavo mio padre.
 
 «Era stato buono con me quand'ero piccolo, e quand'era più povero e
 
-più semplice, e da ragazzo cominciai col fare del suo successo un culto d'[[archetypes/hero|eroe]]. Le
+più semplice, e da ragazzo cominciai col fare del suo [[success|successo]] un culto d'[[archetypes/hero|eroe]]. Le
 
 prime grandi réclame a colori furono per me ciò che i libri illustrati per l'infanzia
 
@@ -18529,7 +18529,7 @@ The public crisis became acute in Pavonia with the appearance of the
 
 rather mysterious agitation about "The Word". To this day there are
 
-disputes about the [[concepts/nature|nature]] of the movement. Some of the government agents
+disputes about the [[concepts/nature|nature]] of the movement. Some of the [[government]] agents
 
 and inquirers swore the ignorant populace did really believe that, with
 
@@ -18555,7 +18555,7 @@ operations and an explanation of the whole organized strategy of the
 
 revolt. Some said the whole fancy had originated with one Bohemian poet,
 
-who signed his poems, "[[characters/sebastian|Sebastian]]", and had certainly composed a [[forms/lyric|lyric]]
+who signed his [[Poems|poems]], "[[characters/sebastian|Sebastian]]", and had certainly composed a [[forms/lyric|lyric]]
 
 invocation full of allusions to The Word. Many repeated the lines which
 
@@ -18563,7 +18563,7 @@ ran:
 
 As [[characters/aaron|Aaron]]'s serpent swallowed snakes and rods,
 
-As God alone is greater than the gods,
+As God [[Alone|alone]] is greater than the gods,
 
 As all [[motifs/stars|stars]] shrivel in the single sun,
 
@@ -18571,7 +18571,7 @@ The words are many, but The Word is one.
 
 But nobody in office ever saw the revolutionary poet who tossed these
 
-little trifles at the Government and the public; until he was identified
+little trifles at the [[government|Government]] and the public; until he was identified
 
 one day in the street by the very last person who was likely to meet him.
 
@@ -18655,7 +18655,7 @@ high cravat which was of a vivid sort of peacock-green. The colour of the
 
 cravat varied, however, from day to day; sometimes it was of a brighter
 
-green when the spirit of [[motifs/spring|spring]] inspired his songs; sometimes of purple
+green when the spirit of [[motifs/spring|spring]] inspired his [[songs]]; sometimes of purple
 
 when he was lamenting the rich [[forms/tragedy|tragedy]] of his loves; sometimes completely
 
@@ -18699,7 +18699,7 @@ with some modern intermediate types difficult to define. She came just in
 
 [[motifs/time|time]], however, to hear the end of the now familiar jingle or rhymed
 
-motto: "As God alone is greater than the gods, As all [[motifs/stars|stars]] shrivel in
+motto: "As God [[Alone|alone]] is greater than the gods, As all [[motifs/stars|stars]] shrivel in
 
 the single sun, The words are many, but The Word is one.
 
@@ -18825,7 +18825,7 @@ La crisi pubblica divenne acuta in Pavonia con l'apparizione della
 
 piuttosto misteriosa agitazione intorno a «La Parola». Ancor oggi vi sono
 
-dispute sulla [[concepts/nature|natura]] del movimento. Alcuni degli agenti del governo
+dispute sulla [[concepts/nature|natura]] del movimento. Alcuni degli agenti del [[government|governo]]
 
 e degli inquirenti giuravano che il popolino ignorante credeva davvero che, con
 
@@ -18851,7 +18851,7 @@ operazioni e una spiegazione dell'intera strategia organizzata della
 
 rivolta. Alcuni dicevano che tutta l'idea fosse nata da un poeta boemo,
 
-che firmava le sue poesie «[[characters/sebastian|Sebastian]]», e aveva certamente composto una [[forms/lyric|lirica]]
+che firmava le sue [[Poems|poesie]] «[[characters/sebastian|Sebastian]]», e aveva certamente composto una [[forms/lyric|lirica]]
 
 invocazione piena di allusioni alla Parola. Molti ripetevano i versi che
 
@@ -18859,7 +18859,7 @@ dicevano:
 
 Come il serpente d'[[characters/aaron|Aronne]] ingoiò serpi e verghe,
 
-Come Dio solo è più grande degli dèi,
+Come Dio [[Alone|solo]] è più grande degli dèi,
 
 Come ogni [[motifs/stars|stella]] si dissolve nell'unico sole,
 
@@ -18867,7 +18867,7 @@ Le parole son molte, ma la Parola è una.
 
 Ma nessuno in carica vide mai il poeta rivoluzionario che lanciava queste
 
-piccole inezie al Governo e al pubblico; finché non fu identificato
+piccole inezie al [[government|Governo]] e al pubblico; finché non fu identificato
 
 un giorno per strada dall'ultima persona che avesse probabilità d'incontrarlo.
 
@@ -18951,7 +18951,7 @@ cravatta che era di un vivido verde-pavone. Il colore della
 
 cravatta variava, tuttavia, di giorno in giorno; a volte era di un verde
 
-più brillante quando lo spirito della [[motifs/spring|primavera]] gl'ispirava i canti; a volte purpureo
+più brillante quando lo spirito della [[motifs/spring|primavera]] gl'ispirava i [[songs|canti]]; a volte purpureo
 
 quando lamentava la ricca [[forms/tragedy|tragedia]] dei suoi amori; a volte del tutto
 
@@ -18995,7 +18995,7 @@ con alcuni tipi intermedi moderni difficili da definire. Ella giunse giusto in
 
 [[motifs/time|tempo]], tuttavia, per udire la fine dell'ormai familiare cantilena o motto
 
-rimato: «Come Dio solo è più grande degli dèi, Come ogni [[motifs/stars|stella]] si dissolve
+rimato: «Come Dio [[Alone|solo]] è più grande degli dèi, Come ogni [[motifs/stars|stella]] si dissolve
 
 nell'unico sole, Le parole son molte, ma la Parola è una.
 
@@ -19154,7 +19154,7 @@ Council, by what might seem a professional, but is in these days a
 
 practical argument. A popular poet might set all the crowds in the
 
-streets singing his songs, and a learned man of European reputation might
+streets singing his [[songs]], and a learned man of European reputation might
 
 induce all the dons in the world to read his book. But the salary of the
 
@@ -19166,11 +19166,11 @@ unknown quantity that was frequently a minus quantity. You cannot make a
 
 modern revolution, or anything modern, without money. It was difficult to
 
-see how the poet and the professor managed to pay for the occasional
+see how the poet and [[The Professor|the professor]] managed to pay for the occasional
 
 leaflets they circulated or the printing of the poem about The Word; let
 
-alone for munitions or commissariat or soldiers' pay or anything that is
+[[Alone|alone]] for munitions or commissariat or soldiers' pay or anything that is
 
 necessary for the higher purposes of civil war. Mr. Simon, the financial
 
@@ -19325,7 +19325,7 @@ Consiglio, con quello che poteva parere un argomento professionale, ma che di qu
 
 argomento pratico. Un poeta popolare poteva mettere tutte le folle nelle
 
-strade a cantare i suoi canti, e un dotto di reputazione europea poteva
+strade a cantare i suoi [[songs|canti]], e un dotto di reputazione europea poteva
 
 indurre tutti gli accademici del mondo a leggere il suo libro. Ma lo stipendio del
 
@@ -19337,11 +19337,11 @@ quantità ignota che era spesso una quantità negativa. Non si può fare una
 
 rivoluzione moderna, né alcunché di moderno, senza denaro. Era difficile
 
-vedere come il poeta e il professore riuscissero a pagare gli occasionali
+vedere come il poeta e [[The Professor|il professore]] riuscissero a pagare gli occasionali
 
 volantini che diffondevano o la stampa del poema sulla Parola; per non
 
-dire di munizioni o vettovagliamento o paga dei soldati o di qualsiasi cosa sia
+[[Alone|dire]] di munizioni o vettovagliamento o paga dei soldati o di qualsiasi cosa sia
 
 necessaria per gli alti scopi della guerra civile. Il signor Simon, il
 
@@ -19428,7 +19428,7 @@ revolution."
 
 "It would have to be that or a super-cinema or something," assented
 
-Simon, "and that would explain the pamphlets and printed songs, and may
+Simon, "and that would explain the pamphlets and printed [[songs]], and may
 
 explain other things yet."
 
@@ -19458,7 +19458,7 @@ Majesty. Through a course of long and rather difficult inquiries, I have
 
 discovered that Lobb, the pawnbroker, did, about two years, ago,
 
-purchase, under another name, a small but comfortable house in Peacock
+purchase, under another name, a small but comfortable [[house]] in Peacock
 
 Crescent. I have set some of my men to watch it, and, according to their
 
@@ -19472,7 +19472,7 @@ but considerable secrecy, and do not appear to revisit it until the next
 
 little dinner of the kind. There seems to be no regular staff of
 
-servants, and the house is commonly shuttered and deserted, but a servant
+servants, and the [[house]] is commonly shuttered and deserted, but a servant
 
 of one or other of these people generally goes out about an hour before
 
@@ -19484,7 +19484,7 @@ catering for three or four people, but beyond that they profess to know
 
 nothing. The [[archetypes/detective|detective]], one of my best men, whom I have set to watch the
 
-house, says that the guests always arrive about dusk and very much
+[[house]], says that the guests always arrive about dusk and very much
 
 muffled up in cloaks and coats, but he says he could swear to three of
 
@@ -19546,13 +19546,13 @@ Their vigil had already been a long one. They had seen, from about the
 
 [[motifs/time|time]] of twilight and onward, the routine of the preliminaries which the
 
-police had already noted as marking the rare re-awakenings of the house;
+police had already noted as marking the rare re-awakenings of the [[house]];
 
 the servant in his sober livery going out at the regular hour and
 
 returning with a basket containing bottles of wine and other provisions;
 
-the sudden lighting-up of the dark house from within, or rather of the
+the sudden lighting-up of the dark [[house]] from within, or rather of the
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -19609,7 +19609,7 @@ rivoluzione.»
 
 «Dev'essere quello, o un super-cinema, o qualcosa del genere», convenne
 
-Simon, «e questo spiegherebbe gli opuscoli e le canzoni stampate, e può
+Simon, «e questo spiegherebbe gli opuscoli e le [[songs|canzoni]] stampate, e può
 
 spiegare anche altre cose.»
 
@@ -19639,7 +19639,7 @@ Maestà. Attraverso una serie di indagini lunghe e piuttosto difficili, ho
 
 scoperto che Lobb, il prestatore su pegno, circa due anni fa
 
-acquistò, sotto altro nome, una piccola ma comoda casa in Peacock
+acquistò, sotto altro nome, una piccola ma comoda [[house|casa]] in Peacock
 
 Crescent. Ho messo alcuni dei miei uomini a sorvegliarla e, secondo il loro
 
@@ -19653,7 +19653,7 @@ ma con notevole segretezza, e non paiono tornarvi fino alla successiva
 
 cenetta del genere. Non sembra esserci un servizio regolare di
 
-domestici, e la casa è di solito sprangata e deserta, ma un servitore
+domestici, e la [[house|casa]] è di solito sprangata e deserta, ma un servitore
 
 dell'una o dell'altra di queste persone esce di solito circa un'ora prima
 
@@ -19665,7 +19665,7 @@ per tre o quattro persone, ma oltre a ciò dichiarano di non sapere
 
 nulla. Il [[archetypes/detective|detective]], uno dei miei uomini migliori, che ho incaricato di sorvegliare la
 
-casa, dice che gli ospiti arrivano sempre verso l'imbrunire e molto
+[[house|casa]], dice che gli ospiti arrivano sempre verso l'imbrunire e molto
 
 imbacuccati in mantelli e cappotti, ma dice che potrebbe giurare su tre di
 
@@ -19727,13 +19727,13 @@ La loro veglia era già stata lunga. Avevano visto, all'incirca dal
 
 [[motifs/time|momento]] del crepuscolo in poi, la consueta trafila dei preliminari che la
 
-polizia aveva già annotato come segno dei rari risvegli della casa;
+polizia aveva già annotato come segno dei rari risvegli della [[house|casa]];
 
 il servitore nella sua sobria livrea che usciva all'ora consueta e
 
 tornava con un cesto contenente bottiglie di vino e altre provviste;
 
-l'improvviso illuminarsi dall'interno della casa buia, o piuttosto della
+l'improvviso illuminarsi dall'interno della [[house|casa]] buia, o piuttosto della
 
 
 
@@ -19786,13 +19786,13 @@ were rather long than otherwise but moving in a bent and crooked fashion
 
 like a grasshopper's. His passage across the [[motifs/road|road]] was so swift and
 
-surprising that the door of the house had opened to him and closed on him
+surprising that the door of the [[house]] had opened to him and closed on him
 
 again before the watchers had fully recovered from their first surprise.
 
 Then Simon looked at Grimm and said, with a faint smile: "The hurry is
 
-hospitality. That is the owner of the house."
+hospitality. That is the owner of the [[house]]."
 
 "Yes, I suppose that is the pawnbroker."
 
@@ -19804,11 +19804,11 @@ They talk about a rising of the poor, but they cannot even rise so long
 
 as they are poor. Why, these four men would have nowhere to meet like
 
-this, if Lobb had not bought the house for them."
+this, if Lobb had not bought the [[house]] for them."
 
 "I should be the last to deny that money is useful," answered Grimm, "but
 
-money alone won't make either a revolution or a realm."
+money [[Alone|alone]] won't make either a revolution or a realm."
 
 "My dear Grimm," said Simon, "I know you are an officer and a gentleman;
 
@@ -19838,9 +19838,9 @@ and the [[motifs/moon|moon]] gleamed for a moment on the green spectacles of Pro
 
 Phocus of the National Museum. He also disappeared rapidly into the
 
-hospitable house.
+hospitable [[house]].
 
-"That's the Professor," said Simon. "Perhaps, as he is so learned, he
+"That's [[The Professor|the Professor]]," said Simon. "Perhaps, as he is so learned, he
 
 will lecture to them on munitions."
 
@@ -19876,7 +19876,7 @@ even money won't make them. And somebody has got to teach them how. How
 
 are your revolutionary armies going to be drilled? Will Mr. [[characters/sebastian|Sebastian]]
 
-drill them to recite poems? Will Mr. Lobb drill them to fill in
+drill them to recite [[Poems|poems]]? Will Mr. Lobb drill them to fill in
 
 pawn-tickets?"
 
@@ -19886,13 +19886,13 @@ you had better ask him."
 
 This [[motifs/time|time]] it was unmistakable that the newcomer threw open the gate of
 
-the little [[motifs/garden|garden]] and crossed the [[motifs/road|road]] to the house. For [[characters/sebastian|Sebastian]] of the
+the little [[motifs/garden|garden]] and crossed the [[motifs/road|road]] to the [[house]]. For [[characters/sebastian|Sebastian]] of the
 
 purple beard and peacock scarf walked with a certain swagger, even when a
 
-conspirator apparently alone under the [[motifs/moon|moon]]; the gate closed behind him
+conspirator apparently [[Alone|alone]] under the [[motifs/moon|moon]]; the gate closed behind him
 
-with a ringing clash and even the door of the house seemed to open and
+with a ringing clash and even the door of the [[house]] seemed to open and
 
 shut again with a shade of greater pomposity.
 
@@ -19914,7 +19914,7 @@ council, and after a long interval, so long that they almost looked for
 
 [[motifs/dawn|dawn]] in the east, they heard the gate move once more and a tall figure
 
-approached the house. He was clad in a cape or cloak of grey that looked
+approached the [[house]]. He was clad in a cape or cloak of grey that looked
 
 silvery in the moonshine; and as it fell apart showed a gleam, and almost
 
@@ -19981,13 +19981,13 @@ erano piuttosto lunghe che no, ma si muovevano in modo piegato e storto
 
 come quelle di una cavalletta. Il suo passaggio attraverso la [[motifs/road|strada]] fu così rapido e
 
-sorprendente che la porta della casa gli si era aperta e richiusa alle spalle
+sorprendente che la porta della [[house|casa]] gli si era aperta e richiusa alle spalle
 
 prima che gli osservatori si fossero ripresi del tutto dalla prima sorpresa.
 
 Poi Simon guardò Grimm e disse, con un debole sorriso: «La fretta è
 
-ospitalità. Quello è il padrone della casa».
+ospitalità. Quello è il padrone della [[house|casa]]».
 
 «Sì, immagino che quello sia il prestatore su pegno».
 
@@ -19999,11 +19999,11 @@ Parlano di una sollevazione dei poveri, ma non possono nemmeno sollevarsi finch�
 
 sono poveri. Ma pensi, questi quattro uomini non avrebbero dove riunirsi
 
-così, se Lobb non avesse comprato la casa per loro».
+così, se Lobb non avesse comprato la [[house|casa]] per loro».
 
 «Sarei l'ultimo a negare che il denaro sia utile», rispose Grimm, «ma
 
-il denaro da solo non farà né una rivoluzione né un regno».
+il denaro da [[Alone|solo]] non farà né una rivoluzione né un regno».
 
 «Mio caro Grimm», disse Simon, «so che lei è un ufficiale e un gentiluomo;
 
@@ -20033,9 +20033,9 @@ e la [[motifs/moon|luna]] brillò per un attimo sugli occhiali verdi del profess
 
 Phocus del Museo Nazionale. Anche lui scomparve rapidamente nell'ospitale
 
-casa.
+[[house|casa]].
 
-«Ecco il Professore», disse Simon. «Forse, dato che è così dotto, terrà
+«Ecco [[The Professor|il Professore]]», disse Simon. «Forse, dato che è così dotto, terrà
 
 loro una conferenza sulle munizioni».
 
@@ -20071,7 +20071,7 @@ nemmeno il denaro li farà combattere. E qualcuno deve insegnare loro come. Come
 
 verranno addestrati i suoi eserciti rivoluzionari? Il signor [[characters/sebastian|Sebastian]]
 
-li addestrerà a recitare poesie? Il signor Lobb li addestrerà a compilare
+li addestrerà a recitare [[Poems|poesie]]? Il signor Lobb li addestrerà a compilare
 
 polizze di pegno?»
 
@@ -20081,13 +20081,13 @@ farà meglio a chiederlo a lui».
 
 Questa [[motifs/time|volta]] fu inequivocabile che il nuovo venuto spalancò il cancello
 
-del piccolo [[motifs/garden|giardino]] e attraversò la [[motifs/road|strada]] verso la casa. Perché [[characters/sebastian|Sebastian]] dalla
+del piccolo [[motifs/garden|giardino]] e attraversò la [[motifs/road|strada]] verso la [[house|casa]]. Perché [[characters/sebastian|Sebastian]] dalla
 
 barba viola e dalla sciarpa di pavone camminava con una certa spavalderia, anche da
 
-cospiratore apparentemente solo sotto la [[motifs/moon|luna]]; il cancello si chiuse dietro di lui
+cospiratore apparentemente [[Alone|solo]] sotto la [[motifs/moon|luna]]; il cancello si chiuse dietro di lui
 
-con uno schianto sonoro e persino la porta della casa parve aprirsi e
+con uno schianto sonoro e persino la porta della [[house|casa]] parve aprirsi e
 
 richiudersi con una sfumatura di maggiore pomposità.
 
@@ -20109,7 +20109,7 @@ quadrilatero, e dopo un lungo intervallo, così lungo che quasi cercarono
 
 l'[[motifs/dawn|alba]] a oriente, sentirono il cancello muoversi ancora una volta e una figura alta
 
-si avvicinò alla casa. Era avvolto in una mantella o un mantello grigio che appariva
+si avvicinò alla [[house|casa]]. Era avvolto in una mantella o un mantello grigio che appariva
 
 argenteo al chiaro di luna; e quando si aprì mostrò un barlume, e quasi
 
@@ -20158,7 +20158,7 @@ For Grimm had a special score to settle with the great General Case. He
 
 had suspected months before that there might be movements on the frontier
 
-and attempts of the revolutionary foreign government to make signals to
+and attempts of the revolutionary foreign [[government]] to make signals to
 
 the discontented classes in Pavonia. He had repeatedly pressed diplomatic
 
@@ -20194,7 +20194,7 @@ into private life. General Case was dangerously ill, but [[motifs/well|well]] en
 
 go out to dinner. By a curious coincidence, he was dining with the three
 
-men vowed to destroy the Government with which he professed to be at
+men vowed to destroy the [[government|Government]] with which he professed to be at
 
 peace. The Chief of Police ground his teeth and looked down the street
 
@@ -20214,11 +20214,11 @@ the leaders of the mob. At the worst, there was one thing that might save
 
 them yet. And that was the instant, sudden and simultaneous arrest of all
 
-the four men in that house, leaving the whole revolution without leaders.
+the four men in that [[house]], leaving the whole revolution without leaders.
 
 Grimm waited till his little troop of armed men had drawn up before the
 
-house and then cautiously advanced up the steps to the door. He had
+[[house]] and then cautiously advanced up the steps to the door. He had
 
 already made certain that similar groups were posted behind and on all
 
@@ -20242,7 +20242,7 @@ opened by the pale servant in livery, who had evidently received orders
 
 to delay the entrance of the police by every exhibition of stupidity and
 
-helplessness. With almost inconceivable absence of humour, he said that
+helplessness. With almost inconceivable absence of [[Humour|humour]], he said that
 
 his master and the company were engaged and could not see any visitors.
 
@@ -20298,7 +20298,7 @@ light had vanished from the [[motifs/window|window]] with the first blow upon th
 
 bolting for some other exit. Send the men down to the basement at once,
 
-and see that Hart is watching the house at the back. They can't be far
+and see that Hart is watching the [[house]] at the back. They can't be far
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -20329,7 +20329,7 @@ Perché Grimm aveva un conto speciale da regolare con il grande generale Case. A
 
 sospettato mesi prima che potessero esserci movimenti alla frontiera
 
-e tentativi del rivoluzionario governo straniero di mandare segnali
+e tentativi del rivoluzionario [[government|governo]] straniero di mandare segnali
 
 alle classi scontente della Pavonia. Aveva ripetutamente sollecitato per via diplomatica
 
@@ -20365,7 +20365,7 @@ a vita privata. Il generale Case era gravemente malato, ma stava abbastanza [[mo
 
 uscire a cena. Per una curiosa coincidenza, cenava con i tre
 
-uomini che avevano giurato di distruggere il Governo con cui professava di essere in
+uomini che avevano giurato di distruggere il [[government|Governo]] con cui professava di essere in
 
 pace. Il Capo della Polizia digrignò i denti e guardò lungo la strada
 
@@ -20385,11 +20385,11 @@ ai capi della folla. Nel peggiore dei casi, c'era una cosa che poteva ancora
 
 salvarli. Ed era l'arresto immediato, improvviso e simultaneo dei quattro
 
-uomini in quella casa, lasciando l'intera rivoluzione senza capi.
+uomini in quella [[house|casa]], lasciando l'intera rivoluzione senza capi.
 
 Grimm attese finché la sua piccola truppa di uomini armati si fu schierata davanti alla
 
-casa e poi avanzò cautamente su per i gradini fino alla porta. Si era
+[[house|casa]] e poi avanzò cautamente su per i gradini fino alla porta. Si era
 
 già assicurato che gruppi simili fossero appostati dietro e su tutti
 
@@ -20413,7 +20413,7 @@ aperta dal pallido domestico in livrea, che aveva evidentemente ricevuto ordine
 
 di ritardare l'ingresso della polizia con ogni esibizione di stupidità e
 
-impotenza. Con un'assenza quasi inconcepibile di umorismo, disse che
+impotenza. Con un'assenza quasi inconcepibile di [[Humour|umorismo]], disse che
 
 il suo padrone e la compagnia erano occupati e non potevano ricevere visitatori.
 
@@ -20469,7 +20469,7 @@ luce era svanita dalla [[motifs/window|finestra]] al primo colpo sulla porta.
 
 scappando da qualche altra uscita. Mandate subito gli uomini giù nel seminterrato,
 
-e badate che Hart sorvegli la casa sul retro. Non possono essere lontani
+e badate che Hart sorvegli la [[house|casa]] sul retro. Non possono essere lontani
 
 
 
@@ -20526,7 +20526,7 @@ While he was talking thus, apparently at random, he was thoroughly
 
 ransacking the room, leaving to his subordinates the ransacking of the
 
-house, and his frown was heavy though his tone was light.
+[[house]], and his frown was heavy though his tone was light.
 
 The ransacking of the room could for the present be only superficial, but
 
@@ -20544,15 +20544,15 @@ coloured with a dull, wavering pattern of an old-fashioned type. Of
 
 course, the four men might have gone out by the door of the room before
 
-their servant had opened the door of the house, but even so, it was not
+their servant had opened the door of the [[house]], but even so, it was not
 
 easy to say where they had gone to. For indeed the ransacking of the
 
-house had proved even more barren than the ransacking of the room; and
+[[house]] had proved even more barren than the ransacking of the room; and
 
 they were considerably surprised to find that there was so little of the
 
-house to ransack. There was no basement; there was only one narrow back
+[[house]] to ransack. There was no basement; there was only one narrow back
 
 door; there was only one other small room, like a smoking-room, at the
 
@@ -20622,7 +20622,7 @@ report to the Prime Minister and the [[archetypes/king|King]].
 
 Despite the swiftness with which Colonel Grimm had darted out of the rear
 
-of the house after the fugitives, he was brought up all standing at the
+of the [[house]] after the fugitives, he was brought up all standing at the
 
 corner of the next street, by an exhibition that affected him like an
 
@@ -20630,7 +20630,7 @@ explosion. The whole of the blank wall was plastered with new placards;
 
 so new that they might almost have been put there since the raid on the
 
-house; conceivably even flung behind as a last gesture of insolence by
+[[house]]; conceivably even flung behind as a last gesture of insolence by
 
 the runaway rebels, like the paper scattered by the hares in a
 
@@ -20703,7 +20703,7 @@ Mentre parlava in questo modo, apparentemente in modo casuale, in realtà stava 
 
 Frugando la stanza, lasciando ai suoi subordinati il compito di continuare a rovistare
 
->Casa, e la sua espressione era cupa, anche se il tono della voce era leggero.
+[[house|>Casa]], e la sua espressione era cupa, anche se il tono della voce era leggero.
 
 La perquisizione della stanza al momento può essere solo superficiale, ma…
 
@@ -20721,15 +20721,15 @@ Intitolato con un motivo scuro e ondulato, di tipo vecchio stile.
 
 In ogni caso, quei quattro uomini avrebbero potuto uscire dalla porta della stanza prima…
 
-Il loro servitore aveva aperto la porta della casa, ma comunque, non era ancora sufficiente.
+Il loro servitore aveva aperto la porta della [[house|casa]], ma comunque, non era ancora sufficiente.
 
 “Facile dire dove fossero andati… Infatti, il saccheggio della…”
 
-La casa si era rivelata ancora più desolata di quanto non lo fosse stata dopo il saccheggio della stanza; e.
+La [[house|casa]] si era rivelata ancora più desolata di quanto non lo fosse stata dopo il saccheggio della stanza; e.
 
 Furono piuttosto sorpresi nello scoprire che ce n’era così poco
 
-Una casa da saccheggiare. Non c’era seminterrato; c’era solo un angusto retro.
+Una [[house|casa]] da saccheggiare. Non c’era seminterrato; c’era solo un angusto retro.
 
 Titolo:  
 C’era solo un’altra piccola stanza, simile a una sala fumatori…
@@ -20802,7 +20802,7 @@ Rapportare al Primo Ministro e al [[archetypes/king|Re]].
 
 Nonostante la rapidità con cui il Colonnello Grimm si fosse precipitato fuori dalla retrovia…
 
-Della >casa che inseguiva i fuggitivi, fu cresciuto in piedi tutto il tempo.
+Della [[house|>casa]] che inseguiva i fuggitivi, fu cresciuto in piedi tutto il tempo.
 
 All’angolo della strada successiva… un’esposizione che lo colpì profondamente
 
@@ -20811,7 +20811,7 @@ Esplosione. L’intera parete vuota era coperta di nuovi cartelli.
 Titolo:  
 Così nuovi che quasi sembrano essere stati messi lì dopo l’incursione…
 
-casa; forse persino gettata via come ultimo gesto di insolenza.
+[[house|casa]]; forse persino gettata via come ultimo gesto di insolenza.
 
 “I ribelli in fuga, come i fogli di carta sparsi dai conigli…”
 
@@ -20834,7 +20834,7 @@ La parola verrà pronunciata di [[motifs/night|notte]]. I brevi paragrafi che se
 <span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_03" data-title="FourFaultlessFelons — III The Princess Intervenes (part 3)" data-chapter="III The Princess Intervenes" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/cross,motif/flag,motif/silence,motif/time,motif/window,concept/paradox,concept/wonder"></span>
 
 
-the effect that all was now ready for the blow at the Government which
+the effect that all was now ready for the blow at the [[government|Government]] which
 
 had failed in its last desperate effort to capture the men who would
 
@@ -20882,7 +20882,7 @@ The Chief of Police told the story of his dramatic disappointment and the
 
 irritation.
 
-"I suppose," he said, "that if that old Jew really bought the house
+"I suppose," he said, "that if that old Jew really bought the [[house]]
 
 specially for them, he must have fixed up some sort of trick in it."
 
@@ -21011,7 +21011,7 @@ blinds of the palace. But the conspirators may be flamboyant. The
 
 <span class="qlang-split" data-lang="it"></span>
 
-L’effetto derivante dal fatto che ormai tutto fosse pronto per colpire la Governo, il quale.
+L’effetto derivante dal fatto che ormai tutto fosse pronto per colpire la [[government|Governo]], il quale.
 
 L’ultimo disperato tentativo di catturare quegli uomini è fallito…
 
@@ -21061,7 +21061,7 @@ Il [[archetypes/king|Re]] ascoltò con un leggero [[concepts/wonder|stupore]], m
 
 Irritazione.
 
-“Immagino,” disse, “che se quel vecchio ebreo ha davvero comprato quella casa, ”
+“Immagino,” disse, “che se quel vecchio ebreo ha davvero comprato quella [[house|casa]], ”
 
 Soprattutto per loro, deve aver preparato qualche trucco all’interno di esso.
 
@@ -21814,7 +21814,7 @@ any general sense of right. But can you, as an educated man, reconcile it
 
 with any general sense of right to say you are a dog, and on that excuse
 
-fill the whole town with mad dogs?"
+fill the whole town with mad [[dogs]]?"
 
 He gazed at her with a painful intensity; in some strange fashion the
 
@@ -21856,7 +21856,7 @@ it for pleasure."
 
 "Oh, I hate that obstinate expression you've got!" she cried with a
 
-curious uncontrollable petulance. "I don't mind dogs, but I hate
+curious uncontrollable petulance. "I don't mind [[dogs]], but I hate
 
 bulldogs. They're always so ugly." Then, suddenly altering her tone, the
 
@@ -21896,7 +21896,7 @@ And she flung open the door, incongruously giving another glimpse of the
 
 pudding-faced policeman outside; then she vanished through the opening
 
-and the door clanged again and the prisoner was left alone in his cell.
+and the door clanged again and the prisoner was left [[Alone|alone]] in his cell.
 
 He sat down on the plank-bed and put his head in his hands, remaining in
 
@@ -22039,7 +22039,7 @@ Lo faceva per piacere.
 
 “Oh, quanto odio quell’espressione testarda che hai!” esclamò lei.
 
-Una curiosità irrefrenabile, un’irascibilità incontrollata, “Non ho niente contro i >cani, ma li odio.”
+Una curiosità irrefrenabile, un’irascibilità incontrollata, “Non ho niente contro i [[dogs|>cani]], ma li odio.”
 
 “Bulldog… Sempre così brutti.” Poi, improvvisamente cambiando tono, lei…
 
@@ -22079,7 +22079,7 @@ E lei spalancò la porta, offrendo ancora una volta uno sguardo…
 
 Poliziotto con il viso rotondo fuori… poi scomparve attraverso quell’apertura.
 
-E la porta si chiuse di nuovo, lasciando il prigioniero da solo nella sua cella.
+E la porta si chiuse di nuovo, lasciando il prigioniero [[Alone|da solo]] nella sua cella.
 
 Si sedette sul letto di assi e si prese la testa tra le mani, rimanendo lì.
 
@@ -22453,7 +22453,7 @@ Grimm recovered his voice first with a good gross military oath, followed
 
 by a demand to know what the devil it was all about.
 
-"I shall not ask for any formal political office in the government of the
+"I shall not ask for any formal political office in the [[government]] of the
 
 State," went on the footman thoughtfully. "But it is only reasonable to
 
@@ -22628,7 +22628,7 @@ Grimm ritrovò per primo la voce con una bella e grossolana imprecazione militar
 
 dalla pretesa di sapere che diavolo significasse tutto ciò.
 
-«Non chiederò alcuna carica politica formale nel governo dello
+«Non chiederò alcuna carica politica formale nel [[government|governo]] dello
 
 Stato,» proseguì il valletto pensosamente. «Ma è più che ragionevole
 
@@ -22755,7 +22755,7 @@ like one who dissolves an audience.
 
 Nevertheless, most of the company that had formed the Council broke up in
 
-a curious condition of mystification and ill-ease. Oddly enough, perhaps,
+a curious condition of [[Mystification|mystification]] and ill-ease. Oddly enough, perhaps,
 
 it had no reference to the elements in the case that were really
 
@@ -22789,7 +22789,7 @@ politician. He had given his word very much as the [[archetypes/king|King]] had 
 
 if it were a word of some worth. And it was exactly there that the
 
-sediment of mystification remained in the mind of many of the company,
+sediment of [[Mystification|mystification]] remained in the mind of many of the company,
 
 and it was the same sort of [[concepts/doubt|doubt]] that had more deeply disturbed the mind
 
@@ -22926,7 +22926,7 @@ come chi scioglie un'udienza.
 
 Tuttavia, la maggior parte della compagnia che aveva formato il Consiglio si sciolse in
 
-una curiosa condizione di smarrimento e disagio. Stranamente, forse,
+una curiosa condizione di [[Mystification|smarrimento]] e disagio. Stranamente, forse,
 
 ciò non riguardava gli elementi del caso che erano davvero
 
@@ -22960,7 +22960,7 @@ politico. Aveva dato la sua parola proprio come l'aveva data il [[archetypes/kin
 
 se fosse una parola di qualche valore. Ed era esattamente lì che il
 
-sedimento di smarrimento rimaneva nella mente di molti della compagnia,
+sedimento di [[Mystification|smarrimento]] rimaneva nella mente di molti della compagnia,
 
 ed era lo stesso genere di [[concepts/doubt|dubbio]] che aveva turbato più profondamente la mente
 
@@ -23025,7 +23025,7 @@ facade of that terrace struck once more into him a certain chill of
 
 mystery, as of one looking at a marble mask. But it was not to the line
 
-of the familiar houses, or to the door of the familiar house, that
+of the familiar houses, or to the door of the familiar [[house]], that
 
 Colonel Grimm was conducted by his guide. It was across the [[motifs/road|road]] to the
 
@@ -23099,7 +23099,7 @@ sun and the sight of men; like the statue of Pavonia Victrix. For he had
 
 seldom done a braver thing in a life and profession of no little [[concepts/courage|courage]].
 
-He was unarmed; he was alone; he had really very inadequate reasons, when
+He was unarmed; he was [[Alone|alone]]; he had really very inadequate reasons, when
 
 reasonably reviewed, for trusting this mysterious mountebank and
 
@@ -23184,7 +23184,7 @@ La facciata di quella terrazza gli provocò nuovamente una certa sensazione di f
 
 Mistero, come quando si osserva una maschera di marmo… Ma non era affatto così semplice.
 
-Di quelle case familiari, o davanti alla porta di quella familiare >casa, che.
+Di quelle case familiari, o davanti alla porta di quella familiare [[house|>casa]], che.
 
 Il colonnello Grimm fu accompagnato dal suo guida. Si trovava dall’altra parte della [[motifs/road|strada]], verso.
 
@@ -23260,7 +23260,7 @@ Il sole e la vista degli uomini… come la statua di Pavonia Victrix. Perché lu
 
 Raramente si era compiuto un atto più coraggioso in una vita e in una professione che richiedevano non poco [[concepts/courage|coraggio]].
 
-Era disarmato; era solo; aveva davvero motivi molto scarsi, quando.
+Era disarmato; era [[Alone|solo]]; aveva davvero motivi molto scarsi, quando.
 
 Critica ragionevole… ma fidarsi di quel misterioso ciarlatano?
 
@@ -23338,9 +23338,9 @@ COLONEL GRIMM of the Pavonian Police was very exactly described as a
 
 hard-headed man, and one not easily divorced from reality. It was perhaps
 
-all the more strongly that he remembered that [[motifs/night|night]] as a nightmare. It
+all the more strongly that he remembered that [[motifs/night|night]] as a [[nightmare]]. It
 
-really had the indescribable qualities of a dream; the repetitions and
+really had the indescribable qualities of [[A Dream|a dream]]; the repetitions and
 
 the inconsistencies; the scraps of past experience appearing like sudden
 
@@ -23396,7 +23396,7 @@ turnip of a face with green spectacles which he recognized instantly as
 
 that of Professor Phocus. And Professor Phocus said, with the horrible
 
-distinctness with which things are sometimes said in a dream: "You won't
+distinctness with which things are sometimes said in [[A Dream|a dream]]: "You won't
 
 catch us so easily. We've only to say The Word and the world will be
 
@@ -23422,13 +23422,13 @@ to watch the place, standing round and composedly answering the rather
 
 conspiratorial signals of Conrad.
 
-"You can go into the house in a minute," said Conrad in the same low
+"You can go into the [[house]] in a minute," said Conrad in the same low
 
 voice. "I'll just nip in and see that everything's all right, but I'm
 
 sure they're all boxed up in there. Bring your men with you, of course."
 
-He darted into the back of a house, which Grimm fancied was the house
+He darted into the back of a [[house]], which Grimm fancied was the [[house]]
 
 next door to the original scene of the raid, and for some little [[motifs/time|time]] the
 
@@ -23438,7 +23438,7 @@ consider the advisability of following their solitary leader into the den
 
 of criminals, when they caught their breath and stood still, staring up
 
-at the house.
+at the [[house]].
 
 One of the [[motifs/window|window]] blinds was jerked up and there appeared at the [[motifs/window|window]]
 
@@ -23454,13 +23454,13 @@ glowing and romantic shade. Then he stretched out his arm to the [[motifs/moon|m
 
 with a theatrical gesture, and seemed to begin to sing, or at least to
 
-speak in a sing-song fashion. It was impossible to conceive anything more
+speak in a sing-[[Song|song]] fashion. It was impossible to conceive anything more
 
 operatic; in the sense in which that word is almost synonymous with
 
 idiotic. But the words he was chanting were familiar: "As [[characters/aaron|Aaron]]'s serpent
 
-swallowed snakes and rods, As God alone is greater than the gods, As all
+swallowed snakes and rods, As God [[Alone|alone]] is greater than the gods, As all
 
 [[motifs/stars|stars]] shrivel in the single sun, The words are many, but The Word is
 
@@ -23513,9 +23513,9 @@ IL COLONNELLO GRIMM della Polizia Pavoniana era stato descritto con grande esatt
 
 uomo dalla testa dura, e non facilmente separabile dalla realtà. Fu forse
 
-tanto più intensamente per questo che ricordò quella [[motifs/night|notte]] come un incubo. Aveva
+tanto più intensamente per questo che ricordò quella [[motifs/night|notte]] come un [[nightmare|incubo]]. Aveva
 
-davvero le qualità indescrivibili di un sogno: le ripetizioni e
+davvero le qualità indescrivibili di [[A Dream|un sogno]]: le ripetizioni e
 
 le incoerenze; i brandelli di esperienza passata che apparivano come improvvise
 
@@ -23571,7 +23571,7 @@ volto a forma di rapa con occhiali verdi che riconobbe all'istante come
 
 quello del professor Phocus. E il professor Phocus disse, con l'orribile
 
-nitidezza con cui a volte si dicono le cose in un sogno: «Non ci
+nitidezza con cui a volte si dicono le cose in [[A Dream|un sogno]]: «Non ci
 
 prenderete così facilmente. Ci basta dire La Parola e il mondo sarà
 
@@ -23597,13 +23597,13 @@ a sorvegliare il luogo, starsene lì intorno rispondendo compostamente ai segnal
 
 alquanto cospiratori di Conrad.
 
-«Potete entrare in casa tra un minuto», disse Conrad con la stessa voce
+«Potete entrare in [[house|casa]] tra un minuto», disse Conrad con la stessa voce
 
 bassa. «Faccio solo un salto dentro a vedere che sia tutto a posto, ma sono
 
 sicuro che sono tutti chiusi lì dentro. Portate con voi i vostri uomini, naturalmente».
 
-Si infilò sul retro di una casa, che a Grimm parve fosse la casa
+Si infilò sul retro di una [[house|casa]], che a Grimm parve fosse la [[house|casa]]
 
 accanto alla scena originaria dell'irruzione, e per un po' di [[motifs/time|tempo]] i
 
@@ -23613,7 +23613,7 @@ considerare l'opportunità di seguire il loro solitario condottiero nella tana
 
 dei criminali, quando trattennero il fiato e restarono immobili, fissando
 
-la casa.
+la [[house|casa]].
 
 Una delle tende della [[motifs/window|finestra]] fu tirata su di scatto e alla [[motifs/window|finestra]] apparve
 
@@ -23629,13 +23629,13 @@ sfumatura ancora, ardente e romantica. Poi tese il braccio verso la [[motifs/moo
 
 con gesto teatrale, e parve mettersi a cantare, o almeno a
 
-parlare in una sorta di cantilena. Era impossibile concepire qualcosa di più
+parlare in una sorta di [[Song|cantilena]]. Era impossibile concepire qualcosa di più
 
 operistico; nel senso in cui quella parola è quasi sinonimo di
 
 idiota. Ma le parole che salmodiava erano familiari: «Come il serpente di [[characters/aaron|Aronne]]
 
-inghiottì serpi e verghe, come Dio solo è più grande degli dèi, come tutte
+inghiottì serpi e verghe, come Dio [[Alone|solo]] è più grande degli dèi, come tutte
 
 le [[motifs/stars|stelle]] si spengono nell'unico sole, le parole sono molte, ma La Parola è
 
@@ -23762,7 +23762,7 @@ you never guessed. It is the word One."
 
 He stepped from the table to the door at right angles to the open one;
 
-the door inscribed with the name of the Professor, and throwing it open,
+the door inscribed with the name of [[The Professor|the Professor]], and throwing it open,
 
 revealed another cupboard, with a hat-peg supporting an unnaturally
 
@@ -23774,7 +23774,7 @@ a pair of green spectacles.
 
 he said. "Need I explain to you that there never was any Professor
 
-Phocus?-except myself, of course, who professed to be the Professor. In
+Phocus?-except myself, of course, who professed to be [[The Professor|the Professor]]. In
 
 the case of Loeb and Case I ran rather a greater risk, for they were, or
 
@@ -23820,7 +23820,7 @@ as if with cobwebs with the grey whiskers and shabby grey garments
 
 attributed to the miser. "That was the beginning of the whole business.
 
-Old Loeb really did take this house privately, but for very private
+Old Loeb really did take this [[house]] privately, but for very private
 
 reasons; not exactly out of pure public spirit; no. I really was his
 
@@ -23948,7 +23948,7 @@ Non l'avresti mai indovinato. È la parola “Uno”.
 
 Si allontanò dal tavolo e si diresse verso la porta, seguendo un angolo retto rispetto a quella aperta.
 
-La porta su cui era inciso il nome di il Professore; la spalancò.
+La porta su cui era inciso il nome di [[The Professor|il Professore]]; la spalancò.
 
 “Rivelò un altro armadio, in cui una gruccia per cappelli sosteneva… qualcosa di innaturale.”
 
@@ -23960,7 +23960,7 @@ Un paio di occhiali verdi.
 
 “Disse: ‘Devo spiegarvi che non è mai esistito alcun Professore?’”
 
-Phocus? – tranne me, naturalmente, che mi proclamavo il Professore. In.
+Phocus? – tranne me, naturalmente, che mi proclamavo [[The Professor|il Professore]]. In.
 
 Il caso di Loeb e Case… Correvo un rischio maggiore, perché loro erano…
 
@@ -24006,7 +24006,7 @@ Come se fossero coperti di ragnatele, con quelle barbe grigie e quegli abiti log
 
 Attribuito al avaro, “Quello fu l’inizio di tutta questa storia.”
 
-Il vecchio Loeb aveva davvero acquistato questa casa in modo privato, ma per scopi estremamente personali.
+Il vecchio Loeb aveva davvero acquistato questa [[house|casa]] in modo privato, ma per scopi estremamente personali.
 
 Motivi… non esattamente nati da un puro spirito pubblico; no. In realtà, erano motivi personali.
 
@@ -24137,7 +24137,7 @@ calling The Word."
 
 It has been already explained that Pavonia possessed a modern and
 
-enlightened Government; and in the light of this fact it may seem a
+enlightened [[government|Government]]; and in the light of this fact it may seem a
 
 strain on the reader's credulity to say that it did actually keep its
 
@@ -24147,7 +24147,7 @@ some difficulties, feeling that the keeping of promises must not become a
 
 habit. But for once the [[archetypes/king|King]] put his foot down, not without a faint and
 
-far-off jingle of the ancient spurs and sword. He said it was a point of
+far-off jingle of the ancient spurs and [[Sword|sword]]. He said it was a point of
 
 purely personal [[concepts/honour|honour]], but there was a rumour that his niece had a good
 
@@ -24247,7 +24247,7 @@ Alcune difficoltà… sentendo che mantenere le promesse non debba diventare un 
 
 Abitudine. Ma per una volta il [[archetypes/king|Re]] fu irremovibile, anche se con qualche esitazione.
 
-Il lontano suono delle antiche staffe e della _spada. Disse che rappresentava un punto importante.
+Il lontano suono delle antiche staffe e della [[Sword|_spada]]. Disse che rappresentava un punto importante.
 
 Un onore puramente personale, ma circolava la voce che sua nipote fosse molto attraente.
 
@@ -24356,7 +24356,7 @@ just off to his dying mother, when I boarded his car and got his views on
 
 Capital versus Labour. I'd be obliged to burgle the third gentleman's
 
-house or wreck the fourth gentleman's train, or do something to show my
+[[house]] or wreck the fourth gentleman's train, or do something to show my
 
 editor I'm a real live wire of a reporter. Of course you never need to do
 

@@ -51,7 +51,7 @@ mi si potrebbe rammentare che non sono un esperto in materia finanziaria;
 che non sono un professore di economia politica, e nemmeno un attento
 studioso di economia politica. E anche questo sarebbe del tutto vero.
 Mi duole dire che non sono un economista; e sono ben lieto di non essere
-un finanziere. Ma questi casi da soli basteranno a suggerire,
+un finanziere. Ma questi casi da [[Alone|soli]] basteranno a suggerire,
 a chiunque abbia un briciolo di buon senso, che c'è una fallacia
 da qualche parte nel semplice ragionamento secondo cui soltanto un esperto del particolare
 può accorgersi che esiste una difficoltà, o dichiarare che c'è
@@ -147,7 +147,7 @@ che è costretta a supporre che sia sopravvissuta.
 
 Vi sono molti altri segni di questa confessione di fallimento, per i quali a stento
 mi son lasciato spazio. C'è un [[characters/chorus|coro]] di dubbi continentali;
-c'è una moltitudine di critiche demolitrici con cui da solo potrei
+c'è una moltitudine di critiche demolitrici con cui da [[Alone|solo]] potrei
 riempire questo articolo, anche solo attingendo alle mie letture assai vaghe e generiche.
 Ma aggiungerò una terza ragione dello stesso genere più generale.
 I darwiniani hanno questo marchio dei combattenti per una causa perduta,
@@ -208,7 +208,7 @@ I might be reminded that I am not an expert in financial matters;
 that I am not a professor of political economy, or even a close
 student of political economy.  And this also would be quite true.
 I am sorry to say I am not an economist; and I very glad I am not
-a financier.  But these cases alone will be sufficient to suggest,
+a financier.  But these cases [[Alone|alone]] will be sufficient to suggest,
 to anybody of the smallest commonsense, that there is a fallacy
 somewhere in the simple argument that only an expert in detail
 can perceive that there is a difficulty, or declare that there
@@ -306,7 +306,7 @@ mi si potrebbe rammentare che non sono un esperto in materia finanziaria;
 che non sono un professore di economia politica, e nemmeno un attento
 studioso di economia politica. E anche questo sarebbe del tutto vero.
 Mi duole dire che non sono un economista; e sono ben lieto di non essere
-un finanziere. Ma questi casi da soli basteranno a suggerire,
+un finanziere. Ma questi casi da [[Alone|soli]] basteranno a suggerire,
 a chiunque abbia un briciolo di buon senso, che c'è una fallacia
 da qualche parte nel semplice ragionamento secondo cui soltanto un esperto del particolare
 può accorgersi che esiste una difficoltà, o dichiarare che c'è
@@ -407,7 +407,7 @@ which has to assume that he survived.
 
 There are many other signs of this confession of failure, for which I
 have hardly left myself space.  There is a [[characters/chorus|chorus]] of Continental doubts;
-there is a multitude of destructive criticisms with which alone I could
+there is a multitude of destructive criticisms with which [[Alone|alone]] I could
 fill this article, even from my own very loose and general reading.
 But I will add a third reason of the same more general sort.
 The Darwinians have this mark of fighters for a lost cause,
@@ -467,7 +467,7 @@ che è costretta a supporre che sia sopravvissuta.
 
 Vi sono molti altri segni di questa confessione di fallimento, per i quali a stento
 mi son lasciato spazio. C'è un [[characters/chorus|coro]] di dubbi continentali;
-c'è una moltitudine di critiche demolitrici con cui da solo potrei
+c'è una moltitudine di critiche demolitrici con cui da [[Alone|solo]] potrei
 riempire questo articolo, anche solo attingendo alle mie letture assai vaghe e generiche.
 Ma aggiungerò una terza ragione dello stesso genere più generale.
 I darwiniani hanno questo marchio dei combattenti per una causa perduta,

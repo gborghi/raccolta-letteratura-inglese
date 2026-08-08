@@ -66,12 +66,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/orphan|Orphan]]
+**Archetypes:** Lover, Orphan
 **Motifs:** [[motifs/marriage|Marriage]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/deception|Deception]], [[concepts/class-conflict|Class Conflict]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/problem-play|Problem Play]], [[forms/blank-verse|Blank Verse]]
 **Settings:** [[settings/court|Court]]
-**Characters:** [[characters/helen|Helen]], [[characters/bertram|Bertram]], [[characters/countess-of-rossillion|Countess of Rossillion]], [[characters/parolles|Parolles]], [[characters/king-of-france|King of France]], [[characters/lafew|Lafew]], [[characters/diana|Diana]]
+**Characters:** Helen, Bertram, Countess of Rossillion, Parolles, King of France, Lafew, Diana
 
 ## Testo integrale / Full text
 

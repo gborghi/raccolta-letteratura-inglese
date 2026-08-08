@@ -32,7 +32,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/paradise-lost|Paradise Lost]], [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/golden-age|Golden Age]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
-**Archetypes:** [[archetypes/king|King]]
+**Archetypes:** King
 **Motifs:** [[motifs/decay|Decay]], [[motifs/mutability|Mutability]], [[motifs/ghosts|Ghosts]], [[motifs/music-and-song|Music and Song]], [[motifs/window|Window]]
 **Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/mortality|Mortality]], [[concepts/self-knowledge|Self-Knowledge]]
 **Forms & Genres:** [[forms/allegory|Allegory]], [[forms/lyric|Lyric]]

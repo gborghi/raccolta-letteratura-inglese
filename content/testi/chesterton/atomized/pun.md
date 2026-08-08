@@ -32,7 +32,7 @@ ancor di più qualcosa che è già grossolanamente esagerato.
 Lo spirito del tempo significa sempre prendere le crinoline che sono
 già scomode e allargarle finché diventino impossibili.
 Ma se qualcuno vuole un buon esempio minore, difficilmente ne potrebbe trovare
-uno migliore di quell'antica e spesso barbara specie di umorismo
+uno migliore di quell'antica e spesso barbara specie di [[Humour|umorismo]]
 che va sotto il nome di bisticcio.
 
 Poiché il bisticcio ha due funzioni distinte; una funzione rara,
@@ -45,7 +45,7 @@ intellettuali qualcosa di simile a ciò che lo sport è per la gente più sempli
 era una permanente competizione aperta, uno steccato libero eppure formale
 in cui i giovani potevano guadagnarsi gli speroni.
 
-L'arguzia, che è in questo senso guerresca (a paragone dell'umorismo,
+L'arguzia, che è in questo senso guerresca (a paragone dell'[[Humour|umorismo]],
 che può essere accidentale o persino in parte inconsapevole), deve
 per necessità tendere a forme fisse e forse persino pedantesche
 di leggerezza.  Il completare versi, il ribattere in distici rimati,
@@ -60,8 +60,8 @@ popolari intrattenimenti sia stato quello fantastico eppure
 preciso del bisticciare.
 
 Ma benché l'arguzia fosse formale, la cameratesca era franca e chiassosa.
-Molti di questi uomini, da [[motifs/lamb|Lamb]] a Dickens, o da Sydney Smith a Leigh Hunt,
-erano uomini il cui ingegno recava in sé una certa poesia e un elementare umorismo.
+Molti di questi uomini, da [[motifs/lamb|Lamb]] a Dickens, o da Sydney [[smith|Smith]] a Leigh Hunt,
+erano uomini il cui ingegno recava in sé una certa poesia e un elementare [[Humour|umorismo]].
 Di qui seguì ciò che deve sempre seguire quando persone di alto spirito
 giocano a un gioco con regole.  Le limitazioni sono godute,
 ma le limitazioni sono spinte al loro estremo, ciascun giocatore è
@@ -170,7 +170,7 @@ still further something that is grossly exaggerated already.
 The spirit of the age always means taking the crinolines that are
 already inconvenient and widening them till they become impossible.
 But if anyone wants a good minor example he could hardly find
-a better one than the ancient and often barbaric kind of humour
+a better one than the ancient and often barbaric kind of [[Humour|humour]]
 that goes by the name of the pun.
 
 For the pun has two distinct functions; a rare function,
@@ -183,7 +183,7 @@ people something like what sport is to simpler people;
 it was a permanent open competition, free but yet formal lists
 in which young men could win their spurs.
 
-Wit, which is in this sense warlike (as compared with humour,
+Wit, which is in this sense warlike (as compared with [[Humour|humour]],
 which may be accidental or even partly unconscious), must
 of necessity tend to fixed and perhaps even pedantic forms
 of flippancy.  Capping verses, retorting in rhymed couplets,
@@ -198,8 +198,8 @@ popular entertainments should have been the fantastic yet
 precise one of punning.
 
 But though the wit was formal the fellowship was frank and uproarious.
-Many such men, from [[motifs/lamb|Lamb]] to Dickens, or from Sydney Smith to Leigh Hunt,
-were men whose ingenuity had in it a certain poetry and elemental humour.
+Many such men, from [[motifs/lamb|Lamb]] to Dickens, or from Sydney [[smith|Smith]] to Leigh Hunt,
+were men whose ingenuity had in it a certain poetry and elemental [[Humour|humour]].
 Hence followed what must always follow when high spirited people
 are playing a game with rules.  The limitations are enjoyed,
 but the limitations are strained to their utmost, each player is
@@ -283,7 +283,7 @@ ancor di più qualcosa che è già grossolanamente esagerato.
 Lo spirito del tempo significa sempre prendere le crinoline che sono
 già scomode e allargarle finché diventino impossibili.
 Ma se qualcuno vuole un buon esempio minore, difficilmente ne potrebbe trovare
-uno migliore di quell'antica e spesso barbara specie di umorismo
+uno migliore di quell'antica e spesso barbara specie di [[Humour|umorismo]]
 che va sotto il nome di bisticcio.
 
 Poiché il bisticcio ha due funzioni distinte; una funzione rara,
@@ -296,7 +296,7 @@ intellettuali qualcosa di simile a ciò che lo sport è per la gente più sempli
 era una permanente competizione aperta, uno steccato libero eppure formale
 in cui i giovani potevano guadagnarsi gli speroni.
 
-L'arguzia, che è in questo senso guerresca (a paragone dell'umorismo,
+L'arguzia, che è in questo senso guerresca (a paragone dell'[[Humour|umorismo]],
 che può essere accidentale o persino in parte inconsapevole), deve
 per necessità tendere a forme fisse e forse persino pedantesche
 di leggerezza.  Il completare versi, il ribattere in distici rimati,
@@ -311,8 +311,8 @@ popolari intrattenimenti sia stato quello fantastico eppure
 preciso del bisticciare.
 
 Ma benché l'arguzia fosse formale, la cameratesca era franca e chiassosa.
-Molti di questi uomini, da [[motifs/lamb|Lamb]] a Dickens, o da Sydney Smith a Leigh Hunt,
-erano uomini il cui ingegno recava in sé una certa poesia e un elementare umorismo.
+Molti di questi uomini, da [[motifs/lamb|Lamb]] a Dickens, o da Sydney [[smith|Smith]] a Leigh Hunt,
+erano uomini il cui ingegno recava in sé una certa poesia e un elementare [[Humour|umorismo]].
 Di qui seguì ciò che deve sempre seguire quando persone di alto spirito
 giocano a un gioco con regole.  Le limitazioni sono godute,
 ma le limitazioni sono spinte al loro estremo, ciascun giocatore è

@@ -32,7 +32,7 @@ tags:
 - [[works/telegraph-poles-(chesterton)|telegraph-poles (Chesterton)]]
 - [[works/turnpikes-(chesterton)|turnpikes (Chesterton)]]
 - [[works/whats-wrong-(chesterton)|whats wrong (Chesterton)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#258_to_a_locomotive_in_winter|To a Locomotive in Winter (Whitman)]]
+- [[works/to-a-locomotive-in-winter-(whitman)|To a Locomotive in Winter (Whitman)]]
 - [[works/the-lost-tools-of-learning-(sayers)|The Lost Tools of Learning (Sayers)]]
 - [[works/the-disintegration-machine-(conan-doyle)|The Disintegration Machine (Conan Doyle)]]
 - [[works/when-the-world-screamed-(conan-doyle)|When the World Screamed (Conan Doyle)]]

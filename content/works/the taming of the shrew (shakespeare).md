@@ -67,13 +67,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]], [[topoi/world-upside-down|World Upside Down]], [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/combat-strife|Combat Strife]]
-**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/lover|Lover]], [[archetypes/fool|Fool]]
+**Archetypes:** Trickster, Lover, Fool
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/marriage|Marriage]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/love|Love]]
 **Themes & Concepts:** [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/romantic-love|Romantic Love]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/identity|Identity]], [[concepts/satire-of-society|Satire of Society]]
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/elizabethan-england|Elizabethan England]]
 **Settings:** [[settings/italy|Italy]], [[settings/europe|Europe]]
-**Characters:** [[characters/katherina|Katherina]], [[characters/petruchio|Petruchio]], [[characters/bianca|Bianca]], [[characters/baptista|Baptista]], [[characters/lucentio|Lucentio]], [[characters/tranio|Tranio]], [[characters/grumio|Grumio]], [[characters/hortensio|Hortensio]], [[characters/christopher-sly|Christopher Sly]]
+**Characters:** Katherina, Petruchio, Bianca, Baptista, Lucentio, Tranio, Grumio, Hortensio, Christopher Sly
 
 ## Testo integrale / Full text
 

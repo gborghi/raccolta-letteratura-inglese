@@ -31,9 +31,9 @@ tags:
 - [[works/divorce-(chesterton)|divorce (Chesterton)]]
 - [[works/heret12-(chesterton)|heret12 (Chesterton)]]
 - [[works/history-(chesterton)|history (Chesterton)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#322_ninety-eight|NINETY-EIGHT (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#323_occasioned_by_the_former|OCCASIONED BY THE FORMER (Coleridge)]]
-- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#194_old_ireland|Old Ireland (Whitman)]]
+- [[works/ninety-eight-(coleridge)|NINETY-EIGHT (Coleridge)]]
+- [[works/occasioned-by-the-former-(coleridge)|OCCASIONED BY THE FORMER (Coleridge)]]
+- [[works/old-ireland-(whitman)|Old Ireland (Whitman)]]
 
 </div>
 

@@ -37,4 +37,4 @@ tags:
 **Themes & Concepts:** [[concepts/money-and-avarice|Money and Avarice]], [[concepts/greed|Greed]], [[concepts/satire-of-society|Satire of Society]], [[concepts/capitalism|Capitalism]], [[concepts/materialism|Materialism]], [[concepts/ambition|Ambition]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/machine|Machine]], [[motifs/book-reading|Book Reading]]
 **Settings:** [[settings/oxford|Oxford]]
-**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
+**Archetypes:** Self-Made Man

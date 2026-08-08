@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/identity-free-verse-eternal-return" data-author="Whitman" data-workhref="works/identity-·-free-verse-·-eternal-return-(whitman)"></div>
 
 
-<span class="atom-split" data-atom="001_one_s_self_i_sing" data-title="One’s-Self I Sing" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/identity,concept/democracy,concept/the_body,concept/self_and_soul,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="001_one_s_self_i_sing" data-title="One’s-Self I Sing" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -21,7 +21,7 @@ One’s-[[concepts/self|self]] I sing, a simple separate person,
 Yet utter the word Democratic, the word En-Masse.  
 
 Of physiology from top to toe I sing,  
-Not physiognomy alone nor brain alone is worthy for the Muse, I say  
+Not physiognomy [[Alone|alone]] nor brain [[Alone|alone]] is worthy for the Muse, I say  
 the Form complete is worthier far,  
 The Female equally with the Male I sing.  
 
@@ -36,19 +36,19 @@ The Modern Man I sing.
 
 
 
-<span class="atom-split" data-atom="002_as_i_ponder_d_in_silence" data-title="As I Ponder’d in Silence" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/ghosts,concept/war_and_its_cost,concept/self_and_soul,concept/the_artist_and_society,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="002_as_i_ponder_d_in_silence" data-title="As I Ponder’d in Silence" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
 
 
 As I ponder’d in [[motifs/silence|silence]],  
-Returning upon my poems, considering, lingering long,  
+Returning upon my [[Poems|poems]], considering, lingering long,  
 A [[characters/phantom|Phantom]] arose before me with distrustful aspect,  
 Terrible in [[concepts/beauty|beauty]], age, and power,  
 The genius of poets of old lands,  
 As to me directing like flame its eyes,  
-With finger pointing to many immortal songs,  
+With finger pointing to many immortal [[songs]],  
 And menacing voice, What singest thou? it said,  
 Know’st thou not there is but one theme for ever-enduring bards?  
 And that is the theme of War, the fortune of battles,  
@@ -71,7 +71,7 @@ I above all promote brave soldiers.
 
 
 
-<span class="atom-split" data-atom="005_to_a_historian" data-title="To a Historian" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/time,concept/identity,concept/the_common_man,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="005_to_a_historian" data-title="To a Historian" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -96,7 +96,7 @@ I project the [[concepts/history|history]] of the future.
 
 
 
-<span class="atom-split" data-atom="007_eidolons" data-title="Eidolons" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/mutability,motif/dreams,concept/immortality,concept/identity,concept/appearance_vs_reality,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="007_eidolons" data-title="Eidolons" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -109,7 +109,7 @@ To glean eidolons.
 
 Put in thy chants said he,  
 No more the puzzling hour nor day, nor segments, parts, put in,  
-Put first before the rest as light for all and entrance-song of all,  
+Put first before the rest as light for all and entrance-[[Song|song]] of all,  
 That of eidolons.  
 
 Ever the dim beginning,  
@@ -202,7 +202,7 @@ The [[concepts/body|body]] lurking there within thy [[concepts/body|body]],
 The only purport of the form thou art, the real I myself,  
 An image, an eidolon.  
 
-Thy very songs not in thy songs,  
+Thy very [[songs]] not in thy [[songs]],  
 No special strains to sing, none for itself,  
 But from the whole resulting, rising at last and floating,  
 A round full-orb’d eidolon.  
@@ -214,7 +214,7 @@ A round full-orb’d eidolon.
 
 
 
-<span class="atom-split" data-atom="008_for_him_i_sing" data-title="For Him I Sing" data-chapter="" data-kind="intro" data-tags="archetype/self_made_man,motif/time,motif/nature,concept/identity,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="008_for_him_i_sing" data-title="For Him I Sing" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -233,7 +233,7 @@ To make himself by them the law unto himself.
 
 
 
-<span class="atom-split" data-atom="009_when_i_read_the_book" data-title="When I Read the Book" data-chapter="" data-kind="intro" data-tags="motif/the_book,concept/identity,concept/memory_and_time,concept/appearance_vs_reality,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="009_when_i_read_the_book" data-title="When I Read the Book" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -254,7 +254,7 @@ I seek for my own use to trace out here.)
 
 
 
-<span class="atom-split" data-atom="011_beginners" data-title="Beginners" data-chapter="" data-kind="intro" data-tags="archetype/prophet,archetype/scapegoat,concept/alienation,concept/fate_and_free_will,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="011_beginners" data-title="Beginners" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -277,7 +277,7 @@ great purchase.
 
 
 
-<span class="atom-split" data-atom="014_to_a_certain_cantatrice" data-title="To a Certain Cantatrice" data-chapter="" data-kind="intro" data-tags="archetype/rebel,motif/music_and_song,concept/democracy,concept/the_artist_and_society,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="014_to_a_certain_cantatrice" data-title="To a Certain Cantatrice" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -297,7 +297,7 @@ But I see that what I was reserving belongs to you just as much as to any.
 
 
 
-<span class="atom-split" data-atom="015_me_imperturbe" data-title="Me Imperturbe" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/animals,concept/identity,form/free_verse,setting/america,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="015_me_imperturbe" data-title="Me Imperturbe" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -323,7 +323,7 @@ the trees and [[motifs/animals|animals]] do.
 
 
 
-<span class="atom-split" data-atom="016_savantism" data-title="Savantism" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/time,motif/nature,concept/identity,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="016_savantism" data-title="Savantism" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -334,7 +334,7 @@ nestling close, always obligated,
 Thither hours, months, years--thither trades, compacts,  
 establishments, even the most minute,  
 Thither every-day life, speech, utensils, politics, persons, estates;  
-Thither we also, I with my [[motifs/leaves|leaves]] and songs, trustful, admirant,  
+Thither we also, I with my [[motifs/leaves|leaves]] and [[songs]], trustful, admirant,  
 As a father to his father going takes his children along with him.  
 
 
@@ -344,7 +344,7 @@ As a father to his father going takes his children along with him.
 
 
 
-<span class="atom-split" data-atom="019_what_place_is_besieged" data-title="What Place Is Besieged?" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/hero,motif/swords_weapons,form/free_verse,setting/the_battlefield,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="019_what_place_is_besieged" data-title="What Place Is Besieged?" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -362,7 +362,7 @@ And artillery-men, the deadliest that ever fired gun.
 
 
 
-<span class="atom-split" data-atom="020_still_though_the_one_i_sing" data-title="Still Though the One I Sing" data-chapter="" data-kind="intro" data-tags="archetype/rebel,concept/nationalism_and_patriotism,concept/identity,concept/reform,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="020_still_though_the_one_i_sing" data-title="Still Though the One I Sing" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -380,7 +380,7 @@ quenchless, indispensable [[motifs/fire|fire]]!)
 
 
 
-<span class="atom-split" data-atom="021_shut_not_your_doors" data-title="Shut Not Your Doors" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/the_book,concept/the_artist_and_society,concept/war_and_its_cost,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="021_shut_not_your_doors" data-title="Shut Not Your Doors" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -417,7 +417,7 @@ Therefore for thee the following chants.
 
 
 
-<span class="atom-split" data-atom="027_to_the_garden_the_world" data-title="To the Garden the World" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,archetype/lover,concept/the_body,concept/sexuality,form/free_verse,histref/the_bible,setting/a_garden,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="027_to_the_garden_the_world" data-title="To the Garden the World" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CHILDREN OF ADAM_  
@@ -443,7 +443,7 @@ Or in front, and I following her just the same.
 
 
 
-<span class="atom-split" data-atom="028_from_pent_up_aching_rivers" data-title="From Pent-Up Aching Rivers" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/river,concept/lust,concept/sexuality,concept/the_body,concept/love_romantic,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="028_from_pent_up_aching_rivers" data-title="From Pent-Up Aching Rivers" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CHILDREN OF ADAM_  
@@ -454,10 +454,10 @@ From that of myself without which I were nothing,
 From what I am determin’d to make illustrious, even if I stand sole  
 among men,  
 From my own voice resonant, singing the phallus,  
-Singing the song of [[concepts/procreation|procreation]],  
+Singing the [[Song|song]] of [[concepts/procreation|procreation]],  
 Singing the need of superb children and therein superb grown people,  
 Singing the muscular urge and the blending,  
-Singing the bedfellow’s song, (O resistless yearning!  
+Singing the bedfellow’s [[Song|song]], (O resistless yearning!  
 O for any and each the [[concepts/body|body]] correlative attracting!  
 O for you whoever you are your correlative [[concepts/body|body]]! O it, more than all  
 else, you delighting!)  
@@ -465,9 +465,9 @@ From the hungry gnaw that eats me [[motifs/night|night]] and day,
 From native moments, from bashful pains, singing them,  
 Seeking something yet unfound though I have diligently sought it  
 many a long year,  
-Singing the true song of the [[motifs/soul|soul]] fitful at random,  
+Singing the true [[Song|song]] of the [[motifs/soul|soul]] fitful at random,  
 Renascent with grossest [[concepts/nature|Nature]] or among [[motifs/animals|animals]],  
-Of that, of them and what goes with them my poems informing,  
+Of that, of them and what goes with them my [[Poems|poems]] informing,  
 Of the smell of apples and lemons, of the pairing of [[motifs/birds|birds]],  
 Of the wet of woods, of the lapping of waves,  
 Of the mad pushes of waves upon the land, I them chanting,  
@@ -496,7 +496,7 @@ From the master, the pilot I yield the vessel to,
 The general commanding me, commanding all, from him permission taking,  
 From [[motifs/time|time]] the programme hastening, (I have loiter’d too long as it is,)  
 From sex, from the warp and from the woof,  
-From privacy, from frequent repinings alone,  
+From privacy, from frequent repinings [[Alone|alone]],  
 From plenty of persons near and yet the right person not near,  
 From the soft sliding of hands over me and thrusting of fingers  
 through my hair and beard,  
@@ -506,7 +506,7 @@ with excess,
 From what the divine husband knows, from the work of fatherhood,  
 From exultation, victory and relief, from the bedfellow’s embrace in  
 the [[motifs/night|night]],  
-From the act-poems of eyes, hands, hips and bosoms,  
+From the act-[[Poems|poems]] of eyes, hands, hips and bosoms,  
 From the cling of the trembling arm,  
 From the bending curve and the clinch,  
 From side by side the pliant coverlet off-throwing,  
@@ -525,7 +525,7 @@ And you stalwart loins.
 
 
 
-<span class="atom-split" data-atom="029_i_sing_the_body_electric" data-title="I Sing the Body Electric" data-chapter="" data-kind="intro" data-tags="concept/the_body,concept/self_and_soul,concept/democracy,concept/social_injustice,concept/sexuality,concept/the_common_man,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="029_i_sing_the_body_electric" data-title="I Sing the Body Electric" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CHILDREN OF ADAM_  
@@ -565,7 +565,7 @@ the transparent green-shine, or lies with his face up and rolls
 silently to and from the heave of the [[motifs/water|water]],  
 The bending forward and backward of rowers in row-boats, the  
 [[motifs/horse|horse]]-man in his saddle,  
-Girls, mothers, house-keepers, in all their performances,  
+Girls, mothers, [[house]]-keepers, in all their performances,  
 The group of laborers seated at [[motifs/noon|noon]]-[[motifs/time|time]] with their open  
 dinner-kettles, and their wives waiting,  
 The female soothing a [[archetypes/child|child]], the farmer’s daughter in the [[motifs/garden|garden]] or  
@@ -657,7 +657,7 @@ She is to conceive daughters as [[motifs/well|well]] as sons, and sons as [[moti
 
 As I see my [[motifs/soul|soul]] reflected in [[concepts/nature|Nature]],  
 As I see through a mist, One with inexpressible completeness,  
-sanity, [[concepts/beauty|beauty]],  
+[[Sanity|sanity]], [[concepts/beauty|beauty]],  
 See the bent head and arms folded over the breast, the Female I see.  
 
 6  
@@ -756,10 +756,10 @@ O my [[concepts/body|body]]! I dare not [[motifs/desert|desert]] the likes of yo
 women, nor the likes of the parts of you,  
 I believe the likes of you are to stand or fall with the likes of  
 the [[motifs/soul|soul]], (and that they are the [[motifs/soul|soul]],)  
-I believe the likes of you shall stand or fall with my poems, and  
-that they are my poems,  
+I believe the likes of you shall stand or fall with my [[Poems|poems]], and  
+that they are my [[Poems|poems]],  
 Man’s, woman’s, [[archetypes/child|child]], youth’s, wife’s, husband’s, mother’s,  
-father’s, young man’s, young woman’s poems,  
+father’s, young man’s, young woman’s [[Poems|poems]],  
 Head, neck, hair, ears, drop and tympan of the ears,  
 Eyes, eye-fringes, iris of the eye, eyebrows, and the waking or  
 sleeping of the lids,  
@@ -799,7 +799,7 @@ toward the knees,
 The thin red jellies within you or within me, the bones and the  
 marrow in the bones,  
 The exquisite realization of health;  
-O I say these are not the parts and poems of the [[concepts/body|body]] only, but of the [[motifs/soul|soul]],  
+O I say these are not the parts and [[Poems|poems]] of the [[concepts/body|body]] only, but of the [[motifs/soul|soul]],  
 O I say now these are the [[motifs/soul|soul]]!  
 
 
@@ -809,7 +809,7 @@ O I say now these are the [[motifs/soul|soul]]!
 
 
 
-<span class="atom-split" data-atom="030_a_woman_waits_for_me" data-title="A Woman Waits for Me" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/marriage,concept/sexuality,concept/lust,concept/the_body,form/free_verse,setting/america,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="030_a_woman_waits_for_me" data-title="A Woman Waits for Me" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CHILDREN OF ADAM_  
@@ -821,7 +821,7 @@ right man were lacking.
 
 Sex contains all, bodies, souls,  
 Meanings, proofs, purities, delicacies, results, promulgations,  
-Songs, commands, health, [[concepts/pride|pride]], the maternal mystery, the seminal milk,  
+[[songs|Songs]], commands, health, [[concepts/pride|pride]], the maternal mystery, the seminal milk,  
 All hopes, benefactions, bestowals, all the passions, loves,  
 beauties, delights of the earth,  
 All the governments, judges, gods, follow’d persons of the earth,  
@@ -881,7 +881,7 @@ I shall look for loving crops from the birth, life, [[motifs/death|death]],
 
 
 
-<span class="atom-split" data-atom="031_spontaneous_me" data-title="Spontaneous Me" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/nature,motif/autumn,concept/sexuality,concept/the_body,concept/innocence_and_experience,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="031_spontaneous_me" data-title="Spontaneous Me" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CHILDREN OF ADAM_  
@@ -897,12 +897,12 @@ The rich coverlet of the grass, [[motifs/animals|animals]] and [[motifs/birds|bi
 untrimm’d bank, the primitive apples, the pebble-stones,  
 Beautiful dripping fragments, the negligent list of one after  
 another as I happen to call them to me or think of them,  
-The real poems, (what we call poems being merely pictures,)  
-The poems of the privacy of the [[motifs/night|night]], and of men like me,  
+The real [[Poems|poems]], (what we call [[Poems|poems]] being merely pictures,)  
+The [[Poems|poems]] of the privacy of the [[motifs/night|night]], and of men like me,  
 This poem drooping shy and unseen that I always carry, and that all  
 men carry,  
 (Know once for all, avow’d on purpose, wherever are men like me, are  
-our lusty lurking masculine poems,)  
+our lusty lurking masculine [[Poems|poems]],)  
 [[motifs/love|Love]]-thoughts, [[motifs/love|love]]-juice, [[motifs/love|love]]-odor, [[motifs/love|love]]-yielding, [[motifs/love|love]]-climbers,  
 and the climbing sap,  
 Arms and hands of [[motifs/love|love]], lips of [[motifs/love|love]], phallic thumb of [[motifs/love|love]], breasts  
@@ -965,7 +965,7 @@ It has done its work--I toss it carelessly to fall where it may.
 
 
 
-<span class="atom-split" data-atom="034_ages_and_ages_returning_at_intervals" data-title="Ages and Ages Returning at Intervals" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,concept/sexuality,concept/the_body,concept/immortality,form/free_verse,histref/the_bible,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="034_ages_and_ages_returning_at_intervals" data-title="Ages and Ages Returning at Intervals" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CHILDREN OF ADAM_  
@@ -974,10 +974,10 @@ _Cluster: CHILDREN OF ADAM_
 Ages and ages returning at intervals,  
 Undestroy’d, wandering immortal,  
 Lusty, phallic, with the potent original loins, perfectly sweet,  
-I, chanter of Adamic songs,  
+I, chanter of Adamic [[songs]],  
 Through the new [[motifs/garden|garden]] the West, the great cities calling,  
 Deliriate, thus prelude what is generated, offering these, offering myself,  
-Bathing myself, bathing my songs in Sex,  
+Bathing myself, bathing my [[songs]] in Sex,  
 Offspring of my loins.  
 
 
@@ -987,7 +987,7 @@ Offspring of my loins.
 
 
 
-<span class="atom-split" data-atom="035_we_two_how_long_we_were_fool_d" data-title="We Two, How Long We Were Fool’d" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/love,motif/nature,motif/animals,concept/joy,concept/love_romantic,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="035_we_two_how_long_we_were_fool_d" data-title="We Two, How Long We Were Fool’d" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CHILDREN OF ADAM_  
@@ -1009,7 +1009,7 @@ We are two resplendent suns, we it is who balance ourselves orbic
 and stellar, we are as two comets,  
 We prowl fang’d and four-footed in the woods, we [[motifs/spring|spring]] on prey,  
 We are two clouds forenoons and afternoons driving overhead,  
-We are seas mingling, we are two of those cheerful waves rolling  
+We are seas mingling, we are two of those cheerful waves [[rolling]]  
 over each other and interwetting each other,  
 We are what the atmosphere is, transparent, receptive, pervious, impervious,  
 We are [[motifs/snow|snow]], rain, cold, darkness, we are each product and influence  
@@ -1024,7 +1024,7 @@ We have voided all but [[concepts/freedom|freedom]] and all but our own joy.
 
 
 
-<span class="atom-split" data-atom="038_native_moments" data-title="Native Moments" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,concept/lust,concept/the_common_man,concept/joy,concept/friendship,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="038_native_moments" data-title="Native Moments" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CHILDREN OF ADAM_  
@@ -1053,7 +1053,7 @@ I will be more to you than to any of the rest.
 
 
 
-<span class="atom-split" data-atom="040_i_heard_you_solemn_sweet_pipes_of_the_organ" data-title="I Heard You Solemn-Sweet Pipes of the Organ" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/autumn,motif/wind,concept/love_romantic,concept/the_body,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="040_i_heard_you_solemn_sweet_pipes_of_the_organ" data-title="I Heard You Solemn-Sweet Pipes of the Organ" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CHILDREN OF ADAM_  
@@ -1077,7 +1077,7 @@ Heard the pulse of you when all was still ringing little [[motifs/bells|bells]] 
 
 
 
-<span class="atom-split" data-atom="041_facing_west_from_california_s_shores" data-title="Facing West from California’s Shores" data-chapter="" data-kind="intro" data-tags="topos/the_quest,topos/eternal_return,motif/the_journey,motif/the_sea,concept/identity,form/free_verse,histref/eastern_religion,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="041_facing_west_from_california_s_shores" data-title="Facing West from California’s Shores" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CHILDREN OF ADAM_  
@@ -1085,7 +1085,7 @@ _Cluster: CHILDREN OF ADAM_
 
 Facing west from California’s shores,  
 Inquiring, tireless, seeking what is yet unfound,  
-I, a [[archetypes/child|child]], very old, over waves, towards the house of maternity,  
+I, a [[archetypes/child|child]], very old, over waves, towards the [[house]] of maternity,  
 the land of migrations, look afar,  
 Look off the shores of my Western sea, the circle almost circled;  
 For starting westward from Hindustan, from the vales of Kashmere,  
@@ -1103,7 +1103,7 @@ And why is it yet unfound?)
 
 
 
-<span class="atom-split" data-atom="042_as_adam_early_in_the_morning" data-title="As Adam Early in the Morning" data-chapter="" data-kind="intro" data-tags="archetype/innocent,motif/dawn,concept/the_body,concept/innocence_and_experience,form/free_verse,histref/the_bible,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="042_as_adam_early_in_the_morning" data-title="As Adam Early in the Morning" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CHILDREN OF ADAM_  
@@ -1122,7 +1122,7 @@ Be not afraid of my [[concepts/body|body]].
 
 
 
-<span class="atom-split" data-atom="048_not_heaving_from_my_ribb_d_breast_only" data-title="Not Heaving from My Ribb’d Breast Only" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/lust,concept/the_body,concept/comradeship,concept/self_and_soul,form/lyric,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="048_not_heaving_from_my_ribb_d_breast_only" data-title="Not Heaving from My Ribb’d Breast Only" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CALAMUS_  
@@ -1137,7 +1137,7 @@ Not in the subtle nourishment of the air,
 Not in this beating and pounding at my temples and wrists,  
 Not in the curious systole and diastole within which will one day cease,  
 Not in many a hungry wish told to the skies only,  
-Not in cries, laughter, defiancies, thrown from me when alone far in  
+Not in cries, laughter, defiancies, thrown from me when [[Alone|alone]] far in  
 the wilds,  
 Not in husky pantings through clinch’d teeth,  
 Not in sounded and resounded words, chattering words, echoes, dead words,  
@@ -1146,7 +1146,7 @@ Nor the other murmurs of these incredible [[motifs/dreams|dreams]] of every day,
 Nor in the limbs and senses of my [[concepts/body|body]] that take you and dismiss you  
 continually--not there,  
 Not in any or all of them O adhesiveness! O pulse of my life!  
-Need I that you exist and show yourself any more than in these songs.  
+Need I that you exist and show yourself any more than in these [[songs]].  
 
 
 
@@ -1155,7 +1155,7 @@ Need I that you exist and show yourself any more than in these songs.
 
 
 
-<span class="atom-split" data-atom="053_are_you_the_new_person_drawn_toward_me" data-title="Are You the New Person Drawn Toward Me?" data-chapter="" data-kind="intro" data-tags="concept/identity,concept/love_romantic,concept/friendship,concept/appearance_vs_reality,histref/eastern_religion,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="053_are_you_the_new_person_drawn_toward_me" data-title="Are You the New Person Drawn Toward Me?" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CALAMUS_
@@ -1179,7 +1179,7 @@ Have you no thought O dreamer that it may be all maya, illusion?
 
 
 
-<span class="atom-split" data-atom="060_to_a_stranger" data-title="To a Stranger" data-chapter="" data-kind="intro" data-tags="motif/the_city,motif/eyes_sight,concept/love_romantic,concept/the_body,concept/comradeship,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="060_to_a_stranger" data-title="To a Stranger" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CALAMUS_
@@ -1187,7 +1187,7 @@ _Cluster: CALAMUS_
 
 Passing stranger! you do not know how longingly I look upon you,
 You must be he I was seeking, or she I was seeking, (it comes to me
-as of a dream,)
+as of [[A Dream|a dream]],)
 I have somewhere surely lived a life of joy with you,
 All is recall’d as we flit by each other, fluid, affectionate,
 chaste, matured,
@@ -1196,8 +1196,8 @@ I ate with you and slept with you, your [[concepts/body|body]] has become not yo
 only nor left my [[concepts/body|body]] mine only,
 You give me the pleasure of your eyes, face, flesh, as we pass, you
 take of my beard, breast, hands, in return,
-I am not to speak to you, I am to think of you when I sit alone or
-wake at [[motifs/night|night]] alone,
+I am not to speak to you, I am to think of you when I sit [[Alone|alone]] or
+wake at [[motifs/night|night]] [[Alone|alone]],
 I am to wait, I do not [[concepts/doubt|doubt]] I am to meet you again,
 I am to see to it that I do not lose you.
 
@@ -1208,7 +1208,7 @@ I am to see to it that I do not lose you.
 
 
 
-<span class="atom-split" data-atom="078_among_the_multitude" data-title="Among the Multitude" data-chapter="" data-kind="intro" data-tags="motif/the_city,concept/love_romantic,concept/identity,concept/comradeship,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="078_among_the_multitude" data-title="Among the Multitude" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CALAMUS_
@@ -1231,7 +1231,7 @@ And I when I meet you mean to discover you by the like in you.
 
 
 
-<span class="atom-split" data-atom="080_that_shadow_my_likeness" data-title="That Shadow My Likeness" data-chapter="" data-kind="intro" data-tags="topos/the_double,motif/the_mirror,concept/identity,concept/self_and_soul,concept/comradeship,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="080_that_shadow_my_likeness" data-title="That Shadow My Likeness" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: CALAMUS_
@@ -1241,7 +1241,7 @@ That [[archetypes/shadow|shadow]] my likeness that goes to and fro seeking a liv
 chattering, chaffering,
 How often I find myself standing and looking at it where it flits,
 How often I question and [[concepts/doubt|doubt]] whether that is really me;
-But among my lovers and caroling these songs,
+But among my [[lovers]] and caroling these [[songs]],
 O I never [[concepts/doubt|doubt]] whether that is really me.
 
 
@@ -1251,7 +1251,7 @@ O I never [[concepts/doubt|doubt]] whether that is really me.
 
 
 
-<span class="atom-split" data-atom="085_song_of_the_answerer" data-title="Song of the Answerer" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/prophet,concept/the_artist_and_society,concept/the_common_man,concept/democracy,concept/immortality,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="085_song_of_the_answerer" data-title="Song of the Answerer" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -1340,7 +1340,7 @@ The English believe he comes of their English stock,
 A Jew to the Jew he seems, a Russ to the Russ, usual and near,  
 removed from none.  
 
-Whoever he looks at in the traveler’s coffee-house claims him,  
+Whoever he looks at in the traveler’s coffee-[[house]] claims him,  
 The Italian or Frenchman is sure, the German is sure, the Spaniard  
 is sure, and the island Cuban is sure,  
 The engineer, the deck-hand on the great lakes, or on the Mississippi  
@@ -1353,20 +1353,20 @@ They are not vile any more, they hardly know themselves they are so grown.
 
 2  
 The indications and tally of [[motifs/time|time]],  
-Perfect sanity shows the master among philosophs,  
+Perfect [[Sanity|sanity]] shows the master among philosophs,  
 [[motifs/time|Time]], always without break, indicates itself in parts,  
 What always indicates the poet is the crowd of the pleasant company  
 of singers, and their words,  
 The words of the singers are the hours or minutes of the light or dark,  
-but the words of the maker of poems are the general [[motifs/light-and-dark|light and dark]],  
-The maker of poems settles justice, reality, [[concepts/immortality|immortality]],  
+but the words of the maker of [[Poems|poems]] are the general [[motifs/light-and-dark|light and dark]],  
+The maker of [[Poems|poems]] settles justice, reality, [[concepts/immortality|immortality]],  
 His insight and power encircle things and the human race,  
 He is the glory and extract thus far of things and of the human race.  
 
 The singers do not beget, only the Poet begets,  
 The singers are welcom’d, understood, appear often enough, but rare  
 has the day been, likewise the spot, of the birth of the maker  
-of poems, the Answerer,  
+of [[Poems|poems]], the Answerer,  
 (Not every century nor every five centuries has contain’d such a  
 day, for all its names.)  
 
@@ -1376,23 +1376,23 @@ The name of each is, eye-singer, ear-singer, head-singer,
 sweet-singer, [[motifs/night|night]]-singer, parlor-singer, [[motifs/love|love]]-singer,  
 weird-singer, or something else.  
 
-All this [[motifs/time|time]] and at all times wait the words of true poems,  
-The words of true poems do not merely please,  
+All this [[motifs/time|time]] and at all times wait the words of true [[Poems|poems]],  
+The words of true [[Poems|poems]] do not merely please,  
 The true poets are not followers of [[concepts/beauty|beauty]] but the august masters of [[concepts/beauty|beauty]];  
 The [[concepts/greatness|greatness]] of sons is the exuding of the [[concepts/greatness|greatness]] of mothers  
 and fathers,  
-The words of true poems are the tuft and final applause of science.  
+The words of true [[Poems|poems]] are the tuft and final applause of science.  
 
 Divine instinct, breadth of vision, the law of reason, health,  
 rudeness of [[concepts/body|body]], withdrawnness,  
-Gayety, sun-tan, air-sweetness, such are some of the words of poems.  
+Gayety, sun-tan, air-sweetness, such are some of the words of [[Poems|poems]].  
 
-The sailor and traveler underlie the maker of poems, the Answerer,  
+The sailor and traveler underlie the maker of [[Poems|poems]], the Answerer,  
 The builder, geometer, chemist, anatomist, phrenologist, [[archetypes/artist|artist]], all  
-these underlie the maker of poems, the Answerer.  
+these underlie the maker of [[Poems|poems]], the Answerer.  
 
-The words of the true poems give you more than poems,  
-They give you to form for yourself poems, religions, politics, war,  
+The words of the true [[Poems|poems]] give you more than [[Poems|poems]],  
+They give you to form for yourself [[Poems|poems]], religions, politics, war,  
 peace, behavior, histories, essays, daily life, and every thing else,  
 They balance ranks, colors, races, creeds, and the sexes,  
 They do not seek [[concepts/beauty|beauty]], they are sought,  
@@ -1413,17 +1413,17 @@ rings and never be quiet again.
 
 
 
-<span class="atom-split" data-atom="087_a_song_of_joys" data-title="A Song of Joys" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/death,concept/joy,concept/labor,concept/the_body,concept/self_and_soul,form/free_verse,form/song,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="087_a_song_of_joys" data-title="A Song of Joys" data-chapter="" data-kind="intro"></span>
 
 
 
-O to make the most jubilant song!  
+O to make the most jubilant [[Song|song]]!  
 Full of music--full of manhood, womanhood, infancy!  
 Full of common employments--full of grain and trees.  
 
 O for the voices of [[motifs/animals|animals]]--O for the swiftness and balance of fishes!  
-O for the dropping of raindrops in a song!  
-O for the sunshine and motion of waves in a song!  
+O for the dropping of raindrops in a [[Song|song]]!  
+O for the sunshine and motion of waves in a [[Song|song]]!  
 
 O the joy of my spirit--it is uncaged--it darts like [[motifs/lightning|lightning]]!  
 It is not enough to have this globe or a certain [[motifs/time|time]],  
@@ -1463,7 +1463,7 @@ The joy of soothing and pacifying, the joy of concord and harmony.
 
 O to go back to the place where I was born,  
 To hear the [[motifs/birds|birds]] sing once more,  
-To ramble about the house and barn and over the fields once more,  
+To ramble about the [[house]] and barn and over the fields once more,  
 And through the orchard and along the old lanes once more.  
 
 O to have been brought up on bays, lagoons, creeks, or along the coast,  
@@ -1628,7 +1628,7 @@ To these proud laws of the air, the [[motifs/water|water]] and the ground, provi
 my interior [[motifs/soul|soul]] impregnable,  
 And nothing exterior shall ever take command of me.  
 
-For not life’s joys alone I sing, repeating--the joy of [[motifs/death|death]]!  
+For not life’s joys [[Alone|alone]] I sing, repeating--the joy of [[motifs/death|death]]!  
 The beautiful touch of [[motifs/death|Death]], soothing and benumbing a few moments,  
 for reasons,  
 Myself discharging my excrementitious [[concepts/body|body]] to be burn’d, or render’d  
@@ -1643,7 +1643,7 @@ of the rest,
 It is offensive, never defensive--yet how magnetic it draws.  
 
 O to struggle against great odds, to meet enemies undaunted!  
-To be entirely alone with them, to find how much one can stand!  
+To be entirely [[Alone|alone]] with them, to find how much one can stand!  
 To look strife, torture, [[motifs/prison|prison]], popular odium, face to face!  
 To mount the scaffold, to advance to the muzzles of guns with  
 perfect nonchalance!  
@@ -1669,7 +1669,7 @@ A swift and swelling [[motifs/ship|ship]] full of rich words, full of joys.
 
 
 
-<span class="atom-split" data-atom="088_song_of_the_broad_axe" data-title="Song of the Broad-Axe" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,motif/blood,motif/the_city,concept/labor,concept/democracy,concept/the_common_man,concept/war_and_its_cost,form/free_verse,form/song,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="088_song_of_the_broad_axe" data-title="Song of the Broad-Axe" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -1727,15 +1727,15 @@ The American contempt for statutes and ceremonies, the boundless
 impatience of restraint,  
 The loose drift of character, the inkling through random types, the  
 solidification;  
-The butcher in the slaughter-house, the hands aboard schooners and  
+The butcher in the slaughter-[[house]], the hands aboard schooners and  
 sloops, the raftsman, the pioneer,  
 Lumbermen in their [[motifs/winter|winter]] camp, daybreak in the woods, stripes of  
 [[motifs/snow|snow]] on the limbs of trees, the occasional snapping,  
-The glad clear sound of one’s own voice, the merry song, the natural  
+The glad clear sound of one’s own voice, the merry [[Song|song]], the natural  
 life of the woods, the strong day’s work,  
 The blazing [[motifs/fire|fire]] at [[motifs/night|night]], the sweet taste of supper, the talk, the  
 bed of hemlock-boughs and the bear-skin;  
-The house-builder at work in cities or anywhere,  
+The [[house]]-builder at work in cities or anywhere,  
 The preparatory jointing, squaring, sawing, mortising,  
 The hoist-up of beams, the push of them in their places, laying them  
 regular,  
@@ -1904,7 +1904,7 @@ Served the artificial clefts, vast, high, silent, on the
 [[motifs/snow|snow]]-cover’d hills of Scandinavia,  
 Served those who [[motifs/time|time]] out of mind made on the granite walls rough  
 sketches of the sun, [[motifs/moon|moon]], [[motifs/stars|stars]], ships, ocean waves,  
-Served the paths of the irruptions of the Goths, served the pastoral  
+Served the paths of the irruptions of the Goths, served the [[Pastoral|pastoral]]  
 tribes and nomads,  
 Served the long distant Kelt, served the hardy pirates of the Baltic,  
 Served before any of those the venerable and harmless men of Ethiopia,  
@@ -1952,7 +1952,7 @@ They tumble forth, they rise and form,
 Hut, tent, landing, survey,  
 Flail, plough, pick, crowbar, spade,  
 Shingle, rail, prop, wainscot, [[motifs/lamb|lamb]], lath, panel, gable,  
-Citadel, ceiling, saloon, academy, organ, exhibition-house, library,  
+Citadel, ceiling, saloon, academy, organ, exhibition-[[house]], library,  
 Cornice, trellis, pilaster, balcony, [[motifs/window|window]], turret, porch,  
 Hoe, rake, pitchfork, pencil, wagon, staff, saw, jack-plane, mallet,  
 wedge, rounce,  
@@ -2023,7 +2023,7 @@ The door passing the dissever’d friend flush’d and in haste,
 The door that admits good news and bad news,  
 The door whence the son left [[motifs/home|home]] confident and puff’d up,  
 The door he enter’d again from a long and scandalous absence,  
-diseas’d, broken down, without innocence, without means.  
+diseas’d, broken down, without [[innocence]], without means.  
 
 11  
 Her shape arises,  
@@ -2033,7 +2033,7 @@ She knows the thoughts as she passes, nothing is conceal’d from her,
 She is none the less considerate or friendly therefor,  
 She is the best belov’d, it is without exception, she has no reason  
 to [[concepts/fear|fear]] and she does not [[concepts/fear|fear]],  
-Oaths, quarrels, hiccupp’d songs, smutty expressions, are idle to  
+Oaths, quarrels, hiccupp’d [[songs]], smutty expressions, are idle to  
 her as she passes,  
 She is silent, she is possess’d of herself, they do not offend her,  
 She receives them as the laws of [[concepts/nature|Nature]] receive them, she is strong,  
@@ -2054,7 +2054,7 @@ Shapes bracing the earth and braced with the whole earth.
 
 
 
-<span class="atom-split" data-atom="089_song_of_the_exposition" data-title="Song of the Exposition" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,concept/labor,concept/nationalism_and_patriotism,concept/the_artist_and_society,concept/war_and_its_cost,form/free_verse,histref/the_industrial_revolution,histref/arthurian_legend,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="089_song_of_the_exposition" data-title="Song of the Exposition" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -2074,7 +2074,7 @@ While how little the New after all, how much the Old, Old World!
 
 Long and long has the grass been growing,  
 Long and long has the rain been falling,  
-Long has the globe been rolling round.  
+Long has the globe been [[rolling]] round.  
 
 2  
 Come Muse migrate from Greece and Ionia,  
@@ -2094,12 +2094,12 @@ Or rather to her long-nurs’d inclination,
 Join’d with an irresistible, natural gravitation,  
 She comes! I hear the rustling of her gown,  
 I scent the odor of her breath’s delicious fragrance,  
-I mark her step divine, her curious eyes a-turning, rolling,  
+I mark her step divine, her curious eyes a-turning, [[rolling]],  
 Upon this very scene.  
 
 The dame of dames! can I believe then,  
 Those ancient temples, sculptures classic, could none of them retain her?  
-Nor shades of Virgil and [[historical-references/dante|Dante]], nor myriad memories, poems, old  
+Nor shades of Virgil and [[historical-references/dante|Dante]], nor myriad memories, [[Poems|poems]], old  
 associations, magnetize and hold on to her?  
 But that she’s left them all--and here?  
 
@@ -2192,7 +2192,7 @@ But all the workmen of the world here to be represented.
 
 Here shall you trace in flowing operation,  
 In every state of practical, busy movement, the rills of civilization,  
-Materials here under your eye shall change their shape as if by magic,  
+Materials here under your eye shall change their shape as if by [[Magic|magic]],  
 The cotton shall be pick’d almost in the very field,  
 Shall be dried, clean’d, ginn’d, baled, spun into thread and cloth  
 before you,  
@@ -2212,7 +2212,7 @@ lessons of minerals,
 In another, woods, plants, vegetation shall be illustrated--in  
 another [[motifs/animals|animals]], animal life and development.  
 
-One stately house shall be the music house,  
+One stately [[house]] shall be the music [[house]],  
 Others for other arts--learning, the sciences, shall all be here,  
 None shall be slighted, none but shall here be honor’d, help’d, exampled.  
 
@@ -2229,7 +2229,7 @@ To thee [[settings/america|America]], and thee eternal Muse.
 And here shall ye inhabit powerful Matrons!  
 In your vast state vaster than all the old,  
 Echoed through long, long centuries to come,  
-To sound of different, prouder songs, with stronger themes,  
+To sound of different, prouder [[songs]], with stronger themes,  
 Practical, peaceful life, the people’s life, the People themselves,  
 Lifted, illumin’d, bathed in peace--elate, secure in peace.  
 
@@ -2244,7 +2244,7 @@ With thy undaunted armies, engineering,
 Thy pennants labor, loosen’d to the breeze,  
 Thy bugles sounding loud and clear.  
 
-Away with old romance!  
+Away with old [[Romance|romance]]!  
 Away with novels, plots and plays of foreign courts,  
 Away with [[motifs/love|love]]-verses sugar’d in rhyme, the intrigues, amours of idlers,  
 Fitted for only banquets of the [[motifs/night|night]] where dancers to late music slide,  
@@ -2255,7 +2255,7 @@ To you ye reverent sane sisters,
 I raise a voice for far superber themes for poets and for art,  
 To exalt the present and the real,  
 To teach the average man the glory of his daily walk and trade,  
-To sing in songs how exercise and chemical life are never to be baffled,  
+To sing in [[songs]] how exercise and chemical life are never to be baffled,  
 To manual work for each and all, to plough, hoe, dig,  
 To plant and tend the tree, the berry, vegetables, [[motifs/flowers|flowers]],  
 For every man to see to it that he really do something, for every woman too;  
@@ -2271,7 +2271,7 @@ All occupations, duties broad and close,
 Toil, healthy toil and sweat, endless, without cessation,  
 The old, old practical burdens, interests, joys,  
 The family, parentage, [[motifs/childhood|childhood]], husband and wife,  
-The house-comforts, the house itself and all its belongings,  
+The [[house]]-comforts, the [[house]] itself and all its belongings,  
 Food and its preservation, chemistry applied to it,  
 Whatever forms the average, strong, complete, sweet-blooded man or  
 woman, the perfect longeve personality,  
@@ -2335,7 +2335,7 @@ Thy wealthy daughter-states, Eastern and Western,
 The varied products of Ohio, Pennsylvania, Missouri, Georgia, Texas,  
 and the rest,  
 Thy limitless crops, grass, wheat, sugar, oil, corn, rice, hemp, hops,  
-Thy barns all fill’d, the endless freight-train and the bulging store-house,  
+Thy barns all fill’d, the endless freight-train and the bulging store-[[house]],  
 The grapes that ripen on thy vines, the apples in thy orchards,  
 Thy incalculable lumber, beef, pork, potatoes, thy coal, thy gold  
 and silver,  
@@ -2393,12 +2393,12 @@ Our [[concepts/freedom|freedom]] all in thee! our very lives in thee!
 
 
 
-<span class="atom-split" data-atom="090_song_of_the_redwood_tree" data-title="Song of the Redwood-Tree" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/death,concept/mortality,concept/democracy,concept/nature_vs_civilization,concept/labor,form/free_verse,form/song,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="090_song_of_the_redwood_tree" data-title="Song of the Redwood-Tree" data-chapter="" data-kind="intro"></span>
 
 
 
 1  
-A California song,  
+A California [[Song|song]],  
 A prophecy and indirection, a thought impalpable to breathe as air,  
 A [[characters/chorus|chorus]] of dryads, fading, departing, or hamadryads departing,  
 A murmuring, fateful, giant voice, out of the earth and sky,  
@@ -2458,7 +2458,7 @@ As if the heirs, the deities of the West,
 Joining with master-tongue bore part.  
 
 Not wan from Asia’s fetiches,  
-Nor red from Europe’s old dynastic slaughter-house,  
+Nor red from Europe’s old dynastic slaughter-[[house]],  
 (Area of murder-plots of thrones, with scent left yet of wars and  
 scaffolds everywhere,  
 But come from [[concepts/nature|Nature]]’s long and harmless throes, peacefully builded thence,  
@@ -2550,12 +2550,12 @@ To build a grander future.
 
 
 
-<span class="atom-split" data-atom="091_a_song_for_occupations" data-title="A Song for Occupations" data-chapter="" data-kind="intro" data-tags="concept/labor,concept/the_common_man,concept/democracy,concept/self_and_soul,concept/the_body,form/free_verse,form/song,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="091_a_song_for_occupations" data-title="A Song for Occupations" data-chapter="" data-kind="intro"></span>
 
 
 
 1  
-A song for occupations!  
+A [[Song|song]] for occupations!  
 In the labor of engines and trades and the labor of fields I find  
 the developments,  
 And find the eternal meanings.  
@@ -2664,7 +2664,7 @@ or a lady’s leisure?
 
 Have you reckon’d that the landscape took substance and form that it  
 might be painted in a picture?  
-Or men and women that they might be written of, and songs sung?  
+Or men and women that they might be written of, and [[songs]] sung?  
 Or the attraction of gravity, and the great laws and harmonious combinations  
 and the fluids of the air, as subjects for the savans?  
 Or the brown land and the blue sea for maps and charts?  
@@ -2691,7 +2691,7 @@ than they are shed out of you.
 
 4  
 The sum of all known reverence I add up in you whoever you are,  
-The President is there in the White House for you, it is not you who  
+The President is there in the White [[house|House]] for you, it is not you who  
 are here for him,  
 The Secretaries act in their bureaus for you, not you here for them,  
 The Congress convenes every Twelfth-month for you,  
@@ -2704,7 +2704,7 @@ Sculpture and monuments and any thing inscribed anywhere are tallied in you,
 The gist of histories and statistics as far back as the records  
 reach is in you this hour, and myths and tales the same,  
 If you were not breathing and walking here, where would they all be?  
-The most renown’d poems would be ashes, orations and plays would  
+The most renown’d [[Poems|poems]] would be ashes, orations and plays would  
 be vacuums.  
 
 All architecture is what you do to it when you look upon it,  
@@ -2727,21 +2727,21 @@ Does all sit there with you, with the mystic unseen [[motifs/soul|soul]]?
 Strange and hard that [[concepts/paradox|paradox]] true I give,  
 Objects gross and the unseen [[motifs/soul|soul]] are one.  
 
-House-building, measuring, sawing the boards,  
+[[house|House]]-building, measuring, sawing the boards,  
 Blacksmithing, glass-blowing, nail-making, coopering, tin-roofing,  
 shingle-dressing,  
 [[motifs/ship|Ship]]-joining, dock-building, fish-curing, flagging of sidewalks by flaggers,  
 The pump, the pile-driver, the great derrick, the coal-kiln and brickkiln,  
 Coal-mines and all that is down there, the lamps in the darkness,  
-echoes, songs, what meditations, what vast native thoughts  
+echoes, [[songs]], what meditations, what vast native thoughts  
 looking through smutch’d faces,  
 Iron-works, forge-fires in the [[settings/mountains|mountains]] or by [[motifs/river|river]]-banks, men  
 around feeling the melt with huge crowbars, lumps of ore, the  
 due combining of ore, limestone, coal,  
 The blast-furnace and the puddling-furnace, the loup-lump at the  
-[[characters/bottom|bottom]] of the melt at last, the rolling-mill, the stumpy bars  
+[[characters/bottom|bottom]] of the melt at last, the [[rolling]]-mill, the stumpy bars  
 of pig-iron, the strong clean-shaped Trail for railroads,  
-Oil-works, silk-works, white-lead-works, the sugar-house,  
+Oil-works, silk-works, white-lead-works, the sugar-[[house]],  
 steam-saws, the great mills and factories,  
 Stone-cutting, shapely trimmings for facades or [[motifs/window|window]] or door-lintels,  
 the mallet, the tooth-chisel, the jib to protect the thumb,  
@@ -2767,7 +2767,7 @@ Stave-machines, planing-machines, reaping-machines,
 ploughing-machines, thrashing-machines, steam wagons,  
 The cart of the carman, the omnibus, the ponderous dray,  
 Pyrotechny, letting off color’d fireworks at [[motifs/night|night]], fancy figures and jets;  
-Beef on the butcher’s stall, the slaughter-house of the butcher, the  
+Beef on the butcher’s stall, the slaughter-[[house]] of the butcher, the  
 butcher in his killing-clothes,  
 The pens of live pork, the killing-hammer, the hog-hook, the  
 scalder’s tub, gutting, the cutter’s cleaver, the packer’s maul,  
@@ -2784,7 +2784,7 @@ are, your daily life!
 
 In that and them the heft of the heaviest--in that and them far more  
 than you estimated, (and far less also,)  
-In them realities for you and me, in them poems for you and me,  
+In them realities for you and me, in them [[Poems|poems]] for you and me,  
 In them, not yourself-you and your [[motifs/soul|soul]] enclose all things,  
 regardless of estimation,  
 In them the development good--in them all themes, hints, possibilities.  
@@ -2802,7 +2802,7 @@ Happiness, knowledge, not in another place but this place, not for
 another hour but this hour,  
 Man in the first you see or touch, always in friend, brother,  
 nighest neighbor--woman in mother, sister, wife,  
-The popular tastes and employments taking precedence in poems or anywhere,  
+The popular tastes and employments taking precedence in [[Poems|poems]] or anywhere,  
 You workwomen and workmen of these States having your own divine  
 and strong life,  
 And all else giving place to men and women like you.  
@@ -2828,12 +2828,12 @@ of men and women like you.
 
 
 
-<span class="atom-split" data-atom="092_a_song_of_the_rolling_earth" data-title="A Song of the Rolling Earth" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,topos/book_of_nature,motif/nature,concept/self_and_soul,concept/the_body,concept/immortality,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="092_a_song_of_the_rolling_earth" data-title="A Song of the Rolling Earth" data-chapter="" data-kind="intro"></span>
 
 
 
 1  
-A song of the rolling earth, and of words according,  
+A [[Song|song]] of the [[rolling]] earth, and of words according,  
 Were you thinking that those were the words, those upright lines?  
 those curves, angles, dots?  
 No, those are not the words, the substantial words are in the ground  
@@ -2845,7 +2845,7 @@ out of your friends’ mouths?
 No, the real words are more delicious than they.  
 
 Human bodies are words, myriads of words,  
-(In the best poems re-appears the [[concepts/body|body]], man’s or woman’s,  
+(In the best [[Poems|poems]] re-appears the [[concepts/body|body]], man’s or woman’s,  
 [[motifs/well|well]]-shaped, natural, gay,  
 Every part able, active, receptive, without shame or the need of shame.)  
 
@@ -2892,7 +2892,7 @@ The earth does not exhibit itself nor refuse to exhibit itself,
 possesses still underneath,  
 Underneath the ostensible sounds, the august [[characters/chorus|chorus]] of heroes, the  
 wail of slaves,  
-Persuasions of lovers, curses, gasps of the dying, laughter of young  
+Persuasions of [[lovers]], curses, gasps of the dying, laughter of young  
 people, accents of bargainers,  
 Underneath these possessing words that never fall.  
 
@@ -2954,7 +2954,7 @@ past and present, and the true word of [[concepts/immortality|immortality]];
 No one can acquire for another--not one,  
 Not one can grow for another--not one.  
 
-The song is to the singer, and comes back most to him,  
+The [[Song|song]] is to the singer, and comes back most to him,  
 The teaching is to the teacher, and comes back most to him,  
 The murder is to the murderer, and comes back most to him,  
 The theft is to the thief, and comes back most to him,  
@@ -2975,7 +2975,7 @@ I swear there is no [[concepts/greatness|greatness]] or power that does not emul
 of the earth,  
 There can be no theory of any account unless it corroborate the  
 theory of the earth,  
-No politics, song, religion, behavior, or what not, is of account,  
+No politics, [[Song|song]], religion, behavior, or what not, is of account,  
 unless it compare with the amplitude of the earth,  
 Unless it face the exactness, vitality, impartiality, rectitude of  
 the earth.  
@@ -2986,7 +2986,7 @@ It is that which contains itself, which never invites and never refuses.
 
 I swear I begin to see little or nothing in audible words,  
 All merges toward the presentation of the unspoken meanings of the earth,  
-Toward him who sings the songs of the [[concepts/body|body]] and of the truths of the earth,  
+Toward him who sings the [[songs]] of the [[concepts/body|body]] and of the truths of the earth,  
 Toward him who makes the dictionaries of words that print cannot touch.  
 
 I swear I see what is better than to tell the best,  
@@ -3036,7 +3036,7 @@ You shall be fully glorified in them.
 
 
 
-<span class="atom-split" data-atom="094_song_of_the_universal" data-title="Song of the Universal" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/birds,concept/immortality,concept/faith,concept/good_vs_evil,concept/nationalism_and_patriotism,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="094_song_of_the_universal" data-title="Song of the Universal" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/birds|BIRDS]] OF PASSAGE_  
@@ -3044,7 +3044,7 @@ _Cluster: [[motifs/birds|BIRDS]] OF PASSAGE_
 
 1  
 Come said the Muse,  
-Sing me a song no poet yet has chanted,  
+Sing me a [[Song|song]] no poet yet has chanted,  
 Sing me the universal.  
 
 In this broad earth of ours,  
@@ -3125,10 +3125,10 @@ In Thy ensemble, whatever else withheld withhold not from us,
 Belief in plan of Thee enclosed in [[motifs/time|Time]] and Space,  
 Health, peace, salvation universal.  
 
-Is it a dream?  
+Is it [[A Dream|a dream]]?  
 Nay but the lack of it the dream,  
-And failing it life’s lore and wealth a dream,  
-And all the world a dream.  
+And failing it life’s lore and wealth [[A Dream|a dream]],  
+And all the world [[A Dream|a dream]].  
 
 
 
@@ -3137,7 +3137,7 @@ And all the world a dream.
 
 
 
-<span class="atom-split" data-atom="096_to_you" data-title="To You" data-chapter="" data-kind="intro" data-tags="concept/the_self,concept/identity,concept/democracy,concept/comradeship,concept/self_and_soul,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="096_to_you" data-title="To You" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/birds|BIRDS]] OF PASSAGE_  
@@ -3145,11 +3145,11 @@ _Cluster: [[motifs/birds|BIRDS]] OF PASSAGE_
 
 Whoever you are, I [[concepts/fear|fear]] you are walking the walks of [[motifs/dreams|dreams]],  
 I [[concepts/fear|fear]] these supposed realities are to melt from under your feet and hands,  
-Even now your features, joys, speech, house, trade, manners,  
+Even now your features, joys, speech, [[house]], trade, manners,  
 troubles, follies, costume, crimes, dissipate away from you,  
 Your true [[motifs/soul|soul]] and [[concepts/body|body]] appear before me.  
 They stand forth out of affairs, out of commerce, shops, work,  
-farms, clothes, the house, buying, selling, eating, drinking,  
+farms, clothes, the [[house]], buying, selling, eating, drinking,  
 [[concepts/suffering|suffering]], dying.  
 
 Whoever you are, now I place my hand upon you, that you be my poem,  
@@ -3203,8 +3203,8 @@ No pleasure waiting for others, but an equal pleasure waits for you.
 
 As for me, I give nothing to any one except I give the like carefully  
 to you,  
-I sing the songs of the glory of none, not God, sooner than I sing  
-the songs of the glory of you.  
+I sing the [[songs]] of the glory of none, not God, sooner than I sing  
+the [[songs]] of the glory of you.  
 
 Whoever you are! claim your own at any hazard!  
 These shows of the East and West are tame compared to you,  
@@ -3230,7 +3230,7 @@ picks its way.
 
 
 
-<span class="atom-split" data-atom="098_myself_and_mine" data-title="Myself and Mine" data-chapter="" data-kind="intro" data-tags="archetype/self_made_man,concept/the_self,concept/identity,concept/democracy,concept/the_body,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="098_myself_and_mine" data-title="Myself and Mine" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/birds|BIRDS]] OF PASSAGE_  
@@ -3300,7 +3300,7 @@ I perceive I have no [[motifs/time|time]] to lose.
 
 
 
-<span class="atom-split" data-atom="099_year_of_meteors_1859_60" data-title="Year of Meteors [1859-60" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/the_city,concept/mortality,concept/transience,concept/martyrdom,form/free_verse,histref/american_civil_war,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="099_year_of_meteors_1859_60" data-title="Year of Meteors [1859-60" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/birds|BIRDS]] OF PASSAGE_  
@@ -3314,12 +3314,12 @@ scaffold in Virginia,
 (I was at hand, silent I stood with teeth shut close, I watch’d,  
 I stood very near you old man when cool and indifferent, but trembling  
 with age and your unheal’d wounds you mounted the scaffold;)  
-I would sing in my copious song your census returns of the States,  
+I would sing in my copious [[Song|song]] your census returns of the States,  
 The tables of population and products, I would sing of your ships  
 and their cargoes,  
 The proud black ships of [[settings/manhattan|Manhattan]] arriving, some fill’d with  
 immigrants, some from the isthmus with cargoes of gold,  
-Songs thereof would I sing, to all that hitherward comes would welcome give,  
+[[songs|Songs]] thereof would I sing, to all that hitherward comes would welcome give,  
 And you would I sing, fair stripling! welcome to you from me, young  
 prince of England!  
 (Remember you surging [[settings/manhattan|Manhattan]]’s crowds as you pass’d with your  
@@ -3351,7 +3351,7 @@ What am I myself but one of your meteors?
 
 
 
-<span class="atom-split" data-atom="100_with_antecedents" data-title="With Antecedents" data-chapter="" data-kind="intro" data-tags="concept/memory_and_time,concept/nationalism_and_patriotism,concept/the_self,concept/the_common_man,form/free_verse,histref/classical_antiquity,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="100_with_antecedents" data-title="With Antecedents" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/birds|BIRDS]] OF PASSAGE_  
@@ -3421,7 +3421,7 @@ and days, or ever will come.
 
 
 
-<span class="atom-split" data-atom="101_a_broadway_pageant" data-title="A Broadway Pageant" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/the_city,concept/nationalism_and_patriotism,concept/memory_and_time,form/free_verse,histref/eastern_religion,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="101_a_broadway_pageant" data-title="A Broadway Pageant" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -3434,7 +3434,7 @@ Ride to-day through [[settings/manhattan|Manhattan]].
 Libertad! I do not know whether others behold what I behold,  
 In the procession along with the nobles of Niphon, the errand-bearers,  
 Bringing up the rear, hovering above, around, or in the ranks marching,  
-But I will sing you a song of what I behold Libertad.  
+But I will sing you a [[Song|song]] of what I behold Libertad.  
 
 When million-footed [[settings/manhattan|Manhattan]] unpent descends to her pavements,  
 When the thunder-cracking guns arouse me with the proud roar [[motifs/love|love]],  
@@ -3466,7 +3466,7 @@ sides, to walk in the space between,
 To-day our Antipodes comes.  
 
 The Originatress comes,  
-The nest of languages, the bequeather of poems, the race of eld,  
+The nest of languages, the bequeather of [[Poems|poems]], the race of eld,  
 Florid with [[motifs/blood|blood]], pensive, rapt with musings, hot with passion,  
 Sultry with perfume, with ample and flowing garments,  
 With sunburnt visage, with intense [[motifs/soul|soul]] and glittering eyes,  
@@ -3559,7 +3559,7 @@ They shall now also march obediently eastward for your sake Libertad.
 
 
 
-<span class="atom-split" data-atom="103_as_i_ebb_d_with_the_ocean_of_life" data-title="As I Ebb’d with the Ocean of Life" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/the_sea,motif/autumn,concept/doubt,concept/self_and_soul,concept/identity,concept/melancholy,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="103_as_i_ebb_d_with_the_ocean_of_life" data-title="As I Ebb’d with the Ocean of Life" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SEA-DRIFT_  
@@ -3572,7 +3572,7 @@ As I walk’d where the ripples continually wash you Paumanok,
 Where they rustle up hoarse and sibilant,  
 Where the fierce old mother endlessly cries for her castaways,  
 I musing late in the [[motifs/autumn|autumn]] day, gazing off southward,  
-Held by this electric [[concepts/self|self]] out of the [[concepts/pride|pride]] of which I utter poems,  
+Held by this electric [[concepts/self|self]] out of the [[concepts/pride|pride]] of which I utter [[Poems|poems]],  
 Was seiz’d by the spirit that trails in the lines underfoot,  
 The rim, the sediment that stands for all the [[motifs/water|water]] and all the land  
 of the globe.  
@@ -3600,11 +3600,11 @@ O baffled, balk’d, bent to the very earth,
 Oppress’d with myself that I have dared to open my mouth,  
 Aware now that amid all that blab whose echoes recoil upon me I have  
 not once had the least idea who or what I am,  
-But that before all my arrogant poems the real Me stands yet  
+But that before all my arrogant [[Poems|poems]] the real Me stands yet  
 untouch’d, untold, altogether unreach’d,  
 Withdrawn far, mocking me with mock-congratulatory signs and bows,  
 With peals of distant ironical laughter at every word I have written,  
-Pointing in [[motifs/silence|silence]] to these songs, and then to the sand beneath.  
+Pointing in [[motifs/silence|silence]] to these [[songs]], and then to the sand beneath.  
 
 I perceive I have not really understood any thing, not a single  
 object, and that no man ever can,  
@@ -3614,7 +3614,7 @@ Because I have dared to open my mouth to sing at all.
 
 3  
 You oceans both, I close with you,  
-We murmur alike reproachfully rolling sands and drift, knowing not why,  
+We murmur alike reproachfully [[rolling]] sands and drift, knowing not why,  
 These little shreds indeed standing for you and me and all.  
 
 You friable shore with trails of debris,  
@@ -3649,7 +3649,7 @@ and following me and mine.
 Me and mine, loose windrows, little corpses,  
 Froth, snowy white, and bubbles,  
 (See, from my dead lips the ooze exuding at last,  
-See, the prismatic colors glistening and rolling,)  
+See, the prismatic colors glistening and [[rolling]],)  
 Tufts of straw, sands, fragments,  
 Buoy’d hither from many moods, one contradicting another,  
 From the [[motifs/storm|storm]], the long calm, the darkness, the swell,  
@@ -3670,7 +3670,7 @@ Whoever you are, we too lie in drifts at your feet.
 
 
 
-<span class="atom-split" data-atom="104_tears" data-title="Tears" data-chapter="" data-kind="intro" data-tags="motif/night,motif/storm,motif/the_sea,concept/grief_and_loss,concept/melancholy,form/free_verse,form/lyric,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="104_tears" data-title="Tears" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SEA-DRIFT_  
@@ -3698,7 +3698,7 @@ Of [[motifs/tears|tears]]! [[motifs/tears|tears]]! [[motifs/tears|tears]]!
 
 
 
-<span class="atom-split" data-atom="115_a_hand_mirror" data-title="A Hand-Mirror" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_mirror,motif/decay,concept/the_body,concept/self_and_soul,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="115_a_hand_mirror" data-title="A Hand-Mirror" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -3724,7 +3724,7 @@ Such a result so soon--and from such a beginning!
 
 
 
-<span class="atom-split" data-atom="118_thoughts" data-title="Thoughts" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_journey,concept/the_self,concept/critique_of_progress,form/free_verse,form/epigram,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="118_thoughts" data-title="Thoughts" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -3746,7 +3746,7 @@ what will yet be supplied.
 
 
 
-<span class="atom-split" data-atom="121_o_me_o_life" data-title="O Me! O Life!" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,concept/melancholy,concept/identity,concept/the_self,concept/the_artist_and_society,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="121_o_me_o_life" data-title="O Me! O Life!" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -3774,7 +3774,7 @@ That the powerful play goes on, and you may contribute a verse.
 
 
 
-<span class="atom-split" data-atom="122_to_a_president" data-title="To a President" data-chapter="" data-kind="intro" data-tags="concept/the_natural_order,concept/reform,concept/democracy,concept/power_and_corruption,form/free_verse,form/epigram,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="122_to_a_president" data-title="To a President" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -3794,7 +3794,7 @@ these States.
 
 
 
-<span class="atom-split" data-atom="123_i_sit_and_look_out" data-title="I Sit and Look Out" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/silence,concept/social_injustice,concept/grief_and_loss,concept/power_and_corruption,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="123_i_sit_and_look_out" data-title="I Sit and Look Out" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -3826,7 +3826,7 @@ See, hear, and am silent.
 
 
 
-<span class="atom-split" data-atom="129_the_runner" data-title="The Runner" data-chapter="" data-kind="intro" data-tags="motif/the_road,concept/the_body,form/free_verse,form/fragment,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="129_the_runner" data-title="The Runner" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -3844,14 +3844,14 @@ With lightly closed fists and arms partially rais’d.
 
 
 
-<span class="atom-split" data-atom="146_song_of_the_banner_at_daybreak" data-title="Song of the Banner at Daybreak" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/child,motif/flags_banners,motif/dawn,motif/money_gold,motif/drums_and_bugles,concept/war_and_its_cost,concept/nationalism_and_patriotism,form/dramatic_monologue,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="146_song_of_the_banner_at_daybreak" data-title="Song of the Banner at Daybreak" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
 
 
 Poet:  
-O A new song, a free song,  
+O A new [[Song|song]], a free [[Song|song]],  
 Flapping, flapping, flapping, flapping, by sounds, by voices clearer,  
 By the [[motifs/wind|wind]]’s voice and that of the drum,  
 By the banner’s voice and [[archetypes/child|child]]’s voice and sea’s voice and father’s voice,  
@@ -3862,7 +3862,7 @@ Where the banner at daybreak is flapping.
 
 Words! book-words! what are you?  
 Words no more, for hearken and see,  
-My song is there in the open air, and I must sing,  
+My [[Song|song]] is there in the open air, and I must sing,  
 With the banner and pennant a-flapping.  
 
 I’ll weave the chord and twine in,  
@@ -3933,7 +3933,7 @@ Only flapping in the [[motifs/wind|wind]]?
 
 
 Poet:  
-I hear and see not strips of cloth alone,  
+I hear and see not strips of cloth [[Alone|alone]],  
 I hear the tramp of armies, I hear the challenging sentry,  
 I hear the jubilant shouts of millions of men, I hear Liberty!  
 I hear the drums beat and the trumpets blowing,  
@@ -3957,7 +3957,7 @@ See the [[concepts/identity|Identity]] formed out of thirty-eight spacious and h
 States, (and many more to come,)  
 See forts on the shores of harbors, see ships sailing in and out;  
 Then over all, (aye! aye!) my little and lengthen’d pennant shaped  
-like a sword,  
+like a [[Sword|sword]],  
 Runs swiftly up indicating war and defiance--and now the halyards  
 have rais’d it,  
 Side of my banner broad and blue, side of my starry banner,  
@@ -3965,7 +3965,7 @@ Discarding peace over all the sea and land.
 
 Banner and Pennant:  
 Yet louder, higher, stronger, bard! yet farther, wider cleave!  
-No longer let our children deem us riches and peace alone,  
+No longer let our children deem us riches and peace [[Alone|alone]],  
 We may be terror and carnage, and are so now,  
 Not now are we any one of these spacious and haughty States, (nor  
 any five, nor ten,)  
@@ -3979,8 +3979,8 @@ Over the area spread below, the three or four millions of square
 miles, the capitals,  
 The forty millions of people,--O bard! in life and [[motifs/death|death]] supreme,  
 We, even we, henceforth flaunt out masterful, high up above,  
-Not for the present alone, for a thousand years chanting through you,  
-This song to the [[motifs/soul|soul]] of one poor little [[archetypes/child|child]].  
+Not for the present [[Alone|alone]], for a thousand years chanting through you,  
+This [[Song|song]] to the [[motifs/soul|soul]] of one poor little [[archetypes/child|child]].  
 
 [[archetypes/child|Child]]:  
 O my father I like not the houses,  
@@ -3999,7 +3999,7 @@ With passions of demons, slaughter, premature [[motifs/death|death]]?
 
 Banner:  
 Demons and [[motifs/death|death]] then I sing,  
-Put in all, aye all will I, sword-shaped pennant for war,  
+Put in all, aye all will I, [[Sword|sword]]-shaped pennant for war,  
 And a pleasure new and ecstatic, and the prattled yearning of children,  
 Blent with the sounds of the peaceful land and the liquid wash of the sea,  
 And the black ships fighting on the sea envelop’d in smoke,  
@@ -4066,7 +4066,7 @@ Flapping up there in the [[motifs/wind|wind]].
 
 
 
-<span class="atom-split" data-atom="170_not_youth_pertains_to_me" data-title="Not Youth Pertains to Me" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/war_and_its_cost,concept/comradeship,concept/identity,form/lyric,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="170_not_youth_pertains_to_me" data-title="Not Youth Pertains to Me" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -4081,7 +4081,7 @@ inures not to me,
 inure to me,  
 I have nourish’d the wounded and sooth’d many a dying soldier,  
 And at intervals waiting or in the midst of camp,  
-Composed these songs.  
+Composed these [[songs]].  
 
 
 
@@ -4090,7 +4090,7 @@ Composed these songs.
 
 
 
-<span class="atom-split" data-atom="172_world_take_good_notice" data-title="World Take Good Notice" data-chapter="" data-kind="intro" data-tags="motif/flags_banners,motif/stars,motif/white_and_red,concept/nationalism_and_patriotism,concept/the_union,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="172_world_take_good_notice" data-title="World Take Good Notice" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -4109,7 +4109,7 @@ Now and henceforth flaunt from these shores.
 
 
 
-<span class="atom-split" data-atom="189_by_blue_ontario_s_shore" data-title="By Blue Ontario’s Shore" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/prophet,concept/democracy,concept/nationalism_and_patriotism,concept/the_self,concept/war_and_its_cost,concept/the_artist_and_society,concept/liberty,form/ode,form/free_verse,histref/american_civil_war,character/abraham_lincoln,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="189_by_blue_ontario_s_shore" data-title="By Blue Ontario’s Shore" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -4118,9 +4118,9 @@ As I mused of these warlike days and of peace return’d, and the
 dead that return no more,  
 A [[characters/phantom|Phantom]] gigantic superb, with stern visage accosted me,  
 Chant me the poem, it said, that comes from the [[motifs/soul|soul]] of [[settings/america|America]],  
-chant me the carol of victory,  
+chant me the [[carol]] of victory,  
 And strike up the marches of Libertad, marches more powerful yet,  
-And sing me before you go the song of the throes of [[concepts/democracy|Democracy]].  
+And sing me before you go the [[Song|song]] of the throes of [[concepts/democracy|Democracy]].  
 
 ([[concepts/democracy|Democracy]], the destin’d conqueror, yet treacherous lip-smiles everywhere,  
 And [[motifs/death|death]] and infidelity at every step.)  
@@ -4199,7 +4199,7 @@ of precedents,
 Does not repel them or the past or what they have produced under  
 their forms,  
 Takes the lesson with calmness, perceives the corpse slowly borne  
-from the house,  
+from the [[house]],  
 Perceives that it waits a little while in the door, that it was  
 fittest for its days,  
 That its life has descended to the stalwart and [[motifs/well|well]]-shaped heir who  
@@ -4312,7 +4312,7 @@ pains, dismay, feebleness, it is bequeathing.)
 9  
 I listened to the [[characters/phantom|Phantom]] by Ontario’s shore,  
 I heard the voice arising demanding bards,  
-By them all native and grand, by them alone can these States be  
+By them all native and grand, by them [[Alone|alone]] can these States be  
 fused into the compact organism of a Nation.  
 
 To hold men together by paper and seal or by compulsion is no account,  
@@ -4341,7 +4341,7 @@ He supplies what wants supplying, he checks what wants checking,
 In peace out of him speaks the spirit of peace, large, rich,  
 thrifty, building populous towns, encouraging agriculture, arts,  
 commerce, lighting the study of man, the [[motifs/soul|soul]], health,  
-[[concepts/immortality|immortality]], government,  
+[[concepts/immortality|immortality]], [[government]],  
 In war he is the best backer of the war, he fetches artillery as  
 good as the engineer’s, he can make every word he speaks draw [[motifs/blood|blood]],  
 The years straying toward infidelity he withholds by his steady [[concepts/faith|faith]],  
@@ -4368,8 +4368,8 @@ ready to fall for Liberty.)
 For the great Idea,  
 That, O my brethren, that is the mission of poets.  
 
-Songs of stern defiance ever ready,  
-Songs of the rapid arming and the march,  
+[[songs|Songs]] of stern defiance ever ready,  
+[[songs|Songs]] of the rapid arming and the march,  
 The [[motifs/flag|flag]] of peace quick-folded, and instead the [[motifs/flag|flag]] we know,  
 Warlike [[motifs/flag|flag]] of the great Idea.  
 
@@ -4403,8 +4403,8 @@ Have you consider’d the organic compact of the first day of the
 first year of Independence, sign’d by the Commissioners, ratified  
 by the States, and read by Washington at the head of the army?  
 Have you possess’d yourself of the Federal Constitution?  
-Do you see who have left all feudal processes and poems behind them,  
-and assumed the poems and processes of [[concepts/democracy|Democracy]]?  
+Do you see who have left all feudal processes and [[Poems|poems]] behind them,  
+and assumed the [[Poems|poems]] and processes of [[concepts/democracy|Democracy]]?  
 Are you faithful to things? do you teach what the land and sea, the  
 bodies of men, womanhood, amativeness, heroic angers, teach?  
 Have you sped through fleeting customs, popularities?  
@@ -4450,7 +4450,7 @@ The track strew’d with the [[motifs/dust|dust]] of skeletons,
 By the roadside others disdainfully toss’d.  
 
 13  
-Rhymes and rhymers pass away, poems distill’d from poems pass away,  
+Rhymes and rhymers pass away, [[Poems|poems]] distill’d from [[Poems|poems]] pass away,  
 The swarms of reflectors and the polite pass, and leave ashes,  
 Admirers, importers, obedient persons, make but the soil of literature,  
 [[settings/america|America]] justifies itself, give it [[motifs/time|time]], no disguise can deceive it  
@@ -4464,13 +4464,13 @@ absorbs him as affectionately as he has absorb’d it.)
 He masters whose spirit masters, he tastes sweetest who results  
 sweetest in the long run,  
 The [[motifs/blood|blood]] of the brawn beloved of [[motifs/time|time]] is unconstraint;  
-In the need of songs, philosophy, an appropriate native grand-opera,  
+In the need of [[songs]], [[philosophy]], an appropriate native grand-opera,  
 shipcraft, any craft,  
 He or she is greatest who contributes the greatest original  
 practical example.  
 
 Already a nonchalant breed, silently emerging, appears on the streets,  
-People’s lips salute only doers, lovers, satisfiers, positive knowers,  
+People’s lips salute only doers, [[lovers]], satisfiers, positive knowers,  
 There will shortly be no more priests, I say their work is done,  
 [[motifs/death|Death]] is without emergencies here, but life is perpetual emergencies here,  
 Are your [[concepts/body|body]], days, manners, superb? after [[motifs/death|death]] you shall be superb,  
@@ -4482,7 +4482,7 @@ Fall behind me States!
 A man before all--myself, typical, before all.  
 
 Give me the pay I have served for,  
-Give me to sing the songs of the great Idea, take all the rest,  
+Give me to sing the [[songs]] of the great Idea, take all the rest,  
 I have loved the earth, sun, [[motifs/animals|animals]], I have despised riches,  
 I have given aims to every one that ask’d, stood up for the stupid  
 and crazy, devoted my income and labor to others,  
@@ -4510,16 +4510,16 @@ I swear I begin to see the meaning of these things,
 It is not the earth, it is not [[settings/america|America]] who is so great,  
 It is I who am great or to be great, it is You up there, or any one,  
 It is to walk rapidly through civilizations, governments, theories,  
-Through poems, pageants, shows, to form individuals.  
+Through [[Poems|poems]], pageants, shows, to form individuals.  
 
 Underneath all, individuals,  
 I swear nothing is good to me now that ignores individuals,  
 The American compact is altogether with individuals,  
-The only government is that which makes minute of individuals,  
+The only [[government]] is that which makes minute of individuals,  
 The whole theory of the universe is directed unerringly to one  
 single individual--namely to You.  
 
-(Mother! with subtle sense severe, with the naked sword in your hand,  
+(Mother! with subtle sense severe, with the naked [[Sword|sword]] in your hand,  
 I saw you at last refuse to treat but directly with individuals.)  
 
 16  
@@ -4541,7 +4541,7 @@ the audacity and [[concepts/sublime|sublime]] turbulence of the States.)
 Underneath the lessons of things, spirits, [[concepts/nature|Nature]], governments,  
 ownerships, I swear I perceive other lessons,  
 Underneath all to me is myself, to you yourself, (the same  
-monotonous old song.)  
+monotonous old [[Song|song]].)  
 
 17  
 O I see flashing that this [[settings/america|America]] is only you and me,  
@@ -4553,7 +4553,7 @@ Its endless gestations of new States are you and me,
 The war, (that war so bloody and grim, the war I will henceforth  
 forget), was you and me,  
 Natural and artificial are you and me,  
-[[concepts/freedom|Freedom]], language, poems, employments, are you and me,  
+[[concepts/freedom|Freedom]], language, [[Poems|poems]], employments, are you and me,  
 Past, present, future, are you and me.  
 
 I dare not shirk any part of myself,  
@@ -4602,7 +4602,7 @@ I take you specially to be mine, you terrible, rude forms.
 
 (Mother, bend down, bend close to me your face,  
 I know not what these plots and wars and deferments are for,  
-I know not fruition’s success, but I know that through war and crime  
+I know not fruition’s [[success]], but I know that through war and crime  
 your work goes on, and must yet go on.)  
 
 19  
@@ -4621,7 +4621,7 @@ O my rapt verse, my call, mock me not!
 Not for the bards of the past, not to invoke them have I launch’d  
 you forth,  
 Not to call even those lofty bards here by Ontario’s shores,  
-Have I sung so capricious and loud my savage song.  
+Have I sung so capricious and loud my savage [[Song|song]].  
 
 Bards for my own land only I invoke,  
 (For the war the war is over, the field is clear’d,)  
@@ -4631,7 +4631,7 @@ To cheer O Mother your boundless expectant [[motifs/soul|soul]].
 Bards of the great Idea! bards of the peaceful inventions! (for the  
 war, the war is over!)  
 Yet bards of latent armies, a million soldiers waiting ever-ready,  
-Bards with songs as from burning coals or the [[motifs/lightning|lightning]]’s fork’d stripes!  
+Bards with [[songs]] as from burning coals or the [[motifs/lightning|lightning]]’s fork’d stripes!  
 Ample Ohio’s, Kanada’s bards--bards of California! inland bards--  
 bards of the war!  
 You by my charm I invoke.  
@@ -4643,7 +4643,7 @@ You by my charm I invoke.
 
 
 
-<span class="atom-split" data-atom="193_there_was_a_child_went_forth" data-title="There Was a Child Went Forth" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/childhood,motif/nature,motif/flowers,concept/childhood_and_growth,concept/identity,concept/self_and_soul,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="193_there_was_a_child_went_forth" data-title="There Was a Child Went Forth" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -4656,7 +4656,7 @@ Or for many years or stretching cycles of years.
 
 The early lilacs became part of this [[archetypes/child|child]],
 And grass and [[motifs/white-and-red|white and red]] morning-glories, and [[motifs/white-and-red|white and red]]
-clover, and the song of the [[characters/phoebe|phoebe]]-bird,
+clover, and the [[Song|song]] of the [[characters/phoebe|phoebe]]-bird,
 And the Third-month lambs and the sow’s pink-faint litter, and the
 mare’s foal and the cow’s calf,
 And the noisy brood of the barnyard or by the mire of the pond-side,
@@ -4718,7 +4718,7 @@ now goes, and will always go forth every day.
 
 
 
-<span class="atom-split" data-atom="199_song_of_prudence" data-title="Song of Prudence" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,concept/self_and_soul,concept/immortality,concept/conscience,concept/the_body,concept/mortality,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="199_song_of_prudence" data-title="Song of Prudence" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -4828,7 +4828,7 @@ avoids [[motifs/death|death]].
 
 
 
-<span class="atom-split" data-atom="203_out_from_behind_this_mask_to_confront_a_portrait" data-title="Out from Behind This Mask [To Confront a Portrait]" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/masks_disguise,motif/the_mirror,concept/the_self,concept/identity,concept/self_and_soul,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="203_out_from_behind_this_mask_to_confront_a_portrait" data-title="Out from Behind This Mask [To Confront a Portrait]" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -4857,7 +4857,7 @@ To you whoe’er you are--a look.
 A traveler of thoughts and years, of peace and war,
 Of youth long sped and middle age declining,
 (As the first volume of a tale perused and laid away, and this the second,
-Songs, ventures, speculations, presently to close,)
+[[songs|Songs]], ventures, speculations, presently to close,)
 Lingering a moment here and now, to you I opposite turn,
 As on the [[motifs/road|road]] or at some crevice door by chance, or open’d [[motifs/window|window]],
 Pausing, inclining, baring my head, you specially I greet,
@@ -4871,7 +4871,7 @@ Then travel travel on.
 
 
 
-<span class="atom-split" data-atom="206_you_felons_on_trial_in_courts" data-title="You Felons on Trial in Courts" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,concept/guilt,concept/the_body,concept/sin_and_the_fall,concept/social_injustice,concept/the_self,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="206_you_felons_on_trial_in_courts" data-title="You Felons on Trial in Courts" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -4905,7 +4905,7 @@ And henceforth I will not deny them--for how can I deny myself?
 
 
 
-<span class="atom-split" data-atom="207_laws_for_creations" data-title="Laws for Creations" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,concept/the_artist_and_society,concept/the_self,concept/liberty,concept/nationalism_and_patriotism,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="207_laws_for_creations" data-title="Laws for Creations" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -4936,7 +4936,7 @@ And that you or any one must approach creations through such laws?
 
 
 
-<span class="atom-split" data-atom="213_to_a_pupil" data-title="To a Pupil" data-chapter="" data-kind="intro" data-tags="concept/reform,concept/the_body,concept/identity,concept/the_self,concept/education,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="213_to_a_pupil" data-title="To a Pupil" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -4965,7 +4965,7 @@ Rest not till you rivet and publish yourself of your own Personality.
 
 
 
-<span class="atom-split" data-atom="214_unfolded_out_of_the_folds" data-title="Unfolded out of the Folds" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/marriage,concept/the_body,concept/regeneration,concept/the_self,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="214_unfolded_out_of_the_folds" data-title="Unfolded out of the Folds" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -4978,8 +4978,8 @@ superbest man of the earth,
 Unfolded out of the friendliest woman is to come the friendliest man,
 Unfolded only out of the perfect [[concepts/body|body]] of a woman can a man be
 form’d of perfect [[concepts/body|body]],
-Unfolded only out of the inimitable poems of woman can come the
-poems of man, (only thence have my poems come;)
+Unfolded only out of the inimitable [[Poems|poems]] of woman can come the
+[[Poems|poems]] of man, (only thence have my [[Poems|poems]] come;)
 Unfolded out of the strong and arrogant woman I [[motifs/love|love]], only thence
 can appear the strong and arrogant man I [[motifs/love|love]],
 Unfolded by brawny embraces from the [[motifs/well|well]]-muscled woman
@@ -4999,7 +4999,7 @@ First the man is shaped in the woman, he can then be shaped in himself.
 
 
 
-<span class="atom-split" data-atom="215_what_am_i_after_all" data-title="What Am I After All" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/childhood,concept/the_self,concept/identity,form/fragment,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="215_what_am_i_after_all" data-title="What Am I After All" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_  
@@ -5020,7 +5020,7 @@ the sound of your name?
 
 
 
-<span class="atom-split" data-atom="216_kosmos" data-title="Kosmos" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/stars,concept/the_self,concept/the_body,concept/immortality,concept/self_and_soul,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="216_kosmos" data-title="Kosmos" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -5040,7 +5040,7 @@ understands by subtle analogies all other theories,
 The theory of a [[motifs/city|city]], a poem, and of the large politics of these States;
 Who believes not only in our globe with its sun and [[motifs/moon|moon]], but in
 other globes with their suns and moons,
-Who, constructing the house of himself or herself, not for a day
+Who, constructing the [[house]] of himself or herself, not for a day
 but for all [[motifs/time|time]], sees races, eras, dates, generations,
 The past, the future, dwelling there, like space, inseparable together.
 
@@ -5051,7 +5051,7 @@ The past, the future, dwelling there, like space, inseparable together.
 
 
 
-<span class="atom-split" data-atom="219_tests" data-title="Tests" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/truth,concept/identity,form/fragment,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="219_tests" data-title="Tests" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_  
@@ -5073,7 +5073,7 @@ and near without one exception.
 
 
 
-<span class="atom-split" data-atom="246_o_living_always_always_dying" data-title="O Living Always, Always Dying" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/death,concept/identity,concept/mortality,concept/self_and_soul,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="246_o_living_always_always_dying" data-title="O Living Always, Always Dying" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_
@@ -5094,7 +5094,7 @@ To pass on, (O living! always living!) and leave the corpses behind.
 
 
 
-<span class="atom-split" data-atom="263_excelsior" data-title="Excelsior" data-chapter="" data-kind="intro" data-tags="concept/pride,concept/joy,concept/self_and_soul,concept/identity,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="263_excelsior" data-title="Excelsior" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_  
@@ -5126,7 +5126,7 @@ devouring ecstasy to make joyous hymns for the whole earth.
 
 
 
-<span class="atom-split" data-atom="266_mediums" data-title="Mediums" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/death,concept/democracy,concept/self_and_cosmos,setting/america,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="266_mediums" data-title="Mediums" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_
@@ -5143,8 +5143,8 @@ shall enjoy the sight of the beef, lumber, bread-stuffs, of
 Chicago the great [[motifs/city|city]].
 They shall train themselves to go in public to become orators and
 oratresses,
-Strong and sweet shall their tongues be, poems and materials of
-poems shall come from their lives, they shall be makers and finders,
+Strong and sweet shall their tongues be, [[Poems|poems]] and materials of
+[[Poems|poems]] shall come from their lives, they shall be makers and finders,
 Of them and of their works shall emerge divine conveyers, to convey gospels,
 Characters, events, retrospections, shall be convey’d in gospels,
 trees, [[motifs/animals|animals]], waters, shall be convey’d,
@@ -5160,7 +5160,7 @@ trees, [[motifs/animals|animals]], waters, shall be convey’d,
 <span class="atom-split" data-atom="291_these_carols" data-title="These Carols" data-chapter="" data-kind="intro" data-tags="cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
 
 
-_Cluster: SONGS OF PARTING_
+_Cluster: [[songs|SONGS]] OF PARTING_
 
 
 These carols sung to cheer my passage through the world I see,
@@ -5173,13 +5173,13 @@ For completion I dedicate to the Invisible World.
 
 
 
-<span class="atom-split" data-atom="321_to_get_the_final_lilt_of_songs" data-title="To Get the Final Lilt of Songs" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/music_and_song,concept/the_artist_and_society,concept/memory_and_time,concept/doubt,form/epigram,histref/the_bible,histref/ancient_greece,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="321_to_get_the_final_lilt_of_songs" data-title="To Get the Final Lilt of Songs" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
 
 
-To get the final lilt of songs,  
+To get the final lilt of [[songs]],  
 To penetrate the inmost lore of poets--to know the mighty ones,  
 Job, Homer, Eschylus, [[historical-references/dante|Dante]], Shakespere, Tennyson, Emerson;  
 To diagnose the shifting-delicate tints of [[motifs/love|love]] and [[concepts/pride|pride]] and [[concepts/doubt|doubt]]--  
@@ -5194,7 +5194,7 @@ Old age, and what it brings from all its past experiences.
 
 
 
-<span class="atom-split" data-atom="327_small_the_theme_of_my_chant" data-title="Small the Theme of My Chant" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/comradeship,motif/leaves,concept/self_and_soul,concept/identity,concept/democracy,concept/war_and_its_cost,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="327_small_the_theme_of_my_chant" data-title="Small the Theme of My Chant" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -5202,8 +5202,8 @@ _Cluster: SANDS AT SEVENTY_
 
 Small the theme of my Chant, yet the greatest--namely, One’s-[[concepts/self|Self]]--  
 a simple, separate person. That, for the use of the New World, I sing.  
-Man’s physiology complete, from top to toe, I sing. Not physiognomy alone,  
-nor brain alone, is worthy for the Muse;--I say the Form complete  
+Man’s physiology complete, from top to toe, I sing. Not physiognomy [[Alone|alone]],  
+nor brain [[Alone|alone]], is worthy for the Muse;--I say the Form complete  
 is worthier far. The Female equally with the Male, I sing.  
 Nor cease at the theme of One’s-[[concepts/self|Self]]. I speak the word of the  
 modern, the word En-Masse.  
@@ -5220,7 +5220,7 @@ link’d together let us go.)
 
 
 
-<span class="atom-split" data-atom="352_lingering_last_drops" data-title="Lingering Last Drops" data-chapter="" data-kind="intro" data-tags="motif/water,concept/transience,concept/mortality,concept/self_and_cosmos,form/free_verse,cluster/identity,cluster/free_verse,cluster/eternal_return"></span>
+<span class="atom-split" data-atom="352_lingering_last_drops" data-title="Lingering Last Drops" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  

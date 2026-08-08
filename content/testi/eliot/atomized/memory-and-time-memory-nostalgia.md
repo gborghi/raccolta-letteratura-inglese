@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/memory-and-time-memory-nostalgia" data-author="Eliot" data-workhref="works/memory-and-time-·-memory-·-nostalgia-(eliot)"></div>
 
 
-<span class="atom-split" data-atom="005_rhapsody_on_a_windy_night" data-title="Rhapsody on a Windy Night" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/moon,motif/night,motif/the_city,motif/decay,concept/memory_and_time,concept/spiritual_emptiness,setting/the_modern_metropolis,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="005_rhapsody_on_a_windy_night" data-title="Rhapsody on a Windy Night" data-chapter="" data-kind="intro"></span>
 
 
 Rhapsody on a Windy [[motifs/night|Night]]  
@@ -42,7 +42,7 @@ A crowd of twisted things;
 A twisted branch upon the beach  
 Eaten smooth, and polished  
 As if the world gave up  
-The secret of its skeleton,  
+The secret of its [[skeleton]],  
 Stiff and white.  
 A broken [[motifs/spring|spring]] in a factory yard,  
 Rust that clings to the form that the strength has left  
@@ -73,7 +73,7 @@ The [[motifs/moon|moon]] has lost her [[motifs/memory|memory]].
 A washed-out smallpox cracks her face,  
 Her hand twists a paper [[motifs/rose|rose]],  
 That smells of [[motifs/dust|dust]] and eau de Cologne,  
-She is alone  
+She is [[Alone|alone]]  
 With all the old nocturnal smells  
 That [[motifs/cross|cross]] and [[motifs/cross|cross]] across her brain.’  
 The reminiscence comes  
@@ -125,7 +125,7 @@ una folla di cose contorte;
 un ramo contorto sulla spiaggia  
 roso liscio, e levigato  
 come se il mondo cedesse  
-il segreto del suo scheletro,  
+il segreto del suo [[skeleton|scheletro]],  
 rigido e bianco.  
 Una [[motifs/spring|molla]] rotta nel cortile d’una fabbrica,  
 ruggine che aderisce alla forma che la forza ha lasciato  
@@ -156,7 +156,7 @@ La [[motifs/moon|luna]] ha perduto la sua [[motifs/memory|memoria]].
 Un vaiolo sbiadito le screpola il viso,  
 la sua mano torce una [[motifs/rose|rosa]] di carta,  
 che odora di [[motifs/dust|polvere]] e d’acqua di Colonia,  
-è sola  
+è [[Alone|sola]]  
 con tutti i vecchi odori notturni  
 che [[motifs/cross|attraversano]] e [[motifs/cross|riattraversano]] il suo cervello.’  
 Viene la reminiscenza  
@@ -179,18 +179,18 @@ L’ultimo giro del coltello.
 
 
 
-<span class="atom-split" data-atom="008_aunt_helen" data-title="Aunt Helen" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_clock,concept/satire_of_society,concept/mortality,form/epigram,histref/new_england,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="008_aunt_helen" data-title="Aunt Helen" data-chapter="" data-kind="intro"></span>
 
 
 Aunt [[characters/helen|Helen]]  
 Miss [[characters/helen|Helen]] Slingsby was my maiden aunt,  
-And lived in a small house near a fashionable square  
+And lived in a small [[house]] near a fashionable square  
 Cared for by servants to the number of four.  
 Now when she died there was [[motifs/silence|silence]] in heaven  
 And [[motifs/silence|silence]] at her end of the street.  
 The shutters were drawn and the undertaker wiped his feet —  
 He was aware that this sort of thing had occurred before.  
-The dogs were handsomely provided for,  
+The [[dogs]] were handsomely provided for,  
 But shortly afterwards the parrot died too.  
 The Dresden [[motifs/clock|clock]] continued ticking on the mantelpiece,  
 And the footman sat upon the dining-table  
@@ -202,13 +202,13 @@ Who had always been so careful while her mistress lived.
 
 La zia [[characters/helen|Helen]]  
 La signorina [[characters/helen|Helen]] Slingsby era la mia zia zitella,  
-e viveva in una piccola casa presso una piazza alla moda  
+e viveva in una piccola [[house|casa]] presso una piazza alla moda  
 accudita da servitori in numero di quattro.  
 Ora, quando morì ci fu [[motifs/silence|silenzio]] in cielo  
 e [[motifs/silence|silenzio]] al suo capo della strada.  
 Le persiane furono chiuse e l’impresario di pompe funebri si pulì i piedi —  
 sapeva che questo genere di cose era già accaduto prima.  
-Fu provveduto lautamente ai cani,  
+Fu provveduto lautamente ai [[dogs|cani]],  
 ma poco dopo morì anche il pappagallo.  
 L’[[motifs/clock|orologio]] di Dresda continuò a ticchettare sulla mensola del camino,  
 e il valletto sedeva sul tavolo da pranzo  
@@ -217,7 +217,7 @@ lei che era sempre stata così attenta mentre la padrona viveva.
 
 
 
-<span class="atom-split" data-atom="016_burbank_with_a_baedeker_bleistein_with_a_cigar" data-title="Burbank with a Baedeker: Bleistein with a Cigar" data-chapter="" data-kind="intro" data-tags="topos/sic_transit_gloria_mundi,motif/ruins,motif/money_gold,motif/decay,concept/satire_of_society,setting/europe,setting/venice,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="016_burbank_with_a_baedeker_bleistein_with_a_cigar" data-title="Burbank with a Baedeker: Bleistein with a Cigar" data-chapter="" data-kind="intro"></span>
 
 
 Burbank with a Baedeker:  
@@ -301,7 +301,7 @@ pensava Burbank, meditando
 
 
 
-<span class="atom-split" data-atom="021_lune_de_miel" data-title="Lune de Miel" data-chapter="" data-kind="intro" data-tags="motif/decay,motif/ruins,concept/marriage_and_fidelity,concept/immortality_of_art,concept/the_grotesque,setting/europe,setting/italy,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="021_lune_de_miel" data-title="Lune de Miel" data-chapter="" data-kind="intro"></span>
 
 
 Lune de Miel  
@@ -349,7 +349,7 @@ nelle sue pietre frananti la forma precisa di Bisanzio.
 
 
 
-<span class="atom-split" data-atom="023_dans_le_restaurant" data-title="Dans le Restaurant" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/death,motif/the_sea,concept/lust,concept/the_grotesque,concept/innocence_and_experience,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="023_dans_le_restaurant" data-title="Dans le Restaurant" data-chapter="" data-kind="intro"></span>
 
 
 Dans le Restaurant  
@@ -423,7 +423,7 @@ eppure, fu un tempo un bell’uomo, d’alta statura.
 
 
 
-<span class="atom-split" data-atom="024_whispers_of_immortality" data-title="Whispers of Immortality" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/the_grave,motif/desire,concept/mortality,concept/lust,histref/the_renaissance,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="024_whispers_of_immortality" data-title="Whispers of Immortality" data-chapter="" data-kind="intro"></span>
 
 
 Whispers of [[concepts/immortality|Immortality]]  
@@ -440,7 +440,7 @@ Who found no substitute for sense,
 To seize and clutch and penetrate;  
 Expert beyond experience,  
 He knew the anguish of the marrow  
-The ague of the skeleton;  
+The ague of the [[skeleton]];  
 No contact possible to flesh  
 Allayed the fever of the bone.  
                       .    .    .    .    .  
@@ -478,7 +478,7 @@ che non trovò surrogato al senso,
 per afferrare e stringere e penetrare;  
 esperto oltre l’esperienza,  
 conobbe l’angoscia del midollo  
-il tremito febbrile dello scheletro;  
+il tremito febbrile dello [[skeleton|scheletro]];  
 nessun contatto possibile alla carne  
 placò la febbre dell’osso.  
                       .    .    .    .    .  
@@ -501,7 +501,7 @@ per tenere calda la nostra metafisica.
 
 
 
-<span class="atom-split" data-atom="054_five-finger_exercises" data-title="Five-Finger Exercises" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,topos/tempus_fugit,motif/animals,motif/dust,motif/bread_and_wine_eucharist,motif/time,concept/satire_of_society,form/satire,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="054_five-finger_exercises" data-title="Five-Finger Exercises" data-chapter="" data-kind="intro"></span>
 
 
 Five-Finger Exercises  
@@ -528,8 +528,8 @@ Little dog was safe and warm
 Under a cretonne eiderdown,  
 Yet the field was cracked and brown  
 And the tree was cramped and dry.  
-Pollicle dogs and cats all must  
-Jellicle cats and dogs all must  
+Pollicle [[dogs]] and cats all must  
+Jellicle cats and [[dogs]] all must  
 Like undertakers, come to [[motifs/dust|dust]].  
 Here a little dog I pause  
 Heaving up my prior paws,  
@@ -616,8 +616,8 @@ Il cagnolino era al sicuro e al caldo
 sotto un piumino di cretonne,  
 eppure il campo era screpolato e bruno  
 e l’albero era rattrappito e secco.  
-Cani Pollicoli e gatti tutti devono  
-gatti Jellicle e cani tutti devono  
+[[dogs|Cani]] Pollicoli e gatti tutti devono  
+gatti Jellicle e [[dogs|cani]] tutti devono  
 come i becchini, tornare in [[motifs/dust|polvere]].  
 Qui io, cagnolino, mi fermo  
 sollevando le mie zampe anteriori,  
@@ -679,7 +679,7 @@ Com’è sgradevole incontrare Mr. Eliot!
 
 
 
-<span class="atom-split" data-atom="103_a_lyric_if_time_and_space_as_sages_say" data-title="[A Lyric]: ‘If Time and Space, as Sages say’" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,topos/tempus_fugit,motif/flowers,motif/time,concept/transience,concept/love_romantic,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="103_a_lyric_if_time_and_space_as_sages_say" data-title="[A Lyric]: ‘If Time and Space, as Sages say’" data-chapter="" data-kind="intro"></span>
 
 
 [A [[forms/lyric|Lyric]]]: ‘If [[motifs/time|Time]] and Space, as Sages say’  
@@ -723,7 +723,7 @@ e benché i nostri giorni d’[[motifs/love|amore]] siano pochi
 
 
 
-<span class="atom-split" data-atom="104_song_if_space_and_time_as_sages_say" data-title="Song: ‘If space and time, as sages say’" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,topos/tempus_fugit,motif/flowers,motif/decay,concept/transience,concept/love_romantic,form/song,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="104_song_if_space_and_time_as_sages_say" data-title="Song: ‘If space and time, as sages say’" data-chapter="" data-kind="intro"></span>
 
 
 [[works/song-(poe)|Song]]: ‘If space and [[motifs/time|time]], as sages say’  
@@ -747,7 +747,7 @@ And though the [[motifs/flowers|flowers]] of life be few
 
 <span class="qlang-split" data-lang="it"></span>
 
-Canto: ‘Se lo spazio e il [[motifs/time|tempo]], come dicono i saggi’  
+[[Song|Canto]]: ‘Se lo spazio e il [[motifs/time|tempo]], come dicono i saggi’  
 Se lo spazio e il [[motifs/time|tempo]], come dicono i saggi,  
    sono cose che non possono essere,  
 la mosca che vive un solo giorno  
@@ -767,7 +767,7 @@ e benché i [[motifs/flowers|fiori]] della vita siano pochi
 
 
 
-<span class="atom-split" data-atom="106_song_when_we_came_home_across_the_hill" data-title="Song: ‘When we came home across the hill’" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/decay,motif/nature,concept/transience,concept/love_romantic,form/song,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="106_song_when_we_came_home_across_the_hill" data-title="Song: ‘When we came home across the hill’" data-chapter="" data-kind="intro"></span>
 
 
 [[works/song-(poe)|Song]]: ‘When we came [[motifs/home|home]] across the [[motifs/hill|hill]]’  
@@ -783,7 +783,7 @@ Were faded, and the [[motifs/leaves|leaves]] were brown.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Canto: ‘Quando tornammo a [[motifs/home|casa]] per la [[motifs/hill|collina]]’  
+[[Song|Canto]]: ‘Quando tornammo a [[motifs/home|casa]] per la [[motifs/hill|collina]]’  
 Quando tornammo a [[motifs/home|casa]] per la [[motifs/hill|collina]]  
    nessuna [[motifs/leaves|foglia]] era caduta dagli alberi;  
    le dita gentili della brezza  
@@ -795,7 +795,7 @@ erano sfiorite, e le [[motifs/leaves|foglie]] erano brune.
 
 
 
-<span class="atom-split" data-atom="107_before_morning" data-title="Before Morning" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/flowers,motif/decay,motif/dawn,concept/transience,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="107_before_morning" data-title="Before Morning" data-chapter="" data-kind="intro"></span>
 
 
 Before Morning  
@@ -823,7 +823,7 @@ fragranza di fioritura e fragranza di [[motifs/decay|sfacelo]],
 
 
 
-<span class="atom-split" data-atom="114_ode" data-title="Ode" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/education,concept/nostalgia,concept/memory_and_time,form/ode,setting/new_england,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="114_ode" data-title="Ode" data-chapter="" data-kind="intro"></span>
 
 
 Ode  

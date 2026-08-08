@@ -54,7 +54,7 @@ Back to Washington
 Fifty Hours Left Wounded on the Field
 Hospital Scenes and Persons
 Patent-Office Hospital
-The White House by Moonlight
+The White [[house|House]] by Moonlight
 An Army Hospital Ward
 A Connecticut Case
 Two Brooklyn Boys
@@ -188,7 +188,7 @@ Delaware [[motifs/river|River]]--Days and Nights
 Scenes on Ferry and [[motifs/river|River]]--Last [[motifs/winter|Winter]]'s Nights
 The First [[motifs/spring|Spring]] Day on Chestnut Street
 Up the Hudson to Ulster County
-Days at J.B.'s--Turf Fires--[[motifs/spring|Spring]] Songs
+Days at J.B.'s--Turf Fires--[[motifs/spring|Spring]] [[songs|Songs]]
 Meeting a Hermit
 An Ulster County Waterfall
 Walter Dumont and his Medal
@@ -202,7 +202,7 @@ Mature [[motifs/summer|Summer]] Days and [[motifs/night|Night]]
 Exposition Building--New [[motifs/city|City]] Hall--[[motifs/river|River]]-Trip
 Swallows on the [[motifs/river|River]]
 Begin a Long Jaunt West
-In the Sleeper
+In [[The Sleeper|the Sleeper]]
 Missouri State
 Lawrence and Topeka, Kansas
 The Prairies--(and an Undeliver'd Speech)
@@ -274,7 +274,7 @@ By Emerson's [[motifs/grave|Grave]]
 At Present Writing--Personal
 After Trying a Certain Book
 Final Confessions--Literary Tests
-[[concepts/nature|Nature]] and [[concepts/democracy|Democracy]]--Morality
+[[concepts/nature|Nature]] and [[concepts/democracy|Democracy]]--[[morality|Morality]]
 
 COLLECT
 
@@ -337,7 +337,7 @@ Little Jane
 Dumb Kate
 Talk to an Art [[concepts/union|Union]]
 [[motifs/blood|Blood]]-Money
-Wounded in the House of Friends
+Wounded in the [[house|House]] of Friends
 Sailing the Mississippi at Midnight
 
 NOVEMBER BOUGHS
@@ -378,7 +378,7 @@ Left-hand Writing by Soldiers
 Central Virginia in '64
 Paying the First Color'd Troops
 
-FIVE THOUSAND POEMS
+FIVE THOUSAND [[Poems|POEMS]]
 
 THE OLD BOWERY
 
@@ -459,6 +459,7 @@ WALT WHITMAN'S LAST
 
 
 
+
 <span class="atom-split" data-atom="story_01_specimen_days" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — SPECIMEN DAYS" data-chapter="SPECIMEN DAYS" data-kind="story" data-tags="motif/birds,motif/blood,motif/city,motif/flowers,motif/home,motif/memory,motif/nature,motif/river,motif/seasons,motif/soul,motif/time,concept/body,concept/history,concept/nature,form/history"></span>
 
 
@@ -502,7 +503,7 @@ cases, persons, sights, occurrences in camp, by the bed-side, and
 not seldom by the corpses of the dead. Some were scratch'd down from
 narratives I heard and itemized while watching, or waiting, or tending
 somebody amid those scenes. I have dozens of such little note-books
-left, forming a special [[concepts/history|history]] of those years, for myself alone, full
+left, forming a special [[concepts/history|history]] of those years, for myself [[Alone|alone]], full
 of associations never to be possibly said or sung. I wish I could convey
 to the reader the associations that attach to these soil'd and creas'd
 livraisons, each composed of a sheet or two of paper, folded small to
@@ -626,7 +627,7 @@ thirty miles from [[settings/new-york|New York]] [[motifs/city|city]]. Rode arou
 viewing and pondering and dwelling long upon them, every-thing coming
 back to me. Went to the old Whitman homestead on the upland and took a
 view eastward, inclining south, over the broad and beautiful farm lands
-of my grandfather (1780,) and my father. There was the new house (1810,)
+of my grandfather (1780,) and my father. There was the new [[house]] (1810,)
 the big oak a hundred and fifty or two hundred years old; there
 the [[motifs/well|well]], the sloping kitchen-[[motifs/garden|garden]], and a little way off even the
 [[motifs/well|well]]-kept remains of the dwelling of my great-grandfather (1750-'60)
@@ -678,7 +679,7 @@ I went down from this ancient [[motifs/grave|grave]] place eighty or ninety rods
 site of the Van Velsor homestead, where my mother was born (1795,)
 and where every spot had been familiar to me as a [[archetypes/child|child]] and youth
 (1825-'40.) Then stood there a long rambling, dark-gray, shingle-sided
-house, with sheds, pens, a great barn, and much open [[motifs/road|road]]-space. Now of
+[[house]], with sheds, pens, a great barn, and much open [[motifs/road|road]]-space. Now of
 all those not a vestige left; all had been pull'd down, erased, and the
 plough and harrow pass'd over foundations, [[motifs/road|road]]-spaces and everything,
 for many summers; fenced in at present, and grain and clover growing
@@ -688,7 +689,7 @@ the place. Even the copious old brook and [[motifs/spring|spring]] seem'd to hav
 dwindled away. The whole scene, with what it arous'd, memories of
 my young days there half a century ago, the vast kitchen and ample
 fireplace and the sitting-room adjoining, the plain furniture, the
-meals, the house full of merry people, my grandmother Amy's sweet old
+meals, the [[house]] full of merry people, my grandmother Amy's sweet old
 face in its Quaker cap, my grandfather "the Major," jovial, red, stout,
 with sonorous voice and characteristic physiognomy, with the actual
 sights themselves, made the most pronounc'd half-day's experience of my
@@ -717,21 +718,21 @@ Of the domestic and inside life of the middle of Long Island, at and
 just before that [[motifs/time|time]], here are two samples:
 
 "The Whitmans, at the beginning of the present century, lived in a long
-story-and-a-half farm-house, hugely timber'd, which is still standing.
+story-and-a-half farm-[[house]], hugely timber'd, which is still standing.
 A great smoke-canopied kitchen, with vast hearth and chimney, form'd one
-end of the house. The existence of [[concepts/slavery|slavery]] in [[settings/new-york|New York]] at that [[motifs/time|time]], and
-the possession by the family of some twelve or fifteen slaves, house and
+end of the [[house]]. The existence of [[concepts/slavery|slavery]] in [[settings/new-york|New York]] at that [[motifs/time|time]], and
+the possession by the family of some twelve or fifteen slaves, [[house]] and
 field servants, gave things quite a patriarchial look. The very young
 darkies could be seen, a swarm of them, toward sundown, in this kitchen,
 squatted in a circle on the floor, eating their supper of Indian pudding
-and milk. In the house, and in food and furniture, all was rude, but
+and milk. In the [[house]], and in food and furniture, all was rude, but
 substantial. No carpets or stoves were known, and no coffee, and tea or
 sugar only for the women. Rousing wood fires gave both warmth and light
 on [[motifs/winter|winter]] nights. Pork, poultry, beef, and all the ordinary vegetables
 and grains were plentiful. Cider was the men's common drink, and used at
 meals. The clothes were mainly homespun. Journeys were made by both men
 and women on horseback. Both sexes labor'd with their own hands-the men
-on the farm--the women in the house and around it. Books were scarce.
+on the farm--the women in the [[house]] and around it. Books were scarce.
 The annual copy of the almanac was a treat, and was pored over through
 the long [[motifs/winter|winter]] evenings. I must not forget to mention that both these
 families were near enough to the sea to behold it from the high places,
@@ -754,7 +755,7 @@ frequently in the saddle, directing the labor of her slaves, in
 language in which, on exciting occasions, oaths were not spared. The
 two immediate grandmothers were, in the best sense, superior women. The
 maternal one (Amy Williams before [[motifs/marriage|marriage]]) was a Friend, or Quakeress,
-of sweet, sensible character, house-wifely proclivities, and deeply
+of sweet, sensible character, [[house]]-wifely proclivities, and deeply
 intuitive and spiritual. The other (Hannah Brush,) was an equally noble,
 perhaps stronger character, lived to be very old, had quite a family of
 sons, was a natural lady, was in early life a school-mistress, and had
@@ -805,7 +806,7 @@ and leave the sun's heat to hatch them.)
 
 The eastern end of Long Island, the Peconic bay region, I knew quite
 [[motifs/well|well]] too--sail'd more than once around Shelter island, and down to
-Montauk--spent many an hour on Turtle [[motifs/hill|hill]] by the old light-house, on
+Montauk--spent many an hour on Turtle [[motifs/hill|hill]] by the old light-[[house]], on
 the extreme point, looking out over the ceaseless roll of the Atlantic.
 I used to like to go down there and fraternize with the blue-fishers,
 or the annual squads of sea-bass takers. Sometimes, along Montauk
@@ -877,7 +878,7 @@ _Paumanacker_, or _Creole-'Paumanacker_."--_John Burroughs_.
 MY FIRST READING--LAFAYETTE
 
 From 1824 to '28 our family lived in Brooklyn in Front, Cranberry and
-Johnson streets. In the latter my father built a nice house for a [[motifs/home|home]],
+Johnson streets. In the latter my father built a nice [[house]] for a [[motifs/home|home]],
 and afterwards another in Tillary street. We occupied them, one after
 the other, but they were mortgaged, and we lost them. I yet remember
 Lafayette's visit.[4] Most of these years I went to the public schools.
@@ -888,7 +889,7 @@ two sons, Clarke's, Fulton street, near Orange. I had a nice desk and
 [[motifs/window|window]]-nook to myself; Edward C. kindly help'd me at my handwriting
 and composition, and, (the signal event of my life up to that [[motifs/time|time]],)
 subscribed for me to a big circulating library. For a [[motifs/time|time]] I now revel'd
-in romance-reading of all kinds; first, the "Arabian Nights," all
+in [[Romance|romance]]-reading of all kinds; first, the "Arabian Nights," all
 the volumes, an amazing treat. Then, with sorties in very many other
 directions, took in Walter Scott's novels, one after another, and his
 poetry, (and continue to enjoy novels and poetry to this day.)
@@ -944,14 +945,14 @@ of comparative values, it may be mention'd that twenty-five acres in
 what is now the most costly part of the [[motifs/city|city]], bounded by Flatbush and
 Fulton avenues, were then bought by Mr Parmentier, a French _emigr�_,
 for $4000. Who remembers the old places as they were? Who remembers the
-old citizens of that [[motifs/time|time]]? Among the former were Smith & Wood's, Coe
+old citizens of that [[motifs/time|time]]? Among the former were [[smith|Smith]] & Wood's, Coe
 Downing's, and other public houses at the ferry, the old Ferry itself,
 [[motifs/love|Love]] lane, the Heights as then, the Wallabout with the wooden bridge,
 and the [[motifs/road|road]] out beyond Fulton street to the old toll-gate. Among the
 latter were the majestic and genial General Jeremiah Johnson, with
 others, Gabriel Furman, Rev. E. M. Johnson, Alden Spooner, Mr.
 Pierrepont, Mr. Joralemon, Samuel Willoughby, Jonathan Trotter, George
-Hall, Cyrus P. Smith, N. B. Morse, John Dikeman, Adrian Hegeman, William
+Hall, Cyrus P. [[smith|Smith]], N. B. Morse, John Dikeman, Adrian Hegeman, William
 Udall, and old Mr. Duflon, with his military [[motifs/garden|garden]].
 
 
@@ -999,7 +1000,7 @@ in the pilot-houses where I could get a full sweep, absorbing
 shows, accompaniments, surroundings. What oceanic currents, eddies,
 underneath--the great tides of humanity also, with ever-shifting
 movements. Indeed, I have always had a passion for ferries; to me they
-afford inimitable, streaming, never-failing, living poems. The [[motifs/river|river]]
+afford inimitable, streaming, never-failing, living [[Poems|poems]]. The [[motifs/river|river]]
 and bay scenery, all about [[settings/new-york|New York]] island, any [[motifs/time|time]] of a fine day--the
 hurrying, splashing sea-tides--the changing panorama of steamers, all
 sizes, often a string of big ones outward bound to distant ports--the
@@ -1009,7 +1010,7 @@ and came along towards 5, afternoon, eastward bound--the prospect off
 towards Staten Island, or down the Narrows, or the other way up the
 Hudson--what refreshment of spirit such sights and experiences gave me
 years ago (and many a [[motifs/time|time]] since.) My old pilot friends, the Balsirs,
-Johnny Cole, Ira Smith, William White, and my young ferry friend, Tom
+Johnny Cole, Ira [[smith|Smith]], William White, and my young ferry friend, Tom
 Gere--how [[motifs/well|well]] I remember them all.
 
 
@@ -1177,7 +1178,7 @@ a [[motifs/time|time]] plodded back northward, up the Mississippi, and around to
 way of the great lakes, Michigan, Huron, and Erie, to Niagara falls and
 lower Canada, finally returning through central [[settings/new-york|New York]] and down the
 Hudson; traveling altogether probably 8,000 miles this trip, to and fro.
-'51, '53, occupied in house-building in Brooklyn. (For a little of
+'51, '53, occupied in [[house]]-building in Brooklyn. (For a little of
 the first part of that [[motifs/time|time]] in printing a daily and weekly paper,
 "the Freeman.") '55, lost my dear father this year by [[motifs/death|death]]. Commenced
 putting "[[motifs/leaves|Leaves]] of Grass" to press for good, at the job printing office
@@ -1282,7 +1283,7 @@ continued military resistance to national authority, were not at all
 realized at the North, except by a few. Nine-tenths of the people of
 the free States look'd upon the rebellion, as started in South Carolina,
 from a feeling one-half of contempt, and the other half composed of
-anger and incredulity. It was not thought it would be join'd in by
+anger and [[Incredulity|incredulity]]. It was not thought it would be join'd in by
 Virginia, North Carolina, or Georgia. A great and cautious national
 official predicted that it would blow over "in sixty days," and folks
 generally believ'd the prediction. I remember talking about it on a
@@ -1354,7 +1355,7 @@ for soup, for coffee. They set tables on the side-walks--wagon-loads
 of bread are purchas'd, swiftly cut in stout chunks. Here are two aged
 ladies, beautiful, the first in the [[motifs/city|city]] for culture and charm, they
 stand with store of eating and drink at an improvis'd table of rough
-plank, and give food, and have the store replenished from their house
+plank, and give food, and have the store replenished from their [[house]]
 every half-hour all that day; and there in the rain they stand, active,
 silent, white-hair'd, and give food, though the [[motifs/tears|tears]] stream down their
 cheeks, almost without intermission, the whole [[motifs/time|time]]. Amid the deep
@@ -1363,7 +1364,7 @@ to see many, very many, of the soldiers sleeping--in the midst of all,
 sleeping sound. They drop down anywhere, on the steps of houses, up
 close by the basements or fences, on the sidewalk, aside on some vacant
 lot, and deeply [[motifs/sleep|sleep]]. A poor 17 or 18 year old boy lies there, on the
-stoop of a grand house; he sleeps so calmly, so profoundly. Some clutch
+stoop of a grand [[house]]; he sleeps so calmly, so profoundly. Some clutch
 their muskets firmly even in [[motifs/sleep|sleep]]. Some in squads; comrades, brothers,
 close together--and on them, as they lay, sulkily drips the rain.
 
@@ -1402,7 +1403,7 @@ they could have had things their own way, and a powerful faction north
 to back them. One of our returning colonels express'd in public that
 [[motifs/night|night]], amid a swarm of officers and gentlemen in a crowded room, the
 opinion that it was useless to fight, that the southerners had made
-their title clear, and that the best course for the national government
+their title clear, and that the best course for the national [[government]]
 to pursue was to desist from any further attempt at stopping them, and
 admit them again to the lead, on the best terms they were willing to
 grant. Not a voice was rais'd against this judgment, amid that large
@@ -1466,7 +1467,7 @@ visits among the camp hospitals in the army of the Potomac. Spend a
 good part of the day in a large brick mansion on the banks of the
 Rappahannock, used as a hospital since the battle--seems to have
 receiv'd only the worst cases. Out doors, at the foot of a tree, within
-ten yards of the front of the house, I notice a heap of amputated feet,
+ten yards of the front of the [[house]], I notice a heap of amputated feet,
 legs, arms, hands, &c., a full load for a one-[[motifs/horse|horse]] cart. Several dead
 bodies lie near, each cover'd with its brown woolen blanket. In the
 door-yard, towards the [[motifs/river|river]], are fresh graves, mostly of officers,
@@ -1525,7 +1526,7 @@ have built themselves huts of logs and mud, with [[motifs/fire|fire]]-places.
 BACK TO WASHINGTON
 
 _January, '63_.--Left camp at Falmouth, with some wounded, a few days
-since, and came here by Aquia creek railroad, and so on government
+since, and came here by Aquia creek railroad, and so on [[government]]
 steamer up the Potomac. Many wounded were with us on the cars and boat.
 The cars were just common platform ones. The railroad [[motifs/journey|journey]] of ten or
 twelve miles was made mostly before sunrise. The soldiers guarding the
@@ -1716,22 +1717,22 @@ wounded have since been removed from there, and it is now vacant again.)
 <span class="atom-split" data-atom="story_27_the_white_house_house_by_moonlight" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The White House by Moonlight" data-chapter="The White house House by Moonlight" data-kind="story" data-tags="motif/dreams,motif/moon,motif/night,motif/snow,motif/stars,concept/beauty"></span>
 
 
-THE WHITE HOUSE BY MOONLIGHT
+THE WHITE [[house|HOUSE]] BY MOONLIGHT
 
 _February 24th._--A spell of fine soft weather. I wander about a good
 deal, sometimes at [[motifs/night|night]] under the [[motifs/moon|moon]]. Tonight took a long look at
-the President's house. The white portico--the palace-like, tall,
+the President's [[house]]. The white portico--the palace-like, tall,
 round columns, spotless as [[motifs/snow|snow]]--the walls also--the tender and
 soft moonlight, flooding the pale marble, and making peculiar faint
 languishing shades, not shadows--everywhere a soft transparent
 hazy, thin, blue [[motifs/moon|moon]]-lace, hanging in the air--the brilliant and
 extra-plentiful clusters of gas, on and around the fa�ade, columns,
 portico, &c.--everything so white, so marbly pure and dazzling, yet
-soft--the White House of future poems, and of [[motifs/dreams|dreams]] and dramas, there
+soft--the White [[house|House]] of future [[Poems|poems]], and of [[motifs/dreams|dreams]] and dramas, there
 in the soft and copious [[motifs/moon|moon]]--the gorgeous front, in the trees, under
 the lustrous flooding [[motifs/moon|moon]], full of realty, full of illusion--the forms
 of the trees, leafless, silent, in trunk and myriad--angles of branches,
-under the [[motifs/stars|stars]] and sky--the White House of the land, and of [[concepts/beauty|beauty]] and
+under the [[motifs/stars|stars]] and sky--the White [[house|House]] of the land, and of [[concepts/beauty|beauty]] and
 [[motifs/night|night]]--sentries at the gates, and by the portico, silent, pacing there
 in blue overcoats--stopping you not at all, but eyeing you with sharp
 eyes, whichever way you move.
@@ -1912,7 +1913,7 @@ men--the yelling--close quarters--we hear the secesh yells--our men
 cheer loudly back, especially if Hooker is in sight--hand to hand
 conflicts, each side stands up to it, brave, determin'd as demons, they
 often charge upon us--a thousand deeds are done worth to write newer
-greater poems on--and still the woods on [[motifs/fire|fire]]--still many are not only
+greater [[Poems|poems]] on--and still the woods on [[motifs/fire|fire]]--still many are not only
 scorch'd--too many, unable to move, are burned to [[motifs/death|death]].
 
 Then the camps of the wounded--O heavens, what scene is this?--is this
@@ -1920,7 +1921,7 @@ indeed _humanity_--these butchers' shambles? There are several of them.
 There they lie, in the largest, in an open space in the woods, from 200
 to 300 poor fellows--the groans and screams--the odor of [[motifs/blood|blood]],
 mixed with the fresh scent of the [[motifs/night|night]], the grass, the trees--that
-slaughter-house! O [[motifs/well|well]] is it their mothers, their sisters cannot see
+slaughter-[[house]]! O [[motifs/well|well]] is it their mothers, their sisters cannot see
 them--cannot conceive, and never conceiv'd, these things. One man is
 shot by a shell, both in the arm and leg--both are amputated--there
 lie the rejected members. Some have their legs blown off--some bullets
@@ -1953,7 +1954,7 @@ pistols--the distant cannon--the cheers and calls and threats and
 awful music of the oaths--the indescribable mix--the officers'
 orders, persuasions, encouragements--the devils fully rous'd in human
 hearts--the strong shout, _Charge, men, charge_--the flash of the naked
-sword, and rolling flame and smoke? And still the broken, clear and
+[[Sword|sword]], and [[rolling]] flame and smoke? And still the broken, clear and
 clouded heaven--and still again the moonlight pouring silvery soft its
 radiant patches over all. Who paint the scene, the sudden partial panic
 of the afternoon, at dusk? Who paint the irrepressible advance of the
@@ -2053,7 +2054,7 @@ Bed 3, ward E, Armory, has a great hankering for pickles, something
 pungent. After consulting the doctor, I gave him a small bottle of
 [[motifs/horse|horse]]-radish; also some apples; also a book. Some of the nurses
 are excellent. The woman-[[characters/nurse|nurse]] in this ward I like very much. (Mrs.
-Wright--a year afterwards I found her in Mansion house hospital,
+Wright--a year afterwards I found her in Mansion [[house]] hospital,
 Alexandria--she is a perfect [[characters/nurse|nurse]].)
 
 In one bed a young man, Marcus Small, company K, 7th Maine--sick with
@@ -2296,7 +2297,7 @@ charming group, with their handsome, healthy faces, and standing up
 a little behind them were some ten or fifteen of the convalescent
 soldiers, young men, nurses, &c., with books in their hands, singing.
 Of course it was not such a performance as the great soloists at the
-[[settings/new-york|New York]] opera house take a hand in, yet I am not sure but I receiv'd as
+[[settings/new-york|New York]] opera [[house]] take a hand in, yet I am not sure but I receiv'd as
 much pleasure under the circumstances, sitting there, as I have had from
 the best Italian compositions, express'd by world-famous performers.
 The men lying up and down the hospital, in their cots, (some badly
@@ -2306,7 +2307,7 @@ parts of the ward; then the [[motifs/silence|silence]] of the men, and the attit
 took--the whole was a sight to look around upon again and again. And
 there sweetly [[motifs/rose|rose]] those voices up to the high, whitewash'd wooden roof,
 and pleasantly the roof sent it all back again. They sang very [[motifs/well|well]],
-mostly quaint old songs and declamatory hymns, to fitting tunes. Here,
+mostly quaint old [[songs]] and declamatory hymns, to fitting tunes. Here,
 for instance:
 
 My days are swiftly gliding by, and I a [[archetypes/pilgrim|pilgrim]] stranger,
@@ -2322,7 +2323,7 @@ And just before, the shining shore we may almost discover.
 
 _August 12th_.--I see the President almost every day, as I happen to
 live where he passes to or from his lodgings out of town. He never
-sleeps at the White House during the hot season, but has quarters at a
+sleeps at the White [[house|House]] during the hot season, but has quarters at a
 healthy location some three miles north of the [[motifs/city|city]], the Soldiers' [[motifs/home|home]],
 a United States military establishment. I saw him this morning about 8
 1/2 coming in to business, riding on Vermont avenue, near L street. He
@@ -2470,7 +2471,7 @@ surgeons do; but [[motifs/death|death]] certain and evident, they yield the fiel
 
 Note:
 
-[6]MR. GARFIELD (_In the House of Representatives, April 15,'79_.) "Do
+[6]MR. GARFIELD (_In the [[house|House]] of Representatives, April 15,'79_.) "Do
 gentlemen know that (leaving out all the border States) there were fifty
 regiments and seven companies of white men in our army fighting for the
 [[concepts/union|Union]] from the States that went into rebellion? Do they know that from
@@ -2503,7 +2504,7 @@ long, are rang'd in a straight row, evenly fronting the street; others
 are plann'd so as to form an immense V; and others again are ranged
 around a hollow square. They make altogether a huge cluster, with the
 additional tents, extra wards for contagious diseases, guard-houses,
-sutler's stores, chaplain's house; in the middle will probably be an
+sutler's stores, chaplain's [[house]]; in the middle will probably be an
 edifice devoted to the offices of the surgeon in charge and the ward
 surgeons, principal attaches, clerks, &c. The wards are either letter'd
 alphabetically, ward G, ward K, or else numerically, 1, 2, 3, &c. Each
@@ -2525,7 +2526,7 @@ That little town, as you might suppose it, off there on the brow of a
 [[motifs/hill|hill]], is indeed a town, but of wounds, sickness, and [[motifs/death|death]]. It is Finley
 hospital, northeast of the [[motifs/city|city]], on Kendall green, as it used to be
 call'd. That other is Campbell hospital. Both are large establishments.
-I have known these two alone to have from two thousand to twenty-five
+I have known these two [[Alone|alone]] to have from two thousand to twenty-five
 hundred inmates. Then there is Carver hospital, larger still, a wall'd
 and military [[motifs/city|city]] regularly laid out, and guarded by squads of sentries.
 Again, off east, [[characters/lincoln|Lincoln]] hospital, a still larger one; and half a mile
@@ -2641,7 +2642,7 @@ the most excellent good manliness of the world. It was a curious
 sight to see those shadowy columns moving through the [[motifs/night|night]]. I stood
 unobserv'd in the darkness and watch'd them long. The mud was very
 deep. The men had their usual burdens, overcoats, knapsacks, guns and
-blankets. Along and along they filed by me, with often a laugh, a song,
+blankets. Along and along they filed by me, with often a laugh, a [[Song|song]],
 a cheerful word, but never once a murmur. It may have been odd, but I
 never before so realized the majesty and reality of the American people
 _en masse_. It fell upon me like a great awe. The strong ranks moved
@@ -2686,10 +2687,10 @@ mud, which was then at its deepest and palmiest condition, and retired
 composedly to rest. Still it is about [[motifs/time|time]] for Culpepper to have a
 change. Authorities have chased each other here like clouds in a stormy
 sky. Before the first Bull Run this was the rendezvous and camp of
-instruction of the secession troops. I am stopping at the house of a
+instruction of the secession troops. I am stopping at the [[house]] of a
 lady who has witness'd all the eventful changes of the war, along this
 route of contending armies. She is a widow, with a family of young
-children, and lives here with her sister in a large handsome house. A
+children, and lives here with her sister in a large handsome [[house]]. A
 number of army officers board with them.
 
 VIRGINIA
@@ -2828,7 +2829,7 @@ his back on the spot where he first dropt. He dug with his heel in the
 ground during that [[motifs/time|time]] a hole big enough to put in a couple of
 ordinary knapsacks. He just lay there in the open air, and with little
 intermission kept his heel going [[motifs/night|night]] and day. Some of our soldiers
-then moved him to a house, but he died in a few minutes.
+then moved him to a [[house]], but he died in a few minutes.
 
 
 
@@ -2893,7 +2894,7 @@ demonism and wantonness. All the horrors that can be named, starvation,
 lassitude, filth, vermin, [[concepts/despair|despair]], swift loss of [[concepts/self|self]]-respect, idiocy,
 insanity, and frequent murder, were there. Stansbury has a wife and
 [[archetypes/child|child]] living in Newbern--has written to them from here--is in the U. S.
-light-house employ still--(had been [[motifs/home|home]] to Newbern to see his family,
+light-[[house]] employ still--(had been [[motifs/home|home]] to Newbern to see his family,
 and on his return to the [[motifs/ship|ship]] was captured in his boat.) Has seen men
 brought there to Salisbury as hearty as you ever see in your life--in
 a few weeks completely dead gone, much of it from thinking on their
@@ -3077,14 +3078,14 @@ no system, no foresight, no genius. Always plenty of stores, no [[concepts/doubt
 but never where they are needed, and never the proper application.
 Of all harrowing experiences, none is greater than that of the days
 following a heavy battle. Scores, hundreds of the noblest men on earth,
-uncomplaining, lie helpless, mangled, faint, alone, and so bleed to
+uncomplaining, lie helpless, mangled, faint, [[Alone|alone]], and so bleed to
 [[motifs/death|death]], or die from exhaustion, either actually untouch'd at all, or
 merely the laying of them down and leaving them, when there ought to be
 means provided to save them.
 
 THE BLUE EVERYWHERE
 
-This [[motifs/city|city]], its suburbs, the capitol, the front of the White House, the
+This [[motifs/city|city]], its suburbs, the capitol, the front of the White [[house|House]], the
 places of amusement, the Avenue, and all the main streets, swarm with
 soldiers this [[motifs/winter|winter]], more than ever before. Some are out from the
 hospitals, some from the neighboring camps, &c. One source or another,
@@ -3119,7 +3120,7 @@ July, I now find [[motifs/well|well]] enough to do light duty. For three weeks a
 BOYS IN THE ARMY
 
 As I walk'd [[motifs/home|home]] about sunset, I saw in Fourteenth street a very young
-soldier, thinly clad, standing near the house I was about to enter. I
+soldier, thinly clad, standing near the [[house]] I was about to enter. I
 stopt a moment in front of the door and call'd him to me. I knew that an
 old Tennessee regiment, and also an Indiana regiment, were temporarily
 stopping in new barracks, near Fourteenth street. This boy I found
@@ -3207,7 +3208,7 @@ blankets, and others old bags around their shoulders. Some of them here
 and there had fine faces, still it was a procession of misery. The two
 hundred had with them about half a dozen arm'd guards. Along this week
 I saw some such procession, more or less in numbers, every day, as they
-were brought up by the boat. The government does what it can for them,
+were brought up by the boat. The [[government]] does what it can for them,
 and sends them north and west.
 
 _Feb. 27_.--Some three or four hundred more escapees from the
@@ -3220,7 +3221,7 @@ number of the men. Some are quite bright and stylish, for all their poor
 clothes--walking with an air, wearing their old head-coverings on one
 side, quite saucily. I find the old, unquestionable proofs, as all
 along the past four years, of the unscrupulous tyranny exercised by the
-secession government in conscripting the common people by absolute force
+secession [[government]] in conscripting the common people by absolute force
 everywhere, and paying no attention whatever to the men's [[motifs/time|time]] being
 up--keeping them in military service just the same. One gigantic young
 fellow, a Georgian, at least six feet three inches high, broad-sized in
@@ -3231,7 +3232,7 @@ enough. Then a few minutes after I saw him slowly walking along. It was
 plain he did not take anything to heart.
 
 _Feb. 28._--As I pass'd the military headquarters of the [[motifs/city|city]], not far
-from the President's house, I stopt to interview some of the crowd of
+from the President's [[house]], I stopt to interview some of the crowd of
 escapees who were lounging there. In appearance they were the same as
 previously mention'd. Two of them, one about 17, and the other perhaps
 25 or '6, I talk'd with some [[motifs/time|time]]. They were from North Carolina, born
@@ -3280,7 +3281,7 @@ THE CAPITOL BY GAS-LIGHT
 
 To-[[motifs/night|night]] I have been wandering awhile in the capitol, which is all lit
 up. The illuminated rotunda looks fine. I like to stand aside and look a
-long, long while, up at the dome; it comforts me somehow. The House and
+long, long while, up at the dome; it comforts me somehow. The [[house|House]] and
 Senate were both in session till very late. I look'd in upon them, but
 only a few moments; they were hard at work on tax and appropriation
 bills. I wander'd through the long and rich corridors and apartments
@@ -3309,7 +3310,7 @@ four years ago, he rode down and back again surrounded by a dense
 mass of arm'd cavalrymen eight deep, with drawn sabres; and there were
 sharpshooters station'd at every corner on the route.) I ought to make
 mention of the closing levee of Saturday [[motifs/night|night]] last. Never before was
-such a compact jam in front of the White House--all the grounds fill'd,
+such a compact jam in front of the White [[house|House]]--all the grounds fill'd,
 and away out to the spacious sidewalks. I was there, as I took a
 notion to go--was in the rush inside with the crowd--surged along the
 passage-ways, the blue and other rooms, and through the great east room.
@@ -3328,7 +3329,7 @@ terrible and resplendent compliment of the united wish of all the
 nations of the world that her [[concepts/union|union]] should be broken, her future
 cut off, and that she should be compell'd to descend to the level
 of kingdoms and empires ordinarily great. There is certainly not one
-government in Europe but is now watching the war in this country, with
+[[government]] in Europe but is now watching the war in this country, with
 the ardent [[motifs/prayer|prayer]] that the United States may be effectually split,
 crippled, and dismember'd by it. There is not one but would help toward
 that dismemberment, if it dared. I say such is the ardent wish to-day of
@@ -3340,7 +3341,7 @@ and now the only one who prays for us and for our triumph, with genuine
 [[motifs/prayer|prayer]]. Is it not indeed strange? [[settings/america|America]], made up of all, cheerfully
 from the beginning opening her arms to all, the result and justifier of
 all, of Britain, [[settings/germany|Germany]], France and Spain--all here--the accepter, the
-friend, [[concepts/hope|hope]], last resource and general house of all--she who has
+friend, [[concepts/hope|hope]], last resource and general [[house]] of all--she who has
 harm'd none, but been bounteous to so many, to millions, the mother of
 strangers and exiles, all nations--should now, I say, be paid this dread
 compliment of general governmental [[concepts/fear|fear]] and hatred. Are we indignant?
@@ -3435,14 +3436,14 @@ the panels and spaces over the galleries--all made a mark'd combination.
 
 In the midst of this, with the suddenness of a thunderbolt, burst one of
 the most angry and crashing storms of rain and hail ever heard. It
-beat like a deluge on the heavy glass roof of the hall, and the [[motifs/wind|wind]]
+beat like a [[deluge]] on the heavy glass roof of the hall, and the [[motifs/wind|wind]]
 literally howl'd and roar'd. For a moment, (and no [[concepts/wonder|wonder]],) the nervous
 and sleeping Representatives were thrown into confusion. The slumberers
 awaked with [[concepts/fear|fear]], some started for the doors, some look'd up with
 blanch'd cheeks and lips to the roof, and the little pages began to cry;
 it was a scene. But it was over almost as soon as the drowsied men were
 actually awake. They recover'd themselves; the [[motifs/storm|storm]] raged on, beating,
-dashing, and with loud noises at times. But the House went ahead with
+dashing, and with loud noises at times. But the [[house|House]] went ahead with
 its business then, I think, as calmly and with as much deliberation as
 at any [[motifs/time|time]] in its career. Perhaps the shock did it good. (One is not
 without impression, after all, amid these members of Congress, of both
@@ -3505,7 +3506,7 @@ under treatment.[7]
 Note:
 
 [7] In the U. S. Surgeon-General's office since, there is a formal
-record and treatment of 153, 142 cases of wounds by government surgeons.
+record and treatment of 153, 142 cases of wounds by [[government]] surgeons.
 What must have been the number unofficial, indirect--to say nothing of
 the Southern armies?
 
@@ -3609,7 +3610,7 @@ afterwards in book form_.
 "There is a deep fascination in the subject of Andersonville--for that
 Golgotha, in which lie the whitening bones of 13,000 gallant young
 men, represents the dearest and costliest sacrifice of the war for the
-preservation of our national unity. It is a type, too, of its class. Its
+preservation of our national [[unity]]. It is a type, too, of its class. Its
 more than hundred hecatombs of dead represent several times that number
 of their brethren, for whom the [[motifs/prison|prison]] gates of Belle Isle, Danville,
 Salisbury, Florence, Columbia, and Cahaba open'd only in [[concepts/eternity|eternity]]. There
@@ -3648,25 +3649,25 @@ _From a letter of "Johnny Bouquet," in N. Y. "Tribune," March 27, '81._
 which nearly 11,000 victims of southern politicians were buried, being
 confined in a pen without shelter, exposed to all the elements could do,
 to all the disease herding [[motifs/animals|animals]] together could create, and to all
-the starvation and cruelty an incompetent and intense caitiff government
+the starvation and cruelty an incompetent and intense caitiff [[government]]
 could accomplish. From the conversation and almost from the recollection
 of the northern people this place has dropp' d, but not so in the gossip
 of the Salisbury people, nearly all of whom say that the half was
 never told; that such was the [[concepts/nature|nature]] of habitual outrage here that when
 Federal prisoners escaped the townspeople harbor'd them in their barns,
 afraid the vengeance of God would fall on them, to deliver even their
-enemies back to such cruelty. Said one old man at the Boyden House, who
+enemies back to such cruelty. Said one old man at the Boyden [[house|House]], who
 join'd in the conversation one evening: 'There were often men buried out
 of that [[motifs/prison|prison]] pen still alive. I have the testimony of a surgeon that
 he had seen them pull'd out of the dead cart with their eyes open and
 taking notice, but too weak to lift a finger. There was not the least
-excuse for such treatment, as the confederate government had seized
+excuse for such treatment, as the confederate [[government]] had seized
 every sawmill in the region, and could just as [[motifs/well|well]] have put up shelter
 for these prisoners as not, wood being plentiful here. It will be hard
 to make any honest man in Salisbury say that there was the slightest
 necessity for those prisoners having to live in old tents, caves
 and holes half-full of [[motifs/water|water]]. Representations were made to the Davis
-government against the officers in charge of it, but no attention
+[[government]] against the officers in charge of it, but no attention
 was paid to them. Promotion was the punishment for cruelty there. The
 inmates were skeletons. Hell could have no terrors for any man who died
 there, except the inhuman keepers.'"
@@ -3769,7 +3770,7 @@ swarming like [[motifs/bees|bees]] everywhere.
 THE GRAND REVIEW
 
 For two days now the broad spaces of Pennsylvania avenue along to
-Treasury [[motifs/hill|hill]], and so by detour around to the President's house, and so
+Treasury [[motifs/hill|hill]], and so by detour around to the President's [[house]], and so
 up to Georgetown, and across the aqueduct bridge, have been alive with a
 magnificent sight, the returning armies. In their wide ranks stretching
 clear across the Avenue, I watch them march or ride along, at a brisk
@@ -3823,7 +3824,7 @@ willing to let me leave. As I was lingering, soothing him in his [[motifs/pain|p
 he says to me suddenly, "I hardly think you know who I am--I don't wish
 to impose upon you--I am a [[archetypes/rebel|rebel]] soldier." I said I did not know that,
 but it made no difference. Visiting him daily for about two weeks after
-that, while he lived, ([[motifs/death|death]] had mark'd him, and he was quite alone,) I
+that, while he lived, ([[motifs/death|death]] had mark'd him, and he was quite [[Alone|alone]],) I
 loved him much, always kiss'd him, and he did me. In an adjoining ward
 I found his brother, an officer of rank, a [[concepts/union|Union]] soldier, a brave and
 religious man, (Col. Clifton K. Prentiss, sixth Maryland infantry,
@@ -3921,7 +3922,7 @@ healthy, with broken ground, grassy slopes and patches of oak woods, the
 trees large and fine. It was one of the most extensive of the hospitals,
 now reduced to four or five partially occupied wards, the numerous
 others being vacant. In November, this became the last military hospital
-kept up by the government, all the others being closed. Cases of the
+kept up by the [[government]], all the others being closed. Cases of the
 worst and most incurable wounds, obstinate illness, and of poor fellows
 who have no homes to go to, are found here.
 
@@ -3959,7 +3960,7 @@ seems to me if I were to make a list of them it would be like a [[motifs/city|ci
 directory. Some few only have I mention'd in the foregoing pages--most
 are dead--a few yet living. There is Reuben Farwell, of Michigan,
 (little "Mitch;") Benton H. Wilson, color-bearer, 185th [[settings/new-york|New York]]; Wm.
-Stansberry; Manvill Winterstein, Ohio; Bethuel Smith; Capt. Simms, of
+Stansberry; Manvill Winterstein, Ohio; Bethuel [[smith|Smith]]; Capt. Simms, of
 51st [[settings/new-york|New York]], (kill'd at Petersburgh mine explosion,) Capt. Sam. Pooley
 and Lieut. [[characters/fred|Fred]]. McReady, same reg't. Also, same reg't., my brother,
 George W. Whitman--in active service all through, four years,
@@ -4044,7 +4045,7 @@ burial-pits, the [[motifs/prison|prison]]-pens of Andersonville, Salisbury, Bell
 filthy torments, excell'd those prisons)--the dead, the dead, the
 dead--_our_ dead--or South or North, ours all, (all, all, all,
 finally dear to me)--or East or West--Atlantic coast or Mississippi
-valley--somewhere they crawl'd to die, alone, in bushes, low gullies,
+valley--somewhere they crawl'd to die, [[Alone|alone]], in bushes, low gullies,
 or on the sides of hills--(there, in secluded spots, their skeletons,
 bleach'd bones, tufts of hair, buttons, fragments of clothing, are
 occasionally found yet)--our young men once so handsome and so joyous,
@@ -4155,7 +4156,7 @@ I lived during '74 and '75, quite unwell--but after that began to grow
 better; commenc'd going for weeks at a [[motifs/time|time]], even for months, down in
 the country, to a charmingly recluse and rural spot along Timber creek,
 twelve or thirteen miles from where it enters the Delaware [[motifs/river|river]].
-Domicil'd at the farm-house of my friends, the Staffords, near by, I
+Domicil'd at the farm-[[house]] of my friends, the Staffords, near by, I
 lived half the [[motifs/time|time]] along this creek and its adjacent fields and lanes.
 And it is to my life here that I, perhaps, owe partial recovery (a
 sort of second [[motifs/wind|wind]], or semi-renewal of the lease of life) from the
@@ -4180,7 +4181,7 @@ NEW THEMES ENTERED UPON
 _1876, '77_.--I find the woods in mid-May and early June my best places
 for composition.[9] Seated on logs or stumps there, or resting on rails,
 nearly all the following memoranda have been jotted down. Wherever I go,
-indeed, [[motifs/winter|winter]] or [[motifs/summer|summer]], [[motifs/city|city]] or country, alone at [[motifs/home|home]] or traveling, I
+indeed, [[motifs/winter|winter]] or [[motifs/summer|summer]], [[motifs/city|city]] or country, [[Alone|alone]] at [[motifs/home|home]] or traveling, I
 must take notes--(the ruling passion strong in age and disablement, and
 even the approach of--but I must not say it yet.) Then underneath the
 following excerpta--crossing the _t's_ and dotting the _i's_ of certain
@@ -4205,12 +4206,12 @@ Note:
 what I have put in the preceding fifty or sixty pages--temporary
 episodes, thank heaven!--I restore my book to the bracing and buoyant
 equilibrium of concrete outdoor [[concepts/nature|Nature]], the only permanent reliance for
-sanity of book or human life.
+[[Sanity|sanity]] of book or human life.
 
 Who knows, (I have it in my fancy, my [[concepts/ambition|ambition]],) but the pages now
 ensuing may carry ray of sun, or smell of grass or corn, or call of
 bird, or gleam of [[motifs/stars|stars]] by [[motifs/night|night]], or [[motifs/snow|snow]]-flakes falling fresh
-and mystic, to denizen of heated [[motifs/city|city]] house, or tired workman or
+and mystic, to denizen of heated [[motifs/city|city]] [[house]], or tired workman or
 workwoman?--or may-be in sick-room or [[motifs/prison|prison]]--to serve as cooling
 breeze, or [[concepts/nature|Nature]]'s aroma, to some fever'd mouth or latent pulse.
 
@@ -4252,7 +4253,7 @@ from thee, and dwell on thee--receive, copy, print from thee.
 AN EARLY [[motifs/summer|SUMMER]] REVEILLE
 
 Away then to loosen, to unstring the divine bow, so tense, so long.
-Away, from curtain, carpet, sofa, book--from "society"--from [[motifs/city|city]] house,
+Away, from curtain, carpet, sofa, book--from "society"--from [[motifs/city|city]] [[house]],
 street, and modern improvements and luxuries--away to the primitive
 winding, aforementioned wooded creek, with its untrimm'd bushes and
 turfy banks--away from ligatures, tight boots, buttons, and the whole
@@ -4281,10 +4282,10 @@ or late [[motifs/summer|summer]] habitat? It is something not to be forgotten. A
 called me up just after 12 last [[motifs/night|night]] to mark the peculiar noise of
 unusually immense flocks migrating north (rather late this year.) In
 the [[motifs/silence|silence]], [[archetypes/shadow|shadow]] and delicious odor of the hour, (the natural perfume
-belonging to the [[motifs/night|night]] alone,) I thought it rare music. You could _hear_
+belonging to the [[motifs/night|night]] [[Alone|alone]],) I thought it rare music. You could _hear_
 the characteristic motion--once or twice "the rush of mighty wings,"
 but often a velvety rustle, long drawn out--sometimes quite near--with
-continual calls and chirps, and some song-notes. It all lasted from 12
+continual calls and chirps, and some [[Song|song]]-notes. It all lasted from 12
 till after 3. Once in a while the species was plainly distinguishable;
 I could make out the bobolink, tanager, Wilson's thrush, white-[[motifs/crown|crown]]'d
 sparrow, and occasionally from high in the air came the notes of the
@@ -4325,7 +4326,7 @@ tree, and making the hour and place noisy as I sit near.
 _Later._--[[concepts/nature|Nature]] marches in procession, in sections, like the corps of
 an army. All have done much for me, and still do. But for the last two
 days it has been the great wild bee, the humble-bee, or "bumble," as the
-children call him. As I walk, or hobble, from the farm-house down to the
+children call him. As I walk, or hobble, from the farm-[[house]] down to the
 creek, I traverse the before-mention'd lane, fenced by old rails, with
 many splits, splinters, breaks, holes, &c., the choice habitat of those
 crooning, hairy [[motifs/insects|insects]]. Up and down and by and between these rails,
@@ -4386,7 +4387,7 @@ The golden sash about his [[concepts/body|body]]
 Scarce kept it in his swollen belly
 Distent with honeysuckle jelly.
 [[motifs/rose|Rose]] liquor and the sweet-pea wine
-Had fill' d his [[motifs/soul|soul]] with song divine;
+Had fill' d his [[motifs/soul|soul]] with [[Song|song]] divine;
 Deep had he drunk the warm [[motifs/night|night]] through,
 His hairy thighs were wet with dew.
 Full many an antic he had play'd
@@ -4427,7 +4428,7 @@ _June 10th_.--As I write, 5-1/2 P.M., here by the creek, nothing can
 exceed the quiet splendor and freshness around me. We had a heavy
 shower, with brief thunder and [[motifs/lightning|lightning]], in the middle of the day; and
 since, overhead, one of those not uncommon yet indescribable skies
-(in quality, not details or forms) of limpid blue, with rolling
+(in quality, not details or forms) of limpid blue, with [[rolling]]
 silver-fringed clouds, and a pure-dazzling sun. For underlay, trees
 in fulness of tender foliage--liquid, reedy, long-drawn notes of
 [[motifs/birds|birds]]--based by the fretful mewing of a querulous cat-bird, and the
@@ -4441,7 +4442,7 @@ see their dark-gray feather-bodies and milk-white necks.
 
 SUNDOWN PERFUME--QUAILNOTES--THE HERMIT-THRUSH
 
-_June 19th, 4 to 6-1/2, P.M._--Sitting alone by the creek--[[concepts/solitude|solitude]]
+_June 19th, 4 to 6-1/2, P.M._--Sitting [[Alone|alone]] by the creek--[[concepts/solitude|solitude]]
 here, but the scene bright and vivid enough--the sun shining, and quite
 a fresh [[motifs/wind|wind]] blowing (some heavy showers last [[motifs/night|night]],) the grass and
 trees looking their best--the clare-obscure of different greens,
@@ -4462,7 +4463,7 @@ fleck'd all over with white blossoms--the old, warty, venerable oak
 above me--and ever, mix'd with the dual notes of the quail, the soughing
 of the [[motifs/wind|wind]] through some near-by pines.
 
-As I rise for return, I linger long to a delicious song-epilogue (is
+As I rise for return, I linger long to a delicious [[Song|song]]-epilogue (is
 it the hermit-thrush?) from some bushy recess off there in the swamp,
 repeated leisurely and pensively over and over again. This, to the
 circle-gambols of the swallows flying by dozens in concentric rings in
@@ -4483,11 +4484,11 @@ and discs; just over the surface of the pond, two large slate-color'd
 dragon-flies, with wings of lace, circling and darting and occasionally
 balancing themselves quite still, their wings quivering all the [[motifs/time|time]],
 (are they not showing off for my amusement?)--the pond itself, with
-the sword-shaped calamus; the [[motifs/water|water]] snakes--occasionally a flitting
+the [[Sword|sword]]-shaped calamus; the [[motifs/water|water]] snakes--occasionally a flitting
 blackbird, with red dabs on his shoulders, as he darts slantingly
 by--the sounds that bring out the [[concepts/solitude|solitude]], warmth, light and shade--the
 quawk of some pond duck--(the crickets and grasshoppers are mute in
-the [[motifs/noon|noon]] heat, but I hear the song of the first cicadas;)--then at some
+the [[motifs/noon|noon]] heat, but I hear the [[Song|song]] of the first cicadas;)--then at some
 distance the rattle and whirr of a reaping [[motifs/machine|machine]] as the horses draw
 it on a rapid walk through a rye field on the opposite side of the
 creek--(what was the yellow or light-brown bird, large as a young hen,
@@ -4511,7 +4512,7 @@ near [[motifs/noon|noon]] from a tree two hundred feet off, as I write--a long w
 continued, quite loud noise graded in distinct whirls, or swinging
 circles, increasing in strength and rapidity up to a certain point, and
 then a fluttering, quietly tapering fall. Each strain is continued
-from one to two minutes. The locust-song is very appropriate to the
+from one to two minutes. The locust-[[Song|song]] is very appropriate to the
 scene--gushes, has meaning, is masculine, is like some fine old wine,
 not sweet, but far better than sweet.
 
@@ -4526,7 +4527,7 @@ from a willow-tree just outside my open bedroom [[motifs/window|window]], twenty
 distant; every clear [[motifs/night|night]] for a fortnight past has sooth'd me to [[motifs/sleep|sleep]].
 I rode through a piece of woods for a hundred rods the other evening,
 and heard the katydids by myriads--very curious for once; but I like
-better my single neighbor on the tree. Let me say more about the song of
+better my single neighbor on the tree. Let me say more about the [[Song|song]] of
 the locust, even to repetition; a long, chromatic, tremulous crescendo,
 like a brass disk whirling round and round, emitting wave after wave
 of notes, beginning with a certain moderate beat or measure, rapidly
@@ -4791,7 +4792,7 @@ inhaling the bracing and welcome breezes. First, a rapid five-mile drive
 over the hard sand--our carriage wheels hardly made dents in it. Then
 after dinner (as there were nearly two hours to spare) I walk'd off in
 another direction, (hardly met or saw a person,) and taking possession
-of what appear'd to have been the reception-room of an old bath-house
+of what appear'd to have been the reception-room of an old bath-[[house]]
 range, had a broad expanse of view all to myself--quaint, refreshing,
 unimpeded--a dry area of sedge and Indian grass immediately before and
 around me--space, simple, unornamented space. Distant vessels, and the
@@ -4805,9 +4806,9 @@ indirections and directions? That spread of waves and gray-white beach,
 salt, monotonous, senseless--such an entire absence of art, books, talk,
 elegance--so indescribably comforting, even this [[motifs/winter|winter]] day--grim,
 yet so delicate-looking, so spiritual--striking emotional, impalpable
-depths, subtler than all the poems, paintings, music, I have ever read,
+depths, subtler than all the [[Poems|poems]], paintings, music, I have ever read,
 seen, heard. (Yet let me be fair, perhaps it is because I have read
-those poems and heard that music.)
+those [[Poems|poems]] and heard that music.)
 
 SEA-SHORE FANCIES
 
@@ -4833,13 +4834,13 @@ handling--quite satisfied if I could indirectly show that we have met
 and fused, even if only once, but enough--that we have really absorb'd
 each other and understand each other.)
 
-There is a dream, a picture, that for years at intervals, (sometimes
+There is [[A Dream|a dream]], a picture, that for years at intervals, (sometimes
 quite long ones, but surely again, in [[motifs/time|time]],) has come noiselessly up
 before me, and I really believe, fiction as it is, has enter'd largely
 into my practical life--certainly into my writings, and shaped and
 color'd them. It is nothing more or less than a stretch of interminable
 white-brown sand, hard and smooth and broad, with the ocean perpetually,
-grandly, rolling in upon it, with slow-measured sweep, with rustle and
+grandly, [[rolling]] in upon it, with slow-measured sweep, with rustle and
 hiss and foam, and many a thump as of low bass drums. This scene, this
 picture, I say, has risen before me at times for years. Sometimes I wake
 at [[motifs/night|night]] and can hear and see it plainly.
@@ -4890,7 +4891,7 @@ taken the true measure of his interior character.
 Paine's practical demeanor, and much of his theoretical belief, was a
 mixture of the French and English schools of a century ago, and the best
 of both. Like most old-fashion'd people, he drank a glass or two every
-day, but was no tippler, nor intemperate, let alone being a drunkard.
+day, but was no tippler, nor intemperate, let [[Alone|alone]] being a drunkard.
 He lived simply and economically, but quite [[motifs/well|well]]--was always cheery and
 courteous, perhaps occasionally a little blunt, having very positive
 opinions upon politics, religion, and so forth. That he labor'd [[motifs/well|well]] and
@@ -4898,7 +4899,7 @@ wisely for the States in the trying period of their parturition, and in
 the seeds of their character, there seems to me no question. I dare
 not say how much of what our [[concepts/union|Union]] is owning and enjoying to-day--its
 independence--its ardent belief in, and substantial practice of
-radical human rights--and the severance of its government from all
+radical human rights--and the severance of its [[government]] from all
 ecclesiastical and superstitious dominion--I dare not say how much of
 all this is owing to Thomas Paine, but I am inclined to think a good
 portion of it decidedly is.
@@ -4981,18 +4982,18 @@ welling up out of the ground and tingling through me from [[motifs/crown|crown]]
 like health's wine. Then for addition and variety I launch forth in my
 vocalism; shout declamatory pieces, sentiments, sorrow, anger, &c., from
 the stock poets or plays--or inflate my lungs and sing the wild tunes
-and refrains I heard of the blacks down south, or patriotic songs I
+and refrains I heard of the blacks down south, or patriotic [[songs]] I
 learn'd in the army. I make the echoes ring, I tell you! As the twilight
 fell, in a pause of these ebullitions, an owl somewhere the other side
 of the creek sounded _too-oo-oo-oo-oo_, soft and pensive (and I fancied
 a little sarcastic) repeated four or five times. Either to applaud the
-negro songs--or perhaps an ironical comment on the sorrow, anger, or
+negro [[songs]]--or perhaps an ironical comment on the sorrow, anger, or
 style of the stock poets.
 
 ONE OF THE HUMAN KINKS
 
 How is it that in all the serenity and lonesomeness of [[concepts/solitude|solitude]], away
-off here amid the hush of the forest, alone, or as I have found in
+off here amid the hush of the forest, [[Alone|alone]], or as I have found in
 prairie wilds, or mountain stillness, one is never entirely without the
 instinct of looking around, (I never am, and others tell me the same of
 themselves, confidentially,) for somebody to appear, or start up out
@@ -5212,7 +5213,7 @@ group of willows, a straggling bank, and a [[motifs/spring|spring]] of delicious
 running right through the middle of it, with two or three little
 cascades. Here I retreated every hot day, and follow it up this [[motifs/summer|summer]].
 Here I realize the meaning of that old fellow who said he was seldom
-less alone than when alone. Never before did I get so close to [[concepts/nature|Nature]];
+less [[Alone|alone]] than when [[Alone|alone]]. Never before did I get so close to [[concepts/nature|Nature]];
 never before did she come so close to me. By old habit, I pencill'd down
 from [[motifs/time|time]] to [[motifs/time|time]], almost automatically, moods, sights, hours, tints and
 outlines, on the spot. Let me specially record the satisfaction of
@@ -5256,7 +5257,7 @@ but are themselves indecent. Perhaps indeed he or she to whom the free
 exhilarating extasy of [[motifs/nakedness|nakedness]] in [[concepts/nature|Nature]] has never been eligible (and
 how many thousands there are!) has not really known what purity is--nor
 what [[concepts/faith|faith]] or art or health really is. (Probably the whole curriculum
-of first-class philosophy, [[concepts/beauty|beauty]], [[concepts/heroism|heroism]], form, illustrated by the
+of first-class [[philosophy]], [[concepts/beauty|beauty]], [[concepts/heroism|heroism]], form, illustrated by the
 old Hellenic race--the highest height and deepest depth known to
 civilization in those departments--came from their natural and religious
 idea of [[motifs/nakedness|Nakedness]].)
@@ -5299,8 +5300,8 @@ and the sky cover'd with leaden clouds--nothing but the pond on one
 side, and the other a spread of grass, spotted with the milky blossoms
 of the wild carrot--the sound of an axe wielded at some distant
 wood-pile--yet in this dull scene, (as most folks would call it,) why am
-I so (almost) happy here and alone? Why would any intrusion, even from
-people I like, spoil the charm? But am I alone? Doubtless there comes a
+I so (almost) happy here and [[Alone|alone]]? Why would any intrusion, even from
+people I like, spoil the charm? But am I [[Alone|alone]]? Doubtless there comes a
 [[motifs/time|time]]--perhaps it has come to me--when one feels through his whole being,
 and pronouncedly the emotional part, that [[concepts/identity|identity]] between himself
 subjectively and [[concepts/nature|Nature]] objectively which Schelling and Fichte are so
@@ -5344,7 +5345,7 @@ THREE YOUNG MEN'S DEATHS
 _December 20_.--Somehow I got thinking to-day of young men's deaths--not
 at all sadly or sentimentally, but gravely, realistically, perhaps a
 little artistically. Let me give the following three cases from budgets
-of personal memoranda, which I have been turning over, alone in my room,
+of personal memoranda, which I have been turning over, [[Alone|alone]] in my room,
 and resuming and dwelling on, this rainy afternoon. Who is there to whom
 the theme does not come [[motifs/home|home]]? Then I don't know how it may be to
 others, but to me not only is there nothing gloomy or depressing in such
@@ -5440,7 +5441,7 @@ attending his sick brother, Charles--who has since died--an event that
 has sadden'd me much. Charlie was younger than S., and a most attractive
 young fellow. He work'd at my father's and had done so for two years.
 He was about the best specimen of a young country farm-hand I ever knew.
-You would have loved him. He was like one of your poems. With his
+You would have loved him. He was like one of your [[Poems|poems]]. With his
 great strength, his blond hair, his cheerfulness and contentment, his
 universal good will, and his silent manly ways, he was a youth hard to
 match. He was murder'd by an old doctor. He had typhoid fever, and the
@@ -5481,7 +5482,7 @@ _Feb. 9_.--After an hour's ramble, now retreating, resting, sitting
 close by the pond, in a warm nook, writing this, shelter'd from the
 breeze, just before [[motifs/noon|noon]]. The _emotional_ aspects and influences of
 [[concepts/nature|Nature]]! I, too, like the rest, feel these modern tendencies (from all
-the prevailing intellections, literature and poems,) to turn everything
+the prevailing intellections, literature and [[Poems|poems]],) to turn everything
 to pathos, ennui, morbidity, dissatisfaction, [[motifs/death|death]]. Yet how clear it is
 to me that those are not the born results, influences of [[concepts/nature|Nature]] at all,
 but of one's own distorted, sick or silly [[motifs/soul|soul]]. Here, amid this wild,
@@ -5508,9 +5509,9 @@ morning, so I turn'd back again. But now, near [[motifs/noon|noon]], I have walk
 down the lane, basking all the way in the sun (this farm has a pleasant
 southerly exposure,) and here I am, seated under the lee of a bank,
 close by the [[motifs/water|water]]. There are bluebirds already flying about, and I
-hear much chirping and twittering and two or three real songs, sustain'd
+hear much chirping and twittering and two or three real [[songs]], sustain'd
 quite awhile, in the mid-day brilliance and warmth. (There! that is a
-true carol, coming out boldly and repeatedly, as if the singer meant
+true [[carol]], coming out boldly and repeatedly, as if the singer meant
 it.) Then as the [[motifs/noon|noon]] strengthens, the reedy trill of the robin--to my
 ear the most cheering of bird-notes. At intervals, like bars and breaks
 (out of the low murmur that in any scene, however quiet, is never
@@ -5530,14 +5531,14 @@ object gives me more--I do not know if I should call it pleasure--but
 something which exalts me--something which enraptures me--than to walk
 in the shelter' d side of a wood in a cloudy [[motifs/winter|winter]] day, and hear the
 stormy [[motifs/wind|wind]] howling among the trees, and raving over the plain. It is
-my best season of devotion." Some of his most characteristic poems were
+my best season of devotion." Some of his most characteristic [[Poems|poems]] were
 composed in such scenes and [[motifs/seasons|seasons]].)
 
 A MEADOW LARK
 
 _March 16_.--Fine, clear, dazzling morning, the sun an hour high, the
 air just tart enough. What a stamp in advance my whole day receives
-from the song of that meadow lark perch'd on a fence-stake twenty rods
+from the [[Song|song]] of that meadow lark perch'd on a fence-stake twenty rods
 distant! Two or three liquid-simple notes, repeated at intervals,
 full of careless happiness and [[concepts/hope|hope]]. With its peculiar shimmering slow
 progress and rapid-noiseless action of the wings, it flies on a way,
@@ -5560,7 +5561,7 @@ the banks. These, with great shafts of horizontal [[motifs/fire|fire]] thrown am
 trees and along the grass as the sun lowers, give effects more and more
 peculiar, more and more superb, unearthly, rich and dazzling.
 
-THOUGHTS UNDER AN OAK--A DREAM
+THOUGHTS UNDER AN OAK--[[A Dream|A DREAM]]
 
 _June 2_.--This is the fourth day of a dark northeast [[motifs/storm|storm]], [[motifs/wind|wind]] and
 rain. Day before yesterday was my birthday. I have now enter'd on
@@ -5626,7 +5627,7 @@ have been sitting here, some feather'd fellow away off in the bushes has
 been repeating over and over again what I may call a kind of throbbing
 whistle. And now a bird about the robin size has just appear'd, all
 mulberry red, flitting among the bushes--head, wings, [[concepts/body|body]], deep red,
-not very bright--no song, as I have heard. _4. o'clock_: There is a real
+not very bright--no [[Song|song]], as I have heard. _4. o'clock_: There is a real
 concert going on around me--a dozen different [[motifs/birds|birds]] pitching in with
 a will. There have been occasional rains, and the growths all show its
 vivifying influences. As I finish this, seated on a log close by the
@@ -5684,7 +5685,7 @@ creature of gamboge and black lighting on one as I write,) is in flower,
 with its delicate red fringe; and there are profuse clusters of a
 feathery blossom waving in the [[motifs/wind|wind]] on taper stems. I see lots of these
 and much else in every direction, as I saunter or sit. For the last half
-hour a bird has persistently kept up a simple, sweet, melodious song,
+hour a bird has persistently kept up a simple, sweet, melodious [[Song|song]],
 from the bushes. (I have a positive conviction that some of these [[motifs/birds|birds]]
 sing, and others fly and flirt about here for my special benefit.)
 
@@ -5692,7 +5693,7 @@ sing, and others fly and flirt about here for my special benefit.)
 
 _New York City_.--Came on from West Philadelphia, June 13, in the 2 P.
 M. train to Jersey [[motifs/city|City]], and so across and to my friends, Mr. and Mrs.
-J. H. J., and their large house, large family (and large hearts,)
+J. H. J., and their large [[house]], large family (and large hearts,)
 amid which I feel at [[motifs/home|home]], at peace--away up on Fifth avenue, near
 Eighty-sixth street, quiet, breezy, overlooking the dense woody
 fringe of the park--plenty of space and sky, [[motifs/birds|birds]] chirping, and air
@@ -5760,7 +5761,7 @@ the hospitality of J. and Mrs. B., the air, the fruit, (especially my
 favorite dish, currants and raspberries, mixed, sugar'd, fresh and ripe
 from the bushes--I pick 'em myself)--the room I occupy at [[motifs/night|night]], the
 perfect bed, the [[motifs/window|window]] giving an ample view of the Hudson and the
-opposite shores, so wonderful toward sunset, and the rolling music
+opposite shores, so wonderful toward sunset, and the [[rolling]] music
 of the RR. trains, far over there--the peaceful rest--the early
 [[characters/venus|Venus]]-heralded [[motifs/dawn|dawn]]--the noiseless splash of sunrise, the light and
 warmth indescribably glorious, in which, (soon as the sun is [[motifs/well|well]] up,)
@@ -5793,7 +5794,7 @@ gauntish woman by his side, with a baby [[motifs/well|well]] bundled in her arms
 little red feet and lower legs sticking out right towards us as we
 pass'd--and in the wagon behind, we saw two (or three) crouching little
 children. It was a queer, taking, rather sad picture. If I had been
-alone and on foot, I should have stopp'd and held confab. But on our
+[[Alone|alone]] and on foot, I should have stopp'd and held confab. But on our
 return nearly two hours afterward, we found them a ways further along
 the same [[motifs/road|road]], in a lonesome open spot, haul'd aside, unhitch'd, and
 evidently going to camp for the [[motifs/night|night]]. The freed [[motifs/horse|horse]] was not far off,
@@ -5803,7 +5804,7 @@ further we met the woman afoot. I could not see her face, in its
 great sun-bonnet, but somehow her figure and gait told misery, terror,
 destitution. She had the rag-bundled, half-starv'd infant still in
 her arms, and in her hands held two or three baskets, which she had
-evidently taken to the next house for sale. A little barefoot five-year
+evidently taken to the next [[house]] for sale. A little barefoot five-year
 old girl-[[archetypes/child|child]], with fine eyes, trotted behind her, clutching her gown.
 We stopp'd, asking about the baskets, which we bought. As we paid the
 money, she kept her face hidden in the recesses of her bonnet. Then as
@@ -5928,7 +5929,7 @@ throughout to sight, sense, and [[motifs/soul|soul]]. The latter had much to do 
 mornings and evenings, address'd to the [[motifs/soul|soul]]. [[motifs/night|Night]] transcends, for that
 purpose, what the proudest day can do.) Now, indeed, if never before,
 the heavens declared the glory of God. It was to the full sky of the
-[[historical-references/bible|Bible]], of Arabia, of the prophets, and of the oldest poems. There,
+[[historical-references/bible|Bible]], of Arabia, of the prophets, and of the oldest [[Poems|poems]]. There,
 in abstraction and stillness, (I had gone off by myself to absorb the
 scene, to have the spell unbroken,) the copiousness, the removedness,
 vitality, loose-clear-crowdedness, of that stellar concave spreading
@@ -5961,7 +5962,7 @@ mystery, or passion's ecstasy indefinable--not the religious sense,
 the varied All, distill'd and sublimated into one, of the [[motifs/night|night]] just
 described. Every star now clear-cut, showing for just what it is, there
 in the colorless ether. The character of the heralded morning, ineffably
-sweet and fresh and limpid, but for the esthetic sense alone, and for
+sweet and fresh and limpid, but for the esthetic sense [[Alone|alone]], and for
 purity without sentiment. I have itemized the [[motifs/night|night]]--but dare I attempt
 the cloudless [[motifs/dawn|dawn]]? (What subtle tie is this between one's [[motifs/soul|soul]] and the
 break of day? Alike, and yet no two nights or morning shows ever exactly
@@ -5976,7 +5977,7 @@ subtle, more sensuous-delicate? The East, answering all lands, all
 ages, peoples; touching all senses, here, immediate, now--and yet so
 indescribably far off--such retrospect! The East--long-stretching--so
 losing itself--the [[settings/orient|orient]], the gardens of Asia, the womb of [[concepts/history|history]]
-and song--forth-issuing all those strange, dim cavalcades--Florid
+and [[Song|song]]--forth-issuing all those strange, dim cavalcades--Florid
 with [[motifs/blood|blood]], pensive, rapt with musings, hot with passion. Sultry with
 perfume, with ample and flowing garment. With sunburnt visage, intense
 [[motifs/soul|soul]] and glittering eyes. Always the East--old, how incalculably old!
@@ -6020,7 +6021,7 @@ of being seldom seen, of coming by surprise and staying but a little
 while; never wears the same dress two nights running, nor all [[motifs/night|night]]
 the same way; commends herself to the matter-of-fact people by her
 usefulness, and makes her uselessness adored by poets, artists, and
-all lovers in all lands; lends herself to every symbolism and to
+all [[lovers]] in all lands; lends herself to every symbolism and to
 every emblem; is [[characters/diana|Diana]]'s bow and [[characters/venus|Venus]]'s [[motifs/mirror|mirror]] and Mary's throne;
 is a sickle, a scarf, an eyebrow, his face or her face, and look'd
 at by her or by him; is the madman's hell, the poet's heaven, the
@@ -6097,7 +6098,7 @@ _Another Day, later_.--A grand twelve-acre field of ripe cabbages with
 their prevailing hue of malachite green, and floating-flying over and
 among them in all directions myriads of these same white butterflies. As
 I came up the lane to-day I saw a living globe of the same, two or three
-feet in diameter, many scores cluster'd together and rolling along
+feet in diameter, many scores cluster'd together and [[rolling]] along
 in the air, adhering to their ball-shape, six or eight feet above the
 ground.
 
@@ -6153,7 +6154,7 @@ A CIVILITY TOO LONG NEGLECTED
 The foregoing reminds me of something.
 
 As the individualities I would mainly portray have certainly been
-slighted by folks who make pictures, volumes, poems, out of them--as
+slighted by folks who make pictures, volumes, [[Poems|poems]], out of them--as
 a faint testimonial of my own gratitude for many hours of peace and
 comfort in half-sickness, (and not by any means sure but they will
 somehow get [[motifs/wind|wind]] of the compliment,) I hereby dedicate the last half of
@@ -6223,7 +6224,7 @@ SCENES ON FERRY AND [[motifs/river|RIVER]]--LAST [[motifs/winter|WINTER]]'S NIGH
 
 Then the Camden ferry. What exhilaration, change, people, business, by
 day. What soothing, silent, wondrous hours, at [[motifs/night|night]], crossing on the
-boat, most all to myself--pacing the deck, alone, forward or aft. What
+boat, most all to myself--pacing the deck, [[Alone|alone]], forward or aft. What
 communion with the waters, the air, the exquisite _chiaroscuro_--the
 sky and [[motifs/stars|stars]], that speak no word, nothing to the intellect, yet so
 eloquent, so communicative to the [[motifs/soul|soul]]. And the ferry men--little they
@@ -6242,7 +6243,7 @@ fantastic dresses; sometimes the astronomer, Mr. Whitall, (who posts
 me up in points about the [[motifs/stars|stars]] by a living lesson there and then, and
 answering every question)--sometimes a prolific family group, eight,
 nine, ten, even twelve! (Yesterday, as I [[motifs/cross|cross]]'d, a mother, father, and
-eight children, waiting in the ferry-house, bound westward somewhere.)
+eight children, waiting in the ferry-[[house]], bound westward somewhere.)
 
 I have mention'd the crows. I always watch them from the boats. They
 play quite a part in the [[motifs/winter|winter]] scenes on the [[motifs/river|river]], by day. Their black
@@ -6328,7 +6329,7 @@ trip, the heavens would be absolutely clear, and Luna in all her
 effulgence. The big Dipper in the north, with the [[topoi/double|double]] star in the
 handle much plainer than common. Then the sheeny track of light in the
 [[motifs/water|water]], dancing and rippling. Such transformations; such pictures and
-poems, inimitable.
+[[Poems|poems]], inimitable.
 
 _Another_.--I am studying the [[motifs/stars|stars]], under advantages, as I [[motifs/cross|cross]]
 tonight. (It is late in February, and again extra clear.) High toward
@@ -6466,7 +6467,7 @@ sometimes weighted by cylinder-tanks of petroleum, thirty, forty, fifty
 cars in a string, panting and rumbling along in full view, but the sound
 soften'd by distance.
 
-DAYS AT J. B.'S TURF-FIRES--[[motifs/spring|SPRING]] SONGS
+DAYS AT J. B.'S TURF-FIRES--[[motifs/spring|SPRING]] [[songs|SONGS]]
 
 _April 26_.--At sunrise, the pure clear sound of the meadow lark. An
 hour later, some notes, few and simple, yet delicious and perfect, from
@@ -6497,7 +6498,7 @@ crows, gulls and hawks. I hear the afternoon shriek of the latter,
 darting about, preparing to nest. The oriole will soon be heard here,
 and the twanging _meoeow_ of the cat-bird; also the [[archetypes/king|king]]-bird, cuckoo
 and the warblers. All along, there are three peculiarly characteristic
-[[motifs/spring|spring]] songs--the meadow-lark's, so sweet, so alert and remonstrating
+[[motifs/spring|spring]] [[songs]]--the meadow-lark's, so sweet, so alert and remonstrating
 (as if he said, "don't you see?" or, "can't you understand?")--the
 cheery, mellow, human tones of the robin--(I have been trying for years
 to get a brief term, or phrase, that would identify and describe that
@@ -6505,7 +6506,7 @@ robin call)--and the amorous whistle of the high-hole. [[motifs/insects|Insects]
 plentifully at midday.
 
 _April 29_.--As we drove lingering along the [[motifs/road|road]] we heard, just after
-sundown, the song of the wood-thrush. We stopp'd without a word, and
+sundown, the [[Song|song]] of the wood-thrush. We stopp'd without a word, and
 listen'd long. The delicious notes--a sweet, artless, voluntary, simple
 anthem, as from the flute-stops of some organ, wafted through the
 twilight--echoing [[motifs/well|well]] to us from the perpendicular high rock, where, in
@@ -6536,7 +6537,7 @@ AN ULSTER COUNTY WATERFALL
 I jot this mem, in a wild scene of woods and hills, where we have come
 to visit a waterfall. I never saw finer or more copious hemlocks, many
 of them large, some old and hoary. Such a sentiment to them, secretive,
-shaggy--what I call weather-beaten and let-alone--a rich underlay of
+shaggy--what I call weather-beaten and let-[[Alone|alone]]--a rich underlay of
 ferns, yew sprouts and mosses, beginning to be spotted with the early
 [[motifs/summer|summer]] wild-[[motifs/flowers|flowers]]. Enveloping all, the monotone and liquid gurgle
 from the hoarse impetuous copious fall--the greenish-tawny, darkly
@@ -6608,7 +6609,7 @@ Sometimes (as at present writing,) middle of sunny afternoon, the
 old "Vanderbilt" steamer stalking ahead--I plainly hear her rhythmic,
 slushing paddles--drawing by long hawsers an immense and varied
 following string, ("an old sow and pigs," the [[motifs/river|river]] folks call it.)
-First comes a big barge, with a house built on it, and spars towering
+First comes a big barge, with a [[house]] built on it, and spars towering
 over the roof; then canal boats, a lengthen'd, clustering train,
 fasten'd and link'd together--the one in the middle, with high staff,
 flaunting a broad and gaudy [[motifs/flag|flag]]--others with the almost invariable
@@ -6778,7 +6779,7 @@ From 7 to 9, aboard the United States school-[[motifs/ship|ship]] Minnesota, lyi
 the North [[motifs/river|river]]. Captain Luce sent his gig for us about sundown, to the
 foot of Twenty-third street, and receiv'd us aboard with officer-like
 hospitality and sailor heartiness. There are several hundred youths on
-the Minnesota to be train'd for efficiently manning the government navy.
+the Minnesota to be train'd for efficiently manning the [[government]] navy.
 I like the idea much; and, so far as I have seen to-[[motifs/night|night]], I like the
 way it is carried out on this huge vessel. Below, on the gun-deck, were
 gather'd nearly a hundred of the boys, to give us some of their singing
@@ -6843,9 +6844,9 @@ and down the roomy spaces--to getting off aside, resting in an arm-chair
 and looking up a long while at the grand high roof with its graceful and
 multitudinous work of iron rods, angles, gray colors, plays of light and
 shade, receding into dim outlines--to absorbing (in the intervals of the
-string band,) some capital voluntaries and rolling caprices from the big
+string band,) some capital voluntaries and [[rolling]] caprices from the big
 organ at the other end of the building--to sighting a [[archetypes/shadow|shadow]]'d figure
-or group or couple of lovers every now and then passing some near or
+or group or couple of [[lovers]] every now and then passing some near or
 farther aisle--I abandon'd myself for over an hour.
 
 Returning [[motifs/home|home]], riding down Market street in an open [[motifs/summer|summer]] car,
@@ -6915,17 +6916,17 @@ crossing the [[motifs/river|river]], the Ohio. By day through the latter State--
 Indiana--and so rock'd to slumber for a second [[motifs/night|night]], flying like
 [[motifs/lightning|lightning]] through Illinois.
 
-IN THE SLEEPER
+IN [[The Sleeper|THE SLEEPER]]
 
 What a fierce weird pleasure to lie in my berth at [[motifs/night|night]] in the
 luxurious palace-car, drawn by the mighty Baldwin--embodying, and
 filling me, too, full of the swiftest motion, and most resistless
 strength! It is late, perhaps midnight or after--distances join'd like
-magic--as we [[characters/speed|speed]] through Harrisburg, [[characters/columbus|Columbus]], Indianapolis. The
+[[Magic|magic]]--as we [[characters/speed|speed]] through Harrisburg, [[characters/columbus|Columbus]], Indianapolis. The
 element of danger adds zest to it all. On we go, rumbling and flashing,
 with our loud whinnies thrown out from [[motifs/time|time]] to [[motifs/time|time]], or trumpet-blasts,
 into the darkness. Passing the homes of men, the farms, barns,
-cattle--the silent villages. And the car itself, the sleeper, with
+cattle--the silent villages. And the car itself, [[The Sleeper|the sleeper]], with
 curtains drawn and lights turn'd down--in the berths the slumberers,
 many of them women and children--as on, on, on, we fly like [[motifs/lightning|lightning]]
 through the [[motifs/night|night]]--how strangely sound and sweet they [[motifs/sleep|sleep]]! (They say
@@ -6944,8 +6945,8 @@ about two-thirds of the way, which set us back. So merely stopping over
 [[motifs/night|night]] that [[motifs/time|time]] in St. Louis, I sped on westward. As I [[motifs/cross|cross]]'d Missouri
 State the whole distance by the St. Louis and Kansas [[motifs/city|City]] Northern
 Railroad, a fine early [[motifs/autumn|autumn]] day, I thought my eyes had never looked on
-scenes of greater pastoral [[concepts/beauty|beauty]]. For over two hundred miles successive
-rolling prairies, agriculturally perfect view'd by Pennsylvania and New
+scenes of greater [[Pastoral|pastoral]] [[concepts/beauty|beauty]]. For over two hundred miles successive
+[[rolling]] prairies, agriculturally perfect view'd by Pennsylvania and New
 Jersey eyes, and dotted here and there with fine timber. Yet fine as the
 land is, it isn't the finest portion; (there is a bed of impervious clay
 and hard-pan beneath this section that holds [[motifs/water|water]] too firmly, "drowns
@@ -7057,7 +7058,7 @@ men before them for deliberate trial. Soon as this trial begins the
 wounded man is led forward to give his testimony. Seeing his enemy
 in durance and unarm'd, B. walks suddenly up in a fury and shoots A.
 through the head--shoots him dead. The [[settings/court|court]] is instantly adjourn'd, and
-its unanimous members, without a word of debate, walk the murderer B.
+its unanimous members, without a word of [[debate]], walk the murderer B.
 out, wounded as he is, and hang him.
 
 In due [[motifs/time|time]] we reach Denver, which [[motifs/city|city]] I fall in [[motifs/love|love]] with from the
@@ -7086,13 +7087,13 @@ wonders, [[concepts/beauty|beauty]], savage power of the scene--the wild stream 
 from sources of snows, brawling continually in sight one side--the
 dazzling sun, and the morning lights on the rocks--such turns and
 grades in the track, squirming around corners, or up and down hills--far
-glimpses of a hundred peaks, titanic necklaces, stretching north and
+glimpses of a hundred peaks, [[titanic]] necklaces, stretching north and
 south--the huge rightly-named Dome-rock--and as we dash along, others
 similar, simple, monolithic, elephantine.
 
 AN EGOTISTICAL "FIND"
 
-"I have found the law of my own poems," was the unspoken but
+"I have found the law of my own [[Poems|poems]]," was the unspoken but
 more-and-more decided feeling that came to me as I pass'd, hour after
 hour, amid all this grim yet joyous elemental abandon--this plenitude
 of material, entire absence of art, untrammel'd play of primitive
@@ -7104,7 +7105,7 @@ thousand feet high--at their tops now and then huge masses pois'd, and
 mixing with the clouds, with only their outlines, hazed in misty lilac,
 visible. ("In [[concepts/nature|Nature]]'s grandest shows," says an old Dutch writer, an
 ecclesiastic, "amid the ocean's depth, if so might be, or countless
-worlds rolling above at [[motifs/night|night]], a man thinks of them, weighs all, not for
+worlds [[rolling]] above at [[motifs/night|night]], a man thinks of them, weighs all, not for
 themselves or the abstract, but with reference to his own personality,
 and how they may affect him or color his destinies.")
 
@@ -7123,7 +7124,7 @@ or a limitless sea-like stretch of the great Kansas or Colorado plains,
 under favoring circumstances, tallies, perhaps expresses, certainly
 awakes, those grandest and subtlest element-emotions in the human
 [[motifs/soul|soul]], that all the marble temples and sculptures from Phidias to
-Thorwaldsen--all paintings, poems, reminiscences, or even music,
+Thorwaldsen--all paintings, [[Poems|poems]], reminiscences, or even music,
 probably never can.
 
 STEAM-POWER, TELEGRAPHS, ETC
@@ -7163,7 +7164,7 @@ or fade on the horizon. We have now reach'd, penetrated the Rockies,
 these [[motifs/chains|chains]] spread away in every direction, specially north and south,
 thousands and thousands farther, I have seen specimens of the utmost
 of them, and know henceforth at least what they are, and what they look
-like. Not themselves alone, for they typify stretches and areas of half
+like. Not themselves [[Alone|alone]], for they typify stretches and areas of half
 the globe--are, in fact, the vertebrae or back-bone of our hemisphere.
 As the anatomists say a man is only a spine, topp'd, footed, breasted
 and radiated, so the whole Western world is, in a sense, but an
@@ -7213,7 +7214,7 @@ visits here.
 _Mountain streams._--The spiritual contrast and etheriality of the whole
 region consist largely to me in its never-absent peculiar streams--the
 snows of inaccessible upper areas melting and running down through the
-gorges continually. Nothing like the [[motifs/water|water]] of pastoral plains, or creeks
+gorges continually. Nothing like the [[motifs/water|water]] of [[Pastoral|pastoral]] plains, or creeks
 with wooded banks and turf, or anything of the kind elsewhere. The
 shapes that element takes in the shows of the globe cannot be fully
 understood by an [[archetypes/artist|artist]] until he has studied these unique rivulets.
@@ -7349,7 +7350,7 @@ Long Island, and along the banks of the Delaware and through New Jersey,
 trip it follow'd me regularly, with its slender stem and eyes of gold,
 from Cape May to the Kaw valley, and so through the ca�ons and to these
 plains. In Missouri I saw immense fields all bright with it. Toward
-western Illinois I woke up one morning in the sleeper and the first
+western Illinois I woke up one morning in [[The Sleeper|the sleeper]] and the first
 thing when I drew the curtain of my berth and look'd out was its pretty
 countenance and bending neck.
 
@@ -7376,7 +7377,7 @@ to see all those inimitable American areas fused in the alembic of
 a perfect poem, or other esthetic work, entirely western, fresh and
 limitless--altogether our own, without a trace or taste of Europe's
 soil, reminiscence, technical letter or spirit. My days and nights, as I
-travel here--what an exhilaration!--not the air alone, and the sense
+travel here--what an exhilaration!--not the air [[Alone|alone]], and the sense
 of vastness, but every local sight and feature. Everywhere something
 characteristic--the cactuses, pinks, buffalo grass, wild sage--the
 receding perspective, and the far circle-line of the horizon all times
@@ -7384,7 +7385,7 @@ of day, especially forenoon--the clear, pure, cool, rarefied nutriment
 for the lungs, previously quite unknown--the black patches and streaks
 left by surface-conflagrations--the deep-plough'd furrow of the
 "[[motifs/fire|fire]]-guard"--the slanting [[motifs/snow|snow]]-racks built all along to shield
-the railroad from [[motifs/winter|winter]] drifts--the prairie-dogs and the herds
+the railroad from [[motifs/winter|winter]] drifts--the prairie-[[dogs]] and the herds
 of antelope--the curious "dry rivers"--occasionally a "dug-out" or
 corral--Fort Riley and Fort Wallace--those towns of the northern plains,
 (like ships on the sea,) Eagle-Tail, Coyot�, Cheyenne, Agate, Monotony,
@@ -7426,7 +7427,7 @@ wilds.
 Speaking generally as to the capacity and sure future destiny of that
 plain and prairie area (larger than any European kingdom) it is the
 inexhaustible land of wheat, maize, wool, flax, coal, iron, beef and
-pork, butter and cheese, apples and grapes--land of ten million virgin
+pork, butter and [[cheese]], apples and grapes--land of ten million virgin
 farms--to the eye at present wild and unproductive--yet experts say
 that upon it when irrigated may easily be grown enough wheat to feed the
 world. Then as to scenery (giving my own thought and feeling,) while
@@ -7469,7 +7470,7 @@ the Topeka and Santa Fe [[motifs/road|road]], in southern Kansas, and indeed whe
 I went, hundreds and thousands of miles through this region, my eyes
 feasted on primitive and rich meadows, some of them partially inhabited,
 but far, immensely far more untouch'd, unbroken--and much of it more
-lovely and fertile in its unplough'd innocence than the fair and
+lovely and fertile in its unplough'd [[innocence]] than the fair and
 valuable fields of [[settings/new-york|New York]]'s, Pennsylvania's, Maryland's or Virginia's
 richest farms.
 
@@ -7495,7 +7496,7 @@ Lying by one rainy day in Missouri to rest after quite a long
 exploration--first trying a big volume I found there of "[[historical-references/milton|Milton]], Young,
 Gray, Beattie and Collins," but giving it up for a bad job--enjoying
 however for awhile, as often before, the reading of Walter Scott's
-poems, "Lay of the Last Minstrel," "Marmion," and so on--I stopp'd and
+[[Poems|poems]], "Lay of the Last Minstrel," "Marmion," and so on--I stopp'd and
 laid down the book, and ponder'd the thought of a poetry that should in
 due [[motifs/time|time]] express and supply the teeming region I was in the midst
 of, and have briefly touch'd upon. One's mind needs but a moment's
@@ -7543,7 +7544,7 @@ constructing which the Plains, the Prairies, and the Mississippi [[motifs/river|
 with the demesnes of its varied and ample valley, should be the concrete
 background, and [[settings/america|America]]'s humanity, passions, struggles, hopes, there
 and now--an _eclaircissement_ as it is and is to be, on the stage of
-the New World, of all [[motifs/time|Time]]'s hitherto drama of war, romance and
+the New World, of all [[motifs/time|Time]]'s hitherto drama of war, [[Romance|romance]] and
 evolution--should furnish the lambent [[motifs/fire|fire]], the ideal.
 
 AN INTERVIEWER'S ITEM
@@ -7634,7 +7635,7 @@ _Sept. 30_.--I see President Hayes has come out West, passing quite
 informally from point to point, with his wife and a small cortege of
 big officers, receiving ovations, and making daily and sometimes
 [[topoi/double|double]]-daily addresses to the people. To these addresses--all impromptu,
-and some would call them ephemeral--I feel to devote a memorandum. They
+and some would call them [[ephemeral]]--I feel to devote a memorandum. They
 are shrewd, good-natur'd, face-to-face speeches, on easy topics not
 too deep; but they give me some revised ideas of oratory--of a new,
 opportune theory and practice of that art, quite changed from the
@@ -7738,7 +7739,7 @@ adhered to as long as mind, muscles, voice, obey the power we call
 volition. This sort of personality we see more or less in Burns, Byron,
 Schiller, and George Sand. But we do not see it in [[characters/edgar|Edgar]] Poe. (All this
 is the result of reading at intervals the last three days a new volume
-of his poems--I took it on my rambles down by the pond, and by degrees
+of his [[Poems|poems]]--I took it on my rambles down by the pond, and by degrees
 read it all through there.) While to the character first outlined the
 service Poe renders is certainly that entire contrast and contradiction
 which is next best to fully exemplifying it.
@@ -7756,7 +7757,7 @@ the rhyming art to excess, an incorrigible propensity toward nocturnal
 themes, a demoniac undertone behind every page--and, by final judgment,
 probably belong among the electric lights of imaginative literature,
 brilliant and dazzling, but with no heat. There is an indescribable
-magnetism about the poet's life and reminiscences, as [[motifs/well|well]] as the poems.
+magnetism about the poet's life and reminiscences, as [[motifs/well|well]] as the [[Poems|poems]].
 To one who could work out their subtle retracing and retrospect, the
 latter would make a close tally no [[concepts/doubt|doubt]] between the author's birth
 and antecedents, his [[motifs/childhood|childhood]] and youth, his physique, his so-call'd
@@ -7786,7 +7787,7 @@ of the eternal moralities. Non-complying with these requirements, Poe's
 genius has yet conquer'd a special recognition for itself, and I too
 have come to fully admit it, and appreciate it and him.
 
-"'In a dream I once had, I saw a vessel on the sea, at midnight, in a
+"'In [[A Dream|a dream]] I once had, I saw a vessel on the sea, at midnight, in a
 [[motifs/storm|storm]]. It was no great full-rigg'd [[motifs/ship|ship]], nor majestic steamer, steering
 firmly through the gale, but seem'd one of those superb little schooner
 yachts I had often seen lying anchor'd, rocking so jauntily, in the
@@ -7796,14 +7797,14 @@ waves of the [[motifs/night|night]]. On the deck was a slender, slight, beautifu
 figure, a dim man, apparently enjoying all the terror, the murk, and the
 dislocation of which he was the centre and the victim. That figure of my
 lurid dream might stand for [[characters/edgar|Edgar]] Poe, his spirit, his fortunes, and his
-poems--themselves all lurid [[motifs/dreams|dreams]].'"
+[[Poems|poems]]--themselves all lurid [[motifs/dreams|dreams]].'"
 
 Much more may be said, but I most desired to exploit the idea put at the
 beginning. By its popular poets the calibres of an age, the weak spots
 of its embankments, its sub-currents, (often more significant than the
 biggest surface ones,) are unerringly indicated. The lush and the weird
 that have taken such extraordinary possession of Nineteenth century
-verse-lovers--what mean they? The inevitable tendency of poetic culture
+verse-[[lovers]]--what mean they? The inevitable tendency of poetic culture
 to morbidity, abnormal [[concepts/beauty|beauty]]--the sickliness of all technical thought
 or refinement in itself--the abnegation of the perennial and democratic
 concretes at first hand, the [[concepts/body|body]], the earth and sea, sex and the
@@ -7813,7 +7814,7 @@ hand--what bearings have they on current pathological study?
 BEETHOVEN'S SEPTETTE
 
 _Feb. 11, '80_.--At a good concert to-[[motifs/night|night]] in the foyer of the opera
-house, Philadelphia--the band a small but first-rate one. Never
+[[house]], Philadelphia--the band a small but first-rate one. Never
 did music more sink into and soothe and fill me--never so prove its
 [[motifs/soul|soul]]-rousing power, its impossibility of statement. Especially in the
 rendering of one of Beethoven's master septettes by the [[motifs/well|well]]-chosen and
@@ -7929,7 +7930,7 @@ great Plains, western Kansas--or scooting up [[settings/new-york|New York]] bay,
 breeze and a good yacht, off Navesink. With these, I say, I henceforth
 place that view, that afternoon, that combination complete, that five
 minutes' perfect absorption of Niagara--not the great majestic gem
-alone by itself, but set complete in all its varied, full, indispensable
+[[Alone|alone]] by itself, but set complete in all its varied, full, indispensable
 surroundings.
 
 JAUNTING TO CANADA
@@ -7943,7 +7944,7 @@ good [[motifs/night|night]] on any railroad track--smooth, firm, the minimum of 
 and all the swiftness compatible with safety. So without change to
 Buffalo, and thence to Clifton, where we arrived early afternoon; then
 on to [[settings/london|London]], Ontario, Canada, in four more--less than twenty-two hours
-altogether. I am domiciled at the hospitable house of my friends Dr. and
+altogether. I am domiciled at the hospitable [[house]] of my friends Dr. and
 Mrs. Bucke, in the ample and charming [[motifs/garden|garden]] and lawns of the asylum.
 
 [[characters/sunday|SUNDAY]] WITH THE INSANE
@@ -8041,7 +8042,7 @@ A ZOLLVEREIN BETWEEN THE U.S. AND CANADA
 Some of the more liberal of the presses here are discussing the question
 of a zollverein between the United States and Canada. It is proposed to
 form a [[concepts/union|union]] for commercial purposes--to altogether abolish the frontier
-tariff line, with its [[topoi/double|double]] sets of custom house officials now existing
+tariff line, with its [[topoi/double|double]] sets of custom [[house]] officials now existing
 between the two countries, and to agree upon one tariff for both, the
 proceeds of this tariff to be divided between the two governments on the
 basis of population. It is said that a large proportion of the merchants
@@ -8126,7 +8127,7 @@ with close-cut verdure of hair. I consider myself [[motifs/well|well]] repaid fo
 my thousand miles to get the sight and [[motifs/memory|memory]] of the unrivall'd duo.
 They have stirr'd me more profoundly than anything of the kind I have
 yet seen. If Europe or Asia had them, we should certainly hear of them
-in all sorts of sent-back poems, rhapsodies, &c., a dozen times a year
+in all sorts of sent-back [[Poems|poems]], rhapsodies, &c., a dozen times a year
 through our papers and magazines.
 
 CHICOUTIMI AND HA-HA BAY
@@ -8191,7 +8192,7 @@ and white--an evergreen--that it is not a _cultivated_ tree--that it
 keeps away moths--that it grows inland or seaboard, all climates, hot
 or cold, any soil--in fact rather prefers sand and bleak side
 spots--content if the plough, the fertilizer and the trimming-axe, will
-but keep away and let it alone. After a long rain, when everything looks
+but keep away and let it [[Alone|alone]]. After a long rain, when everything looks
 bright, often have I stopt in my wood-saunters, south or north, or far
 west, to take in its dusky green, wash'd clean and sweet, and speck'd
 copiously with its fruit of clear, hardy blue. The wood of the cedar
@@ -8220,7 +8221,7 @@ between (at least the bundle of sticks that produced) many of these
 pieces, or granulations, and those blue berries? their uselessness
 growing wild--a certain aroma of [[concepts/nature|Nature]] I would so like to have in
 my pages--the thin soil whence they come--their content in being let
-alone--their stolid and deaf repugnance to answering questions, (this
+[[Alone|alone]]--their stolid and deaf repugnance to answering questions, (this
 latter the nearest, dearest trait affinity of all.)
 
 
@@ -8233,7 +8234,7 @@ Then reader dear, in conclusion, as to the point of the name for the
 present collection, let us be satisfied to _have_ a name--something to
 identify and bind it together, to concrete all its vegetable, mineral,
 personal memoranda, abrupt raids of criticism, crude gossip of
-philosophy, varied sands and clumps--without bothering ourselves because
+[[philosophy]], varied sands and clumps--without bothering ourselves because
 certain pages do not present themselves to you or me as coming under
 their own name with entire fitness or amiability. (It is a profound,
 vexatious never-explicable matter--this of names. I have been exercised
@@ -8298,7 +8299,7 @@ cautious, conservative Scotchman, fully aware what a foetid gas-bag
 much of modern radicalism is; but then his great heart demanded [[concepts/reform|reform]],
 demanded change--often terribly at odds with his scornful brain. No
 author ever put so much wailing and [[concepts/despair|despair]] into his books, sometimes
-palpable, oftener latent. He reminds me of that passage in Young's poems
+palpable, oftener latent. He reminds me of that passage in Young's [[Poems|poems]]
 where as [[motifs/death|death]] presses closer and closer for his prey, the [[motifs/soul|soul]] rushes
 hither and thither, appealing, shrieking, berating, to escape the
 general doom.
@@ -8428,7 +8429,7 @@ Hegel's.[14]
 First, about a chance, a never-fulfill'd vacuity of this pale cast of
 thought--this British [[characters/hamlet|Hamlet]] from Cheyne row, more puzzling than the
 Danish one, with his contrivances for settling the broken and spavin'd
-joints of the world's government, especially its democratic dislocation.
+joints of the world's [[government]], especially its democratic dislocation.
 Carlyle's grim fate was cast to live and dwell in, and largely embody,
 the parturition agony and qualms of the old order, amid crowded
 accumulations of ghastly morbidity, giving birth to the new.
@@ -8447,7 +8448,7 @@ Scotland who had glean'd so much and seen so little,) almost wholly fed,
 and which even his sturdy and vital mind but reflected at best.
 
 Something of the sort narrowly escaped happening. In 1835, after more
-than a dozen years of trial and non-success, the author of "Sartor
+than a dozen years of trial and non-[[success]], the author of "Sartor
 Resartus" removing to [[settings/london|London]], very poor, a confirmed hypochondriac,
 "Sartor" universally scoffed at, no literary prospects ahead,
 deliberately settled on one last casting throw of the literary
@@ -8465,7 +8466,7 @@ was no emigration.
 
 Carlyle's work in the sphere of literature as he commenced and carried
 it out, is the same in one or two leading respects that Immanuel
-Kant's was in speculative philosophy. But the Scotchman had none of the
+Kant's was in speculative [[philosophy]]. But the Scotchman had none of the
 stomachic phlegm and never-perturb'd placidity of the Konigsberg sage,
 and did not, like the latter, understand his own limits, and stop when
 he got to the end of them. He clears away jungle and poisonvines and
@@ -8568,7 +8569,7 @@ to be had.
 
 There is, apart from mere intellect, in the make-up of every superior
 human [[concepts/identity|identity]], (in its moral completeness, considered as _ensemble_,
-not for that moral alone, but for the whole being, including physique,)
+not for that moral [[Alone|alone]], but for the whole being, including physique,)
 a wondrous something that realizes without argument, frequently without
 what is called [[concepts/education|education]], (though I think it the goal and apex of all
 [[concepts/education|education]] deserving the name)--an intuition of the absolute balance, in
@@ -8590,7 +8591,7 @@ depend on some little hidden centrality, hardly more than a drop of
 [[motifs/blood|blood]], a pulse-beat, or a breath of air! It is certain that all these
 weighty matters, [[concepts/democracy|democracy]] in [[settings/america|America]], Carlyleism, and the temperament
 for deepest political or literary exploration, turn on a simple point in
-speculative philosophy.
+speculative [[philosophy]].
 
 The most profound theme that can occupy the mind of man--the problem
 on whose solution science, art, the bases and pursuits of nations, and
@@ -8634,7 +8635,7 @@ the contrarieties of material with spiritual, and of natural with
 artificial, are all, to the eye of the _ensemblist_, but necessary sides
 and unfoldings, different steps or links, in the endless process
 of Creative thought, which, amid numberless apparent failures and
-contradictions, is held together by central and never-broken unity--not
+contradictions, is held together by central and never-broken [[unity]]--not
 contradictions or failures at all, but radiations of one consistent
 and eternal purpose; the whole mass of everything steadily, unerringly
 tending and flowing toward the permanent _utile_ and _morale_, as rivers
@@ -8645,7 +8646,7 @@ moral universe, and vice and disease, with all their perturbations, are
 but transient, even if ever so prevalent expressions.
 
 To politics throughout, Hegel applies the like catholic standard and
-[[concepts/faith|faith]]. Not any one party, or any one form of government, is absolutely
+[[concepts/faith|faith]]. Not any one party, or any one form of [[government]], is absolutely
 and exclusively true. [[concepts/truth|Truth]] consists in the just relations of objects to
 each other. A majority or [[concepts/democracy|democracy]] may rule as outrageously and do as
 great harm as an oligarchy or despotism--though far less likely to
@@ -8666,12 +8667,12 @@ certainly destin'd to failures, after causing great [[concepts/suffering|sufferi
 Theology, Hegel translates into science.[16] All apparent contradictions
 in the statement of the Deific [[concepts/nature|nature]] by different ages, nations,
 churches, points of view, are but fractional and imperfect expressions
-of one essential unity, from which they all proceed--crude endeavors or
+of one essential [[unity]], from which they all proceed--crude endeavors or
 distorted parts, to be regarded both as distinct and united. In short
 (to put it in our own form, or summing up,) that thinker or analyzer
 or overlooker who by an inscrutable combination of train'd wisdom and
-natural intuition most fully accepts in perfect [[concepts/faith|faith]] the moral unity
-and sanity of the creative scheme, in [[concepts/history|history]], science, and all life
+natural intuition most fully accepts in perfect [[concepts/faith|faith]] the moral [[unity]]
+and [[Sanity|sanity]] of the creative scheme, in [[concepts/history|history]], science, and all life
 and [[motifs/time|time]], present and future, is both the truest cosmical devotee or
 religioso, and the profoundest philosopher. While he who, by the spell
 of himself and his circumstance, sees darkness and [[concepts/despair|despair]] in the sum
@@ -8808,7 +8809,7 @@ Coleridge's lines, curiously appropriate in more ways than one:
 All [[concepts/nature|Nature]] seems at work--slugs leave their lair,
 The [[motifs/bees|bees]] are stirring--[[motifs/birds|birds]] are on the wing,
 And [[motifs/winter|winter]], slumbering in the open air,
-Wears on his smiling face a dream of [[motifs/spring|spring]];
+Wears on his smiling face [[A Dream|a dream]] of [[motifs/spring|spring]];
 And I, the while, the sole unbusy thing,
 Nor honey make, nor pair, nor build, nor sing.
 
@@ -8826,7 +8827,7 @@ half-slumbers a dull jolting and bumping sound or two--are unconsciously
 toted from Jersey [[motifs/city|City]] by a midnight steamer around the Battery and
 under the big bridge to the track of the New Haven [[motifs/road|road]]--resume your
 flight eastward, and early the next morning you wake up in Boston. All
-of which was my experience. I wanted to go to the Revere house. A tall
+of which was my experience. I wanted to go to the Revere [[house]]. A tall
 unknown gentleman, (a fellow-passenger on his way to Newport he told
 me, I had just chatted a few moments before with him,) assisted me out
 through the depot crowd, procured a hack, put me in it with my traveling
@@ -8917,8 +8918,8 @@ States for a poetical beginning and initiation than has come from
 Emerson, Longfellow, Bryant, and Whittier. Emerson, to me, stands
 unmistakably at the head, but for the others I am at a loss where to
 give any precedence. Each illustrious, each rounded, each distinctive.
-Emerson for his sweet, vital-tasting melody, rhym'd philosophy, and
-poems as amber-clear as the honey of the wild bee he loves to sing.
+Emerson for his sweet, vital-tasting melody, rhym'd [[philosophy]], and
+[[Poems|poems]] as amber-clear as the honey of the wild bee he loves to sing.
 Longfellow for rich color, graceful forms and incidents--all that makes
 life beautiful and [[motifs/love|love]] refined--competing with the singers of Europe
 on their own ground, and, with one exception, better and finer work than
@@ -8926,8 +8927,8 @@ that of any of them. Bryant pulsing the first interior verse-throbs of a
 mighty world--bard of the [[motifs/river|river]] and the wood, ever conveying a taste of
 open air, with scents as from hayfields, grapes, birch-borders--always
 lurkingly fond of threnodies--beginning and ending his long career with
-chants of [[motifs/death|death]], with here and there through all, poems, or passages
-of poems, touching the highest universal truths, enthusiasms,
+chants of [[motifs/death|death]], with here and there through all, [[Poems|poems]], or passages
+of [[Poems|poems]], touching the highest universal truths, enthusiasms,
 duties--morals as grim and eternal, if not as stormy and fateful, as
 anything in Eschylus. While in Whittier, with his special themes--(his
 outcropping [[motifs/love|love]] of [[concepts/heroism|heroism]] and war, for all his Quakerdom, his verses
@@ -8940,7 +8941,7 @@ wilfulness.
 
 MILLET'S PICTURES LAST ITEMS
 
-_April 18_.--Went out three or four miles to the house of Quincy [[works/shaw-(chesterton)|Shaw]],
+_April 18_.--Went out three or four miles to the [[house]] of Quincy [[works/shaw-(chesterton)|Shaw]],
 to see a collection of J. F. Millet's pictures. Two rapt hours. Never
 before have I been so penetrated by this kind of expression. I stood
 long and long before "the Sower." I believe what the picture-men
@@ -8956,7 +8957,7 @@ for. To me all of them told the full story of what went before and
 necessitated the great [[historical-references/french-revolution|French revolution]]--the long precedent crushing
 of the masses of a heroic people into the earth, in abject [[concepts/poverty|poverty]],
 hunger--every right denied, humanity attempted to be put back for
-generations--yet [[concepts/nature|Nature]]'s force, titanic here, the stronger and hardier
+generations--yet [[concepts/nature|Nature]]'s force, [[titanic]] here, the stronger and hardier
 for that repression--waiting terribly to break forth, revengeful--the
 pressure on the dykes, and the bursting at last--the storming of the
 Bastile--the execution of the [[archetypes/king|king]] and [[characters/queen|queen]]--the tempest of massacres
@@ -9066,7 +9067,7 @@ Some [[motifs/ship|ship]] will find it best.
 Preach not to others what they should eat, but eat as becomes you, and
 be silent.--_Epictetus_.
 
-Victor Hugo makes a donkey meditate and apostrophize thus:
+Victor Hugo makes a [[donkey]] meditate and apostrophize thus:
 
 My brother, man, if you would know the [[concepts/truth|truth]],
 We both are by the same dull walls shut in;
@@ -9129,7 +9130,7 @@ And give me Liberty.--_Emily Bronte._
 I travel on not knowing,
 I would not if I might;
 I would rather walk with God in the dark,
-Than go alone in the light;
+Than go [[Alone|alone]] in the light;
 I would rather walk with Him by [[concepts/faith|faith]]
 Than pick my way by sight
 
@@ -9204,7 +9205,7 @@ voices, calls, re-responses--the springing and diving of the bathers
 from the great string-piece of the [[motifs/decay|decay]]'d pier, where climb or stand
 long ranks of them, naked, [[motifs/rose|rose]]-color'd, with movements, postures ahead
 of any sculpture. To all this, the sun, so bright, the dark-green [[archetypes/shadow|shadow]]
-of the hills the other side, the amber-rolling waves, changing as the
+of the hills the other side, the amber-[[rolling]] waves, changing as the
 tide comes in to a trans-parent tea-color--the frequent splash of the
 playful boys, sousing--the glittering drops sparkling, and the good
 western breeze blowing.
@@ -9241,7 +9242,7 @@ slaughter'd or half-slaughter'd horses, for breastworks, make a peculiar
 feature. Two dead Indians, herculean, lie in the foreground, clutching
 their Winchester rifles, very characteristic. The many soldiers, their
 faces and attitudes, the carbines, the broad-brimm'd western hats, the
-powder-smoke in puffs, the dying horses with their rolling eyes
+powder-smoke in puffs, the dying horses with their [[rolling]] eyes
 almost human in their agony, the clouds of war-bonneted Sioux in the
 background, the figures of Custer and Cook--with indeed the whole scene,
 dreadful, yet with an attraction and [[concepts/beauty|beauty]] that will remain in my
@@ -9297,7 +9298,7 @@ would not give a straw for that person or poem, or friend, or [[motifs/city|city
 or work of art, that was not more grateful the second [[motifs/time|time]] than the
 first--and more still the third. Nay, I do not believe any grandest
 eligibility ever comes forth at first. In my own experience, (persons,
-poems, places, characters,) I discover the best hardly ever at first,
+[[Poems|poems]], places, characters,) I discover the best hardly ever at first,
 (no absolute rule about it, however,) sometimes suddenly bursting
 forth, or stealthily opening to me, perhaps after years of unwitting
 familiarity, unappreciation, usage.
@@ -9308,7 +9309,7 @@ _Concord, Mass._--Out here on a visit--elastic, mellow, Indian-summery
 weather. Came to-day from Boston, (a pleasant ride of 40 minutes by
 steam, through Somerville, Belmont, Waltham, Stony Brook, and other
 lively towns,) convoy'd by my friend F. B. Sanborn, and to his ample
-house, and the kindness and hospitality of Mrs. S. and their fine
+[[house]], and the kindness and hospitality of Mrs. S. and their fine
 family. Am writing this under the shade of some old hickories and elms,
 just after 4 P.M., on the porch, within a stone's throw of the Concord
 [[motifs/river|river]]. Off against me, across stream, on a meadow and side-[[motifs/hill|hill]],
@@ -9346,8 +9347,8 @@ give special attention. A good color in his face, eyes clear, with the
 [[motifs/well|well]]-known expression of sweetness, and the old clear-peering aspect
 quite the same.
 
-_Next Day_.--Several hours at E.'s house, and dinner there. An
-old familiar house, (he has been in it thirty-five years,) with
+_Next Day_.--Several hours at E.'s [[house]], and dinner there. An
+old familiar [[house]], (he has been in it thirty-five years,) with
 surroundings, furnishment, roominess, and plain elegance and fullness,
 signifying democratic ease, sufficient opulence, and an admirable
 old-fashioned simplicity--modern luxury, with its mere sumptuousness and
@@ -9392,10 +9393,10 @@ and the other had a brown headstone, moderately elaborate, with
 inscriptions. By Henry's side lies his brother John, of whom much
 was expected, but he died young. Then to Walden pond, that beautiful
 embower'd sheet of [[motifs/water|water]], and spent over an hour there. On the spot in
-the woods where Thoreau had his solitary house is now quite a cairn of
+the woods where Thoreau had his solitary [[house]] is now quite a cairn of
 stones, to mark the place; I too carried one and deposited on the heap.
-As we drove back, saw the "School of Philosophy," but it was shut up,
-and I would not have it open'd for me. Near by stopp'd at the house
+As we drove back, saw the "School of [[philosophy|Philosophy]]," but it was shut up,
+and I would not have it open'd for me. Near by stopp'd at the [[house]]
 of W.T. Harris, the Hegelian, who came out, and we had a pleasant chat
 while I sat in the wagon. I shall not soon forget those Concord drives,
 and especially that charming [[characters/sunday|Sunday]] forenoon one with my friend Miss M.,
@@ -9417,7 +9418,7 @@ emotional just as [[motifs/well|well]] as the intellectual. During those two hou
 he was the talker and I the listener. It was an argument-statement,
 reconnoitring, review, attack, and pressing [[motifs/home|home]], (like an army corps in
 order, artillery, cavalry, infantry,) of all that could be said against
-that part (and a main part) in the construction of my poems, "Children
+that part (and a main part) in the construction of my [[Poems|poems]], "Children
 of Adam." More precious than gold to me that dissertion--it afforded
 me, ever after, this strange and paradoxical lesson; each point of E.'s
 statement was unanswerable, no judge's charge ever more complete or
@@ -9427,7 +9428,7 @@ and pursue my own way. "What have you to say then to such things?" said
 E., pausing in conclusion. "Only that while I can't answer them at all,
 I feel more settled than ever to adhere to my own theory, and exemplify
 it," was my candid response. Whereupon we went and had a good dinner
-at the American House. And thenceforward I never waver'd or was touch'd
+at the American [[house|House]]. And thenceforward I never waver'd or was touch'd
 with qualms, (as I confess I had been two or three times before.)
 
 AN OSSIANIC [[motifs/night|NIGHT]]--DEAREST FRIENDS
@@ -9444,7 +9445,7 @@ quite thin, sometimes thicker--a real Ossianic [[motifs/night|night]]--amid the
 whirl, absent or dead friends, the old, the past, somehow tenderly
 suggested--while the Gael-strains chant themselves from the mists--"Be
 thy [[motifs/soul|soul]] blest, O Carril! in the midst of thy eddying winds. O that thou
-wouldst come to my hall when I am alone by [[motifs/night|night]]! And thou dost come,
+wouldst come to my hall when I am [[Alone|alone]] by [[motifs/night|night]]! And thou dost come,
 my friend. I hear often thy light hand on my harp, when it hangs on the
 distant wall, and the feeble sound touches my ear. Why dost thou not
 speak to me in my grief, and tell me when I shall behold my friends? But
@@ -9458,7 +9459,7 @@ receiving the wraiths of just-slain warriors--["We sat that [[motifs/night|night
 Selma, round the strength of the shell. The [[motifs/wind|wind]] was abroad in the oaks.
 The spirit of the mountain roar'd. The blast came rustling through the
 hall, and gently touch'd my harp. The sound was mournful and low, like
-the song of the tomb. Fingal heard it the first. The crowded sighs of
+the [[Song|song]] of the tomb. Fingal heard it the first. The crowded sighs of
 his bosom [[motifs/rose|rose]]. Some of my heroes are low, said the gray-hair'd [[archetypes/king|king]]
 of Morven. I hear the sound of [[motifs/death|death]] on the harp. Ossian, touch the
 trembling string. Bid the sorrow rise, that their spirits may fly with
@@ -9466,11 +9467,11 @@ joy to Morven's woody hills. I touch'd the harp before the [[archetypes/king|kin
 sound was mournful and low. Bend forward from your clouds, I said,
 [[motifs/ghosts|ghosts]] of my fathers! bend. Lay by the red terror of your course.
 Receive the falling chief; whether he comes from a distant land, or
-rises from the rolling sea. Let his robe of mist be near; his spear that
+rises from the [[rolling]] sea. Let his robe of mist be near; his spear that
 is form'd of a cloud. Place a half-extinguish'd meteor by his side, in
-the form of a [[archetypes/hero|hero]]'s sword. And oh! let his countenance be lovely, that
+the form of a [[archetypes/hero|hero]]'s [[Sword|sword]]. And oh! let his countenance be lovely, that
 his friends may delight in his presence. Bend from your clouds, I said,
-[[motifs/ghosts|ghosts]] of my fathers, bend. Such was my song in Selma, to the lightly
+[[motifs/ghosts|ghosts]] of my fathers, bend. Such was my [[Song|song]] in Selma, to the lightly
 trembling harp."]
 
 
@@ -9482,7 +9483,7 @@ trembling harp."]
 How or why I know not, just at the moment, but I too muse and think of
 my best friends in their distant homes--of William O'Connor, of
 Maurice Bucke, of John Burroughs, and of Mrs. Gilchrist--friends of my
-[[motifs/soul|soul]]--stanchest friends of my other [[motifs/soul|soul]], my poems.
+[[motifs/soul|soul]]--stanchest friends of my other [[motifs/soul|soul]], my [[Poems|poems]].
 
 ONLY A NEW FERRY-BOAT
 
@@ -9513,7 +9514,7 @@ shade of pines and cedars and a tangle of old laurel-trees and vines,
 the news of Longfellow's [[motifs/death|death]] first reach'd me. For want of anything
 better, let me lightly twine a sprig of the sweet ground-ivy trailing so
 plentifully through the dead [[motifs/leaves|leaves]] at my feet, with reflections of that
-half hour alone, there in the [[motifs/silence|silence]], and lay it as my contribution on
+half hour [[Alone|alone]], there in the [[motifs/silence|silence]], and lay it as my contribution on
 the dead bard's [[motifs/grave|grave]].
 
 Longfellow in his voluminous works seems to me not only to be eminent
@@ -9533,13 +9534,13 @@ to think long if I were ask'd to name the man who has done more, and in
 more valuable directions, for [[settings/america|America]].
 
 I [[concepts/doubt|doubt]] if there ever was before such a fine intuitive judge and
-selecter of poems. His translations of many German and Scandinavian
+selecter of [[Poems|poems]]. His translations of many German and Scandinavian
 pieces are said to be better than the vernaculars. He does not urge or
 lash. His influence is like good drink or air. He is not tepid either,
 but always vital, with flavor, motion, grace. He strikes a splendid
 average, and does not sing exceptional passions, or humanity's jagged
 escapades. He is not revolutionary, brings nothing offensive or new,
-does not deal hard blows. On the contrary, his songs soothe and heal, or
+does not deal hard blows. On the contrary, his [[songs]] soothe and heal, or
 if they excite, it is a healthy and agreeable excitement. His very
 anger is gentle, is at second hand, (as in the "Quadroon Girl" and the
 "Witnesses.")
@@ -9703,7 +9704,7 @@ at their best, yet applicable if need be to average affairs, and
 eligible to all. So used are we to suppose a heroic [[motifs/death|death]] can only
 come from out of battle or [[motifs/storm|storm]], or mighty personal contest, or amid
 dramatic incidents or danger, (have we not been taught so for ages by
-all the plays and poems?) that few even of those who most sympathizingly
+all the plays and [[Poems|poems]]?) that few even of those who most sympathizingly
 mourn Emerson's late departure will fully appreciate the ripen'd
 grandeur of that event, with its play of calm and fitness, like evening
 light on the sea.
@@ -9753,7 +9754,7 @@ follow'd, as I find them in my notes:
 In youth and maturity [[works/poems-(chesterton)|Poems]] are charged with sunshine and varied pomp of
 day; but as the [[motifs/soul|soul]] more and more takes precedence, (the sensuous still
 included,) the Dusk becomes the poet's atmosphere. I too have sought,
-and ever seek, the brilliant sun, and make my songs according. But as I
+and ever seek, the brilliant sun, and make my [[songs]] according. But as I
 grow old, the half-lights of evening are far more to me.
 
 The play of [[concepts/imagination|Imagination]], with the sensuous objects of [[concepts/nature|Nature]] for symbols
@@ -9761,7 +9762,7 @@ and [[concepts/faith|Faith]]--with [[motifs/love|Love]] and [[concepts/pride|Pri
 all, make up the curious chess-game of a poem.
 
 Common teachers or critics are always asking "What does it mean?"
-Symphony of fine musician, or sunset, or sea-waves rolling up the
+Symphony of fine musician, or sunset, or sea-waves [[rolling]] up the
 beach--what do they mean? Undoubtedly in the most subtle-elusive sense
 they mean something--as [[motifs/love|love]] does, and religion does, and the best
 poem;--but who shall fathom and define those meanings? (I do not intend
@@ -9838,7 +9839,7 @@ Dictionary? I have fancied the ocean and the daylight, the mountain
 and the forest, putting their spirit in a judgment on our books. I have
 fancied some disembodied human [[motifs/soul|soul]] giving its verdict.)
 
-[[concepts/nature|NATURE]] AND [[concepts/democracy|DEMOCRACY]]--MORALITY
+[[concepts/nature|NATURE]] AND [[concepts/democracy|DEMOCRACY]]--[[morality|MORALITY]]
 
 [[concepts/democracy|Democracy]] most of all affiliates with the open air, is sunny and hardy
 and sane only with [[concepts/nature|Nature]]--just as much as Art is. Something is required
@@ -9855,9 +9856,9 @@ of [[settings/america|America]],) on any less terms. I conceive of no flourishin
 elements of [[concepts/democracy|Democracy]] in the United States, or of [[concepts/democracy|Democracy]] maintaining
 itself at all, without the [[concepts/nature|Nature]]-element forming a main part--to be
 its health-element and [[concepts/beauty|beauty]]-element--to really underlie the whole
-politics, sanity, religion and art of the New World.
+politics, [[Sanity|sanity]], religion and art of the New World.
 
-Finally, the morality: "Virtue," said Marcus Aurelius, "what is it,
+Finally, the [[morality]]: "Virtue," said Marcus Aurelius, "what is it,
 only a living and enthusiastic sympathy with [[concepts/nature|Nature]]?" Perhaps indeed the
 efforts of the true poets, founders, religions, literatures, all ages,
 have been, and ever will be, our [[motifs/time|time]] and times to come, essentially the
@@ -9891,7 +9892,7 @@ those crude and boyish pieces quietly dropp'd in oblivion--but to avoid
 the annoyance of their surreptitious issue, (as lately announced, from
 outsiders,) I have, with some qualms, tack'd them on here. _A Dough-Face
 Song_ came out first in the "Evening Post"--_Blood-Money_, and _Wounded
-in the House of Friends_, in the "Tribune."
+in the [[house|House]] of Friends_, in the "Tribune."
 
 _Poetry To-day in America_, &c., first appear'd (under the name of "_The
 Poetry of the Future_,") in "The North American Review" for February,
@@ -9918,7 +9919,7 @@ that make up, in their limitless field, that perennial health-action of
 the air we call the weather--an infinite number of currents and forces,
 and contributions, and temperatures, and [[motifs/cross|cross]]-purposes, whose ceaseless
 play of counterpart upon counterpart brings constant restoration and
-vitality.) With this thought--and not for itself alone, but all it
+vitality.) With this thought--and not for itself [[Alone|alone]], but all it
 necessitates, and draws after it--let me begin my speculations.
 
 
@@ -9930,8 +9931,8 @@ necessitates, and draws after it--let me begin my speculations.
 [[settings/america|America]], filling the present with greatest deeds and problems,
 cheerfully accepting the past, including feudalism, (as, indeed, the
 present is but the legitimate birth of the past, including feudalism,)
-counts, as I reckon, for her justification and success, (for who, as
-yet, dare claim success?) almost entirely on the future. Nor is that
+counts, as I reckon, for her justification and [[success]], (for who, as
+yet, dare claim [[success]]?) almost entirely on the future. Nor is that
 [[concepts/hope|hope]] unwarranted. To-day, ahead, though dimly yet, we see, in vistas, a
 copious, sane, gigantic offspring. For our New World I consider far less
 important for what it has done, or what it is, than for results to come.
@@ -9963,7 +9964,7 @@ mainly write this [[forms/essay|essay]]. I shall use the words [[settings/americ
 convertible terms. Not an ordinary one is the issue. The United States
 are destined either to surmount the gorgeous [[concepts/history|history]] of feudalism, or
 else prove the most tremendous failure of [[motifs/time|time]]. Not the least doubtful
-am I on any prospects of their material success. The triumphant future
+am I on any prospects of their material [[success]]. The triumphant future
 of their business, geographic and productive departments, on larger
 scales and in more varieties than ever, is certain. In those respects
 the republic must soon (if she does not already) outstrip all examples
@@ -9985,7 +9986,7 @@ this country, entire possession of the more important fields, indeed the
 very subsoil, of [[concepts/education|education]], and of social standards and literature.
 
 I say that [[concepts/democracy|democracy]] can never prove itself beyond cavil, until it
-founds and luxuriantly grows its own forms of art, poems, schools,
+founds and luxuriantly grows its own forms of art, [[Poems|poems]], schools,
 theology, displacing all that exists, or that has been produced anywhere
 in the past, under opposite influences. It is curious to me that
 while so many voices, pens, minds, in the press, lecture-rooms, in our
@@ -10006,7 +10007,7 @@ of Presidents or Congresses--radiating, begetting appropriate teachers,
 schools, manners, and, as its grandest result, accomplishing, (what
 neither the schools nor the churches and their clergy have hitherto
 accomplish'd, and without which this nation will no more stand,
-permanently, soundly, than a house will stand without a substratum,) a
+permanently, soundly, than a [[house]] will stand without a substratum,) a
 religious and moral character beneath the political and productive
 and intellectual bases of the States. For know you not, dear, earnest
 reader, that the people of our land may all read and write, and may
@@ -10021,7 +10022,7 @@ wanted than, to-day, and here in the States, the poet of the modern is
 wanted, or the great literatus of the modern. At all times, perhaps, the
 central point in any nation, and that whence it is itself really sway'd
 the most, and whence it sways others, is its national literature,
-especially its archetypal poems. Above all previous lands, a great
+especially its archetypal [[Poems|poems]]. Above all previous lands, a great
 original literature is surely to become the justification and reliance,
 (in some respects the sole reliance,) of American [[concepts/democracy|democracy]].
 
@@ -10036,7 +10037,7 @@ all, shapes aggregates and individuals, and, after subtle ways, with
 irresistible power, constructs, sustains, demolishes at will. Why tower,
 in reminiscence, above all the nations of the earth, two special lands,
 petty in themselves, yet inexpressibly gigantic, beautiful, columnar?
-Immortal Judah lives, and Greece immortal lives, in a couple of poems.
+Immortal Judah lives, and Greece immortal lives, in a couple of [[Poems|poems]].
 
 Nearer than this. It is not generally realized, but it is true, as
 the genius of Greece, and all the sociology, personality, politics
@@ -10049,7 +10050,7 @@ rounding it out, and so saturating it in the conscious and unconscious
 [[motifs/blood|blood]], breed, belief, and intuitions of men, that it still prevails
 powerful to this day, in defiance of the mighty changes of [[motifs/time|time]]--was its
 literature, permeating to the very marrow, especially that major part,
-its enchanting songs, ballads, and poems.[21]
+its enchanting [[songs]], ballads, and [[Poems|poems]].[21]
 
 To the ostent of the senses and eyes, I know, the influences which
 stamp the world's [[concepts/history|history]] are wars, uprisings or downfalls of dynasties,
@@ -10123,11 +10124,11 @@ teachers, fit for us, national expressers, comprehending and effusing
 for the men and women of the States, what is universal, native, common
 to all, inland and seaboard, northern and southern. The historians say
 of [[historical-references/ancient-greece|ancient Greece]], with her ever-jealous autonomies, cities, and states,
-that the only positive unity she ever own'd or receiv'd, was the sad
-unity of a common subjection, at the last, to foreign conquerors.
+that the only positive [[unity]] she ever own'd or receiv'd, was the sad
+[[unity]] of a common subjection, at the last, to foreign conquerors.
 Subjection, aggregation of that sort, is impossible to [[settings/america|America]]; but
 the [[concepts/fear|fear]] of conflicting and irreconcilable interiors, and the lack of
-a common skeleton, knitting all close, continually haunts me. Or, if it
+a common [[skeleton]], knitting all close, continually haunts me. Or, if it
 does not, nothing is plainer than the need, a long period to come, of
 a fusion of the States into the only reliable [[concepts/identity|identity]], the moral
 and artistic one. For, I say, the true nationality of the States, the
@@ -10148,7 +10149,7 @@ It may be claim'd, (and I admit the weight of the claim,) that common
 and general worldly prosperity, and a populace [[motifs/well|well]]-to-do, and with all
 life's material comforts, is the main thing, and is enough. It may be
 argued that our republic is, in performance, really enacting to-day the
-grandest arts, poems, &c., by beating up the wilderness into fertile
+grandest arts, [[Poems|poems]], &c., by beating up the wilderness into fertile
 farms, and in her railroads, ships, machinery, &c. And it may be ask'd,
 Are these not better, indeed, for [[settings/america|America]], than any utterances even of
 greatest rhapsode, [[archetypes/artist|artist]], or literatus?
@@ -10157,7 +10158,7 @@ I too hail those achievements with [[concepts/pride|pride]] and joy: then answer
 the [[motifs/soul|soul]] of man will not with such only--nay, not with such at all--be
 finally satisfied; but needs what, (standing on these and on all things,
 as the feet stand on the ground,) is address'd to the loftiest, to
-itself alone.
+itself [[Alone|alone]].
 
 Out of such considerations, such truths, arises for treatment in
 these Vistas the important question of character, of an American
@@ -10173,7 +10174,7 @@ that the establishment of free political institutions, and plentiful
 intellectual smartness, with general good order, physical plenty,
 industry, &c., (desirable and precious advantages as they all are,) do,
 of themselves, determine and yield to our experiment of [[concepts/democracy|democracy]] the
-fruitage of success. With such advantages at present fully, or almost
+fruitage of [[success]]. With such advantages at present fully, or almost
 fully, possess'd--the [[concepts/union|Union]] just issued, victorious, from the struggle
 with the only foes it need ever [[concepts/fear|fear]], (namely, those within itself,
 the interior ones,) and with unprecedented materialistic
@@ -10218,7 +10219,7 @@ enacted on the visible stage of society, solid things and stupendous
 labors are to be discover'd, existing crudely and going on in the
 background, to advance and tell themselves in [[motifs/time|time]]. Yet the truths are
 none the less terrible. I say that our New World [[concepts/democracy|democracy]], however
-great a success in uplifting the masses out of their sloughs, in
+great a [[success]] in uplifting the masses out of their sloughs, in
 materialistic development, products, and in a certain highly-deceptive
 superficial popular intellectuality, is, so far, an almost complete
 failure in its social aspects, and in really grand religious, moral,
@@ -10250,7 +10251,7 @@ and give me, through such senses and appetites, and through my esthetic
 more and more, as I [[motifs/cross|cross]] the East and North rivers, the ferries, or
 with the pilots in their pilot-houses, or pass an hour in Wall street,
 or the gold exchange, I realize, (if we must admit such partialisms,)
-that not [[concepts/nature|Nature]] alone is great in her fields of [[concepts/freedom|freedom]] and the open
+that not [[concepts/nature|Nature]] [[Alone|alone]] is great in her fields of [[concepts/freedom|freedom]] and the open
 air, in her storms, the shows of [[motifs/night|night]] and day, the [[settings/mountains|mountains]], forests,
 seas--but in the artificial, the work of man too is equally great--in
 this profusion of teeming humanity--in these ingenuities, streets,
@@ -10351,7 +10352,7 @@ even in the midst of immense tendencies toward aggregation, this image
 of completeness in separatism, of individual personal dignity, of a
 single person, either male or female, characterized in the main, not
 from extrinsic acquirements or position, but in the [[concepts/pride|pride]] of himself or
-herself alone; and, as an eventual conclusion and summing up, (or else
+herself [[Alone|alone]]; and, as an eventual conclusion and summing up, (or else
 the entire scheme of things is aimless, a cheat, a crash,) the simple
 idea that the last, best dependence is to be upon humanity itself, and
 its own inherent, normal, fullgrown qualities, without any superstitious
@@ -10398,7 +10399,7 @@ declamatory cry and warning--as, very lately, from an eminent and
 venerable person abroad[24]--things, problems, full of [[concepts/doubt|doubt]], dread,
 suspense, (not new to me, but old occupiers of many an anxious hour in
 [[motifs/city|city]]'s din, or [[motifs/night|night]]'s [[motifs/silence|silence]],) we still may give a page or so, whose
-drift is opportune. [[motifs/time|Time]] alone can finally answer these things. But as
+drift is opportune. [[motifs/time|Time]] [[Alone|alone]] can finally answer these things. But as
 a substitute in passing, let us, even if fragmentarily, throw forth a
 short direct or indirect suggestion of the premises of that other plan,
 in the new spirit, under the new forms, started here in our [[settings/america|America]].
@@ -10406,7 +10407,7 @@ in the new spirit, under the new forms, started here in our [[settings/america|A
 As to the political section of [[concepts/democracy|Democracy]], which introduces and breaks
 ground for further and vaster sections, few probably are the minds, even
 in these republican States, that fully comprehend the aptness of that
-phrase, "THE GOVERNMENT OF THE PEOPLE, BY THE PEOPLE, FOR THE PEOPLE,"
+phrase, "THE [[government|GOVERNMENT]] OF THE PEOPLE, BY THE PEOPLE, FOR THE PEOPLE,"
 which we inherit from the lips of [[characters/abraham-lincoln|Abraham Lincoln]]; a formula whose
 verbal shape is homely wit, but whose scope includes both the totality
 and all minutiae of the lesson.
@@ -10414,7 +10415,7 @@ and all minutiae of the lesson.
 The People! Like our huge earth itself, which, to ordinary scansion,
 is full of vulgar contradictions and offence, man, viewed in the lump,
 displeases, and is a constant puzzle and affront to the merely educated
-classes. The rare, cosmical, [[archetypes/artist|artist]]-mind, lit with the Infinite, alone
+classes. The rare, cosmical, [[archetypes/artist|artist]]-mind, lit with the Infinite, [[Alone|alone]]
 confronts his manifold and oceanic qualities--but taste, intelligence
 and culture, (so-called,) have been against the masses, and remain so.
 There is plenty of glamour about the most damnable crimes and hoggish
@@ -10531,7 +10532,7 @@ politics by absorbing such morbid collections and qualities therein. The
 point is a formidable one, and there will doubtless always be numbers of
 solid and reflective citizens who will never get over it. Our answer
 is general, and is involved in the scope and letter of this [[forms/essay|essay]].
-We believe the ulterior object of political and all other government,
+We believe the ulterior object of political and all other [[government]],
 (having, of course, provided for the police, the safety of life,
 property, and for the basic statute and common law, and their
 administration, always first in order,) to be among the rest, not
@@ -10539,10 +10540,10 @@ merely to rule, to repress disorder, &c., but to develop, to open up to
 cultivation, to encourage the possibilities of all beneficent and manly
 outcroppage, and of that [[concepts/aspiration|aspiration]] for independence, and the [[concepts/pride|pride]] and
 [[concepts/self|self]]-respect latent in all characters. (Or, if there be exceptions, we
-cannot, fixing our eyes on them alone, make theirs the rule for all.)
+cannot, fixing our eyes on them [[Alone|alone]], make theirs the rule for all.)
 
-I say the mission of government, henceforth, in civilized lands, is not
-repression alone, and not Authority alone, not even of law, nor by that
+I say the mission of [[government]], henceforth, in civilized lands, is not
+repression [[Alone|alone]], and not Authority [[Alone|alone]], not even of law, nor by that
 favorite standard of the eminent writer, the rule of the best men, the
 born heroes and captains of the race, (as if such ever, or one [[motifs/time|time]] out
 of a hundred, get into the big places, elective or dynastic)--but higher
@@ -10599,7 +10600,7 @@ passionless as crystal.
 [[concepts/democracy|Democracy]] too is law, and of the strictest, amplest kind. Many suppose,
 (and often in its own ranks the error,) that it means a throwing aside
 of law, and running riot. But, briefly, it is the superior law, not
-alone that of physical force, the [[concepts/body|body]], which, adding to, it supersedes
+[[Alone|alone]] that of physical force, the [[concepts/body|body]], which, adding to, it supersedes
 with that of the spirit. Law is the unshakable order of the universe
 forever; and the law over all, and law of laws, is the law of
 successions; that of the superior law, in [[motifs/time|time]], gradually supplanting
@@ -10609,14 +10610,14 @@ be administer'd in favor, or at least not against it, and that this
 reservation be closely construed--that until the individual or community
 show due signs, or be so minor and fractional as not to endanger
 the State, the condition of authoritative tutelage may continue, and
-[[concepts/self|self]]-government must abide its [[motifs/time|time]].) Nor is the esthetic point, always
+[[concepts/self|self]]-[[government]] must abide its [[motifs/time|time]].) Nor is the esthetic point, always
 an important one, without fascination for highest aiming souls. The
 common [[concepts/ambition|ambition]] strains for elevations, to become some privileged
 exclusive. The master sees [[concepts/greatness|greatness]] and health in being part of the
 mass; nothing will do as [[motifs/well|well]] as common ground. Would you have in
 yourself the divine, vast, general law? Then merge yourself in it.
 
-And, topping [[concepts/democracy|democracy]], this most alluring record, that it alone can
+And, topping [[concepts/democracy|democracy]], this most alluring record, that it [[Alone|alone]] can
 bind, and ever seeks to bind, all nations, all men, of however various
 and distant lands, into a brotherhood, a family. It is the old, yet
 ever-modern dream of earth, out of her eldest and her youngest, her
@@ -10663,7 +10664,7 @@ left. _That_, or chronic dissatisfaction continued, mutterings which
 grow annually louder and louder, till, in due course, and pretty swiftly
 in most cases, the inevitable crisis, crash, dynastic ruin. Anything
 worthy to be call'd statesmanship in the Old World, I should say, among
-the advanced students, adepts, or men of any brains, does not debate
+the advanced students, adepts, or men of any brains, does not [[debate]]
 to-day whether to hold on, attempting to lean back and monarchize, or
 to look forward and democratize--but _how_, and in what degree and part,
 most prudently to democratize.
@@ -10680,7 +10681,7 @@ fossilism making so large a part of human institutions. The latter will
 always take care of themselves--the danger being that they rapidly tend
 to ossify us. The former is to be treated with indulgence, and even with
 respect. As circulation to air, so is agitation and a plentiful degree
-of speculative license to political and moral sanity. Indirectly, but
+of speculative license to political and moral [[Sanity|sanity]]. Indirectly, but
 surely, goodness, virtue, law, (of the very best,) follow [[concepts/freedom|freedom]].
 These, to [[concepts/democracy|democracy]], are what the keel is to the [[motifs/ship|ship]], or saltness to
 the ocean.
@@ -10746,7 +10747,7 @@ with all its threatening evils, supplies a training-school for making
 first-class men. It is life's gymnasium, not of good only, but of
 all. We try often, though we fall back often. A brave delight, fit for
 [[concepts/freedom|freedom]]'s athletes, fills these arenas, and fully satisfies, out of the
-action in them, irrespective of success. Whatever we do not attain, we
+action in them, irrespective of [[success]]. Whatever we do not attain, we
 at any rate attain the experiences of the fight, the hardening of the
 strong campaign, and throb with currents of attempt at least. [[motifs/time|Time]] is
 ample. Let the victors come after us. Not for nothing does evil play
@@ -10783,7 +10784,7 @@ in by corrupt rings and electioneering, not capacity or [[motifs/desert|desert]]
 noticed how the millions of sturdy farmers and mechanics are thus the
 helpless supple-jacks of comparatively few politicians. And I have
 noticed more and more, the alarming spectacle of parties usurping the
-government, and openly and shamelessly wielding it for party purposes."
+[[government]], and openly and shamelessly wielding it for party purposes."
 
 
 
@@ -10847,7 +10848,7 @@ unexpress'd.
 
 Dominion strong is the [[concepts/body|body]]'s; dominion stronger is the mind's. What
 has fill'd, and fills to-day our intellect, our fancy, furnishing the
-standards therein, is yet foreign. The great poems, Shakspere included,
+standards therein, is yet foreign. The great [[Poems|poems]], Shakspere included,
 are poisonous to the idea of the [[concepts/pride|pride]] and dignity of the common people,
 the life-[[motifs/blood|blood]] of [[concepts/democracy|democracy]]. The models of our literature, as we get
 it from other lands, ultra-marine, have had their birth in courts, and
@@ -10913,7 +10914,7 @@ grand scale, resides altogether in the future. As, under any profound
 and comprehensive view of the gorgeous-composite feudal world, we see
 in it, through the long ages and cycles of ages, the results of a deep,
 integral, human and divine principle, or fountain, from which issued
-laws, ecclesia, manners, institutes, costumes, personalities, poems,
+laws, ecclesia, manners, institutes, costumes, personalities, [[Poems|poems]],
 (hitherto unequall'd,) faithfully partaking of their source, and
 indeed only arising either to betoken it, or to furnish parts of that
 varied-flowing display, whose centre was one and absolute--so, long
@@ -10928,7 +10929,7 @@ heights--has had, (it is possible,) monastics and ascetics, more
 numerous, more devout than the [[characters/monks|monks]] and priests of all previous
 creeds--has sway'd the ages with a breadth and rectitude tallying
 [[concepts/nature|Nature]]'s own--has fashion'd, systematized, and triumphantly finish'd and
-carried out, in its own interest, and with unparallel'd success, a new
+carried out, in its own interest, and with unparallel'd [[success]], a new
 earth and a new man.
 
 Thus we presume to write, as it were, upon things that exist not, and
@@ -10977,10 +10978,10 @@ machinery of aggregate [[settings/america|America]].
 And, if we think of it, what does civilization itself rest upon--and
 what object has it, with its religions, arts, schools, &c., but rich,
 luxuriant, varied personalism? To that, all bends; and it is because
-toward such result [[concepts/democracy|democracy]] alone, on anything like [[concepts/nature|Nature]]'s scale,
+toward such result [[concepts/democracy|democracy]] [[Alone|alone]], on anything like [[concepts/nature|Nature]]'s scale,
 breaks up the limitless fallows of humankind, and plants the seed, and
 gives fair play, that its claims now precede the rest. The literature,
-songs, esthetics, &c., of a country are of importance principally
+[[songs]], esthetics, &c., of a country are of importance principally
 because they furnish the materials and suggestions of personality
 for the women and men of that country, and enforce them in a thousand
 effective ways.[27] As the topmost claim of a strong consolidating
@@ -11034,7 +11035,7 @@ only entrance to all facts. In such devout hours, in the midst of the
 significant wonders of heaven and earth, (significant only because of
 the Me in the centre,) creeds, conventions, fall away and become of no
 account before this simple idea. Under the luminousness of real vision,
-it alone takes possession, takes value. Like the shadowy [[characters/dwarf|dwarf]] in the
+it [[Alone|alone]] takes possession, takes value. Like the shadowy [[characters/dwarf|dwarf]] in the
 [[forms/fable|fable]], 'once liberated and look'd upon, it expands over the whole earth,
 and spreads to the roof of heaven.
 
@@ -11109,7 +11110,7 @@ conclusive reply?
 I do not so much object to the name, or word, but I should certainly
 insist, for the purposes of these States, on a radical change of
 category, in the distribution of precedence. I should demand a programme
-of culture, drawn out, not for a single class alone, or for the parlors
+of culture, drawn out, not for a single class [[Alone|alone]], or for the parlors
 or lecture-rooms, but with an eye to practical life, the west, the
 working-men, the facts of farms and jack-planes and engineers, and of
 the broad range of the women also of the middle and working strata,
@@ -11133,7 +11134,7 @@ under permanent law and order, and after preserving cohesion,
 (ensemble-individuality,) at all hazards, to vitalize man's free play of
 special Personalism, recognizing in it something that calls ever more
 to be consider'd, fed, and adopted as the substratum for the best
-that belongs to us, (government indeed is for it,) including the new
+that belongs to us, ([[government]] indeed is for it,) including the new
 esthetics of our future.
 
 To formulate beyond this present vagueness--to help line and put
@@ -11160,7 +11161,7 @@ the best [[motifs/blood|blood]], somewhat flush'd, breast expanded, an erect att
 a voice whose sound outvies music, eyes of calm and steady gaze, yet
 capable also of flashing--and a general presence that holds its own
 in the company of the highest. (For it is native personality, and that
-alone, that endows a man to stand before presidents or generals, or in
+[[Alone|alone]], that endows a man to stand before presidents or generals, or in
 any distinguish'd collection, with _aplomb_--and _not_ culture, or any
 knowledge or intellect whatever.) With regard to the mental-educational
 part of our model, enlargement of intellect, stores of cephalic
@@ -11218,7 +11219,7 @@ Only here, communion with the mysteries, the eternal problems, whence?
 whither? [[works/alone-(poe)|Alone]], and [[concepts/identity|identity]], and the mood--and the [[motifs/soul|soul]] emerges, and
 all statements, churches, sermons, melt away like vapors. [[works/alone-(poe)|Alone]],
 and silent thought and awe, and [[concepts/aspiration|aspiration]]--and then the interior
-consciousness, like a hitherto unseen [[forms/inscription|inscription]], in magic ink, beams
+consciousness, like a hitherto unseen [[forms/inscription|inscription]], in [[Magic|magic]] ink, beams
 out its wondrous lines to the sense. Bibles may convey, and priests
 expound, but it is exclusively for the noiseless operation of one's
 isolated [[concepts/self|Self]], to enter the pure ether of veneration, reach the divine
@@ -11263,7 +11264,7 @@ I have seen a young American woman, one of a large family of daughters,
 who, some years since, migrated from her meagre country [[motifs/home|home]] to one of
 the northern cities, to gain her own support. She soon became an expert
 seamstress, but finding the employment too confining for health and
-comfort, she went boldly to work for others, to house-keep, cook, clean,
+comfort, she went boldly to work for others, to [[house]]-keep, cook, clean,
 &c. After trying several places, she fell upon one where she was suited.
 She has told me that she finds nothing degrading in her position; it is
 not inconsistent with personal dignity, [[concepts/self|self]]-respect, and the respect of
@@ -11289,7 +11290,7 @@ merely passable English [[concepts/education|education]], but of fine wit, with 
 sex's grace and intuitions, who exhibits, indeed, such a noble female
 personality, that I am fain to record it here. Never abnegating her own
 proper independence, but always genially preserving it, and what
-belongs to it--cooking, washing, [[archetypes/child|child]]-nursing, house-tending--she
+belongs to it--cooking, washing, [[archetypes/child|child]]-nursing, [[house]]-tending--she
 beams sunshine out of all these duties, and makes them illustrious.
 Physiologically sweet and sound, loving work, practical, she yet knows
 that there are intervals, however few, devoted to recreation, music,
@@ -11320,7 +11321,7 @@ breath, and peculiar personal magnetism.
 
 The foregoing portraits, I admit, are frightfully out of line from these
 imported models of womanly personality--the stock feminine characters of
-the current novelists, or of the foreign [[settings/court|court]] poems, (Ophelias, Enids,
+the current novelists, or of the foreign [[settings/court|court]] [[Poems|poems]], (Ophelias, Enids,
 princesses, or ladies of one thing or another,) which fill the envying
 [[motifs/dreams|dreams]] of so many poor girls, and are accepted by our men, too, as
 supreme ideals of feminine excellence to be sought after. But I present
@@ -11355,7 +11356,7 @@ personality, develop'd, exercised proportionately in [[concepts/body|body]], min
 and spirit. I can imagine this case as one not necessarily rare or
 difficult, but in buoyant accordance with the municipal and general
 requirements of our times. And I can realize in it the culmination
-of something better than any stereotyped _eclat_ of [[concepts/history|history]] or poems.
+of something better than any stereotyped _eclat_ of [[concepts/history|history]] or [[Poems|poems]].
 Perhaps, unsung, undramatized, unput in essays or biographies--perhaps
 even some such community already exists, in Ohio, Illinois, Missouri, or
 somewhere, practically fulfilling itself, and thus outvying, in cheapest
@@ -11408,8 +11409,8 @@ on these topics, but others quite unwritten. Indeed, we could talk the
 matter, and expand it, through lifetime. But it is necessary to return
 to our original premises. In view of them, we have again pointedly
 to confess that all the objective grandeurs of the world, for highest
-purposes, yield themselves up, and depend on mentality alone. Here, and
-here only, all balances, all rests. For the mind, which alone builds
+purposes, yield themselves up, and depend on mentality [[Alone|alone]]. Here, and
+here only, all balances, all rests. For the mind, which [[Alone|alone]] builds
 the permanent edifice, haughtily builds it to itself. By it, with
 what follows it, are convey'd to mortal sense the culminations of
 the materialistic, the known, and a prophecy of the unknown. To
@@ -11419,7 +11420,7 @@ to achieve spiritual meanings, and suggest the future--these, and these
 only, satisfy the [[motifs/soul|soul]]. We must not say one word against real materials;
 but the wise know that they do not become real till touched by emotions,
 the mind. Did we call the latter imponderable? Ah, let us rather
-proclaim that the slightest song-tune, the countless ephemera of
+proclaim that the slightest [[Song|song]]-tune, the countless ephemera of
 passions arous'd by orators and tale-tellers, are more dense, more
 weighty than the engines there in the great factories, or the granite
 blocks in their foundations.
@@ -11511,7 +11512,7 @@ sent to the [[characters/bottom|bottom]].
 Gather'd by geniuses of [[motifs/city|city]], race or age, and put by them in highest
 of art's forms, namely, the literary form, the peculiar combinations
 and the outshows of that [[motifs/city|city]], age, or race, its particular modes of the
-universal attributes and passions, its faiths, heroes, lovers and gods,
+universal attributes and passions, its faiths, heroes, [[lovers]] and gods,
 wars, traditions, struggles, crimes, emotions, joys, (or the subtle
 spirit of these,) having been pass'd on to us to illumine our own
 selfhood, and its experiences--what they supply, indispensable and
@@ -11522,11 +11523,11 @@ For us, along the great highways of [[motifs/time|time]], those monuments stand-
 forms of majesty and [[concepts/beauty|beauty]]. For us those beacons burn through all the
 nights. Unknown Egyptians, graving hieroglyphs; Hindus, with [[forms/hymn|hymn]] and
 apothegm and endless [[forms/epic|epic]]; Hebrew [[archetypes/prophet|prophet]], with spirituality, as in
-flashes of [[motifs/lightning|lightning]], [[concepts/conscience|conscience]] like red-hot iron, plaintive songs and
+flashes of [[motifs/lightning|lightning]], [[concepts/conscience|conscience]] like red-hot iron, plaintive [[songs]] and
 screams of vengeance for tyrannies and enslavement; [[characters/christ|Christ]], with bent
 head, brooding [[motifs/love|love]] and peace, like a dove; Greek, creating eternal
 shapes of physical and esthetic proportion; Roman, lord of [[forms/satire|satire]], the
-sword, and the codex;--of the figures, some far off and veil'd, others
+[[Sword|sword]], and the codex;--of the figures, some far off and veil'd, others
 nearer and visible; [[historical-references/dante|Dante]], stalking with lean form, nothing but fibre,
 not a grain of superfluous flesh; [[characters/angelo|Angelo]], and the great painters,
 architects, musicians; rich Shakspere, luxuriant as the sun, [[archetypes/artist|artist]] and
@@ -11578,7 +11579,7 @@ first-class work, not a single great literatus,) the main objects,
 to amuse, to titillate, to pass away [[motifs/time|time]], to circulate the news, and
 rumors of news, to rhyme and read rhyme, are yet attain'd, and on
 a scale of infinity. To-day, in books, in the rivalry of writers,
-especially novelists, success, (so-call'd,) is for him or her who
+especially novelists, [[success]], (so-call'd,) is for him or her who
 strikes the mean flat average, the sensational appetite for stimulus,
 incident, persiflage, &c., and depicts, to the common calibre, sensual,
 exterior life. To such, or the luckiest of them, as we see, the
@@ -11598,11 +11599,11 @@ the _thing_, I should say, has not advanced--is just as sensational,
 just as strain'd--remains about the same, nor more, nor less.
 
 What is the reason our [[motifs/time|time]], our lands, that we see no fresh local
-[[concepts/courage|courage]], sanity, of our own--the Mississippi, stalwart Western men,
+[[concepts/courage|courage]], [[Sanity|sanity]], of our own--the Mississippi, stalwart Western men,
 real mental and physical facts, Southerners, &c., in the [[concepts/body|body]] of our
 literature? especially the poetic part of it. But always, instead, a
 parcel of dandies and ennuyees, dapper little gentlemen from abroad, who
-flood us with their thin sentiment of parlors, parasols, piano-songs,
+flood us with their thin sentiment of parlors, parasols, piano-[[songs]],
 tinkling rhymes, the five-hundredth importation--or whimpering and
 crying about something, chasing one aborted conceit after another,
 and forever occupied in dyspeptic amours with dyspeptic women. While,
@@ -11665,7 +11666,7 @@ these States, [[concepts/self|self]]-contain'd, different from others, more expa
 more rich and free, to be evidenced by original authors and poets
 to come, by American personalities, plenty of them, male and female,
 traversing the States, none excepted--and by native superber
-tableaux and growths of language, songs, operas, orations, lectures,
+tableaux and growths of language, [[songs]], operas, orations, lectures,
 architecture--and by a [[concepts/sublime|sublime]] and serious Religious [[concepts/democracy|Democracy]] sternly
 taking command, dissolving the old, sloughing off surfaces, and from
 its own interior and vital principles, reconstructing, democratizing
@@ -11681,7 +11682,7 @@ For [[settings/america|America]], type of progress, and of essential [[concepts/
 all his errors and wickedness--few suspect how deep, how deep it really
 strikes. The world evidently supposes, and we have evidently supposed
 so too, that the States are merely to achieve the equal franchise, an
-elective government--to inaugurate the respectability of labor, and
+elective [[government]]--to inaugurate the respectability of labor, and
 become a nation of practical operatives, law-abiding, orderly and [[motifs/well|well]]
 off. Yes, those are indeed parts of the task of [[settings/america|America]]; but they
 not only do not exhaust the progressive conception, but rather arise,
@@ -11706,7 +11707,7 @@ the dead. We see [[settings/london|London]], [[settings/paris|Paris]], [[setting
 they belong--but second-hand here, where they do not belong. We see the
 shreds of Hebrews, Romans, Greeks; but where, on her own soil, do we
 see, in any faithful, highest, proud expression, [[settings/america|America]] herself? I
-sometimes question whether she has a corner in her own house.
+sometimes question whether she has a corner in her own [[house]].
 
 Not but that in one sense, and a very grand one, good theology, good
 art, or good literature, has certain features shared in common. The
@@ -11738,7 +11739,7 @@ chief ends of existence to be to feverishly make money during one-half
 of it, and by some "amusement," or perhaps foreign travel, flippantly
 kill [[motifs/time|time]], the other half,) and consider'd with reference to purposes
 of patriotism, health, a noble personality, religion, and the democratic
-adjustments, all these swarms of poems, literary magazines, dramatic
+adjustments, all these swarms of [[Poems|poems]], literary magazines, dramatic
 plays, resultant so far from American intellect, and the formation of
 our best ideas, are useless and a mockery. They strengthen and nourish
 no one, express nothing characteristic, give decision and purpose to no
@@ -11762,9 +11763,9 @@ models of the past, and, while courteous to them, must have entire [[concepts/fa
 in itself, and the products of its own democratic spirit only. Like her,
 it must place in the van, and hold up at all hazards, the banner of
 the divine [[concepts/pride|pride]] of man in himself, (the radical foundation of the new
-religion.) Long enough have the People been listening to poems in which
+religion.) Long enough have the People been listening to [[Poems|poems]] in which
 common humanity, deferential, bends low, humiliated, acknowledging
-superiors. But [[settings/america|America]] listens to no such poems. Erect, inflated, and
+superiors. But [[settings/america|America]] listens to no such [[Poems|poems]]. Erect, inflated, and
 fully [[concepts/self|self]]-esteeming be the chant; and then [[settings/america|America]] will listen with
 pleased ears.
 
@@ -11780,7 +11781,7 @@ the coteries, the art-writers, the talkers and critics of the saloons,
 or the lecturers in the colleges--lies sleeping, aside, unrecking
 itself, in some western idiom, or native Michigan or Tennessee repartee,
 or stumpspeech--or in Kentucky or Georgia, or the Carolinas--or in some
-slang or local song or allusion of the [[settings/manhattan|Manhattan]], Boston, Philadelphia
+slang or local [[Song|song]] or allusion of the [[settings/manhattan|Manhattan]], Boston, Philadelphia
 or Baltimore mechanic--or up in the Maine woods--or off in the hut of
 the California miner, or crossing the Rocky [[settings/mountains|mountains]], or along
 the Pacific railroad--or on the breasts of the young farmers of
@@ -11824,7 +11825,7 @@ original non-subordinated [[motifs/soul|SOUL]] has ever really, gloriously led, 
 can lead. (This [[motifs/soul|Soul]]--its other name, in these Vistas, is LITERATURE.)
 
 In fond fancy leaping those hundred years ahead, let us survey [[settings/america|America]]'s
-works, poems, philosophies, fulfilling prophecies, and giving form and
+works, [[Poems|poems]], philosophies, fulfilling prophecies, and giving form and
 decision to best ideals. Much that is now undream'd of, we might then
 perhaps see establish'd, luxuriantly cropping forth, richness, vigor of
 letters and of artistic expression, in whose products character will be
@@ -11908,7 +11909,7 @@ the point that a new Literature, perhaps a new Metaphysics, certainly a
 new Poetry, are to be, in my opinion, the only sure and worthy supports
 and expressions of the American [[concepts/democracy|Democracy]],) [[concepts/nature|Nature]], true [[concepts/nature|Nature]], and
 the true idea of [[concepts/nature|Nature]], long absent, must, above all, become fully
-restored, enlarged, and must furnish the pervading atmosphere to poems,
+restored, enlarged, and must furnish the pervading atmosphere to [[Poems|poems]],
 and the test of all high literary and esthetic compositions. I do not
 mean the smooth walks, trimm'd hedges, poseys and nightingales of the
 English poets, but the whole orb, with its geologic [[concepts/history|history]], the kosmos,
@@ -11934,7 +11935,7 @@ of the known, and of reality, and at least as great as their parents.
 Fearless of scoffing, and of the ostent, let us take our stand,
 our ground, and never [[motifs/desert|desert]] it, to confront the growing excess and
 arrogance of realism. To the cry, now victorious--the cry of sense,
-science, flesh, incomes, farms, merchandise, logic, intellect,
+science, flesh, incomes, farms, merchandise, [[logic]], intellect,
 demonstrations, solid perpetuities, buildings of brick and iron, or
 even the facts of the shows of trees, earth, rocks, &c., [[concepts/fear|fear]] not, my
 brethren, my sisters, to sound out with equally determin'd voice,
@@ -11976,12 +11977,12 @@ beautiful in living men and women, the actual play of passions, in
 [[concepts/history|history]] and life--and, above all, from those developments either in
 [[concepts/nature|Nature]] or human personality in which power, (dearest of all to the sense
 of the [[archetypes/artist|artist]],) transacts itself-out of these, and seizing what is in
-them, the poet, the esthetic worker in any field, by the divine magic
+them, the poet, the esthetic worker in any field, by the divine [[Magic|magic]]
 of his genius, projects them, their analogies, by curious removes,
 indirections, in literature and art. (No useless attempt to repeat
 the material creation, by daguerreotyping the exact likeness by mortal
 mental means.) This is the image-making faculty, coping with material
-creation, and rivaling, almost triumphing over it. This alone, when
+creation, and rivaling, almost triumphing over it. This [[Alone|alone]], when
 all the other parts of a specimen of literature or art are ready and
 waiting, can breathe into it the breath of life, and endow it with
 [[concepts/identity|identity]].
@@ -12032,8 +12033,8 @@ real beginning--and that nothing ever is or can be lost, nor ever die,
 nor [[motifs/soul|soul]], nor matter.
 
 In the future of these States must arise poets immenser far, and make
-great poems of [[motifs/death|death]]. The poems of life are great, but there must be the
-poems of the purports of life, not only in itself, but beyond itself.
+great [[Poems|poems]] of [[motifs/death|death]]. The [[Poems|poems]] of life are great, but there must be the
+[[Poems|poems]] of the purports of life, not only in itself, but beyond itself.
 I have eulogized Homer, the sacred bards of Jewry, Eschylus, Juvenal,
 Shakspere, &c., and acknowledged their inestimable value. But,
 (with perhaps the exception, in some, not all respects, of the
@@ -12126,7 +12127,7 @@ terrible balks and ebullitions. You said in your [[motifs/soul|soul]], I will be
 of empires, overshadowing all else, past and present, putting
 the [[concepts/history|history]] of Old-World dynasties, conquests behind me, as of no
 account--making a new [[concepts/history|history]], a [[concepts/history|history]] of [[concepts/democracy|democracy]], making old
-[[concepts/history|history]] a [[characters/dwarf|dwarf]]--I alone inaugurating largeness, culminating [[motifs/time|time]]. If
+[[concepts/history|history]] a [[characters/dwarf|dwarf]]--I [[Alone|alone]] inaugurating largeness, culminating [[motifs/time|time]]. If
 these, O lands of [[settings/america|America]], are indeed the prizes, the determinations of
 your [[motifs/soul|soul]], be it so. But behold the cost, and already specimens of the
 cost. Thought you [[concepts/greatness|greatness]] was to ripen for you like a pear? If you
@@ -12165,7 +12166,7 @@ superstructures, are all founded upon it. It really seems to me the
 condition, not only of our future national and democratic development,
 but of our perpetuation. In the highly artificial and materialistic
 bases of modern civilization, with the corresponding arrangements and
-methods of living, the force-infusion of intellect alone, the depraving
+methods of living, the force-infusion of intellect [[Alone|alone]], the depraving
 influences of riches just as much as [[concepts/poverty|poverty]], the absence of all high
 ideals in character--with the long series of tendencies, shapings, which
 few are strong enough to resist, and which now seem, with steam-engine
@@ -12195,7 +12196,7 @@ overhead, cares mostly for impetus and effects, and for what it plants
 and invigorates to grow--tallies life and character, and seldomer tells
 a thing than suggests or necessitates it. In fact, a new theory of
 literary composition for imaginative works of the very first class, and
-especially for highest poems, is the sole course open to these States.
+especially for highest [[Poems|poems]], is the sole course open to these States.
 Books are to be call'd for, and supplied, on the assumption that the
 process of reading is not a half-[[motifs/sleep|sleep]], but, in highest sense, an
 exercise, a gymnast's struggle; that the reader is to do something for
@@ -12288,28 +12289,28 @@ LATER--_London "Times," (Weekly,) June 23, '82_.
 sets at naught the [[motifs/grave|grave]] drawbacks of a mischievous protective tariff,
 and has already obliterated, almost wholly, the traces of the greatest
 of modern civil wars. What is especially remarkable in the present
-development of American energy and success is its wide and equable
+development of American energy and [[success]] is its wide and equable
 distribution. North and south, east and west, on the shores of the
 Atlantic and the Pacific, along the chain of the great lakes, in the
 valley of the Mississippi, and on the coasts of the gulf of Mexico,
 the creation of wealth and the increase of population are signally
 exhibited. It is quite true, as has been shown by the recent
-apportionment of population in the House of Representatives, that some
+apportionment of population in the [[house|House]] of Representatives, that some
 sections of the [[concepts/union|Union]] have advanced, relatively to the rest, in an
 extraordinary and unexpected degree. But this does not imply that the
 States which have gain'd no additional representatives or have actually
 lost some have been stationary or have receded. The fact is that the
 present tide of prosperity has risen so high that it has overflow' d all
 barriers, and has fill'd up the back-waters, and establish'd something
-like an approach to uniform success."
+like an approach to uniform [[success]]."
 
 [21] See, for hereditaments, specimens, Walter Scott's Border
 Minstrelsy, Percy's collection, Ellis's early English Metrical
-Romances, the European continental poems of Walter of Aquitania, and the
+Romances, the European continental [[Poems|poems]] of Walter of Aquitania, and the
 Nibelungen, of pagan stock, but monkish-feudal redaction; the [[concepts/history|history]] of
 the Troubadours, by Fauriel; even the far-back cumbrous old Hindu epics,
 as indicating the Asian eggs out of which European chivalry was hatch'd;
-Ticknor's chapters on the Cid, and on the Spanish poems and poets of
+Ticknor's chapters on the Cid, and on the Spanish [[Poems|poems]] and poets of
 Calderon's [[motifs/time|time]]. Then always, and, of course, as the superbest poetic
 culmination-expression of feudalism, the Shaksperean dramas, in
 the attitudes, dialogue, characters, &c., of the princes, lords and
@@ -12430,7 +12431,7 @@ of that fervid [[concepts/comradeship|comradeship]], (the adhesive [[motifs/love
 amative [[motifs/love|love]] hitherto possessing imaginative literature, if not going
 beyond it,) that I look for the counterbalance and offset of
 our materialistic and vulgar American [[concepts/democracy|democracy]], and for the
-spiritualization thereof. Many will say it is a dream, and will not
+spiritualization thereof. Many will say it is [[A Dream|a dream]], and will not
 follow my inferences: but I confidently expect a [[motifs/time|time]] when there will
 be seen, running like a half-hid warp through all the myriad audible and
 visible worldly interests of [[settings/america|America]], threads of manly [[concepts/friendship|friendship]], fond
@@ -12479,7 +12480,7 @@ Indian Vedas, the Na�kas of Zoroaster, the Tal mud of the Jews, the Old
 Testament, the Gospel of [[characters/christ|Christ]] and his disciples, Plato's works, the
 Koran of Mohammed, the Edda of Snorro, and so on toward our own day, to
 Swedenborg, and to the invaluable contributions of Leibnitz, Kant and
-Hegel--these, with such poems only in which, (while singing [[motifs/well|well]]
+Hegel--these, with such [[Poems|poems]] only in which, (while singing [[motifs/well|well]]
 of persons and events, of the passions of man, and the shows of the
 material universe,) the religious tone, the consciousness of mystery,
 the recognition of the future, of the unknown, of Deity over and under
@@ -12562,7 +12563,7 @@ conventions, from 1840 to '60, exhibited a spectacle such as could
 never be seen except in our own age and in these States. The members who
 composed it were, seven-eighths of them, the meanest kind of bawling and
 blowing office-holders, office-seekers, pimps, malignants, conspirators,
-murderers, fancy-men, custom-house clerks, contractors, kept-editors,
+murderers, fancy-men, custom-[[house]] clerks, contractors, kept-editors,
 spaniels [[motifs/well|well]]-train'd to carry and fetch, jobbers, infidels,
 disunionists, terrorists, mail-riflers, slave-catchers, pushers of
 [[concepts/slavery|slavery]], creatures of the President, creatures of would-be Presidents,
@@ -12573,8 +12574,8 @@ disease, gaudy outside with gold [[motifs/chains|chains]] made from the people's
 and harlots' money twisted together; crawling, serpentine men, the lousy
 combings and born [[concepts/freedom|freedom]]-sellers of the earth. And whence came they?
 From back-yards and bar-rooms; from out of the custom-houses, marshals'
-offices, post-offices, and gambling-hells; from the President's house,
-the jail, the station-house; from unnamed by-places, where devilish
+offices, post-offices, and gambling-hells; from the President's [[house]],
+the jail, the station-[[house]]; from unnamed by-places, where devilish
 disunion was hatch'd at midnight; from political hearses, and from the
 coffins inside, and from the shrouds inside of the coffins; from the
 tumors and abscesses of the land; from the skeletons and skulls in the
@@ -12604,7 +12605,7 @@ especially the administrations of Fillmore and Buchanan, as so far our
 topmost warning and shame. Never were publicly display'd more deform'd,
 mediocre, snivelling, unreliable, false-hearted men. Never were these
 States so insulted, and attempted to be betray'd. All the main purposes
-for which the government was establish'd were openly denied. The
+for which the [[government]] was establish'd were openly denied. The
 perfect equality of [[concepts/slavery|slavery]] with [[concepts/freedom|freedom]] was flauntingly preach'd in the
 north--nay, the superiority of [[concepts/slavery|slavery]]. The slave trade was proposed
 to be renew'd. Everywhere frowns and misunderstandings--everywhere
@@ -12677,7 +12678,7 @@ of the dead and wounded can be told or approximated, the debt posted and
 put on record, the material events narrated, &c. Meantime, elections go
 on, laws are pass'd, political parties struggle, issue their platforms,
 &c., just the same as before. But immensest results, not only in
-politics, but in literature, poems, and sociology, are doubtless waiting
+politics, but in literature, [[Poems|poems]], and sociology, are doubtless waiting
 yet unform'd in the future. How long they will wait I cannot tell.
 The pageant of [[concepts/history|history]]'s retrospect shows us, ages since, all Europe
 marching on the [[historical-references/crusades|crusades]], those arm'd uprisings of the people, stirr'd
@@ -12719,14 +12720,14 @@ It is certain to me that the United States, by virtue of that war and
 its results, and through that and them only, are now ready to enter, and
 must certainly enter, upon their genuine career in [[concepts/history|history]], as no more
 torn and divided in their spinal requisites, but a great homogeneous
-Nation--free States all--a moral and political unity in variety, such
+Nation--free States all--a moral and political [[unity]] in variety, such
 as [[concepts/nature|Nature]] shows in her grandest physical works, and as much greater than
 any mere work of [[concepts/nature|Nature]], as the moral and political, the work of man,
 his mind, his [[motifs/soul|soul]], are, in their loftiest sense, greater than the
 merely physical. Out of that war not only has the nationality of the
 States escaped from being strangled, but more than any of the rest, and,
 in my opinion, more than the north itself, the vital heart and breath of
-the south have escaped as from the pressure of a general nightmare,
+the south have escaped as from the pressure of a general [[nightmare]],
 and are henceforth to enter on a life, development, and active [[concepts/freedom|freedom]],
 whose realities are certain in the future, notwithstanding all the
 southern vexations of the hour--a development which could not possibly
@@ -12744,7 +12745,7 @@ religions--accepts the lesson with calmness--is not impatient because
 the slough still sticks to opinions and manners in literature, while the
 life which served its requirements has passed into the new life of the
 new forms--perceives that the corpse is slowly borne from the eating and
-sleeping rooms of the house--perceives that it waits a little while
+sleeping rooms of the [[house]]--perceives that it waits a little while
 in the door--that it was fittest for its days--that its action has
 descended to the stalwart and [[motifs/well|well]]-shaped heir who approaches--and that
 he shall be fittest for his days.
@@ -12858,11 +12859,11 @@ in [[concepts/melancholy|melancholy]] complaints or good precepts, but is the li
 and much else, and is in the [[motifs/soul|soul]]. The profit of rhyme is that it drops
 seeds of a sweeter and more luxuriant rhyme, and of uniformity that it
 conveys itself into its own roots in the ground out of sight. The rhyme
-and uniformity of perfect poems show the free growth of metrical laws,
+and uniformity of perfect [[Poems|poems]] show the free growth of metrical laws,
 and bud from them as unerringly and loosely as lilacs and roses on a
 bush, and take shapes as compact as the shapes of chestnuts and oranges,
 and melons and pears, and shed the perfume impalpable to form. The
-fluency and ornaments of the finest poems or music or orations or
+fluency and ornaments of the finest [[Poems|poems]] or music or orations or
 recitations, are not independent but dependent. All [[concepts/beauty|beauty]] comes
 from beautiful [[motifs/blood|blood]] and a beautiful brain. If the greatnesses are
 in conjunction in a man or woman, it is enough--the fact will prevail
@@ -12920,7 +12921,7 @@ without it--nor any direction of the sky, nor any trade or employment,
 nor any turn of events. This is the reason that about the proper
 expression of [[concepts/beauty|beauty]] there is precision and balance. One part does not
 need to be thrust above another. The best singer is not the one who has
-the most lithe and powerful organ. The pleasure of poems is not in them
+the most lithe and powerful organ. The pleasure of [[Poems|poems]] is not in them
 that take the handsomest measure and sound.
 
 Without effort, and without exposing in the least how it is done, the
@@ -12981,14 +12982,14 @@ by their unconstraint. A heroic person walks at his ease through and
 out of that custom or precedent or authority that suits him not. Of the
 traits of the brotherhood of first-class writers, savans, musicians,
 inventors and artists, nothing is finer than silent defiance advancing
-from new free forms. In the need of poems, philosophy, politics,
+from new free forms. In the need of [[Poems|poems]], [[philosophy]], politics,
 mechanism, science, behavior, the craft of art, an appropriate native
 grand opera, shipcraft, or any craft, he is greatest for ever and ever
 who contributes the greatest original practical example. The cleanest
 expression is that which finds no sphere worthy of itself, and makes
 one.
 
-The messages of great poems to each man and woman are, Come to us on
+The messages of great [[Poems|poems]] to each man and woman are, Come to us on
 equal terms, only then can you understand us. We are no better than
 you, what we inclose you inclose, what we enjoy you may enjoy. Did
 you suppose there could be only one Supreme? We affirm there can be
@@ -13035,15 +13036,15 @@ them and by them stand the visible proofs of souls. If there shall be
 [[motifs/love|love]] and content between the father and the son, and if the [[concepts/greatness|greatness]]
 of the son is the exuding of the [[concepts/greatness|greatness]] of the father, there shall be
 [[motifs/love|love]] between the poet and the man of demonstrable science. In the [[concepts/beauty|beauty]]
-of poems are henceforth the tuft and final applause of science.
+of [[Poems|poems]] are henceforth the tuft and final applause of science.
 
 Great is the [[concepts/faith|faith]] of the flush of knowledge, and of the investigation
 of the depths of qualities and things. Cleaving and circling here swells
 the [[motifs/soul|soul]] of the poet, yet is president of itself always. The depths
-are fathomless, and therefore calm. The innocence and [[motifs/nakedness|nakedness]] are
+are fathomless, and therefore calm. The [[innocence]] and [[motifs/nakedness|nakedness]] are
 resumed--they are neither modest nor immodest. The whole theory of
 the [[motifs/supernatural|supernatural]], and all that was twined with it or educed out of it,
-departs as a dream. What has ever happen'd--what happens, and whatever
+departs as [[A Dream|a dream]]. What has ever happen'd--what happens, and whatever
 may or shall happen, the vital laws inclose all. They are sufficient for
 any case and for all cases--none to be hurried or retarded--any special
 miracle of affairs or persons inadmissible in the vast clear scheme
@@ -13056,16 +13057,16 @@ is anything in the known universe more divine than men and women.
 Men and women, and the earth and all upon it, are to be taken as they
 are, and the investigation of their past and present and future shall
 be unintermitted, and shall be done with perfect candor. Upon this basis
-philosophy speculates, ever looking towards the poet, ever regarding the
+[[philosophy]] speculates, ever looking towards the poet, ever regarding the
 eternal tendencies of all toward happiness, never inconsistent with what
 is clear to the senses and to the [[motifs/soul|soul]]. For the eternal tendencies of
-all toward happiness make the only point of sane philosophy. Whatever
+all toward happiness make the only point of sane [[philosophy]]. Whatever
 comprehends less than that--whatever is less than the laws of light and
 of astronomical motion--or less than the laws that follow the thief,
 the liar, the glutton and the drunkard, through this life and doubtless
 afterward--or less than vast stretches of [[motifs/time|time]], or the slow formation of
 density, or the patient upheaving of strata--is of no account. Whatever
-would put God in a poem or system of philosophy as contending against
+would put God in a poem or system of [[philosophy]] as contending against
 some being or influence, is also of no account. [[works/sanity-(chesterton)|Sanity]] and ensemble
 characterize the great master--spoilt in one principle, all is spoilt.
 The great master has nothing to do with miracles. He sees health
@@ -13087,14 +13088,14 @@ degrade it.
 
 As the attributes of the poets of the kosmos concentre in the real
 [[concepts/body|body]], and in the pleasure of things, they possess the superiority of
-genuineness over all fiction and romance. As they emit themselves, facts
+genuineness over all fiction and [[Romance|romance]]. As they emit themselves, facts
 are shower'd over with light--the daylight is lit with more volatile
 light--the deep between the setting and rising sun goes deeper many
 fold. Each precise object or condition or combination or process
 exhibits a [[concepts/beauty|beauty]]--the multiplication table its--old age its--the
 carpenter's trade its--the grand opera its--the huge-hull'd clean-shap'd
 [[settings/new-york|New York]] clipper at sea under steam or full sail gleams with unmatch'd
-[[concepts/beauty|beauty]]--the American circles and large harmonies of government gleam
+[[concepts/beauty|beauty]]--the American circles and large harmonies of [[government]] gleam
 with theirs--and the commonest definite intentions and actions with
 theirs. The poets of the kosmos advance through all interpositions and
 coverings and turmoils and stratagems to first principles. They are of
@@ -13102,7 +13103,7 @@ use--they dissolve [[concepts/poverty|poverty]] from its need, and riches from i
 You large proprietor, they say, shall not realize or perceive more than
 any one else. The owner of the library is not he who holds a legal title
 to it, having bought and paid for it. Any one and every one is owner of
-the library, (indeed he or she alone is owner,) who can read the same
+the library, (indeed he or she [[Alone|alone]] is owner,) who can read the same
 through all the varieties of tongues and subjects and styles, and in
 whom they enter with ease, and make supple and powerful and rich and
 large.
@@ -13228,7 +13229,7 @@ be, and commits itself to the representation of this wave of an hour,
 and this one of the sixty beautiful children of the wave--let him merge
 in the general run, and wait his development.
 
-Still the final test of poems, or any character or work, remains. The
+Still the final test of [[Poems|poems]], or any character or work, remains. The
 prescient poet projects himself centuries ahead, and judges performer or
 performance after the changes of [[motifs/time|time]]. Does it live through them? Does
 it still hold on untired? Will the same style, and the direction of
@@ -13279,13 +13280,13 @@ No great literature, nor any like style of behavior or oratory, or
 social intercourse or household arrangements, or public institutions,
 or the treatment by bosses of employ'd people, nor executive detail,
 or detail of the army and navy, nor spirit of legislation or courts,
-or police or tuition or architecture, or songs or amusements, can long
+or police or tuition or architecture, or [[songs]] or amusements, can long
 elude the jealous and passionate instinct of American standards. Whether
 or no the sign appears from the mouths of the people, it throbs a live
 interrogation in every freeman's and freewoman's heart, after that which
 passes by, or this built to remain. Is it uniform with my country?
 Are its disposals without ignominious distinctions? Is it for the
-ever-growing communes of brothers and lovers, large, [[motifs/well|well]] united, proud,
+ever-growing communes of brothers and [[lovers]], large, [[motifs/well|well]] united, proud,
 beyond the old models, generous beyond all models? Is it something grown
 fresh out of the fields, or drawn from the sea for use to me to-day
 here? I know that what answers for me, an American, in Texas, Ohio,
@@ -13308,7 +13309,7 @@ PREFACE, 1872 To As a Strong Bird on Pinions Free Now Thou Mother with
 thy Equal Brood, _in permanent edition_.
 
 The impetus and ideas urging me, for some years past, to an utterance,
-or attempt at utterance, of New World songs, and an [[forms/epic|epic]] of [[concepts/democracy|Democracy]],
+or attempt at utterance, of New World [[songs]], and an [[forms/epic|epic]] of [[concepts/democracy|Democracy]],
 having already had their publish'd expression, as [[motifs/well|well]] as I can expect
 to give it, in "[[motifs/leaves|Leaves]] of Grass," the present and any future pieces from
 me are really but the surplusage forming after that volume, or the wake
@@ -13321,11 +13322,11 @@ obediently yielded myself up ever since to the impetus mention'd, and
 to the work of expressing those ideas, it may be that mere habit has got
 dominion of me, when there is no real need of saying anything further.
 But what is life but an experiment? and [[concepts/mortality|mortality]] but an exercise? with
-reference to results beyond. And so shall my poems be. If incomplete
+reference to results beyond. And so shall my [[Poems|poems]] be. If incomplete
 here, and superfluous there, _n' importe_--the earnest trial and
-persistent exploration shall at least be mine, and other success failing
-shall be success enough. I have been more anxious, anyhow, to suggest
-the songs of vital endeavor and manly evolution, and furnish something
+persistent exploration shall at least be mine, and other [[success]] failing
+shall be [[success]] enough. I have been more anxious, anyhow, to suggest
+the [[songs]] of vital endeavor and manly evolution, and furnish something
 for races of outdoor athletes, than to make perfect rhymes, or reign
 in the parlors. I ventur'd from the beginning my own way, taking
 chances--and would keep on venturing.
@@ -13404,7 +13405,7 @@ literatures, especially the poetic. I say a modern image-making creation
 is indispensable to fuse and express the modern political and scientific
 creations--and then the trinity will be complete.)
 
-When I commenced, years ago, elaborating the plan of my poems, and
+When I commenced, years ago, elaborating the plan of my [[Poems|poems]], and
 continued turning over that plan, and shifting it in my mind through
 many years, (from the age of twenty-eight to thirty-five,) experimenting
 much, and writing and abandoning much, one deep purpose underlay the
@@ -13450,7 +13451,7 @@ different from what they supposed. It is, indeed, too important to the
 power and perpetuity of the New World to be consign'd any longer to the
 churches, old or new, Catholic or Protestant--Saint this, or Saint
 that. It must be consign'd henceforth to [[concepts/democracy|democracy]] _en masse_, and to
-literature. It must enter into the poems of the nation. It must make the
+literature. It must enter into the [[Poems|poems]] of the nation. It must make the
 nation.
 
 
@@ -13463,7 +13464,7 @@ The Four Years' War is over--and in the peaceful, strong, exciting,
 fresh occasions of to-day, and of the future, that strange, sad war is
 hurrying even now to be forgotten. The camp, the drill, the lines of
 sentries, the prisons, the hospitals--(ah! the hospitals!)--all have
-passed away--all seem now like a dream. A new race, a young and lusty
+passed away--all seem now like [[A Dream|a dream]]. A new race, a young and lusty
 generation, already sweeps in with oceanic currents, obliterating the
 war, and all its scars, its mounded graves, and all its reminiscences of
 hatred, conflict, [[motifs/death|death]]. So let It be obliterated. I say the life of the
@@ -13477,7 +13478,7 @@ future, (of which their vulgar material and political present is but
 as the preparatory tuning of instruments by an orchestra,) these, as
 hitherto, are still, for me, among my hopes, ambitions.
 
-"[[motifs/leaves|Leaves]] of Grass," already publish'd, is, in its intentions, the song of
+"[[motifs/leaves|Leaves]] of Grass," already publish'd, is, in its intentions, the [[Song|song]] of
 a great composite _democratic individual_, male or female. And following
 on and amplifying the same purpose, I suppose I have in my mind to
 run through the chants of this volume, (if ever completed,) the
@@ -13564,13 +13565,13 @@ democratic career?
 <span class="atom-split" data-atom="story_46_hospital_perplexity--part_100" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 100)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/prophet,motif/crown,motif/leaves,motif/soul,motif/stars,motif/time,motif/wind,concept/democracy,concept/faith,concept/freedom,concept/identity,concept/imagination,concept/pride,concept/self,concept/union,histref/america,setting/america,setting/court"></span>
 
 
-Of the whole, poems and prose, (not attending at all to chronological
+Of the whole, [[Poems|poems]] and prose, (not attending at all to chronological
 order, and with original dates and passing allusions in the heat and
 impression of the hour, left shuffled in, and undisturb'd,) the chants
 of "[[motifs/leaves|Leaves]] of Grass," my former volume, yet serve as the indispensable
 deep soil, or basis, out of which, and out of which only, could come the
 roots and stems more definitely indicated by these later pages. (While
-that volume radiates physiology alone, the present one, though of the
+that volume radiates physiology [[Alone|alone]], the present one, though of the
 like origin in the main, more palpably doubtless shows the pathology
 which was pretty sure to come in [[motifs/time|time]] from the other.)
 
@@ -13586,7 +13587,7 @@ to express, above all artificial regulation and aid, the eternal bodily
 composite, cumulative, natural character of one's [[concepts/self|self]].[34]
 
 Estimating the American [[concepts/union|Union]] as so far, and for some [[motifs/time|time]] to come, in
-its yet formative condition, I bequeath poems and essays as nutriment
+its yet formative condition, I bequeath [[Poems|poems]] and essays as nutriment
 and influences to help truly assimilate and harden, and especially to
 furnish something toward what the States most need of all, and which
 seems to me yet quite unsupplied in literature, namely, to show them, or
@@ -13602,12 +13603,12 @@ morally and mentally knows--(though, curiously enough, it is at the same
 I count with such absolute certainty on the great future of the United
 States--different from, though founded on, the past--that I have always
 invoked that future, and surrounded myself with it, before or while
-singing my songs. (As ever, all tends to followings--[[settings/america|America]], too, is a
+singing my [[songs]]. (As ever, all tends to followings--[[settings/america|America]], too, is a
 prophecy. What, even of the best and most successful, would be justified
-by itself alone? by the present, or the material ostent alone? Of men or
+by itself [[Alone|alone]]? by the present, or the material ostent [[Alone|alone]]? Of men or
 States, few realize how much they live in the future. That, rising
 like pinnacles, gives its main significance to all You and I are doing
-to-day. Without it, there were little meaning in lands or poems--little
+to-day. Without it, there were little meaning in lands or [[Poems|poems]]--little
 purport in human lives. All ages, all Nations and States, have been such
 prophecies. But where any former ones with prophecy so broad, so clear,
 as our times, our lands--as those of the West?)
@@ -13615,12 +13616,12 @@ as our times, our lands--as those of the West?)
 Without being a scientist, I have thoroughly adopted the conclusions
 of the great savants and experimentalists of our [[motifs/time|time]], and of the last
 hundred years, and they have interiorly tinged the chyle of all my
-verse, for purposes beyond. Following the modern spirit, the real poems
+verse, for purposes beyond. Following the modern spirit, the real [[Poems|poems]]
 of the present, ever solidifying and expanding into the future, must
 vocalize the vastness and splendor and reality with which scientism has
 invested man and the universe, (all that is called creation) and
 must henceforth launch humanity into new orbits, consonant, with that
-vastness, splendor, and reality, (unknown to the old poems,) like new
+vastness, splendor, and reality, (unknown to the old [[Poems|poems]],) like new
 systems of orbs, balanced upon themselves, revolving in limitless space,
 more subtle than the [[motifs/stars|stars]]. Poetry, so largely hitherto and even at
 present wedded to children's tales, and to mere amorousness, upholstery
@@ -13628,7 +13629,7 @@ and superficial rhyme, will have to accept, and, while not denying the
 past, nor the themes of the past, will be revivified by this tremendous
 innovation, the kosmic spirit, which must henceforth, in my opinion,
 be the background and underlying impetus, more or less visible, of all
-first-class songs.
+first-class [[songs]].
 
 Only, (for me, at any rate, in all my prose and poetry,) joyfully
 accepting modern science, and loyally following it without the slightest
@@ -13648,7 +13649,7 @@ Shall mediate to the modern, to [[concepts/democracy|democracy]]--interpret yet 
 God and eid�lons.
 
 To me, the [[motifs/crown|crown]] of savantism is to be, that it surely opens the way for
-a more splendid theology, and for ampler and diviner songs. No year, nor
+a more splendid theology, and for ampler and diviner [[songs]]. No year, nor
 even century, will settle this. There is a phase of the real, lurking
 behind the real, which it is all for. There is also in the intellect of
 man, in [[motifs/time|time]], far in prospective recesses, a judgment, a last appellate
@@ -13695,7 +13696,7 @@ at the remove of a century hence;) out of that stretch of [[motifs/time|time]],
 and especially out of the immediately preceding twenty-five years,
 (1850-'75,) with all their rapid changes, innovations, and audacious
 movements-and bearing their own inevitable wilful birth-marks--the
-experiments of my poems too have found genesis.
+experiments of my [[Poems|poems]] too have found genesis.
 
 W. W.
 
@@ -13717,7 +13718,7 @@ everywhere.)
 I am not sure but the last inclosing sublimation of race or poem is,
 what it thinks of [[motifs/death|death]]. After the rest has been comprehended and said,
 even the grandest--after those contributions to mightiest nationality,
-or to sweetest song, or to the best personalism, male or female, have
+or to sweetest [[Song|song]], or to the best personalism, male or female, have
 been glean'd from the rich and varied themes of tangible life, and
 have been fully accepted and sung, and the pervading fact of visible
 existence, with the duty it devolves, is rounded and apparently
@@ -13736,7 +13737,7 @@ that is to enter into, and vivify, and give crowning religious stamp, to
 [[concepts/democracy|democracy]] in the New World.
 
 It was originally my intention, after chanting in "[[motifs/leaves|Leaves]] of Grass"
-the songs of the [[concepts/body|body]] and existence, to then compose a further, equally
+the [[songs]] of the [[concepts/body|body]] and existence, to then compose a further, equally
 needed volume, based on those convictions of perpetuity and conservation
 which, enveloping all precedents, make the unseen [[motifs/soul|soul]] govern absolutely
 at last. I meant, while in a sort continuing the theme of my first
@@ -13757,7 +13758,7 @@ more to avoid a mark'd hiatus in it, than to entirely fulfil it, I
 end my books with thoughts, or radiations from thoughts, on [[motifs/death|death]],
 [[concepts/immortality|immortality]], and a free entrance into the spiritual world. In those
 thoughts, in a sort, I make the first steps or studies toward the mighty
-theme, from the point of view necessitated by my foregoing poems, and
+theme, from the point of view necessitated by my foregoing [[Poems|poems]], and
 by modern science. In them I also seek to set the key-stone to my
 [[concepts/democracy|democracy]]'s enduring arch. I recollate them now, for the press, in
 order to partially occupy and offset days of strange sickness, and the
@@ -13790,12 +13791,12 @@ activity and comfort.]
 
 Under these influences, therefore, I still feel to keep "Passage to
 India" for last words even to this centennial dithyramb. Not as, in
-antiquity, at highest festival of [[settings/egypt|Egypt]], the noisome skeleton of [[motifs/death|death]]
+antiquity, at highest festival of [[settings/egypt|Egypt]], the noisome [[skeleton]] of [[motifs/death|death]]
 was sent on exhibition to the revelers, for zest and [[archetypes/shadow|shadow]] to the
 occasion's joy and light--but as the marble statue of the normal Greeks
 at Elis, suggesting [[motifs/death|death]] in the form of a beautiful and perfect young
 man, with closed eyes, leaning on an inverted torch--emblem of rest and
-[[concepts/aspiration|aspiration]] after action--of [[motifs/crown|crown]] and point which all lives and poems
+[[concepts/aspiration|aspiration]] after action--of [[motifs/crown|crown]] and point which all lives and [[Poems|poems]]
 should steadily have reference to, namely, the justified and noble
 termination of our [[concepts/identity|identity]], this grade of it, and outlet-preparation to
 another grade.
@@ -13823,7 +13824,7 @@ Not but what the brawn of "[[motifs/leaves|Leaves]] of Grass" is, I [[concepts/h
 spiritualized everywhere, for final estimate, but, from the very
 subjects, the direct effect is a sense of the life, as it should be, of
 flesh and [[motifs/blood|blood]], and physical urge, and animalism. While there are other
-themes, and plenty of abstract thoughts and poems in the volume--while
+themes, and plenty of abstract thoughts and [[Poems|poems]] in the volume--while
 I have put in it passing and rapid but actual glimpses of the great
 struggle between the nation and the slave-power, (1861-'65,) as the
 fierce and bloody panorama of that contest unroll'd itself: while the
@@ -13835,7 +13836,7 @@ active, worldly, healthy personality, objective as [[motifs/well|well]] as subje
 joyful and potent, and modern and free, distinctively for the use of
 the United States, male and female, through the long future--has been,
 I say, my general object. (Probably, indeed, the whole of these varied
-songs, and all my writings, both volumes, only ring changes in some
+[[songs]], and all my writings, both volumes, only ring changes in some
 sort, on the ejaculation, How vast, how eligible, how joyful, how real,
 is a human being, himself or herself.)
 
@@ -13852,7 +13853,7 @@ closes, in the civilization of feudalism, many old influences--drops on
 them, suddenly, a vast, gloomy, as it were, separating curtain.)
 
 Since I have been ill, (1873-'74-'75,) mostly without serious [[motifs/pain|pain]], and
-with plenty of [[motifs/time|time]] and frequent inclination to judge my poems,
+with plenty of [[motifs/time|time]] and frequent inclination to judge my [[Poems|poems]],
 (never composed with eye on the book-market, nor for fame, nor for any
 pecuniary profit,) I have felt temporary depression more than once, for
 [[concepts/fear|fear]] that in "[[motifs/leaves|Leaves]] of Grass" the _moral_ parts were not sufficiently
@@ -13886,7 +13887,7 @@ and when, (greatest of all, and nobler than the proudest mere genius or
 magnate in any field,) he fully realizes the [[concepts/conscience|conscience]], the spiritual,
 the divine faculty, cultivated [[motifs/well|well]], exemplified in all his deeds and
 words, through life, uncompromising to the end--a flight loftier
-than any of Homer's or Shakspere's--broader than all poems and
+than any of Homer's or Shakspere's--broader than all [[Poems|poems]] and
 bibles--namely, [[concepts/nature|Nature]]'s own, and in the midst of it, Yourself, your own
 [[concepts/identity|Identity]], [[concepts/body|body]] and [[motifs/soul|soul]]. (All serves, helps--but in the centre of all,
 absorbing all, giving, for your purpose, the only meaning and vitality
@@ -13935,7 +13936,7 @@ the peach, no matter how fine the trunk, or copious or rich the branches
 and foliage, here waits _sine qua non_ at last. The stamp of entire and
 finished [[concepts/greatness|greatness]] to any nation, to the American Republic among the
 rest, must be sternly withheld till it has put what it stands for in the
-blossom of original, first-class poems. No imitations will do.
+blossom of original, first-class [[Poems|poems]]. No imitations will do.
 
 And though no _esthetik_ worthy the present condition or future
 certainties of the New World seems to have been outlined in men's minds,
@@ -13955,13 +13956,13 @@ democratic sociology and imaginative literature. If the latter were not
 establish'd for the States, to form their only permanent tie and hold,
 the first-named would be of little avail.
 
-With the poems of a first-class land are twined, as weft with warp, its
+With the [[Poems|poems]] of a first-class land are twined, as weft with warp, its
 types of personal character, of individuality, peculiar, native, its
 own physiognomy, man's and woman's, its own shapes, forms, and manners,
 fully justified under the eternal laws of all forms, all manners, all
 times. The hour has come for [[concepts/democracy|democracy]] in [[settings/america|America]] to inaugurate
-itself in the two directions specified--autochthonic poems and
-personalities--born expressers of itself, its spirit alone, to radiate
+itself in the two directions specified--autochthonic [[Poems|poems]] and
+personalities--born expressers of itself, its spirit [[Alone|alone]], to radiate
 in subtle ways, not only in art, but the practical and familiar, in the
 transactions between employers and employed persons, in business and
 wages, and sternly in the army and navy, and revolutionizing them. I
@@ -13988,7 +13989,7 @@ two points we will consider, out of the myriads presenting themselves.
 The feudalism, of the British Islands, illustrated by Shakspere--and by
 his legitimate followers, Walter Scott and Alfred Tennyson--with all its
 tyrannies, superstitions, evils, had most superb and heroic permeating
-veins, poems, manners; even its errors fascinating. It almost seems as
+veins, [[Poems|poems]], manners; even its errors fascinating. It almost seems as
 if only that feudalism in Europe, like [[concepts/slavery|slavery]] in our own South, could
 outcrop types of tallest, noblest personal character yet--strength and
 devotion and [[motifs/love|love]] better than elsewhere--invincible [[concepts/courage|courage]], generosity,
@@ -14017,7 +14018,7 @@ equaled by several, and excelled by the best old Greeks, (as Eschylus.)
 But in portraying mediaeval European lords and barons, the arrogant
 port, so dear to the inmost human heart, ([[concepts/pride|pride]]! [[concepts/pride|pride]]! dearest,
 perhaps, of all--touching us, too, of the States closest of all--closer
-than [[motifs/love|love]],) he stands alone, and I do not [[concepts/wonder|wonder]] he so witches the
+than [[motifs/love|love]],) he stands [[Alone|alone]], and I do not [[concepts/wonder|wonder]] he so witches the
 world.
 
 From first to last, also, Walter Scott and Tennyson, like Shakspere,
@@ -14035,7 +14036,7 @@ his works.
 Poetry here of a very high (perhaps the highest) order of verbal
 melody, exquisitely clean and pure, and almost always perfumed, like the
 tuberose, to an extreme of sweetness--sometimes not, however, but even
-then a camellia of the hot-house, never a common flower--the verse
+then a camellia of the hot-[[house]], never a common flower--the verse
 of inside elegance and high-life; and yet preserving amid all its
 super-delicatesse a smack of outdoors and outdoor folk. The old Norman
 lordhood quality here, too, crossed with that Saxon fiber from which
@@ -14119,7 +14120,7 @@ The currents of practical business in [[settings/america|America]], the rude, co
 tussling facts of our lives, and all their daily experiences, need just
 the precipitation and tincture of this entirely different fancy world
 of lulling, contrasting, even feudalistic, anti-republican poetry and
-romance. On the enormous outgrowth of our unloos'd individualities,
+[[Romance|romance]]. On the enormous outgrowth of our unloos'd individualities,
 and the rank, [[concepts/self|self]]-assertion of humanity here, may [[motifs/well|well]] fall these
 grace-persuading, _recherch�_ influences. We first require that
 individuals and communities shall be free; then surely comes a [[motifs/time|time]]
@@ -14129,7 +14130,7 @@ these importations till then will have to be accepted, such as they are,
 and thankful they are no worse. The inmost spiritual currents of the
 present [[motifs/time|time]] curiously [[concepts/revenge|revenge]] and check their own compell'd tendency
 to [[concepts/democracy|democracy]], and absorption in it, by mark'd leanings to the past--by
-reminiscences in poems, plots, operas, novels, to a far-off, contrary,
+reminiscences in [[Poems|poems]], plots, operas, novels, to a far-off, contrary,
 deceased world, as if they dreaded the great vulgar gulf-tides of
 to-day. Then what has been fifty centuries growing, working in, and
 accepted as crowns and apices for our kind, is not going to be pulled
@@ -14147,7 +14148,7 @@ with all his scholarly grace and tender feeling, the defect is more
 apparent than it was in Bryant. Mr. Lowell can overflow with American
 humor when politics inspire his muse; but in the realm of pure poetry he
 is no more American than a Newdigate prize-man. Joaquin Miller's verse
-has fluency and movement and harmony, but as for the thought, his songs
+has fluency and movement and harmony, but as for the thought, his [[songs]]
 of the sierras might as [[motifs/well|well]] have been written in Holland.
 
 Unless in a certain very slight contingency, the "Times" says: "American
@@ -14205,7 +14206,7 @@ define or finish. Like all modern tendencies, it has direct or indirect
 reference continually to the reader, to you or me, to the central
 [[concepts/identity|identity]] of everything, the mighty Ego. (Byron's was a vehement dash,
 with plenty of impatient [[concepts/democracy|democracy]], but lurid and introverted amid all
-its magnetism; not at all the fitting, lasting song of a grand, secure,
+its magnetism; not at all the fitting, lasting [[Song|song]] of a grand, secure,
 free, sunny race.) It is more akin, likewise, to outside life and
 landscape, (returning mainly to the antique feeling,) real sun and gale,
 and woods and shores--to the elements themselves--not sitting at ease in
@@ -14272,12 +14273,12 @@ Besides its tonic and _al fresco_ physiology, relieving such as this,
 the poetry of the future will take on character in a more important
 respect. Science, having extirpated the old stock-fables and
 superstitions, is clearing a field for verse, for all the arts, and
-even for romance, a hundred-fold ampler and more wonderful, with the new
+even for [[Romance|romance]], a hundred-fold ampler and more wonderful, with the new
 principles behind. Republicanism advances over the whole world. Liberty,
 with Law by her side, will one day be paramount--will at any rate be
 the central idea. Then only--for all the splendor and [[concepts/beauty|beauty]] of what has
 been, or the polish of what is--then only will the true poets appear,
-and the true poems. Not the satin and patchouly of today, not the
+and the true [[Poems|poems]]. Not the satin and patchouly of today, not the
 glorification of the butcheries and wars of the past, nor any fight
 between Deity on one side and somebody else on the other--not [[historical-references/milton|Milton]],
 not even Shakspere's plays, grand as they are. Entirely different and
@@ -14290,7 +14291,7 @@ the highest walks of art it has not yet had a single representative
 worthy of it anywhere upon the earth.
 
 Never had real bard a task more fit for [[concepts/sublime|sublime]] ardor and genius than
-to sing worthily the songs these States have already indicated. Their
+to sing worthily the [[songs]] these States have already indicated. Their
 origin, Washington, '76, the picturesqueness of old times, the war of
 1812 and the sea-fights; the incredible rapidity of movement and breadth
 of area--to fuse and compact the South and North, the East and West,
@@ -14304,7 +14305,7 @@ germinal subjects--one above all. What the ancient siege of Illium, and
 the puissance of [[characters/hector|Hector]]'s and [[characters/agamemnon|Agamemnon]]'s warriors proved to Hellenic
 art and literature, and all art and literature since, may prove the
 war of attempted secession of 1861-'65 to the future esthetics, drama,
-romance, poems of the United States.
+[[Romance|romance]], [[Poems|poems]] of the United States.
 
 
 
@@ -14343,10 +14344,10 @@ contributed by every nation, each after its distinctive kind. Let us,
 audacious, start it. Let the diplomats, as ever, still deeply plan,
 seeking advantages, proposing treaties between governments, and to bind
 them, on paper: what I seek is different, simpler. I would inaugurate
-from [[settings/america|America]], for this purpose, new formulas--international poems. I
+from [[settings/america|America]], for this purpose, new formulas--international [[Poems|poems]]. I
 have thought that the invisible root out of which the poetry deepest in,
 and dearest to, humanity grows, is [[concepts/friendship|Friendship]]. I have thought that both
-in patriotism and song (even amid their grandest shows past) we have
+in patriotism and [[Song|song]] (even amid their grandest shows past) we have
 adhered too long to petty limits, and that the [[motifs/time|time]] has come to enfold
 the world.
 
@@ -14397,7 +14398,7 @@ of mere intellectuality too--and then utterly without the sound,
 prevailing, moral and esthetic health-action beyond all the money and
 mere intellect of the world.
 
-Is it a dream of mine that, in times to come, west, south, east, north,
+Is it [[A Dream|a dream]] of mine that, in times to come, west, south, east, north,
 will silently, surely arise a race of such poets, varied, yet one
 in [[motifs/soul|soul]]--nor only poets, and of the best, but newer, larger
 prophets--larger than Judea's, and more passionate--to meet and
@@ -14462,7 +14463,7 @@ France, profound [[settings/germany|Germany]], the manly Scandinavian lands, [[s
 race, and always the mystic [[settings/orient|Orient]]. Remembering that at present, and
 doubtless long ahead, a certain [[concepts/humility|humility]] would [[motifs/well|well]] become us. The
 course through [[motifs/time|time]] of highest civilization, does it not wait the
-first glimpse of our contribution to its kosmic train of poems,
+first glimpse of our contribution to its kosmic train of [[Poems|poems]],
 bibles, first-class structures, perpetuities--[[settings/egypt|Egypt]] and Palestine and
 India--Greece and Rome and mediaeval Europe--and so onward? The shadowy
 procession is not a meagre one, and the standard not a low one. All that
@@ -14506,7 +14507,7 @@ think it was in 1872.
 [36] In a long and prominent editorial, at the [[motifs/time|time]], on the [[motifs/death|death]] of
 William Cullen Bryant.
 
-[37] Whatever may be said of the few principal poems--or their best
+[37] Whatever may be said of the few principal [[Poems|poems]]--or their best
 passages--it is certain that the overwhelming mass of poetic works,
 as now absorb'd into human character, exerts a certain constipating,
 repressing, indoor, and artificial influence, impossible to
@@ -14519,7 +14520,7 @@ uncramp'd [[concepts/nature|Nature]] works on every individual without exception
 <span class="atom-split" data-atom="story_46_hospital_perplexity--part_109" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 109)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/nature,motif/summer,motif/time,motif/well,motif/winter,concept/conscience,concept/doubt,concept/faith,concept/greed,concept/history,concept/hope,concept/nature,concept/paradox,concept/sublime,concept/truth,form/history,histref/america,setting/america"></span>
 
 
-[38] Is there not such a thing as the philosophy of American [[concepts/history|history]] and
+[38] Is there not such a thing as the [[philosophy]] of American [[concepts/history|history]] and
 politics? And if so, what is it?... Wise men say there are two sets
 of wills to nations and to persons--one set that acts and works
 from explainable motives--from teaching, intelligence, judgment,
@@ -14537,7 +14538,7 @@ Let us [[concepts/hope|hope]] there is (indeed, can there be any [[concepts/doub
 great unconscious and abysmic second will also running through the
 average nationality and career of [[settings/america|America]]. Let us [[concepts/hope|hope]] that, amid all
 the dangers and defections of the present, and through all the processes
-of the conscious will, it alone is the permanent and sovereign force,
+of the conscious will, it [[Alone|alone]] is the permanent and sovereign force,
 destined to carry on the New World to fulfil its destinies in the
 future--to resolutely pursue those destinies, age upon age; to build,
 far, far beyond its past vision, present thought; to form and fashion,
@@ -14604,7 +14605,7 @@ leading the fleet of the modern and democratic, on the seas and voyages
 of the future.
 
 And the real [[concepts/history|history]] of the United States--starting from that great
-convulsive struggle for unity, the secession war, triumphantly
+convulsive struggle for [[unity]], the secession war, triumphantly
 concluded, and _the South_ victorious after all--is only to be written
 at the remove of hundreds, perhaps a thousand, years hence.
 
@@ -14614,7 +14615,7 @@ A MEMORANDUM AT A VENTURE
 enough."--_J. F. Millet._
 
 "The candor of science is the glory of the modern. It does not hide
-and repress; it confronts, turns on the light. It alone has perfect
+and repress; it confronts, turns on the light. It [[Alone|alone]] has perfect
 [[concepts/faith|faith]]--[[concepts/faith|faith]] not in a part only, but all. Does it not undermine the old
 religious standards? Yes, in God's [[concepts/truth|truth]], by excluding the devil from
 the theory of the universe--by showing that evil is not a law in itself,
@@ -14690,7 +14691,7 @@ less important field.
 
 In the present memorandum I only venture to indicate that plan and
 view--decided upon more than twenty years ago, for my own literary
-action, and formulated tangibly in my printed poems--(as Bacon says an
+action, and formulated tangibly in my printed [[Poems|poems]]--(as Bacon says an
 abstract thought or theory is of no moment unless it leads to a deed or
 work done, exemplifying it in the concrete)--that the sexual passion
 in itself, while normal and unperverted, is inherently legitimate,
@@ -14698,11 +14699,11 @@ creditable, not necessarily an improper theme for poet, as confessedly
 not for scientist--that, with reference to the whole construction,
 organism, and intentions of "[[motifs/leaves|Leaves]] of Grass," anything short of
 confronting that theme, and making myself clear upon it as the enclosing
-basis of everything, (as the sanity of everything was to be the
-atmosphere of the poems,) I should beg the question in its most
+basis of everything, (as the [[Sanity|sanity]] of everything was to be the
+atmosphere of the [[Poems|poems]],) I should beg the question in its most
 momentous aspect, and the superstructure that follow'd, pretensive as
 it might assume to be, would all rest on a poor foundation, or no
-foundation at all. In short, as the assumption of the sanity of birth,
+foundation at all. In short, as the assumption of the [[Sanity|sanity]] of birth,
 [[concepts/nature|Nature]] and humanity, is the key to any true theory of life and the
 universe--at any rate, the only theory out of which I wrote--it is, and
 must inevitably be, the only key to "[[motifs/leaves|Leaves]] of Grass," and every part
@@ -14716,7 +14717,7 @@ under the old elms of Boston Common.
 Indeed, might not every physiologist and every good physician pray
 for the redeeming of this subject from its hitherto relegation to the
 tongues and pens of blackguards, and boldly putting it for once at
-least, if no more, in the demesne of poetry and sanity--as something not
+least, if no more, in the demesne of poetry and [[Sanity|sanity]]--as something not
 in itself gross or impure, but entirely consistent with highest manhood
 and womanhood, and indispensable to both? Might not only every wife and
 every mother--not only every babe that comes into the world, if that
@@ -14752,7 +14753,7 @@ the Art Department, by P. H. Rathbone of Liverpool, on the "Undraped
 Figure in Art," and the discussion that follow'd:
 
 "When coward Europe suffer'd the unclean Turk to soil the sacred shores
-of Greece by his polluting presence, civilization and morality receiv'd
+of Greece by his polluting presence, civilization and [[morality]] receiv'd
 a blow from which they have never entirely recover'd, and the trail of
 the serpent has been over European art and European society ever since.
 The Turk regarded and regards women as [[motifs/animals|animals]] without [[motifs/soul|soul]], toys to be
@@ -14765,7 +14766,7 @@ impurity--the East. Although the source of the prejudice is thoroughly
 unhealthy and impure, yet it is now shared by many pure-minded and
 honest, if somewhat uneducated, people. But I am prepared to maintain
 that it is necessary for the future of English art and of English
-morality that the right of the nude to a place in our galleries should
+[[morality]] that the right of the nude to a place in our galleries should
 be boldly asserted; it must, however, be the nude as represented by
 thoroughly trained artists, and with a pure and noble ethic purpose. The
 human form, male and female, is the type and standard of all [[concepts/beauty|beauty]] of
@@ -14852,7 +14853,7 @@ does the right phrase never offer?) and the fit tribute I dream'd of,
 waits unprepared as ever. My talk here indeed is less because of itself
 or anything in it, and nearly altogether because I feel a [[motifs/desire|desire]], apart
 from any talk, to specify the day, the [[concepts/martyrdom|martyrdom]]. It is for this, my
-friends, I have call'd you together. Oft as the rolling years bring
+friends, I have call'd you together. Oft as the [[rolling]] years bring
 back this hour, let it again, however briefly, be dwelt upon. For my
 own part, I [[concepts/hope|hope]] and [[motifs/desire|desire]], till my own dying day, whenever the 14th
 or 15th of April comes, to annually gather a few friends, and hold its
@@ -14873,7 +14874,7 @@ the war actually began, the aspect of affairs in the United States,
 though without the flash of military excitement, presents more than
 the survey of a battle, or any extended campaign, or series, even of
 [[concepts/nature|Nature]]'s convulsions. The hot passions of the South--the strange
-mixture at the North of inertia, incredulity, and conscious power--the
+mixture at the North of inertia, [[Incredulity|incredulity]], and conscious power--the
 incendiarism of the abolitionists--the rascality and grip of the
 politicians, unparallel'd in any land, any age. To these I must not omit
 adding the honesty of the essential bulk of the people everywhere--yet
@@ -14897,13 +14898,13 @@ the first [[motifs/time|time]] I ever saw [[characters/abraham-lincoln|Abraham L
 [[settings/new-york|New York]] [[motifs/city|city]], as he arrived there from the West, to remain a few hours,
 and then pass on to Washington, to prepare for his inauguration. I saw
 him in Broadway, near the site of the present Post-office. He came down,
-I think from Canal street, to stop at the Astor House. The broad spaces,
+I think from Canal street, to stop at the Astor [[house|House]]. The broad spaces,
 sidewalks, and street in the neighborhood, and for some distance, were
 crowded with solid masses of people, many thousands. The omnibuses and
 other vehicles had all been turn'd off, leaving an unusual hush in that
 busy part of the [[motifs/city|city]]. Presently two or three shabby hack barouches made
 their way with some difficulty through the crowd, and drew up at the
-Astor House entrance. A tall figure stepp'd out of the centre of these
+Astor [[house|House]] entrance. A tall figure stepp'd out of the centre of these
 barouches, paus'd leisurely on the sidewalk, look'd up at the granite
 walls and looming architecture of the grand old hotel--then, after a
 relieving stretch of arms and legs, turn'd round for over a minute to
@@ -14952,7 +14953,7 @@ breast-pocket there, ready, soon as break and riot came.
 But no break or riot came. The tall figure gave another relieving
 stretch or two of arms and legs; then with moderate pace, and
 accompanied by a few unknown-looking persons, ascended the portico-steps
-of the Astor House, disappear'd through its broad entrance--and the
+of the Astor [[house|House]], disappear'd through its broad entrance--and the
 dumb-show ended.
 
 I saw [[characters/abraham-lincoln|Abraham Lincoln]] often the four years following that date. He
@@ -14993,7 +14994,7 @@ far into the future--and the most indicative and mightiest of them yet
 ungrown. A great literature will yet arise out of the era of those
 four years, those scenes--era compressing centuries of native passion,
 first-class pictures, tempests of life and [[motifs/death|death]]--an inexhaustible mine
-for the histories, drama, romance, and even philosophy, of peoples to
+for the histories, drama, [[Romance|romance]], and even [[philosophy]], of peoples to
 come--indeed the verteber of poetry and art, (of personal character
 too,) for all future [[settings/america|America]]--far more grand, in my opinion, to the
 hands capable of it, than Homer's siege of Troy, or the French wars to
@@ -15059,7 +15060,7 @@ or non-such, or whatever it is to be call'd, and to offset it, or finish
 it out, as if in [[concepts/nature|Nature]]'s and the great Muse's mockery of those poor
 mimes, came interpolated that scene, not really or exactly to be
 described at all, (for on the many hundreds who were there it seems
-to this hour to have left a passing blur, a dream, a blotch)--and yet
+to this hour to have left a passing blur, [[A Dream|a dream]], a blotch)--and yet
 partially to be described as I now proceed to give it. There is a scene
 in the play representing a modern parlor in which two unprecedented
 English ladies are inform'd by the impossible Yankee that he is not
@@ -15106,7 +15107,7 @@ beforehand?)
 A moment's hush--a scream--the cry of _murder_--Mrs. [[characters/lincoln|Lincoln]] leaning out
 of the box, with ashy cheeks and lips, with involuntary cry, pointing
 to the retreating figure, _He has kill'd the President._ And still a
-moment's strange, incredulous suspense--and then the deluge!--then that
+moment's strange, incredulous suspense--and then the [[deluge]]!--then that
 mixture of horror, noises, uncertainty--(the sound, somewhere back, of
 a [[motifs/horse|horse]]'s hoofs clattering with [[characters/speed|speed]])--the people burst through chairs
 and railings, and break them up--there is inextricable confusion
@@ -15122,11 +15123,11 @@ clamber up--&c., &c.
 
 In the midst of all this, the soldiers of the President's guard,
 with others, suddenly drawn to the scene, burst in--(some two hundred
-altogether)--they [[motifs/storm|storm]] the house, through all the tiers, especially
+altogether)--they [[motifs/storm|storm]] the [[house]], through all the tiers, especially
 the upper ones, inflam'd with fury, literally charging the audience with
 fix'd bayonets, muskets and pistols, snouting _Clear out! clear out!
 you sons of_----.... Such the wild scene, or a suggestion of it rather,
-inside the play-house that [[motifs/night|night]].
+inside the play-[[house]] that [[motifs/night|night]].
 
 Outside, too, in the atmosphere of shock and craze, crowds of people,
 fill'd with frenzy, ready to seize any outlet for it, come near
@@ -15136,14 +15137,14 @@ started against one man, either for words he utter'd, or perhaps without
 any cause at all, and were proceeding at once to actually hang him on
 a neighboring lamp-post, when he was rescued by a few heroic policemen,
 who placed him in their midst, and fought their way slowly and amid
-great peril toward the station house. It was a fitting episode of the
+great peril toward the station [[house]]. It was a fitting episode of the
 whole affair. The crowd rushing and eddying to and fro--the [[motifs/night|night]],
 the yells, the pale faces, many frighten'd people trying in vain to
 extricate themselves--the attack'd man, not yet freed from the jaws
 of [[motifs/death|death]], looking like a corpse--the silent, resolute, half-dozen
 policemen, with no weapons but their little clubs, yet stern and steady
 through all those eddying swarms--made a fitting side-scene to the grand
-[[forms/tragedy|tragedy]] of the murder. They gain'd the station house with the protected
+[[forms/tragedy|tragedy]] of the murder. They gain'd the station [[house]] with the protected
 man, whom they placed in security for the [[motifs/night|night]], and discharged him in
 the morning.
 
@@ -15181,7 +15182,7 @@ suddenly ringing down the curtain, close an immense act in the long
 drama of creative thought, and give it radiation, tableau, stranger than
 fiction. Fit radiation--fit close! How the [[concepts/imagination|imagination]]--how the student
 loves these things! [[settings/america|America]], too, is to have them. For not in all
-great deaths, nor far or near--not Caesar in the Roman senate-house,
+great deaths, nor far or near--not Caesar in the Roman senate-[[house]],
 or Napoleon passing away in the wild [[motifs/night|night]]-[[motifs/storm|storm]] at St. [[characters/helena|Helena]]--not
 Paleologus, falling, desperately fighting, piled over dozens deep with
 Grecian corpses--not calm old Socrates, drinking the hemlock--outvies
@@ -15215,7 +15216,7 @@ condense--perhaps only really, lastingly condense--a Nationality.
 I repeat it--the grand deaths of the race--the dramatic deaths of every
 nationality--are its most important inheritance-value--in some respects
 beyond its literature and art--(as the [[archetypes/hero|hero]] is beyond his finest
-portrait, and the battle itself beyond its choicest song or [[forms/epic|epic]].) Is
+portrait, and the battle itself beyond its choicest [[Song|song]] or [[forms/epic|epic]].) Is
 not here indeed the point underlying all [[forms/tragedy|tragedy]]? the famous pieces of
 the Grecian masters--and all masters? Why, if the old Greeks had had
 this man, what trilogies of plays--what epics--would have been made
@@ -15339,7 +15340,7 @@ if necessary, fight for, against the rest of the world--the deathless
 aspirations at the inmost centre of each great community, so vehement,
 so mysterious, so abysmic--are certainly features you Russians and
 we Americans possess in common. As my dearest dream is for an
-internationality of poems and poets binding the lands of the earth
+internationality of [[Poems|poems]] and poets binding the lands of the earth
 closer than all treaties and diplomacy--as the purpose beneath the rest
 in my book is such hearty [[concepts/comradeship|comradeship]], for individuals to begin with,
 and for all the nations of the earth as a result--how happy I should be
@@ -15366,9 +15367,9 @@ perfect individualities, of one sex just as much as the other, the
 supply of such individualities, in my opinion, wholly depends on
 a compacted imperial ensemble. The theory and practice of both
 sovereignties, contradictory as they are, are necessary. As the
-centripetal law were fatal alone, or the centrifugal law deadly and
-destructive alone, but together forming the law of eternal kosmical
-action, evolution, preservation, and life--so, by itself alone, the
+centripetal law were fatal [[Alone|alone]], or the centrifugal law deadly and
+destructive [[Alone|alone]], but together forming the law of eternal kosmical
+action, evolution, preservation, and life--so, by itself [[Alone|alone]], the
 fullness of individuality, even the sanest, would surely destroy itself.
 This is what makes the importance to the identities of these States
 of the thoroughly fused, relentless, dominating [[concepts/union|Union]]--a moral and
@@ -15413,7 +15414,7 @@ to harmoniously adjust the two, and the play of the two. [Observe the
 lesson of the divinity of [[concepts/nature|Nature]], ever checking the excess of one law,
 by an opposite, or seemingly opposite law--generally the other side of
 the same law.] For the theory of this Republic is, not that the General
-government is the fountain of all life and power, dispensing it forth,
+[[government]] is the fountain of all life and power, dispensing it forth,
 around, and to the remotest portions of our territory, but that THE
 PEOPLE are, represented in both, underlying both the General and State
 governments, and consider'd just as [[motifs/well|well]] in their individualities and
@@ -15572,7 +15573,7 @@ considerable exceptions still exist. However, it must be called the
 general rule, sanction'd by immemorial usage, and will probably always
 remain so.
 
-_First party_--Why not, then, respect it in your poems?
+_First party_--Why not, then, respect it in your [[Poems|poems]]?
 
 _Answer_--One reason, and to me a profound one, is that the [[motifs/soul|soul]] of a
 man or woman demands, enjoys compensation in the highest directions for
@@ -15633,11 +15634,11 @@ on shipboard, or on lakes and rivers--resumes that other medium of
 expression, more flexible, more eligible--soars to the freer, vast,
 diviner heaven of prose.
 
-Of poems of the third or fourth class, (perhaps even some of the
+Of [[Poems|poems]] of the third or fourth class, (perhaps even some of the
 second,) it makes little or no difference who writes them--they are good
 enough for what they are; nor is it necessary that they should be
 actual emanations from the personality and life of the writers. The very
-reverse sometimes gives piquancy. But poems of the first class, (poems
+reverse sometimes gives piquancy. But [[Poems|poems]] of the first class, ([[Poems|poems]]
 of the depth, as distinguished from those of the surface,) are to be
 sternly tallied with the poets themselves, and tried by them and their
 lives. Who wants a glorification of [[concepts/courage|courage]] and manly defiance from
@@ -15653,7 +15654,7 @@ rhyming hunks, or lascivious, glib _rou�_?
 In these States, beyond all precedent, poetry will have to do with
 actual facts, with the concrete States, and--for we have not much more
 than begun--with the definitive getting into shape of the [[concepts/union|Union]]. Indeed
-I sometimes think _it_ alone is to define the [[concepts/union|Union]], (namely, to give
+I sometimes think _it_ [[Alone|alone]] is to define the [[concepts/union|Union]], (namely, to give
 it artistic character, spirituality, dignity.) What American humanity is
 most in danger of is an overwhelming prosperity, "business" worldliness,
 materialism: what is most lacking, east, west, north, south, is a fervid
@@ -15702,7 +15703,7 @@ one seems to detect something in him--I hardly know how to describe
 it--even amid the dazzle of his genius; and, in inferior manifestations,
 it is found in nearly all leading British authors. (Perhaps we will have
 to import the words Snob, Snobbish, &c., after all.) While of the great
-poems of Asian antiquity, the Indian epics, the book of Job, the Ionian
+[[Poems|poems]] of Asian antiquity, the Indian epics, the book of Job, the Ionian
 Iliad, the unsurpassedly simple, loving, perfect idyls of the life and
 [[motifs/death|death]] of [[characters/christ|Christ]], in the New Testament, (indeed Homer and the Biblical
 utterances intertwine familiarly with us, in the main,) and along down,
@@ -15749,7 +15750,7 @@ Running through prehistoric ages--coming down from them into the
 daybreak of our records, founding theology, suffusing literature, and so
 brought onward--(a sort of verteber and marrow to all the antique races
 and lands, [[settings/egypt|Egypt]], India, Greece, Rome, the Chinese, the Jews, &c., and
-giving cast and complexion to their art, poems, and their politics as
+giving cast and complexion to their art, [[Poems|poems]], and their politics as
 [[motifs/well|well]] as ecclesiasticism, all of which we more or less inherit,) appear
 those venerable claims to origin from God himself, or from gods and
 goddesses--ancestry from divine beings of vaster [[concepts/beauty|beauty]], size, and power
@@ -15809,7 +15810,7 @@ wait for their true assignment and last vivid flashes of light--as
 [[concepts/democracy|Democracy]] waits for it's--through first-class metaphysicians and
 speculative philosophs--laying the basements and foundations for those
 new, more expanded, more harmonious, more melodious, freer American
-poems.
+[[Poems|poems]].
 
 "SOCIETY"
 
@@ -15888,7 +15889,7 @@ acknowledging deficiencies, dangers, faults, this people, inchoate,
 latent, not yet come to majority, nor to its own religious, literary, or
 esthetic expression, yet affords, to-day, an exultant justification
 of all the [[concepts/faith|faith]], all the hopes and prayers and prophecies of good
-men through the past--the stablest, solidest-based government of
+men through the past--the stablest, solidest-based [[government]] of
 the world--the most assured in a future--the beaming Pharos to whose
 perennial light all earnest eyes, the world over, are tending--and that
 already, in and from it, the democratic principle, having been mortally
@@ -15939,11 +15940,11 @@ quarters--(the homoeopathic motto, you remember, _cure the bite with a
 hair of the same dog.)_
 
 The American Revolution of 1776 was simply a great strike, successful
-for its immediate object--but whether a real success judged by the scale
+for its immediate object--but whether a real [[success]] judged by the scale
 of the centuries, and the long-striking balance of [[motifs/time|Time]], yet remains to
 be settled. The [[historical-references/french-revolution|French Revolution]] was absolutely a strike, and a very
 terrible and relentless one, against ages of bad pay, unjust division
-of wealth-products, and the hoggish monopoly of a few, rolling in
+of wealth-products, and the hoggish monopoly of a few, [[rolling]] in
 superfluity, against the vast bulk of the work-people, living in
 squalor.
 
@@ -16012,7 +16013,7 @@ society our day, I still do not share the depression and [[concepts/despair|desp
 subject which I find possessing many good people. The advent of [[settings/america|America]],
 the [[concepts/history|history]] of the past century, has been the first general aperture and
 opening-up to the average human commonalty, on the broadest scale, of
-the eligibilities to wealth and worldly success and eminence, and has
+the eligibilities to wealth and worldly [[success]] and eminence, and has
 been fully taken advantage of; and the example has spread hence, in
 ripples, to all nations. To these eligibilities--to this limitless
 aperture, the race has tended, en-masse, roaring and rushing and crude,
@@ -16113,12 +16114,12 @@ LACKS AND WANTS YET
 
 Of most foreign countries, small or large, from the remotest times
 known, down to our own, each has contributed after its kind, directly
-or indirectly, at least one great undying song, to help vitalize and
+or indirectly, at least one great undying [[Song|song]], to help vitalize and
 increase the valor, wisdom, and elegance of humanity, from the points of
 view attain'd by it up to date. The stupendous epics of India, the holy
 [[historical-references/bible|Bible]] itself, the Homeric canticles, the Nibelungen, the Cid Campeador,
 the Inferno, Shakspere's dramas of the passions and of the feudal lords,
-Burns's songs, Goethe's in [[settings/germany|Germany]], Tennyson's poems in England, Victor
+Burns's [[songs]], Goethe's in [[settings/germany|Germany]], Tennyson's [[Poems|poems]] in England, Victor
 Hugo's in France, and many more, are the widely various yet integral
 signs or land-marks, (in certain respects the highest set up by the
 human mind and [[motifs/soul|soul]], beyond science, invention, political amelioration,
@@ -16212,9 +16213,9 @@ States.
 
 LITTLE OR NOTHING NEW, AFTER ALL
 
-How small were the best thoughts, poems, conclusions, except for
+How small were the best thoughts, [[Poems|poems]], conclusions, except for
 a certain invariable resemblance and uniform standard in the final
-thoughts, theology, poems, &c., of all nations, all civilizations, all
+thoughts, theology, [[Poems|poems]], &c., of all nations, all civilizations, all
 centuries and times. Those precious legacies--accumulations! They come
 to us from the far-off--from all eras, and all lands--from [[settings/egypt|Egypt]], and
 India, and Greece, and Rome--and along through the middle and later
@@ -16351,7 +16352,7 @@ PIECES IN EARLY YOUTH
 
 1834-'42
 
-DOUGH-FACE SONG --Like dough; soft; yielding to pressure;
+DOUGH-FACE [[Song|SONG]] --Like dough; soft; yielding to pressure;
 pale----_Webster's Dictionary_.
 
 We are all docile dough-faces,
@@ -16461,7 +16462,7 @@ countenance of the boy, however, was too unearthly fair for health; it
 had, notwithstanding its fleshy, cheerful look, a singular cast as if
 some inward disease, and that a fearful one, were seated within. As the
 stripling stood before that place of judgment--that place so often
-made the scene of heartless and coarse brutality, of timid innocence
+made the scene of heartless and coarse brutality, of timid [[innocence]]
 confused, helpless [[archetypes/child|child]]-hood outraged, and gentle feelings crush'
 d--Lugare looked on him with a frown which plainly told that he felt in
 no very pleasant mood. (Happily a worthier and more philosophical system
@@ -16547,7 +16548,7 @@ come:--go to your seat."
 
 Glad enough of the ungracious permission, and answering not a sound,
 the [[archetypes/child|child]] crept tremblingly to his bench. He felt very strangely,
-dizzily--more as if he was in a dream than in real life; and laying his
+dizzily--more as if he was in [[A Dream|a dream]] than in real life; and laying his
 arms on his desk, bow'd down his face between them. The pupils turn'd
 to their accustom'd studies, for during the reign of Lugare in the
 village-school, they had been so used to scenes of violence and severe
@@ -16740,9 +16741,9 @@ bitterly, vaunted his hold on her and Philip, and swore an oath that
 unless she became his wife, they should both thenceforward become
 penniless. Losing his habitual [[concepts/self|self]]-control in his exasperation, he even
 added insults such as woman never receives from any one deserving the
-name of man, and at his own convenience left the house. That day, Philip
+name of man, and at his own convenience left the [[house]]. That day, Philip
 return'd to [[settings/new-york|New York]], after an absence of several weeks on the business
-of a mercantile house in whose employment he had lately engaged.
+of a mercantile [[house]] in whose employment he had lately engaged.
 
 Toward the latter part of the same afternoon, Mr. Covert was sitting in
 his office, in Nassau street, busily at work, when a knock at the door
@@ -16751,7 +16752,7 @@ room. His face exhibited a peculiar pallid appearance that did not
 strike Covert at all agreeably, and he call'd his clerk from an
 adjoining room, and gave him something to do at a desk near by.
 
-"I wish to see you alone, Mr. Covert, if convenient," said the newcomer.
+"I wish to see you [[Alone|alone]], Mr. Covert, if convenient," said the newcomer.
 
 "We can talk quite [[motifs/well|well]] enough where we are," answer'd the lawyer;
 "indeed, I don't know that I have any leisure to talk at all, for just
@@ -16791,7 +16792,7 @@ what purpose he himself was by no means clear.
 
 Nightfall came at last. Still, however, the young man did not direct
 his steps homeward. He felt more calm, however, and entering an eating
-house, order'd something for his supper, which, when it was brought to
+[[house]], order'd something for his supper, which, when it was brought to
 him, he merely tasted, and stroll'd forth again. There was a kind of
 gnawing sensation of thirst within him yet, and as he pass'd a hotel, he
 bethought him that one little glass of spirits would perhaps be just the
@@ -16857,7 +16858,7 @@ father--robber of his children! I [[concepts/fear|fear]] to think on what I thin
 
 The lawyer's natural effrontery did not [[motifs/desert|desert]] him.
 
-"Unless you'd like to spend a [[motifs/night|night]] in the watch-house, young
+"Unless you'd like to spend a [[motifs/night|night]] in the watch-[[house]], young
 gentleman," said he, after a short pause, "move on. Your father was a
 weak man, I remember; as for his son, his own wicked heart is his worst
 foe. I have never done wrong to either--that I can say, and swear it!"
@@ -16922,7 +16923,7 @@ there. That was by no means enough to fix so heavy a charge upon him.
 The second day afterward, the whole business came before the ordinary
 judicial tribunal, in order that Philip might be either committed for
 the crime, or discharged. The testimony of Mr. Covert's clerk stood
-alone. One of his employers, who, believing in his innocence, had
+[[Alone|alone]]. One of his employers, who, believing in his [[innocence]], had
 deserted him not in this crisis, had provided him with the ablest
 criminal counsel in [[settings/new-york|New York]]. The proof was declared entirely
 insufficient, and Philip was discharged.
@@ -16999,7 +17000,7 @@ the young grain bent to the early breeze, and the air was filled with an
 intoxicating perfume. At his side was the large [[motifs/well|well]]-kept [[motifs/garden|garden]] of his
 host, in which were many pretty [[motifs/flowers|flowers]], grass plots, and a wide avenue
 of noble trees. As Philip gazed, the holy calming power of [[concepts/nature|Nature]]--the
-invisible spirit of so much [[concepts/beauty|beauty]] and so much innocence, melted into
+invisible spirit of so much [[concepts/beauty|beauty]] and so much [[innocence]], melted into
 his [[motifs/soul|soul]]. The disturb'd passions and the feverish conflict subsided. He
 even felt something like envied peace of mind--a sort of joy even in
 the presence of all the unmarr'd goodness. It was as fair to him, guilty
@@ -17025,7 +17026,7 @@ THE LAST LOYALIST
 
 ["_She came to me last [[motifs/night|night]], The floor gave back no tread_."] The story
 I am going to tell is a traditional reminiscence of a country place, in
-my rambles about which I have often passed the house, now unoccupied,
+my rambles about which I have often passed the [[house]], now unoccupied,
 and mostly in ruins, that was the scene of the transaction. I cannot,
 of course, convey to others that particular kind of influence which is
 derived from my being so familiar with the locality, and with the very
@@ -17039,7 +17040,7 @@ stretching to the east of [[settings/new-york|New York]] [[motifs/city|city]], t
 of the last century, an old-fashion'd country-residence. It had been
 built by one of the first settlers of this section of the New World; and
 its occupant was originally owner of the extensive tract lying adjacent
-to his house, and pushing into the bosom of the salt waters. It was
+to his [[house]], and pushing into the bosom of the salt waters. It was
 during the troubled times which mark'd our American Revolution that
 the incidents occurr'd which are the foundation of my story. Some
 [[motifs/time|time]] before the commencement of the war, the owner, whom I shall call
@@ -17076,7 +17077,7 @@ peaceful settlements. Eight years brought the [[archetypes/rebel|rebel]] States 
 leaders to that glorious epoch when the last remnant of a monarch's rule
 was to leave their shores--when the last waving of the royal standard
 was to flutter as it should be haul'd down from the staff, and its place
-fill'd by the proud testimonial of our warriors' success.
+fill'd by the proud testimonial of our warriors' [[success]].
 
 Pleasantly over the [[motifs/autumn|autumn]] fields shone the November sun, when a
 horseman, of somewhat military look, plodded slowly along the [[motifs/road|road]] that
@@ -17094,9 +17095,9 @@ evident signs of occupancy around the building, the traveler made his
 entrance as composedly and boldly as though he were master of the whole
 establishment.
 
-Now the house being in a measure deserted for many years, and the
+Now the [[house]] being in a measure deserted for many years, and the
 successful termination of the strife rendering it probable that the
-Vanhome estate would be confiscated to the new government, an aged,
+Vanhome estate would be confiscated to the new [[government]], an aged,
 [[concepts/poverty|poverty]]-stricken couple had been encouraged by the neighbors to take
 possession as tenants of the place. Their name was Gills; and these
 people the traveler found upon his entrance were likely to be his host
@@ -17122,7 +17123,7 @@ ourselves at about the same place which we filled in the beginning."
 
 "Can you relate nothing, then?" rejoin'd the guest, and a singular
 smile pass'd over his features; "can you say nothing about your own
-place?--this house or its former inhabitants, or former [[concepts/history|history]]?"
+place?--this [[house]] or its former inhabitants, or former [[concepts/history|history]]?"
 
 The old man glanced across to his wife, and a look expressive of
 sympathetic feeling started in the face of each.
@@ -17315,7 +17316,7 @@ he.
 
 "Mr. Hall's is down the lane that turns off by that big locust tree,"
 answer'd the woman, pointing to the direction through the open door;
-"it's about half a mile from here to his house."
+"it's about half a mile from here to his [[house]]."
 
 The youth, for a minute or two, puff'd the smoke from his mouth very
 leisurely in [[motifs/silence|silence]]. His manner had an air of vacant [[concepts/self-sufficiency|self-sufficiency]],
@@ -17345,7 +17346,7 @@ would ere long lay him in a drunkard's [[motifs/grave|grave]]. The youth inform'
 what the required service was, and promised him the reward as soon as he
 should return,
 
-"Tell [[characters/richard|Richard]] Hall that I am going to his father's house this afternoon.
+"Tell [[characters/richard|Richard]] Hall that I am going to his father's [[house]] this afternoon.
 If he asks who it is that wishes him here, say the person sent no name,"
 continued the stranger, sitting up from his indolent posture, as the
 feet of old Joe were about leaving the door-stone, and his blear'd eyes
@@ -17368,7 +17369,7 @@ in proportion to their age; and his right hand man, if he might not
 be called favorite, was his eldest son [[characters/richard|Richard]]. This eldest son, an
 industrious, sober-faced young fellow, was invested by his father with
 the powers of second in command; and as strict and swift obedience was
-a prime tenet in the farmer's domestic government, the children all
+a prime tenet in the farmer's domestic [[government]], the children all
 tacitly submitted to their brother's sway--all but one, and that was
 Frank. The farmer's wife was a quiet woman, in rather tender health; and
 though for all her offspring she had a mother's [[motifs/love|love]], Frank's kiss
@@ -17453,7 +17454,7 @@ Could it be that Black Nell knew her early master? She neigh'd and
 rubb'd her nose on his shoulder; and as he put his foot in the stirrup
 and [[motifs/rose|rose]] on her back, it was evident that they were both highly pleased
 with their meeting. Bidding his brother farewell, and not forgetting old
-Joe, the young man set forth on his [[motifs/journey|journey]] to his father's house. As he
+Joe, the young man set forth on his [[motifs/journey|journey]] to his father's [[house]]. As he
 left the village behind, and came upon the long monotonous [[motifs/road|road]] before
 him, he thought on the circumstances of his leaving [[motifs/home|home]]--and he
 thought, too, on his course of life, how it was being frittered away
@@ -17461,7 +17462,7 @@ and lost. Very gentle influences, doubtless, came over Wild Frank's
 mind then, and he yearn'd to show his parents that he was sorry for the
 trouble he had cost them. He blamed himself for his former follies, and
 even felt remorse that he had not acted more kindly to [[characters/richard|Richard]], and gone
-to his house. Oh, it had been a sad mistake of the farmer that he did
+to his [[house]]. Oh, it had been a sad mistake of the farmer that he did
 not teach his children to [[motifs/love|love]] one another. It was a foolish thing
 that he prided himself on governing his little flock [[motifs/well|well]], when sweet
 affection, gentle forbearance, and brotherly [[concepts/faith|faith]], were almost unknown
@@ -17546,7 +17547,7 @@ sun shone out as it was dipping in the west. Drops sparkled on the
 leaf-tips--coolness and clearness were in the air.
 
 The clattering of a [[motifs/horse|horse]]'s hoofs came to the ears of those who were
-gather'd there. It was on the other side of the house that the wagon
+gather'd there. It was on the other side of the [[house]] that the wagon
 [[motifs/road|road]] lead; and they open'd the door and rush'd in a tumult of glad
 anticipations, through the adjoining room to the porch. What a sight it
 was that met them there! Black Nell stood a few feet from the door, with
@@ -17608,7 +17609,7 @@ Let me go back--yes, I see it must be many years!
 
 It was at the close of the last century. I was at that [[motifs/time|time]] studying
 law, the profession my father follow'd. One of his clients was an
-elderly widow, a foreigner, who kept a little ale-house, on the banks of
+elderly widow, a foreigner, who kept a little ale-[[house]], on the banks of
 the North [[motifs/river|River]], at about two miles from what is now the centre of the
 [[motifs/city|city]]. Then the spot was quite out of town and surrounded by fields and
 green trees. The widow often invited me to come and pay her a visit,
@@ -17642,7 +17643,7 @@ clear, I bethought myself of the widow and her beer--about which latter
 article I had made inquiries, and heard it spoken of in terms of
 high commendation. I mention'd the matter to Matthew and to my
 fellow-students, and we agreed to fill up our holiday by a jaunt to the
-ale-house. Accordingly, we set forth, and, after a fine walk, arrived in
+ale-[[house]]. Accordingly, we set forth, and, after a fine walk, arrived in
 glorious spirits at our destination.
 
 Ah! how shall I describe the quiet beauties of the spot, with its long,
@@ -17684,7 +17685,7 @@ I need hardly say that thenceforward every Wednesday afternoon was spent
 at the widow's tavern. Strangely, neither Matthew or my two friends, or
 myself, spoke to each other of the sentiment that filled us in reference
 to Ninon. Yet we all knew the thoughts and feelings of the others; and
-each, perhaps, felt confident that his [[motifs/love|love]] alone was unsuspected by his
+each, perhaps, felt confident that his [[motifs/love|love]] [[Alone|alone]] was unsuspected by his
 companions.
 
 The story of the widow was a touching yet simple one. She was by birth
@@ -17715,7 +17716,7 @@ phlegm and patience, and set about making herself and her remaining
 cash, and after due deliberation, the widow purchas'd the little quiet
 tavern, not far from the [[motifs/grave|grave]] of her boy; and of Sundays and holidays
 she took in considerable money--enough to make a decent support for
-them in their humble way of living. French and Germans visited the house
+them in their humble way of living. French and Germans visited the [[house]]
 frequently, and quite a number of young Americans too. Probably the
 greatest attraction to the latter was the sweet face of Ninon.
 
@@ -17743,7 +17744,7 @@ favorite beverage in the same bright tankards. They were set before us
 by the sober Margery, no one else being visible. As frequently happen'd,
 we were the only company. Walking and breathing the keen, fine air had
 made us dry, and we soon drain'd the foaming vessels, and call'd for
-more. I remember [[motifs/well|well]] an animated chat we had about some poems that
+more. I remember [[motifs/well|well]] an animated chat we had about some [[Poems|poems]] that
 had just made their appearance from a great British author, and were
 creating quite a public stir. There was one, a tale of passion and
 [[concepts/despair|despair]], which Wheaton had read, and of which he gave us a transcript.
@@ -17758,7 +17759,7 @@ her a premier duenna!"
 
 I ask'd the woman about Ninon and the widow. She seemed disturb'd, I
 thought; but, making no reply to the first part of my question, said
-that her mistress was in another part of the house, and did not wish to
+that her mistress was in another part of the [[house]], and did not wish to
 be with company.
 
 "Then be kind enough, Mrs. Vinegar," resumed Wheaton, good-naturedly,
@@ -17774,7 +17775,7 @@ behest, and now, if we desired, she would conduct us to the daughter's
 presence. There was a singular expression in the woman's eyes, and
 the whole affair began to strike us as somewhat odd; but we arose, and
 taking our caps, follow'd her as she stepp'd through the door. Back of
-the house were some fields, and a path leading into clumps of trees. At
+the [[house]] were some fields, and a path leading into clumps of trees. At
 some thirty rods distant from the tavern, nigh one of those clumps, the
 larger tree whereof was a willow, Margery stopp'd, and pausing a minute,
 while we came up, spoke in tones calm and low:
@@ -17828,11 +17829,11 @@ THE [[archetypes/child|CHILD]] AND THE PROFLIGATE
 
 Just after sunset, one evening in [[motifs/summer|summer]]--that pleasant hour when the
 air is balmy, the light loses its glare, and all around is imbued with
-soothing quiet--on the door-step of a house there sat an elderly woman
-waiting the arrival of her son. The house was in a straggling village
+soothing quiet--on the door-step of a [[house]] there sat an elderly woman
+waiting the arrival of her son. The [[house]] was in a straggling village
 some fifty miles from [[settings/new-york|New York]] [[motifs/city|city]]. She who sat on the door-step was a
 widow; her white cap cover'd locks of gray, and her dress, though clean,
-was exceedingly homely. Her house--for the tenement she occupied was her
+was exceedingly homely. Her [[house]]--for the tenement she occupied was her
 own--was very little and very old. Trees clustered around it so thickly
 as almost to hide its color--that blackish gray color which belongs to
 old wooden houses that have never been painted; and to get in it you had
@@ -17882,7 +17883,7 @@ There was no earthly means of support on which she had dependence enough
 to encourage her [[archetypes/child|child]] in the wish she knew he was forming--the wish not
 utter'd for the first [[motifs/time|time]]--to be freed from his bondage. "Mother," at
 length said the boy, "I can stand it no longer. I cannot and will not
-stay at Mr. Ellis's. Ever since the day I first went into his house I've
+stay at Mr. Ellis's. Ever since the day I first went into his [[house]] I've
 been a slave; and if I have to work so much longer I know I shall run
 off and go to sea or somewhere else. I'd as leave be in my [[motifs/grave|grave]] as
 there." And the [[archetypes/child|child]] burst into a passionate fit of weeping.
@@ -17901,7 +17902,7 @@ seemed pacified, though occasionally one of those convulsive sighs that
 remain after a fit of weeping, would break from his throat. At the gate
 he threw his arms about his mother's neck; each press'd a long kiss
 on the lips of the other, and the youngster bent his steps towards his
-master's house.
+master's [[house]].
 
 As her [[archetypes/child|child]] pass'd out of sight the widow return'd, shut the gate and
 enter'd her lonely room. There was no light in the old cottage that
@@ -17915,10 +17916,10 @@ neighbors--thoughts, too, of former happy days--these rack'd the widow's
 heart, and made her bed a sleepless one without repose.
 
 The boy bent his steps to his employer's, as has been said. In his way
-down the village street he had to pass a public house, the only one the
+down [[The Village Street|the village street]] he had to pass a public [[house]], the only one the
 place contain'd; and when he came off against it he heard the sound of
 a fiddle--drown'd, however, at intervals, by much laughter and talking.
-The windows were up, and, the house standing close to the [[motifs/road|road]], Charles
+The windows were up, and, the [[house]] standing close to the [[motifs/road|road]], Charles
 thought it no harm to take a look and see what was going on within. Half
 a dozen footsteps brought him to the low casement, on which he lean'd
 his elbow, and where he had a full view of the room and its occupants.
@@ -18131,7 +18132,7 @@ pleasant to dwell upon. His name was Langton--parentless--a dissipated
 young man--a brawler--one whose too frequent companions were rowdies,
 blacklegs, and swindlers. The [[settings/new-york|New York]] police offices were not strangers
 to his countenance. He had been bred to the profession of medicine;
-besides, he had a very respectable income, and his house was in a
+besides, he had a very respectable income, and his [[house]] was in a
 pleasant street on the west side of the [[motifs/city|city]]. Little of his [[motifs/time|time]],
 however, did Mr. John Langton spend at his domestic hearth; and the
 elderly lady who officiated as his housekeeper was by no means surprised
@@ -18303,7 +18304,7 @@ of wealth to the poet. Ridman, in one of his enterprises, found it
 necessary to procure the aid of such a person as Lingave--a writer of
 power, a master of elegant diction, of fine taste, in style passionate
 yet pure, and of the delicate imagery that belongs to the children of
-song. The youth was absolutely startled at the magnificent and permanent
+[[Song|song]]. The youth was absolutely startled at the magnificent and permanent
 remuneration which was held out to him for a moderate exercise of his
 talents.
 
@@ -18370,7 +18371,7 @@ and remarks to his companions, during their stay in that place, were any
 test of his capacity--there might hardly be one more fit to go forward
 as a guide on the [[motifs/road|road]] of destruction. From the conversation of the
 party, it appear'd that they had been spending the early part of the
-evening in a gambling house.
+evening in a gambling [[house]].
 
 A second, third and fourth [[motifs/time|time]] were the glasses fill'd; and the effect
 thereof began to be perceiv'd in a still higher degree of noise and
@@ -18478,7 +18479,7 @@ abundance of railroads, and similar speedy modes of conveyance--the
 travelers from Amboy village to the metropolis of our republic were
 permitted to refresh themselves, and the horses of the stage had a
 breathing spell, at a certain old-fashion'd tavern, about half way
-between the two places. It was a quaint, comfortable, ancient house,
+between the two places. It was a quaint, comfortable, ancient [[house]],
 that tavern. Huge buttonwood trees embower'd it round about, and there
 was a long porch in front, the trellis'd work whereof, though old and
 moulder'd, had been, and promised still to be for years, held together
@@ -18647,15 +18648,15 @@ _April, 1843_.
 
 PAUMANOK.
 
-WOUNDED IN THE HOUSE OF FRIENDS
+WOUNDED IN THE [[house|HOUSE]] OF FRIENDS
 
 _"And one shall say unto him. What are these wounds in thy hands?
-Then he shall answer Those with which I was wounded in the house of my
+Then he shall answer Those with which I was wounded in the [[house]] of my
 friends."--Zechariah, xiii. 6._
 
 If thou art balk'd, O [[concepts/freedom|Freedom]],
 The victory is not to thy manlier foes;
-From the house of friends comes the [[motifs/death|death]] stab.
+From the [[house]] of friends comes the [[motifs/death|death]] stab.
 
 Virginia, mother of [[concepts/greatness|greatness]],
 Blush not for being also mother of slaves;
@@ -18854,7 +18855,7 @@ greater than itself--not the [[archetypes/hero|hero]], but the portrait of the [
 there can be recorded [[concepts/history|history]] or poem there must be the transaction.
 Beyond the old masterpieces, the Iliad, the interminable Hindu epics,
 the Greek tragedies, even the [[historical-references/bible|Bible]] itself, range the immense facts of
-what must have preceded them, their _sine qua non_--the veritable poems
+what must have preceded them, their _sine qua non_--the veritable [[Poems|poems]]
 and masterpieces, of which, grand as they are, the word-statements are
 but shreds and cartoons.
 
@@ -18864,7 +18865,7 @@ largest scales and in countless varieties, are now and here presented.
 Not as our poets and preachers are always conventionally putting it--but
 quite different. Some colossal foundry, the flaming of the [[motifs/fire|fire]], the
 melted metal, the pounding trip-hammers, the surging crowds of workmen
-shifting from point to point, the murky shadows, the rolling haze, the
+shifting from point to point, the murky shadows, the [[rolling]] haze, the
 discord, the crudeness, the deafening din, the disorder, the dross and
 clouds of [[motifs/dust|dust]], the waste and extravagance of material, the shafts of
 darted sunshine through the vast open roof-scuttles aloft-the mighty
@@ -18908,7 +18909,7 @@ the current popular writer and reader of verse, what the office of
 poet was in primeval times--and is yet capable of being, anew, adjusted
 entirely to the modern?
 
-All the poems of Orientalism, with the Old and New Testaments at
+All the [[Poems|poems]] of Orientalism, with the Old and New Testaments at
 the centre, tend to deep and wide, (I don't know but the deepest and
 widest,) psychological development--with little, or nothing at all,
 of the mere esthetic, the principal verse-requirement of our day. Very
@@ -18938,7 +18939,7 @@ masterpieces of Hellas, and all masterpieces.
 
 The metaphors daring beyond account, the lawless [[motifs/soul|soul]], extravagant
 by our standards, the glow of [[motifs/love|love]] and [[concepts/friendship|friendship]], the fervent
-kiss--nothing in argument or logic, but unsurpass'd in proverbs, in
+kiss--nothing in argument or [[logic]], but unsurpass'd in proverbs, in
 religious ecstasy, in suggestions of common [[concepts/mortality|mortality]] and [[motifs/death|death]], man's
 great equalizers--the spirit everything, the ceremonies and forms of the
 churches nothing, [[concepts/faith|faith]] limitless, its immense sensuousness immensely
@@ -18950,10 +18951,10 @@ Memoriam."
 
 The culminated proof of the poetry of a country is the quality of its
 personnel, which, in any race, can never be really superior without
-superior poems. The finest blending of individuality with universality
+superior [[Poems|poems]]. The finest blending of individuality with universality
 (in my opinion nothing out of the galaxies of the "Iliad," or
 Shakspere's heroes, or from the Tennysonian "Idylls," so lofty, devoted
-and starlike,) typified in the songs of those old Asiatic lands. Men
+and starlike,) typified in the [[songs]] of those old Asiatic lands. Men
 and women as great columnar trees. Nowhere else the abnegation of [[concepts/self|self]]
 towering in such quaint sublimity; nowhere else the simplest human
 emotions conquering the gods of heaven, and fate itself. (The episode,
@@ -18994,7 +18995,7 @@ struggles and surroundings, of which it has been the scene and
 motive--even the horrors, dreads, deaths. How many ages and generations
 have brooded and wept and agonized over this book! What untellable joys
 and ecstasies--what support to martyrs at the stake--from it. (No really
-great song can ever attain full purport till long after the [[motifs/death|death]] of
+great [[Song|song]] can ever attain full purport till long after the [[motifs/death|death]] of
 its singer--till it has accrued and incorporated the many passions, many
 joys and sorrows, it has itself arous'd.) To what myriads has it been
 the shore and rock of safety--the refuge from driving tempest and wreck!
@@ -19034,7 +19035,7 @@ definite element-principle of the work, evolving everything else. Then
 the continuity; the oldest and newest Asiatic utterance and character,
 and all between, holding together, like the apparition of the sky,
 and coming to us the same. Even to our Nineteenth Century here are the
-fountain heads of song.
+fountain heads of [[Song|song]].
 
 FATHER TAYLOR (AND ORATORY)
 
@@ -19072,7 +19073,7 @@ the evident effect upon them of the place, occasion, and atmosphere.
 The pulpit, rising ten or twelve feet high, against the rear wall, was
 back' d by a significant mural painting, in oil--showing out its bold
 lines and strong hues through the subdued light of the building--of a
-stormy sea, the waves high-rolling, and amid them an old-style [[motifs/ship|ship]],
+stormy sea, the waves high-[[rolling]], and amid them an old-style [[motifs/ship|ship]],
 all bent over, driving through the gale, and in great peril--a vivid
 and effectual piece of limning, not meant for the criticism of artists
 (though I think it had merit even from that standpoint,) but for its
@@ -19260,7 +19261,7 @@ get it all, the chief in a complexity of puzzles. Conceiv'd out of
 the fullest heat and pulse of European feudalism--personifying in
 unparallel'd ways the mediaeval aristocracy, its towering spirit of
 ruthless and gigantic caste, with its own peculiar air and arrogance
-(no mere imitation)--only one of the "wolfish earls" so plenteous in the
+(no mere [[Imitation|imitation]])--only one of the "wolfish earls" so plenteous in the
 plays themselves, or some born descendant and knower, might seem to be
 the true author of those amazing works--works in some respects greater
 than anything else in recorded literature.
@@ -19308,7 +19309,7 @@ certainly and subtly saps and mines.
 
 Reading the just-specified play in the light of Mr. O'Connor's
 suggestion, I defy any one to escape such new and deep
-utterance-meanings, like magic ink, warm' d by the [[motifs/fire|fire]], and previously
+utterance-meanings, like [[Magic|magic]] ink, warm' d by the [[motifs/fire|fire]], and previously
 invisible. Will it not indeed be strange if the author of "[[characters/othello|Othello]]" and
 "[[characters/hamlet|Hamlet]]" is destin'd to live in [[settings/america|America]], in a generation or two, less as
 the cunning draughtsman of the passions, and more as putting on record
@@ -19344,14 +19345,14 @@ architectonics, is a secondary question.
 
 A THOUGHT ON SHAKSPERE
 
-The most distinctive poems--the most permanently rooted and with
+The most distinctive [[Poems|poems]]--the most permanently rooted and with
 heartiest reason for being--the copious cycle of Arthurian legends, or
-the almost equally copious Charlemagne cycle, or the poems of the Cid,
+the almost equally copious Charlemagne cycle, or the [[Poems|poems]] of the Cid,
 or Scandinavian Eddas, or Nibelungen, or Chaucer, or Spenser, or _bona
 fide_ Ossian, or Inferno--probably had their rise in the great historic
 perturbations, which they came in to sum up and confirm, indirectly
 embodying results to date. Then however precious to "culture," the
-grandest of those poems, it may be said, preserve and typify results
+grandest of those [[Poems|poems]], it may be said, preserve and typify results
 offensive to the modern spirit, and long past away. To state it briefly,
 and taking the strongest examples, in Homer lives the ruthless military
 prowess of Greece, and of its special god-descended dynastic houses;
@@ -19361,10 +19362,10 @@ caste.
 Poetry, largely consider'd, is an evolution, sending out improved
 and-ever-expanded types--in one sense, the past, even the best of it,
 necessarily giving place, and dying out. For our existing world,
-the bases on which all the grand old poems were built have become
+the bases on which all the grand old [[Poems|poems]] were built have become
 vacuums--and even those of many comparatively modern ones are broken and
 half-gone. For us to-day, not their own intrinsic value, vast as that
-is, backs and maintains those poems--but a mountain-high growth of
+is, backs and maintains those [[Poems|poems]]--but a mountain-high growth of
 associations, the layers of successive ages. Everywhere--their own lands
 included--(is there not something terrible in the tenacity with which
 the one book out of millions holds its grip?)--the Homeric and Virgilian
@@ -19423,17 +19424,17 @@ will be assign'd them on that great roster of geniuses and genius which
 can only be finish'd by the slow but sure balancing of the centuries
 with their ample average--I of course cannot tell. But as we know him,
 from his recorded utterances, and after nearly one century, and its
-diligence of collections, songs, letters, anecdotes, presenting the
+diligence of collections, [[songs]], letters, anecdotes, presenting the
 figure of the canny Scotchman in a fullness and detail wonderfully
 complete, and the lines mainly by his own hand, he forms to-day, in some
 respects, the most interesting personality among singers. Then there are
-many things in Burns's poems and character that specially endear him to
+many things in Burns's [[Poems|poems]] and character that specially endear him to
 [[settings/america|America]]. He was essentially a Republican--would have been at [[motifs/home|home]] in
 the Western United States, and probably become eminent there. He was
 an average sample of the good-natured, warm-blooded, proud-spirited,
 amative, alimentive, convivial, young and early-middle-aged man of the
 decent-born middle classes everywhere and any how. Without the race of
-which he is a distinct specimen, (and perhaps his poems) [[settings/america|America]] and
+which he is a distinct specimen, (and perhaps his [[Poems|poems]]) [[settings/america|America]] and
 her powerful [[concepts/democracy|Democracy]] could not exist to-day--could not project with
 unparallel'd historic sway into the future.
 
@@ -19461,7 +19462,7 @@ Mr. Thompson, Dr. Moore, Robert Muir, Mr. Cunningham, Miss Margaret
 Chalmers, Peter [[motifs/hill|Hill]], [[characters/richard|Richard]] Brown, Mrs. Riddel, Robert Ainslie, and
 Robert Graham, afford valuable lights and shades to the outline, and
 with numerous others, help to a touch here, and fill-in there, of
-poet and poems. There are suspicions, it is true, of "the Genteel
+poet and [[Poems|poems]]. There are suspicions, it is true, of "the Genteel
 Letter-Writer," with scraps and words from "the Manual of French
 Quotations," and, in the [[motifs/love|love]]-letters, some hollow mouthings. Yet we
 wouldn't on any account lack the letters. A full and true portrait is
@@ -19502,7 +19503,7 @@ his life, his being taboo'd and in debt, sick and sore, yaw'd as by
 contending gales, deeply dissatisfied with everything, most of all with
 himself--high-spirited too--(no man ever really higher-spirited than
 Robert Burns.) I think it a perfectly legitimate part too. At any rate
-it has come to be an impalpable aroma through which only both the songs
+it has come to be an impalpable aroma through which only both the [[songs]]
 and their singer must henceforth be read and absorb'd. Through that
 view-medium of misfortune--of a noble spirit in low environments, and of
 a squalid and premature [[motifs/death|death]]--we view the undoubted facts, (giving, as
@@ -19511,7 +19512,7 @@ else, the lyrics of illicit loves and carousing intoxication. Perhaps
 even it is this strange, impalpable _post-mortem_ comment and influence
 referr'd to, that gives them their contrast, attraction, making the
 zest of their author's after fame. If he had lived steady, fat, moral,
-comfortable, [[motifs/well|well]]-to-do years, on his own grade, (let alone, what of
+comfortable, [[motifs/well|well]]-to-do years, on his own grade, (let [[Alone|alone]], what of
 course was out of the question, the ease and velvet and rosewood and
 copious royalties of Tennyson or Victor Hugo or Longfellow,) and died
 [[motifs/well|well]]-ripen'd and respectable, where could have come in that burst
@@ -19546,9 +19547,9 @@ Tak' a' the rest."
 See also his rhym'd letters to Robert Graham invoking patronage; "one
 stronghold," Lord Glencairn, being dead, now these appeals to "Fintra,
 my other stay," (with in one letter a copious shower of vituperation
-generally.) In his collected poems there is no particular unity, nothing
-that can be called a leading theory, no unmistakable spine or skeleton.
-Perhaps, indeed, their very desultoriness is the charm of his songs: "I
+generally.) In his collected [[Poems|poems]] there is no particular [[unity]], nothing
+that can be called a leading theory, no unmistakable spine or [[skeleton]].
+Perhaps, indeed, their very desultoriness is the charm of his [[songs]]: "I
 take up one or another," he says in a letter to Thompson, "just as the
 bee of the moment buzzes in my bonnet-lug."
 
@@ -19563,7 +19564,7 @@ spirit with Burns's own case, (and not a little painful as it remains
 on record, as depicting some features of the bard himself,) the relation
 called _patronage_ existed between the nobility and gentry on one
 side, and literary people on the other, and gives one of the strongest
-side-lights to the general coloring of poems and poets. It crops out a
+side-lights to the general coloring of [[Poems|poems]] and poets. It crops out a
 good deal in Burns's Letters, and even necessitated a certain flunkeyism
 on occasions, through life. It probably, with its requirements, (while
 it help'd in money and countenance) did as much as any one cause in
@@ -19579,7 +19580,7 @@ genteel style of gilt and china, or at second or third removes, but in
 their own born atmosphere, laughter, sweat, unction. Perhaps no one ever
 sang "lads and lasses"--that universal race, mainly the same, too, all
 ages, all lands--down on their own plane, as he has. He exhibits
-no philosophy worth mentioning; his morality is hardly more than
+no [[philosophy]] worth mentioning; his [[morality]] is hardly more than
 parrot-talk--not bad or deficient, but cheap, shopworn, the platitudes
 of old aunts and uncles to the youngsters (be good boys and keep your
 noses clean.) Only when he gets at Poosie Nansie's, celebrating the
@@ -19618,7 +19619,7 @@ of that [[motifs/time|time]], and of his short personal career as author, from 1
 from the shackles of the kirk, from [[concepts/poverty|poverty]], ignorance, and from his
 own rank appetites--(out of which latter, however, he never extricated
 himself.) It is to be said that amid not a little smoke and gas in his
-poems, there is in almost every piece a spark of [[motifs/fire|fire]], and now and then
+[[Poems|poems]], there is in almost every piece a spark of [[motifs/fire|fire]], and now and then
 the real afflatus. He has been applauded as democratic, and with some
 warrant; while Shakspere, and with the greatest warrant, has been called
 monarchical or aristocratic (which he certainly is.) But the splendid
@@ -19634,7 +19635,7 @@ simplest and sweetest ones; but harmonies, complications, oratorios in
 words, never. (I do not speak this in any deprecatory sense. Blessed be
 the [[motifs/memory|memory]] of the warm-hearted Scotchman for what he has left us, just
 as it is!) He likewise did not know himself, in more ways than one.
-Though so really fret and independent, he prided himself in his songs on
+Though so really fret and independent, he prided himself in his [[songs]] on
 being a reactionist and a Jacobite--on persistent sentimental adherency
 to the cause of the Stuarts--the weakest, thinnest, most faithless,
 brainless dynasty that ever held a throne.
@@ -19644,7 +19645,7 @@ sense that Isaiah and Eschylus and the book of Job are unquestionably
 great--is not to be mention'd with Shakspere--hardly even with current
 Tennyson or our Emerson--he has a nestling niche of his own, all
 fragrant, fond, and quaint and homely--a lodge built near but outside
-the mighty temple of the gods of song and art--those universal strivers,
+the mighty temple of the gods of [[Song|song]] and art--those universal strivers,
 through their works of harmony and melody and power, to ever show or
 intimate man's crowning, last, victorious fusion in himself of Real
 and Ideal. Precious, too--fit and precious beyond all singers, high
@@ -19653,7 +19654,7 @@ working-classes of North Britain; so intensely one of them, and so racy
 of the soil, sights, and local customs. He often apostrophizes Scotland,
 and is, or would be, enthusiastically patriotic. His country has lately
 commemorated him in a statue.[40] His aim is declaredly to be 'a Rustic
-Bard.' His poems were all written in youth or young manhood, (he was
+Bard.' His [[Poems|poems]] were all written in youth or young manhood, (he was
 little more than a young man when he died.) His collected works in
 giving everything, are nearly one half first drafts. His brightest hit
 is his use of the Scotch patois, so full of terms flavor'd like wild
@@ -19671,7 +19672,7 @@ often something in the very neglect, unfinish, careless nudity, slovenly
 hiatus, coming from intrinsic genius, and not "put on," that secretly
 pleases the [[motifs/soul|soul]] more than the wrought and re-wrought polish of the most
 perfect verse?) Mark the native spice and untranslatable twang in the
-very names of his songs-"O for ane and twenty, Tam," "John Barleycorn,"
+very names of his [[songs]]-"O for ane and twenty, Tam," "John Barleycorn,"
 "Last May a braw Wooer," "Rattlin roarin Willie," "O wert thou in the
 cauld, cauld blast," "Gude e'en to you, Kimmer," "Merry hae I been
 teething a Heckle," "O lay thy loof in mine, lass," and others.
@@ -19682,15 +19683,15 @@ teething a Heckle," "O lay thy loof in mine, lass," and others.
 <span class="atom-split" data-atom="story_46_hospital_perplexity--part_154" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 154)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/blood,motif/home,motif/nature,motif/night,motif/prayer,motif/well,concept/imagination,concept/nature,concept/paradox"></span>
 
 
-The longer and more elaborated poems of Burns are just such as would
+The longer and more elaborated [[Poems|poems]] of Burns are just such as would
 please a natural but homely taste, and cute but average intellect, and
-are inimitable in their way. The "Twa Dogs," (one of the best) with the
+are inimitable in their way. The "Twa [[dogs|Dogs]]," (one of the best) with the
 conversation between Cesar and Luath, the "Brigs of Ayr," "the Cotter's
 Saturday [[motifs/night|Night]]," "Tam O'Shanter"--all will be long read and re-read and
 admired, and ever deserve to be. With nothing profound in any of them,
 what there is of moral and plot has an inimitably fresh and racy flavor.
 If it came to question, Literature could [[motifs/well|well]] afford to send adrift many
-a pretensive poem, and even book of poems, before it could spare these
+a pretensive poem, and even book of [[Poems|poems]], before it could spare these
 compositions.
 
 Never indeed was there truer utterance in a certain range of
@@ -19719,13 +19720,13 @@ the black and desperate background behind those pieces--as I shall now
 specify them. I find his most characteristic, [[concepts/nature|Nature]]'s masterly touch
 and luxuriant life-[[motifs/blood|blood]], color and heat, not in "Tam O'Shanter," "the
 Cotter's Saturday [[motifs/night|Night]]," "Scots wha hae," "Highland Mary," "the Twa
-Dogs," and the like, but in "the Jolly Beggars," "Rigs of Barley,"
+[[dogs|Dogs]]," and the like, but in "the Jolly Beggars," "Rigs of Barley,"
 "Scotch Drink," "the Epistle to John Rankine," "Holy Willie's [[motifs/prayer|Prayer]],"
 and in "Halloween," (to say nothing of a certain cluster, known still to
 a small inner circle in Scotland, but, for good reasons, not published
 anywhere.) In these compositions, especially the first, there is much
 indelicacy (some editions flatly leave it out,) but the composer reigns
-alone, with handling free and broad and true, and is an [[archetypes/artist|artist]]. You may
+[[Alone|alone]], with handling free and broad and true, and is an [[archetypes/artist|artist]]. You may
 see and feel the man indirectly in his other verses, all of them,
 with more or less life-likeness--but these I have named last call out
 pronouncedly in his own voice,
@@ -19769,13 +19770,13 @@ statue is of Sicilian marble. It rests on a pedestal of gray stone five
 feet high. The poet is represented as sitting easily on an old tree
 root, holding in his left hand a cluster of daisies. His face is turn'd
 toward the right shoulder, and the eyes gaze into the distance. Near by
-lie a collie dog, a broad bonnet half covering a [[motifs/well|well]]-thumb'd song-book,
+lie a collie dog, a broad bonnet half covering a [[motifs/well|well]]-thumb'd [[Song|song]]-book,
 and a rustic flageolet. The costume is taken from the Nasmyth portrait,
 which has been follow'd for the features of the face.
 
 A WORD ABOUT TENNYSON
 
-Beautiful as the song was, the original "Locksley Hall" of half a
+Beautiful as the [[Song|song]] was, the original "Locksley Hall" of half a
 century ago was essentially morbid, heart-broken, finding fault with
 everything, especially the fact of money's being made (as it ever must
 be, and perhaps should be) the paramount matter in worldly affairs;
@@ -19866,7 +19867,7 @@ in the line,
 And hollow, hollow, hollow, all delight,
 
 in "The Passing of [[characters/arthur|Arthur]]," and evidenced in "The Lady of Shalott," "The
-Deserted House," and many other pieces. Among the best (I often linger
+Deserted [[house|House]]," and many other pieces. Among the best (I often linger
 over them again and again) are "Lucretius," "The Lotos Eaters," and "The
 Northern Farmer." His mannerism is great, but it is a noble and welcome
 mannerism. His very best work, to me, is contain'd in the books of "The
@@ -19893,7 +19894,7 @@ fathers stay'd, and live as they lived.
 
 May-be I am non-literary and non-decorous (let me at least be human, and
 pay part of my debt) in this word about Tennyson. I want him to realize
-that here is a great and ardent Nation that absorbs his songs, and has
+that here is a great and ardent Nation that absorbs his [[songs]], and has
 a respect and affection for him personally, as almost for no other
 foreigner. I want this word to go to the old man at Farringford as
 conveying no more than the simple [[concepts/truth|truth]]; and that [[concepts/truth|truth]] (a little
@@ -19903,7 +19904,7 @@ people in the New World not only owe to him some of their most agreeable
 and harmless and healthy hours, but he has enter'd into the formative
 influences of character here, not only in the Atlantic cities, but
 inland and far West, out in Missouri, in Kansas, and away in Oregon, in
-farmer's house and miner's cabin.
+farmer's [[house]] and miner's cabin.
 
 
 
@@ -19940,7 +19941,7 @@ enters a personage like one of Shakspere's clowns, and takes position
 there, and plays a part even in the stateliest ceremonies. Such is
 Slang, or indirection, an attempt of common humanity to escape from
 bald literalism, and express itself illimitably, which in highest walks
-produces poets and poems, and doubtless in pre-historic times gave
+produces poets and [[Poems|poems]], and doubtless in pre-historic times gave
 the start to, and perfected, the whole immense tangle of the old
 mythologies. For, curious as it may appear, it is strictly the
 same impulse-source, the same thing. Slang, too, is the wholesome
@@ -19975,7 +19976,7 @@ intellect. "Those mighty works of art," says Addington Symonds,
 "which we call languages, in the construction of which whole peoples
 unconsciously co-operated, the forms of which were determin'd not by
 individual genius, but by the instincts of successive generations,
-acting to one end, inherent in the [[concepts/nature|nature]] of the race--Those poems of
+acting to one end, inherent in the [[concepts/nature|nature]] of the race--Those [[Poems|poems]] of
 pure thought and fancy, cadenced not in words, but in living imagery,
 fountain-heads of inspiration, mirrors of the mind of nascent nations,
 which we call Mythologies--these surely are more marvellous in their
@@ -20091,7 +20092,7 @@ Horn-point; Round-[[motifs/wind|Wind]]; Stand-and-look-out; The-Cloud-that-goes-
 Iron-toe; Seek-the-sun; Iron-flash; Red-bottle; White-spindle;
 Black-dog; Two-feathers-of-honor; Gray-grass; Bushy-tail; Thunder-face;
 Go-on-the-burning-sod; Spirits-of-the-dead. _Women's_, Keep-the-[[motifs/fire|fire]];
-Spiritual-woman; Second-daughter-of-the-house; Blue-bird.
+Spiritual-woman; Second-daughter-of-the-[[house]]; Blue-bird.
 
 Certainly philologists have not given enough attention to this element
 and its results, which, I repeat, can probably be found working every
@@ -20196,7 +20197,7 @@ rate, in the usual sense) as a leading word in the description of those
 great aboriginal specimens, of whom I certainly saw many of the best.
 There were moments, as I look'd at them or studied them, when our own
 exemplification of personality, dignity, heroic presentation anyhow (as
-in the conventions of society, or even in the accepted poems and plays,)
+in the conventions of society, or even in the accepted [[Poems|poems]] and plays,)
 seem'd sickly, puny, inferior.
 
 The interpreters, agents of the Indian Department, or other whites
@@ -20273,7 +20274,7 @@ like a human face up there than ever before. As it grows later, we have
 such gorgeous and broad cloud-effects, with Luna's tawny halos,
 silver edgings--great fleeces, depths of blue-black in patches, and
 occasionally long, low bars hanging silently a while, and then gray
-bulging masses rolling along stately, sometimes in long procession.
+bulging masses [[rolling]] along stately, sometimes in long procession.
 The [[motifs/moon|moon]] travels in Scorpion to-[[motifs/night|night]], and dims all the [[motifs/stars|stars]] of that
 constellation except fiery Antares, who keeps on shining just to the big
 one's side.
@@ -20302,11 +20303,11 @@ the twenty-four delightfully fresh and mild--cool evenings, and early
 mornings perfect. The scent of the woods, and the peculiar aroma of a
 great yet unreap'd maize-field near by--the white butterflies in every
 direction by day--the golden-rod, the wild asters, and sunflowers--the
-song of the katydid all [[motifs/night|night]].
+[[Song|song]] of the katydid all [[motifs/night|night]].
 
 Every day in Cooper's Woods, enjoying simple existence and the passing
 hours--taking short walks--exercising arms and chest with the saplings,
-or my voice with army songs or recitations. A perfect week for weather;
+or my voice with army [[songs]] or recitations. A perfect week for weather;
 seven continuous days bright and dry and cool and sunny. The nights
 splendid, with full [[motifs/moon|moon]]--about 10 the grandest of star-shows up in the
 east and south, Jupiter, [[characters/saturn|Saturn]], Capella, Aldebaran, and great Orion.
@@ -20369,7 +20370,7 @@ of the West, near the Mississippi. I went down that way to-day by the
 Iron Mountain Railroad--was switch'd off on a side-track four miles
 through woods and ravines, to Swash Creek, so-call'd, and there found
 Crystal [[motifs/city|city]], and immense Glass Works, built (and evidently built to
-stay) right in the pleasant rolling forest. Spent most of the day, and
+stay) right in the pleasant [[rolling]] forest. Spent most of the day, and
 examin'd the inexhaustible and peculiar sand the glass is made of--the
 original whity-gray stuff in the banks--saw the melting in the pots (a
 wondrous process, a real poem)--saw the delicate preparation the clay
@@ -20442,7 +20443,7 @@ _April 7, 1864_.--Warmish forenoon, after the [[motifs/storm|storm]] of the past
 days. I see, passing up, in the broad space between the curbs, a big
 squad of a couple of hundred conscripts, surrounded by a strong
 cordon of arm'd guards, and others interspers'd between the ranks. The
-government has learn'd caution from its experiences; there are many
+[[government]] has learn'd caution from its experiences; there are many
 hundreds of "bounty jumpers," and already, as I am told, eighty thousand
 deserters! Next (also passing up the Avenue,) a cavalry company, young,
 but evidently [[motifs/well|well]] drill'd and service-harden'd men. Mark the upright
@@ -20456,7 +20457,7 @@ insignia,) the military patrol marching along, with the orderly or
 second-lieutenant stopping different ones to examine passes--the forms,
 the faces, all sorts crowded together, the worn and pale, the pleas'd,
 some on their way to the railroad depot going [[motifs/home|home]], the cripples, the
-darkeys, the long trains of government wagons, or the sad strings of
+darkeys, the long trains of [[government]] wagons, or the sad strings of
 ambulances conveying wounded--the many officers' horses tied in front
 of the drinking or oyster saloons, or held by black men or boys, or
 orderlies.
@@ -20566,8 +20567,8 @@ to argue the case--only to give my reminiscence literally, as jotted on
 the spot at the [[motifs/time|time]]."
 
 I write this on Mason's (otherwise Analostan) island, under the fine
-shade trees of an old white stucco house, with big rooms; the white
-stucco house, originally a fine country seat (tradition says the famous
+shade trees of an old white stucco [[house]], with big rooms; the white
+stucco [[house]], originally a fine country seat (tradition says the famous
 Virginia Mason, author of the Fugitive Slave Law, was born here.)
 I reach'd the spot from my Washington quarters by ambulance up
 Pennsylvania avenue, through Georgetown, across the Aqueduct bridge, and
@@ -20644,7 +20645,7 @@ As we enter'd the island, we saw scores at a little distance, bathing,
 washing their clothes, &c. The officers, as far as looks go, have a fine
 appearance, have good faces, and the air military. Altogether it is a
 significant show, and brings up some "abolition" thoughts. The scene,
-the porch of an Old Virginia slave-owner's house, the Potomac rippling
+the porch of an Old Virginia slave-owner's [[house]], the Potomac rippling
 near, the Capitol just down three or four miles there, seen through the
 pleasant blue haze of this July day.
 
@@ -20659,16 +20660,16 @@ wildness, and stopt in this solitary spot. A [[motifs/water|water]] snake wriggl
 the bank, disturb'd, into the [[motifs/water|water]]. The bank near by is fringed with a
 dense growth of shrubbery, vines, &c.
 
-FIVE THOUSAND POEMS
+FIVE THOUSAND [[Poems|POEMS]]
 
 There have been collected in a cluster nearly five thousand big and
-little American poems--all that diligent and long-continued research
+little American [[Poems|poems]]--all that diligent and long-continued research
 could lay hands on! The author of 'Old Grimes is Dead' commenced
 it, more than fifty years ago; then the cluster was pass'd on and
 accumulated by C. F. Harris; then further pass'd on and added to by the
 late Senator Anthony, from whom the whole collection has been bequeath'd
 to Brown University. A catalogue (such as it is) has been made and
-publish'd of these five thousand poems--and is probably the most curious
+publish'd of these five thousand [[Poems|poems]]--and is probably the most curious
 and suggestive part of the whole affair. At any rate it has led me to
 some abstract reflection like the following.
 
@@ -20680,7 +20681,7 @@ progress, and of evolution, the religious and esthetic elements, the
 distinctive and most important of any, seem to me more indebted to
 poetry than to all other means and influences combined. In a very
 profound sense _religion is the poetry of humanity_. Then the points of
-[[concepts/union|union]] and rapport among all the poems and poets of the world, however
+[[concepts/union|union]] and rapport among all the [[Poems|poems]] and poets of the world, however
 wide their separations of [[motifs/time|time]] and place and theme, are much more
 numerous and weighty than the points of contrast. Without relation as
 they may seem at first sight, the whole earth's poets and poetry--_en
@@ -20711,7 +20712,7 @@ _A Reminiscence of [[settings/new-york|New York]] Plays and Acting Fifty Years A
 
 In an article not long since, "Mrs. Siddons as [[characters/lady-macbeth|Lady Macbeth]]," in "The
 Nineteenth Century," after describing the bitter regretfulness to
-mankind from the loss of those first-class poems, temples, pictures,
+mankind from the loss of those first-class [[Poems|poems]], temples, pictures,
 gone and vanish'd from any record of men, the writer (Fleeming Jenkin)
 continues:
 
@@ -20744,7 +20745,7 @@ For the elderly New Yorker of to-day, perhaps, nothing were more likely
 to start up memories of his early manhood than the mention of the Bowery
 and the elder Booth, At the date given, the more stylish and select
 theatre (prices, 50 cents pit, $1 boxes) was "The Park," a large and
-[[motifs/well|well]]-appointed house on Park Row, opposite the present Post-office.
+[[motifs/well|well]]-appointed [[house]] on Park Row, opposite the present Post-office.
 English opera and the old comedies were often given in capital style;
 the principal foreign [[motifs/stars|stars]] appear'd here, with Italian opera at
 wide intervals. The Park held a large part in my boyhood's and young
@@ -20772,7 +20773,7 @@ from--the heavy [[forms/tragedy|tragedy]] business prevail'd more decidedly at t
 Theatre, where Booth and Forrest were frequently to be heard. Though
 Booth _pere,_ then in his prime, ranging in age from 40 to 44 years (he
 was born in 1796,) was the loyal [[archetypes/child|child]] and continuer of the traditions
-of orthodox English play-acting, he stood out "himself alone" in many
+of orthodox English play-acting, he stood out "himself [[Alone|alone]]" in many
 respects beyond any of his kind on record, and with effects and ways
 that broke through all rules and all traditions. He has been [[motifs/well|well]]
 describ'd as an actor "whose instant and tremendous concentration of
@@ -20800,7 +20801,7 @@ requirements on his fellow-performers.
 
 As is [[motifs/well|well]] known to old play-goers, Booth's most effective part was
 [[characters/richard-iii|Richard III]]. Either that, or lago, or [[characters/shylock|Shylock]], or Pescara in "The
-Apostate," was sure to draw a crowded house. (Remember heavy pieces were
+Apostate," was sure to draw a crowded [[house]]. (Remember heavy pieces were
 much more in demand those days than now.) He was also unapproachably
 grand in Sir Giles Overreach, in "A New Way to Pay Old Debts," and the
 principal character in "The Iron Chest."
@@ -20830,7 +20831,7 @@ shapely, imposing presence, and dark and flashing eyes. I remember [[motifs/well
 his rendering of the main role in Maturin's "[[characters/bertram|Bertram]], or the [[settings/castle|Castle]]
 of St. Aldobrand." But I thought Tom Hamblin's best acting was in the
 comparatively minor part of Faulconbridge in "[[characters/king-john|King John]]"--he himself
-evidently revell'd in the part, and took away the house's applause from
+evidently revell'd in the part, and took away the [[house]]'s applause from
 young Kean (the [[archetypes/king|King]]) and Ellen Tree ([[characters/constance|Constance]],) and everybody else on
 the stage--some [[motifs/time|time]] afterward at the Park. Some of the Bowery actresses
 were remarkably good. I remember Mrs. Pritchard in "Tour de Nesle," and
@@ -20904,7 +20905,7 @@ I happen'd to see what has been reckon'd by experts one of the most
 marvellous pieces of histrionism ever known. It must have been about
 1834 or '35. A favorite comedian and actress at the Bowery, Thomas Flynn
 and his wife, were to have a joint benefit, and, securing Booth for
-[[characters/richard|Richard]], advertised the fact many days beforehand. The house fill'd
+[[characters/richard|Richard]], advertised the fact many days beforehand. The [[house]] fill'd
 early from top to [[characters/bottom|bottom]]. There was some uneasiness behind the scenes,
 for the afternoon arrived, and Booth had not come from down in Maryland,
 where he lived. However, a few minutes before ringing-up [[motifs/time|time]] he made
@@ -20921,7 +20922,7 @@ for the [[forms/tragedy|tragedy]], I can, from my good seat in the pit, pretty [
 see again Booth's quiet entrance from the side, as, with head bent, he
 slowly and in [[motifs/silence|silence]], (amid the tempest of boisterous hand-clapping,)
 walks down the stage to the footlights with that peculiar and abstracted
-gesture, musingly kicking his sword, which he holds off from him by its
+gesture, musingly kicking his [[Sword|sword]], which he holds off from him by its
 sash. Though fifty years have pass'd since then, I can hear the clank,
 and feel the perfect following hush of perhaps three thousand people
 waiting. (I never saw an actor who could make more of the said hush
@@ -21023,7 +21024,7 @@ the Prairies, and on to Denver and the Rocky [[settings/mountains|Mountains]]; a
 north to Canada, where I spent most of the [[motifs/summer|summer]] with my friend Dr.
 Bucke, and jaunted along the great lakes, and the St. Lawrence and
 Saguenay rivers; another [[motifs/time|time]] to Boston, to properly print the final
-edition of my poems (I was there over two months, and had a "good
+edition of my [[Poems|poems]] (I was there over two months, and had a "good
 [[motifs/time|time]].") I have so brought out the completed "[[motifs/leaves|Leaves]] of Grass" during
 this period; also "Specimen Days," of which the foregoing is a
 transcript; collected and re-edited the "Democratic Vistas" cluster (see
@@ -21046,7 +21047,7 @@ the same mentality as ever. The worst of it is, I have been growing
 feebler quite rapidly for a year, and now can't walk around--hardly from
 one room to the next. I am forced to stay in-doors and in my big chair
 nearly all the [[motifs/time|time]]. We have had a sharp, dreary [[motifs/winter|winter]] too, and it has
-pinch'd me. I am alone most of the [[motifs/time|time]]; every week, indeed almost every
+pinch'd me. I am [[Alone|alone]] most of the [[motifs/time|time]]; every week, indeed almost every
 day, write some--reminiscences, essays, sketches, for the magazines;
 and read, or rather I should say dawdle over books and papers a good
 deal--spend half the day at that.
@@ -21289,7 +21290,7 @@ officers at the St. Charles Theatre one evening (after talking with them
 during the day.) There was a short play on the stage, but the principal
 performance was of Dr. Colyer's troupe of "Model Artists," then in
 the full tide of their popularity. They gave many fine groups and solo
-shows. The house was crowded with uniforms and shoulder-straps. Gen. T.
+shows. The [[house]] was crowded with uniforms and shoulder-straps. Gen. T.
 himself, if I remember right, was almost the only officer in civilian
 clothes; he was a jovial, old, rather stout, plain man, with a wrinkled
 and dark-yellow face, and, in ways and manners, show'd the least of
@@ -21385,7 +21386,7 @@ villages.
 
 
 It was 10 o'[[motifs/clock|clock]] A.M. when we got in Chicago, too late for the steamer;
-so we went to an excellent public house, the "American Temperance," and
+so we went to an excellent public [[house]], the "American Temperance," and
 I spent the [[motifs/time|time]] that day and till next morning, looking around Chicago.
 
 At 9 the next forenoon we started on the "Griffith" (on board of which I
@@ -21528,7 +21529,7 @@ A GLINT INSIDE OF [[characters/abraham-lincoln|ABRAHAM LINCOLN]]'S CABINET APPOI
 MANY.
 
 While it was hanging in suspense who should be appointed Secretary of
-the Interior, (to take the place of Caleb Smith,) the choice was very
+the Interior, (to take the place of Caleb [[smith|Smith]],) the choice was very
 close between Mr. Harlan and Col. Jesse K. Dubois, of Illinois. The
 latter had many friends. He was competent, he was honest, and he was a
 man. Mr. Harlan, in the race, finally gain'd the Methodist interest, and
@@ -21542,7 +21543,7 @@ the magnitude of the Methodists as a [[concepts/body|body]], their loyalty, more
 and genuine than any other sect--that they represented the West, and
 had a right to be heard--that all or nearly all the other great
 denominations had their representatives in the heads of the
-government--that they as a [[concepts/body|body]] and the great sectarian power of the
+[[government]]--that they as a [[concepts/body|body]] and the great sectarian power of the
 West, formally ask'd Mr. Harlan's appointment--that he was of them,
 having been a Methodist minister--that it would not do to offend them,
 but was highly necessary to propitiate them.
@@ -21561,7 +21562,7 @@ in the M.C. above alluded to, and said to him: "Tell Uncle Jesse that
 I want to give him this appointment, and yet I cannot. I will do almost
 anything else in the world for him I am able. I have thought the matter
 all over, and under the circumstances think the Methodists too good and
-too great a [[concepts/body|body]] to be slighted. They have stood by the government, and
+too great a [[concepts/body|body]] to be slighted. They have stood by the [[government]], and
 help'd us their very best. I have had no better friends; and as the case
 stands, I have decided to appoint Mr. Harlan."
 
@@ -21779,11 +21780,11 @@ M., there isn't a regiment, cavalry or infantry, that wouldn't do the
 like, on the like occasion.
 
 _April 12_.--I will finish my letter this morning; it is a beautiful
-day. I was up in Congress very late last [[motifs/night|night]]. The House had a very
+day. I was up in Congress very late last [[motifs/night|night]]. The [[house|House]] had a very
 excited [[motifs/night|night]] session about expelling the men that proposed recognizing
 the Southern Confederacy. You ought to hear (as I do) the soldiers talk;
 they are excited to [[concepts/madness|madness]]. We shall probably have hot times here, not
-in the military fields alone. The [[concepts/body|body]] of the army is true and firm as
+in the military fields [[Alone|alone]]. The [[concepts/body|body]] of the army is true and firm as
 the North Star.
 
 _May 6, '64_.--M., the poor soldier with diarrhoea, is still living,
@@ -21814,7 +21815,7 @@ sweat, at length he open'd his eyes quite wide and clear, and look'd
 inquiringly around. I said, "What is it, my boy? Do you want anything?"
 He answer'd quietly, with a good-natured smile, "Oh, nothing; I was only
 looking around to see who was with me." His mind was somewhat wandering,
-yet he lay in an evident peacefulness that sanity and health might
+yet he lay in an evident peacefulness that [[Sanity|sanity]] and health might
 have envied. I had to leave for other engagements. He died, I heard
 afterward, without any special agitation, in the course of the [[motifs/night|night]].
 
@@ -21840,7 +21841,7 @@ It is curious: when I am present at the most appalling scenes, deaths,
 operations, sickening wounds (perhaps full of maggots,) I keep cool and
 do not give out or budge, although my sympathies are very much excited;
 but often, hours afterward, perhaps when I am [[motifs/home|home]], or out walking
-alone, I feel sick, and actually tremble, when I recall the case again
+[[Alone|alone]], I feel sick, and actually tremble, when I recall the case again
 before me.
 
 _Sunday afternoon, opening of 1865_.--Pass'd this afternoon among a
@@ -21994,7 +21995,7 @@ nearly a year, transferr'd from hospital to hospital. He was badly
 wounded in the thigh at Hatcher's Run, February 6, '65.
 
 James E. Ragan, Atlanta, Georgia; 2d United States Infantry. [[concepts/union|Union]]
-folks. Brother impress'd, deserted, died; now no folks, left alone
+folks. Brother impress'd, deserted, died; now no folks, left [[Alone|alone]]
 in the world, is in a singularly nervous state; came in hospital with
 intermittent fever.
 
@@ -22130,7 +22131,7 @@ his ladhood a thorough gunner and fisherman. The farm of his parents lay
 on the south or sea-shore side of Long Island, (they had early removed
 from Jericho,) one of the best regions in the world for wild fowl and
 for fishing. Elias became a good horseman, too, and knew the animal
-[[motifs/well|well]], riding races; also a singer fond of "vain songs," as he afterwards
+[[motifs/well|well]], riding races; also a singer fond of "vain [[songs]]," as he afterwards
 calls them; a dancer, too, at the country balls. When a boy of 13 he had
 gone to live with an elder brother; and when about 17 he changed again
 and went as apprentice to the carpenter's trade. The [[motifs/time|time]] of all this
@@ -22164,7 +22165,7 @@ my [[motifs/time|time]] in fishing and fowling had frequently tended to preser
 me from falling into hurtful associations; but through the rising
 intimations and reproofs of divine grace in my heart, I now began to
 feel that the manner in which I sometimes amus'd myself with my gun
-was not without sin; for although I mostly preferr'd going alone,
+was not without sin; for although I mostly preferr'd going [[Alone|alone]],
 and while waiting in stillness for the coming of the fowl,
 mind was at times so taken up in divine meditations, that the
 opportunities were [[motifs/seasons|seasons]] of instruction and comfort to me; yet, on
@@ -22286,7 +22287,7 @@ deliverances, yet those scenes of war and confusion occasion
 many trials and provings in various ways to the faithful. One
 circumstance I am willing to mention, as it caus'd me considerable
 exercise and concern. There was a large cellar under the new
-meeting-house belonging to Friends in [[settings/new-york|New York]], which was generally
+meeting-[[house]] belonging to Friends in [[settings/new-york|New York]], which was generally
 let as a store. When the [[archetypes/king|king]]'s troops enter'd the [[motifs/city|city]], they took
 possession of it for the purpose of depositing their warlike stores;
 and ascertaining what Friends had the care of letting it, their
@@ -22475,7 +22476,7 @@ briefly, as he throws down his armful of kindling-blocks with a bounce
 on the kitchen floor, "Come, mother, Elias preaches to-[[motifs/night|night]]." Then my
 mother, hastening the supper and the table-cleaning afterward, gets a
 neighboring young woman, a friend of the family, to step in and keep
-house for an hour or so--puts the two little ones to bed--and as I had
+[[house]] for an hour or so--puts the two little ones to bed--and as I had
 been behaving [[motifs/well|well]] that day, as a special reward I was allow'd to go
 also.
 
@@ -22497,7 +22498,7 @@ divan running all round the side-walls. Before long the divan and all
 the settees and chairs are fill'd; many fashionables out of curiosity;
 all the principal dignitaries of the town, Gen. Jeremiah Johnson, Judge
 Furman, George Hall, Mr. Willoughby, Mr. Pierrepont, N.B. Morse, Cyrus
-P. Smith, and F.C. Tucker. Many young folks too; some richly dress'd
+P. [[smith|Smith]], and F.C. Tucker. Many young folks too; some richly dress'd
 women; I remember I noticed with one party of ladies a group of
 uniform'd officers, either from the U.S. Navy Yard, or some [[motifs/ship|ship]] in the
 stream, or some adjacent fort. On a slightly elevated platform at the
@@ -22536,7 +22537,7 @@ penetrating--so different from anything in the books--(different as the
 fresh air of a May morning or sea-shore breeze from the atmosphere of a
 perfumer's shop.)
 
-While he goes on he falls into the nasality and sing-song tone sometimes
+While he goes on he falls into the nasality and sing-[[Song|song]] tone sometimes
 heard in such meetings; but in a moment or two more as if recollecting
 himself, he breaks off, stops, and resumes in a natural tone. This
 occurs three or four times during the talk of the evening, till all
@@ -22551,11 +22552,11 @@ only another name for the religious [[concepts/conscience|conscience]]. In my op
 all diagnos'd, like superior doctors, the real in-most disease of our
 times, probably any times. Amid the huge inflammation call'd society,
 and that other inflammation call'd politics, what is there to-day of
-moral power and ethic sanity as antiseptic to them and all? Though I
+moral power and ethic [[Sanity|sanity]] as antiseptic to them and all? Though I
 think the essential elements of the moral [[concepts/nature|nature]] exist latent in the
 good average people of the United States of to-day, and sometimes break
 out strongly, it is certain that any mark'd or dominating National
-Morality (if I may use the phrase) has not only not yet been develop'd,
+[[morality|Morality]] (if I may use the phrase) has not only not yet been develop'd,
 but that--at any rate when the point of view is turn'd on business,
 politics, competition, practical life, and in character and manners in
 our New World--there seems to be a hideous depletion, almost absence, of
@@ -22662,7 +22663,7 @@ and real Christian and [[archetypes/child|child]] of God. And until the professo
 of [[historical-references/christianity|Christianity]] agree to lay aside all their non-essentials in
 religion, and rally to this unchangeable foundation and standard of
 [[concepts/truth|truth]], wars and fightings, confusion and error, will prevail, and
-the angelic song cannot be heard in our land--that of "glory to God
+the angelic [[Song|song]] cannot be heard in our land--that of "glory to God
 in the highest, and on earth peace and good will to men."
 
 But when all nations are made willing to make this inward law and
@@ -22675,7 +22676,7 @@ And then will all those glorious and consoling prophecies recorded
 in the scriptures of [[concepts/truth|truth]] be fulfill'd--"He," the Lord, "shall
 judge among the nations, and shall rebuke many people; and they
 shall beat their swords into ploughshares, and their spears into
-pruning-hooks; nation shall not lift up the sword against nation,
+pruning-hooks; nation shall not lift up the [[Sword|sword]] against nation,
 neither shall they learn war any more. The wolf also shall dwell
 with the [[motifs/lamb|lamb]]; and the cow and the bear shall feed; and the [[motifs/lion|lion]]
 shall eat straw like the ox; and the sucking [[archetypes/child|child]] shall play
@@ -22784,7 +22785,7 @@ actual [[motifs/blood|blood]] of [[characters/christ|Christ]] in itself was no m
 of bulls and goats--not a bit more--not a bit." At these words, after
 a momentary hush, commenced a great tumult. Hundreds [[motifs/rose|rose]] to their
 feet.... Canes were thump'd upon the floor. From all parts of the
-house angry mutterings. Some left the place, but more remain'd, with
+[[house]] angry mutterings. Some left the place, but more remain'd, with
 exclamations, flush'd faces and eyes. This was the definite utterance,
 the overt act, which led to the separation. Families diverg'd--even
 husbands and wives, parents and children, were separated.
@@ -22814,7 +22815,7 @@ and how much of human infirmity was found to be still lurking under
 broad-brim hats and drab coats, must seek for the information in the
 Lives of Elias Hicks and of Thomas Shillitoe, the latter an English
 Friend, who visited us at this unfortunate [[motifs/time|time]], and who exercised his
-gifts as a peace-maker with but little success. The meetings, according
+gifts as a peace-maker with but little [[success]]. The meetings, according
 to his testimony, were sometimes turn'd into mobs. The disruption was
 wide, and seems to have been final. Six of the ten yearly meetings were
 divided; and since that [[motifs/time|time]] various sub-divisions have come, four
@@ -22873,7 +22874,7 @@ are to be [[motifs/crown|crown]]'d and effused by the religious [[concepts/consc
 structure of a human [[concepts/self|self]], or of community, the Moral, the Religious,
 the Spiritual, is strictly analogous to the subtle vitalization and
 antiseptic play call'd Health in the physiologic structure. To person or
-State, the main verteber (or rather _the_ verteber) is Morality.
+State, the main verteber (or rather _the_ verteber) is [[morality|Morality]].
 
 That is indeed the only real vitalization of character, and of all the
 supersensual, even heroic and artistic portions of man or nationality.
@@ -22890,9 +22891,9 @@ Doubtless the greatest scientists and theologians will sometimes find
 themselves saying, It isn't only those who know most, who contribute
 most to God's glory. Doubtless these very scientists at times stand with
 bared heads before the humblest lives and personalities. For there is
-something greater (is there not?) than all the science and poems of the
+something greater (is there not?) than all the science and [[Poems|poems]] of the
 world--above all else, like the [[motifs/stars|stars]] shining eternal--above Shakspere's
-plays, or Concord philosophy, or art of [[characters/angelo|Angelo]] or Raphael--something
+plays, or Concord [[philosophy]], or art of [[characters/angelo|Angelo]] or Raphael--something
 that shines elusive, like beams of Hesperus at evening--high above all
 the vaunted wealth and [[concepts/pride|pride]]--prov'd by its practical outcropping in
 life, each case after its own concomitants--the intuitive blending of
@@ -22912,7 +22913,7 @@ subtle a drama as any that poets have ever sung, or playwrights fabled.
 Often, too, in size and weight, that life suppos'd obscure. For it isn't
 only the palpable [[motifs/stars|stars]]; astronomers say there are dark, or almost dark,
 unnotic'd orbs and suns, (like the dusky companions of Sirius, seven
-times as large as our own sun,) rolling through space, real and potent
+times as large as our own sun,) [[rolling]] through space, real and potent
 as any--perhaps the most real and potent. Yet none recks of them. In the
 bright lexicon we give the spreading heavens, they have not even names.
 Amid ceaseless sophistications all times, the [[motifs/soul|soul]] would seem to glance
@@ -22931,7 +22932,7 @@ in noiseless secret ecstasy and unremitted [[concepts/aspiration|aspiration]], i
 good practical life, in [[concepts/charity|charity]] to the poor and toleration to all. He
 said, "A man may keep the Sabbath, may belong to a church and attend all
 the observances, have regular family [[motifs/prayer|prayer]], keep a [[motifs/well|well]]-bound copy of
-the Hebrew Scriptures in a conspicuous place in his house, and yet not
+the Hebrew Scriptures in a conspicuous place in his [[house]], and yet not
 be a truly religious person at all." E. believ'd little in a church
 as organiz'd-even his own--with houses, ministers, or with salaries,
 creeds, Sundays, saints, Bibles, holy festivals, &c. But he believ'
@@ -22951,7 +22952,7 @@ important historical events, changes, and personages. Throughout Europe,
 and especially in what we call our Mother Country, men were unusually
 arous'd--(some would say demented.) It was a special age of the insanity
 of [[characters/witch|witch]]-trials and [[characters/witch|witch]]-hangings. In one year 60 were hung for
-witchcraft in one English county alone. It was peculiarly an age
+witchcraft in one English county [[Alone|alone]]. It was peculiarly an age
 of military-religious conflict. Protestantism and Catholicism were
 wrestling like giants for the mastery, straining every nerve. Only to
 think of it--that age! its events, persons--Shakspere just dead, (his
@@ -23146,7 +23147,7 @@ but with specialty of emergence and background--the ripening of the
 nineteenth century, the thought and fact and radiation of individuality,
 of [[settings/america|America]], the secession war, and showing the democratic conditions
 supplanting everything that insults them or impedes their aggregate way.
-Doubtless my poems illustrate (one of [[forms/novel|novel]] thousands to come for a long
+Doubtless my [[Poems|poems]] illustrate (one of [[forms/novel|novel]] thousands to come for a long
 period) those conditions; but "democratic art" will have to wait long
 before it is satisfactorily formulated and defined--if it ever is.
 
@@ -23173,8 +23174,8 @@ entertain'd and audited them; (for I have probably had an advantage in
 constructing from a central and unitary principle since the first, but
 at long intervals and stages--sometimes lapses of five or six years, or
 peace or war.) Ruskin, the Englishman, charges as a fearful and serious
-lack that my poems have no humor. A profound German critic complains
-that, compared with the luxuriant and [[motifs/well|well]]-accepted songs of the world,
+lack that my [[Poems|poems]] have no humor. A profound German critic complains
+that, compared with the luxuriant and [[motifs/well|well]]-accepted [[songs]] of the world,
 there is about my verse a certain coldness, severity, absence of spice,
 polish, or of consecutive meaning and plot. (The book is autobiographic
 at [[characters/bottom|bottom]], and may-be I do not exhibit and make ado about the stock
@@ -23189,7 +23190,7 @@ of serious account--and refused to aim at or accept anything less. If
 [[settings/america|America]] is only for the rule and fashion and small typicality of other
 lands (the rule of the _�tat-major_) it is not the land I take it for,
 and should to-day feel that my literary aim and theory had been blanks
-and misdirections. Strictly judged, most modern poems are but larger
+and misdirections. Strictly judged, most modern [[Poems|poems]] are but larger
 or smaller lumps of sugar, or slices of toothsome sweet cake--even the
 banqueters dwelling on those glucose flavors as a main part of the dish.
 Which perhaps leads to something: to have great heroic poetry we need
@@ -23205,7 +23206,7 @@ art"--to say nothing of its pinnacle. Only the production (and on the
 most copious scale) of loftiest moral, spiritual and heroic personal
 illustrations--a great native Literature headed with a Poetry stronger
 and sweeter than any yet. If there can be any such thing as a kosmic
-modern and original song, [[settings/america|America]] needs it, and is worthy of it.
+modern and original [[Song|song]], [[settings/america|America]] needs it, and is worthy of it.
 
 In my opinion to-day (bitter as it is to say so) the outputs through
 civilized nations everywhere from the great words Literature, Art,
@@ -23261,7 +23262,7 @@ our own--going first to oversea illustrations, and standing on them.
 Think of Byron, Burns, Shelley, Keats, (even first-raters, "the brothers
 of the radiant summit," as William O'Connor calls them,) as having done
 only their precursory and 'prentice work, and all their best and real
-poems being left yet unwrought, untouch'd. Is it difficult to imagine
+[[Poems|poems]] being left yet unwrought, untouch'd. Is it difficult to imagine
 ahead of us and them, evolv'd from them, poesy completer far than any
 they themselves fulfill'd? One has in his eye and mind some very large,
 very old, entirely sound and vital tree or vine, like certain hardy,
@@ -23276,7 +23277,7 @@ noble poetry--as of law, and of the profoundest wisdom and
 estheticism--is, (I would suggest,) from sane, completed, vital, capable
 old age.
 
-The final proof of song or personality is a sort of matured, accreted,
+The final proof of [[Song|song]] or personality is a sort of matured, accreted,
 superb, evoluted, almost divine, impalpable diffuseness and atmosphere
 or invisible magnetism, dissolving and embracing all--and not any
 special achievement of passion, [[concepts/pride|pride]], metrical form, [[forms/epigram|epigram]], plot,
@@ -23299,13 +23300,13 @@ gentlemen in them, and plush and rosewood, and ground-glass lamps, and
 mahogany and ebony furniture, and a silver inkstand and scented satin
 paper to write on.
 
-Whittier stands for morality (not in any all-accepting philosophic or
+Whittier stands for [[morality]] (not in any all-accepting philosophic or
 Hegelian sense, but) filter'd through a Puritanical or Quaker filter--is
 incalculably valuable as a genuine utterance, (and the finest,)--with
 many local and Yankee and _genre_ bits--all hued with anti-[[concepts/slavery|slavery]]
 coloring--(the _genre_ and anti-[[concepts/slavery|slavery]] contributions all precious--all
 help.) Whittier's is rather a grand figure, but pretty lean and
-ascetic--no Greek-not universal and composite enough (don't try--don't
+[[ascetic]]--no Greek-not universal and composite enough (don't try--don't
 wish to be) for ideal Americanism. Ideal Americanism would take the
 Greek spirit and law, and democratize and scientize and (thence) truly
 Christianize them for the whole, the globe, all [[concepts/history|history]], all ranks
@@ -23362,7 +23363,7 @@ and first-rate in [[concepts/beauty|beauty]] and originality always arouses some
 disagreeable and repulsive. Voltaire term'd the Shaksperean works "a
 huge dunghill"; [[characters/hamlet|Hamlet]] he described (to the Academy, whose members
 listen'd with approbation) as "the dream of a drunken savage, with a
-few flashes of beautiful thoughts." And not the Ferney sage alone;
+few flashes of beautiful thoughts." And not the Ferney sage [[Alone|alone]];
 the orthodox judges and law-givers of France, such as La Harpe, J. L.
 Geoffrey, and Chateaubriand, either join'd in Voltaire's verdict, or
 went further. Indeed the classicists and regulars there still hold to
@@ -23402,7 +23403,7 @@ too, and quite certainly repays the trouble--but I am old and indolent,
 and cannot study (and never did.)
 
 Grand as to-day's accumulative fund of poetry is, there is certainly
-something unborn, not yet come forth, different from anything
+something [[unborn]], not yet come forth, different from anything
 now formulated in any verse, or contributed by the past in any
 land--something waited for, craved, hitherto non-express'd. What it
 will be, and how, no one knows. It will probably have to prove itself by
@@ -23427,9 +23428,9 @@ young men's--who stand in awe and [[concepts/despair|despair]] before the immens
 and [[motifs/stars|stars]] already in the firmament. Even in the Iliad and Shakspere
 there is (is there not?) a certain humiliation produced to us by the
 absorption of them, unless we sound in equality, or above them,
-the songs due our own democratic era and surroundings, and the full
+the [[songs]] due our own democratic era and surroundings, and the full
 assertion of ourselves. And in vain (such is my opinion) will
-[[settings/america|America]] seek successfully to tune any superb national song unless the
+[[settings/america|America]] seek successfully to tune any superb national [[Song|song]] unless the
 heart-strings of the people start it from their own breasts--to be
 return'd and echoed there again.
 
@@ -23473,7 +23474,7 @@ nations. It is now certain that all this then inevitable train of
 calamity hung on arrogant and peremptory phrases in the prepared and
 written missive of the British Minister, to [[settings/america|America]], which the [[characters/queen|Queen]]
 (and Prince Albert latent) positively and promptly cancell'd; and which
-her firm attitude did alone actually erase and leave out, against all
+her firm attitude did [[Alone|alone]] actually erase and leave out, against all
 the other official prestige and [[settings/court|Court]] of St. James's. On such minor and
 personal incidents (so to call them,) often depend the great growths and
 turns of civilization. This moment of a woman and a [[characters/queen|queen]] surely swung
@@ -23543,7 +23544,7 @@ Think a moment what must, beyond peradventure, be the real permanent
 sub-bases, or lack of them. Books profoundly considered show a great
 nation more than anything else--more than laws or manners. (This is,
 of course, probably the deep-down meaning of that [[motifs/well|well]]-buried but
-ever-vital platitude, Let me sing the people's songs, and I don't care
+ever-vital platitude, Let me sing the people's [[songs]], and I don't care
 who makes their laws.) Books too reflect humanity _en masse_, and surely
 show them splendidly, or the reverse, and prove or celebrate their
 prevalent traits (these last the main things.) Homer grew out of and
@@ -23653,7 +23654,7 @@ high-pitch'd taunt of Margaret Fuller, forty years ago, still sounds in
 the air: "It does not follow, because the United States print and read
 more books, magazines, and newspapers than all the rest of the world,
 that they really have therefore a literature." For perhaps it is not
-alone the free schools and newspapers, nor railroads and factories,
+[[Alone|alone]] the free schools and newspapers, nor railroads and factories,
 nor all the iron, cotton, wheat, pork, and petroleum, nor the gold and
 silver, nor the surplus of a hundred or several hundred millions, nor
 the Fourteenth and Fifteenth Amendments, nor the last national census,
@@ -23676,17 +23677,17 @@ greatest law through [[concepts/nature|nature]], and of course in these States, 
 reach'd us markedly for and in our literature.
 
 In other writings I have tried to show how vital to any aspiring
-Nationality must ever be its autochthonic song, and how for a really
+Nationality must ever be its autochthonic [[Song|song]], and how for a really
 great people there can be no complete and glorious Name, short of
 emerging out of and even rais'd on such born poetic expression, coming
 from its own soil and [[motifs/soul|soul]], its area, spread, idiosyncrasies, and (like
 showers of rain, originally rising impalpably, distill'd from land and
 sea,) duly returning there again. Nor do I forget what we all owe to
 our ancestry; though perhaps we are apt to forgive and bear too much for
-that alone.
+that [[Alone|alone]].
 
 One part of the national American literatus's task is (and it is not an
-easy one) to treat the old hereditaments, legends, poems, theologies,
+easy one) to treat the old hereditaments, legends, [[Poems|poems]], theologies,
 and even customs, with fitting respect and toleration, and at the same
 [[motifs/time|time]] clearly understand and justify, and be devoted to and exploit our
 own day, its diffused light, [[concepts/freedom|freedom]], responsibilities, with all
@@ -23704,7 +23705,7 @@ and feudal, dressed may-be in late fashions. For novels and plays often
 the plots and surfaces are contemporary--but the spirit, even the fun,
 is morbid and effete.
 
-There is an essential difference between the Old and New. The poems of
+There is an essential difference between the Old and New. The [[Poems|poems]] of
 Asia and Europe are rooted in the long past. They celebrate man and his
 intellections and relativenesses as they have been. But [[settings/america|America]], in as
 high a strain as ever, is to sing them all as they are and are to be. (I
@@ -23716,7 +23717,7 @@ and appear at their height--as, consistently with modern civilization,
 they must be and should be. Then even these are but the inevitable
 precedents and providers for [[motifs/home|home]]-born, transcendent, democratic
 literature--to be shown in superior, more heroic, more spiritual, more
-emotional, personalities and songs. A national literature is, of
+emotional, personalities and [[songs]]. A national literature is, of
 course, in one sense, a great [[motifs/mirror|mirror]] or reflector. There must however
 be something before--something to reflect. I should say now, since the
 secession war, there has been, and to-day unquestionably exists, that
@@ -23770,7 +23771,7 @@ girls and boys dropping seed in the [[motifs/hill|hill]])--the gorgeous sight th
 July and August--the walk and observation early in the day--the cheery
 call of the robin, and the low whirr of [[motifs/insects|insects]] in the grass--the
 Western husking party, when ripe--the November moonlight gathering, and
-the calls, songs, laughter of the young fellows.
+the calls, [[songs]], laughter of the young fellows.
 
 
 
@@ -23786,7 +23787,7 @@ tree? Why not confide that these lines are pencill'd on the edge of
 a woody bank, with a glistening pond and creek seen through the trees
 south, and the corn we are writing about close at hand on the north?
 Why not put in the delicious scent of the "life everlasting" that yet
-lingers so profusely in every direction--the chromatic song of the one
+lingers so profusely in every direction--the chromatic [[Song|song]] of the one
 persevering locust (the insect is scarcer this fall and the past [[motifs/summer|summer]]
 than for many years) beginning slowly, rising and swelling to much
 emphasis, and then abruptly falling--so appropriate to the scene, so
@@ -23855,10 +23856,10 @@ He died; his many tragedies were fair,
 And fair his end, nor knew he any sorrow.
 
 Certain music, indeed, especially voluntaries by a good player, at
-twilight--or idle rambles alone by the shore, or over prairie or
+twilight--or idle rambles [[Alone|alone]] by the shore, or over prairie or
 on mountain [[motifs/road|road]], for that matter--favor the right mood. Words are
 difficult--even impossible. No [[concepts/doubt|doubt]] any one will recall ballads or
-songs or hymns (may-be instrumental performances) that have arous'd
+[[songs]] or hymns (may-be instrumental performances) that have arous'd
 so curiously, yet definitely, the thought of [[motifs/death|death]], the mystic, the
 after-realm, as no statement or sermon could--and brought it hovering
 near. A happy (to call it so) and easy [[motifs/death|death]] is at least as much a
@@ -23934,7 +23935,7 @@ Of celebrated people possessing this wonderful vocal power, patent to
 me, in former days, I should specify the contralto Alboni, Elias Hicks,
 Father Taylor, the tenor Bettini, Fanny Kemble, and the old actor Booth,
 and in private life many cases, often women. I sometimes [[concepts/wonder|wonder]] whether
-the best philosophy and poetry, or something like the best, after all
+the best [[philosophy]] and poetry, or something like the best, after all
 these centuries, perhaps waits to be rous'd out yet, or suggested, by
 the perfect physiological human voice.
 
@@ -24046,10 +24047,10 @@ them only--radiate the spiritual and heroic.
 
 Undoubtedly many points belonging to this [[forms/essay|essay]]--perhaps of the
 greatest necessity, fitness and importance to it--have been left out
-or forgotten. But the amount of the whole matter--poems, preface and
+or forgotten. But the amount of the whole matter--[[Poems|poems]], preface and
 everything--is merely to make one of those little punctures or eyelets
 the actors possess in the theatre-curtains to look out upon "the
-house"--one brief, honest, living glance.
+[[house]]"--one brief, honest, living glance.
 
 HEALTH, (OLD STYLE)
 
@@ -24104,7 +24105,7 @@ And bears in triumph back the shaggy spoil.
 Or, on his rugged range of towering hills,
 Turns the stiff glebe behind his hardy team;
 His wide-spread heaths to blithest measures tills,
-And boasts the joys of life are not a dream!
+And boasts the joys of life are not [[A Dream|a dream]]!
 
 Then to his airy hut, at eve, retires,
 Clasps to his open breast his buxom spouse,
@@ -24119,7 +24120,7 @@ And puts the cup of care contemptuous by.
 If, from some inland height, that, skirting, bears
 Its rude encroachments far into the vale,
 He views where poor dishonor'd [[concepts/nature|nature]] wears
-On her soft cheek alone the lily pale;
+On her soft cheek [[Alone|alone]] the lily pale;
 
 How will he scorn alliance with the race,
 Those aspen shoots that shiver at a breath;
@@ -24131,7 +24132,7 @@ To the bold cliff in bounding transports run,
 And stretch'd o'er many a wave his ardent eye,
 Embrace the enduring Sea-Boy as his son!
 
-Yes! thine alone--from [[motifs/pain|pain]], from sorrow free,
+Yes! thine [[Alone|alone]]--from [[motifs/pain|pain]], from sorrow free,
 The lengthen'd life with peerless joys replete;
 Then let me, Lord of [[settings/mountains|Mountains]], share with thee
 The hard, the early toil--the relaxation sweet.
@@ -24256,7 +24257,7 @@ much wanted something to do for occupation, consistent with my limping
 and paralyzed state. And now, since it came off, and since neither my
 hearers nor I myself really collaps'd at the aforesaid lecture, I intend
 to go up and down the land (in moderation,) seeking whom I may devour,
-with lectures, and reading of my own poems--short pulls, however--never
+with lectures, and reading of my own [[Poems|poems]]--short pulls, however--never
 exceeding an hour.
 
 _Crossing from Jersey [[motifs/city|city]], 5 to 6 P.M._--The [[motifs/city|city]] part of the North
@@ -24307,7 +24308,7 @@ least half of Quaker stock) I have obey'd the command to come and look
 at you, for a minute, and show myself, face to face; which is probably
 the best I can do. But I have felt no command to make a speech;
 and shall not therefore attempt any. All I have felt the imperative
-conviction to say I have already printed in my books of poems or prose;
+conviction to say I have already printed in my books of [[Poems|poems]] or prose;
 to which I refer any who may be curious. And so, hail and farewell.
 Deeply acknowledging this deep compliment, with my best respects and
 [[motifs/love|love]] to you personally--to Camden--to New-Jersey, and to all represented
@@ -24353,7 +24354,7 @@ day or any day. My subject this evening for forty or fifty minutes' talk
 is the [[motifs/death|death]] of this man, and how that [[motifs/death|death]] will really filter into
 [[settings/america|America]]. I am not going to tell you anything new; and it is doubtless
 nearly altogether because I ardently wish to commemorate the hour and
-[[concepts/martyrdom|martyrdom]] and name I am here. Oft as the rolling years bring back this
+[[concepts/martyrdom|martyrdom]] and name I am here. Oft as the [[rolling]] years bring back this
 hour, let it again, however briefly, be dwelt upon. For my own part I
 [[concepts/hope|hope]] and intend till my own dying day, whenever the 14th and 15th
 of April comes, to annually gather a few friends and hold its tragic
@@ -24421,7 +24422,7 @@ We cannot give a full report of this most remarkable talk and supper
 following significant bit of it.
 
 After the speaking, and just before the close, Mr. Whitman reverted to
-Colonel Ingersoll's tribute to his poems, pronouncing it the capsheaf
+Colonel Ingersoll's tribute to his [[Poems|poems]], pronouncing it the capsheaf
 of all commendation that he had ever receiv'd. Then, his mind still
 dwelling upon the Colonel's religious doubts, he went on to say that
 what he himself had in his mind when he wrote "[[motifs/leaves|Leaves]] of Grass" was not
@@ -24468,7 +24469,7 @@ ferries.) Edward Copeland (afterward Mayor) had a grocery store then at
 the corner of Front and Catharine streets.
 
 Presently we Whitmans all moved up to Tillary street, near Adams, where
-my father, who was a carpenter, built a house for himself and us all. It
+my father, who was a carpenter, built a [[house]] for himself and us all. It
 was from here I "assisted" the personal coming of Lafayette in 1824-'5
 to Brooklyn. He came over the Old Ferry, as the now Fulton Ferry (partly
 navigated quite up to that day by "[[motifs/horse|horse]] boats," though the first
@@ -24595,7 +24596,7 @@ born sample here in the 19th century of the flower and symbol of olden
 
 Note: [48] Born Jan. 2d, 1832. When grown, lived several years in
 Boston, and edited journals and magazines there--went about 1861 to
-Washington, D. C., and became a U.S. clerk, first in the Light-House
+Washington, D. C., and became a U.S. clerk, first in the Light-[[house|House]]
 Bureau, and then in the U.S. Life-Saving Service, in which branch he was
 Assistant Superintendent for many years--sicken'd in 1887--died there at
 Washington, May 9th, 1889.
@@ -24750,7 +24751,7 @@ _brogue_, beyond anything afterward.
 One of my big treats was the rendering at the old Park of Shakspere's
 "Tempest" in musical version. There was a very fine instrumental band,
 not numerous, but with a capital leader. Mrs. Austin was the _Ariel_,
-and Peter Richings the _Caliban_; both excellent. The drunken song of
+and Peter Richings the _Caliban_; both excellent. The drunken [[Song|song]] of
 the latter has probably been never equal'd. The perfect actor Clarke
 (old Clarke) was _Prospero_.
 
@@ -24760,11 +24761,11 @@ the sister, the red-cheek'd [[historical-references/new-england|New England]] ca
 plaintive and balladic--sometimes anti-[[concepts/slavery|slavery]], anti-calomel, and comic.
 There were concerts by Templeton, Russell, Dempster, the old Alleghanian
 band, and many others. Then we had lots of "negro minstrels," with
-capital character songs and voices. I often saw Rice the original "Jim
+capital character [[songs]] and voices. I often saw Rice the original "Jim
 Crow" at the old Park Theatre filling up the gap in some short bill--and
 the wild chants and dances were admirable--probably ahead of anything
 since. Every theatre had some superior voice, and it was common to
-give a favorite song between the acts. "The Sea" at the bijou Olympic,
+give a favorite [[Song|song]] between the acts. "The Sea" at the bijou Olympic,
 (Broadway near Grand,) was always welcome from a little Englishman named
 Edwin, a good balladist. At the Bowery the loves of "Sweet William,"
 
@@ -24775,7 +24776,7 @@ always bro't an encore, and sometimes a treble.
 I remember Jenny Lind and heard her (1850 I think) several times.
 She had the most brilliant, captivating, popular musical style and
 expression of any one known; (the canary, and several other sweet
-[[motifs/birds|birds]] are wondrous fine--but there is something in song that goes
+[[motifs/birds|birds]] are wondrous fine--but there is something in [[Song|song]] that goes
 deeper--isn't there?)
 
 The great "Egyptian Collection" was [[motifs/well|well]] up in Broadway, and I got quite
@@ -24863,7 +24864,7 @@ in the Bowery, nearly opposite the old theatre; fine [[motifs/animals|animals]] 
 riding, which I often witness'd. (Remember seeing near here, a young,
 fierce, splendid [[motifs/lion|lion]], presented by an African Barbary Sultan to
 President Andrew Jackson. The gift comprised also a lot of jewels, a
-fine steel sword, and an Arab stallion; and the [[motifs/lion|lion]] was made over to a
+fine steel [[Sword|sword]], and an Arab stallion; and the [[motifs/lion|lion]] was made over to a
 show-man.)
 
 If it is worth while I might add that there was a small but
@@ -24905,7 +24906,7 @@ Here are some of the names, for I w'd like to preserve them: Wm. M.
 and D.G. Rossetti, Lord Houghton, Edwd. Dowden, Mrs. Anne Gilchrist,
 Keningale Cook, Edwd. Carpenter, Therese Simpson, Rob't Buchanan, Alfred
 Tennyson, John Ruskin, C.G. Gates, E.T. Wilkinson, T.L. Warren, C.W.
-Reynell, W.B. Scott, A.G. Dew Smith, E.W. Gosse, T.W. Rolleston, Geo.
+Reynell, W.B. Scott, A.G. Dew [[smith|Smith]], E.W. Gosse, T.W. Rolleston, Geo.
 Wallis, Rafe Leicester, Thos. Dixon, N. MacColl, Mrs. Matthews, R.
 Hannah, Geo. Saintsbury, R.S. Watson, Godfrey and Vernon Lushington,
 G.H. Lewes, G.H. Boughton, Geo. Fraser, W.T. Arnold, A. Ireland, Mrs. M.
@@ -24916,7 +24917,7 @@ Brockie, Rev. A.B. Grosart, Lady Hardy, [[characters/hubert|Hubert]] Herkomer, F
 Hueffer, H.G. Dakyns, R.L. Nettleship, W.J. Stillman, Miss Blind, Madox
 Brown, H.R. Ricardo, Messrs. O'Grady and Tyrrel; and many, many more.
 
-Severely scann'd, it was perhaps no very great or vehement success; but
+Severely scann'd, it was perhaps no very great or vehement [[success]]; but
 the tide had palpably shifted at any rate, and the sluices were turn'd
 into my own veins and pockets. That emotional, audacious, open-handed,
 friendly-mouth'd just-opportune English action, I say, pluck'd me like a
@@ -24955,7 +24956,7 @@ works.
 
 
 But for a few portraiture or descriptive bits. To-day in the upper story
-of a little wooden house of two stories near the Delaware [[motifs/river|river]], east
+of a little wooden [[house]] of two stories near the Delaware [[motifs/river|river]], east
 shore, sixty miles up from the sea, is a rather large 20-by-20 low
 ceiling'd room something like a big old [[motifs/ship|ship]]'s cabin. The floor, three
 quarters of it with an ingrain carpet, is half cover'd by a deep litter
@@ -24983,7 +24984,7 @@ at the walls; (one [[motifs/well|well]]-bound and big box came by express lately
 Washington [[motifs/city|city]], after storage there for nearly twenty years.) Indeed
 the whole room is a sort of result and storage collection of my own past
 life. I have here various editions of my own writings, and sell them
-upon request; one is a big volume of complete poems and prose, 1000
+upon request; one is a big volume of complete [[Poems|poems]] and prose, 1000
 pages, autograph, essays, speeches, portraits from life, &c. Another is
 a little "[[motifs/leaves|Leaves]] of Grass," latest date, six portraits, morocco bound,
 in pocket-book form.
@@ -25002,7 +25003,7 @@ scent of old oak attach both to the chair and the person occupying it.
 But probably (even at the charge of parrot talk) I can give no more
 authentic brief [[forms/sketch|sketch]] than "from an old remembrance copy," where I have
 lately put myself on record as follows: Was born May 31, 1819, in my
-father's farm-house, at West Hills, L.I., [[settings/new-york|New York]] State. My parents'
+father's farm-[[house]], at West Hills, L.I., [[settings/new-york|New York]] State. My parents'
 folks mostly farmers and sailors--on my father's side, of English--on
 my mother's (Van Velsor's), from Hollandic immigration. There was, first
 and last, a large family of children; (I was the second.) We moved to
@@ -25023,7 +25024,7 @@ the Southern States.) After a [[motifs/time|time]], plodded back northward, up t
 Mississippi, the Missouri, &c., and around to, and by way of, the
 great lakes, Michigan, Huron and Erie, to Niagara Falls and Lower
 Canada--finally returning through Central [[settings/new-york|New York]], and down the Hudson.
-1852-'54--Occupied in house-building in Brooklyn. (For a little while of
+1852-'54--Occupied in [[house]]-building in Brooklyn. (For a little while of
 the first part of that [[motifs/time|time]] in printing a daily and weekly paper.)
 
 1855.--Lost my dear father this year by [[motifs/death|death]].... Commenced putting
@@ -25068,7 +25069,7 @@ Rocky [[settings/mountains|Mountains]], Canada, to [[settings/new-york|New York]
 and to Boston. But physical disability and the war-paralysis above
 alluded to to have settled upon me more and more the last year or so. Am
 now (1891) domicil'd, and have been for some years, in this little old
-cottage and lot in Mickle street, Camden, with a house-keeper and man
+cottage and lot in Mickle street, Camden, with a [[house]]-keeper and man
 [[characters/nurse|nurse]]. Bodily I am completely disabled, but still write for publication.
 I keep generally buoyant spirits, write often as there comes any lull
 in physical sufferings, get in the sun and down to the [[motifs/river|river]] whenever
@@ -25115,7 +25116,7 @@ course the attempted secession war.
 And was there not something grand, and an inside proof of perennial
 grandeur, in that war! We talk of our age's and the States'
 materialism--and it is too true. But how amid the whole sordidness--the
-entire devotion of [[settings/america|America]], at any price, to pecuniary success,
+entire devotion of [[settings/america|America]], at any price, to pecuniary [[success]],
 merchandise--disregarding all but business and profit--this war for
 a bare idea and abstraction--a mere, at [[characters/bottom|bottom]], heroic dream and
 reminiscence--burst forth in its great devouring flame and conflagration
@@ -25160,9 +25161,9 @@ The sectarian, church and doctrinal, follies, crimes, fanaticisms,
 aggregate and individual, so rife all thro' [[concepts/history|history]], are proofs of the
 radicalness and universality of the indestructible element of humanity's
 Religion, just as much as any, and are the other side of it. Just as
-disease proves health, and is the other side of it.... The philosophy of
+disease proves health, and is the other side of it.... The [[philosophy]] of
 Greece taught normality and the [[concepts/beauty|beauty]] of life. [[historical-references/christianity|Christianity]] teaches how
-to endure illness and [[motifs/death|death]]. I have [[concepts/wonder|wonder]]'d whether a third philosophy
+to endure illness and [[motifs/death|death]]. I have [[concepts/wonder|wonder]]'d whether a third [[philosophy]]
 fusing both, and doing full justice to both, might not be outlined.
 
 It will not be enough to say that no Nation ever achiev'd materialistic,
@@ -25229,7 +25230,7 @@ from first to last, (if I am to give impromptu a hint of the spinal
 marrow of the business, and sign it with my name,) to thoroughly possess
 the mind, [[motifs/memory|memory]], cognizance of the author himself, with everything
 beforehand--a full armory of concrete actualities, observations,
-humanity, past poems, ballads, facts, technique, war and peace,
+humanity, past [[Poems|poems]], ballads, facts, technique, war and peace,
 politics, North and South, East and West, nothing too large or too
 small, the sciences as far as possible--and above all [[settings/america|America]] and the
 present--after and out of which the subject of the poem, long or short,
@@ -25264,7 +25265,7 @@ Briefly, Whitman gives, as he puts it, 'a hint of the spinal marrow of
 the business,' not only of _Good-Bye my Fancy_, but also of the _Leaves
 of Grass_.
 
-"It was only after considerable persuasion on the editor's part that Mr.
+"It was only after considerable [[Persuasion|persuasion]] on the editor's part that Mr.
 Whitman consented to write the above. As a concise explanation of the
 poet's life-work it must have great value to his readers and admirers.
 After the critics 'have ciphered and ciphered out long,' they will

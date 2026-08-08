@@ -78,11 +78,11 @@ tags:
 
 **Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]], [[historical-references/irish-question|Irish Question]]
 
-**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]]
+**Archetypes:** Fool, Trickster
 
 **Settings:** [[settings/garden-(2)|Garden (2)]], [[settings/rural-england|Rural England]]
 
-**Characters:** [[characters/hastings|Hastings]], [[characters/the-duke|The Duke]], [[characters/doctor-grimthorpe|Doctor Grimthorpe]], [[characters/rev.-cyril-smith|Rev. Cyril Smith]], [[characters/morris-carleon|Morris Carleon]], [[characters/patricia-carleon|Patricia Carleon]], [[characters/the-conjurer|The Conjurer]]
+**Characters:** Hastings, The Duke, Doctor Grimthorpe, Rev. Cyril Smith, Morris Carleon, Patricia Carleon, The Conjurer
 
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/light-and-dark|Light and Dark]], [[motifs/music-and-song|Music and Song]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/great-house|Great House]]
 **Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/doubt|Doubt]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/temptation|Temptation]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/imagination|Imagination]], [[concepts/madness|Madness]], [[concepts/deception|Deception]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/satire-of-society|Satire of Society]], [[concepts/romantic-love|Romantic Love]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/spiritualism|Spiritualism]], [[concepts/history|History]]

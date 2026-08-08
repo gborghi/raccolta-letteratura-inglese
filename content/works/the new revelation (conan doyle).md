@@ -46,6 +46,6 @@ tags:
 **Themes & Concepts:** [[concepts/spiritualism|Spiritualism]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/immortality-of-the-soul|Immortality of the Soul]], [[concepts/rationalism|Rationalism]], [[concepts/revelation|Revelation]], [[concepts/providence|Providence]], [[concepts/history|History]]
 **Motifs:** [[motifs/soul|Soul]], [[motifs/ghosts|Ghosts]], [[motifs/death|Death]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[concepts/darwinism-(evolutionary-theory)|Darwinism (Evolutionary Theory)]], [[historical-references/first-world-war|First World War]], [[historical-references/catholic-church|Catholic Church]]
-**Archetypes:** [[archetypes/prophet|Prophet]]
+**Archetypes:** Prophet
 
 **Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

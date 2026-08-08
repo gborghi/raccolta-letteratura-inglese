@@ -71,7 +71,7 @@ tags:
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/humility|Humility]], [[concepts/paradox|Paradox]], [[concepts/pride|Pride]], [[concepts/original-sin|Original Sin]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/artist-and-society|Artist and Society]], [[concepts/democracy|Democracy]], [[concepts/family|Family]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/literary-criticism|Literary Criticism]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/irish-question|Irish Question]]
-**Characters:** [[characters/odysseus-ulysses|Odysseus Ulysses]], [[characters/rudyard-kipling|Rudyard Kipling]], [[historical-references/bernard-shaw|Bernard Shaw]], [[characters/h.-g.-wells|H. G. Wells]], [[characters/george-moore|George Moore]], [[characters/lowes-dickinson|Lowes Dickinson]], [[characters/mccabe|McCabe]], [[characters/whistler|Whistler]], [[characters/omar-khayyam|Omar Khayyam]]
+**Characters:** Odysseus Ulysses, Rudyard Kipling, [[historical-references/bernard-shaw|Bernard Shaw]], H. G. Wells, George Moore, Lowes Dickinson, McCabe, Whistler, Omar Khayyam
 
 ## Testo integrale / Full text
 

@@ -33,7 +33,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/eternal-return|Eternal Return]]
-**Archetypes:** [[archetypes/prophet|Prophet]]
+**Archetypes:** Prophet
 **Motifs:** [[motifs/city|City]], [[motifs/light-and-dark|Light and Dark]], [[motifs/dust|Dust]], [[motifs/bells|Bells]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

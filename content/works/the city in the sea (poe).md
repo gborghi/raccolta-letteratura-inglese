@@ -29,7 +29,7 @@ tags:
 **Motifs:** [[motifs/death|Death]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/melancholy|Melancholy]], [[concepts/apocalypse|Apocalypse]]
 **Forms & Genres:** [[forms/lyric|Lyric]]
-**Characters:** [[characters/death-personified|Death Personified]]
+**Characters:** Death Personified
 
 ## Testo integrale / Full text
 

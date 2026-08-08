@@ -18,92 +18,92 @@ tags:
 - [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
 - [[works/the-defendant-(chesterton)|The Defendant (Chesterton)]]
 - [[works/strange-city-(chesterton)|strange-city (Chesterton)]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#196_alcaeus_to_sappho|ALCAEUS TO SAPPHO (Coleridge)]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#406_an_experiment_for_a_metre|AN EXPERIMENT FOR A METRE (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#019_genevieve|GENEVIEVE (Coleridge)]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#290_grove_highgate_song_on_hearing_a_song_in_praise_of_a_ladys_beauty|GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY (Coleridge)]]
-- [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#355_poem_upon_nothing|POEM UPON NOTHING (Coleridge)]]
-- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#043_the_rose|THE ROSE (Coleridge)]]
-- [[testi/coleridge/atomized/friendship-tears#396_the_three_sorts_of_friends|THE THREE SORTS OF FRIENDS (Coleridge)]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#271_the_two_founts|THE TWO FOUNTS (Coleridge)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#338_to_a_vain_young_lady|TO A VAIN YOUNG LADY (Coleridge)]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#064_to_a_young_lady_with_a_poem_on_the_french_revolution|TO A YOUNG LADY WITH A POEM ON THE FRENCH REVOLUTION (Coleridge)]]
-- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#066_to_miss_brunton|TO MISS BRUNTON (Coleridge)]]
-- [[testi/coleridge/atomized/dreams-moon#015_to_the_evening_star|TO THE EVENING STAR (Coleridge)]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#065_translation_of_wranghams_hendecasyllabi_ad_bruntonam_e_granta_exituram_kal_octmd|TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ KAL. OCT.MDCCXC (Coleridge)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#1068_further_in_summer_than_the_birds|1068. Further in Summer than the Birds (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#1131_the_merchant_of_the_picturesque|1131. The Merchant of the Picturesque (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#1154_a_full_fed_rose_on_meals_of_tint|1154. A full fed Rose on meals of Tint (Dickinson)]]
-- [[testi/dickinson/atomized/death-silence-bells#0120_if_this_is_fading|120. If this is fading (Dickinson)]]
-- [[testi/dickinson/atomized/alienation-outsider-exile#1275_the_spider_as_an_artist|1275. The Spider as an Artist (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1315_which_is_the_best_the_moon_or_the_crescent|1315. Which is the best — the Moon or the Crescent (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#0137_flowers_well_if_anybody|137. Flowers — Well — if anybody (Dickinson)]]
-- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1434_go_not_too_near_a_house_of_rose|1434. Go not too near a House of Rose — (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1463_a_route_of_evanescence|1463. A Route of Evanescence (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1466_one_of_the_ones_that_midas_touched|1466. One of the ones that Midas touched (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1480_the_fascinating_chill_that_music_leaves|1480. The fascinating chill that music leaves (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#1540_as_imperceptibly_as_grief|1540. As imperceptibly as Grief (Dickinson)]]
-- [[testi/dickinson/atomized/friendship-tears#1568_to_see_her_is_a_picture|1568. To see her is a Picture — (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1585_the_bird_her_punctual_music_brings|1585. The Bird her punctual music brings (Dickinson)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#1762_were_natural_mortal_lady|1762. Were natural mortal lady (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1775_the_earth_has_many_keys|1775. The earth has many keys, (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0204_a_slash_of_blue|204. A slash of Blue — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0219_she_sweeps_with_many-colored_brooms|219. She sweeps with many-colored Brooms — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0228_blazing_in_gold_and_quenching_in_purple|228. Blazing in Gold and quenching in Purple (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0291_how_the_old_mountains_drip_with_sunset|291. How the old Mountains drip with Sunset (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0294_the_doomed_regard_the_sunrise|294. The Doomed — regard the Sunrise (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0304_the_day_came_slow_till_five_oclock|304. The Day came slow — till Five o'clock — (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0326_i_cannot_dance_upon_my_toes|326. I cannot dance upon my Toes — (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0328_a_bird_came_down_the_walk|328. A Bird came down the Walk — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0334_all_the_letters_i_can_write|334. All the letters I can write (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0374_i_went_to_heaven|374. I went to Heaven — (Dickinson)]]
-- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0397_when_diamonds_are_a_legend|397. When Diamonds are a Legend, (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#0404_how_many_flowers_fail_in_wood|404. How many Flowers fail in Wood — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0449_i_died_for_beauty_but_was_scarce|449. I died for Beauty — but was scarce (Dickinson)]]
-- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0505_i_would_not_paint_a_picture|505. I would not paint — a picture — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0516_beauty_be_not_caused_it_is|516. Beauty — be not caused — It Is — (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0526_to_hear_an_oriole_sing|526. To hear an Oriole sing (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#0541_some_such_butterfly_be_seen|541. Some such Butterfly be seen (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0571_must_be_a_woe|571. Must be a Woe — (Dickinson)]]
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0572_delight_becomes_pictorial|572. Delight — becomes pictorial — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0627_the_tint_i_cannot_take_is_best|627. The Tint I cannot take — is best — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0628_they_called_me_to_the_window_for|628. They called me to the Window, for (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0634_youll_know_her_by_her_foot|634. You'll know Her — by Her Foot — (Dickinson)]]
-- [[testi/dickinson/atomized/seasons-winter-autumn#0656_the_name_of_it_is_autumn|656. The name — of it — is Autumn — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0658_whole_gulfs_of_red_and_fleets_of_red|658. Whole Gulfs — of Red, and Fleets — of Red — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0666_ah_teneriffe|666. Ah, Teneriffe! (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#0667_bloom_upon_the_mountain_stated|667. Bloom upon the Mountain — stated — (Dickinson)]]
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0671_she_dwelleth_in_the_ground|671. She dwelleth in the Ground — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0673_the_love_a_life_can_show_below|673. The Love a Life can show Below (Dickinson)]]
-- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0691_would_you_like_summer_taste_of_ours|691. Would you like summer Taste of ours. (Dickinson)]]
-- [[testi/dickinson/atomized/sea-water#0693_shells_from_the_coast_mistaking|693. Shells from the Coast mistaking — (Dickinson)]]
-- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0697_i_could_bring_you_jewels_had_i_a_mind_to|697. I could bring You Jewels — had I a mind to — (Dickinson)]]
-- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0699_the_judge_is_like_the_owl|699. The Judge is like the Owl — (Dickinson)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0737_the_moon_was_but_a_chin_of_gold|737. The Moon was but a Chin of Gold (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0748_autumn_overlooked_my_knitting|748. Autumn — overlooked my Knitting — (Dickinson)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#0776_the_color_of_a_queen_is_this|776. The Color of a Queen, is this — (Dickinson)]]
-- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0794_a_drop_fell_on_the_apple_tree|794. A Drop Fell on the Apple Tree — (Dickinson)]]
-- [[testi/dickinson/atomized/flowers-spring-garden#0805_this_bauble_was_preferred_of_bees|805. This Bauble was preferred of Bees — (Dickinson)]]
-- [[testi/dickinson/atomized/faith-providence-divine-love#0968_fitter_to_see_him_i_may_be|968. Fitter to see Him, I may be (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#0978_it_bloomed_and_dropt_a_single_noon|978. It bloomed and dropt, a Single Noon — (Dickinson)]]
-- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#109_on_a_portrait|On a Portrait (Eliot)]]
+- [[works/alcaeus-to-sappho-(coleridge)|ALCAEUS TO SAPPHO (Coleridge)]]
+- [[works/an-experiment-for-a-metre-(coleridge)|AN EXPERIMENT FOR A METRE (Coleridge)]]
+- [[works/genevieve-(coleridge)|GENEVIEVE (Coleridge)]]
+- [[works/grove,-highgate-song,-on-hearing-a-song-in-praise-of-a-lady’s-beauty-(coleridge)|GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY (Coleridge)]]
+- [[works/poem-upon-nothing-(coleridge)|POEM UPON NOTHING (Coleridge)]]
+- [[works/the-rose-(coleridge)|THE ROSE (Coleridge)]]
+- [[works/the-three-sorts-of-friends-(coleridge)|THE THREE SORTS OF FRIENDS (Coleridge)]]
+- [[works/the-two-founts-(coleridge)|THE TWO FOUNTS (Coleridge)]]
+- [[works/to-a-vain-young-lady-(coleridge)|TO A VAIN YOUNG LADY (Coleridge)]]
+- [[works/to-a-young-lady-with-a-poem-on-the-french-revolution-(coleridge)|TO A YOUNG LADY WITH A POEM ON THE FRENCH REVOLUTION (Coleridge)]]
+- [[works/to-miss-brunton-(coleridge)|TO MISS BRUNTON (Coleridge)]]
+- [[works/to-the-evening-star-(coleridge)|TO THE EVENING STAR (Coleridge)]]
+- [[works/translation-of-wrangham’s-‘hendecasyllabi-ad-bruntonam-e-granta-exituram’-kal.-oct.mdccxc-(coleridge)|TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ KAL. OCT.MDCCXC (Coleridge)]]
+- 1068. Further in Summer than the Birds (Dickinson)
+- 1131. The Merchant of the Picturesque (Dickinson)
+- 1154. A full fed Rose on meals of Tint (Dickinson)
+- 120. If this is fading (Dickinson)
+- 1275. The Spider as an Artist (Dickinson)
+- 1315. Which is the best — the Moon or the Crescent (Dickinson)
+- 137. Flowers — Well — if anybody (Dickinson)
+- 1434. Go not too near a House of Rose — (Dickinson)
+- 1463. A Route of Evanescence (Dickinson)
+- 1466. One of the ones that Midas touched (Dickinson)
+- 1480. The fascinating chill that music leaves (Dickinson)
+- 1540. As imperceptibly as Grief (Dickinson)
+- 1568. To see her is a Picture — (Dickinson)
+- 1585. The Bird her punctual music brings (Dickinson)
+- 1762. Were natural mortal lady (Dickinson)
+- 1775. The earth has many keys, (Dickinson)
+- 204. A slash of Blue — (Dickinson)
+- 219. She sweeps with many-colored Brooms — (Dickinson)
+- 228. Blazing in Gold and quenching in Purple (Dickinson)
+- 291. How the old Mountains drip with Sunset (Dickinson)
+- 294. The Doomed — regard the Sunrise (Dickinson)
+- 304. The Day came slow — till Five o'clock — (Dickinson)
+- 326. I cannot dance upon my Toes — (Dickinson)
+- 328. A Bird came down the Walk — (Dickinson)
+- 334. All the letters I can write (Dickinson)
+- 374. I went to Heaven — (Dickinson)
+- 397. When Diamonds are a Legend, (Dickinson)
+- 404. How many Flowers fail in Wood — (Dickinson)
+- 449. I died for Beauty — but was scarce (Dickinson)
+- 505. I would not paint — a picture — (Dickinson)
+- 516. Beauty — be not caused — It Is — (Dickinson)
+- 526. To hear an Oriole sing (Dickinson)
+- 541. Some such Butterfly be seen (Dickinson)
+- 571. Must be a Woe — (Dickinson)
+- 572. Delight — becomes pictorial — (Dickinson)
+- 627. The Tint I cannot take — is best — (Dickinson)
+- 628. They called me to the Window, for (Dickinson)
+- 634. You'll know Her — by Her Foot — (Dickinson)
+- 656. The name — of it — is Autumn — (Dickinson)
+- 658. Whole Gulfs — of Red, and Fleets — of Red — (Dickinson)
+- 666. Ah, Teneriffe! (Dickinson)
+- 667. Bloom upon the Mountain — stated — (Dickinson)
+- 671. She dwelleth in the Ground — (Dickinson)
+- 673. The Love a Life can show Below (Dickinson)
+- 691. Would you like summer Taste of ours. (Dickinson)
+- 693. Shells from the Coast mistaking — (Dickinson)
+- 697. I could bring You Jewels — had I a mind to — (Dickinson)
+- 699. The Judge is like the Owl — (Dickinson)
+- 737. The Moon was but a Chin of Gold (Dickinson)
+- 748. Autumn — overlooked my Knitting — (Dickinson)
+- 776. The Color of a Queen, is this — (Dickinson)
+- 794. A Drop Fell on the Apple Tree — (Dickinson)
+- 805. This Bauble was preferred of Bees — (Dickinson)
+- 968. Fitter to see Him, I may be (Dickinson)
+- 978. It bloomed and dropt, a Single Noon — (Dickinson)
+- [[works/on-a-portrait-(eliot)|On a Portrait (Eliot)]]
 - [[works/endymion---a-poetic-romance-(keats)|Endymion - A Poetic Romance (Keats)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#028_happy_is_england_i_could_be_content|HAPPY IS ENGLAND! I COULD BE CONTENT (Keats)]]
+- [[works/happy-is-england!-i-could-be-content-(keats)|HAPPY IS ENGLAND! I COULD BE CONTENT (Keats)]]
 - [[works/hyperion-(keats)|Hyperion (Keats)]]
-- [[testi/keats/atomized/friendship-tears#007_imitation_of_spenser|IMITATION OF SPENSER (Keats)]]
+- [[works/imitation-of-spenser-(keats)|IMITATION OF SPENSER (Keats)]]
 - [[works/lamia-(keats)|Lamia (Keats)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#064_lines|Lines (Keats)]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#073_lines_on_seeing_a_lock_of_miltons_hair|Lines On Seeing a Lock of Milton’s Hair (Keats)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#084_o_were_i_one_of_the_olympian_twelve|O! Were I one of the Olympian twelve (Keats)]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#033_ode_on_a_grecian_urn|ODE ON A GRECIAN URN (Keats)]]
-- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#040_ode_on_melancholy|ODE ON MELANCHOLY (Keats)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#087_oh_i_am_frightend_with_most_hateful_thoughts|Oh, I am frighten’d with most hateful thoughts! (Keats)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#098_sonnet_on_visiting_the_tomb_of_burns|Sonnet on Visiting the Tomb of Burns (Keats)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#080_sonnet_written_in_answer_to_a_sonnet_ending_thus|Sonnet Written in Answer to a Sonnet Ending thus (Keats)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#005_to|TO (Keats)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#017_to_g_a_w|To G. A. W (Keats)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#051_to_the_ladies_who_saw_me_crownd|To the Ladies who Saw Me Crown’d (Keats)]]
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#110_translation_from_a_sonnet_of_ronsard|Translation from a Sonnet of Ronsard (Keats)]]
+- [[works/lines-(keats)|Lines (Keats)]]
+- [[works/lines-on-seeing-a-lock-of-milton’s-hair-(keats)|Lines On Seeing a Lock of Milton’s Hair (Keats)]]
+- [[works/o!-were-i-one-of-the-olympian-twelve-(keats)|O! Were I one of the Olympian twelve (Keats)]]
+- [[works/ode-on-a-grecian-urn-(keats)|ODE ON A GRECIAN URN (Keats)]]
+- [[works/ode-on-melancholy-(keats)|ODE ON MELANCHOLY (Keats)]]
+- [[works/oh,-i-am-frighten’d-with-most-hateful-thoughts!-(keats)|Oh, I am frighten’d with most hateful thoughts! (Keats)]]
+- [[works/sonnet-on-visiting-the-tomb-of-burns-(keats)|Sonnet on Visiting the Tomb of Burns (Keats)]]
+- [[works/sonnet-written-in-answer-to-a-sonnet-ending-thus-(keats)|Sonnet Written in Answer to a Sonnet Ending thus (Keats)]]
+- [[works/to-(keats)|TO (Keats)]]
+- [[works/to-g.-a.-w-(keats)|To G. A. W (Keats)]]
+- [[works/to-the-ladies-who-saw-me-crown’d-(keats)|To the Ladies who Saw Me Crown’d (Keats)]]
+- [[works/translation-from-a-sonnet-of-ronsard-(keats)|Translation from a Sonnet of Ronsard (Keats)]]
 - [[works/a-valentine-(poe)|A Valentine (Poe)]]
 - [[works/al-aaraaf-(poe)|Al Aaraaf (Poe)]]
 - [[works/evening-star-(poe)|Evening Star (Poe)]]
@@ -122,46 +122,46 @@ tags:
 - [[works/to-isadore-(poe)|To Isadore (Poe)]]
 - [[works/to-the-river---(poe)|To the River-- (Poe)]]
 - [[works/a-lover’s-complaint-(shakespeare)|A Lover’s Complaint (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_001|Sonnet 1 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_010|Sonnet 10 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_103|Sonnet 103 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_104|Sonnet 104 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_106|Sonnet 106 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_127|Sonnet 127 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_130|Sonnet 130 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_132|Sonnet 132 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_017|Sonnet 17 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_018|Sonnet 18 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_019|Sonnet 19 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_002|Sonnet 2 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_020|Sonnet 20 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_024|Sonnet 24 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_003|Sonnet 3 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_004|Sonnet 4 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_041|Sonnet 41 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_005|Sonnet 5 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_053|Sonnet 53 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_054|Sonnet 54 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_006|Sonnet 6 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_062|Sonnet 62 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_065|Sonnet 65 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_067|Sonnet 67 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_068|Sonnet 68 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_069|Sonnet 69 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_070|Sonnet 70 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_079|Sonnet 79 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_082|Sonnet 82 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_083|Sonnet 83 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_084|Sonnet 84 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_009|Sonnet 9 (Shakespeare)]]
-- [[testi/shakespeare/atomized/sonnets#sonnet_099|Sonnet 99 (Shakespeare)]]
+- Sonnet 1 (Shakespeare)
+- Sonnet 10 (Shakespeare)
+- Sonnet 103 (Shakespeare)
+- Sonnet 104 (Shakespeare)
+- Sonnet 106 (Shakespeare)
+- Sonnet 127 (Shakespeare)
+- Sonnet 130 (Shakespeare)
+- Sonnet 132 (Shakespeare)
+- Sonnet 17 (Shakespeare)
+- Sonnet 18 (Shakespeare)
+- Sonnet 19 (Shakespeare)
+- Sonnet 2 (Shakespeare)
+- Sonnet 20 (Shakespeare)
+- Sonnet 24 (Shakespeare)
+- Sonnet 3 (Shakespeare)
+- Sonnet 4 (Shakespeare)
+- Sonnet 41 (Shakespeare)
+- Sonnet 5 (Shakespeare)
+- Sonnet 53 (Shakespeare)
+- Sonnet 54 (Shakespeare)
+- Sonnet 6 (Shakespeare)
+- Sonnet 62 (Shakespeare)
+- Sonnet 65 (Shakespeare)
+- Sonnet 67 (Shakespeare)
+- Sonnet 68 (Shakespeare)
+- Sonnet 69 (Shakespeare)
+- Sonnet 70 (Shakespeare)
+- Sonnet 79 (Shakespeare)
+- Sonnet 82 (Shakespeare)
+- Sonnet 83 (Shakespeare)
+- Sonnet 84 (Shakespeare)
+- Sonnet 9 (Shakespeare)
+- Sonnet 99 (Shakespeare)
 - [[works/various-poems-(shakespeare)|VARIOUS POEMS (Shakespeare)]]
 - [[works/venus-and-adonis-(shakespeare)|VENUS AND ADONIS (Shakespeare)]]
-- [[testi/whitman/atomized/stars-night-military-camp#338_a_prairie_sunset|A Prairie Sunset (Whitman)]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#225_italian_music_in_dakota|Italian Music in Dakota (Whitman)]]
-- [[testi/whitman/atomized/nature-book-of-nature-natural-order#311_out_of_may_s_shows_selected|Out of May’s Shows Selected (Whitman)]]
-- [[testi/whitman/atomized/sea-water#295_paumanok|Paumanok (Whitman)]]
-- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#258_to_a_locomotive_in_winter|To a Locomotive in Winter (Whitman)]]
+- [[works/a-prairie-sunset-(whitman)|A Prairie Sunset (Whitman)]]
+- [[works/italian-music-in-dakota-(whitman)|Italian Music in Dakota (Whitman)]]
+- [[works/out-of-may’s-shows-selected-(whitman)|Out of May’s Shows Selected (Whitman)]]
+- [[works/paumanok-(whitman)|Paumanok (Whitman)]]
+- [[works/to-a-locomotive-in-winter-(whitman)|To a Locomotive in Winter (Whitman)]]
 - [[works/de-profundis-(wilde)|De Profundis (Wilde)]]
 - [[works/pen,-pencil-and-poison-(wilde)|Pen, Pencil and Poison (Wilde)]]
 - [[works/the-birthday-of-the-infanta-(wilde)|The Birthday of the Infanta (Wilde)]]

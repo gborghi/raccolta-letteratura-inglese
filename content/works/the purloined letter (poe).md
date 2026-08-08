@@ -31,7 +31,7 @@ tags:
 
 ## Connections
 
-**Characters:** [[characters/c.-auguste-dupin|C. Auguste Dupin]]
+**Characters:** C. Auguste Dupin
 
 ## Testo integrale / Full text
 
